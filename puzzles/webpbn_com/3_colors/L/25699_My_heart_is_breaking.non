@@ -1,0 +1,81 @@
+by "Eva Aldrich (vevaldrich)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Eva Aldrich"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 30
+id 25699
+link "https://webpbn.com/play.cgi?id=25699"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "My heart is breaking"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 4
+black 7
+black 9
+black 9 blue 4 blue 5 blue 4
+black 9 blue 1 blue 1 blue 1 blue 1 blue 1
+black 9 blue 4 blue 1 blue 4
+black 8 blue 3 blue 1 blue 1
+black 9 blue 1 blue 2 blue 1 blue 1
+black 9 blue 1 blue 1 blue 5 blue 1
+black 8
+black 6
+black 6
+black 6
+black 5
+black 4
+black 3
+black 2
+black 1 black 2 black 1
+black 16
+black 16
+blue 1 black 15
+blue 3 black 15
+blue 5 black 14
+blue 5 black 13
+blue 5 black 12
+blue 5 black 9
+blue 3 black 7
+0
+
+columns
+0
+0
+black 7
+black 9
+black 12
+black 13
+black 14 blue 4
+black 15 blue 6
+black 15 blue 7
+black 16 blue 6
+black 4 black 3 black 6 blue 4
+black 1
+black 2
+black 3
+black 4
+blue 6 black 5
+blue 1 blue 2 black 6
+blue 1 blue 3 black 8
+blue 3 blue 2 black 8
+black 8
+blue 1 blue 1 black 9
+blue 1 blue 1 black 9
+blue 6 black 10
+blue 1 blue 1 black 9
+blue 1 blue 1 black 9
+black 9
+blue 6 black 9
+blue 1 blue 1 black 7
+blue 1 blue 1 black 4
+blue 3

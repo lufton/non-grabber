@@ -1,0 +1,57 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Mar 30, 2011"
+description "Matt the Katt told Mr.B. he saw Hennifer enjoying a glass of Chateaux de Chausoleil with Pierre the Rooster.Even though he knows Pierre is light in the loafers,he also knows he has this certain Je ne sais quoi about him that all the hens seem to like.Hennifer also has mentioned what a wonderful sense of humour Pierre has. Mr.B. decided to buff up by lifting weights and he's been seen jogging around the pen.He's puffing up his chest and doing a mating dance to try and impress Hennifer."
+difficulty 2.25
+height 20
+id 13093
+link "https://webpbn.com/play.cgi?id=13093"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Mr.B. feels threatened."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1
+black 1 red 1 black 1
+black 9
+black 4 blue 1 black 1 blue 1 black 4
+black 3 black 3 black 3
+black 2 red 1 black 2
+black 3 red 1 black 3
+black 2 black 2
+black 4 black 4
+black 6 black 6
+black 5 black 5
+black 2 black 5 black 2
+black 2 black 5 black 2
+black 2 black 5 black 2
+black 2 black 7 black 2
+black 11
+black 2 black 3 black 2
+red 2 black 1 red 2
+red 2 red 2
+red 1 red 1 red 1 red 1
+
+columns
+black 1
+black 3 black 2 black 4
+black 13 red 1
+black 3 black 5 black 2 red 2
+black 2 black 3 black 3 red 2
+black 2 black 7 red 1
+black 2 blue 1 black 1 black 7
+red 2 black 3 red 2 black 7
+black 2 blue 1 black 1 black 7
+black 2 black 7 red 1
+black 2 black 3 black 3 red 2
+black 3 black 5 black 2 red 2
+black 13 red 1
+black 3 black 2 black 4
+black 1

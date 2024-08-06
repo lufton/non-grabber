@@ -1,0 +1,31 @@
+by "Fran (rmm)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Fran"
+date "Dec 17, 2009"
+description "A tiny umbrella :)"
+difficulty 1.25
+height 5
+id 7429
+link "https://webpbn.com/play.cgi?id=7429"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "It might rain!"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 3
+red 5
+black 1
+black 2
+
+columns
+red 1
+red 2
+red 3 black 2
+red 2 black 1
+red 1

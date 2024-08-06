@@ -1,0 +1,88 @@
+by "Oskar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/16/05"
+height 32
+id 16045
+link "https://www.griddlers.net/nonogram/-/g/16045"
+medium_time "0:21:34"
+points 28527
+popularity 74.19
+title "Giraffe"
+width 32
+
+color a ffffff
+color b 000000
+color c ff9900
+color d 996600
+color e 663300
+color f cc9900
+color h fffe00
+
+rows
+b 2 b 2
+b 1 c 2 b 1 b 1 c 2 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+b 4 b 1 c 2 b 1 b 1 c 1 b 1 b 4
+b 1 d 2 c 2 b 1 b 2 c 1 b 1 b 2 b 2 c 1 d 2 h 1 b 1
+b 1 h 2 d 1 c 2 b 1 b 1 c 1 b 1 b 3 b 1 c 1 b 1 b 1 c 2 d 1 h 3 b 1
+b 1 h 3 d 1 c 2 b 1 b 1 c 2 b 1 c 3 b 1 c 1 b 1 b 1 c 2 d 1 h 4 b 1
+b 1 h 4 d 1 c 1 b 1 b 1 c 7 b 2 c 2 d 1 h 5 b 1
+b 1 h 4 d 1 c 1 b 1 b 1 c 7 b 1 c 2 d 1 h 5 b 1
+b 3 h 1 d 1 c 2 b 1 c 1 e 2 c 2 e 2 c 4 b 6
+b 1 c 4 e 1 c 2 e 2 c 2 e 1 c 3 b 1
+b 1 c 3 d 5 e 2 d 5 c 2 b 1
+b 1 c 3 d 3 b 1 e 3 b 1 e 3 f 1 c 3 b 1
+b 1 c 6 d 1 d 1 c 1 d 1 d 1 c 6 b 1
+b 1 c 3 e 1 c 3 d 2 c 3 d 2 c 3 d 1 c 4 b 1
+b 1 c 4 e 1 c 12 d 1 c 4 b 1
+b 1 c 4 e 1 c 13 e 1 c 3 b 1
+b 1 c 2 e 1 c 15 e 1 c 1 b 1
+b 1 c 1 e 1 c 16 b 1
+b 1 c 6 e 1 d 1 c 2 e 1 d 1 c 5 b 1
+b 1 c 5 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 5 b 1
+b 1 c 4 d 1 e 1 c 2 d 1 e 1 c 5 b 1
+b 1 c 13 b 2
+b 2 c 8 b 4
+b 8 c 2 b 1
+b 1 d 3 c 1 d 2 b 1
+b 1 e 1 d 1 c 2 e 1 d 1 b 1
+b 1 c 5 e 1 b 1
+b 1 c 2 d 2 c 2 b 1
+b 1 c 1 d 2 e 1 c 2 b 1
+b 1 c 6 b 1
+b 1 c 2 d 1 c 3 b 1
+
+columns
+0
+b 4
+b 1 d 1 h 3 b 1
+b 1 d 1 h 4 b 1 b 4
+b 1 c 1 d 1 h 3 b 1 b 1 c 4 b 1
+b 1 c 2 d 1 h 2 b 1 b 1 c 6 b 1
+b 1 c 2 d 1 h 2 b 1 c 8 b 2
+b 3 b 1 c 2 d 2 c 4 e 1 c 2 e 2 c 2 b 2
+b 1 c 3 b 1 b 2 c 4 d 1 c 2 e 2 c 6 b 1
+b 1 c 3 b 1 b 1 c 2 d 2 c 10 b 1
+b 3 c 1 b 2 b 1 c 1 d 3 c 10 b 1
+b 1 c 2 b 2 c 1 e 1 d 1 d 1 c 9 b 1
+b 1 c 3 e 1 c 1 d 1 b 1 d 1 c 5 e 1 d 1 c 2 b 1
+b 1 c 2 e 1 c 1 d 1 e 1 d 1 c 5 e 1 c 1 e 1 c 2 b 8
+b 1 c 4 e 3 c 6 d 1 e 1 c 3 b 1 d 1 e 1 c 5
+b 1 c 4 e 3 d 1 c 10 b 1 d 2 c 2 d 1 c 2
+b 1 c 3 e 1 c 1 d 1 b 1 d 1 c 5 e 1 d 1 c 2 b 1 d 1 c 2 d 2 c 1 d 1
+b 1 c 2 e 1 c 1 d 1 e 1 d 1 c 4 e 1 c 1 e 1 c 2 b 1 c 3 d 1 e 1 c 2
+b 1 c 4 e 1 d 1 e 1 d 1 c 5 d 1 e 1 c 2 b 1 c 1 d 1 e 1 c 5
+b 4 c 1 b 3 c 2 d 1 e 1 c 10 b 1 c 1 d 2 e 1 c 4
+b 1 c 3 b 2 b 1 c 3 d 1 f 1 c 10 b 9
+b 1 c 2 b 1 b 1 c 7 d 2 c 6 b 2
+b 2 b 1 c 2 d 1 b 2 c 5 e 1 c 5 b 1
+b 1 c 2 d 1 h 1 b 1 b 1 c 5 e 1 c 3 b 1
+b 1 c 1 d 1 h 2 b 1 b 1 c 5 b 3
+b 1 c 1 d 1 h 3 b 1 b 1 c 3 b 1
+b 1 d 1 h 4 b 1 b 3
+b 1 d 1 h 4 b 1
+b 1 h 4 b 1
+b 4
+0
+0

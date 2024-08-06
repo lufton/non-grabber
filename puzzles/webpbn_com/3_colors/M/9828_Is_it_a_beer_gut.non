@@ -1,0 +1,65 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Aug  2, 2010"
+description "NO... it's a pot belly stove!"
+difficulty 2.0
+height 30
+id 9828
+link "https://webpbn.com/play.cgi?id=9828"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Is it a beer gut?"
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 4
+black 4
+black 2
+black 2 black 4
+black 2 black 2 black 2
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 6
+black 2 black 6
+black 2 black 6
+black 2 black 6 black 1
+black 12
+black 11
+black 2 black 2
+black 2 black 1
+black 1 black 1
+black 2 black 1
+black 1 black 2
+black 2 black 1
+black 11
+black 7
+black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 9
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1
+black 7
+black 7
+black 1 black 1
+black 1 black 1
+black 3 black 3
+
+columns
+black 2 black 3
+black 2 black 2 black 3
+black 14 black 2
+black 13 black 1 black 1
+black 2 black 10
+black 9 black 2 red 1 black 1 red 1 black 2 black 1
+black 2 black 6 black 7
+black 1 black 6 black 2 red 1 black 1 red 1 black 2
+black 1 black 6 black 7
+black 2 black 6 black 2 red 1 black 1 red 1 black 2 black 1
+black 9 black 10
+black 2 black 1 black 1 black 1
+black 3 black 3 black 2
+black 2 black 5

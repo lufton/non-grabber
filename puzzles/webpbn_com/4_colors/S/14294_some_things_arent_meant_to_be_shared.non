@@ -1,0 +1,47 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jun  4, 2011"
+description "I was merging into traffic on I-70 at the same time an 18-wheeler changed lanes and went into the right lane. I ended up driving on the shoulder."
+difficulty 1.0
+height 15
+id 14294
+link "https://webpbn.com/play.cgi?id=14294"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "some things aren't meant to be shared"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+blue 4
+blue 4
+blue 4
+blue 4 red 3
+blue 4 red 1 red 1
+blue 4 red 3
+black 1 black 1 red 3
+black 1 black 1 black 1 black 1
+black 10
+black 5 black 3
+black 10
+black 5 black 3
+black 10
+
+columns
+black 1 black 1 black 1
+black 5
+blue 6 black 7
+blue 6 black 5
+blue 6 black 5
+blue 6 black 7
+black 1 black 1 black 1
+red 4 black 6
+red 1 red 2 black 5
+red 4 black 6

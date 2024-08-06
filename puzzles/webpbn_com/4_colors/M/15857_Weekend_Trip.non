@@ -1,0 +1,62 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Sep 22, 2011"
+description "Went on a field trip with relatives this past weekend to Jamestown, Williamsburg, and Virginia Beach. The first picture representing Jamestown is a hatchet and Indian pipe crossed. The picture next to it is a Colonial Williamsburg inhabitant with one of those 1700's hats. Last is the beach at sunrise."
+difficulty 2.0
+height 20
+id 15857
+link "https://webpbn.com/play.cgi?id=15857"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Weekend Trip"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1 black 6
+black 2 black 1 black 3 black 3
+black 3 black 1 black 2 black 2
+black 1 black 3 red 1 black 1 black 2 black 3
+black 3 red 1 black 1 black 1 black 3 black 3
+black 1 black 1 black 2 black 1 black 5
+black 2 black 1 black 3
+black 3 black 1 blue 1 blue 1
+black 2 black 1 black 1
+black 2 black 2 red 1
+black 4 black 1 black 2
+black 2 black 9
+black 2 black 2 black 1
+black 2 red 1 red 1 black 2 black 1
+black 2 red 2 black 2 black 1
+black 2 red 1 red 2 red 1 black 2
+black 2 blue 12 black 2
+black 2 blue 2 blue 5 blue 3 black 2
+black 2 blue 6 blue 8 black 2
+
+columns
+black 1 black 1
+black 3 black 1 black 2
+black 1 black 2 black 2 blue 1
+black 1 black 2 black 2 blue 2
+black 2 black 2 black 2 blue 3
+black 3 black 3 black 2 blue 1 blue 1
+black 3 red 1 black 1 black 1 black 2 blue 1 blue 1
+red 1 black 1 black 2 red 1 blue 3
+black 2 red 1 blue 2
+black 12 red 2 blue 2
+black 2 red 2 blue 3
+black 2 red 1 blue 3
+black 2 black 2 red 1 blue 1 blue 1
+black 5 black 3 blue 1 blue 1
+black 2 black 3 black 2 black 2 blue 3
+black 1 black 3 blue 1 black 1 black 2 blue 3
+black 1 black 2 red 1 black 1 black 2 blue 2
+black 2 black 4 blue 1 black 1 black 2 blue 1
+black 6 black 2 black 2
+black 4 black 5 black 1

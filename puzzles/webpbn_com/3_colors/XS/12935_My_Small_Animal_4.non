@@ -1,0 +1,41 @@
+by "Kristen Maria (coco4484)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Maria"
+date "Mar 21, 2011"
+description "Bunny!!"
+difficulty 2.25
+height 10
+id 12935
+link "https://webpbn.com/play.cgi?id=12935"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "My Small Animal 4"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 1 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 2 red 1 black 1
+red 1 red 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 red 2 black 1
+black 1 black 1
+
+columns
+black 3 black 2
+black 1 red 1 black 2 black 1 black 1
+black 1 red 3
+black 3 black 1
+black 1 red 1
+black 1 red 1
+black 3 black 1
+black 1 red 3
+black 1 red 1 black 2 black 1 black 1
+black 3 black 2

@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Aug  3, 2013"
+description "Someone else made a dumbell puzzle but used a background. I wanted to see if it was solvable without it. I can't seem to get it started. Any suggestions?"
+difficulty 3.0
+height 20
+id 22421
+link "https://webpbn.com/play.cgi?id=22421"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "This puzzle is DUMB!"
+width 20
+
+rows
+0
+1
+1,3
+3,5
+9
+7
+5
+6
+8,1
+5,3,3
+3,3,5
+1,8
+6
+5
+7
+9
+5,3
+3,1
+1
+0
+
+columns
+0
+1
+1,3
+3,5
+9
+7
+5
+6
+8,1
+5,3,3
+3,3,5
+1,8
+6
+5
+7
+9
+5,3
+3,1
+1
+0

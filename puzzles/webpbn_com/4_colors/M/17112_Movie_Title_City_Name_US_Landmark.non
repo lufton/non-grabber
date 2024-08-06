@@ -1,0 +1,62 @@
+by "Trish217 (Trish217)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Trish217"
+date "Jan 12, 2012"
+description "Philadelphia, Movie and City, Liberty Bell"
+difficulty 1.25
+height 20
+id 17112
+link "https://webpbn.com/play.cgi?id=17112"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Movie Title, City Name, US Landmark"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 1 black 1
+black 4
+black 1 blue 4 black 1
+black 1 blue 6 black 1
+black 1 blue 8 black 1
+black 1 blue 8 black 1
+black 1 blue 8 black 1
+black 1 blue 5 red 1 blue 2 black 1
+black 1 blue 5 red 1 blue 2 black 1
+black 1 blue 4 red 2 blue 2 black 1
+black 1 blue 5 red 1 blue 4 black 1
+black 1 blue 5 red 1 blue 6 black 1
+black 1 blue 5 red 1 blue 8 black 1
+black 1 blue 5 red 2 blue 9 black 1
+black 20
+black 1
+black 1
+black 3
+black 3
+
+columns
+black 1
+black 2
+black 1 blue 1 black 1
+black 1 blue 2 black 1
+black 1 blue 3 black 1
+black 6 blue 4 black 1
+black 1 blue 10 black 1
+black 1 blue 10 red 1 black 1
+black 2 blue 10 red 2 black 1 black 2
+black 1 black 1 blue 9 red 1 blue 2 black 5
+black 1 black 1 blue 7 red 2 blue 3 black 1 black 2
+black 2 blue 5 red 3 blue 4 black 1
+black 1 blue 11 black 1
+black 1 blue 10 black 1
+black 6 blue 4 black 1
+black 1 blue 3 black 1
+black 1 blue 2 black 1
+black 1 blue 1 black 1
+black 2
+black 1

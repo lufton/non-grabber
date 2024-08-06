@@ -1,0 +1,85 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/1/22"
+height 25
+id 247982
+link "https://www.griddlers.net/nonogram/-/g/247982"
+medium_time "0:12:51"
+points 5278
+popularity 86.72
+title "It's a Duck"
+width 35
+
+color a abdef9
+color b 000000
+color c 666666
+color d fb8504
+color e ff4a03
+color f 22692d
+color g 1a8d34
+color h ffffff
+
+rows
+0
+b 1 b 1
+b 5
+h 1 b 1 h 1 b 1 h 3 b 1
+b 1 h 6 b 1
+b 1 h 6 b 1
+h 5 b 2
+h 1 c 3 h 1 b 1 g 4
+h 3 c 2 h 1 b 1 g 2 h 2 g 2
+h 6 b 1 g 2 h 2 b 1 h 1 g 1 d 2
+h 4 b 2 g 3 h 2 b 1 h 1 g 1 d 4
+h 5 b 1 b 1 h 1 g 4 h 4 g 1 d 6
+b 2 h 5 b 4 h 1 f 2 g 3 c 2 f 1 g 1 e 2 d 4
+b 5 h 1 c 2 h 1 b 5 c 2 f 2 g 1 f 5 e 6
+b 8 h 4 b 6 c 1 f 7
+b 7 h 5 b 5 c 1
+b 6 h 6 c 2
+b 5 h 6 c 1
+b 3 h 1 c 1 h 3 c 2
+c 6 h 1 c 2
+c 5
+d 1 e 3
+d 3 e 1
+d 2
+d 1
+
+columns
+0
+b 1
+b 2
+b 3
+b 5 d 1
+b 6 c 1 d 4
+b 6 c 1 e 1 d 2
+b 7 c 2 e 2
+b 6 h 1 c 2 e 1
+h 2 h 7 c 3
+b 2 h 7 c 1 h 5 c 2
+h 4 c 1 h 5 c 1 h 6 c 1
+b 1 h 3 c 2 h 10 c 1
+h 4 c 2 h 4 b 2 h 3 c 2
+b 2 h 6 b 6 h 2 c 1
+b 1 h 3 b 5 b 4 c 2
+b 2 h 3 b 1 b 4 c 1
+b 1 h 1 b 2 b 5
+b 3 h 2 c 1 b 2
+g 1 f 1 c 3
+g 2 f 3
+g 4 f 2
+g 6 f 1
+g 2 h 3 g 1 f 2
+g 1 h 4 c 1 f 2
+g 1 h 1 b 2 h 1 c 1 f 2
+g 2 h 3 f 3
+g 5 f 1
+d 3 e 2
+d 3 e 2
+d 3 e 1
+d 3 e 1
+d 2 e 1
+d 2 e 1
+0

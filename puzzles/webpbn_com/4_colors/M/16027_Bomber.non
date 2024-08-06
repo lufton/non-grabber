@@ -1,0 +1,54 @@
+by "Taren Klaupert (Taren)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Taren Klaupert"
+date "Oct 12, 2011"
+description "MegaMan is the blue bomber! (I think he drank some cranberry juice though..)"
+difficulty 1.25
+height 16
+id 16027
+link "https://webpbn.com/play.cgi?id=16027"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Bomber"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 8
+black 1 blue 3 black 2 blue 3 black 1
+black 1 blue 4 black 2 blue 4 black 1
+black 1 blue 5 black 2 blue 5 black 1
+black 1 blue 12 black 1
+black 1 blue 12 black 1
+black 1 black 2 black 4 black 2 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 1 red 1 black 2 black 2 red 1 black 1 black 1
+black 2 red 10 black 2
+black 1 red 2 black 6 red 2 black 1
+black 1 red 2 black 4 red 2 black 1
+black 2 red 4 black 2
+black 4
+
+columns
+black 4
+black 3 black 1
+black 1 blue 3 black 6
+black 1 blue 4 black 1 red 3 black 1
+black 1 blue 5 red 3 black 1
+black 1 blue 5 black 2 red 1 black 1 red 1 black 1
+black 2 blue 5 black 1 black 2 red 1 black 2 red 1 black 1
+black 5 blue 2 black 2 red 1 black 2 red 1 black 1
+black 5 blue 2 black 2 red 1 black 2 red 1 black 1
+black 2 blue 5 black 1 black 2 red 1 black 2 red 1 black 1
+black 1 blue 5 black 2 red 1 black 1 red 1 black 1
+black 1 blue 5 red 3 black 1
+black 1 blue 4 black 1 red 3 black 1
+black 1 blue 3 black 6
+black 3 black 1
+black 4

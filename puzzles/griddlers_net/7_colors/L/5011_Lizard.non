@@ -1,0 +1,84 @@
+by "kkamp"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/13/03"
+height 30
+id 5011
+link "https://www.griddlers.net/nonogram/-/g/5011"
+medium_time "0:20:09"
+points 28207
+popularity 86.12
+title "Lizard"
+width 30
+
+color a ffffff
+color b 9c9a00
+color c 636500
+color d 313000
+color e ceff31
+color f 9ccf00
+color g ce9a00
+
+rows
+b 9
+c 1 d 3 c 1 b 3 e 4 f 1 b 3
+c 1 d 1 b 2 c 1 f 4 b 3 e 4 b 3
+f 1 d 1 b 1 c 1 b 1 f 2 e 4 b 1 c 1 b 1 f 2 e 3 b 1
+b 2 c 1 b 2 f 1 c 9 b 1 f 2 e 2
+b 2 c 1 b 3 c 3 d 2 c 3 d 1 b 3 f 2
+b 2 c 1 b 4 c 3 d 1 g 1 d 2 g 1 d 3 c 4 d 1 b 1
+b 3 c 1 b 4 c 2 d 5 g 2 d 3 c 3 d 3 c 1
+b 2 c 1 f 2 b 2 c 3 d 2 c 3 d 6 b 1 c 4 d 2 c 1
+d 1 f 2 b 1 d 3 b 6 c 3 b 2 f 3 b 3 c 5
+d 1 b 3 f 9 b 3 c 6 b 6 c 1
+b 1 d 2 c 1 b 2 e 6 f 2 c 2 d 5 c 4 d 1 c 1 b 2
+d 1 b 1 e 1 c 2 d 10 c 4 d 5 b 3 c 1
+b 1 d 1 b 1 e 14 b 1 e 4 b 4 c 2
+b 1 d 2 c 1 b 17 c 3 d 2
+b 1 d 8 c 10 d 3 c 1
+c 2 d 13 c 2
+c 2 d 9 c 3 b 1
+d 8 c 3 b 2
+c 1 d 3 c 1 d 3 c 4
+c 1 d 3 c 2 d 5
+c 1 d 3 c 6
+c 1 d 3 c 3 b 2
+c 1 d 3 c 3
+d 5
+c 1 d 1 c 2
+c 1 d 2
+c 1
+0
+0
+
+columns
+0
+b 1 d 2 b 1
+b 1 f 1 b 1 d 2 b 1
+b 1 c 1 f 1 b 1 d 1 b 1 d 1
+b 1 f 1 b 2 c 1 e 1 b 2
+b 1 f 1 d 1 f 1 b 1 c 1 e 1 d 1
+b 1 c 1 b 1 d 1 f 1 b 1 c 1 e 1 d 1
+b 3 d 1 f 1 e 1 d 1 e 1 c 1 b 1
+b 1 c 1 b 1 c 1 b 1 f 1 e 1 d 1 e 1 b 1 d 1
+b 3 c 1 b 1 f 1 e 1 d 1 e 1 b 1 d 1
+f 1 b 1 c 1 b 2 c 1 b 1 f 1 e 1 d 1 e 1 b 1 d 1
+c 1 d 1 b 3 c 1 d 1 b 1 f 1 e 1 d 1 e 1 b 1 d 1
+c 1 d 1 b 1 c 1 b 2 c 1 d 1 b 1 f 1 e 1 d 1 e 1 b 1 d 1
+d 1 b 1 c 1 b 2 c 1 d 1 c 1 b 1 f 2 d 1 e 1 b 1 d 1 c 1
+d 1 b 3 c 2 d 1 c 2 b 1 f 1 d 1 e 1 b 1 d 1 c 1
+d 1 c 1 f 2 c 2 d 1 c 2 b 1 c 1 d 1 e 1 b 1 d 2 c 1
+c 1 f 2 c 2 d 3 c 1 b 1 c 1 d 1 e 1 b 1 c 1 d 1 c 1
+b 2 f 1 e 1 c 1 g 1 d 2 b 1 c 1 d 1 c 1 e 1 b 1 c 1 d 3
+b 2 f 1 e 1 c 1 d 1 g 1 d 1 b 1 c 1 d 1 c 1 e 1 b 1 c 1 d 3 c 1
+b 2 f 1 e 1 c 1 d 2 g 1 d 1 f 1 c 1 d 1 c 1 b 2 c 1 d 4 c 1
+b 1 e 1 b 1 e 1 c 1 d 1 g 1 d 2 f 1 c 1 d 1 c 1 e 1 b 1 c 1 d 5 c 1
+b 1 e 1 b 2 c 2 d 3 f 1 c 1 d 2 e 1 b 1 c 1 d 6 c 1
+b 1 e 1 b 1 c 3 d 2 b 2 c 2 d 1 e 1 b 1 c 1 d 3 c 1 d 3
+b 1 e 2 b 1 c 2 d 1 c 2 b 2 c 1 d 1 e 1 b 1 c 1 d 4 c 1 d 2 c 1
+b 1 f 1 e 1 f 1 c 1 d 1 c 3 b 2 c 1 d 1 b 2 c 1 d 4 c 2 d 2
+b 2 e 1 f 1 b 2 c 4 b 1 c 1 d 1 b 1 c 2 d 2 c 1 d 2 c 2 d 2
+b 1 e 2 f 1 b 1 c 1 d 1 c 2 b 1 d 1 b 2 c 1 d 2 c 3 d 1 c 2 d 2 c 1
+b 2 e 1 f 1 b 1 c 1 d 2 c 1 b 1 c 1 b 2 c 1 d 2 c 3 d 1 c 3 d 2 c 1
+b 1 e 2 f 1 d 3 c 1 b 3 c 1 d 2 c 2 b 1 c 1 d 1 c 1 b 1 c 1 d 1 c 1 d 1
+b 2 e 1 f 1 b 1 c 4 b 1 c 2 d 1 c 2 b 2 c 1 d 1 c 1 b 1 c 1 d 1 c 1 d 1 c 1

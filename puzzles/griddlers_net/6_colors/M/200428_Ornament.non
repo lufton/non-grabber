@@ -1,0 +1,55 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/4/19"
+height 17
+id 200428
+link "https://www.griddlers.net/nonogram/-/g/200428"
+medium_time "0:03:13"
+points 303
+popularity 75.81
+title "Ornament"
+width 15
+
+color a 009999
+color b 000000
+color c c98c00
+color d ffffff
+color f 3399ff
+color g ff9933
+
+rows
+c 3
+c 1 c 1
+d 5
+d 9
+d 11
+d 5 f 2 d 1 f 2 d 3
+d 6 f 1 b 1 d 1 f 1 b 1 d 4
+d 8 g 2 d 5
+d 6 g 5 d 4
+d 3 b 1 d 3 g 6 d 2
+d 3 b 4 d 3 b 2 d 3
+d 3 b 4 d 3 b 1 d 4
+d 4 b 6 d 5
+d 4 b 5 d 4
+d 4 b 3 d 4
+d 9
+d 7
+
+columns
+d 7
+d 9
+d 11
+d 6 b 3 d 4
+d 7 b 3 d 4
+d 8 b 4 d 3
+c 2 d 3 f 2 d 1 g 1 d 1 b 5 d 2
+c 1 d 3 f 1 b 1 d 1 g 2 d 2 b 3 d 2
+c 2 d 5 g 3 d 2 b 3 d 2
+d 3 f 2 g 3 d 2 b 2 d 3
+d 2 f 1 b 1 d 1 g 2 b 2 d 5
+d 6 g 1 b 1 d 5
+d 5 g 1 d 5
+d 9
+d 7

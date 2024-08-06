@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Jul 12, 2021"
+description "Can you name the game? And more importantly, can you see the white tokens?"
+difficulty 1.75
+height 20
+id 35226
+link "https://webpbn.com/play.cgi?id=35226"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Board game tokens 8"
+width 20
+
+rows
+1,5,1
+1,3,1
+3,1
+5,1
+7,8
+5,1
+3,1
+3,1
+5,1
+7,8
+5,1
+3,1
+1,3
+1,5
+12,3
+1,5
+1,3
+1,1,3
+1,1,5
+1,1,5
+
+columns
+1,1,1
+1,1,1
+3,3,1
+10,1
+20
+10,1
+3,3,1
+1,3
+2,5
+2,8
+2,5
+1,3
+1,1,2
+1,1,3
+12,3
+1,1,3
+1,1,2
+1,1,1
+1,1,1
+1,1,1

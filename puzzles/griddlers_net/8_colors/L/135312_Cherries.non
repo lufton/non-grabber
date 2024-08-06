@@ -1,0 +1,85 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/26/13"
+height 30
+id 135312
+link "https://www.griddlers.net/nonogram/-/g/135312"
+medium_time "0:20:16"
+points 15746
+popularity 84.61
+title "Cherries"
+width 30
+
+color a ffff99
+color b 996633
+color c 663333
+color d 666600
+color e 99cc00
+color f 990000
+color g cc3333
+color h cc0000
+
+rows
+b 1 c 1
+d 6 b 1 c 1
+d 2 e 6 d 1 c 1
+d 2 e 8 d 1 c 1
+d 1 e 9 d 1 c 1
+d 1 e 9 d 1 b 1 c 1
+d 2 e 10 d 1 c 1
+d 2 e 10 d 2 b 1 c 1
+d 3 e 10 d 2 b 1 c 1
+d 2 e 12 d 1 b 1 c 2
+d 4 e 6 d 2 b 1 c 2
+d 6 b 1 c 1 b 1 c 1
+b 1 c 1 b 1 c 1
+b 1 c 1 b 1 c 1 b 1 c 1
+b 1 c 1 b 1 c 1 f 2 b 1 c 1 f 3
+b 1 c 1 b 1 c 1 f 1 g 2 f 5
+b 1 c 1 b 1 c 1 g 4 h 1 f 4
+f 3 b 1 f 3 b 1 c 1 g 1 b 1 g 1 h 3 f 3
+f 2 g 2 f 4 b 1 c 1 g 3 h 3 f 3
+f 2 g 4 h 1 f 3 b 1 c 1 h 5 f 3
+f 1 g 2 b 1 g 1 h 3 f 2 b 1 c 1 f 2 h 1 f 4
+f 1 g 4 h 3 f 3 b 1 f 6
+f 2 g 2 h 3 f 2 g 2 f 6
+f 3 h 1 f 3 g 4 h 1 f 4
+f 5 g 2 b 1 g 1 h 3 f 3
+f 4 g 4 h 3 f 3
+f 2 g 2 h 4 f 3
+f 3 h 1 f 1 h 1 f 3
+f 7
+f 5
+
+columns
+d 1
+d 1
+d 1 e 1 d 1
+d 1 e 1 d 1
+d 1 e 1 d 1
+d 1 e 2 d 1
+d 1 e 3 d 1
+d 1 e 4 d 1
+d 1 e 4 d 1
+d 1 e 5 d 1
+d 1 e 6 d 1 f 4
+d 1 e 7 d 1 f 2 g 2 f 2
+d 1 e 6 d 1 f 2 g 4 f 2
+d 1 e 7 d 1 f 1 g 2 b 1 g 2 f 3
+d 1 e 6 d 1 f 1 g 4 h 2 f 2
+d 1 e 6 d 1 b 2 f 1 g 1 h 3 f 3
+d 1 e 6 d 1 b 3 c 1 f 2 h 4 f 4
+d 1 e 5 d 1 c 3 f 3 h 2 f 2 g 2 f 2
+d 1 e 5 d 1 b 6 f 6 g 4 f 2
+d 1 e 3 d 2 b 2 c 6 b 4 f 3 g 2 b 1 g 2 f 3
+d 1 e 2 d 1 b 1 c 5 b 1 c 4 b 2 f 1 g 4 h 2 f 2
+b 1 d 2 c 2 c 1 b 1 f 2 g 3 c 2 b 1 f 1 g 1 h 3 f 3
+b 1 c 3 c 1 b 1 f 1 g 2 b 1 g 1 h 1 f 3 h 5 f 2
+c 1 c 1 b 1 g 4 h 1 f 4 h 3 f 3
+c 1 f 1 g 1 h 4 f 8
+f 2 h 4 f 8
+f 3 h 3 f 7
+f 8
+f 6
+f 4

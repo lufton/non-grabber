@@ -1,0 +1,41 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Sep 25, 2009"
+description "Sunny Day. This was the first puzzle I did over two years ago when I was first getting into paint by number puzzles. At that time, I had no idea what smile, edge, or two-way logic was."
+difficulty 1.25
+height 12
+id 6797
+link "https://webpbn.com/play.cgi?id=6797"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "My First Puzzle"
+width 12
+
+rows
+3,1
+3,3
+2,5
+1,7
+1,7
+5
+1
+1
+3
+7
+10
+12
+
+columns
+3,1,1
+3,1
+2,2
+1,2
+1,3
+2,3
+4,3
+5,4
+11
+5,4
+4,3
+2,2

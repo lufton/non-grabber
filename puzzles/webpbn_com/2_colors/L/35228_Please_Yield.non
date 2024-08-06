@@ -1,0 +1,72 @@
+by "Karen Scholl (karenttrouble)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Karen Scholl"
+date "Jul 15, 2021"
+description "Crosswalk aka zebra crossing"
+difficulty 3.25
+height 25
+id 35228
+link "https://webpbn.com/play.cgi?id=35228"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Please Yield"
+width 30
+
+rows
+3
+5
+5
+5
+3
+5
+8
+10
+8,3
+3,5,3
+3,5,2
+4,5,2
+3,6,2
+8
+4,4
+4,3
+4,3
+3,4
+2,3,1,3,4
+1,1,3,3,3,2,1
+2,3,4,3,1,2
+3,4,1,2,3
+4,4,2,4
+4,4,5,4
+4,4,4,4
+
+columns
+2,1
+1,2
+3
+4
+4
+4
+2
+2,3
+3,5,1
+3,6,2
+3,4,3
+3,4,4
+3,3,4,4
+5,9,4
+14,4
+15,2
+3,13,1
+14,2
+3,7,4
+3,4,3
+3,3,1
+5,2,1
+4,1
+3
+2,1
+1,2
+3
+4
+4
+4

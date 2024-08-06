@@ -1,0 +1,46 @@
+by "jim"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/23/11"
+height 13
+id 109522
+link "https://www.griddlers.net/nonogram/-/g/109522"
+medium_time "0:02:14"
+points 199
+popularity 56.48
+title "Lemmings: Miner"
+width 10
+
+color a 000000
+color b fffeff
+color c f02020
+color d 00b000
+color e f0d0d0
+color f 4040e0
+
+rows
+b 3
+b 2
+b 2 c 1
+b 1 c 2 d 2
+b 1 c 1 e 1 d 3
+c 1 e 1 d 2 e 2
+e 3
+e 2 f 1
+f 2
+f 3
+f 4
+e 1 f 2 f 1
+e 2 e 2
+
+columns
+b 3
+b 2
+b 2 c 2
+b 1 c 3
+b 1 e 2 e 2
+d 2 e 2 f 2 e 1
+d 3 e 2 f 4
+d 2 e 2 f 4
+e 1 f 3 e 1
+e 1

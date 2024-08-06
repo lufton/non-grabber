@@ -1,0 +1,57 @@
+by "Douglas Wardell (tanis0)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Douglas Wardell"
+date "Oct 23, 2009"
+description "A wristwatch showing 4:30. This is a reference to the Monkees' song "Last Train to Clarksville.""
+difficulty 2.25
+height 20
+id 6982
+link "https://webpbn.com/play.cgi?id=6982"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WCP #45: All Aboard for Clarksville"
+width 20
+
+rows
+7,5
+7,1,1,1,2
+2,1,1,1
+1,6,1
+4,4
+2,1,2
+2,1,1,2
+1,1
+2,1,1,1,2
+1,2,1
+1,1,3,1,1
+2,1,1,2
+1,1,1,1,1
+2,2,1,2
+2,1,2
+4,4
+1,6,1
+2,1,1,1
+7,1,1,1,4
+7,3
+
+columns
+1,1
+1,1
+1,1
+1,4,1
+1,3,3,1
+1,4,1,4,1
+2,2,1,1,2,2
+1,3,1,3,1
+2,2,1,2,2
+1,2,1,7,2,1
+2,1,2,1,2
+1,3,2,1,3,1
+2,2,1,2,2
+1,1,2,1,1,2,1,1
+1,4,1,4,1
+2,3,3,1
+1,4,1
+1,2
+1,1
+1,1

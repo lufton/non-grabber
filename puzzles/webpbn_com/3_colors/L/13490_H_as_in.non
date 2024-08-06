@@ -1,0 +1,76 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 20, 2011"
+description "Hopscotch"
+difficulty 1.5
+height 35
+id 13490
+link "https://webpbn.com/play.cgi?id=13490"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "H as in"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 20
+red 1 black 18 red 1
+red 1 black 7 black 3 red 1
+red 1 black 1 black 2 black 2 black 6 black 3 red 1
+red 1 black 1 black 2 black 2 black 1 black 1 black 3 red 1
+red 1 black 1 black 2 black 1 black 4 black 3 red 1
+red 1 black 1 black 2 black 2 black 1 black 1 black 3 red 1
+red 1 black 1 black 2 black 2 black 4 black 1 black 3 red 1
+red 1 black 1 black 2 black 2 black 1 black 1 black 3 red 1
+red 1 black 7 black 6 black 3 red 1
+red 1 black 4 black 1 red 1
+red 1 black 4 black 5 black 5 black 1 red 1
+red 1 black 4 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 4 black 3 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 4 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 4 black 3 black 1 black 3 black 1 black 1 red 1
+red 1 black 4 black 1 black 1 black 3 black 1 black 1 red 1
+red 1 black 4 black 5 black 5 black 1 red 1
+red 1 black 4 black 1 red 1
+red 1 black 7 black 6 black 3 red 1
+red 1 black 7 black 1 black 1 black 3 red 1
+red 1 black 7 black 4 black 1 black 3 red 1
+red 1 black 7 black 1 black 1 black 3 red 1
+red 1 black 7 black 1 black 4 black 3 red 1
+red 1 black 7 black 1 black 1 black 3 red 1
+red 1 black 7 black 6 black 3 red 1
+red 1 black 7 black 3 red 1
+red 1 black 7 black 6 black 3 red 1
+red 1 black 7 black 2 black 2 black 3 red 1
+red 1 black 7 black 3 black 2 black 3 red 1
+red 1 black 7 black 2 black 1 black 3 red 1
+red 1 black 7 black 6 black 3 red 1
+red 1 black 7 black 3 red 1
+red 1 black 18 red 1
+red 20
+
+columns
+red 35
+red 1 black 33 red 1
+red 1 black 2 black 25 red 1
+red 1 black 4 black 28 red 1
+red 1 black 4 black 28 red 1
+red 1 black 2 black 1 black 15 red 1
+red 1 black 9 black 7 black 15 red 1
+red 1 black 9 black 1 black 1 black 1 black 1 black 15 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 7 black 1 black 1 black 7 black 5 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 7 black 1 black 1 black 1 black 5 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 7 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1 black 3 black 1 black 1 red 1
+red 1 black 1 black 7 black 3 black 3 black 7 black 5 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 9 black 7 black 15 red 1
+red 1 black 9 black 15 red 1
+red 1 black 33 red 1
+red 35

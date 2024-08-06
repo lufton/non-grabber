@@ -1,0 +1,77 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Jun 17, 2016"
+description "Don't blow it now!"
+difficulty 2.75
+height 30
+id 28183
+link "https://webpbn.com/play.cgi?id=28183"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "3's a Charm"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4 red 4 red 1 black 1 black 1 black 1
+black 3 red 4 red 1 black 1 black 2
+black 1 black 1 red 2 red 2 black 1 black 1
+black 4 black 1 red 1 black 1 black 2
+black 3 black 1 black 2 black 3 red 2 black 1 black 1
+black 2 black 1 black 1 black 4 red 1 black 1 black 2
+black 1 black 2 black 1 black 1 black 1 red 1 black 1
+black 1 black 1 black 1 black 4 red 2 black 2
+black 1 blue 2 black 4 black 4 red 1 black 1
+blue 1 blue 1 black 2 red 2 black 1
+blue 1 blue 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1
+blue 1 blue 1 black 1 red 2 red 1 black 1 red 2 black 1
+blue 1 blue 1 black 1 black 1 red 1 red 1 black 1 red 1 black 1
+blue 1 blue 1 black 1 black 1 red 1 red 1 black 2 red 2 black 1
+blue 4 black 3 red 1 red 1 black 1 black 1 red 1 black 1
+blue 1 blue 1 red 1 red 1 black 3 red 2 black 1
+blue 1 blue 1 red 4 red 1 black 1
+blue 1 blue 2 red 1 red 1 red 2 black 1
+blue 4 red 1 red 1 red 2 black 1
+blue 2 black 1 red 2 red 1 red 1 black 1
+black 1 black 1 black 4 red 3 red 2 black 1
+black 1 black 1 black 1 black 2 red 2 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 2 black 2 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 2 black 1
+black 1 black 1 red 3 black 2 black 1
+black 1 red 1 black 1 black 1
+red 1 red 3 black 1 black 1
+red 3 red 3 black 1
+
+columns
+black 9 blue 11 black 5 red 2
+black 2 black 3 blue 1 blue 1 blue 2 black 4 red 1
+black 5 blue 1 blue 1 blue 2 red 1
+black 1 black 1 black 3 blue 10 black 8 red 2
+black 3 black 1 red 1
+black 1 black 3 black 4 red 1 red 1
+black 5 black 1 black 1 black 2 red 1
+red 2 black 2 black 5 black 1 black 2 red 1
+red 3 red 10 black 1
+red 3 black 2 black 2 black 1 red 1 red 1 red 2
+red 2 black 7 red 1 red 1 black 1
+black 2 black 3 red 11 black 3
+red 3 black 4 black 4 black 3
+red 3 black 3 black 2
+red 4 black 1 black 3 red 1
+red 3 black 2 red 1
+red 3 red 1
+red 3
+red 3
+red 3
+black 1 red 2
+black 1 black 1 black 1 red 3
+black 1 black 1 black 1 red 2
+black 1 black 1 black 1 black 1 red 1
+black 30

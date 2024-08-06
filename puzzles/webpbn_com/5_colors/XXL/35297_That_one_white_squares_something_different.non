@@ -1,0 +1,143 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Andrew Schultz"
+date "Aug 16, 2021"
+description "Map of Africa, roughly to scale, though South Africa got squashed a bit. Mali, Central African Republic, Botswana and (not a country) Lake Victoria are in white. I don't think I'll ever make a map as big as this again. It was fun to make and I hope fun to solve but surprisingly exhausting."
+difficulty 3.0
+height 60
+id 35297
+link "https://webpbn.com/play.cgi?id=35297"
+note "published,definitely unique,may require moderate lookahead"
+quality 4.5
+title "That one white square's something different"
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+blue 4
+blue 7 green 8 red 1
+blue 9 green 7 red 3
+blue 8 green 9 red 2
+blue 8 green 11 red 3
+blue 7 green 13 red 3 blue 3
+black 7 red 1 green 14 red 1 blue 8 blue 4 green 10
+black 3 red 7 green 13 blue 11 blue 4 green 7 green 2
+black 3 red 9 green 12 blue 16 green 8 green 2
+black 4 red 6 green 11 blue 16 green 8 green 1
+black 3 red 7 green 10 blue 16 green 9
+red 10 green 9 blue 16 green 9
+red 11 green 8 red 2 blue 2 black 2 blue 10 green 9
+red 11 green 5 red 6 black 4 blue 8 green 8 red 1
+blue 3 red 8 green 2 red 9 black 5 blue 6 red 9
+blue 4 red 7 red 11 black 7 blue 4 red 9
+blue 5 red 10 black 9 blue 2 red 9 black 1
+red 4 blue 1 red 9 black 10 red 10 black 2
+blue 5 red 9 black 11 red 10 black 4
+green 3 red 4 blue 2 red 11 black 11 red 11 green 3 black 1
+green 1 red 5 blue 5 red 2 blue 8 black 10 red 11 green 4 blue 1
+red 2 blue 2 red 2 blue 7 red 2 blue 9 black 10 red 10 green 4 red 4
+blue 3 red 2 blue 5 black 1 green 2 blue 10 green 1 black 9 red 9 green 7 red 4
+blue 1 black 2 red 1 green 2 blue 2 red 3 black 1 green 3 blue 8 green 2 black 6 red 8 green 9 red 2
+black 2 red 1 green 4 red 3 black 1 green 2 blue 8 green 2 black 4 red 7 green 9 red 3
+black 2 green 4 red 3 black 1 green 1 blue 9 green 2 black 3 red 7 green 7 red 3
+black 2 green 3 red 3 black 1 green 1 blue 8 green 4 red 8 green 5 red 3
+blue 5 green 4 red 9 black 2 red 3
+blue 3 green 5 green 2 red 4 black 7 red 2
+green 5 black 2 green 9 red 2 blue 1 black 7 red 1
+green 6 black 2 green 10 blue 4 black 6
+red 1 blue 2 black 4 green 10 blue 4 black 6
+blue 4 black 3 green 9 blue 3 black 6
+blue 4 black 1 green 11 black 1 red 1 red 2 black 3
+blue 3 black 2 green 11 blue 1 red 6 black 1
+black 3 green 12 red 8
+green 15 red 8
+black 3 green 4 black 2 green 5 blue 3 red 6
+black 5 green 1 black 3 green 4 blue 5 red 5
+black 10 green 3 blue 5 black 1 red 4
+black 9 green 4 blue 4 black 1 green 4 red 1
+black 10 blue 2 green 2 blue 3 black 1 green 4 red 1
+black 10 blue 3 green 2 blue 2 black 2 green 3 red 2
+black 8 blue 8 green 2 black 1 green 2 red 2
+black 8 blue 7 green 6 red 3
+black 9 blue 4 black 2 green 5 red 3
+red 10 blue 1 black 5 green 3 red 4
+red 7 black 6 green 2 red 4
+red 6 black 5 green 1 red 2
+red 5 black 3 green 2 red 3
+red 4 black 2 green 2 red 3
+red 4 blue 1 blue 2 green 2 red 2
+red 3 blue 1 blue 3 red 1 green 1 red 2
+red 1 blue 8 red 2
+blue 4 red 1 blue 3
+blue 8
+blue 6
+0
+
+columns
+0
+red 2 blue 3 red 1 blue 1
+black 2 red 3 blue 3 red 1 blue 1 green 1
+black 3 red 3 blue 3 red 1 blue 1 green 2 red 1
+black 4 red 4 blue 2 red 1 blue 1 green 1 red 2 blue 1
+black 4 red 6 blue 3 red 2 blue 3
+blue 1 black 2 red 8 red 2 blue 2 black 2
+blue 2 black 1 red 9 red 4 black 3
+blue 2 black 1 red 9 red 6 black 2
+blue 3 black 1 red 9 green 3 black 1
+blue 4 black 1 red 9 green 4
+blue 4 black 1 red 9 blue 3 green 3
+blue 5 red 3 blue 3 green 3
+blue 4 green 2 red 2 blue 3 red 4
+blue 5 green 3 red 1 blue 3 red 4
+blue 4 green 5 blue 4 red 4
+blue 4 green 6 blue 3 black 5
+blue 3 green 8 red 1 blue 2 green 5
+blue 2 green 9 red 3 green 3 blue 2
+green 12 red 3 blue 1 green 1 blue 3
+green 13 red 2 blue 8
+green 14 red 5 blue 9
+green 14 red 5 blue 9
+green 13 red 6 blue 9
+green 13 red 6 blue 8 green 2
+green 12 red 7 blue 7 green 4 red 1 blue 1
+green 1 red 4 green 7 red 7 blue 6 green 5 blue 4
+red 6 blue 5 red 8 blue 4 green 7 blue 4 black 1 green 1 black 3 black 2 red 2
+red 1 red 2 blue 6 red 7 black 2 blue 2 green 8 black 1 blue 3 black 1 green 1 black 9 red 4
+blue 8 red 5 black 4 green 2 black 2 green 1 green 1 black 2 blue 1 black 2 green 1 black 9 red 6
+blue 8 red 4 black 9 green 1 black 4 green 3 black 8 red 7
+blue 7 black 2 red 2 black 10 black 3 green 5 black 8 red 8 blue 2
+blue 6 black 13 black 2 green 8 black 7 red 7 blue 4
+blue 7 black 11 black 1 green 8 black 8 red 3 blue 6
+blue 7 black 11 green 8 black 9 red 1 blue 4
+blue 8 black 10 green 9 black 7 blue 1 black 1 red 1 blue 1 red 1 blue 2
+blue 7 black 9 green 11 black 4 blue 3 red 1 blue 5
+blue 8 black 8 green 12 black 2 blue 4 black 1 blue 5
+blue 7 black 5 red 1 black 2 green 12 blue 5 black 3 blue 5
+blue 10 black 3 red 4 green 12 blue 5 black 5 blue 1 red 1 blue 1
+blue 11 red 8 green 9 blue 2 green 2 blue 3 black 6 green 2
+blue 11 red 10 green 3 blue 1 green 4 blue 4 green 2 blue 2 black 5 green 2
+blue 10 red 13 green 2 blue 2 black 1 blue 1 red 2 blue 5 green 1 blue 1 green 2 black 3 green 2
+green 8 red 16 blue 3 red 4 blue 7 green 6
+green 8 red 16 blue 2 red 4 blue 5 green 5
+green 8 red 15 blue 3 red 5 black 4 green 4
+green 8 red 14 black 2 blue 1 black 2 red 7 green 2 black 2 green 2
+green 8 red 10 green 1 red 3 black 5 red 7 green 5 red 1
+green 8 red 8 green 4 red 2 black 6 red 6 green 4 red 5
+green 8 red 6 green 7 red 1 black 7 red 5 green 3 red 2 red 4
+green 1 green 6 red 3 black 2 green 8 red 1 black 6 red 6
+green 1 green 3 red 3 black 3 green 8 black 6 red 5
+green 3 black 1 green 8 black 4 red 6
+green 3 black 2 blue 1 red 1 green 5 red 3 red 5
+red 1 green 4 red 3
+red 2 green 2 red 3
+red 2 green 1 red 3
+red 4
+red 3
+0

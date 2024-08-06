@@ -1,0 +1,61 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan 10, 2012"
+description "I thought it might be fun to create puzzles representing movie titles. This is a pretty simple rendering, but I think you will get it."
+difficulty 1.25
+height 20
+id 17085
+link "https://webpbn.com/play.cgi?id=17085"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Movie Title 2?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 2 black 5 black 11
+black 2 black 3 black 12
+black 2 black 3 black 13
+black 1 black 1 black 14
+black 1 black 1 black 1 black 13
+black 2 black 1 black 1 black 12
+black 3 black 1 black 1 black 11
+black 2 black 3 black 12
+black 1 black 5 black 12
+black 19
+black 20
+black 8 black 9
+black 5 black 5
+black 2 red 1 black 2
+black 1 red 1 black 1
+black 1 red 5 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 black 1
+
+columns
+black 4 black 5 black 9
+black 5 black 3 black 5
+black 1 black 1 black 1 black 5
+black 2 black 1 black 1 black 6
+black 5 black 7
+black 4 black 1 black 5
+black 3 black 1 black 1 black 4
+black 2 black 3 black 1 black 3 red 1
+black 1 black 5 black 4 red 1
+black 12 red 5
+black 12 red 1
+black 13 red 1
+black 13
+black 13
+black 13
+black 14
+black 14
+black 14
+black 15
+black 20

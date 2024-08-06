@@ -1,0 +1,31 @@
+by "aaaa (4xaa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by aaaa"
+date "Nov 29, 2009"
+description ""
+difficulty 1.0
+height 5
+id 7250
+link "https://webpbn.com/play.cgi?id=7250"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "opt"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 3 blue 1
+blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 3 blue 1
+blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 3 blue 1
+
+columns
+blue 5
+black 5
+black 1 blue 1 black 1 blue 1 black 1
+black 5
+blue 5

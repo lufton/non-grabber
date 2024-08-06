@@ -1,0 +1,81 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Oct  3, 2011"
+description "Parker the Pelican that is. Marz's recent puzzles inspired me to make this. I hope you don't think i'm stealing your theme Marie-Louise. I made it 3 colours so it would be somewhat different than your current wonderful B&W's."
+difficulty 2.75
+height 30
+id 15951
+link "https://webpbn.com/play.cgi?id=15951"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Say hi to Parker."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 black 1 black 1 red 9
+red 2 black 1 red 7
+black 1 black 1 red 2 red 3 red 5 black 1 black 1
+black 1 red 3 red 1 red 2 red 5 black 1
+red 3 black 1 red 2 red 3
+red 6 red 2 red 3
+red 3 red 3 red 2 red 11
+red 2 red 6 red 2 red 11
+red 1 red 8 red 2 red 11
+red 12 red 1 red 3
+red 11 red 3 red 3 black 2
+red 16 red 3 black 3
+red 5 red 2 red 4 red 3 black 5
+red 2 red 2 red 1 red 6 black 6
+red 2 red 2 red 1 red 1 red 4 black 1 black 5
+red 2 red 1 red 1 red 1 red 1 red 3 black 2 black 1
+red 2 red 4 red 1 red 1 red 3 black 1
+black 1 black 1 red 2 red 1 red 4 red 1 red 2
+black 1 red 2 red 1 red 4 red 3
+red 2 red 1 red 3 red 2
+black 2 red 2 red 4 red 1 red 2 black 1
+black 4 red 2 red 2 red 4 red 2 black 2
+black 6 black 1 red 4 red 3 red 1 red 5 black 3
+black 9 red 7 red 3 red 1 black 3
+black 7 red 2 red 1 red 1 red 3 black 4
+black 8 red 1 red 1 red 3 black 5
+black 9 red 1 black 1 red 1 black 1 red 10
+black 8 red 1 black 2 red 1 black 3 red 10
+black 4 black 1 red 1 black 1 red 1 black 3 red 10
+black 1 red 1 black 2 red 1 black 4 red 3 black 7
+
+columns
+black 1 red 3 black 1 black 2
+black 1 red 1 red 3 black 1 black 3 black 2
+red 1 black 1 red 1 red 4 black 1 black 8
+red 1 red 1 red 4 red 3 black 8
+red 2 red 1 red 9 black 8
+red 2 red 1 red 6 red 2 black 7
+red 2 red 1 red 5 red 2 black 7
+red 1 red 1 red 5 red 2 black 7
+black 1 red 3 red 6 red 3 black 5
+black 1 red 2 red 8 red 4 black 3
+black 1 red 8 red 3 red 8
+red 1 red 5 red 1 red 2 red 2 black 2
+red 1 red 3 red 1 red 3 red 2 black 3
+red 1 black 1 red 2 red 3 red 2 black 1
+red 2 red 2 red 5 red 8
+red 2 red 5 red 3 red 3
+red 5 red 2 red 4 red 2 black 1
+red 1 red 3 red 2 red 3 black 3
+red 2 red 2 red 7 black 3
+red 4 red 3 red 2 red 3 black 4
+red 17 red 9
+red 19 red 10
+red 19 red 8
+red 4 red 3 black 3 red 2 red 1 red 3 black 1
+red 2 red 3 black 4 red 5 red 3 black 1
+red 1 red 3 black 5 red 2 black 1 red 3 black 1
+black 1 red 3 black 6 black 2 red 3 black 1
+black 1 red 3 black 4 black 4 red 3 black 1
+black 1 red 3 black 2 black 5 red 3 black 1
+red 3 black 2 black 6 red 3 black 1

@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kurt Kowalczyk"
+date "Aug 16, 2014"
+description "Riot gear....How many of you are aware of or following what's going on in Ferguson, MO? Craziness! Looting, riots, moltov cocktails, etc..(it's in the northern St Louis metro area--grew up in north county, live 10 mins from there, and still head up that way occasionally)"
+difficulty 3.75
+height 20
+id 25197
+link "https://webpbn.com/play.cgi?id=25197"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "peace in my town at the moment....(tricky mod look-ahead solve!--hints in first comment)"
+width 20
+
+rows
+1,5,2
+1,7,2
+2,8,1
+1,8,2
+3,4
+2,10,1
+2,1,1
+3,1,1
+6,1,1,1,2
+6,2,1,2
+7,1,2,2
+7,2,1,1
+6,1,2,1
+3,1,1
+2,2,2
+4,1,5
+7,1,2
+7,2,4
+7,7
+8
+
+columns
+4,5
+2,7,5
+1,11,6
+1,1,6,6
+3,2,5,4
+4,9,4
+4,1,4,4
+4,1,3,1
+4,1,4
+3,1,2,2
+2,1,3,1
+2,1,2,1
+1,1,1,1,1,1
+1,2,1,1
+2,1,1,1,1
+4,2,1,2
+3,3,2,1
+3,1,1,1
+3,2
+5,1

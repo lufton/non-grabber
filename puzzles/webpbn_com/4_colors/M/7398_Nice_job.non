@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Dec 11, 2009"
+description "on that final exam. You've earned an A!"
+difficulty 2.0
+height 20
+id 7398
+link "https://webpbn.com/play.cgi?id=7398"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "Nice job"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 14
+black 2
+blue 12 black 2
+black 2
+black 1 blue 11 black 1
+black 2 black 2
+black 1 blue 11 black 1
+black 2 black 2
+black 1 blue 9 black 1
+black 1 black 1
+black 2 red 1 red 1 black 2
+black 1 red 2 red 1 black 1
+black 1 red 1 red 4 black 1
+black 1 red 3 red 1 red 1 black 1
+black 1 red 1 red 3 black 1
+black 1 red 1 black 1
+black 17
+0
+0
+
+columns
+black 1 blue 1 black 2
+black 1 blue 1 black 3
+black 1 blue 1 black 4
+black 1 blue 1 blue 1 black 7
+black 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 red 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 red 3 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 red 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 red 2 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 red 5 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 blue 1 red 3 black 1
+black 2 blue 1 blue 1 blue 1 red 3 black 1
+black 2 blue 1 black 1
+black 2 black 1
+black 3 black 1
+black 3 black 1
+black 4 black 1
+black 7

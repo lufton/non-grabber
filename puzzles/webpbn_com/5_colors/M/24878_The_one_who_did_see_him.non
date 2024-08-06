@@ -1,0 +1,58 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Jun 22, 2014"
+description "was Friend Zone...and he didn't like what he saw."
+difficulty 1.5
+height 25
+id 24878
+link "https://webpbn.com/play.cgi?id=24878"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "The one who did see him"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 4
+green 1 black 3
+black 2
+red 1
+red 3
+red 4
+red 1 red 5
+red 1 red 2 red 3
+red 2 red 2 red 3
+black 2 green 2 red 3
+black 1 red 1 blue 3
+black 1 red 2 blue 3
+black 1 red 2 blue 4
+black 1 blue 3
+black 1 blue 4
+black 1 blue 5
+black 1 blue 3 blue 2
+black 1 blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+black 1 blue 2 blue 2
+black 1 black 3 blue 2
+black 5 black 3
+black 4
+
+columns
+red 3 black 9 black 3
+red 1 black 1 red 3 black 1
+green 1 red 2 black 2
+red 1 green 1 blue 5 black 2
+red 2 blue 6 black 2
+black 1 green 1 red 2 blue 3 black 1
+black 2 red 2 blue 4 black 2
+black 3 red 6 blue 12 black 2
+black 4 red 7 blue 12 black 2
+black 3 red 6 blue 3

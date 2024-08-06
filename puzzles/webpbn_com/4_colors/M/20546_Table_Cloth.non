@@ -1,0 +1,54 @@
+by "Heather Katherine Evans(aka Flower Maniac) (Flower ManiacK)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Heather Katherine Evans(aka Flower Maniac)"
+date "Dec  6, 2012"
+description "This tiny WebPbn puzzle is for beginners."
+difficulty 2.75
+height 16
+id 20546
+link "https://webpbn.com/play.cgi?id=20546"
+note "published,definitely non-unique,may require much guessing"
+quality 1.75
+title "Table Cloth"
+width 16
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 2
+blue 1 black 1 black 1 blue 2 black 1
+blue 1 black 1 black 1 black 1
+black 1 green 2 black 1 black 1 green 2
+black 2 black 2
+black 2 black 2
+black 1 blue 2 black 1 black 1 blue 2
+black 1 black 1 black 1
+green 1 black 1 black 1 green 2 black 1
+green 1 black 2
+black 1 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 green 2 black 1 black 1
+black 2 black 1 green 1
+black 2 black 1
+
+columns
+black 1 blue 2 green 2 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+green 1 black 2 blue 1 green 1 black 2
+green 1 black 2 blue 1 green 1 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 blue 1 green 1 black 2
+black 1 blue 1 green 1 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+green 1 black 2 blue 1 black 1
+green 1 black 2 blue 1 green 1 black 1

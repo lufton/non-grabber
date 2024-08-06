@@ -1,0 +1,63 @@
+by "Rachel Clune (rebecca)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Rachel Clune"
+date "Jul 23, 2008"
+description "photo book"
+difficulty 1.25
+height 20
+id 3135
+link "https://webpbn.com/play.cgi?id=3135"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "some sort of...."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 blue 2 black 2
+black 2 blue 2 black 2
+blue 2
+red 3 blue 2 red 3
+red 2 blue 2 red 4
+red 1 blue 2 red 5
+blue 2 red 6
+blue 2 red 7 green 7
+blue 2 red 8 green 7
+blue 1 red 8 green 7
+red 8 green 7
+red 8 green 7 blue 1
+red 8 green 7 blue 2
+red 8 green 7 blue 2
+red 8 green 6 blue 2
+green 7 blue 2
+green 6 blue 2 green 1
+green 5 blue 2 green 2
+black 2 green 4 blue 2 green 3 black 2
+black 2 green 3 blue 2 green 4 black 2
+
+columns
+black 2 blue 2 black 2
+black 2 blue 2 black 2
+red 3 blue 2 red 7
+red 2 blue 2 red 8
+red 1 blue 2 red 9
+blue 2 red 10
+blue 2 red 11
+blue 2 red 12
+blue 2 red 12 green 5
+blue 1 red 12 green 5
+green 13
+green 12 blue 1
+green 11 blue 2
+green 10 blue 2 green 1
+green 9 blue 2 green 2
+green 8 blue 2 green 3
+green 7 blue 2 green 4
+blue 2
+black 2 blue 2 black 2
+black 2 blue 2 black 2

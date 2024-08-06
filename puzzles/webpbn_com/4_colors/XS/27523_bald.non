@@ -1,0 +1,42 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Jan  1, 2016"
+description "Vulture."
+difficulty 1.5
+height 10
+id 27523
+link "https://webpbn.com/play.cgi?id=27523"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "bald"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 blue 1
+black 1 blue 1 red 2
+blue 1 black 1 red 1 black 1 red 1
+blue 1 black 2 red 5
+blue 2 black 2 red 2 red 1
+blue 1 black 3
+black 3
+black 2 blue 1
+black 4 blue 1
+blue 1 black 5 blue 1
+
+columns
+blue 2 blue 1
+black 1 blue 2 black 2 black 2
+black 1 blue 1 black 7
+black 1 blue 1 black 8
+blue 1 red 4 blue 1 black 2
+red 1 black 1 red 2 blue 1 black 1
+red 2 blue 1
+red 1
+red 1
+red 1

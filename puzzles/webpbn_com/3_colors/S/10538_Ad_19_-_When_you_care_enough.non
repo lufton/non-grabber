@@ -1,0 +1,49 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Oct  5, 2010"
+description "to send the very best."
+difficulty 1.5
+height 16
+id 10538
+link "https://webpbn.com/play.cgi?id=10538"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Ad #19 - When you care enough,"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 12
+black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 3 black 1
+black 1 black 1
+black 1 red 2 red 2 black 1
+black 1 red 7 black 1
+black 1 red 2 black 3 red 2 black 1
+black 1 red 2 black 1 red 2 black 1
+black 1 red 2 black 1 red 2 black 1
+black 1 red 1 black 1 red 1 black 1
+black 1 red 3 black 1
+black 1 red 1 black 1
+
+columns
+black 16
+black 1
+black 1 black 3 red 2
+black 1 red 5
+black 1 black 3 red 2 black 1 red 4
+black 1 black 1 red 1 black 4 red 2
+black 1 red 2 black 1 red 4
+black 1 black 3 red 5
+black 1 black 1 red 2
+black 1 black 3
+black 1
+black 16

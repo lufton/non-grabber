@@ -1,0 +1,37 @@
+by "Ellie Parker ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Ellie Parker"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 8
+id 27690
+link "https://webpbn.com/play.cgi?id=27690"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Trunk Question"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4
+black 8
+black 2 blue 1 black 2 blue 1 black 2
+black 8
+black 6
+black 4
+black 2
+black 2
+
+columns
+black 3
+black 4
+black 2 blue 1 black 3
+black 8
+black 8
+black 2 blue 1 black 3
+black 4
+black 3

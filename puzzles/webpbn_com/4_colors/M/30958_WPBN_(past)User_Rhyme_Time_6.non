@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Mar 11, 2018"
+description ""
+difficulty 2.75
+height 25
+id 30958
+link "https://webpbn.com/play.cgi?id=30958"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "WPBN (past)User Rhyme Time #6"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 green 1 red 1 green 3
+green 1 green 1 red 2
+green 2 green 1 red 2
+green 1 green 1 red 2
+green 1 red 2
+green 1 red 2
+green 3 black 4 red 1
+green 2 black 1 black 2 green 4
+black 2 black 2
+black 1 black 2
+black 1 black 1
+black 2 black 2 green 1
+red 1 black 1 black 1 green 1
+red 1 black 1 black 2 green 1
+black 11 black 2 green 2
+black 4 black 1 green 1
+black 6 black 3
+black 12
+black 10
+black 1 black 1
+red 3 red 3
+red 5 red 5
+red 2 red 2 red 2 red 2
+red 5 red 5
+red 3 red 3
+
+columns
+black 1
+black 2
+black 3
+black 4 red 3
+black 5 red 5
+green 1 black 1 black 4 red 2 red 2
+green 1 black 1 black 2 red 5
+green 2 black 1 black 2 red 3
+green 1 black 1 black 2
+green 3 black 1 black 2
+green 4 black 4 red 2 black 1 black 2
+black 2 black 2 black 1 black 2 red 3
+black 1 black 2 black 3 red 5
+black 1 black 3 black 4 red 2 red 2
+black 1 black 2 black 7 red 5
+black 3 black 2 red 3
+green 4 red 2 black 1
+red 2 green 4
+red 2 green 2
+red 2 green 1
+red 2 green 1
+red 2 green 1
+green 1 green 1
+green 1
+green 1

@@ -1,0 +1,35 @@
+by "ra100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/18/20"
+height 9
+id 206420
+link "https://www.griddlers.net/nonogram/-/g/206420"
+medium_time "0:00:20"
+points 61
+popularity 65.61
+title "Slovensko Digital"
+width 5
+
+color a ffffff
+color b 000000
+color c ff0000
+color e 0000ff
+
+rows
+e 1
+e 3
+e 1
+e 5
+e 1
+0
+b 1
+b 1 c 1 b 1
+b 1 c 3 b 1
+
+columns
+e 1 b 1
+e 1 e 1 b 1 c 1
+e 5 b 1 c 2
+e 1 e 1 b 1 c 1
+e 1 b 1

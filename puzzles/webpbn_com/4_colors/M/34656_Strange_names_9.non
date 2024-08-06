@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Nov  4, 2020"
+description "Prolate and Oblate Spheroids"
+difficulty 3.25
+height 20
+id 34656
+link "https://webpbn.com/play.cgi?id=34656"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Strange names 9"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1
+black 1 red 1 black 1
+black 3 black 3 red 1
+black 2 black 2 red 1
+black 1 black 1 black 3 red 1 black 3
+black 2 black 2 black 3 black 3
+black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 2
+blue 2 blue 2 blue 3 blue 3
+black 1 blue 3 blue 3 black 1 black 1 blue 4 blue 4 black 1
+black 1 blue 5 black 1 black 2 blue 5 black 2
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 1 black 1 black 3 black 3
+black 2 black 2 black 7
+black 3 black 3 red 1
+black 3 red 1
+red 1
+red 1
+
+columns
+0
+black 4 blue 1 black 4
+black 3 blue 2 black 3
+black 2 blue 1 black 2
+black 1 blue 2 black 1
+black 2 blue 1 black 2
+red 2 blue 1 black 1 red 2
+black 2 blue 1 black 2
+black 1 blue 2 black 1
+black 2 blue 1 black 2
+black 3 blue 2 black 3
+black 4 blue 1 black 4
+0
+black 1 blue 1 black 2
+black 3 blue 1 black 3
+black 2 blue 2 black 2
+black 1 blue 1 black 1
+black 2 blue 1 black 2
+black 1 blue 2 black 1
+black 1 blue 1 black 1
+red 3 blue 1 black 1 red 2
+black 1 blue 1 black 1
+black 1 blue 2 black 1
+black 2 blue 1 black 2
+black 1 blue 1 black 1
+black 2 blue 2 black 2
+black 3 blue 1 black 3
+black 1 blue 1 black 2
+0
+0

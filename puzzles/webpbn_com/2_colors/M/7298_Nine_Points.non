@@ -1,0 +1,62 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Teresa K"
+date "Dec  2, 2009"
+description "The Nine Point Circle of a Triangle, associated with mathematician Euler, sometimes called Euler's Circle."
+difficulty 2.0
+height 20
+id 7298
+link "https://webpbn.com/play.cgi?id=7298"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Nine Points"
+width 25
+
+rows
+4,1,1,1,4,4
+1,1,1,1,1,1,1
+3,1,1,1,3,4
+1,1,1,1,1,1,2
+4,4,4,4,1,2
+7
+3,3
+2,2
+1,2
+2,2,1
+1,4,2
+1,2,3,1
+1,2,3,1
+1,2,4
+3,3
+3,2,3
+2,2,2,3
+2,2,2,3
+25
+6
+
+columns
+5,2
+1,1,1,3
+1,1,1,8,1
+1,1,3,2,1
+2,4,1
+5,1,2,3
+3,2,2
+2,2,2
+6,2,2
+1,2,2
+6,2,2
+2,1,2
+3,2,2
+1,1,1,2
+2,2,3
+5,2,1,2,1
+1,1,1,3,3,1
+1,1,1,5,1
+1,1,2,1
+1,1
+5,2,1
+1,1,1,1
+1,2,3
+5,2
+1,2

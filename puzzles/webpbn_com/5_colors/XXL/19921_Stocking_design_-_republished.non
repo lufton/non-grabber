@@ -1,0 +1,138 @@
+by "Susan Eberhardt (susaneber)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Susan Eberhardt"
+date "Jun  9, 2017"
+description "WPBN is a great tool for plotting knitting. I made a Christmas stocking with this design for my granddaughter. The angel's face was embroidered later."
+difficulty 2.5
+height 84
+id 19921
+link "https://webpbn.com/play.cgi?id=19921"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Stocking design - republished"
+width 31
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 31
+green 31
+green 31
+green 31
+green 31
+green 31
+green 31
+green 31
+green 31
+0
+0
+0
+0
+0
+0
+0
+0
+0
+black 2
+black 4 black 3
+black 4 black 7 black 3
+black 3 black 2 black 2 black 4
+black 3 black 2 black 2 black 4
+black 4 black 2 black 2 black 4
+black 5 black 2 black 2 black 4
+black 4 black 2 blue 3 black 2 black 3
+black 4 black 2 blue 5 black 2 black 4
+black 4 blue 7 black 4
+black 5 blue 8 black 4
+black 5 blue 9 black 5
+black 5 blue 2 blue 2 black 5
+black 5 blue 2 blue 2 black 6
+black 5 blue 2 blue 2 black 5
+black 6 blue 2 blue 2 black 6
+black 6 blue 2 blue 2 black 6
+black 5 blue 3 blue 2 black 5
+black 5 blue 4 blue 4 black 4
+black 5 blue 4 blue 4 black 4
+black 4 blue 2 green 3 green 2 blue 3 black 3
+black 3 red 1 green 7 blue 3 red 1 black 2 black 1
+red 3 green 6 blue 2 red 3 black 1
+red 5 green 4 red 2 blue 1 red 4 black 1
+red 5 green 4 red 8 black 1
+red 7 green 2 red 9 black 1
+red 19 black 1
+green 2 red 21 blue 1 black 1
+green 3 red 21 green 2 blue 2 black 1
+green 4 red 20 green 2 blue 2 black 1
+green 4 red 4 red 15 green 2 blue 2 black 1
+blue 2 green 1 blue 1 green 2 red 4 red 8 red 6 green 3 black 2
+blue 4 green 2 red 4 red 7 red 6 green 3 black 2
+blue 3 green 2 red 3 green 7 red 5 green 3 black 2
+blue 2 green 3 red 2 green 7 red 4 green 3 black 2
+green 4 red 1 red 8 red 2 green 3 black 2
+green 4 red 1 red 9 green 3 black 2
+green 2 red 1 red 10 green 1 black 2
+green 2 red 10 black 2
+red 11 black 2
+red 12 black 2
+red 13 black 3
+red 13 black 3
+red 14 black 3
+red 15 black 3
+red 15 black 3
+red 16 black 3
+red 16 black 3
+red 18 black 3
+red 19 black 3
+red 19 black 3
+red 20 black 4
+red 21 black 4
+red 21 black 4
+red 22 black 4
+red 22 black 4
+green 1 red 23 black 4
+green 2 red 22 black 4
+green 2 red 3 green 1 red 18 green 1 black 4
+green 6 red 11 green 1 red 4 green 2 black 4
+green 7 red 2 green 1 red 6 green 3 red 2 green 3 black 4
+green 10 red 2 green 10 black 4
+green 22 black 4
+blue 3 green 12 green 4 black 4
+blue 4 green 4 blue 1 green 4 black 4
+blue 2 blue 3 black 4
+
+columns
+green 9 blue 2
+green 9 black 1 blue 4 green 3
+green 9 black 3 green 4 blue 3 green 2 red 3 green 4
+green 9 black 4 green 4 blue 3 green 5 red 8 green 4
+green 9 black 6 green 12 red 10 green 4 blue 2
+green 9 black 18 red 2 green 8 red 1 red 11 green 4 blue 3
+green 9 black 17 red 11 red 12 green 5 blue 3
+green 9 black 17 red 10 red 15 green 5 blue 1
+green 9 black 16 red 11 red 19 green 5
+green 9 black 12 red 11 red 22 green 4
+green 9 black 4 black 2 blue 4 red 9 red 24 green 4
+green 9 black 6 blue 10 green 1 red 10 red 25 green 5 blue 1
+green 9 black 2 black 1 blue 11 green 3 red 10 green 2 red 26 green 3 blue 2
+green 9 black 1 blue 4 blue 2 green 5 red 8 green 2 red 27 green 3 blue 1
+green 9 black 1 blue 5 green 6 red 7 green 2 red 27 green 3
+green 9 black 1 blue 5 green 5 red 7 green 2 red 26 green 4
+green 9 black 1 blue 5 green 5 red 8 green 2 red 26 green 4
+green 9 black 1 blue 4 blue 2 green 3 red 10 green 2 red 26 green 3
+green 9 black 2 black 1 blue 14 red 10 green 2 red 25 green 4
+green 9 black 6 blue 14 red 7 red 23 green 4
+green 9 black 4 black 3 blue 4 red 11 red 20 green 4
+green 9 black 8 red 13 red 18 green 3
+green 9 black 11 red 13 red 13 green 3
+green 9 black 14 red 12 red 8 green 4
+green 9 black 15 red 12 red 3 green 4
+green 9 black 14 red 9 green 3
+green 9 black 12 green 9
+green 9 black 6 green 10 black 15
+green 9 black 4 blue 4 green 6 black 25
+green 9 black 1 blue 3 black 35
+green 9 black 45

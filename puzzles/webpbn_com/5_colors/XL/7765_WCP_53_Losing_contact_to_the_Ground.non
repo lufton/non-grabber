@@ -1,0 +1,103 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Feb  9, 2010"
+description "Trapezist"
+difficulty 2.0
+height 40
+id 7765
+link "https://webpbn.com/play.cgi?id=7765"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #53 Losing contact to the Ground"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 2 blue 3 black 2
+black 3 blue 7 red 3 black 2
+black 7 blue 11 red 3 black 2
+black 3 blue 2 blue 9 red 3 black 2
+blue 3 blue 7 red 3
+blue 4 red 1
+blue 4
+blue 4
+blue 4
+blue 5
+blue 5
+blue 5
+blue 6 blue 2
+blue 10
+blue 11
+blue 12
+blue 13
+blue 14
+blue 15
+blue 3 green 5 blue 1 blue 5
+blue 1 green 8 blue 5
+blue 1 green 8 blue 6
+green 9 blue 6
+green 9 blue 6
+green 9 blue 5 red 2
+green 4 green 10 blue 4 red 2
+green 7 green 10 blue 3 red 3
+green 26 blue 2 red 3
+green 30 red 3
+green 32
+green 32
+green 3 green 2 black 1 green 8 green 6
+black 6 green 2
+black 5 black 2
+black 3 black 5
+black 1 black 3 black 3
+black 9
+black 2 black 1 black 3
+black 6 black 1
+
+columns
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 4
+black 3 green 5
+black 4 green 5
+black 5 green 7
+black 1 blue 5 green 9
+black 1 blue 8 green 12 black 4
+blue 1 black 1 blue 17 green 12 black 3 black 3
+blue 2 black 1 blue 16 green 12 black 8
+blue 3 blue 15 green 13 black 2 black 2 black 1
+blue 4 blue 14 green 13 black 7
+blue 4 blue 10 green 13 black 1 black 1 black 1 black 1
+blue 4 blue 6 green 13 black 7
+blue 4 blue 8 green 13 black 5
+blue 3 blue 7 green 6 black 5
+blue 3 blue 7 green 5
+blue 3 blue 7 green 5
+blue 3 blue 7 green 4
+blue 2 red 1 blue 7 green 4
+blue 1 red 3 blue 6 green 3
+red 4 blue 4 green 3
+black 2 red 3 blue 4 green 3
+black 1 red 2 blue 4 green 3
+black 3 blue 4 green 3
+black 3 blue 4 green 3
+blue 4 green 3
+blue 3 green 3
+red 5 green 3
+red 5 green 3
+red 3 green 3
+green 3
+green 3
+green 2

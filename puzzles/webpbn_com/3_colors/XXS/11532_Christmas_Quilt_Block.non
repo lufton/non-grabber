@@ -1,0 +1,31 @@
+by "Heather (heatherkewl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Heather"
+date "Dec 21, 2010"
+description ""
+difficulty 1.25
+height 5
+id 11532
+link "https://webpbn.com/play.cgi?id=11532"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Christmas Quilt Block"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 5
+green 5
+green 2 black 2 green 1
+black 2
+0
+
+columns
+green 3
+green 3
+green 2 black 2
+green 2 black 2
+green 3

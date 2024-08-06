@@ -1,0 +1,63 @@
+by "Diana P ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Diana P"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.5
+height 20
+id 27420
+link "https://webpbn.com/play.cgi?id=27420"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.5
+title "janku kallile emmele"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 2 black 2
+black 7
+black 1 black 5 black 2
+black 1 red 1 black 1 black 3 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 5 red 1 black 1
+black 1 red 1 black 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 black 2 black 1
+blue 2 blue 2 black 1 red 1 red 1 black 1
+blue 7 black 1 red 2 black 1
+blue 5 black 4
+blue 3 green 2 green 2
+blue 1 red 1 red 1 green 6
+red 5 green 5
+red 3 green 3
+red 1 green 1
+
+columns
+blue 1
+blue 3
+blue 4
+black 2 blue 4
+black 1 red 2 black 1 blue 4
+black 1 red 2 black 1 blue 3
+black 1 red 2 black 1 blue 1 red 1
+black 1 black 1 red 2 black 1 red 3
+black 3 black 1 red 2 black 3 red 3
+black 4 black 2 black 1 red 3
+black 4 black 1 blue 1 red 1 black 1 red 1
+black 4 black 1 black 1 red 1 black 1
+black 3 black 1 black 1 red 1 black 1
+black 1 black 2 blue 1 red 1 black 1
+black 1 red 2 black 1 black 1 green 1
+black 1 red 2 black 1 black 3 green 3
+black 1 red 2 black 1 green 4
+black 1 red 2 black 1 green 4
+black 1 red 1 black 1 green 4
+black 1 green 3

@@ -1,0 +1,57 @@
+by "Caleb (araliatrix)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Caleb"
+date "Mar  3, 2013"
+description "It's a TARDIS from the TV show Doctor Who. Also My First Puzzle!"
+difficulty 1.25
+height 20
+id 21255
+link "https://webpbn.com/play.cgi?id=21255"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "VROOOM VROOOM"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 6 blue 3 red 6
+red 6 blue 1 blue 1 red 6
+red 1 blue 13 red 1
+blue 2 black 11 blue 2
+blue 15
+blue 2 black 1 blue 1 black 1 blue 2
+blue 2 black 1 blue 1 black 1 blue 2
+blue 2 black 5 blue 1 black 5 blue 2
+blue 2 black 1 blue 1 black 1 blue 2
+blue 2 black 1 blue 1 black 1 blue 2
+blue 15
+blue 2 blue 9
+blue 2 blue 9
+blue 2 blue 9
+blue 2 blue 9
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+
+columns
+red 3 blue 17
+red 2 blue 18
+red 2 blue 1 black 1 blue 1 black 1 blue 1 blue 5
+red 2 blue 1 black 1 blue 1 black 1 blue 1 blue 5
+red 2 blue 1 black 1 blue 1 black 5 blue 1 blue 5
+red 2 blue 1 black 1 blue 1 black 1 blue 1 blue 5
+blue 3 black 1 blue 1 black 1 blue 10
+blue 1 blue 1 black 1 blue 16
+blue 3 black 1 blue 1 black 1 blue 10
+red 2 blue 1 black 1 blue 1 black 1 blue 10
+red 2 blue 1 black 1 blue 1 black 5 blue 10
+red 2 blue 1 black 1 blue 1 black 1 blue 10
+red 2 blue 1 black 1 blue 1 black 1 blue 10
+red 2 blue 18
+red 3 blue 17

@@ -1,0 +1,41 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 11, 2011"
+description "What are the fewest pixels needed to represent an icon. This is meant as an homage to Kai-Uwe's AMAZING puzzle."
+difficulty 1.25
+height 10
+id 13766
+link "https://webpbn.com/play.cgi?id=13766"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Kai simplified."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 2 black 3
+black 1 black 1 black 1
+black 2 black 1
+black 3 black 1 black 2
+black 1 black 2
+black 1
+black 1 red 2
+black 2 red 2 red 2
+black 2 red 4
+black 3
+
+columns
+black 10
+black 2 black 3
+black 1 black 1 black 1
+black 1 red 1
+black 4 red 2
+black 1 red 1 red 1
+red 1 red 1
+black 1 black 1 red 2
+black 1 black 1 red 1
+black 2

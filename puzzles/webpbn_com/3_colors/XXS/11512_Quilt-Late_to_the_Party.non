@@ -1,0 +1,31 @@
+by "Alex Klages (metalfoot)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alex Klages"
+date "Dec 20, 2010"
+description "Just a quilt square. Sorry if I messed up the plans or am too late for the party!"
+difficulty 1.25
+height 5
+id 11512
+link "https://webpbn.com/play.cgi?id=11512"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Quilt-Late to the Party?"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2 black 1
+black 1 blue 2
+blue 2 black 1
+black 1 blue 2
+blue 2 black 1
+
+columns
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+black 5
+blue 1 blue 1
+blue 1 blue 1

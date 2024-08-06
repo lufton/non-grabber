@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 16, 2011"
+description "Where in the world is this?"
+difficulty 1.75
+height 20
+id 13940
+link "https://webpbn.com/play.cgi?id=13940"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Place Name"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 4
+black 7 black 1 black 1 black 1
+black 1 black 13 red 1
+black 14 red 2
+black 4 red 1
+black 2 red 1
+red 1
+0
+red 1
+red 3 red 3 red 2
+red 1 red 1 red 1 red 3
+red 2 red 3 red 2 red 7
+red 3 red 3 red 3
+red 1 red 1 red 2
+red 1
+0
+red 3
+red 1
+red 3
+
+columns
+black 3
+black 2 black 2 red 1
+black 7 red 3
+black 7 red 1 red 2
+black 5 red 2
+black 3 red 2
+black 3 red 2
+black 2 red 2
+black 3 red 2
+black 2 red 1 red 2
+black 3 red 3
+black 2 red 1
+black 3
+black 2 red 1
+black 1 red 3
+red 5
+red 7
+red 1 red 3
+red 5 red 1 red 1 red 1
+red 1 red 1 red 1 red 1

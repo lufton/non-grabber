@@ -1,0 +1,63 @@
+by "frederic francis (Law Dragon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by frederic francis"
+date "May 24, 2010"
+description ""
+difficulty 1.25
+height 20
+id 8937
+link "https://webpbn.com/play.cgi?id=8937"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "BOOM!!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 1 red 18 black 1
+black 1 red 1 green 16 red 1 black 1
+black 1 red 1 green 1 blue 14 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 5 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 3 black 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 3 black 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 5 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 2 green 3 blue 2 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 2 green 3 blue 2 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 green 3 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 3 green 3 blue 3 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 14 green 1 red 1 black 1
+black 1 red 1 green 16 red 1 black 1
+black 1 red 18 black 1
+black 20
+
+columns
+black 20
+black 1 red 18 black 1
+black 1 red 1 green 16 red 1 black 1
+black 1 red 1 green 1 blue 14 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 4 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 2 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 4 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 2 black 1 green 4 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 2 black 1 green 4 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 2 black 1 green 4 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 4 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 2 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 4 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 blue 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 14 green 1 red 1 black 1
+black 1 red 1 green 16 red 1 black 1
+black 1 red 18 black 1
+black 20

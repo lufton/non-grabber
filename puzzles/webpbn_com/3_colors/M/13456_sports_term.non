@@ -1,0 +1,61 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Apr 19, 2011"
+description "hint: those are bunny ears"
+difficulty 1.5
+height 20
+id 13456
+link "https://webpbn.com/play.cgi?id=13456"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "sports term"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 2 black 2 black 6
+black 1 red 2 black 2 black 2 black 3
+black 1 red 2 black 2 black 1 red 2 black 2
+black 1 red 2 black 2 black 1 red 2 black 5
+black 1 red 2 black 2 black 1 red 2 black 1 black 2
+black 2 red 1 black 2 black 1 red 2 black 1 black 1
+black 2 red 1 black 1 black 2 red 1 black 1
+black 20
+black 19
+black 16
+black 3 black 9
+black 3 black 9
+black 3 black 9
+black 3 black 9
+black 3 black 9
+black 3 black 9
+black 3 black 9
+black 3 black 9
+black 4 black 10
+black 5 black 11
+
+columns
+black 2
+black 2 black 1
+black 3 black 2
+black 5 black 13
+black 15
+red 5 black 15
+red 7 black 3
+black 10
+black 6 black 13
+black 13
+black 20
+black 2 red 4 black 14
+black 1 red 5 black 13
+black 2 black 17
+black 2 black 1 black 13
+black 4 black 13
+black 3 black 13
+black 3 black 3 black 2
+black 2 black 1
+black 1

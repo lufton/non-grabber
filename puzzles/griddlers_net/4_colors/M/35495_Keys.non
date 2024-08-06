@@ -1,0 +1,53 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/7/06"
+height 20
+id 35495
+link "https://www.griddlers.net/nonogram/-/g/35495"
+medium_time "0:05:48"
+points 637
+popularity 73.52
+title "Keys"
+width 12
+
+color a ffffff
+color c 969696
+color d cccc00
+color e 666666
+
+rows
+d 6
+d 2 d 2
+d 2 d 2
+d 1 d 1
+d 1 d 1
+d 1 d 1
+d 1 c 2 e 3
+c 1 d 2 c 2 e 2 d 1 e 2
+c 1 d 2 c 1 e 1 d 2 e 1
+c 2 c 2 d 4 e 2
+c 3 e 3
+c 1 e 1
+c 1 e 1
+c 1 e 1
+c 1 e 1
+c 1 e 1
+c 3 e 3
+c 2 e 2
+c 3 e 3
+c 1 e 1
+
+columns
+c 3 c 1 c 1
+d 6 c 2 c 3
+d 2 c 1 d 2 c 10
+d 2 c 2 d 1 c 2
+d 1 c 3
+d 1 d 1
+d 1 d 1
+d 1 e 2 d 1 e 1 e 1
+d 2 e 2 d 2 e 1 e 3
+d 2 e 1 d 2 e 10
+d 4 e 2 e 2
+e 3

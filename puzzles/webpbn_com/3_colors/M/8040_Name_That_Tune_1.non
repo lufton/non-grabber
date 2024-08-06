@@ -1,0 +1,63 @@
+by "Music Teacher (echambers)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Music Teacher"
+date "Mar 14, 2010"
+description "Stop in the Name of Love"
+difficulty 2.0
+height 21
+id 8040
+link "https://webpbn.com/play.cgi?id=8040"
+note "published,definitely non-unique,may require some guessing"
+quality 2.25
+title "Name That Tune 1"
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 11
+black 1 black 1
+black 1 red 9 black 1
+black 1 red 11 black 1
+black 1 red 13 black 1
+black 1 red 15 black 1
+black 1 red 17 black 1
+black 1 red 6 red 3 red 6 black 1
+black 1 red 5 red 1 red 5 black 1
+black 1 red 4 red 4 black 1
+black 1 red 4 red 4 black 1
+black 1 red 5 red 5 black 1
+black 1 red 6 red 6 black 1
+black 1 red 7 red 7 black 1
+black 1 red 8 red 8 black 1
+black 1 red 15 black 1
+black 1 red 13 black 1
+black 1 red 11 black 1
+black 1 red 9 black 1
+black 1 black 1
+black 11
+
+columns
+black 11
+black 1 black 1
+black 1 red 9 black 1
+black 1 red 11 black 1
+black 1 red 13 black 1
+black 1 red 15 black 1
+black 1 red 7 red 8 black 1
+black 1 red 6 red 7 black 1
+black 1 red 5 red 6 black 1
+black 1 red 6 red 5 black 1
+black 1 red 7 red 4 black 1
+black 1 red 6 red 5 black 1
+black 1 red 5 red 6 black 1
+black 1 red 6 red 7 black 1
+black 1 red 7 red 8 black 1
+black 1 red 15 black 1
+black 1 red 13 black 1
+black 1 red 11 black 1
+black 1 red 9 black 1
+black 1 black 1
+black 11

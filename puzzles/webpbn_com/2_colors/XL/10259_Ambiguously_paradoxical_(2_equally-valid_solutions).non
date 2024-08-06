@@ -1,0 +1,82 @@
+by "Patrick Shaughnessy (pshaughn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Patrick Shaughnessy"
+date "Sep  9, 2010"
+description "The two solutions are also the solutions of the inner puzzle (with dot for blank square, open space for black)"
+difficulty 2.0
+height 35
+id 10259
+link "https://webpbn.com/play.cgi?id=10259"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "Ambiguously paradoxical (2 equally-valid solutions)"
+width 30
+
+rows
+0
+1,1
+1,1
+1,1
+0
+0
+0
+1,1,1,1,1
+3,1,1,1
+1,1,1,1
+0
+24
+1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,3
+1,1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1
+
+columns
+1,1,1,1
+2,1,1,1,1
+1,1,1,1,1
+3,1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1
+3,1,1,1,1,1,1,1
+1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1
+3,3,1,1,1,1,1,1
+1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1
+3,3,1,1,1,1,1,1
+1,1,1,1
+1,1,1,1
+24
+0
+2,3,3,3
+1
+3
+3,3
+0

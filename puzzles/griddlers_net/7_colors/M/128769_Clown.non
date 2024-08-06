@@ -1,0 +1,60 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/12"
+height 15
+id 128769
+link "https://www.griddlers.net/nonogram/-/g/128769"
+medium_time "0:04:17"
+points 968
+popularity 74.75
+title "Clown"
+width 21
+
+color a ffffff
+color b 29519c
+color c c63808
+color d c68a94
+color e 292808
+color f 397100
+color g ffd310
+
+rows
+b 1
+b 3
+c 5
+c 3 d 3 c 3
+c 2 d 1 e 1 d 1 e 1 d 1 c 2
+d 2 c 1 d 2
+f 2 d 3 f 2
+d 1 f 9 d 1
+d 3 g 3 f 2 g 1 f 1 g 1 f 2 g 3 d 3
+d 2 g 2 g 7 g 2 d 2
+e 1 c 9 e 1
+e 2 c 13 e 2
+e 3 c 6 c 6 e 3
+e 3 c 4 c 4 e 3
+e 2 c 2 c 2 e 2
+
+columns
+e 4
+d 1 e 4
+d 3 e 3
+d 2 c 3
+g 2 c 4
+g 2 c 3
+c 2 f 1 g 1 c 4
+c 2 f 3 g 1 c 3
+c 2 d 2 f 3 g 1 c 3
+b 1 c 1 d 1 e 1 d 2 f 1 g 2 c 2
+b 2 c 1 d 2 c 1 d 1 f 2 g 1 c 2
+b 1 c 1 d 1 e 1 d 2 f 1 g 2 c 2
+c 2 d 2 f 3 g 1 c 3
+c 2 f 3 g 1 c 3
+c 2 f 1 g 1 c 4
+g 2 c 3
+g 2 c 4
+d 2 c 3
+d 3 e 3
+d 1 e 4
+e 4

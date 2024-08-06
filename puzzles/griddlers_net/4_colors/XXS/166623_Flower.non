@@ -1,0 +1,31 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166623
+link "https://www.griddlers.net/nonogram/-/g/166623"
+medium_time "0:00:11"
+points 7
+popularity 58.6
+title "Flower"
+width 5
+
+color a ffffff
+color c ffcc00
+color d ff0000
+color e 00d700
+
+rows
+d 1
+d 1 c 1 d 1
+d 1
+e 1
+e 5
+
+columns
+d 1 e 1
+d 1 c 1 d 1 e 2
+d 1 e 1
+e 1
+e 1

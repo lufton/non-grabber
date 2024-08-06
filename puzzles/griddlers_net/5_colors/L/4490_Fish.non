@@ -1,0 +1,82 @@
+by "TNT"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/14/03"
+height 30
+id 4490
+link "https://www.griddlers.net/nonogram/-/g/4490"
+medium_time "0:31:34"
+points 32194
+popularity 67.56
+title "Fish"
+width 30
+
+color a 0000c6
+color b fefefe
+color c fefe00
+color e 00ffff
+color h 000000
+
+rows
+h 9
+e 3 h 3 c 4 h 1
+e 4 h 2 c 4 h 3
+e 2 h 2 c 2 h 1 c 2 h 2
+e 1 e 1 h 1 c 1 h 1 c 2 h 1 c 2 h 1
+e 3 h 2 c 2 h 1 c 2 h 1 c 2 h 1
+e 4 h 1 c 1 h 1 c 2 h 1 c 2 h 1 c 1 h 1
+e 3 h 1 c 2 h 1 c 2 h 1 c 2 h 3
+h 1 c 2 h 2 c 2 h 1 c 3 h 2
+h 1 c 3 h 1 c 3 h 1 c 4 h 1 h 2
+h 2 c 3 h 1 c 3 h 2 c 3 h 1 h 2 c 1 h 1
+h 2 c 2 h 3 c 3 h 1 c 3 h 1 h 1 c 2 h 1
+h 1 c 1 h 1 c 2 h 4 c 2 h 2 c 2 h 3 h 2 c 2 h 1
+h 1 c 1 h 2 c 2 h 1 b 2 h 2 c 2 h 1 c 2 h 1 c 1 h 4 c 1 h 2
+h 1 c 1 h 1 c 2 h 2 b 2 h 2 c 2 h 1 c 2 h 1 c 1 h 1 c 1 h 2 c 1 h 1
+h 1 c 2 h 1 c 2 h 3 b 1 h 2 c 2 h 1 c 2 h 1 c 1 h 1 c 2 h 1 c 1 h 1
+h 1 c 2 h 1 c 2 h 2 b 2 h 2 c 2 h 1 c 2 h 1 c 1 h 2 c 1 h 1 c 1 h 1
+h 1 c 3 h 1 c 3 h 1 b 2 h 1 c 2 h 2 c 2 h 1 c 2 h 3 c 1 h 2
+h 1 c 3 h 1 c 3 h 4 c 2 h 1 c 2 h 2 c 2 h 1 h 2 c 2 h 1
+h 1 c 3 h 2 c 3 h 3 c 1 h 2 c 2 h 1 c 3 h 1 h 2 c 1 h 1
+h 2 c 2 h 2 c 3 h 1 c 2 h 1 c 3 h 1 c 2 h 1 h 3
+h 1 c 2 h 1 c 3 h 1 c 2 h 2 c 2 h 1 c 2 h 1
+h 1 c 1 h 1 c 3 h 1 c 3 h 1 c 2 h 1 c 2 h 1
+h 2 c 3 h 1 c 3 h 1 c 2 h 1 c 3 h 1
+h 2 c 1 h 1 c 3 h 1 c 2 h 1 c 3 h 1
+h 2 c 3 h 1 c 2 h 1 c 4 h 1
+h 2 c 1 h 1 c 2 h 1 c 4 h 1
+h 3 c 1 h 1 c 5 h 1
+h 4 c 4 h 1
+h 10
+
+columns
+e 3 h 3
+e 2 e 3 h 2 c 3 h 1
+e 2 e 3 h 2 c 5 h 1
+e 2 e 2 h 1 c 8 h 1
+e 2 h 2 c 1 h 7 c 2 h 1
+e 2 h 5 c 5 h 2 c 2 h 1
+h 1 c 11 h 4
+h 1 c 6 h 3 c 7 h 1
+h 1 c 4 h 8 c 5 h 1
+h 1 c 2 h 5 b 2 h 1 b 2 h 2 c 5 h 1
+h 4 c 2 h 2 b 5 h 8
+h 1 c 7 h 8 c 6 h 1
+h 1 c 9 h 4 c 9 h 1
+h 8 c 8 h 3 c 5 h 1
+h 1 c 7 h 3 c 4 h 3 c 1 h 7
+h 1 c 9 h 6 c 9 h 1
+h 1 c 1 h 5 c 20 h 1
+h 1 c 5 h 2 c 9 h 11
+h 1 c 4 h 13 c 9 h 1
+h 1 c 2 h 3 h 1 c 15 h 1
+h 1 c 1 h 2 h 5 c 3 h 3 c 6 h 1
+h 1 c 1 h 1 h 1 c 2 h 4 h 2 c 4 h 1
+h 1 c 1 h 1 h 2 c 2 h 1 h 2 c 2 h 1
+h 2 h 7 h 1 c 1 h 1
+h 1 h 1 c 5 h 1 h 2
+h 1 h 1 c 1 h 5 c 1 h 1 h 1
+h 1 h 1 c 2 h 1 h 1 c 1 h 1 h 1
+h 1 h 1 c 1 h 1 h 1 c 1 h 1 h 1
+h 1 c 1 h 1 h 2 h 1
+h 2 h 1 h 1

@@ -1,0 +1,62 @@
+by "Maria Jose Fabregas (borismigat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Maria Jose Fabregas"
+date "Nov 10, 2008"
+description "like my little dugther"
+difficulty 3.0
+height 20
+id 3999
+link "https://webpbn.com/play.cgi?id=3999"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.5
+title "little cheas leader"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2 red 2 red 2 red 2 black 3
+red 1 red 2 black 5 red 1 black 6
+red 1 black 3 red 1 black 10 red 1 black 2
+black 8 black 3 red 2 black 1
+black 2 red 1 black 3 black 1 red 1 red 2
+black 1 red 2 black 1 blue 1 blue 1 black 1 red 2 red 1
+red 1 red 2 black 1 black 1 red 2 red 1
+red 2 red 2 black 1 red 1 black 1 red 1 red 2
+red 2 red 2 black 1 red 1 black 1 red 1 red 2
+red 1 red 2 red 1 black 1 black 1 red 2 red 1
+red 1 red 2 red 2 black 3 red 1 red 2 red 1
+red 2 red 2 black 2 black 2 red 1 red 1 black 2
+red 2 black 4 black 1 black 4 red 1 black 3
+red 1 black 7 black 8
+red 1 black 8 black 9 red 1
+black 6 red 2 black 1 black 4 red 1 black 3 red 2
+black 3 red 5 black 6 red 6
+black 2 red 6 blue 6 red 6
+red 7 black 8 red 5
+red 5 black 12 red 3
+
+columns
+red 2 black 3 red 1 red 2 red 2 black 3 red 2
+red 1 black 3 red 2 red 2 black 4 red 2
+red 1 black 2 red 1 red 2 red 2 black 4 red 3
+red 1 black 2 red 2 red 2 black 3 red 4
+red 2 black 2 red 2 red 2 black 3 red 4
+red 1 black 3 red 2 red 1 black 4 red 3 black 1
+red 1 black 3 black 1 red 2 red 1 black 3 red 4 black 1
+black 3 black 2 red 2 black 4 red 3 black 2
+black 2 blue 1 black 1 red 1 black 6 blue 1 black 2
+red 1 black 2 black 1 black 1 blue 1 black 2
+red 1 black 2 red 2 black 1 black 1 black 3 blue 1 black 2
+black 2 blue 1 black 1 black 3 blue 1 black 2
+red 1 black 2 black 1 red 1 black 6 blue 1 black 2
+red 1 black 7 black 6 blue 1 black 2
+red 1 black 3 red 1 red 2 red 1 black 3 red 3 black 2
+black 2 red 2 red 2 black 4 red 3 black 1
+black 2 red 1 red 2 red 2 red 1 black 3 red 3 black 1
+black 2 red 2 red 2 red 1 black 4 red 4
+black 3 red 2 red 2 black 4 red 5
+black 3 red 2 red 2 black 3 red 6

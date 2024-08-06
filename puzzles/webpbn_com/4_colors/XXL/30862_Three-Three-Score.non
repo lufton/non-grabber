@@ -1,0 +1,122 @@
+by "Louis Gilbrook (LouisGilbrook)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Louis Gilbrook"
+date "Feb 11, 2018"
+description ""
+difficulty 3.0
+height 50
+id 30862
+link "https://webpbn.com/play.cgi?id=30862"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 3.75
+title "Three-Three-Score"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 4 black 4
+black 2 red 2 black 3 black 2
+black 1 red 4 black 1 black 1
+black 5 black 2 red 4 black 2 black 5
+black 2 black 2 black 1 red 5 black 1 black 2 black 2
+black 5 black 2 black 1 red 5 black 1 black 2 black 5
+black 2 red 4 black 2 black 1 red 5 black 1 black 2 red 4 black 2
+black 1 red 5 black 1 black 1 red 5 black 1 black 1 red 5 black 1
+black 1 red 6 black 1 black 1 red 5 black 1 black 1 red 6 black 1
+black 1 red 6 black 1 black 1 red 5 black 1 black 1 red 6 black 1
+black 1 red 7 black 1 black 2 red 4 black 2 black 1 red 7 black 1
+black 2 red 6 black 2 black 2 red 3 black 2 black 2 red 6 black 2
+black 2 red 6 black 1 black 2 red 2 black 2 black 1 red 6 black 2
+black 3 red 4 black 2 black 3 black 3 black 2 red 4 black 3
+black 3 red 3 black 1 black 1 black 1 black 1 red 3 black 3
+black 4 black 2 black 1 black 1 black 2 black 4
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 1 black 2 black 2
+black 1 black 1 blue 18 black 1
+black 1 blue 4 blue 3 black 1
+blue 3 red 1 red 3 red 3 blue 2
+blue 3 red 2 red 1 red 1 red 1 red 1 blue 3
+blue 2 red 3 red 1 red 3 red 1 red 1 red 3 blue 3
+blue 2 red 3 red 1 red 1 red 1 red 1 red 1 red 2 blue 2
+blue 1 red 2 red 1 red 3 red 3 red 2 blue 1
+blue 2 red 2 red 2 blue 2
+blue 4 blue 17 blue 4
+blue 2 blue 2 blue 3 black 1 black 1 black 1 black 1 blue 3 blue 2 blue 2
+blue 1 blue 2 blue 2 black 2 black 2 black 1 black 1 black 1 black 1 blue 2 blue 2 blue 2
+blue 1 blue 3 black 1 black 1 black 1 black 1 black 2 black 1 blue 3 blue 1
+blue 2 blue 2 black 1 black 1 black 1 black 1 black 1 black 2 blue 2 blue 2
+blue 1 blue 1 black 2 black 3 black 3 black 1 blue 1 blue 2
+blue 2 blue 1 black 1 black 2 black 2 black 1 blue 1 blue 1
+blue 1 blue 2 black 2 black 2 black 2 black 1 blue 2 blue 2
+blue 2 blue 2 black 1 black 1 black 1 black 2 blue 2 blue 1
+blue 4 black 2 black 2 black 2 black 2 blue 2 blue 2
+black 2 black 2 black 2 black 2 blue 3
+black 1 black 1 black 2 black 1
+black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 7
+0
+0
+0
+
+columns
+0
+0
+black 6
+black 2 red 4 black 2
+black 1 red 6 black 2
+black 1 red 7 black 1
+black 1 red 7 black 2 blue 4
+black 2 red 8 black 1 blue 2 blue 3
+black 2 red 6 black 2 blue 4 blue 3
+black 1 red 5 black 1 blue 2 blue 2 blue 2
+black 1 red 3 black 1 blue 2 blue 2 blue 1
+black 1 red 1 black 3 blue 1 blue 2 blue 1
+black 2 black 3 blue 2 red 1 blue 2 blue 2
+black 2 black 3 black 3 blue 1 red 2 blue 2 blue 2
+black 2 black 3 black 3 blue 2 red 2 blue 6
+black 6 black 3 blue 1 red 1 blue 2
+black 2 blue 1 red 2 blue 1 black 1
+blue 2 red 1 blue 2 black 4
+blue 1 red 1 blue 1 black 3
+black 8 blue 1 blue 1 black 3
+black 3 red 6 black 2 blue 1 red 1 blue 1 black 2 black 2
+black 2 red 9 black 2 blue 1 red 5 blue 1 black 4 black 3
+black 1 red 11 black 2 blue 1 blue 1 black 3 black 4
+black 1 red 12 black 1 blue 1 blue 1 black 10 black 1
+black 2 red 11 black 7 blue 1 red 5 blue 1 black 7
+black 2 blue 1 red 1 red 1 red 1 blue 1 black 1
+black 2 black 7 blue 1 red 5 blue 1 black 7
+black 1 black 1 blue 1 blue 1 black 11 black 1
+black 1 black 2 blue 1 blue 1 black 3 black 3
+black 2 black 2 blue 1 red 5 blue 1 black 3 black 4
+black 3 black 2 blue 1 red 1 red 1 blue 1 black 3 black 2
+black 8 blue 1 red 5 blue 1 black 2
+blue 1 blue 1 black 5
+blue 1 red 1 blue 2 black 3
+black 1 blue 2 red 1 blue 1
+black 6 black 3 blue 1 red 2 blue 2
+black 2 black 3 black 3 blue 2 red 2 blue 6
+black 2 black 3 black 3 blue 2 red 2 blue 2 blue 2
+black 2 black 3 blue 1 red 1 blue 2 blue 2
+black 1 red 1 black 3 blue 2 blue 2 blue 2
+black 1 red 3 black 1 blue 1 blue 2 blue 1
+black 1 red 5 black 1 blue 2 blue 2 blue 2
+black 2 red 6 black 2 blue 4 blue 3
+black 2 red 8 black 1 blue 2 blue 3
+black 1 red 7 black 2 blue 2 blue 2
+black 1 red 7 black 1 blue 3
+black 1 red 6 black 2
+black 2 red 4 black 2
+black 6
+0

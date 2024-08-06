@@ -1,0 +1,108 @@
+by "willem"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/5/10"
+height 40
+id 88613
+link "https://www.griddlers.net/nonogram/-/g/88613"
+medium_time "0:31:29"
+points 98586
+popularity 74.08
+title "Referee"
+width 45
+
+color a 9999ff
+color b 000000
+color c ffffff
+color d 9a6c24
+color e eb9700
+color f f45a4d
+
+rows
+d 8
+d 10
+d 6 e 6
+d 6 e 5 c 1 e 1
+d 4 e 3 d 2 e 3 c 1 e 1
+d 2 b 5 e 2 d 2 e 2 d 2
+d 2 e 1 d 1 e 2 b 6 e 1 b 4
+d 1 e 2 d 1 e 3 b 1 c 1 b 5 c 1 b 2
+d 1 e 6 b 5 e 2 b 2
+e 1 d 1 e 6 b 3 d 2 e 2 b 1
+e 11 d 2 e 4
+c 5 e 3 d 2 e 7 d 2 b 2 e 2
+c 1 e 5 c 2 e 2 d 2 e 8 d 2 b 1 e 3
+e 10 d 1 e 10 b 1 e 5
+e 1 d 2 e 6 b 1 d 2 e 12 d 2 e 1
+e 2 d 2 e 5 b 1 d 2 e 6 d 2 e 5 d 2
+e 2 d 3 e 3 b 2 d 2 e 5 d 1 e 6 d 2
+e 2 d 4 e 3 b 2 d 3 e 3 d 1 e 1 d 1 f 7
+d 1 e 1 d 3 e 4 b 1 e 2 d 4 e 1 d 2 e 2 f 2 c 2 f 3
+d 1 e 1 d 2 e 9 c 2 d 5 e 1 f 2 c 1 f 3
+d 1 e 1 d 2 e 11 c 1 d 2 e 2 d 1 f 2 c 1 f 3
+d 1 e 1 d 3 e 11 c 2 d 3 f 1 c 1 f 3
+d 1 e 1 d 3 e 5 d 1 e 6 c 1 f 3
+d 1 e 2 d 4 e 3 d 4 e 4 c 1
+e 4 d 7 d 2 e 4 c 1
+e 2 d 1 e 1 d 7 d 2 e 4 c 7
+d 1 e 1 d 8 d 2 e 2 d 1 e 7 c 5
+d 2 f 4 d 3 b 1 d 3 e 8 b 1 e 3 c 2
+f 10 b 2 d 2 e 4 d 2 e 1 b 2 e 4 c 1
+f 4 c 1 f 7 b 2 d 5 b 1 d 1 e 2 b 2 e 4 c 1
+f 3 c 3 f 7 b 4 d 2 b 1 d 2 e 2 b 1 d 1 e 3 c 1
+f 4 c 1 f 7 b 2 b 4 d 1 b 1 d 2 e 1 b 1 d 3 e 2 c 1
+f 11 b 1 e 2 b 2 d 2 b 2 e 1 b 1 e 3 d 1 e 2 c 1
+f 6 e 3 f 2 e 4 b 2 d 1 b 5 d 1 e 1 c 1 d 1 e 2 c 1
+f 5 e 5 f 1 e 5 b 3 d 2 e 4 c 1 d 2 e 2 c 2
+d 25 b 6 e 2 c 1 d 2 e 3 c 2
+d 25 b 2 d 3 e 1 c 2 d 2 e 4 c 2
+b 24 b 4 e 1 c 1 d 1 e 6
+d 24 d 2 e 5
+d 24 d 5
+
+columns
+c 1 e 5 d 6 e 2 d 2 f 7 d 2 b 1 d 2
+c 1 e 2 d 1 e 12 d 1 f 7 d 2 b 1 d 2
+c 1 e 2 d 2 d 2 e 2 d 2 f 8 d 2 b 1 d 2
+c 1 e 3 d 9 e 2 d 1 f 3 c 1 f 4 d 2 b 1 d 2
+c 1 e 4 d 11 f 2 c 3 f 3 d 2 b 1 d 2
+c 1 e 4 d 3 e 4 d 4 f 3 c 1 f 3 e 1 d 2 b 1 d 2
+c 1 e 4 d 1 e 5 d 5 f 5 e 2 d 2 b 1 d 2
+c 1 e 11 d 4 f 5 e 2 d 2 b 1 d 2
+d 4 e 15 d 4 f 5 e 2 d 2 b 1 d 2
+d 5 e 2 d 1 e 4 b 3 e 7 d 3 f 6 e 1 d 2 b 1 d 2
+d 4 b 1 e 6 d 4 b 3 e 3 d 4 f 6 d 2 b 1 d 2
+d 5 b 1 d 2 e 3 d 2 e 1 d 3 b 1 e 5 d 1 f 3 b 1 e 2 d 2 b 1 d 2
+d 5 b 1 e 5 d 1 e 4 d 2 e 5 d 1 f 1 b 1 e 3 d 2 b 1 d 2
+d 4 e 1 b 1 e 11 d 2 e 4 d 2 b 1 e 3 d 2 b 1 d 2
+d 4 e 1 b 2 e 10 d 2 c 1 e 4 d 2 e 2 d 2 b 1 d 2
+d 2 e 4 b 3 e 9 d 1 c 1 e 5 d 2 e 1 d 2 b 1 d 2
+d 2 e 2 d 1 e 1 b 1 c 1 b 2 e 8 d 2 c 2 e 4 d 1 b 1 d 2 b 1 d 2
+d 2 e 2 d 2 b 4 e 9 d 2 c 2 e 4 d 1 b 1 d 2 b 1 d 2
+d 2 e 3 d 1 b 4 e 5 d 7 c 1 e 3 d 1 b 2 d 2 b 1 d 2
+d 1 e 4 b 3 d 2 e 4 d 1 e 2 d 2 e 1 d 1 c 1 e 1 d 3 b 2 d 2 b 1 d 2
+e 1 c 1 e 3 b 1 e 1 d 4 e 4 d 1 e 1 d 1 e 1 d 1 c 1 e 2 d 2 b 1 d 2 b 1 d 2
+e 1 c 1 d 1 b 2 e 3 d 2 b 1 e 3 f 1 e 2 d 1 c 1 e 3 d 1 b 2 d 2 b 1 d 2
+e 1 d 1 b 1 c 1 b 1 e 2 b 2 e 4 f 2 c 1 e 3 d 1 b 2 d 2 b 1 d 2
+b 4 e 1 b 1 e 5 f 2 c 1 e 3 d 2 b 2 d 2 b 1 d 2
+b 2 e 4 d 1 e 2 f 1 c 1 f 3 c 1 e 3 d 2 b 3 d 2
+e 3 d 3 f 1 c 1 f 2 c 1 f 1 c 1 e 2 d 1 b 2 d 2 b 2
+e 2 d 2 f 2 c 2 f 2 c 1 e 2 d 3 b 1 d 2 b 2
+f 6 c 1 e 3 d 2 b 5
+f 4 c 1 b 2 e 2 d 1 b 2 d 1 b 3
+f 2 c 1 e 1 b 2 e 3 b 1 d 1 b 1 d 1 b 1
+c 1 e 2 b 5 e 1 b 1 d 1 b 1
+c 1 e 3 d 2 e 1 b 1 e 1 b 1 d 1 b 1
+c 1 e 3 d 1 e 1 d 1 e 4
+c 1 e 3 d 1 e 4 c 2
+c 1 e 3 d 1 c 4
+c 2 e 2 d 2
+c 1 e 2 d 2
+c 1 e 2 d 2
+c 1 e 2 d 3
+c 1 e 3 d 2
+c 1 e 4 d 1
+c 1 e 3 d 1
+c 1 e 3 d 1
+c 1 e 2 d 1
+c 1 e 2

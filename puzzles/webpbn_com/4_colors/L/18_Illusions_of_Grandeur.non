@@ -1,0 +1,79 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Apr  2, 2004"
+description "The classical optical illusion known as the "Penrose Triangle" after it's original designer, Roger Penrose."
+difficulty 1.75
+height 29
+id 18
+link "https://webpbn.com/play.cgi?id=18"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Illusions of Grandeur"
+width 28
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 2
+red 6
+red 9
+green 2 red 9
+green 4 red 9
+green 6 red 9
+green 8 red 9
+green 10 red 9
+green 12 red 9
+green 4 black 1 green 9 red 9
+green 4 black 3 green 9 red 9
+green 4 black 4 green 9 red 9
+green 4 black 4 green 8 red 9
+green 4 black 4 green 4 red 9 black 2
+green 4 black 4 red 9 black 4
+green 4 black 4 red 9 black 6
+green 4 black 4 red 9 black 8
+green 4 black 4 red 9 black 9
+green 4 black 4 red 8 black 9
+green 4 black 4 red 6 black 9
+green 4 black 4 red 4 black 9
+green 4 black 4 red 2 black 9
+green 4 black 13
+green 4 black 11
+green 4 black 9
+green 4 black 7
+green 4 black 5
+green 3 black 3
+green 1 black 1
+
+columns
+red 1 green 24
+red 2 green 25
+red 3 green 24
+red 4 green 25
+red 5 green 4 black 20
+red 4 green 5 black 18
+red 5 green 4 black 18
+red 4 green 5 black 16
+red 5 green 4 red 4 black 5
+red 4 green 5 red 5 black 4
+red 5 green 4 red 4 black 5
+red 4 green 5 red 5 black 4
+red 5 green 4 red 4 black 5
+red 4 green 5 red 5 black 4
+red 5 green 4 red 4 black 5
+red 4 green 4 red 5 black 4
+red 5 green 3 red 4 black 5
+red 4 green 2 red 5 black 4
+red 5 green 1 red 4 black 5
+red 9 black 4
+red 8 black 5
+red 7 black 4
+red 6 black 5
+red 5 black 4
+red 4 black 5
+red 3 black 4
+red 2 black 5
+red 1 black 4

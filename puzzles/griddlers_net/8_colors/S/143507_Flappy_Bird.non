@@ -1,0 +1,54 @@
+by "AriaLikesGrids"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/5/14"
+height 12
+id 143507
+link "https://www.griddlers.net/nonogram/-/g/143507"
+medium_time "0:04:24"
+points 1646
+popularity 65.87
+title "Flappy Bird"
+width 17
+
+color a 00cccc
+color b 333333
+color c ff9900
+color d ff0000
+color e ffcc66
+color f ffffff
+color g cccccc
+color h cc6600
+
+rows
+b 6
+b 2 e 3 b 1 f 2 b 1
+b 1 e 2 c 2 b 1 f 4 b 1
+b 1 e 1 c 4 b 1 g 1 f 2 b 1 f 1 b 1
+b 1 e 1 c 5 b 1 g 1 f 2 b 1 f 1 b 1
+b 1 c 7 b 1 g 1 f 3 b 1
+b 5 c 4 b 6
+b 1 e 1 f 3 e 1 b 1 c 2 b 1 d 6 b 1
+b 1 f 4 b 1 h 2 b 1 d 1 b 6
+b 1 f 2 e 1 b 1 h 4 b 1 d 5 b 1
+b 4 h 5 b 5
+b 5
+
+columns
+b 3
+b 3 e 1 f 2 b 1
+b 1 e 1 c 1 b 1 f 3 b 1
+b 1 e 1 c 2 b 1 f 2 e 1 b 1
+b 1 e 1 c 3 b 1 f 2 b 2
+b 1 e 1 c 3 b 1 e 1 b 1 h 2 b 1
+b 1 e 1 c 5 b 1 h 3 b 1
+b 1 e 1 c 6 h 3 b 1
+b 1 e 1 b 3 c 3 b 1 h 2 b 1
+b 2 f 1 g 2 b 1 c 1 b 1 d 1 b 1 h 1 b 1
+b 1 f 4 g 1 b 1 d 1 b 1 d 1 b 1
+b 1 f 5 b 1 d 1 b 1 d 1 b 1
+b 1 f 1 b 2 f 1 b 1 d 1 b 1 d 1 b 1
+b 1 f 3 b 1 d 1 b 1 d 1 b 1
+b 4 d 1 b 1 d 1 b 1
+b 1 d 1 b 2
+b 1

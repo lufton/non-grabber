@@ -1,0 +1,46 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/19/18"
+height 13
+id 188389
+link "https://www.griddlers.net/nonogram/-/g/188389"
+medium_time "0:03:39"
+points 542
+popularity 81.69
+title "Rabbit"
+width 11
+
+color a ffffff
+color b 000000
+color c c98c00
+color d 996600
+color e ffcccc
+
+rows
+c 2
+c 1 e 1 c 1
+c 1 e 2 c 1
+c 1 e 1 d 2 c 2
+c 1 d 2 b 1 c 1 e 1
+c 1 d 2 c 2
+c 7
+c 7
+c 5 d 1 c 2
+c 3 d 3 c 2
+d 1 c 3 d 2 c 3
+d 1 c 4 d 2 c 2 b 1
+d 1 c 5 b 1
+
+columns
+d 2
+c 4 d 1
+c 6
+c 3 c 7
+c 1 e 2 c 1 c 3 d 2 c 2
+c 1 e 2 c 1 c 3 d 3 c 1
+c 1 d 2 c 3 d 2 d 1 c 1
+d 3 c 5 b 1
+c 1 b 1 d 1 c 6
+c 4 c 2
+e 1 c 1 b 1

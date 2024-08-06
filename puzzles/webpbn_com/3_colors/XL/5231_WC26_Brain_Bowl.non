@@ -1,0 +1,101 @@
+by "Steve Johnson (swjohnson12)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Steve Johnson"
+date "Mar  5, 2009"
+description "ESPNU - ESPN College Sports Logo http://espn.go.com/college-sports/ If your in college - you have to have some brains. College football season ends in all the Bowl Games - hence my title."
+difficulty 1.75
+height 40
+id 5231
+link "https://webpbn.com/play.cgi?id=5231"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "WC#26 Brain Bowl"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 40
+black 40
+black 6 black 1 black 5
+black 6 black 12 black 1 black 12 black 5
+black 6 black 12 black 1 black 12 black 5
+black 6 black 2 red 8 black 2 black 1 black 2 red 8 black 2 black 5
+black 6 black 2 red 8 black 2 black 1 black 2 red 8 black 2 black 5
+black 6 black 2 red 8 black 2 black 1 black 2 red 8 black 2 black 5
+black 6 black 2 red 8 black 2 black 1 black 2 red 8 black 2 black 5
+black 6 black 4 red 4 black 4 black 1 black 4 red 4 black 4 black 5
+black 6 black 4 red 4 black 4 black 1 black 4 red 4 black 4 black 5
+black 6 black 2 red 4 black 3 black 1 black 3 red 4 black 2 black 5
+black 8 black 2 red 4 black 3 black 3 black 3 red 4 black 2 black 7
+black 2 black 2 red 4 black 3 black 3 red 4 black 2 black 1
+black 2 black 35 black 1
+black 2 black 3 black 1 black 1 black 3 black 1
+black 3 black 3 black 1 black 1 black 3 black 2
+black 3 black 31 black 2
+black 4 black 1 black 1 black 1 black 1 black 2 black 1 black 3
+black 4 black 1 black 1 black 1 black 1 black 2 black 1 black 3
+black 3 black 2 black 9 black 1 black 5 black 2 black 2 black 2
+black 3 black 3 black 1 black 1 black 5 black 2 black 3 black 2
+black 2 black 3 black 1 black 1 black 5 black 2 black 3 black 1
+black 2 black 35 black 1
+black 2 black 2 red 4 black 3 black 3 red 4 black 2 black 1
+black 8 black 2 red 4 black 3 black 3 black 3 red 4 black 2 black 7
+black 8 black 2 red 4 black 3 black 3 black 3 red 4 black 2 black 7
+black 8 black 2 red 4 black 3 black 3 black 3 red 4 black 2 black 7
+black 8 black 2 red 4 black 3 black 3 black 3 red 4 black 2 black 7
+black 8 black 2 red 4 black 3 black 3 red 4 black 2 black 7
+black 8 black 2 red 4 black 11 red 4 black 2 black 7
+black 8 black 2 red 5 black 9 red 5 black 2 black 7
+black 8 black 2 red 17 black 2 black 7
+black 9 black 1 red 15 black 2 black 8
+black 10 black 2 red 13 black 2 black 9
+black 11 black 2 red 11 black 2 black 10
+black 12 black 13 black 11
+black 13 black 11 black 12
+black 14 black 13
+black 40
+
+columns
+black 40
+black 40
+black 13 black 6 black 15
+black 13 black 1 black 2 black 1 black 15
+black 13 black 3 black 3 black 15
+black 13 black 4 black 4 black 15
+black 2 black 1 black 10 black 15
+black 2 black 8 black 1 black 1 black 1 black 1 black 15
+black 2 black 8 black 1 black 1 black 1 black 7
+black 2 black 2 red 4 black 6 black 1 black 1 black 9 black 6
+black 2 black 2 red 4 black 6 black 1 black 1 black 10 black 5
+black 2 black 2 red 9 black 1 black 1 black 1 black 1 red 8 black 1 black 4
+black 2 black 2 red 9 black 1 black 1 black 1 black 1 red 9 black 2 black 3
+black 2 black 2 red 9 black 10 red 10 black 2 black 2
+black 2 black 2 red 9 black 1 black 1 black 1 black 1 red 11 black 2 black 1
+black 2 black 2 red 4 black 6 black 1 black 1 black 8 red 5 black 2 black 1
+black 2 black 2 red 4 black 6 black 1 black 1 black 9 red 4 black 2 black 1
+black 2 black 12 black 1 black 1 black 9 red 4 black 2 black 1
+black 2 black 8 black 1 black 1 black 1 black 2 red 4 black 2 black 1
+black 2 black 1 black 1 black 1 black 1 black 4 black 2 red 4 black 2 black 1
+black 13 black 1 black 7 black 4 black 2 red 4 black 2 black 1
+black 2 black 1 black 1 black 1 black 1 black 4 black 2 red 4 black 2 black 1
+black 2 black 8 black 1 black 1 black 1 black 2 red 4 black 2 black 1
+black 2 black 12 black 1 black 12 red 4 black 2 black 1
+black 2 black 2 red 4 black 6 black 1 black 12 red 4 black 2 black 1
+black 2 black 2 red 4 black 6 black 1 black 11 red 5 black 2 black 1
+black 2 black 2 red 9 black 1 black 1 black 4 red 11 black 2 black 1
+black 2 black 2 red 9 black 10 red 10 black 2 black 2
+black 2 black 2 red 9 black 1 black 1 black 1 red 9 black 2 black 3
+black 2 black 2 red 9 black 1 black 1 black 1 red 8 black 2 black 4
+black 2 black 2 red 4 black 6 black 16 black 5
+black 2 black 2 red 4 black 6 black 15 black 6
+black 2 black 8 black 1 black 1 black 1 black 7
+black 2 black 8 black 1 black 1 black 1 black 1 black 15
+black 2 black 1 black 10 black 15
+black 13 black 4 black 4 black 15
+black 13 black 3 black 3 black 15
+black 13 black 1 black 2 black 1 black 15
+black 13 black 6 black 15
+black 40

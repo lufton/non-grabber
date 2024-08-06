@@ -1,0 +1,61 @@
+by "Seleucus Frost ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Seleucus Frost"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.75
+height 25
+id 25622
+link "https://webpbn.com/play.cgi?id=25622"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Weeeee!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 3 blue 1 black 1 black 1 blue 1 black 3
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 5 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 black 1 blue 2 black 1
+black 1 blue 3 black 3 blue 3 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 11
+0
+0
+
+columns
+black 3
+black 1 black 1
+black 1 black 19
+black 1 black 1 blue 17 black 1
+black 3 blue 18 black 1
+black 16 blue 3 black 1
+black 1 black 1 blue 2 black 1
+black 1 black 2 blue 2 black 1
+black 1 black 1 blue 2 black 1
+black 16 blue 3 black 1
+black 3 blue 18 black 1
+black 1 black 1 blue 17 black 1
+black 1 black 19
+black 1 black 1
+black 3

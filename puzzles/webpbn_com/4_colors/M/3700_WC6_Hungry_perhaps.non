@@ -1,0 +1,59 @@
+by "Agneta (aggge)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Agneta"
+date "Sep 29, 2008"
+description "Picking plenty of peaches, presently pausing."
+difficulty 2.0
+height 18
+id 3700
+link "https://webpbn.com/play.cgi?id=3700"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WC#6: Hungry, perhaps?"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 4 black 2
+green 7 black 2
+green 9 black 2
+green 5 black 2
+green 4 red 3 black 2 red 4
+green 3 red 4 black 1 red 6
+red 3 red 8
+red 2 red 10
+red 2 red 11
+red 2 red 3 red 4
+red 1 red 2 red 3
+red 1 red 2 red 2
+red 1 red 2 red 2
+red 2 red 1 red 2
+red 1 red 2 red 2
+red 2 red 2 red 2
+red 2 red 1 red 2
+red 4
+
+columns
+green 1
+green 2
+green 3
+green 3
+green 4
+green 3 red 6
+green 4 red 4 red 2
+green 3 red 3 red 1
+green 3 red 3 red 5 red 2
+green 3 red 2 red 8 red 1
+green 2 red 6 red 2 red 1
+green 1 black 3 red 3 red 3
+black 3 red 4 red 1
+black 2 red 5 red 2
+black 2 red 5 red 1
+black 1 red 6 red 1
+red 7 red 2
+red 10
+red 7

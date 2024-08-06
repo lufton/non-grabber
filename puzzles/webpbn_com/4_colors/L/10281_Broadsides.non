@@ -1,0 +1,82 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Sep  9, 2010"
+description "Most popularly known as "Battleship", this game has been played since as early as 1931. It's believed to have been originally published by The Strathmore Co. in 1933 under the name "Combat, The Battleship Game". In 1943, Milton Bradley published a pencil game of the like named "Broadsides". Then in 1967, MB made the original boardgame we know and love today. Although it now has been electronicized and voiced. Amazing what technology can do for a family boardgame."
+difficulty 1.75
+height 25
+id 10281
+link "https://webpbn.com/play.cgi?id=10281"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Broadsides"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 12 black 12
+black 12 black 1 blue 10 black 1
+black 12 black 1 blue 1 red 1 blue 1 blue 6 black 1
+black 12 black 1 blue 1 red 1 blue 3 blue 4 black 1
+black 12 black 1 blue 1 red 1 blue 8 black 1
+black 12 black 1 blue 1 red 1 blue 8 black 1
+black 12 black 1 blue 4 blue 2 red 2 blue 1 black 1
+black 12 black 1 blue 10 black 1
+black 12 black 1 blue 2 blue 7 black 1
+black 12 black 1 blue 7 blue 2 black 1
+black 13 black 1 blue 10 black 1
+black 15 black 12
+black 1 blue 9 black 1
+black 1 blue 2 red 2 black 3 blue 3 black 1
+black 1 blue 3 blue 4 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 3 black 1 blue 2 black 1
+black 1 blue 3 black 1 blue 1 black 1 blue 3 black 1
+black 1 blue 2 black 1 blue 1 black 1 blue 5 black 1
+black 1 blue 4 black 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 3 black 1 blue 6 black 1
+black 1 blue 2 blue 3 black 3 blue 1 black 1
+black 1 blue 4 blue 3 blue 1 black 1
+black 12
+0
+
+columns
+0
+black 1
+black 1
+black 2
+black 12
+black 12
+black 12
+black 12
+black 12
+black 12
+black 12
+black 12
+black 12
+black 12
+black 12
+black 12
+0
+black 13
+black 1 blue 10 black 1 blue 1 black 2
+black 1 blue 1 red 4 blue 5 black 1 blue 3 black 2
+black 1 blue 7 blue 2 black 1 blue 5 black 2
+black 1 blue 1 blue 8 black 1 blue 1 red 1 blue 5 black 2
+black 1 blue 5 blue 4 black 1 blue 1 red 1 blue 6 black 2
+black 1 blue 2 blue 7 black 1 blue 1 black 1 blue 1 black 3 blue 4 black 1
+black 1 blue 10 black 1 blue 1 black 1 blue 6 blue 1 black 1
+black 1 blue 5 red 1 blue 2 blue 1 black 1 blue 1 black 1 blue 2 black 4 blue 2 black 1
+black 1 blue 5 red 1 blue 4 black 1 blue 10 black 1
+black 1 blue 10 black 1 blue 1 black 2 blue 2 blue 2 black 1
+black 13 blue 7 black 1 blue 1 black 1
+black 2 blue 1 blue 1 blue 1 black 1 blue 1 black 1
+black 2 blue 3 black 1 blue 1 black 1
+black 2 blue 2 black 1
+black 2 blue 1 black 1
+black 2
+0

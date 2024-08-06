@@ -1,0 +1,66 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Apr  2, 2024"
+description "bingo has solved 10824 puzzles and created 1"
+difficulty 1.25
+height 20
+id 38432
+link "https://webpbn.com/play.cgi?id=38432"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP 181 abby"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 3 black 3 black 3 black 1 black 1
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 3 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 3 black 3 black 3 black 1
+black 25
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 25
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 25
+black 1 black 2 black 2 red 3 black 2 black 2 black 1
+black 1 black 2 black 2 red 3 black 2 black 2 black 1
+black 1 black 2 black 2 red 3 black 2 black 2 black 1
+black 1 black 2 black 2 red 3 black 2 black 2 black 1
+
+columns
+black 15
+black 1 black 2 black 1 black 1
+black 6 black 1 black 1
+black 2 black 1 black 1
+black 15
+black 15
+black 6 black 1 black 1
+black 1 black 2 black 1 black 1
+black 6 black 1 black 1
+black 15
+black 15
+black 6 black 1 black 1 red 4
+black 1 black 1 black 2 black 1 black 1 red 4
+black 6 black 1 black 1 red 4
+black 15
+black 15
+black 1 black 4 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 3 black 2 black 1 black 1
+black 15
+black 15
+black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 6 black 1 black 1
+black 15

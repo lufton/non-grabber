@@ -1,0 +1,37 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Jan Wolter"
+date "Oct 25, 2006"
+description "A tiny weightlifter."
+difficulty 1.25
+height 10
+id 561
+link "https://webpbn.com/play.cgi?id=561"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Lift"
+width 10
+
+rows
+1,1
+10
+1,1,1,1
+1,2,1
+1,2,1
+2,2
+4
+2
+6
+2,2
+
+columns
+3
+1,1
+5,2
+1,2,1
+1,2,3
+1,2,3
+1,2,1
+5,2
+1,1
+3

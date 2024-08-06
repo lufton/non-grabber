@@ -1,0 +1,93 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Thomas Genuine"
+date "Apr  5, 2014"
+description "Odette and Siegfried arrived to a beautiful lake. They saw a swan but really he was the evil wizard ..."
+difficulty 2.75
+height 30
+id 24177
+link "https://webpbn.com/play.cgi?id=24177"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.75
+title "Swan Lake 2. (by Ann)"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 3 red 8
+blue 5 blue 5 blue 5 red 5
+blue 7 blue 7 blue 7 red 2 red 3
+blue 7 blue 7 blue 7 red 2 red 3
+blue 7 blue 7 blue 7 red 2 red 1
+blue 2 black 3 black 3 blue 5 blue 5 red 1 red 1
+black 3 black 2 black 2 blue 3 black 2 black 2 red 1
+black 1 black 1 blue 3 black 1
+green 2 green 2 black 2 black 2 blue 1
+green 3 red 1 red 1 black 1 blue 3
+red 2 red 2 red 1 red 1 blue 7
+green 3 red 1 black 3 blue 7
+green 4 green 5 red 1 red 1 red 1 black 3 blue 4 blue 3
+green 2 green 1 green 1 green 2 black 3 blue 3 blue 2 blue 1
+green 1 blue 1 green 1 blue 1 blue 1 green 1 blue 2 blue 8
+green 1 green 2 blue 1 blue 1 blue 6
+red 1 green 2 red 1 green 2 black 2 blue 13
+blue 1 black 3 blue 1 green 2 red 1 red 3 green 1 black 2 black 1 blue 6 blue 3
+blue 1 green 1 blue 3 green 1 blue 2 red 4 red 2 black 1 black 1 black 1 blue 4 blue 3
+blue 1 green 1 blue 3 green 1 blue 2 black 1 red 5 red 3 black 1 black 1 black 1 blue 2 blue 2 blue 2
+blue 1 green 1 blue 3 green 1 blue 1 black 1 red 1 red 3 red 2 black 1 black 2 black 2 black 1 blue 4 blue 1
+blue 1 green 1 blue 3 green 1 blue 1 blue 3 blue 1 black 2 black 1 black 1 blue 4 blue 1 red 1
+blue 1 green 1 blue 3 green 1 blue 1 red 3 blue 1 black 1 black 1 blue 5
+blue 1 green 5 blue 1 red 5 blue 2 black 1 black 1 blue 3 blue 3 blue 1
+green 3 green 3 red 7 blue 4 black 3 blue 2 blue 2 blue 3
+green 2 green 2 black 1 black 1 blue 6 blue 11
+green 2 green 2 black 1 black 1 blue 17 blue 3
+green 2 green 2 black 1 black 1 blue 3 blue 3 blue 2 blue 2 blue 2 blue 2
+green 2 green 2 red 2 red 2 blue 2 blue 2 blue 3 blue 12
+black 3 black 3 blue 25
+
+columns
+green 2 blue 6 green 5 black 1
+blue 3 green 1 green 2 blue 1 green 11 black 1
+blue 5 green 2 green 1 black 1 blue 5 green 2 black 1
+blue 5 green 1 green 1 blue 1 black 1 blue 5 green 1
+blue 5 black 1 green 2 green 1 red 1 black 1 blue 5 green 2
+blue 5 black 1 green 1 green 1 blue 1 green 11 black 1
+blue 4 black 2 blue 6 green 5 black 1
+blue 3 black 2 blue 2 black 1
+black 2 green 2 black 2
+black 1 green 4 red 2 red 1
+black 1 red 1 green 2 red 2 red 2 red 1
+red 2 green 2 blue 1 red 4 blue 1 red 3 black 3 red 1
+green 2 red 1 red 3 blue 1 red 3
+black 1 red 2 green 2 blue 1 red 4 blue 1 red 3 black 3 red 1
+blue 3 black 1 red 1 green 2 red 1 red 2 red 1
+blue 5 black 1 red 1 green 4 red 2 red 1 blue 2
+blue 6 black 1 green 3 red 2 blue 3
+blue 6 black 1 red 2 blue 2 blue 1
+blue 6 red 1 red 1 red 2 blue 3 blue 1
+blue 5 red 1 black 1 blue 3 blue 2
+blue 3 red 1 black 1 red 1 blue 4 blue 2
+black 1 black 3 blue 7 blue 1
+black 2 black 1 black 2 blue 4 blue 1
+black 1 black 4 black 2 blue 5
+blue 3 black 1 black 2 black 1 black 1 black 1 blue 1 blue 2
+blue 6 black 1 black 1 black 1 black 2 black 1 blue 1 blue 2
+blue 7 black 1 black 1 blue 1 black 1 black 1 blue 2 blue 1
+blue 7 black 1 blue 1 blue 3 black 1 black 1 blue 2 blue 1
+blue 5 blue 1 black 1 blue 1 blue 5 black 4 blue 1 blue 2
+blue 5 black 1 blue 2 blue 1 blue 4 blue 3 blue 2
+blue 3 black 1 blue 2 blue 3 blue 7
+black 1 blue 2 blue 3 blue 2 blue 5
+red 1 black 1 blue 4 blue 1 blue 4 blue 2 blue 2
+red 1 red 1 black 1 blue 3 blue 1 blue 1 blue 4 blue 3 blue 2
+red 1 red 2 blue 3 blue 3 blue 4 blue 2 blue 3
+red 3 blue 2 blue 5 blue 4 blue 1 blue 3
+red 2 red 2 blue 2 blue 5 blue 1 blue 2 blue 2
+red 5 blue 3 blue 5 blue 1 blue 4 blue 2
+red 4 blue 3 blue 3 blue 2 blue 6
+red 7 blue 1 blue 5 blue 3 red 1 blue 3 blue 3

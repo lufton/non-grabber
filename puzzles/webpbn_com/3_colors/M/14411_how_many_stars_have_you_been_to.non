@@ -1,0 +1,56 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jun  8, 2011"
+description "Stars being states. I've been to 46. Still need to go to Alaska, Washington, Oregon, and North Dakota."
+difficulty 1.25
+height 15
+id 14411
+link "https://webpbn.com/play.cgi?id=14411"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "how many stars have you been to?"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+blue 10 black 10
+blue 1 blue 1 blue 1
+blue 1 blue 3 blue 2 blue 1 black 10
+blue 1 blue 3 blue 2 blue 1
+blue 1 blue 1 blue 2 blue 1 black 10
+blue 3 blue 1 blue 2 blue 1
+blue 3 blue 1 blue 2 blue 1 black 10
+blue 1 blue 1 blue 1
+blue 10 black 10
+0
+black 20
+0
+black 20
+
+columns
+blue 9 black 1 black 1
+blue 1 blue 2 blue 1 black 1 black 1
+blue 1 blue 2 blue 2 blue 1 black 1 black 1
+blue 1 blue 2 blue 1 black 1 black 1
+blue 9 black 1 black 1
+blue 1 blue 1 black 1 black 1
+blue 1 blue 5 blue 1 black 1 black 1
+blue 1 blue 5 blue 1 black 1 black 1
+blue 1 blue 1 black 1 black 1
+blue 9 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1

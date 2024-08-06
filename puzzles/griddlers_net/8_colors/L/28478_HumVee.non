@@ -1,0 +1,80 @@
+by "justinxnitsuj"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/1/05"
+height 23
+id 28478
+link "https://www.griddlers.net/nonogram/-/g/28478"
+medium_time "0:35:36"
+points 29282
+popularity 55.55
+title "HumVee"
+width 32
+
+color a 000000
+color b 663300
+color c ffcc66
+color d cc9933
+color e 996600
+color f 003333
+color g 333333
+color h ffffff
+
+rows
+b 8
+b 2 c 3 d 5 b 2 e 1
+b 2 c 7 d 1 f 2 d 2 b 2 b 1
+b 2 c 5 d 2 c 4 d 1 f 2 d 2 b 2
+b 1 d 1 c 4 d 2 c 2 d 2 c 4 d 1 f 2 d 1 b 3
+b 2 b 2 d 1 c 4 d 2 c 2 d 2 c 4 d 2 b 1 d 2 b 2
+d 1 b 1 f 2 b 2 d 1 c 4 d 2 c 4 d 1 e 1 e 1 b 1 e 3
+d 1 b 1 f 4 e 1 b 1 d 1 c 6 d 1 e 1 f 1 e 1 b 1 e 3
+d 1 b 1 c 1 e 1 f 2 d 1 f 1 b 2 d 1 c 2 d 1 e 1 e 1 f 1 e 1 b 1 e 3
+b 2 c 5 e 1 d 1 f 3 b 2 d 1 f 1 e 1 d 1 e 1 b 1 e 2
+b 2 c 4 e 1 c 4 e 1 f 3 e 1 f 1 e 1 d 2 e 2 b 1
+b 1 c 6 d 1 g 2 e 1 c 3 e 1 f 1 e 1 d 1 e 4 b 1 g 1 g 1
+b 3 d 1 c 2 g 6 c 4 e 1 e 1 d 2 e 1 b 1 e 3 g 1 b 1
+b 1 d 2 h 1 e 1 d 1 c 2 g 2 d 1 c 2 e 1 c 4 e 7 g 1 e 1 g 1
+h 1 e 1 g 2 d 1 c 8 e 2 b 1 e 3 b 1 e 2 g 1 g 1 g 1
+g 4 d 1 c 4 e 9 g 1 g 2
+g 1 g 2 g 2 h 1 e 4 b 1 e 1 b 1 e 2
+g 5 h 1 e 1 b 2 e 1
+g 4 e 1 g 2
+g 2 g 2 e 1 g 1
+g 1 b 1 e 1 g 1
+g 1 g 1 g 1
+g 1 g 2
+
+columns
+b 3
+b 1 c 1 b 1 d 1 g 1
+b 1 c 1 b 1 d 1 g 1
+b 1 c 2 d 1 h 2 g 2
+b 1 d 3 b 1 c 3 e 2 g 2
+b 1 c 4 d 1 g 2 g 2
+b 1 c 3 g 1 c 1 g 2 g 2
+b 1 b 2 c 2 e 1 d 1 g 1 c 1 d 1 g 2 g 2
+b 1 d 1 b 1 f 2 e 1 c 2 g 3 c 1 g 2 g 2
+b 1 c 1 b 1 f 2 c 2 g 3 c 1 d 1 h 2
+b 1 c 2 d 1 b 1 f 2 e 1 c 1 e 1 g 1 d 1 c 2 e 2
+b 1 c 3 b 1 f 2 c 2 g 1 c 3 e 1 b 1 e 1 g 1
+b 1 c 4 d 1 e 1 d 2 e 1 c 5 e 1 b 1 g 2 g 1
+b 1 c 2 d 1 c 2 b 1 f 2 c 2 e 1 c 2 e 1 g 2 b 1 g 1
+b 1 c 3 d 1 c 2 d 1 b 1 f 2 e 1 c 3 e 1 b 1 g 1 e 2 g 1
+b 1 c 2 d 1 c 1 d 1 c 2 b 1 f 2 c 3 e 1 g 1 g 1
+b 1 c 2 d 1 c 1 d 1 c 2 d 1 b 1 f 2 e 1 c 1 e 2 g 2
+b 1 d 1 c 2 d 1 c 1 d 1 c 2 b 1 c 1 e 3
+b 1 d 1 c 2 d 1 c 1 d 1 c 2 d 1 e 4 b 1 e 1 b 1 e 1
+b 1 d 2 c 2 d 1 c 2 d 1 d 1 e 4
+b 1 d 1 f 1 c 2 d 1 c 2 e 1 f 2 d 1 e 4
+b 1 d 1 f 1 d 1 c 3 d 1 d 1 e 4
+b 1 d 1 f 1 c 3 e 5 b 1 e 1 b 1 e 1
+b 1 d 1 f 1 d 1 c 1 d 1 d 1 e 4
+b 1 d 1 f 1 c 1 e 1 f 2 d 1 e 4
+b 1 d 1 f 1 d 1 d 1 e 3 g 1
+b 1 d 2 e 5 g 2 g 1
+b 10 g 1
+e 1 b 1 d 1 e 4 g 1 b 1 e 1 g 1
+b 1 d 1 e 4 g 1
+b 1 e 3 g 1 g 2
+b 1

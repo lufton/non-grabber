@@ -1,0 +1,62 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Feb 18, 2013"
+description "looks nicer if you move back 5 ft and take another look at it."
+difficulty 2.0
+height 15
+id 21170
+link "https://webpbn.com/play.cgi?id=21170"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "where can we be?"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+red 3 black 3
+red 2 red 3 black 3 black 2 red 1
+red 2 red 3 red 5 black 1 black 1 red 2
+red 2 red 2 red 12 red 1
+red 2 black 1 red 3 red 5 black 2 red 1
+blue 3 red 1 red 1 black 5 red 9
+red 3 blue 3 red 9 red 1
+blue 2 red 1 red 1 red 7 blue 3 blue 3 red 1
+red 1 red 6 blue 1 blue 4
+red 8 blue 2 blue 2 blue 4
+red 6 blue 5 blue 3 blue 4
+red 2 blue 1 red 1 red 1 blue 4 blue 3 blue 1
+black 3 red 1 blue 1 red 1 blue 2 blue 2 blue 7
+black 3 red 1 black 1 red 1 blue 3 blue 4 blue 3 blue 1
+
+columns
+red 1 red 1 blue 1 red 2 black 2
+red 1 red 1 blue 1 blue 1 red 3 black 2
+red 1 red 1 black 1 blue 1 blue 1 red 2 blue 1 black 2
+red 14
+red 1 red 1 red 1 red 1 red 2 blue 1 black 1
+red 14
+red 1 red 1 black 1 blue 1 red 2 blue 1 blue 1
+red 2 red 1 black 1 blue 1 red 2 blue 1 blue 1
+red 1 red 1 black 1 blue 1 red 3 blue 1 blue 1
+red 1 red 1 black 1 red 2 blue 3
+red 1 red 1 black 1 red 2 blue 1 blue 1
+red 3 red 2 blue 2 blue 1
+red 1 red 2 blue 3 blue 1
+black 1 red 1 red 2 blue 2 blue 1
+black 1 red 1 red 2 blue 1 blue 1 blue 1
+black 1 red 1 red 1 blue 2 blue 2
+black 2 red 1 red 2 blue 1 blue 1
+black 1 red 1 red 2 blue 2 blue 1
+black 2 red 1 red 2 blue 2 blue 1 blue 1
+black 1 red 1 red 2 blue 1 blue 1 blue 2
+black 1 red 1 red 1 blue 1 blue 2
+red 1 red 1 blue 1 blue 2 blue 2
+red 1 black 1 red 1 blue 1 blue 2 blue 1
+red 1 black 1 red 1 blue 1 blue 2 blue 1
+red 7 blue 4

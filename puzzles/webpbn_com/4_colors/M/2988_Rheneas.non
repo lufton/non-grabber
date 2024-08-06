@@ -1,0 +1,67 @@
+by "Corey Beaudoin (red)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Corey Beaudoin"
+date "Jun 26, 2008"
+description "Another character in Thomas and Friends. Based off the engine Dolgoch which runs on the Talyllyn Railway in Wales"
+difficulty 2.0
+height 20
+id 2988
+link "https://webpbn.com/play.cgi?id=2988"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Rheneas"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 6 black 2
+black 7
+black 2 black 6
+black 2 red 6
+black 2 red 2 red 1 black 1 red 4
+black 2 red 2 red 3 red 1
+black 4 red 1 red 2 red 3 red 1
+black 4 red 12 red 1
+black 4 red 1 black 3 red 2 black 5 red 1 red 1
+black 4 red 6 black 1 red 3 black 1 red 1 red 1
+black 9 red 1 black 1 red 3 black 1 red 1 red 1
+black 3 red 7 black 5 red 1 red 1
+red 20
+red 1 red 4 black 2 black 2 black 3 red 1 red 1
+red 6 black 4 black 4 black 3 red 3
+red 1 red 1 black 11 red 1 red 1
+black 2 black 2
+black 25
+green 25
+green 25
+
+columns
+red 3 black 1 green 2
+red 1 black 1 green 2
+red 4 black 1 green 2
+black 6 red 3 black 1 green 2
+black 10 red 3 black 1 green 2
+black 11 red 3 black 1 green 2
+black 2 black 5 red 2 black 2 black 1 green 2
+black 2 red 3 black 1 red 2 black 5 green 2
+black 2 red 1 black 1 red 1 black 1 red 2 black 5 green 2
+black 2 red 1 black 1 red 1 black 1 red 2 black 2 black 1 green 2
+black 2 red 2 black 1 red 1 black 1 red 2 black 1 black 1 green 2
+black 2 red 3 black 1 red 2 black 1 black 1 green 2
+red 9 black 1 black 1 green 2
+black 1 red 4 black 4 red 1 black 2 black 1 green 2
+black 1 red 1 black 1 red 2 black 1 red 1 black 5 green 2
+red 1 black 1 red 2 black 1 red 1 black 5 green 2
+black 1 red 5 black 1 red 2 black 1 red 1 black 2 black 1 green 2
+black 1 red 1 black 1 red 3 black 4 red 1 black 1 green 2
+black 1 red 10 black 2 black 1 green 2
+black 1 red 2 red 1 black 2 black 1 green 2
+black 1 red 2 red 1 black 2 black 1 green 2
+black 1 red 13 black 1 green 2
+red 1 black 1 green 2
+red 3 black 1 green 2
+black 1 green 2

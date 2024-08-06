@@ -1,0 +1,92 @@
+by "elin tjernström (idiotjewel)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by elin tjernstrÃ¶m"
+date "Sep 28, 2007"
+description "CHESS hope you got it right. really hurt your eyes, doesnt it?"
+difficulty 2.5
+height 35
+id 1516
+link "https://webpbn.com/play.cgi?id=1516"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "a game"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+black 2 red 1 black 2 black 2 red 1 black 2 black 2 red 1 black 2 black 2 red 1 black 2
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5
+black 4 black 3 black 5 black 5
+black 1 black 5 black 1 black 5 black 5
+black 1 black 5 black 1 black 5 black 5
+black 1 black 5 black 1 black 5 black 5
+black 1 black 3 black 2 black 2 black 5 black 5
+black 1 black 3 black 2 black 2 black 5 black 5
+black 1 black 3 black 4 black 2 black 5 black 5
+black 1 black 3 black 1 black 5 black 5 black 5
+black 1 black 3 black 1 black 5 black 5 black 5
+black 1 black 1 black 3 black 1 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 3 black 1 black 1 black 1 black 3 black 1 black 1 black 3
+black 1 black 1 black 3 black 3 black 1 black 2 black 3 black 1 black 1
+black 1 black 1 black 3 black 1 black 1 black 1 black 3 black 1 black 3 black 1
+black 1 black 1 black 3 black 1 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 3 black 1 black 5 black 5 black 5
+black 1 black 3 black 1 black 5 black 5 black 5
+black 1 black 3 black 4 black 2 black 5 black 5
+black 1 black 3 black 2 black 2 black 5 black 5
+black 1 black 3 black 2 black 2 black 5 black 5
+black 1 black 5 black 1 black 5 black 5
+black 1 black 5 black 1 black 5 black 5
+black 4 black 3 black 5 black 5
+black 5 black 5 black 5
+black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+black 2 blue 1 black 2 black 2 blue 1 black 2 black 2 blue 1 black 2 black 2 blue 1 black 2
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+
+columns
+black 5 black 5 black 5 black 5
+black 5 black 4 black 5 black 3 black 5
+black 2 red 1 black 2 black 1 black 5 black 5 black 1 black 2 blue 1 black 2
+black 5 black 1 black 5 black 5 black 1 black 5
+black 5 black 1 black 5 black 5 black 1 black 5
+black 1 black 3 black 5 black 2 black 2
+black 1 black 3 black 3 black 3 black 2 black 2
+black 1 black 3 black 1 black 5 black 1 black 2 black 2
+black 1 black 3 black 1 black 5 black 1 black 2 black 2
+black 1 black 3 black 1 black 5 black 1 black 2 black 2
+black 5 black 1 black 2 black 2 black 2 black 2 black 1 black 5
+black 5 black 1 black 2 black 9 black 2 black 1 black 5
+black 2 red 1 black 2 black 4 black 2 black 1 black 2 black 3 black 2 blue 1 black 2
+black 5 black 15 black 5
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5
+black 5 black 5
+black 5 black 1 black 1 black 5
+black 5 black 3 black 5
+black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+black 5 black 8 black 6 black 5
+black 2 red 1 black 2 black 6 black 1 black 6 black 2 blue 1 black 2
+black 5 black 6 black 8 black 5
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5
+black 5 black 1 black 5
+black 5 black 1 black 1 black 5
+black 5 black 1 black 5
+black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5 black 5
+black 2 red 1 black 2 black 5 black 5 black 2 blue 1 black 2
+black 5 black 5 black 5 black 5
+black 5 black 5 black 5 black 5

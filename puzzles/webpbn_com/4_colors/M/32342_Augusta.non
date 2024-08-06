@@ -1,0 +1,62 @@
+by "Mike B (MIKEY_B)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Mike B"
+date "Apr 12, 2019"
+description "The Masters logo - print it out and color in the US with a yellow highlighter."
+difficulty 2.0
+height 20
+id 32342
+link "https://webpbn.com/play.cgi?id=32342"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Augusta"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+red 1 green 1
+red 2 green 1
+green 1
+green 1 green 1
+green 1 green 3
+green 11 green 5 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 black 1 green 1
+green 1 green 1
+green 2 green 2
+green 2 green 4 green 1
+green 5 green 2 green 2
+green 2 green 2 green 2
+green 2 green 1
+0
+
+columns
+green 9
+green 1 green 2
+green 1 green 2
+green 1 green 1
+green 1 green 1
+green 1 green 1
+green 1 green 2
+green 1 green 1
+green 1 green 1
+green 1 green 2
+green 1 green 2
+green 1 green 2
+red 1 green 1 green 1
+red 2 green 1 green 1
+green 11 black 1 green 1
+green 1 green 2
+green 2 green 5
+green 1 green 7
+green 4
+0

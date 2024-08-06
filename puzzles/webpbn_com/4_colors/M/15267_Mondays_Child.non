@@ -1,0 +1,62 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Jul 25, 2011"
+description "is fair of face."
+difficulty 1.5
+height 20
+id 15267
+link "https://webpbn.com/play.cgi?id=15267"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Monday's Child"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 9
+red 11
+red 13
+red 4 red 4
+red 3 black 2 black 2 red 3
+red 3 black 1 black 1 red 3
+red 3 blue 1 blue 1 red 3
+red 2 black 1 red 2
+red 2 black 1 red 2
+red 3 black 1 red 3
+red 3 red 3
+red 3 red 3 red 3
+red 4 red 1 red 4
+red 4 red 4
+red 1 red 5 red 5 red 1
+red 8 red 8
+red 6 blue 5 red 6
+blue 7
+blue 11
+blue 11
+
+columns
+red 2
+red 2
+red 14
+red 15
+red 6 red 8 blue 2
+red 4 red 5 blue 2
+red 3 black 2 red 3 blue 3
+red 3 black 1 blue 1 red 1 blue 4
+red 3 red 1 blue 4
+red 3 black 3 red 2 blue 4
+red 3 red 1 blue 4
+red 3 black 1 blue 1 red 1 blue 4
+red 3 black 2 red 3 blue 3
+red 4 red 5 blue 2
+red 6 red 8 blue 2
+red 15
+red 14
+red 2
+red 2
+0

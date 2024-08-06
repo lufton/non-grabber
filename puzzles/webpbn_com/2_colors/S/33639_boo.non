@@ -1,0 +1,42 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Kurt Kowalczyk"
+date "Feb 23, 2020"
+description "a spooky lil doodle guy..."
+difficulty 2.25
+height 15
+id 33639
+link "https://webpbn.com/play.cgi?id=33639"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "boo!"
+width 10
+
+rows
+1
+2
+3
+2,2
+2,2
+1,1
+1,1,1,2
+1,1
+1,1
+2,2,2
+1,1,1,1
+1,3,2
+2,2,2
+1,1,3,1
+3,1,2
+
+columns
+5,1
+4,1,3
+2,2,1
+2,1,1
+3,1,2,1
+3,1,2
+1,1,2,2
+1,3
+3,4
+4,1,1

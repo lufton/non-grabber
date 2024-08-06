@@ -1,0 +1,115 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/28/12"
+height 40
+id 127225
+link "https://www.griddlers.net/nonogram/-/g/127225"
+medium_time "1:02:26"
+points 129864
+popularity 85.78
+title "In the Tree"
+width 50
+
+color a 99ccff
+color b 666633
+color c cc9933
+color d ffffff
+color e 660000
+color f cc3333
+color g 339966
+color h 66cc99
+
+rows
+b 7
+b 2 c 7 b 2
+b 1 c 10 d 1 b 1
+b 3 b 8 c 1 b 3 c 3 d 2 b 1
+b 1 c 3 b 1 c 8 b 1 c 3 b 1 c 1 d 3 b 1
+b 1 c 2 b 1 c 10 b 1 c 2 b 1 c 1 d 2 b 1
+b 2 c 12 b 2 c 1 d 2 b 1
+b 1 c 12 b 1 c 2 d 1 b 1
+b 1 c 14 b 1 c 1 d 1 b 1
+b 1 c 14 b 1 c 1 d 1 b 1
+b 1 c 1 e 1 c 2 e 1 c 4 e 1 c 2 e 1 c 1 b 1 c 1 d 1 b 1
+b 1 c 1 e 4 c 4 e 4 c 1 b 1 c 1 d 1 b 1
+b 1 c 2 e 2 c 6 e 2 c 2 b 1 c 1 d 1 b 1
+b 1 c 5 e 2 c 5 b 1 c 2 d 1 b 1
+b 1 c 3 e 1 c 1 e 2 c 1 e 1 c 3 b 1 c 2 d 1 b 1
+b 1 c 3 e 1 f 2 e 1 c 3 b 1 c 3 d 1 b 1
+b 2 c 2 f 2 c 2 b 2 c 4 d 1 b 1
+g 1 b 1 c 1 e 6 c 1 b 1 c 4 d 2 b 1
+g 1 b 1 c 1 e 2 b 1 e 3 c 1 b 1 c 4 d 2 b 1
+h 1 g 1 h 1 b 1 c 1 b 1 c 2 b 2 c 2 b 1 c 1 b 1 c 4 d 1 b 1
+h 1 g 1 h 1 g 1 h 1 b 1 c 2 b 1 c 2 b 2 c 2 b 1 c 2 b 1 c 3 d 1 b 1
+g 1 h 1 g 1 h 1 g 1 h 1 b 1 c 5 b 2 c 5 b 1 c 2 d 1 b 1
+g 2 g 1 h 1 g 1 h 1 g 1 h 1 b 4 c 5 b 1 d 1 b 1 c 4 b 5
+h 1 g 3 h 1 g 1 h 1 g 2 h 1 g 1 h 1 b 1 c 3 b 1 c 3 b 2 d 3 b 2 c 2 b 1 c 3 b 2
+h 2 g 2 h 1 g 2 h 1 g 1 h 1 g 1 b 1 c 4 b 4 d 7 b 3 c 4 b 1 g 2
+h 4 g 1 h 1 g 1 h 2 g 1 f 2 b 1 c 4 d 14 c 4 b 1 h 1 g 1 h 2
+g 4 g 2 f 2 b 1 c 4 d 14 c 4 b 1 g 2 h 1
+h 1 f 2 g 4 f 2 h 1 b 1 c 4 d 14 c 4 b 1 h 1 g 2
+g 2 f 2 c 1 b 1 g 4 f 2 g 1 f 2 b 1 c 5 d 12 c 5 b 1 h 3 h 1 g 1 f 1
+h 2 f 2 g 2 b 2 c 3 f 2 c 2 b 1 c 5 d 10 c 5 b 1 h 4 h 1 f 1
+f 2 g 2 b 1 f 2 b 3 c 2 b 1 c 4 e 3 d 4 e 3 c 4 b 1 h 2 g 2 f 2
+f 2 h 1 g 2 f 2 c 1 b 8 e 3 b 1 c 2 b 1 e 3 b 4 c 4 g 1 f 2 g 1
+f 2 g 2 b 10 c 19 g 2 c 1
+h 1 g 2 h 1 h 1 g 5 b 13 c 4 g 4 c 1
+h 1 g 1 h 3 g 1 h 1 g 2 h 1 f 2 g 2 b 11 g 1 h 2 b 1 f 2
+g 2 h 1 g 3 f 2 h 1 f 2 h 1 g 2 h 3 b 2 f 2
+g 1 h 1 g 2 f 2 g 4 h 1 g 1 h 1
+g 2 g 2 f 2 g 2 h 1 g 1
+g 2 g 3 f 2 g 1 g 1 h 1
+g 1 g 1 g 1 g 1
+
+columns
+g 1 h 1 h 1 g 1 h 1 h 1 g 2
+g 2 h 2 g 1 h 1 f 2 h 1 g 2
+g 1 h 2 f 2 f 2 g 1 h 2
+g 2 h 1 g 1 f 2 h 1 g 2 h 1
+h 1 g 1 h 1 g 2 c 1 f 2 g 2 h 2
+h 1 g 3 b 1 f 2 g 1
+h 1 g 3 g 1
+h 1 g 1 g 4
+g 1 h 1 g 3 g 2
+g 1 h 2 g 2 g 1 b 1
+g 2 h 2 b 1
+g 2 h 1 g 1 f 2 c 1 b 1
+h 6 g 2 f 2 c 1 f 2 g 2
+g 8 f 2 h 1 g 1 c 1 f 2 g 1 h 1 g 2
+h 5 f 2 f 2 b 1 g 4
+f 2 b 1 c 1 h 1 g 2 g 1
+c 1 b 2 h 1 g 1 f 2 g 3
+b 5 c 2 b 1 g 2 f 2 g 2
+b 1 c 5 b 1 c 1 b 2 g 1 h 2 g 1 f 2
+b 1 c 7 b 3 g 1 f 2 g 1 f 2
+b 2 b 1 c 8 b 2 g 1 f 2 g 4
+b 1 c 2 b 1 b 5 b 1 c 8 b 2 g 2 h 1 g 2
+b 1 c 2 b 2 c 5 b 2 b 5 d 3 c 3 b 2 g 2 h 1
+b 1 c 1 b 1 c 4 e 2 c 3 b 1 b 1 c 4 b 1 d 4 c 2 b 2 g 2 h 1
+b 1 c 6 e 2 c 3 b 3 c 5 b 1 d 5 e 2 b 1
+b 1 c 7 e 2 c 3 b 1 c 2 b 2 c 3 b 1 d 5 e 2 b 1
+b 1 c 6 e 2 c 2 e 1 c 2 e 2 c 4 b 1 d 6 e 2 b 1
+b 1 c 11 e 1 c 1 e 2 c 4 b 1 d 7 b 2
+b 1 c 9 e 2 f 2 e 1 b 5 d 8 c 2 b 1
+b 2 c 9 e 2 f 2 e 2 b 3 d 9 c 2 b 1
+b 1 c 1 b 1 c 11 e 1 c 1 e 2 c 3 b 1 d 8 b 1 c 1 b 1
+b 1 c 1 b 1 c 6 e 2 c 2 e 1 c 2 e 2 c 4 b 1 d 6 e 2 c 1 b 1
+b 1 c 2 b 1 c 7 e 2 c 3 b 1 c 2 b 2 c 2 b 1 d 6 e 2 c 1 b 1
+b 1 c 3 b 1 c 6 e 2 c 3 b 3 c 5 b 1 d 5 e 2 c 1 b 2
+b 1 c 2 b 1 c 1 b 1 c 4 e 2 c 3 b 1 c 3 b 1 c 4 b 1 d 4 c 2 b 1 c 1 b 2
+b 1 c 2 b 1 c 2 b 2 c 5 b 2 c 5 b 5 d 3 c 3 b 1 c 1 b 2
+b 1 c 2 b 1 c 2 b 1 c 1 b 5 c 9 b 1 c 8 b 1 c 1 b 2
+b 1 c 3 b 2 c 16 b 1 c 8 b 1 c 1 b 2
+b 1 c 5 d 13 c 2 d 1 b 1 c 7 b 1 c 2 b 2
+b 1 c 2 d 3 b 10 d 4 b 3 c 5 b 1 c 2 b 2
+b 1 d 4 b 1 b 4 b 6 c 2 b 2
+b 1 d 2 b 1 c 3 b 1
+b 2 h 2 c 2 b 1 h 1
+h 3 c 2 b 1 h 1
+h 3 c 2 g 1 h 1
+g 1 h 1 h 1 g 1 c 1 g 1 h 2
+g 3 h 1 g 2 c 1 g 1 h 1 b 1
+h 1 g 2 h 2 f 2 g 2 b 2
+h 2 g 2 f 2 g 2 f 2 g 2
+f 2 g 1 c 2 f 2 g 1 h 1

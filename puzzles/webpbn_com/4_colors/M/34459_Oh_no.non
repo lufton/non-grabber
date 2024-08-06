@@ -1,0 +1,62 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Kristen Vognild"
+date "Sep  4, 2020"
+description "Inspired by Valerie's comment on puzzle #34048"
+difficulty 1.5
+height 20
+id 34459
+link "https://webpbn.com/play.cgi?id=34459"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Oh no!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2
+blue 2
+blue 2
+blue 2 red 1
+0
+red 2
+red 1 black 1 red 1
+red 2 red 1 black 1 red 1
+red 3 red 2 red 1
+red 4 red 1 red 2
+red 4 red 5 red 4
+red 4 red 13
+red 16
+red 6 red 6
+red 5 red 4
+red 10
+red 9
+red 4 red 3
+red 4 red 3
+red 9
+
+columns
+red 3
+red 4
+red 4
+red 4
+red 4
+blue 2 red 5
+blue 2 red 8
+red 2 red 9
+blue 2 red 1 red 1 black 2 red 1 red 10
+blue 2 red 1 red 1 red 10
+red 2 red 3 red 2 red 1
+red 4 red 2 red 1
+red 10
+red 9
+red 9
+red 4
+red 4
+red 4
+red 4
+red 4

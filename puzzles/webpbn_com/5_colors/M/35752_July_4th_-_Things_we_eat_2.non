@@ -1,0 +1,58 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Gaynor Sorrell"
+date "Jun 21, 2022"
+description "Can't have a picnic without this!"
+difficulty 1.25
+height 15
+id 35752
+link "https://webpbn.com/play.cgi?id=35752"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "July 4th - Things we eat, 2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 2 red 14 green 2
+green 2 red 2 black 1 red 7 black 1 red 3 green 2
+green 2 red 4 black 1 red 2 black 1 red 6 green 2
+green 2 red 11 black 1 red 1 green 3
+green 2 red 1 black 1 red 3 black 1 red 2 black 1 red 3 green 2
+blue 3 green 2 red 10 green 2 blue 3
+blue 3 green 14 blue 3
+blue 5 green 10 blue 5
+blue 2 blue 15
+blue 8 blue 7
+blue 7 blue 2 blue 6
+blue 5 blue 8 blue 2
+blue 15 blue 1
+
+columns
+blue 4 blue 3
+green 4 blue 4 blue 3
+green 5 blue 3 blue 3
+red 4 green 3 blue 2 blue 3
+red 5 green 2 blue 6
+red 1 black 1 red 2 black 1 red 1 green 2 blue 3 blue 1
+red 6 green 2 blue 3 blue 1
+red 2 black 1 red 3 green 2 blue 2 blue 1
+red 6 green 2 blue 3 blue 1
+red 4 black 1 red 1 green 2 blue 5
+red 2 black 1 red 3 green 2 blue 2 blue 2
+red 6 green 2 blue 2 blue 2
+red 4 black 1 red 1 green 2 blue 1 blue 2
+red 1 black 1 red 4 green 2 blue 2 blue 2
+red 3 black 1 red 2 green 2 blue 5
+red 5 green 2 blue 5
+red 3 green 4 blue 5
+green 5 blue 6
+green 4 blue 3 blue 3
+blue 3 blue 4

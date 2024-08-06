@@ -1,0 +1,62 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Oct 13, 2018"
+description "house"
+difficulty 1.0
+height 20
+id 31679
+link "https://webpbn.com/play.cgi?id=31679"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "house"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 9 red 2 blue 9
+blue 8 red 4 blue 8
+blue 7 red 6 blue 7
+blue 6 red 8 blue 6
+blue 5 red 2 blue 2 blue 1 blue 1 red 1 blue 5
+blue 4 red 3 blue 1 blue 5 red 2 blue 4
+blue 3 red 4 blue 2 blue 4 red 3 blue 3
+blue 2 red 5 blue 4 blue 1 red 4 blue 2
+blue 1 red 18 blue 1
+red 20
+black 20
+black 5 red 4 black 7 blue 3 black 1
+black 5 red 4 black 7 black 1
+black 5 red 4 black 7 blue 3 black 1
+black 6 red 3 black 11
+black 5 red 4 black 11
+black 5 red 4 black 11
+black 5 red 4 black 11
+black 20
+
+columns
+blue 10 red 1 black 9
+blue 9 red 2 black 9
+blue 8 red 3 black 9
+blue 7 red 4 black 9
+blue 6 red 5 black 9
+blue 5 red 6 black 1 red 3 black 1 red 3 black 1
+blue 4 red 7 black 1 red 7 black 1
+blue 3 red 2 blue 4 red 2 black 1 red 7 black 1
+blue 2 red 3 blue 1 blue 2 red 2 black 1 red 7 black 1
+blue 1 red 4 blue 1 blue 1 red 2 black 9
+blue 1 red 4 blue 3 red 2 black 9
+blue 2 red 3 blue 3 red 2 black 9
+blue 3 red 2 blue 3 red 2 black 9
+blue 4 red 1 blue 3 red 2 black 9
+blue 5 red 6 black 9
+blue 6 red 5 black 9
+blue 7 red 4 black 1 blue 1 blue 1 black 5
+blue 8 red 3 black 1 blue 1 blue 1 black 5
+blue 9 red 2 black 1 blue 1 blue 1 black 5
+blue 10 red 1 black 9

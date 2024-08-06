@@ -1,0 +1,42 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sarah Andrews"
+date "Dec 13, 2010"
+description "although he didn't mention it, there was also a UFO"
+difficulty 1.25
+height 5
+id 11358
+link "https://webpbn.com/play.cgi?id=11358"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Brian's Monday Sky"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 9
+black 2 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 2
+black 15
+black 2 red 2 black 3 red 2 black 2
+black 9
+
+columns
+black 1
+black 1
+black 3
+black 5
+black 1 green 1 black 1 red 1 black 1
+black 3 red 1 black 1
+black 1 green 1 black 3
+black 5
+black 1 green 1 black 3
+black 3 red 1 black 1
+black 1 green 1 black 1 red 1 black 1
+black 5
+black 3
+black 1
+black 1

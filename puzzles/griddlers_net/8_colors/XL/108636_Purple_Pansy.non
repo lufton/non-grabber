@@ -1,0 +1,90 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/26/11"
+height 32
+id 108636
+link "https://www.griddlers.net/nonogram/-/g/108636"
+medium_time "0:44:47"
+points 39514
+popularity 92.3
+title "Purple Pansy"
+width 33
+
+color a 000000
+color b 005e0f
+color c d08ba0
+color d 338f2c
+color e a2586e
+color f 772e42
+color g fbfa95
+color h ffe374
+
+rows
+c 5
+e 1 c 9
+e 1 c 1 e 2 c 10
+e 7 c 9
+b 2 d 5 b 1 e 2 g 5 e 1 c 9
+d 1 b 2 d 2 d 1 b 1 e 1 g 1 h 1 g 2 h 1 g 2 e 2 c 2 e 1 c 4
+d 3 b 1 d 2 b 2 e 1 g 2 h 1 g 2 h 1 g 1 e 2 c 1 e 2 c 4
+b 1 d 2 b 4 h 1 g 2 h 1 f 1 h 1 f 1 h 1 g 1 e 1 c 1 e 1 f 1 c 2 e 1 c 2
+d 2 b 5 h 1 g 1 h 1 f 1 h 1 f 3 h 1 g 1 f 1 e 2 f 1 c 2 e 1 c 3
+d 4 b 2 h 2 g 1 f 6 h 1 f 1 e 1 f 1 c 2 e 1 c 5
+d 2 b 2 h 1 g 1 f 3 f 1 f 1 h 1 f 1 e 1 f 1 e 3 c 5 f 1 e 1
+b 3 d 1 b 1 g 1 h 2 f 3 f 1 h 1 f 3 e 2 c 1 f 1 c 4 e 2 c 1
+b 1 d 3 b 2 h 2 f 2 f 1 h 1 f 2 e 1 f 3 c 4 f 1 e 2 c 2
+b 3 e 6 f 1 f 4 c 5 f 2 e 2 c 2
+e 4 c 2 e 3 h 3 h 5 g 2 f 2 e 2 c 3
+e 3 c 2 f 6 h 3 f 3 h 2 g 1 f 1 e 1 c 1 f 1 c 2
+e 2 c 1 f 5 h 2 f 3 g 3 f 2 c 3
+e 1 c 1 e 1 c 2 f 5 f 1 f 1 f 1 h 1 g 3 f 1 c 3
+e 2 c 2 f 5 f 1 e 1 f 4 h 3 g 1 f 1 e 1 c 1
+e 1 c 2 f 1 c 2 f 2 f 3 f 1 e 1 f 1 f 4 g 3 e 1 c 2
+e 2 c 3 f 1 c 1 f 5 f 1 e 1 f 3 h 1 f 1 g 1 h 1 g 2 c 2
+e 4 c 2 f 7 e 1 f 1 h 1 f 1 g 1 h 1 g 3 c 2
+e 4 c 3 f 1 c 2 f 1 c 1 e 1 h 2 g 4 b 1
+e 1 c 1 e 1 c 1 f 1 c 2 f 1 c 1 e 1 h 1 g 1 h 1 g 1 b 4
+e 2 c 1 e 1 c 2 f 1 c 1 e 2 b 7 d 1 b 1
+e 3 c 3 e 2 b 2 d 1 b 4 d 1 d 1
+e 3 c 3 e 2 b 1 d 1 b 2 d 2 b 1 d 2
+e 6 b 1 d 1 b 1 d 4 b 1 d 2
+b 1 d 1 b 1 d 4 b 1 d 1
+b 1 d 4 b 1 d 1
+d 1 d 2 b 1
+b 1
+
+columns
+b 1
+b 1 d 2 d 1
+d 1 b 1 d 1 b 1 d 2 b 1
+d 1 b 1 d 2 b 1 d 1 b 1 d 1 b 1
+d 2 b 1 d 1 b 1 d 2 b 1 d 1 b 1 e 6
+d 3 b 2 d 2 b 1 d 1 b 1 e 3 c 1 e 1 c 1 e 2
+d 1 d 1 b 4 d 1 b 1 e 3 c 1 e 1 c 3 e 2
+b 1 d 1 b 7 e 2 c 1 f 1 c 2 f 1 c 1 e 2
+b 3 h 3 g 1 h 1 e 2 c 1 f 1 c 1 f 1 c 2 e 2
+e 3 h 1 g 1 h 1 g 1 h 2 e 1 c 1 f 4 c 1 f 1 c 1 e 3
+e 2 g 3 h 1 g 1 f 1 h 1 f 1 e 1 c 1 f 5 c 4 e 3
+e 2 g 1 h 1 g 2 f 5 e 2 f 7 c 1 e 1 c 1 e 3
+e 1 c 1 e 1 g 2 h 3 f 3 f 1 e 1 f 1 f 2 f 2 c 2 e 4
+c 1 e 2 g 3 f 3 f 2 e 1 f 1 f 1 f 5 c 3 e 1
+c 2 e 2 g 1 h 1 g 1 h 1 f 3 f 1 f 3 c 5 e 1
+c 3 e 1 g 2 h 1 f 3 h 2 f 3 c 2 f 1 c 2 e 1
+c 3 e 2 g 2 h 2 f 3 h 3 f 3 c 1 e 3
+c 5 e 2 g 2 h 4 h 3 f 5 c 2 e 3
+c 5 e 3 f 6 e 7 b 4
+c 7 e 3 f 3 h 1 f 3 h 2 b 2 d 3 b 1
+c 5 e 3 f 3 e 1 f 1 h 1 f 1 f 1 h 2 g 1 b 1 d 1 b 3
+c 4 e 2 f 2 c 1 e 2 f 2 h 1 f 1 f 5 g 1 h 1 b 3 d 1
+c 8 e 2 f 1 c 1 h 1 f 2 f 2 h 1 g 3 b 2 d 4
+c 7 e 2 c 1 f 1 c 1 h 1 f 6 h 1 g 1 b 3 d 5
+c 5 e 2 c 2 f 1 c 2 g 1 h 1 f 1 h 2 f 1 g 3 b 4 d 3
+c 11 g 1 h 1 g 2 h 1 g 1 h 1 g 1 b 3 d 2 b 1 d 3
+c 7 f 1 g 3 h 1 g 3 b 1 d 1 d 2 b 2 d 1
+c 5 f 3 g 5 c 1 b 1 d 1 d 3 b 2
+c 3 f 2 e 2 f 3 e 1 c 2
+f 1 e 4 c 1 f 1 c 1 e 1 c 2
+e 4 c 1 f 1 c 4
+c 7
+c 5

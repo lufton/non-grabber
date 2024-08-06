@@ -1,0 +1,52 @@
+by "pinniped"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/21"
+height 20
+id 223137
+link "https://www.griddlers.net/nonogram/-/g/223137"
+medium_time "0:03:26"
+points 353
+popularity 75.7
+title "Tulip"
+width 10
+
+color a 99FFFF
+color c FFFF66
+color d 00ff00
+color e 009900
+color g FF66FF
+
+rows
+g 1 g 1 g 1
+g 1 g 3 g 1
+g 3 c 1 g 3
+c 1 g 1 c 3 g 1 c 1
+c 7
+c 5
+c 5
+c 3 d 1
+e 1 d 1
+e 1 e 1 d 2
+e 1 e 1 d 3
+e 2 e 1 d 2
+e 2 e 1 d 3
+e 3 d 5
+e 4 d 4
+e 4 d 4
+e 4 d 2
+e 6
+e 6
+e 3
+
+columns
+e 7
+g 3 c 2 e 8
+g 2 c 3 e 6
+g 2 c 5 e 6
+g 2 c 6 e 5 d 3 e 4
+g 2 c 5 d 4 e 3
+g 2 c 3 d 5 e 2
+g 3 c 2 d 6
+d 5
+d 4

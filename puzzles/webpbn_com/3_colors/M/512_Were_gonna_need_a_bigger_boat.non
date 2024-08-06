@@ -1,0 +1,67 @@
+by "Timothy (relic10)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Timothy"
+date "Sep  2, 2006"
+description "For my second puzzle I took Jan's advice and cut back on the colors. This is the scene from Jaws where the shark is seen for the first time by those hunting him."
+difficulty 2.25
+height 21
+id 512
+link "https://webpbn.com/play.cgi?id=512"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.75
+title ""We're gonna need a bigger boat""
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 25
+black 3 black 13 black 1
+black 2 black 11 black 2
+black 1 black 1 black 1 black 9 black 2
+black 1 black 6 black 3
+black 1 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 3
+black 1 black 2 black 1 black 2 black 1 black 2 black 2 black 2
+black 1 black 10 black 2 black 1
+black 1 black 11 black 1 black 1
+black 1 black 11 black 5
+black 1 black 13 black 4
+black 2 black 13
+black 3 black 13
+black 3 black 12 black 1 black 1
+black 4 black 2 black 2 black 2 black 1 black 1 black 1
+blue 1 black 3 black 1 black 1 black 1 blue 1 black 1 black 1 blue 1
+blue 1 black 1 blue 2 black 1 blue 2 blue 1 black 1 blue 1 blue 2
+blue 6 blue 4 blue 8 blue 4
+blue 25
+blue 25
+
+columns
+black 16 blue 5
+black 3 black 6 blue 3
+black 2 black 3 black 4 blue 4
+black 1 black 1 black 6 black 2 blue 4
+black 1 black 6 black 1 blue 3
+black 1 black 9 blue 3
+black 1 black 8 blue 2
+black 1 black 10 blue 3
+black 1 black 1 black 9 blue 3
+black 2 black 8 blue 3
+black 3 black 10 blue 3
+black 4 black 7 blue 2
+black 4 black 7 blue 3
+black 5 black 2 black 7 blue 3
+black 5 black 1 black 4 blue 3
+black 6 black 5 blue 4
+black 8 black 3 blue 5
+black 6 black 2 blue 3
+black 5 black 1 blue 3
+black 4 black 1 black 1 blue 4
+black 3 black 1 black 3 blue 2
+black 2 black 2 blue 4
+black 1 black 3 black 2 black 1 blue 3
+black 1 black 6 black 2 black 2 blue 4
+black 12 blue 5

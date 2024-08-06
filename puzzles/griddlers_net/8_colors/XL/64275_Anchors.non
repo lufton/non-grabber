@@ -1,0 +1,110 @@
+by "arcadedweller"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/5/08"
+height 40
+id 64275
+link "https://www.griddlers.net/nonogram/-/g/64275"
+medium_time "0:11:37"
+points 16428
+popularity 67.72
+title "Anchors"
+width 45
+
+color a 0033ff
+color b 000000
+color c ccccff
+color d ff0000
+color e ffff00
+color f 666666
+color g ffffff
+color h ffcccc
+
+rows
+b 8
+e 8 b 2 h 6 b 2
+e 10 b 1 h 8 b 1
+e 12 h 4 b 1 h 2 b 1 h 4
+e 3 h 6 e 3 h 12
+e 2 h 8 e 2 h 10
+e 2 h 2 b 1 h 2 b 1 h 2 e 2 h 2 d 1 h 2 d 1 h 2
+e 2 h 8 e 2 h 3 d 2 h 3
+e 2 h 8 e 2 h 6
+e 2 h 2 d 1 h 2 d 1 h 2 e 2 h 2
+e 3 h 2 d 2 h 2 e 3 h 2
+e 2 h 6 e 1 h 2
+h 2 f 1 g 4 f 1
+g 4 f 4 g 2 f 4
+f 1 g 6 f 1 f 5 g 2 f 5
+f 2 g 6 f 2 f 14
+f 2 g 6 f 2 f 12 f 3
+f 2 g 6 f 2 f 3 f 8 f 3
+f 2 g 6 f 2 f 3 f 8 f 3
+f 3 h 4 f 3 f 3 f 8 f 3
+f 3 h 4 f 3 f 3 f 8 f 3
+b 45
+b 45
+b 45
+b 1 c 41 b 1
+b 1 c 12 b 12 c 17 b 1
+b 1 c 12 b 1 b 2 b 1 c 17 b 1
+b 1 c 12 b 1 b 3 b 1 c 17 b 1
+b 1 c 12 b 1 b 4 b 1 c 17 b 1
+b 1 c 12 b 1 b 1 b 2 b 1 c 17 b 1
+b 1 c 12 b 1 b 1 b 2 b 1 c 17 b 1
+b 1 c 12 b 1 b 8 b 1 c 17 b 1
+b 1 c 12 b 1 b 8 b 1 c 17 b 1
+b 1 c 12 b 1 b 2 b 1 c 17 b 1
+b 1 c 12 b 1 b 2 b 1 c 17 b 1
+b 1 c 12 b 1 b 2 b 1 c 17 b 1
+b 1 c 12 b 12 c 17 b 1
+b 1 c 41 b 1
+b 1 c 41 b 1
+b 1 c 41 b 1
+
+columns
+b 3
+b 19
+b 3 c 16
+b 3 c 16
+b 3 c 16
+e 8 b 3 c 16
+e 10 f 6 b 3 c 16
+e 4 h 5 e 2 f 7 b 3 c 16
+e 3 h 8 g 5 f 2 b 3 c 16
+e 3 h 2 b 1 h 2 d 1 h 2 g 6 h 2 b 3 c 16
+e 3 h 6 d 1 h 2 g 6 h 2 b 3 c 16
+e 3 h 6 d 1 h 2 g 6 h 2 b 3 c 16
+e 3 h 2 b 1 h 2 d 1 h 2 g 6 h 2 b 3 c 16
+e 3 h 8 g 5 f 2 b 3 c 16
+e 4 h 5 e 2 f 7 b 3 c 1 b 12 c 3
+e 9 f 6 b 3 c 1 b 1 b 1 c 3
+e 8 b 3 c 1 b 1 b 3 b 1 c 3
+b 3 c 1 b 1 b 1 b 2 b 1 c 3
+b 3 c 1 b 1 b 1 b 2 b 1 c 3
+b 3 c 1 b 1 b 2 b 2 b 1 c 3
+b 3 c 1 b 12 c 3
+b 3 c 1 b 12 c 3
+b 3 c 1 b 1 b 2 b 1 c 3
+f 5 b 3 c 1 b 1 b 2 b 1 c 3
+f 6 b 3 c 1 b 1 b 1 c 3
+h 2 f 7 b 3 c 1 b 12 c 3
+b 2 h 3 f 4 b 3 c 16
+b 2 h 6 f 8 b 3 c 16
+b 1 h 8 f 9 b 3 c 16
+b 1 h 2 b 1 h 2 d 1 h 2 g 1 f 8 b 3 c 16
+b 1 h 6 d 1 h 4 g 3 f 6 b 3 c 16
+b 1 h 6 d 1 h 4 g 3 f 6 b 3 c 16
+b 1 h 2 b 1 h 2 d 1 h 2 g 1 f 8 b 3 c 16
+b 1 h 8 f 9 b 3 c 16
+b 2 h 6 f 8 b 3 c 16
+b 2 h 3 f 3 b 3 c 16
+h 2 f 7 b 3 c 16
+f 6 b 3 c 16
+f 5 b 3 c 16
+b 3 c 16
+b 3 c 16
+b 3 c 16
+b 3 c 16
+b 19
+b 3

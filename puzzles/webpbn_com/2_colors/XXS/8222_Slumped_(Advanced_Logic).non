@@ -1,0 +1,27 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gator"
+date "Mar 31, 2010"
+description "A guy sleeping in a white recliner with his head slumped forward. A window is in the background. Well, not really...this was made for practicing "much lookahead required" kind of puzzles. See the comments for more information."
+difficulty 3.0
+height 5
+id 8222
+link "https://webpbn.com/play.cgi?id=8222"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Slumped (Advanced Logic)"
+width 5
+
+rows
+1,1
+2,1
+2
+1
+2
+
+columns
+1
+2,1
+2
+1,1
+2

@@ -1,0 +1,62 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct 10, 2017"
+description "Cats and lasers."
+difficulty 1.25
+height 20
+id 30311
+link "https://webpbn.com/play.cgi?id=30311"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "I will catch you someday"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 16 red 1 black 3
+black 20
+black 20
+black 2 black 7 black 2 black 2 black 1
+black 2 black 6 black 2 black 1
+black 3 black 6 black 1 black 2
+black 3 black 6 black 2
+black 2 black 6 black 3
+black 2 black 5 black 4
+black 1 black 4 black 5
+black 1 black 4 black 5
+black 1 black 2 black 6
+black 2 black 1 black 6
+black 2 black 7
+blue 3 blue 7
+blue 4 blue 5
+blue 6 blue 5
+blue 20
+blue 20
+
+columns
+black 15 blue 5
+black 10 black 2 blue 5
+black 4 black 2 blue 5
+black 4 black 1 blue 4
+black 5 black 6 blue 3
+black 13 blue 3
+black 12 blue 2
+black 11 blue 2
+black 10 blue 2
+black 9 blue 2
+black 8 blue 2
+black 4 blue 2
+black 5 blue 2
+black 5 black 1 blue 1 blue 2
+black 4 black 3 blue 1 blue 2
+black 7 black 5 blue 5
+black 1 red 1 black 4 black 6 blue 5
+black 4 black 7 blue 5
+black 4 black 9 blue 5
+black 15 blue 5

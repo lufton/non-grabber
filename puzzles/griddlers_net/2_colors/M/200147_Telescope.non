@@ -1,0 +1,60 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/17/19"
+height 23
+id 200147
+link "https://www.griddlers.net/nonogram/-/g/200147"
+medium_time "0:11:39"
+points 16038
+popularity 82.67
+title "Telescope"
+width 21
+
+rows
+1,3
+3,3
+5,3
+7,3
+9,2
+9,1
+1,9
+3,9
+5,7
+7,5
+7,3
+1,7,1
+3,5
+1,5,3,3
+1,5,1,5
+1,3,1,1,1
+1,1,2,1,2
+1,1,1,1
+1,2,1,2
+1,1,1
+2,1,2
+1,1,1
+4,1,4
+
+columns
+1
+1
+1,1
+3,1
+1,5,1
+3,5,1
+5,3
+1,7,1
+3,7,1
+5,7,3
+7,5,3,1
+9,3,3,1
+9,1,3
+1,9,2
+2,9,10
+3,7,2
+3,5,3
+3,3,3,1
+3,1,3,1
+3
+1

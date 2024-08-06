@@ -1,0 +1,57 @@
+by "Telula"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/21/10"
+height 25
+id 102874
+link "https://www.griddlers.net/nonogram/-/g/102874"
+medium_time "0:03:37"
+points 1812
+popularity 56.15
+title "Christmas Stocking"
+width 10
+
+color a 66ffff
+color b 000000
+color c 009900
+color d ff0000
+color e ffffff
+
+rows
+b 3
+b 1 b 2
+b 1 b 1
+b 1 b 1
+b 4
+b 6
+b 1 d 4 b 1
+b 2 d 3 b 2
+b 1 c 4 b 1
+b 1 c 3 b 2
+b 1 e 3 b 1
+b 1 e 3 b 1
+b 1 d 3 b 1
+b 1 d 3 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 e 3 b 1
+b 1 e 3 b 1
+b 1 d 3 b 1
+b 1 d 3 b 1 b 2
+b 1 c 3 b 2 c 2 b 1
+b 1 c 3 d 2 e 2 b 1
+b 2 c 1 d 3 e 2 b 1
+b 2 d 3 b 3
+b 5
+
+columns
+b 5
+b 1 b 1 b 16
+b 2 b 4 c 2 e 2 d 2 c 2 e 2 d 2 c 2 b 2
+b 5 d 2 c 2 e 2 d 2 c 2 e 2 d 2 c 3 b 2
+b 1 d 2 c 2 e 2 d 2 c 2 e 2 d 2 c 2 d 2 b 1
+b 1 d 2 c 1 b 12 d 3 b 1
+b 1 d 1 b 3 b 1 d 3 b 1
+b 3 b 1 c 1 e 2 b 2
+b 1 c 1 e 2 b 1
+b 4

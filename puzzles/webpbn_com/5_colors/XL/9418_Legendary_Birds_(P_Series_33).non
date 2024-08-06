@@ -1,0 +1,108 @@
+by "Ray Star (RazorStar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ray Star"
+date "Jun 30, 2010"
+description "Articuno, Zapdos and Moltres from pokemon. These will be the last ones from Generation 1 of pokemon, and the first picture where I have more than 1 pokemon in them. Also I made a cloudy sky background. Articuno (Top left): Articuno is a legendary bird PokÃ©mon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this PokÃ©mon flies, snow will fall. Zapdos (Bottom left): Zapdos is a legendary bird PokÃ©mon that has the ability to control electricity. It usually lives in thunderclouds. The PokÃ©mon gains power if it is stricken by lightning bolts. Moltres (Right): Moltres is a legendary bird PokÃ©mon that has the ability to control fire. If this PokÃ©mon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."
+difficulty 3.25
+height 35
+id 9418
+link "https://webpbn.com/play.cgi?id=9418"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Legendary Birds (P Series 33)"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 blue 33
+black 1 green 2 black 2 blue 30
+black 1 blue 1 black 1 green 2 black 2 black 5 blue 7 blue 8
+black 1 blue 3 black 1 green 2 black 2 black 2 blue 2 green 3 black 2 blue 4 blue 7
+black 1 blue 5 black 1 green 2 black 1 black 1 blue 2 green 2 black 3 blue 5 blue 5
+black 1 blue 7 green 1 black 1 black 1 blue 1 green 2 black 2 blue 7 blue 5
+black 1 blue 5 black 2 blue 1 green 1 black 4 blue 1 green 1 black 2 blue 6 blue 5
+blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 2 blue 2 green 1 black 2 blue 4 black 3 blue 6
+blue 1 black 4 blue 2 black 1 blue 4 black 1 green 2 black 1 blue 3 black 1 red 2 black 4 black 1 blue 1 black 1 blue 4
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 6 green 1 black 2 blue 1 black 1 red 3 black 1 red 2 black 1 black 2 black 2 red 1 black 1 blue 3
+blue 2 black 1 blue 5 black 1 blue 6 black 1 green 2 black 1 blue 1 black 1 red 1 green 2 red 2 black 1 red 1 black 1 red 1 black 1 black 1 black 1 black 1 red 4 black 1 blue 2
+blue 2 black 1 blue 3 black 1 blue 9 black 1 green 1 black 1 blue 1 black 1 green 3 red 3 black 2 red 1 black 1 red 1 black 2 red 1 black 2 red 5 black 1 blue 2
+blue 2 black 4 blue 2 black 1 blue 5 black 1 blue 2 green 1 black 1 black 1 green 5 black 1 red 1 black 1 red 2 black 2 red 2 black 1 red 5 black 1 blue 3
+blue 2 black 1 blue 2 black 1 red 1 blue 2 black 2 blue 7 black 1 green 1 black 1 blue 1 black 1 green 4 black 1 red 2 black 1 red 1 black 3 red 4 black 1 red 2 black 1 blue 3
+blue 3 black 1 blue 2 black 1 blue 3 black 1 black 1 blue 5 black 1 blue 1 black 1 green 1 black 1 blue 2 black 2 green 1 black 1 red 2 black 1 red 1 black 1 green 4 red 1 black 2 blue 1 black 3 blue 3
+blue 3 black 1 blue 1 black 5 black 2 blue 6 green 1 black 1 blue 4 black 2 red 1 black 1 red 1 black 1 green 4 black 1 green 1 red 2 black 2 red 2 black 1 blue 2
+blue 4 black 1 black 3 blue 4 green 1 black 1 blue 4 black 1 red 4 black 1 green 6 red 4 black 2 blue 2
+blue 2 black 3 black 2 black 5 blue 5 black 2 red 2 black 1 green 7 red 1 green 1 red 2 black 1 red 1 black 2
+blue 2 black 1 green 2 black 2 green 1 black 1 black 2 blue 4 black 1 green 2 black 2 green 5 black 1 green 4 red 3 black 1 red 1 black 1
+blue 2 black 1 green 5 black 2 green 1 black 1 blue 2 black 2 blue 1 black 2 blue 9 black 3 green 3 green 1 black 3 blue 1 black 1 green 6 red 1 black 1 blue 1
+blue 3 black 1 green 7 black 4 green 1 black 1 green 1 black 3 blue 7 black 1 red 2 black 1 green 1 black 1 green 1 black 1 blue 1 black 1 green 5 red 2 black 1 blue 1
+blue 2 black 1 green 10 black 2 green 2 black 1 green 2 black 1 blue 6 black 1 red 3 black 1 green 3 black 1 blue 3 black 1 green 5 red 2 black 1
+blue 2 black 2 green 1 black 1 green 6 black 1 green 1 black 1 green 4 black 3 blue 5 black 1 red 1 black 6 blue 5 black 2 green 4 black 1 blue 1
+blue 4 black 1 green 8 black 3 green 2 black 1 green 2 black 1 blue 5 black 2 blue 8 black 4 blue 2
+blue 5 black 2 green 1 black 2 green 1 black 3 green 6 black 1 blue 7 blue 15
+blue 5 black 1 green 1 black 2 green 2 black 1 green 3 black 7 blue 5 blue 15
+blue 4 black 2 green 5 black 1 green 1 black 1 green 5 black 2 green 2 black 1 blue 5 blue 16
+blue 4 black 1 green 9 black 1 green 7 black 4 blue 23
+blue 3 black 1 green 4 black 1 green 2 black 1 green 7 black 1 green 3 black 1 blue 23
+blue 3 black 2 green 1 black 1 black 1 green 3 black 1 green 9 black 1 blue 23
+blue 3 black 1 red 2 black 1 green 1 black 1 green 2 black 2 green 10 black 2 blue 21
+blue 3 black 1 red 3 black 1 green 2 black 1 green 1 black 1 black 2 green 10 black 1 blue 19
+blue 4 black 1 red 1 black 3 green 1 black 1 black 2 blue 2 black 1 green 1 black 2 green 2 black 1 green 1 black 3 blue 7 blue 9
+blue 4 black 2 black 2 blue 2 black 2 blue 2 black 1 green 2 black 1 blue 9 blue 8
+blue 5 blue 7 black 3 blue 8 blue 8
+
+columns
+black 4 blue 28
+black 1 green 1 blue 3 black 2 blue 25
+black 1 green 1 black 1 blue 4 black 1 blue 3 black 3 blue 1 black 2 blue 12
+black 1 green 1 blue 5 black 1 blue 1 black 1 green 2 black 1 green 1 black 1 blue 5 blue 3
+black 1 green 1 black 1 blue 4 black 3 black 3 black 1 green 5 black 1 blue 2 black 3 blue 1
+black 1 green 1 blue 4 black 1 blue 2 black 2 blue 3 black 1 black 1 green 3 black 1 green 1 black 1 black 2 black 1 red 2 black 1
+black 1 green 1 black 1 blue 2 black 3 blue 2 black 1 blue 2 black 1 black 1 green 5 black 1 black 1 green 1 black 2 red 2 black 1
+black 1 green 1 blue 1 black 1 blue 5 black 4 black 1 green 7 black 1 green 3 black 1 red 2 black 1
+black 1 green 1 blue 1 black 2 blue 1 black 1 blue 2 black 1 red 1 blue 1 black 1 black 3 green 4 black 1 green 5 black 3
+black 1 green 1 blue 2 black 1 blue 2 black 1 blue 1 black 1 black 1 green 4 black 2 green 3 black 1 green 3 black 1
+black 1 green 1 black 1 blue 1 black 2 blue 4 black 1 black 1 green 6 black 1 green 3 black 1 green 1 black 2
+black 2 blue 6 black 1 black 3 green 3 black 1 green 3 black 2 green 1 black 1
+black 1 blue 5 black 2 blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 5 black 1
+black 1 blue 6 black 1 blue 1 black 2 green 1 black 3 green 4 black 3
+black 1 green 1 black 1 blue 5 black 1 black 5 green 2 black 1 green 1 black 1 green 1 black 1
+black 1 blue 1 black 1 green 1 blue 6 black 1 black 1 green 3 black 1 green 3 black 1 green 1 black 1 green 1 black 1 blue 3
+black 1 blue 1 green 1 black 1 green 1 blue 6 black 1 blue 1 black 1 green 10 black 1 blue 3
+blue 1 black 1 blue 1 green 1 black 1 black 1 green 1 black 1 blue 5 black 1 black 1 green 1 black 1 green 3 black 1 green 6 black 2 blue 1
+blue 1 black 1 blue 1 green 1 black 1 black 1 green 1 blue 1 black 1 blue 3 black 1 black 2 green 2 black 1 green 1 black 1 green 7 black 1 blue 1
+blue 1 black 1 blue 1 green 1 black 1 black 1 green 1 black 1 blue 4 black 1 blue 1 black 1 green 1 black 1 green 2 black 1 green 6 black 1 blue 2
+blue 2 black 1 blue 1 green 1 black 1 black 1 green 1 blue 2 black 1 blue 2 black 1 blue 1 black 3 green 1 black 3 green 5 black 1 blue 2
+blue 2 black 1 green 1 black 1 blue 2 black 1 green 1 black 1 blue 3 black 1 blue 3 black 2 blue 1 black 2 green 6 black 1 blue 1
+blue 2 black 1 green 1 black 1 blue 4 black 1 green 1 black 1 blue 2 black 1 blue 6 black 1 green 2 black 1 green 5 black 1
+blue 2 black 1 green 1 black 1 blue 6 black 1 green 2 blue 1 black 1 blue 6 black 1 green 1 black 1 green 4 black 1 green 1 black 1
+blue 3 black 1 blue 5 black 2 blue 1 black 2 green 1 black 1 blue 7 black 2 green 5 black 2
+blue 3 black 1 blue 4 black 1 red 2 black 2 blue 3 black 1 blue 10 black 1 green 1 black 2 green 1 black 1 blue 2
+blue 7 black 1 red 2 green 3 black 1 blue 13 black 2 blue 1 black 1 green 1 black 1 blue 2
+blue 6 black 1 red 2 green 4 black 1 blue 6 black 3 blue 7 black 2 blue 2
+blue 5 black 3 red 1 green 3 black 1 blue 4 black 2 red 2 black 1 blue 10
+blue 4 black 1 red 3 green 3 black 1 blue 2 black 2 red 2 black 1 blue 9
+blue 3 black 1 red 1 black 1 red 1 green 2 black 4 green 1 black 1 red 2 black 1 blue 8
+blue 2 black 2 red 2 black 2 red 3 black 1 green 2 black 3 blue 8
+blue 2 black 2 red 3 black 1 red 2 black 1 green 3 black 1 blue 8
+blue 2 black 1 red 1 black 2 red 1 black 1 red 3 black 1 green 1 black 1 green 1 black 1 blue 7
+blue 2 black 2 red 2 black 1 red 1 black 1 red 1 black 1 green 1 green 1 black 1 blue 7
+blue 2 black 1 red 2 black 1 green 1 black 1 green 4 black 1 blue 8
+blue 2 black 1 red 1 black 2 green 5 black 2 blue 9
+blue 2 black 3 green 5 black 1 blue 11
+blue 2 black 1 red 1 black 1 green 5 black 1 blue 13
+blue 2 black 1 red 3 green 1 black 1 green 2 black 1 blue 16
+blue 2 black 2 red 2 green 4 black 2 blue 14
+blue 2 black 1 red 2 black 1 red 1 green 5 black 1 blue 13
+blue 3 black 1 red 3 black 1 red 3 green 4 black 1 blue 12
+blue 4 black 2 red 3 black 1 blue 1 black 1 red 1 green 5 black 1 blue 12
+blue 4 blue 2 black 1 red 4 black 2 red 3 green 4 black 1 blue 11
+blue 8 black 1 red 5 black 1 red 4 green 4 black 1 blue 11
+blue 9 black 1 red 2 black 3 red 1 black 2 red 1 green 1 red 1 green 2 black 1 blue 8 blue 1
+blue 10 black 2 blue 3 black 2 red 1 black 1 red 3 green 1 black 1 blue 7
+blue 17 black 1 red 1 black 2 red 1 black 1 blue 7
+blue 17 black 2 blue 2 black 1 blue 7

@@ -1,0 +1,60 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Gaynor Sorrell"
+date "Dec 23, 2023"
+description "Rudolph's red nose has a basis in fact - lots of tiny veins circulate warm blood around reindeer noses, heating up the air they breathe so their lungs donât get too cold. And in winter, their eyes turn blue to permit them to utilize ultraviolet light to find lichens in the snow!"
+difficulty 1.75
+height 20
+id 38113
+link "https://webpbn.com/play.cgi?id=38113"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Winter Transportation"
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2
+black 5
+red 1 black 2 blue 1 black 2
+black 6
+black 3 black 1
+black 4 black 1
+black 10
+black 10
+black 10
+black 13
+black 4 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 1
+
+columns
+0
+black 1
+black 3 red 1 black 1 black 2
+black 2 black 2 black 2 black 4
+black 1 black 1 black 3 black 2 black 2
+black 2 blue 1 black 8 black 1
+black 1 black 11
+black 2 black 2 black 9
+black 3 black 1 black 5
+black 1 black 4
+black 4
+black 4
+black 4
+black 4 black 2
+black 7 black 2
+black 4
+black 2
+0

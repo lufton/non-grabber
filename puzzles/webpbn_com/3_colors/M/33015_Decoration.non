@@ -1,0 +1,71 @@
+by "Mousey Pounds (mouseypounds)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Mousey Pounds"
+date "Oct  8, 2019"
+description "A Jack-O-Lantern"
+difficulty 1.75
+height 25
+id 33015
+link "https://webpbn.com/play.cgi?id=33015"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Decoration"
+width 25
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3
+green 5
+green 1 green 3
+green 3
+green 3
+green 3
+black 4 green 3 black 4
+black 6 green 5 black 6
+black 8 green 3 black 8
+black 21
+black 7 black 7 black 7
+black 6 black 5 black 6
+black 5 black 5 black 5
+black 7 black 7 black 7
+black 25
+black 3 black 8 black 7 black 3
+black 3 black 6 black 7 black 3
+black 4 black 13 black 4
+black 3 black 11 black 3
+black 4 black 2 black 2 black 4
+black 5 black 5
+black 5 black 5
+black 6 black 3 black 6
+black 17
+black 11
+
+columns
+black 5
+black 11
+black 13
+black 7 black 6
+black 9 black 5
+black 10 black 4
+green 2 black 5 black 5 black 3
+green 2 black 5 black 5 black 3
+green 2 black 4 black 5 black 3
+green 3 black 5 black 7 black 2
+green 4 black 1 green 1 black 12 black 2
+green 7 black 7 black 2 black 3
+green 6 black 6 black 2 black 3
+green 4 black 6 black 3 black 3
+black 1 green 1 black 12 black 2
+black 5 black 7 black 2
+black 4 black 5 black 3
+black 5 black 5 black 3
+black 5 black 5 black 3
+black 10 black 4
+black 9 black 5
+black 7 black 6
+black 13
+black 11
+black 5

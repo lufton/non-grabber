@@ -1,0 +1,62 @@
+by "Allie Blake (Allie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Allie Blake"
+date "Nov  8, 2020"
+description "Lays chips"
+difficulty 1.25
+height 20
+id 34667
+link "https://webpbn.com/play.cgi?id=34667"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Bag"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 13
+blue 3 green 11 blue 2
+blue 2 green 14 blue 1
+blue 2 green 15 blue 1
+blue 1 green 16 blue 1
+blue 1 green 1 black 1 green 4 black 1 green 2 black 1 green 1 black 1 green 1 black 3 blue 1
+blue 1 green 1 black 1 green 3 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 2 blue 1
+blue 1 green 1 black 1 green 3 black 3 green 2 black 1 green 2 black 3 blue 1
+blue 1 green 1 black 1 green 3 black 1 green 1 black 1 green 2 black 1 green 4 black 1 blue 1
+blue 1 green 1 black 3 green 1 black 1 green 1 black 1 green 2 black 1 green 2 black 3 blue 1
+blue 1 green 16 blue 1
+blue 1 green 16 blue 1
+blue 2 green 15 blue 1
+blue 1 green 15 blue 2
+blue 2 green 15 blue 1
+blue 1 green 15 blue 1
+blue 1 green 2 blue 4 green 8 blue 1
+blue 3 blue 9
+0
+0
+
+columns
+0
+blue 10
+blue 1 green 8 blue 3
+blue 1 green 2 black 5 green 4 blue 2
+blue 2 green 6 black 1 green 6 blue 1
+blue 1 green 7 black 1 green 7 blue 1
+blue 2 green 15 blue 1
+blue 1 green 5 black 4 green 6 blue 2
+blue 1 green 4 black 1 green 1 black 1 green 8 blue 1
+blue 1 green 5 black 4 green 6 blue 1
+blue 1 green 15 blue 1
+blue 1 green 4 black 2 green 10 blue 1
+blue 1 green 6 black 3 green 7 blue 1
+blue 1 green 4 black 2 green 10 blue 1
+blue 1 green 16 blue 1
+blue 1 green 4 black 3 green 1 black 1 green 7 blue 1
+blue 1 green 4 black 1 green 1 black 1 green 1 black 1 green 7 blue 1
+blue 1 green 4 black 1 green 1 black 3 green 7 blue 1
+blue 2 green 1 blue 11 green 3 blue 1
+blue 2 blue 5

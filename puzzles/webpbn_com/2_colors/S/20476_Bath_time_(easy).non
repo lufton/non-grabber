@@ -1,0 +1,47 @@
+by "Alasdair Morrison (allymo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Alasdair Morrison"
+date "Nov 26, 2012"
+description "A rubber ducky"
+difficulty 1.25
+height 15
+id 20476
+link "https://webpbn.com/play.cgi?id=20476"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Bath time (easy)"
+width 15
+
+rows
+8,3
+7,3
+7,1,3
+7,2
+8
+8,4
+7,3
+6,2
+3,1,1
+1,1,1
+1,2,1,1
+1,2,2,1
+2,7,1
+3,2
+4,3
+
+columns
+6,5
+7,3
+8,2,2
+8,2,1
+8,2
+9,1
+9,1
+1,5,1
+1
+1
+1,1,2
+1,3
+3,2,1
+4,3,2
+4,10

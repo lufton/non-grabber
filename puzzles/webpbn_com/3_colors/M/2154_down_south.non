@@ -1,0 +1,71 @@
+by "Phil Cudlob (redskinsfan21)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Phil Cudlob"
+date "Jan 11, 2008"
+description "a penguin"
+difficulty 2.75
+height 34
+id 2154
+link "https://webpbn.com/play.cgi?id=2154"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.25
+title "down south"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 2 black 2
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 4 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 2 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 3 black 1 black 1 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+black 10
+black 1 red 1 black 2 black 2 red 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 4 black 4
+
+columns
+black 7
+black 5 black 1
+black 1 black 10 black 2
+black 2 black 3 black 3 red 1 black 1
+black 7 black 4 black 1 red 2 black 1
+black 2 black 1 black 2 black 15
+black 2 black 1 black 1 black 2 black 2
+black 1 red 2 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1
+black 2 black 1 black 1 black 2 black 2
+black 2 black 1 black 2 black 15
+black 7 black 4 black 1 red 2 black 1
+black 2 black 3 black 3 red 1 black 1
+black 1 black 10 black 2
+black 5 black 1
+black 7

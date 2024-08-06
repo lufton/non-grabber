@@ -1,0 +1,82 @@
+by "Patrick Shaughnessy (pshaughn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Patrick Shaughnessy"
+date "Sep  9, 2010"
+description "Yo dawg, I heard you like paradoxes so I put an ambiguous puzzle in your unambiguous puzzle so you can not have a unique solution while you have a unique solution."
+difficulty 1.5
+height 35
+id 10258
+link "https://webpbn.com/play.cgi?id=10258"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Paradoxically ambiguous?"
+width 30
+
+rows
+0
+1,1
+1,1
+1,1
+0
+0
+0
+1,1,1,1,1
+1,1,1,3
+1,1,1,1
+0
+24
+1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1,1,1
+3,1,1,1,1
+1,1,1,1,1
+1,1,1,1
+
+columns
+0
+3,3
+2
+1
+3,3,3,3
+0
+24
+1,1,1,1
+1,1,1,1
+3,3,1,1,1,1
+1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1
+3,3,1,1,1,1
+1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+1,1,1,1
+3,1,1,1,1
+1,1,1,1
+1,1,1,1
+24
+1,1,1,1
+2,1,1,1,1
+1,1,1,1,1
+3,1,1,1,1
+1,1,1,1

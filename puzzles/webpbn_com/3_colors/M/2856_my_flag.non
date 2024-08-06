@@ -1,0 +1,61 @@
+by "sam clarke (clarkeysam)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by sam clarke"
+date "May 26, 2008"
+description "darlington football club (D.F.C) an exact copy of my flag"
+difficulty 1.25
+height 20
+id 2856
+link "https://webpbn.com/play.cgi?id=2856"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "my flag"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4
+black 4 red 4
+black 2 black 2 red 4
+black 2 black 2 red 4
+black 2 black 2 red 4
+black 4 red 4
+red 4
+red 4
+red 20
+red 20
+red 20
+red 20
+red 4
+black 5 red 4 black 6
+black 5 red 4 black 6
+black 1 red 4 black 2
+black 3 red 4 black 2
+black 3 red 4 black 6
+black 1 red 4 black 6
+black 1 red 4
+
+columns
+red 4
+black 5 red 4 black 7
+black 5 red 4 black 2 black 2
+black 1 black 1 red 4 black 2 black 2
+black 2 black 2 red 4 black 2
+black 3 red 4 black 2
+black 1 red 4
+red 4
+red 20
+red 20
+red 20
+red 20
+red 4
+red 4 black 6
+red 4 black 6
+red 4 black 2 black 2
+red 4 black 2 black 2
+red 4 black 2 black 2
+red 4 black 2 black 2
+red 4

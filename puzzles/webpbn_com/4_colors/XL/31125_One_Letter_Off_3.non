@@ -1,0 +1,89 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Ron Jacobson"
+date "Apr 30, 2018"
+description "BE CAREFUL!!"
+difficulty 2.5
+height 40
+id 31125
+link "https://webpbn.com/play.cgi?id=31125"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "One Letter Off 3"
+width 27
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 1
+black 2 black 1 black 2
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 1
+black 2 black 2 black 1 black 2
+black 4 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 4 black 5
+green 8
+green 4 green 4
+green 1 green 2 green 2 green 1
+green 1 black 2 green 1 green 1 black 2 green 1
+green 1 black 2 green 2 green 2 black 2 green 1
+green 4 green 4
+green 1 red 4 green 1
+red 10
+red 11
+red 13
+red 13
+red 1 black 11 red 1
+red 11
+red 8
+green 2 green 1 green 1
+green 3 green 2 green 2
+green 11 green 2
+green 2
+green 2
+black 3 black 5 green 2
+black 8 green 2
+black 3 green 3
+black 3 black 4 green 2
+black 9 green 2
+green 2
+green 2
+green 4 green 9
+green 13
+red 1 red 1
+red 1 red 1
+
+columns
+green 2 black 1 green 1
+green 3 black 1 green 2
+green 2 black 1 black 2 green 2
+green 1 black 1 black 1 green 2 red 2
+black 2 green 1 black 2 black 2 green 1
+black 3 green 1 black 1 black 1 green 1
+black 2 green 1 black 1 black 1 green 1 red 2
+black 2 green 1 black 1 black 1 green 1
+black 1 green 1 black 1 black 1 green 2
+black 2 red 3 green 1 black 1 black 1 green 2
+black 6 green 5 red 3 black 1 red 1 green 2 black 1 black 1 green 2
+black 3 black 1 green 1 black 2 green 2 red 4 black 1 red 2 green 3 black 2 black 2 green 2
+black 1 green 2 black 2 green 1 red 4 black 1 red 2 black 1 black 2 green 2
+black 3 green 3 green 2 red 4 black 1 red 2 black 1 black 1 green 2
+green 1 green 3 red 5 black 1 red 2 black 1 black 1 green 1
+green 1 red 5 black 1 red 2 black 1 green 1
+green 1 red 5 black 1 red 2 green 2
+black 3 green 1 green 3 red 5 black 1 red 2 green 2
+black 1 green 3 green 2 red 4 black 1 red 2 green 3 green 4
+black 1 green 2 black 2 green 1 red 4 black 1 red 1 green 9
+black 2 black 1 green 1 black 2 green 2 red 4 black 1 red 1 green 5
+black 6 green 5 red 3
+black 1
+black 2
+black 4
+black 1
+0

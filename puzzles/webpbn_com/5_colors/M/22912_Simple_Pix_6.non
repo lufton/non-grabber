@@ -1,0 +1,58 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Scarlet Noelle Masen"
+date "Oct  8, 2013"
+description "Parrot"
+difficulty 1.75
+height 20
+id 22912
+link "https://webpbn.com/play.cgi?id=22912"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Simple Pix 6"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 red 4
+green 3 black 2 red 4
+green 2 black 1 black 1 red 4
+black 2 black 3 red 3
+black 4 red 4
+black 2 black 2 black 2 red 3
+black 6 black 1 red 3
+black 4 black 2 black 1 red 3
+black 3 black 2 black 2 red 2
+black 2 black 3 black 3 red 2
+black 1 black 3 red 2
+blue 2 red 3
+blue 3 red 3
+blue 3 red 4
+blue 4 red 4
+blue 5 red 4
+blue 5 red 4
+blue 5 red 4
+blue 6 red 3
+blue 5 red 3
+
+columns
+black 5
+green 1 black 7
+green 2 black 2 black 5
+green 2 black 4
+green 2 black 2 black 1
+green 1 black 3 black 4
+red 1 black 1 black 1 black 3 blue 7
+red 1 black 2 black 1 blue 9
+red 2 black 2 blue 9
+red 3 black 3 blue 6
+red 2 black 5 blue 5
+red 4 black 1 red 5 blue 2
+red 6 red 9
+red 17
+red 16

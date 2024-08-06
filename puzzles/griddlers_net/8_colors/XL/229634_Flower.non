@@ -1,0 +1,92 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/5/21"
+height 40
+id 229634
+link "https://www.griddlers.net/nonogram/-/g/229634"
+medium_time "0:37:20"
+points 19057
+popularity 90.59
+title "Flower"
+width 27
+
+color a 000000
+color b 660000
+color c FF0033
+color d 336600
+color e CC0066
+color f FF9900
+color g FFFF33
+color h 669933
+
+rows
+c 4
+c 2 c 6
+c 7 e 1 c 2 e 1
+c 3 e 2 c 4 e 1 c 1 e 2
+c 3 e 2 g 1 c 1 g 1 c 5 e 1 c 1 d 3
+c 2 e 4 g 1 e 1 g 1 e 1 c 2 e 1 c 2 d 2
+e 1 c 1 b 1 e 2 g 1 f 1 g 1 f 1 g 1 c 1 e 2 c 2 d 2
+e 2 c 1 b 2 e 1 f 2 g 1 e 2 c 3 d 1 h 5
+e 2 c 2 b 1 e 1 f 1 e 1 c 4 d 7 h 2
+d 3 b 1 e 2 c 8 d 9
+d 1 h 1 d 3 c 1 b 3 c 6 d 8
+d 2 h 2 d 2 c 1 b 6 d 4
+d 2 h 2 d 2 c 6 d 3
+d 4 h 3 c 3 d 1 d 1 h 3 d 2
+d 7 d 1 d 3 h 1 d 3
+d 6 h 1 d 4 h 2 d 1
+d 3 d 2 h 1 d 6 h 1 d 1
+d 3 h 1 d 3 d 2 d 4 h 2
+d 2 h 2 d 5 d 1 h 1 d 3 d 3 h 1
+d 1 h 1 d 6 d 2 h 1 d 3 d 2
+h 1 d 6 d 3 h 1 d 4 d 4 h 2 d 1
+h 1 d 4 d 4 h 2 d 2 d 5 h 1 d 2
+d 3 d 3 d 4 h 1 d 2 d 5 h 1 d 1
+d 1 d 5 d 5 h 1 d 2 d 4 h 1 d 1
+d 4 h 2 d 1 d 4 h 1 d 2 d 3 h 1
+d 3 h 2 d 4 h 1 d 3 h 1 d 1 d 3
+d 1 h 3 d 5 h 1 d 1 h 1 d 1
+h 1 d 6 h 1 d 2
+h 1 d 1 f 12 d 1 f 2
+f 1 b 1 f 1 b 1 f 1 b 1 f 1 b 1 f 1 b 1 f 1 b 1 f 1 b 1 f 1
+f 15
+0
+f 13
+f 13
+f 13
+f 11
+f 11
+f 9
+f 9
+f 7
+
+columns
+d 2 h 2 d 2
+d 1 d 2 h 1 d 3 h 1
+d 3 d 2 h 1 d 4 d 1 h 1 d 1
+d 1 h 1 d 3 d 2 h 1 d 3 d 1 h 1 d 1
+d 1 h 1 d 3 d 1 h 1 d 4 d 2 h 1 d 1
+c 2 e 2 d 1 h 2 d 2 d 4 d 3 h 1 d 1
+c 4 e 2 d 2 h 1 d 3 d 4 d 2 h 1 d 2 f 3
+c 3 e 1 b 1 c 1 e 1 b 1 c 1 d 2 h 1 d 2 d 3 d 3 h 1 d 2 f 1 b 1 f 1 f 3
+c 3 e 3 b 1 c 1 e 1 b 1 c 1 d 1 h 1 d 2 d 1 d 2 h 1 d 3 f 3 f 5
+c 2 e 4 b 1 c 1 e 1 b 2 c 1 h 1 d 3 d 2 h 1 d 2 f 1 b 1 f 1 f 7
+c 1 e 1 g 1 e 1 g 1 e 1 b 1 c 1 b 2 c 2 d 3 d 2 d 3 f 3 f 8
+c 4 g 1 f 2 e 1 c 2 b 1 c 2 d 1 d 6 d 1 f 1 b 1 f 1 f 8
+c 4 g 1 e 1 g 1 f 2 c 2 b 1 c 2 d 1 h 1 d 6 f 3 f 8
+c 5 g 1 f 1 g 1 e 1 c 2 b 1 c 1 d 2 h 2 d 2 h 2 d 4 h 3 f 1 b 1 f 1 f 8
+c 2 e 1 c 2 e 1 g 1 e 1 c 3 b 1 c 1 d 3 h 1 d 4 f 3 f 8
+c 3 e 1 c 3 e 1 c 3 d 4 d 3 h 2 d 3 f 1 b 1 f 1 f 8
+c 5 e 1 c 4 d 1 h 1 d 3 d 4 h 2 d 2 f 3 f 8
+e 2 c 1 e 2 c 3 d 1 h 1 d 4 d 5 h 2 d 1 f 1 b 1 f 1 f 7
+e 2 c 3 d 3 d 1 h 2 d 3 d 1 d 6 f 2 f 5
+c 3 d 5 d 2 h 1 d 2 d 3 f 1 b 1 f 1 f 3
+d 3 h 1 d 4 d 2 h 1 d 3 d 3 f 3
+d 3 h 1 d 4 d 2 h 2 d 1 d 4
+d 1 h 1 d 4 d 1 h 1 d 1 d 4
+h 1 d 3 h 1 h 1 d 4
+h 1 d 3 h 2 d 4
+h 1 d 2 d 2 h 2 d 2
+h 1 d 1 d 3 h 1 d 1

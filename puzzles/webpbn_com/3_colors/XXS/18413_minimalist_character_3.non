@@ -1,0 +1,31 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Apr 23, 2012"
+description "Marvin the Martian"
+difficulty 1.0
+height 5
+id 18413
+link "https://webpbn.com/play.cgi?id=18413"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "minimalist character 3"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 3
+green 5
+green 1 black 3 green 1
+green 1 black 1 green 1
+green 1 black 3 green 1
+
+columns
+green 4
+green 2 black 1 black 1
+green 2 black 3
+green 2 black 1 black 1
+green 4

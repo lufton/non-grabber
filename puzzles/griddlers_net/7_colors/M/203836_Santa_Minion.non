@@ -1,0 +1,62 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/14/19"
+height 25
+id 203836
+link "https://www.griddlers.net/nonogram/-/g/203836"
+medium_time "0:05:56"
+points 1849
+popularity 81.05
+title "Santa Minion"
+width 13
+
+color a 009999
+color b 000000
+color c c98c00
+color d ff0000
+color e ffffff
+color f ffff66
+color g 999999
+
+rows
+d 4
+d 6
+d 8
+d 10
+d 3 e 6 d 1
+d 2 e 1 f 5 e 2
+d 2 e 1 f 8
+e 2 f 2 g 2 f 1 g 2 f 2
+e 2 b 1 g 1 e 1 b 1 g 1 e 1 b 1 g 1 b 1
+b 1 g 1 e 2 g 1 e 2 g 1 b 1
+e 2 g 2 f 1 g 2 e 2
+e 9
+e 6 b 1 e 2
+d 1 e 2 b 3 e 2 d 1
+d 3 e 5 d 3
+d 4 e 3 d 4
+d 5 e 1 d 5
+d 2 b 2 f 3 b 2 d 2
+d 2 b 2 f 3 b 2 d 2
+e 2 d 7 e 2
+f 2 d 7 f 2
+f 1 e 3 e 3 f 1
+c 3 c 3
+c 3 c 3
+c 4 c 4
+
+columns
+e 2
+d 1 e 2
+d 4 d 5 e 1 f 1
+d 4 e 1 f 1 b 2 e 3 d 6 e 1 f 2 c 1
+d 4 e 1 f 2 g 2 e 4 d 3 b 2 d 2 e 1 c 3
+d 4 e 1 f 2 g 1 e 2 g 1 e 4 d 2 b 2 d 2 e 1 c 3
+d 4 e 1 f 2 g 1 b 1 e 1 g 1 e 2 b 1 e 2 d 1 f 2 d 2 e 1 c 3
+d 4 e 1 f 3 g 2 f 1 e 2 b 1 e 3 f 2 d 2
+d 4 e 1 f 2 g 1 e 2 g 1 e 2 b 1 e 2 d 1 f 2 d 2 e 1 c 3
+d 3 e 1 f 2 g 1 b 1 e 1 g 1 e 1 b 1 e 2 d 2 b 2 d 2 e 1 c 3
+d 2 e 2 f 2 g 2 e 4 d 3 b 2 d 2 e 1 c 3
+d 2 e 1 f 2 b 2 e 3 d 6 e 1 f 2 c 1
+d 5 e 1 f 1

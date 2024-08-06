@@ -1,0 +1,58 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 16, 2011"
+description "I'm an expert at getting lost. I was driving through southern VIrginia, heading north. It was a beautiful spring day and early in the morning with a cool breeze. The radio was on and the scenery was so pretty. After an hour, I realized that the sun should have been on the right side of the car. I had been driving south for an hour."
+difficulty 1.5
+height 20
+id 12779
+link "https://webpbn.com/play.cgi?id=12779"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "The sun is on the wrong side"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4
+red 6
+red 6
+red 6
+red 4
+0
+0
+green 11
+green 1 black 3 green 1
+green 1 black 3 green 1
+green 1 black 3 green 1
+green 1 black 5 green 1
+green 1 black 5 green 1
+green 11
+green 1 red 2 green 5 red 2 green 1
+green 1 red 2 green 5 red 2 green 1
+green 4 blue 3 green 4
+black 2 black 2
+black 2 black 2
+black 2 black 2
+
+columns
+red 3
+red 5
+red 5
+red 5 green 10
+red 5 green 1 black 2 green 1 red 2 green 1 black 3
+red 3 green 1 black 5 green 1 red 2 green 1 black 3
+green 1 black 5 green 4
+green 1 black 5 green 3 blue 1
+green 1 black 2 green 3 blue 1
+green 1 green 3 blue 1
+green 1 green 4
+green 1 green 1 red 2 green 1 black 3
+green 1 green 1 red 2 green 1 black 3
+green 10
+0

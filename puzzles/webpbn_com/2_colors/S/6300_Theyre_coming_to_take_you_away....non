@@ -1,0 +1,47 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Jul 13, 2009"
+description "Wallmaster, enemy in Legend of Zelda, transports Link back to the entrance of a dungeon, most loathed enemy"
+difficulty 2.5
+height 15
+id 6300
+link "https://webpbn.com/play.cgi?id=6300"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "They're coming to take you away..."
+width 15
+
+rows
+3,4
+2,3,3
+1,1,2,2
+2,1,2,1
+1,1,2,1
+2,1,2
+1,1,2
+1,4
+1,2,2
+1,2,1
+1,2
+2,2
+2,2
+3,3
+6
+
+columns
+7
+3,2
+3,2
+2,1
+1,2,2
+3,1
+1,1,1
+2,2,1
+1,2,1,1
+1,2,2,2
+3,2,1
+1,1,2
+2,2,2
+1,4,2
+3,3

@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Mar 14, 2021"
+description "H to O"
+difficulty 1.25
+height 5
+id 34959
+link "https://webpbn.com/play.cgi?id=34959"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Water"
+width 35
+
+rows
+1,1,1,1,1,1,1,1,1,1,1,3
+1,1,1,1,1,1,1,2,2,2,1,2,2
+3,1,1,2,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,2,2,2
+1,1,1,3,1,1,3,1,1,1,1,3
+
+columns
+5
+1
+5
+0
+5
+0
+2
+1
+5
+0
+5
+1
+2,2
+0
+5
+1
+1
+0
+5
+1
+1
+1
+5
+0
+5
+1
+1
+1
+5
+0
+3
+2,2
+1,1
+2,2
+3

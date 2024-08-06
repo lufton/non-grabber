@@ -1,0 +1,89 @@
+by "federicat83"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/3/07"
+height 25
+id 44264
+link "https://www.griddlers.net/nonogram/-/g/44264"
+medium_time "0:16:07"
+points 15020
+popularity 84.86
+title "Duck"
+width 40
+
+color a ffffff
+color b 000000
+color c 996600
+color d ff9900
+color e 669900
+color f 66cc00
+color g 99ccff
+
+rows
+e 1 f 4
+e 2 f 4 e 1
+d 1 e 1 f 5 e 2
+d 2 e 1 f 1 b 1 f 4 e 1
+d 4 f 7 e 1
+d 5 f 5 e 3
+f 4 e 3
+f 2 e 4
+f 4 e 2
+f 2 e 3
+d 1 f 2 e 3 c 9
+d 1 f 2 e 2 c 4 c 3
+f 1 d 2 f 2 e 2 c 5 e 8 c 3
+c 1 f 1 d 3 f 2 e 1 c 4 e 5 f 5 c 4
+c 2 f 2 d 3 f 1 c 4 e 7 f 3 c 5
+c 4 f 4 d 1 c 2 d 1 e 5 f 3 c 4 e 8
+c 6 d 6 e 5 c 3 e 3 d 1 e 7
+c 5 d 5 e 4 c 5 e 3 d 2 e 6
+c 4 d 3 c 5 c 7 e 3 d 2 e 4
+c 5 d 2 c 4 d 1 c 4 d 3 e 3
+c 4 d 3 c 3 d 4 d 3 e 3
+c 4 d 12 d 6 e 1
+g 37
+g 33 g 2
+g 2 g 3 g 9 g 8
+
+columns
+g 1
+g 1 g 1
+d 1 g 2
+d 2 c 3 g 3
+d 2 c 7 g 3
+d 3 c 8 g 3
+d 4 c 9 g 2
+e 3 f 2 f 3 c 5 d 2 g 2
+e 2 f 5 d 4 f 2 c 2 d 4 g 2
+f 3 b 1 f 8 d 3 f 1 c 1 d 5 g 3
+f 13 d 2 f 1 d 3 c 2 d 1 g 3
+f 7 e 1 f 1 e 3 f 2 d 1 f 1 d 2 c 3 d 1 g 3
+f 5 e 3 f 1 e 4 f 2 d 3 c 3 d 1 g 3
+e 2 f 2 e 6 e 2 c 2 d 2 c 2 d 2 g 3
+e 7 c 3 d 1 e 1 c 1 d 3 g 3
+c 2 d 2 e 1 c 2 d 2 g 3
+c 3 e 2 c 1 d 2 g 3
+c 2 e 3 c 1 d 1 g 3
+c 1 e 3 c 2 d 1 g 2
+c 2 e 3 c 1 g 2
+c 2 e 3 c 1 g 2
+c 1 e 3 c 1 g 2
+c 2 e 2 f 1 c 2 g 2
+c 1 e 2 f 1 c 2 g 2
+c 1 e 3 f 1 c 2 g 3
+c 1 e 2 f 1 c 2 e 1 d 1 g 3
+c 1 e 1 f 2 c 3 e 1 d 1 g 3
+c 1 e 1 f 2 c 2 e 2 d 1 g 3
+c 1 e 1 f 1 c 2 e 2 d 2 g 3
+c 1 e 1 f 1 c 2 e 2 d 3 g 3
+c 2 e 1 f 1 c 1 e 1 d 5 g 3
+c 1 e 1 c 2 e 1 d 4 e 2 g 3
+c 4 e 6 g 2
+c 2 e 6 g 2
+c 2 e 5 g 2
+e 4 g 1
+e 3 g 1
+e 3 g 1
+e 2 g 1
+g 1

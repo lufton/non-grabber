@@ -1,0 +1,61 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Thomas Genuine"
+date "Dec 14, 2017"
+description "Today evening lights in a synagogue: 4th day of Chanukka (and servant candle) 7 candles of menorah (general lighting) 2 simple candles (need to light before beginning of sabbath)"
+difficulty 1.75
+height 20
+id 30638
+link "https://webpbn.com/play.cgi?id=30638"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Lights"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 17
+black 1 black 1
+black 3 black 3
+red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 3 black 1 black 1
+black 4 black 1 black 4 black 1 black 1
+black 9 black 1 black 1
+black 5 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 3 black 3 black 2
+
+columns
+black 4
+black 1 red 1 black 3
+black 4 black 1 black 2
+black 3 red 1 black 5
+black 4 black 1 black 2
+black 1 red 1 black 6
+black 4 black 2 black 1
+black 1 red 1 black 10
+red 2 black 4 black 2 black 1
+black 1 red 1 black 6
+red 2 black 4 black 2
+black 1 red 1 black 5
+red 2 black 4 black 1 black 2
+black 3 red 1 black 3
+red 2 black 4 black 1 black 1
+black 1 red 3 black 9
+red 2 black 3 black 1
+0
+black 1
+red 3 black 9

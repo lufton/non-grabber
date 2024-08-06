@@ -1,0 +1,78 @@
+by "scopefragger"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/12/07"
+height 32
+id 44608
+link "https://www.griddlers.net/nonogram/-/g/44608"
+medium_time "0:09:59"
+points 10595
+popularity 63.37
+title "Public Bin"
+width 22
+
+color a 5555ff
+color b 000000
+color c 969696
+color d cccccc
+color e 666666
+color f 333333
+color g 4f4d4d
+
+rows
+b 2
+b 2 c 2 b 2
+b 2 c 6 b 2
+b 2 c 10 b 2
+b 2 c 14 b 2
+b 2 c 18 b 2
+b 1 e 1 d 2 c 14 d 2 g 1 b 1
+b 1 e 3 d 2 c 10 d 2 g 3 b 1
+b 1 e 5 d 2 c 6 d 2 g 5 b 1
+b 1 e 1 b 2 e 4 d 2 c 2 d 2 g 4 b 2 d 1 b 1
+b 1 e 1 b 1 b 2 e 4 d 2 g 4 b 2 b 1 d 1 b 1
+b 1 e 1 b 1 b 2 e 2 d 1 g 3 b 3 b 1 d 1 b 1
+b 1 e 1 b 1 b 2 f 1 b 2 d 1 g 1 b 2 f 3 b 3 d 1 b 1
+b 1 e 1 b 3 f 4 b 1 d 1 g 1 b 1 f 6 b 1 d 1 b 1
+b 1 e 1 b 1 f 6 b 1 d 1 g 1 b 1 f 6 b 1 d 1 b 1
+b 1 e 1 b 1 f 6 b 1 d 1 g 1 b 1 f 6 b 1 d 1 b 1
+b 1 e 1 b 2 f 5 b 1 d 1 g 1 b 1 f 5 b 2 d 1 b 1
+b 1 e 3 b 2 f 3 b 1 d 1 g 1 b 1 f 3 b 2 d 2 g 1 b 1
+b 1 e 5 b 2 f 1 b 1 d 1 g 1 b 1 f 1 b 2 d 2 g 3 b 1
+b 1 e 7 b 2 d 1 g 1 b 2 d 2 g 5 b 1
+b 1 e 9 d 1 g 1 d 2 g 7 b 1
+b 1 e 9 d 1 g 10 b 1
+b 1 e 9 d 1 g 10 b 1
+b 1 e 9 d 1 g 10 b 1
+b 1 e 9 d 1 g 10 b 1
+b 1 e 1 b 2 e 6 d 1 g 7 b 2 g 1 b 1
+b 2 b 2 e 4 d 1 g 5 b 2 b 2
+b 2 e 2 d 1 g 3 b 2
+b 2 d 1 g 1 b 2
+b 1 d 1 g 1 b 1
+b 1 d 1 g 1 b 1
+b 2
+
+columns
+b 22
+b 1 e 20 b 1
+b 1 c 1 d 1 e 2 b 8 e 8 b 1
+b 1 c 1 d 1 e 2 b 1 b 1 f 2 b 1 e 8 b 1
+b 1 c 3 d 1 e 2 b 1 b 1 f 3 b 1 e 8 b 1
+b 1 c 3 d 1 e 2 b 1 b 1 f 4 b 1 e 8 b 1
+b 1 c 5 d 1 e 2 b 2 f 5 b 1 e 8 b 1
+b 1 c 5 d 1 e 2 b 1 f 6 b 1 e 8 b 1
+b 1 c 7 d 1 e 2 b 1 f 6 b 1 e 8 b 1
+b 1 c 7 d 1 e 2 b 8 e 8 b 3
+b 1 c 9 d 21 b 1
+b 1 c 9 d 1 g 20 b 1
+b 1 c 7 d 1 g 2 b 8 d 1 g 7 b 3
+b 1 c 7 d 1 g 2 b 1 f 6 b 1 d 1 g 7 b 1
+b 1 c 5 d 1 g 2 b 1 f 6 b 1 d 1 g 7 b 1
+b 1 c 5 d 1 g 2 b 1 f 6 b 1 d 1 g 7 b 1
+b 1 c 3 d 1 g 2 b 2 f 5 b 1 d 1 g 7 b 1
+b 1 c 3 d 1 g 2 b 1 b 1 f 4 b 1 d 1 g 7 b 1
+b 1 c 1 d 1 g 2 b 1 b 1 f 3 b 1 d 1 g 7 b 1
+b 1 c 1 d 1 g 2 b 8 d 1 g 7 b 1
+b 1 g 3 d 8 g 9 b 1
+b 22

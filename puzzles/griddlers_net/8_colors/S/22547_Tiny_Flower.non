@@ -1,0 +1,55 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/25/05"
+height 15
+id 22547
+link "https://www.griddlers.net/nonogram/-/g/22547"
+medium_time "0:09:13"
+points 1922
+popularity 78.39
+title "Tiny Flower"
+width 15
+
+color a ffffff
+color b 007700
+color c 00bb00
+color d 6666cc
+color e 9999ff
+color f ccccff
+color g ffcc00
+color h ff9900
+
+rows
+b 2 c 3
+c 1 b 5 c 2 b 3
+c 4 d 3 b 1 c 1 b 3
+c 2 d 1 e 3 d 1 b 2 d 3
+c 1 d 1 f 3 e 2 d 2 f 3 d 1
+d 1 f 1 f 2 e 1 d 1 f 1 f 1 d 1
+d 1 f 1 f 1 e 1 d 1 f 1 d 1
+b 1 e 3 d 1 g 1 h 1 g 1 e 1 f 2 e 1 d 1
+b 3 d 4 h 1 h 1 e 4
+c 1 b 2 d 1 e 3 g 1 h 1 g 1 d 4
+c 2 d 1 e 2 f 2 d 3 f 1 f 1 d 2
+c 1 d 1 e 1 f 3 d 1 f 2 f 1 d 1
+d 1 e 1 f 2 d 2 f 2 d 1
+d 1 f 1 d 4 e 2 d 1
+d 4 d 3
+
+columns
+b 1 c 2 b 2 c 2
+b 2 c 3 b 2 c 2
+b 1 c 2 d 3 e 1 b 2 d 3
+b 1 c 1 d 1 f 3 e 1 d 2 e 3 d 1
+b 1 d 1 e 1 f 1 e 1 d 1 e 2 f 3 d 1
+b 1 d 1 e 1 f 2 d 1 e 1 f 3 d 1
+d 1 e 2 f 2 d 2 e 1 f 2 d 1
+c 1 b 1 d 1 e 3 g 1 h 1 g 1 d 1 d 2
+c 3 b 1 d 3 h 1 h 1 d 4
+c 1 b 3 d 1 f 2 g 1 h 1 g 1 d 1 f 1 d 2
+c 1 b 2 d 1 f 1 e 2 d 1 f 3 d 2
+b 2 d 1 f 1 f 1 e 1 d 1 f 1 e 1 d 1
+d 1 f 1 f 1 e 1 d 1 f 1 e 1 d 1
+d 1 f 1 e 2 d 2 f 1 d 1
+d 3 d 3

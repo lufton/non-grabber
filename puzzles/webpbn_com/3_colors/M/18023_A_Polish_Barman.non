@@ -1,0 +1,69 @@
+by "Mark (swinbum)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Mark"
+date "Mar 23, 2012"
+description "Moe Szyslak from The Simpsons"
+difficulty 3.25
+height 24
+id 18023
+link "https://webpbn.com/play.cgi?id=18023"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.25
+title "A Polish Barman"
+width 24
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4 black 6
+black 16
+black 18
+black 18
+black 5 black 9
+black 1 black 8
+black 2 black 9
+black 2 black 8
+black 2 black 1 black 8
+black 2 black 1 black 3 black 5 black 1
+black 1 black 1 black 2 black 2 black 3 black 2
+black 6 black 7 black 1 black 1 black 2
+black 2 black 2 black 4 black 1 black 3
+black 8 black 2 black 2
+black 3 black 1 black 2
+black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 blue 1
+black 2 black 5 black 1 blue 2
+black 1 black 3 black 1 blue 2
+black 2 black 2 black 1 blue 3
+black 1 black 2 black 1 blue 3 black 1
+black 1 black 7 black 1 blue 4 black 1
+black 2 black 4 black 1 blue 1 black 1 black 3 blue 3 black 1
+black 3 black 1 blue 2 black 2 blue 2 black 1 blue 2 black 1 blue 1
+
+columns
+black 3
+black 2 black 3 black 4
+black 2 black 4 black 3 black 2
+black 2 black 2 black 1 black 5 black 1
+black 6 black 4 black 2
+black 5 black 3 black 1 black 1
+black 5 black 3 black 1 black 1
+black 5 black 1 black 1 black 2
+black 5 black 1 black 1 black 1 black 1
+black 3 black 3 black 1 black 1
+black 4 black 4 black 2
+black 4 black 1 black 2 black 3
+black 4 black 4 black 2 black 3
+black 5 black 2 black 1 black 1 blue 2
+black 5 black 2 black 1 blue 1
+black 7 black 1 black 1
+black 8 black 1 black 1
+black 10 black 1 black 1 blue 1
+black 13 black 2 black 2 blue 1
+black 10 black 1 black 1 blue 1 black 2
+black 8 black 2 black 1 blue 4
+black 6 black 2 black 2 blue 5
+black 4 black 7 blue 6 black 1
+black 6 black 1 blue 5 black 3 blue 1

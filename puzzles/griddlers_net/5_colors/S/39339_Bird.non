@@ -1,0 +1,52 @@
+by "Rustie"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/27/06"
+height 15
+id 39339
+link "https://www.griddlers.net/nonogram/-/g/39339"
+medium_time "0:03:20"
+points 545
+popularity 65.7
+title "Bird"
+width 15
+
+color a 003366
+color b cc0000
+color c 969696
+color d ffcc33
+color e 33cc00
+
+rows
+c 4
+c 3 b 3
+c 3 b 1 b 2
+c 4 b 2 d 3
+c 9 b 4
+b 2 c 6 b 4
+b 2 c 5 b 4
+b 2 c 3 b 5
+b 10
+b 8
+b 6
+d 1
+d 1
+d 2 d 2
+e 15
+
+columns
+c 1 e 1
+c 1 e 1
+c 1 b 1 e 1
+c 1 b 2 e 1
+c 2 b 3 e 1
+c 4 b 3 e 1
+c 6 b 3 e 1
+c 7 b 3 d 1 e 1
+c 8 b 3 d 1 d 1 e 1
+c 2 b 3 c 2 b 4 d 1 e 1
+c 1 b 1 b 8 d 1 e 1
+c 1 b 2 d 1 b 7 d 1 e 1
+b 2 d 1 b 6 e 1
+d 1 b 4 e 1
+e 1

@@ -1,0 +1,67 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Joel Lynn"
+date "Apr  4, 2012"
+description "The flag that comes out of the barrel when you fire the gun, a la Looney Tunes. ;)"
+difficulty 1.25
+height 15
+id 18169
+link "https://webpbn.com/play.cgi?id=18169"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "What's missing from Sensei's & Aldege's 'bigger than' puzzles"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+blue 28 black 1
+blue 28 black 1
+red 24 black 1
+red 24
+red 1 red 3 red 3 red 2 red 3 red 1 red 1
+red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 1 red 1 red 1
+red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 1 red 1 red 1 red 1
+red 1 red 2 red 2 red 1 red 2 red 1 red 3 red 1 red 1
+red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 3 red 1 red 1
+red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 3 red 3
+red 1 red 3 red 3 red 2 red 3 red 1 red 1
+red 24
+red 24
+0
+
+columns
+0
+blue 2
+blue 2
+blue 2 red 11
+blue 2 red 2 red 2
+blue 2 red 2 red 2 red 2 red 2
+blue 2 red 2 red 2 red 2 red 2
+blue 2 red 3 red 1 red 3
+blue 2 red 11
+blue 2 red 3 red 3
+blue 2 red 2 red 5 red 2
+blue 2 red 2 red 5 red 2
+blue 2 red 3 red 3
+blue 2 red 11
+blue 2 red 3 red 3
+blue 2 red 2 red 5 red 2
+blue 2 red 2 red 5 red 2
+blue 2 red 3 red 3
+blue 2 red 11
+blue 2 red 2 red 2
+blue 2 red 3 red 7
+blue 2 red 4 red 6
+blue 2 red 3 red 7
+blue 2 red 2 red 2
+blue 2 red 11
+blue 2 red 2 red 1 red 2
+blue 2 red 11
+blue 2
+blue 2
+black 4

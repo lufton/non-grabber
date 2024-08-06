@@ -1,0 +1,36 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 10, 2011"
+description "Eyes through binoculars. Credit goes to Kit E. Katz for the idea!"
+difficulty 1.75
+height 5
+id 14477
+link "https://webpbn.com/play.cgi?id=14477"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.0
+title "I see you again"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 1 black 2 black 1
+black 1 blue 1 black 2 blue 1 black 1
+black 1 black 2 black 1
+black 3 black 3
+
+columns
+black 3
+black 1 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 3
+black 3
+black 1 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 3

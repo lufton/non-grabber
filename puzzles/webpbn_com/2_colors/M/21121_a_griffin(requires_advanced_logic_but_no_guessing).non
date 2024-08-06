@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Feb 15, 2013"
+description "Brian, from "Family Guy" (the family's surname is "Griffin")"
+difficulty 3.5
+height 20
+id 21121
+link "https://webpbn.com/play.cgi?id=21121"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "a griffin?(requires advanced logic, but no guessing)"
+width 20
+
+rows
+2,3,3,2
+1,1,1,1
+5,5
+1,1,1,1,1,1,1
+1,1,1,1,1,1
+1,10,1
+1,1,2,2
+3,1,3,1
+2,6
+1,8
+1,8
+8
+7
+5
+0
+1,5,2
+2,3,1,1
+3,4
+5,2,3
+4,6,1
+
+columns
+5,5
+2,4
+1,4,3
+1,2
+1,1
+4,1
+1,1,2,4,1
+1,2,1,6,2
+1,1,1,6,1,1
+5,7,2,1
+1,7,2,1
+5,7,1,1
+1,1,1,5,1,1
+1,2,1,3,1,1
+1,1,1,2
+5,2
+1
+1,2
+1,4,1
+2,2,1

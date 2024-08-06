@@ -1,0 +1,57 @@
+by "Kristen Finley (mskris456)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Kristen Finley"
+date "Jan  5, 2005"
+description "have a lot of fun with this puzzle!"
+difficulty 1.75
+height 20
+id 141
+link "https://webpbn.com/play.cgi?id=141"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "don't worry, be happy"
+width 20
+
+rows
+6,6
+6,6
+6,6
+0
+0
+4
+4
+4
+4
+1,4,1
+1,1
+1,1
+2,2
+2,2
+2,2
+4,4
+4,4
+4,4
+8
+4
+
+columns
+7
+4
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+5,2
+5,2
+5,2
+5,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+4
+7

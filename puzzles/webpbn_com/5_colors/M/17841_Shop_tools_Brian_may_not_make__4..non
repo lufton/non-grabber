@@ -1,0 +1,58 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Mar  9, 2012"
+description "A shop dolly that you lie on to slide under cars,complete with blue padded headrest."
+difficulty 2.0
+height 15
+id 17841
+link "https://webpbn.com/play.cgi?id=17841"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Shop tools Brian may not make # 4."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 7
+blue 10 green 2
+blue 10 green 3
+blue 8 red 3 green 4
+green 2 blue 5 red 5 green 2
+green 1 blue 1 red 3 red 6 green 1
+green 4 red 4 green 2
+green 2 black 2 green 2 red 6 green 2 black 1
+black 1 black 2 green 3 green 3 black 1
+black 1 black 2 green 13 black 1
+black 2 green 5 black 2 green 2 black 1
+green 1 black 1 black 2
+black 1 black 2
+black 2
+
+columns
+green 3
+green 1 green 2 black 2
+blue 2 green 1 green 1 black 1 black 1
+blue 4 green 1 black 4
+blue 4 green 1 black 2
+blue 6 green 3
+blue 5 red 1 green 2
+blue 6 red 1 green 3
+blue 5 red 2 green 2
+blue 5 red 1 green 2
+blue 4 red 2 red 1 green 3
+blue 3 red 2 red 2 green 2 black 2
+blue 1 red 2 red 1 green 1 black 1 black 1
+green 1 red 2 red 1 green 1 black 4
+green 2 red 2 red 1 green 2 black 2
+green 1 red 1 red 1 green 3
+green 2 red 1 red 1 green 2
+green 1 red 1 green 3
+green 2 red 1 green 2 black 2
+green 4 black 1 black 1

@@ -1,0 +1,66 @@
+by "Sally O'Connell (SallyOC)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sally O'Connell"
+date "Mar 28, 2010"
+description "A pint of Irish Guinness!"
+difficulty 2.0
+height 30
+id 8187
+link "https://webpbn.com/play.cgi?id=8187"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "this one's on me..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 2 black 2 green 1 black 2 green 2
+black 2 green 3 black 2
+black 1 green 1 green 1 green 1 black 1
+black 1 green 7 black 1
+black 3 green 1 green 1 green 1 black 3
+black 1 black 2 green 1 black 2 black 1
+black 1 black 5 black 1
+black 3 black 3
+black 5 black 5
+black 15
+black 15
+black 15
+black 13
+black 11
+black 1 black 7
+black 8
+black 7 black 1
+black 1 black 11 green 1
+black 12 green 2
+black 11 green 2
+black 1 black 11 green 2
+black 12 green 2
+black 1 green 1 black 11 green 2
+green 2 black 11 green 2
+green 2 black 11 green 2
+green 3 black 9 green 3
+green 4 black 7 green 4
+green 6 black 3 green 6
+green 15
+green 15
+
+columns
+green 1 black 11 black 1 black 1 black 1 black 1 green 7
+green 1 black 1 black 1 black 6 black 1 black 1 black 1 green 8
+black 1 black 1 black 9 black 7 green 5
+black 1 black 1 black 18 green 4
+green 1 black 1 black 19 green 3
+green 3 black 1 black 18 green 3
+green 1 green 1 black 1 black 19 green 2
+green 6 black 1 black 19 green 2
+green 1 green 1 black 1 black 19 green 2
+green 3 black 1 black 5 black 11 green 3
+green 1 black 1 black 6 black 10 green 3
+black 1 black 1 black 6 black 9 green 4
+black 1 black 1 black 7 black 8 green 5
+green 1 black 1 black 1 black 6 black 1 green 12
+green 1 black 11 black 1 green 13

@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Apr 12, 2013"
+description "apples and cinnamon"
+difficulty 2.25
+height 20
+id 21673
+link "https://webpbn.com/play.cgi?id=21673"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "goes together like....(11)"
+width 20
+
+rows
+0
+3
+1,2,2
+3,1,3
+5,3
+5,2
+4,5,3
+4,2,3,2
+4,2,1,2
+4,2,1,1
+3,2,3,1
+4,1,3,1
+4,1,3,1
+3,1,3,1
+3,1,1,1,1
+3,2,1,1
+2,1,1,2
+2,1,2,2
+1,2,4,2
+1,4,4
+
+columns
+9
+10
+11
+10
+9
+1,5,6
+2,2,2,4
+3,2,2
+2,1
+2,1
+1,2
+1,1,1,1,2
+2,4,4
+9,2
+3,1,1,2,1
+3,1,1
+3,1,2
+2,2
+2,2
+9

@@ -1,0 +1,84 @@
+by "Martial (marso)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Martial"
+date "Jul 30, 2005"
+description "I swear, this is the fifth and last of the circus!"
+difficulty 2.25
+height 32
+id 248
+link "https://webpbn.com/play.cgi?id=248"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "the last one?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 5
+red 7
+red 9
+red 11
+red 11
+red 11
+red 1 red 11
+red 6 black 3 red 9
+red 6 black 5 red 7
+red 4 black 2 black 3 red 5
+red 3 black 6
+red 1 black 7
+red 1 black 7
+green 1 black 1 green 1 black 1 green 1
+green 13
+green 19
+green 12 red 1 green 11
+black 2 green 11 red 3 green 9 black 2
+black 2 green 3 green 4 red 1 green 5 green 2 black 2
+green 6 red 1 green 4
+green 5 red 3 green 3
+green 6 red 1 green 4
+green 12
+green 13
+green 14
+green 7 green 5
+green 6 green 5
+green 6 green 5
+red 2 green 3 green 4
+red 8 green 1 green 2 red 6
+red 9 red 9
+red 9 red 8
+
+columns
+0
+red 2
+red 3
+black 2 red 3
+black 2 red 3
+green 3 red 3
+green 3 red 3
+green 4 green 1 red 4
+green 3 green 2 red 4
+red 2 green 3 green 4 red 3
+red 3 green 4 green 6
+red 4 red 1 green 4 green 6
+red 5 black 1 green 4 green 6
+red 4 black 2 green 14
+red 3 black 5 green 12
+black 6 green 13
+black 2 black 4 green 3 red 1 green 7
+black 6 green 3 red 3 green 6
+black 5 green 3 red 1 green 2 red 1 green 4
+red 4 black 4 green 5 red 3 green 3
+red 6 green 6 red 1 green 7
+red 8 green 16 red 1
+red 10 green 16 red 2
+red 10 green 3 green 10 red 3
+red 10 green 3 green 4 red 3
+red 10 green 3 red 3
+red 10 green 3 red 3
+red 8 green 3 red 3
+red 6 green 1 black 2 red 3
+red 4 black 2 red 2

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Jun  5, 2017"
+description ""
+difficulty 1.75
+height 20
+id 29891
+link "https://webpbn.com/play.cgi?id=29891"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Whose Hat #18"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 2
+red 1 red 5
+red 3 red 7
+red 5 black 1 red 7
+red 5 black 3 red 6
+red 5 black 3 red 5
+red 4 black 3 red 4
+red 2 black 3 red 4
+red 1 black 3 red 4
+black 3 red 4
+black 2 red 4
+red 5
+red 6
+red 5
+red 5
+red 4
+red 4
+red 3
+0
+
+columns
+0
+red 2
+red 4
+red 2 red 6
+red 5 black 2 red 6
+red 5 black 3 red 5
+red 5 black 3 red 5
+red 5 black 3 red 5
+red 3 black 3 red 5
+red 1 black 3 red 4
+black 3 red 4
+black 1 red 4
+red 5
+red 5
+red 4
+red 5
+red 4
+red 5
+red 4
+red 2

@@ -1,0 +1,43 @@
+by "Maggie Johns (Magginni)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Maggie Johns"
+date "May 20, 2011"
+description "Was it hard enough?"
+difficulty 1.5
+height 10
+id 14015
+link "https://webpbn.com/play.cgi?id=14015"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Unique Critique"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 2 green 2 blue 1
+blue 1 red 1 blue 2 black 2 blue 2 red 1 blue 1
+green 1 blue 1 red 1 green 1 blue 2 green 1 red 1 blue 1 green 1
+green 1 blue 1 green 1 red 1 blue 2 red 1 green 1 blue 1 green 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 2 blue 2 black 1
+green 1 blue 1 green 1 red 1 blue 2 red 1 green 1 blue 1 green 1
+green 1 blue 1 red 1 green 1 blue 2 green 1 red 1 blue 1 green 1
+blue 1 red 1 blue 2 black 2 blue 2 red 1 blue 1
+blue 1 green 2 green 2 blue 1
+
+columns
+blue 1 green 2 green 2 blue 1
+blue 1 red 1 blue 2 black 2 blue 2 red 1 blue 1
+green 1 blue 1 red 1 green 1 blue 2 green 1 red 1 blue 1 green 1
+green 1 blue 1 green 1 red 1 blue 2 red 1 green 1 blue 1 green 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 2 blue 2 black 1
+green 1 blue 1 green 1 red 1 blue 2 red 1 green 1 blue 1 green 1
+green 1 blue 1 red 1 green 1 blue 2 green 1 red 1 blue 1 green 1
+blue 1 red 1 blue 2 black 2 blue 2 red 1 blue 1
+blue 1 green 2 green 2 blue 1

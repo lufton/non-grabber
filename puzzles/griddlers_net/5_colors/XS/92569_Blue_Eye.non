@@ -1,0 +1,39 @@
+by "stumpy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/10/10"
+height 7
+id 92569
+link "https://www.griddlers.net/nonogram/-/g/92569"
+medium_time "0:02:02"
+points 203
+popularity 57.02
+title "Blue Eye"
+width 10
+
+color a e79632
+color b 8f5f24
+color c 31271b
+color d fffbf0
+color e 6671cc
+
+rows
+c 1 b 1 c 1 b 1
+b 1 c 5 b 1
+c 1 b 1 c 1 e 4 b 1 c 1
+c 1 d 1 e 2 c 2 e 2
+d 2 e 2 c 2 e 2 d 1
+d 2 e 4 d 1
+d 4
+
+columns
+c 1
+c 1 b 2 c 1 d 1
+b 1 c 2 d 3
+c 2 e 3 d 1
+c 1 e 4 d 1
+b 1 c 1 e 1 c 2 e 1 d 1
+c 1 e 1 c 2 e 1 d 1
+b 2 e 3 d 1
+c 1 e 2 d 1
+d 1

@@ -1,0 +1,114 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/3/21"
+height 50
+id 225322
+link "https://www.griddlers.net/nonogram/-/g/225322"
+medium_time "0:22:36"
+points 31212
+popularity 88.59
+title "Ice Cream"
+width 40
+
+color a FFCCCC
+color b FFFFFF
+color d FFCC00
+color e CC0033
+color f FFFF99
+color g 663333
+color h 999999
+
+rows
+d 9 g 1
+d 12 g 1
+d 13 e 4
+d 3 f 1 d 10 e 6
+d 3 f 2 d 10 e 2 b 1 e 5
+d 2 f 2 d 11 e 8
+d 2 f 3 d 6 b 6 e 8
+d 2 f 3 d 3 b 5 d 1 b 4 e 6 b 2
+d 3 f 1 d 2 b 6 d 2 b 4 e 4 b 5
+d 3 f 1 d 1 b 13 e 2 b 6
+d 4 b 22 b 2 d 2
+b 2 d 4 b 3 d 2 b 20 d 1 b 1
+b 1 g 1 b 1 d 3 b 3 d 1 b 13 d 2 b 9
+g 4 b 13 d 1 b 7 d 1 b 9
+g 5 b 12 d 2 b 13 e 1 b 4
+g 7 b 27 e 2 b 3
+g 9 b 17 e 2 b 4 d 1 b 1 e 3 b 2
+g 14 b 3 g 2 b 6 e 6 b 2 d 2 e 4 b 1
+g 18 b 6 e 8 b 3 e 4 b 1
+g 18 b 2 d 1 b 2 e 10 b 1 e 6
+g 18 b 2 d 2 b 1 e 17
+g 19 b 4 e 17
+g 19 b 3 e 18
+h 1 g 18 b 2 e 18 h 1
+h 1 b 3 g 15 b 2 e 16 h 3
+h 2 b 3 h 1 g 13 b 2 e 10 h 9
+h 2 b 2 h 10 g 5 b 1 e 4 h 14
+h 2 b 2 h 32
+h 2 b 3 h 29
+h 3 b 3 h 25
+h 3 b 2 h 22
+h 3 b 1 h 19
+h 2 b 2 h 15
+h 2 b 1 h 12
+h 2 b 1 h 10
+h 1 b 1 h 7
+h 1 b 1 h 7
+h 1 b 1 h 5
+h 1 b 1 h 3
+h 1 b 1 h 3
+h 1 b 1 h 3
+h 1 b 1 h 3
+h 1 b 1 h 3
+h 1 b 1 h 3
+h 1 b 2 h 4
+h 2 b 2 h 7
+h 2 b 1 h 10
+h 2 b 2 h 13
+h 2 b 2 h 18
+h 3 b 2 h 23
+
+columns
+g 6 h 3
+d 1 g 9 b 1 h 2
+d 4 g 10 b 2 h 2
+d 3 f 1 d 2 g 11 b 3 h 2
+d 3 f 3 d 2 b 2 g 12 b 3 h 2
+d 3 f 4 d 3 b 1 g 13 h 2 b 2 h 1
+d 3 f 2 d 2 f 2 d 3 b 1 g 13 h 2 b 1 h 2 h 1
+d 9 f 1 d 3 b 2 g 11 h 2 b 2 h 1 h 1
+d 13 b 3 g 10 h 3 b 1 h 2 h 1
+d 8 b 3 d 2 b 3 g 10 h 3 b 2 h 1 h 1 b 1
+d 7 b 10 g 9 h 4 b 1 h 2 h 1 b 1
+d 7 b 10 g 9 h 5 b 1 h 1 h 1 b 1 h 1
+d 6 b 11 g 9 h 6 b 1 h 1 h 1 b 1 h 1
+d 6 b 5 d 2 b 4 g 9 h 6 b 1 h 2 h 1 b 1 h 2
+d 6 b 5 d 1 b 6 g 8 h 7 b 1 h 1 h 2 b 1 h 2
+d 5 b 1 d 2 b 9 g 9 h 7 b 1 h 2 h 1 b 1 h 3
+d 5 b 2 d 1 b 9 g 9 h 8 b 2 h 1 h 1 b 1 h 4
+b 11 g 10 h 10 b 1 h 6 b 2 h 4
+e 3 b 10 g 1 b 3 g 6 h 11 b 7 h 5
+e 4 b 7 d 1 b 11 g 1 h 23
+e 2 b 1 e 3 b 5 d 2 b 4 d 2 b 6 h 23
+e 7 b 11 d 1 b 2 e 4 h 23
+g 2 e 8 b 12 e 5 h 11 h 6
+e 8 b 9 e 8 h 10 h 5
+e 6 b 9 e 9 h 8 h 5
+e 4 b 9 e 9 h 9 h 4
+b 10 e 9 h 8 h 3
+b 5 d 1 b 3 e 10 h 7 h 3
+b 4 d 2 b 2 e 10 h 7 h 2
+b 9 e 9 h 6 h 2
+b 7 e 9 h 6 h 2
+b 7 e 7 h 6 h 1
+b 9 e 6 h 6 h 1
+b 6 d 2 b 2 e 5 h 5 h 1
+d 1 b 3 e 1 b 2 d 1 b 1 e 6 h 5
+d 2 b 3 e 10 h 4
+b 4 e 10 h 4
+b 4 e 8 h 4
+b 3 e 7 h 3
+b 4 e 4 h 3

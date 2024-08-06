@@ -1,0 +1,63 @@
+by "rodsama"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/6/11"
+height 23
+id 113734
+link "https://www.griddlers.net/nonogram/-/g/113734"
+medium_time "0:10:02"
+points 6558
+popularity 70.3
+title "Super Mario - Toad"
+width 16
+
+color a ffffff
+color b 333333
+color c ff0000
+color e ff6666
+color f 9999ff
+color g ff9933
+color h ff9999
+
+rows
+b 6
+b 2 c 1 c 1 b 2
+b 1 c 2 e 4 c 2 b 1
+b 1 c 1 e 6 c 1 b 1
+b 1 f 1 e 6 f 1 b 1
+b 1 c 1 f 1 e 6 f 1 c 1 b 1
+b 1 c 2 e 6 c 2 b 1
+b 1 c 2 f 1 e 4 f 1 c 2 b 1
+b 1 c 1 f 3 b 6 f 3 c 1 b 1
+b 1 f 2 b 1 g 1 b 1 g 2 b 1 g 1 b 1 f 2 b 1
+b 2 g 1 h 1 b 1 h 2 b 1 h 1 g 1 b 2
+b 1 g 1 h 6 g 1 b 1
+b 2 g 6 b 2
+b 1 g 1 b 8 g 1 b 1
+b 1 h 1 g 1 b 1 c 1 b 1 g 2 b 1 c 1 b 1 g 1 h 1 b 1
+b 1 h 1 g 1 b 1 e 1 c 1 b 1 h 2 b 1 c 1 e 1 b 1 g 1 h 1 b 1
+b 1 g 2 b 1 c 2 b 1 e 2 b 1 c 2 b 1 g 2 b 1
+b 1 g 2 b 3 b 3 g 2 b 1
+b 2 f 2 f 2 b 2
+b 1 f 2 f 2 b 1
+b 1 g 1 c 1 f 6 c 1 g 1 b 1
+b 1 g 1 c 3 b 4 c 3 g 1 b 1
+b 6 b 6
+
+columns
+b 4 b 3
+b 2 c 4 b 1 b 1 h 1 g 2 b 1 b 2
+b 1 c 1 f 2 c 2 f 2 b 1 b 1 h 1 g 3 b 1 b 1 g 1 b 1
+b 1 c 1 f 3 b 3 g 2 b 3 f 1 b 1 g 1 c 1 b 1
+b 1 c 1 f 1 b 1 g 2 b 3 e 1 c 1 b 1 f 2 c 2 b 1
+b 1 c 1 e 4 b 1 g 1 h 2 g 1 b 1 c 3 b 1 f 2 c 1 b 1
+b 1 e 6 b 3 h 1 g 1 b 4 f 1 b 2
+b 1 e 6 b 1 g 1 h 2 g 1 b 1 g 1 h 1 e 1 f 1 b 1
+b 1 e 6 b 1 g 1 h 2 g 1 b 1 g 1 h 1 e 1 f 1 b 1
+b 1 e 6 b 3 h 1 g 1 b 4 f 1 b 2
+b 1 c 1 e 4 b 1 g 1 h 2 g 1 b 1 c 3 b 1 f 2 c 1 b 1
+b 1 c 1 f 1 b 1 g 2 b 3 e 1 c 1 b 1 f 2 c 2 b 1
+b 1 c 1 f 3 b 3 g 2 b 3 f 1 b 1 g 1 c 1 b 1
+b 1 c 1 f 2 c 2 f 2 b 1 b 1 h 1 g 3 b 1 b 1 g 1 b 1
+b 2 c 4 b 1 b 1 h 1 g 2 b 1 b 2
+b 4 b 3

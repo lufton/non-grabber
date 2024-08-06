@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Feb  8, 2012"
+description "It doesn't really work like you think it should."
+difficulty 2.0
+height 20
+id 17500
+link "https://webpbn.com/play.cgi?id=17500"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Don't do it kid!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 green 3
+blue 3 green 5
+black 2 black 1
+black 1 black 1
+green 7 red 1
+green 5 black 2
+green 2 green 3
+red 1 green 3
+blue 3
+blue 3
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 red 2 black 1 red 3
+red 2 black 5 red 3
+black 3 black 3 red 3
+black 3 black 3 red 1
+black 3 black 3 black 2
+black 3 black 1 black 1
+black 3 black 3
+
+columns
+black 1
+black 1
+black 2
+black 1
+black 2
+black 1
+green 1 red 1 black 2
+green 2 black 1
+blue 1 green 2 red 1 black 2
+blue 2 black 1 green 4 blue 6 red 1 black 1
+blue 2 black 2 green 4 blue 2 red 1 black 2
+green 4 blue 5 red 1 black 1 black 3
+green 1 black 2 black 1 black 1
+green 1 green 1 black 1 black 3
+green 2 green 1 black 2
+green 2 black 2 red 1 black 1 black 1
+green 2 black 1 black 2
+green 1 red 3 black 1
+red 3 black 2
+red 4 black 1

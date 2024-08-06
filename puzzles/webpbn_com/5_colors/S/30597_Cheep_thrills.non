@@ -1,0 +1,53 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Joe"
+date "Dec  3, 2017"
+description "For a small nest egg."
+difficulty 2.25
+height 15
+id 30597
+link "https://webpbn.com/play.cgi?id=30597"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Cheep thrills"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 6
+black 1 green 3 black 2
+blue 1 black 1 green 1 black 1 green 1 black 1
+black 2 green 4 black 1
+black 1 green 4 black 1
+black 1 green 3 blue 1 black 1
+black 1 green 1 green 1 blue 1 black 1
+black 1 green 1 blue 1 black 2
+black 1 blue 1 black 1
+black 6 black 2
+black 3 black 3
+blue 1 blue 1
+blue 1 blue 2
+red 3 blue 1 red 1 blue 1 red 1
+red 8
+
+columns
+black 1
+black 2
+black 3
+black 2 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 2 green 1 blue 1 black 1 red 2
+blue 1 black 1 green 3 blue 1 black 1 blue 1 red 2
+black 2 green 2 blue 2 black 1 blue 1 red 2
+black 1 green 4 black 2 blue 1 blue 1 red 1
+black 1 green 1 black 1 green 1 black 1 blue 1 red 2
+black 1 green 3 black 2 blue 2 red 1
+black 8 red 2
+black 2 red 1
+black 1

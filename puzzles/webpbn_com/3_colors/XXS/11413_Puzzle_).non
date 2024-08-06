@@ -1,0 +1,31 @@
+by "aliza glatter (cisv247)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by aliza glatter"
+date "Dec 15, 2010"
+description ""
+difficulty 1.0
+height 5
+id 11413
+link "https://webpbn.com/play.cgi?id=11413"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Puzzle :)"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 5
+black 1 blue 1 black 1 blue 1 black 1
+black 5
+black 1 blue 3 black 1
+black 5
+
+columns
+black 5
+black 1 blue 1 black 1 blue 1 black 1
+black 3 blue 1 black 1
+black 1 blue 1 black 1 blue 1 black 1
+black 5

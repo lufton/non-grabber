@@ -1,0 +1,81 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Sylvain "WCPman""
+date "Dec  6, 2016"
+description "Kind of a close-up look at Earthworm Jim But not in a Groovy mood"
+difficulty 3.25
+height 30
+id 29167
+link "https://webpbn.com/play.cgi?id=29167"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Not Happy at all"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 5 black 3
+black 3 black 5 black 3
+black 3 black 3 black 3 black 1
+black 4 black 1 black 3 black 5 black 1
+black 3 black 4 black 2 black 3
+black 4 black 3 black 2 black 2 black 1
+black 1 black 2 black 3 black 2 black 1 black 1
+black 1 black 2 black 2 black 2 black 1 black 1
+black 2 black 1 black 2 black 1 black 1 black 1
+black 1 black 2 black 2 black 5 black 2
+black 2 black 3 black 2 red 4 black 1 black 1
+black 2 black 3 black 3 red 4 black 1 black 1
+black 2 black 3 black 2 red 6 black 1 black 1
+black 1 black 3 red 1 black 2 black 5 red 4 black 1 black 1
+black 1 black 1 red 4 black 1 black 6 red 3 black 1 black 1
+black 2 black 1 red 2 black 4 black 7 red 2 black 1 red 1 black 2
+black 2 black 1 red 2 black 2 red 1 black 1 black 2 red 1 black 4 red 2 black 3
+black 2 black 1 red 2 black 2 red 1 black 2 black 1 red 1 black 4 red 2 black 2
+black 5 red 1 black 2 red 2 black 1 black 1 red 6 black 2
+black 3 red 1 black 3 red 1 black 2 black 2 red 1 black 4
+black 2 red 2 black 1 red 1 black 2 black 4
+black 3 red 1 black 2 black 1
+black 3 black 2
+black 1 black 2
+black 2 black 5 black 3
+black 3 black 5 black 3 black 3
+black 3 black 6 black 2 black 1 black 1 black 3
+black 4 black 4 black 3 black 2 black 1 black 1 black 3
+black 4 black 2 black 1 black 1 black 1 black 4 black 2 black 4
+black 4 black 2 black 1 black 1 black 1 black 1 black 1 black 3 black 4
+
+columns
+black 4 black 5 black 7
+black 1 black 5 black 1 black 6
+black 2 black 1 black 3 black 5
+black 1 black 3 black 3 black 3
+black 2 black 2 black 2
+black 2 black 3 black 3
+black 2 black 2 black 9
+black 2 black 2 black 1 red 4 black 1 red 2 black 1 black 3
+black 3 black 3 red 5 black 1 red 1 black 2 black 3
+black 3 black 2 red 2 black 6 red 1 black 1 black 2
+black 3 black 2 red 1 black 5 red 1 black 2 black 4
+black 2 black 4 black 3 red 4 black 2 black 1
+black 3 black 2 black 3 red 1 black 2 black 4
+black 4 black 3 black 3
+black 3 black 2 black 5
+black 2 black 3 black 7 black 2
+black 4 black 5 red 3 black 2 black 6
+black 2 black 7 red 2 black 1 black 5
+black 2 black 2 red 1 black 5 red 1 black 2 black 1 black 2
+black 3 black 2 red 2 black 5 red 1 black 2 black 5
+black 3 black 3 red 4 black 4 red 1 black 1 black 1 black 1
+black 3 black 2 black 1 red 9 black 1 black 5
+black 2 black 2 black 1 red 8 black 1 black 2
+black 1 black 2 black 1 red 1 black 1 red 3 black 4
+black 1 black 1 black 3 red 1 black 2
+black 2 black 2
+black 1 black 2 black 2
+black 2 black 2 black 6
+black 1 black 3 black 8
+black 7 black 9

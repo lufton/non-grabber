@@ -1,0 +1,91 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by harris harris"
+date "Mar 25, 2008"
+description "Nepal"
+difficulty 1.25
+height 30
+id 2535
+link "https://webpbn.com/play.cgi?id=2535"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "who's flag # 26"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 3
+black 1 red 2 black 2
+black 1 red 4 black 2
+black 1 red 6 black 2
+black 1 red 8 black 2
+black 1 red 4 red 3 black 2
+black 1 red 3 red 4 black 2
+black 1 red 1 red 1 red 1 red 4 black 2
+black 1 red 1 red 1 red 1 red 6 black 2
+black 1 red 2 red 9 black 2
+black 1 red 3 red 12 black 2
+black 1 red 22 black 2
+black 1 red 9 black 16
+black 1 red 9 black 1
+black 1 red 10 black 1
+black 1 red 11 black 1
+black 1 red 12 black 1
+black 1 red 13 black 1
+black 1 red 4 red 8 black 1
+black 1 red 3 red 8 black 1
+black 1 red 2 red 8 black 1
+black 1 red 1 red 8 black 1
+black 1 red 1 red 9 black 1
+black 1 red 2 red 11 black 1
+black 1 red 3 red 13 black 1
+black 1 red 4 red 15 black 1
+black 1 red 22 black 1
+black 1 red 23 black 1
+black 26
+
+columns
+black 30
+black 1 red 27 black 1
+black 1 red 6 red 12 red 5 black 1
+black 1 red 6 red 10 red 4 black 1
+black 1 red 4 red 1 red 8 red 3 black 1
+black 1 red 2 red 7 red 2 black 1
+black 1 red 2 red 7 red 2 black 1
+black 1 red 1 red 8 red 3 black 1
+black 1 red 2 red 1 red 9 red 4 black 1
+black 1 red 3 red 11 red 5 black 1
+black 1 red 2 red 3 black 2 red 14 black 1
+black 1 red 6 black 1 black 1 red 13 black 1
+black 1 red 6 black 1 black 1 red 12 black 1
+black 1 red 5 black 1 black 1 red 11 black 1
+black 1 red 5 black 1 black 1 red 10 black 1
+black 1 red 4 black 1 black 1 red 9 black 1
+black 1 red 4 black 1 black 1 red 8 black 1
+black 1 red 3 black 1 black 1 red 7 black 1
+black 1 red 3 black 1 black 1 red 6 black 1
+black 1 red 2 black 1 black 1 red 5 black 1
+black 1 red 2 black 1 black 1 red 4 black 1
+black 1 red 1 black 1 black 1 red 3 black 1
+black 1 red 1 black 1 black 1 red 2 black 1
+black 2 black 1 red 1 black 1
+black 2 black 2
+black 1 black 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

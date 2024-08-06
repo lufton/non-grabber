@@ -1,0 +1,72 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Bill Eisenmann"
+date "Mar  1, 2017"
+description "Heisenberg, Walter White's meth-cooking alter ego from Breaking Bad. The real Heisenberg was a German particle physicist who articulated the "uncertainty principle" which says the more you know about one property of a particle (location), the less you know about another (momentum). Here's a link: https://en.wikipedia.org/wiki/Uncertainty_principle So my title is an attempt at a pun. Although I'm uncertain that it's funny. Also, this is my first attempt at creating a puzz, after solving thousands. I have no art talent, and no idea how solvable this is. I did try to make everything lopsided so it wouldn't be symmetrical."
+difficulty 2.25
+height 25
+id 29485
+link "https://webpbn.com/play.cgi?id=29485"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "Certainly unprincipled"
+width 30
+
+rows
+0
+12
+14
+3,16,3
+3,3,11,3
+22
+12
+6
+0
+9,10
+1,6,1,7
+1,8,1,9
+10,10
+9,10
+8,9
+8,8
+4,5
+0
+4
+10
+5,5
+4,6
+6,6
+6,5
+1,2
+
+columns
+1
+1
+2
+1
+2,4,2
+1,1,2,2
+2,1,5,2
+3,1,5,3
+4,7,3
+3,2,8,4
+3,2,8,4
+3,2,8,2
+3,3,8,2
+7,6,3
+7,2
+7,2
+7,6,3
+7,1,4,3
+6,1,6,4
+6,1,6,4
+6,8,4
+4,8,3
+3,8,3
+2,7,2
+1,6,2
+2,5,1
+1,3
+2
+1
+1

@@ -1,0 +1,93 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Thomas Genuine"
+date "May  5, 2014"
+description "How many circles can you see and count?"
+difficulty 3.75
+height 35
+id 24397
+link "https://webpbn.com/play.cgi?id=24397"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "Bedrich's Real Chaos"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 1 black 5 blue 1 red 3 blue 1 red 3
+blue 1 green 1 black 3 black 3 red 2 blue 1 red 2
+black 2 blue 1 green 2 black 2 black 2 blue 1 blue 2 red 2
+black 3 blue 1 green 1 black 2 red 1 black 2 blue 2 red 1
+black 2 blue 1 green 2 black 1 red 2 blue 1 black 1 blue 3 red 1
+black 2 green 2 black 2 red 1 blue 1 black 2 blue 2
+green 2 black 1 green 2 blue 2 black 1 red 1 blue 2 black 1 red 1
+green 4 black 2 blue 2 red 1 blue 1 black 1 green 1
+black 1 blue 2 blue 1 red 2 black 1 green 3
+black 1 black 1 blue 3 blue 3 red 1 black 2 green 2 red 1
+blue 5 black 1 blue 5 red 2 black 1 green 2 red 2
+blue 3 black 2 blue 3 black 2 red 2 green 1 red 2
+blue 2 black 1 blue 2 black 2 green 3 black 2 red 3 red 3
+blue 1 black 2 blue 2 black 3 green 3 black 3 green 3 red 7
+black 2 red 3 blue 1 red 1 green 2 black 3 green 2 red 2 green 1 red 3
+black 3 red 3 blue 2 red 2 green 1 red 1 green 2 green 1 red 2
+black 2 red 2 blue 1 red 2 red 2 green 1 green 2 red 1
+red 2 black 4 blue 1 green 2 red 2 red 1 green 2 green 1
+black 1 red 1 black 3 blue 1 green 1 red 1 red 2 green 1 green 2
+black 1 red 2 black 2 green 1 red 2 red 1 green 1 green 2 blue 1
+black 2 red 1 blue 1 black 2 red 1 blue 3 red 1 blue 1 green 1 green 1 blue 2
+blue 1 black 1 red 1 blue 2 black 1 green 1 blue 3 red 1 blue 3 green 2 blue 2 green 1
+black 2 red 1 blue 2 black 2 blue 2 red 2 blue 1 green 1 black 3 blue 1
+black 1 blue 3 red 1 blue 3 black 1 blue 2 red 1 red 1 black 1 green 2 blue 1 black 3 blue 1
+black 1 blue 5 black 1 blue 1 green 1 black 1 red 2 green 1 blue 1 black 2 red 1
+black 1 red 2 black 1 blue 1 green 3 black 1 green 2 red 2 blue 2 blue 1 black 2 red 1
+black 2 red 1 green 5 black 2 red 1 green 5 red 3 blue 1 blue 1 red 1 black 1
+black 1 green 3 red 2 green 2 red 2 blue 1 black 2 red 1 blue 1 red 2 blue 2 black 2
+black 2 green 2 red 5 green 1 blue 1 black 1 blue 1 blue 1 black 1
+black 2 black 2 green 2 blue 1 black 1 blue 2 blue 2 black 1
+green 1 black 3 black 3 green 1 blue 1 black 1 blue 1 blue 1 black 1
+green 2 black 5 green 2 blue 1 black 2 blue 2 black 2
+green 1 green 1 blue 2 black 1 blue 2 black 1
+green 1 green 1 blue 3 black 2 blue 3 black 2
+green 1 green 1 blue 3 black 2 black 2
+
+columns
+black 1 green 1 blue 2 black 1 blue 1 black 5
+black 2 green 2 blue 2 black 2 black 3 blue 1 black 3 green 4
+black 1 green 1 blue 1 black 1 black 2 blue 1 black 2 green 2
+black 2 green 1 blue 2 black 2 black 1 red 4 blue 2 green 1 black 2
+black 2 green 1 blue 1 black 2 red 3 red 1 blue 1 red 1 green 2 black 1
+black 3 blue 1 black 3 red 2 blue 1 red 2 green 1 black 2
+green 1 black 3 blue 1 black 1 red 2 black 1 blue 1 green 2 black 1
+blue 5 green 2 blue 2 red 1 black 1 blue 2 green 1 red 1 black 1
+green 2 blue 1 blue 1 red 2 black 1 blue 1 green 1 red 2 black 1
+green 3 blue 2 blue 2 red 1 black 2 blue 2 green 1 red 1 black 2
+green 3 black 2 blue 2 black 1 blue 2 red 1 black 1 blue 2 green 2 red 1 black 1
+black 3 blue 2 black 2 blue 3 black 2 blue 2 green 1 red 1 black 2
+black 2 blue 1 black 2 red 1 blue 4 black 2 red 2 black 1
+black 2 blue 2 black 2 red 1 green 3 black 3 black 1 red 1 green 2
+black 1 blue 1 black 1 red 2 green 1 green 1 black 5 blue 2 green 3
+black 2 blue 1 black 1 green 2 red 2 blue 3 red 1 blue 2 green 4
+black 1 blue 1 green 2 red 3 blue 2 green 2 blue 2
+black 1 blue 2 green 1 black 1 red 2 blue 2 red 1 green 1 blue 2
+black 1 blue 1 green 2 black 1 blue 1 green 2 blue 1
+black 2 blue 2 green 1 black 2 blue 2 green 1 blue 2
+black 1 red 5 green 1 black 1 blue 1 green 1 black 5 blue 1
+black 2 red 2 blue 2 red 3 black 2 blue 1 black 1 green 1 black 1 black 3 blue 1
+blue 1 red 1 black 2 blue 3 red 2 black 1 green 1 red 5 black 1 green 2 black 2
+red 2 blue 1 black 3 black 2 red 2 green 1 red 3 blue 2 red 3 green 1 blue 1 black 1
+red 1 black 5 red 1 green 2 red 2 blue 1 black 1 red 2 blue 1
+red 1 red 2 green 2 blue 2 green 2 red 2 blue 2
+red 2 green 3 green 3 red 1 blue 2
+red 2 green 5 black 1 blue 3 red 2 blue 3
+blue 1 red 1 black 1 blue 5
+red 1 blue 2 red 2 green 3 black 2 red 1
+red 1 blue 2 green 2 red 2 green 3 black 1 red 1
+red 2 blue 2 green 2 red 4 green 2 black 2 blue 3 black 1
+red 2 blue 1 green 2 red 2 red 1 green 2 blue 3 black 2 red 1 blue 3 black 2
+red 2 blue 2 green 1 red 2 red 2 blue 2 black 3 blue 2 black 3
+red 1 blue 1 red 1 green 2 red 2 blue 2 green 1 red 2 black 5

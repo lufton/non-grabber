@@ -1,0 +1,62 @@
+by "Ryan Anderson (ryguy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Ryan Anderson"
+date "Apr  8, 2009"
+description "a sail boat with a red flag sailing in the ocean with a sun in the backround"
+difficulty 2.0
+height 20
+id 5548
+link "https://webpbn.com/play.cgi?id=5548"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "cloumus sailed the ocean blue in..........."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 4
+black 2 black 1 black 1
+red 2 black 1 black 1 black 1 black 1
+red 4 black 2 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 1 black 1
+red 1 black 2 black 2 black 1 black 1
+black 1 black 1 black 2 black 2 black 4
+black 1 black 2 black 1 black 2
+black 1 black 1 black 2 black 1 black 2
+black 1 black 2 black 1 black 1 black 1
+blue 5 black 1 blue 1 black 1 black 2 black 1 black 2 blue 4
+blue 5 black 1 blue 1 black 2 black 1 black 1 black 1 blue 4
+blue 5 black 1 blue 1 black 1 black 1 black 1 black 2 blue 5
+blue 5 black 1 blue 1 black 2 black 1 black 2 blue 6
+black 1 blue 4 black 1 blue 1 black 1 black 1 black 2 blue 3 black 4
+black 2 blue 3 black 1 blue 1 black 4 blue 4 black 5
+black 3 blue 2 black 1 blue 1 black 1 blue 6 black 6
+black 20
+black 19 blue 1
+black 19 blue 1
+
+columns
+blue 4 black 6
+red 1 blue 5 black 5
+red 2 blue 6 black 4
+red 2 blue 7 black 3
+red 3 blue 7 black 3
+red 4 black 14
+blue 7 black 3
+black 20
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 2 blue 1 black 3
+black 1 black 1 black 1 black 2 black 1 black 1 blue 1 black 3
+black 2 black 1 black 1 black 1 black 1 blue 2 black 3
+black 2 black 1 black 2 black 2 blue 2 black 3
+black 2 black 1 black 2 blue 3 black 3
+black 3 black 2 black 1 black 1 blue 3 black 4
+black 1 black 1 black 4 blue 3 black 5
+black 1 black 1 blue 4 black 6
+black 1 black 1 blue 4 black 6
+black 1 black 1 blue 4 black 6
+black 7 blue 4 black 4 blue 2

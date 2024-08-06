@@ -1,0 +1,31 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom O'Connell"
+date "Nov 22, 2013"
+description ""
+difficulty 1.0
+height 5
+id 23181
+link "https://webpbn.com/play.cgi?id=23181"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The top is better."
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1 black 2
+green 2 black 1
+black 1 black 1
+black 1 black 3
+black 1 black 1 black 1
+
+columns
+green 2 black 3
+black 1 green 1
+black 5
+black 1
+black 2

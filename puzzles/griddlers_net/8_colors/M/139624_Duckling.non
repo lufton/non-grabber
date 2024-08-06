@@ -1,0 +1,60 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/14/13"
+height 16
+id 139624
+link "https://www.griddlers.net/nonogram/-/g/139624"
+medium_time "0:05:26"
+points 1143
+popularity 81.39
+title "Duckling"
+width 19
+
+color a 6baac6
+color b 5a7552
+color c b5b694
+color d 4a3429
+color e ffa618
+color f f7ebf7
+color g e7926b
+color h b58ead
+
+rows
+b 4
+c 5 b 1
+c 6 b 2
+c 7 b 1
+c 4 d 1 b 1 c 1 b 1
+c 1 b 1 c 3 b 1 e 1
+c 1 b 3 e 3
+d 1 c 3 b 2 e 3
+d 2 f 5
+d 1 g 6 d 2 g 3
+d 3 g 7 d 2 h 4
+d 3 g 5 d 1 g 1 d 2 f 3 h 2
+d 2 g 3 d 1 g 3 d 2 f 5 h 1
+d 3 g 3 d 4 f 6
+d 4 g 3 d 1 f 6
+g 5 d 2 f 5
+
+columns
+d 4
+d 6
+d 2 g 1 d 2 g 1
+g 3 d 1 g 1
+g 4 d 1 g 1
+g 3 d 1 g 3
+g 4 d 1 g 2
+g 4 d 1 g 1 d 1
+g 2 d 1 g 1 d 3
+d 1 g 3 d 2 f 2
+c 4 d 2 g 2 d 2 f 3
+c 4 b 1 c 2 f 1 d 3 f 4
+b 1 c 5 b 1 c 1 f 1 d 2 f 5
+b 1 c 5 b 1 c 1 f 1 g 1 h 1 f 5
+b 1 c 3 d 1 c 1 b 2 f 1 g 1 h 1 f 4
+b 1 c 3 b 2 e 1 b 1 f 1 g 1 h 2 f 2
+b 2 c 2 e 3 h 3
+b 3 e 2
+e 1

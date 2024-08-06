@@ -1,0 +1,27 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Feb 22, 2012"
+description "Ah, that's where it is. Oops, I guess it is no longer missing."
+difficulty 1.0
+height 5
+id 17640
+link "https://webpbn.com/play.cgi?id=17640"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "The missing link."
+width 5
+
+rows
+3
+2
+1,1
+2,2
+3
+
+columns
+3
+2,2
+1,1
+1,2
+2

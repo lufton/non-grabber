@@ -1,0 +1,62 @@
+by "Kathy (Dragonfly)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kathy"
+date "May  6, 2012"
+description "X marks the spot."
+difficulty 1.75
+height 20
+id 18554
+link "https://webpbn.com/play.cgi?id=18554"
+note "published,definitely non-unique,may require some guessing"
+quality 1.25
+title "Pirate's treasure"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+blue 1 red 6 blue 1
+red 1 blue 1 red 4 blue 1 red 1
+red 2 blue 1 red 2 blue 1 red 2
+red 3 blue 2 red 3
+red 3 blue 2 red 3
+red 2 blue 1 red 2 blue 1 red 2
+red 1 blue 1 red 4 blue 1 red 1
+blue 1 red 6 blue 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+blue 1 red 6 blue 1
+red 1 blue 1 red 4 blue 1 red 1
+red 2 blue 1 red 2 blue 1 red 2
+red 3 blue 2 red 3
+red 3 blue 2 red 3
+red 2 blue 1 red 2 blue 1 red 2
+red 1 blue 1 red 4 blue 1 red 1
+blue 1 red 6 blue 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1

@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Apr  3, 2014"
+description "With this puzzle I become the third most prolific puzzle maker here. (At least for the moment)"
+difficulty 2.75
+height 20
+id 24166
+link "https://webpbn.com/play.cgi?id=24166"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Rank"
+width 20
+
+rows
+10
+10
+3,2
+2
+1,1,2
+5,2
+1,1,2
+5,2
+1,1,5
+8
+4
+3
+2
+2
+1,2
+2,2
+2,3
+3,3
+8
+4
+
+columns
+0
+1,1
+5
+1,1
+5
+1,1
+2
+1,3
+2,1,3
+3,2,2
+2,3,2
+2,4,2
+2,2,2,2
+2,2,3,2
+2,2,2,2
+4,3,3
+3,8
+2,6
+1
+0

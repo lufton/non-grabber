@@ -1,0 +1,51 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Jun 10, 2012"
+description "A male and female Gagoonga bird in flight. The Gagoonga is a fictitious species of bird that resides in Odell New Brunswick. They are rarely seen alone,and they never land. Apparently they aren't seen by anyone but me,and i only started seeing them,since i drove my lawn tractor too close to the trees,and got whacked in the head by a low hanging,very firm branch. I love these birds."
+difficulty 1.75
+height 15
+id 18958
+link "https://webpbn.com/play.cgi?id=18958"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP # 111 Strange Duet."
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 black 1
+blue 3 black 3 black 2
+blue 4 black 3 blue 1 black 1
+blue 4 black 3 blue 2 black 2
+blue 4 black 2 blue 1 black 4
+blue 1 black 1 blue 4 black 1 blue 2 black 2 black 2
+blue 2 black 2 blue 7 black 4
+blue 9 blue 2 black 2
+blue 12
+blue 10 black 1
+blue 5 black 4
+blue 5 black 4
+blue 5 black 3
+blue 4 black 3
+blue 3
+
+columns
+blue 2 blue 4
+blue 3 blue 4
+black 1 blue 4 black 2 blue 3
+black 2 blue 4 black 1 blue 3
+black 3 blue 8
+black 3 blue 8
+black 3 blue 8
+black 3 blue 8
+blue 11
+blue 1 blue 2 blue 2 black 1 blue 4
+blue 2 black 2 blue 4 black 2 blue 3
+black 5 blue 2 black 5
+black 1 black 2 black 2 black 4
+black 2 black 4 black 3
+black 2

@@ -1,0 +1,71 @@
+by "willem"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/19/05"
+height 19
+id 25379
+link "https://www.griddlers.net/nonogram/-/g/25379"
+medium_time "0:13:30"
+points 8889
+popularity 67.59
+title "Drum"
+width 27
+
+color a ffffff
+color b ff0000
+color c a70000
+color d fffe00
+color e aaaa00
+color f b3b3b3
+color g 808080
+color h 000000
+
+rows
+e 4
+e 1 d 3 e 3 e 3
+h 2 e 1 d 3 e 3 g 9 e 2 d 2 h 1
+h 2 e 1 d 3 e 3 g 1 e 2 d 2 e 1 h 1
+g 1 h 2 e 1 d 3 e 1 g 4 e 2 d 2 e 1 h 1
+g 1 h 1 g 1 f 1 h 3 e 1 f 2 e 2 d 2 e 1 h 2
+g 2 h 1 f 7 e 1 d 2 e 1 h 1 g 2 h 1
+g 1 g 2 f 6 e 1 h 2 f 1 g 2 h 1
+g 1 f 1 g 10 g 1 h 1
+c 2 f 2 g 2 h 2
+c 1 b 1 c 2 f 8 g 2 h 2 c 1 h 1
+c 1 b 3 c 7 h 3 c 3 h 1
+c 1 b 10 c 6 h 1
+c 1 b 10 c 6 h 1
+h 1 b 9 c 5 f 1 h 1
+h 1 f 1 b 7 c 3 f 2 g 1 h 1
+h 1 f 2 f 2 g 2 h 1
+h 2 f 8 g 2 h 2
+h 10
+
+columns
+e 2
+e 1 d 1 h 1
+e 1 d 1 h 1
+e 1 d 1 e 1
+e 1 d 1 h 1
+e 1 d 1 h 1 g 4 c 5 h 2
+e 1 d 1 e 1 g 1 g 1 f 1 c 1 b 4 f 1 h 1
+e 1 d 1 h 3 g 1 f 1 c 1 b 4 f 1 h 1
+e 1 d 1 h 1 g 1 f 1 g 1 f 1 c 1 b 4 f 1 h 1
+e 1 d 1 e 1 f 3 g 1 f 1 c 1 b 4 f 1 h 1
+g 1 e 1 d 1 h 1 f 2 g 1 f 1 c 1 b 4 f 1 h 1
+g 1 e 1 d 1 h 1 f 2 g 1 f 1 c 1 b 4 f 1 h 1
+g 1 e 1 d 1 h 1 f 2 g 1 f 1 c 1 b 4 f 1 h 1
+g 1 e 2 f 2 g 1 f 1 c 1 b 4 f 1 h 1
+g 1 g 1 f 3 g 1 f 1 c 1 b 4 f 1 h 1
+g 1 g 1 f 1 e 2 g 1 f 1 c 1 b 4 f 1 h 1
+g 1 g 1 e 1 d 1 h 1 g 1 f 1 h 1 c 4 f 1 h 1
+g 1 g 1 e 1 d 1 h 1 g 1 g 1 h 1 c 4 f 1 g 1 h 1
+g 1 e 1 d 1 e 1 f 1 g 1 g 1 h 1 c 4 f 1 g 1 h 1
+g 1 e 1 d 1 h 1 g 1 g 1 h 1 c 4 f 1 g 1 h 1
+e 1 d 1 e 1 g 2 g 1 h 1 c 4 f 1 g 1 h 1
+e 1 d 1 h 1 g 1 g 1 h 1 c 4 f 1 g 1 h 1
+e 1 d 1 e 1 h 11
+e 1 d 1 h 1
+e 1 d 1 e 1
+e 1 d 1 h 1
+e 1 h 1

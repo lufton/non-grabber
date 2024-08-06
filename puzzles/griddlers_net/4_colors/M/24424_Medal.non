@@ -1,0 +1,66 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/22/05"
+height 30
+id 24424
+link "https://www.griddlers.net/nonogram/-/g/24424"
+medium_time "0:04:54"
+points 970
+popularity 66.5
+title "Medal"
+width 15
+
+color a 000000
+color e dfbf00
+color g 93a2b2
+color h fffefe
+
+rows
+e 1
+e 2 e 1 e 1
+e 9
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 3 h 3 g 3
+g 2 h 3 g 2
+g 1 h 3 g 1
+e 2 h 1 e 2
+e 3
+e 2 e 1 e 2
+e 5 e 1 e 5
+e 13
+e 11
+e 4 g 3 e 4
+e 2 g 1 g 2 e 2
+e 2 g 2 g 2 e 2
+e 2 g 1 g 1 e 2
+e 4 g 3 e 4
+e 11
+e 13
+e 5 e 5
+e 2 e 2
+
+columns
+0
+e 2 e 2
+e 1 e 5 e 5
+e 2 g 10 e 13
+e 1 g 11 e 11
+e 1 g 12 e 1 e 4 g 3 e 4
+e 1 h 12 e 2 e 2 g 1 g 1 g 1 e 2
+e 1 h 13 e 5 g 1 g 1 e 2
+e 1 h 12 e 2 e 2 g 3 g 1 e 2
+e 1 g 12 e 1 e 4 g 3 e 4
+e 2 g 11 e 11
+e 1 e 1 g 10 e 13
+e 1 e 5 e 5
+e 2 e 2
+0

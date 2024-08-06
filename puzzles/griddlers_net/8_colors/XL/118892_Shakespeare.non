@@ -1,0 +1,94 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/29/12"
+height 43
+id 118892
+link "https://www.griddlers.net/nonogram/-/g/118892"
+medium_time "0:27:39"
+points 21374
+popularity 82.61
+title "Shakespeare"
+width 26
+
+color a ffffff
+color b 000000
+color c 684028
+color d f8f098
+color e b8b8b8
+color f b01800
+color g e09830
+color h 303030
+
+rows
+b 10
+b 2 c 10 b 2
+b 1 c 14 b 1
+b 1 c 6 b 9 c 1 b 1
+b 1 c 5 b 2 d 9 b 2
+b 1 c 4 b 1 d 12 b 2
+b 1 c 4 b 1 d 14 b 1
+b 1 c 4 b 1 d 15 b 1
+b 1 c 4 b 1 d 15 b 1
+b 1 c 6 b 1 d 14 b 1
+b 1 c 6 b 1 d 14 b 1
+b 1 c 6 b 1 d 14 b 1
+b 1 c 7 b 1 d 14 b 2
+b 1 c 7 b 1 d 5 b 1 d 6 b 1 d 1 b 2
+b 1 c 5 b 3 d 5 b 1 d 6 b 1 d 1 b 2
+b 1 c 5 b 1 d 16 b 1 c 1 b 1
+b 1 c 5 b 1 d 16 b 1 c 1 b 1
+b 1 c 5 b 2 d 7 c 1 d 2 c 1 d 3 b 1 c 1 b 1
+b 1 c 5 b 1 d 6 c 2 d 2 c 2 d 1 b 1 c 1 b 1
+b 3 c 2 b 1 d 13 b 2
+b 5 d 10 b 1
+b 3 e 2 b 11
+b 1 f 3 b 1 e 1 e 2 e 2 e 1 b 1
+b 1 f 5 b 1 e 2 e 2 e 1 b 2
+b 1 f 5 b 10 f 1 b 1
+b 1 g 3 f 3 b 1 f 2 g 1 f 1 b 1 e 1 b 1 f 1 g 1 b 1 f 1 b 1
+b 1 f 3 g 2 b 1 g 1 f 2 g 1 f 1 b 3 f 1 g 1 b 1 g 1 b 1
+b 1 f 5 b 1 g 1 f 2 g 1 f 1 b 1 b 1 f 1 g 1 b 1 f 1 b 1
+b 1 h 2 f 4 b 1 g 1 f 2 g 1 f 1 b 1 b 1 f 1 g 1 b 1 f 2 b 1
+b 1 h 3 b 1 f 1 g 1 f 2 g 1 f 2 b 1 f 2 g 1 b 1 h 2 b 1
+b 3 b 1 f 1 g 1 f 2 g 1 f 2 b 1 f 2 g 1 b 1 b 1
+b 1 d 2 b 8 g 1 f 2 b 1 f 2 b 5
+b 1 d 5 b 1 h 4 b 2 f 1 b 1 f 1 b 1 f 1 g 1 b 1 d 1 b 1
+b 1 d 3 b 1 h 6 b 4 f 2 g 1 f 1 b 1
+b 3 h 7 b 1 f 2 g 1 f 2 g 1 f 1 b 1
+b 1 h 7 b 1 f 2 g 1 f 2 g 1 f 1 b 1
+b 1 h 7 b 1 f 2 g 1 f 2 b 3
+b 1 h 7 b 6 h 2 b 1
+b 1 h 7 b 1 b 1 h 5 b 1
+b 1 h 7 b 1 b 1 h 5 b 1
+b 9 b 7
+b 1 h 8 b 2 h 6 b 1
+b 18
+
+columns
+b 5
+b 3 c 5 b 1
+b 3 c 9 b 1 b 5
+b 2 c 13 b 1 b 3 h 1 b 1 d 2 b 1
+b 1 c 15 b 1 b 2 g 1 f 2 h 1 b 1 d 3 b 1
+b 1 c 16 b 1 b 1 f 2 g 1 f 3 h 1 b 1 d 2 b 1
+b 1 c 12 b 3 c 3 b 2 f 3 g 1 f 3 h 1 b 1 d 2 b 9
+b 1 c 4 b 3 c 5 b 1 d 2 b 1 c 2 b 2 f 4 g 1 f 2 h 1 b 1 d 1 b 1 h 6 b 1 h 1 b 1
+b 1 c 4 b 1 d 3 b 6 d 2 b 5 f 4 g 1 f 2 b 4 h 7 b 1 h 1 b 1
+b 1 c 3 b 1 d 15 b 1 e 1 b 1 f 3 b 3 f 2 b 1 h 8 b 1 h 1 b 1
+b 1 c 3 b 1 d 15 b 1 e 2 b 3 g 5 b 1 h 8 b 1 h 1 b 1
+b 1 c 2 b 1 d 17 b 1 e 1 b 1 f 6 b 1 h 8 b 1 h 1 b 1
+b 1 c 2 b 1 d 17 b 1 e 1 b 1 f 6 b 1 h 8 b 1 h 1 b 1
+b 1 c 2 b 1 d 17 b 1 e 1 b 1 g 7 b 1 h 7 b 1 h 1 b 1
+b 1 c 2 b 1 d 9 b 2 d 6 b 1 e 1 b 1 f 7 b 9 h 1 b 1
+b 1 c 2 b 1 d 14 c 1 d 2 b 1 e 1 b 5 f 4 b 1 f 3 b 1 b 2
+b 1 c 2 b 1 d 13 c 2 d 2 b 1 e 1 b 1 e 1 b 1 b 5 f 3 b 6
+b 1 c 2 b 1 d 17 b 1 e 1 b 5 f 4 b 1 g 3 b 1 h 2 b 1 h 1 b 1
+b 1 c 1 b 1 d 17 b 1 e 1 b 1 f 7 b 1 f 4 b 1 h 2 b 1 h 1 b 1
+b 1 c 1 b 1 d 13 c 2 d 2 b 1 e 1 b 1 g 6 b 1 f 5 b 1 h 2 b 1 h 1 b 1
+b 1 c 1 b 1 d 13 c 1 d 2 b 1 e 1 b 1 f 1 b 7 g 4 b 1 h 3 b 1 h 1 b 1
+b 3 d 7 b 2 d 5 b 5 f 1 g 1 f 2 h 1 b 2 f 3 b 1 h 3 b 1 h 1 b 1
+b 2 d 11 b 2 b 3 f 1 h 1 b 1 d 1 b 8 h 1 b 1
+b 11 c 1 b 1 b 5 b 2
+b 3 c 3 b 1
+b 3

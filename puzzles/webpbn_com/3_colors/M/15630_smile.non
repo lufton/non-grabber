@@ -1,0 +1,61 @@
+by "Jacqueline Toh (jacqueline)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jacqueline Toh"
+date "Aug 22, 2011"
+description ""
+difficulty 3.5
+height 20
+id 15630
+link "https://webpbn.com/play.cgi?id=15630"
+note "published,definitely non-unique,may require much guessing"
+quality 2.0
+title "smile"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+black 2 black 2
+black 1 black 1 black 1 black 1
+0
+black 4 black 4
+0
+black 2
+black 1
+0
+black 8
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 1 black 1
+black 2
+0
+0
+0
+
+columns
+0
+0
+0
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 2
+black 1 black 1
+black 1 black 1
+black 2 black 1 red 2 black 1
+black 1 black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 1 black 1
+black 1 black 1 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+0
+0
+0

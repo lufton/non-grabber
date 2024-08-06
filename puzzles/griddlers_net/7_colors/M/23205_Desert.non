@@ -1,0 +1,74 @@
+by "marijn"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/15/05"
+height 25
+id 23205
+link "https://www.griddlers.net/nonogram/-/g/23205"
+medium_time "0:16:10"
+points 8718
+popularity 77.09
+title "Desert"
+width 25
+
+color a ffff33
+color b 00ccff
+color c ffff99
+color d e4e400
+color e c3c301
+color f ffffff
+color g 00ffff
+
+rows
+b 1 g 1 g 2 b 3 g 1 g 1 b 3 g 2 g 2 b 6
+b 2 g 1 g 2 b 2 g 1 g 1 b 2 g 2 g 2 b 2 f 3 b 2
+b 2 g 2 g 2 b 1 g 1 g 1 b 1 g 2 g 2 b 2 f 5 b 1
+b 3 g 2 g 3 g 3 g 3 b 8
+b 3 g 3 g 2 g 2 g 1 d 1 e 1 g 2 b 7
+g 7 g 1 g 1 g 1 d 1 c 1 e 2 g 2 b 6
+g 8 g 1 d 1 c 2 d 1 e 2 g 7
+d 1 c 2 d 2 e 2
+g 8 d 1 c 2 d 2 e 3 g 5
+b 3 g 4 g 1 d 1 c 2 d 2 e 3 g 2 b 2
+b 3 g 3 g 1 d 1 c 2 d 3 e 3 g 2 b 1
+b 3 g 2 g 1 d 3 d 3 e 3 g 2
+b 2 g 2 g 1 d 9 d 5 e 3 g 1
+c 5 d 4 e 10
+c 5 d 3 e 9
+c 5 d 3 e 8
+c 5 c 2 d 3 e 7
+c 4 c 2 d 3 e 6
+c 5 c 5 d 3 e 5
+c 4 c 3 d 3 e 4
+c 3 c 2 d 3 e 4
+c 3 c 2 d 3 e 3
+c 3 c 4 c 2 d 2 e 3
+c 3 c 2 c 2 d 2 e 2
+c 2 c 5 d 2 e 1
+
+columns
+b 5 g 2 g 1 b 4 c 7
+g 1 b 4 g 2 g 1 b 4 c 10
+g 2 b 2 g 2 g 1 b 3 g 1 c 10
+g 1 g 5 g 5 c 6
+g 2 g 4 g 4 c 5
+b 1 g 2 g 3 g 3 g 1 c 4 c 1
+b 2 g 2 g 2 g 2 g 1 d 1 c 2 c 1 c 1
+b 3 g 2 g 1 g 1 g 1 d 2 c 1 c 1 c 1
+g 6 g 1 d 3 c 1 c 1 c 3
+d 1 c 1 d 2 c 1 c 3 c 3
+g 6 d 1 c 2 d 1 c 3 c 1
+b 3 g 2 g 1 d 1 c 2 d 2 c 1
+b 2 g 2 g 1 d 1 c 2 d 2 c 1
+b 1 g 2 g 1 d 1 c 2 d 3 c 5
+g 2 g 1 d 1 c 2 d 4 c 5
+g 1 g 2 e 2 d 3 e 1 d 3
+g 4 e 2 d 4 d 1 e 2 d 3
+g 2 b 2 g 2 e 3 d 4 e 3 d 3
+g 1 b 4 g 2 e 3 d 3 e 4 d 4
+b 2 f 1 b 3 g 1 e 3 d 2 e 5 d 4
+b 1 f 2 b 3 g 1 g 1 e 3 d 1 e 6 d 4
+b 1 f 2 b 3 g 1 g 2 e 11 d 3
+b 1 f 2 b 3 g 1 g 3 e 12 d 2
+b 2 f 1 b 3 g 1 g 1 b 1 g 2 e 12 d 1
+b 6 g 1 g 1 b 2 g 2 e 12

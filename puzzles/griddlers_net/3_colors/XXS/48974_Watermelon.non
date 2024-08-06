@@ -1,0 +1,30 @@
+by "iremnur"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/7/07"
+height 5
+id 48974
+link "https://www.griddlers.net/nonogram/-/g/48974"
+medium_time "0:00:12"
+points 6
+popularity 44.64
+title "Watermelon"
+width 5
+
+color a ffffff
+color b 006600
+color d ff0000
+
+rows
+0
+0
+b 1 d 3 b 1
+b 2 d 1 b 2
+b 3
+
+columns
+b 2
+d 1 b 2
+d 2 b 1
+d 1 b 2
+b 2

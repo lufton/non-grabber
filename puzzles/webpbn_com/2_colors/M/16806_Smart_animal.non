@@ -1,0 +1,57 @@
+by "Pete Oinio (finbear)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Pete Oinio"
+date "Dec 18, 2011"
+description ""
+difficulty 2.25
+height 15
+id 16806
+link "https://webpbn.com/play.cgi?id=16806"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Smart animal"
+width 25
+
+rows
+7,8
+1,3,5,1
+1,4,8,3
+2,4,1,2,2
+3,3,1,3,1,1
+3,3,3,2
+5,3,1,1,2
+4,3,1,4
+3,1,3,2
+2,2,1,1
+2,2,1,1,1,1
+1,2,1,1,1
+1,1,2,2,2
+1,11
+5,1
+
+columns
+7
+4,5
+1,2,3
+1,1,4
+1,1,3
+1,2,3
+1,3,2
+2,5
+1,4
+2,2
+3,2
+1,2
+1,2,1,1
+1,1,2
+2,2,1,2
+2,1,2
+3,1,1,2
+2,1,6
+2,2,2,3
+1,2,1,1
+1,6,2,2
+1,2,1,1
+1,1,1,2,1
+3,2,2
+5

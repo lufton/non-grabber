@@ -1,0 +1,81 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/6/10"
+height 31
+id 98518
+link "https://www.griddlers.net/nonogram/-/g/98518"
+medium_time "0:22:09"
+points 10530
+popularity 76.04
+title "Spot"
+width 27
+
+color a ffffff
+color b 666666
+color c af9f7d
+color d ec1d1d
+color e cdc09e
+color f f5ead6
+
+rows
+b 3 e 2
+b 4 c 3 f 2 b 3 e 3
+b 5 c 4 f 3 b 4 e 3
+b 5 c 4 f 5 b 4 e 2
+b 5 c 2 b 1 f 3 b 1 f 2 b 5 e 2
+b 4 c 4 f 7 b 4 e 2
+b 4 c 3 f 1 b 3 f 4 b 4 e 2
+b 3 c 2 f 1 b 5 f 3 b 3 e 2
+b 1 f 1 c 1 f 3 b 3 f 5 b 1 e 3
+f 6 b 1 f 6 e 3
+f 4 b 1 f 1 b 1 f 1 b 1 f 4 c 2 f 2 e 2
+f 4 b 3 f 4 c 4 f 3
+f 9 d 1 c 5 f 4
+d 8 f 3 c 3 f 4 c 1
+d 7 f 10 c 2
+f 3 c 2 f 10 e 1 f 2 c 2
+c 1 f 3 c 2 f 11 e 1 f 2 c 1
+c 3 f 11 c 1 f 3 e 1 f 3
+c 3 f 1 e 1 f 3 e 1 f 4 c 3 f 2 e 1 f 3
+c 3 e 1 f 5 e 1 f 2 c 4 f 2 e 1 f 3
+c 3 e 1 f 5 e 1 f 3 c 2 f 3 e 1 f 3
+c 3 e 1 f 5 e 1 f 3 e 1 f 3 e 2 f 3
+c 1 f 2 e 1 f 3 c 2 e 1 f 3 e 1 f 1 e 2 e 1 f 3
+f 3 e 1 f 2 c 3 e 1 f 3 e 2 e 1 f 3
+f 3 e 1 f 2 c 3 e 1 f 3 e 2 f 3
+f 3 e 1 f 2 c 1 e 1 f 3 e 3 f 3
+f 3 e 1 e 1 f 3 e 5
+f 3 e 1 e 1 f 3
+f 2 e 2 e 2 f 2
+f 3 e 3 e 2 f 3
+e 5 e 4
+
+columns
+b 4
+b 6 f 1 e 1
+b 8 f 1 e 1
+b 8 f 3 c 6 f 7 e 1
+b 5 c 4 f 3 c 6 f 7 e 2
+b 3 c 5 f 5 f 2 c 5 f 6 e 3
+c 5 f 6 d 2 f 4 e 11
+c 3 b 1 c 1 f 1 b 1 f 2 b 1 f 2 d 2 f 3 e 1 f 6
+c 3 f 2 b 3 f 2 b 1 f 1 d 2 c 2 f 9
+c 2 f 3 b 6 f 1 d 2 c 2 f 6 c 2 f 1
+f 5 b 3 f 2 b 1 f 1 d 2 f 7 c 4
+f 3 b 1 f 2 b 1 f 2 b 1 f 2 d 2 f 3 e 1 f 3 c 3
+f 11 d 2 f 4 e 10
+b 2 f 10 d 1 f 14 e 2
+b 4 f 7 d 1 f 16 e 2
+b 7 f 3 f 6 c 1 f 10 e 1
+b 7 c 1 f 5 c 3 e 3 f 1 e 1
+b 5 c 3 f 3 c 4 f 2 e 1 f 1 e 1
+b 3 c 3 f 4 c 2 f 2 e 1
+c 4 f 8 e 1
+c 3 f 2 e 1 f 5 e 1
+f 6 e 10
+f 14 e 3
+e 2 e 2 f 3 c 2 f 9 e 2
+e 3 e 3 f 1 c 4 f 9 e 1
+e 9 f 2 e 1
+e 7 f 1 e 1

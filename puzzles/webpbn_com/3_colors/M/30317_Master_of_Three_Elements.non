@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct 10, 2017"
+description "A duck. It swims in water, flies in air, and walks on earth. If ducks can evolve into the next step of their evolution, namely fire, they can manipulate the very fabric of the universe."
+difficulty 1.25
+height 20
+id 30317
+link "https://webpbn.com/play.cgi?id=30317"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Master of Three Elements"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 20
+black 10 black 6
+black 10 black 1 red 1 black 6
+black 10 red 3 black 4
+black 10 black 6
+black 11 black 5
+black 12 black 4
+black 4 black 7 black 4
+black 4 black 3 black 4
+black 4 black 4
+black 5 black 4
+black 6 black 5
+black 7 black 6
+black 10 red 1 black 1 red 1 black 7
+black 9 red 1 black 2 red 1 black 7
+black 8 red 1 black 3 red 1 black 7
+black 8 red 2 black 2 red 3 black 5
+black 20
+black 20
+
+columns
+black 20
+black 20
+black 20
+black 20
+black 8 black 9
+black 9 black 8
+black 9 black 7
+black 10 black 6
+black 10 black 2 red 2 black 2
+black 10 black 1 red 1 black 1 red 1 black 2
+black 2 black 3 red 1 black 5
+black 2 black 2 black 6
+black 2 black 1 red 4 black 2
+black 2 red 2 black 3 red 1 black 2
+black 4 red 1 black 1 black 4 red 1 black 2
+black 4 red 1 black 2 black 8
+black 20
+black 20
+black 20
+black 20

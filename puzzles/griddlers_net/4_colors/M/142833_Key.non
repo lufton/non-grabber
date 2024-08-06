@@ -1,0 +1,64 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/5/14"
+height 30
+id 142833
+link "https://www.griddlers.net/nonogram/-/g/142833"
+medium_time "0:06:26"
+points 2293
+popularity 77.59
+title "Key"
+width 13
+
+color a ffffff
+color c ff9933
+color f b28100
+color g ffcc33
+
+rows
+f 1
+g 1 f 2
+g 2 c 1 f 2
+g 3 f 3
+g 3 f 3
+g 3 f 3
+g 3 f 1 f 1 f 3
+g 2 c 1 c 1 f 2
+g 2 g 1 f 2
+g 2 c 1 c 1 f 2
+g 2 f 1 f 1 f 1 f 2
+g 2 f 1 f 2
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1 g 2
+f 1 g 3
+f 1 g 1
+f 1 g 3
+f 1 g 1
+f 1 g 3
+f 1 g 2
+
+columns
+g 4
+g 6
+g 3 g 2
+g 3 g 1
+g 3 f 1 f 1
+g 3 c 1 c 1
+f 2 c 1 g 1 f 20
+f 3 c 1 c 1 g 5
+f 3 f 1 f 1 g 2 g 1 g 2
+f 3 f 1 g 2 g 1 g 2
+f 3 f 2
+f 6
+f 4

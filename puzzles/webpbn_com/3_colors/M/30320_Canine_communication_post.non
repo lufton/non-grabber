@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct  9, 2017"
+description "Fire hydrants are popular among urban dogs as urine marking spots."
+difficulty 1.25
+height 20
+id 30320
+link "https://webpbn.com/play.cgi?id=30320"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Canine communication post"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+red 1 black 19
+red 2 black 6 black 11
+red 2 black 4 black 11
+red 2 black 2 black 7 black 2
+red 3 black 1 black 2
+red 3 black 5 black 3
+red 2 black 6 black 3
+red 2 black 5 black 2 black 2
+red 2 black 3 black 6 black 2
+red 2 black 3 black 2 black 7 black 1 black 1
+red 2 black 6 black 7 black 1 black 1
+red 3 black 4 black 6 black 3
+
+columns
+black 8 red 12
+black 9 red 11
+black 12 red 2 black 5 red 1
+black 20
+black 11 black 7
+black 11 black 3 black 2
+black 10 black 3 black 3
+black 10 black 2 black 2
+black 9
+black 11 black 4
+black 12 black 4
+black 12 black 4
+black 12 black 5
+black 12 black 5
+black 12 black 4
+black 12 black 2
+black 12
+black 11 black 2 black 3
+black 17 black 1
+black 20

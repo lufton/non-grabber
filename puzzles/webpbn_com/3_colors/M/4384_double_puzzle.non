@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by sanane samanye"
+date "Dec 15, 2008"
+description ""
+difficulty 1.75
+height 20
+id 4384
+link "https://webpbn.com/play.cgi?id=4384"
+note "published,definitely unique,definitely trivial"
+quality 2.75
+title "double puzzle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 1 black 17
+black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 3 black 5 black 1
+black 1 black 1 black 1 black 1
+black 3 black 3 black 1 black 3 black 5
+black 1 black 1 black 1 black 1 black 1
+black 1 black 5 black 3 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 5 black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 4 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 5 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 1 black 3 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 15 red 1 black 3
+0
+
+columns
+black 19
+red 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 7 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 5 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 5 black 1 black 1 black 5
+black 1 black 1 black 1 black 1 black 1
+black 3 black 5 black 1 black 5 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 11 black 1
+black 1 black 1 black 1 black 1
+black 3 black 5 black 5 black 3
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 5 black 7
+black 1 black 1 black 1 black 1 black 1 red 1
+black 1 black 1 black 1 black 1 black 5 black 5
+black 1 black 1 black 1
+black 19
+0

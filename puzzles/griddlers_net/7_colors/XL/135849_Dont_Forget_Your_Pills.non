@@ -1,0 +1,87 @@
+by "mareile"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/11/13"
+height 28
+id 135849
+link "https://www.griddlers.net/nonogram/-/g/135849"
+medium_time "0:14:50"
+points 16474
+popularity 76.71
+title "Don't Forget Your Pills"
+width 35
+
+color a cccccc
+color b 000000
+color c 009999
+color d cc6600
+color e 006666
+color f 993300
+color g ffffff
+
+rows
+b 7
+b 4 b 5
+b 2 b 2
+b 2 b 2
+b 1 b 4 b 6
+b 1 b 7 b 1
+b 1 g 1 b 1
+b 1 g 2 b 1
+b 1 g 2 b 1
+b 1 g 1 b 8 b 1
+b 4 g 2 e 2 c 3 e 2 b 3
+b 2 e 2 g 2 c 6 e 2 b 2
+b 4 g 2 e 1 c 2 e 2 b 5
+b 2 c 2 g 2 b 6 c 1 e 1 b 2
+b 20 c 1 g 2 c 7 e 1 b 4
+d 18 b 2 c 2 g 1 c 7 e 1 b 2 d 2
+d 12 b 3 d 3 b 2 c 2 g 1 c 6 e 1 b 3 d 2
+d 11 b 2 g 1 b 1 d 3 b 2 e 1 c 8 e 1 b 2 d 3
+d 10 b 2 g 1 b 1 d 3 b 2 e 1 c 8 e 1 b 2 d 3
+d 10 b 1 g 1 b 2 d 3 b 2 e 3 c 6 e 1 b 2 d 3
+d 2 b 4 d 3 b 5 d 4 b 2 e 1 b 7 e 2 b 2 d 3
+d 2 b 1 g 1 b 2 d 1 b 2 c 1 e 1 b 2 d 5 b 3 e 2 c 3 e 2 b 3 f 2 d 1
+d 2 b 2 g 1 b 3 c 1 e 1 b 2 f 1 b 3 d 2 b 4 e 2 c 3 e 1 b 3 f 3
+d 3 b 4 c 1 b 4 f 1 b 1 g 3 b 1 d 2 b 11 f 4
+d 4 b 2 e 1 c 3 b 1 f 2 b 1 g 1 b 1 f 1 d 2 f 1 b 8 f 5
+d 5 b 2 e 2 b 2 f 1 d 2 b 3 f 2 d 2 f 14
+d 6 b 4 f 2 d 14 f 6 d 3
+d 8 f 3 d 24
+
+columns
+b 1 d 13
+b 1 d 13
+b 1 d 5 b 3 d 5
+b 1 d 5 b 1 b 2 d 4
+b 1 d 5 b 1 g 1 b 2 d 3
+b 1 d 5 b 2 g 1 b 3 d 2
+b 1 d 6 b 3 e 1 b 2 d 1
+b 1 d 7 b 1 c 2 e 1 b 1 d 1
+b 1 d 6 b 3 c 1 e 1 b 1 f 1
+b 1 d 5 b 2 c 1 b 1 c 1 b 2 f 1
+b 1 d 3 b 3 c 1 e 1 b 3 f 2
+b 1 d 2 b 2 g 1 b 1 e 1 b 2 f 3 d 1
+b 1 d 1 b 2 g 1 b 3 f 2 d 3
+b 1 d 1 b 1 g 1 b 3 f 1 b 2 d 3
+b 1 d 1 b 4 d 2 b 1 g 2 b 1 d 2
+b 1 d 7 b 1 g 1 b 1 d 2
+b 1 d 7 b 1 g 1 b 1 d 2
+b 13 d 8 b 2 f 1 d 2
+b 3 b 11 d 3 f 2 d 2
+b 1 b 1 b 1 e 1 b 1 c 1 b 9 d 5
+b 1 b 1 g 3 b 1 e 1 b 1 c 4 e 4 b 3 d 4
+b 2 b 1 g 8 c 4 e 1 b 4 f 2 d 2
+b 1 b 2 b 1 g 7 c 2 e 1 b 1 e 1 b 3 f 1 d 2
+b 1 b 1 b 1 e 1 c 1 e 1 b 1 c 6 b 1 e 2 b 2 f 1 d 2
+b 1 b 1 b 1 e 1 c 2 b 1 c 6 b 1 c 1 e 1 b 2 f 1 d 2
+b 1 b 1 b 1 c 3 b 1 c 6 b 1 c 2 b 2 f 1 d 2
+b 1 b 1 b 1 c 2 e 1 b 1 c 6 b 1 c 2 b 2 f 2 d 1
+b 2 b 2 b 1 c 2 e 1 b 1 c 6 b 1 e 1 c 1 b 2 f 2 d 1
+b 1 b 2 b 1 e 1 c 1 b 2 c 6 e 3 b 2 f 2 d 1
+b 1 b 1 b 1 e 2 b 1 c 3 e 5 b 4 f 2 d 1
+b 1 b 1 b 1 e 1 b 1 e 3 b 8 f 3 d 1
+b 4 b 13 f 4 d 1
+b 15 d 4 f 5 d 2
+b 1 d 6 f 5 d 2
+b 1 d 7 f 4 d 2

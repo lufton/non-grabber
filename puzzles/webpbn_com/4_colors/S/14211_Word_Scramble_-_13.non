@@ -1,0 +1,43 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "May 27, 2011"
+description "Easy puzzle to solve, but guessing the word may be difficult"
+difficulty 1.25
+height 10
+id 14211
+link "https://webpbn.com/play.cgi?id=14211"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Word Scramble - 13"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 11
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 red 1 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 1 black 1
+red 1 red 1
+blue 1 blue 1
+
+columns
+black 8 red 1 blue 1
+black 1
+black 1
+black 1
+black 1
+black 4 red 1 blue 1
+black 1
+black 1
+black 1
+black 1
+black 8 red 1 blue 1

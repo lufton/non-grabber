@@ -1,0 +1,63 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "May 13, 2011"
+description "Little Jack Horner Sat in the corner, Eating a Christmas pie; He put in his thumb, And pulled out a plum, And said 'What a good boy am I!'"
+difficulty 1.25
+height 20
+id 13868
+link "https://webpbn.com/play.cgi?id=13868"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Children's Hour 6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 15 black 5
+green 1 green 5 black 5
+green 1 blue 7 green 5 black 2 green 1 red 1 black 1
+green 1 blue 1 blue 2 blue 1 green 5 black 1 red 1 black 2 green 1
+green 1 blue 3 blue 3 green 5 black 1 green 1 black 2 red 1
+green 1 blue 1 blue 2 blue 2 green 5 black 2 red 1 green 1 black 1
+green 1 blue 3 blue 3 green 5 black 5
+green 1 blue 7 green 5 black 5
+green 1 green 1 black 3 green 1 black 5
+green 8 blue 1 green 2 black 1 green 1 black 5
+green 8 green 2 green 1 black 5
+green 8 red 1 green 3 green 2 black 5
+green 3 blue 1 green 1 blue 1 green 2 red 6 green 1 black 5
+green 1 green 3 red 3 green 1 black 5
+green 2 green 4 red 3 black 6
+green 1 black 8 green 2 blue 3 black 6
+green 1 black 1 green 6 black 1 green 1 blue 4 black 6
+green 1 black 1 green 6 black 1 green 1 blue 1 black 9
+green 1 black 1 green 6 black 1 green 1 blue 1 black 1 green 2 black 6
+green 1 black 1 green 6 black 1 green 1 black 2 green 2 black 6
+
+columns
+green 20
+green 1 green 4 green 1 black 5
+green 1 blue 1 blue 4 green 4 black 1 green 4
+green 1 blue 3 blue 2 green 3 blue 1 black 1 green 4
+green 1 blue 1 blue 4 green 4 black 1 green 4
+green 1 blue 2 blue 1 blue 1 green 3 blue 1 black 1 green 4
+green 1 blue 3 blue 2 green 4 black 1 green 4
+green 1 blue 1 blue 4 green 4 green 1 black 1 green 4
+green 1 blue 6 blue 1 red 2 green 2 black 5
+green 1 green 3 red 1 green 7
+green 12 red 1 green 3 blue 3 black 1
+green 8 black 1 green 1 red 3 blue 2 black 3
+green 8 black 1 red 3 blue 2 black 1 green 2
+green 8 black 2 green 1 red 3 blue 2 black 1 green 2
+green 14 black 6
+black 20
+black 3 red 1 green 1 black 15
+black 2 green 1 black 2 red 1 black 14
+black 2 red 1 black 2 green 1 black 14
+black 3 green 1 red 1 black 15

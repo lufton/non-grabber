@@ -1,0 +1,57 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by vindersloon"
+date "Nov 30, 2008"
+description "knight"
+difficulty 1.5
+height 20
+id 4190
+link "https://webpbn.com/play.cgi?id=4190"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "medieval"
+width 20
+
+rows
+2,1,1,1,1,2
+2,1,1,1,1,2
+2,1,1,1,1,2
+13
+2,1,1,1,1,2
+2,2
+2,2
+2,2,2,2
+2,2
+2,2
+2,2
+13
+2,1,1,1,1,2
+1,1,1,1,1,2
+2,1,1,3
+8
+6
+6,3
+4,2
+1,1
+
+columns
+0
+0
+2
+1
+1
+2
+1
+13,1
+14,1
+1,1,1,1
+5,5,1
+1,1,1,2
+5,1,6
+1,1,2
+5,6
+1,1,1,2
+5,1,7
+1,1,2,1
+15,2
+14,2

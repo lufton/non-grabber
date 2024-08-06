@@ -1,0 +1,37 @@
+by "LIaM J ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by LIaM J"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 8
+id 27698
+link "https://webpbn.com/play.cgi?id=27698"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Mushroom"
+width 8
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 4
+black 3 green 2 black 1
+black 2 green 1 black 2 green 1 black 2
+black 2 green 2 black 4
+black 4
+black 4
+0
+0
+
+columns
+black 2
+black 3
+black 2 green 2 black 2
+black 3 green 1 black 2
+black 1 green 1 black 4
+black 1 green 2 black 3
+black 3
+black 2

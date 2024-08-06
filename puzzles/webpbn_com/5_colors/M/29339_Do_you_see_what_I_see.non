@@ -1,0 +1,63 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Aldege Cholette"
+date "Jan 22, 2017"
+description "I let Chastydy loose on WEBPBN. She created her second puzzle. Of course I had to tweak it to make it solvable,but it didn't take much. Keep in mind folks,she's only 3yrs old. Chastydy is offering one of her great grandma's FBA's to anyone who can come close to what daddy see's in this image. Or if they can come up with something better."
+difficulty 2.75
+height 20
+id 29339
+link "https://webpbn.com/play.cgi?id=29339"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Do you see what I see?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2
+blue 1 green 1 red 2
+green 1 green 1 black 1 blue 2 green 1 green 3 red 3
+green 1 blue 1 green 1 blue 2 green 1 green 2 green 1 red 2 red 1
+green 1 blue 1 green 1 green 1 green 2 red 2
+green 2 blue 1 green 2 green 1 red 2
+green 3 green 3 blue 1 green 2 red 1 red 1
+green 1 green 1 blue 1 red 1
+green 2 green 1 blue 1
+green 1 green 1 green 1 green 2 green 1 green 1 blue 1 red 1
+black 1 green 1 green 1 green 1 blue 1 green 1 blue 2
+black 1 green 1 green 4 green 2 green 1 green 1 blue 1
+black 1 green 3 green 3 green 4 green 1 blue 1
+green 1 blue 2 blue 3 green 2 green 2 blue 2
+black 1 green 2 green 1 green 1 blue 1 green 1 blue 8
+black 2 green 4 green 1 blue 2 black 1 blue 1 blue 1 blue 3
+black 1 black 1 green 2 green 1 green 1 blue 4 blue 1 blue 2
+black 3 green 1 green 2 blue 1 green 1 blue 6
+black 2 green 1 black 3 green 2 blue 6
+black 2 green 1 black 1 black 1 green 2 green 2
+
+columns
+green 1 black 3 black 3 black 1
+green 2 green 1 black 2 black 3
+green 2 blue 1 green 2 green 2 green 2 black 3
+blue 1 green 1 green 1 green 8
+green 2 green 1 green 2
+black 1 green 2 blue 1 green 2 black 1
+blue 1 black 2
+green 2 green 5 green 1 black 1
+blue 2 green 1 green 2 green 2 blue 2 green 4 black 1
+blue 3 green 1 green 2 blue 1 green 1 green 2
+green 3 blue 1 green 1 green 2 blue 1 blue 1 green 1 blue 1
+green 1 blue 1 green 2 blue 3 green 1 blue 1
+green 4 green 2 blue 1 black 1 blue 1 blue 1
+green 4 green 1 blue 1 green 2 green 3 blue 5 green 1
+green 1 green 1 green 2 blue 1 green 2 blue 1 blue 3 green 1
+green 1 green 1 green 3 blue 2 blue 2
+red 5 blue 1 green 1 blue 1 blue 3 green 1
+red 4 red 1 blue 2 green 3 blue 2 blue 1 green 1
+red 2 blue 1 red 1 blue 5
+red 1 red 1 red 1 blue 3 blue 2

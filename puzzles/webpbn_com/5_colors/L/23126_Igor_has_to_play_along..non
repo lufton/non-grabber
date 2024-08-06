@@ -1,0 +1,83 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Nov 13, 2013"
+description "Igor made Mr. Cat "disappear", but he has come back much larger than when he left. Seems Ms. Witch is still having fun with Igor who has to pretend in front of his audience of children that this was how it was supposed to be. I think she is still a bit angry because Igor messed with her broom."
+difficulty 1.75
+height 30
+id 23126
+link "https://webpbn.com/play.cgi?id=23126"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Igor has to play along."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 30
+black 6 black 8
+black 5 red 13 black 7
+black 5 red 3 green 1 red 1 green 5 red 1 green 1 red 3 black 7
+black 5 red 3 green 3 red 1 green 1 red 1 green 3 red 3 black 1 black 1 black 1 black 1
+black 5 red 15
+black 5 red 3 red 3
+black 5 red 1 green 1 red 1 black 1 black 1 red 1 green 1 red 1
+black 5 red 3 black 5 red 3
+black 5 red 3 black 5 red 3
+black 5 red 3 black 1 green 1 black 1 green 1 black 1 red 3
+black 5 red 3 black 5 red 3 black 1 blue 4
+black 5 red 1 green 1 red 1 black 3 red 1 green 1 red 1 black 1 blue 4
+black 5 red 3 red 3 red 3 black 1 blue 4
+black 5 red 3 black 1 black 1 red 3 black 1 blue 4
+black 5 red 3 black 2 black 2 red 3 black 1 blue 3
+black 5 red 3 black 2 black 2 red 3 blue 6
+black 5 red 1 green 1 red 1 black 2 black 2 red 1 green 1 red 1 blue 6
+black 5 red 3 black 2 red 3 black 2 red 3 blue 4
+black 5 red 3 black 7 red 3 blue 4
+black 5 red 3 black 5 red 3 blue 4
+black 5 red 3 black 5 red 3 blue 4
+black 5 red 1 green 1 red 1 black 5 red 1 green 1 red 1 blue 4
+black 5 red 3 black 2 black 2 red 3 blue 4
+black 5 red 3 black 2 black 2 red 3 blue 4
+black 5 red 3 black 2 black 2 red 3 blue 4
+black 5 red 3 black 3 black 3 red 3 blue 3
+black 5 red 15 blue 4
+black 30
+black 30
+
+columns
+black 30
+black 30
+black 30
+black 30
+black 30
+black 2 black 2
+black 1 black 2
+black 1 red 25 black 2
+black 1 red 5 green 1 red 4 green 1 red 4 green 1 red 4 green 1 red 5 black 2
+black 1 red 26 black 2
+black 1 red 1 green 2 red 1 red 1 black 2
+black 1 red 2 green 1 red 1 black 5 black 1 red 1 black 2
+black 1 red 1 green 2 red 1 black 5 black 13 red 1 black 2
+black 1 red 1 green 1 red 2 black 2 green 1 black 2 red 1 red 1 black 8 red 1 black 2
+black 1 red 1 green 2 red 1 black 5 red 1 red 1 black 4 red 1 black 2
+black 1 red 1 green 1 red 2 black 2 green 1 black 2 red 1 red 1 black 8 red 1 black 2
+black 1 red 1 green 2 red 1 black 5 black 13 red 1 black 2
+black 1 red 2 green 1 red 1 black 5 black 1 red 1 black 2
+black 1 red 1 green 2 red 1 red 1 black 2
+black 1 red 26 black 2
+black 1 red 5 green 1 red 4 green 1 red 4 green 1 red 4 green 1 red 5 black 2
+black 1 red 25 black 2
+black 2 black 2
+black 5 black 5 blue 2 black 2
+black 4 blue 2 black 2
+black 5 blue 4 blue 10 blue 1 black 2
+black 4 blue 17 black 2
+black 5 blue 17 black 2
+black 4 blue 17 black 2
+black 5 black 2

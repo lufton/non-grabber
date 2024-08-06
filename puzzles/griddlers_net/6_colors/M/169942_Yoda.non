@@ -1,0 +1,58 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/13/16"
+height 20
+id 169942
+link "https://www.griddlers.net/nonogram/-/g/169942"
+medium_time "0:04:31"
+points 3155
+popularity 76.97
+title "Yoda"
+width 15
+
+color a ffffff
+color b 625046
+color c 8aab74
+color d 698f56
+color e cac4b8
+color f e3dfd6
+
+rows
+d 1 c 3
+d 1 c 5
+c 11
+d 3 c 1 d 1 c 2 d 1 c 1
+d 1 c 5
+d 1 c 4
+e 1 f 1 d 1 c 3
+e 1 f 3 b 3
+e 1 f 4 b 2
+e 1 f 2 e 1 f 2 b 1
+e 1 f 2 e 3 b 1 c 2
+e 1 f 3 e 1 f 3 c 1 b 1 c 1
+e 1 f 7 e 1 b 1
+e 1 f 4 e 4 b 1
+e 1 f 2 e 3 b 2 e 1 b 1
+e 1 f 3 e 3 b 2 e 1 b 1
+e 1 f 3 e 3 b 2 e 1 b 1
+e 1 f 4 e 3 b 2 e 1 b 1
+e 1 f 4 e 4 b 2 e 1 b 1
+e 1 f 3 e 3 d 1 c 5 b 1
+
+columns
+e 1
+e 1 f 1
+e 1 f 2
+e 2 f 3
+c 1 e 4 f 4 e 1
+c 1 d 1 e 4 f 8 e 1
+c 1 d 1 e 1 f 11 e 2
+d 1 c 1 d 3 f 8 e 5 d 1
+d 1 c 5 d 1 f 2 e 3 f 2 e 5 c 1
+c 3 d 1 c 3 b 1 f 2 e 1 f 2 e 6 c 1
+c 7 b 2 f 1 e 1 f 2 e 1 b 5 c 1
+c 7 b 4 f 2 e 1 b 5 c 1
+c 2 d 1 c 1 c 2 e 7 c 1
+c 2 c 1 b 9
+c 1 c 1

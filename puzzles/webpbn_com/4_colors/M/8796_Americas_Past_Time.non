@@ -1,0 +1,62 @@
+by "Julie Katz (katwomanjulie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Julie Katz"
+date "May 13, 2010"
+description "Baseball."
+difficulty 2.0
+height 20
+id 8796
+link "https://webpbn.com/play.cgi?id=8796"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "America's Past Time"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 black 10 blue 5
+blue 4 black 2 black 2 blue 4
+blue 3 black 2 red 1 red 1 black 2 blue 3
+blue 2 black 2 red 2 red 2 black 2 blue 2
+blue 1 black 2 red 2 red 2 black 2 blue 1
+black 2 red 1 red 1 black 2
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 2 red 2 red 2 black 2
+blue 1 black 2 red 2 red 2 black 2 blue 1
+blue 2 black 2 red 2 red 2 black 2 blue 2
+blue 3 black 2 black 2 blue 3
+blue 4 black 2 black 2 blue 4
+blue 5 black 10 blue 5
+
+columns
+blue 5 black 10 blue 5
+blue 4 black 2 black 2 blue 4
+blue 3 black 2 black 2 blue 3
+blue 2 black 2 black 2 blue 2
+blue 1 black 2 red 1 black 2 blue 1
+black 2 red 2 red 2 black 2
+black 1 red 2 red 2 black 1
+black 1 red 11 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 11 black 1
+black 1 red 2 red 2 black 1
+black 2 red 2 red 2 black 2
+blue 1 black 2 red 1 black 2 blue 1
+blue 2 black 2 black 2 blue 2
+blue 3 black 2 black 2 blue 3
+blue 4 black 2 black 2 blue 4
+blue 5 black 10 blue 5

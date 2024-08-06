@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Sep 12, 2021"
+description "Keep an ear to the ground"
+difficulty 3.5
+height 20
+id 35354
+link "https://webpbn.com/play.cgi?id=35354"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "American Idiom 50"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1 green 1
+green 3 green 1 green 1
+green 2 green 3 green 3
+green 1 green 2 green 1 green 1
+green 1 green 3 green 3
+green 3 green 2 green 3 black 1
+green 1 green 3 green 3 black 1
+green 1 green 2 green 3
+green 4
+green 2 green 2
+black 2 green 2 green 1
+black 1 green 3 green 1
+green 3 green 1
+green 4 green 1
+green 2 green 2
+green 2 green 1
+green 5 green 2 green 1
+green 8 black 1 green 1 green 1
+green 6 green 1
+black 20
+
+columns
+black 1
+green 1 black 1
+green 3 black 1
+green 3 black 1
+black 2 green 3 black 1
+green 1 black 1 green 3 black 1
+green 2 green 3 green 3 black 1
+green 2 green 3 green 3 green 2 black 1
+green 2 green 2 green 3 green 1 black 1
+green 2 green 2 green 2 black 1 black 1
+green 2 green 2 green 2 black 1
+green 19 black 1
+green 2 green 2 green 2 black 1
+green 3 green 2 green 2 black 1
+green 2 green 3 green 4 black 1
+green 2 green 3 black 1
+green 3 black 1
+green 2 black 1
+green 1 black 2 black 1
+black 1

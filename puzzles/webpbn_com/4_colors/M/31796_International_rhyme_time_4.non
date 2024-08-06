@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Nov 17, 2018"
+description "France pants"
+difficulty 1.25
+height 20
+id 31796
+link "https://webpbn.com/play.cgi?id=31796"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "International rhyme time #4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 6 red 6
+blue 6 red 6
+blue 6 red 6
+blue 6 red 6
+blue 6 black 1 red 6
+blue 6 black 3 red 6
+blue 5 black 5 red 6
+blue 4 black 7 red 6
+blue 4 black 9 red 6
+blue 3 black 13 red 4
+blue 2 black 18
+blue 1 black 8 black 9
+blue 3 black 7 black 7
+blue 5 black 6 red 1 black 4 red 1
+blue 6 black 6 red 3 black 2 red 1
+blue 6 black 7 red 6
+blue 6 black 7 red 4
+blue 6 black 7 red 3
+blue 6 black 6 red 3
+blue 6 black 4 red 4
+
+columns
+blue 20
+blue 11 black 1 blue 8
+blue 10 black 2 blue 8
+blue 9 black 4 blue 7
+blue 7 black 6 blue 7
+blue 6 black 8 blue 6
+black 10
+black 12
+black 11
+black 5 black 5
+black 4 black 5
+black 4 black 5
+black 4 black 5
+black 4 black 5
+red 9 black 4 red 3 black 4
+red 9 black 5 red 2 black 4
+red 10 black 4 red 3 black 2 red 1
+red 10 black 5 red 5
+red 10 black 5 red 5
+red 10 black 3 red 7

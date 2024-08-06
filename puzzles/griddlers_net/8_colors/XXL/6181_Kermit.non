@@ -1,0 +1,120 @@
+by "hez"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/3/03"
+height 50
+id 6181
+link "https://www.griddlers.net/nonogram/-/g/6181"
+medium_time "0:38:02"
+points 68125
+popularity 83.43
+title "Kermit"
+width 45
+
+color a 685cfe
+color b c10000
+color c ed59d6
+color d b1c773
+color e ceec73
+color f dde33e
+color g fffefe
+color h 303827
+
+rows
+0
+0
+0
+g 3
+g 3 g 6
+g 6 d 2 g 2 h 3 g 2
+g 2 h 3 g 2 d 6 g 3 h 2 g 2
+g 2 h 2 g 2 d 8 g 3 h 1 g 2
+g 2 h 1 g 2 d 6 e 3 d 2 g 4
+g 3 d 1 e 2 d 5 e 4 d 1 g 3 d 1
+d 1 g 1 d 1 e 2 d 6 e 1 d 1 e 7 d 1
+d 3 e 2 d 7 e 1 d 1 e 9
+d 13 e 2 d 1 e 8
+d 13 e 11 d 1
+d 14 e 12 d 1
+d 14 e 12 d 2
+d 1 e 1 d 13 e 12 d 2
+d 1 e 1 d 13 e 11 d 3
+d 16 e 10 d 4
+d 16 e 1 d 1 e 4 d 1 e 3 d 4
+d 16 e 1 d 1 e 7 d 1 h 2 d 2
+d 4 h 1 d 11 e 6 d 3 h 2 d 3
+d 2 h 2 d 11 e 6 d 1 b 1 d 5
+d 4 h 1 b 1 d 8 e 6 d 1 b 2 d 5
+d 4 b 3 d 6 e 4 d 1 b 3 d 1 e 1 d 3
+e 1 d 3 b 4 c 1 d 6 c 1 b 5 d 1 e 1 d 3
+d 4 b 3 c 8 b 4 e 3 d 2
+e 1 d 3 b 4 c 6 b 4 e 3 d 2
+f 2 e 1 d 3 b 5 c 3 b 5 e 3 d 1
+f 8 d 2 b 12 e 2 d 2 f 1
+f 3 d 2 e 1 b 10 e 3 d 2 f 2
+f 4 d 2 e 3 b 7 e 3 d 2 f 5
+f 2 h 1 f 3 d 3 e 1 b 6 d 1 e 2 d 2 f 9
+f 4 h 2 f 5 d 12 f 4 d 3
+f 4 h 3 f 6 d 11 f 4 d 3 e 1
+d 3 h 3 f 4 h 1 f 4 d 8 f 5 d 3 e 2
+d 4 h 3 f 2 h 3 f 17 d 4 e 1 d 1
+d 4 h 3 f 3 h 1 d 2 f 6 h 3 f 3 h 2 f 4 d 3 e 3
+d 3 h 3 d 1 f 2 h 2 d 2 f 5 h 2 d 1 h 1 f 3 d 1 h 1 f 4 d 4 e 3
+d 3 h 3 d 2 h 3 d 3 f 4 h 2 d 2 h 2 f 2 d 2 h 2 f 3 d 4 e 2
+d 3 h 3 d 3 h 1 d 5 f 4 h 1 d 4 h 1 f 2 d 3 h 2 f 2 h 2 d 3 e 2
+d 4 h 2 d 10 f 3 h 2 d 5 h 1 f 1 d 1 e 2 d 1 h 2 f 1 h 1 d 3 e 3
+d 3 h 2 d 11 f 2 h 2 d 1 e 1 d 4 h 1 f 1 d 1 e 2 d 2 h 2 h 2 d 3 e 2
+d 1 h 2 d 11 f 1 h 2 d 7 h 1 f 1 e 5 d 2 h 2 d 3 e 2
+h 2 d 12 h 1 d 6 e 11 d 1 h 2 d 2 e 3
+h 1 d 11 e 1 d 3 e 1 d 2 e 13 d 2 h 1 d 3 e 2
+d 18 e 14 d 1 h 2 d 3 e 1
+d 19 e 14 d 2 h 2 d 2 e 1
+d 13 e 1 d 4 e 16 d 1 h 1 d 2 e 1
+d 18 e 16 d 1 h 1 d 3
+
+columns
+d 3 h 2
+d 3 h 2
+d 4 h 1 d 3
+d 5 h 1 d 5
+d 4 h 3 d 6
+f 1 d 4 h 3 d 8
+f 1 f 2 d 3 h 3 d 9
+f 1 f 2 d 2 h 3 d 10
+d 4 f 1 f 2 h 4 d 11
+d 8 f 1 f 2 h 4 d 12
+d 2 e 2 d 7 e 1 f 2 f 2 h 4 f 2 h 2 d 9
+d 10 h 1 d 4 e 1 f 4 h 3 f 4 h 1 d 10
+g 3 d 10 h 2 d 5 e 1 f 9 h 2 d 10
+g 5 d 13 h 1 d 5 f 7 h 3 d 11
+g 1 h 3 g 2 d 12 b 3 d 6 f 4 h 1 d 8 e 1 d 4
+g 2 h 2 g 2 d 1 e 1 d 12 b 4 d 5 f 2 h 2 d 11 e 1 d 1
+g 2 h 1 g 2 d 1 e 2 d 12 b 6 e 2 d 1 f 11 h 1 d 5
+g 4 d 1 e 2 d 14 b 6 e 1 d 2 f 9 h 1 d 6
+g 2 d 2 e 1 d 15 c 2 b 4 e 2 d 2 f 7 h 2 d 1 e 1 d 4
+d 20 c 2 b 5 d 2 f 6 h 2 d 7
+d 20 c 2 b 5 d 3 f 3 h 3 d 6 e 2
+d 21 c 3 b 4 d 3 f 2 h 2 d 2 e 1 d 2 e 5
+d 21 c 3 b 4 d 3 f 1 h 2 d 6 e 5
+d 2 e 1 d 14 e 2 d 1 c 3 b 4 d 3 f 1 h 1 d 6 e 6
+d 2 e 17 d 1 c 2 b 5 d 3 f 1 h 3 d 4 e 6
+g 3 d 1 e 2 d 2 e 7 d 2 e 4 c 2 b 5 d 4 f 3 h 2 d 3 e 6
+g 4 d 1 e 3 d 1 e 12 b 6 e 2 d 3 f 5 h 3 e 6
+g 2 h 1 g 2 d 1 e 15 d 1 b 5 e 3 d 3 f 8 e 6
+g 2 h 2 g 2 d 1 e 14 b 5 e 3 d 3 f 2 h 1 d 5 e 7
+g 2 h 3 g 2 e 13 d 1 b 3 e 4 d 2 f 4 h 2 d 2 e 9
+g 6 e 9 d 1 e 1 d 2 b 3 e 3 d 3 f 7 h 1 d 1 e 9
+g 5 e 11 d 1 b 2 d 2 e 3 d 2 f 8 h 2 d 2 e 7
+d 1 e 11 d 3 e 3 d 2 f 11 h 2 d 1 e 7
+d 1 e 9 d 1 h 1 d 6 f 3 d 4 f 4 h 2 d 1 e 6
+e 7 d 2 h 2 d 5 f 2 d 6 f 3 h 1 d 3 e 4
+d 1 e 3 d 3 h 1 d 5 f 2 d 7 h 1 d 3 e 2
+d 10 f 1 e 2 d 4 h 3 d 3
+d 7 f 1 e 3 d 4 h 2
+f 1 d 1 e 2 d 4 h 2
+e 3 d 4 h 3
+e 4 d 4 h 2
+e 3 d 4 h 3
+e 4 d 5
+e 3 d 4
+e 5 d 1

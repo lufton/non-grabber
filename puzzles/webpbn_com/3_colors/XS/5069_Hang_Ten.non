@@ -1,0 +1,41 @@
+by "Rosea (dead-roses)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rosea"
+date "Feb 16, 2009"
+description "Blue Bob goes surfing!"
+difficulty 1.25
+height 10
+id 5069
+link "https://webpbn.com/play.cgi?id=5069"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Hang Ten!"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1
+blue 3
+blue 1
+blue 1 blue 1
+black 5 blue 1
+blue 9
+blue 1
+blue 9
+blue 1
+blue 9
+
+columns
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+black 1 blue 1 blue 1 blue 1
+blue 1 blue 1 black 1 blue 1 blue 1 blue 1
+blue 3 black 1 blue 1 blue 1 blue 1
+blue 1 blue 1 black 1 blue 1 blue 1 blue 1
+black 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1

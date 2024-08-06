@@ -1,0 +1,83 @@
+by "eleonora (eleonora)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by eleonora"
+date "Oct 11, 2008"
+description "This one is the first puzzle of my son santiago of 9 years old."
+difficulty 1.5
+height 30
+id 3769
+link "https://webpbn.com/play.cgi?id=3769"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "swimming pool"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 30
+green 30
+green 5 red 20 green 5
+green 5 red 20 green 5
+green 5 red 20 green 5
+green 30
+green 4 black 14 green 6
+green 4 black 1 blue 14 black 1 green 6
+green 4 black 1 blue 16 black 1 green 6
+green 4 black 1 blue 18 black 1 green 6
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 1 blue 18 black 1 green 1 red 2 green 3
+green 1 red 2 green 1 black 6 blue 13 black 1 green 1 red 2 green 3
+green 4 black 6 blue 13 black 1 green 6
+green 4 black 1 blue 18 black 1 green 6
+green 4 black 1 blue 18 black 1 green 6
+green 4 black 1 blue 18 black 1 green 6
+green 4 black 1 blue 16 black 1 green 6
+green 4 black 1 blue 14 black 1 green 6
+green 4 black 14 green 6
+green 7 red 14 green 9
+
+columns
+green 30
+green 10 red 12 green 8
+green 10 red 12 green 8
+green 30
+green 6 black 17 green 1
+green 2 red 3 green 1 black 1 blue 12 black 2 blue 3 black 1 green 1
+green 2 red 3 green 1 black 1 blue 13 black 2 blue 4 black 1 green 1
+green 2 red 3 green 1 black 1 blue 14 black 2 blue 5 black 1 red 1
+green 2 red 3 green 1 black 1 blue 14 black 2 blue 5 black 1 red 1
+green 2 red 3 green 1 black 1 blue 14 black 2 blue 5 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 21 black 1 red 1
+green 2 red 3 green 1 black 1 blue 19 black 1 green 1
+green 2 red 3 green 1 black 1 blue 17 black 1 green 1
+green 2 red 3 green 1 black 17 green 1
+green 2 red 3 green 25
+green 10 red 12 green 8
+green 10 red 12 green 8
+green 30
+green 30
+green 30

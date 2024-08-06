@@ -1,0 +1,46 @@
+by "sarah mckean (sarahmck)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sarah mckean"
+date "Apr 10, 2017"
+description ""
+difficulty 1.25
+height 15
+id 29636
+link "https://webpbn.com/play.cgi?id=29636"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Puzzle 2"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 2
+black 4
+black 6
+black 1 blue 6 black 1
+black 2 blue 1 black 1 blue 2 black 1 blue 1 black 2
+black 3 blue 1 black 2 blue 1 black 3
+black 4
+black 3 blue 2 black 3
+black 1 blue 2 black 1
+black 1 black 4 black 1
+black 3 black 3
+0
+0
+0
+
+columns
+black 2
+black 3 black 1 black 2
+black 1 blue 2 black 1 black 1 black 1
+black 2 blue 1 black 1 blue 1 black 5
+black 3 blue 2 black 2 blue 2 black 1
+black 3 blue 2 black 2 blue 2 black 1
+black 2 blue 1 black 1 blue 1 black 5
+black 1 blue 2 black 1 black 1 black 1
+black 3 black 1 black 2
+black 2

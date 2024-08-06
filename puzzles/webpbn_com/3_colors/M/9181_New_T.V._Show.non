@@ -1,0 +1,61 @@
+by "Kylie :) (misty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kylie :)"
+date "Jun 13, 2010"
+description "American Idle :D"
+difficulty 2.0
+height 20
+id 9181
+link "https://webpbn.com/play.cgi?id=9181"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "New T.V. Show?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4 red 2 red 2
+black 1 red 2 red 2
+black 1 black 4 red 3
+black 4 black 1 red 3
+black 1 red 2 red 2
+red 1 black 2 black 4 red 2 red 2
+red 1 black 1 black 1 black 4
+red 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1
+red 2 black 2 black 4
+red 2 black 2
+red 2 black 2 black 1 black 1
+red 2 black 3 black 1 black 1 black 1
+red 3 black 3 black 3 black 1 black 1
+red 4 black 13
+red 10 red 7
+red 10 red 1
+black 1 red 1
+black 5 red 1
+black 2 black 2 red 1
+
+columns
+red 12
+black 1 black 1 black 3 red 8 black 1
+black 1 black 2 black 1 black 4 red 4 black 2
+black 2 black 1 black 1 black 6 red 3 black 1
+black 1 black 1 black 2 black 3 red 2 black 2
+black 2 red 2 black 1
+black 1 black 1 black 1 red 2 black 2
+black 1 black 2 black 1 red 2 black 1
+black 2 black 1 black 2 red 2
+black 1 black 1 black 2 red 2
+black 2
+black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1
+red 1 red 1 black 2 black 1 black 1 black 1 red 5
+red 2 red 2 black 1 black 1 black 2 red 1
+red 4 black 1 red 1
+red 2 black 4 red 1
+red 4 red 1
+red 2 red 2 red 1
+red 1 red 1 red 1

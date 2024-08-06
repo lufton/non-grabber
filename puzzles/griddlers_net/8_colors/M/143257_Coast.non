@@ -1,0 +1,65 @@
+by "zjmonty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/22/14"
+height 25
+id 143257
+link "https://www.griddlers.net/nonogram/-/g/143257"
+medium_time "0:05:04"
+points 1920
+popularity 90.51
+title "Coast"
+width 15
+
+color a 000000
+color b ffff99
+color c ffcc66
+color d ffa825
+color e fd7d36
+color f ec5151
+color g 963151
+color h 330033
+
+rows
+e 11 e 3
+d 10 d 2
+c 9 c 1
+c 3 b 7 h 1 b 1 h 1 b 2
+b 10 h 1 b 1 h 1 b 2
+d 9 d 1
+d 10 h 2 d 1 f 1
+e 4 d 6 h 2 f 2
+e 10 h 1 f 2
+e 7 h 2 f 1 h 1 f 2
+e 6 f 1 h 2 f 1 h 1 f 1
+f 7 f 1 h 1
+f 7 f 1 h 1
+f 7
+g 5
+g 5
+g 5
+g 4
+g 4
+g 2 h 1
+h 15
+g 3 h 9 g 1 h 2
+g 15
+g 15
+f 15
+
+columns
+e 1 d 1 c 2 b 1 d 2 e 4 f 3 g 6 h 1 g 3 f 1
+e 1 d 1 c 2 b 1 d 2 e 4 f 3 g 6 h 1 g 3 f 1
+e 1 d 1 c 2 b 1 d 2 e 4 f 3 g 5 h 1 g 3 f 1
+e 1 d 1 c 1 b 2 d 2 e 4 f 3 g 5 h 2 g 2 f 1
+e 1 d 1 c 1 b 2 d 3 e 3 f 3 g 3 h 2 g 2 f 1
+e 1 d 1 c 1 b 2 d 3 e 3 f 3 h 2 g 2 f 1
+e 1 d 1 c 1 b 2 d 3 e 2 f 4 h 2 g 2 f 1
+e 1 d 1 c 1 b 2 d 3 e 1 h 2 h 2 g 2 f 1
+e 1 d 1 c 1 b 2 d 3 e 1 h 2 h 3 g 2 f 1
+e 1 d 1 b 2 d 2 e 1 f 4 h 2 g 2 f 1
+e 1 h 2 h 7 h 2 g 2 f 1
+b 2 h 2 h 2 g 2 f 1
+e 1 h 2 h 1 g 3 f 1
+e 1 d 1 b 2 d 1 f 4 h 2 g 2 f 1
+e 1 d 1 c 1 b 2 d 1 f 4 h 2 g 2 f 1

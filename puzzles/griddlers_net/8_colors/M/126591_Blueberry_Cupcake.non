@@ -1,0 +1,73 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/9/12"
+height 27
+id 126591
+link "https://www.griddlers.net/nonogram/-/g/126591"
+medium_time "0:10:26"
+points 4383
+popularity 83.74
+title "Blueberry Cupcake"
+width 21
+
+color a ffffff
+color b 999900
+color c 330066
+color d 9933ff
+color e ffcccc
+color f 6600cc
+color g ffcc66
+color h ff6699
+
+rows
+b 1
+b 2
+b 4
+b 3 b 4
+b 5 c 2 b 1
+b 4 c 1 d 1 e 1 c 1 c 2
+b 3 c 1 d 2 c 2 d 1 e 1 c 1
+b 1 f 2 c 2 e 1 c 1 d 2 c 1 f 2
+c 2 d 1 e 4 c 2 d 3 f 2
+c 1 e 1 d 1 c 1 e 3 d 4 e 2 d 2 f 1
+c 1 d 2 c 1 e 1 d 6 e 2 d 3 f 1
+g 2 d 1 c 1 d 3 f 2 d 2 f 1 d 5 f 1 c 1
+g 2 f 1 d 3 f 5 d 3 f 3 g 2
+g 3 e 1 f 3 e 3 f 1 d 3 f 1 e 1 g 4
+g 11 f 3 g 7
+g 21
+g 20
+g 3 h 1 g 6 e 1 g 3 e 1 g 3
+h 1 e 2 h 1 e 1 g 4 e 4 h 1 e 2 h 1
+h 1 e 2 h 1 e 4 h 1 e 4 h 1 e 2 h 1
+h 1 e 2 h 1 e 3 h 1 e 3 h 1 e 2 h 1
+h 1 e 2 h 1 e 3 h 1 e 3 h 1 e 2 h 1
+h 1 e 2 h 1 e 3 h 1 e 3 h 1 e 2 h 1
+h 1 e 2 h 1 e 2 h 1 e 2 h 1 e 2 h 1
+h 1 e 2 h 1 e 2 h 1 e 2 h 1 e 2 h 1
+h 1 e 2 h 1 e 1 h 1 e 1 h 1 e 2 h 1
+h 9
+
+columns
+g 3
+b 3 g 6
+b 4 c 2 g 7 h 2
+b 5 c 1 e 1 d 2 f 1 e 1 g 4 e 2 h 3
+b 3 f 1 c 1 d 2 c 1 d 1 f 1 g 4 e 5 h 2
+b 3 c 2 f 1 d 1 c 2 d 2 f 1 g 3 h 3 e 5 h 1
+b 4 c 1 d 2 c 1 e 3 d 2 f 1 g 4 e 2 h 3 e 3 h 1
+b 3 c 1 e 1 d 1 c 1 e 2 d 2 f 1 e 1 g 5 e 4 h 2 e 1 h 1
+b 3 c 2 e 3 d 1 f 2 e 1 g 5 e 6 h 2
+c 2 e 1 d 2 f 2 e 1 g 5 e 7 h 1
+c 1 d 2 c 1 d 3 f 2 g 5 h 8
+c 1 e 1 d 1 c 1 d 3 f 1 d 1 f 1 g 3 e 8 h 1
+c 2 d 3 f 1 d 2 f 1 g 2 e 8 h 2
+f 1 d 1 e 2 d 3 f 1 g 3 e 5 h 2 e 1 h 1
+f 1 d 1 e 2 d 2 f 1 g 4 e 2 h 3 e 3 h 1
+f 1 d 3 f 1 e 1 g 4 h 2 e 5 h 1
+f 1 d 3 f 1 g 4 e 6 h 2
+f 1 d 2 f 1 g 5 e 2 h 3
+f 2 g 6 h 2
+c 1 g 6
+g 3

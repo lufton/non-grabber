@@ -1,0 +1,61 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jul  7, 2014"
+description ""
+difficulty 1.5
+height 20
+id 25044
+link "https://webpbn.com/play.cgi?id=25044"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Rock Song 22"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+0
+black 1
+black 1
+black 1 red 1 red 2 red 3
+black 1 red 3 red 2 red 3
+black 1 red 6 red 2 red 3
+black 1 red 6 red 3 red 3
+black 1 red 16 black 1
+black 1 red 16 black 1
+black 20
+black 1 black 1
+black 20
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+black 15
+black 1 black 1
+red 4 black 1 black 1
+red 5 black 1 black 1
+red 6 black 1 black 1
+red 5 black 1 black 1
+red 4 black 1 black 1
+red 4 black 1 black 1
+red 2 black 1 black 1
+red 1 red 3 black 1 black 1
+red 6 black 1 black 1
+red 5 black 1 black 1
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 2 red 2 black 1 black 1
+red 6 black 1 black 1
+red 6 black 1 black 1
+red 4 black 1 black 1
+black 1 black 1
+black 9

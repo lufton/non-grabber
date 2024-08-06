@@ -1,0 +1,73 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gaynor Sorrell"
+date "Apr 17, 2017"
+description "... bring May flowers - if you stare long enough, then look at a white wall."
+difficulty 2.5
+height 31
+id 29694
+link "https://webpbn.com/play.cgi?id=29694"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "April showers (after image)"
+width 21
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 1
+blue 3 blue 1
+blue 4 blue 2
+blue 1 blue 5 blue 1
+blue 3 blue 5 blue 2
+blue 5 blue 4 blue 3
+blue 6 blue 2 blue 4
+blue 7 blue 2 blue 4
+blue 9 blue 1 blue 3
+blue 13
+blue 16
+blue 17
+blue 4 blue 2 blue 9
+blue 2 blue 2 blue 2 blue 7
+blue 3 blue 4 blue 3 black 1
+blue 3 blue 5 black 2
+blue 3 blue 5 black 1
+blue 3 blue 4 black 1
+blue 2 blue 3 black 1 black 1
+blue 2 black 1 black 1
+blue 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 2
+black 3 black 2 black 2
+black 4 black 1 black 2
+black 4 black 1 black 3
+black 4 black 1 black 2
+black 4 black 2 black 2
+black 3 black 1 black 3
+black 2 black 1 black 3
+
+columns
+0
+blue 5
+blue 9
+blue 10
+blue 10 blue 4 black 3
+blue 8 blue 5 black 2
+blue 7 blue 4 black 3
+blue 6 blue 2 black 3
+blue 4 blue 7 blue 4 black 3
+blue 6 blue 5 blue 6 black 3
+blue 7 blue 3 blue 8 black 3
+blue 16 black 3
+blue 3 blue 4 blue 3 black 3
+blue 8
+blue 5 blue 5 black 3
+blue 7 blue 5 black 1 black 5
+blue 2 blue 3 blue 5 black 9 black 1
+blue 3 black 1 black 2
+blue 2 black 5
+blue 2 black 7
+black 8

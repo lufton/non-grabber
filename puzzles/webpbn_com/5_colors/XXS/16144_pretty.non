@@ -1,0 +1,33 @@
+by "arlo the epic (me.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by arlo the epic"
+date "Oct 22, 2011"
+description "pretty"
+difficulty 1.0
+height 5
+id 16144
+link "https://webpbn.com/play.cgi?id=16144"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "pretty"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 1 blue 1
+green 1 red 1 green 1
+red 2 black 1 red 2
+green 1 red 1 green 1
+blue 1 red 1 blue 1
+
+columns
+blue 1 red 1 blue 1
+green 1 red 1 green 1
+red 2 black 1 red 2
+green 1 red 1 green 1
+blue 1 red 1 blue 1

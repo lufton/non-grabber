@@ -1,0 +1,62 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Jan Wolter"
+date "May 22, 2006"
+description "A castle."
+difficulty 1.75
+height 20
+id 440
+link "https://webpbn.com/play.cgi?id=440"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Keep"
+width 25
+
+rows
+1,1
+1,1
+1,3,3,1
+1,3,3,1
+1,1
+3,1,1,1,1,1,1,3
+3,5,5,3
+3,1,1,1,1,3
+1,1,1,1,1,1
+1,1,1,11,1,1,1
+5,11,5
+3,3
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,15,1,1
+3,2,4,4,2,3
+3,2,3,3,2,3
+3,5,5,3
+3,5,5,3
+3,5,5,3
+3,5,5,3
+
+columns
+2
+3,10
+6,3,6
+3,10
+2
+8
+2,7
+2,5,2,4
+4,2,2,7
+2,5,8
+2,2,3
+3,3
+2,1
+3,3
+2,2,3
+2,5,8
+4,2,2,7
+2,5,2,4
+2,7
+8
+2
+3,10
+6,3,6
+3,10
+2

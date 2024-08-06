@@ -1,0 +1,64 @@
+by "janet kennedy (jlgoose)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by janet kennedy"
+date "Nov 30, 2007"
+description "A simple microscope...the idea for this came from a comment about another puzzle."
+difficulty 1.25
+height 28
+id 1908
+link "https://webpbn.com/play.cgi?id=1908"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Simple or Compound?"
+width 19
+
+rows
+5
+3
+3
+3
+3
+5
+5
+5
+5
+5
+5
+7
+8
+9
+5,4
+5,3
+3,3
+1,3
+4
+12
+11
+4
+4
+4
+13
+15
+19
+19
+
+columns
+2
+2
+3
+4
+4
+2,4
+2,4
+1,11,2,4
+17,2,4
+18,2,5
+17,2,6
+1,11,9
+3,9
+4,5,4
+10,4
+8,4
+6,3
+2
+2

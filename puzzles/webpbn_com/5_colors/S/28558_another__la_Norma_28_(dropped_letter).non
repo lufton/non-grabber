@@ -1,0 +1,48 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug 14, 2016"
+description "1981 movie"
+difficulty 1.5
+height 17
+id 28558
+link "https://webpbn.com/play.cgi?id=28558"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "another Ã  la Norma #28 (dropped letter)"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 green 1
+blue 1 red 2 blue 1 green 1
+red 1 red 2 blue 1
+red 5 blue 1
+red 3 blue 2
+red 2
+black 6
+black 3 red 1 black 2
+black 3 red 1 black 2
+black 1 red 3 black 2
+black 6
+black 6
+0
+black 8
+red 1 red 1
+red 2 red 1
+red 2
+
+columns
+black 1
+red 1 black 6 black 1 red 1
+blue 1 red 3 black 3 red 1 black 2 black 1 red 2
+blue 1 red 1 red 3 black 3 red 1 black 2 black 1
+blue 1 red 5 black 1 red 3 black 2 black 1 red 1
+green 1 blue 1 red 2 blue 1 black 6 black 1 red 3
+green 1 blue 3 black 6 black 1
+black 1

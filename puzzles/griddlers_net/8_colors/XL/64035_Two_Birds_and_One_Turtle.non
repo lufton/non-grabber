@@ -1,0 +1,105 @@
+by "memnune"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/1/08"
+height 47
+id 64035
+link "https://www.griddlers.net/nonogram/-/g/64035"
+medium_time "0:30:22"
+points 50693
+popularity 60.87
+title "Two Birds and One Turtle"
+width 33
+
+color a ffffff
+color b 000000
+color c 4fa222
+color d eed965
+color e 99ba51
+color f 766600
+color g b36f34
+color h eeaed7
+
+rows
+b 3
+b 1 h 3 b 1
+b 3 h 1 b 1 h 1 b 2 b 5
+b 1 h 6 b 1 b 2 c 5 b 2
+b 1 h 4 b 1 h 1 b 4 c 9 b 1
+b 2 h 1 b 1 h 1 b 2 c 13 b 4
+b 3 c 19 b 2
+b 1 c 22 b 1
+b 1 c 23 b 1
+b 3 c 18 b 3 c 3 b 1
+b 1 c 8 b 1 c 11 b 1 d 3 b 1 c 3 b 1
+b 1 c 8 b 1 g 1 b 1 c 10 b 1 d 1 b 1 d 2 b 1 c 2 b 1
+b 1 c 8 b 1 g 2 b 1 c 7 b 3 d 5 b 1 c 1 b 1
+b 1 c 9 b 1 g 3 b 1 c 3 b 1 g 1 b 1 c 1 b 1 d 1 b 2 d 3 b 1
+b 1 c 10 b 2 g 1 b 1 c 2 b 1 g 1 b 1 c 3 b 1 d 4 b 1 c 1 b 1
+b 1 c 11 b 1 g 1 b 1 c 1 b 1 g 1 b 1 c 4 b 5 c 3 b 1
+b 1 c 7 b 1 g 1 b 1 c 1 b 1 g 1 b 2 g 1 b 1 c 5 b 1 g 1 b 1 c 5 b 1
+b 1 c 3 b 1 c 4 b 1 g 1 b 1 c 1 b 1 g 3 b 1 c 4 b 2 g 1 b 3 g 1 b 1 c 2 b 1
+b 1 c 3 b 3 c 2 b 1 g 1 b 1 c 1 b 1 g 2 b 1 c 4 b 1 g 2 b 3 g 1 b 2 c 1 b 2
+b 1 c 3 b 1 g 2 b 1 c 1 b 1 g 1 b 3 g 2 b 1 c 3 b 1 g 2 b 2 g 2 b 2 c 2 b 2
+b 1 c 4 b 1 g 2 b 2 g 1 b 3 g 2 b 1 c 2 b 1 g 5 b 2 c 3 b 2
+b 1 c 5 b 1 g 3 b 1 g 1 b 2 g 2 b 3 g 3 b 3 c 5 b 1
+b 2 c 4 b 3 g 2 b 2 g 6 b 2 c 6 b 2
+b 2 c 6 b 2 g 1 b 1 g 6 b 1 c 7 b 1
+b 1 c 7 b 1 g 8 b 1 c 7 b 1
+b 1 c 8 b 1 g 7 b 1 c 7 b 1
+b 1 c 8 b 1 g 7 b 1 c 7 b 1
+b 1 c 7 b 1 g 7 b 1 c 6 b 1
+b 2 c 6 b 1 g 7 b 1 c 5 b 2
+b 2 c 3 b 2 g 7 b 1 c 4 b 2
+b 3 b 1 g 7 b 5
+g 7 b 1
+b 1 g 6 b 1
+b 1 g 6 b 1
+b 1 g 6 b 1
+b 1 g 6 b 1
+b 1 g 7 b 1
+b 1 g 7 b 1
+e 3 b 1 g 9 b 1 e 1 b 1
+e 1 b 1 e 4 b 1 g 9 b 1 e 1 b 1 e 2 b 1 e 1
+b 1 e 2 b 1 e 3 b 1 g 2 b 4 g 5 b 2 e 2 b 1 e 2
+e 1 b 1 e 2 b 3 g 2 b 2 f 1 b 1 f 1 b 2 g 4 e 2 b 1 e 1 b 1 e 4
+b 2 e 1 b 1 e 2 b 2 g 1 b 1 f 2 b 1 f 1 b 2 f 1 b 1 g 1 b 2 e 9
+e 10 b 1 f 1 b 2 f 1 b 1 f 2 b 1 g 2 b 2 e 8
+e 9 b 2 e 1 b 2 e 1 b 2 e 11
+e 26
+e 6 e 7
+
+columns
+b 5
+b 1 b 6 c 5 b 1 e 1
+b 1 h 1 b 1 b 1 c 11 b 2 b 1 e 2
+b 1 h 2 b 1 b 1 c 13 b 4 b 1 e 1 b 1 e 3
+b 1 h 3 b 1 b 1 c 7 b 3 c 7 b 2 e 1 b 1 e 4
+b 2 h 2 b 5 c 8 b 1 g 1 b 1 c 7 b 1 e 3 b 1 e 4
+b 1 h 3 b 1 h 1 b 1 c 11 b 1 g 2 b 1 c 7 b 1 e 1 b 2 e 6
+b 1 h 1 b 1 h 2 b 1 c 13 b 1 g 2 b 1 c 6 b 1 e 3 b 1 e 5
+b 1 h 3 b 2 c 14 b 1 g 1 b 1 c 7 b 1 e 3 b 2 e 4
+b 4 c 11 b 5 g 1 b 1 c 7 b 1 e 2 b 2 e 4
+b 1 b 1 c 6 b 2 c 3 g 5 b 1 g 1 b 1 c 6 b 1 e 1 b 1 g 2 e 4
+b 1 c 5 b 1 g 2 b 1 c 2 b 5 g 2 b 2 c 4 b 1 b 2 g 2 b 3 e 1
+b 1 c 7 b 1 g 2 b 1 c 4 b 4 g 2 b 6 b 2 g 3 b 1 f 2 b 1 e 1
+b 1 c 8 b 1 g 1 b 10 g 8 b 4 g 4 b 2 f 1 b 1 e 2
+b 1 c 10 g 27 b 1 f 1 b 3 e 1
+b 1 c 10 b 4 g 23 b 2 f 2 b 1 e 1
+b 1 c 13 b 1 g 1 b 4 g 18 b 1 f 1 b 2 e 2
+b 1 c 12 b 1 g 1 b 1 c 3 b 1 g 19 b 2 f 1 b 1 e 1
+b 1 c 11 b 1 g 1 b 1 c 4 b 1 g 19 b 1 f 2 b 1 e 1
+b 1 c 9 b 1 g 1 b 1 c 4 b 1 g 21 b 2 e 2
+b 1 c 9 g 1 b 1 c 4 b 1 g 2 b 16 g 6 e 3
+b 1 c 7 b 2 c 4 b 1 g 3 b 1 c 7 b 1 b 2 g 2 b 1 g 1 e 3
+b 1 c 6 b 1 c 4 b 1 g 3 b 1 c 8 b 1 e 1 b 1 g 1 b 2 e 3
+b 1 c 4 b 4 c 3 b 1 g 1 b 1 g 1 b 1 c 8 b 1 b 2 e 2 b 1 e 3
+b 1 c 3 b 1 d 4 b 3 g 1 b 2 g 1 b 1 c 8 b 1 e 8
+b 1 c 3 b 1 d 1 b 1 d 1 b 1 d 1 b 1 g 1 b 2 g 1 b 1 c 8 b 1 e 2 b 1 e 5
+b 1 c 2 b 1 d 3 b 1 d 1 b 4 g 1 b 1 c 7 b 2 e 1 b 2 e 6
+b 1 c 3 b 1 d 4 b 1 c 1 b 1 g 1 b 1 c 7 b 2 b 1 e 2 b 1 e 4
+b 1 c 3 b 1 d 3 b 1 c 1 g 1 b 2 c 2 b 5 e 6
+b 1 c 3 b 1 d 1 b 1 c 2 b 2 c 3 b 1 e 4
+b 1 c 3 b 1 c 6 b 2 e 3
+b 3 b 1 c 3 b 3 e 3
+b 5

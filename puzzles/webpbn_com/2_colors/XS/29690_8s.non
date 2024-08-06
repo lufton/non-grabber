@@ -1,0 +1,33 @@
+by "Roisin Clark (RC-bunny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Roisin Clark"
+date "Apr 20, 2017"
+description "Seems like there's an 8x8 thing so here's a wee dude."
+difficulty 1.25
+height 8
+id 29690
+link "https://webpbn.com/play.cgi?id=29690"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "8s"
+width 8
+
+rows
+8
+1,2,1
+1,1
+1,2,1
+4,3
+2,3
+1,6
+2,2
+
+columns
+2,2,2
+1,2,1
+1,1,3
+2,2,1
+2,1,1
+1,3
+1,1,4
+2,5

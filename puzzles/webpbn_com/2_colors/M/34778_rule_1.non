@@ -1,0 +1,49 @@
+by "darren jackson (hi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by darren jackson"
+date "Jan  3, 2021"
+description "Elementary Cellular Automata (ECA) rule 1"
+difficulty 1.0
+height 11
+id 34778
+link "https://webpbn.com/play.cgi?id=34778"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "rule 1"
+width 21
+
+rows
+1
+9,9
+1
+9,9
+1
+9,9
+1
+9,9
+1
+9,9
+1
+
+columns
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+0
+1,1,1,1,1,1
+0
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1

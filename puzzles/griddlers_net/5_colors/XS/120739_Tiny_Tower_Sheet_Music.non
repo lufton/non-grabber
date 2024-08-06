@@ -1,0 +1,38 @@
+by "jedslater"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/14/12"
+height 9
+id 120739
+link "https://www.griddlers.net/nonogram/-/g/120739"
+medium_time "0:00:44"
+points 47
+popularity 50.92
+title "Tiny Tower: Sheet Music"
+width 7
+
+color a ffffff
+color b 33ccff
+color c cccccc
+color d 000000
+color f 999999
+
+rows
+b 1
+c 1
+d 2 c 1
+c 3 d 1 c 3
+d 2 f 1
+d 2 c 1
+c 7
+f 1
+b 1 c 6
+
+columns
+c 1 c 1 b 1
+c 1 c 1 c 1
+c 1 d 2 c 1 c 1
+d 4 c 1 c 1
+d 1 c 1 c 1 c 1
+c 1 c 1 c 1
+b 1 c 3 f 1 c 2 f 1 c 1

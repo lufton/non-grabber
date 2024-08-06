@@ -1,0 +1,53 @@
+by "puzzleguzzler"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/2/07"
+height 20
+id 47806
+link "https://www.griddlers.net/nonogram/-/g/47806"
+medium_time "0:02:05"
+points 514
+popularity 62.34
+title "Just a Bunny"
+width 10
+
+color a cccccc
+color b 000000
+color c 969696
+color d ff99cc
+color e 009933
+color g 00ffff
+
+rows
+g 2
+g 1 d 1 g 2 d 1 g 1
+g 1 d 1 g 2 d 1 g 1
+g 1 d 1 d 1 g 1
+g 1 g 1
+0
+0
+b 1 b 1
+0
+g 1 d 2 g 1
+g 2 c 2 c 2 g 2
+g 1 g 1
+0
+c 1 c 1
+c 1 c 1
+c 1 c 1
+c 1 c 1
+c 1 c 2 c 2 c 1
+e 1 c 1 c 2 c 1 e 1
+e 1 c 3 e 2 c 3 e 1
+
+columns
+g 4 g 3 c 5 e 2
+g 1 c 2
+d 3 c 1 c 1 c 1
+b 1 c 1 c 1 c 1
+g 3 d 1 c 1 e 1
+g 3 d 1 c 1 e 1
+b 1 c 1 c 1 c 1
+d 3 c 1 c 1 c 1
+g 1 c 2
+g 4 g 3 c 5 e 2

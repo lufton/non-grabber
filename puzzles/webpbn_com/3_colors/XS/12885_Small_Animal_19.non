@@ -1,0 +1,38 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 20, 2011"
+description "Polar Bear on the pack ice."
+difficulty 1.0
+height 7
+id 12885
+link "https://webpbn.com/play.cgi?id=12885"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Small Animal 19"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 10
+blue 1 black 1 blue 1
+blue 3 blue 1
+blue 4 blue 3 blue 1
+blue 4 blue 3 blue 1
+blue 2 blue 1
+blue 1
+
+columns
+blue 7
+blue 1 black 1 blue 4
+blue 1 blue 3
+blue 1 blue 2
+blue 1
+blue 1 blue 2
+blue 1 blue 2
+blue 1 blue 2
+blue 1
+blue 6

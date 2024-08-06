@@ -1,0 +1,63 @@
+by "litatha"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/22/06"
+height 25
+id 32798
+link "https://www.griddlers.net/nonogram/-/g/32798"
+medium_time "0:08:59"
+points 2278
+popularity 65.76
+title "Little Witch"
+width 15
+
+color a 0000fe
+color b def200
+color e 6b1c36
+color f db95d1
+color g 808080
+color h 000000
+
+rows
+b 1 h 2 b 1
+b 3 h 4 b 3
+b 1 h 6 b 1
+h 8
+h 12
+h 14
+g 1 f 1 h 1 f 2 h 1 f 1 g 1
+g 1 f 6 g 1 b 1
+g 3 f 1 h 2 f 1 g 3 b 2
+b 1 g 4 f 2 g 2 b 2 b 1
+b 3 g 4 h 2 g 1 b 2 g 1
+b 1 g 3 h 3 f 2 b 1 g 1
+g 1 h 4 b 1 f 1 h 1 g 1
+h 3 b 2 h 2
+h 1 b 2 h 2
+b 2 h 2
+e 9
+e 2 g 5 e 2
+e 1 g 1 e 1 g 1 e 1 g 1 e 1
+e 1 g 1 e 1 g 3 e 1 h 1
+e 1 g 3 e 1 g 1 e 1 h 2
+h 1 e 1 g 1 e 1 g 3 e 1 h 2
+h 2 e 1 g 2 e 1 g 2 e 1 h 3
+h 3 e 2 g 3 e 2 h 4
+h 5 e 5 h 5
+
+columns
+b 1 b 1 h 1
+b 3 h 1 b 3 h 2
+b 1 h 2 b 1 h 3
+h 2 g 4 e 2 h 4
+h 3 g 7 e 8 h 1
+h 4 f 2 g 4 h 2 e 1 g 6 e 2
+h 6 f 2 g 2 h 4 b 1 e 1 g 1 e 2 g 1 e 1 g 2 e 1
+h 6 f 2 h 1 f 1 h 4 b 2 e 1 g 5 e 1 g 1 e 1
+h 6 f 2 h 1 f 1 h 3 b 2 h 1 e 1 g 1 e 1 g 1 e 1 g 3 e 1
+h 6 f 2 g 2 f 1 b 2 h 2 e 1 g 6 e 2
+h 4 f 2 g 2 b 1 f 2 h 2 e 8 h 1
+b 1 h 3 g 3 b 3 h 2 e 2 h 6
+b 3 h 2 g 1 b 1 g 3 h 5
+b 1 h 2 b 1 h 3
+h 1 b 3 h 2

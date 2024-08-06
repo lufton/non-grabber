@@ -1,0 +1,111 @@
+by "Carol Brand (KarylAnn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Carol Brand"
+date "Sep 27, 2011"
+description "Tiled roof of St. Stephen's Cathedral in Wien, Ãsterreich (Vienna, Austria)"
+difficulty 2.75
+height 45
+id 15886
+link "https://webpbn.com/play.cgi?id=15886"
+note "published,definitely unique,may require moderate lookahead"
+quality 4.0
+title "From the rooftops of Wien, oh what a sight!"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+red 4 black 1 black 3
+red 1 red 1 black 5
+red 3 black 7
+black 7
+black 4 black 6 black 4
+black 6 black 4 black 6
+black 8 black 6 black 8
+black 10 black 4 black 10
+black 10 black 6 black 10
+black 10 black 6 black 10
+black 10 black 7 black 10
+black 1 black 8 black 9 black 8 black 1
+black 30
+black 11 red 4 red 4 black 10
+black 3 black 8 red 4 red 4 black 8 black 3
+black 3 black 9 red 4 red 4 black 9 black 3
+black 3 black 10 red 4 red 4 black 10 black 3
+black 2 black 5 black 5 red 4 red 4 black 5 black 5 black 2
+black 3 black 6 black 6 black 3
+black 3 black 7 black 7 black 3
+black 3 black 8 black 8 black 3
+black 3 black 8 red 4 red 4 black 8 black 3
+black 3 black 5 black 2 red 4 red 4 black 2 black 5 black 3
+black 3 black 6 black 2 red 3 red 3 black 2 black 6 black 3
+black 2 black 5 black 2 red 3 red 3 black 2 black 5 black 2
+black 5 black 2 red 2 red 2 black 2 black 5
+black 5 black 9 black 5
+black 5 black 11 black 5
+black 3 black 13 black 3
+black 4 black 5 black 5 black 5 black 4
+black 2 black 5 black 3 black 5 black 2
+black 1 red 1 black 3 black 3 black 3 red 1 black 1
+red 3 black 2 black 5 black 2 red 3
+red 3 black 7 red 3
+red 3 black 9 red 3
+red 5 black 3 red 5
+red 1 red 5 black 1 red 5 red 1
+red 1 red 2 black 3 red 2 red 1
+red 1 black 5 red 1
+black 9
+black 4 black 3 black 4
+black 2 black 3 black 2
+black 1
+black 1
+
+columns
+0
+black 1
+black 1 black 2 black 1
+black 2 black 2 black 3
+black 2 black 3 black 4
+black 3 black 3 black 3 black 4
+black 4 black 3 black 1 black 3 black 3
+black 5 black 3 black 5 black 4 red 2
+black 9 black 5 black 5 red 1
+black 15 black 7 red 1 red 1
+black 14 black 7 red 1 red 1
+black 13 black 7 red 4
+black 20 red 4
+black 19 black 2 red 3 red 1
+black 16 black 2 red 3 red 1
+red 1 black 2 black 12 black 3 red 1 red 1
+red 1 black 13 black 5 black 2
+red 1 red 1 black 1 red 5 red 2 black 3 black 6 black 2
+red 1 red 1 black 2 red 5 red 4 black 5 black 1 black 2
+red 1 red 1 black 1 black 3 red 5 red 5 black 3 black 2 black 2
+black 1 red 1 black 3 black 1 black 5 red 5 red 5 black 4 black 3 black 2
+black 1 black 12 black 10 black 5
+black 14 black 18
+black 14 black 10 black 5
+black 13 red 5 red 5 black 4 black 3 black 2
+black 4 black 1 black 5 red 5 red 5 black 3 black 2 black 2
+black 1 black 2 red 5 red 4 black 5 black 1 black 2
+black 1 red 5 red 2 black 3 black 6 black 2
+black 2 black 14 black 5 black 2
+black 17 black 3 red 1 red 1
+black 17 black 2 red 3 red 1
+black 20 black 2 red 3 red 1
+black 20 red 4
+black 13 black 7 red 4
+black 14 black 7 red 1 red 1
+black 14 black 7 red 1 red 1
+black 5 black 2 black 5 black 5 red 1
+black 4 black 2 black 5 black 4 red 2
+black 3 black 2 black 1 black 3 black 3
+black 3 black 3 black 4
+black 2 black 3 black 4
+black 2 black 2 black 3
+black 1 black 2 black 1
+black 1
+0

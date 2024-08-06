@@ -1,0 +1,103 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/18/04"
+height 40
+id 11819
+link "https://www.griddlers.net/nonogram/-/g/11819"
+medium_time "0:32:02"
+points 38677
+popularity 68.18
+title "Goofy"
+width 40
+
+color a 005150
+color b c0c0c0
+color c fffefe
+color d 000000
+color e ffcc80
+color g f58040
+
+rows
+b 3
+b 1 c 2 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 4
+b 1 c 3 d 3
+b 1 c 2 b 1 d 6
+b 1 c 3 d 2 d 8
+b 1 c 2 d 5 d 2 c 3 d 4
+b 1 c 2 d 9 d 1 c 3 d 1 c 1 d 3
+b 3 c 1 d 3 d 4 c 6 d 2
+b 1 c 2 b 2 d 3 e 2 d 1 c 7 d 2
+b 1 c 4 b 1 d 3 e 6 d 1 c 7 d 2
+b 5 c 2 b 1 d 3 e 7 c 1 d 1 c 4 d 2
+b 1 c 3 b 1 c 2 b 1 d 3 e 9 d 1 c 2 d 2
+b 1 c 4 b 5 c 2 d 2 e 3 d 3 e 3 c 1 d 3
+b 3 c 3 b 1 c 6 e 3 d 4 e 5 d 2
+b 1 c 1 b 1 c 3 b 1 c 6 e 5 d 4 e 4 d 1
+b 1 c 2 b 6 c 4 e 6 d 3 e 4 d 2
+b 1 c 6 b 2 c 3 e 3 d 1 e 3 d 2 e 5 d 2
+b 1 c 6 b 1 c 3 e 2 g 1 d 2 e 9 d 2
+b 1 c 6 b 1 c 2 e 2 g 2 d 2 e 7 d 2
+b 1 c 8 e 2 g 3 e 5 d 2
+b 1 c 7 e 7 d 2
+b 1 c 6 e 6 d 2
+b 1 c 6 g 3 d 2 e 4 d 2
+g 1 d 2 c 5 g 3 d 5 g 1 d 2
+g 2 d 4 g 4 d 3 g 4 d 4 g 2 d 2
+g 2 d 3 g 4 d 2 g 11 d 2
+g 3 d 2 g 5 d 2 g 11 d 1 d 2
+g 9 d 2 g 11 d 3 g 2 d 2
+g 9 d 2 g 10 d 3 g 5
+g 8 d 2 g 10 d 2 g 9
+g 7 d 2 g 10 d 2 g 11
+g 6 d 2 g 10 d 2 g 13
+g 6 d 1 g 10 d 2 g 15
+g 4 d 3 g 9 d 3 g 17
+g 3 d 4 g 8 d 3 g 3 g 10
+g 2 d 4 g 9 d 2 g 3 g 10
+g 1 d 5 g 8 d 3 g 3 g 10
+
+columns
+g 9
+g 10 d 1
+b 3 b 4 g 9 d 2
+b 1 c 2 b 2 b 2 c 1 b 1 c 2 b 1 g 10 d 3
+b 1 c 4 b 1 b 2 c 2 b 2 c 2 b 2 g 3 d 1 g 6 d 4
+b 1 c 4 b 2 b 1 c 1 b 1 c 4 b 1 c 3 b 4 d 4 g 6 d 4
+b 1 c 5 b 3 c 2 b 1 c 4 b 1 c 7 d 3 g 5 d 4 g 2
+b 1 c 6 b 1 c 2 b 3 c 2 b 1 c 8 d 2 g 4 d 2 g 5
+b 1 c 3 b 2 c 3 b 4 c 8 d 1 g 4 d 2 g 6
+c 1 b 2 c 2 b 1 c 2 b 1 c 8 g 4 d 2 g 7
+b 3 c 2 b 2 c 7 g 3 d 2 g 8
+b 1 c 3 b 3 c 5 g 2 d 2 g 9
+c 9 g 1 d 2 g 10
+c 8 d 2 g 11
+c 5 d 1 g 11 d 1
+d 1 g 9 d 3
+g 9 d 4
+d 6 g 9 d 3 g 2
+d 8 g 9 d 3 g 3
+d 8 g 8 d 2 g 5
+d 3 g 1 d 2 g 4 d 2 g 4
+d 3 d 3 g 3 d 2 g 4
+d 2 e 3 e 8 d 3 g 3 d 1 g 5
+d 1 e 15 d 2 g 2 d 2 g 5
+d 1 e 9 g 3 e 3 d 1 g 2 d 2 g 6
+d 1 e 7 d 2 g 2 e 3 g 2 d 1 g 6
+d 1 e 3 d 2 e 3 d 2 g 1 e 3 g 7
+d 1 e 3 d 3 e 3 d 1 e 3 g 8
+d 3 e 2 d 4 e 5 g 8
+d 3 c 3 e 2 d 4 e 3 g 8
+d 2 c 4 d 1 e 3 d 3 e 3 g 8
+d 2 c 6 d 1 e 8 g 7
+d 3 c 8 e 6 g 6
+d 3 c 1 d 1 c 5 d 1 e 6 g 5
+d 4 c 5 d 2 e 6 g 4
+d 4 c 3 d 4 e 2 g 4
+d 8 d 15 g 3
+d 6 d 13 g 2
+g 1
+0

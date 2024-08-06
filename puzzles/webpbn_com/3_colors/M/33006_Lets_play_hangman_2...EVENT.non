@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Oct  6, 2019"
+description "Let's go over the rules... One guess at a time. I put in the letter or body part and republish. Don't everyone shout out letters and solution if it isn't "your turn" Be patient with me. I do have a life outside of the little box on your desk."
+difficulty 1.75
+height 15
+id 33006
+link "https://webpbn.com/play.cgi?id=33006"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Let's play hangman 2...EVENT"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 3 black 1 black 1 black 1 black 1
+0
+black 3 black 3 black 3 black 3 black 3 black 4
+green 1 black 1
+black 3 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 3 black 3 black 1
+black 1
+black 3 black 3 black 3 black 3 black 3
+
+columns
+black 5 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 1 black 2 black 1
+0
+black 5 black 1 black 4 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 4 black 1
+0
+black 3 black 1 black 5 black 1
+black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1
+0
+black 3 black 1 black 5 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+0
+black 5 black 1
+black 1 black 1
+black 2 black 2 black 1
+0
+black 1 green 1
+black 1
+black 1 black 1
+black 9
+black 1

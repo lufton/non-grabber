@@ -1,0 +1,91 @@
+by "Scott C (estray98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Scott C"
+date "Sep 15, 2008"
+description "A book shelf with various objects.."
+difficulty 2.5
+height 40
+id 3557
+link "https://webpbn.com/play.cgi?id=3557"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "WC#4 It can store more then just books =>)"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 30
+black 30
+black 1 red 11 black 1
+black 1 black 2 red 3 black 2 red 3 black 2 red 1 black 9 red 1 black 1
+black 1 black 1 red 2 black 3 red 3 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 black 2 red 2 black 2 red 2 black 2 red 1 black 1 red 3 red 3 black 1 red 1 black 1
+black 1 black 4 red 2 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 red 2 red 3 black 1 red 1 red 1 red 1 red 1 black 1 red 1 black 1
+black 1 red 2 red 4 black 9 red 1 black 1
+black 1 red 4 red 14 black 1
+black 30
+black 30
+black 1 black 1
+black 1 red 2 black 1 black 1 black 1
+black 1 red 3 red 1 red 1 red 3 black 1
+black 1 red 3 red 1 red 3 red 5 black 1
+black 1 black 5 red 1 red 13 black 1
+black 1 black 3 red 1 red 12 black 1
+black 1 black 3 red 9 black 1
+black 30
+black 30
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 red 1 black 1 red 1 black 14 black 1
+black 1 red 2 black 1 red 2 red 1 red 1 black 1 black 1
+black 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1
+black 1 black 3 black 13 black 1
+black 1 red 1 black 1 red 13 black 1 black 1
+black 1 red 5 black 2 red 13 black 2 black 1
+black 30
+black 30
+black 1 black 1
+black 1 red 2 red 2 black 1
+black 1 red 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 red 2 black 1
+black 1 red 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 red 2 black 1
+black 1 red 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 red 2 black 1
+black 1 red 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 red 2 black 1
+black 1 red 3 black 2 black 2 black 2 black 2 black 2 black 2 black 2 red 3 black 1
+black 30
+black 30
+
+columns
+black 40
+black 2 black 2 black 2 black 2 red 1 black 2
+black 2 black 2 black 2 black 2 red 1 black 1 red 1 black 2 red 6 black 2
+black 2 black 1 black 1 black 2 black 1 black 2 red 3 black 1 red 1 black 2 red 6 black 2
+black 2 red 2 black 1 black 2 red 2 black 5 black 5 red 2 black 2 black 2
+black 2 red 3 black 2 red 2 black 5 red 3 black 1 red 1 black 2 black 7
+black 2 red 1 black 1 red 1 black 1 red 1 black 2 red 2 black 5 red 1 black 1 red 1 black 2 black 7
+black 2 black 4 red 3 black 2 black 1 black 2 black 2 black 2
+black 2 black 4 red 3 black 2 black 2 black 2 black 7
+black 2 red 3 black 1 red 1 black 2 black 2 black 2 black 7
+black 2 red 3 black 2 red 3 black 2 black 3 black 2
+black 2 red 2 black 1 black 2 red 1 red 1 black 2 black 4 black 7
+black 2 black 1 black 1 black 2 red 1 black 2 black 1 black 1 red 2 black 2 black 7
+black 2 black 2 black 2 red 1 red 2 black 2 black 1 black 1 red 2 black 2 black 2
+black 2 red 2 black 2 red 4 black 2 black 1 black 1 red 2 black 2 black 7
+black 2 red 3 black 2 red 4 black 2 black 1 black 1 red 2 black 2 black 7
+black 2 red 4 black 2 red 4 black 2 black 1 red 2 black 1 red 2 black 2 black 2
+black 2 red 8 black 2 red 3 black 2 black 1 black 1 red 2 black 2 black 7
+black 2 red 1 black 6 red 1 black 2 red 3 black 2 black 1 black 1 red 2 black 2 black 7
+black 2 red 1 black 1 red 1 red 1 black 1 red 1 black 2 red 3 black 2 black 1 black 1 red 2 black 2 black 2
+black 2 red 1 black 1 red 3 black 1 red 1 black 2 red 3 black 2 black 1 black 1 red 2 black 2 black 7
+black 2 red 1 black 1 red 1 red 1 black 1 red 1 black 2 black 1 red 4 black 2 black 1 red 2 black 1 red 2 black 2 black 7
+black 2 red 1 black 1 black 1 red 1 black 2 red 5 black 2 black 1 black 1 red 2 black 2 black 2
+black 2 red 1 black 1 red 1 red 1 black 1 red 1 black 2 red 4 black 2 black 3 black 1 red 2 black 2 black 7
+black 2 red 1 black 1 red 3 black 1 red 1 black 2 black 1 red 4 black 2 black 1 black 1 red 2 black 2 black 7
+black 2 red 1 black 1 red 1 red 1 black 1 red 1 black 2 red 2 black 2 black 1 black 4 black 2
+black 2 red 1 black 6 red 1 black 2 black 2 black 3 red 6 black 2
+black 2 red 8 black 2 black 2 black 2 red 6 black 2
+black 2 black 2 black 2 black 2 red 1 black 2
+black 40

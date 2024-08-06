@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Nov 10, 2017"
+description "A posh chair"
+difficulty 1.5
+height 20
+id 30442
+link "https://webpbn.com/play.cgi?id=30442"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Posh"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 6
+black 2 red 5 black 1
+black 1 red 6 black 1
+black 1 red 6 black 1
+black 1 red 6 black 1
+black 2 red 6 black 1
+black 7 red 1 black 6
+black 1 red 4 black 1 red 1 black 1 black 1
+black 8 black 1
+black 2 red 3 black 1 red 6 black 1
+black 13
+black 14
+black 15
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 2 black 2
+
+columns
+0
+0
+0
+black 6 black 2
+black 2 red 3 black 10 black 1
+black 1 red 5 black 1 red 1 black 5 black 3
+black 1 red 5 black 1 red 1 black 1 red 1 black 3
+black 1 red 5 black 1 red 1 black 1 red 1 black 3
+black 1 red 5 black 1 red 1 black 1 red 1 black 3
+black 1 red 5 black 7
+black 4 red 3 black 1 red 1 black 3 black 3
+black 4 red 1 black 5 black 1
+black 1 red 1 black 4
+black 1 red 1 black 3
+black 1 red 1 black 3
+black 1 red 1 black 3 black 3
+black 9 black 1
+black 3
+0
+0

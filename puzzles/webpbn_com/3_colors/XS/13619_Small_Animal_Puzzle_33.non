@@ -1,0 +1,36 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr 25, 2011"
+description "Dolphin"
+difficulty 1.0
+height 5
+id 13619
+link "https://webpbn.com/play.cgi?id=13619"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Small Animal Puzzle 33"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3
+black 5
+black 3
+blue 2 black 1 blue 7
+blue 10
+
+columns
+blue 2
+black 1 blue 2
+black 2 blue 1
+black 2 blue 2
+black 2 blue 2
+black 2 blue 2
+black 2 blue 2
+black 1 blue 2
+blue 2
+blue 2

@@ -1,0 +1,57 @@
+by "Marie-Louise Ambrey (marz71)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Marie-Louise Ambrey"
+date "Nov 28, 2011"
+description "A Knights Helmet."
+difficulty 2.5
+height 20
+id 16545
+link "https://webpbn.com/play.cgi?id=16545"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "Head Protection #1"
+width 20
+
+rows
+9
+2,7
+2,9
+2,6,1
+1,4,3
+1,2,4,3
+3,1,1
+2,1,2,1
+2,1,2,1
+1,1,1,6
+1,1,4,1
+1,1,1,1,7
+1,1,3,1
+1,2,2,7
+2,1,2,1
+1,2,2,2
+3,2,4
+5,2,2
+3,2,2
+11
+
+columns
+7
+2,3
+2,3
+2,3,1
+1,3,7,2
+1,3,1,4
+4,1,6,3
+4,1,2,3,3
+4,1,1,3,2,2
+3,1,1,1,2,1
+3,2,4,3
+5,1,2,2
+2,2,1,1,2,1
+1,1,1,1,2,1
+1,1,1,1,2,1
+1,1,1,1,4
+3,1,1,2,2
+1,1,1,1,1
+2,2
+2

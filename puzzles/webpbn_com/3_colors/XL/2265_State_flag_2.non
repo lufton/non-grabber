@@ -1,0 +1,99 @@
+by "Steve R. (bonfire98a.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Steve R."
+date "Feb 10, 2008"
+description "The flag of Ohio, the only one of the 50 state flags not to be rectangular"
+difficulty 2.0
+height 30
+id 2265
+link "https://webpbn.com/play.cgi?id=2265"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 3.0
+title "State flag 2"
+width 48
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2 black 4
+blue 4 black 8
+blue 6 black 12
+blue 8 black 16
+blue 5 blue 3 black 20
+blue 5 blue 5 black 24
+blue 2 blue 5 blue 4 black 27
+blue 2 blue 1 blue 2 blue 2 blue 1 black 27
+blue 5 blue 6 blue 3 black 20
+blue 9 blue 7 black 13
+blue 3 blue 2 black 4 blue 7 black 6
+blue 3 blue 1 black 8 blue 8 black 1
+blue 6 black 8 blue 5 blue 3 black 1
+blue 5 black 10 blue 4 blue 5 black 14
+blue 2 blue 1 black 10 blue 1 blue 4 blue 4 black 11
+blue 2 blue 1 black 10 blue 1 blue 4 blue 4 black 11
+blue 5 black 10 blue 4 blue 5 black 14
+blue 6 black 8 blue 5 blue 3 black 1
+blue 3 blue 1 black 8 blue 8 black 1
+blue 3 blue 2 black 4 blue 7 black 6
+blue 9 blue 7 black 13
+blue 5 blue 6 blue 3 black 20
+blue 2 blue 1 blue 2 blue 2 blue 1 black 27
+blue 2 blue 5 blue 4 black 27
+blue 5 blue 5 black 24
+blue 5 blue 3 black 20
+blue 8 black 16
+blue 6 black 12
+blue 4 black 8
+blue 2 black 4
+
+columns
+blue 30
+blue 30
+black 1 blue 5 blue 6 blue 6 blue 5 black 1
+black 1 blue 5 blue 2 blue 2 blue 2 blue 2 blue 5 black 1
+black 2 blue 8 blue 6 blue 8 black 2
+black 2 blue 2 blue 1 blue 4 blue 4 blue 1 blue 2 black 2
+black 2 blue 1 blue 1 blue 2 black 4 blue 2 blue 1 blue 1 black 2
+black 2 blue 7 black 8 blue 7 black 2
+black 3 blue 6 black 8 blue 6 black 3
+black 3 blue 2 blue 1 black 10 blue 1 blue 2 black 3
+black 4 blue 1 blue 1 black 10 blue 1 blue 1 black 4
+black 4 blue 4 black 10 blue 4 black 4
+black 4 blue 3 black 10 blue 3 black 4
+black 4 blue 1 blue 1 black 8 blue 1 blue 1 black 4
+black 4 blue 1 blue 1 black 8 blue 1 blue 1 black 4
+black 5 blue 4 black 4 blue 4 black 5
+black 5 blue 5 blue 5 black 5
+black 5 blue 14 black 5
+black 4 blue 5 blue 5 black 4
+black 4 blue 5 blue 5 black 4
+black 4 blue 10 black 4
+black 5 blue 2 blue 2 blue 2 black 5
+black 5 blue 1 blue 2 blue 1 black 5
+black 5 blue 8 black 5
+black 4 blue 2 blue 2 black 4
+black 4 blue 2 blue 2 black 4
+black 4 blue 4 black 4
+black 5 blue 4 black 5
+black 5 black 1 blue 2 black 1 black 5
+black 5 black 1 blue 2 black 1 black 5
+black 4 black 4 black 4
+black 4 black 4 black 4
+black 4 black 4 black 4
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 4 black 4 black 4
+black 4 black 4 black 4
+black 4 black 4 black 4
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 5 black 1 black 1 black 5
+black 4 black 1 black 1 black 4
+black 5 black 5
+black 4 black 4
+black 3 black 3
+black 2 black 2
+black 1 black 1

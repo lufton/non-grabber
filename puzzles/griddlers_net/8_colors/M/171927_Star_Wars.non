@@ -1,0 +1,65 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/27/16"
+height 25
+id 171927
+link "https://www.griddlers.net/nonogram/-/g/171927"
+medium_time "0:04:43"
+points 976
+popularity 67.15
+title "Star Wars"
+width 15
+
+color a 636363
+color b 7b3900
+color c 0094ad
+color d ffce94
+color e 6b0821
+color f 08295a
+color g c6c6c6
+color h 3d2514
+
+rows
+b 3
+c 1 b 5
+c 1 b 2 d 2 b 3
+c 1 b 1 d 4 b 3
+c 1 b 1 c 1 d 3 c 1 b 1
+c 1 b 1 d 5 b 1
+c 1 b 1 d 3 b 1
+c 1 d 1
+c 1 e 1 f 2 e 3 f 2 e 1
+c 1 e 2 f 2 e 3 f 2 e 2
+g 1 h 2 f 2 e 3 f 2 h 2
+h 2 f 2 e 1 f 2 h 3
+g 1 f 2 e 1 f 2
+f 5
+h 5
+e 1 f 3 e 1
+e 1 f 5 e 1
+e 1 f 5 e 1
+e 1 f 5 e 1
+f 5
+h 2 h 2
+h 2 h 2
+h 2 h 2
+h 3 h 3
+h 3 h 3
+
+columns
+c 9 g 1 h 1 g 1
+h 2
+e 1 h 1
+e 2
+b 4 f 3 e 3 h 2
+b 2 d 1 c 1 d 1 b 1 f 6 h 1 e 1 f 4 h 5
+b 2 d 5 e 3 f 3 h 1 f 5 h 5
+b 2 d 6 e 5 f 1 h 1 f 5
+b 3 d 4 e 3 f 3 h 1 f 5 h 5
+b 3 c 1 d 1 b 1 f 6 h 1 e 1 f 4 h 5
+b 4 f 3 e 3 h 2
+b 1 e 2
+e 1 h 2
+h 2
+h 1

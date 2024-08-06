@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb  3, 2011"
+description "Oh no, it's heading for the water. See puzzles 12012 and 12022."
+difficulty 1.5
+height 20
+id 12039
+link "https://webpbn.com/play.cgi?id=12039"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "A moment after "a moment later""
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+black 3
+black 2 black 2
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 3
+0
+0
+0
+black 6 blue 14
+green 5 black 1 blue 14
+green 5 black 2 blue 13
+green 7 black 1 blue 12
+green 7 black 2 blue 11
+
+columns
+black 1 green 4
+black 1 green 4
+black 1 green 4
+black 1 green 4
+black 1 green 4
+black 3 green 2
+blue 2 black 1 green 2
+black 3 blue 3 black 2
+black 2 black 2 blue 4 black 1
+black 2 black 2 blue 5
+black 1 black 1 blue 5
+black 2 black 2 blue 5
+black 2 black 2 blue 5
+black 3 blue 5
+blue 5
+blue 5
+blue 5
+blue 5
+blue 5
+blue 5

@@ -1,0 +1,57 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "May 20, 2013"
+description "A crane."
+difficulty 2.0
+height 20
+id 21981
+link "https://webpbn.com/play.cgi?id=21981"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "You lift me up."
+width 20
+
+rows
+3
+5
+2,1,2
+1,2,2
+1,1,2,1
+1,2,2
+1,1,3,1
+1,2,1,2
+1,1,1,2,1
+1,3,2
+1,2,3
+1,2,1,2
+1,2,1,2
+2,3,1
+3,2,1
+2,2,1
+1,1,2,1
+2,1,3
+2,2,2
+3,1
+
+columns
+3
+2,2
+2,2
+13,1
+2,2
+2,3
+4
+2,3
+2,3
+2,3
+2,2
+8
+2,2
+2,2
+2,2
+8
+2,2
+2,2
+2,2
+1,1,1,8

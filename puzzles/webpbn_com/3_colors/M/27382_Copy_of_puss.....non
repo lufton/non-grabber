@@ -1,0 +1,54 @@
+by "abigial parks orendorff ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by abigial parks orendorff"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 15
+id 27382
+link "https://webpbn.com/play.cgi?id=27382"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Copy of puss...."
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 1
+black 3
+black 2 black 1 green 1 black 3
+black 1 black 6
+black 4 black 5
+black 1 black 6
+black 1 black 6
+black 3 black 3 black 7
+black 3 black 3 black 3 black 3
+black 3 black 3 black 2 black 1 black 1
+black 5 black 5 black 3 black 1
+black 6 black 6
+black 6 black 6
+0
+
+columns
+black 2
+black 3
+black 3
+black 6
+black 6
+black 1 black 6
+black 3
+black 1 black 6
+black 1 black 6
+black 2 black 6
+black 1 black 3
+black 2 black 2 black 3
+black 1 green 1 black 1 black 5 black 2
+black 11
+black 7 black 1
+black 9
+black 6
+black 7

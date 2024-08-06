@@ -1,0 +1,48 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/9/07"
+height 15
+id 53033
+link "https://www.griddlers.net/nonogram/-/g/53033"
+medium_time "0:02:58"
+points 218
+popularity 59.77
+title "Rose"
+width 10
+
+color a ffffff
+color b ffbdce
+color c ff00c6
+color d ce0000
+color e 007b00
+color f 00b500
+
+rows
+d 3
+d 2 b 1
+b 2 d 1 b 2
+c 2 b 4
+c 2 b 4
+c 2 b 4
+c 3 b 3
+c 3 b 3
+c 2 b 3
+c 2 b 1 e 3
+f 4 e 3
+f 6
+f 2 f 2
+f 1 f 2
+f 1 f 2
+
+columns
+b 1 c 1
+d 2 b 1 c 5
+d 3 b 1 c 5 f 2 f 1
+d 1 b 5 c 4 f 4
+b 7 c 1 f 2
+b 7 f 3
+b 5 e 1 f 4
+e 2 f 1 f 2
+e 2 f 1
+e 1

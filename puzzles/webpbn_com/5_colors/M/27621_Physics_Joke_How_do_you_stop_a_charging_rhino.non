@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 27621
+link "https://webpbn.com/play.cgi?id=27621"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Physics Joke: How do you stop a charging rhino?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5
+blue 2 blue 2
+blue 2 blue 2
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 2 blue 2
+blue 2 blue 2
+blue 5
+green 1 green 1 black 3
+green 1 green 1 black 3
+green 1 green 1 black 3
+green 1 green 1 black 1 red 1 black 1
+green 1 green 1 red 1
+green 1 green 1 red 2
+green 1 green 1 red 2
+green 1 green 1 red 2
+black 11 red 1
+black 11 red 2
+black 11 red 3
+
+columns
+0
+black 3
+blue 5 black 3
+blue 2 blue 2 black 3
+blue 2 blue 2 green 8 black 3
+blue 1 blue 1 black 3
+blue 1 blue 1 black 3
+blue 1 blue 1 black 3
+blue 2 blue 2 green 8 black 3
+blue 2 blue 2 black 3
+blue 5 black 3
+black 3
+red 1
+red 1
+red 2
+red 3
+red 2
+black 4 red 2
+black 3 red 3
+black 4

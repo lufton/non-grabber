@@ -1,0 +1,69 @@
+by "goshenmichael"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/27/13"
+height 25
+id 131299
+link "https://www.griddlers.net/nonogram/-/g/131299"
+medium_time "0:06:53"
+points 2823
+popularity 72.35
+title "Target"
+width 20
+
+color a ffffff
+color b 3300cc
+color c ffff33
+color d ff0000
+color e 00d700
+color f 000000
+color g 663300
+
+rows
+g 2 e 9
+g 2 d 1 e 11
+c 1 g 1 e 4 b 5 e 4
+e 1 g 1 e 3 b 7 e 4
+e 2 g 1 e 1 b 4 c 1 b 4 e 4
+e 4 g 1 b 3 c 3 b 4 e 4
+e 3 b 2 g 1 b 1 c 5 b 4 e 3
+e 2 b 4 g 1 c 2 d 1 c 3 b 4 e 2
+e 2 b 3 c 2 g 1 d 3 c 3 b 3 e 2
+e 2 b 2 c 3 d 1 g 1 d 3 c 3 b 2 e 2
+e 2 b 3 c 3 d 1 f 1 d 1 c 3 b 3 e 2
+e 2 b 4 c 3 d 1 c 3 b 4 e 2
+e 3 b 4 c 5 b 4 e 3
+e 4 b 4 c 3 b 4 e 4
+e 4 b 4 c 1 b 4 e 4
+e 4 b 7 e 4
+e 4 b 5 e 4
+e 11
+f 3 e 9 f 3
+f 4 f 3 f 4
+f 4 f 3 f 4
+f 3 f 3 f 3
+f 2 f 3 f 2
+f 2 f 3 f 2
+f 2 f 3 f 2
+
+columns
+g 2
+g 2 c 1 e 9
+d 1 g 1 e 12
+g 1 e 3 b 5 e 4 f 7
+e 2 g 1 e 1 b 7 e 4 f 7
+e 4 g 1 b 3 c 1 b 4 e 4 f 4
+e 4 b 2 g 1 b 1 c 3 b 4 e 4 f 2
+e 3 b 4 g 1 c 4 b 4 e 3
+e 2 b 4 c 2 g 1 d 1 c 3 b 4 e 2
+e 2 b 3 c 3 d 1 g 1 d 1 c 3 b 3 e 2 f 6
+e 2 b 2 c 3 d 3 f 1 d 1 c 3 b 2 e 2 f 6
+e 2 b 3 c 3 d 3 c 3 b 3 e 2 f 6
+e 2 b 4 c 3 d 1 c 3 b 4 e 2
+e 3 b 4 c 5 b 4 e 3
+e 4 b 4 c 3 b 4 e 4 f 2
+e 4 b 4 c 1 b 4 e 4 f 4
+e 4 b 7 e 4 f 7
+e 4 b 5 e 4 f 7
+e 11
+e 9

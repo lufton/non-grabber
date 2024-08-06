@@ -1,0 +1,75 @@
+by "Telula"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/27/10"
+height 25
+id 103106
+link "https://www.griddlers.net/nonogram/-/g/103106"
+medium_time "0:09:41"
+points 17657
+popularity 61.41
+title "Beach Time"
+width 25
+
+color a cccc00
+color b 999900
+color c ffff00
+color d ff0000
+color e 00d700
+color f 3333ff
+color g 00ffff
+color h ff00ff
+
+rows
+g 23 c 2
+g 24 c 1
+g 25
+f 21 h 4
+h 8
+h 10
+h 2 h 12
+e 2 h 2 h 13
+d 2 e 2 h 2 h 7
+c 2 d 2 e 2 h 2 h 4
+c 2 d 2 e 2 h 1 f 1 h 2
+c 2 d 2 e 1 h 2 d 2 g 1 f 2 h 2
+c 2 d 1 e 2 h 2 d 1 g 1 d 3 f 1 h 1
+c 1 d 2 e 2 h 2 d 2 g 1 d 2 f 2
+c 2 d 2 e 2 h 2 g 1 d 2 g 1 f 1 b 1
+c 2 d 2 e 2 h 1 b 3 f 1 b 2
+c 2 d 2 e 1 h 2 f 2 b 2
+c 2 d 1 e 2 h 2 f 1
+b 1 b 1 b 1 b 1 c 1 d 2 e 2 h 2 f 1 b 4
+b 3 b 3 c 2 d 2 e 2 h 1 f 1 b 6
+b 8 c 2 d 2 e 1 f 1 b 6
+b 8 c 2 d 1 f 1 b 6
+b 3 b 3 c 1 b 6
+b 2
+b 1
+
+columns
+g 3 f 1
+g 3 f 1 b 5
+g 3 f 1 c 1 b 4
+g 3 f 1 d 1 c 2 b 5
+g 3 f 1 e 1 d 2 c 2 b 2
+g 3 f 1 h 1 e 2 d 2 c 2 b 2
+g 3 f 1 h 2 e 2 d 2 c 3 b 5
+g 3 f 1 h 2 e 2 d 3 c 2 b 4
+g 3 f 1 h 2 e 3 d 2 c 2 b 5
+g 3 f 1 h 3 e 2 d 2 c 2
+g 3 f 1 h 2 e 2 d 2 c 3
+g 3 f 1 h 2 e 2 d 3 c 2
+g 3 f 1 h 1 h 2 e 3 d 2 c 2
+g 3 f 1 h 2 h 3 e 2 d 2 c 2
+g 3 f 1 h 2 h 2 e 2 d 2
+g 3 f 1 h 3 d 2 h 2 e 2
+g 3 f 1 h 3 d 1 g 1 d 1 g 1 h 2
+g 3 f 1 h 4 d 2 g 1 d 1 b 1
+g 3 f 1 h 5 g 1 d 3 b 1 f 3
+g 3 f 1 h 5 d 2 g 1 b 1 f 3 b 4
+g 3 f 1 h 5 f 4 b 4
+g 3 h 7 f 3 b 3 b 5
+g 3 h 7 f 2 b 2 b 5
+c 1 g 2 h 9 b 6
+c 2 g 1 h 10 b 7

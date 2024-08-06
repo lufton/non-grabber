@@ -1,0 +1,57 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/15/18"
+height 20
+id 195534
+link "https://www.griddlers.net/nonogram/-/g/195534"
+medium_time "0:04:02"
+points 805
+popularity 81.71
+title "Witch"
+width 13
+
+color a ffffff
+color b 000000
+color c ff6600
+color d cc0000
+color e 00cc00
+color f ffcc99
+color g ff9900
+
+rows
+b 2
+b 2
+b 3
+b 5
+b 1 d 5 b 1
+b 9
+b 3 c 5 b 3
+c 2 f 1 c 4
+c 1 f 1 e 1 f 1 e 1 f 1 c 1
+g 1 c 1 f 5 c 1 g 1
+g 1 c 1 f 2 d 1 f 2 g 2
+g 3 c 1 f 3 c 1 g 3
+g 3 b 7 g 3
+g 1 b 4 b 4 g 1
+b 3 g 1 b 3 g 1 b 3
+g 1 b 1 b 2 b 2 b 1 g 1
+b 7
+b 9
+b 11
+d 3 d 3
+
+columns
+g 1
+b 1 g 3 b 1 g 1 b 1
+b 2 g 4 b 3 b 2
+b 3 c 4 g 1 b 3 b 3 d 1
+b 1 d 1 b 1 c 2 f 3 c 1 b 2 g 1 b 4 d 1
+b 2 d 1 b 1 c 1 f 1 e 1 f 3 b 7 d 1
+b 3 d 1 b 1 c 2 f 2 d 1 f 1 b 1 b 1 b 3
+b 4 d 1 b 1 c 2 e 1 f 3 b 7 d 1
+b 1 b 1 d 1 b 1 c 2 f 3 c 1 b 2 g 1 b 4 d 1
+b 3 c 3 g 2 b 3 b 3 d 1
+b 2 g 4 b 3 b 2
+b 1 g 3 b 1 g 1 b 1
+g 1

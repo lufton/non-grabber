@@ -1,0 +1,41 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Sep 29, 2017"
+description "G4S plc (formerly Group 4 Securicor) is a British multinational security services company headquartered in Crawley, England."
+difficulty 1.25
+height 10
+id 30244
+link "https://webpbn.com/play.cgi?id=30244"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "... for S"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2 black 6 red 2
+black 8 red 1
+black 4 red 2 black 3 red 1
+black 3 red 7
+black 2 red 1 black 5
+black 2 black 5
+black 3 red 1 black 3
+black 4 black 4
+black 8 red 1
+black 6 red 1
+
+columns
+red 1 black 6
+red 1 black 8
+black 4 black 4
+black 3 red 1 black 3
+black 2 red 3 black 2
+black 2 red 2 black 2 black 2
+black 3 red 1 black 2 red 1 black 3
+black 3 red 1 black 6
+red 1 black 2 red 1 black 5
+red 4 black 4 red 2

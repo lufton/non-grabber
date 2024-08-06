@@ -1,0 +1,52 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Aldege Cholette"
+date "Jun 20, 2014"
+description "this isn't a rock song per se,but it is an older very popular song by an American icon."
+difficulty 1.75
+height 20
+id 24850
+link "https://webpbn.com/play.cgi?id=24850"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "let's stump Kim # 12...also a rebus"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 3 black 3
+black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 1
+black 3 black 1 blue 1 black 1
+black 3 blue 1
+blue 1 blue 1
+red 2 blue 1 red 3
+red 2 red 2
+red 1 red 2
+red 1 blue 1 blue 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1 red 1
+red 1 red 1 red 1
+red 2 red 1 red 1
+red 1 red 2
+
+columns
+black 1 black 1 black 1 red 2
+black 1 black 3 black 1 red 8
+black 2 black 1 black 1 black 2 red 2
+black 1 black 1 black 1 red 1 blue 1
+black 2 black 2 blue 2 red 1
+black 1 black 1 black 1 blue 2 red 1 blue 1
+black 1 black 1 blue 1 red 3
+black 5 red 9
+red 1
+red 3

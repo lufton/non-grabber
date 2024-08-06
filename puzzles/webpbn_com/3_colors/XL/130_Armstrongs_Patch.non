@@ -1,0 +1,86 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Dec 14, 2004"
+description "The NASA Logo."
+difficulty 3.5
+height 30
+id 130
+link "https://webpbn.com/play.cgi?id=130"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.25
+title "Armstrong's Patch"
+width 35
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 9
+blue 9 blue 3
+blue 5 blue 2 blue 1 blue 4 black 1
+blue 12 blue 6 black 2
+blue 8 blue 12 black 2
+blue 5 blue 3 blue 11 black 3
+blue 5 blue 3 blue 13 black 4
+blue 5 blue 1 blue 4 blue 10 black 5
+blue 5 blue 3 blue 3 blue 6 black 6 blue 1
+blue 7 blue 7 blue 3 black 7 blue 3
+blue 7 blue 8 black 1 black 4 blue 1 black 2 blue 4
+blue 2 blue 3 blue 1 blue 1 blue 1 black 3 black 1 blue 1 black 2 blue 4
+blue 2 blue 2 blue 1 blue 1 black 3 black 2 black 2 blue 1 blue 4
+blue 2 blue 2 blue 1 black 1 black 2 blue 2 black 2 blue 1 blue 3
+blue 2 blue 1 blue 1 black 2 black 1 blue 2 black 2 blue 2 blue 1 blue 3
+blue 2 blue 1 black 1 black 2 blue 1 blue 3 black 2 blue 2 blue 1 blue 3
+blue 2 blue 1 black 1 blue 1 blue 3 black 2 blue 1 blue 2
+blue 2 black 2 blue 1 blue 1 blue 1 blue 1 black 2 blue 1 blue 1 blue 3 blue 2
+blue 1 black 1 black 1 blue 2 blue 1 blue 1 blue 1 blue 1 black 2 blue 2 blue 3 blue 2
+black 2 blue 10 blue 2 black 2 blue 5 blue 7
+black 1 blue 12 black 2 blue 6 blue 2 blue 4
+black 2 blue 11 black 2 blue 7 blue 3 blue 1
+black 1 blue 2 blue 7 black 2 blue 4 blue 1 blue 5
+blue 5 blue 2 black 2 blue 2 blue 6 blue 4
+blue 2 blue 3 black 2 blue 6 blue 3 blue 4
+blue 4 black 2 blue 3 blue 4 blue 4
+blue 2 black 2 blue 2 blue 12
+black 2 blue 2 blue 10
+black 2 blue 3 blue 2 blue 6
+black 2 blue 9
+
+columns
+black 2
+blue 8 black 3
+blue 9 black 2 blue 1
+blue 4 blue 4
+blue 5 blue 3 black 2 blue 5
+blue 7 black 2 blue 4 blue 2
+blue 10 blue 8 black 1
+blue 12 black 1 blue 5 blue 2 black 2
+blue 5 blue 2 blue 8 black 2
+blue 4 blue 2 blue 3 black 2 blue 7 blue 2 black 2
+blue 4 blue 1 blue 3 black 3 blue 6 black 2 blue 2
+blue 4 blue 7 blue 7 black 2 blue 3
+blue 5 blue 2 blue 2 black 1 blue 1 blue 4 black 2 blue 2 blue 2
+blue 2 blue 3 blue 4 blue 2 blue 2 black 2 blue 2 blue 1
+blue 4 blue 1 blue 5 black 1 blue 1 black 2 blue 4 blue 2
+blue 7 blue 3 black 3 blue 2 blue 1 black 2 blue 2 blue 4
+blue 2 blue 2 blue 2 blue 2 black 3 blue 5 black 2 blue 4 blue 1
+blue 9 blue 1 black 1 blue 2 black 2 blue 2 blue 6
+blue 2 blue 7 black 1 blue 1 black 2 blue 11
+blue 1 blue 6 black 1 black 2 blue 5 blue 5
+blue 2 blue 7 black 1 black 1 blue 1 black 2 blue 1 blue 6 blue 4
+blue 8 black 2 blue 1 black 2 blue 6 blue 3
+blue 8 black 3 black 2 blue 4 blue 2 blue 3
+blue 6 black 3 blue 1 black 2 blue 5 blue 3 blue 3
+blue 6 black 2 blue 1 black 2 blue 3 blue 2 blue 4
+blue 5 black 4 blue 1 blue 10
+blue 3 black 4 blue 2 blue 3 blue 5
+blue 2 black 3 blue 1 blue 8
+black 3 blue 4 blue 2 blue 2
+black 2 blue 8 blue 4
+black 3 blue 12
+black 2 blue 8
+black 2
+black 2
+black 2

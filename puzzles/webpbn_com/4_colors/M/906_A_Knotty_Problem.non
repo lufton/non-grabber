@@ -1,0 +1,72 @@
+by "william kamery (bill.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by william kamery"
+date "May 28, 2007"
+description "This a a square knot (I think)"
+difficulty 2.0
+height 20
+id 906
+link "https://webpbn.com/play.cgi?id=906"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "A 'Knotty' Problem"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 24
+black 1 red 15 black 1 green 8 black 1
+black 1 red 17 black 1 green 8 black 1
+black 1 red 3 black 11 red 4 black 5 green 3 black 1
+black 1 red 2 black 1 black 1 green 4 black 1 black 1 red 4 black 1 black 1 green 2 black 1
+black 8 green 4 black 1 black 1 red 4 black 4 green 2 black 2
+green 11 black 1 black 1 red 6 black 1 green 2 black 1 red 1
+green 10 black 1 black 1 red 5 black 1 green 2 black 1 red 1
+black 10 black 6 green 2 black 2
+black 1 red 2 black 1 black 1 green 2 black 1
+black 1 red 2 black 1 black 1 green 2 black 1
+black 10 black 6 green 2 black 2
+green 10 black 1 black 1 red 5 black 1 green 2 black 1 red 1
+green 11 black 1 black 1 red 6 black 1 green 2 black 1 red 1
+black 8 green 4 black 1 black 1 red 4 black 4 green 2 black 2
+black 1 red 2 black 1 black 1 green 4 black 1 black 1 red 4 black 1 black 1 green 2 black 1
+black 1 red 3 black 11 red 4 black 5 green 3 black 1
+black 1 red 17 black 1 green 8 black 1
+black 1 red 15 black 1 green 8 black 1
+black 24
+
+columns
+black 1 green 2 black 1 black 1 green 2 black 1
+black 4 green 2 black 4 green 2 black 4
+black 1 red 3 black 1 green 2 black 1 red 2 black 1 green 2 black 1 red 3 black 1
+black 1 red 4 black 1 green 2 black 1 red 2 black 1 green 2 black 1 red 4 black 1
+black 1 red 3 black 2 green 2 black 4 green 2 black 2 red 3 black 1
+black 1 red 2 black 1 black 1 green 2 black 1 black 1 green 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 green 2 black 1 black 1 green 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 green 2 black 1 black 1 green 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 2 green 3 black 1 black 1 green 3 black 2 red 2 black 1
+black 1 red 2 black 1 green 4 black 1 black 1 green 4 black 1 red 2 black 1
+black 1 red 2 black 1 green 3 black 1 black 1 green 3 black 1 red 2 black 1
+black 1 red 2 black 1 green 2 black 1 black 1 green 2 black 1 red 2 black 1
+black 1 red 2 black 1 green 1 black 1 black 1 green 1 black 1 red 2 black 1
+black 1 red 2 black 2 black 2 red 2 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 4 black 1 black 1 red 4 black 1
+black 2 red 4 black 1 black 1 red 4 black 2
+black 1 green 1 black 1 red 4 black 1 black 1 red 4 black 1 green 1 black 1
+black 1 green 2 black 1 red 4 black 1 black 1 red 4 black 1 green 2 black 1
+black 1 green 2 black 2 red 3 black 1 black 1 red 3 black 2 green 2 black 1
+black 1 green 2 black 1 black 1 red 2 black 1 black 1 red 2 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 red 2 black 1 black 1 red 2 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 red 2 black 1 black 1 red 2 black 1 black 1 green 2 black 1
+black 1 green 3 black 12 green 3 black 1
+black 1 green 18 black 1
+black 1 green 16 black 1
+black 16
+black 1 red 2 black 1 black 1 red 2 black 1

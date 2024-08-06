@@ -1,0 +1,42 @@
+by "Georgia Wren (teachno11)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Georgia Wren"
+date "Feb 28, 2009"
+description "My six-yr old grandson's first puzzle - a white bird with a big smile."
+difficulty 1.25
+height 10
+id 5171
+link "https://webpbn.com/play.cgi?id=5171"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "flying high."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 10
+blue 4 blue 1
+blue 4 blue 2
+blue 1 black 1 blue 3
+blue 1 blue 3
+blue 1 red 2 blue 3
+blue 10
+blue 10
+blue 10
+blue 10
+
+columns
+blue 10
+blue 3 red 1 blue 4
+blue 3 black 1 red 1 blue 4
+blue 3 blue 4
+blue 1 blue 4
+blue 1 blue 4
+blue 1 blue 4
+blue 1 blue 7
+blue 1 blue 8
+blue 10

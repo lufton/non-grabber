@@ -1,0 +1,33 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 16, 2011"
+description "A mini screwdriver."
+difficulty 1.0
+height 7
+id 14684
+link "https://webpbn.com/play.cgi?id=14684"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Another tool"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 1
+black 1
+red 3
+red 1
+red 3
+red 3
+
+columns
+0
+red 1 red 2
+black 3 red 4
+red 1 red 2
+0

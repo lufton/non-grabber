@@ -1,0 +1,81 @@
+by "Ted Schatz (ebts8214)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Ted Schatz"
+date "Mar 17, 2023"
+description "We Love You"
+difficulty 1.75
+height 30
+id 36550
+link "https://webpbn.com/play.cgi?id=36550"
+note "published,definitely non-unique,may require some guessing"
+quality 2.5
+title "For EB"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 3 black 1 black 3 black 1 black 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 3 black 3 black 1 black 3
+0
+red 2 red 2
+red 4 red 4
+red 12
+red 12
+red 12
+red 10
+red 10
+red 8
+red 8
+red 6
+red 6
+red 4
+red 4
+red 2
+0
+black 2 black 2 black 6 black 2 black 2
+black 2 black 2 black 6 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 6 black 6
+black 2 black 6 black 6
+
+columns
+0
+0
+black 4
+black 1
+black 1 black 5
+black 1 black 5
+black 4 black 4
+black 4
+black 5 black 5
+black 1 black 1 black 1 red 3 black 5
+black 1 black 1 red 6
+red 9
+red 11 black 9
+black 5 red 12 black 9
+black 1 red 12 black 2 black 2
+black 1 red 12 black 2 black 2
+red 12 black 9
+black 5 red 11 black 9
+black 1 black 1 red 9
+black 5 red 6
+red 3 black 9
+black 4 black 9
+black 1 black 2
+black 4 black 2
+black 9
+black 5 black 9
+black 1 black 1 black 1
+black 1 black 1
+0
+0

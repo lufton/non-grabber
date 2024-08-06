@@ -1,0 +1,87 @@
+by "iris"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/23/04"
+height 32
+id 11346
+link "https://www.griddlers.net/nonogram/-/g/11346"
+medium_time "0:15:10"
+points 19030
+popularity 62.5
+title "South Park - Cheif"
+width 30
+
+color a ffffff
+color b 636363
+color c adadb5
+color d ff8c63
+color e ad6b52
+color f 735242
+color g ff5f6b
+color h 000000
+
+rows
+b 11
+b 4 c 1 b 5 c 1 b 4
+b 3 c 3 b 3 d 1 b 3 c 3 b 3
+b 2 c 2 b 2 c 1 b 2 d 3 b 2 c 1 b 2 c 2 b 2
+b 6 c 1 b 2 d 5 b 2 c 1 b 6
+b 5 c 1 b 3 d 5 b 3 c 1 b 5
+b 4 c 1 b 3 d 7 b 3 c 1 b 4
+b 4 c 1 b 4 d 7 b 4 c 1 b 4
+b 4 c 1 b 3 d 3 e 3 d 3 b 3 c 1 b 4
+b 7 d 11 b 7
+b 6 d 3 e 7 d 3 b 6
+b 5 d 15 b 5
+b 4 d 3 f 4 d 3 f 4 d 3 b 4
+b 4 d 2 f 1 g 1 d 1 g 1 f 1 d 2 b 4
+b 3 d 2 g 1 g 1 g 1 d 2 b 3
+b 3 d 1 g 1 c 1 g 1 c 1 g 1 d 1 b 3
+g 1 b 2 d 1 g 1 c 1 h 1 g 1 h 1 c 1 g 1 d 1 b 2 g 1
+g 1 d 1 b 2 d 1 g 1 g 1 g 1 d 1 b 2 d 1 g 1
+g 1 d 2 b 1 d 1 g 1 g 1 d 1 g 1 g 1 d 1 b 1 d 2 g 1
+g 1 d 5 g 1 g 1 d 1 e 1 d 1 g 1 g 1 d 5 g 1
+g 1 d 6 g 4 d 3 e 1 d 1 g 4 d 6 g 1
+g 1 d 13 e 1 d 9 g 1
+g 1 d 12 e 1 d 8 g 1
+g 1 d 9 e 1 d 2 e 1 d 8 g 1
+b 2 g 1 d 10 e 1 d 8 g 1 b 2
+b 3 g 1 d 18 g 1 b 2
+b 3 g 1 d 7 e 4 d 6 g 1 b 3
+b 4 g 1 d 15 g 1 b 2
+b 4 g 1 d 7 e 2 d 6 g 1 b 3
+b 3 g 1 d 8 e 1 d 4 g 1 b 3
+b 3 g 2 d 6 e 1 d 2 g 2 b 3
+b 3 g 9 b 3
+
+columns
+0
+0
+g 4 b 5
+b 9 g 1 d 4 g 1 b 8
+b 14 d 4 g 2 b 8
+b 16 d 5 g 1 b 4
+b 12 d 11 g 2
+b 1 c 1 b 3 c 2 b 3 d 3 g 4 d 8 g 2
+b 2 c 1 b 2 c 1 b 4 d 3 g 1 g 1 d 9 g 1
+b 1 c 1 b 2 c 1 b 4 d 3 f 1 g 1 d 9 g 1
+b 2 c 1 b 1 c 1 b 4 d 3 f 1 g 1 d 9 g 1
+b 2 c 2 b 4 d 4 f 1 g 1 d 10 g 1
+b 1 c 1 b 4 d 4 e 1 d 1 f 1 c 1 g 1 d 10 g 1
+b 4 d 6 e 1 d 1 f 1 c 1 h 1 g 1 d 11 g 1
+b 3 d 5 e 1 d 1 e 1 d 2 g 1 g 1 d 4 e 1 d 2 e 1 d 4 g 1
+b 2 d 6 e 1 d 1 e 1 d 3 g 4 d 1 e 1 d 6 e 1 d 1 e 1 d 2 g 1
+b 3 d 5 e 1 d 1 e 1 d 2 g 1 g 1 d 1 e 1 d 3 e 1 d 1 e 1 d 1 e 1 d 2 g 1
+b 4 d 6 e 1 d 1 f 1 c 1 h 1 g 1 d 1 e 3 d 2 e 1 d 2 e 2 g 1
+b 1 c 1 b 4 d 4 e 1 d 1 f 1 c 1 g 1 d 10 g 1
+b 2 c 2 b 4 d 4 f 1 g 1 d 10 g 1
+b 2 c 1 b 1 c 1 b 4 d 3 f 1 g 1 d 9 g 1
+b 1 c 1 b 2 c 1 b 4 d 3 f 1 g 1 d 9 g 1
+b 2 c 1 b 2 c 1 b 4 d 3 g 1 g 1 d 9 g 1
+b 1 c 1 b 3 c 2 b 3 d 3 g 4 d 8 g 2
+b 12 d 12 g 1
+b 16 d 5 g 2 b 1
+b 14 d 4 g 2 b 8
+b 9 g 1 d 4 g 1 b 8
+g 4 b 4
+0

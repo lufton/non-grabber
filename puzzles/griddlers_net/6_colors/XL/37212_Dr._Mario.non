@@ -1,0 +1,85 @@
+by "sudoku"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/22/06"
+height 31
+id 37212
+link "https://www.griddlers.net/nonogram/-/g/37212"
+medium_time "0:14:01"
+points 10297
+popularity 57.0
+title "Dr. Mario"
+width 31
+
+color a 000000
+color b ff0000
+color d 0000ff
+color e fffe00
+color g 808080
+color h ffffff
+
+rows
+e 6 g 1 b 6 d 2 d 2 e 5
+e 7 g 1 b 7 d 3 e 7
+e 7 g 1 b 7 d 1 e 7
+e 7 g 1 b 7 d 1 e 1 e 1 d 1 e 7
+e 7 g 1 b 7 d 7 e 7
+e 7 b 7 d 1 h 1 d 1 e 7
+e 6 b 6 d 5 e 7
+g 5
+d 6 e 1 b 3 e 1 b 7
+d 7 b 2 b 2 b 7
+d 7 b 1 d 1 d 1 b 1 b 7
+d 7 b 7 b 7
+d 7 b 1 h 1 h 1 b 1 b 7
+d 7 b 1 b 1 b 7
+d 7 d 1 b 5 d 1 b 5
+g 5
+b 7 d 2 d 2
+b 7 e 1 e 3 e 1 d 3
+b 7 e 1 e 1 d 1
+b 7 e 2 d 1 d 1 e 2 d 1 e 1 e 1 d 1
+b 7 e 7 d 7
+b 7 e 1 e 1 d 1 h 1 d 1
+b 5 e 5 d 5
+0
+d 6 g 1 b 6 d 1 d 1
+d 7 g 1 b 7 e 1 e 3 e 1
+d 7 g 1 b 7 e 1 e 1
+d 7 g 1 b 7 e 2 d 1 d 1 e 2
+d 7 g 1 b 7 e 7
+d 7 b 7 e 1 e 1
+d 6 b 6 e 5
+
+columns
+e 5 d 7 g 1 b 6
+e 7 d 7 g 1 b 7
+e 7 d 7 g 1 b 7
+e 7 d 7 g 1 b 7
+e 7 d 7 g 1 b 7
+e 7 d 7 b 7
+e 7 d 6 b 6
+g 5
+b 7 e 1 e 3 d 5
+b 7 e 3 e 1 d 7
+b 7 e 1 d 1 e 1 e 1 d 7
+b 7 e 1 e 1 e 1 d 7
+b 7 e 1 d 1 e 1 e 1 d 7
+b 7 e 3 e 1 d 7
+b 5 e 1 e 3 d 7
+g 5
+d 1 d 3 e 1 b 3 d 1 b 7
+d 1 d 1 d 1 b 1 b 1 b 2 b 7
+d 1 e 1 d 1 d 1 b 2 d 1 b 1 h 1 b 1 b 7
+d 2 d 1 h 1 d 1 b 1 b 1 b 1 b 7
+d 1 e 1 d 1 d 1 b 2 d 1 b 1 h 1 b 1 b 7
+d 1 d 1 d 1 b 1 b 1 b 2 b 7
+d 1 d 3 e 1 b 3 d 1 b 5
+0
+e 6 g 1 b 6 d 1 d 3 e 1 e 3
+e 7 g 1 b 7 d 1 d 1 d 1 e 3 e 1
+e 7 g 1 b 7 d 1 e 1 d 1 d 1 d 1 e 1 d 1 e 1 e 1
+e 7 g 1 b 7 d 2 d 1 h 1 d 1 e 1 e 1 e 1
+e 7 g 1 b 7 d 1 e 1 d 1 d 1 d 1 e 1 d 1 e 1 e 1
+e 7 b 7 d 1 d 1 d 1 e 3 e 1
+e 6 b 6 d 1 d 3 e 1 e 3

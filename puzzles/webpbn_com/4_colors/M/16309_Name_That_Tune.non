@@ -1,0 +1,72 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David Bouldin"
+date "Nov  8, 2011"
+description "It's a little more obscure than most of the ones that have been one here lately. I'll give people a chance to guess in the comments. Clues may be given if needed."
+difficulty 1.5
+height 20
+id 16309
+link "https://webpbn.com/play.cgi?id=16309"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Name That Tune"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 7 blue 7
+blue 7 blue 7
+blue 7 blue 7
+blue 3 blue 3
+blue 3 blue 3
+blue 2 black 1 black 1 blue 2
+black 2 blue 1 blue 1 black 1 blue 1
+black 1 blue 2 black 1 blue 1 black 2 black 1 blue 1 black 1 blue 1 black 1 blue 2
+blue 1 black 4 blue 1 black 1 black 2 blue 1 black 2 blue 1 black 1
+black 30
+black 20
+black 2 red 1 black 8 red 1 black 6
+black 1 red 2 black 6 red 1 black 4
+red 2 red 3 red 2
+red 1 red 3 red 3 red 1
+red 2 red 7 red 3
+red 13 red 1
+red 2 red 9 red 1
+red 2 red 6 red 2
+red 12
+
+columns
+black 2
+black 3
+blue 3 black 1 blue 1 black 3 red 2
+blue 3 blue 1 black 3 red 1 black 1 red 3
+blue 6 black 1 blue 1 black 4 red 2 red 4
+blue 6 black 6 red 5 red 2
+blue 5 black 1 blue 2 black 5 red 4 red 1
+blue 3 black 1 blue 1 black 4 red 6
+blue 3 black 6 red 5
+black 4 red 5
+black 4 red 6
+blue 3 black 6 red 7
+blue 3 blue 1 black 3 red 4 red 4
+blue 5 black 1 blue 1 black 1 blue 1 black 4 red 1 red 3 red 1
+blue 6 black 1 blue 1 black 5 red 3 red 1
+blue 7 black 6 red 4 red 2
+blue 3 blue 2 black 4 red 1 red 2
+blue 3 blue 1 black 4 red 1
+black 3
+black 2
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1

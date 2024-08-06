@@ -1,0 +1,95 @@
+by "Rainbow15"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/11/10"
+height 45
+id 88856
+link "https://www.griddlers.net/nonogram/-/g/88856"
+medium_time "0:09:09"
+points 2871
+popularity 71.69
+title "Retro Tower Stacker"
+width 25
+
+color a ccccff
+color b ffff33
+color c 0000ff
+color d ff0000
+color e 00d700
+color f ff9900
+color g ffffff
+color h 666666
+
+rows
+b 9
+b 9 g 1 b 1
+b 9 g 1 b 1
+b 9
+b 7
+f 9
+f 11
+f 10 g 2 f 1
+f 10 g 1 f 2
+f 11
+f 9
+e 12
+e 14
+e 13 g 2 e 1
+e 13 g 1 e 2
+e 14
+e 12
+b 14
+b 16
+b 15 g 2 b 1
+b 15 g 1 b 2
+b 16
+b 14
+c 16
+c 18
+c 17 g 2 c 1
+c 17 g 1 c 2
+c 18
+c 16
+d 20
+d 22
+d 21 g 2 d 1
+d 21 g 1 d 2
+d 22
+d 20
+g 25
+g 25
+g 5 b 1 d 3 b 4 d 2 b 5 g 5
+g 5 b 1 d 1 b 6 d 1 b 1 d 1 b 4 g 5
+g 4 b 1 d 2 b 1 d 2 b 2 d 2 b 2 d 2 b 1 g 4
+g 3 b 1 d 1 b 2 d 1 b 3 d 1 b 3 d 1 b 2 g 3
+h 3 g 19 h 3
+h 5 g 14 h 6
+h 25
+h 25
+
+columns
+g 4 h 4
+d 2 g 5 h 4
+d 4 g 6 h 4
+c 2 d 6 g 7 h 3
+b 2 c 4 d 6 g 7 h 3
+e 2 b 4 c 6 d 6 g 2 b 4 g 2 h 2
+f 2 e 4 b 6 c 6 d 6 g 2 d 4 g 2 h 2
+b 2 f 4 e 6 b 6 c 6 d 6 g 2 d 1 b 1 d 1 b 1 g 2 h 2
+b 4 f 6 e 6 b 6 c 6 d 6 g 2 d 1 b 3 g 2 h 2
+b 5 f 6 e 6 b 6 c 6 d 6 g 2 b 2 d 2 g 2 h 2
+b 5 f 6 e 6 b 6 c 6 d 6 g 2 b 2 d 1 b 1 g 2 h 2
+b 5 f 6 e 6 b 6 c 6 d 6 g 2 b 4 g 2 h 2
+b 5 f 6 e 6 b 6 c 6 d 6 g 2 b 4 g 2 h 2
+b 5 f 6 e 6 b 6 c 6 d 6 g 2 d 4 g 2 h 2
+b 5 f 6 e 6 b 6 c 6 d 6 g 2 d 1 b 1 d 1 b 1 g 2 h 2
+b 5 f 6 e 6 b 6 c 6 d 6 g 2 b 1 d 1 b 2 g 2 h 2
+b 1 g 2 b 1 f 2 g 2 f 2 e 6 b 6 c 6 d 6 g 2 b 4 g 2 h 2
+b 2 f 1 g 1 f 2 e 6 b 6 c 6 d 6 g 2 b 2 d 2 g 2 h 2
+f 2 e 2 g 2 e 2 b 6 c 6 d 6 g 2 b 2 d 1 b 1 g 2 h 2
+e 1 g 1 e 2 b 2 g 2 b 2 c 6 d 6 g 2 b 4 g 1 h 3
+e 2 b 1 g 1 b 2 c 2 g 2 c 2 d 6 g 7 h 3
+b 2 c 1 g 1 c 2 d 6 g 7 h 3
+c 2 d 2 g 2 d 2 g 6 h 4
+d 1 g 1 d 2 g 5 h 4
+d 2 g 4 h 4

@@ -1,0 +1,62 @@
+by "Piron Kimberly (charmed)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Piron Kimberly"
+date "Mar 14, 2008"
+description "remember the crying women in puzzle #2389 ?? she's happy and lost her pain ! because she's a pbn puzzle now ! she even bought a new dress , colord her hair and lips !"
+difficulty 1.5
+height 20
+id 2435
+link "https://webpbn.com/play.cgi?id=2435"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "she is happy"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 blue 5
+blue 1 blue 4
+blue 1 blue 3
+blue 1 red 4 blue 2
+blue 1 red 4 black 1 red 1 blue 1
+blue 1 black 2 black 1 red 1 black 4 black 2 blue 1
+blue 1 black 2 black 6 black 2 blue 1
+blue 1 black 2 black 2 red 1 black 1 black 2 blue 1
+blue 1 black 2 black 2 black 2 blue 1
+blue 1 red 2 red 2 blue 1
+blue 1 black 4 blue 1
+blue 1 red 2 blue 1
+blue 1 black 2 blue 1
+blue 1 red 4 blue 1
+blue 2 black 6 blue 1
+blue 3 red 8 blue 1
+blue 4 black 10 blue 1
+blue 5 red 2 blue 1
+blue 6 black 7 blue 1
+
+columns
+blue 20
+blue 1 blue 5
+blue 1 blue 4
+blue 1 black 1 blue 3
+blue 1 black 2 blue 2
+blue 1 black 2 black 1 blue 1
+blue 1 black 2 red 1 black 1
+blue 1 red 1 black 2 black 1 red 1 black 1 red 1 black 1
+blue 1 red 3 black 2 red 1 black 1 red 1 black 1 red 1 black 1
+blue 1 red 2 black 4 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+blue 1 red 2 black 2 red 1 black 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+blue 1 red 1 black 4 red 1 black 1 red 1 black 1 red 1 black 1 black 1
+blue 1 red 1 black 2 black 1 red 1 black 1 red 1 black 1 black 1
+blue 1 black 2 red 1 black 1 black 1
+blue 1 black 2 black 1 black 1
+blue 2 black 2 black 1
+blue 3 black 1
+blue 4
+blue 5
+blue 20

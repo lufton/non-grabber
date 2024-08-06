@@ -1,0 +1,57 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "May 10, 2014"
+description "Gol dang worthless nag. Do that again and you're goin' to the glue factory!"
+difficulty 1.75
+height 15
+id 24447
+link "https://webpbn.com/play.cgi?id=24447"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "I Get a Kick Out of You......"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 2
+black 4
+black 2
+black 1 red 1 red 1 red 1
+black 2 red 6
+black 4 red 2
+black 6 red 2
+black 1 black 8 blue 2 black 1
+black 10 blue 3 black 2
+black 5 black 2 black 1 blue 1
+black 2 black 1 black 1
+black 1 black 1 black 2
+black 2 black 2
+
+columns
+0
+black 1
+black 3
+black 3 black 1
+black 10
+black 6
+black 4
+black 3
+black 3
+black 2
+black 3 black 1
+black 6
+red 2 black 1
+black 1 red 1 black 2
+black 3 red 4 blue 3 black 2
+black 3 red 3 blue 2 black 1
+black 1 red 1 blue 1
+red 2 black 1
+black 2
+0

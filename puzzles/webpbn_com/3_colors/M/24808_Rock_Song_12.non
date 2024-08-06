@@ -1,0 +1,61 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jun 16, 2014"
+description ""
+difficulty 1.25
+height 20
+id 24808
+link "https://webpbn.com/play.cgi?id=24808"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Rock Song 12"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+red 3 red 3
+red 11
+red 13
+red 13
+red 13
+red 7 black 6
+red 7 black 7
+red 7 black 6
+red 13
+red 13
+red 11
+red 9
+red 7
+red 5
+red 3
+red 1
+
+columns
+red 3 red 2
+red 4 red 3
+red 5 red 4
+red 5 red 5
+red 14
+red 14
+red 15
+red 14
+red 14
+red 13
+red 12
+red 4 black 3 red 3
+red 3 black 3 red 2
+black 3
+black 3
+black 3
+black 3
+black 1
+0
+0

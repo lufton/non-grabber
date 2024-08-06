@@ -1,0 +1,46 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Oct 26, 2012"
+description "A friend once posited that "wombat" should be another word for a lightsaber: It's bat-shaped and goes "WOM WOM WOM.""
+difficulty 1.0
+height 20
+id 20182
+link "https://webpbn.com/play.cgi?id=20182"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "wombat"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+black 1
+black 1
+black 1
+black 1
+black 1
+
+columns
+0
+0
+green 15 black 5
+0
+0

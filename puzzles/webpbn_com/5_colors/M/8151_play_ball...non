@@ -1,0 +1,63 @@
+by "Susan Myer (Rina)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Susan Myer"
+date "Mar 23, 2010"
+description "getting ready for a little soccer"
+difficulty 1.5
+height 20
+id 8151
+link "https://webpbn.com/play.cgi?id=8151"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "play ball.."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+blue 5
+blue 1 blue 1
+blue 1 red 3 blue 1
+blue 1 blue 1
+blue 1 red 3 blue 1
+blue 1 blue 1 black 7
+blue 1 blue 1 black 1 black 1 black 1 black 1
+black 6 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 2
+green 20
+green 20
+green 20
+
+columns
+green 3
+green 3
+green 3
+green 3
+green 3
+black 5 blue 7 black 5 green 3
+blue 1 red 1 red 1 black 1 green 3
+blue 1 red 1 red 1 black 1 black 1 green 3
+blue 1 red 1 red 1 black 1 green 3
+black 5 blue 7 black 1 black 1 green 3
+black 3 green 3
+black 1 black 1 green 3
+black 4 green 3
+black 1 black 1 green 3
+black 4 green 3
+black 1 black 1 green 3
+black 1 black 2 green 3
+black 4 green 3
+green 3
+green 3

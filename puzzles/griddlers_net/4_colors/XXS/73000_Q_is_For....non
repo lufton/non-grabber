@@ -1,0 +1,31 @@
+by "MomWiz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/11/08"
+height 5
+id 73000
+link "https://www.griddlers.net/nonogram/-/g/73000"
+medium_time "0:00:16"
+points 17
+popularity 47.88
+title "Q is For..."
+width 5
+
+color a ffffff
+color b 000000
+color c 9900ff
+color d 66cc00
+
+rows
+b 3 c 1 d 1
+b 1 b 1 d 1 c 1
+b 1 b 1 c 1 d 1
+b 1 b 1 d 1 c 1
+b 4
+
+columns
+b 5
+b 1 b 1
+b 5
+c 1 d 1 c 1 d 1 b 1
+d 1 c 1 d 1 c 1

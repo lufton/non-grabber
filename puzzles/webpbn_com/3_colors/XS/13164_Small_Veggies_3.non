@@ -1,0 +1,36 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr  2, 2011"
+description "Jalapeno Pepper. Recipe in first comment."
+difficulty 1.25
+height 5
+id 13164
+link "https://webpbn.com/play.cgi?id=13164"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Small Veggies 3"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 2 green 2
+black 1 green 4 black 1 green 1 black 1 green 1
+black 2 green 2 black 1 green 4
+green 4 black 1 green 1
+black 1 green 3
+
+columns
+black 2
+black 1
+green 3
+green 4 black 1
+green 2 black 1 green 2
+green 4
+black 1 green 1 black 1 green 1
+green 3
+green 1 black 1 green 1
+green 2

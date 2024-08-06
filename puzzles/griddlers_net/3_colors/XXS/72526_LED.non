@@ -1,0 +1,30 @@
+by "dinnerplate"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/27/08"
+height 5
+id 72526
+link "https://www.griddlers.net/nonogram/-/g/72526"
+medium_time "0:00:10"
+points 3
+popularity 37.91
+title "LED"
+width 5
+
+color a ffffff
+color b 000000
+color c ff0000
+
+rows
+c 1
+c 3
+c 3
+b 1 b 1
+b 1
+
+columns
+0
+c 2 b 2
+c 3
+c 2 b 1
+0

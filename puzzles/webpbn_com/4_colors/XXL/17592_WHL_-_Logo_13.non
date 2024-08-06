@@ -1,0 +1,140 @@
+by "Russell Reed (russl722)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Russell Reed"
+date "Feb 19, 2012"
+description "Prince Albert Raiders (this team is located in Prince Albert, Saskatchewan)."
+difficulty 3.0
+height 59
+id 17592
+link "https://webpbn.com/play.cgi?id=17592"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "WHL - Logo #13"
+width 59
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 4 black 4
+black 6 black 7
+black 9 black 9
+black 2 black 3 black 5 black 3 black 3
+black 2 black 3 black 8 black 3 black 3
+black 3 black 3 black 11 black 3 black 4 black 3
+black 3 black 6 black 10 black 3 black 7 black 3
+black 3 black 8 black 9 black 2 black 9 black 2
+black 3 black 11 black 6 black 3 black 10 black 2
+black 3 black 13 black 5 black 3 black 11 black 2
+black 3 black 15 black 7 black 13 black 2
+black 3 black 17 black 14 black 2
+black 3 black 19 black 16 black 2
+black 3 black 43 black 2
+black 2 black 19 red 10 black 16 black 2
+black 3 black 17 red 13 black 15 black 2
+black 2 black 16 red 12 black 17 black 2
+black 3 black 15 red 7 black 16 black 2
+black 2 black 14 red 7 black 1 black 22 black 2
+black 13 red 7 black 6 black 21
+black 11 red 7 black 7 black 1 black 2 black 1 black 12
+black 8 red 6 black 2 black 2 black 2 black 2 black 1 black 10
+black 6 red 2 black 2 red 2 black 3 black 2 black 4 black 8
+black 3 red 1 black 3 red 2 black 4 black 3 black 6
+black 2 red 2 black 2 red 2 black 5 black 3 black 4 black 5
+black 1 red 5 black 7 black 9 black 4
+black 3 red 2 black 17 black 1 black 4
+red 3 black 2 red 1 black 19 black 5
+red 4 black 1 red 1 black 1 red 1 black 27
+black 4 red 3 black 1 red 2 black 1 red 1 black 27 black 3 black 3
+red 1 black 1 black 39 black 11
+red 4 black 1 black 4 black 2 black 1 black 3 black 4 black 4 black 3 black 2 black 4 black 1 black 4
+red 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 2 black 4 black 3
+red 6 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 2 black 1 black 2 black 2
+red 6 black 1 black 4 black 4 black 1 black 1 black 1 black 3 black 4 black 4 black 2 black 1
+red 3 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 3
+red 2 black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 7 black 3
+red 4 black 3 black 1 black 1 black 1 black 1 black 3 black 4 black 1 black 1 black 3 black 5
+red 7 black 2 black 5
+red 7 black 21 green 4
+red 6 green 4 black 16 green 3
+red 6 green 4 black 16 green 4
+red 5 green 4 black 12 green 4
+red 3 green 4 black 10 green 4
+red 4 green 4 black 4 green 4
+red 2 green 4 black 4 green 4
+green 4 black 5 green 4
+green 4 black 4 green 4
+green 4 black 4 green 4
+green 4 black 3 green 4
+green 4 black 3 green 4
+green 4 black 2 green 4
+green 4 black 2 green 4
+green 4 black 1 green 4
+green 4 green 4
+green 4 green 4
+green 11
+green 9
+green 7
+
+columns
+red 3
+red 4
+black 2 red 5
+black 4 black 2 red 4
+black 5 black 1 black 1 red 4
+black 4 black 1 black 1 black 1 red 4 red 2
+black 3 black 3 black 1 black 1 red 12
+black 3 black 5 red 2 black 1 black 3 red 8
+black 3 black 8 red 2 black 1 black 2 red 8
+black 3 black 10 red 3 black 1 black 1 red 6
+black 3 black 11 red 2 black 9 red 5
+black 3 black 16 red 1 black 1 red 1 black 2 black 1 black 1 red 4
+black 3 black 15 red 1 black 2 red 2 black 2 black 1 black 1 red 2
+black 3 black 15 red 2 black 6 black 2 black 1 green 1
+black 4 black 15 red 7 black 1 black 2 black 3 green 3
+black 3 black 15 red 1 black 2 red 2 black 4 black 1 green 5
+black 3 black 15 red 2 black 2 red 1 black 5 black 6 black 1 green 7
+black 3 black 15 red 2 black 2 red 1 black 7 black 1 black 1 green 4 black 1 green 4
+black 3 black 14 red 3 black 1 red 2 black 7 black 1 black 1 green 5 black 3 green 4
+black 3 black 14 red 5 black 7 black 6 black 1 green 4 black 5 green 4
+black 3 black 12 red 5 black 8 black 1 green 3 black 7 green 4
+black 3 black 12 red 4 black 16 black 1 green 2 black 9 green 4
+black 3 black 10 red 4 black 10 black 6 black 4 green 4
+black 2 black 8 red 5 black 17 black 5 black 3 green 4
+black 2 black 8 red 4 black 1 black 6 black 1 black 5 black 2 green 4
+black 4 black 6 red 4 black 3 black 6 black 1 black 5 green 4
+black 5 black 5 red 4 black 3 black 5 black 5 black 5 green 3
+black 6 black 3 red 4 black 2 black 7 black 5 green 3
+black 7 black 2 red 4 black 2 black 14 black 5 green 3
+black 8 black 1 red 3 black 13 black 1 black 1 black 5 green 3
+black 8 black 1 red 3 black 6 black 7 black 1 black 1 black 4 green 3
+black 7 black 1 red 3 black 9 black 1 black 4 green 4
+black 7 black 1 red 3 black 7 black 4 green 4
+black 3 black 1 black 1 red 3 black 4 black 2 black 11 black 3 green 4
+black 2 black 1 red 3 black 2 black 2 black 2 black 4 black 1 black 3 green 4
+black 3 black 1 red 2 black 3 black 1 black 2 black 4 black 2 black 3 green 4
+black 4 black 2 red 2 black 3 black 1 black 4 black 1 black 1 black 1 green 1 black 2 green 4
+black 4 black 4 red 1 black 1 black 2 black 1 black 4 black 2 black 2 green 1 black 2 green 4
+black 3 black 12 black 6 black 1 green 3 green 4
+black 3 black 11 black 7 black 3 black 3 green 4 green 4
+black 3 black 25 black 1 black 3 green 4 green 4
+black 3 black 26 black 1 black 2 green 8
+black 3 black 20 black 2 black 3 green 6
+black 3 black 20 black 1 black 1 green 4
+black 3 black 19 black 3 black 1 green 2
+black 3 black 19 black 4 black 2
+black 2 black 17 black 1 black 2 black 1 black 1
+black 3 black 17 black 1 black 2 black 1
+black 3 black 15 black 3 black 4
+black 3 black 14 black 4 black 3
+black 3 black 11 black 2 black 5
+black 3 black 9 black 3
+black 4 black 6 black 1 black 2
+black 4 black 4 black 3
+black 4 black 1 black 2 black 2
+black 4 black 3 black 1
+black 4 black 4
+black 3 black 4
+black 1 black 3

@@ -1,0 +1,59 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 16, 2011"
+description "Anybody feel like a ripe, red tomato?"
+difficulty 1.5
+height 19
+id 14668
+link "https://webpbn.com/play.cgi?id=14668"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Garden Snack"
+width 19
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+green 3
+green 3
+green 3 green 4
+green 3 green 4 green 4
+green 2 green 2 green 3
+green 1 green 2 green 1
+green 5 green 2
+green 2 green 2 green 1
+green 2 green 3 green 2
+green 3 black 3
+black 7
+black 7
+black 9
+black 9
+black 7
+black 7
+black 5
+0
+
+columns
+green 1
+green 5 green 2
+green 8
+green 4 green 1
+green 1
+green 2
+green 6
+green 2 green 3
+green 1 green 2
+green 1 black 2
+green 2 black 6
+green 1 black 7
+green 5 black 8
+green 2 green 3 black 8
+green 2 green 1 black 8
+green 2 black 7
+black 6
+black 2
+0

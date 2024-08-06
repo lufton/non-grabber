@@ -1,0 +1,48 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/19/16"
+height 15
+id 170303
+link "https://www.griddlers.net/nonogram/-/g/170303"
+medium_time "0:03:17"
+points 362
+popularity 79.44
+title "Minion"
+width 11
+
+color a ffffff
+color b 000000
+color c ffda2c
+color d cccccc
+color e 0099cc
+
+rows
+c 7
+c 1 d 2 c 1 d 2 c 3
+d 1 d 1 d 1 b 3
+d 1 b 1 d 1 b 1 d 1 b 3
+c 1 d 2 c 1 d 2 c 4
+c 10
+c 2 b 4 c 4
+e 1 c 8 e 1
+c 1 e 8 c 1
+c 2 e 1 d 4 e 1 c 2
+c 2 e 1 d 4 e 1 c 2
+b 2 e 7 b 2
+b 1 e 8 b 1
+e 2 e 2
+b 3 b 3
+
+columns
+b 1
+c 1 d 2 c 3 e 1 c 3 b 2
+c 1 d 1 b 1 d 1 c 3 e 1 c 2 e 2 b 1
+c 1 d 1 d 1 c 1 b 1 c 1 e 6 b 1
+c 2 d 2 c 2 b 1 c 1 e 1 d 2 e 3 b 1
+c 1 d 1 b 1 d 1 c 1 b 1 c 1 e 1 d 2 e 2
+c 1 d 1 d 1 c 1 b 1 c 1 e 1 d 2 e 2
+c 2 d 2 c 4 e 1 d 2 e 3 b 1
+c 2 b 2 c 4 e 6 b 1
+c 1 b 2 c 4 e 1 c 2 b 1 e 1 b 1
+b 2 c 3 e 1 c 3 b 2

@@ -1,0 +1,90 @@
+by "Bradley Mustard (sweatydad)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Bradley Mustard"
+date "Apr  6, 2023"
+description "An old school, shiny bottle of Heinz Ketchup. The (commonly-known) secret to getting the ketchup out of the bottle is to hold it upside down and tap on the "57" logo embossed in the glass."
+difficulty 2.25
+height 51
+id 36659
+link "https://webpbn.com/play.cgi?id=36659"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Tap it on the "57""
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+black 7
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 red 1 green 5 red 1 black 1
+black 1 green 1 green 1 black 1
+black 1 green 1 green 1 green 1 green 1 black 1
+black 1 green 1 green 1 black 1
+black 1 red 1 green 5 red 1 black 1
+black 2 red 7 black 2
+black 1 red 2 red 3 red 2 black 1
+black 1 red 1 red 2 red 2 black 1
+black 1 red 1 red 2 red 2 black 1
+black 1 red 1 red 2 red 2 black 1
+black 1 red 1 red 2 red 2 black 1
+black 2 red 1 red 2 red 1 black 2
+black 1 red 1 red 3 red 2 black 1
+black 1 red 1 red 4 red 2 black 1
+black 2 red 1 red 4 red 2 black 1
+black 1 red 2 red 4 red 2 black 2
+black 1 red 2 red 4 red 2 black 2
+black 1 red 2 red 4 red 2 black 1
+black 1 red 2 red 4 red 2 black 1
+black 1 red 1 red 4 red 2 black 1
+black 2 red 1 red 5 red 2 black 2
+black 1 red 2 red 6 red 3 black 1
+black 1 red 15 black 1
+black 1 red 2 red 2 black 1
+black 1 red 2 green 9 red 2 black 1
+black 1 red 2 green 1 black 1 black 1 black 1 black 1 green 1 red 2 black 1
+black 1 red 1 green 1 black 1 black 1 black 1 green 1 red 1 black 1
+black 1 red 1 green 2 green 2 red 1 black 1
+black 1 red 1 green 1 black 1 black 1 black 1 green 1 red 1 black 1
+black 1 red 1 green 1 black 1 black 1 black 1 black 1 green 1 red 1 black 1
+black 1 red 1 green 1 black 1 black 1 black 1 green 1 red 1 black 1
+black 1 red 1 green 1 green 1 green 1 red 1 black 1
+black 1 red 1 green 1 green 4 green 1 red 1 black 1
+black 1 red 1 green 1 green 1 red 2 green 1 red 2 black 1
+black 1 red 2 green 1 green 1 red 2 green 1 red 2 black 1
+black 1 red 2 green 1 green 1 red 2 black 1
+black 1 red 2 green 9 red 2 black 1
+black 1 red 2 red 2 black 1
+black 1 red 15 black 1
+black 1 red 1 red 9 red 1 black 1
+black 1 red 3 red 3 black 1
+black 3 red 11 black 3
+black 13
+0
+0
+
+columns
+black 22
+black 7 red 20 black 1
+black 4 red 11 red 5 red 1 black 2
+black 7 red 7 red 1 green 5 red 1 red 2 black 1
+black 9 red 6 red 1 green 4 green 5 red 2 red 1 black 1
+black 2 red 1 green 3 red 3 red 2 green 1 black 1 black 1 green 1 red 2 red 1 black 1
+black 1 green 1 green 1 red 1 red 10 green 1 black 1 black 1 black 1 green 2 green 1 red 2 red 1 black 1
+black 1 green 1 green 1 green 1 red 18 green 1 black 1 black 1 green 1 green 1 red 2 red 1 black 1
+black 1 green 1 green 1 red 18 green 1 black 1 black 1 black 1 green 1 red 2 green 1 red 2 red 1 black 1
+black 1 green 1 green 1 green 1 red 2 red 11 green 1 black 1 black 1 green 1 red 2 green 1 red 2 red 1 black 1
+black 1 green 1 green 1 red 1 red 3 green 1 black 1 black 1 black 1 green 1 green 1 red 2 red 1 black 1
+black 2 red 1 green 3 red 7 red 1 green 1 black 1 black 1 green 1 green 1 red 2 red 1 black 1
+black 9 red 11 red 1 green 4 green 5 red 2 red 1 black 1
+black 7 red 11 green 5 red 1 red 2 black 1
+black 6 red 9 red 6 red 1 black 2
+black 6 red 20 black 1
+black 22

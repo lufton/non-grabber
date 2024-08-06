@@ -1,0 +1,90 @@
+by "ety22"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/18/04"
+height 30
+id 13208
+link "https://www.griddlers.net/nonogram/-/g/13208"
+medium_time "0:22:08"
+points 20133
+popularity 61.38
+title "Lost at Sea"
+width 35
+
+color a ffffff
+color b fffe00
+color c fbcca9
+color d 0000ff
+color e 00ffff
+color f ff9e6d
+color g 857f91
+color h 000000
+
+rows
+h 35
+h 1 h 7 g 3 h 2 g 2 h 11 h 1
+h 1 g 6 h 3 h 1 g 10 h 1 h 3
+h 1 g 8 h 3 h 2 g 9 h 2 h 5
+h 1 g 9 h 2 h 4 g 3 h 5 h 7
+h 3 g 9 h 2 h 5 h 1 g 5 h 1
+h 9 h 5 g 4 h 2
+h 1 g 8 h 2 g 4 h 5
+h 1 h 3 g 9 g 3 h 6 h 1
+h 1 h 3 g 10 g 1 g 3 g 2 h 1
+h 1 h 3 g 6 g 2 g 8 h 1
+h 1 h 7 g 4 h 1
+h 1 g 2 b 2 h 1
+h 1 g 9 b 3 h 1
+h 1 b 4 h 1
+h 1 h 2 h 3 b 3 h 1
+h 1 h 4 c 1 h 2 c 2 h 3 b 1 h 1
+h 1 h 2 c 2 c 2 d 1 c 1 h 2 h 1
+h 1 d 2 c 4 h 1
+h 1 d 5 e 3 d 4 d 4 c 4 d 3 h 1
+d 2 e 3 d 2 e 4 d 3 e 2 d 2 e 4 d 3 c 2 d 5 e 3
+e 6 d 2 e 15 d 10 e 2
+e 8 d 2 e 14 d 9 e 2
+e 14 f 21
+e 5 d 4 e 5 f 21
+e 1 d 5 e 2 d 2 e 5 f 19 e 1
+e 1 d 1 e 7 d 2 e 5 f 17 e 2
+e 10 d 3 e 5 f 14 e 2 d 1
+e 18 d 8 e 6 d 3
+e 16 d 3 e 6 d 3 e 2 d 3 e 2
+
+columns
+h 20 d 1 e 9
+h 1 h 2 d 2 e 4 d 2 e 3
+h 1 h 2 d 1 e 5 d 1 e 4
+h 1 g 4 h 1 h 2 d 1 e 5 d 1 e 4
+h 1 g 4 h 1 h 2 g 1 d 1 e 5 d 1 e 4
+h 2 g 4 h 1 h 4 g 1 d 2 e 3 d 2 e 4
+h 2 g 4 h 1 h 1 g 2 h 1 g 1 d 2 e 2 d 1 e 5
+h 2 g 4 h 1 h 1 g 2 h 1 g 1 e 1 d 1 e 2 d 1 e 5
+h 2 g 4 h 1 g 4 h 1 g 1 e 3 d 1 e 1 d 2 e 4
+h 3 g 3 g 4 h 1 g 1 e 3 d 1 e 2 d 2 e 3
+h 3 g 3 g 4 h 1 g 1 e 7 d 2 e 2
+h 4 g 2 g 4 h 1 g 1 d 1 e 6 d 1 e 2
+h 1 g 1 h 3 g 3 g 2 d 1 e 6 d 1 e 2
+h 1 g 1 h 3 g 3 g 2 d 2 e 9
+h 1 g 1 g 3 g 1 d 1 e 3 f 2 e 5
+h 1 h 2 g 3 g 1 d 1 e 3 f 3 e 4
+h 5 g 1 g 2 d 2 e 2 f 4 e 2 d 1
+h 2 g 2 h 1 g 2 d 1 e 2 f 4 e 2 d 1
+h 1 g 3 h 2 h 3 e 3 f 5 d 2
+h 1 g 4 h 1 h 3 e 3 f 5 d 1 e 1
+h 2 g 3 h 1 g 1 h 1 e 3 f 5 d 1 e 1
+h 2 g 3 h 1 g 1 h 1 c 1 d 2 e 3 f 5 d 1 e 1
+h 2 g 2 h 2 g 2 c 2 d 3 e 2 f 5 d 1 e 1
+h 2 g 2 h 1 g 1 h 1 d 3 e 1 f 5 d 1 e 1
+h 2 g 2 h 1 h 2 g 2 h 1 c 1 d 4 f 5 d 1 e 1
+h 2 g 2 h 1 h 3 g 1 c 5 d 2 f 5 d 2
+h 2 g 1 h 2 h 1 g 1 h 1 g 1 b 1 h 1 c 1 d 1 c 3 d 2 f 5 e 1 d 1
+h 4 h 1 g 1 h 1 g 1 b 3 h 2 c 3 d 3 f 5 e 1 d 1
+h 2 h 3 g 1 h 1 g 1 b 2 h 3 c 2 d 3 f 5 e 2
+h 2 h 1 g 3 h 1 g 1 b 3 h 2 d 4 f 5 e 2
+h 2 h 2 g 2 h 2 g 1 b 3 d 4 f 5 e 1 d 1
+h 1 h 2 g 2 h 1 g 2 b 1 d 4 f 5 e 1 d 1
+h 1 h 3 g 2 h 1 g 1 e 1 d 2 f 4 e 1 d 2
+h 1 h 3 g 1 h 2 e 3 f 3 e 2 d 1 e 1
+h 20 e 3 f 2 e 2 d 2 e 1

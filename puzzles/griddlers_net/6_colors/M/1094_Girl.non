@@ -1,0 +1,58 @@
+by "jule"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/21/02"
+height 22
+id 1094
+link "https://www.griddlers.net/nonogram/-/g/1094"
+medium_time "0:05:07"
+points 882
+popularity 61.99
+title "Girl"
+width 13
+
+color a ffffff
+color b ff0000
+color d 0000ff
+color e deada0
+color f f5f500
+color h 000000
+
+rows
+f 3
+f 5
+f 4 h 1 f 5
+f 3 h 1 f 5
+h 2 f 5
+f 6
+f 5
+b 3 d 4 e 2
+b 1 d 2 b 2 d 4 e 1
+b 1 d 2 b 3
+b 1 d 3 b 2
+b 2 d 2 b 3
+b 2 d 3 b 3
+b 4 d 2 e 1 b 2
+b 6 e 2 b 3
+b 13
+b 13
+b 13
+b 13
+h 2
+h 3
+h 4
+
+columns
+b 4
+b 5
+f 3 f 1 b 6
+f 4 h 1 f 2 b 11
+f 4 h 1 f 2 b 1 d 3 b 8 h 3
+f 3 h 1 f 3 b 1 d 5 b 6 h 3
+f 1 h 1 f 4 b 3 d 4 b 5 h 2
+f 4 d 1 b 4 d 2 e 1 b 4 h 1
+f 4 d 2 b 4 e 2 b 4
+f 3 d 2 b 8
+f 2 d 2 b 7
+f 1 e 1 d 1 b 5
+e 2 b 4

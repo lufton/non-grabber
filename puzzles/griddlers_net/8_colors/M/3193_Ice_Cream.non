@@ -1,0 +1,65 @@
+by "arkiteta"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/30/03"
+height 20
+id 3193
+link "https://www.griddlers.net/nonogram/-/g/3193"
+medium_time "0:03:49"
+points 446
+popularity 66.69
+title "Ice Cream"
+width 20
+
+color a ffffff
+color b cc0033
+color c 78d1a5
+color d ff99cc
+color e 9d7200
+color f 735200
+color g f7debd
+color h e7b58b
+
+rows
+b 3
+b 4
+c 2 b 3 c 1
+c 9
+c 11
+c 6 d 6
+e 6 c 1 d 8
+e 2 f 1 e 3 f 1 e 1 d 9
+e 5 f 1 e 4 d 8
+e 10 d 8
+e 1 f 1 e 8 d 8
+g 20
+g 20
+h 16
+h 16
+h 14
+h 14
+h 12
+h 12
+h 10
+
+columns
+g 2
+e 3 g 2
+e 3 f 1 g 2 h 2
+e 5 g 2 h 4
+e 1 f 1 e 3 g 2 h 6
+c 2 e 5 g 2 h 7
+c 3 e 2 f 1 e 2 g 2 h 7
+c 3 e 5 g 2 h 7
+c 4 e 1 f 1 e 3 g 2 h 7
+b 1 c 5 e 4 g 2 h 7
+b 3 c 3 d 2 e 3 g 2 h 7
+b 3 c 2 d 6 g 2 h 7
+b 3 c 2 d 6 g 2 h 7
+c 3 d 6 g 2 h 7
+c 2 d 6 g 2 h 7
+c 1 d 6 g 2 h 6
+d 6 g 2 h 4
+d 5 g 2 h 2
+d 4 g 2
+g 2

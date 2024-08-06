@@ -1,0 +1,31 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/04"
+height 6
+id 14329
+link "https://www.griddlers.net/nonogram/-/g/14329"
+medium_time "0:00:25"
+points 5
+popularity 30.89
+title "Puffin"
+width 5
+
+color a f7ffcc
+color b 000000
+color d ff0000
+
+rows
+b 3
+d 3
+d 3 b 1
+0
+d 2
+b 2
+
+columns
+d 2
+d 2 d 1
+b 1 d 2 d 1
+b 1 b 1
+b 1 b 1 b 1

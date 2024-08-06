@@ -1,0 +1,61 @@
+by "Andrei Kantor (heraphim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Andrei Kantor"
+date "Aug 17, 2010"
+description "A car!"
+difficulty 1.25
+height 20
+id 10010
+link "https://webpbn.com/play.cgi?id=10010"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "You Ride It"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 20
+black 20
+black 20
+black 7 black 7
+black 6 blue 6 black 6
+black 5 blue 1 blue 1 black 5
+black 5 blue 1 blue 1 black 5
+black 5 blue 1 blue 1 black 5
+black 4 blue 10 black 4
+black 4 blue 1 blue 6 blue 1 black 4
+black 4 blue 10 black 4
+black 5 blue 2 blue 2 black 5
+black 6 black 4 black 6
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+
+columns
+black 20
+black 20
+black 20
+black 20
+black 8 black 9
+black 5 blue 3 black 8
+black 4 blue 4 blue 2 black 7
+black 3 blue 1 blue 4 black 7
+black 3 blue 1 blue 3 black 8
+black 3 blue 1 blue 3 black 8
+black 3 blue 1 blue 3 black 8
+black 3 blue 1 blue 3 black 8
+black 3 blue 1 blue 4 black 7
+black 4 blue 4 blue 2 black 7
+black 5 blue 3 black 8
+black 8 black 9
+black 20
+black 20
+black 20
+black 20

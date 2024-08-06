@@ -1,0 +1,67 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Scarlet Noelle Masen"
+date "May  4, 2018"
+description "A simple little puzzle. Copy because this time it's half Marinette Dupain-Cheng and half Ladybug. From the show Miraculous."
+difficulty 2.25
+height 20
+id 31160
+link "https://webpbn.com/play.cgi?id=31160"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Copy of With Or Without the Mask"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6 red 1 black 4 red 1
+black 3 black 2 red 3 black 2 red 4
+black 2 red 1 red 10
+black 1 black 1 red 11 black 1 red 1
+black 7 red 6 black 7
+black 2 black 2 black 1 red 4 black 2 black 2 red 1
+black 2 blue 2 black 2 black 2 red 2 black 2 blue 2 black 2
+black 1 blue 1 black 1 blue 1 black 2 black 2 red 1 black 2 blue 1 black 1 blue 1 black 1 red 1
+black 1 blue 1 black 2 blue 1 black 1 black 1 red 2 black 1 blue 1 black 2 blue 1 black 1 red 1
+black 2 blue 2 black 3 red 3 black 3 blue 2 black 2 red 1
+black 6 black 1 red 4 black 6 red 2
+black 1 red 12
+black 1 red 12
+black 1 red 11
+black 3 red 1 black 2 red 7
+black 3 red 5
+red 1 red 1 black 2 red 4
+black 2 red 3 black 2
+black 5
+red 3
+
+columns
+black 1 black 1 black 1
+black 1 black 7
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 1 black 1 blue 2 black 1
+black 1 black 1 blue 1 black 2 blue 1 black 1
+black 1 black 2 blue 1 black 1 blue 1 black 1
+black 2 black 2 blue 2 black 2
+black 2 black 2 black 1
+black 2 black 3 black 1
+black 2
+black 1 red 2 black 1 red 1
+red 3 black 4 red 1 black 3 black 1 red 1 black 1 red 1
+red 3 black 2 red 5 black 2 red 2 black 1 red 1
+red 11 black 2
+red 5 black 3 red 5 black 1
+red 5 black 2 black 1 red 4 black 2
+red 5 black 2 blue 2 black 2 red 3 black 3
+black 1 red 3 black 2 blue 1 black 1 blue 1 black 1 red 4 black 2
+black 2 red 2 black 1 blue 1 black 2 blue 1 black 1 red 6
+black 2 red 2 black 1 blue 2 black 1 red 6
+black 1 red 3 black 1 black 1 red 6
+red 4 black 2 black 2 red 6
+red 2 black 7 red 6
+red 3 black 1 red 1 black 1 red 8

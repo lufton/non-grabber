@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "May  2, 2012"
+description "to ever go to the prom or any dance in HS. but how about a powder blue tux with green bow tie and cummerbund?"
+difficulty 1.5
+height 20
+id 18516
+link "https://webpbn.com/play.cgi?id=18516"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP 108 Way too shy..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 1 green 1 black 1
+blue 2 black 2 green 4 black 2 blue 3
+blue 1 blue 1 black 1 blue 2 green 1 green 1 blue 2 black 1 blue 1 blue 2
+blue 3 blue 3 blue 3 blue 3
+blue 5 blue 2 blue 2 blue 5
+blue 5 blue 1 blue 1 blue 5
+blue 4 blue 3 blue 3 blue 4
+blue 2 blue 1 blue 3 blue 3 blue 1 blue 2
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2
+blue 2 blue 2 blue 2 blue 2 blue 1
+blue 2 blue 2 blue 1 blue 3 blue 1
+blue 3 blue 2 blue 2 blue 2
+blue 2 blue 2 blue 2 blue 2
+blue 3 blue 1 green 2 blue 1 blue 3
+blue 3 blue 1 green 2 blue 1 blue 3
+blue 3 blue 1 green 2 blue 1 blue 3
+blue 4
+blue 12
+blue 10
+blue 10
+
+columns
+blue 5
+blue 5
+blue 5
+blue 1 blue 9
+blue 2 blue 2 blue 8 blue 1
+black 2 blue 1 blue 2 blue 5 blue 3
+black 2 blue 3 blue 5 blue 3 blue 3
+blue 11 blue 3
+green 3 blue 9
+green 1 green 3 blue 4
+green 1 green 3 blue 4
+green 3 blue 9
+blue 11 blue 3
+black 2 blue 3 blue 4 blue 3 blue 3
+black 2 blue 1 blue 2 blue 6 blue 3
+blue 2 blue 2 blue 8 blue 1
+blue 1 blue 8
+blue 6
+blue 7
+blue 7

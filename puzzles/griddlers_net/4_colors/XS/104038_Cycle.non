@@ -1,0 +1,35 @@
+by "superbama"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/16/11"
+height 7
+id 104038
+link "https://www.griddlers.net/nonogram/-/g/104038"
+medium_time "0:00:55"
+points 35
+popularity 43.46
+title "Cycle"
+width 7
+
+color a ffffff
+color b 993300
+color c 000000
+color d 999900
+
+rows
+c 2
+c 2
+d 1 b 2
+d 2 b 1
+b 2 d 1 b 2
+c 1 c 1 b 1 c 1 c 1
+c 1 c 1
+
+columns
+c 1
+b 1 c 1
+c 2 d 2 b 1 c 1
+c 2 d 2 b 1
+b 1 b 1 c 1
+b 3 c 1
+c 1

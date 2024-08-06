@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Oct 16, 2009"
+description "You should have breakfast every morning. Two pieces of toast, sunny-side up egg, and two pieces of bacon on a plate."
+difficulty 2.75
+height 20
+id 6953
+link "https://webpbn.com/play.cgi?id=6953"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Every Morning"
+width 20
+
+rows
+8
+3,3
+2,2
+2,7,2
+2,1,2,2
+1,5,2,1,1
+2,1,1,2,1,1,2
+1,1,4,1,2,1
+1,1,4,2,1,1
+1,3,1,1,1,1
+1,2,1,2,1
+1,1,3,2,1,1
+1,2,2,1,1,1
+2,2,2,1,2
+1,1,2,2,1
+2,1,2,1,2
+2,2,1,2
+2,2,2,2
+3,4,3
+8
+
+columns
+8
+3,3
+2,2
+2,7,2
+2,1,2,2
+1,1,2,1
+2,1,2,4,2
+1,7,2,2,1
+1,1,2,2,3
+1,1,2,1,2,2
+1,1,2,2,2,2
+1,3,2,3
+1,2,2,1,1
+2,1,3,3,2
+1,4,1
+2,3,3,2
+2,4,2
+2,3,2
+3,3
+8

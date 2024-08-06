@@ -1,0 +1,58 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/30/19"
+height 22
+id 199400
+link "https://www.griddlers.net/nonogram/-/g/199400"
+medium_time "0:03:57"
+points 2050
+popularity 80.89
+title "Woman in Kimono"
+width 11
+
+color a ffffff
+color b 000000
+color c 996600
+color d 9900cc
+color e c984ff
+color f eecbff
+color g ffe3ce
+color h ff9999
+
+rows
+b 3
+b 1 c 3 b 1
+b 1 d 5 b 1
+b 1 c 5 b 1
+b 1 c 7 b 1
+b 1 c 2 g 1 c 6 b 1
+b 1 c 1 g 6 c 2 b 1
+b 1 c 1 g 1 b 2 g 1 b 2 g 1 c 1 b 1
+b 1 g 7 b 1
+b 1 g 2 h 1 g 2 b 1
+b 1 g 3 b 1
+b 1 e 1 f 1 g 1 f 1 e 1 b 1
+b 1 e 3 f 1 e 3 b 1
+b 1 e 1 b 1 e 3 f 1 e 1 b 1 e 1 b 1
+b 1 e 1 b 7 e 1 b 1
+b 1 e 1 b 1 d 5 b 1 e 1 b 1
+b 1 g 1 b 1 d 5 b 1 g 1 b 1
+b 9
+b 1 e 3 f 1 e 1 b 1
+b 1 e 3 f 1 e 1 b 1
+b 1 e 3 f 1 e 1 b 1
+b 5
+
+columns
+b 3 b 4
+b 1 c 3 b 1 b 1 e 3 g 1 b 1
+b 2 c 2 g 3 b 1 b 1 e 1 b 8
+b 1 d 1 c 2 g 2 b 1 g 2 b 1 e 3 b 1 d 2 b 1 e 3 b 1
+b 1 c 1 d 1 c 3 g 1 b 1 g 3 f 1 e 2 b 1 d 2 b 1 e 3 b 1
+b 1 c 1 d 1 c 3 g 3 h 1 g 2 f 1 e 1 b 1 d 2 b 1 e 3 b 1
+b 1 c 1 d 1 c 3 g 1 b 1 g 3 f 1 e 1 f 1 b 1 d 2 b 1 f 3 b 1
+b 1 d 1 c 3 g 1 b 1 g 2 b 1 e 3 b 1 d 2 b 1 e 3 b 1
+b 2 c 3 g 2 b 1 b 1 e 1 b 8
+b 1 c 3 b 1 b 1 e 3 g 1 b 1
+b 3 b 4

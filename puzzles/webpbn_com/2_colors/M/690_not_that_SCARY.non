@@ -1,0 +1,62 @@
+by "Robin Closs (clossr)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Robin Closs"
+date "Jan  1, 2007"
+description "This is my first puzzle. I've really enjoyed doing paint by number puzzles so I thought I'd try to give something back by making a puzzle myself. I'm not very artistic, but it was fun. Watch out for the big fish! Woohoo. This website is a lot of fun."
+difficulty 2.25
+height 25
+id 690
+link "https://webpbn.com/play.cgi?id=690"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "not that SCARY"
+width 20
+
+rows
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1
+3,3,3,3,3
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,5,1,1
+6
+7
+8
+11
+3,4,1
+2,2,2
+1,2,1,1,2,3
+1,1,1,5
+1,2,1,1,4
+2,2,1,1,5
+4,2,3
+4,4,2
+7,1
+0
+1
+2,3
+4,1,3
+6,5
+5,6
+7,6
+
+columns
+4,5
+1,1,2,2
+4,2,1
+2,1,2,1,1
+5,2,1,3,4
+1,2,2,1,5
+5,3,1,2,5
+3,1,4
+9,1,1,1,3
+1,4,2,1,1
+10,1
+6,1,1,2
+7,2,2,2
+1,2,2,1
+5,2,2,2
+2,2,4
+5,3,3
+1,5,5
+5,7,5
+9,6

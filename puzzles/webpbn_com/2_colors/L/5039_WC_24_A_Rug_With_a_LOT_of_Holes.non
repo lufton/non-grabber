@@ -1,0 +1,71 @@
+by "K Chouinard (codenumerator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by K Chouinard"
+date "Feb 19, 2009"
+description "This image is the third iteration of the procedure that leads to the Sierpinski carpet. The construction of the Sierpinski carpet begins with a square. The square is cut into 9 congruent subsquares in a 3-by-3 grid, and the central subsquare is removed. The same procedure is then applied recursively to the remaining 8 subsquares, ad infinitum. (To get a better feel for these iterations, visit http://www.shodor.org/interactivate/activities/SierpinskiCarpet ). Now the INTERESTING part!!!! If the original square is 1 foot by 1 foot, then after the first iteration, the area is 8/9 square feet. At each step, you are removing 1/9 of the remaining area. So after two iterations, the area is (8/9)^2 (i.e., eight-ninths times itself). Here, in the picture shown, the area is then (8/9)^3 = (8/9) x(8/9)x(8/9). But if we let the number of iterations go to infinity, we are multiplying 8/9 times itself over and over again. The result of doing that is that the area eventually becomes ZERO!"
+difficulty 1.25
+height 27
+id 5039
+link "https://webpbn.com/play.cgi?id=5039"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WC #24: A Rug With a LOT of Holes"
+width 27
+
+rows
+27
+1,2,2,2,2,2,2,2,2,1
+27
+3,6,6,3
+1,1,1,2,1,1,2,1,1,1
+3,6,6,3
+27
+1,2,2,2,2,2,2,2,2,1
+27
+9,9
+1,2,2,1,1,2,2,1
+9,9
+3,3,3,3
+1,1,1,1,1,1,1,1
+3,3,3,3
+9,9
+1,2,2,1,1,2,2,1
+9,9
+27
+1,2,2,2,2,2,2,2,2,1
+27
+3,6,6,3
+1,1,1,2,1,1,2,1,1,1
+3,6,6,3
+27
+1,2,2,2,2,2,2,2,2,1
+27
+
+columns
+27
+1,2,2,2,2,2,2,2,2,1
+27
+3,6,6,3
+1,1,1,2,1,1,2,1,1,1
+3,6,6,3
+27
+1,2,2,2,2,2,2,2,2,1
+27
+9,9
+1,2,2,1,1,2,2,1
+9,9
+3,3,3,3
+1,1,1,1,1,1,1,1
+3,3,3,3
+9,9
+1,2,2,1,1,2,2,1
+9,9
+27
+1,2,2,2,2,2,2,2,2,1
+27
+3,6,6,3
+1,1,1,2,1,1,2,1,1,1
+3,6,6,3
+27
+1,2,2,2,2,2,2,2,2,1
+27

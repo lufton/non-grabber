@@ -1,0 +1,122 @@
+by "Benjamin (ghost24013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Benjamin"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 50
+id 26269
+link "https://webpbn.com/play.cgi?id=26269"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "pacman ghost"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+red 21
+red 23
+red 25
+red 27
+red 29
+red 31
+red 33
+red 35
+red 37
+red 39
+red 40
+red 40
+red 40
+red 40
+red 40
+red 8 red 4 red 12
+red 8 red 4 red 12
+red 8 blue 6 red 4 blue 6 red 12
+red 8 blue 3 blue 1 red 4 blue 3 blue 1 red 12
+red 8 blue 3 blue 1 red 4 blue 3 blue 1 red 12
+red 8 blue 6 red 4 blue 6 red 12
+red 40
+red 40
+red 40
+red 40
+red 40
+red 40
+red 10 black 1 red 7 black 1 red 7 black 1 red 13
+red 9 black 1 red 1 black 1 red 5 black 1 red 1 black 1 red 5 black 1 red 1 black 1 red 12
+red 8 black 1 red 3 black 1 red 3 black 1 red 3 black 1 red 3 black 1 red 3 black 1 red 11
+red 7 black 1 red 5 black 1 red 1 black 1 red 5 black 1 red 1 black 1 red 5 black 1 red 10
+red 6 black 1 red 7 black 1 red 7 black 1 red 7 black 1 red 9
+red 40
+red 40
+red 40
+red 40
+red 40
+red 40
+red 7 red 7 red 7 red 7 red 7
+red 5 red 5 red 5 red 5 red 5
+red 3 red 3 red 3 red 3 red 3
+red 1 red 1 red 1 red 1 red 1
+0
+0
+0
+0
+0
+
+columns
+0
+0
+0
+0
+0
+red 29
+red 31
+red 33
+red 35
+red 37
+red 37
+red 28 black 1 red 8
+red 28 black 1 red 8
+red 14 red 8 black 1 red 8
+red 15 red 7 black 1 red 10
+red 15 blue 4 red 6 black 1 red 12
+red 15 blue 4 red 7 black 1 red 12
+red 15 blue 4 red 8 black 1 red 12
+red 15 blue 1 blue 1 red 9 black 1 red 10
+red 15 blue 1 blue 1 red 10 black 1 red 8
+red 15 blue 4 red 9 black 1 red 8
+red 29 black 1 red 8
+red 28 black 1 red 10
+red 27 black 1 red 12
+red 28 black 1 red 12
+red 15 red 8 black 1 red 12
+red 15 red 9 black 1 red 10
+red 15 blue 4 red 10 black 1 red 8
+red 15 blue 4 red 9 black 1 red 8
+red 15 blue 4 red 8 black 1 red 8
+red 15 blue 1 blue 1 red 7 black 1 red 10
+red 15 blue 1 blue 1 red 6 black 1 red 12
+red 15 blue 4 red 7 black 1 red 12
+red 29 black 1 red 12
+red 30 black 1 red 10
+red 30 black 1 red 8
+red 37
+red 35
+red 35
+red 35
+red 35
+red 35
+red 33
+red 31
+red 29
+0
+0
+0
+0
+0

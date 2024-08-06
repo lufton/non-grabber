@@ -1,0 +1,62 @@
+by "aya"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/29/07"
+height 25
+id 45198
+link "https://www.griddlers.net/nonogram/-/g/45198"
+medium_time "0:11:05"
+points 3042
+popularity 72.42
+title "Corn"
+width 15
+
+color a 99ff99
+color b 000000
+color c ffff00
+color d 00cc33
+color e ffcc00
+
+rows
+b 1
+b 2
+b 1 c 1 b 1
+b 1 c 2 b 2
+b 1 e 1 c 2 b 1
+b 1 c 3 b 1 b 1
+b 1 c 2 e 1 b 2 b 2
+b 1 b 1 c 1 e 1 c 2 b 1 b 3
+b 4 c 4 b 2 b 2 d 1 b 1
+b 1 d 1 b 2 c 5 b 3 d 1 b 1
+b 1 d 1 b 1 c 1 e 1 c 1 e 1 c 1 b 2 d 1 b 1
+b 1 d 2 b 1 c 4 b 1 d 2 d 1 b 1
+b 2 d 1 b 2 c 1 e 1 c 1 b 1 d 1 b 2
+b 1 d 1 b 2 c 2 b 1 d 1 b 2
+b 2 d 3 b 1 c 1 b 1 d 1 b 3
+b 1 d 2 b 2 d 1 d 1 b 3
+b 1 d 1 d 2 b 1 d 2 b 3
+b 1 d 1 d 2 b 1 d 1 b 3
+b 2 d 1 d 1 b 4
+b 1 d 2 b 4
+b 2 d 1 b 3
+b 2 d 1 b 2
+b 3
+b 2
+b 1
+
+columns
+b 6
+b 1 d 1 b 3
+b 2 d 2 b 3
+b 8 d 2 d 1 b 2
+b 1 c 1 e 1 c 6 b 2 d 2 d 1 b 2
+b 2 c 5 e 1 c 2 e 1 c 1 b 2 d 2 d 2 b 1
+b 3 c 2 e 1 c 6 b 1 d 3 d 1 b 2
+b 4 c 3 e 1 c 1 e 1 c 1 b 2 d 2 d 1 b 2
+b 3 c 6 b 2 d 2 d 1 b 2
+b 7 d 2 b 8
+b 2 d 2 d 2 b 4
+b 2 d 2 d 2 b 5
+b 2 d 1 d 1 b 6
+b 2 d 1 d 1 b 6
+b 11

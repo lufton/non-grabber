@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jul  2, 2010"
+description "A poster I had when I was younger.. (Love Sees No Color)"
+difficulty 1.5
+height 20
+id 9440
+link "https://webpbn.com/play.cgi?id=9440"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Blind"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+black 10
+black 10
+black 10
+black 5 red 2 black 3 red 2
+black 4 red 4 black 1 red 4
+black 3 red 11
+black 3 red 11
+black 4 red 9
+black 5 red 7
+red 5 black 9
+red 3 black 10
+red 1 black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+
+columns
+black 10
+black 10
+black 10
+black 6 red 2 black 2
+black 5 red 4 black 1
+black 4 red 6
+black 4 red 7
+black 5 red 7
+black 6 red 7
+black 5 red 7
+red 7 black 9
+red 6 black 10
+red 4 black 10
+red 2 black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10

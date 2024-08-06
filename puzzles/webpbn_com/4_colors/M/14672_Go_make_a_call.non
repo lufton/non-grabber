@@ -1,0 +1,72 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 16, 2011"
+description "British telephone box. Telephone sign to the right."
+difficulty 2.0
+height 30
+id 14672
+link "https://webpbn.com/play.cgi?id=14672"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Go make a call"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 2 red 5 black 2
+black 1 red 9 black 1
+black 1 red 11 black 1 blue 4
+black 2 red 11 black 2 blue 1 blue 1
+black 3 red 9 black 3 blue 1 blue 2
+black 1 red 2 black 2 red 6 black 2 black 1 blue 1 blue 2
+black 1 red 2 black 1 red 1 black 2 red 2 black 3 black 1 blue 1 blue 2
+black 1 red 2 black 1 red 3 black 2 black 1 black 1 blue 1 blue 1
+black 1 red 2 black 1 red 3 black 1 black 1 black 1 blue 4
+black 1 red 2 black 1 red 3 black 1 black 1 black 1 blue 4
+black 1 red 2 black 1 red 3 black 1 black 1 black 1 black 2
+black 2 red 1 black 1 red 3 black 1 black 1 black 1 black 2
+black 1 red 1 black 2 red 3 black 1 black 1 black 1 black 2
+black 1 red 2 black 2 red 2 black 1 black 4 black 2
+black 1 red 2 black 1 red 1 black 3 black 2 red 2 black 1 black 2
+black 1 red 2 black 1 red 3 black 4 red 3 black 1 black 2
+black 1 red 2 black 1 red 3 black 1 red 2 black 1 red 1 black 3 black 2
+black 1 red 2 black 1 red 3 black 1 red 2 black 1 red 1 black 3 black 2
+black 1 red 2 black 1 red 3 black 1 red 2 black 1 red 3 black 1 black 2
+black 2 red 1 black 1 red 3 black 1 red 2 black 1 red 3 black 1 black 2
+black 1 red 1 black 2 red 3 black 1 red 2 black 1 red 3 black 1 black 2
+black 1 red 2 black 2 red 2 black 1 red 2 black 1 red 3 black 1 black 2
+black 1 red 2 black 1 red 1 black 3 red 2 black 1 red 3 black 1 black 2
+black 2 red 1 black 1 red 3 black 1 red 2 black 1 red 3 black 1 black 2
+black 3 red 3 black 1 red 2 black 1 red 2 black 2 black 2
+black 2 red 3 black 1 red 2 black 3
+black 2 red 1 black 1 red 1 black 2
+black 3
+0
+
+columns
+black 21
+black 3 red 6 black 1 red 7 black 1 red 3 black 2
+black 1 red 2 black 1 red 7 black 1 red 7 black 1 red 3 black 2
+black 1 red 4 black 21
+black 1 red 4 black 1 red 7 black 1 red 7 black 1 red 4 black 1
+black 1 red 6 black 1 red 7 black 1 red 7 black 1 red 3 black 1
+black 1 red 6 black 1 red 7 black 1 red 7 black 1 red 4 black 1
+black 1 red 7 black 21
+black 1 red 7 black 1 black 1 red 11 black 1
+black 1 red 6 black 1 black 1 red 10 black 1
+black 1 red 5 black 1 black 13
+black 1 red 4 black 10 red 10 black 1
+black 1 red 2 black 2 black 1 red 2 black 2 red 7 black 1
+black 3 black 1 red 2 black 2 red 6 black 1
+black 22
+0
+blue 8 black 15
+blue 1 blue 2 black 15
+blue 1 blue 3 blue 2
+blue 8

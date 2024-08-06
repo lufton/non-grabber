@@ -1,0 +1,48 @@
+by "Wendy (wen9988)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Wendy"
+date "Apr 15, 2009"
+description "..head ;)"
+difficulty 1.25
+height 15
+id 5619
+link "https://webpbn.com/play.cgi?id=5619"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Banana..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 10
+green 10
+green 4 red 1 green 5
+green 1 red 1 green 2 red 1 green 2 red 1 green 2
+green 2 red 1 green 1 red 1 green 1 red 1 green 3
+green 2 black 1 red 3 black 1 green 3
+green 2 black 1 black 1 green 3
+green 2 black 1 blue 1 black 1 green 3
+green 2 black 1 black 2 green 2
+green 2 black 1 black 1 green 3
+green 2 black 1 black 3 green 2
+green 2 black 1 black 1 green 1
+green 2 black 1 black 1 green 1
+green 3 black 1 black 1 green 2
+green 4 black 3 green 3
+
+columns
+green 15
+green 3 red 1 green 11
+green 4 red 1 black 8 green 2
+green 5 red 1 black 1 green 1
+green 2 red 4 black 1
+green 5 red 1 blue 1 black 1 black 1
+green 4 red 1 black 6 black 1
+green 3 red 1 green 4 black 1 green 1 black 1 black 1 green 1
+green 11 black 2 green 2
+green 15

@@ -1,0 +1,72 @@
+by "Beth Briggs (YodaTrophy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Beth Briggs"
+date "Mar 12, 2014"
+description "R2D2"
+difficulty 2.5
+height 25
+id 24003
+link "https://webpbn.com/play.cgi?id=24003"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 3.75
+title "Little squat guy"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 6
+black 1 blue 1 blue 2 blue 1 black 1
+black 1 black 1
+black 1 black 3 black 1
+black 1 black 1 black 2 black 1
+black 1 blue 2 black 1 black 2 blue 2 black 1
+black 1 blue 2 black 4 red 1 blue 3 black 1
+black 1 black 1
+black 14
+black 4 black 1 black 1 black 4
+black 1 black 1 blue 5 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 blue 5 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 4 blue 3 black 1 black 1 black 4
+black 1 black 4 blue 1 blue 1 black 3 black 1 black 1
+black 1 black 2 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 2 black 1 blue 3 black 1 black 1
+black 1 black 14 black 1
+black 5 black 5
+black 1 black 1 black 10 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 6 black 5
+
+columns
+0
+0
+black 3
+black 12 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 20
+black 1 blue 2 black 1 black 5
+black 1 blue 2 black 1 black 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 4 black 1
+black 1 blue 1 black 3 black 1 blue 1 blue 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 blue 1 blue 1 blue 4 black 1 black 2 black 1
+black 1 blue 1 black 1 black 1 black 1 blue 1 blue 1 blue 1 blue 1 black 1 black 1 black 1
+black 1 blue 1 black 4 black 1 blue 1 blue 1 blue 4 black 1 black 1 black 1
+black 1 black 2 red 1 black 1 black 1 black 2 black 1
+black 1 blue 1 black 8 black 1 black 1 black 2
+black 1 blue 1 black 1 black 1 black 1 black 1
+black 1 blue 2 black 8 black 1 black 1
+black 1 blue 2 black 1 black 2
+black 20
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 12 black 1
+black 3
+0

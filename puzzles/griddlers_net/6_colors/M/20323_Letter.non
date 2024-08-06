@@ -1,0 +1,58 @@
+by "nhfk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/3/05"
+height 18
+id 20323
+link "https://www.griddlers.net/nonogram/-/g/20323"
+medium_time "0:04:29"
+points 2068
+popularity 56.28
+title "Letter"
+width 17
+
+color a fffefe
+color b ffc7fe
+color c bdfefe
+color d 000000
+color e e5e2fe
+color f ff0000
+
+rows
+b 8 b 7
+b 7 b 6
+b 6 c 2 b 5
+b 5 c 1 d 1 c 2 b 4
+b 4 c 3 d 1 c 2 b 3
+b 3 c 2 d 1 c 2 d 1 c 2 b 2
+b 2 c 4 d 1 c 2 d 1 c 2 b 1
+b 1 c 3 d 1 c 2 d 1 c 2 d 1 c 1 b 1
+b 1 c 5 d 1 c 2 d 1 c 2 b 1
+b 1 e 15 b 1
+b 1 f 2 b 1
+b 1 f 2 b 1
+b 1 d 8 f 2 b 1
+b 1 b 1
+b 1 d 5 b 1
+b 1 b 1
+b 1 b 1
+b 17
+
+columns
+b 18
+b 7 e 1 b 1
+b 6 c 1 e 1 b 1
+b 5 c 2 e 1 d 1 d 1 b 1
+b 4 c 3 e 1 d 1 d 1 b 1
+b 3 c 4 e 1 d 1 d 1 b 1
+b 2 c 3 d 1 c 1 e 1 d 1 d 1 b 1
+b 1 c 2 d 1 c 2 d 1 e 1 d 1 d 1 b 1
+c 1 d 1 c 2 d 1 c 2 e 1 d 1 b 1
+c 2 d 1 c 2 d 1 c 1 e 1 d 1 b 1
+b 1 c 2 d 1 c 2 d 1 e 1 d 1 b 1
+b 2 c 2 d 1 c 2 e 1 b 1
+b 3 c 2 d 1 c 1 e 1 b 1
+b 4 c 2 e 1 f 3 b 1
+b 5 e 1 f 3 b 1
+b 6 e 1 b 1
+b 18

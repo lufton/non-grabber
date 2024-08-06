@@ -1,0 +1,103 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Jan 18, 2011"
+description "it's chris(9 yr.s old)and i've made a spacey-puzzle!in the bottom left is an alien,the thing in the middle is a black hole,the red,blue,and green things are light being sucked into the black hole!if you've been wondering what that thing is in the top-right is,IT'S A PLANET-GOBBLER!OH-NO!!(thats all!)"
+difficulty 2.25
+height 40
+id 11815
+link "https://webpbn.com/play.cgi?id=11815"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title ""to go were no man has gone before...." (by Chris)"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6
+green 2 red 4 green 1
+red 3 green 1 red 1 red 1
+red 2 black 1 green 2 red 4 green 1
+red 1 black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 7
+black 5 black 19 green 6
+black 3 black 21
+black 1 black 23
+black 22 black 1
+black 24
+black 25
+black 25
+black 25
+black 25
+black 17 red 3 black 1 red 3 black 1 red 3 red 3 red 1
+black 16 red 3 black 1 red 3 black 1 red 3 red 3 red 3
+black 8 blue 1 black 1 blue 1 black 14
+black 8 blue 1 black 1 blue 1 black 3 green 1 black 10
+black 6 blue 1 black 1 blue 1 black 4 green 2 black 10
+black 6 blue 1 black 1 blue 1 black 6 green 2 black 8
+black 4 blue 1 black 1 blue 1 black 8 green 2 black 8
+black 4 blue 1 black 1 blue 1 black 10 green 2 black 6
+black 2 blue 1 black 1 blue 1 black 12 green 2 black 6
+blue 1 blue 1 blue 1 black 1 blue 2 black 1 blue 1 black 14 green 2 black 4
+blue 1 blue 1 blue 1 black 2 blue 1 black 16 green 2 black 4
+black 21 green 2 black 2
+black 21 green 2
+green 3 green 3 black 19 green 2
+green 1 black 1 green 1 green 1 black 1 green 1 black 18 green 2
+green 3 green 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 2
+green 1 green 1 green 2
+green 1 green 1 green 2
+green 5 green 2
+green 2 green 2 blue 3 green 2
+green 9 blue 3 red 1 green 2
+green 9 blue 3 red 2 green 2
+green 2 green 3 green 2 red 4 green 2
+green 2 green 3 green 2 red 3 green 2
+green 2 green 3 green 2 green 1
+green 2 green 3 green 2
+
+columns
+red 3 black 1 blue 1
+red 2 black 3 blue 1 green 6
+red 1 black 5 blue 1 green 3 green 7
+black 3 blue 1 green 1 black 1 green 7
+black 1 blue 1 green 3 green 1 green 6
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 black 1 green 1 green 6
+black 14 blue 1 black 3 green 3 green 1 green 6
+black 16 blue 1 black 3 green 1 black 1 green 7
+black 16 blue 1 black 1 blue 1 black 2 green 3 green 7
+black 16 blue 1 black 1 blue 1 black 6 green 6
+black 16 blue 1 black 1 blue 1 black 6
+black 14 blue 1 black 1 blue 1 black 8
+black 14 blue 1 black 1 blue 1 black 8
+black 12 blue 1 black 1 blue 1 black 10
+black 12 blue 1 black 1 blue 1 black 10
+black 12 blue 1 black 12
+black 12 blue 1 black 12
+black 25
+black 25
+black 12 green 2 black 11
+black 14 green 2 black 9
+black 10 red 1 black 3 green 2 black 9
+black 11 red 1 black 4 green 2 black 7 blue 3
+black 9 red 2 black 5 green 2 black 7 blue 3 red 1
+black 10 red 1 black 7 green 2 black 5 blue 3 red 2
+black 9 red 2 black 7 green 2 black 5 red 4
+black 11 red 1 black 8 green 2 black 3 red 3
+black 9 red 2 black 9 green 2 black 1
+black 8 red 1 black 11 green 2
+black 1 black 5 red 2 black 10 green 2
+black 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 green 2
+red 2 green 2
+red 1 green 2
+green 4 red 2 green 2
+green 2 red 1 green 3 red 1 green 2
+green 1 red 1 red 1 green 2 red 2 green 2
+green 1 red 1 red 1 green 2 red 1 green 2
+green 1 red 1 red 1 green 2 red 2 green 2
+green 1 red 1 red 1 green 2 red 1 green 2
+green 2 red 1 green 3 red 2 green 2

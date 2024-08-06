@@ -1,0 +1,47 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Nov  3, 2013"
+description ""
+difficulty 2.0
+height 15
+id 23083
+link "https://webpbn.com/play.cgi?id=23083"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "a hot dog of a lil guy..."
+width 15
+
+rows
+3
+2,2
+4,4
+2,1,1,2
+4,5
+4,4
+4,1,3
+4,3,3
+2,2,3,3
+1,3,1,4
+1,3,3,1,2
+2,1,2,3,1
+3,1,1,1
+4,5,1
+1,2,2,1
+
+columns
+7
+1,3
+1,3
+6,2
+10
+7,2,1
+2,3,1,1
+1,3,2,2,2
+1,5,2
+1,3,2,2,1
+2,2,1,1
+6,4
+8,2
+9
+4

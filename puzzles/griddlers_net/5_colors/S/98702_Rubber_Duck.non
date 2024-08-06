@@ -1,0 +1,46 @@
+by "farfalla19"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/11/10"
+height 12
+id 98702
+link "https://www.griddlers.net/nonogram/-/g/98702"
+medium_time "0:02:56"
+points 132
+popularity 75.48
+title "Rubber Duck"
+width 12
+
+color a ffffff
+color b 000000
+color c faf723
+color d fe30a5
+color e ffcccc
+
+rows
+d 4
+d 6
+c 1 d 1 b 1 d 3
+c 3 d 5
+c 3 d 3
+d 3 d 3 d 1
+d 8 e 1 d 1
+d 4 e 1 d 3 e 1 d 2
+d 5 e 3 d 3
+d 11
+d 9
+d 7
+
+columns
+c 1
+c 2 d 3
+d 1 c 3 d 5
+d 4 c 1 d 7
+d 2 b 1 d 9
+d 7 e 1 d 4
+d 5 d 2 e 1 d 3
+d 3 d 3 e 1 d 3
+d 3 e 1 d 3
+d 2 e 1 d 4
+e 1 d 4
+d 5

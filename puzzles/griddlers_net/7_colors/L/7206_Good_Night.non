@@ -1,0 +1,84 @@
+by "nio"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/14/04"
+height 35
+id 7206
+link "https://www.griddlers.net/nonogram/-/g/7206"
+medium_time "0:32:19"
+points 13670
+popularity 72.61
+title "Good Night"
+width 25
+
+color a 2e2fa0
+color b ff4485
+color c ea8ed2
+color d 0000ff
+color e 5fb3fe
+color f ffcecc
+color g fffeb2
+
+rows
+0
+g 1 g 3
+g 1 d 1 g 1 g 5
+g 1 b 1 g 5
+b 1 g 5
+b 5 g 3
+b 2 c 5 b 2
+b 2 c 9 b 2
+b 1 c 13 b 1
+b 3 c 1 b 1 c 1 b 1 c 2 b 1 c 2 b 1 c 1 b 1 c 1 b 1
+b 3 c 5 b 1 c 2 b 1 c 2 b 1 c 1 b 3 e 2
+b 3 c 1 b 1 c 1 b 2 c 1 b 1 c 2 b 1 c 1 b 5 e 2
+b 2 b 1 c 1 b 1 b 2 c 1 b 2 b 1 e 6
+b 1 b 1 b 1 c 1 b 1 e 7
+b 1 e 7
+b 1 e 1 f 3 e 3
+g 1 b 1 f 2 d 1 f 2 e 2
+g 1 d 1 g 1 e 4 b 1 e 1 f 4 d 1 f 1 e 1
+g 1 e 5 b 1 e 2 f 1 c 1 f 3
+e 5 f 2 e 2 f 3
+e 3 f 3 e 1 b 1 e 3
+e 1 d 3 e 1 f 1 b 2 e 5
+e 9 e 4
+e 9 e 4
+e 4 d 1 e 4 e 2 f 1
+e 4 d 1 e 5 f 3
+e 4 d 1 e 4 g 1 f 2
+e 4 d 1 e 5 g 1 d 1 g 1
+e 4 d 1 e 4 f 1 g 1 d 1 g 1 d 1
+e 5 d 1 e 1 f 3 g 1 d 1
+e 5 d 1 f 2 d 1 g 1 d 1 g 1
+e 4 f 1 f 1 d 1 g 1 g 1 d 1
+g 1 f 3 g 1 d 1 g 1 d 1 g 1
+g 1 d 1 g 1 f 2 g 1 d 1 d 1 g 1
+g 1 f 1 d 1 g 1
+
+columns
+g 1
+g 1 g 1 d 1 g 1
+g 1 d 1 g 1 g 1
+g 1 b 4 g 1
+g 1 d 1 g 1 b 4
+g 1 b 4 e 3
+b 1 c 1 b 1 c 2 b 1 e 7
+b 1 c 3 b 1 c 1 b 1 e 2 e 10
+b 1 c 2 b 1 c 2 b 1 e 4 d 1 e 10
+b 1 c 4 b 1 e 4 d 1 e 3 d 3 e 4
+b 1 c 3 b 1 c 1 b 2 e 4 d 1 e 2 d 1 e 3 d 1 e 3 f 1
+b 1 c 4 b 1 c 1 b 2 e 3 f 1 e 8 d 1 e 2 f 2
+b 3 c 5 b 1 c 2 b 5 f 3 e 8 d 1 f 4
+b 1 c 3 b 1 c 2 b 2 e 2 f 2 b 1 e 7 f 1
+b 1 c 4 b 1 c 1 b 1 e 2 f 2 e 3 b 1 e 4 e 2 f 2
+b 1 c 4 b 1 e 2 f 4 e 1 b 1 e 2 f 4
+b 1 c 2 b 1 c 2 b 1 e 2 f 1 d 1 f 1 c 1 f 1 e 2
+b 1 c 2 b 2 e 3 f 5 e 3
+b 1 c 1 b 1 c 1 b 1 e 4 f 1 d 1 f 2 e 4 d 2 g 1 d 1
+g 3 b 1 c 1 b 2 e 5 f 2 e 4 g 2 g 2
+g 5 b 3 e 6 e 3 f 1 g 1 d 2 g 2 d 2
+g 5 b 2 e 2 e 1 f 3 g 2 d 1 g 1 g 1
+g 5 e 1 f 2 d 2 g 2 d 2
+g 3 e 2 d 1 g 2
+e 2

@@ -1,0 +1,61 @@
+by "Rachel Clune (rebecca)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Rachel Clune"
+date "Dec 24, 2008"
+description "happy holidays"
+difficulty 1.5
+height 20
+id 4525
+link "https://webpbn.com/play.cgi?id=4525"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Chanuka"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 2 black 1
+black 2 black 1 black 3 black 2
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+blue 20
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 3
+blue 2 blue 3 blue 3 blue 2
+blue 14
+blue 12
+blue 10
+blue 4
+blue 4
+
+columns
+blue 1
+black 3 blue 9
+black 5 blue 10
+black 4 blue 11
+blue 1 blue 2
+blue 1 blue 3
+black 3 blue 13
+black 4 blue 13
+black 3 blue 15
+blue 1 blue 5
+blue 1 blue 5
+black 4 blue 15
+black 5 blue 13
+black 5 blue 13
+blue 1 blue 3
+blue 1 blue 2
+black 3 blue 11
+black 5 blue 10
+black 4 blue 9
+blue 1

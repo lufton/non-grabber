@@ -1,0 +1,82 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.75
+height 25
+id 25562
+link "https://webpbn.com/play.cgi?id=25562"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Super 8..."
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 5
+green 2 green 1 green 2
+green 2 black 1 green 1 black 1 green 2
+green 2 black 2 green 1 black 2 green 2
+green 1 black 3 green 1 black 3 green 1
+green 5 blue 1 green 5
+green 5 green 1 black 3 green 1 black 3 green 1
+green 2 green 1 green 2 green 2 black 2 green 1 black 2 green 2
+green 2 green 1 green 2 blue 11 green 2 blue 2 green 1 black 1 green 2
+green 2 black 1 green 1 black 1 green 2 blue 14 green 2 black 1 green 1 blue 1 green 2
+green 1 black 2 green 1 black 2 blue 2 green 1 blue 4 black 1 green 5
+green 5 blue 1 green 5 blue 2 black 2 blue 1 blue 1
+green 1 black 2 green 1 black 2 green 1 blue 2 black 2 blue 1 blue 2
+green 2 black 1 green 1 black 1 green 2 blue 11 black 2 blue 2 blue 1
+green 2 black 1 green 1 green 2 blue 11 black 2 blue 1 blue 1
+green 2 green 1 black 1 green 2 blue 2 blue 1 black 2 blue 1 blue 2
+green 5 blue 2 blue 3 blue 1 black 1 green 1 blue 2 blue 2 blue 1
+black 2 blue 2 blue 1 black 1 blue 3 blue 1 blue 1 blue 1
+black 2 blue 2 blue 3 blue 1 black 1 blue 3 blue 1 blue 1 blue 2
+black 2 blue 2 blue 1 black 1 green 1 blue 2 blue 2 blue 1
+black 2 blue 9 black 2 blue 1 blue 1
+black 2 green 1 black 2 blue 1 blue 2
+blue 1 black 10 green 1 black 1 blue 3
+blue 2 black 3 blue 2
+blue 18
+
+columns
+green 5
+green 2 green 1 green 2
+green 2 green 1 green 2
+green 2 black 1 green 1 black 1 green 2
+green 1 black 2 green 1 black 3 green 1
+green 5 blue 1 green 5
+green 1 black 2 green 1 black 2 black 1 green 1
+green 2 black 1 green 1 black 1 green 2 black 1
+green 2 blue 1 green 1 green 2 black 2
+green 2 blue 1 green 1 green 2 black 2
+green 5 black 2
+blue 10 black 2 blue 3
+blue 12 black 2 blue 2
+blue 2 blue 2 blue 1 green 1 black 1 blue 1
+blue 3 blue 2 blue 1 blue 1 blue 1 black 1 blue 1
+blue 2 blue 2 blue 1 blue 1 blue 1 black 1 blue 1
+blue 2 blue 2 blue 1 blue 1 blue 1 black 1 blue 1
+blue 2 blue 2 blue 1 black 1 blue 1
+blue 2 blue 2 blue 1 black 1 blue 1
+blue 2 blue 2 blue 1 black 1 blue 1
+blue 2 blue 8 black 1 blue 1
+blue 2 blue 2 black 6 black 2 blue 1
+blue 2 black 2 green 1 blue 2 green 1 black 2 green 1 black 1 blue 1
+blue 2 black 2 blue 2 black 3 blue 1
+green 5 blue 2 black 2 blue 4 blue 1
+green 2 green 1 green 2 blue 1 black 2 blue 1 blue 1 blue 1
+green 2 black 1 green 1 black 1 green 2 black 2 blue 2 blue 1
+green 2 black 2 green 1 black 2 blue 1 green 2 blue 1
+green 1 black 3 green 1 black 2 blue 1 black 1 green 1 blue 14
+green 5 blue 1 green 5 blue 1 blue 1 blue 1 blue 2
+green 1 black 3 green 1 black 3 blue 1 green 1 blue 1 blue 1 blue 1 blue 2
+green 2 black 2 green 1 black 2 green 2 blue 11
+green 2 black 1 green 1 black 1 green 2
+green 2 green 1 green 2
+green 5

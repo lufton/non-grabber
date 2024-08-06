@@ -1,0 +1,70 @@
+by "lses"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/8/06"
+height 40
+id 31498
+link "https://www.griddlers.net/nonogram/-/g/31498"
+medium_time "0:01:54"
+points 762
+popularity 64.44
+title "Ladder"
+width 7
+
+color a ffffff
+color b ff0000
+color d 0000ff
+color e fffe4c
+color g ff928c
+color h 000000
+
+rows
+h 1 h 1
+h 1 h 1
+h 5
+g 1 e 3 g 1
+d 1 e 3 d 1
+d 1 g 3 d 1
+d 5
+h 1 d 3 h 1
+h 1 d 3 h 1
+h 1 d 3 h 1
+h 1 b 3 h 1
+h 1 b 1 h 1 b 1 h 1
+h 1 b 1 b 1 h 1
+h 1 b 1 b 1 h 1
+h 5
+h 1 h 1
+h 1 h 1
+h 5
+g 1 e 3 g 1
+b 1 e 3 b 1
+b 1 g 3 b 1
+b 5
+h 1 b 3 h 1
+h 1 b 3 h 1
+h 1 b 3 h 1
+h 1 d 3 h 1
+h 1 d 1 h 1 d 1 h 1
+h 1 d 1 d 1 h 1
+h 1 d 1 d 1 h 1
+h 5
+h 1 h 1
+h 1 h 1
+h 5
+h 1 h 1
+h 1 h 1
+h 5
+h 1 h 1
+h 1 h 1
+h 5
+h 1 h 1
+
+columns
+0
+h 3 g 1 d 3 h 11 g 1 b 3 h 18
+h 1 e 2 g 1 d 4 b 4 h 1 h 1 e 2 g 1 b 4 d 4 h 1 h 1 h 1 h 1
+h 1 e 2 g 1 d 4 b 1 h 1 h 1 h 1 e 2 g 1 b 4 d 1 h 1 h 1 h 1 h 1 h 1
+h 1 e 2 g 1 d 4 b 4 h 1 h 1 e 2 g 1 b 4 d 4 h 1 h 1 h 1 h 1
+h 3 g 1 d 3 h 11 g 1 b 3 h 18
+0

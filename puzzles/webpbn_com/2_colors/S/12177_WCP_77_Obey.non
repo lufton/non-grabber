@@ -1,0 +1,47 @@
+by "Tyler Buglewicz (tbugs14)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tyler Buglewicz"
+date "Feb 12, 2011"
+description "Inspired by the street art of Shepard Fairey after watching the documentary "Exit through the gift shop"."
+difficulty 1.75
+height 15
+id 12177
+link "https://webpbn.com/play.cgi?id=12177"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #77: Obey"
+width 15
+
+rows
+2,2
+1,1
+5,5
+6,6
+2,3,3,2
+1,3,1,1,3,1
+1,1,1,1
+1,1,1,1,1
+1,1
+2,2
+1,2,2,1
+1,2,2,1
+1,1,5,1,1
+2,2
+15
+
+columns
+6,2,1
+1,3,1
+2,1,1,2,3
+2,2,1,2
+4,1,1
+2,2,3,1
+2,1,1,1,1
+1,1,1
+2,1,1,1,1
+2,2,3,1
+4,1,1
+2,2,1,2
+2,1,1,2,3
+1,3,1
+6,2,1

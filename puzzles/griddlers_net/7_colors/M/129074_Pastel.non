@@ -1,0 +1,61 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/20/12"
+height 19
+id 129074
+link "https://www.griddlers.net/nonogram/-/g/129074"
+medium_time "0:07:28"
+points 1998
+popularity 76.81
+title "Pastel"
+width 18
+
+color a ffffff
+color b 5db9c7
+color c efa25a
+color d da9c94
+color e bd596b
+color f efd784
+color g adba73
+
+rows
+b 3
+b 5
+b 5 c 2
+d 1 e 2 b 3
+b 2 d 2 e 3
+b 3 d 3 e 2
+b 3 d 4 e 2
+b 3 d 5 e 2
+b 4 d 6 e 2
+b 6 d 7 e 2
+d 6 e 2
+d 3 e 3 f 1
+e 3 c 1 f 2
+g 3 c 1 c 2 f 2
+g 2 g 1 c 2 c 3 f 1 g 2
+g 1 g 2 c 3 c 1 g 2
+g 1 c 1 g 3
+g 3 g 3 f 4
+g 5 f 3
+
+columns
+b 1
+b 1
+b 1 g 4
+b 2 g 2 g 1
+b 2 g 1 g 1 g 2
+b 3 g 3 g 1
+b 3 d 2 g 1
+b 3 d 4 g 1
+b 3 d 5 e 1 c 2 g 2
+b 2 d 6 e 1 c 2 g 1
+d 8 e 2 c 2 g 1
+b 2 e 1 d 7 e 1 c 2 c 1 g 1 f 1
+b 3 e 2 d 5 e 2 c 2 g 1 f 2
+b 4 e 7 c 2 g 1 f 2
+b 4 e 6 c 1 g 1 f 2
+b 3 f 3 g 1
+c 1 f 3 g 1
+c 1 g 1

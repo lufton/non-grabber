@@ -1,0 +1,62 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct 14, 2017"
+description "Raphaello from TMNT"
+difficulty 1.75
+height 20
+id 30325
+link "https://webpbn.com/play.cgi?id=30325"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Dude you have anger issues"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+black 1
+green 3 black 1
+green 5 black 1
+red 1 red 1 red 1 black 1
+green 7 black 1 black 1 black 1
+green 1 green 1 black 1 black 1 black 1
+green 5 black 5
+green 3 green 3
+green 7 green 3
+green 9 red 3
+green 11 green 3
+green 13 green 3
+green 16
+green 17
+green 3 green 12
+red 3 green 11
+green 3 red 9
+
+columns
+0
+green 2 red 1 green 1
+green 4 red 1 green 1
+green 5 red 1 green 1
+green 4
+green 7 red 1
+green 2 green 8 red 1
+green 1 red 1 green 1 green 1 green 8 red 1
+green 2 green 1 green 10 red 1
+green 2 red 1 green 1 green 10 red 1
+green 2 green 1 green 10 red 1
+green 1 red 1 green 1 green 1 green 8 red 1
+green 2 green 8 red 1
+green 7 red 1
+green 5
+black 3 green 4
+black 1 green 2 red 1 green 5
+black 7 green 2 red 1 green 4
+black 1 green 2 red 1 green 2
+black 3

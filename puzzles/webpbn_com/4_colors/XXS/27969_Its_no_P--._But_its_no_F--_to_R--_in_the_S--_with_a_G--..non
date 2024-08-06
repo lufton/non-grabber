@@ -1,0 +1,32 @@
+by "Levi Ross (rhodyboy888)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Levi Ross"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 5
+id 27969
+link "https://webpbn.com/play.cgi?id=27969"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "It's no P--. But it's no F-- to R-- in the S-- with a G--."
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3 red 1
+green 1 black 2
+green 2 black 1
+green 1
+green 1 green 1
+
+columns
+green 1 green 1
+green 4
+green 1 green 1 green 1
+black 2
+red 1 black 1

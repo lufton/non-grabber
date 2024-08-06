@@ -1,0 +1,72 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Joe"
+date "Jul  4, 2019"
+description ""I love red hots," said Tom with relish"
+difficulty 2.25
+height 20
+id 32567
+link "https://webpbn.com/play.cgi?id=32567"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Tom Swifty #8"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 4
+red 9
+red 11
+black 4 red 13
+black 3 green 4 red 11
+black 2 green 6 red 11
+black 2 green 2 red 1 green 2 red 12
+black 2 green 5 red 13
+black 2 green 4 red 10 black 1
+black 1 red 1 green 3 red 10 black 1
+red 2 green 3 red 9 black 2
+red 2 green 4 red 8 black 2
+red 1 green 4 red 8 black 1
+red 2 green 3 red 9 black 2
+green 5 red 8 black 1
+green 5 red 8 black 1
+green 3 red 11 black 1
+green 2 red 11 black 1
+red 12
+red 12
+
+columns
+black 2 green 2 red 2
+black 2 green 3 red 2
+black 2 red 1 green 3 red 3
+black 2 red 3 green 2 red 4
+black 2 red 2 green 4 red 4
+black 1 red 2 green 5 red 4
+black 2 green 7 red 5
+black 1 green 6 red 7
+black 1 green 7 red 8
+black 1 green 5 red 11
+red 1 green 2 red 1 green 1 red 12
+red 2 green 4 red 12
+red 3 green 3 red 11
+red 4 green 1 red 11
+red 14
+red 14
+red 12
+red 11
+red 10
+red 8
+red 7
+red 6
+red 5
+red 4
+red 3
+black 1
+black 2
+black 2
+black 3
+black 5

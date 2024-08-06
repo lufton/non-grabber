@@ -1,0 +1,24 @@
+by "Anna Wulick (annam42)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Anna Wulick"
+date "Feb 23, 2019"
+description "dots"
+difficulty 1.25
+height 2
+id 32122
+link "https://webpbn.com/play.cgi?id=32122"
+note "published,definitely unique,definitely trivial"
+quality 1.0
+title "dots"
+width 1
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+blue 1
+
+columns
+black 1 blue 1

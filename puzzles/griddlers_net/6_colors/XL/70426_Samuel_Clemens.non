@@ -1,0 +1,111 @@
+by "arcadedweller"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/08"
+height 43
+id 70426
+link "https://www.griddlers.net/nonogram/-/g/70426"
+medium_time "0:19:51"
+points 16807
+popularity 64.91
+title "Samuel Clemens"
+width 45
+
+color a 679999
+color b ffffff
+color c ffe5d6
+color d 998c73
+color e 999999
+color f 333300
+
+rows
+b 4 e 5
+b 3 b 7 e 5
+b 4 e 1 b 9 e 2 b 1 e 2 b 1
+b 5 e 1 b 10 e 2 b 1 e 2 b 1
+b 5 e 1 b 11 e 2 b 1 e 2
+e 3 b 4 e 1 c 1 b 11 e 1 b 1 e 2
+e 2 b 6 e 1 c 2 b 6 e 1 b 5 e 3
+e 1 b 6 e 1 c 6 b 3 e 2 b 5 e 2
+b 1 e 1 b 6 e 1 c 8 b 2 e 2 b 7
+b 9 c 9 b 2 e 1 b 7
+b 9 c 10 b 9
+b 9 c 2 b 4 c 7 b 7
+e 2 b 7 c 1 b 5 c 8 b 3 e 2 b 1
+e 4 b 4 e 1 c 10 b 4 c 1 b 4 e 1 b 1
+e 2 b 6 e 2 c 3 d 3 c 4 b 9 e 2
+e 2 b 5 e 2 c 6 d 3 c 7 e 1 b 3 e 1 b 1
+e 1 b 6 e 1 c 7 d 3 c 2 d 5 e 1 b 2 e 2 b 1
+e 2 b 4 e 2 c 12 d 1 c 2 d 2 e 5 b 1
+e 2 b 4 e 1 c 12 d 1 c 4 e 3 b 2
+e 2 b 4 e 1 c 12 d 1 c 4 e 3 b 1
+e 2 b 2 e 2 c 13 d 1 c 3 e 3 b 1
+e 2 b 1 e 2 c 9 d 1 c 3 d 1 c 3 e 3 b 1
+e 3 d 1 c 9 d 5 c 2 d 1
+d 1 c 16 d 1
+d 1 c 16 d 1
+d 1 c 1 d 2 c 6 d 5 c 2 d 1
+d 1 c 2 d 2 c 2 d 4 c 3 d 1 c 1 d 2
+d 1 c 3 d 2 c 10 d 1
+f 1 d 1 c 4 d 2 c 9 d 1
+f 3 c 5 d 2 c 7 d 2
+f 8 c 5 d 9
+f 11 c 11 d 1
+f 14 c 10 d 1
+f 17 c 9 d 1 f 1
+f 20 c 8 d 1 f 2
+f 23 c 5 f 6
+f 36
+f 39
+f 42
+f 44
+f 45
+f 45
+f 45
+
+columns
+f 4
+f 5
+f 6
+f 7
+f 8
+f 9
+f 9
+f 10
+f 10
+f 11
+f 11
+f 12
+e 4 f 12
+e 3 b 1 e 3 f 13
+b 1 e 2 b 4 e 3 f 13
+b 4 e 2 b 6 e 2 f 13
+e 3 b 4 e 1 b 7 e 2 f 13
+e 2 b 15 e 1 f 14
+e 1 b 11 e 1 b 2 e 3 f 15
+b 2 e 1 b 9 e 7 d 7 f 14
+b 12 e 2 c 14 f 13
+b 11 e 2 c 10 d 1 c 5 f 12
+b 12 c 12 d 2 c 5 f 11
+b 6 e 2 b 2 c 15 d 2 c 5 f 10
+b 1 e 5 c 5 b 1 c 14 d 2 c 5 f 9
+b 3 c 6 b 2 c 1 d 1 c 13 d 2 c 5 f 8
+b 5 c 5 b 2 c 1 d 1 c 11 d 1 c 2 d 2 c 4 f 8
+b 7 c 4 b 2 c 1 d 3 c 9 d 1 c 3 d 1 c 5 f 7
+b 7 c 4 b 2 c 2 d 2 c 9 d 1 c 3 d 1 c 5 f 7
+b 7 c 8 d 2 c 4 d 2 c 2 d 2 c 3 d 1 c 5 f 7
+b 8 c 14 d 1 c 2 d 1 c 4 d 1 c 5 f 7
+e 1 b 7 c 14 d 1 c 2 d 1 c 4 d 1 c 5 f 7
+e 1 b 8 c 4 b 2 c 1 d 4 c 2 d 1 c 2 d 1 c 4 d 1 c 4 f 8
+e 2 b 4 e 2 b 2 c 3 b 2 c 1 d 1 c 3 d 3 c 2 d 2 c 3 d 5 f 8
+e 3 b 4 e 2 b 2 c 2 b 2 c 1 d 1 c 12 d 2 f 10
+e 4 b 4 e 2 b 1 c 2 b 2 c 1 d 2 c 8 d 4 f 9
+e 1 b 1 e 2 b 7 c 2 b 1 c 1 d 2 c 4 d 5 f 8
+e 2 b 1 e 2 b 9 e 7 f 8
+e 2 b 13 e 5 f 7
+b 1 e 4 b 10 e 5 f 6
+b 1 e 4 b 4 e 1 b 3 e 2 b 4 f 6
+e 2 b 4 e 6 b 1 f 5
+b 6 e 1 b 3 f 5
+f 4
+f 3

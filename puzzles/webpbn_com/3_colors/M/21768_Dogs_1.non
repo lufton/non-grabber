@@ -1,0 +1,61 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Apr 21, 2013"
+description "A special sheppard type (front view) :)"
+difficulty 1.25
+height 20
+id 21768
+link "https://webpbn.com/play.cgi?id=21768"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Dogs 1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 6
+black 8
+black 10
+black 10
+black 12
+black 12
+black 14
+black 14
+black 5 red 1 black 2 red 1 black 5
+black 16
+black 16
+black 16
+black 7 red 2 black 7
+black 7 red 2 black 7
+black 18
+black 18
+black 18
+black 5 black 5
+black 5 black 5
+
+columns
+0
+black 5
+black 10
+black 13
+black 15
+black 17
+black 16
+black 17
+black 8 red 1 black 8
+black 12 red 2 black 3
+black 12 red 2 black 3
+black 8 red 1 black 8
+black 17
+black 16
+black 17
+black 15
+black 13
+black 10
+black 5
+0

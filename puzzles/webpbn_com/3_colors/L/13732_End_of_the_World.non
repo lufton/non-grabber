@@ -1,0 +1,81 @@
+by "Kit E. Katz (hello)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kit E. Katz"
+date "May  3, 2011"
+description "No, just the end of the Mayan calender. December 21, 2012 merely marks the end of the 13th b'ak'tun. What happens then? ...The beginning of the 14th b'ak'tun, of course!"
+difficulty 2.25
+height 30
+id 13732
+link "https://webpbn.com/play.cgi?id=13732"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "End of the World?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 9 black 12 red 9
+red 2 red 3 black 3 black 2 black 2 black 3 red 3 red 2
+red 1 red 2 red 1 black 18 red 1 red 2 red 1
+red 1 red 2 black 4 red 1 red 3 red 3 red 1 black 4 red 2 red 1
+red 2 black 2 black 1 red 1 red 1 red 1 red 1 black 1 black 2 red 2
+red 3 black 1 black 1 red 1 red 3 red 2 red 3 red 1 black 1 black 1 red 3
+red 2 black 5 red 1 red 1 red 1 red 1 black 5 red 2
+red 1 black 2 black 2 red 1 red 3 red 3 red 1 black 2 black 2 red 1
+red 1 black 1 black 3 black 14 black 3 black 1 red 1
+black 5 black 3 black 3 black 5
+black 1 black 2 black 2 black 3 black 3 black 2 black 2 black 1
+black 1 black 3 black 3 black 1 red 1 black 1 black 2 black 1 red 1 black 1 black 3 black 3 black 1
+black 3 black 3 black 1 black 3 black 2 black 3 black 1 black 3 black 3
+black 3 black 1 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 red 10 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 2 black 1 red 1 black 1 black 1 black 1
+black 3 black 1 black 1 red 1 black 8 red 1 black 1 black 1 black 3
+black 3 black 3 black 1 red 1 black 1 red 2 black 1 red 1 black 1 black 3 black 3
+black 1 black 3 black 3 red 10 black 3 black 3 black 1
+black 1 black 2 black 2 red 2 black 2 black 2 black 1
+black 5 black 8 red 2 black 8 black 5
+red 1 black 1 black 3 black 3 black 1 red 1
+red 1 black 2 black 2 red 3 red 3 red 1 red 3 black 2 black 2 red 1
+red 2 black 5 red 1 red 1 red 1 red 1 red 1 black 5 red 2
+red 3 black 1 black 1 red 3 red 1 red 1 red 1 red 3 black 1 black 1 red 3
+red 2 black 2 black 1 red 1 red 1 red 1 red 1 red 1 black 1 black 2 red 2
+red 1 red 2 black 4 red 3 red 3 red 1 red 3 black 4 red 2 red 1
+red 1 red 2 red 1 black 18 red 1 red 2 red 1
+red 2 red 3 black 3 black 2 black 2 black 3 red 3 red 2
+red 9 black 12 red 9
+
+columns
+red 9 black 12 red 9
+red 2 red 3 black 3 black 2 black 2 black 3 red 3 red 2
+red 1 red 2 red 1 black 2 black 12 black 2 red 1 red 2 red 1
+red 1 red 2 black 3 black 3 black 3 black 3 red 2 red 1
+red 2 black 2 black 4 black 2 black 2 black 4 black 2 red 2
+red 3 black 1 black 3 black 2 black 2 black 3 black 1 red 3
+red 2 black 5 black 2 black 2 black 2 black 2 black 5 red 2
+red 1 black 3 black 3 black 3 black 3 red 1
+red 1 black 2 red 5 black 13 red 1 red 3 black 2 red 1
+black 3 black 1 black 1 red 1 red 1 red 1 black 3
+black 1 black 1 red 1 red 3 black 1 black 3 red 5 black 1 red 3 red 1 black 1 black 1
+black 1 black 1 red 1 red 1 red 1 black 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 black 1
+black 3 red 3 red 1 black 1 black 3 red 1 black 3 red 1 black 1 red 5 black 3
+black 3 black 1 red 1 black 1 red 1 black 1 red 1 red 1 black 3
+black 1 black 1 red 1 black 1 black 2 red 1 black 2 red 4 red 5 black 1 black 1
+black 1 black 1 red 1 black 1 black 2 red 1 black 2 red 4 black 1 black 1
+black 3 black 1 red 1 black 1 red 1 black 1 black 3
+black 3 red 1 red 3 black 1 black 3 red 1 black 3 red 1 black 1 red 5 black 3
+black 1 black 1 red 1 red 1 red 1 black 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 black 1
+black 1 black 1 red 3 red 1 black 1 black 3 red 5 black 1 red 1 red 3 black 1 black 1
+black 3 black 1 black 1 red 1 red 1 red 1 black 3
+red 1 black 2 red 5 black 13 red 3 red 1 black 2 red 1
+red 1 black 3 black 3 black 3 black 3 red 1
+red 2 black 5 black 2 black 2 black 2 black 2 black 5 red 2
+red 3 black 1 black 3 black 2 black 2 black 3 black 1 red 3
+red 2 black 2 black 4 black 2 black 2 black 4 black 2 red 2
+red 1 red 2 black 3 black 3 black 3 black 3 red 2 red 1
+red 1 red 2 red 1 black 2 black 12 black 2 red 1 red 2 red 1
+red 2 red 3 black 3 black 2 black 2 black 3 red 3 red 2
+red 9 black 12 red 9

@@ -1,0 +1,61 @@
+by "candy edwards (angel)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by candy edwards"
+date "Dec 12, 2010"
+description "santa"
+difficulty 1.5
+height 20
+id 11342
+link "https://webpbn.com/play.cgi?id=11342"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "who says this"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 6 green 1 green 1
+black 1 black 2 black 1 green 1 green 1
+black 6 black 1 green 1 green 1
+black 1 black 2 black 1
+black 1 black 6 green 1 green 1
+green 1 green 1 black 1 black 6
+green 1 green 1 black 1 black 2 black 1
+green 1 green 1 black 6 black 1
+black 1 black 2 black 1
+green 1 green 1 black 1 black 6
+black 1 black 6 green 1 green 1
+black 1 black 2 black 1 green 1 green 1
+black 6 black 1 green 1 green 1
+black 1 black 2 black 1
+black 1 black 6 green 1 green 1
+green 1 green 1 black 1 black 6
+green 1 green 1 black 1 black 2 black 1
+green 1 green 1 black 6 black 1
+black 1 black 2 black 1
+green 1 green 1 black 1 black 6
+
+columns
+black 5 black 5
+black 1 black 1
+black 1 green 3 green 1 black 1 green 3 green 1
+black 1 black 1
+black 5 black 5
+black 5 black 5
+black 1 black 1 black 1 black 1
+black 1 black 1 green 3 green 1 black 1 black 1 green 3 green 1
+black 1 black 1 black 1 black 1
+black 5 black 5
+black 5 black 5
+black 1 black 1
+green 3 green 1 black 1 green 3 green 1 black 1
+black 1 black 1
+black 5 black 5
+black 5 black 5
+black 1 black 1 black 1 black 1
+green 3 green 1 black 1 black 1 green 3 green 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 5 black 5

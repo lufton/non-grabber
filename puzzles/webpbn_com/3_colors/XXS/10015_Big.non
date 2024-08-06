@@ -1,0 +1,31 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by vindersloon"
+date "Aug 30, 2010"
+description "Bird! (he's blue in Holland)"
+difficulty 1.25
+height 5
+id 10015
+link "https://webpbn.com/play.cgi?id=10015"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Big"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2
+black 2 blue 2
+blue 3
+blue 3
+black 1 black 1
+
+columns
+black 1
+blue 1 black 1 black 1
+blue 4
+blue 3
+blue 2 black 1

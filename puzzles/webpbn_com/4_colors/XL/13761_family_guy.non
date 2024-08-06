@@ -1,0 +1,87 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by harris harris"
+date "May  4, 2011"
+description "peter"
+difficulty 3.75
+height 35
+id 13761
+link "https://webpbn.com/play.cgi?id=13761"
+note "published,definitely unique,may require some guessing"
+quality 3.0
+title "family guy"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 11 black 11 red 8
+red 9 black 14 red 7
+red 8 black 16 red 6
+red 7 black 14 black 3 red 5
+red 6 black 2 black 8 black 4 red 4
+red 8 black 1 black 2 black 1 red 4
+red 7 black 3 black 3 black 1 black 2 red 3
+red 6 black 5 black 5 black 1 black 2 red 2
+red 5 black 2 black 2 black 1 black 2 black 2 black 1 red 2
+red 5 black 1 black 1 black 2 black 2 black 1 black 1 black 1 red 2
+red 3 black 3 black 1 black 1 black 1 black 1 red 2
+red 3 black 1 black 1 black 4 black 1 black 1 black 1 red 2
+red 2 black 2 black 4 black 2 black 3 black 2 red 1
+red 2 black 1 black 1 black 1 red 1
+red 1 black 2 black 2 black 3 black 2
+red 1 black 1 black 4 black 1
+red 1 black 1 black 4 black 1
+red 1 black 1 black 7 black 1
+red 1 black 1 black 2 black 1
+red 1 black 1 black 2 black 1
+red 1 black 2 black 2 black 1
+red 2 black 1 black 2 black 1 black 1
+red 2 black 2 black 2 black 1 black 2 black 2
+red 3 black 1 black 2 black 3 black 2 black 1 red 1
+red 3 black 1 black 3 black 3 black 3
+black 5 black 4 blue 1
+blue 3 black 4 black 5 blue 2
+blue 4 black 4 black 6 blue 3
+blue 5 black 5 black 7 blue 4
+blue 6 black 6 black 7 blue 6
+blue 7 black 7 black 7 blue 8
+blue 8 black 4 blue 2 black 1 blue 2 black 4 blue 9
+blue 9 black 2 blue 1 black 1 blue 1 black 1 blue 3 black 2 blue 10
+blue 14 black 1 blue 15
+blue 13 black 1 blue 16
+
+columns
+red 25 black 1 blue 9
+red 14 black 7 red 4 black 1 blue 9
+red 12 black 3 black 3 red 2 black 1 blue 9
+red 10 black 3 black 5 blue 8
+red 10 black 1 black 3 blue 7
+red 8 black 3 black 3 blue 6
+red 4 black 1 red 2 black 2 black 1 black 4 blue 5
+red 3 black 2 red 1 black 2 black 1 black 4 blue 4
+red 2 black 2 black 3 black 1 black 1 black 4 blue 3
+red 1 black 3 black 2 black 3 black 5 blue 2
+red 1 black 4 black 2 black 2 black 2 black 1 black 2 black 4 blue 2
+black 5 black 4 black 1 black 2 black 4 black 3 blue 3
+black 5 black 1 black 1 black 1 black 5 black 1 black 1 blue 1 black 1 blue 2
+black 5 black 1 black 2 black 2 black 1 black 2 black 2 black 1 blue 3 black 1
+black 5 black 1 black 1 black 1 black 1 black 2 black 3 blue 1
+black 5 black 3 black 1 black 1 black 2 black 1 blue 4
+black 5 black 2 black 1 black 2 black 1 black 1 blue 4
+black 5 black 2 black 1 black 1 black 3 black 3 blue 3
+black 4 black 2 black 1 black 1 black 1 black 3 black 4 blue 2
+black 4 black 2 black 1 black 1 black 5 blue 2
+black 4 black 2 black 1 black 4 blue 3
+black 3 black 3 black 4 blue 4
+red 1 black 5 black 1 black 3 blue 5
+red 2 black 5 black 4 blue 5
+red 3 black 2 black 3 blue 6
+red 4 black 3 black 4 blue 6
+red 6 black 2 black 3 blue 7
+red 7 black 6 black 3 blue 8
+red 12 black 3 black 4 blue 9
+red 14 black 9 red 1 black 1 blue 10

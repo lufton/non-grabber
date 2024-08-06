@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "May 28, 2020"
+description "wire nuts"
+difficulty 1.75
+height 20
+id 34153
+link "https://webpbn.com/play.cgi?id=34153"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Are you nuts?"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 3
+black 1 green 2
+black 2 green 1
+black 1 green 2
+black 1 green 1
+green 1 black 1
+green 1 black 2 blue 3
+green 1 black 4 blue 5
+green 1 black 2 blue 3
+green 2 black 2
+green 1 black 1
+green 2
+black 2 green 2 blue 3
+black 1 green 5 blue 5
+black 1 green 2 blue 3
+black 1 green 2
+black 1 green 2
+black 1 green 1
+black 1 green 1
+black 1 green 1
+
+columns
+black 3 green 5 black 8
+black 5 green 3 black 1
+green 2 black 2 black 2 green 2 green 4
+green 3 black 3 green 2 green 2
+green 2 black 2 green 3
+green 1 black 1 green 2
+green 1 blue 3 green 1
+blue 3 green 1
+blue 3 blue 3
+blue 1 blue 3
+blue 1 blue 3
+blue 1
+blue 1
+0
+0

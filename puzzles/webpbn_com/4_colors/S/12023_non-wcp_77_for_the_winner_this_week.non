@@ -1,0 +1,52 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sylvain "WCPman""
+date "Feb  1, 2011"
+description "small medal with ruban"
+difficulty 2.5
+height 15
+id 12023
+link "https://webpbn.com/play.cgi?id=12023"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "non-wcp 77 for the winner this week"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1
+black 1 blue 1 blue 1
+green 1 black 1 blue 1 blue 1 black 1
+blue 1 green 1 black 1 blue 1 blue 1 black 1 green 1
+blue 1 green 1 black 1 blue 1 blue 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 blue 1 blue 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 blue 1 blue 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 blue 2 black 1 green 1 blue 1
+blue 1 green 1 black 2 green 1 blue 1
+blue 1 green 2 blue 1
+black 2
+black 1 green 1 black 2
+black 1 green 1 black 1 green 1 black 2
+black 2 green 2 black 2
+black 4
+
+columns
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1 black 2
+blue 1 black 1 green 1 blue 1 black 1 green 1 black 2
+blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+blue 1 black 1 green 1 black 2 green 2 black 1
+blue 1 black 1 green 1 blue 1 black 4
+blue 1 black 1 green 1 blue 1 black 2
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1
+blue 1 black 1 green 1 blue 1

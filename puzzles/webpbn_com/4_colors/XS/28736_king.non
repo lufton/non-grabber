@@ -1,0 +1,38 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Sep 12, 2016"
+description "fisher"
+difficulty 1.25
+height 8
+id 28736
+link "https://webpbn.com/play.cgi?id=28736"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "king"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3
+blue 2 black 3
+blue 2 red 3
+blue 2 red 3
+blue 2 red 3
+blue 2 red 2
+blue 2 red 1 black 1
+blue 1 black 2
+
+columns
+blue 4
+blue 6
+blue 2 red 4
+blue 2 red 4 black 2
+blue 1 red 3 black 1
+blue 1 black 1 red 1
+black 1
+black 1

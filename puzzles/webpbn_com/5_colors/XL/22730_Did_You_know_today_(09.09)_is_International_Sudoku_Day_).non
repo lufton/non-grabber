@@ -1,0 +1,97 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Sep  9, 2013"
+description "You can solve this sudoku (if you want it)!"
+difficulty 2.75
+height 37
+id 22730
+link "https://webpbn.com/play.cgi?id=22730"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Did You know today (09.09) is International Sudoku Day? :)"
+width 37
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 11 black 11 black 11
+black 1 red 1 red 1 green 1 green 1 green 1 green 1 black 1 red 1 red 1 black 1 red 3 green 1 black 1
+black 1 green 3 green 1 black 1 red 1 red 1 black 1 red 1 red 1 green 1 green 1 black 1
+black 1 red 1 red 1 green 1 green 1 green 1 green 1 black 1 red 1 red 1 black 1 red 3 green 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 red 3 black 1 green 1 black 1 black 1
+black 1 red 1 red 1 black 1 green 1 black 1 black 1
+black 1 red 3 black 1 green 1 black 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 red 1 red 1 black 1 red 3 black 1 red 1 green 1 green 1 black 1
+black 1 red 1 red 1 black 1 red 1 red 1 black 1 green 3 black 1
+black 1 red 1 red 1 black 1 red 3 black 1 red 1 green 1 green 1 black 1
+black 11 black 11 black 4 black 4
+black 1 black 1 black 1 green 1 green 1 black 3 black 1
+black 1 black 1 green 1 black 1 green 1 black 3 black 1
+black 1 black 1 black 1 green 1 green 1 black 3 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 red 1 red 1 red 1 green 1 black 3 green 1 green 1 black 3 red 1 red 1 black 1
+black 1 green 1 black 3 green 1 black 3 green 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 green 1 black 3 green 1 green 1 black 3 red 1 red 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 red 1 red 1 green 1 green 1 black 1 red 1 red 1 green 3 black 1 green 1 green 1 red 3 black 1
+black 1 red 1 red 1 green 1 green 1 black 1 green 3 black 1 green 3 red 1 red 1 black 1
+black 1 red 1 red 1 green 1 green 1 black 1 red 1 red 1 green 3 black 1 green 1 green 1 red 3 black 1
+black 11 black 11 black 11
+black 1 green 1 black 1 red 1 red 1 black 1 green 1 green 1 black 1
+black 1 green 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 red 1 red 1 black 1 green 1 green 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 red 1 red 1 black 1 black 1 green 1 red 3 black 1
+black 1 black 1 black 1 green 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1 black 1 green 1 red 3 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 red 1 red 1 green 3 black 1 black 1 red 1 black 1
+black 1 red 1 red 1 green 3 black 1 green 1 black 1 black 1
+black 1 red 1 red 1 green 3 black 1 black 1 red 1 black 1
+black 11 black 11 black 11
+
+columns
+black 11 black 11 black 11
+black 1 red 1 red 1 red 3 black 1 red 3 black 1 black 1
+black 1 red 1 red 1 black 1 red 1 red 1 black 1 black 1
+black 1 red 1 red 1 red 3 black 1 red 3 black 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 green 3 black 1 red 1 red 1 green 1 green 1 black 1 red 3 black 1
+black 1 green 1 black 1 green 1 black 1 green 3 black 1
+black 1 green 3 black 1 red 1 red 1 green 1 green 1 black 1 red 3 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 green 1 green 1 red 3 black 1 black 1 red 1 red 1 green 3 black 1
+black 1 green 1 black 1 green 3 green 1 black 1 green 3 black 1
+black 1 green 1 green 1 red 3 black 1 black 1 red 1 red 1 green 3 black 1
+black 11 black 4 black 4 black 11
+black 1 black 1 black 3 black 1 red 1 red 1 black 1
+black 1 green 3 black 1 green 1 black 3 black 1 black 1
+black 1 black 1 black 3 black 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 black 1 red 1 red 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 red 1 red 1 black 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 red 3 red 3 black 1 green 1 green 1 green 3 black 1 black 1
+black 1 red 1 red 1 black 1 green 1 green 3 black 1 green 1 black 1
+black 1 red 3 red 3 black 1 green 1 green 1 green 3 black 1 black 1
+black 11 black 4 black 4 black 11
+black 1 red 3 black 1 green 1 green 1 black 3 green 3 black 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1 green 1 black 3 green 1 black 1 green 3 black 1
+black 1 red 3 black 1 green 1 green 1 black 3 green 3 black 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 black 3 red 3 black 1 black 1
+black 1 black 3 green 1 red 1 red 1 black 1 black 1
+black 1 green 3 black 3 red 3 black 1 black 1
+black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 green 3 black 1 red 3 black 1 green 1 green 1 red 3 black 1
+black 1 green 1 green 1 black 1 black 1 green 1 red 1 red 1 red 1 red 1 black 1
+black 1 green 3 black 1 red 3 black 1 green 1 green 1 red 3 black 1
+black 11 black 11 black 11

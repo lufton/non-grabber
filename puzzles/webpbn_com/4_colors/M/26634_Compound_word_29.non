@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "Rain Check"
+difficulty 1.5
+height 20
+id 26634
+link "https://webpbn.com/play.cgi?id=26634"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Compound word 29"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 blue 2 blue 10
+blue 1 blue 4 blue 5 blue 4
+blue 8 blue 1 blue 5
+blue 1 blue 9 blue 3 blue 1
+blue 7 blue 3 blue 4
+blue 4 blue 1 blue 10 blue 1
+blue 4 blue 7 blue 4
+blue 5 blue 5 blue 1 blue 5
+blue 11 blue 3 blue 1
+blue 12 blue 1 blue 1 blue 2
+blue 5 blue 2 red 1 blue 4 blue 3
+blue 2 blue 1 black 7 blue 2 blue 4
+blue 2 black 10 blue 5
+blue 2 black 1 black 13 blue 3
+blue 1 black 17 blue 2
+black 19
+black 1 black 1 black 1 black 1 black 1
+red 1
+red 1
+red 1
+
+columns
+blue 1 blue 12 black 2
+blue 2 blue 10 black 2
+blue 1 blue 8 black 3
+blue 10 black 2
+blue 4 blue 4 black 4
+blue 6 blue 2 black 4
+blue 5 blue 3 black 5
+blue 3 blue 5 black 5
+blue 2 blue 6 black 5
+blue 9 red 1 black 6 red 3
+blue 11 black 5
+blue 2 blue 3 blue 2 black 5
+blue 3 blue 3 blue 1 black 5
+blue 2 blue 3 blue 3 black 4
+blue 1 blue 3 blue 1 blue 1 black 5
+blue 1 blue 4 blue 3 blue 1 black 3
+blue 9 blue 2 black 3
+blue 3 blue 3 blue 4 black 2
+blue 4 blue 2 blue 6 black 2
+blue 3 blue 10

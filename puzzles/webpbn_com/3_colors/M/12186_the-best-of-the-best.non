@@ -1,0 +1,61 @@
+by "rondier helene (molouhel)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by rondier helene"
+date "Feb 13, 2011"
+description "my-favorite-team-the-olimpique-lyonnais"
+difficulty 1.0
+height 20
+id 12186
+link "https://webpbn.com/play.cgi?id=12186"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "the-best-of-the-best"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 20
+black 20
+black 20
+black 1 blue 6 black 3 blue 3 black 7
+black 1 blue 6 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 3 black 7
+black 1 blue 2 black 2 blue 2 black 3 blue 8 black 2
+black 1 blue 6 black 3 blue 8 black 2
+black 1 blue 6 black 3 blue 8 black 2
+black 20
+black 20
+black 20
+black 20
+
+columns
+black 20
+black 4 blue 12 black 4
+black 4 blue 12 black 4
+black 4 blue 2 black 8 blue 2 black 4
+black 4 blue 2 black 8 blue 2 black 4
+black 4 blue 12 black 4
+black 4 blue 12 black 4
+black 20
+black 20
+black 20
+black 4 blue 12 black 4
+black 4 blue 12 black 4
+black 4 blue 12 black 4
+black 13 blue 3 black 4
+black 13 blue 3 black 4
+black 13 blue 3 black 4
+black 13 blue 3 black 4
+black 13 blue 3 black 4
+black 20
+black 20

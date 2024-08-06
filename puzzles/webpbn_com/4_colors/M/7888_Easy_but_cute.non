@@ -1,0 +1,67 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Feb 21, 2010"
+description "Marill!"
+difficulty 1.5
+height 20
+id 7888
+link "https://webpbn.com/play.cgi?id=7888"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Easy but cute"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 blue 3 red 7
+blue 2 red 3 blue 2 blue 3 red 7
+blue 1 red 4 blue 3 blue 9 red 6
+red 6 blue 15 red 4
+red 6 blue 17 red 2
+red 5 blue 9 black 3 blue 7 red 1
+red 4 blue 3 black 3 blue 4 black 1 blue 10
+red 4 blue 3 black 1 blue 17
+red 3 blue 8 red 2 blue 12
+red 2 blue 9 red 2 blue 12
+red 1 blue 23
+blue 8 blue 3
+blue 6 blue 2
+blue 6 blue 1
+blue 5
+blue 4
+blue 3
+blue 3
+blue 2
+blue 2
+
+columns
+blue 2 red 7
+blue 2 red 9 blue 7
+blue 1 red 8 blue 11
+blue 1 red 7 blue 10
+blue 1 red 5 blue 10
+blue 3 red 2 blue 10
+blue 13
+blue 4 black 2 blue 5
+blue 3 black 1 blue 5
+blue 3 black 1 blue 5
+blue 9
+blue 6 red 2 blue 1
+blue 6 red 2 blue 1
+blue 9
+blue 3 black 2 blue 4
+blue 5 black 1 blue 5
+blue 5 black 1 blue 5
+blue 11
+red 2 blue 9
+red 3 blue 8
+red 3 blue 8
+red 4 blue 7
+red 4 blue 8
+red 5 blue 8
+red 6 blue 8

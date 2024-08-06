@@ -1,0 +1,62 @@
+by "paikea"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/6/18"
+height 19
+id 193474
+link "https://www.griddlers.net/nonogram/-/g/193474"
+medium_time "0:04:33"
+points 1465
+popularity 74.41
+title "Palm Tree"
+width 20
+
+color a FFCC00
+color c FFFF00
+color d 009900
+color e 0000ff
+color g FFFFFF
+color h 808080
+
+rows
+d 1
+d 2
+d 4 d 1
+d 2 d 3
+d 3 d 2
+d 2 d 1 d 1
+d 6
+d 1 d 6
+d 2 d 2 d 2 d 2
+d 1 h 1 d 2 d 1
+g 1 d 1 h 1 d 1 g 1
+g 2 h 1 g 2
+g 3 h 1 g 3
+h 5 h 1 h 5
+e 10 c 3 e 7
+e 9 c 5 e 6
+e 8 c 7 e 5
+e 7 c 9 e 4
+e 6 c 11 e 3
+
+columns
+e 5
+h 1 e 5
+g 1 h 1 e 5
+g 3 h 1 e 5
+g 2 h 1 e 5
+d 1 h 1 e 5
+d 1 d 3 e 4 c 1
+d 1 d 1 e 3 c 2
+d 1 d 2 d 3 e 2 c 3
+d 2 d 4 e 1 c 4
+d 2 d 2 c 5
+d 5 h 5 c 5
+d 4 d 3 c 5
+d 2 d 1 d 1 d 2 e 1 c 4
+d 2 d 2 h 1 e 2 c 3
+d 2 d 2 g 1 h 1 e 3 c 2
+g 3 h 1 e 4 c 1
+g 2 h 1 e 5
+h 1 e 5
+e 5

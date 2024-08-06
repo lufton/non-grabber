@@ -1,0 +1,27 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "May 13, 2011"
+description "a hound dog"
+difficulty 1.0
+height 5
+id 13878
+link "https://webpbn.com/play.cgi?id=13878"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "a min imal puzzle"
+width 5
+
+rows
+1,1
+0
+1,1
+1,1,1
+1,1
+
+columns
+3
+1
+1
+1
+3

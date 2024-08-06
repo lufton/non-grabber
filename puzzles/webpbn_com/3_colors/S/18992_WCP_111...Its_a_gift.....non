@@ -1,0 +1,51 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by valerie o..travis"
+date "Jun 13, 2012"
+description "Today, tomorrow and so on...Do a good deed every day (no matter how small), it and you will be appreciated."
+difficulty 2.0
+height 15
+id 18992
+link "https://webpbn.com/play.cgi?id=18992"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "WCP #111...It's a gift...."
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 blue 5 blue 4
+blue 3 blue 4 blue 3
+blue 3 blue 2 blue 3
+blue 2 blue 2 blue 2 blue 1
+blue 1 blue 2 blue 1 blue 2 blue 2
+blue 2 blue 2 blue 2 blue 3
+blue 2 blue 1 blue 2 blue 2
+blue 3 blue 2 blue 1 blue 2
+blue 3 blue 1 blue 1 blue 1
+blue 3 blue 2 blue 1
+blue 1 blue 1 blue 1 blue 2
+blue 2 blue 2
+blue 2 black 5 blue 1
+blue 1 black 7 blue 1
+blue 1 black 9 blue 2
+
+columns
+blue 2 blue 4 blue 2 blue 1
+blue 3 blue 4 blue 2
+blue 4 blue 3 blue 2
+blue 3 blue 2 black 1
+blue 2 blue 2 black 2
+blue 2 blue 3 black 3
+blue 4 blue 2 black 3
+blue 5 black 3
+blue 2 blue 2 black 3
+blue 1 blue 3 black 3
+blue 4 blue 2 black 2
+blue 4 blue 3 black 1
+blue 3 blue 3 blue 2
+blue 2 blue 3 blue 2 blue 1
+blue 1 blue 3 blue 3 blue 2

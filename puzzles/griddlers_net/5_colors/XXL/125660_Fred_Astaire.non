@@ -1,0 +1,122 @@
+by "catwag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/25/12"
+height 50
+id 125660
+link "https://www.griddlers.net/nonogram/-/g/125660"
+medium_time "1:32:03"
+points 114524
+popularity 88.08
+title "Fred Astaire"
+width 50
+
+color a 857d6e
+color b 13100b
+color c 595243
+color d b7b0a3
+color e e9e5df
+
+rows
+b 18 c 1 b 2
+b 18 c 1 b 5
+b 19 c 1 b 6
+b 18 c 2 b 6
+b 17 c 2 c 1 b 7
+b 14 c 3 d 2 c 1 b 7
+b 14 c 3 d 3 c 1 b 6
+b 3 c 4 b 1 c 7 d 4 c 1 b 6
+b 2 c 1 c 1 d 7 c 3 b 4
+b 2 c 1 d 18 c 3 b 4
+b 1 c 2 d 19 c 4 b 3
+b 1 c 2 d 19 c 4 b 3
+b 1 c 2 d 19 c 5 b 3
+b 1 c 2 d 19 c 4 b 4
+b 1 c 1 d 20 c 4 b 4
+b 1 c 2 d 20 c 3 b 5
+b 1 c 1 d 20 c 3 b 5
+b 1 c 2 d 20 c 3 b 5
+c 1 b 1 c 1 d 20 c 5 b 4 e 1
+c 1 b 1 c 1 d 19 c 5 b 3 e 1 d 1 b 1 e 1
+b 1 c 1 d 17 c 5 b 3 d 1 b 2 e 1
+c 1 b 1 c 6 d 8 c 1 b 3 c 7 b 2 c 2 d 2 e 1
+d 1 c 1 d 2 c 1 b 1 c 1 d 5 c 1 b 1 c 5 c 3 b 3 e 1 d 1 e 1
+d 1 b 1 c 1 b 1 c 1 d 2 c 1 b 1 d 4 c 5 c 3 c 6 e 1 e 1
+d 1 c 2 b 3 e 1 d 1 c 2 d 3 c 2 b 2 e 1 d 1 c 2 c 2 b 1 c 1 e 2 e 1
+d 2 c 1 b 1 e 2 d 1 d 2 d 2 e 1 d 1 e 1 d 2 b 1 c 1 c 1 e 1 b 1 d 1 e 3
+d 1 e 1 c 3 d 5 d 2 d 6 d 2 d 1 b 1 e 2
+d 2 c 1 d 4 d 2 d 5 d 2 d 1 b 2 c 1 e 2
+d 1 c 1 d 6 d 2 d 8 c 1 d 1 b 2 b 1
+d 1 c 1 d 6 d 2 d 8 c 1 e 1 b 2 b 3
+d 6 d 2 d 8 c 1 e 1 b 1 c 1 b 5
+b 1 d 4 d 4 c 1 d 6 c 1 d 1 e 1 b 1 b 8
+b 1 c 1 d 4 d 4 c 1 d 6 e 2 b 1 b 10
+b 1 d 3 c 1 d 4 c 3 d 6 d 1 e 2 b 12
+b 1 c 1 d 3 d 1 b 2 c 1 d 5 c 1 e 3 b 12
+b 1 d 4 c 1 b 4 c 1 d 6 c 1 e 2 d 1 b 12
+b 1 d 4 c 1 b 2 c 1 d 5 d 1 e 2 b 13
+b 2 d 11 c 2 d 1 d 1 e 2 b 12
+b 2 e 1 b 1 d 1 c 3 d 3 e 3 d 1 c 1 b 11
+b 2 e 1 b 1 d 2 e 1 d 1 d 2 c 1 e 2 c 1 d 1 c 1 b 11
+b 3 e 2 b 1 d 3 e 1 c 1 b 1 e 1 b 11
+b 4 e 1 b 1 c 1 e 1 b 1 e 1 d 1 b 11
+b 5 e 2 b 1 d 3 c 1 c 1 b 2 d 1 e 2 b 11
+b 7 e 2 b 1 d 5 c 1 e 1 b 2 c 1 e 3 b 11
+b 9 e 2 b 1 d 7 e 1 b 3 e 2 d 1 e 3 b 8
+b 12 e 2 b 1 d 6 c 1 b 3 c 1 e 1 c 1 e 4 b 8
+b 14 e 2 b 1 d 2 c 2 b 3 d 1 c 1 e 5 b 8
+b 16 e 2 b 1 c 2 b 3 c 1 d 2 e 5 c 1 b 8
+b 19 e 2 b 1 c 2 e 1 d 1 c 1 b 1 d 1 e 6 b 9
+b 21 e 2 b 3 c 2 e 3 d 1 c 2 d 1 e 6 b 9
+
+columns
+b 1
+b 2
+b 2
+b 3
+b 3
+b 4
+b 5
+b 5
+b 6
+b 10 c 2 b 6
+b 4 c 8 b 3 c 1 d 6 b 7
+b 4 c 6 c 1 c 4 b 1 c 1 b 1 c 1 d 1 e 1 d 3 b 8
+b 5 d 5 c 1 c 7 b 10
+b 5 c 1 d 11 c 1 b 3 c 1 b 2 b 12
+b 6 c 1 d 12 c 1 d 1 c 1 b 1 c 1 d 3 c 1 b 2 b 13
+b 7 c 1 d 12 c 1 d 2 b 1 d 1 d 3 c 1 b 3 e 3 b 9
+b 7 c 1 d 12 c 2 d 1 e 2 d 7 b 2 e 3 b 7
+b 8 d 12 c 1 b 1 d 1 e 1 d 10 b 2 e 3 b 5
+b 7 c 1 d 13 c 2 d 13 b 1 e 3 b 4
+b 7 c 2 d 13 b 1 c 1 d 12 b 2 e 3 b 2
+b 7 c 1 d 14 c 1 c 1 d 3 b 1 e 3 b 1
+b 7 c 1 d 16 d 3 c 1 d 2 b 2 e 2
+b 7 c 1 d 26 b 1 c 1 d 1 d 2 b 1 e 1
+b 7 c 1 d 25 b 2 d 1 d 2 d 2 b 1
+b 6 c 2 d 15 d 3 b 2 d 4 d 3 b 1
+b 5 c 2 d 13 c 1 c 1 c 1 b 2 c 1 d 1 e 1 d 1 d 4 b 1
+b 5 c 2 d 13 c 3 d 3 c 1 b 1 c 1 d 2 c 1 d 1 d 3 c 1
+b 5 c 1 d 13 c 1 b 1 c 2 d 6 c 3 d 3 c 1 d 4 c 2
+b 4 c 1 d 13 b 1 c 2 b 1 e 1 d 12 c 1 d 3 c 2 e 1
+b 4 c 1 d 14 b 1 c 2 b 1 d 12 c 1 d 2 c 2 e 2
+b 3 c 1 d 15 b 1 c 1 e 2 d 11 c 1 d 1 c 2 b 1 d 1 e 1
+b 3 c 2 d 15 c 2 d 3 d 8 d 2 c 2 e 1 b 3 c 1 d 1
+b 1 c 2 d 3 c 4 d 1 d 12 c 1 e 1 b 5 c 1
+c 1 b 4 c 1 c 4 c 2 b 1 d 7 c 1 e 1 c 1 b 4 c 1 d 1 c 1
+b 6 c 1 c 10 c 1 c 1 d 5 c 2 d 1 e 3 b 3 c 1 d 2 d 1
+b 7 c 15 c 1 d 1 c 1 d 1 e 6 c 1 b 2 c 1 e 2 c 1 d 1 e 2
+b 7 c 17 c 3 d 1 e 7 c 1 b 1 d 1 e 2 c 1 e 4
+b 7 c 7 b 3 c 6 c 1 d 2 e 6 d 1 b 1 d 2 e 4 d 1 e 5
+b 8 c 3 b 9 c 2 e 1 d 1 b 11 c 2 d 1 e 8
+b 19 c 1 b 6 c 1 b 11 e 6
+b 16 c 1 b 1 c 2 d 1 c 1 b 12 e 6
+b 12 e 1 d 1 c 1 b 1 c 1 e 2 e 1 b 12 c 1 b 2
+d 1 b 1 d 1 e 6 b 19
+e 1 b 2 d 2 e 2 b 19
+e 6 b 19
+b 20
+b 20
+b 21
+b 21
+b 22

@@ -1,0 +1,173 @@
+by "Levi Scott (Leet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Levi Scott"
+date "Jul 14, 2018"
+description ""
+difficulty 2.25
+height 90
+id 31430
+link "https://webpbn.com/play.cgi?id=31430"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Nostalgia"
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 red 2 red 9 red 3 red 1 red 1
+red 1 red 2 red 2 red 3 red 2 red 17 red 5
+red 1 red 8 red 15 red 18 red 1
+red 3 red 3 red 20 red 23
+red 2 red 6 red 44
+red 5 red 52
+red 1 red 1 red 54
+red 58
+red 58
+red 59
+red 23 black 1 red 23 black 1 red 11
+red 24 black 2 red 21 black 2 red 11
+red 25 black 2 red 20 black 2 red 11
+red 47 black 1 red 12
+red 60
+red 12 black 2 red 41 black 1 red 4
+red 13 black 1 red 40 black 1 red 5
+red 54 black 1 red 5
+red 60
+red 60
+red 5 black 1 red 11 black 2 red 8 black 1 red 32
+red 5 black 4 red 8 black 2 red 7 black 3 red 19 black 1 red 10
+red 3 red 3 black 6 red 6 black 2 red 7 black 4 red 15 black 3 red 10
+red 3 red 6 black 5 red 4 black 3 red 8 black 4 red 11 black 4 red 3 black 1 red 6
+red 6 black 1 red 1 black 6 red 1 black 4 red 6 black 4 red 9 black 5 red 3 black 2 red 5
+red 3 black 1 red 4 black 11 red 4 black 4 red 3 black 10 red 2 black 2 red 6 red 1
+red 3 black 1 red 7 black 10 red 1 black 22 red 8
+red 2 black 1 red 8 black 1 red 1 black 29 red 4 red 1
+black 1 red 8 black 1 red 5 black 24 red 7
+black 1 red 7 black 1 red 7 black 21 red 6
+black 1 red 5 black 1 red 5 red 2 black 18 red 1 red 3
+black 1 red 2 black 1 red 2 red 3 black 16 red 1
+black 1 black 1 black 14
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 12
+black 1 black 1 black 13
+black 1 black 1 black 13
+black 1 black 1 black 13
+black 1 black 1 black 13
+black 1 black 1 black 13
+black 1 black 1 black 13
+black 1 black 1 black 14
+black 1 black 1 black 14
+black 1 black 1 black 15
+black 1 black 1 black 15
+black 1 black 1 black 15
+black 1 black 1 black 15
+black 1 black 1 black 15
+black 1 black 1 black 15
+black 1 black 1 black 16
+black 1 black 1 black 17
+black 1 black 1 black 17
+black 1 black 1 black 17
+black 1 black 1 black 17
+black 1 black 1 black 18
+black 1 black 1 black 19
+black 1 black 1 black 19
+black 1 black 1 black 19
+black 1 blue 4 black 1 black 20
+blue 9 black 1 black 21
+blue 9 black 1 black 22
+blue 7 black 23
+blue 3 black 24
+black 25
+black 27
+black 27
+black 28
+black 30
+black 32
+black 33
+black 35
+black 1 green 1 black 5 green 1 black 29
+black 1 green 3 black 4 green 2 black 5 green 1 black 8 green 1 black 2 green 1 black 12
+green 1 black 3 green 3 black 3 green 2 black 4 green 1 black 1 green 1 black 2 green 1 black 3 green 4 black 1 green 1 black 6 green 2 black 4 green 1
+green 1 green 4 black 2 green 2 black 1 green 1 black 1 green 4 black 3 green 7 black 2 green 2 black 1 green 4 black 4 green 1 black 1 green 2 black 1 green 2 black 1 green 1 black 1 green 1
+green 5 green 2 black 1 green 6 black 1 green 4 black 1 green 2 black 1 green 2 black 1 green 4 black 1 green 4 black 1 green 4 black 1 green 2 black 1 green 4 black 1 green 4 black 1 green 1
+green 14 black 1 green 7 black 2 green 4 black 1 green 7 black 3 green 8 black 2 green 11
+
+columns
+red 10 red 2 green 1
+red 15 green 1
+red 19 green 2
+red 2 red 15 green 3
+red 20 green 2
+red 1 red 13 black 1 red 4 green 2
+red 16 black 1 red 3 green 2
+red 2 red 15 black 2 red 2 green 1
+red 18 black 2 red 4 green 2
+red 18 black 2 red 5 green 3
+red 18 black 2 red 4 green 1 black 1 green 1
+red 21 black 50 blue 2 green 3
+red 13 black 1 red 6 black 2 red 5 blue 3 green 4
+red 13 black 2 red 6 black 2 red 5 blue 3 black 2 green 2
+red 1 red 18 black 2 red 6 blue 4 black 2 green 1 black 1
+red 24 black 1 red 6 blue 4 black 2 green 3
+red 23 black 2 red 5 blue 3 green 5
+red 18 black 1 red 3 black 2 red 6 blue 3 black 1 green 2 black 2 green 1
+red 18 black 2 red 2 black 2 red 6 blue 4 green 6
+red 1 red 18 black 3 red 1 black 2 red 3 blue 4 black 5 green 2
+red 22 black 52 blue 2 black 5 green 3
+red 22 black 4 red 3 black 6 green 3
+red 22 black 4 red 3 black 6 green 2 black 2
+red 22 black 4 red 3 black 6 green 4 black 1
+red 9 black 2 red 13 black 3 red 3 black 7 green 2 black 2 green 2
+red 11 black 2 red 12 black 3 red 4 black 13 green 1
+red 12 black 1 red 12 black 4 red 3 black 13 green 2
+red 1 red 18 black 2 red 4 black 3 red 1 black 13 green 3
+red 1 red 19 black 2 red 3 black 4 red 1 black 14 green 2 black 2
+red 21 black 2 red 4 black 3 red 2 black 16 green 3
+red 22 black 3 red 1 black 5 red 1 black 18 green 5
+red 1 red 20 black 9 red 1 black 25 green 3
+red 23 black 9 black 31 green 3
+red 23 black 10 black 38 green 2 black 1 green 1
+red 24 black 63 green 2
+red 1 red 22 black 62 green 2
+red 25 black 61 green 2 black 1
+red 25 black 60 green 3 black 1
+red 24 black 61 green 1 black 3
+red 25 black 60 green 5
+red 25 black 61 green 4
+red 25 black 62 green 3
+red 24 black 60 green 5
+red 23 black 65 green 1
+red 23 black 64 green 2
+red 22 black 65 green 2
+red 22 black 10 black 35 green 1
+red 11 black 3 red 8 black 10 black 24 green 2 black 1
+red 9 black 3 red 9 black 2 red 2 black 4 red 1 black 20 green 1 black 1
+red 19 black 2 red 3 black 3 red 1 black 13 green 4
+red 23 black 3 red 4 black 9 green 4
+red 23 black 3 red 4 black 9 green 1
+red 22 black 2 red 6 black 6 green 3
+red 29 black 4 green 3
+red 1 red 13 black 2 red 12 black 3 green 2
+red 15 black 1 red 11 red 1 green 4
+red 26 black 2 green 1
+red 24 green 3
+red 21 red 1 green 1
+red 18 red 2 green 1

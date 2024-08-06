@@ -1,0 +1,83 @@
+by "Anna Wulick (annam42)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Anna Wulick"
+date "Feb 20, 2019"
+description "awesome"
+difficulty 1.75
+height 30
+id 32109
+link "https://webpbn.com/play.cgi?id=32109"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "security"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 black 22 red 4
+green 1 green 2 black 2 red 2 red 1
+green 1 green 2 black 2 red 2 red 1
+green 1 green 1 black 2 red 1 red 1
+green 1 green 1 black 2 red 1 red 1
+green 1 green 1 black 2 red 1 red 1
+green 1 green 1 black 2 red 1 red 1
+green 1 green 1 black 2 red 1 red 1
+green 1 green 1 black 2 red 1 red 1
+green 1 green 2 black 2 red 2 red 1
+green 1 green 1 black 1 green 1 black 2 red 1 blue 1 red 1 red 1
+green 1 green 1 black 2 green 1 black 2 red 1 blue 2 red 1 red 1
+green 1 green 1 black 2 green 1 black 2 red 1 blue 2 red 1 red 1
+green 1 green 1 black 2 green 1 black 2 red 1 blue 2 red 1 red 1
+green 1 green 1 black 2 green 1 black 2 red 1 blue 2 red 1 red 1
+green 1 green 1 black 2 green 1 black 2 red 1 blue 2 red 1 red 1
+green 1 green 1 black 2 green 1 black 2 red 1 blue 2 red 1 red 1
+green 1 green 1 black 2 green 1 red 1 blue 2 red 1 red 1
+green 1 green 1 black 2 blue 2 red 1 red 1
+green 1 green 1 red 1 black 2 green 1 red 1 red 1
+green 1 green 1 red 1 blue 2 black 2 green 1 red 1 red 1
+green 1 green 1 red 1 blue 2 black 4 green 1 red 1 red 1
+green 1 green 1 red 1 blue 2 black 2 black 2 green 1 red 1 red 1
+green 1 green 1 red 1 blue 2 black 2 black 2 green 1 red 1 red 1
+green 1 green 1 red 1 blue 2 black 2 black 2 green 1 red 1 red 1
+green 1 green 1 red 1 blue 2 black 2 black 2 green 1 red 1 red 1
+green 1 green 1 red 1 blue 2 black 2 black 2 green 1 red 1 red 1
+green 1 green 2 blue 2 black 2 black 2 red 2 red 1
+green 1 green 2 black 2 red 2 red 1
+green 4 black 22 red 4
+
+columns
+green 30
+green 1 green 1
+green 1 green 1
+green 2 green 2
+black 1 green 2 green 2 black 1
+black 1 green 26 black 1
+black 1 green 1 black 2 red 1 blue 1 black 1
+black 1 green 1 black 2 red 1 blue 2 black 1
+black 1 green 1 black 2 red 1 blue 2 black 1
+black 1 green 1 black 2 red 1 blue 2 black 1
+black 1 green 1 black 2 red 1 blue 2 black 1
+black 1 green 1 black 2 red 1 blue 2 black 1
+black 1 green 1 black 2 red 1 blue 2 black 1
+black 1 green 1 black 2 red 1 blue 2 black 1
+black 17 green 1 black 2 blue 1 black 9
+black 17 red 1 blue 1 black 11
+black 1 red 1 blue 2 green 1 black 2 black 1
+black 1 red 1 blue 2 green 1 black 2 black 1
+black 1 red 1 blue 2 green 1 black 2 black 1
+black 1 red 1 blue 2 green 1 black 2 black 1
+black 1 red 1 blue 2 green 1 black 2 black 1
+black 1 red 1 blue 2 green 1 black 2 black 1
+black 1 red 1 blue 2 green 1 black 2 black 1
+black 1 red 1 blue 2 green 1 black 1 black 1
+black 1 red 26 black 1
+black 1 red 2 red 2 black 1
+red 2 red 2
+red 1 red 1
+red 1 red 1
+red 30

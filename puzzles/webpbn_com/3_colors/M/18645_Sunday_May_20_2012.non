@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "May 13, 2012"
+description "Annular solar eclipse. I know it isn't much of a puzzle but I wouldn't be doing my duty if I didn't alert you to this astronomical event. More to come."
+difficulty 1.25
+height 20
+id 18645
+link "https://webpbn.com/play.cgi?id=18645"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Sunday, May 20, 2012"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 4
+red 2 black 4 red 2
+red 1 black 8 red 1
+red 1 black 10 red 1
+red 1 black 12 red 1
+red 1 black 12 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 12 red 1
+red 1 black 12 red 1
+red 1 black 10 red 1
+red 1 black 8 red 1
+red 2 black 4 red 2
+red 4
+0
+0
+
+columns
+0
+0
+red 4
+red 2 black 4 red 2
+red 1 black 8 red 1
+red 1 black 10 red 1
+red 1 black 12 red 1
+red 1 black 12 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 12 red 1
+red 1 black 12 red 1
+red 1 black 10 red 1
+red 1 black 8 red 1
+red 2 black 4 red 2
+red 4
+0
+0

@@ -1,0 +1,52 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Mar 29, 2023"
+description "Sorry, bad pun. I'm tired."
+difficulty 1.0
+height 10
+id 36601
+link "https://webpbn.com/play.cgi?id=36601"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Fishin between the lines..."
+width 21
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 21
+black 2 black 6 black 5
+black 2 black 3 black 4
+black 3 black 1 black 1 black 3
+black 3 black 2
+black 3 black 2
+black 3 black 1 black 3
+black 2 black 3 black 4
+black 2 black 6 black 5
+blue 21
+
+columns
+blue 1 black 8 blue 1
+blue 1 black 8 blue 1
+blue 1 black 4 blue 1
+blue 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 2 black 2 blue 1
+blue 1 black 3 black 3 blue 1
+blue 1 black 2 black 2 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 2 black 2 blue 1
+blue 1 black 3 black 3 blue 1
+blue 1 black 8 blue 1
+blue 1 black 8 blue 1

@@ -1,0 +1,61 @@
+by "J.D. McLure (cubfan415)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by J.D. McLure"
+date "Aug  5, 2012"
+description "A Green Lakitu. Apparently, he was with the Koopa sunbathing for too long :P"
+difficulty 2.0
+height 24
+id 19485
+link "https://webpbn.com/play.cgi?id=19485"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "SMB1 - Puzzle 7"
+width 16
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 5
+black 7
+green 3 black 1 green 3 black 2
+green 1 green 1 green 1 black 1
+green 1 green 1 black 1 green 1
+green 1 green 1 green 1 green 1 black 1 green 1
+green 1 green 1 green 1 green 1 black 1 green 2
+green 3 black 1 green 7
+black 3 green 4 black 3 green 2
+black 5 green 2 black 5 green 1
+green 1 black 5 black 5 green 1
+green 1 black 3 black 3 green 1
+green 2 green 2
+green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1
+green 1 green 1 green 1 green 1
+green 2 green 1 green 1 green 2
+green 1 green 4 green 1
+green 2 green 2
+green 1 green 2 green 1
+green 4 green 4
+
+columns
+green 8
+green 3 green 3
+green 4 black 2 green 1 green 2
+green 1 green 1 black 4 green 1
+black 1 green 1 green 1 black 4 green 1
+black 2 green 1 green 3 black 4 green 1 green 1
+black 3 green 1 black 1 green 1 black 2 green 3 green 1 green 1
+black 2 green 1 green 5 green 1 green 1
+black 2 green 1 green 3 green 1 green 1
+black 2 green 1 green 2 black 2 green 3 green 1 green 1
+black 2 green 5 black 4 green 1 green 1
+black 5 green 1 black 4 green 1
+green 4 black 4 green 1
+green 3 black 2 green 1 green 2
+green 5 green 3
+green 8

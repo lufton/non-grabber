@@ -1,0 +1,51 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "Apr 13, 2020"
+description "Surface and begin firing on ace. -- See comment 1"
+difficulty 2.0
+height 15
+id 33899
+link "https://webpbn.com/play.cgi?id=33899"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Cryptic Puzzle 37"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 5
+black 8
+black 10
+black 4 green 1 black 6
+black 2 green 1 black 3
+black 1 green 1 black 3
+black 2 green 1 black 2 black 6
+black 2 green 2 black 1 green 1 black 6
+black 2 green 1 black 4
+black 2 black 2 green 1 black 4
+black 2 black 1 green 2 black 1 black 3 green 1
+black 3 green 1 green 1 black 1 black 4
+black 3 green 1 black 5
+green 1 black 8 green 1
+black 15
+
+columns
+black 1
+black 1
+black 4 black 1 black 1
+black 11 green 1 black 1
+black 4 green 3 black 5
+black 4 black 1 green 1 green 1 black 3
+black 4 black 2 black 1 green 1 black 2
+black 3 green 1 black 1 green 2 black 2
+black 4 black 1 green 2 black 1 green 1 black 1 black 2
+black 4 black 2 green 1 black 1 black 3
+black 3 green 1 black 2 black 4
+black 14
+black 11 green 1 black 1
+black 10 black 1
+black 3 green 1 black 1

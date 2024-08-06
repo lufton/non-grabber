@@ -1,0 +1,47 @@
+by "Kairon"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/18/08"
+height 15
+id 60044
+link "https://www.griddlers.net/nonogram/-/g/60044"
+medium_time "0:02:10"
+points 307
+popularity 59.45
+title "Smiley's Looking Fancy"
+width 10
+
+color a ffffff
+color b ffff00
+color c ffcc00
+color d 000000
+color e ccffff
+
+rows
+d 6
+d 6
+d 6
+d 6
+d 6
+d 10
+b 1 c 2 b 5
+c 2 e 1 c 1 b 1 d 2 b 2
+b 1 c 1 e 2 c 1 b 1 d 2 b 2
+b 2 c 2 b 6
+b 10
+b 2 d 6 b 2
+b 2 d 1 d 1 b 2
+b 2 d 4 b 2
+b 6
+
+columns
+d 1 c 1 b 5
+d 1 b 1 c 2 b 5
+d 6 c 1 e 2 c 1 b 1 d 2 b 2
+d 6 c 1 e 1 c 1 b 1 d 1 d 1 b 1
+d 6 b 1 c 2 b 2 d 1 d 1 b 1
+d 6 b 5 d 1 d 1 b 1
+d 6 b 1 d 2 b 2 d 1 d 1 b 1
+d 6 b 1 d 2 b 2 d 2 b 2
+d 1 b 8
+d 1 b 6

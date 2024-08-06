@@ -1,0 +1,49 @@
+by "grape_jelly1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/25/19"
+height 14
+id 200805
+link "https://www.griddlers.net/nonogram/-/g/200805"
+medium_time "0:02:16"
+points 379
+popularity 64.59
+title "Robot"
+width 13
+
+color a ffffff
+color b 000000
+color c ff0000
+color d 00ff00
+color h 808080
+
+rows
+b 3
+b 1 d 1 h 1 d 1 b 1
+b 1 h 3 b 2 b 1
+b 1 h 3 b 1 b 2
+b 5 b 2
+b 1 h 3 b 1 b 2
+b 4 h 1 c 1 h 1 b 4
+b 4 h 3 b 4
+b 2 b 1 h 1 c 1 h 1 b 1
+b 2 b 1 h 3 b 1
+b 2 b 5
+b 1 b 1 b 1 b 1
+b 1 b 1
+b 1 b 1
+
+columns
+b 1
+b 5
+b 5
+b 2 b 1
+b 10
+b 1 d 1 h 2 b 1 h 5 b 4
+b 1 h 3 b 1 h 1 c 1 h 1 c 1 h 1 b 1
+b 1 d 1 h 2 b 1 h 5 b 4
+b 10
+b 1 b 2
+b 5
+b 5
+b 1

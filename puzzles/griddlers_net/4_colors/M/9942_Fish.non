@@ -1,0 +1,61 @@
+by "nhfk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/04"
+height 15
+id 9942
+link "https://www.griddlers.net/nonogram/-/g/9942"
+medium_time "0:03:30"
+points 308
+popularity 52.4
+title "Fish"
+width 25
+
+color a 0000fe
+color b ff0000
+color e 00ffff
+color h 000000
+
+rows
+0
+e 9 e 1
+e 11 e 2
+e 13 e 3
+e 3 h 2 e 10 e 4
+e 4 h 2 e 11 e 5
+e 23
+e 23
+e 6 b 1 e 16
+e 6 b 2 e 9 e 5
+e 4 b 1 e 10 e 4
+b 3 e 10 e 3
+e 11 e 2
+e 9 e 1
+0
+
+columns
+0
+e 5
+e 7
+e 8 b 1
+e 9 b 1 e 1
+e 3 h 2 e 5 b 1 e 2
+e 3 h 2 e 4 b 1 e 3
+e 7 b 2 e 4
+e 8 b 1 e 4
+e 13
+e 13
+e 13
+e 13
+e 13
+e 11
+e 9
+e 7
+e 5
+e 3
+e 5
+e 7
+e 9
+e 11
+e 13
+0

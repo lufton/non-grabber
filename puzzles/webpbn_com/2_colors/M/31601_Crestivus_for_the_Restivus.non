@@ -1,0 +1,49 @@
+by "James Orne (jorne)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by James Orne"
+date "Sep 26, 2018"
+description "The SPS crest"
+difficulty 1.5
+height 16
+id 31601
+link "https://webpbn.com/play.cgi?id=31601"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Crestivus for the Restivus"
+width 16
+
+rows
+0
+14
+14
+2,1,2,1,2
+2,1,2,1,2
+2,1,1,2
+2,2,2
+2,2,2
+2,1,1,1,1,2
+2,1,1,2
+2,1,1,1,1,2
+2,2
+2,2,2
+2,2,2
+2,2
+4
+
+columns
+0
+10
+11
+2,2
+3,1,1,2
+2,1,1,2
+2,1,1,1,2
+4,2,2,1
+4,2,2,1
+2,1,1,1,2
+2,1,1,2
+3,1,1,2
+2,2
+11
+10
+0

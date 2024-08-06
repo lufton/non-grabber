@@ -1,0 +1,105 @@
+by "Ratbag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/11/04"
+height 40
+id 9130
+link "https://www.griddlers.net/nonogram/-/g/9130"
+medium_time "0:43:08"
+points 94407
+popularity 74.19
+title "Happy Easter, Everyone!"
+width 40
+
+color a b4a2fe
+color b ff0000
+color c 6ef1c4
+color d 0000ff
+color e fffe00
+color f 7d533d
+color g bd8b65
+color h 000000
+
+rows
+h 20
+h 1 g 20 h 1
+d 3 g 1 h 20 g 1 h 1
+d 5 h 1 g 1 b 3
+d 7 h 1 b 5
+d 4 e 1 d 4 h 1 h 1 b 7
+d 3 e 3 d 3 h 1 f 1 h 1 h 1 f 1 h 1 b 4 e 1 b 4
+d 4 e 1 d 4 h 1 f 3 h 1 f 3 h 1 b 3 e 3 b 3
+d 7 h 1 f 3 h 1 f 3 h 1 b 4 e 1 b 4
+h 1 d 5 h 1 f 3 h 1 f 3 h 1 b 7
+h 1 g 1 d 3 h 1 f 3 h 1 f 3 h 1 b 5
+h 1 g 1 h 1 h 1 f 3 h 1 f 3 h 1 b 3 g 1 h 1
+h 1 g 1 h 1 h 1 f 3 h 1 f 3 h 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 3 h 1 f 3 h 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 2 h 3 f 2 h 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 2 f 3 h 2 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 5 h 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 h 1 g 1 h 1
+h 1 g 1 h 3 h 1 f 1 h 1 f 1 h 1 f 1 h 1 h 1 g 1 h 1
+h 1 g 1 h 1 c 1 d 1 h 1 h 2 f 7 h 2 h 1 g 1 h 1
+h 1 g 1 h 1 c 1 d 2 h 3 h 1 f 4 h 3 f 4 h 1 h 3 h 1 g 1 h 1
+h 1 g 1 h 1 c 1 d 1 h 1 c 1 c 1 h 2 h 1 f 5 h 1 f 5 h 1 h 1 b 1 d 1 b 1 h 3 g 1 h 1
+h 2 c 1 h 1 c 3 c 2 h 1 h 1 f 5 h 1 f 5 h 1 h 1 b 1 d 1 b 1 d 1 b 1 h 2
+h 1 g 2 h 3 c 1 c 2 c 1 h 2 f 3 h 1 f 1 h 1 f 1 h 1 f 3 h 1 h 1 b 1 d 1 h 3 g 2 h 1
+h 2 g 3 h 2 c 1 c 1 h 1 h 2 f 2 h 1 f 1 h 1 f 2 h 2 h 2 g 3 h 2
+h 1 g 1 h 3 g 2 h 4 h 1 f 5 h 1 h 4 g 2 h 3 g 1 h 1
+h 1 g 4 h 2 g 4 h 12 g 4 h 2 g 4 h 1
+h 1 g 6 h 4 g 12 h 4 g 6 h 1
+h 1 d 1 g 9 h 12 g 4 d 2 g 3 b 1 h 1
+h 1 d 2 g 3 b 2 g 18 d 4 g 2 b 1 h 1
+h 1 d 2 g 2 b 4 g 4 d 2 g 5 b 2 g 3 d 2 e 2 d 2 g 2 h 1
+h 1 d 1 g 2 b 2 e 2 b 2 g 2 d 4 g 3 b 4 g 2 d 2 e 2 d 2 g 2 h 1
+h 1 g 3 b 2 e 2 b 2 g 1 d 2 e 2 d 2 g 1 b 2 e 2 b 2 g 2 d 4 g 3 h 1
+h 2 g 4 b 4 g 2 d 2 e 2 d 2 g 1 b 2 e 2 b 2 g 3 d 2 g 4 h 2
+h 1 g 2 h 3 g 2 b 2 g 4 d 4 g 3 b 4 g 7 h 3 g 2 h 1
+h 2 g 3 h 2 g 7 d 2 g 5 b 2 g 6 h 2 g 3 h 2
+h 3 g 2 h 4 g 14 h 4 g 2 h 3
+h 2 g 4 h 14 g 4 h 2
+h 4 g 14 h 4
+h 14
+
+columns
+0
+h 1
+h 8 h 1 h 1 g 1 h 1
+d 3 h 3 g 8 h 1 g 1 h 10 g 1 h 1
+d 5 h 2 g 3 h 9 g 1 h 1 g 3 d 4 g 2 h 1 g 1 h 1
+d 7 g 1 h 3 h 1 c 4 h 1 g 1 h 1 g 3 d 2 g 3 h 1 g 1 h 1
+d 4 e 1 d 4 h 1 d 3 h 2 g 1 h 1 g 8 h 1 g 1 h 1
+d 3 e 3 d 3 h 1 d 1 h 1 c 1 h 1 g 1 h 1 g 5 b 2 g 2 h 1 g 1 h 1
+d 4 e 1 d 4 h 1 c 3 h 1 g 1 h 1 g 3 b 4 g 1 h 1 g 1 h 1
+h 1 g 1 d 7 h 1 c 1 h 1 g 1 h 1 g 2 b 2 e 2 b 2 g 1 h 1 g 1 h 1
+h 1 g 1 h 1 d 5 h 1 c 1 c 2 h 1 g 1 h 1 g 1 b 2 e 2 b 2 g 1 h 1 g 1 h 1
+h 1 g 1 h 1 d 3 h 1 c 2 h 1 g 1 h 1 g 2 b 4 g 2 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 c 1 c 1 h 1 g 1 h 1 g 3 b 2 g 3 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 c 1 h 1 g 1 h 1 g 9 h 1 g 1 h 1
+h 1 g 1 h 1 h 2 h 1 g 1 h 1 g 3 d 2 g 3 h 1 g 1 h 1
+h 1 g 1 h 1 h 4 h 1 g 1 h 1 g 2 d 4 g 2 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 4 h 1 h 1 g 1 h 1 g 1 d 2 e 2 d 2 g 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 8 h 1 f 4 h 1 h 1 g 1 h 1 g 1 d 2 e 2 d 2 g 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 8 h 4 f 6 h 2 g 1 h 1 g 2 d 4 g 2 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 9 h 1 f 7 h 1 f 2 h 1 g 1 h 1 g 3 d 2 g 3 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 7 h 1 f 2 h 2 f 1 h 1 f 3 h 1 f 1 h 1 g 1 h 1 g 8 h 1 g 1 h 1
+h 1 g 1 h 1 h 8 f 5 h 4 f 2 h 1 g 1 h 1 g 3 b 2 g 3 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 7 h 1 f 2 h 2 f 1 h 1 f 3 h 1 f 1 h 1 g 1 h 1 g 2 b 4 g 2 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 9 h 1 f 7 h 1 f 2 h 1 g 1 h 1 g 1 b 2 e 2 b 2 g 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 8 h 4 f 6 h 2 g 1 h 1 g 1 b 2 e 2 b 2 g 1 h 1 g 1 h 1
+h 1 g 1 h 1 h 8 h 1 f 4 h 1 h 1 g 1 h 1 g 2 b 4 g 2 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 f 4 h 2 g 1 h 1 g 4 b 2 g 3 h 1 g 1 h 1
+h 1 g 1 h 1 h 4 h 1 g 1 h 1 g 8 h 1 g 1 h 1
+h 1 g 1 h 1 h 1 g 1 h 1 g 2 d 2 g 4 h 1 g 1 h 1
+h 1 g 1 h 1 b 3 h 3 h 1 g 1 h 1 g 1 d 4 g 3 h 1 g 1 h 1
+h 1 g 1 h 2 b 5 h 1 b 3 h 1 g 1 h 1 g 1 d 2 e 2 d 2 g 2 h 1 g 1 h 1
+h 1 g 1 b 7 h 1 d 3 h 1 g 1 h 1 g 1 d 2 e 2 d 2 g 1 h 1 g 1 h 1
+b 4 e 1 b 4 h 1 b 2 h 1 g 1 h 1 g 3 d 4 g 2 h 1 g 1 h 1
+b 3 e 3 b 3 h 1 d 1 h 1 g 1 h 1 g 4 d 2 g 2 h 1 g 1 h 1
+b 4 e 1 b 4 h 2 h 1 b 1 h 1 g 1 h 1 g 8 h 1 g 1 h 1
+b 7 g 3 h 9 g 1 h 1 g 3 b 2 g 4 h 1 g 1 h 1
+b 5 h 3 g 8 h 1 g 1 h 10 g 1 h 1
+b 3 h 8 h 1 h 1 g 1 h 1
+h 1
+0

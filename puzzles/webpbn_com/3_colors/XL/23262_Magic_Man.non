@@ -1,0 +1,83 @@
+by "Bryan (Cyclone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Bryan"
+date "Dec  1, 2013"
+description "This is a revisit to puzzle #151. See first comment."
+difficulty 2.25
+height 32
+id 23262
+link "https://webpbn.com/play.cgi?id=23262"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Magic Man"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4
+black 7
+black 8
+black 9
+black 10
+black 10 black 2
+black 10 black 5
+black 12 black 7
+black 13 black 10
+black 24
+black 23
+black 22
+black 19
+black 18
+black 16
+black 15
+black 13 black 1
+black 13 black 3
+black 13 black 1 blue 1 black 2
+black 12 black 1 blue 2 black 2
+black 12 black 1
+black 10 black 2 black 1
+black 9 black 1 black 4
+black 5 black 1 black 1 black 1 black 1 black 2 black 1
+black 4 black 1 black 1 black 1 black 4 black 1
+black 3 black 2 black 1 black 1 black 2 black 3
+black 1 black 1 black 1 black 1 black 2 black 2
+black 1 black 1 black 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 2 black 1 black 1
+black 21
+
+columns
+black 2
+black 2 black 3
+black 5 black 4
+black 6 black 4
+black 9 black 5
+black 12 black 6 black 2
+black 13 black 6 black 5 black 1
+black 25 black 1
+black 21 black 1
+black 20 black 4
+black 26 black 1
+black 18 black 1
+black 17 black 1
+black 15 black 5
+black 14 black 5 black 1
+black 15 black 1
+black 11 black 4 black 1
+black 10 black 8
+black 9 black 1 black 2 black 1
+black 8 black 1 blue 1 black 1 black 2
+black 8 black 1 blue 2 black 1 black 5
+black 10 black 1 black 1 black 1
+black 7 black 2 black 1 black 2 black 1
+black 7 black 2 black 4 black 3
+black 6 black 2 black 1 black 2 black 1
+black 6 black 2 black 6
+black 6
+black 6
+black 5
+black 3

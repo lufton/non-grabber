@@ -1,0 +1,111 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by harris harris"
+date "Mar 22, 2008"
+description "Panama"
+difficulty 1.75
+height 30
+id 2490
+link "https://webpbn.com/play.cgi?id=2490"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "who's flag # 4"
+width 60
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 30
+blue 1 black 30
+blue 1 black 30
+blue 3 black 30
+blue 3 black 30
+blue 5 black 30
+blue 11 black 30
+blue 9 black 30
+blue 7 black 30
+blue 5 black 30
+blue 3 blue 3 black 30
+blue 3 blue 3 black 30
+blue 1 blue 1 black 30
+blue 1 blue 1 black 30
+black 30
+blue 30
+blue 30 black 1
+blue 30 black 1
+blue 30 black 3
+blue 30 black 3
+blue 30 black 5
+blue 30 black 11
+blue 30 black 9
+blue 30 black 7
+blue 30 black 5
+blue 30 black 3 black 3
+blue 30 black 3 black 3
+blue 30 black 1 black 1
+blue 30 black 1 black 1
+blue 30
+
+columns
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 1 blue 1 blue 15
+blue 2 blue 2 blue 15
+blue 3 blue 2 blue 15
+blue 7 blue 15
+blue 8 blue 15
+blue 9 blue 15
+blue 8 blue 15
+blue 7 blue 15
+blue 3 blue 2 blue 15
+blue 2 blue 2 blue 15
+blue 1 blue 1 blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15 black 1 black 1
+black 15 black 2 black 2
+black 15 black 3 black 2
+black 15 black 7
+black 15 black 8
+black 15 black 9
+black 15 black 8
+black 15 black 7
+black 15 black 3 black 2
+black 15 black 2 black 2
+black 15 black 1 black 1
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15

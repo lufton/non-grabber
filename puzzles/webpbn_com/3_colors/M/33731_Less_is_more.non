@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Mar 18, 2020"
+description "when it is a cordless drill"
+difficulty 2.75
+height 15
+id 33731
+link "https://webpbn.com/play.cgi?id=33731"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "Less is more"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3
+red 5
+red 6
+red 3 black 1 red 4
+red 2 black 1 red 6
+black 1 red 4 black 2 red 3
+black 3 red 2 black 1 red 4
+black 5 red 2 black 2
+black 4 red 1 black 4
+black 4 black 5
+black 2 black 5
+black 2 black 3
+black 1 black 1
+0
+
+columns
+black 2
+black 2
+black 2
+black 3
+black 4
+black 5
+red 3 black 3
+red 5 black 1
+red 3 black 1 red 2
+red 3 black 1 red 2
+red 5
+red 5 black 1
+red 4 black 2
+red 3
+red 3 black 1
+red 4 black 3
+red 2 black 5
+red 1 black 5
+black 4
+black 2

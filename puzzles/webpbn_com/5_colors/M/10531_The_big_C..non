@@ -1,0 +1,68 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Oct  3, 2010"
+description "The 100th puzzle I've published. They've been very autobiographical. Those of you who have been with me the whole time may have gleened quite a few insights. Do you know me?"
+difficulty 1.75
+height 20
+id 10531
+link "https://webpbn.com/play.cgi?id=10531"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The big C."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 1 black 3 black 3
+blue 2 black 2 black 1 black 1 black 1 black 1
+blue 3 black 1 black 1 black 1 black 1 black 1 black 3 black 1
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1 black 3
+blue 1 black 3 black 3 black 3 black 1 black 1 black 1
+0
+blue 4 black 3 black 3 black 1 black 1
+blue 1 black 1 black 1 black 1 black 1 black 2 black 1
+blue 1 black 3 black 2 black 4
+blue 1 black 1 black 1 black 1 black 1 black 2
+blue 4 black 1 black 3 black 1 black 1
+0
+black 3 black 1 black 1 black 3 black 3 black 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 3 black 3 black 3
+0
+green 13 red 2
+black 1 green 15 red 2
+
+columns
+blue 2 blue 2 blue 2 blue 2
+blue 3 blue 1 blue 1 blue 1 black 5
+blue 1 blue 1 blue 1 black 1 black 1
+blue 1 blue 1 blue 1 black 3
+black 1
+black 1 black 1 black 5 black 5 green 1
+black 5 black 1 black 1 black 1 green 1
+black 1 black 3 black 5 green 2
+green 2
+black 5 black 5 black 1 black 2 green 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 2
+black 5 black 2 black 2 black 2 black 1 green 2
+green 2
+black 5 black 5 black 1 black 2 green 2
+black 1 black 1 black 2 black 1 black 1 black 1 green 2
+black 5 black 2 black 2 black 1 green 2
+black 5 green 2
+black 1 black 5 green 2
+black 3 black 1 green 2
+black 1 black 1 green 2
+red 2
+black 3 black 5 red 2
+black 1 black 1 black 1 black 1
+black 2 black 1 black 1
+0

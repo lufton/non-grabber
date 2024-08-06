@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tom King"
+date "May 29, 2014"
+description "This puzzle requires edge logic, using the edge to confine clues. It is definitely the most crude of the 4, but also the hardest. There are lots of accomplshed puzzle solvers here that will discuss this with you.Next lesson would be even more advanced solving techniques. Internal edge logic, two way and smile logic. There is almost always a way to solve a puzzle."
+difficulty 1.75
+height 20
+id 24622
+link "https://webpbn.com/play.cgi?id=24622"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "Creating puzzles #4"
+width 20
+
+rows
+3
+2,3
+2,3
+3,2
+3,2
+2,3
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,3,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+
+columns
+15
+2
+1
+2
+1
+2
+1
+1
+2,5
+1,1
+2,5
+1
+2
+1
+2
+1
+1
+2
+1
+15

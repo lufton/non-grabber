@@ -1,0 +1,62 @@
+by "Jessie V (Jepu)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jessie V"
+date "Jan  1, 2013"
+description "tree cage!"
+difficulty 1.25
+height 20
+id 20728
+link "https://webpbn.com/play.cgi?id=20728"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "would you Like to see a ..."
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1
+blue 2 green 3 blue 4 green 4 blue 4 blue 1
+blue 1 green 6 blue 1 green 3 blue 6 blue 1
+blue 5 green 2 blue 1 green 2 blue 1 green 2 blue 4 blue 1
+blue 2 green 13 blue 2 blue 1
+blue 1 green 15 blue 1 blue 1
+green 3 blue 2 green 7 blue 2 green 2 blue 1 blue 1
+green 2 blue 3 green 8 blue 2 blue 1
+blue 4 green 2 blue 1 black 2 blue 1 green 3 blue 2 blue 1
+blue 3 green 3 blue 1 black 2 blue 2 green 2 blue 4 blue 1
+blue 3 green 2 blue 2 black 2 blue 2 green 2 blue 4 blue 1
+blue 4 green 1 blue 2 black 2 blue 2 green 1 blue 5 blue 1
+blue 4 black 2 blue 3 blue 1
+blue 3 blue 4 black 3 blue 2 blue 6
+blue 3 blue 4 black 3 blue 2
+blue 3 blue 4 black 3 blue 2 blue 4
+blue 3 blue 4 black 4 blue 1 blue 4
+blue 4 black 4 blue 7
+blue 7 black 5 blue 7
+blue 20
+
+columns
+blue 4 blue 1
+blue 5 green 2 blue 4 blue 4 blue 2
+blue 1 green 1 blue 2 green 3 blue 4 blue 4 blue 2
+green 2 blue 1 green 3 blue 5 blue 2
+green 2 blue 1 green 2 blue 3 green 2 blue 9
+green 2 blue 1 green 2 blue 2 green 4 blue 8
+blue 1 green 8 blue 10
+blue 1 green 6 blue 12
+blue 3 green 4 black 11 blue 1
+blue 1 green 6 black 11 blue 1
+green 7 blue 5 black 6 blue 1
+green 2 blue 1 green 5 blue 7 black 3 blue 1
+green 1 blue 1 green 9 blue 6 black 1 blue 1
+green 1 blue 1 green 3 blue 1 green 4 blue 1 blue 3
+blue 3 green 2 blue 6 blue 1 blue 3
+blue 3 green 3 blue 5 blue 1 blue 5
+blue 4 green 2 blue 3 blue 1 blue 5
+blue 6 blue 3 blue 1 blue 5
+blue 1 blue 5
+blue 14 blue 2

@@ -1,0 +1,32 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom O'Connell"
+date "Nov 21, 2013"
+description ""
+difficulty 1.0
+height 5
+id 23168
+link "https://webpbn.com/play.cgi?id=23168"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "On the briney way."
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 black 1
+black 1
+black 3
+black 5
+blue 1 black 3 blue 1
+
+columns
+black 1 blue 1
+red 1 black 3
+black 5
+black 3
+black 1 blue 1

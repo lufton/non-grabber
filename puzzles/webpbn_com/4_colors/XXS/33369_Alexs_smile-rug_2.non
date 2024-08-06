@@ -1,0 +1,32 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Bill Eisenmann"
+date "Dec 21, 2019"
+description "A rug I use to make pets happy."
+difficulty 1.25
+height 5
+id 33369
+link "https://webpbn.com/play.cgi?id=33369"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Alex's smile-rug 2"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 1 black 1 green 1 black 1
+red 1 green 1 black 1 green 1
+red 1 black 1 green 1 black 1
+black 1 red 1 green 1 black 1
+red 1 black 1 black 1 green 1
+
+columns
+red 3 black 1 red 1
+black 1 green 1 black 1 black 1
+green 1 black 1 green 1 red 1
+black 1 black 1 green 1 black 1
+green 1 black 1 green 1

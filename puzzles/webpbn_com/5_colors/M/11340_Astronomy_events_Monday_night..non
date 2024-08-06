@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Dec 12, 2010"
+description "Not much of a puzzle, but Mars(red) and mercury(blue)1degree apart at sunset and 1st quarter moon just above Jupiter(green). Geminid meteor shower (streak)after midnight in dark sky locales. Enjoy!"
+difficulty 1.25
+height 20
+id 11340
+link "https://webpbn.com/play.cgi?id=11340"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Astronomy events Monday night."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 2
+black 2 black 10
+black 1
+0
+green 1
+0
+0
+0
+0
+blue 1
+red 1
+0
+black 4 black 4
+black 20
+black 2 black 7 black 1 black 3 black 1
+black 1 black 8 black 3 black 3 black 1
+black 2 black 8 black 2 black 3 black 1
+black 3 black 8 black 1 black 1 black 1 black 1
+black 1 black 7 black 3 black 1 black 2
+
+columns
+black 6
+black 2 black 2
+black 2 black 1 black 1
+black 4 green 1 black 2 black 2 black 1
+black 2 black 7
+black 7
+black 6
+black 6
+black 6
+black 1 black 6
+black 1 black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 7
+black 1 red 1 black 2 black 1
+black 1 blue 1 black 6
+black 1 black 4 black 1
+black 1 black 5
+black 1 black 1 black 1
+black 6

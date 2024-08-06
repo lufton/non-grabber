@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr  9, 2011"
+description "Nessie is on vacation. Please feel free to make your own "what's in the pond" puzzles."
+difficulty 1.25
+height 10
+id 13269
+link "https://webpbn.com/play.cgi?id=13269"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "# 1 What's in my pond?"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 4
+black 2 blue 1 black 1
+black 4
+black 4 black 4 black 2
+black 6 black 6 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+blue 20
+blue 20
+
+columns
+blue 2
+black 3 blue 2
+black 4 blue 2
+black 2 blue 2
+black 2 blue 2
+black 4 blue 2
+black 3 blue 2
+blue 2
+black 3 blue 2
+black 4 blue 2
+black 2 blue 2
+black 2 blue 2
+black 4 blue 2
+black 3 blue 2
+blue 2
+black 7 blue 2
+black 7 blue 2
+black 1 blue 1 black 1 blue 2
+black 3 blue 2
+blue 2

@@ -1,0 +1,43 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/3/17"
+height 13
+id 184343
+link "https://www.griddlers.net/nonogram/-/g/184343"
+medium_time "0:01:30"
+points 740
+popularity 76.19
+title "Chess Piece - Bishop"
+width 10
+
+color a ffffff
+color b 000000
+color c cccccc
+
+rows
+b 1 c 1
+b 3 c 1
+b 5 c 1
+b 4 c 1
+b 3 b 1 c 1
+b 3 c 1
+b 3 c 1
+b 3 c 1
+b 5 c 1
+b 1 c 5 b 1 c 1
+b 7 c 1
+b 1 c 7 b 1 c 1
+b 9 c 1
+
+columns
+b 2
+b 2 c 1 b 1
+b 3 b 1 c 1 b 1 c 1 b 1
+b 8 c 1 b 1 c 1 b 1
+b 9 c 1 b 1 c 1 b 1
+c 1 b 3 b 4 c 1 b 1 c 1 b 1
+c 1 b 1 b 1 c 3 b 1 c 1 b 1 c 1 b 1
+c 3 c 1 b 2 c 1 b 1
+c 2 b 2
+c 2

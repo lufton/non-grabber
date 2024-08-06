@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Norma Dee"
+date "Aug 31, 2017"
+description "Making my deposit at the river bank."
+difficulty 1.5
+height 20
+id 30143
+link "https://webpbn.com/play.cgi?id=30143"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Banking day"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 16
+black 18
+black 1 red 2 green 1 red 8 green 1 red 2 black 1
+red 2 green 3 red 6 green 3 red 2
+red 2 green 1 red 4 red 2 green 1 red 4
+red 2 green 3 red 2 red 2 green 3 red 2
+red 4 green 1 red 2 red 4 green 1 red 2
+red 2 green 3 red 6 green 3 red 2
+red 3 green 1 red 8 green 1 red 3
+red 16
+red 2 red 2 red 2
+red 2 red 2 black 2 red 2
+red 2 red 2 black 2 red 2
+red 2 red 2 black 1 blue 1 red 2
+red 2 red 2 blue 3 red 2
+red 5 green 4 black 1 green 4 red 2
+red 6 green 3 black 1 green 4 red 2
+blue 11 black 1 blue 8
+blue 2 blue 5 blue 8 blue 2
+blue 5 blue 6 blue 6
+
+columns
+blue 3
+black 1 blue 3
+black 3 red 14 blue 1 blue 1
+black 2 red 15 blue 3
+black 2 red 1 green 3 red 1 green 1 red 2 red 2 blue 3
+black 2 green 2 red 1 green 1 red 1 green 2 red 1 red 2 blue 2
+black 2 red 1 green 1 red 1 green 3 red 2 red 2 blue 2
+black 2 red 8 green 1 red 1 blue 3
+black 2 red 8 green 2 blue 1 blue 1
+black 2 red 2 red 8 green 2 blue 3
+black 2 red 2 red 8 green 2 blue 3
+black 2 red 8 black 1 blue 1 black 3 blue 2
+black 2 red 8 black 2 blue 1 green 2 blue 3
+black 2 red 1 green 3 red 1 green 1 red 2 black 2 blue 2 green 2 blue 2
+black 2 green 2 red 1 green 1 red 1 green 2 red 1 green 2 blue 3
+black 2 red 1 green 1 red 1 green 3 red 2 green 2 blue 3
+black 2 red 15 blue 3
+black 3 red 14 blue 1 blue 1
+black 1 blue 3
+blue 3

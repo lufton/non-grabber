@@ -1,0 +1,43 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 24, 2010"
+description "Ain't I Mr. Cool?"
+difficulty 1.25
+height 10
+id 9718
+link "https://webpbn.com/play.cgi?id=9718"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Shop #5"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 8
+black 1 blue 2 green 2 red 2 blue 2 black 1
+black 1 blue 1 green 2 red 2 blue 3 black 1
+black 1 green 2 red 2 blue 3 green 1 black 1
+black 1 green 1 red 2 blue 3 green 2 black 1
+black 1 red 2 black 4 green 2 black 1
+black 1 red 1 blue 1 black 2 black 1 green 1 red 1 black 1
+black 1 blue 2 black 1 black 1 red 2 black 1
+black 1 blue 1 green 1 black 1 black 1 red 2 black 1
+black 1 green 2 black 1 black 1 red 1 blue 1 black 1
+
+columns
+black 9
+black 1 blue 2 green 2 red 2 blue 2 green 1
+black 1 blue 1 green 2 red 2 blue 2 green 2
+black 1 green 2 red 2 black 5
+black 1 green 1 red 2 blue 1 black 2
+black 1 red 2 blue 2 black 1
+black 1 red 1 blue 3 black 5
+black 1 blue 3 green 3 red 3
+black 1 blue 2 green 3 red 3 blue 1
+black 9

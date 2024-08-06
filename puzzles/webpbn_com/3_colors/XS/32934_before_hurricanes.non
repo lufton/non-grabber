@@ -1,0 +1,41 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Andrew Schultz"
+date "Sep 27, 2019"
+description "Nothing to do with weather, actually. Full description in spoiler."
+difficulty 1.25
+height 10
+id 32934
+link "https://webpbn.com/play.cgi?id=32934"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "before hurricanes"
+width 10
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 4 blue 4
+black 1 blue 8 black 1
+black 2 blue 2 black 2
+black 3 blue 2 black 3
+black 3 black 3
+black 3 black 2 black 3
+black 3 black 2 black 3
+black 8
+black 2 black 2
+
+columns
+blue 2 black 6
+blue 2 black 6
+blue 2 black 6
+blue 2 black 2
+blue 3 black 3
+blue 3 black 3
+blue 2 black 2
+blue 2 black 6
+blue 2 black 6
+blue 2 black 6

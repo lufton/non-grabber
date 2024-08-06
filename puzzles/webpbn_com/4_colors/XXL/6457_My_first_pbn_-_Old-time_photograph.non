@@ -1,0 +1,122 @@
+by "Wesley Snyder (wsnyder98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Wesley Snyder"
+date "Aug  7, 2009"
+description "Based on a picture I found - http://gotham-cigar-museum.com/images/5%20CENT%20CIGAR.jpg . Hope it wasn't too easy."
+difficulty 3.0
+height 50
+id 6457
+link "https://webpbn.com/play.cgi?id=6457"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "My first pbn - Old-time photograph"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 50
+black 9 black 9
+black 8 black 8
+black 7 black 7
+black 6 red 4 red 2 black 6
+black 5 red 9 red 4 black 5
+black 4 red 3 red 2 red 11 black 4
+black 3 red 2 red 6 red 5 red 5 black 3
+black 2 red 2 red 2 red 4 red 3 red 3 red 2 black 2
+black 1 red 5 red 4 red 1 red 5 red 1 black 1
+black 1 red 2 red 1 red 4 red 8 black 1
+black 1 red 3 red 6 red 4 black 1
+black 1 red 3 red 4 red 3 black 1
+black 1 red 3 red 2 black 1
+black 1 red 2 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 red 2 red 2 black 1 black 1
+black 1 black 2 black 1 red 6 red 6 black 1 black 2 black 1
+black 1 black 5 red 1 red 1 black 5 black 1
+black 1 black 1 black 2 black 3 black 3 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 blue 2 black 1 black 1 black 1 blue 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 blue 2 black 1 black 1 black 1 blue 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 black 1 black 2 black 1
+black 1 black 1 black 2 black 1 black 1 black 2 black 1 black 1
+black 1 black 4 black 2 black 2 black 4 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 6 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 red 1 red 4 red 1 black 1 black 1
+black 1 black 1 red 2 red 8 red 2 black 1 black 1
+black 1 black 1 red 3 red 3 red 3 red 3 black 1 black 1
+black 1 black 1 red 5 red 5 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 1 black 4 black 1 black 1
+black 1 blue 5 black 2 black 2 blue 5 black 1
+black 1 blue 8 black 1 black 3 black 4 black 3 black 1 blue 8 black 1
+black 1 blue 12 black 2 black 3 black 3 black 2 blue 12 black 1
+black 1 blue 13 black 3 black 3 black 3 black 3 blue 13 black 1
+black 1 blue 14 black 4 black 2 black 2 black 4 blue 14 black 1
+black 1 blue 15 black 4 black 4 black 4 blue 15 black 1
+black 1 blue 16 black 10 blue 16 black 1
+black 2 blue 16 black 6 blue 16 black 2
+black 3 blue 15 black 6 blue 15 black 3
+black 4 blue 15 black 4 blue 15 black 4
+black 5 blue 15 black 2 blue 15 black 5
+black 6 blue 15 black 4 blue 15 black 6
+black 7 blue 15 black 6 blue 15 black 7
+black 8 blue 14 black 6 blue 14 black 8
+black 9 blue 13 black 6 blue 13 black 9
+black 50
+
+columns
+black 50
+black 9 blue 4 black 9
+black 8 blue 6 black 8
+black 7 blue 7 black 7
+black 6 blue 8 black 6
+black 5 blue 9 black 5
+black 4 blue 11 black 4
+black 3 blue 12 black 3
+black 2 blue 13 black 2
+black 1 blue 14 black 1
+black 1 black 5 blue 15 black 1
+black 1 black 2 black 3 blue 15 black 1
+black 1 black 2 black 1 blue 15 black 1
+black 1 red 2 red 3 black 2 black 2 blue 15 black 1
+black 1 red 7 black 18 blue 1 black 2 blue 11 black 1
+black 1 red 3 red 3 black 3 black 2 blue 10 black 1
+black 1 red 2 red 3 red 2 black 2 black 2 blue 9 black 1
+black 1 red 2 red 2 red 2 red 4 black 1 black 2 blue 8 black 1
+black 1 red 5 red 2 black 3 red 2 black 2 black 2 blue 6 black 1
+black 1 red 2 red 1 red 1 black 1 blue 2 red 1 black 1 black 2 blue 5 black 1
+black 1 red 4 red 1 black 1 blue 2 red 2 black 2 black 2 blue 4 black 1
+black 1 red 5 red 1 red 3 black 1 black 2 blue 3 black 1
+black 1 red 1 red 3 red 2 black 3 red 2 black 1 black 2 black 3 black 4
+black 1 red 7 black 5 black 1 red 2 black 1 black 1 black 6 black 5
+black 1 red 3 red 4 black 1 red 2 black 1 black 1 black 11
+black 1 red 3 red 3 black 1 red 2 black 1 black 1 black 11
+black 1 red 3 red 3 black 5 black 1 red 2 black 1 black 1 black 6 black 5
+black 1 red 4 red 2 red 2 black 3 red 2 black 1 black 2 black 3 black 4
+black 1 red 4 red 3 red 1 red 3 black 1 black 2 blue 3 black 1
+black 1 red 3 red 4 red 1 black 3 red 2 black 2 black 2 blue 4 black 1
+black 1 red 2 red 3 red 1 black 1 blue 2 red 1 black 1 black 2 blue 5 black 1
+black 1 red 6 red 2 black 1 blue 2 red 2 black 2 black 2 blue 6 black 1
+black 1 red 5 red 2 red 4 black 1 black 2 blue 8 black 1
+black 1 red 2 red 3 red 2 black 2 black 2 blue 9 black 1
+black 1 red 2 red 3 black 3 black 2 blue 10 black 1
+black 1 red 7 black 19 blue 1 black 2 blue 11 black 1
+black 1 red 3 black 2 black 2 blue 15 black 1
+black 1 black 2 black 1 blue 15 black 1
+black 1 black 2 black 3 blue 15 black 1
+black 1 black 5 blue 15 black 1
+black 1 blue 14 black 1
+black 2 blue 13 black 2
+black 3 blue 12 black 3
+black 4 blue 11 black 4
+black 5 blue 9 black 5
+black 6 blue 8 black 6
+black 7 blue 7 black 7
+black 8 blue 6 black 8
+black 9 blue 4 black 9
+black 50

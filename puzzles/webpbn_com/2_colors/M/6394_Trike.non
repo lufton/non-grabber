@@ -1,0 +1,57 @@
+by "Robyn Broyles (ginkgo100)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Robyn Broyles"
+date "Jul 27, 2009"
+description "Triceratops, iconic Cretaceous dinosaur. In the film Jurassic Park, the characters called it a "trike" for short."
+difficulty 2.5
+height 20
+id 6394
+link "https://webpbn.com/play.cgi?id=6394"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Trike"
+width 20
+
+rows
+1
+2
+2,2
+3,2
+3,3,4
+3,2,6
+3,4,3
+1,4,3,3
+2,7,3
+3,7,2
+8,3,2
+3,2,1
+4,1,1
+1,2,3,1
+2,2,1
+3,1
+2,1
+3,3,2
+2,5,2
+3,1,5
+
+columns
+3
+1,3,2
+2,11
+2,3,4,1
+3,2,2
+4,1,1,2
+6,1
+5,1
+2,4,1
+4,2,2
+10,2,3
+8,2,1
+5,1,1
+2,2
+2,1
+2,1
+3,1
+5,2
+6,2
+11

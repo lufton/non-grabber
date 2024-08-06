@@ -1,0 +1,66 @@
+by "Jessica Lundberg (Jessa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jessica Lundberg"
+date "Jun 18, 2013"
+description "Ãâ¦land Islands flag (the white is supposed to be yellow)"
+difficulty 1.25
+height 20
+id 22188
+link "https://webpbn.com/play.cgi?id=22188"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Flag"
+width 25
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+black 3
+black 3
+black 25
+black 25
+black 25
+black 3
+black 3
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+blue 9 black 3 blue 9
+
+columns
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+black 3
+black 3
+black 20
+black 20
+black 20
+black 3
+black 3
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6
+blue 7 black 3 blue 6

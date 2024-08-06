@@ -1,0 +1,61 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/2/19"
+height 23
+id 203090
+link "https://www.griddlers.net/nonogram/-/g/203090"
+medium_time "0:07:09"
+points 3739
+popularity 79.35
+title "Alice in Wonderland"
+width 15
+
+color a 99ffff
+color b 000000
+color c ffffff
+color d ff0000
+color e ffd865
+color f f5d2af
+
+rows
+e 1 e 1
+e 3
+b 5
+b 7
+b 2 f 5 b 2
+c 2 f 1 b 1 f 3 b 1 f 1 c 2
+c 1 f 7 c 1
+c 1 f 3 d 1 f 3 c 1
+c 2 f 3 c 2
+c 2 f 1 c 2
+d 1 b 2 d 3 b 1
+d 2 b 3 d 2 b 2
+d 2 b 2 d 3 b 2
+b 1 d 1 b 2 d 1 b 1 d 1
+f 1 d 2 e 1 b 2 f 1
+d 3 c 1 b 3
+d 3 c 1 e 1 c 1 b 3
+d 3 c 1 e 1 b 1 e 1 c 1 b 3
+d 3 c 1 e 1 b 1 e 1 b 1 e 1 c 1 b 3
+d 4 e 1 b 1 e 1 b 1 e 1 b 1 e 1 b 4
+d 3 c 1 b 1 e 1 b 1 e 1 b 1 e 1 b 1 c 1 b 3
+c 1 d 2 c 1 e 1 b 1 e 1 b 1 e 1 b 1 e 1 c 1 b 2 c 1
+c 2 e 1 b 1 e 1 b 1 e 1 b 1 e 1 b 1 e 1 c 2
+
+columns
+d 2 c 1
+d 4 c 1
+c 1 d 5 c 1
+b 1 c 3 d 2 b 1 f 1 d 4 c 2 e 1
+b 2 f 3 c 1 d 3 d 3 c 1 e 1 b 1 e 1 b 1
+b 2 f 1 b 1 f 2 c 2 b 3 d 4 c 1 e 1 b 1 e 1 b 1 e 1
+e 2 b 2 f 5 c 1 b 4 d 2 c 1 e 1 b 1 e 1 b 1 e 1 b 1
+e 1 b 2 f 3 d 1 f 2 d 1 b 1 d 1 b 1 e 1 c 1 e 1 b 1 e 1 b 1 e 1 b 1 e 1
+e 2 b 2 f 5 c 1 d 4 b 2 c 1 e 1 b 1 e 1 b 1 e 1 b 1
+b 2 f 1 b 1 f 2 c 2 d 3 b 4 c 1 e 1 b 1 e 1 b 1 e 1
+b 2 f 3 c 1 b 3 b 3 c 1 e 1 b 1 e 1 b 1
+b 1 c 3 b 2 d 1 f 1 b 4 c 2 e 1
+c 1 b 5 c 1
+b 4 c 1
+b 2 c 1

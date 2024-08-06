@@ -1,0 +1,48 @@
+by "jacobjr"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/10/19"
+height 16
+id 203262
+link "https://www.griddlers.net/nonogram/-/g/203262"
+medium_time "0:02:00"
+points 182
+popularity 73.43
+title "Is It Christmas Yet?"
+width 10
+
+color a 339999
+color b 000000
+color c FFFF00
+color d FFFFFF
+color e FF3300
+
+rows
+e 1 d 1
+e 1 d 3
+e 2 d 1
+e 2
+e 4
+d 6
+b 8
+b 3 d 1 b 2 d 1 b 3
+b 3 d 1 b 2 d 1 b 3
+b 10
+b 3 c 4 b 3
+b 4 c 2 b 4
+b 10
+b 3 d 4 b 3
+b 2 d 6 b 2
+b 2 d 6 b 2
+
+columns
+b 9
+b 10
+d 1 b 8 d 2
+e 1 d 1 b 1 d 2 b 1 c 1 b 2 d 3
+e 3 d 1 b 4 c 2 b 1 d 3
+e 3 d 1 b 4 c 2 b 1 d 3
+e 1 e 1 d 1 b 1 d 2 b 1 c 1 b 2 d 3
+e 1 d 1 d 1 b 8 d 2
+d 3 b 10
+d 1 b 9

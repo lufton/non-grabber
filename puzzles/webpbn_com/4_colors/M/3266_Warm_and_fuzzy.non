@@ -1,0 +1,67 @@
+by "A (missme)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by A"
+date "Aug 11, 2008"
+description "This is simply a cozy cat"
+difficulty 1.5
+height 20
+id 3266
+link "https://webpbn.com/play.cgi?id=3266"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Warm and fuzzy"
+width 25
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 4
+black 1 blue 1 black 1 blue 1 black 2 black 2
+black 2 green 1 black 3 black 3
+black 4 black 3
+black 11 black 3
+black 15
+black 15
+blue 3 black 15 blue 3
+blue 4 black 15 blue 4
+blue 5 black 14 blue 4
+blue 5 black 13 blue 5
+blue 6 black 11 blue 6
+blue 7 black 9 blue 6
+blue 20
+blue 17
+0
+0
+0
+
+columns
+0
+blue 5
+blue 7
+blue 8
+blue 8
+black 2 black 3 blue 6
+black 2 blue 1 black 2 black 6 blue 4
+black 2 green 1 black 9 blue 3
+black 1 blue 1 black 11 blue 2
+black 14 blue 2
+black 2 black 9 blue 2
+black 9 blue 2
+black 9 blue 2
+black 9 blue 2
+black 9 blue 2
+black 9 blue 2
+black 9 blue 2
+black 8 blue 3
+black 6 blue 4
+black 6 blue 5
+black 3 blue 7
+black 3 blue 7
+black 3 blue 6
+black 2 blue 4
+0

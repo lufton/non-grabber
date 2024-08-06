@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 23, 2011"
+description "This one turned out to be much more difficult to solve than I thought it would. What do y'all think?"
+difficulty 3.25
+height 20
+id 11870
+link "https://webpbn.com/play.cgi?id=11870"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Who's hat #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 7
+black 2 black 2
+black 1 black 1
+black 13
+black 1 black 1
+black 1 red 1 black 1
+black 1 red 3 black 1
+black 2 red 1 black 2
+black 1 black 1
+black 11
+0
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 3 black 4
+black 4 black 3 black 1
+black 3 black 3
+black 1 black 4 black 1
+black 5
+
+columns
+0
+0
+black 2
+black 5 black 1 black 2
+black 1 black 3 black 1 black 1
+black 3 black 1 black 2
+black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 red 1 black 1 black 2
+black 1 black 1 red 3 black 1 black 3
+black 1 black 1 red 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 2 black 1
+black 3 black 1 black 1 black 2
+black 1 black 3 black 1 black 1 black 1
+black 5 black 1 black 2 black 1
+black 2 black 2
+black 1
+black 3
+0

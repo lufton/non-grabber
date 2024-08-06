@@ -1,0 +1,83 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Marie-Louise Ambrey"
+date "Sep 23, 2007"
+description "Teddy does like some quiet times too, here he is doing some online puzzle solving, his favourite site is webpbn, he loves all the great puzzles posted by wonderful people from all over the world."
+difficulty 2.25
+height 35
+id 1475
+link "https://webpbn.com/play.cgi?id=1475"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Teddy ; part 7 ( R & R)"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 15
+red 15
+red 2 black 1 red 2
+red 2 black 2 black 2 black 3 red 2
+red 2 black 2 black 2 black 1 black 1 red 2
+red 2 black 1 red 2
+red 2 black 1 red 3 red 2
+red 2 red 4 black 3 black 3 black 3
+red 2 red 1 red 1 black 11
+red 2 red 1 red 1 red 1 black 11
+red 2 red 1 red 1 red 1 black 9
+red 2 red 5 black 9
+red 2 red 3 black 9
+red 2 black 9
+red 10 black 9
+red 5 black 7
+black 1 black 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 9
+red 7 black 3 red 1 blue 11
+red 7 black 3 blue 13
+green 9 blue 16
+green 9 blue 16
+green 10 blue 15
+green 11 blue 2 green 1 blue 10 green 1
+green 2 green 2 blue 9
+green 2 green 1 green 2 black 9
+green 2 green 2 black 9
+green 9 black 7
+green 2 green 2 green 9
+green 2 green 1 green 2 green 9
+green 2 green 2 green 2 black 1 black 1 green 2
+green 9 green 2 black 1 black 1 green 2
+green 2 green 2 green 2 black 1 black 1 green 2
+green 2 green 1 green 2 black 1 green 7 black 1
+green 2 green 2 black 2 green 2 black 1 black 1 green 2 black 2
+green 9 black 2 green 2 green 2 black 2
+
+columns
+green 4
+green 16
+red 2 green 16
+red 2 green 4 green 1 green 1 green 1
+red 15 black 1 red 2 green 4 green 1 green 1 green 1
+red 15 red 2 green 4 green 1 green 1 green 1 green 1 green 1 green 1
+red 2 red 1 black 1 red 2 green 4 green 1 green 1 green 1
+red 2 black 4 red 1 red 2 green 4 green 1 green 1 green 1
+red 2 black 2 red 3 red 1 black 1 red 2 green 16
+red 2 red 1 red 1 red 3 black 2 blue 2 green 14
+red 2 black 3 red 2 red 4 red 2 black 3 blue 3 green 1
+red 2 black 2 red 3 red 2 red 3 black 2 blue 4
+red 2 red 2 red 4 red 2 black 1 red 1 blue 5
+red 2 black 2 black 3 red 1 red 3 blue 5 green 1 black 2
+red 2 black 1 black 8 blue 8 black 2 green 2 black 3
+red 2 black 2 black 9 blue 8 black 3 green 8
+red 2 black 8 blue 8 black 3 green 8
+red 7 black 9 blue 8 black 3 green 2 black 3 green 1 black 1
+red 7 black 9 blue 8 black 3 green 2 green 1
+black 9 blue 8 black 3 green 2 black 3 green 1 black 1
+black 8 blue 8 black 3 green 8
+black 9 blue 8 black 3 green 8
+black 8 blue 8 black 2 green 2 black 3
+black 3 blue 6 black 2
+blue 4 green 1

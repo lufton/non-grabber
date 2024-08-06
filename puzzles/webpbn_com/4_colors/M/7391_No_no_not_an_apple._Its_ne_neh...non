@@ -1,0 +1,62 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Kai-Uwe Zickerick"
+date "Dec 10, 2009"
+description "Cherry. You know Neneh Cherry, the singer?"
+difficulty 2.75
+height 20
+id 7391
+link "https://webpbn.com/play.cgi?id=7391"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "No, no, not an apple. It's ne, neh.."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 1
+green 5
+green 3 green 1 green 2
+green 2 black 1 green 1 green 2
+green 2 black 1 green 1 green 1 green 1
+green 3 black 1 green 2 green 2 green 1
+green 3 black 1 green 2 green 1 green 2
+green 3 black 1 green 3 green 1 green 1
+green 2 black 1 green 3 green 2 green 1
+green 2 black 1 green 4 green 1 green 2
+green 2 black 1 green 3 green 1 green 1
+green 6 green 1 green 1
+green 4 green 1 green 1
+green 2 green 2 green 1
+red 1 green 1 red 1 red 1 green 1 red 1
+red 2 black 1 red 2 red 2 black 1 red 2
+red 5 red 5
+red 5 red 5
+red 3 red 3
+
+columns
+green 3
+green 6
+green 3 black 2 green 3
+green 3 black 1 green 5
+green 2 black 1 green 5
+green 2 black 1 green 5
+green 2 black 1 green 4
+green 2 black 1 green 3
+green 1 black 1 green 2 red 3
+green 1 green 6 red 5
+green 1 green 4 green 2 black 1 red 3
+green 1 green 3 red 5
+green 2 red 3
+black 1 green 1
+green 2
+green 2 red 3
+green 4 red 5
+green 4 green 2 black 1 red 3
+green 4 red 5
+red 3

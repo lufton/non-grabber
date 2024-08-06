@@ -1,0 +1,52 @@
+by "A (missme)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by A"
+date "Aug 11, 2008"
+description "Blue flower with red center"
+difficulty 1.25
+height 20
+id 3233
+link "https://webpbn.com/play.cgi?id=3233"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Blue and Red Beauty"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+blue 2
+blue 4
+blue 4
+blue 3 black 2 blue 3
+blue 3 black 4 blue 3
+blue 3 black 4 blue 3
+blue 3 black 2 blue 3
+blue 4
+blue 4
+blue 2
+green 2 green 1
+green 5
+green 1 green 2
+green 1
+green 1
+
+columns
+blue 2
+blue 4
+blue 4 green 1
+blue 3 black 2 blue 3 green 2
+blue 3 black 4 blue 3 green 1
+blue 3 black 4 blue 3 green 5
+blue 3 black 2 blue 3 green 1
+blue 4 green 2
+blue 4 green 1
+blue 2

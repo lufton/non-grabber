@@ -1,0 +1,33 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Jul  4, 2013"
+description ""
+difficulty 1.0
+height 5
+id 22329
+link "https://webpbn.com/play.cgi?id=22329"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "karÃ¡csonyfa"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1
+red 1 green 1 red 1
+red 1 green 3 red 1
+green 5
+red 1 black 1 red 1
+
+columns
+red 1 green 1 red 1
+red 1 green 2
+blue 1 green 3 black 1
+red 1 green 2
+red 1 green 1 red 1

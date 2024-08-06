@@ -1,0 +1,70 @@
+by "Korodzik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/31/06"
+height 22
+id 39432
+link "https://www.griddlers.net/nonogram/-/g/39432"
+medium_time "0:03:39"
+points 6774
+popularity 61.67
+title "House"
+width 23
+
+color a ffffff
+color b 000000
+color c ffffcc
+color d cc9900
+color e 990033
+color f ccccff
+color g 33ff33
+color h ff0000
+
+rows
+b 1
+b 1 h 1 b 1 b 4
+b 1 h 3 b 1 b 1 e 2 b 1
+b 1 h 5 b 1 b 1 e 2 b 1
+b 1 h 7 b 2 e 2 b 1
+b 1 h 9 b 1 e 2 b 1
+b 1 h 11 b 1 e 1 b 1
+b 1 h 13 b 2
+b 1 h 15 b 1
+b 1 h 17 b 1
+b 1 h 19 b 1
+b 4 c 15 b 4
+b 1 c 1 b 7 c 1 b 5 c 1 b 1
+b 1 c 1 b 1 d 5 b 1 c 1 b 1 f 1 b 1 f 1 b 1 c 1 b 1
+b 1 c 1 b 1 d 5 b 1 c 1 b 5 c 1 b 1
+b 1 c 1 b 1 d 5 b 1 c 1 b 1 f 1 b 1 f 1 b 1 c 1 b 1
+b 1 c 1 b 1 d 3 b 1 d 1 b 1 c 1 b 5 c 1 b 1
+b 1 c 1 b 1 d 5 b 1 c 7 b 1
+b 1 c 1 b 1 d 5 b 1 c 7 b 1
+b 1 c 1 b 1 d 5 b 1 c 7 b 1
+g 3 b 17 g 3
+g 23
+
+columns
+b 1 g 2
+b 2 g 2
+b 1 h 1 b 1 g 2
+b 1 h 2 b 10 g 1
+b 1 h 3 c 9 b 1 g 1
+b 1 h 4 c 1 b 9 g 1
+b 1 h 5 c 1 b 1 d 7 b 1 g 1
+b 1 h 6 c 1 b 1 d 7 b 1 g 1
+b 1 h 7 c 1 b 1 d 7 b 1 g 1
+b 1 h 8 c 1 b 1 d 3 b 1 d 3 b 1 g 1
+b 1 h 9 c 1 b 1 d 7 b 1 g 1
+b 1 h 10 c 1 b 9 g 1
+b 1 h 9 c 9 b 1 g 1
+b 1 h 8 c 1 b 5 c 3 b 1 g 1
+b 1 h 7 c 1 b 1 f 1 b 1 f 1 b 1 c 3 b 1 g 1
+b 1 h 6 c 1 b 5 c 3 b 1 g 1
+b 5 h 5 c 1 b 1 f 1 b 1 f 1 b 1 c 3 b 1 g 1
+b 1 e 4 b 1 h 4 c 1 b 5 c 3 b 1 g 1
+b 1 e 5 b 1 h 3 c 9 b 1 g 1
+b 8 h 2 b 10 g 1
+b 1 h 1 b 1 g 2
+b 2 g 2
+b 1 g 2

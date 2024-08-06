@@ -1,0 +1,37 @@
+by "Frank Camp (marakesh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Frank Camp"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 8
+id 27767
+link "https://webpbn.com/play.cgi?id=27767"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Blinky"
+width 8
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 6
+black 1 black 2 black 1
+black 1 blue 1 black 2 blue 1 black 1
+black 8
+black 8
+black 8
+black 1 black 2 black 1
+
+columns
+black 6
+black 1 black 3
+black 2 blue 1 black 3
+black 8
+black 8
+black 2 black 3
+black 1 blue 1 black 3
+black 6

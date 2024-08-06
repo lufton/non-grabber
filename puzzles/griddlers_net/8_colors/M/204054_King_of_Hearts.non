@@ -1,0 +1,71 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/28/19"
+height 26
+id 204054
+link "https://www.griddlers.net/nonogram/-/g/204054"
+medium_time "0:06:31"
+points 1935
+popularity 76.33
+title "King of Hearts"
+width 20
+
+color a ccccff
+color b 663300
+color c ffffff
+color d ff0000
+color e 990000
+color f ffe132
+color g ffcc66
+color h f9d1a9
+
+rows
+f 1
+f 1 f 3 f 1
+f 2 f 1 g 1 f 1 f 2
+f 1 g 1 f 1 g 1 f 1 g 1 f 1
+f 1 g 1 f 2 g 1 f 2 g 1 f 1
+f 2 g 1 f 1 g 1 f 1 g 1 f 2
+f 7
+g 7
+f 9
+g 1 h 7 g 1
+g 1 h 9 g 1
+g 1 h 2 b 1 c 1 h 1 c 1 b 1 h 2 g 1
+g 2 h 2 b 2 h 1 b 2 h 2 g 2
+g 2 h 11 g 2
+g 2 h 11 g 2
+h 4 d 1 h 4
+c 1 g 1 h 5 g 1 c 1
+e 1 c 2 g 5 c 2 e 1 d 1 d 1
+e 2 c 3 f 1 c 3 e 2 d 5
+e 3 c 1 f 1 c 1 f 1 c 1 e 3 d 3
+e 5 c 1 e 5 d 1
+e 5 c 1 e 5 b 1
+e 5 c 1 e 5 b 1
+e 4 c 1 e 4 b 1
+e 3 c 1 e 3 b 1
+c 5 b 1
+
+columns
+g 2
+g 3
+f 2 g 3 h 2 e 6
+f 4 f 1 g 1 h 6 c 2 e 6
+g 2 f 2 g 1 f 1 h 7 g 1 c 2 e 6
+f 1 g 1 f 1 g 1 f 1 h 2 b 2 h 4 g 1 c 2 e 5 c 1
+f 6 g 1 f 1 h 2 c 1 b 1 h 4 g 1 c 1 f 1 e 5 c 1
+f 2 g 4 f 1 g 1 f 1 h 6 d 1 h 1 g 1 f 1 c 7
+f 6 g 1 f 1 h 2 c 1 b 1 h 4 g 1 c 1 f 1 e 5 c 1
+f 1 g 1 f 1 g 1 f 1 h 2 b 2 h 4 g 1 c 2 e 5 c 1
+g 2 f 2 g 1 f 1 h 7 g 1 c 2 e 6
+f 4 f 1 g 1 h 6 c 2 e 6
+f 2 g 3 h 2 e 6
+g 3
+g 2
+d 1
+d 3
+d 3 b 5
+d 3
+d 1

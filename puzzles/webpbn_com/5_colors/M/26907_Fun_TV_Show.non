@@ -1,0 +1,63 @@
+by "Jaime Hedger ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Jaime Hedger"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 20
+id 26907
+link "https://webpbn.com/play.cgi?id=26907"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Fun TV Show"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 green 1 green 4 green 4
+green 1 green 1 green 1 green 1
+green 1 green 2 green 1 green 3 green 3
+green 1 green 1 green 1 green 1 green 1
+green 4 green 4 green 4 green 4
+blue 20
+blue 3 red 3 blue 8 red 3 blue 3
+blue 2 red 1 red 2 blue 4 red 2 red 1 blue 2
+blue 1 red 1 red 1 blue 2 red 1 black 1 red 1 blue 1
+blue 1 red 1 red 2 black 3 red 1 blue 1
+blue 1 red 1 black 2 red 1 blue 1
+blue 1 red 1 red 1 blue 1
+blue 1 red 2 red 2 blue 1
+blue 2 red 2 red 2 blue 2
+blue 3 red 2 red 2 blue 3
+blue 4 red 3 red 3 blue 4
+blue 6 red 3 red 3 blue 6
+blue 8 red 4 blue 8
+blue 9 red 2 blue 9
+blue 9 red 2 blue 9
+
+columns
+blue 15
+green 5 blue 3 red 5 blue 7
+green 1 green 1 blue 2 red 1 red 2 blue 6
+green 1 green 1 green 1 blue 1 red 1 red 2 blue 5
+green 1 green 3 blue 1 red 1 red 2 blue 4
+blue 1 red 1 red 1 blue 4
+green 5 blue 2 red 1 red 2 blue 3
+green 1 blue 2 red 1 red 1 blue 3
+green 1 blue 3 red 1 red 2 blue 2
+green 1 blue 4 red 1 red 3
+blue 4 red 1 red 3
+green 5 blue 3 red 1 red 2 blue 2
+green 1 green 1 green 1 blue 2 red 1 red 1 blue 3
+green 1 green 1 green 1 blue 2 red 1 red 2 blue 3
+green 1 green 1 blue 1 red 1 black 1 red 1 blue 4
+blue 1 red 1 black 3 red 2 blue 4
+green 5 blue 1 red 1 black 2 red 2 blue 5
+green 1 green 1 green 1 blue 2 red 1 red 2 blue 6
+green 1 green 1 green 1 blue 3 red 5 blue 7
+green 1 green 1 blue 15

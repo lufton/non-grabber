@@ -1,0 +1,71 @@
+by "Pam Negri (pamnegri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Pam Negri"
+date "Mar 14, 2009"
+description "my try at the Algerian flag"
+difficulty 1.25
+height 20
+id 5344
+link "https://webpbn.com/play.cgi?id=5344"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "flag 1"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 15
+green 15
+green 15
+green 15
+green 12 black 7
+green 11 black 4 black 2
+green 10 black 4 green 1 black 1
+green 10 black 3 green 2 black 1
+green 10 black 3 green 2 black 1 black 1 black 1
+green 10 black 3 green 2 black 3
+green 10 black 3 green 2 black 3
+green 10 black 3 green 2 black 3
+green 10 black 3 green 2 black 1 black 1
+green 10 black 4 green 1
+green 11 black 4 black 2
+green 12 black 7
+green 15
+green 15
+green 15
+green 15
+
+columns
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 6 black 8 green 6
+green 5 black 10 green 5
+green 4 black 12 green 4
+green 4 black 3 green 6 black 3 green 4
+green 4 black 2 green 8 black 2 green 4
+black 1 black 1 black 1 black 1
+black 1 black 3 black 1
+black 1 black 5 black 1
+black 2 black 3 black 2
+black 2 black 1 black 1 black 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

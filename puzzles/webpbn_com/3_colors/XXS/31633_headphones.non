@@ -1,0 +1,31 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Sep 29, 2018"
+description "head"
+difficulty 1.25
+height 5
+id 31633
+link "https://webpbn.com/play.cgi?id=31633"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "headphones"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+black 2 black 2
+black 2 black 2
+
+columns
+blue 2 black 2
+black 4
+black 1
+black 4
+blue 2 black 2

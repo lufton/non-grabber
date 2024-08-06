@@ -1,0 +1,56 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Oct 30, 2004"
+description "A circus seal balancing a red ball."
+difficulty 1.5
+height 20
+id 110
+link "https://webpbn.com/play.cgi?id=110"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Balancing Act"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 3 black 1 red 1
+red 5 black 1 red 1
+red 5 black 1 red 1
+red 5 black 1 red 1
+red 3 black 1 red 1
+red 3
+black 1
+black 2
+black 2
+black 3
+black 3
+black 4
+black 6
+black 9
+black 12
+black 13
+black 2 black 2
+black 2 black 4
+black 1 black 1 black 1
+
+columns
+black 1
+black 2
+red 3 black 2
+red 5 black 7
+red 7 black 9
+red 7 black 10
+red 1 black 1 red 3 black 1 red 1 black 9
+red 1 black 3 red 1 black 5
+red 3 black 4
+black 3
+black 3
+black 3 black 2
+black 4
+black 2
+black 2

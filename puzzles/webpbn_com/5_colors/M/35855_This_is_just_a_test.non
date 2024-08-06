@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Norma Dee"
+date "Jul 26, 2022"
+description "Even though the lines are still whacko I made this simple puzzle to see what it would look like after it was published."
+difficulty 1.25
+height 20
+id 35855
+link "https://webpbn.com/play.cgi?id=35855"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "This is just a test"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 red 3 green 3 blue 3
+blue 1 red 1 green 1 blue 1
+blue 1 red 2 green 3 blue 1
+blue 1 red 1 green 1 blue 1
+black 1 red 3 green 3
+black 3 blue 4
+black 1 green 1 black 2 blue 5 blue 4
+black 4 blue 1 blue 3 blue 4
+black 2 blue 5 blue 3
+black 5 red 6 blue 6
+black 3 blue 4
+black 3 blue 4
+black 3 blue 4
+black 3 blue 4
+black 3 blue 4
+black 3 blue 4
+black 1 black 1 blue 4
+black 1 black 1 blue 4
+black 1 black 2 blue 4
+black 2 blue 5
+
+columns
+0
+blue 1 black 16
+blue 4 black 1 green 1 black 9 black 1
+blue 1 black 3 black 10
+black 2 black 1 black 1
+red 5 black 1
+red 1 red 1 red 1 blue 3 red 1
+red 1 red 1 blue 1 blue 1 red 1
+blue 3 red 1
+green 3 green 1 blue 3 red 1
+green 1 green 1 green 1 blue 3 red 1
+green 1 green 3 red 1
+blue 1
+blue 1 blue 1 blue 1
+blue 4 blue 3 blue 11
+blue 1 blue 15
+blue 15
+blue 15
+0
+0

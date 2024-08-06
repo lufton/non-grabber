@@ -1,0 +1,62 @@
+by "KRista Gustafson (ldkr)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by KRista Gustafson"
+date "Jan 21, 2005"
+description ""
+difficulty 1.5
+height 20
+id 158
+link "https://webpbn.com/play.cgi?id=158"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Happy Valentine's Day"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 green 4 green 4 blue 1
+blue 1 green 1 black 4 green 1 green 1 black 4 green 1 blue 1
+blue 1 green 1 black 6 green 1 green 1 black 6 green 1 blue 1
+blue 1 green 1 black 7 green 2 black 7 green 1 blue 1
+blue 1 green 1 black 16 green 1 blue 1
+blue 1 green 1 black 16 green 1 blue 1
+blue 1 green 1 black 14 green 1 blue 1
+blue 1 green 1 black 12 green 1 blue 1
+blue 1 green 1 black 10 green 1 blue 1
+blue 1 green 1 black 8 green 1 blue 1
+blue 1 green 1 black 6 green 1 blue 1
+blue 1 green 1 black 4 green 1 blue 1
+blue 1 green 1 black 2 green 1 blue 1
+blue 1 green 2 blue 1
+blue 1 blue 1
+blue 20
+
+columns
+blue 20
+blue 1 green 4 blue 1
+blue 1 green 1 black 4 green 1 blue 1
+blue 1 green 1 black 6 green 1 blue 1
+blue 1 green 1 black 7 green 1 blue 1
+blue 1 green 1 black 8 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 9 green 1 blue 1
+blue 1 green 1 black 8 green 1 blue 1
+blue 1 green 1 black 7 green 1 blue 1
+blue 1 green 1 black 6 green 1 blue 1
+blue 1 green 1 black 4 green 1 blue 1
+blue 1 green 4 blue 1
+blue 20

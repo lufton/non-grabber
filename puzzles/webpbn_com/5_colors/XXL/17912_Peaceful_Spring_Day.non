@@ -1,0 +1,173 @@
+by "Haxie (dpillen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Haxie"
+date "Mar 13, 2012"
+description "This is my first puzzle so I know the quality is not the best. I hope you had fun solving it anyway!"
+difficulty 1.75
+height 75
+id 17912
+link "https://webpbn.com/play.cgi?id=17912"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Peaceful Spring Day"
+width 75
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 60
+blue 59
+blue 58
+blue 58
+blue 59 blue 4
+blue 9 blue 55 blue 4
+blue 7 blue 8 blue 53
+blue 5 blue 3 blue 52
+blue 4 blue 50
+blue 3 blue 22 green 7 blue 20
+blue 3 blue 18 green 26 blue 5
+blue 3 blue 15 green 30 blue 4
+blue 3 blue 15 green 31 blue 3
+blue 4 blue 15 green 25 red 2 green 5 blue 3
+blue 4 blue 14 green 26 red 2 green 7 blue 1
+blue 5 blue 15 green 14 red 2 green 19 blue 1
+blue 6 blue 17 green 14 red 2 green 19 blue 1
+blue 6 blue 20 green 36
+blue 7 blue 21 green 37
+blue 7 blue 23 green 37
+blue 8 blue 22 green 38
+blue 9 blue 23 green 38
+blue 10 blue 24 green 38
+blue 27 black 1 blue 9 green 38
+blue 23 red 4 black 1 red 4 blue 6 green 37
+blue 24 red 3 black 1 red 3 blue 7 green 37
+blue 27 black 1 blue 11 green 31 red 2 green 3
+blue 27 black 1 blue 11 green 19 red 2 green 10 red 2 green 3
+blue 27 black 1 blue 11 green 19 red 2 green 15
+blue 27 black 1 blue 10 green 37
+blue 33 blue 2 green 5 red 2 green 30
+blue 21 blue 7 green 5 red 2 green 30
+blue 20 green 37
+blue 19 green 37
+blue 18 green 37
+blue 18 green 38
+blue 17 green 39
+blue 16 green 39
+blue 16 green 28 red 2 green 10
+blue 17 green 28 red 2 green 10
+blue 18 green 40
+blue 20 green 39
+blue 21 green 38
+blue 23 blue 7 green 37
+blue 14 red 2 blue 25 green 33 blue 1
+blue 13 black 1 red 2 blue 26 green 6 red 2 green 23 blue 2
+blue 12 red 2 black 1 red 2 blue 26 green 5 red 2 green 23 blue 2
+blue 12 red 3 black 1 red 1 blue 27 green 28 blue 3
+blue 14 red 2 blue 29 green 25 blue 5
+blue 46 green 23 blue 6
+blue 47 green 9 black 10 blue 9
+blue 53 black 13 blue 9
+blue 53 black 13 blue 9
+blue 53 black 13 blue 9
+blue 31 red 2 blue 20 black 13 blue 9
+blue 31 red 2 black 1 blue 19 black 13 blue 9
+blue 30 red 2 black 1 red 2 blue 18 black 13 blue 9
+blue 30 red 1 black 1 red 3 blue 18 black 13 blue 9
+blue 31 red 2 blue 20 black 13 blue 9
+blue 53 black 13 blue 9
+blue 53 black 13 blue 9
+blue 7 black 3 blue 43 black 13 blue 9
+blue 6 black 5 blue 42 black 13 blue 9
+blue 7 black 3 blue 43 black 13 blue 9
+blue 5 black 1 blue 2 black 1 blue 2 black 1 blue 41 black 13 blue 9
+blue 6 black 1 blue 1 black 1 blue 1 black 1 blue 42 black 13 blue 9
+blue 7 black 3 blue 43 black 13 blue 9
+blue 2 red 1 blue 1 red 1 blue 3 black 1 blue 5 red 1 blue 1 red 1 blue 9 red 1 blue 1 red 1 blue 9 red 1 blue 1 red 1 blue 12 black 13 blue 4 red 1 blue 1 red 1 blue 2
+blue 3 red 1 blue 4 black 1 blue 6 red 1 blue 11 red 1 blue 11 red 1 blue 12 black 15 blue 4 red 1 blue 3
+blue 2 red 1 green 1 red 1 blue 3 black 1 blue 5 red 1 green 1 red 1 blue 9 red 1 green 1 red 1 blue 9 red 1 green 1 red 1 blue 10 black 17 blue 2 red 1 green 1 red 1 blue 2
+blue 3 green 1 blue 3 black 1 blue 1 black 1 blue 5 green 1 blue 11 green 1 blue 11 green 1 blue 10 black 19 blue 2 green 1 blue 3
+blue 3 green 1 blue 2 black 1 blue 3 black 1 blue 4 green 1 blue 11 green 1 blue 11 green 1 blue 9 black 21 blue 1 green 1 blue 3
+green 1 blue 1 green 3 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 3 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 3 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 3 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 3 blue 1 green 1
+green 75
+green 75
+
+columns
+blue 72 green 3
+blue 73 green 2
+blue 67 red 1 blue 1 red 1 blue 2 green 3
+blue 9 blue 55 red 1 green 6
+blue 8 blue 52 red 1 blue 1 red 1 blue 2 green 3
+blue 7 blue 48 black 1 blue 8 green 2
+blue 7 blue 44 black 1 blue 2 black 1 blue 5 black 1 green 3
+blue 6 blue 41 black 3 blue 2 black 1 blue 3 black 1 blue 2 green 2
+blue 6 blue 40 black 9 blue 2 green 3
+blue 5 blue 39 black 3 blue 2 black 1 blue 3 black 1 blue 2 green 2
+blue 5 blue 39 black 1 blue 2 black 1 blue 5 black 1 green 3
+blue 6 blue 41 black 1 blue 8 green 2
+blue 6 blue 23 red 2 blue 24 green 3
+blue 7 blue 23 black 1 red 2 blue 25 green 2
+blue 7 blue 23 red 2 black 1 red 2 blue 18 red 1 blue 1 red 1 blue 2 green 3
+blue 8 blue 25 red 3 black 1 red 1 blue 19 red 1 green 6
+blue 8 blue 18 blue 7 red 2 blue 19 red 1 blue 1 red 1 blue 2 green 3
+blue 8 blue 18 blue 33 green 2
+blue 7 blue 16 blue 31 green 3
+blue 7 blue 16 blue 32 green 2
+blue 7 blue 15 blue 30 green 3
+blue 6 blue 14 blue 30 green 2
+blue 7 blue 15 blue 29 green 3
+blue 8 blue 8 red 1 blue 6 blue 29 green 2
+blue 8 blue 9 red 2 blue 6 blue 28 green 3
+blue 9 blue 11 red 2 blue 6 blue 29 green 2
+blue 24 red 2 blue 6 blue 23 red 1 blue 1 red 1 blue 2 green 3
+blue 23 black 7 blue 2 blue 24 red 1 green 6
+blue 24 red 2 blue 6 blue 23 red 1 blue 1 red 1 blue 2 green 3
+blue 24 red 2 blue 6 blue 29 green 2
+blue 24 red 2 blue 6 blue 12 red 2 blue 14 green 3
+blue 24 red 1 blue 6 blue 11 red 3 black 1 red 1 blue 14 green 2
+blue 31 blue 11 red 2 black 1 red 2 blue 13 green 3
+blue 30 blue 12 black 1 red 2 blue 15 green 2
+blue 30 blue 13 red 2 blue 14 green 3
+blue 30 green 3 blue 30 green 2
+blue 31 green 6 blue 29 green 3
+blue 20 green 4 blue 7 green 8 blue 30 green 2
+blue 18 green 8 blue 3 green 15 blue 23 red 1 blue 1 red 1 blue 2 green 3
+blue 14 green 30 blue 24 red 1 green 6
+blue 13 green 31 blue 23 red 1 blue 1 red 1 blue 2 green 3
+blue 11 green 34 blue 28 green 2
+blue 11 green 35 blue 26 green 3
+blue 11 green 19 red 2 green 15 blue 26 green 2
+blue 10 green 20 red 2 green 16 blue 24 green 3
+blue 10 green 39 blue 24 green 2
+blue 10 green 40 blue 22 green 3
+blue 10 green 41 blue 22 green 2
+blue 9 green 36 red 2 green 4 blue 21 green 3
+blue 9 green 36 red 2 green 4 blue 20 black 2 green 2
+blue 9 green 42 blue 19 black 2 green 3
+blue 9 green 42 blue 18 black 4 green 2
+blue 9 green 42 blue 17 black 4 green 3
+blue 9 green 6 red 2 green 34 black 22 green 2
+blue 9 green 6 red 2 green 34 black 21 green 3
+blue 10 green 41 black 22 green 2
+blue 10 green 40 black 22 green 3
+blue 10 green 40 black 23 green 2
+blue 2 blue 6 green 17 red 2 green 21 black 22 green 3
+blue 1 blue 5 green 17 red 2 green 21 black 23 green 2
+blue 5 green 40 black 22 green 3
+blue 5 green 40 black 23 green 2
+blue 5 green 40 black 22 green 3
+blue 5 green 28 red 2 green 10 black 23 green 2
+blue 5 green 28 red 2 green 10 black 22 green 3
+blue 5 green 3 red 2 green 35 black 23 green 2
+blue 4 green 3 red 2 green 35 blue 18 black 4 green 3
+blue 4 green 40 blue 19 black 4 green 2
+blue 4 green 40 blue 20 black 2 green 3
+blue 4 green 39 blue 22 black 2 green 2
+blue 5 green 15 red 2 green 20 blue 19 red 1 blue 1 red 1 blue 2 green 3
+blue 8 green 14 red 2 green 20 blue 20 red 1 green 6
+blue 10 green 33 blue 20 red 1 blue 1 red 1 blue 2 green 3
+blue 10 green 31 blue 28 green 2
+blue 13 green 27 blue 28 green 3

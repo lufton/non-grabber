@@ -1,0 +1,42 @@
+by "Aiden Ambrey (aidenpaden)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Aiden Ambrey"
+date "Sep  4, 2007"
+description "A rubish bin <(*v*)>"
+difficulty 1.0
+height 10
+id 1296
+link "https://webpbn.com/play.cgi?id=1296"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "rubish"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10
+blue 2 black 6 blue 2
+blue 2 black 1 green 4 black 1 blue 2
+blue 2 black 6 blue 2
+blue 2 black 1 green 4 black 1 blue 2
+blue 2 black 1 green 4 black 1 blue 2
+blue 2 black 1 green 4 black 1 blue 2
+black 3 green 4 black 3
+black 10
+black 10
+
+columns
+blue 7 black 3
+blue 7 black 3
+blue 1 black 9
+blue 1 black 1 green 1 black 1 green 4 black 2
+blue 1 black 1 green 1 black 1 green 4 black 2
+blue 1 black 1 green 1 black 1 green 4 black 2
+blue 1 black 1 green 1 black 1 green 4 black 2
+blue 1 black 9
+blue 7 black 3
+blue 7 black 3

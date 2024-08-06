@@ -1,0 +1,40 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 13, 2011"
+description "Mallet."
+difficulty 1.0
+height 11
+id 14564
+link "https://webpbn.com/play.cgi?id=14564"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "Household tool #9"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 5
+black 5
+black 5
+black 1
+red 1
+red 1
+red 1
+red 1
+red 1
+0
+
+columns
+0
+black 3
+black 3
+black 4 red 5
+black 3
+black 3
+0
+0

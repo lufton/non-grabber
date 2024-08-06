@@ -1,0 +1,61 @@
+by "nelchael kenshi tolentino turija (kenken101020)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by nelchael kenshi tolentino turija"
+date "Aug 20, 2010"
+description "working stick going to the office"
+difficulty 2.0
+height 20
+id 10032
+link "https://webpbn.com/play.cgi?id=10032"
+note "published,definitely non-unique,may require some guessing"
+quality 1.75
+title "sort of"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 6
+blue 1 blue 1
+blue 1 blue 1
+black 3 blue 1 blue 1
+black 3 blue 1 blue 1
+black 3 blue 1 blue 1
+black 1 black 1 black 1 blue 1 blue 1
+black 1 black 1 black 1 blue 1 blue 1
+black 1 black 1 black 1 blue 1 black 2 blue 1
+black 1 black 1 black 1 blue 1 black 1 blue 1
+black 3 black 1 black 1 blue 1 black 2 blue 1
+black 1 black 1 black 1 blue 1 blue 1
+black 5 black 1 blue 1 blue 1
+black 1 blue 3 black 1 black 1 blue 1 blue 1
+black 1 blue 3 black 1 black 1 blue 1 blue 1
+black 5 black 1 blue 1 blue 1
+black 1 blue 1 blue 1
+black 1 black 1 blue 1 blue 1
+black 1 black 1 blue 1 blue 1
+black 1 black 1 blue 6
+
+columns
+0
+black 4
+black 3 blue 2 black 1
+black 3 black 1 blue 2 black 1
+black 1 black 3 blue 2 black 1 black 1
+black 1 black 4 black 1
+black 3 black 1
+black 14
+black 3 black 1
+black 1 black 1
+black 1 black 1
+black 1
+black 1
+black 1
+blue 20
+blue 1 black 1 black 1 blue 1
+blue 1 black 3 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 20

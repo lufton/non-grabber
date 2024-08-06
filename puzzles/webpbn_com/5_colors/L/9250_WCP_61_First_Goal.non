@@ -1,0 +1,83 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Jun 16, 2010"
+description "Soccer ball with South Africa's colors. South Africa is hosting the 2010 World Cup games. First goal of the first game was made by SA player Siphiwe Tshabalala."
+difficulty 2.25
+height 30
+id 9250
+link "https://webpbn.com/play.cgi?id=9250"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #61: First Goal"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 30
+black 1 black 1
+black 1 red 10 black 1
+black 1 red 14 black 1
+black 1 red 13
+black 1 green 4 red 12
+black 1 green 7 red 11
+black 1 green 9 red 10
+black 1 green 9 red 9
+black 1 green 9 red 7
+black 1 black 2 green 9 red 5
+black 1 black 5 green 9
+black 1 black 7 green 8
+black 1 black 9 green 14
+black 1 black 11 green 12
+black 1 black 13 green 11
+black 1 black 11 green 12
+black 1 black 9 green 14
+black 1 black 7 green 8
+black 1 black 5 green 9
+black 1 black 2 green 9 blue 6
+black 1 green 9 blue 8
+black 1 green 9 blue 9
+black 1 green 9 blue 10
+black 1 green 7 blue 12
+black 1 green 4 blue 13 black 1
+black 1 blue 14 black 1
+black 1 blue 17 black 1
+black 1 blue 14 black 1
+black 6 blue 9 black 5
+
+columns
+black 30
+black 1 black 1
+black 1 black 9 black 1
+black 1 black 11 black 1
+black 1 green 2 black 11 green 2 black 1
+black 1 green 3 black 9 green 3 black 1
+black 1 green 4 black 9 green 4
+black 1 green 4 black 7 green 4
+black 1 green 5 black 7 green 5 blue 1
+black 1 red 1 green 4 black 5 green 4 blue 2
+black 1 red 2 green 5 black 5 green 5 blue 2
+black 1 red 2 green 4 black 3 green 4 blue 3
+black 1 red 3 green 5 black 3 green 5 blue 4
+black 1 red 3 green 4 black 1 green 4 blue 4
+black 1 red 4 green 5 black 1 green 5 blue 5
+black 1 red 4 green 4 green 4 blue 5
+black 1 red 5 green 5 green 5 blue 6
+black 1 red 5 green 4 green 4 blue 6
+black 1 red 6 green 5 green 5 blue 7
+black 1 red 6 green 9 blue 7
+black 1 red 6 green 9 blue 7
+black 1 red 6 green 7 blue 7
+black 1 red 6 green 5 blue 8
+black 1 red 6 green 5 blue 7
+black 1 red 6 green 5 blue 8
+black 1 red 6 green 5 blue 7 black 1
+black 1 red 5 green 5 blue 6 black 1
+black 1 red 4 green 5 blue 5 black 1
+black 1 red 3 green 5 blue 3 black 1
+black 4 red 2 green 5 blue 2 black 5

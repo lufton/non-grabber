@@ -1,0 +1,85 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/8/09"
+height 30
+id 81260
+link "https://www.griddlers.net/nonogram/-/g/81260"
+medium_time "0:26:25"
+points 31699
+popularity 85.61
+title "Grasshopper"
+width 30
+
+color a ffffff
+color b 000000
+color c e71807
+color d 68ac43
+color e 337613
+color f 54932a
+color g ac760c
+color h f5dd44
+
+rows
+b 2
+b 1 c 1 b 1
+b 1 c 1 b 1
+b 1 c 1 b 1
+b 1 c 1 b 1
+b 1 b 1 c 1 b 1
+d 1 b 1 b 1 c 1 b 1
+d 1 b 1 b 1 c 1 b 1
+e 1 d 1 b 2 b 1 c 1 b 1
+e 2 d 1 b 14 b 1 c 1 b 1
+e 2 d 1 b 1 g 1 h 1 g 1 h 1 g 1 h 1 g 1 h 6 b 10 c 1 b 1
+e 3 d 1 b 1 g 2 b 1 g 1 b 1 g 3 h 11 d 3 c 1 b 1
+e 1 f 2 e 1 d 1 b 1 h 1 g 1 h 1 g 1 h 1 g 1 h 1 g 6 d 5 d 1 b 1
+e 1 f 1 e 2 d 1 b 1 g 11 d 3 f 2 d 1 c 3 d 1 b 1
+e 1 f 4 d 1 b 1 g 7 d 1 d 3 e 1 f 1 e 1 c 2 g 1 c 1 d 1 b 1
+e 2 f 4 d 1 b 1 g 1 f 1 e 3 d 1 b 1 d 2 d 2 e 2 f 1 c 2 b 1 g 1 c 1 e 1 b 1
+e 2 f 3 e 2 d 1 b 1 f 3 e 1 b 1 d 1 b 1 f 1 d 2 f 1 e 1 f 1 e 1 c 5 e 1 b 1
+e 2 f 2 e 1 f 1 e 2 d 1 b 1 f 2 e 1 b 1 d 1 b 1 f 4 e 2 f 1 e 1 c 3 e 2 b 1
+e 3 f 2 b 5 d 1 f 1 e 1 b 2 d 1 b 1 f 1 e 5 f 1 e 4 b 1
+e 3 f 1 b 2 e 4 b 2 e 1 b 2 d 1 b 1 e 5 f 1 e 1 f 1 e 1 f 1 e 1 b 1
+e 4 b 1 d 1 b 1 e 4 d 1 b 2 e 1 b 1 d 1 b 1 e 2 b 1 e 2 f 1 e 1 f 1 e 1 b 1
+b 1 e 3 b 1 d 1 b 1 e 5 d 1 b 1 e 1 b 1 d 1 b 4 e 5 b 1
+b 3 e 1 b 1 d 1 b 2 e 4 b 1 e 1 b 2 d 1 b 1 b 1 e 3 b 1
+b 2 d 1 b 4 e 3 b 1 e 1 b 1 d 1 b 1 b 3
+b 1 d 1 b 1 b 5 b 1 d 1 b 3
+b 1 d 1 b 1 b 1 d 3 b 1
+b 2 d 1 b 1 b 3 d 1 b 1
+b 1 d 2 b 1 b 1
+b 1 d 1 b 1
+b 1
+
+columns
+b 1 d 2 e 13 b 1
+b 2 d 1 e 3 f 3 e 7 b 1
+b 1 d 2 e 1 f 1 e 1 f 4 e 4 b 1
+b 3 d 1 e 2 f 6 e 2 b 1
+b 1 g 1 b 1 d 2 f 3 e 1 f 1 b 3 e 1 b 1 b 2
+b 1 h 1 g 1 b 2 d 1 f 1 e 1 f 1 b 2 d 2 b 3 b 1 d 2 b 1
+b 1 g 2 h 1 g 1 b 1 d 1 e 2 b 1 e 1 b 2 d 3 b 2 d 1 b 1
+b 1 h 1 b 1 g 3 b 1 d 1 e 1 b 1 e 3 b 3 d 2 b 1
+b 1 g 2 h 1 g 3 b 1 d 1 b 1 e 3 b 2 b 2
+b 1 h 1 b 1 g 3 f 2 b 2 e 4 b 1
+b 1 g 2 h 1 g 2 e 1 f 2 d 1 b 1 e 3 b 1
+b 1 h 1 g 4 e 1 f 3 b 1 d 1 e 3 b 1
+b 1 h 1 g 1 h 1 g 2 e 5 b 1 d 1 e 2 b 1
+b 1 h 2 g 3 d 1 b 7 e 1 b 1
+b 1 h 2 g 2 d 1 b 1 d 2 b 2 e 3 b 2
+b 1 h 2 g 2 d 1 b 2 d 2 b 3 e 1 b 1
+b 1 h 2 g 2 d 1 f 2 b 2 d 2 b 2
+b 1 h 1 g 1 d 2 d 1 f 2 e 1 b 2 d 2 b 1
+b 1 h 1 g 1 d 4 f 1 e 3 b 3 d 1 b 1
+b 1 h 1 d 4 f 2 e 3 b 1 b 1 d 1 b 1
+b 1 h 1 d 1 f 1 e 6 b 2 b 1 d 1 b 1
+b 1 h 1 d 1 f 2 e 1 f 1 e 5 b 1 b 1 d 1 b 1
+b 1 h 1 d 2 e 1 f 1 e 1 f 1 e 1 f 1 e 3 b 1 b 1 d 1 b 1
+b 3 b 1 h 1 d 1 c 3 e 1 f 1 e 1 f 1 e 2 b 1 b 1
+b 1 c 2 b 3 b 1 d 1 c 5 e 1 f 1 e 3 b 1
+b 2 c 3 b 3 b 1 d 1 c 1 g 1 b 1 c 2 e 2 f 1 e 1 b 1
+b 3 c 3 b 2 d 1 c 1 g 1 c 2 e 1 f 1 e 1 b 1
+b 3 c 3 d 1 c 3 e 3 b 1
+b 4 d 2 e 3 b 2
+b 5

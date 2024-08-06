@@ -1,0 +1,41 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Jill Tallmer"
+date "Sep 18, 2018"
+description "Not much of a puzzle, but my 6-lb rescue dog Belly just had surgery; she's lying here crying, and it's not time for her next painkiller. I feel so bad for her."
+difficulty 1.25
+height 10
+id 31562
+link "https://webpbn.com/play.cgi?id=31562"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Belly"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1 black 1
+black 2
+black 1 green 1 black 2
+black 6
+black 1 black 3
+black 7
+black 6
+black 4
+black 3
+black 5
+
+columns
+0
+black 1
+black 1
+black 1 black 1
+black 1 black 2 black 2
+black 1 green 1 black 1 black 2 black 1
+black 7 black 1
+black 1 black 8
+black 7
+black 4

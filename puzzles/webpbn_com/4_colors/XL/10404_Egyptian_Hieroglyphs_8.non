@@ -1,0 +1,112 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Sep 22, 2010"
+description "The Djed (on the left) is an Egyptian symbol of stability that is depicted as a column with a broad base and four parallel bars. On the right is the lotus flower, a symbol of creation and rebirth."
+difficulty 2.5
+height 40
+id 10404
+link "https://webpbn.com/play.cgi?id=10404"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Egyptian Hieroglyphs #8"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 1 green 1 green 1 blue 1
+blue 1 green 1 black 3 green 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 green 1 blue 1
+blue 1 green 1 black 13 green 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 green 1 blue 1
+blue 1 green 1 black 15 green 1 black 2 black 3 black 1 green 1 blue 1
+blue 1 green 1 black 1 green 5 black 1 green 1 black 4 blue 1 black 4 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 green 1 blue 1
+blue 1 green 1 black 13 green 1 black 3 blue 1 black 3 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 black 5 black 2 green 1 blue 1
+blue 1 green 1 black 15 green 1 black 2 black 3 black 3 green 1 blue 1
+blue 1 green 1 black 1 blue 5 black 1 green 1 black 3 black 1 black 2 blue 1 black 3 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 2 blue 1 black 1 black 1 black 1 blue 1 black 1 blue 2 black 1 green 1 blue 1
+blue 1 green 1 black 13 green 1 black 1 blue 2 black 2 black 1 black 1 blue 3 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 2 blue 1 black 1 black 1 black 5 blue 1 black 1 green 1 blue 1
+blue 1 green 1 black 15 green 1 black 2 blue 2 black 2 black 1 black 1 black 2 blue 1 green 1 blue 1
+blue 1 green 1 black 1 green 5 black 1 green 1 black 1 blue 1 black 4 black 1 black 1 black 2 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 2 black 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 13 green 1 black 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 15 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 blue 5 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 7 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 green 5 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 7 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 blue 7 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 2 black 2 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 11 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 green 11 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 15 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 blue 15 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 19 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 green 17 black 2 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 23 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 green 1 black 1 black 1 black 1 green 1 blue 1
+
+columns
+blue 40
+green 40
+0
+black 1
+black 2
+black 2 black 1
+black 3 green 1 black 1
+black 2 black 2 black 2 black 2 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 4 black 4 black 4 black 7 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1
+black 2 black 1 green 1 black 1 black 1 blue 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1
+black 2 black 1 green 1 black 1 black 1 blue 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 4 black 4 black 4 black 7 blue 1 black 1 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 green 1 black 1 blue 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 blue 1 black 1 green 1 black 1
+black 2 black 2 black 2 black 2 black 1 blue 1 black 1 green 1 black 1
+black 3 green 1 black 1
+black 2 black 1
+black 3
+black 1
+0
+green 40
+0
+black 2 black 2
+black 2 blue 1 black 2 blue 1 black 2
+black 2 blue 2 black 1 blue 1 black 2
+black 1 black 5 blue 2 black 1
+black 2 black 4
+black 3 black 25
+black 1 blue 1 black 2
+black 6
+black 2 blue 3 black 31
+black 6
+black 1 blue 1 black 2
+black 3 black 26
+black 2 black 4
+black 2 blue 2 black 1
+black 3 blue 1 black 1 blue 1 black 1
+black 3 blue 2 black 2
+black 1 blue 1 black 1 blue 1 black 2
+black 2 black 1 blue 1 black 2
+0
+green 40
+blue 40

@@ -1,0 +1,41 @@
+by "Fred9"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/19/13"
+height 10
+id 135147
+link "https://www.griddlers.net/nonogram/-/g/135147"
+medium_time "0:02:15"
+points 279
+popularity 71.12
+title "Heart"
+width 11
+
+color a ffffff
+color b ff66ff
+color c ff99ff
+
+rows
+b 3 b 3
+b 1 c 3 b 1 c 4
+b 1 c 4 b 1 c 1 c 2
+b 1 c 7 c 2
+b 1 c 10
+b 1 c 8
+b 1 c 6
+b 1 c 4
+b 1 c 2
+b 1
+
+columns
+b 3
+b 1 c 3 b 1
+b 1 c 5 b 1
+b 1 c 6 b 1
+b 1 c 7 b 1
+b 2 c 6 b 1
+b 1 c 8
+b 1 c 1 c 5
+b 1 c 1 c 3
+c 5
+c 3

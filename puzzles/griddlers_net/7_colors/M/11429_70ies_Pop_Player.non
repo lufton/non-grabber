@@ -1,0 +1,70 @@
+by "elron"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/24/04"
+height 27
+id 11429
+link "https://www.griddlers.net/nonogram/-/g/11429"
+medium_time "0:07:28"
+points 1900
+popularity 52.4
+title "70ies Pop Player"
+width 19
+
+color a ffffff
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color f ff00ff
+color g 808080
+color h 000000
+
+rows
+h 3
+h 3
+h 3
+h 3
+c 1 h 1 c 1
+f 2 c 1 h 1 c 1 f 1
+f 3 c 3 f 2 d 1 e 1
+f 2 f 1 c 3 f 3 d 3
+f 2 f 2 c 1 f 4 d 2 e 1
+f 2 f 3 e 2 f 2 h 1 d 1 e 1
+f 2 f 1 e 3 f 1 d 2 f 1
+f 1 e 5 d 2 f 2
+e 2 h 1 e 4 f 1
+e 3 h 1 e 5
+e 7 f 1
+e 4 f 2
+f 2 f 2
+f 2 f 2
+f 2 f 2
+f 2 f 2
+f 2 f 2
+f 3 f 3
+f 3 f 3
+f 3 f 3
+f 3 f 3
+f 3 f 3
+g 1 g 1 g 1 g 1
+
+columns
+f 2
+f 4 e 3
+f 2 f 2 e 4
+f 2 e 1 h 1 e 3 f 5 g 1
+f 6 e 2 h 1 e 2 f 10
+h 4 c 4 f 2 e 6 f 10 g 1
+h 6 c 3 f 1 e 5
+h 4 c 4 f 1 e 6 f 11 g 1
+f 4 e 1 f 1 d 1 f 1 e 1 f 12
+f 3 d 1 e 1 f 5 g 1
+f 3 d 1
+f 1 d 1 f 1
+h 1 f 2
+d 1
+d 1 e 1
+d 1
+d 1 e 1
+d 2
+e 1 d 1

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 27, 2011"
+description "The Dumptys enjoying an evening out, unaware what tomorrow will bring."
+difficulty 1.5
+height 20
+id 14218
+link "https://webpbn.com/play.cgi?id=14218"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The Night Before the Accident"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 20
+black 4 black 13
+black 3 black 12
+black 2 black 5 black 3
+black 2 black 4 black 2
+black 1 black 1 black 1 black 2 black 1
+black 1 black 3 black 2 black 1
+black 1 black 1 black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 2 black 4 black 2
+black 4 black 7 red 1 black 1 red 1 black 3
+black 4 red 1 black 1 red 1 black 7 red 1 black 1 red 1 black 3
+red 1 red 1 red 1 red 1 red 1
+red 4 red 1 red 1 red 3
+red 1 red 1 red 1 red 2
+red 1 red 2 red 1
+red 2 red 2 red 1
+
+columns
+black 15
+black 6 black 3 red 2
+black 4 black 2 red 1
+black 3 black 2 red 1
+black 2 black 3 red 3
+black 2 black 1 black 1
+black 2 black 3 red 6
+black 3 black 2 red 1
+black 4 black 2
+black 6 black 3
+black 15
+black 15
+black 6 black 3 red 1
+black 5 black 2 red 2
+black 4 red 6
+black 4 black 2 red 1
+black 4 red 4
+black 5 black 2 red 1
+black 6 black 3 red 2
+black 15 red 1 red 2

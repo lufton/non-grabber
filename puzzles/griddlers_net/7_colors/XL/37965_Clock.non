@@ -1,0 +1,88 @@
+by "hibrahimozer"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/14/06"
+height 32
+id 37965
+link "https://www.griddlers.net/nonogram/-/g/37965"
+medium_time "0:17:39"
+points 137868
+popularity 76.14
+title "Clock"
+width 32
+
+color a ffffff
+color b 000000
+color c 999900
+color d cc0000
+color e cccccc
+color g 999999
+color h ffff00
+
+rows
+b 11
+b 2 d 11 b 2
+b 2 d 15 b 2
+b 1 d 4 b 10 d 5 b 1
+b 1 d 4 b 2 e 9 b 2 d 4 b 1
+b 1 d 4 b 1 e 2 b 1 e 2 b 1 d 4 b 1
+b 1 d 4 b 1 e 1 b 1 e 1 b 1 d 4 b 1
+b 1 d 3 b 1 e 1 e 1 b 1 b 1 d 3 b 1 g 1
+b 1 d 2 b 1 e 1 b 1 e 2 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 2 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 2 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 b 1 e 2 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 2 e 2 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 2 b 2 c 1 b 8 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 e 2 b 2 e 9 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 b 1 e 1 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 e 1 b 1 e 1 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 1 b 1 d 2 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 1 b 1 d 2 b 1 g 1 e 1
+b 2 d 2 b 1 e 1 b 1 e 1 b 1 d 2 b 2 e 1
+b 1 d 3 b 1 e 1 b 1 d 3 b 1 g 1
+b 1 d 3 b 1 e 1 b 1 b 1 d 3 b 1 g 1 e 1
+b 1 d 4 b 1 e 1 b 1 e 1 b 1 d 4 b 1 e 1
+b 1 d 4 b 1 e 1 e 1 b 1 d 4 b 1 e 1
+b 1 d 4 b 1 e 1 b 1 d 4 b 1 e 1
+b 1 d 4 b 21 d 4 b 1 e 1
+b 1 d 5 h 19 d 5 b 1 e 1
+b 1 d 5 h 19 d 5 b 1 e 1
+b 1 d 5 h 19 d 5 b 1 e 1
+b 31 e 1
+g 30 e 1
+e 30
+
+columns
+b 8
+b 3 d 7 b 1 g 1
+b 14 d 9 b 1 g 1 e 1
+b 1 d 23 b 1 g 1 e 1
+b 1 d 24 b 1 g 1 e 1
+b 1 d 4 b 18 d 3 b 1 g 1 e 1
+b 1 d 4 b 1 e 17 b 1 h 3 b 1 g 1 e 1
+b 1 d 3 b 1 e 1 b 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 3 b 1 e 1 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 2 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 b 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 2 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 2 b 2 c 1 b 6 b 2 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 e 2 b 2 e 6 e 2 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 1 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 2 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 2 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 3 b 1 e 1 b 1 e 2 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 2 b 1 e 1 b 1 e 2 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 3 b 1 e 1 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 3 b 1 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 4 b 1 e 1 b 1 h 3 b 1 g 1 e 1
+b 1 d 4 b 18 d 3 b 1 g 1 e 1
+b 1 d 24 b 1 g 1 e 1
+b 1 d 23 b 1 g 1 e 1
+b 14 d 9 b 1 g 1 e 1
+g 12 b 3 d 7 b 1 g 1 e 1
+e 12 g 2 b 8 g 1 e 1
+e 11

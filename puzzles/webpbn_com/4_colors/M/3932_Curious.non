@@ -1,0 +1,62 @@
+by "Agneta (aggge)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Agneta"
+date "Oct 31, 2008"
+description "Circles on water, caused by a fish peeking up on the world above."
+difficulty 3.25
+height 20
+id 3932
+link "https://webpbn.com/play.cgi?id=3932"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Curious"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 blue 2 black 1 blue 4 black 2
+black 1 blue 1 black 1 blue 1 black 2
+blue 1 black 1 blue 1 black 10 black 1
+black 1 blue 1 black 1 blue 6 black 2
+black 1 blue 1 black 1 blue 1 black 6 black 2
+black 1 black 1 blue 1 black 2 black 2 black 2
+black 1 black 1 black 2 black 2 black 2 black 1
+black 1 black 1 black 1 red 1 black 1 red 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 2 red 2 black 2 black 2 black 1
+black 1 red 1 black 2 red 2 black 2 red 3 black 2 blue 1 black 1
+black 2 red 1 black 2 red 2 black 6 blue 1 black 1
+black 2 red 2 black 2 red 3 blue 1 black 1
+black 1 black 2 red 2 black 10 blue 1
+black 2 red 1 black 2 red 3 blue 1 black 1
+red 1 black 2 red 2 black 2 blue 11 black 1
+red 2 black 2 red 2 black 12
+red 1 black 2 blue 1
+black 1 red 2 black 2 blue 13 black 1
+black 2 red 2 black 14
+black 2 red 1
+
+columns
+black 1 blue 1 black 2 red 2 black 2
+black 1 blue 1 black 7 black 2 red 1 black 2
+blue 1 black 1 blue 1 red 1 black 2 black 2 red 2 black 1
+blue 1 black 1 blue 1 red 2 black 2 red 2 black 2 red 2
+black 1 blue 1 black 5 red 2 black 2 red 2 black 2 red 2
+black 1 blue 1 black 1 blue 1 black 2 red 2 black 2 red 1 black 2
+blue 1 black 1 blue 1 red 1 black 2 red 2 black 2 blue 1 black 1
+blue 1 black 1 blue 1 black 3 red 2 black 2 red 1 blue 1 black 1 blue 1 black 1
+blue 1 black 1 blue 1 black 2 black 2 red 2 black 1 red 1 blue 1 black 1 blue 1 black 1
+blue 1 black 1 blue 1 black 2 red 2 black 2 red 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 red 2 black 1 red 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 red 1 black 1 red 1 black 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 black 1 red 1 black 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 black 2 black 2 black 1 blue 1 black 1 blue 1 black 1
+black 1 black 2 black 2 black 1 blue 1 black 1 blue 1 black 1
+black 2 black 3 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 2 black 5 blue 1 black 1 blue 1 black 1

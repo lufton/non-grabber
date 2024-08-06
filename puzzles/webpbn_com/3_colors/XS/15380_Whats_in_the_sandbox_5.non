@@ -1,0 +1,39 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jul 30, 2011"
+description "A garden trowel. Mom: Johnny, where'd you put my trowel? Johnny: Hmmm..."
+difficulty 1.25
+height 13
+id 15380
+link "https://webpbn.com/play.cgi?id=15380"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What's in the sandbox #5?"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 5
+black 1 green 1 black 1
+green 3
+green 3
+green 3
+green 3
+green 3
+green 1
+0
+
+columns
+black 4
+black 2 green 5
+black 3 green 7
+black 2 green 5
+black 4

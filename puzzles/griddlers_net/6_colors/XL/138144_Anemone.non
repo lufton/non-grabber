@@ -1,0 +1,89 @@
+by "maloum"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/24/13"
+height 33
+id 138144
+link "https://www.griddlers.net/nonogram/-/g/138144"
+medium_time "0:23:57"
+points 35476
+popularity 79.36
+title "Anemone"
+width 33
+
+color a ffcccc
+color b 3300ff
+color c cc99ff
+color d 000000
+color e ffffff
+color f 6600cc
+
+rows
+e 4
+e 1 c 4 e 1
+e 1 b 4 c 2 e 1
+e 1 b 7 e 5
+e 12 b 1 e 1 b 1 c 4 e 1
+e 1 c 2 b 2 e 2 c 3 b 2 e 2 f 1 b 2 c 4 e 1
+e 1 c 2 b 3 e 1 c 3 b 4 e 1 f 1 b 4 c 2 e 1
+e 1 c 1 b 4 e 1 c 1 b 6 e 1 f 1 b 5 c 2 e 1
+e 1 b 5 e 1 c 1 b 6 e 1 f 1 b 7 e 1
+e 7 b 6 e 1 f 3 b 5 e 4
+e 1 c 3 b 3 e 1 b 4 d 5 f 2 b 3 e 1 b 4 e 1
+e 1 c 3 b 5 e 1 b 1 d 8 f 1 b 1 e 3 f 1 b 3 e 2
+e 1 c 3 b 6 d 3 e 4 d 3 e 1 b 3 e 1 f 1 b 4 e 1
+e 2 c 3 b 5 d 3 e 6 d 3 b 3 c 1 e 1 f 2 b 3 e 1
+e 1 c 3 b 6 d 2 e 3 d 2 e 3 d 3 b 2 c 2 e 1 f 2 b 2 e 1
+e 1 c 3 b 5 d 2 e 3 d 4 e 3 d 2 b 3 c 1 e 1 f 2 b 2 e 1
+e 1 c 3 b 5 d 2 e 2 d 6 e 2 d 2 b 3 c 1 e 1 f 1 b 3 e 1
+e 2 c 2 b 5 d 2 e 3 d 4 e 3 d 2 b 3 c 1 e 1 f 1 b 3 e 1
+e 2 c 2 b 4 d 3 e 3 d 2 e 3 d 2 b 3 c 2 e 1 f 1 b 3 e 1
+e 2 c 1 b 3 e 1 b 1 d 3 e 6 d 3 b 3 e 2 b 1 e 1 b 2 e 1
+e 5 b 3 d 3 e 4 d 3 e 4 f 1 b 3 e 2
+e 1 b 2 e 1 c 2 b 3 d 8 b 3 e 1 f 2 b 3 e 1
+e 1 b 3 e 1 c 2 b 4 d 5 b 5 e 1 f 2 b 3 e 1
+e 1 b 2 f 1 e 1 c 3 b 5 e 1 b 6 c 1 e 1 f 1 b 4 e 1
+e 1 b 2 f 2 e 1 c 4 b 2 e 1 c 1 b 5 c 1 e 1 f 2 b 4 e 1
+e 1 b 3 f 2 e 6 c 4 b 2 c 2 e 1 f 2 b 3 e 1
+e 1 b 3 f 3 b 2 e 2 c 7 e 1 f 2 b 4 e 1
+e 1 b 7 e 1 f 1 e 7 b 6 e 1
+e 1 b 6 e 1 f 8 e 1 b 4 e 1
+e 6 b 3 f 4 b 2 e 5
+e 1 b 9 e 1
+e 1 b 7 e 1
+e 7
+
+columns
+e 5
+e 3 c 3 e 2
+e 1 c 7 e 2 e 4
+e 4 c 9 e 3 b 4 e 1
+e 1 c 2 b 1 e 1 c 4 b 4 c 2 e 1 b 6 e 1
+e 1 c 2 b 2 e 1 c 1 b 9 e 1 b 2 f 2 b 3 e 1
+e 1 c 1 b 3 e 1 b 10 e 4 f 2 b 3 e 1
+e 1 b 4 e 1 b 10 e 1 c 3 e 1 f 2 b 2 e 1
+e 1 b 4 e 1 b 9 e 1 b 1 c 4 e 1 f 1 b 2 e 1
+e 7 b 4 d 4 b 4 c 2 e 1 f 1 b 2 e 1
+e 2 c 3 b 2 e 1 b 1 d 7 b 4 c 1 e 1 b 3 e 1
+e 2 c 2 b 5 d 3 e 3 d 3 b 3 c 1 e 1 b 3 e 2
+e 1 b 1 e 1 c 2 b 4 d 3 e 5 d 3 b 3 e 4 b 2 e 1
+e 1 b 2 e 1 c 1 b 5 d 2 e 3 d 1 e 3 d 3 b 2 e 2 f 2 b 3 e 1
+e 1 c 1 b 2 e 1 b 5 d 2 e 3 d 3 e 3 d 2 b 1 e 1 c 2 e 1 f 1 b 3 e 1
+e 1 c 1 b 2 e 1 b 5 d 2 e 2 d 5 e 2 d 2 e 1 c 3 e 1 f 2 b 2 e 1
+e 1 c 1 b 2 e 2 b 3 e 1 d 2 e 2 d 5 e 2 d 2 b 2 c 2 e 1 f 2 b 2 e 1
+e 1 c 2 b 2 e 4 f 1 d 2 e 3 d 3 e 3 d 2 b 2 c 2 e 1 f 2 b 2 e 1
+e 1 c 1 b 1 e 1 f 5 d 3 e 3 d 1 e 3 d 2 b 4 c 1 e 1 f 2 b 2 e 1
+e 2 b 5 f 2 d 3 e 5 d 3 b 4 c 1 e 1 f 1 b 3 e 1
+e 1 c 1 b 5 f 2 d 3 e 3 d 3 b 4 c 2 e 1 f 1 b 2 e 1
+e 1 c 2 b 6 e 1 d 7 e 1 b 3 c 2 e 1 b 1 e 3
+e 1 c 2 b 5 e 1 b 2 d 4 b 2 e 1 b 2 c 1 e 2 f 1 b 2 e 1
+e 1 c 3 b 4 e 1 b 8 e 4 f 3 b 2 e 1
+e 1 c 3 b 2 e 2 b 8 e 1 f 5 b 3 e 1
+e 2 c 1 b 1 e 1 b 1 f 1 e 1 c 2 b 3 c 1 e 1 f 3 b 6 e 1
+e 3 b 2 f 1 e 1 c 5 e 1 b 8 e 1
+e 1 b 3 f 1 e 5 b 8 e 1
+e 1 b 3 f 6 e 1 b 5 e 2
+e 2 b 2 f 2 b 4 e 5
+e 1 b 8 e 1
+e 1 b 6 e 1
+e 6

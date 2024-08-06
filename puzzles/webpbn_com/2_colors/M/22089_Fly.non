@@ -1,0 +1,57 @@
+by "Juho (Telorast)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Juho"
+date "Jun  4, 2013"
+description ""
+difficulty 2.25
+height 20
+id 22089
+link "https://webpbn.com/play.cgi?id=22089"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Fly!"
+width 20
+
+rows
+10
+4,1,2,4
+2,2,2,3,1,2
+2,2,3,4,1,2
+2,3,2,5,1,2
+2,2,3,2,2,1,2
+1,3,1,3,4,1
+1,1,2,2,1,2,1
+3,2,1,1,1,1
+3,1,1,1,1,1
+1,1,1,1,1,1
+2,1,1,2,1
+1,1,1,1,1
+2,2,1,1
+2,2
+1,1
+2,3,1
+1,1,1,1
+1,3,1
+1,1,1
+
+columns
+5
+3,2
+2,4
+1,3,1
+1,5,2
+4,2,1
+3,2,2,2
+2,3,1,1
+1,5,2,1
+4,2,4
+1,10,3
+6,1
+5,3
+1,4,1,2
+2,9,3
+3,1,5,1
+1,8,1,3
+2,2,3
+4,3
+5

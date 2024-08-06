@@ -1,0 +1,52 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Aug 16, 2010"
+description "But I'm sure i don't want IT coming towards me!"
+difficulty 1.25
+height 13
+id 9972
+link "https://webpbn.com/play.cgi?id=9972"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Hard to name."
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 5
+black 1 black 1 black 1
+black 1 black 7 black 1
+black 9 red 1 black 8
+black 7 red 3 black 6
+black 2 red 5 black 2
+black 1 red 7 black 1
+black 2 red 5 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 3
+black 1
+
+columns
+black 1
+black 2
+black 2
+black 3
+black 2
+black 5
+black 4 red 1 black 2
+black 5 red 3 black 2
+black 2 black 2 red 5 black 2
+black 4 red 7 black 2
+black 2 black 2 red 5 black 2
+black 5 red 3 black 2
+black 4 red 1 black 2
+black 5
+black 2
+black 3
+black 2
+black 1

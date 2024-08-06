@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Nov 13, 2018"
+description "These restaurant wine glasses are getting bigger and bigger."
+difficulty 1.75
+height 20
+id 31784
+link "https://webpbn.com/play.cgi?id=31784"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Have you noticed?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 2 black 2
+blue 1 black 1 black 1 black 1
+black 2 black 1 black 1
+black 3 black 1 black 1
+black 4 black 1 black 1
+black 2 black 1 black 1
+black 1 red 1 black 1 black 1
+red 1 black 1 black 1
+black 1 red 1 black 2 black 2
+black 2 black 2 red 7 black 2
+black 2 black 3 red 3 black 3
+black 5
+black 1
+green 1 black 1
+green 12 red 3
+green 12 red 3
+green 2 black 1
+green 2 black 7
+
+columns
+black 3 blue 1 black 5 red 1 black 3 green 5
+black 8 red 1 red 1 black 2 green 4
+black 2 green 2
+black 1 green 2
+green 2
+green 2
+green 2
+black 9 green 2
+black 3 black 2 green 2
+black 2 green 2
+red 1 black 1 green 2 black 1
+red 1 black 2 green 2 black 1
+red 2 black 1 red 2 black 1
+red 2 black 3 red 2 black 2
+red 2 black 1 red 2 black 1
+red 1 black 2 black 1
+red 1 black 1 black 1
+black 2
+black 3 black 2
+black 9

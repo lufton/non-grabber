@@ -1,0 +1,67 @@
+by "aish"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/9/06"
+height 14
+id 37674
+link "https://www.griddlers.net/nonogram/-/g/37674"
+medium_time "0:04:23"
+points 21276
+popularity 61.46
+title "Pink Floyd: The Dark Side of The Moon"
+width 29
+
+color a 000000
+color b ffffff
+color c ffff00
+color d ff0000
+color e 00d700
+color f 0000ff
+color g 990099
+
+rows
+b 2 d 2 c 2 e 2 f 2 g 2
+b 3 d 2 c 2 e 2 f 2 g 2
+b 3 d 2 c 2 e 2 f 2 g 2
+b 3 d 2 c 2 e 2 f 2 g 2
+b 3 d 2 c 2 e 2 f 2 g 2
+b 3 b 1 d 2 c 2 e 2 f 2 g 2
+b 3 b 3 d 1 c 2 e 2 f 2 g 2
+b 3 b 2 b 2 c 1 e 2 f 2 g 2
+b 4 b 2 e 1 f 2 g 2
+b 2 b 2 f 1 g 2
+b 2 b 2 g 1
+b 2 b 2
+b 1 b 1
+b 13
+
+columns
+b 2
+b 3
+b 3
+b 3
+b 3
+b 3
+b 3 b 3
+b 3 b 2 b 1
+b 4 b 1
+b 2 b 1
+b 2 b 1
+b 2 b 1
+b 2 b 1
+b 2 b 1
+d 2 b 2 b 1
+d 2 c 2 b 2 b 1
+d 2 c 2 e 2 b 2 b 1
+d 2 c 2 e 2 f 2 b 2 b 1
+d 2 c 2 e 2 f 2 g 2 b 3
+d 2 c 2 e 2 f 2 g 2
+d 1 c 2 e 2 f 2 g 2
+c 2 e 2 f 2 g 2
+c 1 e 2 f 2 g 2
+e 2 f 2 g 2
+e 1 f 2 g 2
+f 2 g 2
+f 1 g 2
+g 2
+g 1

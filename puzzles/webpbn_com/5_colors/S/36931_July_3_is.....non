@@ -1,0 +1,57 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "Jun 26, 2023"
+description "National Eat Your Beans Day!"
+difficulty 1.25
+height 9
+id 36931
+link "https://webpbn.com/play.cgi?id=36931"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "July 3 is...."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2
+green 4
+black 2 green 6 red 2
+black 4 blue 2 green 4 blue 2 red 4
+black 6 blue 6 red 6
+blue 2 black 4 blue 2 blue 4 blue 1 blue 2 red 4 blue 2
+blue 6 blue 4 blue 6
+blue 4 blue 1 blue 4 blue 1
+blue 4 blue 4
+
+columns
+blue 1
+black 1 blue 3
+black 3 blue 3
+black 4 blue 3
+black 4 blue 3
+black 3 blue 1 blue 1
+black 1 blue 3
+blue 1
+blue 1
+green 1 blue 3
+green 3 blue 3
+green 4 blue 3
+green 4 blue 3
+green 3 blue 1 blue 1
+green 1 blue 3
+blue 1
+blue 1
+red 1 blue 3
+red 3 blue 3
+red 4 blue 3
+red 4 blue 3
+red 3 blue 1 blue 1
+red 1 blue 3
+blue 1
+0

@@ -1,0 +1,41 @@
+by "Jason Mara (jmara2)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Jason Mara"
+date "Mar 28, 2014"
+description ""
+difficulty 3.25
+height 10
+id 24121
+link "https://webpbn.com/play.cgi?id=24121"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.25
+title "Deer"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 black 2 black 1
+black 1 black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2
+black 2 black 1
+black 1 blue 1 black 2
+black 1 black 2
+black 1 black 3
+black 5
+
+columns
+black 3
+black 1 black 1
+black 3 black 1 black 1
+black 1 black 1 blue 1 black 1
+black 2 black 2 black 1
+black 1 black 3
+black 2 black 2
+black 3 black 2
+black 1
+black 1

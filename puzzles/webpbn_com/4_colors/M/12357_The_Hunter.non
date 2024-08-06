@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Feb 21, 2011"
+description "You can participate in a scientific investigation this week and next (2/21-3/6). Find out how light pollution is affecting our night skies. Go to http://www.globeatnight.org/index.html to find out more."
+difficulty 1.75
+height 20
+id 12357
+link "https://webpbn.com/play.cgi?id=12357"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The Hunter"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 green 3
+green 5 green 1 green 1
+green 4 green 2 green 1
+green 3 green 2 green 3 green 3
+green 1 black 1 green 8 green 6
+green 16 green 1
+green 11 green 3
+green 2 green 8 green 1 green 1
+green 2 green 7 green 3
+green 2 green 5 green 1
+green 2 green 3 green 3
+green 2 green 1 green 4
+green 1 green 6
+green 2 green 4
+green 3 green 5
+green 9
+green 10
+green 1 green 3 green 4 blue 1 green 1
+green 5 green 5
+green 4 green 4
+
+columns
+0
+green 7
+green 10
+green 1 black 1 green 2 green 3
+green 5 green 3 green 2
+green 16
+green 3 green 7 green 8
+green 13 green 4
+green 10 green 6
+green 3 green 14
+green 1 green 5 green 9
+green 8 green 7
+green 1 green 1 green 6
+green 3 green 1 blue 1 green 2
+green 2 green 3
+green 3 green 2 green 2
+green 1 green 5 green 1
+green 2 green 2 green 3
+green 5
+0

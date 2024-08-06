@@ -1,0 +1,97 @@
+by "Rob in Japan (rgmjp)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Rob in Japan"
+date "Aug  8, 2013"
+description "Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn"
+difficulty 2.5
+height 20
+id 22550
+link "https://webpbn.com/play.cgi?id=22550"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "What Galileo could possibly have seen."
+width 60
+
+rows
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+2,1,1,1,1,1,1
+2,1,1,1,1,1,1
+2,1,1,1,1,5,2,2
+3,1,1,1,1,7,1,1
+3,1,3,3,3,7,1,5,1
+3,3,5,5,5,9,1,7,1
+3,3,5,5,5,9,1,7,1
+3,3,5,5,3,9,1,7,1
+3,1,3,3,1,7,1,7,1
+3,1,1,1,1,7,1,5,1
+3,1,1,1,1,5,1,1
+2,1,1,1,1,1,2,2
+2,1,1,1,1,1,1
+2,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+
+columns
+20
+14
+8
+0
+0
+0
+2,3,2
+16
+3
+0
+0
+0
+3
+2,5,2
+16
+5
+3
+0
+0
+0
+3
+2,5,2
+16
+5
+3
+0
+0
+0
+2
+2,4,2
+16
+4
+2
+0
+0
+3
+7
+9
+2,9,2
+16
+9
+9
+7
+3
+0
+0
+0
+4
+1,1
+1,4,1
+1,6,1
+2,1,6,1,2
+3,6,3
+1,6,1
+1,6,1
+1,4,1
+1,1
+4
+0
+0

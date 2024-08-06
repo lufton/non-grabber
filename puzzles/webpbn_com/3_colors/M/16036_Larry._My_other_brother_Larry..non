@@ -1,0 +1,61 @@
+by "larrry grizzard (gizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by larrry grizzard"
+date "Oct 14, 2011"
+description "Thought I'd try a lamprey. Probably better on a larger grid, but these things gave me the willies as a kid."
+difficulty 1.5
+height 20
+id 16036
+link "https://webpbn.com/play.cgi?id=16036"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Larry. My other brother, Larry."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 black 6
+red 3 black 9
+red 2 black 3 red 6 black 3
+red 1 black 3 red 1 red 1 red 2 black 3
+red 2 black 1 red 3 red 1 red 1 red 2 black 2
+red 1 black 2 red 3 red 1 red 2 red 1 black 2
+red 2 black 1 red 2 red 1 red 1 red 1 red 1 black 2
+red 1 black 2 red 1 red 1 red 2 red 1 black 2
+red 2 black 2 red 1 red 1 black 1 red 1 red 1 black 2
+red 2 black 2 red 6 black 1 red 6 black 2
+red 3 black 2 red 1 red 1 red 1 red 1 black 2
+red 3 black 2 red 1 red 2 red 3 red 1 black 2
+red 3 black 2 red 1 red 1 red 1 red 3 black 2
+red 3 black 2 red 1 red 2 red 1 red 1 black 2
+red 3 black 2 red 1 red 1 red 1 red 1 black 1
+red 3 black 3 red 3 red 4 black 2
+red 4 black 4 red 5 black 3
+red 5 black 10
+red 7 black 7 red 1
+red 14
+
+columns
+red 10
+red 12
+red 14
+red 3 black 9 red 4
+red 3 black 12 red 3
+red 2 black 3 red 9 black 3 red 2
+red 2 black 2 red 3 red 1 red 1 black 2 red 2
+red 2 black 2 red 2 red 1 red 3 black 3 red 1
+red 1 black 2 red 4 red 1 red 3 red 2 black 2 red 1
+black 2 red 1 red 1 red 3 red 1 black 2 red 1
+black 2 red 1 red 2 red 1 black 2 red 1
+black 2 red 6 black 2 red 7 black 2 red 1
+black 2 red 1 red 3 red 1 red 2 black 2 red 1
+black 2 red 1 red 2 red 1 red 2 red 1 black 3 red 1
+black 2 red 4 red 1 red 1 red 1 black 2 red 1
+black 2 red 1 red 1 red 3 black 2
+black 3 red 1 red 1 red 1 black 4
+black 2 red 7 black 3
+black 9
+black 7

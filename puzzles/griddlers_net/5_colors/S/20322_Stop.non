@@ -1,0 +1,56 @@
+by "alibaba"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/3/05"
+height 25
+id 20322
+link "https://www.griddlers.net/nonogram/-/g/20322"
+medium_time "0:01:11"
+points 569
+popularity 51.01
+title "Stop"
+width 9
+
+color a ffffff
+color b 000000
+color c ff9900
+color d ff0000
+color e 99ff00
+
+rows
+b 7
+b 9
+b 1 b 1
+b 1 d 3 b 1
+b 1 d 5 b 1
+b 1 d 5 b 1
+b 1 d 5 b 1
+b 1 d 3 b 1
+b 1 b 1
+b 1 c 3 b 1
+b 1 c 5 b 1
+b 1 c 5 b 1
+b 1 c 5 b 1
+b 1 c 5 b 1
+b 1 c 3 b 1
+b 1 b 1
+b 1 e 3 b 1
+b 1 e 5 b 1
+b 1 e 5 b 1
+b 1 e 5 b 1
+b 1 e 3 b 1
+b 1 b 1
+b 9
+b 7
+b 7
+
+columns
+b 22
+b 2 b 3
+b 2 d 3 c 4 e 3 b 3
+b 2 d 5 c 6 e 5 b 3
+b 2 d 5 c 6 e 5 b 3
+b 2 d 5 c 6 e 5 b 3
+b 2 d 3 c 4 e 3 b 3
+b 2 b 3
+b 22

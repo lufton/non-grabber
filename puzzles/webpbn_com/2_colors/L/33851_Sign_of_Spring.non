@@ -1,0 +1,77 @@
+by "Mousey Pounds (mouseypounds)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Mousey Pounds"
+date "Apr  6, 2020"
+description "A bunny (inspired by critter sprites from Stardew Valley)"
+difficulty 1.75
+height 30
+id 33851
+link "https://webpbn.com/play.cgi?id=33851"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Sign of Spring"
+width 30
+
+rows
+30
+11,12
+9,10
+8,9
+7,8
+7,8
+6,7
+6,7
+5,6
+5,2,6
+5,1,1,6
+4,1,1,5
+4,1,1,5
+4,1,1,5
+4,4,1,1,5
+4,3,6,5,5
+4,2,7,3,2,5
+4,1,7,2,2,5
+4,1,1,5,5,5
+4,2,1,7,3,5
+4,2,7,1,1,5
+4,8,1,1,5
+5,6,1,6
+5,4,3,6
+6,7
+6,7
+7,8
+8,9
+10,11
+30
+
+columns
+30
+30
+30
+30
+11,8
+8,6
+6,4,4
+4,2,2,3
+3,1,1,2
+2,2,1,1,2
+2,3,3,1
+1,3,5,1
+1,10,1
+1,10,1
+1,10,1
+1,9,1
+1,1,5,1,1
+1,1,1,1,1
+2,4,2,1,1
+2,10,1,2
+3,1,1,4,2
+4,11,3
+6,4,4
+8,6
+11,8
+30
+30
+30
+30
+30

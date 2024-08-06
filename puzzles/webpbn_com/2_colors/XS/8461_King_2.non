@@ -1,0 +1,37 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by David Bouldin"
+date "Apr 19, 2010"
+description "I just did a Random Puzzle entitled "king" that was a 10x10 lion and it inspired me to take a shot at one of my own. The question mark is because I'm sure there are many more lions out there, just haven't done any."
+difficulty 1.25
+height 10
+id 8461
+link "https://webpbn.com/play.cgi?id=8461"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "King #2?"
+width 10
+
+rows
+8
+2,4
+3,3
+3,2,2
+2,1,1
+2,4
+3,2,1
+4,1
+7,1
+8
+
+columns
+9
+10
+1,2,4
+2,3
+2,2,2
+2,1,4
+3,2,2
+1,1,1,1
+2,2,2
+3

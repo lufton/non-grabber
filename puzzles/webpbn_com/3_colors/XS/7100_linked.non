@@ -1,0 +1,41 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by ant"
+date "Nov 15, 2009"
+description "a few links of a red and black chain."
+difficulty 2.75
+height 10
+id 7100
+link "https://webpbn.com/play.cgi?id=7100"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "linked"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 2 red 3
+black 2 red 2 black 1 red 2
+black 3 red 2
+red 1 red 1
+red 1 red 1
+red 2 black 3
+red 2 black 1 red 2 black 2
+red 3 black 1
+black 1
+
+columns
+black 2
+black 2
+black 2 red 3
+red 1 black 1 red 2
+red 2 black 1 red 2 black 1
+red 1 black 1 black 1 red 1
+black 1 red 2 black 1 red 2
+red 2 black 1 red 1
+red 3 black 2
+black 2

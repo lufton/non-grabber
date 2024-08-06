@@ -1,0 +1,104 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/9/11"
+height 49
+id 105323
+link "https://www.griddlers.net/nonogram/-/g/105323"
+medium_time "0:25:38"
+points 97010
+popularity 80.68
+title "Shikijika (Spring) - Pokemon No. 585"
+width 31
+
+color a ffffff
+color b 000000
+color c ff9cad
+color d ffde52
+color e ce9c06
+color f f8efc6
+color g bda58c
+
+rows
+b 2
+b 1 c 1 b 1
+b 1 c 2 b 1
+b 1 c 3 b 1
+b 3 c 3 b 1
+b 1 d 2 e 1 c 1 e 1 b 1
+b 2 e 1 d 2 e 1 d 2 b 1
+b 1 d 2 e 1 d 3 b 2 b 4
+b 1 d 5 e 1 d 2 b 1 b 2 c 4 b 3
+b 1 c 1 b 3 d 3 e 1 d 1 b 2 c 3 b 3 c 3 b 1
+b 1 c 5 b 1 d 2 e 1 d 1 b 1 c 2 b 2 d 5 b 2
+b 1 c 4 b 1 c 1 b 1 d 3 b 1 c 2 b 1 d 6 b 2
+b 1 c 3 b 1 f 1 b 1 c 1 b 3 c 2 b 1 d 5 b 3
+b 2 c 1 b 2 f 3 b 1 c 4 b 1 d 4 b 3
+b 1 f 1 b 1 f 3 b 5 c 3 b 5
+b 1 f 4 b 1 b 1 f 1 b 1 f 1 b 1 c 3 b 1
+b 2 f 5 b 3 f 1 b 1 f 2 b 1 c 2 b 1
+b 3 f 5 b 3 f 1 b 1 f 2 b 1 c 2 b 1
+b 2 f 7 b 1 f 1 b 1 f 3 b 1 c 1 b 2 b 1
+b 1 f 12 b 1 c 2 b 1 b 1 c 1 b 1
+b 1 f 5 b 1 f 5 b 1 c 1 b 2 b 1 c 2 b 1
+b 2 f 3 b 1 f 4 b 1 c 1 b 2 b 1 c 3 b 1
+b 3 f 3 b 2 c 2 b 1 b 1 c 2 b 1
+b 4 c 3 b 2 b 1 c 3 b 1
+b 1 c 4 b 1 b 5 c 4 b 1
+b 1 c 5 b 1 b 3 c 1 d 1 c 1 b 2 c 2 b 1
+b 1 c 6 b 2 b 2 d 1 c 6 b 2
+b 1 d 1 c 6 b 3 c 2 d 1 c 2 d 2 c 1 b 1
+b 1 d 1 c 13 d 1 g 2 d 2 b 1
+b 1 d 1 g 1 d 1 c 11 d 1 g 1 f 2 g 2 b 1
+b 1 g 1 f 1 g 1 d 1 c 5 d 1 c 4 d 1 g 1 f 5 b 1
+b 1 g 1 f 1 g 1 d 2 c 3 d 1 g 1 d 4 g 1 f 6 b 1
+b 1 f 3 g 2 d 3 g 1 f 1 g 4 f 7 b 1
+b 1 f 4 g 3 f 12 b 1
+b 1 f 12 b 3 f 4 b 1
+b 1 f 2 g 1 f 1 b 1 f 6 b 1 f 3 b 1 f 3 b 1
+b 1 f 2 g 1 b 2 f 5 b 1 f 3 b 1 f 3 b 1
+b 1 f 3 b 2 f 4 b 1 b 1 f 2 b 1 f 4 b 1
+b 1 f 2 b 1 b 1 f 3 b 1 b 1 f 2 b 1 f 3 b 1
+b 1 f 2 b 1 b 1 f 3 b 1 b 1 f 1 b 2 f 3 b 1
+b 1 f 2 b 1 b 1 f 2 b 1 b 1 f 1 b 1 b 1 f 2 b 1
+b 1 f 2 b 1 b 1 f 2 b 1 b 1 f 1 b 1 b 1 f 2 b 1
+b 1 f 2 b 1 b 1 f 2 b 1 b 4 b 1 f 2 b 1
+b 1 f 2 b 1 b 1 f 2 b 1 b 3 b 1 f 1 b 1
+b 2 f 1 b 1 b 1 f 2 b 1 b 3 b 4
+b 4 b 1 f 2 b 1 b 4
+b 3 b 4 b 3
+b 4
+b 3
+
+columns
+b 2
+b 4
+b 2 f 2 b 1
+b 3 f 5 b 1
+b 3 f 7 b 1
+b 1 c 3 b 1 f 7 b 1
+b 1 c 3 b 1 f 8 b 1
+b 3 c 4 b 1 f 8 b 2 b 4
+b 3 d 2 b 1 c 2 b 1 f 2 b 3 f 2 b 2 f 1 b 1 b 3 d 1 g 2 f 1 b 3 b 2
+b 1 d 1 e 1 d 2 b 1 c 1 b 1 f 2 b 1 b 3 f 4 b 3 c 1 d 2 g 1 f 6 b 2 b 4
+b 3 d 2 e 1 d 1 b 1 c 2 b 1 f 1 b 4 f 5 b 1 c 5 d 1 g 2 f 6 b 5 f 1 b 3
+b 1 c 3 e 1 d 4 b 2 c 1 b 2 f 3 b 1 f 3 b 1 c 7 d 2 g 1 f 2 g 1 f 9 b 1
+b 1 c 5 e 1 d 5 b 1 c 1 b 4 f 4 b 1 c 8 d 1 g 1 f 3 g 1 f 6 b 2
+b 3 c 2 e 1 d 2 e 1 d 3 b 1 c 1 b 1 f 6 b 1 c 10 d 1 g 1 f 1 b 8
+b 3 d 1 b 1 d 1 e 2 d 1 b 1 c 2 b 1 f 3 b 2 c 2 b 2 c 7 d 1 g 1 f 2 b 2
+b 2 d 3 b 1 c 4 b 3 c 2 b 3 b 2 c 5 d 1 g 1 f 4 b 2 b 5
+b 3 c 2 b 1 c 6 b 2 b 2 c 3 d 1 g 1 f 7 b 4 f 2 b 3
+b 1 c 2 b 1 d 1 b 1 c 3 b 3 b 1 c 2 d 1 g 1 f 14 b 3
+b 1 c 2 b 1 d 2 b 5 b 2 c 3 d 1 g 1 f 11 b 4
+b 1 c 1 b 1 d 3 b 1 b 2 c 4 d 1 g 1 f 4 b 7
+b 1 c 2 b 1 d 3 b 1 b 1 d 1 c 4 d 1 g 1 f 2 b 2
+b 1 c 1 b 1 d 3 b 2 b 2 c 1 d 1 c 3 d 1 g 1 f 1 b 1 f 2 b 1
+b 1 c 1 b 1 d 3 b 1 b 1 c 4 d 2 g 1 f 2 b 1 f 3 b 1 b 3
+b 1 c 1 b 1 d 2 b 2 b 1 d 1 c 2 d 1 g 2 f 3 b 1 f 4 b 6
+b 1 c 1 d 2 b 1 b 1 c 2 d 1 g 1 f 6 b 3 f 4 b 3
+b 1 c 1 d 1 b 2 b 3 c 1 d 1 g 1 f 9 b 5
+b 1 c 1 b 2 b 2 c 2 b 1 c 2 d 1 g 1 f 9 b 1 b 3
+b 2 b 1 c 5 b 2 d 1 g 1 f 10 b 7
+b 1 c 6 b 1 b 2 f 3 b 4 f 7 b 3
+b 1 c 3 b 2 c 1 b 1 b 3 b 2 f 4 b 3
+b 3 b 1 b 4

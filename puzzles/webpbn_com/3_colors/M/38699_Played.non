@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Jun 12, 2024"
+description "like a pawn"
+difficulty 1.0
+height 20
+id 38699
+link "https://webpbn.com/play.cgi?id=38699"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Played"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 9 red 9
+black 8 red 8
+black 7 red 7
+black 7 red 7
+black 8 red 8
+black 6 red 6
+black 8 red 8
+black 8 red 8
+black 7 red 7
+red 7 black 7
+red 6 black 6
+red 6 black 6
+red 5 black 5
+red 5 black 5
+red 5 black 5
+red 6 black 6
+red 5 black 5
+red 9 black 9
+0
+
+columns
+0
+black 9 red 9
+black 9 red 9
+black 9 red 9
+black 9 red 9
+black 9 red 9
+black 9 red 3 red 1 red 1
+black 5 black 3 red 1 red 1
+black 2 black 1 black 2 red 1
+black 1 red 1
+red 1 black 1
+red 2 red 1 red 2 black 1
+red 5 red 3 black 1 black 1
+red 9 black 3 black 1 black 1
+red 9 black 9
+red 9 black 9
+red 9 black 9
+red 9 black 9
+red 9 black 9
+0

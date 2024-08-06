@@ -1,0 +1,61 @@
+by "Ruby Lane (firewitch)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Ruby Lane"
+date "Feb 10, 2017"
+description "a cat"
+difficulty 1.25
+height 20
+id 29410
+link "https://webpbn.com/play.cgi?id=29410"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Sitting"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 20
+black 20
+black 20
+black 12 black 7
+black 11 black 7
+black 10 black 6
+black 10 black 6
+black 8 red 2 black 8
+black 5 black 7
+black 4 black 7
+black 3 black 8
+black 3 black 1 black 8
+black 3 black 3 black 8
+black 3 black 3 black 8
+black 3 black 2 black 2 black 1 black 5
+black 4 black 5
+black 20
+black 20
+black 20
+
+columns
+black 20
+black 20
+black 20
+black 11 black 4
+black 10 black 3
+black 9 black 1 black 3
+black 9 black 1 black 3
+black 9 black 3
+black 8 black 2 black 3
+black 8 black 4 black 3
+black 6 red 1 black 3 black 3
+black 5 red 1 black 3
+black 4 black 1 black 4 black 3
+black 6 black 8 black 3
+black 15 black 3
+black 20
+black 20
+black 20
+black 20
+black 20

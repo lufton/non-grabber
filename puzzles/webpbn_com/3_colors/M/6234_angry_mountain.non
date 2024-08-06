@@ -1,0 +1,61 @@
+by "Lance Roper (lancer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Lance Roper"
+date "Jul  5, 2009"
+description "a volcano"
+difficulty 1.75
+height 20
+id 6234
+link "https://webpbn.com/play.cgi?id=6234"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "angry mountain"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 1 red 1
+red 3 red 3
+red 2 red 1 red 1 red 4
+red 1 red 4 red 1 red 3
+red 1 red 1 red 1
+black 1 red 5 black 2
+black 1 red 3 black 2 red 1 black 3
+black 2 red 1 black 1 red 4 black 4
+black 2 red 2 black 1 red 1 black 1 red 4 black 4
+black 3 red 1 black 2 red 1 black 1 red 1 black 1 red 2 black 5
+black 3 red 1 black 2 red 1 black 3 red 3 black 5
+black 4 red 1 black 2 red 1 black 3 red 1 black 1 red 2 black 5
+black 3 red 2 black 2 red 1 black 3 red 2 black 1 red 2 black 4
+black 3 red 1 black 2 red 2 black 3 red 2 black 2 red 1 black 4
+black 2 red 1 black 3 red 1 black 5 red 2 black 1 red 1 black 4
+black 1 red 1 black 2 red 3 black 6 red 4 black 3
+black 1 red 1 black 1 red 2 black 10 red 2 black 3
+black 1 red 1 black 1 red 1 black 13 red 2 black 1
+red 2 black 1 red 2 black 13 red 1 black 1
+red 1 black 3 red 1 black 13 red 1 black 1
+
+columns
+black 7 red 2
+black 5 red 4 black 1
+red 2 black 5 red 1 black 5
+red 1 black 4 red 2 black 2 red 3 black 1
+red 1 black 3 red 3 black 2 red 2 black 1 red 2
+red 2 red 1 black 2 red 2 black 5 red 1 black 4
+red 1 red 1 black 1 red 3 black 4 red 3 black 4
+red 6 black 3 red 4 black 6
+red 5 black 10
+red 6 black 1 red 1 black 12
+red 1 red 1 black 1 red 3 black 10
+red 2 red 6 black 1 red 4 black 6
+red 1 black 3 red 3 black 1 red 3 black 5
+red 2 black 3 red 4 black 2 red 2 black 4
+red 1 black 5 red 2 black 2 red 1 black 4
+red 1 black 5 red 5 black 3
+red 1 black 7 red 2 black 3
+black 9 red 1 black 2
+black 8 red 3
+black 9

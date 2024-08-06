@@ -1,0 +1,87 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Jul 25, 2016"
+description "Instead of using good branches he used green wood, because it is harder to burn, in Summer Time."
+difficulty 3.75
+height 30
+id 28469
+link "https://webpbn.com/play.cgi?id=28469"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Silly Disney - start row 1 column 24"
+width 34
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1
+green 2 green 2
+green 3 green 2
+black 5 green 1 green 2 green 1
+black 2 black 1 green 1
+black 2 black 3 black 2
+black 2 black 1 black 2
+black 2 blue 4 black 2 black 1
+black 4 blue 1 blue 3 black 1 black 1
+black 1 blue 1 black 2 blue 1 black 1
+black 2 blue 1 black 2 black 2 blue 1 black 1
+black 1 blue 2 red 3 black 1 blue 1 black 1
+black 1 black 1 red 5 blue 2 black 1
+green 1 black 1 black 2 red 5 black 1
+green 1 green 1 green 1 black 2 black 4 red 3 black 1
+green 5 black 1 black 2 black 2 black 1
+green 2 black 1 black 2 black 3 black 1
+green 1 black 1 black 2 black 3 black 1
+green 1 black 2 black 2 black 2 black 2 green 1
+green 2 black 1 black 2 black 2 black 2 green 1 green 1
+green 2 black 1 black 8 black 2 green 2
+green 2 black 1 black 7 black 2 green 5
+green 3 black 2 black 5 black 2 green 2
+green 3 black 1 black 2 green 2
+green 3 black 1 black 2 green 3
+green 3 black 1 black 2 green 2
+green 2 black 1 black 1 green 3
+green 2 black 1 black 1 green 1
+green 1 black 1 black 3 black 1
+black 1 black 3 black 1
+
+columns
+green 2
+green 1
+green 4
+green 6
+green 2 green 4
+green 3
+green 3
+green 3
+green 3
+green 3
+green 2
+black 5 black 8
+black 5 black 5
+black 3
+black 1
+black 1 black 10 black 2
+black 2 black 10 black 2
+black 2 black 1 black 3 black 2
+black 2 blue 3 black 2 black 3
+black 2 blue 1 blue 1 black 2 black 3
+black 2 black 1 blue 1 black 2 blue 1 red 2 black 1 black 3
+black 1 black 1 blue 1 black 2 red 4 black 2 black 2 black 5
+black 1 black 1 blue 1 red 4 black 1 black 2 black 2 green 2
+green 2 black 1 black 1 blue 1 black 1 red 4 black 3 black 2 green 1
+green 2 black 1 blue 1 black 2 red 2 black 1 black 2 green 2
+green 2 black 1 black 1 blue 1 blue 1 black 2 green 2
+green 2 green 1 black 1 black 2 blue 4 black 2 green 1
+green 2 green 1 black 2 black 2 green 2
+green 2 black 7 black 2 green 2
+green 1 black 6 green 2
+green 1 green 4
+green 2
+green 1 green 1
+green 1

@@ -1,0 +1,42 @@
+by "benny (benny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by benny"
+date "Mar 21, 2011"
+description "spiral"
+difficulty 1.0
+height 10
+id 12947
+link "https://webpbn.com/play.cgi?id=12947"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "spiral"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 10
+red 9 blue 1
+blue 8 red 1 blue 1
+blue 1 red 6 blue 1 red 1 blue 1
+blue 1 red 1 blue 4 red 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 black 1 blue 2 red 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 black 2 red 2 blue 1 red 1 blue 1
+blue 1 red 1 blue 6 red 1 blue 1
+blue 1 red 8 blue 1
+blue 10
+
+columns
+blue 1 red 1 blue 8
+blue 1 red 1 blue 1 red 6 blue 1
+blue 1 red 1 blue 1 red 1 blue 4 red 1 blue 1
+blue 1 red 1 blue 1 red 1 blue 1 black 2 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 red 1 blue 2 black 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 red 4 blue 1 red 1 blue 1
+blue 1 red 1 blue 6 red 1 blue 1
+blue 1 red 8 blue 1
+blue 10

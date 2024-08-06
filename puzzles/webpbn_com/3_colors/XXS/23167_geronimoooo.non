@@ -1,0 +1,31 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom O'Connell"
+date "Nov 21, 2013"
+description ""
+difficulty 1.0
+height 5
+id 23167
+link "https://webpbn.com/play.cgi?id=23167"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "geronimoooo"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2
+black 1
+black 2 black 1
+black 1
+black 1 blue 4
+
+columns
+black 3
+black 1 blue 1
+black 1 blue 1
+black 2 blue 1
+black 1 blue 1

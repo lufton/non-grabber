@@ -1,0 +1,68 @@
+by "farfalla19"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/18/09"
+height 20
+id 78483
+link "https://www.griddlers.net/nonogram/-/g/78483"
+medium_time "0:09:03"
+points 7321
+popularity 73.32
+title "Monkey with Banana"
+width 25
+
+color a 00cccc
+color b 663300
+color c 33cc00
+color e ff6600
+color f ffcc33
+color g ffff00
+
+rows
+b 3
+b 2 f 3
+b 1 e 1 f 1 b 1 f 1
+b 2 e 1 f 4
+b 4 f 4 g 2
+b 6 f 3 f 1 g 2 f 1
+b 7 g 2
+b 7 b 3
+b 7 b 3
+b 3 e 1 b 4 b 1 g 2
+b 3 e 2 b 5 g 2 f 1
+b 4 e 2 b 2 e 2 g 2
+b 4 b 5 e 4 b 1 e 1 f 1 g 2
+b 2 b 2 b 4 e 2 b 4 e 1 b 1
+b 1 b 1 e 2 b 2 e 1 b 9
+b 1 b 1 e 2 b 8 b 3
+b 2 b 2 e 2 b 6 b 4
+b 2 b 2 e 3 b 3 b 3
+c 3 b 4 c 18
+c 25
+
+columns
+c 2
+b 4 c 2
+b 2 b 2 c 2
+b 1 b 2 c 1
+b 1 b 1 c 1
+b 2 b 1 c 1
+b 2 b 2 c 1
+b 2 c 2
+b 2 c 2
+b 5 e 2 c 2
+b 9 e 3 c 2
+b 12 e 2 c 2
+b 6 e 2 b 6 e 1 c 2
+b 9 e 2 b 1 e 2 b 2 e 1 c 2
+b 2 e 2 b 7 e 3 b 4 c 2
+b 1 f 4 b 7 e 1 b 5 c 2
+b 1 f 1 b 1 f 3 b 6 e 1 b 5 c 2
+f 5 b 1 e 2 b 4 c 2
+f 3 b 1 e 1 b 4 c 2
+b 3 e 2 b 1 c 2
+f 1 g 1 b 2 g 2 b 4 c 2
+g 2 b 2 g 3 f 1 b 4 c 2
+g 2 f 1 g 2 b 4 c 2
+g 1 f 1 g 1 b 2 c 2
+c 2

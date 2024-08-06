@@ -1,0 +1,83 @@
+by "Marie Jeanne (Alleycat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Marie Jeanne"
+date "Aug 27, 2012"
+description "Take the kids to the beach!"
+difficulty 1.5
+height 30
+id 19653
+link "https://webpbn.com/play.cgi?id=19653"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WPC #116 Fun In The Sun"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10 blue 16
+blue 10 blue 16
+blue 11 blue 17
+blue 30
+blue 30
+blue 30
+blue 12 black 3 blue 15
+blue 12 black 3 blue 15
+green 12 black 3 green 15
+green 11 black 5 green 14
+green 13 green 16
+green 11 red 1 red 1 green 14
+green 10 green 1 red 3 green 1 green 4 black 3 green 6
+green 9 green 2 red 3 green 2 green 3 black 3 green 6
+green 8 green 3 green 3 green 3 green 7
+green 3 black 3 green 1 green 4 red 3 green 4 green 5
+green 3 black 3 green 5 red 3 green 6 green 1 green 4
+green 4 green 1 green 5 green 1 green 6 green 2 blue 1 green 2
+green 2 red 1 red 1 green 6 green 1 green 6 blue 3 green 3 blue 1 green 2
+green 3 red 3 green 6 green 1 green 6 blue 3 green 2 blue 3 green 1
+green 4 red 1 green 7 green 1 green 6 green 1 green 2 blue 3 green 1
+green 3 red 3 green 6 green 1 green 6 green 1 green 6
+green 3 green 1 green 6 green 1 green 6 green 1 green 6
+green 3 green 1 green 6 green 1 green 6 green 1 green 6
+green 30
+0
+blue 4
+red 4
+green 4
+blue 4
+
+columns
+blue 8 green 17
+blue 8 green 17
+blue 8 green 10 green 6
+blue 8 green 7 black 2 green 1 red 2 green 1 red 1 green 1
+blue 8 green 7 black 2 red 3 green 3
+blue 8 green 7 black 2 green 1 red 2 green 1 red 1 green 1
+blue 8 green 8 green 7 blue 1 red 1 green 1 blue 1
+blue 8 green 7 green 9 blue 1 red 1 green 1 blue 1
+blue 8 green 6 green 10 blue 1 red 1 green 1 blue 1
+blue 8 green 5 green 11 blue 1 red 1 green 1 blue 1
+blue 6 green 4 green 12
+blue 5 green 1 black 1 green 1 green 13
+blue 3 black 4 green 1 red 3 red 2 green 1
+blue 4 black 4 red 2 red 2 green 8
+blue 6 black 4 green 1 red 3 red 2 green 1
+blue 8 green 1 black 1 green 1 green 13
+blue 8 green 4 green 12
+blue 8 green 5 green 11
+blue 8 green 6 green 10
+blue 8 green 7 green 9
+blue 8 green 7 green 9
+blue 8 green 4 black 2 green 1 blue 2 green 1
+blue 8 green 4 black 2 blue 2 green 5
+blue 8 green 4 black 2 green 1 blue 2 green 1
+blue 8 green 7 green 9
+blue 8 green 8 green 8
+blue 8 green 9 green 1 blue 2 green 4
+blue 8 green 9 blue 4 green 4
+blue 8 green 11 blue 2 green 4
+blue 8 green 17

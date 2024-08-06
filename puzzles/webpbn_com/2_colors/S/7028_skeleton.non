@@ -1,0 +1,47 @@
+by "Alex Solomonson (solo60694)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Alex Solomonson"
+date "Oct 28, 2009"
+description "skeleton with a top hat !"
+difficulty 1.25
+height 20
+id 7028
+link "https://webpbn.com/play.cgi?id=7028"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "skeleton"
+width 10
+
+rows
+6
+10
+8
+10
+10
+10
+2,2,2
+2,2,2
+10
+5,4
+4,4
+10
+2,2
+10
+6
+6
+2
+2
+2
+10
+
+columns
+1,11,1
+13,1
+6,4,3,1
+6,4,3,1
+10,1,7
+9,1,7
+6,4,3,1
+6,4,3,1
+13,1
+1,11,1

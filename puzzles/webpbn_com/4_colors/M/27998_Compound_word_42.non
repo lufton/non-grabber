@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 27998
+link "https://webpbn.com/play.cgi?id=27998"
+note "published,may be unique,may be line/color solvable"
+quality 2.75
+title "Compound word 42"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 2 black 4
+black 11
+black 13
+black 3 black 9
+black 1 red 2 black 4
+red 2
+red 2
+red 2
+red 2
+green 3 red 2 green 3
+green 5 red 2 green 6
+green 7 red 2 green 8
+green 19
+green 8 green 10
+green 20
+green 9 green 10
+green 20
+green 3 green 5 green 6 green 3
+green 3 green 12 green 3
+green 3 green 5 green 6 green 3
+
+columns
+green 6
+black 1 green 8
+black 1 green 9
+black 2 green 7
+black 2 green 11
+black 2 green 11
+black 2 green 11
+black 3 green 10
+black 3 green 9
+red 1 black 3 red 8 green 1 green 1 green 1 green 1
+red 1 black 3 red 8 green 8
+black 3 green 9
+black 5 green 10
+black 5 green 11
+black 5 green 11
+black 5 green 11
+green 7
+green 10
+green 9
+green 8

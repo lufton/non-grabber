@@ -1,0 +1,62 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Mar 23, 2011"
+description "has found a friend and not a snack!"
+difficulty 1.5
+height 20
+id 12979
+link "https://webpbn.com/play.cgi?id=12979"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Matt the Kat....."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+blue 2
+blue 6 red 1
+blue 9
+blue 7
+blue 4
+red 1 blue 1
+black 3 red 2
+black 2 black 4 black 3
+black 1 black 6 black 6
+black 1 black 10 black 2
+black 3 black 9 red 1 black 4
+black 14 black 3
+black 15
+black 13
+black 8
+black 2 black 2
+black 3 black 3
+
+columns
+0
+black 4
+black 2 black 2
+black 1 black 2
+black 1 black 2
+blue 1 black 4
+blue 2 black 5
+blue 2 black 9
+blue 4 black 10
+blue 4 red 2 black 8 black 1
+blue 5 red 1 black 8
+blue 4 black 8
+blue 4 black 7
+blue 3 black 8
+red 1 black 2 red 1 black 6
+black 7 black 1
+black 2 black 1 black 2
+black 7
+black 5
+black 1 black 1

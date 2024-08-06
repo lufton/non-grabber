@@ -1,0 +1,127 @@
+by "Craig Mellen (cmellen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Craig Mellen"
+date "Sep 18, 2007"
+description "This is the symbol of Kansas State University, my school, called the Powercat. To get the full effect imagine the blue is purple (I'm colorblind so it looked about right to me)."
+difficulty 2.75
+height 53
+id 1443
+link "https://webpbn.com/play.cgi?id=1443"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Go Cats!"
+width 53
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 5
+black 13
+black 7 blue 3 black 7
+black 5 blue 11 black 5
+black 5 blue 15 black 5
+black 4 blue 19 black 4
+black 3 blue 23 black 3
+black 3 blue 25 black 3
+black 3 blue 27 black 3
+black 3 blue 5 black 7 blue 1 black 7 blue 9 black 3
+black 2 blue 3 black 3 blue 1 black 6 blue 1 black 6 blue 11 black 2
+black 3 blue 1 black 6 blue 1 black 4 blue 2 black 10 blue 7 black 3
+black 2 blue 2 black 7 blue 5 black 15 blue 4 black 2
+black 3 blue 2 black 29 blue 2 black 3
+black 2 blue 3 black 30 blue 2 black 2
+black 3 blue 3 black 30 blue 2 black 3
+black 2 blue 4 black 30 blue 3 black 2
+black 2 blue 4 black 22 blue 2 black 5 blue 4 black 2
+black 2 blue 4 black 8 blue 10 black 3 blue 4 black 2 blue 6 black 2
+black 3 blue 4 black 6 blue 3 black 8 blue 8 black 1 blue 7 black 3
+black 2 blue 5 black 5 blue 2 black 13 blue 14 black 2
+black 2 blue 5 black 4 blue 2 black 6 blue 22 black 2
+black 2 blue 5 black 3 blue 2 black 6 blue 3 black 6 blue 4 black 1 blue 9 black 2
+black 3 blue 4 black 2 blue 2 black 6 blue 2 black 9 blue 2 black 2 blue 8 black 3
+black 2 blue 4 black 1 blue 3 black 5 blue 3 black 14 blue 7 black 2
+black 2 blue 4 black 1 blue 2 black 6 blue 2 black 15 blue 7 black 2
+black 2 blue 7 black 6 blue 2 black 14 blue 8 black 2
+black 3 blue 6 black 6 blue 2 black 5 blue 4 black 4 blue 8 black 3
+black 2 blue 6 black 6 blue 3 black 3 blue 6 black 2 blue 9 black 2
+black 3 blue 5 black 7 blue 3 black 1 blue 17 black 3
+black 2 blue 6 black 7 blue 20 black 2
+black 3 blue 6 black 5 blue 20 black 3
+black 2 blue 31 black 2
+black 3 blue 29 black 3
+black 3 blue 27 black 3
+black 3 blue 25 black 3
+black 3 blue 23 black 3
+black 4 blue 19 black 4
+black 5 blue 15 black 5
+black 5 blue 11 black 5
+black 7 blue 3 black 7
+black 13
+black 5
+0
+black 4 black 3 black 2 black 2 black 2 black 4 black 4 black 3 black 3 black 6
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 4 black 2 black 2 black 2 black 2 black 2 black 4 black 4 black 2 black 5 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 3 black 3 black 2 black 4 black 2 black 2 black 3 black 2 black 2 black 2
+0
+
+columns
+black 5
+black 13 black 8
+black 7 blue 3 black 7 black 8
+black 5 blue 11 black 5 black 1 black 1
+black 5 blue 15 black 5 black 4
+black 4 blue 19 black 4 black 2
+black 3 blue 23 black 3
+black 3 blue 2 black 15 blue 8 black 3 black 6
+black 3 blue 3 black 13 blue 11 black 3 black 8
+black 3 blue 3 black 13 blue 13 black 3 black 1 black 1
+black 2 blue 4 black 12 blue 3 black 5 blue 7 black 2 black 8
+black 3 blue 4 black 11 blue 2 black 8 blue 6 black 3 black 6
+black 2 blue 4 black 1 blue 1 black 9 blue 2 black 10 blue 6 black 2
+black 3 blue 4 black 2 blue 1 black 7 blue 2 black 11 blue 6 black 3 black 7
+black 2 blue 5 black 3 blue 1 black 6 blue 1 black 12 blue 7 black 2 black 8
+black 3 blue 5 black 3 blue 1 black 5 blue 2 black 12 blue 7 black 3 black 1
+black 2 blue 6 black 3 blue 1 black 5 blue 1 black 5 blue 5 black 3 blue 8 black 2 black 8
+black 2 blue 6 black 3 blue 1 black 5 blue 1 black 4 blue 7 black 1 blue 9 black 2 black 7
+black 2 blue 6 black 2 blue 2 black 5 blue 1 black 3 blue 3 black 3 blue 12 black 2 black 1
+black 3 blue 9 black 6 blue 1 black 2 blue 2 black 6 blue 11 black 3 black 8
+black 2 blue 7 black 9 blue 1 black 2 blue 2 black 7 blue 11 black 2 black 7
+black 2 blue 7 black 9 blue 1 black 2 blue 1 black 7 blue 12 black 2
+black 2 blue 7 black 9 blue 1 black 2 blue 1 black 6 blue 13 black 2 black 8
+black 3 blue 6 black 9 blue 1 black 2 blue 1 black 5 blue 13 black 3 black 8
+black 2 blue 6 black 9 blue 2 black 1 blue 1 black 5 blue 13 black 2 black 1 black 1 black 1
+black 2 blue 6 black 10 blue 1 black 1 blue 1 black 5 blue 13 black 2 black 1 black 1 black 1
+black 2 blue 6 black 1 blue 1 black 8 blue 1 black 1 blue 1 black 5 blue 13 black 2
+black 3 blue 7 black 8 blue 4 black 5 blue 11 black 3 black 8
+black 2 blue 7 black 7 blue 6 black 5 blue 10 black 2 black 8
+black 3 blue 6 black 6 blue 7 black 5 blue 9 black 3 black 1 black 1
+black 2 blue 7 black 5 blue 6 black 5 blue 10 black 2 black 8
+black 3 blue 6 black 6 blue 4 black 5 blue 10 black 3 black 2 black 4
+black 2 blue 6 black 8 blue 4 black 2 blue 11 black 2
+black 3 blue 5 black 7 blue 17 black 3 black 6
+black 3 blue 5 black 5 blue 17 black 3 black 8
+black 3 blue 4 black 5 blue 16 black 3 black 1 black 1
+black 3 blue 4 black 3 blue 16 black 3 black 3 black 3
+black 4 blue 19 black 4 black 2 black 2
+black 5 blue 15 black 5
+black 5 blue 11 black 5 black 7
+black 7 blue 3 black 7 black 8
+black 13 black 1 black 1
+black 5 black 8
+black 7
+0
+black 1
+black 1
+black 8
+black 8
+black 1
+black 1
+0
+0

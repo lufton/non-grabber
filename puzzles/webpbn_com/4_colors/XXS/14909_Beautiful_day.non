@@ -1,0 +1,28 @@
+by "Maggie Johns (Magginni)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Maggie Johns"
+date "Jun 25, 2011"
+description "The green is the grass, the blue is the sky, and the red is the sun."
+difficulty 1.0
+height 3
+id 14909
+link "https://webpbn.com/play.cgi?id=14909"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Beautiful day"
+width 3
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 blue 2
+blue 3
+green 3
+
+columns
+black 1 blue 1 green 1
+blue 2 green 1
+blue 2 green 1

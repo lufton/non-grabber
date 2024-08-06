@@ -1,0 +1,103 @@
+by "JoLynn Uher (Miss_Lead)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by JoLynn Uher"
+date "Feb 15, 2008"
+description "Pretty, ain't it?"
+difficulty 1.5
+height 40
+id 2296
+link "https://webpbn.com/play.cgi?id=2296"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "It's swirly..."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 40
+green 39 blue 1
+red 38 green 1 blue 1
+black 36 red 1 green 1 blue 1
+blue 35 black 1 red 1 green 1 blue 1
+blue 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 31 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 27 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 23 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 21 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 18 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 15 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 11 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 9 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 7 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 5 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 3 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 3 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 5 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 7 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 10 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 12 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 14 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 16 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 20 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 24 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 28 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 30 red 1 green 1 blue 1
+blue 1 green 1 red 1 red 1 green 1 blue 1
+blue 1 green 1 red 34 green 1 blue 1
+blue 1 green 1 green 1 blue 1
+blue 1 green 37 blue 1
+blue 40
+
+columns
+blue 1 green 1 red 1 black 1 blue 36
+blue 1 green 1 red 1 black 1 blue 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 33 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 29 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 25 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 23 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 20 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 16 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 12 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 10 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 8 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 6 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 4 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 2 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 2 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 4 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 6 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 8 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 11 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 14 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 16 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 18 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 red 22 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 1 green 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 green 26 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 1 blue 1 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 1 blue 30 black 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 32 red 1 green 1 blue 1
+blue 1 green 1 red 1 red 1 green 1 blue 1
+blue 1 green 1 red 35 green 1 blue 1
+blue 1 green 38 blue 1
+blue 40

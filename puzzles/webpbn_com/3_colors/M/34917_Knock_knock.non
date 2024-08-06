@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Feb 23, 2021"
+description "Ewe"
+difficulty 1.25
+height 15
+id 34917
+link "https://webpbn.com/play.cgi?id=34917"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Knock knock"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 7 green 5
+green 4 green 4
+green 1 green 2 green 3
+green 3 green 1
+green 2
+green 1 black 1
+green 1 green 2
+green 1 green 2
+green 1 green 2 green 2
+green 7 green 3
+green 7 green 4
+green 7 green 1 green 3 green 1 green 4
+green 7 green 1 green 3 green 1 green 4
+green 7 black 1 green 1 green 3 black 1 green 1 green 4
+green 9 black 1 green 5 black 1 green 4
+
+columns
+green 4 green 7
+green 2 green 6
+green 1 green 1 green 6
+green 2 black 1 green 6
+green 3 green 7
+green 3 green 9
+green 2 green 6
+green 1 black 1 green 1
+green 1 green 4
+black 1
+green 4
+green 4
+green 4
+black 1 green 1
+green 4
+green 1 black 1
+green 2 green 5
+green 3 green 6
+green 3 green 9
+green 4 green 9

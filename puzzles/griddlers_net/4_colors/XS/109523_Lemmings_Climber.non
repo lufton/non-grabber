@@ -1,0 +1,39 @@
+by "jim"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/23/11"
+height 10
+id 109523
+link "https://www.griddlers.net/nonogram/-/g/109523"
+medium_time "0:01:51"
+points 171
+popularity 55.16
+title "Lemmings: Climber"
+width 8
+
+color a 000000
+color b f0d0d0
+color c 00b000
+color d 4040e0
+
+rows
+b 1
+b 1 b 1 b 1
+c 1 b 2 b 1 b 1
+c 2 b 1 d 1 b 1 b 1
+c 2 d 2 b 1
+c 1 d 3
+d 4
+b 1 d 3
+b 1 d 1
+b 2
+
+columns
+c 2
+b 1 c 2
+b 3 c 2
+d 4 b 2
+b 1 d 4
+b 3 b 1 d 3
+b 1 d 3 b 1
+b 2 b 1

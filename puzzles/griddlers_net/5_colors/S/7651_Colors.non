@@ -1,0 +1,52 @@
+by "FaZe430"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/10/04"
+height 15
+id 7651
+link "https://www.griddlers.net/nonogram/-/g/7651"
+medium_time "0:05:24"
+points 1000
+popularity 46.85
+title "Colors"
+width 15
+
+color a 000000
+color c fffefe
+color d 0000ff
+color e ff0000
+color f fffe00
+
+rows
+c 5
+c 9
+c 3 f 3 c 3
+c 3 d 1 f 3 e 1 c 3
+c 2 d 3 f 3 e 3 c 2
+c 2 d 3 f 1 e 3 c 2
+c 2 d 3 f 1 e 3 c 2
+c 2 d 3 e 2 c 2
+c 2 d 3 e 2 c 2
+c 2 d 3 c 2
+c 2 d 3 c 2
+c 3 d 3 c 3
+c 3 d 3 c 3
+c 9
+c 5
+
+columns
+c 5
+c 9
+c 3 c 3
+c 3 d 1 c 3
+c 2 d 4 c 2
+c 2 d 5 c 2
+c 2 f 3 d 8 c 2
+c 2 f 5 d 6 c 2
+c 2 f 3 e 4 d 4 c 2
+c 2 e 5 c 2
+c 2 e 4 c 2
+c 3 e 1 c 3
+c 3 c 3
+c 9
+c 5

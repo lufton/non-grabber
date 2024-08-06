@@ -1,0 +1,63 @@
+by "Ellen Ritchie (emritchie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Ellen Ritchie"
+date "Nov 24, 2009"
+description "an upside down cat."
+difficulty 1.0
+height 20
+id 7196
+link "https://webpbn.com/play.cgi?id=7196"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "upside"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 20
+blue 5 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 8
+blue 5 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 8
+blue 5 black 9 blue 6
+blue 4 black 2 blue 6 black 2 blue 6
+blue 4 black 1 red 1 blue 14
+blue 5 black 1 blue 14
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20
+blue 6 blue 11
+blue 4 blue 11
+blue 4 blue 11
+blue 5 blue 11
+blue 20
+blue 20
+
+columns
+green 1 blue 19
+green 1 blue 19
+green 1 blue 19
+green 1 blue 19
+green 1 blue 3 black 2 blue 9 blue 3
+green 1 black 4 red 1 black 1 blue 8 blue 2
+green 1 blue 2 black 1 blue 10 blue 2
+green 1 black 3 blue 10 blue 2
+green 1 blue 2 black 1 blue 10 blue 2
+green 1 black 3 blue 16
+green 1 blue 2 black 1 blue 16
+green 1 black 3 blue 16
+green 1 blue 2 black 2 blue 15
+green 1 blue 2 black 2 blue 15
+green 1 blue 19
+green 1 blue 19
+green 1 blue 19
+green 1 blue 19
+green 1 blue 19
+green 1 blue 19

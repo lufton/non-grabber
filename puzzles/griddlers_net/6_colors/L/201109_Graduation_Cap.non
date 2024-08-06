@@ -1,0 +1,76 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/19"
+height 24
+id 201109
+link "https://www.griddlers.net/nonogram/-/g/201109"
+medium_time "0:06:06"
+points 4516
+popularity 81.87
+title "Graduation Cap"
+width 29
+
+color a ffffff
+color b 666666
+color c 333333
+color d 000000
+color e ffff66
+color f cccc00
+
+rows
+b 1
+b 5
+b 9
+b 13
+b 17
+b 21
+b 13 f 2 b 10
+b 12 f 3 b 14
+b 10 f 3 b 16
+b 6 f 3 b 16
+e 2 f 2 b 17
+e 2 f 1 b 17
+e 1 f 2 d 1 b 13 d 2 c 1
+e 1 f 2 c 1 d 2 b 9 d 2 c 2 b 1
+e 1 f 2 b 1 c 2 d 2 b 5 d 2 c 2 b 3
+e 1 f 2 b 3 c 2 d 2 b 1 d 2 c 2 b 5
+e 1 f 2 b 5 c 2 d 1 c 2 b 7
+e 1 f 2 b 5 c 1 b 4
+e 1 f 2 b 3 c 1 b 3
+e 1 f 2 b 2 c 1 b 2
+e 1 f 2 b 1 c 1 b 1
+e 1 f 2 c 1 b 1
+e 1 f 2
+f 2
+
+columns
+b 2
+b 2
+b 4
+b 4
+b 5 e 13
+b 5 e 2 f 12
+b 6 f 14
+b 6 f 1 b 1 d 1 c 1 b 3
+b 6 f 1 b 3 d 1 c 1 b 2
+b 6 f 1 b 3 d 1 c 1 b 3
+b 6 f 2 b 4 d 1 c 1 b 2
+b 6 f 1 b 5 d 1 c 1 b 3
+b 6 f 2 b 6 d 1 c 1 b 3
+b 6 f 1 b 7 d 1 c 1 b 4
+b 7 f 1 b 8 d 1 c 5
+b 5 f 1 b 8 d 1 c 1 b 5
+b 5 f 1 b 8 d 1 c 1 b 3
+b 12 d 1 c 1 b 3
+b 12 d 1 c 1 b 2
+b 10 d 1 c 1 b 2
+b 10 d 1 c 1 b 2
+b 8 d 1 c 1 b 3
+b 8 d 1 c 1 b 3
+b 7 c 1 b 4
+b 6
+b 4
+b 4
+b 2
+b 2

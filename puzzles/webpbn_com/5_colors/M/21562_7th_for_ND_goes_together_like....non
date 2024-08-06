@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Apr  1, 2013"
+description "Can you guess?"
+difficulty 1.75
+height 20
+id 21562
+link "https://webpbn.com/play.cgi?id=21562"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "7th for ND goes together like..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 3 red 4 black 1
+black 2 black 1 black 1
+black 1 black 1 black 1
+red 1 black 1 red 1
+red 1 black 1
+red 1 black 1
+red 1 blue 1 black 1 blue 4
+red 1 blue 1 black 1 blue 4
+0
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 red 1 black 2 black 2 blue 1 black 2 black 2 green 1 black 2
+red 1 red 1 blue 1 blue 1 green 1 green 1
+red 1 black 2 red 1 blue 1 black 2 blue 1 green 1 black 2 green 1
+black 1 black 1 black 1
+black 2 red 1 black 2 red 1 black 2 red 1
+red 1 red 1 blue 1 red 1 green 1 red 1
+red 1 red 1 red 1
+
+columns
+0
+black 1
+black 1 black 1 red 1
+black 3 red 3 black 2
+black 2 black 1 black 1
+black 1 black 1 red 3
+black 2 red 2
+black 2 black 1
+black 1 black 1 black 1 blue 1
+red 1 black 2 red 5 black 3 blue 3 black 2
+red 1 blue 2 black 2 black 1 black 1
+red 1 black 6 black 1 black 1 red 3
+red 1 blue 2 blue 2
+black 3 red 1 blue 2 black 1
+blue 2 black 1 black 1 green 1
+blue 2 black 3 green 3 black 2
+black 2 black 1 black 1
+black 1 black 1
+green 2 red 3
+0

@@ -1,0 +1,57 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Teresa K"
+date "Mar 26, 2009"
+description "A game of square ball. Rightie is ready to catch the ball that Leftie just kicked. Unfortunately, he is going to catch the ball in an inconvenient place, because he is too close. Ouch! Poor Rightie."
+difficulty 1.75
+height 20
+id 5440
+link "https://webpbn.com/play.cgi?id=5440"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Ready!"
+width 20
+
+rows
+6
+5
+4,2
+3,1,2
+2,1,1
+1,7
+1,1
+2,1,1
+2,1
+1,1
+6,1
+1,4
+1,1,1
+4,2,1
+1,1,2,2,1
+1,2,2
+1,3
+1,4
+2,5
+6
+
+columns
+6
+5,12
+4,2,1,1,1
+3,1,1
+2,1,3
+1,1,1
+1
+2
+2
+0
+0
+0
+3
+1
+2,1,1,1
+13,2
+1,1,3
+1,1,4
+3,2,5
+6

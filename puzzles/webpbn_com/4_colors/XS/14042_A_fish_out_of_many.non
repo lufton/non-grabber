@@ -1,0 +1,38 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 20, 2011"
+description "Do ya see the bubbles?"
+difficulty 1.25
+height 8
+id 14042
+link "https://webpbn.com/play.cgi?id=14042"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "A fish out of many"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 8
+blue 1 blue 4 red 1 blue 1
+blue 1 blue 2 red 4
+blue 1 red 2 black 1 red 3
+blue 2 red 6
+blue 3 red 5
+blue 6 red 1 blue 1
+blue 8
+
+columns
+blue 8
+blue 1 blue 4
+blue 3 red 2 blue 3
+blue 3 red 3 blue 2
+blue 2 red 1 black 1 red 2 blue 2
+blue 2 red 4 blue 2
+blue 1 red 6 blue 1
+blue 2 red 4 blue 2

@@ -1,0 +1,49 @@
+by "Mark (mark.jeronimus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Mark"
+date "Oct  4, 2010"
+description "AMaz(e)ing. Created with Daedalus. Maze type is a Cavern maze (because classic mazes are too easy to solve as a PBN, try it.) Slighly more difficult than the first one."
+difficulty 1.75
+height 14
+id 10556
+link "https://webpbn.com/play.cgi?id=10556"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Amazeing #2"
+width 18
+
+rows
+1,16
+1,2,1,1
+1,2,1,6,1
+1,2,3,2,1
+2,3,2,1,1
+1,1,3,5,2
+4,2,2,1,1
+1,1,1,3,4,1
+1,2,2,1,1,1
+2,2,2,2,2
+1,2,4,3,3
+2,1,1,3,1
+1,2,2,1
+16,1
+
+columns
+14
+1,1,1,1,1
+1,1,2,1
+1,5,3,1
+1,2,3,1
+2,5,2
+3,2,1,2
+1,2,1,1,1
+2,2,5,1
+1,1,2,2,1
+1,2,3,2
+1,1,1,2,2
+1,1,7,1
+1,1,1,1,2,1
+1,2,1,2,1,1
+1,2,1,2,1
+1,1,2
+14

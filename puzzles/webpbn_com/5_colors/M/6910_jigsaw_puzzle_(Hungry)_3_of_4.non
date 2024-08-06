@@ -1,0 +1,73 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by harris harris"
+date "Oct  9, 2009"
+description "First complete all of the pieces then print them out and put them next to each other to get the whole image, like a puzzle. do not turn the pieces. I will put the whole image up as well as the answer key."
+difficulty 2.0
+height 25
+id 6910
+link "https://webpbn.com/play.cgi?id=6910"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "jigsaw puzzle (Hungry) 3 of 4"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 12 red 13
+green 11 red 14
+green 10 red 15
+green 9 red 16
+green 8 red 17
+green 7 red 18
+green 7 red 18
+green 6 red 12 red 5
+green 6 red 11 red 2 red 1
+green 6 red 11 red 2 red 1
+green 6 red 11 red 2 red 2
+green 6 red 10 red 1
+green 6 red 9 black 4
+green 7 red 7 black 2
+green 1 blue 3 green 3 red 6
+green 1 blue 3 green 4 red 4 black 1 black 1 black 1 black 1
+green 1 blue 3 green 5 red 2 black 2 black 6
+green 1 blue 3 green 5 red 1 black 1 black 1 black 2 black 1
+green 1 blue 3 green 4 red 2 black 1 black 1 black 2
+blue 2 black 1 blue 2 green 3 red 3 black 2
+blue 1 black 3 blue 1 green 2 red 5 black 1
+blue 1 black 1 blue 1 black 1 blue 1 red 7 black 1
+blue 1 black 3 blue 1 red 7 black 1 black 1
+blue 2 black 1 blue 2 red 7 black 1 black 1
+red 1 blue 1 black 1 blue 1 red 8 black 1 black 1 black 1
+
+columns
+green 19 blue 5 red 1
+green 14 blue 6 black 3 blue 2
+green 14 blue 5 black 2 blue 1 black 3
+green 14 blue 6 black 3 blue 2
+green 19 blue 5 red 1
+green 21 red 4
+green 7 red 6 green 8 red 4
+green 5 red 10 green 5 red 5
+green 4 red 12 green 2 red 7
+green 3 red 22
+green 2 red 15 black 2 red 6
+green 1 red 15 black 1 black 1 red 5
+red 15 black 10
+red 14
+red 13
+red 12 black 1
+red 11 black 1 black 2
+red 8 black 1 black 2
+red 7 black 2 black 3
+red 7 red 1 black 1 black 1 black 1
+red 8 red 2 black 4
+red 10 black 1 black 2
+red 9 black 1
+red 8 red 2 black 1
+red 11

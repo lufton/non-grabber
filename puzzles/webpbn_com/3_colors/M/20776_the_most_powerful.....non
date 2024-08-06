@@ -1,0 +1,61 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Jan  5, 2013"
+description "waterfall in North America. Niagara Falls.... (easy solve and not so neat, but I wanted to try it. tell me what you think....)"
+difficulty 2.25
+height 20
+id 20776
+link "https://webpbn.com/play.cgi?id=20776"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "the most powerful...."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 2 blue 1 black 3 black 8 black 3
+blue 2 blue 1 blue 1 black 4 black 5
+blue 5 black 3 black 4
+blue 1 blue 1 blue 2 blue 1 blue 1 black 5
+blue 1 blue 1 blue 1 blue 3 black 6
+blue 2 blue 1 blue 1 blue 2 blue 2 black 2
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 black 2
+blue 3 blue 1 blue 1 blue 2 black 1
+blue 3 blue 3 black 1
+blue 1 blue 3 blue 1 black 3 black 1
+blue 2 black 1 black 3
+blue 4 black 5
+blue 4 black 7
+blue 3 black 9
+blue 3 black 5 black 3
+blue 2 black 3 black 7
+blue 1 black 11 black 1
+blue 3 black 8 black 4
+blue 3 black 5 black 9
+
+columns
+blue 1 blue 1 blue 1
+blue 2 blue 2
+blue 1 blue 2 blue 1 blue 1
+blue 1 blue 2 blue 2
+black 1 blue 1 blue 1 blue 2
+black 1 blue 2 blue 2 blue 1 blue 1 black 1
+black 1 blue 3 blue 2 blue 1 black 2
+black 1 blue 1 blue 1 blue 1 black 3
+black 2 blue 1 blue 3 blue 1 blue 4 black 3
+black 2 blue 2 blue 1 blue 4 black 4
+black 2 blue 1 blue 2 blue 1 blue 4 black 3
+black 1 black 1 blue 3 blue 1 blue 2 black 6
+black 1 black 2 blue 1 blue 2 blue 2 black 3 black 3
+black 4 blue 1 blue 2 black 8
+black 2 black 2 blue 3 black 8 black 1
+black 2 black 2 blue 1 blue 1 black 1 black 6 black 1
+black 4 blue 4 black 1 black 3 black 4
+black 3 black 2 blue 2 black 1 black 9
+black 1 black 1 black 4 black 1 black 4 black 2
+black 1 black 1 black 1 black 1 black 2 black 6

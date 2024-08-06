@@ -1,0 +1,72 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/19/10"
+height 32
+id 97684
+link "https://www.griddlers.net/nonogram/-/g/97684"
+medium_time "0:07:43"
+points 2491
+popularity 80.83
+title "Saguaro Cactus"
+width 15
+
+color a ffffff
+color b ed7735
+color c 0a930a
+color d 86d7ff
+color e 1bd11b
+color f fff16b
+color g a0210a
+color h 8268d3
+
+rows
+d 2
+d 1 f 2 d 1 c 1
+d 1 f 2 d 1 c 2
+d 2 e 1 c 3
+e 4 c 2 c 1
+e 2 c 3 c 3
+e 3 c 2 c 3
+e 4 c 2 c 4
+e 1 e 2 c 3 c 3
+e 3 e 3 c 6
+e 4 e 3 c 6
+e 3 e 3 c 5
+e 3 e 3 c 2
+e 3 c 1 e 2 c 3
+e 2 c 1 e 3 c 3
+c 1 e 6 c 2
+c 4 e 3 c 2
+c 4 e 2 c 3
+c 1 e 2 c 2
+c 1 e 1 c 3
+e 4 c 2
+e 3 c 3
+e 3 c 2
+b 5 g 5 b 1
+b 8 g 3
+g 9
+b 5 g 4
+b 7 g 2
+b 7 g 2
+d 6 h 1
+b 6 g 1
+b 6 g 1
+
+columns
+e 1 e 1
+e 6 c 2
+e 8 c 2 b 2
+e 4 c 2 e 1 c 2 b 2 g 1 b 3
+d 2 e 1 e 1 e 1 c 2 e 1 b 2 g 1 b 3 d 1 b 2
+d 1 f 2 d 1 e 13 c 3 e 3 b 2 g 1 b 3 d 1 b 2
+d 1 f 2 d 1 e 19 b 2 g 1 b 3 d 1 b 2
+d 2 e 2 c 1 e 2 c 1 e 4 c 1 e 5 c 1 e 3 g 1 b 1 g 1 b 3 d 1 b 2
+c 22 g 1 b 1 g 2 b 2 d 1 b 2
+c 21 g 1 b 1 g 2 b 2 d 1 b 2
+c 1 c 3 c 1 c 1 c 1 g 6 h 1 g 2
+c 7 g 6
+c 8 b 1 g 1
+c 6
+c 1

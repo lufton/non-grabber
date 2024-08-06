@@ -1,0 +1,41 @@
+by "Bryan McQuary (irsponge)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bryan McQuary"
+date "Apr 28, 2014"
+description "Don't bother me"
+difficulty 1.25
+height 12
+id 24337
+link "https://webpbn.com/play.cgi?id=24337"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Shoo Fly"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 1 black 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1
+black 5
+black 1 blue 1 black 1 black 1 blue 1 black 1
+black 2 black 1 black 2
+black 1 black 3 black 1
+black 3
+black 3
+black 1
+
+columns
+black 1 black 3
+black 1 black 1 blue 1 black 1
+black 1 black 2 black 2 black 3
+black 1 red 2 black 2 black 5
+black 1 black 2 black 2 black 3
+black 1 black 1 blue 1 black 1
+black 1 black 3

@@ -1,0 +1,42 @@
+by "Samantha J (Galaxy Tiger1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Samantha J"
+date "Jul 13, 2020"
+description "HH"
+difficulty 1.25
+height 10
+id 34320
+link "https://webpbn.com/play.cgi?id=34320"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "H"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 10
+black 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 blue 1 black 1
+black 10
+
+columns
+black 10
+black 1 black 1
+black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1
+black 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 black 1
+black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1
+black 1 black 1
+black 10

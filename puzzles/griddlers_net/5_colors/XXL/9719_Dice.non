@@ -1,0 +1,122 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/7/04"
+height 50
+id 9719
+link "https://www.griddlers.net/nonogram/-/g/9719"
+medium_time "0:36:11"
+points 80533
+popularity 71.62
+title "Dice"
+width 50
+
+color a ffffff
+color b 8080ff
+color c 000000
+color d c0c0ff
+color e 000080
+
+rows
+0
+b 3
+b 5
+b 2 c 3 b 2
+b 3 c 3 b 3
+b 5 c 3 b 4
+b 6 c 2 b 5
+b 10 c 3 b 2
+b 11 c 3 b 3
+b 12 c 3 b 4
+b 14 c 2 b 6
+b 3 c 3 b 12 c 3 b 3
+b 2 c 4 b 12 c 4 b 2
+b 3 c 3 b 12 c 4 b 3
+d 1 b 2 c 2 b 13 c 3 b 2 e 2
+d 2 b 4 c 3 b 13 e 3
+d 1 c 1 d 1 b 3 c 3 b 12 e 1 c 2 e 2
+c 2 b 3 c 3 b 11 e 1 c 3 e 2 b 5 d 1
+d 1 c 1 d 1 b 2 c 2 b 11 e 2 c 3 e 2 b 9 d 2
+d 4 b 5 c 2 b 6 e 3 c 2 e 3 b 2 c 1 b 4 c 2 d 4
+d 5 b 3 c 4 b 4 e 9 b 1 c 2 b 3 c 2 b 1 d 2 c 1 d 2
+d 4 b 3 c 3 b 3 e 11 c 3 b 3 c 2 b 1 d 1 c 3 d 3
+d 5 b 2 c 3 b 2 e 12 c 2 b 4 c 1 b 1 d 2 c 3 d 4
+d 6 b 5 e 13 b 8 d 2 c 3 d 5
+d 6 b 3 e 1 c 2 e 9 c 1 e 1 b 7 d 3 c 3 d 6
+d 7 b 1 e 1 c 3 e 8 c 2 e 1 b 7 d 13
+d 8 e 1 c 3 e 7 c 3 e 1 b 6 d 15
+d 7 e 1 c 2 e 8 c 2 e 1 b 7 d 16
+d 6 e 13 b 7 d 18
+d 5 e 12 b 8 d 18
+d 5 e 11 b 9 d 18
+d 5 e 9 b 1 c 2 b 4 c 2 d 19
+d 1 c 1 d 2 e 3 c 2 e 3 b 1 c 2 b 3 c 2 b 1 d 18
+c 2 d 1 e 2 c 3 e 2 c 2 b 4 c 2 d 19
+d 3 e 2 c 2 e 2 b 1 c 2 b 4 c 1 b 1 d 18
+d 3 e 1 c 1 e 2 b 8 d 19
+d 2 e 3 e 9 d 19
+d 1 e 2 e 7 c 2 d 17
+e 1 e 1 c 2 e 4 c 2 d 16
+e 2 c 1 e 4 c 2 d 14
+e 9 d 7 c 2 d 3
+e 1 c 2 e 3 c 2 e 1 d 5 c 3 d 3
+e 1 c 2 e 3 c 2 e 1 d 4 c 3 d 2
+e 1 c 2 e 4 c 1 e 1 d 3 c 3 d 2
+e 9 d 3 c 2 d 1
+e 1 c 2 e 3 c 2 d 5
+e 1 c 2 e 3 c 2 d 4
+e 8 d 2
+0
+0
+
+columns
+b 3 d 3
+b 5 d 1 c 2 d 3
+b 2 c 1 b 3 d 1 c 2 d 5
+b 2 c 4 b 3 d 9
+b 3 c 4 b 4 d 9
+b 4 c 3 b 6 d 9
+b 9 c 4 b 3 d 9
+b 10 c 4 b 4 d 9
+b 10 c 3 b 6 d 9
+b 16 c 3 b 2 d 7 c 2 d 1
+b 16 c 4 b 3 d 7 c 1 d 2
+b 17 c 4 b 2 e 6 d 6
+b 2 c 4 b 13 c 1 b 3 e 1 c 3 e 7 d 3
+b 2 c 4 b 16 e 1 c 4 e 11
+b 2 c 3 b 16 e 2 c 3 e 6 c 3 e 2
+b 5 c 4 b 10 e 11 c 3 e 2
+b 4 c 4 b 10 e 11 c 2 e 2
+b 3 c 3 b 10 e 15
+b 6 c 4 b 4 e 15
+b 4 c 4 b 3 e 15 e 1
+b 3 c 4 b 2 e 15 b 2 e 2
+b 3 c 2 b 2 e 1 c 3 e 11 b 2 c 2 b 1 e 3
+b 5 e 1 c 4 e 6 c 2 e 2 b 1 c 4 b 1 e 2 c 1 e 1
+b 3 e 2 c 3 e 6 c 3 e 1 b 2 c 2 b 3 e 2 c 1 e 1
+b 1 e 10 c 3 e 1 b 8 e 3 c 1 e 1
+e 11 b 9 e 6
+b 2 c 2 b 13 e 5 c 1 e 1
+b 2 c 3 b 9 c 3 b 1 e 1 c 1 e 3 c 2 e 1
+b 1 c 3 b 9 c 3 b 1 d 2 c 2 e 3 c 2 e 1
+b 13 c 1 b 1 d 5 c 2 e 3 c 1 e 1
+b 13 d 8 c 1 e 6
+b 11 d 12 e 1 c 1 e 3 c 1 e 1
+b 3 c 3 b 3 d 14 e 1 c 2 e 2 c 2 e 1
+b 2 c 3 b 2 d 17 e 1 c 1 e 3 c 1 e 1
+b 2 c 1 b 2 d 20 e 1 c 1 e 4
+b 2 d 24 e 5
+d 4 c 4 d 19 e 1 c 1 e 2
+d 2 c 5 d 20 c 2 e 1
+d 2 c 4 d 21 c 1 e 1
+d 21 c 3 d 3 e 1
+d 19 c 5 d 3
+d 19 c 5 d 3
+d 25
+d 21
+d 18
+d 14
+d 11
+d 7
+d 4
+0

@@ -1,0 +1,58 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Jul 11, 2016"
+description "This one's a movie"
+difficulty 1.75
+height 25
+id 28344
+link "https://webpbn.com/play.cgi?id=28344"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "No. 3 dropped letter"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 1
+blue 3
+blue 5
+green 1 blue 4
+blue 6
+black 3
+blue 1 black 2
+black 1 black 1
+red 1 blue 3
+red 2 blue 3
+red 2 blue 2 green 1 blue 1
+red 2 blue 6
+red 2 blue 7
+red 2 blue 2 black 1 blue 1
+red 1 black 4
+blue 2 black 1 blue 1
+blue 2 black 1 blue 1
+blue 2 black 1 blue 1
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+black 5
+
+columns
+red 2
+red 2
+red 2
+red 2 blue 1
+blue 1 black 1 red 2 blue 2
+blue 3 green 1 blue 1 blue 1 red 2 blue 2 black 1
+blue 4 blue 4 black 1 blue 8 black 1
+blue 4 black 1 blue 6 black 1 blue 8 black 1
+blue 3 black 2 blue 2 green 1 blue 2 black 5 blue 5 black 1
+blue 3 black 3 blue 6 black 1 blue 8 black 1

@@ -1,0 +1,61 @@
+by "george someone (rocketman20051549)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by george someone"
+date "Aug 29, 2006"
+description "This puzzle gives the answer."
+difficulty 1.75
+height 20
+id 508
+link "https://webpbn.com/play.cgi?id=508"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Love or Hate?"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 3 blue 1 blue 5
+blue 1 blue 1 blue 2 blue 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 3
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 3 blue 3 blue 1 blue 4
+0
+0
+0
+black 2 black 2
+black 4 black 4
+black 12
+black 12
+black 12
+black 12
+black 12
+black 10
+black 8
+black 6
+black 4
+black 2
+
+columns
+blue 5
+blue 1
+blue 1
+blue 3
+blue 1 blue 1 black 5
+blue 1 blue 1 black 7
+blue 1 blue 1 black 9
+blue 3 black 10
+blue 2 black 10
+blue 2 black 10
+blue 1 black 10
+blue 2 black 10
+blue 2 black 10
+blue 5 black 9
+blue 1 blue 1 blue 1 black 7
+blue 1 blue 1 blue 1 black 5
+blue 1 blue 1
+0
+0
+0

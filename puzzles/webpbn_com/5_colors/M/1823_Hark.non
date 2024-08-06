@@ -1,0 +1,73 @@
+by "J.C. Anderson (jc.noserdna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by J.C. Anderson"
+date "Nov 15, 2007"
+description "Superworm visits with the hooka smoking caterpillar from Wonderland, when he hears a cry of distress! (Being a good superworm who doesn't give in to peer pressure, he doesn't smoke)"
+difficulty 2.0
+height 30
+id 1823
+link "https://webpbn.com/play.cgi?id=1823"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Hark!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 3
+black 3
+black 1
+black 1
+black 3
+black 3 green 2
+green 2 black 3 green 1 blue 1 green 1
+green 1 blue 1 green 1 black 5 green 4
+red 2 green 3 black 5 green 3
+red 2 green 3 black 5 green 3
+red 2 green 2 black 5 black 2 green 2
+red 2 green 3 black 3 green 1 black 1 green 2
+red 2 green 3 black 5 green 1 black 1 green 3
+red 2 green 4 red 6 black 1 red 2 black 1 green 3
+red 2 green 2 red 8 black 1 red 2 black 2 green 3
+green 2 red 9 black 4 red 2 green 2
+red 17
+red 9 red 7
+red 4 red 3 red 7
+red 3 red 3 red 2 red 3
+red 4 red 8 red 2
+red 5 red 9 red 2
+red 20
+red 8 black 1 red 5
+black 3 black 3
+black 2 black 2
+black 3 black 3
+black 2 black 3
+
+columns
+red 2 red 3
+red 4 green 1 red 6
+red 4 green 3 red 8
+red 3 green 4 red 9
+red 1 green 5 red 5 red 3 black 2
+green 8 red 4 red 2 black 4
+green 1 blue 1 green 2 red 5 red 2 black 3
+green 2 red 6 red 4 black 1
+red 11
+black 4 black 1 red 10
+black 2 black 9 red 5 red 4
+black 13 red 4 red 3
+black 2 black 12 red 1 red 3
+black 4 black 1 red 2 black 1 red 7
+red 2 black 1 red 7 black 2
+green 2 black 1 green 2 black 2 red 3 red 3 black 4
+green 1 blue 1 green 3 black 5 red 4 red 2 black 4
+green 10 red 5 red 2 black 2
+green 9 red 8
+green 4 red 7

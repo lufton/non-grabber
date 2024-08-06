@@ -1,0 +1,61 @@
+by "Pam Negri (pamnegri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Pam Negri"
+date "Feb 28, 2009"
+description ""
+difficulty 2.5
+height 20
+id 5175
+link "https://webpbn.com/play.cgi?id=5175"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "mallet"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2 red 2
+red 4 red 4
+red 6 red 6
+red 6 red 6
+red 4 black 1 black 1 red 4
+red 2 black 3 black 3 red 2
+black 3 black 3
+black 3 black 3
+black 6
+black 4
+black 4
+black 6
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 2 black 2
+
+columns
+red 2 black 2
+red 4 black 3
+red 6 black 3
+red 6 black 3
+red 4 black 1 black 3
+red 2 black 3 black 3
+black 3 black 3
+black 3 black 3
+black 6
+black 4
+black 4
+black 6
+black 3 black 3
+black 3 black 3
+red 2 black 3 black 3
+red 4 black 1 black 3
+red 6 black 3
+red 6 black 3
+red 4 black 3
+red 2 black 2

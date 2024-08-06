@@ -1,0 +1,31 @@
+by "rafal24"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10385
+link "https://www.griddlers.net/nonogram/-/g/10385"
+medium_time "0:00:19"
+points 6
+popularity 56.02
+title "Long Road to Nowhere"
+width 5
+
+color a ffffff
+color c 00ff00
+color e 00ffff
+color g 808080
+
+rows
+e 5
+c 2 g 1 c 2
+c 1 g 1 g 1 c 1
+g 5
+g 2 g 2
+
+columns
+e 1 c 2 g 2
+e 1 c 1 g 3
+e 1 g 1 g 1
+e 1 c 1 g 3
+e 1 c 2 g 2

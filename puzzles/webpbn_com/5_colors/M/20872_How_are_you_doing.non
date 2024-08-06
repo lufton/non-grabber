@@ -1,0 +1,63 @@
+by "Jessie V (Jepu)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jessie V"
+date "Jan 14, 2013"
+description "I BET YOU"RE IN LOVE!"
+difficulty 1.25
+height 20
+id 20872
+link "https://webpbn.com/play.cgi?id=20872"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "How are you doing?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 12 green 1
+black 1 blue 11 green 1
+black 1 blue 1 red 1 blue 2 red 3 blue 2 green 1
+black 1 blue 1 red 1 blue 2 red 1 red 1 blue 2 green 1
+black 1 blue 1 red 1 blue 2 red 1 red 1 blue 2 green 1
+black 1 blue 1 red 3 blue 2 red 3 blue 2 green 1
+black 1 blue 11 green 1
+black 1 blue 1 red 2 blue 1 red 2 blue 1 red 3 blue 1 green 1
+black 1 blue 1 red 1 red 1 red 1 blue 1 red 1 red 1 blue 1 green 1
+black 1 blue 1 red 1 red 1 blue 1 red 3 blue 1 green 1
+black 1 blue 2 red 1 red 1 blue 2 red 1 blue 1 green 1
+black 1 blue 3 red 1 blue 3 red 3 blue 1 green 1
+black 1 blue 11 green 1
+black 1 red 12
+0
+0
+0
+0
+0
+0
+
+columns
+0
+0
+0
+blue 1 black 13
+blue 13 red 1
+blue 2 red 4 blue 1 red 3 blue 3 red 1
+blue 2 red 1 blue 1 red 1 red 1 blue 2 red 1
+blue 2 red 1 blue 2 red 1 red 1 blue 1 red 1
+blue 7 red 1 red 1 blue 2 red 1
+blue 7 red 3 blue 3 red 1
+blue 2 red 4 blue 7 red 1
+blue 2 red 1 red 1 blue 1 red 5 blue 1 red 1
+blue 2 red 4 blue 1 red 1 red 1 red 1 blue 1 red 1
+blue 7 red 3 red 1 blue 1 red 1
+blue 13 red 1
+green 13 red 1
+0
+0
+0
+0

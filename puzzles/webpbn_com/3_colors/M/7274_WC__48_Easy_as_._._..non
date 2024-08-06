@@ -1,0 +1,56 @@
+by "AT (at1213)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by AT"
+date "Dec  1, 2009"
+description ". . . Pie, I mean pi :) [The squares (and blank space) represent 3.14159]"
+difficulty 1.75
+height 15
+id 7274
+link "https://webpbn.com/play.cgi?id=7274"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WC # 48 Easy as . . ."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 1 black 4 black 1 black 5
+black 3 black 4 black 5
+black 3 black 4 black 5
+black 4 black 5
+black 5
+0
+black 9 black 5
+black 9 black 1 red 5 black 1
+black 1 black 2 black 1 red 7 black 1
+black 1 black 1 red 7 black 1
+black 2 black 2 black 3 black 1 red 7 black 1
+black 2 black 2 black 3 black 2 red 2 red 2 black 2
+black 2 black 2 black 3 red 1
+black 2 black 2 black 3 black 1 red 3 black 1
+black 9 black 3
+
+columns
+black 3 black 3 black 5
+black 3 black 2 black 5
+black 3 black 2 black 1
+black 2 black 5
+black 2 black 5
+black 2 black 1
+black 1 black 2 black 5
+black 3 black 5
+black 4 black 9
+black 4
+black 4
+black 4 black 4
+black 1 red 3 black 1
+black 1 black 1 red 5 black 1
+black 1 red 5 red 1 black 1
+black 5 black 1 red 4 red 2 black 1
+black 5 black 1 red 5 red 1 black 1
+black 5 black 1 red 5 black 1
+black 5 black 1 red 3 black 1
+black 5 black 4

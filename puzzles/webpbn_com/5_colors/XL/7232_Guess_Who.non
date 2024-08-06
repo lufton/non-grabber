@@ -1,0 +1,91 @@
+by "Vince Cefalu (Wmpop)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Vince Cefalu"
+date "Nov 27, 2009"
+description "It's that dog from Duck Hunt! (the one who laughed every time you missed)"
+difficulty 2.75
+height 36
+id 7232
+link "https://webpbn.com/play.cgi?id=7232"
+note "published,definitely non-unique,may require some guessing"
+quality 3.25
+title "Guess Who?"
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 32
+blue 6 black 3 blue 3 red 2 blue 2 red 2 blue 3 black 3 blue 8
+blue 4 black 7 red 8 black 6 blue 3 black 2 blue 2
+blue 3 black 8 red 1 black 2 red 2 black 2 red 1 black 11 blue 2
+blue 2 black 5 blue 2 black 1 red 1 black 1 black 2 black 1 red 1 black 1 blue 2 black 7 blue 2
+blue 2 black 5 blue 2 red 1 black 1 black 1 red 1 blue 2 black 7 blue 2
+blue 1 black 5 blue 3 red 1 black 3 black 3 red 1 blue 3 black 5 blue 3
+blue 1 black 5 blue 3 red 1 black 1 black 1 black 1 black 1 red 1 blue 5 black 2 blue 4
+blue 1 black 5 blue 3 red 1 black 1 black 1 red 1 blue 11
+blue 1 black 4 blue 4 red 2 black 1 black 4 black 1 red 2 blue 11
+blue 2 black 3 blue 3 black 1 red 1 black 6 red 1 black 1 blue 10
+blue 2 black 3 blue 2 black 1 black 1 black 1 black 1 blue 9
+blue 3 black 2 blue 2 black 1 black 1 black 1 black 2 black 1 black 1 black 1 blue 9
+blue 7 black 1 black 1 black 1 black 1 black 1 black 1 blue 9
+blue 7 black 1 black 1 black 1 black 1 black 1 black 1 blue 9
+blue 5 red 2 black 1 black 1 black 1 black 2 black 1 black 1 black 1 red 2 blue 7
+blue 4 red 3 black 2 black 1 black 1 black 2 red 3 blue 6
+blue 3 red 4 black 1 black 4 black 4 black 1 red 4 blue 5
+blue 3 red 4 black 2 black 1 black 1 black 4 red 4 blue 5
+blue 2 red 4 black 1 red 1 black 2 black 3 black 3 red 2 black 3 red 4 blue 4
+blue 2 red 4 black 1 red 2 black 1 black 1 black 1 red 1 black 1 red 2 black 2 red 4 blue 4
+blue 2 red 4 black 2 red 2 black 2 black 1 black 1 red 3 black 1 red 1 black 1 red 5 blue 4
+blue 2 black 1 red 4 black 2 red 3 black 4 red 1 black 1 red 4 black 1 red 6 blue 3
+blue 2 black 1 red 5 black 3 red 7 black 1 red 4 black 2 red 4 blue 3
+blue 2 black 1 red 7 black 6 red 9 black 1 red 3 blue 3
+blue 3 black 1 red 7 black 3 red 2 black 2 red 10 black 1 blue 3
+blue 3 black 1 red 10 black 1 red 3 black 2 red 8 black 1 blue 3
+blue 3 black 1 red 11 black 1 red 4 black 1 red 6 black 2 blue 3
+blue 4 black 1 red 9 black 2 red 5 black 1 red 5 black 1 blue 4
+blue 5 black 2 red 8 black 1 red 5 black 3 red 2 black 2 blue 4
+green 1 blue 6 black 3 red 1 black 1 red 3 black 1 red 6 black 1 blue 2 green 1 blue 2 green 1 blue 3
+green 1 blue 2 green 1 blue 2 green 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1 red 1 green 1 red 2 green 1 red 2 black 1 blue 1 green 2 blue 2 green 1 blue 1 green 1 blue 1
+green 2 blue 1 green 1 blue 1 green 2 black 1 green 2 black 4 red 2 green 1 red 2 green 2 red 1 green 1 blue 1 green 3 blue 1 green 4
+green 10 red 2 green 2 red 1 green 6 red 1 green 5 blue 1 green 4
+green 32
+green 32
+
+columns
+blue 30 green 6
+blue 6 black 4 blue 22 green 4
+blue 4 black 8 blue 7 red 3 black 3 blue 8 green 3
+blue 3 black 10 blue 4 red 8 black 3 blue 3 green 5
+blue 2 black 11 blue 3 red 12 black 1 blue 4 green 3
+blue 2 black 7 blue 6 red 14 black 1 blue 2 green 4
+blue 1 black 5 blue 9 red 4 black 3 red 7 black 1 blue 1 green 5
+blue 1 black 3 blue 7 black 8 red 2 black 2 red 7 black 3 green 3
+blue 1 black 3 blue 6 black 1 black 1 black 2 red 2 black 2 red 6 black 1 red 1 green 4
+blue 2 black 3 red 5 black 1 black 1 black 1 black 2 red 2 black 1 red 6 black 2 green 4
+blue 2 black 2 red 1 black 4 red 1 black 1 black 1 black 1 black 1 red 1 black 2 red 6 black 2 red 1 green 2
+blue 2 red 2 black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 red 2 black 2 red 4 black 1 red 1 black 1 red 1 green 2
+blue 1 red 2 black 1 black 1 black 1 black 1 black 1 black 4 black 1 red 1 black 2 red 5 black 2 green 3
+blue 1 red 2 black 1 black 1 black 3 black 1 black 1 black 1 red 1 black 2 red 6 black 1 green 3
+blue 2 red 2 black 1 black 2 black 1 black 1 black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 2 green 2
+blue 2 red 2 black 1 black 2 black 1 black 1 black 1 red 1 black 1 red 2 black 4 red 2 green 3
+blue 1 red 2 black 1 black 1 black 3 black 1 black 1 black 1 red 3 black 1 red 5 green 5
+blue 1 red 2 black 1 black 1 black 1 black 1 black 1 black 4 red 1 black 1 red 2 black 1 red 7 green 3
+blue 2 red 2 black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 red 3 black 1 red 2 black 1 red 6 green 3
+blue 2 black 2 red 1 black 4 red 1 black 1 black 1 black 2 red 1 black 1 red 5 black 1 red 4 green 5
+blue 2 black 3 red 5 black 1 black 1 black 2 red 2 black 1 red 5 black 1 red 4 green 4
+blue 1 black 3 blue 6 black 1 black 1 black 2 red 8 black 2 red 4 green 2
+blue 1 black 3 blue 7 black 12 red 6 black 3 green 4
+blue 1 black 5 blue 9 red 4 black 2 red 2 black 1 red 5 black 1 blue 3 green 3
+blue 2 black 5 blue 8 red 8 black 1 red 6 blue 1 green 5
+blue 3 black 4 blue 9 red 8 black 1 red 5 green 6
+blue 3 black 5 blue 9 red 12 black 1 blue 2 green 4
+blue 3 black 5 blue 11 red 8 black 3 blue 4 green 2
+blue 2 black 5 blue 15 red 3 black 3 blue 2 green 6
+blue 2 black 4 blue 26 green 4
+blue 31 green 5
+blue 32 green 4

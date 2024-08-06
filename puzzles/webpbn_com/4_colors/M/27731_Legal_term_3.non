@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 27731
+link "https://webpbn.com/play.cgi?id=27731"
+note "published,may be unique,definitely line/color solvable"
+quality 2.75
+title "Legal term 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2
+green 4
+green 5
+green 5 black 2
+green 4 black 4
+green 2 black 7
+black 8
+black 8
+black 1 black 3
+black 2 black 2
+black 2 black 2 black 2
+red 6 black 2 black 2
+red 1 red 4 black 1 black 2
+red 3 red 2 black 2 black 2
+red 5 black 3
+red 6 black 1
+red 3 red 2
+red 1 red 3
+red 1
+0
+
+columns
+0
+0
+red 3 red 3
+red 1 red 4
+green 2 black 1 red 7
+green 4 black 1 red 2 red 2 red 2
+green 5 red 7
+green 5 black 2 red 6
+green 4 black 4
+green 2 black 7
+black 5 black 2
+black 4 black 2
+black 3 black 3
+black 3 black 2
+black 2 black 2
+black 2 black 2
+black 1 black 2
+black 2 black 2
+black 3
+black 1

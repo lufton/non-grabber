@@ -1,0 +1,62 @@
+by "kwanlu (kwanlu)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by kwanlu"
+date "Jan 27, 2012"
+description "you'd see my achy, breaky thumb. And some blue language!"
+difficulty 3.0
+height 20
+id 17381
+link "https://webpbn.com/play.cgi?id=17381"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "If I had a hammer..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1 blue 2
+blue 2 red 1 red 2 red 1 red 2 blue 2
+blue 1 blue 1 red 1 red 2 red 1 blue 2
+blue 1 blue 1 red 1 blue 2
+black 10 blue 1 red 1 red 1 blue 2
+black 1 blue 2
+black 1 black 1 black 1 red 5 red 1 blue 2
+black 1 black 1 black 1 red 1 red 1 blue 2
+black 1 black 1 black 1 red 1 red 1 red 1 blue 2
+black 1 black 1 black 1 red 1 red 1 red 1 blue 2
+black 1 black 1 black 1 red 1 red 1 red 1 blue 2
+black 1 black 1 black 1 red 1 red 1 red 1 blue 2
+black 1 black 1 black 1 red 5 red 1 blue 2
+black 1 blue 2
+black 10 blue 1 blue 2
+blue 2 blue 2
+blue 2 blue 1 red 1 red 1 blue 2
+blue 1 blue 1 red 1 red 1 red 1
+blue 2 blue 1 blue 1 blue 2
+blue 1 red 1 blue 2
+
+columns
+black 1 black 7 black 1 blue 1 blue 1
+black 1 black 1 blue 1 blue 1
+black 1 black 7 black 1 blue 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 7 black 1 blue 2
+blue 2 black 1 black 1 blue 1
+black 1 red 7 black 1
+red 1 black 1 red 1 red 1 black 1 red 1 red 1
+red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 1 red 1 red 1 black 1 red 1
+red 1 blue 1 black 1 red 1 red 1 black 1 red 1
+red 5 red 1
+red 1 blue 2 blue 2
+red 1 red 1 blue 1
+red 2 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1
+0
+blue 17 blue 2
+blue 17 blue 2

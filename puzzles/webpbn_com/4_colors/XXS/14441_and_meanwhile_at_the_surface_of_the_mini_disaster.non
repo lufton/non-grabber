@@ -1,0 +1,32 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jun  9, 2011"
+description "a life raft floats in the darkness"
+difficulty 1.0
+height 5
+id 14441
+link "https://webpbn.com/play.cgi?id=14441"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "and meanwhile at the surface of the mini disaster"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 2
+black 2 black 2
+black 3
+black 3 red 2
+blue 5
+
+columns
+black 2 black 1 blue 1
+black 3 blue 1
+black 1 black 2 blue 1
+black 3 red 1 blue 1
+black 1 red 1 blue 1

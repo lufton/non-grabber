@@ -1,0 +1,68 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/6/06"
+height 30
+id 39558
+link "https://www.griddlers.net/nonogram/-/g/39558"
+medium_time "0:03:25"
+points 367
+popularity 63.63
+title "Lighthouse"
+width 15
+
+color a 0066cc
+color b ffffff
+color c 000000
+color d ff0000
+color e ffcc00
+color g 00ffff
+
+rows
+e 1
+e 2
+e 3
+e 4
+c 1 e 5
+c 1 e 1 c 1 e 6
+c 1 e 3 c 1 e 7
+c 1 e 3 c 1 e 8
+c 5 e 7
+c 1 b 4 e 6
+c 2 b 3 e 5
+c 3 b 2 e 4
+b 1 c 3 b 1 e 3
+b 2 c 3 e 2
+b 3 c 2 e 1
+c 1 b 3 c 1
+c 2 b 3
+c 3 b 2
+b 1 c 3 b 1
+b 2 c 3
+b 3 c 2
+c 1 b 3 c 1
+c 2 b 3
+c 3 b 2
+b 1 c 3 b 1
+b 2 c 3
+b 3 c 2 g 3
+b 4 c 1 g 5 g 2
+d 7 g 7
+d 9 g 6
+
+columns
+d 1
+d 2
+c 6 b 3 c 3 b 3 c 3 b 4 d 2
+c 1 e 2 c 1 b 1 c 3 b 3 c 3 b 3 c 3 b 3 d 2
+c 1 e 3 c 1 b 2 c 3 b 3 c 3 b 3 c 3 b 2 d 2
+c 1 e 2 c 1 b 3 c 3 b 3 c 3 b 3 c 3 b 1 d 2
+c 3 b 4 c 3 b 3 c 3 b 3 c 3 d 2
+e 1 g 1 d 2
+e 3 g 3 d 1
+e 5 g 4
+e 7 g 4
+e 9 g 3
+e 11 g 2
+e 13 g 3
+e 15 g 3

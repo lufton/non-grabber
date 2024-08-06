@@ -1,0 +1,57 @@
+by "Nathan (SirMoose)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Nathan"
+date "Dec  7, 2011"
+description "A Christmas tree is falling over!"
+difficulty 3.25
+height 20
+id 16668
+link "https://webpbn.com/play.cgi?id=16668"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Christmas Tragedy"
+width 20
+
+rows
+2,2,2
+2,2,2,2
+2,2,2,2
+2,2,2,1,4
+2,2,6,2
+1,2,6,2,1
+2,6,2,4
+2,4,2,2,2
+3,2,2,2,1
+3,2,2,4
+2,2,2,2
+2,2,2,1
+2,2,4
+3,2,2
+5,2,1
+7,4
+5,2,2
+5,2,1
+5,3
+5
+
+columns
+1,2
+2,2,1
+2,2,2
+1,2,2,3
+2,2,3,4
+2,3,2,5
+2,3,2,5
+1,2,4,7
+2,3,2,5
+2,3,2,3
+2,4,2,2
+1,3,2,2,2
+2,3,2,2,2
+2,4,2,2,2
+3,2,2,2,1
+2,2,2,4
+4,2,4
+1,2,4
+2,4
+4

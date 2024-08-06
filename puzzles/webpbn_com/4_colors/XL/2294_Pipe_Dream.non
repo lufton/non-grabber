@@ -1,0 +1,108 @@
+by "Matt Gurney (joudas.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Matt Gurney"
+date "Feb 15, 2008"
+description "Oh, no! Looks like we got a little more then we bargained for with that pipe."
+difficulty 2.25
+height 54
+id 2294
+link "https://webpbn.com/play.cgi?id=2294"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Pipe Dream"
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 4 black 4
+black 1 black 4 black 1
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 red 1 black 1 black 2 black 1 red 1 black 1
+black 1 red 1 black 1 black 2 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 4 black 4 red 4 black 1
+black 1 red 3 red 2 red 3 black 1
+black 1 red 1 red 6 red 1 black 1
+black 2 red 2 red 2 black 2
+black 6
+black 3 black 1 green 2 black 1 black 3
+black 2 green 2 black 1 black 1 green 2 black 1 black 1 green 2 black 2
+black 1 green 4 black 2 green 2 black 2 green 4 black 1
+black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1
+black 1 green 2 black 1 green 1 black 1 green 2 black 1 green 1 black 1 green 2 black 1
+black 1 green 3 black 2 green 2 black 2 green 3 black 1
+black 2 green 8 black 2
+black 2 green 4 black 2
+black 3 black 1 green 2 black 1 black 3
+black 2 green 2 black 1 black 1 green 2 black 1 black 1 green 2 black 2
+black 1 green 4 black 2 green 2 black 2 green 4 black 1
+black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1
+black 1 green 2 black 1 green 1 black 1 green 2 black 1 green 1 black 1 green 2 black 1
+black 1 green 3 black 2 green 2 black 2 green 3 black 1
+black 2 green 8 black 2
+black 32
+black 1 black 1
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 2 green 1 green 2 green 10 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 32
+black 32
+black 1 green 3 green 1 green 2 green 8 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 3 green 1 green 2 green 8 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 3 green 1 green 2 green 8 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 3 green 1 green 2 green 8 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 3 green 1 green 2 green 8 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 3 green 1 green 2 green 8 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+black 1 green 3 green 1 green 2 green 8 black 1 green 1 black 1 green 1 black 4 green 1 black 2
+
+columns
+black 16
+black 1 green 12 black 9
+black 1 green 12 black 2 green 7
+black 1 black 2 green 7
+black 1 green 12 black 2 green 7
+black 1 black 2
+black 1 black 2 green 7
+black 1 black 2
+black 3 black 3 black 1 green 12 black 2
+black 4 black 2 green 2 black 2 black 2 green 2 black 2 black 1 green 12 black 2 green 7
+black 3 black 2 red 2 red 1 black 2 black 1 green 5 black 1 black 1 green 5 black 2 black 2 green 7
+black 1 black 2 red 2 red 5 black 1 black 1 green 2 black 1 green 2 black 1 black 1 green 2 black 1 green 2 black 2 green 12 black 2
+black 1 black 3 red 4 black 1 black 1 green 2 black 1 green 2 black 1 black 1 green 2 black 1 green 2 black 1 green 12 black 2 green 7
+black 1 black 2 red 4 black 1 black 1 green 2 black 1 green 1 black 1 black 1 green 2 black 1 green 1 black 1 green 12 black 2 green 7
+black 2 black 1 red 2 black 7 green 2 black 6 green 1 black 1 green 12 black 2 green 7
+black 7 black 1 red 2 black 1 green 15 black 1 green 12 black 2 green 7
+black 7 black 1 red 2 black 1 green 15 black 1 green 12 black 2 green 7
+black 2 black 1 red 2 black 7 green 2 black 6 green 1 black 1 green 12 black 2 green 7
+black 1 black 2 red 4 black 1 black 1 green 2 black 1 green 1 black 1 black 1 green 2 black 1 green 1 black 1 green 12 black 2 green 7
+black 1 black 3 red 4 black 1 black 1 green 2 black 1 green 2 black 1 black 1 green 2 black 1 green 2 black 1 green 12 black 2 green 7
+black 1 black 2 red 2 red 5 black 1 black 1 green 2 black 1 green 2 black 1 black 1 green 2 black 1 green 2 black 2 green 12 black 9
+black 3 black 2 red 2 red 1 black 2 black 1 green 5 black 1 black 1 green 5 black 2 black 14 green 7
+black 4 black 2 green 2 black 2 black 2 green 2 black 2 black 1 green 12 black 9
+black 3 black 3 black 1 black 14 green 7
+black 1 green 12 black 9
+black 1 black 21
+black 1 black 21
+black 1 black 21
+black 1 black 14 green 7
+black 1 green 12 black 9
+black 1 black 21
+black 16

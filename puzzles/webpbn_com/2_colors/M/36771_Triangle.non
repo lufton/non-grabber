@@ -1,0 +1,49 @@
+by "Eunho Cho (Kep1er07)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Eunho Cho"
+date "May  2, 2023"
+description "Sierpinsky"
+difficulty 1.25
+height 16
+id 36771
+link "https://webpbn.com/play.cgi?id=36771"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Triangle"
+width 16
+
+rows
+1
+2
+1,1
+4
+1,1
+2,2
+1,1,1,1
+8
+1,1
+2,2
+1,1,1,1
+4,4
+1,1,1,1
+2,2,2,2
+1,1,1,1,1,1,1,1
+16
+
+columns
+16
+1,1,1,1,1,1,1,1
+2,2,2,2
+1,1,1,1
+4,4
+1,1,1,1
+2,2
+1,1
+8
+1,1,1,1
+2,2
+1,1
+4
+1,1
+2
+1

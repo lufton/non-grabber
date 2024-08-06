@@ -1,0 +1,61 @@
+by "Jay Dickey (halodudesix)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Jay Dickey"
+date "May  1, 2007"
+description "Too bad there's no yellow... This was made for my brother, Justin, who is currently serving in Iraq"
+difficulty 1.5
+height 20
+id 860
+link "https://webpbn.com/play.cgi?id=860"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Marines"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6 red 8
+red 6 red 3 red 7
+red 8 black 2 red 10
+red 5 black 2 red 2 black 1 red 2 black 2 red 6
+red 4 black 11 red 5
+red 3 black 13 red 4
+red 3 black 2 red 2 black 5 red 2 black 2 red 4
+red 8 black 3 red 2 black 1 red 3 black 3
+red 8 black 3 red 2 black 5 red 1 black 1
+red 7 black 13
+red 6 black 1 black 6 red 4
+red 5 black 2 black 5 red 1 black 1 red 4
+red 1 black 3 red 1 black 3 black 5 red 1 black 1 red 4
+red 2 black 2 red 1 black 4 black 3 red 6
+red 1 black 1 red 1 black 1 red 2 black 4 black 1 red 7
+red 1 black 1 red 3 black 5 black 1 red 8
+red 1 black 2 red 1 black 3 red 1 black 3 red 9
+red 1 black 5 red 14
+red 2 black 4 red 2 black 2 red 10
+red 3 black 5 red 1 black 1 red 10
+
+columns
+red 20
+red 12 black 1 red 1 black 4 red 2
+red 12 black 2 red 2 black 3 red 1
+red 5 black 2 red 5 black 3 red 2 black 3
+red 4 black 3 red 9 black 4
+red 3 black 3 red 5 black 3 red 1 black 5
+red 1 black 3 red 4 black 7 red 2 black 1
+red 2 black 3 red 2 black 1 black 4 red 3 black 1
+red 1 black 1 red 1 black 6 black 4 red 1 black 1 red 1
+red 1 black 8 black 2 black 3 red 1 black 2
+red 3 black 9 black 1 red 3
+red 2 black 3 red 2 black 5 black 1 red 4
+red 1 red 1 black 3 red 3 black 6 red 5
+red 3 black 3 red 1 black 7 red 6
+red 4 black 3 red 1 black 3 red 9
+red 5 black 2 red 1 black 5 red 7
+red 8 black 2 red 10
+red 7 black 3 red 10
+red 7 black 1 red 1 black 1 red 10
+red 7 black 3 red 10

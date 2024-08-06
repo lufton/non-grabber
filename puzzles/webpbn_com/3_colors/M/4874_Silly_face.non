@@ -1,0 +1,61 @@
+by "Ugo (ugo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Ugo"
+date "Jan 30, 2009"
+description "Not sure if that's a sincere or diabolical smile..."
+difficulty 2.5
+height 20
+id 4874
+link "https://webpbn.com/play.cgi?id=4874"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Silly face"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 9
+black 4 black 2
+black 2 black 2
+black 2 black 2 black 2
+black 1 black 3 black 1 black 2 black 2
+black 1 black 1 black 2 black 2 black 1 black 1
+black 2 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 blue 2 black 1 black 1 blue 2 black 1 black 1
+black 1 black 1 blue 1 black 2 black 2 blue 2 black 2 black 1
+black 1 black 4 black 3 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 5 black 3 black 2 black 1
+black 2 black 1 black 4 black 3 black 2
+black 2 black 2 black 1 black 1
+black 2 black 2
+black 2 black 1
+black 4 black 3
+black 9
+
+columns
+black 9
+black 4 black 2
+black 2 black 2
+black 1 black 2
+black 1 black 6 black 3 black 2
+black 1 black 1 black 1 black 2 black 1
+black 1 black 1 blue 2 black 1 black 1 black 1
+black 2 black 1 blue 1 black 2 black 1 black 2
+black 1 black 4 black 2 black 1
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 4 black 2 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 1 blue 2 black 1 black 2 black 1
+black 1 black 2 blue 2 black 1 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 3 black 3 black 1
+black 2 black 2
+black 2 black 3
+black 11

@@ -1,0 +1,49 @@
+by "Jay Bee (jaybee)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jay Bee"
+date "Jul 21, 2013"
+description "Sorry it couldn't be in more detail but I only had blue, green, red, and black to make it with. The green outline is so that there is only one solution."
+difficulty 1.5
+height 13
+id 22406
+link "https://webpbn.com/play.cgi?id=22406"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Miners Best Friend"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 black 5 green 1
+green 1 red 2 black 1 blue 5 black 1 green 1
+green 1 red 2 blue 2 black 4 green 1
+green 1 black 1 blue 2 red 1 green 4
+black 1 blue 1 black 1 red 3 green 1
+black 1 blue 1 black 1 green 1 red 3 green 1
+black 1 blue 1 black 1 green 2 red 3 green 1
+black 1 blue 1 black 1 green 1 green 1 red 3 green 1
+green 1 black 1 green 1 green 1 red 3 green 1
+green 1 green 1 red 3 green 1
+green 1 red 3 green 1
+green 1 red 3
+green 1 red 2
+
+columns
+green 4 black 4 green 1
+green 1 red 2 black 1 blue 4 black 1 green 1
+green 1 red 2 blue 1 black 4 green 1
+green 1 black 1 blue 2 red 1 green 3
+black 1 blue 2 red 3 green 1
+black 1 blue 1 black 1 green 1 red 3 green 1
+black 1 blue 1 black 1 green 2 red 3 green 1
+black 1 blue 1 black 1 green 1 green 1 red 3 green 1
+black 1 blue 1 black 1 green 1 green 1 red 3 green 1
+green 1 black 1 green 1 green 1 red 3 green 1
+green 1 green 1 red 3 green 1
+green 1 red 3
+green 1 red 2

@@ -1,0 +1,72 @@
+by "Sunset Smiley (sunsetsmiley)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Sunset Smiley"
+date "Jul 24, 2008"
+description "Winnie the Pooh!!! He is licking his chops because he is hungry for honey. If we only had yellow...just pretend the white is yellow. Hope you like it. This was my first attempt at a picture oriented puzzle instead of all words."
+difficulty 2.25
+height 30
+id 3139
+link "https://webpbn.com/play.cgi?id=3139"
+note "published,definitely unique,may require some guessing"
+quality 2.5
+title "My favorite Disney character"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+blue 2 black 3 blue 10 black 3 blue 2
+blue 1 black 1 black 1 blue 8 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 8 black 1 black 1 blue 1
+blue 1 black 1 black 10 black 1 blue 1
+blue 2 black 3 black 3 blue 2
+blue 3 black 1 black 2 black 2 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1 blue 2
+blue 1 black 1 black 1 black 2 black 2 black 1 black 1 blue 1
+blue 1 black 1 black 2 black 2 black 1 blue 1
+black 1 black 4 black 1
+black 1 black 4 black 1
+black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+blue 1 black 1 black 10 black 1 blue 1
+blue 2 black 1 black 1 blue 2
+blue 3 black 14 blue 3
+blue 2 black 1 red 14 black 1 blue 2
+blue 1 black 1 red 16 black 1 blue 1
+black 1 red 18 black 1
+red 1 red 2 red 2 red 2 red 1 red 1
+red 1 red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 1
+red 1 red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 1
+red 1 red 2 red 1 red 2 red 1 red 2 red 1
+red 1 red 4 red 1 red 2 red 1 red 2 red 1 red 1
+red 1 red 4 red 1 red 2 red 1 red 2 red 1 red 1
+red 1 red 4 red 2 red 2 red 1 red 1
+red 20
+
+columns
+blue 11 black 5 blue 5 black 1 red 8
+blue 3 black 3 blue 3 black 2 black 1 blue 3 black 1 red 1 red 1
+blue 2 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 red 2 red 2 red 4
+blue 2 black 1 black 2 black 1 red 3 red 4
+blue 2 black 1 black 1 black 1 black 2 black 1 red 11
+blue 3 black 3 black 1 black 1 black 1 red 11
+blue 5 black 1 black 1 black 2 black 1 black 1 red 3 red 1
+blue 5 black 1 black 1 black 2 black 1 black 1 red 3 red 5 red 1
+blue 5 black 1 black 1 black 2 black 1 black 1 red 3 red 1
+blue 5 black 1 black 2 black 1 black 1 red 11
+blue 5 black 1 black 2 black 2 black 1 red 11
+blue 5 black 1 black 1 black 2 black 3 black 1 red 3 red 1
+blue 5 black 1 black 1 black 2 black 1 black 1 black 1 red 3 red 5 red 1
+blue 5 black 1 black 1 black 2 black 1 black 1 red 3 red 1
+blue 3 black 3 black 1 black 1 black 1 red 11
+blue 2 black 1 black 1 black 1 black 2 black 1 red 11
+blue 2 black 1 black 2 black 1 red 3 red 1
+blue 2 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 red 5 red 4
+blue 3 black 3 blue 3 black 2 black 1 blue 3 black 1 red 1 red 1
+blue 11 black 5 blue 5 black 1 red 8

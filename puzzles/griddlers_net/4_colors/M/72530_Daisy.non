@@ -1,0 +1,56 @@
+by "knocka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/29/08"
+height 18
+id 72530
+link "https://www.griddlers.net/nonogram/-/g/72530"
+medium_time "0:05:51"
+points 679
+popularity 73.3
+title "Daisy"
+width 17
+
+color a 000000
+color b ffffff
+color c ffcc00
+color d 339900
+
+rows
+c 3
+b 4 c 5 b 4
+b 2 c 3 b 2
+b 5 b 1 b 1 b 3
+b 4 b 2 b 2 b 3
+b 4 b 3 b 3 b 3
+b 3 b 4 d 1 b 3 b 3
+b 3 d 1 b 2
+d 1
+d 2 d 1
+d 3 d 1 d 1
+d 4 d 1 d 3
+d 4 d 1 d 5
+d 4 d 1 d 5
+d 4 d 1 d 4
+d 4 d 2
+d 1
+d 1
+
+columns
+b 2
+b 1 b 4 d 2
+b 1 b 4 d 5
+b 1 b 3 d 7
+b 4 b 2 d 7
+b 2 b 3 d 3
+c 1 b 4 d 1
+c 3 b 4
+c 3 d 12
+c 3 b 4 d 1
+c 1 b 4 d 2
+b 2 b 3 d 3
+b 4 d 3
+b 1 b 3 d 4
+b 1 b 3 d 3
+b 1 b 2 d 3
+b 1

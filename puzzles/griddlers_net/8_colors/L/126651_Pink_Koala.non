@@ -1,0 +1,82 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/12/12"
+height 27
+id 126651
+link "https://www.griddlers.net/nonogram/-/g/126651"
+medium_time "0:20:58"
+points 29776
+popularity 85.72
+title "Pink Koala"
+width 30
+
+color a 92bff6
+color b bd656b
+color c ffbabd
+color d e78a8c
+color e ffffff
+color f e7e7e7
+color g 6b696b
+color h 212421
+
+rows
+b 5 b 5
+b 2 c 4 d 1 b 1 b 8 b 1 d 1 c 3 d 1 b 2
+b 1 c 3 d 1 c 1 d 1 c 1 d 1 b 2 d 8 b 2 d 1 c 2 d 3 c 1 d 1 b 1
+b 1 d 6 b 1 d 2 c 7 d 3 b 1 d 6 b 1
+b 1 c 2 d 1 e 2 d 1 b 1 d 1 c 11 d 2 b 1 d 1 e 2 d 3 b 1
+b 1 d 1 e 1 f 1 e 1 f 1 b 1 d 1 c 9 d 4 b 1 f 3 e 1 d 1 b 1
+b 1 d 2 e 1 f 1 b 1 c 11 d 5 b 1 f 1 e 1 d 1 c 1 b 1
+b 1 d 1 e 1 f 2 b 1 c 10 d 4 c 1 d 1 b 1 f 2 e 1 c 1 b 1
+b 1 d 1 e 1 f 1 b 1 c 2 d 3 c 4 d 4 c 1 d 2 b 1 f 1 e 1 d 1 b 1
+b 1 c 1 d 1 e 1 b 1 c 2 d 1 g 2 d 2 c 2 d 2 g 2 d 1 c 1 d 1 b 1 e 1 d 1 c 1 b 1
+b 1 c 1 d 2 b 1 c 1 d 1 g 1 h 1 d 2 g 2 d 2 g 1 h 1 d 2 b 1 d 2 c 1 b 1
+b 4 c 1 d 1 c 1 d 3 g 1 h 1 d 6 b 4
+b 1 c 1 d 4 h 1 g 1 d 5 b 1
+b 2 d 8 b 2
+b 1 c 1 d 1 b 8 d 2 b 1
+b 1 c 2 d 1 b 1 f 6 b 1 d 1 c 1 d 1 b 1
+b 1 c 4 b 1 e 1 f 1 e 1 f 1 b 1 c 2 d 2 b 1
+b 1 d 4 b 1 e 3 f 1 b 1 d 4 b 1
+b 4 f 1 e 2 f 3 b 4
+b 1 d 1 b 1 f 1 e 4 f 3 b 1 d 1 b 1
+b 1 c 2 d 1 b 1 e 1 f 1 e 1 f 1 e 1 f 1 b 1 c 2 d 1 b 1
+b 1 c 1 d 2 b 1 f 1 e 1 f 1 e 1 f 2 b 1 c 1 d 2 b 1
+b 3 d 2 b 1 f 4 b 1 d 2 b 3
+b 1 d 1 c 1 d 1 b 1 d 1 b 6 d 1 b 1 c 3 b 1
+b 1 c 1 d 3 b 1 b 1 c 2 d 1 c 1 b 1
+b 1 d 3 b 1 b 1 c 1 d 2 b 1
+b 3 b 3
+
+columns
+b 1 b 1
+b 1 c 1 b 1 c 1 b 3
+b 1 c 1 d 1 c 1 d 3 b 2
+b 1 c 2 d 2 e 1 d 1 e 1 d 1 c 1 b 1
+b 1 c 1 d 2 e 1 f 1 e 1 f 1 e 1 d 1 c 1 b 1
+b 1 c 2 d 1 e 2 f 3 e 1 d 1 b 1
+b 1 c 1 d 3 f 1 b 4 d 1 b 1 b 2
+b 1 d 1 c 1 d 1 b 2 c 4 b 2 b 3 b 3 d 1 c 1 b 1
+b 1 d 1 b 1 d 2 c 6 b 1 b 1 c 2 d 1 b 2 c 2 b 1 c 1 d 2 b 1
+b 1 d 1 c 4 d 4 c 1 b 1 c 3 d 1 b 1 d 1 c 1 d 1 b 1 d 3 b 1
+b 1 d 1 c 4 d 1 g 2 c 1 d 1 b 1 d 2 c 1 d 1 b 2 d 3 b 1 d 2 b 1
+b 1 d 1 c 5 d 1 g 1 h 1 d 3 b 2 c 1 d 1 b 1 f 1 b 2 d 2 b 2
+b 1 d 1 c 6 d 5 b 1 f 1 b 2 f 1 e 2 f 1 b 2
+b 1 d 1 c 6 d 5 b 1 f 1 e 4 f 1 e 1 f 1 b 1
+b 1 d 1 c 7 g 2 h 1 d 1 b 1 f 2 e 4 f 2 b 1
+b 1 d 1 c 7 g 1 h 1 g 1 d 1 b 1 f 1 e 2 f 1 e 1 f 1 e 1 f 1 b 1
+b 1 d 1 c 5 d 6 b 1 f 5 e 1 f 2 b 1
+b 1 d 1 c 4 d 7 b 1 f 1 b 2 f 4 b 2
+b 1 d 2 c 1 d 4 g 2 d 3 b 2 c 1 d 1 b 1 f 1 b 2 d 2 b 2
+b 1 d 1 c 1 d 4 g 1 h 1 d 2 b 1 d 2 c 1 d 1 b 2 c 2 d 1 b 1 c 2 b 1
+b 1 d 5 c 1 d 4 b 1 d 1 c 1 d 2 b 1 d 1 c 1 d 1 b 1 c 2 d 1 b 1
+b 1 d 1 b 1 d 3 c 1 d 1 c 1 d 2 b 1 b 1 d 3 b 2 d 2 b 1 c 1 d 2 b 1
+b 1 d 1 c 1 d 1 b 2 d 4 b 2 b 3 b 3 c 2 b 1
+b 1 c 2 d 2 f 1 b 4 d 1 b 1 b 2
+b 1 c 1 d 2 e 1 f 4 e 1 d 1 b 1
+b 1 c 1 d 2 e 1 f 1 e 1 f 1 e 1 d 1 c 1 b 1
+b 1 d 4 e 1 d 1 e 1 d 1 c 1 b 1
+b 1 c 1 d 3 c 2 b 2
+b 1 d 1 b 1 d 1 b 3
+b 1 b 1

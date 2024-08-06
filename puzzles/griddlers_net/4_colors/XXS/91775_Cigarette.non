@@ -1,0 +1,31 @@
+by "kislu"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/21/10"
+height 5
+id 91775
+link "https://www.griddlers.net/nonogram/-/g/91775"
+medium_time "0:00:12"
+points 2
+popularity 37.25
+title "Cigarette"
+width 5
+
+color a ffff66
+color c c98c00
+color d ff0000
+color e ffffff
+
+rows
+0
+c 1
+c 1 c 1
+c 1 e 1
+d 4
+
+columns
+0
+d 1
+c 2 d 1
+d 1
+c 2 e 1 d 1

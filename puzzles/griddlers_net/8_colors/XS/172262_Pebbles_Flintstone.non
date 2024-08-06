@@ -1,0 +1,44 @@
+by "yawetag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/5/16"
+height 12
+id 172262
+link "https://www.griddlers.net/nonogram/-/g/172262"
+medium_time "0:01:29"
+points 74
+popularity 65.19
+title "Pebbles Flintstone"
+width 7
+
+color a ffffff
+color b f9d6b3
+color c 85b759
+color d 4eb5e5
+color e ff91c0
+color f 000000
+color g ff6311
+color h d2d8d7
+
+rows
+g 2
+g 1
+h 1 g 1 h 1
+g 5
+g 6
+g 2 b 2 g 1
+f 1 b 1 f 1 b 2
+b 4
+b 1 e 1 b 1 b 1
+c 3 b 1
+b 1 c 2 b 1 c 2
+b 2 d 1 b 2 d 1
+
+columns
+g 1
+g 3 f 1 b 1 b 2
+g 3 b 3 c 1 b 1
+h 1 g 2 b 1 f 1 b 1 e 1 c 2 d 1
+g 5 b 4 c 1 b 2
+g 1 h 1 g 3 b 1 c 2 b 1
+b 2 c 1 d 1

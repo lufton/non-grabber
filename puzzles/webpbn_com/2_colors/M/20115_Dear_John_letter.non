@@ -1,0 +1,57 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by gregg licht"
+date "Jan  9, 2021"
+description "Reaction to a "Dear John" letter. Now these may more likely be delivered by email or worse, by text."
+difficulty 2.75
+height 20
+id 20115
+link "https://webpbn.com/play.cgi?id=20115"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Dear John letter"
+width 20
+
+rows
+2,1
+2,1
+4,2,1
+3,2,2,1
+2,1,1
+9,1
+2,1,1,1
+3,1,2,2
+2,1,2,1
+1,2,2,1
+6,2,1
+3,1
+4,1
+4,4,1
+6,5,1
+10,2
+8,2
+12,4
+11,2
+10,3
+
+columns
+1,1,1,2,3
+1,1,1,1,2,3
+1,1,2,1,2,3
+2,1,2,1,3,3
+1,1,1,6
+1,1,1,6
+1,2,5
+5,5
+3,6
+2,8
+2,8
+2,11
+2,10
+1,1
+2,10
+1,2
+7,2
+1,1
+3
+3

@@ -1,0 +1,40 @@
+by "BlackWolf"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/07"
+height 8
+id 51471
+link "https://www.griddlers.net/nonogram/-/g/51471"
+medium_time "0:00:47"
+points 71
+popularity 58.75
+title "Rubber Ducky"
+width 10
+
+color a ffffff
+color b 000000
+color d ffff00
+color e ff0000
+color f 0066ff
+
+rows
+d 3
+d 1 b 1 d 1
+e 2 d 7
+d 7
+d 1 b 3 d 2
+d 5
+f 10
+f 10
+
+columns
+e 1 f 2
+d 2 e 1 f 2
+d 1 b 1 d 2 f 2
+d 6 f 2
+d 2 b 1 d 1 f 2
+d 2 b 1 d 1 f 2
+d 2 b 1 d 1 f 2
+d 4 f 2
+d 3 f 2
+f 2

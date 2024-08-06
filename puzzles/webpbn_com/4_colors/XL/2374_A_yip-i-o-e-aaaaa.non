@@ -1,0 +1,87 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Arduinna"
+date "Mar  7, 2008"
+description "The Oklahoma state flag honors more than 60 groups of Native Americans and their ancestors. The blue field comes from a flag carried by Choctaw soldiers during the civil war. The center shield is the battle shield of an Osage warrior. It is made of buffalo hide and decorated with eagle feathers. Two symbols of peace lie across the shield. One is the calumet, or peace pipe. The other is an olive branch. www.50states.com/flag/okflag.htm"
+difficulty 2.5
+height 30
+id 2374
+link "https://webpbn.com/play.cgi?id=2374"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "A yip-i-o-e-aaaaa!"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 7 green 2 blue 6 blue 15
+blue 5 green 1 blue 2 green 2 blue 3 blue 6 black 2 blue 5
+blue 5 green 5 blue 1 blue 3 black 3 blue 5
+blue 6 green 4 green 2 blue 1 black 3 blue 6
+blue 8 green 3 green 2 green 1 black 3 blue 7
+blue 8 green 2 green 1 green 2 black 3 blue 8
+blue 7 green 2 green 3 black 3 blue 7
+blue 7 green 5 green 2 green 1 black 3 blue 7
+blue 6 green 2 green 3 green 2 black 3 black 2 blue 3
+blue 6 green 2 green 2 green 2 black 2 green 1 blue 1 black 1 blue 2
+blue 5 green 4 green 5 black 1 green 2 blue 1 black 1 blue 1
+blue 5 green 3 green 3 black 1 green 2 blue 1 black 2 blue 1
+blue 5 green 5 black 1 green 3 blue 2 black 1 blue 1
+blue 5 green 4 black 1 green 3 green 2 green 1 blue 2 black 2 blue 1
+blue 2 black 1 green 1 black 3 green 4 green 2 blue 3 black 1 blue 1
+blue 1 black 1 blue 1 black 3 green 2 green 2 blue 6
+blue 1 black 2 blue 1 black 3 green 8 blue 6
+blue 1 black 1 blue 3 black 3 green 10 blue 7
+blue 1 black 2 blue 4 black 3 green 4 green 2 blue 7
+blue 1 black 2 blue 5 black 3 green 2 blue 8
+blue 1 black 1 blue 3 black 1 blue 3 black 2 green 2 blue 7
+blue 4 black 3 blue 1 black 2 blue 2 green 1 blue 7
+blue 5 black 4 blue 2 blue 11
+blue 6 black 2 blue 5 blue 2 black 1 blue 10
+blue 5 black 2 blue 3 black 2 blue 1 blue 1 black 1 blue 2 black 2 blue 8
+blue 9 black 1 blue 1 black 2 blue 1 black 1 blue 2 black 1 blue 1 black 2 blue 7
+blue 9 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 7
+blue 9 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 7
+blue 9 black 2 blue 2 black 3 blue 1 black 1 blue 1 black 3 blue 2 black 2 blue 7
+blue 9 black 2 blue 2 black 2 blue 3 black 1 blue 3 black 1 blue 4 black 1 blue 7
+
+columns
+blue 30
+blue 15 black 3 blue 9
+blue 14 black 4 blue 10
+blue 14 black 2 blue 12
+blue 14 black 1 blue 4 black 1 blue 8
+blue 1 green 2 blue 7 blue 5 black 3 blue 1 black 1 blue 5
+blue 2 green 2 blue 4 blue 4 black 4 blue 5
+green 1 blue 1 green 2 blue 2 blue 3 black 2 blue 6
+green 5 blue 1 black 2 blue 7
+blue 1 green 4 green 2 black 2 blue 3 black 2
+blue 3 green 2 green 2 green 2 black 2 blue 2 black 4
+blue 2 green 3 green 2 black 2 blue 1 black 1 blue 2
+blue 2 green 2 green 3 black 3 blue 1 black 1 blue 4
+blue 1 green 3 green 4 green 2 black 3 black 1 blue 1 black 2
+blue 1 green 2 green 1 green 2 black 3 blue 1 black 4
+green 4 green 2 black 3 black 1 black 1 blue 1
+green 4 green 2 green 2 black 2 black 1 blue 3
+green 2 green 3 black 2 blue 2 blue 1
+green 4 green 1 black 5
+green 4 black 1 green 1 green 2 blue 1 blue 1
+blue 1 green 4 black 1 green 2 green 3 blue 6
+blue 1 black 3 green 1 green 3 black 2 black 1 blue 1
+blue 2 black 3 green 7 blue 2 black 4
+blue 2 black 3 green 8 blue 3 black 1 blue 1
+blue 3 black 3 green 4 green 3 blue 1 black 2 blue 4
+blue 4 black 3 green 4 blue 3 black 2 blue 2
+blue 3 black 3 green 4 green 2 blue 3 black 2 black 1 blue 1
+blue 2 black 3 blue 1 green 5 blue 1 green 2 blue 3 black 3
+blue 1 black 3 blue 4 blue 13
+blue 1 black 2 blue 5 black 1 blue 1 blue 15
+blue 8 black 1 blue 20
+blue 8 black 1 blue 18
+blue 9 black 2 black 1 blue 16
+blue 10 black 4 blue 15
+blue 30

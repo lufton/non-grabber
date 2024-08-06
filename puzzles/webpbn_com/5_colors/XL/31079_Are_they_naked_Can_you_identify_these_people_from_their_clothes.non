@@ -1,0 +1,103 @@
+by "Ray Sthay (rayj3rd)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Ray Sthay"
+date "Apr 15, 2018"
+description "The Flinstones and the Rubbles. (Barney's outfit is off-color since there is no brown.) Yabba-Dabba-Doo!!!"
+difficulty 1.75
+height 45
+id 31079
+link "https://webpbn.com/play.cgi?id=31079"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Are they naked? Can you identify these people from their clothes?"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 35
+black 35
+black 3 red 3 black 8 red 3 black 18
+black 3 red 2 blue 1 red 2 black 4 red 2 blue 1 red 1 black 9 black 5 black 3
+black 4 red 2 blue 2 red 4 blue 2 red 2 black 10 black 1 black 4
+black 5 red 2 blue 6 red 2 black 13 black 6
+black 3 red 6 blue 2 red 5 black 19
+black 3 red 5 blue 4 red 5 black 12 black 4
+black 3 red 6 blue 2 red 6 black 11 black 3
+black 3 red 2 black 2 red 2 blue 2 red 1 black 3 red 2 black 10 black 3
+black 3 red 2 black 1 red 3 blue 2 red 1 black 2 red 3 black 9 black 4
+black 3 red 6 blue 2 red 1 black 1 red 4 black 8 black 4
+black 3 red 7 blue 1 red 4 black 1 red 1 black 8 black 5
+black 3 red 3 black 3 red 1 blue 1 red 4 black 10 black 5
+black 3 red 4 black 1 red 9 black 9 black 6
+black 3 red 8 black 3 red 3 black 9 black 6
+black 3 red 9 black 1 red 4 black 8 black 5
+black 3 red 6 black 1 red 7 black 6 black 4
+black 3 red 5 black 2 red 7 black 6 black 3
+black 4 red 13 black 6 black 3
+black 5 red 2 black 1 red 6 black 1 red 1 black 8 black 3
+black 5 red 1 black 2 red 1 black 1 red 1 black 1 red 2 black 11 black 1 black 1 black 4
+black 8 red 1 black 3 red 1 black 15 black 6
+black 35
+black 35
+green 35
+green 5 black 1 green 3 black 1 green 25
+green 6 black 1 green 1 black 1 green 26
+green 7 green 13 black 1 green 5 black 1 green 7
+green 20 black 3 green 3 black 3 green 6
+green 6 blue 3 green 10 black 3 black 1 green 1 black 1 black 3 green 5
+green 5 blue 5 green 9 black 4 green 1 black 4 green 5
+green 5 blue 5 green 10 black 4 black 4 green 6
+green 5 blue 5 green 10 black 3 black 1 black 3 green 6
+green 6 blue 3 green 10 black 3 black 3 black 3 green 5
+green 6 blue 3 green 10 black 11 green 5
+green 5 blue 5 green 9 black 11 green 5
+green 4 blue 7 green 9 black 9 green 6
+green 4 blue 7 green 9 black 9 green 6
+green 4 blue 7 green 9 black 9 green 6
+green 4 blue 7 green 9 black 6 green 1 black 2 green 6
+green 5 blue 1 green 1 blue 1 green 1 blue 2 green 9 black 1 green 1 black 1 green 1 black 2 green 2 black 1 green 6
+green 7 blue 1 green 2 blue 1 green 11 black 1 green 2 black 1 green 9
+green 35
+green 35
+
+columns
+black 25 green 20
+black 25 green 20
+black 25 green 20
+black 2 red 2 black 2 red 13 black 6 green 20
+black 2 red 3 black 1 red 14 black 5 green 12 blue 4 green 4
+black 2 red 1 blue 1 red 5 black 2 red 11 black 3 green 1 black 1 green 4 blue 3 green 2 blue 6 green 3
+black 3 red 1 blue 1 red 4 black 1 red 3 black 1 red 7 black 4 green 2 black 1 green 2 blue 11 green 4
+black 3 red 1 blue 2 red 7 black 2 red 5 black 5 green 3 green 1 blue 13 green 2
+black 4 red 1 blue 1 red 1 blue 1 red 5 black 1 red 4 black 1 red 4 black 2 green 2 black 1 green 2 blue 11 green 4
+black 4 red 1 blue 7 red 5 black 2 red 2 black 4 green 1 black 1 green 4 blue 3 green 2 blue 6 green 3
+black 4 red 1 blue 9 red 8 black 3 green 12 blue 6 green 2
+black 4 red 1 blue 1 red 1 blue 1 red 7 black 1 red 5 black 4 green 20
+black 3 red 1 blue 2 red 3 black 3 red 3 black 2 red 6 black 2 green 20
+black 3 red 1 blue 1 red 4 black 2 red 4 black 1 red 6 black 3 green 20
+black 2 red 1 blue 1 red 5 black 1 red 10 black 5 green 20
+black 2 red 3 black 1 red 6 black 2 red 7 black 4 green 20
+black 2 red 1 black 4 red 6 black 1 red 6 black 5 green 20
+black 25 green 20
+black 25 green 20
+black 25 green 5 black 2 green 2 black 3 green 8
+black 25 green 4 black 13 green 3
+black 25 green 3 black 13 green 4
+black 25 green 4 black 1 black 3 black 8 green 2
+black 17 black 5 green 5 black 1 black 1 black 7 green 4
+black 17 black 4 green 7 black 9 green 3
+black 3 black 7 black 2 black 3 green 5 black 1 black 1 black 9 green 2
+black 4 black 5 black 4 green 4 black 1 black 3 black 5 green 5
+black 4 black 4 black 3 green 3 black 13 green 4
+black 5 black 2 black 2 green 4 black 13 green 3
+black 4 black 2 black 2 black 4 green 5 black 2 green 2 black 3 green 8
+black 4 black 2 black 5 black 3 green 20
+black 3 black 4 black 8 black 4 green 20
+black 25 green 20
+black 25 green 20
+black 25 green 20

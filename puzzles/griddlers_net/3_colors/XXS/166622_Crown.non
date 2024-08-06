@@ -1,0 +1,30 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166622
+link "https://www.griddlers.net/nonogram/-/g/166622"
+medium_time "0:00:12"
+points 8
+popularity 54.37
+title "Crown"
+width 5
+
+color a ffffff
+color b ffcc00
+color c ff6600
+
+rows
+c 1 c 1 c 1
+b 1 b 1 b 1
+b 5
+b 1 b 1
+b 5
+
+columns
+c 1 b 4
+b 1 b 1
+c 1 b 2 b 1
+b 1 b 1
+c 1 b 4

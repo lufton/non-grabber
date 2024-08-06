@@ -1,0 +1,31 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wombat"
+date "Jan 16, 2014"
+description "Remember puzzle #22426? I found his grin."
+difficulty 1.0
+height 5
+id 23606
+link "https://webpbn.com/play.cgi?id=23606"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "The missing teeth"
+width 9
+
+rows
+9
+1,5,1
+1,1,1,1,1
+3,1,3
+9
+
+columns
+5
+1,2
+5
+2,1
+5
+2,1
+5
+1,2
+5

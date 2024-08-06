@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Sep 12, 2021"
+description "Hit the sack"
+difficulty 1.25
+height 20
+id 35351
+link "https://webpbn.com/play.cgi?id=35351"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "American Idiom 47"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1
+black 1
+green 1
+green 3
+green 3
+green 5
+green 5
+red 3 green 5
+red 5 green 7
+black 8 red 4 green 7
+black 8 red 5 green 7
+red 4 red 5 green 7
+black 1 black 2 red 3 green 7
+black 1 black 3 green 7
+black 4 green 5
+black 4
+black 3
+black 2
+black 1
+0
+
+columns
+black 2 black 7
+red 1 black 2 black 4
+red 2 black 2 red 1 black 4
+red 2 black 2 red 1 black 4
+red 2 black 2 red 1 black 2
+red 1 black 2 red 1
+black 2
+black 2
+red 3
+red 3
+red 4
+red 4
+red 3
+green 6
+green 10
+green 12
+black 2 green 13
+green 12
+green 10
+green 6

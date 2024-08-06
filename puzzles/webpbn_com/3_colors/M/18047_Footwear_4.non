@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Mar 25, 2012"
+description "Birkenstocks. Some would argue they are the world's ugliest shoes."
+difficulty 1.5
+height 20
+id 18047
+link "https://webpbn.com/play.cgi?id=18047"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Footwear #4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 7
+red 4 black 2 red 2
+red 7 black 2 red 2 red 1
+red 2 red 2 black 2 red 2
+red 1 black 2 red 2 red 1
+red 2 red 2 red 4
+red 15
+0
+0
+0
+0
+0
+0
+red 2
+red 2 red 2
+red 2 red 2
+red 2 red 2
+red 18
+black 18
+
+columns
+0
+red 3 red 1 black 1
+red 2 red 2 red 1 black 1
+red 1 red 1 red 1 black 1
+red 1 red 1 red 1 black 1
+red 1 red 1 red 1 black 1
+red 1 red 1 red 1 black 1
+red 1 red 1 red 1 black 1
+red 2 red 1 red 1 black 1
+red 1 red 1 red 1 black 1
+red 1 black 1 red 1 black 1 red 2 red 5 black 1
+red 2 black 1 red 1 black 1 red 2 red 5 black 1
+red 1 red 1 red 1 black 1
+red 1 red 1 red 1 black 1
+red 1 black 1 red 1 black 1 red 3 red 4 black 1
+red 1 black 1 red 1 black 1 red 3 red 4 black 1
+red 1 red 2 red 1 black 1
+red 2 red 3 red 1 black 1
+red 3 red 1 black 1
+0

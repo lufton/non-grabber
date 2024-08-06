@@ -1,0 +1,79 @@
+by "Martial (marso)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Martial"
+date "Mar  7, 2005"
+description "a snowflake"
+difficulty 2.5
+height 31
+id 178
+link "https://webpbn.com/play.cgi?id=178"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "double symmetry"
+width 27
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 1 blue 1 black 1
+black 1 blue 3 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 blue 1 black 2 blue 1 blue 1 black 2 blue 1 black 1
+black 1 blue 5 blue 5 black 1
+black 1 blue 1 black 2 blue 3 blue 3 black 2 blue 1 black 1
+black 3 black 1 blue 1 black 1 black 2 blue 1 blue 1 black 2 black 1 blue 1 black 1 black 3
+black 1 blue 3 black 3 blue 1 black 1 black 1 blue 1 blue 1 black 1 black 1 blue 1 black 3 blue 3 black 1
+black 1 blue 4 black 1 blue 2 black 1 black 1 blue 1 blue 1 black 1 black 1 blue 2 black 1 blue 4 black 1
+black 1 blue 6 black 2 black 1 blue 1 blue 1 black 1 black 2 blue 6 black 1
+black 2 blue 1 blue 3 black 2 blue 1 blue 1 black 2 blue 3 blue 1 black 2
+black 1 blue 9 blue 9 black 1
+black 1 blue 3 black 2 blue 3 blue 3 black 2 blue 3 black 1
+black 1 blue 2 black 2 black 2 blue 2 blue 2 black 2 black 2 blue 2 black 1
+black 2 black 1 blue 1 blue 1 black 1 black 2
+black 1 blue 2 black 2 black 2 blue 2 blue 2 black 2 black 2 blue 2 black 1
+black 1 blue 3 black 2 blue 3 blue 3 black 2 blue 3 black 1
+black 1 blue 9 blue 9 black 1
+black 2 blue 1 blue 3 black 2 blue 1 blue 1 black 2 blue 3 blue 1 black 2
+black 1 blue 6 black 2 black 1 blue 1 blue 1 black 1 black 2 blue 6 black 1
+black 1 blue 4 black 1 blue 2 black 1 black 1 blue 1 blue 1 black 1 black 1 blue 2 black 1 blue 4 black 1
+black 1 blue 3 black 3 blue 1 black 1 black 1 blue 1 blue 1 black 1 black 1 blue 1 black 3 blue 3 black 1
+black 3 black 1 blue 1 black 1 black 2 blue 1 blue 1 black 2 black 1 blue 1 black 1 black 3
+black 1 blue 1 black 2 blue 3 blue 3 black 2 blue 1 black 1
+black 1 blue 5 blue 5 black 1
+black 1 blue 1 black 2 blue 1 blue 1 black 2 blue 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 blue 3 black 1
+black 1 blue 1 black 1
+black 1
+
+columns
+black 2 black 2
+black 1 blue 2 black 1 black 1 black 1 black 1 blue 2 black 1
+black 1 blue 3 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 3 black 1
+black 1 blue 3 black 2 blue 2 black 1 blue 2 black 2 blue 3 black 1
+black 1 blue 5 black 1 black 1 blue 5 black 1
+black 2 blue 1 blue 2 black 1 black 1 blue 2 blue 1 black 2
+black 3 blue 2 blue 1 black 1 black 1 blue 1 blue 2 black 3
+black 1 blue 7 black 1 black 1 blue 7 black 1
+black 1 blue 1 black 5 blue 3 black 1 black 1 blue 3 black 5 blue 1 black 1
+black 1 blue 2 black 1 black 1 blue 3 black 1 black 1 blue 3 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 3 black 1 blue 3 black 1 black 1 blue 2 black 1
+black 3 blue 2 black 5 blue 1 blue 3 blue 1 black 5 blue 2 black 3
+black 1 blue 11 blue 11 black 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 11 blue 11 black 1
+black 3 blue 2 black 5 blue 1 blue 3 blue 1 black 5 blue 2 black 3
+black 1 blue 2 black 1 black 1 blue 3 black 1 blue 3 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 3 black 1 black 1 blue 3 black 1 black 1 blue 2 black 1
+black 1 blue 1 black 5 blue 3 black 1 black 1 blue 3 black 5 blue 1 black 1
+black 1 blue 7 black 1 black 1 blue 7 black 1
+black 3 blue 2 blue 1 black 1 black 1 blue 1 blue 2 black 3
+black 2 blue 1 blue 2 black 1 black 1 blue 2 blue 1 black 2
+black 1 blue 5 black 1 black 1 blue 5 black 1
+black 1 blue 3 black 2 blue 2 black 1 blue 2 black 2 blue 3 black 1
+black 1 blue 3 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 3 black 1
+black 1 blue 2 black 1 black 1 black 1 black 1 blue 2 black 1
+black 2 black 2

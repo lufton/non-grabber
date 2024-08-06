@@ -1,0 +1,85 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/18/19"
+height 40
+id 200769
+link "https://www.griddlers.net/nonogram/-/g/200769"
+medium_time "0:07:32"
+points 5754
+popularity 80.62
+title "Christmas Tree"
+width 23
+
+color a ccccff
+color b 336600
+color c ffdd00
+color d 6c3420
+color e ffffff
+
+rows
+c 3
+c 5
+c 3 c 3
+c 2 c 2
+c 3 c 3
+c 5
+c 1 b 1 c 1
+b 3
+b 3
+b 5
+b 5
+b 7
+b 7
+b 2 e 1 b 3 e 1 b 2
+e 2 b 1 e 3 b 1 e 3 b 1 e 2
+e 3 b 1 e 3 b 1 e 3
+b 7
+b 7
+b 9
+b 9
+b 11
+b 11
+b 2 e 1 b 3 e 1 b 3 e 1 b 2
+e 2 b 1 e 3 b 1 e 3 b 1 e 3 b 1 e 2
+e 3 b 1 e 3 b 1 e 3 b 1 e 3
+b 11
+b 11
+b 13
+b 13
+b 15
+b 15
+b 2 e 1 b 3 e 1 b 3 e 1 b 3 e 1 b 2
+e 2 b 1 e 3 b 1 e 3 b 1 e 3 b 1 e 3 b 1 e 2
+e 3 e 3 d 1 e 3 d 1 e 3 e 3
+d 5
+d 5
+e 6 d 5 e 7
+e 9 d 5 e 9
+e 23
+e 23
+
+columns
+e 4
+e 1 e 4
+e 2 e 4
+e 1 b 2 e 1 e 4
+e 2 b 3 e 2 e 4
+e 1 b 2 e 1 b 4 e 2 e 4
+e 2 b 3 e 2 b 7 e 2 e 3
+b 2 e 1 b 4 e 2 b 9 e 1 e 3
+c 3 b 3 e 2 b 7 e 2 b 7 e 2 e 3
+c 5 b 4 e 2 b 9 e 1 b 6 e 2 d 5 e 2
+c 3 c 3 b 7 e 2 b 7 e 2 b 7 e 2 d 4 e 2
+c 2 c 1 b 9 e 1 b 6 e 2 b 9 e 1 d 4 e 2
+c 3 c 3 b 7 e 2 b 7 e 2 b 7 e 2 d 4 e 2
+c 5 b 4 e 2 b 9 e 1 b 6 e 2 d 5 e 2
+c 3 b 3 e 2 b 7 e 2 b 7 e 2 e 3
+b 2 e 1 b 4 e 2 b 9 e 1 e 3
+e 2 b 3 e 2 b 7 e 2 e 4
+e 1 b 2 e 1 b 4 e 2 e 4
+e 2 b 3 e 2 e 4
+e 1 b 2 e 1 e 4
+e 2 e 4
+e 1 e 4
+e 4

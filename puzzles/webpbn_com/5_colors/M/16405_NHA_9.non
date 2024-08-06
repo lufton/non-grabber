@@ -1,0 +1,63 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Nov 17, 2011"
+description "New Home Adventures... Found a hummingbird feeder in one of my palm trees, cleaned it out, added fresh homemade nectar.. and voila! Now I have at least 3 different hummingbirds coming around every morning! One of them has a bright red spot on his neck that is so shiny and brilliant that it looks like he's been bedazzled! His colors are amazing. Another has a red spot on his neck too but he's not as vibrantly colored. And there's a dull gray female that comes over too. See first spoiler for the greatest hummingbird experience I've ever had in my life! And a recipe for homemade nectar :)"
+difficulty 1.5
+height 20
+id 16405
+link "https://webpbn.com/play.cgi?id=16405"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "NHA #9"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 3
+black 1 black 1
+red 9 blue 1
+red 9 blue 2
+red 1 red 1 blue 2
+red 1 red 1 blue 2 blue 1
+red 1 red 1 green 3 blue 2 blue 1
+red 5 green 5 blue 1 blue 1 blue 1
+red 5 green 1 black 1 green 4 blue 1 blue 1
+red 5 green 4 red 1 green 2 blue 2
+red 5 green 2 black 1 green 2 blue 1 blue 1
+red 5 blue 1 black 1 green 2 blue 1
+red 5 blue 1 black 1 green 4 blue 1
+red 7 blue 1 black 1 green 4
+black 1 red 3 black 1 red 3 black 1 black 1 green 6
+red 11 black 1 green 5
+red 13 black 1 green 3
+black 2 black 1
+
+columns
+red 1
+black 1 red 2
+red 2 red 2
+red 4 red 4
+red 2 red 11
+black 2 red 2 red 10
+black 3 red 2 red 7 black 1 red 2
+black 2 red 2 red 10
+red 2 red 11
+red 4 red 4
+red 2 green 3 red 2
+green 2 black 1 green 2 blue 3 black 1 red 2
+green 5 red 1
+green 4 black 3
+green 2 red 1 black 2 green 3 black 1 black 1
+blue 2 green 8 black 2
+blue 2 blue 1 green 8
+blue 2 blue 1 blue 2 green 5 black 1
+blue 2 blue 1 blue 2 blue 1 green 3
+blue 2 blue 1 blue 1 blue 1 blue 1 green 2

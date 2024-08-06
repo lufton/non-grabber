@@ -1,0 +1,57 @@
+by "Courtney (TheArcticFox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Courtney"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 18
+id 25447
+link "https://webpbn.com/play.cgi?id=25447"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "1-Up!"
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 6
+black 3 green 2 black 3
+black 2 green 2 black 2
+black 2 green 1 green 4 green 1 black 2
+black 1 green 10 black 1
+black 2 green 2 green 2 black 2
+black 1 green 1 green 1 black 1
+black 1 green 1 green 1 black 1
+black 1 green 1 green 1 black 1
+black 1 green 5 green 5 black 1
+black 1 green 2 black 10 green 2 black 1
+black 4 black 1 black 1 black 4
+black 2 black 1 black 1 black 2
+black 1 black 1
+black 2 black 2
+black 10
+0
+
+columns
+0
+black 7
+black 3 green 2 black 2
+black 2 green 2 black 4
+black 2 green 2 green 1 black 2 black 2
+black 1 green 6 black 1 black 1
+black 2 green 2 green 1 black 1 black 1
+black 1 green 2 black 3 black 1
+black 1 green 4 black 1 black 1
+black 1 green 4 black 1 black 1
+black 1 green 2 black 3 black 1
+black 2 green 2 green 1 black 1 black 1
+black 1 green 6 black 1 black 1
+black 2 green 2 green 1 black 2 black 2
+black 2 green 2 black 4
+black 3 green 2 black 2
+black 7
+0

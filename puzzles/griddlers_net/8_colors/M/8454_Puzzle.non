@@ -1,0 +1,65 @@
+by "Ratbag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/16/04"
+height 20
+id 8454
+link "https://www.griddlers.net/nonogram/-/g/8454"
+medium_time "0:05:19"
+points 2206
+popularity 55.42
+title "Puzzle"
+width 20
+
+color a 0000fe
+color b ff0000
+color c 00ff00
+color d fffe00
+color e 00ffff
+color f ff00ff
+color g ff9300
+color h 000000
+
+rows
+h 20
+d 4 h 1 h 1 f 5
+d 4 h 1 h 1 f 5
+d 4 h 1 h 1 f 4
+d 3 h 1 h 1 f 3
+d 2 h 1 h 1 f 4
+d 3 h 1 h 1 f 5
+d 4 h 1 h 1 f 5
+d 4 h 1 h 1 f 5
+d 2 h 6 h 7 f 2
+d 1 h 1 e 2 h 1 b 3 h 1 h 1 b 3 h 1 c 3 h 1 f 1
+h 1 e 3 h 1 b 4 h 1 b 4 h 1 c 4 h 1
+e 5 h 1 b 7 h 1 c 6
+e 6 h 1 b 5 h 1 c 7
+e 5 h 1 b 7 h 1 c 6
+e 4 h 1 b 4 h 1 b 4 h 1 c 5
+h 1 e 3 h 1 b 3 h 1 h 1 b 3 h 1 c 5
+g 1 h 7 h 6 c 3
+g 4 h 1 h 1 e 2 h 1 c 1 h 1
+g 4 h 1 h 1 e 3 h 1 e 1
+
+columns
+h 1 d 10 h 1 e 4 h 1 g 3
+h 1 d 9 h 1 e 6 h 1 g 2
+h 1 d 4 h 1 d 3 h 1 e 7 h 1 g 2
+h 1 d 3 h 1 h 1 d 2 h 1 e 7 h 1 g 2
+h 4 h 5 e 3 h 5
+h 1 h 1 b 2 h 1 e 1 h 1 b 2 h 1
+h 1 h 1 b 3 h 1 b 3 h 1
+h 1 h 1 b 7 h 1
+h 1 h 1 b 5 h 1
+h 1 h 1 b 3 h 1
+h 1 h 1 b 5 h 1
+h 1 h 1 b 7 h 1
+h 1 h 1 b 3 h 1 b 3 h 1
+h 1 h 1 b 2 h 1 c 1 h 1 b 2 h 1
+h 3 h 6 c 3 h 5
+h 1 f 2 h 1 h 1 f 3 h 1 c 7 h 1 e 2
+h 1 f 3 h 1 f 4 h 1 c 7 h 1 e 2
+h 1 f 8 h 1 c 8 h 1 e 1
+h 1 f 9 h 1 c 8 h 1
+h 1 f 10 h 1 c 6 h 1 e 1

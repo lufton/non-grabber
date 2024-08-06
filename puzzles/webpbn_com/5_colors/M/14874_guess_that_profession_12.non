@@ -1,0 +1,58 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 23, 2011"
+description "Tightrope walker holding a pole for balance."
+difficulty 2.25
+height 20
+id 14874
+link "https://webpbn.com/play.cgi?id=14874"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.75
+title "guess that profession #12"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 3
+black 1 black 1
+green 1 green 1
+0
+red 1
+black 3 blue 2 black 3
+black 1 blue 2 black 1
+red 2 black 1 red 6 black 1 red 2
+blue 2
+black 2 blue 3
+black 2 blue 1 blue 2
+black 2 blue 1 blue 2
+black 3 blue 1 green 2
+green 2
+black 3
+black 3
+black 2
+black 2
+black 2
+
+columns
+black 1
+red 1 black 2
+red 1 black 2
+black 3 black 2
+black 1 red 1 black 1
+black 1 black 1 red 1 black 1 green 1
+black 1 green 1 blue 2 red 1 blue 5 green 1 black 1
+black 1 red 1 blue 2 red 1 blue 2 black 1
+black 1 green 1 black 1 red 1 blue 2 black 2
+black 1 black 1 red 1 blue 2 black 1
+black 3 blue 1 green 1 black 2
+red 1 green 1 black 2
+red 1 black 2
+black 1
+0

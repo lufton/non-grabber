@@ -1,0 +1,82 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/12/17"
+height 32
+id 183416
+link "https://www.griddlers.net/nonogram/-/g/183416"
+medium_time "0:11:31"
+points 17799
+popularity 80.26
+title "Bugs Bunny"
+width 26
+
+color a 99ccff
+color b 000000
+color c cccccc
+color d ffcccc
+color e cc0000
+color f ff6b7a
+color g ffffff
+
+rows
+b 1 b 1
+b 1 c 1 b 1 b 1 c 1 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 2 c 1 b 1 b 1 c 1 d 2 c 1 b 1
+b 1 c 1 d 2 c 1 b 1 b 1 c 1 d 2 c 1 b 1
+b 1 c 1 d 2 c 1 b 1 b 1 c 1 d 2 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 3 b 3 c 3 b 1
+b 1 c 8 b 1
+b 1 c 1 g 2 c 3 g 2 c 1 b 1
+b 1 c 2 g 3 c 2 g 3 c 1 b 1
+b 1 c 3 b 2 g 1 c 2 b 2 g 1 c 2 b 1
+b 1 c 4 b 2 g 1 c 2 b 2 g 1 c 3 b 1
+g 9 c 4 g 9
+g 10 c 4 g 10
+g 12 d 2 g 12
+g 12 d 2 g 12
+g 7 e 2 g 8 e 2 g 7
+g 8 e 4 g 2 e 4 g 8
+g 9 e 8 g 9
+g 9 f 6 g 9
+g 9 f 4 g 9
+g 5 f 2 g 5
+g 10
+
+columns
+g 5
+g 7
+g 9
+b 8 g 9
+b 1 c 8 b 4 b 1 g 9
+b 1 c 1 d 6 c 4 b 2 b 1 c 1 g 9
+b 1 c 3 d 7 c 2 b 1 b 1 c 2 g 9
+b 3 c 7 d 2 c 1 b 2 c 3 g 4 e 1 g 5
+b 7 c 8 g 4 e 2 g 5
+b 2 c 2 g 2 b 2 g 5 e 2 g 4
+b 1 c 1 g 2 b 2 g 5 e 2 f 1 g 3
+b 1 c 2 g 3 c 2 g 3 e 2 f 2 g 2
+b 1 c 7 d 2 g 2 e 1 f 3 g 1
+b 2 c 8 d 2 g 2 e 1 f 3 g 1
+b 7 c 4 g 2 b 2 c 2 g 3 e 2 f 2 g 2
+b 5 c 7 d 2 c 2 g 2 b 2 g 5 e 2 f 1 g 3
+b 1 c 5 d 7 c 2 b 2 c 1 g 8 e 2 g 4
+b 1 c 1 d 6 c 4 b 2 b 1 c 3 g 4 e 2 g 5
+b 1 c 6 b 4 b 1 c 2 g 4 e 1 g 5
+b 6 b 1 c 1 g 9
+b 1 g 9
+g 9
+g 9
+g 9
+g 7
+g 5

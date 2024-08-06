@@ -1,0 +1,30 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166621
+link "https://www.griddlers.net/nonogram/-/g/166621"
+medium_time "0:00:11"
+points 9
+popularity 55.18
+title "Door"
+width 5
+
+color a ffffff
+color b cc6600
+color c 000000
+
+rows
+b 3
+b 3
+c 1 b 2
+b 3
+c 5
+
+columns
+c 1
+b 2 c 1 b 1 c 1
+b 4 c 1
+b 4 c 1
+c 1

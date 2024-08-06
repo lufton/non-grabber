@@ -1,0 +1,47 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Dec  3, 2019"
+description "about playing cards"
+difficulty 1.5
+height 20
+id 33295
+link "https://webpbn.com/play.cgi?id=33295"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "You don't know jack"
+width 10
+
+rows
+5
+1
+1
+1
+1
+1
+1
+1
+1,1
+2,2
+3
+0
+1
+1
+3
+5
+7
+7
+2,1,2
+3
+
+columns
+0
+2,3
+2,4
+1,1,4,1
+1,2,8
+10,4,1
+1,4
+1,3
+0
+0

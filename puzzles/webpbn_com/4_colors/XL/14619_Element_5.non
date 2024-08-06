@@ -1,0 +1,102 @@
+by "Jacob Dewitz (jacobitz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jacob Dewitz"
+date "Jun 15, 2011"
+description "Element 5 is boron. It burns with a characteristic green flame as shown in the picture. As a result it is commonly used to make green fireworks."
+difficulty 1.5
+height 40
+id 14619
+link "https://webpbn.com/play.cgi?id=14619"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Element 5"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 4
+green 6
+green 6
+green 8
+green 10
+green 10
+green 12
+green 14
+green 14
+green 16
+green 18
+green 18
+green 20
+green 20
+green 22
+green 22
+green 22
+green 24
+green 11 red 2 green 11
+green 11 red 2 green 11
+green 10 red 4 green 10
+green 9 red 4 green 9
+green 8 red 6 green 8
+green 8 red 6 green 8
+green 6 red 8 green 6
+green 6 red 8 green 6
+green 5 red 8 green 5
+green 5 red 6 green 5
+green 4 red 6 green 4
+green 4 red 4 green 4
+black 14
+black 3 green 7 black 4
+black 3 green 2 black 3 green 3 black 3
+black 3 green 2 black 3 green 3 black 3
+black 3 green 7 black 4
+black 3 green 7 black 4
+black 3 green 2 black 3 green 3 black 3
+black 3 green 2 black 3 green 3 black 3
+black 3 green 7 black 4
+black 14
+
+columns
+0
+0
+0
+0
+0
+0
+0
+green 4
+green 10
+green 14
+green 17
+green 19
+green 22 black 10
+green 24 black 10
+green 26 black 10
+green 21 red 3 green 3 black 1 green 8 black 1
+green 21 red 7 green 1 black 1 green 8 black 1
+green 20 red 10 black 1 green 1 black 2 green 2 black 2 green 1 black 1
+green 18 red 12 black 1 green 1 black 2 green 2 black 2 green 1 black 1
+green 18 red 12 black 1 green 1 black 2 green 2 black 2 green 1 black 1
+green 20 red 10 black 1 green 8 black 1
+green 21 red 7 green 1 black 1 green 8 black 1
+green 21 red 3 green 3 black 2 green 2 black 2 green 2 black 2
+green 26 black 10
+green 24 black 10
+green 22 black 10
+green 19
+green 17
+green 14
+green 10
+green 4
+0
+0
+0
+0
+0
+0
+0
+0
+0

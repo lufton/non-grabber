@@ -1,0 +1,37 @@
+by "shay yatim (shay3979)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by shay yatim"
+date "Dec 28, 2008"
+description ""
+difficulty 1.25
+height 10
+id 4551
+link "https://webpbn.com/play.cgi?id=4551"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "stars"
+width 10
+
+rows
+1,6,1
+10
+3,6
+2,2,2
+3,6
+10
+7,2
+6,1
+7,2
+10
+
+columns
+10
+9
+3,6
+2,5
+3,6
+10
+7,2
+3,2,1
+6,2
+10

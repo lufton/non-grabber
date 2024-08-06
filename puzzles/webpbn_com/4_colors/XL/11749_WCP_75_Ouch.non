@@ -1,0 +1,98 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kai-Uwe Zickerick"
+date "Jan 13, 2011"
+description "B&K join an evening at the Thai Boxing"
+difficulty 2.75
+height 30
+id 11749
+link "https://webpbn.com/play.cgi?id=11749"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "WCP #75 Ouch!"
+width 46
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 5 black 7
+black 7 black 9
+black 8 black 9
+black 5 black 1 black 1 black 4
+black 3 black 2 black 1 black 1 black 2
+black 3 black 1 red 3 black 1 black 2
+black 1 black 1 red 5 black 1 black 1
+black 3 black 1 red 5 black 3 black 1 black 1
+black 2 black 5 red 3 black 2 black 2 black 2
+black 2 black 2 black 1 red 2 black 1 black 1 black 2
+black 1 black 3 black 3 black 2 black 1 black 2
+black 1 black 6 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 3 black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 7 black 1 red 2 black 1 black 1 black 1
+black 4 black 6 black 7 blue 8 red 3 black 2 black 1 black 1
+black 8 black 1 blue 10 red 3 black 1 black 1 black 2
+black 7 black 5 blue 11 red 2 black 1 black 1 black 1
+black 13 black 4 blue 12 red 1 black 1 black 1 black 2
+black 1 black 1 black 4 blue 12 red 1 black 1 black 1 black 2
+black 8 black 2 blue 12 black 1 black 1 black 1
+black 8 blue 10 black 1 black 3
+red 1 black 7 blue 9 black 1 black 2
+red 8 blue 7 black 3 red 1
+red 9 blue 6 black 3 red 1
+red 10 blue 4 black 5
+red 10 blue 4 black 5
+red 10 blue 5 black 3
+red 11 blue 6
+red 11 blue 5
+
+columns
+black 4
+black 5
+black 4
+black 9 red 2
+black 2 black 3 red 5
+black 2 black 6 red 8
+black 1 black 4 black 3 red 7
+black 4 black 1 black 4 black 3 red 7
+black 6 black 1 black 1 black 3 red 7
+black 6 black 1 black 1 black 3 red 7
+black 4 black 1 black 1 black 1 black 3 red 7
+black 4 black 1 black 2 black 1 black 3 red 7
+black 3 black 2 black 1 black 5 red 7
+black 3 black 1 black 1 black 1 black 1 black 2 red 6
+black 5 black 2 black 2 black 1
+black 2 black 2 black 1
+black 1 black 1 black 1
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 2
+red 2 black 2 black 1 black 1
+red 4 black 3 black 1 black 1
+red 5 black 1 black 3 black 2
+red 5 black 3 blue 4 black 1
+red 2 blue 6
+blue 6
+blue 7
+blue 8
+blue 8
+blue 9
+blue 10
+blue 13
+red 2 blue 13
+black 3 red 3 blue 13
+black 2 black 3 red 3 blue 12
+black 6 black 2 black 4 red 4 blue 5 black 2 blue 3
+black 4 black 2 black 13 blue 2
+black 4 black 1 black 2 black 5 blue 2
+black 4 black 1 black 5
+black 5 black 1 black 13 red 2 black 2
+black 7 black 2
+black 9 black 3
+black 3 black 2 black 2
+black 2 black 3
+black 6

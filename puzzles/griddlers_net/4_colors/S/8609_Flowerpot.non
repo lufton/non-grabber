@@ -1,0 +1,51 @@
+by "iris"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/21/04"
+height 15
+id 8609
+link "https://www.griddlers.net/nonogram/-/g/8609"
+medium_time "0:08:25"
+points 1813
+popularity 56.57
+title "Flowerpot"
+width 15
+
+color a ffffff
+color b ff0000
+color c 6e9c00
+color h 5e0000
+
+rows
+b 2 b 2
+b 1 b 1 b 1
+b 1 b 1 b 2 b 2
+b 1 b 1 b 1 b 1 b 1 b 1
+b 2 c 1 b 2 b 1 b 1
+b 2 c 2 b 1 b 1 b 1
+b 1 c 2 b 2 c 1 b 2
+b 2 c 1 c 2 c 1 c 1
+c 2 c 1 c 1 c 1
+c 3 c 2 c 3
+h 14
+h 12
+h 10
+h 10
+h 10
+
+columns
+b 1 b 1
+b 3 c 1 h 1
+c 3 h 2
+b 2 b 2 c 1 h 5
+b 1 b 1 b 1 c 1 c 1 h 5
+b 1 b 1 c 3 h 5
+b 1 b 1 b 1 c 2 h 5
+b 2 b 2 c 3 h 5
+c 1 h 5
+b 2 b 2 h 5
+b 1 b 1 b 1 h 5
+b 1 b 1 c 4 h 5
+b 1 b 1 b 1 c 1 h 5
+b 2 b 2 c 2 h 2
+c 1 h 1

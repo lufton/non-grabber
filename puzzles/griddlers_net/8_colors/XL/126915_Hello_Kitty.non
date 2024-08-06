@@ -1,0 +1,110 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/21/12"
+height 45
+id 126915
+link "https://www.griddlers.net/nonogram/-/g/126915"
+medium_time "0:33:31"
+points 53577
+popularity 86.77
+title "Hello Kitty"
+width 40
+
+color a ffff99
+color b 0000cc
+color c 6699ff
+color d ff9933
+color e 993333
+color f 333333
+color g ffffff
+color h ff66cc
+
+rows
+b 7
+b 2 c 7 b 2 b 4
+b 1 c 11 b 2 b 3 c 4 b 1
+b 1 c 7 d 3 c 4 b 5 c 7 b 1
+b 1 c 7 d 5 c 15 b 1
+b 1 c 2 e 4 d 7 c 3 b 1 c 11 b 1
+b 1 c 2 e 6 d 6 c 3 b 1 f 3 c 8 b 1
+b 1 c 1 e 7 d 6 c 2 b 1 g 4 f 1 c 7 b 1
+d 3 e 3 d 2 e 3 d 4 c 2 b 1 g 5 f 1 c 7 b 1
+d 4 e 3 d 2 e 3 d 3 c 2 b 1 g 6 f 1 c 6 b 1
+d 6 e 7 c 4 b 1 g 7 f 1 c 6 b 1
+d 7 e 5 c 3 b 2 g 7 f 1 c 6 b 1
+b 3 d 6 e 4 b 4 g 9 f 1 c 5 b 1
+b 2 c 4 d 4 c 3 b 2 g 14 f 1 c 4 b 1
+b 1 c 11 b 2 g 16 f 1 c 5 b 1
+b 5 c 6 b 2 g 1 f 2 g 15 f 1 c 5 b 1
+b 2 c 2 b 6 g 3 f 2 g 9 f 2 g 4 f 1 c 5 b 1
+b 2 c 2 f 4 g 3 f 2 g 9 f 2 g 3 f 5 c 1 b 1
+b 1 c 3 f 1 g 9 d 3 g 3 f 2 g 4 f 1 c 3 b 1
+b 1 c 1 f 4 g 7 d 3 g 7 f 3 c 1 b 2
+b 1 c 3 f 1 g 19 f 3
+b 2 c 2 f 1 g 16 f 2
+b 3 f 2 g 13 f 4
+f 14
+f 1 g 5 f 1 g 2 f 1 g 5 f 1
+f 2 g 2 f 1 g 4 f 2 g 4 f 1 g 2 f 1
+f 3 g 4 f 12 g 3 f 1
+f 1 g 7 f 1 h 10 f 1 g 4 f 3
+f 1 g 7 f 1 h 10 f 1 g 7 f 1
+f 1 g 5 f 1 h 11 f 1 g 7 f 1
+f 2 g 2 f 2 h 11 f 1 g 7 f 1
+f 3 h 13 f 2 g 2 f 3
+f 1 h 14 f 4
+f 1 h 16 f 1
+f 1 h 18 f 1
+f 1 h 20 f 1
+f 1 h 1 f 2 h 2 f 2 h 11 f 2 h 1 f 1
+f 2 f 3 g 1 f 1 h 2 f 1 h 2 f 2 h 2 f 1 f 2
+f 1 g 2 f 5 g 2 f 2
+f 1 g 4 f 1 g 5 f 1
+f 1 g 3 f 1 g 4 f 1
+f 2 g 1 f 1 g 4 f 1
+f 1 g 1 f 6
+f 1 g 5 f 1
+f 5
+
+columns
+b 1
+b 3
+b 1 c 1 b 2
+b 1 c 1 b 1 c 1 b 1
+b 1 c 2 b 1 c 1 b 1
+b 1 c 3 b 1 c 1 b 1
+d 2 b 1 c 3 b 1 c 2 b 2 f 2
+d 4 c 3 b 1 f 1 c 3 b 1 f 1 g 2 f 1
+d 6 c 2 b 1 f 1 c 1 f 1 c 1 b 1 f 1 g 3 f 1 f 3
+b 2 d 6 c 2 b 1 f 3 c 2 b 1 f 1 g 3 f 1 f 1 h 2 f 1
+b 2 c 2 d 6 c 2 b 1 f 1 g 1 f 2 c 1 b 1 f 1 g 5 f 1 f 1 h 2 f 1
+b 1 c 3 e 3 d 4 c 1 b 1 g 3 f 1 g 1 f 1 b 1 f 1 g 5 f 2 h 3 f 1
+b 1 c 3 e 5 d 2 c 2 b 1 g 6 f 1 f 1 g 5 f 2 h 5 f 1
+b 1 c 3 e 8 c 1 b 1 g 7 f 2 g 5 f 2 h 6 f 1
+b 1 c 3 e 3 d 2 e 3 c 1 b 1 f 3 g 5 f 1 g 1 f 4 h 7 f 4
+b 1 c 4 e 3 d 2 e 3 b 1 g 1 f 3 g 5 f 1 g 2 f 1 h 9 f 1 g 3 f 1
+b 1 c 4 e 8 b 1 g 9 f 1 g 2 f 1 h 10 f 1 g 3 f 2
+b 1 c 4 d 1 e 6 b 1 g 10 f 1 g 2 f 1 h 11 f 1 g 2 f 1 g 1 f 1
+b 1 c 3 d 4 e 3 c 1 b 1 g 10 f 2 g 1 f 1 h 11 f 1 g 3 f 1 g 1 f 1
+b 1 c 2 d 7 c 2 b 1 g 5 d 2 g 3 f 1 g 1 f 2 h 10 f 6 g 1 f 1
+b 1 c 2 d 7 c 2 b 1 g 5 d 2 g 3 f 1 g 1 f 2 h 11 f 1 g 3 f 1 g 1 f 1
+b 1 c 2 d 7 c 1 b 1 g 6 d 2 g 3 f 2 g 1 f 1 h 11 f 1 g 3 f 1 g 1 f 1
+b 1 c 2 d 5 c 2 b 1 g 11 f 1 g 2 f 1 h 10 f 1 g 4 f 1 g 1 f 1
+b 1 c 3 d 3 c 2 b 1 g 12 f 1 g 2 f 1 h 10 f 1 g 4 f 2
+b 1 c 6 b 1 g 13 f 1 g 2 f 1 h 11 f 1 g 1 f 2
+b 1 c 5 b 1 g 7 f 3 g 4 f 1 g 1 f 6 h 7 f 2
+b 1 c 3 b 1 g 8 f 3 g 4 f 1 g 7 f 2 h 4 f 1
+b 1 c 1 b 2 g 15 f 1 f 1 g 6 f 3 h 2 f 1
+b 1 c 2 f 1 g 14 f 2 f 1 g 6 f 1 f 1 h 1 f 1
+b 1 c 2 f 1 g 12 f 1 g 1 f 2 f 1 g 5 f 1 f 1 h 1 f 1
+b 2 c 2 f 1 g 4 f 2 g 4 f 1 g 1 f 2 f 1 f 1 g 3 f 1 f 2
+b 1 c 4 f 4 c 2 f 8 f 1 g 3 f 1
+b 1 c 14 f 1 c 2 f 1 f 1 g 3 f 1
+b 1 c 15 f 1 c 1 b 1 f 3
+b 1 c 15 f 1 c 1 b 1
+b 1 c 16 b 1
+b 1 c 10 b 2 c 3 b 1
+b 1 c 8 b 1 b 3
+b 2 c 4 b 2
+b 4

@@ -1,0 +1,41 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sarah Andrews"
+date "Dec 20, 2010"
+description "For my son's 1st birthday, we went to visit his Dad (Air Force) who was away for training. His Dad asked the team if anyone could babysit for an evening. Three Marines volunteered. (Thanks, Marines!) So I've always told my son that because he was such a little whirlwind as a toddler, we had to call in the Marines."
+difficulty 1.25
+height 10
+id 11513
+link "https://webpbn.com/play.cgi?id=11513"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Send in the Marines"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 5
+black 2 green 3 black 2
+black 1 green 5 black 1
+black 1 green 5 black 1
+green 1 black 1 black 1 green 1
+green 1 black 1 black 1 green 1
+green 1 black 3 green 1
+black 2 green 5 black 2
+black 1 green 7 black 1
+black 1 green 7 black 1
+
+columns
+black 3
+black 3 green 2 black 1 green 2
+black 2 green 2 black 2 green 4
+black 1 green 3 black 1 green 3
+black 1 green 3 black 1 green 3
+black 1 green 3 black 1 green 3
+black 2 green 2 black 2 green 4
+black 3 green 2 black 1 green 2
+black 3
+0

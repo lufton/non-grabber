@@ -1,0 +1,47 @@
+by "Robert Estalella (robert.estalella)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Robert Estalella"
+date "Feb 13, 2022"
+description "Not solvable by a line solver"
+difficulty 3.25
+height 15
+id 35594
+link "https://webpbn.com/play.cgi?id=35594"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.0
+title "Pretzel"
+width 15
+
+rows
+6
+1,3,3
+2,3,2
+2,3,2
+2,1,3,2
+3,3,1
+3,3,1
+1,3,3
+2,3,3
+1,3,1,3
+2,3,1
+2,3,1
+2,2,3,1
+3,2,1
+3
+
+columns
+3
+1,2,3
+1,3,2,2
+1,3,2
+2,3,2
+3,1,3,1
+3,3,2
+3,3,1
+1,3,3
+1,3,3
+2,3,1,2
+2,3,2
+2,3,2
+3,2,1
+6

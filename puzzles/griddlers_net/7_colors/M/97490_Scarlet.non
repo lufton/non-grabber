@@ -1,0 +1,74 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/14/10"
+height 30
+id 97490
+link "https://www.griddlers.net/nonogram/-/g/97490"
+medium_time "0:11:49"
+points 7480
+popularity 78.76
+title "Scarlet"
+width 20
+
+color a ffffff
+color b 900000
+color c 660000
+color d ad0f0f
+color e ce0101
+color f 5a6e21
+color g 152100
+
+rows
+b 3
+c 2 b 1 d 2 b 1
+c 2 b 2 d 2 e 2 b 1
+c 1 b 1 e 4 b 1 e 2 b 1
+c 1 b 2 d 1 e 4 b 3
+c 1 b 2 d 1 e 4 b 3
+c 1 d 1 b 1 d 1 e 1 d 1 e 4 b 2
+c 1 d 1 b 1 d 1 e 1 d 2 e 3 b 2
+c 1 e 1 d 2 e 1 b 1 d 2 e 4 b 1
+c 1 e 2 d 1 e 1 b 2 d 2 e 4 b 1
+c 1 e 2 d 1 e 1 b 2 d 2 e 5 b 1
+c 1 e 3 b 4 d 1 e 5 b 1
+f 1 c 1 e 3 b 4 d 2 e 4 b 1
+f 2 c 3 e 1 b 4 d 5 e 1 b 1
+f 1 g 3 c 6 b 1 d 6
+f 1 g 5 c 10
+f 2 g 1 g 4 c 6 f 3
+f 1 g 1 g 1 f 3 g 1 c 1 g 1 c 3 g 2 f 2
+f 1 g 1 g 1 f 4 g 3 g 3 f 1
+f 1 g 1 g 1 f 3 g 2 g 2 f 1
+g 1 g 1 f 2 g 3 g 1 f 2
+g 1 g 1 f 2 g 2 g 1 f 2
+g 1 g 1 f 2 g 2 g 2 f 1
+g 1 f 1 g 1 g 1
+g 1 f 1 g 1 g 1
+g 1 f 1 g 1 g 1
+g 1 f 1 g 1 g 1
+g 1 f 1 g 1
+g 1 f 1 g 1
+g 2
+
+columns
+f 4 g 3
+f 3 g 3
+f 1 g 3
+f 2 g 2
+c 5 g 2
+c 1 e 4 c 2 g 8
+c 2 e 5 c 2 g 2 f 6 g 6
+c 2 d 5 e 3 c 2 g 1 f 12 g 1
+c 2 b 4 d 1 e 2 b 3 c 2 g 1 f 3 g 10
+c 1 b 3 d 2 e 1 b 5 c 3 g 1 f 1 g 4
+c 1 b 1 e 1 d 2 e 2 b 6 c 4 g 3
+c 1 b 1 e 3 d 5 b 4 c 2 g 2
+b 2 d 1 e 4 d 8 c 3 g 1
+b 1 d 2 e 9 d 3 c 3
+b 1 d 1 e 1 b 1 e 9 d 2 c 3
+b 1 e 2 b 2 e 7 d 2 c 1 f 1 g 2
+b 1 e 1 b 4 e 5 d 2 c 1 f 1 g 3
+b 7 e 4 d 1 f 2 g 5
+b 4 f 5 g 5
+f 3

@@ -1,0 +1,75 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Sarah Andrews"
+date "Oct 16, 2007"
+description "Sunset at Stonehenge"
+difficulty 1.5
+height 10
+id 1605
+link "https://webpbn.com/play.cgi?id=1605"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Dominos?"
+width 43
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 4 black 5
+red 6 black 7 black 2
+red 3 black 4 black 3 black 4 black 3 black 5 black 5
+red 2 black 5 black 3 black 4 black 3 black 5 black 5 black 4
+black 1 red 1 black 2 red 1 black 2 black 3 black 4 black 3 black 2 black 2 black 2 black 2 black 2 black 2 black 4
+black 1 red 1 black 2 red 1 black 2 black 3 black 4 black 3 black 2 black 2 black 2 black 2 black 2 black 2 black 1 black 2
+black 1 red 1 black 2 red 1 black 2 black 3 black 4 black 3 black 2 black 2 black 2 black 2 black 2 black 2 black 1 black 2
+black 1 black 2 black 2 black 3 black 4 black 3 black 2 black 2 black 2 black 2 black 5 black 1 black 2
+black 1 green 1 black 2 green 1 black 2 green 1 black 3 green 1 black 4 green 1 black 3 green 1 black 2 green 1 black 2 green 4 black 2 green 1 black 2 green 4 black 1 green 1 black 2
+black 1 green 1 black 2 green 1 black 2 green 1 black 3 green 1 black 4 green 1 black 3 green 1 black 2 green 1 black 2 green 4 black 2 green 1 black 2 green 4 black 1 green 1 black 2
+
+columns
+red 3 black 6
+red 7 green 2
+red 3 black 7
+red 2 black 8
+red 2 black 2 red 3 green 2
+red 1 black 8
+black 8
+green 2
+black 8
+black 10
+black 10
+black 2 green 2
+black 10
+black 10
+black 9
+black 9
+green 2
+black 9
+black 9
+black 8
+green 2
+black 8
+black 8
+black 2 green 2
+black 8
+black 8
+green 2
+black 4 green 2
+black 4 green 2
+green 2
+black 8
+black 8
+black 2 green 2
+black 8
+black 8
+black 1 green 2
+black 4 green 2
+black 4 green 2
+green 2
+black 7
+black 2 green 2
+black 7
+black 7

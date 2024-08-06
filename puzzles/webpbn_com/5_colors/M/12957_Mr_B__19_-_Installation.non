@@ -1,0 +1,63 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 22, 2011"
+description "There's a knock on my door. Two men say they are here to install an Internet connection. "Great," I say "but this is the wrong house. It goes on the little house over there." The look on their faces -- priceless. *this puzzle should have been made as soon as Mr. B got his computer."
+difficulty 1.5
+height 20
+id 12957
+link "https://webpbn.com/play.cgi?id=12957"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Mr B # 19 - Installation"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+black 8 blue 12
+green 8 black 1 blue 11
+green 9 black 1 blue 10
+green 10 black 1 blue 9
+black 11 blue 9
+black 1 blue 9
+black 2 black 6 black 1 blue 9
+black 1 black 1 black 1 black 1 blue 4 red 3 blue 2
+black 1 black 1 black 1 black 1 blue 3 red 5 blue 1
+black 1 black 1 black 1 black 1 blue 2 red 7
+black 1 black 1 black 1 black 1 blue 1 red 8
+black 1 black 1 black 1 black 1 blue 1 black 8
+black 1 black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 1 black 1 blue 1 black 1 black 3 black 2
+black 2 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 blue 1 black 1 black 1 black 1
+green 20
+
+columns
+blue 1 black 1 green 3 black 1 black 1 black 1 green 1
+blue 1 black 1 green 3 black 1 black 9 green 1
+blue 1 black 1 green 3 black 1 green 1
+blue 1 black 1 green 3 black 1 black 12 green 1
+blue 1 black 1 green 3 black 1 black 1 green 1
+blue 1 black 1 green 3 black 1 black 1 green 1
+blue 1 black 1 green 3 black 1 black 1 black 2 green 1
+blue 1 black 1 green 3 black 1 black 1 green 1
+blue 2 black 1 green 2 black 1 black 12 green 1
+blue 3 black 1 green 1 black 1 green 1
+blue 4 black 15 green 1
+blue 19 green 1
+blue 11 red 1 black 7 green 1
+blue 10 red 2 black 1 green 1
+blue 9 red 3 black 1 black 5 green 1
+blue 8 red 4 black 1 black 1 green 1
+blue 8 red 4 black 1 black 5 green 1
+blue 8 red 4 black 1 green 1
+blue 9 red 3 black 1 black 4 green 1
+blue 10 red 2 black 1 black 1 black 1 green 1

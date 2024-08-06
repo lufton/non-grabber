@@ -1,0 +1,72 @@
+by "Phil Cudlob (redskinsfan21)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Phil Cudlob"
+date "Jan 11, 2008"
+description "a penguin"
+difficulty 1.75
+height 34
+id 2155
+link "https://webpbn.com/play.cgi?id=2155"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Down South (easier)"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 2 blue 2 black 2
+black 2 blue 4 black 2
+black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1
+black 1 blue 6 black 1
+black 1 blue 2 red 2 blue 2 black 1
+black 1 blue 2 red 2 blue 2 black 1
+black 1 blue 6 black 1
+black 2 blue 6 black 2
+black 1 blue 1 black 1 blue 4 black 1 blue 1 black 1
+black 1 blue 3 black 4 blue 3 black 1
+black 1 blue 12 black 1
+black 1 blue 12 black 1
+black 1 blue 3 black 1 blue 4 black 1 blue 3 black 1
+black 1 blue 2 black 2 blue 4 black 2 blue 2 black 1
+black 2 blue 2 black 1 blue 6 black 1 blue 2 black 2
+black 1 blue 3 black 1 blue 6 black 1 blue 3 black 1
+black 1 blue 3 black 1 blue 2 black 2 blue 2 black 1 blue 3 black 1
+black 1 blue 2 black 1 blue 2 black 1 black 1 blue 2 black 1 blue 2 black 1
+black 1 blue 2 black 1 blue 1 black 2 black 2 blue 1 black 1 blue 2 black 1
+black 1 blue 1 black 2 blue 1 black 1 black 1 blue 1 black 2 blue 1 black 1
+black 3 blue 2 black 1 black 1 blue 2 black 3
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 2 blue 1 black 1 black 1 blue 1 black 2
+black 10
+black 1 red 1 black 2 black 2 red 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 4 black 4
+
+columns
+black 7
+black 5 blue 5 black 1
+black 1 blue 9 black 10 black 2
+black 2 blue 8 black 3 blue 8 black 3 red 1 black 1
+black 7 blue 5 black 4 blue 12 black 1 red 2 black 1
+black 2 blue 6 black 1 blue 3 black 2 blue 4 black 15
+black 2 blue 1 black 1 blue 6 black 1 blue 7 black 2 black 2
+black 1 blue 4 red 2 blue 3 black 1 blue 6 black 1 black 1
+black 1 blue 4 red 2 blue 3 black 1 blue 6 black 1 black 1
+black 2 blue 1 black 1 blue 6 black 1 blue 7 black 2 black 2
+black 2 blue 6 black 1 blue 3 black 2 blue 4 black 15
+black 7 blue 5 black 4 blue 12 black 1 red 2 black 1
+black 2 blue 8 black 3 blue 8 black 3 red 1 black 1
+black 1 blue 9 black 10 black 2
+black 5 blue 5 black 1
+black 7

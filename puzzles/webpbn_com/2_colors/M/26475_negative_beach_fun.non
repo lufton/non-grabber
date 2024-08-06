@@ -1,0 +1,57 @@
+by "W. Brayton Batson (batsonb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by W. Brayton Batson"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 26475
+link "https://webpbn.com/play.cgi?id=26475"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "negative beach fun"
+width 20
+
+rows
+3,3,3,4
+1,3,2,4
+2,1,1,4
+1,1,3,1,4
+1,2,3,2,4
+1,3,2,4
+3,4,2,1,5
+3,2,2,3,3
+3,1,2,3,2
+2,1,2,5,1
+1,1,2,3,1,1
+1,1,2,5,1,1
+2,2,7,2
+2,10,3
+2,11,3
+1,11,3
+12,2
+12,1,2
+12,2,2
+11,2,2
+
+columns
+3,8
+1,2,4,1
+1,1,3,1,2,3
+2,2,4
+1,1,2,5
+2,2,3,2,6
+3,3,2,7
+2,3,2,8
+3,2,9
+2,2,10
+1,2,11
+3,2,12
+2,2,3,9
+1,2,4,7
+1,2,4
+1,1,2,2
+7,3
+8,1,3
+10,8
+9,9

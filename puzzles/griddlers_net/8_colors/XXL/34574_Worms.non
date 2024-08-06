@@ -1,0 +1,125 @@
+by "Thomas_J"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/12/06"
+height 50
+id 34574
+link "https://www.griddlers.net/nonogram/-/g/34574"
+medium_time "0:26:18"
+points 58969
+popularity 74.59
+title "Worms"
+width 50
+
+color a 465abe
+color b ffffff
+color c bfbfff
+color d 000000
+color e fdbdbd
+color f e6a0a0
+color g 63a400
+color h 466400
+
+rows
+0
+0
+0
+b 8
+b 14
+b 17
+b 19
+b 19
+c 2 b 14 c 3
+c 17
+c 16
+d 8 c 12
+d 13
+d 5 e 6 d 5
+d 3 e 11 d 4
+d 2 e 15 d 3
+d 2 e 7 d 4 e 5 d 2
+d 5 e 2 d 7 e 5 d 3
+d 1 f 2 d 2 e 3 f 5 e 7 d 2
+d 1 f 5 e 1 f 2 b 2 f 3 e 6 d 2
+d 1 f 2 b 3 f 2 b 4 f 3 e 5 d 2
+d 1 f 2 b 3 f 1 b 6 f 3 e 4 d 2
+d 2 b 2 d 1 b 4 d 2 b 2 f 3 e 4 d 2
+d 1 b 2 d 1 b 3 d 4 b 2 f 3 e 3 d 2
+d 1 b 2 d 2 b 2 d 4 b 2 f 3 e 3 d 2
+d 1 b 1 d 2 b 2 d 4 b 2 f 3 e 3 d 1
+d 1 b 1 d 2 b 2 d 4 b 2 f 3 e 2 d 2
+d 2 b 1 d 1 b 3 d 2 b 2 f 4 e 2 d 2
+d 1 f 1 b 8 f 3 e 3 d 1
+d 1 f 1 b 2 f 1 b 3 f 4 e 2 d 2
+d 2 b 1 f 3 b 1 f 4 e 3 d 2
+d 2 d 2 f 2 e 1 f 5 e 4 d 1
+d 10 d 2 e 12 d 4
+g 9 d 5 e 12 d 6 d 2
+g 13 d 3 e 2 d 4 e 3 d 3 e 2 d 3 d 6 g 1
+g 14 d 7 e 4 d 2 e 4 d 3 d 4 g 6
+g 15 d 3 e 6 d 2 e 2 f 2 e 2 d 2 d 4 g 9
+g 15 d 1 e 11 f 4 e 2 d 5 g 12
+g 15 d 1 e 10 f 3 e 1 f 1 e 2 d 2 g 15
+g 15 d 1 e 3 f 4 e 3 f 2 e 2 f 1 e 2 d 2 g 15
+g 15 d 1 e 3 f 4 e 2 f 3 e 6 d 1 g 15
+g 14 h 1 d 1 e 3 f 8 e 7 d 4 g 12
+g 14 h 1 d 1 e 3 f 7 e 2 d 2 f 1 e 2 f 3 d 3 g 11
+g 12 h 3 d 2 e 3 f 5 e 3 d 2 f 7 d 2 h 1 g 10
+g 11 h 4 d 3 e 9 d 3 f 7 d 2 h 1 g 10
+g 11 h 5 d 3 e 7 d 2 h 1 d 2 f 6 d 2 h 1 g 10
+g 11 h 6 d 10 h 3 d 8 h 2 g 10
+g 12 h 7 d 6 h 6 d 6 h 3 g 10
+g 13 h 26 g 11
+g 15 h 22 g 13
+
+columns
+d 2 g 17
+d 2 g 17
+d 1 g 17
+d 1 g 17
+d 1 g 17
+d 1 g 17
+d 1 g 17
+d 1 g 17
+d 6 d 1 g 17
+d 3 f 4 d 3 d 2 g 16
+d 4 f 4 b 3 d 3 d 1 g 16
+d 2 e 2 d 2 f 1 b 7 d 2 d 1 g 10 h 3 g 3
+d 3 e 2 d 2 f 1 b 2 d 5 b 1 f 1 d 5 g 9 h 5 g 2
+d 2 e 5 f 1 b 4 d 4 b 1 f 1 d 5 g 8 h 6 g 1
+d 2 e 6 f 2 b 9 f 1 e 2 d 2 g 5 h 8 g 1
+d 3 e 3 d 1 e 1 f 2 b 9 f 2 e 2 d 11 h 5
+d 2 e 4 d 1 f 2 b 3 d 4 b 2 f 2 e 4 d 2 e 6 d 3 h 4
+d 2 e 4 d 1 f 1 b 3 d 6 b 2 f 2 e 3 d 2 e 7 d 3 h 3
+d 2 e 3 d 2 f 1 b 3 d 6 b 3 f 1 e 2 d 2 e 9 d 2 h 3
+d 2 e 3 d 2 f 2 b 3 d 4 b 3 f 2 e 2 d 2 e 3 f 4 e 3 d 2 h 2
+d 2 e 3 d 2 f 3 b 8 f 3 e 2 d 2 e 3 f 5 e 2 d 2 h 2
+d 2 e 3 d 2 e 1 f 4 b 4 f 5 e 2 d 1 e 4 f 5 e 2 d 2 h 2
+d 3 e 6 f 11 e 8 f 5 e 2 d 2 h 2
+d 2 e 7 f 9 e 11 f 3 e 2 d 2 h 2
+d 3 e 8 f 5 e 8 d 1 e 4 f 3 e 2 d 2 h 2
+d 2 e 19 d 3 e 3 f 3 e 3 d 1 h 3
+d 3 e 13 d 7 e 2 f 4 e 3 d 2 h 3
+b 2 c 2 d 4 e 8 d 5 d 3 e 2 f 4 e 3 d 2 h 4
+b 3 c 3 d 13 d 2 e 2 f 3 e 3 d 3 h 5
+b 4 c 3 d 8 d 2 e 2 f 2 e 4 d 4 h 4
+b 5 c 3 d 2 e 2 f 3 e 2 f 3 d 2 h 3
+b 5 c 3 d 3 e 7 f 3 d 2 h 2
+b 5 c 3 d 3 e 6 f 3 d 2 h 2
+b 6 c 3 d 5 e 2 f 4 d 2 h 2
+b 6 c 3 d 5 f 4 d 2 h 2
+b 6 c 3 d 1 g 3 d 1 f 4 d 2 h 2
+b 6 c 3 d 1 g 3 d 2 f 3 d 2 h 2
+b 6 c 3 d 2 g 3 d 6 h 2 g 1
+b 6 c 3 d 1 g 5 d 4 h 3 g 1
+b 6 c 3 d 1 g 6 h 5 g 2
+b 6 c 3 d 2 g 13
+b 5 c 2 d 1 g 14
+b 5 c 2 d 1 g 14
+b 4 c 3 d 2 g 14
+b 3 c 1 d 1 g 15
+b 2 c 1 d 1 g 15
+d 1 g 15
+d 1 g 15
+d 2 g 15
+d 1 g 16

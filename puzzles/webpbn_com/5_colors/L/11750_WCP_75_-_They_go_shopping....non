@@ -1,0 +1,83 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Jan 13, 2011"
+description "...in Tie Land."
+difficulty 2.0
+height 30
+id 11750
+link "https://webpbn.com/play.cgi?id=11750"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #75 - They go shopping..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+green 1 red 1 red 1
+blue 4 green 1 red 1 green 1 blue 7 red 3 blue 5 red 1 blue 1 red 1 blue 5
+green 1 red 1 red 1
+green 1 red 2 red 3 blue 3
+red 2 green 1 red 3 red 5
+red 2 green 2 red 1 red 3 blue 5
+red 1 green 2 red 2 red 1 green 1 red 1 red 5
+red 1 green 2 red 2 green 2 red 1 blue 1 red 1 blue 5
+green 2 red 2 green 2 red 1 red 1 blue 1 red 1 red 5
+green 1 red 2 green 2 red 2 red 1 green 1 red 1 blue 5
+red 2 green 2 red 2 green 1 red 3 red 5
+red 1 green 2 red 2 green 2 red 3 blue 5
+green 2 red 2 green 2 red 1 red 1 green 1 red 1 red 5
+green 1 red 2 green 2 red 2 red 1 blue 1 red 1 blue 5
+red 2 green 2 red 2 green 1 red 1 blue 1 red 1 red 5
+red 1 green 2 red 2 green 2 red 1 green 1 red 1 blue 5
+green 1 red 2 green 2 red 3 red 5
+red 1 green 2 red 3 blue 3
+green 1 red 1 red 3
+blue 1
+0
+green 5 black 5
+green 9 black 6
+green 11 black 7
+green 13 black 5 black 1
+green 13 black 5 black 1
+green 13 black 8
+
+columns
+blue 1
+blue 1
+blue 1 red 1 green 2 red 2 green 2 red 2
+blue 1 red 2 green 2 red 2 green 2 red 2 green 2
+green 1 green 1 red 2 green 2 red 2 green 2 red 2 green 2 red 2
+green 1 red 1 green 1 red 2 green 2 red 2 green 2 red 2 green 2 red 2 green 2
+green 1 red 1 green 2 red 2 green 2 red 2 green 2 red 2 green 2 green 3
+blue 1 red 2 green 2 red 2 green 2 red 2 green 2 green 4
+blue 1 green 1 red 2 green 2 red 2 green 2 green 5
+blue 1 green 5
+blue 1 green 6
+blue 1 green 6
+blue 1 green 6
+blue 1 green 6
+red 1 red 15 green 6
+red 6 green 1 blue 2 green 1 red 2 green 1 blue 2 green 1 red 3 green 5
+red 1 red 15 green 5
+blue 1 green 4
+blue 1 green 3
+blue 1
+blue 1
+blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 3
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 4
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 5
+blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 6
+blue 1 black 6
+blue 1 black 3 black 1
+blue 1 black 3 black 1
+blue 1 black 6

@@ -1,0 +1,82 @@
+by "Alison P Deem (Indigo1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Alison P Deem"
+date "May 29, 2016"
+description ""
+difficulty 3.0
+height 20
+id 28066
+link "https://webpbn.com/play.cgi?id=28066"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Birds on a Wire"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2
+black 2
+black 2
+black 2 green 2 black 2
+black 2 green 1 black 3 black 1
+black 2 green 3 black 1 black 2 black 2
+black 2 green 4 black 2 black 2 red 1 black 1 black 2 red 1
+black 5 green 3 black 1 black 3 red 2 black 1 black 2
+black 2 green 2 black 6 black 4 black 5
+black 2 green 3 black 4 black 1 black 2 red 1 black 3
+black 2 green 1 black 6 black 2 red 3 black 2
+black 2 black 3 black 7
+black 2 black 4 black 1 black 1 black 2
+black 2 black 9
+black 2 black 5
+black 2 black 3
+black 2
+black 2
+black 2
+black 2
+
+columns
+black 20
+black 20
+black 1
+black 1 green 1
+black 1 green 2
+green 4
+green 4
+green 5 black 1
+green 1 green 2 black 2
+black 1
+black 1
+black 1
+black 2
+black 1 black 1
+black 2 black 1
+black 1 black 2
+black 2 black 1
+black 1 black 5
+black 4 red 1 black 1 black 1
+black 3 red 2 black 1 black 1
+black 2 black 2
+black 1
+black 2
+black 1
+black 1
+black 2
+black 1
+black 3 black 1
+black 5 black 1
+black 5 red 2 black 3
+black 2 black 2 red 1 black 1 black 1
+red 1 black 2 red 1 black 3
+black 3 black 1
+black 2 black 2
+black 2 black 1
+black 1 black 1
+black 1
+black 2
+black 1
+black 1

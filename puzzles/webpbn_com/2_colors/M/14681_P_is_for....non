@@ -1,0 +1,67 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David Bouldin"
+date "Jun 16, 2011"
+description "...Puzzle-in-a-Puzzle."
+difficulty 1.5
+height 25
+id 14681
+link "https://webpbn.com/play.cgi?id=14681"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title ""P" is for..."
+width 25
+
+rows
+17
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1
+25
+1,13,1
+1,1,13,1
+1,13,1
+25
+1,5,1,5
+1,1,1,5,1,5
+1,5,1,5
+25
+1,13,1
+1,1,13,1
+1,13,1
+25
+1,5,1,1,1
+1,1,5,1,1,1
+1,5,1,1,1
+25
+
+columns
+17
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1
+25
+1,17
+1,1,17
+1,17
+25
+1,5,5,1
+1,1,1,5,5,1
+1,5,5,1
+25
+1,5,5,1
+1,1,1,5,5,1
+1,5,5,1
+25
+1,1,5,1,1
+1,1,1,5,1,1
+1,1,5,1,1
+25

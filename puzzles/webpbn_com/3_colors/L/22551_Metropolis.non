@@ -1,0 +1,79 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Aug  8, 2013"
+description "This is the pattern of Metropolitan Opera House facade. It contains five axises. The only question: In which city is it? I hope it's not difficult..."
+difficulty 2.0
+height 35
+id 22551
+link "https://webpbn.com/play.cgi?id=22551"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Metropolis"
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 1 black 1 blue 1 black 1
+blue 1 black 1 blue 1 black 1 blue 2 blue 1 black 1 blue 1 black 1 blue 2
+blue 2 black 6 blue 2 black 6
+blue 2 black 1 blue 3 black 1 blue 1 blue 2 black 1 blue 3 black 1 blue 1
+black 10 black 10
+blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1
+blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1
+blue 1 black 8 blue 1 blue 1 black 8 blue 1
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+black 2 blue 1 black 1 blue 2 black 1 blue 1 black 2 black 2 blue 1 black 1 blue 2 black 1 blue 1 black 2
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+blue 1 black 8 blue 1 blue 1 black 8 blue 1
+blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1
+black 2 blue 2 black 1 blue 3 black 2 black 2 blue 2 black 1 blue 3 black 2
+blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1
+blue 1 black 8 blue 1 blue 1 black 8 blue 1
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+black 2 blue 1 black 1 blue 2 black 1 blue 1 black 2 black 2 blue 1 black 1 blue 2 black 1 blue 1 black 2
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+blue 1 black 8 blue 1 blue 1 black 8 blue 1
+blue 1 black 1 blue 3 black 1 blue 2 black 1 blue 1 blue 1 black 1 blue 3 black 1 blue 2 black 1 blue 1
+black 2 blue 3 black 1 blue 2 black 2 black 2 blue 3 black 1 blue 2 black 2
+blue 1 black 8 blue 1 blue 1 black 8 blue 1
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+black 10 black 10
+blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1
+blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1
+0
+blue 1 black 1 blue 6 black 1 blue 1 blue 1 black 1 blue 6 black 1 blue 1
+blue 1 black 8 blue 1 blue 1 black 8 blue 1
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1
+
+columns
+0
+black 1 blue 4 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 blue 5
+blue 2 black 24 black 5
+blue 3 black 1 blue 2 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 black 1 blue 2 black 1 blue 2 blue 1 black 1 blue 3
+black 4 blue 2 black 5 blue 3 black 5 blue 2 black 4 blue 2 blue 1 black 4
+blue 2 black 1 blue 1 black 4 blue 3 black 5 blue 3 black 1 blue 2 black 1 blue 2 black 3 blue 1 black 1 blue 3
+black 3 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 4 blue 2 black 1 blue 2 blue 1 black 1 blue 3
+blue 1 black 1 blue 1 black 1 blue 2 black 5 blue 3 black 5 blue 2 black 4 blue 2 blue 1 black 4
+blue 1 black 3 blue 2 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 black 1 blue 2 black 1 blue 2 blue 1 black 1 blue 3
+black 1 blue 1 black 24 black 5
+black 1 blue 4 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 blue 5
+0
+black 1 blue 4 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 blue 5
+blue 2 black 24 black 5
+blue 3 black 1 blue 2 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 black 1 blue 2 black 1 blue 2 blue 1 black 1 blue 3
+black 4 blue 2 black 5 blue 3 black 5 blue 2 black 4 blue 2 blue 1 black 4
+blue 2 black 1 blue 1 black 4 blue 3 black 5 blue 3 black 1 blue 2 black 1 blue 2 black 3 blue 1 black 1 blue 3
+black 3 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 4 blue 2 black 1 blue 2 blue 1 black 1 blue 3
+blue 1 black 1 blue 1 black 1 blue 2 black 5 blue 3 black 5 blue 2 black 4 blue 2 blue 1 black 4
+blue 1 black 3 blue 2 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 black 1 blue 2 black 1 blue 2 blue 1 black 1 blue 3
+black 1 blue 1 black 24 black 5
+black 1 blue 4 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 3 black 1 blue 2 blue 5
+0

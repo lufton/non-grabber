@@ -1,0 +1,62 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kim"
+date "Nov 22, 2013"
+description "For the Big/little load puzzle, a definitive answer has yet to be decided upon - Jota couldn't see it, so here we have a blindfolded Jota!"
+difficulty 1.75
+height 20
+id 23175
+link "https://webpbn.com/play.cgi?id=23175"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Jota's answer to Tom's puzzle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 10
+black 3 black 3
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 1 blue 11 black 1
+black 1 blue 13 black 1
+black 1 blue 18 black 1
+black 1 blue 13 black 1
+black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 2 black 1
+black 2 black 2
+black 2 red 6 black 2
+black 3 red 1 red 1 black 3
+black 3 red 4 black 3
+black 3 black 3
+black 3 black 3
+black 10
+
+columns
+black 10
+black 2 blue 1 black 3
+black 2 blue 1 black 3
+black 2 blue 3 black 3
+black 2 blue 4 black 3
+black 2 blue 4 black 3
+black 1 blue 4 black 2
+black 1 blue 4 red 2 black 1
+black 1 blue 4 black 2 red 1 red 1 black 1
+black 1 blue 4 black 1 black 1 red 1 red 1 black 1
+black 1 blue 4 red 1 red 1 black 1
+black 1 blue 4 red 1 red 1 black 1
+black 1 blue 4 red 2 black 1
+black 1 blue 4 black 2
+black 2 blue 4 black 3
+black 2 blue 3 black 3
+black 2 blue 1 black 3
+black 2 blue 1 black 3
+black 2 blue 1 black 3
+black 10

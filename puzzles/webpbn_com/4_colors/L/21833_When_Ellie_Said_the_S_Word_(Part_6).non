@@ -1,0 +1,82 @@
+by "Susan Eberhardt (susaneber)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Susan Eberhardt"
+date "Apr 28, 2013"
+description "Two scenes alternated in my mind. The first was me, my blue self half-buried in muck; and the second was me in a hard chair, a light in my eyes, a rough voice saying, "Tell us again, ma'am, why this day, of all days, did you go walking in the park?" When I got home I called Ellie, a member of the park board. "Holy ---!" And that's when she said it. "Ellie, I never hear you use that word before." "you never told me about a murdered woman in our park before." "I didn't say 'murdered,'" ""Well, what else?" "Theo said she was overweight and in her fifties and she could have tripped with those clumsy bags and-- You're right, who drowns in a puddle?" If you want to know what's happening, ask Ellie. She called me back the next morning to say the police chief--Ellie goes to the top--the police chief thought the woman had died of natural causes, but the toxicology tests hadn't come back yet and would take several weeks. There was nothing in the newspaper that day or the next. On the third day a tiny notice appeared on an inside page saying again, "natural causes." Ellie had spoken to the woman's neighbor on the other side of the park and found out she had been in the middle of ugly divorce proceedings--something about another man. I wondered, can you drown yourself in a puddle?"
+difficulty 2.75
+height 30
+id 21833
+link "https://webpbn.com/play.cgi?id=21833"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "When Ellie Said the "S" Word (Part 6)"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 7
+black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 6
+black 1 black 1 black 1 black 1 black 12
+black 1 black 1 black 1 black 1 red 4 black 13
+black 1 black 1 black 1 black 1 red 4 red 2 black 12
+black 1 black 1 black 1 black 1 red 5 black 10
+black 1 black 1 black 1 black 1 red 3 red 1 black 9
+black 1 black 1 black 1 black 1 red 3 black 7
+black 1 black 1 black 1 black 1 red 5 red 3 red 2 black 5
+black 1 black 1 black 1 red 5 black 1 red 2 red 2 red 3 black 3
+black 1 black 1 black 1 red 6 black 2 red 1 red 2 red 5 black 1
+black 1 black 1 black 1 red 5 black 1 red 1 red 2 red 2 red 2 black 1
+black 1 black 1 black 1 red 3 blue 1 black 3 red 2 red 2 red 2 black 1
+black 1 black 1 black 1 red 4 blue 2 black 2 red 2 red 1 red 1 black 1
+black 1 black 1 black 1 red 3 black 1 red 2 red 1 red 1
+black 1 black 1 black 1 red 3 red 1 red 1 red 2 red 1
+black 1 black 1 black 1 red 4 red 2 red 1 red 2 red 1
+black 1 black 1 black 1 red 4 black 1 red 2 red 1
+black 1 black 1 red 6 black 2 red 2 red 2
+black 1 black 1 red 6 black 3 red 2 red 1
+black 1 black 1 red 6 black 1 red 2 red 1
+black 1 black 1 red 6 black 2 red 1
+black 1 black 1 red 6 blue 1 black 2
+black 1 black 1 black 1 red 4 blue 3
+black 1 black 1 black 1 black 1 blue 6
+black 1 black 1 black 1 black 1 blue 7
+black 1 black 1 black 1 black 1 blue 9
+black 1 black 1 black 1 black 1 blue 9
+black 7 blue 10
+
+columns
+black 30
+black 1 black 1
+black 30
+black 1 black 1
+black 19 red 5 black 6
+black 1 red 13 black 1
+black 10 red 15 black 5
+red 16
+red 1 red 4 red 1 red 8
+red 1 red 4 red 6
+red 1 red 3 blue 2 blue 7
+red 1 red 1 black 2 blue 1 black 2 blue 6
+red 1 red 1 black 3 black 4 blue 6
+red 1 red 1 black 3 red 2 black 2 blue 5
+red 1 red 2 black 2 red 1 black 3 blue 5
+red 1 red 1 blue 5
+red 2 red 1 blue 4
+black 2 red 2 red 3 blue 3
+black 3 red 1 red 3 red 4 blue 3
+black 3 red 2 red 4 blue 1
+black 4 red 2 red 3
+black 6 red 2 red 2
+black 6 red 2 red 6
+black 8 red 1 red 8
+black 8 red 4 red 2
+black 8 red 2 red 2
+black 8 red 10
+black 8 red 3
+black 8 red 1
+black 11

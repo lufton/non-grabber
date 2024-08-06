@@ -1,0 +1,47 @@
+by "Gjertrud F (Mitikipve)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gjertrud F"
+date "Sep  3, 2010"
+description "Flower power"
+difficulty 2.0
+height 15
+id 10143
+link "https://webpbn.com/play.cgi?id=10143"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Mighty"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 2
+black 3 blue 1
+blue 2 black 1 blue 3
+blue 3 black 1 blue 2
+blue 1 black 3
+black 2
+green 1 green 1
+green 2 green 1
+green 2
+green 1 green 2
+green 3
+green 1
+
+columns
+0
+0
+blue 2 green 2
+black 1 blue 3 green 2
+black 3 blue 1 black 2 green 4
+black 2 blue 1 black 3 green 2 green 1
+blue 3 black 1 green 2
+blue 2 green 1
+0
+0

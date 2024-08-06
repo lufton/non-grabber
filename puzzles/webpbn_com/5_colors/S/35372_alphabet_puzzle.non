@@ -1,0 +1,53 @@
+by "judy ellen reed (puzzled)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by judy ellen reed"
+date "Sep 25, 2021"
+description "W is for........"
+difficulty 1.25
+height 15
+id 35372
+link "https://webpbn.com/play.cgi?id=35372"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "alphabet puzzle"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 1 blue 2
+blue 2 blue 1 blue 2
+blue 2 blue 3 blue 2
+blue 4 blue 4
+0
+0
+green 1 red 11 green 1
+green 1 red 2 black 1 red 3 black 1 red 4 green 1
+green 2 red 3 black 1 red 3 black 1 red 1 green 2
+green 2 red 7 green 2
+green 9
+0
+
+columns
+0
+green 3
+blue 4 red 2 green 2
+blue 6 red 3 green 2
+blue 2 red 1 black 1 red 2 green 1
+blue 1 red 4 green 1
+blue 2 red 2 black 1 red 1 green 1
+blue 3 red 4 green 1
+blue 2 red 1 black 1 red 2 green 1
+blue 1 red 4 green 1
+blue 2 red 2 black 1 red 1 green 1
+blue 6 red 3 green 2
+blue 4 red 2 green 2
+green 3
+0

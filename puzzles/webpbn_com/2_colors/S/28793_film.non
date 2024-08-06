@@ -1,0 +1,47 @@
+by "michael youngs (engineerjohn5)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by michael youngs"
+date "Sep 20, 2016"
+description "VHS tapes"
+difficulty 1.25
+height 15
+id 28793
+link "https://webpbn.com/play.cgi?id=28793"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "film"
+width 15
+
+rows
+0
+0
+0
+15
+15
+15
+1,1,5,1,1
+1,2,5,1,1
+1,2,5,2,1
+1,5,1
+15
+15
+0
+0
+0
+
+columns
+9
+3,2
+6,2
+3,2,2
+3,2
+9
+9
+9
+9
+9
+3,2
+3,1,2
+6,2
+3,2
+9

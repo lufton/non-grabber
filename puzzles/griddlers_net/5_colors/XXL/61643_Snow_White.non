@@ -1,0 +1,114 @@
+by "MDE001"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/15/08"
+height 48
+id 61643
+link "https://www.griddlers.net/nonogram/-/g/61643"
+medium_time "0:23:51"
+points 21251
+popularity 77.22
+title "Snow White"
+width 44
+
+color a ffffff
+color b dc2323
+color c 000000
+color d 623100
+color e ffcc99
+
+rows
+b 3
+b 4 b 5
+c 5 b 7 c 5 b 6
+c 8 b 18
+c 9 b 18
+c 11 b 18
+c 11 b 19 c 1
+c 10 b 20 c 3
+c 11 b 8 c 17
+c 10 b 8 c 21
+c 10 b 6 c 11 e 1 c 11
+c 10 b 5 c 12 e 5 c 9
+c 11 b 4 c 11 e 9 c 7
+c 11 b 3 c 11 e 11 c 6
+c 11 b 2 c 11 e 14 c 5
+c 10 b 3 c 9 e 17 c 4
+c 11 b 2 c 7 e 15 c 3 e 3 c 3
+c 10 b 3 c 6 e 18 c 3 e 1 c 3
+c 10 b 3 c 6 e 6 c 3 e 11 c 1 e 1 c 3
+c 10 b 2 c 6 e 7 c 1 e 15 c 3
+c 10 b 1 c 6 e 5 c 3 e 16 c 3
+c 10 b 1 c 5 e 21 c 2 e 3 c 2
+c 17 e 19 c 2 d 1 c 1 e 2 c 2
+c 17 e 9 c 2 e 8 c 1 d 1 c 1 d 1 e 2 c 2
+c 17 e 8 c 1 d 1 c 1 e 7 c 1 d 1 c 1 d 1 e 2 c 2
+c 17 e 6 c 1 d 1 c 1 d 1 c 1 e 6 c 1 d 1 c 1 e 2 c 2
+c 17 e 5 c 1 d 1 c 1 d 1 c 1 e 7 c 4 e 2 c 2
+c 18 e 4 c 1 d 1 c 1 e 14 c 2
+c 18 e 5 c 4 e 14 c 2
+c 18 e 22 c 2
+c 17 e 16 c 1 e 5 c 2
+c 17 e 17 c 1 e 4 c 1
+c 16 e 14 c 2 e 1 c 1 e 4 c 1
+c 15 e 22 c 1
+c 14 e 22 c 1
+c 13 e 21 c 1
+c 12 e 15 b 2 e 4 c 1
+c 10 e 15 b 4 e 2 c 1
+c 10 e 14 b 2 c 2 b 1 e 2 c 1
+c 7 e 13 b 2 c 2 b 1 e 2 c 1
+c 5 c 1 e 13 b 4 e 2 c 1
+c 4 c 3 e 12 b 2 e 2 c 1
+c 1 e 1 c 2 e 15 c 1
+c 1 e 3 c 2 e 12 c 1
+c 1 e 5 c 12
+c 1 e 16 c 1
+c 1 e 16 c 1
+c 1 e 16 c 1
+
+columns
+c 9
+c 15
+c 18
+c 21
+c 24
+c 26
+c 27
+c 30
+c 32
+c 34
+c 13 b 5 c 17
+c 12 b 5 c 19
+c 11 b 5 c 20
+c 8 b 5 c 24
+c 7 b 5 c 27
+c 7 b 5 c 28
+c 6 b 5 c 8 e 1 c 20
+c 5 b 5 c 8 e 5 c 17
+c 4 b 5 c 8 e 8 c 15
+b 9 c 6 e 12 c 8 e 2 c 1
+b 9 c 6 e 24 c 8
+b 9 c 6 e 25 c 1 e 6
+b 8 c 7 e 4 c 1 e 20 c 2 e 5
+b 8 c 6 e 5 c 1 e 5 c 2 e 14 c 1 e 5
+b 6 c 7 e 5 c 1 e 4 c 1 c 1 e 14 c 1 e 4
+b 6 c 6 e 4 c 2 e 4 c 1 d 2 c 1 e 14 c 1 e 4
+c 1 b 5 c 6 e 4 c 1 e 4 c 1 d 1 c 2 d 1 c 1 e 15 c 1 e 3
+c 1 b 5 c 5 e 5 c 1 e 4 c 2 d 2 c 2 e 15 c 1 e 3
+c 1 b 5 c 4 e 13 c 2 e 17 c 1 e 3
+c 1 b 5 c 4 e 32 c 1 e 3
+c 1 b 5 c 3 e 33 c 1 e 3
+b 7 c 2 e 34 c 1 e 3
+b 8 c 3 e 33 c 1 e 3
+b 8 c 3 e 27 b 2 e 4 c 1 e 3
+b 8 c 3 e 21 c 1 e 4 b 4 e 3 c 1 e 3
+b 7 c 4 e 4 c 1 e 7 c 2 e 6 c 1 e 3 b 2 c 2 b 2 e 2 c 1 e 3
+b 6 c 4 e 4 c 1 e 5 c 2 c 1 e 3 c 1 e 5 b 2 c 2 b 2 e 2 c 1 e 3
+c 7 e 3 c 2 e 3 c 2 d 2 c 1 e 4 c 2 e 4 b 4 e 3 c 4
+c 7 e 3 c 1 e 3 c 1 d 1 c 2 d 1 c 1 e 16 c 1
+c 8 e 2 c 2 e 3 c 1 d 2 c 2 e 14 c 2
+c 8 e 21 c 4
+c 12 e 14 c 2
+c 26
+c 20

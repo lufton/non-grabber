@@ -1,0 +1,61 @@
+by "william kamery (bill.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by william kamery"
+date "May 24, 2007"
+description "From an illuminated manuscript?"
+difficulty 1.5
+height 20
+id 896
+link "https://webpbn.com/play.cgi?id=896"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Scroll Work"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 7 black 7
+black 1 red 5 black 1 black 1 red 5 black 1
+black 1 red 1 black 3 red 1 black 1 black 1 red 1 black 3 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 3 red 1 black 12 red 1 black 1
+black 1 red 3 black 1 red 1 black 1 red 12 black 1
+black 5 red 1 black 14
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 14 red 1 black 5
+black 1 red 12 black 1 red 1 black 1 red 3 black 1
+black 1 red 1 black 12 red 1 black 3 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 3 red 1 black 1 black 1 red 1 black 3 red 1 black 1
+black 1 red 5 black 1 black 1 red 5 black 1
+black 7 black 7
+
+columns
+black 7 black 7
+black 1 red 5 black 1 black 1 red 5 black 1
+black 1 red 1 black 3 red 1 black 1 black 1 red 1 black 3 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 12 red 1 black 3 red 1 black 1
+black 1 red 12 black 1 red 1 black 1 red 3 black 1
+black 14 red 1 black 5
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 5 red 1 black 14
+black 1 red 3 black 1 red 1 black 1 red 12 black 1
+black 1 red 1 black 3 red 1 black 12 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 3 red 1 black 1 black 1 red 1 black 3 red 1 black 1
+black 1 red 5 black 1 black 1 red 5 black 1
+black 7 black 7

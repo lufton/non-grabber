@@ -1,0 +1,52 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Joe"
+date "Feb 20, 2018"
+description "1784: Pennsylvanians try to expel Connecticuters from Wilkes-Barre, starting the third Pennamite-Yankee war."
+difficulty 1.25
+height 10
+id 30887
+link "https://webpbn.com/play.cgi?id=30887"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "War Between the States"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 18
+black 1 black 2
+black 1 red 1 black 2
+black 1 red 2 black 1
+black 1 black 2
+black 1 green 2 green 2 green 2 green 2 green 2 green 1 black 1
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 17
+
+columns
+black 10
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 black 1
+black 1 red 1 green 1 black 1
+black 1 red 2 green 1 black 1
+black 1 black 1
+black 1 green 1 black 1
+black 2 black 3 black 1
+black 4 black 3
+black 1 black 1

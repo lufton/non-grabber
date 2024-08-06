@@ -1,0 +1,62 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tom O'Connell"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 25264
+link "https://webpbn.com/play.cgi?id=25264"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Illegal WCP #156 - fence!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 3
+red 3 black 3
+red 2 black 1 black 1
+red 1 black 7
+red 1 red 1
+0
+black 1
+black 2
+black 2
+black 2
+black 3
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 16
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 green 2 green 1 red 2 black 1
+black 1 black 1 black 9 red 2 black 1
+black 1 black 1 black 1 black 1 black 1 red 1 black 1
+
+columns
+red 4 black 2 black 4
+red 3 black 2
+red 2 black 12
+black 2
+black 10
+black 1
+black 1 black 1
+black 1 black 2
+black 1 black 1 black 1
+black 2 red 1 black 4 green 1 black 2
+black 1 black 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 red 1 black 4 green 1 black 2
+black 1 black 1 black 1
+black 1 red 2
+black 1 red 3
+black 1
+black 7
+black 1

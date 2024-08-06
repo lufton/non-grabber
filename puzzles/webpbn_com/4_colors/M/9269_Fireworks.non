@@ -1,0 +1,67 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jun 17, 2010"
+description "Saw a blanket like this at a Park & Swap once.. 4th of July is right around the corner!! WOOHOO.."
+difficulty 1.5
+height 30
+id 9269
+link "https://webpbn.com/play.cgi?id=9269"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Fireworks"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1
+0
+black 15
+blue 1 blue 1 blue 1 red 8
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 red 8
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 red 8
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 red 8
+0
+red 15
+0
+red 15
+0
+red 15
+black 15
+0
+black 15
+red 1 black 1 red 2 black 2 black 2 blue 3
+red 1 black 1 red 2 black 1 black 1 blue 4
+red 1 black 1 red 2 black 1 black 4 blue 2 black 1 blue 1
+red 1 black 1 red 2 black 1 black 2 blue 4
+red 1 black 1 red 2 black 2 black 1 blue 4
+red 1 black 1 red 2 black 4 black 1 blue 2 black 1 blue 1
+red 4 black 1 black 1 blue 2 black 1 blue 1
+red 3 black 2 black 2 blue 2 black 1 blue 1
+black 15
+0
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1
+
+columns
+red 1 black 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 1 red 8 black 1 red 1
+black 1 blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 7 red 2 black 1
+blue 1 black 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 1 red 8 black 1 blue 1
+red 1 black 1 blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 1 red 7 black 2 red 1
+black 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 10
+blue 1 black 1 blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 2 black 2 black 1 blue 1
+red 1 black 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 red 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1
+blue 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 blue 1
+red 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 black 2 black 2 red 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 10
+blue 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 2 blue 7 black 1 blue 1
+red 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 blue 8 black 1 red 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 blue 2 black 1 blue 2 black 4
+blue 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 blue 8 black 1 blue 1

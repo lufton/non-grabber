@@ -1,0 +1,58 @@
+by "niciejj"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/12/08"
+height 17
+id 63014
+link "https://www.griddlers.net/nonogram/-/g/63014"
+medium_time "0:05:25"
+points 1228
+popularity 59.95
+title "MSN Logo"
+width 19
+
+color a 000000
+color b ccffcc
+color c 33ff99
+color g 66ffcc
+color h 00cccc
+
+rows
+b 2 g 1 c 2 h 2
+b 3 g 2 c 4 h 2
+b 3 g 2 c 4 h 4
+b 2 g 3 c 4 h 4
+b 2 g 1 c 4 h 4
+b 2 g 3 c 4 h 2
+b 4 g 3 c 2 h 2
+b 6 g 3 c 3 h 3
+b 6 g 2 c 4 h 5
+b 5 g 2 c 6 h 5
+b 5 g 2 c 5 h 6
+b 4 g 2 c 6 h 7
+b 4 g 2 c 6 h 7
+g 1 b 2 g 2 c 5 h 8
+g 4 c 6 h 7
+h 1 c 2 h 8
+h 9
+
+columns
+b 5
+b 6 g 1
+b 8 g 1
+b 3 b 9 g 1
+b 11 g 4
+b 3 g 1 b 1 g 1 b 3 g 6
+g 7 b 1 g 3 c 4
+g 3 g 4 c 6 h 1
+g 2 c 8 h 1
+c 3 g 1 c 8 h 1
+c 5 c 8 h 2
+c 13 h 1 c 1 h 2
+c 8 h 1 c 1 h 7
+h 1 c 1 h 3 c 1 h 11
+h 17
+h 5 h 10
+h 3 h 9
+h 7
+h 4

@@ -1,0 +1,61 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joe"
+date "Mar 30, 2013"
+description "Hark Word (yo!)"
+difficulty 3.0
+height 20
+id 21547
+link "https://webpbn.com/play.cgi?id=21547"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Forkerism"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 6
+black 5
+black 5 black 3
+black 8
+black 9 black 1
+black 2 black 1 black 2 black 4 black 2
+black 4 black 1 black 1 black 3 black 2
+black 4 black 1 black 1 black 3 black 2
+black 2 black 1 black 2 black 3 black 1
+black 1 black 3 black 1 black 2 black 3
+black 1 black 2 black 1 black 2 black 4
+black 1 black 3 black 1 black 7
+black 1 black 2 black 2 black 3 red 1
+black 1 black 3 black 4 red 2
+black 4 black 2 red 3
+black 2 red 4
+black 5 black 2 red 4
+black 1 black 2 red 4
+black 1 black 2 red 4
+black 1 black 2 red 4
+
+columns
+black 2 black 1 black 1 black 1
+black 3 black 2 black 1 black 1
+black 5 black 3 black 1
+black 6 black 1 black 1
+black 5 black 2
+black 4 black 5 black 2
+black 2 black 2 black 5
+black 6 black 1 black 4
+black 4 black 3 black 1 black 2
+black 3 black 2 black 1
+black 3 black 1 black 1
+black 3 black 1 black 1 red 1
+black 4 black 1 black 1 red 2
+black 1 black 4 black 4 red 2
+black 2 black 9 red 3
+black 3 black 8 red 3
+black 3 black 5 red 3
+black 3 red 4
+black 2 black 3 red 4
+black 5 red 4

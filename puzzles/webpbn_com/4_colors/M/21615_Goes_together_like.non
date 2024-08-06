@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Apr  7, 2013"
+description "Electricity and Magnetism"
+difficulty 1.25
+height 20
+id 21615
+link "https://webpbn.com/play.cgi?id=21615"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Goes together like"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 3 blue 2
+black 3 blue 2
+black 3 blue 1 black 6
+blue 1 black 3 blue 1 black 8
+blue 1 black 3 blue 2 black 3 black 3
+blue 2 black 3 blue 5 black 2 black 2
+blue 3 black 2 blue 5 black 2 black 2
+blue 3 black 3 blue 4 black 2 black 2
+blue 4 black 3 blue 3 black 2 black 2
+blue 5 black 3 blue 2 black 2 black 2
+black 3 black 2 black 2
+black 3 red 2 red 2
+black 3 red 2 red 2
+black 2
+black 3
+black 1 black 2
+black 2 black 1
+black 2 black 2
+black 2 black 2
+black 1 black 1
+
+columns
+blue 1 blue 7
+black 1 blue 5 black 1
+black 3 blue 4 black 3
+black 6 blue 2 black 3 black 2
+black 3 black 4 blue 1 black 3
+black 3 blue 2 black 3 black 5
+black 2 blue 3 black 5 black 3
+black 1 blue 4 black 3 black 2
+blue 2 blue 6 black 1 black 2
+blue 10
+black 7 red 2
+black 8 red 2
+black 3
+black 2
+black 2
+black 2
+black 2
+black 3
+black 8 red 2
+black 7 red 2

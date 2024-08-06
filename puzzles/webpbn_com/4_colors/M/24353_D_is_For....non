@@ -1,0 +1,62 @@
+by "Bryan (Cyclone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bryan"
+date "Apr 30, 2014"
+description "I saw a beautiful and very enjoyable puzzle with this subject on another Web site. Since I obviously didn't want to copy it (I think it's bigger anyway), I tried to follow the same theme, but used colour in my rendition. If you don't recognize it, it's also the name of a 2005 movie starring Tony Scott."
+difficulty 2.5
+height 20
+id 24353
+link "https://webpbn.com/play.cgi?id=24353"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "D is For..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 5 black 5
+green 1 green 2 black 1 black 1
+green 1 green 1 black 1 black 1
+green 1 green 1 black 1 red 1 red 1 black 1
+green 1 green 1 black 6 black 1
+green 1 green 1 black 2 black 1 black 1
+green 1 green 1 black 2 red 1 black 2 red 1 black 1
+green 1 green 2 black 1 black 1 black 1
+green 5 black 2 black 2 black 1
+black 1 red 1 black 7
+black 2 black 2 black 1
+black 4 black 2 black 1
+black 2 black 5 red 1 red 1 black 1
+black 1 black 1 black 1 black 1
+black 2 red 1 black 2 black 1 red 1 black 1
+black 1 black 1 black 1 black 1
+black 2 black 2 black 1 red 1 red 1 black 1
+black 1 red 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 1
+black 7 black 5
+
+columns
+green 9
+green 1 green 1
+green 1 green 1 black 2
+green 1 green 1 black 4
+green 2 green 2 black 3 black 1
+green 7 black 3 red 1 black 1
+black 3 black 1
+black 4 black 1
+black 3 black 1 red 1 black 2
+black 2 red 1 black 2 black 3
+black 2 black 1 black 3
+black 1 black 3
+black 1 red 1 black 3
+black 4 black 11
+black 1 black 1 black 4 black 1
+black 1 red 1 black 3 black 1 red 1 red 1 black 1
+black 1 black 1 red 1 black 1
+black 1 red 1 red 1 black 1 red 1 red 1 black 1
+black 1 black 1 black 1
+black 18

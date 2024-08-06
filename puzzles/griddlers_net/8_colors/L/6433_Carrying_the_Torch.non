@@ -1,0 +1,85 @@
+by "HSpring"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/3/03"
+height 19
+id 6433
+link "https://www.griddlers.net/nonogram/-/g/6433"
+medium_time "0:14:04"
+points 4199
+popularity 57.9
+title "Carrying the Torch"
+width 41
+
+color a ffffff
+color b 003399
+color c 000000
+color d ff0000
+color e ff9933
+color f ffff00
+color g 008000
+color h 808000
+
+rows
+b 3 c 3 d 3
+b 7 c 2 d 1 c 4 d 7
+b 9 c 2 e 1 d 1 e 1 c 4 d 9
+b 11 c 2 d 1 e 1 f 2 e 1 c 4 d 11
+b 11 c 1 e 1 d 1 e 1 f 1 e 3 c 3 d 11
+b 13 c 2 e 2 f 1 e 1 d 1 e 1 c 4 d 13
+b 13 c 2 d 1 e 1 f 1 e 2 d 1 e 1 d 1 c 3 d 13
+b 11 f 3 c 1 d 2 f 2 e 1 d 1 e 1 d 1 c 2 g 3 d 11
+b 11 f 3 c 1 e 1 d 1 e 2 f 1 d 1 e 1 d 1 c 1 g 3 d 11
+b 9 f 5 h 9 g 5 d 9
+b 7 f 5 h 11 g 5 d 7
+b 3 f 8 h 9 g 8 d 3
+f 10 h 7 g 10
+f 11 h 5 g 11
+f 10 h 1 h 1 h 1 g 10
+f 10 h 1 h 1 h 1 g 10
+f 9 h 1 h 1 h 1 g 9
+f 7 h 5 g 7
+f 3 h 3 g 3
+
+columns
+b 2
+b 6
+b 8
+b 10
+b 10
+b 12
+b 12
+b 12 f 2
+b 10 f 5
+b 10 f 6
+b 8 f 8
+b 6 f 9
+b 2 f 12
+f 12
+c 2 f 12
+c 6 f 1 h 1 f 7
+c 2 e 2 d 2 e 1 h 3 f 6
+c 2 d 2 e 2 d 2 h 4 f 4
+c 1 e 3 f 3 e 1 h 9
+c 1 d 2 f 2 e 2 f 1 e 1 h 5 h 2
+c 2 e 1 f 1 e 1 d 1 e 2 f 1 h 10
+c 3 e 2 d 2 h 5 h 2
+c 3 e 4 d 1 h 9
+c 5 d 2 e 1 h 4 g 4
+c 6 d 1 h 3 g 6
+c 6 g 1 h 1 g 7
+c 2 g 12
+g 12
+d 2 g 12
+d 6 g 9
+d 8 g 8
+d 10 g 6
+d 10 g 5
+d 12 g 2
+d 12
+d 12
+d 10
+d 10
+d 8
+d 6
+d 2

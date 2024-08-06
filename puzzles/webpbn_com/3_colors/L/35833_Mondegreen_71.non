@@ -1,0 +1,76 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Jul 12, 2022"
+description "I want some rocky road at night and parfait every day"
+difficulty 2.0
+height 20
+id 35833
+link "https://webpbn.com/play.cgi?id=35833"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Mondegreen #71"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 2 black 1 red 5 black 1
+black 2 black 1 red 5 black 1
+black 2 black 1 black 1 black 2 red 2 black 1
+black 2 black 3 black 1 black 2 black 1
+black 5 black 1 red 5 black 1 black 1
+black 5 black 1 red 5 black 1 red 4 black 1
+black 5 black 1 red 1 black 1 red 4 black 1
+black 2 black 5 black 1 black 1 red 2 black 1
+black 4 black 3 black 1 red 3 black 1 black 1
+black 2 black 3 black 1 black 1 red 5 black 1 black 1
+black 2 black 4 black 2 black 2 black 1 black 1 red 5 black 6
+black 3 black 7 black 1 black 1 black 1 black 1
+black 6 black 2 black 1 black 1 black 1 black 1
+black 2 black 1 black 4 black 1 black 7 black 1
+black 7 black 1 black 1 black 1
+black 3 black 1 black 1 black 7
+black 1 black 1 black 1
+black 3 black 1 black 1
+black 7 black 1 black 7
+
+columns
+0
+black 1
+black 2
+black 3
+black 6 black 1
+black 3 black 1 black 1 black 1
+black 2 black 6 black 2
+black 6 black 5
+black 2 black 5 black 2
+black 3 black 2 black 1
+black 5 black 1
+black 1 black 1 black 3
+black 4 black 2
+black 2 black 1
+0
+black 4
+black 6
+black 17
+black 6
+black 4
+0
+0
+black 12 black 1
+red 3 red 2 black 1 black 1
+red 2 red 2 black 1 black 1
+red 2 red 3 black 6
+red 2 red 3 black 1 black 1
+black 5 red 2 red 3 black 1 black 1 black 1
+red 2 black 12 black 1 black 1
+red 3 red 2 black 1 black 1
+red 3 red 2 black 6
+red 2 red 3 black 1 black 1
+red 2 red 3 black 1 black 1
+black 12 black 1
+0

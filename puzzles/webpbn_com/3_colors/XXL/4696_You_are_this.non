@@ -1,0 +1,111 @@
+by "Paul Andrew Kew (PK)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Paul Andrew Kew"
+date "Jan 11, 2009"
+description "A Star"
+difficulty 2.75
+height 45
+id 4696
+link "https://webpbn.com/play.cgi?id=4696"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "You are this!"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1
+black 1
+black 3
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 45
+black 3 black 1 red 11 black 1 black 3
+black 2 black 1 red 13 black 1 black 2
+black 3 black 1 red 13 black 1 black 3
+black 2 black 1 red 13 black 1 black 2
+black 3 black 1 red 15 black 1 black 3
+black 2 black 1 red 15 black 1 black 2
+black 3 black 1 red 15 black 1 black 3
+black 3 red 17 black 3
+black 2 red 17 black 2
+black 2 red 15 black 2
+black 2 black 2 red 11 black 2 black 2
+black 1 black 1 red 9 black 1 black 1
+black 1 black 2 red 5 black 2 black 1
+black 2 black 1 red 3 black 1 black 2
+black 1 black 3 black 1
+black 1 black 2 black 2 black 1
+black 2 black 3 black 3 black 2
+black 1 black 2 black 2 black 1
+black 1 black 3 black 3 black 1
+black 2 black 2 black 2 black 2
+black 1 black 3 black 3 black 1
+black 1 black 2 black 2 black 1
+black 4 black 4
+black 2 black 2
+0
+
+columns
+black 2
+black 2
+black 3
+black 1 black 2
+black 1 black 1
+black 1 black 2
+black 1 black 2
+black 1 black 1
+black 1 black 2 black 2
+black 1 black 2 black 5
+black 1 black 1 black 4 black 1
+black 1 black 2 black 4 black 2
+black 1 black 2 black 4 black 2
+black 1 black 4 black 1
+black 1 black 3 red 2 black 1 black 2
+black 1 black 3 red 6 black 1 black 2
+black 3 red 9 black 1 black 1
+black 5 red 11 black 1 black 2
+black 4 black 1 red 12 black 1 black 2
+black 4 black 1 red 12 black 1 black 1
+black 4 black 1 red 13 black 1 black 2
+black 4 black 1 red 14 black 2
+black 3 black 1 red 14 black 1
+black 4 black 1 red 14 black 2
+black 4 black 1 red 13 black 1 black 2
+black 4 black 1 red 12 black 1 black 1
+black 4 black 1 red 12 black 1 black 2
+black 5 red 11 black 1 black 2
+black 3 red 9 black 1 black 1
+black 1 black 3 red 6 black 1 black 2
+black 1 black 3 red 2 black 1 black 2
+black 1 black 4 black 1
+black 1 black 2 black 4 black 2
+black 1 black 2 black 4 black 2
+black 1 black 1 black 4 black 1
+black 1 black 2 black 5
+black 1 black 2 black 2
+black 1 black 1
+black 1 black 2
+black 1 black 2
+black 1 black 1
+black 1 black 2
+black 3
+black 2
+black 2

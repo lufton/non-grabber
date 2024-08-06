@@ -1,0 +1,47 @@
+by "elak"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/9/08"
+height 14
+id 56654
+link "https://www.griddlers.net/nonogram/-/g/56654"
+medium_time "0:02:17"
+points 63
+popularity 68.09
+title "Bitten Apple"
+width 12
+
+color a 99ccff
+color b ffffcc
+color c 66cc00
+color d 996600
+
+rows
+d 2
+d 1
+c 3 d 1 c 4
+c 5 d 1 c 4
+c 9 b 2
+c 9 b 2
+c 8 b 3
+c 8 b 3
+c 8 b 3
+c 9 b 2
+c 9 b 1
+c 10
+c 7
+c 3
+
+columns
+c 6
+c 8
+c 10
+c 11
+c 11
+c 11
+d 4 c 10
+d 1 c 11
+c 4 b 3 c 4
+c 2 b 6 c 3
+c 2 b 7 c 1
+c 1 c 1

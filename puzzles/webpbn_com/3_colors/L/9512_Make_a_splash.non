@@ -1,0 +1,81 @@
+by "John Breckenridge (jbrecken)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by John Breckenridge"
+date "Jul  7, 2010"
+description "It was supposed to be a dolphin doing a flip, but it kind of looks more like a penguin."
+difficulty 2.5
+height 30
+id 9512
+link "https://webpbn.com/play.cgi?id=9512"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Make a splash"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 2
+black 3
+black 5 black 4
+black 3 black 4
+black 4 black 3 blue 1
+black 5 black 3 black 5
+black 14 black 2
+black 11 black 1
+black 5 black 1
+black 6 black 1
+black 7 black 1
+black 3 black 1
+blue 1 black 3 black 1
+black 3 black 2
+black 3 black 2 blue 1
+black 4 black 1
+black 6
+black 7
+blue 1 black 3 black 2 blue 1
+blue 1 black 1 black 2
+blue 1 blue 4 blue 1 black 2 blue 1 blue 2
+blue 1 blue 1 blue 4 blue 1 black 1 blue 1 blue 3 blue 1
+blue 1 blue 1 blue 2 blue 1 blue 2 blue 2 blue 1
+blue 2 blue 1 blue 2 blue 1 blue 1 blue 2 blue 3
+blue 10 blue 4 blue 4 blue 2 blue 4
+blue 9 blue 3 blue 5 blue 2 blue 4
+blue 5 blue 3 blue 5 blue 2 blue 6
+blue 2 blue 8 blue 1 blue 3 blue 7
+blue 30
+
+columns
+blue 5
+blue 5
+blue 3 blue 1
+blue 3 blue 1
+blue 3 blue 1
+blue 1 blue 2 blue 2
+blue 1 blue 2 blue 2
+black 2 blue 1 blue 2 blue 2
+black 2 blue 1 blue 3 blue 2
+black 2 blue 1 blue 2 blue 2
+black 4 blue 1 blue 3
+black 5 blue 2 blue 6
+black 2 black 2 blue 1 blue 2 blue 5
+black 5 black 1 blue 7 blue 1
+black 1 black 3 black 1 blue 1 black 2 blue 4 blue 3
+black 1 black 3 black 2 black 4 blue 1 blue 2 blue 1
+black 1 black 5 black 4 blue 1 blue 1 blue 2 blue 1
+black 1 black 5 black 4 blue 2 blue 1
+black 1 black 17 blue 5 blue 1
+black 18 blue 2 blue 2
+black 12 black 1 blue 2 blue 2 blue 2
+black 5 black 2 blue 1 blue 3 blue 3
+black 4 black 2 black 2 blue 2 blue 2 blue 1
+black 4 black 8 blue 1 blue 3 blue 2
+blue 1 blue 1 blue 1 blue 2 blue 3
+blue 1 blue 2 blue 3
+blue 1 blue 1 blue 5
+blue 1 blue 5
+blue 1 blue 5
+blue 5

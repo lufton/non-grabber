@@ -1,0 +1,63 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Aldege Cholette"
+date "Oct 11, 2016"
+description "Niki and I decided to go for a drive to look at the fall colours today.(they're at their peek right now). Lo and behold what do we see walking in the middle of the road and coming straight at us?"
+difficulty 3.25
+height 20
+id 28870
+link "https://webpbn.com/play.cgi?id=28870"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Today's Adventure."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 blue 2 green 1 blue 2 green 1 blue 1
+black 5 green 1 red 1 blue 1 green 1 blue 1 green 1 red 1
+black 3 red 1 blue 1 red 1 red 1
+black 4 red 1 blue 2 green 1 blue 1 red 2
+black 3 blue 2 blue 3
+black 3 black 2 blue 1 blue 1 black 4
+black 1 black 2 black 4 black 2 black 1
+black 2 black 3 black 3 black 1
+black 1 black 1 black 2 black 2
+black 2 black 3 red 1
+black 1 black 1 black 1 black 1 green 1
+black 2 black 1 black 2 blue 1
+black 1 black 3 black 1
+black 1 black 1 black 2 black 2 black 1 red 1
+black 1 black 2 black 1 black 1 black 1 black 2 green 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 2 black 2 black 1 red 1 black 1 black 2 black 1
+black 2 black 1 black 1 black 3 black 3 black 1
+black 1 black 2 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+
+columns
+blue 1 black 1 black 3
+black 1 black 2
+black 1
+blue 1 black 1 black 4 black 2
+red 1 black 2 black 2 black 3
+green 2 black 1 black 1 black 2
+black 2 black 1 black 1 black 4
+blue 1 black 1 black 2 black 3 black 2 black 3
+red 2 black 1 black 3 black 2
+green 1 black 2 black 1 black 2
+blue 1 red 2 black 1 black 2 black 1 black 3 black 1
+red 1 blue 1 black 3 black 2 black 3
+blue 2 blue 2 black 2 black 2 black 1 red 1 black 1
+blue 1 green 1 blue 1 blue 2 black 2 black 2 black 3
+black 1 black 1 black 3 black 1
+green 1 blue 1 red 1 green 1 blue 1 black 3 black 2
+blue 1 green 1 black 2 black 2 black 2 black 2
+blue 1 red 1 blue 2 black 1 black 3 black 2
+green 1 red 1 blue 1 black 1 black 2 green 1 black 4
+blue 1 red 2 blue 1 black 4 red 1 blue 1 red 1 green 1 black 5

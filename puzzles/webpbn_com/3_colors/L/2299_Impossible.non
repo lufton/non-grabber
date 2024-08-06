@@ -1,0 +1,81 @@
+by "katherine (katherineb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by katherine"
+date "Feb 16, 2008"
+description "Roses lack the gene to produce blue pigment, so true blue roses are impossible to naturally produce. According to wikipedia, however, a genetically engineered blue rose has now been developed. I actually find this kind of disturbing, but i like the GM-free pixel version. :-)"
+difficulty 2.25
+height 45
+id 2299
+link "https://webpbn.com/play.cgi?id=2299"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Impossible?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 1
+blue 1 blue 3 blue 1
+blue 3 blue 1 blue 3
+blue 1 blue 4 blue 4
+blue 2 blue 3 blue 4 blue 1
+blue 4 blue 3 blue 1 blue 2
+blue 5 blue 3 blue 5
+blue 6 blue 1 blue 6
+black 1 blue 5 blue 7
+black 3 blue 2 blue 8
+black 3 blue 2 black 4 blue 1 black 1
+black 4 blue 1 black 7
+black 10
+black 5
+black 2
+black 1
+black 1
+black 2
+black 2
+black 1
+black 2
+black 1
+black 1
+black 2
+black 1
+black 1
+black 5
+black 3 black 3
+black 3 black 4
+black 2 black 5
+black 3 black 3 black 2
+black 2 black 4 black 1
+black 2 black 3 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1
+black 1
+black 1
+black 2
+black 1
+black 1
+black 1
+black 1
+black 1
+
+columns
+blue 3
+blue 5 black 2
+blue 5 black 3 black 3
+blue 2 blue 4 black 4 black 6
+blue 4 blue 4 black 3 black 4 black 1
+blue 4 blue 3 black 2 black 2 black 3
+blue 1 blue 4 blue 1 blue 2 black 7 black 2 black 4
+blue 3 blue 3 blue 2 black 4 black 4 black 1 black 5
+blue 1 blue 2 blue 1 blue 2 black 4 black 4 black 6
+blue 4 blue 3 black 4 black 7
+blue 4 blue 4 black 4 black 5 black 6
+blue 3 blue 4 black 3 black 9
+blue 6 black 2
+blue 6 black 2
+blue 4

@@ -1,0 +1,81 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David Bouldin"
+date "Apr 12, 2011"
+description "...will be their year?"
+difficulty 3.0
+height 30
+id 13311
+link "https://webpbn.com/play.cgi?id=13311"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Maybe This Year..."
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 8
+black 12
+black 16
+black 6 black 6
+black 5 blue 1 black 5
+black 4 blue 2 black 4
+black 4 blue 2 black 4
+black 4 blue 1 black 4
+black 3 blue 1 black 13 black 3
+black 4 blue 1 black 13 blue 1 blue 2 black 3
+black 3 blue 1 black 3 blue 2 black 3 blue 2 black 3 blue 1 blue 1 black 3
+black 4 blue 2 black 2 blue 1 black 3 blue 1 black 2 blue 1 blue 2 black 4
+black 3 blue 1 black 2 blue 1 black 3 blue 1 black 2 blue 1 blue 1 black 3
+black 3 blue 2 blue 2 black 3 blue 1 blue 2 blue 3 black 3
+black 1 black 1 blue 1 black 5 blue 1 blue 1 black 1 black 1
+blue 1 blue 1 blue 1 black 3 blue 2 blue 4 blue 1 blue 1
+blue 3 blue 2 black 3 blue 1 blue 1 blue 3
+blue 3 blue 1 black 3 blue 1 blue 3 blue 3
+blue 6 black 3 blue 1 blue 1 blue 4
+blue 4 black 3 blue 1 blue 2 blue 3
+blue 5 black 5 blue 1 blue 1 blue 4
+blue 3 black 5 blue 1 blue 3
+blue 4 blue 5 blue 4
+blue 4 blue 2 blue 4
+blue 4 blue 1 blue 1 blue 4
+blue 5 blue 2 blue 5
+blue 7 blue 6
+blue 16
+blue 12
+blue 8
+
+columns
+black 4 blue 4
+black 5 blue 5
+black 8 blue 8
+black 6 blue 6
+black 5 blue 3 blue 10
+black 4 blue 2 blue 2 blue 1 blue 1 blue 1 blue 4
+black 4 blue 2 blue 4
+black 4 blue 2 blue 4
+black 3 blue 2 black 5 blue 3
+black 4 blue 1 black 5 blue 1 blue 4
+black 3 blue 1 black 3 blue 3 blue 3
+black 4 black 2 blue 1 blue 6
+black 3 black 2 blue 1 black 1 black 2 blue 1 blue 5
+black 3 black 14 blue 3 blue 3
+black 3 black 14 blue 1 blue 3
+black 3 black 14 blue 1 blue 3
+black 3 black 2 blue 4 black 1 blue 5 black 2 blue 1 blue 3
+black 3 black 2 blue 1 blue 2 blue 3 blue 3
+black 4 black 3 blue 1 blue 4
+black 3 black 5 blue 1 blue 2 blue 3
+black 4 black 5 blue 1 blue 1 blue 4
+black 3 blue 5 blue 1 blue 2 blue 3
+black 4 blue 1 blue 4
+black 4 blue 1 blue 2 blue 4
+black 4 blue 1 blue 1 blue 3 blue 4
+black 4 blue 5 blue 5
+black 6 blue 6
+black 8 blue 8
+black 5 blue 5
+black 4 blue 4

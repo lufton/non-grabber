@@ -1,0 +1,37 @@
+by "Joseph Newton (Shroomyjoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joseph Newton"
+date "Aug  1, 2013"
+description "If you've played the game Minecraft, you should know what this is."
+difficulty 1.25
+height 8
+id 22493
+link "https://webpbn.com/play.cgi?id=22493"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Green Chaos"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 3 green 3
+green 1 green 2 green 1
+green 1 black 2 green 1 black 2 green 1
+black 2 black 2
+green 2 black 2 green 1 green 1
+green 1 black 4 green 1
+green 1 black 4 green 2
+green 1 black 1 green 1 black 1 green 1
+
+columns
+green 3 green 3
+green 1 black 2 green 1 green 1
+green 1 black 2 black 3
+green 2 black 3 green 1
+green 2 black 3
+green 1 black 2 green 1 black 3
+green 1 black 2 green 2
+green 2 green 3

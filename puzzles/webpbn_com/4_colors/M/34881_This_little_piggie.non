@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Feb 13, 2021"
+description "when wee wee wee all the way home."
+difficulty 1.25
+height 25
+id 34881
+link "https://webpbn.com/play.cgi?id=34881"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "This little piggie"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 3
+red 4
+red 2 black 1 red 1
+red 9
+red 9
+red 7
+red 6
+red 6
+red 7
+red 9
+red 11
+red 7 red 1
+red 8
+red 8
+red 8
+red 8
+0
+red 1
+red 1
+red 2
+red 4 red 3
+red 3 red 2
+red 2 red 3
+red 2 red 2
+green 3 red 2 green 4 red 2 green 4
+
+columns
+red 1 green 1
+red 1 red 1 green 1
+red 4 red 2 green 1
+red 7 red 5
+red 1 red 11 red 5
+red 2 red 13 red 2 green 1
+red 16 green 1
+red 15 red 1 green 1
+red 1 black 1 red 13 red 3 green 1
+red 14 red 5
+red 3 red 3 red 3
+red 2 red 2 green 1
+red 2 red 2 green 1
+red 2 red 1 green 1
+green 1

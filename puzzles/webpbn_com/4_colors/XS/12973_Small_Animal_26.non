@@ -1,0 +1,36 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 22, 2011"
+description "Dolphin breaching at sunset."
+difficulty 1.25
+height 7
+id 12973
+link "https://webpbn.com/play.cgi?id=12973"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Small Animal 26"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 5
+red 1 black 3
+red 1 black 2 red 1 black 1
+blue 1 black 1 blue 5
+black 3 blue 1 red 1 blue 2
+blue 3 red 1 blue 1 red 1 blue 1
+
+columns
+red 1 blue 1 black 1 blue 1
+red 1 black 3 blue 1
+black 3 blue 1 black 1 blue 1
+black 2 red 1 blue 2 red 1
+black 3 blue 1 red 1 blue 1
+black 2 black 1 blue 2 red 1
+black 1 blue 3

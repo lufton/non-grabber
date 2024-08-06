@@ -1,0 +1,120 @@
+by "griddlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/18/10"
+height 45
+id 96497
+link "https://www.griddlers.net/nonogram/-/g/96497"
+medium_time "0:37:42"
+points 138003
+popularity 83.87
+title "Halved Tomato"
+width 50
+
+color a 999999
+color b 097902
+color c 0f0500
+color d e50000
+color e 670903
+color f ab0303
+color g ec5d00
+color h ff5254
+
+rows
+b 2
+b 2
+b 2
+b 3
+b 2
+b 2 b 2
+b 1 b 2
+c 6 b 2 b 1 b 2
+c 6 d 6 c 4 b 8
+c 3 d 16 c 1 b 3
+c 2 d 12 e 3 d 4 c 1 b 3
+c 2 d 6 e 9 f 2 e 1 d 1 e 2 c 1 b 9
+c 2 d 4 e 4 f 7 e 1 g 1 e 1 f 2 e 1 h 2 e 1 c 3 b 3
+c 2 d 5 e 1 f 4 e 3 f 3 e 1 g 1 e 4 h 2 e 2 d 3 c 1 b 2
+c 1 d 5 e 2 f 2 e 1 f 2 e 1 g 2 e 1 f 1 e 1 g 1 e 3 h 3 e 1 f 2 e 1 d 2 c 1
+c 2 d 5 e 1 f 3 e 1 g 1 e 1 f 1 e 1 g 1 e 1 f 2 e 4 h 2 e 2 f 3 e 1 d 2 c 1
+c 1 d 4 e 3 f 4 e 1 g 1 e 1 f 2 e 5 h 3 e 3 f 4 e 1 d 2 c 2
+c 1 d 3 e 2 f 3 e 3 f 2 e 4 h 7 e 1 g 3 e 1 f 2 e 1 d 3 c 2
+c 1 d 3 e 1 f 4 e 1 g 3 e 2 h 11 e 5 f 2 e 1 d 3 c 2
+c 1 d 3 e 1 f 5 e 1 g 2 e 1 h 13 e 1 f 5 e 1 d 3 c 1 d 1 c 1
+c 1 d 4 e 1 f 6 e 2 h 13 e 5 f 2 e 1 d 3 c 1 d 1 c 1
+c 1 d 4 e 1 f 2 e 4 f 1 e 1 h 13 e 1 g 4 e 1 f 2 e 1 d 3 c 1 d 1 c 1
+c 1 d 3 e 1 f 2 e 1 g 4 e 1 h 15 e 4 f 2 e 1 d 3 c 1 d 2 c 1
+c 1 d 3 e 1 f 4 e 4 h 14 e 3 f 4 e 1 d 3 c 1 d 3 c 1
+c 1 d 2 e 1 f 8 e 1 h 12 e 2 g 3 e 1 f 2 e 1 d 3 c 1 d 4 c 1
+c 1 d 2 e 1 f 5 e 6 h 9 e 2 f 2 e 1 g 2 e 1 f 1 e 1 d 3 c 1 d 5 c 1
+c 1 d 2 e 1 f 4 e 1 g 3 e 1 f 1 e 2 h 7 e 1 g 2 e 1 f 2 e 4 d 3 c 1 d 6 c 1
+c 1 d 2 e 1 f 4 e 4 f 1 e 1 g 2 e 5 h 1 e 2 g 2 e 1 f 4 e 1 d 3 c 1 d 7 c 1
+c 1 d 2 e 1 f 8 e 1 g 2 e 1 f 2 e 1 g 2 e 1 f 2 e 2 f 3 e 2 d 3 c 1 d 7 c 1
+c 1 d 2 e 1 f 7 e 1 g 3 e 1 f 2 e 1 g 2 e 1 f 6 e 1 d 3 c 2 d 8 c 1
+c 1 d 3 e 1 f 7 e 3 f 4 e 2 f 4 e 3 d 3 c 1 d 10 c 1
+c 1 d 3 e 1 f 17 e 2 d 4 c 2 d 10 c 1
+c 1 d 3 e 6 f 5 e 6 d 4 c 2 d 12 c 1
+c 1 d 9 e 5 d 7 c 3 d 13 c 1
+c 2 d 16 c 3 d 16 c 1
+c 1 d 1 c 4 d 7 c 5 d 18 c 1
+c 1 d 4 c 7 d 22 c 1
+c 1 d 31 c 1
+c 1 d 29 c 1
+c 1 d 27 c 1
+c 2 d 23 c 2
+c 2 d 19 c 2
+c 2 d 15 c 2
+c 3 d 9 c 3
+c 9
+
+columns
+c 6
+c 2 d 6 c 1
+c 2 d 9 c 2
+c 1 d 4 e 5 d 4 c 2
+c 1 d 4 e 1 f 5 e 1 d 3 c 1 d 1 c 1
+c 1 d 4 e 1 f 7 e 1 d 3 c 1 d 1 c 1
+c 1 d 4 e 1 f 9 e 1 d 2 c 1 d 2 c 1
+c 1 d 4 e 1 f 10 e 1 d 2 c 1 d 3 c 1
+c 1 d 3 e 2 f 5 e 2 f 4 e 1 d 2 c 1 d 4 c 1
+c 1 d 2 e 1 f 3 e 1 f 2 e 1 g 1 e 1 f 4 e 1 d 3 c 1 d 3 c 1
+c 1 d 2 e 1 f 3 e 1 g 1 e 1 f 1 e 1 g 1 e 1 f 4 e 1 d 3 c 1 d 4 c 1
+c 1 d 3 e 1 f 3 e 1 g 1 e 1 f 1 e 1 g 1 e 1 f 1 e 1 f 2 e 1 d 3 c 1 d 4 c 1
+c 1 d 2 e 1 f 4 e 1 g 1 e 1 f 1 e 2 f 1 e 1 g 1 e 1 f 2 e 1 d 2 c 1 d 5 c 1
+c 1 d 3 e 1 f 4 e 1 g 1 e 3 f 1 e 1 g 2 e 1 f 2 e 1 d 2 c 1 d 5 c 1
+c 1 d 3 e 1 f 1 e 2 f 2 e 1 h 2 e 2 g 3 e 1 f 2 e 1 d 2 c 1 d 6 c 1
+c 1 d 3 e 1 f 1 e 1 g 2 e 2 h 4 e 1 g 1 e 2 f 3 e 1 d 2 c 1 d 6 c 1
+c 1 d 2 e 1 f 2 e 1 g 2 e 1 h 6 e 1 f 5 e 1 d 1 c 1 d 7 c 1
+c 1 d 3 e 1 f 2 e 1 g 1 e 1 h 7 e 1 f 4 e 1 d 2 c 1 d 8 c 1
+c 1 d 2 e 1 f 4 e 1 h 8 e 3 f 2 e 1 d 2 c 1 d 8 c 1
+c 1 d 2 e 1 f 2 e 2 f 1 e 1 h 8 e 1 g 2 e 1 f 1 e 1 d 2 c 1 d 8 c 1
+c 1 d 2 e 1 f 1 e 1 g 2 e 1 h 9 e 1 g 2 e 1 f 1 e 1 d 2 c 1 d 8 c 1
+c 1 d 2 e 1 f 2 e 3 h 10 e 2 f 2 e 1 d 1 c 1 d 9 c 1
+c 1 d 3 e 1 f 4 e 1 h 9 e 1 f 4 e 1 d 1 c 1 d 9 c 1
+c 1 d 2 e 1 f 1 e 3 f 1 e 1 h 8 e 2 f 3 e 1 d 2 c 1 d 9 c 1
+c 1 d 2 e 1 f 1 e 1 g 2 e 1 h 8 e 1 g 2 e 1 f 2 e 1 d 1 c 1 d 10 c 1
+c 1 d 2 e 1 f 1 e 1 g 1 e 2 h 8 e 1 g 2 e 1 f 1 e 1 d 2 c 1 d 10 c 1
+c 1 d 2 e 1 f 2 e 1 f 1 e 1 h 7 e 1 f 1 e 2 f 2 e 1 d 2 c 1 d 9 c 1
+c 1 d 2 e 1 f 4 e 1 h 7 e 1 f 5 e 1 d 1 c 1 d 10 c 1
+c 1 d 3 e 1 f 2 e 3 h 6 e 1 g 1 e 1 f 3 e 1 d 2 c 1 d 10 c 1
+c 1 d 3 e 1 f 1 e 1 g 1 e 1 h 5 e 1 h 1 e 1 g 2 e 1 f 1 e 1 d 2 c 1 d 10 c 1
+c 1 d 3 e 2 g 1 e 2 h 4 e 1 g 1 e 2 g 2 e 1 f 1 e 1 d 2 c 1 d 10 c 1
+c 1 d 2 e 2 g 1 e 3 h 1 e 4 g 1 e 1 f 1 e 4 d 2 c 1 d 10 c 1
+c 1 d 2 e 1 f 1 e 3 h 1 e 1 g 1 e 1 f 1 e 1 g 1 e 1 f 3 e 1 d 2 c 1 d 11 c 1
+c 1 d 2 e 1 f 2 e 1 h 2 e 1 g 1 e 1 f 1 e 1 g 1 e 1 f 2 e 1 d 3 c 1 d 10 c 1
+c 1 d 2 e 1 f 1 e 1 h 1 e 2 g 1 e 1 f 1 e 2 f 2 e 1 d 3 c 1 d 11 c 1
+c 1 d 3 e 1 h 2 e 1 f 1 e 2 f 4 e 1 d 3 c 1 d 11 c 1
+c 1 d 2 e 1 h 2 e 1 f 7 e 1 d 3 c 1 d 11 c 1
+c 1 d 2 e 1 h 1 e 1 f 5 e 3 d 3 c 1 d 11 c 1
+b 2 c 3 e 2 f 3 e 2 d 5 c 1 d 11 c 1
+b 4 b 2 c 1 d 1 e 3 d 6 c 1 d 11 c 1
+b 4 b 5 c 1 d 9 c 1 d 10 c 2
+b 9 c 1 d 6 c 3 d 9 c 2
+b 2 b 1 c 6 d 9 c 3
+b 4 b 1 c 12
+b 2 b 1 b 1
+b 1 b 1
+b 2 b 1
+b 2 b 2
+b 2
+b 2

@@ -1,0 +1,93 @@
+by "KCR (VMC)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by KCR"
+date "Dec  6, 2022"
+description "Wa-Hoo!"
+difficulty 2.0
+height 40
+id 36178
+link "https://webpbn.com/play.cgi?id=36178"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Wait-- Do I Know You...?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+red 10
+red 12
+red 12 red 1
+red 11 red 1
+red 16
+red 15
+blue 13
+blue 3 black 1
+blue 3 black 1 black 3
+blue 2 black 1
+black 2 blue 1 blue 2 black 3
+black 2 blue 2 black 1
+black 9
+green 4 red 2 green 3 red 2 green 4
+green 5 red 2 green 3 red 2 green 5
+green 6 red 2 green 3 red 2 green 6
+green 4 green 2 red 2 green 3 red 2 green 2 green 4
+green 4 green 2 red 2 green 3 red 2 green 2 green 3
+green 4 green 2 red 2 green 3 red 2 green 2 green 4
+green 4 green 2 red 2 green 3 red 2 green 2 green 4
+black 3 green 2 red 2 green 3 red 2 green 2 black 3
+black 1 black 1 green 2 red 2 green 3 red 2 green 2 black 1 black 1
+black 3 red 11 black 3
+red 13
+red 13
+red 14
+red 16
+red 17
+red 7 red 8
+red 7 red 7
+red 7 red 7
+red 7 red 7 blue 1 red 1
+black 7 black 5 blue 4
+green 3 black 7 green 10 black 4 blue 1 red 1 blue 3 red 1
+green 3 black 7 green 10 black 6 green 2
+green 25 green 1
+green 30
+green 30
+
+columns
+green 5
+green 5
+green 5
+black 3 green 3
+green 2 black 3 red 2 black 3 green 3
+green 4 black 1 black 1 red 3 black 3 green 3
+green 5 black 3 red 4 black 3 green 3
+green 6 red 6 black 3 green 3
+red 3 blue 2 green 5 red 7 black 3 green 3
+red 5 blue 4 black 1 green 3 red 9 black 3 green 3
+red 6 blue 4 black 2 green 9 red 10 green 5
+red 6 blue 1 black 2 green 9 red 8 green 5
+red 6 blue 1 black 1 red 16 green 5
+red 6 blue 1 black 1 red 15 green 5
+red 6 blue 1 black 1 green 9 red 6 green 5
+red 6 blue 1 black 1 green 9 red 6 green 5
+red 6 blue 1 black 1 green 9 red 6 green 5
+red 6 blue 1 blue 1 black 1 red 16 green 5
+red 6 blue 1 blue 1 black 1 red 17 green 5
+red 3 red 2 blue 1 black 1 blue 2 black 1 green 9 red 10 green 5
+red 1 red 3 blue 1 blue 1 black 1 green 9 red 10 black 3 green 3
+red 1 red 2 blue 1 black 2 black 1 green 3 red 9 black 3 green 3
+red 2 black 1 black 1 green 4 red 6 black 3 green 3
+red 2 black 3 green 6 red 5 black 3 green 3
+green 5 black 3 red 4 black 1 blue 1 black 1 green 3
+green 4 black 1 black 1 red 2 blue 1 red 1 black 1 green 2
+green 2 black 3 blue 3 green 2
+red 1 blue 2 green 2
+blue 2 green 1 green 2
+red 1 green 4

@@ -1,0 +1,52 @@
+by "suziak"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/26/03"
+height 15
+id 6636
+link "https://www.griddlers.net/nonogram/-/g/6636"
+medium_time "0:05:42"
+points 1341
+popularity 61.09
+title "Christmas Tree"
+width 15
+
+color a ffffff
+color b ff8f35
+color c 007b00
+color d 84669c
+color f 8d6163
+
+rows
+c 1
+c 1 f 1 c 1
+c 3 f 1 c 3
+b 1 c 1 f 1 c 1 d 1
+c 1 f 1 c 1
+c 2 f 1 b 1 c 2
+c 5 f 1 c 5
+d 1 c 1 f 1 c 1 b 1
+c 2 c 1 f 1 c 1 c 2
+c 4 d 1 f 1 c 4
+c 1 f 1 d 1 c 1
+c 4 f 1 c 4
+b 1 f 1 d 1
+f 3
+f 5
+
+columns
+0
+c 2
+c 1 c 3
+c 2 c 1 c 1 b 1
+c 1 b 1 c 2 d 1 c 1 c 1
+c 1 c 1 c 1 c 1 d 1 c 1 f 1
+c 3 c 2 c 1 f 2
+c 1 f 14
+c 3 b 1 c 2 c 1 f 2
+c 1 d 1 c 1 c 1 c 1 d 1 c 1 f 1
+c 1 c 2 c 1 c 1
+c 2 b 1 c 1 c 1 d 1
+c 1 c 3
+c 2
+0

@@ -1,0 +1,51 @@
+by "jedslater"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/2/10"
+height 17
+id 94794
+link "https://www.griddlers.net/nonogram/-/g/94794"
+medium_time "0:03:29"
+points 405
+popularity 63.09
+title "Captain Price"
+width 12
+
+color a ffffff
+color b ffedaa
+color c a49696
+color d 57615e
+color e 333333
+
+rows
+d 5
+d 11
+c 3 b 2 c 1 b 1
+c 1 b 1 c 1 b 3 c 1 b 3
+c 1 b 1 c 2 b 3 c 1 b 3
+c 2 b 1 c 7
+b 7
+e 8
+e 10
+e 12
+b 2 e 8 b 2
+b 3 d 6 b 3
+b 3 d 6 b 3
+b 2 d 8 b 2
+d 3 d 3
+e 3 e 3
+e 4 e 4
+
+columns
+d 1 e 1 b 4 e 1
+d 1 c 3 e 2 b 4 e 2
+d 1 c 1 b 2 c 1 e 4 b 2 d 2 e 2
+d 2 c 3 b 2 e 4 d 4 e 2
+d 2 c 1 b 1 c 2 b 1 e 4 d 4
+d 2 b 3 c 1 b 1 e 4 d 3
+d 2 b 3 c 1 b 1 e 4 d 3
+d 2 c 2 b 1 c 1 b 1 e 4 d 4
+d 1 b 2 c 2 b 1 e 4 d 4 e 2
+d 1 b 2 c 1 b 1 e 4 b 2 d 2 e 2
+d 1 b 2 c 1 e 2 b 4 e 2
+b 1 e 1 b 4 e 1

@@ -1,0 +1,78 @@
+by "Jake Griffin (jako7286)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Jake Griffin"
+date "Dec 17, 2007"
+description "Tux, the Linux penguin mascot. Would probably look a bit better with yellow, but I don't think it looks too bad. http://en.wikipedia.org/wiki/Tux"
+difficulty 1.75
+height 31
+id 2018
+link "https://webpbn.com/play.cgi?id=2018"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Black Tie Affair"
+width 26
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 6
+black 8
+black 9
+black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 2
+black 1 black 1 red 3 black 1 black 2
+black 2 red 5 black 3
+black 1 red 7 black 2
+black 2 red 6 black 2
+black 1 red 3 black 3
+black 1 black 3
+black 3 black 2
+black 2 black 3
+black 3 black 4
+black 3 black 3
+black 3 black 4
+black 3 black 3
+black 3 black 4
+black 3 black 4
+black 3 black 4
+red 1 black 2 black 4
+red 3 black 2 red 2 black 4
+red 6 black 2 red 3 black 1 red 2
+red 8 black 2 red 7
+red 9 black 2 red 9
+red 9 black 2 black 1 red 9
+red 10 black 2 red 9
+red 10 black 7 red 8
+red 8 black 7 red 6
+red 4 black 4 red 4
+
+columns
+red 5
+red 6
+red 7
+red 8
+black 4 red 9
+black 7 red 9
+black 9 red 8
+black 5 black 2 red 7
+black 7 black 3 black 2 red 6
+black 2 black 1 red 1 black 4 black 3 red 3
+black 3 black 2 red 3 black 2 black 2
+black 4 red 5 black 2
+black 6 red 5 black 3
+black 4 red 5 black 3
+black 4 black 2 red 3 black 3
+black 3 black 1 red 2 black 1 black 4
+black 10 black 4
+black 11 red 6
+black 6 red 9
+black 9 red 9
+black 9 red 8
+black 8 red 7
+black 5 red 7
+black 1 red 6
+red 4
+red 3

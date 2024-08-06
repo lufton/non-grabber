@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 30, 2011"
+description "up"
+difficulty 1.25
+height 15
+id 13696
+link "https://webpbn.com/play.cgi?id=13696"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "U as in"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 15
+red 1 black 13 red 1
+red 1 black 8 red 1 black 4 red 1
+red 1 black 7 red 3 black 3 red 1
+red 1 black 6 red 5 black 2 red 1
+red 1 black 5 red 7 black 1 red 1
+red 1 black 7 red 3 black 3 red 1
+red 1 black 7 red 3 black 3 red 1
+red 1 black 1 black 2 black 2 red 3 black 3 red 1
+red 1 black 1 black 2 black 2 red 3 black 3 red 1
+red 1 black 1 black 2 black 2 red 3 black 3 red 1
+red 1 black 1 black 2 black 2 red 3 black 3 red 1
+red 1 black 1 black 2 red 3 black 3 red 1
+red 1 black 13 red 1
+red 15
+
+columns
+red 15
+red 1 black 13 red 1
+red 1 black 7 black 1 red 1
+red 1 black 11 black 1 red 1
+red 1 black 11 black 1 red 1
+red 1 black 7 black 1 red 1
+red 1 black 4 red 1 black 8 red 1
+red 1 black 3 red 2 black 8 red 1
+red 1 black 2 red 10 black 1 red 1
+red 1 black 1 red 11 black 1 red 1
+red 1 black 2 red 10 black 1 red 1
+red 1 black 3 red 2 black 8 red 1
+red 1 black 4 red 1 black 8 red 1
+red 1 black 13 red 1
+red 15

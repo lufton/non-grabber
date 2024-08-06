@@ -1,0 +1,98 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/4/18"
+height 39
+id 188538
+link "https://www.griddlers.net/nonogram/-/g/188538"
+medium_time "0:34:11"
+points 57282
+popularity 77.08
+title "Peace Dove"
+width 35
+
+color a ffffff
+color b 000000
+color c c98c00
+color d 993300
+color e 009900
+color f 0000ff
+color g ccffcc
+
+rows
+f 7
+f 11
+f 15
+f 3 e 1 f 1 c 2 f 6 e 1 f 4
+f 3 e 3 c 1 d 2 c 1 f 6 e 2 f 3
+f 2 e 4 d 2 f 10 e 1 c 1 f 3
+f 3 c 1 e 1 f 14 e 1 c 2 f 4
+f 2 c 2 d 1 f 19 f 3
+f 3 c 1 d 1 e 1 f 17 f 2
+f 2 c 1 d 2 e 2 f 11 f 3
+f 2 c 1 f 1 e 6 f 7 f 2 f 2
+f 2 c 1 f 3 e 1 f 9 f 3 f 3
+f 2 e 1 f 1 g 3 f 1 f 4 f 7 f 1 c 1 f 2
+f 2 e 2 f 2 g 1 f 3 f 2 f 3
+f 3 e 4 c 1 g 1 b 1 f 4 f 1 d 2 f 2
+f 2 e 4 f 2 g 1 f 1 f 2 d 2 f 2
+f 2 e 6 g 6 f 1 d 1 c 1 d 2 f 1
+f 2 e 4 g 6 f 2 c 2 e 1 d 1 f 1
+f 2 e 4 g 1 e 1 g 1 e 1 g 1 f 2 e 2 c 1 e 1 f 2
+f 3 e 4 g 2 e 1 g 3 f 3 e 3 c 1 f 1
+f 2 c 1 e 4 g 1 e 2 g 2 g 1 f 5 e 2 c 2 f 1
+f 2 c 1 e 6 g 2 e 1 g 2 f 8 c 2 f 1
+f 2 d 1 c 1 e 5 g 1 e 2 f 1 f 9 e 1 c 1 f 2
+f 1 d 1 c 2 e 1 f 7 f 8 c 2 f 2
+f 2 d 1 c 1 f 4 d 1 c 2 f 1 f 5 c 1 d 2 f 1
+f 2 d 2 f 5 d 1 c 2 f 1 f 3 c 2 d 1 f 2
+f 3 d 1 f 6 d 1 c 1 f 2 c 1 d 1 f 2
+f 2 d 1 c 1 f 5 d 1 c 2 f 2 f 1 d 2 f 1
+f 2 d 1 c 1 f 6 d 1 c 3 f 5 f 1 e 1 d 1 e 1 f 1
+f 3 c 1 f 6 d 1 c 4 d 1 f 3 f 1 e 3 f 2
+f 2 c 1 f 6 d 1 c 3 d 1 f 6 f 2 c 1 e 1 f 2
+f 10 d 1 c 1 d 1 f 6 f 2 c 2 e 1 f 2
+f 8 d 1 c 2 d 1 f 6 f 2 c 1 d 2 f 2
+f 6 d 1 c 4 d 1 f 6 e 1 c 1 d 1 f 3
+f 6 d 2 c 2 d 1 f 5 e 3 f 3
+f 7 d 1 c 1 d 1 f 4 e 2 f 4
+f 7 d 1 f 9
+f 13
+f 9
+
+columns
+f 9
+f 15
+f 5 e 4 f 1 c 2 d 2 f 5
+f 4 e 10 c 2 d 2 f 4
+f 3 c 2 f 1 e 10 c 2 d 4 f 3
+f 3 c 1 f 2 g 1 f 1 e 10 f 3 c 2 f 4
+f 2 c 2 d 1 e 1 f 1 g 1 f 1 e 1 f 1 e 1 g 2 e 4 f 6 c 2 f 3
+f 3 c 1 d 2 e 1 f 1 g 2 c 1 f 1 e 1 g 1 e 1 g 2 e 2 f 12
+f 1 e 1 c 1 d 1 e 4 f 1 g 6 e 3 f 13
+f 2 e 2 f 2 e 2 f 1 g 2 e 3 g 2 f 1 d 1 f 12
+f 2 e 2 f 4 e 1 f 1 b 1 g 6 e 1 f 1 c 1 d 1 f 11
+f 2 e 2 f 4 e 1 f 1 g 2 g 2 e 2 f 1 c 2 d 2 f 10
+f 2 e 2 d 1 f 7 g 1 g 1 f 3 c 3 d 1 f 4 d 1 f 4
+f 3 c 1 d 1 f 8 g 1 g 2 f 2 c 2 d 2 f 1 d 1 c 1 d 1 f 4
+f 3 c 1 d 1 f 9 g 1 f 2 c 3 d 1 c 2 d 1 f 4
+f 3 c 1 d 1 f 10 f 1 c 7 d 1 f 3
+f 4 c 1 f 7 f 2 f 1 c 2 d 2 c 3 d 1 f 2
+f 12 f 1 f 1 c 1 d 1 f 2 d 3 f 3
+f 11 f 2 f 1 d 1 f 9
+f 10 f 1 f 11
+f 10 f 1 f 11
+f 8 f 1 f 10
+f 2 e 1 f 5 f 1 f 1 f 5 e 1 f 2
+f 2 e 1 f 4 f 1 f 2 f 1 f 1 e 2 f 2
+f 2 e 3 f 2 f 1 f 3 f 1 e 2 f 2
+f 2 c 2 f 2 f 1 f 5 f 2 c 1 e 1 f 2
+f 3 c 1 f 1 f 2 f 6 f 2 c 1 d 1 f 2
+f 4 f 1 f 8 f 2 c 1 d 1 f 3
+f 2 f 2 f 9 f 1 e 1 c 2 d 1 f 2
+f 2 f 1 f 3 e 1 f 6 c 1 f 1 e 4 f 2
+f 4 f 1 f 2 d 1 c 1 e 3 f 3 c 3 d 2 e 1 f 3
+f 5 c 1 f 1 d 2 c 3 e 2 f 1 e 1 c 1 d 4 e 1 f 3
+f 5 d 3 e 3 c 4 d 1 f 5
+f 5 d 2 f 1 c 3 f 5
+f 10

@@ -1,0 +1,51 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "May  1, 2011"
+description "night."
+difficulty 1.5
+height 15
+id 13709
+link "https://webpbn.com/play.cgi?id=13709"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Careful driving at...."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 4 black 3
+black 1 black 2 black 2
+black 1 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 2
+black 2 red 1 red 1 black 4 red 1 red 1 black 3
+black 15
+black 15
+black 15
+black 2 black 7 black 2
+black 1 red 5 black 1
+black 1 red 10 black 1
+black 1 red 12 black 1
+black 1 red 4 black 6 red 4
+red 4 black 8 red 3
+red 3 black 10 red 2
+red 2 black 12 red 1
+
+columns
+black 12 red 3
+black 1 red 1 black 5 red 4
+red 1 black 3 red 4 black 1
+black 1 black 3 red 4 black 2
+red 1 black 4 red 3 black 3
+black 1 red 1 black 5 red 3 black 4
+black 8 red 3 black 4
+black 8 red 3 black 4
+black 1 red 1 black 5 red 3 black 4
+red 1 black 4 red 3 black 4
+black 1 black 4 red 2 black 4
+red 1 black 3 red 3 black 3
+black 1 red 1 black 4 red 4 black 2
+black 8 red 4 black 1
+black 11 red 4

@@ -1,0 +1,83 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Jun 14, 2011"
+description "Poor Yorick, I knew him well. From Hamlet"
+difficulty 1.75
+height 30
+id 14627
+link "https://webpbn.com/play.cgi?id=14627"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Alas,"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 30
+black 30
+black 30
+black 11 black 15
+black 10 black 14
+black 9 black 1 black 1 black 13
+black 9 black 1 black 1 black 13
+black 9 black 13
+black 9 black 2 black 13
+black 4 blue 1 black 4 black 13
+black 3 blue 3 black 4 black 2 black 14
+black 2 blue 5 black 4 black 15
+black 1 blue 7 black 3 black 7 black 6
+black 1 blue 1 blue 1 black 3 blue 3 black 6 black 4
+black 1 black 1 black 1 black 3 blue 3 black 5 black 2
+black 1 black 3 blue 3 black 5 black 4 black 2 black 2
+black 2 red 1 black 4 blue 3 black 5 black 2
+green 3 green 5 blue 3 green 5 green 2
+green 2 blue 5 green 4 blue 3 green 5 green 2
+green 1 blue 13 green 5 green 2
+blue 14 green 16
+blue 14 green 16
+blue 8 green 9 green 9 green 1
+blue 8 green 8 green 7
+blue 8 green 7 green 5
+blue 8 green 6 green 3
+blue 8 green 6 black 5 green 3 black 5
+blue 8 green 6 green 3
+blue 8 green 6 green 3
+blue 8 green 6 green 3
+
+columns
+black 17 green 3 blue 10
+black 12 blue 2 black 1 green 2 blue 11
+black 11 blue 2 green 1 blue 12
+black 10 blue 3 black 1 blue 12
+black 9 blue 4 red 1 blue 12
+black 10 blue 3 black 1 blue 12
+black 11 blue 2 green 1 blue 12
+black 12 blue 2 black 1 green 2 blue 11
+black 17 green 2 blue 3 green 8
+black 5 black 7 green 2 blue 3 green 8
+black 4 black 6 green 2 blue 3 green 8
+black 3 black 2 blue 9 green 8
+black 3 black 1 black 1 blue 9 green 8
+black 3 black 1 black 1 blue 9 green 8
+black 3 black 2 black 5 green 8
+black 4 black 6 green 7 black 1
+black 5 black 7 green 6 black 1
+black 17 green 5 black 1
+black 17 green 6 black 1
+black 14 green 4 black 1
+black 13 black 1 green 5
+black 12 black 1 green 10
+black 12 black 1 green 10
+black 13 black 1 green 10
+black 14 green 5
+black 17 green 7 black 1
+black 17 green 6 black 1
+black 14 green 2 black 1
+black 13 black 1 green 2 black 1
+black 12 black 1 green 3 black 1

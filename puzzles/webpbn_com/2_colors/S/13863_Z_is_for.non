@@ -1,0 +1,47 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joe"
+date "May 30, 2011"
+description "Zigzag logic."
+difficulty 2.0
+height 15
+id 13863
+link "https://webpbn.com/play.cgi?id=13863"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 1.75
+title "Z is for"
+width 15
+
+rows
+15
+1,1
+2,2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2,2
+2,1
+15
+
+columns
+3,2
+1,1,2
+1,1,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+1,1,1,1
+2,3

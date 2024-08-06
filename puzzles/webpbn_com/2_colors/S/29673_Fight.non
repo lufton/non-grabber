@@ -1,0 +1,43 @@
+by "Alex Feye (alexfeye)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Alex Feye"
+date "Apr 12, 2017"
+description "Two people are fighting each other. One is about to hit the other with a deadly kick!"
+difficulty 1.25
+height 12
+id 29673
+link "https://webpbn.com/play.cgi?id=29673"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Fight!"
+width 14
+
+rows
+0
+2,2
+2,2
+1,1
+1,1,1,1,1,1
+5,4
+1,1
+1,1
+3,8
+1,1,1
+1,1,1
+1,1,1
+
+columns
+1
+1,4
+8
+2,1,4
+1
+1,1
+1,1
+1
+1,1
+1,1
+2,1,1
+8
+1,4
+1

@@ -1,0 +1,61 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Sep  2, 2010"
+description "A Broken Heart"
+difficulty 1.5
+height 20
+id 10140
+link "https://webpbn.com/play.cgi?id=10140"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Even Duct Tape Couldn't Fix It"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4 red 4
+red 6 black 2 red 6
+red 7 black 1 red 8
+red 8 black 3 red 7
+red 10 black 2 red 8
+red 9 black 2 red 9
+red 8 black 2 red 10
+red 8 black 1 red 11
+red 8 black 3 red 9
+red 10 black 2 red 8
+red 10 black 2 red 6
+red 8 black 3 red 7
+red 6 black 2 red 8
+red 5 black 1 red 8
+red 4 black 2 red 6
+red 4 black 2 red 4
+red 4 black 2 red 2
+red 2 black 2 red 2
+red 1 black 1 red 2
+red 2
+
+columns
+red 6
+red 9
+red 11
+red 13
+red 14
+red 16
+red 17
+red 18
+red 6 black 3 red 3 black 3 red 4
+black 3 red 1 black 2 red 1 black 1 red 2 black 2 red 1 black 2 red 1 black 2 red 1
+black 1 red 1 black 3 red 2 black 2 red 1 black 1 red 3 black 3 red 2
+red 2 black 2 red 4 black 3 red 4 black 1 red 2
+red 10 black 1 red 7
+red 17
+red 16
+red 15
+red 13
+red 11
+red 9
+red 6

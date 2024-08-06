@@ -1,0 +1,83 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar  2, 2011"
+description "My portion of the wishbone, that is. Yeesh. Get your minds out of the gutter. There's also a plate with a bone and left over potatoes, a half a glass of water and two green chairs in the back."
+difficulty 3.0
+height 30
+id 12500
+link "https://webpbn.com/play.cgi?id=12500"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Mine's bigger than yours!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6 green 12
+green 7 red 2 green 14
+green 7 red 4 green 5 black 8 green 1
+green 7 red 4 green 3 black 2 black 1
+green 7 red 4 green 1 black 3 black 2
+green 7 red 3 green 1 black 1 black 1 green 1 black 2
+blue 10 red 2 blue 1 red 4 blue 1 black 3 blue 3 black 1
+black 2 red 2 red 4 black 2
+black 2 black 1 red 3 red 4 black 2
+black 2 black 1 red 4 red 4 black 2 black 1 black 1
+black 2 black 1 red 4 red 4 black 1 black 2 black 1
+black 2 black 1 red 4 red 1 black 1 black 2 black 1
+black 2 black 2 red 2 black 1 black 2 black 2 black 1
+black 1 black 2 red 2 blue 2 black 1 black 2 black 2 black 1
+black 1 red 2 blue 1 black 2 black 2 black 2
+black 9 blue 2 black 1 black 2 black 2
+black 1 blue 3 black 3 black 2 black 1
+black 1 blue 4 black 1 black 2 black 1
+black 9 blue 3 black 1 black 2 black 1
+black 1 black 1 blue 3 black 1 black 1 red 2
+black 1 green 6 black 2 red 3
+black 9 green 2 green 2 red 1
+black 1 black 1 green 2 green 2
+black 1 green 2 green 2
+black 9 green 1 blue 1 red 1 green 1
+black 1 black 1 green 1 blue 1 blue 1 red 3 green 1
+black 1 green 1 blue 1 red 1 green 1
+black 9 green 1 blue 1 red 1 green 1
+black 3 red 2 green 1 red 1 green 1
+red 2 green 2 red 2 green 2
+
+columns
+green 6 blue 1 black 2 black 1
+green 6 blue 1 black 2 black 1
+green 6 blue 1 black 2 black 2 black 2 black 2 black 2 black 2
+green 6 blue 1 black 2 black 1 black 1 black 1 black 1 black 1 black 1
+green 6 blue 1 black 2 black 2 black 1 black 1 black 1 black 1 black 1
+green 6 blue 1 black 2 black 2 black 1 black 1 black 1 black 1 black 1
+green 5 blue 1 black 1 black 1 red 4 black 1 black 1 black 1 black 1 black 1 red 2
+blue 1 black 2 red 5 black 1 black 1 black 1 black 1 black 1 red 2
+blue 1 red 3 black 1 black 1 black 1 black 1 black 1
+blue 1 red 4 black 1 black 1 black 1 black 1 black 1
+red 2 red 5 black 1 black 1 black 1 black 1 black 1
+red 4 red 4 black 2 black 2 black 2 black 2
+red 4 blue 1
+red 5
+red 4
+red 4 green 7
+green 5 red 4 green 2 green 1
+green 4 black 2 blue 1 red 4 blue 3 green 2
+green 4 black 1 black 1 red 3 blue 1 blue 3 green 2 blue 1
+green 3 black 2 black 1 red 3 black 2 blue 4 green 1 blue 1 blue 1
+green 3 black 1 black 1 red 1 black 1 black 2 blue 4 green 1 blue 2
+green 2 black 1 black 1 blue 1 black 2 black 2 black 1 blue 3 green 1
+green 2 black 1 black 1 green 1 blue 1 black 2 black 2 black 3 green 1
+green 2 black 1 black 2 blue 1 black 2 black 2 black 2 black 1 green 1 red 1 red 1
+green 2 black 1 black 3 black 2 black 2 black 1 black 1 green 1 red 6
+green 2 black 1 black 2 black 2 black 2 black 1 green 2 red 1
+green 2 black 1 black 2 black 2 black 1 green 2 green 1
+green 2 black 1 black 2 black 2 black 1 red 2 green 7
+green 2 black 1 black 2 black 2 black 1 red 3
+green 2 black 1 black 3 black 1 red 1

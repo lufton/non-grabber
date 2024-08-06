@@ -1,0 +1,103 @@
+by "Robyne_Hud"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/24/05"
+height 46
+id 24469
+link "https://www.griddlers.net/nonogram/-/g/24469"
+medium_time "0:16:40"
+points 390254
+popularity 71.28
+title "Mah Jongg - 3 Circles"
+width 36
+
+color a ffffff
+color b 000000
+color c 0000ff
+color d ffff00
+
+rows
+b 36
+b 3 b 3
+b 2 b 2
+b 1 b 1
+b 1 b 8 b 4 b 1
+b 1 b 2 c 6 b 2 b 2 b 2 b 1
+b 1 b 2 c 8 b 2 b 2 b 1
+b 1 b 2 c 1 d 3 c 2 d 3 c 1 b 2 b 3 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 2 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 2 b 2 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 4 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 2 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 2 c 8 b 1 b 1
+b 1 b 2 c 6 b 1 b 7 b 1
+b 1 b 7 b 1 c 6 b 2 b 1
+b 1 b 1 c 8 b 2 b 1
+b 1 b 1 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 2 c 1 d 3 c 2 d 3 c 1 b 1 b 1
+b 1 b 2 c 8 b 1 b 1
+b 1 b 2 c 6 b 1 b 7 b 1
+b 1 b 7 b 1 c 6 b 2 b 1
+b 1 b 1 c 8 b 2 b 1
+b 1 b 1 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 2 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 2 c 8 b 2 b 1
+b 1 b 2 c 6 b 2 b 1
+b 1 b 8 b 1
+b 1 b 1
+b 2 b 2
+b 3 b 3
+b 36
+
+columns
+b 46
+b 3 b 3
+b 2 b 8 b 2
+b 1 b 2 c 6 b 2 b 1
+b 1 b 2 c 8 b 2 b 1
+b 1 b 2 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 7 b 1
+b 1 b 2 c 1 d 3 c 2 d 3 c 1 b 1 b 1 c 6 b 2 b 1
+b 1 b 2 c 8 b 1 b 1 c 8 b 2 b 1
+b 1 b 2 c 6 b 1 b 1 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 8 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 7 b 1
+b 1 b 2 c 1 d 3 c 2 d 3 c 1 b 1 b 1 c 6 b 2 b 1
+b 1 b 2 c 8 b 1 b 1 c 8 b 2 b 1
+b 1 b 2 c 6 b 1 b 1 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 7 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 b 1 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 2 b 2 b 1 c 3 d 1 c 1 d 2 c 1 d 1 c 3 b 1 b 1
+b 1 b 1 b 1 b 1 b 1 c 2 d 3 c 2 d 3 c 2 b 1 b 1
+b 1 b 1 b 1 b 1 b 1 c 2 d 1 c 1 d 4 c 1 d 1 c 2 b 1 b 1
+b 1 b 7 b 2 c 1 d 3 c 2 d 3 c 1 b 2 b 1
+b 1 b 2 b 2 b 2 c 8 b 2 b 1
+b 1 b 2 c 6 b 2 b 1
+b 2 b 8 b 2
+b 3 b 3
+b 46

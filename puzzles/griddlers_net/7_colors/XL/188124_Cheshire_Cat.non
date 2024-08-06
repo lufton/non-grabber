@@ -1,0 +1,90 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/7/18"
+height 28
+id 188124
+link "https://www.griddlers.net/nonogram/-/g/188124"
+medium_time "0:16:56"
+points 31638
+popularity 74.65
+title "Cheshire Cat"
+width 38
+
+color a 8d1063
+color b 000000
+color c ffffff
+color d 798585
+color e 9900cc
+color f ffe300
+color h ff00ff
+
+rows
+0
+b 4 b 4
+b 8 b 8
+b 2 b 2 b 2 b 2
+b 5 b 1 b 1 b 5
+b 1 f 5 b 1 b 1 f 5 b 1
+b 1 f 7 b 1 b 1 f 7 b 1
+b 1 b 1 f 9 b 1 b 1 f 9 b 1 b 1
+b 1 b 1 f 11 b 1 b 1 f 11 b 1 b 1
+b 2 b 1 f 5 b 2 f 4 b 1 b 1 f 4 b 2 f 5 b 1 b 2
+b 1 c 1 b 1 f 4 b 4 f 3 b 1 b 1 f 3 b 4 f 4 b 1 c 1 b 1
+b 1 c 2 b 1 f 4 b 4 f 3 b 1 b 1 f 3 b 4 f 4 b 1 c 2 b 1
+h 1 c 2 b 1 f 4 b 2 f 3 b 1 b 1 f 3 b 2 f 4 b 1 d 1 c 2 h 1
+h 1 c 2 b 1 f 7 b 10 f 7 b 1 d 1 c 2 h 1
+h 1 c 2 d 1 c 1 b 2 f 4 b 3 e 6 b 3 f 4 b 2 c 1 d 1 c 2 h 1
+h 2 c 1 d 1 c 2 b 4 b 1 e 8 b 1 b 4 c 2 d 1 c 1 h 2
+h 2 c 1 d 1 c 2 d 1 b 1 e 7 b 2 d 1 c 2 d 1 c 1 h 2
+h 3 d 1 c 2 d 1 c 1 b 2 e 5 b 1 c 1 d 1 c 3 h 3
+h 3 c 2 d 2 c 2 d 1 b 2 e 2 b 2 d 1 c 2 d 2 c 2 h 3
+h 4 c 1 d 1 c 3 d 1 c 2 d 1 b 2 d 1 c 2 d 1 c 3 d 1 c 1 h 4
+h 5 c 3 d 2 c 2 d 1 c 2 d 1 c 2 d 2 c 2 d 1 c 2 d 1 c 2 d 2 c 3 h 5
+h 6 c 2 d 1 c 2 d 2 c 2 d 1 c 2 d 2 c 2 d 1 c 2 d 2 c 2 d 1 c 2 h 6
+h 7 c 1 d 1 c 2 d 1 c 3 d 1 c 2 d 2 c 2 d 1 c 3 d 1 c 2 d 1 c 1 h 7
+h 9 c 2 d 1 c 2 d 2 c 2 d 2 c 2 d 2 c 2 d 1 c 2 h 9
+h 12 c 2 d 1 c 3 d 2 c 3 d 1 c 2 h 12
+h 15 c 3 d 2 c 3 h 15
+h 38
+h 38
+
+columns
+b 3 h 16
+b 2 c 5 h 13
+b 1 c 6 h 11
+d 4 c 1 h 9
+b 4 c 6 h 8
+b 1 f 4 b 1 c 3 d 2 c 1 h 7
+b 1 b 1 f 6 b 1 d 3 c 3 h 6
+b 2 b 1 f 8 b 1 c 6 h 5
+b 2 b 1 f 9 b 1 c 2 d 3 h 5
+b 2 b 1 f 5 b 2 f 3 b 1 d 3 c 3 h 4
+b 2 b 1 f 4 b 4 f 2 b 1 c 5 h 4
+b 2 b 1 f 4 b 4 f 2 b 1 c 2 d 3 h 4
+b 1 b 1 f 5 b 2 f 3 b 1 d 3 c 3 h 3
+b 1 b 1 f 8 b 1 c 5 h 3
+b 2 b 1 f 6 b 4 c 3 d 2 h 3
+b 2 b 1 f 4 b 3 e 2 b 1 d 4 c 2 h 2
+b 4 b 1 e 3 b 2 c 6 h 2
+b 1 e 4 b 1 c 6 h 2
+b 1 e 5 b 1 d 6 h 2
+b 1 e 5 b 1 d 6 h 2
+b 1 e 4 b 1 c 6 h 2
+b 4 b 1 e 4 b 1 c 6 h 2
+b 2 b 1 f 4 b 3 e 1 b 2 d 4 c 2 h 2
+b 2 b 1 f 6 b 4 c 3 d 2 h 3
+b 1 b 1 f 8 b 1 c 5 h 3
+b 1 b 1 f 5 b 2 f 3 b 1 d 3 c 3 h 3
+b 2 b 1 f 4 b 4 f 2 b 1 c 2 d 3 h 4
+b 2 b 1 f 4 b 4 f 2 b 1 c 5 h 4
+b 2 b 1 f 5 b 2 f 3 b 1 d 3 c 3 h 4
+b 2 b 1 f 9 b 1 c 2 d 3 h 5
+b 2 b 1 f 8 b 1 c 6 h 5
+b 1 b 1 f 6 b 1 d 3 c 3 h 6
+b 1 f 4 b 1 c 3 d 2 c 1 h 7
+b 4 c 6 h 8
+d 5 c 2 h 9
+b 1 c 6 h 11
+b 2 c 5 h 13
+b 3 h 16

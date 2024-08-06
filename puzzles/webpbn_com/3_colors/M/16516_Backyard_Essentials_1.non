@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Nov 25, 2011"
+description "Patio furniture... I have a high table with barstools that match my built-in bbq grill but I've always been partial to the umbrella table and chair sets like this one."
+difficulty 1.5
+height 20
+id 16516
+link "https://webpbn.com/play.cgi?id=16516"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Backyard Essentials #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 1 black 2
+black 1 red 1 black 2 black 1 black 1 black 1 black 2 red 1 black 1
+black 1 red 1 black 9 red 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 9
+red 1
+red 1 black 1
+black 4 red 1 black 4 black 1
+black 5 red 1 black 5 black 1
+black 6 red 1 black 6 black 1
+black 15 black 1
+black 13 black 1
+red 2 black 11 red 2 black 1
+red 3 black 9 red 3 black 1
+red 4 red 1 red 4 black 1
+black 1 black 1 red 1 black 1 black 1 black 1
+black 1 black 1 red 3 black 1 black 1 black 1
+black 1 red 1 red 1 red 1 black 1 black 1
+
+columns
+red 3
+red 3 black 2
+black 1 black 1 red 2
+black 1 red 1 black 1 black 3 red 1 black 3
+black 3 red 1 black 1 black 5
+black 2 black 2 red 1 black 1 black 7
+black 1 black 1 black 3 black 7
+black 1 black 2 red 1 black 1 black 7 red 1
+black 1 black 1 black 3 black 7 red 1
+black 1 black 2 red 1 black 1 red 5 black 4 red 4
+black 1 black 1 black 3 black 7 red 1
+black 1 black 2 red 1 black 1 black 7 red 1
+black 1 black 1 black 3 black 7
+black 2 black 2 red 1 black 1 black 7
+black 3 red 1 black 1 black 5
+black 1 red 1 black 1 black 3 red 1 black 3
+black 1 black 1 red 2
+red 3 black 2
+red 3
+black 12

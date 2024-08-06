@@ -1,0 +1,85 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Andrew Schultz"
+date "Mar 15, 2022"
+description "More from the skill belt loop, from left to right then up to down: Camping, Community Living, Cooking, Swimming. See #35620 for the first set."
+difficulty 3.25
+height 31
+id 35621
+link "https://webpbn.com/play.cgi?id=35621"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Skill Awards, 5-8"
+width 31
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 15 green 1
+blue 2 green 1 blue 3 blue 2 blue 3 green 1 black 13
+blue 2 green 1 blue 3 blue 1 blue 1 green 1 green 2
+blue 1 green 3 blue 3 blue 1 blue 1 green 1 black 9 green 4
+blue 1 green 3 blue 9 blue 1 green 1 green 2 red 1 green 3
+blue 1 green 3 blue 11 green 1 black 5 green 3 red 3 green 2
+green 5 blue 10 green 1 green 4 red 5 green 1
+green 5 green 1 green 7 red 3 green 2
+green 5 green 1 green 9 red 3 green 2
+black 1 red 5 green 8 red 1 green 2 red 3 green 2
+black 1 red 1 red 2 red 2 green 3 blue 1 green 3 red 3 green 3 black 1 green 2
+red 3 red 2 red 2 green 2 blue 3 green 1 red 5 green 1 black 3 green 1
+red 5 red 2 red 2 green 1 blue 5 green 1 red 3 green 1 black 5
+red 1 red 4 red 2 red 2 green 2 blue 3 green 2 red 3 green 2 black 3 green 1
+red 1 black 1 red 3 red 2 red 2 green 2 blue 3 green 7 black 3 green 1
+green 31
+black 5 green 1 black 1
+black 9 black 3 green 1 black 1 black 1
+black 6 green 1 black 3 black 1 blue 1 black 1 black 3
+green 1 black 3 black 2 black 2 black 3
+red 1 red 1 red 1 red 1 green 1 black 3 black 1 black 1 black 3
+red 1 red 1 green 1 black 1 black 1 blue 3 black 1 black 1
+red 1 red 3 green 1 black 4 blue 1 blue 1 black 4
+red 1 red 1 red 1 red 1 green 1 black 1 black 1 blue 1 blue 1 black 1 black 1
+red 2 red 5 green 1 black 1 black 1 blue 5 black 1 black 1
+red 8 green 1 black 1 black 1 blue 2 blue 2 black 1 black 1
+red 8 green 1 blue 2 black 1 blue 1 black 1 blue 2
+red 7 green 1 black 1 blue 3 blue 3 black 1
+red 5 red 2 green 1 blue 4 blue 4
+red 5 green 1 blue 5
+green 1 blue 5 blue 5
+
+columns
+blue 6 green 3 red 1 green 1 black 1
+blue 3 green 6 red 1 black 1 green 1 black 2
+blue 1 green 8 black 2 red 1 green 1 black 2 red 1 red 1
+blue 3 green 6 red 2 green 1 black 2 red 2 red 1
+blue 6 green 3 red 4 green 1 black 2 red 2 red 5
+blue 7 red 1 red 3 green 1 black 2 red 1 red 5
+blue 1 blue 4 red 2 red 3 green 1 black 2 red 2 red 6
+blue 1 blue 3 red 3 red 2 green 1 black 1 red 1 red 6
+blue 1 blue 3 red 1 red 2 red 1 green 1 black 2 red 1 red 1 red 4 red 1
+blue 2 blue 3 red 2 red 2 green 1 black 1 red 8
+blue 7 red 2 red 2 green 1 black 1 red 1 red 5
+blue 1 blue 3 red 2 red 1 green 1 black 1 red 1 red 1
+blue 2 blue 3 red 2 green 1 black 2
+blue 2 blue 2 red 2 green 1 black 1
+blue 7 red 1 green 1 black 1
+green 31
+black 1 black 1 black 1 green 3 blue 1 green 3 black 3 blue 1 blue 1 blue 1
+black 1 black 1 black 1 green 3 blue 4 green 1 black 3 black 1 blue 1 blue 1 blue 1
+black 1 black 1 black 1 green 2 blue 5 green 1 black 10 blue 1 blue 1
+black 1 black 1 black 1 green 4 blue 4 green 1 black 3 black 1 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 black 1 green 5 blue 1 green 3 black 1 blue 1 blue 1 blue 1
+black 1 black 1 green 5 red 1 green 4 black 3 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 green 4 red 4 green 2 black 3 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 green 4 red 5 green 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 green 5 red 4 green 2 black 3 blue 1 blue 1 blue 1 blue 1
+black 1 green 2 red 1 green 4 red 1 green 4 black 3 blue 1 blue 1 blue 1 blue 1
+black 1 green 1 red 5 green 2 black 1 green 3 black 1 blue 1 blue 1 blue 1
+black 1 green 1 red 6 green 1 black 4 green 1 black 3 black 1 blue 1 blue 1 blue 1 blue 1
+black 1 green 2 red 5 black 5 green 1 black 10 blue 1 blue 1
+green 4 red 1 green 4 black 4 green 1 black 3 black 1 blue 1 blue 1 blue 1
+green 10 black 1 green 3 black 3 blue 1 blue 1 blue 1

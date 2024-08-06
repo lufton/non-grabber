@@ -1,0 +1,61 @@
+by "strings"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/21/05"
+height 20
+id 23331
+link "https://www.griddlers.net/nonogram/-/g/23331"
+medium_time "0:12:46"
+points 8360
+popularity 62.98
+title "Fast Food"
+width 20
+
+color a ffffff
+color b ff0000
+color g fffd00
+color h 000000
+
+rows
+h 2
+h 1 h 1
+h 1 b 1 h 1
+h 1 h 1
+h 1 b 1 h 1
+h 1 h 9
+h 1 h 3 h 1 h 1 g 5 h 1
+h 1 g 1 h 2 g 1 h 1 h 1 g 1 h 1 h 1 b 5 h 1
+h 1 g 1 h 1 g 1 h 2 g 1 h 1 h 1 h 1
+h 2 h 2 g 1 h 1 g 1 h 1 h 1 b 1 h 1
+h 1 g 1 h 1 h 1 g 1 h 1 g 1 h 1 h 1 b 1 g 1 b 1 h 1
+h 1 g 1 h 1 h 1 h 1 h 1 h 1 b 1 g 1 b 1 g 1 b 1 h 1
+h 9 h 1 b 1 g 3 b 1 h 1
+h 1 b 2 g 3 b 2 h 1 h 1 b 1 g 1 b 1 h 1
+h 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 h 1 h 1 b 1 h 1
+h 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 h 1 h 1 h 1
+h 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 h 1 h 1 h 1
+h 1 b 5 h 1 h 1 b 5 h 1
+h 1 b 5 h 1 h 1 g 5 h 1
+h 5 h 7
+
+columns
+h 2
+h 1 h 1 g 1 h 6
+h 1 g 1 h 1 h 1 g 1 h 1 b 4 h 2
+h 1 g 1 h 1 h 2 b 1 g 3 b 2 h 1
+h 5 h 1 g 1 b 5 h 1
+h 2 g 4 h 2 g 4 b 2 h 1
+h 5 h 1 g 1 b 5 h 1
+h 1 g 1 h 2 b 1 g 3 b 2 h 1
+h 1 g 1 h 1 h 1 b 4 h 2
+h 1 g 2 h 1 h 6
+h 2
+h 2 h 1
+h 1 h 1 h 15
+h 1 b 1 h 1 h 1 g 1 b 1 b 2 b 1 g 1 h 1
+h 1 h 2 g 1 b 1 b 1 g 2 b 1 b 1 g 1 h 1
+h 1 b 1 h 1 g 1 b 1 b 1 g 1 b 1 g 2 b 1 b 1 g 1 h 1
+h 2 g 1 b 1 b 1 g 2 b 1 b 1 g 1 h 1
+h 1 g 1 b 1 b 2 b 1 g 1 h 1
+h 15
+h 1

@@ -1,0 +1,33 @@
+by "Max Drinon (mdrinon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Max Drinon"
+date "Apr 10, 2017"
+description "ant"
+difficulty 1.25
+height 8
+id 29627
+link "https://webpbn.com/play.cgi?id=29627"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Creature"
+width 8
+
+rows
+3,3
+2,2
+1,1,1,1
+2,2
+1,1,1,1
+2,2
+1,1,1,1
+8
+
+columns
+8
+2,1,1,1
+1,1,1,2
+1
+1
+1,1,1,2
+2,1,1,1
+8

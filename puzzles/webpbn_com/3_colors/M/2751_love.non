@@ -1,0 +1,61 @@
+by "Kwiecien (kk01)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Kwiecien"
+date "May  8, 2008"
+description "multicolor"
+difficulty 2.0
+height 20
+id 2751
+link "https://webpbn.com/play.cgi?id=2751"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "love"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 2 red 2
+red 4 red 4
+red 6 red 6
+red 16
+red 16
+red 16
+red 14
+red 12
+red 10
+black 1 black 1 red 8 black 1 black 1
+black 5 red 6 black 5
+black 5 red 4 black 5
+black 3 red 2 black 3
+black 1 black 1
+black 1 black 1
+black 2 black 1 black 1 black 2
+black 3 black 3
+black 12
+black 8
+
+columns
+black 2
+black 4
+red 3 black 4 black 1
+red 5 black 4 black 2
+red 7 black 2 black 2
+red 9 black 2
+red 10 black 2
+red 10 black 2
+red 10 black 2 black 2
+red 10 black 2
+red 10 black 2
+red 10 black 2 black 2
+red 10 black 2
+red 10 black 2
+red 9 black 2
+red 7 black 2 black 2
+red 5 black 4 black 2
+red 3 black 4 black 1
+black 4
+black 2

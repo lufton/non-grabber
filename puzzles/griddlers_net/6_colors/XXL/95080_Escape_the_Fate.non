@@ -1,0 +1,123 @@
+by "lil_white_tiger"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/10/10"
+height 50
+id 95080
+link "https://www.griddlers.net/nonogram/-/g/95080"
+medium_time "0:42:41"
+points 98357
+popularity 70.59
+title "Escape the Fate"
+width 50
+
+color a ecd9ca
+color b 000000
+color c ba0505
+color e 980202
+color f e2b8a1
+color g 948787
+
+rows
+b 1 g 8 g 10
+b 1 g 8 f 1 g 9
+b 1 g 8 f 2 f 1 g 9
+b 2 g 7 f 3 f 2 g 8
+b 2 g 6 f 3 f 3 g 7 b 1
+b 2 g 6 f 3 f 3 g 7 b 1
+b 2 g 4 f 3 f 3 g 7 b 1
+b 2 g 4 f 4 f 4 g 6 b 1
+b 3 g 4 g 3 f 2 f 1 g 3 g 5 b 2
+b 3 g 4 g 3 f 4 g 3 g 4 b 2
+b 3 g 2 f 4 g 3 b 2
+b 3 g 2 g 2 b 3
+b 4 g 1 g 2 b 3
+b 4 g 1 g 2 b 3
+b 4 g 1 e 4 e 4 g 1 b 4
+b 5 e 15 b 4
+b 5 e 18 b 5
+b 6 e 5 e 3 e 2 c 4 b 5
+b 6 c 5 c 5 b 6
+b 7 c 17 b 6
+b 7 c 8 g 1 c 7 b 7
+b 8 c 14 b 8
+b 9 c 11 f 1 b 8
+b 10 c 7 f 2 b 8
+b 11 g 1 f 3 b 8
+b 12 f 3 b 9
+b 12 f 2 f 5 b 9
+b 12 f 3 f 6 b 9
+b 12 f 4 f 5 b 9
+b 13 f 4 f 4 b 10
+b 13 f 5 f 5 b 10
+b 13 f 7 f 7 b 10
+b 13 f 21 b 10
+b 11 b 1 f 20 b 11
+b 10 b 1 f 19 b 11
+b 10 b 1 f 18 b 11
+b 9 e 1 b 1 b 1 f 16 b 11
+b 8 e 1 b 2 b 1 f 16 b 11
+b 7 e 1 b 1 e 1 b 1 b 1 f 2 f 9 b 11
+b 7 e 3 b 1 f 2 f 6 b 11
+b 6 b 1 e 1 b 2 f 2 f 3 b 11
+b 6 b 3 e 1 f 1 b 11
+b 5 b 1 e 2 f 1 e 1 b 11
+b 5 e 2 b 1 f 1 b 1 e 2 b 10
+b 5 b 3 e 3 b 1 b 10
+b 5 b 3 e 1 b 4 b 3 b 6
+b 5 b 1 e 2 b 2 b 2 e 3 b 2 b 6
+b 5 e 2 b 3 e 1 e 2 b 2 e 2 b 2 b 6
+b 5 b 3 e 3 b 2 e 4 b 2 e 1 b 2 b 6
+b 5 b 1 e 1 b 2 e 2 b 2 b 6
+
+columns
+b 50
+b 47
+b 42
+b 38
+g 6 b 35
+g 10 b 25
+g 12 b 21
+g 15 b 17 e 2 b 2
+g 10 b 15 e 1 b 1 e 2 b 2
+g 6 b 13 e 1 b 1 e 2 b 2 e 2
+g 4 b 10 b 5 e 3 b 2
+g 3 b 8 b 4
+f 3 b 10 b 2 e 1
+f 10 e 3
+f 11 b 1 e 1
+e 1 c 1 f 11 b 2
+e 1 c 3 f 12 b 2
+e 2 c 4 f 8 f 3 b 2
+f 5 e 3 c 4 f 7 f 2 e 1 b 1
+f 6 g 1 e 3 c 5 f 8 e 1 b 1
+f 7 g 2 e 3 c 4 f 7 e 2
+f 1 g 2 e 3 c 5 f 8 e 1 b 1
+f 1 g 1 e 3 c 5 f 9 b 2
+f 3 e 4 c 5 f 9 b 1 e 1
+f 2 e 3 c 1 g 1 c 3 g 1 f 9 e 2
+f 2 e 3 c 5 f 8 e 1
+f 2 e 3 c 5 f 8 e 1
+f 1 g 1 e 3 c 5 f 7 e 2
+f 1 g 2 e 4 c 5 f 7 e 1 b 1
+f 6 g 2 e 4 c 5 f 7 b 2
+f 5 g 1 e 2 c 5 f 5 b 2 e 1
+f 4 e 2 c 4 f 5 b 1 e 1
+e 2 c 3 f 4 e 2
+e 1 c 1 f 4 b 1 e 1
+e 1 f 4 b 1 e 1
+f 4 e 1 b 1
+f 4 e 1 b 1
+g 3 f 3 b 1 e 1
+g 7 f 4 e 2 b 1
+g 9 f 4 b 10 e 1
+g 10 f 5 b 17
+g 15 f 3 b 25
+g 14 b 29
+g 11 b 25
+g 8 b 32
+g 4 b 34
+g 1 b 36
+b 39
+b 42
+b 46

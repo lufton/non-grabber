@@ -1,0 +1,59 @@
+by "Lenchik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/24/11"
+height 25
+id 108552
+link "https://www.griddlers.net/nonogram/-/g/108552"
+medium_time "0:01:53"
+points 245
+popularity 60.82
+title "Traffic Lights"
+width 11
+
+color a ffffff
+color b 000000
+color c ffff00
+color d ff0000
+color e 00d700
+color f 999999
+
+rows
+b 3
+b 5
+b 7
+b 3 f 3 b 3
+b 3 f 5 b 3
+b 2 f 2 d 3 f 2 b 2
+b 1 f 1 d 5 f 1 b 1
+f 1 d 5 f 1
+f 1 d 5 f 1
+f 2 d 3 f 2
+f 7
+f 7
+f 2 c 3 f 2
+f 1 c 5 f 1
+f 1 c 5 f 1
+f 1 c 5 f 1
+f 2 c 3 f 2
+f 7
+f 7
+f 2 e 3 f 2
+f 1 e 5 f 1
+f 1 e 5 f 1
+f 1 e 5 f 1
+f 2 e 3 f 2
+f 7
+
+columns
+b 3
+b 3
+b 3 f 20
+b 3 f 2 d 3 f 4 c 3 f 4 e 3 f 2
+b 3 f 2 d 5 f 2 c 5 f 2 e 5 f 1
+b 3 f 2 d 5 f 2 c 5 f 2 e 5 f 1
+b 3 f 2 d 5 f 2 c 5 f 2 e 5 f 1
+b 3 f 2 d 3 f 4 c 3 f 4 e 3 f 2
+b 3 f 20
+b 3
+b 3

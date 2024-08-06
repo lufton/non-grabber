@@ -1,0 +1,47 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Apr 20, 2010"
+description "quickie!!!"
+difficulty 1.25
+height 15
+id 8488
+link "https://webpbn.com/play.cgi?id=8488"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Being a 15x15 it must be a...."
+width 15
+
+rows
+4
+3,2,4
+6,2,3
+6,6
+4,5
+2,4
+12
+5,4
+12
+5,4
+5,4
+5,4
+5,4
+5,4
+6,3
+
+columns
+0
+0
+3,8
+5,9
+15
+1,13
+5,9
+3,1,1,1
+1,1
+2,1,1
+4,4
+1,12
+14
+14
+5,4

@@ -1,0 +1,81 @@
+by "kubaran"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/26/04"
+height 30
+id 12467
+link "https://www.griddlers.net/nonogram/-/g/12467"
+medium_time "0:13:03"
+points 130894
+popularity 61.44
+title "Ninja Turtle"
+width 28
+
+color a ffffff
+color b ff0000
+color c 66cc00
+color d 990099
+color g 491419
+color h 000000
+
+rows
+h 4
+h 4 c 2 h 4
+h 4 c 8 h 4
+h 3 c 14 h 3
+h 2 c 18 h 2
+h 1 c 20 h 1
+h 1 c 20 h 1
+h 2 c 20 h 2
+h 1 c 22 h 1
+d 1 h 1 c 22 h 1 d 1
+d 7 c 12 d 7
+d 26
+d 7 h 2 d 4 h 2 d 7
+d 6 h 4 d 2 h 4 d 6
+d 6 h 4 d 2 h 4 d 6
+d 6 h 2 d 4 h 2 d 6
+h 1 c 3 d 16 c 3 h 1
+h 2 c 8 h 6 c 8 h 2
+h 1 c 8 h 3 c 2 h 3 c 8 h 1
+h 1 c 3 h 1 c 4 h 1 c 6 h 1 c 4 h 1 c 3 h 1
+h 2 c 2 h 2 c 16 h 2 c 2 h 2
+h 1 c 4 h 3 c 12 h 3 c 4 h 1
+h 2 c 5 h 5 c 4 h 5 c 5 h 2
+h 1 c 9 h 6 c 9 h 1
+h 1 c 9 h 1 b 4 h 1 c 9 h 1
+h 3 c 7 h 2 b 2 h 2 c 7 h 3
+h 4 c 5 h 4 c 4 h 4
+h 3 c 10 h 2
+h 3 c 9 h 2
+g 2 c 12 g 2
+
+columns
+h 3
+d 6 h 4 c 1 h 4
+h 3 d 6 h 2 c 7 h 1
+h 4 c 2 d 6 c 9 h 2
+h 2 c 5 d 6 c 4 h 1 c 5 h 1
+h 1 c 6 d 6 c 3 h 3 c 4 h 1
+h 2 c 6 d 7 c 4 h 1 c 4 h 2 g 1
+h 1 c 7 d 3 d 2 c 4 h 2 c 4 h 2 g 1
+h 1 c 8 d 1 h 2 d 1 c 5 h 1 c 4 h 2 c 1
+h 2 c 8 d 1 h 4 d 1 c 5 h 1 c 5 h 1 c 1
+h 1 c 9 d 1 h 4 d 1 c 1 h 2 c 2 h 1 c 7
+h 1 c 9 d 1 h 2 d 1 h 2 c 3 h 4 c 4
+h 2 c 9 d 2 d 2 h 2 c 4 h 1 b 1 h 2 c 3
+h 1 c 10 d 6 h 1 c 5 h 1 b 2 h 1 c 3
+h 1 c 10 d 6 h 1 c 5 h 1 b 2 h 1 c 3
+h 2 c 9 d 2 d 2 h 2 c 4 h 1 b 1 h 2 c 3
+h 1 c 9 d 1 h 2 d 1 h 2 c 3 h 4 c 4
+h 1 c 9 d 1 h 4 d 1 c 1 h 2 c 2 h 1 c 7
+h 2 c 8 d 1 h 4 d 1 c 5 h 1 c 7
+h 1 c 8 d 1 h 2 d 1 c 5 h 1 c 4 h 2 c 1
+h 1 c 7 d 3 d 2 c 4 h 2 c 3 h 3 g 1
+h 2 c 6 d 7 c 4 h 1 c 4 h 1 g 1
+h 1 c 6 d 6 c 3 h 3 c 4 h 1
+h 2 c 5 d 6 c 4 h 1 c 5 h 1
+h 4 c 2 d 6 c 9 h 1
+h 3 d 6 h 2 c 7 h 1
+d 6 h 4 c 1 h 4
+h 3

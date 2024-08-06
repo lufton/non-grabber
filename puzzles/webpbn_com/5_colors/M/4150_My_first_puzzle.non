@@ -1,0 +1,63 @@
+by "Amanda King (Panda_Love)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Amanda King"
+date "Nov 25, 2008"
+description "a slightly creepy happy face that reminds me of a clown. MOM SAYS BE NICE."
+difficulty 2.0
+height 20
+id 4150
+link "https://webpbn.com/play.cgi?id=4150"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "My first puzzle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 black 5
+black 1 black 1 black 1 black 1
+green 3 green 3
+green 1 blue 1 green 1 green 1 blue 1 green 1
+green 1 blue 1 green 1 green 1 blue 1 green 1
+green 3 green 3
+0
+0
+black 2
+black 2
+red 5 black 4 red 5
+red 2 black 2 red 2
+red 2 red 2
+red 2 red 2
+red 2 red 2
+red 2 red 2
+red 5 red 5
+red 16
+red 10
+0
+
+columns
+red 1
+black 1 red 7
+black 1 red 8
+black 1 green 4 red 1 red 2
+black 1 green 1 blue 2 green 1 red 1 red 2
+black 1 green 4 red 3
+black 1 red 2
+black 1 red 2
+black 1 red 2
+black 4 red 2
+black 4 red 2
+black 1 black 1 red 2
+black 1 red 2
+black 1 green 4 red 2
+black 1 green 1 blue 2 green 1 red 3
+black 1 green 4 red 1 red 2
+black 1 red 1 red 2
+black 1 red 8
+red 7
+red 1

@@ -1,0 +1,57 @@
+by "Veruca Salt (verucasalt12)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Veruca Salt"
+date "Nov  6, 2009"
+description "this is sn awesome puzzle thanks for doing it"
+difficulty 1.25
+height 20
+id 7071
+link "https://webpbn.com/play.cgi?id=7071"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "squaes gone wild"
+width 20
+
+rows
+9,10
+1,1
+1,7,8,1
+1,1,1,1
+1,1,5,6,1,1
+1,1,1,1,1,1
+1,1,1,3,4,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1
+0
+1,1,1,1,2,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,4,3,1,1,1
+1,1,1,1,1,1
+1,1,6,5,1,1
+1,1,1,1
+1,8,7,1
+1,1
+10,9
+
+columns
+10,9
+1,1
+1,8,7,1
+1,1,1,1
+1,1,6,5,1,1
+1,1,1,1,1,1
+1,1,1,4,3,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,2,1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,2,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,4,3,1,1,1
+1,1,1,1,1,1
+1,1,6,5,1,1
+1,1,1,1
+1,8,7,1
+1,1
+10,9

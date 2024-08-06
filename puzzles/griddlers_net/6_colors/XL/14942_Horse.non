@@ -1,0 +1,113 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/14/04"
+height 50
+id 14942
+link "https://www.griddlers.net/nonogram/-/g/14942"
+medium_time "0:33:44"
+points 93819
+popularity 83.47
+title "Horse"
+width 40
+
+color a ffffff
+color b 654c2e
+color c 000000
+color d 847152
+color e a0642f
+color f c39059
+
+rows
+b 2
+b 2 c 1 b 1
+b 2 b 1 c 3 b 1
+c 2 b 1 b 1 c 3 b 1
+b 1 c 2 d 1 d 1 c 4 b 1
+b 1 c 2 d 2 d 1 c 4 d 1
+d 1 c 3 d 2 e 6 d 1 c 4 d 1
+d 2 c 2 d 2 e 9 f 2 c 4 d 2
+d 1 c 3 e 8 b 2 f 2 d 2 c 2 d 1
+d 1 c 1 d 1 e 9 b 1 e 1 f 3 d 3
+d 1 c 1 d 1 e 3 b 1 e 8 f 4
+e 4 b 2 e 8 b 2 f 2
+b 1 e 1 f 2 b 3 e 8 b 2 f 2
+b 1 e 1 f 2 b 3 e 3 b 1 e 7 f 1
+b 2 f 1 e 2 b 1 e 3 b 2 e 7 f 2
+f 2 e 2 b 2 e 3 b 2 e 8 f 1
+f 1 c 1 e 4 b 1 e 10 b 2 d 1
+f 1 b 1 e 13 b 1 e 1 b 1 c 1 d 1
+f 1 c 1 b 2 e 5 b 2 e 1 f 2 e 1 c 4 d 1
+f 1 c 3 b 1 e 4 b 2 e 1 f 2 e 1 b 1 c 1 b 2 d 1
+f 1 b 1 c 2 b 1 e 5 b 1 f 3 e 1 b 2 d 1 b 1 d 1
+f 1 b 1 c 1 b 3 e 5 f 4 e 4 d 1
+f 1 b 1 c 1 b 1 e 1 b 1 e 5 f 4 e 4 b 1
+e 1 b 1 c 1 b 1 e 1 b 1 e 5 f 3 e 5 b 1
+e 2 b 1 c 1 b 1 e 1 b 1 d 3 f 1 e 2 f 2 e 5 b 1
+d 1 b 3 c 1 b 3 d 4 e 1 f 1 e 3 f 1 e 2 b 1
+b 2 c 1 b 1 c 3 d 3 b 1 c 2 d 1 e 6
+d 2 b 1 c 1 b 2 c 1 b 1 e 3 f 2 b 2 f 1 e 5
+d 3 b 3 c 2 b 1 d 1 b 1 d 1 e 2 f 3 b 2 e 1 b 2 e 1 b 1
+d 2 b 4 c 4 d 2 e 1 f 1 e 1 f 3 b 1 c 1 d 1 b 2 e 1 b 1
+f 1 d 1 b 6 c 4 b 1 d 1 f 2 e 3 f 1 b 1 c 1 b 5
+f 2 d 2 b 4 c 6 d 1 f 3 e 3 f 2 c 1 b 1 c 2 b 2
+f 2 d 3 b 3 c 7 d 1 f 3 e 3 f 3 b 1 c 2 b 2
+f 1 d 3 b 5 c 7 f 5 d 1 e 1 f 3 c 1 b 4
+f 2 d 2 b 5 c 8 b 1 f 6 d 1 b 1 f 2 c 3 b 1
+f 2 d 3 b 6 c 8 b 1 d 1 f 3 d 1 f 1 d 1 c 1 d 1 f 1 c 3 b 1
+f 2 d 3 b 7 c 9 b 2 f 3 b 1 d 2 c 1 d 1 f 1 c 3 b 1
+d 3 b 7 c 11 b 1 c 1 d 3 b 1 d 2 c 1 d 1 f 1 c 3 b 1
+b 9 c 12 b 1 c 1 b 2 c 2 d 2 c 1 d 1 b 1 c 2 b 2
+b 7 c 14 d 1 c 5 b 1 d 1 c 1 d 1 c 3 b 2
+b 6 c 16 d 1 c 1 b 1 c 2 b 1 d 1 b 1 d 1 c 3 b 2
+b 4 c 18 b 1 c 1 b 2 c 1 b 2 d 1 b 1 c 2 b 2
+b 3 c 20 d 2 b 1 c 1 d 3 c 3 b 2
+b 2 c 22 d 2 b 1 d 2 b 1 c 3 b 2
+b 1 c 31 b 3
+c 32 b 3
+c 32 b 3
+c 32 b 3
+c 32 b 3
+c 32 b 3
+
+columns
+f 1 d 1 b 7 c 5
+f 1 d 1 b 6 c 6
+f 1 d 2 b 5 c 7
+f 1 d 1 b 5 c 8
+f 1 d 2 b 4 c 9
+f 1 d 1 b 5 c 9
+f 1 d 2 b 4 c 10
+f 1 d 2 b 4 c 11
+f 2 d 1 b 5 c 11
+f 1 d 2 b 4 c 12
+f 1 d 2 b 4 c 13
+d 3 b 4 c 13
+d 1 b 6 c 14
+d 2 b 4 c 16
+d 1 b 5 c 16
+d 1 b 3 c 18
+b 1 c 1 b 2 d 2 d 1 b 3 c 19
+b 1 c 4 d 2 e 1 d 1 b 1 d 1 b 3 c 19
+b 1 c 5 d 2 b 3 f 8 e 2 b 4 c 21
+d 2 c 5 e 3 b 1 f 1 c 1 b 1 c 2 b 6 c 24
+d 3 c 1 d 2 e 1 f 3 e 3 b 1 c 6 b 3 c 22
+d 2 e 4 f 2 e 4 b 1 c 2 b 4 c 2 b 2 c 5 b 5 d 1 c 10
+e 5 b 2 e 1 b 1 e 3 b 3 e 3 b 1 c 2 d 2 b 1 d 2 f 2 d 1 b 1 c 3 d 1 b 1 c 8
+e 4 b 5 e 5 b 5 c 1 b 2 d 2 f 6 d 1 b 1 c 3 d 1 c 7
+e 3 b 4 e 2 b 1 e 7 d 1 b 1 d 1 e 1 d 1 e 1 f 7 d 1 b 1 c 1 b 2 d 2 c 6
+e 18 d 3 e 2 f 8 d 1 c 3 b 2 d 1 c 6
+e 18 d 3 e 6 f 2 d 1 b 2 c 5 b 1 c 6
+e 8 b 2 e 2 b 2 e 4 f 1 d 1 b 1 f 3 e 3 d 1 f 2 d 3 b 3 d 2 c 6
+e 7 b 3 e 2 b 3 e 4 d 1 c 1 f 3 e 4 d 7 b 1 d 2 c 6
+e 2 b 1 e 11 f 4 e 2 c 1 b 1 f 6 b 1 c 5 b 1 d 2 b 1 c 6
+e 2 b 2 e 8 f 8 d 1 b 4 f 4 d 6 b 1 c 8
+f 2 e 9 f 7 e 2 f 1 b 1 c 3 f 6 b 1 c 11
+f 3 e 11 f 2 e 6 d 1 b 3 c 11 b 6
+d 1 c 1 d 1 f 2 b 2 e 4 b 1 c 1 b 2 e 7 b 3 c 2 b 1 c 7 b 9
+d 2 c 2 d 1 f 2 b 2 e 5 c 2 b 1 e 4 f 1 e 2 b 3 c 2 b 1 c 4 b 12
+b 2 c 5 d 1 f 3 e 3 b 2 c 1 b 1 d 1 e 9 b 11
+b 1 c 7 d 1 f 5 e 1 b 1 c 2 b 2 e 7 b 6
+b 2 c 5 d 3 f 2 d 6 b 4
+b 1 c 5 d 2
+b 4 d 1

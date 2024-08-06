@@ -1,0 +1,52 @@
+by "koakuma (koakuma)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by koakuma"
+date "Nov 19, 2010"
+description "a little calf it's my first puzzle isn't it cute~? PS: it was difficult to make it solvable, i didn't want it to have red horns..."
+difficulty 1.25
+height 15
+id 11083
+link "https://webpbn.com/play.cgi?id=11083"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "baby animal"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+red 1 red 1
+red 2 red 2
+red 1 red 1 red 1 red 1
+black 12
+black 1 black 1
+black 2 black 2
+black 1 blue 1 blue 1 black 1
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 4
+0
+0
+
+columns
+0
+0
+black 2
+red 1 black 1 black 1
+red 1 black 1 black 4
+red 3 black 1 black 2
+black 1 blue 1 black 2
+black 1 black 1
+black 1 black 1
+black 1 blue 1 black 2
+red 3 black 1 black 2
+red 1 black 1 black 4
+red 1 black 1 black 1
+black 2
+0

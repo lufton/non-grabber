@@ -1,0 +1,88 @@
+by "myamollytaz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/23/07"
+height 32
+id 50711
+link "https://www.griddlers.net/nonogram/-/g/50711"
+medium_time "0:45:36"
+points 57515
+popularity 84.61
+title "Bird"
+width 32
+
+color a ffffff
+color b 000000
+color c 663300
+color d cc9900
+color e 800000
+color f 996600
+color g ffff00
+
+rows
+b 8
+b 4 c 4 d 2 e 1 b 1
+b 1 f 2 b 6
+b 1 f 2 c 5 d 2 e 1 b 1
+b 1 f 2 b 8
+b 1 f 2 c 5 d 2 e 1 b 1
+b 1 f 3 b 6
+f 1 b 1 b 2 f 1 c 5 e 1 b 1
+b 1 f 1 b 2 b 2 f 1 b 1 c 1 b 3
+b 1 e 2 b 1 e 1 b 1 f 1 b 1 f 1 c 3 b 1
+b 1 d 1 e 2 b 1 b 1 f 1 b 1 f 1 b 1 c 1 b 2
+b 1 d 1 b 5 f 2 b 1 f 1 c 1 b 1 c 1 b 1
+d 1 b 3 g 1 b 1 f 4 c 1 c 1 b 1 b 1
+b 1 g 1 b 1 g 1 b 1 f 3 c 1 c 1 b 2
+b 2 f 1 b 1 g 1 b 1 f 2 b 1 c 1 c 1 b 1
+b 1 f 2 b 1 f 1 b 1 g 1 b 1 f 1 b 1 c 1 b 1 c 1 b 1
+b 2 f 4 b 1 f 1 b 1 f 1 b 1 f 1 b 1 b 2
+b 3 f 1 b 1 f 4 b 1 f 1 b 1 f 1 b 1 c 1 b 2
+b 2 f 1 b 1 f 1 b 1 f 1 b 1 f 4 b 1 f 1 b 1 f 1 b 1 c 1
+b 2 f 2 b 1 f 1 b 1 f 1 b 1 c 3 b 2 f 1 b 1 f 1 b 1 f 1 b 2
+b 1 f 4 c 1 b 1 b 1 c 1 b 1 f 1 b 2 c 1 b 1
+b 1 f 2 c 2 c 2 b 1 c 1 b 2 b 8
+b 1 c 1 b 1 c 1 c 1 c 1 b 1 c 3 b 2 b 3 c 1 c 1 b 2
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 5 b 2 c 1 b 1 c 1 b 2
+b 1 c 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 b 1 c 1 b 1 b 1 c 1 d 1 b 2
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 4 b 2 b 1 d 1 b 1 e 1 b 1
+b 1 c 1 b 1 c 1 b 1 d 1 b 1 e 1 b 1 b 1 c 1 b 1 d 1 b 1 e 1 b 1
+b 1 c 1 b 1 d 1 b 1 d 1 b 2 b 1 c 1 b 1 e 1 b 1
+b 1 d 1 b 1 d 1 b 1 e 1 b 1 b 1 d 1 e 1 b 1
+b 1 d 1 b 1 e 1 b 2 b 2
+b 1 e 1 b 2 b 1
+b 2
+
+columns
+b 8
+b 4 c 4 d 2 e 1 b 1
+b 1 f 2 b 6
+b 1 f 2 c 5 d 2 e 1 b 1
+b 1 f 2 c 1 b 8
+b 1 f 2 c 5 d 2 e 1 b 1
+b 1 f 1 b 1 b 6
+f 1 b 1 b 2 f 1 c 5 e 1 b 1
+b 1 f 1 b 2 b 2 f 1 b 1 c 1 b 3
+b 1 e 1 d 1 b 1 d 1 b 1 f 1 b 1 f 1 c 1 b 1 c 1 b 1
+b 1 e 2 d 1 b 1 b 1 f 1 b 1 f 1 b 1 c 1 b 2
+b 1 e 1 b 4 f 3 b 1 c 2 b 1 c 1 b 1
+e 1 b 3 g 1 b 1 f 4 c 1 c 1 b 3
+b 1 g 1 b 1 f 1 b 1 f 3 c 1 c 1 b 1
+b 2 g 1 b 1 f 1 b 1 f 2 b 3 c 1 b 1
+b 2 f 1 b 1 g 1 b 1 f 1 b 1 f 1 b 1 b 1 c 1 b 1
+b 2 f 4 b 1 g 1 b 1 f 1 b 1 f 1 b 1 b 2
+b 3 f 1 b 1 f 4 b 1 f 1 b 1 f 1 b 1 c 1 b 2
+b 2 f 1 b 1 f 1 b 1 f 1 b 1 f 4 b 1 f 1 b 1 f 1 b 2
+b 2 f 4 b 1 f 1 b 1 f 1 c 2 b 2 f 1 b 1 f 1 b 1 f 1 b 2
+b 1 f 5 c 1 c 2 b 1 c 1 b 1 f 1 b 4
+b 1 f 2 c 1 c 2 b 1 c 1 b 1 b 1 c 1 b 6
+b 1 c 1 b 1 c 1 c 1 c 1 b 1 c 3 b 2 b 1 c 1 b 1 c 1 c 1 b 2
+b 1 c 1 b 1 c 1 b 1 c 1 c 2 b 4 b 2 c 1 b 1 c 1 b 2
+b 1 c 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 2 b 1 c 1 b 1 b 1 c 1 d 1 b 2
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 4 b 2 b 1 d 1 b 1 e 1 b 1
+b 1 c 1 b 1 c 1 b 1 d 1 b 1 e 1 b 1 b 1 c 1 b 1 d 1 b 1 e 1 b 1
+b 1 c 1 b 1 d 1 b 1 d 1 b 2 b 1 c 1 b 1 e 1 b 1
+b 1 d 1 b 1 d 1 b 1 e 1 b 1 b 1 d 1 e 1 b 1
+b 1 d 1 b 1 e 1 b 2 b 2
+b 1 e 1 b 2 b 1
+b 2

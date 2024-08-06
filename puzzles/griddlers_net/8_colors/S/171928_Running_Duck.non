@@ -1,0 +1,54 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/27/16"
+height 15
+id 171928
+link "https://www.griddlers.net/nonogram/-/g/171928"
+medium_time "0:05:23"
+points 1003
+popularity 73.22
+title "Running Duck"
+width 14
+
+color a 0099ff
+color b cc0000
+color c ffcc00
+color d 33cc00
+color e 339900
+color f cccccc
+color g ffffff
+color h ff9900
+
+rows
+e 2
+e 2 d 2 e 1
+e 1 d 1 e 1 d 1 c 1
+d 3 c 1
+e 2 c 1
+c 1 g 2
+c 2 f 2 e 1 b 3
+c 1 f 2 b 1 e 6 b 3
+c 1 f 2 b 2 e 3 b 4
+c 1 f 3 b 3 f 2 b 2
+c 2 f 7
+c 1 h 1 c 1 f 3
+h 3 c 1
+h 1 h 2
+h 1
+
+columns
+c 2
+c 2 f 1 c 1
+f 3 c 1 h 1
+f 1 b 1 f 2 c 1 h 2
+e 1 b 1 f 1 c 2 h 1
+e 1 b 1 f 2 h 1
+e 2 b 1 f 1 c 1
+e 2 b 1 f 2
+e 2 e 3 b 1 f 2
+e 1 d 2 e 1 g 1 b 1 e 1 b 1 f 3
+e 1 d 1 e 1 d 1 e 1 g 1 b 3 f 2 c 1
+e 1 d 3 b 4 f 1 h 2
+e 1 c 1 b 3 h 1
+c 1 c 1

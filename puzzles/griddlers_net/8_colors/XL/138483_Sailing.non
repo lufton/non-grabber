@@ -1,0 +1,110 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/20/13"
+height 35
+id 138483
+link "https://www.griddlers.net/nonogram/-/g/138483"
+medium_time "0:37:23"
+points 41293
+popularity 77.98
+title "Sailing"
+width 50
+
+color a ffffff
+color b d60808
+color c 000000
+color d 7b797b
+color e b5aead
+color f 844110
+color g 9ce7f7
+color h 4a41ff
+
+rows
+b 3
+b 3
+c 1 b 5 b 3
+c 1 b 12
+b 4 c 1 b 5
+b 5 c 1 d 1
+b 2 e 2 b 2 c 1 d 1
+b 3 e 2 b 2 c 1 d 2
+b 3 e 3 b 2 c 1 d 2
+b 3 e 3 b 3 c 1 d 2
+b 4 e 2 b 4 c 1 d 3
+b 2 e 4 b 3 c 1 d 3
+b 2 e 5 b 2 c 1 d 3
+b 2 e 6 b 2 c 1 d 1 e 1 d 1
+b 3 e 4 b 3 c 1 d 1 e 2 d 1
+b 2 e 6 b 3 c 1 d 1 e 2 d 1
+b 2 e 5 b 4 c 1 e 5
+b 3 e 5 b 4 c 1 e 5
+b 3 e 4 d 1 b 4 c 1 d 1 e 4
+b 3 e 2 d 4 b 3 c 1 d 1 e 4
+b 4 d 5 b 3 c 1 d 1 e 5
+b 4 d 5 b 3 c 1 d 1 e 5
+b 4 d 5 b 3 c 1 d 1 e 5
+b 4 d 6 b 2 c 1 d 2 e 7
+b 6 d 4 b 3 c 1 d 5 e 5 d 1
+b 4 d 4 b 2 c 1 d 12
+d 5 b 1 c 1 d 12
+f 6 b 2 c 1 d 4 c 1 d 5 c 2 d 1
+f 11 b 1 c 1 c 3 c 3 d 2 c 2 f 2
+g 2 f 25 c 1 f 3 c 3 c 3 f 4
+h 2 g 1 f 1 h 1 f 3 h 1 f 20 g 1 f 17 h 1
+h 1 g 3 h 2 g 1 h 3 g 2 f 1 h 3 g 1 h 1 f 7 h 3 g 3 h 4 f 1 h 1 f 3 h 1 f 6 h 2
+h 2 g 2 h 6 g 2 f 1 g 1 h 2 g 2 h 4 g 1 h 1 g 1 h 3 g 1 h 3 f 1 h 1 g 2 f 7 h 3
+h 4 g 1 h 1 h 5 g 7 h 5 h 5 h 1 g 3 f 2 h 1 g 1 h 1
+h 7 g 1 g 2 g 1 h 5 g 11 h 1
+
+columns
+g 1 h 1
+f 1 g 1 h 3
+f 1 g 2 h 2
+f 2 g 2 h 1
+f 3 g 2 h 2
+b 8 f 4 h 4
+b 10 f 3 h 3 g 1 h 1
+b 12 f 3 g 1 h 3
+b 5 e 5 b 6 f 3 h 2 h 1
+b 4 e 1 b 1 e 5 d 4 b 2 f 3 h 4
+b 3 e 8 d 5 b 2 f 2 h 5
+b 3 e 8 d 6 b 1 f 3 g 2 h 1
+b 2 e 9 d 9 f 3 g 2 h 1
+b 1 e 8 b 3 d 8 f 5 h 1
+b 2 e 2 b 2 e 2 b 9 d 4 f 2 h 1 g 1
+b 1 e 2 b 16 d 2 f 2 h 2
+b 1 e 2 b 18 d 1 f 2 h 2
+b 1 e 1 b 4 b 4 f 2 g 2
+b 4 b 2 f 2 h 1 g 3
+b 3 f 3 h 1 g 1
+b 2 f 3 h 1 g 2
+b 1 f 3 h 1 g 2
+c 27 f 3 h 1 g 1
+b 2 d 8 f 3 g 3
+b 4 d 9 e 2 d 4 f 3 h 1 g 1
+b 4 d 3 e 5 d 10 f 3 h 1
+b 4 d 1 e 9 d 5 f 2 h 1 h 1
+b 3 d 2 e 8 d 4 c 1 f 2 h 1 g 1 h 1
+b 2 e 8 d 3 c 2 f 2 h 3
+b 2 e 7 d 3 c 2 f 1 g 1 h 3
+b 2 e 5 d 3 f 2 g 1 h 1 h 1
+b 2 e 2 d 3 f 1 g 2 h 1
+b 1 e 2 d 3 f 2 h 1 g 1 h 1
+b 1 e 2 d 3 c 2 f 1 h 4
+b 2 d 3 c 3 f 1 h 3
+b 1 d 2 c 3 f 1 h 3
+b 1 d 2 f 3 h 1 g 1
+d 1 f 1 h 3 g 1
+c 1 f 2 g 1 g 1
+c 1 f 2 g 1 g 1
+c 2 f 3 h 1 g 1
+c 1 f 1 h 1 f 1 g 2
+f 3 g 2
+f 3 g 2
+f 4 g 1
+f 5 g 1
+f 4 h 1 g 1
+f 4 h 1 g 1
+f 3 h 4
+h 3

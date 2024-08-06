@@ -1,0 +1,61 @@
+by "Bixbypoke (bixbypoke)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Bixbypoke"
+date "Feb 15, 2017"
+description "Don't let them know your hand."
+difficulty 1.75
+height 20
+id 29427
+link "https://webpbn.com/play.cgi?id=29427"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Pokerface"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 8
+black 1
+black 2
+black 8 red 3
+black 1 black 1 red 1 red 1
+black 2 black 1 red 5
+black 1 black 3 black 1 red 1 red 1
+black 1 black 1 black 1 black 1 red 1 red 1
+black 1 black 5 black 1
+black 1 black 1 black 1 black 1 red 2 red 2
+black 1 black 1 black 1 black 1 red 5
+black 1 black 1 red 5
+black 1 black 1 black 1 red 5
+black 1 black 3 black 1 red 3
+black 1 black 5 black 1 red 1
+black 1 black 5 black 1
+black 1 black 3 black 1
+black 1 black 1 black 1
+black 1 black 3 black 1
+black 1 black 1
+
+columns
+0
+0
+0
+black 15
+black 3
+black 1 black 3 black 2
+black 1 black 3 black 4 black 1
+black 1 black 1 black 1 black 7
+black 1 black 3 black 4 black 1
+black 1 black 3 black 2
+black 1
+black 18
+black 3
+black 1 red 3 red 4
+black 1 red 3 red 5
+black 1 red 1 red 1 red 5
+black 1 red 3 red 5
+black 1 red 3 red 4
+black 1
+black 1

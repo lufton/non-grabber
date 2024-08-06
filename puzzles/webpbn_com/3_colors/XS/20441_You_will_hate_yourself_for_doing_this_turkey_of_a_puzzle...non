@@ -1,0 +1,41 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Nov 21, 2012"
+description "Turkey thighs..."
+difficulty 1.25
+height 10
+id 20441
+link "https://webpbn.com/play.cgi?id=20441"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "You will hate yourself for doing this turkey of a puzzle.."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1 red 1 red 1
+
+columns
+0
+black 6 red 1
+black 6 red 3
+black 6 red 1
+0
+0
+black 6 red 1
+black 6 red 3
+black 6 red 1
+0

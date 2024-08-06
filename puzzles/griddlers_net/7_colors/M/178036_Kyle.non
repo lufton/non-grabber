@@ -1,0 +1,63 @@
+by "Kadoffe"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/3/16"
+height 20
+id 178036
+link "https://www.griddlers.net/nonogram/-/g/178036"
+medium_time "0:07:31"
+points 5964
+popularity 82.64
+title "Kyle"
+width 19
+
+color a ffffff
+color b 000000
+color c ff6600
+color d ffcccc
+color e 009966
+color f 0000ff
+color g 00ffff
+
+rows
+b 13
+b 1 g 13 b 1
+b 1 g 1 e 11 b 2
+b 1 g 1 e 11 b 2
+b 2 e 11 b 2
+b 1 g 2 b 11 g 1 b 2
+b 1 g 2 b 1 d 2 d 2 b 1 e 1 b 2
+b 1 g 2 e 1 b 1 d 1 b 1 b 1 d 1 b 2 g 1 b 2
+b 1 g 1 e 1 b 1 d 1 d 1 d 1 b 1 e 1 b 2
+b 1 e 1 b 2 d 2 d 1 d 2 b 4
+b 1 b 1 d 11 b 1 b 1
+b 1 d 3 b 3 d 3 b 1
+b 3 d 5 b 3
+b 1 c 2 g 1 b 5 g 1 c 2 b 1
+b 1 c 2 b 1 c 1 g 2 b 1 g 2 c 1 b 1 c 2 b 1
+b 4 c 3 b 1 c 3 b 4
+b 1 g 2 b 1 c 3 b 1 c 3 b 1 g 2 b 1
+b 14
+b 1 f 3 b 1 f 3 b 1
+b 11
+
+columns
+b 3
+b 2 g 2 e 1 b 1
+b 4 g 3 e 1 b 1 b 4
+b 1 g 3 b 1 g 2 e 1 b 3 b 1 c 1 b 1 g 1 b 1
+b 1 g 1 e 3 b 3 d 3 b 2 c 2 b 1 g 1 b 1 b 1
+b 1 g 1 e 3 b 1 d 2 d 3 b 1 c 1 b 6
+b 1 g 1 e 3 b 1 d 1 d 2 b 1 g 1 c 3 b 1 f 1 b 1
+b 1 g 1 e 3 b 1 d 3 b 1 g 1 c 2 b 1 f 1 b 1
+b 1 g 1 e 3 b 1 b 1 d 1 b 1 d 1 b 1 g 1 c 2 b 1 f 1 b 1
+b 1 g 1 e 3 b 1 d 3 b 1 d 1 b 7
+b 1 g 1 e 3 b 1 b 1 d 1 b 1 d 1 b 1 g 1 c 2 b 1 f 1 b 1
+b 1 g 1 e 3 b 1 d 3 b 1 g 1 c 2 b 1 f 1 b 1
+b 1 g 1 e 3 b 1 d 1 d 2 b 1 g 1 c 3 b 1 f 1 b 1
+b 1 g 1 e 3 b 1 d 2 d 3 b 1 c 1 b 6
+b 1 g 1 e 3 b 3 d 3 b 2 c 2 b 1 g 1 b 1 b 1
+b 1 g 1 b 3 g 1 e 1 b 4 b 1 c 1 b 1 g 1 b 1
+b 6 g 1 e 1 b 1 b 3
+b 6
+b 3

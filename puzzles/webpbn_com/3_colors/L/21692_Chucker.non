@@ -1,0 +1,76 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joe"
+date "Apr 14, 2013"
+description "How much wood would a woodchuck chuck if a woodchuck could chuck wood?"
+difficulty 2.75
+height 30
+id 21692
+link "https://webpbn.com/play.cgi?id=21692"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Chucker"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 7
+black 1 black 1 red 7 black 1
+black 1 black 1 red 7 black 1
+black 1 black 1 red 1 black 1 red 3 black 1 black 1
+black 1 black 1 red 2 black 2 red 1 black 1
+black 1 black 1 red 2 black 3 black 1
+black 1 black 1 red 2 black 2
+black 1 black 1 red 4 black 3 red 1 black 1
+black 1 black 1 red 3 black 1 black 1 red 1 black 1
+black 1 black 2 red 6 red 2 red 1 black 1
+black 1 black 1 red 12 red 1 black 1
+black 1 black 1 red 11 black 1
+black 8 red 8 black 1
+black 1 red 13 black 1 black 1
+black 3 red 9 black 1 black 1
+black 1 black 2 red 6 black 1 black 1 red 1 black 1
+black 1 black 2 red 4 black 1 black 1 red 1 black 1
+black 1 black 1 red 4 black 1 black 1 red 1 black 1
+black 1 black 1 red 4 black 1 black 1 red 1 black 1
+black 1 black 1 red 4 black 1 black 1 red 1 black 1
+black 1 black 1 red 4 black 1 black 1 red 1 black 1
+black 1 black 1 red 4 black 3 red 1 black 1
+black 1 black 1 red 5 black 1
+black 1 black 1 red 5 black 1
+black 1 black 1 red 5 black 1
+black 1 black 1 red 15 black 1
+black 1 black 1 red 13 black 1
+black 1 black 13
+black 1 black 1 black 1 black 1 black 1
+black 1 black 5 black 5
+
+columns
+black 3
+black 13 red 1 black 16
+black 1 red 1 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 3 black 1
+black 1 red 3 black 8
+black 3 red 11 black 2
+black 1 red 16 black 1
+black 3 red 17 black 3
+black 4 red 20 black 1 black 1
+black 2 red 12 red 5 black 1 black 1
+black 1 red 2 black 1 red 10 red 3 black 1 black 1
+black 1 red 2 red 1 black 1 red 5 red 2 black 3
+black 1 red 3 black 2 black 1 red 4 red 2 black 1
+black 1 red 3 black 2 black 1 red 4 red 2 black 1
+black 1 red 4 black 1 black 1 red 2 red 2 black 1
+black 1 red 2 black 1 red 2 red 2 black 3
+black 1 red 2 black 1 red 4 red 2 black 1 black 1
+black 2 red 2 black 9 red 2 black 1 black 1
+black 4 red 1 black 1 red 2 black 1 black 1
+black 3 red 1 black 3 red 2 black 3
+black 1 red 1 black 4 red 3 red 1 black 1
+black 5 red 4 black 2
+black 9

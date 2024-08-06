@@ -1,0 +1,53 @@
+by "MagiMaster"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/29/04"
+height 16
+id 8086
+link "https://www.griddlers.net/nonogram/-/g/8086"
+medium_time "0:04:31"
+points 1010
+popularity 65.28
+title "Goomba"
+width 16
+
+color a ffffff
+color b eb5f14
+color c f0cdaf
+color h 000000
+
+rows
+b 4
+b 6
+b 8
+b 10
+b 1 h 2 b 6 h 2 b 1
+b 3 h 1 b 4 h 1 b 3
+b 3 h 6 b 3
+b 4 h 1 b 2 h 1 b 4
+b 4 b 2 b 4
+b 16
+b 4 c 6 b 4
+c 8
+h 2 c 8
+h 5 c 5 h 2
+h 6 c 3 h 3
+h 5 c 2 h 3
+
+columns
+b 3
+b 6 h 2
+b 7 h 4
+b 1 h 1 b 6 h 4
+b 2 h 1 b 2 c 2 h 3
+b 4 h 3 b 1 c 3 h 3
+b 6 h 1 b 1 c 4 h 2
+b 6 h 1 b 3 c 6
+b 6 h 1 b 3 c 6
+b 6 h 1 b 1 c 5 h 1
+b 4 h 3 b 1 c 4 h 2
+b 2 h 1 b 2 c 2 h 3
+b 1 h 1 b 6 h 2
+b 7
+b 6
+b 3

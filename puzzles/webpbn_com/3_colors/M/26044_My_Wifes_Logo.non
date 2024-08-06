@@ -1,0 +1,66 @@
+by "W. Brayton Batson (batsonb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by W. Brayton Batson"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.75
+height 20
+id 26044
+link "https://webpbn.com/play.cgi?id=26044"
+note "published,may be unique,may require deep lookahead"
+quality 2.75
+title "My Wife's Logo"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 5 black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 3 black 3 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 red 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 4 black 1 black 1
+black 1 black 1 black 5 black 1 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 3 black 1 black 1 black 1
+black 1 black 1 black 4 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1 black 1
+black 3 black 1 black 3
+black 2 black 3 black 2
+black 2 black 3 black 2
+black 2 black 3 black 2
+black 2 black 3 black 2
+
+columns
+black 3
+black 1
+black 19
+black 5
+black 6
+black 5
+black 2
+black 2 black 1
+black 1 black 3
+black 2 black 3
+black 1 black 2 black 3
+black 2 black 1 black 4
+black 3 black 1 black 8
+black 2 black 2 black 4
+black 1 black 2 black 2
+black 2 black 4
+black 1 black 4
+black 2 black 2
+black 1 red 1
+black 5
+black 6
+black 5
+black 19
+black 1
+black 3

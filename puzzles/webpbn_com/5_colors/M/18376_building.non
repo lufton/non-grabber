@@ -1,0 +1,63 @@
+by "christine spencer (xxchuckles2k10xx)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by christine spencer"
+date "Apr 19, 2012"
+description "a black building with green doors red windows and blue sky"
+difficulty 1.25
+height 20
+id 18376
+link "https://webpbn.com/play.cgi?id=18376"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "building"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 blue 10 black 5
+black 1 blue 3 black 1 blue 10 black 1 blue 3 black 1
+black 1 red 3 black 12 red 3 black 1
+black 1 red 1 blue 1 red 1 black 1 blue 4 black 2 blue 4 black 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 black 1 red 4 black 2 red 4 black 1 red 1 blue 1 red 1 black 1
+black 1 red 3 black 1 red 1 blue 2 red 1 black 2 red 1 blue 2 red 1 black 1 red 3 black 1
+black 1 blue 3 black 1 red 1 blue 2 red 1 black 2 red 1 blue 2 red 1 black 1 blue 3 black 1
+black 1 red 3 black 1 red 4 black 2 red 4 black 1 red 3 black 1
+black 1 red 1 blue 1 red 1 black 1 blue 4 black 2 blue 4 black 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 black 1 red 4 black 2 red 4 black 1 red 1 blue 1 red 1 black 1
+black 1 red 3 black 1 red 1 blue 2 red 1 black 2 red 1 blue 2 red 1 black 1 red 3 black 1
+black 1 blue 3 black 1 red 1 blue 2 red 1 black 2 red 1 blue 2 red 1 black 1 blue 3 black 1
+black 1 red 3 black 1 red 4 black 2 red 4 black 1 red 3 black 1
+black 1 red 1 blue 1 red 1 black 1 blue 4 black 2 blue 4 black 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 red 1 black 1 green 4 black 2 green 4 black 1 red 1 blue 1 red 1 black 1
+black 1 red 3 black 1 green 1 blue 2 green 1 black 2 green 1 blue 2 green 1 black 1 red 3 black 1
+black 1 blue 3 black 1 green 1 blue 2 green 1 black 2 green 1 blue 2 green 1 black 1 blue 3 black 1
+black 1 red 3 black 1 green 1 blue 2 green 1 black 2 green 1 blue 2 green 1 black 1 red 3 black 1
+black 1 red 3 black 1 green 1 blue 2 green 1 black 2 green 1 blue 2 green 1 black 1 red 3 black 1
+black 20
+
+columns
+black 20
+black 1 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 1 red 2 black 1
+black 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 2 black 1
+black 1 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 1 red 2 black 1
+black 20
+blue 2 black 1 blue 1 red 4 blue 1 red 4 blue 1 green 5 black 1
+blue 2 black 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 green 1 blue 4 black 1
+blue 2 black 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 green 1 blue 4 black 1
+blue 2 black 1 blue 1 red 4 blue 1 red 4 blue 1 green 5 black 1
+blue 2 black 18
+blue 2 black 18
+blue 2 black 1 blue 1 red 4 blue 1 red 4 blue 1 green 5 black 1
+blue 2 black 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 green 1 blue 4 black 1
+blue 2 black 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 green 1 blue 4 black 1
+blue 2 black 1 blue 1 red 4 blue 1 red 4 blue 1 green 5 black 1
+black 20
+black 1 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 1 red 2 black 1
+black 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 2 black 1
+black 1 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 1 red 2 black 1
+black 20

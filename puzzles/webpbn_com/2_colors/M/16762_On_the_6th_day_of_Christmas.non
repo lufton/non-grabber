@@ -1,0 +1,54 @@
+by "Kevin S (KevinS)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kevin S"
+date "Dec 18, 2011"
+description "Six geese a-laying"
+difficulty 1.75
+height 19
+id 16762
+link "https://webpbn.com/play.cgi?id=16762"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "On the 6th day of Christmas"
+width 18
+
+rows
+18
+5,4,2
+1,1,1,5,1,1
+2,2,2,1
+1,1,1,1,6,1
+5,7,1
+15,1
+3,4,1
+2,4,1
+1,2,5,1
+2,1
+6,1
+3,3,1
+5,2
+6,4
+3,3,1,7
+2,2,1,7
+2,2,1,7
+3,3,6
+
+columns
+10,7
+2,1,4,7
+3,4,4,1
+2,1,2,1,2
+7,3,2
+1,1,2,1,2,1
+1,1,1,1,1,1,4
+1,1,1,1,1,4
+7,2,1
+7,1,2,3
+3,3,1,1
+2,4,1,1,3
+1,4,1,4
+1,1,4,4
+1,3,5
+1,5
+2,6
+19

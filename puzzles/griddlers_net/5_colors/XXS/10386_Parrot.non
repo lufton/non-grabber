@@ -1,0 +1,32 @@
+by "rafal24"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10386
+link "https://www.griddlers.net/nonogram/-/g/10386"
+medium_time "0:00:25"
+points 4
+popularity 52.97
+title "Parrot"
+width 5
+
+color a ffffff
+color b ff0000
+color c 51a000
+color d 00e100
+color e c17e00
+
+rows
+b 1 d 1
+d 1 c 1
+d 1 c 1
+e 3 d 1 e 1
+d 1
+
+columns
+e 1
+b 1 e 1
+d 3 e 1
+c 2 d 2
+e 1

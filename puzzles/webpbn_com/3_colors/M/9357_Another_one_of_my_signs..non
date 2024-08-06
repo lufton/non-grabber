@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 24, 2010"
+description ""
+difficulty 3.0
+height 20
+id 9357
+link "https://webpbn.com/play.cgi?id=9357"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Another one of my signs."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 8
+red 9
+red 9
+red 9
+red 9
+red 7
+red 5
+black 1
+black 1
+black 2 black 1
+black 3 black 1 black 3
+black 4 black 4 black 3
+black 5 black 3 black 2
+black 6 black 4 black 1
+black 3 black 2 black 1 black 1
+black 3 black 2 black 2
+black 3 black 1 black 3 black 3
+black 3 black 3 black 7
+black 2 black 1 black 1 black 5
+
+columns
+black 2
+black 3
+black 3
+black 3
+black 3
+black 6
+red 5 black 5 black 3
+red 7 black 4 black 1
+red 8 black 3 black 2
+red 8 black 2
+red 8 black 4
+red 8 black 1 black 4
+red 8 black 7
+red 6 black 3 black 3
+red 4 black 4 black 2
+black 2
+black 1 black 2
+black 2 black 3
+black 3 black 3
+black 6

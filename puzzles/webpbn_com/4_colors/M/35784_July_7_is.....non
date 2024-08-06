@@ -1,0 +1,62 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by BRASH ATAOM"
+date "Jul  2, 2022"
+description "National Strawberry Sundae Day! (I solved Puzzle #219 shortcakely before creating this one!)"
+difficulty 1.5
+height 20
+id 35784
+link "https://webpbn.com/play.cgi?id=35784"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "July 7 is...."
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 5 black 2 green 6
+green 3 black 2 green 3
+green 1 green 1
+green 1 green 1
+green 2 black 5 green 2
+green 2 black 2 black 5 green 2
+green 2 black 2 black 5 green 2
+green 1 black 3 black 1 black 3 green 2
+green 1 black 2 black 1 black 2 green 1
+green 1 black 1 black 1 green 1
+black 1 black 1 green 1
+black 2 black 1
+black 3 black 2 black 3 black 3
+black 1 blue 2 black 2 black 3 black 5 blue 2
+black 1 blue 4 black 3 black 2 blue 4
+blue 13
+black 1 blue 13
+green 1 blue 11 green 1
+green 4 blue 5 green 4
+black 3 green 2 blue 9 green 2
+
+columns
+black 1
+black 2 black 1 black 1
+black 1 blue 1 black 1
+black 2 blue 2
+green 10 black 4 blue 3 green 3
+green 2 green 3 black 3 black 1 blue 4 green 2
+green 2 black 4 black 1 blue 4 green 1 blue 1
+green 1 black 3 black 1 black 1 blue 3 green 1 blue 1
+green 1 black 1 black 2 blue 5
+black 2 black 1 black 2 blue 5
+black 2 black 4 black 1 blue 5
+green 1 black 3 black 1 blue 5
+green 1 black 5 black 3 blue 5
+green 1 black 3 black 3 blue 3 green 1 blue 1
+green 2 black 4 black 1 blue 4 green 1 blue 1
+green 2 green 4 black 3 black 2 blue 4 green 2
+green 11 black 3 blue 3 green 3
+black 1 blue 2
+blue 1
+0

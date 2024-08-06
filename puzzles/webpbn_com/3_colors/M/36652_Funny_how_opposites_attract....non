@@ -1,0 +1,54 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr  5, 2023"
+description ""
+difficulty 1.25
+height 20
+id 36652
+link "https://webpbn.com/play.cgi?id=36652"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Funny how opposites attract..."
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3 red 3
+red 9
+red 9
+red 7
+red 5
+red 3
+black 3 red 1
+black 3 red 1
+black 1 red 1 black 3
+black 1 red 1 black 3
+black 5 red 1 black 1
+black 1 black 1 black 1 red 1 black 5
+black 1 red 1 black 1 black 1 black 1
+black 1 red 1 black 3
+black 1 red 1 black 3
+black 1 red 1 black 1
+black 1 black 1 red 1 black 1 black 1
+black 1 black 1 red 1 black 1 black 1
+black 1 black 1 red 1 black 1 black 1
+
+columns
+0
+black 2
+red 2 black 2 black 1 black 3
+red 4 black 10
+red 5 black 2 black 1 black 3
+red 6 black 2
+red 18
+red 6 black 2
+red 5 black 2 black 1 black 2 black 3
+red 4 black 8
+red 2 black 2 black 1 black 2 black 3
+black 2
+0

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar  5, 2011"
+description "The Japanese back saw. It cuts on the pull stroke not on the push stroke. Brilliant!"
+difficulty 1.25
+height 20
+id 12586
+link "https://webpbn.com/play.cgi?id=12586"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "A great tool"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 13
+blue 3 black 15
+blue 3 black 15
+blue 3 black 5 red 7 black 3
+blue 3 black 5 red 7 black 3
+black 1 black 1 red 7 black 1 black 1
+red 7
+red 7
+red 7
+red 7
+red 7
+black 3 red 7 black 3
+black 4 red 7 black 4
+black 4 red 7 black 4
+black 5 red 7 black 5
+black 4 red 7 black 4
+black 4 red 7 black 3
+black 3 red 7 black 2
+black 3 red 7 black 2
+
+columns
+blue 4
+blue 4
+blue 4 black 3
+black 4 black 5
+black 5 black 7
+black 6 black 6
+black 5 black 5
+black 6 black 4
+black 3 red 16
+black 3 red 16
+black 3 red 16
+black 3 red 16
+black 3 red 16
+black 3 red 16
+black 3 red 16
+black 6 black 4
+black 5 black 5
+black 5 black 6
+black 7
+black 5

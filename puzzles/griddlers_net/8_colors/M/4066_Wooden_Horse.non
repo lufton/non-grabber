@@ -1,0 +1,65 @@
+by "pufke"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/3/03"
+height 20
+id 4066
+link "https://www.griddlers.net/nonogram/-/g/4066"
+medium_time "0:10:40"
+points 3299
+popularity 62.93
+title "Wooden Horse"
+width 20
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color f ff00ff
+color g 808080
+color h 000000
+
+rows
+h 3
+f 1 h 3
+f 2 h 3
+e 3 f 1 h 2 h 1
+g 2 e 3 b 2 h 2 h 1
+g 2 c 1 e 2 c 1 e 1 b 4 h 1
+c 1 g 1 c 1 g 2 c 1 b 8
+g 1 c 1 c 1 g 3 b 6
+g 5 b 4 h 1 g 1 e 2
+g 2 d 4 b 1 h 2 g 1 e 3
+g 1 d 4 h 3 g 3 e 3
+g 1 d 3 g 6 e 2
+g 1 d 2 g 6 e 2
+g 1 d 2 g 6 e 1
+h 2 g 5 e 1
+h 2 g 1 g 1
+h 2 g 1 g 1 h 2
+h 5 g 2 g 2 h 5
+h 15
+h 8
+
+columns
+c 1 g 1
+g 2 c 1
+g 2 c 1
+e 1 g 1 c 1 g 1 h 2
+e 3 g 1 c 1 h 3
+e 3 c 1 g 2 h 2
+e 1 c 1 b 1 g 5 h 2
+e 1 b 1 g 3 d 2 g 2 h 1 h 2
+b 2 g 1 d 5 h 2 g 1 h 2
+b 2 g 1 d 5 h 1 g 3 h 2
+h 1 f 2 b 4 d 2 g 4 h 2
+h 2 f 2 b 5 d 1 h 1 g 4 h 2
+h 4 b 6 h 1 g 4 h 2
+h 4 b 4 h 2 g 4 g 1 h 2
+h 1 h 1 h 2 g 8 h 2
+h 1 h 1 g 6 h 3
+h 1 e 2 g 1 h 2
+e 3 h 2
+e 4 h 3
+e 5 h 2

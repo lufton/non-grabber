@@ -1,0 +1,52 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Mar 23, 2013"
+description ""
+difficulty 1.5
+height 10
+id 21455
+link "https://webpbn.com/play.cgi?id=21455"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Guess the word #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 4 black 1
+black 1 black 1 black 1
+black 1 black 1 black 3
+red 5 black 1 black 1 blue 5
+red 1 blue 1 red 5 black 4 black 3
+red 1 blue 1 red 5 black 1 black 1
+red 9 black 1 black 3
+black 1 black 1 black 1
+black 4 black 3
+
+columns
+red 1
+red 1
+red 3
+red 1 blue 2 red 1
+red 4
+red 4
+red 4
+red 4
+red 3
+0
+black 5 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 9
+0
+blue 1
+black 1 black 1 blue 1 black 1 black 3
+black 4 blue 1 black 1 black 1 black 1
+black 1 blue 1 black 3 black 1
+blue 1

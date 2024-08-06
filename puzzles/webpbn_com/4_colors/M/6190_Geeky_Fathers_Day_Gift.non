@@ -1,0 +1,82 @@
+by "Kat (damaia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Kat"
+date "Jun 30, 2009"
+description "The 8-bit tie from thinkgeek.com, with a patriotic twist."
+difficulty 1.75
+height 51
+id 6190
+link "https://webpbn.com/play.cgi?id=6190"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Geeky Father's Day Gift"
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 7
+black 1 red 5 black 1
+black 1 red 5 black 1
+black 2 red 3 black 2
+black 1 red 3 black 1
+black 5
+black 1 blue 2 red 1 black 1
+black 1 blue 1 red 2 black 1
+black 1 red 3 black 1
+black 1 red 2 blue 1 black 1
+black 1 red 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 1 blue 1 black 1
+black 1 blue 2 black 1
+black 1 blue 2 red 1 black 1
+black 1 blue 1 red 2 black 1
+black 1 red 3 black 1
+black 1 red 2 blue 1 black 1
+black 1 red 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 1 blue 1 black 1
+black 1 blue 2 black 1
+black 1 blue 2 red 1 black 1
+black 1 blue 1 red 2 black 1
+black 2 red 3 black 2
+black 1 red 3 blue 2 black 1
+black 1 red 2 blue 2 black 1
+black 1 red 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 2 black 1
+black 1 blue 2 red 1 black 1
+black 1 blue 2 red 2 black 1
+black 2 blue 2 red 3 black 2
+black 1 blue 2 red 3 blue 2 black 1
+black 1 blue 1 red 3 blue 2 black 1
+black 1 red 3 blue 2 black 1
+black 1 red 2 blue 2 black 1
+black 1 red 1 blue 2 blue 1 black 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 1 blue 2 red 1 black 1
+black 1 blue 2 red 2 black 1
+black 1 blue 2 red 3 black 1
+black 2 blue 2 red 3 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 3
+
+columns
+black 11
+black 4 black 10 blue 2 red 3 blue 2 black 2
+black 1 red 2 black 26 red 3 blue 2 blue 2 red 3 blue 2 blue 1 black 2
+black 1 red 4 black 1 blue 2 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 1 black 2
+black 1 red 4 black 1 blue 1 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 black 1
+black 1 red 4 black 1 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 blue 2 blue 2 red 3 black 2
+black 1 red 2 black 26 blue 1 blue 2 red 3 blue 2 blue 2 red 3 black 2
+black 4 black 10 blue 1 blue 2 red 3 black 2
+black 11

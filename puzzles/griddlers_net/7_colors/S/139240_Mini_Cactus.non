@@ -1,0 +1,46 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/30/13"
+height 14
+id 139240
+link "https://www.griddlers.net/nonogram/-/g/139240"
+medium_time "0:01:45"
+points 170
+popularity 73.73
+title "Mini Cactus"
+width 8
+
+color a ffffff
+color b ff959f
+color c d7497b
+color d 036b14
+color e 72ab40
+color f a5674e
+color g c89e30
+
+rows
+b 1
+b 3
+b 2 c 1 b 2 d 1
+b 3 d 1 e 1 d 1
+d 1 b 1 e 4 d 1
+d 1 e 5 d 1
+d 1 e 2 d 1 e 2 d 1
+d 1 e 1 d 1 e 1 d 1
+d 1 e 1 d 1
+f 5
+g 5
+g 5
+g 5
+f 3
+
+columns
+b 1
+b 3 d 3
+b 2 c 1 b 2 e 2 d 1 f 1 g 3
+b 3 e 4 d 1 f 1 g 3 f 1
+b 1 d 1 e 2 d 2 e 1 f 1 g 3 f 1
+d 1 e 5 d 1 f 1 g 3 f 1
+d 1 e 3 d 1 f 1 g 3
+d 3

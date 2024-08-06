@@ -1,0 +1,61 @@
+by "123 123 123 (ice cream!)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by 123 123 123"
+date "Feb 28, 2009"
+description "on the left there is a barn and on the right it is a weird pig"
+difficulty 1.25
+height 20
+id 5164
+link "https://webpbn.com/play.cgi?id=5164"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "hay there"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 5 red 2 red 2
+black 6 red 2 red 2
+black 7 red 2 red 2
+black 8 red 2 red 2
+red 8 red 11
+red 8 red 1 red 1
+red 8 red 1 red 4 red 2 red 1
+red 8 red 1 red 4 red 2 red 1
+red 8 red 1 red 4 red 2 red 1
+red 8 red 1 red 1
+red 8 red 1 red 7 red 1
+red 8 red 1 red 1 red 1 red 1 red 1 red 1
+red 8 red 1 red 1 red 1 red 1
+red 8 red 1 red 7 red 1
+red 8 red 1 red 1
+red 8 red 11
+red 8
+red 8
+red 8
+
+columns
+black 5 red 15
+black 5 red 15
+black 5 red 15
+black 5 red 15
+black 4 red 15
+black 3 red 15
+black 2 red 15
+black 1 red 15
+0
+red 12
+red 1 red 1
+red 1 red 3 red 4 red 1
+red 1 red 3 red 1 red 1 red 1
+red 5 red 3 red 2 red 1 red 1
+red 5 red 3 red 1 red 1 red 1
+red 1 red 2 red 1 red 1
+red 1 red 3 red 1 red 1 red 1
+red 5 red 3 red 4 red 1
+red 5 red 1
+red 12

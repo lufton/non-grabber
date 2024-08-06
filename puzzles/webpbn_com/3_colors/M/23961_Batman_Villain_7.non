@@ -1,0 +1,71 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wombat"
+date "Mar  5, 2014"
+description "Riddle me this, Batman!"
+difficulty 2.0
+height 25
+id 23961
+link "https://webpbn.com/play.cgi?id=23961"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Batman Villain #7"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+green 5
+green 3 green 3
+green 6 green 4
+green 6 green 5
+green 6 green 6
+green 1 green 15 green 1
+green 3 green 4 green 4 green 3
+green 6 green 3 green 6
+green 8 green 8
+green 15
+black 1 green 9 black 1
+black 1 black 4 black 4 black 1
+black 7 black 7
+black 3 black 3 black 3
+black 1 black 2 black 3 black 2 black 1
+black 2 black 4 black 4 black 2
+black 1 black 2 black 2 black 1
+black 2 black 2
+black 2 black 1 black 2
+black 2 black 3 black 2
+black 2 black 2
+black 7
+green 7 black 1 black 1 green 7
+green 9 black 1 black 1 green 9
+
+columns
+green 1
+green 1
+green 3 green 2
+green 3 green 2
+green 3 green 2
+green 1 green 3 black 6 green 2
+green 3 green 3 black 2 black 3 green 2
+green 4 green 3 black 4 black 2 green 2
+green 6 green 3 black 2 black 2 black 2 green 2
+green 6 green 3 black 2 black 2 black 5
+green 7 green 3 black 2 black 2 black 2
+green 1 green 6 green 2 black 4 black 1 black 1
+green 1 green 1 green 1 green 1 green 2 black 2 black 1 black 1
+green 1 green 4 green 2 black 4 black 1 black 1
+green 7 green 3 black 2 black 2 black 1 black 2
+green 6 green 3 black 2 black 2 black 5
+green 6 green 3 black 2 black 2 black 2 green 2
+green 4 green 3 black 4 black 2 green 2
+green 3 green 3 black 2 black 3 green 2
+green 1 green 3 black 6 green 2
+green 3 green 2
+green 3 green 2
+green 3 green 2
+green 1
+green 1

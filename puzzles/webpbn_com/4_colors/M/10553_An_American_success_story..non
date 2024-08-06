@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Oct  3, 2010"
+description "Maglite. If you squint or stand away from the screen (or both) the beam looks yellow."
+difficulty 3.0
+height 20
+id 10553
+link "https://webpbn.com/play.cgi?id=10553"
+note "published,definitely unique,may require some guessing"
+quality 2.5
+title "An American success story."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 red 1 green 1 red 1
+red 1 green 1 red 1 green 1
+red 1 green 1 red 1 green 1 red 1
+green 1 red 3 green 1
+green 1 red 1 green 1 red 1 green 1 red 1
+red 2 green 1 red 1 green 1 red 2
+green 1 red 1 green 1 red 3 green 1 red 1
+red 3 green 1 red 1 green 1 red 1
+red 1 green 1 red 1 green 1 red 1 green 1
+red 1 green 1 red 1 green 1 red 2
+black 1 green 1 red 3 green 1
+green 1 black 3 green 1 red 1
+green 2 black 5
+green 3 black 4
+green 3 black 4
+green 4 black 2
+green 1 black 1 green 2
+black 1 green 3
+black 2 green 2
+black 3
+
+columns
+green 3
+green 3 black 1
+green 3 black 2
+green 3 black 3
+green 1 black 1 green 2
+green 4
+black 2 green 2
+black 4
+black 4
+black 5
+red 1 green 1 black 3
+red 1 green 1 red 1 green 1 black 1
+green 1 red 1 green 1 red 3
+red 4 green 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1
+red 1 green 1 red 1 green 1 red 1 green 1 red 2
+green 1 red 1 green 1 red 1 green 1 red 3 green 1
+red 1 green 1 red 3 green 1 red 1 green 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+red 1 green 1 red 1 green 1 red 3

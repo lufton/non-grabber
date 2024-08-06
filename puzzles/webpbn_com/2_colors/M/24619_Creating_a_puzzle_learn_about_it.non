@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tom King"
+date "May 29, 2014"
+description "Pretty simplistic house and it almost symmetric (totally symmetric is worse). This isn't good for puzzle creation."
+difficulty 1.5
+height 20
+id 24619
+link "https://webpbn.com/play.cgi?id=24619"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Creating a puzzle, learn about it"
+width 20
+
+rows
+4
+3,3
+3,4,3
+3,1,1,3
+20
+1,1
+1,1
+1,14,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,14,1
+1,1
+1,1
+1,1
+1,3,4,3,1
+1,1,1,1,1,1,1,1
+1,3,1,1,3,1
+1,1,1,1
+1,1,1,1
+
+columns
+1
+16
+2
+2,5,3
+3,1,1,1,1
+1,1,1,1,3
+2,1,1,1
+1,1,5
+5,1,1,5
+1,1,1,1,1,1
+1,1,1,1,1,1
+5,5,5
+1,1,1,1
+2,1,1,1,3
+1,1,1,1,1,1
+3,1,1,3
+2,5
+2
+16
+1

@@ -1,0 +1,67 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom King"
+date "Dec 22, 2011"
+description ""
+difficulty 1.5
+height 20
+id 16843
+link "https://webpbn.com/play.cgi?id=16843"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My tablet met my Razr and this is what happens?"
+width 30
+
+rows
+1,1
+1,1
+1,3,1,1,1
+5,1,2,1
+1,3,1,4
+7,1,2,1
+6
+2,7,2
+2,7,2,1,1,1,6,1
+2,7,2,2,1,6,1
+2,7,2,4,1,6,1
+2,7,2,4,1,6,1
+2,7,2,1,6,1
+7,8,6,1
+7,4,6
+4,6
+2,2,4
+2,2,4,1,1
+2,2,1,1
+2,2,1,1,1,1
+
+columns
+6
+6
+0
+3,2,8
+1,1,8,4
+4,8,4
+4,8
+4,8,4
+1,1,8,4
+3,2,8
+0
+6
+7
+1
+1,2,5,1
+3,5
+3,5
+1,2,5,1
+1
+1
+5
+0
+2,2,8
+1,1,8,3
+4,8
+4,8
+1,1,8,3
+2,2,8
+0
+6

@@ -1,0 +1,57 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Kristen Vognild"
+date "Feb 15, 2019"
+description "I'm sure there's a better way to fit "She'll be comin' 'round the mountain" and "She'll be driving six white horses" in a 20x20, but the road is black, the super-minimal horses are white, and she's driving the stagecoach (half of which is in view, as she's comin' 'round the mountain)."
+difficulty 2.0
+height 20
+id 32076
+link "https://webpbn.com/play.cgi?id=32076"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "That reminds me of a song"
+width 20
+
+rows
+3,8,2
+5,6,2
+7,4,2
+1,1,2,2,1
+1,3,1,1
+2,3
+1,1,1,2
+1,1,3,1
+2,2,3,1
+1,1,4
+1,1,1,1,4
+2,5,2
+2,1,1,2
+2,2,2,1,3
+2,2,1,1,6
+1,3,6,3
+6,3,2,3
+4,1,3,1,2
+4,2,2,1,3
+2,1,1,3,1,3
+
+columns
+3,5,2,2
+6,1,8
+3,2,2,3
+2,1,2,5
+3,1,5
+1,3,4
+3,2,2,3
+3,2,3,2
+3,1,2,3
+1,2,2,1,2
+2,1,3,5
+5,3,1,5
+4,2,3,1,1
+3,2,2,2
+3,4,1
+2,3,1,1
+1,3,1
+3,2
+3,5
+5,4

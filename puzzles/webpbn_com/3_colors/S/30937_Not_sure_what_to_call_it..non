@@ -1,0 +1,51 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Ron Jacobson"
+date "Aug 28, 2018"
+description "A smile? A Sinister sneer? Birds flying? Rudolph?"
+difficulty 1.75
+height 15
+id 30937
+link "https://webpbn.com/play.cgi?id=30937"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Not sure what to call it."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+black 3 black 3
+black 2 black 2
+black 1
+black 2 red 1
+black 3
+black 2 black 1 black 1
+black 1 black 2
+black 3 black 2
+black 5
+0
+0
+
+columns
+0
+0
+0
+black 1
+black 1 black 3
+black 2 black 1 black 1
+black 1 black 2
+black 3 black 1
+black 2 black 1
+black 1 red 1 black 2 black 1
+black 2 black 2
+black 1 black 2
+black 1 black 2
+0
+0

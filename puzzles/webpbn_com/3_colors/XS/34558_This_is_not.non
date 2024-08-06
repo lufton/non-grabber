@@ -1,0 +1,41 @@
+by "besmirched tea (Besmirched Tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by besmirched tea"
+date "Oct  8, 2020"
+description "...a drill. (that's awl)"
+difficulty 1.25
+height 15
+id 34558
+link "https://webpbn.com/play.cgi?id=34558"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "This is not"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+red 3
+red 3
+red 3
+red 3
+red 5
+red 5
+red 5
+red 3
+
+columns
+red 3
+red 8
+black 7 red 8
+red 8
+red 3

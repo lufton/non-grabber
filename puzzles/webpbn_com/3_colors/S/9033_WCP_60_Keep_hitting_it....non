@@ -1,0 +1,51 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Wombat"
+date "Jun  2, 2010"
+description "It's not that I think the snooze button is weird, exactly... I think the word "snooze" itself is strange. Just look at it!"
+difficulty 1.25
+height 10
+id 9033
+link "https://webpbn.com/play.cgi?id=9033"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #60: Keep hitting it..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 20
+black 1 black 1
+black 1 red 3 red 3 red 3 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 3 red 3 red 3 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 3 red 3 red 3 black 1
+black 1 black 1
+black 20
+
+columns
+black 9
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 2 red 5 black 1
+black 2 red 1 red 1 red 1 black 1
+black 1 red 1 red 3 black 1
+black 1 black 1
+black 1 red 1 red 1 black 1
+black 1 black 1
+black 1 red 3 red 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 3 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 1 black 1
+black 9

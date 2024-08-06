@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Sep 15, 2013"
+description "The trebuchet was a ancient siege weapon. The huge counterweight would propel the much lighter stone in a sling great distances. Armies would set these behemoths up just out of reach of the castles' archers and would pelt the castles until the walls were breached."
+difficulty 1.5
+height 20
+id 22769
+link "https://webpbn.com/play.cgi?id=22769"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #139 Aerial bombardment"
+width 20
+
+rows
+3,2,2
+1,2,2,1,1,1,2
+1,2,11
+1,2,11
+1,2,11
+1,2,11
+1,2
+1,2
+1,3
+1,4
+2,2,2
+2,2,2
+2,2
+2,4
+2,6
+2,6
+2,6
+2
+14
+16
+
+columns
+12
+1,2,1
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+14
+6,13
+6,2,2
+4,2,3,2
+5,2,4,2
+4,6,2
+5,5,2
+4,4,2
+5,3,1
+4
+6
+6

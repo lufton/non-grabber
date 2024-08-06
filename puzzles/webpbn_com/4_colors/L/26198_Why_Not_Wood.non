@@ -1,0 +1,82 @@
+by "twalk ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by twalk"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 15
+id 26198
+link "https://webpbn.com/play.cgi?id=26198"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Why Not Wood?"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+0
+black 7 red 10 red 2 black 3 black 2 red 1 black 7 red 1
+green 1 black 1 green 2 black 4 red 13 black 9 red 1 black 3 red 4
+green 4 black 14 red 3 black 9 red 1 red 4
+green 1 black 1 green 2 black 14 red 3 black 9 red 1 black 3 red 4
+black 7 red 10 red 2 black 3 black 2 red 1 black 7 red 1
+0
+0
+0
+0
+0
+0
+
+columns
+0
+green 3
+black 2 green 1 black 2
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 5
+black 5
+black 5
+black 5
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 2 black 2 red 1
+red 3
+red 5
+red 5
+black 5
+black 5
+black 5
+black 3
+black 3
+black 3
+black 3
+black 5
+black 5
+red 5
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+red 3
+red 3
+red 5
+red 3

@@ -1,0 +1,57 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Norma Dee"
+date "Mar 30, 2017"
+description "I never really got to know my real ladder."
+difficulty 1.25
+height 20
+id 29590
+link "https://webpbn.com/play.cgi?id=29590"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "This is my step ladder."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+red 3 black 5
+red 4 black 1 black 1
+black 3 black 1 black 1
+black 4 black 5
+black 3 black 5
+black 2 black 1 black 1
+red 2 black 1 black 1
+red 6 black 1 black 5
+red 3 black 5
+red 3 black 1 black 1
+red 3 black 1 black 1
+blue 3 black 5
+blue 3 black 5
+blue 3 black 1 black 1
+blue 3 black 1 black 1
+blue 3 black 5
+blue 3 black 5
+black 4 black 1 black 1
+
+columns
+0
+red 2 black 4 red 5 blue 6 black 1
+red 2 black 4 red 5 blue 6 black 1
+red 2 black 3 red 4 blue 6 black 1
+red 1 black 1 red 1 black 1
+red 1
+red 1
+black 1
+0
+black 18
+black 1 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2
+black 18
+0

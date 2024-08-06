@@ -1,0 +1,63 @@
+by "Beth Greenwald (bethgreenwald)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Beth Greenwald"
+date "Aug 11, 2013"
+description "An Octopus! These slug-like creatures don't only have tentacles, they also have 3 hearts, 9 brains, and blue blood. Sea creatures are so fascinating. :)"
+difficulty 1.75
+height 20
+id 22571
+link "https://webpbn.com/play.cgi?id=22571"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Creatures of the sea...(5)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+red 3 green 3 blue 7 red 3 green 3 blue 1
+red 1 blue 1 red 1 green 1 blue 4 black 3 blue 3 red 1 blue 1 green 1 blue 1 green 1 blue 1
+red 1 blue 1 red 1 green 1 blue 3 black 5 blue 2 red 1 blue 1 green 1 blue 1 green 1 blue 1
+red 1 blue 1 red 1 green 1 blue 2 black 7 blue 1 red 1 blue 1 green 1 blue 1 green 1 blue 1
+red 3 green 3 black 2 green 1 black 1 green 1 black 2 blue 1 red 1 blue 1 green 3 blue 1
+blue 6 black 7 blue 7
+blue 1 red 3 blue 2 black 7 blue 1 green 1 blue 1 green 1 blue 1 red 2
+blue 1 red 1 blue 1 red 1 blue 3 black 2 green 1 black 2 blue 2 green 1 blue 1 green 1 red 1 blue 2
+blue 1 red 3 blue 4 black 3 blue 3 green 1 blue 1 green 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 2 black 10 green 1 blue 1 green 1 blue 2 red 1
+blue 1 red 1 blue 1 black 2 blue 1 black 6 blue 1 black 1 green 3 red 2 blue 1
+black 1 blue 1 black 11 blue 1 black 2 blue 4
+black 14 black 2 black 1
+black 1 black 1 black 1 black 3 black 1 black 2 black 1 black 2
+black 6 black 4 black 5
+black 2 black 1 black 1 black 1 black 2 black 2
+black 2 black 1 black 2 black 2 black 2 black 1
+black 2 black 2 black 1 black 1 black 2
+
+columns
+blue 2 red 5 blue 6 black 2 black 1
+blue 2 red 1 blue 3 red 1 blue 1 red 5 blue 1 black 2 black 2
+blue 2 red 5 blue 1 red 1 blue 1 red 1 blue 2 black 2 black 2
+blue 2 green 5 blue 1 red 3 blue 1 black 5 black 1
+blue 2 green 1 blue 3 green 1 blue 4 black 4 black 4
+blue 2 green 1 blue 3 green 1 blue 4 black 1 blue 1 black 4
+blue 5 black 4 blue 2 black 4 black 3
+blue 4 black 6 blue 1 black 6 black 2
+blue 3 black 3 green 1 black 9 black 1
+blue 3 black 6 green 1 black 7
+blue 3 black 3 green 1 black 8 black 3
+blue 4 black 6 blue 1 black 6 black 2
+blue 5 black 4 blue 2 black 1 blue 1 black 2 black 2
+blue 2 red 1 blue 8 black 2 blue 1 black 2 black 2
+blue 2 red 5 blue 1 green 5 black 1 black 2 black 2
+blue 2 red 1 blue 9 green 1 black 2 black 2
+blue 2 green 5 blue 1 green 5 blue 1 black 6
+blue 2 green 1 blue 3 green 1 blue 2 red 1 blue 2 red 1 blue 1 black 1 black 1
+blue 2 green 5 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 2
+blue 8 red 1 blue 2 red 1 blue 2 black 2

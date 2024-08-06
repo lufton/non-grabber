@@ -1,0 +1,62 @@
+by "Victoria Selby (sethswife)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Victoria Selby"
+date "Mar 18, 2010"
+description "An apple"
+difficulty 1.5
+height 20
+id 8080
+link "https://webpbn.com/play.cgi?id=8080"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Fruit"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3 black 2
+green 4 black 2
+green 4 black 2
+red 3 green 2 black 2 red 3
+red 5 black 2 red 5
+red 7 black 2 red 3 red 2
+red 13 red 2
+red 16 red 2
+red 17 red 2
+red 20
+red 20
+red 20
+red 20
+red 20
+red 18
+red 18
+red 16
+red 14
+red 12
+red 10
+
+columns
+red 7
+red 10
+red 12
+red 14
+red 16
+red 17
+red 17
+green 3 red 16
+green 4 red 15
+green 4 black 2 red 14
+green 2 black 3 red 14
+black 2 red 15
+black 2 red 16
+black 2 red 17
+black 1 red 2 red 13
+red 2 red 12
+red 2 red 10
+red 2 red 8
+red 10
+red 7

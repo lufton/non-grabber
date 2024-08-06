@@ -1,0 +1,31 @@
+by "eilon1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/29/04"
+height 5
+id 11558
+link "https://www.griddlers.net/nonogram/-/g/11558"
+medium_time "0:00:22"
+points 6
+popularity 42.42
+title "Tiny Flower"
+width 5
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color f ff00ff
+
+rows
+b 1
+b 1 f 1 b 1
+c 1 b 1
+c 1
+c 1
+
+columns
+0
+b 1 c 2
+b 1 f 1 b 1 c 1
+b 1
+0

@@ -1,0 +1,54 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/17/16"
+height 15
+id 178325
+link "https://www.griddlers.net/nonogram/-/g/178325"
+medium_time "0:04:00"
+points 905
+popularity 78.5
+title "Water Polo"
+width 15
+
+color a 99ffff
+color b 10a7cd
+color c ffcc99
+color d ff0000
+color e ffffff
+color f 0000ff
+color g ff66cc
+
+rows
+0
+f 1 c 1
+g 1 f 2 c 1
+f 1 g 2 f 1 e 8
+f 1 g 1 e 1
+c 1 e 1 f 3
+c 1 e 1 c 2 f 1
+d 2 c 1 e 1 c 3
+d 3 c 1 e 1 c 1 c 1 b 3
+d 2 c 2 b 3 c 5 b 2
+b 1 c 4 b 1 e 1 b 3 c 4 b 1
+b 2 c 2 b 11
+e 1 b 6 e 2 b 2 e 2 b 2
+b 1 e 1 b 2 e 2 b 3 e 2 b 3 e 1
+b 2 e 2 b 8 e 2 b 1
+
+columns
+b 2 e 1 b 2
+d 2 c 1 b 2 e 1 b 1
+g 1 f 1 d 3 c 2 b 2 e 1
+f 2 g 1 f 1 d 2 c 3 b 2 e 1
+c 1 f 1 g 2 c 6 b 2 e 1 b 1
+c 1 f 1 b 4 e 1 b 1
+b 1 e 1 b 4
+e 6 b 3 e 1 b 2
+e 1 c 2 b 2 e 1 b 2
+e 1 c 1 b 3 e 1 b 1
+e 1 f 1 c 2 c 2 b 2 e 1 b 1
+e 1 f 1 c 5 b 1 e 1 b 2
+e 1 f 2 c 1 b 1 c 2 b 1 e 1 b 1 e 1
+e 1 b 2 c 1 b 3 e 1
+e 1 b 5 e 1 b 1

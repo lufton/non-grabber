@@ -1,0 +1,64 @@
+by "evengroen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/5/15"
+height 21
+id 161872
+link "https://www.griddlers.net/nonogram/-/g/161872"
+medium_time "0:06:31"
+points 3652
+popularity 83.52
+title "Hand Fan"
+width 21
+
+color a ffffff
+color b ff0033
+color c ffcc00
+color d ff99cc
+color e 00d700
+
+rows
+b 7
+b 9
+b 1 e 2 b 2 e 1 b 5
+b 2 e 1 d 2 e 2 b 5
+b 3 d 4 b 6
+b 2 d 2 c 1 d 2 b 4 e 1 b 2
+b 2 d 4 b 3 d 2 e 2 b 2
+b 1 e 2 b 1 d 2 b 1 d 4 b 5
+b 2 e 1 b 4 d 2 c 1 d 2 b 4
+b 6 e 2 d 4 b 5
+b 7 e 1 d 2 b 7
+c 1 c 4 b 5 d 2 e 2 b 2
+c 1 c 2 c 1 b 3 d 4 e 1 b 3
+c 3 c 1 b 3 d 2 c 1 d 2 b 3
+c 1 c 2 b 4 d 4 b 3
+c 3 c 2 b 2 e 2 d 2 e 2 b 3
+c 1 c 1 c 1 b 3 e 1 b 3 e 1 b 3
+c 10 b 11
+c 1 c 1
+c 1 c 1
+c 4
+
+columns
+c 4
+c 1 c 1
+c 1 c 1
+b 11 c 10
+b 2 e 1 b 4 e 1 b 3 c 1 c 1 c 1
+b 2 e 2 b 1 d 2 e 2 b 2 c 2 c 3
+b 3 d 4 b 4 c 2 c 1
+b 3 d 2 c 1 d 2 b 3 c 1 c 3
+b 2 e 2 d 4 b 3 c 1 c 2 c 1
+b 3 e 1 d 2 b 3 e 1 b 1 c 4 c 1
+b 6 d 2 e 2 b 7
+b 6 d 4 b 7
+b 4 d 2 c 1 d 2 b 4 e 1 b 2
+b 4 d 4 b 2 d 2 b 1 e 2 b 1
+b 2 e 2 b 1 d 2 b 2 d 4 b 2
+b 2 e 1 b 4 d 2 c 1 d 2 b 2
+b 6 d 4 e 1 b 2
+b 5 e 2 d 2 e 2 b 1
+b 4 e 1 b 6
+b 9
+b 7

@@ -1,0 +1,77 @@
+by "Bahadýr Boztuna (thaedras)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by BahadÃ½r Boztuna"
+date "Jan 19, 2011"
+description "I tried to make it look like a rabbit from 62. But it is not :P"
+difficulty 3.75
+height 20
+id 11820
+link "https://webpbn.com/play.cgi?id=11820"
+note "published,definitely non-unique,may require much guessing"
+quality 1.5
+title "Monster"
+width 40
+
+rows
+5,2,2
+5,1,8,1
+2,2,2,3,2,2,3
+2,2,3,7,2,3
+2,3,1,2,2
+2,1,1,1,3
+2,1,2,2,2
+4,16,2,1
+24,1
+29
+27,1
+1,1
+1,4,2
+1,8,1
+2,3,1,1
+2,2,1,2,13
+3,2,1,3,1
+5,1,1,4
+6,2,1,1
+40
+
+columns
+7,10
+11,6
+2,4,4
+2,4,3
+3,4,4
+2,1,3,2,2
+3,3,2,1
+1,4,1,1
+2,4,2,1
+1,4,1,1
+2,4,1,1
+1,4,2,1
+1,4,2,1
+1,4,2,1
+1,4,2,2
+2,4,7
+1,4,1
+1,4,1
+1,4,1
+1,4,1
+8,1
+2,5,1
+1,4,1
+1,3,3
+2,3,2,1
+2,2,3,1
+1,2,2,1,1
+1,2,1,2,1,1
+2,2,2,1,1
+2,3,1,1
+2,2,1,1
+1,2,1,1
+2,1,1
+3,1,1
+2,1,1,1
+1,2,1,1,1
+2,1,1,1,1
+1,1,1,1
+3,1
+1,2

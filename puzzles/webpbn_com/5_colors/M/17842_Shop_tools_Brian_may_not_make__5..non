@@ -1,0 +1,58 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Mar  9, 2012"
+description "Hydraulic car jack."
+difficulty 1.75
+height 15
+id 17842
+link "https://webpbn.com/play.cgi?id=17842"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Shop tools Brian may not make # 5."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3
+black 1 green 1
+black 2 red 2 black 2
+red 2
+red 2
+red 2
+red 2 green 2 green 2
+red 2 green 3
+red 2 black 1
+red 3 black 1
+blue 16
+blue 1 blue 1
+blue 3 black 1 blue 7 black 1 blue 2
+black 1 black 1 black 1 black 1
+black 1 black 1
+
+columns
+green 1 black 1
+green 1 black 1
+green 1 black 1 red 2
+green 1 red 3
+black 1 red 2 blue 2
+black 1 red 2 blue 1 blue 1
+red 2 blue 1 blue 1
+red 2 blue 1 blue 1 black 1
+red 2 blue 1 black 1 black 1
+red 1 blue 1 blue 1 black 1
+red 1 blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+green 1 blue 1 blue 1
+green 2 blue 1 blue 1 black 1
+green 1 black 2 blue 1 black 1 black 1
+green 2 blue 1 blue 1 black 1
+green 1 blue 1 blue 1
+blue 2

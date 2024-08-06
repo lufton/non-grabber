@@ -1,0 +1,59 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Feb  8, 2009"
+description "a duck"
+difficulty 1.25
+height 17
+id 4955
+link "https://webpbn.com/play.cgi?id=4955"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "quack"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 6 blue 8 blue 2
+blue 5 blue 8 blue 1
+blue 3 red 2 black 1 blue 4 blue 1
+blue 1 red 4 blue 2
+blue 3 red 2 blue 1
+blue 5 blue 1
+blue 6
+blue 6 blue 1
+blue 5 blue 1
+blue 4 blue 2
+blue 4 blue 2
+blue 4 blue 3
+blue 4 blue 4
+blue 5 blue 5
+blue 6 blue 7
+blue 20
+
+columns
+blue 17
+blue 4 red 1 blue 12
+blue 4 red 1 blue 12
+blue 3 red 3 blue 11
+blue 3 red 3 blue 4 blue 3
+blue 2 blue 2 blue 2
+blue 1 black 1 blue 1
+blue 1 blue 1
+blue 2 blue 1
+blue 3 blue 1 blue 1
+blue 6 blue 1
+blue 5 blue 1
+blue 4 blue 1
+blue 4 blue 2
+blue 3 blue 2
+blue 3 blue 3
+blue 1 blue 1 blue 4
+blue 1 blue 5
+blue 2 blue 7
+blue 4 blue 9

@@ -1,0 +1,46 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 26, 2011"
+description "Praying Mantis. Kind of a jumble of green."
+difficulty 1.25
+height 15
+id 14188
+link "https://webpbn.com/play.cgi?id=14188"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Another Bug"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+0
+black 1 green 2 black 1
+green 2
+green 1 green 1
+green 2 green 2
+green 7 green 1
+green 1 green 3 green 1
+green 1 green 1 green 2 green 1
+green 1 green 1 green 2
+green 1 green 1 green 3
+green 1 green 1 green 3
+green 1 green 1 green 2
+green 2 green 2 green 1
+
+columns
+0
+black 1 green 3 green 1
+green 2 green 1 green 5
+green 3 green 1 green 1
+black 1 green 3 green 4
+green 3 green 1 green 1
+green 1 green 3
+green 1 green 4
+green 1 green 4
+green 4 green 4

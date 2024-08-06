@@ -1,0 +1,62 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Alicia Snyder"
+date "Jul 30, 2013"
+description "One"
+difficulty 1.5
+height 20
+id 22472
+link "https://webpbn.com/play.cgi?id=22472"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "How many is a minion?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 6
+green 1 black 6 green 1
+black 2 black 2
+green 1 black 1 black 1 black 1 black 1 green 1
+green 1 black 1 black 1 green 1
+green 2 black 6 green 2
+green 10
+blue 1 green 4 green 2 blue 1
+green 2 blue 1 green 3 green 1 blue 1 green 2
+green 3 blue 1 green 4 blue 1 green 3
+green 3 blue 1 green 4 blue 1 green 3
+green 3 blue 1 green 1 black 2 green 1 blue 1 green 3
+green 1 blue 4 black 2 blue 4 green 1
+green 1 blue 10 green 1
+green 1 blue 10 green 1
+green 1 blue 2 blue 2 green 1
+black 1 black 2 black 2 black 1
+black 2 black 2
+
+columns
+0
+0
+0
+0
+0
+0
+green 8 black 1
+black 1 green 4 blue 1 green 4 blue 3
+green 1 black 3 green 3 blue 1 green 3 blue 3
+green 1 black 1 black 1 green 3 blue 7 black 2
+green 1 black 1 black 1 black 1 green 6 blue 4 black 2
+green 1 black 1 black 1 green 5 black 2 blue 2
+green 1 black 1 black 1 green 1 green 2 black 2 blue 2
+green 1 black 1 black 1 black 1 green 1 green 3 blue 4 black 2
+green 1 black 1 black 1 green 3 blue 7 black 2
+green 1 black 3 green 3 blue 1 green 3 blue 3
+black 1 green 4 blue 1 green 4 blue 3
+green 8 black 1
+0
+0

@@ -1,0 +1,63 @@
+by "Angie Heath (bewildering14)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Angie Heath"
+date "Jun 16, 2010"
+description "The painting has white."
+difficulty 1.5
+height 20
+id 9219
+link "https://webpbn.com/play.cgi?id=9219"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Meow or Woof?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 blue 11
+blue 4 blue 10
+blue 4 blue 3 blue 3
+blue 13 blue 1
+blue 5 red 4 blue 5 blue 1
+blue 4 red 6 blue 4 blue 2
+blue 3 red 8 blue 5 blue 3
+blue 2 black 2 red 1 green 1 red 5 blue 4 blue 2 blue 1
+black 4 red 7 blue 3 blue 1
+blue 2 black 2 red 7 blue 2 blue 1
+blue 3 red 8 blue 7
+green 2 black 2 red 6 green 2 black 2 green 6
+green 1 red 1 black 1 red 7 black 1 green 1 black 1 green 1 black 1 red 1 green 4
+green 1 red 1 black 1 red 7 black 1 red 1 green 1 black 1 green 1 red 1 green 1 black 1 green 1 black 1
+green 1 red 1 black 1 red 8 black 1 red 1 green 1 red 2 green 1 black 1 green 1 black 1
+green 1 red 1 black 1 red 7 black 2 red 1 green 1 red 2 green 1 black 1 green 1 black 1
+green 1 red 1 black 1 red 7 black 1 red 1 green 1 red 2 green 2 black 1 green 1 black 1
+green 1 red 1 black 1 red 7 black 1 red 3 green 1 black 3 green 1 black 1
+green 1 red 1 black 2 red 9 green 6 black 1
+green 2 red 2 green 4 red 2 green 5 black 5
+
+columns
+blue 8 black 1 blue 2 green 9
+blue 8 black 1 blue 2 green 1 red 7 green 1
+blue 7 black 3 blue 1 black 8 red 1
+blue 5 red 1 black 3 red 1 black 1 red 6 black 1 red 1
+blue 2 red 14 green 1
+blue 1 red 3 green 1 red 11 green 1
+blue 1 red 15 green 1
+blue 1 red 15 green 1
+blue 1 red 16
+blue 1 blue 2 red 15
+blue 2 blue 3 red 5 green 1 black 2 red 1 black 3 red 1 green 1
+blue 11 green 2 red 1 black 2 red 3 green 1
+blue 11 black 2 green 1 red 2 green 1 red 2 green 1
+blue 3 blue 5 blue 1 black 1 green 1 black 1 green 2 red 2 green 2
+blue 2 blue 2 blue 1 green 1 black 1 green 1 red 3 green 3
+blue 2 blue 1 blue 1 green 1 red 4 green 1 black 1 green 1 black 1
+blue 2 blue 1 blue 1 green 6 black 1 green 1 black 1
+blue 3 blue 2 blue 2 green 2 black 5 green 1 black 1
+blue 3 blue 2 green 8 black 1
+blue 9 green 2 black 7

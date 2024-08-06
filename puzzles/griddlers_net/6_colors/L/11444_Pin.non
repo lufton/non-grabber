@@ -1,0 +1,83 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/25/04"
+height 30
+id 11444
+link "https://www.griddlers.net/nonogram/-/g/11444"
+medium_time "0:14:05"
+points 5704
+popularity 77.08
+title "Pin"
+width 30
+
+color a ffffff
+color b 000000
+color c 008080
+color d 00ffff
+color e ffff00
+color f 808000
+
+rows
+b 5
+b 1 c 5 b 1
+b 1 c 7 b 1
+b 1 d 1 c 6 b 1
+b 1 c 1 d 5 c 1 b 1
+e 2 b 1 c 5 b 1
+e 4 b 5
+e 7 b 1 c 3 b 1
+e 8 b 1 c 1 b 1 d 1 c 2 b 1 c 1 b 1
+e 8 b 1 d 1 c 1 b 1 d 1 c 2 b 1 c 2 b 1
+e 8 b 1 d 1 c 2 b 3 c 3 b 1
+e 9 b 1 c 1 d 1 c 5 d 1 c 1 b 1
+e 9 b 1 c 2 d 5 c 2 b 1
+e 11 b 1 c 7 b 2 f 1
+e 12 b 8 f 3
+e 16 b 2 f 5
+e 16 b 1 f 6
+e 17 b 1 f 5
+e 18 f 5
+e 20 f 3
+e 22 f 2
+e 23 f 1
+e 24 f 2
+e 23 f 1
+e 21 f 2
+e 19 f 1
+e 16 f 1
+e 14
+e 11
+e 9
+
+columns
+e 1
+e 2
+e 4
+e 5
+e 7
+e 9
+e 12
+e 14
+e 17
+e 19
+e 22
+e 24
+e 25
+e 24
+e 24
+e 23
+e 23
+e 1 b 4 e 17
+b 3 b 1 d 2 c 2 b 1 e 16
+b 1 c 1 d 1 c 1 b 1 c 3 d 1 c 2 b 1 e 15
+b 1 c 3 d 1 c 1 b 4 c 2 d 1 c 1 b 1 e 15
+b 1 c 3 d 1 c 1 b 1 c 1 d 2 b 1 c 1 d 1 c 1 b 1 e 13
+b 1 c 3 d 1 c 1 b 1 c 3 b 1 c 1 d 1 c 1 b 4 e 8 f 1
+b 1 c 3 d 1 c 1 b 1 c 3 b 1 c 1 d 1 c 1 b 2 f 3 e 5 f 2
+b 1 c 3 d 1 c 1 b 4 c 2 d 1 c 1 b 1 f 5 e 2 f 3
+b 1 c 3 b 1 c 3 d 1 c 2 b 1 f 8
+b 3 b 1 c 4 b 2 f 6
+b 5 f 5
+f 4
+f 1

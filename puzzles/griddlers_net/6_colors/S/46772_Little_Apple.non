@@ -1,0 +1,44 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/07"
+height 12
+id 46772
+link "https://www.griddlers.net/nonogram/-/g/46772"
+medium_time "0:02:38"
+points 150
+popularity 68.34
+title "Little Apple"
+width 9
+
+color a ffffff
+color d f74e16
+color e cf3f0f
+color f 009900
+color g 99cc00
+color h cc9900
+
+rows
+g 2 f 1
+h 2 g 2 f 1
+h 1 f 2
+h 1
+e 2 d 1 h 1 e 3
+e 2 d 1 e 1 d 1 e 1 d 1 e 2
+e 1 d 1 e 2 d 1 e 3
+e 1 d 1 e 2 d 1 e 3
+e 1 d 2 e 6
+e 2 d 1 e 6
+e 7
+e 2 e 2
+
+columns
+e 5
+e 2 d 1 e 2
+e 1 d 5 e 2
+h 1 d 1 e 7
+h 4 d 1 e 5
+g 1 f 1 e 2 d 2 e 4
+g 2 f 1 e 1 d 1 e 6
+g 1 f 1 e 7
+f 1 e 5

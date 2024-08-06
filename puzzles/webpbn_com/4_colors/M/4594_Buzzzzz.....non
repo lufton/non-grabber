@@ -1,0 +1,69 @@
+by "aliza glatter (cisv247)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by aliza glatter"
+date "Dec 30, 2008"
+description "Look out... it's a bumble bee!"
+difficulty 2.25
+height 24
+id 4594
+link "https://webpbn.com/play.cgi?id=4594"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "Buzzzzz...."
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 blue 2
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 2
+black 3 green 3 black 3 green 1
+green 1 black 3 green 3 black 3 green 2
+green 2 black 3 green 3 black 3 green 3
+green 3 black 3 green 3 black 3 green 5
+black 1 green 3 black 3 green 3 black 3 green 6
+black 2 green 3 black 3 green 3 black 3 green 6
+black 3 green 3 black 3 green 3 black 3 green 3 black 2 green 1
+black 4 green 3 black 3 green 3 black 3 green 6
+black 5 green 3 black 3 green 3 black 3 green 6
+black 4 green 3 black 3 green 3 black 3 green 2 black 4
+black 3 green 3 black 3 green 3 black 3 green 6
+black 2 green 3 black 3 green 3 black 3 green 5
+black 1 green 3 black 3 green 3 black 3 green 4
+green 3 black 3 green 3 black 3 green 3
+green 2 black 3 green 3 black 3 green 2
+green 1 black 3 green 3 black 3 green 1
+
+columns
+black 1
+black 3
+black 5
+black 7
+blue 2 black 9
+blue 1 blue 1 green 11
+blue 1 blue 1 green 13
+blue 1 blue 1 green 15
+blue 1 blue 1 black 16
+blue 1 black 16
+blue 1 black 16
+blue 6 green 16
+blue 2 blue 1 green 16
+blue 1 blue 1 green 16
+blue 1 blue 1 black 16
+blue 1 blue 1 black 16
+blue 1 black 16
+green 16
+green 14
+green 7 black 1 green 4
+green 3 black 1 green 2 black 1 green 3
+green 3 black 1 green 2 black 1 green 2
+green 5 black 1 green 1

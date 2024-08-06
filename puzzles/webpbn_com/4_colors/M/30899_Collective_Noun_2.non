@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Feb 24, 2018"
+description ""
+difficulty 1.75
+height 20
+id 30899
+link "https://webpbn.com/play.cgi?id=30899"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Collective Noun #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 2
+black 2
+black 1
+black 1
+black 8
+black 8
+black 2 black 1
+black 4
+black 2
+black 2
+black 2
+black 1
+black 3
+black 4 blue 2
+black 4 blue 5
+black 4 blue 6
+black 4 blue 4
+red 4 black 1 red 8 blue 2
+
+columns
+black 8
+black 7
+black 2 black 1
+black 4
+black 2
+black 2 red 1
+black 2 red 1
+black 4 black 2 red 1
+black 3 black 1 red 1
+black 3
+black 3 red 1
+black 4 red 1
+black 4 red 1
+black 4 red 1
+black 2 blue 2 red 1
+blue 3 red 1
+blue 4 red 1
+blue 3 red 1
+blue 4
+blue 3

@@ -1,0 +1,72 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wombat"
+date "Feb  7, 2014"
+description "Poison Ivy"
+difficulty 1.75
+height 25
+id 23762
+link "https://webpbn.com/play.cgi?id=23762"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Batman Villain"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 9
+red 11
+red 6 red 5
+red 4 red 4
+red 2 red 2
+red 2 black 1 green 2 green 2 black 1 red 2
+red 2 green 2 green 2 red 2
+red 2 red 2
+red 2 red 2
+red 2 red 3 red 2
+red 3 red 1 red 3
+red 4 red 5
+red 6 red 6
+red 6 red 7
+red 7 red 7
+red 5 red 5
+red 3 red 1 red 6
+red 4 red 1 red 6
+red 2 green 3 green 4 red 2
+red 3 green 5 green 6 red 2
+red 3 green 7 green 9 red 1
+red 1 green 10 green 10
+red 1 green 10 green 10
+green 19
+green 17
+
+columns
+red 4
+red 4 green 1
+red 5 green 2
+red 4 green 6
+red 6 green 7
+red 11 green 7
+red 14 green 6
+red 4 red 7 green 6
+red 4 black 1 red 4 green 5
+red 4 green 2 red 3 green 5
+red 3 green 2 green 4
+red 3 red 1 green 3
+red 2 red 2 green 2
+red 2 red 1 green 3
+red 3 green 2 green 4
+red 3 green 2 red 3 green 5
+red 4 black 1 red 4 red 1 green 5
+red 3 red 7 green 6
+red 16 green 6
+red 15 green 7
+red 7 green 7
+red 5 green 6
+red 2 green 5
+red 3 green 2
+red 3

@@ -1,0 +1,51 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Feb  1, 2011"
+description "My dog has fleas"
+difficulty 1.75
+height 15
+id 12017
+link "https://webpbn.com/play.cgi?id=12017"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "WCP #77 - You Can Tune A Ukelele To This"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 2 black 1 black 1
+black 1 black 2 black 1
+black 13
+black 4 red 1 black 2 black 1
+black 2 black 1 red 1 black 2 red 2 black 2
+black 2 black 1 red 1 black 2 red 1 black 3
+black 2 black 1 black 2 black 3
+red 3 black 1 black 2 black 3
+red 4 black 2 black 2 black 3
+red 1 red 1 black 2 black 2
+black 2 red 3 black 2
+black 2 red 4 black 2
+black 2 red 1 red 1 black 2
+black 2
+
+columns
+black 1 red 1
+black 2 black 1 red 3
+black 7 red 2
+black 5 red 3
+black 1 black 5
+black 1 black 9
+black 1 red 3 red 3
+black 8 red 2
+black 10 red 3
+black 1 red 1
+black 1 red 2 black 5
+black 1 red 1 black 9
+black 9
+black 1 black 5
+black 1

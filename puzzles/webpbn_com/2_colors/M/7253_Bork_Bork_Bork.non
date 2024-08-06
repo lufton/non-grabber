@@ -1,0 +1,62 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Wombat"
+date "Nov 29, 2009"
+description "The Swedish Chef"
+difficulty 2.0
+height 25
+id 7253
+link "https://webpbn.com/play.cgi?id=7253"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Bork! Bork! Bork!"
+width 20
+
+rows
+16
+1,2
+1,2
+2,1
+2,1
+5,2
+1,6,2
+1,5
+1,1
+11
+1,1
+2,2
+1,7,1
+2,9,2
+1,11,1
+1,5,5,1
+1,2,2,2,2,1
+1,1,1,1
+1,1,1,1
+1,9,1
+15
+6,6
+2,2
+2,2
+7
+
+columns
+0
+4
+1,2,8
+1,2,3,2
+1,7,3,3
+1,1,1,4,5
+1,1,1,4,3,2
+1,2,1,10,1
+1,1,1,5,3,1
+1,1,1,3,2,1
+1,1,1,5,3,1
+1,1,1,10,1
+1,2,1,4,3,2
+1,1,1,4,5
+1,5,3,3
+1,1,3,2
+2,2,8
+2,2
+4
+0

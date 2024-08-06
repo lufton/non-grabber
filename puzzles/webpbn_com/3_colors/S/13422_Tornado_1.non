@@ -1,0 +1,51 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Apr 18, 2011"
+description "three of this scene on my block"
+difficulty 1.5
+height 15
+id 13422
+link "https://webpbn.com/play.cgi?id=13422"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Tornado #1"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+green 1
+green 3 green 2
+green 2 black 1 green 2 black 1 green 1
+green 1 black 1 green 1 black 1 green 1 black 1 green 2
+green 2 black 2 green 2
+green 1 black 1 green 1 black 4
+black 8
+black 10
+black 2 black 8
+black 5 black 1 black 2 black 1
+black 3 black 1 black 2 black 1
+black 2 black 1 black 5
+black 1 black 8
+green 15
+
+columns
+black 1 green 1
+black 2 green 1
+black 3 green 1
+black 4 green 1
+green 1 black 2 green 1
+green 1 black 1 green 1 black 2 green 1
+green 5 black 2 green 1
+green 2 black 11 green 1
+green 3 black 1 green 1 black 3 black 1 green 1
+green 1 black 1 green 1 black 4 black 1 green 1
+green 1 black 1 green 2 black 8 green 1
+green 3 black 8 green 1
+black 4 black 2 green 1
+black 3 black 2 green 1
+black 6 green 1

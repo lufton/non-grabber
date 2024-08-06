@@ -1,0 +1,171 @@
+by "Tripper (TripperCR)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Tripper"
+date "Apr 17, 2009"
+description "Yeap! A Pirate Ship!"
+difficulty 3.25
+height 75
+id 5649
+link "https://webpbn.com/play.cgi?id=5649"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.75
+title "The Caribean Menace"
+width 75
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 3 blue 23 black 1 blue 17 black 2 blue 24 blue 3
+blue 1 blue 3 black 1 black 2 blue 3 blue 1
+blue 3 black 1 black 3 blue 3
+blue 1 black 7 black 2 blue 1
+blue 2 black 14 black 2 black 2 blue 2
+blue 1 black 13 black 2 black 2 blue 1
+blue 1 black 13 black 5 black 2 blue 1
+blue 1 black 12 black 9 blue 1
+blue 1 black 11 black 8 blue 1
+blue 1 black 12 black 8 blue 1
+blue 1 black 12 black 8 blue 1
+blue 1 black 2 black 1 black 12 black 8 blue 1
+blue 1 black 2 black 1 black 5 black 3 black 9 blue 1
+blue 1 black 2 black 1 black 3 black 1 black 9 blue 1
+blue 1 black 2 black 1 black 6 black 1 black 9 blue 1
+blue 1 black 3 black 1 black 13 black 2 black 2 black 3 blue 1
+blue 1 black 3 black 1 black 19 black 2 black 2 blue 1
+blue 1 black 3 black 1 black 22 black 3 black 1 blue 1
+blue 1 black 3 black 1 black 34 blue 1
+blue 1 black 4 black 1 black 37 blue 1
+blue 1 black 4 black 1 black 39 blue 1
+blue 1 black 32 black 11 blue 1
+blue 1 black 30 black 10 blue 1
+blue 1 black 28 black 10 blue 1
+blue 1 black 6 black 17 black 2 black 10 blue 1
+blue 1 black 6 black 16 black 2 black 2 black 11 blue 1
+blue 1 black 6 black 17 black 2 black 11 black 2 blue 1
+blue 1 black 7 black 17 black 2 black 12 black 2 blue 1
+blue 1 black 7 black 20 black 13 black 2 blue 1
+blue 1 black 7 black 21 black 3 black 9 black 2 blue 1
+blue 1 black 8 black 2 black 1 black 21 black 10 black 2 blue 1
+blue 1 black 7 black 2 black 1 black 2 black 10 black 4 black 12 black 3 blue 1
+blue 1 black 10 black 1 black 2 black 9 black 15 black 4 blue 1
+blue 1 black 10 black 1 black 2 black 9 black 3 black 18 blue 1
+blue 1 black 10 black 1 black 2 black 12 black 2 black 15 blue 1
+blue 1 black 10 black 1 black 2 black 11 black 4 black 14 blue 1
+blue 1 black 9 black 1 black 3 black 9 black 21 blue 1
+blue 1 black 3 black 9 black 1 black 3 black 10 black 22 blue 1
+blue 1 black 5 black 9 black 1 black 3 black 33 blue 1
+blue 1 black 6 black 9 black 1 black 3 black 33 blue 1
+blue 1 black 6 black 3 black 5 black 1 black 3 black 32 blue 1
+blue 1 black 3 black 1 black 2 black 7 black 3 black 26 black 5 blue 1
+blue 1 black 2 black 1 black 1 black 7 black 3 black 26 black 3 blue 1
+blue 1 black 1 black 3 black 1 black 3 black 3 black 3 black 3 black 6 black 11 black 2 black 2 blue 1
+blue 1 black 7 black 3 black 6 black 2 black 2 black 2 black 5 black 5 black 1 black 2 blue 1
+blue 1 black 10 black 3 black 8 black 2 black 2 black 4 black 5 black 1 black 2 blue 1
+blue 1 black 3 black 10 black 7 black 1 black 8 black 6 black 5 blue 1
+blue 1 black 5 black 7 black 6 black 2 black 3 black 3 black 4 black 2 black 2 blue 1
+blue 1 black 1 black 7 black 5 black 6 black 2 black 4 black 8 black 4 blue 1
+blue 1 black 3 black 5 black 11 black 2 black 2 black 2 black 8 black 3 blue 1
+blue 1 black 12 black 17 black 12 black 3 blue 1
+blue 1 black 13 black 5 black 2 black 1 black 16 black 3 blue 1
+blue 1 black 13 black 2 black 24 black 3 blue 1
+blue 1 black 41 black 3 blue 1
+blue 1 black 27 black 12 black 3 black 3 blue 1
+blue 1 black 9 black 11 black 2 black 13 black 2 black 3 blue 1 black 2 blue 1
+blue 1 black 9 black 3 black 3 black 2 black 16 black 5 blue 4 black 2 blue 1
+blue 1 black 12 black 4 black 19 black 3 blue 4 black 2 blue 2 black 1 blue 1
+blue 1 black 36 black 2 blue 5 black 6 blue 1
+blue 1 black 33 blue 2 black 3 blue 6 black 1 black 2 blue 1
+blue 1 black 4 blue 8 black 16 blue 14 black 1 blue 1
+blue 1 black 1 blue 12 black 7 blue 4 black 2 blue 16 black 1 blue 1
+blue 1 black 3 blue 42 black 1 blue 1
+blue 1 black 2 blue 18 black 4 blue 7 black 3 blue 5 black 2 blue 7 black 1 blue 1
+blue 1 black 2 blue 3 black 4 blue 3 black 7 blue 1 black 6 blue 4 black 6 blue 2 black 8 blue 4 black 1 blue 1
+blue 1 black 2 blue 3 black 5 blue 2 black 8 blue 1 black 6 blue 3 black 19 blue 3 black 2 blue 1
+blue 1 black 1 blue 3 black 16 blue 1 black 6 blue 3 black 22 blue 2 black 2 black 2
+black 2 black 27 blue 3 black 12 blue 2 black 12 blue 1 black 3 black 1
+blue 1 black 8 blue 1 black 28 blue 1 black 5 blue 2 black 4 blue 1 black 14 black 2
+blue 3 black 2 blue 5 black 27 blue 1 black 5 blue 3 black 2 blue 3 black 15 black 3 blue 1
+blue 10 black 24 blue 3 black 5 blue 8 black 23 blue 2
+blue 16 black 15 blue 6 black 2 blue 9 black 8 blue 1 black 4 blue 5 black 4 blue 5
+blue 16 black 13 blue 18 black 7 blue 4 black 2 blue 15
+blue 17 black 9 blue 22 black 4 blue 23
+blue 75
+
+columns
+blue 3 blue 63 black 1 blue 7
+blue 1 blue 3 black 1 black 2 blue 6
+blue 3 black 1 black 1 blue 6
+blue 1 black 1 black 3 blue 5
+blue 2 black 2 black 3 blue 5
+blue 1 black 2 black 3 black 3 blue 6
+blue 1 black 2 black 4 black 1 blue 1 black 2 blue 6
+blue 1 black 2 black 4 black 1 blue 1 black 2 blue 6
+blue 1 black 3 black 3 black 4 black 1 blue 2 black 2 blue 6
+blue 1 black 4 black 4 black 4 black 3 black 1 blue 1 black 2 blue 7
+blue 1 black 5 black 4 black 5 black 4 black 1 blue 2 black 5 blue 4
+blue 1 black 5 black 9 black 2 black 5 black 1 blue 1 black 6 blue 4
+blue 1 black 6 black 3 black 2 black 7 black 1 blue 2 black 6 blue 4
+blue 1 black 9 black 3 black 1 black 10 black 1 blue 1 black 7 blue 4
+blue 1 black 10 black 3 black 12 black 1 blue 1 black 7 blue 4
+blue 1 black 25 black 4 black 14 blue 2 black 7 blue 4
+blue 1 black 22 black 16 blue 3 black 1 blue 1 black 7 blue 2
+blue 1 black 22 black 16 blue 5 black 8 blue 1
+blue 1 black 1 black 5 black 16 black 3 black 12 blue 4 black 9 blue 1
+blue 1 black 1 black 5 black 13 black 3 black 10 blue 5 black 9 blue 1
+blue 1 black 2 black 6 black 31 blue 4 black 10 blue 1
+blue 1 black 3 black 7 black 20 black 4 black 3 blue 4 black 10 blue 1
+blue 1 black 5 black 7 black 19 black 3 black 4 blue 4 black 10 blue 1
+blue 1 black 12 black 9 black 15 black 4 black 7 blue 4 black 10 blue 1
+blue 1 black 12 black 28 black 11 blue 4 black 10 blue 1
+blue 1 black 12 black 14 black 15 black 2 blue 4 black 2 blue 1 black 7 blue 1
+blue 1 black 10 black 1 black 36 black 3 black 3 blue 4 black 1 blue 1 black 7 blue 2
+black 13 black 16 black 8 black 8 blue 4 black 8 blue 2
+blue 1 black 9 black 37 black 10 blue 2 black 9 blue 2
+blue 1 black 8 black 47 blue 2 black 8 blue 3
+blue 1 black 8 black 16 black 20 black 4 blue 1 black 4 blue 1 black 4 blue 3
+blue 1 black 8 black 18 black 2 black 1 black 4 black 5 blue 1 black 4 blue 1 black 3 blue 4
+blue 1 black 8 black 21 black 4 black 1 black 10 blue 1 black 3 blue 2 black 3 blue 4
+blue 1 black 7 black 30 black 13 blue 1 black 2 blue 2 black 4 blue 4
+blue 1 black 35 black 3 black 3 black 5 blue 5 black 3 blue 5
+blue 1 black 28 black 2 black 1 black 3 black 5 blue 5 black 4 blue 5
+blue 1 black 28 black 3 black 11 blue 4 black 5 blue 5
+blue 1 black 31 black 12 blue 4 black 4 blue 1 black 2 blue 3
+blue 1 black 1 black 30 black 6 black 5 blue 3 black 4 blue 1 black 3 blue 3
+blue 1 black 2 black 29 black 3 black 3 black 7 blue 2 black 7 blue 4
+blue 1 black 4 black 7 black 6 black 29 blue 2 black 7 blue 4
+blue 1 black 7 black 7 black 3 black 27 blue 2 black 8 blue 4
+blue 1 black 1 black 10 black 4 black 2 black 3 black 3 black 7 black 1 black 11 blue 2 black 7 blue 5
+blue 1 black 9 black 3 black 2 black 3 black 2 black 5 black 14 blue 3 black 6 blue 6
+blue 1 black 1 black 8 black 4 black 1 black 2 black 1 black 23 blue 5 black 3 blue 7
+black 21 black 2 black 1 black 2 black 25 blue 5 black 2 blue 8
+black 22 black 2 black 3 black 13 black 11 blue 5 black 3 blue 1 black 2 blue 5
+blue 1 black 7 black 5 black 4 black 12 black 12 blue 5 black 6 blue 2 black 1 blue 2
+blue 1 black 7 black 13 black 1 black 10 black 14 blue 4 black 5 blue 2 black 3 blue 1
+blue 1 black 6 black 11 black 2 black 8 black 13 black 1 blue 3 black 6 blue 2 black 3 blue 1
+blue 1 black 17 black 3 black 21 black 2 blue 3 black 5 blue 2 black 4 blue 1
+blue 1 black 29 black 6 black 2 blue 5 black 10 blue 1
+blue 1 black 32 black 2 blue 6 black 9 blue 2
+blue 1 black 40 blue 6 black 9 blue 2
+blue 1 black 26 black 9 blue 8 black 7 blue 3
+blue 1 black 23 black 2 black 5 black 1 blue 9 black 6 blue 3
+blue 1 black 23 black 2 black 2 blue 9 black 5 blue 4
+blue 1 black 24 black 1 blue 2 black 5 blue 4 black 5 blue 3
+blue 1 black 17 black 1 black 2 blue 1 black 2 black 3 blue 1 black 6 blue 2
+blue 1 black 13 black 1 black 1 blue 2 black 2 black 2 blue 1 black 5 blue 2
+blue 1 black 12 black 2 black 2 blue 2 black 2 black 6 blue 3
+blue 1 black 15 black 2 blue 1 black 2 black 4 blue 4
+blue 1 black 13 black 3 black 4 blue 4
+blue 1 black 10 black 3 blue 4
+blue 1 black 10 black 3 blue 4
+blue 1 black 3 black 4 black 2 blue 4
+blue 1 black 3 black 2 blue 3
+blue 1 black 2 black 2 blue 3
+blue 1 black 2 black 2 blue 3
+blue 1 black 2 black 2 blue 3
+blue 2 black 2 black 1 blue 4
+blue 1 black 2 black 2 blue 4
+blue 3 black 2 black 2 blue 4
+blue 1 blue 3 black 1 black 1 black 2 blue 5
+blue 3 blue 62 black 3 blue 6

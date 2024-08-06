@@ -1,0 +1,62 @@
+by "Turd Ferguson (turdferguson)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Turd Ferguson"
+date "Jul 24, 2021"
+description "A friendly junimo from Stardew Valley"
+difficulty 1.25
+height 20
+id 35248
+link "https://webpbn.com/play.cgi?id=35248"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "We are the keepers of the forest"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 1
+black 1
+black 6
+black 1 blue 3 black 1 blue 2 black 1
+black 2 blue 3 black 1 blue 2 black 2
+black 1 blue 1 black 1 blue 6 black 1 blue 1 black 1
+black 1 black 1 blue 2 black 6 blue 2 black 1 black 2
+black 1 black 1 blue 10 black 1 black 1
+black 3 blue 10 black 3
+black 1 blue 10 black 1
+black 1 blue 2 black 1 blue 4 black 1 blue 2 black 1
+black 1 blue 1 red 1 blue 6 red 1 blue 1 black 1
+black 2 blue 8 black 2
+black 10
+black 1 black 1
+black 1 black 1
+black 2 black 2
+0
+0
+
+columns
+0
+0
+black 3
+black 1
+black 8
+black 1 blue 7 black 2
+black 3 blue 5 red 1 blue 1 black 1 black 1
+black 1 blue 3 black 1 blue 3 black 1 blue 2 black 4
+black 1 blue 3 black 1 blue 6 black 1
+blue 1 black 1 blue 3 black 1 blue 6 black 1
+black 4 blue 1 black 1 blue 6 black 1
+black 1 blue 3 black 1 blue 6 black 1
+black 1 blue 3 black 1 blue 3 black 1 blue 2 black 4
+black 3 blue 5 red 1 blue 1 black 1 black 1
+black 1 blue 7 black 2
+black 8
+black 1
+black 3
+black 1
+0

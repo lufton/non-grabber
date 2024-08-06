@@ -1,0 +1,91 @@
+by "S Siakoulis (nitsa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by S Siakoulis"
+date "Jan 10, 2011"
+description "From a book I had as a child that taught to draw cartoons out of letters of the alphabet."
+difficulty 2.0
+height 40
+id 11722
+link "https://webpbn.com/play.cgi?id=11722"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Learning to draw - B"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 18
+black 1 red 2 black 2 red 4 black 1 black 4 red 1 black 2
+black 1 red 3 black 2 red 2 black 2 black 4 red 2 black 3
+black 2 red 3 black 1 red 2 black 1 black 4 red 3 black 3
+black 3 red 2 black 1 red 2 black 1 black 4 red 3 black 3
+black 1 red 1 black 2 red 4 black 1 black 4 red 3 black 3
+black 1 red 7 black 1 black 4 red 5 black 1
+black 1 red 7 black 1 black 3 red 5 black 1
+black 1 red 7 black 1 black 1 red 5 black 1
+black 1 red 7 black 2 black 2 red 5 black 1
+black 1 red 8 black 2 black 2 red 6 black 1
+black 1 red 9 black 4 red 7 black 1
+black 1 red 20 black 1
+black 3 black 1 red 20 black 1
+black 6 red 19 black 2
+black 3 red 1 black 3 red 18 black 3
+black 1 red 1 black 3 red 1 black 1 red 17 black 4
+black 3 red 1 black 3 red 16 black 2 black 2
+black 1 red 1 black 3 red 1 black 1 red 15 black 2 black 2
+black 3 red 1 black 21
+black 1 red 1 black 3 red 1 black 1 red 17 black 2
+black 3 red 1 black 3 red 18 black 2
+black 1 red 1 black 3 red 1 black 1 red 19 black 2
+black 3 red 1 black 3 red 10 black 2 red 8 black 2
+black 1 red 1 black 3 red 1 black 1 red 11 black 2 red 8 black 2
+black 3 red 1 black 3 red 12 black 2 red 8 black 1
+black 1 red 1 black 3 red 1 black 1 red 13 black 2 red 4 black 1 red 2 black 1
+black 3 red 1 black 3 red 14 black 1 red 4 black 2 red 1 black 1
+black 1 red 1 black 3 red 1 black 1 red 14 black 2 red 2 black 1 red 1 black 3
+black 3 red 1 black 3 red 15 black 2 red 1 black 2 red 1 black 2
+black 1 red 1 black 3 red 1 black 1 red 16 black 2 red 1 black 4
+black 3 red 1 black 3 red 17 black 4 red 1 black 1
+black 1 red 1 black 3 red 1 black 1 red 22 black 1
+black 3 red 1 black 3 red 22 black 1
+black 4 red 1 black 1 red 22 black 1
+black 2 red 1 black 3 red 21 black 2
+black 3 red 1 black 1 red 20 black 2
+black 1 red 1 black 3 red 19 black 2
+black 3 red 1 black 1 red 18 black 2
+black 23
+
+columns
+black 19
+black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 3
+black 26
+black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2
+black 27
+black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 40
+black 1 red 2 black 2 red 14 black 1 red 19 black 1
+black 1 red 3 black 2 red 13 black 1 red 19 black 1
+black 2 red 3 black 1 red 13 black 1 red 19 black 1
+black 3 red 16 black 1 red 19 black 1
+black 1 red 1 black 3 red 14 black 1 red 19 black 1
+black 1 red 18 black 1 red 19 black 1
+black 1 red 18 black 1 red 19 black 1
+black 1 red 1 black 8 red 9 black 1 red 19 black 1
+black 3 black 2 red 8 black 1 red 19 black 1
+black 1 black 2 red 7 black 1 red 19 black 1
+black 1 black 1 red 7 black 1 red 3 black 1 red 15 black 1
+black 7 black 1 red 7 black 1 red 3 black 2 red 14 black 1
+black 8 black 2 red 7 black 1 red 4 black 2 red 13 black 1
+black 8 black 2 red 8 black 1 red 5 black 2 red 12 black 1
+black 10 red 9 black 1 red 6 black 3 red 10 black 1
+black 1 red 17 black 2 red 8 black 2 red 9 black 1
+black 2 red 15 black 3 red 9 black 2 red 8 black 1
+black 2 red 13 black 2 black 2 red 9 black 2 red 7 black 1
+black 4 red 9 black 2 black 2 red 6 black 2 red 1 black 1 red 6 black 2
+black 4 red 8 black 5 black 2 red 3 black 2 red 1 black 3 red 5 black 2
+black 16 black 2 red 3 black 2 red 1 black 2 red 4 black 2
+black 2 red 3 black 3 red 4 black 2
+black 12

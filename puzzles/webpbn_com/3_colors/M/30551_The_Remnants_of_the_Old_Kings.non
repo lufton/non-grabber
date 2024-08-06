@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Dec  3, 2017"
+description "The Great Pyramid during sunset."
+difficulty 1.25
+height 20
+id 30551
+link "https://webpbn.com/play.cgi?id=30551"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "The Remnants of the Old Kings"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 1 black 18
+black 17 black 2
+black 20
+black 4 black 15
+black 20
+black 9 black 10
+black 16 black 3
+black 20
+black 20
+black 20
+black 20
+black 3 black 5 red 1 black 9
+black 8 red 2 black 8
+black 7 red 4 black 7
+black 6 red 5 black 6
+black 5 red 7 black 5
+black 4 red 8 black 4
+black 3 red 10 black 3
+black 2 red 11 black 2
+
+columns
+black 20
+black 1 black 18
+black 19 red 1
+black 12 black 5 red 2
+black 4 black 12 red 3
+black 16 red 4
+black 15 red 5
+black 14 red 6
+black 13 red 7
+black 6 black 5 red 8
+black 12 red 6
+black 13 red 4
+black 14 red 2
+black 15
+black 16
+black 17
+black 7 black 10
+black 2 black 16
+black 20
+black 20

@@ -1,0 +1,91 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/23/16"
+height 21
+id 177845
+link "https://www.griddlers.net/nonogram/-/g/177845"
+medium_time "0:19:53"
+points 17886
+popularity 85.19
+title "Greek Pattern"
+width 49
+
+color a 000000
+color b ffffff
+color c 00ccff
+color d 0066cc
+
+rows
+0
+b 5 b 16 b 16
+d 3 b 1 c 1 b 1 d 13 b 1 c 1 b 1 d 13 b 1 c 1
+d 2 c 1 b 1 c 2 b 1 d 12 c 1 b 1 c 2 b 1 d 12 c 1 b 1 c 2
+d 1 c 2 b 1 c 3 b 1 d 11 c 2 b 1 c 3 b 1 d 11 c 2 b 1 c 3
+c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3
+c 3 b 1 c 3 b 1 c 1 b 6 c 3 b 1 c 3 b 1 c 1 b 6 c 3 b 1 c 3
+c 3 b 1 c 3 b 1 c 2 b 1 d 3 b 1 c 3 b 1 c 3 b 1 c 2 b 1 b 1 c 3 b 1 c 3
+c 3 b 1 c 3 b 1 c 3 b 1 d 2 c 1 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 1 b 1 c 3 b 1 c 3
+c 3 b 1 c 3 b 1 c 3 b 1 d 1 c 2 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 2 b 1 c 3 b 1 c 3
+c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3
+c 3 b 1 c 3 b 6 c 3 b 1 c 3 b 1 c 3 b 6 c 3 b 1 c 3 b 1 c 3
+c 3 b 1 c 2 d 6 c 3 b 1 c 3 b 1 c 2 d 6 c 3 b 1 c 3 b 1 c 2
+c 3 b 1 c 1 d 6 c 3 b 1 c 3 b 1 c 1 d 6 c 3 b 1 c 3 b 1 c 1 d 1
+c 3 b 1 d 6 c 3 b 1 c 3 b 1 d 6 c 3 b 1 c 3 b 1 d 2
+c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1 c 3 b 1
+c 3 b 16 c 3 b 16 c 3 b 5
+c 2 d 16 c 2 d 16 c 2 d 5
+c 1 d 16 c 1 d 16 c 1 d 6
+d 16 d 16 d 7
+0
+
+columns
+b 1 d 3
+b 1 d 2 c 14
+b 1 d 1 c 14 d 1
+b 1 c 14 d 2
+b 16 d 3
+b 1 d 3
+c 10 b 1 d 3
+c 10 d 1 b 1 d 3
+c 10 d 2 b 1 d 3
+b 11 d 3 b 1 d 3
+b 1 d 3 b 1 d 3 b 1 d 3
+b 1 d 3 c 3 b 1 d 3 b 1 d 3
+b 1 d 3 c 4 b 1 d 3 b 1 d 3
+b 1 d 3 c 5 b 1 d 2 b 1 d 3
+b 1 d 3 b 6 d 1 b 1 d 3
+b 1 d 3 b 1 d 3 b 1 d 3
+b 1 d 3 b 1 d 2 c 6 b 1 d 3
+b 1 d 3 b 1 d 1 c 7 b 1 d 3
+b 1 d 3 b 1 c 8 b 1 d 2
+b 1 d 3 b 11 d 1
+b 1 d 3
+b 1 d 2 c 14
+b 1 d 1 c 14 d 1
+b 1 c 14 d 2
+b 16 d 3
+b 1 d 3
+c 10 b 1 d 3
+c 10 d 1 b 1 d 3
+c 10 d 2 b 1 d 3
+b 11 d 3 b 1 d 3
+b 1 d 3 b 1 d 3 b 1 d 3
+b 1 d 3 c 3 b 1 d 3 b 1 d 3
+b 1 d 3 c 4 b 1 d 3 b 1 d 3
+b 1 d 3 c 5 b 1 d 2 b 1 d 3
+b 1 d 3 b 6 d 1 b 1 d 3
+b 1 d 3 b 1 b 1 d 3
+b 1 d 3 b 1 c 6 b 1 d 3
+b 1 d 3 b 1 c 7 b 1 d 3
+b 1 d 3 b 1 c 8 b 1 d 2
+b 1 d 3 b 11 d 1
+b 1 d 3
+b 1 d 2 c 14
+b 1 d 1 c 14 d 1
+b 1 c 14 d 2
+b 16 d 3
+b 1 d 3
+c 10 b 1 d 3
+c 10 d 1 b 1 d 3
+c 10 d 2 b 1 d 3

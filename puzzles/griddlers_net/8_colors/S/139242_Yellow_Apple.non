@@ -1,0 +1,48 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/30/13"
+height 12
+id 139242
+link "https://www.griddlers.net/nonogram/-/g/139242"
+medium_time "0:02:36"
+points 284
+popularity 69.08
+title "Yellow Apple"
+width 11
+
+color a 29c6e7
+color b 4a7300
+color c a0d635
+color d 84b521
+color e 523118
+color f ffad00
+color g ffde00
+color h fff752
+
+rows
+b 4
+b 1 c 3 d 1 b 1 e 1
+b 1 d 3 b 1 e 2
+b 4 e 2
+f 6
+f 1 g 3 h 1 g 2 f 1
+f 1 g 5 h 1 g 2 f 1
+f 1 g 5 h 2 g 1 f 1
+f 1 g 5 h 2 g 1 f 1
+f 1 g 4 h 2 g 2 f 1
+f 1 g 6 f 1
+f 6
+
+columns
+b 1
+b 1 c 1 b 1 f 4
+b 1 c 1 d 1 b 1 f 1 g 4 f 1
+b 1 c 1 d 1 b 1 f 1 g 6 f 1
+b 1 d 2 b 1 f 1 g 6 f 1
+b 3 f 1 g 6 f 1
+e 2 f 1 h 1 g 3 h 1 g 1 f 1
+e 3 f 1 g 1 h 4 g 1 f 1
+f 1 g 2 h 2 g 2 f 1
+f 1 g 4 f 1
+f 4

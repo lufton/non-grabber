@@ -1,0 +1,62 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Dave Oas"
+date "Oct 31, 2012"
+description "Freestylin' to victory in lane 3"
+difficulty 1.5
+height 20
+id 20174
+link "https://webpbn.com/play.cgi?id=20174"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "The fast lanes"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5 black 5
+black 5 black 5
+black 5 black 5
+black 1 black 1
+black 20
+red 1 blue 9 red 1 blue 9
+blue 7 blue 1 blue 9
+red 1 blue 4 blue 2 blue 1 red 1 blue 9
+blue 3 blue 1 blue 1 blue 1 blue 7
+red 1 blue 3 blue 1 blue 1 red 1 blue 1 blue 1 blue 3
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 3
+red 1 blue 4 blue 2 blue 1 red 1 blue 1 blue 1 blue 4
+blue 2 blue 1 blue 1 blue 1 blue 3
+red 1 blue 1 blue 2 red 1 blue 1 blue 2 blue 4
+blue 1 blue 1 blue 3 blue 1 blue 2
+red 1 blue 1 blue 1 blue 3 red 1 blue 2 blue 1
+blue 1 blue 1 blue 3 blue 3 blue 1 blue 1
+red 1 blue 3 black 3 blue 3 red 1 blue 3 blue 1 blue 1
+blue 3 black 3 blue 3 blue 3 blue 1 blue 1
+blue 3 blue 3 blue 3 black 3 blue 3
+
+columns
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+black 1 blue 15
+black 1 blue 8 blue 3
+black 3 black 1 blue 7 blue 6
+black 3 black 1 blue 3 blue 1 black 2
+black 5 blue 2 black 2
+black 3 black 1 blue 3 blue 1 black 2
+black 3 black 1 blue 7 blue 6
+black 1 blue 1 blue 7
+black 1 blue 15
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+black 1 blue 15
+black 1 blue 3 blue 5
+black 3 black 1 blue 9 blue 4
+black 3 black 1 blue 4 blue 1 black 1
+black 5 blue 4 black 1
+black 3 black 1 blue 4 blue 1 blue 1 black 1
+black 3 black 1 blue 9 blue 4
+black 1 blue 10 blue 1
+black 1 blue 15

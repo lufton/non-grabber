@@ -1,0 +1,67 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Aug  6, 2011"
+description "Given the same parameters and features, how easy is it to get a recognizable Tricky Dick? It's pretty tricky. (see puzzle 15448)"
+difficulty 2.0
+height 25
+id 15454
+link "https://webpbn.com/play.cgi?id=15454"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Another try for Kai"
+width 25
+
+rows
+25
+4,7,4
+3,5,3
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+1,4,4,1
+7,6
+3,4,1,2,2
+2,1,1,1,2
+2,8,1,8,1
+3,3,2,2,3,2
+1,2,1,2,2,1
+2
+3
+4
+1
+1
+2,1
+2,3
+11
+
+columns
+11
+10,3
+3,5
+2,2,1
+1,2,3
+1,2,1
+1,2,2
+1,3,3,1
+1,2,3,2
+1,1,1,2
+2,5,1
+3,2,1
+3,1
+3,3,1
+3,1
+3,5,1
+2,8,2
+1,2,1,7
+1,2,3,1,2
+1,2,3,1,1
+1,2,2
+2,2,1
+3,2,3
+10,2,1
+11,2

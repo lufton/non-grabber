@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 16, 2011"
+description "Enjoy!"
+difficulty 2.0
+height 20
+id 13952
+link "https://webpbn.com/play.cgi?id=13952"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Baseball Term"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 20
+green 5 green 7 green 4
+green 4 green 2 green 5 green 3
+green 3 green 2 green 3 green 2
+green 2 green 1 green 5 green 4
+green 4 green 5 green 4
+green 2 blue 1 green 2 green 6 green 4
+green 2 green 3 green 12
+green 20
+black 20
+black 6 blue 1 black 3 blue 1 black 3 black 2
+black 2 black 2 blue 1 black 1 blue 1 black 1 black 1
+black 2 black 2 blue 1 black 1 black 1 blue 1 blue 1 black 1
+black 6 black 3 black 3 black 2
+black 20
+black 1 black 3 black 3 black 3 blue 1 black 2
+blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 3 blue 1 black 3 blue 1 black 3 black 2
+black 20
+
+columns
+green 9 black 7 blue 1 black 2
+green 9 black 6 blue 1 black 1
+green 4 green 1 blue 1 green 1 black 2 black 2 blue 1 black 1
+green 3 green 4 black 7 black 2
+green 2 green 3 black 11
+green 1 green 2 black 2 black 3 blue 1 black 2
+green 1 green 1 green 1 black 1 blue 1 blue 1 black 1 black 1
+green 1 green 2 green 1 black 1 black 1 blue 1 blue 1 black 1
+green 2 green 2 green 2 black 2 blue 1 black 3 black 2
+green 3 green 3 black 11
+green 9 black 2 blue 1 black 3 black 2
+green 9 black 1 black 1 blue 1 black 1
+green 9 black 1 blue 1 black 1 blue 1 blue 1 black 1
+green 3 green 5 black 2 black 3 black 2
+green 2 green 5 black 11
+green 1 green 2 black 2 blue 1 black 3 black 2
+green 2 green 5 black 1 black 1 blue 1 black 1
+green 3 green 5 black 1 blue 1 black 1 blue 1 blue 1 black 1
+green 9 black 2 black 3 black 2
+green 9 black 11

@@ -1,0 +1,117 @@
+by "vivimagi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/13/07"
+height 48
+id 55230
+link "https://www.griddlers.net/nonogram/-/g/55230"
+medium_time "0:42:42"
+points 25822
+popularity 79.47
+title "Strawberries"
+width 45
+
+color a 9cdef7
+color b 429418
+color c ffffff
+color d f7ef52
+color e ad1010
+color f e20c04
+color g ef8463
+
+rows
+b 2
+b 2 b 5
+b 5 b 7
+b 7 c 2 c 3 b 9
+b 8 c 3 c 4 b 11
+b 10 c 3 c 3 b 12
+b 11 c 2 d 2 b 15
+b 14 d 2 c 2 b 13
+b 12 c 3 c 3 b 11
+b 11 c 4 c 3 b 11
+b 11 c 3 b 1 b 1 c 2 b 11
+b 15 b 13
+b 27
+b 2 c 3 b 3 c 3 b 15
+b 1 c 4 b 1 c 4 b 14 b 3
+b 6 c 4 b 1 c 4 b 4 c 3 b 3 c 3 b 7
+b 9 c 3 d 2 c 2 b 4 c 5 b 1 c 5 b 7
+b 13 d 2 b 5 c 5 c 5 b 8
+b 10 c 3 b 1 c 3 b 1 c 5 c 5 b 7
+b 11 c 4 b 1 c 4 b 1 c 3 d 3 c 3 b 7
+b 11 c 4 b 1 c 4 b 2 b 3 d 3 b 8
+b 12 c 3 b 3 c 2 b 5 c 3 d 3 c 3 b 4 e 2
+b 24 c 5 b 1 c 5 b 2 e 5
+b 18 b 6 c 5 b 1 c 5 b 2 e 1 f 3 e 1 f 1
+b 17 b 7 c 5 c 5 e 3 f 5
+b 16 b 8 c 3 b 3 c 3 b 1 e 2 f 7
+b 11 b 17 e 2 f 4 g 1 f 3
+e 1 b 2 e 5 b 14 e 4 f 3 g 3 f 2
+e 6 f 4 b 13 e 4 f 3 g 4 f 2
+e 6 f 6 b 10 e 5 f 4 g 4 f 2
+e 5 f 7 b 7 e 5 f 1 e 1 f 4 g 3 f 3
+e 4 f 3 g 2 f 3 b 5 e 5 f 4 e 1 f 4 g 1 f 4
+e 3 f 3 g 4 f 2 e 1 b 3 e 4 f 6 e 2 f 7
+e 2 f 2 g 5 f 1 e 2 b 2 e 4 f 7 e 3 f 6
+e 1 f 3 g 4 f 2 e 7 f 9 e 1 f 5
+f 4 g 2 f 2 e 8 f 4 g 2 f 3 f 3
+f 7 e 7 f 4 g 3 f 3
+f 5 e 7 f 3 g 5 f 2
+f 3 e 6 f 3 g 6 f 2
+f 2 e 5 f 3 g 6 f 2
+e 5 f 3 g 5 f 2
+e 3 f 5 g 3 f 3
+e 3 f 10
+e 2 f 10
+e 1 f 9
+e 1 f 7
+f 5
+f 3
+
+columns
+b 2
+b 5
+b 7
+b 7
+b 10
+b 11
+b 11 e 4
+b 12 e 7
+b 12 e 7 f 3
+b 13 e 4 f 6
+b 5 b 13 e 3 f 9
+b 9 b 12 e 3 f 3 g 2 f 5
+b 23 e 2 f 3 g 4 f 3
+b 10 c 3 b 3 c 3 b 5 e 1 f 3 g 5 f 2
+b 11 c 4 b 1 c 4 b 5 e 1 f 3 g 4 f 2
+b 11 c 4 b 1 c 4 b 4 e 1 f 4 g 2 f 2
+b 13 c 3 b 1 c 3 b 5 f 7
+b 15 d 2 b 6 f 4
+b 12 c 2 d 2 c 3 b 2 b 3
+b 10 c 4 b 1 c 4 b 7 e 4
+b 8 c 4 b 1 c 4 b 8 e 8
+c 3 b 3 c 2 b 2 c 3 b 3 c 2 b 11 e 11
+c 4 b 1 c 3 b 7 b 15 e 10
+c 3 b 1 c 3 b 7 b 14 e 11
+d 2 c 2 b 7 b 12 e 8 f 4 e 1
+c 2 d 2 b 4 c 3 b 2 c 3 b 7 e 6 f 8
+c 3 b 1 c 3 b 5 c 5 b 1 c 5 b 5 e 5 f 11
+c 3 b 1 c 4 b 4 c 5 b 1 c 5 b 5 e 3 f 14
+c 2 b 3 c 3 b 4 c 5 c 5 b 4 e 3 f 5 g 3 f 7
+b 12 c 3 d 3 c 3 b 5 e 2 f 5 g 5 f 6
+b 13 d 3 b 2 b 4 e 3 f 4 g 6 f 5
+b 13 c 3 d 3 c 3 b 4 e 2 f 4 g 7 f 4
+b 13 c 5 b 1 c 5 b 2 e 3 f 4 g 6 f 4
+b 13 c 5 b 1 c 5 b 1 e 3 f 7 g 3 f 4
+b 14 c 5 b 1 c 5 b 1 e 4 f 11
+b 15 c 3 b 3 c 3 b 1 e 3 f 2 e 3 f 6
+b 14 b 9 e 4 f 4 e 2
+b 13 b 10 e 2 f 7 e 2
+b 11 b 8 e 3 f 10
+b 8 b 7 e 2 f 5 g 3 f 4
+b 2 b 5 e 2 f 4 g 5 f 4
+b 5 e 1 f 3 g 5 f 5
+b 3 e 2 f 3 g 3 f 6
+b 1 f 11
+f 7

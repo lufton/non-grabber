@@ -1,0 +1,103 @@
+by "nakita edwards (candy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by nakita edwards"
+date "Sep 11, 2010"
+description "very cool"
+difficulty 1.25
+height 20
+id 10295
+link "https://webpbn.com/play.cgi?id=10295"
+note "published,definitely non-unique,may require some guessing"
+quality 1.5
+title "think"
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 23 black 4 red 23
+red 1 blue 3 black 4 blue 3 red 1
+red 20 blue 3 black 4 blue 3 red 20
+red 1 blue 3 black 4 blue 3 red 1
+red 23 black 4 red 23
+red 1 black 4 red 1
+red 23 black 4 red 23
+red 1 black 4 red 1
+red 23 black 4 red 23
+red 1 black 4 red 1
+red 23 black 4 red 23
+black 4
+black 4
+black 4
+green 5 black 1 black 1 green 5 black 1 black 1 green 5 black 4 green 5 black 1 black 1 green 5 black 1 black 1 green 5
+green 5 black 1 black 1 green 5 black 1 black 1 green 5 black 4 green 5 black 1 black 1 green 5 black 1 black 1 green 5
+green 5 black 1 green 5 black 1 green 5 black 4 green 5 black 1 green 5 black 1 green 5
+green 5 black 1 black 1 green 5 black 1 black 1 green 5 black 4 green 5 black 1 black 1 green 5 black 1 black 1 green 5
+green 28 black 4 green 28
+
+columns
+green 5
+green 5
+green 5
+green 5
+green 5
+red 11 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 blue 3 red 1 red 1 red 1 red 1 green 1
+red 1 blue 3 red 1 red 1 red 1 red 1 green 1
+red 1 blue 3 red 1 red 1 red 1 red 1 green 1
+black 19
+black 19
+black 19
+black 19
+red 1 blue 3 red 1 red 1 red 1 red 1 green 1
+red 1 blue 3 red 1 red 1 red 1 red 1 green 1
+red 1 blue 3 red 1 red 1 red 1 red 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 green 5
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 green 1
+red 11 black 1 green 1
+green 5
+green 5
+green 5
+green 5
+green 5

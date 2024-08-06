@@ -1,0 +1,53 @@
+by "brett kildahl (bkildahl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by brett kildahl"
+date "Jun  7, 2013"
+description "A cowboy! ...and his tiny, dog-headed horse. I had a little trouble with scale."
+difficulty 1.5
+height 17
+id 22101
+link "https://webpbn.com/play.cgi?id=22101"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "First Puzzle"
+width 19
+
+rows
+7,9
+6,1,6
+7,1,2,4
+8,3,2,1
+7,4,4
+6,1,2,1,1
+6,1,2,4
+6,1,1,4
+3,3,4
+1,4,5,4
+1,4,3,5
+1,5,3,5
+2,5
+3,4,2,5
+3,4,1,5
+3,7,5
+3,8,6
+
+columns
+10,4
+9,7
+9,5
+8,3
+8,3,1
+8,3,4
+1,3,3,4
+1,3,1,4
+1,1,4
+3,1,1,2
+1,4,3,1,2
+5,4,4
+1,1,4
+2,4,2,1
+2,2,7
+3,1,11
+3,1,11
+3,11
+4,12

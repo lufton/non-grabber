@@ -1,0 +1,41 @@
+by "christopher dayton (cdayton)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by christopher dayton"
+date "Nov 18, 2011"
+description ""
+difficulty 1.0
+height 10
+id 16431
+link "https://webpbn.com/play.cgi?id=16431"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "god bless america"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 1 blue 1 black 5
+blue 1 blue 1
+blue 1 blue 1 blue 1 black 5
+blue 1 blue 1
+blue 1 blue 1 blue 1 black 5
+0
+black 10
+0
+black 10
+0
+
+columns
+blue 1 blue 1 blue 1 black 1 black 1
+blue 1 blue 1 black 1 black 1
+blue 1 blue 1 blue 1 black 1 black 1
+blue 1 blue 1 black 1 black 1
+blue 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1

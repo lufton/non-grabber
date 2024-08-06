@@ -1,0 +1,73 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Oct 14, 2013"
+description "Leave it to Igor and Mr. Cat to be clowning around when they are supposed to be working. They're supposed to be unloading the pumpkins and carving them."
+difficulty 2.0
+height 20
+id 22948
+link "https://webpbn.com/play.cgi?id=22948"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "7-13 OK, you two, back to work."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 black 2 black 1
+black 2 black 1 green 1 black 1 black 2
+black 1 black 5
+green 1 green 1 black 3 black 3
+green 1 green 2 black 3 black 2 black 1 black 1
+red 3 red 4 black 8
+blue 1 red 1 black 1 red 1 black 1 red 1 blue 1 red 1 black 1 red 2 black 1 red 1 red 1 black 1 black 1
+blue 2 red 5 blue 2 red 6 black 3
+blue 2 red 1 green 3 red 1 blue 2 red 2 black 2 red 2
+blue 2 red 3 blue 2 black 1 red 4 black 1 green 1 green 1
+blue 9 black 1 black 2 black 1 red 3 red 3
+blue 9 black 6 red 5 red 4
+blue 7 black 6 red 5 red 4
+blue 5 black 4 red 5 red 4
+blue 5 black 4 red 3 red 3
+blue 5 black 4 black 11
+blue 5 black 4 black 2 black 1
+blue 5 black 4 black 4 black 2
+blue 5 black 1 black 1 black 4 black 2
+blue 2 blue 2 black 2 black 2 black 2 black 1
+
+columns
+0
+blue 5
+blue 7 blue 1
+red 3 blue 10
+red 1 black 1 red 1 green 1 red 1 blue 9
+green 1 red 3 green 1 red 1 blue 9
+red 1 black 1 red 1 green 1 red 1 blue 9
+red 3 blue 10
+blue 7 blue 1
+blue 5
+0
+red 3 black 4 black 1
+red 1 black 1 red 3 black 9
+green 2 red 3 black 1 red 1 black 8
+green 1 red 3 black 1 red 1 black 8
+red 1 black 1 red 3 black 9
+green 1 red 3 black 4 black 1
+black 1
+red 1 black 1
+black 1 black 2 black 1
+black 3 red 3 black 1 black 2
+black 2 red 1 red 5 black 5
+black 1 black 2 black 1 green 1 red 5 black 5
+black 1 green 1 black 1 black 1 black 1 red 5 black 1 black 2
+black 4 black 3 red 3 black 1
+black 4 black 1
+black 2 black 1 red 3 black 1
+black 2 black 1 red 5 black 1
+black 2 black 1 green 1 red 5 black 1 black 2
+black 3 red 5 black 5

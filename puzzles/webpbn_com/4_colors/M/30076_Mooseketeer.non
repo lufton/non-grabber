@@ -1,0 +1,57 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Norma Dee"
+date "Aug 14, 2017"
+description "A bugling moose."
+difficulty 1.5
+height 15
+id 30076
+link "https://webpbn.com/play.cgi?id=30076"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Mooseketeer?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 black 1 black 1 black 1
+black 4 black 4
+black 7
+black 4
+green 1 black 2 blue 1 black 3
+green 7 black 7
+green 1 green 1 green 1 black 12
+green 2 black 1 green 1 black 10
+black 15
+black 10
+black 1 black 2
+black 1 black 1
+black 1 black 1
+black 2 black 2
+
+columns
+green 3
+green 1
+green 3
+green 1 green 1
+green 1 black 2
+green 3 black 1
+black 2 green 1 black 1
+black 2 black 2 black 1
+black 3 black 3 black 1 black 1
+black 3 blue 1 black 9
+black 8
+black 9
+black 10
+black 2 black 5
+black 2 black 4
+black 4
+black 4
+black 5 black 1
+black 8
+black 1

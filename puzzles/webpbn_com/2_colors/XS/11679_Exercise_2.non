@@ -1,0 +1,30 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan  5, 2011"
+description "Sit up"
+difficulty 1.25
+height 5
+id 11679
+link "https://webpbn.com/play.cgi?id=11679"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Exercise 2"
+width 8
+
+rows
+2
+2,2
+3,1
+6
+3,2
+
+columns
+2
+4
+3
+4
+1,2
+2
+2
+1

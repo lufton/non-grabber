@@ -1,0 +1,62 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Sep  1, 2016"
+description "This is all that was showing on the little boy's sock."
+difficulty 1.25
+height 20
+id 28680
+link "https://webpbn.com/play.cgi?id=28680"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What's on the rest of the sock?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 18
+blue 18
+blue 18
+blue 18
+black 15
+black 15
+black 15
+black 15
+red 15
+black 3 red 1 black 1 red 1 black 1 red 1 black 3 red 1 black 2 red 1
+red 1 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+red 1 black 1 red 2 black 1 red 1 black 1 red 1 black 2 red 2 black 1 red 1 black 1
+red 1 black 1 red 2 black 3 red 1 black 1 red 1 black 1 red 1 black 2 red 1
+red 15
+black 15
+black 15
+black 14
+black 11
+black 9
+0
+
+columns
+0
+blue 4
+blue 4
+blue 4 black 4 red 1 black 1 red 4 black 3
+blue 4 black 4 red 1 black 4 red 1 black 4
+blue 4 black 4 red 1 black 1 red 4 black 5
+blue 4 black 4 red 6 black 5
+blue 4 black 4 red 1 black 4 red 1 black 5
+blue 4 black 4 red 4 black 1 red 1 black 5
+blue 4 black 4 red 1 black 4 red 1 black 5
+blue 4 black 4 red 6 black 5
+blue 4 black 4 red 1 black 4 red 1 black 5
+blue 4 black 4 red 1 black 1 red 1 black 1 red 2 black 5
+blue 4 black 4 red 1 black 2 red 1 black 1 red 1 black 5
+blue 4 black 4 red 6 black 4
+blue 4 black 4 red 1 black 4 red 1 black 3
+blue 4 black 4 red 1 black 1 red 2 black 1 red 1 black 3
+blue 4 black 4 red 2 black 2 red 2 black 2
+blue 4
+0

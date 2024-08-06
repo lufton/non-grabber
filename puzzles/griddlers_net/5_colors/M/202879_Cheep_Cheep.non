@@ -1,0 +1,54 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/12/19"
+height 16
+id 202879
+link "https://www.griddlers.net/nonogram/-/g/202879"
+medium_time "0:05:23"
+points 1005
+popularity 67.5
+title "Cheep Cheep"
+width 16
+
+color a 6699ff
+color b ffffff
+color d ff0000
+color e ff99cc
+color f ffed33
+
+rows
+f 4
+f 5 b 2
+d 6 b 4
+b 1 d 1 b 2 d 4 b 4
+b 5 d 4 b 4
+b 1 b 1 b 2 d 2 b 5
+b 1 b 1 b 2 d 2 b 4
+b 6 d 2 b 3 d 1
+d 1 b 2 d 7
+e 3 d 10
+d 1 e 2 d 9 f 1
+d 1 e 2 d 8 f 3
+d 1 e 2 b 2 d 6 f 3
+e 4 b 3 d 4 f 3
+b 8 d 1 f 3
+b 5 f 2
+
+columns
+b 4 e 1
+b 2 b 1 e 1 d 1 e 1
+d 1 b 4 d 1 e 2 d 2 e 1 b 1
+f 1 d 1 b 2 b 2 d 1 e 4 b 1
+f 2 d 1 b 6 d 2 e 3 b 2
+f 2 d 3 b 3 d 4 b 4
+f 2 d 10 b 4
+f 1 d 11 b 3
+f 1 d 3 b 3 d 6 b 2
+b 6 d 6 b 1
+b 7 d 7
+b 6 d 7
+b 4 d 4 f 3
+f 5
+f 4
+f 3

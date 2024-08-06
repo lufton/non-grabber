@@ -1,0 +1,43 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 29, 2010"
+description ""
+difficulty 1.25
+height 8
+id 9805
+link "https://webpbn.com/play.cgi?id=9805"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Can a cloud walk on grass?"
+width 14
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 14
+blue 5 blue 5
+blue 4 blue 1 blue 1
+blue 3 blue 2
+blue 1 blue 3
+blue 4 blue 2 blue 4
+black 4 black 3 black 5
+black 14
+
+columns
+blue 6 black 2
+blue 4 blue 1 black 2
+blue 4 blue 1 black 2
+blue 3 blue 1 black 2
+blue 2 black 1
+blue 1 black 2
+blue 1 blue 1 black 2
+blue 1 blue 1 black 2
+blue 1 black 1
+blue 2 black 2
+blue 3 blue 1 black 2
+blue 2 blue 2 black 2
+blue 2 blue 3 black 2
+blue 6 black 2

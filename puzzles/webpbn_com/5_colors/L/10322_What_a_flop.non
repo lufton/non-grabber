@@ -1,0 +1,78 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Sep 13, 2010"
+description "In Texas Hold 'Em, the flop is the first three cards that are turned over."
+difficulty 1.75
+height 25
+id 10322
+link "https://webpbn.com/play.cgi?id=10322"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What a flop"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 30
+green 1 black 25 green 4
+green 1 black 1 red 5 black 1 red 2 red 2 black 1 red 2 black 1 green 4
+green 1 black 1 red 2 red 2 black 1 red 4 black 1 red 1 red 1 black 1 green 2 red 2
+green 1 black 1 red 5 black 1 red 2 red 2 black 1 red 1 red 1 black 1 green 1 red 3
+green 1 black 1 red 1 red 1 black 1 red 2 red 2 black 1 red 4 black 1 green 1 blue 3
+green 1 black 1 black 1 black 1 red 2 black 1 green 1
+green 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 green 1 blue 3
+green 1 black 1 red 3 black 1 red 3 black 1 red 3 black 1 green 1
+green 1 black 1 red 5 black 1 red 5 black 1 red 5 black 1 green 1 blue 3
+green 1 black 25 red 3 blue 1
+green 25 red 1
+green 24 red 5 green 1
+green 30
+green 30
+green 30
+green 5 black 19 green 6
+green 5 black 1 red 1 black 1 red 1 red 4 black 1 green 6
+green 5 black 1 red 1 black 1 red 1 red 1 red 1 black 1 green 6
+green 5 black 1 red 1 red 1 black 1 red 1 red 1 red 1 black 1 green 6
+green 5 black 1 red 2 black 1 red 1 red 4 black 1 green 6
+green 5 black 1 black 1 black 1 green 6
+green 5 black 1 red 1 black 1 red 1 black 1 green 6
+green 5 black 1 red 3 black 1 red 3 black 1 green 6
+green 5 black 1 red 5 black 1 red 5 black 1 green 6
+
+columns
+green 25
+green 1 black 10 green 14
+green 1 black 1 black 1 green 14
+green 1 black 1 red 4 red 1 black 1 green 14
+green 1 black 1 red 3 red 2 black 1 green 14
+green 1 black 1 red 1 red 1 red 3 black 1 green 5 black 9
+green 1 black 1 red 3 red 2 black 1 green 5 black 1
+green 1 black 1 red 4 red 1 black 1 green 5 black 1 red 1
+green 1 black 1 black 1 green 5 black 1 red 2 red 2
+green 1 black 10 green 5 black 1 red 1 red 3
+green 1 black 1 black 1 green 5 black 1 red 3 red 2
+green 1 black 1 red 4 red 1 black 1 green 5 black 1 red 1
+green 1 black 1 red 4 red 2 black 1 green 5 black 1
+green 1 black 1 red 1 red 3 black 1 green 5 black 9
+green 1 black 1 red 4 red 2 black 1 green 5 black 1
+green 1 black 1 red 1 red 2 red 1 black 1 green 5 black 1
+green 1 black 1 black 1 green 5 black 1 red 4 red 1
+green 1 black 10 green 5 black 1 red 2
+green 1 black 1 black 1 green 5 black 1 red 4 red 3
+green 1 black 1 red 2 red 1 black 1 green 5 black 1 red 1 red 1 red 2
+green 1 black 1 red 1 red 1 red 2 black 1 green 5 black 1 red 1 red 1 red 1
+green 1 black 1 red 1 red 1 red 3 black 1 green 5 black 1 red 4
+green 1 black 1 red 4 red 2 black 1 green 5 black 1
+green 1 black 1 red 2 red 1 black 1 green 5 black 9
+green 1 black 1 black 1 green 1 red 1 green 12
+green 1 black 10 red 1 green 12
+green 10 red 1 red 1 green 12
+green 4 red 1 blue 1 blue 1 blue 1 red 1 red 1 green 12
+green 3 red 2 blue 1 blue 1 blue 1 red 1 red 1 green 12
+green 3 red 2 blue 1 blue 1 blue 2 red 1 green 13

@@ -1,0 +1,52 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by sanane samanye"
+date "Dec 30, 2019"
+description "Globophobia : fear of balloons"
+difficulty 1.5
+height 15
+id 33383
+link "https://webpbn.com/play.cgi?id=33383"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Globophobia"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+black 5
+black 2 black 4 green 1
+black 7 green 2
+blue 2 black 7 green 3
+blue 3 black 7 green 1 green 1
+blue 2 blue 2 black 5 green 4
+blue 5 black 5 green 4
+blue 6 black 3 green 4
+blue 7 black 1 green 5
+blue 5 green 3
+blue 5 black 1 green 1
+blue 3
+blue 1 green 1
+0
+
+columns
+0
+blue 4
+blue 7
+blue 2 blue 6
+blue 10
+black 4 blue 7
+black 7 blue 4
+black 2 black 6 blue 1
+black 10 black 1
+black 9 green 1
+black 7 green 3
+black 4 green 6 green 1
+green 9
+green 2 green 4
+green 4

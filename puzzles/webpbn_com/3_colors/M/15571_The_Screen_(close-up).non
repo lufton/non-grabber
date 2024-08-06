@@ -1,0 +1,61 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Aug 17, 2011"
+description "The red is actually pink. Yes, it is a flower, not a deranged pepper. :)"
+difficulty 1.5
+height 20
+id 15571
+link "https://webpbn.com/play.cgi?id=15571"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "The Screen (close-up)"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1
+green 2
+green 1
+green 3
+green 2 black 1 green 2
+black 7
+black 3 black 2 black 4
+black 3 black 3 black 4
+black 2 black 1 black 2 black 4
+black 2 black 1 black 1 black 1 black 1
+black 2 black 3 black 1 black 1 black 2
+black 2 black 2 black 2 black 1 black 2
+black 2 black 1 black 1 black 2 black 2 black 1
+black 2 black 7 black 1 black 1
+black 1 black 2 black 2 black 1 black 1 black 1
+black 2 black 2 black 4 black 1 black 1
+black 5 black 7 black 1
+black 2 black 4 black 1 black 4
+black 1 black 5 black 3
+black 3
+
+columns
+0
+black 9
+black 7 black 3
+black 4 black 1
+black 2 black 4
+black 2 black 8
+green 1 black 1 black 5 black 1 black 2
+green 2 black 3 black 1 black 8
+green 3 black 5 black 1 black 7
+green 2 green 2 black 1 black 6 black 2 black 2
+green 1 black 2 black 7
+black 4 black 1
+black 7 black 2
+black 3 black 6
+black 5 black 2
+black 9
+black 1
+0
+0
+0

@@ -1,0 +1,89 @@
+by "darren jackson (hi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by darren jackson"
+date "Jan  6, 2021"
+description "... Whatever the base four system is called! this will be a much shorter description so Ã¢â¬Â¦ only three rows!"
+difficulty 1.25
+height 3
+id 34786
+link "https://webpbn.com/play.cgi?id=34786"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "random stuff 3"
+width 64
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 16 red 16 green 16
+black 4 red 4 green 4 black 4 red 4 green 4 black 4 red 4 green 4 black 4 red 4 green 4
+black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1 black 1 red 1 green 1
+
+columns
+0
+black 1
+red 1
+green 1
+black 1
+black 2
+black 1 red 1
+black 1 green 1
+red 1
+red 1 black 1
+red 2
+red 1 green 1
+green 1
+green 1 black 1
+green 1 red 1
+green 2
+black 1
+black 1 black 1
+black 1 red 1
+black 1 green 1
+black 2
+black 3
+black 2 red 1
+black 2 green 1
+black 1 red 1
+black 1 red 1 black 1
+black 1 red 2
+black 1 red 1 green 1
+black 1 green 1
+black 1 green 1 black 1
+black 1 green 1 red 1
+black 1 green 2
+red 1
+red 1 black 1
+red 1 red 1
+red 1 green 1
+red 1 black 1
+red 1 black 2
+red 1 black 1 red 1
+red 1 black 1 green 1
+red 2
+red 2 black 1
+red 3
+red 2 green 1
+red 1 green 1
+red 1 green 1 black 1
+red 1 green 1 red 1
+red 1 green 2
+green 1
+green 1 black 1
+green 1 red 1
+green 1 green 1
+green 1 black 1
+green 1 black 2
+green 1 black 1 red 1
+green 1 black 1 green 1
+green 1 red 1
+green 1 red 1 black 1
+green 1 red 2
+green 1 red 1 green 1
+green 2
+green 2 black 1
+green 2 red 1
+green 3

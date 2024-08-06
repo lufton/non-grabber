@@ -1,0 +1,61 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jota"
+date "Sep 28, 2012"
+description "A hole in your heart! And it never fills ..."
+difficulty 2.5
+height 20
+id 19915
+link "https://webpbn.com/play.cgi?id=19915"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.0
+title "This is what you feel after you loose a child!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2 red 4
+red 5 red 2 red 2
+red 2 red 2 red 2 red 3
+red 1 red 2 red 2 red 1
+red 2 red 4 red 1
+red 1 red 2 red 1
+red 2 red 1
+red 2 black 4 red 1
+red 2 black 6 red 1
+red 2 black 3 black 3 red 1
+red 2 black 2 black 2 red 1
+red 2 black 2 black 2 red 2
+red 3 black 4 black 2 red 2
+red 2 black 6 red 1
+red 2 black 3 red 2
+red 2 red 2
+red 2 red 3
+red 3 red 2
+red 5
+red 3
+
+columns
+red 7
+red 3 red 7
+red 2 red 3
+red 1 red 3
+red 2 red 2
+red 2 red 2
+red 2 red 2
+red 2 black 4 red 1
+red 2 black 6 red 2
+red 2 black 3 black 2 red 2
+red 3 black 2 black 3 red 2
+red 3 black 2 black 2 red 2
+red 2 black 3 black 3 red 2
+red 2 black 6 red 2
+red 1 black 3 red 1
+red 1 red 2
+red 2 red 2
+red 2 red 3
+red 1 red 2
+red 10

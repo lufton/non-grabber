@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Jul  4, 2021"
+description "Can you name that board game?"
+difficulty 1.0
+height 20
+id 35200
+link "https://webpbn.com/play.cgi?id=35200"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Board game font 8"
+width 15
+
+rows
+9
+10
+11
+6,5
+6,5
+6,5
+6,5
+11
+10
+9
+10
+11
+6,5
+6,5
+6,5
+6,5
+12
+11
+10
+9
+
+columns
+0
+0
+20
+20
+20
+20
+20
+20
+3,5,4
+20
+20
+8,9
+6,7
+4,5
+0

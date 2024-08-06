@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 27743
+link "https://webpbn.com/play.cgi?id=27743"
+note "published,may be unique,may be line/color solvable"
+quality 2.75
+title "Legal term 10"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 5
+blue 5
+black 3 blue 5
+black 1 blue 5
+black 1 blue 5
+black 1 black 3 black 1 blue 4
+black 1 black 1 black 2 black 2 blue 1
+black 1 black 3 black 1 black 1 blue 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 blue 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 blue 1 black 1 blue 1
+black 3 black 3 black 1 black 1 blue 1 black 1 blue 1 black 1
+blue 4
+blue 5
+blue 3 blue 2
+blue 3 blue 2
+black 2 blue 2 blue 2
+black 3 blue 1 blue 2
+black 4 black 3
+black 4 black 5
+black 3 black 5
+
+columns
+0
+black 1 black 1
+black 9
+black 1 black 1
+0
+0
+black 2
+black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 6 black 4
+blue 1 black 5
+black 6 blue 4 black 3
+blue 5 black 1 blue 4 black 2
+blue 6 black 4 blue 3
+blue 6 black 1 blue 6
+blue 6 black 5 blue 6 black 3
+blue 17 black 3
+black 1 black 3
+black 2
+black 2

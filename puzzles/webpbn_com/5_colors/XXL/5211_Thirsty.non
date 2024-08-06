@@ -1,0 +1,123 @@
+by "Francie (eicnarf)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Francie"
+date "Apr 18, 2010"
+description "My bird bath."
+difficulty 2.0
+height 50
+id 5211
+link "https://webpbn.com/play.cgi?id=5211"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Thirsty"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 7
+black 7
+black 7
+black 7
+black 50
+black 50
+black 50
+black 50
+black 50
+black 1 black 7 black 1 black 1 black 1 black 1
+black 1 black 3 black 7 black 3 black 3 black 3 black 3
+black 1 black 3 black 7 black 3 black 3 black 3 black 3
+black 1 black 3 black 7 black 3 black 3 black 3 black 3
+black 1 black 3 black 7 black 3 black 2 black 3 black 3
+black 1 black 3 black 7 black 3 red 1 black 1 black 3 black 3
+black 1 black 3 black 7 black 3 red 2 black 3 black 3
+black 1 black 3 black 7 black 3 red 1 black 1 red 2 black 3 black 3
+black 1 black 3 black 7 black 3 black 1 red 4 black 3 black 3
+black 1 black 3 black 7 black 3 red 4 black 3 black 3
+black 1 black 3 black 7 black 3 red 4 black 3 black 3
+black 1 black 3 black 7 black 3 red 5 black 3 black 3
+black 1 black 3 black 7 black 3 red 6 black 2 black 3
+black 1 black 3 black 7 black 3 red 6 black 1 black 3
+black 1 black 3 black 4 green 15 black 1 red 7 black 3
+black 1 black 3 green 5 green 3 green 1 green 3 green 5 black 1 red 3 black 3
+black 1 black 3 green 3 blue 3 blue 1 blue 5 blue 3 green 2 red 2 black 3
+black 1 black 3 green 1 blue 24 green 2 black 2 red 2 black 3
+black 1 black 3 green 1 blue 25 green 2 black 2 red 1 black 3
+black 1 black 3 green 2 blue 25 green 1 black 2 black 3
+black 1 black 3 green 2 blue 26 green 2 black 1 black 3
+black 1 black 3 green 2 blue 27 green 2 black 1 black 3
+black 1 black 3 green 2 blue 25 green 2 black 2 black 3
+black 1 black 3 green 4 blue 20 green 3 black 2 black 3
+black 1 black 3 green 6 blue 5 blue 3 blue 1 green 5 black 2 black 3
+black 1 black 3 green 27 black 3 black 3
+black 1 black 3 green 24 black 3 black 3
+black 1 black 3 black 1 green 21 black 3 black 3
+black 1 black 3 black 2 green 17 black 2 black 3 black 3
+black 1 black 3 black 5 green 12 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+black 1 black 3 black 7 green 3 black 1 black 3 black 3 black 3
+
+columns
+black 5 black 39
+black 5
+black 5
+black 5
+black 5
+black 5 black 39
+black 45
+black 5 black 39
+black 5 green 3
+black 5 green 7
+black 5 green 2 blue 1 blue 1 green 4
+black 5 green 1 blue 6 green 4
+black 24 green 2 blue 6 green 4 black 13
+black 24 green 1 blue 6 green 4 black 12
+black 24 green 1 blue 7 green 5 black 11
+black 24 green 1 blue 7 green 4 black 11
+black 23 green 2 blue 8 green 4 black 11
+black 23 green 1 blue 8 green 5 black 10
+black 23 green 2 blue 9 green 5 black 10
+black 5 green 2 blue 8 green 5
+black 5 green 2 blue 8 green 5
+black 5 green 1 blue 9 green 5
+black 5 green 2 blue 8 green 15
+black 5 black 13 green 1 blue 8 green 15
+black 19 green 2 blue 8 green 15
+black 5 black 13 green 2 blue 8 green 5 black 10
+black 5 green 2 blue 8 green 5
+black 5 green 1 blue 9 green 5
+black 5 black 1 green 2 blue 8 green 5
+black 5 red 2 green 2 blue 8 green 4
+black 5 black 3 red 2 black 1 red 2 green 2 blue 7 green 4 black 11
+black 10 red 7 black 1 green 1 blue 8 green 3 black 12
+black 5 black 5 red 8 green 1 blue 9 green 3 black 12
+black 5 red 6 black 1 blue 8 green 4
+black 5 red 5 green 1 blue 6 green 3
+black 5 red 4 green 2 blue 4 green 3
+black 5 red 3 green 2 blue 2 green 4
+black 5 black 11 red 3 black 1 green 7 black 15
+black 18 red 2 black 3 green 2 black 18
+black 5 black 13 red 2 black 22
+black 5 red 2
+black 5 red 1
+black 5 red 1
+black 5
+black 5 black 39
+black 45
+black 5 black 39
+black 5
+black 5
+black 5

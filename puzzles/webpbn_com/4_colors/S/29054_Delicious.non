@@ -1,0 +1,46 @@
+by "Jeanette K (cuddlebearjay)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jeanette K"
+date "Nov 10, 2016"
+description ""
+difficulty 1.25
+height 15
+id 29054
+link "https://webpbn.com/play.cgi?id=29054"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Delicious!"
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2 red 3
+blue 4 red 3
+blue 5 red 4
+blue 1 red 3 blue 1 red 3 blue 1
+red 4 blue 5
+red 3 blue 1 red 1 blue 4
+red 1 blue 3 red 2 blue 2 red 1
+blue 3 red 4
+blue 3 red 2
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+
+columns
+blue 2 red 3
+blue 2 red 3 blue 2
+blue 3 red 3 blue 3
+blue 3 red 2 blue 4
+red 1 blue 4 red 3 blue 1 black 6
+red 4 blue 2 red 3
+red 4 blue 3 red 2
+red 3 blue 3 red 1
+red 1 blue 3 red 1

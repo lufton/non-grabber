@@ -1,0 +1,47 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jun 25, 2011"
+description "for the word, see spoilers"
+difficulty 1.25
+height 6
+id 14927
+link "https://webpbn.com/play.cgi?id=14927"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "may I have a word?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 11 red 4
+black 11 red 1 red 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1 red 3
+black 1 black 1 black 1 black 1 black 1 black 1 red 4 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+
+columns
+black 6
+black 2
+black 6
+black 2
+black 6
+black 2
+black 6
+black 2
+black 6
+black 2
+black 6
+0
+red 6
+red 1 red 1
+red 1 red 1
+red 6
+0
+red 1
+red 3
+red 1

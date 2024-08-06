@@ -1,0 +1,31 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by sanane samanye"
+date "Dec 17, 2010"
+description "uk flag"
+difficulty 1.5
+height 5
+id 11472
+link "https://webpbn.com/play.cgi?id=11472"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.5
+title "quilty thingy 2"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 2 blue 2
+black 1 black 1 blue 1
+black 1 blue 1 black 1
+black 1 blue 2 black 1
+
+columns
+black 5
+black 2 blue 2
+black 1 black 1 blue 1
+black 1 blue 1 black 1
+black 1 blue 2 black 1

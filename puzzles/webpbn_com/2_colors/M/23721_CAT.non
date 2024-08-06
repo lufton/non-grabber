@@ -1,0 +1,57 @@
+by "Shelley Hayes (ahayesyworld)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Shelley Hayes"
+date "Feb  3, 2014"
+description "tic tac toe"
+difficulty 1.75
+height 20
+id 23721
+link "https://webpbn.com/play.cgi?id=23721"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "CAT"
+width 20
+
+rows
+2,4,2
+2,3,2,3,4
+3,1,3,1,1,1
+3,1,3,1,1,1
+2,2,3,2,1,4
+1,4,3
+20
+1,3,1
+4,1,4,1,2,2
+1,1,1,1,1,1,3
+1,1,1,1,1,1,3
+4,1,4,3,2
+1,2,2
+20
+2,2,3,1
+2,3,4,1,2,2
+3,1,1,1,1,3
+3,1,1,1,1,3
+2,2,1,4,3,2
+1,3,2,2
+
+columns
+1,3,2,2
+2,2,1,4,3,2
+3,1,1,1,1,3
+3,1,1,1,1,3
+2,3,4,1,2,2
+2,2,3,1
+20
+1,3,1
+2,2,1,4,1,4
+3,1,1,1,1,1,1
+3,1,1,1,1,1,1
+2,3,4,1,4
+2,2,1
+20
+2,4,2
+4,3,2,3,2
+1,1,1,3,1,3
+1,1,1,3,1,3
+4,1,2,3,2,2
+3,4,1

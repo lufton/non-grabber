@@ -1,0 +1,73 @@
+by "Mak ÄuraÅ¡ek (Maki)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Mak ÃÂuraÃÂ¡ek"
+date "Aug 31, 2019"
+description ""
+difficulty 1.5
+height 25
+id 32800
+link "https://webpbn.com/play.cgi?id=32800"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "love"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 13 blue 12
+black 1 black 1 blue 12
+black 1 black 3 black 3 black 1 blue 12
+black 1 black 1 black 1 black 1 black 1 black 1 blue 12
+black 1 black 3 black 3 black 1 blue 12
+black 1 black 1 black 1 blue 12
+black 1 black 1 black 1 blue 12
+black 1 black 1 black 3 black 1 black 1 blue 12
+black 1 black 1 black 1 black 1 blue 12
+black 1 black 2 black 2 black 1 blue 12
+black 1 black 3 black 1 blue 12
+black 1 black 1 blue 12
+black 25
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+red 12 black 1 green 12
+
+columns
+black 13 red 12
+black 1 black 1 red 12
+black 1 black 3 black 2 black 1 red 12
+black 1 black 1 black 1 black 1 black 1 red 12
+black 1 black 3 black 1 black 1 red 12
+black 1 black 1 black 1 black 1 red 12
+black 1 black 3 black 1 black 1 red 12
+black 1 black 1 black 1 black 1 red 12
+black 1 black 3 black 1 black 1 red 12
+black 1 black 1 black 1 black 1 black 1 red 12
+black 1 black 3 black 2 black 1 red 12
+black 1 black 1 red 12
+black 25
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12
+blue 12 black 1 green 12

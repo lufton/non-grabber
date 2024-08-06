@@ -1,0 +1,84 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/23/11"
+height 32
+id 105979
+link "https://www.griddlers.net/nonogram/-/g/105979"
+medium_time "0:11:51"
+points 23497
+popularity 76.47
+title "Simpsons: Radioactive Man"
+width 29
+
+color a ffe7c8
+color b 000000
+color c ffcc33
+color d ff0000
+color e ffffff
+color f ff6600
+
+rows
+b 5
+b 1 c 2 b 1
+b 6
+b 2 d 6 b 2
+b 2 d 10 b 1
+b 1 d 13 b 1
+b 1 d 12 b 4
+b 1 d 11 b 2 d 2 b 1
+b 1 d 11 b 1 d 2 b 1 d 1 b 2
+b 1 d 12 b 2 d 1 b 1 d 2 b 1
+b 1 d 13 b 2 d 1 b 3
+b 1 d 19 b 1
+b 1 d 20 b 1
+b 1 d 18 b 3
+b 1 d 8 b 6 d 1 b 3 e 3 b 1
+b 1 d 8 b 1 e 5 b 1 d 1 b 1 e 3 b 2
+b 1 d 7 b 1 e 3 b 1 e 1 b 1 d 1 b 1 e 4 b 1
+b 1 d 8 b 1 e 4 b 1 d 1 b 5
+b 1 d 9 b 4 d 1 b 1 c 4 b 1
+b 1 d 12 b 1 c 5 b 1
+b 1 d 10 b 1 c 5 b 1
+b 1 d 8 b 2 c 3 b 3 c 1 b 1
+b 1 d 7 b 1 c 10 b 2
+b 1 d 6 b 1 c 13 b 1
+b 1 d 6 b 1 c 15 b 1
+b 3 b 1 d 6 b 1 c 16 b 1
+b 1 f 2 b 2 d 6 b 1 c 3 b 13
+b 1 f 3 b 1 d 5 b 1 c 9 b 1
+b 2 f 2 b 1 d 5 b 1 c 7 b 2
+b 1 f 1 b 1 f 2 b 1 d 5 b 1 c 6 b 1 b 6
+b 1 f 2 b 1 f 2 b 1 d 5 b 6 e 1 b 2 f 3 b 1 f 2 b 1
+b 29
+
+columns
+b 7
+b 1 f 2 b 1 f 2 b 1
+b 1 f 3 b 1 f 1 b 1
+b 8 b 1 f 3 b 2
+b 2 d 8 b 3 b 4 f 2 b 1
+b 1 d 13 b 1 b 1 d 4 b 1 f 1 b 1
+b 1 d 15 b 4 d 6 b 2
+b 1 d 26 b 1
+b 1 b 1 d 27 b 1
+b 2 b 1 d 27 b 1
+b 1 c 1 b 1 d 24 b 2 d 2 b 1
+b 1 c 1 b 1 d 22 b 2 c 2 b 1 d 1 b 1
+b 3 d 11 b 3 d 7 b 1 c 5 b 2
+b 1 d 11 b 1 e 2 b 1 d 5 b 1 c 6 b 2
+b 1 d 11 b 1 e 3 b 1 d 3 b 1 c 7 b 2
+b 1 d 5 b 1 d 5 b 1 e 3 b 1 d 2 b 1 c 4 b 1 c 3 b 2
+b 1 d 3 b 1 d 1 b 1 d 4 b 1 e 1 b 1 e 1 b 1 d 2 b 1 c 4 b 1 c 3 b 2
+b 1 d 2 b 2 d 1 b 2 d 3 b 1 e 3 b 1 d 1 b 1 c 5 b 1 c 3 b 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 4 b 3 d 1 b 1 c 6 b 1 c 1 b 2 e 1 b 1
+b 2 d 2 b 1 d 4 b 1 d 3 b 1 c 7 b 1 c 1 b 1 b 2
+b 3 d 1 b 1 d 3 b 4 c 3 b 1 c 4 b 2 b 2
+b 1 d 1 b 1 d 3 b 1 e 2 b 1 c 3 b 1 c 4 b 1 b 1 f 1 b 1
+b 2 d 2 b 1 e 3 b 1 c 3 b 1 c 4 b 1 b 1 f 1 b 1
+b 1 d 1 b 1 e 3 b 1 c 2 b 1 c 5 b 1 b 1 f 1 b 1
+b 2 e 1 b 1 e 1 b 3 b 1 c 4 b 1 b 3
+b 3 b 1 c 3 b 1 b 1 f 1 b 1
+b 1 c 3 b 1 b 1 f 1 b 1
+b 1 c 2 b 1 b 2
+b 2 b 1

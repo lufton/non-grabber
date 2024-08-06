@@ -1,0 +1,84 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/31/07"
+height 30
+id 42151
+link "https://www.griddlers.net/nonogram/-/g/42151"
+medium_time "0:38:53"
+points 36170
+popularity 74.14
+title "Clover"
+width 30
+
+color a ffffff
+color b 000000
+color c 969696
+color d 990000
+color e 00ff99
+color g ccccff
+color h ff00ff
+
+rows
+c 5 d 3
+c 7 c 1 e 3 c 1 d 3
+c 2 c 1 c 1 e 4 c 1 d 2
+c 2 g 5 c 2 e 5 c 1 d 2
+c 1 g 7 c 1 e 5 c 1 d 3
+c 1 g 9 c 1 e 4 c 5
+c 1 g 4 b 1 g 4 c 1 e 3 c 1 c 1
+c 1 g 5 b 1 g 3 c 1 e 2 c 1 g 5 c 1
+c 1 g 5 b 1 g 3 c 1 e 1 c 1 g 7 c 2
+c 2 g 4 b 1 g 3 c 2 g 8 c 1
+c 1 g 5 b 1 g 2 b 2 g 4 b 2 g 3 c 1
+c 1 g 5 b 1 g 2 b 1 g 1 g 3 b 1 g 5 c 1
+c 5 g 4 b 1 g 1 b 1 g 1 b 1 g 2 b 2 g 5 c 1
+c 1 g 2 b 2 g 2 b 1 g 1 b 1 g 1 b 1 g 1 b 2 g 5 c 2
+c 2 g 7 b 3 h 2 b 1 g 2 b 1 g 3 g 1 c 1 e 2 c 1
+c 1 g 1 b 6 g 1 b 1 h 1 h 1 b 3 g 3 c 3 e 4 c 1
+c 1 g 6 b 2 h 1 h 1 g 2 b 3 c 1 e 7 c 1
+c 2 g 1 b 1 g 1 b 1 h 2 b 1 g 1 b 1 g 2 c 2 e 6 c 1
+c 3 g 4 b 2 g 1 b 3 g 1 b 2 g 3 c 1 e 5 c 1
+d 1 c 2 b 2 g 2 b 1 g 1 b 1 g 1 b 1 g 1 b 2 g 3 c 1 e 1 c 3
+d 5 b 3 g 2 b 1 g 1 c 1 b 1 g 1 g 2 b 1 g 4 c 1
+c 2 g 3 c 1 g 1 c 1 b 1 g 1 g 3 b 1 g 3 c 1
+c 1 g 3 c 2 c 1 b 2 g 6 c 1
+c 1 g 4 c 1 g 1 c 1 e 2 c 1 g 4 c 1
+c 1 g 3 c 1 g 2 c 1 e 3 c 2 c 1
+c 1 g 1 c 1 g 2 g 1 c 1 e 5 c 6
+c 2 g 3 c 1 e 7 c 1 d 1
+d 1 c 1 c 2 e 7 c 1 d 2
+d 3 c 5 c 1 e 5 c 1 d 3
+d 3 c 5 d 1
+
+columns
+d 2 d 1
+c 4 d 1 d 1
+c 2 c 2 d 1 d 2
+c 1 g 2 c 1 d 1 d 1
+c 7 c 1 g 1 b 1 g 1 c 1 d 1 c 4 d 2
+c 2 c 2 c 1 g 1 b 1 g 1 g 1 c 1 b 1 c 1 c 1
+c 1 g 4 c 2 g 2 b 1 g 1 g 1 c 1 b 1 c 1 g 2 c 2
+c 1 g 8 c 1 g 2 b 1 g 1 g 1 b 2 c 1 g 5 c 1
+c 1 g 10 b 1 g 1 b 1 g 1 g 1 b 1 g 4 c 1 g 1 c 1
+c 1 g 10 b 1 g 1 b 1 g 2 b 1 g 5 c 1 g 2 c 1
+c 1 g 3 b 1 g 7 b 1 g 1 b 3 g 3 c 2 g 2 c 1
+c 1 g 4 b 3 g 4 b 3 g 2 b 2 c 2 g 2 c 1
+c 1 g 7 b 5 h 2 b 2 g 3 g 1 c 2
+c 1 g 10 h 1 h 1 b 2 c 6 e 2 c 1
+c 1 g 7 b 2 h 1 h 1 b 1 g 1 b 3 e 6 c 1
+c 1 b 2 g 2 b 1 h 2 b 1 g 1 b 1 g 2 b 1 e 6 c 1
+c 7 b 1 g 1 b 2 g 1 b 1 g 2 b 1 g 1 c 1 e 5 c 1
+c 1 e 6 c 1 g 3 b 1 g 1 b 3 g 2 c 1 e 4 c 1
+c 1 e 6 c 1 g 3 b 4 g 2 b 1 g 3 c 1 e 4 c 1
+c 1 e 6 c 1 g 3 b 2 g 2 b 1 g 3 b 1 g 2 c 1 e 2 c 1
+c 1 e 5 c 1 g 4 b 1 g 3 b 1 g 3 b 1 g 2 c 3
+c 1 e 4 c 1 g 4 b 1 g 4 c 2 g 5 c 1
+c 6 g 3 b 1 g 3 c 1 e 1 c 1 g 4 c 1
+c 1 c 1 g 3 b 1 g 3 c 1 e 2 c 1 g 4 c 1
+d 1 c 1 g 8 c 1 e 3 c 1 c 2
+d 2 c 1 g 6 c 1 e 5 c 4 d 2
+d 4 c 1 g 4 c 1 e 5 c 1 d 2
+d 3 c 2 c 2 e 5 c 1 d 1
+d 2 c 4 c 1 e 4 c 1 d 2
+d 1 c 4

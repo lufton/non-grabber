@@ -1,0 +1,92 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Jul 25, 2016"
+description "Eeyore is a little gloomier today, because someone had to change some of his colors."
+difficulty 2.25
+height 29
+id 28472
+link "https://webpbn.com/play.cgi?id=28472"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "One of my favorite Disney characters"
+width 41
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 7
+black 10
+black 10
+black 2 blue 2 black 5
+black 2 blue 4 black 4 blue 5
+black 1 blue 6 black 1 blue 10
+blue 20
+blue 23
+blue 12 black 2 blue 2 red 3 blue 6
+blue 6 black 2 blue 9 red 5 blue 5
+blue 6 black 1 blue 8 black 1 blue 3 red 5 blue 4
+blue 16 black 1 blue 5 red 3 blue 5
+blue 10 black 2 blue 4 blue 3 blue 2 red 4 blue 4
+blue 5 red 1 blue 5 black 2 blue 9 blue 1 red 4 blue 3
+blue 6 red 1 blue 5 blue 2 black 7 blue 1 red 4 blue 3
+blue 6 red 2 blue 9 black 9 blue 1 red 4 blue 2
+blue 5 red 3 blue 7 black 3 black 8 blue 1 red 4 blue 2
+blue 6 red 2 blue 6 black 6 black 8 blue 1 red 4 blue 1
+blue 5 red 2 blue 1 blue 5 black 7 black 8 blue 2 red 2 blue 1
+blue 5 red 2 blue 2 blue 4 black 9 black 1 black 5 blue 3
+blue 5 red 2 blue 1 blue 2 black 7 black 2 black 7
+blue 4 red 2 blue 1 blue 1 black 11 black 6
+blue 5 red 1 blue 2 black 11 black 6
+blue 7 black 11 black 5
+blue 6 black 11 black 5
+blue 6 black 11 black 4
+blue 4 black 11 black 3
+blue 3 black 9 black 2
+blue 3 black 8
+
+columns
+blue 7
+blue 10
+blue 12
+blue 12
+blue 12
+blue 8 red 2 blue 3
+blue 7 red 3 blue 2
+blue 7 red 3 blue 2
+blue 6 red 3 blue 2
+blue 6 red 3 blue 2
+blue 5 red 4 blue 1
+blue 13
+black 2 blue 15
+black 3 blue 17
+black 3 blue 6 black 1 blue 9 black 7
+black 3 blue 6 black 1 blue 9 black 8
+black 3 blue 6 black 1 blue 2 blue 2 black 11
+black 4 blue 8 black 2 blue 2 black 11
+black 5 blue 7 black 2 blue 1 black 13
+black 6 blue 10 black 13
+black 5 blue 10 black 14
+black 5 blue 9 black 2 black 3 black 8
+black 2 blue 4 black 1 blue 5 black 3 black 11
+black 1 blue 4 black 1 blue 1 blue 1 black 4 black 10
+blue 6 black 2 blue 1 black 5 black 8
+blue 10 black 7 black 1
+blue 4 red 2 blue 4 black 5 black 8
+blue 3 red 2 blue 4 black 14
+blue 3 red 3 blue 1 black 12
+blue 4 red 2 blue 2 black 10
+blue 3 red 3 blue 1 black 8
+blue 4 red 3 blue 1 black 5
+blue 3 red 4 blue 1
+blue 5 red 3 blue 1
+blue 4 red 4 blue 1
+blue 4 red 4 blue 1
+blue 4 red 4 blue 1
+blue 4 red 3 blue 1
+blue 4 red 3 blue 1
+blue 3 red 2 blue 1
+blue 4

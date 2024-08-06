@@ -1,0 +1,35 @@
+by "Andrew Mairose (ajmair01)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Andrew Mairose"
+date "Mar 17, 2014"
+description ""
+difficulty 1.25
+height 7
+id 24035
+link "https://webpbn.com/play.cgi?id=24035"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Volcano"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 1 red 1
+red 7
+red 1 red 3 red 1
+red 1 red 1 red 1
+black 3
+black 5
+black 7
+
+columns
+red 3 black 1
+red 2 black 2
+red 2 black 3
+red 4 black 3
+red 2 black 3
+red 2 black 2
+red 3 black 1

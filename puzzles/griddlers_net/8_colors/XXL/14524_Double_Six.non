@@ -1,0 +1,125 @@
+by "marcoj"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/28/04"
+height 50
+id 14524
+link "https://www.griddlers.net/nonogram/-/g/14524"
+medium_time "0:37:25"
+points 164120
+popularity 67.5
+title "Double Six"
+width 50
+
+color a fffefe
+color b dedede
+color c c1c0c0
+color d 606161
+color e 979696
+color f 404040
+color g 808080
+color h 000000
+
+rows
+0
+h 12
+h 3 b 12 h 1
+h 3 b 16 h 1
+h 1 b 4 g 2 b 6 g 2 b 4 h 1 c 1 h 1
+h 1 b 18 h 1 c 3 h 1
+h 1 b 8 g 2 b 8 h 1 c 4 h 1
+h 1 b 18 h 1 c 5 h 1
+h 1 b 4 g 2 b 6 g 2 b 4 h 1 c 6 h 1
+h 1 b 16 h 3 c 4 d 1 c 2 h 1
+h 2 b 12 h 3 e 2 h 1 c 4 d 1 c 2 h 1
+h 1 e 2 h 12 e 5 h 1 c 7 h 1
+h 1 e 1 h 1 h 1 e 3 h 1 c 8 h 1
+h 1 e 1 h 1 h 1 e 2 h 1 c 1 d 1 c 6 h 1
+h 2 h 1 e 1 h 1 c 1 d 1 c 6 h 1
+h 1 h 1 c 9 h 1
+h 1 e 2 e 2 e 2 h 1 c 9 h 1
+h 1 e 2 e 2 e 2 h 1 c 6 d 1 c 1 h 1
+h 1 h 1 c 6 d 1 c 1 h 1
+h 1 h 1 c 8 h 1 h 12
+h 1 h 1 c 7 h 1 h 3 b 12 h 1
+h 1 h 1 c 2 d 1 c 3 h 3 b 16 h 1
+h 1 h 1 c 2 d 1 c 2 h 1 b 4 g 2 b 12 h 1 c 1 h 1
+h 1 h 1 c 4 h 1 b 18 h 1 c 3 h 1
+h 1 e 2 e 2 e 2 h 1 c 3 h 1 b 18 h 1 c 4 h 1
+h 1 e 2 e 2 e 2 h 1 c 2 h 1 b 18 h 1 c 5 h 1
+h 1 h 1 c 1 h 1 b 12 g 2 b 4 h 1 c 6 h 1
+d 1 h 1 e 1 h 1 b 16 h 3 c 7 h 1
+f 1 h 1 e 2 h 2 b 12 h 3 e 2 h 1 c 7 h 1
+h 1 h 1 e 1 h 2 e 2 h 12 e 5 h 1 c 7 h 1
+h 14 h 1 e 1 h 1 h 1 e 3 h 1 c 8 h 1
+h 1 e 1 h 1 h 1 e 2 h 1 c 1 d 1 c 6 h 1
+h 2 h 1 e 1 h 1 c 1 d 1 c 6 h 1
+h 1 h 1 c 4 d 1 c 4 h 1
+h 1 e 2 e 2 e 2 h 1 c 4 d 1 c 4 h 1
+h 1 e 2 e 2 e 2 h 1 c 6 d 1 c 1 h 1
+h 1 h 1 c 6 d 1 c 1 h 1
+h 1 h 1 c 8 h 1
+h 1 h 1 c 7 h 1
+h 1 h 1 c 7 h 1
+h 1 h 1 c 7 h 1
+h 1 h 1 c 6 h 1
+h 1 e 2 e 2 e 2 h 1 c 5 h 1
+h 1 e 2 e 2 e 2 h 1 c 4 h 1
+h 1 h 1 c 3 h 1
+d 1 h 1 e 1 h 1 c 1 h 1
+f 1 h 1 e 2 h 2
+h 1 h 1 e 1 h 2
+h 14
+0
+
+columns
+0
+h 14
+h 2 e 1 h 1 d 1
+h 2 e 2 h 1 f 1
+h 1 b 1 h 1 e 1 h 1 e 2 e 2 h 1
+h 1 b 3 h 1 e 2 e 2 h 1
+h 1 b 4 h 1 h 1
+h 1 b 5 h 1 h 1
+h 1 b 6 h 1 h 1
+h 1 b 4 g 1 b 2 h 1 h 1
+h 1 b 4 g 1 b 2 h 1 e 2 e 2 h 1
+h 1 b 7 h 1 e 2 e 2 h 1
+h 1 b 8 h 1 h 1
+h 1 b 1 g 1 b 6 h 1 h 1
+h 1 b 1 g 1 b 6 h 1 h 1
+h 1 b 4 g 1 b 4 h 1 h 1
+h 1 b 4 g 1 b 4 h 1 e 2 e 2 h 1
+h 1 b 6 g 1 b 1 h 1 e 1 h 1 e 2 e 2 h 2
+h 1 b 6 g 1 b 1 h 1 e 2 h 1 h 1 e 1 h 1
+h 1 b 8 h 1 e 3 h 1 h 1 e 1 h 1 h 14
+h 1 b 7 h 1 e 5 h 12 e 2 h 2 e 1 h 1 d 1
+h 1 b 2 g 1 b 4 h 1 e 2 h 3 c 12 h 2 e 2 h 1 f 1
+h 1 b 2 g 1 b 4 h 3 c 14 h 1 b 1 h 1 e 1 h 1 e 2 e 2 h 1
+h 1 b 6 h 1 c 4 d 2 c 6 d 2 c 2 h 1 b 3 h 1 e 2 e 2 h 1
+h 1 b 5 h 1 c 16 h 1 b 4 h 1 h 1
+h 1 b 4 h 1 c 16 h 1 b 5 h 1 h 1
+h 1 b 3 h 1 c 16 h 1 b 6 h 1 h 1
+h 1 b 1 h 1 c 4 d 2 c 6 d 2 c 2 h 1 b 7 h 1 h 1
+h 1 c 16 h 2 b 7 h 1 e 2 e 2 h 1
+h 1 c 12 h 3 h 1 b 7 h 1 e 2 e 2 h 1
+h 12 h 1 b 8 h 1 h 1
+h 1 b 1 g 1 b 6 h 1 h 1
+h 1 b 1 g 1 b 6 h 1 h 1
+h 1 b 9 h 1 h 1
+h 1 b 9 h 1 e 2 e 2 h 1
+h 1 b 6 g 1 b 1 h 1 e 1 h 1 e 2 e 2 h 2
+h 1 b 6 g 1 b 1 h 1 e 2 h 1 h 1 e 1 h 1
+h 1 b 8 h 1 e 3 h 1 h 1 e 1 h 1
+h 1 b 7 h 1 e 5 h 12 e 2 h 1
+h 1 b 7 h 1 e 2 h 3 c 12 h 2
+h 1 b 7 h 3 c 16 h 1
+h 1 b 6 h 1 c 4 d 2 c 12 h 1
+h 1 b 5 h 1 c 18 h 1
+h 1 b 4 h 1 c 8 d 2 c 8 h 1
+h 1 b 3 h 1 c 18 h 1
+h 1 b 1 h 1 c 12 d 2 c 4 h 1
+h 1 c 16 h 3
+h 1 c 12 h 3
+h 12
+0

@@ -1,0 +1,62 @@
+by "mashashio"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/8/06"
+height 25
+id 40585
+link "https://www.griddlers.net/nonogram/-/g/40585"
+medium_time "0:15:10"
+points 4096
+popularity 75.94
+title "Daffodil"
+width 15
+
+color a ffffa8
+color b d9ff8e
+color c eedd38
+color d 86b104
+color e ccb331
+
+rows
+c 1 e 1
+c 3 e 1 e 3
+e 2 c 1 e 2 e 1
+e 1 c 2 e 1 e 2
+e 1 c 2 c 1 e 1 e 1 c 1
+e 2 c 1 c 1 e 4 c 1
+c 1 e 2 e 3 c 3 c 1
+c 3 e 2 e 1 c 1
+c 1 e 5 c 3 c 1
+c 2 e 2 e 3 c 4
+c 2 e 1 c 2 c 1 e 3 c 2
+d 1 e 2 c 2 e 1 e 2
+d 3 e 2 c 1 e 1
+d 4 e 2 e 2
+d 4 e 3
+d 2 e 1
+d 1
+d 1 d 1
+d 2 d 3
+d 1 b 1 d 1 d 1 b 1 d 1
+d 1 b 1 d 1 d 2 b 1 d 1
+d 1 b 1 d 1 d 2 b 1 d 1
+d 1 b 1 d 3 b 1 d 1
+d 1 b 1 d 4
+d 1 b 1 d 2
+
+columns
+c 3 d 7
+c 1 c 2 d 7 b 6
+e 4 c 2 c 1 d 5 d 6
+c 1 e 1 c 1 e 2 e 3 d 3 d 3
+c 2 c 2 e 4 c 1 e 2 d 2 d 3
+c 1 e 2 c 2 e 2 d 2 b 1 d 1
+e 1 c 2 e 1 c 2 e 2 d 2 b 1 d 1
+e 1 c 3 e 3 e 2 d 1 b 2 d 1
+e 2 e 1 e 2 e 2 d 3
+e 2 e 2 c 1 e 1 c 1 e 3 d 2
+e 5 c 1 c 1 e 2
+e 1 c 1 c 2 e 1
+e 3 c 1 c 1 e 2
+e 1 c 1 c 2 e 1
+c 3 c 3

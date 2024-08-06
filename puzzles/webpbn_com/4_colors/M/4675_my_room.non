@@ -1,0 +1,62 @@
+by "bexie (becinaus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by bexie"
+date "Jan  8, 2009"
+description "okay so the green is the door and the big black spots are my rugs/carpet that other black square is the drawers, obvious where the bed is."
+difficulty 2.0
+height 20
+id 4675
+link "https://webpbn.com/play.cgi?id=4675"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.75
+title "my room"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 3 blue 5 blue 7
+black 2 blue 1
+blue 1 black 4 black 2 blue 1
+blue 1 black 6 black 4 blue 1
+blue 1 black 6 black 6 blue 1
+blue 1 black 4 black 6 blue 1
+blue 1 black 2 black 2 black 4
+black 4 black 2
+black 6 blue 1
+blue 1 black 2 black 6 blue 1
+blue 1 black 4 black 4 blue 1
+blue 1 black 6 black 2 black 7
+blue 1 black 6 black 7
+black 4 black 7
+black 2 black 2 black 7
+black 3 black 4 black 7
+black 3 black 6 black 7
+black 4 black 6 black 7
+black 3 black 4 black 1 black 1 black 1
+black 3 blue 2 black 2 blue 2 black 7
+
+columns
+blue 1 blue 5 blue 4 black 5
+green 1 black 2 black 5
+green 1 black 2 black 4 black 5
+green 1 black 4 black 6 black 1
+blue 1 black 6 black 6 blue 1
+blue 1 black 6 black 4 black 2 blue 1
+blue 1 black 4 black 2 black 4
+blue 1 black 2 black 2 black 6
+blue 1 black 4 black 6
+black 6 black 4
+black 6 black 2 blue 1
+blue 1 black 4 blue 1
+blue 1 black 2 black 2
+blue 1 black 4 black 9
+blue 1 black 6 black 7 black 1
+blue 1 black 6 black 7 black 1
+blue 1 black 4 black 9
+blue 1 black 2 black 7 black 1
+black 7 black 1
+blue 5 blue 3 black 9

@@ -1,0 +1,93 @@
+by "Martial (marso)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Martial"
+date "Jan 29, 2005"
+description ""
+difficulty 2.5
+height 36
+id 163
+link "https://webpbn.com/play.cgi?id=163"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.75
+title "Give way"
+width 36
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 18
+black 2 black 2
+black 2 red 14 black 2
+black 2 red 16 black 2
+black 2 red 18 black 2
+black 2 red 20 black 2
+black 2 red 22 black 2
+black 2 red 24 black 2
+black 2 red 26 black 2
+black 2 red 28 black 2
+black 1 red 30 black 1
+black 1 red 32 black 1
+black 1 red 4 red 2 red 3 red 3 red 4 black 1
+black 1 red 3 red 1 red 2 red 2 red 3 black 1
+black 1 red 2 red 1 red 3 red 3 red 1 red 1 red 1 red 2 black 1
+black 1 red 2 red 7 red 3 red 3 red 1 red 2 red 2 black 1
+black 1 red 3 red 6 red 3 red 3 red 1 red 1 red 2 black 1
+black 1 red 4 red 5 red 3 red 3 red 1 red 3 black 1
+black 1 red 5 red 4 red 3 red 3 red 1 red 5 black 1
+black 1 red 6 red 3 red 3 red 3 red 1 red 6 black 1
+black 1 red 2 red 2 red 3 red 3 red 1 red 1 red 6 black 1
+black 1 red 2 red 4 red 4 red 2 red 6 black 1
+black 1 red 3 red 5 red 5 red 3 red 6 black 1
+black 1 red 32 black 1
+black 1 red 30 black 1
+black 2 red 28 black 2
+black 2 red 26 black 2
+black 2 red 24 black 2
+black 2 red 22 black 2
+black 2 red 20 black 2
+black 2 red 18 black 2
+black 2 red 16 black 2
+black 2 red 14 black 2
+black 2 red 12 black 2
+black 2 black 2
+black 16
+
+columns
+black 17
+black 2 black 2
+black 2 red 13 black 2
+black 2 red 15 black 2
+black 2 red 5 red 4 red 4 black 2
+black 2 red 5 red 3 red 4 black 2
+black 2 red 5 red 1 red 3 red 5 black 2
+black 2 red 6 red 3 red 2 red 6 black 2
+black 2 red 7 red 3 red 8 black 2
+black 2 red 9 red 4 red 10 black 2
+black 1 red 29 black 2
+black 1 red 10 red 19 black 1
+black 1 red 10 red 20 black 1
+black 1 red 10 red 11 black 1
+black 1 red 10 red 11 black 1
+black 1 red 10 red 20 black 1
+black 1 red 10 red 20 black 1
+black 1 red 32 black 1
+black 1 red 12 red 13 black 1
+black 1 red 11 red 12 black 1
+black 1 red 10 red 5 red 11 black 1
+black 1 red 10 red 7 red 11 black 1
+black 1 red 10 red 5 red 11 black 1
+black 1 red 11 red 12 black 1
+black 1 red 12 red 12 black 1
+black 1 red 29 black 2
+black 2 red 8 red 8 black 2
+black 2 red 7 red 7 black 2
+black 2 red 6 red 3 red 10 black 2
+black 2 red 5 red 1 red 10 black 2
+black 2 red 5 red 9 black 2
+black 2 red 5 red 9 black 2
+black 2 red 15 black 2
+black 2 red 13 black 2
+black 2 black 2
+black 17

@@ -1,0 +1,71 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Mar 15, 2010"
+description "I think I can see some..."
+difficulty 3.5
+height 25
+id 8049
+link "https://webpbn.com/play.cgi?id=8049"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "Sky"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 10 black 1 black 2 black 1 black 1 black 2
+blue 10 black 1 black 2 black 1 black 3
+blue 10 black 1 black 2 black 5
+blue 10 black 1 black 1 black 2 black 2
+blue 10 black 1 black 1 black 2 black 2
+blue 10 black 1 black 1 black 5
+blue 10 black 1 black 2 black 2
+blue 9 black 2 black 1 black 2 black 2
+blue 7 black 2 black 1 black 5
+blue 5 black 1 black 2 black 1 black 2 black 2
+blue 4 black 1 black 2 black 1 black 2 black 2
+blue 4 black 1 black 2 black 1 black 7
+blue 4 black 1 black 2 black 7
+blue 4 black 1 black 1 black 1 black 2 black 1 black 2
+blue 4 black 1 black 1 black 1 black 2 black 1 black 2
+blue 4 black 1 black 1 black 7
+blue 4 black 2 black 1 black 7
+blue 4 black 2 black 1 black 2 black 1 black 2
+blue 2 black 1 black 2 black 1 black 2 black 1 black 2
+black 1 black 2 black 1 black 7
+black 1 black 1 black 2 black 1 black 7
+black 1 black 2 black 1 black 2 black 1 black 2
+black 2 black 1 black 2 black 1 black 2
+black 1 black 2 black 1 black 7
+black 1 black 2 black 2 black 2 black 7
+
+columns
+blue 19
+blue 19
+blue 18 black 2 black 1
+blue 18
+blue 10
+blue 9 black 3 black 2
+blue 9 black 2 black 2 black 1
+blue 8
+blue 8 black 2 black 2 black 9
+blue 7 black 9
+0
+black 2 black 2 black 7
+black 6 black 2 black 2 black 2
+black 2 black 1
+0
+black 4 black 2 black 2 black 2 black 2 black 2
+black 3
+black 2 black 2
+black 2 black 14
+black 14
+black 1 black 11 black 2 black 2 black 2
+black 23
+black 3 black 1 black 1 black 2 black 2 black 2 black 2
+black 25
+black 24

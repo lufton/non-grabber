@@ -1,0 +1,73 @@
+by "Rachel Freer (Little Freer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Rachel Freer"
+date "Feb 12, 2008"
+description "Blue sky with white clouds, Green grass with little bits of grass sticking up and my attempt at a lady bug."
+difficulty 1.5
+height 25
+id 2277
+link "https://webpbn.com/play.cgi?id=2277"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Calm Day"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 17
+blue 1 blue 2 blue 9 blue 2
+blue 1 blue 1 blue 7 blue 3
+blue 5 blue 8 blue 6
+blue 5 blue 15
+blue 25
+blue 17 blue 6
+blue 18 blue 5
+blue 25
+blue 25
+blue 9 green 1 blue 2 green 1 blue 2 green 1 blue 9
+blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 4 green 1 blue 1 green 1 blue 1 green 1 blue 10
+blue 2 green 3 blue 6 green 3 blue 7 green 3 blue 1
+blue 3 green 1 blue 8 green 1 blue 9 green 1 blue 2
+green 10 black 1 red 1 black 1 green 12
+green 10 red 3 green 12
+green 11 red 1 green 13
+green 8 black 2 red 1 black 1 red 1 black 2 green 10
+green 10 black 1 red 1 black 1 green 12
+green 8 black 2 red 1 black 1 red 1 black 2 green 10
+green 25
+green 25
+green 25
+green 25
+green 25
+
+columns
+blue 14 green 11
+blue 8 green 1 blue 2 green 11
+blue 9 green 1 blue 1 green 11
+blue 8 green 14
+blue 12 green 1 blue 1 green 11
+blue 2 blue 6 green 1 blue 2 green 11
+blue 1 blue 9 green 11
+blue 1 blue 9 green 11
+blue 2 blue 9 green 3 black 1 green 1 black 1 green 5
+blue 2 blue 5 green 1 blue 3 green 3 black 1 green 1 black 1 green 5
+blue 11 green 1 blue 2 black 1 red 1 green 1 red 1 black 1 red 1 green 5
+blue 12 green 1 blue 1 red 3 black 1 red 1 black 1 green 5
+blue 10 green 4 black 1 red 1 green 1 red 1 black 1 red 1 green 5
+blue 12 green 1 blue 1 green 3 black 1 green 1 black 1 green 5
+blue 11 green 1 blue 2 green 3 black 1 green 1 black 1 green 5
+blue 10 green 1 blue 3 green 11
+blue 14 green 11
+blue 1 blue 3 blue 7 green 11
+blue 1 blue 2 blue 6 green 11
+blue 1 blue 4 blue 6 green 11
+blue 14 green 11
+blue 11 green 1 blue 1 green 11
+blue 10 green 13
+blue 9 green 1 blue 1 green 11
+blue 11 green 11

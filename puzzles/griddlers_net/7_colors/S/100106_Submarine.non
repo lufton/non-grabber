@@ -1,0 +1,54 @@
+by "Supensa"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/23/10"
+height 15
+id 100106
+link "https://www.griddlers.net/nonogram/-/g/100106"
+medium_time "0:03:32"
+points 869
+popularity 55.68
+title "Submarine"
+width 15
+
+color a ffffff
+color c c98c00
+color d ffcc00
+color e 999900
+color f ffff99
+color g 666600
+color h 993300
+
+rows
+e 1
+g 2 g 1
+g 1 h 1 h 1
+h 1 h 1
+g 1 f 1 g 1
+e 3 f 2
+d 5 f 1 g 1
+d 3 c 2 d 2 f 1 g 1
+d 3 c 6 d 2 e 2 g 1
+d 2 f 9 c 1 h 3
+d 1 f 10 c 1 h 3
+d 1 f 10 c 1 e 2 g 1
+d 2 c 9 d 1 f 2 g 1
+d 2 c 2 d 6 f 1 g 1
+d 5 f 2
+
+columns
+d 4
+d 2 f 2 d 2
+d 1 f 3 c 1 d 2
+d 2 f 3 c 2 d 1
+g 2 d 2 c 1 f 3 c 2 d 1
+g 1 h 2 g 1 e 1 d 2 c 1 f 3 c 1 d 2
+f 1 e 1 d 1 c 2 f 3 c 1 d 2
+e 1 g 1 h 2 g 1 e 1 d 1 c 2 f 3 c 1 d 1
+d 2 c 1 f 3 c 1 d 1
+d 1 c 1 f 3 c 1 d 1
+d 1 f 3 c 1 d 1
+d 1 c 3 d 1
+e 1 h 2 e 1 f 1
+f 3 e 1 h 2 e 1 f 3
+f 1 g 3 h 2 g 3 f 1

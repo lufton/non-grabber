@@ -1,0 +1,62 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "May 24, 2011"
+description "black swans"
+difficulty 1.5
+height 20
+id 14136
+link "https://webpbn.com/play.cgi?id=14136"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "two"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 7
+blue 11
+blue 12
+blue 4 blue 4
+blue 3 blue 3
+black 3 blue 3 black 3
+black 1 blue 1 black 1 blue 3 black 3
+red 2 black 3 blue 3 black 3 red 1
+black 2 blue 3 black 3
+black 5 blue 3 black 3
+black 6 blue 4 black 5
+black 6 blue 9 black 5
+black 5 blue 9 black 5
+black 4 blue 8 black 6
+black 3 blue 4 black 7
+black 2 blue 4 black 6
+red 2 blue 12 red 2
+red 2 blue 12 red 2
+red 2 blue 12 red 2
+red 1 red 1 blue 12 red 1 red 1
+
+columns
+red 1 black 4
+red 1 black 6 red 1
+black 3 black 7 red 3
+black 1 blue 1 black 9 red 4
+blue 3 black 8 blue 7
+blue 4 black 3 blue 8
+blue 4 blue 9
+blue 4 blue 9
+blue 3 blue 3 blue 4
+blue 3 blue 3 blue 4
+blue 3 blue 3 blue 4
+blue 3 blue 4 blue 4
+blue 4 blue 3 black 1 blue 4
+blue 13 black 2 blue 4
+blue 11 black 3 blue 4
+blue 9 black 6 blue 4
+black 11 red 4
+black 11 red 3
+black 11 red 1
+red 1 black 4

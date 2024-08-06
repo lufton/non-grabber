@@ -1,0 +1,72 @@
+by "Sommer (Sommer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Sommer"
+date "Feb  9, 2020"
+description "My sweet cat Stella! I took everyone's critiques to heart and tried to make a better puzzle this time around :)"
+difficulty 1.5
+height 25
+id 33606
+link "https://webpbn.com/play.cgi?id=33606"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "My Best Friend"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 1 black 1
+black 2 black 2
+black 3 black 4
+black 1 red 1 black 2 black 4 red 1 black 1
+black 1 red 2 black 10 red 2 black 1
+black 16
+black 16 black 2
+black 1 black 3 green 1 black 1 green 1 black 3 green 1 black 1 green 1 black 3 black 3
+black 6 green 1 black 1 green 1 black 3 green 1 black 1 green 1 black 6
+black 15
+black 8 red 3 black 10
+black 2 black 7 red 1 black 7 black 3
+black 5 red 1 black 3 red 1 black 7 black 2
+black 9 red 3 black 5 black 2
+black 1 black 6 black 6 black 3
+black 17 black 3
+black 8 black 6 black 1
+black 8 black 6
+black 8 black 6
+black 6 black 5
+black 6 black 5
+black 6 black 5
+black 5 black 4
+black 5 black 4
+
+columns
+black 2 black 1 black 2 black 8
+black 1 black 2 black 1 black 8
+black 1 black 1 black 1 black 9
+black 24
+black 2 red 2 black 19
+black 2 red 1 black 17
+black 4 green 2 black 10
+black 15
+black 3 green 2 black 3 red 1 black 3
+black 6 red 1 black 2 red 1 black 1
+black 6 red 2 black 1 red 1 black 1
+black 6 red 1 black 2 red 1 black 1
+black 3 green 2 black 3 red 1 black 3
+black 16
+black 4 green 2 black 11
+black 20
+black 2 red 1 black 19
+black 2 red 2 black 8 black 10
+black 7 black 1 black 1 black 1 black 9
+black 1 black 1 black 2 black 4
+black 1 black 1 black 2
+black 1 black 2 black 1
+black 1 black 1 black 2
+black 2 black 2 black 1
+black 1 black 1 black 2

@@ -1,0 +1,62 @@
+by "Mikahil Arkadevich Sorotskin (miege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Mikahil Arkadevich Sorotskin"
+date "Oct  3, 2008"
+description "Thats what modern art is all about : )"
+difficulty 1.25
+height 20
+id 3727
+link "https://webpbn.com/play.cgi?id=3727"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "Modern Art [contains profanity]"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 20
+black 20
+black 20
+black 10 green 1 black 3 green 1 black 5
+black 2 green 3 black 1 green 1 black 6 green 3 black 4
+black 2 green 1 black 3 green 1 black 3 green 1 black 3 green 1 black 5
+black 2 green 1 black 3 green 3 black 1 green 1 black 3 green 1 black 5
+green 3 black 3 green 1 black 1 green 1 black 1 green 1 black 3 green 1 black 5
+black 20
+black 3 green 8 black 9
+black 3 green 1 black 1 blue 1 black 2 blue 1 black 1 green 1 black 9
+black 3 green 1 black 6 green 1 black 9
+black 3 green 1 black 1 blue 1 black 2 blue 1 black 1 green 1 black 9
+black 3 green 1 black 2 blue 2 black 2 green 1 black 9
+black 3 green 8 black 9
+black 6 green 1 black 13
+black 6 green 1 black 13
+black 6 green 1 black 13
+black 6 green 1 black 13
+
+columns
+black 8 green 1 black 11
+black 8 green 1 black 11
+black 5 green 4 black 11
+black 5 green 1 black 4 green 6 black 4
+black 5 green 1 black 4 green 1 black 4 green 1 black 4
+black 10 green 1 blue 1 black 1 blue 1 black 1 green 1 black 4
+black 5 green 4 black 1 green 1 black 3 blue 1 green 5
+black 7 green 1 black 2 green 1 black 3 blue 1 green 1 black 4
+black 7 green 2 black 1 green 1 blue 1 black 1 blue 1 black 1 green 1 black 4
+black 10 green 1 black 4 green 1 black 4
+black 4 green 1 black 1 green 3 black 1 green 6 black 4
+black 20
+black 20
+black 5 green 1 black 14
+black 4 green 5 black 11
+black 5 green 1 black 14
+black 20
+black 20
+black 20
+black 20

@@ -1,0 +1,47 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marie-Louise Ambrey"
+date "Sep 25, 2008"
+description "Wine bottle and two glasses."
+difficulty 1.75
+height 15
+id 3642
+link "https://webpbn.com/play.cgi?id=3642"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A nice drop!"
+width 15
+
+rows
+4
+2,5
+2,1,1
+2,5,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,2
+1,1,1,3
+6,2,3
+1,1,3,1
+1,1,1,1
+6,1,1
+1,1,1,3
+1,1,1
+6,3
+
+columns
+10
+1,1,1,1,1
+4,1,1,1
+4,1,1,1
+1,1,1,1,1
+10
+0
+6
+1,2,1
+1,6
+3,2,1
+1,6,1
+1,6
+1,2,1
+6

@@ -1,0 +1,46 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/30/06"
+height 13
+id 41032
+link "https://www.griddlers.net/nonogram/-/g/41032"
+medium_time "0:01:24"
+points 124
+popularity 57.65
+title "Arrow"
+width 11
+
+color a ffffff
+color b 000000
+color c 969696
+color d ff0000
+color e ffcc00
+
+rows
+d 1
+d 3
+c 1 d 2
+c 1 d 2
+c 1 d 1
+b 2 c 1 d 1 e 1
+b 8 e 2
+b 2 c 1 d 1 e 1
+c 1 d 1
+c 1 d 2
+c 1 d 2
+d 3
+d 1
+
+columns
+b 1 b 1
+b 3
+d 2 b 1 d 2
+d 1 c 4 b 1 c 4 d 1
+d 2 b 1 d 2
+d 2 b 1 d 2
+d 3 b 1 d 3
+b 1
+b 1
+e 3
+e 1

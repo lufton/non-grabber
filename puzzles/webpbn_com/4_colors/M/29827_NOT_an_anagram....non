@@ -1,0 +1,69 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gaynor Sorrell"
+date "May 15, 2017"
+description "... but inspired by one (puzzle #29822)."
+difficulty 1.75
+height 18
+id 29827
+link "https://webpbn.com/play.cgi?id=29827"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "NOT an anagram..."
+width 29
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 3 black 1 green 2
+green 7
+green 3
+green 6
+green 9 green 9
+green 21
+green 22
+blue 3 green 3 blue 1 green 12 green 2
+blue 1 green 4 blue 1 green 2 blue 1 green 7 green 2
+green 1 green 2 blue 1 green 6 green 2
+green 4 blue 1 green 3
+green 4 blue 3 green 1
+green 4 blue 2
+green 2 blue 1
+green 1 blue 1
+green 3 blue 2
+0
+
+columns
+0
+green 2 green 1
+green 2 green 1
+green 2 green 2 blue 2
+black 1 green 1 green 2 blue 1
+green 5 blue 1 green 2
+green 9
+green 8
+green 6
+green 3 blue 2
+green 5
+green 5
+green 3 blue 2
+green 8
+green 9 green 1
+green 9 green 1
+green 12
+green 6 blue 2 green 2
+green 6 blue 2 blue 1
+green 5 blue 5
+green 4
+green 4
+green 2
+green 2
+green 2 green 2
+green 2 green 1
+green 6
+green 4
+0

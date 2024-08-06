@@ -1,0 +1,62 @@
+by "Bigg Mugg (bigg mugg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bigg Mugg"
+date "Jun 24, 2014"
+description "Coke Can"
+difficulty 2.75
+height 20
+id 24918
+link "https://webpbn.com/play.cgi?id=24918"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Crush Me When You're Done"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 7
+black 4 black 5
+black 2 black 3
+black 2 black 6 black 3
+black 2 black 1 black 1 black 3
+black 1 black 6 black 4
+black 2 black 2 black 2
+black 1 black 2 black 1 black 2
+black 1 black 4 black 1 black 1
+black 2 black 6 black 2
+black 1 black 6 black 1
+black 2 blue 6 black 2
+black 2 blue 4 black 2 red 3
+black 2 black 3 red 4
+black 9 red 2
+black 5 red 2
+black 2 red 2
+black 2 red 2
+black 2 red 2
+black 2 red 1
+
+columns
+black 4
+black 4 black 4
+black 3 black 3
+black 2 black 2
+black 1 black 1
+black 1 black 3 black 2 blue 1 black 2
+black 2 black 1 black 1 black 3 blue 2 black 3
+black 1 black 1 black 1 black 4 blue 2 black 4
+black 1 black 1 black 1 black 4 blue 2 black 2 black 2
+black 2 black 1 black 1 black 3 blue 2 black 2 black 2
+black 2 black 3 black 2 blue 1 black 1 black 1
+black 2 black 2
+black 3 black 1
+black 3 black 3 red 3
+black 5 black 4 red 5
+black 7 red 2
+black 2 red 2
+black 2 red 2
+black 2 red 2
+black 2 red 2

@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Apr 26, 2024"
+description "dimes"
+difficulty 1.75
+height 15
+id 38555
+link "https://webpbn.com/play.cgi?id=38555"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.25
+title "Pair-a"
+width 20
+
+rows
+0
+0
+5
+7
+5,2,2
+7,9
+2,1,2,2,2
+2,1,1,2,2,3,2
+2,1,1,2,2,2
+2,1,1,2,7
+2,1,2,5
+7
+5
+0
+0
+
+columns
+0
+5
+7
+2,2
+9
+2,2
+2,3,2
+2,2
+7
+5
+0
+5
+7
+2,1,2
+2,1,1,2
+2,1,1,2
+2,1,1,2
+2,1,2
+7
+5

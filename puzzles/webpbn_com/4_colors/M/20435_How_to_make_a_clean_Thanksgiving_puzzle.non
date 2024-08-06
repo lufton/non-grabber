@@ -1,0 +1,72 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Nov 20, 2012"
+description "Turkey stuffing..."
+difficulty 1.75
+height 15
+id 20435
+link "https://webpbn.com/play.cgi?id=20435"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "How to make a clean Thanksgiving puzzle?"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 35
+black 13
+red 2 black 1 blue 5 black 1 blue 5 black 1
+red 1 black 1 red 1 black 1 blue 5 black 1 blue 5 black 1
+black 1 red 2 black 1 blue 3 black 1 blue 5 black 1
+black 4 red 1 blue 7
+black 5 red 1 blue 4
+black 3 black 2
+black 3 black 11
+black 2 black 3 black 8 red 1
+black 2 black 2 black 8 blue 3 black 1
+black 3 black 2 black 3 red 1 blue 3 black 5
+black 10 red 1 black 4 blue 7 black 2
+black 1 black 1 red 1 black 1 red 1 blue 12 black 1
+red 1 red 1 red 2 black 15
+
+columns
+black 1 black 1
+black 1 black 1
+black 1 black 2
+black 1 black 2
+black 1 black 3
+black 1 black 1 black 1
+black 1 black 1 black 2
+black 1 black 6 red 1
+black 1 black 2 black 1 black 1
+black 1 black 4 black 3 red 1
+black 1 black 2 black 1 black 1
+black 1 black 2 black 4
+black 1 black 4 black 1
+black 1 black 7
+black 1 red 3 black 1 black 3 red 1
+black 1 red 1 black 1 red 3 black 3 red 2 black 1 red 1
+black 1 red 1 black 3 black 1 red 2
+black 1 black 3 black 1 blue 1 black 1
+black 1 black 3 black 1 blue 1 black 1
+black 1 black 2 blue 2 black 1 blue 1 black 1
+black 1 black 2 blue 4 black 1
+black 1 black 1 blue 4 black 1
+black 4 red 1 black 2 blue 2 black 1
+black 2 blue 2 black 1 black 1 blue 2 black 1
+black 2 blue 3 black 1 blue 2 black 1
+black 2 blue 4 black 1 blue 2 black 1
+black 2 blue 5 black 1 blue 2 black 1
+black 2 blue 2 black 1 blue 2 black 1 blue 1 black 1
+black 4 blue 3 black 1 blue 1 black 1
+black 2 blue 5 black 2
+black 2 blue 4 black 1
+black 2 blue 4 black 1
+black 2 blue 3
+black 2 blue 2 black 1
+black 4

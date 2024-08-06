@@ -1,0 +1,80 @@
+by "emma calder (flutterby)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by emma calder"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.75
+height 29
+id 27614
+link "https://webpbn.com/play.cgi?id=27614"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 3.5
+title "our country"
+width 29
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 10 black 1 red 2 red 3
+blue 8 black 1 red 3 red 3
+blue 1 blue 6 blue 1 black 1 red 3 red 3
+blue 2 blue 4 blue 2 black 1 red 3 red 3
+blue 3 blue 2 blue 3 black 1 red 3 red 3
+blue 4 blue 4 black 1 red 6
+blue 5 blue 5 black 1 red 4
+blue 5 blue 5 black 1 red 4
+blue 4 blue 4 black 1 red 6
+blue 3 blue 2 blue 3 black 1 red 8
+blue 2 blue 4 blue 2 black 1 red 4 red 4
+blue 1 blue 6 blue 1 black 1 red 3 red 3
+blue 8 black 1 red 3 red 3
+blue 10 black 1 red 2 red 2
+black 29
+red 2 black 1 red 1 blue 3 red 2 blue 3 red 1
+red 2 black 1 red 1 blue 2 red 2 blue 2 red 1
+red 2 black 1 blue 1 red 1 red 1 blue 1 red 2 blue 1 red 1 blue 1
+red 2 black 1 blue 2 red 1 red 1 red 2 red 1 blue 2
+red 2 black 1 blue 3 red 1 red 2 red 1 blue 3
+red 2 black 1 red 2
+red 14 black 1 red 14
+red 14 black 1 red 14
+red 2 black 1 red 2
+red 2 black 1 blue 3 red 1 red 2 red 1 blue 3
+red 2 black 1 blue 2 red 1 red 2 red 1 blue 2
+red 2 black 1 blue 1 red 1 blue 1 red 2 blue 1 red 1 blue 1
+red 2 black 1 red 1 blue 2 red 2 blue 2 red 1
+red 2 black 1 red 1 blue 3 red 2 blue 3 red 1
+
+columns
+blue 10 black 1 red 2
+blue 8 black 1 red 2
+blue 1 blue 6 blue 1 black 1 red 2
+blue 2 blue 4 blue 2 black 1 red 2
+blue 3 blue 2 blue 3 black 1 red 2
+blue 4 blue 4 black 1 red 2
+blue 5 blue 5 black 1 red 14
+blue 5 blue 5 black 1 red 14
+blue 4 blue 4 black 1 red 2
+blue 3 blue 2 blue 3 black 1 red 2
+blue 2 blue 4 blue 2 black 1 red 2
+blue 1 blue 6 blue 1 black 1 red 2
+blue 8 black 1 red 2
+blue 10 black 1 red 2
+black 29
+red 2 red 2 black 1 red 1 blue 3 red 2 blue 3 red 1
+red 3 red 3 black 1 red 1 blue 2 red 2 blue 2 red 1
+red 3 red 3 black 1 blue 1 red 1 red 1 blue 1 red 2 blue 1 red 1 blue 1
+red 3 red 3 black 1 blue 2 red 1 red 1 red 2 red 1 blue 2
+red 3 red 3 black 1 blue 3 red 1 red 2 red 1 blue 3
+red 7 black 1 red 2
+red 5 black 1 red 14
+red 5 black 1 red 14
+red 7 black 1 red 2
+red 3 red 3 black 1 blue 3 red 1 red 2 red 1 blue 3
+red 3 red 3 black 1 blue 2 red 1 red 2 red 1 blue 2
+red 4 red 3 black 1 blue 1 red 1 blue 1 red 2 blue 1 red 1 blue 1
+red 3 red 3 black 1 red 1 blue 2 red 2 blue 2 red 1
+red 2 red 2 black 1 red 1 blue 3 red 2 blue 3 red 1

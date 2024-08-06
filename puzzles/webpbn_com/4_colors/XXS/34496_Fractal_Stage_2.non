@@ -1,0 +1,30 @@
+by "seulki (sleepground)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by seulki"
+date "Sep 24, 2020"
+description ""
+difficulty 1.0
+height 4
+id 34496
+link "https://webpbn.com/play.cgi?id=34496"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "Fractal Stage 2"
+width 4
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 green 2
+black 2 green 2
+blue 2 black 1 green 1
+blue 3
+
+columns
+black 2 blue 2
+black 2 blue 2
+green 2 black 1 blue 1
+green 3

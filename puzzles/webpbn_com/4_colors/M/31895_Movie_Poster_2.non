@@ -1,0 +1,67 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Dec 21, 2018"
+description ""
+difficulty 1.5
+height 30
+id 31895
+link "https://webpbn.com/play.cgi?id=31895"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Movie Poster #2"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3 black 2
+green 5 black 2
+green 5 black 2
+green 4 black 1 black 3
+green 3 black 2 black 2
+green 1 black 3 black 3
+black 3 black 2
+black 2 black 3
+black 3 black 2
+black 6
+black 7
+black 8
+black 8
+black 8
+black 8
+black 7
+black 3 black 3
+black 3 black 3
+black 4 black 3
+black 3 black 2
+black 3 black 2
+black 2 black 2
+black 2 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+red 3 red 3
+red 3 red 1 red 1 red 2
+
+columns
+green 3 red 1
+green 5 red 1
+green 5 red 2
+green 4 black 3 black 5 red 1
+green 3 black 7 black 10 red 2
+green 1 black 18
+black 13
+black 10
+black 9
+black 14
+black 5 black 13
+black 6 black 18 red 2
+black 4 black 4 black 6 red 1
+red 2
+red 1

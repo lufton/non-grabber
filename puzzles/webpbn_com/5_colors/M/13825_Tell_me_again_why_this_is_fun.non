@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 10, 2011"
+description "Red shoes being beaten in the pole climbing competition."
+difficulty 1.5
+height 20
+id 13825
+link "https://webpbn.com/play.cgi?id=13825"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Tell me again why this is fun?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4 green 2 black 1 red 4
+black 4 green 1 green 1 red 2 black 1 red 2
+black 4 black 1 green 3 red 2
+red 1 black 4 red 1 black 4 green 1 blue 1
+red 1 black 4 red 1 black 4 blue 2
+red 1 green 4 red 1 black 3 blue 3
+green 1 black 4 green 1 black 3 blue 2
+black 4 black 2 green 3
+blue 1 black 4 blue 1 black 2 green 3
+blue 1 black 4 blue 1 black 4
+blue 1 black 4 blue 1 black 4
+red 2 black 4 red 2 black 4
+red 2 black 4 red 2 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 4
+
+columns
+0
+red 2
+red 3 green 1 blue 3 red 2
+black 5 green 1 black 14
+black 5 green 1 black 14
+black 5 green 1 black 14
+black 5 green 1 black 14
+green 1 red 3 green 1 blue 3 red 2
+red 2
+0
+0
+green 1
+green 2 black 18
+black 1 red 1 green 1 black 17
+red 2 green 1 black 4 green 2 black 11
+red 1 black 1 green 1 black 2 blue 2 green 2 black 11
+red 3 green 1 blue 3 green 2
+red 3 blue 3
+0
+0

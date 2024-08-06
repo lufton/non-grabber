@@ -1,0 +1,64 @@
+by "burgerboy775"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/8/08"
+height 25
+id 72863
+link "https://www.griddlers.net/nonogram/-/g/72863"
+medium_time "0:03:21"
+points 2022
+popularity 60.12
+title "Torch Me"
+width 17
+
+color a 000000
+color b cccccc
+color c ff3333
+color d ffcc66
+color e ffffcc
+
+rows
+c 1 c 1
+c 1 d 1 c 1 c 1 d 1 c 1
+c 1 d 2 c 1 d 2 c 1
+c 1 d 1 e 1 d 3 e 1 d 1 c 1
+c 1 d 1 e 5 d 1 c 1
+c 1 d 1 e 7 d 1 c 1
+b 1 c 1 d 1 e 7 d 1 c 1 b 1
+b 1 c 1 d 1 e 5 d 1 c 1 b 1
+b 2 c 2 d 5 c 2 b 2
+b 13
+b 11
+b 9
+b 7
+b 5
+b 5
+b 5
+b 5
+b 5
+b 5
+b 5
+b 7
+b 11
+b 15
+b 17
+b 17
+
+columns
+b 2
+b 3 b 3
+b 2 b 3
+c 2 b 2 b 4
+c 2 d 2 c 2 b 3 b 4
+c 2 d 2 e 2 d 1 c 1 b 4 b 5
+c 1 d 2 e 5 d 1 b 16
+c 1 d 2 e 4 d 1 b 16
+c 1 d 1 e 4 d 1 b 16
+c 1 d 2 e 4 d 1 b 16
+c 1 d 2 e 5 d 1 b 16
+c 2 d 2 e 2 d 1 c 1 b 4 b 5
+c 2 d 2 c 2 b 3 b 4
+c 2 b 2 b 4
+b 2 b 3
+b 3 b 3
+b 2

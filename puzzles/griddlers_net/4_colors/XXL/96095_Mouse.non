@@ -1,0 +1,116 @@
+by "griddlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/8/10"
+height 50
+id 96095
+link "https://www.griddlers.net/nonogram/-/g/96095"
+medium_time "0:30:29"
+points 263211
+popularity 76.25
+title "Mouse"
+width 45
+
+color a 66ffff
+color b 000300
+color c caccc9
+color d 888a87
+
+rows
+b 12
+b 1 c 12 b 2
+b 1 c 2 d 1 b 6 d 2 c 4 b 2
+b 1 c 1 d 2 b 2 b 2 d 1 c 5 b 1
+b 1 c 1 d 1 b 3 b 1 d 2 c 4 b 1
+b 1 c 1 d 1 b 2 b 2 d 1 c 3 b 1
+b 2 c 1 d 1 b 2 b 1 d 1 c 2 b 1
+b 1 c 1 d 2 b 2 b 9
+b 1 c 1 d 1 b 3 b 3 c 9 b 2
+b 1 c 1 d 1 b 2 b 2 c 14 b 2
+b 1 c 1 d 1 b 2 b 1 c 18 b 1
+b 3 b 1 c 20 b 1
+b 1 c 22 b 1
+b 1 c 24 b 1
+b 1 c 25 b 1
+b 1 c 27 b 1
+b 1 c 28 b 1
+b 1 c 29 b 1
+b 1 c 29 b 1
+b 1 c 30 b 1
+b 1 c 3 b 4 c 16 b 5 c 2 b 1
+b 1 c 1 b 2 c 4 b 2 c 12 b 2 c 5 b 1 c 1 b 1
+b 2 c 1 d 5 c 2 b 1 c 10 b 1 c 2 d 5 c 1 b 1 c 1 b 1
+b 2 c 1 d 8 c 1 b 1 c 8 b 1 c 1 d 9 c 1 b 1
+b 1 c 2 d 10 c 1 b 1 c 6 b 1 c 2 d 10 b 1
+b 1 c 1 d 4 c 6 d 1 c 1 b 1 c 6 b 1 c 1 d 2 c 5 d 4 c 1 b 1
+b 1 c 1 d 2 c 10 b 1 c 6 b 1 c 10 d 3 b 1
+b 1 c 1 d 1 c 11 b 1 c 6 b 1 c 11 d 2 b 1
+b 1 c 1 d 1 c 11 b 1 c 6 b 1 c 12 d 1 b 1
+b 1 c 33 d 1 b 1
+b 1 c 34 b 1
+b 1 c 32 b 1
+b 1 c 30 b 1
+b 1 c 28 b 1
+b 2 c 24 b 2
+b 1 c 22 b 1
+b 1 c 5 b 2 c 6 b 2 c 5 b 2
+b 1 c 4 b 1 c 1 b 1 c 6 b 1 c 1 b 1 c 4 b 1
+b 1 c 4 b 2 c 6 b 2 c 4 b 1
+b 1 c 17 b 1
+b 1 c 16 b 1
+b 5 c 13 b 5
+b 3 b 1 c 1 b 2 c 7 b 2 c 1 b 1 b 3
+b 5 c 2 b 3 c 1 b 7
+b 3 b 4 c 1 b 3 c 1 b 4 b 2
+b 2 b 1 b 1 d 3 b 1 d 3 b 1 b 2 b 2
+b 2 b 3 b 3 d 3 b 2 b 2
+b 2 b 4 b 1
+b 1 b 1
+b 1
+
+columns
+b 2
+b 1 c 1 b 1
+b 1 c 1 d 1 b 1
+b 1 c 1 d 1 b 1
+b 1 c 1 d 1 b 2
+b 1 d 1 b 2
+b 1 c 1 d 1 b 1
+b 1 c 1 d 1 b 2
+b 1 c 1 d 1 b 2
+b 1 c 1 d 1 b 2 b 7
+b 1 c 1 d 1 b 2 b 1 c 7 b 1
+b 1 c 2 d 1 b 1 b 5 c 1 d 4 c 3 b 1
+b 1 c 1 d 1 b 2 b 3 c 3 b 1 c 1 d 3 c 6 b 1
+b 1 c 1 b 2 b 1 c 5 b 1 c 1 d 3 c 8 b 1
+b 1 c 1 b 1 b 2 c 6 b 1 d 4 c 8 b 1 b 1
+b 1 c 1 b 1 b 1 c 7 b 1 c 1 d 3 c 10 b 1 b 1 b 1
+b 1 c 1 b 1 b 1 c 8 b 1 c 1 d 3 c 11 b 2 b 2 b 2
+b 1 c 1 b 1 b 1 c 9 b 1 c 1 d 3 c 13 b 1 b 1 b 2
+b 1 c 1 b 1 b 1 c 10 b 1 c 1 d 3 c 14 b 3 b 1 b 2
+b 1 c 1 d 1 b 1 b 1 c 11 b 1 c 1 d 2 c 16 b 1 b 2 b 2
+b 1 c 1 d 1 b 1 b 1 c 12 b 1 c 1 d 2 c 16 b 3 b 1
+b 1 c 2 d 1 b 1 b 1 c 13 b 1 c 1 d 2 c 11 b 1 c 5 b 4
+b 1 c 3 d 1 b 1 b 1 c 14 b 1 c 12 b 1 c 1 b 1 c 3 b 3
+b 1 c 2 d 1 b 1 b 1 c 16 b 5 c 7 b 3 c 3 b 5
+b 1 c 3 d 1 b 2 c 36 b 1 d 1 b 1
+b 1 c 3 d 1 b 1 c 37 d 1 b 2
+b 1 c 4 b 1 c 35 b 2 d 2 b 1
+b 1 c 3 b 1 c 35 b 3 d 1 b 1
+b 4 c 35 b 2 d 2 b 1
+b 1 c 37 d 1 b 1
+b 1 c 16 b 5 c 7 b 3 c 4 b 2 d 1 b 1
+b 1 c 15 b 1 c 12 b 1 c 1 b 1 c 3 b 4
+b 1 c 13 b 1 c 2 d 1 c 11 b 1 c 4 b 3
+b 1 c 12 b 1 c 1 d 3 c 17 b 3
+b 1 c 11 b 1 c 1 d 2 c 16 b 3 b 2
+b 1 c 10 b 1 c 1 d 3 c 15 b 2 b 1 b 3
+b 1 c 9 b 1 c 1 d 3 c 13 b 2 b 1 b 2 b 1
+b 1 c 8 b 1 c 1 d 3 c 11 b 2 b 1 b 2
+b 1 c 7 b 1 c 1 d 3 c 10 b 2 b 2 b 1
+b 1 c 6 b 1 c 1 d 4 c 8 b 1 b 1
+b 1 c 6 b 1 c 1 d 3 c 8 b 1 b 1
+b 2 c 5 b 1 d 4 c 6 b 1
+b 5 c 2 d 4 c 4 b 1
+b 3 c 1 d 4 c 1 b 1
+b 6

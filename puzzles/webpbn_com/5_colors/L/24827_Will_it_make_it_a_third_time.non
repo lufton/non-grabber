@@ -1,0 +1,83 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Ron Jacobson"
+date "Jul  8, 2014"
+description "Skippin' rocks in the hot sun...."
+difficulty 3.5
+height 30
+id 24827
+link "https://webpbn.com/play.cgi?id=24827"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "Will it make it a third time?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 4
+green 4 green 4 black 2
+green 4 green 2 black 3 blue 2
+green 2 red 2 black 3 blue 5
+red 2 red 2 black 4 blue 2
+red 2 red 2 black 3 blue 4
+red 2 black 4 blue 3
+black 2 black 7 blue 1 red 2 blue 1 blue 4
+black 2 blue 1 black 4 blue 2 red 2 blue 2 red 2 blue 6
+blue 8 red 2 red 2 blue 1
+red 2 green 2
+green 2 green 4
+blue 3 green 4 green 4
+blue 5 green 4 green 2 black 3
+blue 1 green 2 black 3
+blue 6 black 2
+blue 3 blue 1 blue 1
+blue 3 blue 3 blue 1 blue 5 blue 1
+blue 1 blue 1 blue 1 blue 2 black 3 blue 2 blue 1
+blue 1 blue 5 blue 1 blue 2 black 1 black 1 blue 1 blue 1
+red 2 blue 1 blue 7 blue 1 blue 2 black 3 blue 1 blue 1
+red 3 blue 1 blue 2 black 4 blue 2 blue 1 blue 4 blue 1
+red 2 blue 1 blue 1 black 1 black 1 blue 2 blue 2 blue 1
+blue 2 blue 1 blue 2 black 1 black 1 blue 1 blue 1 blue 5
+black 1 blue 1 blue 1 blue 2 black 4 blue 2 blue 1
+black 1 blue 2 blue 2 blue 6 blue 1
+black 2 blue 2 blue 1 blue 3 blue 1
+black 3 blue 2 blue 2 blue 1
+black 4 blue 1 blue 2 blue 1
+black 4 blue 1 blue 5
+
+columns
+black 1 blue 1 red 2 blue 1 black 6
+black 2 blue 1 blue 1 red 2 blue 3 black 4
+black 1 blue 2 blue 1 red 2 blue 2 black 3
+black 1 blue 1 blue 2 red 1 blue 3 blue 2 black 2
+black 1 blue 1 blue 1 blue 2 blue 1 blue 3
+black 1 blue 1 blue 1 blue 2 blue 1
+black 2 blue 1 blue 1 blue 1 blue 4 blue 3
+black 1 blue 2 blue 2 blue 2 blue 3 black 1 blue 2 blue 1
+green 2 black 1 blue 1 green 2 blue 1 blue 2 black 1 black 1 blue 2 blue 1
+green 4 red 3 black 1 red 3 green 4 blue 2 blue 2 black 1 black 1 blue 1 blue 1
+green 4 red 3 black 1 red 3 green 4 blue 1 blue 2 black 1 black 1 blue 2 blue 1
+green 2 black 1 blue 1 green 2 blue 1 blue 2 black 1 black 1 blue 2 blue 1
+black 2 blue 1 blue 1 blue 2 black 1 black 1 blue 2 blue 1
+green 2 black 1 blue 1 green 2 blue 1 blue 2 black 1 blue 2 blue 1
+green 3 red 3 black 1 red 3 green 4 blue 2 blue 1 blue 3 blue 1
+green 3 red 3 black 1 red 3 green 4 blue 1 blue 1 blue 1
+green 2 black 1 blue 2 green 2 blue 1 blue 2 blue 6
+black 1 blue 1 blue 1 blue 4 blue 1
+black 1 blue 1 blue 1 blue 1 black 2 blue 2 blue 1
+black 1 blue 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1
+black 1 blue 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1
+black 1 blue 1 blue 1 blue 1 blue 2 black 2 blue 1 blue 1
+black 2 blue 1 blue 1 blue 1 blue 3 blue 1
+black 1 blue 1 blue 1 blue 1 blue 1
+black 1 blue 1 blue 2 black 2 blue 4
+black 1 blue 1 blue 1 black 3
+black 1 blue 1 blue 1 black 2
+black 1 blue 1 blue 1 black 1
+black 1 blue 2 blue 1
+black 1 blue 2 blue 2

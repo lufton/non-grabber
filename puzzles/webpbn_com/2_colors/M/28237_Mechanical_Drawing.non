@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jun 25, 2016"
+description "of a "church key". Cheers!"
+difficulty 2.75
+height 20
+id 28237
+link "https://webpbn.com/play.cgi?id=28237"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Mechanical Drawing"
+width 20
+
+rows
+0
+1,3
+3,4
+1,1,2,2
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+1,1,2,2
+3,4
+3,2
+0
+0
+0
+3,1,1,1,1
+3,12
+0
+
+columns
+0
+12,2
+2,7,2,2
+12,2
+0
+0
+2,2
+4,1
+2,2,2
+5,1
+5,1
+5,1
+5,1
+5,1
+5,1
+5,1
+2,2,2
+4,1
+3,1
+0

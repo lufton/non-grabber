@@ -1,0 +1,57 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Teresa K"
+date "Aug  4, 2009"
+description "Earrings. But they don't match. Well, too much symmetry makes for a boring puzzle, and I wanted to give you a challenge. :-) I wonder what would happen if I wore earrings that didn't match? People would think I was off my rocker. And they would be right!"
+difficulty 3.25
+height 20
+id 6430
+link "https://webpbn.com/play.cgi?id=6430"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "A Pair"
+width 20
+
+rows
+20
+1,5,1
+1,2,2,1
+1,5,1,1,1
+1,2,2,1,1,1
+1,1,1,2,1,1
+1,1,1,2,3
+1,2,1,2,1
+1,2,2,1,1
+1,2,1,1
+1,1,3,1
+1,1,2,2,1
+1,1,2,2,1
+1,2,2,1,1,1,1
+1,1,1,1,2,2,1
+1,1,1,2,2,1
+1,2,2,3,1
+1,2,2,1
+1,3,1
+20
+
+columns
+20
+1,1
+1,4,3,1
+1,2,2,1,2,1
+1,1,2,1,3
+1,1,4,1,2
+1,1,1,3
+1,2,1,2,1
+1,5,3,1
+1,1,1
+1,1
+1,4,3,1
+3,2,2,2,1
+2,2,2,2,1
+2,4,1,1,1
+2,2,2,1
+3,2,2,1
+1,5,3,1
+1,1,1
+20

@@ -1,0 +1,76 @@
+by "Yuvalal Liron (yuvalal)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Yuvalal Liron"
+date "Jul 27, 2013"
+description "This is the Penrose triangle"
+difficulty 2.0
+height 26
+id 22436
+link "https://webpbn.com/play.cgi?id=22436"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Impossible!"
+width 33
+
+rows
+4
+3,1
+3,1
+5,2
+6,2
+8,1
+4,4,2
+4,4,2
+4,6,1
+5,1,4,2
+4,2,4,1,1
+4,2,5,1
+5,1,4,2
+4,2,4,1,1
+5,1,5,1
+5,2,5,2
+4,1,4,1,1
+5,2,5,1
+4,1,5,2
+5,18,1,1
+5,1,1,1,1,1,1,1,1,1,1,1,2
+4,1,1,1,1,1,1,1,1,1,1,1,2
+5,26
+4,1
+3,1
+29
+
+columns
+2
+5
+7
+9
+8,1
+7,1
+8,1
+7,1,1
+7,3,1
+7,1,1,1
+7,6,1
+7,3,1,1,1
+7,3,4,1
+7,3,1,1,1
+6,2,4,1
+11,1,1,1
+1,6,4,1
+2,6,1,1,1
+10,4,1
+2,6,1,1,1
+11,4,1
+2,6,1,1,1
+15,1
+1,6,1,1
+13,1
+1,3,1,1
+10,1
+1,1,1
+7,1
+1,1,1
+4,1
+3,1
+2

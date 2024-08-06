@@ -1,0 +1,31 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "May 15, 2012"
+description ""
+difficulty 1.25
+height 5
+id 18664
+link "https://webpbn.com/play.cgi?id=18664"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Minimal Who #6"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 5
+black 3
+black 1 blue 1
+0
+
+columns
+black 2
+black 3
+black 3
+black 2
+black 2 blue 1

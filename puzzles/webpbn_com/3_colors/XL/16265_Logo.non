@@ -1,0 +1,111 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David Bouldin"
+date "Apr 27, 2012"
+description "Any guesses? (careful how you google it)"
+difficulty 3.5
+height 50
+id 16265
+link "https://webpbn.com/play.cgi?id=16265"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Logo"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 18
+black 18
+black 18
+0
+black 16
+black 14
+0
+red 1 black 14 red 1
+red 2 red 1 black 2 black 2 black 2 black 2 black 2 red 1 red 2
+red 2 red 2 black 2 black 2 black 2 black 2 black 2 red 2 red 2
+red 3 red 2 black 2 black 2 black 2 black 2 black 2 red 2 red 3
+red 3 red 2 black 2 black 2 black 2 black 2 black 2 red 2 red 3
+red 1 red 2 red 3 black 2 black 2 black 2 black 2 black 2 red 3 red 2 red 1
+red 2 red 2 red 2 black 2 black 2 black 2 black 2 black 2 red 2 red 2 red 2
+red 3 red 2 red 2 black 1 black 2 black 2 black 2 black 2 red 2 red 2 red 3
+red 2 red 2 red 3 black 1 black 2 black 2 black 2 black 1 red 3 red 2 red 2
+red 3 red 2 red 2 black 1 black 2 black 2 black 1 red 2 red 2 red 3
+red 2 red 1 red 3 red 3 black 2 red 3 red 1 red 2
+red 1 red 3 red 2 red 2 red 4 black 2 red 2 red 2 red 3 red 1
+red 2 red 3 red 1 red 3 black 1 red 4 black 1 red 3 red 1 red 3 red 2
+red 3 red 2 red 2 red 2 black 2 red 3 black 1 red 2 red 2 red 2 red 3
+red 3 red 2 red 3 red 4 red 3 red 2 red 3
+red 3 red 1 red 1 red 3 red 6 red 3 red 1 red 1 red 3
+red 1 red 3 red 3 red 2 red 6 red 2 red 3 red 3 red 1
+red 3 red 2 red 3 red 2 red 2 red 2 red 3 red 2 red 3
+red 3 red 4 red 2 red 2 red 4 red 3
+red 4 red 4 red 8 red 4 red 4
+red 5 red 8 red 5
+red 6 red 4 red 8 red 4 red 6
+black 1 red 5 red 4 red 8 red 4 red 5 black 1
+black 2 red 3 red 3 red 8 red 3 red 3 black 2
+black 3 red 3 red 2 red 8 red 2 red 3 black 3
+black 2 black 1 red 6 red 6 red 6 black 1 black 2
+red 3 red 3 red 6 red 3 red 3
+black 2 red 4 red 1 red 6 red 1 red 4 black 2
+black 3 black 1 red 4 red 2 red 6 red 2 red 4 black 1 black 3
+black 2 red 3 red 3 red 4 red 3 red 3 black 2
+black 2 black 2 red 3 red 2 red 2 red 3 black 2 black 2
+black 3 black 1 red 2 red 1 red 2 red 1 red 2 black 1 black 3
+black 3 black 3
+black 3 black 1 black 1 red 2 red 4 red 2 black 1 black 1 black 3
+black 2 red 3 red 4 red 3 black 2
+black 3 red 3 red 6 red 3 black 3
+black 2 red 3 red 6 red 3 black 2
+red 4
+0
+black 22
+black 22
+black 22
+black 22
+
+columns
+black 3 black 1
+black 3 black 3
+black 2 black 3
+red 3 red 3 red 2 black 2 black 1
+red 4 red 3 red 2 red 1 black 1 black 3
+red 4 red 5 red 3 red 3 red 2 black 4
+red 7 red 4 red 3 red 2 red 3 red 1 black 1 black 3
+red 6 red 3 red 3 red 1 red 3 red 2 black 2
+red 3 red 3 red 2 red 1 red 3 red 2 red 1 black 3
+red 5 red 3 red 2 red 2 red 3 red 2 black 1 black 3 black 4
+red 7 red 3 red 5 red 2 red 3 black 4
+black 3 red 6 red 1 red 8 red 2 red 2 black 1 black 4
+black 3 black 1 red 5 red 8 red 3 red 2 black 4
+black 3 black 2 black 7 red 6 red 7 red 2 red 3 red 2 black 4
+black 3 black 2 black 10 red 6 red 5 red 1 red 3 red 3 black 4
+black 3 black 2 black 1 red 4 red 3 red 4 black 4
+black 3 black 2 black 9 red 1 black 2 red 6 red 2 black 4
+black 3 black 2 black 9 red 2 black 1 red 2 red 11 red 2 red 2 black 4
+black 3 black 2 black 1 red 3 red 3 red 13 red 5 black 4
+black 3 black 2 black 10 red 7 red 11 red 1 red 5 black 4
+black 3 black 2 black 10 red 7 red 11 red 1 red 5 black 4
+black 3 black 2 black 1 red 5 red 13 red 5 black 4
+black 3 black 2 black 12 red 2 red 11 red 2 red 2 black 4
+black 3 black 2 black 14 red 6 red 2 black 4
+black 3 black 2 black 1 red 4 red 3 red 4 black 4
+black 3 black 2 black 10 red 6 red 5 red 1 red 3 red 3 black 4
+black 3 black 2 black 8 red 6 red 7 red 2 red 3 red 2 black 4
+black 3 black 1 red 5 red 8 red 3 red 2 black 4
+black 3 red 6 red 1 red 8 red 2 red 2 black 1 black 4
+red 7 red 3 red 5 red 2 red 3 black 4
+red 5 red 3 red 2 red 2 red 3 red 2 black 1 black 3 black 4
+red 3 red 3 red 2 red 1 red 3 red 2 red 1 black 3
+red 6 red 3 red 3 red 1 red 3 red 2 black 2
+red 7 red 4 red 3 red 2 red 3 red 1 black 1 black 3
+red 4 red 5 red 3 red 3 red 2 black 4
+red 4 red 3 red 2 red 1 black 1 black 3
+red 3 red 3 red 2 black 2 black 1
+black 2 black 3
+black 3 black 3
+black 3 black 1

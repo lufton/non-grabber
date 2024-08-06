@@ -1,0 +1,56 @@
+by "slniecko"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/1/03"
+height 25
+id 2743
+link "https://www.griddlers.net/nonogram/-/g/2743"
+medium_time "0:01:37"
+points 300
+popularity 50.32
+title "Candle"
+width 10
+
+color a ffffff
+color b ff0000
+color g 999999
+color h 000000
+
+rows
+0
+b 1
+b 1
+b 2
+b 3
+b 5
+b 5
+b 3
+h 1
+g 4
+g 1 g 2
+g 1 g 3
+g 1 g 2
+g 1 g 2
+g 1 g 2
+g 1 g 2
+g 1 g 2
+g 1 g 1
+g 1 g 1
+g 1 g 1
+g 1 g 1
+g 1 g 1
+g 1 g 1
+g 1 g 1
+g 5
+
+columns
+0
+0
+b 2 g 16
+b 4 g 1 g 1
+b 7 h 1 g 1 g 1
+b 5 g 3 g 1
+b 2 g 15
+g 6
+0
+0

@@ -1,0 +1,62 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Jan 16, 2011"
+description "My 9-yr-old son wanted to create a puzzle. This is Atlantis, and the white shapes are the people."
+difficulty 1.75
+height 20
+id 11774
+link "https://webpbn.com/play.cgi?id=11774"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "under water.... (by Chris)"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 9
+black 11
+black 2 blue 3 blue 5 black 2
+black 2 blue 4 blue 6 black 2
+black 2 blue 4 black 2 blue 1 black 1 blue 5 black 2
+black 1 blue 4 black 5 blue 6 black 2
+blue 6 black 2 blue 1 black 1 blue 7 black 2
+blue 18 black 2
+blue 19 black 1
+blue 7 green 5 blue 8
+blue 2 blue 4 green 1 blue 3 green 1 blue 8
+blue 2 blue 3 green 1 blue 2 green 1 blue 8
+blue 4 green 4 blue 2 green 2 blue 2 black 1 blue 1 black 2
+blue 4 green 1 blue 2 green 3 blue 1 green 1 blue 1 green 1 blue 2 black 4
+blue 3 green 3 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 2 black 1 blue 1 black 2
+blue 3 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 6
+blue 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 2 blue 3
+blue 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 2 blue 3
+green 20
+green 20
+
+columns
+black 2 blue 12 green 2
+black 2 blue 11 green 2
+black 2 blue 6 blue 6 green 2
+black 2 blue 8 blue 2 green 6
+black 2 blue 10 green 3 blue 3 green 2
+black 2 blue 3 black 1 blue 6 green 1 blue 1 green 6
+black 2 blue 2 black 3 blue 5 green 1 blue 5 green 2
+black 2 black 3 blue 2 green 11
+black 2 blue 3 black 1 blue 3 green 1 blue 3 green 1 blue 4 green 2
+black 2 blue 2 black 3 blue 2 green 1 blue 3 green 7
+black 2 blue 7 green 1 blue 1 blue 3 green 2
+black 2 blue 7 green 3 green 7
+black 2 blue 10 green 1 blue 5 green 2
+black 2 blue 9 green 8
+black 2 blue 14 green 2
+black 2 blue 13 green 2
+black 2 blue 6 black 3 blue 1 green 2
+black 2 blue 6 black 1 blue 4 green 2
+black 2 blue 4 black 3 blue 3 green 2
+black 2 blue 3 black 3 blue 3 green 2

@@ -1,0 +1,118 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/3/21"
+height 50
+id 225310
+link "https://www.griddlers.net/nonogram/-/g/225310"
+medium_time "0:41:15"
+points 73486
+popularity 82.69
+title "Cups"
+width 45
+
+color a ffffff
+color b 999999
+color c FF0066
+color e 990033
+color g FF99CC
+color h CCCCCC
+
+rows
+h 5 h 4 h 3
+h 5 h 7 h 3
+h 5 h 10 b 1 h 2
+h 4 h 6 c 1 h 1 c 1 h 3 b 1 h 2
+h 3 h 8 c 3 h 4 b 1 h 2
+h 2 h 5 h 6 c 1 h 5 b 1 h 2
+h 2 h 5 h 14 b 1 h 2
+h 2 h 6 h 18 b 1 h 2
+h 6 c 1 h 1 c 1 h 22 b 1 h 2
+h 6 c 3 h 24
+h 6 c 1 h 8 c 1 h 1 c 1 h 14
+h 15 c 3 h 13
+h 16 c 1 h 9 c 1 h 1 c 1 h 1
+h 25 c 2 h 2
+h 26 c 1 h 2 g 6
+h 1 c 1 h 1 c 1 h 24 e 1 g 3 g 3
+h 2 c 2 h 23 e 2 c 2 g 7
+c 2 h 1 c 1 h 24 e 1 c 4 g 2
+c 1 e 1 h 9 c 1 h 1 c 1 h 13 g 3 c 3 g 3
+c 1 e 2 h 8 c 3 h 10 g 6 c 3 g 2
+c 2 e 2 h 8 c 1 h 9 c 3 g 5 c 3 c 1 g 2
+c 3 g 2 h 13 g 1 c 6 g 5 c 3 c 2 g 2
+c 3 g 4 c 3 h 4 g 6 c 5 g 5 c 2 g 1 c 2 g 1
+c 3 g 4 c 1 c 3 g 7 c 5 g 5 c 1 g 2 c 2 g 2
+c 2 g 4 c 3 g 5 c 5 g 5 c 1 g 2 c 2 g 2
+c 2 g 4 c 6 g 7 c 5 g 4 c 2 g 2 c 1 g 2
+g 1 c 1 g 4 c 6 g 7 c 5 g 3 c 3 g 5
+g 1 c 1 g 3 c 6 g 7 c 11 g 3
+g 1 c 3 g 1 c 6 g 6 c 4 g 3 c 5 g 2
+c 4 g 5 c 7 g 7 c 5 g 1 e 6
+c 5 g 6 c 6 g 7 c 4 g 1 e 1 c 5 e 2
+c 1 e 2 c 3 g 6 c 6 g 7 c 3 g 1 e 1 c 8 e 1
+c 2 e 2 c 2 g 6 c 7 g 6 c 7 c 3 e 2
+c 3 e 2 c 2 g 6 c 19 c 3 e 1
+c 32 c 3
+c 7 c 2 c 10 g 1 c 1 g 1 c 1 c 3
+c 2 g 1 c 1 g 1 c 22 g 3 c 1 c 3
+c 1 g 3 c 23 g 1 c 2 e 1 c 3
+c 2 g 1 c 9 g 1 c 1 g 1 c 15 e 2 c 3
+c 12 g 3 c 15 e 3 c 3
+c 13 g 1 c 16 e 4 c 3
+c 30 e 1 c 5
+c 35
+c 4 g 1 c 1 g 1 c 12 g 1 c 1 g 1 c 9
+c 4 g 3 c 12 g 3 c 6
+h 4 c 5 g 1 c 14 g 1 c 7 h 3
+h 2 c 35 h 4
+h 1 c 2 h 5 c 26 h 4 c 4 h 2
+c 1 h 8 c 24 h 9 c 2 h 1
+h 10 c 22 h 12 c 1
+
+columns
+h 1 c 1 h 1
+h 1 c 1 h 2
+h 3 h 1 c 1 h 2
+h 7 h 1 c 1 h 3
+h 2 h 7 c 7 h 1 c 1 h 3
+h 2 h 9 c 1 e 2 c 6 g 1 c 6 h 1 c 1 h 3
+h 1 h 7 c 1 h 3 e 2 c 6 g 2 c 1 e 1 c 11 h 1 c 1 h 3
+h 2 h 9 c 2 h 2 e 1 g 6 c 4 e 2 c 3 g 2 c 9 h 3
+h 1 h 1 c 2 h 5 c 2 h 4 g 7 c 4 e 2 c 3 g 2 c 9 h 2
+h 1 h 2 c 2 h 11 g 6 c 5 e 1 c 2 g 2 c 11 h 1
+h 2 h 2 c 2 h 12 g 7 c 21
+h 1 h 16 c 7 g 4 c 10 g 2 c 5
+h 1 h 16 c 1 c 5 g 5 c 1 c 8 g 2 c 4
+h 1 h 1 h 14 c 1 c 5 g 5 c 1 c 7 g 2 c 5
+h 2 h 2 h 15 c 1 c 4 g 5 c 1 c 14
+h 1 h 1 h 11 c 2 h 3 c 1 c 4 g 5 c 1 c 14
+h 1 h 1 h 12 c 2 h 2 c 1 c 5 g 4 c 16
+h 1 h 1 h 11 c 2 h 3 g 1 g 4 c 4 g 1 c 16
+h 2 h 2 h 3 c 2 h 10 g 2 g 4 c 6 c 2 g 2 c 10
+h 1 h 1 h 5 c 2 h 9 g 7 c 6 c 3 g 2 c 9
+h 1 h 2 h 4 c 2 h 10 g 7 c 6 c 2 g 2 c 10
+h 1 h 19 g 7 c 6 c 14
+h 1 h 19 g 8 c 21
+h 19 c 1 g 6 c 1 g 3 c 18
+h 19 c 8 g 4 c 17
+h 20 c 8 g 4 c 17
+h 2 c 2 h 15 c 9 g 4 c 10 g 2 c 5
+h 4 c 2 h 14 c 8 g 5 c 11 g 2 c 4
+h 3 c 2 h 14 g 1 c 8 g 5 c 10 g 2 c 5
+h 12 c 2 h 5 g 8 c 1 g 5 c 17
+h 13 c 2 h 4 g 8 c 23
+h 11 c 1 h 5 g 9 c 23
+h 12 e 2 g 8 c 9 g 2 c 12 h 1
+b 2 h 3 g 1 e 2 c 1 g 7 c 6 g 1 c 4 g 2 c 10 h 2
+h 1 b 3 h 4 g 2 c 14 g 1 e 1 c 3 g 2 c 10 h 3
+h 2 b 2 h 5 g 2 c 7 g 7 e 1 c 13 h 1 c 1 h 3
+h 7 g 3 c 5 g 7 e 1 c 5 e 2 c 2 h 1 c 1 h 3
+h 3 g 1 g 1 c 2 g 2 e 1 c 2 e 1 c 3 h 1 c 1 h 3
+g 1 g 1 c 2 g 1 e 1 c 2 e 2 c 2 h 1 c 1 h 2
+g 2 c 2 g 2 e 1 c 2 e 2 c 2 h 1 c 1 h 2
+g 2 c 2 g 2 e 1 c 3 e 2 c 3 h 1 c 1 h 2
+g 4 c 2 g 2 e 2 c 3 e 2 c 3 h 1 c 1 h 2
+g 8 e 1 c 10 h 1 c 1 h 1
+g 4 e 2 c 7 h 1 c 1 h 1
+e 2 c 5 h 1 c 1

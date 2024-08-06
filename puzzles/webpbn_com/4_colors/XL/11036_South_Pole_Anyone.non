@@ -1,0 +1,97 @@
+by "Kim Barghouti (kimebar.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kim Barghouti"
+date "Nov 15, 2010"
+description "It would be nice to have yellow ;0)"
+difficulty 2.0
+height 45
+id 11036
+link "https://webpbn.com/play.cgi?id=11036"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "South Pole, Anyone?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 5
+red 12
+red 17
+red 5 black 10 red 4
+red 6 black 1 black 3 red 2
+red 3 black 2 black 2 red 2
+red 2 black 2 black 2
+red 2 black 7 black 7
+black 5 black 5 black 5
+black 2 black 2 blue 1 black 1 black 1 blue 1 black 5
+black 2 black 3 black 4 black 2
+black 2 black 3
+black 2 blue 3 black 2
+black 2 blue 3 black 2
+black 1 blue 3 black 2
+red 4 black 1 blue 1 black 1 red 4
+red 6 red 4
+red 8 red 7
+black 4 red 21
+black 6 red 18 black 3
+black 7 red 14 black 6
+black 9 black 8
+black 9 black 10
+black 9 black 10
+black 9 black 11
+black 9 black 11
+black 10 black 11
+black 10 black 10
+black 10 black 10
+black 10 black 10
+black 10 black 9
+black 10 black 9
+black 10 black 9
+black 9 black 8
+black 9 black 8
+black 9 black 6
+black 8 black 6
+black 7 black 5
+black 7 black 4
+black 5 black 3
+black 3 black 2
+black 2 black 4
+black 2 black 2
+black 16
+blue 5 blue 5
+
+columns
+black 16
+black 20
+black 23
+black 3 red 3 black 24
+red 4 black 4 red 3 black 25
+red 5 black 4 red 3 black 22 black 2
+red 4 black 4 red 4 black 21 black 1 blue 1
+red 3 black 4 red 4 black 19 black 1 blue 1
+red 3 black 1 black 3 red 5 black 15 black 1 blue 1
+red 4 black 3 red 4 black 7 black 1 blue 1
+red 2 black 2 black 1 black 1 red 4 black 1 blue 1
+red 2 black 1 black 1 blue 1 black 1 red 3 black 1
+red 3 black 1 black 4 red 3 black 1
+red 3 black 1 black 1 blue 3 black 1 red 3 black 1
+red 3 black 1 black 1 blue 4 red 3 black 1
+red 3 black 1 black 1 blue 3 black 1 red 3 black 1
+red 3 black 1 black 4 red 3 black 1 blue 1
+red 2 black 1 black 1 black 1 red 3 black 1 blue 1
+red 2 black 1 black 1 blue 1 black 1 red 3 black 1 blue 1
+red 2 black 2 black 4 red 3 black 5 black 1 blue 1
+red 3 black 2 black 3 red 4 black 9 black 2 blue 1
+red 2 black 6 red 4 black 12 black 2
+red 4 black 6 red 5 black 15 black 1
+red 3 black 7 red 5 black 19 black 1
+black 4 red 5 black 22
+red 4 black 22
+red 2 black 21
+black 19
+black 15
+black 11

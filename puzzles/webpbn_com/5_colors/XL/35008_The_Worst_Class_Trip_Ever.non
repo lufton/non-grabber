@@ -1,0 +1,113 @@
+by "Belita (belita)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Belita"
+date "Mar 27, 2021"
+description "It's a book by Dave Barry. I read it to the 5th graders and turned them all into Dave Barry fans. Can a group of kids on a school trip stop a nefarious plot against the white house? With a dragon?"
+difficulty 2.25
+height 40
+id 35008
+link "https://webpbn.com/play.cgi?id=35008"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "The Worst Class Trip Ever"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 22 red 1 blue 26
+blue 21 red 2 blue 26
+blue 21 red 1 blue 1 blue 26
+blue 23 blue 26
+blue 23 blue 26
+blue 23 blue 26
+blue 23 blue 26
+blue 23 blue 26
+blue 17 blue 15 green 7
+blue 1 green 4 green 10
+green 8 black 9 green 13
+black 1 green 9 black 8 black 9 green 2 green 10 black 1
+black 2 green 4 green 4 green 2 green 3 green 6 black 2
+green 1 black 1 green 5 green 3 black 1 black 1 black 2 black 2 black 2 black 2 black 2 black 1 black 1 green 13 black 2
+green 6 green 4 black 1 black 1 black 2 black 2 black 2 black 2 black 2 black 1 black 1 green 5 black 1 green 8 black 1
+green 2 black 2 green 8 black 1 black 2 black 2 black 2 black 2 black 2 black 1 green 6 black 1 green 7 black 2
+green 3 black 2 green 3 black 2 green 2 black 1 black 1 black 1 black 1 green 6 black 1 green 7 black 1 green 1
+green 4 black 1 green 4 black 1 green 3 black 1 black 2 black 2 black 2 black 2 black 2 black 1 black 1 green 7 black 2 green 5 black 1 green 1
+green 4 black 1 green 4 black 1 green 3 black 1 black 2 black 2 black 2 black 2 black 2 black 1 black 1 green 2 black 2 green 4 black 1 green 5 black 1 green 1
+green 4 black 2 green 2 black 2 green 3 black 1 black 2 black 2 black 2 black 2 black 2 black 1 green 3 black 1 green 4 black 3 green 5
+green 13 black 20 green 3 black 1 green 5 black 2 green 5
+green 13 green 3 black 2 green 11
+green 5 green 3 green 3 black 1 black 1 green 4 black 3 green 9
+green 2 green 4 green 2 black 3 black 4 black 3 green 11 black 3 green 2
+green 1 black 6 black 2 black 3 black 4 black 3 green 6 black 10
+black 2 green 5 black 1 black 3 black 4 black 3 green 2 black 7 green 7
+green 6 green 20 black 3 green 14
+green 1 red 1 green 4 red 3 red 11 red 14 green 10
+green 1 red 1 green 6 green 9 green 23
+green 2 red 1 green 6 green 5 red 2 black 1 green 20
+green 2 red 3 green 6 red 6 green 2 red 3 green 10 green 3 green 4
+green 3 red 2 red 12 green 1 green 9 green 3 green 4
+green 1 green 2 green 15 green 4 green 4
+green 1 green 4 red 2 green 3 green 9 green 3 green 3
+green 1 green 5 red 2 green 4 green 12 green 1 green 3
+green 1 black 1 green 4 red 1 green 4 green 3 green 2 green 12 green 4 green 3
+green 1 green 10 red 2 green 4 green 3 green 11 green 2
+green 1 green 9 red 1 green 4 green 2 green 10 green 3 green 1 green 3
+green 1 green 7 green 13 green 9 green 6 green 4
+green 1 green 8 green 11 green 16 green 4
+
+columns
+blue 10 green 1 black 2 green 12 green 13
+blue 9 green 3 black 2 green 10 green 3
+blue 9 green 6 black 1 green 7 black 1 green 1 red 1 green 1 green 1
+blue 9 green 6 black 2 green 6 black 2 green 2 red 1 green 3 green 4
+blue 9 green 7 black 4 green 3 black 1 green 4 red 2 green 3 green 4
+blue 9 green 9 black 1 green 2 green 1 black 1 green 5 red 1 green 2 black 1 green 4
+blue 9 green 2 green 1 green 9 black 1 green 5 red 2 green 7
+blue 9 green 3 green 10 black 1 green 2 red 1 green 3 red 1 green 5
+blue 9 green 5 black 1 green 2 black 1 green 4 black 1 green 1 red 1 green 3 green 5
+blue 9 green 5 black 4 green 2 red 1 green 3 green 5
+blue 9 black 1 green 11 green 2 green 2 green 1
+blue 9 black 1 green 9 black 1 green 1 red 1 green 2
+blue 9 black 1 black 2 black 1 green 7 black 2 green 1 red 1 red 1 green 1
+blue 9 black 1 black 1 green 1 red 2 red 2 green 1
+blue 9 black 1 black 8 green 1 red 1 red 2 red 3 green 1
+blue 9 black 1 black 1 black 3 green 1 red 1 red 2 green 1 red 2 green 2
+blue 9 black 1 black 3 black 4 black 4 green 1 red 1 green 1 red 2 green 5
+blue 8 black 1 black 3 black 4 black 3 green 1 red 1 green 1 red 2 green 5
+blue 8 black 1 black 1 green 1 red 1 green 2 red 2 green 5
+blue 8 black 1 black 3 black 4 green 1 red 1 green 3 red 1 green 4
+blue 8 black 1 black 3 black 4 green 1 red 1 green 3 red 1 green 2
+blue 1 red 2 blue 5 black 1 black 1 black 3 green 1 red 1 green 2 red 2 green 1 green 2
+red 2 blue 6 black 1 black 3 black 4 black 3 green 1 red 1 green 2 red 2 green 3 green 2
+black 1 black 3 black 4 black 3 green 1 red 1 green 1 red 2 green 4 green 2
+blue 8 black 1 black 1 black 3 green 1 red 1 green 1 red 1 green 2 green 4
+blue 8 black 1 black 3 black 4 green 1 green 4 green 3
+blue 8 black 1 black 3 black 4 green 1 red 1 black 1 green 2 green 1
+blue 8 black 1 black 1 green 1 red 1 green 1 green 1
+blue 9 black 1 black 3 black 4 black 3 green 1 red 1 green 1 green 8
+blue 9 black 1 black 3 black 4 black 4 green 1 red 1 green 1 green 1 green 8
+blue 9 black 1 black 1 black 3 green 1 red 1 green 12
+blue 9 black 1 black 8 green 1 red 1 green 12
+blue 9 black 1 black 1 green 1 red 1 green 12
+blue 9 black 1 black 2 black 3 black 1 red 1 green 12
+blue 9 black 1 green 11 black 1 red 1 green 12
+blue 9 black 1 green 14 black 1 red 1 green 12
+blue 9 green 7 black 1 green 6 black 1 green 1 red 1 green 12
+blue 9 green 2 green 5 black 4 green 3 black 1 green 1 red 1 green 5 green 4 green 1
+blue 9 green 1 green 9 black 2 green 2 black 1 green 1 red 1 green 5 green 3 green 1
+blue 9 green 12 black 1 green 2 black 1 green 1 red 1 green 2 green 1 green 2 green 2
+blue 9 green 5 black 3 green 5 black 1 green 1 black 2 green 4 green 3
+blue 9 green 3 green 4 black 1 green 6 black 2 green 7 green 3
+blue 9 green 8 black 3 green 4 black 2 green 10 green 3
+blue 8 green 11 black 2 green 3 black 1 green 9 green 1 green 2
+blue 8 green 11 black 2 green 3 black 1 green 5 green 2 green 4
+blue 8 green 15 black 2 green 5 green 2
+blue 8 green 15 black 2 green 8 green 3
+blue 8 green 15 black 2 green 11 green 3
+blue 8 green 4 black 2 green 1 black 4 green 5 black 1 green 11 green 3
+blue 8 green 3 black 5 green 8 black 1 green 11 green 2

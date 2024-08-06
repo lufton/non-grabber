@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "May 26, 2021"
+description "tree and leaf"
+difficulty 3.5
+height 20
+id 35119
+link "https://webpbn.com/play.cgi?id=35119"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Let's make like a ..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1 green 1 green 2 black 1 green 1 green 1 green 1 green 1
+green 1 green 1 black 1 green 1 green 2 green 1 black 1 green 1 green 1
+black 1 green 1 green 1 green 1 black 1 green 1 black 1 green 1
+green 1 green 1 black 1 green 1 green 1 black 2 green 1 black 1 green 1 black 2 green 1
+black 1 green 1 black 3 green 1 black 1 green 1 black 1 green 2 black 1 green 1 green 1
+green 1 black 1 green 1 green 1 black 2 green 1 black 3 green 1 black 3
+green 1 green 2 black 2 green 1 black 2 green 1 green 2 black 1 green 1 green 1
+black 2 green 1 black 1 green 1 black 3 green 1 black 1 green 1 green 1 green 2
+green 1 green 1 green 1 green 1 black 3 green 1 green 1 black 1
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 6
+black 11
+
+columns
+green 1 black 1 green 1
+green 1 black 1 green 2 black 1
+green 1 black 1 green 1
+green 2 black 2 green 2 black 1 green 1
+black 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1
+green 1 green 1 black 1 green 1 black 1 green 1 black 1
+green 1 green 1 black 2 black 1
+green 2 black 1 green 1 black 1 black 1 green 1 black 2
+black 1 green 1 black 3 green 1 black 13
+green 1 green 1 black 1 green 1 black 12
+green 1 green 2 black 15
+green 1 green 1 black 3 green 2 black 2
+black 2 green 2 black 1 green 1 black 2
+green 1 green 1 green 2 black 1
+green 1 black 2 green 1 black 1
+green 1 black 2 green 1 black 1 green 1
+green 1 green 1 black 1 green 2
+green 1 green 1 black 1 green 1 black 1
+green 2 green 1 black 1 green 1

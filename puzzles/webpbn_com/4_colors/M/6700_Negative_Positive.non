@@ -1,0 +1,62 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Teresa K"
+date "Sep 10, 2009"
+description "Negative image of positive charge of bright lightning striking a green field with golden dandelions in the dead of night."
+difficulty 2.25
+height 20
+id 6700
+link "https://webpbn.com/play.cgi?id=6700"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Negative Positive"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 2
+black 1
+black 1
+black 2
+black 1
+black 1
+black 3
+black 2 black 1
+black 2 black 2
+black 1 black 2
+black 2 black 3
+black 2 black 1 black 2
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 1 red 1 black 1 red 1
+black 1 black 1 red 1 red 1 black 1 red 1 red 1 red 1 red 1
+black 1 blue 1 red 2 blue 1 red 2 red 1 red 2 red 3 blue 1 red 2
+red 7 black 1 red 4 black 1 red 7
+
+columns
+black 6 red 1
+black 2 red 1
+black 3 blue 1 red 1
+black 3 black 2 red 2
+black 4 black 2 black 3 red 2
+black 4 black 2 red 1 blue 1 red 1
+black 7 red 2
+black 3 red 3 black 1
+black 2 red 1
+black 5 red 2
+red 1
+red 3
+red 1 black 1
+red 1
+red 3
+red 2
+red 4
+blue 1 red 1
+red 3
+red 2

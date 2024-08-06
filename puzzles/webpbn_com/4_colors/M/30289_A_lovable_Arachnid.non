@@ -1,0 +1,62 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct  4, 2017"
+description "Spider Man"
+difficulty 2.0
+height 20
+id 30289
+link "https://webpbn.com/play.cgi?id=30289"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "A lovable Arachnid"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 3
+red 3
+red 3
+red 3 blue 1 red 1
+red 5 blue 1 red 2
+red 2 black 1 red 1 red 3
+red 5 red 3 blue 1
+red 4 red 3 blue 1
+red 3 red 4 blue 1
+red 9 blue 1
+red 9 blue 1
+red 6 black 2 red 2
+red 8 black 1 red 2
+red 3 blue 2 red 6
+red 3 blue 4 red 5
+red 3 blue 1 blue 3 red 5
+blue 1 red 2 blue 3 red 4
+blue 2 red 1 blue 3 red 4
+blue 1 red 1 blue 2 red 3 blue 1
+blue 1 red 1 red 4 blue 3
+
+columns
+0
+red 1 blue 2
+red 3 blue 3
+red 8
+red 4 blue 1
+red 4 blue 1
+red 3 red 4 blue 2
+red 10 blue 3
+red 2 black 1 red 8 blue 3
+red 2 red 9 blue 3
+red 4 red 2 black 1 red 4 blue 3 red 1
+red 2 black 2 red 4 blue 2 red 1
+red 12
+red 1 red 12
+red 2 red 3 blue 1 red 4 blue 1
+red 3 red 3 blue 1 red 1 blue 2
+red 2 blue 2 red 3 blue 1 blue 1
+red 5 blue 1
+red 2 blue 1
+0

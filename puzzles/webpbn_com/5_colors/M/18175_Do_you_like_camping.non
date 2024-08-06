@@ -1,0 +1,63 @@
+by "Kaylee (kayleeg99)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kaylee"
+date "Apr  5, 2012"
+description "Outdoorsy"
+difficulty 2.0
+height 20
+id 18175
+link "https://webpbn.com/play.cgi?id=18175"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.25
+title "Do you like camping???"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 5
+green 5
+green 5
+green 5
+black 7 green 5
+black 1 black 1 green 5
+black 1 red 1 black 1 green 5
+black 1 red 3 black 1 green 1 black 3 green 1
+black 1 red 5 black 1 black 3
+black 7 black 3
+black 3
+blue 1 black 3
+blue 3 black 3
+blue 5 black 5
+blue 2 blue 1 blue 2 black 6
+blue 2 blue 1 blue 2
+blue 2 blue 1 blue 2
+blue 2 blue 1 blue 2
+blue 2 blue 1 blue 2
+blue 2 blue 1 blue 1
+
+columns
+blue 1
+black 6 blue 2
+black 1 red 1 black 1 blue 2
+black 1 red 2 black 1 blue 2
+black 1 red 3 black 1 blue 2
+black 1 red 2 black 1 blue 2
+black 1 red 1 black 1 blue 2
+black 6 blue 2
+blue 9
+blue 2
+blue 2
+blue 2
+blue 2
+blue 2
+black 1 blue 2
+green 8 black 2 blue 1
+green 7 black 8 blue 1
+green 7 black 8
+green 7 black 8
+green 8 black 2

@@ -1,0 +1,31 @@
+by "bahar1251"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/18/08"
+height 5
+id 58483
+link "https://www.griddlers.net/nonogram/-/g/58483"
+medium_time "0:00:14"
+points 4
+popularity 42.79
+title "Pyramid"
+width 5
+
+color a 333333
+color b ffffff
+color c ffff00
+color d ff9900
+
+rows
+d 4 c 1
+d 2 d 2
+d 1 d 1
+0
+b 1
+
+columns
+d 3
+d 2
+d 1 b 1
+d 2
+c 1 d 2

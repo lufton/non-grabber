@@ -1,0 +1,57 @@
+by "Marie-Louise Ambrey (Tazzy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Marie-Louise Ambrey"
+date "Oct  3, 2019"
+description "A lighthouse."
+difficulty 2.25
+height 25
+id 32984
+link "https://webpbn.com/play.cgi?id=32984"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Tall and bright, a wonderful sight!"
+width 15
+
+rows
+1
+1
+1,1
+5
+1,1
+1,1,1
+2,2
+2,2,8
+1,1,1
+5
+1,1
+1,1,1
+1,1,1
+1,1
+1,1
+1,1,1
+1,1,1
+1,1,1
+3,1,1
+1,3,1,1
+1,2,1,1
+9,1
+1,1,2,1
+1,1,1,1,2,1
+1,1,1,2,1
+
+columns
+1
+1,1
+1,5
+1,1,1
+1,1,1,2
+2,1
+2,1,1
+1,3
+2,8
+1,3,8,1
+3,2,1
+2,1,1,1,1,2,2,2,3
+3,2,1,3
+1,3,8
+2,8

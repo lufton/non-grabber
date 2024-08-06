@@ -1,0 +1,62 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/28/15"
+height 23
+id 151295
+link "https://www.griddlers.net/nonogram/-/g/151295"
+medium_time "0:04:21"
+points 1230
+popularity 79.12
+title "Fire Fairy"
+width 15
+
+color a 0a7500
+color b b33406
+color c a3f9fa
+color d f5c26a
+color e e64c4c
+color f 750017
+color g bd0026
+
+rows
+b 2 b 2
+b 7
+b 9
+c 1 b 3 d 3 b 3 c 1
+c 3 b 2 d 5 b 2 c 3
+c 3 b 2 d 3 b 2 c 3
+c 2 b 2 d 5 b 2 c 2
+c 2 b 2 d 3 b 2 c 2
+c 2 b 2 d 1 b 2 c 2
+c 1 d 2 e 1 d 2 c 1
+d 2 e 3 d 2
+d 2 c 1 e 3 c 1 d 2
+d 2 c 2 e 3 c 2 d 2
+c 2 f 2 e 1 f 2 c 2
+f 3 g 1 f 3
+f 2 g 3 f 2
+f 1 g 5 f 1
+g 1 d 1 g 1 d 1 g 1
+d 1 d 1
+d 1 d 1
+d 1 d 1
+d 1 d 1
+f 2 f 2
+
+columns
+c 2
+c 4
+c 4 d 1
+b 5 c 2 d 2 c 1
+b 7 c 2 d 2 c 2 f 3
+b 4 d 1 d 1 b 2 d 2 c 2 f 3 g 2 f 1
+b 3 d 5 b 1 d 1 e 3 f 2 g 2 d 5 f 1
+b 2 d 6 e 5 g 4
+b 3 d 5 b 1 d 1 e 3 f 2 g 2 d 5 f 1
+b 4 d 1 d 1 b 2 d 2 c 2 f 3 g 2 f 1
+b 7 c 2 d 2 c 2 f 3
+b 5 c 2 d 2 c 1
+c 4 d 1
+c 4
+c 2

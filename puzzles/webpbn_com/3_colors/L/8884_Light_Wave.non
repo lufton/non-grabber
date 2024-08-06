@@ -1,0 +1,76 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "May 20, 2010"
+description "A chibi astronaut waving."
+difficulty 2.5
+height 30
+id 8884
+link "https://webpbn.com/play.cgi?id=8884"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Light Wave"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4 black 8
+black 1 black 1 black 3 blue 6 black 3
+black 1 black 3 blue 8 black 3
+black 1 black 1 blue 2 blue 8 black 1
+black 1 black 2 blue 2 blue 8 black 2
+black 1 black 2 blue 6 blue 2 black 2
+black 1 black 2 blue 5 blue 1 black 2
+black 2 black 2 blue 4 black 2
+black 2 black 2 blue 4 black 2
+black 2 black 2 blue 4 black 2
+black 2 black 1 blue 4 black 1
+black 2 blue 1 black 2 blue 4 black 3
+black 2 blue 2 black 2 blue 4 black 2 black 2
+black 2 blue 1 black 10 black 2
+black 2 black 5 black 2
+black 2 black 2
+black 2 black 2
+black 3 black 1 blue 1 black 2
+black 2 black 2 blue 1 black 2
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 2 black 4
+black 2 black 2 blue 3
+black 3 black 3 blue 4
+black 3 black 4 black 3 blue 3
+black 2 black 1 blue 2 black 1 black 2 blue 2
+black 2 black 2 blue 2 black 2 black 2 blue 2
+black 6 blue 4 black 6 blue 4
+
+columns
+black 6
+black 1 black 6
+black 1 black 7
+black 1 blue 2 black 2 black 2
+black 1 blue 2 black 2 black 3
+black 1 black 6 black 2 black 2 black 1
+black 10 black 2 black 2 black 1
+black 2 blue 8 black 2 black 9 black 1
+black 2 blue 9 black 2 black 8 black 1
+black 2 blue 1 blue 8 black 1 black 1
+black 1 blue 2 blue 8 black 1 black 2
+black 1 blue 6 blue 2 black 2 black 3 blue 1
+black 1 blue 5 blue 1 black 2 black 1 blue 3
+black 1 blue 4 black 2 black 1 blue 3
+black 1 blue 4 black 2 black 3 blue 1
+black 1 blue 4 black 2 black 2
+black 2 blue 3 black 1 black 1
+black 2 blue 3 black 2 black 7 black 1
+black 2 blue 4 black 2 black 9 black 1
+black 10 black 1 black 2 black 1
+black 6 black 2 blue 2 black 1 black 2 black 1
+black 11 blue 1 black 3 blue 1
+black 10 blue 3 black 2 blue 1
+blue 6
+blue 6

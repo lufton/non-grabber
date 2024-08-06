@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb  4, 2011"
+description "an unrecognizable sea creature leaps up to catch the ball (ball is now red to make it more solvable)"
+difficulty 1.75
+height 20
+id 12059
+link "https://webpbn.com/play.cgi?id=12059"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "and then, before it reaches the water,"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 1
+black 3 black 2
+black 2 red 1 black 2 black 5 black 3
+black 2 red 3 black 2 black 3 black 7
+black 1 red 5 black 1 black 1 blue 1 black 6
+black 2 red 3 black 2 black 2 black 4
+black 2 red 1 black 2 black 3 black 2
+black 3 black 3
+black 5
+black 6
+black 3 black 2
+black 2
+blue 6 blue 11 black 1
+blue 8 blue 10
+blue 3 blue 4 blue 3
+blue 4 blue 13
+blue 6 blue 9
+
+columns
+black 3 blue 5
+black 2 red 1 black 2 blue 5
+black 2 red 3 black 2 blue 5
+black 1 red 5 black 1 blue 2 blue 2
+black 2 red 3 black 2 blue 2 blue 1
+black 2 red 1 black 2 blue 3 blue 1
+black 3 blue 2
+blue 3
+black 3 blue 1 blue 2
+black 2 black 2 blue 1 blue 1
+black 2 black 1 blue 2 blue 1
+black 1 black 2 blue 2 blue 2
+black 1 blue 1 black 2 blue 2 blue 2
+black 2 black 5 blue 2 blue 2
+black 2 black 4 blue 2 blue 2
+black 2 black 3 blue 2 blue 2
+black 3 black 2 blue 2 blue 2
+black 4 black 1 blue 5
+black 6 black 2 blue 5
+black 7 black 1 black 1 blue 4

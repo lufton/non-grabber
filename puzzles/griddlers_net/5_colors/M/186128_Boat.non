@@ -1,0 +1,62 @@
+by "koompalade"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/21/17"
+height 20
+id 186128
+link "https://www.griddlers.net/nonogram/-/g/186128"
+medium_time "0:01:02"
+points 151
+popularity 69.94
+title "Boat"
+width 20
+
+color a 003366
+color b 000000
+color c FFFFFF
+color e 0000ff
+color h FFFF99
+
+rows
+c 3
+c 5
+c 5
+c 5
+b 1 c 3
+c 1 b 1
+c 2 b 1
+c 2 b 1
+c 3 b 1
+c 4 b 1
+b 1
+b 1
+h 10
+h 8
+h 6
+e 20
+e 20
+e 20
+e 20
+e 20
+
+columns
+e 5
+e 5
+e 5
+e 5
+e 5
+e 5
+h 1 e 5
+h 2 e 5
+c 1 h 3 e 5
+c 2 h 3 e 5
+c 4 h 3 e 5
+c 5 h 3 e 5
+b 8 h 3 e 5
+h 3 e 5
+h 2 e 5
+c 3 h 1 e 5
+c 5 e 5
+c 5 e 5
+c 5 e 5
+c 3 e 5

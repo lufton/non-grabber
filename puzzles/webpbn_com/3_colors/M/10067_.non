@@ -1,0 +1,61 @@
+by "Beth Greenwald (bethgreenwald)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Beth Greenwald"
+date "Aug 23, 2010"
+description ""
+difficulty 1.75
+height 20
+id 10067
+link "https://webpbn.com/play.cgi?id=10067"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title ""
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 2 black 1 black 4 black 4
+black 2 black 4 black 2 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1 black 4
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 4 black 1 black 1
+black 4 red 7
+black 4 red 2 red 2
+black 4 red 2 red 2
+black 4 red 3
+black 4 red 1
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+red 20
+
+columns
+black 2 red 1
+black 2 red 1
+black 3 red 1
+black 2 red 1
+black 2 red 1
+black 7 red 1
+black 1 black 3 red 1
+black 1 black 4 red 1
+black 1 black 5 red 1
+black 5 black 12 red 1
+red 2 black 11 red 1
+black 5 red 3 black 10 red 1
+black 1 black 1 red 1 red 2 black 9 red 1
+black 1 black 1 red 1 red 2 red 1
+black 1 black 1 red 1 red 2 red 1
+red 3 red 1
+black 5 red 2 red 1
+black 1 black 1 red 1
+black 1 black 1 red 1
+black 5 red 1

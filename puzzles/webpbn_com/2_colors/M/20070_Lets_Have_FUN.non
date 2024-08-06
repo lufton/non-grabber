@@ -1,0 +1,57 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jota"
+date "Oct 15, 2012"
+description "Halloween is coming: dress your pumpkin or dress yourself, your children or the neighbor's dog; dress your house, scare your coworkers do something and most important make a puzzle of it!"
+difficulty 2.75
+height 20
+id 20070
+link "https://webpbn.com/play.cgi?id=20070"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Let's Have FUN!"
+width 20
+
+rows
+1
+6,1,4
+2,5,2
+2,2
+1,2,3,2
+1,2
+2,3,1
+1,3,4,1
+1,3,1,2,1
+1,1,1
+1,2,1
+1,1
+1,2,2,1
+1,3,3,3,1
+2,3,3,2
+1,1
+2,2
+1,3
+3,2
+11
+
+columns
+9
+4,3
+2,3
+2,1,1
+1,3,2,2
+1,1,3,1,1
+1,1,3,2,1
+1,1,1
+2,2,1
+1,3,1,1
+3,1,2,1
+1,1,1
+2,1,1,2,1
+1,1,2,1,1
+1,1,2,2,2
+2,1,1,2
+2,1
+2,2
+2,3
+10

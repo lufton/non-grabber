@@ -1,0 +1,102 @@
+by "Brian Howard (oduck83)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Howard"
+date "Jun 27, 2019"
+description "A classic cryptarithmetic puzzle, with the twist that the letters are replaced by similar currency symbols: S = dollar, E = euro, N = Nigerian naira, D = Vietnamese dong, M = Azerbaijani manat, R = Russian ruble, Y = Japanese yen, and O = a generic currency sign."
+difficulty 2.5
+height 35
+id 32542
+link "https://webpbn.com/play.cgi?id=32542"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "All Denominations are Welcome..."
+width 50
+
+rows
+1,1
+5,5,1,1,5
+2,1,2,2,2,2,1,1
+1,1,6,7,5
+7,1,1,1,1,2,2
+1,1,6,7,1,1
+2,1,2,2,2,1,2,2,2
+5,5,1,1,5
+1
+5
+1
+5,1,3,1,4,5
+1,2,1,2,2,2,1,2,2,2
+1,1,1,1,2,2,1,2,6
+5,1,1,1,1,1,5,1
+1,1,1,1,2,2,1,6
+1,1,1,1,2,2,4,2,2
+1,1,1,1,3,1,1,5
+1
+0
+0
+0
+50
+0
+0
+1
+5,1,3,1,1,1,5,2,2
+2,1,2,2,2,2,1,2,2,2,2
+1,1,1,2,2,7,6,7
+1,1,1,1,1,1,1,1,1,1
+1,1,1,2,2,7,6,7
+1,1,1,2,2,1,2,2,2,1
+1,1,1,1,3,1,1,1,5,1
+1
+0
+
+columns
+1
+1,6
+1,1,2
+1,1,1
+5,1,9
+1,1,1
+1,1,2
+1,6
+1
+1
+1
+3,1,6,1,1,3,1
+2,1,2,2,1,2,2
+1,1,1,1,1,2,2
+9,9,1,1,1
+1,1,1,1,1,2,2
+2,1,2,2,1,2,2
+1,3,6,1,1,3,1
+1
+1
+1,1,1,1,1
+5,1,3,1,1,7
+3,3,2,2,1,2,1
+1,1,1,1,2,2,1,3
+1,1,1,1,1,1,1,1,2
+1,1,1,1,2,2,1,7
+2,2,2,2,1,1,1
+1,1,1,3,1,1
+1
+1
+1,1,1,1,1,1,1
+7,7,1,5
+2,1,1,1,1,1,3,3
+3,1,1,1,1,1,1,1,1
+1,2,4,1,1,1,1,1
+7,2,1,1,1,1,1
+1,1,1,2,2
+1,1,1
+1
+1
+3,1,1,1
+2,2,1,5,1,1,1,1
+1,1,1,1,3,3,1,3,1
+1,1,1,1,1,1,1,1,1,2,1
+1,2,2,1,1,1,1,1,1,5
+8,1,1,1,1,1,1,2,1
+1,2,2,1,3,1
+1,1,1,1,1,1
+1
+1

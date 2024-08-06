@@ -1,0 +1,76 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Joe"
+date "Apr 29, 2018"
+description "Give it here! (7 letters) -See comment 1"
+difficulty 2.75
+height 25
+id 31122
+link "https://webpbn.com/play.cgi?id=31122"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Cryptic Puzzle 8"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 2
+red 1 red 3
+red 2 red 2 black 7 red 3
+red 5 red 1 black 6 red 2
+red 1 red 2 red 1 black 5 red 2 red 1
+red 3 red 2 red 1 black 3 red 3 red 3
+red 2 red 1 red 2 black 1 red 2 red 3
+red 1 red 2 black 1 red 1 red 3 red 2
+red 2 red 3 red 2
+black 1 red 3 red 2 red 1 red 4
+black 3 red 3 red 1 red 1 red 12
+red 3 red 1 red 1 red 2
+red 1 red 1
+red 2 red 8
+red 12 red 1 black 2 red 1 red 7
+black 7 red 1 red 4 red 1 black 3 red 1 red 4
+black 6 red 1 red 2 black 1 black 1 red 1
+black 6 red 1 red 1 black 6 red 3
+red 1 red 1 black 1 black 2 red 1
+black 5 red 1 red 1 black 10 red 2
+black 5 red 1 red 2 black 12 red 3
+black 5 red 1 red 1 black 16
+black 5 red 1 red 1 black 16
+black 5 red 1 red 1 black 16
+black 5 red 1 red 1 black 16
+
+columns
+red 2 black 2 red 1 black 3 black 6
+red 2 black 1 red 1 black 3 black 6
+red 3 red 1 black 1 red 1 black 3 black 6
+red 2 red 2 red 2 red 1 black 3 black 6
+red 2 red 2 red 1 red 1 black 3 black 6
+red 1 red 2 red 1 black 3 red 7
+red 2 red 1 red 1 black 1 red 2
+red 2 red 1 red 3
+red 3 red 3
+red 5 red 1
+black 1 red 2 red 2
+red 3 red 2 red 2
+red 5 red 1
+black 4 red 2 red 2 red 5
+black 5 red 1 red 1 red 5 black 4
+black 4 red 2 red 3 black 9
+black 3 red 2 red 6 black 2 black 1 black 6
+black 3 red 1 red 1 red 1 red 1 black 2 black 1 black 6
+black 2 red 2 red 1 red 1 red 2 black 1 black 1 black 6
+black 1 red 2 red 2 red 1 red 1 red 1 black 2 black 6
+red 2 red 1 red 1 red 1 red 1 black 1 black 6
+red 1 red 2 red 1 red 2 red 1 black 6
+red 2 red 1 red 1 red 2 red 1 black 7
+red 1 red 2 red 1 red 1 red 1 black 7
+red 2 red 1 red 1 red 1 black 6
+red 1 red 1 red 1 red 1 black 5
+red 2 red 2 red 1 black 5
+red 2 red 2 red 1 black 4
+red 2 red 1 red 1 black 4
+red 2 red 1 red 1 black 4

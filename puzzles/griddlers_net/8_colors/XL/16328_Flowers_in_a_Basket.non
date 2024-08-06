@@ -1,0 +1,90 @@
+by "Ratbag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/24/05"
+height 25
+id 16328
+link "https://www.griddlers.net/nonogram/-/g/16328"
+medium_time "0:30:47"
+points 22083
+popularity 78.88
+title "Flowers in a Basket"
+width 40
+
+color a 88aefe
+color b 00a57c
+color c 753cb1
+color d 9a00e5
+color e ff65fe
+color f 00685f
+color g 8e3a30
+color h ff00a6
+
+rows
+0
+0
+c 3
+c 1 d 3 c 1 h 3
+e 1 c 1 d 3 c 1 e 1 h 1 e 3 h 1 d 2
+f 2 c 2 e 1 c 1 d 1 c 1 e 1 c 2 d 1 h 1 e 3 h 1 d 1 d 3
+f 1 b 1 c 1 d 2 c 1 d 1 h 1 d 1 c 1 d 2 c 1 h 2 d 1 h 1 e 1 h 1 d 1 h 2 f 1 d 1
+h 2 f 1 b 2 c 1 d 3 h 1 e 1 h 1 d 3 c 1 e 2 h 1 e 1 c 1 e 1 h 1 e 2 h 1 f 1 c 2
+h 3 b 2 c 1 d 2 c 1 d 1 h 1 d 1 c 1 d 2 c 1 e 3 c 1 d 1 c 1 e 3 h 1 f 1 c 3
+e 2 h 1 f 1 b 1 f 1 b 1 c 2 e 1 c 1 d 1 c 1 e 1 c 2 h 1 e 2 h 1 e 1 c 1 e 1 h 1 e 2 h 1 b 1 f 1 c 1
+e 3 f 2 b 1 f 1 b 1 e 1 c 1 d 3 c 1 e 1 f 2 h 2 d 1 h 1 e 1 h 1 d 1 h 2 f 4
+e 1 f 1 f 3 b 4 c 1 d 3 c 1 f 2 b 2 d 1 h 1 e 3 h 1 d 1 f 1 b 3 f 2
+f 2 b 3 f 4 b 1 c 3 f 2 b 1 f 2 b 1 h 1 e 3 h 1 f 1 b 5 f 1
+f 2 b 3 f 2 b 3 f 5 b 3 f 1 b 2 h 3 b 2 f 1 b 4 f 1
+f 1 b 3 f 1 b 3 f 1 b 1 f 1 b 2 f 1 b 4 f 3 b 1 f 1 b 3 f 1 b 1 f 2 b 1 f 1
+f 1 b 3 f 1 b 4 f 1 b 1 f 1 b 1 f 1 b 3 f 2 b 3 f 1 b 2 f 1 b 1 f 1 b 3 f 1
+g 2 f 5 b 2 f 1 b 1 f 1 b 3 f 1 b 2 f 1 b 2 f 2 b 1 f 1 b 1 f 1 b 2 f 1 b 3 f 1 g 2
+g 2 f 1 g 3 f 1 b 3 f 1 b 1 f 1 b 2 f 1 b 4 f 2 b 2 f 1 b 3 f 1 b 1 f 1 b 2 f 1 g 2
+g 5 f 1 b 2 f 1 b 4 f 2 b 3 f 1 b 1 f 1 b 1 f 1 g 1 f 1 b 2 f 1 b 2 f 2 g 2
+g 5 f 1 b 2 f 1 b 4 f 3 b 4 f 3 g 1 f 3 b 4 f 1 g 2
+g 5 f 1 b 5 f 2 g 1 f 3 b 2 f 2 g 4 f 6 g 1
+g 5 f 1 b 4 f 2 g 4 f 4 g 12
+g 4 f 5 g 8 f 1 g 12
+g 30
+g 28
+
+columns
+0
+0
+g 2
+e 2 g 4
+e 3 f 5 g 4
+e 1 f 3 b 2 f 1 g 7
+h 2 f 1 b 3 f 1 g 8
+h 3 f 1 b 4 f 1 g 8
+f 1 h 1 f 3 b 2 f 6 g 5
+f 1 b 3 f 2 b 1 f 1 b 6 f 3 g 2
+f 1 b 3 f 1 b 2 f 2 b 8 f 1 g 2
+f 1 c 3 b 1 f 1 b 1 f 1 b 3 f 1 b 1 f 2 b 2 f 1 g 2
+c 1 d 3 c 1 b 2 f 1 b 1 f 1 b 2 f 1 b 4 f 1 g 2
+e 1 c 1 d 3 c 1 e 1 b 1 f 1 b 2 f 2 b 5 f 1 g 2
+c 2 e 1 c 1 d 1 c 1 e 1 c 2 b 1 f 2 b 2 f 1 b 3 f 1 g 3
+c 1 d 2 c 1 d 1 h 1 d 1 c 1 d 2 c 1 f 1 b 1 f 1 b 4 f 2 g 3
+c 1 d 3 h 1 e 1 h 1 d 3 c 1 f 1 b 4 f 3 g 4
+c 1 d 2 c 1 d 1 h 1 d 1 c 1 d 2 c 1 f 7 g 5
+c 2 e 1 c 1 d 1 c 1 e 1 c 2 f 2 b 5 f 2 g 4
+e 1 c 1 d 3 c 1 e 1 f 2 b 7 f 1 g 4
+c 1 d 3 c 1 f 2 b 4 f 1 b 3 f 2 g 3
+c 3 h 1 f 1 b 1 f 1 b 2 f 1 b 2 f 1 b 2 f 1 g 3
+h 1 e 3 h 1 b 1 f 4 b 1 f 1 b 3 f 2 g 2
+d 1 h 1 e 3 h 1 d 1 b 2 f 1 b 1 f 6 g 3
+h 2 d 1 h 1 e 1 h 1 d 1 h 2 b 1 f 1 b 1 f 1 b 2 f 2 g 4
+h 1 e 2 h 1 e 1 c 1 e 1 h 1 e 2 h 1 b 4 f 2 g 5
+h 1 e 3 c 1 d 1 c 1 e 3 h 1 f 4 g 7
+h 1 e 2 h 1 e 1 c 1 e 1 h 1 e 2 h 1 b 4 f 2 g 5
+h 2 d 1 h 1 e 1 h 1 d 1 h 2 b 3 f 1 b 2 f 1 g 5
+d 1 h 1 e 3 h 1 d 1 f 1 b 2 f 1 b 3 f 2 g 4
+h 1 e 3 h 1 f 1 b 1 f 2 b 2 f 2 b 1 f 1 g 4
+h 3 f 1 b 4 f 2 b 3 f 1 g 4
+d 1 f 3 b 1 f 1 b 3 f 1 b 2 f 1 b 2 f 1 g 4
+d 3 f 1 b 3 f 1 b 3 f 1 b 1 f 1 g 4
+d 2 c 1 f 3 b 6 f 3 g 3
+c 3 f 7 g 4
+c 2 g 4
+g 2
+0
+0

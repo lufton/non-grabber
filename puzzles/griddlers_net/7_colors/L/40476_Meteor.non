@@ -1,0 +1,84 @@
+by "alembic42"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/4/06"
+height 30
+id 40476
+link "https://www.griddlers.net/nonogram/-/g/40476"
+medium_time "0:20:48"
+points 6047
+popularity 73.62
+title "Meteor"
+width 30
+
+color a 000000
+color b ffffff
+color c ffcc66
+color d ff0000
+color f 990033
+color g 00ffff
+color h 00ccff
+
+rows
+c 1
+b 1
+0
+d 5
+d 9
+b 1 b 1 d 3 h 5 d 3 c 1
+b 3 d 2 h 3 g 3 h 3 d 2
+b 1 d 2 h 2 g 6 h 1 d 2
+f 1 d 1 h 2 g 1 g 5 h 2 d 2
+f 1 d 1 h 3 g 7 h 1 d 2
+f 2 d 1 h 2 g 1 g 6 h 1 d 2 c 1
+f 2 d 1 h 4 g 7 h 1 d 2 c 3
+f 2 d 1 h 3 g 1 g 1 g 1 g 1 h 2 d 2 c 1
+c 1 f 2 d 1 h 4 g 1 h 1 g 1 h 1 g 1 h 2 d 2
+c 2 f 2 d 1 h 11 d 2
+c 2 f 2 d 1 h 8 d 3
+b 1 c 2 f 3 d 1 h 4 d 5 b 1
+c 4 f 3 d 4 f 3
+c 5 f 9
+c 1 c 4 f 6
+c 1 c 9
+c 1 c 3 c 5
+c 3 c 3 b 1
+c 1 c 1 c 1 c 1 b 3
+c 1 c 1 c 1 b 1
+c 1 c 1 b 1
+b 3 b 1
+b 1
+b 1
+0
+
+columns
+b 1 b 1
+b 3
+b 1
+c 1
+c 1 c 1 c 1
+c 1 c 1 c 1 c 1
+c 3 c 3 c 1 b 1
+c 5 c 3 c 1
+c 1 c 9 c 1
+b 1 f 6 c 4 c 1
+f 9 c 5
+f 3 d 4 f 3 c 4
+d 5 h 4 d 1 f 3 c 2
+d 3 h 8 d 1 f 2 c 2
+d 2 h 11 d 1 f 2 c 2
+d 2 h 2 g 1 h 1 g 1 h 1 g 1 h 4 d 1 f 2 c 1 b 1
+d 2 h 2 g 1 g 1 g 1 g 1 h 3 d 1 f 2 b 3
+d 2 h 1 g 7 h 4 d 1 f 2 b 1
+d 2 h 1 g 6 g 1 h 2 d 1 f 2
+d 2 h 1 g 7 h 3 d 1 f 1
+d 2 h 2 g 5 g 1 h 2 d 1 f 1
+d 2 h 1 g 6 h 2 d 2 b 1
+d 2 h 3 g 3 h 3 d 2
+d 3 h 5 d 3
+d 9
+d 5 b 1
+b 3
+b 1 c 1 c 1 b 1 b 1
+c 3
+c 1

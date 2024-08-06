@@ -1,0 +1,83 @@
+by "erim dilmen (erim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by erim dilmen"
+date "Oct  9, 2013"
+description "Dice"
+difficulty 1.75
+height 30
+id 22924
+link "https://webpbn.com/play.cgi?id=22924"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Dice"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+green 1
+green 3 red 1
+green 5 red 3
+green 3 green 3 red 5
+green 9 red 3 red 3
+blue 1 green 5 green 5 red 3 red 5
+blue 3 green 9 black 1 red 3 red 3 red 3
+blue 5 green 3 green 3 black 3 red 5 red 3
+blue 7 green 5 black 5 red 3 red 3
+blue 4 blue 4 green 3 black 3 black 3 red 5
+blue 11 green 1 black 9 red 3
+blue 4 blue 4 red 1 black 3 black 3 black 3 red 1
+blue 7 red 3 black 9 blue 1
+blue 5 red 5 black 3 black 3 blue 3
+blue 3 red 7 black 5 blue 5
+blue 1 red 9 black 3 blue 7
+red 5 red 5 black 1 blue 3 blue 1 blue 3
+red 9 blue 5 blue 5
+red 7 blue 3 blue 1 blue 3
+red 5 blue 7
+red 3 blue 5
+red 1 blue 3
+blue 1
+0
+
+columns
+blue 1
+blue 3
+blue 5
+blue 7
+blue 9
+blue 4 blue 1 blue 4 red 1
+green 1 blue 9 red 3
+green 3 blue 7 red 5
+green 5 blue 5 red 7
+green 7 blue 3 red 9
+green 9 blue 1 red 5 red 5
+green 3 green 1 green 1 green 3 black 1 red 9
+green 9 black 3 red 7
+green 7 black 5 red 5
+green 5 black 3 black 3 red 3
+green 3 black 9 red 1
+green 1 black 3 black 3 black 3 blue 1
+red 1 black 9 blue 3
+red 3 black 3 black 3 blue 5
+red 5 black 5 blue 7
+red 3 red 3 black 3 blue 3 blue 1 blue 3
+red 3 red 5 black 1 blue 5 blue 5
+red 3 red 3 red 3 blue 3 blue 1 blue 3
+red 5 red 3 blue 7
+red 3 red 3 blue 5
+red 5 blue 3
+red 3 blue 1
+red 1
+0
+0

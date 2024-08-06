@@ -1,0 +1,101 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Arduinna"
+date "Aug 16, 2008"
+description ""Vanitas Still Life with a Tulip, Skull, and Hour-glass" by Phillipe de Champaigne (1602-1674). I felt like doing a still life. Art class time-- what is the symbollic meaning of the objects in this painting? Discuss."
+difficulty 2.5
+height 30
+id 3286
+link "https://webpbn.com/play.cgi?id=3286"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Pixilated Painting #11"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 3
+red 1 red 4
+red 3 red 4 black 7
+red 3 red 2 red 2 black 9
+red 3 red 1 red 4 black 8 black 9
+red 3 red 1 red 3 black 3 black 3 black 1 black 1
+red 2 red 2 red 2 black 2 black 2 black 2 black 2
+red 2 red 1 red 3 black 2 black 2 black 2 black 2
+red 2 red 1 red 3 black 1 black 2 black 3 black 3
+red 6 black 2 black 5 black 1 black 1 black 1 black 1
+red 4 black 1 black 6 black 1 black 2 black 2 black 1
+black 1 black 1 black 5 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 3 black 4 black 1 black 3 black 1
+black 1 black 1 black 4 black 8 black 1 black 3 black 1
+black 2 black 2 black 4 black 8 black 1 black 2 black 2 black 1
+black 2 black 1 black 5 black 3 black 2 black 1 black 1 black 1 black 1
+black 14 black 2 black 12 black 5
+black 2 black 2 black 1 black 2 black 1 black 3 black 2 black 1 black 2 black 1
+black 4 black 1 black 2 black 4 black 4 black 1 black 3 black 1 black 2
+black 6 black 4 black 4 black 1 black 5 black 1 black 1
+black 8 black 2 black 2 black 9 black 2
+black 8 black 2 black 6 black 2 black 9 black 1
+black 8 black 1 black 6 black 1 black 7 black 2
+black 6 black 2 black 2 black 1
+black 4 black 2 black 2 black 1
+black 8 black 1
+black 1
+black 50
+black 50
+
+columns
+black 1 black 3 black 2
+red 2 red 4 black 1 black 5 black 2
+red 8 black 1 black 7 black 2
+red 4 red 2 black 11 black 2
+red 2 red 5 black 14 black 2
+red 3 red 2 red 2 black 1 black 7 black 2
+red 6 red 4 black 1 black 5 black 2
+red 4 red 5 black 1 black 3 black 2
+red 2 red 5 black 1 black 2
+red 3 black 1 black 2
+red 2 black 1 black 2
+red 1 black 1 black 2
+black 6 black 1 black 2
+black 3 black 4 black 2
+black 2 black 3 black 2
+black 2 black 5 black 2
+black 1 black 3 black 4 black 2 black 2
+black 2 black 4 black 3 black 2 black 2
+black 1 black 4 black 2 black 1 black 2
+black 1 black 4 black 1 black 2 black 1 black 2
+black 1 black 4 black 2 black 1 black 2
+black 1 black 3 black 2 black 1 black 2
+black 1 black 3 black 1 black 2 black 1 black 2
+black 1 black 4 black 2 black 1 black 2
+black 2 black 1 black 4 black 3 black 2 black 2
+black 1 black 3 black 3 black 4 black 2 black 2
+black 2 black 6 black 7 black 2
+black 14 black 2
+black 11 black 2
+black 6 black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 19 black 2
+black 3 black 3 black 2 black 3 black 2
+black 3 black 3 black 3 black 4 black 2
+black 3 black 5 black 5 black 2
+black 3 black 2 black 6 black 2
+black 3 black 5 black 5 black 2
+black 3 black 3 black 3 black 4 black 2
+black 3 black 3 black 2 black 3 black 2
+black 19 black 2
+black 1 black 2
+black 3 black 2
+black 3 black 2
+black 3 black 2
+black 7

@@ -1,0 +1,102 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/2/10"
+height 34
+id 97039
+link "https://www.griddlers.net/nonogram/-/g/97039"
+medium_time "0:36:57"
+points 53590
+popularity 71.43
+title "Fluffy Little Lamb"
+width 43
+
+color a 6e7a90
+color b 000000
+color c dd9c08
+color d 875600
+color e ff9999
+color f eaecee
+color g ffffff
+color h f4f416
+
+rows
+h 5
+h 3 h 1
+f 3 f 2 g 3 h 2 h 2
+f 2 g 3 f 1 g 7 h 2 h 2
+f 2 g 3 f 1 g 9 h 1 h 2
+f 1 g 1 f 1 g 7 d 1 g 4 h 2
+f 2 g 7 d 3 f 1 g 2 f 1 g 4 g 5 h 4
+f 2 g 5 f 1 d 4 f 2 h 1 f 3 g 8 h 3 h 2
+f 2 g 1 f 2 g 3 f 1 d 4 f 2 h 1 f 1 g 9 h 1 g 3 h 2
+f 4 d 1 f 1 g 2 f 1 d 8 f 1 g 7 h 2 g 4 f 1 g 1 h 2
+d 4 f 2 g 1 f 2 d 9 g 5 h 1 g 7 f 1 g 5
+d 3 b 1 d 1 f 1 g 3 f 2 d 8 g 5 h 1 g 7 f 1 g 6
+d 7 f 3 g 1 f 2 d 6 g 5 h 1 g 9 f 1 g 1 f 1 g 3
+d 8 f 1 g 3 f 2 h 1 f 4 g 5 h 1 g 9 f 2 g 1 f 3
+d 7 f 1 g 5 f 1 h 2 g 7 h 2 g 8 f 1 f 4
+d 5 f 3 g 5 h 2 g 6 f 1 h 2 g 9 h 2
+h 2 f 2 g 7 h 1 e 3 g 4 f 1 h 3 g 5 f 1 g 2 h 4
+h 2 f 1 g 2 h 5 g 1 e 5 g 3 f 1 h 3 g 6 f 2 c 1 h 6
+h 1 f 2 g 4 h 3 e 6 g 2 f 2 h 2 f 1 g 1 f 1 g 1 f 1 g 1 f 1 c 3 h 2
+h 2 f 1 h 2 f 1 g 2 f 1 h 2 e 6 g 2 f 2 h 3 f 1 g 1 f 3 c 5 h 1
+h 1 h 1 f 1 g 2 f 1 e 3 h 1 e 5 f 1 g 2 f 2 h 2 f 4 c 7 h 2
+h 2 h 2 f 2 g 1 e 10 f 2 g 1 f 2 h 3 f 2 d 2 c 6 h 2
+h 4 f 2 g 1 f 1 e 10 f 4 h 2 d 2 c 7 h 2
+h 2 f 4 e 8 h 3 f 2 h 2 d 3 c 6
+f 4 e 9 h 2 h 2 d 3 c 6
+d 1 f 3 c 1 e 8 h 2 h 1 d 3 c 6
+d 3 c 5 h 3 h 1 d 3 c 6
+d 4 c 5 h 5 d 4 c 5
+d 3 c 6 h 2 d 4 c 5
+d 4 c 5 d 3 c 5
+d 4 c 5 c 4
+d 3 c 6
+d 3 c 5
+c 5
+
+columns
+d 3
+f 3 f 2 d 5 h 3
+f 2 g 1 f 4 d 6 h 3 h 2
+f 1 g 1 f 1 g 1 f 1 g 1 f 1 d 6 h 2 h 2
+f 1 g 5 f 2 d 1 b 1 d 4 h 1 h 2
+f 1 g 5 f 1 d 7 f 4 h 2 d 4
+f 1 g 1 f 1 g 4 f 3 d 3 f 2 g 1 f 1 h 3 f 2 d 6
+f 1 g 6 f 1 g 1 f 1 d 1 f 2 g 3 h 1 f 5 d 8
+f 1 g 9 f 2 g 1 f 1 g 1 h 1 g 1 f 1 g 1 f 1 g 1 f 3 d 5 c 3
+f 1 g 4 f 4 g 1 f 1 g 4 h 1 g 4 f 4 d 2 c 6
+g 4 d 4 f 2 g 5 h 1 g 2 f 1 e 3 f 2 c 8
+g 3 d 6 f 2 g 4 h 2 f 1 e 5 c 9
+g 4 d 6 f 2 g 3 h 3 e 6 c 8
+g 3 f 1 d 6 f 2 g 3 h 2 e 6 c 6
+g 4 f 2 d 4 h 4 e 3 h 1 e 5 c 3
+g 3 f 2 d 4 f 1 h 2 e 10
+h 2 d 4 f 1 g 2 e 10
+h 3 f 2 d 4 f 1 g 2 e 10
+h 5 f 2 g 1 f 1 d 3 f 1 g 3 e 6 h 1 e 2
+h 2 g 1 f 1 g 2 d 2 g 6 e 5 h 1 e 2
+h 1 g 14 f 3 h 3
+h 1 h 1 g 15 f 3 h 3
+h 1 h 4 g 9 f 5 g 2 f 2 h 2
+h 4 g 7 h 4 f 5 h 3
+g 6 h 8 f 2 h 2
+g 4 h 2 g 4 h 6 h 1
+g 3 h 1 g 8 f 1 h 6 h 1
+g 2 h 2 g 9 f 2 h 6
+g 1 h 1 g 10 f 1 g 1 f 2
+h 1 g 11 f 3
+h 2 g 10 f 3 d 4
+h 1 g 7 f 1 g 2 f 1 c 1 d 9
+h 1 f 1 g 7 f 2 c 4 d 7
+h 1 g 1 f 2 g 2 f 1 g 2 f 1 c 7 d 5
+h 3 g 2 f 2 c 10 d 2
+h 3 g 3 f 2 c 13
+g 2 f 1 g 1 f 1 c 12
+g 3 f 2 h 1 c 11
+g 3 f 2 h 2 c 9
+g 2 f 1 h 3 h 1 c 5
+h 3 h 2
+h 3 h 2
+h 4

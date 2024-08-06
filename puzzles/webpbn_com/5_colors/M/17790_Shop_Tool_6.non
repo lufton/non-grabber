@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Mar  7, 2012"
+description "Milling Machine"
+difficulty 1.5
+height 20
+id 17790
+link "https://webpbn.com/play.cgi?id=17790"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Shop Tool #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3
+blue 5
+blue 5
+blue 5
+blue 3
+green 1
+black 5 green 1
+black 11
+red 1 red 14 red 1 black 1
+red 1 black 1 red 14 black 1 red 1
+black 1 red 1 red 14 red 1
+blue 7
+blue 3 black 1 red 2 blue 3
+black 2 red 4 blue 1 red 1 red 1 blue 1 red 1 blue 1
+blue 3 red 3 blue 1 green 1 blue 1
+blue 9
+blue 9
+blue 9
+blue 13
+blue 13
+
+columns
+black 1
+red 3
+black 1 black 1
+red 3 black 1
+red 3 red 1 blue 2
+black 2 red 3 red 1 blue 2
+black 2 red 3 blue 1 red 1 blue 6
+black 2 red 3 blue 2 red 1 blue 6
+blue 3 black 2 red 3 blue 9
+blue 5 black 2 red 3 blue 1 black 1 red 2 blue 5
+blue 5 green 2 black 1 red 3 blue 1 red 1 red 1 blue 5
+blue 5 black 1 red 3 blue 1 red 3 blue 5
+blue 3 black 1 red 3 blue 9
+black 1 red 3 blue 2 red 1 green 1 blue 5
+black 1 red 3 blue 8
+black 1 red 3 blue 2
+red 3 blue 2
+black 1
+red 3
+black 1

@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "May 12, 2013"
+description "Isn't terminal velocity a beautiful thing?"
+difficulty 1.5
+height 20
+id 21933
+link "https://webpbn.com/play.cgi?id=21933"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Turned on its ear 8"
+width 20
+
+rows
+3,12
+2,1,11
+2,2,5,1
+1,4,3,1
+1,5,1,2,1
+1,7,3,1
+1,9,1
+1,12
+1,7,1
+1,6
+1,6
+1,7,1
+1,12
+1,8,1
+1,6,3,1
+1,5,1,2,1
+2,3,2,1
+2,2,5,1
+2,1,11
+3,12
+
+columns
+20
+3,4
+1,1
+0
+0
+8
+13
+18
+1,16,1
+2,14,2
+3,12,3
+4,4,4,4
+5,2,2,5
+4,2,2,3
+3,1,1,1,1,3
+2,2,2,2,2,2
+2,2,1,1,2,2
+2,2
+2,2
+7,7

@@ -1,0 +1,82 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar  5, 2009"
+description ""
+difficulty 2.0
+height 30
+id 5237
+link "https://webpbn.com/play.cgi?id=5237"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "S.o.s"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 blue 3 green 1 blue 3 green 3
+green 1 blue 1 blue 1 green 4 blue 1 blue 1 green 1
+green 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 green 3
+green 1 green 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 green 1
+green 3 blue 3 green 1 green 1 blue 3 green 3
+black 10 blue 10 black 10
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 8 blue 1 blue 6 blue 1 black 1 black 8
+black 1 black 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 8 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 black 1
+black 10 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 10
+black 1 black 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 8 black 1
+black 1 black 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+black 8 black 1 blue 1 blue 6 blue 1 black 8 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 10 blue 10 black 10
+green 1 blue 3 blue 3 green 1 blue 3 green 8
+green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 green 2 green 1 green 8
+green 1 blue 3 green 1 green 1 blue 1 green 1 blue 4 green 8
+green 1 green 1 blue 2 green 1 green 1 green 1 blue 1 green 1 green 1 blue 1 green 2 green 1 green 8
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 3 green 1 green 8
+
+columns
+black 10 black 3 green 5
+green 2 black 1 black 1 black 1 black 1
+green 1 green 1 black 1 black 6 black 1 black 1 black 1 green 1 green 1
+green 5 black 1 black 1 black 1 black 1 black 1 black 1
+green 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 5
+blue 5 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 green 1 blue 2 green 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 3 green 1 blue 1
+blue 5 black 1 black 1 black 1 black 9 black 1
+green 5 black 1 black 1 black 1 black 1 black 1 green 3
+green 1 black 3 black 13
+green 1 blue 21 green 4
+green 4 blue 1 blue 6
+blue 6 blue 16 blue 2 green 4
+blue 1 blue 2 blue 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1 blue 1
+blue 6 blue 1 green 1 green 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 blue 1 green 2 green 2
+blue 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 blue 1
+green 3 green 1 blue 1 blue 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1 blue 6
+green 1 green 1 green 1 blue 1 blue 16 blue 2 green 1 blue 1 green 1 blue 1
+green 1 green 3 blue 1 blue 2 green 1 blue 1 green 1 blue 1
+blue 20 blue 1
+black 12 black 3 green 1 green 2
+black 1 black 1 black 1 black 1 black 1
+black 1 black 8 black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 7 black 1 green 5
+black 1 black 1 black 1 black 1 green 5
+black 3 black 11 green 5

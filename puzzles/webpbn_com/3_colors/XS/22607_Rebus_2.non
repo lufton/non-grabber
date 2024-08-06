@@ -1,0 +1,36 @@
+by "Joseph Newton (Shroomyjoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joseph Newton"
+date "Aug 15, 2013"
+description "This is a rebus, in which words are represented by shapes and positions. The answer is in the spoilers."
+difficulty 1.25
+height 5
+id 22607
+link "https://webpbn.com/play.cgi?id=22607"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Rebus #2"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2 black 1 black 3
+black 1 black 1 black 2 black 1 black 1
+black 2 black 1 black 1 black 1
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 blue 6
+
+columns
+black 3 blue 2
+black 1 black 1 blue 1
+black 1 blue 1
+0
+black 1 blue 1
+black 3 blue 2
+blue 1
+black 3 blue 2
+black 1 blue 1
+black 3 blue 2

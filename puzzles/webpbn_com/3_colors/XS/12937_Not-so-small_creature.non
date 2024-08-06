@@ -1,0 +1,38 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Mar 21, 2011"
+description "Nessie! (inspired by mootpoint's Small Animals series, starting with #12848; challenge issued in #12852)"
+difficulty 1.25
+height 5
+id 12937
+link "https://webpbn.com/play.cgi?id=12937"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Not-so-small creature"
+width 12
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 black 3 black 1
+black 1 black 2 black 2 black 3
+blue 1 black 1 blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 2
+blue 12
+
+columns
+black 2 blue 2
+black 1 blue 1
+blue 2
+black 2 blue 1
+black 2 blue 2
+black 1 blue 2
+black 2 blue 2
+black 2 blue 1
+blue 2
+black 2 blue 1
+black 2 blue 2
+black 1 blue 2

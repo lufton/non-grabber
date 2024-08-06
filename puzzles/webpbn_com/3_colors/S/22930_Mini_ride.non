@@ -1,0 +1,51 @@
+by "Kristen Vognild (Kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kristen Vognild"
+date "Oct 10, 2013"
+description "See puzzle #19833. I'm not sure I can top my autumn puzzle from last year."
+difficulty 1.75
+height 10
+id 22930
+link "https://webpbn.com/play.cgi?id=22930"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Mini ride"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2 red 1 red 1 red 1 red 2 black 2
+red 2 red 1 red 3 red 1 black 4
+red 1 red 2 red 1 red 1 red 1 red 1 black 5
+black 7 black 9 black 2
+black 6 black 10 black 1
+black 2 black 1 black 1 black 9
+black 1 black 2 black 1 black 2 black 7
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1
+
+columns
+red 1 red 1 black 4
+red 2 black 3 black 2
+red 1 black 2 black 1 black 1
+red 1 black 2 black 1 black 1
+red 1 red 1 black 3 black 2
+red 1 black 2
+red 1 black 1 black 3
+red 2 black 1
+red 2 black 7
+red 1 black 4
+red 1 black 3 black 1
+red 1 black 4 black 2
+red 2 black 4
+red 1 red 1 black 4
+black 4
+black 8
+black 6
+black 3 black 1 black 1
+black 4 black 2
+black 4

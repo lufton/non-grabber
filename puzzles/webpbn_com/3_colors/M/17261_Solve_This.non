@@ -1,0 +1,61 @@
+by "nelchael kenshi turija (Brun0marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by nelchael kenshi turija"
+date "Jan 21, 2012"
+description "The Rocker Sign!"
+difficulty 1.25
+height 20
+id 17261
+link "https://webpbn.com/play.cgi?id=17261"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Solve This!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4 black 3 red 13
+red 4 black 1 black 1 red 13
+red 4 black 1 black 1 red 13
+red 4 black 1 black 1 red 8 black 3 red 2
+red 4 black 3 red 8 black 1 black 1 red 2
+red 4 black 1 black 1 red 8 black 1 black 1 red 2
+red 4 black 1 black 1 red 8 black 1 black 1 red 2
+red 4 black 1 black 1 red 8 black 3 red 2
+red 4 black 1 black 1 red 8 black 1 black 1 red 2
+red 4 black 1 black 1 red 1 black 6 red 1 black 1 black 1 red 2
+red 4 black 1 black 3 black 2 black 3 black 1 red 2
+red 4 black 1 black 1 black 2 black 1 black 1 red 2
+red 4 black 1 black 1 black 2 black 1 black 1 red 2
+red 4 black 1 black 6 black 1 red 2
+red 4 black 1 black 1 black 2 black 1 black 1 red 2
+black 5 black 6 black 1 red 2
+black 1 black 1 black 1 red 2
+black 1 black 1 black 1 red 2
+black 1 black 1 black 1 red 2
+black 18 red 2
+
+columns
+red 15 black 5
+red 15 black 1 black 1
+red 15 black 1 black 1
+red 15 black 5
+black 16 black 1
+black 1 black 1 black 1
+black 11 black 1
+red 10 black 1 black 1
+red 9 black 7 black 1
+red 9 black 1 black 1 black 1 black 1
+red 9 black 7 black 1
+red 9 black 7 black 1
+red 9 black 1 black 1 black 1 black 1
+red 9 black 7 black 1
+red 10 black 1 black 1
+red 3 black 8 black 1
+red 3 black 1 black 1 black 1
+red 3 black 17
+red 20
+red 20

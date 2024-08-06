@@ -1,0 +1,47 @@
+by "Karen Scholl (karenttrouble)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Karen Scholl"
+date "Jul 21, 2021"
+description "Half of an apple"
+difficulty 1.5
+height 15
+id 35246
+link "https://webpbn.com/play.cgi?id=35246"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Bisected"
+width 15
+
+rows
+3
+2
+4,1,4
+2,5,2
+2,2
+1,1,1
+1,1,1,1,1
+1,1,1
+1,1,1,1,1
+1,1,1
+2,1,1,1,2
+1,1,1
+2,2
+2,1,2
+4,4
+
+columns
+7
+2,3
+2,2
+1,2
+1,1
+2,1,1,1,1
+1,1,1
+4,7,1
+1,1,1
+1,2,1,1,1,1
+1,1
+1,2
+2,2
+2,3
+7

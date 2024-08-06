@@ -1,0 +1,72 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by gregg licht"
+date "Jun 29, 2023"
+description "As a kid we used to climb on this arrangement of 27 cubes formed by bars, plus one cube at the very top: monkey bars. Can't imagine it would be a choice for modern playground equipment."
+difficulty 1.75
+height 20
+id 36908
+link "https://webpbn.com/play.cgi?id=36908"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Equipment for Young Social Climbers"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 9 blue 1
+blue 2 black 15
+blue 3 blue 2 black 3 blue 6 black 3
+blue 8 black 1 blue 1 black 2 black 1 black 2 blue 2
+blue 8 black 1 blue 1 black 2 blue 1 black 1 blue 2 black 2 blue 4
+green 3 green 1 black 1 green 3 black 2 green 7 black 1 green 3 black 2 green 3
+green 4 black 1 green 4 black 14 green 3
+green 5 black 1 green 4 black 1 green 7 black 1 green 4 black 1 green 3
+black 29 green 1
+green 3 black 3 green 1 black 1 green 2 black 1 green 3 black 2 green 2 black 1 green 4 black 1 green 1 black 2
+black 1 black 2 black 1 black 1 black 3 black 1 black 1 black 2
+black 1 black 3 black 1 black 1 black 3 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 1 black 1
+black 30
+black 1 black 3 black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 2 black 1 black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 3 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 2 black 1 black 1 black 2 black 1
+black 30
+black 2 black 1 black 1 black 3 black 1 black 1 black 3
+
+columns
+blue 5 green 3 black 1 green 1 black 1 black 3
+blue 4 green 3 black 1 green 1 black 1 black 2
+blue 3 green 3 black 1 green 1 black 1 black 1
+blue 2 green 2 black 12
+blue 2 green 1 black 2 black 1 black 1
+blue 2 black 3 black 1 black 1
+blue 3 black 1 green 1 black 2 black 1 black 1
+blue 3 green 1 black 1 black 3 black 1
+black 19
+black 2 blue 2 green 3 black 1 black 2 black 1
+blue 1 black 3 green 3 black 1 black 3 black 1
+blue 1 black 1 blue 1 black 2 green 3 black 1 green 1 black 1 black 2 black 1
+blue 1 black 1 blue 1 black 2 green 2 black 1 green 1 black 1 black 3
+blue 1 black 1 blue 1 black 15
+blue 1 black 1 blue 1 green 1 black 1 green 1 black 1 green 1 black 1 black 2
+blue 1 black 1 blue 1 green 1 black 1 green 1 black 1 green 1 black 1 black 2
+blue 1 black 1 blue 1 green 1 black 1 green 1 black 1 green 1 black 1 black 1
+blue 1 black 1 green 1 black 1 green 1 black 12
+blue 1 black 1 green 1 black 1 green 1 black 3 black 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 2 black 1 black 1
+black 1 blue 1 green 1 black 1 green 1 black 1 green 1 black 3 black 1
+black 19
+black 2 blue 1 green 1 black 1 green 1 black 1 green 1 black 2 black 1
+black 2 blue 1 green 1 black 1 green 1 black 1 green 1 black 3 black 1
+black 2 green 1 black 1 green 1 black 1 green 1 black 1 black 2 black 1
+black 3 green 1 black 1 green 1 black 1 black 3
+blue 1 black 15
+blue 1 green 3 black 1 green 1 black 1 black 2
+blue 2 green 3 black 12
+blue 1 blue 2 green 4 black 2 black 1 black 1

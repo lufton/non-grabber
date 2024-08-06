@@ -1,0 +1,89 @@
+by "Peter Osickey (RooseveltsMustache)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Peter Osickey"
+date "Jan  7, 2011"
+description "and then a more different S."
+difficulty 2.0
+height 26
+id 11542
+link "https://webpbn.com/play.cgi?id=11542"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "First, make an S..."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 4 red 1 red 1
+green 4 green 7 black 1 black 1 red 1 red 1 red 1 red 2
+green 7 green 15 red 13
+green 23 red 15
+green 3 green 5 green 5 red 17
+green 1 green 5 green 7 red 13
+green 7 green 3 red 12
+black 2 green 8 red 3 red 3
+black 4 green 9
+black 4 green 11
+black 5 green 10
+black 4 green 10
+black 4 green 8
+black 4 black 2 green 7
+black 7 green 6
+black 5 green 6
+green 6
+green 6
+green 1 green 6
+green 3 green 6 blue 1
+green 12 blue 2
+green 8 blue 1 blue 1
+green 5 blue 2 blue 2
+blue 2 blue 2
+blue 1 blue 4
+blue 4
+
+columns
+green 3
+green 3 green 2
+green 4 black 4 green 2
+green 4 black 6 green 2
+green 4 black 8 green 2
+green 3 black 9 green 3
+green 2 green 1 black 4 black 2 green 3
+green 2 green 3 black 1 green 1 black 2 green 3
+green 7 black 3 green 3
+green 9 black 2 green 4
+green 11 green 4
+green 11 green 5 blue 3
+green 5 green 6 green 5 blue 2 blue 1
+green 4 green 6 green 6 blue 2 blue 1
+green 4 green 13 blue 1
+green 5 green 11 blue 2
+green 5 green 10 blue 3
+green 4 green 8 blue 2
+green 4 green 6 blue 2
+black 1 green 5 green 4 blue 1
+green 2 green 2 green 2 blue 1
+black 1 green 2 green 2 blue 1
+green 2 red 1 green 1
+green 1 red 1
+red 1
+red 3
+red 4
+red 5
+red 6
+red 6
+red 6
+red 7
+red 5
+red 1 red 5
+red 6
+red 5
+red 6
+red 8
+red 3 red 2
+red 1 red 1

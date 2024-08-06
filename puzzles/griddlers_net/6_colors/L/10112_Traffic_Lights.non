@@ -1,0 +1,83 @@
+by "Ratbag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/22/04"
+height 35
+id 10112
+link "https://www.griddlers.net/nonogram/-/g/10112"
+medium_time "0:07:57"
+points 1790
+popularity 75.14
+title "Traffic Lights"
+width 25
+
+color a ffffff
+color b 000000
+color c ff0000
+color d ffe500
+color e 00e200
+color f 808080
+
+rows
+b 4 b 3
+b 4 b 1 c 1 b 1
+b 7 b 3
+b 7 b 1 d 1 b 1
+c 2 b 10 b 3
+c 3 b 9 b 1 e 1 b 1
+c 3 b 8 b 3
+c 3 b 7 b 1
+c 3 b 6 b 1
+c 2 b 6 b 1
+b 7 b 1
+b 7 b 1
+d 2 b 10 b 1
+d 3 b 9 b 1
+d 3 b 8 f 6 f 1 f 4
+d 3 b 7 f 7 f 1 f 4
+d 3 b 6 f 8 f 1 f 4
+d 2 b 6 f 9 f 1 f 4
+b 7 f 10 f 1 f 4
+b 7 f 10 f 1 f 4
+e 2 b 10 f 5 f 1 f 4
+e 3 b 9 f 5 f 1 f 4
+e 3 b 8 f 6 f 1 f 4
+e 3 b 7 f 7 f 1 f 4
+e 3 b 6 f 8 f 1 f 4
+e 2 b 6 f 9 f 1 f 4
+b 7 f 10 f 1 f 4
+b 7
+b 7 f 1 f 1 f 1 f 1 f 1 f 2
+b 6 f 1 f 1 f 1 f 1 f 2
+b 2
+b 2 f 6 f 7
+b 2 f 6 f 7
+b 2 f 6 f 7
+b 2 f 6 f 7
+
+columns
+b 4 c 6 b 2 d 6 b 2 e 6 b 9
+b 4 c 6 b 2 d 6 b 2 e 6 b 9
+b 5 c 4 b 4 d 4 b 4 e 4 b 5 f 4
+b 30 f 4
+b 28 f 4
+b 28 f 4
+b 27 f 1 f 4
+b 6 b 6 f 2 b 6 f 1 f 1 f 4
+b 5 b 5 f 3 b 5 f 2
+b 4 b 4 f 4 b 4 f 3
+b 3 b 3 f 5 b 3 f 4 f 1 f 4
+b 2 b 2 f 6 b 2 f 5 f 1 f 4
+f 13 f 1 f 4
+f 13 f 1 f 4
+f 13 f 1 f 4
+f 13 f 1 f 4
+f 13 f 1 f 4
+0
+f 1 f 1 f 1 f 1 f 1 f 1 f 1 f 2
+f 1 f 1 f 1 f 1 f 1 f 1 f 2
+0
+f 13
+b 7 f 13
+b 1 c 1 b 1 d 1 b 1 e 1 b 8 f 13
+b 7 f 13

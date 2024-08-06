@@ -1,0 +1,31 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun  9, 2011"
+description "What kind of flower do you think?"
+difficulty 1.25
+height 5
+id 14448
+link "https://webpbn.com/play.cgi?id=14448"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Floral Pattern"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 green 2
+black 1 green 1 black 1 green 2
+black 1 black 1
+green 2 black 1 green 1 black 1
+green 2 black 1
+
+columns
+black 1 green 2
+black 1 green 1 black 1 green 2
+black 1 black 1
+green 2 black 1 green 1 black 1
+green 2 black 1

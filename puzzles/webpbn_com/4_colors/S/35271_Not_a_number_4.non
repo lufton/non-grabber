@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Jul 30, 2021"
+description ""
+difficulty 1.75
+height 10
+id 35271
+link "https://webpbn.com/play.cgi?id=35271"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Not a number 4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1
+black 1 green 2
+black 3 black 2 red 3 black 1 green 2 red 1
+black 1 black 1 black 1 red 4 black 1 red 3
+black 1 black 1 black 1 red 8
+black 1 black 2 red 8
+black 1 black 1 black 1 red 8
+black 1 black 1 black 1 red 8
+black 3 black 2 red 7
+red 2 red 2
+
+columns
+black 1 black 1
+black 7
+black 1 black 1
+0
+0
+black 2 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 2
+0
+0
+0
+red 5
+red 7
+red 8
+black 1 red 8
+black 3 red 5
+green 1 red 7
+green 2 red 7
+green 1 red 7

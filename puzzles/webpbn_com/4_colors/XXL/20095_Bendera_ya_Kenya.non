@@ -1,0 +1,123 @@
+by "Christian Heckmann Engelbrecht (CEngelbrecht)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Christian Heckmann Engelbrecht"
+date "Oct 17, 2012"
+description "The national flag of Kenya. The black is said to represent the people, the red the blood spilled for national freedom, the green the land, the white insets peace and honesty. The center Maasai shield represents the will to defend all of the above."
+difficulty 1.5
+height 40
+id 20095
+link "https://webpbn.com/play.cgi?id=20095"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Bendera ya Kenya"
+width 61
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 61
+black 61
+black 61
+black 61
+black 61
+black 61
+black 22 black 15 black 22
+black 22 black 13 black 22
+black 23 black 5 red 3 black 5 black 23
+black 23 black 3 red 1 red 1 red 1 black 3 black 23
+black 24 black 2 red 1 red 1 red 1 black 2 black 24
+black 24 red 2 red 1 red 2 black 24
+red 2 red 1 red 2
+red 3 red 1 red 3
+red 25 black 1 red 2 red 1 red 2 black 1 red 25
+red 25 black 1 red 2 red 1 red 2 black 1 red 25
+red 24 black 3 red 2 red 1 red 2 black 3 red 24
+red 24 black 3 red 7 black 3 red 24
+red 24 black 3 red 3 red 3 black 3 red 24
+red 24 black 3 red 2 red 2 black 3 red 24
+red 24 black 3 red 2 red 2 black 3 red 24
+red 24 black 3 red 3 red 3 black 3 red 24
+red 24 black 3 red 7 black 3 red 24
+red 24 black 3 red 2 red 1 red 2 black 3 red 24
+red 25 black 1 red 2 red 1 red 2 black 1 red 25
+red 25 black 1 red 2 red 1 red 2 black 1 red 25
+red 3 red 1 red 3
+red 2 red 1 red 2
+green 24 red 2 red 1 red 2 green 24
+green 24 green 2 red 1 red 1 red 1 green 2 green 24
+green 23 green 3 red 1 red 1 red 1 green 3 green 23
+green 23 green 5 red 3 green 5 green 23
+green 22 green 13 green 22
+green 22 green 15 green 22
+green 61
+green 61
+green 61
+green 61
+green 61
+green 61
+
+columns
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 6 black 4 red 12 green 4 green 6
+black 7 black 2 red 12 green 2 green 7
+black 9 red 2 black 8 red 2 green 9
+black 11 red 1 black 12 red 1 green 11
+black 11 red 5 black 8 red 5 green 11
+black 10 red 20 green 10
+black 9 red 1 red 8 red 1 green 9
+black 8 red 1 red 2 red 2 red 1 green 8
+black 8 red 10 red 10 green 8
+black 8 red 1 red 2 red 2 red 1 green 8
+black 9 red 1 red 8 red 1 green 9
+black 10 red 20 green 10
+black 11 red 5 black 8 red 5 green 11
+black 11 red 1 black 12 red 1 green 11
+black 9 red 2 black 8 red 2 green 9
+black 7 black 2 red 12 green 2 green 7
+black 6 black 4 red 12 green 4 green 6
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12
+black 12 red 12 green 12

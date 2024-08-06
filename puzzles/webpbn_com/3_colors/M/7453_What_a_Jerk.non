@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Dec 19, 2009"
+description "A new power lifting record."
+difficulty 3.5
+height 20
+id 7453
+link "https://webpbn.com/play.cgi?id=7453"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "What a Jerk!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 4
+black 1 black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 1 blue 2 black 1
+black 1 black 1 black 1 black 1 blue 2 black 1
+black 1 black 1 black 1 black 1 blue 2 black 2
+black 1 black 1 black 1 blue 2 black 1 black 2
+blue 2 black 4
+black 4 blue 2
+black 2 black 2 blue 2
+black 2 black 2
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 2 black 2
+black 2 black 2
+black 4
+
+columns
+0
+black 4
+black 6 black 2 black 2
+black 2 black 2
+black 10 black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 6 black 2 black 2
+black 2 black 2
+blue 1 black 4
+blue 2
+blue 2
+black 4 blue 2
+black 2 blue 2
+black 3 black 2 blue 2 black 2
+black 1 blue 2 black 1
+black 3 black 1 blue 1 black 1
+black 2 black 2
+black 3 black 2 black 2
+black 4
+0

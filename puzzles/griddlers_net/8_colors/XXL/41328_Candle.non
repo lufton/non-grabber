@@ -1,0 +1,120 @@
+by "saraepetersson"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/8/07"
+height 50
+id 41328
+link "https://www.griddlers.net/nonogram/-/g/41328"
+medium_time "1:10:26"
+points 48046
+popularity 84.33
+title "Candle"
+width 45
+
+color a 336600
+color b ffff00
+color c eeeeee
+color d ff0000
+color e 66ff00
+color f ffff99
+color g ff9900
+color h ff6666
+
+rows
+b 1
+b 2
+b 2
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 2 c 1 g 1 c 1 b 1
+b 1 c 2 g 1 c 1 b 1
+b 1 c 2 g 1 c 1 b 1
+f 2 b 1 g 3 b 1
+f 3 b 2 g 2 b 1 f 1
+f 4 b 1 g 1 b 1 f 2
+f 4 b 1 g 1 b 1 f 1 f 2
+f 4 b 1 f 6
+f 6 f 2 c 1 f 1 c 2 f 2
+f 3 c 2 f 4 c 6 f 1
+f 2 c 4 f 2 c 7 f 1
+f 2 c 5 f 2 c 7 f 1
+f 1 c 7 f 2 c 6 f 2
+f 1 c 8 f 2 c 4 f 3
+f 1 c 8 f 2 c 4 f 3
+f 1 c 7 f 2 c 4 f 2
+f 2 c 6 f 2 c 4 g 1
+f 1 c 6 f 2 c 4 g 2 f 1
+f 1 c 6 f 3 c 3 g 2 f 2
+f 2 c 6 f 2 c 4 f 1 g 1 f 2
+f 1 c 8 f 1 c 4 g 1 f 1 g 1 f 1 f 1
+f 2 c 8 f 2 c 3 g 1 f 1 f 2
+f 2 c 9 f 2 c 3 g 2 f 1 g 3
+f 2 c 10 f 1 c 3 f 1 g 1 f 1 g 2
+f 3 c 12 f 1 f 1 f 3
+f 2 c 12 d 1 g 1 f 2 g 2
+d 6 c 6 e 1 c 1 e 1 c 3 d 2 g 1 f 2 f 4
+h 3 d 8 c 6 e 1 e 1 c 3 d 1 h 1 d 2 g 2 f 1 f 1 g 2 e 1
+h 2 d 4 h 2 d 6 c 4 e 2 e 3 c 1 d 1 h 1 d 2 g 1 g 3 e 1
+h 1 d 4 h 4 d 6 c 5 e 2 e 1 d 1 d 1 h 1 d 3 e 1 e 3
+d 3 h 3 d 3 h 1 d 6 d 1 c 5 e 2 e 1 d 2 h 1 d 2 h 1 d 2 e 2 e 1
+d 4 b 2 g 2 d 1 h 2 d 9 c 3 e 6 d 1 h 1 d 2 h 1 d 1 h 1 d 1 e 1 e 2 e 1
+d 3 b 3 g 2 h 3 d 2 h 1 b 1 d 7 c 1 e 1 e 1 d 1 h 1 d 2 h 1 d 1 h 1 d 1 e 1 e 2
+d 4 b 2 g 1 d 1 h 3 d 2 h 2 b 1 d 3 e 1 d 6 e 1 e 2 d 5 h 1 d 2 e 2 e 2
+d 4 b 2 g 1 h 3 d 2 h 2 b 1 d 3 e 2 d 2 h 2 d 3 d 1 h 1 d 2 h 1 d 4 e 2 e 1
+d 3 b 2 g 3 h 1 d 2 h 2 b 2 d 3 e 2 d 2 h 1 d 1 h 3 d 5 h 1 d 6 e 1 e 1
+d 3 b 2 g 2 h 1 d 2 h 2 b 1 f 1 b 1 g 1 d 2 d 1 h 1 d 2 h 1 d 3 h 3 d 3 h 1 d 3
+d 3 b 1 d 2 h 1 d 2 h 1 d 1 b 1 h 2 g 1 d 2 d 2 h 1 d 4 h 1 d 1 h 1 d 2 h 2 d 8
+d 4 d 2 h 3 d 1 g 1 h 2 d 3 e 1 e 1 d 1 h 1 d 2 h 1 d 1 h 1 d 2 h 1 d 5 h 5
+h 2 d 2 h 2 d 2 g 1 h 1 d 4 e 1 d 2 h 3 d 1 e 2 e 1 d 3 h 2 d 4 h 1
+d 3 h 2 d 13 e 1 e 1 d 3 h 2 e 1 e 2 d 1 h 5 d 4
+d 4 h 2 d 11 e 2 e 1 d 5 e 1 h 1 d 4 h 2 d 1 h 1
+d 1 h 1 d 3 h 2 d 1 h 3 d 1 h 1 d 2 h 1 e 2 d 2 h 1 d 1 h 3 d 1 e 2 h 3 d 4 h 2
+h 4 d 3 h 8 d 2 e 3 d 2 h 1 d 1 h 2 d 2 h 4 d 10
+h 6 d 12 e 1 e 1 d 2 h 3 d 4 h 1 d 4 d 7
+
+columns
+d 4 d 3 h 2
+d 8 d 2 h 3
+h 1 d 9 h 1 d 3 h 2
+h 1 d 6 b 2 d 2 h 2 d 2 h 2
+h 2 d 3 b 6 d 1 h 2 d 2 h 1
+h 1 d 2 h 1 b 4 g 2 d 1 d 1 h 2 d 1 h 1
+h 1 d 2 h 1 b 2 g 4 d 5 h 1 d 2
+d 3 h 2 g 2 d 1 h 1 g 1 h 2 d 5 h 1 d 1
+d 3 h 1 d 1 g 2 h 3 d 2 h 2 d 2 h 2 d 1
+d 2 h 2 d 2 h 3 d 3 h 2 d 2 h 2 d 1
+d 2 h 2 d 1 h 3 d 2 h 3 d 3 h 2 d 1
+d 4 h 3 d 2 h 2 d 6 h 1 d 1
+d 8 h 2 b 2 g 2 d 2 h 2 d 1
+d 6 h 2 b 1 f 1 h 3 d 3 h 1 d 1
+d 5 h 2 b 3 h 2 d 4 h 1 d 1
+f 2 d 4 b 2 d 2 g 2 d 4 h 1 d 2
+f 4 f 4 d 14 d 2
+f 3 f 3 c 3 f 2 f 3 c 2 f 2 d 11 e 1 d 1
+f 8 c 5 f 4 c 4 f 2 d 3 e 1 e 1 e 1 e 1
+f 6 c 20 d 3 e 3
+f 4 c 22 d 3 e 2 e 2 e 1 e 1
+b 3 f 3 c 23 d 4 e 2 e 1
+b 3 c 2 b 2 f 2 c 22 d 6 e 2
+b 3 c 5 g 1 b 3 f 4 c 16 e 1 c 4 d 1 h 3 d 3 e 1 d 2
+b 2 c 2 g 7 b 1 f 4 c 15 e 2 c 1 e 1 d 1 h 1 d 2 h 2 d 2 d 3
+b 2 c 3 g 2 b 2 f 2 c 2 f 8 c 6 e 2 e 3 d 2 h 1 d 3 h 1 d 3 h 2
+b 5 f 2 c 4 f 10 c 4 e 4 d 1 h 2 d 2 h 1 d 2 h 1 d 1 h 1
+f 2 c 10 f 1 c 2 f 3 c 2 e 3 e 1 d 1 h 1 d 2 h 3 d 2 h 2
+f 2 c 19 e 1 e 3 d 5 h 1 d 1 h 2 d 1
+f 3 c 20 e 4 e 1 d 3 h 2 e 2 d 1 h 1 d 2
+f 4 c 21 d 5 h 1 d 1 h 1 d 2 e 1 e 1 h 1 d 2
+f 2 c 4 f 2 d 1 h 2 d 3 h 2 d 1 d 1 h 1 d 1
+f 8 d 4 h 1 d 5 h 1 d 1 e 2 e 1 h 2
+f 4 d 2 h 3 d 4 h 2 d 2 e 1 e 1 h 1 d 1
+d 4 h 2 d 4 h 2 h 1 d 1
+d 3 h 1 d 2 h 1 d 3 h 1 d 3 d 2
+g 3 d 2 h 2 d 3 h 1 d 3 h 3 d 2
+f 4 g 2 d 10 h 1 d 1 h 1 d 1
+g 3 f 3 e 1 d 4 h 2 d 1 h 1 d 2
+f 3 g 2 g 1 e 1 d 4 h 2 d 4
+f 3 f 2 g 1 e 1 e 3 d 1 h 1 d 1 h 1 d 4
+g 3 g 1 f 1 g 2 e 2 e 2 d 1 h 1 d 2 h 1 d 3
+g 2 f 2 g 2 f 1 f 1 g 1 e 2 e 2 d 1 h 1 d 2 h 1 d 3
+g 2 f 2 f 1 g 1 f 1 g 1 f 1 e 3 e 3 e 1 d 1 h 1 d 3 h 1 d 2
+f 2 f 2 g 1 f 1 g 1 e 2 e 1 e 1 h 2 d 1 h 2 d 2

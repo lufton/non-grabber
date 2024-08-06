@@ -1,0 +1,74 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/15/19"
+height 25
+id 201396
+link "https://www.griddlers.net/nonogram/-/g/201396"
+medium_time "0:07:18"
+points 8445
+popularity 84.64
+title "Bus"
+width 25
+
+color a ffffff
+color b 000000
+color c c98c00
+color d ff0000
+color e ffff33
+color f ffcc66
+color g ccffff
+
+rows
+b 13
+b 1 c 13 b 1
+b 1 b 1
+b 9 b 9
+b 1 b 1 g 6 b 1 b 1 g 6 b 1 b 1
+b 1 b 1 g 6 b 1 b 1 g 6 b 1 b 1
+b 2 b 1 g 1 b 2 g 3 b 1 b 1 g 3 b 2 g 1 b 1 b 2
+b 1 g 1 b 1 b 1 g 3 b 1 g 2 b 1 b 1 g 2 b 1 g 3 b 1 b 1 g 1 b 1
+b 1 g 1 b 1 b 1 g 4 b 1 g 1 b 1 b 1 g 1 b 1 g 4 b 1 b 1 g 1 b 1
+b 1 g 1 b 1 b 8 b 8 b 1 g 1 b 1
+b 2 b 2
+b 3 b 3
+b 1 d 1 b 1 b 3 b 1 d 1 b 1
+b 1 d 2 b 1 b 1 d 1 b 1 b 1 d 2 b 1
+b 1 d 3 b 1 b 3 b 1 d 3 b 1
+b 1 d 4 b 1 b 1 d 4 b 1
+b 1 d 1 f 1 e 2 d 1 b 1 b 1 d 1 e 2 f 1 d 1 b 1
+b 1 d 1 f 1 e 2 d 2 b 1 b 1 d 2 e 2 f 1 d 1 b 1
+b 1 d 7 b 1 b 1 d 7 b 1
+b 10 b 10
+b 1 c 10 b 1 c 10 b 1
+b 21
+b 3 b 3
+b 3 b 3
+b 3 b 3
+
+columns
+b 3
+b 1 g 3 b 1 b 1
+b 16 c 1 b 1
+b 1 b 1 d 7 b 1 c 1 b 1
+b 8 b 2 d 3 f 2 d 1 b 1 c 1 b 4
+b 1 b 1 g 5 b 1 b 1 d 2 e 2 d 1 b 1 c 1 b 4
+b 1 c 1 b 1 g 2 b 1 g 2 b 1 b 1 d 1 e 2 d 1 b 1 c 1 b 4
+b 1 c 1 b 1 g 2 b 1 g 2 b 1 b 1 d 3 b 1 c 1 b 1
+b 1 c 1 b 1 g 3 b 1 g 1 b 1 b 1 d 2 b 1 c 1 b 1
+b 1 c 1 b 1 g 4 b 2 b 1 d 1 b 1 c 1 b 1
+b 1 c 1 b 1 g 5 b 1 b 2 c 1 b 1
+b 1 c 1 b 7 b 3 b 1 c 1 b 1
+b 1 c 1 b 1 d 1 b 1 b 2
+b 1 c 1 b 7 b 3 b 1 c 1 b 1
+b 1 c 1 b 1 g 5 b 1 b 2 c 1 b 1
+b 1 c 1 b 1 g 4 b 2 b 1 d 1 b 1 c 1 b 1
+b 1 c 1 b 1 g 3 b 1 g 1 b 1 b 1 d 2 b 1 c 1 b 1
+b 1 c 1 b 1 g 2 b 1 g 2 b 1 b 1 d 3 b 1 c 1 b 1
+b 1 c 1 b 1 g 2 b 1 g 2 b 1 b 1 d 1 e 2 d 1 b 1 c 1 b 4
+b 1 b 1 g 5 b 1 b 1 d 2 e 2 d 1 b 1 c 1 b 4
+b 8 b 2 d 3 f 2 d 1 b 1 c 1 b 4
+b 1 b 1 d 7 b 1 c 1 b 1
+b 16 c 1 b 1
+b 1 g 3 b 1 b 1
+b 3

@@ -1,0 +1,78 @@
+by "Jennifer McMahon (kalamalama)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jennifer McMahon"
+date "Mar  1, 2012"
+description "Happy Saint Patrick's Day!"
+difficulty 2.25
+height 35
+id 17736
+link "https://webpbn.com/play.cgi?id=17736"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Erin Go Braugh"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 15
+green 5 green 1 green 5
+green 4 green 4
+green 2 green 2 green 2 green 2
+green 1 green 2 green 2 green 1
+green 1 green 1
+green 2 green 2
+green 1 green 2 green 2 green 1
+green 1 green 2 green 3 green 1
+green 2 green 2 green 5 green 2
+green 15
+black 6 black 6
+black 6 black 1 black 6
+black 6 black 6
+green 17
+green 17
+red 4 red 1 red 1 red 4
+red 4 red 4
+red 4 red 4
+red 1 red 1 blue 1 blue 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1
+red 2 red 2
+red 3 red 1 red 1 red 3
+red 3 red 3 red 3
+red 3 black 2 red 3
+red 3 black 2 red 3
+black 3 red 1 black 2 red 6
+black 3 black 2 red 6
+black 3 black 2 red 5
+black 2 black 2 red 3
+black 2 red 1
+0
+
+columns
+0
+black 4
+green 2 red 6 black 4
+green 11 black 3 green 2 red 2 red 3 black 3 black 1
+green 4 green 1 green 2 black 3 green 2 red 5 red 3 black 2
+green 3 green 1 black 3 green 2 red 3 red 3 black 2
+green 4 green 2 black 3 green 2 red 2 red 3 black 2
+green 2 green 2 green 3 black 3 green 2 red 1 red 1 black 2
+green 1 green 1 green 2 green 1 black 3 green 2 blue 1 red 1 black 2 red 2
+green 1 green 1 green 1 green 2 red 1 red 1 black 2 red 4
+green 2 green 2 black 1 green 2 red 1 red 1 black 1 red 5
+green 1 green 4 green 2 red 1 red 1 red 4
+green 1 green 1 green 4 black 3 green 2 blue 1 red 1 red 3
+green 2 green 2 green 3 black 3 green 2 red 1 red 3
+green 4 green 2 black 3 green 2 red 2 red 3
+green 3 green 1 black 3 green 2 red 3 red 3
+green 4 green 1 green 2 black 3 green 2 red 5 red 3
+green 11 black 3 green 2 red 2 red 3
+green 2 red 6
+0

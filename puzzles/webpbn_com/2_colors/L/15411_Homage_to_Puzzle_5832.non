@@ -1,0 +1,77 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David Bouldin"
+date "Aug  1, 2011"
+description "I liked the original, but the black background was awfully dark...so I've decided to paint it a lighter color."
+difficulty 1.5
+height 30
+id 15411
+link "https://webpbn.com/play.cgi?id=15411"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Homage to Puzzle #5832"
+width 30
+
+rows
+6,1,1,1,1,1,1,1,1
+6,1,1,1,1,1,1
+5,1,1,1,1,1,1,1
+6,1,2,1,1,2,1
+5
+4
+4,2
+4,1
+5,1
+24,1
+24,1
+24,1
+24,1
+14,2
+14,9
+14,9
+12,7
+12,7
+13,8
+13,8
+12,7
+12,7
+12,7
+12,7
+12,7
+12,7
+12,7
+12,7
+12,7
+12,7
+
+columns
+30
+30
+30
+30
+5,22
+2,1,21
+1,21
+2,21
+1,21
+2,1,21
+21
+1,1,21
+1,2,7,2
+7
+1,1,4
+2,4,2
+1,4,2,2
+2,4,16
+2,4,16
+2,4,16
+1,1,4,16
+4,16
+2,1,4,16
+1,4,16
+1,1
+8
+0
+0
+0
+0

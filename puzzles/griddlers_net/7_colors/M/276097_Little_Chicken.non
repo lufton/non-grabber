@@ -1,0 +1,63 @@
+by "00123456789"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/20/23"
+height 19
+id 276097
+link "https://www.griddlers.net/nonogram/-/g/276097"
+medium_time "0:07:22"
+points 6805
+popularity 87.21
+title "Little Chicken"
+width 20
+
+color a ffffff
+color b 000000
+color c FF9900
+color d 009933
+color f A0522D
+color g CD853F
+color h DC143C
+
+rows
+b 4
+b 1 h 3 b 2
+b 2 h 3 b 1
+b 1 f 1 g 3 h 1 f 1 b 1
+b 2 b 1 g 2 b 1 g 2 f 1 b 1
+b 1 g 1 f 1 b 2 b 1 g 2 b 1 f 1 c 3 b 1
+b 1 f 1 g 2 f 1 b 3 f 1 g 5 b 2
+b 2 g 4 f 2 g 7 b 1
+b 3 f 1 g 3 f 1 g 7 b 1
+b 1 f 1 b 2 f 1 g 3 f 1 g 7 f 1 b 1
+b 1 g 3 b 2 f 1 g 10 b 1
+b 1 g 2 b 1 g 12 b 1
+b 2 f 1 b 7 f 1 g 1 f 1 g 1 b 3
+b 2 f 1 b 2 f 7 b 3
+b 2 f 1 b 1 f 4 b 1
+b 1 f 1 b 6
+b 1 c 6 b 1
+b 20
+d 20
+
+columns
+b 2 b 1 d 1
+b 4 f 1 g 1 b 2 b 1 d 1
+b 1 g 1 f 1 b 3 g 2 b 2 b 1 d 1
+b 1 f 1 g 2 b 2 g 2 f 1 b 1 b 1 d 1
+b 1 g 2 f 2 b 3 f 1 b 1 b 1 d 1
+b 1 f 1 g 3 b 1 g 1 b 4 b 1 d 1
+b 1 g 3 f 1 g 1 b 2 f 2 b 2 d 1
+b 1 f 1 g 4 b 1 f 1 b 2 c 1 b 1 d 1
+b 1 f 3 g 2 b 1 f 2 b 1 c 1 b 1 d 1
+b 2 b 3 f 1 g 5 b 1 f 2 b 1 c 1 b 1 d 1
+b 1 h 1 b 1 f 1 g 8 b 1 f 2 b 1 c 1 b 1 d 1
+b 1 h 1 b 1 g 9 f 3 b 1 c 1 b 1 d 1
+b 1 h 2 g 1 b 2 g 7 f 1 b 2 c 1 b 1 d 1
+b 1 h 1 g 2 f 1 g 6 f 2 b 2 d 1
+b 1 h 2 g 1 c 1 g 7 b 1 b 1 d 1
+b 1 f 2 c 1 b 1 g 5 b 2 b 1 d 1
+b 2 c 1 b 3 f 1 g 2 b 2 b 1 d 1
+b 1 b 4 b 1 d 1
+b 1 d 1
+b 1 d 1

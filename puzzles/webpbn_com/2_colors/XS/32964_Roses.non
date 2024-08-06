@@ -1,0 +1,33 @@
+by "surya vasireddy (surya1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by surya vasireddy"
+date "Sep 29, 2019"
+description "One regular rose and one upside rose on the other side."
+difficulty 1.25
+height 8
+id 32964
+link "https://webpbn.com/play.cgi?id=32964"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Roses"
+width 8
+
+rows
+3,1
+3,1
+3,1
+1,3
+3,1
+1,3
+1,3
+1,3
+
+columns
+3,1
+8
+3,1
+0
+0
+1,3
+8
+1,3

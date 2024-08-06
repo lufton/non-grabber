@@ -1,0 +1,50 @@
+by "sudf"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/15/08"
+height 15
+id 73276
+link "https://www.griddlers.net/nonogram/-/g/73276"
+medium_time "0:04:01"
+points 502
+popularity 59.89
+title "Scissors"
+width 15
+
+color a ffffff
+color b 999999
+color c ff0066
+
+rows
+c 3 c 3
+c 6 c 6
+c 2 c 3 c 3 c 2
+c 2 c 3 c 3 c 2
+c 2 c 2 c 2 c 2
+c 3 c 2 c 2 c 3
+c 3 b 2 b 2 c 3
+c 2 b 2 b 2 c 2
+b 3
+b 5
+b 3 b 3
+b 3 b 3
+b 3 b 3
+b 2 b 3
+b 2 b 2
+
+columns
+c 3
+c 6 b 2
+c 2 c 3 b 3
+c 3 c 3 b 2
+c 3 c 2 b 3
+c 5 b 2 b 3
+c 3 b 5
+b 2
+c 3 b 5
+c 5 b 2 b 3
+c 3 c 2 b 3
+c 3 c 3 b 3
+c 2 c 3 b 3
+c 6 b 2
+c 3

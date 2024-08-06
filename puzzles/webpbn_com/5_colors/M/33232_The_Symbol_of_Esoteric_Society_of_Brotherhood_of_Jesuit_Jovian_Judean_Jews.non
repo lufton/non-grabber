@@ -1,0 +1,63 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by sanane samanye"
+date "Dec  9, 2019"
+description "The brotherhood"
+difficulty 1.25
+height 20
+id 33232
+link "https://webpbn.com/play.cgi?id=33232"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "The Symbol of Esoteric Society of Brotherhood of Jesuit Jovian Judean Jews"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 4
+green 5
+green 3
+green 3
+green 3 black 3
+red 1 green 3 red 7
+red 1 green 3 red 9
+blue 2 red 1 green 3 red 10
+blue 2 green 3 black 3 red 3
+blue 3 green 3 black 3 red 2
+blue 10 black 3 blue 1 red 2
+blue 9 black 3 blue 1
+blue 7 black 3 blue 1
+green 3 black 3
+black 3
+black 3
+black 5
+black 4
+0
+
+columns
+0
+blue 4
+blue 5
+blue 3
+blue 3
+red 3 blue 3
+green 7 blue 3 green 1
+green 9 blue 3 green 1
+green 10 blue 3 green 1 black 2
+green 3 red 3 blue 3 black 2
+green 2 red 3 blue 3 black 3
+green 2 black 1 red 3 black 10
+black 1 red 3 black 9
+black 1 red 3 black 7
+red 3 blue 3
+red 3
+red 3
+red 5
+red 4
+0

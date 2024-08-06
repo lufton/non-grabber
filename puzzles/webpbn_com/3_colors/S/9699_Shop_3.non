@@ -1,0 +1,46 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 22, 2010"
+description "i like the big buttons"
+difficulty 1.25
+height 11
+id 9699
+link "https://webpbn.com/play.cgi?id=9699"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Shop #3"
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 black 3 blue 1 black 1
+blue 4 black 3 blue 2 black 1
+blue 6 black 1 blue 4 black 1
+blue 12 black 2
+black 2 blue 4 black 1 blue 5 black 2
+black 1 blue 8
+black 1 blue 4 black 1 blue 2
+black 1 blue 7
+blue 3 black 1 blue 2
+blue 6
+blue 6
+
+columns
+blue 2 black 4
+blue 3 black 1
+blue 7
+blue 10
+blue 11
+black 2 blue 9
+black 3 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2
+black 2 blue 9
+blue 11
+blue 5
+blue 3
+blue 2
+black 2
+black 5

@@ -1,0 +1,47 @@
+by "Cricketswool ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Cricketswool"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 15
+id 26321
+link "https://webpbn.com/play.cgi?id=26321"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Reader"
+width 15
+
+rows
+7
+10
+11
+11
+7,1
+4,1,2
+3,2
+3,1
+3,2
+2,2
+2,1
+1,2,1
+1,1,2
+3,1,3
+5,1,4
+
+columns
+3
+7,1
+8,2
+15
+5,3,2
+6,1
+5
+4,4
+4,1,1,1
+4,2,3
+4,3
+1,1
+2
+3
+4

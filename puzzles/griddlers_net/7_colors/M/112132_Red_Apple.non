@@ -1,0 +1,64 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/24/11"
+height 21
+id 112132
+link "https://www.griddlers.net/nonogram/-/g/112132"
+medium_time "0:09:36"
+points 4383
+popularity 85.57
+title "Red Apple"
+width 19
+
+color a ffffff
+color b 000000
+color c a83a29
+color d ee2c46
+color e fe822e
+color f fed000
+color g 85a82c
+
+rows
+b 5
+b 1 b 1 g 4 b 1
+b 1 b 1 g 4 b 1
+b 7
+b 4 b 1 b 4
+b 1 f 4 b 5 f 4 b 1
+b 1 f 7 b 1 f 7 b 1
+b 1 f 4 c 1 f 2 b 1 f 2 c 1 f 4 b 1
+b 1 f 2 f 3 c 1 b 3 c 1 f 5 e 1 b 1
+b 1 e 1 f 2 e 2 f 2 e 2 f 2 e 3 b 1
+b 1 e 2 e 13 d 1 b 1
+b 1 d 1 e 15 d 1 b 1
+b 1 d 1 e 2 d 1 e 2 d 2 e 2 d 2 e 2 d 3 b 1
+b 1 d 3 d 13 b 1
+b 1 d 15 b 1
+b 1 d 15 b 1
+b 1 d 13 b 1
+b 1 d 13 b 1
+b 1 d 11 b 1
+b 1 c 1 d 3 b 1 d 3 c 1 b 1
+b 4 b 4
+
+columns
+b 6
+b 2 f 1 e 2 d 3 b 2
+b 1 f 3 e 3 d 3 b 2
+b 1 f 3 e 2 d 5 b 1
+b 1 f 4 e 2 d 1 d 5 b 1
+b 1 f 5 e 3 d 6 c 1 b 1
+b 1 f 2 c 1 f 2 e 3 d 7 b 1
+b 1 f 2 c 1 e 3 d 8 b 1
+b 1 f 2 b 1 e 3 d 8 b 1
+b 8 f 1 e 3 d 6 b 1
+b 1 b 1 f 2 b 1 f 1 e 3 d 7 b 1
+b 2 b 1 f 2 c 1 e 3 d 8 b 1
+b 1 g 1 b 2 f 2 c 1 f 1 e 3 d 8 b 1
+b 1 g 2 b 2 f 5 e 3 d 6 c 1 b 1
+b 1 g 2 b 2 f 5 e 3 d 6 b 1
+b 1 g 2 b 2 f 4 e 3 d 6 b 1
+b 1 g 1 b 1 b 1 f 3 e 3 d 4 b 2
+b 2 b 2 e 2 d 4 b 2
+b 6

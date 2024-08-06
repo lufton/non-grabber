@@ -1,0 +1,50 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 13, 2011"
+description "Axe."
+difficulty 1.25
+height 18
+id 14561
+link "https://webpbn.com/play.cgi?id=14561"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Household tool #7"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+red 2 black 6
+red 2 black 7
+red 2 black 7
+red 2 black 6
+red 2 black 4
+red 2
+red 2
+red 2
+red 2
+red 2
+red 2
+red 2
+red 2
+red 2
+red 2
+red 2
+0
+
+columns
+0
+red 16
+red 16
+black 2
+black 4
+black 4
+black 6
+black 6
+black 6
+black 6
+0

@@ -1,0 +1,52 @@
+by "Sarah Belsan (haras89)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Sarah Belsan"
+date "Apr 10, 2013"
+description "And then winter wanted to remind us it hadn't moved on yet... It was in the 70's yesterday and then over-night, we had an ice storm. So all those beautiful flowers got a layer of ice on their fragile petals. That's Kansas for ya!"
+difficulty 1.5
+height 17
+id 21655
+link "https://webpbn.com/play.cgi?id=21655"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Spring came!"
+width 13
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 2 black 2 blue 2
+blue 4 black 4 blue 1
+blue 2 black 2 blue 1 black 4 blue 2
+blue 1 black 8 blue 1 black 1 blue 2
+blue 1 black 4 green 2 black 5 blue 1
+blue 2 black 2 green 4 black 4 blue 1
+blue 3 black 1 green 4 black 3 blue 2
+blue 1 black 4 green 2 black 3 blue 2
+blue 1 black 10 blue 1
+blue 1 black 4 blue 1 black 5 blue 1
+blue 2 black 2 blue 2 black 4 blue 2
+blue 6 black 2 blue 2
+green 1 blue 4
+green 1
+green 2
+green 1
+
+columns
+blue 9
+blue 2 black 2 blue 2 black 3 blue 2
+blue 1 black 4 blue 1 black 4 blue 1
+blue 1 black 9 blue 1 green 2
+blue 3 black 2 green 2 black 3 blue 2 green 3
+blue 2 black 3 green 4 black 1 blue 3
+blue 1 black 4 green 4 black 3 blue 2
+blue 1 black 5 green 2 black 5 blue 1
+blue 2 black 11 blue 1
+blue 4 black 7 blue 2
+blue 1 black 4 blue 1 black 2 blue 2
+blue 1 black 2 blue 5
+blue 4

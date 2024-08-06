@@ -1,0 +1,63 @@
+by "Felicity Jenkins (felicity924)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Felicity Jenkins"
+date "Jul  8, 2011"
+description "A random hodgepodge of colors."
+difficulty 2.75
+height 20
+id 15114
+link "https://webpbn.com/play.cgi?id=15114"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Hodgepodge"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 black 1 black 1 black 2
+red 2 green 1 green 1 red 1 black 1 black 1 black 1
+red 1 blue 2 green 1 blue 1 green 1 blue 3 green 1 red 1 black 1 green 1
+red 2 blue 2 red 1 green 1 blue 5 red 1 green 2 black 1
+red 2 black 1 green 1 blue 1 red 1 green 1 blue 1 black 2 blue 1 red 2 blue 1 green 1 black 1
+red 2 blue 1 green 1 blue 1 black 1 red 1 blue 1 blue 2 blue 1 red 2 green 1
+black 1 red 1 blue 2 blue 1 black 1 green 1 red 2 red 1 blue 1 green 1 red 1 green 1
+red 2 blue 2 green 1 blue 2 red 2 red 1 red 2 red 4
+black 1 red 1 blue 1 black 2 green 1 blue 4 blue 1 blue 1 blue 2 red 1
+green 1 blue 1 black 1 blue 4 blue 1 black 1 green 1 blue 1 red 1
+blue 3 blue 2 green 2 blue 4 black 2 green 1 green 1 red 1
+green 1 blue 1 blue 1 blue 1 green 1 blue 1 red 1 blue 2 green 1 blue 2 black 1 blue 1 red 1 black 1
+blue 1 black 1 blue 1 red 1 green 2 blue 1 red 1 green 1 black 1 green 1 blue 1 red 1 blue 2
+black 1 red 1 blue 1 red 1 black 1 green 1 red 2 green 1 blue 1 red 2 black 1
+red 1 black 1 blue 1 red 1 blue 1 blue 1 green 3 red 1 green 1 red 2 blue 2 green 1 blue 1 red 1
+green 1 red 1 black 1 red 1 blue 3 black 2 red 2 green 1 black 1 blue 1 red 1 blue 1
+red 2 blue 3 black 1 red 1 green 2 green 1 red 1 blue 1
+red 2 blue 3 green 2 red 1 green 2 blue 2 blue 2 black 1
+red 2 blue 4 blue 1 red 3 blue 1 black 1 blue 2 black 2
+red 2 blue 1 black 1 red 1 black 5 black 1
+
+columns
+red 5 black 1 red 1 black 1 blue 1 green 1 blue 1 green 1 red 3
+red 2 red 6 green 1 blue 1 black 2 red 2 red 3
+red 1 black 1 blue 1 blue 5 red 1 black 2 red 1
+red 1 blue 2 blue 2 black 1 blue 3 red 2 blue 2
+red 1 green 1 blue 2 green 2 blue 1 green 1 black 2 red 1 blue 5
+red 1 blue 1 green 1 blue 2 red 2 blue 5
+black 1 green 1 red 1 blue 6 green 1 black 1 blue 2 blue 1
+blue 1 green 2 black 2 blue 3 green 1 blue 1 green 2 blue 1 black 1 green 1
+black 1 green 1 red 1 green 1 red 1 blue 2 green 2 green 1 black 2 green 1 blue 1
+green 1 blue 4 red 1 blue 5 green 1 red 1 black 1
+blue 2 black 1 red 1 blue 1 red 3 green 1 red 5
+blue 2 black 1 blue 1 red 2 blue 1 blue 2 green 1 red 3 green 1 red 1 black 1
+black 1 green 1 blue 3 blue 3 black 1 green 1 green 1 blue 1 black 1
+black 1 red 2 blue 1 red 2 green 1 green 1 red 1 blue 1 black 2
+black 2 red 2 blue 2 red 1 black 2 blue 1 green 1 blue 1 red 1 green 2 blue 1 black 1
+green 2 red 1 blue 1 black 1 blue 1 red 1 blue 1 black 1 green 1 blue 1 black 1
+green 1 blue 1 red 1 red 1 green 2 black 1 blue 1 red 1 blue 1 blue 2
+black 1 red 1 green 1 red 1 blue 1 blue 1 red 1 black 1 green 1 blue 1 green 1 blue 1 black 1
+green 2 red 2 blue 2 green 1 red 1 blue 1 blue 1 red 2 black 1
+black 1 black 2 green 1 red 4 black 1 blue 1 red 1 blue 2 black 2

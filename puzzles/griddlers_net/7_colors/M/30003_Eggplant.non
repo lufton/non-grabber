@@ -1,0 +1,64 @@
+by "cenifir"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/17/06"
+height 20
+id 30003
+link "https://www.griddlers.net/nonogram/-/g/30003"
+medium_time "0:12:30"
+points 6272
+popularity 69.75
+title "Eggplant"
+width 20
+
+color a e1aa00
+color b 81a45f
+color c 007600
+color d 970083
+color e c800bd
+color f 6f0000
+color g e176b5
+
+rows
+b 3 b 5 c 2 c 2
+c 3 b 1 c 4 b 2 c 4
+c 2 b 2 c 4 b 1 f 2 c 4
+c 1 b 1 c 1 f 2 b 2 f 2 c 2 f 3 b 2
+f 3 b 2 f 2 c 1 b 1 c 1 f 3 c 1 b 1
+f 2 d 1 f 4 c 1 b 1 c 1 f 1 d 2 f 1 c 2
+f 1 d 4 f 2 b 1 c 2 f 2 d 1 f 2 c 2
+f 1 d 4 f 2 b 1 c 1 f 3 d 3 f 1 c 2
+f 1 d 2 g 1 d 2 f 1 b 1 c 2 f 1 d 4 f 1 c 3
+d 2 g 2 d 2 f 1 b 1 c 1 d 3 g 1 d 1 f 2 c 2
+d 1 g 2 e 1 d 2 f 1 b 1 c 1 d 2 g 1 d 1 f 2 c 2
+d 1 g 2 e 2 f 3 b 2 g 1 d 1 f 3 c 1
+e 4 f 5 b 3 f 2 c 2
+e 1 g 1 e 1 f 3 d 2 f 1 d 1 f 4 c 2
+g 1 e 1 f 4 d 2 f 5 c 2
+e 1 f 3 d 4 f 4 c 1
+e 1 f 2 d 3 f 4 c 2
+e 1 f 1 d 1 f 6 c 2
+e 2 f 5 c 1
+e 1 f 5
+
+columns
+b 1 f 1 d 3 e 2 g 1 e 5
+b 1 c 1 f 1 d 2 g 2 e 1 g 1 e 1 f 3 e 1 f 1
+b 1 c 2 f 1 d 2 g 3 e 2 f 3 d 1 f 2
+c 3 f 1 d 2 g 2 e 3 f 3 d 1 f 3
+b 2 f 2 d 5 e 1 f 3 d 2 f 3
+b 1 c 1 f 1 d 6 f 4 d 2 f 3
+c 1 f 3 d 1 f 6 d 3 f 3
+c 1 f 1 b 1 f 3 b 3 f 2 d 3 f 2
+b 1 c 1 b 2 f 2 b 1 c 3 b 1 f 6
+b 1 c 2 b 1 f 2 b 1 c 2 d 2 b 2 d 1 f 3
+b 1 c 1 b 1 f 2 c 2 f 2 d 2 g 1 b 1 f 3
+b 1 c 1 f 2 c 1 b 1 c 1 f 1 d 2 g 1 d 1 b 1 f 3
+b 1 c 1 f 1 c 1 b 1 c 1 f 2 d 1 g 1 d 1 f 4
+b 2 c 3 f 2 d 3 f 4
+c 1 b 1 c 1 f 2 d 4 f 3 c 3
+c 3 f 2 d 1 f 1 d 1 f 2 c 7
+c 2 f 5 c 3 c 2
+c 1 b 1 c 6 c 2
+c 2 b 2 c 4
+c 1

@@ -1,0 +1,68 @@
+by "danusia03"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/6/11"
+height 19
+id 115641
+link "https://www.griddlers.net/nonogram/-/g/115641"
+medium_time "0:19:59"
+points 9744
+popularity 61.31
+title "Bells"
+width 24
+
+color a ffffff
+color b 000000
+color c ffff00
+color d ffcc00
+color e ffff99
+color f ff6666
+color g ff0000
+color h cc0000
+
+rows
+f 1
+f 3 f 1
+f 2 g 1 f 1 f 3
+f 3 g 3 f 1 f 1 g 1 f 2
+f 6 g 2 f 1 f 1 g 3 f 3
+g 2 f 2 g 1 g 1 h 3 f 4
+h 2 f 2 g 1 h 2 f 1 g 2 f 2
+h 3 f 1 h 2 f 1 g 2 f 1
+g 2 h 1 c 1 h 4 d 1 g 1 d 1 g 1 h 1 f 1
+g 1 h 4 c 1 h 2 d 1 h 1 d 1 h 3 g 1 f 2
+g 2 c 5 c 5 h 1 g 1 f 1
+g 1 h 1 c 1 d 3 c 1 e 1 c 1 c 1 d 3 c 1 e 1 c 1 h 1 g 2 f 1
+f 1 g 1 g 1 c 1 d 3 c 2 e 2 c 1 d 3 c 1 d 1 c 1 e 1 c 1 g 2
+f 1 g 1 e 4 c 4 e 1 c 1 e 5 c 1 e 1 c 1
+e 10 d 2 e 6
+d 4 c 1 d 1 c 1 e 2 d 3 c 1 d 1 c 3
+c 1 b 2 d 2 c 1 b 2 d 1 b 2 d 2 c 2 b 2
+c 1 b 1 c 2 b 2 d 1 d 1 b 2 c 1 e 1 b 2
+c 1 e 1 c 2 d 1 c 2 e 2 c 1
+
+columns
+f 1
+g 1 f 1
+g 1
+g 3 e 1
+f 1 g 2 h 1 c 1 e 2 d 1 c 1
+f 1 g 1 g 1 h 1 c 1 d 1 e 2 d 1 b 1 c 1
+f 2 g 1 h 1 g 1 h 1 c 1 d 2 e 2 d 1 b 2 c 1
+f 2 h 4 c 1 d 2 c 1 e 1 d 2 c 1 e 1
+f 3 h 1 c 1 h 1 c 1 d 1 c 2 e 1 c 1 d 1 c 2
+f 2 g 1 f 1 h 2 c 5 e 1 d 1 c 1 b 1 c 1
+f 2 g 3 f 1 h 2 c 1 e 2 c 1 e 1 c 1 b 2 d 1
+f 2 g 2 f 2 h 2 c 1 e 4 b 1 d 1
+f 2 g 1 f 2 h 1 c 2 e 2 d 1
+g 1 h 1 d 2 c 1 d 1 e 2 d 1 b 1 d 1
+f 1 g 1 h 2 g 1 h 1 c 1 d 2 e 1 d 2 b 2 c 1
+f 2 g 1 h 2 f 1 d 2 c 1 d 2 e 1 d 3 b 1 c 1
+f 2 g 2 h 1 f 1 g 2 h 1 c 1 d 1 c 1 e 2 c 1 d 1 c 1 e 1
+f 2 g 1 h 1 g 2 h 2 c 2 d 1 e 2 d 1 c 1 e 2
+f 3 g 1 f 1 h 1 c 1 e 1 c 2 e 1 c 2 b 1 c 1
+f 3 g 1 h 1 c 1 e 3 c 1 b 2
+f 3 g 1 h 1 c 2 e 1 c 1 b 1
+f 1 f 2 g 2 e 1
+f 1 g 2
+f 2

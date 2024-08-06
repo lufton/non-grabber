@@ -1,0 +1,57 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/18/12"
+height 25
+id 130596
+link "https://www.griddlers.net/nonogram/-/g/130596"
+medium_time "0:01:09"
+points 56
+popularity 78.44
+title "Lipstick"
+width 7
+
+color a ffffff
+color b 8c2c31
+color c de757b
+color d ffef8c
+color e fff708
+color f e7aa29
+color g 000000
+color h 808080
+
+rows
+b 1 c 1
+b 2 c 1
+b 3 c 1
+b 4 c 1
+b 3 c 2
+c 1 c 1 b 1 c 1
+c 1 c 1 b 1 c 1
+c 1 c 1 b 1 c 1
+c 1 c 1 b 1 c 1
+c 1 c 1 b 1 c 1
+c 1 c 1 b 1 c 1
+c 1 c 1 b 1 c 1
+d 1 e 1 d 2 f 1
+d 1 e 1 d 2 f 1
+d 1 e 1 d 2 f 1
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+g 1 h 1 g 1 h 1 g 3
+
+columns
+g 10
+b 2 c 7 d 3 h 10
+b 3 e 3 g 10
+b 4 c 7 d 3 h 10
+b 4 c 1 b 7 d 3 g 10
+c 12 f 3 g 10
+g 10

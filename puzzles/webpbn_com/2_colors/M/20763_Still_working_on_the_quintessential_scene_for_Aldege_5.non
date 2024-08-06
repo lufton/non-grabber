@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom King"
+date "Jan  3, 2013"
+description "I'll keep trying until I get it right..."
+difficulty 1.5
+height 20
+id 20763
+link "https://webpbn.com/play.cgi?id=20763"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Still working on the quintessential scene for Aldege #5"
+width 20
+
+rows
+1,4,5
+5,2,5,4
+1,1,1,2,1,1,1,4
+5,2,5,4
+1,1,4,6
+2,2,5,7
+2,2,5,7
+2,6,6
+2,1,3,1,3
+2,1,3,1,3
+2,1,3,1,3
+2,1,3,1,3
+5,6,3
+6,5,2,2,1
+6,5,2,2,1
+5,4,1,1,1
+3,5,2,5,1
+3,1,1,1,2,1,1,1,1
+3,5,2,5,1
+4,4,2
+
+columns
+1,13
+19
+1,1,2,8
+3,6,1
+1,1,2,7
+7,2,1,1
+1,3,3
+8,2,1,1
+19
+1,12,1
+19
+1,1,2,8
+3,3,1
+1,1,2,7
+7,2,1,1
+1,6,3
+8,2,1,1
+19
+13,1
+20

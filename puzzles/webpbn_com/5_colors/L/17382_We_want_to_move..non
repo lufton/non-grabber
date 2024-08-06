@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Jan 28, 2012"
+description "To the East Coast Canada.Houses are so much cheaper there and with large properties."
+difficulty 2.25
+height 30
+id 17382
+link "https://webpbn.com/play.cgi?id=17382"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "We want to move."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 9 blue 3
+blue 3 blue 9 green 1 blue 1 blue 2
+black 1 black 1 blue 9 green 3 blue 6 green 1
+black 2 black 1 blue 9 green 5 blue 4 green 2
+blue 1 black 2 blue 2 black 2 blue 2 black 2 blue 2 red 4 green 7 red 2 green 3
+blue 2 black 2 blue 3 black 2 blue 1 black 1 blue 2 red 4 green 1 green 3 red 2 green 1
+black 2 black 3 red 4 green 1 green 1 green 1 green 1 red 2 green 1 green 1 green 1
+black 1 black 1 black 2 red 6 green 1 green 1 red 4 green 1 green 1
+black 2 black 1 black 2 red 7 red 4
+black 1 black 3 red 8 green 1 green 1 red 4 green 1 green 1
+black 2 black 1 red 9 green 1 green 1 red 4 green 1 green 1
+black 2 black 1 blue 1 red 11 red 6
+blue 2 black 3 red 24
+blue 3 black 2 blue 2 black 1
+blue 3 black 1 blue 3 black 1
+blue 3 black 1 blue 3 black 1 red 6 red 10
+blue 3 black 1 blue 2 green 1 black 1 red 1 red 1 black 1 red 1 green 4 red 1 green 4
+blue 3 black 1 blue 1 green 2 black 1 red 1 green 2 red 1 black 3 red 1 green 4 red 1 green 4
+blue 2 green 1 black 1 green 3 black 1 red 1 green 2 red 1 green 1 red 1 green 4 red 1 green 4
+blue 1 green 2 black 1 green 3 black 1 red 1 red 1 red 1 green 4 red 1 green 4
+green 3 black 1 green 3 black 1 red 1 red 1 red 3 red 1 green 4 red 1 green 4
+green 3 black 1 green 3 black 1 red 1 black 1 red 1 red 3 red 10
+green 7 black 1 blue 1 red 1 red 1 blue 1 blue 1
+green 7 blue 3 red 1 blue 15
+green 7 black 1 blue 1 red 1 red 1 blue 1 blue 1
+green 7 blue 2 black 7 blue 14
+green 7 black 1 blue 1 black 5 blue 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+green 7 black 1 blue 1 black 4 blue 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+green 7 black 1 blue 1 black 3 blue 1 black 1 blue 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1
+green 7 black 1 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1
+
+columns
+blue 2 black 2 blue 2 black 2 blue 7 green 10
+blue 2 black 2 blue 1 black 3 blue 7 green 11
+blue 1 black 2 black 2 blue 6 green 12
+black 2 black 11 green 8
+blue 2 black 4 black 2 blue 4 green 12
+blue 2 black 4 blue 4 green 13
+black 3 blue 1 black 2 blue 1 red 1 blue 3 green 14
+black 2 black 2 red 2 black 10 blue 1 black 1 blue 1 black 4
+blue 1 black 3 red 3 blue 8
+blue 2 black 1 red 4 red 8 blue 1 red 1 black 1
+blue 1 blue 1 black 3 red 5 red 1 black 1
+blue 1 blue 2 black 1 blue 1 red 6 red 1 green 2 black 2
+blue 6 red 7 red 1 green 2 black 3
+blue 5 red 8 red 1 black 1 black 4
+blue 4 red 9 red 10 black 5
+blue 4 red 9 blue 1 black 5
+blue 4 red 2 green 1 red 6 black 1 red 2 blue 8
+blue 4 red 1 green 1 red 2 black 2 green 1 red 2 blue 1 blue 1 black 4
+blue 4 green 1 green 2 green 2 red 1 black 1 red 2 blue 1 blue 5
+blue 2 green 2 red 1 blue 1 blue 1 black 2
+blue 1 green 3 green 2 green 2 red 1 red 7 blue 1 blue 5
+green 5 red 2 red 1 green 5 red 1 blue 1 blue 1
+blue 1 green 5 red 6 red 1 green 5 red 1 blue 1 blue 5
+blue 1 green 3 red 7 red 1 green 5 red 1 blue 1 blue 1
+blue 2 green 1 red 8 red 1 green 5 red 1 blue 8
+blue 2 red 2 green 1 red 6 red 7 blue 1 blue 1
+blue 2 red 1 green 1 red 2 red 1 green 5 red 1 blue 1 blue 5
+blue 1 blue 2 green 1 green 2 green 2 red 1 red 1 green 5 red 1 blue 1 blue 1
+blue 3 green 2 red 1 red 1 green 5 red 1 blue 1 blue 5
+blue 2 green 3 green 2 green 2 red 1 red 1 green 5 red 1 blue 1 blue 1

@@ -1,0 +1,30 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166635
+link "https://www.griddlers.net/nonogram/-/g/166635"
+medium_time "0:00:09"
+points 0
+popularity 62.33
+title "Hat"
+width 5
+
+color a ffffff
+color b ff9900
+color c cc0000
+
+rows
+b 3
+b 3
+b 3
+c 3
+b 5
+
+columns
+b 1
+b 3 c 1 b 1
+b 3 c 1 b 1
+b 3 c 1 b 1
+b 1

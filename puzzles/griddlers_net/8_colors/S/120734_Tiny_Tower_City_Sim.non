@@ -1,0 +1,49 @@
+by "jedslater"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/14/12"
+height 11
+id 120734
+link "https://www.griddlers.net/nonogram/-/g/120734"
+medium_time "0:03:03"
+points 534
+popularity 48.1
+title "Tiny Tower: City Sim"
+width 13
+
+color a 00ff00
+color b ffffff
+color c cccccc
+color d 999999
+color e 9999ff
+color f 6666ff
+color g 3366ff
+color h 0099ff
+
+rows
+b 1 b 1 e 1 f 1 g 1 h 1
+c 1 d 1 b 1 c 1 d 1 b 1 e 1 f 1 g 1 h 1
+c 1 d 1 b 1 c 2 d 1 b 1 e 1 f 1 g 1 h 1
+b 8 e 1 f 1 g 1
+c 1 d 1 b 1 b 1 e 1 f 1 g 1
+c 1 d 1 b 1 c 1 d 1 b 1 e 1 f 1 g 1
+b 8 e 1 f 1 g 1 h 1
+c 1 d 1 b 1 e 1 f 1 g 1 h 2
+c 1 d 1 b 1 c 1 d 1 e 1 f 1 g 1 h 2
+b 4 e 1 f 1 g 1 h 2
+b 1 e 1 f 1 g 1 h 2
+
+columns
+b 1 b 1 b 1
+c 2 b 1 c 2 b 1 c 2 b 1
+d 2 b 1 d 2 b 1 d 2 b 1
+b 11
+c 2 b 1 c 1 b 1 c 1
+d 1 c 1 b 1 d 1 b 1 d 1
+d 1 b 1 b 1
+b 7
+e 4
+e 3 e 1 f 4
+f 3 e 3 f 1 g 4
+g 3 f 3 g 1 h 4
+h 3 g 3 h 5

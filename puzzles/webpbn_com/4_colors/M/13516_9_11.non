@@ -1,0 +1,62 @@
+by "anthony smith (something)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by anthony smith"
+date "Apr 21, 2011"
+description "Red Porshe 911"
+difficulty 1.25
+height 20
+id 13516
+link "https://webpbn.com/play.cgi?id=13516"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "9 11"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+blue 4
+red 1 blue 7
+red 3 blue 9 red 1
+red 16
+red 2 black 3 red 2 black 2 red 4 black 3 red 1
+red 2 black 3 red 8 black 3 red 2
+
+columns
+0
+red 2
+red 4
+red 4
+blue 1 red 1 black 2
+blue 2 red 1 black 2
+blue 2 red 1 black 2
+blue 3 red 3
+blue 3 red 3
+blue 3 red 1 black 1 red 1
+blue 3 red 1 black 1 red 1
+blue 2 red 3
+blue 1 red 3
+red 4
+red 3
+red 1 black 2
+red 1 black 2
+red 1 black 2
+red 2
+red 1

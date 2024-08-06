@@ -1,0 +1,57 @@
+by "Janet (jltho)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Janet"
+date "Dec  5, 2011"
+description "The hens seem to be tiptoeing through their yard in the cold."
+difficulty 3.5
+height 20
+id 16620
+link "https://webpbn.com/play.cgi?id=16620"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.75
+title "Too cold for eggs"
+width 20
+
+rows
+1,1
+4
+1,2
+3,1,1,2
+2,2,3
+1,5,4,2,1
+2,3,4,1
+2,1,1
+1,2,2
+1,1,3,1
+1,2,4,1
+2,2,1,2
+2,3,2,1
+3,6,1
+2,2
+4,4
+1,1,2
+1,3,2,1
+4,5
+1,1,1,1
+
+columns
+1
+2
+4,5
+1,2,2
+2,1,2,2
+1,1,1,2
+3,2,3,2,2
+4,2,2,2,2
+2,2,1,2
+1,1,1,1
+2,2,3
+1,1,1
+1,1,1,2
+2,2,1,2
+1,1,1,1,1
+1,1,2,2,2
+2,3,1,2
+2,1,2
+2,4,2
+6,4

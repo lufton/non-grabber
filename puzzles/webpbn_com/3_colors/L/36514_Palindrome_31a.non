@@ -1,0 +1,81 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Apr  3, 2023"
+description "2 words, 11 letters."
+difficulty 1.5
+height 45
+id 36514
+link "https://webpbn.com/play.cgi?id=36514"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Palindrome 31a"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 1
+black 3
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 1 red 5 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 black 1 red 1 black 1 black 1
+black 2 black 1 red 5 black 1 black 2
+black 13
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 5
+black 7
+black 5
+
+columns
+black 2
+black 2
+black 1
+black 1
+black 31 black 1
+black 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 3
+black 3 red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 2 black 9
+black 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 3
+black 3 red 2 red 1 red 2 red 1 red 2 red 1 red 2 red 1 red 2 red 1 black 9
+black 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 3
+black 31 black 1
+black 1
+black 1
+black 2
+black 2

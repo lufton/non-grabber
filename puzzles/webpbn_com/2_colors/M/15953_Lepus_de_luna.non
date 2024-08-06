@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Oct  3, 2011"
+description "The bunny on the moon. Take a look during the next full moon."
+difficulty 1.5
+height 20
+id 15953
+link "https://webpbn.com/play.cgi?id=15953"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Lepus de luna"
+width 20
+
+rows
+8,8
+6,3,6
+4,3,4
+3,3,2,2,3
+2,2,5,2,2
+2,1,7,2
+1,2,9,1
+1,12,1
+11,2
+7,2
+4,3,2
+2,2
+1,2,1
+1,2,1
+2,2,2
+2,2
+3,3
+4,4
+6,6
+8,8
+
+columns
+8,8
+6,6
+4,5,4
+3,8,3
+2,2,5,2
+2,1,5,2
+1,2,5,1
+1,1,7,1
+2,9
+1,6,5
+1,6,2
+5
+1,4,1
+1,2,2,1
+2,2,3,2
+2,3,2
+3,3
+4,4
+6,6
+8,8

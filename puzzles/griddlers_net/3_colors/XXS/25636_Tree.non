@@ -1,0 +1,30 @@
+by "Malaika"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/27/05"
+height 5
+id 25636
+link "https://www.griddlers.net/nonogram/-/g/25636"
+medium_time "0:00:13"
+points 3
+popularity 41.17
+title "Tree"
+width 5
+
+color a 0000ff
+color c 00ff00
+color f b98529
+
+rows
+0
+c 3
+c 1 f 1 c 1
+f 1
+c 5
+
+columns
+c 1
+c 2 c 1
+c 1 f 2 c 1
+c 2 c 1
+c 1

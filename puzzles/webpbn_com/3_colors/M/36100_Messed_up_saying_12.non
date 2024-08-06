@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Nov 21, 2022"
+description "Just biting my time"
+difficulty 3.25
+height 20
+id 36100
+link "https://webpbn.com/play.cgi?id=36100"
+note "published,definitely unique,may require some guessing"
+quality 3.0
+title "Messed up saying 12"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 3 red 2 black 2 black 1
+black 2 red 4 black 3
+black 5 red 1 black 1 red 2 black 2
+black 3 black 1 black 1 red 2 black 1 red 2
+black 2 black 2 red 2 black 1 red 1
+black 2 black 2 red 4 black 1
+black 1 black 2 red 2 black 2
+black 2 black 1 black 3 black 2
+black 1 black 1 black 1 black 2
+black 2 black 5 black 4
+black 1 black 2
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 3 black 1 black 3
+black 5
+
+columns
+black 5
+black 3 black 1 black 3
+black 2 black 2
+black 2 black 1 black 2
+black 1 black 1 black 1
+black 4 black 1 black 2
+black 4 black 1 black 1
+black 3 black 2 black 3 black 2
+black 2 black 1 black 1
+black 1 black 3 black 2
+red 2 black 2 black 1
+red 4 black 2 black 2
+red 1 black 1 red 2 black 2 black 2
+red 2 black 1 red 2 black 1 black 1 black 3
+red 2 black 1 red 1 black 5
+red 4 black 2
+black 1 red 2 black 2
+black 2 black 2
+black 2 black 2
+black 6 black 2

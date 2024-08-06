@@ -1,0 +1,106 @@
+by "Robyne_Hud"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/23/05"
+height 46
+id 24441
+link "https://www.griddlers.net/nonogram/-/g/24441"
+medium_time "0:39:08"
+points 122480
+popularity 75.0
+title "Mah Jongg - Flower Chrysanthemum"
+width 36
+
+color a ffffff
+color b 000000
+color c 800000
+color d 0000ff
+color e ffff00
+color f ff0000
+color g 00ff00
+
+rows
+b 36
+b 3 b 3
+b 2 b 2
+b 1 b 4 b 1
+b 1 b 2 b 2 b 1
+b 1 b 2 b 1
+b 1 b 3 b 1
+b 1 b 2 b 1
+b 1 b 2 b 2 b 1
+b 1 c 1 d 1 d 1 d 1 b 4 b 1
+b 1 c 1 c 1 d 1 d 3 d 1 b 1
+b 1 c 1 c 1 d 1 d 2 d 1 d 1 d 1 b 1
+b 1 c 4 d 3 d 1 d 1 d 1 d 1 d 1 b 1
+b 1 c 1 d 1 d 1 d 1 d 2 d 1 d 1 b 1
+b 1 c 2 d 1 d 1 e 2 d 2 d 2 e 2 d 2 c 2 b 1
+b 1 c 2 d 2 d 1 e 1 d 1 d 1 e 1 d 2 c 3 b 1
+b 1 c 2 d 2 d 1 e 2 d 1 d 1 e 2 d 1 d 2 c 3 b 1
+b 1 d 1 d 2 d 1 e 1 f 3 e 1 d 3 d 1 b 1
+b 1 d 1 d 2 d 1 f 1 e 1 f 1 e 1 f 1 d 4 d 1 b 1
+b 1 d 4 d 1 f 5 d 4 b 1
+b 1 d 1 d 4 f 1 e 1 f 1 e 1 f 1 d 4 d 1 b 1
+b 1 d 1 d 2 e 1 f 3 e 1 d 2 d 1 b 1
+b 1 d 2 d 3 e 1 d 2 d 1 e 1 d 2 d 2 b 1
+b 1 d 2 d 1 e 1 d 1 d 1 e 1 d 1 d 2 b 1
+b 1 d 1 d 1 e 1 d 1 d 1 d 1 e 1 d 1 d 1 b 1
+b 1 c 1 d 2 d 1 d 2 d 2 d 1 d 2 c 1 b 1
+b 1 c 1 d 1 d 1 d 1 d 1 d 1 d 1 d 1 c 1 b 1
+b 1 c 2 d 1 d 1 d 1 d 1 d 1 c 1 b 1
+b 1 c 2 d 1 d 3 d 1 c 1 b 1
+b 1 c 1 d 1 d 1 d 1 c 2 b 1
+b 1 c 2 c 1 c 3 b 1
+b 1 c 4 c 2 b 1
+b 1 c 3 c 3 b 1
+b 1 c 1 c 6 g 1 b 1
+b 1 g 2 c 1 c 2 g 1 c 1 g 3 b 1
+b 1 g 6 c 4 g 2 c 1 g 2 b 1
+b 1 g 4 c 6 g 2 c 1 g 2 b 1
+b 1 c 1 g 4 b 1
+b 1 c 1 b 1
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 1 c 1 b 1
+b 1 c 2 b 1
+b 2 b 2
+b 3 b 3
+b 36
+
+columns
+b 46
+b 3 b 3
+b 2 b 2
+b 1 c 3 b 1
+b 1 c 1 b 1
+b 1 c 3 b 1
+b 1 c 4 c 2 g 1 b 1
+b 1 c 2 g 1 b 1
+b 1 c 1 d 1 d 1 d 1 g 3 b 1
+b 1 d 1 d 3 d 1 g 3 b 1
+b 1 d 1 d 1 d 1 d 1 d 1 c 3 g 2 b 1
+b 1 d 1 d 1 d 1 d 1 d 1 d 1 d 2 c 2 g 2 c 1 b 1
+b 1 d 2 d 1 d 2 d 2 d 1 d 1 c 3 c 1 c 3 b 1
+b 1 d 2 d 1 d 1 d 1 d 1 d 1 d 1 d 1 c 2 c 1 c 2 b 1
+b 1 d 1 e 1 d 1 d 1 d 2 d 2 d 2 c 2 c 4 b 1
+b 1 d 2 e 3 d 1 d 1 d 1 e 2 d 2 c 6 b 1
+b 1 d 1 d 2 d 1 e 2 f 3 e 2 d 2 d 1 c 3 c 2 b 1
+b 1 d 1 d 4 f 1 e 1 f 1 e 1 f 1 d 4 d 1 c 2 b 1
+b 1 d 4 f 5 d 1 d 4 c 2 b 1
+b 1 d 1 d 4 f 1 e 1 f 1 e 1 f 1 d 3 d 1 c 2 b 1
+b 1 d 1 d 3 e 2 f 3 e 1 d 1 d 2 d 1 c 2 b 1
+b 1 d 2 e 3 d 1 d 1 e 2 d 1 d 2 c 2 b 1
+b 1 d 1 e 1 d 1 d 1 d 1 d 2 e 1 d 2 c 3 b 1
+b 1 d 2 d 1 d 2 d 1 d 1 d 1 d 1 c 2 c 1 g 2 b 1
+b 1 d 1 d 1 d 2 d 2 d 1 d 1 c 1 c 2 g 2 b 1
+b 1 d 1 d 1 d 1 d 1 d 1 d 1 d 2 c 2 g 2 c 1 g 2 b 1
+b 1 d 1 d 1 d 1 d 1 d 1 c 5 g 2 c 1 g 1 b 1
+b 1 b 1 b 1 d 1 d 3 d 1 g 4 b 1
+b 1 b 2 b 2 c 1 d 1 d 1 d 1 g 2 b 1
+b 1 b 1 b 1 b 1 c 1 b 1
+b 1 b 1 b 1 b 1 c 2 b 1
+b 1 b 7 c 1 b 1
+b 1 b 2 b 2 c 2 b 1
+b 2 c 1 b 2
+b 3 b 3
+b 46

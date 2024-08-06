@@ -1,0 +1,63 @@
+by "OrliKids (jlorli)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by OrliKids"
+date "Dec 21, 2013"
+description "a beach party scene made by my 9-year-old son, his first puzzle"
+difficulty 2.0
+height 20
+id 23398
+link "https://webpbn.com/play.cgi?id=23398"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.5
+title "peace"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4
+red 7 black 2
+red 4 black 1 black 1 black 1 black 1
+red 7
+red 4 black 1
+red 1 red 1 red 1 black 1
+red 1 red 1 red 1 blue 4
+red 1 red 1 red 1 black 1 blue 1 blue 1
+black 2 blue 1
+black 1 black 1 blue 1
+black 2 blue 1
+black 1 blue 1
+green 3 blue 1 green 1
+green 1 black 1 green 1 blue 1 black 1
+black 3 blue 1 black 1
+black 3 blue 1 black 1
+blue 2 blue 2 blue 2 black 3 blue 1 black 1
+blue 1 blue 1 blue 1 black 3 blue 1 black 1
+blue 15 black 3 blue 1 black 1
+blue 19 black 1
+
+columns
+red 8 blue 2
+red 5 blue 2
+red 8 blue 4
+red 5 blue 1 blue 2
+red 1 red 1 red 1 blue 2
+red 1 red 1 red 1 blue 2
+red 1 red 1 red 1 black 3 blue 2
+black 1 blue 4
+blue 1 blue 2
+blue 2
+blue 2
+black 2 black 3 blue 4
+black 1 black 1 blue 1 blue 2
+blue 2
+blue 2
+black 1 black 1 green 2 black 5 blue 1
+blue 2 green 1 black 6 blue 1
+black 1 black 1 blue 1 green 2 black 5 blue 1
+blue 14
+black 1 blue 1 green 1 black 7

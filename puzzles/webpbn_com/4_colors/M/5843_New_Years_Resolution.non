@@ -1,0 +1,62 @@
+by "S. Brooks (snorwoo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by S. Brooks"
+date "May 10, 2009"
+description "Need to get up on the treadmill and loose the lb's!"
+difficulty 1.75
+height 20
+id 5843
+link "https://webpbn.com/play.cgi?id=5843"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "New Year's Resolution"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 8
+black 2 black 3 black 1
+black 2 black 6
+black 5
+black 3
+red 5 black 5
+red 7 black 5
+red 1 black 2 red 4 black 2
+red 1 black 3 red 3 black 2 black 2
+red 2 black 7 black 2
+red 6 black 2
+blue 5 black 2
+blue 5 black 2
+blue 2 blue 2 black 2
+black 3 blue 2 blue 2 black 2
+black 2 black 1 black 2
+black 2 black 3 black 2
+black 3 black 2
+black 20
+black 20
+
+columns
+black 2
+black 2
+black 2
+black 1 black 2
+black 3 black 3 black 2
+black 2 black 3 black 2
+black 1 red 4 black 1 black 2
+black 4 red 2 black 2 red 2 blue 4 black 2
+black 5 red 2 black 3 red 1 blue 4 black 2
+black 5 red 3 black 2 red 1 blue 2 black 2
+black 1 black 3 red 4 black 1 red 1 blue 4 black 5
+black 4 red 4 black 1 red 1 blue 4 black 4
+black 1 red 3 black 1 red 1 black 4
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 15
+black 15

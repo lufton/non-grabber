@@ -1,0 +1,51 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kristen Vognild"
+date "Jun 20, 2012"
+description "This is the last red-and-blue superhero I could think of :)"
+difficulty 2.0
+height 15
+id 19063
+link "https://webpbn.com/play.cgi?id=19063"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "WCP #111 - Rounding out the series"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 5 black 2
+black 2 black 2 blue 1 blue 1 black 2 black 2
+black 1 black 1 blue 3 blue 2 black 2 black 1
+black 1 blue 3 blue 2 black 2
+black 2 blue 3 blue 3 black 2
+black 2 blue 3 black 2
+black 1 blue 2 black 1
+black 1 blue 3 blue 1 black 1
+black 1 blue 4 blue 2 black 1
+black 2 blue 2 blue 3 black 1
+black 1 blue 2 blue 1 blue 2 black 1
+black 2 blue 3 blue 1 black 1
+black 1 black 1 blue 5 black 1 black 1
+black 2 black 2 blue 3 black 2 black 2
+black 2 black 5 black 2
+
+columns
+black 2 black 5 black 2
+black 2 black 2 blue 3 black 2 black 2
+black 1 black 2 blue 5 black 1 black 1
+black 1 blue 2 blue 4 black 2
+black 1 blue 3 blue 1 black 1
+black 2 blue 3 blue 1 black 2
+black 1 blue 2 blue 3 black 1
+black 1 blue 4 black 1
+black 1 blue 2 blue 3 black 1
+black 2 blue 3 blue 1 black 2
+black 2 blue 3 black 1
+black 2 blue 2 blue 3 black 1
+black 1 black 2 blue 1 blue 3 black 1 black 1
+black 2 black 2 blue 3 black 1 black 2
+black 2 black 5 black 2

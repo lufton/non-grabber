@@ -1,0 +1,80 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/13/12"
+height 25
+id 119704
+link "https://www.griddlers.net/nonogram/-/g/119704"
+medium_time "0:25:53"
+points 20905
+popularity 87.4
+title "Floral Bouquet"
+width 30
+
+color a f7f7f6
+color b 278224
+color c 7bc944
+color d c43030
+color e ff7070
+color f fff754
+color g ffc23d
+color h 5caf41
+
+rows
+h 1
+h 2
+c 1 h 3
+c 2 h 1 h 2 f 4
+c 1 h 1 b 2 h 4 g 2 f 2 g 2
+c 2 h 1 b 2 e 4 g 4
+c 1 h 1 b 1 e 4 d 2 g 1 b 1 f 3
+e 1 c 1 h 1 b 1 d 1 e 1 d 3 b 2 f 5
+e 2 c 1 h 2 b 1 d 3 b 2 f 3 g 2
+e 1 c 1 h 1 b 2 f 3 b 3 g 3
+e 1 e 4 h 1 c 1 h 1 b 1 f 3 g 2 b 1 e 2 b 1
+e 3 e 2 h 2 c 1 h 1 b 1 g 4 b 1 e 4 b 3
+e 1 h 2 c 2 b 1 c 2 g 2 b 1 e 3 d 2 b 2
+e 3 e 1 c 6 h 1 e 4 d 4 b 1 e 4
+e 2 e 3 c 2 b 2 c 2 e 6 d 2 b 1 e 4 d 2
+c 1 h 1 b 1 e 1 b 1 c 2 e 1 b 2 h 1 c 2 b 2 d 1 e 3 d 1 b 2 f 2 b 1 e 2 d 2
+b 1 e 2 b 3 e 1 h 4 b 1 c 2 h 1 d 3 b 1 f 5 b 1 d 2
+h 2 e 1 b 4 b 3 c 1 h 1 b 4 g 1 f 2 g 3 b 1
+b 2 c 3 h 1 b 1 h 1 b 2 g 3 b 2
+c 2 h 1 b 2 h 1 b 2 e 4
+c 3 h 1 b 1 h 2 e 6
+c 2 h 1 h 2 d 1 e 3 d 1
+c 1 h 1 h 2 d 3
+c 1 h 1
+c 1 h 1
+
+columns
+c 1 h 1
+h 1 b 1 h 1 b 1
+e 4 b 1 e 2 b 1
+e 2 e 1 e 3 b 1
+e 2 e 2 b 3
+e 1 e 1 c 1 b 2
+e 1 e 2 c 1 b 2
+e 2 e 3
+e 4 b 1 h 1
+c 2 b 1 h 1
+h 1 c 2 h 2
+c 2 h 2 c 1 b 1 c 1 h 1 b 1
+c 3 h 2 c 2 b 1 c 1 b 2
+h 2 c 10 b 1 c 1 b 1 c 1
+b 1 h 7 b 1 c 2 b 1 c 5
+b 4 h 1 b 3 c 1 h 1 e 1 d 1 h 2 c 4
+h 1 b 1 e 1 d 1 b 2 f 1 g 1 c 1 e 3 d 1 b 1 h 2 c 5
+h 1 e 3 d 1 f 2 g 2 e 3 d 1 b 3 h 3
+h 1 e 2 d 2 f 2 g 2 e 3 d 1 b 1 h 1 b 2
+h 2 e 2 d 2 f 1 g 2 b 1 e 2 d 1 b 3 h 3
+h 2 g 1 e 1 d 2 b 2 g 1 b 1 e 1 d 1 e 1 b 1 f 1 g 1 b 2 h 3
+h 2 f 1 g 2 d 1 b 4 e 2 d 2 b 1 f 2 g 1 b 1 e 1 d 1 h 3
+h 3 f 2 g 2 b 1 f 1 b 1 e 3 d 2 f 3 g 1 e 3 d 1
+f 2 g 1 b 1 f 2 g 1 e 2 d 2 b 1 f 2 g 2 e 3 d 1
+f 1 g 2 f 3 g 1 b 1 e 1 d 1 b 1 e 1 b 1 f 1 g 1 b 1 e 3 d 1
+g 1 f 2 g 2 b 2 e 3 b 1 g 1 b 1 e 2 d 1
+f 2 g 1 b 2 e 3 d 1 b 1 e 1
+f 1 b 1 e 2 d 2
+e 1 d 2
+d 1

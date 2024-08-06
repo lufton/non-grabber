@@ -1,0 +1,104 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/10/04"
+height 40
+id 11110
+link "https://www.griddlers.net/nonogram/-/g/11110"
+medium_time "1:01:56"
+points 44140
+popularity 60.24
+title "Marc Chagall's Portrait"
+width 40
+
+color a 000000
+color b a26176
+color c 421214
+color d 721410
+color e 4b4b70
+color f c3c8e4
+color g 7c82a3
+
+rows
+b 5 c 1 b 16
+b 4 c 2 b 1 b 12
+b 3 c 1 c 2 b 11
+b 3 c 1 c 2 b 10
+b 2 c 1 c 3 b 9
+b 2 c 2 d 2 b 9
+b 1 c 1 d 1 c 1 d 1 c 1 b 9
+b 1 d 3 c 1 b 9
+c 1 d 3 e 2 b 9
+c 1 d 3 c 1 e 5 c 1 b 9
+d 2 c 4 f 1 g 2 e 4 e 1 f 3 g 1 e 3 c 2 b 10
+d 2 e 1 f 2 g 1 f 9 g 1 e 3 c 1 b 11
+d 1 c 3 f 1 g 1 e 1 g 2 f 6 g 3 e 1 c 1 b 11
+d 1 c 4 e 1 g 1 e 3 g 1 f 3 g 1 e 1 g 3 e 2 b 11
+d 2 c 3 e 1 f 1 g 3 e 6 g 4 e 1 c 1 b 11
+c 2 c 2 e 12 e 5 c 1 b 11
+e 5 g 1 e 5 e 5 c 1 b 11
+c 2 e 1 g 1 e 5 e 4 g 1 e 2 f 2 e 2 c 2 b 12
+c 2 c 1 e 1 e 3 g 1 e 3 e 1 g 2 e 2 b 12
+c 3 e 1 g 3 e 8 e 1 g 2 e 3 d 1 b 12
+c 4 c 1 f 3 e 1 g 1 e 2 f 1 g 1 e 5 f 2 g 1 e 1 b 1 c 1 b 13
+c 3 f 2 e 4 f 3 e 2 g 1 f 4 e 2 b 1 b 12
+c 2 c 2 f 2 e 3 g 1 f 3 e 2 g 1 f 4 g 2 c 1 b 11
+c 1 c 1 e 1 f 1 g 2 f 4 g 1 e 3 f 1 g 2 f 1 g 1 e 1 b 8
+c 2 e 2 g 1 f 4 e 4 f 2 e 1 g 1 e 1 b 5
+c 4 e 2 g 2 f 1 e 5 f 2 e 1 b 3
+c 4 e 2 g 1 e 1 g 1 e 2 f 1 g 1
+c 3 e 1 g 1 e 1 e 2 g 1 e 1 c 1
+c 1 d 1 c 2 g 1 d 2 c 2 c 1 c 2 d 1 e 1 d 1 e 1
+c 1 d 3 c 1 e 1 d 1 c 1 d 1 e 3 c 1 d 2
+c 1 d 2 c 2 d 1 c 1 e 1 f 3 e 1 c 1 d 1 c 3 c 2
+c 6 d 2 f 3 e 2 c 1 c 3 c 3
+c 5 d 1 c 1 d 2 e 4 c 1 c 4 c 3
+c 4 d 7 e 1 c 3 d 1 c 4 c 3
+c 3 d 8 d 3 c 1 c 2
+c 3 d 8 d 5 c 2 c 2
+c 1 d 10 c 1 d 4 c 2 c 2
+c 3 d 8 c 2 d 4 c 1 c 2 c 2
+c 1 d 9 c 2 d 4 c 2 c 2
+d 9 c 2 c 1 d 3 c 3 c 3
+
+columns
+b 8 c 2 d 5 c 1 c 7
+b 6 c 1 d 4 c 2 d 1 c 1 c 6
+b 4 c 2 d 3 c 1 c 3 c 3
+b 2 c 2 c 1 d 4 c 1 c 3 c 1 c 1 c 1 c 2 d 1
+b 1 c 1 d 1 c 1 d 1 c 2 c 3 c 1 c 2 c 1 d 1 c 7 d 2
+c 3 d 2 c 1 c 1 c 1 c 1 c 7 d 2 c 5 d 1 c 1 d 2
+c 4 c 1 c 4 d 2 c 6 d 4
+c 2 e 1 e 2 e 1 f 3 e 1 c 4 d 1 c 4 d 6
+f 3 e 4 g 1 e 1 g 1 f 4 e 1 c 2 d 1 c 2 d 7
+g 1 f 1 g 2 f 1 e 3 g 1 f 1 e 2 g 1 e 4 g 1 e 1 c 2 d 8
+g 2 e 2 g 1 e 3 g 1 e 3 g 2 e 2 g 1 d 2 c 1 d 7
+e 1 f 1 g 1 e 1 g 1 e 5 g 1 e 2 f 2 g 2 e 1 d 1 c 1 d 9
+e 1 f 1 g 1 e 1 g 1 e 1 g 1 e 5 g 1 f 2 g 1 c 1 d 1 e 1 d 8 c 1
+e 1 f 2 g 1 e 7 f 5 e 1 c 1 e 1 f 2 e 1 d 5 c 2
+e 1 f 3 e 3 e 1 f 5 e 1 g 1 e 1 f 2 e 1 d 4 c 2
+f 3 e 4 e 1 g 1 f 2 g 1 e 3 c 1 e 1 f 2 e 2 c 2
+e 1 f 3 e 4 g 1 e 8 e 3 c 1 d 4 c 1
+f 3 g 1 e 12 c 1 e 1 c 1 d 6
+e 1 f 3 e 3 e 4 g 2 e 3 e 1 c 1 c 2 d 6
+e 1 f 2 g 3 e 1 g 1 e 1 e 1 f 5 e 1 d 1 c 2 d 7
+e 1 g 5 e 2 e 1 f 2 g 1 f 3 e 1 c 1 d 1 c 2 d 1 c 3
+e 4 g 3 e 3 e 1 f 3 g 1 e 2 g 2 d 2 c 4 c 2
+e 6 g 1 e 2 f 1 e 1 g 1 f 4 g 1 e 2 d 1 c 4 c 1
+e 2 e 4 f 1 g 3 e 1 g 2 e 1 c 1 c 8
+b 1 c 3 e 3 g 1 e 3 g 1 e 1 c 5
+b 1 c 1 c 1 c 1 e 1 e 3 b 2 c 1 c 4 c 2
+b 2 c 1 e 2 c 1 c 8 c 1
+b 1 c 1 d 1 b 1 c 7
+b 2 c 2 b 5
+b 3 b 12
+b 4 b 13
+b 23
+b 24
+b 24
+b 24
+b 25
+b 25
+b 26
+b 26
+b 26

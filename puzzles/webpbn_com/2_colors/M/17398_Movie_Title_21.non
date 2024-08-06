@@ -1,0 +1,67 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David Bouldin"
+date "Jan 30, 2012"
+description "Rebus-style Movie Title"
+difficulty 2.25
+height 25
+id 17398
+link "https://webpbn.com/play.cgi?id=17398"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Movie Title #21?"
+width 25
+
+rows
+3,3,1
+1,1,1,2
+1,1,1,1,6
+3,3,2
+1
+5,5
+6,7
+2,2,2
+2,3,2,2
+2,3,2,2
+2,2,2,2
+6,7
+5,5
+4
+7,6
+8,8
+9,3,3
+3,3,3
+3,3,3
+3,4,3,3
+3,4,3,3
+3,3,3,3
+9,8
+8,6
+7,4
+
+columns
+4
+1,1
+1,2
+6
+4,8
+1,1,2,2
+4,2,2,2,7
+2,5,9
+1,2,5,11
+3,3,3
+5,6,3,3
+1,8,3,2,3
+1,2,2,3,6
+1,2,2,3,6
+2,2,3,6
+8
+6
+8
+10
+12
+3,3
+3,3
+12
+10
+8

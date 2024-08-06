@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Jan 10, 2013"
+description "a lil rebus for ya...."
+difficulty 2.0
+height 20
+id 20830
+link "https://webpbn.com/play.cgi?id=20830"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "novel title?"
+width 20
+
+rows
+1
+2,7
+6,2,1
+3,2,2
+2,5
+1,2
+2
+2
+1,2
+1,1,4
+1,1,2,4
+2,3,2,2,1
+2,1,1,2,2,1
+6,2,4
+1,4,2,1,4
+1,2,4,1,1,2
+1,7,3,2
+10,1,2,2
+6,3,4,2
+6,3,7
+
+columns
+6,12
+4,3,3
+2,7
+1,9
+1,3,2,4
+2,9
+1,3
+1,10
+1,10
+1,3
+1
+2
+2
+2,3
+1,3,2
+2,4
+3,11
+3,6,1
+5,7
+14

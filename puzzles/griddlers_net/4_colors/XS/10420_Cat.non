@@ -1,0 +1,41 @@
+by "nhfk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/31/04"
+height 11
+id 10420
+link "https://www.griddlers.net/nonogram/-/g/10420"
+medium_time "0:02:17"
+points 597
+popularity 41.65
+title "Cat"
+width 9
+
+color a ffffff
+color d 0000ff
+color f ff0000
+color h 000000
+
+rows
+h 1 h 1
+h 2 h 2
+h 1 h 3 h 1
+h 1 h 1
+h 1 d 1 d 1 h 1
+h 1 h 1
+h 1 f 1 h 1
+f 1 h 5 f 1
+f 3 f 3
+f 7
+f 2 f 2
+
+columns
+h 3
+h 3 h 1 f 4
+h 1 h 1 f 3
+h 1 d 1 h 1 f 2
+h 1 f 1 h 1 f 1
+h 1 d 1 h 1 f 2
+h 1 h 1 f 3
+h 3 h 1 f 4
+h 3

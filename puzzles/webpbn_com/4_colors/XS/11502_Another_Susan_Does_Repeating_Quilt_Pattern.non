@@ -1,0 +1,42 @@
+by "S Siakoulis (nitsa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by S Siakoulis"
+date "Dec 19, 2010"
+description "Seeing Susan's -11484 and Brian's -11500, I thought I'd take a shot. (My 1st attempt at making a puzzle)"
+difficulty 1.5
+height 10
+id 11502
+link "https://webpbn.com/play.cgi?id=11502"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Another Susan Doe's Repeating Quilt Pattern"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 blue 1 green 3 blue 3 green 1 blue 1
+blue 2 black 1 green 1 blue 1 black 1 green 2
+green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 black 1 blue 2 green 2 black 1 blue 1
+green 3 blue 1 green 1 blue 1 green 1 blue 3
+blue 3 green 1 blue 1 green 1 blue 1 green 3
+blue 1 black 1 green 2 blue 2 black 1 green 1
+blue 1 green 1 blue 1 green 1 blue 1 green 1
+green 2 black 1 blue 1 green 1 black 1 blue 2
+blue 1 green 1 blue 3 green 3 blue 1 green 1
+
+columns
+green 1 blue 1 green 3 blue 3 green 1 blue 1
+blue 2 black 1 green 1 blue 1 black 1 green 2
+green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 black 1 blue 2 green 2 black 1 blue 1
+green 3 blue 1 green 1 blue 1 green 1 blue 3
+blue 3 green 1 blue 1 green 1 blue 1 green 3
+blue 1 black 1 green 2 blue 2 black 1 green 1
+blue 1 green 1 blue 1 green 1 blue 1 green 1
+green 2 black 1 blue 1 green 1 black 1 blue 2
+blue 1 green 1 blue 3 green 3 blue 1 green 1

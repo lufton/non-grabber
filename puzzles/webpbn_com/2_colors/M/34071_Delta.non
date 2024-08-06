@@ -1,0 +1,57 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "May 15, 2020"
+description "The official airline of classrooms."
+difficulty 1.25
+height 20
+id 34071
+link "https://webpbn.com/play.cgi?id=34071"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Delta"
+width 20
+
+rows
+1
+2
+2,1
+2,2
+2,3
+3,4
+3,4
+3,5
+4,6
+5,6
+6,7
+7,8
+8,9
+1,9
+1,2,6
+1,2,4
+3,3
+2,2
+2
+1
+
+columns
+1
+1
+2
+2
+3
+3
+4
+11
+4,3
+3,2
+3,2
+3,3
+3,3
+2,4
+2,7
+2,8
+2,11
+1,13
+1,15
+18

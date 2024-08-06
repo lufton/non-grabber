@@ -1,0 +1,63 @@
+by "michael31415 (ml.qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by michael31415"
+date "Feb 27, 2007"
+description "this is my first puzzle so sorry if its bad"
+difficulty 1.25
+height 20
+id 790
+link "https://webpbn.com/play.cgi?id=790"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "ball"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 20
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 black 7 red 1
+red 1 black 10 red 1
+red 1 black 2 blue 3 black 1 green 3 black 3 red 1
+red 1 black 2 blue 2 green 1 blue 1 black 1 green 1 blue 1 green 2 black 2 red 1
+red 1 black 2 blue 4 black 1 green 4 black 2 red 1
+red 1 black 13 red 1
+red 1 black 2 green 4 black 1 blue 4 black 2 red 1
+red 1 black 2 green 2 blue 1 green 1 black 1 blue 1 green 1 blue 2 black 2 red 1
+red 1 black 2 green 3 black 1 blue 3 black 3 red 1
+red 1 black 10 red 1
+red 1 black 8 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 20
+
+columns
+red 20
+red 1 red 1
+red 1 red 1
+red 1 black 5 red 1
+red 1 black 7 red 1
+red 1 black 2 blue 2 black 1 green 2 black 2 red 1
+red 1 black 1 blue 3 black 1 green 3 black 2 red 1
+red 1 black 2 blue 1 green 1 blue 1 black 1 green 1 blue 1 green 1 black 2 red 1
+red 1 black 2 blue 3 black 1 green 3 black 2 red 1
+red 1 black 11 red 1
+red 1 black 2 green 3 black 1 blue 3 black 2 red 1
+red 1 black 2 green 1 blue 1 green 1 black 1 blue 1 green 1 blue 1 black 2 red 1
+red 1 black 2 green 3 black 1 blue 3 black 2 red 1
+red 1 black 3 green 2 black 1 blue 2 black 3 red 1
+red 1 black 9 red 1
+red 1 black 7 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 20

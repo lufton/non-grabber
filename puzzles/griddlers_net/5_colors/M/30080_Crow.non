@@ -1,0 +1,67 @@
+by "cenifir"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/19/06"
+height 25
+id 30080
+link "https://www.griddlers.net/nonogram/-/g/30080"
+medium_time "0:06:50"
+points 7065
+popularity 63.16
+title "Crow"
+width 20
+
+color a ffffff
+color b ff0000
+color f ffa200
+color g 808080
+color h 000000
+
+rows
+h 4
+g 2 h 4
+g 2 h 2 b 1 h 3
+g 2 h 1 g 1 h 5
+g 3 h 1 g 1 h 1 f 3 h 1
+g 3 h 1 g 1 h 2 f 4
+g 2 h 2 g 2 h 3 f 3
+g 2 h 3 g 2 h 4 f 3
+g 2 h 4 g 2 h 5 f 2
+g 2 h 5 g 2 h 3 h 1 f 2
+g 2 h 5 g 2 h 4 f 2
+g 2 h 5 g 3 h 3 f 1
+g 1 h 6 g 3 h 4
+h 6 g 3 h 4
+h 5 g 3 h 5
+h 4 g 3 h 5
+h 3 g 3 h 5
+h 1 g 3 h 6
+g 2 h 8
+g 1 h 6 h 1
+h 1 h 1
+h 1 h 1
+h 1 h 1
+h 2 h 1
+h 1 h 1 h 1
+
+columns
+g 1 h 5 g 2
+g 1 h 5 g 2 h 1
+g 2 h 5 g 1 h 2
+g 2 h 5 g 2 h 2
+g 2 h 5 g 2 h 3
+g 2 h 5 g 3 h 3 h 1
+g 2 h 5 g 3 h 9
+g 2 h 5 g 3 h 4
+g 2 h 5 g 3 h 5
+g 3 h 4 g 3 h 10 h 1
+g 3 h 1 g 6 h 5 h 1
+g 2 h 2 g 5 h 6 h 1
+h 1 g 1 h 1 g 2 h 10
+h 13
+h 2 b 1 h 1 f 2 h 5
+h 4 f 3 h 2
+h 3 f 4 h 1
+h 3 f 4 h 1
+f 4
+f 3

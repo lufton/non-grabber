@@ -1,0 +1,46 @@
+by "marlonbraga"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/20/06"
+height 15
+id 38201
+link "https://www.griddlers.net/nonogram/-/g/38201"
+medium_time "0:02:11"
+points 488
+popularity 54.2
+title "Sudoku"
+width 15
+
+rows
+0
+13
+1,1,1,1,1
+1,1,2,1
+1,2,1,1,1,1
+13
+1,1,2,1
+1,1,1,1,1
+1,1,1,2
+13
+1,1,1,1
+2,1,2,1,1
+1,2,1,1
+13
+0
+
+columns
+0
+13
+1,1,1,1,1
+2,1,1,1,1
+1,2,1,1
+13
+1,1,1,2
+1,2,1,1
+1,2,1,1,1
+13
+1,1,1,1,1
+1,2,1,1,1
+1,1,2,1
+13
+0

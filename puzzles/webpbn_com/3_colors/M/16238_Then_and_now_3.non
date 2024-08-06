@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Oct 30, 2011"
+description "Music player."
+difficulty 1.5
+height 20
+id 16238
+link "https://webpbn.com/play.cgi?id=16238"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Then and now 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 3
+red 3 red 1
+red 3 red 1
+red 3 red 1
+red 2 red 1 black 2 black 2
+red 2 red 1 black 1 black 1
+red 1 red 1 black 1 black 1
+red 2 red 1 black 2 black 2
+red 1 red 5 black 1 black 1
+red 1 red 2 red 1 black 4
+red 1 red 3 black 1
+red 2 red 1 black 1
+red 1 red 1 black 2
+red 3 black 1 red 3
+red 1 black 1 black 1 red 1 red 1
+black 11 black 1 red 3
+black 13 black 2 black 1
+black 1 black 1 black 3
+black 13
+
+columns
+black 3
+red 5 black 2 black 1
+red 3 red 3 black 2 black 1
+red 2 red 2 black 2 black 1
+red 2 red 4 black 2 black 1
+red 1 red 1 black 2 black 1
+red 2 red 2 black 3 black 1
+red 1 red 1 black 2 black 1
+red 2 red 1 black 2 black 1
+red 1 red 1 black 2 black 1
+red 2 red 1 black 2 black 1
+red 1 red 1 black 2 black 1
+red 11 black 3
+0
+black 5
+black 4 black 4 black 2
+black 1 black 3 red 3 black 1
+black 1 red 1 red 1 black 2
+black 1 black 3 red 3
+black 4

@@ -1,0 +1,47 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "May 13, 2009"
+description "of Apple"
+difficulty 3.25
+height 15
+id 5860
+link "https://webpbn.com/play.cgi?id=5860"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Slice"
+width 15
+
+rows
+3
+2,1
+1
+4,1
+2,3
+1,2,1
+4,1
+3,1
+3,1,1
+2,1
+2,1
+3,1
+3,1
+3
+1
+
+columns
+0
+0
+0
+3
+6
+2,6
+1,2,3
+1,3,3
+2,2,1,3
+1,1,1
+1,1,8
+2
+0
+0
+0

@@ -1,0 +1,63 @@
+by "Cameron Macaroon ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Cameron Macaroon"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.0
+height 20
+id 27121
+link "https://webpbn.com/play.cgi?id=27121"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "SIMON????"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 2 black 3
+green 1 black 2 black 3
+black 2 black 4 black 4 black 2
+black 2 black 2
+black 2 black 13 black 2
+black 3 blue 3 black 1 black 1 blue 4 black 1 black 2
+black 3 blue 1 blue 1 black 4 blue 1 blue 2 black 1 black 2
+black 3 blue 2 black 1 black 1 blue 3 black 1 red 1 black 1
+black 2 red 1 black 5 black 5 red 2 black 1
+green 1 black 1 red 2 black 1 red 3 black 2
+green 1 black 1 red 1 black 2 black 1 black 1 red 2 black 3
+green 1 black 1 black 3 red 1 black 2 red 1 black 2
+green 1 black 1 red 1 black 3
+green 2 black 1 red 1 black 2
+green 2 black 1 red 2 black 1 green 1
+green 3 black 1 black 5 black 1 green 2
+green 3 black 1 red 3 black 2 green 2
+green 4 black 1 red 2 black 2 black 1 green 2
+green 5 black 2 red 1 black 2 black 1 green 2
+green 5 black 1 black 7 black 1 green 2
+
+columns
+green 2 black 7 green 11
+black 13 green 7
+black 2 black 3 red 3 black 2 green 5
+black 1 black 1 blue 2 black 1 red 1 black 2 green 3
+black 1 black 1 blue 1 black 1 black 1 green 2
+black 1 black 1 blue 1 blue 1 black 1 black 2
+black 1 black 1 blue 2 black 3 black 1
+black 5 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 4 black 1 red 4 black 1 red 1 black 1
+black 1 black 1 blue 2 black 1 black 1 red 1 black 1 red 2 black 1
+black 1 black 1 blue 1 black 1 black 2 red 3 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 2
+black 1 black 1 blue 3 black 1 black 2
+black 1 blue 2 black 1 red 2 black 1
+black 3 red 4 black 1
+black 2 red 3 black 3 black 5
+black 7 black 6 green 5
+black 11 black 2 green 6

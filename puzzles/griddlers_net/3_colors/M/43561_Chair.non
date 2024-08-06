@@ -1,0 +1,51 @@
+by "Andreypereira"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/12/07"
+height 19
+id 43561
+link "https://www.griddlers.net/nonogram/-/g/43561"
+medium_time "0:02:18"
+points 688
+popularity 57.93
+title "Chair"
+width 12
+
+color a ffffff
+color b 000000
+color c ff0000
+
+rows
+b 2
+b 3
+b 1 c 1 b 2
+b 1 c 2 b 2
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 8 c 3 b 1
+b 3 c 5 b 1 c 2 b 1
+b 1 b 2 c 5 b 1 c 1 b 1
+b 1 b 2 c 5 b 2
+b 1 b 8
+b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+
+columns
+b 8
+b 2
+b 3
+b 1 c 1 b 2
+b 1 c 2 b 9
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 8 c 3 b 4
+b 2 c 6 b 1 c 2 b 1
+b 2 c 6 b 1 c 1 b 1
+b 2 c 6 b 2
+b 16

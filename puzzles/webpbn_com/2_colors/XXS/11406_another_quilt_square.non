@@ -1,0 +1,27 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Dec 15, 2010"
+description ":)"
+difficulty 1.25
+height 5
+id 11406
+link "https://webpbn.com/play.cgi?id=11406"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "another quilt square"
+width 5
+
+rows
+5
+1,1,1
+5
+3
+1,1
+
+columns
+3,1
+1,2
+4
+1,2
+3,1

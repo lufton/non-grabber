@@ -1,0 +1,63 @@
+by "Emily Haemmelmann (Emily)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Emily Haemmelmann"
+date "Jan 25, 2012"
+description "the red is his blood"
+difficulty 1.25
+height 20
+id 17329
+link "https://webpbn.com/play.cgi?id=17329"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "calvary"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 9 red 1 black 1 blue 9
+blue 9 black 1 red 1 blue 9
+blue 9 red 1 black 1 blue 9
+blue 5 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 5
+blue 5 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 blue 5
+blue 9 black 1 red 1 blue 9
+blue 9 red 1 black 1 blue 9
+blue 9 black 1 red 1 blue 9
+blue 9 red 1 black 1 blue 9
+blue 9 black 1 red 1 blue 9
+blue 9 red 1 black 1 blue 9
+blue 8 green 4 blue 8
+blue 7 green 6 blue 7
+blue 6 green 8 blue 6
+blue 5 green 10 blue 5
+blue 4 green 12 blue 4
+blue 3 green 14 blue 3
+blue 2 green 16 blue 2
+blue 1 green 18 blue 1
+green 20
+
+columns
+blue 19 green 1
+blue 18 green 2
+blue 17 green 3
+blue 16 green 4
+blue 15 green 5
+blue 3 black 1 red 1 blue 9 green 6
+blue 3 red 1 black 1 blue 8 green 7
+blue 3 black 1 red 1 blue 7 green 8
+blue 3 red 1 black 1 blue 6 green 9
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 9
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 green 9
+blue 3 black 1 red 1 blue 6 green 9
+blue 3 red 1 black 1 blue 7 green 8
+blue 3 black 1 red 1 blue 8 green 7
+blue 3 red 1 black 1 blue 9 green 6
+blue 15 green 5
+blue 16 green 4
+blue 17 green 3
+blue 18 green 2
+blue 19 green 1

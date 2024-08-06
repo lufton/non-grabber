@@ -1,0 +1,38 @@
+by "besmirched tea (besmirched tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by besmirched tea"
+date "Apr 25, 2017"
+description "Afro"
+difficulty 1.5
+height 8
+id 29730
+link "https://webpbn.com/play.cgi?id=29730"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Pick this"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6
+black 7
+black 8
+black 8
+black 5
+black 4 blue 1
+black 3
+black 3 red 2
+
+columns
+black 4
+black 6
+black 8
+black 8
+black 5 black 1
+black 4
+black 4 blue 1 red 1
+black 4 red 1

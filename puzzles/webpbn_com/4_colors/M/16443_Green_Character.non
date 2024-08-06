@@ -1,0 +1,62 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Nov 19, 2011"
+description "Guess who..."
+difficulty 1.75
+height 20
+id 16443
+link "https://webpbn.com/play.cgi?id=16443"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Green Character"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 4 black 4
+black 1 black 1 green 4 black 1 black 1
+black 1 green 4 black 1
+black 1 black 1 green 4 black 1 black 1
+black 1 green 6 black 1
+black 2 green 8 black 2
+green 12
+green 1 black 2 green 6 black 2 green 1
+green 2 red 1 black 1 green 4 black 1 red 1 green 2
+green 2 red 1 black 1 green 2 black 1 red 1 green 2
+green 1 red 1 black 2 red 1 green 1
+green 2 green 2 red 1 red 1 green 2 green 2
+green 1 green 1 green 1 red 4 green 1 green 1 green 1
+green 2 green 1 red 2 green 1 green 2
+green 2 green 2 green 2
+green 2 green 2 green 2 green 2
+green 1 green 3 green 2 green 3 green 1
+green 5 green 4 green 5
+green 4 green 8 green 4
+
+columns
+0
+green 2
+green 1 green 4
+black 4 green 1 green 2 green 2
+black 1 black 1 green 3 green 1 green 2 green 3
+black 1 black 1 black 1 green 1 black 1 green 2 green 2 green 2
+black 1 green 2 black 1 red 1 green 3 green 2 green 1
+black 2 green 4 black 1 red 2 green 2 green 1 green 1
+green 8 black 1 red 2 green 1 green 2
+green 9 black 1 red 2 green 1 green 3
+green 9 black 1 red 2 green 1 green 3
+green 8 black 1 red 2 green 1 green 2
+black 2 green 4 black 1 red 2 green 2 green 1 green 1
+black 1 green 2 black 1 red 1 green 3 green 2 green 1
+black 1 black 1 black 1 green 1 black 1 green 2 green 2 green 2
+black 1 black 1 green 3 green 1 green 2 green 3
+black 4 green 1 green 2 green 2
+green 1 green 4
+green 2
+0

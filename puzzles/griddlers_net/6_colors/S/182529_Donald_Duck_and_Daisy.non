@@ -1,0 +1,44 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/1/17"
+height 9
+id 182529
+link "https://www.griddlers.net/nonogram/-/g/182529"
+medium_time "0:02:09"
+points 154
+popularity 73.3
+title "Donald Duck and Daisy"
+width 12
+
+color a cccccc
+color b 0099cc
+color c ffffff
+color d cc0000
+color e 000000
+color f ffcc00
+
+rows
+b 3 d 3
+c 1 b 1 c 1 c 2 d 3
+c 5 c 4 d 2
+c 1 e 1 c 1 e 1 c 1 c 1 e 1 c 1 e 1 c 1
+c 1 f 3 c 1 c 1 f 3 c 1
+b 1 d 1 b 1 b 1 d 1 b 1
+c 1 b 3 c 1 c 1 b 3 c 1
+c 3 c 3
+f 1 f 1 f 1 f 1
+
+columns
+c 3 c 1
+b 1 c 2 e 1 f 1 b 2 c 1 f 1
+b 2 c 2 f 1 d 1 b 1 c 1
+b 1 c 2 e 1 f 1 b 2 c 1 f 1
+c 3 c 1
+0
+c 3 c 1
+c 2 e 1 f 1 b 2 c 1 f 1
+d 1 c 3 f 1 d 1 b 1 c 1
+d 2 c 1 e 1 f 1 b 2 c 1 f 1
+d 3 c 2 c 1
+d 2

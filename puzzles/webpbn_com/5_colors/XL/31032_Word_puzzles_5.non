@@ -1,0 +1,94 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Ron Jacobson"
+date "Apr  3, 2018"
+description ""
+difficulty 2.25
+height 32
+id 31032
+link "https://webpbn.com/play.cgi?id=31032"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.75
+title "Word puzzles 5"
+width 39
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1 green 1
+green 6
+0
+0
+black 1 black 1 black 1
+blue 7 black 3 black 1 black 1 black 1 red 1 red 1
+blue 1 black 1 black 3 black 3 red 1 red 1
+blue 1 black 1 black 1 black 1 black 1 red 1 red 1
+blue 1 black 2 black 1 black 1 black 2 red 1 red 1
+blue 1 red 1 red 1
+blue 1 black 2 black 4 black 1 black 4 black 1 black 1 red 1 red 1
+blue 1 black 1 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 2 red 1 red 1
+blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 1 red 1 red 1
+blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2 red 2
+blue 1 black 2 black 4 black 1 black 1 black 1 black 2 black 1 red 4
+0
+0
+black 7
+black 1
+black 1
+black 1
+black 7
+black 1
+black 1
+black 1
+black 1
+black 7
+
+columns
+blue 1
+blue 1
+blue 1
+blue 10
+blue 1
+blue 1
+blue 1
+0
+black 3
+black 1 black 1
+black 1 black 1
+0
+black 5
+black 1 black 1
+black 1 black 1
+black 5
+black 1
+green 2 black 5 black 5 black 5 black 1
+green 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 1 black 1 black 1 black 1
+green 1 black 5 black 5 black 1 black 1 black 1
+green 1 black 1 black 1 black 1 black 1 black 1
+green 7 black 3 black 1 black 1 black 1 black 1
+black 5 black 1 black 6
+black 3
+black 1 black 1 black 1 black 3
+black 2 black 1 black 1 black 1 black 1
+black 2 black 1
+0
+black 5
+black 1
+0
+0
+red 9
+red 2
+red 1
+red 1
+red 2
+red 9

@@ -1,0 +1,68 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Apr 20, 2010"
+description "Tis the first day of spring; How wonderful indeed. I can see the buds and birds do there thing. Exactly what, I hope its not greed. I'm sure its not, I am sure indeed! Some say it in sing, Others worship the ring. I believe its a need, For that I would bleed. Attend to life and it will bring; The answer you seek, the woe and the sting. Just watch the boys & girls proceed; With that mating call that we all need."
+difficulty 2.25
+height 20
+id 8476
+link "https://webpbn.com/play.cgi?id=8476"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "A spring day."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 1 black 1
+blue 2 black 2 black 3 black 2 black 3
+black 2 black 1 black 3 black 5
+black 1 black 1 black 4
+black 5 black 5
+black 3 black 3 black 1 blue 2 black 2
+black 3 black 1 black 1 black 1 black 1 blue 2 black 2
+black 1 black 1 black 2 black 1 black 2
+black 5 black 2 black 1
+black 3 black 1
+black 3 black 3 black 1
+black 1 black 1 black 3 black 1
+black 1 black 2 black 1 black 3 black 1
+black 2 red 1 red 1 black 3 black 3 black 1
+red 3 black 4 black 1 black 1
+red 1 red 1 green 1 black 3 black 1 black 2 red 1 red 1
+red 3 green 1 black 3 black 5 red 3
+green 1 green 1 black 1 black 1 black 3 green 1 black 1
+green 1 black 1 black 2 black 4 green 1 black 1
+green 1 black 2 black 1 black 2 green 1 black 2
+
+columns
+blue 2 black 2 black 6
+blue 1 black 6 black 1
+black 2 black 5
+black 1 black 1 red 2
+black 3 red 1 green 3
+black 2 red 2
+black 2
+red 2
+red 1 green 3
+black 3 red 2
+black 1 black 1
+black 2 black 4 black 2 black 7
+black 5 black 1 black 7 black 1
+black 2 black 5 black 2 black 6
+black 1 black 1
+black 2
+black 1 black 2
+black 2 black 4
+black 7
+black 1 black 1 black 2 black 4
+black 2 black 1 blue 1 black 1 black 1
+black 1 black 3 blue 2 red 2
+black 5 blue 1 red 1 green 3
+black 15 red 2 black 3
+black 4 black 2 black 1

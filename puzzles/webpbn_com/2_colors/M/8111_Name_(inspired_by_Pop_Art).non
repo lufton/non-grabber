@@ -1,0 +1,57 @@
+by "Ross Conkey (rosco8)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ross Conkey"
+date "Mar 19, 2010"
+description ""
+difficulty 2.0
+height 20
+id 8111
+link "https://webpbn.com/play.cgi?id=8111"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Name (inspired by Pop Art)"
+width 20
+
+rows
+1,2,1
+0
+1,4,6
+1,5,6
+1,7,6
+1,7,6
+1,7,6
+1,7,6
+6
+7,1
+1,2,1
+0
+6,6
+8,8
+1,1
+0
+8,8
+6,6
+0
+1,2
+
+columns
+6,1,1,1
+1
+1,2,2
+5,2,2
+8,2,2
+8,2,2
+8,2,2
+8,2,2
+6,1
+1,7,2,1
+1,2,1,1
+1
+6,2,2
+6,2,2
+6,2,2
+6,2,2
+6,2,2
+6,2,2
+1
+1,2,2

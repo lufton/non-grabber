@@ -1,0 +1,41 @@
+by "Mara Alconea (alconea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Mara Alconea"
+date "Feb  9, 2009"
+description "* ~ ( ( Theran ) ) ~ * Theran is an Alconean mage. She is a very mischievous prankster. Theran likes to use her magical powers to conjure up puddles, fake mustaches, and NERD signs."
+difficulty 1.25
+height 10
+id 4969
+link "https://webpbn.com/play.cgi?id=4969"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Little Alconean #1"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 4
+black 2 green 3 black 1
+black 1 green 1 black 1 green 1 black 2
+black 1 green 1 black 1 green 1 black 2
+green 4 black 1
+black 2 black 2
+black 2 green 2 black 3
+black 2 green 4 black 2
+black 3 green 4 black 1
+black 1 black 4
+
+columns
+black 2
+black 2
+black 3 black 3
+black 2 green 3 black 1 green 2 black 1
+black 1 green 1 black 2 green 1 black 1 green 3 black 1
+black 1 green 4 black 1 green 3 black 1
+black 1 green 1 black 2 green 1 black 1 green 2 black 1
+black 3 black 4
+black 3
+black 1

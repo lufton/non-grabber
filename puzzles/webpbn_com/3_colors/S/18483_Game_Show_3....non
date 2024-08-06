@@ -1,0 +1,51 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by valerie o..travis"
+date "Apr 30, 2012"
+description ""
+difficulty 1.5
+height 15
+id 18483
+link "https://webpbn.com/play.cgi?id=18483"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Game Show 3..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 red 3 red 3 red 3
+0
+red 1 red 3 red 3 red 3 red 1
+0
+red 3 red 3 red 3 red 3
+0
+red 1 red 3 red 3 red 3 red 1
+black 2
+red 3 red 3 black 4 red 3
+black 4
+red 1 red 3 red 2 black 2 red 3 red 1
+0
+red 3 red 3 red 3 red 3
+0
+red 1 red 3 red 3 red 3 red 1
+
+columns
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 black 2 red 1 red 1
+red 1 red 1 red 1 red 1 black 4 red 1 red 1
+red 1 red 1 black 4 red 1
+red 1 red 1 red 1 red 1 black 2 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1

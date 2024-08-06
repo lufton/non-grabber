@@ -1,0 +1,62 @@
+by "Allie Blake (Allie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Allie Blake"
+date "Nov  5, 2020"
+description "Red = Start Blue = End Try to solve the maze too!"
+difficulty 1.5
+height 20
+id 34660
+link "https://webpbn.com/play.cgi?id=34660"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A-maze-ing Puzzle #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 2 black 6
+black 1 black 1 black 4 black 1
+black 5 black 1 black 5
+black 2 black 6
+black 1 black 5 black 6
+black 1 black 2 black 2
+black 1 black 17
+black 1 black 1 black 1
+black 1 black 12 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 8 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 8 black 1 black 1
+black 1 black 1 black 1 black 8 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 12 black 1
+black 1 black 1 black 1
+black 3 black 14
+0
+
+columns
+red 1 black 2
+black 15
+black 2 black 2 black 1
+black 1 black 1 black 2 black 10
+black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 6 black 1
+black 3 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 4 black 1 black 1
+black 2 black 2 black 1 black 1 black 1 blue 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 1
+black 3 black 1 black 2 black 1 black 1 black 2 black 1 black 1
+black 2 black 1 black 2 black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 2 black 1 black 1
+black 5 black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 6 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 10 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 12
+black 1 black 1

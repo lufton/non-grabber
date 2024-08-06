@@ -1,0 +1,81 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/20/08"
+height 31
+id 66662
+link "https://www.griddlers.net/nonogram/-/g/66662"
+medium_time "0:12:00"
+points 10166
+popularity 80.39
+title "Little Girl"
+width 25
+
+color a ffffff
+color b 000000
+color c ff9966
+color d cc6633
+color e ccccff
+color f ffcccc
+color g ff9999
+color h ccffcc
+
+rows
+b 12
+b 1 c 3 b 2 c 3 b 2 c 2 b 2
+b 1 c 2 d 1 b 1 d 1 b 1 c 2 d 1 b 1 d 1 b 1 c 2 d 1 b 1
+b 1 c 2 d 1 b 1 d 2 b 1 c 2 d 1 b 1 d 2 b 1 c 1 d 2 b 1
+b 1 c 2 d 2 b 1 d 2 b 1 c 2 d 1 b 1 d 2 b 1 c 1 d 2 b 1
+b 3 c 1 b 4 d 2 b 1 c 1 d 2 b 1 d 2 b 1 c 1 d 1 b 1 c 1 b 1
+b 1 e 3 b 1 e 3 b 1 d 2 b 1 c 1 d 2 b 1 d 2 b 1 c 1 d 1 b 1 c 1 b 1
+b 1 e 3 b 1 e 3 b 1 d 2 b 1 c 1 d 2 b 1 d 2 b 1 c 1 d 1 b 1 c 2 b 1
+b 1 e 3 b 1 e 3 b 1 d 2 b 1 c 1 d 2 b 1 d 2 b 1 c 1 d 2 b 1 c 1 b 1
+b 3 c 1 b 4 d 2 b 1 c 1 d 2 b 1 d 2 b 1 c 1 d 3 b 2
+b 1 c 1 d 1 b 1 f 2 b 2 f 1 b 3 f 1 b 2 f 1 b 2 d 3 b 1
+b 1 c 1 d 1 b 1 f 14 b 1 d 2 b 1
+b 1 c 1 b 2 f 2 b 2 f 5 b 2 f 3 b 1 d 2 b 1
+b 1 c 1 b 1 f 3 b 2 f 5 b 2 f 3 b 1 d 2 b 1
+b 1 c 1 b 1 f 15 b 1 d 2 b 1
+b 1 c 1 d 1 b 1 f 5 g 3 f 5 b 1 d 2 b 1
+b 1 c 1 d 2 b 1 f 11 b 1 d 3 b 1
+b 3 b 2 f 7 b 2 b 3
+b 7
+b 1 h 1 b 1 h 3 b 1 h 1 b 1
+b 1 h 1 b 1 h 5 b 1 h 1 b 1
+b 1 h 2 b 1 h 5 b 1 h 2 b 1
+b 1 h 2 b 1 h 7 b 1 h 2 b 1
+b 1 f 1 b 1 h 1 b 1 h 7 b 1 h 1 b 1 f 1 b 1
+b 1 f 2 b 1 h 9 b 1 f 2 b 1
+b 3 h 9 b 3
+b 11
+b 1 f 2 b 1 b 1 f 2 b 1
+b 1 f 2 b 1 b 1 f 2 b 1
+b 1 f 2 b 1 b 1 f 2 b 1
+b 2 b 2
+
+columns
+b 3
+b 1 e 3 b 1
+b 1 e 3 b 1
+b 2 e 3 b 8
+b 1 c 2 b 3 c 8 b 1
+b 1 c 2 b 1 e 3 b 1 d 2 b 3 d 2 b 1 b 2
+b 1 c 2 d 1 b 1 e 3 b 4 f 2 b 1 d 1 b 1 b 1 f 2 b 1
+b 1 c 2 d 2 b 1 e 3 b 1 f 6 b 1 b 1 h 1 b 1 f 1 b 1
+b 1 c 1 d 1 b 7 f 7 b 1 b 1 h 3 b 3
+b 1 c 1 b 1 d 7 b 1 f 1 b 2 f 3 b 1 b 1 h 2 b 2 h 2 b 4
+b 2 d 8 b 1 f 1 b 2 f 4 b 1 h 1 b 2 h 4 b 1 f 3 b 1
+b 10 f 8 b 2 h 6 b 1 f 3 b 1
+b 1 c 9 b 1 f 4 g 1 f 2 b 1 h 7 b 4
+b 1 c 4 d 5 b 1 f 4 g 1 f 2 b 1 h 7 b 1
+b 1 c 1 d 8 b 1 f 4 g 1 f 2 b 1 h 7 b 4
+b 10 f 8 b 2 h 6 b 1 f 3 b 1
+b 2 d 8 b 1 f 1 b 2 f 4 b 1 h 1 b 2 h 4 b 1 f 3 b 1
+b 1 c 1 b 1 d 7 b 1 f 1 b 2 f 3 b 1 b 1 h 2 b 2 h 2 b 4
+b 1 c 2 b 7 f 7 b 1 b 1 h 3 b 3
+b 1 c 8 b 1 f 5 b 1 b 1 h 1 b 1 f 1 b 1
+b 1 d 8 b 1 f 4 b 1 d 1 b 1 b 1 f 2 b 1
+b 1 d 2 b 3 d 3 b 4 d 2 b 1 b 2
+b 2 c 3 b 1 d 8 b 1
+b 2 c 2 b 1 d 5 b 2
+b 8

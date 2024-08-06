@@ -1,0 +1,51 @@
+by "seulki (sleepground)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by seulki"
+date "Feb 20, 2020"
+description "twice"
+difficulty 1.5
+height 5
+id 33627
+link "https://webpbn.com/play.cgi?id=33627"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "ied"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5 red 1 red 1 red 1 black 5 red 3 black 5
+black 1 red 1 red 1 red 1 black 1 red 1 red 1 black 1
+black 1 red 5 black 1 red 1 black 5
+black 1 red 1 red 1 black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 5 red 3 black 5
+
+columns
+black 1
+black 1
+black 5
+black 1
+black 1
+red 3
+red 3
+red 3
+red 3
+red 3
+black 1 black 1
+black 1 black 1
+black 5
+black 1 black 1
+black 1 black 1
+red 3
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+black 5
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1

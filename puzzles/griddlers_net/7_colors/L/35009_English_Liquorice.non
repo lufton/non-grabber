@@ -1,0 +1,80 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/25/06"
+height 22
+id 35009
+link "https://www.griddlers.net/nonogram/-/g/35009"
+medium_time "0:12:28"
+points 11906
+popularity 62.77
+title "English Liquorice"
+width 34
+
+color a ffffff
+color b 000000
+color c ff9900
+color d cccc00
+color e 3399ff
+color f ffcccc
+color h ff9999
+
+rows
+e 7
+e 9
+e 11
+d 8 e 11
+d 10 e 11
+d 12 e 9 h 6
+d 14 e 6 h 5 b 2 h 3
+d 5 b 1 d 8 e 5 h 4 b 5 h 3
+d 4 b 3 d 7 e 5 f 1 h 5 b 1 h 6
+d 3 b 5 d 6 e 5 f 3 h 9 f 1
+d 3 b 5 d 6 e 1 e 1 f 13
+d 4 b 3 d 3 f 12
+d 5 b 1 f 9
+d 5 b 4 f 2
+d 4 b 1 b 6
+d 3 c 1 b 2 b 7
+c 3 b 1 b 11
+c 3 b 1 b 3 c 2 b 9
+c 2 b 1 b 5 c 5 b 4 b 1
+c 2 b 3 c 7 b 2 b 1
+c 9 b 1 b 1
+c 4 b 4
+
+columns
+d 7
+d 9
+d 11
+d 6 b 2 d 5
+d 5 b 4 d 4
+d 4 b 6 d 3
+d 5 b 4 b 1 c 2
+d 6 b 2 d 1 b 1 c 2
+d 9 b 1 c 2
+d 9 b 1 c 2
+e 1 d 8 b 1 c 2
+e 3 d 7 b 1 c 2
+e 5 d 6 b 1 c 2
+e 6 d 5 b 1 c 2
+e 11 b 1 c 2
+e 10 b 1 c 3
+e 10 b 1 c 2
+e 10 b 1 c 2
+e 11 b 1 c 2
+e 6 h 1 f 3 b 1 c 2
+e 4 h 3 f 3 b 1 c 2
+e 3 h 3 f 3 b 1 c 2
+e 1 h 5 f 2 b 2 c 1
+h 2 b 1 h 2 f 3 b 1 c 2
+h 2 b 1 h 2 f 3 b 1 c 2
+h 1 b 3 h 1 f 3 b 5
+h 1 b 2 h 2 f 3 b 6
+h 2 b 1 h 2 f 3 b 8
+h 4 f 3 b 7 b 1
+h 4 f 4 b 5 b 1
+h 3 f 4 b 4 b 1
+h 1 f 4 b 3 b 1
+b 2 b 1
+b 3

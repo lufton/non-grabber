@@ -1,0 +1,33 @@
+by "Faye Roselle (fayeroselle)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Faye Roselle"
+date "Sep 29, 2019"
+description "This is the face of a small dog."
+difficulty 1.25
+height 8
+id 32953
+link "https://webpbn.com/play.cgi?id=32953"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Dog"
+width 8
+
+rows
+2,2
+8
+2,2
+1,1,1,1
+1,2,1
+1,4,1
+1,1
+4
+
+columns
+6
+3,1
+1,1,1,1
+1,2,1
+1,2,1
+1,1,1,1
+3,1
+6

@@ -1,0 +1,69 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/22/08"
+height 32
+id 72213
+link "https://www.griddlers.net/nonogram/-/g/72213"
+medium_time "0:05:37"
+points 3243
+popularity 73.75
+title "Little Lighthouse"
+width 13
+
+color a 9999ff
+color b 000000
+color d ffffcc
+color e cccccc
+color f 663333
+color g 747373
+color h 993333
+
+rows
+b 1
+b 1 g 1 b 1
+b 1 g 3 b 1
+b 1 g 5 b 1
+b 9
+b 1 d 1 b 1 b 1 d 1 b 1
+b 1 d 1 b 1 b 1 d 1 b 1
+f 9
+f 1 f 1 f 1 f 1 f 1
+f 7
+f 1 e 1 d 4 f 1
+f 1 e 1 d 2 b 1 d 1 f 1
+f 1 e 7 f 1
+f 9
+f 3 h 4 f 2
+f 2 h 5 f 2
+f 9
+f 1 e 1 d 6 f 1
+f 1 e 1 b 1 d 5 f 1
+f 1 e 9 f 1
+f 11
+f 3 h 6 f 2
+f 2 h 7 f 2
+f 2 h 7 f 2
+f 11
+f 1 e 2 d 8 e 1 f 1
+f 1 e 1 d 7 b 1 d 1 e 1 f 1
+f 1 e 1 d 9 e 1 f 1
+f 1 e 1 d 4 b 2 d 3 e 1 f 1
+f 1 e 2 d 3 b 2 d 2 e 2 f 1
+f 1 e 4 b 2 e 2 g 1 f 1
+f 9
+
+columns
+f 5
+f 6 e 5 f 1
+b 1 f 2 f 7 e 1 f 5 e 1 d 3 e 2 f 1
+b 4 f 1 f 3 e 1 f 4 e 3 f 2 h 2 f 1 d 5 e 1 f 1
+b 1 g 1 b 1 d 2 f 3 e 3 f 2 h 1 f 1 d 1 b 1 e 1 f 1 h 3 f 1 d 5 e 1 f 1
+b 1 g 2 b 3 f 1 f 1 d 2 e 1 f 1 h 2 f 1 d 2 e 1 f 1 h 3 f 1 d 5 e 1 f 1
+b 1 g 3 b 1 f 3 d 2 e 1 f 1 h 2 f 1 d 2 e 1 f 1 h 3 f 1 d 3 b 3 f 1
+b 1 g 2 b 3 f 1 f 1 d 1 b 1 e 1 f 1 h 2 f 1 d 2 e 1 f 1 h 3 f 1 d 3 b 3 f 1
+b 1 g 1 b 1 d 2 f 3 d 2 e 1 f 1 h 2 f 1 d 2 e 1 f 1 h 3 f 1 d 5 e 1 f 1
+b 4 f 1 f 3 e 1 f 4 d 2 e 1 f 1 h 3 f 1 d 1 b 1 d 3 e 1 f 1
+b 1 f 2 f 7 e 1 f 5 d 4 e 1 g 1 f 1
+f 6 e 5 f 1
+f 5

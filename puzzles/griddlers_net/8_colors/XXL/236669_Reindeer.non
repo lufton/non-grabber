@@ -1,0 +1,117 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/25/22"
+height 50
+id 236669
+link "https://www.griddlers.net/nonogram/-/g/236669"
+medium_time "1:01:13"
+points 76287
+popularity 84.61
+title "Reindeer"
+width 42
+
+color a ffffff
+color b 000000
+color c CC0000
+color d 333333
+color e FFCC00
+color f 666666
+color g FF9999
+color h 999999
+
+rows
+h 3
+f 1 h 2
+f 1 f 1 h 5 h 1
+f 3 h 4 h 1
+f 2 h 2 h 2
+f 5 h 2 h 3 f 1 h 1
+f 4 h 3 f 1 h 2 h 2 f 1 h 2
+f 2 f 1 h 1 f 1 h 7 f 2 h 2
+f 3 f 2 f 2 h 4 f 2 h 5
+f 6 f 2 f 2 f 6
+f 5 f 7 d 2 h 1 d 3
+f 12 d 5 d 5
+f 6 d 2 h 2 d 5 b 1 d 3
+d 2 h 1 d 4 b 2 d 2
+d 5 h 1 b 1 f 3 d 4
+d 1 h 2 d 3 f 5 d 4
+d 4 f 4 d 2 c 1
+h 1 f 5 d 2 c 1 g 3
+h 2 f 3 h 2 d 2 c 1 g 3
+h 9 d 2 g 2
+h 3 c 1 h 10
+f 7 c 2 h 3 c 1 b 1 h 11
+f 3 f 11 c 1 b 1 c 1 h 3 c 3 h 10
+f 17 c 4 f 1 h 2 c 1 b 1 c 1 h 10
+f 3 h 4 f 11 c 1 b 1 c 1 f 1 h 3 c 3 h 10
+f 2 h 5 f 12 c 3 f 1 h 3 c 1 e 1 c 2 h 9
+h 5 f 13 c 1 b 1 c 1 f 2 h 2 b 1 c 1 b 1 c 2 h 8
+h 5 f 13 c 3 f 2 h 1 b 2 h 1 c 2 b 1 c 1 h 6
+h 3 h 1 f 13 c 1 b 1 c 1 f 2 b 1 e 1 h 4 c 2 h 6
+h 2 f 13 c 3 f 1 b 1 e 1 b 1 h 5 c 1 h 1 c 1 h 3
+f 14 c 1 f 1 b 3 f 2 h 5 c 3 h 2
+f 13 e 3 b 2 f 5 h 5 h 1
+f 13 e 1 c 1 e 1 b 1 f 10 h 1
+f 13 e 3 f 16
+f 7 b 2 f 5 c 1 f 3 b 2 f 13
+f 8 b 1 d 2 f 1 d 2 b 2 f 11
+f 8 b 1 d 2 d 4 b 1 f 3 f 3
+f 5 b 3 d 2 d 4 f 3
+f 3 d 4 d 4 f 4
+f 3 d 8 d 3 b 2 h 1 f 4
+f 3 d 8 d 4 b 2 h 2 f 2
+f 3 d 6 d 3 b 2 h 2 f 1
+f 3 h 1 d 2 d 3 b 3 h 2
+f 3 h 2 d 1 d 4 b 3 h 1
+h 1 f 2 b 1 h 3 d 3
+h 2 f 1 b 2 h 2 h 2 d 1
+b 1 h 3 b 4 h 3
+b 2 h 2 b 3 b 2 h 2
+b 4 b 2 b 5
+b 3 b 4
+
+columns
+f 1 h 3 b 3
+f 2 h 4 f 3 h 3 b 3
+f 2 h 4 f 9 h 3 b 2
+f 3 h 3 f 11 h 2 b 2
+f 2 h 5 f 6
+f 2 h 3 f 4
+f 1 h 2 f 12
+f 1 h 1 f 12 b 1 d 2
+f 14 b 1 d 3
+f 15 b 1 d 3
+f 14 b 1 d 4
+f 14 b 1 d 2 d 3
+f 13 b 1 d 2 d 3
+f 1 f 1 f 13 b 1 d 1 d 3 b 3
+f 2 f 1 f 13 d 3 h 3 b 3
+f 2 f 2 f 1 f 14 d 3 h 3 b 3
+f 7 f 14 d 3 h 2 b 3
+f 10 f 14
+f 4 f 13
+f 2 f 1 c 7 f 1 e 3 f 1
+f 4 c 2 b 1 c 1 b 1 c 1 b 1 c 2 e 1 c 1 e 1 c 1
+h 1 f 5 c 1 b 1 c 7 f 1 e 3 f 1 b 2
+h 1 h 2 h 1 f 2 f 2 c 3 f 6 b 3 f 3 d 2 h 2 b 3
+h 4 h 1 f 2 h 2 f 1 h 2 f 3 b 3 f 3 d 5 h 3 b 2
+h 5 h 2 f 2 h 8 b 1 e 1 b 1 f 3 b 1 d 11 h 2 b 2
+h 4 f 7 d 1 h 7 b 1 e 1 b 1 f 4 b 1 d 9 b 2
+h 3 f 4 d 1 h 1 d 1 h 1 c 5 b 2 h 2 f 5 b 1 d 5
+h 2 f 2 d 1 h 1 d 1 c 1 b 1 c 1 b 1 c 1 e 1 c 1 h 4 f 4 b 1 d 3
+h 2 f 2 d 3 h 3 c 4 b 1 c 1 h 3 f 5 b 1
+h 4 h 2 f 2 d 5 h 8 c 3 h 4 f 5
+h 5 f 2 d 5 f 2 h 8 c 1 b 1 c 1 h 3 f 5 b 2
+h 4 f 2 d 1 h 3 f 4 h 8 c 3 h 2 f 5 b 5
+h 1 f 2 d 2 h 1 b 1 f 4 h 11 c 1 h 1 f 4 b 5
+f 3 d 3 f 4 h 10 c 2 h 2 f 3 h 5
+f 3 h 1 f 1 h 1 d 3 f 2 d 1 f 1 h 12 c 1 f 3 f 1 h 3
+h 2 f 1 d 2 f 2 d 2 h 14 f 3 f 4
+h 3 d 3 f 1 d 1 c 1 d 2 h 12 f 8
+h 2 h 1 d 6 c 1 d 2 h 9 f 7
+h 1 d 2 b 2 d 2 g 1 c 1 d 1 h 6 f 5
+d 3 b 1 d 2 g 2
+d 4 g 3
+d 2 g 2

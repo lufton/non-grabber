@@ -1,0 +1,61 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Dec  2, 2012"
+description "I am really sick of anonymous raters leaving low ratings on puzzles. Why would that inspire me? If you are going to rate a puzzle, leave constructive criticism. Otherwise, you are simply a loser. Have the guts to stand behind your rating. In this rating system, 3 stars means average quality...average. Not above or below average, but average. Is the puzzle, "average?" Is is below or above. Difficulty is entirely different. It requests you to judge a puzzle on a scale of one to five (five being hardest) on how easy it is to solve. If you can't solve it (and many can't), I would say it is a 5 for you. Not a 1,2 or 3. Why do you give it a 1? And it angers you, and you give it a 1 in quality as well? Will that encourage me to make more puzzles? Treat the scale correctly. It is hard to get great detail into a small puzzle, but that doesn't mean it isn't hard or of high quality. Likewise, large puzzles can have sloppy details and be easy. This means a lot to a puzzle author. Treat it properly, please. IDK means I don't know where you are coming from except being an anonymous low rater. I would rate this puzzle a 1 on quality and a 2-3 on difficulty. However, it was done to make a point. Someone rated my Badger a 1 on quality and difficulty, and I would have given it a 4 and 3. 3 is simply average. Rating a two means the authors attempts were BELOW AVERAGE."
+difficulty 1.75
+height 20
+id 20518
+link "https://webpbn.com/play.cgi?id=20518"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "What is an average puzzle in Quality and Difficulty?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 2 red 2
+red 1 red 2
+red 1 red 1
+red 1 red 1
+red 2 black 2 black 2 red 1
+red 2 black 2 black 2 red 2
+red 1 red 1
+red 1 black 1 red 1
+red 1 black 1 red 1
+red 1 black 1 red 1
+red 2 red 1
+red 2 black 5 red 2
+red 3 red 2
+red 6
+black 3 black 2 black 1 black 2
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1
+black 3 black 2 black 1 black 2
+
+columns
+black 1 black 1
+black 5
+black 1 black 1
+0
+red 6 black 5
+red 2 red 2 black 1 black 1
+red 5 red 2 black 3
+red 2 red 1
+red 1 black 2 black 1 red 2
+red 1 black 2 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 red 1
+red 1 black 2 black 1 red 1
+red 2 black 2 black 1 red 1
+red 2 red 2
+red 5 red 2
+red 7
+black 5
+black 1
+black 2 black 2
+black 1 black 1

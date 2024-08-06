@@ -1,0 +1,62 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jun 20, 2011"
+description "a pottery urn sitting next to a patio wall"
+difficulty 1.5
+height 20
+id 14779
+link "https://webpbn.com/play.cgi?id=14779"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "sun-baked"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 10 blue 2 blue 1
+blue 1 red 1 red 2 red 2 blue 2 blue 1
+blue 1 red 2 red 2 red 2 blue 2
+blue 1 red 1 red 2 red 2 blue 2
+blue 1 red 8 blue 3
+red 4 red 3 blue 5
+red 1 red 2 red 2 red 2 blue 5
+red 1 red 2 red 2 red 2 red 1 blue 8
+red 5 red 5 blue 8
+red 1 red 3 red 1 red 3 blue 8
+red 2 red 2 red 2 red 2 blue 8
+red 2 red 2 red 2 red 2 blue 8
+red 1 red 4 red 3 blue 8
+red 11 blue 9
+black 6 red 5 blue 4 black 5
+black 6 red 5 blue 4 black 5
+red 4 black 2 red 4 blue 5 black 2 blue 3
+black 20
+black 20
+black 20
+
+columns
+red 1 blue 4 red 2 red 2 black 2 red 1 black 3
+red 6 red 4 red 1 black 2 red 1 black 3
+red 1 red 1 red 5 red 2 red 1 black 2 red 1 black 3
+red 2 red 7 red 2 black 2 red 1 black 3
+red 6 red 6 black 6
+red 1 red 1 red 1 red 8 black 6
+red 2 red 2 red 2 red 5 black 3
+red 6 red 4 red 4 black 3
+red 1 red 1 red 5 red 2 red 4 black 3
+red 1 blue 4 red 5 red 5 black 3
+blue 6 red 8 blue 1 black 3
+blue 1 blue 3 red 6 blue 4 black 3
+blue 12 black 3
+blue 12 black 3
+blue 12 black 3
+blue 8 black 6
+blue 7 black 6
+blue 7 black 2 blue 1 black 3
+blue 7 black 2 blue 1 black 3
+blue 2 blue 7 black 2 blue 1 black 3

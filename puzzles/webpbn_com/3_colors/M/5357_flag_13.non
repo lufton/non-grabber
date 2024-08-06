@@ -1,0 +1,71 @@
+by "Pam Negri (pamnegri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Pam Negri"
+date "Mar 14, 2009"
+description "chile"
+difficulty 1.25
+height 20
+id 5357
+link "https://webpbn.com/play.cgi?id=5357"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "flag 13"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 10
+blue 10
+blue 4 blue 4
+blue 2 blue 1 blue 1 blue 2
+blue 2 blue 2
+blue 4 blue 4
+blue 3 blue 3
+blue 2 blue 2 blue 2
+blue 2 blue 4 blue 2
+blue 10
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+
+columns
+blue 10 black 10
+blue 10 black 10
+blue 3 blue 2 blue 1 black 10
+blue 4 blue 1 blue 2 black 10
+blue 2 blue 3 black 10
+blue 2 blue 3 black 10
+blue 4 blue 1 blue 2 black 10
+blue 3 blue 2 blue 1 black 10
+blue 10 black 10
+blue 10 black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10

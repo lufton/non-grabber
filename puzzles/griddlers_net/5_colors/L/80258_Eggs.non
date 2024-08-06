@@ -1,0 +1,77 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/09"
+height 25
+id 80258
+link "https://www.griddlers.net/nonogram/-/g/80258"
+medium_time "0:13:01"
+points 9381
+popularity 75.4
+title "Eggs"
+width 30
+
+color a fecc99
+color b 030101
+color c ffffff
+color d c9ccce
+color e 8e6740
+
+rows
+b 4
+b 1 c 4 b 1
+b 5 c 5 d 1 b 1
+b 1 c 3 d 1 b 1 c 5 d 2 b 4
+b 1 c 5 d 1 b 1 c 3 d 2 b 1 c 4 b 1
+b 1 c 6 d 2 b 5 c 5 d 1 b 1
+b 1 c 6 d 1 b 1 c 4 b 1 c 5 d 1 b 1
+e 1 c 7 b 1 c 5 d 1 b 1 c 3 d 3 b 4
+e 2 c 4 d 2 b 1 c 5 d 1 b 1 c 3 d 2 b 1 c 4 b 1
+e 4 c 1 d 2 b 1 c 6 d 2 b 5 c 5 d 1 b 1
+e 5 d 2 b 1 c 5 d 2 b 1 c 4 b 1 c 6 b 1
+e 7 c 6 d 1 b 1 c 6 b 1 c 5 d 1 b 1
+e 8 c 4 d 2 b 1 c 6 b 1 c 4 d 2 b 1 e 1
+e 9 c 1 d 2 b 1 c 7 d 1 b 1 c 2 d 3 e 2
+e 10 d 1 b 1 c 6 d 2 b 1 c 2 d 1 e 4
+e 9 c 7 d 2 b 1 d 1 e 6
+e 10 c 4 d 3 e 8
+e 10 c 2 d 2 e 10
+e 21
+e 8 e 11
+e 6 e 10
+e 5 e 8
+e 4 e 6
+e 2 e 4
+e 4
+
+columns
+e 6
+b 2 c 1 e 6
+b 1 c 4 e 6
+b 1 c 5 e 6
+b 1 c 7 e 6
+b 1 c 6 d 2 e 6
+b 1 c 5 d 3 e 7
+b 1 d 1 c 4 d 1 b 2 c 1 e 6
+b 2 d 3 b 2 c 4 e 6
+b 1 c 2 b 1 d 1 b 1 c 6 e 7
+b 1 c 4 b 1 c 8 e 6
+b 1 c 4 b 1 c 7 d 1 e 7
+b 1 c 4 b 1 c 6 d 3 e 7
+b 1 c 3 d 1 b 1 c 4 d 3 b 2 c 1 e 7
+b 1 d 3 b 2 d 4 b 2 c 3 e 7
+b 1 d 1 b 1 c 2 b 2 d 1 b 1 c 6 e 7
+b 1 c 5 b 1 c 8 e 7
+b 1 c 5 b 1 c 8 e 1 e 1
+b 1 c 5 b 1 c 7 d 1 e 7
+b 1 c 3 d 2 b 1 c 6 d 2 e 7
+b 1 d 4 b 2 c 3 d 3 e 7
+b 2 d 1 b 1 c 2 b 2 d 4 e 7
+b 1 c 5 b 3 e 7
+b 1 c 7 d 1 e 7
+b 1 c 7 e 7
+b 1 c 5 d 2 e 7
+b 1 d 1 c 2 d 2 e 7
+b 2 d 3 e 7
+b 2 e 7
+e 6

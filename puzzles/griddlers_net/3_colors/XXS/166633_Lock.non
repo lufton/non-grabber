@@ -1,0 +1,30 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166633
+link "https://www.griddlers.net/nonogram/-/g/166633"
+medium_time "0:00:11"
+points 2
+popularity 59.94
+title "Lock"
+width 5
+
+color a ffffff
+color b 999999
+color c 000000
+
+rows
+c 3
+c 1 c 1
+b 5
+b 2 b 2
+b 5
+
+columns
+b 3
+c 2 b 3
+c 1 b 1 b 1
+c 2 b 3
+b 3

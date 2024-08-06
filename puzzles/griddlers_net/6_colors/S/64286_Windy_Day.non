@@ -1,0 +1,53 @@
+by "nasa17"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/08"
+height 15
+id 64286
+link "https://www.griddlers.net/nonogram/-/g/64286"
+medium_time "0:07:27"
+points 2413
+popularity 50.57
+title "Windy Day"
+width 15
+
+color a c6af9b
+color b af1d48
+color c 660033
+color d db245b
+color e 816b56
+color f e7698e
+
+rows
+b 1
+b 1
+b 2 c 1 c 2
+b 1 d 2 c 2 c 1 e 2 c 1
+b 1 d 1 f 1 c 1 b 1 c 1 c 1 e 2 c 1
+b 1 d 1 f 2 c 1 b 1 c 1 e 3 e 2
+b 1 d 1 f 2 c 1 d 1 c 1 e 7
+b 1 d 2 f 2 c 1 d 1 b 1 c 1 e 5
+b 1 d 3 f 2 c 2 b 1 c 1 e 4
+b 1 d 3 f 3 c 3 e 3
+b 1 c 1 d 5 f 2 b 2 e 1
+b 2 d 6 b 1 b 1
+b 6
+e 1 e 1
+e 1
+
+columns
+b 6
+b 1 b 1 d 6 b 2
+b 2 d 1 f 3 d 3 c 1 b 1
+c 3 f 3 d 3 b 1
+c 1 b 1 c 2 f 2 d 3 b 1
+c 1 b 1 d 1 c 1 f 2 d 2 b 1
+c 1 d 1 c 1 f 1 d 2 b 1
+c 1 e 1 b 1 c 1 f 1 d 2 b 1
+c 1 e 2 c 1 b 1 c 1 f 1 d 1 b 1
+c 1 e 3 c 2 f 1 d 1 b 1
+c 1 e 5 c 1 b 2
+c 1 e 1 c 1 e 3 b 1 e 1
+c 1 e 4 b 1 e 1
+e 6 e 1
+e 1 e 3

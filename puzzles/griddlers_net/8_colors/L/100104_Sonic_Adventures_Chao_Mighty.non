@@ -1,0 +1,76 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/21/10"
+height 30
+id 100104
+link "https://www.griddlers.net/nonogram/-/g/100104"
+medium_time "0:10:39"
+points 8579
+popularity 66.42
+title "Sonic Adventures: Chao Mighty"
+width 21
+
+color a ffffff
+color b 000000
+color c f2a92a
+color d 4d4c4c
+color e 279127
+color f 2929bf
+color g e21c1c
+color h ff0033
+
+rows
+b 3
+b 1 e 3 b 1
+b 1 e 3 b 1
+b 1 e 3 b 1
+b 3
+0
+0
+b 5
+b 3 h 5 b 3
+b 1 h 11 b 1
+b 1 h 13 b 1
+b 1 h 15 b 1
+b 1 h 5 c 3 h 8 b 1
+b 1 h 1 g 2 b 1 g 1 c 1 d 1 c 1 h 8 g 1 b 1
+b 1 g 3 b 1 c 1 d 1 c 1 h 10 b 1
+b 1 g 2 b 1 f 2 c 1 g 2 h 9 g 1 b 1
+b 3 d 1 f 2 b 1 g 3 h 8 g 1 b 1
+b 1 d 3 f 2 b 1 g 4 h 6 g 2 b 1
+b 1 d 3 f 2 b 1 g 5 h 6 g 1 b 1
+b 1 d 3 d 2 b 2 g 4 h 4 g 2 b 1
+b 1 d 8 b 2 g 2 h 4 g 2 b 1
+b 3 d 7 b 1 g 2 h 2 g 3 b 1
+b 1 d 5 b 2 g 3 h 1 g 2 b 1
+b 1 d 3 b 1 d 3 b 2 g 5 b 1
+b 1 d 2 b 1 d 4 b 2 g 4 b 1
+b 1 d 2 b 1 d 4 b 2 g 4 b 1
+b 3 d 4 b 3 g 2 b 1
+b 1 d 3 b 4 d 1 b 2 g 1 b 1
+b 1 d 8 b 3
+b 8
+
+columns
+b 5
+b 2 g 2 b 1 d 2 b 2
+b 1 h 2 g 2 b 1 d 4 b 1
+b 1 h 2 g 2 b 1 d 5 b 1
+b 1 h 3 g 1 b 1 f 4 d 2 b 1 b 3 b 2
+b 1 h 4 b 1 f 4 d 2 b 1 d 3 b 1 d 2 b 1
+b 1 h 4 g 1 c 1 d 7 b 1 d 2 b 1
+b 1 h 3 c 2 d 1 c 1 b 3 d 5 b 3 d 2 b 1
+b 1 h 4 c 1 d 1 c 1 g 4 b 1 d 3 b 1 d 3 b 1 d 1 b 1
+b 3 b 1 h 4 c 2 h 1 g 4 b 1 d 7 b 1 d 1 b 1
+b 1 e 3 b 1 b 1 h 8 g 4 b 1 d 6 b 1 d 1 b 1
+b 1 e 3 b 1 b 1 h 9 g 3 b 1 d 1 b 1 d 4 b 1 d 1 b 1
+b 1 e 3 b 1 b 1 h 10 g 3 b 6 d 2 b 1
+b 3 b 1 h 10 g 4 b 6
+b 1 h 12 g 5 b 3
+b 1 h 13 g 6 b 1
+b 1 h 13 g 4 b 1
+b 1 h 10 g 5 b 1
+b 2 g 1 h 3 g 1 h 1 g 5 b 2
+b 2 g 7 b 2
+b 7

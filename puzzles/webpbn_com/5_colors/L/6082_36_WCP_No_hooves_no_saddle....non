@@ -1,0 +1,83 @@
+by "Tyler Buglewicz (tbugs14)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Tyler Buglewicz"
+date "Jun 13, 2009"
+description "but still a horse. (a seahorse)"
+difficulty 2.5
+height 40
+id 6082
+link "https://webpbn.com/play.cgi?id=6082"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "#36 WCP: No hooves, no saddle..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 red 1
+blue 3
+blue 4 blue 1 red 1
+blue 8
+blue 2 blue 6 red 1
+blue 2 black 1 blue 6
+blue 2 blue 7 red 1
+blue 12
+blue 7 blue 2 blue 4 red 1
+blue 4 blue 4
+blue 4
+green 1 blue 5 red 1
+green 2 blue 6
+green 3 blue 7 red 1
+green 3 blue 6
+green 2 blue 3 green 1 blue 3 red 1
+green 2 blue 3 green 1 blue 2 red 1
+green 2 green 2 blue 3 green 1 blue 2 red 2
+green 2 green 1 blue 3 green 1 blue 2 red 3
+green 2 green 2 blue 3 green 1 blue 2 red 1 red 1
+green 2 green 1 blue 2 green 1 blue 2 red 3
+green 3 green 1 blue 1 green 2 blue 2 red 2
+green 3 green 1 green 2 blue 3 red 1 red 1
+green 2 green 1 green 1 blue 3 red 1 red 1
+green 2 green 1 green 2 blue 3 red 2 green 1
+green 3 green 1 green 1 blue 3 green 1
+green 2 green 2 green 1 blue 2 green 1
+green 2 green 1 green 1 blue 3 green 1
+green 2 green 1 green 2 blue 2 green 1 green 1
+green 2 green 3 blue 2 green 1 green 1
+green 2 green 2 blue 2 green 1 green 1
+green 2 green 1 blue 2 green 3
+green 5 blue 2 blue 3 green 2
+green 4 blue 2 blue 2 green 1
+green 3 blue 1 blue 2 green 1
+green 3 blue 2 blue 2 green 1
+green 4 blue 2 blue 3 green 1
+green 4 blue 6 green 2
+green 5 blue 4 green 3
+green 6 green 5
+
+columns
+green 1
+blue 2 green 9 green 4
+blue 2 green 13 green 8
+blue 2 green 2 green 19
+blue 3 green 2 green 15
+blue 1 blue 2 green 2 green 1 green 2 green 2
+blue 6 green 3 green 7
+blue 2 blue 3 green 8 green 2 blue 3
+blue 2 black 1 blue 1 green 2 blue 2 blue 2
+blue 3 blue 2 blue 5 green 5 blue 1 blue 2
+red 1 blue 8 blue 9 green 3 blue 2
+blue 8 blue 9 green 2 blue 3 blue 2
+red 1 blue 1 blue 5 blue 4 green 7 blue 6 blue 2
+blue 31 blue 3
+red 1 blue 19 blue 11
+red 1 blue 11 red 5 red 2 blue 5 green 1
+red 1 blue 6 red 1 red 2 red 2 red 1 green 1
+red 1 red 1 red 1 red 7 green 5 green 2
+green 9
+green 8 green 3

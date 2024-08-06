@@ -1,0 +1,68 @@
+by "Merili (merilinnuke)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Merili"
+date "Feb 15, 2010"
+description "It's the face of a clown named Flutter :)"
+difficulty 2.25
+height 20
+id 7828
+link "https://webpbn.com/play.cgi?id=7828"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "WCP#53 my attempt (not as poor as I thought)"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 23
+green 5 black 1 green 1 black 1 green 1 black 1 green 3 black 1 green 1 black 1 green 1 black 1 green 5
+green 5 blue 5 blue 5 green 5
+green 3 blue 2 blue 2 blue 2 blue 2 green 3
+green 2 blue 1 blue 1 blue 1 blue 1 green 2
+blue 1 black 2 blue 1 blue 1 black 2 blue 1
+blue 1 black 2 blue 1 blue 1 black 2 blue 1
+blue 2 blue 2 blue 2 blue 2
+black 3 blue 5 blue 5 black 3
+black 2 black 2 red 3 black 2 black 2
+black 1 black 2 red 5 black 2 black 1
+black 1 black 4 red 5 black 4 black 1
+black 2 red 5 black 2
+black 1 red 3 black 1
+black 2 black 2 black 2 black 2
+black 2 black 3 black 3 black 2
+black 2 black 5 black 2
+black 3 black 3
+black 3 black 3
+black 7
+
+columns
+0
+green 3 black 4
+green 4 black 2 black 3
+green 5 black 1 black 2
+green 5 black 2 black 2
+green 3 blue 5 black 2 black 2
+green 1 black 1 blue 2 blue 2 black 2 black 1
+green 2 blue 1 black 2 blue 1 black 1 black 1 black 2
+green 1 black 1 blue 1 black 2 blue 1 black 1 black 2 black 1
+green 2 blue 1 blue 1 black 1 black 1 black 2
+green 1 black 1 blue 2 blue 2 red 3 black 2 black 1
+green 2 blue 5 red 5 black 1 black 1
+green 2 red 5 black 1 black 1
+green 2 blue 5 red 5 black 1 black 1
+green 1 black 1 blue 2 blue 2 red 3 black 2 black 1
+green 2 blue 1 black 2 blue 1 black 1 black 1 black 2
+green 1 black 1 blue 1 black 2 blue 1 black 1 black 2 black 1
+green 2 blue 1 blue 1 black 1 black 1 black 2
+green 1 black 1 blue 2 blue 2 black 2 black 1
+green 3 blue 5 black 2 black 2
+green 5 black 2 black 2
+green 5 black 1 black 2
+green 4 black 2 black 3
+green 3 black 4
+0

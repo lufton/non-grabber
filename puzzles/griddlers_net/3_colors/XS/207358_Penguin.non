@@ -1,0 +1,40 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/23/20"
+height 9
+id 207358
+link "https://www.griddlers.net/nonogram/-/g/207358"
+medium_time "0:00:43"
+points 191
+popularity 75.75
+title "Penguin"
+width 11
+
+color a ffffff
+color b 000000
+color c ff9933
+
+rows
+b 9
+b 1 b 1
+b 1 b 1 b 1 b 1
+b 1 c 1 b 1
+b 2 b 2
+b 1 b 1
+b 1 b 1
+b 1 c 3 c 3 b 1
+b 1 c 3 b 1 c 3 b 1
+
+columns
+b 1
+b 9
+b 1 c 2
+b 1 c 2
+b 1 b 1 c 2
+b 1 c 1 b 1
+b 1 b 1 c 2
+b 1 c 2
+b 1 c 2
+b 9
+b 1

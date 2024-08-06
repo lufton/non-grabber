@@ -1,0 +1,74 @@
+by "poj"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/15/09"
+height 27
+id 78424
+link "https://www.griddlers.net/nonogram/-/g/78424"
+medium_time "0:12:30"
+points 5848
+popularity 67.08
+title "Handbag"
+width 25
+
+color a ffffff
+color b 000000
+color c ff66ff
+color d ff0000
+color e ffff00
+
+rows
+c 4
+c 2 c 2
+c 1 c 1
+c 2 c 2
+c 2 c 1
+c 1 c 1
+c 1 c 1
+e 2 e 3 e 2
+c 4 e 1 c 7 e 1 c 4
+c 19
+c 8 b 3 c 9
+c 4 b 3 c 2 b 1 d 1 b 2 c 4 c 2 c 2
+c 4 b 1 d 2 b 2 d 3 b 1 c 4 c 2 c 1
+c 4 b 1 d 3 b 1 d 1 d 1 b 4 c 3 c 1 c 1
+c 4 b 1 d 2 d 1 b 1 d 2 b 1 d 3 b 1 c 2 c 4
+c 4 b 2 d 3 b 2 d 1 d 2 b 1 c 2 c 1 c 2
+c 4 b 4 d 1 b 1 b 1 d 3 b 1 c 2 c 1 c 2
+c 3 b 1 d 4 b 1 b 1 d 1 b 4 c 2 c 1 c 2
+c 3 b 2 d 2 d 2 b 2 d 1 b 2 c 4 c 1 c 2
+c 3 b 2 d 3 b 2 d 4 b 1 c 4 c 1 c 2
+c 4 b 2 d 1 b 3 d 1 d 2 b 1 c 3 c 1 c 2
+c 5 b 5 d 4 b 1 c 2 c 2 c 2
+c 10 b 2 d 2 b 1 c 3 c 6
+c 10 b 4 c 10
+c 25
+c 23
+c 21
+
+columns
+c 12
+c 15
+c 17
+c 8 c 7
+c 5 b 2 c 6
+c 3 b 4 b 5 c 5
+c 3 b 1 d 3 b 2 d 3 b 2 c 5
+c 3 b 1 d 3 b 2 d 4 b 1 c 5
+c 4 e 2 c 3 b 1 d 1 d 1 b 1 d 1 d 1 b 2 c 5
+c 4 e 1 c 4 b 2 d 5 b 3 c 5
+c 1 c 2 b 2 d 2 b 1 d 1 b 2 d 1 b 4 c 3
+c 1 e 1 c 2 b 1 d 2 d 1 b 1 b 1 d 3 b 2 c 3
+c 1 e 1 c 2 b 2 d 3 b 1 b 2 d 1 d 2 b 1 c 3
+c 1 e 1 c 2 b 4 d 1 b 1 d 6 b 1 c 3
+c 2 c 5 b 1 d 1 d 1 b 2 d 3 b 2 c 3
+c 3 e 1 c 5 b 1 d 3 b 5 c 5
+c 4 e 2 c 4 b 1 d 3 b 1 c 9
+c 6 b 4 c 9
+c 3 c 8 c 4
+c 4 c 7 c 5
+c 5 c 6
+c 2 c 15
+c 2 c 1 c 5
+c 15
+c 11

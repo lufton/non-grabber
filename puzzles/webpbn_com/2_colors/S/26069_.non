@@ -1,0 +1,41 @@
+by "Wendy Coard ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Wendy Coard"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 12
+id 26069
+link "https://webpbn.com/play.cgi?id=26069"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "@"
+width 12
+
+rows
+2,3
+1,5,2
+7,1
+3,1,2,1
+2,2,2,1
+1,4,2,1
+1,4,2,1
+1,4,2,1
+2,2,2,1
+2,1,2
+1,9
+2,2
+
+columns
+2,2
+1,6,1
+3,2
+3,3,2
+2,5,1
+2,5,1
+3,3,2
+2,1
+7,1
+1,6,1
+2,3
+12

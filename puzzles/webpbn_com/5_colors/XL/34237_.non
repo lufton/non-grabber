@@ -1,0 +1,93 @@
+by "seulki (Sleepground)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by seulki"
+date "Jun 17, 2020"
+description "A river,"
+difficulty 3.5
+height 30
+id 34237
+link "https://webpbn.com/play.cgi?id=34237"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "ê°•"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 red 2 black 8 red 12
+blue 2 blue 1 blue 1 red 3 black 7 red 13
+blue 2 red 2 blue 4 red 3 black 6 red 14
+blue 1 red 2 black 1 red 2 red 4 black 4 red 15
+red 1 black 1 black 1 red 2 red 1 red 23
+red 3 black 1 red 4 red 2 red 16 red 4
+red 9 red 3 red 13 black 1 black 2 red 4
+red 4 black 3 red 5 red 10 black 4 black 1 red 4
+black 1 black 3 black 1 red 6 red 9 black 3 red 4
+black 2 black 1 black 2 red 2 red 3 red 8 black 1 black 2 red 4
+black 1 black 1 black 1 red 2 red 2 red 7 black 2 green 1 green 1 black 1 red 4
+black 3 red 4 red 1 red 6 black 1 green 2 green 2 red 4
+black 2 red 5 red 6 black 2 green 1 green 1 black 1 red 4
+red 6 red 5 black 1 blue 8 green 1 blue 1 black 3 red 1 blue 1
+blue 2 red 2 black 3 blue 2 green 2 blue 2 blue 2
+blue 1 red 2 black 1 blue 2 green 1 blue 2 blue 2
+blue 12 green 1 blue 1 blue 2
+green 1 green 2 blue 8 blue 1
+green 2 green 3 blue 3 blue 8
+green 6 blue 2 blue 1
+green 2 black 1 green 5 blue 2
+green 8 blue 3 blue 3
+green 2 green 3 blue 1 blue 1 blue 3 blue 3
+green 2 green 2 blue 5 blue 12
+green 1
+blue 7 blue 1 blue 4
+blue 1 blue 6 blue 7 blue 3 blue 1
+blue 1 blue 20
+blue 1 blue 3 blue 5
+0
+
+columns
+0
+blue 1 blue 2
+blue 2 red 1 black 1 blue 1 blue 2
+blue 2 red 2 black 1 black 1 red 1 blue 1 blue 1
+blue 2 red 3 black 5 red 1 blue 1 blue 1
+blue 1 red 5 black 1 black 1 red 2 blue 1 blue 1
+blue 1 red 2 black 1 red 2 black 5 red 2 blue 1 green 2 blue 1
+blue 1 red 1 black 1 black 1 red 1 black 1 red 3 blue 1 green 2 blue 1
+blue 1 red 1 black 1 red 2 black 4 red 3 blue 1 green 1 black 1 green 2 blue 2
+blue 1 red 4 black 1 red 3 blue 1 green 6 blue 1
+blue 1 red 3 red 4 blue 1 green 5 green 1 blue 1
+blue 1 red 5 blue 1 green 3 blue 1
+blue 1 red 2 blue 3 green 5 blue 1 blue 1
+blue 1 red 4 blue 1 green 7 blue 3
+blue 1 red 6 green 3 green 3 blue 1 blue 2
+blue 1 red 8 blue 3 blue 1
+red 4 blue 1 blue 1 blue 1 blue 1
+red 15 blue 2 blue 1 blue 1 blue 2
+red 14 black 2 blue 1 blue 1 blue 2
+red 14 black 1 blue 4 blue 3 blue 2
+black 3 red 11 black 1 blue 1 blue 1 blue 3 blue 2
+black 4 red 9 black 1 blue 1 blue 1 blue 2 blue 3
+black 4 red 8 black 1 blue 1 blue 1 blue 1 blue 2
+black 4 red 7 black 2 blue 1 blue 1 blue 1 blue 2
+black 4 red 6 black 1 blue 1 blue 1 blue 2 blue 2
+black 3 red 6 black 2 blue 1 blue 1 blue 1 blue 2
+black 2 red 6 black 1 blue 1 blue 1 blue 1 blue 2
+black 1 red 6 black 2 green 1 blue 1 blue 1 blue 1 blue 2
+red 7 black 2 green 1 blue 1 blue 1 blue 1 blue 1
+red 7 black 1 green 1 green 1 blue 1 green 1 blue 1 blue 1 blue 1
+red 6 black 2 blue 1 green 1 blue 1 blue 1 blue 1
+red 6 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 6 green 1 blue 2 blue 1 blue 1 blue 2
+red 5 green 1 green 1 blue 1 blue 1 blue 1 blue 1
+red 5 black 1 black 1 blue 1 blue 2 blue 1 blue 1
+red 5 black 2 black 2 black 2 blue 1 blue 2 blue 1
+red 13 black 1 blue 1 blue 1 blue 1
+red 13 black 1 blue 2 blue 1 blue 1
+red 14 blue 2 blue 2
+red 13 blue 2

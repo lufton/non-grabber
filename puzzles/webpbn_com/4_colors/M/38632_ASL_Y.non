@@ -1,0 +1,72 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "May 14, 2024"
+description "American Sign Language"
+difficulty 1.25
+height 20
+id 38632
+link "https://webpbn.com/play.cgi?id=38632"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "ASL Y"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2
+black 1 green 2 black 2
+black 1 green 3 black 2
+black 2 green 3 black 2
+black 1 green 4 black 2 black 6
+black 2 green 4 black 5 green 3 black 1
+black 2 green 4 black 1 red 2 green 4 black 3
+black 2 green 3 black 1 red 2 green 3 black 1 green 3 black 1
+black 2 green 3 black 5 green 4 black 1
+black 1 green 4 black 1 red 2 green 4 black 1 green 1 black 1
+black 1 green 5 black 6 green 2 black 1
+black 1 green 6 black 1 red 2 green 3 black 1
+black 1 green 7 black 5 green 1 black 7
+black 2 green 20 black 1
+black 1 green 21 black 1
+black 1 green 10 black 11
+black 1 green 9 black 1
+black 1 green 8 black 2
+black 1 green 8 black 1
+black 1 green 8 black 1
+
+columns
+0
+black 3
+black 1 green 2 black 3
+black 1 green 4 black 2
+black 1 green 4 black 2
+black 2 green 4 black 2 black 7
+black 2 green 4 black 6 green 6
+black 2 green 15
+black 2 green 14
+black 3 green 12
+black 2 red 2 black 1 green 11
+black 2 red 2 black 2 green 10
+black 2 green 2 black 1 red 1 black 1 green 9
+black 1 green 3 black 1 red 1 black 2 green 8
+black 1 green 3 black 1 green 1 black 1 red 1 black 1 green 4 black 3
+black 1 green 2 black 1 green 2 black 1 red 1 black 1 green 3 black 2
+black 2 green 3 black 1 green 1 black 1 green 2 black 1
+black 1 green 3 black 1 green 1 black 1 green 2 black 1
+black 1 green 2 black 1 green 2 black 1 green 2 black 1
+black 2 green 2 black 1 green 3 black 1
+black 2 black 1 green 2 black 1
+black 1 green 2 black 1
+black 1 green 2 black 1
+black 1 green 2 black 1
+black 1 green 2 black 1
+black 1 green 2 black 1
+black 1 green 2 black 1
+black 2
+0
+0

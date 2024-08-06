@@ -1,0 +1,27 @@
+by "RB (rb2013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by RB"
+date "Feb 10, 2014"
+description "It's maybe a space racket."
+difficulty 1.75
+height 5
+id 23788
+link "https://webpbn.com/play.cgi?id=23788"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "An easy puzzle"
+width 5
+
+rows
+2
+1,2
+2
+2,1
+1,1
+
+columns
+2
+1,2
+2
+2,1
+1,1

@@ -1,0 +1,37 @@
+by "besmirched tea (besmirched tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by besmirched tea"
+date "Apr 24, 2017"
+description "Ukelele"
+difficulty 1.25
+height 8
+id 29719
+link "https://webpbn.com/play.cgi?id=29719"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "Pick Me"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+black 2
+black 2
+black 2
+black 2
+red 4
+red 6
+red 2 black 2 red 2
+
+columns
+0
+red 2
+red 3
+red 1 black 4 red 2 black 1
+red 1 black 4 red 2 black 1
+red 3
+red 2
+0

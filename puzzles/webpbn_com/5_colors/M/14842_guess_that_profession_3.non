@@ -1,0 +1,55 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 22, 2011"
+description "Police officer."
+difficulty 1.5
+height 21
+id 14842
+link "https://webpbn.com/play.cgi?id=14842"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "guess that profession #3"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 4
+blue 4
+blue 6
+black 6
+black 4
+green 1 green 1
+0
+red 1
+blue 2 blue 2
+blue 1 blue 5 blue 1
+blue 1 blue 3 black 2 blue 1
+blue 1 blue 3 black 2 blue 1
+blue 1 blue 5 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 3 blue 1
+black 6
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+blue 3 blue 3
+
+columns
+0
+blue 5
+blue 1 black 1 blue 1
+blue 1 black 1 blue 6 black 5 blue 1
+blue 3 black 2 green 1 blue 4 black 6 blue 1
+blue 3 black 2 red 1 blue 5 black 1
+blue 3 black 2 green 1 blue 1 black 2 blue 1 black 6 blue 1
+blue 3 black 2 blue 2 black 2 blue 1 black 6 blue 1
+blue 1 black 1 blue 1 black 2 blue 1
+blue 5
+0

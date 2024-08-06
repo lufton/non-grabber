@@ -1,0 +1,52 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "Apr  1, 2020"
+description "of the blood"
+difficulty 2.5
+height 15
+id 33820
+link "https://webpbn.com/play.cgi?id=33820"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Drinker"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 green 6
+black 1 green 1 green 3 green 2
+black 1 green 1 green 1 green 1
+black 2 green 2
+black 1 green 1 green 1
+blue 1 black 1 green 1 green 3 green 5
+blue 2 green 1 blue 1 green 1 blue 1 green 1
+blue 1 green 2 green 1 green 1
+blue 1 green 3 green 1 green 1 green 1
+blue 1 green 2
+blue 1 green 1 green 5 green 1
+blue 1 green 2 green 1 blue 3
+blue 1 black 1 blue 1 green 2 blue 1 green 1 blue 1
+blue 3 black 1 blue 3 green 1 green 1 blue 4
+blue 4 black 7 blue 4
+
+columns
+blue 3 blue 2
+black 3 blue 1 green 1 blue 2 blue 3
+black 2 green 6 blue 2 black 1 blue 2
+black 1 green 1 green 4 blue 1 black 1 blue 1
+black 1 green 1 green 1 green 1 green 2 blue 1 black 1
+black 1 green 1 blue 1 green 1 blue 1 black 1
+green 1 green 1 green 1 blue 1 black 1
+green 2 green 1 green 1 green 1 black 1
+green 3 green 2 black 1
+green 2 green 4 green 1 black 1
+green 1 green 1 green 1 green 1 black 1
+green 2 green 1 blue 1 blue 4
+green 3 green 1 green 1 blue 1 green 1 blue 2
+green 6 blue 4
+blue 2

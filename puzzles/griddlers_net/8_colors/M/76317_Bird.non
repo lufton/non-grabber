@@ -1,0 +1,70 @@
+by "demirors"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/21/09"
+height 25
+id 76317
+link "https://www.griddlers.net/nonogram/-/g/76317"
+medium_time "0:12:37"
+points 7674
+popularity 77.03
+title "Bird"
+width 20
+
+color a ffffff
+color b 000000
+color c 969696
+color d 660000
+color e ff9933
+color f 6666ff
+color g 00cccc
+color h ffff99
+
+rows
+f 5
+c 1 f 3
+c 2 f 3
+f 1 c 3 b 1 f 2
+f 1 c 2 e 2
+f 5 h 2 c 2 e 1
+f 2 g 1 f 3 h 4
+f 2 g 2 f 2 h 4
+f 2 g 2 f 2 h 5
+f 2 g 2 f 2 h 4 c 1 h 1
+f 1 g 2 f 2 h 3 c 2 h 2
+f 2 g 2 f 1 h 3 c 2 h 2
+g 1 f 1 h 3 c 3 h 1 d 1
+f 2 h 3 c 2 h 1 d 1
+f 3 h 2 d 1 e 1 d 1 e 1 d 3
+f 2 g 2 f 2 d 2 d 2
+f 3 g 1 f 2 d 3 d 1
+f 3 g 1 f 2 d 2 d 3
+f 2 g 3 f 2 d 1
+g 2 f 2 d 1
+f 2 d 1
+d 1
+d 1
+d 1
+d 1
+
+columns
+f 1
+f 2
+f 2 g 2
+f 1 f 3 g 2 f 1
+f 3 f 3 g 2 f 2
+f 2 g 3 f 2 g 2 f 3
+f 2 g 3 f 3 g 1 f 3
+f 2 g 2 f 2 h 2 f 2
+f 2 g 2 f 2 h 4 f 1
+f 2 g 2 f 2 h 5
+f 1 f 4 h 3 c 2 d 1
+c 2 f 3 h 3 c 3 e 1 d 1
+f 1 c 2 f 2 h 3 c 3 h 1 d 4
+f 1 c 1 h 5 c 1 h 2 e 1 d 2
+f 1 c 2 h 4 c 1 h 2 d 2
+f 2 b 1 c 2 h 5 d 8
+f 3 c 1 h 1 d 3
+f 3 e 1 d 2
+f 2 e 2 d 3
+d 1

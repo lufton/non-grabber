@@ -1,0 +1,61 @@
+by "Grace (lego)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Grace"
+date "Dec 15, 2012"
+description ""
+difficulty 1.5
+height 20
+id 20620
+link "https://webpbn.com/play.cgi?id=20620"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Christmas colors"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 20
+black 2 green 7 green 8 black 2
+black 1 green 1 black 1 green 7 green 6 black 1 green 1 black 1
+black 1 green 2 black 1 green 5 green 6 black 1 green 2 black 1
+black 1 green 3 black 1 green 5 green 4 black 1 green 3 black 1
+black 1 green 4 black 1 green 3 green 4 black 1 green 4 black 1
+black 1 green 5 black 1 green 3 green 2 black 1 green 5 black 1
+black 1 green 6 black 1 green 1 green 2 black 1 green 6 black 1
+black 1 green 7 black 1 green 1 black 1 green 7 black 1
+black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 2 black 1
+black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 2 black 1
+black 1 green 7 black 1 green 1 black 1 green 7 black 1
+black 1 green 6 black 1 green 2 green 1 black 1 green 6 black 1
+black 1 green 5 black 1 green 2 green 3 black 1 green 5 black 1
+black 1 green 4 black 1 green 4 green 3 black 1 green 4 black 1
+black 1 green 3 black 1 green 4 green 5 black 1 green 3 black 1
+black 1 green 2 black 1 green 6 green 5 black 1 green 2 black 1
+black 1 green 1 black 1 green 6 green 7 black 1 green 1 black 1
+black 2 green 8 green 7 black 2
+black 20
+
+columns
+black 20
+black 2 green 8 green 7 black 2
+black 1 green 1 black 1 green 6 green 7 black 1 green 1 black 1
+black 1 green 2 black 1 green 6 green 5 black 1 green 2 black 1
+black 1 green 3 black 1 green 4 green 5 black 1 green 3 black 1
+black 1 green 4 black 1 green 4 green 3 black 1 green 4 black 1
+black 1 green 5 black 1 green 2 green 3 black 1 green 5 black 1
+black 1 green 6 black 1 green 2 green 1 black 1 green 6 black 1
+black 1 green 7 black 1 green 1 black 1 green 7 black 1
+black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 black 1
+black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 black 1
+black 1 green 7 black 1 green 1 black 1 green 7 black 1
+black 1 green 6 black 1 green 1 green 2 black 1 green 6 black 1
+black 1 green 5 black 1 green 3 green 2 black 1 green 5 black 1
+black 1 green 4 black 1 green 3 green 4 black 1 green 4 black 1
+black 1 green 3 black 1 green 5 green 4 black 1 green 3 black 1
+black 1 green 2 black 1 green 5 green 6 black 1 green 2 black 1
+black 1 green 1 black 1 green 14 black 1 green 1 black 1
+black 2 green 8 green 7 black 2
+black 20

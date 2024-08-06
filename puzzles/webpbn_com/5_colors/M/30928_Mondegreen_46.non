@@ -1,0 +1,58 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Mar  4, 2018"
+description "Since you put me down I've got owls puking in my bed"
+difficulty 1.5
+height 15
+id 30928
+link "https://webpbn.com/play.cgi?id=30928"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Mondegreen #46"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+black 4 black 3
+black 3 black 4
+black 3 red 2 black 3
+black 3 red 2 black 4
+black 3 red 1 black 3
+black 2 black 3
+black 1 black 3
+black 1 black 2
+black 1 blue 3 red 2 black 1
+black 1 blue 3 red 4 black 1
+black 3 green 14 black 1
+black 3 green 14 black 1
+black 18
+black 1 black 1
+
+columns
+black 8
+black 7 black 7
+black 6 blue 2 black 3
+black 1 blue 2 black 3
+blue 2 green 2 black 1
+red 1 green 2 black 1
+red 2 green 2 black 1
+red 2 green 2 black 1
+red 1 green 2 black 1
+green 2 black 1
+green 2 black 1
+green 2 black 1
+green 2 black 1
+green 2 black 1
+red 2 green 2 black 1
+red 2 green 2 black 1
+black 1 red 1 black 1 green 2 black 1
+black 7 green 2 black 1
+black 8 black 5
+black 9

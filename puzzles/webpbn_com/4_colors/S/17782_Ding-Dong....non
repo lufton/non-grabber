@@ -1,0 +1,50 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by valerie o..travis"
+date "Mar  4, 2012"
+description "The witch is dead"
+difficulty 1.5
+height 10
+id 17782
+link "https://webpbn.com/play.cgi?id=17782"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Ding-Dong..."
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2
+blue 3
+blue 3 red 1
+blue 3 red 2
+blue 3 red 1 red 2
+blue 3 red 2 red 3
+blue 3 black 1 black 1 black 1 red 2 black 1 red 2
+blue 2 black 1 black 1 red 3 black 1 red 3
+blue 2 black 1 black 1 black 1 black 1 red 2
+black 1 black 1 black 1 black 1 black 1 red 3
+
+columns
+blue 1
+blue 1 black 1
+blue 1
+blue 2 black 2
+blue 1
+blue 2 black 2
+blue 1 black 2
+blue 2 black 2
+blue 1 black 2
+blue 2 black 2
+blue 1 black 1 red 3
+blue 2 red 5
+blue 1 red 4 red 1
+blue 2
+blue 1 black 2
+blue 1 red 3
+blue 1 red 5
+blue 1 red 4 red 1

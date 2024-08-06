@@ -1,0 +1,119 @@
+by "bromatom"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/16/07"
+height 50
+id 50460
+link "https://www.griddlers.net/nonogram/-/g/50460"
+medium_time "0:23:49"
+points 31830
+popularity 73.89
+title "Looking at the River"
+width 45
+
+color a 99ffff
+color b 000000
+color c 663300
+color d ffcc00
+color e 009933
+color f 0000ff
+color g ffcccc
+
+rows
+c 4 c 1 c 3 e 1 c 1 e 2 f 9
+c 4 e 3 c 4 e 2 c 1 e 2 f 5
+c 4 e 3 c 3 c 2 c 2
+c 4 c 4 c 1 c 3 e 2
+c 4 c 3 e 3 c 2 c 3 e 4
+c 4 c 3 e 3 c 5 e 4
+c 4 c 3 e 3 c 5 e 3
+c 4 c 3 c 5 e 2 c 2 e 2 f 4
+c 4 c 2 c 4 e 2 c 2 e 2 f 8
+c 6 e 2 c 4 c 3 f 7
+c 6 e 2 c 3 e 3 c 3
+c 6 c 4 e 3 e 2
+c 5 c 4 e 4 e 2
+c 5 c 3 e 2 d 4
+c 5 c 3 e 5 d 6
+c 7 e 23 d 8
+c 6 e 39
+c 5 e 40
+c 5
+c 5 b 6
+c 5 b 8
+c 5 b 10
+c 5 b 10
+c 5 b 10
+c 5 b 8 g 2
+c 5 b 7 g 2
+c 5 b 6 g 2
+c 5 b 4 g 2
+c 5 d 5
+c 5 d 6
+c 4 d 9
+c 4 d 11 g 7
+c 4 d 12 g 8
+c 3 d 14 g 2 f 2 g 4
+c 3 d 15 f 1 g 6
+c 3 d 15 g 7 f 2 e 15
+c 3 d 14 g 6 b 1 f 4 e 17
+c 3 d 13 f 2 g 4 b 1 f 6 e 16
+c 4 d 12 f 5 b 1 f 8 e 15
+c 4 d 13 f 3 b 1 f 10 e 14
+c 4 d 13 f 2 b 1 f 12 e 13
+c 4 d 13 f 8 e 1 f 7 e 12
+c 4 d 13 f 7 e 3 f 6 e 12
+c 4 d 13 f 7 e 4 f 6 e 11
+c 5 d 11 f 7 e 6 f 6 e 10
+c 5 d 11 f 6 e 8 f 6 e 9
+c 5 d 11 f 5 e 10 f 6 e 8
+c 7 d 8 f 5 e 12 b 8 e 5
+c 7 d 7 f 5 e 14 b 7 e 5
+c 5 e 4 d 5 f 4 e 15 c 7 e 5
+
+columns
+c 50
+c 50
+c 50
+c 33 d 5 c 12
+e 2 c 21 d 14 c 6
+e 2 c 6 c 2 e 1 b 6 d 19 c 2 e 1
+e 2 c 6 c 2 e 2 b 8 d 19 c 2 e 1
+c 8 c 2 e 3 b 9 d 21 e 1
+c 5 e 2 c 3 e 3 b 9 d 21 e 1
+c 4 e 2 c 3 e 3 b 9 d 22
+c 2 e 3 c 3 e 3 b 8 g 1 d 21
+c 1 e 3 c 3 e 1 e 3 b 7 g 2 d 20
+e 3 c 5 e 2 e 3 b 6 g 2 d 20
+c 3 c 4 e 3 e 3 b 4 g 2 d 19
+e 1 c 1 c 6 e 3 e 3 b 3 g 1 d 17 f 2
+e 2 c 5 e 3 e 3 g 1 d 15 f 3
+c 3 c 1 e 3 g 2 d 4 f 2 d 5 f 6
+c 4 c 1 e 3 g 3 d 2 g 1 f 13
+c 6 e 2 c 2 e 2 e 3 g 3 f 1 g 3 f 11 e 1
+e 2 c 3 e 2 c 1 e 2 e 3 g 2 f 1 g 4 f 2 b 1 f 7 e 2
+e 2 c 2 e 3 g 2 f 1 g 4 f 1 b 1 f 7 e 3
+e 4 c 2 e 3 g 7 b 1 f 7 e 4
+e 4 c 1 e 3 g 5 b 1 f 7 e 5
+e 5 e 4 g 4 b 1 f 7 e 6
+e 2 e 2 e 4 g 3 f 6 e 8
+e 4 f 6 e 9
+f 1 e 4 f 7 e 8
+f 1 e 4 e 1 f 7 e 7
+f 2 e 3 e 2 f 7 e 6
+f 2 e 3 e 3 f 7 e 5
+f 2 e 2 e 4 f 7 e 4
+f 2 e 2 e 5 f 7 e 3
+f 2 e 2 e 6 f 6 b 1 e 2
+f 1 e 2 e 8 f 4 b 2 c 1
+f 1 e 2 e 9 f 3 b 2 c 1
+d 1 e 2 e 10 f 2 b 2 c 1
+d 2 e 2 e 11 f 1 b 2 c 1
+f 1 d 3 e 2 e 12 b 2 c 1
+f 2 d 3 e 2 e 12 b 2 c 1
+f 2 d 3 e 2 e 12 b 2 c 1
+f 2 d 3 e 2 e 15
+f 3 d 2 e 2 e 15
+f 3 d 1 e 2 e 14
+f 3 e 2 e 14
+f 3 e 2 e 14

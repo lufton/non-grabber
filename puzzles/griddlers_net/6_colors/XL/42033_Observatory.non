@@ -1,0 +1,87 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/28/07"
+height 32
+id 42033
+link "https://www.griddlers.net/nonogram/-/g/42033"
+medium_time "0:15:04"
+points 40178
+popularity 64.09
+title "Observatory"
+width 32
+
+color a 868686
+color c cccccc
+color d 5e5c5c
+color e 0099ff
+color f ffffff
+color g 000000
+
+rows
+g 32
+g 12 c 8 g 12
+g 9 c 2 g 1 c 5 d 3 c 3 g 9
+g 2 e 3 g 3 c 1 d 2 c 4 d 2 c 7 g 8
+g 2 e 1 f 1 e 1 f 2 c 1 d 1 c 5 d 1 c 11 g 6
+g 2 e 1 f 2 f 2 d 6 c 8 c 2 g 5
+g 3 d 2 f 2 c 3 d 1 c 7 c 4 c 2 g 4
+g 4 d 2 f 2 g 2 d 1 c 6 c 2 c 1 g 4
+g 3 c 1 g 1 d 2 f 2 d 1 c 8 c 1 g 3
+g 2 c 2 d 1 g 1 d 2 d 1 c 6 c 1 c 1 g 2
+g 2 c 2 d 1 c 1 g 1 d 2 d 1 c 5 c 1 c 1 g 2
+g 2 c 2 d 1 c 1 g 2 d 1 d 1 c 5 c 1 c 1 g 2
+g 1 c 2 d 3 g 3 d 1 c 3 c 1 g 1
+g 1 c 2 d 1 c 2 d 4 c 3 c 1 c 1 g 1
+g 1 c 2 d 1 c 3 d 2 c 3 c 1 g 1
+g 1 c 2 d 1 c 3 d 1 c 2 c 1 g 1
+g 1 d 1 c 1 d 1 c 4 d 1 c 1 d 1 g 1
+g 1 c 1 d 2 c 4 d 1 c 1 d 2 g 1
+g 1 c 2 d 3 c 3 d 1 d 4 c 1 g 1
+g 1 c 5 d 4 d 4 c 1 g 1
+g 1 c 8 d 15 c 1 g 1
+g 1 c 8 c 1 g 1
+g 1 c 10 c 1 c 1 g 1
+g 1 c 2 d 3 c 4 c 2 c 1 g 1
+g 1 c 2 d 1 c 2 d 3 c 3 c 1 c 1 g 1
+g 1 c 2 d 1 c 2 d 1 c 2 d 1 c 4 c 1 g 1
+g 1 c 2 d 1 c 2 d 1 c 2 d 1 c 4 c 1 g 1
+g 2 c 1 d 1 c 2 d 1 c 2 d 1 c 4 g 2
+g 3 d 1 c 2 d 1 c 2 d 1 c 4 g 3
+g 5 c 1 d 1 c 2 d 1 c 4 g 5
+g 9 d 1 c 4 g 9
+g 32
+
+columns
+g 32
+g 12 c 4 d 1 c 10 g 5
+g 3 e 3 g 3 c 8 d 1 c 10 g 4
+g 3 e 1 f 2 d 1 g 1 c 4 d 7 c 4 d 6 g 3
+g 3 e 2 f 1 d 2 g 1 d 4 c 5 d 1 c 4 d 1 c 5 g 3
+g 4 f 1 d 2 g 1 c 2 d 1 c 5 d 1 c 4 d 1 c 6 g 2
+g 4 f 2 d 2 g 3 d 1 c 5 d 1 c 4 d 6 g 2
+g 4 c 1 f 2 d 2 g 2 d 1 c 3 d 1 c 4 d 1 c 5 g 2
+g 3 c 1 d 2 f 2 d 2 g 1 d 2 c 1 d 1 c 4 d 1 c 5 g 2
+g 2 c 1 d 1 c 1 d 1 c 1 f 2 d 9 c 3 d 6 g 1
+g 2 c 1 d 1 c 1 d 1 c 1 g 1 f 1 d 3 d 1 c 1 c 7 g 1
+g 3 c 2 d 1 c 1 g 1 d 1 c 3 d 1 c 8 g 1
+g 1 c 4 d 3 c 8 d 1 c 1 c 6 g 1
+g 1 c 4 d 1 c 12 d 1 c 1 c 7 g 1
+g 1 c 3 d 1 c 10 d 1 g 1
+g 1 c 2 d 1 c 8 d 1 g 1
+g 1 c 2 d 1 c 6 c 1 d 1 g 1
+g 1 c 1 d 1 c 6 c 2 d 1 g 1
+g 1 c 1 d 1 c 7 d 1 g 1
+g 1 c 1 d 1 c 4 c 1 d 1 g 1
+g 2 c 4 c 1 d 1 g 1
+g 2 c 6 d 1 g 1
+g 2 c 3 c 1 d 1 g 1
+g 3 c 2 c 1 d 2 g 2
+g 4 c 1 c 1 d 1 g 2
+g 4 c 2 d 1 g 2
+g 5 c 2 d 2 g 2
+g 6 c 2 d 1 g 3
+g 8 c 1 d 1 g 3
+g 9 c 3 d 2 g 4
+g 12 c 4 d 2 c 9 g 5
+g 32

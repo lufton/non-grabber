@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Aug 18, 2010"
+description "Bus is an hour late."
+difficulty 1.5
+height 13
+id 9982
+link "https://webpbn.com/play.cgi?id=9982"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "School days #1"
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 11
+red 12
+red 1 red 2 black 4 red 1
+red 1 black 1 red 2 black 1 black 1 red 4 black 2
+red 1 black 1 red 2 black 1 black 1 red 5 black 4
+red 7 black 1 black 1 red 5 black 5
+red 7 black 1 black 1 red 5 black 2 black 1
+red 7 black 1 black 1 red 5 black 5
+red 7 black 4 red 5 black 1 black 3 black 1
+red 7 black 1 black 1 red 1 black 3 black 5
+black 2 black 1 red 1 black 1 black 3
+black 3 black 1 black 1
+
+columns
+red 2 red 5
+red 10
+red 2 black 2 red 5
+red 2 red 5
+red 2 red 5
+red 10
+red 10
+red 2 black 8
+red 2 black 1 black 1 black 1
+red 2 black 1 black 1 black 1
+red 2 black 8
+red 9
+red 6 black 3
+red 6 black 1 red 1 black 1
+red 6 black 3
+red 5
+black 1
+black 1 black 1
+black 2 black 5
+black 8
+black 9
+black 2 black 1 black 1
+black 2 black 1

@@ -1,0 +1,73 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joel Lynn"
+date "Aug 11, 2013"
+description "Squirrel now must find seed on the ground that the birds have tossed out of the feeder."
+difficulty 2.25
+height 25
+id 22573
+link "https://webpbn.com/play.cgi?id=22573"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Grounded!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 2 blue 1
+blue 1 red 2 black 1 red 1 blue 1
+blue 1 red 1 black 1 red 2 blue 1
+blue 8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+black 3
+black 4 red 1
+black 4 black 1 red 2
+black 3 black 5 black 3 red 1 black 1 red 2
+black 10 green 1 black 2 red 4
+black 12 red 4
+black 2 black 2 black 1 red 1
+black 2 black 2 red 1 black 1 red 1 red 1 black 1 black 2
+green 25
+
+columns
+black 2 green 1
+black 3 green 1
+black 4 green 1
+black 4 green 1
+black 4 green 1
+black 3 green 1
+black 5 green 1
+black 3 black 1 green 1
+black 3 green 1
+black 3 green 1
+black 4 green 1
+black 4 green 1
+blue 1 black 4 black 1 green 1
+blue 4 black 1 green 1 black 1 green 1
+red 2 blue 1 black 3 red 1 green 1
+red 2 black 1 blue 1 black 2 green 1
+red 1 black 1 red 1 blue 1 black 1 green 1
+red 2 blue 1 red 1 green 1
+blue 4 green 1
+blue 1 red 1 red 1 green 1
+red 1 black 1 red 1 black 1 green 1
+red 5 green 1
+red 3 black 1 green 1
+red 2 black 2 green 1
+red 2 green 1

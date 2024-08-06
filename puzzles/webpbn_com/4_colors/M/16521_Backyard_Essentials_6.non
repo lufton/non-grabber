@@ -1,0 +1,62 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Nov 25, 2011"
+description "Doghouse.. If you don't have a dog, I'd suggest... you get one! lol"
+difficulty 1.25
+height 20
+id 16521
+link "https://webpbn.com/play.cgi?id=16521"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Backyard Essentials #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3
+green 5
+green 6
+green 7
+black 9 green 7
+black 1 black 1 black 1 black 1 black 1 green 7
+black 1 black 1 black 1 black 1 black 1 black 1 green 6
+black 2 black 1 black 1 black 1 black 1 black 1 green 3 black 1
+black 3 black 1 black 1 black 1 black 1 black 1 black 2
+black 14 black 2
+black 15 black 2
+red 2 black 1 red 9 black 1 black 2
+red 2 black 1 red 9 black 1 black 2
+red 2 black 1 red 1 black 7 red 1 black 1 black 2
+red 2 black 1 red 1 black 1 black 1 red 1 black 1 black 2
+red 2 black 1 red 1 black 1 black 1 red 1 black 1 black 2
+red 2 black 1 red 1 black 1 black 1 red 1 black 1 black 2
+red 2 black 1 red 1 black 1 black 1 red 1 black 1 black 3 black 2
+red 2 black 1 red 1 black 1 black 1 red 1 black 1 black 3 black 2
+green 20
+
+columns
+black 1 black 5 red 8 green 1
+black 2 black 4 red 8 green 1
+black 1 black 1 black 11 green 1
+black 2 black 1 black 2 red 8 green 1
+black 1 black 1 black 3 red 2 black 6 green 1
+black 2 black 1 black 2 red 2 black 1 green 1
+black 1 black 1 black 3 red 2 black 1 green 1
+black 2 black 1 black 2 red 2 black 1 green 1
+black 1 black 1 black 3 red 2 black 1 green 1
+black 1 black 1 black 2 red 2 black 1 green 1
+black 1 black 3 red 2 black 6 green 1
+black 1 black 2 red 8 green 1
+black 11 green 1
+green 3 black 2 green 1
+green 5 black 1 black 2 green 1
+green 6 black 2 green 1
+green 7 black 2 green 1
+green 8 green 1
+green 8 black 11 green 1
+green 7 black 12 green 1

@@ -1,0 +1,72 @@
+by "Damian Chmiel (owiekje)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Damian Chmiel"
+date "Apr 28, 2012"
+description "Hi guys, it is my first puzzle, so i'm waiting for your comments. I hope it is solvable and gave you little bit fun! It is reddit logo - i hope it is similar :D"
+difficulty 2.0
+height 35
+id 18465
+link "https://webpbn.com/play.cgi?id=18465"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "the front page of the internet"
+width 20
+
+rows
+0
+0
+2
+2,2,1
+2,3
+1,1
+2
+2
+2
+6
+2,3,3,2
+5,5
+2,2,2,2
+1,2,2,1
+1,1
+1,1,1,1
+1,4,1
+2,2
+3,3
+8
+1,1,1,1
+2,10,2
+2,10,2
+2,1,6,1,2
+2,1,4,1,2
+2,1,2,1,2
+2,1,2,1,2
+1,1,4,1,1
+1,6,1
+10
+1,6,1
+1,4,1
+1,2,1
+2,1,4,1,2
+4,8,4
+
+columns
+0
+1,1
+2,6,2
+8,8,2
+2,2,1
+2,1,14
+1,2,2,1,1
+2,2,1,1,3,3,1
+1,2,1,1,4,5,2
+1,1,1,14
+4,1,1,14
+7,2,1,1,4,5,2
+3,2,2,1,1,3,3,1
+1,1,2,2,1,1
+1,2,1,14
+1,2,2,1
+1,8,8,2
+3,2,6,2
+1,1,1
+0

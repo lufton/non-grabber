@@ -1,0 +1,40 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 23, 2010"
+description "does this work Jota? :D"
+difficulty 1.25
+height 11
+id 9712
+link "https://webpbn.com/play.cgi?id=9712"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Shop #4"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6
+black 1 black 1
+black 2 black 3
+black 1 black 1 black 1
+black 1 black 1
+black 2
+0
+red 1 red 1
+blue 1 red 4 blue 1
+blue 1 red 1 blue 2 red 1 blue 2
+blue 3 black 1 blue 3
+
+columns
+black 1 black 2 blue 3
+black 1 black 1 red 3 blue 1
+black 2 black 1 red 1 blue 2
+black 1 black 1 black 2 red 1 blue 1 black 1
+black 1 black 2 red 3 blue 1
+black 1 black 1 blue 3
+black 1 black 2 blue 2

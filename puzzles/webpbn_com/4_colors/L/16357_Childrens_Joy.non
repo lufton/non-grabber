@@ -1,0 +1,82 @@
+by "David R. Felton (drfelton)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David R. Felton"
+date "Nov 13, 2011"
+description "Santa's hat being representative of Christmas; a joyous time everyone, especially kids."
+difficulty 4.5
+height 30
+id 16357
+link "https://webpbn.com/play.cgi?id=16357"
+note "published,definitely non-unique,may require much guessing"
+quality 1.75
+title "Children's Joy"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 2 blue 1
+black 4 blue 2
+blue 1 black 6 blue 2
+blue 2 black 6 blue 1 blue 1
+blue 2 black 6 blue 1
+blue 1 black 4 blue 2
+blue 1 black 2 blue 1
+red 2
+red 4
+blue 1 blue 1 red 4 blue 2
+blue 2 blue 1 red 6 blue 1
+blue 2 red 6 blue 2 blue 1
+blue 1 blue 1 red 8 blue 3
+blue 2 red 8 blue 1
+red 10 blue 1
+red 10 blue 2
+red 12 blue 1
+red 12 blue 2
+blue 1 red 14 blue 1
+blue 1 red 14
+blue 2 red 16
+blue 2 red 16
+blue 1 red 18
+red 18
+red 20
+red 20
+black 24
+black 26
+black 24
+
+columns
+0
+0
+blue 2 blue 3 black 1
+blue 2 blue 4 black 3
+blue 3 blue 2 black 3
+blue 3 red 2 black 3
+blue 1 red 4 black 3
+blue 2 red 6 black 3
+blue 1 red 8 black 3
+red 10 black 3
+blue 2 red 12 black 3
+red 14 black 3
+black 3 red 16 black 3
+black 5 red 18 black 3
+black 7 red 19 black 3
+black 7 red 19 black 3
+black 5 red 18 black 3
+black 3 red 16 black 3
+red 14 black 3
+red 12 black 3
+blue 2 red 10 black 3
+blue 2 blue 1 red 8 black 3
+blue 3 blue 2 red 6 black 3
+blue 1 red 4 black 3
+blue 3 red 2 black 3
+blue 2 blue 2 black 3
+blue 1 black 3
+blue 3 black 1
+blue 3
+blue 3

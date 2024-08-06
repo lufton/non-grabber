@@ -1,0 +1,197 @@
+by "peter beswick (peterjb44)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by peter beswick"
+date "Jan  9, 2012"
+description "the white should be yellow in the centre of the badge"
+difficulty 3.25
+height 99
+id 17065
+link "https://webpbn.com/play.cgi?id=17065"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Guess the Football team (soccer)"
+width 77
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 77
+black 77
+black 2 black 2
+black 2 black 2
+black 2 red 69 black 2
+black 2 red 69 black 2
+black 2 red 69 black 2
+black 2 red 22 red 5 red 10 red 10 red 15 black 2
+black 2 red 21 red 4 red 8 red 8 red 14 black 2
+black 2 red 20 red 1 red 2 red 2 red 11 black 2
+black 2 red 19 red 1 red 2 red 2 red 11 black 2
+black 2 red 18 red 2 red 2 red 2 red 11 black 2
+black 2 red 17 red 2 red 2 red 2 red 11 black 2
+black 2 red 16 red 2 red 2 red 2 red 11 black 2
+black 2 red 15 red 3 red 2 red 2 red 11 black 2
+black 2 red 14 red 3 red 2 red 2 red 11 black 2
+black 2 red 8 red 3 red 4 red 2 red 2 red 11 black 2
+black 2 red 9 red 13 red 2 red 2 red 11 black 2
+black 2 red 9 red 15 red 10 red 10 red 15 black 2
+black 2 red 9 red 12 red 10 red 10 red 15 black 2
+black 2 red 10 red 10 black 2
+black 2 red 10 red 10 black 2
+black 2 red 11 red 10 black 2
+black 2 black 2
+black 2 black 2
+black 2 red 69 black 2
+black 2 red 69 black 2
+black 2 red 69 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 4 red 4 black 2
+black 2 red 7 red 6 black 2
+black 2 red 20 black 2
+black 2 red 2 red 2 red 18 red 1 red 1 red 1 black 2
+black 2 red 8 red 17 red 3 red 3 red 3 black 2
+black 2 red 9 red 3 red 7 red 3 red 5 red 5 red 5 black 2
+black 2 red 2 red 10 red 3 red 5 red 3 red 3 red 3 red 3 black 2
+black 2 red 4 red 11 red 3 red 3 red 4 red 3 red 3 red 3 black 2
+black 2 red 17 red 13 red 3 red 3 red 3 black 2
+black 2 red 17 red 12 red 3 red 3 red 3 black 2
+black 2 red 18 red 12 red 3 red 3 red 3 black 2
+black 2 red 7 red 10 red 12 red 3 red 3 red 3 black 2
+black 2 red 4 red 8 red 13 red 15 black 2
+black 2 red 2 red 8 red 4 red 4 red 15 black 2
+black 2 red 1 red 8 red 5 red 6 red 15 black 2
+black 2 red 9 red 7 red 8 red 3 black 2
+black 2 red 10 red 17 red 3 black 2
+black 2 red 7 red 16 red 5 black 2
+black 2 red 5 red 14 red 9 black 2
+black 2 red 4 red 11 red 14 black 2
+black 2 red 5 red 27 black 2
+black 2 red 5 red 27 black 2
+black 2 red 6 red 29 black 2
+black 2 red 7 red 18 red 8 black 2
+black 2 red 8 red 20 red 6 black 2
+black 2 red 30 red 5 black 2
+black 2 red 37 black 2
+black 2 red 38 black 2
+black 2 red 38 black 2
+black 2 red 24 red 11 black 2
+black 2 red 23 red 6 black 2
+black 2 red 22 red 3 red 3 black 2
+black 2 red 22 red 4 red 3 black 2
+black 2 red 27 red 3 black 2
+black 2 red 26 red 3 black 2
+black 2 red 24 red 3 black 2
+black 2 red 25 red 3 black 2
+black 2 red 27 red 3 black 2
+black 2 red 27 red 3 black 2
+black 2 red 12 red 14 red 3 black 2
+black 2 red 10 red 14 red 3 black 2
+black 2 red 7 red 13 red 3 black 2
+black 2 red 9 red 12 red 3 black 2
+black 2 red 10 red 10 red 3 black 2
+black 2 red 11 red 9 red 3 black 2
+black 2 red 13 red 8 red 3 black 2
+black 2 red 13 red 7 red 3 black 2
+black 2 red 14 red 6 red 3 black 2
+black 2 red 14 red 5 red 3 black 2
+black 4 red 14 red 4 red 3 black 4
+black 5 red 13 red 3 red 3 black 5
+black 5 red 11 red 3 red 3 black 5
+black 5 red 10 red 2 red 3 black 5
+black 5 red 7 red 1 red 3 black 5
+black 5 red 8 red 2 black 5
+black 5 red 7 black 5
+black 5 red 7 black 5
+black 5 red 8 black 5
+black 5 red 9 black 5
+black 5 red 11 black 5
+black 5 red 11 black 5
+black 5 red 10 black 5
+black 5 red 7 black 5
+black 5 black 5
+black 5 black 5
+black 5 black 5
+black 5 black 5
+
+columns
+black 82
+black 83
+black 2 black 2
+black 2 black 3
+black 2 red 19 red 3 black 2
+black 2 red 19 red 3 black 3
+black 2 red 19 red 3 black 2
+black 2 red 19 red 3 black 3
+black 2 red 19 red 3 red 2 black 2
+black 2 red 19 red 3 red 3 black 3
+black 2 red 19 red 3 red 3 black 2
+black 2 red 19 red 3 red 5 black 3
+black 2 red 12 red 6 red 3 red 5 black 2
+black 2 red 12 red 3 red 3 red 7 black 3
+black 2 red 13 red 1 red 3 red 6 black 2
+black 2 red 14 red 3 red 7 black 3
+black 2 red 14 red 3 red 8 black 2
+black 2 red 12 red 2 red 3 red 9 black 3
+black 2 red 11 red 2 red 3 red 8 red 1 black 2
+black 2 red 10 red 2 red 3 red 7 red 2 black 3
+black 2 red 9 red 3 red 3 red 7 red 3 black 2
+black 2 red 8 red 3 red 3 red 8 red 4 black 3
+black 2 red 7 red 3 red 3 red 16 red 9 black 2
+black 2 red 6 red 3 red 3 red 32 black 3
+black 2 red 5 red 4 red 3 red 31 black 2
+black 2 red 4 red 6 red 3 red 31 black 3
+black 2 red 3 red 9 red 3 red 30 black 2
+black 2 red 16 red 3 red 7 red 20 black 3
+black 2 red 5 red 2 red 3 red 1 red 5 red 18 black 2
+black 2 red 5 red 2 red 3 red 2 red 3 red 18 red 5 black 3
+black 2 red 5 red 2 red 3 red 3 red 1 red 16 red 10 black 2
+black 2 red 4 red 2 red 3 red 6 red 4 red 17 red 13 red 3 black 3
+black 2 red 3 red 3 red 8 red 7 red 33 red 5 black 2
+black 2 red 3 red 3 red 10 red 9 red 41 black 3
+black 2 red 4 red 2 red 3 red 6 red 56 black 2
+black 2 red 5 red 2 red 3 red 7 red 55 black 2
+black 2 red 5 red 2 red 3 red 7 red 5 red 49 black 1
+black 2 red 5 red 2 red 3 red 12 red 48 black 1
+black 2 red 16 red 3 red 11 red 37 red 9
+black 2 red 16 red 3 red 12 red 24 red 11 red 6 black 1
+black 2 red 5 red 2 red 3 red 7 red 5 red 27 red 8 red 5 black 1
+black 2 red 5 red 2 red 3 red 7 red 34 red 6 red 2 black 2
+black 2 red 5 red 2 red 3 red 6 red 36 red 4 black 2
+black 2 red 4 red 2 red 3 red 19 red 24 black 3
+black 2 red 3 red 3 red 18 red 11 red 12 black 2
+black 2 red 3 red 3 red 6 red 3 red 4 red 10 red 13 black 3
+black 2 red 4 red 2 red 3 red 3 red 3 red 10 red 15 black 2
+black 2 red 5 red 2 red 3 red 1 red 1 red 10 red 17 black 3
+black 2 red 5 red 2 red 3 red 1 red 10 red 4 red 13 black 2
+black 2 red 5 red 2 red 3 red 11 red 11 red 3 red 14 black 3
+black 2 red 16 red 3 red 12 red 5 red 6 red 14 black 2
+black 2 red 16 red 3 red 11 red 5 red 5 red 15 black 3
+black 2 red 5 red 2 red 3 red 1 red 3 red 5 red 4 red 15 black 2
+black 2 red 5 red 2 red 3 red 3 red 6 red 5 red 4 red 3 black 3
+black 2 red 5 red 2 red 3 red 1 red 3 red 7 red 5 black 2
+black 2 red 4 red 2 red 3 red 51 black 3
+black 2 red 3 red 3 red 52 black 2
+black 2 red 3 red 3 red 50 black 3
+black 2 red 4 red 2 red 3 red 1 red 3 red 13 black 2
+black 2 red 5 red 2 red 3 red 3 red 7 red 3 black 3
+black 2 red 5 red 2 red 3 red 1 red 3 red 4 black 2
+black 2 red 5 red 2 red 3 red 11 red 2 black 3
+black 2 red 16 red 3 red 12 black 2
+black 2 red 19 red 3 red 11 black 3
+black 2 red 19 red 3 red 1 black 2
+black 2 red 19 red 3 black 3
+black 2 red 19 red 3 black 2
+black 2 red 19 red 3 black 3
+black 2 red 19 red 3 black 2
+black 2 red 19 red 3 black 3
+black 2 red 19 red 3 black 2
+black 2 red 19 red 3 black 3
+black 2 red 19 red 3 black 2
+black 2 black 3
+black 2 black 2
+black 83
+black 82

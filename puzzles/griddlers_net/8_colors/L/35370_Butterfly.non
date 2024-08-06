@@ -1,0 +1,77 @@
+by "tomtal"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/3/06"
+height 23
+id 35370
+link "https://www.griddlers.net/nonogram/-/g/35370"
+medium_time "0:16:58"
+points 10368
+popularity 65.39
+title "Butterfly"
+width 29
+
+color a ffffff
+color b 0066cc
+color c 330033
+color d cc00ff
+color e 9999ff
+color f 6666ff
+color g ffff99
+color h ff00ff
+
+rows
+e 4
+e 1 g 4 e 2
+e 1 g 7 e 2
+e 1 g 1 h 4 g 4 e 1
+c 3 e 1 g 1 h 1 e 4 h 2 g 3 e 1
+c 5 e 1 g 1 h 1 e 6 h 2 g 1 e 1
+c 2 c 2 g 1 e 8 g 1 e 1
+c 2 c 1 e 1 c 2 e 9 f 4
+c 2 c 2 e 1 c 2 e 8 f 7
+c 2 c 2 e 1 c 2 e 7 f 6 g 1 f 1
+b 4 c 3 e 6 f 7 g 1 h 1 g 1 f 1
+b 1 c 2 b 3 c 1 e 6 f 7 g 1 h 3 g 1
+b 2 c 1 b 3 e 4 f 10 g 1 h 1 g 1 f 1
+b 8 e 4 f 5 f 2 g 1 f 2
+b 10 e 3 f 4 f 3
+b 4 b 4 d 1 e 1 f 3 f 1
+b 4 d 2 b 1 f 1 b 3 f 1
+b 4 d 2 b 2 d 2 b 4 d 1
+d 5 b 5 d 2 b 3 d 2
+d 3 b 7 d 2 b 3 d 3
+d 1 b 5 d 3 b 3 d 4
+b 3 d 1 b 4 d 2
+0
+
+columns
+b 2
+b 4
+b 1 c 1 b 3
+c 2 b 1 c 2 b 3
+c 3 b 6
+c 2 b 6
+c 2 b 4
+c 2 b 2
+c 2 c 2 b 4
+c 2 c 4 b 4 d 2
+c 2 e 3 c 2 b 4 d 3
+e 2 c 5 e 4 b 3 d 2 b 2
+e 2 g 3 c 3 e 5 d 4 b 3
+e 1 g 2 h 2 e 10 d 3 b 3
+e 1 g 2 h 1 e 10 f 2 b 5
+e 1 g 2 h 1 e 8 f 5 b 4
+e 1 g 2 h 1 e 8 f 4 b 2
+e 1 g 2 h 1 e 7 f 4 b 2
+e 1 g 2 h 1 e 5 f 4 d 1 b 2 d 1
+e 1 g 2 h 1 e 5 f 4 d 5
+e 1 g 2 h 1 e 3 f 4 b 2 d 3 b 1
+e 1 g 2 h 1 g 1 e 1 f 5 b 6
+e 1 g 2 e 1 f 6 b 6
+e 2 f 6 b 5
+f 4 g 1 f 2 d 4
+f 3 g 1 h 1 g 1 f 1 d 3
+f 1 g 1 h 3 g 1 f 1 d 2
+f 2 g 1 h 1 g 1 f 4 d 2
+f 1 g 1 f 3 d 1

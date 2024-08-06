@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jun  2, 2016"
+description "The origin of the phrase in the title comes from the solution to the nine dot puzzle. The challenge was to connect the nine dots using four straight lines without lifting your pencil. If you stayed within the limits of the percieved box you could not get the job done. Corporate trainers seized on this as an exercise in creative problem solving."
+difficulty 1.75
+height 20
+id 28088
+link "https://webpbn.com/play.cgi?id=28088"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Thinking outside the box"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 1
+red 1
+red 1
+black 1 red 4 black 1 red 4 black 1 red 4
+red 2 red 2
+red 3 red 2
+red 1 red 2 red 2
+red 1 red 2 red 2
+black 1 red 1 black 1 red 1 black 1
+red 1 red 2 red 2
+red 1 red 3
+red 1 red 3
+red 1 red 2 red 2
+black 1 red 1 black 1 red 1 black 1
+red 1 red 2 red 1
+red 1 red 2
+red 3
+red 2
+red 1
+
+columns
+red 4 black 1 red 4 black 1 red 4 black 1 red 5
+red 3 red 2
+red 1 red 2 red 2
+red 1 red 2 red 2
+red 1 red 2 red 2
+black 1 black 1 red 1 red 1 black 1
+red 1 red 4
+red 1 red 2
+red 1 red 4
+red 1 red 2 red 2
+black 1 red 1 black 1 black 1 red 1
+red 1 red 2
+red 1 red 2
+red 3
+red 2

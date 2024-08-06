@@ -1,0 +1,62 @@
+by "Bryan (Cyclone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bryan"
+date "Apr 29, 2014"
+description "The word of the day can be one of at least two here! I didn't want the detail to all be identical, so I tried to vary it a bit. =)"
+difficulty 1.5
+height 20
+id 24345
+link "https://webpbn.com/play.cgi?id=24345"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "C is For..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 4 black 1 black 1 black 1
+green 2 green 2 black 2 black 1 black 1
+green 2 green 1 black 1 black 1 black 1
+green 1 black 1 black 2 black 2
+green 1 black 2 black 1 black 1
+green 1 black 1 black 1 black 1
+green 2 green 1 black 2 black 1 black 1
+green 2 green 2 black 1 black 2 black 1
+green 4 black 1 black 1 black 2
+black 2 black 2 black 1
+0
+black 13
+black 1 black 1 black 2
+black 1 black 1 black 1
+black 1 red 1 red 1 red 1 black 1 black 1
+black 1 red 9 black 1 black 2
+black 1 red 9 black 3
+black 2 red 8 black 2
+black 2 red 6 black 2
+black 8
+
+columns
+green 5
+green 2 green 2
+green 2 green 2
+green 1 green 1
+green 1 green 1
+green 2 green 2
+green 2 green 2 black 7
+black 1 red 2 black 2
+black 1 black 1 red 4 black 2
+black 4 black 4 black 1 red 4 black 1
+black 2 black 3 black 1 red 4 black 1
+black 1 black 1 red 5 black 1
+black 4 black 3 black 1 red 4 black 1
+black 5 black 1 red 4 black 1
+black 1 red 4 black 1
+black 4 black 2 black 1 red 4 black 2
+black 6 black 8
+black 1 black 2
+black 2 black 2
+black 4

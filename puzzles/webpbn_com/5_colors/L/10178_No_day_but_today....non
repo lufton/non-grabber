@@ -1,0 +1,81 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Sep  3, 2010"
+description "Rent: The story of a group of Bohemian's trying to survive on poverty, illness, and the AIDS epidemic.. One of Broadway's longest running shows, went mainscreen in 2006 starring Rosario Dawson, Taye Diggs, Jesse L. Martin, Adam Pascal, and several other amazing artists."
+difficulty 1.5
+height 18
+id 10178
+link "https://webpbn.com/play.cgi?id=10178"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "No day but today..."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 10 blue 10 green 10 red 10
+black 10 blue 10 green 10 red 10
+black 1 black 1 black 2 blue 1 blue 1 blue 1 green 1 green 4 green 1 red 1 red 1
+black 1 black 1 black 1 blue 1 blue 1 blue 1 green 2 green 3 green 1 red 1 red 1
+black 1 black 4 black 1 blue 1 blue 7 green 1 green 1 green 2 green 1 red 4 red 4
+black 1 black 4 black 1 blue 1 blue 7 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 4 black 1 blue 1 blue 7 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 4 black 1 blue 1 blue 7 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 1 black 2 blue 1 blue 4 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 1 black 2 blue 1 blue 4 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 2 black 3 blue 1 blue 7 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 2 black 3 blue 1 blue 7 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 3 black 2 blue 1 blue 7 green 1 green 1 green 1 green 1 red 4 red 4
+black 1 black 3 black 2 blue 1 blue 7 green 1 green 2 green 1 green 1 red 4 red 4
+black 1 black 4 black 1 blue 1 blue 1 blue 1 green 1 green 3 green 2 red 4 red 4
+black 1 black 4 black 1 blue 1 blue 1 blue 1 green 1 green 4 green 1 red 4 red 4
+black 10 blue 10 green 10 red 10
+black 10 blue 10 green 10 red 10
+
+columns
+black 18
+black 2 black 2
+black 2 black 2
+black 18
+black 2 black 4 black 8
+black 2 black 4 black 6
+black 2 black 4 black 4
+black 2 black 2 black 2
+black 3 black 6 black 2
+black 18
+blue 18
+blue 2 blue 2
+blue 2 blue 2
+blue 8 blue 8
+blue 2 blue 4 blue 4 blue 2
+blue 2 blue 4 blue 4 blue 2
+blue 2 blue 10 blue 2
+blue 2 blue 10 blue 2
+blue 2 blue 10 blue 2
+blue 18
+green 18
+green 2 green 1 green 2
+green 2 green 1 green 2
+green 3 green 13
+green 4 green 5
+green 5 green 4
+green 13 green 3
+green 2 green 1 green 2
+green 2 green 1 green 2
+green 18
+red 18
+red 2 red 14
+red 2 red 14
+red 2 red 14
+red 2 red 2
+red 2 red 2
+red 2 red 14
+red 2 red 14
+red 2 red 14
+red 18

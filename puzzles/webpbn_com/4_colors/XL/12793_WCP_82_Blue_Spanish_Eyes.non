@@ -1,0 +1,102 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kai-Uwe Zickerick"
+date "Apr 22, 2011"
+description "No, no, not the Al-Martino-Song. It's Kates Hero, the Master of Moustache-Arts: Salvador Dali in his younger days"
+difficulty 2.75
+height 40
+id 12793
+link "https://webpbn.com/play.cgi?id=12793"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "WCP #82 Blue Spanish Eyes"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 12 green 8
+black 10 green 7
+black 8 green 7
+black 6 green 7
+black 3 black 6 green 5
+black 8 black 7 green 4
+black 11 black 7 green 4
+black 6 black 6 green 4
+black 1 black 6 black 5 green 5
+black 2 black 5 black 5 black 4 green 6
+black 2 black 2 black 5 black 4 black 3 green 7
+black 2 black 1 blue 2 black 1 black 2 black 3 black 4 green 6
+black 2 black 2 blue 2 black 1 black 3 black 1 black 2 green 9
+black 2 black 2 black 1 black 1 black 7 green 10
+black 2 black 6 black 9 green 10
+black 2 black 10 green 9
+black 2 black 1 black 3 green 9
+black 2 black 2 black 5 black 2 green 9
+black 2 black 6 black 2 black 1 green 10
+black 2 black 3 blue 2 black 1 black 3 green 10
+black 2 black 4 blue 2 black 1 black 1 green 11
+black 2 black 2 black 3 black 2 green 11
+black 2 black 2 black 4 green 12
+black 2 black 2 black 1 green 12
+black 2 black 2 black 1 green 12
+black 2 black 2 black 2 black 1 green 12
+black 2 black 3 black 2 black 1 green 13
+black 2 black 3 black 2 black 1 green 13
+black 2 black 2 black 3 black 2 black 1 green 14
+black 2 black 7 black 3 black 1 green 12 black 2
+black 3 black 2 black 6 black 1 green 10 black 3 green 2
+black 3 black 3 black 1 green 9 black 3 green 3
+black 3 black 1 green 9 black 2 green 5
+black 4 black 1 green 8 black 3 green 6
+black 7 black 1 green 7 black 4 green 7
+black 8 black 1 green 3 black 6 green 9
+black 8 black 1 black 7 green 11
+black 4 black 12 green 13
+black 7 black 8 green 15
+black 6 black 4 green 17
+
+columns
+black 6
+black 15
+black 2 black 11
+black 1 black 5
+black 2 black 1 black 1 black 4
+black 2 black 2 black 2 black 3
+black 2 black 1 black 1 black 2 black 3 black 1
+black 3 black 2 blue 2 black 1 black 3 black 2
+black 3 black 2 blue 2 black 2 black 3 black 2
+black 3 black 4 black 1 black 3 black 3
+black 3 black 1 black 1 black 3 black 3 black 2
+black 4 black 5 black 5 black 3 black 2
+black 3 black 2 black 3 black 2 black 3 black 2
+black 4 black 1 black 2 black 2 black 3 black 2
+black 5 black 3 black 3 black 1
+black 6 black 3 black 3
+black 4 black 3 black 3
+black 2 black 2 black 3
+black 3 black 3
+black 14 black 3
+black 1 black 14 black 4
+black 1 black 2 black 3 black 2 black 3
+black 1 black 2 black 2 black 2 black 1 green 2 black 4
+black 2 black 3 black 2 blue 2 black 1 black 1 green 3 black 3 green 1
+black 2 black 3 black 2 blue 2 black 2 black 2 green 4 black 3 green 1
+black 3 black 3 black 1 black 2 black 1 black 2 green 5 black 3 green 2
+black 3 black 3 black 2 black 1 black 2 green 7 black 3 green 2
+black 4 black 3 black 2 black 5 green 9 black 2 green 3
+black 4 black 4 black 3 green 13 black 2 green 3
+black 7 black 8 green 14 black 2 green 4
+black 13 green 2 black 3 green 16 black 2 green 4
+black 12 green 21 black 2 green 5
+green 1 black 11 green 21 black 2 green 5
+green 4 black 6 green 1 black 1 green 20 black 2 green 6
+green 4 black 5 green 22 black 2 green 7
+green 5 black 3 green 22 black 2 green 8
+green 30 black 2 green 8
+green 30 black 1 green 9
+green 29 black 1 green 10
+green 29 black 1 green 10

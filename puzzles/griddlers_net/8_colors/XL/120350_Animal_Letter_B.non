@@ -1,0 +1,115 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/4/12"
+height 50
+id 120350
+link "https://www.griddlers.net/nonogram/-/g/120350"
+medium_time "0:16:36"
+points 37178
+popularity 76.19
+title "Animal Letter B"
+width 40
+
+color a ffffff
+color b 000000
+color c fde502
+color d f1b702
+color e 02fe02
+color f e78602
+color g c88746
+color h b96312
+
+rows
+b 3 b 2
+b 1 c 3 b 1 b 1 c 2 b 2
+b 1 c 5 b 1 b 1 c 5 b 1
+b 7 c 6 b 12 c 6 b 1
+b 1 c 30 b 1
+b 1 c 30 b 1
+b 1 c 31 b 1
+b 1 c 32 b 1
+b 1 c 33 b 1
+b 1 c 33 b 1
+b 1 c 10 b 3 c 9 b 3 c 1 d 1 c 7 b 1
+b 1 c 5 d 4 b 1 e 2 b 2 d 2 c 5 b 1 e 2 b 2 d 8 b 1
+b 1 d 9 b 1 e 1 b 1 b 1 d 7 b 1 e 1 b 1 b 1 d 8 b 1
+b 1 d 9 b 1 e 1 b 3 d 7 b 1 e 1 b 3 d 9 b 1
+b 1 d 9 b 1 e 2 b 2 d 1 b 4 d 2 b 1 e 2 b 2 d 9 b 1
+b 1 d 10 b 5 g 4 b 6 d 10 b 1
+b 1 d 13 b 1 g 7 b 1 d 13 b 1
+b 1 d 12 b 1 g 8 b 1 d 13 b 1
+b 1 d 12 b 1 g 2 b 5 g 2 b 1 d 10 f 1 b 1
+b 1 f 3 d 6 f 3 b 1 g 1 b 1 f 5 b 1 g 1 b 1 d 2 f 3 d 3 f 3 b 1
+b 1 f 12 b 1 g 1 b 1 f 5 b 1 g 1 b 1 f 11 b 1
+b 1 f 12 b 1 g 1 b 1 f 5 b 1 g 1 b 1 f 10 b 1
+b 1 f 12 b 1 g 2 b 1 f 3 b 1 g 2 b 1 f 10 b 1
+b 1 f 13 b 1 g 2 b 3 g 2 b 1 f 10 b 1
+b 1 f 14 b 2 g 3 b 2 f 10 b 1
+b 1 f 16 b 3 f 11 b 1
+b 1 f 31 b 1
+b 1 f 32 b 1
+b 1 f 33 b 1
+b 1 h 1 f 3 h 2 f 8 b 7 h 2 f 5 h 1 f 5 b 1
+b 1 h 6 f 4 h 3 b 1 b 1 h 13 b 1
+b 1 h 12 b 1 b 1 h 13 b 1
+b 1 h 11 b 1 b 1 h 13 b 1
+b 1 h 11 b 1 b 1 h 13 b 1
+b 1 h 11 b 1 b 1 h 13 b 1
+b 1 h 11 b 1 b 1 h 14 b 1
+b 1 h 11 b 1 b 1 h 14 b 1
+b 1 h 11 b 1 b 1 h 14 b 1
+b 1 h 11 b 1 b 1 h 14 b 1
+b 1 h 12 b 1 b 1 h 15 b 1
+b 1 h 13 b 1 b 1 h 16 b 1
+b 1 h 14 b 7 h 16 b 1
+b 1 h 37 b 1
+b 1 h 37 b 1
+b 1 h 36 b 1
+b 1 h 36 b 1
+b 1 h 35 b 1
+b 1 h 34 b 1
+b 1 h 33 b 1
+b 34
+
+columns
+b 47
+b 1 c 8 d 7 f 10 h 20 b 1
+b 1 c 8 d 7 f 11 h 19 b 1
+b 1 c 8 d 7 f 11 h 19 b 1
+b 1 c 8 d 8 f 10 h 19 b 1
+b 1 c 8 d 8 f 9 h 20 b 1
+b 2 c 7 d 9 f 9 h 20 b 1
+b 1 c 9 d 9 f 11 h 18 b 1
+b 1 c 10 d 9 f 11 h 18 b 1
+b 1 c 10 d 9 f 11 h 18 b 1
+b 1 c 10 b 4 d 4 f 12 h 18 b 1
+b 1 c 8 b 1 e 4 b 1 d 3 f 11 h 19 b 1
+b 1 c 7 b 1 e 1 b 2 e 1 b 1 d 3 f 11 h 2 b 7 h 10 b 1
+b 1 c 6 b 2 b 3 d 1 b 6 f 7 h 1 b 1 b 1 h 9 b 1
+b 1 c 7 b 6 g 6 b 1 f 6 b 1 b 1 h 8 b 1
+b 1 c 7 d 4 b 1 g 3 b 3 g 2 b 1 f 4 b 1 b 1 h 7 b 1
+b 1 c 7 d 3 b 1 g 3 b 1 f 3 b 1 g 1 b 1 f 4 b 1 b 1 h 7 b 1
+b 1 c 8 d 2 b 1 g 3 b 1 f 4 b 1 g 1 b 1 f 3 b 1 b 1 h 7 b 1
+b 1 c 8 d 2 b 1 g 3 b 1 f 4 b 1 g 1 b 1 f 3 b 1 b 1 h 7 b 1
+b 1 c 8 d 2 b 1 g 3 b 1 f 4 b 1 g 1 b 1 f 3 b 1 b 1 h 7 b 1
+b 1 c 8 d 3 b 1 g 2 b 1 f 3 b 1 g 1 b 1 f 4 b 1 b 1 h 7 b 1
+b 1 c 8 d 3 b 1 g 3 b 3 g 2 b 1 f 4 b 1 b 1 h 7 b 1
+b 1 c 7 b 7 g 5 b 1 f 5 h 1 b 1 b 1 h 8 b 1
+b 1 c 6 b 1 e 4 b 1 d 2 b 5 f 6 h 2 b 1 b 1 h 9 b 1
+b 1 c 6 b 1 e 1 b 2 e 1 b 1 d 4 f 10 h 2 b 7 h 10 b 1
+b 1 c 7 b 2 b 3 d 4 f 10 h 19 b 1
+b 1 c 9 b 4 d 4 f 11 h 19 b 1
+b 1 c 9 d 9 f 11 h 19 b 1
+b 1 c 10 d 8 f 11 h 19 b 1
+b 1 c 9 d 9 f 9 h 20 b 1
+b 1 c 9 d 9 f 10 h 19 b 1
+b 4 c 5 d 9 f 5 b 1 f 4 h 19 b 1
+b 1 c 4 d 8 f 5 b 1 b 1 f 3 h 19 b 1
+b 1 c 3 d 8 f 4 b 1 b 1 f 2 h 19 b 1
+b 2 c 1 d 7 f 3 b 2 b 1 f 1 h 18 b 1
+b 3 d 5 b 3 b 1 h 17 b 1
+b 5 b 1 h 15 b 1
+b 1 h 12 b 2
+b 3 h 6 b 3
+b 6

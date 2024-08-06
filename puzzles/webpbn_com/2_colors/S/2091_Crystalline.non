@@ -1,0 +1,47 @@
+by "Timo Frenay (timo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Timo Frenay"
+date "Jan  4, 2008"
+description "A snowflake."
+difficulty 1.25
+height 15
+id 2091
+link "https://webpbn.com/play.cgi?id=2091"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Crystalline"
+width 15
+
+rows
+1
+3
+1,1,1,1,1
+1,1,1,1
+1,2,1,2,1
+1,3,1
+1,1,1,1,1,1,1
+3,3,3,3
+1,1,1,1,1,1,1
+1,3,1
+1,2,1,2,1
+1,1,1,1
+1,1,1,1,1
+3
+1
+
+columns
+1
+3
+1,1,1,1,1
+1,1,1,1
+1,2,1,2,1
+1,3,1
+1,1,1,1,1,1,1
+3,3,3,3
+1,1,1,1,1,1,1
+1,3,1
+1,2,1,2,1
+1,1,1,1
+1,1,1,1,1
+3
+1

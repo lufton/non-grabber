@@ -1,0 +1,42 @@
+by "harley (moyo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by harley"
+date "Mar 16, 2011"
+description "smiley face with tongue out"
+difficulty 1.25
+height 10
+id 12775
+link "https://webpbn.com/play.cgi?id=12775"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "happy"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 8
+black 1 red 2 black 2 red 2 black 1
+red 2 red 2
+red 2 red 2
+0
+red 2 red 2
+0
+red 3 green 2 red 3
+red 1 green 3 red 3
+green 2 red 4
+
+columns
+red 1
+black 2 red 2
+black 1 red 3 red 1 red 1 green 2
+black 1 red 3 red 1 green 3
+black 2 green 2 red 1
+black 2 red 1
+black 1 red 3 red 1 red 2
+black 1 red 3 red 1 red 3
+black 2 red 2
+red 1

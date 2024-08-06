@@ -1,0 +1,94 @@
+by "keepyourfork"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/9/14"
+height 31
+id 141508
+link "https://www.griddlers.net/nonogram/-/g/141508"
+medium_time "0:40:33"
+points 43415
+popularity 84.5
+title "Legend of Zelda"
+width 38
+
+color a ffffff
+color b 000000
+color c 53c900
+color d 106300
+color e 825200
+color f a9bab8
+color g fcbd02
+color h fcce92
+
+rows
+b 7
+b 2 c 6 b 3
+b 2 d 1 c 10 b 1
+e 10 d 1 c 3 b 2
+e 1 g 10 e 1 d 4 b 2
+e 1 g 12 e 1 d 4 b 1
+e 1 g 14 e 1 d 3 b 2
+e 1 g 6 e 1 g 5 e 2 g 2 e 1 d 3 b 1 b 4
+e 3 b 2 e 1 g 3 b 2 e 1 h 2 e 1 g 1 e 1 d 3 b 1 b 2 f 1 b 1
+b 1 h 1 b 1 g 2 b 1 e 2 h 3 e 1 g 1 e 1 d 3 b 1 b 2 f 1 b 1 f 1 b 1
+b 2 e 3 b 4 h 2 e 1 g 1 e 1 b 2 d 1 b 1 b 2 f 1 b 1 f 1 b 1
+b 8 h 1 b 1 f 1 b 2 f 1 e 1 h 1 e 1 g 1 e 1 h 1 b 1 d 1 b 1 b 2 f 1 f 1 b 1
+b 1 f 3 e 1 h 3 b 2 h 2 b 1 e 1 h 1 b 1 d 2 b 1 b 2 b 2 f 1 b 1 f 1 b 1
+b 1 f 1 e 3 b 1 h 1 e 1 h 8 b 1 h 1 e 1 d 2 b 1 b 4 b 2 f 1 b 1 f 1 b 1
+b 1 e 4 b 1 h 9 b 1 e 1 g 1 e 1 d 1 b 1 b 2 f 1 b 3 f 1 b 1 f 1 b 1
+b 1 e 5 b 1 h 7 b 1 d 4 b 5 f 1 b 3 f 2 b 1
+b 1 e 4 b 1 g 1 b 8 c 3 b 1 c 4 b 3 e 1 b 3
+b 1 e 2 f 2 b 1 f 1 d 1 c 2 b 1 d 1 c 1 d 1 b 1 c 1 d 1 b 1 d 3 c 3 b 1 g 2 b 4
+b 1 b 2 f 1 d 1 f 1 d 3 b 1 c 1 b 1 c 2 d 1 b 4 d 1 c 3 b 1 e 1 b 5
+b 1 b 1 h 1 c 1 b 3 d 1 b 1 c 3 d 1 b 2 b 2 d 2 b 4 f 2 b 1
+b 1 f 1 b 1 h 1 f 1 b 1 f 1 e 2 b 1 d 2 c 4 b 1 b 4 h 2 b 5
+b 1 f 1 e 1 b 1 f 2 h 1 f 2 e 2 b 1 h 1 g 3 h 3 b 1 b 7
+b 1 f 1 e 7 f 1 b 1 e 1 g 3 e 3 b 1 b 1 f 1 b 2
+b 1 e 7 b 1 d 1 c 6 d 1 b 1 b 2
+b 1 f 1 e 5 f 1 b 1 d 9 b 1
+b 1 f 1 e 3 f 1 b 13
+b 1 f 1 f 1 b 3 f 2 b 1 b 3 f 1 b 1
+b 1 f 1 b 1 f 2 b 1 f 1 b 1 b 2 f 2 b 1
+b 1 h 2 e 1 b 2 b 1 e 2 h 1 b 1
+b 1 e 4 b 1 b 1 e 4 b 1
+b 5 b 5
+
+columns
+b 11
+e 1 b 1 f 2 f 2 b 2
+e 1 g 1 e 1 b 1 f 1 e 5 b 3 e 1 f 1 b 1
+e 1 g 2 e 1 b 1 f 1 e 5 b 1 h 2 b 1 e 2 f 1 b 1
+e 1 g 3 e 1 b 1 e 4 f 2 f 2 e 3 f 1 b 1
+e 1 g 4 b 4 e 1 b 1 e 3 f 1 f 1 e 4 f 1 b 1 b 2
+b 1 e 1 g 4 b 1 h 1 b 2 h 1 b 1 e 1 b 2 d 1 c 1 b 1 h 1 e 4 f 1 b 1 e 1 b 1
+b 1 e 1 g 4 e 1 b 1 e 1 b 1 h 1 e 1 h 1 b 1 g 1 f 2 f 2 e 4 f 1 b 1 h 1 e 1 b 1
+b 1 d 1 e 1 g 3 e 1 g 2 e 1 h 5 b 1 d 1 f 1 e 3 f 1 b 1 f 1 h 1 e 1 b 1
+b 1 c 1 e 1 g 6 e 1 b 1 h 4 b 1 c 1 d 1 b 1 e 4 f 1 b 2 f 1 e 2 b 1
+b 1 c 2 e 1 g 5 b 2 f 1 h 3 b 1 c 1 d 1 b 1 e 2 f 1 b 7
+b 1 c 2 e 1 g 4 b 1 e 1 b 3 h 3 b 2 d 1 b 4 d 2 b 1 f 2 b 1
+b 1 c 2 e 1 g 4 b 1 e 1 b 3 h 3 b 1 d 1 b 1 d 2 h 1 e 1 c 1 d 1 b 1 f 1 b 1
+b 1 c 2 e 1 g 4 e 1 h 1 b 1 f 1 h 3 b 1 c 2 b 1 d 1 g 2 c 1 d 1 b 2
+b 1 c 2 e 1 g 3 e 1 h 3 e 1 h 4 b 1 d 1 b 1 c 2 g 2 c 1 d 1 b 1
+b 1 c 2 d 1 e 1 g 2 e 1 h 7 b 3 c 3 g 2 c 1 d 1 b 1
+b 2 c 2 d 1 e 1 g 2 e 4 b 3 d 1 c 5 h 1 e 1 c 1 d 1 b 1
+b 1 c 2 d 2 e 1 g 5 e 1 h 1 e 1 d 1 c 1 d 3 c 1 h 1 e 1 c 1 d 1 b 2
+b 1 c 2 d 3 e 5 h 1 e 1 g 1 d 1 c 1 b 4 h 1 e 1 d 2 b 5
+b 2 d 6 b 1 h 1 b 1 d 1 e 1 d 1 b 1 d 1 b 2 b 3 d 1 b 3 e 2 b 1
+b 2 d 5 b 2 d 3 b 1 c 1 d 1 b 1 b 2 f 2 e 2 b 1
+b 3 d 6 b 3 c 1 d 1 b 1 b 2 b 2 f 1 h 1 e 1 b 1
+b 7 b 1 c 2 d 1 b 3 f 1 b 1 b 2 e 1 b 1
+b 3 c 3 b 5 b 2
+b 5 c 2 d 1 b 3
+b 2 f 2 b 2 c 1 d 1 b 2
+b 4 g 1 b 2 h 1 b 1
+b 2 e 1 g 1 e 1 b 1 h 1 b 1
+b 8
+b 2 f 2 b 5
+b 2 f 1 b 1 f 1 b 3 f 1 b 1
+b 2 f 1 b 1 f 1 b 1 b 2 f 1 b 1
+b 2 f 1 b 1 f 1 b 1 b 3
+b 2 f 1 f 1 b 1
+b 2 f 1 b 1 f 1 b 1
+b 1 f 1 b 1 f 1 b 1
+b 1 f 1 b 1
+b 3

@@ -1,0 +1,57 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kai-Uwe Zickerick"
+date "Jun  6, 2011"
+description "A PC at your wrist"
+difficulty 2.25
+height 20
+id 14375
+link "https://webpbn.com/play.cgi?id=14375"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "WCP #85 I have the whole world with me"
+width 20
+
+rows
+3,5
+3,4,6
+3,8
+2,5,7
+1,7,6
+2,3,4
+1,3,1,2
+2,2,2,1,2
+1,2,2,1,1
+2,2,2,1
+2,2,2,1,2
+2,2,1,1
+2,2,2
+4,1,1
+6,1,2
+8,2,1
+9,1,2
+7,2,1,3
+6,2,3
+5,3
+
+columns
+3,5
+3,2,6
+3,2,7
+2,9
+1,5,8
+2,6,6
+1,3,4
+2,3,2
+1,2,2,2
+2,2,2,2
+1,2,2
+1,2,2,3,1
+2,1,2,4,2
+2,4,1
+4,4,2
+6,1
+7,2
+8,3
+6,4,3
+5,3

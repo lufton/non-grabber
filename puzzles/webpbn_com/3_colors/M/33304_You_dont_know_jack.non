@@ -1,0 +1,66 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Dec  3, 2019"
+description "about calisthenic exercise"
+difficulty 1.75
+height 25
+id 33304
+link "https://webpbn.com/play.cgi?id=33304"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "You don't know jack"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 4
+black 4
+black 2 black 3 black 2
+black 1 red 2 black 3 red 2 black 1
+red 4 black 1 red 4
+red 4 black 3 red 4
+red 3 black 1 red 3
+red 7
+red 5
+red 5
+red 5
+red 5
+black 5
+black 7
+black 9
+black 4 black 4
+black 3 black 3
+black 3 black 3
+black 2 black 2
+0
+black 2 black 2
+black 1 black 1
+0
+0
+
+columns
+black 1
+black 2 black 1
+red 2 black 2
+red 2 black 2
+red 2 black 4
+red 2 black 4
+red 3 black 4
+red 7 black 4
+black 3 black 1 red 6 black 3
+black 7 red 5 black 3
+black 4 black 1 red 6 black 3
+black 2 red 7 black 4
+black 2 red 3 black 4
+black 1 red 2 black 4
+red 2 black 4
+red 2 black 2
+red 2 black 2
+black 2 black 1
+black 1
+0

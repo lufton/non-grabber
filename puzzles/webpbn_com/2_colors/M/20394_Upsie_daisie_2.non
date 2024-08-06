@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom O'Connell"
+date "Nov 17, 2012"
+description ""
+difficulty 3.5
+height 20
+id 20394
+link "https://webpbn.com/play.cgi?id=20394"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.75
+title "Upsie daisie 2"
+width 20
+
+rows
+5
+1,4
+3
+3
+4
+7
+6,1
+2,3,2
+1,1,1,1,2
+1,1,2,1,1
+2,2
+0
+1,1
+2,2,2
+2,4,2
+3,4,1,3
+3,1,4,1,3
+1,1,1,2,1,1,1
+1,8,1
+3,5,3
+
+columns
+2
+2,1
+6
+3,1
+2
+2
+1,1,3
+2,1,1
+1,2,3,2
+3,7
+2,4,7
+1,6,3,2
+2,4,1,2
+6,4
+4,1,2
+2,3,1,2
+2,1,3,1
+2,6
+2,1
+2

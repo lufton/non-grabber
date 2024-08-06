@@ -1,0 +1,63 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Jul 28, 2010"
+description "Mauna Loa"
+difficulty 1.5
+height 20
+id 9790
+link "https://webpbn.com/play.cgi?id=9790"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Travelog:US-Hawaii"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10 blue 7
+blue 8 red 1 blue 6
+blue 8 red 2 blue 1 blue 1 blue 2
+blue 9 red 1 blue 3
+blue 9 red 3 blue 3
+blue 9 red 4 blue 4
+blue 8 red 6 blue 5
+blue 8 red 1 black 1 red 2 black 2 red 1 blue 5
+blue 6 red 3 black 1 red 2 black 3 red 1 blue 4
+blue 5 red 4 black 2 red 1 black 3 red 1 blue 4
+blue 3 red 3 black 1 red 1 black 2 red 3 black 3 blue 4
+blue 3 red 1 black 3 red 1 black 1 red 2 black 4 red 2 blue 3
+blue 2 red 2 black 3 red 1 black 2 red 1 black 4 red 2 blue 3
+blue 2 red 1 black 3 red 2 black 2 red 5 black 2 red 1 blue 2
+blue 1 red 2 black 3 red 1 black 3 red 3 black 4 red 2 blue 1
+red 2 black 4 red 1 black 3 red 1 black 6 red 2 blue 1
+red 1 black 4 red 2 black 3 red 1 black 6 red 2 blue 1
+red 2 black 16 red 1 blue 1
+red 2 black 17 green 1
+green 20
+
+columns
+blue 15 red 4 green 1
+blue 14 red 2 black 1 red 2 green 1
+blue 12 red 3 black 4 green 1
+blue 10 red 3 black 6 green 1
+blue 10 red 1 black 8 green 1
+blue 9 red 2 black 5 red 1 black 2 green 1
+blue 8 red 2 black 3 red 4 black 2 green 1
+blue 8 red 6 black 5 green 1
+blue 1 blue 3 red 4 black 9 green 1
+blue 1 red 1 black 4 red 1 black 7 green 1
+red 1 red 5 black 1 red 7 black 2 green 1
+red 10 black 2 red 2 black 4 green 1
+blue 1 red 3 black 3 red 1 black 2 red 2 black 4 green 1
+blue 1 red 2 black 6 red 1 black 5 green 1
+blue 3 red 1 black 5 red 1 black 5 green 1
+blue 2 blue 2 red 2 black 1 red 2 black 6 green 1
+blue 2 blue 6 red 2 black 6 green 1
+blue 2 blue 10 red 4 black 2 green 1
+blue 14 red 4 black 1 green 1
+blue 18 green 2

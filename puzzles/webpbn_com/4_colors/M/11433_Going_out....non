@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Dec 15, 2010"
+description "for a quick smoke."
+difficulty 2.25
+height 20
+id 11433
+link "https://webpbn.com/play.cgi?id=11433"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Going out..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 2 blue 11
+black 1 black 1 blue 4 blue 2
+black 3 black 1 blue 4 black 1 black 1 blue 2
+black 1 blue 4 black 1 blue 2
+red 5 black 1 blue 5 blue 3
+red 1 black 1 blue 6 black 3 blue 3
+red 4 black 2 blue 6 blue 4
+black 2 blue 7 blue 4
+black 5 blue 9 blue 5
+black 1 blue 3 blue 2 black 1 red 2 blue 2 blue 5
+black 1 blue 2 black 2 red 2 blue 2 blue 4
+black 1 blue 2 black 2 black 2 blue 4 blue 3
+black 3 black 2 blue 6 blue 3
+black 3 black 1 blue 1 blue 5 blue 3
+black 1 black 3 red 1 blue 3 blue 3
+black 1 blue 2 blue 3
+black 6 blue 1 blue 4
+black 1 blue 6 red 2 blue 5
+black 2 blue 7 red 2 blue 5
+black 1 blue 15
+
+columns
+black 1 red 1 red 1 black 1 black 2
+black 1 black 1 red 1 red 1 black 1 black 1
+black 2 red 1 red 1 black 6
+red 1 red 1 black 1 blue 3 black 1
+red 2 black 1 blue 3 black 1 black 2
+black 1 blue 2 black 1 black 3 blue 1
+black 2 blue 1 black 1 black 2 black 1 blue 3
+black 1 black 2 blue 3 black 1 black 1 blue 1 black 1 black 1 blue 3
+black 5 blue 5 black 1 black 1 black 1 black 1 blue 3
+blue 9 black 1 black 1 black 2 blue 3
+blue 9 red 2 black 1 blue 1 black 1 blue 3
+blue 9 red 2 blue 3 blue 3
+blue 14 red 1 blue 2
+blue 1 blue 12 red 2 blue 1
+blue 1 black 1 black 1 blue 6 red 2 blue 1
+blue 1 black 1 black 1 blue 2 blue 3 blue 3
+blue 1 black 1 black 1 blue 5 blue 4
+blue 1 blue 16
+blue 20
+blue 20

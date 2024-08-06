@@ -1,0 +1,41 @@
+by "Jota (Jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Jota"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 10
+id 26627
+link "https://webpbn.com/play.cgi?id=26627"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP Ilegal entry"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+green 1 green 1
+green 5
+green 1 black 1 green 1 black 1 green 1
+green 2 black 1 green 2 green 1
+green 3 green 2
+green 5
+0
+0
+
+columns
+0
+green 3
+green 2 black 1 green 3
+green 2 black 1 green 2
+green 2 black 1 green 3
+green 3 green 1
+green 2
+green 2
+0
+0

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 18, 2011"
+description "Who remembers these? Anyone still have one?"
+difficulty 1.5
+height 20
+id 12832
+link "https://webpbn.com/play.cgi?id=12832"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "LP"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 blue 1
+blue 1 black 5 blue 2 blue 1
+blue 1 black 9 blue 2 blue 1
+blue 1 black 11 blue 1 blue 1
+blue 1 black 12 blue 1 blue 1
+blue 1 black 12 blue 1 blue 1
+blue 1 black 6 black 4 blue 1 black 1 blue 1
+blue 1 black 5 black 3 blue 1 black 1 blue 1
+blue 1 black 5 black 1 black 3 blue 1 black 1 blue 1
+blue 1 black 5 black 3 blue 1 black 1 blue 1
+blue 1 black 6 black 6 blue 1
+blue 1 black 13 blue 1
+blue 1 black 13 blue 1
+blue 1 black 11 blue 1
+blue 1 black 9 blue 1
+blue 1 black 5 black 2 blue 1
+blue 1 black 2 blue 1
+blue 1 blue 1
+blue 20
+
+columns
+blue 20
+blue 1 blue 1
+blue 1 black 5 blue 1
+blue 1 black 9 blue 1
+blue 1 black 11 blue 1
+blue 1 black 13 blue 1
+blue 1 black 13 blue 1
+blue 1 black 6 black 6 blue 1
+blue 1 black 5 black 5 blue 1
+blue 1 black 5 black 1 black 5 blue 1
+blue 1 black 5 black 5 blue 1
+blue 1 black 6 black 6 blue 1
+blue 1 black 13 blue 1
+blue 1 black 13 blue 1
+blue 1 black 11 blue 1
+blue 1 blue 9 black 3 blue 1
+blue 1 blue 2 black 5 black 2 blue 1
+blue 1 black 2 blue 1
+blue 1 blue 1
+blue 20

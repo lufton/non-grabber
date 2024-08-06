@@ -1,0 +1,53 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 31, 2011"
+description "Star-Baby (outdoor cat) was attacked today. She ran faster than the dog; the bite is just before her tail. She's doing fine and doesn't mind that her tail now has a permanent 90 degree bend."
+difficulty 1.5
+height 15
+id 13110
+link "https://webpbn.com/play.cgi?id=13110"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "90 degrees this morning"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 2 red 2
+red 1 red 1 red 1 red 1
+red 1 red 3 red 1
+red 2 red 2
+red 1 blue 1 blue 1 red 1
+red 4 red 1 black 1 red 1
+red 1 red 2 red 2
+red 1 red 1 red 1
+red 12
+red 12
+red 12
+red 2 red 2 red 2 red 2
+red 2 red 2 red 2 red 2
+green 1 red 2 green 1 red 2 green 2 red 2 green 1 red 2 green 2
+
+columns
+green 1
+red 9
+red 1 red 6
+red 1 red 3 green 1
+red 1 red 6
+red 6
+red 4 red 3 green 1
+red 3 red 1 red 3 green 1
+red 1 red 7
+red 3 blue 1 red 6
+red 1 black 1 red 3 green 1
+red 3 blue 1 red 6
+red 1 red 7
+red 3 red 1 green 1
+red 4 green 1

@@ -1,0 +1,53 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "Apr 30, 2014"
+description "....I got these really cheap from a guy that kept muttering something about beans. (See # 24328)"
+difficulty 1.5
+height 15
+id 24355
+link "https://webpbn.com/play.cgi?id=24355"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Red Roses For a Blue Lady...."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 3
+black 4 black 3
+green 3 blue 2 black 1
+green 4 red 1 red 1 blue 3 black 1
+green 3 red 2 blue 2 black 2
+green 1 red 1 green 2 red 1 blue 1
+black 3 red 2 green 1 green 3
+black 6 red 1 blue 1 green 5
+black 2 green 2 green 3
+black 2 green 2 green 3
+black 2 green 1 blue 1
+black 2 blue 1
+black 3 black 2
+
+columns
+black 2 green 4 black 7
+black 2 green 3 black 7
+black 2 green 3 black 2 black 1
+black 1 green 1 black 1
+red 1 black 1
+red 2 green 1 red 1 black 1 green 3
+red 1 green 1 red 2 green 2
+red 1 red 1 green 1
+blue 1
+green 1
+blue 1 green 1
+black 1 blue 3 green 4 black 1
+black 1 blue 4 green 4 blue 2 black 1
+black 4 green 4
+black 1

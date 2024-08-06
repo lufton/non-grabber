@@ -1,0 +1,31 @@
+by "MomWiz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/14/08"
+height 5
+id 73166
+link "https://www.griddlers.net/nonogram/-/g/73166"
+medium_time "0:00:17"
+points 19
+popularity 47.28
+title "T is For..."
+width 5
+
+color a ffffff
+color b 000000
+color c 99cc00
+color d e0e0e0
+
+rows
+b 3 d 1
+b 1 d 2
+b 1 c 2
+b 1 c 3
+b 1 c 2
+
+columns
+b 1
+b 5
+b 1 d 1 c 3
+d 1 c 3
+d 1 c 1

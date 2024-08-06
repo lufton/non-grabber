@@ -1,0 +1,83 @@
+by "S Woodworth (motherdearest)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by S Woodworth"
+date "Jan 18, 2010"
+description "Anime and manga are a style of japanese drawing. Anime is japanese cartoons/animation and Manga is japanese comics."
+difficulty 2.0
+height 30
+id 7621
+link "https://webpbn.com/play.cgi?id=7621"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Japanese style Cartooning and comics"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 red 1 blue 7 red 1 blue 7 red 1 blue 7 red 1 blue 1
+blue 3 red 1 red 1 blue 5 red 1 red 1 blue 5 red 1 red 1 blue 5 red 1 red 1
+blue 2 red 1 red 1 blue 3 red 1 red 1 blue 3 red 1 red 1 blue 3 red 1 red 1
+blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1
+red 1 black 3 black 2 black 1 black 1 black 5 black 3 red 1
+red 1 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 red 1
+red 1 black 3 black 1 black 2 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 red 1
+red 1 green 21 red 1
+red 1 black 1 red 1
+red 1 black 3 black 1 red 1
+red 1 black 1 black 1 black 3 black 3 red 1
+red 1 black 3 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 3 red 1
+red 1 green 10 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 black 5 black 3 black 2 black 1 black 3 black 3 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 3 black 1 black 2 black 1 black 1 black 3 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 red 1
+red 1 red 1 green 7 red 1 green 7 red 1 green 7 red 1
+red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 2
+red 1 red 1 blue 3 red 1 red 1 blue 3 red 1 red 1 blue 3 red 1 red 1 blue 2
+red 1 red 1 blue 5 red 1 red 1 blue 5 red 1 red 1 blue 5 red 1 red 1 blue 3
+red 2 blue 7 red 1 blue 7 red 1 blue 7 red 1 blue 4
+
+columns
+blue 4 red 26
+blue 3 red 1 black 5 green 1 red 1
+blue 2 red 1 black 1 black 1 green 1 red 1 blue 1
+blue 1 red 1 black 5 green 1 red 1 blue 2
+red 1 green 1 red 1 blue 3
+blue 1 red 1 black 5 green 1 red 1 blue 4
+blue 2 red 1 black 2 green 1 black 5 green 1 red 1 blue 3
+blue 3 red 1 black 1 green 1 black 1 green 1 red 1 blue 2
+blue 4 red 1 black 1 green 1 black 5 green 1 red 1 blue 1
+blue 3 red 1 black 5 green 1 black 1 green 1 red 1
+blue 2 red 1 green 1 black 5 green 1 red 1 blue 1
+blue 1 red 1 black 5 green 1 green 1 red 1 blue 2
+red 1 green 1 black 4 green 1 black 5 green 1 red 1 blue 3
+blue 1 red 1 black 5 green 1 black 1 black 1 green 1 black 1 black 1 red 1 blue 4
+blue 2 red 1 black 1 green 1 black 4 green 1 black 5 green 1 red 1 blue 3
+blue 3 red 1 black 5 green 1 green 1 green 1 red 1 blue 2
+blue 4 red 1 black 1 green 1 black 3 green 1 black 5 green 1 red 1 blue 1
+blue 3 red 1 black 5 green 1 black 1 green 1 black 2 green 1 red 1
+blue 2 red 1 green 1 black 3 green 1 black 1 green 1 red 1 blue 1
+blue 1 red 1 black 5 green 1 green 1 black 1 green 1 red 1 blue 2
+red 1 black 1 black 1 black 1 green 1 black 3 green 1 black 5 green 1 red 1 blue 3
+blue 1 red 1 black 1 black 1 green 1 black 1 black 1 green 1 red 1 blue 4
+blue 2 red 1 black 5 black 5 green 1 red 1 blue 3
+blue 3 red 1 black 1 black 1 green 1 red 1 blue 2
+blue 4 red 1 black 1 black 2 green 1 red 1 blue 1
+blue 3 red 1 green 1 red 1
+blue 2 red 1 black 5 green 1 red 1 blue 1
+blue 1 red 1 black 1 black 1 green 1 red 1 blue 2
+red 1 black 5 green 1 red 1 blue 3
+blue 1 red 26 blue 3

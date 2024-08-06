@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Dec 16, 2019"
+description "Dreamin of my Chevy and my Ovaltine"
+difficulty 1.25
+height 20
+id 33357
+link "https://webpbn.com/play.cgi?id=33357"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Mondegreen #57"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1
+red 2 green 1
+red 1 green 1
+black 3 green 1
+black 3 green 1
+black 3 green 1
+black 3 green 1
+black 3 green 1
+green 20
+green 20
+green 4 green 9
+green 3 green 7 green 8
+green 2 green 9 green 7
+green 1 green 11 green 6
+green 1 green 3 black 5 green 3 green 6
+green 3 black 2 black 2 green 3 green 5
+green 4 black 2 black 2 green 3 green 5
+green 4 black 2 black 2 green 3
+green 4 black 7 green 9
+black 5
+
+columns
+green 7 green 3
+green 5 green 4
+green 4 green 6
+green 3 green 7
+red 1 green 2 green 4 black 4
+red 2 black 5 green 2 green 3 black 6
+black 5 green 2 green 3 black 1 black 2
+black 5 green 2 green 3 black 1 black 2
+green 2 green 3 black 1 black 2
+green 2 green 3 black 6
+green 2 green 4 black 4
+green 3 green 7
+green 4 green 6
+green 5 green 4
+green 7 green 1
+green 9 green 1
+green 9 green 1
+green 9 green 1
+green 9 green 1
+green 17 green 1

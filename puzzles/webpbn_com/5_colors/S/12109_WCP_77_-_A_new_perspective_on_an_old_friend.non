@@ -1,0 +1,53 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Feb  7, 2011"
+description "Kermit the Frog (or maybe his nephew Robin, because he was a small frog, and this is a small puzzle)"
+difficulty 1.75
+height 15
+id 12109
+link "https://webpbn.com/play.cgi?id=12109"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "WCP #77 - A new perspective on an old friend"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 15
+blue 5 blue 8
+blue 4 black 1 blue 2 blue 3
+blue 4 green 3 black 2 blue 2
+blue 4 green 6 black 1 blue 2
+blue 3 green 8 blue 2
+blue 2 green 10 blue 3
+blue 2 green 1 black 3 green 6 blue 2
+blue 2 black 4 green 2 black 1 green 2 blue 2
+blue 1 green 1 black 4 green 2 black 1 green 2 blue 1
+green 1 red 4 green 1 black 1 green 3 blue 1
+green 1 red 5 green 6
+green 1 red 4 green 3 black 3 green 1
+black 1 green 1 red 2 green 3 black 3 green 3
+black 2 green 3 black 5 green 4
+
+columns
+blue 7
+blue 8 black 1
+blue 6 green 1 blue 2 black 2
+blue 5 green 3 blue 2 green 4
+blue 2 green 3 black 2 green 2 red 3 green 1
+blue 1 black 1 green 3 black 3 red 4 green 1
+blue 1 green 4 black 3 red 3 green 1 black 1
+blue 2 green 5 black 2 red 3 green 1 black 1
+blue 3 green 6 black 1 red 2 green 2 black 1
+blue 3 green 9 black 2
+blue 2 black 1 green 3 black 1 green 1 black 1 green 2 black 2
+blue 2 black 2 green 3 black 1 green 2 black 2 green 1
+blue 3 blue 1 green 5 black 1 green 2
+blue 9 green 3 black 1 green 2
+blue 11 green 4

@@ -1,0 +1,26 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Kristen Vognild"
+date "Sep 16, 2022"
+description "rather than creating 4 additional, equally "hard" puzzles, I combined them into one, exponentially more challenging puzzle (the exponents start out pretty small, mind you)"
+difficulty 1.0
+height 2
+id 35917
+link "https://webpbn.com/play.cgi?id=35917"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "the other 4 hArDeSt puzzles (for dogmom)"
+width 2
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+green 1 blue 1
+
+columns
+green 1
+black 1 blue 1

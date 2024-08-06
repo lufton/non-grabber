@@ -1,0 +1,72 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wombat"
+date "Mar  3, 2014"
+description "Mr. Freeze"
+difficulty 2.0
+height 25
+id 23950
+link "https://webpbn.com/play.cgi?id=23950"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Batman Villain #5"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 11
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2 blue 2
+blue 2 blue 2 black 5 blue 2
+blue 1 blue 2 black 3 black 3 blue 1
+blue 1 blue 1 black 2 black 2 blue 1
+blue 1 blue 1 black 2 black 2 blue 1
+blue 1 blue 1 black 1 black 1 blue 1
+blue 1 blue 1 black 1 black 4 black 4 black 1 blue 1
+blue 1 black 3 red 2 black 3 red 2 black 3 blue 1
+blue 1 black 2 red 4 black 1 red 4 black 2 blue 1
+blue 1 black 3 red 2 black 3 red 2 black 3 blue 1
+blue 1 black 1 black 4 black 4 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 2 black 2 blue 1
+blue 1 black 2 black 3 black 2 blue 1
+blue 1 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 1
+blue 1 black 7 blue 1
+black 6 black 1 black 1 black 6
+black 23
+black 21
+
+columns
+black 1
+black 2
+blue 16 black 3
+blue 2 black 3
+blue 2 blue 5 black 3
+blue 2 blue 2 black 3
+blue 2 blue 2 black 9 black 2
+blue 2 blue 1 black 2 black 3 black 2 black 2
+blue 1 black 2 black 2 red 1 black 2 black 2 black 2
+blue 1 black 1 black 1 red 3 black 1 black 6
+blue 1 black 2 black 1 red 3 black 1 black 2 black 2
+blue 1 black 1 black 2 red 1 black 2 black 1 black 1 black 2
+blue 1 black 1 black 3 black 1 black 1 black 2
+blue 1 black 1 black 2 red 1 black 2 black 1 black 1 black 2
+blue 1 black 2 black 1 red 3 black 1 black 2 black 2
+blue 1 black 1 black 1 red 3 black 1 black 6
+blue 1 black 2 black 2 red 1 black 2 black 2 black 2
+blue 2 black 2 black 3 black 2 black 2
+blue 2 black 9 black 2
+blue 2 black 3
+blue 2 black 3
+blue 2 black 3
+blue 16 black 3
+black 2
+black 1

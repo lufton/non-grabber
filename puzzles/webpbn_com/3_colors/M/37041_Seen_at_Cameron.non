@@ -1,0 +1,71 @@
+by "Andrew Goss (TJDevil02)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Goss"
+date "Aug 11, 2023"
+description "The Duke Blue Devils are an American college basketball team who play at Cameron Indoor Stadium. Their colors are Blue and White."
+difficulty 2.0
+height 25
+id 37041
+link "https://webpbn.com/play.cgi?id=37041"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Seen at Cameron"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 10 black 1
+black 1 blue 8 black 2 black 1
+black 1 blue 9 black 2 black 3
+black 1 blue 10 black 3 black 2 black 1 black 3
+black 1 blue 11 black 2 black 3 black 1 black 1
+black 1 blue 11 black 5 black 7
+black 1 blue 11 black 1
+black 2 blue 10 black 1 black 3 black 3
+black 2 blue 9 black 1 black 1 black 1 black 1
+black 1 blue 1 black 3 blue 5 black 1 black 1 black 1 black 1
+black 1 blue 1 black 1 black 2 blue 4 black 1 black 1 black 1 black 1 black 1
+black 1 blue 1 black 1 black 2 blue 3 black 1 black 3 black 3
+black 1 blue 1 black 1 black 1 blue 3 black 1
+black 1 blue 1 black 1 black 2 blue 3 black 4 black 1 black 1 black 1
+black 1 blue 1 black 1 black 2 blue 4 black 2 black 1 black 1 black 1
+black 1 blue 1 black 3 blue 5 black 4 black 1 black 1 black 1
+black 2 blue 9 black 2 black 1 black 1 black 1
+black 2 blue 10 black 4 black 1 black 1
+black 1 blue 11 black 1 black 1
+black 1 blue 11 black 1 black 1 black 3 black 1
+black 1 blue 11 black 1 black 1 black 1 black 1
+black 1 blue 10 black 2 black 1 black 3 black 1
+black 1 blue 9 black 2 black 1 black 1 black 1
+black 1 blue 8 black 2 black 3 black 3
+black 10 black 1
+
+columns
+black 8 black 8
+black 1 blue 6 black 2 black 2 blue 6 black 1
+black 1 blue 7 black 9 blue 7 black 1
+black 1 blue 23 black 1
+black 1 blue 8 black 7 blue 8 black 1
+black 1 blue 8 black 1 black 1 blue 8 black 1
+black 1 blue 8 black 2 black 2 blue 8 black 1
+black 1 blue 9 black 2 black 2 blue 9 black 1
+black 1 blue 10 black 3 blue 10 black 1
+black 2 blue 21 black 2
+black 2 blue 19 black 2
+black 2 blue 17 black 2
+black 19
+black 3 black 5
+black 1 black 1 black 1 black 1
+black 3 black 5 black 1 black 1 black 1
+black 6 black 1 black 1 black 5
+black 1 black 1 black 1 black 2 black 4 black 1
+black 2 black 1 black 1 black 1
+black 1 black 4
+black 3 black 3 black 1
+black 1 black 1 black 5 black 5 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 3
+black 1 black 5
+black 1 black 5 black 1

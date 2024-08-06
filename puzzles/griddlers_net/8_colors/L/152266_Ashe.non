@@ -1,0 +1,85 @@
+by "amgua"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/11/15"
+height 27
+id 152266
+link "https://www.griddlers.net/nonogram/-/g/152266"
+medium_time "0:25:47"
+points 25560
+popularity 78.22
+title "Ashe"
+width 33
+
+color a ffffff
+color b 000000
+color c cccc00
+color d cccccc
+color e 666666
+color f 3366ff
+color g ffcc99
+color h ffcc66
+
+rows
+b 7
+b 3 e 6 b 1
+b 2 e 9 b 1
+b 3 e 6 c 1 e 1 b 1
+b 3 e 6 c 1 e 1 b 1
+b 3 e 6 c 3 b 1
+b 2 e 4 c 5 e 2 b 1
+b 1 e 3 c 2 b 3 c 1 b 1 c 1 e 1 b 3
+b 2 e 1 c 2 b 2 d 2 b 2 d 1 b 1 c 1 b 1 f 2 b 1
+b 1 c 2 b 2 d 1 b 3 g 2 b 1 b 4 f 1 b 1
+b 3 d 2 b 1 b 2 g 2 b 1 b 4 f 1 b 1
+b 1 d 1 b 1 h 1 b 2 g 2 b 1 b 1 d 1 b 1 b 1 f 1 b 1
+b 1 d 1 b 1 h 1 g 6 h 1 b 1 d 1 b 1 b 1 f 1 b 1
+b 1 d 2 b 1 h 1 g 3 b 2 g 1 b 1 d 1 b 1 b 1 d 1 f 1 b 1
+b 1 d 1 b 1 e 1 b 2 h 1 g 4 b 1 d 2 b 2 b 1 d 1 b 1
+b 1 d 1 b 2 e 2 b 20
+b 1 b 1 c 1 b 1 e 1 b 1 g 1 c 1 e 2 c 1 g 1 b 1 f 1 f 1 b 1
+b 1 d 1 b 1 c 2 b 2 g 2 c 1 e 2 c 1 g 1 b 14
+b 1 d 1 b 1 c 2 b 14 c 1 g 1 b 1 d 1 b 1
+b 2 c 2 b 4 c 5 b 4 b 3 d 1 f 1 b 1
+b 2 c 2 b 4 e 7 b 2 b 1 f 1 b 1
+b 1 c 3 b 4 e 8 b 2 b 1 f 1 b 1
+b 4 c 2 b 3 g 2 c 1 b 2 c 1 g 2 b 1 b 1 f 1 b 1
+b 3 b 2 c 1 b 2 e 4 b 2 e 4 b 1 b 2 f 1 b 1
+b 1 b 3 c 4 b 4 c 4 b 1 f 2 b 1
+b 1 e 5 b 1 b 1 e 4 b 2
+b 6 b 4
+
+columns
+b 2
+b 2
+b 4
+b 3 c 1 b 1
+b 1 d 1 b 1 c 2 b 2
+b 4 d 1 b 1 c 4 b 2
+b 1 b 5 b 1 c 2 b 2 c 2 b 3
+b 3 b 4 c 1 b 1 d 2 b 1 c 2 b 6 e 1 b 1
+b 1 e 1 b 4 e 2 c 1 b 1 d 1 b 2 c 2 b 6 c 1 e 1 b 1
+b 2 e 1 b 3 e 2 c 1 b 1 d 4 e 1 b 8 e 1 c 1 e 1 b 1
+b 1 e 3 b 1 e 3 c 1 b 1 d 1 b 4 e 2 b 3 e 2 g 1 e 1 c 1 e 1 b 1
+b 1 e 6 c 1 b 1 d 1 b 1 h 3 b 1 e 1 b 1 g 1 b 1 c 1 e 2 g 1 e 1 c 1 e 1 b 1
+b 1 e 6 c 1 b 2 g 2 h 1 b 1 g 2 b 1 c 1 e 2 c 1 e 1 b 2
+b 1 e 5 c 1 b 1 d 1 b 3 g 3 b 1 c 2 b 1 c 1 e 2 b 3
+b 1 e 5 c 1 b 1 d 1 b 3 g 3 b 1 e 2 b 1 c 1 e 2 b 3
+b 1 e 5 c 1 b 2 g 4 b 1 g 1 b 1 e 2 b 1 c 1 e 2 c 1 e 1 b 1
+b 1 e 1 c 1 e 1 c 3 b 1 g 4 b 1 g 1 b 1 c 2 b 2 e 2 g 1 e 1 c 1 b 1
+b 1 e 1 c 3 b 1 d 1 b 3 g 2 b 2 g 2 b 3 e 1 g 1 e 1 c 1 e 1 b 1
+b 1 e 1 c 1 e 1 c 1 b 1 h 1 b 1 d 1 b 8 e 1 c 1 e 1 b 1
+b 2 e 2 c 1 b 4 d 2 b 1 f 1 b 3 b 1 b 1 c 1 e 1 b 1
+b 5 d 2 b 3 b 2 b 1 e 1 b 1
+b 1 f 1 b 4 b 2 b 2 b 1 f 1 b 1
+b 1 f 1 b 2 b 1 b 1 c 1 b 1 b 2 f 1 b 1
+b 1 f 2 b 1 b 1 b 1 g 1 b 1 b 1 f 2 b 1
+b 2 f 1 b 4 b 4 f 1 b 2
+b 1 f 1 d 2 b 1 b 1 d 2 f 1 b 1
+b 1 f 1 b 2 b 2 f 1 b 1
+b 1 b 1 b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 f 1 b 1
+b 1

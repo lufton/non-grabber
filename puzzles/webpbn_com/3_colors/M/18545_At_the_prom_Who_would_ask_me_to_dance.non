@@ -1,0 +1,71 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jota"
+date "May  5, 2012"
+description "Standing by a wall waiting for someone."
+difficulty 1.5
+height 40
+id 18545
+link "https://webpbn.com/play.cgi?id=18545"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "At the prom: Who would ask me to dance?"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 6
+black 3 black 2
+black 3
+black 2
+black 3
+black 4
+black 2 red 1 black 2
+black 2 red 1 black 3
+black 2 red 2
+black 1 red 3
+black 2 red 4
+black 2 red 4
+black 2 red 3
+black 2 red 2
+black 2 red 1
+black 2 red 1
+black 2 red 1
+black 2 red 1
+black 2 red 1
+black 2 red 2
+black 1 red 2
+red 4
+red 4
+red 5
+red 5
+red 6
+red 7
+red 8
+red 8 black 1
+red 3 black 1 red 3 black 3
+red 3 black 1 red 2 black 3
+red 2 black 2 black 3
+red 2 black 2 red 1 black 3
+red 1 black 2 red 1 black 2
+red 2
+red 2
+red 4
+red 1 red 2
+red 1 red 2
+
+columns
+black 9 black 10 red 13
+black 22 red 12
+black 4 black 2 red 25 black 3 red 5
+black 2 black 3 red 6 red 10 black 5 red 3
+black 3 black 2 red 4 red 8 red 2 red 3
+black 2 black 1 red 2 red 6 black 2 red 3
+red 4 black 3
+red 2 black 4
+black 4
+black 2

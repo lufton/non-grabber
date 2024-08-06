@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 25792
+link "https://webpbn.com/play.cgi?id=25792"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What Physics Concept? #8"
+width 25
+
+rows
+1
+3
+1,1
+2,2
+2,1,1
+3,5
+11,5
+2,1,1,1
+3,1,1,1
+4,3
+1,8,3
+1,1,4,3
+1,1,3,5
+2,7
+1,1,1
+1,1,1
+1,1,1
+3,3,3
+0
+3,3,3
+
+columns
+3
+0
+3
+1
+1
+2
+1,3
+1,9,1
+1,6,1,1
+5,1,1
+4
+2
+3
+3
+1
+1
+1
+0
+1,1,1
+6,2,1,1
+3,2,9,1
+2,9
+3,2,9,1
+6,2,1,1
+1,1,1

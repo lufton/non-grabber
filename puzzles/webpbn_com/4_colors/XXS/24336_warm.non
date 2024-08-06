@@ -1,0 +1,32 @@
+by "Bryan McQuary (irsponge)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bryan McQuary"
+date "Apr 28, 2014"
+description "Cherry Pie"
+difficulty 1.25
+height 5
+id 24336
+link "https://webpbn.com/play.cgi?id=24336"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "warm"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2 green 2
+black 3
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+
+columns
+green 1 black 3
+green 1 black 1 red 3
+black 1 red 3
+green 1 black 1 red 3
+green 1 black 3

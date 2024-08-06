@@ -1,0 +1,63 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Aldege Cholette"
+date "Nov 13, 2017"
+description "The slip joint pliers. I had to repair my slow draining basin drain. I pulled out my slip joint pliers and stuck my head under the sink and saw the worst exhibition of plumbing in the history of man. A series of J-bends and P-traps snaking down with no possibility of me removing a trap to clear the drain. Luckily they put a clean out at the bottom of the final P-trap. I managed to pull out some Q-tips and hair clips and other muck and " voila" it drains good again."
+difficulty 2.0
+height 20
+id 30497
+link "https://webpbn.com/play.cgi?id=30497"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Master of..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+black 2 black 2
+black 11 black 1 black 1
+black 1 black 2 black 1 black 1 black 2
+black 2 black 2 black 1 black 1
+black 7 black 2 black 2
+black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 7 black 2 green 3 black 1 black 1 green 2
+black 1 black 1 green 1 green 1
+black 5 black 1 green 5 green 1
+green 1 black 3 green 1 red 5 green 1 green 1
+black 3 green 7
+black 1 black 1 blue 4 blue 1
+black 3 blue 1 blue 1
+black 1 black 1 blue 4 blue 1
+black 1 blue 1 blue 2
+black 3 blue 10
+
+columns
+black 1 black 1 black 4
+black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 1 green 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 4 black 1 black 2
+black 1 black 1 black 1 black 2 black 4
+black 1 black 1 black 3 black 1 green 1 black 1 black 1
+black 1 black 2 black 1 black 1 red 1 black 4 black 1
+black 1 black 1 black 5 red 1 black 1 blue 3
+black 2 black 1 red 1 black 2 blue 1 blue 1
+black 1 green 1 black 1 red 1 blue 3 blue 1
+black 3 green 2 black 1 red 1 blue 1 blue 1 blue 1
+black 3 black 5 green 1 green 2 blue 1 blue 1
+black 2 black 1 green 1 green 1 blue 1 blue 1
+black 1 black 1 black 2 green 1 green 1 blue 1
+black 1 black 1 black 2 green 1 green 1 blue 1
+black 1 black 1 black 2 green 1 green 1 blue 1
+black 2 black 1 green 1 blue 2
+black 3 black 5 green 1 green 1 blue 4
+black 3 green 5

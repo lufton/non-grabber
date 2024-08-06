@@ -1,0 +1,62 @@
+by "Brash Ataom (BRASH)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brash Ataom"
+date "Aug 30, 2020"
+description "Kazoo"
+difficulty 1.75
+height 20
+id 34455
+link "https://webpbn.com/play.cgi?id=34455"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Musical Instrument #2 (Anybody Can Play)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 3
+red 1 black 2 red 2
+red 4 black 1 red 1
+red 7 black 1 red 1
+red 9 blue 1
+red 10 blue 1
+red 11 blue 1
+red 1 blue 5 red 6 blue 1
+red 1 blue 1 black 5 blue 1 red 5
+red 1 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 red 3 blue 1
+red 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 red 2 blue 1
+red 2 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 red 2 blue 1
+red 2 blue 1 black 1 blue 1 blue 1 black 1 blue 1 red 1 blue 1
+red 3 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 red 1 blue 1
+red 5 blue 1 black 5 blue 1 red 1 blue 1
+black 3 red 3 blue 5 red 1 blue 1
+black 1 red 1 blue 1 black 1 red 7 blue 1
+black 1 red 1 blue 2 black 1 red 4 blue 2
+black 1 red 1 blue 1 black 1 red 2 blue 2
+black 3 red 1
+
+columns
+red 1 black 3
+red 2 black 1 red 2 black 1
+red 4 black 1 blue 2 red 1 black 1
+red 7 black 1 blue 2 black 1
+red 1 blue 5 red 3 black 3
+red 1 blue 1 black 5 blue 1 red 5
+red 1 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 red 3
+red 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 red 2 blue 1
+red 2 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 red 2 blue 1
+red 2 blue 1 black 1 blue 1 blue 1 black 1 blue 1 red 1 blue 1
+red 3 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 red 1 blue 1
+red 5 blue 1 black 5 blue 1 red 1 blue 1
+red 6 blue 5 red 1 blue 1
+red 11 blue 1
+red 10 blue 2
+red 9 blue 2
+red 1 black 1 red 7 blue 1
+red 1 black 1 red 4 blue 2
+red 2 black 2 red 1 blue 1
+red 3 blue 1

@@ -1,0 +1,48 @@
+by "eliel"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/10/18"
+height 13
+id 194719
+link "https://www.griddlers.net/nonogram/-/g/194719"
+medium_time "0:00:55"
+points 281
+popularity 72.14
+title "Rainbow Balloon"
+width 10
+
+color a ffffff
+color b 000000
+color c FF0000
+color d FFA500
+color e 4169E1
+color f D02090
+color g FFFF00
+color h 7CFC00
+
+rows
+b 6
+b 1 c 6 b 1
+b 1 c 4 c 3 b 1
+b 1 d 5 d 2 b 1
+b 1 d 6 d 1 b 1
+b 1 g 8 b 1
+b 1 g 8 b 1
+b 1 h 8 b 1
+b 1 h 8 b 1
+b 1 e 6 b 1
+b 1 e 4 b 1
+b 1 f 2 b 1
+b 2
+
+columns
+b 7
+b 1 c 1 d 2 g 2 h 2 b 1
+b 1 c 2 d 2 g 2 h 2 e 1 b 1
+b 1 c 2 d 2 g 2 h 2 e 2 b 1
+b 1 c 2 d 2 g 2 h 2 e 2 f 1 b 1
+b 1 c 1 d 2 g 2 h 2 e 2 f 1 b 1
+b 1 c 2 d 1 g 2 h 2 e 2 b 1
+b 1 c 2 d 1 g 2 h 2 e 1 b 1
+b 1 c 1 d 2 g 2 h 2 b 1
+b 7

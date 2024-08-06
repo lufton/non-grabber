@@ -1,0 +1,63 @@
+by "Levi Ross (rhodyboy888)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Levi Ross"
+date "Dec 17, 2011"
+description "Answer in first spoiler."
+difficulty 1.25
+height 20
+id 16800
+link "https://webpbn.com/play.cgi?id=16800"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Rhody Rebus #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 green 5
+blue 7 green 5
+blue 2 blue 2 green 5
+blue 2 blue 1 blue 2 green 5
+blue 2 blue 2 green 5
+blue 8 green 5
+blue 9 green 5
+blue 10 green 5
+blue 8 green 5
+blue 8 green 5
+blue 8 green 5
+blue 7 black 5 green 5
+blue 7 black 5 green 5
+blue 8 black 2 green 5
+blue 8 black 2 green 5
+blue 7 black 2 green 5
+blue 5 red 2 green 5
+blue 5 red 2 green 5
+blue 5 green 5
+blue 5 green 5
+
+columns
+blue 20
+blue 20
+blue 2 blue 15
+blue 2 blue 1 blue 15
+blue 2 blue 15
+blue 16
+blue 15
+blue 6 black 2 blue 2
+blue 2 black 2
+blue 1 black 2
+black 2
+black 2
+black 3 red 2
+black 3 red 2
+0
+green 20
+green 20
+green 20
+green 20
+green 20

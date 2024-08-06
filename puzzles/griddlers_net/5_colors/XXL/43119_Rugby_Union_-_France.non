@@ -1,0 +1,115 @@
+by "f1comp"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/26/07"
+height 43
+id 43119
+link "https://www.griddlers.net/nonogram/-/g/43119"
+medium_time "0:31:13"
+points 257654
+popularity 64.28
+title "Rugby Union - France"
+width 50
+
+color a ffffff
+color b cc0000
+color c 3300cc
+color d 000099
+color e 990000
+
+rows
+e 1
+b 1 e 1
+d 12 b 2 e 1
+d 4 c 10 d 3 b 2 e 2
+d 3 c 8 d 2 b 2 e 3
+d 2 c 5
+d 2 c 4 d 9 e 4
+d 2 c 3 d 3 c 5 e 1 b 2
+d 2 c 3 d 3 c 5 e 1 b 1
+d 2 c 4 d 3 c 6 e 1
+d 2 c 3 d 3 c 7 e 2
+d 9 c 3 d 2 c 8 e 1 b 1
+d 2 c 9 d 2 d 2 c 8 e 1 b 1
+c 7 d 3 d 2 c 8 e 2 b 1
+c 6 d 2 d 2 c 8 e 1 b 2
+e 5 c 5 d 2 d 1 c 8 e 2 b 2
+e 2 b 5 e 2 c 3 d 2 d 1 c 7 e 1 b 2
+e 1 b 2 d 1 c 2 d 2 c 7 e 2 b 2
+e 1 b 1 d 1 c 2 c 2 d 2 c 5 e 1 b 3
+d 1 c 1 c 1 d 2 c 5 e 2 b 2
+d 1 c 2 c 1 d 2 c 3 e 2 b 3
+d 1 c 1 c 1 d 1 c 2 e 2 b 3
+d 1 c 1 d 2 c 1 e 2 b 3
+d 1 c 1 d 1 e 2 b 3
+d 1 c 1 d 1 e 3 b 3
+e 3 b 4
+e 3 b 5
+e 4 b 6
+e 3 e 5 b 7
+e 6 b 9
+b 9
+0
+0
+0
+c 7 c 7 c 7
+c 6 c 6 c 8
+c 4 c 4 c 4 c 3
+c 3 c 3 c 3 c 3
+c 6 c 6 c 8
+c 5 c 5 c 7
+c 4 c 5 c 7
+c 3 c 3 c 3 c 3
+c 3 c 3 c 3 c 3
+
+columns
+e 1
+e 1 b 1
+e 1 b 1
+d 1 e 1 b 1
+d 1 e 1 b 1
+d 1 c 1 e 1 b 1
+d 1 c 1 e 1 b 1
+d 1 c 1 e 1 b 1
+d 1 c 2 e 1 b 1
+d 1 c 2 e 1
+d 1 c 2 e 1 c 3
+d 1 c 3 c 7
+d 1 c 3 c 9
+d 1 c 4 d 5 c 7
+d 1 c 3 d 3 c 5 e 1 c 3 c 2
+d 2 c 2 c 3 e 1 c 2 c 2
+d 1 c 3 c 1 e 2 c 2 c 1
+d 1 d 2 c 2 e 1 c 2
+d 2 c 1 d 2 c 2 e 1 c 1
+d 2 c 2 d 2 c 2 e 1 b 1 c 3
+d 2 c 3 d 2 c 1 e 1 b 1 c 7
+d 2 c 3 d 2 c 1 e 2 b 1 c 9
+d 2 c 3 d 2 c 1 e 1 b 2 c 7
+d 2 c 4 d 3 d 2 c 1 e 1 b 2 c 3 c 3
+d 1 c 3 d 2 c 3 d 3 e 1 b 2 c 2 c 2
+d 2 c 2 d 2 c 6 d 3 e 2 b 2 c 2 c 1
+d 1 c 3 d 2 c 8 e 1 b 3 c 2
+d 1 c 2 d 2 c 11 e 1 b 3 c 1
+d 2 c 2 d 1 c 11 e 2 b 2 c 3
+d 1 c 2 d 2 c 9 e 1 b 3 c 7
+d 1 c 2 d 1 c 8 e 2 b 3 c 9
+d 1 c 2 d 2 c 6 e 1 b 3 c 7
+d 1 c 2 d 1 c 6 e 2 b 3 c 3 c 3
+d 1 c 2 d 2 c 5 e 1 b 3 c 2 c 4
+d 1 c 1 d 1 c 5 e 2 b 3 c 2 c 5
+d 1 c 1 d 2 c 4 e 2 b 3 c 6 c 2
+d 1 c 1 d 1 c 4 e 2 b 3 c 5 c 1
+d 1 c 1 d 1 c 3 e 2 b 3 c 3
+d 1 c 1 d 1 c 2 e 2 b 3
+d 2 d 1 c 1 e 3 b 3
+d 1 d 1 c 1 e 3 b 4
+d 2 d 1 e 3 b 5
+d 1 d 1 e 4 b 5
+e 1 b 2 d 1 e 2 b 5
+e 1 b 2
+e 1 b 2 e 2
+e 1 b 1 e 1 b 2
+e 2 e 1 b 1
+e 1 e 1
+e 1 e 1

@@ -1,0 +1,52 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Apr 23, 2013"
+description "Herbie, the Love Bug that is"
+difficulty 2.0
+height 15
+id 21797
+link "https://webpbn.com/play.cgi?id=21797"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "mini #16... bug"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 15
+black 6 red 1 blue 1
+black 4 red 1 blue 1
+black 3 black 6 black 1
+black 3 black 2 black 3 black 2
+black 3 black 8 black 2
+black 2 black 8
+black 1 red 1 blue 1
+black 1 red 1 blue 1
+black 2 black 2 blue 1 black 2
+black 1 black 1
+blue 1 red 1 blue 1 black 1 blue 1 black 2
+blue 2 red 1 blue 1 blue 2 black 1 black 1
+red 1 blue 1 black 1 black 1
+black 7 black 4
+
+columns
+black 10 blue 1
+black 7 black 1 blue 2
+black 6 black 1
+black 3 black 1
+black 2 black 3 black 1 red 3 black 1
+black 2 black 4 black 1 blue 3 black 1
+black 1 black 1 black 2 red 1 black 1 black 1 black 1
+black 1 black 1 black 2 red 1 blue 2 black 1 black 1
+black 1 black 1 black 2 blue 1 black 1
+black 1 red 1 black 4 blue 1
+black 1 red 1 blue 1 black 4 black 1 blue 2
+black 1 blue 1 black 3 black 1 black 1
+black 1 black 4
+black 1 black 2 black 1 black 1
+black 1 black 3 black 3

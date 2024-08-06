@@ -1,0 +1,58 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Dec  3, 2010"
+description ""
+difficulty 1.5
+height 20
+id 11223
+link "https://webpbn.com/play.cgi?id=11223"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "We can dream."
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+red 3
+red 5
+red 6
+red 6
+red 4
+0
+red 4
+red 6
+red 8
+red 8
+red 1 red 4 red 1
+black 8
+black 8
+black 8
+black 16
+black 1 green 14
+black 1 green 14
+black 1 green 3 black 3 green 6 black 2
+black 1 green 3 black 3 green 6 black 2
+
+columns
+black 1
+black 5
+black 1 green 4
+black 1 green 4
+black 1 green 4
+black 1 green 2 black 2
+black 1 green 2 black 2
+red 3 black 4 green 2 black 2
+red 3 red 3 black 4 green 4
+red 5 red 5 black 4 green 4
+red 5 red 5 black 4 green 4
+red 5 red 5 black 4 green 4
+red 4 red 5 black 4 green 4
+red 2 red 3 black 4 green 4
+red 3 black 4 green 2 black 2
+black 1 green 2 black 2

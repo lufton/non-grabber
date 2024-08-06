@@ -1,0 +1,58 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Yonah Kondor"
+date "Feb  7, 2023"
+description "No, pets step on! ;)"
+difficulty 1.5
+height 20
+id 36421
+link "https://webpbn.com/play.cgi?id=36421"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Palindrome #13b"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 1 red 2
+red 1 red 2
+red 2
+red 3 red 2
+red 4 red 2 red 2
+red 5 red 2 red 2
+red 5 red 2 red 2
+red 1 red 2 red 2 red 3 red 2
+red 5
+red 7
+red 7
+red 2 red 2
+black 2
+blue 2
+black 2
+blue 2 green 1
+black 1 blue 4 black 2 green 2
+black 1 red 5 blue 4 black 3 green 2
+black 1 red 5 blue 4 black 3 green 2
+
+columns
+red 2 red 5 black 3
+red 4 red 2
+red 2 red 5 red 2
+red 2 red 4 red 2
+red 2 red 2 red 2
+red 2 red 2
+red 2 blue 3
+red 2 red 2 blue 3
+red 2 red 4 black 1 blue 4
+red 2 red 5 black 1 blue 1 black 1 blue 4
+red 4 black 1 blue 1 black 2
+red 2 red 5 black 3
+red 2 red 4 black 3
+red 2 red 2 green 4
+red 2 green 3

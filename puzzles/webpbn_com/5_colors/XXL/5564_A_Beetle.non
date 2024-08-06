@@ -1,0 +1,123 @@
+by "MMD (mmd)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by MMD"
+date "Apr  9, 2009"
+description "A blue Volkswagen Beetle with two green passangers"
+difficulty 2.25
+height 35
+id 5564
+link "https://webpbn.com/play.cgi?id=5564"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "A Beetle"
+width 65
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+blue 16
+blue 20
+blue 3 blue 1 blue 5
+blue 3 blue 1 blue 2 blue 2
+blue 3 blue 1 blue 1 blue 2
+blue 3 blue 1 blue 1 blue 1
+blue 3 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 2
+blue 3 blue 1 blue 1 blue 1
+blue 3 green 2 blue 1 green 2 blue 1 black 1 blue 2
+blue 3 green 4 blue 1 green 4 blue 1 black 2 blue 2
+blue 3 green 4 blue 1 green 4 blue 1 black 2 blue 1
+blue 4 black 13 blue 1 black 14 blue 7
+blue 5 black 1 blue 12 black 1 blue 1 black 1 blue 12 black 1 blue 14
+blue 7 black 1 blue 1 black 2 blue 9 black 1 blue 1 black 1 blue 1 black 2 blue 9 black 2 blue 14
+blue 8 black 1 blue 12 black 1 blue 1 black 1 blue 13 black 1 blue 15
+blue 9 black 1 blue 12 black 1 blue 1 black 1 blue 13 black 1 blue 17
+blue 10 black 1 blue 12 black 1 blue 1 black 1 blue 13 black 1 blue 19 black 1 red 1
+blue 10 black 2 blue 11 black 1 blue 1 black 1 blue 13 black 1 blue 18 black 2 red 1
+red 1 black 2 blue 10 black 2 blue 10 black 1 blue 1 black 1 blue 13 black 1 blue 18 black 2 red 1
+red 1 black 2 blue 11 black 2 blue 9 black 1 blue 1 black 1 blue 13 black 1 blue 19 black 1 red 1
+red 1 black 2 blue 4 black 6 blue 2 black 2 blue 8 black 1 blue 1 black 1 blue 13 black 1 blue 7 black 6 blue 8
+red 1 black 2 blue 3 black 8 blue 2 black 2 blue 7 black 1 blue 1 black 1 blue 13 black 1 blue 6 black 8 blue 7
+blue 4 black 10 blue 2 black 1 blue 7 black 1 blue 1 black 1 blue 13 black 1 blue 5 black 10 blue 4 black 3
+black 2 blue 4 black 3 black 3 blue 2 black 2 blue 6 black 1 blue 1 black 1 blue 13 black 1 blue 4 black 4 black 4 blue 3 black 3
+black 3 blue 2 black 3 black 3 blue 2 black 1 blue 6 black 1 blue 1 black 1 blue 13 black 1 blue 4 black 3 black 3 blue 2 black 4
+black 3 blue 2 black 3 black 2 black 3 blue 2 black 8 blue 1 black 15 blue 4 black 3 black 2 black 3 blue 2 black 4
+black 3 blue 2 black 3 black 2 black 3 blue 30 black 3 black 2 black 3 blue 3 black 3
+black 3 blue 2 black 3 black 3 blue 30 black 3 black 3 blue 3
+black 3 black 3 black 3 black 3
+black 10 black 10
+black 8 black 8
+black 4 black 4
+
+columns
+black 5
+red 4 black 5
+black 4 blue 2 black 4
+blue 2 black 4 blue 6
+blue 13
+blue 10 black 4
+blue 9 black 8
+blue 8 black 10
+blue 8 black 4 black 3
+blue 8 black 3 black 3
+blue 9 black 3 black 2 black 3
+blue 11 black 3 black 2 black 3
+blue 13 black 3 black 3
+blue 7 black 6 blue 2 black 4 black 3
+blue 5 green 2 black 1 blue 5 black 2 blue 2 black 10
+blue 3 green 3 black 1 blue 1 black 1 blue 4 black 2 blue 2 black 8
+blue 3 green 3 black 1 blue 1 black 1 blue 5 black 2 blue 3 black 4
+blue 2 green 2 black 1 blue 8 black 2 blue 6
+blue 2 black 1 blue 9 black 3 blue 4
+blue 1 black 1 blue 11 black 3 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 1 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 2 black 15 blue 2
+blue 29
+blue 2 black 15 blue 2
+blue 2 green 2 black 1 blue 13 black 1 blue 2
+blue 2 green 3 black 1 blue 1 black 1 blue 11 black 1 blue 2
+blue 2 green 3 black 1 blue 1 black 1 blue 11 black 1 blue 2
+blue 2 green 2 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 2 black 1 blue 13 black 1 blue 2
+blue 3 black 1 blue 13 black 1 blue 2
+blue 11 black 1 blue 13 black 1 blue 2
+blue 3 black 2 blue 13 black 1 blue 2
+blue 1 black 3 blue 13 black 1 blue 2
+blue 3 black 2 black 3 blue 11 black 1 blue 2
+blue 5 blue 2 black 13 blue 2
+blue 4 blue 17
+blue 2 blue 17
+blue 19
+blue 17
+blue 12 black 5
+blue 11 black 8
+blue 9 black 10
+blue 8 black 4 black 3
+blue 8 black 3 black 3
+blue 8 black 3 black 2 black 3
+blue 8 black 3 black 2 black 3
+blue 8 black 3 black 3
+blue 8 black 4 black 3
+blue 8 black 10
+blue 8 black 8
+blue 8 black 5
+blue 13
+blue 12
+blue 1 black 2 blue 5 black 2 blue 2
+black 4 blue 2 black 5
+red 4 blue 2 black 5
+black 5

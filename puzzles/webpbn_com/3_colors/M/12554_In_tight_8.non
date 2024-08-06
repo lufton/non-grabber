@@ -1,0 +1,61 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar  4, 2011"
+description "A person coming down to the Big Red Balls on Wipeout! I know this was easy, but this is what we are watching and I could not help myself."
+difficulty 1.25
+height 20
+id 12554
+link "https://webpbn.com/play.cgi?id=12554"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "In tight #8"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 6 red 9
+black 5 red 13
+black 4 red 14
+black 3 red 14
+black 1 red 16
+red 17
+red 17
+red 18
+red 19
+red 19
+red 19
+red 19
+red 19
+red 18
+red 18
+red 18
+red 17
+red 16
+red 16
+
+columns
+black 3
+black 4 red 5
+black 6 red 9
+black 5 red 12
+black 3 red 15
+black 2 red 15
+red 17
+red 18
+red 18
+red 18
+red 19
+red 19
+red 19
+red 19
+red 19
+red 19
+red 19
+red 19
+red 19
+red 18

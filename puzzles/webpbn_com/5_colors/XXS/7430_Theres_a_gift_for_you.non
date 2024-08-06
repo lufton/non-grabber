@@ -1,0 +1,33 @@
+by "Fran (rmm)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Fran"
+date "Dec 17, 2009"
+description "A tiny Christmas tree :)"
+difficulty 1.25
+height 5
+id 7430
+link "https://webpbn.com/play.cgi?id=7430"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "There's a gift for you!"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+blue 1 green 1
+green 1 blue 1 green 1
+green 4
+black 1 red 2
+
+columns
+green 1 blue 1 green 2 black 1
+green 1 blue 1 green 1
+green 2 red 1
+green 1 red 1
+0

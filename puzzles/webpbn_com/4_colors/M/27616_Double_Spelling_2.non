@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 27616
+link "https://webpbn.com/play.cgi?id=27616"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Double Spelling 2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1 red 1 red 1
+red 2 red 1 red 2 red 2
+red 4 blue 3 red 1
+red 3 blue 2 blue 2 red 1
+red 1 blue 1 blue 1 red 1
+red 1 blue 2 blue 1 red 1
+red 4 red 1 blue 1 blue 1
+red 5 blue 2 blue 1
+red 6 blue 1 blue 2
+black 4 red 6 blue 1 red 2 blue 1
+red 13 blue 1
+black 4 red 6 blue 1 black 2 blue 1
+red 6 blue 1 black 1 blue 1
+red 5 blue 1 black 2 blue 1
+blue 1 blue 1
+blue 2 blue 1
+blue 1 blue 2
+blue 2 blue 1
+blue 2 blue 2
+blue 4
+
+columns
+black 1 black 1
+red 1 black 1 black 1 red 1
+red 2 black 1 black 1 red 2
+red 3 black 1 black 1 red 2
+red 4 red 3
+red 7
+red 6
+red 5
+red 4
+red 2 red 3
+red 3 red 1
+red 5 blue 3 red 1 blue 5
+red 4 blue 3 red 1 blue 3
+red 1 blue 3 red 1 blue 2
+blue 2 red 2 blue 2
+red 1 blue 1 red 2 blue 1
+red 2 blue 2 red 1 black 1 black 1 blue 1
+blue 3 red 1 black 3 blue 2
+red 5 blue 3 blue 3
+red 2 blue 9

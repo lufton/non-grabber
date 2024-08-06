@@ -1,0 +1,62 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Apr  7, 2023"
+description "Inspired when #10869 popped up in the daily puzzles."
+difficulty 2.5
+height 25
+id 36665
+link "https://webpbn.com/play.cgi?id=36665"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.25
+title "A prophet of sorts, reviled in his own time"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+black 5 black 5
+black 1 blue 1 blue 1 black 1
+green 3 green 3
+green 1 black 3 green 1 green 1 black 3 green 1
+green 1 black 3 green 1 green 1 black 3 green 1
+green 1 black 3 green 1 green 1 black 3 green 1
+green 3 green 3
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 2
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 2 blue 2 blue 1
+blue 1 blue 2 blue 2 blue 1
+blue 1 blue 3 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 6
+
+columns
+black 1
+black 1 green 3
+black 1 green 1 black 3 green 1
+blue 1 black 1 blue 1 green 1 black 3 green 1 blue 12
+blue 2 black 1 green 1 black 3 green 1 blue 2
+blue 2 black 1 green 3 blue 7 blue 2
+blue 2 blue 2 blue 1
+blue 1 blue 2 blue 1
+blue 2 blue 1 blue 1
+blue 2 black 1 green 3 blue 2 blue 1
+blue 2 black 1 green 1 black 3 green 1 blue 2 blue 2
+blue 1 black 1 green 1 black 3 green 1 blue 9 blue 2
+black 1 blue 1 green 1 black 3 green 1 blue 2
+black 1 green 3 blue 5
+black 1 blue 3

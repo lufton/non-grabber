@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Jul 10, 2021"
+description "Can you name the game?"
+difficulty 1.25
+height 20
+id 35219
+link "https://webpbn.com/play.cgi?id=35219"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Board game tokens 6"
+width 20
+
+rows
+1
+1
+3
+1,1
+2,2
+2,1
+3,3
+7
+9
+9
+11
+11
+13
+13
+15
+1,6,2
+1,2,6,1,2
+1,2,9,2
+2,9,3
+19
+
+columns
+2
+4
+2,1
+3,2,1
+5,2,1
+7,2
+14
+16
+18
+3,13
+3,14
+16
+9,3
+7,4
+5,1,1
+4,1
+6
+4
+2
+0

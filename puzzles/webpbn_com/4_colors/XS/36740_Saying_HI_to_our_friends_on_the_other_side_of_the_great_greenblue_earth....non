@@ -1,0 +1,40 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr 24, 2023"
+description ""
+difficulty 1.0
+height 11
+id 36740
+link "https://webpbn.com/play.cgi?id=36740"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Saying "HI" to our friends on the other side of the great green/blue earth..."
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 blue 3
+black 2
+blue 2
+blue 2
+blue 2 black 1
+green 3
+green 4
+green 1 green 2
+green 1 black 2
+black 1 black 2
+0
+
+columns
+green 1
+green 1 green 2 black 1
+green 1 green 1
+green 1 black 1 blue 3 green 3 black 2
+blue 1 black 1 blue 3 green 3 black 2
+blue 1 black 1 green 2
+blue 1

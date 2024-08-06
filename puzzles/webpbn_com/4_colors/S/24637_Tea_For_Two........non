@@ -1,0 +1,52 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "May 30, 2014"
+description "I don't think that's what Irving Ceasar had in mind."
+difficulty 1.5
+height 15
+id 24637
+link "https://webpbn.com/play.cgi?id=24637"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Tea For Two......."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 green 3
+blue 4 blue 4
+black 3 black 3
+black 4 black 4
+black 3 black 3
+black 1 black 1
+blue 7
+blue 9
+blue 3 green 5 blue 3
+black 1 blue 4 green 1 blue 1 green 1 blue 1 green 1 blue 4 black 1
+black 1 blue 2 blue 3 green 1 blue 3 blue 2 black 1
+blue 3 green 1 blue 3
+blue 2 green 3 blue 2
+blue 7
+blue 7
+
+columns
+black 2
+blue 2
+blue 3
+blue 1 black 1 blue 3
+green 1 blue 1 black 3 blue 9
+green 1 blue 1 black 4 blue 2 green 2 blue 5
+green 1 blue 1 black 3 blue 2 green 1 blue 3 green 1 blue 2
+blue 2 green 5 blue 2
+green 1 blue 1 black 3 blue 2 green 1 blue 3 green 1 blue 2
+green 1 blue 1 black 4 blue 2 green 2 blue 5
+green 1 blue 1 black 3 blue 9
+blue 1 black 1 blue 3
+blue 3
+blue 2
+black 2

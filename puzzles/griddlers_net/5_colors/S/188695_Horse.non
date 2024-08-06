@@ -1,0 +1,45 @@
+by "paikea"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/10/18"
+height 12
+id 188695
+link "https://www.griddlers.net/nonogram/-/g/188695"
+medium_time "0:01:22"
+points 73
+popularity 59.71
+title "Horse"
+width 11
+
+color a 33CCFF
+color b FFCC99
+color d FFFFCC
+color e CC9933
+color g 333300
+
+rows
+b 1 e 1
+d 2 b 1 e 1 d 1
+d 3 e 3 d 1
+d 4 e 4
+d 4 e 2 g 1 e 2
+d 3 e 8
+d 2 e 9
+d 1 e 10
+e 8
+e 7
+e 6
+e 5
+
+columns
+d 5 e 4
+d 5 e 5
+d 5 e 6
+d 4 e 7
+b 2 e 10
+e 11
+d 1 e 2 g 1 e 5
+d 1 e 6
+e 4
+e 3
+e 3

@@ -1,0 +1,72 @@
+by "Kaarina112"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/7/15"
+height 25
+id 153813
+link "https://www.griddlers.net/nonogram/-/g/153813"
+medium_time "0:14:47"
+points 20272
+popularity 77.05
+title "Tic-Tac-Toe"
+width 25
+
+color a ffffff
+color b 000000
+color c 990033
+color d 009900
+color e 003366
+
+rows
+b 22 e 3
+b 1 d 3 b 1 c 3 b 1 c 3 e 4
+b 1 d 4 b 1 c 4 b 1 c 3 e 5
+b 1 d 2 b 3 b 1 c 2 b 1 c 1 b 1 b 1 c 2 e 5 b 1
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 c 2 b 1 c 2 b 1 e 5 b 1
+b 1 b 3 d 2 b 1 b 1 c 1 b 1 c 2 b 1 e 5 c 2 b 1
+b 1 d 4 b 1 c 4 e 5 c 3 b 1
+b 1 d 3 b 1 c 2 e 5 c 3 b 1
+b 14 e 5 b 6
+b 1 d 3 b 1 c 3 e 5 d 2 b 1
+b 1 d 4 b 1 c 3 e 5 d 4 b 1
+b 1 d 2 b 3 b 1 c 2 e 5 b 1 d 2 b 3 b 1
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 e 5 b 1 d 1 b 1 d 1 b 1 d 1 b 1
+b 1 b 3 d 2 b 1 e 5 c 2 b 1 b 3 d 2 b 1
+b 1 d 4 e 5 c 3 b 1 d 4 b 1
+b 1 d 2 e 5 c 3 b 1 d 3 b 1
+b 6 e 5 b 14
+b 1 c 3 e 5 d 2 b 1 c 3 b 1
+b 1 c 3 e 5 d 4 b 1 c 4 b 1
+b 1 c 2 e 5 b 1 d 2 b 3 b 1 c 2 b 1 c 1 b 1 b 1
+b 1 e 5 b 1 d 1 b 1 d 1 b 1 d 1 b 1 c 2 b 1 c 2 b 1
+b 1 e 5 c 2 b 1 b 3 d 2 b 1 b 1 c 1 b 1 c 2 b 1
+e 5 c 3 b 1 d 4 b 1 c 4 b 1
+e 4 c 3 b 1 d 3 b 1 c 3 b 1
+e 3 b 22
+
+columns
+b 22 e 3
+b 1 d 3 b 1 d 3 b 1 c 3 e 4
+b 1 d 4 b 1 d 4 b 1 c 3 e 5
+b 1 d 2 b 3 b 1 d 2 b 3 b 1 c 2 e 5 b 1
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 1 b 1 e 5 b 1
+b 1 b 3 d 2 b 1 b 3 d 2 b 1 e 5 c 2 b 1
+b 1 d 4 b 1 d 4 e 5 c 3 b 1
+b 1 d 3 b 1 d 2 e 5 c 3 b 1
+b 14 e 5 b 6
+b 1 c 3 b 1 c 3 e 5 d 2 b 1
+b 1 c 4 b 1 c 3 e 5 d 4 b 1
+b 1 c 2 b 1 c 1 b 1 b 1 c 2 e 5 b 1 d 2 b 3 b 1
+b 1 c 2 b 1 c 2 b 1 e 5 b 1 d 1 b 1 d 1 b 1 d 1 b 1
+b 1 b 1 c 1 b 1 c 2 b 1 e 5 c 2 b 1 b 3 d 2 b 1
+b 1 c 4 e 5 c 3 b 1 d 4 b 1
+b 1 c 2 e 5 c 3 b 1 d 3 b 1
+b 6 e 5 b 14
+b 1 c 3 e 5 d 2 b 1 c 3 b 1
+b 1 c 3 e 5 d 4 b 1 c 4 b 1
+b 1 c 2 e 5 b 1 d 2 b 3 b 1 c 2 b 1 c 1 b 1 b 1
+b 1 e 5 b 1 d 1 b 1 d 1 b 1 d 1 b 1 c 2 b 1 c 2 b 1
+b 1 e 5 c 2 b 1 b 3 d 2 b 1 b 1 c 1 b 1 c 2 b 1
+e 5 c 3 b 1 d 4 b 1 c 4 b 1
+e 4 c 3 b 1 d 3 b 1 c 3 b 1
+e 3 b 22

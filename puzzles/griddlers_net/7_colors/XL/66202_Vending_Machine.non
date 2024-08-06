@@ -1,0 +1,95 @@
+by "arcadedweller"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/10/08"
+height 41
+id 66202
+link "https://www.griddlers.net/nonogram/-/g/66202"
+medium_time "0:17:00"
+points 17542
+popularity 75.42
+title "Vending Machine"
+width 30
+
+color a 000000
+color b ffffff
+color c ffcc00
+color d 999999
+color e ff0033
+color f 0000ff
+color g 999900
+
+rows
+b 1 b 1
+b 1 b 1
+b 1 b 18 b 5 b 1
+b 1 b 1 e 4 b 13 b 1 b 1 b 1
+b 1 b 1 e 4 b 2 f 4 b 3 c 3 b 1 b 1 d 1 b 1 b 1
+b 1 b 1 e 4 b 2 f 4 b 3 c 3 b 1 b 1 b 1 b 1
+b 1 b 1 e 4 b 2 f 4 b 3 c 3 b 1 b 1 b 1 b 1
+b 1 d 2 d 2 d 2 b 5 b 1
+b 1 b 1 d 3 b 1 b 1
+b 1 b 18 b 1 c 1 c 1 b 1 b 1
+b 1 b 13 e 5 b 1 c 1 b 1 b 1
+b 1 b 1 c 4 b 2 c 4 b 2 e 5 b 1 c 1 c 1 b 1 b 1
+b 1 b 1 c 4 b 2 c 4 b 2 e 5 b 1 c 1 b 1 b 1
+b 1 d 2 d 2 d 2 b 1 d 3 b 1 b 1
+b 1 b 5 b 1
+b 1 b 1 e 3 b 14 b 1
+b 1 b 1 e 3 b 2 f 4 b 2 e 2 b 1 e 2 b 1 b 1
+b 1 b 1 e 3 b 2 f 4 b 2 e 2 b 1 e 2 b 1 d 3 b 1
+b 1 d 2 d 2 d 2 d 2 c 1 d 3 c 1 b 1
+b 1 c 1 d 3 c 1 b 1
+b 1 b 6 c 4 b 2 e 1 g 3 e 1 b 1 c 1 d 3 c 1 b 1
+b 1 b 1 g 4 b 1 c 4 b 2 e 1 g 3 e 1 b 1 c 1 d 3 c 1 b 1
+b 1 b 1 g 1 e 2 g 1 b 1 c 4 b 2 e 1 g 3 e 1 b 1 c 1 d 3 c 1 b 1
+b 1 d 2 d 2 d 2 c 1 d 3 c 1 b 1
+b 1 c 1 d 3 c 1 b 1
+b 1 b 18 c 1 d 3 c 1 b 1
+b 1 b 18 c 1 d 3 c 1 b 1
+b 1 b 1 c 2 b 1 e 2 b 2 c 2 b 1 g 2 b 2 f 2 b 1 c 1 d 3 c 1 b 1
+b 1 d 2 d 2 d 2 d 2 d 2 d 3 b 1
+b 1 b 1
+b 1 b 1
+b 1 c 2 d 16 c 2 b 1
+b 1 c 2 d 16 c 2 b 1
+b 1 c 2 d 16 c 2 b 1
+b 1 c 2 d 16 c 2 b 1
+b 1 c 2 d 16 c 2 b 1
+b 1 b 1
+b 1 b 1
+b 1 c 24 b 1
+b 1 b 1
+0
+
+columns
+b 40
+0
+0
+b 5 b 4 b 3 b 3 b 3 c 5 c 1
+b 1 e 4 b 2 c 2 e 3 d 1 b 1 g 2 b 2 c 1 d 1 c 5 c 1
+b 1 e 4 d 1 b 2 c 2 d 1 e 3 d 1 b 1 g 1 e 1 d 1 b 2 c 1 d 1 c 1
+b 1 e 4 d 1 b 2 c 2 d 1 e 3 b 1 g 1 e 1 d 1 b 3 c 1
+b 1 e 4 b 2 c 2 b 3 b 1 g 2 b 2 e 1 d 1 d 5 c 1
+b 5 b 4 b 3 b 3 b 2 e 1 d 1 d 5 c 1
+b 5 b 4 b 1 f 2 c 3 b 3 d 5 c 1
+b 2 f 3 b 2 c 2 b 1 f 2 d 1 c 3 d 1 b 3 d 5 c 1
+b 2 f 3 d 1 b 2 c 2 d 1 b 1 f 2 d 1 c 3 d 1 b 2 c 1 d 1 d 5 c 1
+b 2 f 3 d 1 b 2 c 2 d 1 b 1 f 2 c 3 b 2 c 1 d 1 d 5 c 1
+b 2 f 3 b 2 c 2 b 3 b 3 b 3 d 5 c 1
+b 5 b 4 b 3 b 3 b 2 g 1 d 1 d 5 c 1
+b 5 b 4 b 1 e 2 d 1 e 3 b 2 g 1 d 1 d 5 c 1
+b 5 b 1 e 3 b 1 e 2 d 1 g 3 b 3 d 5 c 1
+b 2 c 3 b 1 e 3 b 3 g 3 d 1 b 3 d 5 c 1
+b 2 c 3 d 1 b 1 e 3 d 1 b 1 e 2 d 1 g 3 d 1 b 2 f 1 d 1 d 5 c 1
+b 2 c 3 d 1 b 1 e 3 d 1 b 1 e 2 d 1 e 3 b 2 f 1 d 1 d 5 c 1
+b 5 b 1 e 3 b 3 b 3 b 3 d 5 c 1
+d 5 c 1
+b 13 c 10 d 5 c 1
+b 1 b 1 d 1 c 1 c 1 d 1 b 1 d 12 c 1
+b 1 d 1 b 1 d 1 c 1 c 1 d 1 b 1 d 12 c 1
+b 1 b 1 d 1 c 1 c 1 d 1 b 1 d 12 c 5 c 1
+b 13 c 10 c 5 c 1
+0
+0
+b 40

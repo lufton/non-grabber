@@ -1,0 +1,62 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jota"
+date "Mar 28, 2011"
+description "Pierre the Rooster and Ninu the Mousie are chatting on Skype. New valuable information will come out of this."
+difficulty 1.5
+height 20
+id 13070
+link "https://webpbn.com/play.cgi?id=13070"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Skyping?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 13
+blue 1 red 1 red 1 red 1 blue 1
+blue 1 black 1 red 4 blue 1
+blue 1 black 5 blue 1
+blue 1 black 1 black 4 blue 1
+blue 1 black 7 blue 1
+blue 1 red 2 black 3 blue 1
+blue 1 red 1 black 3 black 1 blue 1
+black 2 black 2 blue 1 red 1 black 4 black 3 blue 1
+black 3 blue 1 black 10
+black 3 blue 13
+black 1 blue 13
+black 3 blue 12
+black 3 blue 4
+black 3 blue 4
+black 3 black 13
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1
+black 3 black 1
+
+columns
+0
+black 1 black 2
+black 3 black 4 black 1
+black 11
+black 3 black 4
+black 1
+0
+blue 12 black 5
+blue 1 black 1 blue 3 black 1
+blue 1 black 3 red 3 blue 3 black 1
+blue 1 red 1 black 2 black 1 red 1 black 1 blue 3 black 1
+blue 1 red 1 black 7 blue 3 black 1
+blue 1 red 2 black 7 blue 5 black 1
+blue 1 red 1 black 7 blue 5 black 1
+blue 1 red 2 black 2 black 2 blue 5 black 1
+blue 1 black 1 blue 5 black 1
+blue 1 black 2 blue 3 black 1
+blue 1 black 3 blue 3 black 1
+blue 1 black 2 blue 3 black 1
+blue 9 black 1 blue 3 black 1

@@ -1,0 +1,62 @@
+by "nancy hilfender ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by nancy hilfender"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 20
+id 25875
+link "https://webpbn.com/play.cgi?id=25875"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Tabitha the _______"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+red 1 red 1
+black 2 red 4
+black 1 blue 1 red 2 blue 1 red 1
+red 2 black 2 red 2
+red 1 black 1 red 2 black 1 red 1
+red 2 black 2 red 2
+red 4
+black 1 red 5
+black 2 black 2 red 3 black 1 red 2
+red 1 black 1 red 6 black 2 red 2 black 2
+red 4 black 1 red 4 black 1 red 2 black 2
+red 4 black 2 red 8
+black 2 red 4 black 1 red 2 black 2 red 7
+black 3 red 2 red 2 black 2 red 1 black 1 red 3
+black 1 red 4 black 3 red 2
+0
+
+columns
+0
+black 3
+black 2 red 1
+red 4 black 1 red 1
+black 2 red 5
+black 1 red 6
+red 4
+red 1 black 2 red 3 black 2 red 1 black 3
+black 1 blue 1 red 1 black 1 red 3 black 1 red 2 black 1 red 2
+red 2 black 1 red 1 black 1 red 8
+red 2 black 1 red 1 black 1 red 6 black 2
+red 1 blue 1 red 1 black 1 red 4 black 1 red 2 black 2
+red 6 red 1 black 3 red 2
+red 4
+red 6 black 1
+red 1 black 2 red 2 black 2
+black 2 red 3 black 1
+red 3
+red 3
+0

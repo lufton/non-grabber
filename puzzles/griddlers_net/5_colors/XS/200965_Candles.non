@@ -1,0 +1,47 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/1/19"
+height 20
+id 200965
+link "https://www.griddlers.net/nonogram/-/g/200965"
+medium_time "0:00:33"
+points 86
+popularity 63.65
+title "Candles"
+width 5
+
+color a 9999ff
+color e cc9900
+color f 000000
+color g ffffff
+color h ff9933
+
+rows
+h 1 h 1 h 1
+f 1 f 1 f 1
+g 1 g 1 g 1
+g 1 g 1 g 1
+g 1 g 1 g 1
+g 1 g 1 g 1
+g 1 g 1 g 1
+g 1 g 1 g 1
+e 5
+e 5
+e 3
+e 1
+e 1
+e 1
+e 3
+e 1
+e 1
+e 3
+e 5
+e 5
+
+columns
+h 1 f 1 g 6 e 2 e 2
+e 3 e 1 e 3
+h 1 f 1 g 6 e 12
+e 3 e 1 e 3
+h 1 f 1 g 6 e 2 e 2

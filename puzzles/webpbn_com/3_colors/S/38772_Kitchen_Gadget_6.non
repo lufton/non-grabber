@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Jul 20, 2024"
+description "Cherry pitter"
+difficulty 1.25
+height 10
+id 38772
+link "https://webpbn.com/play.cgi?id=38772"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Kitchen Gadget #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 10
+red 17
+red 11 black 1
+red 6 black 1
+red 2 red 1 black 1
+red 20
+red 19
+red 5
+red 3
+black 1
+
+columns
+red 3
+red 5
+red 2 red 2
+red 6
+red 3 red 2
+red 3 red 2
+red 2 red 2
+red 2 red 2
+red 2 red 2
+red 3 red 2
+red 3 red 2
+red 3 red 2
+red 2 red 2
+red 2 red 2
+red 2 red 3
+red 2 red 4
+red 2 black 3 red 4 black 1
+red 2 red 4
+red 2 red 3
+red 1 red 2

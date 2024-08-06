@@ -1,0 +1,61 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Sep 16, 2016"
+description "a red cat pattern"
+difficulty 2.5
+height 20
+id 28762
+link "https://webpbn.com/play.cgi?id=28762"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "swirly!"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3 green 1 black 2 green 4 black 1 green 1
+green 1 black 3 black 1 black 2
+black 1 black 3 black 2 black 2
+green 1 black 1 black 3 black 1 black 5
+green 1 black 4 black 1 black 5 black 2
+green 1 black 4 black 1 black 3 black 4
+green 1 black 3 black 1 black 1 black 4
+black 1 black 4 black 2 black 2 black 1 black 1
+black 5 black 2 black 3
+green 1 black 2
+black 2 green 1
+black 3 black 2 black 5
+black 1 black 1 black 2 black 2 black 4 black 1
+black 4 black 1 black 1 black 3 green 1
+black 4 black 3 black 1 black 4 green 1
+black 2 black 5 black 1 black 4 green 1
+black 5 black 1 black 3 black 1 green 1
+black 2 black 2 black 3 black 1
+black 2 black 1 black 3 green 1
+green 1 black 1 green 4 black 2 green 1 black 3
+
+columns
+green 1 black 1 green 4 black 2 green 1 black 3
+black 2 black 1 black 3 green 1
+black 2 black 2 black 3 black 1
+black 5 black 1 black 3 black 1 green 1
+black 2 black 5 black 1 black 4 green 1
+black 4 black 3 black 1 black 4 green 1
+black 4 black 1 black 1 black 3 green 1
+black 1 black 1 black 2 black 2 black 4 black 1
+black 3 black 2 black 5
+black 2 green 1
+green 1 black 2
+black 5 black 2 black 3
+black 1 black 4 black 2 black 2 black 1 black 1
+green 1 black 3 black 1 black 1 black 4
+green 1 black 4 black 1 black 3 black 4
+green 1 black 4 black 1 black 5 black 2
+green 1 black 1 black 3 black 1 black 5
+black 1 black 3 black 2 black 2
+green 1 black 3 black 1 black 2
+black 3 green 1 black 2 green 4 black 1 green 1

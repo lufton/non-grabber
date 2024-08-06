@@ -1,0 +1,57 @@
+by "Eludwar (elfluvsdwarf)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Eludwar"
+date "Jul 11, 2009"
+description "It's a baby turtle eating a clover. :)"
+difficulty 2.5
+height 15
+id 6285
+link "https://webpbn.com/play.cgi?id=6285"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "doodily animals 0.1"
+width 25
+
+rows
+5
+2,2
+2,2,2,6
+1,2,1,8
+1,2,2,3,3
+2,1,5,3,3
+2,2,14
+4,4,2,3,3
+2,3,2,3,5
+2,16
+2,2,2,7,1,1
+5,2,1,1,1
+3,1,8,1
+1,2,1,2,1
+1,3,3
+
+columns
+4
+2,2,2
+2,2,3
+1,2,1,4
+1,2,1,3
+1,3,2
+2,2,2
+2,2
+3,3,2
+6,3
+5,2
+4,1,1,1
+4,3,3
+2,6,1
+3,2,2,1
+5,3,1
+9,1
+2,6,1
+3,2,2,1
+4,2,2
+6,1,2
+5,1
+8
+2
+2

@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jun  5, 2011"
+description "Another easy one. And the puzzle was easy too, or was it too easy too?"
+difficulty 1.25
+height 20
+id 14352
+link "https://webpbn.com/play.cgi?id=14352"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Star Trek image 4"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+red 3 red 3 red 3
+red 3 red 3 red 3
+red 3 red 3 red 3
+red 3 red 3 red 3
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+
+columns
+0
+red 4
+black 4 red 4 black 12
+red 4
+0
+0
+red 4
+black 4 red 4 black 12
+red 4
+0
+0
+red 4
+black 4 red 4 black 12
+red 4
+0

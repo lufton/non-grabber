@@ -1,0 +1,63 @@
+by "kwanlu (kwanlu)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by kwanlu"
+date "Feb  6, 2012"
+description "cup of (green) T! (With a bit of Cubist perspective.)"
+difficulty 2.5
+height 20
+id 17471
+link "https://webpbn.com/play.cgi?id=17471"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Just my..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 10
+black 10
+black 2
+black 2 blue 3
+blue 4 black 2 blue 3 blue 5
+blue 1 green 1 black 2 green 1 blue 3 blue 1
+blue 1 green 1 green 1 black 2 green 2 blue 3 blue 1
+blue 1 green 1 green 1 black 2 green 2 blue 2 blue 1
+blue 2 green 2 black 2 green 1 blue 2 blue 1
+blue 1 blue 1 black 2 green 1 blue 2 blue 1
+blue 1 blue 8 blue 1 blue 1
+blue 1 blue 2 blue 1
+blue 1 red 1 red 1 red 1 red 1 red 1 blue 2 blue 1
+blue 1 red 1 red 1 red 2 red 1 blue 6
+blue 1 blue 1 blue 3
+blue 7
+0
+0
+
+columns
+0
+0
+0
+blue 7
+blue 1 blue 1 red 1 blue 1
+black 2 blue 1 green 1 blue 1 red 1 blue 1
+black 2 blue 1 green 1 green 1 blue 1 red 1 blue 1
+black 2 blue 1 green 1 green 2 blue 1 red 1 blue 1
+black 2 blue 1 green 1 blue 1 red 1 blue 1
+black 10 blue 1 red 1 blue 1
+black 10 blue 1 red 1 blue 1
+black 2 blue 1 green 1 green 1 blue 1 red 1 blue 1
+black 2 blue 1 green 2 green 1 blue 1 red 1 blue 1
+black 2 blue 1 green 2 blue 1 red 1 blue 1
+black 2 blue 5 blue 1
+blue 10
+blue 4 blue 4
+blue 2 blue 2
+blue 2 blue 2
+blue 10

@@ -1,0 +1,116 @@
+by "aga0211p"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/15/15"
+height 45
+id 154290
+link "https://www.griddlers.net/nonogram/-/g/154290"
+medium_time "0:39:59"
+points 56158
+popularity 76.44
+title "Devil"
+width 46
+
+color a ffffff
+color b 000000
+color c ffcc33
+color d ff0000
+color e 990000
+color f ff66cc
+color g ffccff
+color h ff6666
+
+rows
+b 1 b 1
+b 2 b 2 b 1
+b 3 b 3 b 2
+b 2 c 1 b 1 b 2 c 1 b 1 b 2
+b 2 c 2 b 1 b 7 b 1 c 2 b 1 b 4
+b 1 c 3 b 1 b 3 d 5 b 3 c 2 b 1 b 2 e 1 b 1
+b 1 c 3 b 3 h 3 d 5 b 2 c 2 b 1 b 3 e 1 b 2
+b 2 c 3 b 1 h 3 d 4 b 3 c 3 b 1 b 1 e 1 b 1 e 2 b 1
+b 2 c 1 b 2 h 2 d 4 b 2 c 4 b 2 b 1 e 1 b 1 e 2 b 2
+b 3 h 2 d 2 b 1 d 2 b 1 c 4 b 4 b 2 e 1 b 1 e 3 b 1
+b 2 d 5 b 3 d 1 b 2 c 2 b 2 d 2 b 2 b 1 e 2 b 1 e 3 b 2
+b 3 d 3 b 4 d 2 b 4 d 4 b 1 b 1 e 2 b 1 e 4 b 2
+b 7 d 12 b 2 b 1 e 2 b 1 e 5 b 1
+b 1 b 2 b 1 d 12 b 3 e 2 b 2 e 4 b 2
+b 3 b 1 d 12 b 1 e 4 b 1 e 5 b 2
+b 3 b 2 b 1 d 12 b 1 e 4 b 1 e 6 b 2
+b 2 b 2 b 1 d 12 b 1 e 4 b 1 e 7 b 2
+b 6 b 1 d 13 b 2 e 3 b 1 e 8 b 2
+b 2 c 4 b 8 d 11 b 2 e 2 b 1 e 9 b 2
+b 2 c 12 b 1 d 11 b 6 e 1 b 6 e 2 b 2
+b 1 c 11 b 3 d 12 b 1 b 4 b 6
+b 5 c 6 b 2 d 14 b 1 b 2
+b 8 d 15 b 1 b 1
+b 1 f 6 b 2 d 14 b 1
+b 2 f 1 g 2 f 4 b 2 d 13 b 1
+b 1 f 1 g 2 f 6 b 2 d 12 b 1
+b 2 f 1 g 2 f 7 b 2 d 11 b 1
+b 1 f 1 g 2 f 9 b 2 d 9 b 2
+b 2 f 1 g 2 f 10 b 1 d 9 b 1
+b 1 f 1 g 2 f 11 b 2 d 8 b 1
+b 1 f 1 g 1 f 13 b 1 d 8 b 1
+b 2 f 15 b 2 d 7 b 1 d 4
+b 1 f 17 b 1 d 6 b 2 d 7
+b 1 f 17 b 1 d 6 b 1 d 2 d 3
+b 1 f 17 b 1 d 6 b 1 d 2 d 2
+b 1 f 17 b 1 d 5 b 2 d 2 d 2
+b 1 f 17 b 1 d 5 b 1 d 2 d 2 b 7
+b 2 f 16 b 1 d 5 b 1 d 2 d 2 b 7
+b 1 f 16 b 1 d 4 b 2 d 2 d 2 b 6
+b 2 f 14 b 2 d 4 b 1 d 2 d 2 d 5 b 3
+b 2 f 13 b 1 d 4 b 2 d 3 d 2 d 4 b 2
+b 2 f 11 b 2 d 3 b 2 d 6
+b 3 f 8 b 2 d 3 b 2 d 4
+b 3 f 5 b 2 d 3 b 2
+b 12
+
+columns
+b 3 b 7
+b 2 c 1 b 1 b 4 f 5 b 3
+b 4 b 2 c 2 b 1 b 3 f 10 b 2
+b 2 c 2 b 2 b 2 b 2 c 3 b 1 b 3 f 2 g 2 f 9 b 2
+b 2 c 4 b 10 c 3 b 4 f 2 g 3 f 11 b 2
+b 2 c 6 b 1 d 1 b 2 b 2 b 1 c 4 b 1 f 2 g 4 f 13 b 1
+b 7 c 1 b 2 d 2 b 1 b 2 b 1 c 4 b 1 f 1 g 3 f 15 b 2
+b 3 h 1 d 2 b 2 b 2 c 3 b 1 f 1 g 1 f 18 b 1
+b 2 h 3 d 2 b 2 b 2 b 1 c 3 b 1 f 20 b 2
+b 1 h 3 d 2 b 2 b 2 b 1 c 3 b 1 f 21 b 1
+b 2 h 2 d 2 b 3 b 1 c 3 b 1 f 21 b 1
+b 1 d 1 h 1 d 2 b 3 d 1 b 1 b 2 c 2 b 3 f 20 b 1
+b 1 d 5 b 2 d 2 b 3 d 1 b 1 c 1 b 2 d 1 b 2 f 19 b 1
+b 1 d 13 b 1 c 1 b 1 d 3 b 2 f 18 b 1
+b 1 d 3 b 3 d 7 b 3 d 4 b 2 f 16 b 2
+b 1 d 2 b 2 c 1 b 2 d 14 b 2 f 14 b 3
+b 2 d 1 b 1 c 3 b 1 d 15 b 3 f 11 b 2 d 1 b 1
+b 3 c 3 b 1 d 17 b 3 f 7 b 3 d 2 b 1
+b 4 c 3 b 2 d 19 b 9 d 4 b 1
+b 4 c 5 b 2 d 32 b 2
+b 2 c 5 b 2 d 32 b 2
+b 8 d 31 b 2
+b 2 d 29 b 2
+b 3 d 25 b 3
+b 2 d 21 b 4 d 2
+b 5 d 14 b 4 d 3
+b 5 e 3 b 3 d 7 b 6 d 3
+b 4 e 8 b 10 d 2
+b 3 e 12 b 1 d 2
+b 13 e 5 b 1 d 9
+b 3 e 8 b 8 d 9
+b 3 e 12 b 3 d 2
+b 3 e 11 b 3 d 2
+b 3 e 8 b 2 d 2
+b 2 e 7 b 1 d 2 d 2
+b 3 e 5 b 1 d 2 d 5
+b 2 e 4 b 1 d 2 d 3 d 2
+b 2 e 3 b 1 d 4 d 2
+b 2 e 2 b 2 d 2 b 2 d 2
+b 2 e 2 b 1 b 5
+b 2 e 1 b 1 b 5
+b 3 b 4
+b 2 b 3
+b 1 b 3
+b 2
+b 1

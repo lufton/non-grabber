@@ -1,0 +1,62 @@
+by "Julie Katz (katwomanjulie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Julie Katz"
+date "Jun  8, 2009"
+description "Grover! It's your furable, adorable pal Grover!"
+difficulty 1.75
+height 20
+id 6056
+link "https://webpbn.com/play.cgi?id=6056"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Sesame Street #3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 15
+blue 17
+blue 3 blue 7 blue 3
+blue 3 blue 5 blue 2
+blue 2 black 3 blue 3 black 3 blue 1
+blue 2 black 3 blue 3 black 3 blue 1
+blue 3 black 3 blue 5 black 3 blue 2
+blue 4 blue 2 red 3 blue 2 blue 3
+blue 8 red 5 blue 7
+blue 8 red 5 blue 7
+blue 8 red 5 blue 7
+blue 8 red 5 blue 7
+blue 9 red 3 blue 8
+blue 20
+blue 3 red 1 black 12 red 1 blue 3
+blue 4 red 1 black 10 red 1 blue 4
+blue 5 red 1 black 8 red 1 blue 5
+blue 5 red 1 black 6 red 1 blue 5
+blue 4 red 6 blue 4
+blue 12
+
+columns
+blue 14
+blue 16
+blue 3 blue 12
+blue 3 blue 7 red 1 blue 4
+blue 2 black 3 blue 6 black 1 red 1 blue 4
+blue 2 black 3 blue 6 black 2 red 1 blue 3
+blue 2 black 3 blue 6 black 3 red 1 blue 2
+blue 3 blue 7 black 4 red 1 blue 1
+blue 4 blue 2 red 4 blue 2 black 4 red 1 blue 1
+blue 7 red 6 blue 1 black 4 red 1 blue 1
+blue 7 red 6 blue 1 black 4 red 1 blue 1
+blue 7 red 6 blue 1 black 4 red 1 blue 1
+blue 4 blue 2 red 4 blue 2 black 4 red 1 blue 1
+blue 3 blue 7 black 3 red 1 blue 2
+blue 2 black 3 blue 6 black 2 red 1 blue 3
+blue 2 black 3 blue 6 black 1 red 1 blue 4
+blue 2 black 3 blue 6 red 1 blue 4
+blue 3 blue 11
+blue 3 blue 12
+blue 15

@@ -1,0 +1,72 @@
+by "wendy herndon (wendyherndon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by wendy herndon"
+date "Jun  5, 2009"
+description "Look it up."
+difficulty 1.0
+height 25
+id 6026
+link "https://webpbn.com/play.cgi?id=6026"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Apothem"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 11
+black 2 green 9 black 2
+black 2 green 11 black 2
+black 2 green 13 black 2
+black 2 green 15 black 2
+black 2 green 17 black 2
+black 2 green 19 black 2
+black 2 green 21 black 2
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 11 blue 12 black 1
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 2 green 21 black 2
+black 2 green 19 black 2
+black 2 green 17 black 2
+black 2 green 15 black 2
+black 2 green 13 black 2
+black 2 green 11 black 2
+black 2 green 9 black 2
+black 11
+
+columns
+black 11
+black 2 green 9 black 2
+black 2 green 11 black 2
+black 2 green 13 black 2
+black 2 green 15 black 2
+black 2 green 17 black 2
+black 2 green 19 black 2
+black 2 green 21 black 2
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 23 black 1
+black 1 green 11 blue 1 green 11 black 1
+black 1 green 11 blue 1 green 11 black 1
+black 1 green 11 blue 1 green 11 black 1
+black 1 green 11 blue 1 green 11 black 1
+black 1 green 11 blue 1 green 11 black 1
+black 2 green 10 blue 1 green 10 black 2
+black 2 green 9 blue 1 green 9 black 2
+black 2 green 8 blue 1 green 8 black 2
+black 2 green 7 blue 1 green 7 black 2
+black 2 green 6 blue 1 green 6 black 2
+black 2 green 5 blue 1 green 5 black 2
+black 2 green 4 blue 1 green 4 black 2
+black 11

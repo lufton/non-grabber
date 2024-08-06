@@ -1,0 +1,72 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar 27, 2024"
+description "name on a keychain"
+difficulty 1.25
+height 40
+id 38408
+link "https://webpbn.com/play.cgi?id=38408"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "a more common souvenir"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+blue 4
+blue 2 blue 2
+blue 1 blue 1
+blue 1 blue 1
+blue 1 black 3 blue 2
+black 2 blue 2 black 1
+black 5
+black 1 green 3 black 1
+black 1 green 1 black 1 green 1 black 1
+black 1 green 3 black 1
+black 1 green 1 black 1 green 1 black 1
+black 5
+black 1 green 1 black 3
+black 1 green 1 black 3
+black 1 green 1 black 3
+black 1 green 3 black 1
+black 5
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 5
+black 1 green 3 black 1
+black 1 green 1 black 3
+black 1 green 1 black 3
+black 1 green 3 black 1
+black 5
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 5
+black 1 green 3 black 1
+black 1 green 1 black 1 green 1 black 1
+black 1 green 3 black 1
+black 1 green 1 black 1 green 1 black 1
+black 5
+0
+
+columns
+0
+0
+blue 4
+blue 2 black 33
+blue 1 black 3 green 4 black 1 green 4 black 6 green 4 black 6 green 4 black 1
+blue 1 black 1 blue 1 black 1 green 1 black 1 green 1 black 5 green 1 black 1 green 4 black 1 green 1 black 2 green 1 black 1 green 4 black 1 green 1 black 1 green 1 black 2
+blue 2 blue 2 black 1 green 4 black 4 green 1 black 6 green 1 black 2 green 1 black 6 green 4 black 1
+blue 4 black 32
+0
+0

@@ -1,0 +1,77 @@
+by "Cupcakey (Cupcakey)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Cupcakey"
+date "Mar 23, 2018"
+description "This is Sans, the funny brother of Papyrus. They are two characters from the indie game Undertale. First puzzle, so I hope it's solvable and enjoyable :D I found inspiration for this puzzle in a lovely pixel art by Brik."
+difficulty 2.5
+height 30
+id 30985
+link "https://webpbn.com/play.cgi?id=30985"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "The funny one"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1 black 9 red 5
+red 5 black 2 black 2 red 3
+red 3 black 1 black 1 red 1
+red 1 black 1 black 1
+black 1 black 1
+black 1 black 3 black 1
+black 1 black 3 black 1
+black 1 black 3 black 1 black 3 black 1
+black 1 black 3 black 1 red 1 red 1
+black 2 black 1 black 1 black 2 red 4
+black 1 black 13 black 1 red 3
+black 1 black 2 black 1 black 1 black 1 black 2 black 1 red 1
+black 2 black 7 black 2
+black 5 black 5
+black 1 blue 1 black 15 blue 1 black 1
+black 2 blue 1 black 1 black 1 black 1 black 1 black 1 blue 1 black 2
+black 1 blue 3 black 1 black 3 black 3 black 1 blue 3 black 1
+black 1 blue 2 black 2 blue 1 black 3 black 1 black 3 blue 1 black 2 blue 2 black 1
+black 1 blue 4 black 1 blue 2 black 1 black 1 blue 2 black 1 blue 4 black 1
+black 1 blue 5 black 1 blue 1 black 2 black 2 blue 1 black 1 blue 5 black 1
+black 1 blue 3 black 1 blue 2 black 1 black 1 blue 2 black 1 blue 3 black 1
+black 2 blue 1 black 1 blue 2 black 7 blue 2 black 1 blue 1 black 2
+black 3 blue 2 black 7 blue 2 black 3
+black 15
+black 8 black 8
+black 8 black 8
+black 6 black 6
+black 3 black 1 black 1 black 3
+black 1 black 2 black 2 black 1
+black 5 black 5
+
+columns
+0
+red 1 black 3
+red 3 black 2 blue 3 black 1
+red 3 black 2 blue 5 black 1 black 2
+red 3 black 4 black 3 black 1 blue 3 black 1 blue 3 black 2 black 2 black 1 black 1
+red 1 black 2 black 2 black 4 blue 1 black 1 blue 4 black 6 black 1
+black 1 black 1 black 3 black 1 blue 1 black 1 blue 1 black 7 black 1
+black 1 black 1 black 3 black 2 black 1 blue 1 black 1 blue 3 black 4 black 1
+black 1 black 1 black 2 black 3 black 1 blue 5 black 4 black 1
+black 1 black 1 black 1 black 1 black 1 black 11 black 1
+black 1 black 3 black 1 black 1 black 1 black 8
+black 1 black 1 black 1 black 1 black 1 black 1 black 5
+black 1 black 2 black 3 black 2 black 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 5
+black 1 black 3 black 1 black 1 black 1 black 8
+black 1 black 3 black 1 black 1 black 1 black 11 black 1
+black 1 black 3 black 2 black 3 black 1 blue 5 black 4 black 1
+black 1 black 3 black 3 black 2 black 1 blue 1 black 1 blue 3 black 4 black 1
+red 1 black 1 black 1 black 3 black 1 blue 1 black 1 blue 1 black 7 black 1
+red 2 black 2 black 2 black 4 blue 1 black 1 blue 4 black 6 black 1
+red 3 black 4 black 3 black 1 blue 3 black 1 blue 3 black 2 black 2 black 1 black 1
+red 2 red 1 black 2 blue 5 black 1 black 2
+red 1 red 3 black 2 blue 3 black 1
+red 3 black 3
+red 3

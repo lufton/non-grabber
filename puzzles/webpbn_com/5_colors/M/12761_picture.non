@@ -1,0 +1,73 @@
+by "Justyna Adamczyk (justyna1987ix)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Justyna Adamczyk"
+date "Mar 16, 2011"
+description ""
+difficulty 1.5
+height 20
+id 12761
+link "https://webpbn.com/play.cgi?id=12761"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "picture"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 30
+black 1 red 2 red 3 red 2 black 1
+black 1 blue 6 red 5 blue 7 black 1
+black 1 blue 9 red 5 blue 8 black 1
+black 1 blue 9 red 4 blue 8 black 1
+black 1 blue 8 red 4 blue 8 green 2 black 1
+black 1 blue 5 red 7 blue 5 green 4 black 1
+black 1 red 2 red 3 green 4 black 1
+black 1 red 2 red 1 red 2 green 4 black 1
+black 1 red 1 red 1 red 1 black 1 black 1
+black 1 red 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 green 16 black 1
+black 1 green 24 black 1
+black 1 green 27 black 1
+black 1 green 28 black 1
+black 30
+
+columns
+black 20
+black 1 green 1 black 1
+black 1 green 2 black 1
+black 1 blue 3 green 2 black 1
+black 1 blue 4 green 2 black 1
+black 1 blue 5 green 3 black 1
+black 1 blue 5 green 3 black 1
+black 1 blue 5 green 3 black 1
+black 1 blue 5 green 3 black 1
+black 1 blue 4 red 1 green 3 black 1
+black 1 red 1 blue 4 red 2 green 3 black 1
+black 1 red 1 blue 2 red 1 red 2 green 3 black 1
+black 1 red 5 red 1 green 3 black 1
+black 1 red 7 green 4 black 1
+black 1 red 10 green 4 black 1
+black 1 red 7 green 4 black 1
+black 1 red 2 blue 2 red 1 red 1 green 4 black 1
+black 1 red 1 blue 4 red 2 green 4 black 1
+black 1 red 1 blue 5 green 4 black 1
+black 1 blue 5 green 4 black 1
+black 1 blue 5 green 4 black 1
+black 1 blue 5 green 4 black 1
+black 1 blue 4 green 4 black 1
+black 1 blue 4 green 4 black 1
+black 1 blue 2 green 4 black 1
+black 1 green 3 green 4 black 1
+black 1 green 4 green 4 black 1
+black 1 green 4 black 6 green 4 black 1
+black 1 green 3 green 4 black 1
+black 20

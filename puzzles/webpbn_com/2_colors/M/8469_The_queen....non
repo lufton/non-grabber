@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Apr 19, 2010"
+description "of the pyramids!"
+difficulty 1.75
+height 20
+id 8469
+link "https://webpbn.com/play.cgi?id=8469"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The queen..."
+width 20
+
+rows
+1,1,1
+3,3
+2,2,5
+2,2,6
+2,1
+2,2,6
+2,9
+2,8
+1,9
+20
+11
+3,2,11
+5,11
+4,11
+1,1,4
+4
+1,1,4,4
+3,4,1,1
+1,6,4
+1,6
+
+columns
+3,4
+1,2,1,3
+2,1,4
+2,1,2
+2,1,2,2
+2,1,1,3
+2,1,2
+2,1
+2,1,2
+2,5,2
+3,11
+2,12
+14
+14
+1,9
+2,9,3
+3,9,1,1
+4,9,1,1
+3,9,3
+2,9

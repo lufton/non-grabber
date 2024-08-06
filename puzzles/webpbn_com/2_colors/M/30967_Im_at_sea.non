@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Mar 15, 2018"
+description "Land ho!"
+difficulty 3.75
+height 20
+id 30967
+link "https://webpbn.com/play.cgi?id=30967"
+note "published,definitely unique,may require deep lookahead"
+quality 3.0
+title "I'm at sea"
+width 20
+
+rows
+1,1,1
+1,2,2,2
+2,1,1,1
+1,1,3
+1,2,2,2
+2,1,3
+1,1,1,4
+2,2,4,1
+2,1,2,2
+1,1,3,1,1
+2,3,1,2
+1,3,1,2
+6,1,2
+3,1,1
+3,1
+2,2
+2,1
+2,1
+3
+2
+
+columns
+1
+1
+2,1
+2,3
+2,1
+2,3
+2,2,1
+3,2,2
+2,4,1
+3,1,1
+6,1
+2,2,2
+4,1,2
+4,2
+2,2,4,2
+6,1,1,5
+2,3,3,2
+3,5
+2
+0

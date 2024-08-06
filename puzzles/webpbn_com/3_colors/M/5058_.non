@@ -1,0 +1,76 @@
+by "Pam Negri (pamnegri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Pam Negri"
+date "Feb 15, 2009"
+description ""
+difficulty 1.5
+height 5
+id 5058
+link "https://webpbn.com/play.cgi?id=5058"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.25
+title ""
+width 50
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 5 green 3 black 1 green 3 black 1 green 3 green 1 black 2 green 1 green 1 black 1 green 3 black 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 3 green 1 green 1 green 1 green 2 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 black 1 green 1 green 1 green 1 green 1 green 1
+green 5 green 1 green 1 black 1 green 3 black 1 green 3 green 1 black 2 green 1 green 1 black 1 green 3 black 1 green 1 green 1 green 1 green 1 green 1 green 1
+
+columns
+green 1 green 1
+green 1 green 1
+green 5
+green 1 green 1
+green 1 green 1
+0
+0
+0
+0
+0
+green 5
+green 1 green 1
+green 1 green 2
+green 1 green 1
+0
+black 1 green 3 black 1
+green 1 green 1
+green 1 green 1
+green 1 green 1
+black 1 green 3 black 1
+0
+green 3
+green 1 green 1
+green 1 green 1
+green 1 green 1
+0
+green 5
+black 2 green 1 black 2
+black 1 green 1 green 1 black 1
+green 1 green 1
+0
+green 5
+0
+black 1 green 3 black 1
+green 1 green 1
+green 1 green 1
+green 1 green 1
+black 1 green 3 black 1
+0
+green 5
+0
+green 3 green 1
+0
+green 3 green 1
+0
+green 3 green 1
+0
+green 3 green 1
+0
+green 3 green 1

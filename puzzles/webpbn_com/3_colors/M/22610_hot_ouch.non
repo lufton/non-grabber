@@ -1,0 +1,66 @@
+by "tomer liron (tomerik15)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by tomer liron"
+date "Aug 16, 2013"
+description "an volcano with lava"
+difficulty 1.25
+height 15
+id 22610
+link "https://webpbn.com/play.cgi?id=22610"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "hot!!! ouch!!!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+red 6
+red 9
+red 2 black 3 red 3 black 1 red 2
+red 2 black 5 red 2 black 2 red 2
+red 2 black 7 red 1 black 3 red 1
+red 2 black 8 red 1 black 3 red 2
+red 2 black 9 red 1 black 4 red 2
+black 14 red 2 black 4 red 4
+black 21 red 5
+black 30
+black 30
+black 30
+
+columns
+black 5
+black 5
+black 5
+red 1 black 5
+red 2 black 5
+red 2 black 6
+red 2 black 7
+red 2 black 8
+red 2 black 9
+red 2 black 10
+red 2 black 10
+red 2 black 10
+red 3 black 9
+red 4 black 8
+red 8 black 4
+red 1 black 5 red 1 black 4
+red 2 black 9
+red 2 black 8
+red 3 black 6
+red 2 black 5
+red 2 black 4
+red 2 black 3
+red 2 black 3
+red 2 black 3
+red 1 black 3
+red 1 black 3
+black 3
+black 3
+black 3
+black 3

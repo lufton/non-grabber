@@ -1,0 +1,35 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr 20, 2011"
+description "Mallard!"
+difficulty 1.25
+height 5
+id 13507
+link "https://webpbn.com/play.cgi?id=13507"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Small Animal Puzzle 31"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 2 blue 1
+blue 3 green 2 black 2
+blue 4 blue 2
+black 2 black 2 blue 2
+blue 1 black 1 black 2 blue 2
+
+columns
+blue 1 black 1 blue 1
+blue 2 black 2
+blue 2
+blue 3
+green 2 black 2
+green 2 black 2
+blue 1 black 1 blue 3
+black 1 blue 3

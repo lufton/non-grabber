@@ -1,0 +1,67 @@
+by "Nejat Polat (npolat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Nejat Polat"
+date "May 15, 2020"
+description "what a nice face"
+difficulty 1.25
+height 25
+id 34045
+link "https://webpbn.com/play.cgi?id=34045"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "he will eat you"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 6 black 6
+black 1 black 1 black 1 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 black 1 black 1 black 1
+black 6 black 6
+0
+black 2
+black 2
+black 2
+0
+0
+black 20
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 2 red 17 black 1
+black 2 red 14 black 2
+black 2 red 12 black 2
+black 2 red 10 black 2
+black 2 red 8 black 2
+black 2 red 1 red 1 black 2
+black 8
+
+columns
+black 3
+black 1 black 2
+black 9 black 1 red 2 black 2
+black 1 black 1 black 1 red 2 black 2
+black 1 blue 5 black 1 black 1 red 4 black 2
+black 1 blue 5 black 1 black 1 red 4 black 2
+black 1 black 1 black 1 red 6 black 2
+black 9 black 1 red 5 black 1
+black 1 red 7 black 1
+black 3 black 1 red 5 black 1
+black 3 black 1 red 5 black 1
+black 1 red 7 black 1
+black 9 black 1 red 5 black 1
+black 1 black 1 black 1 red 6 black 2
+black 1 blue 5 black 1 black 1 red 4 black 2
+black 1 blue 5 black 1 black 1 red 4 black 2
+black 1 black 1 black 1 red 2 black 2
+black 9 black 1 red 2 black 2
+black 1 red 1 black 1
+black 3

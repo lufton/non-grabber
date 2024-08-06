@@ -1,0 +1,73 @@
+by "Verna Larson (zuzu)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Verna Larson"
+date "Jul  5, 2005"
+description "An impressionist view of a town getting destroyed after a volcanic eruption."
+difficulty 1.5
+height 25
+id 231
+link "https://webpbn.com/play.cgi?id=231"
+note "published,definitely unique,definitely trivial"
+quality 2.75
+title "impressionist"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 7 black 18
+blue 2 black 10 green 1 black 3 green 1 black 3 green 1 black 4
+blue 1 black 2 blue 4 black 4 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+blue 1 black 1 blue 6 black 17
+blue 1 black 1 blue 8 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1
+blue 1 black 1 blue 8 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1
+blue 13 green 1 blue 7 green 1 blue 3
+black 1 red 3 blue 8 green 3 blue 5 green 3 blue 2
+black 2 red 1 black 2 blue 6 green 5 blue 3 green 5 blue 1
+black 3 red 1 black 2 blue 4 green 7 blue 1 green 7
+black 3 red 1 black 3 blue 4 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+black 4 red 1 black 3 blue 3 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+black 4 red 2 black 3 blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 8
+black 5 red 1 black 4 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 red 6 black 1
+black 18 red 1 black 4 red 1 black 1
+black 10 red 7 black 1 red 1 black 1 red 2 black 1 red 1 black 1
+black 10 red 1 black 5 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1
+red 9 black 1 red 1 black 1 red 3 black 1 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1
+red 1 black 7 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1
+red 1 black 1 red 5 black 1 red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 4 black 1 red 1 black 1
+red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 5 black 1 red 1 black 6 red 1 black 1
+red 1 black 1 red 1 black 1 red 3 black 1 red 1 black 7 red 8 black 1
+red 1 black 1 red 1 black 5 red 9 black 8
+red 1 black 1 red 7 black 9 red 4 black 1 red 1 black 1
+red 1 black 9 red 12 black 1 red 1 black 1
+
+columns
+blue 7 black 10 red 8
+blue 2 black 4 blue 1 red 1 black 9 red 1 black 7
+blue 1 black 2 blue 4 red 2 black 8 red 1 black 1 red 5 black 1
+blue 1 black 1 blue 5 red 1 black 1 red 2 black 6 red 1 black 1 red 1 black 3 red 1 black 1
+blue 1 black 1 blue 6 black 3 red 2 black 4 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+blue 1 black 1 blue 7 black 3 red 2 black 3 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+blue 1 black 1 blue 8 black 7 red 1 black 1 red 3 black 1 red 1 black 1
+black 3 blue 8 black 6 red 1 black 5 red 1 black 1
+black 4 blue 8 black 5 red 7 black 1
+black 4 blue 9 black 9 red 1 black 2
+black 4 green 2 blue 3 green 1 blue 4 black 1 red 6 black 1 red 1 black 1 red 1
+black 2 green 1 black 3 blue 2 green 2 black 5 red 1 black 4 red 1 black 1 red 1 black 1 red 1
+black 1 green 1 black 2 green 2 blue 1 green 3 blue 4 black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 1
+black 2 green 1 black 3 green 4 black 5 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1 red 1
+black 4 green 2 blue 1 green 3 blue 4 black 1 red 1 black 1 red 4 black 1 red 1 black 1 red 1
+black 2 green 1 black 3 blue 2 green 2 black 5 red 1 black 6 red 1 black 1 red 1
+black 1 green 1 black 2 green 2 blue 3 green 1 blue 4 black 1 red 8 black 1 red 1
+black 2 green 1 black 3 blue 4 black 11 red 1 black 2 red 1
+black 4 green 2 blue 3 green 1 blue 2 black 1 red 7 black 1 red 1 black 1 red 2
+black 2 green 1 black 3 blue 2 green 2 black 3 red 1 black 5 red 1 black 1 red 1 black 1 red 2
+black 1 green 1 black 2 green 2 blue 1 green 3 blue 2 black 1 red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 2
+black 2 green 1 black 3 green 4 black 3 red 1 black 1 red 5 black 1 red 1 black 1 red 2
+black 4 green 2 blue 1 green 3 blue 2 black 1 red 1 black 7 red 1 black 3
+black 2 green 1 black 3 blue 2 green 2 black 3 red 9 black 1 red 2
+black 4 green 2 blue 3 green 1 blue 2 black 13

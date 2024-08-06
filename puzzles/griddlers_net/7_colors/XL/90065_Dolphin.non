@@ -1,0 +1,114 @@
+by "debbbi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/9/10"
+height 40
+id 90065
+link "https://www.griddlers.net/nonogram/-/g/90065"
+medium_time "0:39:48"
+points 134506
+popularity 86.36
+title "Dolphin"
+width 50
+
+color a ffffff
+color b 000000
+color c cecede
+color d 9c9c9c
+color e 7b7b7b
+color g 84bdde
+color h c6f7ff
+
+rows
+b 9
+b 3 c 2 d 5 c 2 b 3
+b 2 c 1 d 2 e 3 d 8 c 1 b 2
+b 5 b 2 d 1 e 6 d 10 c 2 b 1
+b 3 d 5 b 2 d 1 e 5 d 15 c 1 b 1
+b 2 d 1 e 14 d 16 c 2 b 1
+b 1 e 15 d 18 c 1 b 1
+b 1 e 15 d 16 b 1 d 1 c 1 b 1
+b 1 d 1 e 13 d 21 c 1 b 1
+b 1 d 2 b 6 d 1 e 5 d 9 e 3 d 6 c 3 d 1 c 1 b 1
+b 1 d 1 b 1 b 1 e 4 d 6 c 3 d 3 e 1 d 3 c 8 b 1 c 2 b 1
+b 1 b 1 d 1 e 2 d 7 c 4 b 1 e 3 d 1 c 11 b 1 c 2 b 1
+b 1 d 1 e 2 d 6 c 5 d 1 b 1 e 2 d 1 b 12 c 1 b 1 c 2 b 1
+b 2 d 1 e 2 d 6 c 3 c 1 b 1 e 3 b 1 b 1 c 1 b 1 c 1 b 1
+b 1 d 1 e 2 d 5 c 4 b 1 e 3 b 1 b 3
+b 2 e 2 d 4 c 5 c 1 b 1 e 2 b 1
+b 1 d 1 e 2 d 3 c 3 c 1 b 3 e 1 b 1
+b 2 d 1 e 1 d 3 c 2 c 1 b 2 b 2
+b 1 d 1 e 2 d 3 c 1 c 1 b 2
+b 1 d 1 e 1 d 3 c 1 c 1 b 2
+b 1 b 1 d 1 e 1 d 3 c 1 b 1
+b 1 g 1 b 1 b 1 d 1 e 2 d 2 c 1 b 2
+b 2 g 2 b 2 b 1 d 1 e 1 d 3 c 1 b 2 b 2
+b 1 h 1 b 2 g 2 b 1 b 1 d 1 e 1 d 4 b 1 b 3 g 2 b 1
+b 1 g 1 h 3 g 2 b 1 d 5 b 1 b 1 g 3 h 2 g 1 b 1
+g 1 b 2 h 3 g 1 h 1 b 1 d 4 b 1 g 2 h 3 b 3
+g 7 h 1 b 1 d 3 b 1 g 1 h 3 b 2 g 3 b 1
+b 2 g 1 b 1 g 3 h 1 b 1 d 3 b 1 g 1 h 2 b 2 g 6 b 1
+b 1 h 1 b 1 g 1 h 1 g 1 b 2 d 4 b 1 h 2 b 1 g 5 b 1 g 1 b 2
+g 1 h 1 b 1 g 1 h 1 b 1 d 6 b 1 h 1 b 2 g 2 h 4 b 1
+g 4 b 1 d 7 b 1 h 1 g 3 h 4
+b 1 g 1 h 1 b 1 d 8 b 1 h 1 b 1 g 1 h 3 b 1 h 2
+g 1 b 1 h 1 b 4 d 4 b 1 h 2 g 1 h 2 g 1 b 1 g 1 b 1 h 1
+h 1 b 1 h 2 g 2 h 1 b 2 d 2 b 1 h 1 g 2 h 1 g 1 b 1 g 2 b 2
+b 1 h 1 g 1 h 3 g 3 b 1 d 1 b 1 h 1 g 2 h 1 b 1 g 1 h 1 b 1
+b 1 g 1 b 1 h 1 b 1 d 1 b 1 h 2 g 1 b 1 g 1
+b 1 h 1 b 1 e 1 b 1 h 1 g 2 b 1 g 1
+h 2 b 2 h 3 b 1
+h 2 g 1 h 3 g 1
+h 2
+
+columns
+b 2 g 2 b 2 g 2 b 1 g 1 h 1 b 1
+b 1 h 1 g 1 b 1 g 1 b 1 h 2 g 2 b 2 h 1 b 1
+b 3 h 1 b 1 g 2 b 2 g 1 h 3 g 2 b 1
+b 1 g 2 b 1 h 2 g 1 b 1 g 3 b 2 h 2 b 1
+b 1 g 2 h 2 g 2 h 2 b 1 d 1 b 1 g 1 h 1
+b 1 g 2 h 1 g 3 b 1 d 2 b 1 g 1 h 1
+b 2 g 4 b 1 d 3 b 1 h 1 g 1
+h 3 b 1 d 4 b 1 g 1
+b 2 b 7 d 5 b 1 g 1 h 3
+b 1 d 2 b 1 b 4 d 13 b 3 h 2
+b 1 d 2 b 1 b 3 d 3 e 3 d 12 e 1 b 1 h 2
+b 2 e 2 b 1 b 3 d 2 e 4 d 10 b 6 g 1 h 1
+b 1 e 3 b 1 b 1 d 1 e 4 d 7 b 6 h 7
+b 1 d 1 e 3 b 1 b 1 d 1 e 3 d 8 b 1 g 1 h 5 g 2 h 1 g 1 h 2
+b 1 e 4 b 1 b 1 d 1 e 2 d 6 c 2 d 1 b 1 g 1 h 2 b 1 g 1 b 1 g 5 h 2
+b 1 e 4 b 2 d 1 e 2 d 5 c 1 b 2 g 1 h 2 b 2 g 2 h 3 b 3 g 1
+b 1 d 1 e 4 b 1 e 3 d 4 c 2 b 2 b 1 g 1 h 1 b 1 g 3 h 2 g 1 b 1 g 2
+b 1 d 1 e 4 d 1 e 2 d 4 c 2 c 1 b 1 b 1 g 1 h 2 b 1 g 2 h 2 g 1 b 1 g 1
+b 1 d 1 e 6 d 4 c 2 c 1 b 1 b 1 g 1 h 1 b 1 g 2 h 3 b 1 g 1 h 1
+b 1 d 1 e 6 d 4 c 2 b 1 b 1 g 1 h 1 b 1 g 2 h 2 b 1 g 2 b 1
+b 1 d 1 e 5 d 4 c 2 c 1 b 1 b 1 g 1 h 1 b 1 g 3 h 3 b 2
+b 1 e 5 d 4 c 2 b 1 b 1 g 1 h 1 b 1 g 2 b 1 h 1 h 2 b 1
+b 1 e 5 d 3 c 3 c 1 b 1 b 1 g 1 b 1 g 3 b 1
+b 1 d 1 e 4 d 3 c 3 b 1 b 1 b 1 g 1 b 1
+b 1 e 4 d 4 c 2 c 1 b 1 b 2
+b 1 d 1 e 4 d 3 c 2 b 1
+b 1 e 4 d 3 c 3 c 1 b 1
+b 1 c 1 e 3 d 4 c 4 b 3
+b 1 d 1 e 2 d 5 c 2 d 1 b 1 e 3 b 1
+b 1 d 1 e 1 d 7 b 2 e 3 b 2
+b 1 c 1 e 2 d 7 e 4 b 1
+b 1 c 1 e 2 d 7 e 3 b 1
+b 1 d 1 e 1 d 6 e 3 d 1 b 1
+b 1 d 8 e 1 d 2 b 1
+b 1 d 8 e 1 d 1 c 1 b 1
+b 1 d 10 c 1 b 1
+b 1 d 9 c 2 b 1
+b 1 c 1 d 8 c 2 b 1
+b 1 c 1 d 8 c 2 b 1
+b 1 d 8 c 2 b 1
+b 1 d 8 c 2 b 1
+b 1 c 1 d 6 c 3 b 1
+b 1 c 1 d 3 b 1 d 1 c 3 b 1
+b 1 c 1 d 3 d 1 c 3 b 1
+b 1 c 2 d 4 b 1 c 1 b 1
+b 1 c 6 b 1 c 1 b 1
+b 5 c 2 b 1 c 1 b 1
+b 1 c 2 b 2
+b 1 c 2 b 1
+b 2

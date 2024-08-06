@@ -1,0 +1,71 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Gaynor Sorrell"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.25
+height 21
+id 27525
+link "https://webpbn.com/play.cgi?id=27525"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Honk!"
+width 28
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 15 blue 4
+blue 13 black 4 blue 3
+blue 11 black 7 blue 2
+blue 10 black 2 black 1 green 1 black 3 blue 1
+blue 10 black 3 black 5
+blue 9 black 3 black 6
+blue 8 black 4 black 1
+blue 5 black 6 blue 4
+blue 5 black 12 blue 3
+blue 4 green 1 black 3 black 5 black 2 blue 1 green 1
+blue 3 green 3 black 2 black 3 black 2 green 2
+green 1 blue 2 green 2 black 2 black 2 black 1 green 3
+green 2 blue 1 green 1 black 2 black 2 black 1 green 2
+green 3 black 2 black 2 black 2 green 1
+green 2 black 2 black 2 green 1
+black 2 black 2 black 2 green 1
+black 1 black 2 green 1 black 1 blue 2
+blue 1 black 2 black 3 green 1 green 2 black 2 blue 2
+blue 2 black 6 green 1 green 3 black 6 blue 3
+blue 8 black 3 green 1 black 2 green 3 black 3 blue 8
+blue 28
+
+columns
+blue 11 green 4 black 2 blue 4
+blue 12 green 3 black 1 black 1 blue 3
+blue 13 green 1 black 1 black 2 blue 2
+blue 10 green 3 black 3 black 1 blue 2
+blue 9 green 3 black 2 black 1 black 1 blue 2
+blue 7 green 1 black 2 black 1 black 1 blue 2
+blue 7 black 2 black 1 black 1 blue 2
+blue 7 black 2 black 2 blue 2
+blue 6 black 1 black 1 black 1 blue 1
+blue 5 black 2 black 1 black 1 blue 1
+blue 3 black 1 black 1 blue 1
+blue 2 black 1 green 3 blue 1
+blue 2 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 green 3 blue 1
+black 6 green 4 blue 1
+black 10 green 2 blue 1
+black 11 black 1 blue 1
+black 2 black 5 black 2 black 1 blue 1
+black 3 black 3 black 1 black 2 blue 1
+black 2 green 1 black 1 black 3 black 1 blue 2
+black 5 black 1 black 1 blue 2
+black 4 black 1 black 1 blue 2
+black 3 black 1 black 1 blue 2
+blue 1 black 2 blue 1 black 2 black 2 blue 2
+blue 2 black 1 blue 2 green 1 black 6 blue 3
+blue 3 black 1 blue 3 green 3 black 3 blue 5
+blue 4 blue 2 green 7 blue 5

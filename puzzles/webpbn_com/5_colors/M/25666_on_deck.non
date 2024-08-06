@@ -1,0 +1,63 @@
+by "ben jammin ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by ben jammin"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 20
+id 25666
+link "https://webpbn.com/play.cgi?id=25666"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "on deck"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 5 red 5
+green 1 green 1 red 1 red 1
+green 1 green 1 red 1 red 1
+green 5 red 5
+green 1 red 1
+green 3 red 3
+green 1 red 1
+green 1 red 1
+green 1 red 1
+green 1 green 1 red 1 red 1
+black 16
+black 16
+black 16
+black 16
+black 16
+blue 20
+blue 14 red 1 blue 1 red 3 blue 1
+blue 14 red 5 blue 1
+blue 14 red 1 blue 1 red 3 blue 1
+blue 20
+
+columns
+blue 5
+blue 5
+green 4 black 5 blue 5
+green 1 green 1 green 1 green 1 black 5 blue 5
+green 1 green 6 black 5 blue 5
+green 1 green 1 green 1 green 1 black 5 blue 5
+green 4 black 5 blue 5
+black 5 blue 5
+black 5 blue 5
+black 5 blue 5
+black 5 blue 5
+red 4 black 5 blue 5
+red 1 red 1 red 1 red 1 black 5 blue 5
+red 1 red 6 black 5 blue 5
+red 1 red 1 red 1 red 1 black 5 blue 1 red 3 blue 1
+red 4 black 5 blue 2 red 1 blue 2
+black 5 blue 1 red 3 blue 1
+black 5 blue 1 red 3 blue 1
+blue 1 red 3 blue 1
+blue 5

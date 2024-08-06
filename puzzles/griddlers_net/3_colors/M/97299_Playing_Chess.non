@@ -1,0 +1,58 @@
+by "cimcime_12"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/8/10"
+height 24
+id 97299
+link "https://www.griddlers.net/nonogram/-/g/97299"
+medium_time "0:04:38"
+points 8594
+popularity 60.0
+title "Playing Chess"
+width 14
+
+color a 000000
+color b ffff00
+color c ff66ff
+
+rows
+b 4
+b 2 c 2 b 2
+b 1 c 4 b 1
+b 1 c 4 b 1
+b 1 c 2 b 1
+b 1 c 1 b 2 c 1 b 1
+b 1 c 6 b 1
+b 1 c 1 c 1 b 1
+b 6
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 1 c 4 b 1
+b 1 c 4 b 1
+b 1 c 1 b 1 c 2 b 1 c 1 b 1
+b 1 c 3 b 2 c 3 b 1
+b 1 c 8 b 1
+b 2 c 6 b 2
+b 1 c 2 b 6 c 2 b 1
+b 1 c 10 b 1
+b 2 c 8 b 2
+b 1 c 2 b 8 c 2 b 1
+b 2 c 8 b 2
+b 8
+
+columns
+b 1
+b 3 c 1 b 1
+b 3 c 2 b 1 c 1 b 1
+b 2 b 1 c 2 b 1 c 3 b 1 c 1 b 1
+b 3 b 1 c 1 b 1 b 2 c 4 b 1 c 2 b 1 c 1 b 1
+b 2 c 2 b 1 c 3 b 4 c 2 b 1 c 3 b 1 c 2 b 1 c 1 b 1
+b 1 c 4 b 1 c 1 b 1 c 6 b 1 c 2 b 1 c 2 b 1 c 1 b 1
+b 1 c 4 b 1 c 1 b 1 c 6 b 1 c 2 b 1 c 2 b 1 c 1 b 1
+b 2 c 2 b 1 c 3 b 4 c 2 b 1 c 3 b 1 c 2 b 1 c 1 b 1
+b 3 b 1 c 1 b 1 b 2 c 4 b 1 c 2 b 1 c 1 b 1
+b 2 b 1 c 2 b 1 c 3 b 1 c 1 b 1
+b 3 c 2 b 1 c 1 b 1
+b 3 c 1 b 1
+b 1

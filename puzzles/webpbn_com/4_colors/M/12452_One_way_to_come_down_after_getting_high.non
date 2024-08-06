@@ -1,0 +1,62 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Feb 27, 2011"
+description ""
+difficulty 1.5
+height 20
+id 12452
+link "https://webpbn.com/play.cgi?id=12452"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "One way to come down after getting high!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 blue 3
+blue 3 blue 2
+blue 2 blue 1
+blue 1
+blue 8 blue 4 blue 6
+blue 8 blue 4 blue 6
+blue 8 blue 4 blue 6
+blue 7 black 1 blue 1 black 2 blue 1 black 1 blue 5
+blue 7 black 1 black 4 black 1 blue 5
+blue 7 black 1 black 4 black 1 blue 5
+blue 7 black 2 blue 1 black 2 blue 1 black 2 blue 5
+blue 2 blue 1 black 8 blue 5
+blue 3 black 1 black 1 blue 6
+blue 1 blue 5 black 4 blue 7
+blue 9 black 4 blue 4
+blue 9 black 4 blue 2 blue 1
+blue 9 black 1 blue 2 black 1 blue 5
+blue 4 green 5 black 1 green 2 black 1 green 5 blue 2
+blue 2 green 7 black 1 green 2 black 1 green 6 blue 1
+green 9 black 1 green 2 black 1 green 7
+
+columns
+blue 12 blue 6 green 1
+blue 3 blue 8 blue 5 green 1
+blue 2 blue 7 blue 4 green 2
+blue 1 blue 7 blue 4 green 2
+blue 7 blue 4 green 3
+blue 7 blue 5 green 3
+blue 13 green 3
+blue 3 black 5 blue 5 green 3
+black 3 blue 4 green 3
+blue 4 black 2 blue 1 black 1 black 7
+blue 3 black 5 black 3 blue 1 green 3
+blue 3 black 5 black 3 blue 1 green 3
+blue 4 black 2 blue 1 black 1 black 7
+black 3 blue 4 green 3
+blue 3 black 5 blue 5 green 3
+blue 11 blue 1 green 3
+blue 11 blue 1 green 3
+blue 1 blue 10 blue 1 green 3
+blue 2 blue 10 blue 1 green 2
+blue 3 blue 10 blue 1 blue 2 green 1

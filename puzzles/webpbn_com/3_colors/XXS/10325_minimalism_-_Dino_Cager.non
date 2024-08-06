@@ -1,0 +1,31 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Sep 13, 2010"
+description "A T-Rex playing basketball."
+difficulty 1.25
+height 5
+id 10325
+link "https://webpbn.com/play.cgi?id=10325"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "minimalism - Dino Cager"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 1
+black 2
+black 2
+red 1 black 2
+red 1
+
+columns
+red 1
+black 1 red 1
+black 2
+black 2 red 1
+red 1 black 1

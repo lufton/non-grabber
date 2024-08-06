@@ -1,0 +1,82 @@
+by "Bruce Yanoshek (yanogator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Bruce Yanoshek"
+date "Jun 23, 2011"
+description "A filigree heart"
+difficulty 2.0
+height 30
+id 14869
+link "https://webpbn.com/play.cgi?id=14869"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A puzzle to love"
+width 31
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 red 3 black 2 black 2 red 3 black 2
+black 1 red 7 black 1 black 1 red 7 black 1
+black 1 red 9 black 1 black 1 red 9 black 1
+black 1 red 4 black 3 red 4 black 1 black 1 red 4 black 3 red 4 black 1
+red 4 black 1 red 3 black 1 red 4 black 1 black 1 red 4 black 1 red 3 black 1 red 4
+red 2 black 1 red 1 black 1 red 9 black 1 black 1 red 9 black 1 red 1 black 1 red 2
+red 2 black 1 red 2 black 5 red 4 black 3 red 4 black 5 red 2 black 1 red 2
+black 1 red 2 black 1 red 6 black 1 red 4 black 1 red 4 black 1 red 5 black 2 red 2 black 1
+red 1 black 1 red 2 black 1 red 2 black 2 red 2 black 1 red 7 black 1 red 2 black 2 red 5 black 1 red 1
+red 2 black 1 red 3 black 1 red 2 black 1 red 2 black 1 red 5 black 1 red 2 black 1 red 2 black 1 red 3 black 1 red 2
+red 3 black 1 red 1 black 1 red 4 black 1 red 1 black 1 red 2 black 1 red 2 black 1 red 1 black 1 red 4 black 1 red 1 black 1 red 3
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 2 black 1 red 2 black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+black 1 red 2 black 1 red 1 black 1 red 2 black 2 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 2 red 2 black 1 red 1 black 1 red 2 black 1
+red 1 black 2 red 3 black 1 red 4 black 1 red 3 black 1 red 3 black 1 red 4 black 1 red 3 black 2 red 1
+red 7 black 1 red 7 black 1 red 7 black 1 red 7
+black 1 red 7 black 2 red 4 black 1 red 1 black 1 red 4 black 2 red 7 black 1
+black 1 red 4 black 1 red 3 black 4 red 3 black 4 red 3 black 1 red 4 black 1
+black 1 red 3 black 1 red 1 black 1 red 15 black 1 red 1 black 1 red 3 black 1
+black 1 red 2 black 1 red 2 black 2 red 2 black 2 red 3 black 2 red 2 black 2 red 2 black 1 red 2 black 1
+black 1 red 2 black 1 red 4 black 1 red 2 black 1 red 1 black 1 red 2 black 1 red 4 black 1 red 2 black 1
+black 1 red 2 black 1 red 2 black 1 red 4 black 1 red 4 black 1 red 2 black 1 red 2 black 1
+black 1 red 3 black 2 red 5 black 1 red 5 black 2 red 3 black 1
+black 1 red 5 black 2 red 2 black 1 red 2 black 2 red 5 black 1
+black 1 red 3 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 3 black 1
+black 1 red 3 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 3 black 1
+black 1 red 3 black 1 red 7 black 1 red 3 black 1
+black 1 red 3 black 1 red 5 black 1 red 3 black 1
+black 1 red 3 black 1 red 3 black 1 red 3 black 1
+black 1 red 3 black 1 red 1 black 1 red 3 black 1
+black 1 red 3 black 1 red 3 black 1
+
+columns
+black 1 red 3 black 1 red 4 black 1 red 2 black 1
+black 1 red 5 black 1 red 2 black 1 red 1 black 1 red 2 black 2
+black 1 red 3 black 2 red 2 black 1 red 3 black 1 red 4 black 1
+black 1 red 6 black 1 red 2 black 3 red 6 black 1
+black 1 red 3 black 2 red 2 black 1 red 11 black 2
+red 3 black 1 red 2 black 1 red 3 black 3 red 4 black 2 red 3 black 1
+red 3 black 1 red 2 black 1 red 2 black 1 red 3 black 1 red 2 black 1 red 2 black 1 red 3 black 2
+red 3 black 1 red 2 black 1 red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 4 black 1
+black 1 red 3 black 1 red 1 black 1 red 1 black 1 red 3 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 4 black 1
+black 1 red 5 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 5 black 1
+black 1 red 5 black 1 red 2 black 2 red 4 black 1 red 3 black 1 red 2 black 2 red 3 black 1
+black 1 red 5 black 1 red 4 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 3 black 1
+black 1 red 5 black 4 red 3 black 1 red 1 black 1 red 3 black 1 red 3 black 1 red 3
+black 1 red 11 black 1 red 1 black 1 red 4 black 2 red 2 black 1 red 2
+black 2 red 8 black 1 red 3 black 1 red 8 black 1 red 1
+black 2 red 2 black 5 red 5 black 5 red 4 black 1
+black 2 red 8 black 1 red 3 black 1 red 8 black 1 red 1
+black 1 red 11 black 1 red 1 black 1 red 4 black 2 red 2 black 1 red 2
+black 1 red 5 black 4 red 3 black 1 red 1 black 1 red 3 black 1 red 3 black 1 red 3
+black 1 red 5 black 1 red 4 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 3 black 1
+black 1 red 5 black 1 red 2 black 2 red 4 black 1 red 3 black 1 red 2 black 2 red 3 black 1
+black 1 red 5 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 5 black 1
+black 1 red 3 black 1 red 1 black 1 red 1 black 1 red 3 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 4 black 1
+red 3 black 1 red 2 black 1 red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 4 black 1
+red 3 black 1 red 2 black 1 red 2 black 1 red 3 black 1 red 2 black 1 red 2 black 1 red 3 black 2
+red 3 black 1 red 2 black 1 red 3 black 3 red 4 black 2 red 3 black 1
+black 1 red 3 black 2 red 1 black 1 red 12 black 2
+black 1 red 6 black 1 red 2 black 3 red 6 black 1
+black 1 red 3 black 2 red 2 black 1 red 3 black 1 red 4 black 1
+black 1 red 5 black 1 red 2 black 1 red 1 black 1 red 2 black 2
+black 1 red 3 black 1 red 4 black 1 red 2 black 1

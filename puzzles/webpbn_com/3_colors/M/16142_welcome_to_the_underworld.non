@@ -1,0 +1,61 @@
+by "arlo the epic (me.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by arlo the epic"
+date "Oct 22, 2011"
+description "a feind"
+difficulty 1.25
+height 20
+id 16142
+link "https://webpbn.com/play.cgi?id=16142"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "welcome to the underworld"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 1 black 1
+black 2 black 2
+black 9
+black 1 red 5 black 1
+black 1 black 2 red 1 black 1 red 1 black 1 red 1 black 1
+black 1 black 1 black 1 red 3 black 1
+black 3 black 3
+black 1 black 1 red 3 black 1
+black 4 red 3 black 3
+black 1 black 1 red 3 black 1 black 1
+black 1 black 1 red 3 black 1 black 1
+black 1 black 3
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 20
+red 20
+
+columns
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 3 black 1 red 1
+black 10 red 1
+black 3 black 3 black 1 black 1 red 1
+black 4 black 1 black 1 red 1
+black 1 red 2 black 1 black 4 black 1 red 1
+black 1 red 1 black 1 red 1 black 1 red 4 black 5 red 1
+black 1 red 3 black 1 red 4 black 1 black 1 red 1
+black 1 red 1 black 1 red 1 black 1 red 4 black 5 red 1
+black 1 red 2 black 1 black 4 black 1 red 1
+black 4 black 1 black 1 red 1
+black 3 black 3 black 1 red 1
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 1 red 1

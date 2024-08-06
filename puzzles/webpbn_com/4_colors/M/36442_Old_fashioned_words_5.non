@@ -1,0 +1,62 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Norma Dee"
+date "Feb 21, 2023"
+description "My favorite time of day (Eventide)"
+difficulty 1.5
+height 20
+id 36442
+link "https://webpbn.com/play.cgi?id=36442"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Old fashioned words #5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 red 2 blue 1
+red 6 blue 2
+red 8 blue 5
+blue 20
+blue 20
+blue 3 blue 9
+black 3 blue 4
+black 3 black 3 blue 3
+black 3 black 3 blue 1
+black 1 black 5 blue 1
+red 1 black 4 black 1
+black 11 red 1
+black 3 black 6
+black 2 black 3 black 3
+black 1 black 2 black 3 black 3 black 1 black 1
+black 3 black 1 black 1 black 1 black 1 black 3 black 1
+black 3 black 1 black 1 black 1 black 1 black 5
+black 1 black 1 black 2 black 3 black 2 black 4
+black 1 black 1
+
+columns
+blue 3 black 4
+blue 3 black 2
+black 1 blue 3 black 5
+black 1 blue 2 red 1 black 1 black 2
+black 1 blue 2 black 1
+red 1 blue 2 black 2 black 1
+red 2 blue 2 black 3 black 8
+red 2 blue 2 black 9
+red 3 blue 2 black 3 black 8
+red 3 blue 2 black 1 black 1 black 1
+red 2 blue 2 black 3 black 7
+red 2 blue 3 black 8
+red 1 blue 3 black 3 black 7
+blue 3 black 1 black 2 black 1
+blue 3 black 1
+blue 4 red 1 black 1 black 3
+blue 5 black 4
+blue 6 black 4
+blue 7 black 2
+blue 10 black 4

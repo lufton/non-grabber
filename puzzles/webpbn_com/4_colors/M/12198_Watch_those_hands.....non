@@ -1,0 +1,62 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by valerie o..travis"
+date "Feb 14, 2011"
+description "...Happy Valentine's Day everyone"
+difficulty 1.25
+height 30
+id 12198
+link "https://webpbn.com/play.cgi?id=12198"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Watch those hands...."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 2 red 2
+red 8
+red 8
+red 6
+red 4
+red 2
+black 2
+black 4
+black 5 green 1
+black 4 green 3
+black 3 green 4
+black 2 green 4
+black 2 green 2 green 1
+green 2 black 2 green 2
+black 1 green 2 black 1 green 3
+black 2 green 5
+black 3 green 4
+black 5 green 2
+black 6 green 1
+black 4 green 1 black 2
+black 4 green 3
+black 4 green 3
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 3 green 2
+black 3 green 1
+
+columns
+0
+red 2 black 2 green 1 black 8
+red 4 black 6 green 2 black 15
+red 5 black 8 green 2 black 14
+red 5 black 5 black 2 green 2 black 5 black 2
+red 5 black 2 green 8 black 2 green 11
+red 5 green 10 black 2 green 9
+red 4 green 3 green 5 black 1 green 2
+red 2 green 3
+0

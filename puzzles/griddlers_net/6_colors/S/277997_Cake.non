@@ -1,0 +1,53 @@
+by "elik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/18/24"
+height 15
+id 277997
+link "https://www.griddlers.net/nonogram/-/g/277997"
+medium_time "0:01:41"
+points 277
+popularity 69.28
+title "Cake"
+width 15
+
+color a ffffff
+color c ff0000
+color d 00ff00
+color e 990000
+color g ff00ff
+color h FFFF00
+
+rows
+h 1 h 1
+h 1 h 1 h 1 h 1
+c 1 h 1 c 1 h 1
+c 1 c 1 c 1 c 1
+c 1 c 1 c 1 c 1
+c 1 c 1 c 1 c 1
+c 1 c 1 c 1 c 1
+e 11
+e 13
+d 1 e 13 d 1
+d 1 e 3 g 1 e 3 g 1 e 3 g 1 e 1 d 1
+d 1 e 5 g 1 e 3 g 1 e 3 d 1
+d 1 e 13 d 1
+d 1 e 2 c 10 e 1 d 1
+d 1 e 2 g 10 e 1 d 1
+
+columns
+d 6
+e 7
+h 2 c 5 e 8
+e 6 c 1 g 1
+e 3 g 1 e 2 c 1 g 1
+h 2 c 4 e 6 c 1 g 1
+e 4 g 1 e 1 c 1 g 1
+e 6 c 1 g 1
+h 2 c 5 e 3 g 1 e 2 c 1 g 1
+e 6 c 1 g 1
+e 4 g 1 e 1 c 1 g 1
+h 2 c 4 e 6 c 1 g 1
+e 3 g 1 e 2 c 1 g 1
+e 7
+d 6

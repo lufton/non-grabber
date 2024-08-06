@@ -1,0 +1,51 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kai-Uwe Zickerick"
+date "Jun 11, 2012"
+description "Congratulations to Rafael Nadal for winning the French Open, second Grand-Slam-Tennis-Tournament of the year, for the seventh time."
+difficulty 1.5
+height 15
+id 18963
+link "https://webpbn.com/play.cgi?id=18963"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #111 Never beaten"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4 black 5
+blue 3 black 4
+blue 3 black 6
+blue 2 black 7
+blue 2 blue 1 black 5
+blue 2 blue 1 black 4
+blue 2 blue 2 black 2
+blue 1 blue 3 black 1 black 1
+blue 3 black 2
+blue 5 black 3
+blue 2 black 4
+black 4
+blue 1 black 4
+blue 4 black 4
+blue 5 black 4
+
+columns
+blue 8 blue 3
+blue 7 blue 2
+blue 3 blue 2 blue 2
+blue 1 blue 4 blue 2
+blue 3 blue 1
+blue 4
+blue 2 blue 1
+blue 1
+black 1 black 2
+black 6
+black 8
+black 7 black 5
+black 6 black 6
+black 2 black 7
+black 2 black 8

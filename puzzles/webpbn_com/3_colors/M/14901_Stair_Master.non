@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jun 24, 2011"
+description "Using my Etch-a-Sketch to draw stairs."
+difficulty 1.75
+height 20
+id 14901
+link "https://webpbn.com/play.cgi?id=14901"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Stair Master"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 16
+red 18
+red 2 black 4 red 2
+red 2 black 1 red 2
+red 2 black 3 red 2
+red 2 black 1 red 2
+red 2 black 3 red 2
+red 2 black 1 red 2
+red 2 black 3 red 2
+red 2 black 1 red 2
+red 2 black 3 red 2
+red 2 black 1 red 2
+red 2 black 3 red 2
+red 18
+red 18
+red 3 red 8 red 3
+red 3 red 8 red 3
+red 16
+0
+
+columns
+0
+red 16
+red 18
+red 2 black 1 red 5
+red 2 black 1 red 2 red 1
+red 2 black 3 red 2 red 1
+red 2 black 1 red 5
+red 2 black 3 red 5
+red 2 black 1 red 5
+red 2 black 3 red 5
+red 2 black 1 red 5
+red 2 black 3 red 5
+red 2 black 1 red 5
+red 2 black 3 red 5
+red 2 black 1 red 2 red 1
+red 2 black 1 red 2 red 1
+red 2 black 1 red 5
+red 18
+red 16
+0

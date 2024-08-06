@@ -1,0 +1,32 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 28, 2011"
+description "High Jump"
+difficulty 1.0
+height 5
+id 14222
+link "https://webpbn.com/play.cgi?id=14222"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Minimal Sport 4"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1
+black 5
+red 1 red 1
+blue 5
+blue 5
+
+columns
+red 1 black 1 red 1 blue 2
+black 1 blue 2
+black 1 blue 2
+black 1 blue 2
+red 1 black 1 red 1 blue 2

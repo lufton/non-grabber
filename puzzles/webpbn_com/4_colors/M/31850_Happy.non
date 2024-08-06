@@ -1,0 +1,67 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Joe"
+date "Dec  4, 2018"
+description "Snoggletog"
+difficulty 1.5
+height 30
+id 31850
+link "https://webpbn.com/play.cgi?id=31850"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Happy"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 blue 3
+green 2 blue 4
+green 2 blue 2 blue 2
+blue 2 green 3 blue 4 blue 1
+blue 4 green 3 blue 4 blue 1
+blue 6 green 3 blue 3 blue 2
+blue 2 black 1 blue 1 black 1 blue 1 green 4 blue 5
+black 3 green 5
+black 2 green 5
+blue 1 black 2 green 4 black 1
+blue 5 black 2 green 4 black 1
+blue 4 green 1 black 3 green 3 blue 1 black 1 blue 2
+blue 3 green 1 black 3 green 3 black 2 blue 1 black 1
+blue 1 green 1 black 3 green 3 black 4
+green 7 black 3 blue 1
+black 1 green 7 black 3 blue 1
+black 1 green 6 black 3 blue 2
+blue 1 black 2 green 8 black 2 blue 2
+blue 2 black 2 green 8
+blue 1 black 3 green 8 blue 1
+black 4 green 7 blue 3
+black 2 green 8 blue 2
+blue 2 green 1 black 3 green 7 blue 2
+blue 2 green 1 black 3 green 8 blue 1
+blue 2 green 12
+blue 1 green 13
+green 13
+green 15
+green 15
+green 15
+
+columns
+blue 2 blue 3 blue 3 blue 4 green 3
+blue 2 blue 3 black 3 blue 1 black 2 blue 3 green 5
+blue 2 black 2 blue 3 black 4 green 8
+blue 3 black 2 blue 4 green 1 black 6 green 6
+blue 3 black 4 blue 1 green 9 black 4 green 6
+blue 4 green 2 black 5 green 8 black 2 green 6
+green 7 black 4 green 16
+green 11 black 3 green 16
+green 29
+blue 3 green 24
+blue 5 green 6 black 1 green 13
+blue 6 blue 1 black 6 green 12
+blue 2 blue 2 blue 1 black 9 blue 1 green 9
+blue 3 blue 2 blue 2 black 3 blue 2 blue 3 green 7
+blue 7 blue 1 black 2 blue 4 blue 5 green 3

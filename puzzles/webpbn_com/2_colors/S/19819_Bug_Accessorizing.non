@@ -1,0 +1,47 @@
+by "Mike Kam (zl.oft)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Mike Kam"
+date "Sep 16, 2012"
+description "A bug wearing shades."
+difficulty 2.25
+height 15
+id 19819
+link "https://webpbn.com/play.cgi?id=19819"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Bug Accessorizing"
+width 15
+
+rows
+4,4
+1,2,2,1
+1,1,1
+6,7
+1,4,4,1
+1,2,1,2,1,1
+2,2,3
+1,1
+2,1,1
+3,1,1
+2,2,1
+1,2,1,1
+2,3,2,2
+3,2,2
+6
+
+columns
+2,2
+1,1,3
+1,3,2,2
+2,2,1,1,1
+6,2,2
+3,2,2
+1,4
+3,3,2
+4,1,1
+2,4,1,1
+1,3,2,1
+1,1,1
+2,1,2,2
+2,1,2
+8

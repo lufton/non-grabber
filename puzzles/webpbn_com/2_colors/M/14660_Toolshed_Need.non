@@ -1,0 +1,52 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joe"
+date "Jun 15, 2011"
+description "Every well-stocked toolshed could use a forklift."
+difficulty 1.75
+height 15
+id 14660
+link "https://webpbn.com/play.cgi?id=14660"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Toolshed Need"
+width 20
+
+rows
+20
+7,8
+6,4,3,4
+6,1,2,3,4
+5,1,2,2,4
+5,1,2,2,4
+2,3,2,1,1
+1,1,1
+1,1,1
+1,2,2,1
+1,1,1,1,1,1
+2,1,1,1,4
+2,1,1,1
+3,6,7
+20
+
+columns
+15
+7,4
+6,1,2
+6,1,1
+6,1,1
+4,1,1,2
+2,3,4
+1,2,1,2
+1,1,2
+1,2,1,4
+1,5,1,2
+1,2,1,1
+4,1,1
+6,1,2
+9,4
+2,2
+12,2
+6,1,2
+6,1,2
+6,1,2

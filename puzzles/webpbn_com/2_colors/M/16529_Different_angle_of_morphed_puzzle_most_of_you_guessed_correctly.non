@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom King"
+date "Nov 26, 2011"
+description "I tried this in 20x20 and it looked ot me like a bug. This is a better representation. See if you can guess???"
+difficulty 2.75
+height 20
+id 16529
+link "https://webpbn.com/play.cgi?id=16529"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Different angle of morphed puzzle, most of you guessed correctly"
+width 20
+
+rows
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+2,2,1,1,1,1,2
+3,7,1,3
+3,2,4,3
+3,3,2
+3,2,2,2
+3,2,2,3
+2,1,2,1,2
+1,1,2,1,1
+1,2,1,2,1,2,1
+2,1,6,1,2
+2,2
+2,3,3,2
+3,3,1
+5,4
+3,2,1,3
+3,10,3
+
+columns
+4
+3,3,3,2,3
+6,6
+4,5,1,5
+1,1,1,1,2
+2,1,1,1,2
+3,2,2,1,1,2
+3,2,1,1,1
+2,1,1,1,1
+2,1,4,1,1
+1,4,1,1
+2,3,1,1,1
+1,2,2,1,1,1
+2,1,2,1,1,1
+3,2,1,1,1,1
+5,1,1,2
+1,3,1,3
+2,1,2,2,2,3
+1,4,2,2,3
+2,4,4,3

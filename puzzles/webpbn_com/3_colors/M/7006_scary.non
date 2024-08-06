@@ -1,0 +1,61 @@
+by "pia (pips)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by pia"
+date "Oct 26, 2009"
+description "a ghost"
+difficulty 1.5
+height 20
+id 7006
+link "https://webpbn.com/play.cgi?id=7006"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "scary"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 14
+red 3 black 12 red 3
+red 2 black 2 black 2 red 2
+red 1 black 1 black 1 red 1
+red 1 black 1 black 4 black 4 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 2 black 1 black 2 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 4 black 4 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 1 black 3 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 1 black 7 black 1 red 1
+red 1 black 1 black 11 black 1 red 1
+red 1 black 1 black 11 black 1 red 1
+red 1 black 1 black 5 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 18 red 1
+red 2 red 2
+red 1 red 1
+
+columns
+red 18
+red 2 black 15 red 1
+red 1 black 1 black 1
+red 2 black 1 black 1
+red 1 black 1 black 5 black 1
+red 1 black 1 black 1 black 1 black 1 black 2 black 1
+red 1 black 1 black 1 black 1 black 3 black 1
+red 1 black 1 black 5 black 1 black 3 black 1
+red 1 black 1 black 1 black 3 black 1
+red 1 black 1 black 1 black 4 black 1
+red 1 black 1 black 4 black 1
+red 1 black 1 black 4 black 1
+red 1 black 1 black 5 black 4 black 1
+red 1 black 1 black 1 black 1 black 1 black 3 black 1
+red 1 black 1 black 1 black 1 black 2 black 1
+red 1 black 1 black 5 black 2 black 1
+red 2 black 1 black 1
+red 1 black 1 black 1
+red 2 black 15 red 1
+red 18

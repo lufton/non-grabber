@@ -1,0 +1,113 @@
+by "Cozy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/30/06"
+height 40
+id 30374
+link "https://www.griddlers.net/nonogram/-/g/30374"
+medium_time "0:24:46"
+points 22325
+popularity 64.77
+title "Soccer"
+width 50
+
+color a 00d700
+color b 000000
+color d ff0000
+color e ccffff
+color g ffffff
+color h ffcc99
+
+rows
+h 2 e 48
+h 3 e 47
+h 3 e 16 b 30 e 1
+h 4 e 15 b 30 e 1
+h 5 e 14 b 3 e 24 b 3 e 1
+h 6 e 13 b 2 e 1 b 1 e 22 b 1 e 1 b 2 e 1
+h 7 e 12 b 2 e 2 b 22 e 2 b 2 e 1
+h 8 e 11 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+h 7 b 2 e 10 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+h 6 b 4 e 9 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+h 5 b 5 e 9 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+h 4 b 5 g 2 e 8 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+h 3 b 5 g 4 e 7 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+e 1 h 1 b 5 g 6 e 6 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+e 2 b 4 g 8 e 5 b 2 e 2 b 1 e 20 b 1 e 2 b 2 e 1
+b 3 g 9 b 2 b 1 b 1 b 2
+b 1 g 11 b 2 b 1 b 4 b 1 b 2
+g 12 b 2 b 16 g 1 b 5 b 2
+g 12 b 2 b 1 b 1 g 1 b 3 g 1 b 2 b 1 b 2
+g 11 b 3 b 1 g 1 b 1 g 1 b 1 g 1 b 4 b 3
+g 11 b 2 b 4 g 2 b 4 b 2
+g 11 b 4 g 1 b 1 g 1 b 1 g 1 b 1
+g 11 b 1 g 1 b 1 g 1 b 3 g 2 b 1
+g 11 b 1 g 2 b 3 g 1 b 1
+g 11 b 1 g 2 b 1 g 1 b 1
+g 11 b 4
+g 11
+g 10 b 3
+g 9 d 1 b 1 b 1
+g 6 b 2 d 1 b 3
+d 5 b 8
+d 5 b 1 d 2 b 1 d 1 b 2 d 3
+d 4 b 4 d 1 b 1 d 2 b 3 d 1
+d 11 b 2 d 3 b 2
+d 14 b 2 d 2
+b 1 d 11 b 2 d 4
+b 3 d 14 b 1
+b 3 d 11 b 1
+b 4 d 5 b 3
+b 7
+
+columns
+h 13 e 2
+h 14 e 1
+e 1 h 12 b 2
+e 3 h 9 b 4
+e 4 h 7 b 6
+e 5 h 5 b 6 g 2
+e 6 h 3 b 5 g 5
+e 7 h 1 b 5 g 7
+e 8 b 4 g 9
+e 9 b 2 g 11
+e 11 g 12
+e 12 g 12
+e 13 g 12
+e 14 g 12
+e 15 g 12
+e 15 g 11
+e 15 g 11
+e 15 g 11
+e 15 g 10 d 2
+e 2 b 19 g 9 d 4
+e 2 b 19 g 8 d 5
+e 2 b 3 e 10 b 1 g 7 d 5 b 1
+e 2 b 2 e 1 b 1 e 9 b 1 g 6 d 6 b 1
+e 2 b 2 e 2 b 12 g 5 b 3 d 3 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 g 3 b 2 d 1 b 1 d 3 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 g 2 b 2 d 1 b 1 d 4 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 d 2 b 3 d 4 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 b 4 d 6 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 b 1 b 4 d 5 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 b 5 d 6 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 b 1 d 2 b 1 d 4 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 d 1 b 2 d 4 b 2
+e 2 b 2 e 2 b 1 e 8 b 1 d 1 b 1 d 6 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 b 4 b 1 d 2 b 1 d 3 b 1
+e 2 b 2 e 2 b 1 e 8 b 2 g 1 b 2 g 1 b 1 d 2 b 2 d 3 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 g 1 b 4 g 1 b 1 b 2 d 4 b 1
+e 2 b 2 e 2 b 1 e 8 b 3 g 1 b 2 g 3 b 1 b 1 d 5 b 1
+e 2 b 2 e 2 b 1 e 8 b 4 g 2 b 2 g 1 b 1 d 4 b 2
+e 2 b 2 e 2 b 1 e 8 b 3 g 2 b 5 d 3 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 g 2 b 2 g 1 b 2 g 1 b 1 b 3
+e 2 b 2 e 2 b 1 e 8 b 5 g 2 b 1
+e 2 b 2 e 2 b 1 e 8 b 4 g 2 b 1
+e 2 b 2 e 2 b 1 e 8 b 1 b 4
+e 2 b 2 e 2 b 1 e 8 b 1
+e 2 b 2 e 2 b 12
+e 2 b 2 e 1 b 1 e 9 b 1
+e 2 b 3 e 10 b 1
+e 2 b 19
+e 2 b 19
+e 15

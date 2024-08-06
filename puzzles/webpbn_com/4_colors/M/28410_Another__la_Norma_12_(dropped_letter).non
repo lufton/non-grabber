@@ -1,0 +1,57 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Jul 16, 2016"
+description "1995 movie"
+difficulty 1.5
+height 20
+id 28410
+link "https://webpbn.com/play.cgi?id=28410"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Another Ã  la Norma, #12 (dropped letter)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 1 black 7 red 3
+blue 3 black 7
+blue 2 black 7 red 3
+blue 3 black 7
+blue 1 blue 1 black 7 red 3
+blue 3 black 7
+blue 1 black 7 red 2
+blue 2 black 9
+blue 2 black 1 black 1 red 2
+blue 2 black 3 black 3
+red 2 black 3 black 1 black 2 red 2
+black 2 black 2
+red 2 black 1 black 2 red 2
+black 2 black 2
+red 3 black 2 black 1 red 3
+black 5
+red 2 black 1 black 3 black 1 red 2
+black 2 black 2
+red 1 black 4 black 4 red 1
+black 11
+
+columns
+blue 2 blue 3 blue 3 red 1 red 1 red 1 red 1 red 1
+blue 3 blue 5 red 1 red 1 red 1 red 1
+blue 6 red 1 black 2
+black 1 black 2 black 3
+black 15 black 4
+black 8 black 2 black 3 black 2
+black 8 black 1 black 2 black 1
+black 8 black 2 black 1
+black 8 black 2 black 2 black 1
+black 8 black 1 black 4 black 2
+black 14 black 4
+black 1 black 2 black 3
+red 1 red 1 red 1 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1

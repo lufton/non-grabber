@@ -1,0 +1,76 @@
+by "Gijs Verhallen (Chulo9)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gijs Verhallen"
+date "Jan 23, 2017"
+description "Soccer pitch, Root for your FC in the comments!"
+difficulty 1.25
+height 39
+id 29341
+link "https://webpbn.com/play.cgi?id=29341"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Pitch Perfect"
+width 20
+
+rows
+20
+1,1,1,1,1,1,1,1
+3,1,4,1,3
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,10,1
+1,2,2,1
+1,4,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,8,1
+1,2,2,1
+1,1,1,1
+1,1,1,1
+20
+1,1,1,1
+1,1,1,1
+1,2,2,1
+1,8,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,4,1
+1,2,2,1
+1,10,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+3,1,4,1,3
+1,1,1,1,1,1,1,1
+20
+
+columns
+39
+1,1,1,1,1
+3,1,3
+1,1,1
+1,1,1
+7,7,7
+1,1,2,1,2,1,1
+1,2,1,1,1,2,1
+3,3,1,1,1,3,3
+1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1
+3,3,1,1,1,3,3
+1,2,1,1,1,2,1
+1,1,2,1,2,1,1
+7,7,7
+1,1,1
+1,1,1
+3,1,3
+1,1,1,1,1
+39

@@ -1,0 +1,53 @@
+by "Grace Zoppi (Grace Giraffe.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Grace Zoppi"
+date "Jul  3, 2010"
+description "If only it could really move."
+difficulty 1.25
+height 15
+id 9469
+link "https://webpbn.com/play.cgi?id=9469"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "spining and spinning"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 blue 14
+red 2 blue 2
+red 3 blue 2 black 1
+red 1 red 2 blue 2 black 1
+red 1 red 2 blue 2 black 1
+red 1 red 1 green 5 blue 1 black 1
+red 1 green 1 blue 3 green 1 black 1
+red 1 green 1 blue 1 red 1 blue 1 green 1 black 1
+red 1 green 1 blue 3 green 1 black 1
+red 1 green 6 black 1 black 1
+red 1 green 2 black 2 black 1
+red 1 green 2 black 2 black 1
+red 1 green 2 black 3
+green 2 black 2
+green 14 black 1
+
+columns
+red 13 green 2
+blue 1 red 2 green 3
+blue 1 red 2 green 2 green 1
+blue 1 red 2 green 2 green 1
+blue 1 red 2 green 2 green 1
+blue 1 green 5 green 1
+blue 1 green 1 blue 3 green 1 green 1
+blue 1 green 1 blue 1 red 1 blue 1 green 1 green 1
+blue 1 green 1 blue 3 green 1 green 1
+blue 1 green 5 green 1
+blue 1 blue 2 black 2 green 1
+blue 1 blue 2 black 2 green 1
+blue 1 blue 2 black 2 green 1
+blue 3 black 2 green 1
+blue 2 black 13

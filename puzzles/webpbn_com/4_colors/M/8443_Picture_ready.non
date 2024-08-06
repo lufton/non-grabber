@@ -1,0 +1,57 @@
+by "Jennifer Jones (geekess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Jennifer Jones"
+date "Apr 17, 2010"
+description "oooh not until you get that bit of spinach cleared out!!"
+difficulty 2.0
+height 15
+id 8443
+link "https://webpbn.com/play.cgi?id=8443"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Picture ready?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 4 red 4
+red 14
+red 18
+red 20
+black 1 black 1 black 1 green 2 black 1 black 1 black 1
+black 1 black 1 black 1 green 2 black 1 black 1 black 1
+black 1 black 1 black 1 green 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 3
+red 1 black 1 black 13 red 1
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 red 2
+red 4 black 1 black 1 black 1 black 1 red 4
+red 18
+red 16
+red 12
+red 8
+
+columns
+red 1 black 3 red 3
+red 2 black 1 red 3
+red 2 black 3 red 3
+red 3 black 4 red 3
+red 3 black 3 red 3
+red 4 black 1 red 3
+red 4 black 5 red 4
+red 4 black 3 red 4
+red 4 black 1 red 4
+red 3 green 3 black 1 red 4
+red 3 green 2 black 5 red 4
+red 4 black 1 red 4
+red 4 black 1 red 4
+red 4 black 7 red 4
+red 4 black 1 red 3
+red 3 black 1 red 3
+red 3 black 6 red 3
+red 2 black 1 red 3
+red 2 black 1 red 3
+red 1 black 3 red 3

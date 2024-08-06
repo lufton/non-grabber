@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom King"
+date "Mar  8, 2013"
+description "A sommelier cuting the neck off a champagne bottle or a Ghostbuster's ghost being dumped in a vat of ectoplasm?"
+difficulty 2.75
+height 20
+id 21298
+link "https://webpbn.com/play.cgi?id=21298"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Which is it?"
+width 20
+
+rows
+4,3,2
+4,2,2
+1,1,3
+1,1,4
+1,1,6
+2,2,3,1
+1,1,2,1
+1,1,3
+2,4
+2,2
+1,3,5
+1,3,1,5
+1,2,1,5
+1,1,5
+1,1,5
+1,1,3
+1,1,1
+1,1,1
+1,1,1
+1,1,5
+
+columns
+11
+2
+4
+6
+2,1
+2,2
+6,1
+4,2
+3
+12
+2
+1
+2
+1,2
+1,2
+6,5,1
+4,6,1
+3,10
+2,2,6,1
+2,3,5,1

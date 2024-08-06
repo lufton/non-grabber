@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan 10, 2012"
+description "Needed to put another B&W 20x out there."
+difficulty 1.75
+height 20
+id 17082
+link "https://webpbn.com/play.cgi?id=17082"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Someone's watching you"
+width 20
+
+rows
+7,7
+2,2,2,2
+1,1,1,1
+0
+4,5
+2,2,2,2
+2,2,1,2
+1,1,1,1
+1,2,2,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,3,1,1,3,1
+1,1,3,1,1,1,3,1
+1,5,1,1,5,1
+1,3,2,1,3,1
+2,2,2,2
+2,1,2,2
+5,5
+
+columns
+2,12
+2,2,2
+1,2,2,2
+1,1,1,2,1
+1,1,4,1
+1,2,4,1
+1,2,2,3
+2,3,2
+2,9
+0
+0
+2,10
+2,4,2
+1,2,2,2
+1,1,1,2,1
+1,1,4,1
+1,1,4,1
+1,2,2,2
+2,2,2
+2,12

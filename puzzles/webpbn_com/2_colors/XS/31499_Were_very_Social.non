@@ -1,0 +1,33 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Kristen Vognild"
+date "Aug 28, 2018"
+description "Inspired by #30490, this is as small as I could get while retaining most of the proportions. (I could do a 5x5, but it was too skinny)"
+difficulty 1.25
+height 8
+id 31499
+link "https://webpbn.com/play.cgi?id=31499"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "We're very Social"
+width 8
+
+rows
+4,1
+3,1
+3,3
+2,2
+2,2
+3,3
+3,3
+3,3
+
+columns
+8
+8
+3,3
+1
+0
+1,3
+6
+8

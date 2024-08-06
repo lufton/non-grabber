@@ -1,0 +1,57 @@
+by "Alice Casagrande Cesonetto (alixinha)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Alice Casagrande Cesonetto"
+date "Feb 12, 2008"
+description ":D"
+difficulty 1.5
+height 13
+id 2279
+link "https://webpbn.com/play.cgi?id=2279"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Símbolo do Criciúma"
+width 27
+
+rows
+1,1
+3,3
+5,5
+7,7
+8,8
+1,7,7,1
+3,6,6,3
+5,5,5,5
+7,4,4,7
+7,3,3,7
+7,2,2,7
+7,1,1,7
+7,7
+
+columns
+1
+3
+5
+7
+7
+2,6
+4,5
+6,4
+8,3
+8,2
+8,1
+8
+8
+0
+8
+8
+8,1
+8,2
+8,3
+6,4
+4,5
+2,6
+7
+7
+5
+3
+1

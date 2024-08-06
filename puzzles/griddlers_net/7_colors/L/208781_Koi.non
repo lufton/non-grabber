@@ -1,0 +1,83 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/4/20"
+height 35
+id 208781
+link "https://www.griddlers.net/nonogram/-/g/208781"
+medium_time "0:15:28"
+points 8246
+popularity 89.24
+title "Koi"
+width 24
+
+color a 33ccff
+color b 000000
+color d ff6666
+color e 00d700
+color f 009900
+color g cc0000
+color h ffffff
+
+rows
+d 4
+d 5
+g 2 b 1 g 4 d 1 g 2 d 2
+g 3 h 1 g 2 h 2 g 4 d 2
+g 2 h 3 g 2 h 3 g 2
+g 2 h 2 g 6 h 2 g 1
+g 1 b 1 h 1 g 6 h 3 g 1
+g 2 h 3 g 5 h 1 g 2
+g 3 h 4 g 1 h 3 g 1
+g 3 h 7 g 1
+d 2 g 4 h 2 g 2 h 1 g 1
+f 5 d 1 g 2 d 1 g 4 h 1 g 2
+e 3 f 7 d 4 g 3 h 2 g 1
+e 4 f 7 d 3 g 2 h 1 g 1
+e 3 f 7 d 1 g 1 h 1 g 1
+f 1 e 1 f 6 g 3
+f 3 e 1 f 5 g 2
+f 5 e 1 f 5 g 3
+f 12 g 2
+f 11 e 1 g 3
+f 10 e 1 g 4
+e 2 f 6 e 2 g 6
+e 6 g 2 h 2 g 2
+g 2 h 2 g 2
+g 1 h 1 g 2
+f 3 g 4
+f 7 g 1 h 1 g 1
+f 10 g 3
+f 10 g 2
+f 10 g 1
+f 7 e 2 g 1
+f 5 e 3 g 1
+f 3 e 3
+e 4 f 3
+f 6
+
+columns
+e 2 f 6 e 1 f 6 e 1
+f 1 e 2 f 5 e 1 f 6 e 1
+f 1 e 3 f 6 e 1 f 7 e 1
+f 2 e 2 f 5 e 1 f 6 e 2
+f 3 e 1 f 5 e 1 f 7 e 1
+f 4 e 1 f 4 e 1 f 6 e 2
+f 4 e 2 f 4 e 1 f 6 e 1
+g 3 f 10 e 1 f 4 e 2 f 1
+g 5 f 9 e 1 f 4 e 1 f 1
+g 2 h 2 b 1 g 1 f 9 e 1 f 3 f 2
+b 1 h 4 g 2 f 7 e 1 f 2
+g 2 h 1 g 2 h 1 g 1 d 4 f 5 e 1 f 2
+g 5 h 1 g 2 d 1 g 1 d 3 g 7 f 1
+g 1 h 1 g 3 h 2 g 3 d 2 g 3 h 1 g 2
+g 1 h 2 g 3 h 1 g 2 d 2 g 2 h 1 g 3
+g 1 h 1 g 3 h 2 g 1 g 2 h 1 g 2
+g 1 h 1 g 3 h 2 g 1 g 1 h 2 g 1
+d 2 g 2 h 2 g 2 h 2 g 1 g 1 h 1 g 1
+d 2 g 3 h 2 g 1 h 3 g 2 g 4
+d 2 g 1 d 1 g 1 h 4 g 3 g 3
+d 4 g 2 h 2 g 4 g 3
+d 3 g 2 h 4 g 3 g 4
+g 3 h 3 g 5
+g 7

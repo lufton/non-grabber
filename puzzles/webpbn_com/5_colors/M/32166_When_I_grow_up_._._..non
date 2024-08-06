@@ -1,0 +1,63 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Bill Eisenmann"
+date "Mar 12, 2019"
+description "... I want a limousine! (By Alex, age 6)"
+difficulty 1.25
+height 20
+id 32166
+link "https://webpbn.com/play.cgi?id=32166"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "When I grow up . . ."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 blue 13 blue 1
+blue 1 blue 6 blue 5 blue 1
+blue 9 blue 8
+blue 20
+blue 1 blue 3 blue 5 blue 5
+blue 1 blue 2 blue 6 blue 4
+blue 1 blue 2 blue 5 blue 5
+blue 13 blue 5
+blue 20
+green 13
+blue 2 green 1 blue 3 green 2 blue 3 green 2
+blue 2 green 1 blue 3 green 2 blue 3 green 2
+blue 2 green 1 blue 3 green 2 blue 3 green 2
+red 1 blue 2 green 1 blue 3 green 2 blue 3 green 2
+red 1 green 14
+green 6 red 2 green 3 red 2 green 5
+green 1 black 3 green 10 black 3 green 1
+green 1 black 1 black 1 green 10 black 1 black 1 green 1
+black 20
+
+columns
+blue 10 black 1
+blue 1 blue 2 blue 2 black 1
+blue 1 blue 3 blue 2 red 2 green 3 black 1
+blue 10 green 1 black 3
+blue 10 green 1 black 1 black 1
+blue 5 blue 2 green 1 black 3
+blue 5 blue 2 green 4 black 1
+blue 5 blue 2 green 1 blue 4 green 4 black 1
+blue 10 green 1 blue 4 green 1 red 1 green 2 black 1
+blue 2 blue 6 green 6 red 1 green 2 black 1
+blue 2 blue 6 green 1 blue 4 green 4 black 1
+blue 3 blue 6 green 1 blue 4 green 4 black 1
+blue 10 green 1 blue 4 green 4 black 1
+blue 5 blue 1 blue 1 green 6 red 1 green 2 black 1
+blue 5 blue 1 green 6 red 1 green 2 black 1
+blue 6 blue 3 green 1 blue 4 green 4 black 1
+blue 1 blue 7 green 1 blue 4 green 2 black 3
+blue 1 blue 7 green 1 blue 4 green 2 black 1 black 1
+blue 1 blue 7 green 7 black 3
+blue 10 green 9 black 1

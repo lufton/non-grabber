@@ -1,0 +1,66 @@
+by "Mike B (mikey_b)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Mike B"
+date "Mar  9, 2019"
+description "Hook and Ladder Fire Engine"
+difficulty 1.75
+height 15
+id 32159
+link "https://webpbn.com/play.cgi?id=32159"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "To the Rescue"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 24
+black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 26
+black 2 black 2 black 2 black 1
+black 4 black 4 black 4 black 1
+black 5 red 18 black 1
+black 1 black 1 black 1 red 18 black 1
+black 1 black 1 black 1 red 18 black 1
+black 8 red 18 black 1
+black 1 red 25 black 1
+black 1 black 2 black 2 black 2 red 1 black 2
+black 1 red 3 black 4 red 6 black 4 red 1 black 4 red 4 black 2
+black 4 black 4 black 4
+black 2 black 2 black 2
+0
+
+columns
+black 3 black 2
+black 3 black 2 red 1
+black 3 black 2 red 1 red 1
+black 1 black 1 black 1 black 1 red 1 red 1
+black 1 black 1 black 2 black 1 red 1 black 2
+black 9 red 1 black 4
+black 1 black 4 black 1 red 1 black 4
+black 1 black 1 black 2 black 1 red 1 black 2
+black 3 black 4 red 1 red 1
+black 1 black 1 red 5 red 1
+black 1 black 1 red 5 red 1
+black 3 red 5 red 1
+black 1 black 1 red 5 red 1
+black 1 black 1 black 1 red 5 red 1
+black 5 red 5 black 2
+black 1 black 3 red 5 black 4
+black 1 black 1 black 1 red 5 black 4
+black 3 red 5 black 2
+black 1 black 1 red 5 red 1
+black 1 black 1 red 5 black 2
+black 3 red 5 black 4
+black 1 black 1 red 5 black 4
+black 1 black 1 black 1 red 5 black 2
+black 5 red 5 red 1
+black 4 red 5 red 1
+black 1 black 1 red 5 red 1
+black 1 red 7
+black 8
+black 2
+0

@@ -1,0 +1,120 @@
+by "Palah"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/9/09"
+height 50
+id 77034
+link "https://www.griddlers.net/nonogram/-/g/77034"
+medium_time "0:27:19"
+points 47097
+popularity 70.37
+title "Pot of Gold"
+width 45
+
+color a ffffff
+color b 000000
+color c ffcc00
+color d ff3333
+color e 00d700
+color f cc33ff
+color g 00ffff
+color h 3333ff
+
+rows
+g 1 h 5
+g 2 h 5
+g 3 h 5
+g 4 h 5
+g 5 h 5
+g 6 h 5
+f 2 g 5 h 5
+f 3 g 5 h 5
+f 4 g 5 h 5
+f 5 g 5 h 5
+f 6 g 5 h 5
+f 7 g 5 h 5
+f 8 g 5 h 5
+f 9 g 5 h 5
+f 10 g 5 h 5
+d 1 f 10 g 5 h 5
+d 3 f 9 g 5 h 5
+d 5 f 8 g 5 h 5
+d 6 f 8 g 5 h 5 c 2
+d 8 f 7 g 5 h 5 c 2 c 4
+d 9 f 7 g 5 h 4 c 4 c 2
+d 9 f 7 g 5 h 4 c 1 c 2
+d 8 f 7 g 5 c 2 h 3 c 2 c 4
+d 8 f 7 g 3 c 4 h 1 c 4 c 2 c 2
+d 8 f 5 c 2 g 3 c 2 h 3 c 2 c 2 c 4
+d 7 f 3 c 4 g 4 h 5 c 2 c 4 c 2
+d 7 f 2 c 2 f 1 g 5 c 2 h 1 c 4 c 2
+d 4 c 2 f 4 c 2 g 2 c 4 h 1 c 2 c 2 c 2
+d 2 c 4 f 2 c 4 g 2 c 2 h 4 c 4 c 4
+d 2 c 2 d 2 f 2 c 2 g 5 h 5 c 2 c 2
+e 4 c 2 e 24
+e 2 c 4 e 4 c 2 e 16
+c 2 e 3 c 2 e 4 c 4 e 15
+c 4 e 9 c 2 e 15
+c 2 b 26
+c 2 b 3 c 2 b 21
+c 4 e 2 c 4 e 20
+c 2 e 4 c 2 e 22
+c 2 e 30
+c 4 e 32
+c 2 e 4 c 2 e 26
+e 3 c 4 e 25
+e 4 c 2 e 26
+c 2 e 32
+c 4 e 1 c 2 e 29
+c 2 c 4 e 28
+c 2 e 1 c 2 e 29
+c 4 e 4 c 2 e 24
+c 2 e 2 c 4 e 22
+e 2 c 2 e 22
+
+columns
+g 6 f 9 d 6
+h 1 g 5 f 10 d 6
+h 2 g 5 f 9 d 6
+h 3 g 5 f 9 d 6
+h 4 g 5 f 8 d 7
+h 5 g 5 f 8 d 7
+h 5 g 5 f 8 d 6
+h 5 g 5 f 7 d 7
+h 5 g 5 f 7 d 6 c 1 c 1
+h 5 g 5 f 7 d 6 c 3 c 3
+h 5 g 5 f 7 d 5 c 1 c 3 c 3 c 1
+h 5 g 5 f 7 d 5 c 3 c 1 c 1 c 3
+h 5 g 5 f 7 d 5 c 1 c 3 c 3
+h 5 g 5 f 7 d 5 c 3 c 1 e 6 c 1 e 1 c 1
+h 5 g 5 f 7 d 2 c 1 d 1 e 1 c 3 e 6 c 3 e 1
+h 5 g 5 f 6 d 1 c 3 e 3 c 1 e 7 c 3 e 2
+h 5 g 5 f 6 c 3 e 4 b 2 e 5 c 1 e 3 c 1 e 4
+h 5 g 5 f 3 c 1 f 2 c 1 d 1 e 1 c 1 e 2 b 2 e 4 c 3 e 5 c 1 e 1
+h 5 g 5 f 1 c 3 f 2 d 1 c 3 e 1 b 2 c 1 e 3 c 3 e 4 c 3
+h 5 g 5 c 3 f 3 c 3 e 1 b 1 c 3 e 3 c 1 e 5 c 3
+h 5 g 5 c 1 f 2 c 1 f 1 e 1 c 1 e 2 b 1 c 3 e 10 c 1 e 1
+h 5 g 6 c 3 e 4 b 2 c 1 e 13
+h 5 g 1 c 1 g 3 c 3 e 4 b 2 e 14
+h 4 c 3 g 3 c 1 g 1 e 4 b 2 e 14
+h 3 c 3 g 5 e 2 c 1 e 1 b 2 e 14
+c 1 h 2 c 1 h 2 g 1 c 1 g 2 e 1 c 3 b 2 e 14
+c 2 h 4 c 3 g 1 e 1 c 3 b 2 e 14
+c 3 h 1 c 1 h 2 c 3 g 1 e 2 c 1 e 1 b 2 e 14
+c 1 c 3 h 2 c 1 h 2 e 4 b 2 e 14
+c 1 c 3 h 1 c 1 h 3 e 4 b 2 e 14
+c 3 c 1 c 3 h 2 e 4 b 2 e 14
+c 3 c 3 h 2 e 4 b 2 e 14
+c 1 c 1 c 1 c 1 h 1 e 4 b 2 e 14
+c 3 c 3 e 4 b 2 e 14
+c 3 c 1 c 3 e 4 b 2 e 14
+c 1 c 3 c 1 e 4 b 2 e 14
+c 3 e 4 b 2 e 14
+c 1 c 1 e 4 b 2 e 14
+c 1 c 3 e 4 b 2 e 14
+c 3 c 3 e 4 b 2 e 14
+c 3 c 1 e 4 b 2 e 14
+c 1 e 4 b 2 e 14
+e 3 e 12
+e 1 e 10
+e 8

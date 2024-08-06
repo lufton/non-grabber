@@ -1,0 +1,73 @@
+by "ik (ik)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by ik"
+date "Mar 12, 2011"
+description "i'm burning a candle for japan, and ofcorse for everyone else in need."
+difficulty 1.25
+height 30
+id 12694
+link "https://webpbn.com/play.cgi?id=12694"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "i'm burning a candle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+red 1
+red 1
+red 3
+red 2 blue 1 red 2
+red 2 blue 1 red 2
+red 3
+black 1
+green 9 black 1 green 10
+green 9 black 1 green 10
+green 5 black 8 green 7
+green 5 black 1 black 1 black 1 black 1 green 7
+green 5 black 1 black 1 black 1 black 1 green 7
+green 5 black 1 black 1 black 1 black 1 green 7
+green 5 black 1 black 1 black 2 green 7
+green 5 black 1 black 1 black 2 green 7
+green 5 black 1 black 1 black 1 green 7
+green 5 black 1 black 1 black 1 green 7
+green 5 black 2 black 1 green 7
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+green 11
+green 11
+green 11
+green 11
+green 11
+green 2 black 18
+green 2 black 1 black 1
+red 2 green 2 black 1 black 3
+red 4 green 2 black 5
+red 3 blue 2 red 1 black 4
+red 4 green 2 black 4
+red 2 green 2 black 1 black 2
+green 2 black 18
+green 11
+green 11
+green 11
+green 11
+green 11
+green 11
+green 11

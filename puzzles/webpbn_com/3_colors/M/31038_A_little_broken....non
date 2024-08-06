@@ -1,0 +1,61 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Scarlet Noelle Masen"
+date "Apr  2, 2018"
+description "But this saber is still powerful. Watching the Last Jedi (my favorite Star Wars movie) so I thought I'd make a little puzzle."
+difficulty 1.75
+height 25
+id 31038
+link "https://webpbn.com/play.cgi?id=31038"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "A little broken..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 1 red 1
+red 2 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 2
+red 1 red 1
+red 2 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 2
+red 2 red 1
+red 1 red 1
+red 1 red 2
+red 1 red 1
+red 1 black 3 red 1
+red 4 black 5 red 4
+red 1 black 5 red 1
+red 4 black 5 red 4
+red 1 black 3 red 1
+black 3
+black 3
+black 3
+black 3
+black 3
+
+columns
+red 1
+red 1 red 1
+red 1 red 2
+red 2 red 1
+red 1 red 1
+red 1 red 1 red 1 black 3
+red 14 black 10
+red 1 black 10
+red 14 black 10
+red 1 red 1 red 1 black 3
+red 1 red 1
+red 1 red 1
+red 1 red 2
+red 2 red 1
+red 1

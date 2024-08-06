@@ -1,0 +1,100 @@
+by "ecebuy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/6/11"
+height 45
+id 105090
+link "https://www.griddlers.net/nonogram/-/g/105090"
+medium_time "0:10:53"
+points 19772
+popularity 68.45
+title "Balloon"
+width 30
+
+color a ffffff
+color b 000000
+color c ff9900
+color d ff0000
+color e 00d700
+color f 9900ff
+color g 00ffff
+color h ffff00
+
+rows
+c 3 h 1 e 1 g 2 f 1 c 1 h 3
+f 2 c 2 d 1 h 1 e 1 g 2 f 1 c 1 d 1 h 2 e 2
+f 2 c 2 d 1 h 1 e 2 g 2 f 2 c 1 d 1 h 2 e 2
+f 2 c 2 d 1 h 2 e 2 g 2 f 2 c 2 d 1 h 2 e 2
+f 2 c 2 d 2 h 2 e 2 g 2 f 2 c 2 d 2 h 2 e 2
+f 1 c 2 d 2 h 2 e 3 g 2 f 3 c 2 d 2 h 2 e 1
+f 2 c 2 d 2 h 2 e 3 g 2 f 3 c 2 d 2 h 2 e 2
+f 3 c 1 d 3 h 2 e 2 g 4 f 2 c 2 d 3 h 1 e 3
+f 2 c 2 d 2 h 3 e 2 g 4 f 2 c 3 d 2 h 2 e 2
+g 1 f 2 c 1 d 3 h 3 e 2 g 4 f 2 c 3 d 3 h 1 e 2 g 1
+g 2 f 1 c 2 d 3 h 2 e 3 g 4 f 3 c 2 d 3 h 2 e 1 g 2
+g 2 f 1 c 2 d 3 h 2 e 3 g 4 f 3 c 2 d 3 h 2 e 1 g 2
+g 2 f 1 c 2 d 3 h 2 e 3 g 4 f 3 c 2 d 3 h 2 e 1 g 2
+g 2 f 1 c 2 d 3 h 2 e 3 g 4 f 3 c 2 d 3 h 2 e 1 g 2
+g 2 f 1 c 2 d 3 h 2 e 3 g 4 f 3 c 2 d 3 h 2 e 1 g 2
+g 1 f 2 c 1 d 3 h 2 e 3 g 4 f 3 c 2 d 3 h 1 e 2 g 1
+g 2 f 1 c 2 d 2 h 3 e 2 g 4 f 2 c 3 d 2 h 2 e 1 g 2
+g 2 f 1 c 2 d 2 h 3 e 2 g 4 f 2 c 3 d 2 h 2 e 1 g 2
+g 1 f 2 c 1 d 3 h 2 e 3 g 2 f 3 c 2 d 3 h 1 e 2 g 1
+g 2 f 1 c 2 d 2 h 2 e 3 g 2 f 3 c 2 d 2 h 2 e 1 g 2
+g 1 f 2 c 1 d 2 h 2 e 3 g 2 f 3 c 2 d 2 h 1 e 2 g 1
+g 2 f 1 c 1 d 2 h 2 e 3 g 2 f 3 c 2 d 2 h 1 e 1 g 2
+g 1 f 1 c 2 d 2 h 2 e 2 g 2 f 2 c 2 d 2 h 2 e 1 g 1
+f 2 c 2 d 1 h 2 e 2 g 2 f 2 c 2 d 1 h 2 e 2
+f 2 c 1 d 1 h 2 e 2 g 2 f 2 c 2 d 1 h 1 e 2
+f 1 c 1 d 2 h 1 e 2 g 2 f 2 c 1 d 2 h 1 e 1
+c 2 d 1 h 1 e 2 g 2 f 2 c 1 d 1 h 2
+c 1 d 1 h 1 e 2 g 2 f 2 c 1 d 1 h 1
+d 1 h 2 e 1 g 2 f 1 c 2 d 1
+d 2 h 1 e 1 g 2 f 1 c 1 d 2
+d 1 h 1 e 1 g 2 f 1 c 1 d 1
+d 1 h 1 e 1 g 2 f 1 c 1 d 1
+d 1 e 1 g 2 c 1 d 1
+d 1 e 1 g 2 c 1 d 1
+b 4
+b 1 b 1
+b 1 b 1
+b 7 b 7
+b 2 b 2
+b 2 b 10 b 2
+b 2 b 10 b 2
+b 2 b 10 b 2
+b 2 b 10 b 2
+b 2 b 2
+b 16
+
+columns
+g 5
+g 9
+f 9 g 4
+f 4 c 5 f 4 g 3
+f 4 c 10 f 3 g 2
+f 2 c 4 d 7 c 4 f 4
+f 2 c 3 d 12 c 4 f 2
+f 2 c 2 d 17 c 2 f 2 b 8
+f 1 c 2 d 4 h 10 d 5 c 4 b 8
+c 3 d 2 h 17 d 4 c 2 b 1 b 1
+c 2 d 1 h 7 e 6 h 9 d 5 b 1 b 4 b 1
+c 1 d 1 h 3 e 17 h 7 d 3 b 1 b 4 b 1
+h 2 e 26 h 4 d 2 b 1 b 4 b 1
+e 7 g 11 e 16 b 4 b 4 b 1
+g 34 b 1 b 4 b 1
+g 34 b 1 b 4 b 1
+f 7 g 11 f 14 c 2 b 4 b 4 b 1
+c 2 f 26 c 4 d 2 b 1 b 4 b 1
+h 1 d 1 c 3 f 17 c 7 d 3 b 1 b 4 b 1
+h 2 d 1 c 7 f 6 c 9 d 5 b 1 b 4 b 1
+h 3 d 2 c 17 d 4 h 2 b 1 b 1
+e 1 h 2 d 4 c 10 d 5 h 4 b 8
+e 2 h 2 d 17 h 2 e 2 b 8
+e 2 h 3 d 12 h 4 e 2
+e 2 h 4 d 7 h 4 e 4
+e 4 h 10 e 3 g 2
+e 4 h 5 e 4 g 3
+e 9 g 4
+g 9
+g 5

@@ -1,0 +1,65 @@
+by "cenifir"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/18/06"
+height 20
+id 30062
+link "https://www.griddlers.net/nonogram/-/g/30062"
+medium_time "0:11:12"
+points 2373
+popularity 64.73
+title "For You..."
+width 20
+
+color a a60000
+color b d000c8
+color c 788301
+color d 8a5f3d
+color e ba7240
+color f e88952
+color g ffd8d3
+color h 74ac00
+
+rows
+0
+0
+h 3 h 2
+c 2 h 4 c 2 h 3
+c 2 b 1 h 4 c 2 h 3
+h 5 b 3 h 3 c 3 h 5
+h 5 b 2 c 1 h 2 c 2 h 3 b 2 h 1
+c 2 h 4 c 1 b 2 h 1 b 1 c 1 b 2 h 1 b 2 h 1
+c 3 h 1 b 5 h 2 b 3 h 1 c 4
+c 4 b 2 c 1 b 1 c 1 b 3 h 2 b 2 c 3
+c 4 h 1 c 3 h 1 b 2 h 1 b 2 c 4
+c 3 b 3 d 2 h 3 b 1 c 2 b 1 c 1
+c 4 b 2 d 8 b 2
+c 1 c 3 d 2 e 1 g 2 e 5 b 2
+d 1 e 1 f 1 g 2 f 2 e 1
+d 2 e 1 f 1 g 1 f 1 e 2
+d 1 e 1 f 1 g 1 e 2
+d 1 e 1 f 1 g 1 e 2
+d 1 e 1 f 1 g 1 e 2
+d 6
+
+columns
+h 1
+h 2 c 3 c 1
+h 2 c 4 c 1
+h 3 c 6
+c 2 h 4 c 5
+h 1 c 2 b 1 h 2 b 2 c 4
+h 2 b 3 h 1 b 2 h 1 b 2 d 1
+h 3 b 2 c 1 b 1 c 2 b 2 d 3
+h 3 c 1 b 3 c 1 b 1 d 1 e 2 d 5
+h 4 b 2 c 2 d 2 g 1 f 1 e 4 d 1
+h 5 b 1 h 1 d 2 g 2 f 4 d 1
+b 1 h 1 b 2 h 1 d 1 e 1 g 5 d 1
+c 3 b 3 h 1 d 1 e 1 f 2 e 3 d 1
+c 2 b 2 h 3 d 1 e 1 f 1 e 4 d 1
+c 3 h 1 b 2 h 1 b 2 d 1 e 3
+h 1 c 2 h 4 b 2 c 1 d 1 e 1
+h 5 b 1 c 1 b 1 c 2 b 2
+h 3 b 2 c 3 b 2
+h 3 b 1 h 1 c 3 b 1
+h 2 c 4

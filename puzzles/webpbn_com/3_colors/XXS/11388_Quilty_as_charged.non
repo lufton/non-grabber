@@ -1,0 +1,31 @@
+by "John Breckenridge (jbrecken)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by John Breckenridge"
+date "Dec 14, 2010"
+description "A gavel hammering out a verdict (and in reverse a white gavel doing the opposite - Not quilty!)"
+difficulty 1.0
+height 5
+id 11388
+link "https://webpbn.com/play.cgi?id=11388"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Quilty as charged"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 2
+black 5
+black 2 green 1
+0
+black 3
+
+columns
+black 3 black 1
+black 3 black 1
+black 1 green 1 black 1
+black 1
+black 1

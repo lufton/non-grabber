@@ -1,0 +1,113 @@
+by "Lizzie Tonkin (LizzieTonkin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lizzie Tonkin"
+date "Jun 10, 2011"
+description "Rhenium, element number 75, was named after the river Rhine. So I drew a river. I put the cloud in because I felt we needed something there."
+difficulty 3.0
+height 45
+id 14398
+link "https://webpbn.com/play.cgi?id=14398"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.25
+title "Element # 75"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 3
+red 1 red 1 red 3
+red 3 red 1 red 1
+red 2 red 4
+black 6 black 7 red 1 red 1 red 1
+black 4 black 3 black 3 black 2 red 1 red 1 red 3
+black 3 black 4 black 2
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 1 black 2
+black 1 black 2 black 2
+black 2 black 2 black 4 black 4
+black 2 black 3 black 8 black 5 black 1
+black 3
+0
+0
+0
+black 9 black 5
+black 3 green 7 black 3 black 4 green 4
+black 3 green 11 black 4 black 3 green 7
+black 2 green 16 black 2 black 2 green 9
+green 19 black 2 black 3 green 10
+green 20 black 3 black 4 green 12
+green 22 black 3 black 4 green 15
+green 25 black 2 green 18
+green 24 black 2 green 19
+green 21 blue 1 black 3 green 20
+green 18 blue 2 black 3 green 22
+green 15 blue 4 black 2 green 24
+green 14 blue 3 black 3 green 25
+green 12 blue 3 black 3 green 27
+green 11 blue 4 green 30
+green 11 blue 5 green 29
+green 10 blue 8 green 27
+green 11 blue 11 green 23
+green 13 blue 13 green 19
+green 15 blue 13 green 17
+green 17 blue 14 green 14
+green 21 blue 12 green 12
+green 24 blue 11 green 10
+green 27 blue 9 green 9
+green 29 blue 13 green 3
+green 32 blue 11 green 2
+
+columns
+black 1 green 22
+black 2 green 22
+black 1 green 23
+black 2 green 23
+black 3 black 1 green 24
+black 2 black 2 black 2 green 24
+black 2 black 2 black 1 green 25
+black 2 black 1 black 1 green 25
+black 1 black 1 black 1 green 25
+black 2 black 1 black 1 green 25
+black 1 black 1 black 1 green 15 blue 1 green 9
+black 1 black 1 black 1 green 13 blue 4 green 8
+black 2 black 1 black 1 green 12 blue 5 green 8
+black 1 black 2 black 2 green 11 blue 6 green 7
+black 1 black 1 black 1 green 10 blue 7 green 7
+black 1 black 1 black 2 green 8 blue 2 black 1 green 1 blue 5 green 6
+black 1 black 1 black 1 green 8 blue 2 black 1 green 2 blue 4 green 6
+black 2 black 1 black 1 green 8 blue 1 black 2 green 2 blue 5 green 5
+black 1 black 1 black 2 green 6 blue 2 black 1 green 4 blue 4 green 5
+black 2 black 1 black 2 green 5 blue 1 black 2 green 4 blue 4 green 5
+black 1 black 1 black 1 black 2 green 4 black 2 green 5 blue 4 green 5
+black 1 black 2 black 1 green 3 blue 1 black 1 green 6 blue 5 green 4
+black 3 black 1 black 2 green 2 black 2 green 7 blue 4 green 4
+black 1 black 2 black 1 black 1 green 2 black 1 green 8 blue 4 green 4
+black 2 black 2 black 2 black 1 green 1 black 2 green 8 blue 5 green 3
+black 1 black 1 black 2 green 9 blue 5 green 3
+black 1 black 1 black 2 green 11 blue 4 green 3
+black 1 black 1 black 1 green 12 blue 5 green 2
+black 1 black 1 black 1 green 13 blue 4 green 2
+black 1 black 1 black 2 green 13 blue 5 green 1
+black 2 black 2 black 1 green 14 blue 5 green 1
+black 2 black 1 black 1 green 15 blue 4 green 1
+black 2 black 2 black 2 green 15 blue 5
+black 2 black 2 black 1 green 17 blue 4
+red 6 black 3 black 2 green 17 blue 4
+red 1 red 2 black 2 green 19 blue 3
+red 1 red 1 red 2 black 1 green 21 blue 2
+red 1 black 2 green 21 blue 2
+black 1 green 22 blue 2
+red 3 black 1 green 22 blue 2
+red 1 red 1 red 1 black 2 green 22 blue 2
+red 1 red 1 red 1 black 1 green 23 blue 2
+red 1 red 1 red 1 black 1 green 24 blue 1
+red 1 black 1 green 25
+black 1 green 25

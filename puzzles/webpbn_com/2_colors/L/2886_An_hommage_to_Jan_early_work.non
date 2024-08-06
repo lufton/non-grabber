@@ -1,0 +1,77 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Sylvain "WCPman""
+date "Jun  1, 2008"
+description "a Toaster look like we all end up here at least one in our life.... For those who don't understand go check Jan puzzle for something similar"
+difficulty 3.5
+height 30
+id 2886
+link "https://webpbn.com/play.cgi?id=2886"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "An hommage to Jan early work"
+width 30
+
+rows
+1,9,1,1
+1,10,2,2,1
+1,2,2,2,1,1
+1,2,2,1,2,1,2,1,1,1
+1,1,2,2,3,2,1,1
+1,1,2,2,2,3,2,1
+1,1,2,2,3,3,1,1
+1,1,2,2,3,2,1
+1,1,1,2,1,2,3,1,1
+1,2,1,2,2,1,2,1,1
+1,1,1,2,2,2,2,1
+1,1,1,7,1,1
+1,10,1,1,1
+1,1,1,1,1,1
+1,7,2,3,5,1
+1,2,4,2,3,2,2,1
+1,2,1,1,1,1,2,1
+1,1,3,12,1,1
+1,1,1,1,1,1,1
+1,1,16,5,1
+1,1,1,5,5,1
+1,1,2,5,2,1,1
+1,1,2,5,2,1,1
+1,1,2,5,2,1,1
+3,2,5,2,5
+1,2,5,1
+1,2,5,2
+24
+21,2
+2,2
+
+columns
+25
+1
+13
+4,2,3
+3,2,3
+4,1,1,1,2
+2,2,1,1,3,2
+2,6,2,1,1,2,2
+1,1,1,2,2,2,2
+1,2,1,1,2,1,2,2,2
+1,2,2,1,2,1,3,2,2
+1,1,2,1,2,7,4
+1,2,2,1,2,1,5,3
+2,2,2,1,2,1,6,2
+2,2,2,4,5,2
+2,6,2,1,1,7
+3,7,4,1,6
+1,6,1,2,1,1,5
+1,4,1,3,2,1,4
+1,1,1,1,2,1,1,3
+1,1,6,2,1,1,3
+2,7,1,3
+6,1,6,2
+4,2,6,1
+2,2,2,3
+3,4,13
+2,3,2,1
+3,1
+1
+25

@@ -1,0 +1,55 @@
+by "warmice"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/23/05"
+height 16
+id 21233
+link "https://www.griddlers.net/nonogram/-/g/21233"
+medium_time "0:04:39"
+points 2125
+popularity 57.34
+title "Notepad"
+width 16
+
+color a ffffff
+color b 000000
+color c 808080
+color d 008080
+color e 00ffff
+color f c0c0c0
+
+rows
+b 9
+b 1 c 1 d 2 c 1 d 2 c 1 d 1 b 2
+b 1 e 9 b 1 f 1 b 1
+d 1 e 1 d 6 e 1 d 1 b 1 f 1 b 1
+b 1 e 2 d 5 e 2 b 1 f 2 b 1
+d 1 e 8 d 1 b 1 f 2 b 1
+b 1 e 9 b 1 f 3 b 1
+d 1 e 8 d 1 b 1 f 3 b 1
+b 1 e 9 b 1 f 4 b 1
+d 1 e 8 d 1 b 1 f 2 f 1 b 1
+b 10 f 5 b 1
+b 1 f 10 b 1
+b 1 f 7 f 1 b 1
+b 1 f 10 b 1
+b 1 f 9 c 1 b 1
+b 10
+
+columns
+b 1 d 1 b 1
+b 1 d 1 e 2 b 1
+b 1 d 1 e 4 b 1
+b 1 d 1 e 6 b 1
+b 1 e 8 b 5
+b 1 c 1 e 1 d 2 e 5 b 1 f 4 b 1
+b 1 d 1 e 1 d 2 e 5 b 1 f 4 b 1
+b 1 d 1 e 1 d 2 e 5 b 1 f 4 b 1
+b 1 c 1 e 1 d 2 e 5 b 1 f 4 b 1
+b 1 d 1 e 1 d 2 e 4 d 1 b 1 f 4 b 1
+b 1 d 1 e 1 d 1 e 3 d 1 b 2 f 5 b 1
+b 1 c 1 e 3 d 1 b 2 f 7 b 1
+b 1 d 1 e 1 d 1 b 2 f 6 f 2 b 1
+b 4 f 5 f 2 f 2 b 1
+b 1 f 12 c 1 b 1
+b 13

@@ -1,0 +1,89 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/17/22"
+height 40
+id 256728
+link "https://www.griddlers.net/nonogram/-/g/256728"
+medium_time "0:21:01"
+points 21682
+popularity 87.12
+title "Mojito"
+width 25
+
+color a ffffff
+color b 8d94a6
+color c b0b6c6
+color d d6dde5
+color e 116b21
+color f 589e48
+color g d7f088
+
+rows
+0
+0
+0
+d 4
+b 8 d 6 b 5
+b 1 f 1 d 7 b 1
+b 1 f 1 c 8 d 2 c 3 b 1
+b 1 d 2 f 2 c 15 b 1
+b 1 d 1 f 4 c 9 d 2 c 3 b 1
+b 1 d 1 f 1 e 1 f 3 c 7 d 5 c 1 b 1
+b 1 d 1 f 1 e 1 f 3 c 7 d 5 b 1
+b 1 f 1 e 1 f 3 c 2 g 5 d 5 b 1
+b 1 f 2 e 1 f 2 c 1 g 1 g 2 d 3 b 1
+b 1 f 2 e 1 f 2 g 1 g 1 g 2 g 1 d 2 b 1
+b 1 f 2 e 1 f 1 c 1 g 1 g 2 g 1 d 1 c 1 b 1
+b 1 c 1 f 3 c 2 g 1 g 1 g 4 c 2 b 1
+b 1 c 2 f 1 c 4 g 4 g 1 f 1 c 2 b 1
+b 1 c 2 d 3 c 3 g 1 g 1 f 2 c 2 b 1
+b 1 c 2 d 4 c 3 g 3 e 1 f 2 c 2 b 1
+b 1 c 1 g 8 f 3 e 1 f 2 c 2 b 1
+b 1 g 1 g 1 g 1 f 2 e 1 f 3 c 2 b 1
+b 1 g 1 g 3 g 1 c 1 f 4 c 3 b 1
+b 1 g 1 g 1 g 1 g 1 f 2 c 1 f 3 d 1 c 2 b 1
+b 1 g 2 g 1 f 7 d 1 c 1 b 1
+b 1 c 1 g 4 f 2 e 2 f 5 d 1 b 1
+b 1 c 3 f 1 e 3 f 3 g 1 c 1 f 1 d 1 b 1
+b 1 d 1 c 3 f 3 g 1 g 1 c 1 f 1 d 1 b 1
+b 1 d 2 c 2 g 1 g 1 g 1 g 1 c 2 d 2 b 1
+b 1 d 3 c 1 g 1 g 2 g 1 c 1 d 3 b 1
+b 1 d 3 c 1 g 2 g 2 c 2 d 3 b 1
+b 1 c 1 d 1 c 2 g 1 g 3 c 4 d 2 b 1
+b 1 c 4 g 1 g 1 c 6 d 1 b 1
+b 1 c 4 d 1 g 2 c 4 d 2 c 2 b 1
+b 1 c 3 d 3 c 5 d 1 c 3 b 1
+b 1 c 4 d 3 c 3 d 2 c 3 b 1
+b 1 c 5 d 6 c 4 b 1
+b 15
+b 1 d 4 b 1 d 3 b 1 d 4 b 1
+b 1 d 4 b 1 d 3 b 1 d 4 b 1
+b 13
+
+columns
+0
+0
+b 6
+b 1 d 4 b 12
+b 1 d 1 f 7 c 5 g 3 b 13
+b 1 f 2 e 3 f 4 c 3 g 1 g 1 c 2 d 4 c 6 b 3
+b 1 f 6 e 3 f 2 d 2 g 1 g 3 c 2 d 4 c 5 b 1 d 2 b 1
+b 1 f 1 c 2 f 8 c 1 d 2 g 1 g 1 g 1 c 3 d 2 c 6 b 1 d 2 b 1
+b 1 c 3 f 5 c 3 d 2 g 3 g 1 f 1 c 7 d 1 c 2 b 1 d 2 b 1
+b 1 c 7 g 2 c 3 d 1 g 1 g 2 g 1 e 1 f 1 g 5 d 3 c 1 b 1 d 2 b 1
+b 1 d 1 c 6 g 1 g 1 c 3 g 1 g 1 f 1 e 1 f 1 g 1 g 1 d 3 b 4
+d 2 c 5 g 1 g 1 g 1 c 2 g 1 g 1 f 2 e 1 f 1 g 1 g 1 g 1 c 1 d 2 b 1 d 2 b 1
+d 3 c 5 g 1 g 4 c 1 g 3 f 2 e 1 f 1 g 1 g 2 c 3 d 1 b 1 d 2 b 1
+d 3 c 5 g 1 g 1 g 1 g 1 f 2 c 1 f 2 e 1 f 1 g 4 c 4 d 1 b 1 d 2 b 1
+d 3 c 5 g 1 g 1 g 1 g 1 f 3 c 1 f 3 g 1 g 1 c 5 d 1 b 4
+d 4 c 4 g 1 g 1 g 1 g 1 f 1 e 1 f 4 g 2 c 5 d 2 b 1 d 2 b 1
+d 3 c 2 d 3 g 1 g 1 g 1 e 2 f 5 g 2 c 5 d 3 c 1 b 1 d 2 b 1
+b 1 c 2 d 4 g 1 g 2 f 8 c 3 d 2 c 2 d 1 c 3 b 1 d 2 b 1
+b 1 c 2 d 5 g 3 f 5 c 1 d 2 f 3 d 4 c 5 b 1 d 2 b 1
+b 1 c 3 d 6 c 9 d 8 c 4 b 3
+b 1 c 2 d 5 c 9 b 13
+b 1 c 3 b 13
+b 5
+0
+0

@@ -1,0 +1,53 @@
+by "elizabeth (ejkelly)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by elizabeth"
+date "Apr  1, 2018"
+description ""
+difficulty 1.25
+height 15
+id 31021
+link "https://webpbn.com/play.cgi?id=31021"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "THE CROSS"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 15
+blue 6 red 3 blue 6
+blue 1 red 3 blue 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 11 black 1
+black 1 red 11 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+green 6 red 3 green 6
+green 15
+
+columns
+blue 3 black 10 green 2
+blue 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 1 red 13 green 1
+blue 1 red 13 green 1
+blue 1 red 13 green 1
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 green 2
+blue 3 black 10 green 2

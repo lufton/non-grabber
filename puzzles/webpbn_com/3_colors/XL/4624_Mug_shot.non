@@ -1,0 +1,96 @@
+by "Tonia Bergh (tonia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Tonia Bergh"
+date "Jan  3, 2009"
+description "This is the design from my favorite coffee mug, which came from Germany...it looks like Christmas, but it's really just cactus, trees and stars, so I use it all year 'round."
+difficulty 1.75
+height 25
+id 4624
+link "https://webpbn.com/play.cgi?id=4624"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Mug shot!"
+width 50
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 50
+black 2 black 11 black 9 black 11 black 11 black 1
+black 1 black 4 black 4 black 7 black 4 black 4 black 4 black 4
+black 2 black 4 black 4 black 4 black 4 black 4 black 4 black 4 black 4 black 1
+black 8 black 9 black 9 black 11 black 7
+black 19 black 30
+black 50
+black 50
+black 50
+black 50
+black 50
+black 11 green 1 black 11 green 1 black 17 green 2 black 1 green 1 black 1 green 2 black 2
+black 6 green 3 black 1 green 2 black 10 green 3 black 5 green 2 black 10 green 5 black 3
+black 8 green 3 black 4 green 2 black 4 green 5 black 2 green 1 black 1 green 2 black 5 green 2 black 5 green 5 black 1
+black 2 green 2 black 3 green 6 black 2 green 2 black 5 green 3 black 3 green 1 black 1 green 2 black 1 green 1 black 3 green 2 black 1 green 1 black 1 green 3 black 1 green 1 black 3
+green 1 black 1 green 2 black 1 green 1 black 1 green 1 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 1 black 2 green 5 black 2 green 4 black 1 green 1 black 3 green 2 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 2 black 2
+green 4 black 1 green 1 black 3 green 1 black 5 green 2 black 1 green 1 black 1 green 7 black 3 green 4 black 1 green 1 black 1 green 4 black 3 green 1 black 5
+black 2 green 4 black 3 green 1 black 3 green 1 black 1 green 4 black 2 green 5 black 4 green 2 black 3 green 4 black 5 green 1 black 5
+black 2 green 2 black 5 green 1 black 3 green 4 black 3 green 7 black 3 green 2 black 5 green 2 black 5 green 1 black 5
+black 2 green 2 black 4 green 2 black 5 green 2 black 2 green 9 black 2 green 2 black 5 green 2 black 5 green 2 black 4
+green 2 green 2 green 2 green 7 green 2 green 2 green 2
+0
+black 50
+black 50
+
+columns
+black 15 green 2 black 3 black 2
+black 2 black 13 green 1 black 3 black 2
+black 1 black 10 green 7 black 2
+black 2 black 11 green 7 black 2
+black 17 green 1 black 2 black 2
+black 15 green 3 black 2 black 2
+black 12 green 1 black 7 black 2
+black 3 black 8 green 1 black 1 green 2 black 4 black 2
+black 2 black 7 green 3 black 4 green 2 black 2
+black 3 black 9 green 8 black 2
+black 12 green 4 black 4 black 2
+black 11 green 2 black 1 green 1 black 5 black 2
+black 14 green 2 black 4 black 2
+black 2 black 12 green 1 black 1 green 2 black 1 black 2
+black 1 black 14 green 1 black 1 black 2
+black 2 black 10 green 8 black 2
+black 13 green 8 black 2
+black 17 green 1 black 2 black 2
+black 4 black 10 green 3 black 2 black 2
+black 3 black 13 green 1 black 2
+black 4 black 11 green 1 black 1 green 3 black 2
+black 13 green 1 black 1 green 6 black 2
+black 12 green 9 black 2
+black 2 black 8 green 10 black 2
+black 1 black 8 green 9 black 2
+black 2 black 10 green 1 black 1 green 6 black 2
+black 16 green 1 black 1 green 3 black 2
+black 19 green 1 black 2
+black 13 green 3 black 4 black 2
+black 3 black 11 green 1 black 4 black 2
+black 2 black 7 green 9 black 2
+black 3 black 8 green 9 black 2
+black 16 green 1 black 3 black 2
+black 14 green 3 black 3 black 2
+black 20 black 2
+black 2 black 13 green 2 black 2 black 2
+black 1 black 13 green 1 black 2 black 2
+black 2 black 10 green 8 black 2
+black 13 green 8 black 2
+black 16 green 1 black 3 black 2
+black 14 green 3 black 3 black 2
+black 3 black 7 green 1 black 8 black 2
+black 2 black 6 green 2 black 1 green 2 black 4 black 2
+black 3 black 8 green 1 black 1 green 1 black 5 black 2
+black 11 green 10 black 2
+black 12 green 2 black 5 green 2 black 2
+black 11 green 5 black 4 black 2
+black 2 black 8 green 1 black 1 green 1 black 1 green 1 black 4 black 2
+black 1 black 9 green 1 black 6 black 2
+black 2 black 17 black 2

@@ -1,0 +1,30 @@
+by "piglett"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/28/05"
+height 5
+id 27439
+link "https://www.griddlers.net/nonogram/-/g/27439"
+medium_time "0:00:15"
+points 9
+popularity 31.29
+title "Strawberry"
+width 5
+
+color a ffffff
+color b ff0000
+color c 00ff00
+
+rows
+c 1 c 1 c 1
+c 1 b 1 c 1
+b 3
+b 3
+b 1
+
+columns
+c 1
+c 1 b 2
+c 1 b 4
+c 1 b 2
+c 1

@@ -1,0 +1,62 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Oct 17, 2011"
+description "An inch worm that is,and this kid almost stepped on me. I know this probably doesn't qualify,cause the kid is not shrunken,but i thought i would try it anyway cause i think it's kinda cool."
+difficulty 2.0
+height 20
+id 16076
+link "https://webpbn.com/play.cgi?id=16076"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Wcp # 95 I am one. But i'm not Iggy."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 2 black 1 black 1
+red 1 red 1 black 1 red 7 black 1
+red 1 red 1 black 1 black 1
+red 3 red 1 red 1 black 1 red 7 black 2
+red 1 red 1 red 2 black 1 black 3
+red 1 red 4 black 2 black 4
+red 3 black 2 red 3 black 2 black 5
+black 4 red 1 black 2 red 2 black 8
+black 5 red 1 black 13
+black 5 black 3 green 1 black 2 black 4
+black 1 green 1 black 2 black 2 green 1 black 1 black 1 green 1 black 1
+green 1 black 1 green 1 black 1 green 1 black 1 black 1 black 1 black 1 green 1 black 1
+green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 black 1 green 1 black 1
+green 1 green 1 green 1 green 1 black 1 black 2 green 1 black 1
+green 1 green 1 green 3 green 1 green 1 green 1 black 2 green 2
+green 1 black 1 green 1 black 1 green 3 black 1 green 1 green 1 green 3 black 1 green 3
+green 3 green 7 green 4 green 1 green 1
+green 14 green 2 green 1
+green 1 green 2 green 1 green 3 green 3 green 2 green 1
+green 1 green 2 green 1 green 3 green 1 green 1 green 1 green 1
+
+columns
+black 2 green 6
+red 2 black 2 green 3 black 1 green 2
+red 1 red 1 black 5 green 6
+red 1 red 1 black 4 black 1 green 3
+red 1 red 1 black 3 green 7
+red 2 black 3 green 6
+red 3 red 1 black 2 red 1 black 1 green 5
+red 1 red 4 black 2 black 1 green 4
+red 1 red 3 black 4 green 8
+red 3 black 1 red 1 black 6 green 4
+black 7 red 1 black 1 green 9
+red 1 red 1 black 1 red 1 black 5 green 3
+red 1 red 1 black 3 green 3
+red 1 red 1 black 2 black 1 green 5
+red 1 red 1 black 2 black 1 green 2
+red 1 red 1 black 3 black 1 green 6
+red 1 red 1 black 5 black 3 green 2
+red 1 red 1 black 11 green 2
+black 10 green 6 green 2
+black 11 green 4

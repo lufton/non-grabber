@@ -1,0 +1,41 @@
+by "Maggie Johns (Magginni)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Maggie Johns"
+date "May 20, 2011"
+description "odd little thing..... almost looks like a lion."
+difficulty 1.25
+height 10
+id 14020
+link "https://webpbn.com/play.cgi?id=14020"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "monkey"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 4 black 4
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 10
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 4 black 1
+black 1 black 1
+black 10
+
+columns
+black 9
+black 1 red 2 black 1 black 1
+black 1 red 2 black 1 black 1
+black 5 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 5 black 1 black 1
+black 1 red 2 black 1 black 1
+black 1 red 2 black 1 black 1
+black 9

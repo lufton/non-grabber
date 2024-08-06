@@ -1,0 +1,43 @@
+by "Denise Poulin (dlp1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Denise Poulin"
+date "Dec  9, 2008"
+description "bird head"
+difficulty 1.25
+height 10
+id 4232
+link "https://webpbn.com/play.cgi?id=4232"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "not what you think..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 5 blue 4
+blue 3 green 4 blue 3
+blue 2 green 6 blue 2
+blue 2 green 6 blue 2
+blue 1 green 1 blue 6 green 1 blue 1
+green 1 blue 1 black 1 blue 2 black 1 blue 1 green 1
+green 1 blue 1 black 2 blue 2 black 2 blue 1 green 1
+green 1 blue 4 red 1 blue 3 green 1
+green 1 blue 3 red 2 blue 3 green 1
+green 1 blue 1 red 4 blue 3 green 1
+
+columns
+blue 5 green 5
+green 1 blue 3 green 1 blue 5
+green 1 blue 1 green 2 blue 1 black 2 blue 2 red 1
+green 4 blue 1 black 1 blue 2 red 1
+green 4 blue 4 red 2
+green 4 blue 3 red 3
+blue 1 green 3 blue 1 black 2 blue 3
+blue 2 green 2 blue 1 black 1 blue 3
+blue 4 green 1 blue 5
+blue 5 green 5

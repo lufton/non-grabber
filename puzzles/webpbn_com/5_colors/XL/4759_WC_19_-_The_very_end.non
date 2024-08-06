@@ -1,0 +1,99 @@
+by "Petra Lassen (stjarna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Petra Lassen"
+date "Jan 16, 2009"
+description "The end scene in the first game where Mario appeared - Donkey Kong. This is the exact way it looked, pixel by pixel - except the heart and Pauline's dress was pink, and her hair was orange. Did you know Mario was originally named Jumpman and Pauline was called The Lady? Sure the puzzle is too easy with all the black, but a) some people like easy puzzles, and b) the background WAS black. Deal with it."
+difficulty 2.0
+height 30
+id 4759
+link "https://webpbn.com/play.cgi?id=4759"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "WC #19 - The very end"
+width 46
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 17 red 4 black 3 red 4 black 18
+black 16 red 6 black 1 red 6 black 17
+black 15 red 15 black 16
+black 15 red 15 black 16
+black 15 red 15 black 16
+black 15 red 15 black 16
+black 16 red 13 black 17
+black 16 red 13 black 17
+black 17 red 11 black 4 red 6 black 8
+black 18 red 9 black 4 red 8 black 7
+black 20 red 5 black 7 red 4 black 6
+black 21 red 3 black 7 black 1 red 1 red 2 black 3 red 2 black 1
+black 22 red 1 black 9 red 2 black 3 red 2 black 2
+black 33 red 5 black 3
+black 3 red 4 black 28 green 2 red 5 black 1
+black 2 red 8 black 24 green 1 green 3 red 4 black 2
+black 2 blue 4 black 26 green 6 black 2 red 1 black 1 red 1 black 1
+black 1 blue 1 blue 1 black 1 black 24 green 7 black 4
+black 1 blue 1 blue 2 black 1 black 21 green 3 blue 4 black 1 green 2 black 3
+blue 3 black 25 green 2 black 1 green 6 black 1 green 2 black 2
+black 3 black 20 green 10
+black 2 blue 6 black 24 black 1 green 8 black 1 black 2
+black 1 blue 4 red 2 blue 2 black 23 green 12 black 2
+black 1 blue 3 red 2 red 2 black 23 green 12 black 2
+black 1 blue 4 red 5 black 22 green 12 black 2
+black 1 red 1 blue 1 red 4 black 22 green 6 black 2
+black 1 red 2 red 5 black 21 green 3 green 3 black 1
+black 1 red 4 black 1 red 3 black 24 green 10 black 3
+black 1 blue 3 black 2 blue 3 black 25 blue 3 black 2 blue 1 black 1 blue 1 black 4
+black 1 blue 4 black 1 blue 4 black 23 blue 2 black 1 blue 1 black 2 blue 1 black 1 blue 2 black 3
+
+columns
+black 19 blue 1 black 10
+black 17 blue 3 black 2 blue 3 red 3 blue 2
+black 15 red 1 blue 1 blue 1 black 1 blue 5 red 2 blue 2
+black 14 red 2 blue 1 blue 4 red 1 blue 2
+black 14 red 2 blue 3 blue 2 red 1 blue 1 red 1 black 1 blue 1
+black 14 red 2 blue 1 blue 1 blue 1 red 3 red 1 black 3
+black 14 red 2 blue 1 red 1 red 4 blue 2
+black 15 red 1 black 1 black 1 blue 2 red 5 blue 2
+black 15 red 1 black 1 black 2 black 1 blue 1 red 5 blue 2
+black 15 red 1 black 1 black 1 black 3 red 3 black 2 blue 1
+black 17 black 11
+black 18 black 11
+black 30
+black 30
+black 30
+black 2 red 4 black 24
+black 1 red 7 black 22
+red 9 black 21
+red 10 black 20
+red 10 black 20
+red 11 black 19
+black 1 red 11 black 18
+black 2 red 11 black 17
+black 1 red 11 black 18
+red 11 black 19
+red 10 black 20
+red 10 black 20
+red 9 black 21
+black 1 red 7 black 22
+black 2 red 4 black 24
+black 20 black 9
+black 9 red 1 black 1 black 8 black 5 green 1 black 3
+black 8 red 2 black 6 green 1 green 3 green 1 black 3
+black 8 red 2 black 1 black 4 green 3 black 1 green 3 green 2 black 1 blue 1
+black 8 red 2 black 1 green 2 black 1 green 1 black 1 green 5 green 1 blue 2
+black 8 red 2 green 10 green 1 blue 1 black 1
+black 8 red 4 green 2 blue 1 green 7 green 1 blue 2
+black 8 red 3 red 1 green 3 blue 1 green 7 green 1 black 2
+black 9 red 5 green 4 blue 1 green 7 green 1 black 2
+black 10 red 2 black 1 red 1 green 4 blue 1 green 7 green 1 blue 2
+black 13 red 3 black 1 green 1 black 1 green 7 green 1 black 2
+black 13 red 3 black 1 green 2 black 1 green 5 green 1 blue 2
+black 12 red 5 black 1 green 3 black 1 green 3 green 2 black 1 blue 1
+black 11 red 2 black 1 red 2 black 3 green 1 green 3 green 1 black 3
+black 11 red 1 black 2 red 1 black 1 red 1 black 3 black 5 green 1 black 3
+black 20 black 9

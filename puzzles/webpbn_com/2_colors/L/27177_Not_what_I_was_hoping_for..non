@@ -1,0 +1,77 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Aldege Cholette"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.25
+height 30
+id 27177
+link "https://webpbn.com/play.cgi?id=27177"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Not what I was hoping for."
+width 30
+
+rows
+2
+1
+2,3
+1,3,3
+3,1,1
+3,3,2,1,1,2
+1,1,1,1
+2,1,1,2,2,2,1
+1,1,1,1,1,2
+2,2,2,2,2
+1,1,1,1,1,1,3
+2,2,2,15
+3,1,1,2,3,1,5
+7,6,4,6
+3,9,4,1
+11,1,4
+2,2,3,2
+8,12,1,5
+1,5,6,2
+1,1,1,3,1,2
+1,1,2,1,1,1,3
+1,2,1,2,3,1
+1,8,2,2,1
+1,1,1,2,7
+2,1,1,1,4
+3,1,1,6,1
+1,2,1,2,1,1
+1,3,1,1,1,3
+1,1,2,4,1,1
+1,1,2,5
+
+columns
+13
+3,1,2
+5,1,5
+6,1,2
+3,1,1,1,2
+3,3,3,1,2
+1,11,1
+2,1,6,2
+3,1,2,1,7
+1,2,1,6,1,1
+1,9,5,1
+3,3,3,1,1,1,3
+3,3,1,2,1
+2,1,1,1
+1,1,1,4
+2,1
+3,1,3
+3,1,1,1,2,1
+3,3,3,1,2,1
+1,13,1
+2,1,2,1,3,1
+3,1,1,4,1,6
+1,2,1,5,2,1,1
+1,3,1,2,1,5,1
+3,3,9,3,1,1
+3,3,1,5,3
+4,1,1,1
+6,1,2,1
+5,2,1,1
+1,4

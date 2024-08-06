@@ -1,0 +1,72 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Norma Dee"
+date "Apr  2, 2020"
+description "The Scottish flag, the Swedish flag, and the Finnish flag. (My apologies to Sweden. The cross should be yellow. I saw this on Facebook."
+difficulty 1.0
+height 30
+id 33797
+link "https://webpbn.com/play.cgi?id=33797"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A little fun with flags."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 18
+black 1 blue 12 black 1
+black 1 blue 1 blue 8 blue 1 black 1
+black 1 blue 3 blue 4 blue 3 black 1
+black 1 blue 5 blue 5 black 1
+black 1 blue 7 blue 7 black 1
+black 1 blue 5 blue 6 black 1
+black 1 blue 3 blue 3 blue 4 black 1
+black 1 blue 1 blue 7 blue 2 black 1
+black 1 blue 11 black 1
+black 18
+black 1 blue 4 green 3 blue 9 black 1
+black 1 blue 4 green 3 blue 9 black 1
+black 1 green 16 black 1
+black 1 green 16 black 1
+black 1 green 16 black 1
+black 1 blue 4 green 3 blue 9 black 1
+black 1 blue 4 green 3 blue 9 black 1
+black 1 blue 4 green 3 blue 9 black 1
+black 1 blue 4 green 3 blue 9 black 1
+black 18
+black 3 black 2 black 2 black 2 black 1
+black 3 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 3
+black 1 black 2 black 2 black 2 black 3
+black 3 black 2 black 2 black 2 black 1
+black 3 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 3
+black 1 black 2 black 2 black 2 black 3
+black 18
+
+columns
+0
+black 30
+black 1 blue 7 black 1 blue 2 green 3 blue 4 black 3 black 2 black 1
+black 1 blue 5 black 1 blue 2 green 3 blue 4 black 3 black 2 black 1
+black 1 blue 1 blue 5 blue 1 black 1 blue 2 green 3 blue 4 black 1 black 2 black 3
+black 1 blue 1 blue 3 blue 1 black 1 blue 2 green 3 blue 4 black 1 black 2 black 3
+black 1 blue 2 blue 3 blue 2 black 1 green 9 black 3 black 2 black 1
+black 1 blue 2 blue 1 blue 2 black 1 green 9 black 3 black 2 black 1
+black 1 blue 3 blue 1 blue 3 black 1 green 9 black 1 black 2 black 3
+black 1 blue 3 blue 3 black 1 blue 2 green 3 blue 4 black 1 black 2 black 3
+black 1 blue 3 blue 3 black 1 blue 2 green 3 blue 4 black 3 black 2 black 1
+black 1 blue 3 blue 1 blue 2 black 1 blue 2 green 3 blue 4 black 3 black 2 black 1
+black 1 blue 2 blue 2 blue 2 black 1 blue 2 green 3 blue 4 black 1 black 2 black 3
+black 1 blue 2 blue 3 blue 1 black 1 blue 2 green 3 blue 4 black 1 black 2 black 3
+black 1 blue 1 blue 4 blue 1 black 1 blue 2 green 3 blue 4 black 3 black 2 black 1
+black 1 blue 1 blue 5 black 1 blue 2 green 3 blue 4 black 3 black 2 black 1
+black 1 blue 6 black 1 blue 2 green 3 blue 4 black 1 black 2 black 3
+black 1 blue 7 black 1 blue 2 green 3 blue 4 black 1 black 2 black 3
+black 30
+0

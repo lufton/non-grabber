@@ -1,0 +1,62 @@
+by "Jim Marshall (cyclingwv.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Jim Marshall"
+date "Mar  9, 2009"
+description "Red Tulips"
+difficulty 1.5
+height 20
+id 5303
+link "https://webpbn.com/play.cgi?id=5303"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "The Coming Season"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 5 blue 6 blue 4
+blue 3 blue 3 blue 3
+blue 2 blue 2 blue 3
+blue 2 blue 4 blue 4
+blue 3 blue 5 blue 5
+blue 13 black 3 blue 4
+blue 13 black 1 green 1 black 1 blue 4
+blue 8 black 3 blue 2 black 3 blue 4
+blue 2 black 3 blue 3 black 1 green 1 black 1 blue 3 green 1 blue 2 black 3
+blue 2 black 1 green 1 black 1 blue 3 black 3 blue 2 green 2 blue 2 black 1 green 1 black 1
+blue 2 black 3 blue 4 green 1 blue 3 green 1 blue 3 black 3
+blue 3 green 1 blue 5 green 1 blue 3 green 2 blue 3 green 1 blue 1
+blue 3 green 2 blue 3 green 2 blue 4 green 1 blue 2 green 2 blue 1
+blue 4 green 1 blue 3 green 1 blue 5 green 1 blue 2 green 1 blue 2
+blue 4 green 1 blue 3 green 1 blue 5 green 1 blue 2 green 1 blue 2
+blue 4 green 1 blue 2 green 4 blue 3 green 6
+blue 2 green 18
+green 20
+green 20
+
+columns
+blue 18 green 2
+blue 18 green 2
+blue 3 blue 4 black 3 blue 5 green 3
+blue 2 blue 3 black 1 green 1 black 1 green 2 blue 3 green 3
+blue 2 blue 3 black 3 blue 1 green 7
+blue 1 blue 11 green 3
+blue 1 blue 13 green 3
+blue 1 blue 12 green 4
+blue 8 black 3 blue 2 green 7
+blue 8 black 1 green 1 black 1 green 3 blue 2 green 4
+blue 3 blue 3 black 3 blue 5 green 4
+blue 2 blue 11 green 3
+blue 2 blue 11 green 3
+blue 2 black 3 blue 1 green 3 blue 4 green 3
+blue 1 black 1 green 1 black 1 green 2 blue 1 green 8
+blue 1 blue 1 black 3 blue 7 green 4
+blue 2 blue 12 green 4
+blue 9 black 3 blue 1 green 7
+blue 9 black 1 green 1 black 1 green 2 blue 2 green 4
+blue 9 black 3 blue 4 green 4

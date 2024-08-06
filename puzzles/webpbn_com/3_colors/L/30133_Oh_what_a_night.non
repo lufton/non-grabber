@@ -1,0 +1,80 @@
+by "emma calder (Flutterby)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by emma calder"
+date "Aug 28, 2017"
+description "A wolf silhouette by the moon"
+difficulty 1.25
+height 27
+id 30133
+link "https://webpbn.com/play.cgi?id=30133"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Oh what a night"
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 19
+red 21
+red 23
+red 25
+red 28
+red 30
+red 22 black 1 red 4 black 1 red 3
+red 22 black 2 red 2 black 2 red 4
+red 22 black 6 red 4
+red 22 black 7 red 3
+red 7 black 22 red 3
+red 6 black 23 red 3
+red 5 black 24 red 3
+red 4 black 24 red 4
+red 3 black 24 red 5
+red 2 black 24 red 6
+red 1 black 4 red 1 black 19 red 7
+red 1 black 3 red 3 black 17 red 8
+red 1 black 2 red 4 black 17 red 8
+red 7 black 5 red 3 black 8 red 8 black 1
+red 7 black 4 red 10 black 1 red 8 black 2
+red 5 black 4 red 11 black 1 red 7 black 3
+red 4 black 1 red 1 black 1 red 12 black 1 red 6 black 4
+red 3 black 1 red 1 black 2 red 11 black 2 red 4 black 5
+black 5 red 1 black 26
+black 32
+black 32
+
+columns
+red 16 black 3
+red 12 black 3 red 3 black 3
+red 11 black 4 red 4 black 3
+red 11 black 4 red 6 black 3
+red 11 black 4 red 7 black 3
+red 11 black 4 red 9 black 2
+red 11 black 6 red 4 black 6
+red 10 black 12 red 2 black 3
+red 10 black 17
+red 10 black 12 red 1 black 4
+red 10 black 11 red 3 black 3
+red 10 black 10 red 4 black 3
+red 10 black 9 red 5 black 3
+red 10 black 9 red 5 black 3
+red 10 black 9 red 5 black 3
+red 10 black 10 red 4 black 3
+red 10 black 10 red 4 black 3
+red 10 black 10 red 4 black 3
+red 10 black 10 red 4 black 3
+red 10 black 10 red 4 black 3
+red 10 black 10 red 4 black 3
+red 10 black 17
+red 6 black 14 red 3 black 4
+red 7 black 12 red 5 black 3
+red 8 black 9 red 7 black 3
+red 7 black 8 red 8 black 3
+red 5 black 8 red 9 black 3
+red 3 black 8 red 9 black 4
+red 5 black 4 red 9 black 5
+red 16 black 6
+red 14 black 7
+red 12 black 8

@@ -1,0 +1,57 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 27, 2011"
+description "Taking all those cat-naps is exhausting!"
+difficulty 1.25
+height 20
+id 13052
+link "https://webpbn.com/play.cgi?id=13052"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "The reason why cats sleep so much"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 11
+black 1 black 1
+black 1 blue 7 black 1
+black 1 blue 7 black 1
+black 1 blue 2 red 1 blue 1 red 1 blue 2 black 1
+black 1 blue 2 red 3 blue 2 black 1
+black 1 blue 2 red 3 blue 2 black 1
+black 1 red 5 black 1
+black 11
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 1 blue 9 black 1
+black 11
+
+columns
+0
+0
+black 19
+black 1 black 1 blue 9 black 1
+black 1 blue 5 black 1 blue 9 black 1
+black 1 blue 5 red 1 black 1 blue 9 black 1
+black 1 blue 2 red 4 black 1 blue 9 black 1
+black 1 blue 3 red 3 black 1 blue 9 black 1
+black 1 blue 2 red 4 black 1 blue 9 black 1
+black 1 blue 5 red 1 black 1 blue 9 black 1
+black 1 blue 5 black 1 blue 9 black 1
+black 1 black 1 blue 9 black 1
+black 19
+0
+0

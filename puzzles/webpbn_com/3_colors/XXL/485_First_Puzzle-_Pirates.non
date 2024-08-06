@@ -1,0 +1,114 @@
+by "James Smith (phantom)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by James Smith"
+date "Jul 28, 2006"
+description "A Pirate boat in the sunset"
+difficulty 2.75
+height 43
+id 485
+link "https://webpbn.com/play.cgi?id=485"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "First Puzzle- Pirates"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 1 black 1 black 1
+black 3
+black 1
+black 1
+black 2
+black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 7 black 2 black 1 black 1 black 2
+black 10 black 1 black 2 black 1
+black 12 black 1 black 1 black 1
+black 13 black 1 black 1 black 1
+black 15 black 20
+black 17 black 2 black 1 black 1 black 1 black 2
+black 17 black 2 black 2
+black 17 black 13 black 1
+blue 4 black 1 blue 1 black 6 blue 1 black 3 blue 34
+black 1 blue 2 black 4 blue 3 black 3 blue 1 black 1 blue 2 black 2 blue 31
+blue 3 black 3 blue 1 black 1 blue 1 black 1 blue 1 black 3 blue 5 black 1 blue 28
+blue 8 black 5 blue 1 blue 1 black 3 blue 26
+blue 5 black 8 blue 1 black 2 blue 8 blue 17 blue 5
+blue 7 black 1 blue 1 blue 2 black 1 blue 3 black 1 blue 4 blue 1 blue 24
+blue 3 black 1 blue 1 black 2 blue 4 black 2 blue 3 black 1 blue 1 black 1 blue 13 blue 2 blue 10
+blue 8 black 7 blue 1 black 1 blue 2 blue 8 blue 2 blue 11
+blue 9 black 6 blue 1 black 2 blue 1 blue 30
+blue 9 black 2 blue 39
+blue 6 black 5 blue 7 black 1 blue 31
+blue 4 blue 4 black 3 blue 1 black 1 blue 24 blue 3
+blue 2 blue 6 black 3 blue 2 black 1 blue 1 black 3 blue 7 blue 11 blue 5
+blue 6 black 2 blue 1 black 8 blue 7 blue 2 blue 17
+blue 12 black 2 blue 3 black 1 blue 32
+blue 3 blue 8 black 2 blue 1 black 2 blue 30
+blue 6 blue 3 black 6 blue 21 blue 12
+blue 6 blue 1 black 3 blue 8 blue 1 blue 9 blue 2 blue 9
+blue 10 black 3 blue 2 black 2 blue 1 black 3 blue 20 blue 7
+blue 12 black 4 blue 34
+
+columns
+blue 1 black 1 blue 18
+blue 20
+black 3 blue 12 blue 7
+black 4 blue 1 black 2 blue 3 black 1 blue 5 blue 2 blue 4
+black 9 blue 8 blue 3 blue 4
+black 7 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 4 blue 3 blue 4
+black 9 blue 2 black 1 blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 1 blue 2
+black 9 blue 1 black 1 blue 1 black 2 blue 4 black 1 blue 1 black 1 blue 3 blue 2
+black 9 blue 2 black 2 blue 2 black 1 blue 2 black 1 blue 6 blue 2
+black 9 blue 1 black 3 blue 1 black 4 blue 2 black 1 blue 6
+black 10 blue 1 black 2 blue 1 black 4 blue 1 black 2 blue 2 black 3 blue 1
+black 13 blue 1 black 3 blue 3 black 2 blue 2 black 3 blue 1
+black 8 blue 1 black 4 blue 1 black 3 blue 2 black 4 blue 1 black 4
+black 9 blue 1 black 1 blue 2 black 1 blue 1 black 2 blue 2 black 1 blue 1 black 2 blue 1 black 1 blue 2 black 1
+black 9 black 1 blue 2 black 2 blue 2 black 1 blue 1 black 1 blue 2 black 1 blue 2 black 1
+black 7 blue 1 blue 1 black 1 blue 7 black 2 blue 1 black 2 blue 1 black 2
+black 5 blue 3 black 1 blue 2 black 3 blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1
+black 4 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 black 1 blue 5
+black 3 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 black 1 blue 2 black 1 blue 2 black 1 blue 1
+blue 7 blue 3 black 1 blue 2 black 1 blue 2 black 1 blue 1
+blue 7 blue 10 black 1 blue 1
+blue 2 black 1 blue 4 blue 9 blue 2
+blue 5 blue 1 blue 12
+blue 5 blue 11 blue 2
+blue 4 blue 8 blue 3 blue 2
+black 1 blue 4 blue 7 blue 3 blue 2
+black 1 blue 13 blue 6
+black 1 blue 12 blue 6
+black 3 black 2 blue 12 blue 7
+black 1 black 1 black 3 blue 12 blue 7
+black 11 black 2 blue 12 blue 6
+black 1 black 1 blue 7 blue 5 blue 6
+black 1 black 1 blue 6 blue 5 blue 6
+black 4 black 2 black 1 blue 6 blue 13
+black 1 black 2 black 3 black 1 black 1 blue 6 blue 13
+black 1 black 2 black 1 black 1 black 1 blue 6 blue 9 blue 2
+black 21 black 1 blue 6 blue 12
+black 1 black 1 black 1 blue 7 blue 8 blue 3
+black 1 black 1 black 1 blue 7 blue 9 blue 2
+black 3 black 2 black 1 blue 6 blue 10 blue 2
+black 1 black 1 black 1 black 1 blue 17 blue 2
+black 11 black 1 blue 11 blue 6 blue 1
+black 1 black 2 blue 11 blue 5 blue 1
+black 3 blue 4 blue 6 blue 7
+black 2 black 1 blue 4 blue 6 blue 7
+blue 3 blue 7 blue 8
+blue 3 blue 7 blue 8
+blue 3 blue 16
+blue 3 blue 16
+blue 3 blue 16

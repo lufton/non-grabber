@@ -1,0 +1,71 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "May  1, 2010"
+description "Whats wrong with this picture?"
+difficulty 1.5
+height 25
+id 8647
+link "https://webpbn.com/play.cgi?id=8647"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Does black & blue blend?"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 6 black 7
+blue 6 black 9
+blue 6 black 11
+blue 7 black 11
+blue 7 black 11
+blue 6 black 12
+blue 6 black 12
+blue 6 black 12
+blue 6 black 12
+blue 5 black 12
+blue 4 black 12
+blue 4 black 10
+blue 3 black 9 blue 3
+blue 1 blue 2 black 1 blue 1 black 5 blue 1 black 1 blue 4 black 1
+blue 2 blue 2 black 1 blue 1 black 5 blue 1 black 1 blue 4 black 2
+blue 3 blue 4 black 5 blue 5 black 3
+blue 4 blue 4 black 7 blue 3 black 4
+black 1 blue 9 black 8 blue 1 black 5
+black 2 blue 7 black 14 blue 1
+black 3 blue 5 black 14 blue 2
+black 21 blue 3
+black 20 blue 4
+black 18 blue 4
+black 15 blue 4
+blue 2 black 10 blue 4
+
+columns
+blue 4 black 5
+blue 4 black 5
+blue 6 blue 4 black 4
+blue 8 blue 4 black 4
+blue 10 blue 3 black 4
+blue 12 blue 3 black 4 blue 1
+blue 13 blue 4 black 4 blue 1
+blue 20 black 5
+blue 5 black 6 blue 8 black 6
+blue 2 black 13 blue 3 black 7
+blue 1 black 12 blue 3 black 9
+black 25
+black 25
+black 25
+black 25
+black 25
+black 13 blue 3 black 9
+black 15 blue 2 black 7 blue 1
+black 11 blue 6 black 5 blue 2
+black 9 blue 5 black 5 blue 3
+blue 4 black 5 blue 4
+blue 2 black 5 blue 4
+black 6 blue 4
+black 4 blue 4
+0

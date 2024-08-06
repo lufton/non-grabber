@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "May  2, 2010"
+description ":-)"
+difficulty 2.0
+height 25
+id 8653
+link "https://webpbn.com/play.cgi?id=8653"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A puzzle for Alison"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 2 black 3
+black 2 black 3
+black 1 black 2
+blue 2 black 2 black 2
+black 1 blue 2 black 2 black 3
+black 2 black 2 black 3 black 2
+black 9 black 2
+black 8 black 2
+black 8 black 1
+black 9
+black 10
+black 10
+black 7 black 3
+black 6 black 2
+black 6 black 1
+black 6 black 1
+black 6
+black 6
+black 6 black 2
+black 6 black 2
+black 8
+black 9
+black 12
+black 11 black 1
+
+columns
+black 1 blue 1 black 3
+black 2 blue 2 black 3 black 1
+black 2 blue 1 black 3 black 2
+black 3 black 5 black 3
+black 21
+black 20
+black 18
+black 19
+black 20
+black 3 black 16
+black 4 black 4 black 4
+black 3 black 5 black 6
+black 2 black 2 black 3 black 2 black 1
+black 2 black 2 black 3 black 2
+black 1 black 1 black 4

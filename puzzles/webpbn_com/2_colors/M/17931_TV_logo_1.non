@@ -1,0 +1,67 @@
+by "David (Havenstrom)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David"
+date "Mar 15, 2012"
+description "TV4 is one of the main commercial TV channels in Sweden. This is a smaller version of a previously made puzzle."
+difficulty 1.5
+height 25
+id 17931
+link "https://webpbn.com/play.cgi?id=17931"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "TV logo #1"
+width 25
+
+rows
+7
+11
+11,3
+11,4
+12,5
+12,6
+11,6
+11,7
+11,7
+11,8
+10,8
+10,1,8
+9,2,8
+8,2,8
+8,3,8
+7,3,8
+5,4
+5,4
+3,3
+12,6
+11,5
+10,4
+15
+11
+7
+
+columns
+7
+11
+15
+17
+19
+16,4
+14,4
+14,5
+12,5
+12,6
+10,6
+9,2,6
+7,4,6
+6,5,6
+5,3
+3,3
+1,2
+15,5
+14,4
+14,4
+19
+17
+15
+11
+7

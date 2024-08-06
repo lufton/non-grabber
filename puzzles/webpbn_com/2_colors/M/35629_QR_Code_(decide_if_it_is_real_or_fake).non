@@ -1,0 +1,57 @@
+by "Sean Blend (seanblend)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Sean Blend"
+date "Mar 27, 2022"
+description "This is either real or fake, scan it on your phone when you're done, and tell me what it leads to!"
+difficulty 1.75
+height 20
+id 35629
+link "https://webpbn.com/play.cgi?id=35629"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "QR Code (decide if it is real or fake)"
+width 20
+
+rows
+6,2,1,6
+1,1,3,2,1,1
+1,2,1,3,2,1,2,1
+1,2,1,3,1,2,1
+1,1,3,1,1
+6,3,6
+2,1,1,1,1
+2,3,1,2,1
+2,1,3,1,1,1
+3,1,1,1,1,1,1
+1,1,2,2
+5,2,1,2
+1,4,1,3,2,1
+3,1,1,2,1
+6,1,4,1,1
+1,1,3
+1,2,5,2,1,2
+1,2,1,1,4,1
+1,1,1,3,3
+6,4,2,1
+
+columns
+7,1,1,6
+1,3,3,1,1
+1,2,1,3,2,1,2,1
+1,2,1,1,2,1,2,1
+1,1,1,2,1,1
+13,6
+1,1,1
+5,4,1,1
+10,1,1,4
+5,1,1,1
+1,2,3,2
+3,1,1,3
+2,1,2,7
+2,1,1
+6,2,1,3,1
+1,1,1,6
+1,2,1,2,1
+1,2,1,5,1,2
+1,1,2,3
+7,2,1

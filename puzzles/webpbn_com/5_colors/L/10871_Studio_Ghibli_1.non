@@ -1,0 +1,83 @@
+by "MaryJane Anderson (o-so-clever)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by MaryJane Anderson"
+date "Oct 29, 2010"
+description "The Cat returns. one of my favorite studio ghibli movies."
+difficulty 2.0
+height 30
+id 10871
+link "https://webpbn.com/play.cgi?id=10871"
+note "published,definitely non-unique,may require some guessing"
+quality 2.25
+title "Studio Ghibli 1"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 7 blue 3 blue 3 blue 6
+blue 7 blue 3 blue 3 blue 6
+blue 3 blue 8 blue 6
+blue 3 blue 8 blue 3
+blue 3 blue 8 blue 5
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3 blue 6
+0
+0
+green 7 green 4 green 7
+green 7 green 6 green 7
+green 7 green 3 green 3 green 3
+green 3 green 3 green 3 green 3
+green 3 green 8 green 3
+green 7 green 8 green 3
+green 7 green 3 green 3 green 3
+green 7 green 3 green 3 green 3
+0
+0
+red 4 black 1 black 1
+red 1 red 1 red 5 red 2 black 5
+red 1 red 1 red 1 red 1 red 1 black 1 black 1
+red 1 red 1 red 3 red 1 red 2 black 1 green 1 green 1 black 1
+red 4 red 1 red 1 red 1 red 1 blue 3 red 1 blue 2
+red 2 red 1 red 1 red 1 red 2 black 5
+red 3 red 2 red 1 red 1 red 1 red 1 black 3
+red 1 red 2 red 1 red 1 red 1 red 3 red 2 black 2 black 2
+red 1 red 2 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 1
+red 1 red 1 red 3 red 3 red 1 red 1 red 2 black 1
+
+columns
+red 10
+red 1 red 3
+green 8 red 1 red 1 red 2
+blue 2 green 8 red 1 red 1 red 2
+blue 2 green 8 red 3 red 2
+blue 7 green 3 green 3
+blue 7 green 3 green 3 red 7
+blue 7 green 3 green 3 red 1 red 1 red 1
+blue 2 green 3 green 3 red 1 red 1
+blue 2 red 1
+green 6 red 1
+blue 7 green 7 red 4
+blue 7 green 8 red 1 red 5
+blue 7 green 2 green 2 red 1 red 1
+blue 3 green 2 green 2 red 5
+blue 3 green 8 red 4
+blue 7 green 7 red 1 red 1 red 4
+blue 7 green 6 red 1 red 1 red 1
+blue 7 red 3
+green 2
+blue 7 green 2 red 3 red 1
+blue 7 green 8 red 1 red 3
+blue 7 green 8 blue 1 black 2
+blue 3 blue 1 blue 1 green 8 black 2 blue 1 black 2
+blue 3 blue 1 blue 1 green 2 black 2 blue 1 black 1 black 1
+blue 3 blue 1 green 2 black 1 green 1 black 2
+black 1 red 1 black 2
+black 1 green 1 black 2
+black 2 blue 1 black 1 black 1
+black 2 blue 1 black 2

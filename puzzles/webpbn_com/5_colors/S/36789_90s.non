@@ -1,0 +1,53 @@
+by "kaitlyn cyr (cyrious)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by kaitlyn cyr"
+date "May  4, 2023"
+description "a confusing game of tetris"
+difficulty 1.0
+height 15
+id 36789
+link "https://webpbn.com/play.cgi?id=36789"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "90s"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+0
+0
+red 2
+blue 1 red 2
+blue 1 green 1
+blue 1 black 1 green 2
+blue 1 black 2 green 3 black 1
+red 2 black 1 green 2 red 1 black 2 blue 1
+red 2 blue 4 red 3 black 1 blue 3
+
+columns
+blue 4 red 2
+black 1 red 2
+black 3 blue 1
+blue 1
+blue 1
+green 1 blue 1
+green 2 red 1
+green 3 red 2
+green 2 black 1 red 1
+black 3
+blue 1
+blue 1
+blue 2
+red 2
+red 2

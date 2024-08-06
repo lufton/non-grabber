@@ -1,0 +1,61 @@
+by "Arlo Mates (arlo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Arlo Mates"
+date "Sep 24, 2007"
+description "A happy face with blue eyes."
+difficulty 1.5
+height 20
+id 1483
+link "https://webpbn.com/play.cgi?id=1483"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Hi"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 18
+black 1 black 1
+black 1 black 4 black 4 black 1
+black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 4 black 4 black 1
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 10 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 6 black 1
+black 1 black 1
+black 18
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+0
+black 16
+black 1 black 1
+black 1 black 4 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 blue 1 black 1 black 2 black 1
+black 1 black 4 black 3 black 1
+black 1 black 1 black 2 black 4
+black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 4
+black 1 black 1 black 2 black 1
+black 1 black 4 black 3 black 1
+black 1 black 1 black 1 black 2 black 1
+black 1 black 1 blue 1 black 1 black 1
+black 1 black 4 black 1
+black 1 black 1
+black 16
+0

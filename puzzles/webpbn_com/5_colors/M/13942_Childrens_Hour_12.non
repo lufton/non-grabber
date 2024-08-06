@@ -1,0 +1,63 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "May 16, 2011"
+description "Mary, Mary, quite contrary, How does your garden grow? With silver bells and cockle-shells, And pretty maids all in a row."
+difficulty 1.75
+height 20
+id 13942
+link "https://webpbn.com/play.cgi?id=13942"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Children's Hour 12"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 blue 10
+blue 2 blue 8 blue 1
+blue 1 blue 3 red 3 blue 3
+blue 2 red 2 red 2 blue 4 blue 2
+blue 3 red 1 red 1 blue 8
+blue 6 blue 10
+blue 8 red 3 blue 9
+blue 7 red 5 blue 7
+blue 6 blue 2 red 1 blue 2 green 1 blue 7
+blue 8 red 3 blue 1 green 4 blue 4
+blue 7 red 5 green 2 blue 1 blue 4
+blue 6 red 6 green 2 blue 1 blue 4
+blue 8 blue 1 blue 4 blue 4
+blue 8 black 1 blue 1 black 1 blue 9
+green 20
+red 1 green 1 red 1 green 1 blue 1 green 1 blue 1 green 1 red 1 green 1 red 1 green 1 blue 1 green 1 blue 1 green 1 red 1 green 1 red 1 green 1
+green 1 red 1 green 3 blue 1 green 3 red 1 green 3 blue 1 green 3 red 1 green 2
+green 20
+green 1 blue 1 green 1 blue 1 green 1 red 1 green 1 red 1 green 1 blue 1 green 1 blue 1 green 1 red 1 green 1 red 1 green 1 blue 1 green 1 blue 1
+green 2 blue 1 green 3 red 1 green 3 blue 1 green 3 red 1 green 3 blue 1 green 1
+
+columns
+blue 3 blue 8 green 1 red 1 green 4
+blue 2 blue 8 green 2 red 1 green 1 blue 1 green 1
+blue 1 blue 8 green 1 red 1 green 3 blue 1
+blue 9 green 4 blue 1 green 1
+blue 1 blue 10 green 1 blue 1 green 4
+blue 14 green 2 blue 1 green 1 red 1 green 1
+blue 8 blue 2 red 1 blue 2 green 1 blue 1 green 3 red 1
+blue 3 red 2 blue 2 red 1 blue 2 red 2 blue 2 green 4 red 1 green 1
+blue 2 red 2 blue 1 red 2 blue 1 red 3 black 1 green 1 red 1 green 4
+blue 2 red 1 red 6 blue 2 green 2 red 1 green 1 blue 1 green 1
+blue 2 red 2 blue 1 red 2 blue 1 red 3 black 1 green 1 red 1 green 3 blue 1
+blue 3 red 2 blue 2 red 1 blue 2 red 2 blue 2 green 4 blue 1 green 1
+blue 7 green 4 blue 2 green 1 blue 1 green 4
+blue 1 blue 7 green 3 blue 2 green 2 blue 1 green 1 red 1 green 1
+blue 6 green 1 blue 4 green 1 blue 1 green 3 red 1
+blue 6 green 1 blue 1 green 4 red 1 green 1
+blue 10 green 1 red 1 green 4
+blue 10 green 2 red 1 green 1 blue 1 green 1
+blue 11 green 1 red 1 green 3 blue 1
+blue 1 blue 11 green 4 blue 1 green 1

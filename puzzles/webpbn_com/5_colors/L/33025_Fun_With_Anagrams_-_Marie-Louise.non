@@ -1,0 +1,83 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Teresa K"
+date "Oct 12, 2019"
+description "Can you guess the four words that are formed by rearranging the letters in "MARIE LOUISE"? Three words for the item on the left; one word for the item on the right."
+difficulty 1.75
+height 30
+id 33025
+link "https://webpbn.com/play.cgi?id=33025"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Fun With Anagrams - Marie-Louise"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 red 3 red 3
+red 3 green 1 red 5 red 5
+red 2 red 2 green 1 red 2 red 2 red 2 red 2
+red 1 red 1 green 1 red 5 red 5
+red 2 red 2 green 1 red 3 red 3
+red 3 green 1 blue 2 blue 2 green 3
+red 1 green 1 blue 5 green 1 green 1 green 1
+red 1 green 1 blue 1 blue 1 green 2 green 2
+red 1 green 1 blue 5 green 1 green 1 green 1
+red 1 green 1 blue 2 blue 2 green 3
+red 1 green 1 green 3 blue 2 blue 2
+red 1 green 1 green 1 green 1 green 1 blue 5
+red 1 green 1 green 2 green 2 blue 1 blue 1
+red 1 green 1 green 1 green 1 green 1 blue 5
+red 1 green 1 green 3 blue 2 blue 2
+red 1 green 1 red 3 red 3
+red 1 green 1 red 5 red 5
+red 1 green 1 red 2 red 2 red 2 red 2
+black 1 green 1 red 5 red 5
+black 1 green 1 red 3 red 3
+black 1 green 1 blue 2 blue 2 green 3
+black 1 green 1 blue 5 green 1 green 1 green 1
+black 1 green 1 blue 1 blue 1 green 2 green 2
+black 1 green 1 blue 5 green 1 green 1 green 1
+black 1 green 1 blue 2 blue 2 green 3
+black 1 green 1 green 3 red 3 blue 2 blue 2
+black 1 green 1 green 1 green 1 green 1 red 5 blue 5
+black 1 green 1 green 2 green 2 red 2 red 2 blue 1 blue 1
+black 1 green 1 green 1 green 1 green 1 red 5 blue 5
+black 1 green 1 green 3 red 3 blue 2 blue 2
+
+columns
+red 3
+red 2 red 2
+red 1 red 13 black 12
+red 2 red 2
+red 3
+0
+green 30
+0
+red 3 blue 2 blue 2
+red 5 blue 5 green 3
+red 2 red 2 blue 1 blue 1 green 1 green 1 green 1 red 3
+red 5 blue 5 green 2 green 2 red 5 blue 2 blue 2
+red 3 blue 2 blue 2 green 1 green 1 green 1 red 2 red 2 blue 5 green 3
+green 3 red 5 blue 1 blue 1 green 1 green 1 green 1
+red 3 blue 5 green 2 green 2
+blue 2 blue 2 green 1 green 1 green 1
+green 3
+red 3
+red 5
+red 2 red 2
+red 5
+red 3
+blue 2 blue 2
+green 3 blue 5
+green 3 blue 2 blue 2 red 3 green 1 green 1 green 1 blue 1 blue 1
+red 3 green 1 green 1 green 1 blue 5 red 5 green 2 green 2 blue 5
+red 5 green 2 green 2 blue 1 blue 1 red 2 red 2 green 1 green 1 green 1 blue 2 blue 2
+red 2 red 2 green 1 green 1 green 1 blue 5 red 5 green 3
+red 5 green 3 blue 2 blue 2 red 3
+red 3

@@ -1,0 +1,171 @@
+by "Jack Robbins (jdr5373)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jack Robbins"
+date "Jan 14, 2012"
+description "Dice with flames! My first puzzle!"
+difficulty 3.5
+height 70
+id 17143
+link "https://webpbn.com/play.cgi?id=17143"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.25
+title "Roll with it"
+width 80
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 2 red 4 red 4 red 6
+red 2 red 2 black 2 red 1 red 2 black 2 red 2 red 3 red 4 black 4 red 1 red 1
+red 2 red 2 red 2 black 3 red 1 red 1 black 4 red 1 red 2 black 1 red 4 black 1 red 2 black 4 red 1 red 2
+red 2 red 1 red 2 red 2 black 4 red 1 red 7 black 3 red 1 red 2 black 3 red 2 black 3 red 1 black 4 red 1 red 2
+red 3 red 2 red 1 red 2 black 5 red 12 black 4 red 2 black 3 red 6 black 4 red 1 black 4 red 1 black 4 red 1 red 2
+red 2 red 2 red 2 red 1 red 2 black 5 red 2 black 2 red 3 black 2 red 2 black 6 red 1 black 3 red 2 black 2 red 2 black 3 red 2 black 3 red 2 black 4 red 1 red 2
+red 4 red 2 red 3 red 1 red 2 black 3 red 2 black 4 red 1 black 4 red 1 black 2 red 2 black 2 red 1 black 3 red 1 black 4 red 1 black 3 red 2 black 3 red 2 black 3 red 2 red 3
+red 4 red 2 red 5 red 1 black 3 red 2 black 4 red 1 black 4 red 1 black 2 red 3 black 1 red 1 black 8 red 1 black 3 red 2 black 3 red 2 black 3 red 1 red 3
+red 3 red 2 red 5 red 1 black 3 red 2 black 3 red 2 black 3 red 2 black 2 red 5 black 4 red 1 black 3 red 1 black 3 red 2 black 3 red 2 black 3 red 1 red 4 red 1
+red 3 red 6 red 1 black 3 red 2 black 3 red 2 black 3 red 2 black 2 red 5 black 3 red 2 black 2 red 2 black 3 red 2 black 3 red 2 black 3 red 1 red 3 red 2
+red 2 red 3 red 5 red 1 black 3 red 2 black 3 red 2 black 3 red 2 black 2 red 3 black 1 red 1 black 3 red 1 black 3 red 2 black 3 red 2 black 3 red 2 black 2 red 2 red 3 red 2
+red 2 red 3 red 4 red 1 black 3 red 2 black 3 red 2 black 3 red 2 black 2 red 2 black 2 red 1 black 3 red 1 black 4 red 1 black 3 red 2 black 3 red 6 red 7
+red 3 red 4 red 4 red 1 black 3 red 2 black 8 red 2 black 6 red 1 black 3 red 1 black 8 red 1 black 4 red 3 black 2 red 2 red 8
+red 3 red 5 red 4 red 1 black 3 red 3 black 6 red 4 black 4 red 1 black 5 red 1 black 12 red 2 black 4 red 10
+red 3 red 6 red 2 red 1 black 3 red 19 black 3 red 2 black 4 red 1 black 2 red 2 black 3 red 3 black 3 red 10
+red 4 red 7 red 3 black 3 red 20 black 1 red 4 black 2 red 6 black 2 red 4 black 2 red 11
+red 4 red 14 black 4 red 1 black 5 red 6 black 1 red 15 black 4 red 1 black 2 red 17
+red 4 red 13 black 14 red 3 black 2 red 14 black 6 red 18
+red 18 black 20 red 15 black 4 red 19
+red 10 red 6 black 5 red 4 black 6 red 20 red 12
+red 8 black 4 red 12 black 2 red 14 red 10
+red 7 black 8 red 18 black 3 red 8
+red 7 black 12 red 9 black 8 red 6
+red 7 black 16 red 7 black 12 red 5
+red 6 black 5 black 12 red 3 black 16 red 3
+red 5 black 5 black 13 black 19 red 3
+red 4 black 6 black 16 black 5 black 16 red 2
+red 3 black 7 black 18 black 6 black 4 black 10 red 1
+red 3 black 9 black 6 black 12 black 6 black 3 black 4 black 4 red 1
+red 3 black 18 black 11 black 2 black 3 black 4 black 3 black 4
+red 2 black 19 black 12 black 3 black 9 black 4 black 5
+red 2 black 20 black 7 black 3 black 4 black 15 black 6
+red 2 black 7 black 12 black 7 black 4 black 5 black 17 black 2
+red 1 black 7 black 20 black 5 black 6 black 13 black 4
+red 1 black 8 black 19 black 6 black 7 black 9 black 5
+black 9 black 5 black 10 black 2 black 4 black 8 black 6 black 8
+black 11 black 5 black 8 black 2 black 3 black 9 black 2 black 10
+black 3 black 14 black 7 black 3 black 3 black 10 black 8 black 2
+black 4 black 11 black 6 black 4 black 3 black 11 black 9 black 2
+black 7 black 10 black 6 black 6 black 4 black 4 black 4 black 9 black 2
+black 9 black 15 black 12 black 4 black 4 black 9 black 3
+black 10 black 11 black 13 black 4 black 4 black 9 black 4
+black 13 black 8 black 3 black 5 black 4 black 4 black 4 black 15
+black 4 black 8 black 4 black 2 black 3 black 3 black 5 black 4 black 15
+black 4 black 10 black 3 black 3 black 3 black 12 black 16
+black 4 black 11 black 4 black 3 black 3 black 12 black 16
+black 5 black 12 black 5 black 5 black 4 black 11 black 16
+black 6 black 7 black 4 black 16 black 10 black 4 black 9
+black 15 black 3 black 11 black 4 black 9 black 3 black 9 red 1
+black 14 black 2 black 5 black 4 black 3 black 8 black 3 black 8 red 1
+black 9 black 3 black 2 black 4 black 3 black 2 black 7 black 3 black 7 red 2
+black 9 black 3 black 4 black 4 black 3 black 2 black 6 black 3 black 5 red 5
+black 3 black 3 black 8 black 4 black 4 black 2 black 5 black 8 red 6
+red 1 black 2 black 3 black 8 black 5 black 7 red 1 black 11 red 2 red 3
+red 2 black 2 black 3 black 9 black 12 red 2 black 8 red 1 red 3
+red 3 black 3 black 14 black 5 black 5 red 1 black 4 red 1 red 1 red 4
+red 3 black 4 black 15 black 4 black 4 red 2 red 2 red 2 red 1 red 4
+red 2 black 12 black 5 black 4 black 3 red 3 red 2 red 1 red 4 red 3 red 5
+red 2 black 11 black 4 black 4 black 2 red 8 red 2 red 6 red 13
+red 2 red 1 black 9 black 3 black 5 black 2 red 1 red 10 red 2 red 21
+red 3 red 2 black 8 black 3 black 7 red 2 red 9 red 25
+red 3 red 2 black 7 black 5 black 7 red 2 red 8 red 26
+red 8 black 12 black 6 red 6 red 12 black 5 red 1 black 3 red 6
+red 7 red 1 black 10 black 5 red 5 red 18 black 1 red 3 black 1 red 2 black 1 red 5
+red 7 red 3 red 1 black 8 black 4 red 7 red 20 black 1 red 3 black 1 red 2 black 1 red 5
+red 8 red 5 black 9 red 27 black 1 red 1 black 1 red 3 black 1 red 2 black 1 red 5
+red 9 red 6 black 6 red 28 black 3 red 3 black 3 red 6
+red 11 red 8 black 3 red 45
+red 80
+
+columns
+red 12 red 14
+red 11 red 15
+red 9 black 5 red 4 red 9
+red 8 black 14 red 7
+red 16 black 19 red 7
+red 1 red 15 black 4 black 19 red 2 red 7
+red 3 red 12 black 5 black 19 red 9
+red 5 red 8 black 7 black 4 black 6 black 4 red 2 red 4
+red 5 red 4 black 8 black 4 black 5 black 3 red 3
+red 3 red 3 black 9 black 3 black 4 black 3 red 2
+red 3 red 5 black 11 black 4 black 5 black 3 red 2 red 2
+red 7 black 12 black 4 black 7 black 5 red 2 red 1
+red 17 black 7 black 4 black 20 red 5
+red 15 black 7 black 3 black 8 black 9 red 4
+red 1 red 10 black 8 black 3 black 8 black 8 red 5
+red 4 red 7 black 9 black 4 black 8 black 8 red 4
+red 9 red 5 black 11 black 5 black 8 black 8 red 3
+red 6 red 4 black 20 black 9 black 10 red 3
+red 8 red 3 black 5 black 14 black 3 black 7 black 4 red 2
+red 8 red 3 black 4 black 13 black 3 black 6 black 4 red 2
+red 10 red 3 black 4 black 14 black 3 black 5 black 3 red 1
+red 5 red 4 black 4 black 7 black 4 black 3 black 6 black 3 red 1
+red 2 red 3 black 1 red 1 black 4 black 7 black 3 black 4 black 8 black 5 red 1
+red 4 red 2 black 2 red 1 black 14 black 4 black 20 red 1
+red 2 black 2 red 10 black 3 red 1 black 14 black 4 black 20 red 1
+red 2 black 16 red 1 black 14 black 5 black 16 red 1
+red 2 black 17 red 2 black 22 black 7 red 1
+red 1 black 19 red 1 black 7 black 11 black 3 red 1
+red 1 black 5 red 11 black 3 red 1 black 5 black 9 black 23 red 1
+red 16 black 4 red 1 black 5 black 8 black 23 red 1
+red 2 black 7 red 3 black 4 red 1 black 5 black 7 black 24 red 1
+red 1 black 9 red 2 black 4 red 1 black 5 black 7 black 24 red 1
+red 1 black 9 red 2 black 3 red 2 black 14 black 3 black 4 black 3 black 5 red 1
+red 2 black 2 red 4 black 2 red 2 black 3 red 3 black 13 black 3 black 2 black 1 black 3 red 1
+red 8 black 2 red 3 black 2 red 3 black 11 black 5 black 4 black 3 black 3 red 1
+red 2 black 8 red 3 black 2 red 3 black 10 black 23 red 2
+red 1 black 9 red 3 black 3 red 2 black 8 black 23 red 2
+red 1 black 8 red 5 black 2 red 2 black 7 black 23 red 3
+red 2 black 2 red 10 black 3 red 1 black 6 black 2 black 4 black 3 black 5 red 5
+red 14 black 3 red 1 black 4 black 2 black 2 black 1 black 2 red 10
+red 2 black 8 red 3 black 4 red 3 black 4 black 4 black 4 black 3 black 2 red 9
+red 1 black 10 red 3 black 3 red 4 black 25 red 7
+red 1 black 2 red 6 black 2 red 10 black 24 red 10
+red 1 black 2 red 6 black 2 red 11 black 20 red 10
+red 1 black 3 red 4 black 3 red 11 red 4 red 5
+red 4 black 3 red 2 black 3 red 12 red 4 red 4
+red 2 black 1 red 10 black 1 red 10 red 2 red 5 red 4
+red 1 black 14 red 9 black 19 red 8 red 5
+red 1 black 15 red 7 black 20 red 6 red 5
+red 2 black 13 red 7 black 3 black 18 red 4 red 6
+red 6 black 2 red 4 black 1 red 8 black 3 black 18 red 5 red 6
+red 2 black 2 red 2 black 3 red 8 black 4 black 7 black 7 red 4 red 6
+red 1 black 10 red 6 black 6 black 6 black 7 red 1 red 6
+red 1 black 11 red 5 black 2 black 3 black 5 black 8 red 7
+red 2 black 3 red 2 black 5 red 4 black 2 black 3 black 5 black 9 red 8
+red 9 black 3 red 5 black 2 black 3 black 18 red 12
+red 2 black 10 red 2 black 2 red 2 black 3 black 5 black 18 red 11
+red 2 black 12 red 1 black 3 red 1 black 12 black 18 red 9
+red 1 black 13 red 1 black 3 red 1 black 13 black 16 red 9
+red 2 black 2 red 8 black 1 red 2 black 3 red 1 black 14 black 3 red 10
+red 10 black 2 red 3 black 2 red 1 black 6 black 7 black 12 red 11
+red 2 black 14 red 2 black 5 black 5 black 17 red 11
+red 2 black 14 red 2 black 5 black 5 black 17 red 12
+red 1 black 13 red 4 black 7 black 6 black 11 black 3 red 12
+red 2 black 2 red 14 black 14 black 10 black 2 red 14
+red 19 black 14 black 10 black 3 red 6 black 1 red 2 black 2 red 2
+red 1 black 10 red 2 black 1 red 5 black 12 black 11 black 3 red 3 black 1 red 3 black 1 red 2
+red 1 black 10 red 1 black 4 red 3 black 7 black 3 black 17 red 4 black 5 red 2
+red 1 black 9 red 2 black 4 red 4 black 5 black 2 black 17 red 5 black 1 red 6
+red 1 black 5 red 7 black 2 red 5 black 4 black 1 black 17 red 7 black 1 red 6
+red 7 red 9 black 4 black 2 black 3 black 9 red 12
+red 8 black 6 black 3 black 9 red 4 black 5 red 2
+red 10 black 5 black 4 black 10 red 4 black 1 red 3 black 1 red 2
+red 11 black 4 black 4 black 10 red 2 red 4 black 1 red 3 black 1 red 2
+red 15 black 21 red 2 red 5 black 3 red 3
+red 18 black 19 red 2 red 12
+red 2 red 19 red 2 red 14
+red 7 red 15 red 18
+red 2 red 18 red 19
+red 21 red 21

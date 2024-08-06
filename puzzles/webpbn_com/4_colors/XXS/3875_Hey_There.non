@@ -1,0 +1,32 @@
+by "Audrey Behen (snailfreak)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Audrey Behen"
+date "Oct 26, 2008"
+description "HI It is pretty self explanatory"
+difficulty 1.0
+height 5
+id 3875
+link "https://webpbn.com/play.cgi?id=3875"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Hey There"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 1 black 1
+blue 1 green 1
+blue 1 black 1 green 1 green 1
+blue 1 green 1 green 1
+blue 1 green 1 green 1
+
+columns
+blue 5
+black 1
+green 5
+0
+black 1 green 3

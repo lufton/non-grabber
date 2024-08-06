@@ -1,0 +1,83 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Sep  6, 2010"
+description "Black Jack! Some casinos have gone from paying 3:2 on a black jack to paying 6:5. Not good for the player."
+difficulty 2.0
+height 30
+id 10219
+link "https://webpbn.com/play.cgi?id=10219"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "3:2 or 6:5"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+black 3
+black 2 black 2
+black 2 black 2
+black 2 red 1 black 2
+black 2 red 2 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 red 2 black 2
+black 1 red 1 black 1
+black 2 blue 3
+red 2 black 2 black 3
+red 2 black 2 green 5 blue 3 green 9
+black 2 green 6 black 3 green 9
+red 1 black 2 green 7 red 3 green 9
+red 2 red 1 black 2 green 8 black 3 green 9
+red 1 red 1 black 2 green 9 red 3 green 9
+red 2 black 2 green 22
+red 1 black 2 green 5 black 11 green 7
+black 1 black 2 green 6 black 1 black 1 green 7
+black 2 black 2 green 7 black 1 red 1 red 1 black 1 green 7
+green 1 black 3 green 8 black 1 red 1 red 1 red 1 black 1 green 7
+green 12 black 1 red 1 red 1 black 1 green 7
+green 12 black 1 black 1 green 7
+green 12 black 1 red 1 red 1 black 1 green 7
+green 12 black 1 red 3 red 3 black 1 green 7
+green 12 black 1 red 1 red 1 black 1 green 7
+green 12 black 1 black 1 green 7
+
+columns
+black 2 black 2 green 7
+black 2 black 2 green 6
+black 2 red 5 black 1 green 6
+black 2 red 1 red 1 black 2 green 6
+black 2 red 1 red 2 red 1 black 2 green 7
+black 2 red 1 red 2 red 1 black 2 green 8
+black 2 red 1 red 1 black 2 green 9
+black 1 red 5 black 2 green 10
+black 2 black 2 green 11
+black 2 black 2 green 12
+black 2 black 2 green 13
+black 2 black 2 green 14
+black 2 black 2 green 5 black 10
+black 2 black 2 green 6 black 1
+black 3 green 6 black 1 red 3 red 1
+green 6 black 1 red 3
+green 6 black 1 red 1 red 1
+green 6 black 1 red 1 red 1
+blue 1 black 1 blue 1 black 1 red 1 black 1 red 1 green 1 black 1 red 1 red 1
+blue 1 black 1 blue 1 black 1 red 1 black 1 red 1 green 1 black 1 red 3
+blue 1 black 1 blue 1 black 1 red 1 black 1 red 1 green 1 black 1 red 1
+green 6 black 1
+green 6 black 10
+green 16
+green 16
+green 16
+green 16
+green 16
+green 16
+green 16

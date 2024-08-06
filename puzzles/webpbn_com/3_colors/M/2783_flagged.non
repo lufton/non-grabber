@@ -1,0 +1,61 @@
+by "thomas davis (sodoku)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by thomas davis"
+date "May 16, 2008"
+description "its the ammerican flag"
+difficulty 1.25
+height 20
+id 2783
+link "https://webpbn.com/play.cgi?id=2783"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "flagged"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 8 black 12
+blue 1 blue 1 blue 1 blue 2 black 12
+blue 2 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 1 black 12
+blue 1 blue 1 blue 1 blue 2 black 12
+blue 2 blue 1 blue 1 blue 1
+blue 8
+black 20
+black 20
+0
+0
+black 20
+black 20
+0
+0
+black 20
+black 20
+0
+0
+
+columns
+blue 8 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 2 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 2 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 2 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2

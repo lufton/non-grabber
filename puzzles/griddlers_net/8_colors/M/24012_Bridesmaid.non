@@ -1,0 +1,74 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/12/05"
+height 30
+id 24012
+link "https://www.griddlers.net/nonogram/-/g/24012"
+medium_time "0:09:20"
+points 4284
+popularity 69.02
+title "Bridesmaid"
+width 19
+
+color a 00fe00
+color b ff0000
+color c fffe00
+color d 8080fe
+color e fffefe
+color f ff00ff
+color g ad5500
+color h 000000
+
+rows
+e 1 d 3
+e 1 c 1 e 1 d 4
+e 1 f 5 d 1
+d 10
+d 3 h 2 g 3 h 2
+h 2 g 1 h 1 g 1 h 1 g 1 h 1
+h 2 g 5 h 2
+h 3 g 2 b 1 g 2 h 3
+h 3 g 3 h 3
+g 2 d 1 c 3 d 1 g 1
+g 3 d 1 g 3 d 1 g 2
+g 3 d 2 g 3 d 2 g 1
+g 3 d 3 g 1 d 3 g 1 g 1
+g 2 d 5 g 4 c 1 g 2
+g 1 c 1 g 2 f 5 g 4 c 1 g 2
+c 1 g 1 d 8
+d 11
+d 11
+d 13
+d 13
+d 13
+d 15
+d 15
+f 1 d 15 f 1
+d 2 f 4 d 7 f 4 d 2
+e 1 d 4 f 7 d 4 e 1
+e 6 d 7 e 6
+e 17
+e 13
+0
+
+columns
+d 1 e 1
+f 1 d 1 e 3
+g 2 d 3 f 1 d 1 e 2
+d 1 g 4 d 6 f 1 d 1 e 3
+d 1 h 1 g 3 c 2 d 8 f 1 d 1 e 3
+e 1 d 2 h 4 g 3 g 2 d 8 f 1 d 1 e 3
+e 1 c 1 e 1 d 1 h 5 g 2 d 2 g 1 d 10 f 1 d 1 e 2
+e 1 f 1 d 1 h 1 g 3 h 1 d 5 f 1 d 10 f 1 d 1 e 2
+d 2 f 1 d 1 g 1 h 1 g 3 c 1 g 2 d 2 f 1 d 10 f 1 d 1 e 2
+d 2 f 1 d 1 g 3 b 1 g 1 c 1 g 3 d 1 f 1 d 10 f 1 d 1 e 2
+d 2 f 1 d 1 g 1 h 1 g 3 c 1 g 2 d 2 f 1 d 10 f 1 d 1 e 2
+d 1 f 1 d 1 h 1 g 3 h 1 d 5 f 1 d 10 f 1 d 1 e 2
+d 1 h 5 g 2 d 2 g 2 d 10 f 1 d 1 e 2
+d 1 h 3 g 5 d 9 f 1 d 1 e 3
+d 2 h 1 g 2 d 8 f 1 d 1 e 3
+g 2 d 6 f 1 d 1 e 3
+c 2 d 3 f 1 d 1 e 2
+g 3 f 1 d 1 e 3
+g 2 d 1 e 1

@@ -1,0 +1,102 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/9/22"
+height 45
+id 253569
+link "https://www.griddlers.net/nonogram/-/g/253569"
+medium_time "0:37:41"
+points 34440
+popularity 79.17
+title "Inside Out: Sadness"
+width 35
+
+color a ffffff
+color b 213691
+color c 566ece
+color d 7fd4e9
+color e 9aa0c2
+
+rows
+0
+0
+b 9
+b 3 c 9 b 3
+b 2 c 15 b 2
+b 1 c 19 b 1
+b 1 c 16 d 1 c 4 b 1
+b 1 c 15 d 5 c 3 b 1
+b 1 c 14 d 8 c 3 b 1
+b 1 c 12 d 11 c 2 b 1
+b 1 c 9 b 5 d 4 b 5 d 2 c 2 b 1
+b 1 c 8 b 1 d 5 b 1 d 2 b 1 d 5 b 1 d 2 c 1 b 1
+b 1 c 7 b 1 d 3 d 2 b 2 d 2 d 3 b 1 d 1 c 2 b 1
+b 1 c 7 b 1 d 2 d 2 d 1 b 2 d 1 d 2 d 2 b 1 d 1 c 2 b 1
+b 2 c 6 b 1 d 2 d 2 d 1 b 2 d 1 d 2 d 2 b 1 d 1 c 1 b 2
+b 3 c 3 b 3 d 2 d 1 b 2 d 1 d 2 b 1 d 1 b 3
+b 9 d 3 d 2 b 2 d 2 d 3 b 1 d 1 b 3
+b 10 d 5 b 1 d 2 b 1 d 5 b 1 d 2 b 3
+b 9 d 1 b 5 d 2 c 1 d 1 b 5 d 3 b 3
+b 8 d 1 d 10 d 3 b 2
+b 8 d 18 b 1
+b 7 d 7 c 2 d 9 b 1
+b 7 d 6 c 1 d 2 c 1 d 8 b 1
+b 7 d 17 b 1
+b 6 d 17 b 1
+b 7 d 16 b 1
+b 9 d 14 b 2
+b 7 e 1 b 14 b 2
+b 6 e 2 e 1 e 1 e 1 e 1 e 1 b 2
+b 5 e 1 e 2 e 2 e 2 e 2 e 2 e 2 e 1 b 1
+b 3 e 1 e 3 e 1 e 1 e 1 e 1 e 3 b 2
+b 1 e 15 e 1 b 1
+b 1 e 2 e 1 b 2
+b 1 b 2 e 1 b 1
+b 1 b 1 e 1 b 1
+b 1 b 2 e 1 b 1
+b 1 b 2 e 1 d 2 b 1
+b 1 d 3 b 1 b 1 d 2 b 1
+b 1 d 3 b 2 c 1 b 5
+b 4 b 1 c 18 b 1
+b 1 c 8 b 2 c 6 b 2
+b 1 c 8 b 2 c 6 b 1
+b 1 c 6 b 3 c 5 b 1
+b 1 d 4 b 1 b 1 d 4 b 1
+b 4 b 4
+
+columns
+0
+0
+b 3
+b 9 b 5 b 6
+b 2 c 4 b 7 b 6 b 2 d 2 b 1
+b 1 c 7 b 17 d 2 b 1
+b 1 c 9 b 14 e 1 d 2 b 1
+b 1 c 10 b 13 e 1 b 1
+b 1 c 11 b 12 e 1 b 4
+b 1 c 10 b 12 e 3 b 2 c 2 b 2
+b 1 c 11 b 12 e 2 b 3 c 3 b 1
+b 1 c 8 b 12 d 2 b 1 e 1 e 1 b 1 c 4 b 1
+b 1 c 7 b 1 d 5 b 1 d 9 b 1 e 3 c 4 d 1 b 1
+b 1 c 7 b 1 d 7 b 1 d 7 b 1 e 2 e 1 c 4 d 1 b 1
+b 1 c 7 b 1 d 2 d 2 b 1 d 7 b 1 e 3 c 4 d 1 b 1
+b 1 c 7 b 1 d 1 d 2 d 1 b 1 d 8 b 1 e 1 c 4 d 1 b 1
+b 1 c 7 b 1 d 1 d 2 d 1 b 1 d 8 b 1 e 2 e 1 c 4 b 1
+b 1 c 6 d 1 b 1 d 2 d 2 b 1 d 8 b 1 e 3 c 3 b 1
+b 1 c 6 d 2 b 1 d 5 b 1 d 4 c 1 d 4 b 1 e 1 c 1 b 3
+b 1 c 5 d 4 b 5 d 4 c 1 d 5 b 1 e 2 e 1 c 1 b 4
+b 1 c 5 d 4 b 5 d 1 c 1 d 2 c 1 d 5 b 1 e 3 c 4 d 1 b 1
+b 1 c 4 d 4 b 1 d 5 b 1 d 4 c 1 d 4 b 1 e 1 c 4 d 1 b 1
+b 1 c 3 d 3 b 1 d 2 d 2 b 1 d 8 b 1 e 2 e 1 c 4 d 1 b 1
+b 1 c 2 d 4 b 1 d 1 d 2 d 1 b 1 d 8 b 1 e 3 c 4 d 1 b 1
+b 1 c 3 d 3 b 1 d 1 d 2 d 1 b 1 d 8 b 1 e 1 c 4 b 1
+b 1 c 2 d 3 b 1 d 2 d 2 b 1 d 7 b 1 e 2 e 1 c 3 b 1
+b 1 c 3 d 2 b 1 d 7 b 1 d 6 b 1 e 3 c 1 b 2
+b 1 c 3 d 2 b 1 d 5 b 1 d 7 b 3 e 1 b 3
+b 1 c 3 d 2 b 5 d 7 b 1 b 2 e 8 b 2
+b 1 c 3 d 12 b 1 b 3 d 2 b 1
+b 2 c 5 b 8 b 3 d 2 b 1
+b 2 c 2 b 6 b 7
+b 7
+0
+0

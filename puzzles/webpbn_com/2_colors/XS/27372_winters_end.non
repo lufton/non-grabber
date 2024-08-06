@@ -1,0 +1,33 @@
+by "abigial parks orendorff ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by abigial parks orendorff"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 8
+id 27372
+link "https://webpbn.com/play.cgi?id=27372"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "winter's end"
+width 8
+
+rows
+0
+1
+1,1,1
+4,1
+2,3
+1,3,2
+4,2
+1,3,1
+
+columns
+2
+2,2
+6
+1,3
+4,1
+1,2
+5
+1,1

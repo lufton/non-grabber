@@ -1,0 +1,85 @@
+by "Ratbag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/15/04"
+height 30
+id 8447
+link "https://www.griddlers.net/nonogram/-/g/8447"
+medium_time "0:16:32"
+points 21053
+popularity 79.78
+title "Hawk"
+width 30
+
+color a e0fefe
+color b ffab00
+color c 6a4200
+color d c7945b
+color e dcbfa1
+color f bd8c72
+color g 875c2c
+color h 000000
+
+rows
+h 9
+h 1 g 9 h 1
+h 1 c 1 g 5 f 5 h 1
+h 1 c 1 h 7 f 4 h 1
+h 4 h 1 h 1 d 3 h 1 f 4 h 1
+h 2 b 3 h 5 d 2 e 2 h 1 f 4 h 1
+h 1 b 3 h 2 b 2 h 1 d 3 e 4 h 1 f 3 h 1
+h 1 b 8 h 1 d 1 e 5 h 1 f 4 h 1
+h 1 b 10 h 1 e 5 h 1 f 4 h 1
+h 1 b 4 h 5 b 1 h 1 e 5 h 1 f 4 h 1
+h 1 b 2 h 3 b 5 h 1 e 5 h 1 f 4 h 1
+h 1 b 1 h 1 h 5 e 5 d 1 h 1 f 4 h 1
+h 1 h 1 d 2 e 6 d 1 h 1 g 1 f 3 h 1
+h 1 d 1 e 7 d 1 h 1 g 1 f 3 h 1
+h 1 d 1 e 7 d 1 h 1 g 1 f 3 h 1
+h 1 d 1 e 7 d 1 h 1 g 1 f 3 h 1
+h 1 d 2 e 7 d 1 h 1 g 1 f 2 g 1 h 1
+h 1 e 9 d 1 h 1 g 1 f 2 g 1 h 1
+h 1 d 3 e 7 d 1 h 1 g 1 f 2 g 1 h 1
+h 1 d 1 e 1 d 2 e 6 d 1 h 1 g 5 h 1
+h 2 d 1 e 3 d 1 e 5 d 1 h 1 g 2 f 2 g 1 f 1 h 2
+h 1 d 2 e 2 d 1 e 1 d 1 e 3 d 2 h 1 g 2 f 6 h 1
+h 3 d 3 e 2 d 1 e 3 d 3 h 1 g 4 f 4 h 1
+h 1 g 1 h 1 d 4 e 1 d 1 e 2 d 4 h 1 g 2 f 7
+h 1 g 1 h 1 d 4 e 3 d 4 h 3 g 1 f 7
+h 2 g 1 h 1 d 9 h 1 g 3 h 1 g 3 f 5
+h 1 g 2 h 1 d 5 h 4 g 5 h 2 g 3 f 3
+h 1 g 2 h 1 d 4 h 2 g 5 c 1 g 4 h 2 g 1 f 3
+h 1 g 1 c 1 g 1 h 5 g 4 c 1 g 2 c 1 g 5 h 2 f 2
+h 1 g 1 c 2 g 5 c 1 g 1 c 7 g 9
+
+columns
+0
+0
+0
+h 4 h 1
+h 2 b 4 h 1 h 4 g 1
+h 1 b 5 h 1 h 4 g 3 c 1
+h 1 b 4 h 1 h 1 g 5 c 2
+h 1 b 5 h 1 h 8 g 2
+h 1 b 1 h 1 b 2 h 2 h 3 d 7 h 1 g 1
+h 3 b 1 h 1 b 2 h 1 b 1 h 1 h 2 d 10 h 1 g 1
+h 1 c 2 h 2 b 3 h 1 b 1 h 5 d 1 e 1 d 1 e 3 d 6 h 1 g 1
+h 1 g 2 h 1 h 1 b 3 h 1 b 1 h 1 d 5 e 1 d 2 e 3 d 5 h 1 g 1
+h 1 g 2 h 4 b 2 h 1 b 1 h 1 d 1 e 6 d 1 e 1 d 1 e 3 d 2 h 2 c 1
+h 1 g 2 h 1 h 1 d 1 h 1 b 3 h 1 e 8 d 1 e 1 d 2 e 1 d 1 h 2 g 2
+h 1 g 2 h 3 d 2 h 3 e 10 d 1 e 3 d 1 h 1 g 2 c 1
+h 1 g 2 h 1 d 3 e 17 d 2 h 1 g 2 c 1
+h 1 g 1 f 1 h 1 d 2 e 17 d 3 h 1 g 2 c 1
+h 1 g 1 f 1 h 1 d 1 e 17 d 3 h 1 g 2 c 2
+h 1 g 1 f 2 h 1 e 16 d 4 g 4 c 1
+h 1 g 1 f 3 h 1 e 5 d 13 h 1 g 2 c 1 g 1 c 1
+h 1 f 4 h 19 g 3 c 2
+h 1 f 9 g 12 h 2 g 4
+h 1 f 15 g 7 h 1 g 3
+h 1 f 14 g 1 f 2 g 1 f 2 g 1 h 1 g 3
+h 2 f 9 g 4 f 2 g 1 f 2 g 2 h 1 g 2
+h 12 g 2 f 5 g 1 h 1 g 2
+h 1 f 6 g 2 h 1 g 1
+h 1 f 7 h 1 g 1
+h 1 f 8 g 1
+h 2 f 6 g 1

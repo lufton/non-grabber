@@ -1,0 +1,47 @@
+by "Robyn Broyles (ginkgo100)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Robyn Broyles"
+date "Sep 23, 2009"
+description "Badminton racket and birdie. Title refers to the subject--I'll let you all decide on the puzzle!"
+difficulty 2.75
+height 15
+id 6777
+link "https://webpbn.com/play.cgi?id=6777"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Not Bad"
+width 15
+
+rows
+6
+2,2
+1,1
+2,1
+1,1
+1,1
+1,2
+1,3
+7
+3
+3,3
+3,2,1
+3,2,1
+3,3,1
+1,7
+
+columns
+1
+3
+3
+3
+3
+3
+7
+3,1
+2,1,2
+1,1,3
+1,1,4
+1,2,2,1
+1,1,1,1
+2,2,2,1
+6,3

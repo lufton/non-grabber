@@ -1,0 +1,109 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/28/12"
+height 47
+id 127227
+link "https://www.griddlers.net/nonogram/-/g/127227"
+medium_time "0:22:56"
+points 66155
+popularity 74.0
+title "Princess"
+width 38
+
+color a 99ffff
+color b 996633
+color c ffcc66
+color d ffcc00
+color e ffcccc
+color f cc9933
+color h ffff66
+
+rows
+b 3
+b 3 b 1 c 3 b 1
+b 1 c 3 b 1 c 2 b 2 c 1 b 1
+b 3 c 1 b 1 c 2 b 2 c 1 b 1 c 2 b 3
+b 1 c 3 b 1 c 1 b 2 d 2 b 1 c 2 b 1 c 3 b 1
+b 1 c 1 b 3 d 1 b 2 d 4 b 2 d 1 b 1 c 1 b 1 c 1 b 1
+b 1 c 2 b 1 d 12 b 1 c 2 b 2
+b 2 c 1 b 2 d 14 b 2 c 2 b 1
+b 1 c 1 b 1 c 2 b 1 d 1 b 3 d 6 b 3 d 1 b 1 c 2 b 1 c 1 b 1
+b 2 c 2 b 1 c 1 b 2 c 1 b 1 c 1 b 6 c 3 b 2 c 1 b 1 c 1 b 2
+b 1 c 1 b 2 c 3 b 1 c 12 b 2 c 2 b 2
+b 1 c 1 b 1 c 4 b 1 e 1 b 2 c 12 b 2 c 1 b 1
+b 1 c 1 b 1 c 4 b 1 e 4 b 4 c 9 b 1 c 2 b 1
+b 1 c 1 b 1 c 3 b 1 e 9 b 4 c 5 b 2 c 1 b 1
+b 1 c 4 b 1 e 13 b 3 c 3 b 2
+b 1 c 3 b 1 e 17 b 1 c 2 b 1
+b 1 c 2 b 1 e 18 b 1 c 2 b 1
+b 1 c 2 b 1 e 19 b 1 c 1 b 1
+b 1 c 1 b 1 e 20 b 1 c 1 b 1
+b 1 c 1 b 1 e 4 b 1 e 10 b 1 e 4 b 1 c 1 b 1
+b 1 c 1 b 1 e 20 b 1 c 1 b 1
+b 1 c 1 b 1 e 20 b 1 c 1 b 1
+b 1 c 1 b 1 e 18 b 1 c 1 b 1
+b 1 c 1 b 1 e 18 b 1 c 1 b 1
+b 1 c 1 b 2 e 16 b 2 c 1 b 1
+b 1 b 2 e 12 b 2 b 1
+b 2 f 1 b 6 f 1 b 2
+f 2 h 1 f 1 e 4 f 1 h 1 f 2
+f 1 h 2 f 1 e 6 f 1 h 2 f 1
+f 1 h 3 f 1 e 6 f 1 h 3 f 1
+f 1 h 4 f 6 h 4 f 1
+f 1 c 4 h 5 c 2 h 3 f 1
+b 1 f 3 c 8 f 3 b 1
+b 1 e 3 b 1 h 1 c 6 h 1 b 1 e 3 b 1
+b 1 e 3 b 1 h 2 c 1 h 4 c 1 h 2 b 1 e 3 b 1
+b 1 e 3 b 1 h 9 c 1 h 2 b 1 e 3 b 1
+b 1 e 2 b 1 h 10 c 1 h 3 b 1 e 2 b 1
+f 1 h 1 b 2 h 12 c 1 h 3 b 2 h 1 f 1
+f 1 h 24 f 1
+f 1 h 24 f 1
+f 2 h 26 f 2
+f 1 h 30 f 1
+f 2 h 32 f 2
+f 1 h 36 f 1
+f 2 h 32 f 2
+f 9 h 14 f 9
+f 14
+
+columns
+f 1
+f 1 h 1 f 1
+f 1 h 1 f 1
+f 1 h 3 f 1
+f 1 h 4 f 1
+b 1 b 2 f 1 h 4 f 1
+b 2 b 1 c 2 b 8 f 2 h 5 f 1
+b 1 c 2 b 1 c 1 b 2 c 8 b 3 f 1 h 7 f 1
+b 2 c 2 b 1 c 6 b 4 c 3 b 1 b 2 h 8 f 1
+b 2 c 2 b 2 c 5 b 2 e 4 b 3 b 1 e 2 b 1 h 7 f 1
+b 1 c 2 b 1 c 2 b 1 c 4 b 1 e 8 b 1 b 1 e 3 b 1 h 7 f 1
+b 1 c 1 b 1 c 1 b 3 c 3 b 2 e 10 b 1 f 3 b 1 e 3 b 1 h 8 f 1
+b 1 c 1 b 2 d 2 b 1 c 2 b 1 e 12 b 1 f 1 h 2 c 1 f 1 e 2 b 1 h 10 f 1
+b 1 c 1 b 1 d 2 b 1 c 2 b 1 e 7 b 1 e 6 b 1 f 1 h 3 c 1 f 1 e 1 b 1 h 11 f 1
+b 1 c 1 b 1 d 3 b 3 e 15 b 1 f 1 h 3 c 1 f 1 b 1 h 12 f 1
+b 1 c 1 b 1 c 1 b 1 d 2 b 1 c 2 b 1 e 14 f 1 h 1 f 2 h 1 c 2 h 13 f 1
+b 1 c 2 b 2 d 3 b 1 c 1 b 1 e 14 b 1 f 1 e 2 f 1 h 1 c 3 h 11 f 1
+b 1 c 2 b 1 d 4 b 1 c 2 b 1 e 13 b 1 e 3 f 1 h 1 c 2 h 12 f 1
+b 2 d 5 b 1 c 2 b 1 e 13 b 1 e 3 f 1 h 1 c 2 h 12 f 1
+b 1 c 1 b 1 d 5 b 1 c 2 b 1 e 13 b 1 e 3 f 1 h 1 c 2 h 12 f 1
+b 1 c 3 b 1 d 4 b 1 c 2 b 1 e 13 b 1 e 3 f 1 h 1 c 2 h 12 f 1
+b 1 c 1 b 2 c 1 b 1 d 3 b 1 c 3 b 1 e 12 b 1 f 1 e 2 f 1 c 4 h 11 f 1
+b 1 c 1 b 1 c 2 b 1 d 2 b 1 c 4 b 1 e 12 f 1 h 1 f 2 h 1 c 2 h 2 c 2 h 9 f 1
+b 1 c 2 b 1 d 3 b 1 c 4 b 1 e 12 b 1 f 1 h 4 f 1 b 1 h 3 c 1 h 8 f 1
+b 2 c 1 b 1 d 2 b 1 c 4 b 1 e 5 b 1 e 6 b 1 f 1 h 4 f 1 e 1 b 1 h 11 f 1
+b 1 c 2 b 1 d 2 b 1 c 4 b 1 e 10 b 1 f 1 h 3 f 1 e 2 b 1 h 10 f 1
+b 1 c 1 b 1 c 1 b 3 c 4 b 1 e 10 b 1 f 3 b 1 e 3 b 1 h 8 f 1
+b 1 c 2 b 1 c 2 b 1 c 3 b 1 e 9 b 1 b 1 e 3 b 1 h 7 f 1
+b 2 c 2 b 2 c 4 b 2 e 5 b 3 b 1 e 2 b 1 h 7 f 1
+b 1 c 1 b 1 c 2 b 1 c 5 b 5 c 3 b 1 b 2 h 8 f 1
+b 1 c 1 b 1 c 1 b 3 c 8 b 3 f 1 h 7 f 1
+b 3 c 2 b 9 f 2 h 5 f 1
+b 2 c 2 b 1 f 1 h 4 f 1
+b 2 f 1 h 4 f 1
+f 1 h 3 f 1
+f 1 h 1 f 1
+f 1 h 1 f 1
+f 1

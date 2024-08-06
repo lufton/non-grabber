@@ -1,0 +1,68 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom O'Connell"
+date "Jul 18, 2012"
+description "Mr R, my friend. That ruffian Elvis and his ilk has been taking your kid Jr R about town and introducing him to corn liquor & crowing with the chicks. They even fooled with his beautiful red crown he inherited from you. And, also to mention, they came by my place and ate all my tuna. Those guys even chased Katzy away! Should we tell Hanny? What to do? What to do? [this new charater was created by Sarah Andrews)"
+difficulty 1.75
+height 15
+id 19341
+link "https://webpbn.com/play.cgi?id=19341"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Matt the Serious Kat"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 1 red 1 red 1
+red 5 black 1
+black 3 red 2 black 1 black 1 black 3
+black 2 red 1 black 4 black 1
+black 1 blue 1 black 2 black 1 blue 1 black 2 blue 1 black 10
+black 2 black 1 red 1 black 3 blue 1 black 9
+black 1 red 2 black 3 blue 1 black 9
+black 2 red 2 blue 1 black 10
+black 5 red 1 black 10
+green 4 red 1 green 2 red 1 green 7 black 2 green 6 black 2 green 5
+green 3 red 2 green 1 red 2 green 7 black 2 green 6 black 2 green 3
+green 4 red 2 green 1 red 2 green 5 black 2 green 6 black 2 green 3 blue 1
+green 27 red 1
+green 28
+
+columns
+green 5
+green 5
+black 3 green 5
+black 3 black 2 green 1 red 1 green 3
+red 2 black 2 black 1 red 3 green 2
+red 1 black 1 black 1 green 2 red 1 green 2
+red 2 black 1 blue 1 black 1 green 1 red 1 green 3
+red 2 red 2 black 1 red 3 green 2
+red 4 black 2 red 3 green 2 red 1 green 2
+black 1 green 5
+green 5
+green 5
+green 5
+black 2 red 1 black 1 green 5
+black 2 blue 1 black 2 green 2 black 1 green 2
+black 4 blue 1 black 4 green 2
+black 4 blue 1 black 4 green 3
+blue 2 black 3 green 5
+black 5 green 5
+black 5 green 5
+black 5 green 5
+black 5 green 5
+black 5 green 2 black 1 green 2
+black 8 green 2
+black 7 green 3
+black 4 green 5
+black 2 green 5
+black 3 green 2 red 1 green 1
+black 1 green 1
+black 2 green 1 blue 1

@@ -1,0 +1,41 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/13/16"
+height 9
+id 177503
+link "https://www.griddlers.net/nonogram/-/g/177503"
+medium_time "0:00:58"
+points 45
+popularity 64.47
+title "Mini Luke Skywalker"
+width 7
+
+color a d7d5da
+color b 8b562a
+color c 513532
+color d f3c796
+color e 3db7dc
+color f 3a4549
+color g 000000
+color h e4efaa
+
+rows
+b 3
+b 5 e 1
+b 1 d 3 b 1 e 1
+d 1 g 1 d 1 g 1 d 1 e 1
+d 5 e 1
+d 1 h 5 d 1
+c 5 f 1
+h 5
+b 1 b 1
+
+columns
+d 1
+b 2 d 2 h 1 c 1 h 1 b 1
+b 2 d 1 g 1 d 1 h 1 c 1 h 1
+b 2 d 3 h 1 c 1 h 1
+b 2 d 1 g 1 d 1 h 1 c 1 h 1
+b 2 d 2 h 1 c 1 h 1 b 1
+e 4 d 1 f 1

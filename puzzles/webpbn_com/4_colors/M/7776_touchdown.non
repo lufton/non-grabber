@@ -1,0 +1,62 @@
+by "Tay (kavenie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tay"
+date "Feb  9, 2010"
+description ""
+difficulty 1.25
+height 20
+id 7776
+link "https://webpbn.com/play.cgi?id=7776"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "touchdown"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 black 1 blue 1 blue 7 blue 2 black 1 blue 1
+blue 1 black 1 blue 5 blue 1 black 1 blue 1
+blue 1 black 1 blue 5 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 blue 7 blue 2 black 1 blue 1
+blue 1 black 1 blue 16 black 1 blue 1
+blue 1 black 1 blue 16 black 1 blue 1
+blue 1 black 1 blue 16 black 1 blue 1
+blue 1 black 1 blue 7 black 2 blue 7 black 1 blue 1
+blue 1 black 1 blue 7 black 2 blue 7 black 1 blue 1
+blue 1 black 18 blue 1
+blue 9 black 2 blue 9
+blue 9 black 2 blue 9
+blue 9 black 2 blue 9
+blue 9 black 2 blue 9
+blue 9 black 2 blue 9
+blue 9 black 2 blue 9
+blue 9 black 2 blue 9
+green 20
+green 20
+
+columns
+blue 18 green 2
+blue 1 black 10 blue 7 green 2
+blue 2 blue 6 black 1 blue 7 green 2
+blue 1 blue 5 black 1 blue 7 green 2
+blue 1 blue 5 black 1 blue 7 green 2
+blue 1 blue 5 black 1 blue 7 green 2
+blue 2 blue 6 black 1 blue 7 green 2
+blue 10 black 1 blue 7 green 2
+blue 10 black 1 blue 7 green 2
+blue 8 black 10 green 2
+blue 8 black 10 green 2
+blue 10 black 1 blue 7 green 2
+blue 2 blue 6 black 1 blue 7 green 2
+blue 1 blue 5 black 1 blue 7 green 2
+blue 1 blue 5 black 1 blue 7 green 2
+blue 1 blue 5 black 1 blue 7 green 2
+blue 2 blue 6 black 1 blue 7 green 2
+blue 10 black 1 blue 7 green 2
+blue 1 black 10 blue 7 green 2
+blue 18 green 2

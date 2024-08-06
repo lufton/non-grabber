@@ -1,0 +1,57 @@
+by "ssss (ssss)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by ssss"
+date "Aug 19, 2017"
+description ""
+difficulty 2.25
+height 20
+id 30110
+link "https://webpbn.com/play.cgi?id=30110"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.5
+title "diagonal bricks"
+width 20
+
+rows
+4,4,4,2
+4,4,4,2
+0
+4,4,4,1
+4,4,4,1
+0
+4,4,4
+4,4,4
+0
+1,4,4,4
+1,4,4,4
+0
+2,4,4,4
+2,4,4,4
+0
+3,4,4,3
+3,4,4,3
+0
+4,4,4,2
+4,4,4,2
+
+columns
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2
+2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2
+2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2
+2,2,2,2
+2,2,2,2,2
+2,2,2,2,2

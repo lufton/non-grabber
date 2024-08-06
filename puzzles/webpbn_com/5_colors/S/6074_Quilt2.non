@@ -1,0 +1,53 @@
+by "Janel Browning (browningpj)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Janel Browning"
+date "Jun 11, 2009"
+description "after all the work you put into this, don't you deserve more than a mini-quilt"
+difficulty 1.25
+height 15
+id 6074
+link "https://webpbn.com/play.cgi?id=6074"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Quilt#2"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 1 green 1 blue 1
+black 1 black 1 red 1 red 1 green 1 green 1 blue 1 blue 1
+black 1 red 1 green 1 blue 1
+0
+red 1 green 1 blue 1 black 1
+red 1 red 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+red 1 green 1 blue 1 black 1
+0
+green 1 blue 1 black 1 red 1
+green 1 green 1 blue 1 blue 1 black 1 black 1 red 1 red 1
+green 1 blue 1 black 1 red 1
+0
+blue 1 black 1 red 1 green 1
+blue 1 blue 1 black 1 black 1 red 1 red 1 green 1 green 1
+blue 1 black 1 red 1 green 1
+
+columns
+black 1 red 1 green 1 blue 1
+black 1 black 1 red 1 red 1 green 1 green 1 blue 1 blue 1
+black 1 red 1 green 1 blue 1
+0
+red 1 green 1 blue 1 black 1
+red 1 red 1 green 1 green 1 blue 1 blue 1 black 1 black 1
+red 1 green 1 blue 1 black 1
+0
+green 1 blue 1 black 1 red 1
+green 1 green 1 blue 1 blue 1 black 1 black 1 red 1 red 1
+green 1 blue 1 black 1 red 1
+0
+blue 1 black 1 red 1 green 1
+blue 1 blue 1 black 1 black 1 red 1 red 1 green 1 green 1
+blue 1 black 1 red 1 green 1

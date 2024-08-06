@@ -1,0 +1,51 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jun 20, 2014"
+description ""
+difficulty 1.25
+height 20
+id 24860
+link "https://webpbn.com/play.cgi?id=24860"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Rock Song 15"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 1
+red 3 black 2
+red 3 black 5
+red 3 black 2
+red 1 black 1
+black 1
+black 1
+black 1
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+
+columns
+black 12
+red 3 black 12
+red 5 black 15
+red 3 black 12
+black 12
+black 1
+black 3
+black 5
+black 1
+black 1

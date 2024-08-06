@@ -1,0 +1,83 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "May 11, 2011"
+description "Little Red Riding Hood on her way to Grandma's House. Watch out for lurking wolves."
+difficulty 1.5
+height 30
+id 13829
+link "https://webpbn.com/play.cgi?id=13829"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Children's Hour 2"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 7 blue 11 blue 4 green 3
+blue 5 blue 9 blue 2 green 4
+blue 5 blue 8 blue 4 green 2
+blue 6 blue 6 blue 6 black 1
+blue 6 blue 5 blue 8 black 1
+blue 1 red 1 blue 1 red 1 blue 1 blue 9 green 6 blue 3 black 1
+blue 2 red 1 blue 2 blue 9 green 8 blue 2 black 1
+blue 7 blue 9 green 9 blue 2 black 1
+blue 10 green 2 blue 6 green 10 blue 1 black 1
+blue 9 green 4 blue 5 green 10 blue 1 black 1
+blue 8 green 6 blue 5 green 9 blue 1 black 1
+blue 1 green 2 blue 5 green 6 blue 4 green 10 blue 1 black 1
+blue 1 green 3 blue 4 green 6 blue 4 green 10 blue 1 black 1
+green 4 blue 5 green 3 red 1 blue 6 green 8 blue 2 black 1
+green 5 blue 5 black 1 red 3 blue 5 green 7 blue 3 green 1
+green 5 black 1 blue 4 red 3 blue 8 black 2 blue 4 green 2
+green 5 black 2 blue 3 red 2 blue 8 black 2 blue 4 green 2
+green 4 black 2 blue 4 red 4 blue 8 black 2 blue 3 green 1 red 1 green 1
+green 3 black 2 blue 4 red 7 blue 4 black 2 blue 3 green 3
+black 5 blue 3 red 6 blue 1 blue 1 blue 4 black 2 blue 2 green 4
+green 7 red 7 green 3 black 2 green 6
+green 10 green 1 green 2 green 4 black 2 green 6
+green 10 green 1 green 9 black 2 green 6
+green 10 black 1 green 1 black 2 green 7 black 4 green 5
+green 29 red 1
+green 30
+green 5 green 1 green 10 red 1 green 6 green 1 green 2
+green 6 green 19 green 3
+green 30
+green 1 red 1 green 28
+
+columns
+blue 13 green 6 black 1 green 10
+blue 5 red 1 blue 5 green 8 black 1 green 9 red 1
+blue 6 red 1 blue 4 green 8 black 1 green 10
+blue 5 red 1 blue 6 green 6 black 2 green 10
+blue 14 green 3 black 3 green 10
+blue 1 blue 2 blue 8 black 3 blue 2 green 6 green 3
+blue 1 blue 9 black 1 blue 3 green 7 green 2
+blue 12 red 1 green 5 green 3
+blue 2 green 3 blue 6 red 2 green 9
+blue 1 blue 2 green 5 blue 4 red 3 green 9
+blue 2 blue 2 green 6 black 1 red 6 black 1 green 6
+blue 3 blue 3 green 6 red 7 green 9
+blue 4 blue 4 green 4 red 3 red 4 black 1 green 6
+blue 10 green 3 blue 1 red 1 red 4 green 2 black 1 green 6
+blue 18 red 1 blue 1 green 9
+blue 18 red 1 green 8
+blue 18 blue 1 green 8
+blue 18 green 8
+blue 3 blue 2 green 3 blue 1 green 2 blue 7 green 5 red 1 green 3
+blue 1 blue 1 green 9 blue 5 green 10
+green 10 blue 5 green 10
+blue 1 green 10 blue 5 green 3 black 1 green 6
+blue 1 green 10 black 9 green 6
+blue 1 blue 2 green 10 black 9 green 6
+blue 5 green 10 blue 5 green 3 black 1 green 6
+blue 5 green 10 blue 5 green 6 green 3
+blue 1 green 1 blue 4 green 8 blue 5 green 8 green 2
+green 2 blue 6 green 5 blue 4 green 9 green 3
+green 3 blue 12 green 2 red 1 green 12
+green 3 black 11 green 10 red 1 green 5

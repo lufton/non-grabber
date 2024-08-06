@@ -1,0 +1,43 @@
+by "Kendra Heredia (kendra.heredia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kendra Heredia"
+date "Oct  7, 2017"
+description "Rockin Around the Christmas Tree"
+difficulty 1.25
+height 10
+id 30226
+link "https://webpbn.com/play.cgi?id=30226"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Rockin Around"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 1 red 1 green 1
+green 5
+green 2 blue 1
+green 1 red 1 green 3
+green 3 blue 1 green 1 red 1 green 1
+green 2 red 1 blue 1 green 1
+green 7
+black 3
+black 3
+
+columns
+0
+green 1 green 1
+green 1 green 4
+green 3 red 1 green 3 black 2
+green 1 red 1 green 3 blue 1 red 1 green 1 black 2
+green 2 blue 1 green 2 blue 1 green 1 black 2
+green 1 green 1 red 1 green 2
+green 1 green 1
+0
+0

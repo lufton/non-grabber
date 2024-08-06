@@ -1,0 +1,42 @@
+by "Rosea (death-roses)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rosea"
+date "Jul 12, 2009"
+description "Red Fred comes to bail Blue Bob out of jail after his fire-y "incident.""
+difficulty 1.25
+height 10
+id 6292
+link "https://webpbn.com/play.cgi?id=6292"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Time to pay the price!"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 7
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+red 1 black 1 black 1 blue 1 black 1 black 1
+red 3 black 1 black 1 blue 1 black 1 black 1
+red 1 black 1 black 1 blue 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1
+black 10
+black 10
+black 10
+
+columns
+red 1 red 1 black 3
+red 3 black 3
+red 1 red 1 black 3
+black 10
+black 1 black 3
+black 10
+black 1 blue 3 black 3
+black 10
+black 1 black 3
+black 10

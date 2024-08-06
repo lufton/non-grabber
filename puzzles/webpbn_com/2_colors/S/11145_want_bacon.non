@@ -1,0 +1,47 @@
+by "Morten Jeppesen (ninjamunk)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Morten Jeppesen"
+date "Nov 26, 2010"
+description "piggy"
+difficulty 2.75
+height 15
+id 11145
+link "https://webpbn.com/play.cgi?id=11145"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "want bacon?"
+width 15
+
+rows
+4,4
+1,1,2,1
+1,6,1
+2,1,1,1
+1,1,3
+3,1,1,2
+1,1
+2,2
+1,6,1
+1,2,2,1
+2,1,1,1,1,2
+3,1,1,3
+2,2
+2,2
+5
+
+columns
+4
+1,3,4
+1,3,2
+1,3,2
+1,5
+1,2,2
+1,1,1,2,1
+1,1,1
+1,1,1
+1,1,1,2,1
+2,2,1
+2,5
+1,3,2
+1,4,2
+5,4

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Mar 28, 2024"
+description "Username hoe. Heike Oehlmann has solved 29760 puzzles."
+difficulty 4.0
+height 20
+id 38413
+link "https://webpbn.com/play.cgi?id=38413"
+note "published,definitely unique,may require deep lookahead"
+quality 2.75
+title "WCP #181 Shout out to Heike"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 green 1 green 1 red 2 green 1
+green 1 green 1 red 2 green 1
+red 2
+red 2
+red 2 green 1 green 1
+green 2 green 1 green 1 red 2 green 1 green 1 green 2
+green 1 green 2 green 1 red 2 green 2 green 1 green 1
+green 2 red 2 green 2 green 1
+green 1 red 2 green 1 green 1
+black 2 red 1
+black 2 green 1
+green 1 black 1 green 1 green 1 green 1
+green 1 green 1 green 1 black 2 green 1 green 3 green 1
+green 2 green 1 green 2 green 2 green 3
+green 1 green 2 green 1 green 1 green 2
+green 3 green 3 green 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+
+columns
+green 1 green 4
+green 2 green 1 green 5
+green 2 green 1 green 1
+green 2 green 2 green 1
+green 2 black 1 green 2
+black 2
+red 2 black 1 green 3
+green 2 red 2 black 2 green 3
+green 2 red 2 green 1 black 1 green 5
+red 2 green 3
+red 2 green 2
+red 2
+red 2 green 3
+green 1 red 2 green 2 green 3
+red 2 green 2 green 1
+red 1 green 2 green 4
+green 7
+green 3
+green 2 green 2
+green 3

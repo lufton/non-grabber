@@ -1,0 +1,77 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Wombat"
+date "Aug 12, 2009"
+description "A candlestick, or two faces?"
+difficulty 1.25
+height 30
+id 6488
+link "https://webpbn.com/play.cgi?id=6488"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "which is it?"
+width 30
+
+rows
+9,9
+10,10
+11,11
+12,12
+12,12
+13,13
+13,13
+14,14
+14,14
+14,14
+14,14
+14,14
+13,13
+13,13
+12,12
+12,12
+13,13
+13,13
+14,14
+14,14
+13,13
+12,12
+13,13
+12,12
+13,13
+12,12
+12,12
+11,11
+7,7
+5,5
+
+columns
+30
+30
+30
+30
+30
+29
+29
+28
+28
+27
+26
+24
+9,5,1,1
+5,2
+0
+0
+5,2
+9,5,1,1
+24
+26
+27
+28
+28
+29
+29
+30
+30
+30
+30
+30

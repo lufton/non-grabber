@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Mar 30, 2013"
+description "socks and shoes"
+difficulty 2.5
+height 20
+id 21543
+link "https://webpbn.com/play.cgi?id=21543"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "goes together like....(6)"
+width 20
+
+rows
+2,1,2,1
+2,1,1,3
+1,1,3,2
+1,3,1
+2,3
+1,3
+3,1,1
+1,1,1
+3,2,2
+3,4,1
+6,4
+0
+6
+3,5,3
+1,2,1,4,1
+1,1,4
+1,1,1,7
+2,1,2,1,1,1
+1,2,2
+16
+
+columns
+0
+2,3
+1,3,1
+3,2
+1,6
+1,1
+2,1
+2,3,1,1
+1,4,2,3,1
+3,1,3,3,1
+1,2,1,1,5,1
+1,1,3,1,3,1
+1,1,2,2,1
+1,2,1,1,1
+3,2,2,1,1
+4,4,1,1
+5,2,1,2
+2,3,1,2
+2,3
+3,3

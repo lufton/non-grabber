@@ -1,0 +1,71 @@
+by "Scott Sims (scottasims)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Scott Sims"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 30
+id 26358
+link "https://webpbn.com/play.cgi?id=26358"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Welcome to the Least, the Last &amp; the Lost..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 1
+red 1
+red 2
+red 3 black 5
+red 5 black 5
+red 6 black 5
+red 7 black 5
+red 6 black 5
+red 3 black 15
+red 3 black 15
+red 1 red 3 black 15
+red 1 red 3 black 15
+red 1 red 3 black 15
+red 2 red 4 black 5
+red 2 red 4 black 5
+red 2 red 3 black 5
+red 3 red 4 black 5
+red 4 red 3 black 5
+red 5 red 3 black 5
+red 9 black 5
+red 9 black 5
+red 9 black 5
+red 9 black 5
+red 8 black 5
+red 7 black 5
+red 3 black 5
+red 2 black 5
+red 2 black 5
+
+columns
+red 12
+red 10
+red 7 red 8
+red 10 red 8
+red 13 red 7
+red 4 black 5 red 5 red 6
+red 5 black 5 red 12
+red 6 black 5 red 10
+red 7 black 5 red 10
+black 5 red 6
+black 25
+black 25
+black 25
+black 25
+black 25
+black 5
+black 5
+black 5
+black 5
+black 5

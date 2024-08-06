@@ -1,0 +1,65 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Nov 30, 2009"
+description "I lean."
+difficulty 2.0
+height 22
+id 7277
+link "https://webpbn.com/play.cgi?id=7277"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What's my name?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 5 blue 2
+red 1 black 3 red 1 blue 2
+red 1 black 3 red 1 blue 2
+red 2 black 3 red 2 blue 2
+black 1 black 1 blue 2
+black 1 green 1 black 3 green 1 black 6 blue 2
+black 2 green 1 black 3 green 1 blue 2
+black 2 green 5 blue 2
+black 1 green 5 blue 2
+black 2 green 5 blue 2
+black 2 green 3 blue 2
+black 2 green 3 blue 2
+black 1 blue 3 blue 2
+blue 5 blue 2
+blue 6 blue 2
+blue 6 blue 2
+black 1 black 1 blue 2
+black 2 black 1 blue 2
+black 2 black 1 blue 2
+black 1 red 1 black 1 blue 2
+red 4 red 2 blue 2
+red 2 red 2 red 2 blue 2
+
+columns
+0
+0
+red 1
+red 2
+black 3 red 1
+black 2 black 2 black 2 red 2
+red 1 black 2 black 2 blue 2 black 2 red 3
+red 4 green 5 black 2 blue 3 black 2
+red 1 black 3 black 2 green 5 blue 4
+red 1 black 6 green 5 blue 4 red 2
+red 1 black 3 black 2 green 5 blue 4 black 4 red 2
+red 4 green 5 blue 3
+red 1 black 1
+black 1
+black 1
+black 1
+black 1
+black 2
+blue 22
+blue 22

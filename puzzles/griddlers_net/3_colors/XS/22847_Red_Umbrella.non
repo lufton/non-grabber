@@ -1,0 +1,37 @@
+by "orit10"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/3/05"
+height 10
+id 22847
+link "https://www.griddlers.net/nonogram/-/g/22847"
+medium_time "0:00:43"
+points 72
+popularity 45.86
+title "Red Umbrella"
+width 7
+
+color a ffffff
+color b ff0000
+color c 000000
+
+rows
+b 3
+b 1 b 1 b 1
+b 1 b 3 b 1
+b 7
+c 1
+c 1
+c 1
+c 2 c 1
+c 1 c 1
+c 3
+
+columns
+b 2 c 2
+b 1 b 1 c 1 c 1
+b 1 b 2 c 1
+b 4 c 6
+b 1 b 2
+b 1 b 1
+b 2

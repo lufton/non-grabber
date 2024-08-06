@@ -1,0 +1,105 @@
+by "Christian Heckmann Engelbrecht (CEngelbrecht)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Christian Heckmann Engelbrecht"
+date "Oct 28, 2012"
+description "The flag for a potentially unified Korea, its name meaning "The Korean Peninsula Flag". Mostly a ceremonial flag for eg. sport events with a mutual North and South Korean team (yeah, it does happen). Introduced in 1991, it was first used during the World Table Tennis Championships, with the unified Korean women's team winning the gold (which recently became a quite sentimental South Korean movie called "As One"). The blue silhuet of the Korean Peninsula with off-shore islands is sought to be politically and religiously neutral (the North Korean flag using the communist star and the South Korean the Yin-Yang and four Trigrams). Not an official political flag, but who knows, maybe it'll become one day."
+difficulty 2.25
+height 32
+id 20203
+link "https://webpbn.com/play.cgi?id=20203"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Hanbandogi"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 50
+blue 4 red 1 blue 13 blue 14 blue 5
+blue 4 red 2 blue 9 blue 8 blue 1
+blue 4 red 2 blue 4 blue 4 blue 1
+blue 4 red 2 black 1 blue 1
+blue 4 red 2 blue 2
+blue 4 red 2 blue 1 blue 2
+blue 4 red 2 blue 3 blue 3
+blue 4 red 2 blue 1 blue 4 blue 3
+blue 4 red 2 blue 6 blue 4
+blue 4 red 2 blue 8 blue 4
+blue 4 red 2 blue 8 blue 4
+blue 4 red 2 black 1 blue 6 blue 4
+blue 4 red 2 blue 4 blue 3
+blue 4 red 2 blue 1 blue 5 blue 3
+blue 4 red 2 blue 2 blue 6 blue 2
+blue 4 red 2 blue 2 blue 6 blue 2
+blue 4 red 2 blue 2 blue 4 blue 1 blue 1
+blue 4 red 2 blue 2 blue 7 blue 1
+blue 4 red 2 blue 1 blue 6 blue 1
+blue 4 red 2 blue 5 blue 1
+green 4 red 2 black 1 blue 6 green 1
+green 4 red 2 blue 5 green 1
+green 4 red 2 blue 1 green 2
+green 4 red 2 green 2
+green 4 red 2 blue 2 green 2
+green 4 red 2 green 2
+green 4 red 2 black 1 green 3
+green 4 red 2 green 5 green 3 green 3
+green 4 red 2 green 1 green 9 green 7 green 3
+green 4 red 2 green 3 green 13 green 14
+green 4 red 2 green 44
+
+columns
+blue 21 green 11
+blue 21 green 11
+blue 21 green 11
+blue 21 green 11
+blue 1 red 31
+blue 2 red 30
+blue 3 black 1 black 1 blue 6 black 1 black 1 green 3
+blue 3 blue 4 green 2
+blue 3 green 2
+blue 4 green 1
+blue 4 green 1
+blue 4 green 1
+blue 4 green 1
+blue 3 green 1
+blue 3 green 1
+blue 2 green 2
+blue 2 green 2
+blue 2 green 3
+blue 1 green 3
+blue 1 green 4
+blue 1 green 4
+blue 1 blue 1 green 4
+blue 1 blue 3 green 4
+blue 1 blue 6 green 4
+blue 1 blue 8 blue 1 blue 1 green 3
+blue 2 blue 9 blue 2 blue 2 blue 1 green 3
+blue 2 blue 15 green 2
+blue 2 blue 5 blue 9 green 2
+blue 3 blue 4 blue 8 green 1
+blue 3 blue 4 blue 7 green 1
+blue 4 blue 3 blue 4 green 1
+blue 4 blue 1 green 1
+blue 4 green 1
+blue 4 green 1
+blue 3 green 1
+blue 3 blue 1 green 1
+blue 2 green 2
+blue 2 green 2
+blue 2 green 3
+blue 1 green 3
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 3
+blue 1 green 3
+blue 2 green 2
+blue 2 blue 4 green 2
+blue 2 blue 8 green 5
+blue 2 blue 12 green 9
+blue 21 green 11

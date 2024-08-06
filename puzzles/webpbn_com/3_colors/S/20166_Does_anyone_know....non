@@ -1,0 +1,51 @@
+by "Leilei (leilei444)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Leilei"
+date "Oct 23, 2012"
+description "Where I can find a nice jacket?"
+difficulty 1.5
+height 15
+id 20166
+link "https://webpbn.com/play.cgi?id=20166"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Does anyone know..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 7 black 1
+black 1 red 7 black 1
+black 2 red 3 black 2
+black 1 red 2 black 3 red 2 black 1
+black 1 red 4 black 1 red 4 black 1
+black 1 red 5 black 1 red 5 black 1
+black 1 red 5 black 2 red 6 black 1
+black 1 red 3 black 1 red 2 black 1 red 1 black 1 red 4 black 1
+black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+black 1 black 1 red 2 black 1 red 1 black 1 black 1
+black 1 red 1 black 2 red 1 black 1
+black 1 red 2 black 1 red 1 black 1
+black 1 red 1 black 2 red 1 black 1
+black 1 red 2 black 1 red 1 black 1
+black 1 red 2 black 1 red 1 black 1
+
+columns
+black 2
+black 1 red 2 black 1
+black 1 red 4 black 1
+black 2 black 1 red 4 black 1
+red 2 black 1 red 4 black 8
+red 2 black 1 red 12
+red 3 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 2
+red 3 black 12
+red 3 black 1 red 11
+red 2 black 1 red 4 black 8
+red 2 black 1 red 5 black 1
+black 2 black 1 red 5 black 1
+black 1 red 3 black 1
+black 1 red 2 black 1
+black 2

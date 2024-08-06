@@ -1,0 +1,72 @@
+by "adyuval"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/30/14"
+height 23
+id 143398
+link "https://www.griddlers.net/nonogram/-/g/143398"
+medium_time "0:13:59"
+points 5044
+popularity 68.84
+title "Relax in The Beach"
+width 25
+
+color a 66ccff
+color b ffffff
+color c ffff66
+color d 006633
+color e 993300
+color f 990099
+color g 3300cc
+
+rows
+d 1 b 1
+d 1 b 2
+b 1 d 3 b 2
+d 3 d 3 b 2
+d 1 b 1 d 3 b 2
+d 6 b 5
+d 2 e 1 d 1 b 2 b 1 b 1
+d 1 b 1 e 1 b 1 d 2 b 2 b 1 b 1
+d 1 e 3 b 1 d 1 f 4 g 2 f 2
+d 1 b 1 e 1 b 1 e 1 b 1 d 1 f 3 g 3 f 2
+d 1 e 2 f 2 g 1 f 1 f 4 g 3 f 3
+d 1 e 2 g 1 f 3 g 9 f 3
+e 3 g 2 f 5 g 1 f 5 g 1
+e 1 g 4 f 3 g 3
+e 2 g 5
+e 1 e 2
+e 1 e 1
+b 2 e 1 b 1 b 1
+c 1 e 2 c 1 b 3 b 5 b 4 c 1
+e 1 c 1 e 2 c 3 b 4 c 5 b 4 c 5
+c 2 e 1 c 1 e 1 c 20
+c 1 e 2 c 22
+e 1 c 1 e 2 c 21
+
+columns
+b 1 d 9 e 1 b 1 c 1 e 1 c 2 e 1
+d 2 b 1 d 2 b 1 e 1 b 1 e 1 e 1 b 1 e 1 c 2 e 1 c 1
+d 4 e 17
+d 3 d 2 b 1 e 1 b 1 e 1 e 1 e 1 b 1 c 1 e 1 c 2 e 1
+d 3 b 1 e 1 f 1 g 1 e 1 e 1 b 1 c 1 e 1 c 2
+d 1 d 3 b 1 f 2 g 1 b 1 c 4
+d 1 d 3 g 1 f 1 g 1 b 1 c 4
+f 3 g 1 b 1 c 3
+g 1 f 1 g 1 b 1 c 3
+g 1 f 1 g 1 b 1 c 3
+g 1 f 1 g 2 b 1 c 3
+g 1 f 2 g 1 b 1 c 4
+f 1 g 2 f 1 g 1 b 1 c 4
+f 1 g 1 f 2 g 1 b 1 c 4
+f 1 g 1 f 1 g 2 b 1 c 4
+f 2 g 1 f 1 g 1 b 1 c 4
+f 2 g 2 f 1 g 1 b 1 c 3
+b 1 f 2 g 1 f 2 b 1 c 3
+b 2 f 1 g 2 f 1 g 1 b 1 c 3
+b 2 f 1 g 1 f 2 b 1 c 3
+b 2 g 2 f 1 b 1 c 4
+b 5 g 1 f 2 b 1 c 4
+b 2 b 1 f 2 b 1 c 4
+b 2 b 2 f 1 b 1 c 4
+b 2 b 1 b 1 c 5

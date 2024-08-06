@@ -1,0 +1,77 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb  6, 2023"
+description "Length hint in first spoiler."
+difficulty 1.25
+height 20
+id 36408
+link "https://webpbn.com/play.cgi?id=36408"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Palindrome 3a"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+blue 23
+blue 24
+blue 4 black 12 blue 4 black 3 blue 2
+blue 4 black 12 blue 4 black 4 blue 2
+blue 4 black 12 blue 4 black 5 blue 2
+blue 4 black 12 blue 4 black 6 blue 2
+blue 29
+blue 24 black 2 blue 3
+black 3 blue 29
+blue 29
+black 3 red 1 blue 27 black 1
+red 1 blue 27 black 1
+black 3 blue 5 black 3 blue 12 black 3 blue 5 black 1
+blue 4 black 2 black 2 blue 10 black 2 black 2 blue 3 black 1
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 3 black 3
+
+columns
+0
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+0
+blue 10 red 2 blue 2
+blue 14
+blue 14
+blue 14
+blue 2 black 4 blue 7 black 3
+blue 2 black 4 blue 6 black 2 black 2
+blue 2 black 4 blue 6 black 1 black 1
+blue 2 black 4 blue 6 black 2 black 2
+blue 2 black 4 blue 7 black 3
+blue 2 black 4 blue 8
+blue 2 black 4 blue 8
+blue 2 black 4 blue 8
+blue 2 black 4 blue 8
+blue 2 black 4 blue 8
+blue 2 black 4 blue 8
+blue 2 black 4 blue 8
+blue 14
+blue 14
+blue 14
+blue 13 black 3
+blue 2 black 4 blue 6 black 2 black 2
+blue 2 black 4 blue 6 black 1 black 1
+blue 2 black 4 blue 6 black 2 black 2
+blue 2 black 3 blue 7 black 3
+blue 2 black 2 blue 1 black 1 blue 6
+blue 2 black 1 blue 1 black 1 blue 6
+blue 10
+blue 8 black 1
+blue 4 black 3
+0

@@ -1,0 +1,108 @@
+by "Mallory (goalie_31)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Mallory"
+date "Apr 19, 2010"
+description "Pirate or Ninja? Leave a comment."
+difficulty 3.0
+height 40
+id 8468
+link "https://webpbn.com/play.cgi?id=8468"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Which side are you on?"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 6
+blue 4 red 6
+blue 6 red 2 red 2
+blue 2 blue 2 red 2
+blue 1 blue 1 red 4
+blue 2 black 1 black 1 blue 1 red 2
+blue 3 blue 2 red 2
+blue 4 blue 3
+blue 5 black 2 blue 3 red 2
+blue 5 blue 3 red 2
+blue 14 black 2
+blue 4 black 7 blue 3 black 1 black 1
+blue 2 black 2 black 1 black 1 blue 2 black 1 black 1
+blue 2 black 1 black 1 black 1 blue 2 black 1 black 1
+blue 3 black 1 black 1 black 4 blue 2 black 1 black 1
+blue 4 black 1 black 1 black 1 black 2 black 1 blue 2 black 1 black 1 black 8
+blue 4 black 1 black 1 blue 1 black 1 black 1 black 1 blue 8 black 1
+blue 5 black 2 black 1 black 1 black 1 black 1 blue 1 black 8
+black 1 black 3 black 1 black 1 black 1 black 1 blue 1 black 2
+black 2 black 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 2
+black 2 red 1 black 5 black 1 black 1 black 1 blue 1 black 2
+black 1 red 7 black 1 black 1 black 1 black 1 blue 1 black 8 black 2
+black 1 red 9 black 1 black 1 black 1 black 2 blue 1 black 7 black 1 blue 2 black 1
+black 1 red 3 black 5 red 1 black 1 black 1 black 1 black 1 blue 3 black 4 black 1 blue 1 black 2
+black 1 red 1 black 1 red 1 black 2 red 1 black 2 red 1 black 1 black 2 blue 1 black 5 blue 3 black 7 blue 2 black 2
+black 1 red 1 black 1 red 1 black 2 red 1 black 2 red 1 black 1 black 1 blue 1 black 2 blue 6 black 5 blue 3 black 4
+black 1 black 1 red 1 black 5 red 1 black 1 black 1 blue 1 black 20
+black 1 black 1 red 1 black 2 red 4 black 1 black 1 blue 1 black 20
+black 2 black 4 red 4 black 3 black 7 blue 1 black 12
+black 1 black 1 red 6 black 1 black 1 black 1 blue 1 black 8
+black 1 black 6 red 1 black 1 black 1 black 1 red 5 black 1 red 1 black 2
+black 6 black 5 black 2 blue 2 black 6 red 1 black 1
+black 1 green 2 black 5 green 1 black 1 black 1 blue 3 black 8 red 1 black 1
+black 1 green 8 black 1 black 1 blue 1 black 11 red 1 black 1
+black 1 green 4 black 1 green 3 black 1 black 1 blue 1 black 12
+black 5 black 4 black 2 blue 2 black 2 black 5
+red 3 black 1 red 2 black 1 black 1 blue 2 black 4 black 1 blue 1 black 3
+red 1 black 1 red 2 black 2 black 7 black 1 blue 4 black 1
+red 1 black 1 red 3 black 1 black 1 blue 2 black 4
+red 1 black 5 black 7
+
+columns
+blue 3
+blue 4
+blue 5
+blue 8 black 4
+blue 5 black 4 blue 1 black 7 black 1
+blue 6 black 1 black 1 black 2 red 4 black 5
+blue 7 black 1 black 2 black 4 red 3 black 5 black 1 green 3 black 1 red 1
+blue 8 black 1 black 1 red 8 black 4 green 3 black 1 red 4
+blue 2 blue 4 black 1 black 1 red 2 black 6 red 1 black 3 green 2 black 1 red 1
+blue 2 black 1 blue 1 black 2 black 1 black 1 black 1 red 2 black 6 red 1 black 1 black 1 green 2 black 1
+blue 2 black 1 blue 1 black 1 black 1 black 1 black 1 red 2 black 1 red 2 black 1 red 3 black 1 black 1 green 1 black 1
+blue 2 black 1 blue 1 black 1 black 2 black 1 black 1 red 2 black 4 red 3 black 1 black 1 green 2 black 5
+blue 2 black 1 blue 1 black 1 black 2 black 1 red 2 black 4 red 3 black 3 green 2 black 1 red 3 black 1
+blue 2 blue 4 black 1 black 1 black 1 black 1 red 9 black 1 green 3 black 1 red 3 black 1
+blue 9 black 7 black 16 red 1 black 1
+blue 11 black 1 black 1 black 3
+blue 6 black 4
+0
+0
+0
+0
+0
+0
+black 4
+black 14 blue 3 black 1 black 2
+black 1 blue 1 black 4 black 1 blue 1 black 1
+black 19 black 1 blue 1 black 1
+black 1 blue 1 black 3 black 3 blue 1 black 2
+red 3 black 1 blue 1 black 3 black 1 blue 4 black 2
+red 3 black 1 blue 1 black 3 black 1 blue 1 black 5
+red 2 red 3 red 2 black 7 black 1 blue 1 black 5 blue 2 black 5
+red 2 red 3 red 2 black 1 blue 6 black 2 blue 2 black 2 blue 2 red 1 blue 1 black 3
+red 5 black 1 blue 1 black 1 black 1 blue 4 black 4 red 1 black 4
+red 5 black 1 blue 1 black 1 black 1 black 2 blue 2 black 5 red 1 black 4
+black 1 blue 1 black 1 black 2 blue 1 black 6 red 1 black 4
+black 1 blue 1 black 1 black 9 red 1 black 9
+black 1 blue 1 black 1 black 1 black 15 blue 3 black 1
+black 1 blue 1 black 1 black 9 red 1 black 6 blue 2 black 1
+black 1 blue 1 black 8 blue 1 black 5 red 1 black 5 blue 1 black 2
+black 7 black 1 blue 1 black 6 red 1 black 4 blue 1 black 2
+black 1 blue 1 black 3 black 1 red 1 black 1 black 3
+black 2 blue 1 black 4 black 1 black 2
+black 1 blue 3 black 4
+black 1 blue 1 black 6
+black 6

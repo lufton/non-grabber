@@ -1,0 +1,69 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 22, 2011"
+description "Trish! This is a tribute to to thank Trish for the wonderful word-of-the-day puzzles."
+difficulty 1.75
+height 23
+id 14849
+link "https://webpbn.com/play.cgi?id=14849"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Word of the Month"
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 12
+red 8 blue 11
+red 8 green 10
+red 2 red 2 red 2 red 9
+red 2 blue 8
+red 2 green 7
+red 2 black 3 red 6
+red 2 green 1 black 1 black 1 blue 5
+red 4 green 3 black 3 green 4
+green 1 red 3
+green 1 black 3 blue 2
+black 1 black 1 green 1
+black 1 black 1 blue 2 black 1
+black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 3 blue 2 black 1
+black 1 black 1 blue 1 black 3
+blue 2 black 1 black 1
+black 2 black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 2 black 2
+black 4
+0
+
+columns
+0
+red 3 black 1
+red 3 black 4
+red 2 red 1 black 3 black 2
+red 8 black 1
+red 8 black 1
+red 2 red 1 black 3 black 2
+red 3 black 4
+red 3 green 4 black 1
+green 1
+green 1
+red 1
+red 1 blue 1 black 3 black 5
+red 1 blue 1 green 1 black 1 black 1 black 1 black 1
+red 1 blue 1 green 1 red 1 black 3 black 5
+red 1 blue 1 green 1 red 1 blue 1
+red 1 blue 1 green 1 red 1 blue 1 green 1 blue 3 blue 1
+red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 blue 3
+red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1
+red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 black 6
+red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 black 1
+red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 black 4
+red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1

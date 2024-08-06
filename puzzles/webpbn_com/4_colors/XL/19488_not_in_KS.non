@@ -1,0 +1,102 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Aug  6, 2012"
+description "I thought of doing Dorothy from the Wizard of Oz after reading comments from Tom's Chickfila puzzle. The image didn't turn out so well, but maybe y'all will enjoy the solve...."
+difficulty 2.25
+height 40
+id 19488
+link "https://webpbn.com/play.cgi?id=19488"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "not in KS"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 14 black 10
+black 29
+black 33
+black 35
+black 36
+black 13 black 3 black 9
+black 11 black 7
+black 10 black 6
+black 9 black 5
+black 9 black 5
+black 8 black 4
+black 8 black 7 black 4
+black 9 black 8 black 2 black 3 black 4
+black 9 black 3 black 1 black 1 black 2 black 2 black 3
+black 9 black 2 black 3 black 1 black 1 black 1 black 2 black 3
+black 9 black 1 black 2 black 1 black 2 black 3
+black 9 black 2 black 1 black 3
+black 3 black 3 black 1 black 3
+black 3 black 2 black 2 black 1 black 2 black 3
+black 3 black 1 black 1 black 1 black 2 black 4
+black 3 black 1 black 1 black 2 black 4
+black 4 black 2 black 1 black 1 black 4
+black 5 black 1 black 1 black 1 black 1 black 4
+black 5 black 1 black 1 black 1 black 4
+black 8 black 4
+black 8 black 4
+black 8 red 4 blue 1 black 4
+black 9 red 6 blue 3 black 1
+black 8 red 2 red 2 black 2 blue 3
+black 9 red 2 red 2 black 4 blue 1
+black 9 red 4 black 3
+black 5 black 2 black 3
+black 4 blue 2 black 2 black 4
+blue 2 black 3 blue 3 black 1 black 4
+blue 4 black 1 blue 5 black 2 black 6
+blue 9 black 2 black 9
+blue 5 black 2 black 4 black 6 black 6
+black 7 black 11 black 6
+black 10 black 7 black 7
+
+columns
+0
+black 11
+black 18
+black 24
+black 14 black 7
+black 15 black 2 black 8 blue 2
+black 15 black 1 black 2 black 8 blue 4 black 1
+black 16 black 1 black 7 blue 4 black 2
+black 18 black 8 blue 3 black 2
+black 20 black 12 blue 2 black 2
+black 10 black 9 blue 3 black 2
+black 8 black 7 blue 2 black 3
+black 7 black 5 blue 3 black 3
+black 7 black 2 black 2 blue 4 black 2
+black 6 black 3 black 2 blue 3 black 1
+black 6 black 2 black 2 black 1
+black 5 black 1 black 3
+black 5 black 1 black 2 black 2
+black 5 black 1 black 1 black 1 black 2
+black 5 black 1 black 3 black 1
+black 5 black 1 black 1 black 1
+black 5 black 3 black 3 black 2
+black 5 black 3 red 1 black 2
+black 5 black 1 red 3 black 2
+black 5 black 5 red 2 red 2 black 2
+black 6 black 2 black 2 red 2 red 1 black 2
+black 5 black 1 black 1 black 2 black 1 red 2 red 1 black 2
+black 5 black 1 black 1 black 1 black 2 red 2 red 2 black 3
+black 5 black 1 black 3 black 4 red 3 black 3
+black 5 black 1 black 1 red 1 black 2
+black 5 black 2 black 3
+black 6 black 3 black 3
+black 6 black 2 black 3
+black 7 black 4 black 1
+black 8 black 10
+black 9 blue 2 black 11
+black 12 black 8 blue 1 black 11
+black 25 blue 2 black 1 black 5
+black 25 blue 2 black 4
+black 22 blue 1 black 3

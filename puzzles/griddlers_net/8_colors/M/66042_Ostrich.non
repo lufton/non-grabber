@@ -1,0 +1,74 @@
+by "MLN"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/8/08"
+height 23
+id 66042
+link "https://www.griddlers.net/nonogram/-/g/66042"
+medium_time "0:12:50"
+points 2957
+popularity 57.62
+title "Ostrich"
+width 26
+
+color a ffffff
+color b 000000
+color c 969696
+color d cccccc
+color e ccccff
+color f cc9900
+color g ffcc00
+color h ffcccc
+
+rows
+e 1 e 1
+e 5 e 1
+e 1 d 2 e 4 d 1
+e 2 d 3 e 2 d 1
+e 4 d 4 e 2
+e 9
+e 10
+d 1 e 1 c 1 e 3 d 1 e 2
+d 3 c 1 e 2 d 2 e 1 c 1
+d 2 c 1 e 3 d 2 c 2 h 2
+d 1 c 2 d 1 c 1 d 3 c 1 h 1
+c 4 d 3 c 1 h 1 h 1
+c 6 h 2 h 2
+d 4 c 2 h 2 h 1
+h 3 d 1 c 3 d 1 h 1 h 1
+h 1 h 1 d 2 h 1 c 1 d 2 h 1 h 1
+h 1 b 1 g 1 h 1 c 1 d 1 h 2 h 2
+g 4 h 2 h 1 h 1
+f 5 h 1 g 3 f 1 h 2 f 3 h 1 f 1 h 1 f 3 h 1
+f 3 h 2 f 2 h 2 f 2 h 4 f 4 h 1 f 2
+f 2 h 2 f 2 h 2 f 2 h 1 f 3 h 1 f 1 h 3 f 1 h 1 f 2
+f 17 h 1 f 1 h 2 f 3
+f 17
+
+columns
+f 1
+f 1
+f 2 f 1
+f 4
+h 3 g 1 f 4
+h 1 b 1 g 1 h 3 f 1
+h 2 g 3 h 2 f 1
+g 2 f 3
+g 1 f 4
+e 3 d 3 c 1 d 3 f 1 h 2 f 2
+e 4 d 3 c 3 d 1 c 1 d 1 h 4 f 2
+e 6 d 1 c 4 d 1 c 1 h 4 f 4
+e 1 d 2 e 3 c 2 e 1 d 1 c 2 d 1 c 3 f 5
+e 1 d 3 e 5 c 1 d 1 c 2 d 3 f 1 h 2 f 2
+e 3 d 2 e 5 d 2 c 2 d 1 f 1 h 1 f 3
+e 3 d 1 e 3 d 4 c 1 h 4 f 3
+e 3 d 1 e 2 d 4 c 1 h 5 f 1 h 1 f 3
+e 1 e 1 d 1 e 5 c 2 h 3 h 1 f 1 h 1 f 2
+e 1 e 1 e 2 c 2 f 5
+d 1 h 1 f 2 h 2 f 1
+h 1 f 2 h 1 f 2
+h 3 h 6 f 1
+h 5 f 2 h 1 f 1
+f 1 h 1 f 2
+f 3
+f 2

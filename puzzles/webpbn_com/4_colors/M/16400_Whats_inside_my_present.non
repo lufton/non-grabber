@@ -1,0 +1,62 @@
+by "Niia (niia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Niia"
+date "Nov 16, 2011"
+description "A little carebear!"
+difficulty 1.75
+height 20
+id 16400
+link "https://webpbn.com/play.cgi?id=16400"
+note "published,definitely non-unique,may require some guessing"
+quality 2.5
+title "What's inside my present?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 red 3 black 8 red 3 black 1
+black 1 red 2 black 3 black 3 red 2 black 1
+black 4 black 4
+black 2 black 1 black 1 black 2
+black 2 black 2
+black 2 black 1 black 1 black 2
+black 2 black 2 black 2
+black 3 black 2 black 2 black 2
+black 1 red 2 black 1 black 2 black 2 black 1 red 2 black 1
+black 1 red 1 black 4 red 2 red 2 black 4 red 1 black 1
+black 4 red 7 blue 1 black 4
+black 3 red 7 blue 1 black 3
+black 2 red 7 black 2
+black 2 red 5 black 2
+black 1 blue 2 red 3 black 1
+black 3 blue 2 red 1 black 3
+black 2 red 1 black 2 blue 1 black 2 red 1 black 2
+black 2 red 1 black 3 black 3 red 1 black 2
+black 2 red 1 black 4 black 4 red 1 black 2
+black 3 black 6 black 3
+
+columns
+black 3
+black 1 red 2 black 1 black 3
+black 2 black 1 red 1 black 3 black 5
+red 2 black 1 black 6 black 1 red 3 black 1
+red 2 black 4 black 11
+red 1 black 6 black 2 black 3
+black 3 black 3 blue 2 black 2
+black 2 black 1 red 3 blue 2 black 2
+black 1 black 1 black 1 red 5 blue 1 black 1
+black 1 black 1 red 6 black 1
+black 1 black 1 red 6 black 1
+black 1 black 1 black 1 red 6 black 1
+black 2 black 1 red 5 black 2
+black 3 black 3 red 3 black 2
+red 1 black 6 black 2 blue 2 black 3
+red 2 black 4 black 11
+red 2 black 1 black 6 black 1 red 3 black 1
+black 2 black 1 red 1 black 3 black 5
+black 1 red 2 black 1 black 3
+black 2

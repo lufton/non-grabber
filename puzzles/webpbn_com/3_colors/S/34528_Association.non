@@ -1,0 +1,51 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "Sep 30, 2020"
+description "Association Football was nicknamed "soccer" by british college players. That became the official name in America, while Britain and the rest of the world called it "football"."
+difficulty 2.5
+height 15
+id 34528
+link "https://webpbn.com/play.cgi?id=34528"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Association"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 4
+green 1 black 5
+green 2 green 2 black 4 green 1
+green 1 black 2 green 1 green 2
+black 3 black 1 green 1
+green 1 black 3 green 2 black 2
+green 1 black 2 green 4 black 2 green 1 green 1 black 2
+green 2 black 4 green 2 black 2
+black 4 black 2
+green 1 green 1 black 4 green 2
+green 2 green 2 green 1 green 2
+black 3 green 1 green 4
+black 4 black 3
+black 3 green 1 green 1 black 3
+green 3 black 2
+
+columns
+green 2 green 1
+green 1 black 3 green 1 green 1
+green 1 black 4 green 1 green 2 black 2
+green 1 black 3 green 1 black 3
+green 1 green 1 black 3
+green 1 green 1 green 2 black 2 green 1
+green 1 black 1 green 1 green 1 black 3 green 1 green 2
+green 1 black 2 green 1 black 4 green 1
+green 1 black 2 green 1 green 1 black 4 green 1 black 1
+green 1 black 2 green 1 black 3 green 1 black 2
+black 2 green 1 green 1 black 2
+green 1 green 1 black 2
+green 2 green 1 green 1 black 1
+green 1 black 5 green 3
+green 1 black 4 green 2

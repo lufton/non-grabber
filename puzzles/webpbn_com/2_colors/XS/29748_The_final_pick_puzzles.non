@@ -1,0 +1,33 @@
+by "John Macdonald (perlwolf)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by John Macdonald"
+date "Apr 26, 2017"
+description "A pick-it fence"
+difficulty 1.25
+height 8
+id 29748
+link "https://webpbn.com/play.cgi?id=29748"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "The final pick puzzles"
+width 8
+
+rows
+0
+0
+1,1,1,1
+8
+1,1,1,1
+8
+1,1,1,1
+1,1,1,1
+
+columns
+1,1
+6
+1,1
+6
+1,1
+6
+1,1
+6

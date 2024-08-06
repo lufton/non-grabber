@@ -1,0 +1,47 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/28/13"
+height 14
+id 131336
+link "https://www.griddlers.net/nonogram/-/g/131336"
+medium_time "0:02:35"
+points 333
+popularity 59.09
+title "Pepper"
+width 10
+
+color a ffffff
+color b b5babd
+color c 949694
+color d cbd3e2
+color e ad8673
+color f a57152
+
+rows
+b 4
+b 6
+b 1 b 4 c 2
+b 1 b 3 c 3
+d 6
+d 8
+d 1 e 2 f 1 e 2 f 1 d 1
+d 2 e 6 d 2
+d 1 f 1 e 7 d 1
+d 1 e 4 f 1 e 2 f 1 d 1
+d 1 f 1 e 7 d 1
+d 2 e 6 d 2
+d 2 f 1 e 2 f 1 d 2
+d 6
+
+columns
+d 5
+b 2 d 3 f 1 e 1 f 1 d 2
+b 1 d 2 e 6 d 2
+b 4 d 2 e 6 f 1 d 1
+b 4 d 2 f 1 e 6 d 1
+b 4 d 2 e 3 f 1 e 3 d 1
+b 3 c 1 d 2 e 6 f 1 d 1
+b 1 c 2 d 2 f 1 e 5 d 2
+c 2 d 3 e 1 f 1 e 1 d 2
+d 5

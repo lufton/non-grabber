@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Sep 23, 2018"
+description "Born two feet wide"
+difficulty 2.0
+height 20
+id 31579
+link "https://webpbn.com/play.cgi?id=31579"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Mondegreen #53"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 3
+black 5
+red 1 blue 1 blue 1 red 1
+red 2 red 1 red 1 red 2
+red 2 red 1 red 1 red 1 red 2
+red 1 red 1 red 1 red 1
+red 6 red 5
+red 1 red 1
+red 2 red 2
+red 1 red 2
+red 2 red 1
+red 1 red 1
+red 1 red 1
+black 10
+black 10
+black 4 red 1 black 3 red 1
+red 4 black 2 red 4
+
+columns
+0
+red 4
+red 2 red 1 red 3 black 2
+red 1 red 3 black 3
+red 3 black 3 red 1
+black 1 red 3 red 1 black 3 red 1
+black 2 blue 1 red 2 black 3 red 1
+black 2 red 1 black 2 red 2
+black 2 blue 1 red 2 black 4
+black 1 red 3 red 3 black 4
+red 1 red 2 black 3 red 1
+red 1 red 4 black 2 red 1
+red 4 red 1
+red 2 red 2
+0

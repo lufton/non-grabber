@@ -1,0 +1,65 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/18/20"
+height 25
+id 206427
+link "https://www.griddlers.net/nonogram/-/g/206427"
+medium_time "0:04:07"
+points 1868
+popularity 73.91
+title "T'Choupi"
+width 15
+
+color a 99ccff
+color b 000000
+color c ffffff
+color d ff0000
+color e 999999
+color f 0000ff
+color g cc0000
+color h ffcc66
+
+rows
+e 5
+e 1 c 2 e 1 c 2 e 1
+e 1 c 1 b 1 c 3 b 1 c 1 e 1
+e 1 c 2 b 1 c 3 b 1 c 2 e 1
+e 1 c 4 h 1 c 4 e 1
+e 1 c 2 e 1 c 3 e 1 c 2 e 1
+e 1 c 2 e 3 c 2 e 1
+e 1 c 5 e 1
+e 5
+d 1 f 1 d 3 f 1 d 1
+d 2 f 1 d 3 f 1 d 2
+d 3 f 1 d 3 f 1 d 3
+d 3 f 7 d 3
+d 2 f 2 h 2 f 1 h 2 f 2 d 2
+d 2 f 2 h 2 f 1 h 2 f 2 d 2
+d 2 f 9 d 2
+d 2 f 3 b 3 f 3 d 2
+e 3 f 4 b 1 f 4 e 3
+e 2 f 9 e 2
+f 4 f 4
+f 3 f 3
+f 3 f 3
+c 3 c 3
+g 3 g 3
+b 4 b 4
+
+columns
+e 1
+d 5 e 2
+e 3 d 6 e 2 b 1
+e 1 c 3 e 1 d 3 f 9 c 1 g 1 b 1
+e 1 c 5 e 1 d 3 f 10 c 1 g 1 b 1
+e 1 c 1 b 2 c 1 e 1 c 2 e 1 f 4 h 2 f 7 c 1 g 1 b 1
+e 1 c 5 e 1 c 1 e 1 d 3 f 1 h 2 f 1 b 1 f 3
+e 2 c 2 h 1 c 1 e 1 c 1 e 1 d 3 f 4 b 2 f 1
+e 1 c 5 e 1 c 1 e 1 d 3 f 1 h 2 f 1 b 1 f 3
+e 1 c 1 b 2 c 1 e 1 c 2 e 1 f 4 h 2 f 7 c 1 g 1 b 1
+e 1 c 5 e 1 d 3 f 10 c 1 g 1 b 1
+e 1 c 3 e 1 d 3 f 9 c 1 g 1 b 1
+e 3 d 6 e 2 b 1
+d 5 e 2
+e 1

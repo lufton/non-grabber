@@ -1,0 +1,44 @@
+by "ErgoDyne (ergodyne)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by ErgoDyne"
+date "Jul 18, 2008"
+description "I've been drawing this for the past 18 years (only black and white, though). I don't know where I learned it or if I made it up or what."
+difficulty 1.5
+height 11
+id 3087
+link "https://webpbn.com/play.cgi?id=3087"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Connected"
+width 11
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 black 3 blue 3
+blue 1 blue 1 black 1 black 1 blue 1 blue 1
+blue 4 black 1 blue 6
+blue 1 black 1 black 1 blue 1
+green 2 blue 1 green 3 black 1 green 4
+green 1 blue 1 black 1 black 1 blue 1 green 1
+green 4 black 1 green 3 blue 1 green 2
+blue 1 black 1 black 1 blue 1
+blue 6 black 1 blue 4
+blue 1 blue 1 black 1 black 1 blue 1 blue 1
+blue 3 black 3 blue 3
+
+columns
+blue 3 green 3 blue 3
+blue 1 blue 1 green 1 green 1 blue 1 blue 1
+blue 6 green 1 blue 4
+blue 1 green 1 green 1 blue 1
+black 4 green 1 black 3 blue 1 black 2
+black 1 blue 1 green 1 green 1 blue 1 black 1
+black 2 blue 1 black 3 green 1 black 4
+blue 1 green 1 green 1 blue 1
+blue 4 green 1 blue 6
+blue 1 blue 1 green 1 green 1 blue 1 blue 1
+blue 3 green 3 blue 3

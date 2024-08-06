@@ -1,0 +1,62 @@
+by "Craig Mellen (cmellen33)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Craig Mellen"
+date "Jun  3, 2014"
+description "Batman vs Superman"
+difficulty 2.0
+height 15
+id 24663
+link "https://webpbn.com/play.cgi?id=24663"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "B vs S"
+width 30
+
+rows
+1,1
+3,3
+6,1,1,6
+8,4,8
+24
+8,1,2,8
+7,2,3,7
+8,5,1,8
+9,7,9
+11,17
+9,2,3,9
+5,2,3,3,2,5
+3,1,1,2,1,1,3
+1,1,1,1
+2
+
+columns
+5
+6
+8
+8
+9
+9
+11
+13
+10
+4,2
+3,2,2
+6,2
+1,2,2
+3,3,1,1
+2,3,1,1
+3,2,1,1
+4,2,1,1
+1,1,5
+2,1,3
+3,2,2
+4,2
+10
+13
+11
+9
+9
+8
+8
+6
+5

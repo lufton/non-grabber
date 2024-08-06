@@ -1,0 +1,61 @@
+by "Melodey (Melodey70)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Melodey"
+date "Mar 30, 2017"
+description ""
+difficulty 1.5
+height 20
+id 29584
+link "https://webpbn.com/play.cgi?id=29584"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Tattoo"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 1 red 2 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 3 black 2 black 3
+black 4 black 4 black 4
+black 18
+black 6 black 2 black 6
+black 4 black 4 black 4
+black 6
+
+columns
+black 7
+black 9
+black 4 black 4
+black 3 black 4
+black 2 black 3
+black 2 black 3
+black 2 black 3
+black 1 red 1 black 2 black 1
+black 1 red 1 black 2 black 2
+black 1 red 1 black 6
+black 1 red 1 black 6
+black 1 red 1 black 2 black 2
+black 1 red 1 black 2 black 1
+black 2 black 3
+black 2 black 3
+black 2 black 3
+black 3 black 4
+black 4 black 4
+black 9
+black 7

@@ -1,0 +1,87 @@
+by "ireneh"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/16/05"
+height 32
+id 17386
+link "https://www.griddlers.net/nonogram/-/g/17386"
+medium_time "0:16:37"
+points 10220
+popularity 65.5
+title "Bowling"
+width 32
+
+color a ffffff
+color b 999999
+color c ff0000
+color d bbbbbb
+color e 000000
+color f 0000ff
+
+rows
+b 1 f 3 b 1 b 3
+b 1 c 3 b 1 b 1 f 3 b 1
+b 1 f 3 d 1 b 1 f 5 d 1 b 3
+b 1 c 3 d 1 b 1 f 6 b 1 f 3 b 1
+b 1 f 5 b 1 f 5 b 1 f 5 b 1
+b 1 f 7 b 1 f 3 d 1 b 1 f 5 b 1 b 3
+b 1 f 7 b 1 c 3 d 1 b 1 f 5 b 1 b 1 f 3 b 1
+b 1 f 8 b 1 f 3 d 1 b 1 f 3 b 1 b 1 f 5 b 1
+b 1 f 8 b 1 c 3 d 1 b 1 c 3 b 1 b 1 f 5 b 1
+b 1 f 7 b 1 f 5 d 1 b 1 f 3 b 1 b 1 f 5 b 1
+b 1 f 6 b 1 f 7 b 1 c 3 b 1 b 1 f 3 b 1
+b 1 f 6 b 1 f 6 b 1 f 5 b 1 b 1 c 3 b 1
+b 1 f 5 b 1 f 6 b 1 f 7 d 1 b 1 f 3 b 1
+b 1 f 4 b 1 f 6 b 1 f 7 d 1 b 1 c 3 b 1
+b 1 f 4 d 1 f 5 b 1 f 8 d 1 b 1 f 3 b 1
+b 1 f 3 d 1 f 5 b 1 f 8 b 1 f 5 b 1
+b 2 d 2 e 5 f 1 b 1 f 7 b 1 f 7 b 1
+e 8 d 1 f 7 b 1 f 7 b 1
+e 10 f 6 b 1 f 9
+e 12 f 5 b 1 f 9
+e 12 f 5 b 1 f 9
+e 14 f 4 b 1 f 9
+e 14 d 1 f 3 b 1 f 9
+e 14 b 4 f 9
+e 14 b 1 f 9
+e 14 b 1 f 8
+e 14 b 1 f 7 b 1
+e 7 e 4 b 1 f 5 b 1
+e 12 b 2 f 3 b 2
+e 10 b 5
+e 8
+e 6
+
+columns
+0
+0
+0
+b 6
+b 2 f 6 b 2 e 6
+b 1 f 10 b 2 e 10
+b 4 f 12 b 1 e 12
+f 1 c 1 f 1 c 1 f 12 d 1 e 14
+f 1 c 1 f 1 c 1 f 12 d 1 e 15
+f 1 c 1 f 1 c 1 f 8 b 2 d 2 e 16
+b 2 d 2 f 6 b 2 f 4 e 16
+b 3 f 4 b 1 f 6 e 16
+b 1 f 3 b 4 f 7 e 11 e 4
+b 1 f 5 c 1 f 1 c 1 f 7 e 16
+b 1 f 5 c 1 f 1 c 1 f 8 e 14
+b 1 f 5 c 1 f 1 c 1 f 5 b 3 d 1 e 12
+b 1 f 3 d 4 f 3 b 2 f 5 e 10
+d 1 f 1 b 3 d 1 f 1 b 1 f 9 e 6
+b 1 f 3 b 4 f 11 d 1
+b 1 f 5 c 1 f 1 c 1 f 12 b 1
+b 1 f 5 c 1 f 1 c 1 f 12 b 1
+b 1 f 5 c 1 f 1 c 1 f 12 b 1
+b 1 f 3 b 4 f 7 b 7
+b 3 b 1 f 4 b 2 f 7 b 2
+b 3 d 3 b 1 f 11 b 2
+b 1 f 3 b 5 f 13 b 2
+b 1 f 5 c 1 f 1 c 1 f 15 b 1
+b 1 f 5 c 1 f 1 c 1 f 15 b 1
+b 1 f 5 c 1 f 1 c 1 f 15 b 1
+b 1 f 3 b 5 f 13 b 2
+b 3 b 1 f 11 b 2
+b 2 f 8 b 1

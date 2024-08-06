@@ -1,0 +1,82 @@
+by "Merili (merilinnuke)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Merili"
+date "Nov 14, 2007"
+description "It's supposed to be Estonia, resemblance to the actual map may be slightly noticeable. Red is Tallinn, blue is about where I live :)"
+difficulty 2.0
+height 20
+id 1810
+link "https://webpbn.com/play.cgi?id=1810"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "home sweet home"
+width 40
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 green 8
+green 1 black 2 green 13 green 2
+green 24
+green 26
+green 27
+green 26
+green 1 green 18 blue 1 green 5
+green 4 green 23
+green 2 green 22
+green 23
+green 2 green 1 green 25
+green 4 green 25
+green 6 green 2 green 21
+green 3 green 22
+green 2 green 4 green 15
+green 1 green 1 green 2 green 12
+green 3 green 10
+green 9
+green 7
+
+columns
+0
+0
+green 1 green 1 green 2
+green 2 green 4
+green 3 green 4
+green 1 green 4
+green 2
+green 1 green 1
+green 1
+green 4 green 2 green 1
+green 5 green 4
+green 10
+green 10 green 1
+green 10 green 3
+green 16
+black 1 green 13
+black 2 green 13
+green 14
+green 14
+green 14
+green 14
+green 15
+green 15
+green 16
+green 16
+green 16
+green 17
+green 5 blue 1 green 12
+green 18
+green 18
+green 17
+green 17
+green 5 green 11
+green 4 green 9
+green 4 green 6
+green 4 green 2
+0
+0
+0
+0

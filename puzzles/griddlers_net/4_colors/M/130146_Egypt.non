@@ -1,0 +1,67 @@
+by "abcde12345"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/27/12"
+height 21
+id 130146
+link "https://www.griddlers.net/nonogram/-/g/130146"
+medium_time "0:04:23"
+points 15857
+popularity 53.4
+title "Egypt"
+width 25
+
+color a ffffff
+color b 000000
+color c ffff99
+color d 3399ff
+
+rows
+d 10 b 2 d 13
+d 9 b 1 b 3 d 11
+d 8 b 1 b 1 c 2 b 1 d 10
+d 7 b 1 b 1 c 2 b 1 d 9
+d 7 b 1 b 1 c 1 b 2 d 9
+d 6 b 1 b 6 c 2 b 1 d 8
+d 5 b 1 b 1 c 3 b 1 d 7
+d 5 b 1 b 1 c 3 b 1 d 6
+d 4 b 1 b 1 c 3 b 1 d 5
+d 3 b 1 b 1 c 4 b 1 d 4
+d 2 b 1 b 1 c 4 b 1 d 3
+d 2 b 1 b 1 c 5 b 1 d 2
+d 1 b 1 b 1 c 5 b 1 d 1
+b 1 b 1 c 6 b 1
+b 1 b 1 c 5 b 1
+b 2 b 1 c 5 b 1
+c 2 b 5 b 1 c 3 b 1 c 1
+c 7 b 4 b 1 c 3 b 1 c 1
+c 11 b 2 b 1 c 1 b 1 c 2
+c 13 b 3 b 2 c 3
+c 16 b 5 c 4
+
+columns
+d 13 b 3 c 5
+d 12 b 1 b 1 c 5
+d 10 b 2 b 1 c 4
+d 9 b 1 b 1 c 4
+d 8 b 1 b 1 c 4
+d 6 b 2 b 1 c 4
+d 5 b 1 b 1 c 4
+d 3 b 2 b 1 c 3
+d 2 b 1 b 1 b 1 c 3
+d 1 b 1 b 1 b 1 c 3
+b 1 b 1 b 1 c 3
+b 3 b 1 b 1 c 2
+d 1 b 1 c 1 b 3 b 1 c 2
+d 1 b 1 c 3 b 2 b 1 c 1
+d 2 b 1 c 1 b 1 c 2 b 1 b 1 c 1
+d 3 b 2 c 3 b 2 b 1 c 1
+d 5 b 1 c 4 b 2 b 1
+d 6 b 1 c 5 b 2 b 1
+d 7 b 1 c 6 b 2 b 1
+d 8 b 1 c 7 b 2 b 1
+d 9 b 1 c 8 b 3
+d 10 b 1 c 8 b 1 c 1
+d 11 b 1 c 6 b 1 c 2
+d 12 b 1 c 3 b 2 c 3
+d 13 b 3 c 5

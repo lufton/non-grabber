@@ -1,0 +1,52 @@
+by "Sam Conway (sconway18)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Sam Conway"
+date "Sep 28, 2018"
+description ""
+difficulty 1.75
+height 15
+id 31620
+link "https://webpbn.com/play.cgi?id=31620"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Jack of all trades"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 red 1 black 3 red 2 blue 1
+blue 2 red 2 black 5 red 2
+blue 1 red 2 black 2 black 1 red 1
+red 2 black 4
+red 1 black 8
+black 10
+black 3 black 2 black 3
+black 3 black 2 black 3
+black 13
+black 7 black 5
+black 6 black 5
+black 2 black 5 black 2
+red 1 black 3 black 3 black 3 red 1
+red 2 black 3 black 3 red 2
+blue 1 red 2 black 5 red 2 blue 1
+
+columns
+blue 3 red 2 red 2 blue 1
+blue 2 red 2 black 3 red 2
+blue 1 red 2 black 7 red 1
+red 2 black 9
+black 7 black 2
+black 2 black 4 black 2
+black 3 black 5 black 1
+black 9 black 2 black 1
+black 9 black 2 black 1
+black 2 black 3 black 4 black 2
+black 2 black 2 black 3 black 2
+black 2 black 10
+red 1 black 8 red 1
+red 2 black 5 red 2
+blue 1 red 2 red 2 blue 1

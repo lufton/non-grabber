@@ -1,0 +1,103 @@
+by "l terrell (laterrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by l terrell"
+date "Apr  2, 2012"
+description "New variation on the bird's-eye-view pyramid. Symmetrical on the diagonal this time."
+difficulty 1.75
+height 40
+id 18143
+link "https://webpbn.com/play.cgi?id=18143"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Symmetry and Color #2"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 38
+black 2 green 3 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 2 black 2
+black 1 green 2 black 34 green 2 black 1
+black 1 green 1 black 2 black 2 green 1 black 1
+black 1 green 1 black 1 black 30 black 3
+black 3 black 2 black 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 black 26 black 1 black 3
+black 3 black 1 black 2 red 3 black 2 green 1 black 2 red 3 black 1 blue 1 black 1 red 3 black 2 green 1 black 2 red 2 black 2 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 2 black 22 red 2 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 2 black 2 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 18 black 3 black 1 black 3
+black 3 black 1 black 3 black 2 black 2 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 14 black 1 black 1 green 1 black 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 black 1 green 1 black 1 black 1 black 2 blue 2 black 1 red 1 black 1 blue 3 black 1 red 1 black 1 blue 1 black 2 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 2 black 10 blue 2 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 1 black 2 black 4 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 3 black 6 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 2 black 2 black 3 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 3 black 1 black 2 black 1 black 1 blue 1 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 1 black 1 black 1 black 4 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 4 black 1 black 1 blue 1 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 1 black 1 black 1 black 2 black 1 black 3 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 3 black 2 black 2 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 6 black 3 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 4 black 2 blue 1 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 2 black 10 blue 2 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 2 blue 1 black 1 red 1 black 1 blue 3 black 1 red 1 black 1 blue 2 black 2 black 1 black 1 green 1 black 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 black 1 green 1 black 1 black 1 black 14 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 2 black 2 black 3 black 1 black 3
+black 3 black 1 black 3 black 18 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 2 black 2 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 2 black 22 red 2 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 2 red 2 black 2 green 1 black 2 red 3 black 1 blue 1 black 1 red 3 black 2 green 1 black 2 red 3 black 2 black 1 black 3
+black 3 black 1 black 26 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 2 black 2 black 3
+black 3 black 30 black 1 green 1 black 1
+black 1 green 1 black 2 black 2 green 1 black 1
+black 1 green 2 black 34 green 2 black 1
+black 2 green 2 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 3 black 2
+black 38
+
+columns
+black 38
+black 2 green 3 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 2 black 2
+black 1 green 2 black 34 green 2 black 1
+black 1 green 1 black 2 black 2 green 1 black 1
+black 1 green 1 black 1 black 30 black 3
+black 3 black 2 black 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 black 26 black 1 black 3
+black 3 black 1 black 2 red 3 black 2 green 1 black 2 red 3 black 1 blue 1 black 1 red 3 black 2 green 1 black 2 red 2 black 2 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 2 black 22 red 2 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 2 black 2 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 18 black 3 black 1 black 3
+black 3 black 1 black 3 black 2 black 2 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 14 black 1 black 1 green 1 black 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 black 1 green 1 black 1 black 1 black 2 blue 2 black 1 red 1 black 1 blue 3 black 1 red 1 black 1 blue 1 black 2 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 2 black 10 blue 2 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 1 black 2 black 4 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 3 black 6 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 2 black 2 black 3 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 3 black 1 black 2 black 1 black 1 blue 1 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 1 black 1 black 1 black 4 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 4 black 1 black 1 blue 1 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 1 black 1 black 1 black 2 black 1 black 3 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 3 black 2 black 2 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 red 1 black 1 black 6 black 3 black 1 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 1 black 1 black 4 black 2 blue 1 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 1 blue 2 black 10 blue 2 black 1 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 1 black 2 blue 1 black 1 red 1 black 1 blue 3 black 1 red 1 black 1 blue 2 black 2 black 1 black 1 green 1 black 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 black 1 green 1 black 1 black 1 black 14 black 1 black 3 black 1 black 3
+black 3 black 1 black 3 black 2 black 2 black 3 black 1 black 3
+black 3 black 1 black 3 black 18 black 1 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 1 black 2 black 2 red 1 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 1 red 2 black 22 red 2 black 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 2 red 2 black 2 green 1 black 2 red 3 black 1 blue 1 black 1 red 3 black 2 green 1 black 2 red 3 black 2 black 1 black 3
+black 3 black 1 black 26 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 2 black 2 black 3
+black 3 black 30 black 1 green 1 black 1
+black 1 green 1 black 2 black 2 green 1 black 1
+black 1 green 2 black 34 green 2 black 1
+black 2 green 2 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 3 black 2 red 1 black 2 green 3 black 1 blue 1 black 1 green 3 black 2
+black 38

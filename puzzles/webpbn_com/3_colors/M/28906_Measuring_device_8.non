@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Oct 18, 2016"
+description "Heart monitor."
+difficulty 1.75
+height 20
+id 28906
+link "https://webpbn.com/play.cgi?id=28906"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Measuring device 8"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 1 red 2 red 2 black 1
+black 1 red 4 red 4 black 1
+black 1 red 9 black 1
+black 1 red 9 black 1
+black 1 red 7 black 1
+black 1 red 5 black 1
+black 1 red 3 black 1
+black 1 red 1 black 1
+black 1 black 1
+black 20
+black 8
+black 4
+black 2
+black 2
+black 15
+black 2 black 1 black 1 black 1 black 1 black 1 black 3
+black 2 black 1 black 1 black 1 black 1 black 1 black 2 black 1
+black 2 black 1 black 1 black 1 black 1 black 1 black 2
+black 15
+
+columns
+black 11 black 1
+black 1 black 1 black 2
+black 1 black 1 black 3
+black 1 black 1 black 2 black 1
+black 1 black 1 black 2 black 2
+black 1 red 3 black 1 black 1 black 1 black 1
+black 1 red 5 black 2 black 2 black 2
+black 1 red 6 black 2 black 1 black 1 black 1
+black 1 red 6 black 3 black 2 black 2
+black 1 red 6 black 6 black 1 black 1
+black 1 red 6 black 7 black 2
+black 1 red 6 black 3 black 1 black 1 black 1
+black 1 red 5 black 2 black 2 black 2
+black 1 red 3 black 2 black 1 black 1 black 1
+black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 2
+black 1 black 1 black 3
+black 1 black 1 black 2
+black 1 black 1 black 3
+black 11

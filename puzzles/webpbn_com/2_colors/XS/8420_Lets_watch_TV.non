@@ -1,0 +1,37 @@
+by "M (rmm)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by M"
+date "Apr 16, 2010"
+description "My favorite TV site, Hulu!"
+difficulty 1.25
+height 10
+id 8420
+link "https://webpbn.com/play.cgi?id=8420"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Let's watch TV!"
+width 10
+
+rows
+2
+2
+2
+2
+2,4
+8
+4,3
+3,2
+2,2
+2,2
+
+columns
+10
+10
+3
+3
+2
+2
+3
+5
+4
+0

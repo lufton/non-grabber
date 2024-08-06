@@ -1,0 +1,83 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Jul  9, 2012"
+description "is the real name of what most people refer to as the St Louis Arch. Usually when the sun hits it, one side catches the glare and looks much brighter than the other leg."
+difficulty 1.5
+height 30
+id 19273
+link "https://webpbn.com/play.cgi?id=19273"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #113 Jefferson National Expansion Memorial...."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 30
+blue 30
+blue 30
+blue 10 black 4 blue 14
+blue 9 black 6 blue 13
+blue 8 blue 4 black 3 blue 12
+blue 7 blue 6 black 3 blue 11
+blue 6 blue 8 black 3 blue 10
+blue 6 blue 10 black 3 blue 9
+blue 5 blue 11 black 2 blue 9
+blue 5 blue 11 black 3 blue 8
+blue 5 blue 12 black 2 blue 8
+blue 4 blue 13 black 3 blue 7
+blue 4 blue 13 black 3 blue 7
+blue 4 blue 14 black 2 blue 7
+blue 4 blue 14 black 3 blue 6
+blue 3 blue 15 black 3 blue 6
+blue 3 blue 16 black 3 blue 5
+blue 3 blue 16 black 3 blue 5
+blue 3 blue 16 black 3 blue 5
+blue 2 blue 16 black 4 blue 4
+red 1 blue 1 blue 16 black 4 blue 4
+red 2 blue 16 black 4 blue 4
+red 3 blue 15 green 6 blue 3
+red 4 green 4 blue 12 green 8 blue 2
+red 5 green 4 blue 7 green 1 blue 3 green 9 blue 1
+red 5 green 5 blue 3 green 1 blue 1 green 3 blue 2 green 3 black 1 green 6
+red 4 black 1 green 5 blue 2 green 6 black 3 green 5 black 1 green 3
+red 3 black 1 green 4 black 1 black 5 green 2 black 2 green 4
+red 2 black 1 green 4 black 1 green 8 black 7 green 1 black 1 green 5
+
+columns
+blue 21 red 9
+blue 22 red 8
+blue 20 red 6 black 1
+blue 16 red 4 black 1 green 1
+blue 12 green 1 red 2 black 1 green 2
+blue 9 green 6
+blue 7 blue 8 green 6
+blue 6 blue 12 green 5 black 1
+blue 5 blue 17 green 3 black 1 green 1
+blue 4 blue 19 green 2 green 1
+blue 3 blue 22 green 1
+blue 3 black 1 blue 23 green 1
+blue 3 black 2 blue 22 green 1 green 1
+blue 3 black 2 blue 21 green 2 green 1
+blue 3 black 2 blue 22 green 1 green 1
+blue 3 black 3 blue 20 green 2 green 1
+blue 4 black 3 blue 18 green 3 black 1
+blue 5 black 3 blue 18 green 2 black 2
+blue 6 black 3 blue 18 black 3
+blue 7 black 4 blue 16 black 3
+blue 8 black 6 blue 10 green 3 black 3
+blue 10 black 7 blue 6 green 5 black 2
+blue 12 black 11 green 6 black 1
+blue 15 black 8 green 3 black 1 green 3
+blue 17 black 6 green 5 black 2
+blue 20 black 3 green 5 black 1 green 1
+blue 23 green 4 black 1 green 2
+blue 24 green 6
+blue 25 green 5
+blue 26 green 4

@@ -1,0 +1,47 @@
+by "Mike B (mikey_b)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Mike B"
+date "Dec  6, 2019"
+description "GMC commercial where both the wife and the husband buy matching gifts for the both of them. She buys them both watches - reasonable. He buys them both brand new GMC trucks - ridiculous!"
+difficulty 1.25
+height 5
+id 33322
+link "https://webpbn.com/play.cgi?id=33322"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Isn't everyone giving these as gifts?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 3 blue 3
+red 2 red 1 blue 1 blue 2
+red 8 blue 8
+red 8 blue 8
+black 1 black 1 black 1 black 1
+
+columns
+red 2
+red 2 black 1
+red 2
+red 4
+red 4
+red 1 red 2
+red 3 black 1
+red 2
+0
+0
+blue 2
+blue 3 black 1
+blue 1 blue 2
+blue 4
+blue 4
+blue 2
+blue 2 black 1
+blue 2
+0
+0

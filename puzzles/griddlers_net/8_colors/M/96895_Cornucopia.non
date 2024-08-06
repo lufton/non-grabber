@@ -1,0 +1,75 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/28/10"
+height 24
+id 96895
+link "https://www.griddlers.net/nonogram/-/g/96895"
+medium_time "0:14:17"
+points 6497
+popularity 71.99
+title "Cornucopia"
+width 26
+
+color a ccccff
+color b ab6100
+color c f9c700
+color d f70101
+color e 00d700
+color f be1cbe
+color g ffff33
+color h ffa600
+
+rows
+b 3
+b 3
+b 3
+b 4
+b 6
+b 8
+b 14
+b 17
+b 10 e 2 b 5 e 1 b 1
+b 11 e 2 h 4 e 1 b 2
+b 10 d 3 h 4 f 2 b 1
+b 8 e 1 d 5 e 1 h 1 f 4 b 1 e 2
+b 7 e 1 d 6 e 2 d 2 f 2 b 1 e 3
+b 3 e 1 b 2 h 2 d 5 e 2 d 5 e 3
+b 2 e 3 g 1 h 1 e 1 d 3 g 2 d 3 h 6
+b 3 e 2 g 2 e 3 g 4 e 1 h 2 c 3 h 3
+b 2 e 2 g 2 e 1 h 1 g 2 e 1 g 2 h 2 c 1 h 3 c 1 h 3
+b 2 g 2 e 1 g 1 h 3 e 2 g 1 h 2 c 1 h 3 c 1 h 3
+b 1 g 4 h 3 f 1 e 1 f 1 h 2 c 1 h 3 c 1 h 3
+b 1 g 1 e 1 g 1 e 1 h 3 f 4 h 1 c 1 h 2 c 1 h 4
+e 2 g 2 h 3 b 1 f 5 h 2 c 1 h 2 e 1
+e 6 b 4 f 2 e 2 f 1 h 3 e 3
+e 3 e 3 b 1 e 2 e 4 e 6
+e 2
+
+columns
+b 6
+b 9
+b 12
+b 9 e 2 b 3 e 2
+b 11 e 3 b 3 e 3
+b 12 e 3 g 3 e 3
+b 12 h 1 g 5 e 1 g 1 e 1
+b 12 e 1 h 2 g 2 e 1 g 3 e 2
+b 2 b 7 e 1 d 2 e 3 g 2 e 1 h 1 e 2
+b 1 b 6 d 4 e 1 h 5 b 1 e 1
+b 2 e 1 b 1 d 5 e 1 g 1 h 4 b 2
+b 2 e 2 d 5 g 2 h 3 b 2 e 1
+b 3 e 1 d 4 g 2 e 2 f 3 b 1 e 1
+b 3 h 2 d 2 e 1 g 3 e 2 f 3
+b 3 h 2 e 3 d 1 g 3 f 4
+b 3 h 3 e 1 d 2 e 1 h 3 f 2 e 2
+b 2 h 2 f 1 d 3 h 5 f 1 e 3
+b 1 e 2 f 2 d 2 h 2 c 4 h 1 f 1 e 2
+b 2 f 3 d 1 h 1 c 1 h 6 e 1
+b 2 f 2 d 1 h 1 c 1 h 4 c 1 h 1
+b 2 e 1 h 1 c 1 h 3 c 1 h 2 e 1
+e 2 h 2 c 3 h 2 e 2
+e 3 h 6 e 3
+e 2 h 5 e 2
+h 4 e 1
+e 1

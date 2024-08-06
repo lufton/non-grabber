@@ -1,0 +1,29 @@
+by "Joseph Newton (Shroomyjoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joseph Newton"
+date "Aug  2, 2013"
+description "This puzzle has several solutions. See how many you can find!"
+difficulty 2.0
+height 6
+id 22508
+link "https://webpbn.com/play.cgi?id=22508"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.5
+title "Alternation"
+width 6
+
+rows
+2
+1,2
+2,1
+1,2
+2,1
+2
+
+columns
+2
+2,1
+1,2
+2,1
+1,2
+2

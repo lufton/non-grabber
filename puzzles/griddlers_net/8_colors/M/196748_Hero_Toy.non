@@ -1,0 +1,64 @@
+by "mmd147"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/22/19"
+height 20
+id 196748
+link "https://www.griddlers.net/nonogram/-/g/196748"
+medium_time "0:08:07"
+points 1525
+popularity 67.15
+title "Hero Toy"
+width 19
+
+color a ffffff
+color b 000000
+color c ff0000
+color d 00ff00
+color e 0000ff
+color f 00ffff
+color g ff00ff
+color h 808080
+
+rows
+d 5
+g 2 d 5 f 2
+g 4 d 6 f 1 h 2
+g 5 b 6 f 1 h 2 f 1
+g 6 b 1 f 1 b 2 f 1 b 1 f 1 h 2 f 1
+g 7 b 6 f 1 h 1 f 1
+g 7 b 2 c 2 b 2 b 1
+g 7 b 6 d 1
+g 8 b 2 d 2
+g 5 h 1 d 6 h 1 d 2
+g 3 d 3 h 1 d 4 h 1 d 4
+d 5 h 1 d 2 h 1 d 4
+d 2 d 3 h 2 d 3
+d 2 d 3 h 2 d 3
+d 2 d 2 h 1 d 2 h 1 d 2
+e 5 h 1 d 4 h 1 d 1
+e 2 c 1 e 2 d 6 h 1
+e 1 c 1 e 1 d 8
+e 3 h 8
+e 1 d 8
+
+columns
+g 7
+g 10
+g 10 e 2
+g 9 d 4 e 4
+g 7 d 5 e 1 c 2 e 2
+g 6 d 2 e 4
+g 4 h 1 d 5 e 2 d 1 h 1 d 1
+d 2 b 5 g 1 d 1 h 1 d 4 h 1 d 2 h 1 d 1
+d 3 b 1 f 1 b 3 d 2 h 1 d 2 h 1 d 3 h 1 d 1
+d 3 b 3 c 1 b 2 d 3 h 2 d 4 h 1 d 1
+d 3 b 3 c 1 b 2 d 3 h 2 d 4 h 1 d 1
+d 3 b 1 f 1 b 3 d 2 h 1 d 2 h 1 d 3 h 1 d 1
+d 1 d 1 b 5 d 1 h 1 d 4 h 1 d 2 h 1 d 1
+h 1 d 6 h 1 d 1 h 1 d 1
+f 2 d 2
+f 1 h 2 b 1 d 5
+f 1 h 2 f 1 d 3
+f 1 h 2 f 1
+f 1 h 1 f 1

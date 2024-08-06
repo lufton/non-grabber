@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Dec  1, 2009"
+description "...hold up this wall?"
+difficulty 2.5
+height 20
+id 7279
+link "https://webpbn.com/play.cgi?id=7279"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Would you help me..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 red 1
+blue 4 red 1
+black 3 red 1
+black 1 red 1
+red 2 black 1 red 1
+red 6 black 4 red 1
+red 4 red 1
+red 4 red 1
+red 5 red 1
+blue 3 red 2 red 1
+blue 5 red 1
+blue 2 blue 3 red 1
+blue 2 blue 2 red 1
+blue 2 blue 2 red 1
+blue 2 blue 2 red 1
+blue 2 blue 2 red 1
+blue 2 blue 2 red 1
+green 3 green 3 red 1
+green 4 green 4 red 1
+black 20
+
+columns
+blue 1 green 2 black 1
+blue 2 green 2 black 1
+blue 2 green 2 black 1
+blue 2 green 1 black 1
+blue 4 black 1
+blue 4 black 1
+red 1 blue 2 blue 1 green 2 black 1
+red 2 blue 3 blue 2 green 2 black 1
+red 4 blue 3 blue 2 green 2 black 1
+red 5 blue 4 green 1 black 1
+red 5 blue 1 black 1
+blue 2 black 2 red 3 black 1
+blue 2 black 1 red 1 black 1
+blue 2 black 1 red 1 black 1
+blue 1 red 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 1
+red 19 black 1

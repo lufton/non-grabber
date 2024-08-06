@@ -1,0 +1,57 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by ant"
+date "Oct 19, 2009"
+description "kevin bacon.. (i think it looks like him anyway) giving you a thumbs up for solving his puzzle"
+difficulty 2.75
+height 20
+id 6965
+link "https://webpbn.com/play.cgi?id=6965"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "bacon"
+width 20
+
+rows
+0
+0
+7
+8
+1,2
+1,2
+1,1,1,2
+1,1,1,1
+2,1
+1,3,1
+1,1,1,1
+1,1
+2,2
+5,1
+1,1,2
+2,1,1
+2,7
+2,2,2
+1,2,2
+4,2
+
+columns
+0
+0
+6
+3,1
+1
+5,2
+6,2,2
+2,2,2,2
+2,2,1,1,2
+2,2,1,1
+2,1,1
+2,2,1
+2,3
+5,3,2
+9,3
+2
+0
+0
+0
+0

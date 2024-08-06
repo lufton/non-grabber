@@ -1,0 +1,66 @@
+by "idnaj"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/25/08"
+height 22
+id 66924
+link "https://www.griddlers.net/nonogram/-/g/66924"
+medium_time "0:14:33"
+points 5331
+popularity 79.5
+title "Bird"
+width 19
+
+color a ffffff
+color b 000000
+color c 969696
+color d ff0000
+color e ffff99
+color f 6666ff
+color g 009999
+color h 990033
+
+rows
+f 5
+c 2 f 3
+f 1 c 3 f 2
+f 1 c 2 b 1 f 1
+f 4 c 1 d 2
+f 2 g 1 f 2 e 4 d 1
+f 2 g 1 f 1 e 6
+f 2 g 1 f 2 e 3 c 1 e 2
+f 1 g 1 f 1 e 3 c 3 e 2
+f 1 g 1 e 4 c 3 e 2 h 1
+e 1 h 1 e 1 c 3 e 2 h 2
+f 1 e 2 h 1 d 1 h 1 d 1 e 1 h 2
+f 1 g 3 e 3 h 1 h 2 h 2
+f 2 g 1 f 1 g 1 e 1 h 2 h 2 h 2
+f 2 g 1 f 1 g 1 f 1 h 2 h 1 h 4
+g 1 f 1 g 1 f 1 h 5 h 2
+f 1 g 2 f 1 h 8
+f 1 h 5
+h 4
+h 5
+h 6
+h 5
+
+columns
+f 1
+f 2 g 1 f 1
+f 1 f 2 g 1 f 1 g 1
+f 2 g 1 f 1 g 2 f 1 g 2 f 1
+f 2 g 1 e 3 g 1 f 1 g 1 f 2
+f 2 g 1 f 1 e 1 h 1 e 1 g 2 f 1
+f 2 g 1 f 1 e 3 h 1 e 2 h 2
+f 2 g 1 f 2 e 2 c 1 d 1 e 1 h 3
+c 1 f 1 f 2 e 3 c 2 h 1 e 1 h 2
+f 1 c 2 f 2 e 2 c 3 d 1 h 2 h 3
+f 1 c 2 e 3 c 2 e 2 h 7
+f 1 c 2 e 2 c 2 e 2 h 5
+f 2 b 1 c 1 e 5 h 7
+f 3 d 1 e 4 h 10
+f 3 d 2 h 4 h 1 h 3
+h 2 h 1 h 2
+h 2 h 2 h 2
+h 2
+h 1

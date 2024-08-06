@@ -1,0 +1,61 @@
+by "Marcus (aanet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marcus"
+date "Apr 12, 2008"
+description "Snoopy (author of "It was a dark and stormy night.."). I know there are at least two other Snoopy's on PBN, but I couldn't resist."
+difficulty 2.5
+height 20
+id 2634
+link "https://webpbn.com/play.cgi?id=2634"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "It was a dark and stormy night..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 black 3 black 2
+blue 2 black 2 black 3
+blue 2 black 2 black 2
+blue 2 black 1 black 1
+blue 1 black 2 black 2 black 1
+blue 2
+blue 2 black 1 black 1
+blue 1 black 2 black 3
+black 4 black 1 black 1 black 3
+black 1 black 3
+black 1 black 4
+black 1 black 4
+blue 1 black 1 black 4 black 4
+blue 1 black 1 black 3 black 4
+blue 1 black 2 black 4
+blue 2 black 2 black 1 black 3
+blue 2 black 7 black 2 black 2
+blue 7 black 2 black 1
+blue 3 black 5
+blue 3 black 2 black 2
+
+columns
+blue 4
+black 5 blue 2
+black 1 black 2 blue 2
+black 1 black 1 black 2 blue 1
+black 1 black 2 black 1 blue 1
+blue 4 black 1 black 2 black 1 blue 1
+blue 2 black 1 blue 2 black 2 black 2 black 1 blue 1 blue 1
+blue 3 black 1 black 2 black 1 blue 3
+blue 1 black 2 black 1 black 1 blue 3
+blue 1 black 2 black 2 blue 1 black 1
+black 2 black 1 black 1 black 3
+black 1 black 1 black 1
+black 1 black 1
+black 1
+black 4
+black 1 black 2 black 1
+black 2 black 5
+black 1 black 10
+black 2 black 11
+black 3 black 9

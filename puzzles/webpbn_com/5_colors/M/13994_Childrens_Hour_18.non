@@ -1,0 +1,63 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "May 19, 2011"
+description "Little Miss Muffet, sat on a tuffet, Eating her curds and whey; Along came a spider, who sat down beside her And frightened Miss Muffet away."
+difficulty 1.75
+height 20
+id 13994
+link "https://webpbn.com/play.cgi?id=13994"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Children's Hour 18"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 20
+green 20
+green 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 8 green 1
+green 1 blue 2 red 1 blue 2 blue 3 green 1 blue 1 green 1
+green 1 red 3 green 2 blue 2 blue 1 green 3 red 3 green 1
+green 1 green 3 blue 1 green 4 green 1
+green 1 green 3 blue 2 blue 2 green 1 black 1 green 1 green 1
+green 1 blue 1 black 1 blue 8 black 1 blue 1 green 1
+green 1 blue 1 black 1 blue 8 black 1 blue 1 green 1
+green 20
+red 3 green 17
+red 1 green 17
+red 1 green 17
+red 1 green 2 green 14
+green 1 blue 3 green 2 green 10
+green 1 blue 2 green 4 green 11
+green 1 blue 4 green 1 red 4 green 3 black 6 green 1
+red 4 blue 1 green 1 red 4 green 2 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1
+red 4 black 1 green 1 red 4 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+
+columns
+green 11 red 4 green 3 red 2
+green 2 red 1 green 1 red 1 blue 3 red 2
+green 2 red 1 green 1 red 1 green 1 blue 3 red 2
+green 2 red 1 green 5 blue 1 green 1 blue 1 red 2
+green 2 blue 2 green 3 blue 2 green 4 green 2 blue 2 black 1
+green 2 red 1 blue 1 green 3 black 2 green 4 green 5
+green 2 blue 1 red 1 blue 1 green 2 blue 2 green 5 green 1 red 3
+green 2 red 1 blue 6 green 5 red 3
+green 2 blue 2 blue 3 green 5 red 3
+green 2 blue 1 blue 2 green 5 green 1 red 3
+green 2 blue 1 blue 2 green 10
+green 2 blue 2 blue 3 green 9 black 1
+green 2 blue 3 green 1 blue 3 green 8 black 1 green 1
+green 2 blue 2 green 3 blue 2 green 7 black 1 green 1 black 1
+green 2 blue 1 green 3 black 3 green 7 black 2 green 1
+green 2 blue 2 green 3 blue 2 green 7 black 1 green 1 black 1
+green 2 red 1 green 7 black 2 green 1
+green 2 red 1 green 7 black 1 green 1 black 1
+green 2 red 1 green 7 black 2 green 1
+green 19 black 1

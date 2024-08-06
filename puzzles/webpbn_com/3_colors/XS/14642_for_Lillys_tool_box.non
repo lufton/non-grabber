@@ -1,0 +1,46 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jun 15, 2011"
+description "one of those level line laser things"
+difficulty 1.25
+height 5
+id 14642
+link "https://webpbn.com/play.cgi?id=14642"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "for Lilly's tool box"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 5 black 1 red 1 red 1 red 1 red 1 red 1
+black 6 red 1
+black 5 red 1
+black 5 red 1
+
+columns
+0
+0
+red 1 black 3
+red 1 black 3
+red 1 black 3
+red 1 black 3
+red 1 black 3
+black 2
+0
+red 1
+0
+red 1
+0
+red 1
+0
+red 1
+0
+0
+red 4
+0

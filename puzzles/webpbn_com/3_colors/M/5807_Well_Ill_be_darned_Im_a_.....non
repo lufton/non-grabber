@@ -1,0 +1,61 @@
+by "judy (jbreese)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by judy"
+date "May  6, 2009"
+description "sugar bowl, not a teapot! Inspired by #5795 - but put both hands on the hips!"
+difficulty 1.5
+height 20
+id 5807
+link "https://webpbn.com/play.cgi?id=5807"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Well, I'll be darned, I'm a ...."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 4
+black 8
+black 1 red 8 black 1
+black 1 red 10 black 1
+black 5 red 8 black 5
+black 1 red 1 black 1 black 1 red 1 black 8 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 10 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 10 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 10 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 10 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 10 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 10 black 1 black 3
+black 2 black 1 red 10 black 1 black 2
+black 3 red 10 black 3
+black 1 red 10 black 2
+black 1 red 8 black 2
+black 10
+black 14
+black 14
+
+columns
+black 7
+black 1 red 7 black 1
+black 10
+black 1 black 1 black 2
+black 12 black 2
+black 1 red 1 black 1 red 10 black 4
+black 1 red 3 black 1 red 10 black 3
+black 1 red 3 black 1 red 10 black 3
+black 2 red 3 black 1 red 10 black 3
+black 3 red 3 black 1 red 10 black 3
+black 3 red 3 black 1 red 10 black 3
+black 2 red 3 black 1 red 10 black 3
+black 1 red 3 black 1 red 10 black 3
+black 1 red 3 black 1 red 10 black 3
+black 1 red 1 black 1 red 10 black 4
+black 13 black 2
+black 1 black 2 black 2
+black 10
+black 1 red 6 black 2
+black 7

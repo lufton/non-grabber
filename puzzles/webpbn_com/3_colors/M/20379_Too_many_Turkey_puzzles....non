@@ -1,0 +1,61 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Nov 15, 2012"
+description "Turkey-ish coffee"
+difficulty 2.5
+height 20
+id 20379
+link "https://webpbn.com/play.cgi?id=20379"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Too many Turkey puzzles..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+black 3 black 2
+black 3 black 2
+black 2 black 2 black 2 black 2
+black 1 red 1 black 2 black 2 red 1 black 1
+black 3 black 3 black 2 black 2
+black 1 black 2 black 1 black 1 black 1 black 1 black 5
+black 1 black 2 black 2 black 1 black 1
+black 1 black 3 black 3 black 1 black 1
+black 1 black 7 black 1 black 1
+black 2 black 1 black 1
+black 1 black 2 black 1
+black 2 black 1 black 1
+black 1 black 5
+black 2 black 1
+black 2 black 2
+black 1 black 2
+black 2 black 1
+black 2 black 2
+black 5
+
+columns
+black 8
+black 2 black 1 black 3
+black 1 black 2 black 3
+black 2 black 2 black 2
+black 1 black 2 black 1
+black 2 black 1 black 1 black 2
+black 1 black 1 red 1 black 1 black 2 black 2
+black 1 black 2 black 1 black 2
+black 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 3 black 1 black 2
+black 1 black 2 black 2 black 3
+black 1 black 1 red 1 black 1 black 1 black 2
+black 2 black 1 black 2 black 1
+black 2 black 2 black 2
+black 2 black 2 black 3
+black 9 black 1
+black 1 black 1
+black 8

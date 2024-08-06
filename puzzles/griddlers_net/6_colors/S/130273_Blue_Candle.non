@@ -1,0 +1,49 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/2/12"
+height 19
+id 130273
+link "https://www.griddlers.net/nonogram/-/g/130273"
+medium_time "0:01:44"
+points 304
+popularity 63.99
+title "Blue Candle"
+width 7
+
+color a ffffff
+color b 9c3100
+color c ffff66
+color d ff5a08
+color e 0000c6
+color f ccffff
+
+rows
+b 1
+b 1 c 1 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 2 d 1 c 1 b 1
+b 1 c 2 d 1 c 1 b 1
+b 1 d 3 b 1
+b 1 d 1 b 1
+b 1
+e 2 b 1 e 2
+e 2 f 3 e 2
+e 1 f 1 e 3 f 1 e 1
+e 1 f 1 f 3 e 1
+e 1 f 1 f 3 e 1
+e 1 f 1 f 3 e 1
+e 1 f 1 f 3 e 1
+e 1 f 1 f 3 e 1
+e 1 f 1 f 3 e 1
+e 7
+
+columns
+e 9
+b 3 e 2 f 7 e 1
+b 2 c 2 d 1 b 1 e 1 f 1 e 1 e 1
+b 1 c 4 d 2 b 2 f 1 e 1 f 6 e 1
+b 1 c 3 d 3 b 1 e 1 f 1 e 1 f 6 e 1
+b 1 c 4 b 1 e 2 f 7 e 1
+b 4 e 9

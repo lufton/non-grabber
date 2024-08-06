@@ -1,0 +1,49 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/21/13"
+height 12
+id 139755
+link "https://www.griddlers.net/nonogram/-/g/139755"
+medium_time "0:03:23"
+points 840
+popularity 82.5
+title "Tiny Bird"
+width 12
+
+color a 46ea46
+color b 212463
+color c 398ee7
+color d ffffff
+color e 181c18
+color f 841818
+color g f7eb4a
+color h c67d31
+
+rows
+b 3
+b 1 c 3 b 1
+b 2 b 1 c 1 d 4 b 1
+b 1 c 1 b 1 b 1 c 1 d 2 e 1 d 1 b 1
+b 1 c 2 b 2 d 5 f 2
+b 1 c 3 b 2 d 3 b 1
+b 1 c 6 b 2
+b 2 c 2 g 3 h 1
+b 1 c 1 g 4 h 1
+b 3 c 1 g 3 h 1
+b 1 c 2 b 1 h 3
+b 2
+
+columns
+b 5 b 2
+b 1 c 4 b 1 b 1 c 1 b 1
+b 1 c 3 b 3 c 1 b 1
+b 1 c 5 b 1
+b 4 c 2 g 2 h 1
+b 1 c 2 d 1 b 1 c 1 g 3 h 1
+b 1 c 1 d 4 c 1 g 3 h 1
+b 1 c 1 d 4 b 1 g 2 h 1
+b 1 c 1 d 1 e 1 d 2 b 1 h 2
+b 1 d 3 b 1
+b 2 f 1
+f 1

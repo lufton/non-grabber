@@ -1,0 +1,53 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/20/13"
+height 20
+id 135171
+link "https://www.griddlers.net/nonogram/-/g/135171"
+medium_time "0:02:39"
+points 359
+popularity 67.7
+title "Dutch Mailman"
+width 10
+
+color a 5ebbe6
+color b 000000
+color c efc3c6
+color d 8c7552
+color e ef8a4a
+color f e7e3e7
+
+rows
+b 3
+b 5
+b 7
+c 3 d 2
+c 3 d 2
+c 1 b 2
+b 2 e 2
+b 1 e 4
+f 2 e 4 b 1
+f 2 c 1 e 4 b 3
+f 1 c 2 e 3 b 2 e 1 b 1
+b 2 e 2 b 1
+b 1 e 2 b 2
+b 3
+b 3
+b 3
+b 3
+d 3
+d 4
+d 4
+
+columns
+f 2
+f 2 c 1
+f 1 c 2
+b 1 e 2
+b 1 e 2
+b 2 c 2 b 1 e 3 b 2 d 2
+b 3 c 3 b 1 e 3 b 2 e 1 b 4 d 3
+b 3 c 2 b 2 e 2 b 2 e 2 b 4 d 3
+b 3 d 2 b 1 e 3 b 1 e 2 b 5 d 3
+b 2 d 2 e 2 b 5

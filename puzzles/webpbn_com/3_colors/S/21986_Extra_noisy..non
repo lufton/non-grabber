@@ -1,0 +1,51 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "May 20, 2013"
+description "Whooping crane. (Suggested by Aldege's puzzle.)"
+difficulty 1.25
+height 10
+id 21986
+link "https://webpbn.com/play.cgi?id=21986"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Extra noisy."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 8
+black 1 black 2 black 6
+black 2 black 2 black 1 black 3
+blue 4 black 2 black 1 black 3
+blue 1 blue 1 black 8
+blue 1 blue 1 black 6
+blue 1 blue 2 black 6
+blue 2 black 9
+black 9
+
+columns
+0
+black 3
+black 1 black 1
+black 1 blue 1
+black 1 blue 5
+black 1 blue 1
+black 1 blue 1 blue 1
+black 1 blue 4
+black 2
+black 2
+black 2
+black 2 black 2
+black 1 black 2
+black 8
+black 1 black 5
+black 1 black 5
+black 8
+black 8
+black 8
+black 2

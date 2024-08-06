@@ -1,0 +1,91 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by harris harris"
+date "Mar 23, 2008"
+description "Chile"
+difficulty 1.25
+height 30
+id 2506
+link "https://webpbn.com/play.cgi?id=2506"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "who's flag # 10"
+width 40
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 15
+blue 15
+blue 7 blue 7
+blue 7 blue 7
+blue 6 blue 6
+blue 5 blue 5
+blue 2 blue 2
+blue 3 blue 3
+blue 4 blue 4
+blue 5 blue 5
+blue 4 blue 1 blue 4
+blue 3 blue 5 blue 3
+blue 2 blue 9 blue 2
+blue 15
+blue 15
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+
+columns
+blue 15 black 15
+blue 15 black 15
+blue 6 blue 5 blue 2 black 15
+blue 6 blue 3 blue 3 black 15
+blue 6 blue 1 blue 3 black 15
+blue 5 blue 4 black 15
+blue 4 blue 4 black 15
+blue 2 blue 5 black 15
+blue 4 blue 4 black 15
+blue 5 blue 4 black 15
+blue 6 blue 1 blue 3 black 15
+blue 6 blue 3 blue 3 black 15
+blue 6 blue 5 blue 2 black 15
+blue 15 black 15
+blue 15 black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15

@@ -1,0 +1,108 @@
+by "Gitte Olesen (granny40)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Gitte Olesen"
+date "Nov 25, 2006"
+description "Aladdinâs magic lamp from which he can summon a genie."
+difficulty 3.0
+height 50
+id 628
+link "https://webpbn.com/play.cgi?id=628"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Fairy-like"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 2 blue 2
+black 3 blue 1 blue 2 blue 2 blue 1
+black 2 blue 2 blue 5 blue 3
+black 4 blue 2 black 1 blue 6 blue 2
+black 3 blue 4 black 1 blue 1 blue 7
+blue 3 blue 3 black 1 blue 2 blue 1 blue 6
+blue 3 blue 2 black 1 blue 1 blue 1 blue 4
+blue 6 blue 1 black 1 blue 2 blue 4
+blue 6 black 1 blue 5 blue 5
+green 2 blue 3 blue 3 blue 1 black 1 blue 9
+green 1 green 1 blue 2 blue 2 blue 1 black 2 blue 2 blue 6
+green 3 blue 4 blue 1 black 2 blue 2 blue 4 blue 1
+blue 1 black 2 blue 6 black 2 blue 2 blue 6
+blue 5 black 3 blue 2 black 4 blue 2 blue 4 blue 1
+blue 9 black 8 blue 7 blue 2
+blue 16 black 4 blue 5 blue 3
+blue 20 black 1 blue 10
+blue 20 black 2 blue 11
+blue 8 blue 24
+blue 9 blue 24
+blue 10 blue 23
+blue 1 blue 8 blue 15 blue 2
+blue 2 blue 11 blue 13 blue 3
+blue 2 blue 7 blue 13 blue 3
+blue 3 blue 5 blue 10 blue 1 blue 3
+blue 3 blue 2 blue 2 blue 10 blue 1 blue 1 blue 2
+blue 3 blue 1 blue 1 blue 9 blue 1 blue 3
+red 1 blue 6 blue 1 blue 1 blue 8 blue 3 blue 2
+red 3 blue 5 blue 12 blue 3
+blue 2 red 3 blue 15 blue 4
+blue 4 red 3 blue 13 blue 8
+blue 5 red 1 blue 22
+blue 6 blue 15
+blue 6 blue 5
+blue 7
+blue 8
+blue 9
+blue 8
+blue 3
+blue 3
+blue 4
+blue 3
+blue 2
+blue 1
+black 2 black 2 black 2
+black 7 black 1
+black 7
+black 2
+black 4
+
+columns
+blue 5 blue 3
+blue 5 blue 1 blue 5
+blue 6 blue 2 red 1 blue 6
+blue 7 blue 2 red 3 blue 5
+blue 1 blue 9 blue 1 blue 1 red 3 blue 5
+blue 2 blue 9 blue 1 blue 2 red 3 blue 4
+blue 3 blue 10 blue 1 blue 3 red 1 blue 4
+black 3 blue 3 green 3 blue 11 blue 7 blue 3
+black 4 blue 1 blue 2 green 1 green 1 blue 5 blue 5 blue 7 blue 4
+black 1 black 2 blue 5 green 2 blue 6 blue 5 blue 6 blue 3 blue 2
+black 2 black 1 blue 6 blue 9 blue 5 blue 3 blue 3 blue 4 black 1
+black 2 blue 1 black 2 blue 5 black 1 blue 8 blue 6 blue 3 blue 3 blue 2 black 2
+blue 3 blue 1 blue 2 black 2 blue 7 blue 3 blue 5 blue 2 blue 2 black 1
+blue 5 black 1 blue 2 black 2 blue 6 blue 1 blue 2 blue 6 blue 5 black 2
+blue 2 black 2 blue 3 blue 1 black 2 blue 6 blue 1 blue 2 blue 5 blue 4 black 2 black 1
+blue 2 black 1 blue 3 blue 2 black 1 blue 6 blue 1 blue 5 blue 2 black 5
+blue 5 blue 2 black 1 blue 7 blue 10 black 5
+blue 2 blue 1 black 2 blue 19 black 2 black 1
+blue 5 black 3 blue 18 black 1 black 1
+black 7 blue 18 black 3
+blue 1 black 6 blue 1 black 1 blue 12 blue 3
+blue 6 black 3 blue 11 blue 3
+blue 20 blue 3
+blue 2 blue 1 blue 15 blue 3
+blue 3 blue 19 blue 3
+blue 24 blue 1 blue 3
+blue 22 blue 1 blue 3
+blue 14 blue 8 blue 1 blue 1 blue 3
+blue 2 blue 8 blue 1 blue 8 blue 1 blue 1 blue 3
+blue 1 blue 4 blue 13 blue 1 blue 3
+blue 2 blue 2 blue 8 blue 1 blue 4
+blue 3 blue 5 blue 7
+blue 1 blue 10
+blue 5
+0

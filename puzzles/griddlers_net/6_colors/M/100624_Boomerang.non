@@ -1,0 +1,54 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/6/10"
+height 16
+id 100624
+link "https://www.griddlers.net/nonogram/-/g/100624"
+medium_time "0:03:15"
+points 2620
+popularity 55.05
+title "Boomerang"
+width 15
+
+color a ffff00
+color b 0033ff
+color d ffffff
+color e acffff
+color f 68c4ff
+color g ff0848
+
+rows
+b 5
+b 1 d 1 e 4 b 3
+b 1 d 1 e 2 f 3 e 3 b 3
+b 1 d 1 e 1 f 1 b 2 f 4 e 3 b 1
+b 1 d 1 e 1 b 1 b 3 f 4 e 1 b 1
+b 1 f 2 b 1 b 3 f 2 b 1
+b 1 d 1 g 1 b 1 b 2
+b 1 f 2 b 1
+b 1 d 1 g 1 b 1
+b 1 f 2 b 1
+b 1 d 1 e 1 b 1
+b 1 d 1 e 1 b 1
+b 1 d 1 e 1 b 1
+b 1 d 1 e 1 b 1
+b 1 e 1 f 1 b 1
+b 2
+
+columns
+b 13
+b 1 d 3 f 1 d 1 f 1 d 1 f 1 d 4 e 1 b 1
+b 1 d 1 e 3 f 1 g 1 f 1 g 1 f 1 e 4 f 1 b 1
+b 1 e 2 f 1 b 11
+b 1 e 1 f 1 b 1
+b 1 e 1 f 1 b 1
+b 1 e 1 f 2 b 1
+b 1 e 1 f 1 b 1
+b 1 e 1 f 1 b 1
+b 1 e 1 f 2 b 1
+b 1 e 1 f 1 b 1
+b 1 e 1 f 1 b 1
+b 1 e 1 f 2 b 1
+b 1 e 1 f 1 b 1
+b 2

@@ -1,0 +1,97 @@
+by "Julia Andrea (Juli89)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Julia Andrea"
+date "May  6, 2008"
+description "Ok, this is my first puzzle, I hope it is fun to solve (solvable at least). I hope you know the answer to this memorable equation, too ;)"
+difficulty 3.25
+height 30
+id 2743
+link "https://webpbn.com/play.cgi?id=2743"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "A little bit of Newton"
+width 50
+
+rows
+50
+2,44,2
+1,44,1
+4,4
+3,3,3
+3,2,2,2,1,3
+3,3,2,3,3,3
+3,3,2,3,1,3
+3,2,2,2,3,3
+3,2,2,2,3
+3,2,5,2,2,2,3
+3,2,2,2,2,2,2,3
+3,2,2,2,2,6,2,3
+3,2,2,2,2,7,2,4,3
+3,2,2,2,8,2,2,2,3
+3,2,2,2,8,2,1,2,4,3
+3,2,2,2,2,2,1,2,3
+3,2,2,2,2,2,2,2,3
+3,2,2,3,2,7,2,3
+3,2,5,3,2,6,2,3
+3,2,2,3
+3,2,2,3
+3,3,3,3
+3,3,3,3
+3,2,2,3
+3,3
+4,4
+1,44,1
+2,44,2
+50
+
+columns
+30
+2,24,2
+1,24,1
+4,4
+3,3
+3,12,3
+3,16,3
+3,3,3,3
+3,3,4,3,3
+3,2,6,2,3
+3,2,2,3
+3,2,2,3
+3,1,1,3
+3,1,1,3
+3,1,1,3
+3,2,2,3
+3,2,2,3
+3,8,3
+3,4,1,3
+3,1,3
+3,3
+3,2,3
+3,2,3
+3,2,3
+3,10,3
+3,10,3
+3,2,3
+3,2,3
+3,2,3
+3,3
+3,15,3
+3,15,3
+3,2,2,3
+3,2,2,3
+3,2,2,3
+3,3,3,3
+3,2,6,2,3
+3,3,3,3
+3,3,3,3
+3,16,3
+3,12,3
+3,3
+3,1,3,1,1,3
+3,1,1,1,1,1,3
+3,3,1,1,1,3
+3,1,1,3
+4,4
+1,24,1
+2,24,2
+30

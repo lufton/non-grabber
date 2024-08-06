@@ -1,0 +1,41 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sarah Andrews"
+date "Dec 26, 2010"
+description "You can predict the weather correctly 100% of the time. Guaranteed or your money back. Easy to use. Order now: Sarah's Missouri Weather Rock. See first comment for details."
+difficulty 1.25
+height 10
+id 11569
+link "https://webpbn.com/play.cgi?id=11569"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "how to predict the weather"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+black 2 red 1 black 3
+black 3 red 1 black 4
+black 3 red 1 black 4
+black 2 red 1 black 3
+0
+
+columns
+0
+black 2
+black 4
+black 4
+red 9
+red 1 black 4
+red 5 black 4
+black 4
+black 2
+0

@@ -1,0 +1,62 @@
+by "Mary Abrams ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Mary Abrams"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 20
+id 25867
+link "https://webpbn.com/play.cgi?id=25867"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "My Winter"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 black 4
+black 6 black 2
+black 7 black 1 black 4
+black 1 black 11
+black 5 black 2
+black 3 black 1
+black 9
+black 11
+black 14
+black 4 black 4 black 4
+black 3 black 4 black 3
+black 2 black 4
+black 1 black 4
+black 4
+red 4 black 4
+red 4 blue 3 black 4
+red 2 blue 5 black 4 blue 3
+blue 8 black 4 blue 4
+blue 8 black 4 blue 7
+blue 8 black 4 blue 8
+
+columns
+blue 3
+red 2 blue 3
+black 4 red 3 blue 3
+black 2 black 4 red 2 blue 4
+black 2 black 3 red 2 blue 4
+black 3 black 3 red 1 blue 5
+black 3 black 2 blue 5
+black 3 black 3 blue 5
+black 4 black 14
+black 19
+black 17
+black 19
+black 2 black 2 black 3 blue 4
+black 1 black 2 black 3 blue 4
+black 1 black 2 black 4 blue 4
+black 1 black 2 black 5 blue 3
+black 2 black 3 blue 2
+black 2 black 2 blue 2
+black 3 blue 2
+blue 1

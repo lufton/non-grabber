@@ -1,0 +1,104 @@
+by "luweewu"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/2/08"
+height 50
+id 58971
+link "https://www.griddlers.net/nonogram/-/g/58971"
+medium_time "0:12:34"
+points 86471
+popularity 78.5
+title "The Doctor's Ride"
+width 29
+
+color a 0000d2
+color b 000000
+color c ffffff
+color d ebeb00
+color e 000093
+color f 990099
+color g 00ffff
+color h 0000ff
+
+rows
+f 12 f 12
+f 13 g 3 f 13
+f 13 g 3 f 13
+f 12 f 12
+f 8 f 8
+f 5 f 5
+f 2 f 2
+b 27
+b 1 c 10 b 2 c 5 b 2 c 6 b 1
+b 1 c 10 b 3 c 3 b 3 c 6 b 1
+b 27
+f 1 e 24 e 2 f 1
+f 1 e 1 h 1 f 1
+f 1 e 1 h 22 f 1
+f 1 e 1 h 1 e 1 h 1 f 1
+f 1 e 1 b 7 h 1 e 1 b 7 h 1 f 1
+f 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 f 1
+f 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 f 1
+f 1 e 1 b 7 h 1 e 1 b 7 h 1 f 1
+f 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 f 1
+f 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 1 f 1
+f 1 e 1 b 7 h 1 e 1 b 7 h 1 f 1
+f 1 e 1 h 1 e 1 h 1 f 1
+f 1 e 1 e 5 h 1 e 1 e 6 h 1 h 1 f 1
+f 1 e 1 e 1 b 5 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 b 5 h 1 d 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 b 5 h 1 d 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 b 5 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 b 5 h 1 h 1 e 1 d 1 e 1 h 1 h 1 f 1
+f 1 e 1 h 5 h 1 e 1 d 1 e 1 h 6 h 1 f 1
+f 1 e 1 h 1 e 1 h 1 f 1
+f 1 e 1 e 6 h 1 h 1 e 1 e 6 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 6 h 1 e 1 e 1 h 6 h 1 f 1
+f 1 e 1 h 1 e 1 h 1 f 1
+f 1 e 1 h 1 e 1 h 1 f 1
+f 1 e 1 e 6 h 1 h 1 e 1 e 6 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 1 h 1 e 1 e 1 h 1 h 1 f 1
+f 1 e 1 e 1 h 6 h 1 e 1 e 1 h 6 h 1 f 1
+f 1 e 1 h 1 e 1 h 1 f 1
+f 1 h 2 e 22 h 3 f 1
+0
+
+columns
+f 7 f 38
+f 7 b 4 e 1 h 1
+f 6 b 1 c 2 b 1 e 1 h 1
+f 6 b 1 c 2 b 1 e 38
+f 6 b 1 c 2 b 1 e 1 h 1 e 1
+f 5 b 1 c 2 b 1 e 1 h 1 b 7 e 5 e 7 e 7 e 1
+f 5 b 1 c 2 b 1 e 1 h 1 b 1 c 2 b 1 c 2 b 1 e 1 b 5 h 1 e 1 h 1 e 1 h 1 e 1
+f 5 b 1 c 2 b 1 e 1 h 1 b 7 e 1 b 5 h 1 e 1 h 1 e 1 h 1 e 1
+f 4 b 1 c 2 b 1 e 1 h 1 b 1 c 2 b 1 c 2 b 1 e 1 b 5 h 1 e 1 h 1 e 1 h 1 e 1
+f 4 b 1 c 2 b 1 e 1 h 1 b 7 e 1 b 5 h 1 e 1 h 1 e 1 h 1 e 1
+f 4 b 1 c 2 b 1 e 1 h 1 b 1 c 2 b 1 c 2 b 1 e 1 b 5 h 1 e 1 h 1 e 1 h 1 e 1
+f 4 b 1 c 2 b 1 e 1 h 1 b 7 h 5 h 7 h 7 e 1
+f 2 b 4 e 1 h 1 d 2 e 1
+g 2 b 4 e 1 h 35 e 1
+g 2 b 1 c 1 b 2 e 1 h 1 e 1
+g 2 b 1 c 2 b 1 e 1 h 1 e 35
+f 2 b 1 c 2 b 1 e 1 h 1 d 2 e 1
+f 4 b 1 c 2 b 1 e 1 h 1 b 7 e 7 e 7 e 7 e 1
+f 4 b 1 c 1 b 2 e 1 h 1 b 1 c 2 b 1 c 2 b 1 e 1 h 1 e 1 h 1 e 1 h 1 e 1
+f 4 b 4 e 1 h 1 b 7 e 1 h 1 e 1 h 1 e 1 h 1 e 1
+f 4 b 4 e 1 h 1 b 1 c 2 b 1 c 2 b 1 e 1 h 1 e 1 h 1 e 1 h 1 e 1
+f 5 b 1 c 2 b 1 e 1 h 1 b 7 e 1 h 1 e 1 h 1 e 1 h 1 e 1
+f 5 b 1 c 2 b 1 e 1 h 1 b 1 c 2 b 1 c 2 b 1 e 1 h 1 e 1 h 1 e 1 h 1 e 1
+f 5 b 1 c 2 b 1 e 1 h 1 b 7 h 7 h 7 h 7 e 1
+f 6 b 1 c 2 b 1 e 1 h 1 e 1
+f 6 b 1 c 2 b 1 h 37
+f 6 b 1 c 2 b 1 e 1 h 1
+f 7 b 4 e 1 h 1
+f 7 f 38

@@ -1,0 +1,62 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jun 20, 2014"
+description ""
+difficulty 1.5
+height 15
+id 24862
+link "https://webpbn.com/play.cgi?id=24862"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Rock Song 16"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 18
+black 1 black 2
+black 1 red 13 black 2
+black 1 red 1 red 1 black 2
+black 1 red 1 blue 3 blue 4 blue 3 red 1 black 5
+black 1 red 1 blue 1 blue 1 blue 1 blue 1 red 1 black 5
+black 1 red 1 blue 1 blue 1 blue 1 blue 1 red 1
+black 1 red 1 blue 3 blue 1 blue 1 blue 3 red 1
+black 1 red 1 blue 1 blue 1 blue 1 blue 1 red 1
+black 1 red 1 blue 1 blue 1 blue 1 blue 1 red 1 black 5
+black 1 red 1 blue 3 blue 4 blue 3 red 1 black 5
+black 1 red 1 red 1 black 2
+black 1 red 15 black 2
+black 1 black 2
+black 18
+
+columns
+black 15
+black 1 black 1
+black 1 red 10 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 blue 4 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 4 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 blue 7 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 7 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 blue 4 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 4 red 1 black 1
+black 1 red 10 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2

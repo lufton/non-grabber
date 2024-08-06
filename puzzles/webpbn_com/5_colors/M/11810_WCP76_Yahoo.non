@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 17, 2011"
+description "Not every clown works for the circus."
+difficulty 2.0
+height 20
+id 11810
+link "https://webpbn.com/play.cgi?id=11810"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "WCP#76 Yahoo!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+red 3 red 3
+red 4 red 4
+red 1 black 4 red 4
+black 5 black 3 black 3 red 1
+black 2 black 1 black 1
+black 2 black 4 black 4 red 1
+black 4 black 1 black 4 black 1
+red 1 black 1 black 1 black 1
+black 2 black 1 black 1
+black 1 black 1 black 1 green 1 blue 2
+black 1 black 1 green 2 blue 2
+black 1 black 1 blue 1 green 2 blue 1
+black 2 black 2
+black 4
+0
+
+columns
+black 4 red 1 black 2
+black 6
+black 1 black 1
+black 1 black 1
+black 1
+0
+black 8
+red 2 black 1 black 1 black 1
+red 3 black 1 black 1 black 1
+red 2 black 2 black 2 black 1
+red 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 2 black 1
+red 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1
+red 4 black 8
+red 3 red 1 green 2 blue 1
+red 2 blue 1 green 2
+blue 2 green 1
+blue 2

@@ -1,0 +1,75 @@
+by "willem"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/2/09"
+height 26
+id 82291
+link "https://www.griddlers.net/nonogram/-/g/82291"
+medium_time "0:16:55"
+points 20441
+popularity 78.2
+title "Sherlock Holmes"
+width 24
+
+color a ffffff
+color b 000000
+color c 99dc33
+color d ffd2b1
+color e 668400
+color f ffab77
+color g d29c4a
+color h 996633
+
+rows
+b 3
+b 1 c 2 b 5
+b 2 c 1 b 1 e 2 b 1
+b 1 c 1 b 5
+b 2 b 1 c 3 e 2 b 1
+b 1 d 2 b 1 b 1 e 1 c 3 e 3 b 1
+b 1 d 1 f 1 b 1 b 1 c 5 e 2 b 1
+b 1 d 3 f 1 b 1 b 1 e 1 c 5 e 3 b 1
+b 1 f 2 b 1 b 1 e 1 c 5 e 3 b 1
+b 2 b 10 e 1 b 1
+b 2 c 6 e 3 b 2
+b 1 c 6 e 3 b 1 f 1 b 2
+b 2 b 1 c 5 e 4 b 1 f 3 b 2
+b 1 d 2 b 1 b 1 e 7 b 2 d 2 f 2 b 1 e 1 b 1
+b 1 d 1 f 1 b 1 b 8 d 1 b 2 d 2 f 2 b 2
+b 2 b 1 d 2 b 2 d 3 b 2 d 2 f 2 b 2
+b 1 d 11 f 2 b 1
+b 7 b 1 d 4 b 1 d 6 f 2 b 1
+b 1 g 1 g 2 b 1 b 1 d 2 b 1 d 7 f 3 b 1
+b 1 g 2 h 1 b 1 b 2 h 1 b 1 d 5 f 3 b 1
+b 1 g 2 h 1 b 1 b 1 h 1 b 1 f 1 b 3 d 1 f 4 b 1
+b 1 g 3 h 1 b 3 h 1 b 1 f 9 b 1
+b 1 h 1 g 5 h 1 b 1 b 2 f 5 b 2
+b 1 h 5 b 1 b 1 e 2 b 5 e 2 b 1
+b 5 b 1 c 3 e 3 b 1 e 4 b 1
+b 1 c 5 e 2 b 1 c 3 e 2 b 1
+
+columns
+b 2
+b 2 b 2 b 1 g 1 b 4
+b 1 d 2 b 1 b 1 d 2 b 1 b 1 g 3 h 1 b 1
+b 1 d 1 d 1 f 1 b 1 b 1 d 1 f 1 b 1 b 1 g 4 h 1 b 1
+b 1 d 1 d 1 f 1 b 1 b 2 b 1 g 1 h 2 g 2 h 1 b 1
+b 1 f 2 b 1 b 1 g 1 b 2 h 1 g 1 h 1 b 1
+b 2 b 2 b 1 g 1 h 1 b 1
+b 3 b 1 g 1 h 1 b 1
+b 2 c 1 e 1 b 5 b 1 h 1 b 1 b 1
+b 2 c 2 e 1 b 1 d 4 b 2 h 1 b 1 b 1 c 1
+b 3 c 3 e 1 b 1 d 4 b 1 h 1 b 1 b 1 c 2
+b 2 e 2 b 1 c 3 e 1 b 2 d 2 b 1 h 1 b 1 f 1 b 1 e 1 c 2
+b 1 e 1 c 3 b 1 c 3 e 1 b 2 d 3 b 1 f 2 b 1 e 1 c 2
+b 2 b 1 c 5 b 1 c 2 e 2 b 1 d 2 b 1 d 2 b 1 f 2 b 1 e 1 c 1
+b 1 c 1 b 1 c 6 b 1 c 2 e 2 b 1 d 5 b 1 f 2 b 1 e 2
+b 1 c 1 b 2 c 5 b 1 c 1 e 2 b 1 d 6 b 1 f 2 b 1 e 2
+b 1 c 1 b 1 e 2 c 3 b 1 e 3 b 3 d 5 f 2 b 3
+b 3 e 5 b 1 e 2 b 1 d 1 b 2 d 4 f 3 b 1 e 1 c 1
+b 1 e 1 b 2 e 4 b 1 e 1 b 1 f 1 d 6 f 3 b 1 e 2 c 1
+b 1 e 1 b 1 b 2 e 3 b 1 f 3 d 4 f 4 b 1 e 2 c 1
+b 2 b 5 f 9 b 1 b 1 e 2
+b 3 f 5 b 2 b 1 e 1
+b 1 e 1 b 5 b 1
+b 3

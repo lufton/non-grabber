@@ -1,0 +1,63 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "May 19, 2011"
+description ""
+difficulty 1.5
+height 20
+id 13990
+link "https://webpbn.com/play.cgi?id=13990"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "World scramble - 7"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 black 5
+blue 2 black 3
+red 1 blue 2 black 1 black 1
+red 1 blue 2 black 1 blue 2 black 1
+red 1 blue 2 green 2 blue 3 black 1
+red 6 blue 2 green 4 blue 3 black 2
+red 6 blue 2 green 2 blue 3 green 1
+blue 2 blue 3 green 1
+black 1 blue 2 blue 3
+black 1 blue 5
+black 1 blue 5
+black 1 black 3 blue 6
+black 2 black 1 blue 2 green 2 blue 3 green 1
+black 2 black 1 blue 2 green 3 blue 3 green 1
+black 2 black 1 blue 2 green 2 blue 3
+black 1 black 3 blue 2 blue 3
+blue 2 blue 3
+blue 2 blue 3
+blue 2 blue 3
+blue 2 blue 2
+
+columns
+red 2 black 8
+red 2 black 3
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 5 black 3
+blue 20
+blue 20
+green 2 blue 3 green 2
+green 2 blue 4 green 2
+green 2 blue 6 green 2
+green 2 blue 3 blue 3 green 1
+blue 3 blue 3
+black 1 black 2 blue 3 blue 3
+black 2 blue 3 green 2 green 2 blue 3
+black 2 blue 2 black 1 blue 3
+black 2 black 1 blue 3
+black 1 black 3 blue 3
+blue 2
+0

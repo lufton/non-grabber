@@ -1,0 +1,63 @@
+by "Aiden Ambrey (aidenpaden)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Aiden Ambrey"
+date "Sep 14, 2007"
+description "A house being fixed and the thing leaning on it is a ladder <(*-*)>"
+difficulty 1.5
+height 20
+id 1372
+link "https://webpbn.com/play.cgi?id=1372"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "working on the house"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 red 1 black 2 red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 1 black 2
+red 1 black 1 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2
+black 3 red 1 black 2 red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+red 1 black 6 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 3 black 1 red 1
+black 20
+black 1 black 1
+black 1 black 1 black 9
+black 1 black 1 black 1 blue 3 black 1 blue 3 black 1
+black 5 black 1 blue 3 black 1 blue 3 black 1
+black 5 black 9
+black 1 black 1 black 1 blue 3 black 1 blue 3 black 1
+black 1 black 1 black 1 blue 3 black 1 blue 3 black 1
+black 1 black 1 black 9
+black 5
+black 5
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 5 black 1 black 2 black 3
+black 8 green 1 black 2 green 1 black 4 green 2 black 1
+
+columns
+black 1 red 1 black 1 red 1 black 1
+black 20
+black 1 red 1 black 3 black 2 black 2 black 2
+red 1 black 1 red 1 black 2 black 2 black 2 black 2
+black 1 red 1 black 3 black 2 black 2 black 2
+black 20
+red 1 black 1 red 1 black 2 black 1
+black 1 red 1 black 1 red 1 black 1 black 1
+red 1 black 1 red 1 black 2 black 1
+black 1 red 1 black 1 red 1 black 1 black 1 green 1
+black 5 black 7 black 1
+black 1 red 1 black 1 red 1 black 1 black 1 blue 2 black 1 blue 2 black 1 black 1
+red 1 black 1 red 1 black 2 black 1 blue 2 black 1 blue 2 black 1 black 1 green 1
+black 1 red 1 black 1 red 1 black 1 black 1 blue 2 black 1 blue 2 black 1 black 2
+red 1 black 1 red 1 black 2 black 7 black 1
+black 1 red 1 black 1 red 1 black 1 black 1 blue 2 black 1 blue 2 black 1 black 1
+red 1 black 1 red 2 black 1 black 1 blue 2 black 1 blue 2 black 1 black 2
+black 1 red 1 black 1 red 1 black 1 black 1 blue 2 black 1 blue 2 black 1 black 1 green 1
+black 2 red 1 black 2 black 7 black 1 green 1
+black 2 red 1 black 1 black 1

@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom King"
+date "May 21, 2013"
+description "At least I made it that way. Stunning but devilish. See if someone can guess?"
+difficulty 2.25
+height 20
+id 21999
+link "https://webpbn.com/play.cgi?id=21999"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Logo of the World's Hardest Golf Course"
+width 20
+
+rows
+4
+7
+3,1,3
+3,1,3
+3,2,2
+2,2,3
+3,1,2,2
+2,2,4,1
+2,3,3,2
+2,2,1,3,1
+2,1,4,4
+3,2,3
+3,2,2,2
+3,1,1
+3,4,3
+5,4,2
+3,1,1
+4,2,1
+2,2,3,1
+4,5,5
+
+columns
+10,1
+16
+4,9
+3,3,1
+3,2,2
+3,3,2
+2,2,2,1,1
+2,2,2,2,1
+5,2,1,1
+1,2,4,1,2
+2,3,1,4,2
+1,2,3,1,4
+2,5,2,1
+1,1,2,5
+2,2,1,1
+2,1,1
+1,2
+2,1
+3,1
+3

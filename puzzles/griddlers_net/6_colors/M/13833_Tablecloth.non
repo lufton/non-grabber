@@ -1,0 +1,63 @@
+by "bearson"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/3/04"
+height 20
+id 13833
+link "https://www.griddlers.net/nonogram/-/g/13833"
+medium_time "0:02:31"
+points 539
+popularity 48.09
+title "Tablecloth"
+width 20
+
+color a ffffff
+color b 541900
+color c ffff99
+color d ff9999
+color e ffccff
+color h ccffcc
+
+rows
+h 3
+h 1 b 1 h 1
+e 3 h 3 c 3
+e 1 b 1 e 1 b 1 b 1 b 1 c 1 b 1 c 1
+e 3 b 3 c 3
+b 3
+b 3
+b 3
+b 3
+d 20
+d 20
+b 1 d 18 b 1
+b 2 d 16 b 2
+b 2 d 12 b 2
+b 2 d 9 b 2
+b 2 d 4 b 2
+b 2 b 2
+b 2 b 2
+b 2 b 2
+b 2 b 2
+
+columns
+d 2 b 9
+d 3 b 8
+d 4
+e 3 d 4
+e 1 b 1 e 1 d 5
+e 3 d 6
+b 1 d 6
+h 3 b 5 d 7
+h 1 b 1 h 1 b 6 d 7
+h 3 b 5 d 7
+b 1 d 7
+c 3 d 6
+c 1 b 1 c 1 d 6
+c 3 d 6
+d 5
+d 5
+d 4
+d 4
+d 3 b 8
+d 2 b 9

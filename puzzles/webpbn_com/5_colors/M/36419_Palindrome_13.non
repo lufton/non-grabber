@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Brian Bellis"
+date "Feb  7, 2023"
+description "Hey, look out. I'm down here."
+difficulty 1.25
+height 20
+id 36419
+link "https://webpbn.com/play.cgi?id=36419"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Palindrome #13"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 5
+blue 6
+blue 7 red 5
+blue 7 red 2 red 3
+blue 5 red 1 red 2 red 1
+blue 4 red 1 red 2 red 1
+blue 4 red 3 red 1
+blue 4 red 2 red 2
+blue 4 red 5
+blue 4
+blue 4 black 1 black 1
+blue 4 black 4
+blue 4 green 1 black 1 green 1 black 1
+blue 4 black 4
+black 5 black 5
+black 7 black 6
+black 7 black 7
+black 6 black 1
+black 9 black 1 black 1
+
+columns
+blue 4
+blue 5
+blue 5
+blue 6
+blue 14
+blue 13 black 3
+blue 12 black 3
+blue 11 black 3 black 1
+black 3 black 1
+red 5 black 3 black 1
+red 2 red 3 black 2 black 1
+red 1 red 2 red 1 black 2 black 1
+red 1 red 2 red 1 black 2
+red 3 red 1 black 3
+red 2 red 2 black 4
+red 5 black 5
+black 2 green 1 black 5
+black 8
+black 1 green 1 black 4
+black 9

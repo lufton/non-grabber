@@ -1,0 +1,53 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jun 16, 2011"
+description "The Periodic Table of the Elements"
+difficulty 1.5
+height 10
+id 14715
+link "https://webpbn.com/play.cgi?id=14715"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "It's Elementary"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 red 1
+red 1 green 1 black 1 red 3 blue 1 red 1
+red 1 green 1 green 1 black 1 red 2 blue 1 red 1
+red 1 green 1 blue 10 green 1 black 2 red 1 blue 1 red 1
+red 1 green 1 blue 10 green 2 black 2 blue 1 red 1
+red 1 green 1 blue 10 green 3 black 1 blue 1 red 1
+red 1 green 1 blue 7
+0
+green 14
+green 14
+
+columns
+0
+red 7
+green 6
+blue 4
+blue 4 green 2
+blue 4 green 2
+blue 4 green 2
+blue 4 green 2
+blue 4 green 2
+blue 4 green 2
+blue 3 green 2
+blue 3 green 2
+blue 3 green 2
+black 1 green 4 green 2
+red 1 black 2 green 2 green 2
+red 2 black 2 green 1 green 2
+red 3 black 2 green 2
+blue 5 green 2
+red 6
+0

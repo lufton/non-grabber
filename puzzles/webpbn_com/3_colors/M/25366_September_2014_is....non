@@ -1,0 +1,62 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kelly Kriese"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 4.0
+height 22
+id 25366
+link "https://webpbn.com/play.cgi?id=25366"
+note "published,may be unique,may require moderate lookahead"
+quality 4.0
+title "September 2014 is..."
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 2 red 1 black 1
+black 1 red 3 black 1
+black 2 red 3 black 1
+black 1 black 1 red 1 black 1
+black 1 red 1 black 3
+black 3 black 1 red 2 black 1
+black 2 black 2 black 1 red 1 black 1
+black 1 black 8 black 2 black 1
+black 1 black 5 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 2
+black 2 black 4 black 1
+black 2 black 2 black 1
+black 1 black 2 black 1 black 1
+black 2 black 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 2 black 2
+black 2 black 1 black 1 black 1 black 2 black 1
+black 1 black 5 black 2 black 2
+black 2 black 1 black 1 black 1 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 4
+black 2 black 1 black 1 black 3
+black 8
+
+columns
+black 3 black 3
+black 2 black 1 black 6
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 2
+black 2 black 2 black 1 black 2
+black 1 black 1 black 1 black 1 black 2
+black 2 black 4 black 2 black 2
+black 2 black 2 black 1 black 1 black 1
+black 2 black 1 black 2 black 2
+black 2 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 2
+black 1 black 1 black 2 black 1 black 1
+black 5 black 1 black 1 black 1 black 1 black 2
+black 3 black 1 black 1 black 3
+black 2 red 1 black 1 black 1 black 4
+black 1 red 3 red 2 black 2 black 1
+black 2 red 3 black 1 red 2 black 1 black 2
+black 1 red 1 black 4 black 2 black 1 black 2
+black 1 black 1 black 1 black 8

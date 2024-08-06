@@ -1,0 +1,82 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Andrew Schultz"
+date "Jan 23, 2020"
+description "A "frost 'em" frustum. That frown could freeze many a parallelepiped, I tell ya!"
+difficulty 2.25
+height 20
+id 33523
+link "https://webpbn.com/play.cgi?id=33523"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Math and English 2a"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6
+black 4 black 4
+black 4 black 4
+black 3 black 3
+black 2 black 2
+black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 3 black 3 black 1
+black 2 black 4 black 4 black 2
+black 1 black 4 black 4 black 1
+black 2 black 6 black 2
+black 1 black 1
+black 1 blue 2 blue 2 black 1
+black 2 blue 2 blue 2 black 2
+black 3 black 3
+black 4 red 6 black 4
+black 5 red 1 red 1 black 5
+black 10
+0
+0
+
+columns
+0
+0
+0
+0
+black 3
+black 3 black 1
+black 3 black 2
+black 1 black 1
+black 1 black 1 black 2
+black 2 black 2 black 1
+black 1 black 1 black 1
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 2 black 1
+black 1 black 1 black 2
+black 1 black 1 blue 2 red 1 black 1
+black 2 black 2 blue 2 red 1 black 1
+black 1 black 1 red 1 black 1
+black 1 black 1 red 1 black 1
+black 1 black 1 red 1 black 1
+black 1 black 1 red 1 black 1
+black 2 black 2 blue 2 red 1 black 1
+black 1 black 1 blue 2 red 1 black 1
+black 1 black 1 black 2
+black 2 black 2 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 2 black 1
+black 1 black 1 black 2
+black 1 black 1
+black 3 black 2
+black 3 black 1
+black 3
+0
+0
+0
+0

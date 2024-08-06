@@ -1,0 +1,85 @@
+by "Jake Griffin (jako7286)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jake Griffin"
+date "Nov 21, 2008"
+description "My mom is addicted to Tetris, and now she's amazing at it and can beat anyone in my family at it, but she just didn't really understand it at first."
+difficulty 2.5
+height 40
+id 4096
+link "https://webpbn.com/play.cgi?id=4096"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "You're not very good at this, mom...."
+width 22
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 blue 4 black 1
+black 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 black 1
+black 1 red 1 green 1 red 1 green 1 black 1 green 1 black 1 green 5 black 1
+black 1 green 1 red 1 green 1 red 1 green 1 black 1 green 1 black 1 green 4 black 1
+black 1 red 1 green 1 red 1 green 1 red 8 green 4 black 1
+black 1 green 1 red 1 green 1 red 9 green 4 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 black 1
+black 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 7 black 1 black 1
+black 1 blue 6 black 1 blue 1 black 1
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2
+black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 red 1 green 1 red 1 green 1 black 1
+black 1 green 1 red 1 green 1 red 1 black 1
+black 1 red 1 green 1 red 1 green 1 black 1
+black 1 green 1 red 1 green 1 red 1 black 1
+black 1 red 8 black 1
+black 1 red 8 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 4 green 4 black 1
+black 1 blue 4 green 4 black 1
+black 1 red 8 green 4 black 1
+black 1 red 8 green 4 black 1
+black 22
+
+columns
+black 40
+red 2 black 1
+red 2 black 1
+red 1 green 1 blue 2 red 2 black 1
+green 1 red 1 blue 2 red 2 black 1
+red 1 green 1 red 1 green 1 red 2 blue 6 red 2 black 1
+green 1 red 1 green 1 red 1 red 2 blue 6 red 2 black 1
+red 1 green 1 red 2 red 2 green 2 red 2 black 1
+green 1 red 3 red 2 green 2 red 2 black 1
+blue 1 black 1 green 1 black 1 green 1 red 2 red 2 green 4 black 1
+blue 1 green 1 black 1 green 1 black 1 red 2 red 2 green 4 black 1
+blue 1 black 1 green 1 black 1 green 1 red 10 black 1 green 1 black 1 green 1 blue 4 red 1 green 1 red 2 green 2 black 1
+blue 1 green 1 black 1 green 1 black 1 red 10 green 1 black 1 green 1 black 1 blue 4 green 1 red 3 green 2 black 1
+green 2 red 2 black 1 green 1 black 1 green 1 blue 2 red 1 green 1 red 1 green 1 black 1
+green 2 red 2 green 1 black 1 green 1 black 1 blue 2 green 1 red 1 green 1 red 1 black 1
+green 4 blue 3 black 1 red 1 green 1 black 1
+green 4 blue 2 black 1 blue 1 green 1 red 1 black 1
+green 2 blue 1 black 1 blue 1 black 1 black 1
+green 2 black 1 blue 1 black 1 blue 1 black 1
+blue 1 black 1 black 1
+black 1 blue 1 black 1
+black 40

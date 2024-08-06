@@ -1,0 +1,52 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Teresa K"
+date "Sep 26, 2009"
+description "Mom's name is Rosemary, and her nickname is Rose, so people tend to give her gifts like this shirt with a rose on it. That's her middle name. Her real first name is Gertrude, but don't tell her I told you, or I will get a scolding. :-)"
+difficulty 2.25
+height 15
+id 6807
+link "https://webpbn.com/play.cgi?id=6807"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Mom Has Too Many of These"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 7
+black 2 black 1
+black 2 black 1
+black 3 red 2 black 2
+black 1 red 2 green 1 black 2
+black 1 green 2 black 2
+black 1 green 2 black 2
+black 1 black 1 green 2 black 2
+black 5 green 1 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 3
+black 1
+
+columns
+black 6
+black 1 black 1
+black 2 black 1
+black 2 black 2
+black 2 black 2
+black 1 black 2
+black 1 red 2 black 2
+black 1 red 2 green 1 green 1 black 2
+black 1 green 5 black 2
+black 1 black 1 green 1 black 2
+black 5 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 3

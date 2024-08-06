@@ -1,0 +1,30 @@
+by "shadow2097"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/5/06"
+height 5
+id 38657
+link "https://www.griddlers.net/nonogram/-/g/38657"
+medium_time "0:00:10"
+points 20
+popularity 32.02
+title "Jump Rope"
+width 5
+
+color a ffffff
+color g 808080
+color h 000000
+
+rows
+h 1
+h 5
+g 1 h 1 g 1
+g 1 h 1 g 1
+g 2 h 1 g 2
+
+columns
+h 1 g 3
+h 1 g 1
+h 5
+h 1 g 1
+h 1 g 3

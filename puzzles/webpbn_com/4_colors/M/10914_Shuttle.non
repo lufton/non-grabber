@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Nov  3, 2010"
+description "Discovery on launch pad 39A awaiting count down for last time."
+difficulty 1.75
+height 20
+id 10914
+link "https://webpbn.com/play.cgi?id=10914"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Shuttle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 7 red 4 blue 9
+blue 1 red 6 blue 5
+blue 3 red 7 blue 2
+blue 4 red 8 blue 2
+blue 5 red 8 blue 5
+blue 5 red 8 blue 2 blue 3
+blue 3 blue 1 red 8 blue 1 blue 3
+blue 2 red 8 blue 1 blue 3
+blue 2 red 8 blue 1 blue 3
+blue 2 red 3 black 2 red 3 blue 1 blue 3
+blue 2 red 2 black 4 red 2 blue 1 blue 3
+blue 2 red 1 black 6 red 1 blue 1 blue 3
+blue 2 red 1 black 2 black 4 blue 1 blue 3
+blue 2 black 2 black 4 blue 3
+blue 2 black 1 black 3 blue 3
+blue 2 black 2 black 3 blue 3
+blue 2 black 1 black 3 black 2 blue 3
+blue 2 black 1 black 5 black 2 blue 3
+blue 2 black 1 black 1 black 1 black 2 blue 3
+blue 2 black 1 black 2 blue 3
+
+columns
+blue 20
+blue 1 blue 18
+blue 1 blue 5
+blue 1 blue 3
+blue 1 blue 3 black 5
+blue 1 red 11 black 3
+blue 1 red 10 black 3 black 2
+red 10 black 3 black 2
+red 9 black 3 black 2
+red 9 black 4 black 2
+red 10 black 4 black 2
+blue 1 red 10 black 4
+blue 1 red 9 black 4
+blue 2 blue 9 black 7
+blue 3 blue 2 black 5
+blue 5
+blue 2 blue 3
+blue 2 blue 16
+blue 1 blue 15
+blue 1 blue 14

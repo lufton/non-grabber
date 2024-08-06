@@ -1,0 +1,68 @@
+by "David (Havenstrom)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David"
+date "Feb 23, 2012"
+description "A bowl with a spoon and blueberry yogurt, popular in Sweden during the winter. "BlÃ¥bÃ¤rssoppa" is traditionally served to the participants at the ski marathon Vasaloppet, as it is rich in energy, and is usually drinked."
+difficulty 2.25
+height 17
+id 17642
+link "https://webpbn.com/play.cgi?id=17642"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Ski drink in solid form."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4
+black 4 black 1
+black 19 black 1
+black 2 black 2 black 2
+black 2 blue 14 black 3 black 3
+black 2 blue 14 black 3 black 3
+black 1 black 2 blue 10 black 3 black 3 black 1
+black 1 black 3 blue 7 black 2 black 3 black 1
+black 1 black 16 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 3 black 3
+black 17
+
+columns
+black 5
+black 2 black 4
+black 1 blue 1 black 1 black 3
+black 1 blue 1 black 2 black 2
+black 1 blue 3 black 1 black 1
+black 1 blue 3 black 2 black 2
+black 1 blue 4 black 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 3 black 2 black 1
+black 1 blue 2 black 3 black 1
+black 1 blue 2 black 1 black 1 black 1
+black 1 blue 1 black 2 black 1 black 1
+black 1 blue 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1
+black 3 black 2 black 1
+black 2 black 1 black 2
+black 1 black 2 black 1
+black 2 black 1 black 2
+black 1 black 2 black 3
+black 1 black 1 black 4
+black 2 black 6
+black 1 black 1
+black 1 black 2
+black 4

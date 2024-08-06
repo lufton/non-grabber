@@ -1,0 +1,61 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Oct 26, 2013"
+description ""
+difficulty 3.25
+height 20
+id 23025
+link "https://webpbn.com/play.cgi?id=23025"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "who might I be? (mod-look tuffy)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4 black 2 black 2
+black 2 black 2
+black 1 black 5 black 6 black 1
+black 1 black 1 black 3 black 1 black 1
+black 4 black 4 black 1
+black 2 red 3 black 1 black 1 red 3 black 2 black 1
+black 3 red 1 black 1 red 1 black 1 black 1 red 1 black 1 red 1 black 3 black 1
+black 3 red 3 black 1 black 1 black 1 red 3 black 3
+black 4 black 1 black 4
+black 1
+red 3 black 1 black 1 red 3
+red 1 red 2 black 1 black 2 red 1 red 1
+red 1 red 1 black 2 black 2 red 1 red 1
+black 1 red 2 black 3 red 2 black 1
+black 1 red 2 red 2 black 1
+black 1 red 1 red 9 red 2 black 1
+black 1 red 3 black 7 red 3 black 1
+black 1 red 11 black 1
+black 2 black 1 black 1 black 2
+black 3 black 1 black 1 black 3
+
+columns
+black 4 red 2 black 7
+black 2 black 2 red 1 red 1 red 1 black 2
+black 1 black 1 black 3 red 2 red 2 black 1
+black 1 black 1 black 5 red 3 red 2
+black 1 black 1 red 3 black 1 red 2
+black 1 black 1 red 1 black 1 red 1 black 1 red 3 black 2
+black 1 black 1 red 3 black 1 red 1 black 1 red 1
+black 1 black 3 black 1 red 1 black 1 red 1
+black 1 black 4 red 1 black 1 red 1
+black 1 black 1 black 3 black 1 red 1 black 1 red 1
+black 1 black 1 black 4 red 1 black 1 red 1
+black 1 black 3 black 2 red 1 black 1 red 1
+black 1 black 1 red 3 black 1 red 1 black 1 red 1
+black 1 black 1 red 1 black 1 red 1 black 1 red 3 black 2
+black 1 black 1 red 3 black 1 red 2
+black 1 black 5 red 2
+black 1 black 3 red 3 red 1
+black 1 black 2 red 1 red 2 black 1
+black 2 red 1 red 1 red 1 black 2
+black 7 red 2 black 7

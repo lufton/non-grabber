@@ -1,0 +1,66 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Joe"
+date "Apr 17, 2018"
+description "Enterprise maker as an alternative. --See comment 1"
+difficulty 1.25
+height 30
+id 31088
+link "https://webpbn.com/play.cgi?id=31088"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Cryptic Puzzle 4"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 1
+black 1
+black 2
+black 2
+black 2
+black 2
+black 3
+black 3
+black 3
+black 3
+black 4
+black 5
+black 5
+black 5
+black 5
+black 5
+black 6
+blue 4 black 6
+blue 5 black 6
+blue 4 black 6 blue 1
+blue 4 black 6 blue 2
+blue 3 black 7 blue 3
+blue 3 black 7 blue 3
+blue 3 black 7 blue 3
+blue 2 black 5 black 2 blue 3
+blue 2 black 4 blue 1 black 1 blue 3
+blue 1 black 5 blue 1 black 1 blue 3
+blue 1 black 4 blue 2 black 1 blue 3
+
+columns
+blue 11
+blue 9
+blue 7 black 2
+blue 4 black 4
+blue 1 black 7
+black 12
+black 16
+black 27 blue 1
+black 22 blue 3
+black 19
+black 18
+blue 1
+blue 8
+blue 8
+blue 7

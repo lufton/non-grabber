@@ -1,0 +1,37 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ant"
+date "Mar  1, 2010"
+description "Nothin' gets it done quite like a paper clip."
+difficulty 2.5
+height 10
+id 7943
+link "https://webpbn.com/play.cgi?id=7943"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Keep it together"
+width 10
+
+rows
+4
+2,2
+1,2,2
+1,2,2
+2,2,2
+2,2,1
+2,2
+2,2
+2,2
+3
+
+columns
+4
+2,2
+1,1,2
+1,2,2
+2,2,2
+2,2,2
+2,2,1
+2,4
+2,2
+0

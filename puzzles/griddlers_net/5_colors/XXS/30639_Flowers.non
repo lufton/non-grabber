@@ -1,0 +1,32 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/10/06"
+height 5
+id 30639
+link "https://www.griddlers.net/nonogram/-/g/30639"
+medium_time "0:00:20"
+points 23
+popularity 43.0
+title "Flowers"
+width 5
+
+color a ffffff
+color b ff0000
+color c fffe00
+color d 00fe00
+color g 808080
+
+rows
+b 1 b 1
+b 1 c 1 b 1 c 1 b 1
+b 1 b 1
+g 1 d 1 d 1 g 1
+g 3
+
+columns
+b 1 g 1
+b 1 c 1 b 1 d 1 g 1
+b 1 g 1
+b 1 c 1 b 1 d 1 g 1
+b 1 g 1

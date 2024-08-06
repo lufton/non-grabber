@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Sep 25, 2010"
+description "my blue binder with loose leaf paper."
+difficulty 1.75
+height 15
+id 10478
+link "https://webpbn.com/play.cgi?id=10478"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Loading up..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2 red 2
+red 2 red 2
+red 1 red 1
+red 1 red 1
+blue 8 red 2 blue 7 red 2 blue 1
+blue 9 red 2 black 3 red 2
+blue 9 black 1 red 2 black 1 red 2
+blue 8 black 4
+blue 1 red 2 blue 4 black 1 red 2 black 1
+red 2 blue 4 black 3 red 2
+red 1 blue 4 black 4 red 1
+red 1 blue 3 black 4 red 1
+red 2 blue 1 black 4 red 2
+blue 1 red 2 black 3 red 2
+blue 1 black 1 red 2 black 1 red 2
+
+columns
+blue 5 red 4 blue 2
+blue 4 red 2 blue 2 red 2 black 1
+blue 4 red 1 blue 4 red 2
+blue 8 black 2 red 1
+blue 7 black 4
+blue 6 black 4
+blue 5 black 4
+blue 4 black 4 red 1
+red 4 blue 2 black 1 red 1 black 2 red 2
+red 2 red 2 black 2 red 2 red 2
+red 1 blue 1 red 2 black 2 red 4
+blue 1 black 1 red 1 black 1
+blue 1 black 2
+blue 1 black 1
+blue 1
+blue 1 red 1
+red 1 blue 1 red 2
+red 2 red 2
+red 4
+blue 1

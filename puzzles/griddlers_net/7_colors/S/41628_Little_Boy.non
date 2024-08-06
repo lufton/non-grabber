@@ -1,0 +1,49 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/15/07"
+height 16
+id 41628
+link "https://www.griddlers.net/nonogram/-/g/41628"
+medium_time "0:01:40"
+points 191
+popularity 56.85
+title "Little Boy"
+width 9
+
+color a ffffff
+color b 000000
+color c ffcccc
+color d ff0000
+color e ffcc00
+color f 0000ff
+color g 9933ff
+
+rows
+b 5
+b 7
+b 2 c 3 b 2
+b 1 c 1 f 1 c 1 f 1 c 1 b 1
+c 2 d 1 c 2
+c 3
+e 1 g 1 e 3 g 1 e 1
+e 2 g 1 e 3 g 1 e 2
+e 2 g 1 e 3 g 1 e 2
+e 2 g 5 e 2
+c 2 g 5 c 2
+c 2 g 5 c 2
+g 7
+g 3 g 3
+g 3 g 3
+d 3 d 3
+
+columns
+e 3 c 2
+b 3 e 4 c 2 g 3 d 1
+b 3 c 2 g 9 d 1
+b 2 c 1 f 1 c 2 e 3 g 6 d 1
+b 2 c 2 d 1 c 1 e 3 g 4
+b 2 c 1 f 1 c 2 e 3 g 6 d 1
+b 3 c 2 g 9 d 1
+b 3 e 4 c 2 g 3 d 1
+e 3 c 2

@@ -1,0 +1,58 @@
+by "skybreezes"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/19/07"
+height 18
+id 53530
+link "https://www.griddlers.net/nonogram/-/g/53530"
+medium_time "0:06:15"
+points 4363
+popularity 51.54
+title "Blue Shoe"
+width 16
+
+color a ff9933
+color c 009999
+color d 3300cc
+color e 6666ff
+color f 00cc66
+color g cccccc
+color h ffffff
+
+rows
+d 1
+d 1 e 1 d 1
+d 1 e 2 d 1
+d 1 e 4 d 1 g 1 h 1
+c 1 d 1 e 3 d 1 f 1 g 2
+c 2 f 1 d 1 e 1 d 1 f 1 c 2
+g 1 c 1 f 2 d 1 e 1 d 1 f 1 c 2
+g 1 c 2 f 1 d 1 e 1 d 1 f 1 c 2
+g 1 h 1 c 1 f 1 d 1 e 2 d 1 f 1 c 1
+g 2 h 1 d 2 e 2 d 1 f 1 c 2
+g 1 h 2 d 2 e 2 d 1 f 1 c 1
+g 1 h 2 d 2 e 1 d 1 f 1 c 2
+g 2 h 2 d 1 e 1 d 1 f 2
+g 1 h 1 d 1 e 2 d 2 h 3
+g 1 h 1 d 3 h 4 g 1
+g 1 h 2 d 1 g 6
+g 1 h 6 g 2
+g 7
+
+columns
+g 4
+c 3 h 1 g 2
+c 2 f 1 c 2 h 2 g 1
+d 2 f 4 d 1 h 2 g 1
+d 1 e 2 d 6 h 1 g 1
+d 1 e 8 d 2 h 1 g 1
+d 1 e 4 d 3 e 3 d 1 h 2 g 2
+d 2 e 1 d 1 f 3 d 2 e 2 d 2 h 2 g 1
+d 1 f 1 c 3 f 2 d 2 e 2 d 1 h 2 g 1
+g 2 c 5 f 2 d 1 e 1 d 2 h 1 g 1
+h 1 g 1 c 3 f 1 d 2 g 1 h 1 g 1
+c 1 f 1 d 1 h 1 g 1 h 1 g 1
+h 2 g 1 h 1 g 1
+h 2 g 1 h 1 g 1
+h 2 g 3
+g 3

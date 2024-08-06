@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Apr  8, 2020"
+description ""
+difficulty 1.5
+height 20
+id 33858
+link "https://webpbn.com/play.cgi?id=33858"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Iconic movie image 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 4
+black 8
+black 10
+black 10
+black 12
+black 12
+black 18
+black 4 black 10 black 4
+black 6 black 6 black 6
+black 7 black 2 black 7
+black 14
+black 10
+black 3 black 3
+black 2 blue 1 black 1 black 1 blue 1 black 1
+black 3 black 3
+black 1 black 1 black 1
+black 1
+0
+0
+
+columns
+black 2
+black 4
+black 4
+black 5 black 1
+black 3 black 3 black 1 black 1
+black 11 black 1
+black 7 black 4 blue 1 black 3
+black 12 black 1
+black 9 black 2 black 1 black 1
+black 12
+black 12
+black 9 black 2 black 1
+black 12 black 1
+black 7 black 4 blue 1 black 1
+black 11 black 1
+black 3 black 3 black 1
+black 5
+black 4
+black 4
+black 2

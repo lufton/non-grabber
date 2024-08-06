@@ -1,0 +1,82 @@
+by "Steph (bennie11)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Steph"
+date "Apr 16, 2010"
+description ""
+difficulty 1.75
+height 30
+id 8403
+link "https://webpbn.com/play.cgi?id=8403"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Word Puzzle #6"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20 red 5
+black 22 red 4
+black 24 red 3
+black 26 red 2
+black 28 red 1
+black 30
+black 30
+black 30
+black 30
+black 3 black 1 black 1 black 3 black 1 black 1 black 2
+black 3 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1 black 1 black 1 black 2
+black 3 black 1 black 1 black 3 black 1 black 1 black 2
+black 3 black 5 black 3 black 3 black 5 black 3 black 2
+black 3 black 1 black 1 black 3 black 1 black 1 black 2
+black 2 blue 26 black 2
+black 2 blue 26 black 2
+black 30
+black 8 black 2 black 9
+black 8 black 10 black 9
+black 8 black 9 black 10
+black 8 black 5 black 11
+black 8 black 7 black 12
+black 8 black 6 black 13
+black 8 black 2 black 9
+black 30
+red 1 black 28
+red 2 black 26
+red 3 black 24
+red 4 black 22
+red 5 black 20
+
+columns
+black 20 red 5
+black 22 red 4
+black 11 blue 2 black 11 red 3
+black 7 blue 2 black 12 red 2
+black 8 black 1 black 1 blue 2 black 13 red 1
+black 9 black 1 blue 2 black 14
+black 14 blue 2 black 14
+black 9 black 1 blue 2 black 14
+black 9 black 1 black 1 blue 2 black 1 black 6
+black 9 blue 2 black 1 black 2 black 2 black 6
+black 14 blue 2 black 1 black 2 black 2 black 6
+black 9 black 1 blue 2 black 1 black 2 black 2 black 6
+black 9 black 1 black 1 blue 2 black 1 black 5 black 6
+black 9 blue 2 black 14
+black 14 blue 2 black 14
+black 14 blue 2 black 1 black 4 black 6
+black 14 blue 2 black 1 black 3 black 6
+black 9 blue 2 black 1 black 2 black 1 black 6
+black 9 black 1 black 1 blue 2 black 1 black 1 black 2 black 6
+black 9 black 1 blue 2 black 1 black 3 black 6
+black 14 blue 2 black 1 black 4 black 6
+black 9 black 1 blue 2 black 14
+black 9 black 1 black 1 blue 2 black 14
+black 9 blue 2 black 14
+black 14 blue 2 black 14
+red 1 black 8 black 1 blue 2 black 13
+red 2 black 7 black 1 black 1 blue 2 black 12
+red 3 black 6 blue 2 black 11
+red 4 black 22
+red 5 black 20

@@ -1,0 +1,159 @@
+by "Jacco (lolapalouza)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jacco"
+date "Jan 25, 2012"
+description "In 1984 Alexey Pajitnov designed Tetris."
+difficulty 2.0
+height 80
+id 17321
+link "https://webpbn.com/play.cgi?id=17321"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Alexey Pajitnov, 1984"
+width 56
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 green 6 black 21
+black 5 green 6 black 21
+black 5 green 2 black 21
+black 5 green 2 black 21
+black 5 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 1 black 3 black 3 black 1 black 1 black 1 black 1 black 3
+black 5 black 1 black 1 black 3 black 1 black 1 black 1 black 2
+black 5 black 3 black 1 black 3 black 1 black 1 black 2 black 3
+black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 21
+black 5 black 1 black 2
+black 5 black 1 black 1 black 1 black 3 black 3 black 1 black 1 black 2
+black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 5 black 1 black 1 black 1 black 3 black 3 black 3 black 2
+black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 5 black 1 black 1 black 1 black 3 black 3 black 1 black 2
+black 5 black 1 black 2
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 21
+black 5 black 3 black 1 black 1 black 1 black 1 black 3
+black 5 black 3 black 1 black 1 black 3 black 1 black 2 black 4
+black 5 black 3 black 1 black 1 black 3 black 3 black 4
+black 5 black 3 black 1 black 1 black 3 black 1 black 2 black 4
+black 5 black 3 black 1 black 1 black 1 black 1 black 2 black 4
+black 5 black 21
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 black 6
+black 5 black 5 red 2 black 6
+black 5 black 5 red 2 black 6
+black 5 black 5 red 6 black 6
+black 5 blue 2 black 5 red 6 black 6
+black 5 blue 2 black 5 black 6
+black 5 blue 2 black 21
+black 5 blue 2 black 21
+black 5 green 4 blue 2 red 2 red 2 blue 8 black 21
+black 5 green 4 blue 2 red 2 red 2 blue 8 black 21
+black 5 red 2 green 4 blue 4 red 2 red 6 green 4 black 21
+black 5 red 2 green 4 blue 4 red 2 red 6 green 4 black 21
+black 5 red 4 blue 6 green 2 red 4 blue 8 green 4 black 21
+black 5 red 4 blue 6 green 2 red 4 blue 8 green 4 black 21
+black 56
+black 56
+
+columns
+black 80
+black 80
+black 80
+black 80
+black 80
+red 4 black 2
+red 4 black 2
+green 4 red 2 black 2
+green 4 red 2 black 2
+green 4 blue 2 black 2
+green 4 blue 2 black 2
+blue 10 black 2
+blue 10 black 2
+blue 4 black 2
+blue 4 black 2
+green 2 green 2 black 2
+green 2 green 2 black 2
+green 4 black 2
+green 4 black 2
+green 2 red 6 black 2
+green 2 red 6 black 2
+red 2 black 2
+red 2 black 2
+red 4 blue 2 black 2
+red 4 blue 2 black 2
+red 2 blue 2 black 2
+red 2 blue 2 black 2
+blue 2 red 2 blue 2 black 2
+blue 2 red 2 blue 2 black 2
+blue 2 green 2 blue 2 black 2
+blue 2 green 2 blue 2 black 2
+blue 2 green 4 black 2
+blue 2 green 4 black 2
+blue 2 green 2 black 2
+blue 2 green 2 black 2
+black 80
+black 14 black 1 black 1 black 53
+black 14 black 1 black 1 black 1 black 53
+black 14 black 1 black 1 black 5 black 22 black 26
+black 20 black 22 black 30
+black 14 black 1 black 5 black 22 black 1 black 10
+black 14 black 3 black 1 black 28 black 10
+black 14 black 3 black 1 black 1 black 3 black 22 black 1 red 2 black 10
+black 20 black 1 black 1 black 1 black 22 black 1 black 1 black 1 red 2 black 10
+black 14 black 1 black 3 black 1 black 22 black 3 black 1 red 4 black 10
+black 14 black 3 black 1 black 28 red 4 black 10
+black 14 black 1 black 5 black 22 black 1 black 1 red 2 black 10
+black 20 black 1 black 1 black 1 black 24 black 3 red 2 black 10
+black 14 black 1 black 5 black 22 black 1 black 1 black 10
+black 14 black 1 black 2 black 28 black 10
+black 14 black 1 black 1 black 3 black 22 black 30
+black 20 black 1 black 22 black 26
+black 14 black 1 black 5 black 22 black 30
+black 14 black 1 black 1 black 1 black 53
+black 14 black 3 black 61
+black 80

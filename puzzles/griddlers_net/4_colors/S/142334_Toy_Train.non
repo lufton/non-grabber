@@ -1,0 +1,51 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/3/14"
+height 14
+id 142334
+link "https://www.griddlers.net/nonogram/-/g/142334"
+medium_time "0:02:47"
+points 377
+popularity 75.08
+title "Toy Train"
+width 16
+
+color a ffff99
+color b 000000
+color d ff0000
+color f 0000ff
+
+rows
+f 8
+f 10
+f 2 b 7 f 1
+b 9
+b 4 b 2 b 2
+b 2 b 2 b 2
+b 2 b 2 b 2
+b 9 b 2
+b 1 d 5 b 8
+b 16
+b 4 d 2 b 5 d 2 b 3
+b 3 d 4 b 3 d 4 b 2
+d 4 d 4 b 1
+d 2 d 2
+
+columns
+b 3
+b 5
+b 1 b 1 d 1 b 3
+b 4 d 1 b 2 d 2
+b 4 d 1 b 1 d 4
+b 1 b 1 d 1 b 1 d 4
+f 2 b 1 d 1 b 2 d 2
+f 3 b 1 b 5
+f 2 b 10
+f 2 b 10
+f 2 b 2 b 3 d 2
+f 2 b 2 b 2 d 4
+f 2 b 2 b 2 d 4
+f 2 b 9 d 2
+f 2 b 11
+f 2 b 1 b 3

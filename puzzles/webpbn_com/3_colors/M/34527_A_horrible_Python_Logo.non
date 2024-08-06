@@ -1,0 +1,61 @@
+by "Sean Blend (SeanBlend)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Sean Blend"
+date "Sep 30, 2020"
+description ""
+difficulty 1.0
+height 20
+id 34527
+link "https://webpbn.com/play.cgi?id=34527"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "A horrible Python Logo"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+blue 5
+blue 8
+blue 9 black 3
+blue 5 black 4
+blue 9 black 4
+blue 9 black 4
+blue 9 black 4
+blue 5 black 8
+blue 4 black 9
+blue 4 black 9
+blue 4 black 5
+blue 3 black 9
+black 8
+black 5
+0
+
+columns
+0
+0
+0
+blue 1 blue 7
+blue 2 blue 8
+blue 3 blue 8
+blue 3 blue 8
+blue 8 black 5
+blue 7 black 6
+blue 7 black 7
+blue 6 black 7
+blue 6 black 7
+black 8 black 3
+black 8 black 3
+black 8 black 2
+black 7 black 1
+0
+0
+0
+0

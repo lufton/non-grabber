@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Nov 28, 2011"
+description "Would you boys like more bacon? Yes please Alice,I gotta say this is the best bacon i've ever had.Why thank you Mort,i'm glad your enjoying it. How about you Fitz dear,would you like more? No i'll pass Alice my love,but thanks all the same. What's wrong hun,don't you like the bacon? Oh yeah it's delicious,but i found it a bit tough and chewy. Gee Fitz,i find it tender and it has a nice honey cured flavour too,it's great. Where did you get it Alice,i don't remember buying bacon the other day. Ok it's like this,it's not actually bacon,I found an old pair of mukluks in the old igloo and i sliced them up and soaked them in maple syrup. Hack,cough,choke,yeck,pfffft,patoohie. You cooked my good mukluks? Alice i was still wearing those.Oh don't be silly,they were all worn out,just buy yourself another pair. Yeah Mort calm down,those mukluks were old,and watch how you speak to my Alice,have some respect. I'm sorry Alice,your right i needed a new pair anyways. Oh and i love your apron,very fetching...oops sorry again that was probably a poor choice of words. Fitz can i hit him over the head with this iron skillet? Be my guest dear."
+difficulty 3.0
+height 30
+id 16538
+link "https://webpbn.com/play.cgi?id=16538"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP # 97 Where are your manners Mort."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 red 3
+black 1 black 1 black 2 red 3 black 3
+black 1 black 1 black 1 black 3 black 3
+black 2 black 1 black 1 black 4 blue 2
+blue 2 black 6 black 2 black 1 green 1 blue 2
+blue 1 blue 2 black 1 black 2 red 2 black 1 green 2 blue 2
+blue 2 black 1 black 1 black 1 black 1 red 2 black 2 green 1 blue 2
+blue 3 black 1 black 1 green 2 green 2 blue 2
+blue 2 black 1 blue 2 black 2 black 1 black 1 blue 1 blue 1
+blue 2 black 1 black 1 blue 2 black 1 black 1 blue 2 blue 2
+blue 1 black 1 black 1 blue 1 black 1 red 1 black 1 green 1 red 1 green 1 red 1 blue 1 blue 2
+black 1 black 1 black 1 black 1 green 1 black 1 red 1 black 1 green 1 blue 2 green 1 green 1 red 2 black 1 blue 1 black 1
+black 1 black 1 black 1 green 1 green 1 black 1 blue 1 green 3 red 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 2 green 1 red 1 red 1 green 1 black 2 green 1 red 5
+red 2 black 1 black 1 red 2 black 2 green 1 red 3 green 1 black 5 red 6
+green 1 red 2 black 1 black 1 red 2 green 1 black 2 green 1 red 3 green 1 black 2 green 1 black 1
+green 1 blue 1 red 2 black 1 red 2 blue 1 green 1 black 3 red 3 green 1 black 1 black 1 blue 1 blue 1
+blue 1 red 3 blue 1 black 14 black 1
+blue 2 blue 1 black 5 green 1 black 1 black 3 black 1 black 1
+blue 3 red 2 blue 1 blue 1 black 1 green 1 red 3 green 1 black 1 black 2 black 1
+blue 1 black 3 red 1 black 2 blue 1 black 1 green 1 red 3 green 1 black 2 red 1 black 1
+blue 1 blue 2 black 2 blue 1 blue 2 black 1 green 2 red 1 green 2 black 1 red 1 red 1 black 2 black 1
+blue 4 blue 3 black 1 green 7 black 1 black 4 black 2 black 1
+blue 1 green 9 black 3 black 1
+red 8 green 11 black 3 black 3
+black 2 red 5 black 3 black 3 black 1 black 1 green 4
+black 3 blue 3 black 5 black 1 black 1 black 2 black 2 black 2 green 1 black 1
+black 4 black 4 green 1 black 1 black 1 black 1 black 1 black 4 green 1 black 2
+green 1 black 3 green 1 black 3 green 1 black 4 black 4 black 6 green 1 black 1 green 1
+green 3 green 1 black 5 black 5 green 7
+
+columns
+red 1 green 2 blue 3 blue 2 red 1 black 3 green 2
+blue 1 blue 2 black 2 red 3 blue 1 blue 3 blue 1 red 1 black 4 green 1
+blue 1 blue 2 black 1 black 2 red 2 blue 1 black 1 blue 2 red 2 black 3 green 1
+blue 2 blue 2 black 1 black 1 black 1 red 2 black 1 blue 2 red 2 blue 1 black 2
+blue 3 black 1 red 1 black 1 red 1 red 1 black 2 red 2 blue 1 green 1
+blue 3 black 1 black 1 black 1 red 2 red 2 black 1 red 2 blue 1 black 2
+blue 2 black 1 black 2 red 2 black 1 blue 2 red 2 black 3
+blue 2 black 2 red 3 blue 1 blue 1 black 1 blue 1 red 1 black 4 green 1
+red 1 green 2 blue 1 blue 3 green 1 black 3 green 1 black 1
+black 1 black 5 blue 4 black 1 green 2 black 2 green 1 black 2
+black 1 black 5 black 10 green 3 black 4
+black 5 black 2 green 5 black 3 green 6 black 2
+black 2 black 1 black 2 red 4 black 2 red 2 green 4 black 5
+black 1 black 1 red 2 red 3 black 2 red 3 green 3 black 1
+black 4 black 1 black 2 red 4 black 2 red 2 green 4 black 5
+black 1 black 2 black 1 green 6 black 1 green 7 black 2
+black 1 black 4 black 3 black 1 black 2 green 3 black 4
+blue 2 black 8 black 1 green 2 black 2 black 2
+blue 1 black 2 black 1 green 1 black 1
+red 2 green 1 green 3 black 1 black 2 black 1
+red 2 green 1 red 1 green 2 black 1 green 1 black 2 red 1 black 1
+black 3 green 3 black 2 black 1 black 3
+red 1 black 3 black 1 green 1 red 2 black 1 black 2 black 3
+red 1 black 1 green 1 blue 2 red 2 black 2 black 2 green 1
+red 1 black 2 green 2 blue 3 red 1 black 4 black 7 green 1
+black 2 green 1 blue 2 red 3 black 1 black 1 red 2 black 1 black 1 black 1 black 1 green 1
+red 1 black 3 green 1 blue 2 black 2 red 2 blue 1 black 1 black 1 green 1 black 1 green 1
+red 1 black 3 blue 2 blue 2 red 3 black 1 black 1 green 5
+red 1 black 2 blue 2 blue 2 black 2 red 2 blue 1 black 1 black 1 green 1 black 2 green 1
+blue 1 blue 2 red 3 black 1 black 4 green 1 black 2 green 2

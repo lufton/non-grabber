@@ -1,0 +1,89 @@
+by "Skippy Miller (gmillvmill)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Skippy Miller"
+date "Jul 16, 2010"
+description "Hmmm...A red dog. I guess you can call him Clifford. :)"
+difficulty 2.5
+height 30
+id 9636
+link "https://webpbn.com/play.cgi?id=9636"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Woof Woof!"
+width 38
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 black 1 red 5 black 1 black 1 red 5 black 1 black 1
+black 1 red 1 black 2 red 6 black 5 red 6 black 2 red 1 black 1
+black 1 red 5 black 1 red 1 black 2 red 5 black 2 red 1 black 1 red 5 black 1
+black 1 red 3 black 1 black 1 red 9 black 1 black 1 red 3 black 1
+black 3 black 1 red 11 black 1 black 3
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 15 black 1
+black 1 black 1 red 15 black 1
+black 2 black 1 red 15 black 1
+black 1 red 1 black 1 black 3 black 1 red 4 black 2 red 3 black 2 red 4 black 1 black 3
+black 1 red 2 black 1 black 2 red 3 black 3 red 2 black 1 black 1 red 1 black 1 black 1 red 2 black 3 red 3 black 2
+black 1 red 3 black 1 red 7 black 1 red 2 black 1 black 1 red 1 black 1 black 1 red 2 black 1 red 7 black 1
+black 1 red 1 black 1 red 8 black 1 red 2 black 1 black 1 red 1 black 1 black 1 red 2 black 1 red 8 black 1
+black 2 red 9 black 1 red 1 black 4 red 1 black 4 red 1 black 1 red 9 black 1
+black 1 red 10 black 1 red 1 black 1 black 2 red 1 black 1 black 2 red 1 black 1 red 10 black 1
+black 1 red 11 black 1 red 1 black 2 red 2 black 3 red 1 black 1 red 11 black 1
+black 5 red 1 black 5 red 1 black 5 red 1 black 5 red 1 black 5 red 1 black 5
+black 1 red 5 black 1 red 5 black 1 black 1 black 1 red 5 black 1 red 5 black 1
+black 1 red 5 black 1 red 5 black 1 black 1 black 1 red 5 black 1 red 5 black 1
+black 1 red 5 black 1 red 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 5 black 1 red 5 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 5 black 5 black 5 red 1 black 5 black 5 black 5
+red 3
+red 3
+0
+0
+
+columns
+black 4
+black 2 red 3 black 1 black 5
+black 1 red 3 black 4 red 5 black 1
+black 1 red 1 black 2 red 2 black 1 red 3 black 3
+black 1 red 4 black 1 red 5 black 1
+black 1 red 5 black 1 red 3 black 3
+black 1 red 5 black 1 red 5 black 1
+black 2 black 1 red 7 black 5
+black 1 red 2 black 1 black 1 red 6 black 1 red 5 black 1
+black 1 red 2 black 1 black 1 red 6 black 1 red 3 black 3
+black 1 red 2 black 1 black 1 red 5 black 1 red 5 black 1
+black 1 red 3 black 1 black 5 red 5 black 1 red 3 black 3
+black 1 red 3 black 1 black 2 red 4 black 3 red 3 black 1 red 5 black 1
+black 1 red 3 black 1 black 1 red 9 black 2 red 2 black 5
+black 1 red 4 black 1 red 12 black 2 black 1
+black 1 red 3 black 1 red 8 black 5 red 1 black 1 black 1 black 1
+black 1 red 2 black 1 red 7 black 1 black 1 black 2 black 1 black 1
+black 2 red 8 black 1 black 4 black 1 black 1
+black 1 red 9 black 5 red 1 black 1 black 1 red 2
+black 1 red 16 black 5 red 3
+black 1 red 9 black 7 black 1 red 2
+black 2 red 8 black 1 black 1 black 2 black 1 black 1
+black 1 red 2 black 1 red 7 black 1 black 4 black 1 black 1
+black 1 red 3 black 1 red 8 black 5 red 1 black 1 black 1 black 1
+black 1 red 4 black 1 red 12 black 2 black 1
+black 1 red 3 black 1 black 1 red 9 black 2 red 2 black 5
+black 1 red 3 black 1 black 2 red 4 black 3 red 3 black 1 red 5 black 1
+black 1 red 3 black 1 black 5 red 5 black 1 red 3 black 3
+black 1 red 2 black 1 black 1 red 5 black 1 red 5 black 1
+black 1 red 2 black 1 black 1 red 6 black 1 red 3 black 3
+black 1 red 2 black 1 black 1 red 6 black 1 red 5 black 1
+black 2 black 1 red 7 black 5
+black 1 red 5 black 1 red 5 black 1
+black 1 red 5 black 1 red 3 black 3
+black 1 red 4 black 1 red 5 black 1
+black 2 red 2 black 1 red 3 black 3
+black 3 red 5 black 1
+black 5

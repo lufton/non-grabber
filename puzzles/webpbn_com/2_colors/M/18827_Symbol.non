@@ -1,0 +1,52 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "May 30, 2012"
+description "Simple to draw, simple to solve, but one could know it...."
+difficulty 1.5
+height 20
+id 18827
+link "https://webpbn.com/play.cgi?id=18827"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Symbol"
+width 15
+
+rows
+4
+4
+3
+4
+0
+13
+15
+0
+10
+9
+10
+9
+0
+3,4
+4,5
+4,5
+4,6
+5,6
+5,6
+5,5
+
+columns
+1
+2
+2,1,3
+2,3,6
+2,4,7
+2,4,7
+4,2,4,7
+4,2,4
+4,2,4,5
+2,1,2,4,6
+2,4,7
+2,4,7
+2,2,6
+2,4
+1,2

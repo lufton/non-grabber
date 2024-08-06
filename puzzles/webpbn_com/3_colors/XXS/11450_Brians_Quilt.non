@@ -1,0 +1,31 @@
+by "Tripper (TripperCR)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tripper"
+date "Dec 16, 2010"
+description "Has certainly caught the attraction of his peers it's almost magnetic..."
+difficulty 1.0
+height 5
+id 11450
+link "https://webpbn.com/play.cgi?id=11450"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "Brians Quilt"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 1 red 3 black 1
+black 1 red 1 black 1 red 1 black 1
+black 1 black 1 black 1
+black 5
+
+columns
+black 5
+black 1 red 2 black 1
+black 1 red 1 black 3
+black 1 red 2 black 1
+black 5

@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 30, 2011"
+description "Army Knife. One of my favorite tools and it comes in a small package. Those of you who are sticklers for accuracy, I moved the blades around a bit to make a good puzzle."
+difficulty 2.0
+height 20
+id 11982
+link "https://webpbn.com/play.cgi?id=11982"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "My Swiss..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 1
+black 1 black 2 black 3
+black 1 black 2 black 4
+black 3 black 4
+black 2 black 4
+black 2 black 2 black 4
+black 2 black 3 black 4
+black 2 black 2 black 1 black 4
+black 1 black 1 black 2 black 5
+black 4 black 1 black 4
+black 3 black 3
+black 1 red 16 black 2
+red 13 red 5
+red 12 red 3 green 6 black 1
+red 13 red 5
+red 17
+black 2
+black 1
+black 1
+black 1
+
+columns
+0
+black 6 red 3
+black 3 black 2 red 5
+black 1 black 2 red 5
+black 2 red 5
+red 5
+red 5
+red 5
+red 5
+red 5 black 1 black 1
+red 5 black 2 black 1
+red 5
+red 5
+red 2 red 2
+black 2 red 1 red 1
+black 2 red 2 red 2
+black 2 red 5
+black 2 red 5
+black 12 red 4
+black 2 black 4 red 1 red 1
+black 2 black 4
+black 2 black 4 green 1
+black 2 black 4 green 1
+black 4 green 1
+black 4 green 1
+black 4 green 1
+black 4 green 1
+black 3 black 1
+black 2
+0

@@ -1,0 +1,43 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "May 25, 2016"
+description "My little mom is 90 and needs a walker now, but she still likes to chat people up on the streets of New York--especially if they have dogs or babies."
+difficulty 1.75
+height 10
+id 28023
+link "https://webpbn.com/play.cgi?id=28023"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Ever Engaged"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1 blue 4
+green 1 black 3 blue 1
+green 3 green 1 black 2 black 1 blue 1
+green 1 green 1 green 1 black 3 blue 1
+green 1 green 1 green 1 black 1 blue 2
+red 2 black 4
+red 2 black 3
+red 4 black 1 black 1
+red 2 red 2 black 2 black 1
+black 1 black 1 black 2
+
+columns
+green 5 red 1 black 1
+green 1 red 2
+green 3 red 2
+red 3
+green 1 green 3 red 1 red 2
+black 1 black 1 red 1 black 1
+blue 1 black 3 black 1 black 1
+blue 1 black 1 black 6
+blue 1 black 3 blue 1 black 2 black 1
+blue 5 black 4

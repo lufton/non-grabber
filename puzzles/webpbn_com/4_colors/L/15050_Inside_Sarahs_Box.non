@@ -1,0 +1,82 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Jul  2, 2011"
+description "A red box with a blue box inside of it."
+difficulty 1.25
+height 30
+id 15050
+link "https://webpbn.com/play.cgi?id=15050"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Inside Sarah's Box"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 14 black 16
+blue 13 black 1
+blue 12 black 1
+blue 11 black 1
+blue 10 black 1
+blue 9 black 1
+blue 8 black 1
+blue 7 black 1
+blue 6 black 1
+blue 5 black 1
+blue 4 black 1
+blue 3 black 1
+blue 2 black 1
+blue 1 black 1
+black 30
+black 7 red 22 black 1
+black 6 red 23 black 1
+black 5 red 24 black 1
+black 4 red 25 black 1
+black 3 red 26 black 1
+black 2 red 27 black 1
+black 2 red 7 blue 15 red 5 black 1
+black 2 red 6 blue 16 red 5 black 1
+black 2 red 5 blue 17 red 5 black 1
+black 2 red 4 blue 18 red 5 black 1
+black 2 red 3 blue 19 red 5 black 1
+black 2 red 3 blue 18 red 6 black 1
+black 2 red 3 blue 17 red 6 black 2
+black 2 red 3 blue 16 red 6 black 3
+black 2 red 24 black 4
+
+columns
+blue 14 black 16
+blue 13 black 17
+blue 12 black 1 black 6 red 10
+blue 11 black 1 black 5 red 11
+blue 10 black 1 black 4 red 12
+blue 9 black 1 black 3 red 8 blue 4 red 1
+blue 8 black 1 black 2 red 8 blue 5 red 1
+blue 7 black 1 black 1 red 8 blue 6 red 1
+blue 6 black 1 black 1 red 7 blue 7 red 1
+blue 5 black 1 black 1 red 6 blue 8 red 1
+blue 4 black 1 black 1 red 6 blue 8 red 1
+blue 3 black 1 black 1 red 6 blue 8 red 1
+blue 2 black 1 black 1 red 6 blue 8 red 1
+blue 1 black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 8 red 1
+black 1 black 1 red 6 blue 7 red 2
+black 1 black 1 red 6 blue 6 red 3
+black 1 black 1 red 6 blue 5 red 4
+black 1 black 1 red 15
+black 1 black 1 red 15
+black 1 black 1 red 14 black 1
+black 1 black 1 red 13 black 2
+black 1 black 1 red 12 black 3
+black 1 black 16

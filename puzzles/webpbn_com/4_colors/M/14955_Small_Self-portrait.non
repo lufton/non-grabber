@@ -1,0 +1,54 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 27, 2011"
+description "That's me."
+difficulty 1.5
+height 18
+id 14955
+link "https://webpbn.com/play.cgi?id=14955"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Small Self-portrait"
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+red 5
+red 7
+red 5 red 1
+red 2 red 2
+red 2 blue 1 blue 1 red 2
+red 2 red 2
+red 1 black 1 red 1
+red 1 black 2 red 2
+red 2 red 1 red 1 red 2
+red 2 red 5 red 3
+red 4 red 3 red 2
+red 3 red 3
+red 5 red 5
+red 4 red 1 red 1
+red 5 red 3
+red 1 blue 1 red 1 blue 1 blue 1 red 1 blue 2
+blue 11
+
+columns
+red 1
+red 3 red 1 red 1
+red 13 blue 1
+red 4 red 5 blue 2
+red 2 red 1 red 5 blue 1
+red 3 blue 1 red 1 red 3 blue 2
+red 3 black 2 red 2 blue 1
+red 3 black 1 red 2 blue 1
+red 2 blue 1 red 2 blue 1
+red 2 red 2 red 2 blue 2
+red 5 red 3 red 2 blue 1
+red 12 blue 2
+red 3 red 2 red 1 blue 2
+red 1 red 1

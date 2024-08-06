@@ -1,0 +1,53 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Teresa K"
+date "Feb 18, 2009"
+description "An easy 911 pattern. Well I call it "easy" but Jan's checker calls it "boring.""
+difficulty 1.0
+height 15
+id 5041
+link "https://webpbn.com/play.cgi?id=5041"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Emergency"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+black 9 blue 1 blue 1
+0
+green 9 red 1 red 1
+0
+green 9 red 1 red 1
+0
+
+columns
+0
+black 9 green 1 green 1
+black 9 green 1 green 1
+black 9 green 1 green 1
+black 9 green 1 green 1
+black 9 green 1 green 1
+black 9 green 1 green 1
+black 9 green 1 green 1
+black 9 green 1 green 1
+black 9 green 1 green 1
+0
+blue 9 red 1 red 1
+0
+blue 9 red 1 red 1
+0

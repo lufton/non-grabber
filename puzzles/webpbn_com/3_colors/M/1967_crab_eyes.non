@@ -1,0 +1,61 @@
+by "kris wahl (kmw_x_2)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by kris wahl"
+date "Dec  7, 2007"
+description ""
+difficulty 1.0
+height 20
+id 1967
+link "https://webpbn.com/play.cgi?id=1967"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "crab eyes"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 10 red 4 black 2 red 3 black 1
+red 14 black 2 red 3 black 1
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 20
+black 20
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 10 red 4 black 2 red 3 black 1
+red 14 black 2 red 3 black 1
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 10 red 9 black 1
+black 20
+
+columns
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 5 red 1 black 9 red 1 black 4
+black 1 red 8 black 2 red 8 black 1
+black 1 red 8 black 2 red 8 black 1
+black 1 red 8 black 2 red 8 black 1
+black 1 red 8 black 2 red 8 black 1
+black 1 red 3 black 2 red 3 black 2 red 3 black 2 red 3 black 1
+black 1 red 3 black 2 red 3 black 2 red 3 black 2 red 3 black 1
+black 1 red 8 black 2 red 8 black 1
+black 1 red 8 black 2 red 8 black 1
+black 1 red 8 black 2 red 8 black 1
+black 20

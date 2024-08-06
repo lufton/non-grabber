@@ -1,0 +1,98 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Jan 29, 2011"
+description "Pink Floyd."
+difficulty 1.5
+height 35
+id 11950
+link "https://webpbn.com/play.cgi?id=11950"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Tribute to another great band."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+black 40
+black 40
+black 19 black 19
+black 18 black 18
+black 17 black 2 black 17
+black 17 black 4 black 17
+black 16 black 4 black 16
+black 16 black 6 black 16
+black 15 black 6 black 15
+black 15 black 8 red 3 black 13
+black 14 black 8 red 6 black 10
+black 14 black 10 green 2 red 6 black 7
+black 13 black 10 green 5 red 6 black 4
+black 13 black 12 blue 1 green 6 red 6 black 1
+black 12 black 12 blue 4 green 6 red 4
+black 12 black 3 black 8 blue 6 green 6 red 1
+black 11 black 10 black 2 blue 6 green 4
+black 9 black 15 black 4 blue 6 green 1
+black 7 black 17 black 7 blue 4
+black 4 black 2 black 17 black 9 blue 1
+black 4 black 18 black 10
+black 9 black 19 black 9
+black 8 black 20 black 9
+black 8 black 21 black 8
+black 7 black 22 black 8
+black 7 black 23 black 7
+black 6 black 24 black 7
+black 6 black 25 black 6
+black 5 black 26 black 5
+black 5 black 28 black 5
+black 4 black 28 black 4
+black 4 black 4
+black 40
+black 40
+
+columns
+black 21 black 13
+black 21 black 13
+black 21 black 13
+black 21 black 13
+black 20 black 9 black 2
+black 20 black 8 black 2
+black 20 black 6 black 2 black 2
+black 19 black 4 black 4 black 2
+black 19 black 3 black 6 black 2
+black 18 black 1 black 8 black 2
+black 18 black 10 black 2
+black 17 black 13 black 2
+black 15 black 14 black 2
+black 13 black 1 black 14 black 2
+black 11 black 3 black 14 black 2
+black 9 black 5 black 14 black 2
+black 7 black 6 black 14 black 2
+black 5 black 8 black 15 black 2
+black 4 black 10 black 15 black 2
+black 3 black 27 black 2
+black 3 black 27 black 2
+black 4 black 26 black 2
+black 5 black 24 black 2
+black 7 black 22 black 2
+black 9 red 2 black 20 black 2
+black 10 red 2 green 2 black 18 black 2
+black 10 red 2 green 2 blue 2 black 16 black 2
+black 11 red 2 green 2 blue 2 black 13 black 2
+black 11 red 2 green 2 blue 2 black 1 black 11 black 2
+black 11 red 2 green 2 blue 2 black 3 black 9 black 2
+black 12 red 2 green 2 blue 2 black 4 black 7 black 2
+black 12 red 2 green 2 blue 2 black 6 black 5 black 2
+black 12 red 2 green 2 blue 2 black 8 black 3 black 2
+black 13 red 2 green 2 blue 2 black 9 black 2 black 2
+black 13 red 2 green 2 blue 2 black 10 black 2
+black 13 red 2 green 2 blue 2 black 12 black 2
+black 14 red 2 green 2 blue 2 black 15
+black 14 red 2 green 2 blue 2 black 15
+black 14 red 2 green 2 blue 2 black 15
+black 15 red 2 green 2 blue 2 black 14

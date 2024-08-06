@@ -1,0 +1,40 @@
+by "arcadedweller"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/08"
+height 13
+id 63191
+link "https://www.griddlers.net/nonogram/-/g/63191"
+medium_time "0:01:26"
+points 642
+popularity 49.8
+title "Laptop"
+width 7
+
+color a 6666ff
+color b ffcc99
+color c 000000
+
+rows
+b 2
+c 1 b 2
+c 1 b 1 b 1
+c 1 b 1
+c 1 b 1 c 1
+c 1 b 1 c 1
+c 1 b 4 c 1
+c 1 b 1 c 4
+c 1 b 5
+c 5 b 1
+c 1 c 1 b 1
+c 1 c 1 b 1
+c 1 c 1 b 2
+
+columns
+c 12
+b 7 c 1
+b 2 b 1 b 1 c 1
+b 2 b 1 c 1 b 1 c 1
+b 1 b 1 c 1 b 1 c 4
+c 1 b 5
+c 4 b 1

@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "May 28, 2024"
+description "If the shoe fits, walk a mile in it."
+difficulty 1.75
+height 15
+id 38661
+link "https://webpbn.com/play.cgi?id=38661"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Messed up saying 14"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+black 1 red 2
+black 2 red 3
+black 3 red 5
+black 4 red 7
+black 5 red 10
+black 6 red 12
+black 4 red 10
+black 3 red 8
+black 2 red 6
+black 2 red 4
+black 3 red 2
+black 4
+black 3
+black 1
+
+columns
+black 4
+black 5
+black 5
+black 5
+black 5
+black 7
+black 1 red 3 black 4
+red 5 black 4
+red 6 black 2
+red 6 black 1
+red 6
+red 5
+red 4
+red 5
+red 4
+red 5
+red 4
+red 5
+red 6
+red 6

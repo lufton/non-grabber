@@ -1,0 +1,62 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Marie-Louise Ambrey"
+date "Sep  2, 2007"
+description "Chicken and egg, or is that egg and chicken?"
+difficulty 2.5
+height 20
+id 1279
+link "https://webpbn.com/play.cgi?id=1279"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Age old question."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1 red 1 red 1
+red 5
+black 4 black 1
+black 3 blue 1 black 1 black 2
+black 2 black 1 black 2 black 1
+black 3 black 1 black 2 black 3
+black 2 black 2 black 2 black 2 black 2
+black 2 black 10 black 2
+black 2 black 2 black 1 black 1 black 2 black 2
+black 2 black 3 black 1 black 5
+black 2 black 2 black 1 black 2 black 2
+black 2 black 2 black 2 black 1
+black 2 black 3 black 2
+black 2 black 2
+black 4 black 3
+black 5
+black 5 black 2 black 3
+black 2 black 1 black 5
+black 1 black 1 black 5
+black 5 black 3
+
+columns
+black 1
+red 1 black 1 black 1
+red 1 black 3
+red 2 black 1 black 9
+red 1 black 1 blue 1 black 8 black 3
+red 2 black 1 black 2 black 2
+red 1 black 9 black 1 black 1
+red 1 black 6 black 3 black 1
+black 1 black 1 black 2 black 3 black 1
+black 2 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 6
+black 2 black 2 black 3 black 1
+black 2 black 2 black 2
+black 5 black 2
+black 2 black 6 black 2
+black 3 black 2 black 2 black 4
+black 1 black 2 black 2 black 4
+black 2 black 2 black 4
+black 3 black 2
+black 1

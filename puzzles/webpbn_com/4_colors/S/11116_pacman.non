@@ -1,0 +1,52 @@
+by "koakuma (koakuma)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by koakuma"
+date "Nov 23, 2010"
+description "when he eats big points, pacman becomes evil and is trying to eat the poor little ghosts... ok i had nothing to do and i thought about that PS: lol at first i only thought about a normal pacman picture, but because there's no yellow, i used black, so i thought about an evil pacman =P that's what happens when there are colors missing"
+difficulty 1.25
+height 15
+id 11116
+link "https://webpbn.com/play.cgi?id=11116"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "pacman"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 8
+black 10
+black 9
+black 8
+black 1 red 1 black 5
+blue 3 black 6
+blue 5 black 5
+red 1 blue 1 red 1 blue 2 black 4
+blue 5 black 5
+blue 5 black 5
+blue 5 black 6
+blue 1 blue 1 black 7
+black 8
+black 9
+black 10
+
+columns
+0
+blue 1 red 1 blue 3
+blue 7
+blue 2 red 1 blue 3
+blue 6
+black 1 blue 6 black 1
+black 3 black 2
+black 4 black 3
+black 5 black 4
+black 4 red 1 black 1 black 5
+black 7 black 7
+black 15
+black 15
+black 15
+black 14

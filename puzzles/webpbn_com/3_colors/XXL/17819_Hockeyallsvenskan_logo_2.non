@@ -1,0 +1,177 @@
+by "David (Havenstrom)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David"
+date "Mar  7, 2012"
+description "RÃ¶gle BK"
+difficulty 3.0
+height 78
+id 17819
+link "https://webpbn.com/play.cgi?id=17819"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Hockeyallsvenskan logo #2"
+width 78
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2
+green 4
+green 4 green 2 green 10
+green 8 green 8 green 3
+green 4 green 7 green 3 green 4 green 7
+green 7 green 2 green 5 green 4 green 4 green 10
+green 9 green 4 green 5 green 12
+green 10 green 3 green 1 black 3 green 1 green 13
+green 11 green 2 black 5 green 1 green 5 green 8
+green 7 green 3 green 2 black 16 green 1 green 4 green 9
+green 8 green 3 green 3 black 2 green 1 black 12 green 1 green 4 green 10
+green 12 green 3 green 2 black 12 green 3 green 5 green 7
+green 7 green 4 green 2 black 14 green 1 green 6 green 8
+green 7 green 4 green 1 black 13 green 1 green 9 green 6
+green 7 green 6 green 1 black 12 green 2 green 4 green 2 green 6
+green 6 green 2 green 3 green 1 green 8 black 11 green 3 green 4 green 3 green 7
+green 7 green 2 green 3 green 11 black 11 green 4 green 4 green 12
+green 7 green 6 green 11 black 12 green 2 green 5 green 2 green 6
+green 15 green 10 black 13 green 2 green 5 green 1 green 1 green 4
+green 6 green 3 green 4 green 9 black 12 green 4 green 4 green 2 green 2 green 4
+green 3 green 2 green 3 green 3 green 6 black 13 green 3 green 5 green 4 green 3
+green 4 green 1 green 3 green 4 green 2 black 17 green 2 green 6 green 3 green 4
+green 3 green 3 green 6 green 6 black 17 green 3 green 5 green 2 green 3
+green 4 green 2 green 6 green 5 black 20 green 2 green 5 green 2 green 4
+green 3 green 1 green 5 green 3 black 21 green 2 green 6 green 3 green 3
+green 3 green 1 green 6 green 3 black 6 black 11 green 3 green 10 green 4
+green 3 green 16 black 3 black 2 black 1 green 11 green 3
+green 3 green 15 green 6 green 3
+green 3 green 4 green 4
+green 3 green 3
+green 3 green 3
+green 3 green 2 green 2 green 3
+green 3 green 2 green 2 green 3
+green 3 green 3
+green 3 green 9 green 7 green 8 green 5 green 11 green 3
+green 3 green 10 green 9 green 9 green 5 green 11 green 3
+green 3 green 10 green 9 green 9 green 5 green 11 green 3
+green 3 green 4 green 4 green 4 green 4 green 4 green 3 green 5 green 4 green 3 green 3
+green 3 green 3 green 4 green 3 green 3 green 3 green 2 green 5 green 4 green 3 green 3
+green 3 green 3 green 4 green 3 green 3 green 3 green 2 green 3 green 4 green 3 green 3
+green 3 green 8 green 3 green 3 green 3 green 3 green 4 green 3
+green 3 green 7 green 3 green 3 green 3 green 3 green 7 green 3
+green 3 green 7 green 3 green 3 green 3 green 4 green 3 green 7 green 3
+green 3 green 8 green 3 green 3 green 3 green 5 green 3 green 7 green 3
+green 3 green 3 green 3 green 3 green 3 green 3 green 5 green 3 green 7 green 3
+green 3 green 3 green 3 green 3 green 3 green 3 green 5 green 3 green 4 green 3
+green 3 green 3 green 3 green 3 green 3 green 3 green 2 green 3 green 4 green 3 green 3
+green 2 green 3 green 3 green 3 green 3 green 3 green 2 green 3 green 4 green 3 green 3
+green 3 green 3 green 3 green 3 green 3 green 3 green 2 green 3 green 2 green 4 green 3 green 3
+green 3 green 3 green 3 green 3 green 3 green 4 green 3 green 4 green 3 green 4 green 3 green 3
+green 3 green 5 green 4 green 4 green 4 green 9 green 9 green 11 green 3
+green 3 green 5 green 4 green 9 green 9 green 9 green 10 green 3
+green 3 green 5 green 4 green 9 green 9 green 9 green 9 green 3
+green 4 green 4 green 4 green 9 green 9 green 9 green 8 green 3
+green 3 green 3 green 4 green 9 green 9 green 9 green 7 green 3
+green 3 green 2 green 4 green 9 green 9 green 9 green 6 green 3
+green 3 green 1 green 4 green 9 green 9 green 9 green 5 green 3
+green 4 green 4 green 9 green 9 green 9 green 4 green 3
+green 3 green 3 green 9 green 9 green 9 green 3 green 3
+green 4 green 2 green 9 green 9 green 9 green 1 green 4
+green 4 green 1 green 9 green 9 green 8 green 3
+green 3 green 8 green 9 green 8 green 4
+green 4 green 7 green 9 green 6 green 4
+green 4 green 5 green 9 green 4 green 4
+green 4 green 3 green 7 green 4
+green 4 green 4
+green 4 green 4
+green 4 green 4
+green 5 green 5
+green 5 green 5
+green 6 green 6
+green 6 green 5
+green 6 green 6
+green 7 green 7
+green 8 green 8
+green 29
+green 23
+green 16
+
+columns
+green 14
+green 22
+green 28
+green 10 green 8
+green 8 green 7
+green 7 green 7
+green 6 green 5
+green 6 green 6
+green 5 green 5
+green 7 green 5
+green 10 green 4
+green 7 green 2 green 4
+green 8 green 5 green 4 green 3 green 4
+green 12 green 1 green 20 green 4
+green 6 green 5 green 1 green 21 green 4
+green 7 green 3 green 2 green 2 green 22 green 4
+green 7 green 4 green 7 green 3 green 4 green 7 green 3
+green 7 green 14 green 3 green 4 green 4
+green 6 green 1 green 11 green 24 green 3
+green 7 green 15 green 25 green 3
+green 15 green 5 green 7 green 17 green 3
+green 5 green 6 green 3 green 5 green 11 green 3
+green 5 green 5 green 2 green 3
+green 9 green 2 green 3
+green 7 green 3 green 2 green 3 green 3
+green 1 green 5 green 8 green 7 green 26 green 3
+green 2 green 2 green 4 green 7 green 28 green 3
+green 4 green 2 green 5 green 2 black 1 green 4 green 2 green 29 green 3
+green 6 green 3 green 6 green 2 black 2 green 2 green 2 green 4 green 13 green 3
+green 2 green 5 green 8 black 3 green 2 green 3 green 13 green 3
+green 6 black 1 green 8 black 4 green 2 green 4 green 14 green 3
+green 4 black 2 green 6 black 6 green 2 green 30 green 3
+green 3 black 2 green 1 green 6 black 6 green 31 green 3
+green 4 black 1 green 2 black 1 green 6 black 5 green 30 green 3
+green 2 green 1 black 6 green 3 black 7 green 1 green 3
+green 2 black 16 green 3
+green 2 black 17 green 29 green 3
+green 2 green 1 black 17 green 31 green 3
+green 4 black 18 green 31 green 3
+green 4 black 18 green 4 green 16 green 3
+green 4 black 17 green 3 green 3 green 15 green 3
+green 2 black 18 green 3 green 4 green 15 green 3
+green 2 green 2 black 18 green 4 green 4 green 16 green 3
+green 5 black 19 green 6 green 23 green 3
+green 5 black 20 green 6 green 22 green 3
+green 5 black 19 green 3
+green 1 green 8 black 2 green 3 black 2 green 1 black 6 green 1 green 3
+green 10 black 4 green 2 green 5 green 15 green 2
+green 4 green 1 green 8 black 1 green 4 green 30 green 3
+green 6 green 1 green 9 green 30 green 3
+green 8 green 2 green 2 green 30 green 3
+green 9 green 2 green 5 green 13 green 3
+green 11 green 2 green 13 green 3
+green 4 green 5 green 3 green 13 green 3
+green 5 green 6 green 3 green 14 green 3
+green 15 green 4 green 12 green 3
+green 6 green 15 green 3
+green 6 green 2 green 11 green 3 green 10 green 4
+green 5 green 1 green 9 green 25 green 3
+green 20 green 25 green 4
+green 10 green 3 green 1 green 24 green 4
+green 5 green 3 green 1 green 2 green 23 green 3
+green 5 green 5 green 3 green 3 green 4 green 6 green 4
+green 8 green 6 green 3 green 4 green 5 green 4
+green 7 green 3 green 3 green 4 green 4 green 4
+green 7 green 3 green 6 green 7 green 4
+green 8 green 6 green 6 green 4
+green 5 green 6 green 5 green 4
+green 5 green 4
+green 5 green 5
+green 6 green 5
+green 6 green 6
+green 7 green 6
+green 8 green 7
+green 9 green 9
+green 29
+green 23
+green 15

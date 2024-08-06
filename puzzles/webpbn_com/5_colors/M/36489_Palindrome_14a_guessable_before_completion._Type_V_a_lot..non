@@ -1,0 +1,88 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Mar  1, 2023"
+description "2 words, 7 letters. Don't overthink it! I have a few more that are slightly more artistic, or less inartistic, as the case may be. But I hope this gives some giggles. Also, this feels trivial to solve, but is it officially trivially solvable? I'll let the audience decide."
+difficulty 1.0
+height 5
+id 36489
+link "https://webpbn.com/play.cgi?id=36489"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Palindrome 14a: guessable before completion. Type V a lot."
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 black 1 black 1 black 3 blue 1 blue 3 red 1 green 3 green 3 black 3 black 3 blue 3 red 1 red 3 green 3 green 3
+black 1 black 1 black 1 black 1 blue 1 blue 1 red 1 green 1 green 1 green 1 black 1 black 1 black 1 black 1 blue 1 blue 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1
+black 1 black 3 black 3 blue 1 blue 1 red 1 green 1 green 1 green 3 black 1 black 1 black 1 black 1 blue 3 red 1 red 1 red 1 green 3 green 1 green 1
+black 1 black 1 black 1 black 1 blue 1 blue 1 red 1 green 1 green 1 green 1 black 1 black 1 black 1 black 1 blue 1 blue 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1
+black 1 black 1 black 1 black 3 blue 1 blue 1 red 1 green 3 green 1 black 3 black 1 black 1 blue 1 blue 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1
+
+columns
+black 1
+black 5
+black 1
+0
+black 5
+black 1
+black 5
+0
+black 5
+black 1 black 1 black 1
+black 1 black 1 black 1
+0
+0
+blue 5
+0
+blue 1
+blue 5
+blue 1
+0
+0
+red 5
+0
+0
+green 5
+green 1 green 1
+green 5
+0
+green 5
+green 1 green 1
+green 1 green 1
+0
+0
+black 5
+black 1 black 1
+black 5
+0
+black 5
+black 1
+black 5
+0
+0
+blue 5
+blue 1 blue 1
+blue 5
+0
+0
+red 5
+0
+red 5
+red 1
+red 5
+0
+0
+green 5
+green 1 green 1
+green 5
+0
+green 5
+green 1
+green 5

@@ -1,0 +1,103 @@
+by "Scott C (estray98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Scott C"
+date "Aug  8, 2008"
+description "step on up =>)"
+difficulty 2.25
+height 30
+id 3232
+link "https://webpbn.com/play.cgi?id=3232"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "care to wet your whistle"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 black 3
+black 3 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 black 3
+black 3 green 3 red 3 blue 3 green 3 red 3 blue 3 green 3 red 3 blue 3 green 3 black 3
+black 3 green 3 red 3 blue 3 green 3 red 3 blue 3 green 3 red 3 blue 3 green 3 black 3
+black 2 green 3 red 3 blue 3 green 3 red 3 blue 3 green 3 red 3 blue 3 green 3 black 3
+black 42
+0
+red 3 red 1 green 1 green 1 green 3 blue 3 blue 1 blue 2
+red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 3 red 1 red 3 red 2 green 1 green 1 green 3 blue 3 blue 3 blue 1 blue 2 blue 3 blue 3
+red 1 red 1 red 1 red 1 red 1 green 1 green 1 green 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+red 1 red 1 red 3 red 1 red 1 green 4 green 1 green 1 blue 1 blue 3 blue 1 blue 2 blue 3 blue 1 blue 1
+0
+0
+black 50
+black 1 red 8 black 1 blue 9 black 1 red 9 black 1 blue 9 black 1 red 9 black 1
+black 1 red 8 black 1 blue 9 black 1 red 9 black 1 blue 9 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 5 blue 3 black 1 red 2 green 5 red 2 black 1 blue 1 green 7 blue 1 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 1 blue 4 green 1 blue 2 black 1 red 1 green 1 red 5 green 1 red 1 black 1 blue 1 green 1 blue 5 green 1 blue 1 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 1 blue 4 green 1 blue 2 black 1 red 1 green 1 red 5 green 1 red 1 black 1 blue 1 green 1 blue 5 green 1 blue 1 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 1 blue 3 green 1 blue 3 black 1 red 1 green 1 red 5 green 1 red 1 black 1 blue 1 green 1 blue 5 green 1 blue 1 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 5 blue 3 black 1 red 1 green 7 red 1 black 1 blue 1 green 7 blue 1 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 1 blue 4 green 1 blue 2 black 1 red 1 green 7 red 1 black 1 blue 1 green 2 blue 6 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 1 blue 4 green 1 blue 2 black 1 red 1 green 1 red 5 green 1 red 1 black 1 blue 1 green 1 blue 1 green 1 blue 5 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 1 blue 4 green 1 blue 2 black 1 red 1 green 1 red 5 green 1 red 1 black 1 blue 1 green 1 blue 2 green 1 blue 4 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 1 blue 4 green 1 blue 2 black 1 red 1 green 1 red 5 green 1 red 1 black 1 blue 1 green 1 blue 3 green 1 blue 3 black 1 red 9 black 1
+black 1 red 8 black 1 blue 1 green 5 blue 3 black 1 red 1 green 1 red 5 green 1 red 1 black 1 blue 1 green 1 blue 4 green 2 blue 1 black 1 red 9 black 1
+black 1 red 8 black 1 blue 9 black 1 red 9 black 1 blue 9 black 1 red 9 black 1
+black 1 red 8 black 1 blue 9 black 1 red 9 black 1 blue 9 black 1 red 9 black 1
+black 1 red 8 black 1 blue 9 black 1 red 9 black 1 blue 9 black 1 red 9 black 1
+
+columns
+black 2 black 16
+black 3 black 1 red 15
+black 4 red 5 black 1 red 15
+black 3 red 1 red 1 black 1 red 15
+black 3 red 3 black 1 red 15
+green 3 black 1 black 1 red 15
+green 5 black 1 red 1 red 3 black 1 red 15
+green 3 black 1 black 1 red 15
+black 1 red 3 black 1 red 15
+red 3 black 1 red 1 red 1 black 16
+red 5 black 1 red 1 red 1 black 1 blue 15
+red 3 black 1 black 1 blue 2 green 10 blue 3
+black 1 red 4 black 1 blue 2 green 1 blue 3 green 1 blue 4 green 1 blue 3
+blue 3 black 1 red 1 black 1 blue 2 green 1 blue 3 green 1 blue 4 green 1 blue 3
+blue 5 black 1 red 1 red 2 black 1 blue 2 green 1 blue 3 green 1 blue 4 green 1 blue 3
+blue 3 black 1 black 1 blue 2 green 1 blue 2 green 2 blue 4 green 1 blue 3
+black 1 black 1 blue 3 green 2 blue 2 green 4 blue 4
+green 3 black 1 black 1 blue 15
+green 5 black 1 green 5 black 1 blue 15
+green 3 black 1 green 1 black 16
+black 1 green 1 black 1 red 15
+red 3 black 1 green 5 black 1 red 3 green 9 red 3
+red 5 black 1 black 1 red 2 green 1 red 3 green 2 red 7
+red 3 black 1 green 5 black 1 red 2 green 1 red 3 green 2 red 7
+black 1 green 1 green 2 black 1 red 2 green 1 red 3 green 2 red 7
+blue 3 black 1 green 3 green 1 black 1 red 2 green 1 red 3 green 2 red 7
+blue 5 black 1 black 1 red 2 green 1 red 3 green 2 red 7
+blue 3 black 1 black 1 red 3 green 9 red 3
+black 1 blue 5 black 1 red 15
+green 3 black 1 blue 1 blue 1 black 16
+green 5 black 1 blue 3 black 1 blue 15
+green 3 black 1 black 1 blue 2 green 10 blue 3
+black 1 blue 3 black 1 blue 2 green 1 blue 3 green 2 blue 7
+red 3 black 1 blue 1 blue 1 black 1 blue 2 green 1 blue 3 green 1 blue 1 green 1 blue 6
+red 5 black 1 blue 3 black 1 blue 2 green 1 blue 3 green 1 blue 2 green 1 blue 5
+red 3 black 1 black 1 blue 2 green 1 blue 3 green 1 blue 3 green 1 blue 4
+black 1 blue 1 blue 3 black 1 blue 2 green 1 blue 3 green 1 blue 4 green 1 blue 3
+blue 3 black 1 black 1 blue 2 green 5 blue 4 green 1 blue 3
+blue 5 black 1 blue 3 blue 1 black 1 blue 15
+blue 3 black 1 blue 1 blue 3 black 16
+black 1 black 1 red 15
+green 3 black 1 blue 3 black 1 red 15
+green 5 black 1 blue 1 blue 1 black 1 red 15
+green 3 black 1 blue 3 black 1 red 15
+black 2 black 1 red 15
+black 3 blue 3 black 1 red 15
+black 3 blue 1 black 1 red 15
+black 4 blue 3 black 1 red 15
+black 3 black 1 red 15
+black 2 black 16

@@ -1,0 +1,62 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Apr 24, 2009"
+description "my head before history exam"
+difficulty 1.5
+height 20
+id 5710
+link "https://webpbn.com/play.cgi?id=5710"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.75
+title "before exam(3)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1 black 3 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 1
+0
+blue 1 blue 3 blue 3 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 3 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 3 blue 1
+0
+red 1 red 3 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1
+red 1 red 3 red 3 red 1
+red 1 red 1 red 1 red 1
+red 1 red 3 red 1 red 1
+0
+0
+
+columns
+red 5
+black 5
+red 3 red 1
+black 3 red 1 red 1 red 1
+black 1 black 1 red 1 red 3
+black 5
+blue 5 red 3
+black 1 black 1 black 1 red 1
+black 1 black 1 black 1 blue 1 red 5
+black 5 blue 1 blue 1
+blue 5 red 5
+black 3 blue 1
+black 1 black 1
+black 5 blue 5
+blue 1 blue 1
+blue 5
+0
+blue 5
+0
+0

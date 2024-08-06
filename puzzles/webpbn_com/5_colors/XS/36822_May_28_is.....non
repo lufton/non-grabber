@@ -1,0 +1,38 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "May 11, 2023"
+description "National Hamburger Day!"
+difficulty 1.0
+height 8
+id 36822
+link "https://webpbn.com/play.cgi?id=36822"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "May 28 is...."
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 7
+blue 1 blue 1
+blue 1 red 5 blue 1
+blue 1 green 5 blue 1
+blue 1 blue 1
+blue 1 black 5 blue 1
+blue 1 blue 1
+blue 7
+
+columns
+blue 8
+blue 1 red 1 green 1 black 1 blue 1
+blue 1 red 1 green 1 black 1 blue 1
+blue 1 red 1 green 1 black 1 blue 1
+blue 1 red 1 green 1 black 1 blue 1
+blue 1 red 1 green 1 black 1 blue 1
+blue 8

@@ -1,0 +1,71 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Apr  9, 2020"
+description ""
+difficulty 1.0
+height 35
+id 33869
+link "https://webpbn.com/play.cgi?id=33869"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "EGOT3"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 3
+green 3
+green 3
+green 3
+green 7
+green 9
+green 9
+green 9
+green 9
+green 9
+green 7
+green 7
+green 7
+green 7
+green 5
+green 5
+green 5
+green 5
+green 5
+green 3
+green 3
+green 3
+green 3
+green 3
+green 5
+green 9
+green 9
+black 13
+black 11
+black 11
+black 11
+black 11
+black 11
+black 15
+black 15
+
+columns
+black 2
+black 1 black 2
+black 8
+green 5 green 2 black 8
+green 10 green 2 black 8
+green 15 green 3 black 8
+green 27 black 8
+green 27 black 8
+green 27 black 8
+green 15 green 3 black 8
+green 10 green 2 black 8
+green 5 green 2 black 8
+black 8
+black 1 black 2
+black 2

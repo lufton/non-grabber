@@ -1,0 +1,105 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/14/11"
+height 35
+id 105612
+link "https://www.griddlers.net/nonogram/-/g/105612"
+medium_time "0:46:17"
+points 34279
+popularity 88.44
+title "Poinsettia"
+width 45
+
+color a f2fcf2
+color b a92632
+color c d7032f
+color d f54c4c
+color e 49802c
+color f 659049
+color g 91bc6a
+color h fedc71
+
+rows
+b 1 b 3
+b 3 b 4
+b 6 b 6
+b 2 c 1 b 4 d 1 b 4 c 1 b 2
+b 3 c 1 b 1 c 1 b 1 d 3 b 3 c 1 b 4
+b 3 c 1 b 1 c 1 b 2 d 2 b 3 c 1 b 5
+c 5 b 4 c 1 b 1 d 3 b 3 c 1 b 4 c 5
+c 1 d 3 c 4 b 3 d 3 b 2 c 1 b 3 c 2 b 2 c 5
+d 2 b 1 d 4 c 1 b 2 d 3 b 2 c 1 b 2 c 2 b 1 c 6
+b 3 d 3 b 3 d 2 c 1 b 1 d 3 b 2 c 1 b 1 c 3 b 4 c 2
+b 6 d 5 b 2 c 1 b 2 d 2 b 3 c 2 b 2 c 5
+b 9 d 5 c 2 h 2 d 1 h 2 b 1 c 1 b 1 c 4 b 6
+b 6 c 7 b 1 h 2 c 1 h 1 e 3 h 1 c 4 b 10
+b 2 c 3 b 3 c 1 b 3 c 1 h 1 e 1 c 1 e 2 h 1 e 1 h 1 c 1 b 6 d 3 b 4
+b 5 c 2 b 3 g 2 e 1 c 1 h 2 h 2 b 2 c 6 b 2 d 3 b 2
+g 2 f 1 b 7 g 1 c 1 b 2 e 1 c 1 e 1 d 1 c 10 b 3 d 1 b 2
+f 4 g 1 f 1 b 4 f 2 b 7 g 1 b 1 c 3 d 2 b 6 c 3 b 5
+f 7 g 2 f 3 b 4 c 2 b 2 c 1 g 2 b 1 c 5 d 2 b 1 d 2 b 1 c 2 b 2 b 1
+g 8 f 4 g 1 f 1 b 3 c 3 b 2 c 2 b 1 c 2 b 1 c 3 d 2 b 1 d 2 b 1 c 1
+g 9 f 2 b 3 c 1 b 2 c 1 b 2 c 3 b 1 c 3 b 1 c 6 d 2 c 2
+g 9 b 3 c 1 b 3 c 1 b 2 c 3 b 2 c 2 b 1 c 2 c 4
+g 8 b 2 c 1 b 3 c 1 b 2 c 4 b 3 c 3 b 1 c 2
+g 5 f 1 b 2 c 1 b 3 c 1 b 3 c 4 b 3 c 3 b 1 c 2
+f 4 b 2 c 1 b 6 c 5 b 3 c 3 b 1 c 2
+b 8 c 4 e 1 b 4 c 3 b 1 c 1
+b 4 g 3 c 3 e 1 b 3 c 4
+b 2 g 2 c 2 e 1 b 1 c 1
+b 1 g 2 c 1 e 1
+g 2 e 1
+g 2 e 1
+g 2 e 1
+e 1
+e 1
+e 1
+e 1
+
+columns
+g 1
+g 1
+g 2
+f 1 g 3
+f 1 g 4
+f 2 g 5
+b 1 f 2 g 5
+b 3 g 1 f 2 g 5 f 1
+b 5 g 1 f 3 g 4 f 1
+b 3 c 1 b 1 f 1 g 1 f 2 g 4 f 1
+b 4 c 1 b 2 f 1 g 1 f 1 g 3 f 2 b 3
+b 4 c 1 b 3 g 1 f 2 g 2 b 5
+c 2 b 3 c 1 b 4 f 1 g 1 f 1 b 6
+c 1 d 3 b 2 c 1 b 1 c 1 b 2 f 2 b 3 c 2 b 2
+c 1 d 4 b 1 c 1 b 1 c 1 b 2 f 1 b 3 c 1 b 3
+c 1 d 1 b 1 d 2 b 1 c 2 b 2 f 1 b 3 c 1 b 4
+b 4 c 2 d 1 b 1 d 2 c 1 b 3 f 1 b 2 c 1 b 5 g 1
+b 6 c 1 d 1 b 1 d 2 c 1 b 2 b 2 c 1 b 3 c 1 b 2 g 1
+b 3 c 1 b 3 c 1 d 1 b 1 d 2 c 1 b 1 b 2 c 1 b 2 c 1 b 3 g 2
+b 3 c 2 b 1 c 1 d 2 b 1 d 1 b 1 c 1 b 1 c 4 b 3 g 2
+b 6 c 1 d 1 b 1 d 1 h 2 g 1 b 1 c 1 b 5 c 2 g 2
+b 2 c 3 b 2 c 3 h 1 e 1 g 2 b 5 c 5 g 2
+b 8 c 3 e 1 c 1 b 2 c 10 g 2
+b 1 d 4 b 1 h 2 e 1 c 1 b 2 c 10 g 1
+d 7 h 1 e 2 h 1 b 1 g 2 c 5 e 11
+d 9 e 1 h 2 e 1 b 1 g 1 b 5
+d 1 b 6 h 1 e 2 c 2 b 10
+b 8 h 2 h 1 e 1 c 4 b 6
+b 5 c 3 b 2 c 1 h 2 d 1 c 8 b 1
+b 3 c 2 b 3 c 4 b 1 c 1 d 1 c 1 b 1 c 6
+b 3 c 1 b 4 c 2 b 1 c 1 b 2 c 1 d 1 c 2 b 2 c 5
+b 2 c 1 b 4 c 2 b 1 c 2 b 1 c 2 b 1 c 4 b 3 c 2
+b 7 c 3 b 1 c 1 b 2 c 2 b 1 d 1 c 6 b 1 c 1
+b 7 c 1 b 2 c 2 b 2 c 2 b 1 d 2 c 1 c 6
+b 1 b 2 c 1 b 1 c 1 b 1 c 2 b 2 c 2 b 2 d 1 c 1
+c 1 b 1 c 1 b 1 c 1 b 3 c 2 b 1 d 1 b 1 c 1
+c 3 b 1 c 1 b 2 d 1 c 2 b 1 d 2 c 1
+c 5 b 2 d 1 b 1 c 2 b 1 d 2 c 1
+c 4 b 2 d 1 b 1 c 3 b 1 d 1 c 1
+c 2 b 3 d 1 b 1 c 5
+c 1 b 3 d 1 b 3 c 2
+b 2 d 1 b 3
+b 2 d 1 b 1
+b 3
+b 3

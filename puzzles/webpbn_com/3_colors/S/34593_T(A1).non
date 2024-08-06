@@ -1,0 +1,51 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "Oct 31, 2020"
+description "AT&T"
+difficulty 2.0
+height 15
+id 34593
+link "https://webpbn.com/play.cgi?id=34593"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "T(A+1)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 3
+blue 1 black 1 blue 1 blue 1 black 1
+blue 1 black 4 blue 3 black 3 blue 1
+black 1 blue 2 black 5 blue 2 blue 1
+blue 1 black 2 blue 2 blue 2
+blue 1 black 7 blue 2 black 1 blue 3
+black 1 blue 2 black 7 blue 1
+black 3 blue 1 blue 2
+black 6 blue 6 black 1 blue 1
+blue 1 black 1 blue 1 black 7 blue 2 blue 1
+black 2 blue 2
+blue 1 black 5 blue 7
+blue 1 black 1 blue 6 blue 1
+blue 1 black 2 blue 6
+blue 4
+
+columns
+blue 2 black 3 blue 1
+blue 1 black 3 blue 1 black 4 blue 1
+blue 1 black 1 blue 1 black 2 blue 1 black 2 blue 1 black 2 blue 1
+blue 1 black 2 blue 2 black 2 blue 1 black 2 black 2 blue 1
+blue 2 black 2 blue 1 black 2 black 2 black 1 blue 1 black 1
+blue 1 black 2 black 2 black 2 black 1 blue 1 black 1
+blue 1 black 1 black 2 blue 1 black 1 black 1 blue 3
+blue 1 black 1 black 2 blue 1 black 1 blue 4
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 4
+black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 4
+black 1 blue 1 black 1 blue 1 blue 2 blue 1 blue 1
+blue 1 black 1 blue 1 blue 2 blue 1 blue 1
+black 1 blue 1 blue 1 black 1 blue 2
+blue 2 blue 2 blue 2
+blue 2 blue 1 blue 2

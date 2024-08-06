@@ -1,0 +1,67 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/30/04"
+height 20
+id 15470
+link "https://www.griddlers.net/nonogram/-/g/15470"
+medium_time "0:08:23"
+points 2341
+popularity 68.16
+title "Box"
+width 25
+
+color a ffffff
+color b 4040b4
+color c 8080ff
+color d 00005a
+color e a0a0ff
+
+rows
+b 1
+b 5 c 3
+b 7 c 4
+b 10 c 7
+b 11 d 1 b 2 c 7
+b 9 d 3 b 3 c 6
+b 6 d 5 b 4 c 4
+b 4 d 7 b 6 c 1
+d 10 b 6 e 4
+c 5 d 9 b 4 e 5
+c 5 d 9 b 2 e 6
+c 5 d 8 b 1 e 5
+c 5 d 6 e 6
+c 6 d 3 e 6 b 2
+c 6 d 1 e 6 b 2
+c 4 e 1 b 1 e 4 b 2
+e 2 b 2 e 2 b 2
+e 1 b 5
+e 1 b 3
+b 2
+
+columns
+c 2
+c 3
+b 2 c 5
+b 4 c 6
+b 5 d 1 c 7
+b 5 d 3 c 5
+b 5 d 4 c 4
+b 5 d 6 c 3 e 1
+b 5 d 7 c 1 e 4
+b 5 d 9 b 5
+b 5 d 8 e 2 b 4
+b 4 d 8 e 4 b 2
+b 5 d 8 e 4 b 1
+b 3 d 8 e 4 b 2
+b 8 e 3 b 2
+c 1 b 7 e 4 b 1
+c 4 b 5 e 4 b 1
+c 5 b 4 e 3 b 2
+c 6 b 2 e 4 b 1
+c 5 b 2 e 3
+c 5 e 3
+c 4 e 3
+c 2 e 2
+e 1
+0

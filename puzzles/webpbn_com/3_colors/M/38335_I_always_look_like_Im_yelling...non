@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar 10, 2024"
+description "that's why they call me a crab!"
+difficulty 1.5
+height 20
+id 38335
+link "https://webpbn.com/play.cgi?id=38335"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "I always look like I'm yelling.."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+0
+red 3 red 3
+red 1 red 1
+red 3 red 3
+red 2 red 2
+red 1 red 1
+red 1 red 9 red 1
+red 6 black 1 red 2 black 1 red 5
+red 13
+red 15
+red 4 red 4
+red 2 red 7 red 2
+red 2 red 1 red 1 red 2
+black 1 red 1 black 2 red 1 black 9 red 1 black 2 red 1 black 2
+black 1 red 1 black 2 red 1 black 9 red 1 black 2 red 1 black 2
+black 20
+
+columns
+black 3
+red 4 red 3 black 1
+red 4 red 1 red 1 red 2 black 3
+red 1 red 1 red 3 red 1 black 3
+red 1 red 1 red 4 red 2 black 1
+red 5 red 1 black 3
+red 6 black 3
+red 1 red 4 black 3
+red 1 black 1 red 2 red 1 black 3
+red 4 red 1 black 3
+red 4 red 1 black 3
+red 1 red 4 black 3
+red 1 black 1 red 4 black 3
+red 5 red 1 black 3
+red 1 red 1 red 4 red 2 black 1
+red 1 red 1 red 3 red 1 black 3
+red 4 red 1 red 1 red 2 black 3
+red 4 red 3 black 1
+black 3
+black 3

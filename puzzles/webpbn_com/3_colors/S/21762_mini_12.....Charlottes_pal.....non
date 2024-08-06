@@ -1,0 +1,51 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Apr 21, 2013"
+description ""
+difficulty 2.25
+height 15
+id 21762
+link "https://webpbn.com/play.cgi?id=21762"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "mini #12.....Charlotte's pal...."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4 red 2
+red 1 red 3 red 1 red 1
+red 2 red 3 red 3 red 1
+red 1 black 1 red 1 black 5 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 black 1 red 1 black 2 red 1
+red 2 red 3
+black 1 red 2 red 3 black 1 red 1
+black 2 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1
+black 1 red 2 red 2 black 1 red 2
+black 1 red 3 black 1 red 3
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 2
+black 1 red 3 black 1 red 1
+black 2 black 3 black 1 red 2
+black 2 black 2 red 2
+black 8 red 2
+
+columns
+red 4 black 6
+red 2 black 2 red 1 black 2 black 2
+red 2 red 2 black 2
+black 1 red 1 black 1 red 1 red 1 black 1
+black 1 red 2 red 1 black 1 red 1 black 1 black 1
+red 1 black 1 red 3 black 1 black 1
+red 2 black 1 red 1 black 1 red 1 black 1 black 1
+red 3 black 1 red 2 red 1 black 1
+red 2 black 2 red 1 black 1 red 1 black 1
+red 1 red 1 red 3 black 2
+red 1 red 2 black 1 red 1 black 2
+red 2 black 2 red 1 black 6 red 3
+red 4 red 6
+red 1 red 3
+red 3 red 4

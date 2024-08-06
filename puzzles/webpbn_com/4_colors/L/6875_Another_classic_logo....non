@@ -1,0 +1,82 @@
+by "Rob (Ropjerop)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rob"
+date "Oct  5, 2009"
+description ""
+difficulty 2.5
+height 30
+id 6875
+link "https://webpbn.com/play.cgi?id=6875"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Another classic logo..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 30
+black 9 red 1 black 1 black 1 red 1 black 9
+black 9 red 1 black 1 black 1 red 1 black 9
+black 9 red 1 black 1 black 1 red 1 black 9
+black 9 red 1 black 1 black 1 red 1 black 9
+black 9 red 1 black 1 black 1 red 1 black 9
+black 9 red 1 black 1 black 1 red 1 black 9
+black 8 red 1 black 1 black 1 red 1 black 8
+black 8 red 1 black 2 black 2 red 1 black 8
+black 8 red 1 black 2 black 2 red 1 black 8
+black 8 red 1 black 2 black 2 red 1 black 8
+black 8 red 1 black 2 black 2 red 1 black 8
+black 7 red 1 black 2 black 2 red 1 black 7
+black 7 red 1 black 3 black 3 red 1 black 7
+black 7 red 1 black 3 black 3 red 1 black 7
+black 7 red 1 black 3 black 3 red 1 black 7
+black 6 red 1 black 3 black 3 red 1 black 6
+black 6 red 1 black 4 black 4 red 1 black 6
+black 6 red 1 black 4 black 4 red 1 black 6
+black 5 red 1 black 4 black 4 red 1 black 5
+black 4 red 1 black 5 black 5 red 1 black 4
+black 2 red 1 black 6 black 6 red 1 black 2
+black 30
+black 4 blue 1 black 3 blue 1 black 3 blue 1 black 3 blue 1 black 1 blue 1 black 2
+black 3 blue 1 black 2 blue 1 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 2
+black 2 blue 1 black 1 blue 1 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2
+black 2 blue 1 black 1 blue 1 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2
+black 2 blue 1 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 2 blue 1 black 2
+black 2 blue 1 black 1 blue 1 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2
+black 2 blue 1 black 1 blue 1 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2
+
+columns
+black 30
+black 30
+black 21 black 3
+black 21 black 2 blue 2 blue 2
+black 20 black 1 blue 1 black 2 black 2
+black 19 black 2 blue 1
+black 16 red 1 black 3 blue 5
+black 12 red 1 black 9
+black 7 red 3 black 3 black 5
+black 1 red 4 black 6
+black 1 red 5 black 10
+black 1 red 7 black 15 blue 5
+black 23 blue 2 black 5
+black 1 black 8
+black 1 black 3
+black 1 black 2 blue 2 blue 2
+black 1 black 1 blue 1 black 2 black 2
+black 24 blue 1
+black 1 red 7 black 17 blue 5
+black 1 red 5 black 17
+black 1 red 4 black 6
+black 7 red 3 black 3 blue 1 blue 2
+black 12 red 1 black 2 black 1 black 2
+black 16 red 1 black 1 blue 1
+black 19 black 1 blue 4 black 1 blue 2
+black 20 black 8
+black 21 black 1
+black 21 black 1 blue 7
+black 30
+black 30

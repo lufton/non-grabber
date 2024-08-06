@@ -1,0 +1,73 @@
+by "ik (ik)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ik"
+date "Nov 22, 2010"
+description "oke so this is one of sinterklaas/saint nicolas helpers called zwarte piet/black pete. saint nickolas was born in turkey he was a rich boy but he saw that in his village there were many poor people,he heard kids crying so he decieded to help them at night he trew candy and gifts trough the window. he felt so good about it that he decieded to do this every year on his birthday, 5 december. zwarte piet is a funny guy he makes jokes is acrobatic and real friendly. original he was white but he got black because he has to go trough the chimney to put a gift in your shoe. he is also dressed in verious colours. (the red line in the background is only because i had to make an unique solution)"
+difficulty 1.5
+height 30
+id 11105
+link "https://webpbn.com/play.cgi?id=11105"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "zwarte piet"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 1
+red 2
+red 2
+blue 3 red 1 blue 1
+blue 5
+black 3
+blue 1 black 1 blue 1
+black 3
+black 1 red 1 black 1
+black 1
+blue 2 red 1 blue 2
+blue 2 red 3 blue 2
+blue 3 red 3 blue 3
+black 2 blue 1 red 3 blue 1 black 2
+black 2 red 3 black 2
+blue 2 blue 2
+red 8 blue 2 red 1 blue 2 red 7
+red 7 blue 2 red 3 blue 2 red 6
+blue 2 blue 2
+black 2 black 2
+black 2 black 2
+green 3 green 3
+0
+0
+0
+0
+0
+0
+0
+
+columns
+red 2
+red 2
+red 2
+red 2
+red 2
+black 2 red 2
+blue 1 black 2 red 2 green 1
+blue 3 red 1 blue 2 black 2 green 1
+blue 2 blue 3 blue 4 black 2 green 1
+blue 2 black 1 blue 1 black 2 blue 1 red 4 blue 2 red 1
+blue 2 black 3 red 1 black 1 red 5 red 2
+red 2 blue 1 black 1 blue 1 black 2 blue 1 red 4 blue 2 red 1
+red 2 blue 2 blue 3 blue 4 black 2 green 1
+red 2 blue 3 red 1 blue 2 black 2 green 1
+blue 1 black 2 red 2 green 1
+black 2 red 2
+red 2
+red 2
+red 2
+red 2

@@ -1,0 +1,70 @@
+by "Joshua Nolan (the jew)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joshua Nolan"
+date "Mar  5, 2011"
+description "Mandelbrot Set! Sorry there is so much black. In the next, bigger version I will try to use the other colors."
+difficulty 1.5
+height 26
+id 12574
+link "https://webpbn.com/play.cgi?id=12574"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "As requested by Annalivia-first attempt"
+width 27
+
+rows
+2
+4
+2
+6
+8,1
+12
+13
+14
+16
+16,3
+17,5
+16,7
+25
+25
+16,7
+17,5
+16,3
+16
+14
+13
+12
+8,1
+6
+2
+4
+2
+
+columns
+3,3
+5,5
+16
+16
+18
+20
+1,20,1
+26
+26
+1,20,1
+20
+18
+16
+18
+14
+10
+6
+2
+4
+6
+8
+8
+8
+6
+4
+2
+2

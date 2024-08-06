@@ -1,0 +1,33 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Thomas Genuine"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 8
+id 27773
+link "https://webpbn.com/play.cgi?id=27773"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "ranking"
+width 8
+
+rows
+5,1
+1,2
+4,1,1
+1,2,1
+1,1
+1,1
+1,2,1
+4,1
+
+columns
+4,2
+1,1,1
+1,1,1
+1,2,2
+1,4
+1
+1
+8

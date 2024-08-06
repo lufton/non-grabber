@@ -1,0 +1,51 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Mar 20, 2010"
+description "World's smallest giant robot."
+difficulty 2.75
+height 15
+id 8130
+link "https://webpbn.com/play.cgi?id=8130"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Chibot"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 1 black 1 blue 1 blue 1 black 1 blue 1
+black 1 blue 1 black 1 black 1 blue 1 black 1
+black 1 black 1
+black 7
+black 1 black 1
+black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 blue 3
+blue 1 black 7 blue 4
+blue 1 black 1 black 1 blue 3
+blue 1 black 1 black 1 blue 2
+black 1 black 1 black 1 black 1 blue 1
+black 3 black 3 black 3 blue 1
+black 1 black 1 blue 1 black 1 black 1 blue 1
+black 3 blue 1 black 3 blue 1
+
+columns
+0
+blue 1 black 1
+blue 1 black 1 black 1
+blue 1 black 1 black 3 blue 1 black 1 black 2
+blue 1 black 1 blue 1 black 2 black 1 black 2 black 1
+blue 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 3
+black 1 black 1 black 1 blue 2
+black 1 black 1 black 3
+blue 1 black 1 black 1 black 1 black 1 black 1
+blue 1 black 1 blue 1 black 2 black 1 black 2 black 1
+blue 1 black 1 black 3 blue 1 black 1 black 2 blue 1
+blue 4 black 1 black 1 blue 1
+blue 4 black 1 blue 1
+blue 5

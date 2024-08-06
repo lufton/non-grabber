@@ -1,0 +1,41 @@
+by "Mike Kam (ZL.oft)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Mike Kam"
+date "May 19, 2009"
+description "itsy bitsy, right."
+difficulty 1.25
+height 10
+id 5888
+link "https://webpbn.com/play.cgi?id=5888"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "itchy bit.. no wait."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 1 black 1 red 4 black 1 red 1
+red 1 black 3 red 2 black 3 red 1
+red 1 black 3 red 2 black 3 red 1
+red 2 black 2 red 2 black 2 red 2
+red 3 black 1 red 2 black 1 red 3
+red 8
+red 8
+red 6
+red 4
+
+columns
+red 4
+red 1 black 2 red 4
+red 1 black 4 red 4
+red 2 black 4 red 4
+red 10
+red 10
+red 2 black 4 red 4
+red 1 black 4 red 4
+red 1 black 2 red 4
+red 4

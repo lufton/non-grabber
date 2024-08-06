@@ -1,0 +1,34 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 20, 2011"
+description "Jelly"
+difficulty 1.0
+height 9
+id 12884
+link "https://webpbn.com/play.cgi?id=12884"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "Small Animal 18"
+width 8
+
+rows
+8
+3,2
+2,1
+2,1
+2,1
+2,1,1,1
+1,2,1,1
+1,1,1,2
+8
+
+columns
+9
+6,1
+2,3
+1,2,1
+1,2
+1,2,1
+2,2
+9

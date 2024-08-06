@@ -1,0 +1,89 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/18/12"
+height 32
+id 125317
+link "https://www.griddlers.net/nonogram/-/g/125317"
+medium_time "0:13:31"
+points 8489
+popularity 76.59
+title "Mario World Mushroom"
+width 32
+
+color a 00ccff
+color b 0066ff
+color c ffffff
+color d ff0000
+color e 000033
+color f ffff00
+color g 33ff66
+color h 66ff00
+
+rows
+0
+b 3
+b 1 c 1 b 4
+b 2 c 1 b 2 c 1 b 1
+b 3 b 2 c 6 b 1
+b 1 c 1 b 1 b 3 c 3 b 2
+b 3 c 2 b 2 b 2 c 2 b 1
+b 3 c 4 b 1 d 8 b 4
+b 1 c 6 b 1 d 12
+b 2 c 2 b 3 d 6 c 4 d 6
+b 2 d 6 c 6 d 6
+d 6 c 6 d 6
+d 6 c 8 d 6
+d 7 c 8 d 7
+d 1 c 1 d 6 c 8 d 6 c 1 d 1
+d 1 c 1 d 6 c 8 d 6 c 1 d 1
+d 1 c 2 d 7 c 6 d 7 c 2 d 1
+d 1 c 2 d 7 c 6 d 7 c 2 d 1
+d 1 c 2 d 8 c 4 d 8 c 2 d 1
+d 1 c 1 d 22 c 1 d 1
+d 1 c 1 d 22 c 1 d 1
+d 26
+d 26
+d 8 e 8 d 8
+d 6 e 2 f 8 e 2 d 6
+d 3 e 2 f 2 e 1 f 5 e 1 f 3 e 2 d 3
+e 1 f 3 e 1 c 1 e 1 f 3 e 1 c 1 e 1 f 3 d 1 e 1 g 1
+g 2 g 1 e 1 f 2 e 3 f 3 e 3 f 3 d 1 e 1 g 1 g 3
+g 2 f 1 g 1 g 3 e 1 f 3 e 1 f 5 e 1 f 3 d 1 e 1 f 2 g 1 g 1 f 1 g 2
+g 1 f 1 h 2 g 2 f 2 h 1 e 1 f 10 d 2 e 1 f 1 h 2 g 3 f 2 h 1
+f 1 h 9 e 12 h 10
+h 32
+
+columns
+g 2 f 1 h 1
+b 3 g 1 f 1 h 2
+b 2 c 1 b 1 g 1 f 1 h 3
+b 2 c 2 b 1 d 7 g 2 h 3
+b 3 c 3 b 1 d 2 c 5 d 4 g 1 h 2
+b 1 c 4 b 1 d 1 c 5 d 7 g 2 h 2
+b 2 c 3 b 1 d 14 g 1 f 1 h 2
+b 1 c 2 b 1 d 16 e 1 g 2 f 1 h 2
+b 3 d 16 e 1 f 1 e 2 h 3
+d 16 e 1 f 3 e 1 h 2
+d 16 e 1 f 5 e 1 h 1
+d 16 e 1 f 1 e 2 f 2 e 1 h 1
+d 5 c 4 d 7 e 1 f 1 e 1 c 1 e 2 f 1 e 1 h 1
+d 3 c 8 d 5 e 1 f 2 e 2 f 2 e 1 h 1
+d 2 c 10 d 4 e 1 f 6 e 1 h 1
+d 2 c 10 d 4 e 1 f 6 e 1 h 1
+d 2 c 10 d 4 e 1 f 6 e 1 h 1
+d 2 c 10 d 4 e 1 f 2 e 2 f 2 e 1 h 1
+d 3 c 8 d 5 e 1 f 1 e 1 c 1 e 2 f 1 e 1 h 1
+d 5 c 4 d 7 e 1 f 2 e 2 f 2 e 1 h 1
+d 16 e 1 f 4 d 1 e 1 h 1
+d 16 e 1 f 4 d 1 e 1 h 1
+d 16 e 1 f 2 d 1 e 1 h 2
+b 2 d 16 e 1 d 2 e 1 f 1 h 2
+b 3 d 16 e 2 f 1 h 3
+b 3 c 1 b 3 d 14 g 1 f 1 h 3
+b 1 c 4 b 2 d 1 c 5 d 7 g 2 h 2
+b 3 c 3 b 1 d 2 c 5 d 4 g 1 h 2
+b 2 c 3 b 1 d 7 g 3 h 2
+b 1 c 2 b 2 g 2 f 2 h 2
+b 2 c 1 b 1 g 2 f 1 h 2
+b 1 g 1 h 3

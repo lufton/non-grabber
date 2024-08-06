@@ -1,0 +1,47 @@
+by "Mary Maxine (Shanarieva)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Mary Maxine"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 10
+id 25236
+link "https://webpbn.com/play.cgi?id=25236"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Quite irrational."
+width 20
+
+rows
+0
+1,1,1
+1,2,1,1
+1,4,1
+1,1,4,1
+2,2,5,1
+1,2,2,5,1
+1,1,2,9,2
+1,1,15
+1,18
+
+columns
+3
+0
+1
+4
+1
+5
+9
+2
+6
+5
+3
+5
+8
+9
+7
+9
+3
+2
+3
+8

@@ -1,0 +1,46 @@
+by "Ian Smith (dragonfreak)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Ian Smith"
+date "Jul 11, 2007"
+description "a dragon's egg of a water dragon"
+difficulty 1.25
+height 15
+id 1058
+link "https://webpbn.com/play.cgi?id=1058"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "waiting. . ."
+width 10
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 6
+black 6
+black 8
+black 2 blue 1 black 5
+black 2 blue 1 black 1 blue 1 black 3
+blue 6 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 6 black 1 blue 1
+blue 6 black 1 blue 3
+blue 8 black 1 blue 1
+blue 8
+blue 8
+blue 6
+blue 2
+
+columns
+blue 5
+black 3 blue 1 black 2 blue 4
+black 5 blue 8
+black 4 blue 10
+black 6 blue 1 black 1 blue 7
+black 5 blue 10
+black 8 blue 1 black 1 blue 4
+black 5 blue 8
+black 6 blue 1 black 1 blue 2
+blue 5

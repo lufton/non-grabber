@@ -1,0 +1,89 @@
+by "Al LaPointe (Kancamagus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Al LaPointe"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 34
+id 27441
+link "https://webpbn.com/play.cgi?id=27441"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Something was missing from the debate last night..."
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+black 1
+black 1 black 3
+black 1 black 6
+black 1 black 3 black 5
+blue 5 red 5 blue 1 black 1 red 5
+blue 1 red 1 red 1 blue 2 black 2 red 1 black 1
+blue 1 red 1 red 1 blue 1 black 3 red 1 black 2
+black 1 blue 1 black 2 red 1 red 1 blue 1 black 2 red 1 black 1
+blue 5 black 1 red 1 red 1 blue 1 red 5
+blue 1 black 3 red 1 black 1 red 1 blue 1 red 1 red 1
+blue 1 black 4 red 1 black 1 red 1 blue 1 red 1 red 1
+blue 1 black 3 red 1 black 1 red 1 blue 1 red 1 red 1
+blue 5 red 5 blue 5 red 5
+0
+black 2 black 2 black 2
+black 4 black 4 black 4
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 blue 2 black 1 black 1 red 2 black 1 black 1 green 2 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 8 black 8 black 8
+black 6 black 6 black 6
+black 2 black 2 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 2 black 1 black 6
+black 1 black 2 black 1 black 1 black 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 6 black 6
+black 1 black 2 black 1 black 6 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 1 black 6
+black 2 black 2 black 1 black 2 black 1 black 1 black 1
+black 2 black 2 black 1 black 1 black 6
+black 6 black 6 black 6
+
+columns
+black 1
+black 11
+black 5 black 4 black 3
+blue 1 blue 5 black 2 blue 1 black 4 black 4 black 1
+blue 1 blue 1 blue 1 black 2 blue 1 black 4 black 4 black 1
+blue 1 blue 1 blue 1 black 5 black 4 black 3
+blue 1 black 1 blue 1 black 1 blue 1 black 11
+blue 5 black 3 blue 1 black 1
+black 5
+black 1 black 3
+red 9
+black 1 red 1 black 1 red 1
+black 1 black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 red 1 black 11
+black 1 black 1 red 9 black 5 black 2 black 2 black 1
+black 1 black 3 black 2 red 1 black 4 black 6 black 1
+black 5 black 2 red 1 black 4 black 6 black 1
+black 1 black 3 blue 1 black 5 black 2 black 2 black 1
+black 1 black 1 blue 1 blue 1 black 11
+blue 9 black 1
+blue 1
+black 1 black 1 blue 1
+black 1 black 3
+black 5
+black 1 red 9 black 1
+black 1 red 1 black 1 red 1 red 1 black 11
+red 1 black 1 red 1 red 1 black 5 black 2 black 1 black 1 black 1 black 2
+red 1 black 1 black 1 red 1 red 1 black 2 green 1 black 4 black 1 black 1 black 1 black 2
+red 1 red 5 black 2 green 1 black 4 black 1 black 1 black 1 black 2
+black 5 black 2 black 1 black 1 black 1 black 2
+black 11
+black 1

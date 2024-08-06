@@ -1,0 +1,59 @@
+by "Thomas (docfleetwood)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Thomas"
+date "Apr 29, 2020"
+description "This is a Japanese Torii, most often found at the entrance to a Shinto Shrine."
+difficulty 1.75
+height 17
+id 33974
+link "https://webpbn.com/play.cgi?id=33974"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Gate"
+width 25
+
+rows
+1,1
+2,2
+23
+21
+2,2,2
+2,2,2
+21
+21
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+
+columns
+2
+2
+2,2
+2,2,3
+2,2,6
+2,8
+9
+6
+2,2
+2,2
+2,2
+6
+6
+2,2
+2,2
+2,2
+6
+9
+2,8
+2,2,6
+2,2,3
+2,2
+2,2
+2
+2

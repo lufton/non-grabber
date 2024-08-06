@@ -1,0 +1,62 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/1/15"
+height 22
+id 159453
+link "https://www.griddlers.net/nonogram/-/g/159453"
+medium_time "0:05:14"
+points 1678
+popularity 73.93
+title "Cinderella Godmother"
+width 15
+
+color a ff5100
+color b 212cff
+color c 36cfff
+color d 292929
+color e ffd2a1
+color f e6e6e6
+color g 2573fa
+color h fff200
+
+rows
+b 1
+b 3
+c 1 b 3 c 1
+c 2 b 1 c 2
+b 7
+d 5
+d 2 e 3 d 2
+f 2 d 1 e 5 d 1 f 2
+f 3 d 2 e 3 d 2 f 3
+f 3 e 5 f 3
+f 2 b 2 e 3 b 2 f 2
+f 1 g 1 b 2 e 1 b 2 g 1 f 1 h 1
+g 3 b 3 g 3 h 1
+g 2 b 1 g 2 c 1 g 2 b 1 g 2 h 1
+g 1 b 2 g 5 b 2 g 1 h 1
+e 1 b 2 g 5 b 2 e 1
+b 2 g 7 b 2 h 1
+b 2 g 4 c 1 g 4 b 2
+b 3 g 3 c 3 g 3 b 3
+b 2 g 4 c 3 g 4 b 2
+b 1 g 4 c 5 g 4 b 1
+g 3 c 7 g 3
+
+columns
+b 3
+f 2 e 1 b 3 g 2
+f 4 g 2 b 3 g 3
+f 4 g 2 b 3 g 5
+b 1 d 3 f 1 b 1 g 2 b 3 g 5 c 1
+c 2 b 1 d 2 e 1 d 1 e 1 b 2 g 8 c 2
+b 2 c 1 b 1 d 1 e 5 b 2 g 5 c 4
+b 5 d 1 e 6 b 1 c 1 g 3 c 5
+b 2 c 1 b 1 d 1 e 5 b 2 g 5 c 4
+c 2 b 1 d 2 e 1 d 1 e 1 b 2 g 8 c 2
+b 1 d 3 f 1 b 1 g 2 b 3 g 5 c 1
+f 4 g 2 b 3 g 5
+f 4 g 2 b 3 g 3
+f 2 h 4 e 1 h 1 b 3 g 2
+b 3

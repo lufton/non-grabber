@@ -1,0 +1,68 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Sep 19, 2012"
+description "Of drums. The first band i ever played in,the drummer had a small Pearl drum kit."
+difficulty 2.25
+height 25
+id 19817
+link "https://webpbn.com/play.cgi?id=19817"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "A beginners set."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 5 black 1
+black 9 black 3
+black 1 black 7
+black 1 green 1 black 1
+black 1 green 1 black 7
+black 1 green 5 black 3
+black 1 red 2 green 1 red 2 black 1
+black 1 red 3 green 1 red 1 blue 1 black 1
+black 1 black 1 blue 3 black 1
+black 1 black 1 blue 2 blue 1 black 1
+black 1 blue 7 blue 2 black 1
+blue 5 blue 1 blue 2 black 1
+blue 1 blue 1 blue 6
+blue 1 blue 7 blue 2
+blue 1 blue 1 blue 4 green 2 blue 2
+black 1 blue 1 blue 5 green 2 green 1 blue 2
+black 1 blue 1 blue 4 green 2 green 1 blue 1
+black 1 blue 1 blue 4 green 1 green 1 green 2 blue 1
+black 1 blue 8 green 3 blue 1
+black 1 black 1 blue 4 green 1 blue 2
+black 1 black 3 blue 4 green 1 blue 2
+black 2 black 2 blue 4 green 1 blue 1 black 1
+black 3 black 3 blue 7 black 2
+black 1 black 3 black 2 black 2
+
+columns
+black 1 black 1 black 1 black 2
+black 1 black 4 black 1
+black 2 blue 8 black 2
+black 2 blue 1 blue 1 black 2
+black 12 blue 1 blue 1 black 2
+black 2 blue 1 blue 1 black 2
+black 2 green 1 green 1 blue 9 black 2
+black 1 green 2 red 2 blue 1 blue 1 blue 5 black 1
+black 1 green 1 red 2 blue 1 blue 8 black 2
+green 2 red 1 black 2 blue 1 blue 9 black 1
+green 1 red 1 green 1 blue 1 blue 3 blue 4 black 1
+red 2 blue 5 green 1 blue 3
+blue 2 blue 2 green 1 blue 2
+black 1 black 1 blue 2 blue 2 green 7 blue 1
+black 1 black 1 blue 2 blue 3 green 2 green 1 blue 1
+black 2 black 2 blue 3 blue 1 green 1 green 2 blue 1 black 1
+black 12 blue 2 green 3 blue 2 black 1
+black 2 black 2 blue 2 blue 1 black 2
+black 1 black 1 blue 2 blue 2 black 2
+black 1 black 1 blue 5 black 1

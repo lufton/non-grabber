@@ -1,0 +1,54 @@
+by "MagiMaster"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/29/04"
+height 15
+id 8083
+link "https://www.griddlers.net/nonogram/-/g/8083"
+medium_time "0:11:11"
+points 3663
+popularity 48.75
+title "Metroid"
+width 15
+
+color a 000000
+color b 00a064
+color c 006e64
+color d 005064
+color e ff0000
+color f a00028
+color g bebe82
+
+rows
+0
+b 4
+b 2 c 4 b 2
+b 1 c 2 c 2 b 1
+b 1 c 1 d 1 d 1 c 1 b 1
+d 1 b 1 c 1 g 1 e 1 f 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 1 f 1 d 1 c 1 b 1
+b 1 c 1 f 1 e 1 f 1 c 1 b 1
+b 1 c 1 f 1 c 1 b 1
+b 1 d 2 d 1 d 1 d 2 b 1
+d 1 b 1 d 2 b 1 d 1 d 1 b 1 d 2 b 1 d 1
+b 1 d 1 b 1 g 1 d 2 g 1 b 1 d 1 b 1
+b 1 g 1 b 2 g 1 b 1
+g 2 g 2
+0
+
+columns
+d 1 b 4 d 1
+b 2 c 3 d 1 b 2
+b 1 c 2 d 1 d 3 b 1
+b 1 c 1 d 1 d 1 b 1 g 2
+b 1 c 1 g 1 e 1 f 1 d 1 b 1 g 1
+b 1 c 1 f 1 d 1 g 1
+b 1 c 1 d 1 b 1
+b 1 c 1 e 1 f 1 d 1 b 1
+b 1 c 1 f 1 e 1 f 1 d 1 g 1
+b 1 c 1 f 1 d 1 b 1 g 1
+b 1 c 1 d 1 d 1 b 1 g 2
+b 1 c 2 d 1 d 3 b 1
+b 2 c 3 d 1 b 2
+b 4 d 1
+0

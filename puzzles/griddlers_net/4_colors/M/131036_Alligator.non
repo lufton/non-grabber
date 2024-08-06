@@ -1,0 +1,56 @@
+by "morlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/16/13"
+height 25
+id 131036
+link "https://www.griddlers.net/nonogram/-/g/131036"
+medium_time "0:01:58"
+points 132
+popularity 61.06
+title "Alligator"
+width 10
+
+color a 999900
+color b 000000
+color c 009900
+color e 336600
+
+rows
+c 1
+c 3
+c 3
+c 3
+c 1 b 1 c 1 b 1 c 1
+c 5
+c 3
+e 1 c 3 e 1
+e 1 c 5 e 1
+c 5
+c 5
+c 5
+c 5
+e 1 c 5 e 1
+e 1 c 3 e 1
+c 3
+c 3
+c 1
+c 1
+c 1
+c 1
+c 1
+c 2
+c 2
+c 3
+
+columns
+0
+e 2 e 2
+c 2 c 6
+c 3 b 1 c 12
+c 23
+c 3 b 1 c 12 c 2
+c 2 c 6 c 2
+e 2 e 2 c 1
+c 1
+0

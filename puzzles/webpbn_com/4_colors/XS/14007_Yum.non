@@ -1,0 +1,42 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 19, 2011"
+description "Apple and cherries"
+difficulty 1.25
+height 10
+id 14007
+link "https://webpbn.com/play.cgi?id=14007"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Yum"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+green 1 blue 1 blue 1 blue 1
+black 3 blue 1 blue 1
+black 3 blue 1 blue 1 blue 1
+black 3 blue 1 blue 1
+blue 1 blue 1 green 3
+blue 1 blue 1 blue 1 green 1 green 2
+blue 1 blue 1 green 1 green 1
+blue 1 blue 1 blue 1 black 2 black 2
+blue 1 blue 1 black 2 black 2
+
+columns
+blue 1 blue 1
+black 3 blue 1 blue 1 blue 1
+green 1 black 3 blue 1 blue 1
+black 3 blue 1 blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1 green 3 black 2
+blue 1 blue 1 blue 1 green 1 black 2
+blue 1 blue 1 green 2
+blue 1 blue 1 blue 1 green 2 black 2
+blue 1 blue 1 black 2

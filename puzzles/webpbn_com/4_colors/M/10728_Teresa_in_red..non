@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Oct 17, 2010"
+description ""
+difficulty 1.5
+height 20
+id 10728
+link "https://webpbn.com/play.cgi?id=10728"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Teresa in red."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4 blue 6
+blue 3 blue 4
+blue 3 blue 4
+blue 3 blue 3
+blue 2 red 1 red 1 blue 5
+blue 2 red 1 red 1 blue 5
+blue 2 black 1 red 1 red 1 black 1 blue 5
+blue 2 black 1 red 2 red 1 red 1 black 1 blue 5
+blue 2 black 1 red 6 black 4 blue 1
+blue 2 black 1 red 6 blue 6
+black 1 red 6
+black 1 red 6
+red 6
+red 6
+red 6
+red 8
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2
+
+columns
+blue 10
+blue 10
+blue 4 black 6 red 1
+blue 1 red 12
+red 9 black 4
+red 8
+red 9
+red 8 black 4
+blue 2 red 12 black 1
+blue 4 black 3 blue 1 red 1
+blue 8 black 1 blue 1
+blue 8 black 1 blue 1
+blue 1 blue 4 black 1 blue 1
+blue 1 blue 4 blue 1
+blue 1 blue 6

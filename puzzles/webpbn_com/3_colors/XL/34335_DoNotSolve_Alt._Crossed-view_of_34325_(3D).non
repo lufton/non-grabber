@@ -1,0 +1,91 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by gregg licht"
+date "Jul 19, 2020"
+description "This is an alternate view of #34325, Sink the Shot,3D. It's a crossed view 3D stereogram image...some people find it easier to view than the parallel view of #34325. The goal is still to bring the two dots in the puzzle together in a third image, although for this crossed-view type, it is done by moving your eyes toward each other slightly. Thought it would be fair to offer this view that could be peeked as an alternate after solving the parallel view of #34325."
+difficulty 3.25
+height 30
+id 34335
+link "https://webpbn.com/play.cgi?id=34335"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "DoNotSolve: Alt. Crossed-view of #34325 (3D)"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 11 red 11
+red 11 red 11
+red 9 red 9
+red 7 red 7
+black 1 red 3 red 3 black 1
+black 2 black 2
+black 2 black 1 black 1 black 2
+black 2 black 1 black 2 black 2 black 1 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 3 black 3 black 3 black 3
+black 7 black 7
+black 9 black 9
+black 11 black 11
+black 11 black 11
+black 11 black 11
+black 11 black 11
+black 2 red 7 black 2 black 2 red 7 black 2
+black 3 black 3 black 3 black 3 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+0
+black 4 black 4
+black 9 black 9
+black 8 black 8
+black 1 black 1 black 5 black 1 black 1 black 5
+black 5 black 5
+black 5 black 5
+
+columns
+black 2
+black 2
+black 2 black 1
+black 2 black 1
+red 2 black 2 black 3
+red 3 black 2 black 6 black 3
+red 4 black 1 black 7 black 4
+red 4 black 7 red 1 black 1 black 3
+red 5 black 6 red 1 black 1 black 4
+red 5 black 1 black 6 red 1 black 1 black 1 black 1 black 4
+red 5 black 6 red 1 black 2 black 1 black 5
+red 4 black 6 red 1 black 1 black 1 black 1 black 4
+red 4 black 6 red 1 black 1 black 3
+red 3 black 7 red 1 black 1 black 2
+red 2 black 1 black 7 black 1
+black 2 black 6
+black 2
+black 2
+black 2
+0
+0
+black 2
+black 2
+black 2
+black 2 black 6
+red 2 black 1 black 7 black 1
+red 3 black 7 red 1 black 1 black 1
+red 4 black 6 red 1 black 1 black 3
+red 4 black 6 red 1 black 1 black 1 black 1 black 3
+red 5 black 6 red 1 black 2 black 1 black 4
+red 5 black 1 black 6 red 1 black 1 black 1 black 1 black 3
+red 5 black 6 red 1 black 1 black 4
+red 4 black 7 red 1 black 1 black 4
+red 4 black 1 black 7 black 5
+red 3 black 2 black 6 black 4
+red 2 black 2 black 3
+black 2 black 2
+black 2 black 1
+black 2
+black 2

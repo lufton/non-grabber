@@ -1,0 +1,32 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Dec 16, 2010"
+description "Rainbow. Too small to make a double rainbow."
+difficulty 1.25
+height 5
+id 11467
+link "https://webpbn.com/play.cgi?id=11467"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "Quilt square"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+black 1 green 3 black 1
+green 1 blue 3 green 1
+blue 2 blue 2
+blue 1 blue 1
+
+columns
+black 1 green 1 blue 2
+black 1 green 1 blue 2
+black 1 green 1 blue 1
+black 1 green 1 blue 2
+black 1 green 1 blue 2

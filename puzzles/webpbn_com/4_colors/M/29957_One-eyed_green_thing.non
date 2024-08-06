@@ -1,0 +1,58 @@
+by "David E. (dvdllr)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by David E."
+date "Jul  1, 2017"
+description "A Yorp, from the video game Commander Keen. As Mrs. Blaze called it, "That one-eyed green thing in your room.""
+difficulty 2.0
+height 21
+id 29957
+link "https://webpbn.com/play.cgi?id=29957"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "One-eyed green thing"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 1 green 1 blue 1 black 1
+black 3 blue 1 black 1
+black 3 blue 1 black 1
+black 1 green 1 green 1 blue 1 black 1
+black 3 green 2 blue 1 black 1
+black 1 green 1 blue 1 black 1
+black 1 green 2 blue 1 black 1
+black 1 green 1 blue 1 black 1
+black 1 green 2 blue 1 black 1
+black 1 green 4 blue 1 black 1
+black 1 green 5 blue 1 black 1
+black 1 green 7 blue 1 black 1
+black 1 green 8 blue 2 black 1
+black 1 green 1 black 8 green 1 blue 2 black 1
+black 1 green 2 black 6 green 3 blue 1 black 1
+black 1 green 2 black 1 black 1 green 3 blue 1 black 1
+black 2 green 5 blue 1 black 2
+black 1 green 3 blue 1 black 2 green 1 blue 1 black 1
+black 7 green 3 blue 1 black 1
+black 6
+
+columns
+black 4
+black 1 green 1 black 2 green 1 black 1 black 2
+black 1 black 2 black 1 black 1 green 2 black 1 black 2
+black 1 black 1 black 1 green 1 black 1 green 2 black 1 green 1 black 1
+black 1 blue 3 green 2 black 2 black 2 green 2 black 2 green 1 black 1 green 1 black 1
+black 3 blue 1 green 3 black 2 green 4 black 3 green 2 black 1
+black 1 blue 2 green 7 black 2 green 1 blue 1 black 1
+black 2 blue 2 green 5 black 2 green 1 black 2
+black 2 blue 1 green 4 black 3 green 1 black 3
+black 1 blue 1 green 3 black 2 green 4 black 1
+black 1 blue 1 green 2 black 1 green 2 blue 2 green 1 black 1
+black 1 blue 2 green 3 black 2 green 1 black 1
+black 1 blue 2 green 1 blue 1 black 1 blue 1 black 1
+black 1 blue 2 black 1 black 2
+black 2

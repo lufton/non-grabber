@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Feb 22, 2011"
+description "My best friend and I were talking on the phone during our evening walks when out of nowhere, someone starts yelling at him and next thing I know, we're disconnected.. He calls me back a few minutes later and says he had just been jumped by 2 guys. He then sent me a photo slideshow of the damage... face all bloody and ribs badly bruised.. YIKES!"
+difficulty 1.5
+height 20
+id 12370
+link "https://webpbn.com/play.cgi?id=12370"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "They went that way.."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 5
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 red 3 black 1
+black 1 red 4 black 1
+black 4 red 1
+black 1 red 2
+black 8 red 1
+black 1 red 1 black 3 red 1
+black 1 red 1 black 3
+black 1 red 1 black 3 red 1
+black 5
+black 3 red 1
+black 5
+black 2 black 2
+black 2 black 2
+black 2 black 2
+
+columns
+0
+0
+0
+0
+black 1
+black 1
+black 5 black 1
+black 1 black 1 black 5 black 4
+black 1 black 1 red 2 black 1 black 1 red 3 black 6
+black 1 red 2 black 9
+black 1 black 1 red 2 black 1 black 10
+black 1 red 3 black 5 black 4
+black 5 red 3 red 1 red 1
+0
+0
+0
+0
+0
+0
+0

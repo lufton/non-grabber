@@ -1,0 +1,67 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Jun  6, 2005"
+description "A biohazard warning symbol."
+difficulty 2.0
+height 25
+id 224
+link "https://webpbn.com/play.cgi?id=224"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Biohazard"
+width 25
+
+rows
+0
+3,3
+4,4
+2,2
+3,3
+2,2
+3,5,3
+3,7,3
+4,1,1,4
+4,4
+7,7
+19
+10,10
+4,3,3,4
+2,2,2,2,2,2
+3,2,5,2,3
+2,2,3,2,2
+1,3,3,3,1
+1,2,3,2,1
+1,5,1
+5
+2,9,2
+17
+7,7
+3,3
+
+columns
+2
+6
+4,1
+3,1
+4,2
+7,2
+9,2,2
+11,4,3
+3,6,3,4
+2,1,4,2,4
+2,3,6,5
+1,2,2,10
+2,1,8
+1,2,2,10
+2,3,6,5
+2,1,4,2,4
+3,6,3,4
+11,4,3
+9,2,2
+7,2
+4,2
+3,1
+4,1
+6
+2

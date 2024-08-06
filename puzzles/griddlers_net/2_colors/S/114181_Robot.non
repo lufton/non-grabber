@@ -1,0 +1,38 @@
+by "emielhuijts"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/22/11"
+height 14
+id 114181
+link "https://www.griddlers.net/nonogram/-/g/114181"
+medium_time "0:02:29"
+points 386
+popularity 47.14
+title "Robot"
+width 8
+
+rows
+1,1
+6
+1,1,2
+2,1,1
+6
+1,1
+1,1
+1,2,1
+8
+2
+2
+2
+1,2,1
+2,2
+
+columns
+1,2
+4,1,2
+2,3,1,1
+1,2,6
+2,1,6
+2,3,1,1
+4,1,2
+1,2

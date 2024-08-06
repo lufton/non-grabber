@@ -1,0 +1,61 @@
+by "PRASAD T V N (tvnprasad)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by PRASAD T V N"
+date "May 16, 2011"
+description "The Cup for the Winner. Get Win the CUP."
+difficulty 2.25
+height 20
+id 13914
+link "https://webpbn.com/play.cgi?id=13914"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "WINNER"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2 black 2 red 2
+red 4 black 4 red 4
+red 1 red 1 black 6 red 1 red 1
+red 3 black 8 red 3
+black 10
+black 2 black 2
+black 1 black 1
+black 3 black 3 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 red 2 black 1 black 1
+black 1 black 1 red 2 black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 4 black 4 black 4
+black 3 black 3
+black 8
+black 6
+black 2 black 6 black 2
+black 2 black 4 black 2
+black 3 black 4 black 3
+black 12
+
+columns
+red 2 black 2 black 1
+red 4 black 1 black 2 black 2
+red 1 red 1 black 1 black 1 black 2
+red 3 black 1 black 1 black 1
+black 9 black 2
+black 2 black 1 black 1
+black 2 black 1 black 1 black 2 black 1
+black 3 black 2 black 1 black 3 black 1
+black 4 black 1 black 1 black 6
+black 5 red 2 black 1 black 6
+black 5 red 2 black 1 black 6
+black 4 black 1 black 1 black 6
+black 3 black 2 black 1 black 3 black 1
+black 2 black 1 black 1 black 2 black 1
+black 2 black 1 black 1
+black 9 black 2
+red 3 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 2
+red 4 black 1 black 2 black 2
+red 2 black 2 black 1

@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Nov 26, 2013"
+description "Infinity and Beyond"
+difficulty 3.0
+height 20
+id 23230
+link "https://webpbn.com/play.cgi?id=23230"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "To"
+width 20
+
+rows
+0
+5,5
+2,2,2,2
+2,2,2,2
+1,3,1
+1,3,1
+2,2,2,2
+2,2,2,2
+5,5
+0
+3
+1,1,5
+1,1,3
+2,4
+3,3,1
+2,1,3,1
+1,2,3
+2,1,3
+6,3
+1,1
+
+columns
+4
+2,2,3
+2,2,2,2
+1,1,3,1,1
+1,1,1,2,1
+1,1,4,2,1
+2,2,3
+2,2,2
+4
+2
+4
+2,2,1
+2,2,3
+1,1,3
+1,1,3
+1,1,1,3
+2,2,1,3
+2,2,4
+4,3
+5

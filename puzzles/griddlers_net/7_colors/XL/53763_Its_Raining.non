@@ -1,0 +1,113 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/21/07"
+height 48
+id 53763
+link "https://www.griddlers.net/nonogram/-/g/53763"
+medium_time "0:21:30"
+points 53946
+popularity 66.67
+title "It's Raining"
+width 41
+
+color a 9999ff
+color b ff6bb5
+color d ffffff
+color e ffdee7
+color f 52a529
+color g 000000
+color h ceff9c
+
+rows
+b 1
+b 1
+b 7
+b 2 d 3 b 1 d 3 b 2
+b 1 d 2 e 2 b 1 e 1 b 1 e 2 d 2 b 1
+b 1 d 1 e 3 b 1 e 3 b 1 e 3 d 1 b 1
+b 1 d 1 e 4 b 1 e 3 b 1 e 4 d 1 b 1
+b 1 d 1 e 3 b 1 e 5 b 1 e 3 d 1 b 1
+b 1 d 1 e 4 b 1 e 5 b 1 e 4 d 1 b 1
+b 1 d 1 b 3 e 1 b 1 e 1 b 3 e 1 b 1 e 1 b 3 d 1 b 1
+b 2 b 3 b 1 b 3 b 2
+b 1 b 1 b 1 b 1 b 1
+b 1
+b 1
+f 4 f 4 b 1
+f 1 d 4 f 1 f 1 d 4 f 1 b 1
+f 1 d 2 g 2 d 2 f 1 f 1 d 2 g 2 d 2 f 1 b 1
+f 1 d 2 g 2 d 2 f 9 d 2 g 2 d 2 f 1 b 1
+f 1 d 6 h 9 d 6 f 1 b 1
+f 1 d 4 h 11 d 4 f 1 b 1
+f 1 h 17 f 1 b 1
+f 1 h 8 f 1 h 1 f 1 h 8 f 1 b 1
+f 1 h 5 f 1 h 9 f 1 h 5 f 1 b 1
+f 1 h 5 f 1 h 9 f 1 h 5 f 1 b 1
+f 1 h 5 f 1 h 9 f 1 h 5 f 1 b 1
+f 1 h 6 f 1 h 7 f 1 h 6 f 1 b 1
+f 1 h 7 f 1 h 5 f 1 h 7 f 1 b 1
+f 1 h 7 f 5 h 7 f 1 b 1
+f 1 h 17 f 1 b 1
+f 2 h 13 f 2 b 1
+f 3 h 7 f 3 b 1
+f 4 f 1 h 13 f 1 f 4
+f 1 h 2 f 2 f 1 h 15 f 1 f 2 h 2 f 1
+f 1 h 4 f 3 h 3 f 1 h 9 f 1 h 3 f 3 h 4 f 1
+f 1 h 8 f 2 h 9 f 2 h 8 f 1
+f 2 h 4 f 2 f 1 h 9 f 1 f 2 h 4 f 2 b 1
+f 4 f 1 h 9 f 1 f 4 b 1
+f 1 h 9 f 1 b 1 b 1
+f 1 h 7 f 1 b 2 b 2
+f 1 h 3 f 1 h 3 f 1 b 3
+f 1 h 3 f 1 h 3 f 1
+f 1 h 3 f 1 h 3 f 1
+f 1 h 3 f 1 h 3 f 1
+f 1 h 3 f 1 h 3 f 1
+f 3 h 3 f 1 h 3 f 3
+f 1 h 6 f 1 h 6 f 1
+f 1 h 6 f 1 h 6 f 1
+f 6 f 6
+
+columns
+f 3
+f 1 h 2 f 1
+f 1 h 3 f 1
+f 2 h 2 f 1
+f 1 h 3 f 1
+f 3 f 5 f 1 h 2 f 1
+f 1 d 3 f 1 f 1 h 5 f 1 f 1 h 2 f 1
+f 1 d 5 f 1 h 7 f 1 f 1 h 2 f 1
+f 1 d 1 g 2 d 2 h 9 f 1 f 1 h 2 f 1
+f 1 d 1 g 2 d 2 h 9 f 1 f 1 h 3 f 1 f 2
+f 1 d 5 h 10 f 1 h 3 f 1 f 1 h 2 f 1
+f 1 d 3 h 3 f 3 h 5 f 1 h 2 f 5 f 1 h 2 f 1
+f 2 h 7 f 1 h 4 f 1 h 7 f 7 h 2 f 1
+f 1 h 8 f 1 h 20 f 1
+f 1 h 9 f 1 h 19 f 1
+f 1 h 3 f 1 h 5 f 1 h 19 f 1
+f 1 h 9 f 1 h 11 f 8
+f 1 h 3 f 1 h 5 f 1 h 19 f 1
+f 1 h 9 f 1 h 19 f 1
+f 1 h 8 f 1 h 20 f 1
+f 2 h 7 f 1 h 4 f 1 h 7 f 7 h 2 f 1
+f 1 d 3 h 3 f 3 h 5 f 1 h 2 f 5 f 1 h 2 f 1
+b 4 f 1 d 5 h 10 f 1 h 3 f 1 f 1 h 2 f 1
+b 2 d 2 b 1 f 1 d 1 g 2 d 2 h 9 f 1 f 1 h 3 f 1 f 2
+b 1 d 2 e 1 b 1 f 1 d 1 g 2 d 2 h 9 f 1 f 1 h 2 f 1
+b 1 d 1 e 3 b 1 f 1 d 5 f 1 h 7 f 1 f 1 h 2 f 1
+b 1 d 1 e 4 b 1 f 1 d 3 f 1 f 1 h 5 f 1 f 1 h 2 f 1
+b 1 d 1 e 5 b 1 f 3 f 5 f 1 h 2 f 1
+b 1 d 1 e 3 b 5 f 1 h 3 f 1
+b 1 d 1 e 1 b 2 e 3 b 1 f 2 h 2 f 1
+b 1 d 1 b 1 e 4 b 1 f 1 h 3 f 1
+b 4 e 5 b 22 f 1 h 2 f 1 b 4
+b 1 d 1 b 1 e 4 b 1 f 3 b 2
+b 1 d 1 e 1 b 2 e 3 b 1 b 1
+b 1 d 1 e 3 b 5 b 2
+b 1 d 1 e 5 b 1 b 2
+b 1 d 1 e 4 b 1
+b 1 d 1 e 3 b 1
+b 1 d 2 e 1 b 1
+b 2 d 2 b 1
+b 4

@@ -1,0 +1,70 @@
+by "Darah Garrett ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Darah Garrett"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 29
+id 27916
+link "https://webpbn.com/play.cgi?id=27916"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Web-Slinger"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 2 red 2 black 1
+black 1 red 3 red 3 black 1
+black 2 red 4 red 4 black 2
+black 1 blue 1 red 3 black 2 black 2 red 3 blue 1 black 1
+black 1 blue 3 red 1 black 1 blue 2 blue 2 black 1 red 1 blue 3 black 1
+black 1 blue 4 black 3 black 3 blue 4 black 1
+black 1 blue 3 black 1 red 3 black 1 black 1 red 3 black 1 blue 3 black 1
+black 3 red 4 black 1 red 1 black 1 red 4 black 3
+black 1 red 2 blue 1 black 1 red 3 black 1 blue 1 red 2 black 1
+black 1 red 2 blue 1 black 1 blue 1 red 3 blue 1 black 1 blue 1 red 2 black 1
+black 1 red 2 black 1 blue 1 red 2 black 1 red 2 blue 1 black 1 red 2 black 1
+black 1 red 11 black 1
+black 2 red 2 black 3 red 2 black 2
+black 2 red 3 black 2
+black 1 red 7 black 1
+black 1 red 9 black 1
+black 1 red 11 black 1
+black 1 red 2 black 2 red 3 black 2 red 2 black 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 3 black 1 black 1 red 1 black 1
+black 1 red 1 black 2 red 5 black 2 red 1 black 1
+black 1 red 1 black 1 red 7 black 1 red 1 black 1
+black 1 red 11 black 1
+black 1 red 11 black 1
+black 1 red 9 black 1
+black 2 red 5 black 2
+black 5
+
+columns
+black 2
+black 1 blue 2 black 1
+black 1 blue 3 black 1 black 2
+black 1 blue 4 black 2 red 2 black 1 black 8
+black 1 red 1 blue 2 black 1 red 5 black 1 black 1 red 8 black 1
+black 1 red 3 black 1 red 3 blue 1 black 1 red 1 black 1 black 1 red 3 black 4 red 3 black 1
+black 1 red 3 black 2 red 2 blue 1 black 1 blue 1 red 2 black 1 red 3 black 1 black 1 red 4 black 1
+black 1 red 3 black 1 blue 1 black 1 red 2 black 1 blue 1 red 3 black 1 red 3 black 1 black 1 red 6 black 1
+black 1 red 4 black 1 blue 1 black 2 red 4 black 1 red 5 black 1 red 7 black 1
+red 3 black 1 red 1 black 1 red 13 black 1
+black 1 red 4 black 1 blue 1 black 2 red 4 black 1 red 5 black 1 red 7 black 1
+black 1 red 3 black 1 blue 1 black 1 red 2 black 1 blue 1 red 3 black 1 red 3 black 1 black 1 red 6 black 1
+black 1 red 3 black 2 red 2 blue 1 black 1 blue 1 red 2 black 1 red 3 black 1 black 1 red 4 black 1
+black 1 red 3 black 1 red 3 blue 1 black 1 red 1 black 1 black 1 red 3 black 4 red 3 black 1
+black 1 red 1 blue 2 black 1 red 5 black 1 black 1 red 8 black 1
+black 1 blue 4 black 2 red 2 black 1 black 8
+black 1 blue 3 black 1 black 2
+black 1 blue 2 black 1
+black 2

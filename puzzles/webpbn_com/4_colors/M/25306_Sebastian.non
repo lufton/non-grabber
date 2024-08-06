@@ -1,0 +1,62 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kelly Kriese"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 25306
+link "https://webpbn.com/play.cgi?id=25306"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Sebastian"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4 blue 2 red 6 blue 3 blue 1
+blue 2 blue 5 red 6 blue 2 blue 3
+blue 4 red 14 blue 2
+blue 1 blue 2 red 4 red 4 blue 1
+blue 7 black 1 black 1 blue 4
+blue 4 blue 2 red 3 blue 1 blue 2
+blue 1 blue 6 blue 2 blue 1
+blue 9 red 1 blue 4
+blue 1 black 2 blue 2 blue 1 red 8 blue 2
+blue 3 black 5 red 8 blue 2
+blue 1 black 3 blue 3 red 3 blue 2
+blue 7 red 3 black 1 blue 1
+blue 1 blue 2 blue 1 red 3 black 1 blue 1
+blue 6 red 3 black 1
+blue 3 blue 2 black 1
+blue 6 black 2
+blue 2 blue 3 black 1 black 1
+blue 4 blue 1 black 1 blue 1
+blue 1 blue 4 black 1 blue 1
+blue 7 blue 2
+
+columns
+blue 19
+blue 3 blue 2 blue 1 blue 1 black 1 blue 1 blue 5 blue 1
+blue 1 blue 6 black 1 blue 1 black 1 blue 5 blue 3
+blue 8 black 3 blue 3 blue 5
+blue 2 red 2 blue 1 blue 3 black 1 blue 2 blue 4 blue 2
+blue 1 red 2 blue 5 black 1 blue 10
+blue 2 red 2 blue 4 black 1 blue 2 blue 1
+blue 2 red 2 red 1 blue 3 black 1
+red 3 black 1 red 1 blue 1 red 2
+red 3 red 1 red 2
+red 3 red 2
+red 3 black 1 red 2
+red 3 red 2
+red 3 red 6
+blue 1 red 2 red 6
+blue 2 red 2 red 7
+blue 1 red 2 blue 4 black 3
+blue 2 red 2 blue 1 blue 3 black 5
+blue 5 blue 4 black 2 blue 1
+blue 3 blue 4 blue 4 blue 3

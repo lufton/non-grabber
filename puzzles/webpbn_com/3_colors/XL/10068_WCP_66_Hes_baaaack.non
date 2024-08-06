@@ -1,0 +1,101 @@
+by "Liz P (Lizteach)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Liz P"
+date "Aug 23, 2010"
+description "An homage to Jan's puzzle #36, Rainy Day Fun, of Dr. Seuss's The Cat in the Hat. This redone version is of a scene from The Cat in the Hat Comes back, where Sally looks on in befuddlement as the Cat unveils (or unhats?) Little Cat A, who is going to help clean the pink spots off the snow (with the help of Little Cats B-Z and some VOOM)."
+difficulty 3.25
+height 50
+id 10068
+link "https://webpbn.com/play.cgi?id=10068"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "WCP #66 He's baaaack!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 18 red 4 red 3
+black 10 black 3 red 3 red 4 red 2
+black 7 black 1 black 1 black 1 red 5 red 4 red 1 black 1
+black 6 black 2 black 3 black 1 red 5 red 2 black 4
+black 6 black 2 black 3 black 1 red 4 black 3 black 2
+black 5 black 2 black 3 black 1 red 2 black 3 black 2
+black 5 black 2 black 3 black 1 red 1 black 1 black 2
+black 4 black 2 black 3 black 3 black 2
+black 4 black 2 black 2 black 2 black 1 black 2
+black 3 black 1 red 1 black 3 black 2 black 2 black 4 black 2
+black 3 black 1 red 3 black 1 black 2 black 1 black 3 black 2
+black 2 black 1 red 1 black 1 black 5 black 3 black 2
+black 2 black 1 black 1 black 4 black 1 black 2
+black 2 black 1 red 2 black 1 black 4 black 2 black 2
+black 2 black 3 red 2 black 1 black 1 black 1 black 1 black 2
+black 2 black 1 red 1 black 1 black 2 black 1 black 2
+black 2 black 3 black 1 black 1 black 1 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 3 black 1 black 1 black 1 black 6 black 2
+black 1 black 1 red 2 black 1 black 1 red 2 black 1 black 1 black 2
+black 4 red 2 black 1 red 4 black 5 black 2
+black 2 black 3 red 1 black 4 black 3 black 2
+black 2 black 1 red 1 black 2 black 1 black 3 black 2
+black 2 black 6 black 3 black 2
+black 2 black 1 black 1 black 3 black 2
+black 2 black 3 black 3 black 2 black 3 black 2
+black 2 black 11 black 3 black 2
+black 2 black 2 black 4 black 2 black 3 black 3
+black 4 black 2 black 2 black 3 black 3
+black 5 black 1 black 1 black 1 black 4 black 3 black 3
+black 3 black 1 black 1 black 3 black 3 black 3
+black 3 black 6 black 3 black 3
+black 3 black 2 black 3 black 3 black 1 black 4
+black 2 black 1 black 3 black 3 black 3 black 4
+black 2 black 2 black 4 black 1 red 2 black 1 black 4
+black 3 black 2 black 3 red 5 black 1 red 2 black 2 red 2
+black 8 black 3 red 4 black 2 red 6
+black 3 black 1 black 1 black 2 red 4 black 2 red 5
+black 2 black 3 black 3 red 3 black 2 black 3 red 2
+black 2 black 7 red 3 black 2 black 2 red 3
+black 2 black 4 black 1 red 2 black 3 black 1 red 1
+black 2 black 4 red 2 black 3 red 3 black 1 black 1 black 1
+black 2 black 1 red 3 black 4 red 2 black 1 black 2
+black 2 black 1 red 3 black 1 red 4 black 3 black 1 black 1
+black 2 red 7 black 3 red 5 black 4 black 2
+black 2 red 6 black 16 black 1
+black 2 red 5 black 5 black 1 black 8
+black 2 red 4 black 5 black 12
+black 2 red 4 black 4 black 11
+black 2 red 2 black 13 black 11
+
+columns
+black 50
+black 19 black 30
+black 11 black 3 black 5 black 3 red 2
+black 9 red 1 black 2 black 3 black 1 red 5
+black 7 black 2 black 2 red 2 black 1 black 3 black 1 black 1 black 2 red 5 black 1
+black 5 black 1 black 2 black 1 red 1 black 3 black 2 black 1 black 1 black 1 black 1 red 5 black 1
+black 3 black 4 black 1 black 1 black 1 red 2 black 4 black 1 black 1 black 2 red 4 black 1
+black 2 black 2 red 2 black 1 red 1 black 3 black 1 black 5 red 3 black 1
+black 4 black 1 red 2 red 3 black 1 black 1 red 1 black 6 black 1 black 3 black 1 red 2 black 3
+black 2 black 2 black 2 red 2 black 4 black 2 red 2 black 1 black 1 black 2 black 1 black 1 black 2 red 1 black 4
+black 1 black 2 black 1 red 1 black 1 black 1 red 2 black 3 black 2 black 1 black 6 red 1 black 5
+black 1 black 2 black 2 black 2 black 2 black 1 black 8 red 2 black 6
+black 1 black 2 black 2 black 16 red 2 black 4 black 1
+black 2 black 3 black 2 black 12 black 1 red 2 black 3 black 1
+black 2 black 3 black 2 black 3 black 6 black 1 red 1 black 2 red 1 black 1 black 1
+black 3 black 3 black 2 black 2 black 1 red 7 black 1 red 2 black 1 black 1
+black 1 red 2 black 1 black 3 black 2 black 2 black 1 red 6 black 2 red 2 black 1 black 1
+black 1 red 3 black 1 black 3 black 1 black 1 red 5 black 3 red 2 black 2
+red 4 black 1 black 1 black 2 black 3 red 3 black 4 red 3 black 1 black 1
+red 4 black 1 black 3 black 5 red 2 black 5 red 2 black 7
+red 5 black 1 black 7 black 9 red 1 black 3 red 1 black 8
+red 1 red 2 black 3 black 1 black 2 black 6 black 9 red 1 black 7
+red 2 black 1 black 1 black 2 black 1 black 2 black 9 black 1 black 6
+red 3 black 2 black 4 black 1 black 1 black 5 black 3 red 1 black 5
+red 4 black 1 black 2 black 1 black 3 black 1 red 2 black 9
+red 3 black 1 black 3 black 2 black 1 red 2 black 3 black 1 black 6
+red 1 black 1 black 7 black 4 red 2 black 2 red 1 black 4
+red 1 black 1 black 9 red 2 black 1 red 1 black 1 black 3
+red 3 black 32 red 5 black 1 black 1 black 3
+red 2 black 33 red 5 black 1 black 3

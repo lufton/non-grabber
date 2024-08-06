@@ -1,0 +1,82 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/12/12"
+height 30
+id 126656
+link "https://www.griddlers.net/nonogram/-/g/126656"
+medium_time "0:13:36"
+points 16842
+popularity 79.74
+title "Bambi"
+width 27
+
+color a ff99ff
+color b 663333
+color c cccc33
+color d cccc99
+color e 996633
+color f cc9933
+color g 66ccff
+color h ffffff
+
+rows
+b 3
+b 2 c 1 d 1
+b 1 c 2 d 1
+e 3 b 1 c 1 d 1
+f 5 e 2
+f 1 c 4 f 2 e 1
+b 2 f 1 c 1 g 2 h 1 c 1 f 1 e 2
+b 1 f 2 h 1 b 1 g 1 h 1 c 1 f 1 e 2 e 1 b 1
+e 1 d 7 f 1 e 2 e 1 b 1 h 1
+e 2 d 6 e 3 e 2 b 1 h 1
+e 3 d 3 e 1 f 1 e 1 e 2 d 1 h 1
+e 5 f 1 e 2 e 1 b 1 d 1
+h 1 d 1 f 1 e 1 b 2 e 3 b 1
+h 1 d 1 f 1 e 1 b 3 d 2 e 2
+h 1 d 1 f 1 e 2 b 2 e 1 d 2 f 1 e 3
+h 1 d 1 f 1 e 6 d 1 f 2 d 2 e 2 d 1
+h 1 d 1 f 1 e 7 d 2 e 4 d 1
+h 1 d 1 f 1 e 12 d 1
+h 2 f 1 e 4 f 2 d 1 e 4
+h 1 d 1 f 1 e 3 f 1 d 2 e 5
+h 2 f 1 e 3 h 2 e 7 b 1
+h 1 e 4 e 7 b 1
+b 1 e 3 e 4 b 2
+b 2 e 3 e 3 b 2
+b 2 e 3 e 3 b 2
+b 3 e 3 e 3 b 2
+b 3 e 2 e 2 b 2
+b 2 e 3 e 2 b 2
+e 2 e 2
+e 2 e 2
+
+columns
+b 2 e 2
+b 1 f 1 d 1 e 2
+f 3 d 2 e 2
+f 1 c 2 h 1 d 2 e 2 b 2
+f 1 c 1 g 1 b 1 d 3 e 1 b 3
+e 1 f 1 c 1 g 2 d 3 e 1 h 7 b 3
+e 1 f 1 c 1 h 2 d 3 e 1 d 6 h 3 b 3 e 3
+e 1 f 2 c 2 d 2 e 1 f 8 d 1 h 2 b 2 e 6
+b 3 e 1 f 4 e 1 f 1 e 8 f 2 e 7
+b 2 c 2 e 8 e 12
+b 1 c 2 d 1 e 4 e 9
+b 1 d 2 e 7
+b 1 e 3 f 2 h 1
+b 1 e 3 f 1 d 1 h 1
+b 1 e 1 d 1 e 2 d 2
+b 1 d 1 f 1 d 1 e 4
+b 1 d 1 f 1 d 1 e 5
+b 1 d 1 f 1 d 1 e 6
+b 1 d 1 e 1 d 1 e 6
+e 6 e 4
+e 5 d 1 e 4
+e 4 d 2 e 6
+e 3 b 2 b 1 e 7
+e 1 b 2 d 2 b 3 e 6
+b 1 h 3 b 4 e 2
+b 4
+b 2

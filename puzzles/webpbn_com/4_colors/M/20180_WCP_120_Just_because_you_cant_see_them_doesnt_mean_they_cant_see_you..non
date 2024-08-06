@@ -1,0 +1,72 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Oct 26, 2012"
+description "When you're out after dark on Halloween, waiting for the Great Pumpkin with Charlie Brown, remember that cats and bats can see you much better than you can see them. ;)"
+difficulty 1.5
+height 25
+id 20180
+link "https://webpbn.com/play.cgi?id=20180"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #120 Just because you can't see them doesn't mean they can't see you."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 4 black 3 black 4
+black 5 red 1 black 1 red 1 black 5
+black 1 black 1 black 3 black 1 black 1
+0
+0
+0
+0
+black 1 black 1
+black 5
+black 1 green 1 black 1 green 1 black 1
+black 5
+black 5
+black 3
+black 5
+black 7
+black 7
+black 7
+black 9
+black 9
+black 9
+black 7
+black 8
+black 1
+black 3
+black 8
+
+columns
+0
+black 3
+black 2
+black 3
+black 2
+black 1
+black 1 red 1 black 1
+black 3
+black 1 red 1 black 1
+black 1
+black 2
+black 3
+black 2
+black 3 black 3 black 1
+black 7 black 1
+black 5 black 9 black 1
+black 1 green 1 black 12 black 1
+black 14 black 1
+black 1 green 1 black 12 black 1
+black 5 black 9 black 1
+black 8 black 2
+black 3 black 1 black 1
+black 3
+0
+0

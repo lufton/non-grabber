@@ -1,0 +1,102 @@
+by "Allie Blake (Allie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Allie Blake"
+date "Nov  4, 2020"
+description "Red is the start, blue is the end. I'm going to create lots of a-maze-ing puzzles! (lol)"
+difficulty 3.75
+height 40
+id 34659
+link "https://webpbn.com/play.cgi?id=34659"
+note "published,definitely unique,definitely requires much guessing"
+quality 1.75
+title "A-maze-ing Puzzle #1"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 19
+red 1 black 1
+red 1 black 1 black 11 black 4
+black 4 black 1 black 7 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 4 black 1 black 1 black 1 black 5 black 1 black 1 black 3
+black 4 black 1 black 1 black 1 black 1 black 5 black 1 black 1
+black 1 black 1 black 1 black 1 black 8 black 1 black 1
+black 10 black 1 black 1 black 1 black 4
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 14 black 1
+black 13 black 1 black 1 black 3
+black 1 black 1 black 1
+black 1 black 5 black 7 black 4
+black 1 black 2 black 1 black 4
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 18 black 6 black 1
+black 2 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 3 black 8 black 2 black 1
+black 4 black 1 black 1 black 1 black 1 black 3 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 3 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 3 black 1 black 2 black 1
+black 5 black 1 black 1 black 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 1 black 1 black 2 black 1 black 5
+black 1 black 2 black 1 black 9 black 1 black 1
+black 1 black 8 black 1 black 6 black 1 black 1
+black 1 black 8 black 1 black 13 black 5
+black 1 black 8 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 2 black 1 black 3 black 5
+black 1 black 11 black 1 black 2 black 1 black 3 black 2 black 1
+black 1 black 1 black 2 black 1 black 3 black 2 black 1
+black 1 black 1 black 2 black 1 black 7 black 1
+black 1 black 1 black 1 black 8 black 2 black 1 black 7 black 1
+black 1 black 1 black 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 2 black 1
+black 1 black 1 black 11 black 8 black 9
+black 1 black 1 blue 1
+black 1 black 1 blue 1
+
+columns
+black 1 red 2 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 4 black 1 black 15
+black 1 black 1 black 3 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 6 black 1 black 6
+black 1 black 3 black 1 black 1 black 15 black 1
+black 1 black 1 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 3 black 1 black 4
+black 1 black 3 black 1 black 1 black 10 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 4
+black 1 black 1 black 3 black 3 black 13 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 11 black 16 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 11 black 1 black 1 black 4 black 10 black 1
+black 1 black 1 black 1 black 4 black 3
+black 1 black 1 black 4 black 3
+black 6 black 1 black 1 black 3 black 8
+black 1 black 1 black 1 black 1 black 1 black 3 black 8
+black 1 black 1 black 1 black 1 black 1 black 9 black 1
+black 1 black 3 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 1 black 1 black 8 black 1
+black 1 black 3 black 1 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 3 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 3 black 1 black 1 black 1 black 8 black 3
+black 1 black 1 black 1 black 1 black 8
+black 1 black 1 black 1 black 1 black 13
+black 9 black 1 black 1 black 2 black 1
+black 1 black 1 black 2 black 1
+black 1 black 1 black 3 black 1 black 1 black 5 black 1
+black 15 black 3 black 1 black 1 black 5 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 8 black 4 black 8
+black 1 black 1 black 1
+black 1 black 1 black 1 blue 2

@@ -1,0 +1,62 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Jan 10, 2013"
+description "Big book."
+difficulty 2.25
+height 20
+id 20825
+link "https://webpbn.com/play.cgi?id=20825"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Well known book title."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 red 1 red 1 red 1
+red 2 black 3 black 1
+black 2 black 1 red 4
+red 1 black 1 black 1 black 1 blue 2
+black 1 red 3 black 2 red 1 blue 4
+black 1 black 3 blue 7
+black 1 red 1 black 1 blue 4 blue 4
+black 1 blue 5 blue 4
+blue 5 blue 4
+blue 6 blue 5
+blue 3 blue 1 blue 6
+blue 3 blue 7
+blue 6 blue 7
+blue 5 blue 8
+blue 4 blue 8
+blue 4 blue 7
+blue 4 blue 3
+blue 5 blue 3
+blue 5 blue 3
+blue 7
+
+columns
+black 1 black 1 red 1 black 1
+black 1 red 1 black 1 red 1 black 1 blue 2
+red 1 black 1 red 1 black 1 blue 4
+red 1 black 1 red 1 black 1 red 1 black 1 blue 6
+black 1 red 1 black 4 blue 8
+red 1 black 1 red 1 black 2 blue 3 blue 6
+black 1 red 1 black 1 red 1 blue 3 blue 1 blue 4
+red 1 red 1 blue 4 blue 4
+black 1 blue 6 blue 3
+blue 6 blue 3
+blue 5 blue 2
+blue 3 blue 2 blue 1
+blue 3 blue 3 blue 2
+blue 3 blue 5 blue 3
+blue 14
+blue 12
+blue 10
+blue 8
+blue 6
+blue 4

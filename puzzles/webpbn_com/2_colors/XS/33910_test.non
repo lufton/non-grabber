@@ -1,0 +1,37 @@
+by "Evan Minsk (iamebn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Evan Minsk"
+date "Apr 15, 2020"
+description ""
+difficulty 1.25
+height 10
+id 33910
+link "https://webpbn.com/play.cgi?id=33910"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "test"
+width 10
+
+rows
+6,2
+7,2
+2,2,2
+2,2,2
+4,5
+4,4
+2,2
+2,2
+5,2
+4,2
+
+columns
+4,2
+6,2
+2,2,2
+2,6
+2,4
+5
+6
+2
+10
+10

@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 22, 2011"
+description ""
+difficulty 1.5
+height 20
+id 11867
+link "https://webpbn.com/play.cgi?id=11867"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Who's Hat #5"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+red 3
+red 2
+red 2
+red 1
+black 1
+black 3
+black 5
+black 7
+black 8
+black 5
+black 5
+black 4
+black 3
+black 6
+black 8
+black 10
+black 3 black 3
+black 2 black 2
+black 1 black 1
+
+columns
+black 4
+black 3 black 4
+black 5 black 4
+red 2 black 10
+red 4 black 11
+red 4 black 12
+black 4 black 3
+black 3 black 4
+black 2 black 4
+black 4

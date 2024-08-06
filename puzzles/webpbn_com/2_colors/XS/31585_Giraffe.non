@@ -1,0 +1,33 @@
+by "Tyler Green (Tygreen4)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Tyler Green"
+date "Sep 25, 2018"
+description "It's a giraffe"
+difficulty 1.25
+height 8
+id 31585
+link "https://webpbn.com/play.cgi?id=31585"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Giraffe"
+width 8
+
+rows
+1,1
+3
+1,1,1
+3
+1
+1
+4
+1,1
+
+columns
+0
+1
+2,1
+7
+2,1,1
+1,1
+2
+0

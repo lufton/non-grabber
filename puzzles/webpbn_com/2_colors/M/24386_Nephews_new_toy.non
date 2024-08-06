@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tom King"
+date "May  4, 2014"
+description "A plaskool tractor"
+difficulty 2.5
+height 20
+id 24386
+link "https://webpbn.com/play.cgi?id=24386"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Nephew's new toy"
+width 20
+
+rows
+9,1
+1,2,1
+1,1,1
+1,4,1,1
+2,1,1,1,6
+1,1,1,1,2
+2,1,1,1,2
+1,4,1,2
+1,3,2
+1,9
+1,3
+1,1
+1,1
+1,2
+16
+3,3
+1,1,1,1
+1,1,1,1,1,1
+1,1,1,1
+3,3
+
+columns
+5,3
+1,3,1,1
+1,10,1,1
+1,2,1
+1,5,1,3
+1,1,1,1
+1,1,1,1
+1,5,1
+2,1
+9,1
+2,1
+3,1
+2,1,1
+2,1,1
+6,1,1
+1,1,1,3
+1,2,2,1
+1,3,2,1,1
+1,1,1,1,1
+1,4,3

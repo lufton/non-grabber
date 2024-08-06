@@ -1,0 +1,41 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Sep 30, 2017"
+description "In statistical mechanics, entropy (usual symbol S) is related to the number of microscopic configurations ÃÂ© that a thermodynamic system can have when in a state as specified by some macroscopic variables."
+difficulty 1.25
+height 10
+id 30261
+link "https://webpbn.com/play.cgi?id=30261"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "... for Chaos."
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3 black 3
+green 2 black 2
+green 2 black 2 black 2
+green 2 black 6
+green 2 black 3
+green 3 black 2
+green 6 black 2
+green 2 green 2 black 2
+green 2 black 2
+green 3 black 3
+
+columns
+green 10
+green 10
+green 1 green 2 green 1
+green 1
+black 2 green 2
+black 2 green 2
+black 1
+black 1 black 2 black 1
+black 10
+black 10

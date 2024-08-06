@@ -1,0 +1,81 @@
+by "JT (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by JT"
+date "Jan  1, 2016"
+description "The beloved NYT logo for the Social Q's column Phillip Galanes"
+difficulty 1.75
+height 30
+id 27884
+link "https://webpbn.com/play.cgi?id=27884"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "A Question of Style"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 7
+red 3 red 3
+red 2 red 2
+red 2 red 2
+black 2 red 1 red 3
+black 4 red 2 black 2
+black 6 red 1 black 5
+black 4 black 2 black 2
+black 2 red 1 black 4 black 1
+red 3 black 7
+black 3 red 5 black 9
+black 7 red 5 black 10
+black 10 red 3 black 11
+black 1 black 9 red 1 black 10
+black 1 black 5 black 2 black 2 black 5
+black 1 black 3 black 2 black 2 black 5
+black 1 black 4 black 2 black 6
+black 6 black 1 black 2 black 6
+black 8 black 2 black 6
+black 10 black 2 black 2
+black 10 black 3 black 2
+black 12 black 3 black 2
+black 13 black 2 black 2
+black 13 black 2 black 2
+black 2 black 2 black 3 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 1 black 3 black 2 black 1
+
+columns
+black 2
+black 1 black 1 black 3
+black 1 black 5
+black 2 black 6
+black 1 black 3 black 7
+black 3 black 4 black 12
+black 5 black 19
+black 5 black 14
+black 3 black 14
+black 1 black 4 black 10
+black 2 black 11
+red 2 black 2 black 5 black 2
+red 4 black 2 black 3 black 1
+red 2 red 2 red 2 black 1 black 2
+red 2 red 4 black 1
+red 2 red 2 red 6 black 1 black 1
+red 2 red 2 red 4 black 1
+red 2 red 1 red 2 black 2
+red 5 black 2
+red 3 black 3 black 2 black 1
+black 7 black 5
+black 7 black 7
+black 6 black 5
+black 7 black 4
+black 8 black 5
+black 2 black 10
+black 2 black 10
+black 1 black 19
+black 2 black 17
+black 2 black 6

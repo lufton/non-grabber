@@ -1,0 +1,73 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Oct  7, 2010"
+description "Pool, one of my favorite pasttimes."
+difficulty 1.5
+height 25
+id 10601
+link "https://webpbn.com/play.cgi?id=10601"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Bank it!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 18 black 5 blue 1
+green 20 black 3 blue 2
+green 21 black 2 blue 2
+green 15 black 2 green 5 black 1 blue 2
+green 14 black 3 green 5 black 1 blue 2
+green 13 black 3 green 6 blue 3
+green 2 green 8 black 3 green 7 blue 3
+green 1 green 6 black 2 green 8 blue 1 blue 1
+green 1 green 5 black 1 green 9 blue 3
+green 2 green 6 green 10 blue 3
+green 9 green 12 blue 3
+green 8 green 2 green 10 blue 3
+green 7 green 2 black 1 green 9 blue 1 blue 1
+green 6 green 4 green 10 blue 3
+green 5 green 16 blue 3
+green 4 green 17 blue 3
+green 3 green 3 red 2 green 13 blue 3
+green 2 green 3 red 4 green 12 blue 1 blue 1
+green 1 green 4 red 4 green 12 blue 3
+blue 1 green 6 red 2 green 9 black 2 green 2 blue 3
+green 17 black 4 green 1 black 1 blue 2
+green 17 black 4 green 1 black 1 blue 2
+green 18 black 2 green 1 black 2 blue 2
+green 20 black 3 blue 2
+blue 18 black 5 blue 1
+
+columns
+blue 1 green 18 blue 1 green 4 blue 1
+blue 1 green 6 green 9 green 5 blue 1
+blue 1 green 5 green 7 green 6 blue 1
+blue 1 green 5 green 6 green 7 blue 1
+blue 1 green 6 green 6 green 8 blue 1
+blue 1 green 13 green 9 blue 1
+blue 1 green 12 green 3 red 2 green 5 blue 1
+blue 1 green 11 green 3 red 4 green 4 blue 1
+blue 1 green 10 green 4 red 4 green 4 blue 1
+blue 1 green 9 green 6 red 2 green 5 blue 1
+blue 1 green 7 green 2 green 11 blue 1
+blue 1 green 6 black 1 green 1 black 1 green 10 blue 1
+blue 1 green 5 black 2 green 3 green 11 blue 1
+blue 1 green 4 black 3 green 16 blue 1
+blue 1 green 3 black 3 green 17 blue 1
+blue 1 green 2 black 3 green 18 blue 1
+blue 1 green 2 black 2 green 19 blue 1
+blue 1 green 19 black 2 green 2 blue 1
+black 1 green 18 black 4 green 1 black 1
+black 1 green 18 black 4 green 1 black 1
+black 2 green 18 black 2 green 1 black 2
+black 3 green 19 black 3
+black 5 blue 15 black 5
+blue 7 blue 4 blue 4 blue 7
+blue 23

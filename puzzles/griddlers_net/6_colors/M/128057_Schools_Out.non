@@ -1,0 +1,55 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/17/12"
+height 15
+id 128057
+link "https://www.griddlers.net/nonogram/-/g/128057"
+medium_time "0:03:27"
+points 1786
+popularity 68.14
+title "School's Out"
+width 17
+
+color a b7e2fd
+color b ded3bd
+color c 000000
+color d f7d794
+color e bd3431
+color f ffffff
+
+rows
+b 1 c 10
+b 1 c 8 d 3
+b 1 c 10 d 1
+b 1 c 10
+e 4 c 1 b 11
+e 3 c 9 d 2
+f 1 e 3 c 8 d 2
+f 2 e 3 c 7 d 2
+f 3 e 9 d 1
+e 1 f 4 e 9
+e 1 f 4 e 9
+e 1 f 11 e 2
+e 1 f 11 e 1
+e 1 f 9 e 2
+e 10
+
+columns
+e 1 e 1
+b 1 e 2 f 4 e 1
+c 1 b 1 e 3 f 4 e 1
+c 2 b 1 e 4 f 4 e 1
+c 3 b 1 c 2 e 3 f 4 e 1
+c 4 b 1 c 2 e 3 f 4 e 1
+c 4 b 1 c 3 e 3 f 3 e 1
+c 4 b 1 c 3 e 3 f 3 e 1
+c 4 b 1 c 3 e 3 f 3 e 1
+c 4 b 1 c 3 e 3 f 3 e 1
+c 4 b 1 c 3 e 3 f 3 e 1
+c 1 d 1 c 2 b 1 c 3 e 3 f 3 e 1
+d 1 c 2 b 1 c 3 e 3 f 3 e 1
+d 1 c 2 b 1 e 2 f 3 e 1
+d 1 c 1 b 1 e 2 f 1 e 2
+b 1 d 3 e 3
+d 4

@@ -1,0 +1,63 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Jill Tallmer"
+date "Sep 28, 2018"
+description "Elegantly cross-legged in her plushy bed, Belly awaits her first cone-free belly rub, 12 days after hernia surgery. The top of her head didn't look right, so I left it out. Also, the bed isn't blue, but showing grey tweed would take a lot more pixels."
+difficulty 2.0
+height 20
+id 31625
+link "https://webpbn.com/play.cgi?id=31625"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Free at last"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 2
+blue 3 black 4 black 3 blue 3
+blue 6 black 1 green 1 green 1 black 1 blue 5
+blue 3 black 1 black 1 blue 3
+blue 3 black 1 black 1 blue 2
+blue 3 black 1 red 1 black 1 blue 3
+blue 3 black 1 black 1 blue 3
+blue 4 black 2 black 3 blue 3
+blue 4 black 2 black 2 blue 3
+blue 4 black 1 black 2 blue 4
+blue 4 black 1 black 1 blue 4
+blue 3 blue 4
+blue 3 black 1 black 1 blue 4
+blue 3 black 2 black 2 blue 3
+blue 3 black 1 black 2 black 2 blue 3
+blue 2 black 1 black 2 black 2 blue 2
+blue 2 black 2 black 1 black 2 blue 2
+blue 2 black 3 black 3 blue 2
+blue 3 black 2 black 2 blue 3
+blue 5 black 1 blue 4 black 2 blue 3
+
+columns
+blue 11
+blue 17
+blue 19
+blue 3 blue 4 blue 2
+blue 2 black 2 blue 1
+black 2 blue 1 black 1 black 2 blue 1
+black 1 blue 1 black 3 black 1 blue 1
+black 2 black 1 black 4 black 3 black 1 black 1
+black 1 green 1 black 2 black 5 black 1 blue 1
+red 1 black 2 blue 1
+black 1 black 3 black 1 blue 1
+black 1 green 1 black 1 black 1 black 4 black 3 blue 1
+black 2 black 2 black 5 black 2
+black 2 blue 1 black 3 black 1
+black 1 blue 2 blue 1
+blue 3 blue 4 blue 2
+blue 19
+blue 17
+blue 10
+0

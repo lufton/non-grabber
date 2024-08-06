@@ -1,0 +1,77 @@
+by "Turquoise"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/12/05"
+height 32
+id 15973
+link "https://www.griddlers.net/nonogram/-/g/15973"
+medium_time "0:13:42"
+points 2655
+popularity 78.5
+title "Rose"
+width 21
+
+color a 000000
+color b ccffff
+color d cc6666
+color e aa0000
+color f 007700
+color g 99cc66
+color h 333399
+
+rows
+e 5
+e 1 d 1 e 2 d 1 e 2
+e 1 d 1 e 2 d 1 e 1 d 1 e 2
+d 1 e 1 d 1 e 2 d 1 e 2 f 1
+e 3 d 1 e 2 d 1 e 2 f 2
+e 4 d 1 e 1 d 1 e 2 f 1 g 1 f 1
+e 2 d 2 e 3 f 1 g 2 f 1
+e 4 f 1 f 1 g 2 f 1
+f 3 f 2 f 1 g 2 f 5
+f 1 g 3 f 1 f 1 f 1 g 1 f 2 g 4 f 2
+f 1 g 2 f 1 f 2 f 1 f 1 g 1 f 1 g 3 f 3
+f 3 f 2 g 1 f 3
+f 2 h 2 f 5
+b 1 h 1 b 2 f 2 b 2 h 1 b 1
+h 1 b 4 f 2 b 2 h 1
+h 2 b 3 f 2 b 1 h 2
+h 1 b 1 h 6 b 1 h 1
+h 1 b 4 f 1 b 3 h 1
+h 1 b 4 f 1 b 3 h 1
+h 1 b 4 f 1 b 3 h 1
+h 1 b 5 h 1 b 2 h 1
+h 1 b 5 h 1 b 2 h 1
+h 1 b 5 h 1 b 2 h 1
+h 1 b 4 h 1 b 3 h 1
+h 1 b 4 h 1 b 3 h 1
+h 1 b 4 h 1 b 3 h 1
+h 1 b 3 h 1 b 4 h 1
+h 1 b 3 h 1 b 4 h 1
+h 2 b 1 h 1 b 5 h 1
+h 1 b 8 h 1
+b 1 h 2 b 4 h 2 b 1
+b 1 h 6 b 1
+
+columns
+e 1 e 3 f 1
+e 1 d 2 e 3 f 3
+e 1 d 1 e 4 d 1 e 1 f 1 g 1 f 1
+e 3 d 2 e 1 d 1 e 1 f 1 g 2 f 1
+e 2 d 1 e 2 d 1 e 2 f 1 g 1 f 1
+e 1 d 1 e 6 f 1 g 1
+e 2 d 4 e 1 f 2 b 1 h 16 b 1
+e 5 f 1 h 1 b 1 h 1 b 12 h 1 b 1 h 1 b 1
+e 4 f 2 h 1 b 3 h 1 b 13 h 2
+f 3 h 1 b 3 h 1 b 11 h 1 b 2 h 1
+f 3 b 2 h 1 b 9 h 2 b 3 h 1
+f 10 h 1 f 3 b 3 h 3 b 5 h 1
+f 1 g 5 f 1 b 1 f 2 h 1 b 3 h 3 b 8 h 1
+f 1 g 4 f 2 g 1 f 1 b 3 h 1 b 13 h 2
+f 7 g 1 f 2 h 1 b 1 h 1 b 14 h 1 b 1
+f 1 g 2 f 1 b 1 h 16 b 1
+f 1 g 2 f 1
+f 1 g 1 f 1
+f 1 g 1 f 1
+f 2
+f 1

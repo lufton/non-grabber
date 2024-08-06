@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Nov  8, 2020"
+description "Naphthaline: The chemical used to make mothballs. I was going to use this for sublimate since naphthaline goes from a solid to gas without passing through the liquid state at room temperature but I wanted to go with the noun."
+difficulty 1.0
+height 20
+id 34666
+link "https://webpbn.com/play.cgi?id=34666"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Strange name 10"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 1 green 1 green 1
+black 2 green 1 black 2 black 2 green 1 black 3 black 4 green 1 black 1
+black 2 green 1 black 2 black 2 green 1 black 3 black 4 green 1 black 1
+green 1 green 1 green 1
+black 3 red 1 blue 1 green 1 red 1 green 1 red 1
+black 3 red 1 blue 2 red 1 green 1 red 1
+black 5 blue 3 black 1 green 1 black 1
+black 5 blue 3 black 3
+black 5 blue 3 black 3
+black 5 blue 3 black 3
+black 5 blue 3 black 3
+black 5 blue 3 black 3
+black 5 blue 3 black 3
+black 5 blue 3 black 2
+black 5 blue 3 black 2
+black 4 blue 3 black 2
+black 3
+black 3
+
+columns
+black 2 black 9
+black 2 black 14
+green 4 black 14
+black 2 black 14
+black 2 black 10
+red 2
+black 2
+black 2 blue 12
+green 5 blue 11
+black 2 blue 10
+black 2
+black 2
+red 2
+black 2
+black 2
+black 2
+black 2 black 10
+green 7 black 9
+black 2 black 7
+red 2

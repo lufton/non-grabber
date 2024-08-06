@@ -1,0 +1,61 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by valerie o..travis"
+date "May  4, 2017"
+description "...in case your satellite signal goes out when it rains."
+difficulty 2.0
+height 20
+id 29776
+link "https://webpbn.com/play.cgi?id=29776"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Problem solved..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 3 black 4
+red 7 black 1 black 2
+red 9 black 2
+red 11 black 1
+red 2 red 1 black 1 red 1 red 2 black 1
+black 1 black 1 black 2 black 1
+black 1 black 1 black 2 black 1
+black 1 black 1 black 1
+black 1 black 1 black 2 black 2
+black 1 red 1 black 2 black 2
+black 2 red 1 red 1 black 6
+black 4 red 1 black 2 black 1 black 1
+red 2 black 4 black 5
+black 3
+black 4
+black 5
+black 6
+black 7
+black 8
+
+columns
+red 1
+red 2
+red 2
+red 3 black 2
+red 4 black 1 black 2
+red 4 black 1
+red 5 black 5 red 2 black 1 red 1
+red 4 black 1 red 1
+red 4 black 4 red 2 black 1
+red 3 black 2 black 1
+black 2 red 2 black 2 black 1
+black 1 red 2 black 2 black 3
+black 1 red 1 black 2 black 2 black 1
+black 2 black 2 black 2
+black 2 black 3 black 3
+black 7 black 3 black 4
+black 1 black 5
+black 7
+black 7
+black 8

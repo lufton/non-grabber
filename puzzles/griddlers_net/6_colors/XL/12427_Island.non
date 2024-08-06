@@ -1,0 +1,108 @@
+by "kubaran"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/25/04"
+height 35
+id 12427
+link "https://www.griddlers.net/nonogram/-/g/12427"
+medium_time "1:11:34"
+points 270349
+popularity 66.67
+title "Island"
+width 50
+
+color a ffffff
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color g 808080
+color h 000000
+
+rows
+h 1 c 10
+h 1 c 3 c 2 c 8
+h 1 c 6 c 1 c 2 h 2 c 2 c 3
+h 1 c 15 c 3 h 2 c 2 c 2
+h 2 c 2 c 8 c 2 c 1 h 3 c 2
+h 2 c 2 c 1 c 3 c 3 h 2 c 1
+h 1 h 1 c 2 c 1 c 2 h 1 c 2 c 2 h 3 c 2
+h 1 h 1 c 1 c 1 h 2 c 2 c 2 h 2 c 1
+h 1 h 1 c 1 c 1 h 2 c 2 c 1 h 2
+h 1 h 2 c 1 c 1 h 3 c 1 h 2
+h 1 h 2 c 1 c 1 h 2 h 3
+h 1 h 1 h 2 h 2
+h 1 h 1 h 2 h 2
+h 1 h 1 h 2 h 2 h 2
+h 2 h 6 h 2 h 3
+h 3 h 1 h 2 h 1 h 3 h 2
+h 4 h 1 h 5 h 1 h 2 h 2
+h 1 h 11 h 3 h 2 h 2
+h 3 h 2 h 2 h 2
+h 3 h 4 h 2 h 2
+h 9 h 2 h 3
+d 3 d 1 e 1 d 1 d 2 d 2 e 1 d 2 d 2 e 1 d 3 h 2 g 4 h 2 g 5 d 1 e 1 d 1 d 1
+d 2 d 2 e 1 d 1 e 1 d 2 d 1 d 4 g 7 h 2 g 2 h 2 g 4 e 1 d 2
+d 2 e 1 d 1 d 3 d 2 d 1 d 1 g 5 h 2 h 2 g 4
+d 3 e 1 d 1 e 1 d 3 g 1 h 2 h 2 g 2
+d 1 e 1 d 2 d 1 d 2 d 1 e 1 d 1 g 2 h 2 h 2
+e 2 e 2 e 3 e 1 e 4 g 4 g 2
+e 3 d 2 d 2 e 1 d 2 e 5 g 8 g 3
+e 3 e 3 e 2 e 3 e 1 d 1 e 1 e 5 g 18
+e 4 e 6 d 1 e 1 e 3 e 3 e 5 e 4 e 5 e 4
+e 1 e 1 e 2 e 2 e 3 d 1 e 2 d 1 e 2 e 1 d 2 e 2 e 2 e 1 e 3 e 3 e 3
+e 4 e 5 e 2 e 1 e 3 e 2 e 4 e 3 e 2 d 1 e 1 e 3 e 1
+e 3 e 3 e 5 d 1 e 3 e 4 e 2 e 2 e 2 d 2 e 2 e 3
+e 3 d 1 e 3 e 1 e 1 e 2 e 3 e 2 e 2 e 2 e 2 e 1 e 3
+e 3 e 5 e 5 e 2 e 2 e 1 e 3 e 4 e 1 d 1 e 2 e 2
+
+columns
+h 1 h 1 d 1 d 1 d 1 e 1 e 1 e 1 e 1 e 1
+h 1 h 1 d 1 d 1 e 5 e 2 e 1
+h 2 h 1 d 2 e 3 e 2 e 1
+h 1 h 2 d 1 e 1 d 1 e 2 e 1 e 1 e 1
+h 1 h 1 h 1 d 2 e 1 e 4 e 1
+h 5 h 1 d 4 d 1 e 1 e 3
+h 1 h 1 e 1 d 1 d 1 e 1 d 1 e 3 e 1 d 1 e 1
+h 1 h 1 d 1 d 1 e 1 e 1 e 4 e 1
+h 18 h 1 e 1 d 3 e 1 d 1 e 1 e 1 e 1
+h 2 h 2 h 1 h 1 d 1 d 1 e 3 e 1
+h 4 h 1 h 1 h 1 d 2 d 1 e 1 e 3 e 1
+h 2 h 1 h 1 h 1 d 1 e 1 d 1 d 1 e 2 e 1 e 1
+c 1 h 5 h 1 h 1 d 2 e 1 e 1 d 1 e 1 e 3
+c 2 h 2 h 1 h 1 d 2 e 1 d 1 e 1 e 1 e 1
+c 2 h 1 h 1 d 1 d 1 e 2 d 1 e 7
+c 2 h 2 h 1 d 1 d 1 e 1 d 1 e 1 d 1 e 2 e 1
+c 1 h 1 h 1 d 3 e 3 e 1 e 1 e 1
+c 1 c 2 h 1 h 1 e 1 d 1 d 1 e 2 e 3 d 1
+c 7 h 1 h 2 d 2 g 3 e 1 e 1 e 2
+c 3 h 3 d 2 g 1 g 2 e 3 d 1 e 1 e 1
+c 6 h 1 h 1 d 1 g 1 g 1 e 1 d 1 e 1 e 1
+c 10 h 2 d 1 g 1 g 1 e 6
+c 5 h 2 d 1 g 2 g 2 e 2 e 1
+c 3 c 1 h 3 e 1 g 1 g 1 e 2 e 4
+c 2 c 2 h 3 g 1 g 1 e 1 e 2 e 2
+c 3 c 2 h 4 g 1 g 1 e 1 d 1 e 2
+c 1 c 1 c 1 h 5 d 1 g 1 g 1 e 1 d 1 e 1 e 1
+c 1 c 2 c 1 h 5 d 1 g 1 g 1 e 5
+c 1 c 2 h 6 d 1 g 1 g 1 e 4
+c 2 c 2 h 8 g 2 e 1 e 1 e 2
+c 1 h 5 g 1 e 1 e 4
+g 1 g 1 e 2 e 1 e 1
+g 2 g 1 e 1 e 1
+c 2 g 1 g 1 e 1 e 3
+c 2 g 1 g 1 e 4
+c 1 g 1 g 1 e 1 e 1 e 1
+c 1 c 2 h 6 g 1 e 1 e 2
+c 1 c 1 h 12 g 1 e 2 e 1
+c 1 c 2 h 11 g 1 g 1 e 4 e 1
+c 3 h 9 g 1 g 1 e 2 d 1 e 1
+c 2 h 7 g 1 g 1 e 2 d 2 e 1
+c 2 h 5 g 1 g 1 e 1 e 1 e 2
+c 2 h 3 g 2 g 1 e 2 d 1
+c 3 g 1 g 1 e 2 e 1
+c 3 d 1 g 1 g 1 e 3
+c 1 c 2 e 1 g 2 g 1 e 4
+c 2 c 3 d 1 g 1 g 2 e 2 e 2
+c 1 c 2 e 1 g 1 g 1 e 2 e 2
+c 2 d 2 g 2 g 2 e 2 e 1 e 1
+c 1 d 1 g 1 g 1 e 1 e 2 e 1

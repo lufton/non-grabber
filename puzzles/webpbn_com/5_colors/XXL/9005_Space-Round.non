@@ -1,0 +1,129 @@
+by "BabsHoney (BabsHoney)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by BabsHoney"
+date "May 30, 2010"
+description "I was using Google's Image Swirler, and found this celestial sphere to be particularly interesting..."
+difficulty 2.25
+height 50
+id 9005
+link "https://webpbn.com/play.cgi?id=9005"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Space-Round"
+width 56
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 12
+red 3 red 2 red 3
+red 3 red 2 red 3
+red 3 red 2 red 3
+red 3 red 2 red 3
+red 3 red 2 red 4
+red 2 red 2 red 6
+red 2 red 2 red 3 red 3
+red 4 red 2 red 2 red 1 red 2
+red 2 red 3 red 2 red 2 red 1 red 2
+red 1 red 3 red 2 red 2 red 1 red 1
+red 2 red 3 red 2 red 2 red 1 red 2
+red 1 red 3 red 2 red 2 red 2 red 1
+red 2 red 3 red 2 red 2 red 2 red 2
+red 1 red 3 green 3 red 2 red 2 red 2 red 1
+red 2 red 3 green 1 red 2 red 2 red 1 red 2
+red 1 red 3 green 2 red 2 red 1 red 2 red 1
+red 2 red 3 green 1 red 4 red 1 red 2
+red 1 red 3 green 3 red 3 red 2 red 1
+red 2 red 3 red 3 red 1 red 2
+red 1 red 11 red 2 red 1
+red 1 red 9 black 1 red 2 black 3 red 8 red 1
+red 1 red 7 black 6 red 5 black 8 red 8 red 1
+green 1 green 1 red 1 red 7 black 13 red 4 black 7 red 2 black 6 red 7 red 1 green 3
+green 3 red 3 black 20 red 1 green 2 black 6 red 2 black 13 red 3 green 1
+green 3 blue 1 red 2 black 21 green 2 black 5 red 2 black 14 red 2 blue 1 green 3
+green 3 blue 2 red 7 black 21 red 2 black 9 red 7 blue 2 green 1
+green 1 green 1 blue 8 red 7 black 15 red 1 black 4 red 7 blue 8 green 3
+blue 14 red 7 black 8 red 7 blue 14
+blue 20 red 10 blue 20
+blue 27 red 2 blue 1 green 1 blue 1 green 1 blue 17
+blue 25 red 2 blue 2 green 1 blue 1 green 1 blue 16
+blue 23 red 3 blue 3 green 3 blue 16
+blue 21 red 2 blue 5 green 3 blue 15
+blue 19 red 3 blue 6 green 3 blue 15
+blue 17 red 2 blue 25
+blue 15 red 3 blue 26
+blue 12 red 3 blue 27
+blue 10 red 3 blue 29
+blue 8 red 2 blue 30
+blue 5 red 4 blue 31
+blue 2 red 3 blue 33
+red 2 blue 34
+blue 34
+blue 32
+blue 28
+blue 24
+blue 20
+blue 16
+blue 12
+
+columns
+green 5
+green 3
+green 5
+red 6 blue 6
+red 3 red 2 blue 7
+red 3 red 4 blue 8
+red 3 red 1 black 2 red 1 blue 10
+red 3 red 1 black 2 red 1 blue 12
+red 3 red 1 black 2 red 1 blue 14
+red 2 red 1 black 2 red 1 blue 15
+red 2 red 1 black 2 red 1 blue 15 red 1
+red 4 red 2 black 2 red 2 blue 13 red 2 blue 1
+red 2 red 3 red 1 black 4 red 1 blue 13 red 1 blue 3
+red 1 red 3 red 1 black 4 red 1 blue 12 red 2 blue 3
+red 2 red 3 red 1 black 4 red 1 blue 12 red 1 blue 5
+red 1 red 3 red 1 black 4 red 1 blue 12 red 1 blue 5
+red 2 red 3 red 1 black 4 red 1 blue 11 red 2 blue 6
+red 1 red 3 red 2 black 4 red 2 blue 9 red 2 blue 7
+red 2 red 3 red 1 black 6 red 1 blue 9 red 1 blue 9
+red 1 red 3 red 1 black 6 red 1 blue 8 red 2 blue 9
+red 2 red 3 red 1 black 6 red 1 blue 8 red 1 blue 11
+red 1 red 3 red 1 black 6 red 1 blue 7 red 2 blue 11
+red 2 red 4 black 6 red 1 blue 7 red 1 blue 13
+red 1 green 5 red 3 black 6 red 2 blue 5 red 2 blue 13
+red 1 green 1 green 1 green 1 red 3 black 6 red 1 blue 4 red 2 blue 14
+red 1 green 1 green 1 red 4 black 5 red 1 blue 4 red 1 blue 15
+red 1 red 1 black 1 red 3 black 4 red 1 blue 3 red 2 blue 15
+red 24 green 2 black 3 red 1 blue 2 red 2 blue 16
+red 24 green 2 black 3 red 1 blue 2 red 1 blue 17
+red 1 red 4 black 8 red 1 blue 1 red 2 blue 17
+red 1 red 3 red 1 black 8 red 3 blue 18
+red 1 red 2 red 1 black 8 red 2 blue 19
+red 1 red 2 red 2 black 6 red 2 blue 20
+red 2 red 2 red 1 black 4 red 3 blue 1 green 5 blue 15
+red 1 red 2 red 1 black 3 red 2 black 1 red 1 blue 3 green 3 blue 14
+red 2 red 2 red 1 black 2 red 2 black 2 red 1 blue 1 green 5 blue 14
+red 1 red 2 red 1 black 1 red 2 black 3 red 1 blue 19
+red 2 red 2 red 3 black 4 red 1 blue 19
+red 1 red 2 red 2 black 4 red 2 blue 18
+red 2 red 2 red 3 black 4 red 1 blue 19
+red 4 red 3 red 1 black 4 red 1 blue 18
+red 3 red 3 red 1 black 4 red 1 blue 18
+red 2 red 5 red 1 black 4 red 1 blue 17
+red 10 red 1 black 4 red 1 blue 17
+red 2 red 2 black 2 red 2 blue 16
+red 2 red 1 black 2 red 1 blue 16
+red 2 red 1 black 2 red 1 blue 15
+red 3 red 1 black 2 red 1 blue 14
+red 3 red 1 black 2 red 1 blue 12
+red 3 red 1 black 2 red 1 blue 10
+red 3 red 4 blue 8
+red 3 red 2 blue 7
+red 6 blue 6
+green 3 green 1
+green 1 green 1 green 1
+green 1 green 3

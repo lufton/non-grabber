@@ -1,0 +1,48 @@
+by "sbroome"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/24/18"
+height 15
+id 188901
+link "https://www.griddlers.net/nonogram/-/g/188901"
+medium_time "0:00:45"
+points 86
+popularity 51.23
+title "House"
+width 10
+
+color a ffffff
+color c ff0000
+color d 00ff00
+color e 0000ff
+color g ff00ff
+color h 808080
+
+rows
+e 10
+e 3 c 3 e 4
+e 3 c 3 e 4
+e 3 c 3 e 4
+e 10
+e 10
+e 10
+e 10
+h 5 d 5
+h 1 h 1 d 5
+h 1 h 1 d 5
+h 1 h 1 d 2 h 1 d 2
+h 1 g 2 h 1 h 1
+h 1 g 2 h 1 h 1
+h 1 g 2 h 1 h 1
+
+columns
+e 8 h 7
+e 8 h 1 g 3
+e 8 h 1 g 3
+e 1 c 3 e 4 h 1
+e 1 c 3 e 4 h 7
+e 1 c 3 e 4 d 4
+e 8 d 4
+e 8 d 3 h 4
+e 8 d 4
+e 8 d 4

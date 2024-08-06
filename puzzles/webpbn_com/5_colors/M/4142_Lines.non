@@ -1,0 +1,63 @@
+by "Teppo Karp (Tepi.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Teppo Karp"
+date "Nov 24, 2008"
+description "I did show to my son how to make new puzzle."
+difficulty 1.25
+height 20
+id 4142
+link "https://webpbn.com/play.cgi?id=4142"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Lines"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 1
+blue 16 black 1
+blue 1 black 1
+green 11 blue 1 black 1
+green 1 blue 1 black 1
+red 6 green 1 blue 1 black 1
+red 1 green 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1
+black 1 red 1 green 1 blue 1
+black 1 red 1 green 1 blue 5
+black 1 red 1 green 1
+black 1 red 1 green 10
+black 1 red 1
+black 1 red 15
+black 1
+black 20
+
+columns
+black 1 blue 1 green 1 red 1 black 12
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 12 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 12 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 12 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1
+black 12 blue 1 green 1 red 1 black 1

@@ -1,0 +1,62 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Sep 14, 2010"
+description "F is for Flower"
+difficulty 1.5
+height 20
+id 10336
+link "https://webpbn.com/play.cgi?id=10336"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Lesson #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+0
+red 1 red 1 red 1
+red 5
+red 5
+black 7 red 5
+black 7 black 3 red 3
+black 2 black 5 green 1
+black 2 black 2 black 2 green 1
+black 2 black 2 green 1
+black 5 black 2 green 1
+black 5 black 4 green 1
+black 2 black 4 green 2 green 1
+black 2 black 2 green 4 green 1 green 1
+black 2 black 2 green 1 green 5
+black 2 black 2 green 3
+black 2 black 2 green 1
+0
+
+columns
+0
+black 12
+black 12
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2
+black 2
+black 2
+black 10
+black 11
+black 2 black 2
+black 3 green 2
+black 2 green 2
+green 2
+red 4 green 2
+red 4 green 2
+red 5 green 10
+red 4 green 2
+red 4 green 2

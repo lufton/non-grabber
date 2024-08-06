@@ -1,0 +1,67 @@
+by "Mark (mark.jeronimus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Mark"
+date "Oct  5, 2010"
+description "QR code. Scan it with your mobile phone if you have that option. For more info, see http://wikipedia.org/QR_Code"
+difficulty 2.25
+height 25
+id 10578
+link "https://webpbn.com/play.cgi?id=10578"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "QR"
+width 25
+
+rows
+0
+0
+7,1,1,7
+1,1,4,1,1
+1,3,1,2,1,3,1
+1,3,1,1,1,3,1
+1,3,1,2,1,3,1
+1,1,2,1,1,1
+7,1,1,1,7
+1
+2,2,1,3,1,1
+1,3,3,3,3
+1,1,4,3,4
+2,1,1,5,1,1,1
+3,1,2,2,1
+1,1,4
+7,4,2,1
+1,1,3,4
+1,3,1,1,2,1,1
+1,3,1,4,3
+1,3,1,2,2,6
+1,1,2,1,1,1,3
+7,3,1,2,1
+0
+0
+
+columns
+0
+0
+7,4,7
+1,1,1,2,1,1
+1,3,1,1,1,1,3,1
+1,3,1,5,1,3,1
+1,3,1,2,1,3,1
+1,1,2,1,1
+7,1,1,1,7
+2
+1,2,5,2,2
+1,1,2,2,1,4
+2,3,2,1,1,2,1
+3,1,1,2,1,2
+1,1,2,1,1,1,3
+4,1,1
+7,2,2,1,2
+1,1,1,1,2,1,1
+1,3,1,2,1,2
+1,3,1,2,1,1,2,1
+1,3,1,3,3,3
+1,1,2,2,1,3
+7,1,1,2,2
+0
+0

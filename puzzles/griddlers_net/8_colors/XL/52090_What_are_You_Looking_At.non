@@ -1,0 +1,106 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/23/07"
+height 48
+id 52090
+link "https://www.griddlers.net/nonogram/-/g/52090"
+medium_time "0:22:13"
+points 73336
+popularity 75.83
+title "What are You Looking At?"
+width 33
+
+color a 99ff99
+color b cccccc
+color c ffffff
+color d cccfec
+color e 9e969e
+color f e4e7f1
+color g ffd6d6
+color h ffa542
+
+rows
+b 3
+b 2 c 3 b 1
+b 2 c 6 b 1
+b 1 c 9 b 1
+b 1 c 6 d 2 c 3 b 1
+b 1 c 6 e 3 d 1 c 3 b 1
+b 1 c 4 d 1 e 6 c 4 b 1
+b 1 c 4 d 1 e 8 d 1 c 3 b 1
+b 1 c 5 e 10 d 1 c 3 b 1
+b 1 c 5 e 3 d 1 e 1 f 2 e 1 d 1 e 3 d 1 c 3 b 1
+b 1 c 6 e 2 d 1 e 1 f 4 e 1 d 1 e 3 d 1 c 3 b 1
+b 1 c 6 e 2 d 1 e 1 f 6 e 1 d 1 e 3 d 1 c 3 b 1
+b 1 c 6 e 2 d 1 e 1 f 8 e 1 d 1 e 3 d 1 c 3 b 1
+b 1 c 4 e 3 d 1 e 1 f 10 e 1 d 1 e 3 d 1 c 3 b 1
+b 1 c 4 d 1 e 2 d 1 e 1 f 4 e 2 f 1 e 2 f 3 e 1 d 1 e 2 d 2 c 3 b 1
+b 1 c 3 d 4 e 1 f 4 e 1 c 2 e 1 c 2 e 1 f 3 e 1 d 5 c 3 b 1
+b 1 c 2 d 4 e 1 f 5 e 1 c 5 e 1 f 4 e 1 d 5 c 2 b 1
+e 1 d 5 e 1 f 7 e 1 c 3 e 1 f 6 e 1 d 5 c 1
+e 6 f 9 e 1 c 1 e 1 f 8 e 6
+e 1 f 12 e 1 f 12 e 1
+e 1 f 25 e 1
+e 1 f 25 e 1
+e 1 f 25 e 1
+e 1 f 25 e 1
+e 1 f 9 e 5 f 9 e 1
+e 1 f 8 e 1 c 3 g 2 e 1 f 8 e 1
+e 1 f 7 e 1 c 3 g 4 e 1 f 7 e 1
+e 1 f 6 e 1 c 4 g 2 e 1 g 2 e 1 f 6 e 1
+e 1 f 5 e 1 c 3 h 2 g 4 e 1 f 5 e 1
+e 1 f 5 e 1 c 6 g 3 e 1 f 5 e 1
+e 1 f 5 e 1 c 5 g 4 e 1 f 5 e 1
+e 1 b 1 f 4 e 1 c 3 g 4 e 1 f 5 e 1
+e 1 c 1 b 1 f 4 e 1 c 2 g 3 e 1 f 5 b 1 e 1
+e 1 c 2 b 3 f 2 e 5 f 5 b 1 c 1 e 1
+e 1 c 5 b 3 f 8 b 1 c 2 e 1
+e 19
+e 4 d 2 e 5
+e 3 d 2 e 4
+e 2 d 2 e 3
+e 1 d 2 e 2
+e 1 d 2 e 2
+e 1 d 2 e 2
+e 1 d 2 e 2
+e 1 d 2 e 2
+e 1 d 2 e 2
+e 1 d 2 e 2
+e 1 d 2 e 2
+e 1 d 2 e 2
+
+columns
+b 3 e 2
+b 2 c 3 d 1 e 1
+b 1 c 5 d 1 e 1
+b 1 c 5 d 2 e 6
+b 1 c 5 d 3 e 1 f 5 e 4
+b 1 c 5 d 4 e 1 f 9 e 3
+b 1 c 5 e 2 d 2 e 1 f 13 e 4
+b 1 c 6 e 2 d 1 e 1 f 14 b 1 c 3 e 1
+b 1 c 6 e 2 d 1 e 1 f 16 b 1 c 2 e 1
+b 1 c 6 e 2 d 1 e 1 f 18 b 1 c 1 e 1
+b 1 c 5 e 3 d 1 e 1 f 19 b 1 c 1 e 1
+b 1 c 4 d 1 e 3 d 1 e 1 f 14 e 4 f 2 b 1 c 1 e 2
+b 1 c 3 d 1 e 3 d 1 e 1 f 14 e 1 c 4 e 1 f 2 b 1 e 3
+b 1 c 4 e 3 d 1 e 1 f 4 e 2 f 8 e 1 c 6 e 1 f 1 b 1 e 4
+b 1 c 4 e 4 f 4 e 1 c 2 e 1 f 6 e 1 c 8 e 1 b 1 e 13
+b 1 c 4 e 4 f 5 e 1 c 3 e 1 f 5 e 1 c 3 h 1 c 4 e 1 f 1 e 1 d 12
+b 1 c 3 d 1 e 4 f 6 e 1 c 3 e 1 f 4 e 1 c 1 g 2 h 1 c 2 g 2 e 1 f 1 e 1 d 12
+b 1 c 3 d 1 e 5 f 4 e 1 c 3 e 1 f 5 e 1 g 4 c 1 g 3 e 1 f 1 e 13
+b 1 c 3 d 1 e 3 d 1 e 1 f 3 e 1 c 2 e 1 f 6 e 1 g 2 e 1 g 5 e 1 f 1 e 13
+b 1 c 4 e 3 d 1 e 1 f 3 e 2 f 8 e 1 g 6 e 1 f 2 e 4
+b 1 c 3 d 1 e 3 d 1 e 1 f 13 e 1 g 4 e 1 f 3 e 3
+b 1 c 3 d 1 e 3 d 1 e 1 f 13 e 4 f 4 e 2
+b 1 c 3 d 1 e 3 d 1 e 1 f 20 e 1
+b 1 c 3 d 1 e 3 d 1 e 1 f 18 b 1 e 1
+b 1 c 3 d 1 e 3 d 1 e 1 f 16 b 1 c 1 e 1
+b 1 c 3 d 1 e 2 d 2 e 1 f 14 b 1 c 2 e 1
+b 1 c 3 d 5 e 1 f 12 e 4
+b 1 c 3 d 4 e 1 f 9 e 3
+b 1 c 3 d 3 e 1 f 5 e 4
+b 1 c 3 d 2 e 6
+b 1 c 3 d 1 e 1
+b 1 c 3 e 1
+b 2

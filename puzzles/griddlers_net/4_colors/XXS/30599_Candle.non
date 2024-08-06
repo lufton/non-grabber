@@ -1,0 +1,31 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/6/06"
+height 5
+id 30599
+link "https://www.griddlers.net/nonogram/-/g/30599"
+medium_time "0:00:17"
+points 0
+popularity 48.88
+title "Candle"
+width 5
+
+color a ffffff
+color b ff0000
+color c fffe00
+color h 00d700
+
+rows
+c 1
+0
+b 1
+b 1 h 1
+h 3
+
+columns
+0
+h 1
+c 1 b 2 h 1
+h 1
+h 1

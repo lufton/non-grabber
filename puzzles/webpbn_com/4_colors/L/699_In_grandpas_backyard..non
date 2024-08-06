@@ -1,0 +1,82 @@
+by "Gitte Olesen (granny40)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Gitte Olesen"
+date "Jan  5, 2007"
+description "Sweet memories of tasty cherrys and stomachache ;-)"
+difficulty 3.0
+height 30
+id 699
+link "https://webpbn.com/play.cgi?id=699"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.25
+title "In grandpa`s backyard."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 9 black 3
+black 11
+black 2 black 5
+black 2 black 4
+green 5 black 2 green 4 black 3
+green 9 black 2 green 8
+green 2 black 1 green 2 black 3 green 1 black 2 green 3 black 1 green 1 black 1 green 3
+green 4 black 2 green 4 black 4 green 2 black 1 green 4
+green 2 black 1 green 1 black 1 green 4 black 2 black 2 green 1 black 1 green 1 black 1 green 1 black 1 green 2
+green 4 black 1 green 1 black 1 green 2 black 2 black 2 green 3 black 1 green 4
+green 1 black 1 green 1 black 1 green 5 black 2 black 2 green 1 black 1 green 1 black 2 green 1 black 1 green 1
+green 3 black 1 green 1 black 1 green 2 black 2 black 3 green 4 black 1 green 2
+green 2 black 1 green 1 black 1 green 1 black 2 black 2 green 2 black 1 green 1 black 1 green 2
+green 1 black 1 green 3 black 2 red 7 green 5
+green 2 red 1 black 2 red 6 red 2 green 3
+green 1 red 3 black 2 red 2 red 9 red 2 green 1
+red 9 red 10 red 2
+red 23 red 3
+red 10 red 12 red 3
+red 10 red 13 red 2
+red 10 red 13 red 3
+red 10 red 13 red 4
+red 3 red 6 red 12 red 5
+red 3 red 5 red 12 red 4
+red 4 red 6 red 11 red 5
+red 10 red 16
+red 11 red 15
+red 9 red 13
+red 4 red 11
+red 7
+
+columns
+green 5 red 6
+green 4 black 1 green 1 red 10
+green 2 black 1 green 1 black 1 green 1 red 11
+green 4 black 1 green 2 red 6 red 4
+green 2 black 1 green 1 black 1 green 1 black 1 green 1 red 8 red 3
+green 4 black 1 green 1 black 1 green 1 red 14
+green 1 black 1 green 1 black 1 green 3 red 15
+green 3 black 1 green 1 black 1 green 2 black 3 red 13
+green 3 black 1 green 3 black 4 red 13
+green 2 black 1 green 4 black 2 red 13
+green 2 black 1 green 2 black 2 red 4 red 4
+black 1 green 2 black 1 green 1 black 2 red 2 red 5 red 1
+black 1 green 3 black 2 red 9
+black 1 green 1 black 2 red 11
+black 1 black 3 red 13
+black 1 black 6 red 14
+black 5 green 2 black 2 red 15
+black 2 green 2 black 2 red 17
+black 2 green 5 black 3 red 17
+black 2 green 2 black 1 green 1 black 1 green 1 black 3 red 17
+black 1 green 3 black 1 green 3 black 2 red 17
+black 1 green 2 black 1 green 1 black 1 green 1 black 1 green 1 red 17
+black 2 green 4 black 1 green 3 red 1 red 15
+black 2 green 3 black 1 green 1 black 1 green 2 red 1 red 5 red 5
+black 2 green 4 black 1 green 1 black 1 green 1 red 1 red 5
+black 3 green 3 black 1 green 2 red 2 red 7
+black 4 green 1 black 1 green 1 black 1 green 2 red 4 red 7
+black 1 black 2 green 5 red 11
+black 2 green 4 red 8
+black 2 red 3

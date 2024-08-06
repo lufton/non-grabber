@@ -1,0 +1,33 @@
+by "Alexes Merritt (alexes.merritt)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Alexes Merritt"
+date "Oct 21, 2017"
+description "Ying Yang sign"
+difficulty 1.25
+height 8
+id 30236
+link "https://webpbn.com/play.cgi?id=30236"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Ying Yang"
+width 8
+
+rows
+3
+1,1
+2,1
+4,1,1
+2,2,1
+6
+5
+2
+
+columns
+2
+5
+3,2
+1,5
+1,4
+1,1,2
+1,1
+3

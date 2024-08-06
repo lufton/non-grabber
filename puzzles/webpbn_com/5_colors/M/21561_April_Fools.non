@@ -1,0 +1,63 @@
+by "Sarah Belsan (haras89)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Sarah Belsan"
+date "Apr  1, 2013"
+description "Did anyone else get this prank played on them?? My mom put a rubber band around the spray nozzle so that when I turned on the kitchen faucet, it sprayed me. At the time, I was just the right height that it sprayed me right in the face. I remember I was so upset! I was convinced one of my big brothers did it to me and it sure shocked me to learn it was actually my mom!"
+difficulty 1.5
+height 20
+id 21561
+link "https://webpbn.com/play.cgi?id=21561"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "April Fools!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+blue 1 black 8
+blue 4 black 9
+blue 2 black 10
+blue 4 black 9 black 1
+blue 2 black 4 black 1
+blue 1 black 3 black 1
+black 4
+red 6
+green 10 black 3 green 7
+green 10 black 3 green 7
+green 10 black 3 green 7
+green 8 black 7 green 5
+green 7 black 1 green 2 black 3 green 2 black 1 green 4
+green 7 black 9 green 4
+green 20
+green 20
+green 20
+green 20
+
+columns
+blue 6 green 10
+blue 4 green 10
+blue 1 blue 1 green 10
+blue 1 blue 1 green 10
+black 4 green 10
+black 4 green 10
+black 4 green 10
+black 4 green 4 black 2 green 4
+black 4 green 3 black 1 green 1 black 1 green 4
+black 5 red 1 green 3 black 1 green 1 black 1 green 4
+black 7 red 1 black 6 green 4
+black 7 red 1 black 6 green 4
+black 6 red 1 black 6 green 4
+black 1 black 1 red 1 green 3 black 1 green 1 black 1 green 4
+black 3 red 1 green 3 black 1 green 1 black 1 green 4
+green 4 black 2 green 4
+green 10
+green 10
+green 10
+green 10

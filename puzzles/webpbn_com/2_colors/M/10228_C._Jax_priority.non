@@ -1,0 +1,57 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by gregg licht"
+date "Sep  9, 2010"
+description "The first priority after opening a box of Cracker Jacks: find the prize!"
+difficulty 2.75
+height 20
+id 10228
+link "https://webpbn.com/play.cgi?id=10228"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "C. Jax priority"
+width 20
+
+rows
+1,8
+1,2,2,2
+1,4,2,1
+2,1,3,2
+1,2,1,3,2
+2,8,2
+3,1,2,2,1,1
+2,7,3
+2,13
+3,1,7
+4,1,7
+2,1,1,1,2,2
+2,2,1,7
+2,2,1,2,2,1
+1,6,1,1,5
+1,1,2,4
+2,1,3
+1,1,2,1,1,2
+2,1,1,1,1,3
+2,3,2
+
+columns
+1,1,2,1
+2,2,2,2
+1,1,2,3
+3,1,6,3
+2,1,2,2
+1,1,1,3,1,1
+1,1,3,1,2
+3,1,2
+12,3
+2,1,2,1,1
+2,2,3,1,3,1
+4,1,4,1,1
+1,1,8,2
+2,10,1,1,1
+2,2,4,2,2
+1,2,3,3
+3,2,2,1,2
+2,2,1,3,3
+1,2,1,2,4
+2,2,6

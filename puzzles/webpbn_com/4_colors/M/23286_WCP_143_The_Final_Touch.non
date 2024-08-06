@@ -1,0 +1,72 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kim"
+date "Dec  3, 2013"
+description "With his one eye in place, Frosty sees the child's mittened hand approaching ready to place the last piece of coal for his second eye."
+difficulty 1.5
+height 25
+id 23286
+link "https://webpbn.com/play.cgi?id=23286"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WCP #143 The Final Touch"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 10
+red 12
+red 14
+red 16
+red 16
+red 1 green 14 red 1
+red 1 green 14 red 1
+red 2 green 13 red 1
+black 2 red 13
+red 2 black 4 red 12
+red 4 black 4 red 12
+red 5 black 2 red 1 green 11 red 1
+red 6 red 1 green 11 red 1
+red 7 green 10 red 1
+red 17
+red 16
+red 14
+red 13
+red 11
+red 13
+red 2 red 2
+red 1 red 1
+red 2 red 2
+red 13
+0
+
+columns
+0
+red 3
+red 5
+red 6
+red 6
+red 5 black 2 red 6 red 3
+red 3 green 2 red 1 black 4 red 6 red 2 red 2
+red 4 green 3 black 4 red 7 red 1
+red 5 green 3 red 1 black 2 red 9 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 5 green 3 red 3 green 3 red 6 red 1
+red 4 green 3 red 3 green 3 red 4 red 2 red 2
+red 3 green 3 red 3 green 2 red 3 red 3
+red 10
+0
+0
+0
+0

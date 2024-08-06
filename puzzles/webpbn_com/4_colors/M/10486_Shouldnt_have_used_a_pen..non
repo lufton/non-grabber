@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Sep 26, 2010"
+description "This pink eraser will do me no good on this sudoku puzzle"
+difficulty 1.75
+height 20
+id 10486
+link "https://webpbn.com/play.cgi?id=10486"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Shouldn't have used a pen."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 blue 1 black 1 blue 1 black 1 black 1
+black 10 blue 1
+black 2 blue 1 black 2 black 1 black 1 black 1
+black 1 black 1 black 2 blue 1 black 1 black 3
+black 1 blue 1 black 1 blue 1 black 2 black 1 black 1
+black 10 black 1 black 1
+black 1 blue 1 black 3 black 1 black 1 black 1
+blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1
+black 1 blue 1 black 1 red 1 black 1 black 1 black 1 black 1
+black 5 red 2 black 3 black 1 black 1
+red 3 black 1 black 1
+red 3 black 1 black 1
+red 3 black 1 black 1
+red 3 black 1 black 1
+red 3 black 1 black 1
+red 2 black 1 black 1
+red 1 blue 3
+blue 3
+blue 3
+blue 1
+
+columns
+black 2 black 1 blue 1 black 1
+black 10
+black 1 blue 1 blue 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 1 black 1
+blue 1 black 2 black 2 blue 1 black 1 red 7
+black 9 red 7
+blue 1 black 1 black 1 blue 1 black 2 red 7
+black 3 blue 1 black 1 black 2
+black 1 black 2 blue 1 black 1
+black 10
+0
+0
+0
+0
+0
+0
+black 13 blue 3
+blue 1 black 2 blue 4
+black 13 blue 3
+0

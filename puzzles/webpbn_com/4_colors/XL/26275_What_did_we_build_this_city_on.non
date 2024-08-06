@@ -1,0 +1,102 @@
+by "Caralamine Francis ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Caralamine Francis"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.25
+height 40
+id 26275
+link "https://webpbn.com/play.cgi?id=26275"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "What did we build this city on?!"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 1 black 1 black 1
+black 2 black 1 black 1 black 1
+black 10
+black 12
+black 14
+black 1 black 12 black 1
+black 14
+black 1 black 12 black 1
+black 14
+black 1 black 12 black 1 blue 1
+black 14 blue 1
+black 12 blue 1
+black 10
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 blue 7
+blue 1
+blue 2
+blue 2
+blue 2
+blue 2
+blue 1
+blue 2
+blue 2
+red 6 blue 7
+red 2 red 2 red 1
+red 4 red 4
+red 3 red 3 blue 1
+red 4 red 4 blue 1
+red 1 red 1 red 2 blue 1
+red 1 red 1
+red 1 red 1
+red 2 red 1
+red 2 red 2
+red 1 red 1 red 2
+red 2 red 4
+red 2 red 3
+red 2 red 4
+red 6
+
+columns
+0
+0
+black 1 black 1 black 1 red 1 red 5
+black 1 black 1 black 1 black 1 red 3 red 2
+black 9 red 3 red 3
+black 11 red 4 red 2
+black 13 red 1 red 2
+black 12 black 1 red 2 red 2
+black 1 black 12 red 1 red 1
+black 12 black 1 red 1 red 1
+black 1 black 12 red 1 red 1
+black 12 black 1 red 1 red 1
+black 1 black 12 red 2 red 1
+black 13 red 2 red 1 red 4
+black 11 red 3 red 3
+black 9 red 3 red 3
+black 1 black 1 black 1 black 1 red 4 red 2 red 1
+black 1 black 1 black 1 red 1 red 2
+red 5
+0
+0
+0
+0
+0
+0
+0
+blue 3 blue 2
+blue 1 blue 2 blue 3
+blue 1 blue 1 blue 2 blue 1
+blue 3 blue 1 blue 2 blue 1 blue 3
+blue 1 blue 2 blue 1
+blue 1 blue 1
+blue 1 blue 1
+0
+0
+0
+0
+0
+0
+0

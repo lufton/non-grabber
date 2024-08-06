@@ -1,0 +1,75 @@
+by "knocka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/27/08"
+height 23
+id 62268
+link "https://www.griddlers.net/nonogram/-/g/62268"
+medium_time "0:28:44"
+points 28020
+popularity 75.0
+title "Cauliflower"
+width 30
+
+color a ffffff
+color b 336600
+color c cccccc
+color d 33cc00
+color e 66ff00
+
+rows
+e 3
+e 1 d 1 e 1 d 2
+e 2 d 1 d 2 e 1 d 4
+e 1 b 1 d 1 e 3 d 2 d 1 e 5 d 1 b 1 e 2
+e 1 b 1 d 3 e 2 d 3 b 1 e 1 d 1 e 2 d 2 b 1 e 5
+e 3 b 1 d 3 e 2 d 2 b 1 e 1 d 4 b 2 d 2 b 1 e 2
+e 4 b 1 d 3 e 1 d 2 b 4 d 1 b 1 d 2 b 2 e 2
+e 3 b 1 d 1 b 1 d 2 c 1 b 3 d 1 b 1 e 2 d 1 e 2
+e 3 e 2 d 1 b 4 c 1 c 1 b 5 e 4
+e 6 b 1 d 2 b 1 c 1 c 1 c 3 d 2 b 1 e 1 d 3 e 1
+e 1 b 1 d 1 e 3 b 1 d 1 b 1 c 2 c 2 d 1 b 6 e 1
+e 1 b 1 d 2 e 2 b 2 c 2 c 1 c 2 b 2 d 1 b 3
+e 1 b 1 d 2 e 1 b 1 c 3 e 2 c 4 c 1 e 1 d 4
+e 1 b 4 e 2 c 1 d 2 e 3 c 3 e 2 d 2 e 2
+e 2 b 2 e 4 b 1 d 2 e 1 c 2 c 2 d 1 c 2 e 2 d 1 d 2 e 1
+e 4 d 2 e 1 b 2 d 3 c 2 d 5 c 3 e 2 d 3 e 1
+e 2 d 4 e 1 b 1 d 3 e 1 c 1 d 5 c 2 b 2 e 1 d 4 e 1
+e 1 d 4 e 2 d 2 e 1 d 4 e 1 b 1 d 1 e 1 c 1 b 1 e 2 b 3 e 2
+d 2 b 1 d 1 e 1 b 2 d 1 b 1 e 2 d 3 e 1 b 1 d 1 e 1 b 2 e 1 b 2 e 3
+b 3 d 2 e 1 b 1 d 1 b 2 e 1 d 2 e 2 b 1 d 1 e 4 b 1 e 2
+b 3 d 1 e 1 b 5 d 2 e 2 b 1 e 3 b 3 e 1
+d 3 e 1 b 3 e 5 b 6 e 2
+b 2 e 2 b 2 e 3
+
+columns
+e 6
+e 2 b 4 e 2
+e 2 d 3 b 2 e 2
+e 3 d 2 b 2 e 3 d 1 b 1
+e 2 e 4 b 1 e 2 d 3 b 2
+e 9 b 1 e 2 d 3 b 3 d 1
+e 1 b 2 e 4 b 3 c 1 e 2 d 5 b 1 d 1
+e 1 d 2 b 1 e 2 d 3 b 1 c 2 e 2 d 2 e 1 d 3
+e 1 d 2 b 3 d 1 b 1 c 2 d 1 b 2 e 2 b 1 e 3
+e 1 d 4 b 2 c 2 e 1 d 2 b 2 e 1 b 4
+e 2 d 2 b 2 c 2 e 2 d 6 b 2
+e 2 d 2 b 1 e 2 d 3 b 4
+d 3 e 2 d 1 c 1 e 1 c 1 d 2 e 2 b 2 e 1 b 1
+d 4 c 1 c 2 c 2 e 1 d 1 e 2 b 1 e 1 b 1
+d 3 c 1 c 1 c 2 d 4 e 2
+e 2 d 2 b 3 c 1 c 1 c 2 d 6 e 2
+e 1 d 2 e 3 b 1 c 1 c 1 c 1 d 4 e 3 b 1
+e 4 d 2 b 1 c 1 c 2 d 2 e 4 b 2
+d 1 e 2 d 1 b 2 c 1 c 1 c 1 d 3 b 5
+d 2 e 2 d 2 b 1 c 1 c 3 d 5 e 1 b 1
+d 2 e 1 d 2 b 2 c 3 e 4 b 1
+d 3 b 1 d 2 b 1 c 3 b 1 e 2 b 1 e 1
+b 3 d 1 b 2 d 2 b 1 c 1 b 3 e 1 b 2 e 1
+e 1 d 1 b 1 e 1 b 1 d 1 b 2 e 4 b 1 e 3 b 1 e 2
+e 1 d 1 b 1 e 1 b 3 d 2 e 5 b 3 e 1
+e 1 b 1 e 1 d 1 b 1 e 1 b 2 d 3 d 1 b 2 e 2
+e 4 e 1 d 1 b 2 d 2 d 2 b 1 e 2
+e 3 e 1 d 1 b 2 d 1 d 3 b 1 e 1
+e 2 d 1 b 1 e 1 d 3 e 2
+e 4 e 5

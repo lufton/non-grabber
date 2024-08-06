@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 23, 2011"
+description "Native American Headdress"
+difficulty 1.5
+height 20
+id 11871
+link "https://webpbn.com/play.cgi?id=11871"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Who's Hat is This? #7"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 4 red 2 black 4
+black 1 red 2 black 1 red 2 black 1 red 2 black 1
+black 4 red 2 black 4 red 2 black 4
+black 1 red 2 black 4 black 4 red 2 black 1
+black 1 red 2 black 1 black 1 black 1 black 1 red 2 black 1
+black 4 black 1 black 1 black 4
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 2 black 2 black 1
+black 1 black 8 black 2
+black 2 black 1 blue 1 green 1 blue 1 green 1 black 1 black 2
+black 3 green 1 blue 1 green 1 blue 1 black 3
+black 1 black 6 black 1
+black 1 black 3 black 3 black 1
+black 3 black 3
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+0
+0
+black 8
+black 1 red 2 black 1 black 10
+black 1 red 2 black 1 black 2 black 1
+black 9 black 1 black 2
+black 1 red 2 black 1 black 4 black 1
+black 1 red 2 black 1 black 1 black 2
+black 12 blue 1 green 1 black 1
+black 1 red 2 black 1 black 1 green 1 blue 1 black 1
+black 1 red 2 black 1 black 2 blue 1 green 1 black 1
+black 12 green 1 blue 1 black 1
+black 1 red 2 black 1 black 1 black 2
+black 1 red 2 black 1 black 3 black 1
+black 10 black 1 black 2
+black 1 red 2 black 1 black 2 black 1
+black 1 red 2 black 1 black 9
+black 9
+0
+0

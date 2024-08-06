@@ -1,0 +1,56 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Kristen Vognild"
+date "Jan 20, 2022"
+description "Well, that's a horse of a different color!"
+difficulty 1.75
+height 15
+id 35543
+link "https://webpbn.com/play.cgi?id=35543"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Animal saying"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+blue 1 black 1
+blue 2 blue 1 black 3
+blue 2 blue 1 blue 2 black 4
+blue 1 black 4 black 2 blue 2 black 6
+blue 1 black 11 blue 1 black 2 black 2
+blue 1 black 14
+blue 1 black 14
+black 15 blue 2
+black 3 blue 3 black 8 blue 4
+black 4 blue 2 black 4 blue 2
+black 2 blue 2 black 2 blue 2
+black 2 blue 2 black 1 blue 1
+black 1 blue 2 black 1
+black 2 blue 1 black 2
+
+columns
+blue 5 black 2
+blue 2 black 5
+blue 1 black 6 black 3
+blue 1 black 6 blue 1 black 1
+black 5 blue 4
+black 5 blue 2 blue 2
+black 5 blue 1 blue 2
+black 6
+black 5
+black 5
+black 6
+black 7
+blue 1 black 6
+blue 3 black 5
+blue 2 black 8
+blue 1 black 7 blue 1 black 4
+black 5 blue 2 black 1
+black 3 blue 2 blue 2
+black 3 blue 3
+black 2 blue 1

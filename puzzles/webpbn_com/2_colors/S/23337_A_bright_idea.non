@@ -1,0 +1,47 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Dec 15, 2013"
+description "Compact Fluorescent Lightbulb"
+difficulty 1.25
+height 20
+id 23337
+link "https://webpbn.com/play.cgi?id=23337"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "A bright idea"
+width 10
+
+rows
+1,2,1
+1,2,2
+1,2,3
+3,4
+2,2,1
+1,2,1
+1,2,2
+4,3
+3,2,1
+2,2,1
+1,2,1
+1,2,2
+10
+1,1
+1,1
+1,1
+2,2
+3,3
+3,3
+3,3
+
+columns
+20
+2,3,1,4
+2,2,1,3
+2,2,2
+2,2,3
+1,2,2,1
+2,2,1
+2,2,1,3
+3,2,2,4
+20

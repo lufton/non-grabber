@@ -1,0 +1,62 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Sep 21, 2010"
+description "The Doors"
+difficulty 1.25
+height 20
+id 10428
+link "https://webpbn.com/play.cgi?id=10428"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Classic Rock: Part Deux"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 9
+blue 2 black 5 blue 2
+blue 2 black 1 black 1 blue 2
+blue 2 black 1 black 1 blue 2
+blue 2 black 5 blue 2
+blue 8 black 1
+blue 9
+blue 1 black 7 blue 1 red 9
+blue 1 black 1 blue 5 black 1 blue 1 red 9
+blue 1 black 1 blue 5 black 1 blue 1 red 9
+blue 1 black 7 blue 1 red 2 red 1 red 2
+blue 9 red 2 red 1 red 2
+blue 9 red 2 red 1 red 2
+red 2 red 1 red 2
+red 7 black 1 red 1
+red 9
+red 9
+red 9
+red 9
+red 9
+
+columns
+blue 13
+blue 7 black 4 blue 2
+blue 1 black 4 blue 2 black 1 blue 2 black 1 blue 2
+blue 1 black 1 black 1 blue 2 black 1 blue 2 black 1 blue 2
+blue 1 black 1 black 1 blue 2 black 1 blue 2 black 1 blue 2
+blue 1 black 1 black 1 blue 2 black 1 blue 2 black 1 blue 2
+blue 1 black 4 blue 2 black 1 blue 2 black 1 blue 2
+blue 7 black 4 blue 2
+blue 5 black 1 blue 7
+0
+red 13
+red 13
+red 3 red 6
+red 3 red 6
+red 13
+red 3 red 6
+red 3 red 6
+red 7 black 1 red 5
+red 13
+0

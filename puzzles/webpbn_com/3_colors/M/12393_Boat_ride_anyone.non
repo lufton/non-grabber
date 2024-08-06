@@ -1,0 +1,71 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Feb 24, 2011"
+description ""
+difficulty 2.25
+height 20
+id 12393
+link "https://webpbn.com/play.cgi?id=12393"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "Boat ride anyone?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 5
+black 3 black 2
+black 2 black 2
+black 2 black 1 black 2
+black 1 black 3
+black 2 black 2
+black 1 black 3 black 2
+black 2 black 2 black 3 black 1
+black 1 black 3 black 2 black 2 black 1
+black 2 black 2 black 1 black 1 black 2
+black 3 black 2 black 1 black 4
+black 2 black 2 blue 1 black 4
+blue 2 black 1 black 1 blue 2 blue 1 black 2 black 1
+blue 5 blue 3 black 2 black 1 blue 3 black 2 black 2 blue 1
+blue 2 blue 15 blue 3 black 2 blue 2
+blue 5 blue 23
+blue 12 blue 1 blue 8
+blue 1 blue 27
+blue 7 blue 5 blue 1 blue 3 blue 5
+
+columns
+blue 1 blue 3
+black 3 blue 3 blue 1
+black 3 black 2 blue 1 blue 2 blue 1
+black 3 black 1 blue 1 blue 4
+black 3 black 2 blue 1 blue 4
+black 3 black 2 blue 6
+black 2 black 1 black 1 blue 2 blue 3
+black 1 black 2 blue 4
+black 1 black 2 blue 4
+black 2 black 1 blue 4
+black 2 black 2 blue 4
+black 2 black 1 blue 4
+black 2 black 2 blue 3 blue 2
+black 1 black 3 blue 4 blue 2
+black 2 black 2 blue 4 blue 2
+black 2 black 3 blue 2 blue 2
+black 3 black 1 blue 2 blue 2
+black 4 blue 2 blue 1
+black 3 blue 2 blue 2
+blue 6
+blue 2 blue 1 blue 2
+blue 1 blue 4
+blue 5
+blue 1 black 1 blue 4
+blue 1 black 2 blue 4
+black 2 black 1 blue 4
+black 2 black 2 blue 4
+black 4 blue 4
+black 3 blue 5
+black 3 blue 3 blue 2

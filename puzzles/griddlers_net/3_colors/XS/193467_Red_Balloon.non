@@ -1,0 +1,38 @@
+by "eliel"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/6/18"
+height 10
+id 193467
+link "https://www.griddlers.net/nonogram/-/g/193467"
+medium_time "0:01:24"
+points 178
+popularity 67.38
+title "Red Balloon"
+width 8
+
+color a ffffff
+color c FF0000
+color d 990000
+
+rows
+d 4
+d 1 c 2 c 1 d 1
+d 1 c 4 c 1 d 1
+d 1 c 5 d 1
+d 1 c 6 d 1
+d 1 c 6 d 1
+d 1 c 6 d 1
+d 1 c 4 d 1
+d 1 c 2 d 1
+d 2
+
+columns
+d 5
+d 1 c 5 d 1
+d 1 c 7 d 1
+d 1 c 8 d 1
+d 1 c 7 d 1
+d 1 c 1 c 5 d 1
+d 1 c 1 c 3 d 1
+d 5

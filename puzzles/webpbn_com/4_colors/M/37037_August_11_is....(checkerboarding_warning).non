@@ -1,0 +1,58 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "Aug 10, 2023"
+description "National Raspberry Bombe Day!"
+difficulty 1.75
+height 16
+id 37037
+link "https://webpbn.com/play.cgi?id=37037"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "August 11 is....(checkerboarding warning)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 1 black 1
+red 5 black 2
+red 1 red 1 red 1 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 2 red 1 red 1 red 1 red 1 red 1 red 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 2 red 1 red 1 red 1 red 1 red 1 red 1 red 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+green 5 red 9 green 5
+green 13
+green 11
+
+columns
+green 1
+red 3 green 1
+red 3 red 1 red 1 green 1
+red 1 red 1 red 1 red 1 green 2
+red 1 red 1 red 1 red 1 red 1 green 3
+red 1 red 1 red 1 red 1 red 1 red 1 green 2
+red 1 red 1 red 1 red 1 red 1 red 2 green 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 green 2
+red 2 red 1 red 1 red 1 red 1 red 2 green 2
+red 2 red 1 red 1 red 1 red 1 red 1 red 1 green 2
+red 2 red 1 red 1 red 1 red 1 red 2 green 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 green 2
+red 1 red 1 red 1 red 1 red 1 red 2 green 2
+red 1 red 1 red 1 red 1 red 1 red 1 green 2
+red 1 black 1 red 1 red 1 red 1 red 1 green 3
+black 2 red 1 red 1 red 1 green 2
+black 2 red 3 red 1 red 1 green 1
+black 2 red 3 green 1
+black 2 green 1
+black 2

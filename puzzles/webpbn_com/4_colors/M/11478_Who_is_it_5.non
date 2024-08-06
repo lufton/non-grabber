@@ -1,0 +1,56 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Dec 17, 2010"
+description "Kojak, Tele Silvalas"
+difficulty 2.25
+height 14
+id 11478
+link "https://webpbn.com/play.cgi?id=11478"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Who is it #5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 6
+black 3 black 3
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 green 1 black 2
+black 2 green 3 black 2
+black 1 red 3 green 3 black 1
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 1 black 1 black 1
+
+columns
+0
+0
+0
+black 5
+black 1 black 2
+black 2 black 4
+black 2 black 3
+black 1
+black 2
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 1 green 2
+black 2 green 3 black 3
+black 1 green 2
+black 2 black 3
+black 2 black 4
+black 1 black 2
+black 5
+0

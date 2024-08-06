@@ -1,0 +1,53 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/27/05"
+height 14
+id 29201
+link "https://www.griddlers.net/nonogram/-/g/29201"
+medium_time "0:02:54"
+points 728
+popularity 54.17
+title "Cup of Coffee"
+width 18
+
+color a 99ffcc
+color b 9999ff
+color c ffffff
+color d 996600
+
+rows
+b 10
+b 2 d 8 b 2
+b 1 d 10 b 1
+b 2 d 8 b 4
+b 12 b 1
+b 12 b 1
+b 16
+b 2 c 1 b 12 c 1 b 2
+b 1 c 3 b 10 c 3 b 1
+b 1 c 4 b 7 c 5 b 1
+b 2 c 13 b 3
+b 2 c 11 b 2
+b 2 c 9 b 2
+b 11
+
+columns
+b 4
+b 2 c 2 b 2
+b 1 c 4 b 2
+b 7 c 4 b 2
+b 2 d 1 b 6 c 4 b 1
+b 1 d 3 b 6 c 3 b 1
+b 1 d 3 b 6 c 3 b 1
+b 1 d 3 b 6 c 3 b 1
+b 1 d 3 b 6 c 3 b 1
+b 1 d 3 b 6 c 3 b 1
+b 1 d 3 b 6 c 3 b 1
+b 1 d 3 b 6 c 3 b 1
+b 1 d 3 b 5 c 4 b 1
+b 2 d 1 b 6 c 3 b 2
+b 7 c 3 b 2
+b 1 b 1 c 3 b 2
+b 5 c 2 b 1
+b 4

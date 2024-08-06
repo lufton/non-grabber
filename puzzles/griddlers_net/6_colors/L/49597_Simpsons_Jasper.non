@@ -1,0 +1,83 @@
+by "zuzzzi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/26/07"
+height 26
+id 49597
+link "https://www.griddlers.net/nonogram/-/g/49597"
+medium_time "0:14:19"
+points 27128
+popularity 74.57
+title "Simpsons: Jasper"
+width 34
+
+color a ffffff
+color b 000000
+color c ffff00
+color d ff0000
+color e 00cc00
+color f 9999ff
+
+rows
+b 5
+b 3 c 5 b 2
+b 1 c 10 b 2
+b 3 b 3 c 12 b 1
+b 1 b 1 c 14 b 3 b 3
+b 2 b 2 c 17 b 2
+b 3 c 2 b 4 c 13 b 1 b 3
+b 2 b 2 b 1 c 7 b 5 b 2
+b 4 b 1 c 5 b 1 b 2 b 2
+b 1 c 1 b 1 b 1 b 1 c 4 b 1 b 1 b 2
+b 1 c 2 b 1 b 1 c 4 b 1 b 1 c 2 b 1
+b 1 c 1 b 1 c 1 b 6 c 6 b 6 c 1 b 1 c 1 b 1
+b 1 f 1 b 3 c 5 b 1 c 6 b 1 c 5 b 1 c 1 b 2
+b 1 f 3 b 1 b 2 c 3 b 1 c 6 b 1 c 4 b 1 b 1 f 2 b 1
+b 2 f 3 b 1 b 4 c 6 b 5 b 1 f 3 b 1
+b 1 e 2 b 1 f 2 b 1 b 1 b 1 c 6 b 1 b 1 b 1 f 3 b 2
+e 3 b 1 f 2 b 1 b 2 b 1 c 6 b 1 b 1 b 1 f 2 b 1 e 2 b 1
+e 3 b 1 f 2 b 1 b 1 b 1 c 4 b 1 b 1 b 1 f 2 b 1 e 3
+e 3 b 1 f 2 b 1 b 1 b 4 b 2 b 1 f 2 b 1 e 3
+e 3 b 1 f 2 b 1 b 2 b 1 b 1 f 2 b 1 e 3
+e 3 b 1 f 2 b 1 b 1 b 1 b 1 f 2 b 1 e 3
+e 3 b 1 f 2 b 1 b 1 b 4 b 2 b 1 f 2 b 1 e 3
+e 2 b 1 f 3 b 1 b 1 b 1 d 2 b 1 b 1 b 1 f 2 b 1 e 3
+e 2 b 1 f 3 b 1 b 1 b 1 b 1 f 2 b 1 e 3
+e 2 b 1 f 3 b 1 b 1 b 1 b 1 b 1 f 2 b 1 e 3
+e 2 b 1 f 3 b 1 b 1 b 3 b 1 b 1 f 2 b 1 e 3
+
+columns
+b 1 e 10
+b 1 e 11
+b 1 b 2 e 7 b 4
+b 1 b 1 b 1 f 2 b 7 f 4
+b 1 b 2 b 4 f 14
+b 1 b 1 b 1 c 3 b 1 f 13
+b 2 b 1 b 2 c 1 b 15
+b 1 c 1 b 2 b 1 c 1 b 1
+b 2 c 1 b 1 b 1 c 1 b 1
+b 1 c 2 b 1 b 1 c 1 b 1 b 7
+b 1 c 2 b 1 b 1 c 2 b 1 b 4
+b 2 c 2 b 1 b 1 b 1 c 2 b 3
+b 1 c 4 b 1 b 1 c 2 b 1
+b 1 c 5 b 1 b 6
+b 1 c 6 b 3 c 6 b 1
+b 1 c 17 b 1 b 2
+b 1 c 17 b 1 b 1 d 1 b 1
+b 1 c 17 b 1 b 1 d 1 b 1
+b 1 c 17 b 1 b 2 b 2
+b 1 c 8 b 2 c 6 b 1
+b 1 c 6 b 1 b 6
+b 1 c 5 b 1 b 1 c 2 b 1
+b 1 c 4 b 1 b 1 c 2 b 5
+b 1 c 1 b 1 c 2 b 1 b 1 b 1 c 2 b 1 b 4
+b 2 c 2 b 1 b 1 c 2 b 1 b 5
+b 1 c 2 b 1 b 1 c 1 b 1
+b 2 b 1 b 1 c 1 b 1
+b 2 b 3 c 1 b 1 c 1 b 13
+b 1 b 2 b 1 c 2 b 1 f 13
+b 1 b 1 b 1 b 3 f 13
+b 1 b 1 b 1 f 2 b 10
+b 2 e 10
+b 1 e 10
+b 1 e 9

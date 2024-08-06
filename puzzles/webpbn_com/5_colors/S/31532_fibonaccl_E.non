@@ -1,0 +1,44 @@
+by "eewawetwe (ddongddo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by eewawetwe"
+date "Sep  1, 2018"
+description "fib."
+difficulty 1.0
+height 8
+id 31532
+link "https://webpbn.com/play.cgi?id=31532"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "fibonaccl E"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 8 red 5
+black 8 red 5
+black 8 red 5
+black 8 red 5
+black 8 red 5
+black 9 red 1 green 3
+black 8 blue 2 green 3
+black 8 blue 2 green 3
+
+columns
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+red 5 black 1 blue 2
+red 6 blue 2
+red 5 green 3
+red 5 green 3
+red 5 green 3

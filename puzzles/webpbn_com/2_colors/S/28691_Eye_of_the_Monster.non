@@ -1,0 +1,47 @@
+by "Austin Lambert (azlavan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Austin Lambert"
+date "Sep  2, 2016"
+description ""
+difficulty 1.25
+height 15
+id 28691
+link "https://webpbn.com/play.cgi?id=28691"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Eye of the Monster"
+width 15
+
+rows
+3,2,1,2,3
+2,2,2,2
+1,9,1
+11
+4,4
+4,5,4
+2,1,1,2
+1,2,1,1,1,2,1
+2,1,1,2
+4,5,4
+4,4
+11
+1,9,1
+2,2,2,2
+3,2,1,2,3
+
+columns
+3,2,1,2,3
+2,2,2,2
+1,9,1
+11
+4,4
+4,5,4
+2,1,1,2
+1,2,1,1,1,2,1
+2,1,1,2
+4,5,4
+4,4
+11
+1,9,1
+2,2,2,2
+3,2,1,2,3

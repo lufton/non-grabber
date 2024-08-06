@@ -1,0 +1,61 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar  9, 2011"
+description "Front of a car. What kind of car could it be?"
+difficulty 2.0
+height 20
+id 12650
+link "https://webpbn.com/play.cgi?id=12650"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "In tight #14"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 19
+red 20
+red 20
+black 20
+red 20
+black 9 black 5
+black 1 black 2 black 2
+black 10 black 1 black 1
+black 1 black 1 black 1
+black 10 black 1 black 1
+black 1 black 1 black 1
+black 10 black 1 black 1
+black 1 black 2 black 2
+black 9 black 5
+0
+black 20
+black 2
+black 2
+black 18
+0
+
+columns
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 7 black 1 black 1
+red 3 black 1 red 1 black 1 black 1
+red 3 black 1 red 1 black 7 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 1
+red 3 black 1 red 1 black 1 black 1 black 1 black 2
+red 3 black 1 red 1 black 1 black 1 black 3
+red 2 black 1 red 1 black 7 black 2

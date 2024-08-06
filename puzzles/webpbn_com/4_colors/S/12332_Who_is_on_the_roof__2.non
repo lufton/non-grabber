@@ -1,0 +1,52 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb 21, 2011"
+description "A friend's partially-underground house has an A-Frame roof. Their dog loves being on the roof. (green part is grass)"
+difficulty 1.25
+height 15
+id 12332
+link "https://webpbn.com/play.cgi?id=12332"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Who is on the roof # 2"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 2 black 1
+black 9
+black 8
+black 2 black 2
+black 3 black 3
+black 15
+blue 15
+blue 15
+blue 15
+blue 15
+black 15
+green 15
+green 15
+green 15
+
+columns
+black 1 blue 4 black 1 green 3
+black 2 black 1 blue 4 black 1 green 3
+black 3 black 2 blue 4 black 1 green 3
+black 7 blue 4 black 1 green 3
+black 5 blue 4 black 1 green 3
+black 2 black 1 blue 4 black 1 green 3
+black 2 black 2 blue 4 black 1 green 3
+black 5 blue 4 black 1 green 3
+black 5 blue 4 black 1 green 3
+black 2 black 1 blue 4 black 1 green 3
+black 1 blue 4 black 1 green 3
+black 1 blue 4 black 1 green 3
+black 1 blue 4 black 1 green 3
+black 1 blue 4 black 1 green 3
+black 1 blue 4 black 1 green 3

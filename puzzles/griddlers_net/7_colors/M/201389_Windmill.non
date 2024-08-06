@@ -1,0 +1,59 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/15/19"
+height 15
+id 201389
+link "https://www.griddlers.net/nonogram/-/g/201389"
+medium_time "0:03:27"
+points 669
+popularity 76.94
+title "Windmill"
+width 20
+
+color a ffffff
+color c 00cc33
+color d 663300
+color e cc9900
+color f 000066
+color g 0066cc
+color h 000000
+
+rows
+h 2 h 1
+h 2 h 2
+h 2 h 2
+h 4
+g 1 h 3 g 1
+h 2 g 1 h 2
+c 3 h 2 g 3 h 2 c 4
+c 5 h 2 f 3 h 2 c 6
+c 5 h 1 f 5 h 1 c 6
+c 5 f 5 c 6
+c 5 f 7 c 6
+c 3 f 7 c 4
+d 1 e 1 f 7 e 1 d 2
+d 1 e 2 f 7 e 2 d 2
+e 17
+
+columns
+c 4
+c 6 e 1
+c 6 d 2 e 1
+c 6 e 1
+c 4 e 2
+h 1 h 2 e 3
+h 2 h 2 f 4 e 1
+h 2 g 1 h 2 f 6 e 1
+h 4 g 1 f 7 e 1
+h 2 g 2 f 7 e 1
+h 3 g 1 f 7 e 1
+h 2 g 1 h 2 f 6 e 1
+h 2 h 2 f 4 e 1
+h 2 h 2 e 3
+c 4 e 2
+c 6 e 1
+c 6 d 2 e 1
+c 6 d 2 e 1
+c 6
+c 4

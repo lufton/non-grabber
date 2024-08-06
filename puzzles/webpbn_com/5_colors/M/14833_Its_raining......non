@@ -1,0 +1,63 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Jun 22, 2011"
+description "cats & dogs!"
+difficulty 2.75
+height 20
+id 14833
+link "https://webpbn.com/play.cgi?id=14833"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "It's raining....."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 2 blue 1
+blue 1 black 1 blue 1
+blue 1 black 4 blue 1 blue 3
+blue 1 black 2 green 1 black 3 blue 1 blue 2
+blue 1 black 6 blue 1 blue 2
+blue 2 black 5 blue 1 blue 1 black 1 black 1
+blue 1 black 3 blue 2 blue 1 black 4
+blue 3 blue 2 blue 1 blue 1 black 1 blue 1 black 1
+blue 5 blue 3 blue 1 black 4
+blue 2 blue 3 blue 1 red 1 black 3
+blue 1 blue 3 blue 2 black 3
+red 1 red 1 blue 1 blue 1 black 1 black 1 blue 1 black 1
+red 4 blue 1 blue 1 black 1 black 2 blue 1
+red 1 green 1 red 1 green 1 red 1 blue 1 blue 1 black 5 blue 6
+red 5 blue 1 blue 1 black 1 black 1 black 1 blue 1
+red 1 red 2 blue 1 blue 1 black 5 blue 1
+red 3 blue 1 blue 1 black 2 red 1 black 2 blue 2
+blue 2 blue 2 black 1 red 1 black 1 blue 3
+blue 4 blue 2 red 1 blue 2
+blue 2 blue 3
+
+columns
+blue 1 red 4 blue 1
+blue 1 red 1 green 1 red 2 blue 1
+blue 1 red 3 red 1 blue 1
+blue 1 red 2 green 1 red 3 blue 1
+blue 5 blue 2 red 4 blue 1
+blue 1 blue 3 blue 2 blue 2
+black 6 blue 1 blue 7
+black 1 black 5 blue 2
+black 1 green 1 black 3 blue 1 blue 8
+black 5 blue 2 blue 1 black 6 blue 2
+black 3 blue 1 blue 2 black 1 black 3 blue 2
+blue 1 black 2 blue 1 blue 1 black 4 red 3 blue 1
+blue 6 blue 1 black 3 black 3 blue 2
+blue 1 black 4 blue 2
+blue 8 blue 1 blue 2
+blue 2 blue 6
+blue 1 black 2 blue 1 black 1 red 1 blue 1
+blue 1 black 5 blue 1
+blue 1 black 1 blue 1 black 4 blue 1
+blue 1 black 6 blue 1

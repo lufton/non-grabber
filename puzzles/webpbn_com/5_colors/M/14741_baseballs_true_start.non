@@ -1,0 +1,73 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jun 18, 2011"
+description "Apologies to Tom and Trish. First kegs of beer were invented. Then one time a group of guys were in a field drinking beer. They found a stick and some stones. The rest is history."
+difficulty 1.5
+height 15
+id 14741
+link "https://webpbn.com/play.cgi?id=14741"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "baseball's true start"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 3 black 3
+black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 red 7 black 1 black 1 black 1 black 1 black 1 red 7 black 1
+red 3 green 7 black 1 red 3
+red 3 green 1 green 3 black 1 red 3
+black 3 black 1 green 3 black 1 black 3 black 3
+blue 3 black 3 blue 3 black 1
+blue 3 blue 3 blue 3 black 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 4
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 4
+black 1 black 1 blue 1 blue 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 black 4
+green 3 black 2 green 1 black 2 green 4 black 2 green 1 black 2 green 5 black 2 green 1 black 2 green 3 black 4 green 1
+green 35
+
+columns
+black 1 green 2
+black 1 green 2
+red 1 black 1 green 2
+red 1 black 1 green 1
+black 3 red 3 black 1 blue 5 black 1 green 1
+black 1 red 3 black 1 blue 2 green 2
+black 3 red 3 black 1 blue 5 black 1 green 1
+red 1 black 1 green 1
+red 1 green 2
+black 1 green 2
+green 2
+green 2 black 1 green 2
+green 1 black 1 green 1
+black 3 green 3 black 1 blue 4 black 1 green 1
+black 1 green 3 black 1 blue 1 green 2
+black 3 green 3 black 1 blue 4 black 1 green 1
+green 1 black 1 green 1
+green 1 green 2
+black 5 green 2
+green 2
+black 1 black 1 green 2
+red 1 green 2
+red 1 black 1 green 1
+black 3 red 3 black 1 blue 5 black 1 green 1
+black 1 red 3 black 1 blue 2 green 2
+black 3 red 3 black 1 blue 5 black 1 green 1
+red 1 black 1 green 1
+red 1 black 1 green 2
+black 1 green 2
+green 2
+black 4 green 1
+black 1 black 4 green 1
+black 7 green 1
+black 1 black 4 green 1
+green 2

@@ -1,0 +1,122 @@
+by "hagargur"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/12/07"
+height 50
+id 49076
+link "https://www.griddlers.net/nonogram/-/g/49076"
+medium_time "0:42:48"
+points 82330
+popularity 70.31
+title "Freedom"
+width 47
+
+color a 00ffff
+color b 8e561f
+color c d57e27
+color d dabf53
+color e 00d700
+color f 009900
+color g ffcc00
+color h ffff00
+
+rows
+e 3 e 4 e 4
+e 4 e 3 e 1 e 5 h 5
+e 5 e 2 e 4 h 10
+e 1 f 1 e 5 e 3 e 1 f 1 e 1 h 12
+e 4 f 2 e 3 e 4 f 2 e 3 h 5 g 3 h 3
+e 4 f 2 e 2 e 3 e 2 f 2 e 4 h 7 g 2 h 3
+e 3 f 1 e 5 e 1 e 5 f 1 e 6 h 7 g 1 h 4
+e 2 f 2 e 3 e 2 e 4 f 1 e 3 h 2 e 2 h 7 g 1 h 4
+e 6 f 1 e 2 e 3 e 2 f 2 e 4 h 11 g 1 h 4
+e 5 f 2 e 9 f 2 e 6 h 10 g 1 h 4
+e 3 f 3 e 6 f 2 e 2 h 3 e 2 h 10 g 1 h 4
+e 3 e 4 f 1 e 2 f 5 e 5 h 13 g 1 h 4
+e 6 e 1 f 3 e 3 f 1 e 10 h 12 g 1 h 4
+e 6 f 1 e 3 f 1 e 4 f 3 e 5 h 13 g 1 h 4
+e 3 f 3 e 10 f 3 e 2 h 1 e 4 h 8 g 2 h 4
+e 6 f 2 e 1 c 9 e 4 f 2 e 7 h 7 g 1 h 4
+e 5 f 2 e 2 b 1 c 8 e 4 f 2 e 4 h 6 g 3 h 5
+e 4 f 1 e 3 b 1 c 6 e 5 f 2 e 2 h 3 e 4 h 7
+e 6 f 2 e 3 b 1 c 5 e 5 f 2 e 10 h 5
+e 5 f 2 e 4 b 1 c 3 e 6 f 2 e 10 h 3
+e 3 f 2 e 5 b 1 c 2 e 2 e 4 f 3 e 4 h 3 e 2 h 1
+e 1 f 2 e 4 e 1 b 1 c 1 e 6 f 3 e 4 h 3
+e 4 f 1 e 4 c 11 e 7 f 1 e 6
+e 2 f 2 e 1 e 2 b 1 c 9 e 2 e 10
+e 1 f 1 e 2 e 2 b 1 c 7 e 1 e 6 e 3
+e 2 f 1 e 3 e 1 b 1 c 5 e 2 e 2 e 3
+e 6 b 1 c 5 e 1 e 2 e 1
+e 3 e 2 b 1 c 3 e 1
+e 2 e 2 b 1 c 2
+e 1 c 11
+b 1 c 9
+b 1 c 7
+b 1 c 5
+b 1 c 4
+b 1 c 3
+b 1 c 1
+c 11
+b 1 c 9
+d 5 b 1 c 7 d 6
+d 10 b 1 c 5 d 11
+d 12 b 1 c 5 d 14
+d 14 b 1 c 3 d 17
+d 15 b 1 c 2 d 19
+d 12 c 9 d 18
+d 12 b 1 c 8 d 20
+d 13 b 1 c 6 d 22
+d 13 b 1 c 5 d 24
+d 14 b 1 c 3 d 26
+d 15 b 1 c 2 d 27
+d 46
+
+columns
+e 1 e 4 d 9
+e 2 e 2 e 4 d 10
+e 3 e 3 f 1 e 2 d 10
+e 2 e 5 f 2 e 2 d 11
+e 6 f 3 e 5 d 11
+e 1 e 5 f 2 e 8 d 11
+e 2 e 1 e 2 e 4 f 2 e 2 d 11
+e 2 e 2 e 1 e 7 f 2 e 5 d 12
+e 3 e 2 e 2 e 5 f 3 e 7 d 12
+e 6 e 2 e 4 f 2 e 5 d 12
+e 1 f 2 e 5 e 2 f 2 e 5 d 12
+e 4 f 2 e 5 e 1 f 1 e 7 c 1 b 1 c 1 b 1 c 1 b 1 d 12
+e 5 f 3 e 5 f 2 c 1 b 1 c 2 b 1 c 2 b 1 c 2 b 1 d 4 c 1 b 1 d 5
+e 2 e 4 f 3 e 2 f 1 e 2 c 2 b 2 c 3 b 2 c 3 b 2 c 3 b 2 d 2 c 2 b 2 d 3
+e 1 e 6 f 2 e 1 f 1 e 2 c 4 b 1 c 5 b 1 c 5 b 1 c 5 b 1 d 1 c 4 b 1 d 2
+e 1 e 4 f 1 e 1 f 1 e 2 c 5 b 2 c 6 b 1 c 6 b 1 c 6 b 1 c 5 b 1 d 1
+e 2 e 1 f 2 e 1 f 1 e 1 c 34 d 1
+e 1 e 6 c 6 c 13 c 13 d 1
+e 7 c 4 c 5 c 4 c 5 d 2 c 4 d 3
+e 5 f 2 e 2 c 3 c 3 c 3 c 3 d 4 c 3 d 4
+e 4 f 1 e 3 c 2 c 2 c 2 c 2 d 5 c 2 d 5
+e 1 e 2 f 1 e 1 f 1 e 2 c 1 c 1 c 1 d 12
+e 3 e 2 f 1 e 1 f 1 e 4 d 12
+e 5 f 2 e 1 f 2 e 6 d 12
+e 2 e 3 f 2 e 3 f 1 e 6 d 12
+e 6 f 2 e 4 f 2 e 4 d 12
+e 6 f 2 e 6 f 2 e 5 d 11
+e 1 f 2 e 3 h 1 e 5 f 2 e 7 d 11
+e 2 f 2 e 4 h 1 e 3 h 1 e 2 f 2 e 5 d 11
+e 2 f 2 e 5 h 2 e 1 h 1 e 4 f 2 e 3 d 11
+e 6 h 1 e 3 h 3 e 5 f 2 e 2 d 10
+e 3 h 1 e 3 h 2 e 2 h 3 e 3 h 1 e 2 f 1 e 4 d 10
+e 2 h 2 e 4 h 6 e 2 h 2 e 2 f 2 e 5 d 10
+e 2 h 4 e 2 h 7 e 1 h 2 e 3 f 1 e 4 d 9
+e 1 h 16 e 4 f 2 e 2 d 9
+h 16 e 10 d 8
+h 16 e 11 d 8
+h 16 e 3 h 1 e 3 d 7
+h 3 g 1 h 11 g 1 h 1 e 2 h 1 e 4 d 7
+h 2 g 1 h 11 g 1 h 1 e 2 h 2 e 4 d 6
+h 2 g 2 h 10 g 1 h 2 e 2 h 1 e 5 d 6
+h 3 g 3 h 6 g 2 h 4 e 1 h 1 e 1 d 5
+h 5 g 7 h 6 d 4
+h 16 d 3
+h 14 d 2
+h 11 d 1
+h 7

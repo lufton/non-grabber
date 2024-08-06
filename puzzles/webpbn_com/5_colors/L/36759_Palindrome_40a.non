@@ -1,0 +1,83 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "May 11, 2023"
+description "2 words, 11 letters"
+difficulty 2.5
+height 25
+id 36759
+link "https://webpbn.com/play.cgi?id=36759"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Palindrome 40a"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 7 blue 7 blue 7
+red 1 red 1 blue 1 black 2 black 2 blue 1 blue 1 red 1 red 1 blue 1 blue 1 red 1 red 1 blue 1
+red 5 blue 1 red 1 red 1 blue 1 blue 1 red 1 red 1 blue 1 blue 1 red 1 red 1 blue 1
+red 5 blue 1 blue 1 blue 1 red 1 blue 1 blue 1 red 1 red 1 blue 1
+red 5 blue 1 red 3 blue 1 blue 1 red 1 blue 1 blue 1 red 1 red 1 blue 1
+red 3 blue 1 red 1 red 1 blue 1 blue 1 red 1 red 1 blue 1 blue 1 blue 1
+red 1 blue 1 blue 1 blue 1 red 1 red 1 blue 1 blue 1 red 1 red 1 blue 1
+blue 7 blue 7 blue 7
+blue 1 blue 1 blue 1
+black 3 blue 1 black 3 blue 1 black 3 blue 1 black 3
+black 2 blue 1 blue 1 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1
+black 3 blue 1 black 3 blue 1 black 3 blue 1 black 3
+black 1 black 3 black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 red 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 5 black 5 black 5
+black 1 green 1 black 1 black 1 black 1
+black 1 green 4 black 1 black 1 black 1
+black 1 green 5 black 1 black 1 black 1
+black 1 green 4 black 1 black 1 black 1
+black 1 black 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+
+columns
+black 3
+red 3 black 1 black 3
+red 5 black 4 black 1 black 2 black 1
+red 5 black 11
+red 5 black 1 blue 1 black 2 black 1 black 5
+red 3 black 1 black 1
+black 3 green 1
+blue 8 green 3
+blue 1 black 1 blue 1 green 5
+blue 1 black 1 red 1 red 2 blue 1 green 3
+blue 1 red 1 blue 5 black 3 green 3
+blue 1 black 1 red 1 red 2 blue 1 black 1 black 1
+blue 1 black 1 blue 1 black 1 blue 1 black 2 black 1 black 5
+blue 8 black 3 red 1 black 7
+black 1 blue 1 black 2 black 1 black 5
+black 1 black 1
+blue 8 black 3
+blue 1 blue 1
+blue 1 red 2 red 2 blue 1
+blue 1 red 2 blue 5 black 3
+blue 1 red 2 red 2 blue 1 black 1 black 1
+blue 1 blue 1 black 1 blue 1 black 2 black 1 black 5
+blue 8 black 3 red 1 black 7
+black 1 blue 1 black 2 black 1 black 5
+black 1 black 1
+blue 8 black 3
+blue 1 blue 1
+blue 1 red 4 red 1 blue 1
+blue 1 blue 5 black 3
+blue 1 red 4 red 1 blue 1 black 1 black 1
+blue 1 blue 1 black 1 blue 1 black 2 black 1 black 5
+blue 8 black 3 red 1 black 7
+black 1 blue 1 black 2 black 1 black 5
+black 1 black 1
+black 3

@@ -1,0 +1,52 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Oct  2, 2010"
+description "Firefox, not foxfire"
+difficulty 2.75
+height 15
+id 10397
+link "https://webpbn.com/play.cgi?id=10397"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Not Fungus"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1 blue 4
+red 2 red 2 blue 5 red 1
+red 1 red 2 red 1 blue 5 red 1
+red 2 red 2 black 1 blue 3 red 2
+red 1 red 4 blue 3 red 1 red 1
+red 1 red 2 red 1 blue 5 red 1
+red 1 red 2 blue 5 red 1
+red 1 red 4 blue 6 red 1
+red 1 red 3 blue 2 red 2 blue 2 red 1
+red 1 red 6 blue 2 red 1
+red 1 red 4 blue 1 red 2 red 1
+red 1 red 4 red 2
+red 2 red 2
+red 2 red 2
+red 8
+
+columns
+red 7
+red 4 red 2
+red 1 red 1
+red 1 red 2 red 2
+red 1 red 1 red 3 red 2
+red 1 red 2 red 4 red 1
+red 5 red 2 blue 1 red 2 red 1
+blue 3 red 4 blue 2 red 3 red 1
+blue 3 black 1 red 1 blue 3 red 4 red 1
+blue 8 red 2 blue 1 red 1 red 1
+blue 10 red 2 red 1
+blue 9 red 1 red 2
+red 1 red 1 blue 3 red 1 red 2
+red 2 red 3 red 2
+red 2 red 3

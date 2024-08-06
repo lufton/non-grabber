@@ -1,0 +1,67 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 15
+id 27331
+link "https://webpbn.com/play.cgi?id=27331"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Dive"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+red 1 black 2
+red 3 black 2 black 4
+red 3 black 1 black 3 black 4
+red 2 black 3 black 4 black 2
+black 3 blue 3 red 6 black 3
+black 7 blue 4 red 6 black 3
+red 2 black 3 blue 1 black 5 blue 4 red 8
+red 2 black 2 blue 3 black 4 blue 4 red 9 black 2
+red 2 red 4 black 3
+red 1 red 3 black 3
+0
+0
+
+columns
+red 2 red 4
+red 3 red 3
+red 3 black 1 black 2
+red 1 black 3 black 2
+black 4 blue 1
+black 2 blue 2
+black 2 blue 1
+black 3
+black 3
+black 3
+black 3
+blue 3
+blue 4
+blue 4
+blue 4
+red 4
+red 4
+red 4
+red 4
+red 4
+red 4
+black 4 red 2
+black 5 red 3
+black 5 red 3
+black 1 red 2
+red 2
+black 2 black 3
+black 4 black 3
+black 4 black 2
+black 2

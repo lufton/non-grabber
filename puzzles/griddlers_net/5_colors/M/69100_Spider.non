@@ -1,0 +1,72 @@
+by "knocka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/8/08"
+height 20
+id 69100
+link "https://www.griddlers.net/nonogram/-/g/69100"
+medium_time "0:13:24"
+points 17264
+popularity 78.76
+title "Spider"
+width 30
+
+color a ffffff
+color b 000000
+color c 663300
+color d cc6600
+color e 996600
+
+rows
+c 1 b 3
+c 2 b 6
+c 1 c 3 b 8
+c 3 c 1 c 1 b 8 c 1
+c 2 c 1 c 1 c 1 b 8 c 2
+c 3 c 1 c 1 e 4 b 6 c 6
+c 2 c 3 d 4 e 3 b 4 c 3 c 2
+c 2 c 2 d 6 e 3 b 2 c 3 c 2
+c 2 c 3 d 7 e 2 c 3 c 2 c 1
+c 2 c 3 d 2 b 1 d 1 b 1 d 3 e 2 c 2 c 1 c 1
+c 1 c 1 c 1 d 7 e 4 c 1 c 2
+c 1 c 2 c 1 d 2 b 1 d 2 c 1 e 4 c 1 c 1
+c 2 c 1 c 1 c 1 d 4 c 1 e 4 c 2 c 1
+c 2 c 1 c 2 c 2 c 1 e 2 c 1 c 2
+c 1 c 2 c 1 c 1 c 1 c 1 c 2
+c 2 c 1 c 2 c 1 c 1
+c 1 c 1 c 1 c 1
+c 2 c 2 c 1 c 2
+c 1 c 1 c 2 c 1
+c 1 c 1
+
+columns
+c 2
+c 2
+c 4
+c 2 c 2
+c 2 c 4
+c 2 c 5
+c 2 c 3
+c 2 c 2 c 2
+c 11
+c 2 c 3 d 2
+c 4 d 5 c 4
+d 3 b 1 d 3 c 1
+c 4 d 5 b 1 d 1
+c 2 e 1 d 3 b 1 d 3 c 3
+c 5 e 1 d 7 c 3
+e 2 d 4 c 5
+e 3 d 2 e 3
+b 4 e 8
+b 6 e 7
+b 7 c 2 e 3
+b 8 c 5
+b 7 c 2 c 7
+b 6 c 2 c 2
+b 4 c 4
+b 3 c 2 c 3
+c 1 c 5
+c 2 c 5
+c 4 c 2
+c 3
+c 3

@@ -1,0 +1,51 @@
+by "Marena Sasena (sachama)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Marena Sasena"
+date "Jun 12, 2012"
+description "Flowering cherry in our garden"
+difficulty 2.25
+height 15
+id 18967
+link "https://webpbn.com/play.cgi?id=18967"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #111 Delayed spring"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 blue 1 blue 1 black 1
+black 2 blue 1 blue 1 blue 1 blue 1 black 1
+black 2 blue 1 blue 1 black 2
+black 2 black 3
+black 1 black 3
+black 5
+black 3
+black 2
+blue 1 black 2 blue 1
+blue 1 blue 1 black 1 black 3 blue 1 blue 1
+blue 1 black 7 blue 1
+black 4 black 2
+black 2 black 2
+black 3 black 2
+black 2 black 2
+
+columns
+black 2
+blue 1 black 3
+black 1 blue 1 blue 1 black 3
+black 2 black 1 blue 1 black 2
+black 2 black 5
+blue 1 black 2 black 2 black 2
+blue 1 blue 1 black 4 black 2
+blue 1 black 2 black 2
+black 1 black 2
+black 2 blue 1 black 2
+black 2 blue 1 blue 1 black 2
+blue 1 black 2 blue 1 black 2
+blue 1 blue 1 black 1 black 2
+blue 1 black 2 black 1
+black 3

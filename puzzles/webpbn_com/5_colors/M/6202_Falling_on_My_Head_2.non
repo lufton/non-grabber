@@ -1,0 +1,67 @@
+by "Synthia McBride (synthia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Synthia McBride"
+date "Jul  1, 2009"
+description "Sorry, I couldn't resist making the pun."
+difficulty 2.0
+height 17
+id 6202
+link "https://webpbn.com/play.cgi?id=6202"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Falling on My Head #2"
+width 27
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 red 1
+green 5 red 2 red 2
+green 5 black 1 red 1 black 2 red 1
+green 5 black 1 red 2 black 1 red 2
+green 8 blue 3 blue 2 red 1
+green 8 blue 4 blue 3 black 2
+green 8 blue 4 blue 3 black 3
+green 11 blue 4 blue 3 black 3
+green 11 blue 7 black 4
+green 11 blue 4 black 4
+green 14 black 4
+green 14 black 6
+green 14 black 2 black 5
+green 17 black 2 black 5
+green 17 black 2 black 5
+green 17 black 1 black 3
+blue 27
+
+columns
+green 16 blue 1
+green 16 blue 1
+green 15 blue 1
+green 15 blue 1
+green 15 blue 1
+green 12 blue 1
+green 12 blue 1
+green 12 blue 1
+green 9 blue 1
+green 9 blue 1
+blue 2 green 9 blue 1
+black 1 blue 3 green 6 blue 1
+red 1 black 1 red 1 blue 4 green 6 blue 1
+red 4 blue 4 green 6 blue 1
+blue 4 green 3 blue 1
+blue 3 green 3 blue 1
+blue 2 green 3 blue 1
+blue 5 blue 1
+black 1 blue 5 black 2 black 4 blue 1
+black 1 blue 5 black 6 blue 1
+red 1 black 1 red 1 black 4 blue 1
+red 4 black 7 blue 1
+black 2 black 5 blue 1
+black 2 black 5 blue 1
+black 2 black 5 blue 1
+black 2 black 3 blue 1
+black 2 blue 1

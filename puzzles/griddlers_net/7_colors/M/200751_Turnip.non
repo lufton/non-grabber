@@ -1,0 +1,64 @@
+by "meepsicle"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/19"
+height 20
+id 200751
+link "https://www.griddlers.net/nonogram/-/g/200751"
+medium_time "0:10:30"
+points 9624
+popularity 79.64
+title "Turnip"
+width 20
+
+color a ffffff
+color b 000000
+color c 008000
+color d 33CC33
+color e ADFF2F
+color f FF69B4
+color g FFDAB9
+
+rows
+b 20
+b 1 b 1
+b 1 b 3 b 2 b 3 b 1
+b 1 b 1 c 1 d 1 e 1 b 2 d 2 b 2 e 1 d 1 c 1 b 1 b 1
+b 1 b 1 c 1 d 1 e 1 b 1 d 1 c 1 b 1 e 1 d 1 c 1 b 1 b 1
+b 1 b 1 c 1 d 2 c 2 d 2 c 1 b 1 b 1
+b 1 b 1 f 2 c 2 d 2 c 2 g 1 f 1 b 1 b 1
+b 1 b 1 f 2 g 3 c 2 g 2 g 1 f 1 b 1 b 1
+b 1 b 1 f 2 g 2 b 2 g 2 b 2 g 1 f 1 b 1 b 1
+b 1 b 1 f 2 g 1 b 1 b 2 b 1 g 1 f 1 b 1 b 1
+b 1 b 1 f 2 g 2 g 1 f 1 b 1 b 1
+b 1 b 1 f 2 g 2 b 1 b 1 g 1 f 1 b 1 b 1
+b 1 b 1 f 1 g 2 b 1 b 1 g 1 f 1 b 1 b 1
+b 1 b 1 f 2 g 2 g 1 f 1 b 1 b 1
+b 1 b 1 f 2 g 1 b 2 g 1 f 1 b 1 b 1
+b 1 b 2 f 1 g 2 f 1 b 2 b 1
+b 1 b 1 f 2 b 1 b 1
+b 1 b 2 b 1
+b 1 b 1
+b 20
+
+columns
+b 20
+b 1 b 1
+b 1 b 4 b 1
+b 1 b 1 b 1 f 4 b 1 b 1
+b 1 b 1 c 1 b 1 b 1 f 6 b 1 b 1
+b 1 b 1 d 1 c 1 b 1 f 2 g 5 f 1 b 1 b 1
+b 1 b 1 e 1 d 1 c 1 f 1 g 2 b 1 g 3 f 2 b 1 b 1
+b 1 b 1 e 1 d 1 c 1 g 1 b 1 g 1 f 1 b 1 b 1
+b 1 b 2 d 1 c 1 g 1 b 1 b 2 g 2 f 1 b 1 b 1
+b 1 b 1 d 2 c 1 d 1 c 1 g 1 b 1 b 1 g 1 f 1 b 1 b 1
+b 1 b 1 d 1 c 2 d 1 c 1 g 1 b 1 b 1 g 1 f 1 b 1 b 1
+b 1 b 2 d 1 c 1 g 1 b 1 b 2 f 1 b 1 b 1
+b 1 b 1 e 1 d 1 c 1 g 1 b 1 g 1 b 1 b 1
+b 1 b 1 e 1 d 1 c 1 g 1 b 1 g 1 f 1 b 1 b 1
+b 1 b 1 d 1 c 1 b 1 f 1 g 1 g 1 f 1 b 1 b 1
+b 1 b 1 c 1 b 1 b 1 f 1 g 4 f 1 b 1 b 1
+b 1 b 1 b 1 f 4 b 1 b 1
+b 1 b 4 b 1
+b 1 b 1
+b 20

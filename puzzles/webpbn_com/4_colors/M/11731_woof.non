@@ -1,0 +1,67 @@
+by "Jaime Lee (huileehui)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jaime Lee"
+date "Jan 11, 2011"
+description "In Chinese, we call it "sausage dog". What is it called in English?"
+difficulty 1.5
+height 15
+id 11731
+link "https://webpbn.com/play.cgi?id=11731"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "woof"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 3
+black 5
+black 6 black 1
+black 4 black 5 black 2
+black 25
+black 25
+red 1 black 24
+red 1 black 19
+blue 5 black 19
+red 5 black 1 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 1
+red 3 black 2 black 2 black 2 black 2
+
+columns
+0
+0
+blue 1 red 2
+blue 1 red 3
+black 2 red 2 blue 1 red 3
+black 4 blue 1 red 3
+black 4 blue 1 red 2
+black 4
+black 5
+black 2 black 3
+black 9
+black 9 black 1
+black 12
+black 8
+black 6 black 1
+black 8
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5 black 1
+black 8
+black 5
+black 5 black 1
+black 9
+black 2

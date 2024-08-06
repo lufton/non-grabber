@@ -1,0 +1,57 @@
+by "Aurelian Ginkgo (AurelianGinkgo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Aurelian Ginkgo"
+date "Jan 26, 2018"
+description "Actually, it's just a mixed up pear. In a smoothie. It's my final pun of the series."
+difficulty 1.75
+height 20
+id 30767
+link "https://webpbn.com/play.cgi?id=30767"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "One More Mixed-Up Pair"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 3 blue 3
+blue 2 blue 2
+blue 4 blue 4
+blue 1 blue 4 blue 1
+blue 2 blue 2
+blue 1 green 4 blue 1
+blue 1 green 4 blue 1
+blue 2 green 2 blue 2
+blue 1 green 2 blue 1 black 1 green 2
+blue 1 green 2 blue 1 black 2 green 3
+blue 1 green 2 blue 1 black 1 green 3
+blue 1 green 2 blue 1 green 1 black 1 green 1
+blue 1 green 2 blue 1 green 3
+blue 1 green 2 blue 1 green 5
+blue 1 green 2 blue 1 green 2 green 4
+blue 1 green 2 blue 1 green 1 green 5
+blue 5 green 1 green 6
+blue 2 green 8
+blue 6 green 3 green 2
+
+columns
+blue 2
+blue 5 blue 1
+blue 1 blue 1 blue 4 blue 3
+blue 2 blue 2 green 2 blue 10 blue 1
+blue 1 blue 1 green 11 blue 1 blue 1
+blue 1 blue 1 green 11 blue 1 blue 1
+blue 2 blue 2 green 2 blue 10 blue 1
+blue 1 blue 1 blue 4 green 4 blue 1
+blue 5 green 2 green 2
+blue 2 green 3 green 3
+black 3 green 7
+black 2 green 7
+green 2 green 6
+green 3 green 5
+green 3 green 3

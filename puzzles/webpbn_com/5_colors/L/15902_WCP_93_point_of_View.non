@@ -1,0 +1,82 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kai-Uwe Zickerick"
+date "Sep 26, 2011"
+description "Portrait De Femme by Pablo Picasso painted in 1937 http://www.britishpetro.com/picasso_portrait_femme_lf.JPG"
+difficulty 2.75
+height 27
+id 15902
+link "https://webpbn.com/play.cgi?id=15902"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "WCP #93 point of View"
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 black 3
+black 3 black 26
+black 22
+black 2 black 14 black 2
+black 2 black 19
+black 2 black 3 black 14
+black 5 black 18
+black 3 black 3 black 1 black 14
+black 2 black 3 black 4 black 1 black 13
+black 2 black 2 black 3 black 2 black 1 black 2 black 10
+black 4 black 1 green 1 black 2 green 1 black 2 black 2 black 2 black 1 black 8
+black 2 black 4 green 1 black 2 green 1 black 1 black 1 black 2 black 1 black 9
+black 2 black 1 green 2 black 1 black 1 black 14
+black 2 black 2 black 7
+black 2 black 2 black 4 black 6
+black 2 black 1 black 4 black 9
+black 5 black 3 black 6
+black 3 black 2 black 5
+black 2 black 4 black 4
+black 3 black 6 black 4
+red 4 black 1 green 2 black 5 black 3
+black 1 red 1 black 1 green 1 black 2 green 1 black 1 black 5
+red 3 black 1 red 2 black 1 green 1 black 2 green 1 black 1 black 3 black 2
+red 4 black 1 red 1 black 1 green 3 black 3 black 2
+black 1 red 6 black 7 black 2
+black 1 red 2 black 1 blue 2
+black 1 black 1 blue 2
+
+columns
+black 1 black 2
+black 1 black 4
+black 2 black 4 black 1
+black 1 black 4 black 2
+black 1 black 4 black 1 black 2
+black 1 black 4 black 2 black 2 black 2
+black 2 black 5 black 3 black 2 red 1 red 2
+black 4 black 1 black 2 black 1 black 1 red 1 red 2 black 2
+black 2 black 1 black 1 black 2 black 2 black 1 red 1 black 1 red 3 black 1
+black 2 black 2 black 2 green 2 black 1 black 2 red 1 red 2
+black 3 black 1 black 1 black 3 green 1 black 1 black 1 red 1 black 1 red 2
+black 3 black 1 black 1 black 3 green 1 black 1 red 1 black 1 red 2
+black 4 black 3 green 2 black 1 red 1 red 1
+black 4 black 1 black 1 black 2 red 2
+black 6 black 3
+black 9
+black 6 black 3
+black 10 black 1 black 1 black 1
+black 7 black 2 black 1 black 1 black 1
+black 12 black 1 black 2 black 2 black 1
+black 10 black 1 black 2 black 3 green 2 black 2
+black 8 black 2 black 1 black 1 green 1 black 2 green 1 black 1
+black 10 black 1 black 1 black 1 green 1 black 2 green 1 black 1
+black 9 black 2 black 2 black 2 green 3 black 1
+black 2 black 9 black 1 black 5
+black 2 black 10 black 1 black 1 black 1
+black 2 black 13 black 1 black 2
+black 2 black 14 black 3
+black 3 black 1 black 14 black 2
+black 2 black 1 black 16 black 2
+black 2 black 2 black 18 blue 2
+black 1 black 1 black 17 blue 2

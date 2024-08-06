@@ -1,0 +1,53 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/22/04"
+height 15
+id 14307
+link "https://www.griddlers.net/nonogram/-/g/14307"
+medium_time "0:04:12"
+points 559
+popularity 52.57
+title "Sushi"
+width 15
+
+color a ffffff
+color b eb0000
+color c 003c00
+color f ff8c9c
+color g ffedc3
+color h 008200
+
+rows
+h 4
+h 1 g 4 h 1
+c 4 h 1 g 2 b 2 g 2 h 1
+c 1 c 1 h 2 g 2 h 3
+c 1 b 2 c 1 h 4 h 1
+c 3 c 3 h 4 h 1
+c 8 h 4 h 1
+c 2 c 5 h 6
+c 2 c 4 f 3 c 2 f 2
+c 6 f 4 c 2 f 3
+c 5 f 4 c 2 f 3
+f 4 c 2 f 3
+f 4 c 2 f 3
+f 2 c 2
+c 2
+
+columns
+c 6
+c 1 c 6
+c 1 c 2 c 2
+c 1 b 1 c 5
+c 1 b 1 c 5
+c 1 c 6
+h 1 c 1 c 4 f 5
+h 1 g 1 h 1 c 4 f 6
+h 1 g 2 h 5 f 5
+h 1 g 1 b 1 g 1 h 4 f 5
+h 1 g 1 b 1 g 1 h 4 c 7
+h 1 g 2 h 5 c 7
+h 1 g 1 h 1 h 1 f 5
+h 6 f 5
+f 4

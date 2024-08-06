@@ -1,0 +1,53 @@
+by "Cupcakey (Cupcakey)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Cupcakey"
+date "Apr 29, 2019"
+description "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+difficulty 1.5
+height 15
+id 32406
+link "https://webpbn.com/play.cgi?id=32406"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "A wild PokÃ©mon appeared! #1"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 2 black 1 black 2
+black 1 green 2 black 1 black 1 green 1 black 1 black 1 green 2 black 1
+black 1 green 3 black 1 green 3 black 1 green 3 black 1
+black 1 green 2 black 1 green 3 black 1 green 2 black 1
+black 1 green 2 black 1 green 3 black 1 green 2 black 1
+black 1 green 2 black 1 green 1 black 1 green 2 black 1
+black 1 blue 5 black 1
+black 1 blue 7 black 1
+black 1 blue 3 red 1 blue 1 red 1 blue 3 black 1
+black 1 blue 9 black 1
+black 2 blue 5 black 2
+black 5
+black 2 black 2
+black 4 black 4
+
+columns
+0
+black 2
+black 1 green 2 black 2 black 2
+black 1 green 4 black 1 black 1 blue 2 black 1 black 1
+black 1 green 4 black 1 blue 3 black 1 black 2
+black 3 green 1 blue 5 black 3
+black 1 green 3 black 1 blue 2 red 1 blue 2 black 1 black 1
+black 1 green 5 blue 5 black 1
+black 1 green 3 black 1 blue 2 red 1 blue 2 black 1 black 1
+black 3 green 1 blue 5 black 3
+black 1 green 4 black 1 blue 3 black 1 black 2
+black 1 green 4 black 1 black 1 blue 2 black 1 black 1
+black 1 green 2 black 2 black 2
+black 2
+0

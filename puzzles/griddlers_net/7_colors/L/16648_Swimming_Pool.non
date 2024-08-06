@@ -1,0 +1,84 @@
+by "ety22"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/1/05"
+height 25
+id 16648
+link "https://www.griddlers.net/nonogram/-/g/16648"
+medium_time "0:11:42"
+points 9156
+popularity 63.7
+title "Swimming Pool"
+width 35
+
+color a fffe00
+color b ff0000
+color d 0000ff
+color e 00ffff
+color f d6c1b1
+color g 808080
+color h 000000
+
+rows
+0
+b 2
+b 3 f 4
+b 1 h 1 f 7 d 2
+f 7 b 2 d 3
+f 1 b 4 d 1 h 1 f 1
+f 1 b 4 f 7
+f 2 f 2 b 2 f 8
+f 2 f 2 f 5 d 3
+f 1 f 2 f 1 d 4
+f 3 f 2 d 4
+h 6 f 2 f 2 d 2
+g 3 h 2 f 1 f 2
+g 5 h 5 f 2
+g 4 e 3 h 5 f 4
+g 4 e 6 g 4 h 6
+g 4 e 10 g 5 h 1
+g 2 e 15 g 5 h 4
+g 1 e 15 g 2 e 3 g 1 h 4
+e 15 g 2 e 5 g 5 h 3
+e 13 g 3 e 9 g 5 h 1
+e 11 g 3 e 13 g 5 h 2
+e 10 g 2 e 16 g 1 e 2 g 1 h 3
+e 9 g 2 e 16 g 1 e 4 g 3
+e 8 g 2 e 16 g 1 e 7 g 1
+
+columns
+g 3 e 6
+g 2 e 7
+g 2 e 8
+g 3 e 8
+g 2 e 9
+g 3 e 9
+b 3 f 2 g 3 e 10
+b 2 h 1 f 1 f 2 g 2 e 11
+b 1 f 5 g 2 e 10 g 1
+f 3 g 1 e 9 g 2
+f 3 f 1 h 4 e 7 g 2 e 1
+f 3 f 4 h 4 e 6 g 2 e 2
+f 3 b 2 f 4 h 1 h 2 g 1 e 5 g 1 e 3
+f 2 b 3 h 1 h 2 g 1 e 4 g 2 e 3
+f 1 b 4 h 1 h 2 g 2 e 3 g 1 e 4
+b 3 h 1 g 2 e 2 g 2 e 4
+g 1 e 1 g 2 e 5
+g 3 e 6
+g 2 e 7
+d 3 f 1 f 2 g 1 e 7
+d 2 h 1 f 2 f 2 g 1 e 7
+d 1 f 6 g 2 e 6
+f 3 f 1 h 4 g 1 e 5
+f 3 f 1 h 1 h 2 g 1 e 5
+f 3 f 4 h 1 h 2 g 1 e 5
+f 3 d 2 f 4 h 1 h 2 g 2 e 4
+f 1 d 4 h 1 g 2 e 3 g 1
+f 1 d 4 h 1 g 2 e 1 g 1 e 1
+d 3 g 3 e 2
+g 2 e 3
+g 1 e 3
+g 2 e 2
+h 4 g 1 e 1
+h 1 h 2 g 1 e 1
+h 1 h 1 g 2

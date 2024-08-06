@@ -1,0 +1,55 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/15/05"
+height 15
+id 25295
+link "https://www.griddlers.net/nonogram/-/g/25295"
+medium_time "0:10:09"
+points 2625
+popularity 70.34
+title "Flowers"
+width 15
+
+color a d9fedb
+color b ffcb00
+color c 00be00
+color d 0080fe
+color e 00d7fe
+color f ff8600
+color g ff1400
+color h 00e757
+
+rows
+e 1 d 1 e 2 h 2 c 1 c 1
+d 1 e 2 d 1 e 1 d 2 c 4
+e 1 d 1 e 1 d 3 c 4 h 1
+e 2 d 1 b 2 d 1 e 1 c 3 h 3
+d 2 b 1 d 3 e 1 c 2 h 3
+d 2 e 1 d 1 e 2 d 2 c 1 h 3
+d 1 e 2 d 2 e 1 h 1 c 1
+h 1 e 1 d 2 c 1 h 1 g 2 f 2 g 1 h 1
+h 4 c 1 f 2 g 2 f 1 g 1 f 2
+h 4 c 1 c 1 f 2 g 2 f 2 g 1
+h 3 c 3 g 3 b 2 g 2
+h 3 c 4 g 2 f 1 g 1 b 1 g 1 f 2
+h 3 c 3 f 2 g 4 f 1
+h 2 c 3 g 2 f 1 h 1 g 1
+h 1 c 3 g 1 f 1 h 2
+
+columns
+d 1 e 2 d 2 h 1 h 4
+e 2 d 1 e 1 d 2 e 2 h 5 c 1
+d 1 e 2 d 2 e 2 h 5 c 2
+d 2 b 2 d 3 h 3 c 4
+e 2 d 1 b 1 d 1 e 1 d 2 h 2 c 4
+e 1 d 4 e 2 h 1 c 4
+h 1 d 1 e 1 d 2 c 2 c 2
+h 1 e 1 d 1 h 2 f 1 c 1 g 2
+c 1 c 4 g 1 f 2 g 2 f 1
+c 3 h 1 g 2 f 1 g 1 f 2 g 2
+c 2 h 2 g 2 b 1 g 3 f 1
+c 2 h 3 f 2 g 1 b 2 g 1 f 1
+c 2 h 2 f 1 g 1 f 1 g 3 h 2
+c 1 h 2 g 1 f 2 g 1 f 1 g 2 h 1
+c 2 h 1 f 1 g 1 f 2

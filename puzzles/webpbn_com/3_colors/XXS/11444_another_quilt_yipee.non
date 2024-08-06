@@ -1,0 +1,31 @@
+by "koakuma (koakuma)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by koakuma"
+date "Dec 16, 2010"
+description "i tried doing an horse. i think it's okay, but..... well it looks like any animal, i think... PS : now that i look at it.... it looks like a cat. little black kitty meow~"
+difficulty 1.25
+height 5
+id 11444
+link "https://webpbn.com/play.cgi?id=11444"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "another quilt yipee~"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 2
+black 1 blue 1 black 2
+black 5
+black 3
+
+columns
+black 2
+black 1 blue 1 black 1
+black 5
+black 3
+black 2

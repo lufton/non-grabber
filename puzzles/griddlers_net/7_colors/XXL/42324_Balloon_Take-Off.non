@@ -1,0 +1,124 @@
+by "merel"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/5/07"
+height 50
+id 42324
+link "https://www.griddlers.net/nonogram/-/g/42324"
+medium_time "0:27:31"
+points 25072
+popularity 63.12
+title "Balloon Take-Off"
+width 50
+
+color a ccccff
+color b 3399ff
+color c 66ff66
+color d ffff99
+color e ffcc66
+color f 000000
+color g ffcccc
+
+rows
+b 7 c 5 b 7 d 6
+b 8 c 5 b 8 d 7
+b 7 c 6 b 9 d 7
+b 8 c 6 b 10 d 8
+b 8 c 7 b 9 d 8
+b 8 c 7 b 10 d 8
+b 8 c 7 b 10 d 8
+b 7 c 8 b 10 d 7
+b 7 c 8 b 10 d 7
+b 8 c 7 b 10 d 6
+b 8 c 7 b 10 d 6
+b 7 c 7 b 9 d 4
+b 7 c 6 b 10 d 3
+b 7 c 6 b 9
+b 7 c 5 b 9
+b 7 c 5 b 8
+b 6 c 5 b 7
+b 6 c 4 b 8
+b 1 e 1 b 2 c 2 e 1 c 1 b 5 e 1 b 1
+e 1 b 3 c 1 e 1 c 1 b 5 e 1
+e 1 e 2 e 1
+e 1 e 1 f 2 e 1
+e 1 g 1 d 2 g 2 g 1
+e 2 g 1 d 1 g 2 d 1 g 2 e 2 g 1
+e 1 g 3 d 1 c 2 g 2
+e 2 b 2 d 1 e 2
+e 7
+e 7
+e 7
+c 6 e 5
+c 9
+c 16
+c 18
+c 15 g 1 c 1 d 2 c 8
+c 14 g 1 c 2 g 2 c 16 c 1
+c 15 g 1 c 1 g 2 c 20 c 3
+c 16 g 1 e 2 g 1 c 15 g 1 c 1 d 2 c 1 g 1 c 9
+c 17 e 2 c 1 g 1 c 13 g 1 c 1 d 1 g 2 d 1 c 1 g 1 c 8
+c 17 e 2 c 1 g 1 c 14 g 1 d 1 g 2 d 1 g 1 c 9
+c 6 g 1 c 1 f 2 c 1 g 1 c 5 b 2 g 1 c 16 g 1 e 2 g 1 c 10
+c 5 g 1 c 2 g 2 c 2 g 1 c 4 b 2 c 17 d 1 e 2 d 1 c 10
+c 6 g 1 c 1 g 2 c 1 g 1 c 5 b 2 c 5 g 1 c 1 f 2 c 9 e 2 c 11
+c 7 g 1 e 2 g 1 c 5 f 4 c 3 g 1 c 1 f 1 g 2 f 1 c 8 b 2 c 11
+c 8 e 2 c 14 g 1 f 1 g 2 f 1 c 7 b 4 c 10
+c 8 e 2 c 15 g 1 e 2 g 1 c 6 b 6 c 9
+c 8 b 2 c 15 f 1 e 2 f 1 g 1 c 7 f 2 c 11
+c 8 b 2 c 16 e 2 c 1 g 1 c 20
+c 8 b 2 c 16 b 2 g 1 c 21
+c 7 f 4 c 14 b 4 c 21
+c 24 b 6 c 20
+
+columns
+c 21
+c 21
+c 21
+c 21
+c 21
+c 11 g 1 c 9
+c 9 g 1 c 1 g 1 c 8
+c 12 g 1 c 5 f 1 c 1
+b 8 c 9 f 1 g 2 e 3 b 3 f 1 c 1
+b 13 c 8 f 1 g 2 e 3 b 3 f 1 c 1
+b 16 c 11 g 1 c 5 f 1 c 1
+b 18 c 8 g 1 c 1 g 1 c 8
+b 18 c 9 g 1 c 9
+b 19 c 19
+b 18 e 3 c 3 g 1 c 15
+b 7 c 2 b 11 e 3 c 2 g 1 c 1 g 1 c 14
+b 2 c 12 b 6 e 2 c 4 g 1 c 5 f 1 c 7
+c 19 b 1 g 2 e 4 c 1 d 1 g 2 e 3 b 3 f 1 c 7
+c 20 d 1 g 1 e 5 d 1 g 2 e 3 b 3 f 1 c 7
+c 18 e 3 d 1 g 2 b 1 e 4 c 3 g 1 c 2 g 1 c 2 f 1 c 7
+c 20 e 2 d 1 g 2 b 1 e 4 c 4 g 2 c 11
+c 17 b 3 d 3 e 4 c 17
+b 4 c 8 b 8 f 1 g 2 c 1 e 5 c 17
+b 20 f 1 g 2 c 1 e 4 c 9 g 1 c 7
+b 20 e 1 g 1 c 8 g 1 c 1 g 1 c 5 b 1
+b 20 e 1 g 1 e 1 g 1 c 9 f 2 g 1 f 1 c 2 b 2
+b 18 e 3 g 1 c 8 f 1 g 2 e 3 b 3
+b 19 c 7 f 1 g 2 e 3 b 3
+b 18 c 8 f 2 g 1 f 1 c 1 g 1 b 2
+b 15 c 11 g 2 c 2 b 1
+b 13 c 16
+b 10 c 16
+b 6 c 16
+c 16
+c 3 g 1 c 12
+c 1 g 1 c 1 g 1 c 5 b 1 c 5
+c 2 d 2 g 1 d 1 c 2 b 2 c 5
+c 1 d 1 g 2 e 3 b 3 f 1 c 4
+c 1 d 1 g 2 e 3 b 3 f 1 c 4
+c 1 d 2 g 1 d 1 c 2 b 2 c 5
+g 1 c 1 g 1 c 5 b 1 c 5
+c 1 g 1 c 12
+d 4 c 14
+d 8 c 14
+d 11 c 14
+d 11 c 14
+d 12 c 14
+d 13 c 15
+d 13 c 15
+d 13 c 16

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Oct 27, 2020"
+description "Answer in first comment"
+difficulty 1.75
+height 20
+id 34626
+link "https://webpbn.com/play.cgi?id=34626"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Droodle 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 4 black 4 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 4 black 2 black 1
+black 1 black 1 red 1 black 2 red 1 black 1 black 1
+black 1 black 1 blue 1 black 2 blue 1 black 1 black 1
+black 1 black 2 black 4 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 4 black 4 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 20
+
+columns
+black 20
+black 1 black 1
+black 1 black 4 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1 red 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 4 black 1
+black 1 black 4 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 red 1 blue 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 4 black 1
+black 1 black 1
+black 20

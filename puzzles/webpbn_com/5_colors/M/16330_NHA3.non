@@ -1,0 +1,63 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Nov 11, 2011"
+description "New Home Adventures.. This is me handing over the keys and saying good bye to the old place. The landlord was a very tall lady. Or maybe I'm very short. ;)"
+difficulty 1.75
+height 20
+id 16330
+link "https://webpbn.com/play.cgi?id=16330"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "NHA#3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+black 2
+black 8
+black 3
+black 1
+black 1 black 3
+black 3 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1
+black 3 black 3 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 1 black 1 black 1
+red 3 black 3 black 1 black 1 black 3 black 1
+black 1 red 2 black 1 black 1 black 1 black 1
+black 1 red 2 green 3 black 1 black 1 black 1
+black 2 red 1 green 2 black 1 black 1 black 1 black 1
+red 3 black 1 black 1 green 2 black 1 black 1 black 1 black 1
+blue 3 green 1 black 2 black 1 black 1 black 1
+blue 3 blue 3 black 1 black 1 black 1
+blue 1 blue 1 blue 3 black 1 black 1 black 1
+blue 1 blue 1 blue 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+
+columns
+0
+black 3 red 1 black 3 red 1 blue 4 black 1
+black 4 red 3 black 1 red 1 blue 2
+black 3 red 5 blue 4 black 1
+black 1
+0
+black 1
+black 3 green 4 blue 3 black 1
+black 4 green 3 black 1 blue 2
+black 3 green 1 black 3 blue 3 black 1
+0
+black 1 black 11
+black 2 black 1
+black 19
+black 3
+black 1 black 1 black 6
+black 1 black 1 black 1
+black 1 black 6
+black 1
+black 1 black 14

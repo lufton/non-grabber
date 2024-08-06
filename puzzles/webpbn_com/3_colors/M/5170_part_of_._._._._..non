@@ -1,0 +1,61 @@
+by "Georgia Wren (teachno11)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Georgia Wren"
+date "Feb 28, 2009"
+description "a mask, a rug, a blanket, . . . ?"
+difficulty 2.25
+height 20
+id 5170
+link "https://webpbn.com/play.cgi?id=5170"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "part of . . . . ."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 2 black 2 red 4 black 2 red 2 black 1
+black 2 red 2 black 2 red 2 black 2 red 2 black 2
+red 1 black 2 red 2 black 2 black 2 red 2 black 2 red 1
+red 2 black 2 red 2 black 4 red 2 black 2 red 2
+red 2 black 2 red 1 black 2 red 1 black 2 red 2
+red 2 black 1 red 3 black 2 red 3 black 1 red 2
+red 1 black 3 red 1 red 1 black 3 red 1
+black 2 red 3 black 1 red 6 black 1 red 3 black 2
+black 1 red 1 black 3 red 2 black 3 red 1 black 1
+black 3 red 3 black 1 red 2 black 1 red 3 black 3
+red 2 black 14 red 2
+red 2 black 1 red 3 black 1 red 2 black 1 red 3 black 1 red 2
+black 3 red 1 black 3 red 2 black 3 red 1 black 3
+black 1 red 2 black 1 red 6 black 1 red 2 black 1
+black 2 red 2 black 2 red 1 red 1 black 2 red 2 black 2
+red 2 black 2 red 2 black 2 red 2 black 2 red 2
+red 2 black 2 red 2 black 4 red 2 black 2 red 2
+red 2 black 2 red 2 black 2 black 2 red 2 black 2 red 2
+red 1 black 2 red 2 black 2 red 2 black 2 red 2 black 2 red 1
+black 2 red 2 black 1 red 4 black 1 red 2 black 2
+
+columns
+black 2 red 2 black 1 red 2 black 1 red 2 black 1
+red 1 black 2 red 2 black 3 red 2 black 3 red 2 black 2
+red 2 black 2 red 2 black 1 black 1 red 2 black 2 red 1
+red 2 black 2 red 3 black 4 red 2 black 2 red 2
+red 2 black 3 red 1 black 1 red 2 black 2 red 2
+black 1 red 3 black 1 red 3 black 1 red 3 black 2 red 2
+black 2 red 1 black 3 red 1 black 1 red 1 black 3 red 2 black 2
+black 2 red 3 black 1 red 1 black 1 red 1 black 1 red 3 black 2
+red 1 black 2 red 1 black 5 red 1 black 2 red 1
+red 2 black 3 red 3 black 1 red 3 black 2 red 2
+red 2 black 3 red 3 black 1 red 3 black 2 red 2
+red 1 black 2 red 1 black 5 red 1 black 2 red 1
+black 2 red 3 black 1 red 1 black 1 red 1 black 1 red 3 black 2
+black 2 red 1 black 3 red 1 black 1 red 1 black 3 red 2 black 2
+black 1 red 3 black 1 red 3 black 1 red 3 black 2 red 2
+red 2 black 3 red 1 black 1 red 2 black 2 red 2
+red 2 black 2 red 3 black 4 red 2 black 2 red 2
+red 2 black 2 red 2 black 1 black 1 red 2 black 2 red 1
+red 1 black 2 red 2 black 3 red 2 black 3 red 2 black 2
+black 2 red 2 black 1 red 2 black 1 red 2 black 1

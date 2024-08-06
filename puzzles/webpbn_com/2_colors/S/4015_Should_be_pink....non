@@ -1,0 +1,47 @@
+by "Lucilla Schiaffino (guspilla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Lucilla Schiaffino"
+date "Nov 13, 2008"
+description "can you see it's a pig?"
+difficulty 2.25
+height 15
+id 4015
+link "https://webpbn.com/play.cgi?id=4015"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Should be pink..."
+width 15
+
+rows
+1,1
+3,3
+1,1,1,1
+10
+1,1,1,1
+1,1,1,1
+1,4,1
+1,2,2,1
+1,1,1,1,1,1
+1,2,2,1
+1,4,1
+1,1
+1,1
+8
+0
+
+columns
+0
+7
+2,1
+3,3,1
+2,3,1,1,1
+3,1,1,1,1
+1,1,1,1
+1,1,1,1
+3,1,1,1,1
+2,3,1,1,1
+3,3,1
+2,1
+7
+0
+0

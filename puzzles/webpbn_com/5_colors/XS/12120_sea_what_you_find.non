@@ -1,0 +1,43 @@
+by "gabby r (gabbyx0xo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by gabby r"
+date "Feb  8, 2011"
+description ""
+difficulty 1.0
+height 15
+id 12120
+link "https://webpbn.com/play.cgi?id=12120"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "sea what you find"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+green 1 red 1
+green 1 red 2
+green 1
+green 1
+green 1
+black 5
+black 5
+blue 1 black 3 blue 1
+blue 5
+blue 5
+blue 5
+blue 5
+
+columns
+black 2 blue 5
+black 3 blue 4
+green 5 black 3 blue 4
+red 2 black 3 blue 4
+red 1 black 2 blue 5

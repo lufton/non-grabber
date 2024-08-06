@@ -1,0 +1,123 @@
+by "GabrielMyCat (gabrielmycat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by GabrielMyCat"
+date "Nov  8, 2010"
+description "Well, that is really Doctor Who, but the circus has been claiming that for the longest time!! That is a lion with the blood of the tamer and his whip & chair. Inspired by the guy in Vegas who was eaten by his white tiger. Ok, I confess that I am in a mood. sorry to anyone I offend, but I thought it was funny."
+difficulty 3.5
+height 50
+id 10899
+link "https://webpbn.com/play.cgi?id=10899"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.25
+title "The Greatest Show on Earth!!"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 7
+blue 3 red 2 blue 3
+red 6 blue 3 blue 4 blue 3
+red 2 blue 4 red 2 blue 3 red 6 blue 3
+red 2 red 2 blue 6 red 2 blue 3 blue 8 blue 3
+red 2 red 1 blue 3 blue 1 red 2 blue 3 red 10 blue 3
+red 2 red 1 blue 2 blue 1 blue 1 blue 1 red 1 blue 3 blue 12 blue 3
+red 1 red 1 blue 2 blue 1 blue 1 red 1 blue 3 red 14 blue 3
+red 1 blue 3 red 3 blue 2 red 1 blue 3 blue 16 blue 3
+red 2 blue 9 red 1 red 1 blue 2 red 1 blue 3 red 18 blue 3
+red 2 black 1 green 8 blue 2 red 1 blue 2 red 1 blue 1 blue 18 blue 1
+green 10 blue 3 blue 3 red 1 blue 1 blue 1 red 16 blue 1 blue 1
+green 10 red 1 blue 5 red 1 blue 1 blue 1 red 1 red 1 blue 10 red 1 red 1 blue 1 blue 1
+green 10 red 5 blue 1 blue 1 red 1 red 1 blue 1 blue 1 red 1 red 1 blue 1 blue 1
+green 9 blue 1 blue 1 red 1 red 1 blue 1 blue 2 blue 1 red 1 red 1 blue 1 blue 1
+green 1 green 1 green 1 green 1 blue 1 blue 1 red 1 red 1 blue 1 blue 1 black 2 blue 1 blue 1 red 1 red 1 blue 1 blue 1
+green 1 green 2 green 1 green 2 blue 1 blue 1 red 1 red 1 blue 1 blue 1 black 4 blue 1 blue 1 red 1 red 1 blue 1 blue 1
+green 2 green 2 black 1 blue 1 blue 1 red 1 red 1 blue 1 blue 1 black 4 blue 1 blue 1 red 1 red 1 blue 1 blue 1
+red 5 black 1 blue 1 blue 1 red 3 blue 1 blue 1 black 4 blue 1 blue 1 red 3 blue 1 blue 1
+red 5 black 1 black 1 blue 1 blue 5 blue 1 black 4 blue 1 blue 5 blue 1
+red 8 black 1 black 1 black 1 blue 1 blue 1 black 4 blue 1 blue 1
+red 6 black 1 black 2 blue 22
+red 3 black 1
+red 2 black 1 green 2
+red 1 green 1 red 1 black 2 green 1 blue 1 green 1
+red 1 green 2 red 1 black 2 green 1 blue 2 green 1
+red 5 black 12 green 5
+red 1 green 1
+red 1 black 3 green 1
+green 1 red 8 green 1 black 1 green 10
+red 3 red 2 red 3 black 8 green 3 green 3
+red 3 red 1 red 1 red 3 green 3 green 4 green 3
+red 3 red 1 red 2 red 1 red 3 green 3 green 1 green 1 green 3
+red 3 red 1 red 1 red 1 red 1 red 3 green 3 green 1 green 4 green 1 green 3
+red 3 red 1 red 1 red 2 red 1 red 1 red 3 green 3 green 1 green 1 green 1 green 1 green 3
+red 3 red 1 red 1 red 1 red 1 red 1 red 1 red 3 green 3 green 1 green 1 green 4 green 1 green 1 green 3
+red 3 red 1 red 1 red 1 red 2 red 1 red 1 red 1 red 3 blue 1 green 2 green 1 green 1 green 1 green 1 green 1 green 1 green 2
+red 1 red 1 red 1 red 1 green 2 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 red 2 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 green 1 red 1 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 green 1 red 1 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 green 2 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 red 1 green 1 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 red 2 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 red 2 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 red 2 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 green 2 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 black 2 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 green 1 black 2 green 1 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 black 4 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 black 4 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 black 4 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 black 4 green 1 green 1 green 1 green 1
+red 1 red 1 red 1 red 1 black 4 red 1 red 1 red 1 red 1 green 1 green 1 green 1 green 1 black 4 green 1 green 1 green 1 green 1
+red 1 red 1 black 4 red 1 red 1 green 1 green 1 black 4 green 1 green 1
+green 2 red 23 green 24 red 1
+red 2 green 23 red 24 green 1
+
+columns
+red 2 red 1 green 1 red 1
+red 3 red 2 green 1 red 1
+red 4 red 15 green 1
+red 2 red 3 red 1 green 1
+red 1 red 3 red 1 green 1
+black 1 green 7 red 3 red 11 red 1 green 1
+blue 1 green 5 green 1 red 3 red 1 red 1 green 1
+blue 1 green 7 green 1 red 2 red 1 red 11 red 1 green 1
+blue 1 green 5 green 1 red 2 red 1 red 1 red 1 green 1
+blue 1 green 5 red 1 red 1 red 1 red 7 red 5 green 1
+blue 1 green 5 red 1 red 1 red 1 red 1 red 1 black 4 red 1 green 1
+blue 1 green 8 red 8 red 1 red 1 red 1 green 3 red 1 red 1 black 5 red 1 green 1
+blue 1 green 5 green 1 red 1 red 1 green 2 red 1 red 2 red 1 red 1 red 1 green 1 red 1 green 1 red 1 red 1 black 5 red 1 green 1
+red 4 blue 2 green 7 red 2 red 1 green 1 red 1 red 1 red 1 red 1 red 1 red 1 black 4 red 1 green 1
+red 2 blue 6 green 3 green 1 red 4 red 2 red 1 red 1 red 1 red 7 red 5 green 1
+red 2 blue 5 blue 2 red 1 red 4 red 1 red 2 red 1 red 1 red 1 green 1
+red 1 blue 3 blue 2 red 1 red 5 green 1 red 2 red 1 red 11 red 1 green 1
+red 1 blue 2 blue 1 red 2 blue 2 red 1 red 4 red 3 red 1 red 1 green 1
+red 1 blue 2 blue 1 red 1 red 1 blue 1 red 1 red 4 red 3 red 11 red 1 green 1
+red 1 blue 2 blue 1 red 2 blue 2 red 1 red 1 red 1 red 3 red 1 green 1
+red 2 blue 1 blue 3 red 1 red 1 black 5 red 3 red 1 green 1
+red 2 blue 1 blue 4 red 1 black 1 black 2 black 1 red 15 green 1
+red 2 blue 4 red 2 black 1 black 2 black 1 red 2 red 1 green 1
+red 5 black 1 black 1 black 1 red 1 red 1 green 1
+blue 1 black 5 black 1 black 1 red 1 green 1
+blue 2 black 1 black 1 green 1 red 1
+blue 15 black 1 black 3 green 1 red 1
+blue 3 blue 1 black 1 black 1 black 1 blue 1 green 1 red 1
+blue 3 red 1 blue 10 blue 1 black 1 black 1 black 1 green 2 green 1 red 1
+blue 3 blue 1 red 1 blue 1 red 8 blue 1 blue 1 black 1 green 15 red 1
+blue 3 red 1 blue 1 red 1 blue 1 red 1 red 1 blue 1 blue 1 black 1 green 3 green 1 red 1
+blue 3 blue 1 red 1 blue 1 red 1 blue 1 red 8 blue 1 blue 1 black 1 green 3 green 10 green 1 red 1
+blue 3 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 8 blue 1 black 1 green 3 green 1 green 1 red 1
+blue 2 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 1 black 1 green 3 green 1 green 10 green 1 red 1
+blue 2 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 6 green 3 green 1 green 1 green 1 red 1
+blue 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 1 black 5 blue 1 green 2 green 1 green 1 green 7 green 1 red 1
+blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 1 black 6 blue 1 green 1 green 1 green 1 green 1 green 5 red 1
+blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 1 black 6 blue 1 green 1 green 1 green 1 green 1 green 1 black 4 green 1 red 1
+blue 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 1 black 5 blue 1 green 7 green 1 green 1 green 1 red 1 green 1 red 2 green 1 black 5 green 1 red 1
+blue 2 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 6 green 1 blue 2 green 1 green 1 green 1 green 1 green 1 red 2 green 1 red 1 green 1 black 5 green 1 red 1
+blue 3 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 1 green 1 blue 1 green 1 green 1 green 1 green 1 green 1 green 1 black 4 green 1 red 1
+blue 3 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 8 blue 1 green 2 green 1 green 1 green 1 green 1 green 5 red 1
+blue 3 blue 1 red 1 blue 1 red 1 blue 1 red 8 blue 1 blue 1 green 1 green 2 green 1 green 1 green 7 green 1 red 1
+blue 3 red 1 blue 1 red 1 blue 1 red 1 red 1 blue 1 blue 1 green 3 green 1 green 1 green 1 red 1
+blue 3 blue 1 red 1 blue 1 red 8 blue 1 blue 1 green 3 green 1 green 10 green 1 red 1
+blue 3 red 1 blue 10 blue 1 green 3 green 1 green 1 red 1
+blue 3 blue 1 green 3 green 10 green 1 red 1
+blue 15 green 3 green 1 red 1
+blue 2 green 15 red 1
+blue 1 green 2 red 1 green 1

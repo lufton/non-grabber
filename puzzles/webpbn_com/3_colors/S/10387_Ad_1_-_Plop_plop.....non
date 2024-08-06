@@ -1,0 +1,50 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Sep 17, 2010"
+description "fizz, fizz or what a relief it is."
+difficulty 1.75
+height 17
+id 10387
+link "https://webpbn.com/play.cgi?id=10387"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Ad #1 - Plop, plop...."
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 black 5
+blue 1 black 4
+black 1 black 2
+black 1 black 6
+black 4 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 blue 1 black 1
+black 1 black 4
+black 1 blue 1 blue 1 black 1
+black 2 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 6
+black 1 black 1
+black 1 black 1
+
+columns
+0
+blue 2 black 3
+black 1
+black 8
+black 2 black 6
+black 2 black 1 blue 1 black 1
+black 4 blue 1 blue 1 black 1
+black 4 black 1 blue 1 black 1
+black 2 black 1 black 1 black 1
+black 1 black 2 black 8
+black 6
+0

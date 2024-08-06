@@ -1,0 +1,97 @@
+by "Robyn Broyles (ginkgo100)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Robyn Broyles"
+date "Jul  7, 2009"
+description "Our Lady of Guadalupe, traditionally depicted standing on a crescent moon"
+difficulty 3.0
+height 50
+id 6250
+link "https://webpbn.com/play.cgi?id=6250"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Moon walker"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1 red 1 red 2
+red 3 red 1 red 2 red 1
+red 1 red 2 blue 4 red 1 red 4
+red 3 blue 1 black 3 blue 2 red 3 red 1
+red 1 red 2 blue 1 black 1 black 3 blue 2 red 4
+red 1 red 1 blue 1 black 1 blue 2 red 2 red 1
+red 2 blue 1 black 1 black 1 black 1 blue 2 red 2 red 3
+red 4 blue 1 black 1 blue 3 red 2 red 1
+red 1 red 2 blue 1 black 1 black 1 blue 3 red 2 red 2
+red 1 red 1 blue 1 blue 4 red 1
+red 4 blue 1 red 2 blue 5 red 4
+red 1 red 2 blue 2 red 5 blue 5 red 3 red 1
+red 1 blue 3 red 1 red 2 blue 6 red 2
+red 6 blue 3 red 1 red 1 blue 6 red 1
+red 1 blue 3 red 1 red 1 blue 7 red 5
+red 1 blue 3 red 1 black 1 blue 6 red 1
+red 5 blue 2 red 2 black 2 red 1 blue 6 red 1
+red 1 blue 2 red 2 red 1 blue 6 red 5
+red 1 blue 3 red 1 red 2 blue 5 red 1
+red 4 blue 4 red 5 blue 5 red 1
+red 1 blue 4 red 5 blue 5 red 5
+red 1 blue 4 red 1 red 2 blue 2 blue 4 red 1
+red 4 blue 4 red 1 red 2 blue 2 blue 4 red 1
+red 1 blue 4 red 1 red 2 blue 3 blue 3 red 5
+red 1 blue 4 red 1 red 5 blue 2 red 1
+red 4 blue 3 red 1 red 6 blue 2 red 1
+red 1 blue 3 red 1 red 5 blue 1 blue 1 red 5
+red 1 blue 2 red 1 red 6 blue 1 blue 1 red 1
+red 4 blue 2 red 1 red 6 blue 1 blue 1 red 1
+red 1 blue 1 red 2 red 6 blue 1 blue 1 red 5
+red 1 blue 1 red 2 red 6 blue 1 blue 1 red 1
+red 4 blue 1 red 2 red 6 blue 1 blue 1 red 1
+red 1 blue 1 red 2 red 6 blue 1 blue 1 red 5
+red 1 blue 1 red 2 red 6 blue 1 blue 1 red 1
+red 4 blue 1 red 1 red 6 blue 1 blue 1 red 2 red 1
+red 1 blue 1 red 1 red 7 blue 1 blue 1 red 3
+red 1 blue 1 red 1 red 7 blue 1 blue 1 red 1
+red 4 blue 1 red 1 red 7 blue 1 blue 1 red 2 red 1
+red 1 black 1 blue 1 red 1 red 7 blue 1 blue 1 red 2
+red 1 black 1 blue 1 red 1 red 7 blue 2 blue 1 red 2
+red 1 black 2 blue 1 red 1 red 8 blue 1 blue 1 red 1 red 1
+red 1 black 3 blue 1 red 1 red 9 blue 1 blue 1 red 2 black 1 red 1
+red 1 black 2 blue 1 red 1 red 9 blue 2 blue 1 black 1 red 1
+red 1 black 1 blue 1 red 12 blue 1 blue 2 black 2 red 1
+red 2 blue 2 red 12 blue 1 black 2 red 2
+red 1 blue 2 red 2 red 9 black 4 red 1
+red 1 blue 3 black 4 red 8 black 3 red 1
+red 2 blue 3 red 2 black 7 red 4 red 1
+red 1 blue 2 red 2 red 1 red 1 red 1 red 4 red 2
+red 2 blue 1 red 1 red 1 red 1 red 1 red 2 red 1
+
+columns
+red 4 red 4 red 4 red 4 red 5 red 4
+red 4 red 4 red 4 red 4 red 4 black 4 red 3 red 3
+red 5 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 3 blue 3 red 1
+red 5 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 3 blue 6
+red 1 red 1 red 1 red 1 red 1 blue 29
+red 4 red 2 red 1 red 1 blue 14 red 3 red 2
+red 1 red 2 red 1 red 1 blue 15 red 17 black 1 red 2
+red 3 blue 4 red 1 blue 5 blue 7 red 7 red 2 black 1 red 1
+red 1 blue 1 black 1 black 1 blue 7 red 2 red 2 red 10 black 2 red 2
+blue 1 black 1 black 1 red 14 red 19 black 2
+red 2 blue 1 black 2 black 1 red 1 black 1 red 2 red 22 black 1
+blue 1 black 2 red 2 black 2 red 28 black 1 red 2
+blue 2 black 4 red 5 red 31 black 1
+red 2 blue 5 black 1 red 2 blue 3 red 3 blue 3 red 23 black 1
+red 2 red 1 blue 14 blue 3 red 23 black 1 red 2
+red 1 red 1 blue 14 blue 1 red 2 blue 14 red 8
+red 1 red 2 red 1 blue 15 blue 2 red 8
+red 3 red 1 red 1 blue 17 blue 4 red 4
+red 1 red 2 red 1 blue 23 blue 1 black 2 red 3
+red 3 red 1 red 1 blue 10 blue 7 blue 1 black 2 red 2
+red 1 red 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 blue 4 black 2
+red 3 red 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 2 black 2 red 2
+red 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 red 4
+red 3 red 3 red 4 red 4 red 4 red 5 black 3 red 1
+red 3 red 4 red 4 red 4 red 4 red 6

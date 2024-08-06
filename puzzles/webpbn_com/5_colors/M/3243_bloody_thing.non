@@ -1,0 +1,63 @@
+by "brandon lee glad (darthvader)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by brandon lee glad"
+date "Aug  9, 2008"
+description "im bored"
+difficulty 1.5
+height 20
+id 3243
+link "https://webpbn.com/play.cgi?id=3243"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "bloody thing"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 black 3 blue 1
+blue 1 black 3 blue 1
+blue 1 black 3 blue 1
+black 17 blue 1
+black 3 green 2 black 2 black 1 blue 1
+black 3 green 2 black 2 red 10 black 1 blue 1
+black 13 red 2 black 2 blue 1
+blue 1 black 3 red 3 blue 1
+blue 1 black 3 red 3 blue 1
+blue 1 black 3 red 3 blue 1
+blue 1 red 3 blue 1
+blue 1 red 3 blue 1
+blue 1 red 1 blue 1
+blue 1 blue 1
+blue 20
+
+columns
+blue 8 black 4 blue 8
+blue 1 black 4 blue 1
+blue 1 black 4 blue 1
+blue 1 black 1 green 2 black 1 blue 1
+blue 1 black 4 green 2 black 4 blue 1
+blue 1 black 10 blue 1
+blue 1 black 10 blue 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 black 1 red 5 blue 1
+blue 1 black 1 red 8 blue 1
+blue 1 black 1 red 7 blue 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 1 black 2 blue 1
+blue 1 blue 1
+blue 20

@@ -1,0 +1,63 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "May 16, 2004"
+description "An American flag, as you guess instantly from one glance at the top clues."
+difficulty 2.0
+height 20
+id 41
+link "https://webpbn.com/play.cgi?id=41"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Easily Guessed"
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1 blue 6
+black 1 blue 8
+black 1 blue 9
+black 1 blue 9 red 6
+black 1 blue 9 red 2
+black 1 blue 9 red 6 red 3
+black 1 blue 9 red 2
+black 1 blue 3 red 6 red 3
+black 1 red 6 blue 1 red 2
+black 1 red 2 red 6 red 3
+black 1 red 6 red 1 red 2
+black 1 red 2 red 6 red 3
+black 1 red 6 red 1 red 2
+black 1 red 2 red 6 red 3
+black 1 red 1 red 2
+black 1 red 6 red 3
+black 1 red 2
+black 1 red 3
+black 1
+
+columns
+black 20
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+blue 7 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1

@@ -1,0 +1,68 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by sanane samanye"
+date "Oct 13, 2019"
+description "...a lovely inanimate toy."
+difficulty 2.0
+height 30
+id 32885
+link "https://webpbn.com/play.cgi?id=32885"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Guess the Villain #4 / Violence in the form of Innocence"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+red 5
+red 3 red 3 black 1
+red 3 red 3 black 1
+red 3 red 3 black 2
+red 2 blue 1 red 1 blue 1 red 1 black 2
+red 2 red 1 black 2
+red 3 red 1 red 2 black 2
+red 3 red 3 black 2
+red 3 red 2 black 2
+green 1 blue 1 green 3 blue 1 green 1 black 2
+red 1 green 1 blue 1 red 3 blue 1 red 1 black 1
+red 2 blue 1 green 3 blue 1 red 2 green 2
+green 3 blue 5 red 1 green 1 red 1 green 1
+red 2 blue 5 green 1 red 1
+green 1 red 1 blue 5 red 1 black 1
+green 2 blue 5 black 1
+blue 3 blue 3
+blue 3 blue 3
+blue 2 blue 2
+blue 2 blue 3
+blue 2 blue 2
+red 2 red 4
+0
+0
+0
+
+columns
+0
+red 5 green 1 red 1 green 2
+red 7 red 2 green 1 red 2 green 1
+red 3 red 3 green 2 red 1 green 1 blue 5 red 1
+red 3 red 1 blue 12 red 1
+red 2 blue 1 red 1 green 1 red 1 green 1 blue 6
+red 1 green 1 red 1 green 1 blue 4
+red 2 red 1 green 1 red 1 green 1 blue 6 blue 2 red 1
+red 4 blue 1 red 2 blue 12 red 1
+red 3 red 3 green 1 red 3 blue 4 red 1
+red 6 red 1 green 2 red 1
+red 3
+black 10 green 1 black 2
+black 7 green 2
+0

@@ -1,0 +1,31 @@
+by "flores"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/13"
+height 5
+id 134652
+link "https://www.griddlers.net/nonogram/-/g/134652"
+medium_time "0:00:18"
+points 4
+popularity 62.75
+title "Duck"
+width 5
+
+color a ffffff
+color b f2f215
+color c ff4a0d
+color d 6633ff
+
+rows
+b 4
+b 2 d 1 b 1
+c 1 b 3
+c 3 b 2
+b 3
+
+columns
+c 1
+b 2 c 2
+b 3 c 1 b 1
+b 1 d 1 b 3
+b 5

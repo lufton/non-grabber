@@ -1,0 +1,61 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joel Lynn"
+date "Mar  5, 2013"
+description "Sobby box"
+difficulty 2.25
+height 20
+id 21270
+link "https://webpbn.com/play.cgi?id=21270"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "JL Spoonerism #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 11
+black 1 black 2
+black 1 black 1 black 1
+black 11 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 blue 1 blue 1 black 1 black 1
+black 5 blue 1 blue 1 black 1 black 1
+black 2 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 2 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 3 black 1 blue 1 black 2 black 1
+black 4 black 3 black 4
+black 3 black 1 black 1 black 1 black 1
+black 2 black 4
+black 11 black 2
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 3 black 3
+black 4 black 4
+
+columns
+0
+black 2
+black 4
+black 2 black 3
+black 2 black 3
+black 13
+black 2 black 2 black 1 black 1
+black 1 black 1 black 1 black 2 black 1 black 2
+black 1 black 1 black 1 blue 1 black 1 black 5
+black 1 black 1 black 1 blue 2 blue 1 black 1 black 5
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 5
+black 1 black 1 black 1 blue 1 black 1 black 5
+black 1 black 1 black 1 blue 3 blue 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 13
+black 1 black 1 black 2 black 1 black 1
+black 2 black 3 black 2
+black 13 black 3
+black 1

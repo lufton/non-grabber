@@ -1,0 +1,61 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jota"
+date "Oct  7, 2012"
+description "A country divided in half 54% socialist and hungry but numb with promises and 45% full of hope."
+difficulty 4.0
+height 20
+id 20005
+link "https://webpbn.com/play.cgi?id=20005"
+note "published,definitely unique,may require much guessing"
+quality 2.25
+title "SO SAD ... Venezuela, google it and you'll understand."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 3
+black 2 black 1
+black 2 black 4
+black 2 black 5 black 3
+black 2 black 4 black 3
+black 2 red 1 black 1
+black 1 red 3 black 1
+black 2 red 1 black 1
+black 3 red 3 black 2
+black 2 red 2 black 4
+black 2 red 2 black 1
+black 1 red 1 black 1
+black 3 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2
+black 2
+
+columns
+0
+black 3
+black 2 black 2
+black 4 black 1
+black 4 black 2
+black 1 black 2
+black 3 black 1
+black 1 black 2
+black 2 red 2 black 1
+black 2 red 3 black 2
+black 1 red 2 black 4
+black 1 red 3 black 1
+black 2 red 1 black 2
+black 1 red 1 black 3
+black 1 red 1 black 6
+black 2 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 4

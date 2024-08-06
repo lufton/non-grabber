@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Nov  7, 2018"
+description "Wrench"
+difficulty 2.5
+height 20
+id 31768
+link "https://webpbn.com/play.cgi?id=31768"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Crescent"
+width 35
+
+rows
+4
+7
+9
+11
+8
+5,2
+4,3
+8,2
+8,9
+12,6
+12,7
+11,7
+11,3
+11,1
+11
+11
+11
+2,6
+2,4
+5
+
+columns
+2
+4
+1,1
+2,1
+5
+6
+5
+6
+5
+6
+5
+6
+5
+6
+5
+6
+5
+6
+5
+6
+5
+6
+6
+7
+9
+4,1,1,1
+12
+4,1,1,3
+14
+6,5
+5,4
+4,3
+3,3
+2,2
+1,1

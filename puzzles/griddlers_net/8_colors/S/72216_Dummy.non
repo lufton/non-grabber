@@ -1,0 +1,47 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/22/08"
+height 11
+id 72216
+link "https://www.griddlers.net/nonogram/-/g/72216"
+medium_time "0:04:08"
+points 1128
+popularity 60.68
+title "Dummy"
+width 11
+
+color a cccccc
+color b ff9900
+color c cc6666
+color d ffffcc
+color e ffcc66
+color f ffeded
+color g ff9999
+color h ffcccc
+
+rows
+b 3
+c 2 b 1 d 2 e 1 b 1
+c 1 f 1 g 1 c 1 b 1 e 1 d 2 e 2 b 1
+c 1 f 1 g 2 b 1 e 5 b 1
+c 1 f 1 b 1 e 1 d 1 e 3 b 1
+c 1 f 1 g 1 b 1 e 2 b 2
+c 3 f 1 g 1 b 2 c 1
+c 1 h 2 c 1 f 2 g 2 c 1
+c 1 h 2 g 1 c 1 f 2 g 2 c 1
+c 2 h 1 g 1 c 3 f 2 c 1
+c 4 c 2
+
+columns
+c 2 c 4
+c 1 f 2 c 3 h 2 c 2
+c 1 g 2 f 2 c 1 h 3 c 1
+c 1 g 1 b 1 g 1 f 1 c 1 g 2 c 1
+b 2 e 1 b 1 g 1 f 1 c 3
+b 1 e 2 d 1 e 1 b 1 f 2 c 1
+b 1 d 2 e 3 b 1 g 1 f 1 c 1
+b 1 d 2 e 2 b 1 c 1 g 2 f 1 c 1
+b 1 e 4 b 1 c 1 g 1 f 1 c 1
+b 1 e 2 b 1 c 2
+b 2

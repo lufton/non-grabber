@@ -1,0 +1,78 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/9/18"
+height 28
+id 188181
+link "https://www.griddlers.net/nonogram/-/g/188181"
+medium_time "0:13:47"
+points 6981
+popularity 82.92
+title "Fairy from Sleeping Beauty"
+width 25
+
+color a ccccff
+color b 666666
+color c 000000
+color d ff0000
+color e ffffff
+color f ff99cc
+color g ffd9b4
+color h ffe365
+
+rows
+f 1
+f 2
+e 2 f 3
+h 1 e 1 d 1 e 2 f 4
+h 1 f 1 h 1 e 1 d 2 e 2 f 3
+h 1 e 1 b 1 d 3 e 3 f 1
+b 1 b 4 d 2 e 3 f 1
+b 1 e 1 g 1 b 3 d 2 e 4
+b 1 g 1 g 1 c 1 g 2 b 2 d 1 e 3
+g 1 b 1 g 1 d 1 g 3 c 1 g 1 b 1 e 3
+g 2 e 1 d 2 g 1 f 1 g 3 e 2 e 3
+e 4 d 3 g 3 e 1 e 4
+e 4 f 1 d 6 e 4
+f 2 e 1 f 2 d 10
+f 5 e 3 d 8
+f 5 e 4 d 9
+f 3 d 2 e 4 f 2 d 7
+d 4 f 2 e 3 f 4 d 5
+f 1 e 1 f 2 e 4 f 6 d 4
+f 1 e 2 f 2 e 2 f 7 d 3
+f 1 e 3 f 12 d 3
+f 1 e 4 f 11 d 3
+f 1 e 4 f 12
+f 1 e 5 f 11
+f 2 e 5 f 10
+f 1 e 5 f 9
+e 6 f 7
+e 5 f 5
+
+columns
+h 1 g 1
+h 1 f 1 h 1 b 4 g 1
+h 1 g 3 e 1
+e 3
+e 2
+e 2
+d 2 e 1 f 3 f 5
+d 3 f 5 d 1 f 2 e 4 f 2
+e 3 b 1 e 1 g 3 d 2 e 1 f 3 d 1 e 9
+e 1 d 2 b 2 g 1 c 1 g 1 f 1 g 1 d 1 f 4 d 1 f 1 e 9
+e 2 d 2 b 2 g 4 d 1 f 3 d 2 f 3 e 7
+e 2 d 1 b 2 g 1 c 1 g 2 d 2 e 2 d 1 f 1 e 1 f 4 e 5
+f 1 e 1 d 2 b 2 g 2 e 1 d 2 e 3 f 1 e 2 f 4 e 4
+f 3 e 1 d 2 b 2 e 1 d 2 e 6 f 6 e 2
+f 4 e 2 d 2 e 2 e 1 d 2 e 4 f 8
+f 5 e 5 e 2 d 3 e 2 f 10
+f 1 e 7 d 3 f 12
+f 1 e 2 e 3 d 3 f 12
+e 1 e 2 d 4 f 11
+d 4 f 11
+d 5 f 9
+d 6 f 6
+d 7 f 3
+d 7
+d 3 d 2

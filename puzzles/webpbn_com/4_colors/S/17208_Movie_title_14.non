@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan 17, 2012"
+description "A bit conceptual, and we don't have the color pallette. GRAND PRIZE once again is ABSOLUTELY NOTHING!"
+difficulty 1.25
+height 5
+id 17208
+link "https://webpbn.com/play.cgi?id=17208"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Movie title 14?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 8
+green 10 black 1 green 4
+green 11 black 1 green 8 black 1 green 9
+green 12 black 1 green 1 black 1 green 8 red 2
+green 13 green 5 red 2
+
+columns
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 1 black 1 green 2
+green 2 black 1 green 1
+green 4
+green 3
+green 3
+green 3
+green 3
+green 3
+green 3 black 1
+green 2 black 1 green 1
+black 1 green 2
+green 3
+green 4
+green 4
+green 4
+green 3
+green 3
+green 1 red 2
+green 1 red 2

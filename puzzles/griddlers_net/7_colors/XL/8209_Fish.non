@@ -1,0 +1,88 @@
+by "Makarios"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/6/04"
+height 32
+id 8209
+link "https://www.griddlers.net/nonogram/-/g/8209"
+medium_time "0:28:11"
+points 53755
+popularity 78.93
+title "Fish"
+width 32
+
+color a 00005c
+color b cbcb98
+color c 326565
+color d cc9866
+color e 659898
+color f 98cb98
+color g fffe65
+
+rows
+0
+b 1
+c 1 b 1 d 1
+c 1 b 1 d 1
+d 2 b 1
+d 2 c 4 b 2
+c 3 e 1 f 1 b 2 c 1 d 2 b 1
+d 2 c 5 e 1 f 2 b 2 c 1 d 1
+e 2 c 3 e 3 f 2 b 1
+e 1 c 2 e 5 f 2 b 1
+e 1 c 3 e 4 f 2 b 2 c 1
+e 1 c 4 e 4 f 2 b 2 d 1 c 2
+e 1 c 3 e 3 f 3 b 3 d 1 c 2
+e 1 c 3 e 3 f 2 b 4 d 2 c 1 e 1
+c 4 e 1 g 2 f 1 b 5 c 3
+c 4 e 2 g 2 b 5 c 3 e 1
+c 5 e 1 f 1 g 2 b 1 d 2 c 4 e 2
+c 1 e 4 b 2 d 2 c 1 d 1 c 4 e 3
+c 1 e 2 e 1 f 2 b 1 d 3 c 4 e 5 f 1
+c 1 e 5 f 1 c 3 e 4 f 2 b 1
+e 4 f 2 c 4 e 4 f 2 b 2 d 1
+c 4 e 3 f 3 b 3
+c 4 e 3 f 2 b 4
+c 4 e 1 g 2 f 1 b 5
+c 4 e 2 g 2 b 5
+c 4 e 1 f 1 g 2 b 1
+c 1 e 4 b 2 d 3
+e 4 f 2 b 1 d 2
+c 1 e 2 e 2 f 1 d 2
+e 4 f 2
+e 2 f 2
+0
+
+columns
+0
+c 2 e 1
+c 2 e 3
+c 2 e 4
+c 3 e 1 e 2
+e 1 c 3 e 3 f 1 c 1 e 2
+e 1 c 4 e 1 f 1 e 1 f 1 c 1 e 4
+e 1 c 3 e 2 f 2 c 2 e 4 f 1
+c 3 e 2 f 1 c 3 e 2 e 1 f 1
+e 1 c 2 e 1 g 3 b 2 c 4 e 3 f 1
+c 2 e 2 g 3 b 1 c 5 e 1 f 1 e 1 f 1
+e 1 c 2 e 2 f 1 b 1 d 2 c 3 e 2 f 2
+c 1 e 2 f 1 b 2 d 2 c 3 e 2 f 1
+d 1 e 1 c 1 e 2 f 2 b 3 d 1 c 2 e 1 g 3 b 2
+d 1 e 1 c 1 e 2 f 1 b 3 c 2 e 2 g 3 b 1
+c 1 e 3 f 1 b 3 c 3 e 2 f 1 b 1 d 2
+c 2 e 2 f 1 b 3 c 3 e 2 f 1 b 2 d 3
+c 2 e 1 f 2 b 2 d 2 c 1 e 2 f 2 b 3 d 1 d 1
+c 1 e 2 f 1 b 2 d 1 c 2 e 2 f 1 b 3
+c 1 e 2 b 2 c 1 e 3 f 1 b 3
+c 2 e 1 f 1 b 1 d 1 c 2 e 2 f 1 b 3
+d 1 c 1 e 1 f 2 c 2 e 1 f 2 b 2
+d 1 c 1 f 2 b 1 c 2 e 2 f 1 b 2
+e 1 f 1 b 1 d 1 c 3 e 2 b 2
+c 1 f 1 b 1 d 2 c 2 e 2 f 1 d 1
+c 1 b 2 c 4 e 2
+c 1 b 1 c 3 e 1
+c 1 d 1 c 2
+c 1 b 1 d 1 b 1 d 1
+b 1 d 1 b 2 d 1 c 1
+b 1 d 1 b 1 d 1
+0

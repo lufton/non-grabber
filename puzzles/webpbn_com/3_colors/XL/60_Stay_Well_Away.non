@@ -1,0 +1,86 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Jun 26, 2004"
+description "A Killer Whale. I added the water as a crutch to make the puzzle solvable."
+difficulty 2.25
+height 30
+id 60
+link "https://webpbn.com/play.cgi?id=60"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Stay Well Away"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3
+black 4
+black 4
+black 5
+black 7
+black 17
+black 21
+black 6 black 14
+black 6 black 14
+black 26
+black 2 black 21
+black 2 black 19
+black 2 black 17
+black 3 black 19
+black 9 black 5 black 5
+black 5 black 4 black 4 black 4
+black 5 black 4 black 4 black 3
+black 5 black 3 black 3 black 4
+black 3 black 3 black 2 black 3
+black 2 black 2 black 3
+black 2 black 4
+blue 1 blue 1 blue 1 blue 1 black 1 black 4 blue 1
+blue 3 blue 3 blue 3 blue 3 black 5 blue 3
+blue 4 blue 5 blue 5 blue 5 blue 3 black 5 blue 2 blue 1
+black 4
+black 3
+black 4
+black 6
+black 8
+black 4 black 4
+
+columns
+black 3 blue 1
+black 5 blue 1
+black 4 black 2 black 2 blue 1
+black 4 black 2 black 3 blue 2
+black 5 black 1 black 4 blue 2
+black 5 black 5 blue 2
+black 3 black 2 black 4 blue 1
+black 2 black 2 black 3 blue 1
+black 2 black 3 black 2 blue 1
+black 2 black 3 black 2 blue 2
+black 3 black 3 black 3 blue 2
+black 12 blue 2
+black 14 blue 1
+black 16 blue 1
+black 10 black 4 blue 1
+black 13 blue 2
+black 14 blue 2
+black 16 blue 2
+black 17 blue 1
+black 15 black 1 blue 1
+black 2 black 9 black 2 blue 1
+black 8 black 1 blue 2
+black 8 black 2 blue 2
+black 7 black 2 blue 2
+black 7 black 2 blue 1
+black 7 black 2 blue 1 black 1
+black 8 black 2 black 2
+black 13 black 3
+black 16
+black 12
+black 9
+blue 1 black 4
+blue 2 black 3
+blue 2 black 2
+blue 2 black 1

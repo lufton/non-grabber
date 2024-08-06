@@ -1,0 +1,61 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kim"
+date "Nov 22, 2013"
+description "The red saddle should be somewhat clear - the rest is the horse's body (or at least what I could fit!)"
+difficulty 2.5
+height 20
+id 23177
+link "https://webpbn.com/play.cgi?id=23177"
+note "published,definitely unique,may require some guessing"
+quality 2.75
+title "Kristen's answer"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 2
+black 4
+black 2
+black 2
+black 3 red 5
+black 1 black 2 red 7 black 4
+black 2 red 7 black 3
+black 1 red 7
+black 2 red 7
+black 1 red 7
+black 2 red 1 black 2
+black 2 red 1 black 2
+black 1 red 3 black 3
+black 2 red 1 red 1 black 2 black 1
+black 4 red 3 black 5 black 2
+black 1 black 1 black 2 black 1
+black 2 black 1 black 1 black 1
+black 1 black 2 black 2
+black 1 black 1 black 2
+
+columns
+black 3 black 2
+black 2 black 3
+black 2 black 3
+black 4 black 2
+black 2 black 3 black 3
+black 2 black 4
+black 1 black 1 black 2
+red 5 black 4
+red 6 black 1
+red 6 red 3
+red 9 red 1
+red 6 red 3
+red 6 black 1
+red 5 black 1
+black 1 black 1
+black 1 black 2
+black 1 black 4
+black 2 black 2 black 3
+black 1 black 5 black 2
+black 1 black 1 black 3 black 1

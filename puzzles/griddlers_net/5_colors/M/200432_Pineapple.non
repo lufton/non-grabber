@@ -1,0 +1,54 @@
+by "csuszopok"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/4/19"
+height 20
+id 200432
+link "https://www.griddlers.net/nonogram/-/g/200432"
+medium_time "0:06:03"
+points 1726
+popularity 79.4
+title "Pineapple"
+width 12
+
+color a ffffff
+color c 33cc00
+color d 006600
+color e ffcc00
+color f ff9900
+
+rows
+d 1
+d 2 d 1 c 2
+d 2 c 1 d 2 c 1 d 1 c 2 d 2
+d 1 c 1 d 3 c 1 d 2
+d 1 c 1 d 2 c 1 d 1 c 1 d 1
+d 2 c 2 d 2 c 1 d 4
+c 3 d 1 c 3
+d 3 c 4 d 3
+d 3 c 1 d 1 c 1
+d 6
+e 2 d 4 e 2
+f 2 e 6 f 2
+f 1 e 2 f 2 e 2 f 2 e 2 f 1
+f 1 e 4 f 2 e 4 f 1
+f 1 e 2 f 2 e 2 f 2 e 2 f 1
+f 3 e 6 f 3
+f 1 e 2 f 2 e 2 f 2 e 2 f 1
+f 1 e 3 f 2 e 3 f 1
+f 1 e 6 f 1
+f 6
+
+columns
+d 1 d 1 f 5
+d 1 d 1 d 1 f 1 e 3 f 1 e 1 f 1
+c 1 d 1 c 1 d 1 e 1 f 1 e 3 f 1 e 2 f 1
+d 2 c 1 d 1 c 2 d 3 e 2 f 1 e 1 f 1 e 1 f 1 e 2 f 1
+d 4 c 1 d 1 c 2 d 3 e 1 f 1 e 1 f 1 e 1 f 1 e 2 f 1
+c 1 d 3 c 2 d 3 e 2 f 1 e 3 f 1 e 1 f 1
+d 4 c 1 d 1 c 2 d 2 e 2 f 1 e 3 f 1 e 1 f 1
+c 2 d 1 c 2 d 3 e 1 f 1 e 1 f 1 e 1 f 1 e 2 f 1
+c 1 d 3 c 1 d 1 c 1 d 1 e 2 f 1 e 1 f 1 e 1 f 1 e 2 f 1
+c 2 d 1 c 1 d 1 c 1 d 1 e 1 f 1 e 3 f 1 e 2 f 1
+c 1 d 1 d 1 d 1 f 1 e 3 f 1 e 1 f 1
+d 1 d 1 f 5

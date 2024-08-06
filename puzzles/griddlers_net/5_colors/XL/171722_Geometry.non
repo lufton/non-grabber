@@ -1,0 +1,84 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/19/16"
+height 31
+id 171722
+link "https://www.griddlers.net/nonogram/-/g/171722"
+medium_time "0:16:32"
+points 27240
+popularity 90.31
+title "Geometry"
+width 31
+
+color a 000000
+color b ffffff
+color c 660066
+color d 990099
+color e cc00cc
+
+rows
+b 8 b 8
+b 8 e 13 b 8
+b 8 e 1 e 1 b 8
+b 8 e 1 b 9 e 1 b 8
+b 4 e 1 b 4
+b 4 c 16 e 1 c 3 b 4
+b 4 c 1 e 1 c 1 b 4
+b 4 c 1 b 1 e 1 b 9 e 1 b 1 c 1 b 4
+e 1 b 1 c 1
+d 7 e 1 d 3 b 1 d 7 c 1 d 3
+d 1 e 1 d 1 b 1 d 1 c 1 d 1
+d 1 b 1 c 1 b 1 e 1 b 1 d 1 b 1 d 1 b 1 e 1 b 1 c 1 b 1 d 1
+d 1 b 1 c 1 b 1 e 1 d 1 e 1 b 1 c 1 b 1 d 1
+d 1 b 1 c 1 b 1 e 3 d 1 e 7 b 1 c 1 b 1 d 1
+d 1 b 1 c 1 b 1 d 1 b 1 c 1 b 1 d 1
+d 1 b 1 c 1 b 5 d 1 b 1 d 1 b 5 c 1 b 1 d 1
+d 1 b 1 c 1 b 1 d 1 b 1 c 1 b 1 d 1
+d 1 b 1 c 1 b 1 e 7 d 1 e 3 b 1 c 1 b 1 d 1
+d 1 b 1 c 1 b 1 e 1 d 1 e 1 b 1 c 1 b 1 d 1
+d 1 b 1 c 1 b 1 e 1 b 1 d 1 b 1 d 1 b 1 e 1 b 1 c 1 b 1 d 1
+d 1 c 1 d 1 b 1 d 1 e 1 d 1
+d 3 c 1 d 7 b 1 d 3 e 1 d 7
+c 1 b 1 e 1
+b 4 c 1 b 1 e 1 b 9 e 1 b 1 c 1 b 4
+b 4 c 1 e 1 c 1 b 4
+b 4 c 3 e 1 c 15 b 4
+b 4 e 1 b 4
+b 8 e 1 b 9 e 1 b 8
+b 8 e 1 e 1 b 8
+b 8 e 13 b 8
+b 8 b 8
+
+columns
+b 8 b 8
+b 8 d 13 b 8
+b 8 d 1 d 1 b 8
+b 8 d 1 b 9 d 1 b 8
+b 4 d 1 b 4
+b 4 c 3 d 1 c 15 b 4
+b 4 c 1 d 1 c 1 b 4
+b 4 c 1 b 1 d 1 b 9 d 1 b 1 c 1 b 4
+c 1 b 1 d 1
+e 3 c 1 e 7 b 1 e 3 d 1 e 7
+e 1 c 1 e 1 b 1 e 1 d 1 e 1
+e 1 b 1 c 1 b 1 d 1 b 1 e 1 b 1 e 1 b 1 d 1 b 1 c 1 b 1 e 1
+e 1 b 1 c 1 b 1 d 1 e 1 d 1 b 1 c 1 b 1 e 1
+e 1 b 1 c 1 b 1 d 7 e 1 d 3 b 1 c 1 b 1 e 1
+e 1 b 1 c 1 b 1 e 1 b 1 c 1 b 1 e 1
+e 1 b 1 c 1 b 5 e 1 b 1 e 1 b 5 c 1 b 1 e 1
+e 1 b 1 c 1 b 1 e 1 b 1 c 1 b 1 e 1
+e 1 b 1 c 1 b 1 d 3 e 1 d 7 b 1 c 1 b 1 e 1
+e 1 b 1 c 1 b 1 d 1 e 1 d 1 b 1 c 1 b 1 e 1
+e 1 b 1 c 1 b 1 d 1 b 1 e 1 b 1 e 1 b 1 d 1 b 1 c 1 b 1 e 1
+e 1 c 1 d 1 e 1 b 1 e 1 c 1 e 1
+e 7 d 1 e 3 b 1 e 7 c 1 e 3
+d 1 b 1 c 1
+b 4 c 1 b 1 d 1 b 9 d 1 b 1 c 1 b 4
+b 4 c 1 d 1 c 1 b 4
+b 4 c 15 d 1 c 3 b 4
+b 4 d 1 b 4
+b 8 d 1 b 9 d 1 b 8
+b 8 d 1 d 1 b 8
+b 8 d 13 b 8
+b 8 b 8

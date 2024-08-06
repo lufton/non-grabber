@@ -1,0 +1,53 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/24/18"
+height 14
+id 188906
+link "https://www.griddlers.net/nonogram/-/g/188906"
+medium_time "0:03:55"
+points 598
+popularity 79.97
+title "Fox"
+width 18
+
+color a 3300ff
+color b 000000
+color c ff9933
+color d ffffff
+
+rows
+b 1
+d 1 b 1
+c 3
+c 1 b 1 c 3
+b 1 d 4 c 2
+d 3 c 3
+d 2 c 10
+d 1 c 12
+c 5 d 1 c 7
+c 3 d 3 c 2 c 3
+c 2 c 2 d 3
+c 1 c 1 d 3
+b 1 b 1 d 2
+b 1 b 1 d 1
+
+columns
+b 1
+d 1
+c 1 d 2
+c 1 b 1 d 3
+b 1 d 1 c 2 d 4
+b 1 c 7
+c 7
+c 7 b 2
+c 5
+c 3 d 1
+c 2 d 2
+c 3 d 1
+c 6 b 2
+c 5
+c 3
+c 3 d 4
+c 3 d 3
+c 2 d 2

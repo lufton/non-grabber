@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr  9, 2011"
+description "It doesn't fit in the pond, so it's just a small section of a cruise ship."
+difficulty 1.5
+height 20
+id 13275
+link "https://webpbn.com/play.cgi?id=13275"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "# 7 What's in my pond?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 12
+black 1 blue 10 black 1
+black 20
+black 1 black 1
+black 20
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 4 red 4 red 4 red 3
+0
+black 20
+black 1 black 2 black 2 black 2 black 2 black 1
+black 20
+0
+black 20
+black 1 black 2 black 2 black 2 black 2 black 1
+black 20
+0
+0
+black 20
+blue 20
+
+columns
+black 1 black 2 red 1 black 3 black 3 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 2 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 red 1 black 3 black 3 black 1 blue 1
+black 5 red 1 black 3 black 3 black 1 blue 1
+black 1 blue 1 black 1 black 2 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 blue 1 black 1 black 2 red 1 black 3 black 3 black 1 blue 1
+black 1 blue 1 black 1 black 1 red 1 black 3 black 3 black 1 blue 1
+black 1 blue 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 2 blue 1 black 1 black 2 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 2 blue 1 black 1 black 1 black 3 black 3 black 1 blue 1
+black 2 blue 1 black 1 black 2 red 1 black 3 black 3 black 1 blue 1
+black 2 blue 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 blue 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 6 red 1 black 3 black 3 black 1 blue 1
+black 1 black 1 black 3 black 3 black 1 blue 1
+black 1 black 2 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 red 1 black 3 black 3 black 1 blue 1

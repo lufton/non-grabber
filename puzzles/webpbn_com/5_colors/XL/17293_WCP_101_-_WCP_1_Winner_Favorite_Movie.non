@@ -1,0 +1,103 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan 22, 2012"
+description "This is my reconstruction of the WCP #1 winning entry. The character from #1 is included."
+difficulty 1.75
+height 40
+id 17293
+link "https://webpbn.com/play.cgi?id=17293"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #101 - WCP #1 Winner Favorite Movie"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 10 black 14 black 12
+black 3 black 5 black 12 black 5 black 5
+black 2 black 5 black 10 black 5 black 4
+black 2 black 5 black 8 black 5 black 4
+black 2 black 2 black 4 black 8 black 4 black 2 black 4
+black 3 black 3 black 3 black 8 black 3 black 3 black 5
+black 4 black 3 black 8 black 3 black 6
+black 14 black 8 black 16
+black 14 black 8 black 16
+black 15 black 6 black 17
+black 16 black 18
+red 1 black 38 red 1
+red 2 black 36 red 2
+red 4 black 33 red 3
+red 4 black 30 red 5
+red 4 red 1 black 25 red 5
+red 4 red 2 black 19 red 2 red 5
+black 1 red 3 red 2 black 16 red 2 red 4 black 1
+black 1 red 3 red 2 red 2 black 11 red 2 red 2 red 4 black 1
+black 2 red 2 red 2 red 2 red 5 red 2 red 2 red 3 black 2
+black 2 red 3 red 3 red 2 red 5 red 2 red 3 red 4 black 2
+black 2 red 7 red 2 red 5 red 2 red 8 black 2
+black 3 red 7 red 4 red 7 red 4 red 8 black 3
+black 3 red 34 black 3
+black 4 red 3 red 11 red 11 red 4 black 4
+black 4 red 2 red 4 red 4 red 5 red 3 red 1 black 6
+black 5 red 1 red 3 red 3 red 4 red 2 black 7
+black 7 red 3 red 3 red 4 red 2 black 9
+blue 1 black 8 red 3 red 3 red 4 red 2 black 9 blue 1
+blue 2 black 8 red 2 red 3 red 4 red 1 black 9 blue 2
+blue 3 black 34 blue 3
+blue 2 black 34 blue 4
+blue 1 black 36 blue 3
+black 38 blue 2
+black 39 blue 1
+black 6 blue 2 black 32
+black 5 blue 4 black 4 red 1 black 9 green 1 black 8 blue 1 black 7
+black 4 blue 6 black 3 red 1 red 1 black 5 blue 1 green 2 black 7 blue 3 black 6
+black 3 blue 8 black 2 red 1 black 9 green 1 black 6 blue 5 black 5
+black 2 blue 10 black 17 blue 7 black 4
+
+columns
+black 11 red 6 black 11 blue 5 black 7
+black 12 red 7 black 10 blue 3 black 8
+black 2 black 8 red 9 black 8 blue 1 black 8 blue 1
+black 1 black 7 red 11 black 14 blue 2
+black 1 black 7 red 6 black 11 blue 3
+black 1 black 8 red 6 black 9 blue 4
+black 1 black 2 black 8 red 5 black 8 blue 5
+black 2 black 2 black 8 red 9 black 7 blue 5
+black 3 black 1 black 9 red 9 black 8 blue 4
+black 4 black 9 red 7 black 8 blue 3
+black 4 black 9 red 7 black 8 blue 2
+black 16 red 8 black 9 blue 1
+black 1 black 16 red 8 black 10
+black 2 black 15 red 7 black 6 red 3 black 1
+black 3 black 10 red 4 black 7 black 2
+black 9 black 9 red 7 black 7 red 1 black 2
+black 10 black 8 red 8 black 10
+black 10 black 8 red 11 black 10
+black 10 black 8 red 6 black 10
+black 10 black 8 red 5 black 10
+black 10 black 8 red 6 black 10
+black 10 black 8 red 11 black 7 blue 1 black 2
+black 9 black 9 red 8 black 7 green 1 black 2
+black 3 black 10 red 7 black 6 green 3 black 1
+black 2 black 16 red 8 black 10
+black 1 black 16 red 8 black 10
+black 17 red 7 black 10
+black 4 black 11 red 4 black 10
+black 4 black 10 red 7 black 10
+black 3 black 1 black 10 red 7 black 10 blue 1
+black 2 black 2 black 9 red 9 black 10 blue 2
+black 1 black 2 black 9 red 8 black 10 blue 3
+black 1 black 9 red 5 black 9 blue 4
+black 1 black 8 red 5 black 11 blue 3
+black 1 black 9 red 5 black 13 blue 2
+black 2 black 9 red 11 black 14 blue 1
+black 14 red 10 black 7 blue 1 black 8
+black 13 red 9 black 8 blue 3 black 7
+black 12 red 7 black 10 blue 5 black 6
+black 11 red 6 black 11 blue 7 black 5

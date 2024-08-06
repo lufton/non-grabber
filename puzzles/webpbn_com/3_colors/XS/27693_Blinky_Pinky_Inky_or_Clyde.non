@@ -1,0 +1,37 @@
+by "Theodore Root ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Theodore Root"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.0
+height 8
+id 27693
+link "https://webpbn.com/play.cgi?id=27693"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Blinky, Pinky, Inky, or Clyde"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 1 red 1
+red 1 black 1 black 1 red 1
+red 1 red 1
+red 1 black 2 red 1
+red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+
+columns
+red 5 red 1
+red 1 red 1
+red 1 black 1 red 1
+red 1 black 1 red 1
+red 1 black 1 red 1
+red 1 black 1 red 1
+red 1 red 1
+red 6

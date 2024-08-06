@@ -1,0 +1,58 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 22, 2011"
+description "Now watch as these red pom-poms disappear!"
+difficulty 1.5
+height 20
+id 14840
+link "https://webpbn.com/play.cgi?id=14840"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Guess that profession!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 4
+black 4
+black 4
+0
+black 6 black 1
+green 1 green 1 black 1
+black 1
+red 1 black 1
+black 7 blue 1 black 1
+black 1 black 3
+black 1 black 3 red 1
+black 1 black 3 black 4
+blue 1 black 1 red 1 black 1 red 1 black 2
+black 3 black 6
+black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+blue 2 blue 2
+
+columns
+0
+black 1 black 3 blue 1
+black 3 black 1 black 1 blue 1
+black 3 black 1 green 1 black 4 black 5 blue 1
+black 3 black 1 red 1 black 4 black 2
+black 3 black 1 green 1 black 4 black 5 blue 1
+black 1 black 1 blue 1
+black 1
+black 1 black 5
+blue 1 black 1 red 1 black 1
+black 5 red 1 black 4
+black 1 red 1 black 1
+black 3
+black 5
+0

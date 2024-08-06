@@ -1,0 +1,104 @@
+by "Makarios"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/31/04"
+height 40
+id 8806
+link "https://www.griddlers.net/nonogram/-/g/8806"
+medium_time "0:59:44"
+points 60186
+popularity 90.75
+title "Fuchsia"
+width 40
+
+color a ffffff
+color b 8f9a32
+color c a43946
+color d 686d30
+color e dc495e
+color f 721016
+color g b9243b
+
+rows
+b 1
+b 2
+b 1
+b 2
+b 1 c 2
+b 1 d 1 e 1 c 1 f 1
+b 1 e 1 c 1 c 1 f 1
+b 1 f 1 c 2
+d 1 c 2 g 2
+d 2 b 2 c 1 f 1 g 2
+d 1 b 3 c 1 f 1 g 2
+d 1 b 1 d 1 b 2 c 1 f 1 g 2
+d 4 b 1 c 1 f 1 g 2
+d 3 e 3 c 1 f 1 g 2
+f 1 c 1 e 3 c 1 g 3
+f 1 c 1 g 1 e 3 e 1 g 2 c 1
+f 1 f 2 c 2 e 3 e 2 g 1 c 1
+c 1 f 2 c 2 g 1 e 3 c 2
+c 1 f 2 f 2 c 3 g 1 f 4 c 1 f 1 c 1 g 1 e 5
+f 1 g 1 f 2 f 2 c 3 f 6 g 1 e 7
+c 2 f 2 e 2 e 3 f 4 g 2 f 1 g 1 f 1 g 1 e 6 f 1
+c 3 f 1 g 3 e 3 g 2 f 5 g 2 c 2 e 5 f 2
+f 1 c 9 f 2 g 1 f 2 g 2 e 3 c 5 f 2
+c 2 e 3 e 3 f 1 c 6 f 3 g 1 f 3 g 1 e 7 f 2
+c 4 g 5 f 2 c 2 f 1 c 1 f 4 g 4 e 7
+c 10 f 4 c 1 f 2 g 4 e 8
+c 9 c 1 f 3 g 2 e 9
+c 1 g 1 c 2 e 10 f 1
+c 1 g 1 e 1 c 1 e 9 f 1 e 2
+c 1 g 1 e 1 c 1 e 8 f 2 e 3
+c 1 e 2 c 1 e 7 f 2 e 1 e 2
+e 5 f 6 e 1 e 1 e 2
+e 4 f 3 e 2 e 1 e 1
+e 3 f 3 e 2 e 2 c 2
+e 2 f 2 e 1 e 1 c 2
+e 2 e 2
+e 1 c 2 e 2
+c 1 e 1 e 2
+g 2
+g 2
+
+columns
+f 1 c 1
+c 2
+e 1 c 2
+b 2 e 1 c 2
+b 3 e 1 c 3
+b 3 f 1 c 2 g 1 c 2
+d 1 b 2 f 2 c 2 e 1 g 1 c 2
+d 1 f 1 g 1 c 2 e 1 g 1 c 2
+d 1 f 2 c 2 e 1 g 1 c 2
+d 4 f 3 c 1 f 1 g 1 c 2
+b 3 d 2 e 1 g 1 c 2 f 1 c 2
+b 2 d 3 e 1 g 1 c 2 f 1 c 2
+b 2 d 2 f 3 g 1 c 3 f 1 c 1
+b 2 e 1 c 2 f 2 e 1 c 3 f 1
+e 2 g 1 c 1 f 2 e 2 c 2 f 2
+e 3 c 2 f 2 e 2 c 3 f 1
+e 3 c 2 f 1 e 1 g 1 c 1 f 2 c 6 e 4
+e 2 g 1 c 2 f 1 g 1 f 5 g 3 e 5
+e 2 c 2 f 7 c 1 e 6 f 1
+e 1 e 1 g 1 c 1 f 2 g 2 f 1 g 1 f 1 c 4 e 2 f 2
+c 1 e 1 e 2 f 6 g 3 e 5 f 2
+c 1 f 1 c 7 e 2 c 1 f 2 g 1 f 3 g 3 e 4 f 3
+c 1 c 1 f 5 g 3 c 1 f 2 g 1 f 1 g 1 f 1 g 2 e 5 f 2
+c 1 f 1 c 2 g 8 c 1 f 3 g 4 e 6 f 1
+f 1 c 1 g 7 c 1 c 1 f 1 g 2 e 9 f 1
+f 3 c 1 e 9 f 1
+c 1 g 2 c 1 e 9 f 1
+g 1 e 3 c 1 e 7 f 1
+e 4 c 1 e 6 f 2 e 2
+e 4 c 1 e 5 f 2 e 2
+e 4 c 1 e 4 f 1 e 1 e 1 e 3
+e 4 c 1 f 1 e 2 e 1 e 2
+e 3 f 3 e 1 e 2 c 2
+e 1 f 3 e 2 e 1 c 1 e 1
+e 2 e 2
+e 2 e 2
+c 2 e 2
+c 2 e 1
+g 2
+g 2

@@ -1,0 +1,83 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Apr 28, 2011"
+description "Answer in first spoiler"
+difficulty 2.0
+height 30
+id 13664
+link "https://webpbn.com/play.cgi?id=13664"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "My turn at a band name"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 3
+green 1
+blue 3 green 1
+blue 1 green 1
+red 3 black 3
+red 5 black 5
+red 7 black 7
+red 7 black 9
+red 7 black 11
+red 7 black 13
+red 5 black 13
+red 3 black 13
+red 1 black 13
+black 13
+black 13
+black 5 black 13
+black 1 black 11
+black 1 black 9
+black 1 black 7
+green 3 black 5
+green 5 black 3
+green 9 black 1 red 3
+green 11 red 1
+green 11 blue 3
+green 11 blue 5
+green 9 blue 5
+green 5 blue 3
+green 1 blue 1
+
+columns
+0
+red 4
+red 6 green 3
+blue 1 red 8 green 5
+blue 2 red 9 green 5
+blue 1 red 8 black 1 green 7
+red 6 black 1 green 8
+red 4 black 4 green 9
+black 1 green 8
+black 1 green 7
+green 5
+green 5
+black 7 green 3
+black 9
+black 11
+black 13
+black 15
+green 1 black 17
+green 4 black 18
+green 1 black 17
+black 15
+black 13
+black 11 blue 2
+black 9 red 1 blue 4
+black 7 red 2 blue 5
+red 1 blue 4
+blue 2
+0
+0
+0

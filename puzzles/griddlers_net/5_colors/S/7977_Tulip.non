@@ -1,0 +1,52 @@
+by "Moonlight"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/25/04"
+height 20
+id 7977
+link "https://www.griddlers.net/nonogram/-/g/7977"
+medium_time "0:02:53"
+points 184
+popularity 46.29
+title "Tulip"
+width 10
+
+color a ffffff
+color c 00ff00
+color d ff2cbe
+color e ffa3fe
+color f ff00ff
+
+rows
+0
+0
+d 2
+d 4 e 3
+f 1 d 3 e 5
+f 3 d 1 e 6
+f 4 e 6
+f 5 e 5
+f 6 e 4
+f 7 e 3
+f 7 e 3
+f 6 e 3
+f 6 e 2
+f 7
+f 5 c 1
+f 5 c 1
+c 1 f 3 c 2
+c 4
+c 2
+c 1
+
+columns
+f 6
+f 10
+d 2 f 11 c 1
+d 4 f 11 c 1
+d 3 e 2 f 10 c 1
+d 1 e 4 f 9 c 1
+e 5 f 7 c 3
+e 10 f 1 c 3 c 2
+e 10
+e 9

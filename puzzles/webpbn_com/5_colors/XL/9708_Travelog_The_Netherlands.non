@@ -1,0 +1,103 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Jul 22, 2010"
+description "Windmills and Tulips"
+difficulty 2.0
+height 40
+id 9708
+link "https://webpbn.com/play.cgi?id=9708"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Travelog: The Netherlands"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 40
+blue 9 blue 2 blue 24
+blue 3 red 3 blue 1 blue 23
+blue 3 red 3 blue 1 blue 23
+blue 3 red 3 blue 3 blue 24
+blue 3 red 3 blue 3 blue 1 blue 1 blue 13 blue 8
+blue 3 red 3 blue 22 blue 7
+blue 3 red 3 blue 21 blue 6
+blue 3 red 3 blue 21 blue 5
+blue 3 red 3 blue 22 blue 5
+blue 4 red 1 blue 25 blue 4
+blue 4 red 1 blue 26 blue 8
+blue 4 red 1 blue 35
+red 2 blue 2 red 1 blue 3 red 9 blue 23
+red 17 blue 23
+red 2 black 2 red 1 black 2 blue 1 red 9 blue 23
+blue 1 black 3 red 1 black 3 blue 32
+blue 1 black 3 red 1 black 4 blue 31
+black 3 red 3 black 4 blue 21 red 3 blue 6
+blue 1 red 3 blue 22 red 3 blue 6
+blue 1 red 3 blue 22 red 3 blue 6
+blue 1 red 3 blue 22 red 3 blue 6
+blue 1 red 3 blue 22 red 3 blue 6
+blue 1 red 3 blue 16 red 5 blue 1 black 1 red 1 black 1 blue 1 red 5
+blue 1 red 3 blue 9 red 2 blue 5 red 15
+blue 1 red 3 blue 9 red 2 blue 5 red 5 black 2 red 1 black 2 red 5
+blue 1 red 3 blue 6 red 2 black 1 red 1 black 1 blue 9 black 2 red 3 black 2 blue 4
+blue 1 red 3 blue 6 red 7 blue 8 red 3 blue 5
+blue 1 blue 8 red 1 red 2 blue 8 red 3 blue 5
+blue 1 black 1 black 1 black 1 black 1 blue 8 red 2 blue 10 red 3 blue 5
+blue 1 blue 8 red 2 blue 10 red 3 blue 5
+blue 1 blue 8 blue 2 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 blue 1 red 1 blue 1 red 1 blue 1
+green 1 green 1 red 1 green 1 red 1 green 1 red 1 green 15 black 1 black 1 black 1 green 5
+green 1 green 8 red 1 green 1 red 1 green 2 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 green 1 red 1 green 1 red 1 green 1
+green 1 green 1 red 1 green 1 red 1 green 1 red 1 green 15 green 5
+green 1 green 8 red 1 green 1 red 1 green 2 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 green 1 red 1 green 1 red 1 green 1
+green 1 green 1 red 1 green 1 red 1 green 1 red 1 green 15 green 5
+green 17 red 1 green 1 red 1 green 2 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 25
+green 17 red 1 green 1 red 1 green 2 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+
+columns
+blue 13 red 3 blue 2 black 1 blue 13 green 6 red 1 green 1
+blue 13 red 3 black 3 black 1 green 3
+blue 14 red 1 black 4 green 1 red 1 green 1
+blue 2 red 8 blue 4 red 1 black 3 red 10 black 1 green 3
+blue 2 red 26 green 1 red 1 green 1
+blue 2 red 8 blue 4 red 1 black 3 red 10 black 1 green 3
+blue 14 red 1 black 4 green 1 red 1 green 1
+blue 2 blue 10 red 1 blue 1 black 3 black 1 green 3
+blue 2 blue 9 red 3 blue 1 black 2 green 1 red 1 green 1
+blue 1 blue 7 red 3 blue 2 black 1 blue 13 green 8
+blue 1 blue 8 red 3 blue 16 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+blue 1 blue 7 red 3 blue 16 green 8
+blue 2 blue 7 red 3 blue 16 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+blue 2 blue 7 red 3 blue 16 green 8
+blue 1 blue 8 red 3 blue 16 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+blue 1 blue 7 red 3 blue 10 red 2 blue 4 green 8
+blue 2 blue 1 blue 7 red 3 blue 10 red 2 blue 4 green 8
+blue 26 black 1 red 1 red 2 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 24 red 7 green 8
+blue 24 red 2 black 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 27 red 2 blue 3 green 8
+blue 27 red 2 blue 3 green 8
+blue 31 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 32 green 8
+blue 31 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 23 red 3 blue 6 green 8
+blue 23 red 3 blue 5 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 7 blue 14 red 3 blue 6 green 8
+blue 6 blue 13 red 3 blue 5 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 6 blue 13 red 3 black 1 blue 5 green 8
+blue 5 blue 13 red 1 black 2 black 1 red 1 green 1 red 1
+blue 5 blue 6 red 5 black 1 red 1 black 1 red 5 green 3
+blue 6 blue 7 red 13 black 1 red 1 green 1 red 1
+blue 7 blue 7 red 5 black 1 red 1 black 1 red 5 green 3
+blue 8 blue 13 red 1 black 2 black 1 red 1 green 1 red 1
+blue 10 blue 12 red 3 black 1 blue 5 green 8
+blue 23 red 3 blue 5 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 23 red 3 blue 6 green 8
+blue 23 red 3 blue 5 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1
+blue 23 red 3 blue 6 green 8

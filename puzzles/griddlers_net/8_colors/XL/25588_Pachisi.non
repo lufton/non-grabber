@@ -1,0 +1,107 @@
+by "debwegner"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/26/05"
+height 41
+id 25588
+link "https://www.griddlers.net/nonogram/-/g/25588"
+medium_time "0:27:59"
+points 42998
+popularity 76.67
+title "Pachisi"
+width 41
+
+color a e4e4cf
+color b 000000
+color c fbfb12
+color d ff0000
+color e 00d700
+color f 0000ff
+color g ffffff
+color h c18c22
+
+rows
+e 13 b 2 g 1 b 2 f 13
+e 1 g 11 e 1 e 5 f 1 g 11 f 1
+e 1 g 1 e 5 g 1 e 1 e 5 f 1 g 1 f 1 f 5 g 1 f 1
+e 1 g 1 e 1 f 1 h 3 e 2 g 1 e 1 e 5 f 1 g 1 f 1 h 1 f 5 g 1 f 1
+e 1 g 1 e 1 f 3 h 2 f 1 e 2 g 1 e 1 c 1 e 5 f 1 g 1 f 2 h 2 f 4 g 1 f 1
+e 1 g 1 e 1 h 1 f 3 h 2 f 1 e 1 g 1 e 1 e 5 f 1 g 1 f 1 h 1 f 4 g 1 f 1
+e 1 g 1 e 1 h 2 f 3 h 1 f 1 e 1 g 1 e 1 b 2 e 1 b 2 e 5 b 2 g 1 b 2 f 1 g 1 f 1 h 2 f 4 g 1 f 1
+e 1 g 1 e 1 h 3 f 4 e 1 g 1 e 1 e 5 f 1 g 1 f 2 h 2 f 5 g 1 f 1
+e 1 g 1 e 1 f 2 h 1 f 3 e 2 g 1 e 1 e 5 f 1 g 1 f 9 g 1 f 1
+e 1 g 1 e 1 f 4 e 2 g 1 e 1 e 5 f 1 g 1 f 7 g 1 f 1
+e 1 g 1 e 5 e 1 g 1 e 1 e 5 f 1 g 1 f 1 f 5 g 1 f 1
+e 1 g 11 e 1 e 5 f 1 g 11 f 1
+e 13 e 5 f 13
+b 1 e 5 b 1
+b 1 e 5 b 1
+g 1 b 11 g 1 e 1
+b 1 b 1 g 9 b 1 b 1
+b 1 b 1 g 1 e 6 f 1 g 1 b 1 b 1
+b 1 c 14 b 1 g 1 c 1 e 4 f 2 g 1 b 1 f 14 b 1
+b 1 c 14 b 1 g 1 c 2 e 2 f 3 g 1 b 1 f 14 b 1
+g 1 c 14 b 1 g 1 c 3 f 4 g 1 b 1 f 14 g 1
+b 1 c 14 b 1 g 1 c 2 d 2 f 3 g 1 b 1 f 14 b 1
+b 1 c 14 b 1 g 1 c 1 d 4 f 2 g 1 b 1 f 14 b 1
+b 1 b 1 g 1 d 6 f 1 g 1 b 1 b 1
+b 1 b 1 g 9 b 1 b 1
+e 1 g 1 b 11 c 1
+b 1 d 5 b 1
+b 1 d 5 b 1
+c 13 d 5 d 13
+c 1 g 11 c 1 d 5 d 1 g 11 d 1
+c 1 g 1 c 5 g 1 c 1 c 1 d 5 d 1 g 1 d 1 h 1 d 5 h 2 g 1 d 1
+c 1 g 1 c 1 h 5 c 1 g 1 c 1 f 1 d 5 d 1 g 1 h 1 d 2 d 2 h 1 g 1 d 1
+c 1 g 1 c 1 h 2 h 2 c 1 g 1 c 1 d 5 d 1 g 1 d 2 d 1 d 2 g 1 d 1
+c 1 g 1 c 1 h 1 h 1 c 1 g 1 c 1 d 5 d 1 g 1 d 2 d 2 d 2 g 1 d 1
+c 1 g 1 c 1 h 1 h 1 c 1 g 1 c 1 b 2 c 1 b 2 d 5 b 1 d 1 d 1 b 1 d 1 g 1 d 3 d 1 d 2 g 1 d 1
+c 1 g 1 c 2 h 1 h 1 c 2 g 1 c 1 d 5 f 1 d 1 g 1 d 2 d 2 d 3 g 1 d 1
+c 1 g 1 c 3 e 3 c 3 g 1 c 1 d 5 d 1 g 1 d 2 d 3 d 2 g 1 d 1
+c 1 g 1 c 1 e 5 c 1 g 1 c 1 d 5 d 1 g 1 h 1 d 7 h 1 g 1 d 1
+c 1 g 1 c 5 g 1 c 1 d 5 d 1 g 1 h 2 d 5 h 2 g 1 d 1
+c 1 g 11 c 1 d 5 d 1 g 11 d 1
+c 13 b 2 d 1 b 2 d 13
+
+columns
+e 13 b 2 g 1 b 2 c 13
+e 1 g 11 e 1 c 5 c 1 g 11 c 1
+e 1 g 1 e 5 g 1 e 1 c 5 c 1 g 1 c 5 g 1 c 1
+e 1 g 1 e 1 f 1 h 3 f 1 e 1 g 1 e 1 c 5 c 1 g 1 c 1 h 3 c 3 g 1 c 1
+e 1 g 1 e 1 f 3 h 2 f 2 e 1 g 1 e 1 c 5 c 1 g 1 c 1 h 2 h 1 c 1 e 1 c 1 g 1 c 1
+e 1 g 1 e 1 h 1 f 3 h 2 f 1 e 1 g 1 e 1 c 5 e 1 c 1 g 1 c 1 h 1 e 2 c 1 g 1 c 1
+e 1 g 1 e 1 h 2 f 5 e 1 g 1 e 1 b 2 g 1 b 2 c 5 b 2 g 1 b 2 c 1 g 1 c 1 h 1 e 2 c 1 g 1 c 1
+e 1 g 1 e 1 h 3 f 4 e 1 g 1 e 1 c 5 c 1 g 1 c 1 h 1 e 2 c 1 g 1 c 1
+e 1 g 1 e 2 f 1 h 2 f 2 e 2 g 1 e 1 c 5 c 1 g 1 c 1 h 2 h 1 c 1 e 1 c 1 g 1 c 1
+e 1 g 1 e 2 f 3 e 2 g 1 e 1 c 5 c 1 g 1 c 1 h 3 c 3 g 1 c 1
+e 1 g 1 e 5 e 1 g 1 e 1 c 5 c 1 g 1 c 5 g 1 c 1
+e 1 g 11 e 1 c 5 c 1 g 11 c 1
+e 13 c 5 c 13
+b 1 c 5 b 1
+b 1 c 5 b 1
+c 1 e 1 b 11 c 1 f 1 c 1
+b 1 b 1 g 9 b 1 b 1
+b 1 b 1 g 1 e 1 c 5 d 1 g 1 b 1 b 1
+b 1 e 14 b 1 g 1 e 2 c 3 d 2 g 1 b 1 d 14 b 1
+b 1 e 14 b 1 g 1 e 3 c 1 d 3 g 1 b 1 d 14 b 1
+g 1 e 14 b 1 g 1 e 3 f 1 d 3 g 1 b 1 d 15
+b 1 e 14 b 1 g 1 e 2 f 3 d 2 g 1 b 1 d 14 b 1
+b 1 e 14 b 1 g 1 e 1 f 5 d 1 g 1 b 1 d 14 b 1
+b 1 b 1 g 1 f 7 g 1 b 1 b 1
+b 1 b 1 g 9 b 1 d 1
+g 1 b 11 f 1
+b 1 f 5 d 1
+b 1 f 5 b 1
+f 13 f 5 d 13
+f 1 g 11 f 1 f 5 d 1 g 11 d 1
+f 1 g 1 f 1 f 5 f 1 g 1 f 1 f 5 d 1 g 1 d 1 h 1 d 5 h 2 g 1 d 1
+f 1 g 1 f 2 f 3 g 1 f 1 f 5 d 1 g 1 h 1 d 7 h 1 g 1 d 1
+f 1 g 1 f 1 h 1 h 1 f 3 g 1 f 1 f 5 d 1 g 1 d 2 d 1 d 2 g 1 d 1
+f 1 g 1 f 2 h 1 h 2 f 3 g 1 f 1 f 5 d 1 g 1 d 1 d 4 g 1 d 1
+f 1 g 1 f 2 h 3 f 4 g 1 f 1 b 2 g 1 b 2 f 5 b 2 c 1 b 2 d 1 g 1 d 1 d 6 g 1 d 1
+f 1 g 1 f 9 g 1 f 1 f 5 d 1 g 1 d 1 d 2 d 3 g 1 d 1
+f 1 g 1 f 9 g 1 f 1 f 5 d 1 g 1 d 2 d 1 d 2 g 1 d 1
+f 1 g 1 f 7 g 1 f 1 e 1 f 5 d 1 g 1 h 1 d 7 h 1 g 1 d 1
+f 1 g 1 f 5 g 1 f 1 f 5 d 1 g 1 h 2 d 5 h 2 g 1 d 1
+f 1 g 11 f 1 f 5 d 1 g 11 d 1
+f 13 b 2 g 1 b 2 d 13

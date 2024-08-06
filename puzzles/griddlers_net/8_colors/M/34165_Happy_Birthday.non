@@ -1,0 +1,70 @@
+by "solo222"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/2/06"
+height 30
+id 34165
+link "https://www.griddlers.net/nonogram/-/g/34165"
+medium_time "0:05:27"
+points 923
+popularity 59.56
+title "Happy Birthday!"
+width 15
+
+color a 397308
+color b ffff00
+color c ff0000
+color d 9c9c00
+color e ffcece
+color f 000000
+color g ffffff
+color h ff639c
+
+rows
+b 1
+b 2
+b 3
+b 5
+b 2 c 1 b 3
+b 1 c 3 b 2
+b 1 c 3 b 2
+b 1 c 1 b 2
+d 1
+e 5 d 1 e 5
+e 2 f 2 e 3 d 1 e 2 f 1 e 4
+e 4 f 6 e 5
+e 1 g 2 e 12
+e 15
+e 15
+e 3 f 3 e 2 f 1 e 6
+e 2 f 1 g 3 f 2 g 1 f 2 e 1 f 1 e 2
+e 1 g 5 f 1 g 3 f 1 g 1 e 1
+e 1 g 3 f 5 g 3 e 1
+e 1 g 2 f 7 g 2 e 1
+g 2 f 2 b 3 f 2 g 2
+h 1 f 4 b 3 f 4 h 1
+h 13
+h 3 f 1 h 5 f 1 h 3
+h 4 f 1 h 3 f 1 h 4
+h 5 f 3 h 5
+h 13
+h 13
+h 13
+h 13
+
+columns
+e 10
+e 2 g 1 e 4 h 9
+e 1 f 1 e 1 g 1 e 3 f 1 g 4 f 1 h 8
+e 1 f 1 e 4 f 1 g 5 f 1 h 8
+e 2 f 1 e 3 f 1 g 3 f 3 h 1 f 1 h 6
+b 3 e 2 f 1 e 3 f 1 g 2 f 4 h 2 f 1 h 5
+b 2 c 2 b 1 e 2 f 1 e 4 f 1 g 1 f 2 b 2 h 3 f 1 h 4
+b 4 c 4 d 3 f 1 e 4 f 4 b 2 h 3 f 1 h 4
+b 4 c 2 b 1 e 2 f 1 e 3 f 1 g 2 f 2 b 2 h 3 f 1 h 4
+b 6 e 2 f 1 e 4 f 1 g 1 f 4 h 2 f 1 h 5
+b 4 e 1 f 1 e 5 f 1 g 2 f 3 h 1 f 1 h 6
+e 8 f 1 g 3 f 1 h 8
+e 7 f 1 g 4 f 1 h 8
+e 7 h 9
+e 10

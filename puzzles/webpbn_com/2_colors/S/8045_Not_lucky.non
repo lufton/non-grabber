@@ -1,0 +1,47 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gator"
+date "Mar 15, 2010"
+description "3 leaf clover"
+difficulty 1.75
+height 15
+id 8045
+link "https://webpbn.com/play.cgi?id=8045"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Not lucky"
+width 15
+
+rows
+3
+5
+2,2,2
+4,2,5
+4,1,2,1
+3,1,2,4
+4,1,4
+4,2
+5
+7
+3,1,2
+3,3,2
+2,3,2
+2,2,2
+3,2
+
+columns
+3,3
+5,5
+2,3,3,1
+2,4,2,3
+2,3,1,3
+2,2,1,2
+9
+3
+6
+2,1,2
+2,3,2
+1,3,3
+2,2,2
+2,2
+3

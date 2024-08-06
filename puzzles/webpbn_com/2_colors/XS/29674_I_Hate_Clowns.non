@@ -1,0 +1,33 @@
+by "Angelo Guzzo (guzzmaster)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Angelo Guzzo"
+date "Apr 12, 2017"
+description "As a child, I have always had a fear of clowns. This puzzle is made in the honour of clowns."
+difficulty 1.25
+height 8
+id 29674
+link "https://webpbn.com/play.cgi?id=29674"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "I Hate Clowns"
+width 8
+
+rows
+0
+2,2
+2,2
+0
+2
+1,2,1
+1,1
+6
+
+columns
+1
+2,2
+2,1
+2,1
+2,1
+2,1
+2,2
+1

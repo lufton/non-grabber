@@ -1,0 +1,78 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "Mar 12, 2014"
+description "Mr. Cat keeps an eye on Igor while he practices his pole vault."
+difficulty 2.25
+height 25
+id 24001
+link "https://webpbn.com/play.cgi?id=24001"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "14 - 18 Up and over"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 blue 1
+black 2 blue 2
+green 1 blue 2
+black 2 green 1 blue 4 blue 7
+green 1 blue 13
+black 2 green 3 blue 1 blue 14
+black 2 green 1 green 1 blue 1 blue 4 black 1 blue 3
+red 1 black 2 black 1 blue 1 red 2 blue 3
+black 2 red 1 black 2 blue 1 black 1 red 2 black 1
+red 1 blue 1 black 1 red 2 black 1
+red 3 blue 1 black 1 red 2 black 1
+red 1 red 1 black 1 blue 1 red 2 black 1
+black 2 black 1 blue 1 red 2 black 1
+blue 1 red 1 black 1 black 1
+black 1 blue 1 black 1 black 1
+black 1 green 1 black 1 blue 1 black 1 black 1
+black 3 blue 1 black 1 black 1
+green 2 blue 1 black 1 black 1
+green 2 black 3 blue 1 black 1 black 1
+green 3 blue 1 black 1 black 1
+green 3 blue 1 black 1 black 1
+black 3 red 1 black 1 black 1
+black 3 red 1 black 1 blue 13
+black 1 black 2 red 1 blue 1 black 1 blue 13
+black 2 red 1 blue 2 black 1 blue 13
+
+columns
+black 1 black 1 black 3 green 4 black 4
+black 2 black 1 red 2 black 1 green 1 black 1 green 4 black 2 black 1
+black 2 red 4 black 2 black 1 green 2 black 3
+red 2 black 1 black 1
+black 1 black 1 black 2 black 1
+black 2 black 1 green 2 black 1
+black 2 green 4 black 1
+green 2 black 2
+0
+blue 16 red 4
+0
+blue 4
+blue 4
+blue 4
+blue 4 blue 1
+blue 2 red 2 blue 2
+blue 3 black 3 red 2 black 12
+blue 3 red 2 blue 3
+blue 6 red 2 blue 3
+blue 5 red 2 blue 3
+blue 3 red 2 blue 3
+blue 3 black 1 red 1 black 14 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 2 blue 3
+blue 1 blue 3
+blue 3
+blue 3
+blue 3

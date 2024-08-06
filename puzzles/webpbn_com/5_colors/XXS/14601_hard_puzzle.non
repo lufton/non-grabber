@@ -1,0 +1,27 @@
+by "Jacob Dewitz (jacobitz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jacob Dewitz"
+date "Jun 14, 2011"
+description "not really very hard!"
+difficulty 1.0
+height 2
+id 14601
+link "https://webpbn.com/play.cgi?id=14601"
+note "published,definitely unique,definitely trivial"
+quality 1.0
+title "hard puzzle"
+width 2
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 1
+red 1 blue 1
+
+columns
+black 1 red 1
+green 1 blue 1

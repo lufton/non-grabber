@@ -1,0 +1,102 @@
+by "John Holmes (stenove)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by John Holmes"
+date "Dec 31, 2008"
+description "What's the best team?"
+difficulty 3.5
+height 40
+id 4599
+link "https://webpbn.com/play.cgi?id=4599"
+note "published,definitely non-unique,may require some guessing"
+quality 2.5
+title "What's the best team?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 3 black 2 green 1 red 1 green 1
+black 1 black 1 black 1 green 1 green 1 red 1 green 1
+black 1 black 2 black 1 green 1 red 1 green 1 green 1 red 1 green 1
+black 1 black 1 black 1 green 1 red 1 green 3 red 2 green 1
+black 3 black 1 black 2 green 1 red 1 green 1 red 1 green 1 red 3 green 1
+green 1 green 3 green 1 red 2 green 1 red 3 red 1 green 1
+green 1 red 1 green 1 red 3 green 2 green 1 green 1 red 3 red 1 red 1 green 1
+green 1 red 4 red 3 green 1 red 1 green 1 green 1 red 2 red 5 green 1
+green 1 red 10 green 1 green 1 red 2 red 1 red 2 red 1 green 1
+green 3 red 1 green 2 red 4 green 1 green 1 red 2 red 1 red 2 red 1 green 1
+green 1 red 3 green 3 red 4 green 2 red 2 red 1 red 1 red 2 green 1
+green 1 red 1 red 4 green 1 red 4 green 1 red 2 red 1 red 1 red 2 green 1
+green 1 red 2 green 4 red 3 red 4 red 1 red 2 red 1 green 1
+green 2 green 1 red 3 red 1 red 7 red 1 green 1
+green 1 red 3 red 1 red 2 red 4 green 1
+green 1 green 1 red 4 red 1 red 4 red 3 red 1 green 1
+green 1 red 1 green 1 green 1 red 4 red 1 red 2 red 1 red 2 red 1 green 1 green 1
+green 1 red 1 green 1 green 1 red 2 red 2 red 1 red 5 red 3 green 1 green 1 red 1 green 1
+green 1 red 2 green 1 green 1 red 3 red 2 red 1 red 8 red 1 green 1 green 1 red 2 green 1
+green 1 red 2 green 1 green 1 red 4 red 3 red 5 red 3 green 1 green 1 red 2 green 1
+green 1 red 2 red 1 green 2 red 4 red 13 green 1 green 1 red 1 red 1 green 1
+green 2 red 1 red 1 green 2 red 4 red 8 red 4 green 1 green 2 red 1 red 1 green 1
+green 1 red 1 green 1 red 4 green 2 red 4 red 5 red 6 green 1 green 1 red 2 red 1 red 1 green 1
+green 1 red 4 red 1 green 1 red 5 red 5 red 4 green 1 green 1 red 2 red 3 green 1
+green 1 red 1 red 1 red 2 green 2 red 4 red 3 red 1 red 2 green 1 green 1 red 1 red 1 red 1 red 1 green 1
+green 1 red 2 red 3 green 1 green 1 red 9 red 1 red 2 green 1 green 1 red 1 red 1 red 1 green 1
+green 1 red 6 green 1 green 1 red 9 red 1 red 2 green 1 green 1 red 1 red 3 green 1
+green 1 red 2 red 1 green 1 green 2 red 8 green 1 red 1 green 1 red 2 green 1 green 1 red 5 green 1
+green 1 red 2 green 1 green 2 red 6 green 1 red 1 green 2 red 2 green 1 green 1 red 3 green 1
+green 1 red 2 green 1 green 1 red 3 green 2 red 3 green 1 red 1 green 2 red 2 green 1 green 1 red 2 green 1
+green 1 red 2 green 1 green 1 red 3 green 2 red 3 green 2 red 1 green 2 red 1 green 1 green 1 red 2 green 1
+green 1 red 4 green 1 green 1 red 3 green 1 red 4 green 1 red 1 green 2 red 1 green 1 green 1 red 4 green 1
+green 1 red 2 green 1 green 1 red 2 green 1 green 1 red 2 green 1 green 1 green 1 red 1 green 1 green 1 red 2 green 1
+green 2 green 1 red 2 green 1 green 1 red 2 green 1 green 1 red 1 green 1 green 2
+green 1 red 2 green 1 green 1 red 1 green 1 green 1 red 1 green 1
+green 1 red 2 green 1 green 1 red 1 green 1 green 1
+green 2 green 1 red 2 green 1 green 1 red 2 green 1
+green 1 red 2 green 1 red 2 green 2 green 4 red 1 green 3
+green 1 red 8 green 2 red 8 green 1
+green 1 red 1 green 5 red 1 green 1 green 1 red 1 green 5 red 1 green 1
+
+columns
+0
+black 5 green 1
+black 1 green 1 red 1 green 4
+black 1 green 3 red 4 green 1 green 1
+green 2 red 4 red 3 green 3 red 1 green 1
+black 5 green 2 red 3 red 3 red 7 green 1
+black 1 black 1 green 1 red 4 red 2 red 2 red 5 green 1
+black 1 green 4 red 3 red 4 green 3 red 1 green 1
+green 3 red 4 green 1 green 1 green 1
+black 3 green 1 green 8 green 1 red 1 green 1
+black 1 black 1 green 1 red 1 green 1 green 1 red 5 green 1 green 1 red 3
+black 1 black 1 green 2 red 1 red 1 green 1 green 1 red 7 green 1 green 1 red 2 green 1
+green 1 red 1 green 1 red 3 green 1 green 1 red 9 green 1 green 1 red 1 green 1
+green 1 red 2 green 1 red 2 green 1 green 1 red 11 green 1 green 2 red 2 green 1
+green 1 red 4 green 1 red 1 green 1 green 1 red 2 red 4 green 1 green 2 green 1 red 4 green 1
+green 1 red 2 green 2 red 1 green 2 red 9 red 3 green 1 red 2 green 3 red 3 green 1 red 1 green 1
+green 1 red 3 green 4 red 11 red 3 green 1 red 6 green 3 red 2
+green 1 red 1 red 8 red 15 green 1 green 2
+green 1 red 8 red 2 red 9 green 2 red 1 green 2 green 1
+green 1 red 6 red 3 red 10 green 3 green 1 red 1 green 1
+green 1 red 5 red 1 red 5 red 1 red 7 green 2 green 1 red 2
+green 1 red 1 green 3 red 1 red 8 red 1 red 8 green 4 red 1 green 1
+green 1 red 1 green 1 green 1 red 3 red 9 red 1 red 10 green 1 red 1 green 1
+green 1 green 1 red 6 red 4 red 3 red 1 green 4 red 1 green 4 red 3 green 1
+green 1 red 2 red 7 red 6 red 3 green 2 green 2 red 1 green 1
+green 1 red 2 red 1 red 1 red 1 red 4 green 1 red 2 green 3 red 2 green 1 green 1 red 1 green 1
+green 2 red 2 red 1 red 11 green 1 green 1 red 2 green 4 green 1 green 1 red 2
+green 3 red 3 red 1 red 1 red 9 green 1 green 1 red 3 green 4 red 1 green 1 green 2
+green 1 red 5 red 1 red 1 red 4 red 1 red 1 green 2 green 1 red 6 green 1
+green 4 red 2 red 1 red 2 red 1 red 1 green 1 red 1 green 1 green 4 green 6
+green 1 red 2 red 5 red 1 green 1 red 1 green 1 green 1 green 1 red 4 green 2
+green 2 red 4 red 1 green 1 red 1 green 1 green 1 green 2 red 2 red 2 green 1 green 1
+green 3 red 3 red 1 red 1 green 1 green 1 green 3 red 2 red 1 red 2 green 2 red 1 green 1
+red 5 red 3 green 1 green 1 red 3 red 2 red 7 green 1
+green 4 red 2 green 3 green 1 red 3 red 10 green 1
+green 2 green 3 red 3 red 2 green 3 red 1 green 1
+green 3 red 2 green 2 green 1
+green 2
+0
+0

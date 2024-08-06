@@ -1,0 +1,31 @@
+by "Lisa D (dvorli)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Lisa D"
+date "Dec 14, 2010"
+description ""
+difficulty 1.0
+height 5
+id 11389
+link "https://webpbn.com/play.cgi?id=11389"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Double wedding rings quilt block"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4
+black 4 red 1
+black 1 red 1 black 1 red 1
+black 1 red 4
+black 4
+
+columns
+black 4
+red 1 black 1 red 2 black 1
+red 1 black 1 red 1 black 1
+red 1 black 2 red 1 black 1
+red 4

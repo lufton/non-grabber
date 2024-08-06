@@ -1,0 +1,52 @@
+by "Susan Burgee (telesto)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Susan Burgee"
+date "Mar  9, 2008"
+description "Two knives crossing. Created by my 8 year old son, Teddy."
+difficulty 2.5
+height 16
+id 2404
+link "https://webpbn.com/play.cgi?id=2404"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.0
+title "chops"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 2 black 2
+black 1 green 1 black 1 black 1 green 1 black 1
+black 1 green 2 black 1 black 1 green 2 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 3 black 1 green 3 black 1
+black 1 green 3 black 1 green 1 black 1
+black 1 green 3 black 1
+black 1 green 1 black 1 green 3 black 1
+black 2 green 2 black 1 green 2 black 2
+black 2 green 1 black 2 black 2 green 1 black 2
+black 2 green 1 black 2 black 2 green 1 black 2
+black 2 green 1 black 2 black 2 green 1 black 2
+black 1 green 1 black 2 black 2 green 1 black 1
+black 3 black 3
+
+columns
+black 4 black 3
+black 1 green 3 black 1 black 2 green 1 black 1
+black 1 green 3 black 1 black 2 green 1 black 2
+black 1 green 3 black 1 black 2 green 1 black 2
+black 1 green 3 black 1 black 2 green 1 black 2
+black 1 green 3 black 1 green 2 black 2
+black 1 green 3 black 1 green 1 black 1
+black 1 green 3 black 1
+black 1 green 1 black 1 green 3 black 1
+black 1 green 3 black 1 green 2 black 2
+black 1 green 3 black 1 black 2 green 1 black 2
+black 1 green 3 black 1 black 2 green 1 black 2
+black 1 green 3 black 1 black 2 green 1 black 2
+black 1 green 3 black 1 black 2 green 1 black 1
+black 4 black 3

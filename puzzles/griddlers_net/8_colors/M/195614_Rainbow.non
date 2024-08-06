@@ -1,0 +1,75 @@
+by "reka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/17/18"
+height 20
+id 195614
+link "https://www.griddlers.net/nonogram/-/g/195614"
+medium_time "0:06:29"
+points 93848
+popularity 80.17
+title "Rainbow"
+width 30
+
+color a 99FFFF
+color b FF0000
+color c FFA500
+color d FFFF00
+color e 00FF33
+color f 0099FF
+color g 6633FF
+color h FFFFFF
+
+rows
+b 7
+b 2 c 7 b 2
+b 2 c 2 d 7 c 2 b 2
+b 1 c 2 d 2 e 7 d 2 c 2 b 1
+b 1 c 1 d 2 e 2 f 7 e 2 d 2 c 1 b 1
+b 1 c 1 d 1 e 2 f 2 g 7 f 2 e 2 d 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 2 g 2 g 2 f 2 e 1 d 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 2 g 1 g 1 f 2 e 1 d 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 1 g 1 g 1 f 1 e 1 d 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 1 g 1 g 1 f 1 e 1 d 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 1 g 1 g 1 f 1 e 1 d 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 1 g 1 g 1 f 1 e 1 d 1 c 1 b 1
+b 1 c 1 d 1 e 1 f 1 g 1 g 1 f 1 e 1 d 1 c 1 b 1
+b 1 h 4 g 1 g 1 f 1 h 4
+h 8 h 7
+h 9 h 8
+h 10 h 8
+h 10 h 7
+h 9 h 5
+h 6
+
+columns
+h 5
+b 3 h 6
+b 2 c 2 h 7
+b 2 c 2 d 2 h 7
+b 1 c 2 d 2 e 2 h 7
+b 1 c 1 d 2 e 2 f 2 h 7
+b 1 c 1 d 1 e 2 f 2 g 3 h 6
+b 1 c 1 d 1 e 1 f 2 g 2 h 5
+b 1 c 1 d 1 e 1 f 2 g 1 h 4
+b 1 c 1 d 1 e 1 f 1 g 1 h 2
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 1 g 1
+b 1 c 1 d 1 e 1 f 2 g 1 h 2
+b 1 c 1 d 1 e 1 f 2 g 2 h 4
+b 1 c 1 d 1 e 2 f 2 g 3 h 5
+b 1 c 1 d 2 e 2 f 3 h 5
+b 1 c 2 d 2 e 2 h 6
+b 2 c 2 d 2 h 6
+b 2 c 2 h 6
+b 2 h 5

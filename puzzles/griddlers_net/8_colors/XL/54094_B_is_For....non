@@ -1,0 +1,96 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/25/07"
+height 36
+id 54094
+link "https://www.griddlers.net/nonogram/-/g/54094"
+medium_time "0:23:21"
+points 25449
+popularity 81.12
+title "B is For..."
+width 35
+
+color a ffffff
+color b cc99cc
+color c 663366
+color d ffff66
+color e 663333
+color f cc3333
+color g 99cc33
+color h 669933
+
+rows
+b 3
+c 3 b 1 c 1
+d 2 b 1 c 3 b 1 c 2 d 15
+d 1 b 1 c 1 d 2 b 2 c 1 d 17
+b 1 d 4 b 1 c 2 d 17
+b 1 d 1 e 2 d 1 b 1 c 2 d 3 d 11
+b 1 d 4 b 1 c 2 d 3 d 9
+b 2 d 2 b 2 c 3 d 1 d 9
+d 5 b 4 c 4 d 1 d 9
+b 5 d 2 b 3 c 4 d 1 d 8
+b 7 d 2 b 2 c 4 e 1 f 1 e 1 g 1 d 2 g 1 d 2 g 1 d 1
+c 7 b 2 d 2 b 1 c 3 e 1 f 3 g 2 d 2 g 2 d 1 g 1
+c 1 b 4 c 3 b 2 d 2 c 1 f 2 e 2 f 1 g 3 d 1 g 2
+c 1 b 1 d 2 b 1 c 4 b 2 e 1 f 2 e 3 c 5 g 6
+b 1 d 2 b 1 c 4 b 1 e 1 f 2 e 3 c 8 g 3
+b 3 c 3 e 1 f 1 e 1 f 1 e 1 d 1 c 6 b 5 c 1 g 1
+c 3 f 1 e 4 d 1 c 5 b 2 d 3 b 3 g 2
+e 5 b 1 d 2 b 5 d 2 e 1 d 2 c 1 b 2 g 2
+e 2 c 3 b 2 d 2 b 4 d 2 e 1 d 2 c 2 b 1 g 3
+c 5 b 2 d 1 b 5 d 3 c 3 g 5
+c 1 b 4 c 1 b 1 d 2 b 9 g 7
+c 1 b 1 d 2 b 1 c 1 b 2 d 1 b 6 g 9
+g 1 b 1 d 2 b 1 c 1 b 2 g 1 g 8
+g 2 b 3 c 1 b 1 g 2 g 9
+g 8 h 1 g 3 h 1 g 2 h 1 g 1
+h 1 g 2 h 1 g 4 h 1 h 1 g 2 h 1 g 1 h 3
+h 1 g 2 h 2 g 2 h 2 h 2 g 1 h 5
+h 2 g 1 h 3 g 1 h 2 h 9
+h 9 h 9
+h 9 h 10
+h 9 h 11
+h 9 h 10
+h 10 h 11
+h 10 h 11
+h 25
+h 25
+
+columns
+c 3
+b 1 c 1 b 3
+b 2 c 1 b 1 d 2 b 1
+d 1 b 2 c 1 b 1 d 2 b 1
+d 1 b 2 c 1 b 4 c 1
+d 1 d 1 b 2 c 6
+d 2 d 1 b 2 c 6 h 1
+b 6 d 2 b 2 c 4 e 2 h 2
+c 3 d 3 b 2 d 2 b 2 c 2 e 1 f 1 e 2 c 3 g 3 h 11
+b 1 c 2 d 2 e 1 d 2 b 2 d 2 b 3 f 1 e 2 c 2 b 3 g 4 h 9
+b 1 c 2 d 2 e 1 d 2 b 3 d 2 b 1 e 4 c 2 b 1 d 2 b 1 g 4 h 8
+b 4 d 3 b 5 d 1 e 1 f 2 e 2 c 2 b 1 d 2 b 1 g 1 h 11
+c 2 b 5 c 5 f 2 e 2 b 2 c 1 b 4 g 2 h 10
+c 10 f 2 e 1 d 3 b 2 c 4 g 3 h 9
+d 2 c 8 f 1 e 2 c 2 d 2 b 5 g 4 h 8
+d 5 c 4 e 4 c 2 b 1 d 3 b 2 g 3 h 10
+d 8 e 1 f 1 e 2 c 3 b 3 d 2 g 2 h 12
+d 5 f 3 c 4 b 4 h 4
+d 3 e 1 f 1 c 4 b 5 h 2
+d 3 c 3 b 6 h 2
+d 3 c 2 b 2 d 2 b 3 h 2
+d 3 c 2 b 1 d 4 b 2 h 2
+d 4 g 1 c 1 b 1 d 1 e 2 d 1 b 2 h 3
+d 4 g 3 c 1 b 1 d 4 b 2 h 4
+d 8 g 5 b 2 d 2 c 1 b 1 h 6
+d 10 g 3 c 1 b 1 c 3 b 1 g 1 h 7
+d 11 g 3 b 2 c 2 g 4 h 9
+d 8 g 4 g 1 b 2 g 6 h 11
+d 9 g 2 g 10 h 10
+d 9 g 10 h 9
+d 7 g 2 g 6 h 12
+d 7 g 7 h 9
+d 4 g 5 h 9
+g 3 h 9
+g 2 h 6

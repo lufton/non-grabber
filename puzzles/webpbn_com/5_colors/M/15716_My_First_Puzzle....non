@@ -1,0 +1,63 @@
+by "Mandi Robertson (mandir)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Mandi Robertson"
+date "Aug 30, 2011"
+description ""
+difficulty 1.5
+height 20
+id 15716
+link "https://webpbn.com/play.cgi?id=15716"
+note "published,definitely non-unique,may require some guessing"
+quality 1.75
+title "My First Puzzle..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1
+red 3
+red 1 blue 1 red 1
+red 2 blue 1 black 1 blue 1 red 2
+red 2 blue 1 black 3 blue 1 red 2
+red 2 blue 1 black 1 blue 1 red 2
+red 1 blue 1 red 1
+red 3
+green 1
+green 2
+green 3
+green 2
+green 2
+green 3
+green 2
+green 1
+green 1
+green 1 green 1 green 1 green 1 green 1
+green 20
+green 20
+
+columns
+green 2
+green 2
+green 3
+green 2
+green 2
+green 2
+red 1 green 3
+red 3 green 2
+red 1 blue 1 red 1 green 1 green 2
+red 2 blue 1 black 1 blue 1 red 2 green 3 green 2
+red 2 blue 1 black 3 blue 1 red 1 green 12
+red 2 blue 1 black 1 blue 1 red 2 green 3 green 2
+red 1 blue 1 red 1 green 1 green 2
+red 3 green 2
+red 1 green 3
+green 2
+green 2
+green 2
+green 3
+green 2

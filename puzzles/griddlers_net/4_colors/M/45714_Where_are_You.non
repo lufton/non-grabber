@@ -1,0 +1,57 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/13/07"
+height 13
+id 45714
+link "https://www.griddlers.net/nonogram/-/g/45714"
+medium_time "0:02:29"
+points 476
+popularity 60.43
+title "Where are You?"
+width 23
+
+color a ffffff
+color b ffff00
+color c ff9900
+color f 00ccff
+
+rows
+b 9
+b 9
+c 2 b 10
+c 2 b 10
+c 2 b 11
+c 1 b 12
+c 2 c 1 b 12
+c 2 b 12
+c 2 b 12
+c 2 b 12
+f 23
+f 16
+f 22
+
+columns
+f 1
+f 1 f 1
+f 1 f 1
+c 2 c 2 f 1 f 1
+c 3 c 3 f 1 f 1
+c 2 c 2 f 3
+c 1 c 1 f 3
+b 6 f 3
+b 7 f 3
+b 8 f 3
+b 9 f 3
+b 10 f 3
+b 10 f 3
+b 10 f 3
+b 10 f 3
+b 10 f 3
+b 10 f 3
+b 10 f 3
+b 3 b 5 f 3
+b 1 f 3
+f 3
+f 1 f 1
+f 1 f 1

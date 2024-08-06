@@ -1,0 +1,61 @@
+by "Alison Deem (Indigo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alison Deem"
+date "Mar 21, 2010"
+description "It's a bobblehead of Snoopy..."
+difficulty 2.75
+height 20
+id 8134
+link "https://webpbn.com/play.cgi?id=8134"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Bobblehead!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 8
+black 3 black 3
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 3 black 3 black 1
+black 2 black 2 black 2 black 2
+black 2 black 3 black 2 black 3 black 2
+black 2 black 3 black 2 black 3 black 2
+black 2 blue 2 black 2 blue 1 blue 1 black 2 blue 2 black 2
+black 3 blue 2 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 1
+black 3 black 2 black 2 black 3
+black 6
+black 1 black 2 black 1
+black 3 black 2 black 3
+black 2 black 2 black 2
+black 1 black 2 black 1
+
+columns
+black 2
+black 4
+black 2 black 2 black 3
+black 1 black 1 black 1 black 1 black 1
+black 1 black 5 blue 1 black 1 black 2 black 2
+black 8 blue 1 black 4 black 2
+black 2 black 4 black 2 black 1
+black 1 black 2 black 4
+black 1 black 1 blue 1 black 1
+black 1 black 2 blue 1 black 5
+black 1 black 2 blue 1 black 5
+black 1 black 1 blue 1 black 1
+black 1 black 2 black 4
+black 2 black 4 black 2 black 1
+black 8 blue 1 black 4 black 2
+black 1 black 5 blue 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 3
+black 4
+black 2

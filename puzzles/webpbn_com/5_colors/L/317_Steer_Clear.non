@@ -1,0 +1,79 @@
+by "Bill Wight (wrwight)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Bill Wight"
+date "Nov 26, 2005"
+description "Use the beacon to navigate, but don't try to visit it in your boat."
+difficulty 1.75
+height 36
+id 317
+link "https://webpbn.com/play.cgi?id=317"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Steer Clear"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1
+black 1
+blue 5
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 9
+black 1 blue 7 black 1
+red 3 blue 3 red 1
+red 2 blue 3 red 2
+red 1 blue 3 red 1 red 1
+blue 3 red 3 blue 1
+blue 2 red 3 blue 2
+blue 1 red 3 blue 3
+red 3 blue 3 red 1
+red 3 blue 3 red 3
+red 2 blue 3 red 1 red 1 blue 1
+red 1 blue 3 red 3 blue 2
+blue 3 red 3 blue 3
+blue 2 red 3 blue 3 red 1
+blue 1 red 3 blue 3 red 2
+red 3 blue 3 red 3
+red 3 blue 3 red 1 red 1 blue 2
+red 2 blue 3 red 3 blue 3
+red 1 blue 3 red 3 blue 3 red 1
+blue 3 red 3 blue 3 red 2
+blue 2 red 3 blue 3 red 3
+blue 1 red 3 blue 3 red 3 blue 1
+black 13
+black 1 green 2 black 1 green 3 black 1 green 2 black 1
+black 1 green 2 black 1 green 1 green 1 black 1 green 2 black 1
+black 1 green 2 black 1 green 1 green 1 black 1 green 2 black 1
+black 1 green 2 black 1 green 1 green 1 black 1 green 2 black 1
+black 13
+green 1 green 3 green 4 green 2 green 4
+green 5 green 2 green 5 green 3 green 1
+
+columns
+green 1
+green 2
+green 1
+black 1 black 1 green 2
+red 3 blue 3 black 6 green 2
+black 2 red 3 blue 3 red 3 blue 3 red 1 black 1 green 4 black 1 green 1
+black 1 blue 1 red 3 blue 3 red 3 blue 3 red 3 blue 3 red 2 black 1 green 4 black 1 green 1
+blue 1 black 3 blue 1 red 2 blue 3 red 3 blue 3 red 3 blue 3 red 3 black 6 green 2
+blue 1 black 1 blue 1 red 1 blue 3 red 3 blue 3 red 3 blue 3 red 3 blue 1 black 1 green 4 black 1 green 1
+black 2 blue 1 black 3 blue 4 red 3 blue 3 red 3 blue 3 red 3 blue 2 black 1 green 1 black 1 green 2
+blue 1 black 1 blue 3 red 3 blue 3 red 3 blue 3 red 3 blue 3 black 1 green 4 black 1 green 2
+blue 1 black 3 blue 2 red 1 red 1 blue 3 red 1 red 1 blue 3 red 1 red 1 blue 3 red 1 black 6 green 1
+black 1 blue 1 red 3 blue 3 red 3 blue 3 red 3 blue 3 red 2 black 1 green 4 black 1 green 2
+black 2 red 1 blue 3 red 3 blue 3 red 3 black 1 green 4 black 1 green 2
+blue 2 red 3 blue 1 black 6
+black 1 black 1 green 2
+green 2
+green 2
+green 1
+green 1

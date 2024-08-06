@@ -1,0 +1,52 @@
+by "Mousey Pounds (mouseypounds)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Mousey Pounds"
+date "Jul  7, 2019"
+description "The rainbow shell from Stardew Valley. It's not very colorful with only 1 shade of blue to work with though ;-)"
+difficulty 1.5
+height 15
+id 32580
+link "https://webpbn.com/play.cgi?id=32580"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "It's a very beautiful shell."
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 6
+black 1 blue 6 black 3
+black 2 blue 8 black 2
+black 2 blue 10 black 1
+black 2 blue 11 black 1
+black 4 blue 10 black 1
+black 3 blue 1 black 1 blue 1 black 1 blue 7 black 1
+black 4 blue 1 black 1 blue 3 black 4 blue 2 black 1
+black 4 blue 1 black 1 blue 1 black 6 blue 1 black 1
+black 5 blue 2 black 6 blue 1 black 1
+black 5 blue 1 black 6 blue 1 black 1
+black 4 blue 1 black 6 blue 1 black 1
+black 3 blue 2 black 4 blue 1 black 1
+black 2 blue 5 black 1
+black 5
+
+columns
+black 7
+black 1 blue 1 black 8
+black 1 blue 4 black 6
+black 1 blue 4 black 1 blue 1 black 5
+black 1 blue 5 black 1 blue 1 black 5
+black 1 blue 6 black 1 blue 1 black 4
+black 1 blue 5 black 1 blue 1 black 1 blue 1 black 4
+black 1 blue 11 black 1
+black 1 blue 6 black 4 blue 2 black 1
+black 1 blue 5 black 6 blue 1 black 1
+black 1 blue 4 black 6 blue 1 black 1
+black 1 blue 4 black 6 blue 1 black 1
+black 1 blue 3 black 6 blue 1 black 1
+black 1 blue 3 black 4 blue 1 black 1
+black 2 blue 5 black 1
+black 5

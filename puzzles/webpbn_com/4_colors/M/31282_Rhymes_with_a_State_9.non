@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "May 30, 2018"
+description "You're gunna hafta quiet that dog cause we got us a..."
+difficulty 2.25
+height 15
+id 31282
+link "https://webpbn.com/play.cgi?id=31282"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Rhymes with a State #9"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 5
+black 3 black 2
+black 4 black 2
+black 6 black 2
+black 2 black 2 blue 1 black 2
+black 1 black 1 black 2 red 3
+black 2 black 2 black 8
+black 1 black 1 black 1
+black 2 black 1 black 4
+black 3 black 1 black 1
+black 5 black 2 black 2
+black 1 black 2 black 2 black 3
+black 2 black 3 black 2
+black 1 black 2
+
+columns
+black 2
+black 4
+black 5
+black 3 black 3
+black 2 black 2
+black 1 black 3
+black 1 black 1
+black 2 black 2
+black 4 black 2
+black 2 black 5
+black 1 blue 1
+black 1 black 1
+black 2 black 1 black 2
+black 1 black 2 black 2
+black 2 black 3 black 1
+black 1 black 2 black 1 black 2
+black 2 black 2 red 1 black 1 black 3
+black 4 red 1 black 1 black 1
+black 3 red 1 black 1 black 1
+black 3

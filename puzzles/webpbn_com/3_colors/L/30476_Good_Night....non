@@ -1,0 +1,81 @@
+by "Zach L (tinkertoo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Zach L"
+date "Nov  4, 2017"
+description "Night Vale, good night. (probably very bad attempt at recreating the logo for Welcome to Night Vale as my first puzzle made. also, let's just pretend that the blue is purple)"
+difficulty 1.5
+height 30
+id 30476
+link "https://webpbn.com/play.cgi?id=30476"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "Good Night..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 3 black 6 blue 21
+blue 2 black 2 black 2 blue 20
+blue 1 black 2 black 2 black 2 blue 14 black 1 blue 4
+black 2 black 2 black 2 blue 12 black 3 blue 3
+black 2 black 2 black 2 blue 11 black 5 blue 2
+black 2 black 2 black 2 blue 12 black 3 blue 3
+blue 1 black 2 black 2 blue 3 black 1 blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 3 blue 3
+blue 2 black 8 blue 3 black 1 blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2
+blue 4 black 4 blue 4 black 10 blue 2 black 3 blue 3
+blue 12 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 4 black 1 blue 4
+blue 11 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 5 black 1 blue 4
+blue 15 black 1 blue 8 black 3 blue 3
+blue 15 black 1 blue 8 black 3 blue 3
+blue 15 black 1 blue 7 black 1 blue 1 black 1 blue 1 black 1 blue 2
+blue 15 black 1 blue 7 black 1 blue 1 black 1 blue 1 black 1 blue 2
+blue 12 black 1 blue 2 black 1 blue 6 black 1 blue 1 black 3 blue 1 black 1 blue 1
+blue 11 black 3 blue 1 black 1 blue 6 black 2 blue 1 black 1 blue 1 black 2 blue 1
+blue 10 black 6 blue 5 black 9
+blue 9 black 7 blue 5 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+blue 8 black 9 blue 3 black 1 blue 3 black 3 blue 2 black 1
+blue 7 black 11 blue 2 black 1 blue 4 black 1 blue 3 black 1
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+black 30
+
+columns
+blue 3 black 3 blue 15 black 9
+blue 2 black 5 blue 14 black 9
+blue 1 black 2 black 2 blue 13 black 9
+black 2 black 1 blue 13 black 9
+black 1 black 2 black 2 blue 12 black 9
+black 1 black 4 black 2 blue 12 black 9
+black 1 black 1 black 1 black 2 blue 12 black 9
+black 1 black 2 blue 11 black 10
+black 2 black 1 blue 11 black 11
+blue 1 black 2 black 2 blue 10 black 12
+blue 2 black 5 blue 10 black 13
+blue 3 black 3 blue 4 black 1 blue 5 black 14
+blue 8 black 2 blue 5 black 15
+blue 7 black 2 blue 1 black 1 blue 5 black 14
+blue 6 black 1 blue 1 black 2 blue 7 black 13
+blue 7 black 2 blue 1 black 20
+blue 6 black 1 blue 1 black 2 blue 9 black 11
+blue 8 black 1 blue 1 black 1 blue 9 black 10
+blue 8 black 2 blue 11 black 9
+blue 7 black 2 blue 1 black 1 blue 10 black 9
+blue 6 black 1 blue 1 black 2 blue 9 black 11
+blue 7 black 2 blue 8 black 2 blue 2 black 9
+blue 6 black 1 blue 8 black 3 blue 3 black 9
+blue 4 black 1 blue 2 black 1 blue 5 black 2 blue 1 black 3 blue 2 black 9
+blue 3 black 4 blue 1 black 1 blue 2 black 2 blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 9
+blue 2 black 28
+blue 3 black 4 blue 1 black 1 blue 2 black 2 blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 9
+blue 4 black 1 blue 2 black 1 blue 5 black 2 blue 1 black 3 blue 2 black 9
+blue 15 black 3 blue 3 black 9
+blue 17 black 13

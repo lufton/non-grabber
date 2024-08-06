@@ -1,0 +1,71 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kim"
+date "Sep  7, 2012"
+description "This is the symbol for my favorite Star Trek Race. Guesses anyone?"
+difficulty 1.75
+height 25
+id 19697
+link "https://webpbn.com/play.cgi?id=19697"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "For Norma"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+black 3 red 1 black 4
+black 4 red 3 black 6
+black 4 red 3 black 6
+black 3 red 5 black 3
+black 2 red 5 black 2
+black 2 red 7 black 2
+black 2 red 7 black 2
+black 2 red 9 black 1
+black 2 red 11 black 2
+black 2 red 7 black 2
+black 2 red 1 red 5 red 1 black 2
+black 2 red 3 red 3 red 3 black 2
+black 2 red 4 red 1 red 5 black 2
+black 3 red 6 red 7 black 2
+black 3 red 8 red 9 black 3
+black 1 red 9 red 9 black 2
+black 1 red 7 red 8 black 1
+red 7 red 9
+red 7 red 9
+red 4 black 2 red 7
+red 2 black 3 black 3
+red 2 black 3 black 3
+red 1 black 14
+black 10
+
+columns
+black 6 red 5
+black 10 red 5
+black 4 black 2 red 5
+black 3 red 6
+black 2 red 6 black 2
+black 2 red 8 black 3
+black 3 red 1 red 9 black 3
+black 2 red 2 red 7 black 2
+black 3 red 5 red 5 black 2
+black 2 red 8 red 3 black 2
+black 1 red 11 red 2 black 2
+red 14 black 2
+black 1 red 11 red 2 black 2
+black 2 red 8 red 3 black 2
+black 2 red 5 red 5 black 2
+black 3 red 2 red 7 black 2
+black 2 red 1 red 9 black 2
+black 2 red 8 black 2
+black 2 red 8 black 2
+black 2 red 7 black 3
+black 2 red 6 black 2
+black 2 red 4 black 1
+black 3 black 3 red 3
+black 11 red 3
+black 7 red 2

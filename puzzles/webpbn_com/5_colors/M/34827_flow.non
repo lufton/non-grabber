@@ -1,0 +1,63 @@
+by "Franciszek Åajszczak (mad_screwdriver)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Franciszek ÃÂajszczak"
+date "Jan 22, 2021"
+description "flowers"
+difficulty 1.25
+height 15
+id 34827
+link "https://webpbn.com/play.cgi?id=34827"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "flow"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 3
+red 5
+red 2 blue 1 red 2
+red 4
+red 3 green 1
+green 1 green 3
+green 2 green 1 green 5
+green 7 green 4
+green 10
+green 4 red 3
+green 1 red 1 blue 1 red 1
+red 3 green 1 red 3
+red 1 blue 1 red 1 green 1 green 1
+green 1 green 1 green 2
+black 25
+
+columns
+black 1
+black 1
+red 2 black 1
+red 1 blue 1 green 1 black 1
+green 2 red 2 black 1
+green 3 black 1
+green 2 black 1
+green 2 black 1
+green 2 black 1
+red 3 green 3 black 1
+red 5 green 9 black 1
+red 2 blue 1 red 2 green 2 black 1
+red 5 green 3 black 1
+red 2 green 3 black 1
+green 4 black 1
+green 4 black 1
+green 2 black 1
+green 1 black 1
+red 3 black 1
+red 1 blue 1 red 1 green 2 black 1
+red 3 green 1 black 1
+black 1
+black 1
+black 1
+black 1

@@ -1,0 +1,38 @@
+by "nakita edwards (candy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by nakita edwards"
+date "Sep  9, 2010"
+description ""
+difficulty 1.0
+height 5
+id 10270
+link "https://webpbn.com/play.cgi?id=10270"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title ""
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 blue 1 black 1 red 2 black 1 blue 1 green 2
+blue 1 green 2 blue 1 black 2 blue 1 green 2 blue 1
+blue 2 green 2 blue 2 green 2 blue 2
+black 1 blue 2 green 4 blue 2 black 1
+red 1 black 1 blue 2 green 2 blue 2 black 1 red 1
+
+columns
+green 1 blue 2 black 1 red 1
+green 2 blue 2 black 1
+blue 1 green 2 blue 2
+black 1 blue 1 green 2 blue 1
+red 1 black 1 blue 1 green 2
+red 1 black 1 blue 1 green 2
+black 1 blue 1 green 2 blue 1
+blue 1 green 2 blue 2
+green 2 blue 2 black 1
+green 1 blue 2 black 1 red 1

@@ -1,0 +1,71 @@
+by "thewright"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/12/08"
+height 30
+id 58161
+link "https://www.griddlers.net/nonogram/-/g/58161"
+medium_time "0:06:17"
+points 1570
+popularity 61.01
+title "R2D2"
+width 19
+
+color a ffff66
+color b 000099
+color c 969696
+color d ff0000
+color e ffffff
+
+rows
+c 3
+c 5
+c 7
+c 3 b 3 c 3
+c 4 b 1 c 1 b 1 c 4
+c 4 b 3 c 4
+c 11
+c 4 b 3 c 4
+c 4 b 1 d 1 b 1 c 4
+c 4 b 3 c 4
+c 11
+e 2 c 1 e 11 c 1 e 2
+e 2 c 1 e 3 b 5 e 3 c 1 e 2
+e 2 c 1 e 3 b 5 e 3 c 1 e 2
+e 2 c 1 e 11 c 1 e 2
+e 2 c 1 e 3 b 5 e 3 c 1 e 2
+e 2 e 3 b 5 e 3 e 2
+e 1 e 11 e 1
+e 1 e 5 b 1 e 5 e 1
+e 1 e 5 b 1 e 5 e 1
+e 1 e 11 e 1
+e 1 e 1 b 1 e 3 b 1 e 3 b 1 e 1 e 1
+e 1 e 1 b 1 e 3 b 1 e 3 b 1 e 1 e 1
+e 1 e 11 e 1
+c 1 c 9 c 1
+c 1 c 9 c 2
+e 2 e 3 e 2
+e 2 e 5 e 2
+e 3 e 7 e 3
+e 3 e 9 e 3
+
+columns
+e 2
+e 6 e 4
+e 13 c 2 e 4
+c 5
+c 7 e 13
+c 8 e 10 b 2 e 1 c 2 e 1
+c 9 e 13 c 2 e 2
+c 10 e 1 b 2 e 1 b 2 e 7 c 2 e 3
+c 3 b 3 c 1 b 3 c 1 e 1 b 2 e 1 b 2 e 7 c 2 e 4
+c 3 b 1 c 1 b 1 c 1 b 1 d 1 b 1 c 1 e 1 b 2 e 1 b 2 e 1 b 2 e 1 b 2 e 1 c 2 e 4
+c 3 b 3 c 1 b 3 c 1 e 1 b 2 e 1 b 2 e 7 c 2 e 4
+c 10 e 1 b 2 e 1 b 2 e 7 c 2 e 3
+c 9 e 13 c 2 e 2
+c 8 e 10 b 2 e 1 c 2 e 1
+c 7 e 13
+c 5
+e 13 c 2 e 4
+e 6 c 1 e 4
+e 2

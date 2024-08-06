@@ -1,0 +1,70 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Sep 13, 2016"
+description ""
+difficulty 2.0
+height 28
+id 28750
+link "https://webpbn.com/play.cgi?id=28750"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Birguin"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 5
+black 7
+black 7
+black 2 black 1 black 2
+black 1 black 1 black 1 black 1 black 1
+black 1 red 3 black 1
+black 1 red 1 black 1
+blue 5 green 3
+blue 2 blue 5 green 2
+blue 2 blue 6 green 2
+blue 2 blue 7 green 2
+blue 1 blue 8 green 2
+blue 2 blue 3 black 1 blue 4 green 2
+blue 1 blue 2 black 2 blue 4 green 2
+blue 1 blue 2 black 1 blue 4 green 3
+blue 1 blue 1 black 2 blue 3 green 4
+blue 5 green 4
+blue 5 green 1 black 4
+blue 5 black 1 black 1
+blue 1 blue 2
+blue 1 blue 3
+blue 4
+blue 4
+blue 3
+blue 3
+blue 1
+0
+
+columns
+0
+blue 1
+blue 4
+blue 1 blue 5
+blue 1 blue 1 blue 2 blue 3
+blue 2 blue 4 blue 3
+blue 3 blue 1 black 1 blue 6
+blue 2 blue 2 black 1 blue 5
+blue 2 blue 3 black 1 blue 4
+black 4 blue 2 blue 3 black 1 blue 2 green 1 blue 1
+black 3 blue 1 blue 4 black 1 blue 2 green 2 black 1
+black 3 black 1 blue 5 black 1 blue 2 green 2 black 1
+black 3 red 1 blue 8 green 2 black 1
+black 5 red 2 blue 7 green 2 black 1
+black 3 red 1 green 1 blue 6 green 2 black 2
+black 3 black 1 green 1 blue 5 green 2
+black 3 green 7
+black 4 green 5
+0

@@ -1,0 +1,97 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Dec 13, 2016"
+description "You guess (Colors are there for solvability, unless you want to make them part of your guess)"
+difficulty 1.75
+height 35
+id 29213
+link "https://webpbn.com/play.cgi?id=29213"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "What am I saying?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 15 blue 4 red 15
+red 11 black 4 blue 4 red 14
+red 9 black 8 blue 4 red 13
+red 8 black 10 blue 4 red 12
+red 7 black 12 blue 3 red 11
+red 6 black 14 blue 2 red 10
+red 2 black 3 red 1 black 14 blue 2 red 9
+red 1 black 20 blue 1 red 3 black 2 red 3
+red 1 black 20 blue 1 red 1 black 4 red 2
+red 2 black 3 red 1 black 2 black 9 blue 1 black 8 red 2
+red 5 black 8 blue 1 black 3 black 4 red 2
+red 4 black 7 blue 2 black 3 black 2 red 3
+red 3 black 8 blue 2 black 2 red 3
+red 2 black 11 blue 2 black 3 red 2
+red 1 black 4 black 8 red 1
+black 2 black 8
+blue 4 black 4 blue 9 black 10 blue 10 black 2 blue 1
+blue 4 black 23 blue 2 black 5 blue 1 black 5
+blue 4 black 4 blue 9 black 10 blue 1 black 2 blue 1 black 9
+black 2 black 12 black 8
+red 1 black 10 black 8
+red 2 black 8 black 7 red 1
+red 3 blue 1 black 7 black 6 red 2
+red 4 blue 2 black 5 black 5 red 3
+red 5 blue 1 black 4 black 3 red 4
+red 6 blue 1 black 4 red 6
+red 7 black 3 blue 1 red 7
+red 8 black 3 blue 1 red 8
+red 9 black 4 blue 2 red 9
+red 10 black 9 red 10
+red 11 black 11 red 11
+red 12 black 11 red 12
+red 13 black 9 red 13
+red 14 blue 4 red 14
+red 15 blue 4 red 15
+
+columns
+red 15 blue 3 red 15
+red 7 black 2 red 5 blue 3 red 14
+red 6 black 4 red 3 blue 3 red 13
+red 6 black 4 red 2 blue 3 red 12
+red 6 black 4 red 1 black 3 red 11
+red 7 black 2 red 1 black 5 red 10
+red 5 black 5 black 5 red 9
+red 4 black 6 black 3 red 8
+red 3 black 6 blue 1 black 1 blue 1 red 7
+red 2 black 7 black 1 blue 1 black 1 blue 1 red 6
+red 2 black 7 black 1 blue 1 black 1 blue 1 red 5
+red 1 black 8 black 1 blue 1 black 1 blue 1 red 4
+red 1 black 9 black 3 blue 1 black 1 blue 1 black 2 red 3
+red 1 black 14 blue 1 black 1 blue 1 black 4 red 2
+red 1 black 14 blue 1 black 1 blue 1 black 4 red 1
+black 13 blue 1 black 1 blue 1 black 4
+black 12 blue 1 black 1 blue 1 black 5
+black 11 black 4 black 5
+blue 4 black 18 blue 4 black 7 blue 2
+blue 5 black 18 blue 1 black 9 blue 2
+blue 7 black 4 blue 3 black 14 blue 1 black 4 blue 2
+blue 14 black 12 blue 3 black 4 blue 2
+black 12 black 2
+black 10
+black 11
+red 1 black 11 red 1
+red 2 black 3 black 5 red 2
+red 3 black 1 blue 3 black 2 red 3
+red 4 black 2 blue 2 black 2 red 4
+red 5 black 1 blue 1 black 2 red 5
+red 6 black 2 blue 1 black 1 blue 1 red 6
+red 7 black 1 blue 1 black 2 red 7
+red 8 black 1 blue 1 black 7 red 8
+red 9 black 1 blue 1 black 8 red 9
+red 8 black 3 blue 2 black 7 red 10
+red 7 black 5 blue 1 black 8 red 10
+red 7 black 5 blue 1 black 7 red 11
+red 8 black 3 red 2 black 7 red 12
+red 14 black 6 red 13
+red 15 blue 1 black 4 red 14

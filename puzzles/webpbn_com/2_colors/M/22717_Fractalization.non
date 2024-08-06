@@ -1,0 +1,54 @@
+by "Joseph Newton (Shroomyjoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joseph Newton"
+date "Sep  5, 2013"
+description "Fractals are patterns that repeat themselves over and over again. This is the basic "tree" fractal, in which a pair of smaller branches appear at each bigger one, and protrude at the same angle."
+difficulty 1.5
+height 16
+id 22717
+link "https://webpbn.com/play.cgi?id=22717"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Fractalization"
+width 21
+
+rows
+3,3,3,3
+1,1,1,1
+7,7
+1,1,1,1,1,1
+3,1,3,3,1,3
+1,1
+13
+1,1,1
+3,1,3,1,3,1,3
+1,1,1,1,1,1,1
+7,1,7
+1,1,1,1,1
+3,3,1,3,3
+1
+1
+1
+
+columns
+1,1,1,1
+5,5
+1,1,1,1,1,1
+1,1
+9
+1,1,1
+1,1,1,1,1,1,1
+5,1,5
+1,1,1,1,1
+1
+10
+1
+1,1,1,1,1
+5,1,5
+1,1,1,1,1,1,1
+1,1,1
+9
+1,1
+1,1,1,1,1,1
+5,5
+1,1,1,1

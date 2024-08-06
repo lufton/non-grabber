@@ -1,0 +1,57 @@
+by "Stephen Shoemaker (steve1345)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Stephen Shoemaker"
+date "Mar 27, 2014"
+description "First attempt. No artistic ability."
+difficulty 1.5
+height 20
+id 24112
+link "https://webpbn.com/play.cgi?id=24112"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Bad Drawing of Elvis"
+width 20
+
+rows
+16
+18
+19
+17
+1,10
+1,3,10
+2,3,5
+1,1,3,5
+1,3,5
+1,3,5
+4,5
+1,5
+1,5
+1,5
+5,5
+1,4
+8,3
+1,1,1
+1,1
+1,1
+
+columns
+2,2
+2,1,1
+3,2,1
+7,7
+4,1,1
+4,1,1,1
+4,1,1,1,1
+4,1,1,1
+4,1
+4,1
+10,4
+10
+10
+6
+6
+15
+16
+20
+15
+15

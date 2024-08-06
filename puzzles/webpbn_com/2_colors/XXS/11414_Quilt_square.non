@@ -1,0 +1,27 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Dec 15, 2010"
+description "Astro turf baseball diamond"
+difficulty 1.0
+height 5
+id 11414
+link "https://webpbn.com/play.cgi?id=11414"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Quilt square"
+width 5
+
+rows
+2,2
+5
+1,1
+5
+2,2
+
+columns
+2,2
+5
+1,1
+5
+2,2

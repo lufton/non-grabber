@@ -1,0 +1,52 @@
+by "roodar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/13/19"
+height 18
+id 199987
+link "https://www.griddlers.net/nonogram/-/g/199987"
+medium_time "0:03:04"
+points 901
+popularity 79.27
+title "Dino"
+width 12
+
+color a ffffff
+color b 000000
+color c ffcc99
+color d cc0099
+color e 9999ff
+
+rows
+b 1
+b 2
+d 2 b 1
+d 1 b 1 c 3
+d 1 c 4
+d 1 c 1
+d 1 c 3
+d 2
+e 2
+d 2
+d 2
+d 2 d 4
+d 2 d 1 b 1 d 4
+d 2 b 1 d 3
+d 7
+d 2 b 1 d 5
+d 8
+d 7 b 1
+
+columns
+d 1
+d 3
+d 5
+d 4
+d 1 b 1 d 2
+d 1 b 1 d 4
+b 1 d 1 b 1 d 5
+b 2 d 6 e 1 d 9
+d 1 b 1 c 3 d 1 e 1 d 9
+b 1 c 2 c 1 d 2 d 3
+c 2 c 1 d 1 b 1
+c 2

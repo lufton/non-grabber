@@ -1,0 +1,80 @@
+by "Martial (marso)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Martial"
+date "Jan 31, 2005"
+description "Sorry, no yellow!"
+difficulty 1.75
+height 32
+id 164
+link "https://webpbn.com/play.cgi?id=164"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "3 colors"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 11
+black 2 black 2
+black 7 black 9 black 7
+black 7 black 2 red 5 black 2 black 7
+black 6 black 1 red 7 black 1 black 6
+black 5 black 1 red 7 black 7
+black 3 black 1 red 7 black 5
+black 2 black 1 red 7 black 4
+black 1 black 2 red 5 black 4
+black 1 black 11
+black 1 black 11
+black 2 black 2
+black 7 black 9 black 7
+black 7 black 2 blue 5 black 2 black 7
+black 6 black 1 blue 7 black 1 black 6
+black 5 black 1 blue 7 black 7
+black 3 black 1 blue 7 black 5
+black 2 black 1 blue 7 black 4
+black 1 black 2 blue 5 black 4
+black 1 black 11
+black 1 black 11
+black 2 black 2
+black 7 black 9 black 7
+black 7 black 2 green 5 black 2 black 7
+black 6 black 1 green 7 black 1 black 6
+black 5 black 1 green 7 black 7
+black 3 black 1 green 7 black 5
+black 2 black 1 green 7 black 4
+black 1 black 2 green 5 black 4
+black 1 black 11
+black 1 black 11
+black 11
+
+columns
+black 2 black 2 black 2
+black 3 black 3 black 3
+black 4 black 4 black 4
+black 4 black 4 black 4
+black 5 black 5 black 5
+black 6 black 6 black 6
+black 30
+black 2 black 1 black 1 black 1
+black 1 black 9 black 9 black 10
+black 1 black 2 red 4 black 3 black 2 blue 4 black 3 black 2 green 4 black 4
+black 1 black 1 red 6 black 2 black 1 blue 6 black 2 black 1 green 6 black 3
+black 1 black 1 red 6 black 2 black 1 blue 6 black 2 black 1 green 6 black 3
+black 1 black 1 red 6 black 2 black 1 blue 6 black 2 black 1 green 6 black 3
+black 1 black 1 red 6 black 2 black 1 blue 6 black 2 black 1 green 6 black 3
+black 1 black 1 red 6 black 2 black 1 blue 6 black 2 black 1 green 6 black 3
+black 1 black 2 red 4 black 3 black 2 blue 4 black 3 black 2 green 4 black 4
+black 1 black 9 black 9 black 10
+black 2 black 7 black 7 black 7
+black 30
+black 6 black 6 black 6
+black 5 black 5 black 5
+black 4 black 4 black 4
+black 4 black 4 black 4
+black 3 black 3 black 3
+black 2 black 2 black 2

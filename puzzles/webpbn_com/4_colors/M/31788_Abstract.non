@@ -1,0 +1,62 @@
+by "W. Brayton Batson (batsonb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by W. Brayton Batson"
+date "Feb  6, 2019"
+description "Just an abstract drawing"
+difficulty 1.75
+height 20
+id 31788
+link "https://webpbn.com/play.cgi?id=31788"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Abstract"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 1 green 1 blue 4 black 1 blue 5 green 1 blue 1 blue 1
+blue 2 green 1 blue 1 blue 1 black 3 blue 1 blue 1 green 1 blue 1 blue 1
+blue 2 green 1 blue 2 black 2 blue 1 black 2 blue 1 blue 1 green 1 blue 2
+blue 1 blue 2 green 1 blue 1 black 2 blue 3 black 2 blue 2 green 1 blue 2
+green 5 black 2 blue 2 blue 2 black 2 blue 1 green 1 blue 1 blue 1
+green 1 black 2 blue 3 black 2 green 5
+green 2 black 2 black 1 blue 1 black 1 black 1 black 2 green 1
+black 2 black 2 black 2 green 1 black 1 black 1 black 2 green 2
+black 2 black 1 green 3 black 1 black 1 black 2
+black 2 black 2 black 1 green 6 black 3 black 2
+black 2 black 1 black 1 green 6 black 1 black 2
+black 2 black 1 black 1 green 3 black 1 black 2 black 2
+green 2 black 2 black 1 black 1 green 1 black 1 black 2 black 2
+green 1 black 2 black 1 black 1 blue 1 black 1 black 2 green 2
+green 1 black 2 blue 3 black 2 green 1
+green 6 black 2 blue 2 blue 2 black 2 green 5
+blue 1 blue 1 green 1 blue 1 black 2 blue 3 black 2 blue 1 green 1 blue 1 blue 1
+blue 2 blue 2 green 1 blue 2 black 2 blue 1 black 2 blue 2 green 1 blue 4
+blue 3 green 1 blue 1 blue 1 black 3 blue 1 blue 1 green 1 blue 2
+blue 2 blue 2 green 1 blue 4 black 1 blue 4 green 1 blue 2 blue 1
+
+columns
+blue 1 blue 1 green 1 green 1 black 1 green 1 green 1 blue 2 blue 1
+blue 3 green 3 black 3 green 4 blue 3
+blue 3 green 1 black 2 black 2 green 1 blue 1
+blue 1 blue 1 green 1 black 2 black 1 black 2 green 1 blue 3
+green 5 black 2 black 2 black 2 green 1 blue 2 blue 1
+blue 4 black 2 black 1 black 1 black 2 green 5
+blue 1 blue 1 black 2 black 2 black 2 black 1 black 2 blue 4
+blue 2 black 2 blue 1 black 1 green 2 black 1 black 1 black 2 blue 1 blue 1
+blue 1 black 2 blue 3 black 1 green 3 black 1 blue 1 black 2 blue 2
+black 2 blue 2 blue 2 black 1 green 5 black 1 blue 3 black 2 blue 1
+blue 1 black 2 blue 3 black 1 green 5 black 1 blue 2 blue 2 black 2
+blue 2 black 2 blue 1 black 2 green 3 blue 3 black 2 blue 1
+blue 1 blue 1 black 2 black 1 green 2 black 1 blue 1 black 2 blue 2
+blue 1 blue 1 black 2 black 1 black 2 black 2 black 2 blue 1 blue 1
+blue 5 black 2 black 2 black 2 black 2 blue 4
+green 6 black 2 black 1 black 1 black 2 green 5
+blue 2 blue 1 green 1 black 2 black 2 green 1 blue 2 blue 1
+blue 2 green 1 black 2 black 2 green 1 blue 3
+blue 2 green 3 black 3 green 3 blue 2
+blue 2 blue 1 green 1 green 1 black 1 green 1 green 1 blue 2 blue 1

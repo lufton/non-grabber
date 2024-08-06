@@ -1,0 +1,52 @@
+by "Kyla Galbraith (karadarr)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kyla Galbraith"
+date "Feb 12, 2012"
+description "Ohio!"
+difficulty 1.75
+height 15
+id 17532
+link "https://webpbn.com/play.cgi?id=17532"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "What state has round edges and a 'hi' center?"
+width 20
+
+rows
+1
+4,3
+7,4
+14
+1,3,2,1,3,1
+1,1,2,2,1,2,1,1
+1,2,1,2,1,1,2,1
+1,2,1,1,1,2,1
+1,2,1,2,1,1,2,1
+1,1,2,2,1,3,1
+1,3,2,1,2,2
+12
+11
+8
+3
+
+columns
+3
+1,1
+1,1
+3,5,2
+4,3,3
+5,5
+13
+2,3
+5,6
+5,7
+1,4
+12
+1,3
+11
+5,3
+4,4
+4,4,1
+1,1
+1,1
+3

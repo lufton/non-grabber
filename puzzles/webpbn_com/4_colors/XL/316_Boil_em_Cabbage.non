@@ -1,0 +1,107 @@
+by "Catherine Learoyd (wynsong)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Catherine Learoyd"
+date "Nov 26, 2005"
+description "The resin flys as the bow saws across the strings producing the fiddle tune called Boil 'em Cabbage"
+difficulty 3.75
+height 60
+id 316
+link "https://webpbn.com/play.cgi?id=316"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 4.0
+title "Boil 'em Cabbage"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1
+blue 1 red 2
+blue 1 red 2 red 3
+blue 2 red 4 red 3
+blue 1 blue 1 red 6 red 1 blue 1
+blue 1 red 8 red 1 blue 1
+blue 1 red 2 black 2 red 2 red 1 blue 1
+blue 3 black 2 red 1 black 2 red 1 red 1 blue 1
+blue 4 black 3 red 1 black 1 red 1 black 2 red 1 blue 1
+blue 4 red 1 black 1 red 1 black 3 red 1 blue 1
+blue 2 black 3 red 1 black 1 red 1 red 1 blue 1
+black 2 red 1 black 1 red 1 black 3 red 1 blue 1
+red 1 black 1 red 1 black 2 red 1 blue 1
+black 4 red 1 blue 1
+blue 1 black 3 red 1 blue 1
+blue 2 black 3 red 1 blue 1
+blue 1 blue 1 black 3 blue 1 red 1 blue 1
+blue 2 black 3 blue 1 red 1 blue 1
+blue 1 blue 1 black 3 blue 2 red 1 blue 1
+blue 1 black 3 blue 1 blue 1 red 1 blue 1
+blue 3 black 3 blue 1 red 1 blue 1
+blue 4 black 3 blue 1 red 1 blue 1
+blue 4 black 3 blue 3 red 1 blue 1
+blue 2 black 3 blue 4 red 1 blue 1
+black 3 blue 4 red 1 blue 1
+black 3 blue 2 red 1 blue 1
+red 2 black 3 red 2 red 1 blue 1
+red 3 black 3 red 3 red 1 blue 1
+red 4 black 3 red 4 red 1 blue 1
+red 4 black 3 red 3 red 1 blue 1
+red 3 black 3 red 2 red 1 blue 1
+red 3 black 3 red 3 black 3
+red 3 black 3 red 2 black 3
+red 3 black 3 red 2 black 3
+red 3 black 3 red 3 black 3
+red 3 black 3 red 3 black 3
+red 3 black 3 red 3 black 1
+red 5 black 3 red 5 black 1
+red 6 black 3 red 6 blue 1
+red 5 black 3 red 4
+red 2 black 1 red 2 black 1 red 2
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 3 red 2 black 1 red 1
+red 3 black 1 red 1 red 1 black 1 red 3
+red 5 black 1 black 3 red 1 black 1 red 5
+red 2 black 1 red 1 black 1 red 1 black 1 black 1 red 1 black 1 red 1 black 1 red 2
+red 3 black 1 red 2 red 2 black 1 red 1 red 1
+red 6 red 4 red 2
+red 6 red 3 red 2
+red 5 red 1 black 6 red 2 red 3
+red 6 red 2 black 4 red 2 red 3
+red 6 red 2 black 2 red 1 red 3
+red 6 red 2 black 2 red 3
+red 3 black 3 red 1 red 1 black 2 red 3
+red 1 black 5 red 1 red 1 black 2 red 3
+red 1 black 6 red 1 black 2 red 3
+red 1 black 5 red 1 black 1 red 3
+red 1 black 4 red 1 red 1 black 1 red 1 red 3
+red 1 black 3 red 3 black 1 red 1 red 3
+red 11
+
+columns
+blue 2
+blue 4
+blue 4 blue 2 red 4
+blue 9 blue 4 red 8
+blue 1 blue 4 red 1 red 1 red 7 black 2 red 1
+blue 1 blue 9 red 4 red 2 red 9 black 4 red 1
+blue 1 blue 1 red 11 red 10 black 5 red 1
+black 2 black 2 blue 1 blue 1 red 17 black 1 red 7 black 6 red 1
+red 1 black 2 black 2 red 4 red 6 black 2 red 3 black 1 red 2 red 1 black 5 red 1
+red 3 black 1 black 1 red 4 red 3 black 1 red 2 black 3 red 2 red 2 red 1 black 4 red 1
+red 10 black 1 red 3 red 2 black 1 red 2 red 2 black 1 red 3 red 3
+red 4 black 3 black 1 black 28 red 3 black 2 black 2 red 5 red 2
+red 4 black 2 black 1 black 1 black 27 black 1 black 7 red 4
+red 10 black 27 black 2 black 10 red 1
+red 3 black 1 black 1 red 3 black 1 red 6 black 2 red 3
+red 1 black 2 black 2 red 3 red 3 black 1 red 2 black 3 red 3 black 1 red 1
+black 2 black 2 blue 2 red 3 red 6 black 2 red 3 black 1 red 2 red 2
+blue 4 red 4 red 11 black 1 red 5 red 3
+blue 4 red 11 red 3 red 3 red 3
+blue 9 red 4 red 2 red 4 red 4
+blue 1 red 1 red 1 red 10
+blue 1 red 8
+red 29 black 7 blue 1 red 5
+red 3 black 5
+red 4 blue 27 black 5

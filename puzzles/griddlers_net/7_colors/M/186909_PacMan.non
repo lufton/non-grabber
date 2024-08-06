@@ -1,0 +1,73 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/25/17"
+height 7
+id 186909
+link "https://www.griddlers.net/nonogram/-/g/186909"
+medium_time "0:01:58"
+points 272
+popularity 78.87
+title "PacMan"
+width 42
+
+color a 000000
+color b ff9900
+color c 9900cc
+color d ffff33
+color e ffffcc
+color f ff3333
+color g 33cc00
+
+rows
+b 3 c 3 d 6
+b 5 c 5 d 5 g 1
+b 1 b 1 b 1 c 1 c 1 c 1 d 5 g 1 g 1
+b 5 c 5 d 4 e 1 e 1 e 1 e 1 g 1 g 1
+b 5 c 5 d 5 f 2 f 2
+b 5 c 5 d 5 f 2 f 2
+b 1 b 1 b 1 c 1 c 1 c 1 d 6
+
+columns
+b 6
+b 2 b 3
+b 7
+b 2 b 3
+b 6
+0
+0
+c 6
+c 2 c 3
+c 7
+c 2 c 3
+c 6
+0
+0
+0
+d 3
+d 5
+d 7
+d 7
+d 3 d 3
+d 2 d 2
+d 1 d 1
+d 1 d 1
+e 1
+0
+0
+e 1
+0
+0
+e 1
+0
+0
+e 1
+0
+0
+f 2
+f 2
+g 2
+g 1
+g 2
+f 2
+f 2

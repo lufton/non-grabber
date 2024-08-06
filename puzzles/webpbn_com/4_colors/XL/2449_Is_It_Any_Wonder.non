@@ -1,0 +1,102 @@
+by "Gypso (Gypso)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Gypso"
+date "Mar 20, 2008"
+description "Wonder Woman Underoos for Arduinna on her birthday."
+difficulty 2.25
+height 50
+id 2449
+link "https://webpbn.com/play.cgi?id=2449"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Is It Any Wonder?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 7
+black 4 blue 1 black 4
+black 4 blue 1 red 1 blue 1 black 4
+black 3 blue 7 black 3
+black 3 black 3
+black 3 black 3
+black 3 blue 2 blue 2 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 red 3 black 3
+black 5 red 1 black 5
+black 5 black 5
+black 7 black 7
+black 9 black 9
+black 8 black 8
+black 4 red 3 red 3 black 4
+black 3 red 6 red 6 black 3
+black 3 red 13 black 3
+black 3 red 6 red 6 black 3
+black 3 red 5 red 5 black 3
+black 3 red 3 red 1 red 3 black 3
+black 3 red 1 red 2 red 2 red 1 black 3
+black 1 red 2 red 3 red 3 red 2 black 1
+red 3 red 2 red 2 red 3
+red 1 black 3 red 2 red 2 black 3 red 1
+black 2 red 13 black 2
+black 2 blue 13 black 2
+blue 1 blue 1 blue 1 blue 1
+blue 3 blue 5 blue 3
+blue 1 blue 1 blue 3 blue 1 blue 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 2 blue 3 blue 3 black 2
+black 3 blue 1 blue 1 blue 1 black 3
+black 4 blue 3 black 4
+black 4 black 4
+black 3 black 3
+black 2 red 1 red 1 black 2
+red 2 red 2
+red 4 red 4
+red 4 red 4
+red 4 red 4
+red 4 red 4
+red 4 red 4
+red 4 red 4
+red 4 red 4
+red 4 red 4
+red 4 red 1 red 1 red 4
+red 4 red 1 red 1 red 4
+
+columns
+0
+black 1
+black 3
+black 5
+black 2 black 3 black 1 red 2
+black 3 black 3 red 3
+black 8 red 1 black 3
+black 13 black 3 red 2
+black 14 red 4 black 1 red 1 blue 3 red 2
+black 15 red 5 red 2 blue 1 blue 2 black 7 red 10
+black 4 black 5 red 11 blue 1 blue 1 blue 1 black 6 red 10
+black 3 blue 1 blue 1 black 3 red 6 red 2 red 1 blue 2 blue 1 blue 1 black 4 red 9
+black 4 blue 1 blue 1 black 1 red 5 red 2 red 1 blue 1 blue 1 blue 3 black 2 red 12
+black 3 blue 2 red 1 red 3 red 1 red 1 blue 1 blue 2 blue 1 blue 1
+black 2 blue 1 red 1 blue 1 red 2 red 1 red 1 red 1 blue 1 blue 3 blue 2
+black 3 blue 2 red 1 red 3 red 1 red 1 blue 1 blue 2 blue 1 blue 1
+black 4 blue 1 blue 1 black 1 red 5 red 2 red 1 blue 1 blue 1 blue 3 black 2 red 12
+black 3 blue 1 blue 1 black 3 red 6 red 2 red 1 blue 2 blue 1 blue 1 black 4 red 9
+black 4 black 5 red 11 blue 1 blue 1 blue 1 black 6 red 10
+black 15 red 5 red 2 blue 1 blue 2 black 7 red 10
+black 14 red 4 black 1 red 1 blue 3 red 2
+black 13 black 3 red 2
+black 8 red 1 black 3
+black 3 black 3 red 3
+black 2 black 3 black 1 red 2
+black 5
+black 3
+black 1
+0
+0

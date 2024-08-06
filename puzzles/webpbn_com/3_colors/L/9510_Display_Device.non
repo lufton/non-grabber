@@ -1,0 +1,81 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by David Bouldin"
+date "Jul  7, 2010"
+description "The lava lamp was patented (#3,387,396) as a "Display Device" in 1968."
+difficulty 2.25
+height 45
+id 9510
+link "https://webpbn.com/play.cgi?id=9510"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Display Device"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 5
+black 1 red 3 black 1
+black 1 red 5 black 1
+black 1 red 5 black 1
+black 1 red 4 black 1
+black 2 red 3 black 2
+black 1 red 2 black 1
+black 1 red 3 black 1
+black 1 red 4 black 1
+black 2 red 5 black 2
+black 1 red 4 black 1
+black 1 red 3 black 1
+black 1 red 2 black 1
+black 2 black 2
+black 1 red 3 black 1
+black 1 red 4 red 1 black 1
+black 1 red 2 red 3 black 1
+black 1 red 3 black 1
+black 1 red 1 red 1 red 5 black 1
+black 2 red 7 black 2
+black 1 red 1 red 10 black 1
+black 15
+black 15
+black 2 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 2
+black 2 black 1
+black 4 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 2
+black 2 black 2
+black 15
+
+columns
+black 5 black 3
+black 7 black 6 black 6
+black 5 red 1 black 2 black 6 black 6 black 1
+black 5 red 2 black 2 black 8 black 1
+black 4 red 2 red 1 red 1 black 2 black 2 black 2 black 2 black 1
+black 5 red 2 red 2 red 3 red 1 black 2 black 3 black 1 black 2 black 1
+black 1 black 1 red 5 red 5 red 2 red 3 black 2 black 1 black 1
+black 1 black 1 red 12 red 2 black 2 black 1
+black 1 black 1 red 11 red 3 black 2 black 1
+black 5 red 3 red 3 red 5 black 2 black 1
+black 4 red 6 black 2 black 1 black 1
+black 5 red 5 black 2 black 8 black 1
+black 5 red 3 black 2 black 6 black 6 black 1
+black 7 red 1 black 6 black 6
+black 5 black 3

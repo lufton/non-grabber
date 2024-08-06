@@ -1,0 +1,61 @@
+by "Syla Vims (syla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Syla Vims"
+date "Aug  1, 2011"
+description "We'll remember those who died in the bombing in Oslo. We'll remember those who died in the masacre on utÃ¸ya. We'll remember how one man's madness could steal the futures of so many people.We'll remember how the entire nation stood together in grief. We'll remember the sea of roses. We'll remember not to fight hate with hate, but with love. And we'll remember: "That if one man can show so much hate, think how much love we all can show together!""
+difficulty 1.5
+height 20
+id 15405
+link "https://webpbn.com/play.cgi?id=15405"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "We'll remember!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 4 black 4
+black 2 black 2 black 2 black 2
+black 1 black 1 black 1
+black 1 black 1 black 4
+black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 4 black 4
+0
+red 2 red 2
+red 4 red 4
+black 3 red 11
+black 1 red 11
+black 1 red 11
+black 1 red 9
+black 1 red 7
+black 1 black 1 red 5
+black 6 red 3
+red 1
+
+columns
+0
+black 1 black 1
+black 6 black 7
+black 2 black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 2 black 2
+black 6
+red 3
+red 5
+red 7
+black 2 black 2 red 8
+black 2 black 1 black 2 red 8
+black 1 black 1 black 1 red 8
+black 1 black 1 black 1 red 8
+black 2 black 2 black 2 red 8
+black 1 black 3 red 7
+red 5
+red 3
+0

@@ -1,0 +1,108 @@
+by "ryan moore (solar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by ryan moore"
+date "Aug 29, 2013"
+description "The sign speaks for itself."
+difficulty 2.25
+height 37
+id 22666
+link "https://webpbn.com/play.cgi?id=22666"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Somethings Wrong #8"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 11
+black 11
+black 14
+black 5 black 11
+black 5 black 10
+black 5 black 3
+black 5 black 3
+black 5 black 3
+black 5 black 3
+black 5 black 9
+black 39 black 3 red 3 black 3
+black 1 black 1 black 2 red 5 black 2
+black 1 black 3 black 1 black 1 black 1 black 3 black 1 black 1 black 3 black 1 black 1 black 3 black 1 black 1 red 7 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 7 black 1
+black 1 black 1 black 3 black 1 black 3 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1 red 7 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 red 5 black 2
+black 1 black 1 black 1 black 1 black 1 black 3 black 3 black 1 black 3 black 1 black 1 black 1 black 1 black 3 red 3 black 3
+black 1 black 1 black 9
+black 1 black 1 black 1 black 3 black 1 black 1 black 3 black 3 black 1 black 3 black 3
+black 1 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 2
+black 1 black 1 black 2 black 3 black 1 black 1 black 3 black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 3 black 1 black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 3 black 1 black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 2
+black 1 black 3 black 1 black 1 black 3 black 1 black 1 black 3 black 1 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 1 black 9
+black 1 black 1 black 1 black 1 black 3 black 1 black 2 black 3 black 1 black 3 black 3
+black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 2 black 2
+black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 3 black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 3 black 3 black 3 black 1 black 2 black 1 black 3 black 3
+black 1 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 1 black 9
+black 1 black 3 black 1 black 1 black 3 black 3 black 1 black 1 black 1
+black 1 black 1
+black 39
+
+columns
+black 1 black 27
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 5 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 5 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 5 black 5 black 5 black 5 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 3 black 1 black 1 black 3 black 1
+black 1 black 1 black 5 black 4 black 1
+black 1 black 1 black 3 black 1 black 1 black 5 black 1
+black 1 black 1 black 1 black 1 black 1 black 5 black 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 3 black 1 black 1 black 1 black 4 black 3 black 1 black 1
+black 10 black 1 black 1 black 1 black 1
+black 10 black 5 black 5 black 1
+black 10 black 5 black 4 black 1 black 2 black 1 black 1 black 1 black 1
+black 10 black 1 black 2 black 3 black 1 black 1 black 1 black 1 black 1
+black 9 black 1 black 4 black 1
+black 1 black 1 black 5 black 5 black 1
+black 1 black 1 black 1 black 3 black 5 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 5 black 1 black 1 black 1 black 5 black 1
+black 1 black 1 black 1 black 1 black 5 black 1
+black 1 black 1 black 1 black 3 black 5 black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 5 black 3 black 1 black 1 black 3 black 5 black 1
+black 2 black 1 black 1 black 1
+black 1 black 1 black 5 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 5 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 27
+black 1
+black 2 black 25
+black 1 black 3 red 3 black 5 black 5 black 3
+black 1 black 2 red 5 black 3 black 3 black 2
+black 6 red 7 black 1 black 1 black 1
+black 6 red 7 black 1 black 1 black 1
+black 6 red 7 black 1 black 1 black 1
+black 1 black 2 red 5 black 3 black 3 black 2
+black 1 black 3 red 3 black 5 black 5 black 3
+black 1 black 25
+black 1

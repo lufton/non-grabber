@@ -1,0 +1,62 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug 15, 2016"
+description "2000 movie"
+difficulty 1.75
+height 20
+id 28567
+link "https://webpbn.com/play.cgi?id=28567"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "another Ã  la Norma #32 (dropped letter) with an extra tip of the hat to Norma"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 5
+black 1 red 1 black 1
+black 1 red 3 black 1
+black 1 red 1 black 1
+black 5
+black 1 green 1 black 1 green 1 black 1
+black 6
+black 1 red 1 black 6
+black 6 black 1 red 1 black 5
+black 14
+black 11
+black 9
+black 10
+black 8
+black 5 black 1
+black 2 black 1 red 3
+black 1 red 1
+red 3 black 1 red 1
+red 1
+
+columns
+black 1
+black 1
+black 2
+black 2
+black 3
+black 4 red 1
+black 6 black 4 red 1
+black 1 red 1 black 1 green 1 black 1 black 6 red 1
+black 1 red 3 black 14 red 1
+black 1 red 1 black 1 green 1 black 1 red 2 black 7
+black 7 black 6
+black 1 black 6
+black 1 black 5
+black 8 red 2
+black 4 black 2 red 1
+black 3 black 1 red 1
+black 2 red 1
+black 2
+black 1
+black 1

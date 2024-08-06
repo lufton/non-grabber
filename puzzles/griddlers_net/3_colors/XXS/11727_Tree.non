@@ -1,0 +1,30 @@
+by "vickid"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/9/04"
+height 5
+id 11727
+link "https://www.griddlers.net/nonogram/-/g/11727"
+medium_time "0:00:19"
+points 20
+popularity 44.98
+title "Tree"
+width 5
+
+color a ffffff
+color c 00ff00
+color d 916200
+
+rows
+c 1 d 1 c 2 d 1
+c 2 d 3
+c 3 d 1
+d 1
+d 1
+
+columns
+c 2
+d 1 c 2
+c 1 d 1 c 1
+c 1 d 1 c 1
+d 5

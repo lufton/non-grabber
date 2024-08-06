@@ -1,0 +1,73 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/11/18"
+height 27
+id 188752
+link "https://www.griddlers.net/nonogram/-/g/188752"
+medium_time "0:10:14"
+points 10043
+popularity 79.0
+title "Casimir"
+width 23
+
+color a ffaf05
+color b 000000
+color c 848400
+color d 996600
+color e ff8c00
+color f ffffff
+
+rows
+c 23
+c 7 d 3 e 1 c 12
+c 6 d 2 f 2 e 2 c 3 d 3 c 4
+c 6 d 1 f 4 e 3 d 2 f 2 d 1 c 3
+c 5 d 1 e 1 f 4 e 1 d 1 f 4 c 3
+c 5 d 1 f 2 b 2 f 1 f 5 c 2
+c 4 d 2 f 1 b 3 f 1 f 1 b 2 f 2 c 2
+c 3 d 3 f 2 b 2 f 1 f 1 b 3 f 1 c 2
+c 3 d 3 e 4 f 1 b 2 f 2 c 2
+c 2 d 3 e 6 c 1
+c 2 d 3 e 7 c 1
+c 2 d 3 e 6 c 1
+c 2 d 3 e 4 c 1
+c 2 d 3 e 4 c 1
+c 2 d 3 e 4 c 1
+c 3 d 3 e 2 c 1
+c 3 b 1 d 2 e 2 e 3 e 3 c 1
+c 3 d 1 b 1 d 1 e 2 e 1 b 1 e 1 e 1 b 1 e 1 c 1
+c 3 d 1 b 1 d 1 e 2 e 2 e 2 c 2
+c 4 d 1 b 1 d 1 e 2 c 2
+c 4 d 1 b 2 d 2 e 3 c 3
+c 4 d 3 b 3 d 5 d 1 c 4
+c 2 d 8 b 5 d 1 b 1 d 2 c 4
+d 2 e 2 d 4 d 3 c 5
+e 5 d 2 e 1 d 1 c 4
+e 6 d 1 e 2 d 1 c 3
+e 12 c 2
+
+columns
+c 23 d 1 e 3
+c 23 d 1 e 3
+c 9 d 6 c 7 d 1 e 4
+c 7 d 9 b 1 d 2 c 3 d 1 e 4
+c 6 d 11 b 2 d 5 e 3
+c 4 d 5 e 6 d 4 b 2 d 4 e 2
+c 2 d 2 e 1 f 3 e 11 d 1 b 1 d 5 e 1
+c 1 d 2 f 3 b 1 f 1 e 12 d 1 b 1 d 2 e 3
+c 1 d 1 f 3 b 3 e 7 e 1 d 1 b 1 d 1 d 1 e 2
+c 1 d 1 f 3 b 3 e 4 e 3 e 1 b 1 d 1 d 1 e 1
+c 1 e 2 f 5 e 3 e 1 b 1 e 1 e 1 d 1 b 1 e 1
+c 2 e 3 e 1 e 2 e 1 d 1 b 1 e 1
+c 3 e 1 d 1 b 1
+c 3 e 1 d 1 b 1
+c 3 d 2 e 2 d 1 b 1 d 1
+c 2 d 2 f 5 e 1 b 1 e 1 d 2
+c 2 d 1 f 3 b 3 e 3 b 1 d 1
+c 2 d 1 f 3 b 3 d 1
+c 2 d 1 f 3 b 1 f 1 d 2 c 1
+c 3 f 4 c 4
+c 5 c 6
+c 9 c 9
+c 27

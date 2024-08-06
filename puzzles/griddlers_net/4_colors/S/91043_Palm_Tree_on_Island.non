@@ -1,0 +1,51 @@
+by "BeaCards"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/6/10"
+height 15
+id 91043
+link "https://www.griddlers.net/nonogram/-/g/91043"
+medium_time "0:03:39"
+points 465
+popularity 59.43
+title "Palm Tree on Island"
+width 15
+
+color a 66ccff
+color b ffcc00
+color c c98c00
+color d 00cc00
+
+rows
+d 9
+d 11
+d 13
+d 5 c 1 d 3 d 4
+d 3 c 1 d 4 d 3
+d 1 c 1 d 3 d 2
+c 1 d 1 c 2 d 1
+c 4
+c 4
+c 4
+c 4
+b 9
+b 11
+b 13
+b 15
+
+columns
+d 1 b 1
+d 3 b 2
+d 5 b 3
+d 5 b 4
+d 4 b 4
+d 3 c 2 b 4
+d 3 c 2 c 3 b 4
+d 5 c 1 c 4 b 4
+d 6 c 5 b 4
+d 7 c 2 b 4
+d 3 d 2 c 2 b 4
+d 4 c 1 b 4
+d 4 b 3
+d 4 b 2
+d 4 b 1

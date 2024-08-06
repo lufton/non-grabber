@@ -1,0 +1,82 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Nov 24, 2011"
+description "in the snow."
+difficulty 2.75
+height 30
+id 16463
+link "https://webpbn.com/play.cgi?id=16463"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "WCP #97 Writing his name"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+green 3
+green 1 green 1 green 1
+green 3 green 1 green 3
+green 1 green 2 green 1 green 1 green 1
+green 3 green 1 green 3 green 1
+green 3 green 1 green 2
+green 1 green 2 green 3
+green 2 green 1 green 3 green 1 green 1 green 1 green 1
+green 1 green 2 green 1 green 1 green 1 green 2 green 2 green 2
+green 2 green 4 green 8 green 1 green 1
+green 1 green 2 green 2
+green 1 green 1
+0
+0
+black 2 black 2
+black 2 red 7 black 2
+black 1 red 9 black 1
+red 11
+red 5 red 5
+red 4 red 3 red 4
+red 4 red 1 red 1 red 4
+red 4 red 3 red 4
+red 4 red 4
+red 7
+0
+0
+0
+
+columns
+0
+green 3 green 2
+green 1 green 1 green 3
+green 8
+green 2
+green 4
+green 3 green 3
+green 2
+green 1
+green 1
+green 3
+green 1
+green 3
+green 1
+green 1 green 3
+green 1 red 4
+green 2 black 3 red 6
+green 3 black 2 red 7
+green 1 red 9
+green 1 red 4 red 2
+red 3 red 3 red 1
+red 3 red 1 red 1 red 1
+red 3 red 3 red 1
+green 3 green 2 red 4 red 2
+green 1 green 1 green 3 red 9
+green 7 black 2 red 7
+green 1 black 3 red 6
+green 4 red 4
+green 3 green 3
+green 2

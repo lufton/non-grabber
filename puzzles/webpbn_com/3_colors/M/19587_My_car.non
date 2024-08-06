@@ -1,0 +1,61 @@
+by "Jared Dillon (dillpickle)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jared Dillon"
+date "Aug 19, 2012"
+description "I couldn't get the doors to look right and they look like zeros now but oh well"
+difficulty 1.25
+height 20
+id 19587
+link "https://webpbn.com/play.cgi?id=19587"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "My car"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+0
+0
+0
+0
+red 8
+red 10
+red 3 black 5 red 1 black 5 red 1
+red 5 black 1 red 3 black 1 red 1 black 1 red 3 black 1 red 4
+red 5 black 1 red 3 black 1 red 1 black 1 red 3 black 1 red 4
+red 5 black 1 red 3 black 1 red 1 black 1 red 3 black 1 red 4
+red 5 black 5 red 1 black 5 red 4
+red 20
+red 4 black 2 red 8 black 2 red 4
+black 4 black 4
+black 4 black 4
+black 2 black 2
+
+columns
+red 6
+red 6
+red 7
+red 7 black 2
+red 6 black 4
+red 1 black 5 red 1 black 4
+red 2 black 1 red 3 black 1 red 2 black 2
+red 2 black 1 red 3 black 1 red 2
+red 2 black 1 red 3 black 1 red 2
+red 2 black 5 red 2
+red 9
+red 2 black 5 red 2
+red 2 black 1 red 3 black 1 red 2
+red 2 black 1 red 3 black 1 red 2 black 2
+red 1 black 1 red 3 black 1 red 1 black 4
+black 5 red 1 black 4
+red 7 black 2
+red 6
+red 6
+red 6

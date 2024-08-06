@@ -1,0 +1,90 @@
+by "Ratbag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/22/05"
+height 35
+id 17759
+link "https://www.griddlers.net/nonogram/-/g/17759"
+medium_time "0:43:10"
+points 50575
+popularity 81.35
+title "Flower Bush"
+width 30
+
+color a 0099ff
+color b ffe3f1
+color c 009933
+color d 006633
+color e ccccff
+color f 9900ff
+color g ffb0e2
+color h ff33cc
+
+rows
+0
+0
+d 1
+h 1 d 1 c 1
+h 4 d 1 c 1
+h 1 g 1 h 3 d 2 c 1
+h 4 g 1 h 1 d 1 c 1
+h 3 g 1 b 1 g 1 h 1 d 1 c 1
+h 1 e 3 b 1 g 1 h 1 h 2 c 1 h 1
+h 5 e 1 b 1 g 1 h 1 h 1 g 2 h 2 h 1 g 1 h 1
+h 2 h 1 e 2 h 1 h 1 g 1 b 1 g 2 h 1 h 1 g 2 h 1
+h 2 d 2 c 1 h 3 b 1 g 1 h 3 g 4 h 2
+d 1 d 1 c 1 h 5 g 3 f 1 g 3 h 1
+d 1 h 2 d 2 d 1 c 1 h 3 g 1 f 2 g 1 h 2
+d 2 h 1 g 2 h 1 d 1 c 1 d 1 c 2 h 1 g 2 f 1 g 2 h 1
+d 1 c 1 h 3 g 3 h 2 d 1 c 1 d 1 c 1 h 5 g 2 h 1
+d 1 c 2 h 1 g 2 e 1 f 1 g 3 h 1 c 1 d 1 c 2 h 5 g 1 h 1
+d 2 c 1 d 1 h 1 g 1 f 2 g 1 b 1 h 1 d 2 c 1 d 1 c 2 h 2
+d 2 c 1 h 1 g 4 b 1 h 1 d 2 c 1 d 1 c 2
+d 1 c 2 h 2 g 1 b 2 h 1 d 2 c 1 d 2 c 1
+d 1 c 2 h 3 d 2 d 1 h 2
+d 2 c 2 h 1 h 2 d 1 h 3 g 2 h 1
+d 2 c 2 h 1 e 2 g 2 h 2 g 1 b 1 g 1 h 1
+d 1 c 2 h 2 e 1 g 3 h 3 g 1 b 1 h 1
+d 2 c 2 h 1 g 1 e 1 g 1 f 2 e 1 g 1 b 1 h 2 g 2 h 1
+h 2 d 1 c 1 h 2 g 2 e 1 f 1 g 1 b 1 h 1 g 1 h 7
+h 1 g 1 h 2 c 1 h 1 g 2 b 2 g 1 b 1 h 3 e 2 g 3 h 1
+h 3 e 2 h 1 d 2 h 1 b 2 h 2 b 2 h 2 e 1 g 1 f 1 g 2 h 1
+h 1 g 1 e 2 g 1 h 2 d 1 h 2 d 2 h 3 e 1 g 1 f 1 e 1 g 3 h 1
+h 1 e 1 f 1 g 3 h 4 d 2 d 1 h 1 e 1 g 4 b 2 h 1
+h 1 g 2 f 1 g 1 h 2 g 4 h 1 d 2 d 1 h 1 g 1 h 2 b 2 h 3
+h 2 g 2 h 4 g 4 h 1 d 2 d 2 h 1 h 2
+h 2 g 1 h 2 d 1 h 7 d 5
+h 2 d 4 h 2 d 5
+d 3 d 5
+
+columns
+0
+h 2 h 1 h 2 h 3
+h 5 d 7 h 1 g 1 h 1 g 1 h 2
+h 4 e 1 h 2 d 1 c 2 d 6 h 2 e 2 g 3 h 1
+h 2 g 1 h 1 g 1 e 1 h 1 c 5 d 4 h 1 g 1 e 2 f 2 g 1 h 2
+h 2 g 1 b 1 e 1 h 1 h 2 d 1 h 1 c 5 d 1 h 2 e 1 g 3 h 2
+h 3 g 1 b 1 e 1 h 1 h 1 g 1 h 1 g 1 h 1 c 4 d 1 h 3 g 1 h 2 d 2
+h 1 h 1 g 1 b 1 e 1 h 1 h 2 g 3 h 1 c 3 d 1 h 1 g 1 h 3 d 2
+h 1 g 1 e 1 h 1 h 1 g 2 e 1 f 1 g 2 h 1 d 2 h 1 g 1 h 2 d 2
+h 2 d 1 h 1 g 2 f 2 g 1 b 1 h 2 h 2 h 1 g 2 h 1 d 2
+d 1 h 1 g 3 b 2 h 1 h 1 g 1 h 1 h 1 g 2 h 2
+c 1 d 2 h 1 g 1 b 1 h 2 h 2 e 1 g 1 h 2 h 1 g 2 h 2
+c 1 d 2 h 1 g 1 h 1 h 1 e 2 g 3 b 1 h 1 h 1 g 1 h 1
+c 1 d 1 h 1 d 3 h 1 e 1 g 1 f 1 e 1 g 1 b 1 h 1 h 2
+c 2 d 5 g 2 f 2 b 1 h 1 d 7
+h 3 c 3 d 1 h 1 g 2 e 1 g 1 b 1 h 1 d 7
+d 4 h 1 g 2 h 2 h 3 g 1 b 1 g 1 b 1 h 1 d 3
+c 2 d 3 h 1 g 1 b 1 h 2 d 8 h 3 b 1 h 1 b 2 h 1 d 6
+c 4 h 1 g 1 b 1 h 1 c 6 d 1 h 1 g 2 h 2 g 1 h 5 d 4
+h 1 g 2 h 2 c 1 h 1 c 4 h 1 g 1 b 1 g 1 h 4 e 2 g 1 h 1
+h 7 h 1 g 1 b 1 g 1 h 2 e 1 g 2 h 1
+h 1 g 1 h 1 g 1 h 2 h 2 g 1 h 1 e 1 g 1 f 1 g 1 h 1
+h 1 g 3 h 2 h 2 e 1 f 1 e 1 g 1 b 1 h 1
+h 2 g 2 f 2 h 2 h 1 g 4 b 1 h 1
+h 1 g 3 f 2 g 2 h 2 h 1 g 3 b 1 h 1
+h 1 g 7 h 1 h 1 g 1 h 1 g 1 b 1 h 1
+h 1 g 2 h 4 h 1 h 3
+h 1 g 1 h 1
+h 2
+0

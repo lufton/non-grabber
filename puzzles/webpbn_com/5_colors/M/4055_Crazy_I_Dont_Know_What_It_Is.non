@@ -1,0 +1,63 @@
+by "Matt (MattSpider)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Matt"
+date "Nov 17, 2008"
+description "See Can YOU tell what it is... me neither"
+difficulty 1.25
+height 20
+id 4055
+link "https://webpbn.com/play.cgi?id=4055"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Crazy I Dont Know What It Is"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 1 red 5 black 1 red 4 black 1
+black 1 red 5 black 1 red 4 black 1
+black 1 red 5 black 1 red 4 black 1
+black 1 red 5 black 1 red 4 black 1
+black 1 red 5 black 1 red 4 black 1
+black 1 red 5 black 1 red 4 black 1
+black 1 red 5 black 1 red 4 black 1
+black 1 red 5 black 1 red 4 black 1
+black 20
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 1 green 9 black 1 blue 8 black 1
+black 20
+
+columns
+black 20
+black 1 black 1 green 9 black 1
+black 1 black 1 green 9 black 1
+black 1 black 1 green 9 black 1
+black 1 black 1 green 9 black 1
+black 1 red 8 black 1 green 9 black 1
+black 1 red 8 black 1 green 9 black 1
+black 1 red 8 black 1 green 9 black 1
+black 1 red 8 black 1 green 9 black 1
+black 1 red 8 black 1 green 9 black 1
+black 20
+black 1 red 8 black 1 blue 9 black 1
+black 1 red 8 black 1 blue 9 black 1
+black 1 red 8 black 1 blue 9 black 1
+black 1 red 8 black 1 blue 9 black 1
+black 1 black 1 blue 9 black 1
+black 1 black 1 blue 9 black 1
+black 1 black 1 blue 9 black 1
+black 1 black 1 blue 9 black 1
+black 20

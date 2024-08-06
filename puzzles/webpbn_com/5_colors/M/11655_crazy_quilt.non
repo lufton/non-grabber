@@ -1,0 +1,63 @@
+by "Victoria Falkner (falknerv2011)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Victoria Falkner"
+date "Jan  3, 2011"
+description ""
+difficulty 1.25
+height 20
+id 11655
+link "https://webpbn.com/play.cgi?id=11655"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "crazy quilt"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 1 blue 1 red 2 black 1 blue 1 black 2 green 3 black 2 blue 1 red 2 black 1 green 1 black 1
+black 1 green 2 red 2 green 10 red 2 green 3
+black 1 green 1 blue 1 red 17
+black 1 green 1 blue 1 red 17
+black 1 green 1 blue 1 red 2 blue 4 green 3 blue 3 red 2 blue 1 green 1 blue 1
+black 1 green 1 blue 1 red 2 black 1 blue 1 red 13
+black 1 green 2 red 2 green 10 red 2 green 3
+black 1 green 2 red 2 green 15
+black 1 green 1 blue 1 red 2 black 1 blue 1 black 2 red 2 black 9
+black 1 red 7 black 1 red 2 green 1 red 8
+black 1 red 19
+black 1 red 7 black 1 red 2 green 1 red 8
+black 1 green 1 blue 7 red 2 green 1 blue 3 red 2 blue 1 green 1 blue 1
+black 1 green 1 blue 1 red 2 blue 4 green 3 blue 3 red 2 blue 1 green 1 blue 1
+black 1 red 12 black 1 blue 1 red 2 black 1 green 1 black 1
+black 20
+black 20
+black 1 red 16 black 1 green 1 black 1
+black 1 green 2 red 2 green 10 red 2 green 3
+black 1 green 1 blue 1 red 2 black 1 blue 1 black 2 green 3 black 2 blue 1 red 2 black 1 green 1 black 1
+
+columns
+black 20
+green 9 red 3 green 2 red 1 black 2 red 1 green 2
+blue 1 green 1 blue 4 green 2 blue 1 red 3 blue 2 red 1 black 2 red 1 green 1 blue 1
+red 12 blue 1 red 2 black 2 red 3
+red 12 blue 1 red 2 black 2 red 3
+black 1 green 1 red 2 blue 1 black 1 green 2 black 1 red 3 blue 2 red 1 black 2 red 1 green 1 black 1
+blue 1 green 1 red 2 blue 2 green 2 blue 1 red 3 blue 2 red 1 black 2 red 1 green 1 blue 1
+black 1 green 1 red 2 blue 1 red 1 green 2 black 1 red 3 blue 2 red 1 black 2 red 1 green 1 black 1
+black 1 green 1 red 2 blue 1 red 1 green 2 black 2 red 1 black 1 blue 2 red 1 black 2 red 1 green 1 black 1
+green 2 red 2 green 1 red 1 green 2 red 5 green 1 red 1 black 2 red 1 green 2
+green 2 red 2 green 1 red 1 green 2 red 5 green 1 red 1 black 2 red 1 green 2
+green 2 red 2 green 1 red 1 green 2 black 1 green 1 red 1 green 3 red 1 black 2 red 1 green 2
+black 1 green 1 red 2 blue 1 red 1 green 2 black 1 red 3 blue 2 red 1 black 2 red 1 green 1 black 1
+black 1 green 1 red 2 blue 1 red 1 green 2 black 1 red 3 blue 2 black 3 red 1 green 1 black 1
+blue 1 green 1 red 2 blue 1 red 1 green 2 black 1 red 3 blue 3 black 2 red 1 green 1 blue 1
+red 7 green 1 black 1 red 6 black 2 red 3
+red 7 green 1 black 1 red 6 black 2 red 3
+black 1 green 1 red 2 blue 1 red 1 green 2 black 1 red 3 blue 2 black 4 green 1 black 1
+green 2 red 2 green 1 red 1 green 2 black 1 red 3 green 3 black 2 green 3
+black 1 green 1 red 2 blue 1 red 1 green 2 black 1 red 3 blue 2 black 4 green 1 black 1

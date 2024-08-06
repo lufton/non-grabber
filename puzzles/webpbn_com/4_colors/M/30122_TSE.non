@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Aug 23, 2017"
+description "The Total Solar Eclipse in Madras Oregon. I've included the two brightest solar prominences and the parachutist who photobombed the event."
+difficulty 2.0
+height 20
+id 30122
+link "https://webpbn.com/play.cgi?id=30122"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "TSE"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 8 blue 9
+blue 6 blue 9
+blue 1 blue 3 blue 2 blue 4
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 black 3 red 1 blue 2
+blue 2 black 7 blue 4
+blue 3 red 1 black 9 blue 2
+blue 3 black 11 blue 1
+blue 4 black 11 blue 2
+black 13 blue 2
+blue 2 black 13 blue 1
+blue 3 black 13 blue 2
+blue 4 black 11 blue 2
+blue 2 black 11 blue 1
+black 9
+blue 5 black 7 blue 1
+blue 2 black 2 black 3 blue 1 blue 2
+blue 3 blue 3 blue 3
+blue 2 black 1 blue 2 blue 3 blue 3
+blue 1 blue 7 blue 4 blue 1
+
+columns
+blue 7 blue 4 blue 5
+blue 5 blue 4 blue 4
+blue 1 blue 3 blue 2 blue 1 black 1 blue 1
+blue 3 blue 1 blue 1 blue 1 black 1 black 1
+blue 4 black 3 blue 1
+blue 3 red 1 black 7 blue 1
+blue 2 black 9 blue 1
+blue 3 black 11 blue 1
+blue 4 black 11 blue 1
+blue 1 black 13 blue 2
+black 13 blue 2
+blue 2 black 13 blue 1
+blue 2 black 11
+blue 4 red 1 black 11 blue 3
+blue 3 black 9 blue 4
+blue 3 black 7 blue 3
+blue 3 blue 2 black 3 blue 1
+blue 2 blue 2 blue 3
+blue 2 blue 2 blue 2 blue 2 blue 4
+blue 2 blue 3 blue 7 blue 3

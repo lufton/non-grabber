@@ -1,0 +1,72 @@
+by "Gary Pfingsten ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Gary Pfingsten"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 30
+id 27400
+link "https://webpbn.com/play.cgi?id=27400"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "The Columbia River Gorge(ous)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 green 1 black 6 black 1 black 8
+black 1 green 3 black 5 black 1 black 4 green 1 black 3
+green 2 black 1 green 2 black 4 black 1 black 3 green 3 black 2
+green 2 black 1 green 2 black 3 black 2 black 3 green 3 black 2
+black 6 green 1 black 1 black 2 black 1 green 2 black 1 green 2 black 1
+black 5 green 3 black 1 black 1 black 1 green 2 black 1 green 2 black 1
+black 5 green 1 black 1 green 1 black 1 black 1 black 2 green 1 black 1 green 1 black 2
+black 1 green 1 black 6 black 1 black 1 black 4 green 1 black 2
+green 1 black 1 green 1 black 1 green 1 black 2 black 1 black 3 green 3 black 1
+green 1 black 1 green 4 black 1 black 1 black 1 black 3 green 3 black 1
+black 2 green 5 black 1 black 1 black 1 black 1 green 2 black 1 green 2
+black 2 green 2 black 1 green 2 black 1 black 1 black 2 green 2 black 1 green 2
+black 3 green 1 black 1 green 2 black 2 black 1 black 3 green 1 black 1 green 1 black 1
+black 5 green 1 black 5 black 7
+black 1 green 1 black 2 blue 11 black 3 green 1 black 1
+green 3 blue 13 black 1 green 3
+green 3 blue 1 black 2 black 4 black 2 green 1 black 1 green 1 black 1 green 1
+green 1 black 1 green 2 black 2 black 1 black 3 green 3 black 3
+green 1 black 1 green 2 black 1 black 1 black 1 green 3 black 3
+black 3 green 1 black 1 black 1 black 2 black 1 green 2 black 1 green 2 black 2
+black 2 green 1 black 2 black 4 black 1 green 2 black 1 green 2 black 2
+black 1 green 3 black 1 black 2 black 1 green 1 black 1 green 1 black 3
+black 1 green 3 black 1 black 2 black 1 black 1 black 5
+green 2 black 1 green 2 black 2 black 1 black 2 black 2 green 1 black 2
+black 1 green 1 black 1 green 1 black 2 black 1 black 1 black 1 black 1 black 1 green 3 black 1
+black 4 green 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3 black 1
+black 3 green 3 black 1 black 1 black 1 black 1 green 2 black 1 green 2
+black 3 green 3 black 1 black 1 black 1 black 1 green 2 black 1 green 2
+black 3 green 1 black 1 green 1 black 1 black 1 black 1 black 1 black 1 green 1 black 1 green 1 black 1
+black 2 green 2 black 1 green 2 black 1 black 11
+
+columns
+black 2 green 2 black 4 green 2 black 5 green 4 black 4 green 1 black 6
+black 1 green 3 black 3 green 1 black 6 green 3 black 4 green 4 black 5
+green 2 black 6 green 4 black 3 green 4 black 1 green 3 black 6 green 1
+black 1 green 3 black 5 green 4 black 2 blue 2 green 3 black 1 green 4 black 1 green 4
+black 2 green 2 black 4 green 3 black 3 blue 2 black 4 green 1 black 1 green 3 black 2
+black 5 green 2 black 2 green 5 blue 2 black 2 black 2 green 4
+black 4 green 2 black 4 green 3 black 1 blue 2 black 8 green 1
+black 5 green 2 black 1 black 2 blue 2 black 10
+black 3 black 5 blue 2 black 5
+black 5 black 1 blue 2 black 1 black 11
+black 5 black 6 blue 2 black 2 black 1
+black 3 blue 2 black 5 black 6
+black 4 black 1 blue 2 black 1 black 2 black 1
+black 10 black 3 blue 2 black 1 green 2 black 7
+black 4 green 2 black 8 blue 2 black 1 green 5 black 1
+black 2 green 5 black 3 green 2 black 3 blue 1 green 3 black 7 green 2 black 2
+black 1 green 3 black 4 green 5 black 4 green 5 black 2 green 5 black 1
+black 2 green 8 black 5 green 2 black 2 green 2 black 2 green 3 black 4
+black 4 green 2 black 2 green 5 black 1 green 2 black 8 green 5 black 1
+black 10 green 2 black 3 green 2 black 9 green 2 black 2

@@ -1,0 +1,91 @@
+by "Bobbie Hall (koalaobo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Bobbie Hall"
+date "Jun 24, 2006"
+description "The Roadrunner. A Native American rendition of the New Mexico state bird. Its humorous antics have given it the nickname, the "clown of the desert.""
+difficulty 3.0
+height 30
+id 459
+link "https://webpbn.com/play.cgi?id=459"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Bird Clown"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 4
+black 2 black 5
+black 9 black 5 red 1
+black 5 black 2 black 5 red 1
+black 3 black 1 black 4 black 5 red 1
+black 2 black 2 black 3 black 5 red 1
+black 2 black 4 black 5 red 1
+black 3 black 2 black 4 red 1
+black 3 black 4 red 1
+black 3 black 2 black 4 red 1
+black 6 black 19 red 1
+black 4 black 2 black 4 red 1
+black 2 black 2 black 2 red 1
+black 2 black 3 red 1 red 1 red 1 red 1
+black 1 black 2 red 2 red 2 red 2
+black 2 black 2 red 3 red 3 red 3
+black 2 black 20
+black 2
+black 24
+black 25
+black 4 black 4
+black 4 black 3
+black 2 black 3
+black 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 2
+black 3 black 2 black 2 black 3
+black 4 black 2 black 2 black 4
+black 7 black 2 black 2 black 14
+black 8 black 2 black 2 black 15
+black 9 black 5 black 5 black 16
+
+columns
+black 4 black 7
+black 7 black 6
+black 7 black 5
+black 3 black 3 black 4
+black 2 black 3 black 3
+black 1 black 2 black 3 black 3
+black 1 black 4 black 4 black 3
+black 1 black 2 black 6 black 2
+black 2 black 2 black 2 black 2 black 1
+black 3 black 2 black 1 black 2
+black 2 black 1 black 3 black 2 black 1
+black 1 black 5 black 2 black 1
+black 1 black 2 black 2 black 2 black 1
+black 1 black 1 black 2 black 2
+black 1 red 3 black 1 black 2 black 3
+black 1 red 2 black 1 black 2 black 2
+black 1 red 1 black 1 black 3 black 2
+black 1 black 1 black 4 black 2
+black 1 black 1 black 4 black 2 black 1
+black 1 red 3 black 1 black 6 black 1
+black 1 red 2 black 1 black 2 black 2 black 1
+black 1 red 1 black 1 black 2 black 2
+black 1 black 1 black 2 black 3
+black 1 black 1 black 3 black 2
+black 1 red 3 black 1 black 4 black 2 black 1
+black 1 red 2 black 1 black 5 black 2 black 2
+black 2 red 1 black 1 black 7 black 3
+black 3 black 1 black 2 black 2 black 3
+black 4 red 1 black 1 black 2 black 3
+black 4 red 1 black 1 black 2 black 3
+black 5 red 1 black 1 black 2 black 3
+black 5 red 1 black 1 black 2 black 3
+black 5 red 1 black 2 black 3
+black 5 red 1 black 2 black 3
+black 5 red 1 black 1 black 3
+black 5 red 1 black 1 black 3
+black 5 red 1 black 4
+black 4 red 1 black 5
+black 3 red 1 black 6
+black 2 red 1 black 7

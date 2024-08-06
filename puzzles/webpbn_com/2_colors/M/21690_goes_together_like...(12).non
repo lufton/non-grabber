@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Apr 14, 2013"
+description "steak and baked potato..."
+difficulty 2.25
+height 20
+id 21690
+link "https://webpbn.com/play.cgi?id=21690"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "goes together like...(12)"
+width 20
+
+rows
+4,2
+4,2
+3,2,3
+2,1,1,2
+2,2,3,3
+3,3,3,2
+7,1,1,1
+6,2,1,3
+4,1,6
+8,1
+2,1,1,1
+1,1,1,2
+2,1,7
+1,7,1,1
+3,1,1,1
+2,1,1,2
+3,9
+6,4
+2,1,4
+9
+
+columns
+6
+8
+2,4
+2,3
+2,2,3
+1,1,1,2,5
+1,2,2,3,5
+2,2,2,4
+4,1,1,1,1
+5,3,1,1,1
+3,2,5,1,1
+1,1,7
+1,1,1,1,1
+5,2,1,2
+1,5,1,2
+1,1,8
+2,1,1,3
+1,2,1,2
+7,3
+1,6

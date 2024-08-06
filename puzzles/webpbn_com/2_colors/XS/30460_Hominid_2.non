@@ -1,0 +1,37 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Nov  1, 2017"
+description "Homo Erectus"
+difficulty 1.25
+height 10
+id 30460
+link "https://webpbn.com/play.cgi?id=30460"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Hominid 2"
+width 10
+
+rows
+10
+4,3
+2,2
+1,1
+1,1
+0
+1,2
+5,3
+5
+5
+
+columns
+4,4
+3,3
+2,3
+2,3
+1,3
+1,1
+1,1
+2,1,1
+3,1
+5,1

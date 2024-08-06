@@ -1,0 +1,52 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by David Bouldin"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.25
+height 15
+id 25785
+link "https://webpbn.com/play.cgi?id=25785"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Line Logic Goes Up In Smoke"
+width 20
+
+rows
+1,3,2
+2,2,2,2,1
+3,3,2,2,1
+1,2,3
+3
+6,2
+5,4
+2,1,1,4
+1,2,1,4,2
+5,12
+1,1,2
+1,1,2,2
+9,8
+1,1,1,2,1,3
+1,2,1,1
+
+columns
+1,1,2,1
+2,1,1,1,2
+1,1,3,1,1
+1,2,2,2
+1,4
+1,1
+1,2,1
+1,1,8
+1,1,2,1,2
+2,1,2,1,1,1
+1,1,5,1,1
+1,1,2,2
+1,2,2
+1,2,1
+2,1,1
+2,2,1,2
+1,1,5,1,1
+1,1,5,2
+2,2,5
+2,2

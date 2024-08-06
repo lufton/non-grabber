@@ -1,0 +1,94 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/18/19"
+height 40
+id 197318
+link "https://www.griddlers.net/nonogram/-/g/197318"
+medium_time "0:13:43"
+points 42827
+popularity 77.32
+title "Dutch House"
+width 30
+
+color a 33ccff
+color b 33cc00
+color c 009900
+color d 000000
+color e ffffff
+color f cc9900
+color g 663300
+
+rows
+e 1
+e 3
+e 3
+e 1 c 1 b 2 e 1
+e 1 c 2 d 1 b 1 c 1 e 1
+e 1 c 1 d 3 c 1 e 1
+e 1 c 2 d 1 b 1 c 1 e 1
+e 1 b 1 c 2 b 2 c 2 e 1
+e 1 b 1 c 1 e 3 c 2 e 1
+e 1 b 1 c 1 e 1 e 1 c 2 e 1
+e 1 b 2 c 1 e 1 e 1 c 2 b 1 e 1
+e 1 b 2 c 1 e 3 c 2 b 1 e 1
+e 1 c 1 b 2 c 2 b 2 c 2 b 2 e 1
+e 2 c 2 b 2 c 2 b 2 c 2 b 2 c 1 e 2
+e 1 e 2 b 2 c 2 b 2 c 2 b 2 c 2 b 2 c 2 b 1 e 2 e 1
+e 4 c 2 b 2 c 2 b 1 e 7 b 2 c 2 b 2 c 1 e 4
+e 1 c 1 b 2 e 1 c 1 b 2 c 2 b 1 e 1 e 1 b 2 c 2 b 2 e 1 c 1 b 2 e 2
+c 1 e 2 b 1 c 1 e 1 b 2 c 2 b 1 e 1 e 1 b 2 c 2 b 1 e 1 c 2 e 2 c 1 e 1
+c 1 e 3 c 2 b 2 c 2 b 1 e 1 e 1 b 2 c 2 b 2 c 1 e 3 c 1 e 1
+c 1 e 3 c 2 b 2 c 2 b 1 e 1 e 1 b 2 c 2 b 2 c 1 e 3 c 1 e 1
+c 2 e 2 c 2 b 2 c 2 b 1 e 1 e 1 b 2 c 2 b 2 c 1 e 2 b 1 c 1 e 1
+e 3 b 1 c 2 b 2 c 2 b 1 e 7 b 2 c 2 b 2 c 2 e 3
+e 4 c 2 b 2 c 2 b 2 c 2 b 2 c 2 b 2 c 2 b 2 c 1 e 5
+c 2 b 2 c 2 b 2 c 2 b 2 c 2 b 2 c 2 b 2 c 2 b 2 c 2 b 2 c 1
+e 30
+e 29
+f 2 e 1 e 1 f 3 e 2 d 3 e 2 f 3 e 1 e 1 f 2
+f 2 e 1 e 1 f 3 e 1 d 1 e 1 d 1 e 1 d 1 e 1 f 3 e 1 e 1 f 2
+f 2 e 1 e 1 f 3 e 7 f 3 e 1 e 1 f 2
+f 2 e 1 e 1 f 3 e 1 d 5 e 1 f 3 e 1 e 1 f 2
+f 2 e 1 e 1 f 3 e 1 d 1 g 3 d 1 e 1 f 3 e 1 e 1 f 2
+f 2 e 1 e 1 f 3 e 1 d 1 g 3 d 1 e 1 f 3 e 1 e 1 f 2
+f 2 e 1 e 1 f 3 e 1 d 1 g 3 d 1 e 1 f 3 e 1 e 1 f 2
+f 2 e 1 e 1 f 3 e 1 d 4 e 2 f 3 e 1 e 1 f 2
+f 2 e 6 f 3 e 1 d 1 g 3 d 1 e 1 f 3 e 6 f 2
+f 2 g 6 f 3 e 1 d 1 g 3 d 1 e 1 f 3 g 6 f 2
+f 9 d 1 f 1 e 1 d 1 g 3 d 1 e 1 f 1 d 1 f 9
+f 9 d 1 f 1 e 1 d 5 e 1 f 1 d 1 f 9
+f 9 d 1 f 1 g 7 f 1 d 1 f 9
+g 9 d 1 g 9 d 1 g 9
+
+columns
+e 3 c 4 e 2 c 1 e 2 f 13 g 1
+e 1 c 1 e 3 c 1 e 2 c 1 e 2 f 13 g 1
+e 1 b 1 e 6 b 1 e 11 g 1 f 3 g 1
+e 1 b 2 e 3 b 1 e 1 b 1 e 2 e 1 g 1 f 3 g 1
+e 1 c 1 e 1 c 7 e 2 e 1 g 1 f 3 g 1
+e 1 c 2 e 1 c 6 e 2 e 1 g 1 f 3 g 1
+e 1 b 10 e 2 e 1 g 1 f 3 g 1
+e 1 b 10 e 11 g 1 f 3 g 1
+e 1 c 11 e 2 f 13 g 1
+e 2 c 12 e 2 f 10 d 4
+e 3 b 14 e 2 f 13 g 1
+e 3 b 8 e 7 b 2 e 14 g 2
+e 1 c 11 e 1 e 1 c 2 e 3 d 1 e 1 d 9 g 2
+e 2 c 2 d 1 c 2 e 4 c 3 e 1 e 1 c 2 e 2 d 1 e 2 d 1 g 3 d 1 g 3 d 1 g 2
+e 3 b 1 d 3 b 1 e 1 e 1 b 3 e 1 e 1 b 2 e 2 d 2 e 1 d 1 g 3 d 1 g 3 d 1 g 2
+e 2 b 2 d 1 b 2 e 4 b 3 e 1 e 1 b 2 e 2 d 1 e 2 d 1 g 3 d 1 g 3 d 1 g 2
+e 1 c 11 e 1 e 1 c 2 e 3 d 1 e 1 d 4 e 1 d 4 g 2
+e 3 c 8 e 7 c 2 e 14 g 2
+e 3 b 14 e 2 f 13 g 1
+e 2 b 12 e 2 f 10 d 4
+e 1 c 11 e 2 f 13 g 1
+e 1 c 10 e 11 g 1 f 3 g 1
+e 1 b 10 e 2 e 1 g 1 f 3 g 1
+e 1 b 2 e 1 b 6 e 2 e 1 g 1 f 3 g 1
+e 1 c 1 e 1 c 7 e 2 e 1 g 1 f 3 g 1
+e 1 c 2 e 3 c 1 e 1 c 1 e 2 e 1 g 1 f 3 g 1
+e 1 b 1 e 6 b 1 e 11 g 1 f 3 g 1
+e 1 b 1 e 3 b 1 e 2 b 1 e 2 f 13 g 1
+e 3 c 4 e 2 c 1 e 2 f 13 g 1
+e 5 e 1 e 1

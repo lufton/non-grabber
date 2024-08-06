@@ -1,0 +1,68 @@
+by "Robyne_Hud"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/30/04"
+height 20
+id 8801
+link "https://www.griddlers.net/nonogram/-/g/8801"
+medium_time "0:09:16"
+points 3825
+popularity 67.31
+title "Swiss Cheese"
+width 25
+
+color a ffffff
+color b ffe45b
+color c bbbcbc
+color d ff7dfe
+color g 646464
+color h 000000
+
+rows
+c 3 c 2 d 1 c 1 h 1 h 1
+c 2 d 1 c 2 c 1 d 2 c 1 h 3
+c 1 d 3 c 1 c 2 d 1 c 1 h 1
+c 2 d 1 c 9 d 1
+c 5 h 1 c 4 h 1
+c 8 h 2
+c 6 h 1 h 1 b 2
+c 6 h 1 b 4
+c 8 b 5
+c 1 c 9 b 2 g 1 b 4
+c 1 c 10 b 3 g 2 b 3
+c 1 c 11 b 9
+c 1 c 8 c 2 b 8 g 1 b 1
+c 1 c 7 b 9 g 2
+c 1 c 6 b 2 g 1 b 9
+c 1 c 5 b 3 g 2 b 8
+c 1 c 5 b 9 g 1 b 4
+c 1 c 5 b 10 g 2 b 3
+c 5 b 3 g 1 b 12
+c 5 b 4 g 2 b 11
+
+columns
+c 1 c 2 c 2
+c 2 c 2 c 1
+c 2
+c 10
+c 11
+c 12
+c 3 c 10 c 1
+c 2 d 1 c 2 c 9 c 1
+c 1 d 3 c 1 c 7 b 1
+c 2 d 1 c 3 c 7 b 2
+c 12 b 3
+c 9 b 4
+c 4 h 1 c 7 b 3 g 2
+c 1 d 1 c 6 c 2 b 5 g 1
+d 3 c 5 c 1 b 7
+c 7 b 2 g 2 b 4
+h 2 c 3 b 4 g 1 b 4
+h 2 c 1 h 4 b 10
+h 2 d 1 h 1 b 11
+h 1 b 12
+b 2 g 2 b 5 g 2 b 2
+b 4 g 1 b 6 g 1 b 2
+b 14
+b 5 g 2 b 6
+b 4 g 1 b 6

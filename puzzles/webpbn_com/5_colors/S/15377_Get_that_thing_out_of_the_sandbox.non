@@ -1,0 +1,48 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Jul 30, 2011"
+description "A rattlesnake (inspired by Lilly's "What's in the Sandbox?" series, starting with 15369)"
+difficulty 1.25
+height 10
+id 15377
+link "https://webpbn.com/play.cgi?id=15377"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Get that thing out of the sandbox!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 blue 1 green 1 red 1
+green 4 red 2
+green 4 red 1
+black 3
+green 1 green 9
+blue 1 green 1 green 10
+green 1 blue 1 black 8 green 2
+green 11
+green 7
+0
+
+columns
+0
+green 1 blue 1 green 1
+green 1 blue 1 green 1
+green 1
+green 2 black 1 green 2
+green 1 black 1 green 2 black 1 green 2
+green 2 black 1 green 2 black 1 green 2
+green 3 black 1 green 2 black 1 green 2
+blue 1 green 2 green 2 black 1 green 2
+green 2 green 2 black 1 green 2
+red 1 green 2 black 1 green 2
+red 1 green 2 black 1 green 1
+red 1 red 1 green 4
+green 2
+0

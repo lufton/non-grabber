@@ -1,0 +1,31 @@
+by "Robyn Broyles (ginkgo100)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Robyn Broyles"
+date "Aug  4, 2009"
+description "Woodpecker. I thought I'd try my hand at a 5x5 puzzle. NOT an easy size to work with, LOL!"
+difficulty 1.0
+height 5
+id 6429
+link "https://webpbn.com/play.cgi?id=6429"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Drummer"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+black 1 black 1
+black 5
+black 2
+black 2
+
+columns
+black 1
+black 1
+black 2
+red 1 black 3
+red 1 black 4

@@ -1,0 +1,48 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/23/17"
+height 13
+id 187393
+link "https://www.griddlers.net/nonogram/-/g/187393"
+medium_time "0:02:13"
+points 171
+popularity 77.17
+title "Pentomino - Deer"
+width 11
+
+color a ffffff
+color c ffcc00
+color d ff0000
+color e 00d700
+color f 0066ff
+color g ff33ff
+color h 00ffff
+
+rows
+g 1 g 1 c 1
+g 3 c 2
+d 3 c 2
+d 2 h 1
+h 2
+h 1 e 2
+h 1 e 1 c 2 d 3 h 3
+e 2 f 1 c 2 d 1 f 2 h 1
+f 3 c 1 d 1 f 1 e 1 h 1
+g 1 f 1 f 1 e 1
+g 2 f 1 e 1
+g 1 e 1
+g 1 e 1
+
+columns
+d 2
+d 2 h 3 e 1
+g 2 d 1 h 2 e 3 f 1 g 4
+g 1 e 1 c 1 f 3 g 1
+g 2 c 1 c 2 f 1
+c 3 d 1 c 2
+c 1 d 3
+d 1 f 4
+h 1 f 1 e 5
+h 1
+h 3

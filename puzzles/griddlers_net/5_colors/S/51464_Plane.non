@@ -1,0 +1,54 @@
+by "benjy_t"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/07"
+height 10
+id 51464
+link "https://www.griddlers.net/nonogram/-/g/51464"
+medium_time "0:03:36"
+points 972
+popularity 69.51
+title "Plane"
+width 22
+
+color a 3399cc
+color b 663333
+color c 666666
+color d cccccc
+color e 333333
+
+rows
+b 2 c 1
+b 1 d 2 b 3 c 1
+b 1 d 2 b 4
+b 1 d 8 b 4 c 1 d 4
+b 3 c 1 e 1 d 3 b 4 c 1 d 5
+b 15
+b 4
+b 3
+b 2
+b 2
+
+columns
+b 1
+d 1 b 1
+d 2 b 1
+d 2 b 1
+d 1 b 1
+d 1 b 1
+d 1 b 1
+d 1 c 1 b 1
+d 1 e 1 b 1
+b 2 d 2 b 1
+b 3 d 2 b 1
+c 1 b 3 d 1 b 1
+c 1 b 4 b 1
+b 8
+b 6
+c 1 b 4
+d 1 c 1 b 2
+d 2 b 1
+d 2 b 1
+d 2 b 1
+d 1 b 1
+d 1

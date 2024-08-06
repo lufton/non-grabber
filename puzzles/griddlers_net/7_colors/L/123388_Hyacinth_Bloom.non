@@ -1,0 +1,76 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/3/12"
+height 32
+id 123388
+link "https://www.griddlers.net/nonogram/-/g/123388"
+medium_time "0:15:02"
+points 8585
+popularity 84.45
+title "Hyacinth Bloom"
+width 20
+
+color a ffffff
+color b 34671d
+color c 639e3f
+color d a2c87d
+color f e05678
+color g f57b94
+color h febccd
+
+rows
+g 1 h 1
+h 2 g 1 h 2 f 1
+h 1 g 4 h 3
+g 2 h 2 g 1 h 2 g 1
+h 3 f 1 h 1 g 1 h 4
+h 1 g 3 f 1 g 3 h 1
+h 1 f 1 h 1 g 1 h 1 g 1 h 1 g 2
+g 1 h 2 g 1 h 1 g 2 h 1 f 1
+h 4 f 1 h 3 g 1 h 3
+f 1 h 2 g 1 h 1 g 1 f 1 h 1 g 2 h 1
+h 1 g 1 f 1 g 1 h 1 g 2 h 2 g 1
+h 1 g 4 h 1 g 1 h 1
+f 1 h 3 g 1 h 2 g 1 h 2
+f 2 h 1 g 1 f 2 h 2 g 1
+c 1 f 1 g 1 f 1 h 1 f 1 h 2 f 1 g 1 c 3
+d 1 c 2 h 1 f 2 h 4 g 1 f 1 b 2 c 3
+d 2 c 3 h 1 f 1 h 4 f 1 b 2 c 3
+d 2 c 3 h 2 f 1 g 1 f 1 g 1 f 1 b 1 c 3
+d 2 c 2 b 1 h 3 g 1 b 1 c 3
+d 2 c 2 b 1 d 1 b 2 c 2
+d 2 c 1 b 2 d 1 b 2 c 2
+d 2 c 1 b 1 d 1 b 1 c 2
+d 2 c 1 b 1 c 3
+d 1 c 1 b 1 c 2
+d 1 b 2 c 2
+d 1 b 1 c 2
+b 1 c 1
+b 1 c 1
+c 2
+c 1
+c 1
+c 1
+
+columns
+c 1 d 2
+c 1 d 2
+c 2 d 2
+c 2 d 2
+h 1 c 3 d 2
+g 1 h 1 h 1 h 1 f 1 h 1 f 1 f 1 h 1 c 3 d 2
+h 1 g 1 h 2 f 1 g 1 h 2 g 1 h 2 f 1 g 1 f 1 h 2 b 1 c 2 d 2
+h 1 g 1 h 2 g 1 h 4 f 1 g 1 h 1 f 4 h 2 b 2 c 1 d 4
+h 1 g 1 h 1 f 1 g 2 h 1 f 1 g 3 h 5 f 1 h 1 b 2 c 2 b 4 c 4
+g 4 h 1 g 1 h 1 g 1 h 3 g 3 f 1 h 2 g 1 h 1 d 3 b 3 c 4
+h 2 g 1 h 1 g 1 f 1 g 1 h 2 g 3 h 1 f 1 h 3 f 1 g 1 b 2 c 4
+h 4 g 1 h 1 g 1 h 1 f 1 g 1 h 2 f 1 h 3 g 1 b 2 c 4
+f 1 h 1 g 1 h 1 g 4 h 2 g 2 h 1 f 1 g 1 f 2 b 2 c 3
+h 1 h 1 g 2 h 2 g 1 h 4 g 1 f 1 b 2 c 3
+h 2 f 1 h 1 g 2 h 1 g 1 b 2 c 3
+h 2 b 1 c 3
+c 3
+c 3
+c 2
+c 1

@@ -1,0 +1,69 @@
+by "alibaba"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/9/05"
+height 32
+id 20569
+link "https://www.griddlers.net/nonogram/-/g/20569"
+medium_time "0:03:28"
+points 552
+popularity 49.58
+title "Candle"
+width 16
+
+color a 000000
+color b ff3900
+color c ffa542
+color d ffffff
+
+rows
+b 2
+b 2
+b 8
+b 8
+b 6 c 2 b 2
+b 6 c 2 b 2
+b 4 c 2 b 6
+b 4 c 2 b 6
+b 2 c 4 b 2
+b 2 c 4 b 2
+b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 1
+d 8
+d 8
+d 8
+d 8
+d 8
+d 8
+d 8 c 2
+d 8 c 2
+d 8 c 2
+d 8 c 2
+d 8 c 2
+d 8 c 2
+d 8 c 2
+d 8 c 2
+d 8 c 2
+d 8 c 2
+c 16
+c 16
+c 12
+c 12
+
+columns
+c 2
+c 2
+b 4 c 4
+b 4 c 4
+b 8 d 16 c 4
+b 10 d 16 c 4
+b 4 c 6 d 16 c 4
+b 4 c 4 d 16 c 4
+b 4 c 2 b 2 c 2 d 16 c 4
+b 4 c 2 b 2 c 4 d 16 c 4
+b 10 d 16 c 4
+b 8 d 16 c 4
+b 2 c 4
+b 2 c 4
+c 12
+c 12

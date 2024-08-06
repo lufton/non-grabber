@@ -1,0 +1,61 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ant"
+date "Feb 22, 2010"
+description "This is the kind of therapy I could use right now.. Finally got a day above 50F and all I can think about is the beach!"
+difficulty 1.75
+height 20
+id 7884
+link "https://webpbn.com/play.cgi?id=7884"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "water therapy"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 6
+black 7 black 3
+black 9
+black 5 black 2 black 3
+black 10
+black 13
+black 12 black 1
+black 13
+black 3 black 5 black 2
+black 2 black 2 black 2 black 1
+black 1 black 1 black 2
+black 2
+blue 1 black 2
+blue 10 black 2 blue 7
+black 1 blue 6 black 2 blue 3
+black 5 black 2 black 4
+black 20
+black 10 black 2 black 5
+black 16
+black 11
+
+columns
+black 2 blue 1 black 4
+black 3 blue 1 black 3
+black 3 blue 1 black 4
+black 3 blue 1 black 4
+black 3 blue 1 black 4
+black 3 black 3 blue 2 black 4
+black 2 black 4 blue 2 black 4
+black 1 black 4 blue 2 black 4
+black 1 black 3 blue 2 black 4
+black 4 black 2 blue 2 black 4
+black 7 blue 2 black 1 black 2
+black 6 black 8
+black 16
+black 9 blue 2 black 1 black 2
+black 1 black 6 blue 2 black 4
+black 1 black 5 blue 2 black 4
+black 1 black 4 blue 1 black 4
+black 2 black 5 blue 1 black 4
+black 2 black 2 black 3 blue 1 black 3
+black 2 black 2 blue 1 black 2

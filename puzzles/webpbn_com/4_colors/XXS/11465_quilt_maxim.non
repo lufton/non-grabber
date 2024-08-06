@@ -1,0 +1,32 @@
+by "Al LaPointe (kancamagus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Al LaPointe"
+date "Dec 16, 2010"
+description ""
+difficulty 1.25
+height 5
+id 11465
+link "https://webpbn.com/play.cgi?id=11465"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "quilt maxim"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 red 1 green 3
+green 3 red 1 green 1
+green 3
+black 1
+black 1 red 1
+
+columns
+green 2
+red 1 green 2
+green 3 black 2
+green 1 red 1 green 1
+green 2 red 1

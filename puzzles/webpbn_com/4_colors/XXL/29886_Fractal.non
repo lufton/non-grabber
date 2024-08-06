@@ -1,0 +1,127 @@
+by "Sir Percival (sirpercival)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Sir Percival"
+date "Jun  5, 2017"
+description "The Mandelbrot set."
+difficulty 2.25
+height 50
+id 29886
+link "https://webpbn.com/play.cgi?id=29886"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Fractal"
+width 55
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+red 1
+red 1 green 1 red 1
+red 1 green 2 red 2
+red 1 green 3
+red 1 green 2 red 1
+red 2 green 3 red 1
+red 1 green 2 black 3 green 2
+red 1 black 4 green 2 red 1
+red 3 red 3 black 4 green 2 red 3
+red 1 green 2 red 2 green 4 black 3 green 2 red 1 green 2 red 2 green 1 red 1
+red 1 green 5 black 9 green 2 red 1 green 1 red 1 green 2 red 1
+red 1 green 1 black 15 green 1 black 1 green 3 red 1
+red 2 green 1 black 18 green 1 red 1
+red 1 green 3 black 18 green 1 red 1
+red 1 green 1 black 20 green 1 red 1
+green 1 red 3 green 1 red 2 red 1 green 2 black 20 green 3 red 1
+green 3 red 1 green 3 red 3 green 1 black 22 green 2 red 1
+red 1 green 7 red 2 green 1 black 22 green 1 red 1
+red 2 green 1 black 6 green 1 red 1 green 1 black 22 green 2
+red 1 green 2 black 8 green 1 black 23 green 1 red 1
+red 1 green 1 red 3 black 33 green 1 red 1
+red 1 green 3 black 32 green 1 red 1
+red 10 black 34 green 1 red 1
+green 11 black 34 green 1 red 1
+red 10 green 3 black 32 green 1 red 1
+red 1 green 4 black 33 red 1
+red 1 green 1 red 2 green 2 black 8 green 1 black 23 green 1 red 1
+red 2 green 1 black 6 green 3 black 22 green 1 red 1
+red 1 green 9 red 1 green 1 black 22 green 1 red 1
+red 1 green 3 red 1 green 3 red 3 green 1 black 22 green 2 red 1
+green 2 red 3 green 1 red 2 red 1 green 2 black 20 green 3 red 1
+green 1 red 1 red 1 red 1 green 1 black 19 green 2 red 1 green 1 red 1
+red 1 green 3 black 17 green 2 red 2
+red 1 green 2 black 18 green 1 red 1
+red 1 green 1 black 15 green 1 black 1 green 3 red 1
+red 1 green 5 black 9 green 2 red 1 green 4 red 1
+green 4 red 1 green 4 black 3 green 5 red 3 green 1 red 1
+red 7 black 4 green 2 red 3
+red 1 black 4 green 2 red 1
+red 1 green 2 black 3 green 2 red 1
+red 1 green 7
+red 3 green 2 red 2
+red 1 green 3 red 1
+red 1 green 2 red 1 green 1 red 1
+red 1 green 1 red 1 red 1
+green 1 red 1
+0
+0
+
+columns
+0
+0
+0
+0
+green 1
+red 1 green 1 red 1
+red 1 green 1 red 1
+red 1 green 1 red 1
+red 1 green 1 red 1
+red 1 green 1 red 1
+red 1 green 1 red 1
+red 1 green 1 red 1
+red 1 green 1 red 1
+red 1 red 1 green 1 red 3
+red 1 green 1 red 2 green 1 red 1 green 2
+red 1 green 1 black 2 green 2 red 1
+red 1 green 1 black 2 green 2 red 1
+green 1 red 1 green 1 red 1 green 1 black 2 green 3 red 3 green 2
+red 1 green 1 red 2 green 1 black 6 green 1 red 1 green 3 red 1
+red 1 green 3 black 8 green 3 red 1
+red 1 green 2 black 10 green 2 red 1
+red 1 green 1 black 10 green 1 red 2
+green 3 black 10 green 3 red 1
+red 1 green 2 black 10 green 2 red 1
+red 1 green 2 black 10 green 2 red 1
+red 1 green 1 black 10 green 1 red 1
+red 2 green 1 black 8 green 2 red 1
+red 4 green 1 black 6 green 2 red 3
+red 2 green 4 black 8 green 4 red 2
+red 1 green 3 black 14 green 3 red 1
+red 5 green 1 black 18 green 2 red 2 green 1
+red 1 green 5 black 18 green 5 red 1
+red 1 green 2 black 24 green 2 red 1
+red 1 green 1 black 24 green 2 red 1
+red 1 green 1 black 24 green 1 red 2
+red 1 green 2 black 24 green 2 red 1
+red 1 red 1 green 1 black 26 green 1 red 1 red 2
+red 1 green 1 red 2 green 1 black 26 green 1 red 2 green 2 red 1
+red 3 red 1 green 1 black 2 green 1 black 26 green 1 black 2 green 2 red 1 red 2
+green 2 red 2 green 1 black 34 green 1 red 2 green 3
+red 1 green 4 black 34 green 4 red 2
+red 1 green 3 black 34 green 3 red 1
+red 1 green 1 red 2 green 4 black 26 green 5 red 1 green 2 red 1
+green 4 black 26 green 5 red 3
+red 3 black 26 green 1 red 3
+red 1 green 2 black 24 green 2 red 1
+red 1 green 2 black 24 green 2 red 1
+red 2 green 1 black 22 green 1 red 2
+red 1 green 1 black 24 green 1 red 1
+red 1 green 1 black 10 green 2 black 7 green 2 black 1 green 2 red 1
+green 7 black 5 green 1 red 2 green 1 black 5 green 7
+red 1 green 2 red 3 green 6 red 1 red 2 green 5 red 3 green 2 red 1
+red 2 green 2 red 1 green 1 red 2 red 3 green 3 red 1 red 2
+red 2 red 3
+0

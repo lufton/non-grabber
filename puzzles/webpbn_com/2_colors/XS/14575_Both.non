@@ -1,0 +1,37 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jun 13, 2011"
+description "Nail and screw."
+difficulty 1.0
+height 9
+id 14575
+link "https://webpbn.com/play.cgi?id=14575"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Both"
+width 11
+
+rows
+3,3,3
+1,5
+1,2
+1,2
+1,2
+1,2
+1,2
+1,2
+1,1
+
+columns
+1
+9
+1
+0
+1
+2
+2,1,1,1
+8
+3,1,1
+2
+1

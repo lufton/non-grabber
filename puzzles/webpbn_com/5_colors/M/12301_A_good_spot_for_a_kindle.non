@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Feb 18, 2011"
+description "to do some light reading."
+difficulty 2.75
+height 20
+id 12301
+link "https://webpbn.com/play.cgi?id=12301"
+note "published,definitely unique,definitely requires some guessing"
+quality 3.0
+title "A good spot for a kindle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4 green 1 green 1
+black 2 green 3 green 3
+black 1 green 1 black 2 green 1 black 1 green 2 green 2
+black 4 green 2 green 1
+black 2 green 2 green 2
+black 5 red 2 green 1 black 1 green 2
+black 1 black 1 red 4 black 1 green 1 green 2
+black 1 black 1 red 5 red 2 green 3
+black 1 black 1 red 7 green 1
+black 1 black 1 red 4 red 1
+black 1 black 1 red 4
+black 1 black 1 red 2 black 5
+black 1 black 1 black 7
+black 1 black 10
+black 2 black 3
+black 2 black 2 blue 4
+black 1 black 3 blue 4
+black 1 black 1 blue 5
+black 2 black 2 blue 4 black 2
+black 1 black 1 blue 3 black 3
+
+columns
+black 10
+black 1 black 2 black 2
+black 1 black 4
+black 1 black 2
+black 7 black 1
+black 1
+black 4 red 6 black 2 black 3
+black 2 green 1 black 2 red 7 black 2 black 1 black 2
+black 1 green 1 black 3 red 6 black 3 black 2
+black 1 green 1 black 2 red 5 black 3 black 1 blue 3
+green 3 red 2 black 4 blue 5
+black 1 red 2 black 4 blue 5
+green 1 red 2 black 4 blue 4 black 1
+green 1 black 2 red 1 blue 3 black 2
+green 2 green 2 black 2
+green 2 green 2
+green 2 green 2
+green 2 green 2
+green 2 green 2
+green 3

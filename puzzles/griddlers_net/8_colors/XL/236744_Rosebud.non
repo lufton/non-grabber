@@ -1,0 +1,97 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/25/22"
+height 45
+id 236744
+link "https://www.griddlers.net/nonogram/-/g/236744"
+medium_time "0:22:44"
+points 32729
+popularity 94.34
+title "Rosebud"
+width 27
+
+color a ffffff
+color b 99CC33
+color c 990000
+color d CC3333
+color e FF6666
+color f FF9999
+color g 336600
+color h 669900
+
+rows
+g 1 h 1
+g 1 h 1 h 1
+g 1 h 1 b 1 d 1 f 1 h 1 g 1
+g 2 h 1 b 1 d 1 f 1 e 1 d 1 h 1 g 1 b 1 h 2
+g 1 h 1 d 1 f 1 e 1 d 2 c 1 h 1 g 1 b 1 h 1 h 1
+g 1 h 1 b 1 d 1 f 1 e 1 d 2 c 1 h 1 g 1 b 1 h 1
+g 2 h 1 b 1 d 1 f 1 e 1 d 1 c 1 b 1 h 1 g 1 b 1 h 2
+g 1 h 1 b 1 f 1 d 1 f 1 e 1 d 2 b 1 h 2 g 1 b 1 h 1
+g 2 h 1 b 1 f 1 e 1 d 1 f 1 e 1 d 2 b 1 h 1 g 1 c 1 b 1 h 2
+g 1 h 2 b 1 f 1 e 1 d 1 f 1 e 1 d 2 b 1 h 1 g 1 c 1 b 1 h 2
+g 1 h 1 b 1 f 2 e 1 d 1 f 1 e 1 d 1 b 1 h 2 g 1 d 1 c 1 b 1 h 1
+h 2 b 1 c 1 f 1 e 2 d 1 f 1 e 1 b 1 h 3 g 1 d 1 c 1 h 2
+h 2 b 1 c 1 f 1 e 2 d 1 f 1 e 1 b 1 h 3 g 1 d 2 c 1 h 2
+h 2 b 1 c 1 e 2 d 1 c 1 e 2 b 1 h 3 g 1 d 2 c 1 h 2
+h 3 b 1 c 1 e 2 d 1 c 1 e 1 b 1 h 2 g 1 h 1 g 1 d 2 c 1 h 2
+h 3 b 1 c 1 e 1 d 2 c 1 e 1 b 1 h 2 g 1 h 2 g 1 d 1 c 1 h 2
+h 3 b 1 c 1 e 1 d 1 c 1 e 2 b 1 h 2 g 1 h 2 g 1 d 1 c 1 h 2
+h 4 b 1 c 1 d 1 c 1 e 1 d 1 b 1 h 2 g 1 h 2 g 1 d 1 c 1 h 2
+h 3 b 1 c 1 d 1 c 1 e 1 d 1 b 1 h 2 g 1 h 2 g 1 d 1 c 1 h 1
+h 3 b 1 c 2 e 1 d 2 b 1 h 2 g 1 h 2 g 1 d 1 c 1 h 1
+h 4 b 1 c 1 e 1 d 2 b 1 h 2 g 1 h 2 g 1 c 1 h 2
+h 3 b 1 c 1 e 1 d 2 b 1 h 1 g 1 h 3 g 1 c 1 h 1
+h 4 b 1 c 1 d 1 b 1 h 2 g 1 h 3 g 1 h 2
+h 4 b 1 c 1 b 1 h 2 g 1 h 3 g 1 h 1
+h 4 b 1 h 2 g 1 h 2 g 3 h 1
+h 4 g 6
+g 6
+h 6 g 2
+h 2 b 3 h 3 g 2
+h 1 b 3 h 4 g 2
+h 1 b 2 h 4 b 1 g 2
+h 1 b 2 h 4 b 1 g 2
+h 1 b 1 h 4 b 1 g 2
+h 2 b 1 h 2 b 1 g 2
+h 4 g 2
+h 3 g 1
+h 1 g 2
+h 1 g 1
+h 1 g 1
+h 1 g 1
+h 1 g 1
+h 1 g 1
+h 1 g 1
+h 1 g 1
+h 1 g 1
+
+columns
+h 4
+g 1 g 3 h 10
+g 3 g 3 h 14
+g 4 h 3 b 7 h 7
+h 1 b 3 c 6 b 3 h 5
+h 1 b 1 f 3 e 4 c 3 b 2 h 3
+h 2 b 1 f 3 e 4 d 4 c 3 b 1 h 3 h 4
+h 1 b 1 f 1 e 5 d 3 c 3 e 3 c 1 b 1 h 2 h 2 b 3 h 2
+h 2 b 1 d 6 c 3 e 3 d 4 c 1 b 1 h 1 g 1 h 1 b 5 h 2
+d 3 f 6 e 4 d 5 b 2 h 2 g 1 h 1 b 2 h 3 b 1 h 2
+d 1 f 3 e 7 b 8 h 3 g 2 h 1 b 1 h 16
+d 1 f 1 e 3 d 4 b 3 h 10 g 3 h 9 g 9
+f 1 e 1 d 6 b 1 h 10 g 3 h 1 g 2 h 6 b 1 g 3
+d 3 c 1 b 3 h 4 g 7 h 4 g 3 h 2 b 3 g 2
+c 2 b 1 h 17 g 2 g 7
+h 3 g 7 h 9 g 2 g 5
+h 1 g 3 c 2 d 5 g 10
+h 1 g 1 c 2 d 8 c 2 h 3
+h 1 g 1 c 8 h 3
+h 1 g 1 b 3 h 10
+b 2 h 10
+b 1 h 4
+b 1 h 2
+b 1 h 1
+h 1
+h 1
+h 1

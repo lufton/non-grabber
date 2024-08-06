@@ -1,0 +1,30 @@
+by "zomer"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/13/06"
+height 5
+id 30771
+link "https://www.griddlers.net/nonogram/-/g/30771"
+medium_time "0:00:29"
+points 18
+popularity 31.19
+title "Kite"
+width 5
+
+color a ffff00
+color d 000000
+color f 0000ff
+
+rows
+f 3
+f 2 d 1
+f 1 d 2
+d 1 d 1
+d 3
+
+columns
+f 3
+f 2 d 1
+f 1 d 2
+d 1 d 1
+d 3

@@ -1,0 +1,77 @@
+by "Belita (belita)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Belita"
+date "May  6, 2014"
+description "The weather's getting warmer and I'm definitely ready."
+difficulty 2.0
+height 25
+id 24412
+link "https://webpbn.com/play.cgi?id=24412"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Get ready!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 1 black 1
+black 1 black 2 black 2
+black 1 black 2 black 2
+black 1 black 2 black 2
+black 3 black 2 black 2
+black 3 black 20
+black 3 black 18
+black 3 black 4 black 2 black 2 black 4
+black 3 black 18
+black 3 black 2 black 2 black 2 black 2 black 2
+black 3 black 18
+black 3 black 4 black 2 black 2 black 4
+black 3 black 18
+black 2 black 2 black 2 black 2 black 2
+green 2 red 17 green 2 black 6
+green 2 red 1 black 1 red 13 black 1 red 1 green 2
+green 2 red 17 green 2 black 5
+green 2 red 1 black 1 red 11 black 1 red 1 green 2 black 1 black 1
+green 2 red 3 black 1 red 7 black 1 red 3 green 2 black 1 black 1
+green 2 red 4 black 1 red 2 black 1 red 5 green 2 black 1 black 1
+green 2 red 11 green 2 black 1
+green 3 red 5 green 3 black 1
+green 5 green 5 black 1
+green 13 black 3
+green 7
+
+columns
+green 4
+green 6
+green 4
+red 3 green 3
+red 1 black 1 red 3 green 2
+black 9 red 3 black 1 red 2 green 2
+black 13 red 7 green 2
+black 9 red 4 black 1 red 2 green 2
+red 7 green 2
+red 5 black 1 red 2 green 2
+black 1 red 8 green 2
+black 9 red 8 green 2
+black 9 red 5 black 1 red 2 green 2
+black 4 black 3 red 8 green 2
+black 5 black 3 red 7 green 2
+black 4 black 3 black 2 red 4 black 1 red 2 green 2
+black 2 black 2 black 3 black 2 red 7 green 2
+black 2 black 4 black 3 red 3 black 1 red 2 green 2
+black 2 black 4 black 3 red 1 black 1 red 3 green 2
+black 2 black 3 black 2 red 3 green 3
+black 2 black 3 black 2 green 4
+black 2 black 4 black 3 green 6
+black 2 black 4 black 3 green 4
+black 2 black 2 black 3 black 3
+black 4 black 3 black 3 black 3
+black 5 black 3 black 1 black 1 black 1 black 1
+black 4 black 3 black 1 black 1 black 4
+black 10 black 1 black 1 black 1
+black 10 black 3
+black 1

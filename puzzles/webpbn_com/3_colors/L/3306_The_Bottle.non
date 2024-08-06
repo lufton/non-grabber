@@ -1,0 +1,81 @@
+by "Janne Pylkkänen (Drakmoth)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Janne PylkkÃ¤nen"
+date "Aug 20, 2008"
+description "There is two choices to see the whole picture. First is that this person on the image is cutting the piece of cake, which is totally out of the image and secondly that person tries to open the bottle. Choice is yours."
+difficulty 2.75
+height 30
+id 3306
+link "https://webpbn.com/play.cgi?id=3306"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The Bottle"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 8
+red 10
+red 12
+red 14 black 1
+red 1 black 3 red 1 black 2 black 1 red 2 black 3 black 5
+red 1 black 2 black 2 black 1 black 1 black 2 red 1 black 8 black 1
+red 1 black 2 black 1 black 2 black 2 black 1 black 3
+red 2 black 2 black 1 black 2 black 6
+red 2 black 2 black 1 black 1 black 1 black 2 black 3 black 1
+black 1 red 2 black 1 black 4 black 4 black 8
+black 2 red 2 black 2 black 2 black 2 black 3 black 2
+black 1 red 2 black 9 black 9
+black 1 red 1 black 1 black 1 black 4 black 2 black 2
+black 1 black 3 black 3 black 3 black 5
+black 1 black 1 black 2 black 2 black 4 black 2
+black 1 black 2 black 2 black 3 black 2
+black 1 black 4 black 4 black 6
+black 1 black 2 black 4 black 3 black 4
+black 1 black 2 black 2 black 3 black 2 black 8
+black 3 black 4 black 1 black 1
+black 3 black 2 black 6
+black 4 black 2 black 2 black 2
+black 5 black 2 black 4
+black 6 black 2 black 4
+black 7 black 2 black 2
+black 8 black 2 black 2
+black 11 black 2
+black 10 black 6
+black 9
+
+columns
+red 5 black 9 black 9
+red 2 black 3 red 2 black 2 black 10
+red 3 black 4 red 3 black 10
+red 4 black 1 black 2 red 3 black 2 black 8
+red 6 black 2 black 3 red 2 black 1 black 2 black 7
+red 5 black 2 black 2 black 2 black 2 black 6
+red 5 black 1 black 1 black 1 black 2 black 5
+red 5 black 1 black 2 black 2 black 4 black 4
+red 5 black 1 black 1 black 2 black 3 black 3
+red 5 black 1 black 1 black 3 black 2 black 2
+red 4 black 1 black 1 black 2 black 2 black 2
+red 3 black 2 black 1 black 3 black 3 black 2
+red 3 black 2 black 5 black 3 black 2
+red 3 black 4 black 4 black 3 black 2
+black 2 black 2 black 4 black 3 black 2
+black 1 black 4 black 3 black 4
+black 2 black 2 black 2 black 4 black 2
+black 3 black 4 black 4
+black 2 black 3 black 2 black 3
+black 1 black 4 black 5
+black 1 black 3 black 1 black 1 black 2
+black 6 black 3 black 1
+black 2 black 1 black 1 black 2 black 4 black 1
+black 4 black 3 black 1 black 4 black 1
+black 1 black 2 black 2 black 1 black 1 black 6
+black 6 black 1 black 1 black 6
+black 1 black 4 black 1
+black 4 black 1
+black 1
+0

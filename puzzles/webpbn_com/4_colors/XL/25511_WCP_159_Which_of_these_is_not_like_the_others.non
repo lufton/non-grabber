@@ -1,0 +1,86 @@
+by "Carol Brand (KarylAnn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Carol Brand"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 34
+id 25511
+link "https://webpbn.com/play.cgi?id=25511"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP #159 Which of these is not like the others?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 9 blue 9
+blue 1 black 2 blue 1 black 1 blue 1 black 2 blue 1 blue 1 black 2 blue 1 black 1 blue 1 black 2 blue 1
+blue 4 black 1 blue 4 blue 4 black 1 blue 4
+blue 4 black 1 blue 4 blue 4 black 1 blue 4
+blue 4 black 1 blue 4 blue 4 black 1 blue 4
+blue 9 blue 9
+blue 9 blue 9
+blue 9 blue 9
+blue 9 blue 9
+blue 4 blue 4 blue 4 blue 4
+blue 4 blue 4 blue 4 blue 4
+blue 4 blue 4
+blue 4 blue 4
+blue 4 blue 4
+blue 4 blue 4 red 14
+blue 4 blue 4 red 2 black 2 red 10
+blue 4 blue 4 red 1 red 1
+blue 4 blue 4 red 1 red 1
+blue 4 blue 4 red 3 red 1 red 1
+blue 4 blue 4 red 3 red 1 red 1
+red 1 blue 1 red 1 red 3 red 3
+red 3 blue 1 red 1 blue 1 red 1 red 1 red 1 red 1
+red 3 red 1 blue 1 red 1 red 1 red 1 red 1 red 1
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 2 red 2
+blue 1 red 1 blue 1 red 1 blue 1 red 1 red 6
+red 1 blue 1 red 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 red 7
+red 1 blue 1 red 1 red 7
+blue 1 red 1 blue 1 red 7
+red 3
+red 7
+red 7
+red 7
+0
+
+columns
+blue 20
+blue 1 black 1 blue 18
+blue 1 black 1 blue 18
+blue 20
+blue 1 black 4 blue 4
+blue 20
+blue 1 black 1 blue 18 red 3 blue 1 red 1 blue 1 red 1 blue 1 red 4
+blue 1 black 1 blue 18 red 2 blue 1 red 1 blue 1 red 1 blue 1 red 5
+blue 20 red 3 blue 1 red 1 blue 1 red 1 blue 1 red 4
+red 3
+red 3 blue 1 red 1 blue 1 red 1 blue 1 red 3 red 3
+red 2 blue 1 red 1 blue 1 red 1 blue 1 red 4 red 3
+red 3 blue 1 red 1 blue 1 red 1 blue 1 red 3 red 3
+red 3
+red 3
+blue 11 red 7 red 3
+blue 1 black 1 blue 9 red 2 red 2 red 3
+blue 1 black 1 blue 9 red 1 black 1 red 1 red 1
+blue 11 red 1 black 1 red 1 red 1
+blue 1 black 4 blue 4 red 2 red 3
+blue 11 red 2 red 1
+blue 1 black 1 blue 9 red 2 red 1
+blue 1 black 1 blue 9 red 2 red 1
+blue 11 red 2 red 1
+red 2 red 3
+red 2 red 1 red 1
+red 2 red 1 red 1
+red 2 red 2
+red 7
+0

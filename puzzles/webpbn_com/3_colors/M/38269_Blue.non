@@ -1,0 +1,61 @@
+by "Morgan Moffitt (Morgan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Morgan Moffitt"
+date "Feb 19, 2024"
+description "Cool"
+difficulty 1.0
+height 20
+id 38269
+link "https://webpbn.com/play.cgi?id=38269"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Blue"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 20
+black 1 blue 13 black 1
+black 1 blue 12 black 1
+black 1 blue 11 black 1
+black 1 blue 11 black 1
+black 1 blue 10 black 1
+black 1 blue 9 black 1
+black 1 blue 8 blue 1 black 1
+black 1 blue 7 blue 2 black 1
+black 1 blue 6 blue 3 black 1
+black 1 blue 5 blue 4 black 1
+black 1 blue 4 blue 5 black 1
+black 1 blue 3 blue 6 black 1
+black 1 blue 2 blue 8 black 1
+black 1 blue 1 blue 9 black 1
+black 1 blue 10 black 1
+black 1 blue 12 black 1
+black 1 blue 13 black 1
+black 1 black 1
+black 20
+
+columns
+black 20
+black 1 blue 14 black 1
+black 1 blue 13 black 1
+black 1 blue 12 black 1
+black 1 blue 11 black 1
+black 1 blue 10 black 1
+black 1 blue 9 blue 1 black 1
+black 1 blue 8 blue 2 black 1
+black 1 blue 7 blue 2 black 1
+black 1 blue 6 blue 3 black 1
+black 1 blue 5 blue 4 black 1
+black 1 blue 4 blue 5 black 1
+black 1 blue 2 blue 5 black 1
+black 1 blue 1 blue 6 black 1
+black 1 blue 7 black 1
+black 1 blue 8 black 1
+black 1 blue 9 black 1
+black 1 blue 10 black 1
+black 1 blue 11 black 1
+black 20

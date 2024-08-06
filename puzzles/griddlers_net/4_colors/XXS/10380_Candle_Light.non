@@ -1,0 +1,31 @@
+by "rafal24"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10380
+link "https://www.griddlers.net/nonogram/-/g/10380"
+medium_time "0:00:26"
+points 18
+popularity 42.38
+title "Candle Light"
+width 5
+
+color a ffffff
+color b ff0000
+color c fffe00
+color d ffc400
+
+rows
+c 1
+c 1 d 1 c 1
+c 1 d 1 b 1 c 1
+c 1 b 2 c 1
+c 2
+
+columns
+c 2
+c 1 d 1 b 1 c 1
+c 1 d 1 b 2 c 1
+c 3
+0

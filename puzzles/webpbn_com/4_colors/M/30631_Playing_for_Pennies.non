@@ -1,0 +1,62 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gaynor Sorrell"
+date "Dec 12, 2017"
+description "... with my dreidel. I ate all the chocolate coins."
+difficulty 2.0
+height 20
+id 30631
+link "https://webpbn.com/play.cgi?id=30631"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Playing for Pennies"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1
+blue 2 black 1 blue 2
+blue 2 black 1 blue 2
+blue 2 blue 1 black 1 blue 1 blue 2
+blue 2 blue 1 black 1 blue 1 blue 2
+blue 3 blue 3 blue 3
+blue 1 blue 2 blue 2 blue 1
+blue 1 blue 2 blue 2 blue 1
+blue 1 blue 3 black 1 blue 1
+blue 1 black 1 blue 1 black 2 blue 1
+blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 2 blue 1 black 1 blue 1 red 2
+blue 1 black 1 blue 1 blue 1 red 4
+blue 2 blue 1 blue 2 red 4
+blue 2 blue 1 blue 2 red 2 red 2
+blue 5 red 4
+blue 3 red 4 red 2
+blue 1 red 2 red 3
+
+columns
+0
+0
+blue 9
+blue 3 blue 2
+blue 2 blue 2 black 1 black 1 blue 2
+blue 2 blue 2 black 4 blue 2
+blue 1 blue 3 blue 2 blue 2
+black 6 blue 1 blue 11
+blue 1 blue 3 blue 2 blue 2
+blue 2 blue 2 black 1 black 1 blue 2
+blue 2 blue 2 black 4 blue 2
+blue 3 blue 2 red 2
+blue 9 red 4
+red 4
+red 2
+0
+red 2
+red 4 red 1
+red 4 red 2
+red 2 red 2

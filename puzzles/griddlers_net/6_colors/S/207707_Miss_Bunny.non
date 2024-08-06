@@ -1,0 +1,46 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/30/20"
+height 12
+id 207707
+link "https://www.griddlers.net/nonogram/-/g/207707"
+medium_time "0:02:03"
+points 222
+popularity 74.87
+title "Miss Bunny"
+width 11
+
+color a ffffff
+color b 000000
+color c ffedc6
+color d ff66cc
+color e ffec84
+color f ffcccc
+
+rows
+f 1 f 1
+f 2 e 1 e 1 f 2
+f 2 e 1 e 1 f 2
+f 1 e 2 e 2 f 1
+e 7
+e 1 c 2 e 3 c 2 e 1
+e 2 c 3 e 1 c 3 e 2
+e 1 c 2 b 1 c 3 b 1 c 2 e 1
+c 4 d 1 c 4
+c 2 d 1 c 1 c 1 d 1 c 2
+c 9
+c 7
+
+columns
+e 2 c 2
+e 2 c 4
+f 3 e 1 c 4 d 1 c 2
+f 3 e 2 c 2 b 1 c 4
+e 5 c 2 c 2
+e 3 c 1 d 1 c 2
+e 5 c 2 c 2
+f 3 e 2 c 2 b 1 c 4
+f 3 e 1 c 4 d 1 c 2
+e 2 c 4
+e 2 c 2

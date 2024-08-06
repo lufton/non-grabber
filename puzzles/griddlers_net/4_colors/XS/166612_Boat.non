@@ -1,0 +1,41 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 10
+id 166612
+link "https://www.griddlers.net/nonogram/-/g/166612"
+medium_time "0:00:21"
+points 21
+popularity 62.31
+title "Boat"
+width 10
+
+color a ffffff
+color b cc6600
+color d ff0000
+color e cccccc
+
+rows
+d 1 e 1
+d 1 e 1
+d 2 e 1
+d 2 e 1
+d 3 e 1
+e 1
+e 1
+b 10
+b 8
+b 6
+
+columns
+b 1
+b 2
+d 1 b 3
+d 3 b 3
+d 5 b 3
+e 7 b 3
+b 3
+b 3
+b 2
+b 1

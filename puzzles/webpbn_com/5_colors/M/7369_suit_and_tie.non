@@ -1,0 +1,63 @@
+by "ruby_ph (ruby_ph)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by ruby_ph"
+date "Dec  8, 2009"
+description "put on your suit and tie"
+difficulty 1.5
+height 20
+id 7369
+link "https://webpbn.com/play.cgi?id=7369"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "suit and tie"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 3 black 5 black 5 black 3
+black 2 black 3 black 2 black 3 black 2
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1
+black 6 black 2 black 6
+black 6 black 6
+black 7 black 7
+black 7 red 1 blue 2 red 1 black 7
+black 1 black 4 red 1 green 2 red 1 black 4 black 1
+black 2 black 5 red 2 black 5 black 2
+black 3 black 5 blue 2 black 5 black 3
+black 2 black 5 red 2 black 5 black 2
+black 1 black 5 green 2 black 5 black 1
+black 2 black 5 blue 2 black 5 black 2
+black 3 black 5 red 2 black 5 black 3
+black 2 black 5 green 2 black 5 black 2
+black 1 black 5 blue 2 black 5 black 1
+black 2 black 5 red 2 black 5 black 2
+black 3 black 12 black 3
+
+columns
+black 4 black 11
+black 3 black 4 black 3 black 3 black 2
+black 2 black 4 black 1 black 1 black 1
+black 1 black 4
+black 2 black 15
+black 3 black 15
+black 4 black 15
+black 3 black 13
+black 2 black 1 red 2 black 10
+black 1 black 2 black 1 blue 1 green 1 red 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 1
+black 1 black 2 black 1 blue 1 green 1 red 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 1
+black 2 black 1 red 2 black 10
+black 3 black 13
+black 4 black 15
+black 3 black 15
+black 2 black 15
+black 1 black 4
+black 2 black 4 black 1 black 1 black 1
+black 3 black 4 black 3 black 3 black 2
+black 4 black 11

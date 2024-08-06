@@ -1,0 +1,63 @@
+by "Benjamin (ghost24013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Benjamin"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 26265
+link "https://webpbn.com/play.cgi?id=26265"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "bases loaded"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 18
+green 5 blue 3 green 10
+green 7 blue 1 green 8 blue 1 green 1
+green 5 blue 3 green 8 blue 1 green 1
+green 5 blue 1 green 10 blue 1 green 1
+green 5 blue 3 green 10
+green 6 black 2 green 7 black 2 green 1
+green 6 black 1 blue 1 black 7 blue 1 black 1 green 1
+green 7 black 1 green 7 black 1 green 2
+green 7 black 1 green 7 black 1 green 2
+green 7 black 1 green 2 red 2 green 3 black 1 green 2
+green 7 black 1 green 2 red 2 green 3 black 1 green 2
+green 7 black 1 green 7 black 1 green 2
+green 7 black 1 green 7 black 1 green 2
+green 2 blue 3 green 2 black 1 green 7 red 1 green 2
+green 4 blue 1 green 1 black 1 blue 1 black 6 red 1 red 1 green 1
+green 2 blue 3 green 1 black 2 green 7 red 1 green 2
+green 4 blue 1 green 13
+blue 3
+
+columns
+0
+green 18
+green 18
+green 14 blue 1 green 1 blue 1 green 1 blue 1
+green 14 blue 1 green 1 blue 1 green 1 blue 1
+green 14 blue 5
+green 1 blue 1 green 1 blue 3 green 12
+green 1 blue 1 green 1 blue 1 green 1 blue 1 black 2 green 7 black 2 green 1
+green 1 blue 3 green 1 blue 1 black 1 blue 1 black 7 blue 1 black 1 green 1
+green 7 black 1 green 7 black 1 green 2
+green 7 black 1 green 7 black 1 green 2
+green 7 black 1 green 2 red 2 green 3 black 1 green 2
+green 7 black 1 green 2 red 2 green 3 black 1 green 2
+green 7 black 1 green 7 black 1 green 2
+green 7 black 1 green 7 black 1 green 2
+green 7 black 1 green 7 red 1 green 2
+green 6 black 1 blue 1 black 6 red 1 red 1 green 1
+green 2 blue 3 green 1 black 2 green 7 red 1 green 2
+green 18
+0

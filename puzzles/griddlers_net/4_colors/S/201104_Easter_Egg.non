@@ -1,0 +1,49 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/19"
+height 16
+id 201104
+link "https://www.griddlers.net/nonogram/-/g/201104"
+medium_time "0:02:16"
+points 424
+popularity 79.68
+title "Easter Egg"
+width 12
+
+color a ffffff
+color b cc00ff
+color c ff84c1
+color d fbdede
+
+rows
+b 2
+b 6
+d 8
+c 8
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1
+c 10
+d 12
+d 3 c 1 d 4 c 1 d 3
+d 2 c 3 d 2 c 3 d 2
+c 12
+d 2 c 8 d 2
+d 4 c 2 d 4
+d 3 c 1 d 2 c 1 d 3
+d 2 c 1 d 2 c 1 d 2
+d 6
+b 4
+
+columns
+d 3 c 1 d 1
+b 1 c 1 d 3 c 1 d 3
+d 1 c 3 d 2 c 3 d 3
+b 1 d 1 c 1 b 1 c 1 d 1 c 4 d 4
+b 1 d 1 c 3 d 2 c 3 d 1 c 2 d 1 b 1
+b 2 d 1 c 1 b 1 c 1 d 3 c 3 d 3 b 1
+b 2 d 1 c 3 d 3 c 3 d 3 b 1
+b 1 d 1 c 1 b 1 c 1 d 2 c 3 d 1 c 2 d 1 b 1
+b 1 d 1 c 3 d 1 c 4 d 4
+d 1 c 1 b 1 c 1 d 2 c 3 d 3
+c 2 d 3 c 1 d 3
+d 3 c 1 d 1

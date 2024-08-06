@@ -1,0 +1,72 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Sep 24, 2012"
+description "after the comment on the fox puzzle, I no longer could even see the fox. All I saw was a bird! well....the ears and face of the fox(from puzzle 19872)are now an owl. hope ya like it!"
+difficulty 2.25
+height 25
+id 19879
+link "https://webpbn.com/play.cgi?id=19879"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "whooo can it be?"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 12
+green 14 green 1
+green 4 red 8 green 1 green 1 green 2
+green 4 red 12 green 4
+green 4 red 15 green 2
+green 4 red 3 red 4 red 3 green 1
+green 4 red 3 red 2 red 3 green 1
+green 3 red 3 red 2 red 2 red 3
+green 3 red 2 red 1 red 2 red 2 red 1 red 2 green 1
+green 2 red 2 red 1 black 1 red 2 red 2 black 1 red 1 red 2 green 1
+green 1 green 1 red 1 red 1 black 2 red 1 red 1 black 2 red 1 red 1 green 1
+green 1 green 2 red 1 red 2 red 6 red 2 red 1 green 1
+green 3 red 1 red 4 black 4 red 4 red 1 green 1
+green 4 red 1 red 2 black 6 red 2 red 1 green 1
+green 4 red 1 black 2 green 1 black 2 green 1 black 2 red 1 green 1
+green 3 red 1 black 8 red 2 green 1
+green 2 red 2 black 6 red 2 green 1
+green 1 red 3 black 4 red 3
+red 5 black 4 red 6
+red 9 black 2 red 10
+red 7 black 2 red 7
+red 6 red 5
+red 6 red 4
+red 6 red 3
+red 6 red 3
+
+columns
+green 4 green 5 red 2
+green 4 green 5 red 3
+green 4 green 5 red 4
+green 4 green 5 red 5
+green 4 red 8 red 6
+green 3 red 4 red 10
+green 3 red 3 red 7
+green 3 red 3 red 3 red 5
+green 3 red 3 red 2 red 2 red 3
+green 3 red 2 red 1 black 2 red 2 red 3
+green 2 red 3 red 1 black 1 red 2 black 2 red 1
+green 2 red 3 red 2 red 2 black 4 red 1
+green 2 red 4 red 3 black 2 green 1 black 4 red 1
+green 2 red 5 red 1 black 9
+green 2 red 5 red 1 black 9
+green 2 red 4 red 3 black 2 green 1 black 4 red 1
+green 2 red 3 red 2 red 2 black 4 red 1
+green 2 red 3 red 1 black 1 red 2 black 2 red 1
+green 3 red 2 red 1 black 2 red 2 red 3
+green 2 red 3 red 2 red 2 red 3
+green 3 red 3 red 3 red 5
+green 1 red 4 red 7
+green 2 red 4 red 10
+green 5 red 9 red 7
+green 2 green 9 red 6

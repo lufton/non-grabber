@@ -1,0 +1,122 @@
+by "T Rooker (trooker)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by T Rooker"
+date "Mar 16, 2011"
+description "Good job mentos! Haahaa this happens when i get bored!"
+difficulty 1.75
+height 50
+id 12763
+link "https://webpbn.com/play.cgi?id=12763"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "All The mentos fault !"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2 blue 3 blue 23
+blue 2 blue 1 blue 23
+blue 2 blue 1 blue 1 blue 23
+blue 2 blue 3 blue 23 black 4 black 4
+blue 2 blue 3 blue 1 blue 1 blue 2 blue 1 blue 2 blue 2 blue 1 black 4 black 4
+blue 2 blue 3 blue 1 blue 3 blue 1 blue 2 blue 2 blue 2 blue 1 blue 3 black 2 black 2 black 2 black 2
+blue 2 blue 3 blue 1 blue 2 blue 1 blue 2 blue 2 blue 2 blue 1 blue 1 black 2 black 2 black 2 black 2
+blue 2 blue 3 blue 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 3 blue 1 black 2 black 2
+blue 2 blue 3 blue 1 blue 1 blue 2 blue 2 blue 3 blue 2 blue 1 black 2 black 2
+blue 30 black 2 black 2
+blue 30 black 2 black 2
+blue 2 blue 3 blue 23 black 2 black 2
+blue 2 blue 1 blue 23 black 2 black 2
+blue 2 blue 1 blue 1 blue 23 black 2 black 2
+blue 2 blue 3 blue 1 blue 1 blue 2 blue 1 blue 2 blue 2 blue 1 black 2 black 2
+blue 2 blue 3 blue 1 blue 3 blue 1 blue 2 blue 2 blue 2 blue 1 blue 3 black 2 black 2
+blue 2 blue 3 blue 1 blue 2 blue 1 blue 2 blue 2 blue 2 blue 1 blue 1 black 2 black 2
+blue 2 blue 3 blue 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 3 blue 1
+blue 2 blue 3 blue 1 blue 1 blue 2 blue 2 blue 3 blue 2 blue 1 black 10
+blue 30 black 10
+blue 30 black 10
+blue 2 blue 3 blue 23 black 10
+blue 2 blue 1 blue 23 black 8
+blue 2 blue 1 blue 1 blue 23 black 8
+blue 2 blue 3 blue 1 blue 1 blue 2 blue 1 blue 2 blue 2 blue 1 black 8
+blue 2 blue 3 blue 1 blue 3 blue 1 blue 2 blue 2 blue 2 blue 1 blue 3 black 8
+blue 2 blue 3 blue 1 blue 2 blue 1 blue 2 blue 2 blue 2 blue 1 blue 1 black 10
+blue 2 blue 3 blue 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 3 blue 1 black 12
+blue 2 blue 3 blue 1 blue 1 blue 2 blue 2 blue 3 blue 2 blue 1 black 15
+blue 29 black 16
+black 18
+black 18
+black 18
+black 18
+red 18
+red 18
+red 2 red 9 red 1
+red 1 red 4 red 2 red 1 red 1 red 3
+red 1 red 3 red 2 red 1 red 2 red 2
+red 1 red 3 red 2 red 1 red 2 red 3
+red 2 red 1 red 2 red 1 red 1 red 1
+red 18
+red 18
+black 18
+black 18
+black 18
+black 18
+black 18
+black 18
+black 18
+
+columns
+0
+0
+blue 30
+blue 30
+blue 2 blue 2 blue 1
+blue 1 blue 10 blue 9 blue 7
+blue 2 blue 10 blue 9 blue 6
+blue 1 blue 10 blue 9 blue 7
+blue 2 blue 2 blue 1
+blue 30
+blue 4 blue 5 blue 5 blue 1
+blue 4 blue 1 blue 1 blue 5 blue 1 blue 1 blue 5 blue 1 blue 1 blue 1
+blue 4 blue 3 blue 5 blue 3 blue 5 blue 3 blue 1
+blue 30
+blue 4 blue 5 blue 5 blue 1
+blue 5 blue 9 blue 9 blue 4
+blue 6 blue 9 blue 9 blue 3
+blue 4 blue 5 blue 5 blue 1
+blue 30
+blue 4 blue 9 blue 9 blue 5
+blue 4 blue 5 blue 5 blue 1
+blue 4 blue 9 blue 9 blue 5
+blue 30
+blue 5 blue 7 blue 7 blue 2
+blue 4 blue 3 blue 5 blue 3 blue 5 blue 3 blue 1
+blue 4 blue 3 blue 5 blue 3 blue 5 blue 3 blue 1
+blue 5 blue 7 blue 7 blue 2
+blue 30
+blue 4 blue 1 blue 5 blue 1 blue 5 blue 1 blue 1
+blue 4 blue 1 blue 1 blue 5 blue 1 blue 1 blue 5 blue 1 blue 1 blue 1
+blue 4 blue 1 blue 5 blue 1 blue 5 blue 1 blue 1
+blue 29 black 4 red 9 black 7
+black 6 red 3 red 3 black 7
+black 2 black 6 red 2 red 3 red 2 black 7
+black 4 black 7 red 2 red 3 red 2 black 7
+black 2 black 4 black 4 black 8 red 2 red 3 red 2 black 7
+black 14 black 16 red 4 red 3 black 7
+black 6 black 4 black 16 red 3 red 2 red 2 black 7
+black 16 red 3 red 2 red 2 black 7
+black 16 red 4 red 3 black 7
+black 16 red 9 black 7
+black 16 red 3 red 2 black 7
+black 4 black 16 red 4 red 3 black 7
+black 8 black 16 red 3 red 2 red 2 black 7
+black 8 black 4 black 8 red 9 black 7
+black 6 black 7 red 2 red 2 black 7
+black 2 black 6 red 2 red 1 red 1 red 2 black 7
+black 2 black 5 red 2 red 3 red 2 black 7
+black 4 black 4 red 9 black 7
+black 2

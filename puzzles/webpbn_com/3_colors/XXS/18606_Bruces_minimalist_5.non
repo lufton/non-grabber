@@ -1,0 +1,31 @@
+by "Bruce Yanoshek (yanogator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Bruce Yanoshek"
+date "May 10, 2012"
+description ""
+difficulty 1.0
+height 5
+id 18606
+link "https://webpbn.com/play.cgi?id=18606"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Bruce's minimalist #5"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 red 1 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+
+columns
+black 5
+black 5
+red 1
+black 5
+black 5

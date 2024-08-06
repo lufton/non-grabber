@@ -1,0 +1,61 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/10/07"
+height 16
+id 48102
+link "https://www.griddlers.net/nonogram/-/g/48102"
+medium_time "0:08:25"
+points 6797
+popularity 59.49
+title "Pizza"
+width 20
+
+color a 0000ff
+color b 633100
+color c a56b42
+color d fff79c
+color e ffd600
+color f ad0000
+color g ffffde
+color h f47e70
+
+rows
+b 3
+b 1 c 1 d 2 b 1
+c 3 b 1 c 1 d 2 b 1
+c 2 e 4 b 1 c 1 d 2 b 1
+c 1 e 3 f 2 d 1 e 1 b 1 c 1 d 2 b 1
+c 1 e 1 g 2 f 1 h 2 f 1 e 1 b 1 c 1 d 2 b 1
+c 1 f 2 d 3 f 2 e 1 d 1 e 1 b 1 c 1 d 2 b 1
+c 1 h 1 f 1 d 1 e 1 d 1 g 4 d 1 e 1 b 1 c 1 d 2 b 1
+c 1 e 1 g 1 d 1 e 1 d 6 e 3 b 1 c 2 b 1
+c 1 e 1 g 1 d 3 e 1 f 3 e 1 c 4 b 2
+c 1 e 1 g 1 f 2 e 2 c 5
+c 1 g 1 f 1 h 2 c 2
+c 1 d 1 e 1 f 1 c 1
+c 1 e 2 c 2
+c 1 e 1 c 1
+c 1
+
+columns
+c 2
+c 3 e 2 c 1
+c 2 e 1 g 1 d 1 e 1 c 1
+c 1 e 2 g 1 f 1 e 1 c 1
+c 1 h 1 g 2 f 1 h 1 f 1 c 1
+c 1 f 2 d 2 f 1 h 1 c 1
+c 1 e 1 f 1 d 1 e 1 d 1 e 1 c 1
+c 1 e 1 g 1 d 1 e 1 d 2 e 1 c 1
+c 1 e 1 g 1 d 3 e 1 c 1
+c 1 e 2 f 1 d 1 g 1 d 1 f 1 c 1
+c 1 e 1 f 1 h 1 f 1 g 1 d 1 f 1 c 1
+c 1 e 1 f 1 h 1 f 1 g 1 d 1 f 1 c 1
+b 2 e 1 d 1 f 1 e 1 g 1 d 1 e 1 c 1
+b 1 c 2 b 1 e 2 d 2 e 1 c 1
+b 1 d 2 c 1 b 2 e 3 c 1
+b 1 d 3 c 2 b 2 e 1 c 1
+b 2 d 3 c 2 b 1 c 1
+b 1 d 4 c 1 b 1
+b 2 d 2 c 1 b 1
+b 3

@@ -1,0 +1,125 @@
+by "griddlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/6/10"
+height 50
+id 96028
+link "https://www.griddlers.net/nonogram/-/g/96028"
+medium_time "0:40:57"
+points 61580
+popularity 85.85
+title "Tennis Ball"
+width 50
+
+color a 337a04
+color b b9d400
+color c dadcc1
+color d 98b400
+color e d9eb00
+color f 799000
+color g 5b7100
+color h 070900
+
+rows
+d 4
+b 6 d 5
+b 15 d 3
+b 21 d 2
+b 25 d 1
+b 28 d 2
+b 10 e 1 b 1 e 2 b 2 e 3 b 1 e 1 b 2 e 1 b 5 d 3
+b 9 e 1 b 1 e 8 b 1 e 1 b 1 e 1 b 2 e 1 b 6 d 3
+b 7 e 17 b 1 e 2 b 6 d 1 b 1 d 1
+d 1 b 6 e 1 b 1 e 18 b 7 d 4
+d 1 c 1 b 7 e 19 b 8 d 2 c 1
+d 2 c 3 b 3 e 22 b 6 c 4 d 1
+d 1 b 3 c 4 e 25 c 4 b 2 d 2 f 1
+d 1 b 7 c 6 e 16 c 6 b 3 d 3 f 2
+d 2 b 7 e 4 c 20 b 7 d 4 f 1
+d 1 b 8 e 13 c 2 e 11 b 5 d 4 f 2
+d 2 b 6 e 26 b 7 d 3 f 2
+d 1 b 7 e 29 b 4 d 3 f 3
+d 2 b 6 e 29 b 4 d 4 f 3
+d 1 b 1 d 1 b 5 e 27 b 7 d 2 f 3 g 1
+d 2 b 7 e 26 b 6 d 4 f 2 g 2
+d 2 b 7 e 25 b 6 d 1 b 1 d 2 f 3 g 2
+d 3 b 7 e 25 b 6 d 1 b 1 d 2 f 2 g 3
+d 3 b 6 e 26 b 6 d 4 f 2 g 3
+d 4 b 5 e 25 b 7 d 4 f 1 g 4
+d 4 b 5 e 25 b 7 d 4 f 1 g 4
+d 4 b 6 e 23 b 7 d 4 f 2 g 4
+d 3 b 1 d 1 b 5 e 23 b 8 d 2 f 3 g 4
+d 3 b 8 e 1 b 1 e 19 b 7 d 4 f 2 g 5
+d 3 b 7 e 1 b 1 e 18 b 8 d 4 f 3 g 4
+f 1 d 3 b 7 e 1 b 1 e 1 b 1 e 9 b 1 e 1 b 10 d 4 f 1 d 1 f 2 g 2 f 2 g 1
+f 1 d 3 b 10 e 2 b 2 e 1 b 4 e 2 b 10 d 1 b 1 d 3 f 2 g 6
+f 2 d 3 b 1 d 1 b 9 e 2 b 16 d 1 b 1 d 3 f 4 g 2 f 1 g 1
+f 2 d 5 b 25 d 5 f 4 g 5
+f 2 d 6 b 22 d 1 b 1 d 5 f 2 g 6
+f 3 d 4 b 22 d 6 f 2 g 4 f 1 g 2
+f 3 d 7 b 6 c 9 d 1 c 1 d 5 f 4 g 7
+f 3 d 7 c 22 f 3 g 7
+f 3 d 2 c 6 d 16 f 1 c 6 f 1 g 5
+f 2 c 4 d 20 f 4 g 2 c 3 f 2 g 2
+c 3 f 5 d 13 f 6 g 8 c 3
+g 1 f 11 d 1 f 11 g 12
+g 1 f 18 g 15
+g 2 f 1 g 4 f 11 g 14 h 1
+h 1 g 29 h 2
+h 3 g 5 f 1 g 8 f 1 g 11 h 2
+h 4 g 12 f 1 g 9 h 3
+h 5 g 8 f 1 g 1 f 1 g 6 h 5
+h 6 g 3 f 1 g 4 h 1 g 1 h 5
+h 13
+
+columns
+d 7
+d 13 f 3
+d 3 b 1 d 1 b 1 d 12 f 3
+d 2 b 1 d 1 b 2 d 1 b 4 d 3 b 2 d 4 f 4
+d 2 b 14 d 1 b 2 d 5 f 3
+d 2 b 20 d 3 f 4
+d 1 c 2 b 21 d 4 f 3 c 1
+b 3 c 1 b 20 d 6 f 2 c 1 g 1
+b 4 c 2 b 20 d 6 c 2 f 1 g 1
+b 6 c 1 b 4 e 3 b 3 e 3 b 8 d 5 c 1 f 3 g 1 h 2
+b 7 c 1 b 3 e 12 b 8 d 2 c 2 f 3 g 2 h 2
+b 7 c 2 e 16 b 6 d 2 c 2 f 4 g 1 h 3
+b 7 e 2 c 1 e 14 b 2 e 1 b 5 d 2 c 1 d 1 f 3 g 3 h 2
+b 6 e 1 b 1 e 2 c 1 e 16 b 7 d 1 c 1 d 1 f 3 g 3 h 2
+b 5 e 1 b 1 e 3 c 1 e 17 b 6 c 2 d 2 f 2 g 4 h 2
+b 5 e 5 c 2 e 15 b 1 e 1 b 5 c 2 d 2 f 2 g 4 h 2
+b 6 e 5 c 2 e 17 b 5 c 1 d 3 f 3 g 4 h 1
+b 5 e 7 c 1 e 16 b 1 e 1 b 4 c 1 d 3 f 3 g 1 f 1 g 2 h 1
+b 6 e 6 c 1 e 16 b 1 e 1 b 4 c 1 d 3 f 3 g 4 h 1
+b 4 e 8 c 1 e 17 b 4 c 2 d 4 f 2 g 4 h 2
+b 6 e 7 c 1 e 16 b 5 c 2 d 3 f 3 g 5 h 1
+b 5 e 8 c 1 e 16 b 5 c 2 d 3 f 3 g 5 h 1
+d 1 b 5 e 8 c 1 e 16 b 5 c 2 d 3 f 3 g 5 h 1
+d 1 b 6 e 7 c 1 e 16 b 5 c 2 d 3 f 3 g 4 f 1 h 1
+d 1 b 6 e 7 c 2 e 16 b 4 c 2 d 3 f 3 g 3 f 1 g 1 h 1
+d 1 b 5 e 8 c 2 e 14 b 1 e 1 b 4 c 2 d 3 f 3 g 5 h 1
+d 1 b 4 e 8 c 1 e 16 b 5 c 2 d 3 f 3 g 1 f 3 g 1 h 1
+d 1 b 4 e 1 b 1 e 6 c 1 e 15 b 6 c 2 d 2 f 2 g 7 h 1
+d 1 b 5 e 7 c 1 e 15 b 6 d 1 c 1 d 2 f 2 g 6 h 2
+d 1 b 4 e 1 b 1 e 6 c 1 e 15 b 6 c 2 d 2 f 2 g 7 h 1
+d 1 b 5 e 7 c 1 e 15 b 6 d 1 c 1 d 2 f 2 g 6 h 2
+d 1 b 6 e 5 c 1 e 14 b 7 d 1 c 1 d 2 f 1 g 7 h 2
+d 1 b 3 e 1 b 1 e 6 c 1 e 13 b 6 d 3 c 1 f 3 g 7 h 1
+d 1 b 4 e 2 b 2 e 2 c 2 e 11 b 9 d 2 c 2 f 1 g 7 h 2
+d 1 b 8 e 1 c 2 e 9 b 9 d 4 c 2 f 1 g 7 h 2
+d 1 b 8 e 1 c 1 b 1 e 6 b 11 d 4 f 1 c 2 f 1 g 7 h 1
+b 8 e 1 c 1 b 1 e 1 b 1 e 2 b 12 d 1 b 1 d 3 f 2 c 1 g 7 h 2
+d 1 b 7 c 2 b 3 e 2 b 11 d 1 b 1 d 4 f 2 c 1 g 7 h 2
+d 2 b 5 c 2 b 16 d 5 f 3 c 2 g 5 h 2
+d 2 b 5 c 1 b 15 d 5 f 3 g 2 f 1 c 1 g 4 h 2
+d 4 b 1 c 2 b 13 d 1 b 1 d 4 f 3 g 4 c 1 g 4 h 1
+d 1 b 1 d 2 c 1 b 9 d 9 f 4 g 5 f 1 c 1 g 2 h 1
+d 4 c 1 b 1 d 3 b 1 d 2 b 1 d 1 b 2 d 8 f 3 g 5 f 1 c 1 g 1
+d 1 c 2 d 15 f 4 g 1 f 1 g 7 c 1
+d 15 f 5 g 4 f 1 g 4
+f 2 d 3 f 1 d 1 f 1 d 1 f 7 g 1 f 1 g 8
+f 11 g 8 f 1 g 3
+f 7 g 8 f 1 g 3
+f 1 g 11 f 1 g 1
+g 11

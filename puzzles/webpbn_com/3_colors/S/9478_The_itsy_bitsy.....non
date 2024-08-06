@@ -1,0 +1,50 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul  4, 2010"
+description "crawled up the water spout."
+difficulty 2.0
+height 14
+id 9478
+link "https://webpbn.com/play.cgi?id=9478"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The itsy bitsy...."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 3
+black 1 black 3
+black 2 black 3
+black 3 black 1 black 2
+black 5
+black 3
+black 2 black 8
+black 4 red 1 black 2 black 3
+black 2 red 1 black 2 black 3
+black 3 red 1 black 3
+black 9
+black 2 black 3 black 3
+black 1 black 1 black 3
+black 2
+
+columns
+black 3 black 1 black 2
+black 2 black 2 black 2
+black 1 black 1 black 2
+black 2 black 5
+black 8
+black 4 red 3 black 3
+black 8
+black 2 black 5
+black 2 black 1 black 3
+black 1 black 1 black 3
+black 2 black 2 black 2
+black 1 black 1 black 2
+black 2 black 2 black 1
+black 1 black 1
+black 1 black 1

@@ -1,0 +1,77 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Ron Jacobson"
+date "May 16, 2018"
+description ""
+difficulty 2.25
+height 16
+id 31224
+link "https://webpbn.com/play.cgi?id=31224"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 1.5
+title "One letter off 7"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 2
+black 3
+black 1 black 2
+black 1 black 2
+black 1 black 2 black 1
+black 2 black 2 black 5
+black 3 black 2 black 1
+red 5 black 1 black 2 black 2 black 1
+red 9 black 1 black 2 black 6
+red 11 black 2 black 2 black 1
+red 11 black 1 black 3 black 1
+black 19 black 2 black 5
+black 2
+black 2
+black 9
+
+columns
+black 1
+black 1
+black 1
+red 2 black 1
+red 3 black 1
+red 3 black 1
+red 4 black 1
+red 4 black 1
+red 4 black 1
+red 4 black 1
+red 4 black 1
+red 3 black 1
+red 3 black 1
+red 2 black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+0
+0
+0
+0
+0
+0
+0
+0
+black 5
+black 3 black 3
+black 2 black 2
+black 5 black 1 black 2
+black 3 black 2 black 1 black 2
+black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 1
+black 1 black 2 black 1 black 1
+black 2 black 1 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 7 black 1

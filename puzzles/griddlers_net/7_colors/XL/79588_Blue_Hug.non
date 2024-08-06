@@ -1,0 +1,89 @@
+by "tomtal"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/18/09"
+height 35
+id 79588
+link "https://www.griddlers.net/nonogram/-/g/79588"
+medium_time "0:17:48"
+points 26065
+popularity 63.0
+title "Blue Hug"
+width 30
+
+color a ffffff
+color b 0000cc
+color d ff6600
+color e 663300
+color f 006600
+color g 33cc00
+color h 009900
+
+rows
+d 1
+d 2 d 1
+b 3 d 2 d 1
+b 5 d 4 d 1
+b 5 d 4 d 2
+b 5 d 4 d 2
+b 3 d 2 d 2
+b 1 b 4 d 2 d 2
+b 1 b 2 d 4
+b 1 b 2 d 4 f 3 g 1
+b 10 d 3 f 2 g 2
+b 10 d 4 h 1 g 2 f 3
+b 2 b 1 d 4 d 1 h 2 f 1 g 1 e 3
+b 2 b 1 d 5 d 1 g 1 h 2 e 4
+b 1 b 1 d 1 g 2 e 3 h 3
+b 1 b 1 d 1 e 2 h 5
+b 1 d 1 h 7
+b 2 d 1 h 9
+b 2 h 3 d 1 h 10
+b 1 b 1 h 5 d 2 h 9
+b 1 b 1 h 7 d 2 h 9
+h 3 b 1 h 2 b 1 h 7 d 2 h 9
+h 4 b 1 h 3 b 1 h 7 d 1 h 1 d 1 h 4 f 4
+h 5 b 1 h 4 b 1 h 6 d 1 h 1 d 1 h 4 f 4
+h 6 b 1 h 5 b 1 h 6 d 1 h 2 d 1 h 2 f 4 h 1
+h 5 b 1 h 6 b 1 h 6 d 1 h 2 d 1 h 7
+h 4 b 1 h 7 b 1 h 5 d 1 h 3 d 1 h 7
+h 3 b 1 h 8 b 1 h 5 d 1 h 4 d 1 h 6
+h 2 b 1 h 10 b 1 h 4 d 1 h 4 d 1 h 6
+h 2 b 1 h 10 b 1 h 4 d 1 h 5 d 1 h 5
+h 2 b 1 h 10 b 1 h 4 d 1 h 6 d 2 h 3
+f 1 h 2 b 1 h 3 f 3 h 4 b 2 d 2 h 8 d 1 h 3
+f 2 h 7 f 2 h 19
+f 2 h 8 f 8 h 12
+f 8 h 3 f 10 h 9
+
+columns
+h 7 f 4
+h 8 f 3
+b 3 h 5 b 3 h 3 f 1
+b 6 h 5 b 1 h 3 b 1 h 2 f 1
+b 2 h 4 b 1 h 7 f 1
+b 2 h 4 b 1 h 8 f 1
+b 2 h 3 b 1 h 9 f 1
+b 2 h 1 b 2 h 7 f 1 h 2 f 1
+b 3 b 2 b 2 h 9 f 1 h 3
+b 5 b 2 b 3 h 10 f 2 h 2
+b 17 h 11 f 2 h 1
+b 5 b 2 b 4 h 10 f 2
+b 3 b 2 d 1 h 3 b 5 h 5 f 2
+b 2 d 1 h 8 b 3 h 2 f 2
+b 2 d 2 h 12 b 1 h 1 f 2
+b 1 d 2 h 12 b 1 h 1 f 2
+b 1 d 3 h 13 d 1 h 1 f 2
+d 3 b 1 d 3 h 13 d 1 h 1 f 2
+d 7 d 3 h 8 d 5 h 3 f 1
+d 25 h 8 f 1
+d 3 d 2 h 1 d 3 h 12 f 1
+d 3 h 5 d 2 h 11
+d 5 g 1 h 7 d 3 h 8
+d 7 h 1 g 2 e 1 h 11 d 2 h 6
+h 3 e 2 h 13 d 1 h 5
+g 1 f 1 h 1 e 1 h 9 f 1 h 5 d 1 h 4
+f 2 g 2 e 2 h 7 f 3 h 5 d 2 h 3
+f 3 e 2 h 8 f 3 h 10
+f 1 g 1 f 1 e 2 h 8 f 3 h 10
+g 2 f 1 e 2 h 8 f 2 h 11

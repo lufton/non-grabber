@@ -1,0 +1,33 @@
+by "Kendra Heredia (kendra.heredia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kendra Heredia"
+date "Oct  7, 2017"
+description "Sixteenth Music note"
+difficulty 1.25
+height 8
+id 30225
+link "https://webpbn.com/play.cgi?id=30225"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Only Sixteen"
+width 8
+
+rows
+5
+1,1
+5
+1,1
+1,1
+3,3
+3,3
+0
+
+columns
+2
+2
+7
+1,1
+1,1,2
+1,1,2
+7
+0

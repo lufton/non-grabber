@@ -1,0 +1,63 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar  4, 2009"
+description ""
+difficulty 1.75
+height 15
+id 5221
+link "https://webpbn.com/play.cgi?id=5221"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Are there life outside?...."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 3 green 1 black 7 black 3 green 1
+green 3 black 9 green 3
+green 1 black 1 green 3 blue 1 green 3 black 1 green 1
+green 3 black 1 green 1 blue 1 green 1 black 1 green 3
+green 1 green 1 black 1 green 3 blue 1 green 3 black 1 green 1 green 1
+black 21
+black 1 black 1
+black 1 red 2 red 2 red 2 red 2 red 2 red 2 black 1
+black 1 red 2 red 2 red 2 red 2 red 2 red 2 black 1
+black 1 black 1
+green 1 black 21 green 1
+green 3 green 3
+green 1 black 7 green 1
+green 3 black 9 green 3
+
+columns
+black 1 green 1 green 1
+black 2 green 4
+black 1 green 1 green 2 black 6 green 1 green 1
+green 4 black 1 black 1
+green 1 green 2 black 1 red 2 black 1
+black 1 red 2 black 1 black 1
+black 1 black 1 black 2
+black 4 red 2 black 1 black 2
+black 1 black 1 red 2 black 1 black 2
+black 2 green 1 green 1 black 1 black 1 black 2
+black 2 green 3 black 1 red 2 black 1 black 2
+black 2 green 1 green 1 black 1 red 2 black 1 black 2
+black 2 blue 3 black 1 black 1 black 2
+black 2 green 1 green 1 black 1 red 2 black 1 black 1
+black 2 green 3 black 1 red 2 black 1
+black 2 green 1 green 1 black 1 black 1
+black 1 black 1 red 2 black 1
+black 4 red 2 black 1
+black 1 black 1 black 1
+black 2 black 1 red 2 black 1
+black 1 black 1 red 2 black 1
+black 1 black 1
+green 1 green 2 black 6 green 1 green 1
+green 4 green 4
+green 1 green 2 green 1 green 1

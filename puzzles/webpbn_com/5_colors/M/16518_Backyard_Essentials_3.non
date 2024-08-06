@@ -1,0 +1,58 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Nov 25, 2011"
+description "Swing set.. If you don't have kids, I'd suggest a porch swing instead. ;)"
+difficulty 1.25
+height 15
+id 16518
+link "https://webpbn.com/play.cgi?id=16518"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Backyard Essentials #3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 16
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 green 1 green 1 green 1 green 1 black 1
+black 1 green 5 green 5 black 1
+black 1 black 1
+black 3 black 3
+
+columns
+0
+black 1
+black 13
+black 1 black 1
+black 1 blue 8 green 2
+black 1 green 1
+black 1 green 1
+black 1 green 1
+black 1 blue 8 green 2
+black 1
+black 1
+black 1 red 8 green 2
+black 1 green 1
+black 1 green 1
+black 1 green 1
+black 1 red 8 green 2
+black 1 black 1
+black 13
+black 1
+0

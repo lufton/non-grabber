@@ -1,0 +1,62 @@
+by "Samantha J (Galaxy Tiger1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Samantha J"
+date "Jul 13, 2020"
+description "means Peace & War"
+difficulty 2.5
+height 20
+id 34314
+link "https://webpbn.com/play.cgi?id=34314"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Yin & Yang..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+0
+blue 2 red 3
+blue 1 black 5 red 1
+blue 1 black 1 black 4 red 1
+blue 1 black 1 black 2 black 4 red 1
+blue 1 black 1 black 2 black 5 red 1
+blue 1 black 1 black 5 red 1
+blue 1 black 1 black 6 red 1
+blue 1 black 1 black 7 red 1
+blue 1 black 1 black 2 black 3 red 1
+blue 1 black 1 black 2 black 2 red 1
+blue 1 black 1 black 4 red 1
+blue 1 black 5 red 1
+blue 2 red 3
+
+columns
+0
+0
+blue 5
+blue 1 black 5 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 2 black 1 blue 1
+blue 1 black 1 black 2 black 3 black 1 blue 1
+red 1 black 2 black 6 red 1
+red 1 black 7 black 2 red 1
+red 1 black 7 black 2 red 1
+red 1 black 9 red 1
+red 1 black 7 red 1
+red 1 black 5 red 1
+red 5
+0
+0
+0
+0
+0

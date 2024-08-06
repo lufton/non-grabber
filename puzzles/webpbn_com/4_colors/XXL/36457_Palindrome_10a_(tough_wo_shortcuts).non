@@ -1,0 +1,112 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb 23, 2023"
+description "I had to color the numbers and the double bonds to make this (relatively) easily solvable. But I find the logic I used interesting. Maybe others can find a more powerful/elegant solution?"
+difficulty 4.0
+height 45
+id 36457
+link "https://webpbn.com/play.cgi?id=36457"
+note "published,definitely unique,may require much guessing"
+quality 3.25
+title "Palindrome 10a (tough w/o shortcuts)"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 blue 2
+black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 3 blue 2
+blue 1
+black 1 blue 2
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 5
+black 3 black 3
+black 2 green 1 black 2
+black 3 green 3 black 3
+black 1 green 2 black 1
+black 1 green 1 green 3 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 green 3 black 1
+black 1 green 2 black 1
+black 3 green 3 black 3
+black 2 black 2 green 1 black 2 black 2
+black 3 black 3 black 3 black 3
+black 2 black 5 black 2
+black 3 black 3 black 3 black 1 black 3 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 blue 2 black 1 black 1 black 1 black 1 black 1 blue 2
+black 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 3 blue 2 black 1 black 1 black 3 blue 2
+blue 1 black 2 black 1 black 1 blue 1
+blue 2 black 1 black 1 black 1 blue 2
+black 1 black 3 blue 2
+black 1 black 1 black 1 blue 1
+black 2 black 1 black 1 blue 2
+blue 1
+blue 2
+
+columns
+black 5
+black 1
+black 5
+0
+black 5
+black 1 black 1
+black 5
+blue 1 blue 3
+black 1 blue 3 blue 1
+black 1
+black 2
+black 2
+black 1
+black 2
+black 14
+black 1 black 1
+black 5 black 2 green 9 black 2
+black 1 black 2 black 2 black 5
+black 5 black 1 black 1 black 1 black 1
+black 2 black 2
+black 5 black 1 black 1 black 5
+black 1 black 1 black 9 green 2 green 2 black 5 black 1
+black 5 black 1 green 1 green 1 black 1 black 5
+blue 1 blue 3 black 2 green 2 green 2 black 2 blue 1 blue 1 blue 1
+blue 3 blue 1 black 1 green 2 green 2 black 1 blue 5
+black 2 green 1 green 1 black 2
+black 2 green 1 green 1 black 2
+black 1 black 1
+black 14
+black 2
+black 1
+black 2
+black 2
+black 1
+black 1
+0
+black 5
+black 1
+black 5
+0
+black 5
+black 1 black 1
+black 5
+blue 1 blue 3
+blue 3 blue 1

@@ -1,0 +1,83 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Sep  7, 2010"
+description "Swan with cygnets"
+difficulty 1.75
+height 20
+id 10240
+link "https://webpbn.com/play.cgi?id=10240"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Cygnus"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 40
+green 33 green 4
+green 31 green 3
+green 31 green 2
+green 30 black 1 green 2
+green 30 green 1 black 2 green 2
+green 8 green 14 green 2 black 2 green 2
+green 9 green 9 green 3 red 1 black 1 green 2
+green 11 green 6 green 3 red 1 green 3
+green 12 green 5 green 3 red 1 green 3
+green 13 green 3 green 3 red 1 green 3
+green 14 green 1 green 7
+green 6 green 9 green 1 green 8
+green 5 green 3 green 8
+blue 5 black 1 blue 3 blue 8
+blue 1 black 2 blue 3 blue 8
+blue 8 blue 9
+blue 1 blue 3 blue 11 blue 1 blue 10
+blue 8 blue 9 blue 17
+blue 1 blue 2 black 1 black 2 blue 1 blue 2 black 1 black 2 blue 15
+
+columns
+green 14 blue 1 blue 3
+green 14 blue 1 blue 1
+green 14 blue 1 blue 1
+green 14 blue 1 blue 1
+green 14 blue 2 blue 1
+green 13 blue 1
+green 12 black 1 blue 4
+green 13 black 1 blue 4
+green 6 green 7 blue 1 black 1 blue 2
+green 6 green 6 blue 3 black 1
+green 6 green 6 blue 4
+green 6 green 4 blue 4 black 1
+green 6 green 3 blue 3 black 1
+green 6 green 2 blue 4
+green 6 green 1 blue 2
+green 6 green 1 blue 2
+green 7 blue 2
+green 7 blue 2
+green 7 blue 3
+green 7 blue 3
+green 7 blue 1
+green 8 black 1
+green 8 blue 1
+green 8 blue 1 black 1
+green 9 blue 1 black 1
+green 10 blue 2
+green 10 blue 2
+green 11 blue 2
+green 13 blue 2
+green 11 blue 2
+green 4 blue 3
+green 2 blue 4
+green 2 green 2 blue 6
+green 1 green 9 blue 6
+green 1 green 8 blue 6
+green 1 black 1 green 7 blue 6
+green 2 black 2 red 4 green 3 blue 6
+green 3 black 3 green 6 blue 6
+green 14 blue 6
+green 14 blue 6

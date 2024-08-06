@@ -1,0 +1,121 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/26/16"
+height 50
+id 170758
+link "https://www.griddlers.net/nonogram/-/g/170758"
+medium_time "0:21:20"
+points 32091
+popularity 85.33
+title "Cube Variation"
+width 50
+
+color a 009999
+color b fceaa6
+color c f0c826
+color d c7a106
+
+rows
+b 2
+b 6
+b 10
+b 14
+b 18
+b 10 d 1 c 1 b 10
+b 10 d 3 c 3 b 10
+b 10 d 5 c 5 b 10
+b 10 d 7 c 7 b 10
+b 10 d 9 c 9 b 10
+b 10 d 10 b 2 c 10 b 10
+b 10 d 10 b 6 c 10 b 10
+b 10 d 10 b 10 c 10 b 10
+c 2 b 10 d 6 b 14 c 6 b 10 d 2
+c 4 b 10 d 2 b 18 c 2 b 10 d 4
+c 6 b 18 d 1 c 1 b 18 d 6
+c 8 b 14 d 3 c 3 b 14 d 8
+c 10 b 10 d 5 c 5 b 10 d 10
+c 12 b 6 d 7 c 7 b 6 d 12
+c 14 b 2 d 9 c 9 b 2 d 14
+c 5 d 1 c 9 d 9 b 2 c 9 d 9 c 1 d 5
+c 5 d 3 c 7 d 7 b 6 c 7 d 7 c 3 d 5
+c 5 d 5 c 5 d 5 b 10 c 5 d 5 c 5 d 5
+c 5 d 5 c 5 d 5 c 2 b 6 d 2 c 5 d 5 c 5 d 5
+c 5 d 5 c 5 d 5 c 4 b 2 d 4 c 5 d 5 c 5 d 5
+c 5 d 5 c 5 d 5 c 5 d 5 c 5 d 5 c 5 d 5
+c 5 d 5 c 5 d 5 c 5 d 5 c 5 d 5 c 5 d 5
+c 5 d 5 c 5 d 5 c 5 d 5 c 5 d 5 c 5 d 5
+c 5 d 5 c 5 d 4 b 3 c 3 d 3 b 4 c 3 d 5 c 5 d 5
+c 5 d 5 c 5 d 1 b 8 c 1 d 1 b 8 c 1 d 5 c 5 d 5
+c 5 d 5 c 6 b 18 d 6 c 5 d 5
+c 5 d 5 c 8 b 14 d 8 c 5 d 5
+c 5 d 5 c 10 b 10 d 10 c 5 d 5
+c 5 d 3 b 4 c 10 b 6 d 10 b 4 c 3 d 5
+c 5 d 1 b 8 c 10 b 2 d 10 b 8 c 1 d 5
+c 6 b 10 c 9 d 9 b 10 d 6
+c 8 b 10 c 7 d 7 b 10 d 8
+c 10 b 10 c 5 d 5 b 10 d 10
+c 10 b 8 c 5 d 5 b 8 d 10
+c 10 b 6 c 5 d 5 b 6 d 10
+c 10 b 4 c 5 d 5 b 4 d 10
+c 10 b 2 c 5 d 5 b 2 d 10
+c 15 d 15
+c 13 d 13
+c 11 d 11
+c 9 d 9
+c 7 d 7
+c 5 d 5
+c 3 d 3
+c 1 d 1
+
+columns
+b 1 c 25
+b 1 c 25
+b 3 c 25
+b 3 c 25
+b 5 c 25
+b 5 c 5 d 15 c 5
+b 7 c 5 d 13 b 2 c 5
+b 7 c 5 d 13 b 2 c 5
+b 9 c 5 d 11 b 4 c 5
+b 9 c 5 d 11 b 4 c 5
+b 5 d 1 b 5 c 15 b 5 c 5
+b 5 d 1 b 5 c 15 b 5 c 5
+b 5 d 3 b 5 c 15 b 5 c 5
+b 5 d 3 b 5 c 15 b 5 c 5
+b 5 d 5 b 5 c 15 b 5 c 5
+b 5 d 5 b 5 d 10 c 5 b 5 c 5
+b 5 d 5 b 5 d 10 b 2 c 5 b 5 c 5
+b 5 d 5 b 5 d 10 b 2 c 5 b 5 c 5
+b 5 d 5 b 5 d 11 b 3 c 5 b 5 c 5
+b 5 d 5 b 5 d 10 b 4 c 5 b 5 c 5
+b 5 d 5 b 5 d 5 b 1 c 5 b 5 c 15
+b 5 d 5 b 5 d 5 b 1 c 5 b 5 c 15
+b 5 d 5 b 5 d 5 b 3 c 5 b 5 c 15
+b 5 d 5 b 5 d 5 b 3 c 5 b 5 c 15
+b 5 d 5 b 5 d 5 b 5 c 5 b 5 c 15
+b 5 c 5 b 5 c 5 b 5 d 5 b 5 d 15
+b 5 c 5 b 5 c 5 b 3 d 5 b 5 d 15
+b 5 c 5 b 5 c 5 b 3 d 5 b 5 d 15
+b 5 c 5 b 5 c 5 b 1 d 5 b 5 d 15
+b 5 c 5 b 5 c 5 b 1 d 5 b 5 d 15
+b 5 c 5 b 5 c 10 b 4 d 5 b 5 d 5
+b 5 c 5 b 5 c 10 b 4 d 5 b 5 d 5
+b 5 c 5 b 5 c 10 b 2 d 5 b 5 d 5
+b 5 c 5 b 5 c 10 b 2 d 5 b 5 d 5
+b 5 c 5 b 5 c 10 d 5 b 5 d 5
+b 5 c 5 b 5 d 15 b 5 d 5
+b 5 c 3 b 5 d 15 b 5 d 5
+b 5 c 3 b 5 d 15 b 5 d 5
+b 5 c 1 b 5 d 15 b 5 d 5
+b 5 c 1 b 5 d 15 b 5 d 5
+b 9 d 5 c 11 b 4 d 5
+b 9 d 5 c 11 b 4 d 5
+b 7 d 5 c 13 b 2 d 5
+b 7 d 5 c 13 b 2 d 5
+b 5 d 5 c 15 d 5
+b 5 d 25
+b 3 d 25
+b 3 d 25
+b 1 d 25
+b 1 d 25

@@ -1,0 +1,63 @@
+by "Joel Lynn (Furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joel Lynn"
+date "May 11, 2011"
+description "Taking a Segway tour"
+difficulty 1.5
+height 20
+id 13836
+link "https://webpbn.com/play.cgi?id=13836"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "The other two-wheeler"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 red 3
+blue 4 red 5
+black 3 black 3
+black 3 black 3
+black 2 black 2
+green 3 red 3
+green 4 red 4
+green 3 green 1 black 1 red 3 red 1 black 1
+green 3 black 1 red 3 black 1
+blue 3 black 1 blue 3 black 1
+blue 3 black 1 blue 3 black 1
+blue 3 black 1 blue 3 black 1
+blue 3 black 1 blue 3 black 1
+blue 3 black 2 blue 3 black 2
+blue 2 black 3 blue 2 black 3
+black 2 black 2 black 2 black 2
+black 2 black 1 black 2 black 1
+black 2 black 2 black 2 black 2
+black 3 black 3
+black 20
+
+columns
+black 1
+blue 2 black 3 green 4 blue 6 black 1 black 1
+blue 2 black 3 green 4 blue 6 black 3 black 1
+blue 2 black 2 green 4 blue 5 black 2 black 3
+blue 1 green 1 black 1 black 2
+green 1 black 3 black 3
+black 7 black 3 black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+red 1 black 1
+red 2 black 3 red 4 blue 6 black 1 black 1
+red 2 black 3 red 4 blue 6 black 3 black 1
+red 2 black 2 red 4 blue 5 black 2 black 3
+red 1 red 1 black 1 black 2
+red 1 black 3 black 3
+black 7 black 3 black 1
+black 1

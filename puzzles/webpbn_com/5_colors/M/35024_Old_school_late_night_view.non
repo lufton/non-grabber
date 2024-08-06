@@ -1,0 +1,68 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by gregg licht"
+date "Apr  4, 2021"
+description "Waking up in the wee hours with the room lit by a color bar test pattern on an old VHF TV. Local stations would broadcast these after they went off the air."
+difficulty 1.25
+height 20
+id 35024
+link "https://webpbn.com/play.cgi?id=35024"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Old school late night view"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 7 black 10 black 4
+black 8 black 8 black 5
+black 9 black 6 black 6
+black 10 black 4 black 7
+black 11 black 2 black 8
+black 12 black 9
+black 12 black 9
+black 1 black 1
+black 1 black 10
+black 2 black 8
+black 3
+black 25
+black 4
+black 4 black 8 black 11
+black 4 black 1 black 2 black 1 black 1 red 3 blue 3 green 3
+black 4 black 3 black 3 black 1 red 3 blue 3 green 3
+black 4 black 1 black 2 black 1 black 1 red 3 blue 3 green 3
+black 4 black 3 black 3 black 1 red 3 blue 3 green 3
+black 4 black 1 black 2 black 1 black 1 red 3 blue 3 green 3
+black 4 black 3 black 3 black 1 red 3 blue 3 green 3
+
+columns
+black 7 black 12
+black 7 black 11
+black 7 black 1 black 10
+black 7 black 1 black 9
+black 7 black 1 black 1
+black 7 black 1 black 1 black 7
+black 7 black 1 black 1 black 1 black 1 black 1 black 1
+black 6 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 2 black 1 black 2 black 1 black 1
+black 1 black 4 black 2 black 1 black 2 black 1 black 1
+black 2 black 3 black 2 black 1 black 1 black 1 black 1 black 1
+black 3 black 2 black 2 black 1 black 1 black 1 black 1 black 1
+black 4 black 1 black 1 black 1 black 7
+black 5 black 1 black 1
+black 5 black 1 black 1 black 7
+black 4 black 1 black 1 black 1 black 1 red 6
+black 3 black 2 black 1 black 1 red 6
+black 2 black 3 black 1 black 1 red 6
+black 1 black 4 black 1 black 1 blue 6
+black 5 black 1 black 1 blue 6
+black 6 black 1 black 1 blue 6
+black 7 black 1 black 1 green 6
+black 7 black 1 black 1 green 6
+black 7 black 1 black 1 green 6
+black 7 black 1 black 1

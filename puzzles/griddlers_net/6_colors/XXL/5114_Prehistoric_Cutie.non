@@ -1,0 +1,123 @@
+by "wiggles"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/23/03"
+height 50
+id 5114
+link "https://www.griddlers.net/nonogram/-/g/5114"
+medium_time "1:17:20"
+points 824868
+popularity 77.57
+title "Prehistoric Cutie"
+width 50
+
+color a ffffff
+color b 009900
+color c ff0000
+color d 006300
+color g 808080
+color h 000000
+
+rows
+b 5 b 3
+b 2 b 1 b 2 b 2
+b 2 b 3 b 2
+b 2 b 2 b 2
+b 2 b 1 b 1
+h 1 b 1 b 1
+h 2 h 4 b 1
+h 4 h 2 h 2 h 4 b 1
+h 2 h 1 h 2 h 3 h 2 b 1
+h 2 h 1 h 1 h 2 h 1 b 2
+h 2 h 2 h 2 h 2 h 2 b 1
+h 2 h 1 h 1 h 1 h 1 b 1 d 3
+h 2 h 1 h 2 h 2 g 2 h 1 b 1 d 5
+h 2 h 1 h 1 h 1 g 2 h 2 b 1 d 6
+h 2 h 2 h 1 h 2 g 2 h 1 b 1 d 8
+h 1 h 1 h 3 h 1 g 2 h 1 b 1 d 9
+h 2 g 1 h 1 h 5 h 2 g 2 h 2 b 1 d 9
+h 1 g 1 h 2 h 7 g 2 h 1 b 1 d 8
+h 2 g 1 h 1 h 9 g 2 h 1 b 2 d 6
+h 1 g 1 h 1 h 2 h 7 g 2 h 1 b 1 d 6
+h 1 g 1 h 2 b 1 h 9 g 2 h 1 b 1 d 5
+h 1 g 2 h 1 b 3 h 2 h 3 g 3 h 1 b 1 d 4
+b 1 h 1 g 1 h 1 b 2 h 5 g 3 h 1 b 1 d 3
+b 2 h 2 g 1 h 1 b 1 h 4 g 2 h 2 b 1 d 6
+b 2 h 9 h 2 h 1 b 1 d 7
+b 2 h 4 h 2 b 2 d 7
+b 1 h 2 h 2 h 5 b 1 d 7
+b 2 g 1 h 2 h 2 h 2 g 1 b 1 d 5
+b 1 g 1 h 3 h 3 g 1 b 3 d 3
+b 1 g 3 g 2 b 1 d 5
+b 1 c 2 b 2 d 6
+b 1 c 1 b 1 d 7
+b 1 h 1 c 4 b 1 d 8
+b 1 h 3 h 1 c 2 c 1 b 2 d 6
+b 2 h 2 g 1 h 2 h 3 c 2 b 1 d 4
+b 1 h 1 g 1 h 1 h 2 g 1 h 2 c 3 b 1 d 2
+c 10 h 1 g 1 h 1 c 3 b 2 d 2
+b 2 c 3 h 1 c 9 b 1 d 4
+b 1 c 8 b 2 d 4
+b 2 b 1 b 3 d 5
+b 1 b 2 b 2 d 8
+b 2 b 2 b 3 d 9
+b 3 b 3 b 2 d 9
+b 2 b 2 b 2 d 8
+g 1 b 3 b 2 b 1 d 9
+g 2 b 4 b 4 b 2 d 9
+g 2 b 10 g 1 b 1 b 2 d 10
+g 4 g 3 b 2 b 1 d 4 d 5
+g 4 g 4 b 1 b 2 d 4
+g 5 b 1 b 1 d 6
+
+columns
+b 8
+b 3 b 2
+b 2 c 1
+b 2 h 1 g 1 c 1 b 1
+b 2 h 2 g 1 h 2 c 1 b 3
+h 6 h 2 g 1 h 2 c 1 b 3
+h 3 h 2 h 1 g 1 h 2 g 1 c 1 b 2 g 2
+h 3 h 1 h 1 g 1 h 2 g 1 c 1 b 1 g 2
+h 2 h 1 h 2 c 1 b 2 g 2
+h 2 h 1 c 1 b 2 g 1
+h 2 h 1 h 1 c 1 b 1 g 1
+h 2 h 1 h 2 c 2 b 2 g 2
+h 2 g 5 h 1 h 1 g 1 c 1 b 1 g 1
+h 2 g 1 h 4 g 3 h 1 h 2 g 1 c 2 b 1 g 1
+h 2 h 4 h 5 h 2 g 1 c 1 b 2 g 2
+h 1 h 5 b 2 h 1 g 1 c 1 b 1 g 1
+h 5 b 2 h 3 c 1 b 1 g 1
+h 3 b 1 h 2 c 1 b 1 g 1
+h 4 b 2 h 2 g 1 c 1 b 1 g 2
+h 6 h 2 g 1 c 1 b 1 g 1
+h 7 h 1 h 2 c 2 b 1 g 1
+h 3 h 6 c 1 b 1 g 2
+h 3 h 6 c 1 b 1 g 1
+h 2 h 6 c 1 b 2 g 1
+b 2 h 2 h 5 h 2 c 1 b 1 g 1 b 3
+b 2 h 1 h 3 h 6 c 1 b 3
+b 2 h 1 h 3 h 6 c 1 b 2
+b 2 h 2 h 3 h 6 c 1 b 2
+b 2 h 4 h 2 c 2 b 2
+b 1 h 2 h 1 c 1 b 1
+b 1 h 2 h 1 c 2 b 2 b 2
+b 1 h 1 g 1 g 1 h 2 c 1 b 2 b 3 d 1
+b 5 h 1 g 2 g 2 h 1 c 2 b 2 b 2 d 3
+b 2 h 2 g 3 g 2 h 1 c 2 b 3 d 4
+b 2 h 3 g 9 h 1 c 1 c 2 b 2 d 6
+b 2 h 4 g 6 h 2 c 3 b 2 d 7
+b 1 h 4 h 3 c 1 b 1 d 5 d 1
+b 2 h 8 c 2 b 2 d 6
+b 2 b 1 b 2 d 7
+b 2 b 10 b 4 b 1 d 8
+b 7 d 7 b 8 d 2 b 3 b 2 d 8
+d 19 b 4 b 3 d 9
+d 22 b 4 d 10
+d 31
+d 10 d 5 d 14
+d 8 d 4 d 6 d 5
+d 6 d 4 d 5 d 2
+d 4 d 2 d 4
+d 2 d 3
+d 1

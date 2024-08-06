@@ -1,0 +1,40 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Jan  1, 2016"
+description "Geloof, hoop en liefde (faith, hope and love)"
+difficulty 1.25
+height 5
+id 27239
+link "https://webpbn.com/play.cgi?id=27239"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Simple symbols"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 1
+blue 3 black 3 red 2 red 2
+blue 1 black 1 red 5
+blue 1 black 1 black 1 black 1 red 3
+blue 1 black 3 red 1
+
+columns
+blue 1
+blue 5
+blue 1
+black 1
+black 1 black 1
+black 5
+black 1 black 1
+black 1
+red 2
+red 3
+red 3
+red 3
+red 2

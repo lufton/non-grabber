@@ -1,0 +1,147 @@
+by "Mendy (Mendy3273)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Mendy"
+date "May 16, 2009"
+description "Blue Cat - looking up at the moon, perhaps."
+difficulty 2.75
+height 80
+id 5875
+link "https://webpbn.com/play.cgi?id=5875"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Looking Up (My First Attempt at a Puzzle)"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 18 blue 1 green 26
+green 17 black 1 blue 2 green 25
+green 16 black 1 blue 2 green 25
+green 16 blue 3 green 25
+green 4 black 6 black 1 blue 3 green 25
+green 3 black 1 black 4 blue 4 green 25
+green 2 black 1 black 3 black 2 blue 4 green 25
+green 3 black 1 black 4 blue 4 green 25
+green 3 blue 1 black 1 black 3 blue 3 green 25
+green 3 black 1 blue 2 black 2 black 5 green 24
+green 4 black 1 blue 4 black 6 green 23
+green 5 black 1 blue 2 black 11 green 23
+green 6 black 1 black 1 blue 2 black 3 green 23
+green 7 black 1 black 1 blue 8 black 3 black 1 green 22
+green 7 black 1 black 1 blue 7 black 3 green 22
+green 8 black 1 black 1 blue 5 black 6 green 22
+green 9 black 1 black 11 green 22
+green 9 black 1 black 10 green 21
+green 10 black 1 black 10 green 21
+green 10 black 1 black 10 green 21
+green 11 black 9 black 1 green 20
+green 11 black 9 black 1 green 18
+green 11 black 1 black 10 black 1 green 16
+green 11 black 1 black 11 green 15
+green 11 black 1 black 14 green 14
+green 11 black 1 black 3 black 4 green 13
+green 11 black 1 black 2 black 11 green 12
+green 11 black 1 black 15 green 11
+green 11 black 1 black 17 green 10
+green 11 black 1 black 19 green 10
+green 11 black 1 black 20 green 9
+green 11 black 1 black 22 green 8
+green 11 black 23 green 7
+green 11 black 23 green 7
+green 11 black 24 green 6
+green 11 black 25 green 5
+green 11 black 1 black 24 green 5
+green 12 black 25 green 4
+green 12 black 25 green 4
+green 12 black 26 green 3
+green 12 black 1 black 26 green 3
+green 12 black 1 black 27 green 2
+green 12 black 1 black 27 green 2
+green 12 black 1 black 27 green 2
+green 12 black 1 black 28 green 1
+green 13 black 18 blue 2 black 8 green 1
+green 13 black 17 blue 2 black 10
+green 13 black 1 black 15 blue 2 black 11
+green 9 black 1 black 15 blue 3 black 11
+green 8 black 1 black 15 blue 3 black 12
+green 8 black 19 blue 3 black 12 blue 1
+green 7 black 1 black 1 blue 5 black 10 blue 3 black 13 blue 1
+green 7 black 2 blue 6 black 1 black 7 blue 3 black 13 blue 1
+green 6 black 2 blue 2 black 1 green 3 black 1 black 1 black 6 blue 3 black 14 blue 1
+green 5 black 3 blue 1 green 6 black 1 black 6 blue 3 black 14 blue 1
+green 4 black 1 black 4 green 7 black 1 black 6 blue 2 black 15 blue 1
+green 4 black 3 green 9 black 4 blue 3 black 15 blue 1
+green 4 black 2 green 10 black 1 black 4 blue 3 black 15 blue 1
+green 3 black 1 black 2 green 11 black 1 black 4 blue 2 black 16 blue 1
+green 3 black 2 green 11 black 1 black 4 blue 3 black 16 blue 1
+green 3 black 2 green 12 black 1 black 4 blue 3 black 16 blue 1
+green 4 green 13 black 1 black 4 blue 2 black 17 blue 1
+green 19 black 1 black 4 blue 2 black 17 blue 1
+green 19 black 1 black 4 blue 2 black 17 blue 1
+green 19 black 1 black 4 blue 1 black 18 blue 1
+green 19 black 1 black 23 blue 1
+green 19 black 1 black 22 blue 2
+green 19 black 1 black 22 blue 2
+green 19 black 22 blue 2
+green 19 black 22 blue 2
+green 19 black 22 blue 2
+green 19 black 22 blue 1 black 1
+green 19 black 23 blue 1 green 1
+green 19 black 23 blue 1 green 1
+green 18 black 1 black 23 blue 1 green 1
+green 18 black 22 blue 2 green 1
+green 17 black 1 black 5 blue 4 black 14 blue 1 black 1 green 1
+green 16 black 1 black 24 blue 1 green 2
+green 16 black 23 blue 2 green 2
+green 16 black 24 green 3
+
+columns
+green 80
+green 80
+green 6 green 73
+green 5 black 1 green 48 black 1 green 19
+green 4 black 1 black 1 blue 1 black 1 green 44 black 1 black 1 green 18
+green 4 black 1 black 1 blue 1 black 1 green 42 black 3 green 18
+green 4 black 1 blue 2 black 1 green 40 black 5 green 19
+green 4 black 1 black 1 black 1 blue 1 black 1 black 2 green 36 black 1 black 4 green 20
+green 4 black 1 black 1 black 1 blue 2 black 1 black 1 green 33 black 1 black 4 green 22
+green 4 black 1 black 1 blue 3 black 1 black 2 green 30 black 1 black 4 green 23
+green 4 black 2 black 1 blue 2 black 2 black 2 green 28 black 3 blue 2 green 24
+green 4 black 2 black 1 blue 3 black 1 black 10 black 1 green 11 black 1 blue 3 green 26
+green 4 black 3 black 1 blue 3 black 4 black 5 green 3 black 1 blue 2 black 1 green 26
+green 4 black 1 black 2 black 1 blue 3 black 7 black 1 black 1 blue 2 green 27
+green 4 black 1 black 5 blue 3 black 11 black 5 black 2 blue 2 green 27
+green 4 black 5 blue 3 black 11 black 18 black 3 blue 2 green 27
+green 2 black 1 blue 4 black 3 blue 2 black 11 black 22 blue 1 black 1 green 23 black 1
+green 1 black 1 blue 6 black 3 blue 2 black 10 black 23 black 1 green 21 black 1 black 1
+blue 9 black 16 black 25 green 18 black 1 black 3
+green 1 blue 7 black 15 black 27 black 1 black 11 black 4
+green 9 black 14 black 26 black 8
+green 10 black 10 black 30 black 21
+green 13 black 1 black 3 black 54
+green 17 black 2 black 54
+green 20 black 1 black 2 black 50 blue 1 black 3
+green 21 black 35 blue 6 black 11 blue 1 black 3
+green 21 black 1 black 32 blue 8 black 12 blue 1 black 3
+green 22 black 29 blue 8 black 15 blue 1 black 3
+green 22 black 1 black 26 blue 7 black 22
+green 23 black 23 blue 6 black 25
+green 24 black 22 blue 5 black 27
+green 25 black 20 blue 4 black 29
+green 26 black 19 blue 3 black 31
+green 27 black 17 blue 2 black 33
+green 28 black 15 blue 1 black 34
+green 30 black 49
+green 31 black 48
+green 32 black 46
+green 34 black 45
+green 35 black 43
+green 37 black 41
+green 39 black 37 blue 1
+green 41 black 31 blue 4 green 1
+green 44 black 20 blue 10 black 1 green 3
+green 46 blue 21 black 1 green 8

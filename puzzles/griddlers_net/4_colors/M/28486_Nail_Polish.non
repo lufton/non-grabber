@@ -1,0 +1,58 @@
+by "Egosum"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/1/05"
+height 24
+id 28486
+link "https://www.griddlers.net/nonogram/-/g/28486"
+medium_time "0:01:35"
+points 71
+popularity 48.09
+title "Nail Polish"
+width 13
+
+color a 999999
+color b 000000
+color c ffffff
+color d ff0000
+
+rows
+b 6
+b 7
+c 5 b 2
+c 5 b 2
+c 5 b 2
+c 5 b 2
+c 5 b 2
+c 5 b 2
+c 5 b 2
+c 5 b 2
+c 5 b 3
+d 5 b 4
+d 7 b 4
+d 9 b 3
+d 11 b 2
+d 11 b 2
+d 11 b 2
+d 11 b 2
+d 11 b 2
+d 11 b 2
+d 11 b 2
+d 11 b 2
+d 11 b 2
+d 11 b 1
+
+columns
+d 10
+d 11
+d 12
+b 1 c 9 d 13
+b 2 c 9 d 13
+b 2 c 9 d 13
+b 2 c 9 d 13
+b 2 c 9 d 13
+b 12 d 12
+b 13 d 11
+b 4 d 10
+b 13
+b 11

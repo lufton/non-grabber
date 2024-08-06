@@ -1,0 +1,83 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/27/05"
+height 30
+id 22611
+link "https://www.griddlers.net/nonogram/-/g/22611"
+medium_time "0:30:56"
+points 38808
+popularity 80.62
+title "Who's Out There?"
+width 30
+
+color a ffffff
+color b 000000
+color c cccccc
+color d cc9866
+color e 663200
+color g 996533
+
+rows
+b 9
+b 2 c 9 b 1
+b 2 c 1 b 1 b 2
+b 1 b 1 c 1 b 2 b 4
+b 2 b 1 c 1 b 1 b 1 b 4
+b 1 c 1 b 2 b 1 b 1 c 1 d 1 b 1 b 5
+b 1 d 1 c 1 b 7 c 1 d 2 b 1 b 5
+b 1 d 2 c 2 b 3 c 3 b 1 b 6
+b 1 c 2 c 1 b 3 c 1 c 1 b 1 c 1 b 1 c 1 b 5
+b 1 c 1 c 1 b 1 c 1 c 1 b 1 c 1 b 2 c 1 b 3
+b 1 c 1 b 2 b 2 c 1 b 1 c 2 b 1 c 2 c 1 b 1
+b 1 c 1 b 1 b 1 c 1 b 1 c 2 b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 1 c 2 c 1 b 1 c 1 c 1 b 1
+b 1 c 1 b 2 c 2 b 1 c 2 c 1 b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 2 c 4 c 1 b 1 c 1 c 1 b 1
+e 3 b 4 e 3 b 3 c 5 b 1 c 1 c 1 b 1
+e 2 d 8 g 3 e 1 b 14 d 1 e 1
+e 1 d 4 g 24 e 1
+e 1 d 1 g 5 e 12 g 3 e 7
+e 1 g 3 e 3 e 1 g 3 e 2 b 3
+e 4 e 2 g 3 e 2
+e 1 b 2 g 3 e 3
+b 7 g 3 e 1
+b 7 e 2 g 1 e 1
+b 6 e 2
+b 5
+b 3
+b 2
+b 3
+b 3
+
+columns
+e 6
+b 8 e 1 d 2 g 1 e 1
+b 2 c 1 d 2 c 5 b 1 e 1 d 2 g 2 e 1
+b 2 c 1 d 1 c 1 c 1 b 1 e 1 d 2 g 2 e 1
+b 2 c 1 b 1 c 1 e 1 d 2 g 1 e 1
+b 1 c 2 b 2 b 1 d 1 g 2 e 1
+b 3 c 1 b 1 b 1 d 1 g 2 e 1
+b 5 b 1 b 1 d 1 g 1 e 1
+b 1 b 3 c 1 b 2 b 1 d 1 g 1 e 1
+b 1 c 1 b 1 c 2 b 1 c 1 e 1 d 1 g 1 e 1
+b 1 c 1 b 1 c 1 c 1 b 1 e 1 g 2 e 1
+b 1 b 1 c 2 c 1 b 1 e 1 g 2 e 1
+b 1 c 1 b 1 c 1 d 1 c 1 b 1 c 1 b 1 g 2 e 1
+b 1 b 1 d 2 b 1 c 4 b 1 c 2 b 1 e 1 g 1 e 1
+b 1 c 1 b 5 b 4 c 3 b 2 g 1 e 1
+b 1 c 1 c 5 c 2 b 1 g 1 e 1 b 4
+b 1 c 1 c 2 c 1 b 1 g 1 e 1 b 6
+b 1 c 1 c 1 b 1 g 1 e 1 b 4 b 2
+b 1 c 1 c 4 b 1 g 1 e 1 b 3 b 1
+b 1 c 1 b 5 c 1 b 1 g 2 e 1 b 4
+b 1 c 1 b 1 c 5 b 2 g 3 e 1 b 3
+b 1 c 1 b 1 c 1 c 1 b 1 g 3 e 1 b 4
+b 1 c 1 b 1 c 1 b 1 g 1 e 1 g 2 b 3
+b 1 b 5 c 1 b 1 g 1 e 2 g 2 b 2
+b 7 b 1 g 1 e 2 g 2 b 1
+b 7 b 1 g 1 e 1 b 1 e 1 g 1 b 1
+b 7 b 1 g 1 e 1 b 1 e 2 g 1 e 1
+b 5 c 6 b 1 g 1 e 1 b 1 e 1 g 1 e 1
+b 9 d 1 g 1 e 1 e 1 g 2 e 1
+e 2 e 3

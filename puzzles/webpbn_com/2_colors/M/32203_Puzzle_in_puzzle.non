@@ -1,0 +1,68 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Thomas Genuine"
+date "Mar 17, 2019"
+description "Surprisingly it's an arithmetical puzzle. It's in Hungarian langauge. SOK = many KIS = tiny KOS = sheep OKOS = smart. Each letter means a single digit. It has got only one solution. :)"
+difficulty 1.5
+height 31
+id 32203
+link "https://webpbn.com/play.cgi?id=32203"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Puzzle in puzzle"
+width 20
+
+rows
+4,4,1,2
+1,1,1,1,1
+4,1,1,2
+1,1,1,1,1
+4,4,1,2
+0
+4,4,1,2
+1,1,1,1,1
+4,1,1,2
+1,1,1,1,1
+4,4,1,2
+0
+1,2,4,4
+1,1,2,1
+2,2,4
+1,1,2,1
+1,2,4,4
+0
+1,2,4,4
+1,1,1,1,1,1
+3,2,1,1,4
+1,1,1,1,1,1
+1,2,4,4
+0
+20
+0
+4,1,2,4,4
+1,1,1,1,1,1,1
+1,1,2,1,1,4
+1,1,1,1,1,1,1
+4,1,2,4,4
+
+columns
+1
+1,1,5
+3,1,1,1
+1,1,1,1
+1,5
+1
+3,1,3,1,5,5,1,5
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,2,2,2,2,1,2,2
+1,3,1,3,1,1,1,1,1,1,1
+1
+5,5,1,1,5,1,5
+1,1,1,1,5,1,1,1,1,1
+1,1,1,1,5,1,1,1,1,1
+5,5,1,1,5,1,5
+1
+5,5,3,1,3,1,1,3,1
+1,1,1,1,1,1,1,1,1,1,1,1
+2,2,2,2,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,3,1,3,1,1,3

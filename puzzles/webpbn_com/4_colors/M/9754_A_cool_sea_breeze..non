@@ -1,0 +1,54 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 26, 2010"
+description ""
+difficulty 1.5
+height 12
+id 9754
+link "https://webpbn.com/play.cgi?id=9754"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A cool sea breeze."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 5 black 2
+black 4 black 1 black 1
+black 3
+blue 5 black 1 blue 5 black 5 blue 4
+blue 5 black 2 blue 11 black 1 red 1
+blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 2 black 2 blue 3 black 2 blue 1 black 1 blue 1
+black 19 blue 1
+blue 1 black 13 red 3 black 2 blue 1
+blue 2 black 13 red 1 black 3 blue 1
+blue 3 black 12 red 1 black 3 blue 1
+blue 20
+
+columns
+blue 3 black 1 blue 4
+blue 2 black 3 blue 3
+black 1 blue 3 black 3 blue 2
+black 1 blue 3 black 4 blue 1
+black 2 blue 3 black 4 blue 1
+black 2 black 7 blue 1
+black 1 blue 1 black 1 blue 1 black 4 blue 1
+black 1 blue 2 black 5 blue 1
+black 1 blue 3 black 4 blue 1
+blue 3 black 4 blue 1
+blue 2 black 5 blue 1
+black 1 blue 1 black 5 blue 1
+black 2 blue 2 black 4 blue 1
+black 5 blue 2 black 4 blue 1
+black 1 black 2 blue 2 black 1 red 1 black 2 blue 1
+black 1 black 1 blue 1 black 2 red 3 blue 1
+blue 2 black 2 red 1 black 2 blue 1
+blue 3 black 4 blue 1
+blue 1 black 6 blue 1
+blue 1 red 1 blue 6

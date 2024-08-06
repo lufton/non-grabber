@@ -1,0 +1,61 @@
+by "W. Brayton Batson (batsonb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by W. Brayton Batson"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.75
+height 20
+id 26442
+link "https://webpbn.com/play.cgi?id=26442"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.5
+title "WCP #171 Girl's Best Friend"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 4
+red 3 red 5
+red 9
+black 5 red 9
+black 7 red 8
+black 2 black 2 red 7
+black 2 black 1 red 8
+black 1 red 9
+black 2 red 8
+black 1 black 2
+black 1 black 2
+black 2 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 3 black 2
+black 4 black 2
+black 7
+black 4
+
+columns
+black 5
+black 3 black 3
+black 2 black 3
+black 2 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+red 8 black 2
+red 9 black 2
+red 8 black 2 black 2
+red 7 black 8
+red 8 black 4
+red 9
+red 9
+red 5 red 3
+red 4 red 1

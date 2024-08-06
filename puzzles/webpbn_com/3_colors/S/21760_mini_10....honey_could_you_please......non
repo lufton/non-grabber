@@ -1,0 +1,51 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Apr 21, 2013"
+description "paint the fence?"
+difficulty 1.75
+height 15
+id 21760
+link "https://webpbn.com/play.cgi?id=21760"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "mini #10....honey, could you please....."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 black 3 blue 3 black 3 blue 2
+black 1 blue 4 black 1 blue 3
+black 1 blue 4 black 1 blue 3
+black 1 blue 3 black 1 blue 3
+black 1 blue 2 black 1 blue 1 blue 1
+blue 2 black 1 blue 1
+blue 4 black 1 blue 1
+black 2 blue 3
+black 1 blue 4
+black 2 blue 1
+black 2 black 1 black 1
+black 5 black 1
+black 3 black 1 black 1
+black 2 black 1 black 1
+black 1 black 1
+
+columns
+black 1
+black 2
+black 3 black 3
+blue 1 black 1 black 4
+black 1 blue 2 black 2
+black 5 blue 2 blue 1 black 4
+black 1 blue 3 black 1
+blue 3 blue 2 black 1
+blue 4 blue 3
+blue 5
+black 1 blue 4
+black 7 black 5
+black 1 blue 4
+blue 4
+blue 7

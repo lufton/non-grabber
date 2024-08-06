@@ -1,0 +1,126 @@
+by "Nancy Snyder (naneki)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Nancy Snyder"
+date "Mar 23, 2008"
+description ""Happy Resurrection Day""
+difficulty 3.5
+height 60
+id 2505
+link "https://webpbn.com/play.cgi?id=2505"
+note "published,definitely unique,may require some guessing"
+quality 3.75
+title ""He Lives!""
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 10
+blue 5 blue 2 blue 5
+blue 3 blue 5 blue 3 blue 2
+blue 2 blue 3 black 3 blue 2 blue 2 blue 3
+blue 2 blue 2 black 6 blue 2 blue 3 blue 2
+blue 2 blue 3 black 8 blue 2 blue 2 blue 2
+blue 3 blue 2 black 11 blue 2 blue 1 blue 2
+blue 2 blue 2 black 13 blue 2 blue 2 blue 2
+blue 2 blue 1 black 15 blue 2 blue 2 blue 2
+blue 1 blue 2 black 16 blue 2 blue 2 blue 1
+blue 2 blue 1 black 19 blue 2 blue 1 blue 2
+blue 1 blue 1 black 9 black 9 blue 1 blue 1 blue 2
+blue 1 blue 1 black 7 black 8 blue 1 blue 2 blue 2
+blue 1 blue 1 black 5 black 7 blue 2 blue 1 blue 1
+blue 1 blue 1 black 5 black 7 blue 1 blue 2 blue 2
+blue 2 blue 1 black 5 black 6 blue 2 blue 1 blue 1
+blue 1 blue 1 black 5 black 6 blue 1 blue 1 blue 1
+blue 1 blue 1 black 4 black 6 blue 1 blue 1 blue 2
+blue 1 blue 1 black 4 black 5 blue 1 blue 2 blue 2
+blue 1 blue 1 black 4 black 4 blue 2 blue 1 blue 1
+blue 2 blue 1 black 4 black 4 blue 1 blue 1 blue 1
+blue 2 blue 2 black 3 black 3 blue 2 blue 1 blue 2
+blue 2 blue 2 black 3 black 2 blue 1 blue 2 blue 1
+blue 1 blue 2 black 3 black 1 blue 1 blue 1 blue 2
+blue 1 blue 2 black 3 black 1 black 10 blue 2 blue 2 blue 1
+blue 1 blue 2 black 2 black 9 black 9 blue 1 blue 1 blue 1
+blue 1 blue 2 black 2 black 1 black 4 black 3 black 2 black 2 blue 1 blue 1
+blue 1 blue 3 black 2 black 4 black 2 black 2 black 6 blue 1 blue 1
+blue 1 blue 3 black 2 black 4 blue 1 blue 1
+blue 1 blue 1 blue 1 black 2 blue 1 blue 1
+blue 1 blue 1 blue 2 black 2 blue 2 blue 1
+blue 1 blue 2 blue 1 black 2 blue 1 blue 1
+blue 1 blue 1 blue 1 black 2 blue 1 blue 2
+blue 1 blue 1 blue 1 black 3 blue 1 blue 1
+blue 1 blue 1 blue 2 black 2 black 1 blue 1 blue 1
+blue 1 blue 1 blue 1 black 3 black 3 blue 1 blue 1
+blue 1 blue 1 blue 1 black 4 black 6 blue 1 blue 1
+blue 1 blue 1 blue 2 black 4 black 8 black 1 blue 1 blue 1
+blue 1 blue 1 blue 2 black 4 black 12 black 2 blue 1 blue 1
+blue 1 blue 2 blue 3 black 3 black 19 blue 1 blue 1
+blue 2 blue 1 blue 2 black 9 black 3 black 5 blue 1 blue 1
+blue 2 blue 1 blue 3 black 4 black 2 black 5 blue 1 blue 1
+blue 2 blue 2 blue 3 black 4 black 1 black 5 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 2 black 3 black 6 black 5 blue 1 blue 2
+blue 2 blue 2 blue 2 blue 1 black 4 black 6 black 6 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 black 3 black 4 black 8 blue 1 blue 1
+blue 1 blue 2 blue 2 blue 1 black 3 black 14 blue 1 blue 1
+blue 1 blue 2 blue 1 blue 1 black 17 blue 1 blue 1
+blue 2 blue 1 blue 2 blue 1 black 16 blue 1 blue 1
+blue 2 blue 2 blue 1 blue 1 black 15 blue 1 blue 1
+blue 1 blue 4 blue 1 black 13 blue 2 blue 2
+blue 1 blue 4 blue 1 black 11 blue 1 blue 1
+blue 4 blue 1 blue 2 blue 1 black 8 blue 1 blue 1
+blue 2 blue 2 blue 2 blue 2 blue 1 black 1 blue 1 blue 1
+blue 3 blue 3 blue 1 blue 4 black 1 blue 2 blue 1
+blue 2 blue 1 blue 2 blue 2 blue 2 blue 1 blue 1
+blue 2 blue 1 blue 2 blue 3 blue 2 blue 1 blue 1
+blue 1 blue 1 blue 3 blue 1 blue 3 blue 1 blue 1
+blue 1 blue 2 blue 3 blue 2 blue 1 blue 2
+blue 1 blue 3 blue 1 blue 2 blue 2 blue 1
+
+columns
+blue 23 blue 2
+blue 8 blue 5 blue 2
+blue 6 blue 5 blue 2
+blue 3 blue 11 blue 2 blue 3
+blue 2 blue 14 blue 9 blue 11
+blue 2 blue 3 black 12 blue 4 blue 4 blue 1
+blue 1 blue 2 black 18 blue 5 blue 3 blue 2
+blue 2 blue 1 black 15 black 7 blue 6 blue 3 blue 2
+blue 2 blue 3 black 11 black 2 black 7 blue 5 blue 2 blue 1
+blue 2 blue 2 black 9 black 1 black 1 black 6 blue 6 blue 3 blue 2
+blue 2 blue 2 black 8 black 1 black 2 black 6 blue 2 blue 3 blue 2 blue 2
+blue 1 blue 1 black 7 black 1 black 2 black 6 blue 2 blue 3 blue 2 blue 2
+blue 2 blue 2 black 7 black 4 black 6 blue 2 blue 6 blue 1
+blue 1 blue 2 black 7 black 2 black 1 black 5 blue 1 blue 2 blue 3 blue 2
+blue 1 blue 1 black 8 black 3 black 7 blue 2 blue 2 blue 2 blue 2
+blue 4 black 8 black 3 black 2 black 6 blue 1 blue 2 blue 1 blue 1
+blue 3 black 8 black 2 black 1 black 4 black 5 blue 1 blue 2 blue 4
+blue 1 blue 1 black 8 black 6 black 4 blue 1 blue 1 blue 1
+blue 1 blue 1 black 9 black 5 black 2 black 4 blue 2 blue 1 blue 2
+blue 1 blue 2 black 9 black 3 black 4 black 10 blue 3
+blue 2 blue 2 black 9 black 4 black 4 black 12 blue 2
+blue 3 blue 2 black 9 black 3 black 5 black 10 blue 2
+blue 1 blue 1 blue 2 black 9 black 2 black 1 black 1 black 4 black 10 blue 1
+blue 1 blue 2 blue 2 black 10 black 4 black 2 black 4 black 3 black 7 blue 2
+blue 2 blue 2 blue 2 black 10 black 4 black 4 black 7 blue 2
+blue 1 blue 1 blue 2 black 10 black 2 black 1 black 2 black 8 blue 1
+blue 1 blue 2 blue 2 black 10 black 2 black 1 black 2 black 8
+blue 1 blue 3 blue 4 black 8 black 4 black 2 black 8
+blue 2 blue 2 blue 3 black 6 black 1 black 1 black 13
+blue 2 blue 2 blue 5 black 3 black 1 black 13
+blue 1 blue 4 blue 3 black 2 black 12
+blue 2 blue 3 blue 4 black 12
+blue 2 blue 5 blue 7 black 10
+blue 2 blue 5 blue 21 blue 6
+blue 2 blue 3 blue 5 blue 1
+blue 2 blue 9
+blue 3 blue 12
+blue 2 blue 8 blue 2
+blue 2 blue 9
+blue 3
+blue 4
+blue 2
+blue 4
+blue 3
+blue 3

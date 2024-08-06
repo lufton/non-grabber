@@ -1,0 +1,85 @@
+by "patross"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/19/07"
+height 25
+id 42922
+link "https://www.griddlers.net/nonogram/-/g/42922"
+medium_time "0:07:36"
+points 2206
+popularity 54.42
+title "Bathroom"
+width 35
+
+color a ffcc00
+color b 00ffcc
+color c eeeeee
+color d 999999
+color e 00cccc
+color f 99ff00
+color g 00ffff
+color h ff00ff
+
+rows
+g 35
+g 35
+0
+d 1
+d 5 h 4 h 5
+d 6 h 4 f 5 h 2 g 1 h 2
+d 2 d 3 d 4 d 1 f 5 d 1 h 1 g 3 h 1
+d 2 d 3 d 6 f 5 h 1 g 3 h 1
+d 2 e 4 d 4 d 1 f 5 d 1 h 5
+d 2 e 4 d 4 f 5 d 7
+d 2 e 4 d 6 f 5
+d 2 e 4 f 5
+c 2 e 4 f 5
+c 4 e 4
+c 10 c 6
+c 24
+c 24
+c 24
+c 24
+b 4 c 24 b 7
+b 5 c 24 b 6
+b 4 c 24 b 7
+b 8 c 1 b 16 c 1 b 9
+b 7 c 3 b 14 c 3 b 8
+b 35
+
+columns
+g 2 b 6
+g 2 b 6
+g 2 b 6
+g 2 b 6
+g 2 c 1 c 1 c 1 c 1 b 1 c 1 b 3
+g 2 d 7 c 10 b 3
+g 2 d 8 c 10 b 3
+g 2 d 2 c 9 b 1 c 1 b 1
+g 2 d 3 e 6 c 10 b 1
+g 2 d 4 e 6 c 8 b 1 c 1 b 1
+g 2 d 4 e 6 c 8 b 3
+g 2 d 1 e 6 c 8 b 3
+g 2 c 8 b 3
+g 2 d 1 d 1 c 8 b 3
+g 2 h 2 d 5 c 8 b 3
+g 2 h 2 d 5 c 7 b 3
+g 2 h 2 d 5 c 7 b 3
+g 2 h 2 d 5 c 7 b 3
+g 2 d 1 d 1 c 7 b 3
+g 2 d 1 d 1 c 7 b 3
+g 2 f 8 c 7 b 3
+g 2 f 8 c 7 b 3
+g 2 f 8 c 7 b 3
+g 2 f 8 c 8 b 3
+g 2 f 8 c 8 b 1 c 1 b 1
+g 2 d 1 d 1 c 10 b 1
+g 2 c 8 b 1 c 1 b 1
+g 2 c 8 b 3
+g 2 d 1 c 1 c 1 c 1 b 1 c 1 b 4
+g 2 h 5 d 1 b 6
+g 2 h 2 g 2 h 1 d 1 b 6
+g 2 d 1 h 1 g 3 h 1 d 1 b 6
+g 2 h 2 g 2 h 1 d 1 b 6
+g 2 h 5 d 1 b 6
+g 2 d 1 b 6

@@ -1,0 +1,62 @@
+by "seulki (Sleepground)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by seulki"
+date "Aug 29, 2020"
+description ""
+difficulty 1.0
+height 20
+id 34308
+link "https://webpbn.com/play.cgi?id=34308"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "47ë°˜ë‹¬ ë§í•´ë¼"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 19 red 1
+black 17 red 3
+black 11 red 9
+black 9 red 11
+black 6 red 12 black 2
+black 5 red 13 black 2
+black 3 red 15 black 2
+black 2 red 16 black 2
+black 1 red 19
+red 20
+red 20
+red 20
+red 20
+red 10 blue 1 black 3 blue 1 black 3 blue 1 black 1
+red 1 blue 2 black 2 blue 1 black 2 blue 1 black 1 blue 2 black 2 blue 2 black 2 blue 1 black 1
+black 2 blue 2 black 1 blue 2 black 1 blue 1 black 2 blue 2 black 2 blue 1 black 2 blue 1 black 1
+black 3 blue 1 black 2 blue 1 black 1 blue 1 black 11
+black 20
+black 20
+
+columns
+black 10 red 6 black 4
+black 9 red 6 blue 1 black 4
+black 8 red 7 blue 2 black 3
+black 7 red 8 black 1 blue 2 black 2
+black 7 red 8 black 5
+black 6 red 9 blue 2 black 3
+black 5 red 10 black 1 blue 2 black 2
+black 5 red 10 black 5
+black 5 red 10 blue 3 black 2
+black 4 red 11 black 5
+black 4 red 10 blue 2 black 4
+black 3 red 11 black 1 blue 2 black 3
+black 3 red 11 black 2 blue 1 black 3
+black 3 red 11 black 6
+black 3 red 11 blue 2 black 4
+black 3 red 11 black 1 blue 2 black 3
+black 3 red 11 black 6
+black 2 red 12 black 6
+black 2 red 3 black 4 red 5 blue 3 black 3
+black 1 red 4 black 4 red 5 black 6

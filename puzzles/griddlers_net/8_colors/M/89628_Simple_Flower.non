@@ -1,0 +1,66 @@
+by "Nymphadoria"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/30/10"
+height 21
+id 89628
+link "https://www.griddlers.net/nonogram/-/g/89628"
+medium_time "0:04:48"
+points 567
+popularity 77.33
+title "Simple Flower"
+width 20
+
+color a 000000
+color b 003e3e
+color c 79a6ff
+color d abc7ff
+color e 0099ff
+color f 0099cc
+color g 009999
+color h 006666
+
+rows
+d 20
+d 14 d 5
+d 8 d 4 d 5
+c 8 c 1 d 5
+c 8 c 2 c 2
+c 6 c 2 c 2
+e 6 e 3
+e 7 e 5
+e 9 e 6
+f 8 f 5
+f 7 f 1 f 1 f 4
+f 1 f 4 f 2 f 3
+g 2 g 3 g 9
+g 3 g 1 g 9
+g 4 g 10
+h 6 h 1 h 10
+h 9 h 10
+h 9 h 10
+b 9 b 10
+b 20
+b 20
+
+columns
+d 3 c 3 e 3 f 3 g 3 h 3 b 3
+d 3 c 3 e 3 f 2 g 3 h 3 b 3
+d 3 c 3 e 3 f 2 g 2 h 3 b 3
+d 3 c 3 e 3 f 2 g 1 h 3 b 3
+d 3 c 3 e 3 f 2 h 3 b 3
+d 3 c 3 e 3 f 2 h 3 b 3
+d 3 c 2 e 2 f 3 h 2 b 3
+d 3 c 3 e 1 f 1 f 1 g 1 h 2 b 3
+d 2 c 1 e 1 f 1 g 2 h 3 b 3
+d 3 f 1 g 1 b 2
+d 3 f 1 g 1 h 3 b 3
+d 3 c 1 g 3 h 3 b 3
+d 3 f 2 g 3 h 3 b 3
+d 2 f 1 g 3 h 3 b 3
+d 1 c 1 e 1 g 3 h 3 b 3
+d 4 c 1 e 2 f 1 g 3 h 3 b 3
+d 4 e 2 f 2 g 3 h 3 b 3
+d 4 e 3 f 3 g 3 h 3 b 3
+d 4 c 2 e 3 f 3 g 3 h 3 b 3
+d 4 c 2 e 3 f 3 g 3 h 3 b 3

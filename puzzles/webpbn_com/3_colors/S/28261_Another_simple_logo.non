@@ -1,0 +1,51 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Jun 29, 2016"
+description ""
+difficulty 1.25
+height 15
+id 28261
+link "https://webpbn.com/play.cgi?id=28261"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Another simple logo"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 3
+black 5
+black 7
+black 4 black 4
+blue 1 black 7
+blue 3 black 5
+blue 5 black 3
+blue 7 black 1
+blue 2 blue 3 blue 2
+blue 7
+blue 5
+blue 3
+blue 1
+0
+
+columns
+blue 1
+blue 3
+blue 2 blue 2
+blue 7
+blue 9
+black 1 blue 7
+black 3 blue 2 blue 2
+black 5 blue 3
+black 7 blue 1
+black 4 black 4
+black 7
+black 5
+black 3
+black 1
+0

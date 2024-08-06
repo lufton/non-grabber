@@ -1,0 +1,57 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Dave Oas"
+date "Aug 25, 2013"
+description "When cars and trucks mix it up cars never win."
+difficulty 1.5
+height 20
+id 22656
+link "https://webpbn.com/play.cgi?id=22656"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Semi-concious"
+width 20
+
+rows
+12
+12
+1,1,1
+2,1,1,2
+3,1,1,2
+4,1,11
+2,2,1,11
+2,1,1,9
+3,1,1,1
+2,1,1,1
+5,1
+10
+13
+7,1
+7,1
+4,1,1
+12
+10
+2
+2
+
+columns
+5
+4
+2
+2
+2
+2
+1,2
+11,4
+2,1,5
+2,14
+2,2,8
+2,10,4
+2,3,4,4
+2,3,7
+2,3,2,2
+2,3,2,2
+2,3,2,2
+2,3,2,2
+7,2,2
+8,6

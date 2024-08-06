@@ -1,0 +1,57 @@
+by "matt hawkins (grondavor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by matt hawkins"
+date "Jul 23, 2009"
+description "Some kid with a hat holding a balloon!"
+difficulty 1.5
+height 20
+id 6363
+link "https://webpbn.com/play.cgi?id=6363"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Fun!"
+width 20
+
+rows
+1,1
+3,3
+3,1,4
+3,3,3
+3,5,1
+1,3
+1,3
+1,3
+1,1
+2,1
+1,1,4
+1,4,1
+1,3,1
+1,3,1
+1,3
+1,1,1
+1,1,1
+1,1,1
+1,1
+2,2
+
+columns
+0
+0
+0
+0
+0
+0
+4
+18
+4,1
+1
+1,1,1
+5,10
+13
+5,10
+1,1,1
+3
+1
+3
+5
+3

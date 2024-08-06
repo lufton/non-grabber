@@ -1,0 +1,61 @@
+by "Bo (bere0034)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Bo"
+date "Jan 19, 2018"
+description "The classic logo of the Minnesota Twins - World Series champions of 1987 and 1991."
+difficulty 1.5
+height 20
+id 30745
+link "https://webpbn.com/play.cgi?id=30745"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "The heroes of '87 and '91"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 18
+blue 18
+blue 3 blue 2 blue 3
+black 5 blue 2 black 6
+black 5 blue 2 black 8
+black 3 blue 2 black 3
+black 2 blue 2
+black 3 blue 2
+black 2 blue 2
+black 3 blue 2
+black 3 blue 2
+black 3 blue 2
+black 3 blue 2
+black 3 blue 2 black 3
+black 17
+black 12
+blue 2
+blue 4
+blue 6
+
+columns
+black 3
+blue 3 black 6
+blue 3 black 10
+blue 3 black 3 black 3
+blue 2 black 3 black 3
+blue 2 black 2 black 2
+blue 2 black 2 black 2
+blue 2 black 2 black 2 blue 1
+blue 2 black 2 black 2 blue 2
+blue 14 black 2 blue 3
+blue 14 black 2 blue 3
+blue 2 black 2 black 2 blue 2
+blue 2 black 2 black 2 blue 1
+blue 2 black 2 black 2
+blue 2 black 2 black 2
+blue 2 black 2 black 2
+blue 3 black 3 black 2
+blue 3 black 2 black 2
+blue 3 black 2 black 2
+0

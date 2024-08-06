@@ -1,0 +1,37 @@
+by "Mike Kam (zl.oft)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Mike Kam"
+date "Nov 14, 2011"
+description "a clown-ish happy face. In spite of the times in Greece."
+difficulty 1.75
+height 10
+id 16366
+link "https://webpbn.com/play.cgi?id=16366"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Happy"
+width 10
+
+rows
+2,2
+4,4
+2,1,1,2
+2,2
+2
+1,2
+1,2
+1,2,1
+2,2
+6
+
+columns
+2,1
+4,2
+2,1,1
+2,2,1
+1,1,1
+2,4,1
+2,1,2,1
+4,1
+2,2
+1

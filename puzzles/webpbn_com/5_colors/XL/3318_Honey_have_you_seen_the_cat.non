@@ -1,0 +1,93 @@
+by "Tonia Bergh (tonia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Tonia Bergh"
+date "Aug 22, 2008"
+description "I couldn't resist this idea. The scale is not quite right, but I don't think it matters."
+difficulty 3.0
+height 40
+id 3318
+link "https://webpbn.com/play.cgi?id=3318"
+note "published,definitely non-unique,may require some guessing"
+quality 3.25
+title ""Honey, have you seen the cat?""
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 green 23 blue 2
+blue 1 blue 2 green 23 blue 3
+blue 4 green 2 green 2 green 1 green 2 green 2 blue 2
+blue 3 green 2 green 2 green 1 green 2 green 1 black 2 blue 2
+blue 4 green 4 green 1 green 3 black 2 blue 2
+blue 1 blue 2 green 3 green 1 green 2 black 2 blue 2
+blue 4 green 2 green 1 green 2 blue 2
+blue 3 green 2 green 1 green 2 blue 3
+blue 4 green 2 green 1 green 2 blue 2
+blue 1 blue 2 green 2 black 1 green 1 green 2 blue 3
+blue 4 green 2 black 3 black 2 green 1 green 2 blue 2
+blue 3 green 2 black 7 green 1 black 1 black 1 green 2 blue 3
+blue 4 green 2 black 5 green 1 black 1 green 1 black 1 green 2 blue 2
+blue 1 blue 2 green 2 black 2 green 1 black 3 green 1 black 3 green 2 blue 3
+blue 4 green 2 black 1 black 3 red 1 black 2 green 1 black 2 black 1 green 2 blue 2
+blue 3 green 2 black 3 black 5 green 1 black 3 black 2 green 2 blue 3
+blue 4 green 2 black 2 black 3 green 1 black 2 black 3 green 2 blue 2
+blue 1 blue 2 green 2 black 1 black 4 green 1 black 2 black 2 green 2 blue 3
+blue 4 green 2 black 2 green 1 black 1 black 2 green 1 black 2 blue 1
+blue 3 green 2 black 2 green 1 black 2 black 2 green 1 black 2 blue 2
+blue 4 green 2 black 1 green 1 black 2 black 2 green 1 black 2 blue 2
+blue 1 blue 2 green 2 black 2 green 1 black 3 black 2 green 2 blue 3
+blue 4 green 2 black 2 green 1 black 4 green 2 blue 2
+blue 3 black 2 black 2 green 1 black 3 green 2 blue 3
+blue 4 black 2 green 21 blue 2
+black 4 green 2 black 2 green 1 black 2 green 2 black 3
+black 4 green 2 black 4 green 1 black 3 green 2 black 3
+blue 1 blue 1 green 2 black 5 green 1 black 4 green 2 blue 1
+blue 1 blue 1 green 2 black 5 green 1 black 4 green 2 blue 1
+blue 1 blue 1 green 2 black 3 green 1 black 4 green 2 blue 1
+blue 1 blue 1 green 2 black 4 green 1 black 2 green 2 blue 1
+blue 1 blue 1 green 2 black 2 green 1 black 1 black 1 green 2 blue 1
+blue 1 blue 1 green 2 black 1 black 1 green 1 green 2 blue 1
+blue 1 blue 1 green 2 green 1 green 2 blue 1
+blue 1 blue 1 green 3 green 1 green 2 black 2 blue 1
+blue 1 blue 1 green 4 green 1 green 3 black 2 blue 1
+blue 1 blue 1 green 2 green 2 green 1 green 2 green 1 black 2 blue 1
+blue 1 blue 1 green 2 green 2 green 1 green 2 green 2 blue 1
+blue 1 blue 1 green 23 blue 1
+blue 1 blue 1 green 23 blue 1
+
+columns
+blue 25 black 2 blue 13
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 black 2
+blue 25 black 2 blue 13
+blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1 black 2
+green 23 black 2 green 15
+green 23 black 2 green 15
+green 2 green 2 black 1 black 1 green 1 green 2 green 2
+green 2 green 2 black 1 black 3 green 1 black 1 black 1 green 2 green 2
+green 4 black 3 black 3 green 1 black 2 green 4
+green 3 black 5 black 1 green 1 black 5 green 3
+green 2 black 5 black 3 green 1 black 4 green 2
+green 2 black 2 green 1 black 10 green 1 black 5 green 2
+green 2 black 3 red 1 black 2 black 3 green 1 black 4 green 2
+green 2 black 2 green 1 black 4 green 1 black 3 green 2
+green 2 black 7 green 1 black 2 green 2
+green 40
+green 2 black 7 green 1 black 2 green 2
+green 2 black 4 black 5 green 1 black 4 green 2
+green 2 black 1 black 3 black 3 green 1 black 5 green 2
+green 2 black 2 black 2 green 1 black 5 green 2
+green 2 black 1 black 1 black 2 green 1 black 3 green 2
+green 3 black 2 green 1 black 1 black 1 green 3
+green 4 black 3 black 2 green 1 green 4
+green 2 green 2 black 5 green 1 green 2 green 2
+green 2 green 2 black 3 green 1 green 2 green 2
+green 40
+green 3 black 3 green 12 black 3 green 13 black 3 green 3
+blue 2 black 3 blue 2 blue 3 blue 3 blue 1 black 3 blue 3 black 2 black 3
+blue 25 black 2 blue 13
+blue 2 blue 3 blue 3 blue 3 blue 3 blue 3 blue 2 black 2

@@ -1,0 +1,62 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Sep 29, 2018"
+description "poop"
+difficulty 2.0
+height 20
+id 31628
+link "https://webpbn.com/play.cgi?id=31628"
+note "published,definitely non-unique,definitely requires much guessing"
+quality 1.25
+title "poop"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+black 1
+black 1 black 1
+black 1 green 1 black 1
+black 7
+black 1 green 1 green 2 black 1
+black 1 green 1 green 1 black 1
+black 13
+black 1 red 1 red 1 black 1
+
+columns
+0
+0
+black 1
+black 1
+black 2
+black 1 black 1
+black 1 green 2 black 1
+black 2 black 1 red 1
+black 1 green 1 black 1 green 1 black 1
+black 1 black 1 green 1 black 1
+black 1 black 1 green 1 black 1
+black 2 black 1
+black 1 black 1 red 1
+black 1 black 1
+black 2
+black 1
+black 1
+0
+0
+0

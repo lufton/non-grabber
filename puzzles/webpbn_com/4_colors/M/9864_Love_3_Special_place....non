@@ -1,0 +1,62 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Aug  6, 2010"
+description "the bridge!"
+difficulty 1.75
+height 20
+id 9864
+link "https://webpbn.com/play.cgi?id=9864"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Love #3 Special place..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 15 black 2 blue 3
+blue 3 blue 10 black 5 blue 1
+blue 6 black 2 blue 6 black 5 blue 1
+blue 1 blue 3 black 4 blue 5 black 4 blue 2
+blue 5 black 4 blue 6 black 2 blue 3
+blue 5 black 3 blue 2 black 6 blue 3
+blue 6 black 1 blue 3 black 1 blue 2 black 5 blue 2
+blue 5 black 6 blue 3 black 4 blue 2
+blue 4 black 5 blue 5 black 4 blue 2
+blue 4 black 4 blue 6 black 4 blue 2
+blue 4 black 14 blue 2
+blue 2 black 6 black 5 blue 1
+black 3 black 1 black 3 black 1 black 1 black 2
+black 1 black 1 black 2 black 1
+black 3 black 2 black 2
+black 1
+black 7
+black 6 green 5 black 6
+black 3 green 15 black 2
+black 1 green 19
+
+columns
+blue 12 black 1 black 2
+blue 3 blue 8 black 1 black 1 green 1
+blue 11 black 2 black 2 green 1
+blue 1 blue 9 black 1 black 2 black 1 green 2
+blue 8 black 4 black 1 black 1 green 2
+blue 3 black 3 blue 1 black 8 black 1 green 2
+blue 2 black 10 black 1 green 2
+blue 2 black 4 blue 1 black 6 black 2 green 2
+blue 3 black 2 blue 2 black 2 blue 1 black 1 black 1 black 1 green 3
+blue 7 black 1 blue 2 black 1 black 3 black 1 green 3
+blue 5 black 2 blue 2 black 1 black 1 black 1 green 3
+blue 5 black 1 blue 4 black 1 black 1 green 3
+blue 5 black 1 blue 4 black 1 black 1 green 3
+blue 5 black 2 blue 3 black 1 black 1 black 2 green 2
+blue 1 black 3 blue 1 black 9 black 1 green 2
+black 12 black 1 black 1 green 2
+black 15 black 1 green 2
+blue 1 black 3 blue 2 black 6 black 1 green 2
+blue 1 black 2 blue 8 black 2 black 2 green 1
+blue 12 black 1 black 1 green 1

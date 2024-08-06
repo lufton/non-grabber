@@ -1,0 +1,53 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/1/06"
+height 15
+id 36486
+link "https://www.griddlers.net/nonogram/-/g/36486"
+medium_time "0:03:03"
+points 559
+popularity 63.14
+title "Piece of Cake"
+width 15
+
+color a ffcccc
+color b ffffff
+color c cc9900
+color d cc0033
+color e 339900
+color f 0000ff
+
+rows
+e 2
+d 2 e 2 b 1 e 1
+d 2 b 1 d 1 e 3
+d 4 e 2 b 2
+b 1 b 2 d 2 b 7
+b 14
+b 3 c 3 b 1 c 3 b 1 c 1 b 2
+b 3 d 10 b 1
+b 2 c 11
+b 2 c 11
+b 2 d 11
+b 2 c 11
+b 2 c 11
+f 14
+f 10
+
+columns
+b 1 b 6 f 1
+b 9 f 1
+b 3 c 2 d 1 c 2 f 2
+b 3 d 1 c 2 d 1 c 2 f 2
+d 2 b 2 c 1 d 1 c 2 d 1 c 2 f 2
+d 4 b 1 c 1 d 1 c 2 d 1 c 2 f 2
+d 1 b 1 d 2 b 1 c 1 d 1 c 2 d 1 c 2 f 2
+e 1 d 2 b 3 d 1 c 2 d 1 c 2 f 2
+e 4 b 2 c 1 d 1 c 2 d 1 c 2 f 2
+e 1 b 1 e 2 b 2 c 1 d 1 c 2 d 1 c 2 f 2
+e 2 b 2 c 1 d 1 c 2 d 1 c 2 f 2
+b 4 d 1 c 2 d 1 c 2 f 2
+b 3 c 1 d 1 c 2 d 1 c 2 f 1
+b 4 f 1
+b 1

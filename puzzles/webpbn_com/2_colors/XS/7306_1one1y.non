@@ -1,0 +1,37 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by ant"
+date "Dec  2, 2009"
+description "a cat named 1one1y, not because he craves company.. but because he's so 'one'derful. Ha!"
+difficulty 3.5
+height 10
+id 7306
+link "https://webpbn.com/play.cgi?id=7306"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "1one1y"
+width 10
+
+rows
+1,1
+1,1
+1,1,1,1,1
+1,1,1,1
+1,1,1
+1,1,1,1
+1,1
+1,1,1
+1,1,1,1
+1,1,1,1
+
+columns
+2
+1,2,2
+1,1,2
+1,1
+1,1,1,1
+1,1,1,1
+2,1,1
+2,1
+4,1
+0

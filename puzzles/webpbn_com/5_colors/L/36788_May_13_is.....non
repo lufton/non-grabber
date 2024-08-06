@@ -1,0 +1,78 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "May  4, 2023"
+description "National Miniature Golf Day!"
+difficulty 1.75
+height 35
+id 36788
+link "https://webpbn.com/play.cgi?id=36788"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "May 13 is...."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 3 red 3
+red 4 red 4
+red 4 red 4
+red 4 blue 4 red 4
+red 4 blue 4 red 4
+blue 1 red 4 blue 2 red 4
+blue 4 red 2 black 1 red 2 black 1 red 2 blue 2
+blue 7 red 1 black 2 red 1 blue 5 blue 1
+blue 8 red 1 black 2 red 1 blue 8
+blue 6 red 2 black 1 red 2 black 1 red 2 blue 6
+blue 5 red 10 blue 5
+blue 4 red 4 blue 1 red 2 blue 1 red 4 blue 4
+blue 3 red 4 blue 1 red 4 blue 1 red 4 blue 3
+blue 2 red 4 blue 2 red 4 blue 2 red 4 blue 2
+blue 1 red 4 red 6 red 4 blue 1
+blue 1 red 3 green 3 red 6 green 3 red 3 blue 1
+blue 2 green 4 red 6 green 4 blue 2
+blue 1 green 4 red 8 green 4 blue 1
+green 5 red 3 black 2 red 3 green 5
+green 5 red 3 black 4 red 3 green 5
+green 5 red 3 black 4 red 3 green 5
+green 4 red 3 black 1 green 2 black 1 red 3 green 5
+green 4 red 3 green 4 red 3 green 5
+green 18
+green 1 green 18
+green 1 green 17
+green 2 green 17
+green 2 green 16
+green 3 green 3 blue 2 green 11
+green 3 green 2 blue 2 green 11
+green 4 green 14
+green 4 green 11
+green 5 green 10
+green 6 green 11
+green 20
+
+columns
+blue 10 green 2 green 11
+red 2 blue 7 red 2 blue 1 green 5 green 9
+red 3 blue 7 red 3 green 8 green 7
+red 4 blue 6 red 4 green 11 green 5
+red 4 blue 6 red 4 green 14 green 3
+red 4 blue 4 red 4 green 4 red 4 green 7 green 2
+red 4 blue 2 red 4 blue 1 green 2 red 6 green 8 green 1
+blue 1 red 3 blue 2 red 3 blue 2 red 9 green 5 blue 2 green 1 green 1
+blue 2 red 1 black 1 red 2 black 1 red 1 blue 1 red 7 black 3 green 6 blue 2 green 1 green 1
+blue 3 red 1 black 2 red 9 black 3 green 11 green 2
+blue 3 red 1 black 2 red 9 black 3 green 14
+blue 1 red 1 black 1 red 2 black 1 red 1 blue 1 red 7 black 3 green 13
+red 3 blue 2 red 3 blue 2 red 9 green 12
+red 4 blue 2 red 4 blue 1 green 2 red 6 green 12
+red 4 blue 4 red 4 green 4 red 4 green 12
+red 4 blue 5 red 4 green 20
+red 4 blue 5 red 4 green 19
+red 3 blue 5 red 3 green 18
+red 2 blue 6 red 2 blue 1 green 17
+blue 11 green 16

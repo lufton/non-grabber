@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 10, 2011"
+description "Answer in first comment."
+difficulty 1.5
+height 20
+id 13824
+link "https://webpbn.com/play.cgi?id=13824"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Classic Game"
+width 20
+
+rows
+0
+1
+10,2
+11
+3,1
+5
+3
+3,1
+3,3
+2,1
+0
+15
+4,4
+1,3,3,1
+1,5,1
+1,1,1
+1,1
+1,1
+15
+0
+
+columns
+0
+7
+9
+7
+2,1,8
+4,2,1
+2,2,1
+2,3,1
+2,1,1,1
+2,1,2,1
+2,1,1,1,1
+2,3,1,2,1
+1,1,1,1
+1,2,1
+1,1,1,1
+1,3,1
+2,1
+2,1
+8
+0

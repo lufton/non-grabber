@@ -1,0 +1,59 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun  1, 2010"
+description "of a train."
+difficulty 1.5
+height 13
+id 8991
+link "https://webpbn.com/play.cgi?id=8991"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The rear end..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 5
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1
+red 18
+red 1 red 1
+red 1 black 5 black 3 black 3 red 1
+black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+black 1 red 1 black 5 black 3 black 3 red 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 2
+black 3 red 20
+black 3 black 3 black 3 black 3
+black 1 black 1 black 1 black 1
+
+columns
+black 5
+black 1
+black 1
+red 7
+red 1 red 1 black 1
+red 1 red 1 black 2
+red 1 black 3 red 1 black 1
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1 black 1
+red 3 black 1 black 1 red 1 black 2
+red 1 red 1 black 3 red 1 black 1
+red 1 black 2 red 1 red 1
+red 1 red 1 red 1
+red 1 black 2 red 1 red 1
+red 1 red 1 black 3 red 1
+red 3 black 1 black 1 red 1 black 1
+red 1 black 3 red 1 black 2
+red 1 red 1 black 1
+red 1 black 3 red 1
+red 1 black 1 black 1 red 1 black 1
+red 1 black 3 red 1 black 2
+red 1 red 1 black 1
+red 7
+black 2
+black 1

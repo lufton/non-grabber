@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Oct 13, 2020"
+description "These are the little sugar "carrots" on top of a store bought carrot cake that tell you where to cut. When my daughter was a little girl (perhaps 5 years old) she parroted the psa for eating your vegetables before popping one of these candies in her mouth. Hilarious"
+difficulty 1.5
+height 20
+id 34570
+link "https://webpbn.com/play.cgi?id=34570"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "5 a day"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+green 1 green 1
+black 1 green 2 black 1 green 2
+black 3 black 3
+black 2 black 2
+0
+0
+0
+green 1 green 1 green 1
+black 1 green 2 black 1 green 2 black 1 green 2
+black 3 black 3 black 3
+black 2 black 2 black 2
+0
+0
+green 1 green 1 green 1
+black 1 green 2 black 1 green 2 black 1 green 2
+black 3 black 3 black 3
+black 2 black 2 black 2
+0
+
+columns
+black 2 black 2 black 2
+black 3 black 3 black 3
+green 2 black 1 green 2 black 1 green 2 black 1
+green 1 green 1 green 1
+0
+0
+0
+0
+black 2 black 2 black 2
+black 3 black 3 black 3
+green 2 black 1 green 2 black 1 green 2 black 1
+green 1 green 1 green 1
+0
+0
+0
+0
+black 2 black 2
+black 3 black 3
+green 2 black 1 green 2 black 1
+green 1 green 1

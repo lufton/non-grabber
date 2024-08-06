@@ -1,0 +1,102 @@
+by "Luke Smith (codybo27)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Luke Smith"
+date "Sep  3, 2009"
+description "Saring at my Smart Water bottle i noticed an "Ingredients" and "Nutritional Facts" decal. I treat water for a living, so for those that don't know, you get none. The stuff they say they "add" is already in the water before they even get it to their bottling location. Sorry I'm bored at work!"
+difficulty 2.25
+height 20
+id 6647
+link "https://webpbn.com/play.cgi?id=6647"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.25
+title "Smart"
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 49 red 2
+black 1 black 2 red 1 red 1
+black 1 blue 9 black 2 red 1
+black 1 blue 12 black 2 red 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 red 1
+black 1 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2 blue 1 blue 3 blue 1 blue 1 blue 1 black 2
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 blue 2 black 2 red 1
+black 1 blue 5 blue 1 blue 1 blue 1 blue 5 blue 5 blue 1 blue 2 blue 1 blue 1 blue 3 blue 1 blue 2 black 6
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 black 1 black 1
+black 1 blue 5 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 14 black 1 black 1
+black 1 blue 12 black 1 black 1
+black 1 blue 10 black 1 black 1
+black 1 black 8 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 8 black 6
+black 1 black 7 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 7 black 2 red 2
+black 1 black 7 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 black 2 red 1 red 1
+black 1 black 6 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 black 2 red 1
+black 1 black 7 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 black 2 red 1
+black 1 black 6 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 black 2 red 1
+black 1 black 8 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 4 black 2
+black 49 red 1
+
+columns
+black 20
+black 1 black 1
+black 1 black 1
+black 1 blue 3 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 black 2 black 2
+black 1 blue 1 blue 1 blue 1 black 8
+black 1 blue 1 blue 3 black 8
+black 1 black 8
+black 1 blue 5 black 8
+black 1 blue 1 black 8
+black 1 blue 3 black 8
+black 1 blue 1 black 1 black 1 black 1 black 2
+black 1 blue 5 black 1
+black 1 black 1
+black 1 blue 5 blue 7 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 7 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 5 blue 7 black 1
+black 1 black 1
+black 1 blue 5 blue 7 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 7 black 1
+black 1 blue 1 blue 2 black 1
+black 1 blue 3 blue 1 blue 7 black 1
+black 1 black 1
+black 1 blue 1 blue 7 black 1
+black 1 blue 1 black 1
+black 1 blue 5 blue 7 black 1
+black 1 blue 1 black 1
+black 1 blue 1 blue 7 black 1
+black 1 black 1
+black 1 blue 3 black 1
+black 1 blue 7 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 4 blue 4 black 1
+black 1 blue 2 blue 3 blue 2 black 1
+black 1 blue 11 blue 3 black 1
+black 1 blue 2 blue 1 blue 5 blue 4 black 1
+black 1 blue 2 blue 1 blue 1 blue 10 black 1
+black 1 blue 2 blue 1 blue 9 black 1
+black 1 blue 15 black 1
+black 1 blue 2 blue 7 black 1
+black 1 blue 2 blue 3 blue 6 black 1
+black 1 blue 1 blue 5 black 1
+black 1 blue 8 black 1
+black 1 blue 5 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 6
+red 1 black 1 black 1 red 1
+red 1 red 2 red 1 black 1 black 1 red 1 red 2 red 1
+red 1 red 1 black 1 black 1 red 1 red 1
+red 1 black 6 red 1

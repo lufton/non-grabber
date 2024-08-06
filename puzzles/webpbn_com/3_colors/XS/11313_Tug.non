@@ -1,0 +1,41 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Dec  9, 2010"
+description "O' War"
+difficulty 1.25
+height 10
+id 11313
+link "https://webpbn.com/play.cgi?id=11313"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Tug"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 2
+black 1 black 2
+black 1
+red 2 black 1 red 1 black 4 red 2
+black 2 black 1
+black 1
+black 4
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 1 black 2
+
+columns
+black 2 red 1 black 1 black 3
+red 1 black 1 black 1
+black 1
+red 1
+black 7
+black 2 black 1 black 4
+black 1 black 1
+black 1 black 4
+red 1 black 1
+red 1

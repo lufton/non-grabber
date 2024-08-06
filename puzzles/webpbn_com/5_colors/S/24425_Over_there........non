@@ -1,0 +1,53 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "May  8, 2014"
+description "I know you've moved it 3 times, but now I think it will look better over there."
+difficulty 1.5
+height 15
+id 24425
+link "https://webpbn.com/play.cgi?id=24425"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Over there......."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 2
+black 2 black 2
+black 1 black 2 black 3
+red 2 green 1 red 1 black 1
+red 2 green 1 red 4
+red 4 red 2
+red 2 green 4 red 2
+blue 2 green 4 black 2
+blue 2 green 4 red 2
+blue 2 black 1 black 1 red 2
+blue 2 red 2
+blue 2 red 2
+black 2 black 2
+
+columns
+0
+0
+black 3 red 4 blue 5 black 1
+black 2 red 4 blue 5 black 1
+green 2 red 1 green 3 black 1
+red 1 green 3
+green 3
+green 3 black 1
+black 1
+black 1 red 2
+red 1
+black 2 red 3 black 1 red 4 black 1
+black 3 red 3 black 1 red 4 black 1
+black 1
+0

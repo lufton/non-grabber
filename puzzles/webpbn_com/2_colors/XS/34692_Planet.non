@@ -1,0 +1,37 @@
+by "Allie Blake (Allie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Allie Blake"
+date "Nov 13, 2020"
+description "It's Mercury. It isn't the Moon."
+difficulty 1.0
+height 10
+id 34692
+link "https://webpbn.com/play.cgi?id=34692"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Planet"
+width 10
+
+rows
+0
+6
+1,1
+1,2,2
+1,2,1
+1,1
+1,1,1
+1,1,1
+6
+0
+
+columns
+0
+6
+1,1
+1,2,1,1
+1,2,1
+1,1
+1,2
+1,1,1
+6
+0

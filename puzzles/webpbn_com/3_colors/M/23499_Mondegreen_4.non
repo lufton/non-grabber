@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Jan  6, 2014"
+description "Algebra has a devil for a sidekick eeeeee!"
+difficulty 1.75
+height 20
+id 23499
+link "https://webpbn.com/play.cgi?id=23499"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Mondegreen #4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 2 black 1
+black 1 black 2
+0
+black 1
+black 2
+black 2
+black 2
+black 6
+red 1 red 1
+red 1 red 1 red 1 black 1
+red 3 red 5 black 1
+red 3 red 5 black 6
+red 1 red 4 black 1
+red 1 red 2 black 1
+red 2 red 4 black 6
+red 2 red 4 black 1
+red 6 black 1
+red 3
+red 1 red 2
+
+columns
+red 2
+red 6
+red 2 red 2
+red 2
+red 4 red 1
+red 3 red 3
+red 9
+red 8
+red 5 red 5
+red 1
+black 2
+black 1
+black 1
+black 2 black 2 black 1 black 8
+black 5 black 1 black 1
+black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+0

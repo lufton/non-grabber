@@ -1,0 +1,41 @@
+by "koompalade"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/6/18"
+height 10
+id 193466
+link "https://www.griddlers.net/nonogram/-/g/193466"
+medium_time "0:01:04"
+points 127
+popularity 58.75
+title "Abstract Lion"
+width 10
+
+color a ffffff
+color c FFFF33
+color d FF0000
+color h CC6600
+
+rows
+d 3
+d 1 c 1 d 1
+d 3
+c 6
+c 7
+c 1 c 1 c 1
+c 1 c 1 d 1
+c 2 c 1 d 1
+h 4 c 2
+h 10
+
+columns
+h 1
+d 3 h 2
+d 1 c 1 d 1 c 1 h 2
+d 3 c 5 h 2
+c 2 h 2
+c 2 h 1
+c 2 c 1 h 1
+c 6 h 1
+c 2 h 1
+c 2 d 2 h 1

@@ -1,0 +1,51 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Jota"
+date "Jul 24, 2009"
+description "it's just CARS!"
+difficulty 1.5
+height 15
+id 6368
+link "https://webpbn.com/play.cgi?id=6368"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "# 38 WCP It's not rocket science"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 7
+red 8
+red 7 red 1
+red 6 red 1 red 1
+red 1 red 1 red 3
+red 1 red 4
+red 8 black 1
+red 8 black 2
+red 8 black 2
+red 9
+red 9
+red 1 red 4 red 1 black 1
+red 8 black 2
+black 2 black 2
+0
+
+columns
+0
+red 3
+red 2 red 1
+red 5 black 1
+red 6 black 1
+red 10
+red 2 red 7
+red 3 red 5 red 1
+red 4 red 7
+red 4 red 5 black 2
+red 10 black 3
+red 3 red 3
+red 7
+red 2 red 2 black 2
+red 5 black 3

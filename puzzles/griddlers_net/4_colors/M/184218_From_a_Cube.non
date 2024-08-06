@@ -1,0 +1,71 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/20/17"
+height 26
+id 184218
+link "https://www.griddlers.net/nonogram/-/g/184218"
+medium_time "0:05:03"
+points 1660
+popularity 79.48
+title "From a Cube"
+width 24
+
+color a 009999
+color b fceaa6
+color c f0c826
+color d c7a106
+
+rows
+b 2
+b 6
+b 10
+b 14
+b 18
+b 22
+b 24
+c 1 b 10 d 1 c 1 b 10 d 1
+c 3 b 6 d 3 c 3 b 6 d 3
+c 5 b 2 d 5 c 5 b 2 d 5
+c 6 d 6 c 6 d 6
+c 6 d 6 c 6 d 6
+c 6 d 6 c 6 d 6
+c 6 d 5 b 2 c 5 d 6
+c 6 d 3 b 6 c 3 d 6
+c 6 d 1 b 10 c 1 d 6
+c 6 b 12 d 6
+c 7 b 10 d 7
+c 9 b 6 d 9
+c 11 b 2 d 11
+c 11 d 11
+c 9 d 9
+c 7 d 7
+c 5 d 5
+c 3 d 3
+c 1 d 1
+
+columns
+b 1 c 13
+b 3 c 13
+b 3 c 13
+b 5 c 13
+b 5 c 13
+b 7 c 13
+b 7 d 6 b 1 c 6
+b 7 d 6 b 3 c 6
+b 7 d 6 b 3 c 6
+b 7 d 6 b 5 c 6
+b 7 d 6 b 5 c 6
+b 7 d 6 b 7 c 6
+b 7 c 6 b 7 d 6
+b 7 c 6 b 5 d 6
+b 7 c 6 b 5 d 6
+b 7 c 6 b 3 d 6
+b 7 c 6 b 3 d 6
+b 7 c 6 b 1 d 6
+b 7 d 13
+b 5 d 13
+b 5 d 13
+b 3 d 13
+b 3 d 13
+b 1 d 13

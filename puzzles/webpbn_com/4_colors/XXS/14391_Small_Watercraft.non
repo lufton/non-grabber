@@ -1,0 +1,30 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun  6, 2011"
+description "An infinitesimal sailboat."
+difficulty 1.0
+height 4
+id 14391
+link "https://webpbn.com/play.cgi?id=14391"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Small Watercraft"
+width 4
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 2
+red 3
+blue 4
+
+columns
+blue 1
+red 1 blue 1
+black 2 red 1 blue 1
+black 1 red 1 blue 1

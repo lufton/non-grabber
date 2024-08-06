@@ -1,0 +1,46 @@
+by "Valerie Mates (valerie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Valerie Mates"
+date "May  5, 2024"
+description "This is my current favorite shirt. It's actually a gray and burgundy striped turtleneck, but I didn't want to ask people to solve stripes, so I drew it with solid colors. Years ago, my friends Diana, Carol, and I used to co-lead a Girl Scout troop for our kids. Puzzle #38171 shows Carol leading the troop in a t-shirt-painting project. I wore this shirt that day because I loved this shirt then, too, because I feel like the inside of my mind is made of gray and burgundy stripes. That day, I lifted up one of the kids' freshly painted shirts and got a splotch of pink paint on my shirt. Years later, the pink paint is still there. Carol passed away in January, so I wear this shirt in memory of her. The shirt is tattered now, at the edge of wearability. But I'm not ready to let go of it yet."
+difficulty 1.0
+height 10
+id 38592
+link "https://webpbn.com/play.cgi?id=38592"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "In memory of Carol Simmons - WCP #186"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 1 red 2 red 2 black 1 red 1
+red 2 black 2 red 3 black 2 red 2
+red 2 black 5 red 2
+red 2 black 5 red 2
+red 2 black 5 red 2
+red 2 black 5 red 2
+red 2 black 5 red 2
+red 2 black 2 red 1 black 1 red 1 red 2
+red 2 black 3 red 1 black 1 red 2
+black 5
+
+columns
+0
+0
+red 8
+red 9
+black 2
+red 1 black 9
+red 2 black 8
+red 1 black 5 red 1 black 2
+red 2 black 6 red 1 black 1
+red 1 black 6 red 1 black 2
+black 2
+red 9
+red 8
+0
+0

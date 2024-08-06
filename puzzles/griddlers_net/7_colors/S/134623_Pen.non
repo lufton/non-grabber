@@ -1,0 +1,50 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/13"
+height 13
+id 134623
+link "https://www.griddlers.net/nonogram/-/g/134623"
+medium_time "0:03:05"
+points 2145
+popularity 61.06
+title "Pen"
+width 13
+
+color a ccffff
+color b 000000
+color c ffd2e9
+color d ff0000
+color e ffb3d9
+color f ff95ca
+color g fddfc4
+
+rows
+b 3
+b 1 c 3 b 1
+b 1 c 1 d 1 e 1 d 1 f 1 b 1
+b 1 c 1 f 1 d 3 f 1 b 1
+b 1 c 1 f 3 d 1 f 2 b 1
+b 1 c 1 f 6 b 1
+b 1 c 1 f 6 b 1
+b 2 f 5 b 1
+b 1 g 2 b 1 f 3 b 1
+b 1 g 3 b 1 f 1 b 1
+b 1 f 1 b 1 g 2 b 2
+b 1 f 2 b 2
+b 3
+
+columns
+b 3
+b 2 f 2 b 1
+b 2 g 2 b 1 f 1 b 1
+b 1 c 1 b 1 g 3 b 1
+b 1 c 1 f 2 b 1 g 2 b 1
+b 1 c 1 f 4 b 2
+b 1 c 1 f 6 b 1
+b 1 c 1 f 6 b 1
+b 1 c 1 d 2 f 4 b 1
+b 1 c 1 e 1 d 2 f 2 b 1
+b 1 c 1 d 2 f 2 b 1
+b 1 f 3 b 1
+b 3

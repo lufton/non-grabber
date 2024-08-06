@@ -1,0 +1,57 @@
+by "Nelson Peters (Ace9999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Nelson Peters"
+date "Aug 24, 2012"
+description "Its an 8-ball that is used in pool. Don't hit this ball in a hole until all of your are gone."
+difficulty 1.5
+height 20
+id 19635
+link "https://webpbn.com/play.cgi?id=19635"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Leave it for last"
+width 20
+
+rows
+3
+1,1
+3
+1,1
+3,9
+3,4
+3,6
+3,8
+17
+6,6
+6,3,6
+6,1,1,6
+6,3,6
+6,1,1,6
+6,3,6
+5,5
+15
+13
+11
+9
+
+columns
+5
+1,1,1,6
+5,8
+10
+12
+14
+3,12
+2,1,4
+1,1,4
+1,1,5,4
+1,2,1,1,1,4
+1,3,5,4
+5,4
+5,4
+16
+14
+12
+10
+8
+6

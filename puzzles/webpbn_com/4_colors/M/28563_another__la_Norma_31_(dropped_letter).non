@@ -1,0 +1,59 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug 14, 2016"
+description "1955 movie"
+difficulty 2.0
+height 17
+id 28563
+link "https://webpbn.com/play.cgi?id=28563"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "another Ã  la Norma #31 (dropped letter)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 2
+blue 1 black 3 black 1 red 2 black 2
+black 5 black 1 red 4 black 3
+black 1 black 1 red 8 black 1
+black 1 blue 1 blue 1 black 1 red 2 red 1 red 1 red 1
+black 1 black 1 black 3 red 2 red 5
+red 1 black 1 black 1
+black 1 blue 1 blue 1 black 1 black 1
+black 1 blue 3 black 1 black 1
+black 1 blue 3 black 3
+black 1 red 3 black 1 black 2
+black 1 blue 4 black 1 black 1 black 1 black 1
+blue 7 black 1 black 5
+blue 7 black 1 black 6
+black 1 black 1 black 1 black 2 black 1 black 2
+black 1 black 1 black 1 black 1 black 2 black 1
+black 2 black 2 black 1 black 1
+
+columns
+blue 2
+blue 1 black 4 black 5 blue 2 black 1
+blue 1 black 2 blue 1 blue 3 red 1 blue 3 black 3
+black 2 red 1 blue 2 red 1 blue 3
+black 2 blue 1 blue 3 red 1 blue 3 black 3
+black 4 black 3 blue 3 black 1
+black 1 blue 2
+black 12
+black 1
+black 2
+black 1 black 2
+black 1 red 3 black 1 black 3
+black 1 red 4 black 4
+black 1 red 3 black 2 black 2
+black 1 red 3 black 4
+black 1 red 4 black 2
+black 2 red 1 red 1 black 1 black 2
+black 1 red 3 black 2
+black 1 red 1 red 1
+black 1 red 2

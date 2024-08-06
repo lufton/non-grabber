@@ -1,0 +1,105 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/4/21"
+height 40
+id 224179
+link "https://www.griddlers.net/nonogram/-/g/224179"
+medium_time "0:38:34"
+points 56786
+popularity 88.31
+title "Landscape"
+width 40
+
+color a ffffff
+color b CC66FF
+color c 003366
+color d 006600
+color e CC9900
+color f 996600
+color g 9900FF
+color h 808080
+
+rows
+g 1
+b 1 g 2
+b 1 g 2
+b 2 b 1 g 2
+g 1 b 1 b 1 g 3
+g 1 b 2 b 2 g 4
+b 1 g 2 b 2 b 2 g 4 g 1
+b 2 g 3 b 2 b 3 g 5 g 1
+g 1 b 2 g 3 b 2 b 1 b 2 g 4 g 2
+g 2 b 2 g 2 b 2 b 1 b 2 b 4 g 3 g 3
+g 3 b 1 g 3 b 14 g 2 b 1 g 3
+b 1 g 4 b 2 g 3 b 7 g 1 b 5 g 1 b 1 g 5
+b 1 g 3 b 2 g 3 b 7 g 2 b 3 g 1 b 1 b 2 g 4
+b 2 g 1 b 2 g 4 b 5 g 3 b 3 b 3 b 2 g 3
+b 3 b 1 b 1 g 4 b 4 b 1 g 3 b 1 b 5 b 2 g 2 b 1
+b 1 b 2 b 2 b 2 g 4 b 2 b 2 g 3 b 7 b 2 g 1 b 1
+b 3 b 2 b 2 g 4 b 1 b 1 b 3 g 3 b 6 b 2 g 1 b 1
+b 4 b 4 b 2 g 4 b 3 b 3 g 3 b 6 g 1 b 2
+b 3 g 1 b 6 b 2 g 4 b 5 b 4 g 3 b 6 g 1 b 2
+b 4 g 1 b 6 g 1 b 3 g 3 b 5 b 5 g 4 b 3 g 1 b 1 c 1 b 1
+b 3 g 2 b 6 g 1 b 3 g 4 b 4 b 5 g 4 b 1 g 1 b 2 c 1 b 1
+b 3 g 2 b 7 g 1 b 3 g 3 b 5 b 3 f 4 g 3 b 3 c 2
+b 3 g 1 b 5 g 1 b 2 g 1 b 5 g 2 b 3 b 1 f 8 b 2 c 3
+b 2 g 2 b 6 g 1 b 2 g 2 b 4 g 2 b 3 f 2 e 1 f 8 c 2 b 1
+b 2 g 1 b 3 b 3 g 1 h 1 b 1 g 3 b 1 h 1 b 2 g 3 b 2 f 2 e 2 f 7 c 4
+b 1 g 2 b 1 h 1 g 1 b 2 g 1 h 1 b 2 c 1 g 2 h 1 g 1 b 1 c 1 g 3 f 2 e 4 f 7 c 3
+g 1 b 2 h 1 b 2 c 1 g 1 h 2 b 2 c 1 g 1 h 2 g 2 c 2 g 1 f 2 e 5 f 6 c 4
+g 1 c 1 b 2 h 2 b 2 c 1 g 1 h 3 c 2 g 1 h 3 c 3 d 2 e 7 f 5 c 4
+c 1 b 1 h 3 b 1 c 2 h 4 c 3 h 3 c 1 d 4 e 3 f 2 e 3 f 3 c 5
+c 1 b 1 h 4 c 2 h 4 c 3 h 2 d 6 e 3 f 1 e 4 f 4 c 4
+c 3 h 4 c 2 h 3 c 4 d 9 e 2 f 1 e 4 f 3 c 5
+c 3 h 3 c 4 h 2 c 3 d 12 e 3 f 3 c 5
+c 3 h 3 c 4 h 2 c 1 d 13 d 2 e 2 f 2 c 6
+c 3 h 3 c 4 h 1 d 13 d 7 c 6
+c 4 h 1 c 5 d 8 d 9 c 7
+c 4 h 1 c 3 d 8 d 16 c 5
+c 3 d 11 d 17 c 1 d 1 c 2 d 1
+d 12 d 21
+d 10 d 21
+d 9 d 20
+
+columns
+g 3 b 5 b 7 g 1 c 7 d 3
+g 4 b 2 b 7 g 2 c 10 d 3
+g 4 b 1 b 6 g 3 b 4 c 7 d 3
+g 2 b 1 b 4 g 4 b 4 h 6 c 2 d 4
+g 1 b 2 b 3 g 4 b 3 h 11 d 4
+b 2 b 10 g 1 h 7 c 2 d 4
+b 3 b 6 b 3 h 2 c 5 d 4
+b 2 b 11 c 8 d 4
+b 2 b 12 c 9 d 5
+b 2 b 7 g 1 b 2 g 3 h 3 c 4 d 4
+g 5 b 6 g 2 h 8 d 4
+g 5 b 3 g 2 b 3 h 9 d 5
+g 8 b 6 g 2 b 4 h 3 c 3 d 4
+g 7 b 6 g 2 b 2 c 5 d 5
+b 1 g 8 b 4 g 2 c 7 d 4
+b 5 g 8 b 3 g 4 c 3 d 5
+b 8 g 7 b 3 g 1 h 4 d 5
+b 2 b 7 g 5 b 2 h 6 d 5
+b 2 b 6 b 2 g 3 b 2 g 2 h 2 d 5 d 1
+b 3 b 6 b 5 g 2 b 2 g 1 c 2 d 5 d 4
+b 2 b 4 b 6 g 2 c 3 d 6 d 5
+b 1 b 4 b 6 g 2 c 2 d 6 d 5
+g 2 b 3 g 3 b 6 g 3 d 7 d 5
+g 2 b 3 b 2 g 2 b 3 b 4 g 1 f 1 d 7 d 5
+g 3 b 3 b 4 g 2 b 5 b 2 f 2 e 3 d 3 d 6
+g 3 b 8 g 2 b 6 f 2 e 5 d 2 d 6
+g 3 b 7 g 3 b 6 f 2 e 6 d 1 d 6
+g 4 b 3 g 1 b 2 g 3 b 4 f 2 e 4 f 3 d 7
+g 7 b 1 g 3 b 2 f 2 e 5 f 1 e 2 d 8
+g 5 b 3 g 3 b 1 f 4 e 7 d 8
+g 3 b 5 g 3 f 6 e 6 d 7
+g 1 b 7 g 2 f 7 e 5 d 7
+g 1 b 6 g 3 f 11 d 7
+g 2 b 6 g 2 f 11 d 1 c 1 d 5
+g 2 b 3 b 6 g 1 f 10 c 3 d 5
+g 3 b 3 b 3 g 1 b 2 f 5 c 1 f 1 c 7 d 3
+g 4 b 4 b 1 g 1 b 3 f 1 c 1 f 1 c 10 d 4
+g 5 b 2 g 2 b 3 c 15 d 3
+g 6 b 2 c 18 d 3
+g 3 b 7 c 2 b 1 c 12 d 4

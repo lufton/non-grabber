@@ -1,0 +1,63 @@
+by "J SWAN (JSWAN)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by J SWAN"
+date "Dec 23, 2004"
+description "CHRISTMAS TREE"
+difficulty 1.25
+height 20
+id 137
+link "https://webpbn.com/play.cgi?id=137"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "HAPPY HOLIDAYS"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+red 1
+green 3
+green 1 blue 1 green 1
+green 1 red 1 green 1 red 1 green 1
+green 2 blue 1 green 2
+green 2 red 1 green 1 red 1 green 2
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+green 2 blue 1 green 1 blue 1 green 1 blue 1 green 2
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1
+green 2 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 2
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1
+green 17
+black 5
+red 3 black 5 blue 3
+red 3 black 5 blue 3
+red 3 black 5 blue 3
+
+columns
+0
+green 2
+green 1 red 1 green 1
+green 2 blue 1 green 2
+green 1 blue 1 green 2 red 1 green 1 red 3
+green 2 red 1 green 1 red 1 blue 1 green 2 red 3
+green 2 red 1 green 2 blue 1 green 2 red 1 green 1 red 3
+green 3 blue 1 green 1 blue 1 red 1 green 1 red 1 blue 1 green 2 black 4
+green 2 red 1 green 1 red 1 green 1 red 1 green 2 blue 1 green 2 red 1 green 1 black 4
+green 1 red 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 red 1 green 1 red 1 blue 1 green 2 black 4
+green 2 red 1 green 1 red 1 green 1 red 1 green 2 blue 1 green 2 red 1 green 1 black 4
+green 3 blue 1 green 1 blue 1 red 1 green 1 red 1 blue 1 green 2 black 4
+green 2 red 1 green 2 blue 1 green 2 red 1 green 1 blue 3
+green 2 red 1 green 1 red 1 blue 1 green 2 blue 3
+green 1 blue 1 green 2 red 1 green 1 blue 3
+green 2 blue 1 green 2
+green 1 red 1 green 1
+green 2
+0
+0

@@ -1,0 +1,65 @@
+by "soyainoor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/8/08"
+height 23
+id 56623
+link "https://www.griddlers.net/nonogram/-/g/56623"
+medium_time "0:04:26"
+points 2460
+popularity 71.43
+title "Half an Apple"
+width 19
+
+color a ffffff
+color b 663300
+color c 990033
+color e 666600
+color f 669900
+color g ffffcc
+
+rows
+e 1 b 2
+e 1 f 2 b 2
+e 2 f 2 b 2
+e 2 f 3 b 2
+e 2 f 2 b 2
+e 2 f 1 b 1
+c 3 e 2 b 1 c 3
+c 1 g 3 c 1 b 3 c 1 g 3 c 1
+c 1 g 5 c 3 g 5 c 1
+c 1 g 15 c 1
+c 1 g 17 c 1
+c 1 g 17 c 1
+c 1 g 17 c 1
+c 1 g 17 c 1
+c 1 g 7 b 1 g 1 b 1 g 7 c 1
+c 1 g 7 b 1 g 1 b 1 g 7 c 1
+c 1 g 15 c 1
+c 1 g 13 c 1
+c 1 g 13 c 1
+c 1 g 11 c 1
+c 1 g 9 c 1
+c 1 g 2 c 3 g 2 c 1
+c 3 c 3
+
+columns
+c 6
+c 1 g 6 c 1
+c 1 g 8 c 2
+c 1 g 11 c 1
+c 1 g 13 c 1
+e 4 c 1 g 14 c 1
+f 1 e 3 c 1 g 15 c 1
+f 3 e 2 c 1 g 14 c 1
+f 3 e 2 b 1 c 1 g 5 b 2 g 5 c 2
+f 3 e 1 b 1 c 1 g 12 c 1
+b 5 c 1 g 5 b 2 g 5 c 2
+b 4 c 1 g 14 c 1
+b 3 c 1 g 15 c 1
+b 1 c 1 g 14 c 1
+c 1 g 13 c 1
+c 1 g 11 c 1
+c 1 g 8 c 2
+c 1 g 6 c 1
+c 6

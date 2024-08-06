@@ -1,0 +1,31 @@
+by "misra"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/26/07"
+height 5
+id 45093
+link "https://www.griddlers.net/nonogram/-/g/45093"
+medium_time "0:00:13"
+points 10
+popularity 51.11
+title "Having a Picnic"
+width 5
+
+color a ffffff
+color b 00cc00
+color c 3333ff
+color d ff33cc
+
+rows
+0
+c 1 d 1
+c 1 d 1
+c 2 d 2
+b 5
+
+columns
+c 2 b 1
+c 1 c 1 b 1
+b 1
+d 1 d 1 b 1
+d 2 b 1

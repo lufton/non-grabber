@@ -1,0 +1,133 @@
+by "Mair Em (mair.em)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Mair Em"
+date "Apr 27, 2013"
+description "Cabin in the woods."
+difficulty 1.75
+height 40
+id 21840
+link "https://webpbn.com/play.cgi?id=21840"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "When it stopped snowing...."
+width 70
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 3
+red 3
+blue 25
+blue 1 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 1
+red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 1
+blue 27
+red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1
+red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 1
+blue 31
+blue 2 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1 blue 3 red 1
+blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 2 red 2 blue 1
+blue 33 green 2
+black 27 green 2
+black 1 black 1 green 4
+black 27 green 6
+black 1 green 2 blue 4 green 2 green 2 blue 4 green 2 black 1 green 8
+black 3 green 2 blue 4 green 2 black 5 green 2 blue 4 green 2 black 3 green 10
+black 1 green 2 blue 4 green 2 green 2 blue 4 green 2 black 1 green 12
+black 3 green 2 blue 4 green 2 black 5 green 2 blue 4 green 2 black 3 green 14
+black 1 green 2 blue 4 green 2 green 2 blue 4 green 2 black 1 green 10
+black 27 green 6
+black 1 black 1 green 8
+black 27 green 10
+green 1 green 1 black 1 black 1 green 12
+green 1 green 1 black 27 green 14
+green 3 green 3 black 1 red 3 green 2 blue 4 green 2 black 1 green 12
+green 5 green 5 black 5 red 5 black 6 green 2 blue 4 green 2 black 3 green 10
+green 7 green 7 black 1 red 7 green 2 blue 4 green 2 black 1 green 12
+green 3 green 3 black 4 red 7 black 5 green 2 blue 4 green 2 black 3 green 14
+green 5 green 5 black 1 red 7 green 2 blue 4 green 2 black 1 green 16
+green 7 green 7 black 4 red 5 black 1 red 1 black 16 green 18
+green 5 green 5 black 1 red 7 black 1 green 16
+green 7 green 7 black 4 red 7 black 16 green 14
+green 9 green 9 black 1 red 7 black 1 green 12
+green 7 green 7 black 4 red 7 black 16 green 10
+green 1 green 1 black 1 red 7 black 1 green 2
+green 1 green 1 black 4 red 7 black 16 green 2
+green 70
+green 70
+green 70
+
+columns
+green 1 green 3
+green 1 green 1 green 3 green 3
+green 2 green 6 green 3
+green 10 green 3
+green 17
+green 10 green 3
+green 2 green 6 green 3
+green 1 green 1 green 3 green 3
+green 1 green 3
+green 3
+green 3
+green 3
+green 1 green 3
+green 1 green 1 green 3 green 3
+green 2 green 6 green 3
+green 10 green 3
+green 17
+green 10 green 3
+green 2 green 6 green 3
+blue 2 green 1 green 1 green 3 green 3
+red 1 blue 4 green 1 green 3
+red 2 blue 2 red 1 blue 1 green 3
+blue 1 red 1 blue 4 red 2 blue 1 black 25 green 3
+blue 1 red 2 blue 7 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 5 red 1 blue 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 4 red 2 blue 2 red 1 blue 1 black 1 black 1 green 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 2 red 1 blue 4 red 2 blue 1 black 1 black 1 green 5 black 1 black 1 black 1 black 1 red 10 green 3
+blue 1 red 2 blue 7 black 1 black 1 blue 5 black 1 black 1 black 1 red 11 green 3
+blue 5 red 1 blue 4 black 1 black 1 blue 5 black 1 black 1 black 1 red 12 green 3
+blue 4 red 2 blue 2 red 1 blue 1 black 1 black 1 blue 5 black 1 black 1 black 1 red 12 green 3
+blue 2 red 1 blue 4 red 2 blue 1 black 1 black 1 blue 5 black 1 black 1 black 1 red 12 green 3
+blue 1 red 2 blue 7 black 1 black 1 green 5 black 1 black 1 black 1 red 4 black 1 red 6 green 3
+blue 5 red 1 blue 4 black 1 black 1 green 5 black 1 black 1 black 1 black 1 red 10 green 3
+blue 4 red 2 blue 2 red 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 2 red 1 blue 4 red 2 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 1 red 2 blue 7 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 5 red 1 blue 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 4 red 2 blue 2 red 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 2 red 1 blue 4 red 2 blue 1 black 1 black 1 green 5 black 1 black 1 black 1 green 5 black 1 black 1 black 1 black 1 green 3
+blue 1 red 2 blue 7 black 1 black 1 green 5 black 1 black 1 black 1 green 5 black 1 black 1 black 1 black 1 green 3
+blue 5 red 1 blue 4 black 1 black 1 blue 5 black 1 black 1 black 1 blue 5 black 1 black 1 black 1 black 1 green 3
+blue 4 red 2 blue 2 red 1 blue 1 black 1 black 1 blue 5 black 1 black 1 black 1 blue 5 black 1 black 1 black 1 black 1 green 3
+red 2 blue 2 red 1 blue 4 red 2 blue 1 black 1 black 1 blue 5 black 1 black 1 black 1 blue 5 black 1 black 1 black 1 black 1 green 3
+red 2 blue 1 red 2 blue 7 black 1 black 1 blue 5 black 1 black 1 black 1 blue 5 black 1 black 1 black 1 black 1 green 3
+red 2 blue 5 red 1 blue 4 black 1 black 1 green 5 black 1 black 1 black 1 green 5 black 1 black 1 black 1 black 1 green 3
+blue 4 red 2 blue 2 red 1 blue 1 black 1 black 1 green 5 black 1 black 1 black 1 green 5 black 1 black 1 black 1 black 1 green 3
+blue 2 red 1 blue 4 red 2 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 1 red 2 blue 7 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+blue 4 red 1 blue 4 black 25 green 3
+red 2 blue 2 red 1 blue 1 green 3
+blue 2 red 2 blue 1 green 1 green 3
+blue 2 green 3 green 3
+green 1 green 1 green 5 green 3
+green 2 green 3 green 7 green 3
+green 4 green 13 green 3
+green 5 green 14 green 3
+green 21 green 3
+green 22 green 3
+green 29
+green 29
+green 22 green 3
+green 21 green 3
+green 5 green 14 green 3
+green 4 green 13 green 3
+green 2 green 3 green 7 green 3
+green 1 green 1 green 5 green 3
+green 3 green 3
+green 1 green 3
+green 3
+green 3

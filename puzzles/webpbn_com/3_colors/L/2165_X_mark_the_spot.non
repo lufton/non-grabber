@@ -1,0 +1,81 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Sylvain "WCPman""
+date "Jan 13, 2008"
+description "An X pattern with a red bulleye"
+difficulty 1.75
+height 30
+id 2165
+link "https://webpbn.com/play.cgi?id=2165"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "X mark the spot"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2 black 2 black 10 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 8 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 6 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 3 black 1 black 1 black 3 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 black 1 black 1 black 1 black 2 black 2 black 2
+black 3 black 2 black 2 black 1 red 2 red 2 black 1 black 2 black 2 black 3
+black 4 black 2 black 2 red 1 red 2 red 1 black 2 black 2 black 4
+black 5 black 2 black 1 red 1 red 1 black 1 black 2 black 5
+black 5 black 2 black 1 red 1 red 1 black 1 black 2 black 5
+black 4 black 2 black 2 red 1 red 2 red 1 black 2 black 2 black 4
+black 3 black 2 black 2 black 1 red 2 red 2 black 1 black 2 black 2 black 3
+black 2 black 2 black 2 black 1 black 1 black 1 black 1 black 2 black 2 black 2
+black 1 black 2 black 2 black 3 black 1 black 1 black 3 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 6 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 8 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 10 black 2 black 2 black 2
+
+columns
+black 2 black 2 black 2 black 10 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 8 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 6 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 3 black 1 black 1 black 3 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 black 1 black 1 black 1 black 2 black 2 black 2
+black 3 black 2 black 2 black 1 red 2 red 2 black 1 black 2 black 2 black 3
+black 4 black 2 black 2 red 1 red 2 red 1 black 2 black 2 black 4
+black 5 black 2 black 1 red 1 red 1 black 1 black 2 black 5
+black 5 black 2 black 1 red 1 red 1 black 1 black 2 black 5
+black 4 black 2 black 2 red 1 red 2 red 1 black 2 black 2 black 4
+black 3 black 2 black 2 black 1 red 2 red 2 black 1 black 2 black 2 black 3
+black 2 black 2 black 2 black 1 black 1 black 1 black 1 black 2 black 2 black 2
+black 1 black 2 black 2 black 3 black 1 black 1 black 3 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 2 black 4 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 6 black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2 black 8 black 2 black 2 black 2 black 1
+black 2 black 2 black 2 black 10 black 2 black 2 black 2

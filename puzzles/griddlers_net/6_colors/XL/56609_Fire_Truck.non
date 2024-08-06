@@ -1,0 +1,94 @@
+by "MissDolly"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/8/08"
+height 28
+id 56609
+link "https://www.griddlers.net/nonogram/-/g/56609"
+medium_time "0:39:49"
+points 59345
+popularity 73.0
+title "Fire Truck"
+width 43
+
+color a ff0000
+color b ffffff
+color c 000000
+color d 999999
+color e 6666ff
+color f ffff33
+
+rows
+d 4 d 8 d 7 d 5 d 8 b 3 d 2
+d 3 d 6 d 3 d 3 d 4 b 4 d 1 b 2 d 1
+d 3 f 1 d 3 d 2 f 1 d 1 b 4 d 1 b 1 d 3 b 1 d 1
+d 3 f 1 f 1 d 1 f 2 b 4 d 4 b 1 d 2 b 2 d 1
+d 5 f 7 f 1 f 2 b 4 d 1 b 3 d 2 b 4 d 2
+d 7 f 4 f 1 b 4 b 1 d 3 b 4 d 5
+d 2 d 3 f 6 b 4 f 3 b 1 b 4 d 8
+d 2 f 2 f 2 b 4 f 1 b 3 f 1 b 4 d 11
+d 4 f 1 f 1 f 3 b 4 f 1 b 1 f 5 b 4 d 12
+d 5 f 1 b 4 f 4 b 1 f 2 b 4 f 2 d 13
+d 7 b 4 f 1 b 3 f 2 b 4 f 3 f 1 d 13
+d 5 b 4 b 1 f 2 b 4 f 7 d 4 e 2 d 7
+d 2 b 4 d 4 b 1 b 4 f 7 d 5 e 2 d 7
+d 1 b 2 d 2 b 3 d 2 b 4 f 2 f 2 d 3 d 5
+d 1 b 1 d 3 b 2 d 5 f 1 d 3 d 4
+d 1 b 2 d 1 b 1 d 6 f 1 d 5 d 2 d 2 d 1 d 3
+d 2 b 3 d 1 b 1 d 6 f 1 d 6 d 2 d 2 d 2 d 3
+d 6 b 1 d 7 d 4 c 2 d 2 d 2 d 2 d 2
+d 7 b 3 d 8 d 4 c 2 d 3 d 2
+d 8 b 2 d 13 c 2 b 1 d 1
+d 1 c 3 d 4 b 4 d 12 c 2 b 1 b 1 d 1
+c 5 d 1 c 24 d 1
+c 1 b 1 c 1 b 2 c 2 b 5 d 1
+c 1 b 4 c 3 c 2 b 2 c 3 b 6
+d 1 c 3 d 1 c 2 b 1 c 2 c 2 b 1 c 2 b 1 c 2 b 5
+d 5 c 1 b 1 f 1 b 1 c 1 c 2 d 3 c 1 b 1 d 1 b 1 c 1 b 4 d 1
+d 9 c 2 b 1 c 2 d 19 c 2 b 1 c 2 d 5
+d 10 c 3 d 21 c 3 d 6
+
+columns
+d 21 c 3 d 4
+d 13 b 3 d 4 c 2 b 2 c 1 d 3
+d 6 d 4 b 2 d 1 b 2 d 3 c 3 b 1 c 1 d 3
+d 1 d 2 d 4 b 1 d 3 b 1 d 3 c 2 b 2 c 1 d 3
+d 2 d 3 b 1 d 2 b 2 d 4 c 1 b 2 d 4
+d 1 d 1 d 1 b 3 d 6 d 2
+d 1 d 1 f 1 d 1 b 1 d 1 b 1 b 2 d 3 c 1 d 2
+d 2 d 1 b 1 d 1 b 1 b 1 d 2 c 1 d 2
+d 2 f 1 d 1 f 1 b 2 d 2 b 3 c 1 d 2
+d 2 d 1 b 1 d 2 b 1 b 3 c 1 c 3 d 1
+d 2 f 1 f 1 b 5 b 1 c 1 c 2 b 1 c 2
+d 2 f 2 f 1 b 2 b 1 d 1 b 1 c 1 c 1 b 1 f 1 b 1 c 1
+d 2 f 1 f 2 b 1 b 1 d 2 c 1 c 2 b 1 c 2
+f 1 f 2 b 1 f 1 b 2 d 2 c 1 c 3 d 1
+d 1 f 1 f 3 b 3 f 1 b 1 d 4 c 1 d 2
+d 1 f 4 b 1 f 1 b 1 f 1 b 1 d 6 c 1 d 2
+d 1 f 4 b 1 f 1 b 3 d 6 c 1 d 2
+d 1 f 2 b 2 f 2 b 1 f 1 d 6 c 1 d 2
+d 2 f 1 b 1 f 3 b 1 f 2 d 5 c 1 d 2
+d 3 f 3 b 5 f 2 d 5 c 1 d 2
+d 3 b 2 f 2 b 1 f 2 d 4 c 1 d 2
+d 2 b 1 f 2 b 1 f 4 d 3 c 1 d 2
+b 1 f 2 b 2 f 3 f 2 d 3 c 1 d 2
+d 1 b 3 f 1 b 1 f 3 d 2 c 1 d 2
+d 3 f 1 b 1 f 1 b 1 f 1 b 1 f 2 d 5 c 1 d 2
+d 3 f 1 b 1 f 1 b 3 f 2 d 6 c 1 d 2
+d 2 b 2 f 2 b 1 f 1 f 1 d 6 c 1 d 2
+d 1 f 1 b 1 b 1 f 1 d 7 c 1 d 2
+f 2 b 5 f 1 d 4 c 9 d 2
+b 2 b 1 d 5 c 9 d 2
+d 1 b 1 b 1 d 5 d 3
+d 3 b 1 d 2 b 2 d 5 d 3 b 1 d 3
+d 2 b 3 d 1 b 1 d 6 d 3 b 1 b 2 d 3
+d 2 b 1 d 1 b 1 d 1 b 1 d 6 b 1 b 2 c 3 d 1
+d 2 b 1 d 1 b 3 d 4 e 2 d 3 b 1 c 2 b 1 c 2
+d 1 b 2 d 2 b 1 d 5 e 2 d 3 b 1 c 1 b 1 d 1 b 1 c 1
+d 1 b 1 d 3 b 1 d 7 b 1 c 2 b 1 c 2
+d 1 b 5 d 7 d 4 b 2 c 3 d 1
+b 2 d 2 b 1 d 9 d 3 b 3 d 2
+b 1 d 3 b 1 d 10 d 1 b 3 d 2
+b 2 d 1 b 2 d 12 b 3 d 2
+d 1 b 3 d 15 b 3 d 2
+d 23 b 2 d 3

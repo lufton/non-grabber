@@ -1,0 +1,67 @@
+by "Brian Howard (oduck83)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Howard"
+date "May 10, 2019"
+description "Hilbert space-filling curve (https://en.wikipedia.org/wiki/Hilbert_curve). Related to the Peano curve (see #31884). It started off 15x15, but it was too easy; spacing out the grid points made it slightly more challenging."
+difficulty 1.5
+height 25
+id 32428
+link "https://webpbn.com/play.cgi?id=32428"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Taking up Space"
+width 25
+
+rows
+0
+4,7,7
+1,1,1,1,1
+1,1,1,1,1
+4,4,4,4
+1,1,1
+1,1,1
+1,4,1,4,4
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+4,4,1,7
+1
+1
+4,4,1,7
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,4,1,4,4
+1,1,1
+1,1,1
+4,4,4,4
+1,1,1,1,1
+1,1,1,1,1
+4,7,7
+0
+0
+
+columns
+0
+1,7,7,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+4,4,4,4
+1,1
+1,1
+4,4,4,4
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,7,7,1
+1,1
+1,1
+4,10,4
+1,1,1,1
+1,1,1,1
+4,4,4,4
+1,1,1,1
+1,1,1,1
+1,4,1,1,4,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+4,4,4,4
+0
+0

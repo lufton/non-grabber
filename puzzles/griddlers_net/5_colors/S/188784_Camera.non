@@ -1,0 +1,49 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/17/18"
+height 12
+id 188784
+link "https://www.griddlers.net/nonogram/-/g/188784"
+medium_time "0:01:41"
+points 628
+popularity 73.81
+title "Camera"
+width 15
+
+color a ffffff
+color b 000000
+color c ffcc66
+color d ff0000
+color e 00ccff
+
+rows
+c 7
+c 1 b 5 c 1
+c 1 b 5 c 1
+c 13
+c 1 d 3 c 2 d 3 c 6
+c 5 d 1 d 1 c 5
+e 4 d 1 d 1 e 4
+e 4 d 1 d 1 e 4
+e 4 d 1 d 1 e 4
+e 5 d 1 d 1 e 5
+e 6 d 3 e 6
+e 13
+
+columns
+c 2 e 5
+c 1 d 1 c 1 e 6
+c 1 d 1 c 1 e 6
+c 1 d 1 c 1 e 6
+c 6 d 3 e 3
+c 1 b 2 c 2 d 1 d 1 e 2
+c 1 b 2 c 1 d 1 d 1 e 1
+c 1 b 2 c 1 d 1 d 1 e 1
+c 1 b 2 c 1 d 1 d 1 e 1
+c 1 b 2 c 2 d 1 d 1 e 2
+c 6 d 3 e 3
+c 3 e 6
+c 3 e 6
+c 3 e 6
+c 2 e 5

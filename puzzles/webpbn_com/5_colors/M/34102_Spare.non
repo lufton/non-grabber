@@ -1,0 +1,58 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Scarlet Noelle Masen"
+date "May 19, 2020"
+description "Trying to pick up those last two pins."
+difficulty 1.5
+height 20
+id 34102
+link "https://webpbn.com/play.cgi?id=34102"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Spare"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 2
+green 4 green 4
+green 4 green 4
+green 4 green 4
+black 2 black 2
+black 2 black 2
+green 4 black 1 green 4
+green 6 black 1 green 4
+green 6 black 1 green 4
+green 4 green 1 black 1 green 4
+green 4 green 1 black 1 green 2 red 4
+green 4 green 1 black 1 green 1 red 3 red 2
+green 4 green 1 black 1 red 8
+green 4 green 1 black 1 red 3 red 1 red 2
+green 3 green 2 black 1 red 8
+green 4 black 1 green 1 red 8
+blue 1 blue 2 blue 2 red 6 blue 1
+blue 2 blue 2 blue 2 red 4 blue 2
+blue 3 blue 2 blue 2 blue 2 blue 2
+blue 4 blue 2 blue 2 blue 2 blue 1
+
+columns
+green 8 blue 4
+green 3 green 10 blue 3
+green 4 black 2 green 10 blue 1 blue 2
+green 4 black 2 green 8 green 1 blue 2 blue 1
+green 3 green 3 green 2 blue 2
+black 1 green 8 black 1 blue 1 blue 2
+green 3 green 1 black 8 green 1 blue 2 blue 1
+green 4 black 2 green 6 red 4 blue 2
+green 4 black 2 green 5 red 6 blue 2
+green 3 green 4 red 8 blue 1
+green 3 red 3 red 4 blue 1
+red 1 red 6 blue 2
+red 3 red 4 blue 1
+red 6 blue 2
+red 4 blue 4

@@ -1,0 +1,135 @@
+by "Juliane (Ju1985)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Juliane"
+date "Feb  5, 2012"
+description "... in english it's "Sorry Take it Easy", but I'm not sure. The goal of this parlour game is to get the tokens into the marked center places."
+difficulty 2.25
+height 56
+id 17459
+link "https://webpbn.com/play.cgi?id=17459"
+note "published,definitely non-unique,may require much guessing"
+quality 1.75
+title "Mensch ärgere dich nicht....."
+width 56
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 2 red 2 black 2 black 2 black 2 blue 2 blue 2
+red 4 red 4 black 1 black 1 black 1 black 1 black 4 blue 4 blue 4
+red 4 red 4 black 1 black 1 black 1 black 1 black 4 blue 4 blue 4
+red 2 red 2 black 2 black 2 black 2 blue 2 blue 2
+0
+red 2 red 2 black 2 blue 2 black 2 blue 2 blue 2
+red 4 red 4 black 1 black 1 blue 4 black 1 black 1 blue 4 blue 4
+red 4 red 4 black 1 black 1 blue 4 black 1 black 1 blue 4 blue 4
+red 2 red 2 black 2 blue 2 black 2 blue 2 blue 2
+0
+black 2 blue 2 black 2
+black 1 black 1 blue 4 black 1 black 1
+black 1 black 1 blue 4 black 1 black 1
+black 2 blue 2 black 2
+0
+black 2 blue 2 black 2
+black 1 black 1 blue 4 black 1 black 1
+black 1 black 1 blue 4 black 1 black 1
+black 2 blue 2 black 2
+0
+black 2 black 2 black 2 black 2 black 2 blue 2 black 2 black 2 black 2 black 2 black 2
+black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2 black 2 blue 2 black 2 black 2 black 2 black 2 black 2
+0
+black 2 red 2 red 2 red 2 red 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 1 red 4 red 4 red 4 red 4 black 4 black 4 black 4 black 4 black 1 black 1
+black 1 black 1 red 4 red 4 red 4 red 4 black 4 black 4 black 4 black 4 black 1 black 1
+black 2 red 2 red 2 red 2 red 2 black 2 black 2 black 2 black 2 black 2
+0
+black 2 black 2 black 2 black 2 black 2 green 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4
+black 2 black 2 black 2 black 2 black 2 green 2 black 2 black 2 black 2 black 2 black 2
+0
+black 2 green 2 black 2
+black 1 black 1 green 4 black 1 black 1
+black 1 black 1 green 4 black 1 black 1
+black 2 green 2 black 2
+0
+black 2 green 2 black 2
+black 1 black 1 green 4 black 1 black 1
+black 1 black 1 green 4 black 1 black 1
+black 2 green 2 black 2
+0
+green 2 green 2 black 2 green 2 black 2 black 2 black 2
+green 4 green 4 black 1 black 1 green 4 black 1 black 1 black 4 black 4
+green 4 green 4 black 1 black 1 green 4 black 1 black 1 black 4 black 4
+green 2 green 2 black 2 green 2 black 2 black 2 black 2
+0
+green 2 green 2 black 2 black 2 black 2 black 2 black 2
+green 4 green 4 black 4 black 1 black 1 black 1 black 1 black 4 black 4
+green 4 green 4 black 4 black 1 black 1 black 1 black 1 black 4 black 4
+green 2 green 2 black 2 black 2 black 2 black 2 black 2
+0
+
+columns
+0
+red 2 red 2 black 2 black 2 black 2 green 2 green 2
+red 4 red 4 black 4 black 1 black 1 black 1 black 1 green 4 green 4
+red 4 red 4 black 4 black 1 black 1 black 1 black 1 green 4 green 4
+red 2 red 2 black 2 black 2 black 2 green 2 green 2
+0
+red 2 red 2 black 2 red 2 black 2 green 2 green 2
+red 4 red 4 black 1 black 1 red 4 black 1 black 1 green 4 green 4
+red 4 red 4 black 1 black 1 red 4 black 1 black 1 green 4 green 4
+red 2 red 2 black 2 red 2 black 2 green 2 green 2
+0
+black 2 red 2 black 2
+black 1 black 1 red 4 black 1 black 1
+black 1 black 1 red 4 black 1 black 1
+black 2 red 2 black 2
+0
+black 2 red 2 black 2
+black 1 black 1 red 4 black 1 black 1
+black 1 black 1 red 4 black 1 black 1
+black 2 red 2 black 2
+0
+black 2 black 2 black 2 black 2 black 2 red 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4
+black 2 black 2 black 2 black 2 black 2 red 2 black 2 black 2 black 2 black 2 black 2
+0
+black 2 blue 2 blue 2 blue 2 blue 2 green 2 green 2 green 2 green 2 black 2
+black 1 black 1 blue 4 blue 4 blue 4 blue 4 green 4 green 4 green 4 green 4 black 1 black 1
+black 1 black 1 blue 4 blue 4 blue 4 blue 4 green 4 green 4 green 4 green 4 black 1 black 1
+black 2 blue 2 blue 2 blue 2 blue 2 green 2 green 2 green 2 green 2 black 2
+0
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+0
+black 2 black 2 black 2
+black 1 black 1 black 4 black 1 black 1
+black 1 black 1 black 4 black 1 black 1
+black 2 black 2 black 2
+0
+black 2 black 2 black 2
+black 1 black 1 black 4 black 1 black 1
+black 1 black 1 black 4 black 1 black 1
+black 2 black 2 black 2
+0
+blue 2 blue 2 black 2 black 2 black 2 black 2 black 2
+blue 4 blue 4 black 1 black 1 black 4 black 1 black 1 black 4 black 4
+blue 4 blue 4 black 1 black 1 black 4 black 1 black 1 black 4 black 4
+blue 2 blue 2 black 2 black 2 black 2 black 2 black 2
+0
+blue 2 blue 2 black 2 black 2 black 2 black 2 black 2
+blue 4 blue 4 black 1 black 1 black 1 black 1 black 4 black 4 black 4
+blue 4 blue 4 black 1 black 1 black 1 black 1 black 4 black 4 black 4
+blue 2 blue 2 black 2 black 2 black 2 black 2 black 2
+0

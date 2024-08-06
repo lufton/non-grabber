@@ -1,0 +1,72 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Jan 17, 2011"
+description "... must be grown in one's own garden ;) - Mary Engelbreit"
+difficulty 1.75
+height 25
+id 11803
+link "https://webpbn.com/play.cgi?id=11803"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Happiness"
+width 25
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+0
+0
+black 1 black 1
+black 3 black 3
+black 4 black 4
+black 3 green 1 black 3
+green 1 black 1 green 1
+black 3 green 1 black 3 blue 1 blue 1 blue 1
+black 4 black 4 blue 5
+black 3 black 3 blue 5
+black 1 green 1 black 1 blue 5
+green 1 blue 3
+green 1 green 3
+green 2 green 1 green 1
+green 5 green 1 green 1
+green 4 green 1 green 2
+green 3 green 3 green 1
+green 2 green 2
+green 1 green 1
+
+columns
+0
+0
+0
+0
+green 1
+green 2
+black 1 black 1 green 2
+black 3 black 3 green 2
+black 4 black 4 green 3
+black 3 green 1 black 3 green 3
+green 1 black 1 green 1 green 9
+black 3 green 1 black 3
+black 4 black 4
+black 3 black 3
+black 1 black 1
+0
+0
+blue 4
+blue 4 green 1
+blue 5 green 7
+blue 4 green 1 green 2
+blue 4 green 2
+green 1
+green 1
+0

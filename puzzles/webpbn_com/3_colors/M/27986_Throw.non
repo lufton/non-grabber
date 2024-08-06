@@ -1,0 +1,54 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "... the switch Igor!"
+difficulty 2.0
+height 19
+id 27986
+link "https://webpbn.com/play.cgi?id=27986"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Throw"
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 3 black 1
+black 3 green 2 black 3
+black 3 green 2 black 5
+black 3 green 1 black 3
+black 3 green 3 black 1
+black 3 green 3
+black 3 green 3
+black 3 green 3
+black 3 green 4
+black 3 green 1 green 1
+black 3 green 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3 green 2
+black 3 green 2
+black 3
+
+columns
+black 19
+black 19
+black 19
+green 2 green 3 green 2
+green 2 green 1 green 1 green 2
+green 4
+green 3
+green 3
+green 3
+black 1 green 3
+black 3 green 1
+black 5
+black 3
+black 1

@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Norma Dee"
+date "Jan 25, 2018"
+description "Not one, but two cities,Sterling, Co and Berea, OH. have decided that cats in public must wear a tail light. It wasn't clear where on the tail the light should be, nor how in the world you would attach a light to their tails. I have known some cats that if you messed with their tails, they would take your arm off."
+difficulty 1.5
+height 20
+id 30805
+link "https://webpbn.com/play.cgi?id=30805"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Funny cat law 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10 green 10
+blue 10 green 10
+blue 10 green 10
+blue 1 red 3 blue 1 blue 1 green 1 black 3 green 6
+blue 1 red 1 red 1 blue 1 blue 1 green 1 black 3 green 1 black 4 green 1
+blue 1 red 1 red 1 blue 1 blue 1 green 1 black 3 green 1 green 1
+blue 1 green 1 red 1 blue 1 blue 1 green 1 red 1 black 2 green 1 green 1
+blue 1 red 1 red 1 blue 1 blue 1 green 1 black 3 green 1 green 1
+blue 1 red 3 blue 6 green 1 black 3 green 6
+black 20
+0
+red 1 black 2
+black 1 black 1 black 1 red 1 red 1 red 3
+black 1 green 1 black 1 green 1 green 1 red 1 green 1 blue 1 red 1
+black 1 black 3 red 3 red 1
+black 6 red 3 red 1
+black 5 red 4 red 1
+black 1 black 1 red 5 red 1
+black 1 black 1 red 5 red 1
+black 2 black 2 red 8
+
+columns
+blue 9 black 1 red 1
+blue 3 red 3 green 1 red 2 black 1 black 1
+blue 3 red 1 red 1 black 1 black 9
+blue 3 red 6 black 1 black 2 black 1
+blue 9 black 1 black 2
+blue 3 blue 1 black 1 black 2
+blue 3 blue 1 black 1 black 1 green 1 black 6
+blue 3 blue 1 black 1 black 3 black 1
+blue 3 blue 1 black 1 black 1 green 1 black 1
+blue 9 black 1
+green 9 black 1
+green 3 black 3 red 1 black 3 red 1 green 1 red 1 red 1
+green 3 black 7 red 7
+green 3 black 7 red 1 green 1 red 6
+green 9 black 1 red 5
+green 4 black 1 green 1 black 1 red 4
+green 4 black 1 green 1 black 1 red 1 blue 1 red 3
+green 4 black 1 green 1 black 1 red 1 red 1
+green 4 black 1 green 1 black 1 red 8
+green 9 black 1

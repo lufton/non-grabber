@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Dec  8, 2009"
+description "Chile pepper lights"
+difficulty 2.25
+height 20
+id 7371
+link "https://webpbn.com/play.cgi?id=7371"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Spice up your holiday"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3
+black 2 black 1
+red 3 black 2 black 2
+red 5 black 3
+red 6 black 3
+red 7 black 3
+red 6 black 5
+red 4 black 2 black 2
+green 3 black 2 black 2
+green 5 black 2
+green 5 black 2
+green 6 black 3
+green 5 black 1 black 1
+green 4 red 3 black 2 black 1
+green 3 red 5 black 1
+red 6 black 1
+red 7 black 1
+red 6 black 2
+red 4 black 2
+black 1
+
+columns
+red 3
+red 4
+red 5
+red 6
+red 5
+red 5
+black 1 red 3 green 4
+black 2 green 6
+black 2 green 7
+black 1 green 6
+black 3 green 5 red 3
+black 2 black 1 green 3 red 4
+black 2 black 2 red 5
+black 2 black 2 red 6
+black 3 red 5
+black 2 red 5
+black 2 black 1 red 3
+black 3 black 3 black 2
+black 5 black 2
+black 9

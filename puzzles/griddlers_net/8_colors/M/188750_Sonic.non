@@ -1,0 +1,72 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/11/18"
+height 21
+id 188750
+link "https://www.griddlers.net/nonogram/-/g/188750"
+medium_time "0:12:56"
+points 10249
+popularity 76.56
+title "Sonic"
+width 26
+
+color a 009900
+color b 000000
+color c 999999
+color d cc6600
+color e ffcc99
+color f 0000cc
+color g 3399ff
+color h ffffff
+
+rows
+g 5
+f 2 g 13 f 1
+f 4 g 5 f 2 g 5 f 2
+f 5 g 2 f 1 e 1 f 1 g 6 f 3
+f 4 d 1 e 2 f 1 g 6 f 3
+f 1 g 1 f 1 d 1 e 3 g 7 f 2
+g 3 f 1 d 1 e 3 g 9
+g 3 f 1 g 2 d 1 e 1 g 11
+g 4 f 2 g 7 c 2 g 5 c 2
+g 5 f 2 g 6 c 1 h 2 c 1 g 3 c 1 h 2
+g 2 f 3 g 1 f 2 g 6 h 4 b 1 g 2 h 2 b 1
+f 10 g 5 h 3 b 2 h 2 b 1
+f 5 g 5 h 3 b 2 h 1 b 2
+f 4 g 5 h 2 b 2 h 1 b 1
+g 2 f 4 g 1 e 1 h 2 g 1 h 1 h 1 e 2
+g 3 f 4 e 4 h 4 e 3 b 3
+g 3 f 5 e 3 b 1 e 7 b 2
+g 1 f 9 e 2 b 4 e 2 d 1
+g 1 f 8 f 2 e 5 d 2
+g 1 f 5 d 6
+f 3
+
+columns
+f 1
+f 1 g 1 f 1
+f 2 g 2 f 1
+f 1 g 2 f 2 g 2 f 1
+g 1 f 2 g 2 f 2 g 2 f 3
+g 1 f 2 g 3 f 3 g 2 f 4
+g 2 f 1 g 4 f 2 g 3 f 3
+g 2 f 2 g 2 f 6 g 2 f 4
+g 3 f 3 g 1 f 13
+g 4 f 1 g 6 f 8
+g 4 f 3 g 6 f 6
+g 2 f 2 d 4 g 6 f 5
+g 2 f 1 e 5 g 7 e 2 f 1
+g 2 f 1 e 3 g 7 e 3 f 2
+g 3 f 1 e 2 g 7 h 1 e 3 f 1 d 1
+g 8 c 1 h 3 g 1 h 1 e 1 b 1 e 2 d 1
+g 7 c 1 h 5 g 1 h 1 e 1 b 1 e 1 d 1
+g 6 c 1 h 7 e 1 b 1 e 1 d 1
+g 6 c 1 h 1 h 1 e 1 b 1 e 1 d 1
+g 7 b 4 h 1 e 1 b 1 e 1 d 1
+g 7 b 3 h 1 e 3 d 1
+f 2 g 6 h 3 e 4 d 1
+f 4 g 3 c 1 h 2 e 3 d 1
+f 5 g 2 c 1 h 2 b 2 b 2
+c 1 h 1 b 3 b 2
+b 1

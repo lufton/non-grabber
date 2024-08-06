@@ -1,0 +1,62 @@
+by "woa"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/30/02"
+height 20
+id 808
+link "https://www.griddlers.net/nonogram/-/g/808"
+medium_time "0:09:45"
+points 5711
+popularity 62.83
+title "Cake"
+width 20
+
+color a ffffff
+color b a50008
+color c 212121
+color d de8c08
+color e 52638c
+
+rows
+b 1
+b 3
+c 1 b 5 c 1
+c 2 b 5 c 3
+c 2 b 5 c 2
+c 2 b 3 c 3
+c 2 c 4 d 1 c 1
+c 2 c 4 d 4 c 1
+c 2 c 4 d 7 c 1
+c 1 c 3 d 8 c 2
+c 3 d 7 b 3 d 2 c 3
+c 1 d 6 b 2 d 4 c 1 c 1
+c 2 d 3 b 3 d 8 e 2
+c 3 d 1 b 3 d 8 e 4
+c 1 c 1 d 9 e 5 c 1
+e 1 c 1 d 7 e 7 c 1
+e 2 c 1 d 4 e 9 c 2
+e 2 c 1 d 2 e 9 c 2
+e 10 c 3
+e 5 c 5
+
+columns
+c 2 e 3
+c 2 e 5
+c 10 e 2
+c 2 c 1 d 3 d 3 e 2
+c 2 c 2 d 2 b 1 d 4 e 2
+c 2 c 1 d 3 b 1 d 3 e 3
+c 2 c 2 d 2 b 2 d 3 e 2
+c 2 c 1 d 3 b 1 d 3 e 3
+c 2 c 1 d 3 b 1 d 3 e 3
+b 3 c 2 d 2 d 4 e 3
+b 5 c 1 d 3 d 3 e 3
+b 6 c 1 d 3 b 1 d 3 e 3 c 1
+b 5 c 2 d 2 b 2 d 3 e 3 c 1
+b 3 c 1 d 3 b 1 d 3 e 4 c 1
+c 2 c 1 d 3 b 1 d 3 e 3 c 1
+c 1 c 2 d 2 d 3 e 4 c 2
+c 3 d 3 d 3 e 3 c 1
+c 8 e 3 c 2
+c 2 e 2 c 2
+c 2 c 3

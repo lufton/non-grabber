@@ -1,0 +1,61 @@
+by "Isabella Russell (Shimeree)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Isabella Russell"
+date "May 29, 2014"
+description "Micky Mouse"
+difficulty 1.75
+height 20
+id 24595
+link "https://webpbn.com/play.cgi?id=24595"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Hot Dog"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 5 black 5
+black 7 black 7
+black 8 black 8
+black 8 black 8
+black 7 black 4 black 7
+black 5 black 6 black 5
+black 3 black 8 black 3
+black 10
+black 10
+black 10
+black 10
+black 8
+black 6
+black 4
+black 2 red 1 red 1 black 2
+black 3 red 1 black 4 red 1 black 3
+black 3 red 3 black 2 red 3 black 3
+black 2 red 8 black 2
+black 2 red 8 black 2
+
+columns
+black 3
+black 5
+black 7
+black 8 black 3
+black 8 black 4
+black 7 black 4 black 3
+black 5 black 6 black 2 red 3
+black 3 black 8 red 5
+black 10 black 1 red 3
+black 10 black 2 red 2
+black 10 black 2 red 2
+black 10 black 1 red 3
+black 3 black 8 red 5
+black 5 black 6 black 2 red 3
+black 7 black 4 black 3
+black 8 black 4
+black 8 black 3
+black 7
+black 5
+black 3

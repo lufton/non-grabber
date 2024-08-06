@@ -1,0 +1,102 @@
+by "Juan Luis Arteaga Pérez (garimur)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Juan Luis Arteaga PÃ©rez"
+date "Mar 27, 2010"
+description "Poster from "Howard the Duck" (1986), by Willard Huyck and George Lucas. More at: http://en.wikipedia.org/wiki/Howard_the_Duck_(film)"
+difficulty 3.5
+height 45
+id 8183
+link "https://webpbn.com/play.cgi?id=8183"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #56: Smoking duckling"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 13 black 13
+black 11 black 11
+black 9 blue 1 black 9
+black 8 blue 2 black 8
+black 7 blue 1 blue 2 black 7
+black 6 blue 2 blue 1 black 6
+black 6 blue 1 blue 1 black 6
+black 5 blue 1 blue 1 black 5
+black 5 blue 3 black 5
+black 4 blue 1 black 1 black 1 black 1 black 4
+black 4 blue 2 black 1 black 2 black 1 black 1 black 2 black 4
+black 3 blue 1 blue 1 black 2 black 1 black 3 black 3
+black 3 blue 6 black 2 black 5 black 2 black 3
+black 2 blue 1 blue 1 black 1 black 3 red 5 black 2
+black 2 blue 3 black 3 black 1 red 7 black 2
+black 2 blue 2 black 2 red 10 black 2
+black 1 blue 1 black 1 red 13 black 1
+black 1 blue 2 black 2 red 11 black 1
+black 1 blue 3 red 6 black 2 black 1
+blue 1 blue 3 red 1 black 6 red 1
+blue 2 blue 2 black 4 red 3
+blue 3 blue 2 black 7 black 5
+blue 2 blue 1 black 4 black 1 black 1
+blue 2 red 1 black 1 red 1 black 2 black 1 black 2
+black 1 red 1 black 2 black 1
+red 1 black 1 red 1 black 1
+black 1 black 1
+black 1 black 2
+0
+0
+0
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 3 black 3
+black 3 black 3
+black 4 black 4
+black 5 black 5
+black 6 black 6
+black 7 black 7
+black 8 black 8
+black 10 black 10
+black 12 black 12
+
+columns
+black 19 black 14
+black 16 black 11
+black 13 black 9
+black 11 black 7
+black 9 blue 3 blue 3 black 6
+black 7 blue 1 blue 1 blue 2 blue 2 black 5
+black 5 blue 4 blue 3 blue 1 black 4
+black 4 blue 3 black 1 blue 2 black 1 blue 1 blue 2 black 3
+black 3 blue 2 blue 1 blue 1 black 1 black 1 blue 2 blue 2 black 2
+black 2 blue 2 blue 5 black 1 blue 2 black 1 black 1 blue 2 blue 1 black 2
+black 2 blue 2 blue 1 black 1 black 2 blue 2 red 1 black 1 red 1 black 1
+black 1 blue 5 black 4 black 1 black 2 red 1 black 1 black 1
+black 1 black 1 black 2 red 3 black 2 red 1 black 1 red 1
+black 2 red 5 black 5
+black 2 red 5 black 5
+black 1 red 6 black 3
+black 2 red 6 black 3
+black 2 black 1 red 6 black 1 red 1 black 1
+black 1 red 6 black 1 red 1 black 2 black 2
+red 5 black 2 red 1 black 3
+black 1 red 4 black 1 red 1 black 1 black 2
+black 4 red 3 black 1 black 1
+black 1 black 1 red 2 black 2
+black 1 black 2 red 1 black 1 black 1 black 1
+black 2 black 1 red 1 black 1 black 1 black 1
+black 2 black 2
+black 3 black 2
+black 4 black 3
+black 5 black 4
+black 7 black 5
+black 9 black 6
+black 11 black 7
+black 13 black 9
+black 16 black 11
+black 19 black 14

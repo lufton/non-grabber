@@ -1,0 +1,77 @@
+by "vilyaen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/8/07"
+height 25
+id 48005
+link "https://www.griddlers.net/nonogram/-/g/48005"
+medium_time "0:05:00"
+points 1322
+popularity 69.96
+title "Locomotive"
+width 28
+
+color a ffffff
+color b ffcc66
+color c 996702
+color d ff9900
+color e 5eb30a
+color f cc0099
+color g 3399ff
+
+rows
+b 13
+b 15
+b 15
+b 15
+b 13
+e 9
+c 5 e 9
+c 5 e 3 d 3 e 3
+c 5 e 2 d 5 e 2
+c 3 f 3 e 2 d 5 e 2
+c 3 f 3 e 2 d 5 e 2
+b 14 e 2 d 5 e 2
+b 15 e 2 d 5 e 2
+b 15 e 9
+b 14 e 9
+e 23
+e 24
+e 7 g 4 e 6 g 4 e 3
+e 7 g 6 e 4 g 6 e 2
+e 6 g 8 e 2 g 8 e 1
+e 7 g 8 e 2 g 8 e 1
+e 7 g 8 e 2 g 8 e 1
+g 8 g 8
+g 6 g 6
+g 4 g 4
+
+columns
+e 2
+b 2 e 4
+c 3 b 4 e 6
+c 5 b 4 e 7
+c 5 b 4 e 7
+c 5 b 4 e 7
+c 3 b 4 e 7
+b 4 e 4 g 4
+b 4 e 3 g 6
+f 2 b 4 e 2 g 8
+f 2 b 4 e 2 g 8
+f 2 b 4 e 2 g 8
+b 4 e 2 g 8
+b 3 b 4 e 3 g 6
+b 5 b 4 e 4 g 4
+b 5 b 4 e 7
+b 5 e 17
+b 5 e 14 g 4
+b 5 e 3 d 5 e 5 g 6
+b 5 e 2 d 6 e 4 g 8
+b 5 e 2 d 6 e 4 g 8
+b 5 e 2 d 6 e 4 g 8
+b 5 e 3 d 5 e 4 g 8
+b 5 e 13 g 6
+b 5 e 14 g 4
+b 5 e 7
+b 5
+b 3

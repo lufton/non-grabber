@@ -1,0 +1,62 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gaynor Sorrell"
+date "Dec 12, 2017"
+description "...we lit the first Chanukah candle."
+difficulty 1.5
+height 20
+id 30630
+link "https://webpbn.com/play.cgi?id=30630"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Tonight's the night (for Thomas)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1
+red 1
+0
+blue 1 blue 1 blue 1 blue 1 red 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 red 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+black 9 blue 1 black 9
+black 2 blue 1 black 2
+black 3 black 1 blue 1 black 1 black 3
+black 3 black 3 black 3
+black 7
+black 3
+black 3
+black 3 black 1
+black 3 black 2
+black 3 black 1
+black 5 black 1
+black 9 black 3
+
+columns
+black 1
+blue 5 black 2
+black 3
+blue 5 black 1 black 1
+black 1 black 2
+blue 5 black 1 black 1 black 1
+black 1 black 3 black 1
+blue 5 black 1 black 1 black 2
+black 1 black 9
+red 2 blue 5 black 9
+black 1 black 9
+blue 5 black 1 black 1 black 2
+black 1 black 3 black 1
+blue 5 black 1 black 1 black 1
+black 1 black 2
+blue 5 black 1 black 1
+black 3
+red 2 blue 5 black 2 black 1 black 1
+black 1 black 5
+black 1

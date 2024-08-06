@@ -1,0 +1,73 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "Aug 23, 2013"
+description "This is Cotton Andy's cotton candy machine. He calls her Woopsabelle."
+difficulty 3.0
+height 20
+id 22648
+link "https://webpbn.com/play.cgi?id=22648"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Still more cool things from Destyny's favourite cartoon show."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 3
+red 5 green 1 black 1
+blue 1 blue 1 blue 1 blue 1 green 4
+red 1 blue 1 red 10 blue 3 black 2
+red 1 blue 1 red 1 red 1 red 1 red 1 blue 1 black 1
+red 1 red 1 blue 1 red 1 red 1 red 1 red 1 blue 1 blue 1 black 1
+red 1 red 1 blue 1 red 1 green 1 red 1 green 1 red 1 red 1 blue 1 blue 1 black 3
+blue 1 red 1 red 1 blue 1 red 1 red 1 red 1 red 1 blue 1 blue 1 black 3
+red 1 blue 1 red 1 blue 1 red 1 green 1 red 1 green 1 red 1 red 1 blue 1 blue 1 red 1
+red 1 red 1 blue 1 red 1 red 1 red 1 red 1 blue 1 blue 1 red 3
+red 1 blue 1 red 10 blue 3 red 5
+blue 1 blue 1 black 3 red 1 red 1
+black 2 black 2 red 2
+black 3 black 1 red 1 black 2 red 2
+black 2 red 1 black 2 black 2 red 1 green 1 black 2 black 2
+black 2 red 3 black 2 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 1 red 2 red 2 black 1 black 2 green 1 red 1 black 2 black 1 black 2 black 1
+black 2 red 3 black 2 black 2 red 1 black 1 black 1 black 2 black 1
+black 2 red 1 black 2 black 2 black 2 black 1 black 1
+black 3 black 3 black 2
+
+columns
+blue 1
+red 5 black 3
+blue 1 black 2 red 1 black 2
+red 8 black 2 red 3 black 2
+blue 10 black 1 red 2 red 2 black 1
+red 8 black 2 red 3 black 2
+red 1 red 1 black 2 red 1 black 2
+red 3 green 1 red 1 black 3
+red 1 red 2 green 1 red 1
+red 1 red 1 red 3
+red 1 blue 1 red 3 green 1 red 1
+green 1 red 1 red 1 red 2 green 1 red 1
+red 1 blue 1 red 1 red 3
+red 1 red 1 red 1
+red 8 black 3
+blue 10 black 2 black 2
+blue 1 blue 1 black 1 red 2 black 2
+blue 1 blue 1 black 2 green 1 blue 1 black 2
+green 1 black 2 blue 5 black 1 black 1 black 1
+green 1 black 1 green 1 black 1 black 2 blue 1 green 1 black 2
+green 1 green 1 red 2 black 2 red 2 black 1
+green 1 green 1 black 1 red 2 black 2 black 2
+green 1 black 1 red 3 black 3
+black 2 red 2
+black 1 red 3 black 2
+black 2 red 2 black 1 black 1
+red 1 black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 1
+black 2

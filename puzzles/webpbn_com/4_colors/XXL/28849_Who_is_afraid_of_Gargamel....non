@@ -1,0 +1,117 @@
+by "Magdalena (Szeptycy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Magdalena"
+date "Oct 10, 2016"
+description "The Smurfs is a Belgian comic franchise centered on a fictional colony of small blue humanoids who live in mushroom-shaped houses in the forest."
+difficulty 2.75
+height 50
+id 28849
+link "https://webpbn.com/play.cgi?id=28849"
+note "published,definitely unique,may require moderate lookahead"
+quality 4.0
+title "Who is afraid of Gargamel..."
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 45
+green 21 black 9 green 15
+green 17 black 5 black 3 green 13
+green 14 black 4 black 3 green 11
+green 12 black 3 black 3 green 9
+green 10 black 3 black 2 green 8
+green 9 black 2 black 2 green 7
+green 7 black 3 black 2 green 6
+green 6 black 2 black 2 black 2 green 5
+green 5 black 2 black 3 black 3 black 1 green 5
+green 4 black 2 black 2 black 3 black 2 green 4
+green 3 black 2 black 2 black 4 black 2 green 3
+green 2 black 2 black 7 black 1 green 3
+green 2 black 1 black 6 black 2 green 2
+green 2 black 1 black 3 green 1 black 1 black 4 black 1 green 2
+green 3 black 7 green 4 black 1 black 6 black 1 green 2
+green 14 black 4 black 2 green 1
+green 12 black 3 black 1 green 1
+green 10 black 3 black 1 green 1
+green 8 black 3 black 1 green 1
+green 6 black 3 black 1 green 1
+green 5 black 2 black 1 green 1
+green 4 black 2 black 1 green 1
+green 3 black 2 black 8 black 5 black 1 green 1
+green 2 black 2 black 2 blue 3 black 1 black 4 black 2 blue 5 black 2 green 1
+green 1 black 2 black 1 black 1 blue 2 black 1 black 1 black 2 black 1 blue 8 black 1 green 1
+green 1 black 2 black 1 black 1 blue 2 black 1 black 2 black 4 black 1 blue 10 black 1
+green 1 black 2 black 1 blue 2 black 1 black 1 black 1 black 2 blue 2 black 2 black 3 blue 11 black 1
+green 2 black 2 black 5 black 2 black 3 blue 4 black 4 blue 2 black 1 blue 11 black 1
+green 3 black 3 blue 4 black 2 black 2 black 2 blue 11 black 1 blue 6 black 3 blue 2 black 1
+green 4 black 1 blue 7 black 3 black 1 blue 16 black 2 blue 3 black 1 blue 1 black 1
+green 3 black 1 blue 9 black 2 black 1 blue 16 black 3 blue 5 black 1
+green 3 black 1 blue 10 black 1 blue 1 black 3 blue 16 black 4 blue 4 black 1 green 1
+green 3 black 1 blue 30 black 1 blue 2 black 1 blue 5 black 1 green 1
+green 3 black 1 blue 29 black 1 blue 3 black 1 blue 4 black 1 green 2
+green 3 black 1 blue 20 black 3 blue 9 black 1 blue 4 black 1 green 3
+green 4 black 1 blue 18 black 2 blue 13 black 3 green 4
+green 4 black 1 blue 9 black 1 blue 9 black 1 blue 8 black 5 green 7
+green 5 black 1 blue 6 black 2 blue 10 black 1 blue 10 black 1 green 9
+green 6 black 6 blue 11 black 1 blue 10 black 1 green 10
+green 8 black 1 blue 13 black 1 blue 9 black 2 green 11
+green 9 black 1 blue 10 black 2 blue 2 black 3 blue 3 black 2 green 13
+green 9 black 2 blue 4 black 5 blue 3 black 1 blue 3 black 3 green 15
+green 11 black 4 blue 8 black 1 blue 4 black 1 green 16
+green 15 black 9 blue 5 black 1 green 15
+green 15 black 1 blue 1 black 1 blue 12 black 1 green 14
+green 15 black 1 blue 1 black 1 blue 7 black 1 blue 4 black 1 green 14
+green 16 black 2 blue 7 black 1 blue 5 black 1 green 13
+green 16 black 1 blue 9 black 1 blue 4 black 1 green 13
+green 16 black 1 blue 9 black 1 blue 5 black 1 green 12
+
+columns
+green 50
+green 25 black 3 green 22
+green 12 black 3 green 9 black 5 green 21
+green 11 black 2 black 1 green 7 black 2 black 2 green 1 black 5 green 14
+green 10 black 2 black 1 green 6 black 2 black 2 blue 5 black 2 green 12
+green 9 black 2 black 1 green 5 black 2 black 1 black 1 blue 8 black 1 green 11
+green 8 black 2 black 1 green 4 black 2 black 1 black 1 blue 10 black 1 green 10
+green 7 black 2 black 1 green 4 black 1 black 1 black 3 blue 10 black 1 green 10
+green 7 black 1 black 1 green 3 black 2 black 2 blue 2 black 1 blue 10 black 2 green 9
+green 6 black 2 black 1 green 3 black 1 black 1 blue 4 black 1 blue 10 black 1 blue 1 black 2 green 7
+green 5 black 2 black 1 green 3 black 2 black 1 blue 2 black 4 blue 9 black 1 blue 2 black 1 green 7
+green 5 black 1 black 1 green 3 black 1 black 1 blue 1 black 1 black 1 blue 9 black 1 blue 3 black 1 green 6
+green 4 black 2 black 1 green 2 black 2 black 2 black 1 blue 7 black 1 blue 4 black 1 green 6
+green 4 black 1 black 1 green 3 black 1 black 1 black 5 blue 6 black 1 blue 4 black 1 green 6
+green 3 black 2 black 5 black 1 black 1 black 5 blue 4 black 1 blue 5 black 1 green 6
+green 3 black 1 black 1 black 1 black 1 black 3 blue 10 black 1 blue 1 black 3 green 3
+green 3 black 1 black 2 black 1 black 2 black 1 blue 9 black 1 blue 1 black 1 blue 2 black 3
+green 2 black 2 black 2 black 2 black 1 black 1 blue 9 black 1 blue 1 black 4 blue 2
+green 2 black 1 black 2 black 1 black 1 black 1 blue 9 black 1 blue 1 black 1 blue 5
+green 2 black 1 black 2 black 1 black 1 black 3 black 1 blue 10 black 1 blue 1 black 1 blue 5
+green 2 black 1 black 3 black 1 black 6 blue 10 black 1 blue 2 black 1 blue 5
+green 1 black 2 black 2 black 1 black 1 black 2 black 1 blue 12 black 1 blue 2 black 1 blue 5
+green 1 black 1 black 1 black 2 black 2 black 1 blue 13 black 1 blue 3 black 1 blue 5
+green 1 black 1 black 2 black 1 black 1 black 1 blue 9 black 1 blue 2 black 1 blue 2 black 3 blue 5
+green 1 black 1 black 1 black 1 black 1 black 1 blue 7 black 4 blue 2 black 1 blue 8
+green 1 black 1 black 2 black 1 black 1 blue 7 black 1 blue 5 black 1 blue 4 black 2 blue 2
+green 1 black 1 black 1 black 1 blue 6 black 1 blue 5 black 1 blue 6 black 2
+green 1 black 1 black 2 black 1 blue 13 black 1 blue 7
+green 1 black 1 black 1 black 1 blue 13 black 2 blue 6
+green 1 black 2 black 1 black 1 blue 13 black 1 green 1 black 1 blue 5
+green 2 black 1 black 1 blue 13 black 1 green 3 black 2 blue 3
+green 2 black 2 black 1 blue 13 black 1 green 5 black 2 blue 1
+green 3 black 1 black 3 blue 10 black 1 green 8 black 1
+green 3 black 2 black 1 blue 7 black 1 blue 2 black 1 blue 2 black 1 green 9
+green 4 black 1 black 1 blue 7 black 1 blue 3 black 1 blue 1 black 1 green 10
+green 4 black 2 black 1 blue 7 black 1 blue 4 black 2 green 11
+green 5 black 2 black 1 blue 6 black 2 blue 2 black 1 blue 1 black 1 green 12
+green 6 black 2 black 1 blue 6 black 5 blue 2 black 1 green 12
+green 7 black 2 black 1 blue 6 black 3 blue 3 black 1 green 13
+green 8 black 3 black 1 blue 5 black 1 blue 6 black 1 green 13
+green 10 black 2 black 1 blue 5 black 1 blue 6 black 1 green 13
+green 11 black 3 black 1 blue 5 black 1 blue 5 black 1 green 14
+green 13 black 4 black 1 blue 5 black 1 blue 3 black 1 green 15
+green 16 black 10 blue 6 black 2 green 16
+green 26 black 6 green 18

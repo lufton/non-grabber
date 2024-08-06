@@ -1,0 +1,78 @@
+by "airam"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/20"
+height 30
+id 207778
+link "https://www.griddlers.net/nonogram/-/g/207778"
+medium_time "0:31:39"
+points 23076
+popularity 87.5
+title "Tree"
+width 25
+
+color a FFF8DC
+color b BDB76B
+color c 8B4513
+color d B8860B
+color e 9ACD32
+color f 006400
+
+rows
+e 2
+e 4
+f 4 e 2
+f 5 e 4
+f 6 e 4
+f 6 e 3 c 1 e 4
+f 2 d 1 e 2 c 1 f 2 e 4
+d 1 e 1 c 1 f 4 e 4
+f 2 e 1 c 1 f 4 e 4
+f 2 e 4 b 1 c 1 f 3 e 6
+f 3 e 2 d 1 e 1 b 1 c 1 f 3 e 6
+f 2 e 3 d 1 e 1 b 1 c 2 e 7
+e 1 f 2 e 2 c 1 b 1 d 1 c 2 f 5 e 2
+e 4 b 1 c 2 f 5
+e 2 e 1 b 1 f 2
+f 2 e 2 c 1 b 1 f 2 e 1
+f 3 e 4 d 1 b 1 f 1 e 4
+f 4 e 4 c 1 d 1 f 2 e 3 e 1
+f 4 e 4 c 1 d 1 f 1 d 1 e 4 e 5
+f 5 e 1 c 1 d 1 c 2 e 2 c 1 f 2 e 3
+b 1 f 2 e 1 c 1 d 3 b 2 e 1 d 1 f 3 e 3
+b 1 f 1 c 1 b 1 d 1 c 4 d 2 c 2 f 3 e 4
+c 1 b 1 d 2 c 1 b 2 d 2 c 2 f 3
+c 2 b 1 d 1 c 1 b 1 d 2 c 2 f 1 e 2
+c 1 b 1 d 1 c 2 d 2 d 1 f 2 e 2
+c 1 b 1 d 5 c 2 f 2 e 3
+c 1 b 1 d 2 c 1 f 4 e 5
+c 1 b 1 d 2 f 3 e 6
+c 1 b 1 d 2 e 6
+c 1 b 1 d 1 c 1 e 2
+
+columns
+c 5
+f 3 c 2 b 5
+f 5 c 2 b 1 d 5
+f 2 f 5 b 2 d 5 c 1
+f 3 f 2 e 1 f 3 b 2 d 2 c 1 d 1 c 1
+f 4 f 3 e 1 e 4 f 3 d 1 c 2 d 1
+f 5 f 3 e 1 f 1 e 4 f 2 c 1 b 1 d 2
+e 1 f 4 f 1 e 3 f 1 e 2 e 5 c 1 b 1 d 2
+e 2 f 4 d 2 e 6 e 2 c 2 b 2 d 1
+e 2 f 1 e 3 e 2 d 2 e 2 c 2 d 4
+e 6 e 3 c 1 e 2 c 1 d 3 c 1 d 1 c 1 d 1
+e 6 b 8 f 2 c 1 d 1 c 1
+e 2 c 5 c 1 f 3 d 1 b 1 c 1
+d 1 c 1 f 1 e 4 b 1 c 1
+c 1 e 6 d 1
+f 1 f 1 c 3 f 1 e 3 d 1 c 1
+f 4 c 1 f 2 e 1 e 1 c 3 f 2
+f 5 e 1 f 3 d 1 c 1 c 1 d 1 c 1 f 2 e 1
+e 1 f 3 f 1 e 1 f 3 c 1 f 2 c 1 f 2 e 1
+e 3 f 1 e 3 f 2 e 1 f 4 f 3 e 3
+e 7 f 1 e 2 f 7 e 4
+e 8 e 4 f 1 e 6
+e 7 e 4 e 6
+e 4 e 4 e 3
+e 2 e 1 e 2

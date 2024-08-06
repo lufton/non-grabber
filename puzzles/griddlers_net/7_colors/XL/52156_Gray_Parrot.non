@@ -1,0 +1,99 @@
+by "panda2a"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/24/07"
+height 35
+id 52156
+link "https://www.griddlers.net/nonogram/-/g/52156"
+medium_time "0:27:52"
+points 39370
+popularity 79.49
+title "Gray Parrot"
+width 40
+
+color a ffffff
+color b 5b5a5a
+color c 999958
+color d ff0000
+color e cbc7cb
+color f a9a9bb
+color g dbdede
+
+rows
+g 5 e 1
+g 7 e 1
+g 5 e 2
+g 1 b 1 g 2 b 1 e 2
+g 1 b 3 g 1 e 2
+g 3 b 4 e 3
+f 3 g 3 b 4 e 2 f 2 e 1
+f 4 e 1 g 3 b 4 e 5
+f 4 e 1 f 1 e 1 f 1 g 3 b 3 e 6
+f 5 e 1 f 4 b 1 g 2 b 1 e 4 f 1 e 3
+f 4 e 1 f 4 e 1 f 2 b 2 e 7 f 1 e 1
+f 6 e 1 f 4 e 1 f 3 b 3 e 8
+f 5 e 1 f 3 e 1 f 5 b 3 e 3 f 1 e 4
+f 4 e 1 f 1 e 1 f 3 e 1 f 5 b 4 e 4 f 1 e 2
+f 5 e 1 f 9 e 1 f 1 b 4 e 2 f 1 e 4
+f 4 e 1 f 11 e 1 f 1 b 4 e 4 f 1 e 2
+f 2 e 1 f 1 e 1 f 3 e 1 f 1 e 1 f 3 e 1 f 4 b 3 e 8
+f 2 e 1 f 5 e 1 f 2 e 1 f 2 e 1 f 4 b 3 e 3 f 1 e 2 f 1 e 1
+b 7 e 1 f 1 b 1 f 2 b 1 f 2 b 2 f 2 b 3 e 1 g 1 e 3 f 1 e 2 f 1
+b 8 e 1 g 2 f 1 b 1 e 1 f 2 b 1 e 1 f 2 b 1 e 1 g 5 e 4 c 1
+b 7 g 7 f 1 g 13 c 4
+b 3 d 2 g 18 c 5
+b 2 d 6 g 15 c 6
+d 8 g 13 e 5 c 2
+d 9 g 10 e 7
+d 7 g 3 e 2 c 5 e 2
+d 6 e 10 b 1
+d 5 e 5 c 3 e 2
+d 4 e 2 c 7 e 1
+d 2 e 2 c 9 b 1
+e 2 c 9
+b 1 c 9
+c 10
+c 10
+c 12
+
+columns
+b 2 d 2
+b 3 d 3
+b 3 d 3
+b 3 d 4
+f 1 b 3 d 4
+f 2 b 3 d 4
+f 2 e 1 b 3 d 4
+f 1 e 1 f 1 b 3 d 5
+f 4 b 2 d 4
+f 2 e 1 f 1 b 2 g 1 d 5
+f 2 e 1 f 2 e 2 g 1 d 4
+f 6 g 3 d 3
+f 5 e 1 b 1 g 3 d 3
+f 3 e 1 f 1 e 1 f 3 g 3 d 1
+f 2 e 1 f 5 b 1 g 4
+f 5 e 2 b 1 e 1 g 4
+f 3 e 1 f 7 g 3
+f 2 e 1 f 7 g 5
+f 8 e 1 b 2 g 5
+f 2 e 1 f 4 e 1 f 1 b 1 e 1 g 5
+f 2 e 1 f 2 e 1 f 6 g 5
+f 4 e 1 f 7 g 5
+f 7 e 1 f 2 b 2 g 5
+f 2 e 1 f 4 e 1 f 2 b 2 e 1 g 6
+f 1 e 1 f 2 e 1 f 3 b 4 g 7 e 1 e 2
+f 4 e 1 f 3 b 4 e 1 g 7 e 5 b 1 c 1
+f 2 e 1 f 4 b 4 e 1 g 7 e 4 c 6
+f 1 e 1 f 4 b 4 e 3 g 4 e 5 c 7
+g 4 b 6 e 4 g 3 c 1 e 2 c 1 e 2 c 7
+g 5 b 4 e 3 f 1 e 2 g 1 c 2 e 2 c 1 e 2 c 7
+g 6 e 1 b 1 e 6 f 1 e 1 c 3 e 2 c 1 e 1 c 8
+g 3 b 6 e 4 f 1 e 5 c 3 e 2 c 1 e 1 c 8
+g 3 b 6 e 6 f 1 e 1 f 1 e 2 c 4 e 1 c 1 e 1 c 8
+g 4 b 5 e 3 f 1 e 5 f 1 c 5 e 4 c 7
+g 5 b 3 e 5 f 1 e 3 e 1 b 1 e 2 c 6
+g 3 e 9 b 1 c 3
+g 2 e 3 f 1 e 4 c 1
+e 1 g 1 b 1 e 1 f 1 e 3 f 1 e 2
+e 5 f 1 e 5
+e 8

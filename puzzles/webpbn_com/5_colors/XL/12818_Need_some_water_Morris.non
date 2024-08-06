@@ -1,0 +1,93 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar 18, 2011"
+description "Cat on a hot tin roof"
+difficulty 1.75
+height 30
+id 12818
+link "https://webpbn.com/play.cgi?id=12818"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Need some water, Morris?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+red 3
+red 3 red 1
+red 3 black 2 black 1 black 1 red 2
+red 2 black 2 red 1 black 3 red 2
+red 2 black 2 red 1 black 6 black 3 red 2
+red 3 black 14 red 3
+red 3 black 13 red 4
+red 4 black 12 red 4 red 1
+red 6 black 1 black 1 black 2 black 2 red 5 red 2
+red 6 black 2 black 2 black 1 black 1 red 6 red 3
+red 6 black 1 red 1 black 1 black 1 black 1 red 7 red 2
+blue 30 red 3
+blue 1 black 7 black 7 black 2 black 2 blue 1 red 3
+blue 2 black 7 black 7 black 3 black 2 blue 1 red 2
+blue 1 black 3 black 3 black 4 black 2 red 3
+blue 2 black 3 black 3 black 2 black 4 red 4
+blue 1 black 3 black 7 black 2 black 3 red 5
+blue 2 black 3 black 7 black 2 black 2 red 3
+blue 1 red 1
+blue 33
+blue 1 blue 1
+blue 1 blue 1
+blue 1 green 7 green 7 blue 1
+blue 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1
+blue 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1
+
+columns
+blue 1 blue 1
+blue 3 blue 1
+blue 1 blue 3 blue 6
+red 2 blue 1 black 2 blue 3 blue 1
+red 6 blue 1 black 2 blue 3
+red 9 blue 1 black 6 blue 1 green 3
+red 11 blue 1 black 6 blue 1 green 1
+red 3 black 4 red 4 blue 1 black 6 blue 1 green 1
+red 2 black 6 red 3 blue 1 black 2 blue 1 green 3
+black 1 red 2 black 3 red 1 black 2 blue 1 black 2 blue 1 green 1
+black 6 red 1 blue 1 blue 1 green 1
+black 4 blue 1 blue 1 green 3
+black 4 black 2 blue 1 black 2 black 2 blue 1
+black 6 blue 1 black 2 black 2 blue 1
+black 4 blue 1 black 6 blue 1
+black 4 blue 1 black 6 blue 1
+black 4 blue 1 black 6 blue 1
+black 6 blue 1 black 2 black 2 blue 1
+black 3 blue 1 black 2 black 2 blue 1 green 3
+black 7 blue 1 blue 1 green 1
+black 3 black 3 blue 1 blue 1 green 1
+black 3 blue 1 black 6 blue 1 green 3
+red 1 blue 1 black 6 blue 1 green 1
+red 2 blue 1 black 2 blue 1 green 1
+red 1 red 6 blue 1 black 2 blue 1 green 3
+red 10 blue 1 black 2 blue 1
+red 8 blue 1 black 6 blue 1
+red 5 blue 1 black 6 blue 1
+red 3 blue 1 red 1 blue 1
+blue 3 red 2 blue 1
+red 7 blue 6
+red 10 blue 1
+red 6 red 5 blue 1
+red 1
+0
+0
+0
+0
+0
+0

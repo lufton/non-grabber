@@ -1,0 +1,72 @@
+by "Stephanie Walker (callmeseverus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Stephanie Walker"
+date "Dec 10, 2020"
+description "Bob!"
+difficulty 1.5
+height 25
+id 34729
+link "https://webpbn.com/play.cgi?id=34729"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "If you like to talk to tomatoes..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 6
+green 9 red 8
+red 8 green 2 red 13
+red 25
+red 13 black 5 red 7
+red 6 black 3 red 9 black 2 red 5
+red 5 black 1 red 3 black 2 red 3 black 3 red 2 black 2 red 4
+red 4 black 1 red 8 black 1 black 2 red 6
+red 3 black 1 red 3 black 4 red 1 black 1 black 1 red 6
+red 6 black 1 black 2 black 2 black 1 red 6
+red 5 black 1 black 2 black 2 black 1 red 6
+red 5 black 1 black 2 black 2 black 1 red 6
+red 5 black 1 black 2 black 2 red 1 black 5 red 7
+red 5 black 1 black 1 red 14
+red 6 black 4 red 15
+red 25
+red 25
+red 25
+red 7 black 13 red 5
+red 6 black 1 black 1 red 4
+red 7 black 1 black 1 red 5
+red 7 black 1 black 1 red 6
+red 8 black 10 red 6
+red 22
+red 17
+
+columns
+red 20
+red 22
+red 22
+red 6 black 1 red 15
+red 5 black 1 red 16
+green 1 red 4 black 1 red 3 black 4 red 11
+green 1 red 3 black 1 red 3 black 1 black 1 red 4 black 1 red 5
+green 2 red 3 black 1 red 2 black 1 black 2 black 1 red 3 black 1 black 2 red 3
+green 2 red 3 black 1 red 2 black 1 black 2 black 1 red 3 black 1 black 1 red 2
+green 3 red 3 black 1 red 1 black 1 black 1 red 3 black 1 black 1 red 2
+green 3 red 3 black 1 red 1 black 1 black 2 red 4 black 1 black 1 red 2
+green 2 red 7 black 4 red 5 black 1 black 1 red 2
+green 2 red 6 black 4 red 6 black 1 black 1 red 2
+green 1 red 2 black 1 red 2 black 1 black 1 red 5 black 1 black 1 red 2
+red 3 black 1 red 1 black 1 black 2 black 1 red 5 black 1 black 1 red 2
+red 3 black 1 red 1 black 1 black 2 black 1 red 5 black 1 black 1 red 2
+red 3 black 1 red 1 black 1 black 1 red 5 black 1 black 1 red 2
+red 3 black 1 red 2 black 1 black 1 red 5 black 1 black 1 red 2
+red 4 black 1 red 1 black 5 red 6 black 1 black 1 red 3
+red 4 black 2 red 11 black 1 black 1 red 4
+red 5 black 1 red 12 black 1 red 5
+red 24
+red 22
+red 21
+red 19

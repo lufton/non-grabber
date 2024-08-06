@@ -1,0 +1,73 @@
+by "Jennifer Jones (geekess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jennifer Jones"
+date "Nov 25, 2008"
+description "...can't I? Somewhere Over the Rainbow."
+difficulty 1.75
+height 20
+id 4147
+link "https://webpbn.com/play.cgi?id=4147"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "WC #14 - Why oh Why..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 6 black 5 black 5 black 6
+black 5 black 3 black 3 black 3
+black 2 black 1 black 1 blue 2 blue 2 black 2
+black 1 blue 3 black 2
+black 1 blue 1 black 3
+black 2 blue 1 blue 1 black 2
+black 2 blue 2 blue 2 black 1
+black 1 blue 3
+black 1 red 6 blue 1 black 1
+black 2 red 4 green 4 red 4 black 2
+black 3 red 3 green 4 blue 2 green 4 red 3 black 2
+black 2 red 2 green 3 blue 8 green 3 red 2 black 1
+black 1 red 2 green 2 blue 3 blue 3 green 2 red 2 black 1
+black 1 red 2 green 2 blue 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 blue 2 green 2 red 2 black 3
+black 2 red 2 green 2 blue 2 blue 2 green 2 red 2 black 2
+black 1 red 2 green 2 blue 2 black 1 blue 2 green 2 red 2 black 1
+red 2 green 2 blue 2 black 1 black 2 black 3 blue 2 green 2 red 2
+red 1 green 2 blue 2 black 2 black 3 black 9 blue 2 green 2 red 1
+black 30
+
+columns
+black 17 red 2 black 1
+black 3 black 2 black 3 black 2 red 2 green 1 black 1
+black 2 black 1 red 2 green 2 black 1
+black 2 red 2 green 2 blue 1 black 1
+black 3 red 2 green 2 blue 2 black 1
+black 1 red 2 green 2 blue 2 black 2
+red 2 green 2 blue 2 black 2
+red 2 green 2 blue 2 black 1
+black 1 red 1 green 2 blue 2 black 1
+black 2 red 2 green 1 blue 2 black 1
+black 3 red 1 green 2 blue 1 black 2
+black 2 red 1 green 1 blue 2 black 3
+black 1 red 2 green 1 blue 1 black 2
+red 1 green 2 blue 1 black 1
+red 1 green 1 blue 2 black 1
+black 1 red 1 green 1 blue 2 black 1
+black 2 red 1 green 2 blue 1 black 2
+black 2 red 2 green 1 blue 1 black 3
+black 2 red 1 green 1 blue 2 black 3
+black 1 blue 1 blue 2 red 1 green 2 blue 1 black 2
+blue 2 blue 2 red 2 green 1 blue 2 black 2
+blue 2 blue 2 red 1 green 2 blue 2 black 3
+blue 2 blue 2 red 2 green 2 blue 2 black 4
+blue 1 blue 2 red 2 green 2 blue 2 black 3
+black 1 red 2 green 2 blue 2 black 2
+black 1 red 2 green 2 blue 2 black 1
+black 1 red 2 green 2 blue 1 black 1
+black 2 black 1 black 1 red 2 green 2 black 1
+black 6 black 2 black 3 red 2 green 1 black 1
+black 7 black 9 red 2 black 1

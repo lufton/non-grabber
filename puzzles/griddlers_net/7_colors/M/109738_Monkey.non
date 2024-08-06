@@ -1,0 +1,70 @@
+by "vilma_dan"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/2/11"
+height 26
+id 109738
+link "https://www.griddlers.net/nonogram/-/g/109738"
+medium_time "0:07:48"
+points 2108
+popularity 76.12
+title "Monkey"
+width 20
+
+color a ffffff
+color b 000000
+color c 996600
+color d ff0000
+color f ffcc00
+color g ff3333
+color h 00ff00
+
+rows
+c 6
+c 10
+c 12
+c 4 f 2 c 2 f 2 c 4
+c 2 f 10 c 2
+f 2 c 1 f 2 f 4 f 2 c 1 f 2
+f 2 c 2 f 1 b 1 f 4 b 1 f 1 c 2 f 2
+f 2 c 1 f 4 b 2 f 4 c 1 f 2
+c 2 f 10 c 2
+c 2 f 4 d 2 f 4 c 2
+c 2 f 8 c 2
+c 10
+h 2 g 2 h 4 g 2 h 2
+h 3 g 2 h 4 g 2 h 3
+c 1 h 3 g 8 h 3 c 1
+c 3 h 1 g 10 h 1 c 3
+c 5 g 10 c 5
+c 4 g 12 c 4
+c 2 g 12 c 2
+c 3 g 9 c 2
+c 5 g 6 c 5
+c 5 g 6 c 5
+c 6 g 4 c 6
+c 5 g 4 c 5
+c 4 g 4 c 4
+c 2 c 2
+
+columns
+c 2
+c 4
+f 3 c 5 c 3
+c 2 f 3 c 2 h 2 c 3 c 5
+c 9 h 4 c 1 g 2 c 6
+c 3 f 2 c 1 f 3 c 2 h 3 g 4 c 7
+c 3 f 7 c 1 g 8 c 6
+c 3 f 2 b 1 f 4 c 1 g 10 c 3
+c 3 f 8 c 1 h 2 g 11
+c 4 f 3 b 1 f 1 d 1 f 1 c 1 h 2 g 11
+c 4 f 3 b 1 f 1 d 1 f 1 c 1 h 2 g 11
+c 3 f 8 c 1 h 2 g 11
+c 3 f 2 b 1 f 4 c 1 g 10 c 3
+c 3 f 7 c 1 g 8 c 6
+c 3 f 2 c 1 f 3 c 2 h 3 g 5 c 6
+c 9 h 4 c 1 g 2 c 6
+c 2 f 3 c 2 h 2 c 3 c 5
+f 3 c 5 c 3
+c 4
+c 2

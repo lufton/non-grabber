@@ -1,0 +1,66 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Feb 13, 2021"
+description "Went to market"
+difficulty 1.25
+height 20
+id 34876
+link "https://webpbn.com/play.cgi?id=34876"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "This little piggie"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+red 1
+red 2
+red 4
+red 2 black 1 red 1
+red 8
+red 9
+red 6
+red 6
+red 10
+red 1 red 10 black 1
+red 1 red 8 black 9
+red 8 black 1 black 1
+red 5 black 1 black 1
+red 3 black 7
+red 3 black 1 black 1
+red 2 black 2 black 2
+red 2 black 2 black 2
+
+columns
+0
+red 1
+red 1 red 1
+red 5
+red 8
+red 9
+red 6
+red 7
+red 7
+red 8
+red 3 red 7
+red 9
+red 5 red 2
+red 1 black 1 red 2 red 2
+red 3 red 1 black 2
+red 2 black 1 black 2
+red 2 black 7
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 2
+black 7
+0
+0

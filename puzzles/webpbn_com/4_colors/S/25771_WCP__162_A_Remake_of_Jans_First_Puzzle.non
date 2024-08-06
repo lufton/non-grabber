@@ -1,0 +1,52 @@
+by "Carol Brand (KarylAnn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Carol Brand"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 15
+id 25771
+link "https://webpbn.com/play.cgi?id=25771"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP # 162 A Remake of Jan's First Puzzle"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 9
+black 11
+black 3 black 1 black 3
+black 2 black 3 black 3 black 2
+black 4 red 1 black 1 black 1 red 1 black 4
+black 4 blue 1 black 1 black 2 blue 1 black 5
+black 3 blue 1 black 2 black 3 blue 1 black 4
+black 5 black 9
+black 5 black 6
+black 13
+black 4 black 4
+black 2 black 5 black 2
+black 9
+black 5
+
+columns
+black 5
+black 9
+black 11
+black 3 black 2 blue 1 black 6
+black 2 black 1 blue 1 black 5 black 1
+black 3 black 1 red 1 black 2 black 1 black 3
+black 3 black 2 black 1 black 1 black 3
+black 4 black 3 black 1 black 3
+black 3 black 5 black 1 black 3
+black 3 black 1 red 1 blue 1 black 4 black 3
+black 2 black 1 black 1 blue 1 black 4 black 1
+black 3 black 9
+black 11
+black 9
+black 5

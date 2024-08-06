@@ -1,0 +1,82 @@
+by "Al LaPointe (kancamagus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Al LaPointe"
+date "Jun 15, 2017"
+description "From the Wikipedia article on "Defibrilation": "A circuit diagram showing the simplest (non-electronically controlled) defibrillator design, depending on the inductor (damping), producing a Lown, Edmark or Gurvich Waveform""
+difficulty 2.5
+height 21
+id 29913
+link "https://webpbn.com/play.cgi?id=29913"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What this group needs"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 1 black 1
+black 5 black 3 black 3 black 3
+black 8 black 10 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 3 black 3 black 4
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 5
+black 5 black 3 red 1 red 1
+red 5
+black 3 black 3 red 3
+black 1 black 1 red 1
+black 1 black 1 black 5
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 5 black 1 black 5 black 1
+black 8 black 11 black 7
+
+columns
+black 1
+black 1 black 1
+black 9 black 9
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 9 black 9
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 1
+black 2 black 1
+black 3 black 1
+black 2 black 1
+black 3 black 2
+black 2 black 1
+black 3 black 1
+black 2 black 1
+black 3 black 1
+black 2 black 1
+black 3 black 1
+black 2 black 1 red 1 black 1 black 1
+black 2 black 1 red 3 black 1 black 1
+black 8 red 3 black 7
+black 1 red 3 black 1
+black 1 red 1 black 1

@@ -1,0 +1,60 @@
+by "Bruce Yanoshek (yanogator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bruce Yanoshek"
+date "Jul 29, 2014"
+description "Marcel the shell with shoes on. http://www.youtube.com/watch?v=NfMG4zdKvnE"
+difficulty 3.0
+height 19
+id 25115
+link "https://webpbn.com/play.cgi?id=25115"
+note "published,definitely non-unique,may require much guessing"
+quality 2.25
+title "I apologize that the solution is not unique."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 1 black 1
+black 1 black 1
+black 1 black 2
+black 1 black 1 black 1
+black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 3 black 4 black 1 black 1
+black 5 black 2 black 4
+black 3 black 1 black 1 black 1
+black 1 black 5 black 1
+black 1 black 4 black 1
+black 1 red 5 black 2 red 5 black 1
+black 1 red 5 black 2 red 5 black 1
+black 1 black 2 black 1
+black 5 black 4
+
+columns
+black 3
+black 1 black 2
+black 1 black 3 black 4
+black 4 black 4 red 2 black 1
+black 2 black 3 red 2 black 1
+black 2 black 1 red 2 black 1
+black 1 black 1 black 1 red 2 black 1
+black 1 black 2 black 2 red 2 black 1
+black 1 black 2 black 5
+black 1 black 1 black 5
+black 1 black 2 red 2 black 1
+black 1 black 2 red 2 black 1
+black 1 black 7 red 2 black 1
+black 2 black 1 red 2 black 1
+black 1 black 2 red 2 black 1
+black 1 black 1 black 4
+black 5
+black 1 black 1
+black 3
+black 1

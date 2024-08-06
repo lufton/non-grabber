@@ -1,0 +1,46 @@
+by "K Chouinard (codenumerator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by K Chouinard"
+date "Dec 10, 2008"
+description "This is the logo for Yahoo. The collection of Yahoo sites receives over 3 billion hits a day and is the most visited website in the world. Of course, Google is better, but..."
+difficulty 1.75
+height 9
+id 4314
+link "https://webpbn.com/play.cgi?id=4314"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Not quite Google"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 7
+black 1 red 3 black 2 red 8
+red 3 red 2 black 1 red 2 black 1
+red 3 red 2 black 1 red 2 black 1
+red 4 black 1 red 3
+red 2 black 1 red 2 black 1
+red 2 black 1 black 1
+red 6 red 2
+black 6 black 1
+
+columns
+red 1
+red 1 black 1
+red 2
+red 3
+red 4 red 1 black 1
+red 1 black 1 red 3 red 1 black 1
+red 1 black 1 red 5 black 1
+red 4 black 1
+red 1 red 2 black 2 red 1 black 1
+red 3 black 1 red 1 black 1
+red 2 black 1
+red 1 black 1 red 1
+red 1 red 2 red 1 black 1
+red 5 black 1
+red 4 black 1
+red 1 black 2

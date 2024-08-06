@@ -1,0 +1,93 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "May 30, 2010"
+description ""
+difficulty 1.5
+height 40
+id 9000
+link "https://webpbn.com/play.cgi?id=9000"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Sunday Morning"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5 blue 7 blue 15
+blue 4 blue 5 blue 11 blue 1
+blue 5 blue 7 blue 11
+blue 13 blue 11 blue 1
+blue 12 blue 13
+blue 11 blue 12
+blue 10 blue 11
+blue 9 blue 10
+blue 8 blue 9
+blue 7 blue 8
+blue 6 blue 7
+blue 5 blue 6
+blue 5 blue 6
+blue 5 blue 6
+blue 5 blue 6
+blue 5 blue 6
+blue 5 blue 6
+blue 5 blue 6
+blue 5 blue 1 green 1 red 2 blue 6
+blue 5 blue 1 green 1 red 1 blue 1 blue 2 green 2 blue 6
+blue 5 red 2 blue 1 green 1 blue 1 red 1 blue 1 red 1 blue 6
+blue 5 green 1 blue 1 red 1 blue 1 green 1 red 1 blue 1 green 1 blue 6
+blue 5 blue 1 red 1 blue 1 green 1 red 1 green 1 red 1 blue 1 blue 6
+blue 5 black 1 blue 6
+blue 5 black 3 blue 6
+blue 5 black 5 blue 6
+blue 5 black 5 blue 6
+blue 5 black 5 blue 6
+blue 5 black 5 blue 6
+blue 5 black 5 blue 6
+green 12 green 13
+green 5 red 1 green 7 green 6 red 1 green 5
+green 4 red 3 green 7 green 4 red 3 green 4
+green 15 green 10
+green 16 green 9
+0
+0
+0
+green 30
+green 30
+
+columns
+blue 30 green 5 green 2
+blue 30 green 5 green 2
+blue 30 green 5 green 2
+blue 30 green 5 green 2
+blue 1 blue 28 green 2 red 1 green 2 green 2
+blue 8 green 1 red 2 green 2 green 2
+blue 7 green 2 red 1 green 2 green 2
+blue 1 blue 7 blue 1 red 1 green 1 blue 1 green 5 green 2
+blue 8 blue 1 green 1 red 1 blue 1 red 1 green 5 green 2
+blue 7 green 1 red 1 blue 1 red 1 blue 1 green 5 green 2
+blue 6 blue 1 green 1 blue 1 green 1 green 5 green 2
+blue 5 green 5 green 2
+blue 4 black 5 green 4 green 2
+blue 1 blue 1 black 6 green 3 green 2
+black 7 green 2 green 2
+blue 1 blue 1 black 6 green 1 green 2
+blue 4 black 5 green 2
+blue 5 blue 2 green 1 red 1 green 1 green 2
+blue 6 red 1 blue 1 red 2 green 1 green 2 green 2
+blue 7 red 1 green 1 blue 2 red 1 green 3 green 2
+blue 8 green 1 red 1 green 1 blue 1 green 4 green 2
+blue 9 green 5 green 2
+blue 10 green 5 green 2
+blue 11 green 2 red 1 green 2 green 2
+blue 30 green 1 red 2 green 2 green 2
+blue 30 green 2 red 1 green 2 green 2
+blue 2 blue 27 green 5 green 2
+blue 1 blue 26 green 5 green 2
+blue 1 blue 26 green 5 green 2
+blue 2 blue 27 green 5 green 2

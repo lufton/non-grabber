@@ -1,0 +1,71 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Jan 17, 2011"
+description "My kid knows his bugs! by Chris, age 9. Its a praying-mantis!"
+difficulty 3.75
+height 25
+id 11791
+link "https://webpbn.com/play.cgi?id=11791"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "creeper (by Chris)"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+0
+black 1 black 1
+black 1 green 1 black 1 black 1 green 1 black 1
+black 1 green 1 black 5 green 1 black 1
+black 1 green 5 black 1
+black 1 green 3 black 1 green 1 black 5
+black 2 green 1 black 2 green 2 black 1 black 4
+black 1 black 1 black 2 green 2 black 1 black 2
+black 2 black 2 black 1 green 2 black 9
+black 1 green 3 black 1 black 2
+black 1 green 1 black 2 green 2 black 1
+black 1 green 1 black 1 black 1 green 2 black 1
+black 1 green 1 black 1 black 1 black 1 green 2 black 1
+black 2 black 2 black 7
+black 1 black 2 black 2 green 1 black 1 black 1 green 1 black 2
+black 3 black 2 green 1 black 1 black 1 green 1 black 2
+black 1 black 2 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1
+0
+0
+0
+
+columns
+0
+0
+black 2
+black 1 green 2 black 1
+black 2 green 1 black 4
+black 1 green 2 black 1 black 1
+black 1 green 3 black 1
+black 1 green 2 black 1 black 1 black 4
+black 2 green 1 black 4 black 1 green 1 black 1 black 2
+black 1 green 2 black 1 green 2 black 1 black 1 green 1 black 1 black 2
+black 2 black 1 green 2 black 2 green 1 black 1 black 2
+black 2 green 3 black 1 black 2 black 4
+black 1 black 1 green 2 black 1 black 2
+black 1 black 1 green 2 black 1 black 2
+black 1 black 2 green 2 black 1 black 1 green 1 black 3
+black 1 black 1 black 1 green 2 black 1 green 1 black 1
+black 1 black 1 black 1 green 1 black 2
+black 1 black 1 black 2
+black 3 black 1
+black 2 black 2
+black 2 black 1 green 1 black 1
+black 2 black 2 green 1 black 3
+black 2
+black 2
+black 3

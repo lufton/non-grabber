@@ -1,0 +1,38 @@
+by "machineofgreen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/10/08"
+height 8
+id 59465
+link "https://www.griddlers.net/nonogram/-/g/59465"
+medium_time "0:02:30"
+points 495
+popularity 50.64
+title "Baseball"
+width 8
+
+color a ffffff
+color b 000000
+color c ff0000
+color d 999999
+color e cccccc
+
+rows
+b 4
+b 1 c 1 e 1 b 1
+b 1 c 1 e 1 d 1 b 1
+b 1 c 1 e 1 c 1 e 1 d 1 b 1
+b 1 c 2 e 1 d 1 c 1 b 1
+b 1 e 3 d 1 c 1 d 1 b 1
+b 1 d 2 c 1 d 1 b 1
+b 4
+
+columns
+b 4
+b 1 c 1 e 1 b 1
+b 1 c 1 e 1 d 1 b 1
+b 1 c 1 e 1 c 1 e 1 d 1 b 1
+b 1 c 2 e 1 d 1 c 1 b 1
+b 1 e 3 d 1 c 1 d 1 b 1
+b 1 d 2 c 1 d 1 b 1
+b 4

@@ -1,0 +1,101 @@
+by "vivimagi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/10/07"
+height 47
+id 54985
+link "https://www.griddlers.net/nonogram/-/g/54985"
+medium_time "0:44:36"
+points 67211
+popularity 88.59
+title "Grapes"
+width 30
+
+color a ffffff
+color b 33cc00
+color c 009900
+color d 6c483c
+color f d9a6a4
+color g f3b1b6
+color h c14d51
+
+rows
+b 1
+b 2 b 3
+b 2 c 2 b 1 c 1 b 2
+b 4 c 1 b 1
+b 4
+b 6
+b 1 c 1 b 2
+b 1 c 1 b 1
+b 3 b 4
+b 2 c 1 b 2
+b 1 c 1 b 2 c 3
+b 3 c 7 b 3 c 2
+c 2 b 4 c 1 b 5 c 4
+c 2 b 1 c 1 b 5 c 2 b 7 c 1
+c 2 b 3 c 2 b 5 c 2 b 7 c 1
+c 2 b 6 c 1 b 7 c 8
+c 1 b 7 c 1 b 7 c 1 g 1 d 1
+c 1 b 8 c 1 b 7 c 1 g 3 d 1
+c 1 b 8 c 1 b 8 c 1 g 1 f 1 d 1
+c 1 b 7 c 1 h 1 c 1 b 7 c 1 d 1 f 1 d 2
+c 1 b 7 c 1 d 2 c 1 b 7 c 1 g 1 d 1 g 1 d 1
+c 1 b 6 c 2 h 1 f 1 c 2 b 7 c 1 g 1 d 1 g 2 d 1
+c 1 b 6 c 1 h 2 f 1 g 1 c 4 b 4 c 1 g 1 d 1 f 1 g 1 d 1
+c 1 b 4 c 1 d 2 h 3 f 1 h 1 d 1 f 1 g 1 c 1 b 3 c 1 f 1 d 1 f 1 g 1 d 1
+c 1 b 4 c 1 d 3 h 3 d 1 h 1 f 1 g 2 c 4 d 2 h 2
+c 4 d 1 h 2 d 3 h 1 d 2 h 1 f 1 g 3 d 1 f 1 g 1 g 2 d 1
+c 2 d 2 h 2 d 7 h 2 f 2 d 1 f 1 g 3 d 1 d 1
+c 2 d 2 h 2 f 1 d 3 h 1 d 7 f 2 g 1 f 1 d 1 g 1 d 1
+c 1 d 3 h 3 d 2 h 1 f 1 d 4 f 1 g 1 d 1 h 3 f 2 d 1
+d 4 h 1 d 2 h 3 f 1 h 1 d 1 f 2 g 2 d 3 f 1 h 1
+d 7 h 4 d 1 h 1 f 1 g 2 d 1 g 2 d 2
+d 1 h 1 f 1 d 4 h 1 d 3 h 1 f 1 g 1 d 1 g 3 d 1
+d 2 h 2 f 1 d 2 h 1 f 1 g 1 f 1 d 2 h 1 d 1 h 1 f 1 g 2 d 1
+d 2 h 3 d 2 h 1 f 1 g 2 d 5 f 3 d 1
+d 3 h 2 d 2 h 1 f 2 g 1 d 2 f 2 d 2 h 2 d 1
+d 7 h 2 f 1 d 1 f 1 g 2 d 4
+d 3 h 1 d 5 h 1 f 3 d 1 g 1 f 1 d 1
+d 2 h 1 d 6 h 3 d 1 g 1 d 1
+d 2 h 3 d 1 h 1 d 5 f 1 g 3 d 1
+d 3 h 2 d 1 h 2 d 4 f 1 g 3 d 1
+d 5 h 4 d 3 h 1 f 1 d 1
+d 3 h 1 d 1 h 1 f 1 g 2 d 1
+d 5 h 1 g 3 d 1
+d 3 h 1 f 2 g 1 d 1
+d 3 f 3 d 1
+d 6
+d 4
+
+columns
+b 3
+b 3
+c 1 b 1
+c 1 b 1
+b 4 c 9
+b 1 c 2 b 2 c 3 b 5 c 3
+b 2 b 5 c 2 b 8 c 1
+b 4 c 2 b 1 c 1 b 9 c 1 d 4
+b 1 b 2 c 1 b 10 d 6
+b 1 b 3 c 1 b 8 c 2 h 3 d 3 d 3
+b 2 b 1 c 2 b 1 c 1 b 9 d 2 h 4 d 7
+b 3 b 1 c 1 b 7 c 2 d 4 f 1 h 2 d 1 h 3 d 3
+b 1 c 2 b 7 c 2 h 2 d 4 h 1 d 2 f 1 h 3 d 5
+b 3 c 4 b 4 c 1 d 1 h 4 d 7 f 1 h 2 d 6
+b 2 c 1 b 2 c 5 h 1 d 1 f 2 h 3 d 3 h 1 d 6 h 3 d 2
+c 1 b 7 c 3 g 1 f 1 h 1 d 2 h 4 d 7 h 2 d 1
+c 1 b 9 c 2 h 1 d 4 f 1 h 2 d 1 h 3 d 3 h 2 d 1
+c 1 b 10 c 1 d 1 h 2 d 3 f 1 h 2 f 3 h 1 d 7
+c 2 b 9 c 1 f 3 h 1 d 2 h 2 d 1 g 2 f 1 h 1 d 2 h 3 d 2
+c 1 b 2 c 1 b 8 c 1 g 3 h 1 d 5 f 1 g 2 f 1 d 3 h 2 d 3
+c 1 b 2 c 2 b 8 c 1 g 2 f 1 d 2 f 1 h 1 d 5 h 1 d 3 h 2 d 3
+c 1 b 3 c 1 b 9 c 1 g 1 f 1 d 1 f 3 h 1 d 3 f 2 h 1 d 2 h 1 d 5
+c 1 b 3 c 3 b 6 c 1 d 3 g 3 f 1 h 1 d 1 f 1 g 1 f 1 h 1 d 3 h 3 d 3
+c 1 b 3 c 1 g 2 c 3 b 3 c 1 f 3 d 1 g 3 d 2 f 1 g 1 f 1 h 1 d 3 f 1 g 1 f 2 d 2
+c 1 b 2 c 1 g 2 d 1 g 1 c 4 g 2 f 1 h 1 d 3 h 1 d 5 f 2 d 1 g 2 f 2 d 2
+c 1 b 2 c 1 d 1 g 1 f 2 g 2 f 1 d 1 g 2 h 1 d 1 g 2 f 2 d 2 g 4 h 1 g 3 f 1 d 2
+c 1 b 2 c 1 d 8 g 2 f 1 h 1 d 1 g 3 f 1 h 1 d 1 f 1 g 2 f 1 d 5
+c 1 b 2 c 1 d 1 g 2 f 2 h 1 g 1 d 2 f 2 d 1 g 2 f 1 h 1 d 3 g 2 d 1
+c 1 b 1 c 1 d 1 g 3 h 1 d 1 g 1 f 1 h 1 d 5 d 2
+c 2 d 3 d 3

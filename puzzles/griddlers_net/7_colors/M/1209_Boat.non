@@ -1,0 +1,64 @@
+by "Merlin"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/2/02"
+height 20
+id 1209
+link "https://www.griddlers.net/nonogram/-/g/1209"
+medium_time "0:03:12"
+points 835
+popularity 54.91
+title "Boat"
+width 20
+
+color a ffffff
+color b f5f52f
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color f f50000
+color h 000000
+
+rows
+0
+b 3 e 1 e 4
+b 5 e 5 e 2
+b 5 e 1 e 6
+b 3 e 3 e 2
+0
+0
+h 1
+f 1 h 1 c 1
+f 2 h 1 c 2
+f 3 h 1 c 3
+f 4 h 1
+f 5 h 1
+h 1
+h 1
+h 12
+h 10
+d 2 d 1 h 1 d 1 h 3 d 1 h 2 d 1 d 1 d 1
+d 20
+d 20
+
+columns
+d 2
+b 2 d 3
+b 4 d 3
+b 4 d 2
+b 4 h 1 d 2
+b 2 f 1 h 2 d 3
+f 2 h 3 d 2
+f 3 h 2 d 3
+f 4 h 3 d 2
+f 5 h 3 d 2
+h 11 d 2
+e 2 c 3 h 2 d 3
+e 2 e 1 c 2 h 3 d 2
+e 3 c 1 h 3 d 2
+e 4 h 2 d 3
+e 3 h 1 d 2
+e 1 e 2 d 3
+e 4 d 2
+e 2 d 3
+d 2

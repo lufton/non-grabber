@@ -1,0 +1,51 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Kristen Vognild"
+date "Apr  6, 2018"
+description "Attempted Murder"
+difficulty 1.5
+height 15
+id 31052
+link "https://webpbn.com/play.cgi?id=31052"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "inspired by Norma's 31045"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+black 2
+black 3
+black 5
+black 4
+black 4
+black 1
+black 2 green 1
+green 1
+green 2
+green 3 green 2
+green 1 green 2 green 2
+green 2 green 1 green 1 green 2
+green 8 green 3
+
+columns
+black 1 black 1 green 1
+black 5 green 2
+black 3 black 1 green 3
+black 3 green 1
+black 4 green 1
+black 2 green 1
+black 1 green 2
+green 1
+green 1
+green 1
+green 2
+green 3
+green 1
+green 7
+green 4

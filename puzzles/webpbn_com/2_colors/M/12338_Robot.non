@@ -1,0 +1,57 @@
+by "cuhlone (cuhlone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by cuhlone"
+date "Feb 20, 2011"
+description ""
+difficulty 1.25
+height 20
+id 12338
+link "https://webpbn.com/play.cgi?id=12338"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Robot"
+width 20
+
+rows
+6
+1,1
+1,2,1
+1,1
+6
+2
+2,2,2
+1,8,1
+4,2,4
+1,2,1
+1,1
+8
+2
+2
+8
+1,1
+1,1
+8
+1,1
+2,2
+
+columns
+0
+0
+1
+3
+1
+1
+5,4
+5,1,1,1,1,1
+1,1,1,1,1,3
+1,1,6,4,1
+1,1,6,4,1
+1,1,1,1,1,3
+5,1,1,1,1,1
+5,4
+1
+1
+3
+1
+0
+0

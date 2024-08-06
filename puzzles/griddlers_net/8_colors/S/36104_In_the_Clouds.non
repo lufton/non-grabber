@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/26/06"
+height 13
+id 36104
+link "https://www.griddlers.net/nonogram/-/g/36104"
+medium_time "0:02:53"
+points 1933
+popularity 56.99
+title "In the Clouds"
+width 14
+
+color a 0066ff
+color b ffffff
+color c ff9900
+color d ff0000
+color e ffff00
+color f 33cc00
+color g 66ccff
+color h 6600cc
+
+rows
+d 8
+d 1 c 8 d 1
+d 1 c 2 e 6 c 2 d 1
+d 1 c 2 e 1 f 6 e 1 c 2 d 1
+d 1 c 1 e 1 f 2 g 4 f 2 e 1 c 1 d 1
+d 1 c 1 e 1 f 1 g 2 h 2 g 2 f 1 e 1 c 1 d 1
+d 1 c 1 e 1 f 1 g 1 h 1 h 1 g 1 f 1 e 1 c 1 d 1
+d 1 c 1 e 1 f 1 g 1 h 1 h 1 g 1 f 1 e 1 c 1 d 1
+d 1 b 1 e 1 b 1 g 1 b 1 b 1 g 1 b 1 e 1 b 1 d 1
+b 14
+b 12
+b 4 b 4
+b 3 b 3
+
+columns
+d 6 b 1
+d 1 c 5 b 3
+d 1 c 2 e 5 b 4
+d 1 c 2 e 1 f 4 b 5
+d 1 c 1 e 1 f 2 g 4 b 4
+d 1 c 1 e 1 f 1 g 2 h 2 b 4
+d 1 c 1 e 1 f 1 g 1 h 1 b 2
+d 1 c 1 e 1 f 1 g 1 h 1 b 2
+d 1 c 1 e 1 f 1 g 2 h 2 b 4
+d 1 c 1 e 1 f 2 g 4 b 4
+d 1 c 2 e 1 f 4 b 5
+d 1 c 2 e 5 b 4
+d 1 c 5 b 3
+d 6 b 1

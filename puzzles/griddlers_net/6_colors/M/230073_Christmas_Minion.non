@@ -1,0 +1,58 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/23/21"
+height 20
+id 230073
+link "https://www.griddlers.net/nonogram/-/g/230073"
+medium_time "0:05:17"
+points 912
+popularity 83.97
+title "Christmas Minion"
+width 15
+
+color a 99ccff
+color b de0609
+color c 999999
+color d ffcc00
+color e 000000
+color f ffffff
+
+rows
+b 3
+b 5
+b 1 f 5 b 1
+f 9
+f 2 d 7 f 2
+d 1 c 2 d 1 c 2 d 3 b 1
+c 1 e 1 f 1 c 1 e 1 f 1 c 1 e 2 b 2
+c 1 f 2 c 1 f 2 c 1 e 2 b 2 f 2
+d 1 c 2 d 1 c 2 d 3 f 4
+d 9 f 4
+d 5 e 1 d 3 f 2
+d 2 e 3 d 4
+b 1 d 7 b 1
+d 1 b 7 d 1
+d 2 e 1 b 3 e 1 d 2
+d 2 b 5 d 2
+d 1 b 7 d 1
+e 2 b 7 e 2
+e 1 b 1 e 2 b 1 e 2 b 1 e 1
+e 3 e 3
+
+columns
+f 1 e 1
+f 2 d 1 c 2 d 4 b 1 d 4 e 2
+b 1 f 1 d 1 c 1 e 1 f 1 c 1 d 4 b 1 d 2 b 3 e 1
+b 1 f 2 d 1 c 1 f 2 c 1 d 2 e 1 d 1 b 1 e 1 b 3 e 2
+b 2 f 2 d 2 c 2 d 3 e 1 d 1 b 5 e 2
+b 2 f 2 d 1 c 1 e 1 f 1 c 1 d 2 e 1 d 1 b 6
+b 2 f 2 d 1 c 1 f 2 c 1 d 1 e 1 d 2 b 5 e 2
+b 1 f 2 d 2 c 2 d 5 b 1 e 1 b 3 e 2
+b 1 f 1 d 2 e 2 d 5 b 1 d 2 b 3 e 1
+f 2 d 1 e 2 d 4 b 1 d 4 e 2
+f 1 b 3 e 1
+b 2 f 2
+f 4
+f 4
+f 2

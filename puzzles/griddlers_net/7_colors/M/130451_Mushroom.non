@@ -1,0 +1,69 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/15/12"
+height 25
+id 130451
+link "https://www.griddlers.net/nonogram/-/g/130451"
+medium_time "0:07:07"
+points 2250
+popularity 79.41
+title "Mushroom"
+width 20
+
+color a ffffff
+color b cb6c1c
+color c 6b1e16
+color d be8e78
+color e e09402
+color f 487e44
+color g a8b106
+
+rows
+b 5
+b 2 c 1 b 4
+b 3 c 1 b 5
+c 1 b 1 c 2 b 7
+c 7 b 6
+c 8 b 1 c 1 b 5
+c 10 b 6
+c 11 b 1 c 1 b 5
+c 13 b 1 c 2 b 2
+c 8 d 3 c 6 b 2
+c 8 d 5 c 5
+c 5 d 9 c 2
+b 2 e 4
+b 3 e 5
+b 3 e 5
+b 3 e 6
+b 4 e 7
+b 4 e 7
+b 5 e 6
+b 7 e 5
+b 8 e 2 f 1
+f 1 b 7 f 1 e 1 g 1 f 2 g 2
+f 1 b 6 f 1 e 2 g 1 f 1 g 2
+g 1 f 2 g 8 f 6 g 1
+g 1 f 13 g 1 f 2
+
+columns
+g 2
+c 2 f 1 f 2
+c 5 f 3
+c 7 b 3 g 1 f 1
+c 8 b 7 g 1 f 1
+b 1 c 9 b 8 g 1 f 1
+b 3 c 8 b 10 g 1 f 1
+b 3 c 8 d 1 b 11 g 1 f 1
+b 1 c 10 d 1 b 3 e 3 b 5 g 1 f 1
+b 4 c 5 d 3 e 7 b 3 f 1 g 1 f 1
+b 4 c 5 d 3 e 7 b 2 f 1 e 1 g 1 f 1
+b 6 c 3 d 3 e 11 f 2
+b 4 c 5 d 2 e 9 g 2 f 2
+b 6 c 2 d 2 e 7 f 5
+b 4 c 4 d 1 e 4 f 1 g 1 f 1 g 1
+b 6 c 2 d 1 e 1 g 2 f 2
+b 4 c 4 g 1 f 2
+b 3 c 4 g 1
+b 4 c 1
+b 3

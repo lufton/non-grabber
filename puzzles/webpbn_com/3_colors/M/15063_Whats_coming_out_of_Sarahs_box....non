@@ -1,0 +1,53 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jul  3, 2011"
+description "It's a music box."
+difficulty 1.5
+height 12
+id 15063
+link "https://webpbn.com/play.cgi?id=15063"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What's coming out of Sarah's box..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 4
+blue 9 black 1 black 1 black 2
+blue 1 blue 1 black 1 black 1 black 1
+blue 1 blue 1 black 2 black 2 black 1
+blue 1 blue 1 black 2
+blue 9 black 1 black 2
+blue 1 black 2 black 2 blue 1 black 1
+blue 1 black 3 black 1 blue 1 black 2 black 4
+blue 10 black 2 black 1 black 1
+blue 11 black 1 black 1
+blue 9 black 2 black 2
+
+columns
+blue 4
+blue 1 blue 3
+blue 5 blue 3
+blue 1 blue 1 black 1 blue 3
+blue 1 blue 1 black 2 blue 3
+blue 1 blue 1 black 2 blue 3
+blue 1 blue 1 blue 3
+blue 1 blue 1 black 2 blue 3
+blue 1 blue 1 black 1 blue 3
+blue 1 blue 1 blue 3
+blue 6 black 2 blue 1
+black 1 black 4
+black 4
+black 1 black 1
+black 1 black 1 black 4
+black 4 black 1
+black 2 black 1 black 1
+black 5 black 4
+black 1
+0

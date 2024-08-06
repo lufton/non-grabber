@@ -1,0 +1,101 @@
+by "nasa17"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/8/04"
+height 40
+id 7147
+link "https://www.griddlers.net/nonogram/-/g/7147"
+medium_time "0:26:12"
+points 63683
+popularity 51.41
+title "Green Lady"
+width 40
+
+color a ffffff
+color c 00ff00
+color g 808080
+color h 000000
+
+rows
+h 5
+h 10
+h 4 c 5 h 3
+h 3 c 9 h 2
+h 2 c 12 h 2
+h 1 c 9 h 3 c 1 h 2
+h 2 c 9 h 1 h 1 c 2 h 2
+h 2 c 2 h 4 c 1 h 3 h 1 c 2 h 2
+h 1 c 3 h 1 h 3 h 1 c 3 h 1
+h 1 c 3 h 2 h 1 c 3 h 2
+h 1 c 3 h 3 h 3 c 3 h 2
+h 1 c 3 h 4 h 3 c 4 h 2
+h 1 c 3 h 1 h 1 h 2 c 4 h 3
+h 1 c 3 h 1 h 2 h 3 c 4 h 7
+h 1 c 3 h 1 h 1 c 4 h 3 g 3 h 4
+h 1 c 3 h 1 h 1 c 4 h 1 g 6 h 4
+h 3 c 3 h 1 h 1 h 1 h 2 c 3 h 1 g 1 g 5 h 2
+h 5 c 4 h 2 h 1 c 3 h 1 g 1 g 3 h 2
+h 7 c 4 h 2 h 1 c 3 h 1 g 1 g 2 h 2
+h 3 g 3 h 2 c 5 h 1 h 1 c 3 h 1 g 1 g 2 h 2
+h 2 g 3 h 2 c 6 h 2 h 3 h 2 c 3 h 1 g 1 g 2 h 2
+h 2 g 2 h 1 c 9 h 2 h 3 c 3 h 1 g 1 g 1 h 2
+h 2 g 2 h 1 c 6 h 6 h 5 c 3 h 1 g 1 g 1 h 2
+h 2 g 2 h 3 c 3 h 15 c 2 h 1 g 1 g 1 h 2
+h 2 g 4 h 2 c 2 h 2 h 10 c 2 h 1 g 1 g 1 h 2
+h 2 g 1 g 2 h 5 h 7 h 1 c 2 h 1 g 1 g 1 h 2
+h 2 g 1 g 3 h 3 h 4 h 1 c 1 h 2 g 1 g 2 h 2
+h 2 g 1 g 3 h 2 h 2 h 2 c 1 h 1 g 1 g 2 h 3
+h 2 g 1 g 2 h 2 h 2 h 4 g 1 g 2 h 3
+h 2 g 1 g 2 h 1 h 2 h 2 g 2 g 2 h 3
+h 2 g 1 g 1 h 2 h 2 h 2 g 2 g 2 h 4
+h 3 g 1 h 3 h 2 h 2 g 2 g 2 h 2
+h 2 g 3 g 1 h 3 h 2 h 2 g 2 g 3 h 3
+h 4 g 2 g 2 h 2 h 2 h 1 g 2 g 3 h 3
+h 4 g 3 g 2 h 5 g 2 g 3 h 4
+h 4 g 2 g 6 g 3 h 4
+h 3 g 3 g 4 h 5
+h 3 g 9 h 8
+h 18
+h 18
+
+columns
+h 13
+h 15
+h 2 g 11 h 4
+h 1 g 6 g 2 h 2
+h 2 g 2 h 3 g 1 g 1 h 2
+h 2 g 1 h 1 c 2 h 1 g 2 g 2 h 2
+h 4 c 2 h 2 g 1 g 2 h 1
+h 4 c 4 h 2 g 1 g 1 h 2
+h 3 c 6 h 1 g 2 g 1 h 2
+h 11 c 8 h 1 g 3 g 1 h 2
+h 4 c 15 h 4 g 3 g 2 h 1
+h 2 c 17 h 7 g 2 g 1 h 3
+h 2 c 18 h 2 h 6 g 2 g 2 h 2
+h 2 c 3 h 14 c 1 h 2 h 3 g 2 g 1 h 2
+h 2 c 4 h 1 h 3 h 2 h 4 h 3 g 2 g 1 h 2
+h 2 c 4 h 1 h 4 h 5 h 3 g 1 g 1 h 2
+h 2 c 5 h 2 h 1 h 1 h 5 h 1 g 1 g 1 h 2
+h 2 c 6 h 1 h 1 h 1 h 12 g 1 g 1 h 2
+h 2 c 5 h 2 h 1 h 12 g 1 g 1 h 2
+h 2 c 5 h 1 h 1 h 1 h 5 h 1 g 1 g 1 h 2
+h 2 c 3 h 3 h 2 h 1 h 4 h 2 g 1 g 2 h 2
+h 2 c 2 h 1 h 4 h 5 h 2 g 2 g 1 h 3
+h 2 c 2 h 12 h 5 h 2 g 2 g 1 h 3
+h 3 c 12 h 9 h 4 g 2 g 2 h 3
+h 3 c 17 h 7 g 2 g 2 h 4
+h 4 c 20 h 1 g 2 g 2 h 4
+h 5 c 15 h 3 g 1 g 2 h 5
+h 18 g 2 g 2 h 6
+h 4 g 12 g 2 h 6
+h 3 g 1 g 3 h 3
+h 1 g 2 g 2 h 3
+h 1 g 3 h 4
+h 1 g 3 g 2 h 3
+h 2 g 3 g 3 h 1
+h 2 g 5 g 2 h 3
+h 2 g 11 h 3
+h 16
+h 13
+0
+0

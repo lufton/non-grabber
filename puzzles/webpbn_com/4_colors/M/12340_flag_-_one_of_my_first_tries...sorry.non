@@ -1,0 +1,62 @@
+by "cuhlone (cuhlone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by cuhlone"
+date "Feb 20, 2011"
+description ""
+difficulty 1.25
+height 10
+id 12340
+link "https://webpbn.com/play.cgi?id=12340"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "flag - one of my first tries...sorry!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 30
+black 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 red 21 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 red 21 black 1
+black 1 black 1
+black 1 red 28 black 1
+black 1 black 1
+black 1 red 28 black 1
+black 30
+
+columns
+black 10
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 10

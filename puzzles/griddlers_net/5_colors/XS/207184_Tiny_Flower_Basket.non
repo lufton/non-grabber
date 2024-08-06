@@ -1,0 +1,38 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/20"
+height 7
+id 207184
+link "https://www.griddlers.net/nonogram/-/g/207184"
+medium_time "0:00:52"
+points 102
+popularity 73.09
+title "Tiny Flower Basket"
+width 9
+
+color a ffffff
+color c 009900
+color d 006600
+color e ffcc00
+color f ff0033
+
+rows
+f 1 f 1
+c 2 e 1 c 1 d 1
+c 2 d 1 e 1 c 2 d 1
+c 2 d 2 e 1 c 1 d 3
+c 1 e 7 d 1
+e 5
+e 5
+
+columns
+c 2
+c 2 e 1
+c 2 d 1 e 3
+f 1 c 1 d 2 e 3
+e 6
+f 1 c 3 e 3
+d 1 c 1 d 1 e 3
+d 2 e 1
+d 2

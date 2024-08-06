@@ -1,0 +1,72 @@
+by "puzzledtea"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/17/23"
+height 24
+id 275593
+link "https://www.griddlers.net/nonogram/-/g/275593"
+medium_time "0:08:07"
+points 5934
+popularity 81.25
+title "Fruit Machine"
+width 24
+
+color a ffffff
+color b 000000
+color c ff0000
+color d 00ff00
+color e 009900
+color g FFD700
+color h 808080
+
+rows
+g 2
+c 2 c 2 g 2 g 1
+c 4 c 4 g 4
+b 14 g 2
+b 16 h 2
+b 1 b 1 h 2
+b 18 h 2
+b 1 h 16 b 1 h 2
+b 1 h 1 g 4 h 1 c 4 h 1 d 3 h 1 b 1 h 2
+b 1 h 1 g 2 g 1 h 1 c 4 h 1 d 1 e 2 c 1 h 1 b 1 h 2
+b 1 h 1 g 2 g 1 h 1 c 2 h 1 e 2 c 1 b 1 h 1 b 1 h 3
+b 1 h 1 g 1 g 2 h 1 c 2 h 1 d 2 c 2 h 1 b 1 h 4
+b 1 h 1 g 2 h 1 c 2 h 1 d 2 b 1 c 1 h 1 b 1 h 3
+b 1 h 1 h 1 c 2 h 1 e 2 c 2 h 1 b 1
+b 1 h 1 c 4 h 1 c 2 h 1 d 1 e 2 b 1 h 1 b 1
+b 1 h 1 c 4 h 1 c 2 h 1 d 3 h 1 b 1
+b 1 h 16 b 1
+b 3 g 2 b 3 c 2 b 3 d 2 b 3
+b 2 g 1 b 3 c 1 b 3 d 1 b 2
+b 16
+b 16
+b 4 b 4
+b 5 b 5
+b 16
+
+columns
+b 12
+b 3 h 10 b 7
+b 2 b 1 h 1 g 4 c 2 h 1 b 7
+c 1 b 2 b 1 h 1 g 3 g 1 c 2 h 1 g 2 b 5
+c 2 b 2 b 1 h 1 g 1 g 2 c 2 h 1 g 1 b 5
+c 2 b 2 b 1 h 1 g 4 c 2 h 1 b 4 b 2
+c 1 b 2 b 1 h 10 b 4 b 1
+b 2 b 1 h 1 c 2 c 3 h 1 b 4 b 1
+b 2 b 1 h 1 c 2 c 5 h 1 c 2 b 2 b 1
+b 2 b 1 h 1 c 5 h 1 c 1 b 2 b 1
+b 2 b 1 h 1 c 3 h 1 b 4 b 1
+c 1 b 2 b 1 h 10 b 4 b 1
+c 2 b 2 b 1 h 1 d 1 e 1 d 2 e 1 d 1 h 1 b 4 b 2
+c 2 b 2 b 1 h 1 d 1 e 2 d 2 e 2 d 1 h 1 d 2 b 5
+c 1 b 2 b 1 h 1 d 1 e 1 c 2 b 1 c 1 e 1 d 1 h 1 d 1 b 5
+b 2 b 1 h 1 d 1 c 1 b 1 c 3 b 1 d 1 h 1 b 7
+b 3 h 10 b 7
+b 12
+h 2
+h 2
+g 2 h 3
+g 4 h 8
+g 1 g 2 h 7
+g 2

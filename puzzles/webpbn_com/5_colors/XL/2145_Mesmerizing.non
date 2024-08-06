@@ -1,0 +1,91 @@
+by "Jake Griffin (jako7286)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jake Griffin"
+date "Jan 10, 2008"
+description "The title is sort of a double meaning. The alternating colors is kinda "mesmerizing" and so is the book that the boy is reading :) I thought I'd try a little different technique with this puzzle as you may have noticed. Let me know what you guys think!"
+difficulty 2.5
+height 34
+id 2145
+link "https://webpbn.com/play.cgi?id=2145"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Mesmerizing"
+width 34
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 34
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 6 black 1
+black 1 red 9 black 1
+black 1 green 11 black 1
+black 1 red 1 green 1 blue 12 black 1
+black 1 black 1 red 1 green 1 blue 1 black 12 black 1
+black 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 11 black 1
+black 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 10 black 1
+black 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 9 black 1
+black 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 7 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 4 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 2 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1
+black 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 green 1 blue 1 black 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 blue 1 green 1 red 1 black 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 3 red 1 black 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 2 red 5 black 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 3 black 7 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 4 blue 9 green 1 red 1 black 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 5 green 11 red 1 black 1 blue 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 7 red 12 black 1 black 1
+black 1 red 1 green 1 blue 1 black 8 black 12 black 1
+black 1 red 1 green 1 blue 9 blue 13 black 1
+black 1 red 1 green 10 green 13 black 1
+black 1 red 11 red 13 black 1
+black 34
+
+columns
+black 34
+black 1 red 16 black 1
+black 1 green 15 red 1 black 1
+black 1 blue 4 blue 15 green 1 red 1 black 1
+black 1 black 22 blue 1 green 1 red 1 black 1
+black 1 red 22 black 1 blue 1 green 1 red 1 black 1
+black 1 green 21 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 green 1 blue 20 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 10 black 7 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 9 red 4 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 9 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 8 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 7 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 5 red 1 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 3 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 2 blue 1 green 1 red 1 black 1
+black 1 red 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1 blue 1 green 1 red 1 black 1
+black 1 green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 black 1 red 1 green 1 blue 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 black 1 red 1 green 1 blue 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 green 3 red 1 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 red 5 black 1 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 black 4 blue 1 green 1 red 1 black 1 blue 1 green 1 red 1 black 1
+black 1 blue 3 green 1 red 1 black 1 blue 1 green 1 black 1
+black 1 green 2 red 1 black 1 blue 1 black 1
+black 1 red 3 black 1 black 1
+black 1 black 3 black 1
+black 1 blue 2 black 1
+black 1 black 1
+black 1 black 1
+black 34

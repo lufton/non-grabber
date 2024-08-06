@@ -1,0 +1,61 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Kelly Kriese"
+date "May 23, 2016"
+description "Turtle Day"
+difficulty 3.0
+height 20
+id 28019
+link "https://webpbn.com/play.cgi?id=28019"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "May 23rd is..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+0
+black 2
+black 2 green 2 black 2
+black 1 green 2 black 1 green 1 black 1
+black 1 green 4 black 1
+black 2 green 3 black 1
+black 2 green 2 black 1 black 8
+black 1 green 2 black 1 black 2 black 1 black 2
+black 1 green 2 black 1 black 1 black 2 black 1
+black 1 green 2 black 2 black 2 black 1 black 2
+black 1 green 2 black 1 black 5 black 1 black 1 black 1
+black 1 green 2 black 1 black 1 black 1 black 2 black 1
+black 1 green 2 black 1 black 1 black 1 black 1
+black 1 green 2 black 3 black 1 black 1 black 3
+black 4 green 1 black 11 green 1 black 1
+black 1 green 2 black 1 black 1 green 2 black 1
+black 4 black 4
+0
+
+columns
+black 4
+black 1 green 2 black 2
+black 1 green 4 black 9
+black 1 green 1 black 1 green 10 black 1
+black 1 green 11 black 1
+black 15
+black 1 black 1 green 2 black 1
+black 2 black 1 black 2 green 1 black 1
+black 1 black 1 black 3
+black 1 black 1 black 2
+black 1 black 3 black 1
+black 1 black 2 black 1
+black 1 black 1 black 1
+black 3 black 2 black 1
+black 1 black 3 black 2
+black 1 black 1 black 1
+black 1 black 1 black 3
+black 1 black 1 black 2 green 1 black 1
+black 3 black 1 green 2 black 1
+black 8

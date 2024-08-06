@@ -1,0 +1,43 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/15/12"
+height 12
+id 125109
+link "https://www.griddlers.net/nonogram/-/g/125109"
+medium_time "0:01:06"
+points 97
+popularity 65.61
+title "Ice Cream"
+width 9
+
+color a 99ccff
+color b cc9900
+color c ffffff
+color d 660000
+color e cc0000
+
+rows
+d 2 e 2
+d 3 e 2 d 1
+c 2 d 3 c 2
+c 2 d 1 c 4
+c 9
+b 2 c 3 b 2
+b 7
+b 5
+b 5
+b 3
+b 3
+b 1
+
+columns
+c 1
+c 3 b 2
+d 1 c 3 b 4
+d 4 c 2 b 5
+d 3 c 3 b 6
+e 2 d 1 c 3 b 5
+e 2 c 3 b 4
+d 1 c 3 b 2
+c 1

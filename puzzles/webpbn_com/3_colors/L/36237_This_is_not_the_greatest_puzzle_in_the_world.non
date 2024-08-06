@@ -1,0 +1,76 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Wombat"
+date "Dec 22, 2022"
+description "This is a tribute."
+difficulty 2.25
+height 30
+id 36237
+link "https://webpbn.com/play.cgi?id=36237"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "This is not the greatest puzzle in the world"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 4
+black 3 black 2
+black 3 black 2
+black 3 black 2
+black 3 black 2
+black 3 red 4 red 3 black 2
+black 2 red 1 red 2 red 1 red 2 black 2
+black 3 red 2 red 5 red 1 black 2
+black 1 black 2 red 6 red 5 black 2
+black 1 black 2 red 3 red 1 red 1 red 3 black 3
+black 1 black 2 red 1 red 2 red 6 black 3 black 1
+black 1 black 2 red 3 red 3 black 3 black 1
+black 1 black 1 red 2 red 3 black 1 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 3 black 3 red 2 black 1
+black 1 red 2 black 1 red 2 black 1
+black 1 red 2 black 1 red 2 black 1
+black 1 red 2 black 1 red 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 3
+black 2 black 1 black 3
+black 2 black 1 black 3
+black 2 black 1 black 3
+black 6
+black 3
+0
+
+columns
+0
+black 14
+black 3 black 2
+black 2 black 2 black 2
+black 1 black 2 black 2
+black 2 black 2 black 2
+black 1 red 5 black 2 black 2
+black 2 red 1 red 4 black 2 red 5 black 2
+black 1 red 1 red 2 red 7 black 2
+black 2 red 2 red 1 red 5 black 2
+black 1 red 6 black 2 black 2
+black 2 red 2 black 14
+black 1 red 1 red 3 black 2 black 2
+black 1 red 3 red 4 black 1
+black 2 red 1 red 2 red 8 black 2
+black 2 red 1 red 3 red 5 black 1
+black 2 red 2 red 3 black 2 black 2
+black 2 red 5 black 1 black 1
+black 2 black 2 black 2
+black 2 black 1 black 1
+black 2 black 2 black 2
+black 3 black 1
+black 15
+0
+0

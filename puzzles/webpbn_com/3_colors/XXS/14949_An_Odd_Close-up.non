@@ -1,0 +1,31 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 26, 2011"
+description "An inchworm's visage."
+difficulty 1.0
+height 5
+id 14949
+link "https://webpbn.com/play.cgi?id=14949"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "An Odd Close-up"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+green 3
+black 1 green 1 black 1
+green 3
+green 1
+
+columns
+0
+green 1 black 1 green 1
+green 4
+green 1 black 1 green 1
+0

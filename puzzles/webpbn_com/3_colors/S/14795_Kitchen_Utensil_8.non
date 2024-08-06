@@ -1,0 +1,51 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 20, 2011"
+description "A sort-of coffee pot."
+difficulty 1.5
+height 17
+id 14795
+link "https://webpbn.com/play.cgi?id=14795"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Kitchen Utensil #8"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 5
+black 7
+black 8
+black 9
+black 9
+black 1 blue 7 black 1
+blue 1 blue 2 blue 1
+blue 1 black 1 blue 2 black 1 blue 1
+blue 1 black 1 black 3 blue 1
+blue 1 black 6 black 1 blue 1
+blue 1 black 6 black 1 blue 1
+blue 2 black 4 blue 2
+blue 9
+blue 9
+blue 11
+0
+
+columns
+0
+blue 5 blue 1
+black 4 blue 1 blue 4
+black 4 blue 1 black 3 blue 3
+black 5 blue 1 black 1 black 3 blue 3
+black 5 blue 3 black 3 blue 3
+black 5 blue 3 black 3 blue 3
+black 5 blue 1 black 1 black 3 blue 3
+black 5 blue 1 black 3 blue 3
+black 4 blue 1 black 1 blue 3
+black 3 blue 1 black 3 blue 4
+blue 5 blue 1
+0

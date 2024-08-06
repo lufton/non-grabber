@@ -1,0 +1,37 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Bill Eisenmann"
+date "Apr 26, 2017"
+description "Sumac"
+difficulty 1.25
+height 8
+id 29744
+link "https://webpbn.com/play.cgi?id=29744"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "pick your poison"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 3
+green 1 green 1 green 1
+green 2 black 1 green 2
+green 1 black 1 green 1
+green 2 black 1 green 2
+green 1 black 1 green 1
+green 2 black 1 green 2
+green 1 black 1 green 1
+
+columns
+0
+green 2 green 1 green 1
+green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 2 black 6
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1
+green 2 green 1 green 1

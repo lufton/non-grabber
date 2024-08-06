@@ -1,0 +1,100 @@
+by "beebuzz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/10/08"
+height 33
+id 64478
+link "https://www.griddlers.net/nonogram/-/g/64478"
+medium_time "0:40:12"
+points 44302
+popularity 85.0
+title "Daisies"
+width 42
+
+color a 99ccff
+color b 2c6e0b
+color c 829950
+color d cccccc
+color e ffffff
+color f da844b
+color g fec67c
+color h 0066cc
+
+rows
+h 5 e 2 h 4 e 1 e 3
+h 9 e 1 h 3 e 1 h 1 e 3
+h 12 e 1 h 2 e 1 h 2 e 2 e 3
+h 14 e 1 h 1 e 2 h 1 e 2 h 1 e 1
+h 4 e 1 h 10 e 2 h 1 e 5 h 2 e 2
+h 5 e 1 h 1 e 1 h 7 e 3 d 1 e 2 d 1 e 1 h 1 d 1 e 2 h 1
+h 4 e 3 h 1 e 1 h 7 e 3 d 1 e 2 d 1 e 1 d 1 e 3 h 2
+e 5 h 2 e 3 h 2 e 3 h 6 e 3 d 1 e 1 d 2 e 3 h 4
+e 4 h 1 e 3 h 1 e 3 h 8 e 2 d 4 e 2 h 5
+h 2 e 4 d 2 e 3 h 10 d 4 e 1 h 2 c 2 h 4
+h 4 e 2 d 1 g 3 d 1 h 1 e 2 h 8 b 2 d 1 b 1 h 1 c 3 h 5
+e 5 g 3 f 2 d 1 e 5 h 4 c 1 h 1 b 4 c 2 h 8
+e 6 f 1 g 2 f 2 e 4 h 1 e 4 h 1 c 1 b 4 c 2 h 10
+e 9 g 1 f 2 d 1 e 2 h 9 b 1 c 4 h 11
+e 2 h 6 e 2 d 1 e 5 b 1 c 1 h 5 b 1 c 3 h 13
+h 5 e 6 h 1 e 2 h 1 b 2 c 1 h 3 b 1 c 1 h 15
+h 2 e 5 h 2 e 2 h 1 e 3 h 1 b 2 h 1 b 1 h 1 b 1 c 1 h 11 c 1 h 3
+e 4 h 4 e 3 h 2 e 3 h 1 b 1 c 1 h 1 b 1 c 1 h 11 c 1 h 3 c 2
+e 3 h 6 e 1 h 5 e 2 h 2 b 1 h 1 b 1 h 10 c 6 h 1
+h 7 e 2 h 6 e 2 h 1 b 2 c 1 h 7 c 6 b 1 c 1 b 3
+h 7 e 2 h 10 b 1 c 1 h 3 c 1 h 2 c 4 b 8
+h 7 e 1 h 8 c 1 h 2 b 1 c 1 h 2 b 1 h 2 c 2 b 8 h 2 b 1
+h 12 c 1 h 4 b 1 c 1 b 1 h 2 b 1 h 2 c 2 b 6 h 5
+h 10 c 4 h 3 b 3 h 3 c 2 b 5 h 2 b 3 h 2
+h 6 c 1 h 2 c 7 h 2 b 3 h 1 c 2 b 4 h 7 b 1
+h 6 c 4 b 2 c 4 h 2 b 2 c 2 b 3 h 9
+h 5 c 3 b 7 c 2 h 1 b 2 c 1 b 2 h 2 b 1 h 8
+h 3 c 2 b 3 h 2 b 6 c 2 b 1 c 1 b 2 h 10
+c 2 h 1 c 2 b 3 h 2 b 1 h 5 b 5 c 1 h 11
+c 2 b 2 h 3 b 2 h 3 b 2 h 3 b 2 c 1 h 10
+c 2 b 1 h 8 b 1 h 4 b 3 h 10
+c 1 b 1 h 12 b 4 h 9
+c 1 h 9 b 4 c 1 h 7
+
+columns
+e 2
+e 2 e 1
+e 1 e 2 h 3 e 2 h 4
+e 1 h 1 e 3 h 3 e 2 h 6
+e 2 h 2 e 3 h 2 e 2 h 9 c 1
+e 2 h 2 e 3 h 2 e 2 h 10 c 1 c 1
+h 1 e 3 h 1 e 3 h 2 e 1 h 12 c 3
+h 3 e 6 h 1 e 2 h 11 c 3
+h 5 e 2 g 1 f 1 e 4 h 10 c 2 b 3
+h 3 e 3 d 1 g 3 e 2 h 3 e 3 h 2 c 1 h 1 c 2 b 2 h 2
+h 3 e 3 d 1 g 3 f 1 d 1 e 1 h 1 e 4 h 4 c 2 b 2 h 3
+h 3 e 3 d 1 g 1 f 3 e 4 h 7 c 2 b 2 h 4
+h 2 e 3 h 2 e 1 g 1 f 2 d 1 e 4 h 6 c 2 b 2 h 5
+h 6 e 2 d 2 e 3 h 8 c 3 b 1 h 2 b 1 h 3
+h 4 e 5 h 1 e 6 h 5 c 3 b 2 h 1 b 2 h 3
+h 6 e 2 h 1 e 3 h 1 e 4 h 5 c 2 b 3 h 5
+h 7 e 1 h 2 e 3 h 1 b 1 h 1 e 3 h 4 c 3 b 2 h 5
+h 11 e 1 h 2 c 1 b 1 h 1 e 3 h 4 c 2 b 2 h 2 b 1 h 2
+h 11 e 2 h 2 b 2 h 2 e 1 h 1 c 1 h 2 c 2 b 2 h 1 b 1 h 3
+h 12 e 1 h 2 c 1 b 2 h 4 b 1 h 2 c 2 b 1 h 1 b 1 h 3
+h 12 e 1 h 4 c 1 b 2 h 2 c 1 b 1 h 2 c 1 b 2 h 3 b 1
+e 1 h 11 e 1 h 3 b 1 h 2 b 6 h 2 c 1 b 1 h 2 b 2
+e 1 h 4 e 2 h 10 b 2 c 3 h 1 b 4 c 1 b 1 h 1 b 3
+h 1 e 1 h 2 e 4 h 3 c 2 h 1 b 3 c 1 h 6 b 9
+h 2 e 7 h 3 b 2 c 3 h 5 b 1 h 2 c 3 b 4 c 1
+h 5 d 2 e 2 d 1 b 3 c 2 h 6 b 1 h 2 c 2 b 2 c 2 h 3
+h 3 e 4 d 3 b 3 c 2 h 5 c 1 h 2 c 2 b 3 h 5
+e 8 d 3 b 2 c 1 h 8 c 2 b 2 h 7
+h 3 e 1 d 5 b 2 c 2 h 7 c 2 b 3 h 7
+h 1 e 4 d 2 e 1 h 1 c 2 h 7 c 2 b 3 h 1 b 1 h 6
+e 3 h 1 d 1 e 2 h 1 c 2 h 7 c 2 b 4 h 8
+e 2 h 2 d 1 e 3 h 1 c 1 h 8 c 2 b 3 h 9
+e 1 h 1 e 3 h 1 c 2 h 8 c 2 b 3 h 8
+e 2 e 3 h 2 c 1 h 8 c 2 b 3 h 9
+e 1 e 2 h 13 c 2 b 3 h 8
+e 1 e 1 h 11 c 3 b 2 h 1 b 1 h 6
+e 1 h 9 c 1 h 1 c 1 b 3 h 1 b 1 h 5
+e 1 h 9 c 2 b 2 h 1 b 1 h 3
+h 7 c 1 b 2 h 3 b 1
+h 5 c 1 h 1 b 2 h 3
+c 1 b 2
+b 1

@@ -1,0 +1,44 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/13/13"
+height 13
+id 130953
+link "https://www.griddlers.net/nonogram/-/g/130953"
+medium_time "0:01:16"
+points 119
+popularity 57.75
+title "Angel"
+width 8
+
+color a 8de379
+color b fff8f5
+color c 7b554c
+color d d8b89f
+color e d0d3dc
+color f 6183e3
+
+rows
+b 1 b 1
+b 2 c 2 b 2
+b 2 c 1 d 2 c 1 b 2
+b 3 d 2 b 3
+b 2 d 1 e 2 d 1 b 2
+d 1 e 4 d 1
+d 2 f 2 d 2
+e 4
+e 6
+e 8
+e 8
+e 8
+d 2
+
+columns
+b 5 d 1 e 3
+b 4 d 2 e 4
+c 1 b 1 d 1 e 1 e 5
+c 1 d 2 e 2 f 1 e 5 d 1
+c 1 d 2 e 2 f 1 e 5 d 1
+c 1 b 1 d 1 e 1 e 5
+b 4 d 2 e 4
+b 5 d 1 e 3

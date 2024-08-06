@@ -1,0 +1,72 @@
+by "Docturok"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/20/14"
+height 25
+id 143869
+link "https://www.griddlers.net/nonogram/-/g/143869"
+medium_time "0:07:11"
+points 2082
+popularity 78.87
+title "Zippo"
+width 24
+
+color a ffffff
+color b 000000
+color c c98c00
+color d ffff66
+color e 666600
+color f ccffff
+
+rows
+f 2
+f 3
+f 2 d 1 f 2
+f 2 d 2 f 1
+f 2 d 2 f 2
+f 2 d 4 f 1
+f 2 d 2 d 1 f 1
+c 1 f 2 d 1 d 3 f 1
+c 3 f 2 d 5 f 2
+c 5 f 2 d 1 d 2 f 1
+c 7 c 8
+c 9 e 1 c 1 c 1 c 1 c 2 b 1
+c 10 e 3 c 2 c 1 c 1 b 3
+c 10 e 2 e 1 c 1 c 1 c 1 c 2 b 1
+c 11 e 10
+c 21
+c 9 c 10
+c 7 c 10
+c 5 c 10
+c 3 c 10
+c 10
+c 10
+c 10
+c 10
+c 10
+
+columns
+c 3
+c 5
+c 7
+c 9
+c 11
+c 11
+c 11
+c 10
+c 9
+c 7
+e 1 c 4
+e 2 c 3
+e 2 c 1
+e 3 c 10
+f 3 c 4 e 1 c 10
+f 5 c 1 c 1 e 1 c 10
+f 5 d 3 c 2 c 1 e 1 c 10
+f 5 d 2 d 1 c 1 c 1 e 1 c 10
+f 2 d 7 c 2 c 1 e 1 c 10
+f 2 d 3 d 3 c 1 c 1 e 1 c 10
+f 3 d 5 c 2 c 1 e 1 c 10
+f 6 c 2 b 1 c 1 e 1 c 10
+f 1 b 3 e 1 c 10
+b 1

@@ -1,0 +1,81 @@
+by "starch"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/5/07"
+height 30
+id 44355
+link "https://www.griddlers.net/nonogram/-/g/44355"
+medium_time "0:12:03"
+points 5160
+popularity 77.98
+title "Cat"
+width 30
+
+color a fec509
+color b 000000
+color e ffffff
+color f 999999
+
+rows
+b 3 b 3
+b 1 f 1 b 2 b 2 f 1 b 1
+b 1 f 1 b 2 b 2 f 1 b 1
+b 1 f 2 b 2 b 2 f 2 b 1
+b 2 f 2 b 3 b 3 f 2 b 2
+b 1 f 3 b 4 b 4 f 3 b 1
+b 1 f 4 b 3 b 3 f 4 b 1
+b 1 f 4 b 18 f 4 b 1
+b 1 f 2 b 22 f 2 b 1
+b 1 f 2 b 22 f 2 b 1
+b 1 f 1 b 24 f 1 b 1
+b 1 f 1 b 24 f 1 b 1
+b 13 e 1 b 14
+b 12 e 1 b 13
+b 5 f 4 b 3 e 1 b 3 f 4 b 6
+b 4 f 6 b 1 e 3 b 1 f 6 b 5
+b 5 f 2 e 1 b 1 f 2 b 1 e 3 b 1 f 2 e 1 b 1 f 2 b 6
+b 5 f 2 e 1 b 1 f 2 b 1 e 3 b 1 f 2 e 1 b 1 f 2 b 6
+b 5 f 2 e 2 f 2 b 1 e 3 b 1 f 2 e 2 f 2 b 6
+b 6 f 5 b 1 e 3 b 1 f 5 b 7
+b 7 f 3 b 1 e 5 b 1 f 3 b 8
+b 10 e 1 b 5 e 1 b 11
+b 8 e 4 b 3 e 4 b 9
+b 6 e 6 b 1 e 7 b 6
+b 5 e 16 b 4
+b 4 e 7 b 1 e 8 b 3
+b 2 e 3 b 1 e 3 b 3 e 3 b 1 e 3 b 1
+b 1 e 3 b 3 e 2 b 4 e 2 b 2
+b 2 e 10 b 3
+b 11
+
+columns
+0
+b 9 b 7
+b 5 f 7 b 13
+b 1 f 9 b 16
+b 3 f 5 b 19
+b 5 f 2 b 19
+b 12 f 4 b 7 e 1 b 1
+b 10 f 6 b 4 e 4 b 1
+b 9 f 2 e 3 f 2 b 2 e 5 b 1
+b 7 f 2 b 2 e 1 f 2 b 1 e 4 b 1 e 2 b 1
+b 7 f 7 b 1 e 5 b 1 e 1 b 1
+b 8 f 5 b 1 e 6 b 1 e 1 b 1
+b 13 e 1 b 1 e 5 b 1 e 1 b 1
+b 8 e 6 b 2 e 3 b 1 e 2 b 1
+b 5 e 9 b 3 e 1 b 2 e 2 b 1
+b 8 e 6 b 2 e 3 b 2 e 1 b 1
+b 13 e 1 b 1 e 5 b 1 e 1 b 1
+b 8 f 5 b 1 e 6 b 1 e 1 b 1
+b 7 f 7 b 1 e 5 b 1 e 1 b 1
+b 7 f 2 e 3 f 2 b 1 e 4 b 1 e 1 b 2
+b 7 f 2 b 2 e 1 f 2 b 2 e 5 b 1
+b 9 f 6 b 3 e 4 b 2
+b 11 f 4 b 5 e 3 b 1
+b 24
+b 5 f 2 b 18
+b 3 f 5 b 18
+b 1 f 9 b 15
+b 5 f 7 b 12
+b 9 b 7
+0

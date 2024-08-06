@@ -1,0 +1,31 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.0
+height 5
+id 1886
+link "https://webpbn.com/play.cgi?id=1886"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Poppy Blossom"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 2 black 1 red 2
+red 1 black 3 red 1
+red 2 black 1 red 2
+red 3
+
+columns
+red 3
+red 2 black 1 red 2
+red 1 black 3 red 1
+red 2 black 1 red 2
+red 3

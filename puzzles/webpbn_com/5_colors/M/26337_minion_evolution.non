@@ -1,0 +1,71 @@
+by "emma calder (flutterby)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by emma calder"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 24
+id 26337
+link "https://webpbn.com/play.cgi?id=26337"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "minion evolution?"
+width 24
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+red 6
+red 3 red 3
+red 3 red 3 red 5
+black 3 black 2 black 3 red 7
+black 3 black 2 black 3 red 1 red 1 red 3
+red 3 red 3 red 1 black 1 red 1 black 1 red 1 black 2
+red 4 red 4 red 1 red 1 red 1 black 2
+red 2 black 1 red 4 black 1 red 2 red 9
+red 3 black 4 red 3 red 5 black 1 red 3
+red 10 red 2 black 3 red 4
+blue 1 red 8 blue 1 red 9
+red 1 blue 8 red 1 blue 1 red 7 blue 1
+red 2 blue 6 red 2 red 1 blue 7 red 1
+red 2 blue 6 red 2 red 2 blue 5 red 2
+red 1 blue 8 red 1 red 2 blue 5 red 2
+red 1 blue 8 red 1 red 1 blue 7 red 1
+black 2 blue 8 black 2 black 2 blue 7 black 2
+black 1 blue 8 black 1 black 1 blue 7 black 1
+black 2 black 2 black 2 black 2
+black 3 black 3 black 3 black 3
+green 24
+green 24
+
+columns
+black 1 green 2
+red 1 black 2 red 5 blue 1 red 5 black 2 green 2
+red 2 black 2 red 6 blue 1 red 2 blue 4 black 1 green 2
+red 3 black 2 red 2 black 1 red 3 blue 7 black 2 green 2
+red 2 red 2 black 1 red 2 blue 7 black 2 green 2
+red 1 black 2 red 1 black 1 red 2 blue 7 green 2
+red 1 black 2 red 1 black 1 red 2 blue 7 green 2
+red 2 red 2 black 1 red 2 blue 7 black 2 green 2
+red 3 black 2 red 2 black 1 red 3 blue 7 black 2 green 2
+red 2 black 2 red 6 blue 1 red 2 blue 4 black 1 green 2
+red 1 black 2 red 5 blue 1 red 5 black 2 green 2
+black 1 green 2
+green 2
+black 1 green 2
+red 7 blue 1 red 4 black 2 green 2
+red 1 black 1 red 5 blue 1 red 2 blue 3 black 1 green 2
+red 2 red 2 black 1 red 2 blue 6 black 2 green 2
+red 7 black 1 red 2 blue 6 black 2 green 2
+red 2 black 1 red 2 black 1 red 2 blue 6 green 2
+red 2 red 1 black 1 red 3 blue 6 black 2 green 2
+red 10 blue 6 black 2 green 2
+red 2 black 2 red 5 blue 1 red 2 blue 3 black 1 green 2
+red 1 black 2 red 4 blue 1 red 4 black 2 green 2
+black 1 green 2

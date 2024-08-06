@@ -1,0 +1,56 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Oct 28, 2010"
+description "One, the flame spurts. No problem. There's a popping sound preceding each, we can avoid that"
+difficulty 1.5
+height 14
+id 10853
+link "https://webpbn.com/play.cgi?id=10853"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Princess Bride quote 4 - ...the three terrors of the Fire Swamp?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 2
+blue 2
+black 3 blue 3
+black 3 blue 3
+red 1 black 1 black 1 blue 4
+red 2 black 5 blue 5
+red 2 black 2 blue 5
+red 1 red 3 black 2 black 1 black 2
+red 4 black 3 black 4
+red 4 black 1 black 1 black 1
+red 3 black 1 black 1 black 2 black 1
+black 3 red 2 black 15
+black 3
+
+columns
+black 1
+red 2 black 1
+red 2 black 2
+red 7 black 1
+red 8 black 1
+red 1 red 2 black 1
+black 1
+black 1
+black 2
+black 1 black 1
+black 2 black 4 black 1
+black 7 black 1
+black 2 black 1 black 4
+black 2 black 1 black 1
+black 2 blue 3 black 2 black 3
+blue 6 black 2
+blue 5 black 2 black 1
+blue 3 black 1 black 1
+blue 3 black 2 black 1
+blue 2 black 2 black 2

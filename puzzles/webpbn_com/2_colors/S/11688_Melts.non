@@ -1,0 +1,47 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Gator"
+date "Jan  6, 2011"
+description "You better eat the rest before it... Ice cream sandwich that someone has already taken a bite out of."
+difficulty 2.0
+height 15
+id 11688
+link "https://webpbn.com/play.cgi?id=11688"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Melts"
+width 15
+
+rows
+2,4,1
+2,4,5
+1,4,5,2
+4,5,3
+6,7
+3,5,2,2
+5,8
+7,2
+2,4,1
+3,1,3
+3,2,3
+2,2
+2,1
+3,2
+4
+
+columns
+2,2,1,1
+1,7,2
+7,1,1
+1,3,5,2
+3,5,1,1
+5,4,1
+2,6,2
+4,3,3
+1,5,2
+5,1,2
+2,3,1
+7,2
+1,2,1,1
+7,2
+1,2,2,1

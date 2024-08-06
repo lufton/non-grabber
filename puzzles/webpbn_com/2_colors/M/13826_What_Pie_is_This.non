@@ -1,0 +1,57 @@
+by "Paul Andrew Kew (PK)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Paul Andrew Kew"
+date "May 11, 2011"
+description "Mathematical Pi."
+difficulty 1.25
+height 20
+id 13826
+link "https://webpbn.com/play.cgi?id=13826"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What Pie is This?"
+width 20
+
+rows
+18
+19
+1,2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2,1
+2,2,2
+2,2,3
+3,6
+4,4
+2,2
+
+columns
+1
+1,1
+2,3
+2,8
+2,12
+12
+7
+2
+2
+2
+2
+2,4
+2,11
+12,3
+7,3
+2,3
+2,3
+2,3
+2,3
+2

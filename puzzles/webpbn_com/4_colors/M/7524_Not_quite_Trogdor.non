@@ -1,0 +1,66 @@
+by "Ray Star (RazorStar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Ray Star"
+date "Dec 29, 2009"
+description "Black Mage from Final Fantasy. I wanted to make his hat badass but it didn't work out."
+difficulty 2.25
+height 26
+id 7524
+link "https://webpbn.com/play.cgi?id=7524"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Not quite Trogdor"
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+black 2 green 2 black 1
+black 1 green 3 black 2
+black 2 green 3 black 2
+black 2 green 4 black 3
+black 6 green 4 black 4
+black 1 green 8 black 6
+black 5 green 4 black 5
+black 7 green 3 black 2
+black 11
+black 2 green 1 black 10
+black 2 green 1 black 2 green 1 black 8
+black 1 blue 1 black 4 green 1 black 4 blue 1 black 4
+black 1 blue 1 black 11 blue 1 black 2
+black 1 blue 3 black 3 blue 7 black 1
+black 2 blue 6 black 3 blue 2 black 1
+black 1 green 2 black 1 blue 3 black 2 blue 6 black 1
+black 1 green 2 black 1 blue 2 black 3 blue 6 black 1
+black 2 blue 3 green 2 black 1 blue 6 black 1
+black 1 blue 1 black 1 blue 2 green 2 black 1 blue 6 black 1
+black 1 blue 1 black 1 blue 2 black 3 blue 5 black 1
+black 1 blue 2 black 1 blue 4 black 1 blue 4 black 1
+black 1 blue 3 black 1 blue 3 black 1 blue 4 black 1
+black 1 blue 4 black 2 blue 2 black 1 blue 2 black 1 blue 1 black 1
+black 1 blue 10 black 2 blue 3 black 1
+black 17
+
+columns
+black 1 black 2 black 2
+black 1 green 1 black 1 black 3 green 2 black 6 blue 1 black 1
+black 1 green 1 black 2 black 1 blue 2 black 1 green 2 black 1 blue 6 black 1
+black 1 green 1 black 2 black 2 blue 1 black 1 blue 2 black 2 blue 1 black 2 blue 4 black 1
+black 1 green 1 black 7 blue 7 black 1 blue 3 black 1
+black 1 green 1 black 3 green 2 black 3 blue 7 black 1 blue 2 black 1
+black 1 green 2 black 7 blue 2 black 1 green 2 black 1 blue 2 black 1 blue 1 black 1
+black 1 green 3 black 7 blue 1 black 2 green 2 black 1 blue 2 black 1 blue 1 black 1
+black 1 green 3 black 3 green 2 black 1 blue 2 black 5 blue 4 black 1
+black 1 green 2 black 1 green 2 black 5 blue 1 black 1 blue 5 black 2 blue 2 black 1
+black 1 green 2 black 2 green 1 black 5 blue 1 black 1 blue 7 black 1 blue 1 black 1
+black 1 green 2 black 3 green 1 black 5 blue 1 black 1 blue 8 black 2
+black 1 green 3 black 9 blue 10 black 2
+black 1 green 2 black 8 blue 1 black 1 blue 9 black 1 blue 1 black 1
+black 1 green 2 black 5 black 4 blue 2 black 1 blue 4 black 3 blue 2 black 1
+black 1 green 1 black 3 black 5 black 4 black 1 blue 1 black 1
+black 2 black 3 black 2
+black 1

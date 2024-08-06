@@ -1,0 +1,39 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/13/19"
+height 10
+id 199982
+link "https://www.griddlers.net/nonogram/-/g/199982"
+medium_time "0:00:51"
+points 29
+popularity 78.06
+title "Dolphin"
+width 8
+
+color a 99ccff
+color b 000000
+color c ffffff
+color d 3300ff
+
+rows
+d 4
+d 2 b 1 d 5
+c 2 d 4
+c 2 d 2
+c 1 d 2
+c 1 d 2
+d 2
+d 3
+d 2
+d 1
+
+columns
+d 1
+d 2
+d 1 b 1 c 1 d 1
+d 2 c 2 d 2
+d 3 c 3 d 4
+d 6
+d 5
+d 2

@@ -1,0 +1,57 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Jun 19, 2016"
+description ""
+difficulty 1.5
+height 25
+id 28206
+link "https://webpbn.com/play.cgi?id=28206"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "How Hillary could win handily"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 4
+black 1 blue 1
+blue 1 black 1
+blue 1 black 1 blue 4
+blue 1 black 1 blue 4
+blue 1 black 1
+red 1 black 1
+black 1 red 1
+red 4 black 1 red 1
+red 4 black 1 red 1
+black 1 red 1
+black 1 blue 1
+blue 1 black 1
+blue 1 black 1 blue 4
+blue 1 black 1 blue 4
+blue 1 black 1
+red 1 black 1
+black 1 red 1
+red 4 black 1 red 1
+red 4 black 1 red 1
+black 1 red 1
+black 1 blue 1
+blue 1 black 1
+blue 1 black 1 blue 4
+
+columns
+red 2 red 2
+red 2 red 2
+red 2 red 2
+black 1 red 2 red 2
+black 2 blue 4 red 1 black 5 blue 4 red 1 black 5 blue 2
+black 1 blue 1 black 5 red 4 blue 1 black 5 red 4 blue 1 black 2
+black 1 blue 2 blue 2 blue 1
+blue 2 blue 2 blue 1
+blue 2 blue 2 blue 1
+blue 2 blue 2 blue 1

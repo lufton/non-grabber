@@ -1,0 +1,57 @@
+by "Bevin Bush (brbush)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Bevin Bush"
+date "Mar 30, 2020"
+description "Little owl on a limb"
+difficulty 2.0
+height 20
+id 33793
+link "https://webpbn.com/play.cgi?id=33793"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Who?"
+width 20
+
+rows
+1,1
+2,2,1
+1,10,3
+3,1,1,1
+1,2,2,2,2
+1,1,1,1,1,1
+2,3,2,2
+1,1,1,1
+2,1,1,1
+1,1,1
+1,1,1,1
+1,6,1,1
+2,1,1,2,2
+1,2,6,2,2
+3,3,3,3
+1,1,4,1,3
+5,7
+9,8
+5,7,3
+2,4,2
+
+columns
+1,3,1,3
+3,1,3,3
+1,1,2
+7,2
+3,2,3
+5,2,2
+2,4
+1,3,5,3
+1,1,1,1,1,5
+1,2,1,1,1,2
+1,2,1,1,1,2
+1,3,1,1,5
+1,1,1,5,3
+2,1,5
+5,2,2
+3,2,2
+7,3
+1,5
+3,4,3
+1,4,2

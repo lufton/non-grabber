@@ -1,0 +1,44 @@
+by "K Chouinard (codenumerator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by K Chouinard"
+date "Dec  5, 2008"
+description "Pi is a mathematical constant which represents the ratio of any circle's circumference to its diameter in geometry. It is approximately equal to 3.14159; however, it is an irrational number."
+difficulty 1.25
+height 13
+id 4228
+link "https://webpbn.com/play.cgi?id=4228"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Apple, Pumpkin, Pecan, or Banana Cream"
+width 14
+
+rows
+10
+12
+12
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+2,2
+1,2
+2,2
+1,1
+
+columns
+1
+1
+2,2
+11
+10
+3
+3
+3,3
+12
+10
+3
+3
+2
+2

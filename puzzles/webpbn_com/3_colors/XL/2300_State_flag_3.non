@@ -1,0 +1,96 @@
+by "Steve R. (bonfire98a.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Steve R."
+date "Feb 17, 2008"
+description "The flag of Texas (yes, it's a ridiculously easy puzzle, but I can't do flags and not do my home state!)"
+difficulty 1.25
+height 30
+id 2300
+link "https://webpbn.com/play.cgi?id=2300"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "State flag 3"
+width 45
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+blue 7 blue 7
+blue 7 blue 7
+blue 6 blue 6
+blue 6 blue 6
+blue 2 blue 2
+blue 3 blue 3
+blue 4 blue 4
+blue 5 blue 5 black 30
+blue 5 blue 5 black 30
+blue 4 blue 1 blue 4 black 30
+blue 4 blue 3 blue 4 black 30
+blue 4 blue 5 blue 4 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+blue 15 black 30
+
+columns
+blue 30
+blue 30
+blue 12 blue 17
+blue 12 blue 16
+blue 12 blue 2 blue 10
+blue 12 blue 11
+blue 10 blue 12
+blue 8 blue 13
+blue 10 blue 12
+blue 12 blue 11
+blue 12 blue 2 blue 10
+blue 12 blue 16
+blue 12 blue 17
+blue 30
+blue 30
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15

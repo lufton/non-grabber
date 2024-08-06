@@ -1,0 +1,85 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/18/23"
+height 36
+id 268893
+link "https://www.griddlers.net/nonogram/-/g/268893"
+medium_time "0:15:58"
+points 7198
+popularity 83.98
+title "Monarch - The Big Bear of Tallac"
+width 25
+
+color a ffffff
+color b 000000
+color c c98c00
+color d ff0000
+color e 898900
+color g ffcccc
+color h ffdd00
+
+rows
+d 1
+d 3
+d 5
+d 5
+h 1 d 3 h 1
+b 9 b 2 h 2 d 1 h 2
+b 12 b 2 h 5
+b 17 h 3 b 1
+b 19 h 1 b 2
+b 1 h 6 e 1 h 6 e 1 h 2 b 5
+b 1 e 1 h 4 e 3 h 4 e 3 h 3 b 2
+e 3 h 2 e 5 h 2 e 5 h 3 b 2
+e 4 h 1 e 5 h 1 e 6 h 4 b 1
+e 4 b 4 g 3 b 3 e 4 h 3 e 1
+e 1 b 4 g 7 b 5 e 1 h 2 e 2
+b 4 g 10 b 4 h 1 e 3
+b 4 g 1 b 2 g 7 b 1 g 1 b 4 e 2
+b 3 g 2 b 1 c 1 g 10 b 4 e 1
+b 3 g 2 b 1 c 1 g 6 b 2 g 1 b 5
+b 3 g 11 c 1 b 1 g 1 b 5
+b 3 g 6 c 1 g 4 c 1 b 1 g 1 b 5
+b 3 g 7 c 1 g 7 b 5
+b 3 g 15 b 5
+b 3 g 15 b 5
+b 3 g 6 g 4 b 5
+b 3 g 5 d 1 d 1 g 4 b 5
+b 2 g 6 d 2 g 4 b 6
+d 5 c 1 g 11 b 5
+g 1 d 4 c 2 g 7 c 1 b 6
+g 2 d 3 c 1 g 4 c 2 b 5
+g 2 d 4 g 2 c 3 d 2 b 2
+g 2 d 4 g 1 g 1 g 1 d 6
+g 2 d 4 g 1 g 1 d 6 g 1
+g 2 d 4 g 3 g 2 d 6 g 3
+g 2 d 4 g 3 g 3 d 6 g 4
+g 2 d 4 g 7 d 5 g 6
+
+columns
+d 1 g 8
+b 9 d 2 g 7
+b 2 e 4 b 11 d 9
+b 1 h 1 e 4 b 13 d 9
+b 2 h 2 e 3 b 3 g 8 b 2 d 9
+b 3 h 3 e 2 b 2 g 11 c 1 d 6
+b 3 h 4 b 2 g 1 g 9 c 1 g 5
+b 4 h 2 e 2 b 1 g 2 b 3 g 9 c 1 g 3
+b 4 h 1 e 3 b 1 g 2 b 1 c 2 g 10 c 1 g 2 g 3
+b 4 e 4 b 1 g 17 g 1
+b 4 h 1 e 3 g 7 c 1 g 3 d 1 g 4 c 1 g 2
+b 4 h 2 e 2 g 8 c 1 g 2 d 1 g 3 c 1 g 1 g 3
+b 4 h 4 g 11 d 1 g 3 c 1 g 3
+b 4 h 3 e 1 b 1 g 10 d 1 g 3 c 1 g 1 d 3
+b 4 h 2 e 2 b 2 g 14 c 1 d 5
+b 4 h 1 e 3 b 2 g 3 b 1 c 2 g 7 c 1 d 6
+b 3 e 5 b 3 g 1 b 3 g 7 b 2 d 6
+b 1 b 2 h 1 e 4 b 2 g 2 g 5 b 5 d 5
+b 4 h 2 e 3 b 3 g 7 b 7 d 4 g 1
+b 4 h 3 e 2 b 15 d 2 g 3
+d 2 h 3 b 3 h 6 b 14 g 4
+d 4 h 3 b 3 h 4 e 1 b 13 g 3
+d 6 h 3 b 3 h 2 e 3 b 10 g 2
+d 4 h 3 b 2 b 2 e 5 b 6 g 1
+d 2 h 3 b 2

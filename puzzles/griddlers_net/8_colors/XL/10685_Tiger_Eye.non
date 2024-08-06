@@ -1,0 +1,110 @@
+by "Robyne_Hud"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/13/04"
+height 35
+id 10685
+link "https://www.griddlers.net/nonogram/-/g/10685"
+medium_time "0:28:39"
+points 64314
+popularity 81.48
+title "Tiger Eye"
+width 50
+
+color a ffffff
+color b 770000
+color c 00c700
+color d b92d00
+color e 00ebeb
+color f e87b00
+color g ffc600
+color h 000000
+
+rows
+g 3 f 4 g 9 f 4 d 4
+g 3 f 4 g 6 f 6 d 4
+g 4 f 4 g 4 f 5 d 6
+g 4 f 3 g 1 f 7 d 6
+h 10 g 4 f 7 d 9
+h 14 g 2 f 6 d 9
+h 4 c 5 h 7 g 2 f 5 d 3 b 2 d 4
+h 5 c 2 e 3 c 3 h 7 g 3 f 2 d 2 b 3 d 4
+h 7 e 6 c 3 h 7 g 3 f 2 d 3 b 2 d 3
+h 10 e 7 c 3 h 7 g 2 f 2 d 3 b 1 d 3
+h 10 e 7 c 4 h 6 g 2 f 3 d 1 b 2 d 2
+h 13 e 6 c 7 h 5 g 2 f 2 d 2 b 2 d 1
+h 15 e 6 c 7 h 6 g 2 f 2 d 1 b 3
+h 16 e 5 c 8 h 6 g 2 d 2 b 3
+h 17 e 3 h 3 c 4 h 5 g 1 d 2 b 2 d 1
+h 2 h 16 c 3 h 6 g 2 d 1 b 1 d 2
+h 1 h 12 h 10 g 3 d 3
+h 1 h 8 c 3 h 8 g 2 d 2
+h 1 h 7 h 1 c 2 h 9 g 2 d 2
+h 1 h 7 h 3 c 1 h 10 g 2 f 2
+h 1 h 7 h 16 g 2 f 2
+h 2 h 30 g 3 f 2
+h 4 h 30 b 3 g 3 f 2
+h 5 h 31 d 6
+h 6 h 31 d 5
+f 1 h 7 h 8 h 14 d 5
+f 2 h 7 h 13 d 4
+g 1 f 3 h 8 h 13 d 3
+g 2 f 3 h 8 h 13 b 2
+g 3 f 4 h 7 h 2 h 8
+g 5 f 3 h 10 h 1 h 8
+g 6 f 3 h 11 h 2 f 1 h 8
+g 8 f 8 b 4 d 3 h 2 f 6 h 2 b 2
+g 9 f 8 b 2 d 4 f 8 h 2 b 2
+g 10 f 8 b 1 d 5 f 10 h 2 b 1
+
+columns
+h 13 f 2 g 8
+h 4 h 5 f 2 g 7
+h 4 h 5 f 2 g 6
+h 4 h 5 f 3 g 5
+h 4 h 5 f 2 g 5
+h 7 h 5 f 2 g 4
+h 8 h 4 f 3 g 3
+h 9 h 5 f 2 g 3
+h 11 h 5 f 2 g 2
+h 12 h 5 f 2 g 1
+h 14 h 5 f 3
+h 15 h 5 f 3
+h 17 h 4 f 3
+h 19 h 3 f 3
+h 20 h 2 f 3
+h 3 c 1 e 5 h 4 h 6 h 2 f 3
+h 2 c 2 e 6 h 3 h 5 h 2 b 1 f 2
+h 2 c 1 e 8 h 2 h 5 h 2 b 2 f 1
+h 2 c 1 e 8 h 1 h 5 h 1 b 3
+h 2 c 1 e 8 h 1 h 5 h 1 b 1 d 2
+h 2 c 2 e 6 h 2 h 5 d 3
+h 3 c 2 e 2 c 3 h 1 h 5 d 3
+h 3 c 7 h 1 h 5 d 3
+h 4 c 6 h 5 d 1
+h 5 c 5 h 6
+h 5 c 4 h 6
+g 1 h 6 c 4 c 1 h 7
+g 3 h 5 c 5 h 1 c 2 h 6
+g 3 h 6 c 3 h 1 c 3 h 5
+f 1 g 3 h 7 c 2 h 9
+f 2 g 3 h 17
+f 3 g 2 h 17
+f 3 g 2 h 15
+g 1 f 3 g 2 h 15
+g 2 f 3 g 2 h 15
+g 3 f 3 g 1 h 14
+g 4 f 3 g 1 h 14
+g 3 f 4 g 2 h 14 f 1
+g 3 f 4 g 2 h 10 h 2 f 2
+g 2 f 6 g 2 h 9 h 1 f 2
+g 1 f 8 g 2 h 8 f 3
+g 1 f 3 d 4 f 2 g 2 h 7 f 4
+f 4 d 5 f 2 g 2 b 1 h 9 f 3
+f 4 d 3 b 1 d 2 f 2 g 2 b 1 h 9 f 3
+f 2 d 4 b 2 d 2 f 3 g 4 b 1 d 1 h 8 f 3
+f 2 d 4 b 3 d 3 f 1 d 2 g 2 g 2 d 3 h 6 f 3
+d 8 b 3 d 5 g 7 d 4 h 7 f 1
+d 10 b 6 d 1 g 6 d 5 h 7
+d 11 b 4 d 4 f 4 d 5 b 1 h 3 b 2 h 1
+d 12 b 2 d 5 f 4 d 5 b 1 h 3 b 3

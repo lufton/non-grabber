@@ -1,0 +1,71 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Sep 21, 2010"
+description "to tango"
+difficulty 1.5
+height 20
+id 10429
+link "https://webpbn.com/play.cgi?id=10429"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "It takes two"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+green 3
+green 4
+green 3
+black 4 green 3 black 4 black 4
+black 7 green 2 green 4 black 11
+black 2 black 3 green 22
+black 1 black 2 black 4 green 4 black 9 green 5
+black 1 black 1 black 5 green 1 green 2 black 7
+black 1 black 1 black 4 green 1 green 2
+black 1 black 1 black 4 green 3
+black 2 black 3 green 3
+black 2 black 3 green 3
+black 4 green 2
+0
+0
+0
+0
+0
+
+columns
+black 8
+black 3 black 3
+black 2 black 4 black 1
+black 2 black 1 black 2
+black 2 black 6
+black 8
+black 7
+green 1 black 5
+green 2 green 2 black 2 green 1
+green 3 green 3 green 3
+green 4 green 2 green 4
+green 11
+green 7
+green 2
+green 2
+black 1 green 1
+black 2 green 1 black 1
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 1 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 2
+black 2 green 1 black 1
+black 1 green 2
+green 2
+green 2
+green 2
+green 2

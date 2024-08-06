@@ -1,0 +1,46 @@
+by "Jonah Kramer (jredbarn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jonah Kramer"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 15
+id 27851
+link "https://webpbn.com/play.cgi?id=27851"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #179 Variety"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 4
+black 4
+red 4
+black 4
+black 6
+0
+red 4
+red 6
+red 7
+red 7 black 3
+0
+black 4
+black 4
+black 10
+
+columns
+red 2 black 1
+red 3 black 1
+black 1 red 4 black 1
+black 3 red 1 black 2 red 4 black 3
+black 3 red 1 black 2 red 4 black 3
+black 3 red 1 black 2 red 4 black 3
+black 3 red 1 black 2 red 3 black 3
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 1

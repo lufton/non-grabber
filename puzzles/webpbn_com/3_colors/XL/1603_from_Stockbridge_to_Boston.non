@@ -1,0 +1,96 @@
+by "Katydid (kmeifert)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Katydid"
+date "Oct 14, 2007"
+description "The road sign for the Massachusetts Turnpike - don't ask me why there's a pilgrim hat on it!"
+difficulty 2.0
+height 45
+id 1603
+link "https://webpbn.com/play.cgi?id=1603"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "from Stockbridge to Boston"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 26
+blue 2 blue 2
+blue 2 blue 22 blue 2
+blue 1 blue 24 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 1 blue 2 blue 1
+blue 1 blue 3 blue 1 blue 2 blue 1 blue 2 blue 4 blue 5 blue 1
+blue 1 blue 3 blue 1 blue 1 blue 1 blue 3 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 3 blue 1 blue 1 blue 1 blue 4 blue 4 blue 2 blue 1
+blue 1 blue 3 blue 3 blue 1 blue 3 blue 4 blue 4 blue 2 blue 1
+blue 1 blue 3 blue 3 blue 1 blue 3 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 10 black 7 blue 9 blue 1
+blue 1 blue 10 black 7 blue 9 blue 1
+blue 1 blue 9 black 9 blue 8 blue 1
+blue 1 blue 9 black 9 blue 8 blue 1
+blue 1 blue 9 black 9 blue 8 blue 1
+blue 1 blue 8 black 11 blue 7 blue 1
+blue 1 blue 8 black 11 blue 7 blue 1
+blue 1 blue 8 black 12 blue 6 blue 1
+blue 1 blue 7 black 13 blue 6 blue 1
+blue 1 blue 6 black 5 black 4 blue 5 blue 1
+blue 1 blue 4 black 2 black 2 black 1 blue 4 blue 1
+blue 1 blue 3 black 4 black 2 black 4 blue 2 blue 1
+blue 1 blue 1 black 11 black 9 blue 1 blue 1
+blue 1 blue 1 black 25 blue 1
+blue 1 blue 1 black 25 blue 1
+blue 1 blue 2 black 23 blue 1 blue 1
+blue 1 blue 4 black 19 blue 3 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 3 blue 2 blue 1 blue 3 blue 1 blue 2 blue 1
+blue 1 blue 3 blue 2 blue 3 blue 3 blue 2 blue 2 blue 5 blue 1
+blue 1 blue 3 blue 2 blue 3 blue 3 blue 1 blue 3 blue 3 blue 1
+blue 1 blue 3 blue 4 blue 3 blue 3 blue 5 blue 1
+blue 1 blue 3 blue 6 blue 3 blue 2 blue 2 blue 5 blue 1
+blue 1 blue 3 blue 4 blue 1 blue 3 blue 1 blue 2 blue 1
+blue 1 blue 26 blue 1
+blue 1 blue 24 blue 1
+blue 2 blue 2
+blue 28
+
+columns
+blue 42
+blue 2 blue 2
+blue 2 blue 38 blue 1
+blue 1 blue 23 black 3 blue 14 blue 1
+blue 1 blue 24 black 4 blue 13 blue 1
+blue 1 blue 3 blue 14 black 5 blue 5 blue 2 blue 1
+blue 1 blue 4 blue 17 black 7 blue 4 blue 2 blue 4 blue 1
+blue 1 blue 5 blue 15 black 7 blue 4 blue 2 blue 4 blue 1
+blue 1 blue 4 blue 16 black 6 blue 5 blue 5 blue 1
+blue 1 blue 3 blue 11 black 2 black 5 blue 12 blue 1
+blue 1 blue 17 black 5 black 5 blue 4 blue 4 blue 2 blue 1
+blue 1 blue 5 blue 5 black 8 black 5 blue 4 blue 4 blue 2 blue 1
+blue 1 blue 4 blue 1 blue 5 black 10 black 5 blue 4 blue 2 blue 1
+blue 1 blue 3 blue 2 blue 5 black 10 black 5 blue 4 blue 4 blue 2 blue 1
+blue 1 blue 4 blue 1 blue 5 black 9 black 4 blue 4 blue 4 blue 2 blue 1
+blue 1 blue 5 blue 3 black 9 black 2 black 4 blue 12 blue 1
+blue 1 blue 12 black 9 black 2 black 4 blue 4 blue 2 blue 1
+blue 1 blue 3 blue 2 blue 3 black 9 black 4 blue 7 blue 4 blue 1
+blue 1 blue 3 blue 1 blue 2 blue 3 black 10 black 5 blue 6 blue 4 blue 1
+blue 1 blue 3 blue 1 blue 2 blue 5 black 8 black 5 blue 5 blue 2 blue 3 blue 1
+blue 1 blue 3 blue 1 blue 8 black 5 black 5 blue 4 blue 4 blue 2 blue 1
+blue 1 blue 19 black 3 black 5 blue 12 blue 1
+blue 1 blue 3 blue 2 blue 12 black 6 blue 4 blue 2 blue 1
+blue 1 blue 3 blue 1 blue 2 blue 13 black 7 blue 4 blue 1 blue 2 blue 2 blue 1
+blue 1 blue 3 blue 1 blue 2 blue 14 black 6 blue 4 blue 1 blue 2 blue 2 blue 1
+blue 1 blue 3 blue 1 blue 14 black 5 blue 5 blue 4 blue 2 blue 1
+blue 1 blue 23 black 4 blue 13 blue 1
+blue 2 blue 23 black 2 blue 13 blue 1
+blue 2 blue 2
+blue 42

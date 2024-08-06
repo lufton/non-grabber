@@ -1,0 +1,164 @@
+by "Bradley Mustard (sweatydad)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Bradley Mustard"
+date "Jun 15, 2023"
+description "WD-40 and a roll of duct tape is the universal tool kit for rednecks like myself. I had to add green where the yellow should be to give it a unique solution."
+difficulty 3.0
+height 81
+id 36891
+link "https://webpbn.com/play.cgi?id=36891"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Redneck Tool Kit"
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 9
+red 12
+black 5 red 15
+red 26 black 1 red 17
+black 5 red 19
+red 18
+red 18
+red 17
+red 17
+red 16
+red 15
+red 14
+black 15
+black 5 black 4
+black 5 black 4
+black 17 black 3 black 3
+black 21 blue 1 black 2 black 2 blue 1
+black 23 blue 3 black 4 black 4 blue 3
+black 25 blue 8 black 12 blue 8
+black 26 blue 28
+black 27 blue 1 green 26 blue 1
+black 28 blue 1 green 26 blue 1
+black 5 black 8 blue 1 green 26 blue 1
+black 3 black 5 blue 1 green 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 3 green 6 blue 1 green 3 blue 2 green 3 blue 1
+black 1 black 4 blue 1 green 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 2 blue 1 green 4 blue 2 green 2 blue 1 green 2 blue 1 green 2 blue 1
+black 1 black 4 blue 1 green 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 2 blue 1 green 2 blue 1 green 2 blue 1
+black 2 blue 1 green 3 blue 1 green 1 blue 1 green 2 blue 1 green 2 blue 1 green 3 blue 4 green 1 blue 1 green 2 blue 1 green 2 blue 1
+black 2 blue 1 green 3 blue 1 green 1 blue 1 green 2 blue 3 green 6 blue 1 green 3 blue 2 green 3 blue 1
+black 1 blue 1 green 26 blue 1
+black 1 blue 1 green 26 blue 1
+blue 2 green 24 blue 2
+blue 3 green 22 blue 3
+blue 4 green 20 blue 4
+black 9 blue 5 green 18 blue 5
+black 3 black 3 blue 6 green 16 blue 6
+black 2 black 2 blue 10 green 8 blue 10
+black 2 black 3 blue 28
+black 2 black 3 blue 28
+black 1 black 3 blue 28
+black 1 black 3 blue 28
+black 1 black 4 blue 4 blue 16 red 1 blue 4
+black 1 black 3 blue 4 red 1 red 1 red 1 blue 3 red 2 blue 3 red 1 red 1 blue 4
+black 2 black 3 blue 4 red 1 red 2 red 1 red 1 red 1 red 1 red 2 red 2 blue 4
+black 1 black 4 blue 4 red 1 red 1 red 2 red 2 red 1 red 2 blue 4
+black 1 black 4 blue 6 red 1 red 1 red 1 red 1 red 1 red 1 red 1 blue 6
+black 1 black 4 blue 7 red 3 red 4 red 3 blue 7
+black 1 black 4 blue 7 red 4 blue 6 red 4 blue 7
+black 1 black 4 blue 8 red 3 blue 6 red 3 blue 8
+black 1 black 4 blue 7 black 5 blue 4 black 5 blue 7
+black 1 black 4 blue 28
+black 2 black 4 blue 28
+black 1 black 5 blue 28
+black 1 black 5 blue 5 blue 1 blue 6
+black 2 black 5 blue 10 blue 9
+black 4 black 6 blue 28
+black 4 black 8 blue 28
+black 18 blue 5 blue 1 blue 6
+black 16 blue 10 blue 9
+black 14 blue 28
+black 10 blue 28
+blue 5 blue 1 blue 6
+blue 10 blue 9
+blue 28
+black 1 blue 28
+black 2 blue 5 blue 1 blue 6
+black 3 blue 10 blue 9
+black 3 blue 28
+black 1 black 3 blue 28
+black 3 black 3 blue 5 blue 1 blue 6
+black 6 black 4 blue 10 blue 9
+black 8 black 6 blue 28
+black 22 blue 28
+black 16 blue 28
+blue 28
+blue 28
+blue 28
+blue 28
+blue 26
+blue 22
+blue 17
+blue 8
+
+columns
+red 1 black 10 black 3
+red 1 black 8 black 3
+red 1 black 9 black 3
+red 1 black 8 black 9 black 3
+red 1 black 8 black 3 black 5 black 3
+red 1 black 7 black 3 black 3 black 3
+red 1 black 7 black 2 black 3 black 3
+red 1 black 7 black 2 black 4 black 3
+red 1 black 7 black 1 black 4 black 3
+red 1 black 7 black 1 black 3 black 2
+red 1 black 7 black 2 black 4 black 2
+red 1 black 7 black 2 black 4 black 2
+red 1 black 7 black 1 black 4 black 2
+red 1 black 7 black 1 black 4 black 2
+red 1 black 7 black 1 black 4 black 2
+red 1 black 7 black 1 black 4 black 2
+red 1 black 7 black 1 black 4 black 2
+red 1 black 7 black 1 black 5 black 2
+red 1 black 7 black 2 black 5 black 2
+red 1 black 6 black 1 black 5 black 2
+red 1 black 6 black 3 black 5 black 2
+red 1 black 6 black 3 black 6 black 3
+red 1 black 6 black 5 black 7 black 2
+red 1 black 5 black 20 black 2
+red 1 black 5 black 18 black 3
+red 1 black 5 black 15 black 2
+black 1 black 4 black 10 black 3
+black 1 black 1 black 4 black 3
+black 1 black 1 black 4 black 3
+black 1 black 1 black 3 black 3
+black 1 black 1 black 4 black 3
+black 1 black 1 black 5 black 3
+red 3 blue 59
+red 5 blue 3 green 10 blue 48
+red 7 black 1 blue 4 green 11 blue 47
+red 8 black 3 blue 3 green 3 blue 3 green 6 blue 46
+red 9 black 4 blue 2 green 6 blue 2 green 5 blue 7 red 1 red 1 blue 35
+red 10 black 2 black 1 blue 2 green 3 blue 3 green 8 blue 6 red 1 blue 8 blue 3 blue 3 blue 3 blue 3 blue 10
+red 11 black 2 black 1 blue 2 green 6 blue 2 green 7 blue 6 red 1 red 1 blue 35
+red 12 black 3 black 1 blue 2 green 3 blue 3 green 9 blue 6 red 1 red 3 blue 1 black 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 11
+red 12 black 2 black 1 blue 1 green 15 blue 6 red 1 red 3 black 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 11
+red 12 black 2 black 1 blue 1 green 3 blue 5 green 7 blue 6 red 1 red 5 black 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 11
+red 12 black 1 black 1 blue 1 green 3 blue 1 green 3 blue 1 green 8 blue 6 red 2 red 2 black 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 10
+red 11 black 1 black 1 blue 1 green 3 blue 1 green 3 blue 1 green 8 blue 6 red 1 blue 2 black 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 11
+red 11 black 1 black 1 blue 1 green 4 blue 3 green 9 blue 6 red 1 red 1 blue 6 blue 2 blue 2 blue 2 blue 2 blue 11
+red 10 black 1 black 1 blue 1 green 16 blue 5 red 1 red 2 blue 6 blue 2 blue 2 blue 2 blue 2 blue 11
+red 10 black 1 black 1 blue 1 green 5 blue 1 green 10 blue 5 red 1 red 1 red 1 blue 6 blue 2 blue 2 blue 2 blue 2 blue 11
+red 9 black 1 black 1 blue 1 green 16 blue 6 red 2 red 1 blue 6 blue 2 blue 2 blue 2 blue 2 blue 11
+red 9 black 1 black 1 blue 1 green 5 blue 2 green 9 blue 6 blue 2 black 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 11
+red 8 black 1 black 1 blue 1 green 4 blue 1 green 1 blue 1 green 9 blue 6 red 1 red 1 red 2 black 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 11
+red 8 black 1 black 1 blue 1 green 3 blue 5 green 7 blue 6 red 1 red 3 black 1 blue 3 blue 2 blue 2 blue 2 blue 2 blue 11
+red 6 black 2 black 1 blue 1 green 6 blue 1 green 8 blue 6 red 2 red 4 black 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 11
+red 4 black 2 black 1 blue 2 green 15 blue 6 red 2 red 2 blue 1 black 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 11
+black 3 black 1 blue 2 green 4 blue 3 green 8 blue 6 red 1 red 2 blue 7 blue 3 blue 3 blue 3 blue 3 blue 11
+black 2 black 1 blue 2 green 3 blue 1 green 3 blue 1 green 6 blue 6 red 1 blue 36
+black 4 blue 2 green 3 blue 1 green 3 blue 1 green 5 blue 7 red 1 red 1 blue 35
+black 3 blue 3 green 4 blue 3 green 5 blue 47
+black 1 blue 4 green 11 blue 48
+blue 3 green 10 blue 48
+blue 59

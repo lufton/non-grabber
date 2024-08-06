@@ -1,0 +1,62 @@
+by "justin case (hotelcali4nia1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by justin case"
+date "Dec 27, 2008"
+description "first attempt at making paint by number!! :)"
+difficulty 1.5
+height 20
+id 4545
+link "https://webpbn.com/play.cgi?id=4545"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Eve's fruit"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2
+green 2 green 4
+green 3 green 4
+green 7
+green 5
+red 5
+red 7
+red 9
+red 11
+red 13
+red 7 black 2 red 4
+red 7 black 2 red 4
+red 13
+red 13
+red 11
+red 9
+red 7
+red 5
+0
+0
+
+columns
+0
+0
+0
+red 5
+red 7
+green 2 red 9
+green 3 red 11
+green 3 red 13
+green 2 red 13
+green 2 red 13
+green 3 red 5 black 2 red 6
+green 4 red 5 black 2 red 6
+green 3 red 11
+green 3 red 9
+green 2 red 7
+red 5
+0
+0
+0
+0

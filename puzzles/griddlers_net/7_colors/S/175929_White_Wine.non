@@ -1,0 +1,50 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/16/16"
+height 20
+id 175929
+link "https://www.griddlers.net/nonogram/-/g/175929"
+medium_time "0:01:56"
+points 360
+popularity 77.86
+title "White Wine"
+width 6
+
+color a ffffff
+color b 000000
+color c ffcc00
+color d ff0000
+color e 71db08
+color f 339900
+color g ffff00
+
+rows
+c 2
+g 1 c 1
+g 1 c 1
+g 1 c 1
+g 1 c 1
+b 2
+f 1 b 2 f 1
+f 1 e 3 f 2
+f 1 b 4 f 1
+f 1 e 1 f 4
+f 1 e 1 f 4
+f 1 g 1 c 3 f 1
+f 1 g 1 c 1 f 1
+f 1 d 1 c 1 f 1
+f 1 d 1 c 1 f 1
+f 1 d 1 d 1 c 1 f 1
+f 1 d 2 c 1 g 1 f 1
+f 1 g 4 f 1
+f 1 e 1 f 4
+f 4
+
+columns
+f 12
+f 1 e 1 b 1 e 2 g 2 d 2 g 1 e 1 f 1
+c 1 g 4 b 2 e 1 b 1 f 2 c 1 d 1 d 1 g 1 f 2
+c 5 b 2 e 1 b 1 f 2 c 1 d 2 c 1 g 1 f 2
+f 2 b 1 f 2 c 5 g 2 f 2
+f 12

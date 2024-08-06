@@ -1,0 +1,105 @@
+by "Robert Shields (skweedle)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Robert Shields"
+date "Jul  9, 2011"
+description "The Declaration of Independence in Philadelphia"
+difficulty 1.75
+height 40
+id 15127
+link "https://webpbn.com/play.cgi?id=15127"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "Sarah's picture"
+width 43
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 42 blue 1
+red 1 blue 1
+red 1 red 38 blue 1 blue 1
+red 1 red 37 blue 2 blue 1
+red 1 blue 1
+red 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 3 blue 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 1 blue 1
+red 1 black 1 black 1 black 1 black 3 black 2 black 1 black 2 black 1 black 1 black 2 black 1 black 3 black 2 blue 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+red 1 black 5 black 1 black 1 black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 blue 1
+red 1 blue 1
+red 1 red 28 blue 11 blue 1
+red 1 red 1 blue 1 blue 1
+red 1 red 1 black 3 black 2 black 1 black 1 black 3 black 3 black 3 black 2 black 3 blue 1 blue 1
+red 1 red 1 black 1 black 1 blue 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2 black 1 black 1 blue 1 blue 1
+red 1 red 1 black 1 black 1 blue 2 black 1 black 1 black 1 black 3 black 3 black 2 black 1 red 2 black 1 black 2 blue 1 blue 1
+red 1 red 1 black 1 black 1 blue 2 black 1 black 1 black 1 black 2 black 1 black 1 red 2 black 1 black 1 blue 1 blue 1
+red 1 red 1 black 3 black 2 black 3 black 1 black 1 black 3 black 3 black 2 black 1 blue 3 blue 1
+red 1 red 1 blue 3 blue 1
+red 1 red 21 blue 18 blue 1
+red 1 red 8 blue 7 blue 1
+red 1 red 8 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 blue 7 blue 1
+red 1 red 8 black 1 black 1 black 1 black 1 black 2 black 2 black 1 black 1 black 2 black 1 blue 7 blue 1
+red 1 red 8 black 3 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 2 blue 7 blue 1
+red 1 red 8 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 7 blue 1
+red 1 red 8 black 1 black 1 black 3 black 1 black 1 black 1 black 1 black 1 black 1 blue 7 blue 1
+red 1 red 8 blue 7 blue 1
+red 1 red 13 blue 26 blue 1
+red 1 red 7 blue 6 blue 1
+red 1 red 7 black 3 black 1 black 1 black 3 black 1 black 1 black 3 black 3 blue 6 blue 1
+red 1 red 7 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 1 blue 6 blue 1
+red 1 red 7 black 2 black 1 black 1 black 2 black 1 black 2 black 1 black 3 blue 6 blue 1
+red 1 red 7 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+red 1 red 7 black 3 black 1 black 3 black 1 black 1 black 1 black 3 black 1 black 1 black 1 blue 1
+red 1 red 6 blue 1 blue 1
+red 1 red 5 blue 34 blue 1
+red 1 red 4 blue 35 blue 1
+red 1 red 3 blue 36 blue 1
+red 1 blue 1
+red 3 blue 40
+
+columns
+red 40
+red 1 red 1
+red 1 red 2 black 5 red 27 red 1
+red 1 red 2 black 1 red 1 red 19 blue 1
+red 1 red 2 black 4 red 1 black 3 red 19 blue 1
+red 1 red 2 black 1 red 1 black 1 black 1 red 18 blue 1 blue 1
+red 1 red 2 black 5 red 1 black 1 black 1 red 17 blue 2 blue 1
+red 1 red 2 red 1 black 1 black 1 red 16 blue 3 blue 1
+red 1 red 2 black 5 red 1 red 15 blue 4 blue 1
+red 1 red 2 black 1 red 1 black 3 red 9 blue 3 blue 1
+red 1 red 2 black 5 red 1 black 1 blue 3 black 1 red 1 red 1 black 5 blue 3 blue 1
+red 1 red 2 red 1 black 1 blue 3 black 1 red 1 black 5 red 1 black 1 black 1 black 1 blue 3 blue 1
+red 1 red 2 black 5 red 1 black 3 red 1 black 1 red 1 black 1 black 1 blue 3 blue 1
+red 1 red 2 black 1 black 1 black 1 red 1 red 1 black 5 red 1 blue 3 blue 1
+red 1 red 2 black 1 black 1 red 1 black 5 red 1 red 1 black 4 blue 3 blue 1
+red 1 red 2 red 1 black 1 red 1 black 5 blue 1 black 1 blue 3 blue 1
+red 1 red 2 black 5 red 1 black 5 red 1 black 1 blue 1 black 4 blue 3 blue 1
+red 1 red 2 black 1 red 1 red 1 black 5 blue 1 blue 3 blue 1
+red 1 red 2 black 1 red 1 black 5 red 1 blue 1 black 5 blue 3 blue 1
+red 1 red 2 black 5 red 1 black 1 black 2 red 1 black 5 blue 1 black 1 black 1 black 1 blue 3 blue 1
+red 1 red 2 red 1 black 3 black 1 red 1 black 1 blue 1 black 1 black 1 blue 3 blue 1
+red 1 red 2 red 1 red 1 black 1 blue 1 blue 3 blue 1
+red 1 red 2 black 5 red 1 black 3 black 1 red 1 black 1 blue 1 black 5 blue 3 blue 1
+red 1 red 2 red 1 black 1 black 1 black 1 blue 1 black 5 blue 1 black 1 blue 3 blue 1
+red 1 red 2 black 5 red 1 black 1 black 1 black 1 blue 1 blue 1 black 1 blue 3 blue 1
+red 1 red 2 black 1 red 1 blue 1 black 5 blue 1 black 5 blue 3 blue 1
+red 1 red 2 black 1 red 1 black 5 blue 1 black 1 black 1 blue 1 blue 3 blue 1
+red 1 red 2 black 5 red 1 black 1 black 1 black 1 blue 1 black 5 blue 1 black 1 blue 3 blue 1
+red 1 red 2 red 1 black 1 black 1 blue 1 blue 1 black 5 blue 3 blue 1
+red 1 red 2 red 1 blue 1 black 5 blue 1 black 1 blue 3 blue 1
+red 1 red 2 black 1 blue 1 blue 1 black 1 blue 1 blue 3 blue 1
+red 1 red 2 black 5 blue 1 black 3 blue 1 black 1 blue 1 black 3 black 1 blue 3 blue 1
+red 1 red 2 black 1 blue 1 black 1 red 3 black 1 blue 1 black 5 blue 1 black 1 black 1 black 1 blue 3 blue 1
+red 1 red 2 blue 1 black 1 red 3 black 1 blue 1 blue 1 black 1 black 3 blue 3 blue 1
+red 1 red 2 black 5 blue 1 black 3 blue 9 blue 3 blue 1
+red 1 red 2 black 1 blue 1 blue 13 black 1 blue 3 blue 1
+red 1 red 2 black 5 blue 1 black 5 blue 13 blue 3 blue 1
+red 1 red 2 blue 1 black 1 black 1 blue 13 black 1 blue 3 blue 1
+red 1 red 2 black 5 blue 1 black 1 blue 15 blue 3 blue 1
+red 1 red 1 blue 1 black 1 black 1 black 1 blue 1 blue 15 black 1 blue 3 blue 1
+red 1 blue 2 black 1 black 1 blue 21 blue 3 blue 1
+red 1 blue 1
+blue 40

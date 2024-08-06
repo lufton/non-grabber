@@ -1,0 +1,32 @@
+by "Barb Edwards (babarann)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Barb Edwards"
+date "Dec 15, 2010"
+description "can't wait to see this project!"
+difficulty 1.25
+height 5
+id 11422
+link "https://webpbn.com/play.cgi?id=11422"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "me too! quilt"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 1
+green 1 black 2
+black 2 green 1 black 2
+black 2 green 1
+black 1 blue 1
+
+columns
+blue 1 black 1
+green 1 black 2
+black 2 green 1 black 2
+black 2 green 1
+black 1 blue 1

@@ -1,0 +1,62 @@
+by "arik_h_r"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/6/24"
+height 20
+id 278795
+link "https://www.griddlers.net/nonogram/-/g/278795"
+medium_time "0:08:08"
+points 2383
+popularity 78.61
+title "Monster"
+width 20
+
+color a ffffff
+color b 000000
+color c ff0000
+color e 0000ff
+color f 00ffff
+
+rows
+f 1
+f 2
+e 1 f 1 e 1 f 1 e 2
+e 2 f 2 e 1 f 2 e 5
+f 2 e 2 f 2 e 7 f 4 e 1
+f 2 e 12 f 2 e 2
+e 1 f 1 e 11 f 2 e 2
+e 6 b 2 e 1 b 2 e 5
+e 5 b 1 e 1 b 1 e 4 f 2
+e 14 f 2
+e 15 f 1
+e 3 c 1 c 1 c 1 c 1 c 1 e 2 f 1
+f 1 e 3 c 11 e 3 f 2
+f 2 e 2 c 11 e 3 f 1
+e 1 f 2 e 1 c 1 c 1 c 1 c 1 c 1 e 3
+e 2 f 2 e 14
+e 1 f 2 e 13
+e 16
+f 2 e 10 f 2
+f 3 e 6 f 3
+
+columns
+e 1 f 2 e 2 f 2 e 2 f 1
+e 2 f 3 e 3 e 2 f 2 e 3 f 2
+e 10 f 3 e 1 f 2
+e 11 f 2 e 1
+e 6 c 2 e 4
+f 1 e 6 c 4 e 4
+f 2 e 2 b 2 e 2 c 2 e 5
+f 3 e 3 b 1 e 2 c 4 e 5
+f 2 e 9 c 2 e 5
+f 2 e 3 b 2 e 2 c 4 e 5
+f 1 e 3 b 1 e 2 c 2 e 5
+e 7 c 4 e 5
+e 7 c 2 e 4
+e 2 f 1 e 4 c 4 e 4
+e 1 f 3 e 4 c 2 e 3
+e 1 f 2 e 2 e 8 f 2
+e 1 f 1 e 2 e 8 f 2
+e 2 f 1 e 1 e 4 f 1
+e 3 f 2 f 2
+f 5

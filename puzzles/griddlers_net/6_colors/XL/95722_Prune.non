@@ -1,0 +1,113 @@
+by "griddlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/28/10"
+height 50
+id 95722
+link "https://www.griddlers.net/nonogram/-/g/95722"
+medium_time "0:18:08"
+points 103528
+popularity 81.7
+title "Prune"
+width 40
+
+color a ffffff
+color b 000000
+color c 005300
+color e 8a13cc
+color f 520a79
+color g 763299
+
+rows
+b 2
+b 4
+b 2 c 4 b 1
+b 2 c 3 b 3
+b 2 c 2 b 3
+b 2 c 1 b 2
+b 1 c 1 b 2
+b 1 c 1 b 2
+b 2 c 1 b 1
+b 1 c 1 b 1
+b 1 c 2 b 1
+b 6 b 1 c 1 b 1
+b 6 e 3 b 5 c 1 b 1
+b 3 e 10 b 2 c 1 b 9
+b 2 e 6 f 2 e 4 f 3 b 2 f 6 e 1 b 3
+b 2 e 6 f 2 e 4 f 13 e 3 b 1
+b 1 e 6 f 2 e 4 f 17 e 1 b 1
+b 1 e 5 f 3 e 4 f 18 e 2 b 1
+b 1 e 5 f 3 e 4 f 20 e 1 b 2
+b 2 e 5 f 3 e 3 f 21 e 2 b 1
+b 2 e 4 f 3 e 4 f 22 e 1 b 2
+b 2 e 4 f 4 e 3 f 23 e 2 b 1
+b 1 e 4 f 4 e 4 f 24 e 1 b 1
+b 2 e 4 f 4 e 3 f 25 e 1 b 1
+b 2 e 3 f 4 e 4 f 25 e 1 b 1
+b 1 e 4 f 4 e 3 f 26 e 1 b 1
+b 1 e 3 f 5 e 3 f 6 g 4 f 16 e 1 b 1
+b 1 e 2 f 6 e 3 f 5 g 6 f 15 e 1 b 1
+b 1 e 1 f 6 e 3 f 5 g 8 f 14 e 1 b 1
+b 1 e 1 f 6 e 3 f 5 g 8 f 14 e 1 b 1
+b 1 e 1 f 6 e 3 f 5 g 8 f 14 e 1 b 1
+b 1 e 1 f 6 e 3 f 5 g 8 f 14 e 1 b 1
+b 1 e 1 f 6 e 2 f 6 g 7 f 14 e 2 b 1
+b 1 e 1 f 6 e 2 f 7 g 5 f 15 e 1 b 1
+b 1 e 1 f 6 e 2 f 27 e 1 b 1
+b 1 e 1 f 6 e 2 f 26 e 2
+b 1 f 6 e 2 f 25 e 2 b 1
+b 1 f 6 e 1 f 26 e 1 b 2
+b 2 f 4 e 1 f 25 e 2 b 1
+b 1 f 4 e 1 f 25 e 1 b 1
+b 2 f 28 e 1 b 2
+b 1 f 27 e 2 b 1
+b 1 f 25 e 2 b 1
+b 2 f 23 e 2 b 1
+b 2 f 20 e 3 b 1
+b 2 f 18 e 2 b 2
+b 2 f 14 e 3 b 2
+b 3 f 10 e 3 b 2
+b 3 f 7 e 1 b 4
+b 10
+
+columns
+b 13
+b 4 e 11 b 2
+b 3 e 6 f 10 b 1
+b 3 e 6 f 11 b 3
+b 1 e 8 f 14 b 2
+b 2 e 7 f 18 b 2
+b 2 e 6 f 21 b 2
+b 1 e 6 f 23 b 2
+b 1 e 6 f 8 e 12 f 5 b 1
+b 2 e 4 f 6 e 13 f 9 b 1
+b 2 e 3 f 5 e 10 f 14 b 2
+b 1 e 4 f 3 e 8 f 19 b 1
+b 1 e 3 f 2 e 7 f 22 b 2
+b 2 e 2 f 2 e 6 f 25 b 1
+b 2 e 1 f 2 e 5 f 27 b 2
+b 1 e 2 f 1 e 4 f 30 b 1
+b 1 e 6 f 10 g 5 f 16 b 1
+b 1 e 5 f 10 g 7 f 15 b 1
+b 2 e 3 f 10 g 8 f 15 b 1
+b 1 e 2 f 11 g 8 f 15 b 1
+b 1 e 1 f 12 g 8 f 15 b 1
+b 2 f 12 g 8 f 15 b 1
+b 4 f 13 g 6 f 15 e 1 b 1
+b 2 c 4 b 1 f 13 g 4 f 15 e 1 b 2
+b 2 c 2 b 4 f 32 e 1 b 1
+b 2 c 2 b 2 b 1 f 32 e 2 b 1
+b 2 c 1 b 2 b 1 f 32 e 1 b 2
+b 2 c 1 b 2 b 1 f 31 e 2 b 1
+b 1 c 1 b 2 b 1 f 30 e 2 b 1
+b 1 c 2 b 1 b 1 f 30 e 1 b 2
+b 1 c 1 b 1 b 1 f 29 e 2 b 1
+b 1 c 2 b 1 b 1 e 1 f 27 e 2 b 1
+b 2 c 1 b 2 b 2 e 1 f 25 e 2 b 1
+b 2 c 1 b 1 b 1 e 1 f 24 e 2 b 1
+b 1 c 1 b 1 b 1 e 1 f 22 e 2 b 2
+b 1 b 1 e 2 f 18 e 3 b 2
+b 1 e 3 f 15 e 2 b 2
+b 2 e 3 f 10 e 4 b 2
+b 3 e 12 b 2
+b 13

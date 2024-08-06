@@ -1,0 +1,76 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Sylvain "WCPman""
+date "Jul 16, 2007"
+description "Classic Rock Paper Scissor"
+difficulty 2.25
+height 15
+id 1076
+link "https://webpbn.com/play.cgi?id=1076"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "fun & simple game"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4 blue 1 black 11 blue 1 black 3 black 3
+black 3 blue 2 black 2 blue 1 black 2 black 2 blue 1 black 1 blue 1 black 2 black 2 blue 1 black 1
+black 2 blue 4 black 3 blue 1 black 2 blue 5 black 2 blue 1 black 2 blue 1 black 2 black 2 blue 1 black 2
+black 3 blue 5 black 2 blue 1 black 2 black 2 blue 1 black 2 blue 1 black 2 black 2 blue 1 black 2
+black 2 blue 7 black 1 blue 1 black 2 blue 5 black 2 blue 1 black 2 blue 1 black 3 blue 1 black 2
+black 2 blue 7 black 1 blue 1 black 2 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 2
+black 2 blue 7 black 1 blue 1 black 2 blue 5 black 2 blue 1 black 2 blue 1 black 2
+black 1 blue 7 black 2 blue 1 black 2 black 2 blue 1 black 1 blue 1 black 3 blue 1 black 1
+black 1 blue 7 black 2 blue 1 black 2 blue 5 black 2 blue 1 black 1 blue 3 black 1 blue 3 black 1
+black 1 blue 7 black 2 blue 1 black 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1
+black 2 blue 7 black 1 blue 1 black 2 blue 5 black 2 blue 1 black 1 blue 3 black 1 black 1 blue 3 black 1
+black 2 blue 7 black 1 blue 1 black 2 black 2 blue 1 black 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 black 1
+black 3 blue 3 black 3 blue 1 black 2 blue 5 black 2 blue 1 black 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 black 1
+black 3 blue 1 black 3 blue 1 black 2 black 2 blue 1 black 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 black 1
+black 3 blue 1 black 11 blue 1 black 1 blue 3 black 1 black 1 blue 3 black 1
+
+columns
+black 9
+black 5 blue 3 black 3
+black 3 blue 8 black 2
+black 1 blue 10 black 2
+black 2 blue 11 black 2
+black 1 blue 13 black 1
+black 1 blue 12 black 2
+black 3 blue 9 black 2
+black 3 blue 3 black 3 blue 2 black 2
+black 11
+0
+blue 15
+0
+black 15
+black 15
+black 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 1
+black 15
+black 15
+0
+blue 15
+0
+black 3 black 5
+black 1 blue 1 black 2 black 1 blue 5
+black 2 blue 1 black 2 black 1 blue 2 blue 1
+black 2 blue 1 black 2 black 1 blue 1 black 1 blue 5
+black 2 blue 1 black 2 blue 3 black 5
+black 2 blue 1 black 2 blue 1 black 1
+black 2 blue 1 black 2
+black 2 blue 1 black 2 blue 1 black 1
+black 2 blue 1 black 2 blue 3 black 5
+black 2 blue 1 black 2 black 1 blue 1 black 1 blue 5
+black 2 blue 1 black 2 black 1 blue 2 blue 1
+black 1 blue 1 black 2 black 1 blue 5
+black 3 black 5

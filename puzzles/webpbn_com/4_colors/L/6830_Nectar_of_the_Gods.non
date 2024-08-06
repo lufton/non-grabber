@@ -1,0 +1,82 @@
+by "Blue Paint (BluePaint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Blue Paint"
+date "Sep 29, 2009"
+description "A can of Fresca. Original Citrus!"
+difficulty 2.75
+height 40
+id 6830
+link "https://webpbn.com/play.cgi?id=6830"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Nectar of the Gods"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 6
+black 4 black 1 black 4
+black 2 black 5 black 1 black 2
+black 1 black 3 black 2 black 1
+black 1 green 1 black 4 black 4 blue 1 black 1
+black 1 green 5 blue 1 black 6 blue 5 black 1
+black 1 green 5 blue 1 green 1 blue 8 blue 2 black 1
+black 1 green 1 green 3 blue 11 black 1
+black 1 green 2 blue 7 blue 1 black 1
+black 1 green 4 blue 2 blue 3 black 1
+black 1 blue 5 green 1 blue 6 blue 1 black 1
+black 1 blue 1 black 2 blue 10 black 2
+black 1 blue 1 black 1 blue 2 black 2 blue 5 blue 1 black 2 black 2
+black 1 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 2 blue 1 black 2 black 1 black 2
+black 1 blue 1 black 1 blue 2 black 2 blue 2 black 1 blue 2 black 1 blue 1 black 1 black 2
+black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 black 2 blue 1 black 2 black 1 black 2
+black 1 blue 4 black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 black 2 black 1
+black 1 blue 6 black 1 blue 1 black 2 blue 1 black 2 black 1
+black 1 blue 13 black 1
+black 1 blue 11 blue 1 black 1
+black 1 blue 2 green 3 blue 7 green 2 black 1
+black 1 blue 4 green 7 blue 3 black 1
+black 1 blue 12 blue 2 black 1
+black 1 blue 2 blue 4 blue 10 black 1
+black 1 blue 14 blue 2 black 1
+black 1 blue 1 blue 7 green 1 blue 2 green 1 blue 1 black 1
+black 1 blue 14 black 1
+black 1 blue 1 blue 2 green 1 blue 2 green 2 blue 2 green 1 black 1
+black 1 blue 7 green 1 blue 2 green 1 blue 2 black 1
+black 1 blue 1 blue 1 blue 4 green 1 blue 2 green 1 blue 2 black 1
+black 1 blue 2 blue 4 green 1 blue 2 green 2 blue 2 green 1 black 1
+black 1 blue 2 blue 1 blue 10 black 1
+black 1 blue 1 blue 2 blue 3 blue 2 green 1 blue 1 green 1 blue 3 black 1
+black 1 blue 1 blue 1 blue 1 blue 9 black 1
+black 1 blue 2 blue 10 black 1
+black 4 blue 1 blue 4 black 4
+black 6
+0
+0
+
+columns
+black 28
+black 1 black 1 green 5 blue 12 blue 1 blue 2 blue 1 black 1
+black 2 green 3 green 2 blue 1 black 5 blue 9 blue 2 blue 1 black 1
+black 1 black 1 green 3 green 1 blue 1 black 1 blue 1 black 1 blue 6 green 1 blue 2 blue 1 blue 2 blue 1 black 1
+black 1 black 1 green 3 green 1 blue 10 green 1 blue 5 blue 3 black 1
+black 2 black 1 green 3 blue 3 black 5 blue 3 green 1 blue 3 blue 1 black 1
+black 4 blue 3 blue 1 green 1 blue 1 black 1 blue 1 black 1 blue 6 green 1 blue 7 black 1
+black 1 black 2 black 1 green 1 blue 2 blue 3 black 1 blue 1 black 3 blue 3 green 1 blue 5 blue 8 black 1
+black 1 black 2 black 1 blue 3 blue 11 green 1 blue 1 blue 5 blue 1 blue 1 blue 1 black 1
+black 1 black 1 black 1 blue 3 blue 3 black 5 blue 3 green 1 blue 14 black 1
+black 1 black 1 black 1 blue 3 blue 3 black 1 blue 1 black 1 blue 1 black 1 blue 3 green 1 blue 5 blue 4 blue 3 black 1
+black 2 black 1 black 1 blue 3 blue 11 green 1 blue 5 green 1 blue 2 green 1 blue 5 black 1
+black 1 black 1 black 1 blue 3 blue 2 black 3 black 1 blue 1 blue 1 green 1 blue 14 black 1
+black 1 black 1 blue 5 blue 2 black 1 blue 1 black 3 blue 2 green 1 blue 4 green 1 blue 2 green 2 blue 2 green 1 blue 2 black 1
+black 1 black 1 blue 3 blue 2 green 1 blue 1 blue 4 green 1 blue 2 green 1 blue 4 black 1
+black 1 black 1 blue 5 black 5 blue 6 green 1 blue 2 green 1 blue 1 green 1 blue 2 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1 blue 2 green 1 blue 2 green 2 blue 5 black 1
+black 2 blue 3 blue 11 black 1
+black 1 black 1 blue 1 black 5 blue 2 blue 1 green 1 blue 2 green 1 blue 2 black 1
+black 28

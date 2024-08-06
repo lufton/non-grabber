@@ -1,0 +1,47 @@
+by "shay yatim (shay3979)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by shay yatim"
+date "Dec 18, 2008"
+description ""
+difficulty 1.5
+height 15
+id 4435
+link "https://webpbn.com/play.cgi?id=4435"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "squirrel"
+width 15
+
+rows
+4
+1,6
+1,7
+4,7
+2,3,8
+6,8
+4,4,3
+4,4,1
+5,4
+6,5
+6,4
+7,4
+7,3
+9
+6,3
+
+columns
+2,1
+4,2,2,1
+1,10
+14
+12
+2,8
+5
+3,5
+9,2
+15
+14
+6,6
+7,3
+7
+5

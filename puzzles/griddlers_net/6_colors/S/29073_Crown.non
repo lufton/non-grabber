@@ -1,0 +1,49 @@
+by "MARTIK"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/21/05"
+height 12
+id 29073
+link "https://www.griddlers.net/nonogram/-/g/29073"
+medium_time "0:02:22"
+points 405
+popularity 55.93
+title "Crown"
+width 14
+
+color a 000000
+color c fffe4e
+color d 0000ff
+color e 0000aa
+color f 9f0000
+color h fffefe
+
+rows
+0
+c 1 f 1 c 1 f 1 c 1
+c 2 f 1 c 3 f 1 c 2
+c 1 f 1 c 1 f 1 c 1
+c 2 f 1 c 3 f 1 c 1
+c 2 h 1 f 1 h 1 c 4 f 1 c 2
+f 1 c 1 h 3 c 1 f 1 c 5
+f 2 h 3 f 3 c 3 f 1
+f 1 c 1 h 3 c 1 f 1 c 5
+c 2 h 3 c 7
+d 5 e 7
+0
+
+columns
+0
+c 5 f 3 c 1 d 1
+c 1 c 3 f 1 c 2 d 1
+h 5 d 1
+f 1 h 4 d 1
+f 1 f 1 h 5 d 1
+f 1 c 1 f 1 c 3 f 1 c 2 e 1
+c 5 f 3 c 1 e 1
+c 1 c 3 f 1 c 2 e 1
+c 5 e 1
+f 1 f 1 c 4 e 1
+f 1 c 1 f 2 c 5 e 1
+c 6 f 1 c 2 e 1
+0

@@ -1,0 +1,56 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Apr  8, 2009"
+description "he looks just like me!"
+difficulty 2.0
+height 25
+id 5540
+link "https://webpbn.com/play.cgi?id=5540"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "need any mirrors?"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 4
+red 6
+red 6
+red 4
+black 3 red 1 black 1 red 2
+red 2 black 1 red 4
+red 1 black 1 red 4
+red 1 black 1 red 1 red 1
+red 1 black 1
+black 2 red 1 black 2
+black 1
+black 1 red 1 red 1
+black 1 red 4
+red 1 red 4
+black 4 red 1 red 2
+black 1 red 1
+black 1 red 1 red 2
+black 1 red 4
+black 1 red 4
+black 5 red 4
+black 1 red 3
+black 1 red 3
+black 1 red 1 red 1
+black 1 red 4
+
+columns
+black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 1
+red 4 black 1 red 5 black 1 black 1
+red 6 black 1 black 1 black 1
+red 4 black 9 red 2 black 9
+red 4 red 3 red 2 red 1
+red 2 red 3 red 3 red 3 red 1
+red 3 red 3 red 6 red 1
+red 3 red 3 red 6 red 1
+red 3 red 7

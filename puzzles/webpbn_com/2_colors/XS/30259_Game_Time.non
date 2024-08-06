@@ -1,0 +1,33 @@
+by "Daniel Hillery (daniel.hillery)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Daniel Hillery"
+date "Sep 29, 2017"
+description "Here are two football players in their football gear standing side by side, one of which is taller."
+difficulty 1.25
+height 8
+id 30259
+link "https://webpbn.com/play.cgi?id=30259"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Game Time"
+width 8
+
+rows
+3
+3,1,1
+1,1,1
+1,3
+3,1
+1,1
+1,1
+1,1,1,1
+
+columns
+2,1,1
+1,4
+2,1,1
+0
+0
+2,1,1
+1,5
+2,1,1

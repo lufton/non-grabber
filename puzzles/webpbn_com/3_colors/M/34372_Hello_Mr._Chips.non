@@ -1,0 +1,61 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Andrew Schultz"
+date "Aug  2, 2020"
+description "With apologies to James Hilton and Arthur Treacher's Fish and Chips, there can be only one. Well, actually, there are five iterations of the logo. Apparently this is closest to the Pringles logo from 12986 to 1996, though the red bow-tie didn't appear until 2002."
+difficulty 2.0
+height 20
+id 34372
+link "https://webpbn.com/play.cgi?id=34372"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Hello Mr. Chips!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+black 6 black 6
+black 3 black 3
+black 2 black 3 black 3 black 2
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 1
+black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 4 black 4 black 2 black 1
+black 1 black 16 black 1
+black 1 black 14 black 1
+black 1 black 14 black 1
+black 2 black 2 black 1 black 1 black 2 black 2
+black 1 black 2 black 1
+black 2 red 1 red 1 black 2
+black 2 red 3 red 3 black 2
+black 3 red 8 black 3
+red 3 red 3
+red 1 red 1
+
+columns
+black 9
+black 3 black 3
+black 2 black 3 black 2
+black 2 black 4 black 2
+black 2 black 4 black 1
+black 2 black 1 black 5 black 1
+black 2 black 1 black 5 red 5
+black 2 black 1 black 2 black 5 red 3
+black 2 black 1 black 2 black 5 red 3
+black 1 black 3 black 1 red 1
+black 1 black 3 black 1 red 1
+black 2 black 1 black 2 black 5 red 3
+black 2 black 1 black 2 black 5 red 3
+black 2 black 1 black 5 red 5
+black 2 black 1 black 5 black 1
+black 2 black 4 black 1
+black 2 black 4 black 2
+black 2 black 3 black 2
+black 3 black 3
+black 9

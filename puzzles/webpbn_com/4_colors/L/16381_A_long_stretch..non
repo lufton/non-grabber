@@ -1,0 +1,82 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Nov 15, 2011"
+description "On one 32 mile stretch of the E16 highway from Bergen toward Oslo in Norway,you will drive through 27 miles of tunnels cut through Precambrian gneiss. One tunnel is 15.2 miles long itself,making it the longest road tunnel in the world.Psycologist recommended the Laerdal tunnel be designed with 3 enlarged "cathedrals" with multi-hued sunset lighting to keep drivers from going "speed-blind"."
+difficulty 1.75
+height 30
+id 16381
+link "https://webpbn.com/play.cgi?id=16381"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A long stretch."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 5 blue 17 black 4
+red 3 blue 17 black 3
+blue 13 black 5
+blue 10 black 7 black 3
+blue 8 black 11 black 4
+blue 7 black 11 black 7
+blue 7 black 11 black 8
+blue 7 black 8 black 12
+blue 6 black 8 black 13
+blue 5 black 5 black 17
+blue 4 black 5 black 18
+blue 4 black 25
+blue 3 black 26
+blue 2 black 26
+blue 2 black 6 black 19
+blue 2 black 5 black 20
+blue 1 black 27
+blue 1 black 28
+blue 1 black 28
+blue 1 black 5 black 17
+black 5 black 6 black 16
+black 4 black 1 black 1 black 15
+black 4 black 2 black 2 black 15
+black 3 black 8 black 14
+black 3 black 14
+black 2 red 1 black 1 red 1 black 6 red 1 black 1 red 1 black 13
+black 2 black 4 black 4 black 13
+black 2 black 10 black 13
+black 3 black 14
+black 4 black 4 black 15
+
+columns
+blue 13
+red 1 blue 10 black 10
+red 2 blue 9 black 13
+red 2 blue 9 black 11 black 2
+red 2 blue 7 black 11 red 1 black 1 black 1
+red 1 blue 7 black 11 black 3
+blue 7 black 11 black 1 black 1 red 1 black 2
+blue 6 black 11 black 1 black 2 black 3
+blue 6 black 8 black 3 black 1 black 2 black 1 black 1 black 1
+blue 5 black 8 black 3 black 1 black 1 black 1 black 1 black 1
+blue 4 black 5 black 3 black 4 black 1 black 1 black 1 black 1 black 1
+blue 4 black 4 black 8 black 1 black 2 black 1 black 1 black 1
+blue 4 black 4 black 9 black 1 black 2 black 3
+blue 3 black 16 black 1 black 1 red 1 black 2
+blue 3 black 17 black 3
+blue 3 black 4 black 14 red 1 black 1 black 1
+blue 3 black 3 black 16 black 2
+blue 3 black 3 black 22
+blue 2 black 27
+blue 2 black 27
+blue 2 black 3 black 23
+blue 2 black 2 black 23
+blue 2 black 2 black 24
+blue 1 black 28
+blue 1 black 2 black 25
+black 2 black 25
+black 3 black 26
+black 30
+black 1 black 27
+black 1 black 27

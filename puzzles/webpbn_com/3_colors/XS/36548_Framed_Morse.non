@@ -1,0 +1,40 @@
+by "Mat (keiimaster)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Mat"
+date "Mar 17, 2023"
+description "Decided to give it a little color."
+difficulty 1.25
+height 8
+id 36548
+link "https://webpbn.com/play.cgi?id=36548"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Framed Morse"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 11
+blue 1 black 3 black 3 blue 1
+blue 1 black 1 black 3 blue 1
+blue 1 black 3 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 blue 1
+blue 1 black 1 black 3 black 3 blue 1
+blue 11
+
+columns
+blue 8
+blue 1 black 6 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 4 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 2 black 1 black 1 blue 1
+blue 1 black 1 blue 1
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 blue 1
+blue 1 black 1 blue 1
+blue 8

@@ -1,0 +1,57 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Sylvain "WCPman""
+date "Sep  5, 2007"
+description "20X20 White on Black #2 : a syringe ( with dripping blood I guess)"
+difficulty 1.25
+height 20
+id 1302
+link "https://webpbn.com/play.cgi?id=1302"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "20X20 W.o.B. #2 : take your best shot"
+width 20
+
+rows
+20
+18
+17
+1,16
+1,15
+1,1,1,11
+1,2,10
+5,3,9
+3,4,8
+1,2,5,7
+2,4,2,2
+4,6,2
+7,5,3
+8,3,5
+9,2,2,4
+10,1,1,1,1
+10,1,2
+9,3,4
+9,3,4
+14,5
+
+columns
+1,1,3,1,8
+1,1,2,8
+2,5,9
+3,14
+4,1,10
+5,9
+6,3,8
+5,4,7
+5,5,6
+6,4,2,1
+7,6,1
+8,5,2
+9,3,4
+10,2,2,3
+11,1,1,1
+11,1,1
+10,3,3
+10,3,3
+15,4
+20

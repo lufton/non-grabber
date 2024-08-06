@@ -1,0 +1,52 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 16, 2010"
+description "guess whats on it."
+difficulty 2.0
+height 18
+id 9640
+link "https://webpbn.com/play.cgi?id=9640"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "For you helpers."
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1
+black 2
+black 3
+black 2 red 1 black 1
+black 2 black 2
+black 1 green 1 black 1
+black 2 red 1 black 1 green 2 black 1
+black 1 red 1 black 1
+black 2 black 1 black 1 black 2
+black 2 green 3 black 1 black 1
+black 1 black 1 green 2 red 2 black 2
+black 2 red 2 red 2 red 1 black 1
+black 1 black 1 black 1 green 2 red 1 black 1
+black 1 red 2 green 2 black 1 green 2 black 1
+black 1 black 1 green 2 black 1 red 1 green 1 black 1
+black 3 red 1 black 2
+black 6 black 3
+black 3
+
+columns
+black 5
+black 3 black 2
+black 2 red 1 black 1 red 1 black 2
+black 3 black 1 red 1 red 1 black 1 black 1
+black 3 green 2 black 1 green 2 black 1
+black 2 red 2 black 1 green 2 green 2 black 1
+black 2 black 1 green 1 red 2 black 1 black 2
+black 2 red 1 green 2 black 1 red 2 black 1 red 2 black 1
+black 5 green 1 black 1 green 2 black 2
+black 5 green 3 black 1
+black 3 red 2 black 2
+black 6

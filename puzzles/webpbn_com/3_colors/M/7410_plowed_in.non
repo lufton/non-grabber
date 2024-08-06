@@ -1,0 +1,61 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by ant"
+date "Dec 13, 2009"
+description "That's the last time I park on the curb before a snowstorm.. Here's a little joke for you. How do you turn a dishwasher into a snow plow? Answer in first spoiler."
+difficulty 3.25
+height 20
+id 7410
+link "https://webpbn.com/play.cgi?id=7410"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "plowed in"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 4
+black 1 black 1 red 2
+black 1 red 4
+black 2 red 4
+black 2 red 2
+black 1 black 1
+black 1
+red 6
+red 1 black 2 red 1 black 2 red 2
+red 2 red 2
+black 2 red 2
+black 3
+black 8
+black 10
+black 4 black 9
+black 8 black 8
+black 6 black 4
+black 7
+black 9
+black 4
+
+columns
+black 2 black 3 black 3 black 2
+black 1 black 3 black 3 black 2
+black 1 red 2 black 2 black 2
+black 1 red 4 black 2 black 1 black 2
+black 1 red 4 black 2 black 1
+black 1 red 2 black 2 black 1
+black 1 black 2 black 2
+red 1 black 2 black 2
+red 1 black 2 black 1
+black 2 black 2
+red 1 black 2 black 2
+red 1 black 1 black 2 black 3
+red 1 black 1 black 3 black 2
+red 2 black 3 black 2
+red 1 black 1 black 2 black 2
+red 1 black 1 black 2 black 2
+red 2 black 3 black 2
+red 2 black 2 black 2
+red 2 black 2 black 2
+red 1 black 2 black 2

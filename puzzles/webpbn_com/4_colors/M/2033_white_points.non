@@ -1,0 +1,62 @@
+by "Rachel Freer (little freer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Rachel Freer"
+date "Dec 22, 2007"
+description "white points in every colour except black"
+difficulty 1.25
+height 20
+id 2033
+link "https://webpbn.com/play.cgi?id=2033"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "white points"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 5 blue 5 black 5
+green 5 blue 5 black 5
+green 2 green 2 blue 2 blue 2 black 2 black 2
+green 5 blue 5 black 5
+green 5 blue 5 black 5
+green 5 black 5 blue 5
+green 5 black 5 blue 5
+green 2 green 2 black 2 black 2 blue 2 blue 2
+green 5 black 5 blue 5
+green 5 black 5 blue 5
+blue 5 black 5 green 5
+blue 5 black 5 green 5
+blue 2 blue 2 black 2 black 2 green 2 green 2
+blue 5 black 5 green 5
+blue 5 black 5 green 5
+black 5 blue 5 green 5
+black 5 blue 5 green 5
+black 2 black 2 blue 2 blue 2 green 2 green 2
+black 5 blue 5 green 5
+black 5 blue 5 green 5
+
+columns
+green 5 blue 5 black 5
+green 5 blue 5 black 5
+green 2 green 2 blue 2 blue 2 black 2 black 2
+green 5 blue 5 black 5
+green 5 blue 5 black 5
+blue 5 green 5 black 5
+blue 5 green 5 black 5
+blue 2 blue 2 green 2 green 2 black 2 black 2
+blue 5 green 5 black 5
+blue 5 green 5 black 5
+black 5 green 5 blue 5
+black 5 green 5 blue 5
+black 2 black 2 green 2 green 2 blue 2 blue 2
+black 5 green 5 blue 5
+black 5 green 5 blue 5
+black 5 blue 5 green 5
+black 5 blue 5 green 5
+black 2 black 2 blue 2 blue 2 green 2 green 2
+black 5 blue 5 green 5
+black 5 blue 5 green 5

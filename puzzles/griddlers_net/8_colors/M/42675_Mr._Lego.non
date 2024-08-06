@@ -1,0 +1,69 @@
+by "Replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/13/07"
+height 23
+id 42675
+link "https://www.griddlers.net/nonogram/-/g/42675"
+medium_time "0:05:51"
+points 4459
+popularity 81.63
+title "Mr. Lego"
+width 21
+
+color a ffffff
+color b 000000
+color c ff0033
+color d ff6666
+color e ff9999
+color f ccac4d
+color g ffff00
+color h ffff99
+
+rows
+c 11
+c 2 e 11 c 2
+c 1 e 3 e 10 c 1
+c 1 e 2 e 10 d 2 c 1
+c 1 d 2 e 3 d 10 c 1
+c 1 d 2 e 4 d 11 c 1
+c 1 d 2 e 4 d 11 c 1
+c 1 d 2 e 4 d 11 c 1
+c 1 d 2 e 4 d 11 c 1
+c 1 d 18 c 1
+c 1 d 1 e 8 d 10 c 1
+c 21
+f 3 g 3 f 11
+f 1 g 2 h 2 b 2 g 3 b 2 g 4 f 1
+f 1 g 2 h 2 b 2 g 3 b 2 g 4 f 1
+f 1 g 2 h 3 g 10 f 1
+f 1 g 2 h 3 g 10 f 1
+f 1 g 2 h 3 b 1 g 3 b 1 g 5 f 1
+f 1 g 2 h 3 g 1 b 3 g 6 f 1
+f 1 g 13 f 1
+f 13
+f 1 g 8 f 2
+f 1 g 8 f 2
+
+columns
+c 2
+c 1 d 1 c 1
+c 6 d 1 e 1 c 1
+c 1 e 1 d 6 e 1 c 1 f 7
+c 1 e 2 d 6 e 1 c 1 f 1 g 6 f 1
+c 1 e 1 e 4 d 1 e 1 c 1 f 1 g 7 f 1
+c 1 e 2 e 4 d 1 e 1 c 1 g 1 h 6 g 1 f 3
+c 1 e 1 e 5 d 1 e 1 c 1 g 1 h 6 g 1 f 1 g 2
+c 1 e 1 e 6 d 1 e 1 c 1 g 1 b 2 h 4 g 1 f 1 g 2
+c 1 e 4 d 5 e 1 c 1 f 1 b 2 g 2 b 1 g 2 f 1 g 2
+c 1 e 3 d 7 c 1 f 1 g 5 b 1 g 1 f 1 g 2
+c 1 e 3 d 7 c 1 f 1 g 5 b 1 g 1 f 1 g 2
+c 1 e 3 d 7 c 1 f 1 g 5 b 1 g 1 f 1 g 2
+c 1 e 3 d 7 c 1 f 1 b 2 g 2 b 1 g 2 f 1 g 2
+c 1 e 3 d 7 c 1 f 1 b 2 g 5 f 1 g 2
+c 1 e 3 d 7 c 1 f 1 g 7 f 3
+c 1 e 3 d 7 c 1 f 1 g 7 f 3
+c 1 e 2 d 7 c 1 f 1 g 7 f 1
+c 1 e 1 d 8 c 1 f 1 g 6 f 1
+c 1 d 8 c 1 f 7
+c 9

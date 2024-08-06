@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "May  1, 2018"
+description "you have to crawl"
+difficulty 1.25
+height 20
+id 31131
+link "https://webpbn.com/play.cgi?id=31131"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Before you can walk"
+width 20
+
+rows
+20
+20
+7,7
+20
+6,1,1,6
+20
+5,1,1,5
+20
+4,1,1,1,4
+20
+3,1,1,1,3
+20
+2,1,1,1,2
+20
+1,1,1,1,1
+20
+1,1,1
+20
+1,1
+20
+
+columns
+16,1,1
+14,1,1,1
+12,1,1,1,1
+10,1,1,1,1,1
+8,1,1,3,1,1
+6,1,3,1,1,1,1
+4,1,1,1,3,3,1
+2,1,3,1,1,1,1,1,1
+2,3,3,1,1,1,3
+2,1,1,1,3,3,1,1
+2,1,1,1,1,1,1,1,1,1
+2,1,5,1,1,3,1
+2,3,1,1,3,1,1,1
+4,1,1,3,3,1,1
+6,3,1,1,3,1
+8,1,1,1,1,3
+10,3,1,1,1
+12,1,1,1,1
+14,1,1,1
+16,1,1

@@ -1,0 +1,47 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 30, 2011"
+description "Tennis, anyone?"
+difficulty 1.25
+height 15
+id 14046
+link "https://webpbn.com/play.cgi?id=14046"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Fuzzy green ball sport"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 6
+blue 2 black 1 black 1 blue 2
+blue 1 black 6 blue 1
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 6 blue 1
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 6 blue 1
+blue 2 black 1 black 1 blue 2
+blue 2 black 2 blue 2
+blue 2
+black 2
+green 3 black 2
+green 3 black 2
+green 3 black 2
+
+columns
+green 3
+blue 7 green 3
+blue 2 black 5 blue 2 green 3
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 8 blue 1 black 4
+blue 1 black 1 black 1 black 1 black 1 blue 1 black 4
+blue 1 black 7 blue 1
+blue 2 black 1 black 1 black 1 blue 2
+blue 7
+0

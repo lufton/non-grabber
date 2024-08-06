@@ -1,0 +1,54 @@
+by "Natty (natalialiv75)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Natty"
+date "May 17, 2009"
+description ""
+difficulty 1.25
+height 7
+id 5881
+link "https://webpbn.com/play.cgi?id=5881"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "hello"
+width 25
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1 black 3 black 1 black 1 black 3 blue 1 blue 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1 blue 1
+black 3 black 2 black 1 black 1 black 1 black 1 blue 1 blue 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 3 black 3 black 3 blue 1 blue 1 blue 1
+0
+green 23
+
+columns
+black 5
+black 1 green 1
+black 5 green 1
+green 1
+black 5 green 1
+black 1 black 1 black 1 green 1
+black 1 black 1 green 1
+green 1
+black 5 green 1
+black 1 green 1
+black 1 green 1
+green 1
+black 5 green 1
+black 1 green 1
+black 1 green 1
+green 1
+black 5 green 1
+black 1 black 1 green 1
+black 5 green 1
+green 1
+blue 3 blue 1 green 1
+green 1
+blue 3 blue 1 green 1
+green 1
+blue 3 blue 1

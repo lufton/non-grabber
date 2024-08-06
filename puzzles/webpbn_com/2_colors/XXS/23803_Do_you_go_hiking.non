@@ -1,0 +1,27 @@
+by "RB (rb2013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by RB"
+date "Feb 12, 2014"
+description "A boot shoe."
+difficulty 2.25
+height 5
+id 23803
+link "https://webpbn.com/play.cgi?id=23803"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.25
+title "Do you go hiking?"
+width 5
+
+rows
+2
+1
+1,2
+1,1
+2
+
+columns
+1,2
+1
+1,1
+1,1
+2

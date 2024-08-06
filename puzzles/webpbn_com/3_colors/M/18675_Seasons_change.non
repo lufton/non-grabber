@@ -1,0 +1,69 @@
+by "Steve LaFortune (lafor399)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Steve LaFortune"
+date "May 17, 2012"
+description "There is only two seasons---- Winter and Road Construction"
+difficulty 1.5
+height 21
+id 18675
+link "https://webpbn.com/play.cgi?id=18675"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Seasons change"
+width 27
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 27
+black 1 red 25 black 1
+black 1 red 3 red 1 red 1 red 1 red 4 black 1
+black 1 red 3 red 2 red 1 red 2 red 1 red 2 red 1 red 2 red 3 black 1
+black 1 red 3 red 1 red 2 red 1 red 1 red 2 red 3 black 1
+black 1 red 3 red 1 red 2 red 2 red 1 red 2 red 1 red 2 red 3 black 1
+black 1 red 3 red 2 red 1 red 1 red 2 red 1 red 4 black 1
+black 1 red 25 black 1
+black 1 red 3 red 3 red 1 red 1 red 1 red 2 red 2 black 1
+black 1 red 3 red 3 red 1 red 2 red 1 red 2 red 1 red 1 red 3 black 1
+black 1 red 3 red 1 red 1 red 1 red 2 red 1 red 1 red 4 black 1
+black 1 red 3 red 1 red 1 red 1 red 2 red 1 red 1 red 2 red 1 red 3 black 1
+black 1 red 3 red 1 red 1 red 2 red 1 red 2 red 2 black 1
+black 1 red 25 black 1
+black 1 red 1 red 1 red 2 red 1 red 1 red 1 red 2 black 1
+black 1 red 1 red 2 red 1 red 2 red 1 red 3 red 2 red 1 red 2 red 1 black 1
+black 1 red 1 red 1 red 1 red 2 red 1 red 2 red 1 black 1
+black 1 red 1 red 2 red 1 red 2 red 1 red 3 red 2 red 1 red 2 red 1 black 1
+black 1 red 1 red 2 red 1 red 2 red 1 red 1 red 2 red 1 red 2 black 1
+black 1 red 25 black 1
+black 27
+
+columns
+black 21
+black 1 red 19 black 1
+black 1 red 13 red 1 black 1
+black 1 red 13 red 1 red 3 black 1
+black 1 red 1 red 1 red 1 red 1 red 3 black 1
+black 1 red 1 red 1 red 7 red 1 red 1 black 1
+black 1 red 1 red 1 red 4 red 7 black 1
+black 1 red 1 red 1 red 5 red 1 red 1 black 1
+black 1 red 7 red 3 red 3 black 1
+black 1 red 1 red 9 red 3 black 1
+black 1 red 1 red 3 red 1 red 1 red 1 black 1
+black 1 red 1 red 3 red 1 red 3 red 7 black 1
+black 1 red 1 red 1 red 3 red 1 red 1 black 1
+black 1 red 7 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 7 red 3 red 1 black 1
+black 1 red 1 red 1 red 3 red 7 black 1
+black 1 red 1 red 1 red 3 red 1 red 3 red 1 black 1
+black 1 red 1 red 1 red 1 red 2 red 1 red 3 black 1
+black 1 red 7 red 1 red 1 red 1 red 3 black 1
+black 1 red 1 red 7 red 1 black 1
+black 1 red 1 red 3 red 1 red 7 black 1
+black 1 red 1 red 3 red 3 red 3 red 1 black 1
+black 1 red 2 red 3 red 1 red 2 red 3 red 1 black 1
+black 1 red 7 red 3 red 1 red 3 red 1 black 1
+black 1 red 14 red 2 black 1
+black 1 red 19 black 1
+black 21

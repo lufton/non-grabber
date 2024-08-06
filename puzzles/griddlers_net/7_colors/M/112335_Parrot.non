@@ -1,0 +1,64 @@
+by "Lenchik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/30/11"
+height 28
+id 112335
+link "https://www.griddlers.net/nonogram/-/g/112335"
+medium_time "0:02:46"
+points 412
+popularity 72.25
+title "Parrot"
+width 12
+
+color a ccffcc
+color b 00ccff
+color c 6699ff
+color d ffcccc
+color e ffffff
+color f cc6600
+color g 000000
+
+rows
+e 4
+e 6
+e 2 g 1 e 2 d 2
+e 5 d 1
+e 6
+b 1 e 4 b 1
+b 6
+b 8
+b 8
+c 1 b 6 c 1
+c 3 b 4 c 3
+c 10
+c 10
+c 10
+c 10
+c 10
+c 8
+c 8
+c 1 d 1 c 2 d 1 c 1
+f 4 d 1 f 2 d 1 f 4
+c 4
+c 4
+c 4
+b 1 c 2 b 1
+b 4
+b 4
+b 2
+b 2
+
+columns
+f 1
+c 6 f 1
+b 2 c 9 f 1
+e 4 b 5 c 9 f 1
+e 6 b 5 c 7 d 2 c 3 b 3
+e 2 g 1 e 3 b 5 c 8 f 1 c 4 b 4
+e 6 b 5 c 8 f 1 c 4 b 4
+e 6 b 5 c 7 d 2 c 3 b 3
+e 1 d 2 e 1 b 5 c 9 f 1
+d 1 b 2 c 9 f 1
+c 6 f 1
+f 1

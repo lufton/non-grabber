@@ -1,0 +1,33 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jota"
+date "May 29, 2012"
+description "Let's kiss to warm up."
+difficulty 1.0
+height 7
+id 18810
+link "https://webpbn.com/play.cgi?id=18810"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "WCP # 110 Illegal It's cold!"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2
+black 2 red 1 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+red 2 red 2
+
+columns
+black 6 red 1
+black 2 red 1
+red 1
+black 2 red 1
+black 6 red 1

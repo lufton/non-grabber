@@ -1,0 +1,60 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/1/07"
+height 19
+id 43200
+link "https://www.griddlers.net/nonogram/-/g/43200"
+medium_time "0:06:16"
+points 4648
+popularity 73.13
+title "Bird"
+width 16
+
+color a ccccff
+color b 000000
+color c 969696
+color d ff9900
+color e ffffff
+color f 0000ff
+color g ffff99
+color h 000099
+
+rows
+f 5
+c 1 e 3 f 3
+f 1 c 1 e 3 f 2
+f 1 e 2 c 2 b 1 e 1 f 1
+f 4 e 2 c 1 d 2
+f 2 h 1 f 2 g 4 d 1
+f 2 h 1 f 1 g 6
+f 2 h 1 f 1 g 7
+f 2 h 1 f 2 g 4 c 1 g 2
+f 1 h 1 f 1 g 4 c 3 g 1
+f 1 h 1 g 5 c 3 g 2
+g 4 c 3 g 2
+f 1 g 4 d 1 g 1 d 1 g 1
+f 1 h 3 g 3
+f 2 h 1 f 1 h 1 g 1
+f 2 h 1 f 1 h 1 f 1
+h 1 f 1 h 1 f 1
+f 1 h 2 f 1
+f 1
+
+columns
+f 1
+f 2 h 1 f 1
+f 1 f 2 h 1 f 1 h 1
+f 2 h 1 f 1 h 2 f 1 h 2 f 1
+f 2 h 1 g 3 h 1 f 1 h 1 f 2
+f 2 h 1 f 1 g 3 h 2 f 1
+f 2 h 1 f 1 g 6
+f 2 h 1 f 2 g 5
+f 2 h 1 f 1 g 4 c 1 d 1 g 1
+c 1 f 1 e 1 f 2 g 4 c 2 g 1
+f 1 e 1 c 1 e 1 f 2 g 3 c 3 d 1
+f 1 e 2 c 1 e 1 g 4 c 2 g 2
+f 1 e 2 c 1 e 1 g 3 c 2 g 2
+f 2 e 1 b 1 c 1 g 6
+f 3 e 1 d 1 g 4
+f 3 d 2

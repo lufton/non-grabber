@@ -1,0 +1,47 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/15/06"
+height 12
+id 40731
+link "https://www.griddlers.net/nonogram/-/g/40731"
+medium_time "0:02:24"
+points 92
+popularity 60.49
+title "Teapot"
+width 14
+
+color a ccffcc
+color b 9900ff
+color c ffffff
+color d cccc00
+
+rows
+b 1
+b 3
+b 5
+d 2 c 5 c 2
+d 4 c 7 c 2
+d 1 d 1 c 10
+d 2 c 10
+d 2 c 9
+d 2 c 8
+c 8
+c 6
+b 4
+
+columns
+d 3
+d 2 d 2
+d 2 d 2
+d 2 c 2 d 1 c 1
+c 7
+b 1 c 8 b 1
+b 2 c 8 b 1
+b 3 c 8 b 1
+b 2 c 8 b 1
+b 1 c 8
+c 6
+c 4
+c 4
+c 3

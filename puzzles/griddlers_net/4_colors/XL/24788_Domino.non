@@ -1,0 +1,84 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/2/05"
+height 31
+id 24788
+link "https://www.griddlers.net/nonogram/-/g/24788"
+medium_time "0:30:35"
+points 106796
+popularity 78.35
+title "Domino"
+width 32
+
+color a ffffff
+color f cbcbcd
+color g 808080
+color h 000000
+
+rows
+g 3
+g 1 f 1 g 2
+g 3 g 1 f 2 f 1 g 2
+g 1 f 1 g 2 f 4 f 1 g 2
+g 1 f 2 f 1 g 2 f 4 g 1 h 1
+g 2 f 4 f 1 g 2 f 3 g 2 h 1
+g 1 g 1 f 5 g 1 h 1 f 2 g 2 h 1
+g 1 f 1 g 1 f 5 g 2 h 1 f 2 g 2 h 1
+g 1 f 3 g 1 f 4 g 2 h 1 f 2 g 2 h 1
+g 1 f 4 g 1 f 3 g 2 h 1 f 2 g 2 h 1
+g 1 f 1 h 2 f 3 g 1 f 2 g 2 h 1 f 2 g 2 h 1
+g 1 f 1 h 2 f 4 g 1 f 1 g 2 h 1 g 4 h 1
+g 3 f 5 h 2 f 1 g 2 h 1 f 1 g 2 h 1 g 2 h 1
+g 1 f 3 g 1 f 4 h 2 f 1 g 2 h 1 g 3 h 1 f 2 g 2 h 1
+g 1 f 3 g 2 f 5 g 2 h 1 g 2 h 1 f 2 g 2 h 1
+g 1 f 4 f 1 g 2 f 4 g 2 h 1 f 2 g 2 h 1 f 2 g 2 h 1
+g 1 f 6 g 1 g 1 f 2 g 2 h 1 f 3 g 2 h 1 f 2 g 2 h 1
+g 1 g 1 f 2 h 2 f 1 f 1 g 1 g 1 f 1 g 2 h 1 f 3 g 2 h 1 f 2 g 2 h 1
+g 1 f 1 g 1 f 2 h 2 f 2 g 1 f 1 g 2 h 1 f 4 g 2 h 1 f 2 g 2 h 1
+g 1 f 3 g 1 f 5 f 1 h 1 f 1 g 2 h 1 f 4 g 2 h 2 f 1 g 1 h 2
+g 1 f 4 g 1 f 5 g 2 h 1 g 2 h 3 f 3 g 2 h 1 g 1 h 2
+g 1 f 6 g 1 f 3 g 3 h 1 g 2 h 1 g 2 h 2 f 1 g 1 h 2
+h 1 f 3 h 2 f 1 g 1 f 2 g 3 h 1 g 2 h 1 g 5 h 2
+h 1 f 3 h 2 f 2 g 4 h 1 f 1 g 2 h 1 g 3
+h 1 f 6 g 3 h 1 f 1 g 2 h 1 g 2
+h 1 f 6 g 3 h 1 g 1 h 1 g 2 h 1
+h 1 f 4 g 3 h 1 g 3 h 2
+h 1 f 3 g 3 h 1 g 3
+h 1 f 1 g 3 h 1 g 2
+h 1 g 3 h 1 g 1
+h 3 g 1
+
+columns
+g 1 h 2
+g 1 f 3 h 2
+g 1 f 6 h 2
+g 1 f 9 h 2
+g 1 f 4 h 2 f 5 g 1 h 1
+g 1 f 3 h 2 f 4 g 2 h 1
+g 1 f 1 g 2 f 6 g 3 h 1
+g 1 f 4 g 2 f 3 g 3 h 1 g 1
+g 1 f 7 g 2 g 3 h 1 g 1
+g 1 f 4 h 2 f 4 g 4 h 1 g 1
+g 1 f 4 h 2 f 4 g 3 h 1 g 2
+g 1 f 1 f 6 g 3 h 1 g 2
+g 2 f 1 g 2 f 1 f 3 g 3 h 1 g 3
+g 2 f 4 g 3 f 1 g 3 h 1 f 1 h 1 g 1
+g 2 f 2 h 2 f 3 g 1 g 2 f 1 g 2 h 1 f 1 g 2 h 1
+g 1 f 3 h 2 f 4 g 1 f 1 h 3 g 4 h 1
+g 3 f 9 g 1 f 1 g 4 h 2
+g 1 f 2 g 1 f 3 h 2 f 4 g 4 h 2 g 1
+g 1 f 3 g 1 f 2 h 2 f 2 g 4 h 2 g 3
+g 1 f 1 f 3 g 1 f 3 g 4 h 3 g 3
+g 1 f 4 g 1 g 4 h 2 f 2 h 1 g 3
+g 3 f 1 f 4 g 1 g 2 h 2 f 5 h 1 g 1
+g 1 f 2 g 1 f 5 g 1 h 2 f 6 h 1 g 1
+g 1 f 2 g 1 f 1 f 6 g 1 f 7 h 1
+g 1 f 1 f 2 g 1 g 15 h 1
+g 1 f 2 g 16 h 1
+g 1 f 1 f 2 h 16
+g 1 f 7 g 1 f 6 h 1 g 1
+g 1 f 1 f 6 g 1 f 7 h 1
+g 1 g 15 h 1
+g 16 h 1
+h 16

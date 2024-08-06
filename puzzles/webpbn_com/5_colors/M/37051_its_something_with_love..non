@@ -1,0 +1,63 @@
+by "Susan Eberhardt (susaneber)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Susan Eberhardt"
+date "Aug 14, 2023"
+description "By Violet Eberhardt"
+difficulty 1.25
+height 20
+id 37051
+link "https://webpbn.com/play.cgi?id=37051"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "it's something with love."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 6 red 3 black 3 red 3 black 5
+black 5 red 5 black 1 red 5 black 4
+black 4 red 13 black 3
+red 13
+blue 1 red 13 blue 1
+blue 1 blue 1 blue 1 red 11 blue 1 blue 1
+blue 1 blue 1 red 9 blue 1 blue 1
+blue 7 red 7 blue 6
+blue 8 red 5 blue 7
+blue 9 red 3 blue 8
+green 1 green 1 red 1 red 1 red 1
+green 1 green 1 green 1 green 1 red 5 green 1
+green 2 green 1 green 2 green 2 red 5 green 2
+green 11 red 3 green 1 green 1
+green 3 red 1 green 1 red 1 green 8 red 1 green 5
+green 2 red 5 green 13
+green 2 red 5 green 13
+green 3 red 3 green 14
+green 4 red 1 green 15
+
+columns
+black 4 blue 2 blue 3 green 8
+black 4 blue 4 green 1 green 7
+black 4 blue 1 blue 3 green 2 red 2 green 2
+black 4 blue 3 green 1 green 1 red 4 green 1
+black 3 red 3 blue 5 green 3 red 4
+black 2 red 5 blue 3 green 1 red 4 green 1
+black 1 red 7 blue 3 green 3 red 2 green 2
+black 1 red 8 blue 2 green 7
+black 1 red 9 blue 1 green 1 green 6
+black 2 red 9 green 8
+black 3 red 9 green 7
+black 2 red 9 green 1 green 5
+black 1 red 9 blue 1 red 2 green 5
+black 1 red 8 blue 2 red 4 green 5
+black 1 red 7 blue 3 red 4 green 4
+black 2 red 5 blue 3 red 4 green 5
+black 3 red 3 blue 4 red 2 green 5
+black 4 blue 1 blue 3 green 7
+black 4 blue 1 blue 4 green 1 green 5
+black 4 blue 1 blue 3 green 1 green 6

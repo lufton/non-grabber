@@ -1,0 +1,87 @@
+by "StoVoKor5506"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/3/08"
+height 15
+id 57721
+link "https://www.griddlers.net/nonogram/-/g/57721"
+medium_time "0:08:56"
+points 3329
+popularity 74.14
+title "PacMan"
+width 50
+
+color a 000000
+color b 0033ff
+color c ffffff
+color e ff9900
+color f ffff33
+
+rows
+f 5
+b 4 f 10 e 5
+b 8 f 12 e 8
+b 10 f 13 e 10
+b 4 c 2 b 4 c 2 f 11 e 4 c 2 e 4 c 2
+b 3 c 4 b 2 c 4 f 10 e 3 c 4 e 2 c 4
+b 3 c 4 b 2 c 4 f 7 e 3 c 4 e 2 c 4
+b 3 c 2 b 2 c 2 f 5 c 2 e 3 c 2 e 2 c 2
+b 4 c 2 b 2 c 2 b 1 f 5 c 2 e 4 c 2 e 2 c 2 e 1
+b 5 c 2 b 4 c 2 b 2 f 7 e 5 c 2 e 4 c 2 e 2
+b 16 f 10 e 15
+b 16 f 11 e 15
+b 16 f 13 e 15
+b 17 f 12 e 15
+b 7 b 4 b 4 f 10 e 5 e 4 e 4
+
+columns
+b 2
+b 5
+b 7
+b 11
+b 12
+b 13
+b 3 c 4 b 6
+b 3 c 6 b 4
+b 3 c 3 c 1 b 5
+b 4 c 2 b 6
+b 14
+b 13
+b 3 c 4 b 5
+b 1 c 6 b 5
+c 3 c 1 b 5
+c 2 b 6
+b 7
+0
+0
+f 6
+f 10
+f 12
+f 14
+f 14
+f 7 f 6
+f 7 f 6
+f 6 f 5
+f 6 f 5
+f 6 f 5
+f 4 f 4
+f 4 f 4
+f 3 c 2 f 3
+f 2 c 2 f 2
+0
+0
+e 7
+e 11
+e 12
+e 13
+e 3 c 4 e 6
+e 3 c 6 e 4
+e 3 c 3 c 1 e 5
+e 4 c 2 e 6
+e 14
+e 14
+e 3 c 4 e 5
+e 1 c 6 e 5
+c 3 c 1 e 5
+c 2 e 6
+e 7

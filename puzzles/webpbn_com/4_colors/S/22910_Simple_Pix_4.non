@@ -1,0 +1,47 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Scarlet Noelle Masen"
+date "Oct  8, 2013"
+description "Lollipop"
+difficulty 1.5
+height 15
+id 22910
+link "https://webpbn.com/play.cgi?id=22910"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Simple Pix 4"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 2 green 1 blue 2
+blue 2 green 1 blue 2 green 1 blue 2
+blue 2 green 1 blue 2 blue 1 blue 2
+blue 1 green 1 blue 2 blue 2 blue 1
+blue 1 green 1 blue 1 blue 2 blue 1
+blue 1 green 1 blue 1 blue 2 blue 1
+blue 2 blue 1 blue 2
+blue 2 blue 2
+blue 4
+black 1
+black 1
+black 1
+black 1
+black 1
+
+columns
+blue 4
+blue 2 green 3 blue 1
+blue 2 green 1 blue 5
+blue 2 green 1 blue 2 blue 2
+blue 1 green 1 blue 2 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 black 5
+blue 2 green 1 blue 4 blue 2
+blue 2 blue 2 blue 2
+blue 2 blue 1
+blue 4

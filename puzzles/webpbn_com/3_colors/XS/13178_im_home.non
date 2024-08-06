@@ -1,0 +1,39 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by ant"
+date "Apr  3, 2011"
+description "first face I see when I get home from work. easy puzzle but i liked the image."
+difficulty 1.25
+height 9
+id 13178
+link "https://webpbn.com/play.cgi?id=13178"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "i'm home!"
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 1 black 1
+blue 1 blue 1
+black 1
+black 1
+black 1 black 1
+black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+
+columns
+black 2
+black 1 blue 1
+black 1
+blue 1 black 2
+black 1
+black 2 black 3
+0
+0
+black 3 black 2

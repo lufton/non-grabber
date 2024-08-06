@@ -1,0 +1,57 @@
+by "Sam (cementuh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sam"
+date "Apr 19, 2023"
+description "Classic braid"
+difficulty 1.75
+height 30
+id 36723
+link "https://webpbn.com/play.cgi?id=36723"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Math doodle puzzle #3"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 1 blue 2
+green 2 blue 2 black 1
+green 2 black 1
+blue 2 green 1 black 2
+blue 1 black 2 green 1
+blue 2 black 1 green 1
+black 1 blue 2 green 2
+black 1 green 2
+black 2 green 1 blue 2
+green 1 black 2 blue 1
+green 1 black 1 blue 2
+green 2 blue 2 black 1
+green 2 black 1
+blue 2 green 1 black 2
+blue 1 black 2 green 1
+blue 2 black 1 green 1
+black 1 blue 2 green 2
+black 1 green 2
+black 2 green 1 blue 2
+green 1 black 2 blue 1
+green 1 black 1 blue 2
+green 2 blue 2 black 1
+green 2 black 1
+blue 2 green 1 black 2
+blue 1 black 2 green 1
+blue 2 black 1 green 1
+black 1 blue 2 green 2
+black 1 green 2
+black 2 green 1 blue 2
+black 2 blue 1
+
+columns
+green 2 blue 3 black 3 green 3 blue 3 black 3 green 3 blue 3 black 3
+green 2 blue 1 blue 2 black 2 green 2 blue 1 blue 2 black 2 green 2 blue 1 blue 2 black 2
+black 1 blue 1 green 2 black 2 blue 1 green 2 black 2 blue 1 green 2 black 2 blue 1 green 2 black 2 blue 1 green 2 black 2 blue 1 green 2 black 1
+blue 2 black 2 green 2 blue 1 blue 2 black 2 green 2 blue 1 blue 2 black 2 green 2 blue 1
+blue 1 black 3 green 3 blue 3 black 3 green 3 blue 3 black 3 green 3 blue 2

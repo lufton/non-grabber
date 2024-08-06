@@ -1,0 +1,52 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/1/17"
+height 15
+id 183182
+link "https://www.griddlers.net/nonogram/-/g/183182"
+medium_time "0:08:00"
+points 1804
+popularity 83.1
+title "Rose"
+width 15
+
+color a ffffff
+color b fbb9b9
+color c e67070
+color d c11e1e
+color e 00d700
+
+rows
+e 1 b 3
+e 2 b 7
+e 3 b 4 c 2 b 3 e 1
+e 3 c 1 b 2 c 2 b 1 c 2 b 2 e 2
+e 2 b 2 c 1 d 2 c 1 d 1 b 1 d 1 c 1 b 2
+e 2 b 1 c 1 d 2 b 2 c 1 d 1 b 1 d 1 c 1 b 1
+b 2 c 1 d 1 b 1 c 1 d 1 c 1 d 1 b 1 d 1 c 2 b 1
+b 2 c 1 b 1 c 1 b 1 c 1 d 2 b 1 c 1 d 1 b 1 c 1 b 1
+b 1 c 2 d 2 c 1 b 3 c 1 d 1 b 1 c 1 b 2
+b 2 c 1 d 1 c 1 d 2 c 1 d 2 c 2 b 2
+b 2 c 2 b 1 c 1 d 1 c 3 b 2 e 1
+e 2 b 2 c 2 b 1 c 2 b 3 e 2
+e 3 b 4 b 4 e 1
+e 2 b 2 e 3 e 1
+e 1 e 4
+
+columns
+e 6 b 3 e 3
+e 5 b 2 c 1 b 2 e 3
+e 2 b 3 c 3 b 1 e 2
+b 1 c 1 b 1 c 2 b 1 d 2 c 1 b 2
+b 3 c 1 d 2 c 1 d 1 c 2 b 3
+b 3 d 2 b 2 c 1 d 1 b 1 c 1 b 2
+b 3 c 1 d 1 b 1 c 2 b 1 d 1 c 2 b 1
+b 2 c 3 b 1 d 2 b 1 c 1 d 1 b 1
+b 2 c 1 b 1 d 1 c 2 d 1 b 1 d 1 c 2 b 1 e 1
+b 2 c 1 b 1 d 2 b 1 c 1 d 1 c 2 b 1 e 2
+b 2 c 1 d 1 b 2 c 1 d 1 c 2 b 2 e 2
+b 2 c 1 d 3 b 1 c 1 b 3 e 1
+b 2 c 2 b 1 c 1 b 3 e 1
+e 1 b 2 c 2 b 2 e 2
+e 2 b 3 e 3

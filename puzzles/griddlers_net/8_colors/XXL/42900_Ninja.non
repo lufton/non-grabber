@@ -1,0 +1,120 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/19/07"
+height 45
+id 42900
+link "https://www.griddlers.net/nonogram/-/g/42900"
+medium_time "0:45:48"
+points 112477
+popularity 75.89
+title "Ninja"
+width 50
+
+color a ffffff
+color b 212f73
+color c 3850c0
+color d ccaa00
+color e 000000
+color f bdbdbd
+color g 969696
+color h a12136
+
+rows
+b 8
+b 1 c 2 b 1
+b 1 c 8 b 1
+b 1 c 4 b 5
+b 1 c 3 b 1 d 5
+b 1 c 3 b 1 d 1 e 2 d 2
+b 1 c 3 b 1 d 5
+b 1 c 4 b 5
+f 1 b 1 c 8 b 1
+g 1 f 1 b 1 c 7 b 1
+g 2 f 1 b 1 c 6 b 1
+g 2 f 1 b 6
+g 2 f 1 b 4 c 1 b 2 c 3 b 6
+g 2 f 1 b 2 c 4 c 2 b 2
+g 2 f 1 b 1 c 1 c 5 c 10 b 2
+g 2 f 1 b 1 c 8 c 13 b 1
+g 2 f 1 b 1 c 9 c 6 b 3 c 4 b 1
+g 2 f 1 b 1 c 9 c 6 b 1 b 2 c 3 b 1
+g 2 f 1 b 3 c 2 b 2 b 1 c 2 c 5 b 1 b 2 c 2 b 1
+g 2 f 1 b 7 b 1 c 1 c 6 b 1 b 2 c 2 b 1
+g 2 f 1 h 1 b 2 c 2 b 1 b 1 c 5 b 1 b 1 c 2 b 1
+g 2 h 1 b 1 c 2 b 1 b 1 c 6 b 1 b 1 c 3 b 1
+h 2 d 1 c 3 b 1 b 1 c 5 b 1 b 2 c 3
+h 3 d 2 c 1 b 1 b 1 c 1 h 1 b 3 h 3 b 1 c 3
+h 2 d 4 h 1 b 4 h 6 b 1 c 2 d 1
+h 1 d 2 h 2 h 6 c 3 b 1 d 3
+h 1 d 2 h 3 b 1 c 6 c 1 b 1 d 2
+d 1 b 1 c 6 c 1 b 3
+b 1 c 8 c 2 b 1
+b 1 c 1 c 9 c 1 b 1
+b 1 c 1 c 3 b 1 c 6 c 1 b 1
+b 1 c 3 b 4 c 7 b 1
+b 1 c 2 c 4 b 1 b 2 c 6 b 1
+b 1 c 5 b 2 b 1 c 6 b 1
+b 1 c 4 b 1 b 1 c 5 b 1
+b 1 c 2 b 1 b 1 c 4 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+b 1 c 1 b 2 b 1 c 1 b 2
+b 3 b 3
+b 3 b 3
+b 1 c 1 b 2 b 1 c 1 b 1
+b 1 c 2 b 1 b 1 c 3 b 3
+b 1 c 3 b 1 b 1 c 6 b 1
+b 1 c 3 b 1 b 1 c 6 b 1
+b 4 b 7
+
+columns
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2
+f 1 g 2 h 3
+f 1 g 1 h 3
+h 3 d 1
+h 1 b 1 d 4
+b 1 c 1 d 3
+b 1 c 2 d 1 h 2
+b 1 c 2 b 1 h 1 d 2
+b 1 c 2 b 1 d 1
+b 2 c 1 b 1
+b 4
+b 1 c 1 b 2
+b 1 c 3 b 1
+b 1 c 4 b 1
+b 1 c 4 b 1 b 3 b 3
+b 1 c 3 b 1 h 1 b 2 c 3 b 3 b 1 c 2 b 1
+b 1 c 3 h 1 h 1 b 1 c 1 c 6 b 2 c 4 b 1
+b 8 b 1 c 4 b 2 b 1 h 2 b 1 c 1 c 4 b 4 c 3 b 1
+b 1 c 8 b 1 b 1 c 6 b 2 b 1 h 1 b 2 c 1 c 3 b 10
+b 1 c 9 b 1 b 1 c 6 c 1 b 3 h 1 c 4 c 3 b 1
+b 1 c 9 b 1 c 5 c 5 b 1 h 1 c 7 b 1
+b 1 c 2 b 3 c 4 b 2 c 2 c 6 h 3 c 7 b 1
+b 1 c 1 b 1 d 3 b 1 c 3 b 2 c 1 c 8 b 1 h 2 c 5 b 2
+b 1 c 1 b 1 d 1 e 1 d 1 b 1 c 3 b 1 c 1 c 9 b 1 h 1 c 5 b 2
+b 1 c 1 b 1 d 1 e 1 d 1 b 1 c 3 b 1 c 1 c 9 b 1 h 1 c 6 b 1
+b 1 c 1 b 1 d 3 b 1 c 3 b 1 c 8 b 3 h 2 c 1 c 3 b 1
+b 3 d 3 b 4 b 1 c 5 b 2 h 2 b 1 c 2 c 3 b 1
+b 1 c 3 b 1 h 1 b 2 c 3 b 2
+b 1 c 2 b 1 b 1 c 1 c 4 b 1 b 3
+b 1 c 2 b 1 b 1 c 1 c 5 b 1 b 2 c 3 b 1
+b 1 c 2 b 1 b 1 c 1 c 5 b 4 c 4 b 1
+b 2 c 3 b 1 b 1 c 8 b 3 c 3 b 1
+b 1 c 3 b 1 b 1 c 6 b 2 b 1 c 2 b 1
+b 1 c 3 b 1 b 1 c 4 b 2 b 1 c 2 b 1
+b 1 c 3 b 2 b 4 b 1 c 2 b 1
+b 2 c 2 b 4 b 3
+b 1 c 4 b 3
+b 1 c 6 d 1
+b 2 c 4 d 2
+b 1 c 2 d 3

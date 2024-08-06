@@ -1,0 +1,57 @@
+by "Patrick Gosser (pgosser01)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Patrick Gosser"
+date "Nov  1, 2018"
+description "Congrats you solved the doot. You win!"
+difficulty 1.25
+height 20
+id 31734
+link "https://webpbn.com/play.cgi?id=31734"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Mr. Skeltal"
+width 20
+
+rows
+20
+3,1,1,3
+2,1,1,2
+2,10,2
+6,6
+1,1,1,1
+1,1,1,1
+1,1,3,3,1,1
+1,1,3,3,1,1
+1,1,3,3,1,1
+1,1,2,1,1
+1,1,2,1,1
+1,2,2,1
+1,2,2,1,1,1,2,1
+4,1,1,1,2,4
+2,8,2
+2,2,2,2
+3,1,1,3
+6,6
+20
+
+columns
+20
+5,6
+2,1,1,3
+1,1,2,2
+1,6,1,2
+5,3,4
+1,1,3,5,1
+1,1,3,1,1,1
+1,1,3,2,1
+1,1,2,1,1,1
+1,1,2,2,1
+1,1,3,1,1,1
+1,1,3,2,1
+1,1,3,5,1
+5,3,4
+1,6,1,2
+1,1,2,2
+2,1,1,3
+5,6
+20

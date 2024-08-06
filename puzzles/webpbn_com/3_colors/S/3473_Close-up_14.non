@@ -1,0 +1,51 @@
+by "Adam Nielson (monkeyboy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Adam Nielson"
+date "Sep  8, 2008"
+description "What do you think it is? Feel free to post your guesses in the comments section. Answer will be posted in a couple days."
+difficulty 1.25
+height 15
+id 3473
+link "https://webpbn.com/play.cgi?id=3473"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Close-up #14"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 black 5
+blue 5 black 5
+blue 5 black 5
+blue 5 black 7
+blue 1 blue 5 black 7
+blue 2 blue 5 black 7
+blue 8 black 7
+blue 8 black 7
+blue 7 black 5
+blue 6 black 5
+blue 6 black 5
+blue 7 black 7
+blue 8 black 7
+blue 8 black 7
+blue 2 blue 5 black 7
+
+columns
+blue 4 blue 3
+blue 4 blue 4
+blue 8
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+black 15
+black 15
+black 15
+black 15
+black 15
+black 5 black 4
+black 5 black 4

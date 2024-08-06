@@ -1,0 +1,62 @@
+by "Syla Vims (syla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Syla Vims"
+date "Mar 20, 2012"
+description "Sunday was a beutifull day of early spring, flowers blooming and kids taking out their bikes. In the evening it began snowing, and Monday morning came with 15 cm of lose snow, just perfect for a snowman. So my boyfriend and I made one. Here we are putting on the head. He was 2 meters to his shoulders, and the head probably another 40 cm."
+difficulty 1.5
+height 20
+id 17999
+link "https://webpbn.com/play.cgi?id=17999"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Spring? Eh, no, that was yesterday."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 10 blue 7
+blue 9 blue 6
+blue 9 black 1 black 1 blue 6
+blue 9 blue 6
+blue 10 red 1 blue 1 black 3 blue 2
+blue 2 black 3 blue 2 red 1 red 2 black 2 blue 2
+blue 2 black 2 blue 1 red 2 red 2 black 1 blue 2
+blue 2 black 2 red 2 red 3 blue 3
+blue 2 black 1 red 3 black 1 red 3 blue 3
+blue 2 black 1 red 2 red 2 blue 3
+blue 3 red 2 red 2 blue 3
+blue 3 red 2 blue 1 black 1 blue 1 red 2 blue 3
+blue 3 red 2 blue 2 blue 2 red 2 blue 3
+blue 3 red 2 blue 1 blue 1 red 2 blue 3
+blue 3 red 2 black 1 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 1 black 2 blue 3
+black 2 black 2
+black 3 black 3
+
+columns
+blue 18
+blue 18
+blue 5 black 5 blue 8
+blue 5 black 3 red 7 black 5
+blue 5 black 1 red 7 black 5
+blue 7 red 2 blue 3 black 1
+blue 6 red 2 blue 1
+blue 5 red 2
+blue 5
+blue 1 blue 1
+black 1 black 1 black 1 black 1 black 1
+0
+black 1
+blue 1 red 3 blue 1
+blue 5 red 4 blue 3 black 1
+blue 4 black 1 red 7 black 6
+blue 4 black 2 red 7 black 6
+blue 4 black 3 blue 11
+blue 18
+blue 18

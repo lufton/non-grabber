@@ -1,0 +1,57 @@
+by "Ken Zell (kenzell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Ken Zell"
+date "Mar 22, 2023"
+description "This puzzle was used for a treasure hunt clue."
+difficulty 1.25
+height 20
+id 36565
+link "https://webpbn.com/play.cgi?id=36565"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Math problem"
+width 20
+
+rows
+3,5
+4,1,1
+2,2,1,1
+2,1,1
+2,5
+1,2,1,1
+1,2,1,1
+5,5,1,1
+1,5,5
+1
+1,1,6
+1,1,1,1
+1,1,1,1
+1,1,1,1
+5,1,1
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+1,6
+
+columns
+0
+1
+1
+5
+1
+1
+5
+1
+1,1
+2,2,1
+2,2,10
+9
+9
+2
+10
+9,1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+9,10

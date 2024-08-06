@@ -1,0 +1,31 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Apr  9, 2012"
+description "A devil duckie"
+difficulty 1.0
+height 5
+id 18242
+link "https://webpbn.com/play.cgi?id=18242"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "minimalist toy"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+red 1 black 1
+red 3 red 1
+red 4
+red 4
+
+columns
+red 1
+red 4
+black 2 red 3
+red 2
+red 3

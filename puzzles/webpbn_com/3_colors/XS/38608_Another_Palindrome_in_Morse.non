@@ -1,0 +1,39 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Yonah Kondor"
+date "May  8, 2024"
+description "And I can actually see the race car!"
+difficulty 1.0
+height 7
+id 38608
+link "https://webpbn.com/play.cgi?id=38608"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Another Palindrome in Morse"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 3 black 1
+red 1 red 3
+red 3 red 1 red 3 red 1
+red 1
+red 3 red 1 red 3 red 1
+red 1 red 3
+black 1 red 3 black 1
+
+columns
+black 1 red 5 black 1
+red 1 red 1
+red 3 red 3
+red 2 red 2
+red 3 red 3
+0
+black 1 red 1 red 1 black 1
+red 1 red 1
+red 1 red 1
+0
+red 1 red 1

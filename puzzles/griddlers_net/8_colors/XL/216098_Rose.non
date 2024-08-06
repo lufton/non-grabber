@@ -1,0 +1,111 @@
+by "koko"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/30/20"
+height 50
+id 216098
+link "https://www.griddlers.net/nonogram/-/g/216098"
+medium_time "2:25:22"
+points 86659
+popularity 87.5
+title "Rose"
+width 36
+
+color a B0E0E6
+color b FFFF33
+color c FF0066
+color d FF6666
+color e FF99FF
+color f 66CC33
+color g 336600
+color h 9999FF
+
+rows
+f 1
+f 1 f 1
+g 1 e 1
+g 1 e 1 f 1
+f 1 d 1 e 1 f 1 g 2
+g 1 d 1 e 1 d 1 g 1 e 1
+d 1 e 2 d 1 f 1 f 1 d 4 e 2
+d 1 e 1 f 1 d 2 g 2 g 1 c 1 d 2 e 3
+c 1 d 1 g 1 d 1 c 1 g 1 c 1 g 1 f 1 e 2
+f 3 c 1 d 1 g 1 c 1 f 1 g 1 g 1 f 1 c 1 d 2
+f 3 c 2 f 2 g 2 f 2
+f 1 g 1 f 1 g 1 f 1 c 1 g 1 f 2 g 1 f 3
+f 2 g 2 f 1 g 1 g 2 f 1 g 1 f 3 f 1 g 1
+f 1 f 1 g 2 f 2 g 1 f 1 g 1 g 1 f 1 g 1 f 2
+f 1 f 1 h 1 f 2 g 1 h 1 g 1 f 1 g 1 f 1 h 2 f 2 g 1
+f 1 g 1 g 1 h 3 f 1 h 3 f 1 g 1 f 1 h 2 b 1 h 1 f 1 g 1 f 1
+h 1 h 1 f 3 h 1 g 1 f 1 f 1 f 1 h 1 h 4 h 1 h 1
+h 3 g 1 h 1 g 2 f 1 g 1 f 1 h 3 h 2 h 3 h 3 f 1
+h 1 h 2 h 3 f 1 g 2 f 1 e 4 e 2 h 1 h 1
+g 1 h 2 b 1 h 1 h 1 g 4 e 10 h 2
+h 4 f 3 e 2 d 1 e 1 d 1 e 1 d 2 e 3 h 2 b 1 h 1
+h 2 e 2 d 2 c 3 d 2 e 1 h 4
+f 1 g 2 e 2 d 2 c 1 e 3 c 1 d 1 e 3 h 2
+f 3 g 2 e 4 d 1 c 1 e 2 c 1 e 1 c 1 d 2 e 3
+f 3 e 3 d 1 e 2 c 1 e 1 c 1 e 2 c 1 d 2 e 3 h 2
+e 4 d 1 e 1 d 1 e 1 d 1 e 1 c 1 d 1 e 4 h 2 b 1 h 1
+e 2 d 1 e 2 d 1 e 2 c 1 d 3 e 3 h 4
+e 2 d 3 e 3 c 2 d 2 e 2 h 2
+e 2 d 1 c 2 e 5 c 1 d 1 e 1 e 2 f 1
+e 4 c 1 e 7 d 1 e 6 f 2
+e 2 d 1 e 1 d 1 e 7 c 2 d 2 e 3
+f 3 e 3 d 2 e 6 c 2 d 2 e 4
+f 3 e 1 d 2 c 1 e 4 d 1 c 1 d 1 e 4
+f 1 g 1 f 3 e 1 d 1 c 4 d 1 e 1 d 2 e 2
+f 1 g 1 f 1 g 1 f 3 e 3 d 1 c 1 d 1 e 1 g 1 e 3 d 1 e 1 f 1
+f 2 g 2 f 2 e 3 d 3 e 2 g 1 e 3 f 3
+f 1 g 3 f 1 g 1 e 5 d 1 e 2 g 1 f 2 g 1 f 1
+f 4 g 2 f 1 e 7 g 1 f 3 g 1 f 1
+f 2 g 4 f 1 g 1 e 3 g 1 f 2 g 1 f 1
+f 5 g 2 f 2 g 1 f 2 f 2 g 2
+g 4 f 1 g 2 f 1 f 1 g 1 f 2
+f 4 g 1 f 1 g 2 g 5
+f 1 f 1
+f 5 g 1 f 1 g 1
+f 2 g 4 g 1 g 1 f 5
+f 5 g 1 f 1 g 1 g 1 f 1 g 6 f 2
+f 2 g 4 f 1 g 3 f 1 g 2 f 6
+f 7 g 1 g 1 f 1 g 4 f 4
+f 1 g 1 g 1 f 1 g 2 f 5
+f 1 g 1 g 2
+
+columns
+f 1
+f 1
+f 1 f 1
+f 1 g 1 f 1
+h 1 f 1
+h 3 g 1 f 1 g 1 f 1
+h 1 g 2 f 1
+f 2 g 1 h 2 g 1 f 8 f 1
+f 1 h 1 h 4 f 2 g 2 f 1 g 1 f 3 f 2
+f 5 h 3 h 1 b 1 h 2 f 3 g 2 f 1 g 1 f 1 f 3
+f 2 g 1 f 1 g 1 f 1 h 1 f 1 h 2 f 1 g 3 f 1 g 1 f 1 f 2 g 1 f 1
+f 2 g 2 f 3 g 1 h 1 f 4 g 2 f 1 g 1 f 1 f 3 g 1 f 1
+f 1 g 2 f 1 g 1 h 1 f 1 h 3 e 3 e 3 f 2 g 3 f 1 g 1 f 1 f 1 g 1 f 1 g 1 f 1
+g 1 f 3 h 3 g 1 h 1 g 1 f 1 e 10 f 1 e 2 f 2 g 2 f 1 f 1 g 1 f 1 g 1 f 1
+d 2 c 2 g 3 h 1 g 2 f 1 g 1 f 1 e 3 d 1 e 3 d 1 e 1 d 1 e 4 g 3 f 1 f 1 g 2 f 1
+f 1 g 2 d 2 e 2 d 2 c 2 f 5 g 2 f 1 e 2 d 1 e 2 d 2 e 2 d 2 e 5 g 1 f 1 g 1 f 1 f 1
+e 5 f 1 g 2 c 1 g 2 g 3 e 5 d 1 e 1 d 1 c 2 d 2 d 1 e 1 d 1 e 2 f 2 g 1 g 3
+d 4 c 1 f 2 g 4 f 3 e 3 d 2 e 2 d 2 c 1 e 3 c 2 d 2 e 3 f 2 g 1 f 1 g 3
+d 1 c 1 f 4 e 1 d 3 c 2 d 1 e 7 c 2 d 2 e 2 f 1 g 2 g 1
+f 1 g 3 f 2 h 1 e 3 d 1 c 1 e 10 c 1 d 1 e 4 g 2 g 1
+g 1 f 1 h 2 e 2 d 1 c 1 e 2 c 1 d 1 c 1 e 6 c 1 e 4 g 1 f 1
+g 2 h 1 e 3 c 1 e 1 c 1 e 2 d 1 c 1 e 5 d 1 g 5 f 1 f 1 g 1 g 1
+f 1 g 2 f 1 e 2 d 1 c 1 e 3 c 1 d 1 c 1 e 4 d 1 e 2 f 2 g 1 g 1 f 1
+g 1 g 2 f 2 h 2 e 1 d 2 c 3 d 3 c 1 e 2 c 2 d 1 e 2 g 1 f 1 g 4
+c 2 f 4 h 4 e 3 d 4 e 2 d 3 c 2 d 2 e 2 f 4 g 1 f 1 g 2 f 3
+d 2 g 1 c 1 f 2 f 1 h 1 b 1 h 2 e 5 d 2 e 5 c 1 d 1 e 2 d 1 e 1 f 4 g 2 f 1 g 1 f 1 g 3
+f 1 g 1 d 2 f 1 d 1 f 1 g 1 h 2 e 2 e 6 e 1 d 2 e 3 f 3 g 2 f 1 g 1 f 1 g 1 f 1 g 2
+d 1 e 2 d 1 g 1 h 1 e 4 e 1 d 1 e 2 f 1 g 2 f 1 g 1 f 1 f 3 g 1 f 1 g 1
+d 1 e 2 f 2 h 3 h 2 e 2 e 5 f 4 f 2 g 1 f 1 g 1
+e 3 f 2 g 1 h 1 h 4 h 2 e 4 f 3
+g 1 e 1 f 1 g 1 h 1 b 1 h 2 h 4 e 3 f 3
+f 1 g 1 h 1 h 2 h 1 b 1 h 2 f 2
+f 1 h 3 h 2 f 2 f 1
+f 2 h 1 f 1
+0
+f 1

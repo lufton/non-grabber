@@ -1,0 +1,52 @@
+by "Amy Weiner (amyjw)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Amy Weiner"
+date "Aug 14, 2010"
+description "limeade"
+difficulty 1.25
+height 15
+id 9967
+link "https://webpbn.com/play.cgi?id=9967"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Summer Refresher"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 1 green 3 black 1 green 4
+black 1 green 3 black 1 green 6
+black 5 green 4
+blue 14
+blue 15
+blue 14
+blue 13
+
+columns
+blue 2
+blue 3
+black 10 blue 4
+green 8 black 1 blue 4
+green 8 black 1 blue 4
+green 8 black 1 blue 4
+black 10 blue 4
+blue 4
+green 1 blue 4
+green 3 blue 4
+green 3 blue 4
+green 3 blue 4
+green 3 blue 4
+green 1 blue 4
+blue 3

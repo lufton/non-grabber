@@ -1,0 +1,67 @@
+by "roborobot9"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/25/05"
+height 20
+id 22549
+link "https://www.griddlers.net/nonogram/-/g/22549"
+medium_time "0:03:37"
+points 1660
+popularity 59.37
+title "Sea Boat"
+width 25
+
+color a 00ffff
+color b 808080
+color c ff0000
+color d 000000
+color e 0000ff
+
+rows
+0
+b 1 b 1
+b 1 b 1 b 1 b 1
+0
+c 1 d 1
+c 2 d 1
+c 3 d 1
+c 4 d 1
+c 5 d 1
+d 1
+d 1
+d 1 d 1 d 2
+d 2 d 2 d 3
+d 20
+d 16
+d 3 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2
+e 1 d 13 e 1
+e 9 d 12 e 4
+e 25
+e 25
+
+columns
+e 4
+e 3
+b 1 e 3
+b 1 d 1 e 3
+b 1 d 1 e 3
+d 1 e 3
+d 1 e 3
+d 4 e 3
+d 4 e 3
+d 5 e 2
+c 1 d 5 e 2
+c 2 d 2 b 1 d 2 e 2
+c 3 d 5 e 2
+c 4 d 5 e 2
+c 5 d 3 b 1 d 2 e 2
+d 14 e 2
+d 5 e 2
+d 2 b 1 d 2 e 2
+d 5 e 2
+d 5 e 2
+b 1 d 3 b 1 d 2 e 2
+b 1 d 6 e 3
+b 1 d 5 e 3
+e 3
+e 4

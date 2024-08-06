@@ -1,0 +1,103 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Jul 26, 2011"
+description "Hey buddy,nice car.Thanks pal,could you please turn up your radio so we can hear the movie,our car is radio delete.We took the kids to the drive in theatre in the 58 Dodge.Have you been to the drive in lately?You don't sit in the car and hook the little metal speaker to the side window,like the old days.Now you sit out in lawn chairs and you tune the car radio to a station and listen to the movie that way.Problem is the old Dodge didn't come with a radio and i won't put one in cause i would rather listen to the sweet sound of her dual exhaust running thru glasspaks.(those are special mufflers)."
+difficulty 3.25
+height 40
+id 15305
+link "https://webpbn.com/play.cgi?id=15305"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "At the drive in."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+black 1 green 24 red 4 green 10 black 1
+black 1 green 1 green 1 green 1 green 11 red 7 blue 1 green 7 black 1
+black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 11 red 1 red 3 blue 1 red 2 green 6 black 1
+black 1 green 1 green 1 green 1 green 1 green 6 blue 1 green 4 blue 1 red 5 green 6 black 1
+black 1 green 1 green 3 green 1 green 1 green 7 blue 3 green 4 red 2 green 1 red 2 green 6 black 1
+black 1 green 1 green 3 green 1 green 6 blue 9 red 1 red 1 green 1 red 2 green 6 black 1
+black 1 green 15 blue 8 green 1 green 2 red 2 green 6 black 1
+black 1 green 14 blue 9 green 2 green 4 red 1 green 6 black 1
+black 1 green 1 blue 5 green 7 blue 2 blue 1 green 1 green 3 green 1 green 2 green 1 green 2 black 1
+black 1 green 1 blue 5 red 1 green 1 blue 1 red 1 green 4 blue 1 blue 3 green 1 green 1 green 2 green 1 green 1 green 1 green 1 green 2 black 1
+black 1 green 1 blue 5 green 2 red 1 green 1 blue 1 green 4 blue 2 green 1 green 1 green 1 green 1 green 1 green 1 green 2 green 3 black 1
+black 1 green 1 blue 5 green 1 blue 1 green 7 blue 1 green 2 green 1 green 1 green 2 green 1 green 1 green 2 green 3 black 1
+black 1 green 8 red 1 green 1 red 1 green 4 green 1 green 1 green 1 green 3 green 1 green 3 green 3 black 1
+black 40
+red 1 red 1 black 3 red 3
+green 4 red 3 red 3 red 5 black 1 red 1
+green 1 green 1 red 3 red 3 red 1 red 1 black 1 blue 1 blue 1 red 1
+green 1 green 1 black 1 red 3 black 1 black 1 red 3 black 1 red 7 blue 1 blue 1 red 1 red 1
+green 8 black 1 red 3 black 3 red 3 black 1 red 1 green 1 red 3 green 1 red 1 blue 1 black 3 blue 1 black 1 red 1 green 2 red 1
+green 1 red 1 green 4 red 1 green 1 black 1 green 1 red 1 green 1 black 1 black 1 green 1 red 1 green 1 black 1 red 1 blue 1 red 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 green 3
+green 3 black 2 green 3 black 1 green 3 black 1 black 1 green 3 black 1 red 7 blue 1 black 3 blue 1 red 1 green 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1 red 1
+blue 1
+black 9 black 3 blue 1
+black 3 black 3 black 2 black 2 black 1 blue 1
+black 1 black 2 black 2 black 2 black 1 black 1 blue 1
+black 1 blue 1 blue 1 black 1 black 1 black 2 black 3 black 1 blue 1
+red 2 black 5 black 1 black 1 red 2 red 1 green 1 blue 1
+green 1 red 3 green 1 green 1 red 3 green 1 red 1 blue 1 red 15 blue 1 red 1 black 1 green 3 blue 1
+green 1 red 3 green 1 green 1 red 3 green 1 red 2 blue 1 red 13 blue 1 red 2 blue 2
+black 3 red 1 green 1 black 1 red 3 green 1 red 2 red 11 red 2 blue 1 red 1
+black 3 green 1 black 3 green 1 red 6 green 4 red 5 blue 1 red 2
+black 3 black 3 red 5 green 4 red 4 blue 2 red 1
+black 1 black 3 red 15 blue 3
+green 1 black 3 green 1 black 1 green 1 black 3 green 1 red 15 blue 2
+green 1 red 3 green 1 green 1 black 1 red 1 black 1 green 1 green 17 blue 2
+green 1 red 3 green 1 green 1 red 3 green 1 green 17 blue 3
+green 1 red 3 green 1 green 1 red 3 green 1 black 2 black 2 black 1
+green 1 green 1 green 1 green 1 black 2 black 2 black 1
+
+columns
+black 15
+black 1 green 13 black 1 green 3 green 5
+black 1 green 1 green 2 blue 4 green 1 black 1 green 2 red 1 green 1 black 1 green 2 black 3 black 1 red 3
+black 1 green 1 green 1 green 4 blue 4 green 1 black 1 green 2 green 3 red 2 black 5 red 3
+black 1 green 1 green 4 blue 4 green 1 black 1 green 1 green 2 black 1 black 3 red 2 black 3 black 1 red 3
+black 1 green 8 blue 4 green 1 black 1 green 1 green 2 black 1 black 1 red 3 green 5
+black 1 green 1 green 2 blue 4 green 1 black 1 green 2 green 3 black 1 blue 1 green 4 black 1
+black 1 green 1 green 3 green 3 red 1 green 3 black 1 green 2 red 1 green 1 black 1 green 5
+black 1 green 1 green 5 blue 1 green 1 black 1 green 3 black 5 red 2
+black 1 green 9 blue 1 red 1 green 1 red 1 black 1 green 2 black 5 red 3
+black 1 green 1 green 3 red 1 green 3 black 1 black 5 black 1 blue 1 red 3 black 5 red 2
+black 1 green 1 green 1 green 6 blue 1 green 1 red 1 black 1 red 4 green 2 black 2 red 3 green 5
+black 1 green 1 green 9 black 1 red 6 green 1 black 3 red 3
+black 1 green 13 black 1 red 4 green 2 green 4
+black 1 green 8 blue 1 green 4 black 1 black 5
+black 1 green 7 blue 3 green 3 black 1 black 1 red 3
+black 1 green 6 blue 2 black 1 black 5 red 1 blue 1 red 2 green 2
+black 1 green 5 blue 3 blue 3 black 1 red 4 green 2 red 1 blue 1 red 2 red 2 green 2
+black 1 green 4 blue 4 blue 2 green 1 black 1 red 6 green 1 black 3 red 2 red 4 green 2 black 2
+black 1 green 3 blue 7 green 3 black 1 red 4 green 2 black 2 black 1 red 7 green 2 black 2
+black 1 green 4 blue 4 black 1 black 5 black 2 black 2 red 7 green 2
+black 1 green 5 blue 3 green 1 green 2 black 1 black 1 black 2 red 7 green 2
+black 1 green 5 blue 3 black 1 red 4 black 1 black 1 red 7 green 2
+black 1 green 5 blue 3 green 5 black 1 red 3 green 1 blue 1 red 1 black 1 black 1 red 3 green 2 red 2 green 2
+black 1 green 1 red 2 green 1 blue 1 green 2 black 1 red 1 red 4 black 1 black 1 red 3 green 2 red 2 green 2
+black 1 red 2 blue 1 green 2 green 3 black 1 red 1 red 4 black 1 black 2 red 3 green 2 red 2 green 2
+black 1 red 2 blue 1 red 1 green 2 green 2 black 1 red 1 red 4 black 1 black 1 red 3 green 2 red 2 green 2
+black 1 red 3 green 3 green 1 black 1 red 3 green 1 blue 1 red 1 black 1 black 1 red 7 green 2
+black 1 red 5 green 1 black 1 red 4 black 2 red 7 green 2
+black 1 green 1 red 5 green 7 black 1 black 2 red 7 green 2 black 2
+black 1 green 1 red 1 blue 1 red 1 green 4 black 1 blue 5 black 3 red 2 red 4 green 2 black 2
+black 1 green 1 blue 1 red 5 green 1 green 3 black 4 black 3 red 1 blue 1 red 2 red 2 green 2
+black 1 green 2 red 6 green 1 green 1 black 2 black 3 red 1 blue 1 red 2 green 2
+black 1 green 13 black 2 blue 1 black 3 red 3
+black 1 green 8 green 3 black 1 blue 5
+black 1 green 10 black 1 black 1 black 1
+black 1 green 8 green 3 black 1 red 5 black 1 black 1 red 1 green 1
+black 1 green 13 black 1 red 1 blue 1 green 3 black 1 green 1 blue 3 blue 1
+black 1 green 13 black 1 red 1 green 3 black 3 green 2 blue 2 red 1 blue 5
+black 15 red 5 green 2 blue 8 red 3 blue 4 black 2

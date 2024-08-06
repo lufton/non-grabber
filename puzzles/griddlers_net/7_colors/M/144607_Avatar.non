@@ -1,0 +1,73 @@
+by "adyuval"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/2/14"
+height 28
+id 144607
+link "https://www.griddlers.net/nonogram/-/g/144607"
+medium_time "0:10:21"
+points 11486
+popularity 66.14
+title "Avatar"
+width 21
+
+color a 00ffff
+color b 0099cc
+color c 006699
+color d 000000
+color e ccef15
+color f ffffff
+color g 333333
+
+rows
+g 2 b 13 c 2 d 4
+g 1 b 3 b 1 c 3 d 3
+b 3 c 5 b 2 c 3 d 2
+b 2 c 8 b 1 c 3 d 2
+b 2 c 9 b 2 c 3 d 1
+b 2 c 10 b 2 c 2 d 1
+b 2 c 2 d 4 b 2 c 2 b 2 c 1 d 1
+b 2 d 2 e 1 d 1 f 1 d 1 b 2 c 1 b 2 c 1 d 1
+b 2 d 2 e 1 d 4 b 1 c 1 b 2 c 1 d 1
+b 2 d 2 e 3 d 2 c 2 b 2 c 1 d 1
+b 2 d 4 b 2 c 2 b 2 c 1 d 1
+b 2 b 3 c 2 b 2 c 1 d 1
+b 2 b 7 c 2 b 2 c 1 d 1
+b 2 c 1 b 7 c 2 b 1 c 1 d 1
+g 1 b 2 c 2 b 6 c 2 b 1 c 1 d 1
+g 1 b 2 c 4 b 3 c 3 b 1 c 1 d 1
+g 1 b 2 c 9 b 1 b 1 c 1 d 1
+g 1 b 3 c 6 b 2 b 1 c 1 d 1
+g 1 b 3 c 3 b 4 c 5 d 1
+g 2 b 2 c 3 b 5 c 4 d 1
+g 2 b 3 b 10 c 2 d 1
+g 3 b 3 b 6
+g 4 b 2 c 3 b 3
+g 4 b 3 c 8
+g 5 b 7 c 3 d 4 c 2
+g 6 b 6 c 2 d 7
+g 7 b 5 c 1 d 8
+g 8 b 4 c 9
+
+columns
+g 2 b 12 g 14
+g 1 b 18 g 9
+b 3 b 7 g 7
+b 2 b 5 g 6
+b 1 c 4 b 4 g 4
+b 1 c 4 d 2 c 4 b 4 g 3
+b 1 c 4 d 4 b 2 c 3 b 3 g 2
+b 1 c 4 d 1 e 2 d 2 b 3 c 3 b 3 g 1
+b 1 c 4 d 3 e 1 d 1 b 3 c 5 b 1 b 4
+b 1 c 4 d 1 f 1 d 1 e 1 d 1 b 4 c 4 b 1 b 4
+b 1 c 4 b 1 d 2 e 1 d 1 b 5 c 4 b 1 b 4
+b 1 c 3 b 2 d 2 b 6 c 2 b 3 b 4
+b 1 c 3 b 2 d 1 b 5 c 3 b 3 c 4
+b 1 c 12 b 4 c 3 d 1 c 1
+b 3 c 7 b 5 c 2 d 2 c 1
+c 2 b 3 c 1 b 3 c 2 d 3 c 1
+c 4 b 2 c 2 b 2 c 2 d 3 c 1
+d 1 c 4 b 8 c 2 b 2 c 2 d 3 c 1
+d 2 c 4 b 12 c 3 b 2 c 1 d 3 c 1
+d 4 c 17 b 2 c 2 d 2 c 1
+d 21 b 2 c 2 d 2 c 1

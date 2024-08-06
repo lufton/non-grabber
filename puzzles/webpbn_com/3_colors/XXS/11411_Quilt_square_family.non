@@ -1,0 +1,31 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Dec 15, 2010"
+description "Thomas and Ruth O'Brien with their son Conan, circa 1965. :-)"
+difficulty 1.25
+height 5
+id 11411
+link "https://webpbn.com/play.cgi?id=11411"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Quilt square family"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 1
+black 1 black 1
+black 1 red 1 black 1
+black 5
+black 1 black 1 black 1
+
+columns
+black 4
+red 1 black 1
+red 1 black 2
+red 1 black 1
+black 4

@@ -1,0 +1,32 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Apr 10, 2012"
+description "A cop car -- I hope you don't see this in your rearview mirror!"
+difficulty 1.0
+height 5
+id 18263
+link "https://webpbn.com/play.cgi?id=18263"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "minimalist vehicle"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 blue 1
+black 1 black 1
+black 5
+black 5
+black 1 black 1
+
+columns
+black 4
+red 1 black 2
+black 2
+blue 1 black 2
+black 4

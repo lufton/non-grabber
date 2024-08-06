@@ -1,0 +1,62 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Andrew Schultz"
+date "Jan 23, 2020"
+description "Yes, it's possible to lose as the first player without allowing an immediate win. This may not be much of a puzzle PBN-wise, but I hope those who don't know are amused."
+difficulty 1.75
+height 20
+id 33525
+link "https://webpbn.com/play.cgi?id=33525"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Terrible strategy"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 20
+blue 1 blue 2 black 1 green 4 black 1 blue 1 blue 2
+blue 2 blue 2 black 1 green 2 green 2 black 1 blue 2 blue 2
+blue 3 black 1 green 1 green 1 black 1 blue 3
+blue 3 black 1 green 1 green 1 black 1 blue 3
+blue 2 blue 2 black 1 green 2 green 2 black 1 blue 2 blue 2
+blue 2 blue 1 black 1 green 4 black 1 blue 2 blue 1
+black 20
+black 1 green 4 black 1
+black 1 green 2 green 2 black 1
+black 1 green 1 green 1 black 1
+black 1 green 1 green 1 black 1
+black 1 green 2 green 2 black 1
+black 1 green 4 black 1
+
+columns
+black 1 blue 2 blue 1 black 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 3 black 1
+black 1 blue 3 black 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 1 blue 2 black 1
+black 20
+black 1 green 4 black 1 green 4
+black 1 green 2 green 2 black 1 green 2 green 2
+black 1 green 1 green 1 black 1 green 1 green 1
+black 1 green 1 green 1 black 1 green 1 green 1
+black 1 green 2 green 2 black 1 green 2 green 2
+black 1 green 4 black 1 green 4
+black 20
+black 1 blue 2 blue 1 black 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 3 black 1
+black 1 blue 3 black 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 1 blue 2 black 1

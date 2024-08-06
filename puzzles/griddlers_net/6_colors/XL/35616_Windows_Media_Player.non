@@ -1,0 +1,87 @@
+by "Rotem_G"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/10/06"
+height 32
+id 35616
+link "https://www.griddlers.net/nonogram/-/g/35616"
+medium_time "0:08:51"
+points 6049
+popularity 63.21
+title "Windows Media Player"
+width 32
+
+color a ffffff
+color b ff0000
+color c 00ab00
+color d 0000ff
+color e fffe00
+color h 000000
+
+rows
+b 3 c 3
+b 5 c 5
+b 7 c 7
+b 9 c 9
+b 10 c 10
+b 11 c 11
+b 12 c 12
+b 10 c 10
+b 8 c 8
+b 8 h 2 c 8
+b 7 h 3 c 7
+b 7 h 5 c 7
+b 7 h 7 c 7
+b 7 h 9 c 7
+b 7 h 11 c 7
+b 7 h 12 c 7
+d 7 h 12 e 7
+d 7 h 11 e 7
+d 7 h 9 e 7
+d 7 h 7 e 7
+d 7 h 5 e 7
+d 7 h 3 e 7
+d 8 h 2 e 8
+d 8 e 8
+d 9 e 10
+d 12 e 12
+d 11 e 11
+d 10 e 10
+d 9 e 9
+d 7 e 7
+d 5 e 5
+d 3 e 3
+
+columns
+b 3 d 3
+b 5 d 5
+b 7 d 7
+b 9 d 8
+b 10 d 10
+b 11 d 11
+b 12 d 12
+b 10 d 10
+b 8 d 8
+b 8 d 8
+b 7 d 7
+b 7 d 7
+b 7 h 14 d 7
+b 7 h 14 d 7
+b 7 h 12 d 7
+b 7 h 10 d 7
+c 7 h 10 e 7
+c 7 h 8 e 7
+c 7 h 8 e 7
+c 7 h 6 e 7
+c 7 h 6 e 7
+c 7 h 4 e 7
+c 8 h 4 e 8
+c 8 h 2 e 8
+c 10 e 10
+c 12 e 12
+c 11 e 11
+c 10 e 10
+c 9 e 9
+c 7 e 7
+c 5 e 5
+c 3 e 3

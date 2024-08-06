@@ -1,0 +1,70 @@
+by "flores"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/12/09"
+height 25
+id 85329
+link "https://www.griddlers.net/nonogram/-/g/85329"
+medium_time "0:13:41"
+points 5878
+popularity 76.54
+title "Tulips"
+width 20
+
+color a ccffff
+color b 009900
+color c ff9999
+color d ff0000
+color e 00d700
+color f ffff66
+color g cc99ff
+color h 990099
+
+rows
+f 7
+f 4
+f 5
+f 1 f 3
+f 1 f 1
+f 1 f 1
+f 1
+0
+h 1 f 1 g 1
+d 1 f 1 c 1 h 2 f 2 g 2
+d 2 f 2 c 2 e 1 h 3 g 3
+d 3 c 3 b 1 e 1 h 3 g 3
+e 1 d 3 c 3 e 1 h 4 g 2
+e 1 d 4 c 2 e 1 h 5 g 1
+b 1 e 1 d 4 c 2 e 1 h 4
+b 1 e 1 d 4 e 1 b 1 e 2
+b 1 e 1 b 1 e 1 b 1 b 1 e 1
+b 2 b 1 e 1 b 1 e 1 b 1 e 2
+b 1 e 1 b 1 e 2 b 1 b 1 e 1 b 1 e 1 b 1
+b 1 e 1 b 1 e 1 b 1 b 1 e 1 b 1 e 2 b 1
+b 1 e 1 b 1 e 2 b 1 b 2 e 2 b 1
+b 2 e 2 b 1 b 1 e 1 b 1
+e 1 e 1 b 1 e 1 e 1 b 1 e 1
+b 1 e 1 e 1 b 1 e 1 b 1 e 1 e 1 b 1 e 1 b 1 e 1
+e 5 b 1 e 8 b 1 e 3 b 1 e 1
+
+columns
+e 2 b 4 e 1 b 1 e 1
+e 3 b 2 e 2
+d 6 e 1 b 3 e 1
+d 6 e 2 b 1 e 1
+f 2 d 5 b 5 e 4
+f 1 c 2 d 3 e 2 b 3
+c 5 d 1 e 3 b 1 e 1
+c 6 e 1 b 2 e 2
+e 2 b 1 e 1
+e 1 b 1 e 1 b 1 e 1
+e 5 b 2 e 2
+h 6 e 1 b 3 e 1
+h 6 e 2 b 2 e 1
+f 1 f 2 h 5 b 5 e 5
+f 1 f 1 f 1 g 2 h 3 e 2 b 4
+f 1 f 1 g 4 h 2 e 3 b 1 e 1
+f 3 f 1 g 6 e 3 b 2 e 1
+f 5 e 1 e 2
+f 4 b 2
+f 7 e 3

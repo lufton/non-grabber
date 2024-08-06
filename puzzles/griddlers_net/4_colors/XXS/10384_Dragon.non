@@ -1,0 +1,31 @@
+by "rafal24"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10384
+link "https://www.griddlers.net/nonogram/-/g/10384"
+medium_time "0:00:27"
+points 10
+popularity 44.05
+title "Dragon"
+width 5
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color h 000000
+
+rows
+b 1
+h 1 c 1 b 1
+c 4 b 1
+c 3
+c 2
+
+columns
+c 1
+h 1 c 1
+b 1 c 3
+b 1 c 3
+b 1 c 2

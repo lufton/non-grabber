@@ -1,0 +1,37 @@
+by "Lucia Lansing ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Lucia Lansing"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 8
+id 27768
+link "https://webpbn.com/play.cgi?id=27768"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "The best place for a swing"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 6
+green 8
+green 8
+green 4
+black 2
+black 2
+black 2
+black 2
+
+columns
+green 2
+green 3
+green 4
+green 4 black 4
+green 4 black 4
+green 4
+green 3
+green 2

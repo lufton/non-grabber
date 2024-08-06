@@ -1,0 +1,63 @@
+by "judy ellen reed (puzzled)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by judy ellen reed"
+date "Jan 16, 2022"
+description "Amazing- start at the red and end at the green."
+difficulty 1.5
+height 15
+id 35531
+link "https://webpbn.com/play.cgi?id=35531"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A-Maze....."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 25
+black 1 black 3 black 1
+black 1 black 1 black 2 blue 1 blue 1 blue 3 blue 4 black 4 black 1
+black 1 black 1 black 1 blue 3 blue 1 blue 2 black 1 blue 1 black 1
+black 1 black 1 black 1 blue 1 blue 1 blue 1 blue 1 black 1 blue 1 black 5
+black 1 black 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1
+black 1 black 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 4 black 1
+black 1 black 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1
+black 1 black 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 5 black 5
+black 1 black 1 black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 1 black 5 black 3 blue 1 black 4 black 1
+black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 black 5 black 5 blue 5 black 3 black 1
+red 2 black 1 green 2
+red 2 black 21 green 2
+
+columns
+black 13 red 2
+black 1 red 2
+black 1 black 11 black 1
+black 1 black 1 black 1
+black 11 black 1 black 1
+black 3 black 1 black 1
+black 2 blue 1 blue 5 black 4 black 1
+black 1 black 1
+black 1 blue 7 black 1 black 3
+black 1 blue 1 black 1 black 1 black 1
+black 1 blue 2 black 8 black 1
+black 1 blue 1 black 1 black 1 black 1
+black 1 blue 7 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 blue 6 black 2 blue 1 black 1
+black 1 blue 2 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 5 blue 1 black 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 11 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 green 2
+black 13 green 2

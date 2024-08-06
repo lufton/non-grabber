@@ -1,0 +1,41 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct  1, 2017"
+description "Tungsten, also known as wolfram, is a chemical element with symbol W and atomic number 74. The name tungsten comes from the former Swedish name for the tungstate mineral scheelite, from tung sten "heavy stone"."
+difficulty 1.5
+height 10
+id 30276
+link "https://webpbn.com/play.cgi?id=30276"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "... for Heavy stone"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+black 10
+red 2 black 1 red 2 black 1 red 1
+red 2 black 1 red 2 black 1 red 1
+red 1 red 1 red 1
+black 1 red 1 red 1 red 1 red 2
+black 1 red 1 red 2
+black 2 red 2 black 1 red 2 black 1
+black 2 red 2 black 1 red 2 black 1
+black 10
+
+columns
+black 2 black 5
+black 2 red 2 black 3
+black 2 red 4 black 1
+black 4 red 2 black 1
+black 2 red 4 black 1
+black 2 red 2 black 3
+black 2 red 4 black 1
+black 4 red 2 black 1
+black 2 red 4 black 1
+black 2 red 5 black 3

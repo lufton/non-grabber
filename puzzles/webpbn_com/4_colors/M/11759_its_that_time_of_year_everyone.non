@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jan 14, 2011"
+description "It's time for us to have our "Celebate Jan" day. Thanks Jan for Webpbn -- started in 2004. It's supposed to be a J for Jan and an exclamation mark but it looks really bad. Will someone make a better puzzle, please?!"
+difficulty 1.5
+height 20
+id 11759
+link "https://webpbn.com/play.cgi?id=11759"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "it's that time of year, everyone!!!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+0
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+black 14
+black 14
+black 2 black 2 black 3
+black 2 black 2 black 3
+black 5 black 2 black 3
+black 5 black 2 black 3
+black 2 black 1 black 2 black 3
+black 2 black 1 black 7
+black 2 black 2 black 3
+black 2 black 2 black 3
+black 16
+black 16
+black 20
+
+columns
+black 1
+black 1
+black 3
+red 1 green 4 black 13
+black 13
+red 1 green 4 black 2 black 2 black 3
+black 2 black 2 black 3
+red 1 green 4 black 2 black 4 black 3
+black 2 black 3
+red 1 green 4 black 2 black 3
+black 13
+red 1 green 4 black 13
+black 2 black 1 black 3
+red 1 green 4 black 2 black 1 black 3
+black 13
+red 1 green 4 black 13
+black 13
+black 3
+black 1
+black 1

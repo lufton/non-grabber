@@ -1,0 +1,98 @@
+by "Al LaPointe (kancamagus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Al LaPointe"
+date "Jun 14, 2020"
+description "Ernest Rutherford, that is.... He's the guy who came up with the Rutherford Model of the atom, similar to that pictured here. I made this several years ago and thought I posted it, but it was in my 'unpublished' section. Verified that it is solvable."
+difficulty 2.75
+height 40
+id 8773
+link "https://webpbn.com/play.cgi?id=8773"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Not frank, but earnest... (repost)"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 35
+black 1 black 4 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 1
+black 1 black 5 black 2 black 1 black 1
+black 3 black 3 black 1 black 1 black 3 black 1
+black 2 black 5 black 1 green 3 black 2 black 1
+black 2 black 3 black 3 black 3
+black 2 black 1 black 3 black 3 black 1 black 2
+black 3 black 1 black 3 black 2 black 2
+black 1 black 1 black 1 black 2 black 3 black 1 black 3
+black 1 black 4 black 4 black 2 black 1
+black 1 green 3 black 2 blue 1 red 2 black 2 black 2 black 1
+black 1 black 3 blue 3 red 2 blue 1 black 2 black 1 black 1
+black 1 black 2 black 2 black 1 red 2 blue 1 blue 3 black 4 black 1 black 1
+black 1 black 3 black 1 red 2 blue 1 blue 1 black 1 black 4 black 1
+black 1 black 4 black 1 blue 3 red 2 black 1 black 3 black 1
+black 1 black 2 black 2 black 1 red 2 blue 1 red 2 black 1 black 2 black 2 black 1
+black 1 black 2 black 3 red 2 blue 1 black 3 black 2 black 1
+black 1 black 2 black 2 blue 3 black 3 black 2 black 1
+black 1 black 2 black 1 black 2 blue 1 black 2 black 1 black 2 black 1
+black 3 black 1 black 2 black 3 black 2 black 3
+black 2 black 1 black 3 black 1 black 2
+black 2 black 1 black 3 black 3 black 1 black 3
+black 2 black 3 black 4 black 2 black 1
+black 3 black 6 black 3 black 2 black 1
+black 1 black 7 black 1 black 5 black 1
+black 1 black 1 green 3 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 5 black 1
+black 35
+
+columns
+black 40
+black 1 black 5 black 5 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 1 green 1 black 2 black 1 black 1
+black 1 black 1 green 1 black 2 black 1 black 1
+black 1 black 1 green 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 2 black 1 black 1
+black 1 black 1 black 3 black 1 black 1
+black 1 black 2 black 2 black 2 black 1
+black 1 black 1 black 4 black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 22 black 1
+black 1 black 5 black 1 black 2 black 1 black 7 black 1
+black 1 black 2 black 2 black 1 red 2 red 2 black 1 black 2 black 3 black 1
+black 1 black 2 black 1 black 2 blue 1 red 2 red 2 black 2 black 1 black 4
+black 3 black 3 blue 3 blue 1 black 3 black 3
+black 2 black 1 blue 1 blue 3 blue 1 black 1 black 2
+black 2 black 3 red 2 blue 1 blue 3 black 3 black 2
+black 3 black 1 black 1 red 2 blue 1 red 2 blue 1 black 1 black 1 black 3
+black 1 black 2 black 2 black 2 blue 3 red 2 black 2 black 2 green 1 black 3 black 1
+black 1 black 5 black 1 black 1 blue 1 black 2 black 1 green 1 black 3 black 1
+black 1 black 7 black 2 black 1 black 4 green 1 black 1
+black 1 black 13 black 2 black 1
+black 1 green 1 black 2 black 1 black 1 black 1
+black 1 green 1 black 1 black 2 black 1 black 1
+black 1 green 1 black 4 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 3 black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 1 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 1
+black 1 black 4 black 3 black 1
+black 40

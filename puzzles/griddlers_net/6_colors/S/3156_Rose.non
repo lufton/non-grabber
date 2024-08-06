@@ -1,0 +1,53 @@
+by "twisted"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/26/03"
+height 15
+id 3156
+link "https://www.griddlers.net/nonogram/-/g/3156"
+medium_time "0:07:24"
+points 1947
+popularity 70.3
+title "Rose"
+width 15
+
+color a f5f5f5
+color b df005d
+color c 00d800
+color d 007100
+color e b900a4
+color f f578f5
+
+rows
+e 1 b 2 e 2
+e 1 b 2 f 3 e 1
+e 1 b 1 f 2 b 2 f 1 e 1
+e 1 b 1 f 2 b 3 f 1 e 1
+c 1 e 1 b 1 f 3 b 2 f 1 e 1
+c 2 e 1 b 1 f 5 b 1
+d 1 c 2 e 2 b 2 f 2 b 2
+d 1 c 2 d 2 e 2 b 4
+d 2 c 2 d 1 c 2 e 3
+d 2 c 2 d 1 c 5
+d 2 c 2 d 8
+d 1 d 5
+d 1 d 3
+d 1
+d 1
+
+columns
+c 2 d 4
+c 3 d 3
+c 4 d 1
+c 3
+c 1 d 4
+d 3
+e 4 d 1 d 1
+e 1 b 4 e 2 d 1 c 1 d 2
+b 2 f 3 b 1 e 2 c 2 d 3
+b 1 f 5 b 1 e 1 c 2 d 3
+e 1 f 1 b 2 f 2 b 2 e 1 c 1 d 3
+e 1 f 1 b 3 f 2 b 1 e 1 c 1 d 2
+e 1 f 1 b 2 f 2 b 1 e 1 d 1
+e 1 f 3 b 2
+e 2 b 2

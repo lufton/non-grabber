@@ -1,0 +1,48 @@
+by "airam"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/27/21"
+height 12
+id 218777
+link "https://www.griddlers.net/nonogram/-/g/218777"
+medium_time "0:03:28"
+points 391
+popularity 78.33
+title "Orange Flower"
+width 13
+
+color a FFFFFF
+color b 000000
+color c FF6600
+color d FF9966
+color e FFFF33
+color f 006600
+
+rows
+c 1 c 1
+c 5 d 1
+d 1 c 5 d 2
+d 4 e 2 c 1 d 2
+d 4 e 1 b 1 e 1 b 1 d 3
+c 2 b 1 e 1 b 2 d 4
+f 1 c 4 b 2 c 2 d 1
+f 3 c 1 d 3 c 4
+f 3 d 3 c 3
+f 2 d 1 d 1 c 1
+f 1
+f 1
+
+columns
+f 2
+d 1 f 2
+d 2 c 1 f 5
+d 2 c 3 f 2
+c 2 d 3 c 2 d 3
+c 2 d 1 e 1 b 1 c 1 d 2
+c 2 e 1 b 1 e 1 b 1 d 3
+c 3 e 2 b 2 c 2
+c 3 b 2 c 4
+c 1 d 3 c 3
+d 6 c 1
+d 1 d 2
+d 1

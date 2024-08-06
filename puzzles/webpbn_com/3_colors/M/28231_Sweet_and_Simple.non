@@ -1,0 +1,61 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Jun 24, 2016"
+description ""
+difficulty 1.5
+height 25
+id 28231
+link "https://webpbn.com/play.cgi?id=28231"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Sweet and Simple"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 3
+black 1
+black 3
+black 1 black 3
+black 3 black 1 black 1
+black 1 black 1
+black 3 black 1 black 1
+black 1 green 3 black 3
+black 1 green 1
+black 1 green 1 black 1 black 1
+black 3 green 1 black 1 black 1
+green 3 black 1 black 1
+black 2 black 1 black 1
+black 1 black 1 black 3
+black 1 black 1 green 3
+black 1 black 1 green 1 green 1 black 3
+black 2 green 1 green 1 black 1
+green 1 green 1 black 1
+black 3 green 1 green 1 black 1
+black 1 black 1
+black 2
+black 1
+black 3
+0
+
+columns
+0
+black 3 black 1 black 1 black 1 black 5 black 5
+black 1 black 1 black 1 black 5 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 3 black 1 black 1
+0
+0
+green 1 green 1 green 5
+green 5 green 1
+green 1 green 1 green 5
+0
+0
+black 5 black 5 black 1
+black 1 black 1 black 1 black 5
+black 5 black 5 black 1
+0

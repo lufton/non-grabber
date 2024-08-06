@@ -1,0 +1,80 @@
+by "bepklep"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/3/05"
+height 30
+id 18631
+link "https://www.griddlers.net/nonogram/-/g/18631"
+medium_time "0:16:37"
+points 6588
+popularity 70.18
+title "Small Diving Boat"
+width 25
+
+color a 00ffff
+color b ffffff
+color c efe318
+color d 000000
+color e ff9a31
+color f a55dff
+color g ff0063
+color h 00ff52
+
+rows
+b 2
+b 1
+b 1
+b 1
+b 2 c 2
+c 3 c 3
+b 1 c 5 c 2
+b 2 c 2 d 3 c 2 c 2
+c 5 c 2
+b 1 c 7 d 4
+c 4 d 3 c 6
+c 2 c 4 d 1 b 3 d 1 c 3 d 1 b 1 c 1
+c 2 d 1 c 3 d 1 b 5 d 1 c 1 d 1 b 3 c 1
+c 3 d 1 c 3 d 1 b 5 d 1 c 1 d 1 b 3 c 1
+c 2 d 1 c 3 d 1 b 5 d 1 c 1 d 1 b 3 c 1
+c 2 c 4 d 1 b 3 d 1 c 3 d 1 b 1 c 1
+c 4 d 3 c 6
+c 11
+c 8
+0
+e 2 f 1
+f 1 g 1 e 2 f 1
+f 1 g 1 e 1 c 2 b 1 f 2
+f 1 g 2 e 1 c 1 b 3 f 2
+f 2 g 2 e 1 c 2 f 1 b 2 g 1 f 2
+f 2 g 3 e 2 c 1 f 2 b 2 f 1 g 1 f 2
+h 3 f 1 g 2 e 2 c 2 f 2 b 2 f 1 g 2 f 1 h 3
+h 5 g 1 e 3 h 2 c 1 f 1 b 2 f 1 h 1 g 2 h 4
+h 8 e 1 h 3 f 2 h 4 g 1 h 6
+h 25
+
+columns
+h 4
+h 4
+b 3 f 1 f 2 h 4
+b 2 b 1 b 1 c 1 c 1 c 1 f 5 h 3
+b 1 b 2 b 1 c 5 g 3 g 2 h 3
+c 3 g 5 h 2
+d 3 g 2 e 1 h 2
+c 5 e 5 h 2
+c 8 e 2 e 4 h 1
+c 8 e 2 c 3 h 3
+c 1 c 3 d 3 c 4 e 1 c 3 c 1 h 3
+c 5 d 1 b 3 d 1 c 3 c 1 f 2 c 1 h 2
+c 2 d 1 c 2 d 1 b 5 d 1 c 2 f 5 h 1
+c 2 d 1 c 2 d 1 b 5 d 1 c 2 b 1 f 1 h 1
+c 2 d 1 c 2 d 1 b 5 d 1 c 2 b 3 h 2
+c 5 d 1 b 3 d 1 c 3 b 4 h 2
+c 1 c 3 d 3 c 4 b 2 f 1 f 1 h 2
+d 1 c 9 b 2 f 1 h 3
+c 4 d 1 c 2 d 3 c 3 g 1 h 1
+c 5 d 1 c 1 d 1 b 3 d 1 c 1 g 4 h 2
+c 2 d 1 c 1 b 5 c 1 f 1 g 2 h 2
+c 1 b 3 c 1 f 6 h 3
+c 3 f 4 h 4
+h 4
+h 4

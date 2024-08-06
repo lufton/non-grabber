@@ -1,0 +1,72 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Jun  2, 2005"
+description "A long-haired, bearded man here to demonstrate the perils of drawing with limited artistic talent. I set out to draw Arlo Guthrie and found Jesus instead. Maybe a rounder face and hair that boofs out more would look more like Arlo, but with my luck I'd end up with Saddam Hussein. I'll stick with Jesus."
+difficulty 2.5
+height 30
+id 218
+link "https://webpbn.com/play.cgi?id=218"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Visage"
+width 25
+
+rows
+10,2
+5,4,4
+4,2,3,2
+1,5,4
+4,1,2
+4,2,1
+1,2,1,1
+1,3,4,4,3
+3,1,2,2,2,4
+5,1,4
+5,2,2,2,2,1
+2,2,1,2,1
+2,2,1,2,1
+3,1,1,3
+3,1,1,1,3
+5,4,3
+3,1,2,1,2
+5,2,2,1,2
+1,4,1,1,1,3
+1,2,1,5,1,3
+4,3,2,3
+4,1,2,2,2,2,1
+2,1,1,3,2,3,2,1
+2,2,11,1,3
+4,1,11,1,3
+2,1,12,4
+2,2,2,6,3
+3,1,2,4,2,1
+3,4,3,2,1
+7,1,1,2
+
+columns
+6
+7,10
+20,3
+3,3,5,2,3,1
+1,4,4,9,4
+15,3,3,2
+5,1,4,3,5
+4,1,3,6
+2,1,2,1,6
+2,1,1,1,5
+1,1,2,1,5
+3,4,1,1,5
+2,6,1,1,6
+2,2,1,9
+2,1,4,1,8
+1,1,2,1,1,1,1,4
+2,2,1,1,4
+4,1,4
+2,3,3
+3,8,3
+3,11,5
+6,3,5,5
+13,6
+11,1
+2,3

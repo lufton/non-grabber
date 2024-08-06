@@ -1,0 +1,65 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Dec 25, 2004"
+description "A lobster. Will you, won't you, will you, won't you, will you join the dance?"
+difficulty 2.0
+height 18
+id 138
+link "https://webpbn.com/play.cgi?id=138"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Quadrille Partner"
+width 30
+
+rows
+6
+9
+6
+2,6
+2
+10
+9,1
+14,2
+16,2,1
+17,2,2
+17,2,3
+9,8,2,3
+6,2,1,1,10
+5,1,1,2,8
+5,1,2,1,1,4
+5,1,1,1,1
+5
+3
+
+columns
+2
+5
+6
+8
+8
+5,2
+4
+4
+4
+4
+5
+4,2
+4,2
+7
+6,2
+13
+11
+2,9
+3,7,3
+4,8
+4,5,5
+2,1,5,2
+2,1,1,2,3
+2,1,3,4
+1,1,1,5
+2,3
+2,3
+2,4
+1,4
+3

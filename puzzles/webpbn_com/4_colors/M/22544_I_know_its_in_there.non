@@ -1,0 +1,57 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joel Lynn"
+date "Aug  7, 2013"
+description "Squirrel is now trying to figure out how to open the small galvanized trash can that the bird seed is stored in."
+difficulty 1.5
+height 20
+id 22544
+link "https://webpbn.com/play.cgi?id=22544"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "I know it's in there!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+black 3 black 1
+black 4 black 3
+black 3 black 7 green 1 black 1
+black 12
+black 8 black 2
+black 2 blue 3 black 2
+black 2 black 2
+blue 9
+blue 13
+blue 13
+blue 1 blue 7 blue 1
+blue 1 blue 1 blue 1 black 1 blue 1 blue 1 blue 1
+blue 1 blue 1 black 2 blue 1 blue 1 blue 1
+blue 1 black 2 blue 1 blue 1 blue 1 blue 1
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 3 blue 1 blue 1 blue 3
+blue 9
+
+columns
+black 3
+black 4
+black 4 blue 2 black 1
+black 4 blue 6 black 1 blue 3
+black 3 blue 3 black 1 blue 2
+black 5 blue 6 black 1 blue 5
+black 3 blue 1 black 1 blue 4 black 1 blue 1
+black 3 blue 1 blue 5 black 1 blue 6
+black 3 blue 1 blue 4 black 1 blue 1
+black 4 blue 12
+black 5 blue 4 blue 1
+black 3 black 1 blue 12
+black 2 green 1 black 2 blue 3 blue 2
+black 4 blue 10
+blue 2

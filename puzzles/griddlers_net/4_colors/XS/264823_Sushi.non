@@ -1,0 +1,37 @@
+by "czarnyresorak"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/14/23"
+height 8
+id 264823
+link "https://www.griddlers.net/nonogram/-/g/264823"
+medium_time "0:00:46"
+points 65
+popularity 75.83
+title "Sushi"
+width 8
+
+color a 000000
+color b FFFFFF
+color c FF9900
+color d FF3333
+
+rows
+b 2 b 2
+b 1 b 4 b 1
+b 2 d 1 c 1 b 2
+b 2 c 1 d 1 b 2
+b 4
+0
+b 1 b 1
+b 2 b 2
+
+columns
+b 2 b 2
+b 1 b 2 b 1
+b 4
+b 1 d 1 c 1 b 1
+b 1 c 1 d 1 b 1
+b 4
+b 1 b 2 b 1
+b 2 b 2

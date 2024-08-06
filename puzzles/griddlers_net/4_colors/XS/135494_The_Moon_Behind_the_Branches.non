@@ -1,0 +1,41 @@
+by "paukenpietje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/2/13"
+height 10
+id 135494
+link "https://www.griddlers.net/nonogram/-/g/135494"
+medium_time "0:02:28"
+points 262
+popularity 55.29
+title "The Moon Behind the Branches"
+width 10
+
+color a 000099
+color c ffff33
+color d 660000
+color e 003333
+
+rows
+d 1 c 1 e 1 d 1 e 1 d 2 e 1
+c 1 d 1 e 2 d 1 d 1 e 2
+c 1 d 2 e 1 d 2 e 1 d 2 e 1
+d 1 c 1 d 2 e 2 d 2 e 2
+e 1 d 1 c 1 d 2 e 1 d 1 d 1
+e 1 d 1 e 1 d 1 e 1
+d 2
+d 2
+d 2
+d 2
+
+columns
+d 1 c 2 d 1 e 1
+c 1 d 2 c 1 d 1 e 1
+e 2 d 2 c 1
+e 2 d 3
+d 3 e 1 d 1 e 1 d 4
+e 1 d 1 e 2 d 5
+d 2 e 1 d 2 e 1
+d 1 d 2
+e 2 d 1 e 1 d 1
+e 3

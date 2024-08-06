@@ -1,0 +1,83 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Apr 13, 2011"
+description "To climb up on Sarah's roof and play with the others."
+difficulty 2.25
+height 30
+id 13353
+link "https://webpbn.com/play.cgi?id=13353"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Why Did Mr. B. Cross The Road?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 7 black 5 blue 2
+black 1 red 2 black 1 red 4 black 2 black 2 blue 4
+red 1 black 2 red 6 black 2 black 2 blue 6
+red 1 black 2 red 2 red 2 red 1 black 5 blue 8
+black 2 red 4 red 3 black 5 blue 10
+black 2 red 4 red 4 black 2 black 2 blue 10
+black 1 red 1 black 1 red 2 black 1 red 1 red 2 black 2 black 2 blue 8
+red 2 black 1 red 2 black 1 red 1 red 2 red 3 black 5 blue 8
+red 2 black 1 red 2 black 1 red 7 black 5 blue 8
+black 4 red 1 black 2 black 2 blue 8
+black 1 black 1 red 1 black 2 black 2 blue 8
+black 1 black 1 red 1 black 5 blue 8
+red 1 black 4 red 4 red 1 black 5 blue 8
+red 1 black 1 black 1 red 1 red 1 red 1 black 2 black 2 blue 8
+red 1 black 1 black 1 red 1 red 1 red 1 black 2 black 2 blue 8
+red 1 black 4 red 4 red 1 black 5 blue 3 red 1 blue 1 red 1 blue 2
+black 1 black 1 red 1 black 5 blue 3 red 1 blue 1
+black 1 black 1 red 1 black 2 black 2 blue 2 blue 1 blue 2
+black 4 red 5 red 1 black 2 black 2 green 1 blue 3 blue 2 green 1
+black 1 black 1 red 5 red 1 black 5 green 1 blue 4 blue 2
+black 1 black 1 red 5 red 1 black 2 black 2 green 1 blue 3
+black 4 red 3 red 1 red 1 black 2 black 2 red 2
+black 1 black 1 red 5 red 1 red 7 blue 3 green 1
+black 1 black 1 red 5 red 1 red 5 green 1 blue 3 blue 1 green 1
+black 4 red 5 red 1 black 1 red 1 red 1 black 1 green 1 blue 3 blue 2 blue 1 green 1
+green 2 black 1 green 2 black 1 green 9 black 2 black 2 green 3 green 1 green 2
+green 2 black 1 green 2 black 1 green 9 black 5 green 10
+green 15 black 5 green 10
+green 15 black 2 black 2 green 10
+green 15 black 2 black 2 green 10
+
+columns
+red 1 black 1 red 2 black 3 red 2 red 4 green 5
+red 2 black 4 red 3 green 5
+red 2 black 2 red 2 black 21 green 3
+red 1 black 1 red 7 black 1 black 1 black 1 black 1 black 1 black 1 green 5
+red 9 black 1 black 1 black 1 black 1 black 1 black 1 green 5
+red 3 red 2 black 21 green 3
+red 4 red 3 red 7 green 5
+red 3 red 1 red 4 red 7 green 5
+red 1 red 2 red 2 red 1 red 1 red 7 green 5
+red 3 red 2 red 1 red 1 red 3 red 3 green 5
+red 2 red 1 red 4 red 7 green 5
+red 4 green 5
+red 19 green 5
+red 1 green 5
+red 1 green 5
+black 22 red 2 black 6
+black 22 red 3 black 5
+black 1 black 2 black 2 black 2 black 2 black 1 red 2 black 2
+black 22 red 3 black 5
+black 22 red 2 black 6
+blue 2 green 3 red 2 green 7
+blue 18 red 1 blue 3 green 5
+blue 19 blue 3 green 5
+blue 16 blue 3 blue 3 green 4
+blue 15 red 1 blue 1 green 4
+blue 16 blue 1 blue 1 green 5
+blue 14 red 1 blue 1 green 4
+blue 14 red 1 blue 3 green 4
+blue 17 blue 2 green 5
+blue 2 green 1 green 8

@@ -1,0 +1,64 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "May 30, 2023"
+description "International VolkswagenÂ® Bus Day!"
+difficulty 1.5
+height 23
+id 36856
+link "https://webpbn.com/play.cgi?id=36856"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "June 2 is...."
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 8 blue 8
+blue 8 blue 8
+blue 8 blue 8
+blue 8 blue 8
+blue 8 blue 2 blue 3
+blue 8 blue 1 blue 3 blue 2
+blue 8 blue 5 blue 1
+red 1 red 1
+red 2 red 2
+red 3 black 1 black 1 black 1 black 1 red 3
+red 4 black 1 black 1 black 1 red 4
+red 5 black 1 black 1 black 1 black 1 red 5
+red 6 black 1 black 1 red 6
+red 2 red 3 red 3 red 2
+red 1 red 3 red 3 red 1
+red 1 red 4 red 4 red 1
+red 2 red 11 red 2
+red 19
+red 19
+red 4 red 4
+red 2 red 9 red 2
+red 1 red 1
+
+columns
+red 15
+blue 7 red 6 red 5
+blue 7 red 4 red 3
+blue 7 red 3 red 3
+blue 7 red 3 red 3
+blue 7 red 7 red 1
+blue 7 black 3 red 6 red 1
+blue 7 black 1 red 5 red 1
+blue 7 black 1 black 1 red 4 red 1
+black 1 red 3 red 1
+blue 6 black 1 black 1 red 4 red 1
+blue 5 blue 1 black 1 red 5 red 1
+blue 4 blue 2 black 3 red 6 red 1
+blue 4 blue 2 red 7 red 1
+blue 4 blue 2 red 3 red 3
+blue 5 blue 1 red 3 red 3
+blue 6 red 4 red 3
+blue 7 red 6 red 5
+red 15

@@ -1,0 +1,67 @@
+by "Tony (Daniel.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tony"
+date "Sep  4, 2010"
+description "The sword of truth."
+difficulty 1.25
+height 30
+id 9932
+link "https://webpbn.com/play.cgi?id=9932"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Can you get it?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 15
+blue 15
+blue 15
+blue 3 red 9 blue 3
+blue 3 red 9 blue 3
+blue 3 red 9 blue 3
+blue 3 red 9 blue 3
+blue 3 red 9 blue 3
+blue 3 red 9 blue 3
+blue 3 red 9 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 1 blue 3
+blue 3 blue 1 blue 3
+blue 3 blue 5 blue 3
+blue 3 blue 1 black 1 blue 1 blue 3
+blue 3 black 3 blue 3
+blue 3 black 1 blue 3
+blue 3 black 1 blue 3
+blue 3 black 1 blue 3
+blue 3 black 1 blue 3
+blue 3 black 1 blue 3
+blue 3 black 8 blue 3
+blue 3 black 9 blue 3
+blue 2 black 10 blue 3
+blue 1 black 11 blue 3
+black 12 blue 3
+
+columns
+blue 29 black 1
+blue 28 black 2
+blue 27 black 3
+blue 3 red 7 black 4
+blue 3 red 7 black 5
+blue 3 red 7 blue 2 black 5
+blue 3 red 7 blue 1 black 1 black 5
+blue 3 red 7 blue 3 black 12
+blue 3 red 7 blue 1 black 1 black 5
+blue 3 red 7 blue 2 black 5
+blue 3 red 7 black 5
+blue 3 red 7 black 5
+blue 30
+blue 30
+blue 30

@@ -1,0 +1,117 @@
+by "Makarios"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/15/04"
+height 46
+id 9897
+link "https://www.griddlers.net/nonogram/-/g/9897"
+medium_time "1:09:14"
+points 120924
+popularity 81.06
+title "Butterfly"
+width 46
+
+color a 000000
+color b a9fefc
+color c cccefc
+color d fc02fc
+color e fc9a04
+color f fcce04
+color g 048e04
+color h 444644
+
+rows
+b 25 c 11 d 1 c 5
+b 24 c 10 d 2 c 4
+b 22 e 2 f 1 c 11 d 1 c 4
+b 14 b 5 e 2 f 1 c 11 d 2 c 3
+b 12 b 2 e 2 e 2 f 1 c 12 d 1 c 3
+b 11 e 3 b 1 e 2 e 2 f 1 c 12 d 1 c 3
+b 10 e 4 e 1 e 2 e 1 d 7 c 3 c 3
+b 10 e 3 f 1 e 2 e 2 f 1 e 2 b 6 g 2 c 1 g 1 c 1
+b 9 e 2 f 1 e 3 f 1 e 2 b 6 g 3 g 2 c 1
+b 8 e 2 e 1 f 1 e 3 e 1 e 1 b 7 g 6 g 1
+b 8 e 3 f 1 e 3 e 2 e 1 b 8 g 7
+b 7 e 4 e 2 f 1 e 1 e 2 e 2 b 10 g 6
+b 7 e 1 f 3 e 2 f 1 e 1 e 2 e 2 b 11 g 5
+b 6 e 2 f 1 e 1 f 1 f 2 e 1 e 1 f 1 e 1 f 1 b 12 g 3
+b 6 e 3 f 1 e 1 f 2 e 1 e 1 f 1 e 1 f 1 b 4 b 7 g 3
+b 6 e 5 e 2 f 1 e 2 f 1 e 1 b 4 b 8 g 3
+b 6 e 4 f 3 e 2 e 2 f 1 b 3 b 3 b 5 g 3
+b 7 f 2 e 2 e 2 f 1 e 1 b 3 b 6 g 3
+b 7 e 5 f 1 e 2 e 1 f 1 e 2 b 5 b 7 g 3
+b 7 e 4 f 1 e 1 f 3 e 1 f 1 e 1 f 1 e 2 b 1 b 8 g 3
+b 6 f 2 e 1 f 1 b 12 g 3
+b 5 e 8 f 1 f 3 h 2 b 12 g 3
+b 4 e 2 e 5 f 1 e 1 f 1 h 5 b 11 g 3
+b 3 e 5 f 5 h 1 h 2 b 11 g 3
+b 2 e 6 e 1 e 4 f 3 h 1 h 1 b 11 g 3
+b 1 e 2 f 1 e 2 e 5 h 2 h 1 b 11 g 3
+e 2 e 3 e 3 f 2 h 10 b 11 g 3
+e 3 e 2 e 4 e 1 h 6 b 16 g 3
+e 3 e 3 e 3 f 1 h 7 b 11 g 3
+e 3 e 4 f 2 h 6 h 3 b 2 b 2 b 11 g 3
+e 3 e 4 f 1 h 6 h 1 b 10 g 3
+f 2 e 1 f 1 e 1 f 1 h 2 h 2 g 4 g 2 b 8 g 3
+f 1 f 1 e 1 f 3 h 2 h 1 g 3 g 3 g 2 g 2 b 7 g 3
+g 1 f 4 g 2 g 3 g 3 g 2 g 3 b 6 g 3
+g 3 g 3 g 1 g 3 g 3 g 2 g 4 b 5 g 3
+g 2 g 4 g 3 g 1 g 3 g 11 b 5 g 3
+b 1 g 3 g 5 g 3 g 18 b 4 g 3
+b 2 g 5 g 8 g 6 b 4 g 3
+b 3 g 8 g 10 g 3 b 4 g 3
+b 4 g 28 b 4 g 3
+b 5 g 28 b 3 g 3
+b 7 g 25 b 1 g 3
+b 8 g 21 b 3 g 3
+b 9 g 17 b 8 g 3
+b 11 g 8 b 11 g 3
+b 14 b 19 g 3
+
+columns
+b 26 b 10
+b 25 g 1 g 1 b 9
+b 24 e 5 g 2 b 8
+b 23 e 5 f 2 g 2 b 7
+b 22 e 1 e 4 f 1 g 3 b 6
+b 21 e 3 f 2 g 3 b 5
+b 13 b 3 e 4 e 6 f 1 g 3 b 5
+b 11 e 3 f 1 e 4 f 3 g 4 b 4
+b 9 e 4 e 2 e 2 e 4 f 2 g 1 g 4 b 3
+b 8 e 4 e 2 e 1 e 2 e 1 e 2 f 2 g 2 g 5 b 2
+b 6 e 3 e 3 e 2 e 1 e 4 g 3 g 5 b 2
+b 5 e 4 e 2 e 2 e 2 e 5 f 2 g 3 g 6 b 1
+b 4 e 2 e 2 f 2 e 1 f 1 e 1 f 1 e 2 e 2 f 1 h 2 g 4 g 5 b 1
+b 4 e 4 e 1 f 1 e 1 f 1 f 1 e 1 e 2 e 2 e 1 f 1 h 2 g 1 g 5 b 1
+b 3 e 5 f 3 f 2 f 1 e 2 e 3 h 2 g 4 g 6
+b 3 e 2 f 4 f 1 f 1 e 2 e 4 h 2 h 1 g 4 g 6
+b 4 e 2 f 1 e 1 f 1 e 3 h 3 g 4 g 6
+b 4 e 7 e 3 f 1 e 1 e 1 f 1 h 3 g 1 g 1 g 6
+b 5 e 6 f 2 e 4 f 2 f 1 h 4 g 5 g 6
+b 6 e 3 f 5 e 1 f 2 f 1 h 5 g 2 g 6
+b 4 e 2 e 1 f 2 f 2 h 3 g 5 g 7
+b 3 e 8 f 1 f 2 h 5 g 5 g 7
+b 2 e 4 e 1 e 1 f 4 f 1 f 2 h 4 g 5 g 6 b 1
+b 2 e 4 e 5 h 2 h 1 g 1 g 1 g 6 b 1
+b 1 f 2 e 3 f 3 h 2 b 1 g 6 g 6 b 1
+e 5 e 4 h 5 b 1 b 1 g 6 g 6 b 1
+e 4 e 3 e 5 e 2 f 1 h 1 h 2 b 1 g 6 g 6 b 1
+f 4 e 2 e 3 f 2 h 2 h 1 b 1 b 1 g 2 g 6 b 1
+b 2 b 2 h 3 h 1 b 1 b 1 g 6 g 5 b 2
+c 1 b 6 b 1 b 2 h 5 b 1 g 6 g 5 b 2
+c 6 d 1 b 10 b 1 b 10 g 3 g 3 b 3
+c 6 d 1 b 9 b 2 b 11 g 6 g 3 b 3
+c 6 d 1 b 8 b 3 b 11 g 6 g 3 b 3
+c 6 d 1 b 7 b 3 b 13 g 6 g 1 b 4
+c 6 d 1 b 10 b 15 g 5 g 1 b 4
+c 6 d 1 b 9 b 17 g 3 b 4
+c 6 d 1 b 27 b 3
+c 6 g 2 b 30 b 3
+c 6 g 3 b 30 b 2
+c 7 g 3 b 29 b 1
+d 2 c 6 g 3 b 29 b 1
+c 1 d 3 c 3 g 5
+c 3 d 3 g 39
+c 7 g 37
+c 9 g 36
+c 7 g 4

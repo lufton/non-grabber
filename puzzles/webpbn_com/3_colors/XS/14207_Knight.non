@@ -1,0 +1,41 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 27, 2011"
+description "From chess"
+difficulty 2.5
+height 10
+id 14207
+link "https://webpbn.com/play.cgi?id=14207"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Knight"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1
+black 3
+black 2 black 2
+black 2 black 2
+black 1 green 1 black 2
+black 1 black 1 black 1
+black 1 black 2 black 1
+black 1 black 3 black 1
+black 2 black 1 black 1
+black 6
+
+columns
+black 3
+black 2 black 1
+black 2 black 2
+black 2 green 1 black 2
+black 2 black 5
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 4

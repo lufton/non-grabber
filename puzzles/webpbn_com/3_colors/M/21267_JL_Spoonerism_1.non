@@ -1,0 +1,61 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joel Lynn"
+date "Mar  5, 2013"
+description "Stop chicks (Inspired by Brian B)"
+difficulty 1.5
+height 20
+id 21267
+link "https://webpbn.com/play.cgi?id=21267"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "JL Spoonerism #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 5
+red 7
+red 9
+red 11
+red 13
+red 13
+red 13
+red 13
+red 13
+red 11
+red 9
+red 7
+red 5
+black 1
+black 1
+black 1 black 2 black 2
+black 1 black 1 black 2 black 1 black 2
+black 1 black 4 black 4
+black 1 black 1 black 1
+black 1 black 3 black 3
+
+columns
+0
+red 5
+red 7
+red 9
+red 11
+red 13
+red 13
+red 13 black 7
+red 13
+red 13 black 1
+red 11 black 1 black 1 black 1
+red 9 black 5
+red 7 black 2 black 1
+red 5 black 1
+0
+black 1
+black 1 black 1 black 1
+black 5
+black 2 black 1
+black 1

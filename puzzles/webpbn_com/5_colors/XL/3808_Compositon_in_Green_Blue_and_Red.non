@@ -1,0 +1,95 @@
+by "MMD (mmd)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by MMD"
+date "Nov  9, 2008"
+description "Mondrian's "Compositon in Yellow, Blue, and Red", but alas no yellow..."
+difficulty 1.5
+height 37
+id 3808
+link "https://webpbn.com/play.cgi?id=3808"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Compositon in Green, Blue, and Red"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 35
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 35
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 35
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 35
+black 1 black 1 black 1 black 1 black 1 red 5 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 red 5 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 red 5 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 red 5 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 red 5 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 10 black 1
+black 1 blue 3 black 1 blue 2 black 1 blue 1 black 1 black 1 black 1 black 1 black 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 10 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+
+columns
+green 10 black 1 black 1 black 1 black 1
+green 10 black 1 black 1 black 1 black 1
+green 10 black 1 black 1 black 1 black 1
+green 10 black 1 black 1 black 1 black 1
+black 37
+black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 blue 1
+black 37
+black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 blue 1
+black 37
+black 1 black 1 black 1 black 1 blue 1
+black 37
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 37
+black 1 black 1 black 1 black 1 red 5 black 1 black 1
+black 1 black 1 black 1 black 1 red 5 black 1 black 1
+black 1 black 1 black 1 black 1 red 5 black 1 black 1
+black 1 black 1 black 1 black 1 red 5 black 1 black 1
+black 1 black 1 black 1 black 1 red 5 black 1 black 1
+black 37
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 37
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 37
+black 1 black 1 black 1 black 1 red 2

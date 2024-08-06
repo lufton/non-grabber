@@ -1,0 +1,57 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Wombat"
+date "Nov 29, 2023"
+description "That is the sound of Zuul fishing a toy out of the water bowl."
+difficulty 1.5
+height 15
+id 38059
+link "https://webpbn.com/play.cgi?id=38059"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "DING DING DING. DING DING."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 8
+black 3 black 3
+black 3 black 3
+black 2 red 1 black 2
+black 2 green 4 black 2
+black 3 red 1 green 5 black 3
+black 1 black 3 green 3 black 3 black 1
+black 1 black 3 black 3 black 1
+black 1 black 8 black 1
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 3 black 3
+black 3 black 3
+black 8
+
+columns
+black 7
+black 3 black 2
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 red 1 black 1 black 1
+black 1 green 3 black 1 black 1
+black 2 red 1 green 3 black 2 black 2
+black 1 green 3 black 1 black 1
+black 2 green 2 black 2 black 2
+black 1 green 1 black 1 black 1
+black 2 black 2 black 2
+black 3 black 2
+black 7

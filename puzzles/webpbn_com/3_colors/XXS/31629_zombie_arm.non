@@ -1,0 +1,31 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Sep 28, 2018"
+description "brains!!!!!!!!!!!!!!!!!!!!!!"
+difficulty 1.0
+height 5
+id 31629
+link "https://webpbn.com/play.cgi?id=31629"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "zombie arm"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2 green 1
+green 1 black 2 green 1
+green 1 black 2 green 1
+green 2 black 2 green 1
+green 2 black 2 green 1
+
+columns
+green 2
+green 4
+black 5
+black 5
+green 5

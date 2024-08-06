@@ -1,0 +1,61 @@
+by "Marcus (aanet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marcus"
+date "Mar 29, 2008"
+description "A body-builder's bulging bicep. This can be solved by logic alone, but may require both edge logic and colour logic."
+difficulty 3.25
+height 20
+id 2564
+link "https://webpbn.com/play.cgi?id=2564"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 4.0
+title "Strongman"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2
+black 1 black 2 red 1 black 1 red 1 black 3
+black 1 black 1 black 3 red 1 black 4
+black 1 red 2 black 3 black 2 red 1 black 2
+black 4 black 1 red 1 black 2
+black 2 red 1 black 1
+black 2 red 1 black 1
+black 1 black 6 black 1 red 4
+black 2 black 2 black 4 red 1
+black 4 red 1 black 3 red 2
+black 2 red 2 black 2 black 1 red 1
+0
+red 1 black 1 red 2 black 2 red 2 black 1
+red 1 black 1 red 3 red 2 black 1 red 2 black 5
+red 3 black 4 red 3 black 2 black 2 red 3 black 2
+red 2 black 2 black 2 red 1 black 4
+black 3 red 3 red 4 black 2
+red 1 black 4 red 6 black 1 red 1 black 2
+black 2 black 8
+black 1
+
+columns
+black 2 red 4 black 1 red 1 black 2
+black 2 red 2 black 3
+black 5 black 2 red 1 black 3
+black 1 red 1 black 1 black 2 black 1 black 2 red 1 black 1
+black 2 red 1 black 1 black 2 red 1 red 1 black 2 red 1 black 1
+black 1 black 2 black 2 red 2 red 2 black 1 red 2 black 1
+black 1 black 1 red 1 black 1 red 1 black 1
+red 1 black 2 black 1 red 2 black 1 red 1 black 1
+black 2 black 1 red 1 black 1 red 1 black 1
+red 1 black 2 black 1 red 2 red 1 black 1
+red 1 black 3 black 2 red 1 black 1 red 2 black 1
+black 1 red 2 black 2 black 1 black 2 red 1 black 2
+black 2 red 1 black 5 black 1 red 2 black 1
+black 1 red 2 black 3 black 1 red 1 black 1 red 1 black 1
+black 2 red 2 black 1 red 2 black 1 red 1 black 2
+black 1 red 1 red 1 black 1 red 1 black 1 red 1 black 2
+black 1 red 1 red 2 black 1 red 1 black 1
+black 2 black 1 red 1 black 1
+black 2 black 3
+black 3 black 3

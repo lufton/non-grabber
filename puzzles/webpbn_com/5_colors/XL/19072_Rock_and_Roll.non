@@ -1,0 +1,103 @@
+by "Cherish (daisyonfire)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Cherish"
+date "Jun 21, 2012"
+description "Midnight Bowling, anyone?"
+difficulty 2.25
+height 40
+id 19072
+link "https://webpbn.com/play.cgi?id=19072"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Rock and Roll?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 40
+green 40
+green 40
+green 8 red 2 green 3 red 2 green 10 red 2 green 3 red 2 green 8
+green 9 red 2 green 1 red 2 green 12 red 2 green 1 red 2 green 9
+green 10 red 3 green 14 red 3 green 10
+green 10 red 3 green 14 red 3 green 10
+green 9 red 2 green 1 red 2 green 12 red 2 green 1 red 2 green 9
+black 1 green 7 red 2 green 3 red 2 green 10 red 2 green 3 red 2 green 7 black 1
+blue 1 black 38 blue 1
+blue 10 black 20 blue 10
+blue 10 black 20 blue 10
+blue 4 blue 3 black 20 blue 3 blue 4
+blue 3 blue 1 blue 3 black 1 black 1 black 1 black 1 black 1 black 1 blue 3 blue 1 blue 3
+blue 3 blue 2 blue 3 black 1 black 1 black 1 black 1 black 1 black 1 blue 3 blue 2 blue 3
+blue 3 blue 2 blue 3 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 blue 3 blue 2 blue 3
+blue 3 blue 2 blue 3 black 1 black 1 black 1 black 1 black 1 black 1 blue 3 blue 2 blue 3
+blue 3 blue 1 blue 4 black 1 black 1 black 1 black 1 black 1 black 1 blue 4 blue 1 blue 3
+blue 2 blue 6 black 1 black 1 black 1 black 1 black 1 black 1 blue 6 blue 2
+black 40
+blue 12 black 2 black 2 black 2 black 2 blue 12
+blue 11 black 2 black 2 black 2 black 2 blue 11
+blue 10 black 2 black 2 black 2 black 2 blue 10
+blue 9 black 2 black 2 black 2 black 2 blue 9
+blue 8 black 2 black 2 black 2 black 2 blue 8
+blue 7 black 2 black 2 red 2 black 2 black 2 blue 7
+blue 6 black 2 black 2 red 4 black 2 black 2 blue 6
+blue 5 black 2 black 2 red 6 black 2 black 2 blue 5
+blue 4 black 2 black 2 red 6 black 2 black 2 blue 4
+blue 3 black 2 black 2 red 4 black 2 black 2 blue 3
+blue 2 black 2 black 2 red 2 black 2 black 2 blue 2
+blue 1 black 2 black 2 black 2 black 2 blue 1
+black 2 black 2 red 1 black 1 black 1 red 1 black 2 black 2
+black 1 black 2 red 1 black 1 black 1 black 1 black 1 red 1 black 2 black 1
+black 2 red 1 black 1 black 1 black 1 black 1 red 1 black 2
+black 2 red 1 black 1 black 1 black 1 black 1 red 1 black 2
+black 2 red 1 black 1 black 1 black 1 black 1 red 1 black 2
+black 1 black 1
+0
+0
+
+columns
+green 8 black 1 blue 10 black 1 blue 12 black 2 black 1
+green 9 black 1 blue 9 black 1 blue 11 black 2 black 2
+green 9 black 1 blue 8 black 1 blue 10 black 2 black 2
+green 9 black 1 blue 3 black 1 blue 9 black 2 black 2
+green 9 black 1 blue 2 blue 5 black 1 blue 8 black 2 black 2
+green 9 black 1 blue 2 blue 4 blue 1 black 1 blue 7 black 2 black 2 red 1
+green 9 black 1 blue 2 blue 2 black 1 blue 6 black 2 black 2 black 2
+green 9 black 1 blue 9 black 1 blue 5 black 2 black 2
+green 3 red 1 green 4 red 1 black 1 blue 9 black 1 blue 4 black 2 black 2 red 1
+green 3 red 2 green 2 red 2 black 1 blue 9 black 1 blue 3 black 2 black 2 black 2
+green 4 red 4 green 1 black 4 red 1 black 1 blue 2 black 2 black 2
+green 5 red 2 green 2 black 4 red 1 black 1 blue 1 black 2 black 2 red 1
+green 4 red 4 green 1 black 13 black 2 black 2
+green 3 red 2 green 2 red 2 black 4 red 1 black 2 black 2
+green 3 red 1 green 4 red 1 black 4 red 1 black 1 black 2 red 1
+green 9 black 11 black 2 black 2
+green 9 black 4 red 1 black 3
+green 9 black 4 red 1 black 2 red 2 red 1
+green 9 black 11 red 4 black 2
+green 9 black 4 red 1 black 1 red 6
+green 9 black 4 red 1 black 1 red 6
+green 9 black 11 red 4 black 2
+green 9 black 4 red 1 black 2 red 2 red 1
+green 9 black 4 red 1 black 3
+green 9 black 11 black 2 black 2
+green 3 red 1 green 4 red 1 black 4 red 1 black 1 black 2 red 1
+green 3 red 2 green 2 red 2 black 4 red 1 black 2 black 2
+green 4 red 4 green 1 black 13 black 2 black 2
+green 5 red 2 green 2 black 4 red 1 black 1 blue 1 black 2 black 2 red 1
+green 4 red 4 green 1 black 4 red 1 black 1 blue 2 black 2 black 2
+green 3 red 2 green 2 red 2 black 1 blue 9 black 1 blue 3 black 2 black 2 black 2
+green 3 red 1 green 4 red 1 black 1 blue 9 black 1 blue 4 black 2 black 2 red 1
+green 9 black 1 blue 9 black 1 blue 5 black 2 black 2
+green 9 black 1 blue 2 blue 2 black 1 blue 6 black 2 black 2 black 2
+green 9 black 1 blue 2 blue 4 blue 1 black 1 blue 7 black 2 black 2 red 1
+green 9 black 1 blue 2 blue 5 black 1 blue 8 black 2 black 2
+green 9 black 1 blue 3 black 1 blue 9 black 2 black 2
+green 9 black 1 blue 8 black 1 blue 10 black 2 black 2
+green 9 black 1 blue 9 black 1 blue 11 black 2 black 2
+green 8 black 1 blue 10 black 1 blue 12 black 2 black 1

@@ -1,0 +1,63 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar 17, 2009"
+description "look at the lines of the same colors...in each color try just by looking at it and not checking the actual length in which they are equal and in the color/colors they are different try to (only) see which one is longer...if I get good comments I'l do a bigger one:)"
+difficulty 2.0
+height 20
+id 5377
+link "https://webpbn.com/play.cgi?id=5377"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "eye tricks"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 red 1 black 1 black 1 red 1 black 2
+black 1 red 1 black 7 red 1 black 1
+black 1 red 9 black 1
+black 1 red 1 black 7 red 1 black 2 black 2
+black 3 red 1 black 3 black 1 red 1 black 1 green 1 black 2 black 2 green 1
+black 1 blue 1 black 1 black 1 blue 1 black 6 green 1 black 5 green 1 black 1
+blue 1 black 5 blue 1 black 1 black 2 green 5 black 2
+blue 7 black 1 black 2 green 1 black 5 green 1 black 1
+blue 1 black 5 blue 1 black 1 black 1 green 1 black 2 black 2 green 1
+black 1 blue 1 black 1 black 1 blue 1 black 2 black 4 black 6
+blue 1 black 2 black 3 black 2 blue 1 black 1 black 2 green 1 black 2 green 1 black 1
+black 1 blue 1 black 7 blue 1 black 2 black 1 green 1 black 4 green 1
+black 2 blue 7 black 2 black 1 green 6
+black 1 blue 1 black 7 blue 1 black 2 black 1 green 1 black 4 green 1
+blue 1 black 2 black 2 blue 1 black 4 green 1 black 2 green 1 black 1
+black 1 red 1 black 2 black 4 red 1 black 6
+black 2 red 1 black 9 red 1 black 2
+black 2 red 9 black 2
+black 2 red 1 black 9 red 1 black 2
+black 1 red 1 black 2 black 2 red 1 black 1
+
+columns
+black 2 blue 3 black 1 blue 1 black 3 blue 1 black 2 black 2
+black 5 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 red 1 black 3 red 1
+black 1 red 3 black 3 blue 1 black 4 blue 1 black 3 red 1 black 1 red 1 black 1
+red 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 2 red 1 black 2
+black 2 red 1 black 4 blue 1 black 4 blue 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 2 blue 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 3 blue 3 black 3 blue 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 5 black 1 blue 1 black 1 black 1 red 1 black 1
+black 2 red 1 black 3 black 2 blue 1 black 2 black 1 red 1 black 1
+red 1 black 1 red 1 black 1 red 1 black 1 black 2 blue 1 black 1 blue 1 black 3 red 1 black 1
+black 1 red 3 black 2 black 3 blue 1 black 3 blue 1 black 2 red 1 black 1
+black 4 green 1 black 3 green 1 black 3 black 4 red 1 black 2
+black 2 green 1 black 1 green 1 black 2 black 2 red 1 black 1 red 1 black 1
+black 2 green 1 black 2 black 5 red 1 black 3 red 1
+black 1 green 1 black 1 black 2 green 3 black 3 black 2
+black 1 green 1 black 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 3 green 1 black 3
+black 2 green 1 black 5 green 1 black 3
+black 2 green 1 black 1 green 1 black 2 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 3 green 1 black 2 green 3 black 2

@@ -1,0 +1,81 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Thomas Genuine"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 26056
+link "https://webpbn.com/play.cgi?id=26056"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Well-known TM in Europe #6"
+width 40
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 2
+black 5
+black 4 black 2
+black 2 black 1
+green 7 green 7 green 6 black 2 black 1 black 1 green 7
+green 1 green 3 green 1 green 2 green 2 green 1 black 2 black 4 green 1 green 1 green 1
+green 1 green 1 green 1 green 2 green 2 green 1 green 1 black 1 black 2 black 1 green 1 green 1 green 1
+green 1 green 1 green 2 green 1 green 2 green 3 green 3 black 1 black 1 black 1 green 1 green 1 green 1
+green 1 green 1 green 2 green 1 green 2 green 3 green 3 black 2 black 2 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 3 green 3 black 2 black 3 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 3 green 3 black 5 green 1 green 1 green 1
+green 1 green 3 green 1 green 1 green 3 green 1 green 3 green 3 black 2 green 1 green 1 green 1
+green 1 green 3 green 1 green 1 green 3 green 1 green 3 green 3 green 1 green 1 green 1
+green 7 green 7 green 7 black 1 green 7
+black 2
+black 1 black 3
+black 8
+black 5
+0
+
+columns
+green 10
+green 1 green 1
+green 2 green 5
+green 3 green 3
+green 2 green 5
+green 1 green 1
+green 10
+0
+green 10
+green 5 green 1
+green 1 green 3
+green 1 green 3 green 3
+green 1 green 3
+green 5 green 1
+green 10
+0
+green 10
+green 1 green 7
+green 1 green 7
+green 1 green 1
+green 1 green 7 black 2
+black 1 green 1 green 7 black 2
+black 4 green 8 black 2
+black 8 black 2
+black 2 black 4 black 2
+black 1 black 3 black 2
+black 2 black 4 black 1 black 2
+black 3 black 2 black 1 black 2
+black 4 black 2 black 2
+black 5 black 1
+black 2 black 1
+0
+green 10
+green 1 green 1
+green 1 green 1
+green 4 green 4
+green 1 green 1
+green 1 green 1
+green 10
+0

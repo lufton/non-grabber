@@ -1,0 +1,80 @@
+by "saul gallardo (saulg10)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by saul gallardo"
+date "Jan 31, 2014"
+description "Equipo liga espaÃÂ±ola"
+difficulty 3.0
+height 29
+id 23697
+link "https://webpbn.com/play.cgi?id=23697"
+note "published,definitely non-unique,may require much guessing"
+quality 2.25
+title "FCB"
+width 29
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 7 black 3 black 3 black 7
+black 1 red 2 black 1 red 1 black 1
+black 1 red 3 red 1 red 1 red 1 red 1 black 1
+black 1 red 3 red 1 red 1 red 1 red 1 black 1
+black 1 red 3 red 1 red 1 red 1 red 1 black 1
+black 1 red 9 red 1 red 1 red 1 red 1 black 1
+black 1 red 9 red 1 red 1 red 1 red 1 black 1
+black 1 red 9 red 1 red 1 red 1 red 1 black 1
+black 1 red 3 red 1 red 1 red 1 red 1 black 1
+black 1 red 3 red 1 red 1 red 1 red 1 black 1
+black 1 red 3 red 1 red 1 red 1 red 1 black 1
+black 2 black 3 black 3 black 3 black 2
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 3 black 1
+black 1 blue 3 red 3 blue 4 red 3 blue 4 red 3 blue 3 black 1
+black 1 blue 3 red 3 blue 4 blue 4 red 3 blue 3 black 1
+black 1 blue 3 red 3 blue 3 blue 3 red 3 blue 3 black 1
+black 1 blue 3 red 3 blue 3 blue 3 red 3 blue 3 black 1
+black 1 blue 2 red 3 blue 3 blue 3 red 3 blue 2 black 1
+black 1 blue 1 red 3 blue 4 blue 4 red 3 blue 1 black 1
+black 1 red 3 blue 4 red 3 blue 4 red 3 black 1
+black 1 red 2 blue 4 red 3 blue 4 red 2 black 1
+black 1 black 1
+black 5 black 5
+black 2 black 2
+black 1
+
+columns
+black 1
+black 1 black 2 black 6
+black 1 black 2 black 3 black 1
+black 1 black 5 blue 4 black 1
+black 1 blue 5 black 1
+black 1 red 3 blue 6 black 1
+black 1 red 3 red 7 black 1
+black 1 red 3 red 8 black 1
+black 1 red 9 red 8 black 1
+black 1 red 10 black 5 blue 8 black 1
+black 1 red 10 black 1 black 1 blue 8 black 1
+black 1 red 3 black 1 blue 8 black 1
+black 1 red 3 blue 2 blue 3 black 1
+black 1 red 3 black 5 red 1 red 2 black 1
+black 1 black 1 black 1 red 1 red 2 black 1
+black 1 black 1 black 1 red 1 red 2 black 1
+black 1 red 9 blue 2 blue 3 black 1
+black 1 black 5 blue 8 black 1
+black 1 red 10 black 1 black 1 black 1 blue 8 black 1
+black 1 black 5 blue 8 black 1
+black 1 red 9 red 8 black 1
+black 1 red 8 black 1
+black 1 red 9 red 7 black 1
+black 1 blue 6 black 1
+black 1 blue 5 black 1
+black 1 black 5 blue 4 black 1
+black 1 black 2 black 3 black 1
+black 1 black 2 black 6
+black 1

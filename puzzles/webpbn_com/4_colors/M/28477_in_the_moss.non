@@ -1,0 +1,57 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Sep  6, 2016"
+description "a bird"
+difficulty 2.0
+height 15
+id 28477
+link "https://webpbn.com/play.cgi?id=28477"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "in the moss"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3
+black 3 black 1
+black 4
+red 3 black 3
+red 5 black 3
+red 5 black 6
+green 2 red 4 green 1
+green 4 red 2 green 3 green 2
+green 1 green 1 green 3 black 1 green 1 black 1 green 5 green 1
+green 5 black 1 green 2 black 1 green 6 green 1
+green 3 black 2 green 1 black 1 green 2
+green 2 green 4 black 1 green 1 green 2
+green 3 green 3 green 4
+green 2 green 3
+0
+
+columns
+green 1
+green 1
+green 1 green 1 green 3
+black 1 green 8
+black 1 green 2 green 2 green 1
+black 3 red 3 green 5
+black 1 black 1 red 4 green 1 black 1 green 1
+black 3 red 5 green 1 black 2 green 1
+black 2 red 4 black 1 green 4
+black 1 red 3 green 2 black 2 green 1
+black 2 black 2 green 2
+black 2 green 3 green 1
+black 2 green 4 green 3
+black 1 green 4 green 1
+black 1 green 5
+black 1 green 3 green 2
+black 1 green 1 green 1
+green 1
+green 1
+0

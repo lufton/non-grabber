@@ -1,0 +1,69 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Ron Jacobson"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 25
+id 25351
+link "https://webpbn.com/play.cgi?id=25351"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Dilema"
+width 22
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 green 1
+green 1 green 1
+green 5 red 3 red 3
+green 2 green 1 green 1 red 5 red 5
+green 1 green 1 green 1 red 8 red 4
+green 1 green 1 green 1 red 8 red 3
+green 1 green 1 green 1 red 9 red 3
+green 2 green 1 red 8 red 2
+green 3 red 6 red 2
+green 1 green 2 red 4 red 2
+green 1 green 1 green 1 red 5
+green 1 green 1 green 1 red 3
+green 1 green 1 green 1 red 1
+green 1 green 1 green 2 red 1
+green 5 red 1
+green 1 green 1
+green 1 green 1
+0
+0
+0
+0
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2 black 1 black 2
+black 1 black 1 black 1 black 3 black 1 black 1 black 3 black 1
+black 5 black 1 black 1 black 1 black 2 black 1 black 1 black 3
+
+columns
+green 3 green 2 black 4
+green 1 green 1 green 1 black 1
+green 17 black 2
+green 1 green 1 green 1 black 1
+green 17 black 4
+green 1 green 1 green 1
+green 2 green 3 black 4
+black 1
+red 3 black 2
+red 5
+red 7 black 1 black 2
+red 8
+red 9 black 3
+red 9 black 1 black 1
+red 11
+red 6 red 2 black 4
+red 2 red 2 red 2 black 1
+red 3 red 2 black 2
+red 7
+red 5 black 1 black 1
+red 3 black 4
+black 1

@@ -1,0 +1,46 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 12, 2010"
+description ":D"
+difficulty 1.5
+height 17
+id 9172
+link "https://webpbn.com/play.cgi?id=9172"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Just 4 bugaboo"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 1 black 2
+black 2 black 3 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 3 black 1
+black 1 black 1 black 1 red 1
+black 1 black 3 red 2
+black 1 black 1 red 4
+
+columns
+black 15
+black 2
+black 1
+black 1 black 5 black 4
+black 1 black 1 black 1 black 4 black 1 black 1 red 1
+black 1 black 3 black 1 black 3 red 1
+black 1 red 2
+black 13 red 3

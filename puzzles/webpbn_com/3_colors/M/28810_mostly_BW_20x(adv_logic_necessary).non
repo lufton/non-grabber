@@ -1,0 +1,61 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Kurt Kowalczyk"
+date "Sep 26, 2016"
+description "just a lil doodle...I thought it was fun solve, hope y'all enjoy! :)"
+difficulty 3.25
+height 20
+id 28810
+link "https://webpbn.com/play.cgi?id=28810"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "mostly B&W 20x(adv logic necessary)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 8
+black 4 black 1 black 2
+black 1 black 1 black 1 black 3
+black 2 black 7 black 2
+black 3 black 2 black 2
+black 2 black 2 black 2
+black 1 blue 1 black 2 black 1 black 1
+black 1 black 1 blue 1 black 6
+black 3 black 2 black 2
+black 1 black 1 black 2
+black 1 black 1 black 3 black 4
+black 2 black 1 black 3 black 1
+black 3 black 7 black 2
+black 2 black 2 black 1 black 1
+black 1 black 2 black 1
+black 1 black 1 black 1 black 5 black 2
+black 1 black 2 black 6 black 3
+black 2 black 5 black 3
+black 3 black 4 black 5
+black 6
+
+columns
+black 4
+black 4 black 1 black 2
+black 2 black 1 black 3 black 1 black 1
+black 1 black 1 black 5 black 1 black 2 black 2
+black 1 black 2 black 1 black 2 black 1
+black 2 black 1 black 1 black 2 black 1
+black 2 black 2 blue 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 black 2 black 2
+black 2 black 1 black 2 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 3
+black 1 black 2 blue 1 black 1 black 3
+black 1 black 3 black 1 black 2
+black 1 black 1 black 2 black 2 black 4
+black 2 black 2 black 1 black 1 black 2
+black 2 black 2 black 2 black 1 black 1 black 1
+black 1 black 4 black 1 black 2
+black 3 black 2 black 2 black 4
+black 3 black 1 black 2 black 2
+black 3 black 1 black 2
+black 4

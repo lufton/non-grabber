@@ -1,0 +1,42 @@
+by "Zoon"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/8/11"
+height 7
+id 115735
+link "https://www.griddlers.net/nonogram/-/g/115735"
+medium_time "0:00:26"
+points 415
+popularity 53.0
+title "Battery"
+width 15
+
+color a ffffff
+color b ff3333
+color c 000000
+
+rows
+c 14 b 1
+c 1 c 1 b 1
+c 1 c 1 c 1 b 1
+c 1 c 3 c 3 c 1 b 1
+c 1 c 1 c 1 b 1
+c 1 c 1 b 1
+c 14 b 1
+
+columns
+c 7
+c 1 c 1
+c 1 c 1
+c 1 c 1 c 1
+c 1 c 1 c 1
+c 1 c 1 c 1
+c 1 c 1
+c 1 c 1
+c 1 c 1
+c 1 c 1 c 1
+c 1 c 3 c 1
+c 1 c 1 c 1
+c 1 c 1
+c 7
+b 7

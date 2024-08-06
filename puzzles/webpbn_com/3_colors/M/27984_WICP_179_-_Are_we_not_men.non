@@ -1,0 +1,56 @@
+by "besmirched tea (besmirched tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by besmirched tea"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 27984
+link "https://webpbn.com/play.cgi?id=27984"
+note "published,may be unique,may be line/color solvable"
+quality 2.75
+title "WICP #179 - Are we not men?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 5
+red 5
+red 9
+red 9
+red 13
+red 13
+0
+black 3 black 3
+black 2 black 3 black 2
+black 3 black 3
+0
+red 7
+red 7
+red 5
+red 5
+black 4 red 7 black 4
+black 5 red 5 black 5
+black 15
+black 15
+
+columns
+black 4
+red 2 black 4
+red 2 black 4
+red 4 black 1 black 4
+red 4 black 3 red 2 red 1 black 3
+red 6 black 1 black 1 red 6 black 2
+red 7 black 3 red 6 black 2
+red 7 black 1 red 6 black 2
+red 7 black 3 red 6 black 2
+red 6 black 1 black 1 red 6 black 2
+red 4 black 3 red 2 red 1 black 3
+red 4 black 1 black 4
+red 2 black 4
+red 2 black 4
+black 4

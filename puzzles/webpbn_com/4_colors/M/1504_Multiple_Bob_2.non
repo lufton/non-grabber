@@ -1,0 +1,72 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Sylvain "WCPman""
+date "Sep 27, 2007"
+description "Sleepy Bob : after a long Day Bob want to solve puzzle on pbn put he keep falling a sleep in front of his PC"
+difficulty 2.75
+height 25
+id 1504
+link "https://webpbn.com/play.cgi?id=1504"
+note "published,definitely unique,may require some guessing"
+quality 2.5
+title "Multiple Bob #2"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 19
+black 21
+black 5 black 1 black 1 black 1 black 1 black 1 black 5
+black 4 black 4
+black 2 black 2 black 2 black 2
+black 2 black 4 black 4 black 2
+black 2 black 11 black 2
+black 1 black 1 blue 2 black 1 blue 2 black 1 black 1
+black 3 black 1 black 1 black 1 black 1 black 3
+black 2 black 1 black 2 black 2 black 1 black 2
+black 2 black 3 black 2
+black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1 black 2
+black 3 black 2 black 2 black 3
+black 1 black 1
+black 1 black 5 black 1
+black 1 black 7 black 1
+black 2 black 3 red 1 black 3 black 2
+black 1 black 1 red 5 black 1 black 1
+black 3 black 2 black 5 black 2 black 3
+black 1 black 2 black 2 black 1
+black 1 black 3 black 3 black 1
+black 1 black 3 black 3 black 1
+black 3 black 5 black 3
+0
+
+columns
+black 4 black 1 black 2
+black 3 black 2 black 1 black 1 black 1
+black 3 black 1 black 1 black 2 black 1
+black 10 black 6
+black 7 black 3
+black 4 black 2
+black 3 black 2
+black 2 black 2 black 1
+black 3 black 2 black 1 black 2
+black 2 black 3 blue 1 black 1 black 3 black 1
+black 3 black 3 blue 1 black 1 black 2 black 3 red 1 black 1 black 2
+black 2 black 2 black 1 black 2 black 1 black 3 red 1 black 1 black 1
+black 3 black 2 black 1 black 2 red 2 black 1 black 1
+black 2 black 2 black 1 black 2 black 1 black 3 red 1 black 1 black 1
+black 3 black 3 blue 1 black 1 black 2 black 3 red 1 black 1 black 2
+black 2 black 3 blue 1 black 1 black 3 black 1
+black 3 black 2 black 1 black 2
+black 2 black 2 black 1
+black 3 black 2
+black 4 black 2
+black 7 black 3
+black 10 black 6
+black 3 black 1 black 1 black 1 black 2
+black 3 black 2 black 1 black 1 black 1
+black 4 black 2 black 1

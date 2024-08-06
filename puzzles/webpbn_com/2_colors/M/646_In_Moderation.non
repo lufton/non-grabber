@@ -1,0 +1,52 @@
+by "Meg Tayler (rebelcat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Meg Tayler"
+date "Nov 30, 2006"
+description "It's tiny, it's easy! I just wanted to try white-on-black, to see how it looks."
+difficulty 1.0
+height 25
+id 646
+link "https://webpbn.com/play.cgi?id=646"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "In Moderation"
+width 10
+
+rows
+10
+3,4
+3,4
+10
+3,4
+3,1,4
+3,1,4
+3,4
+2,1,3
+1,3,2
+1,5,2
+1,5,2
+1,2
+1,5,2
+1,1,1,2
+1,1,1,2
+1,5,2
+1,1,1,2
+1,5,2
+1,2
+1,5,2
+1,5,2
+1,5,2
+1,2
+10
+
+columns
+25
+9,1
+8,2,6,3,1
+1,1,3,1,1,1,3,1
+1,1,2,4,1,1,1,3,1
+1,1,3,1,1,1,3,1
+8,2,6,3,1
+9,1
+25
+25

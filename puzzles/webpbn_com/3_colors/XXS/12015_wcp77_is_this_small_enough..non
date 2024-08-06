@@ -1,0 +1,27 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Feb  1, 2011"
+description "I realize it's easy and boring but i wanted to do something tangible in the smallest size possible.It's a magnet of course."
+difficulty 1.0
+height 3
+id 12015
+link "https://webpbn.com/play.cgi?id=12015"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "wcp#77 is this small enough."
+width 3
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 1 red 1
+black 1 black 1
+
+columns
+red 2 black 1
+red 1
+red 2 black 1

@@ -1,0 +1,63 @@
+by "Branwen Elysia Aldrich ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Branwen Elysia Aldrich"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.75
+height 20
+id 27979
+link "https://webpbn.com/play.cgi?id=27979"
+note "published,may be unique,may be line/color solvable"
+quality 2.5
+title "April showers..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 1 black 4 black 2 black 2 black 1
+black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 5 black 1
+black 1 black 5 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 black 1
+black 1 black 1
+black 20
+black 20
+black 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 green 1 red 1 red 1 green 1 red 1 red 1 green 1 black 1
+black 1 green 1 red 1 green 1 green 1 red 1 green 1 green 1 red 1 green 1 black 1
+black 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 20
+
+columns
+black 20
+black 1 black 2 green 1 black 1
+black 1 black 2 red 1 black 1
+black 1 black 2 black 2 red 1 red 1 black 5
+black 2 black 1 blue 1 blue 1 black 2 red 1 black 1
+black 2 black 1 blue 1 black 2 green 1 black 1
+black 2 black 1 blue 1 blue 1 black 2 green 1 green 1 black 4
+black 2 black 1 blue 1 black 2 green 1 black 1
+black 1 black 1 black 1 blue 1 blue 1 black 2 red 1 black 1
+black 1 black 1 black 2 red 1 red 1 black 5
+black 1 black 2 red 1 black 1
+black 1 black 2 green 1 black 1
+black 1 black 1 black 2 green 1 green 1 black 4
+black 2 black 1 blue 1 blue 1 black 2 green 1 black 1
+black 2 black 1 blue 1 black 2 red 1 black 1
+black 1 black 2 blue 1 blue 1 black 2 red 1 red 1 black 5
+black 2 black 1 blue 1 black 2 red 1 black 1
+black 2 black 1 blue 1 blue 1 black 2 green 1 black 1
+black 1 black 1 black 2 green 1 green 1 black 4
+black 20

@@ -1,0 +1,83 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/4/23"
+height 30
+id 269983
+link "https://www.griddlers.net/nonogram/-/g/269983"
+medium_time "0:21:50"
+points 45461
+popularity 85.33
+title "Shell"
+width 29
+
+color a ffffff
+color c CC3300
+color d 990000
+color e FF9966
+color f FFCCCC
+color g 999999
+color h 333333
+
+rows
+c 1 d 1
+d 1 c 1 d 1
+d 1 e 1 f 1 d 1
+d 2 e 1 f 1 d 1
+d 3 c 1 d 1 e 1 f 1
+d 2 c 3 f 1 e 1 f 1 e 1
+d 1 c 2 d 2 c 1 f 1 e 2 d 1
+d 1 c 1 e 3 d 1 f 1 e 2 f 1 d 1
+c 3 d 2 c 1 e 1 f 3 e 1 d 1 e 1 f 1 d 1
+c 1 d 1 e 2 c 3 e 1 f 2 e 2 d 4
+c 1 d 1 e 1 c 3 e 2 f 1 c 2 e 1 d 2 e 1 f 1 d 1
+d 1 e 1 c 2 f 1 e 1 f 2 c 1 e 2 d 1 c 1 e 1 f 1 d 1
+d 1 e 1 c 2 f 3 c 2 d 2 e 2 c 1 f 2 d 1
+d 1 e 1 c 2 f 2 c 2 d 2 f 1 e 1 c 1 f 1 e 1 d 1
+f 5 e 1 c 2 d 2 f 1 d 1 c 1 e 1 f 1 d 1
+f 8 d 2 f 1 d 1 c 2 f 1 e 1 d 1
+f 9 e 1 d 2 c 1 f 3 e 1
+f 5 g 6 e 1 f 3 e 3
+f 4 g 1 g 1 e 1 d 1 e 2 d 1
+f 3 g 1 h 4 g 1 e 1 d 2
+f 3 g 1 h 7 e 1
+f 3 g 1 h 9 e 1
+f 2 g 1 h 7 g 3 e 1
+f 2 g 1 h 7 g 2 g 1 e 1
+g 2 h 6 g 3 g 2 e 1
+g 2 h 3 g 5 g 3
+g 7 g 2
+g 3 g 4
+g 10
+g 8
+
+columns
+f 1 g 1
+f 4 g 3
+f 6 g 1 g 3
+f 7 g 1 h 2 g 3
+f 6 g 2 h 3 g 4
+d 2 f 5 g 1 h 4 g 1 g 2
+c 1 d 1 e 2 f 4 g 1 h 4 g 2 g 2
+c 1 d 1 e 1 c 2 f 3 g 1 h 5 g 2 g 2
+c 1 d 1 e 1 c 3 f 3 g 1 h 5 g 1 g 2
+c 1 e 1 c 2 f 2 e 1 f 2 g 1 h 5 g 2 g 2
+c 1 e 1 c 1 f 3 c 1 f 2 g 1 h 5 g 2 g 3
+c 2 e 1 f 1 c 2 d 1 f 1 g 1 h 4 g 2 g 3
+d 1 c 1 e 1 f 1 c 2 d 2 e 1 g 1 h 3 g 2 g 4
+d 1 c 1 e 1 f 1 c 1 d 2 f 1 d 1 e 1 g 1 h 2 g 1 g 4
+d 1 c 1 e 1 f 1 c 1 d 2 f 1 d 2 f 1 e 1 g 1 h 1 g 4
+d 1 c 1 e 1 f 1 c 1 e 1 d 1 f 1 d 1 c 2 f 1 d 1 e 6
+c 1 e 1 f 2 c 1 e 3 c 2 f 2 e 1 d 1
+d 1 c 1 e 1 f 1 e 2 d 1 e 1 c 1 e 1 f 2 e 2 d 1
+d 2 e 1 f 1 e 1 d 1 c 2 f 2 e 1 f 1 e 1 d 1
+d 1 c 1 d 2 e 1 d 2 e 1 f 1 e 1 d 2 e 2
+d 1 c 2 f 1 d 2 e 1 f 2 d 1
+d 1 c 1 f 1 e 2 d 1 f 1 d 2
+d 1 c 1 f 1 e 2 f 1 d 2
+d 2 e 2 f 1 d 1
+d 1 e 2 f 1 d 2
+d 1 e 1 f 2 e 1
+c 1 f 1 d 1
+c 1 d 2
+d 1

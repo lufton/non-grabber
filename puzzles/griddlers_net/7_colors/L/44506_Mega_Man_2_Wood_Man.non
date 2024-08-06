@@ -1,0 +1,84 @@
+by "raevel"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/11/07"
+height 30
+id 44506
+link "https://www.griddlers.net/nonogram/-/g/44506"
+medium_time "0:30:35"
+points 28593
+popularity 66.43
+title "Mega Man 2: Wood Man"
+width 30
+
+color a 000000
+color b ffffff
+color c 009900
+color d 9a4400
+color e ec9466
+color f ff6666
+color g ff9999
+
+rows
+g 3 f 2
+f 2 g 3 f 5 g 1 f 1
+f 1 g 2 f 4 g 5 f 1 g 1 f 1 d 1 c 1
+f 1 g 2 f 2 g 4 f 2 g 3 f 1 g 2 d 1 c 2
+g 2 f 2 g 2 f 4 g 3 f 2 g 2 d 1 e 1 d 1 d 1 e 1 c 1
+g 2 f 1 g 3 f 1 g 4 f 3 g 2 e 1 d 2 e 1 d 1 e 3 d 1
+g 2 f 1 g 2 f 2 g 2 f 3 g 3 e 2 d 1 e 1 d 1 e 1 d 1 e 3 d 1
+e 1 g 2 f 1 g 4 f 2 g 3 d 1 e 2 d 3 e 2 d 2 e 2 d 2
+e 1 g 3 f 3 g 4 e 2 d 1 e 1 d 1 d 2 e 2 d 1 e 3 d 1
+e 2 d 1 g 5 e 3 d 1 e 1 d 2 d 2 e 1 d 1 e 2 d 2
+e 2 d 1 e 2 d 1 e 1 d 1 e 3 d 1 e 1 d 1 d 2 e 2 d 3
+e 5 d 1 e 1 d 1 e 1 d 1 e 1 d 2 f 4 d 2 e 1 d 2
+e 2 d 1 e 5 d 1 e 1 d 1 f 3 b 1 f 1 d 1 e 1 d 1 e 1
+e 1 d 1 e 4 d 2 f 3 b 2 f 1 d 1 e 1 d 1 e 1
+e 1 d 1 f 2 e 3 d 1 f 3 b 3 f 2 d 3 e 1 d 1
+e 1 d 1 f 2 e 1 d 1 f 2 b 4 f 2 d 3 e 1 d 1
+e 1 d 1 f 3 f 2 b 4 f 3 d 1 e 1 d 1 e 1 d 2
+e 1 d 1 b 1 f 1 f 2 b 4 f 3 d 1 e 1 d 1 e 2 d 1
+d 2 b 2 g 1 b 3 g 1 f 3 d 1 e 1 d 2 e 1 d 1
+d 2 b 2 g 3 b 4 g 3 f 2 d 1 e 2 d 1 e 1 d 1
+d 2 g 1 b 3 g 10 f 1 d 1 e 1 d 2 e 1 d 1
+d 1 e 1 d 1 g 8 f 2 d 1 e 1 d 1 e 1 d 2
+d 1 e 1 d 1 g 6 g 3 f 1 d 2 e 1 d 1 e 1 d 1
+d 1 e 1 d 1 g 5 g 6 f 1 d 2 e 2 d 2
+e 2 d 1 g 2 g 2 f 2 g 3 d 2 e 3 d 1 c 1
+c 2 e 2 d 1 g 4 f 2 g 2 d 2 e 5 c 2
+c 3 e 2 d 1 g 6 d 2 e 4 c 3
+c 5 e 2 d 9 e 4 c 4
+c 6 e 4 d 4 e 4 c 6
+c 7 e 8 c 8
+
+columns
+c 3
+c 4
+c 5
+e 11 d 6 c 5
+g 3 e 4 d 8 e 4 c 3
+g 4 d 2 e 1 d 1 d 3 e 2 c 2
+g 2 f 2 g 2 e 2 f 1 d 1 e 2 c 1
+f 1 g 1 f 1 g 2 f 1 g 1 e 3 f 2 b 3 g 4 d 1 e 2
+g 1 f 1 g 3 f 1 g 1 d 2 e 2 f 2 b 3 g 4 d 1 e 2
+f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 e 5 f 1 b 1 g 5 d 1 e 1
+g 1 f 1 g 2 f 1 g 3 d 2 e 4 f 2 b 1 g 3 g 2 d 1 e 2
+f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 e 6 d 1 g 5 g 2 d 1 e 2
+f 2 g 1 f 1 g 2 f 1 g 1 e 2 d 4 f 1 g 5 g 3 d 2 e 1
+g 1 f 1 g 1 f 1 g 1 f 1 g 2 e 4 d 1 f 2 g 3 g 2 f 1 g 1 d 2 e 1
+g 1 f 1 g 1 f 1 g 1 f 1 g 1 e 1 d 4 f 3 b 1 g 2 g 1 f 2 g 1 d 2 e 1
+g 1 f 1 g 1 f 1 g 1 f 1 g 1 e 3 d 1 f 3 b 1 g 1 g 2 f 1 g 2 d 2 e 1
+g 1 f 1 g 1 f 1 g 1 f 1 g 1 d 4 f 3 b 4 g 1 g 4 d 1 e 2
+g 1 f 1 g 1 f 1 g 1 f 1 g 1 e 2 d 1 f 3 b 5 g 1 g 3 d 1 e 2
+g 1 f 1 g 3 f 1 g 1 e 1 d 1 f 2 b 5 g 2 g 2 d 1 e 2
+f 2 g 2 f 1 g 1 e 1 d 1 f 1 b 5 g 3 f 1 d 2 e 2
+f 2 g 2 f 1 g 1 e 1 d 2 f 1 b 4 f 3 g 2 f 2 d 1 e 2
+g 1 f 2 g 1 e 1 d 4 f 10 d 1 e 3
+f 1 g 3 d 1 e 3 d 2 f 6 d 2 e 2 c 1
+f 1 g 1 d 3 e 3 d 2 d 2 e 3 c 1
+d 2 e 3 d 3 e 1 d 12 e 3 c 2
+d 4 e 6 d 2 e 10 c 2
+e 5 d 9 e 1 d 5 c 3
+d 1 e 4 d 3 e 6 d 3 e 2 d 1 c 4
+c 1 e 3 d 4 d 3 e 4 d 2 c 5
+c 3 d 3 d 6 c 6

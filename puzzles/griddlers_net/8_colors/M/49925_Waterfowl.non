@@ -1,0 +1,62 @@
+by "SUMOFAN"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/2/07"
+height 18
+id 49925
+link "https://www.griddlers.net/nonogram/-/g/49925"
+medium_time "0:08:40"
+points 4237
+popularity 65.65
+title "Waterfowl"
+width 19
+
+color a ffffff
+color b 000000
+color c 80805d
+color d ff9900
+color e cccc00
+color f 006699
+color g 669900
+color h 006600
+
+rows
+c 1 f 1
+c 3 f 1
+d 1 c 1 b 1 c 1 f 1 c 1
+d 2 g 1 c 1 f 1 h 1 c 1 f 1 g 1
+c 1 f 1 h 2 c 1 h 1 f 1 g 2
+c 1 h 1 c 1 h 1 h 1 f 1 g 2 f 1
+c 1 h 1 c 1 h 1 h 1 f 2 g 1 f 3
+g 1 h 2 c 1 h 1 h 2 f 1 g 2 f 1
+g 1 c 1 g 1 c 1 h 1 h 2 f 2 g 2 f 1 h 2
+g 1 c 1 e 1 g 1 c 1 h 5 f 2 g 2 f 1 h 2
+g 1 c 1 e 2 c 1 g 7 e 1 g 1 f 1 h 1
+g 1 c 1 e 5 g 1 e 5 h 3
+g 1 c 4 e 4 c 3 h 2
+g 5 c 3 g 3 h 1
+g 5 h 3
+d 1 d 1
+d 1 d 1
+d 4
+
+columns
+d 1
+d 2 g 5
+c 2 g 1 c 1 g 1 c 5 g 1
+c 2 b 1 c 1 f 1 c 2 h 1 g 1 e 3 c 1 g 1
+f 1 c 2 f 1 h 4 c 1 g 1 e 2 c 1 g 1
+f 2 h 2 c 3 h 1 c 2 e 1 c 1 g 1
+c 3 h 3 h 1 g 1 e 2 g 2
+h 1 g 1 e 2 c 1 g 1 d 1
+h 1 g 2 e 1 c 1 g 1 d 3
+h 1 g 1 e 2 c 1 g 1 d 1
+h 2 g 1 e 1 c 1 g 2 d 3
+h 2 f 1 g 1 e 1 c 1 g 1 h 1
+h 1 h 2 f 2 g 1 e 1 c 1 g 1 h 1
+h 1 f 3 g 1 e 2 h 3
+f 1 f 2 g 4 h 2
+f 1 g 4 f 2 h 1
+g 2 f 3 h 3
+g 2 f 1 h 2
+f 2 h 1

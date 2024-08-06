@@ -1,0 +1,51 @@
+by "Robert Shields (skweedle)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Robert Shields"
+date "Jul  3, 2011"
+description "Two toastaphobic slices of bread who figured "They'll never look for us here." They were right, but now mould is catching up with them."
+difficulty 1.25
+height 15
+id 15065
+link "https://webpbn.com/play.cgi?id=15065"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Sarah's mini-competition"
+width 15
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+blue 12
+blue 2 blue 3
+blue 2 blue 2 blue 1
+blue 11 blue 1
+blue 1 blue 1 blue 1
+blue 1 black 4 black 4 blue 1 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 1 blue 2
+blue 1 black 4 black 4 blue 3
+blue 12
+
+columns
+blue 9
+blue 3 black 5 blue 1
+blue 2 blue 1 black 1 black 1 blue 1
+blue 1 blue 1 black 1 black 1 blue 1
+blue 1 blue 1 black 5 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 black 5 blue 1
+blue 1 blue 1 black 1 black 1 blue 1
+blue 1 blue 1 black 1 black 1 blue 1
+blue 1 blue 1 black 5 blue 1
+blue 1 blue 9
+blue 3 blue 2
+blue 2 blue 2
+blue 9
+0

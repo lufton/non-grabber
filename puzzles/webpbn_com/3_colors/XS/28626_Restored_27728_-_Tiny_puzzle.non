@@ -1,0 +1,37 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Kristen Vognild"
+date "Aug 22, 2016"
+description "There was a flurry of 8x8 puzzles created around April of 2015. I made a tiny white bird, perched on a branch."
+difficulty 2.0
+height 8
+id 28626
+link "https://webpbn.com/play.cgi?id=28626"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Restored #27728 - Tiny puzzle"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 5 black 1
+green 1 black 3 black 1
+green 1 black 2 black 1
+black 1 green 1 black 1
+black 2 green 1 black 1 black 1
+black 1 green 1 black 1 black 2
+green 1 black 3
+black 3 green 2 black 1
+
+columns
+black 1 green 2 black 3
+black 3 green 1 black 1
+black 3 green 1 black 1
+black 2 black 1 green 1 black 1
+black 1 black 1 green 1 black 1
+black 1 green 1
+black 1 black 2 green 1
+black 1 black 6

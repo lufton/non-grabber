@@ -1,0 +1,61 @@
+by "william greene (deac75)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by william greene"
+date "Aug 15, 2007"
+description ""
+difficulty 1.0
+height 20
+id 1186
+link "https://webpbn.com/play.cgi?id=1186"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "U.S.A FLAG"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 13 black 7
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 black 7
+blue 13
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 2
+blue 13 black 7
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 black 7
+blue 13
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 2
+black 20
+black 20
+0
+0
+black 20
+black 20
+0
+0
+black 20
+black 20
+0
+0
+
+columns
+blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+blue 8 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2

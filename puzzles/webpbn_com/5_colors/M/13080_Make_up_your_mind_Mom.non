@@ -1,0 +1,63 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 29, 2011"
+description "I told my young son he could walk the dog but he had to "not let go" of the leash. The dog saw a cat and took off like a rocket, dragging my son across the yard. I ran up to my son and asked him "why didn't you let go?" "Mom", he said, "YOU told me NOT to." "Since when did you start doing what I tell you to do?!?""
+difficulty 1.5
+height 15
+id 13080
+link "https://webpbn.com/play.cgi?id=13080"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Make up your mind, Mom!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 11
+red 10 black 1 blue 4
+red 10 black 4 blue 1
+red 1 black 13 blue 10
+red 4 black 1 blue 2 blue 1
+red 4 black 1 black 5 blue 4
+red 2 black 4 green 1 black 1
+red 2 black 1 red 1 black 1
+red 2 black 1 green 1 black 1
+red 2 black 4 black 1
+red 4 black 1 black 5
+red 4 black 1 green 20
+red 4 black 1 green 20
+black 5 green 20
+green 25
+
+columns
+black 1 red 12 black 1 green 1
+black 1 red 2 black 1 red 9 black 1 green 1
+black 1 red 2 black 1 red 2 black 4 red 3 black 1 green 1
+black 1 red 2 black 1 red 2 black 1 black 1 red 3 black 1 green 1
+black 1 red 2 black 4 black 5 green 1
+black 1 red 2 black 1 black 1 black 1 green 4
+black 1 red 2 black 1 black 1 red 1 black 1 green 4
+black 1 red 2 black 1 black 1 black 1 green 4
+black 1 red 2 black 1 black 1 green 1 green 1 black 1 green 4
+black 1 red 2 black 1 black 1 black 1 green 4
+black 4 black 6 green 4
+black 2 green 4
+blue 1 black 2 blue 2 green 4
+blue 1 black 2 blue 2 green 4
+blue 1 blue 1 green 4
+blue 5 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4
+blue 1 green 4

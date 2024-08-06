@@ -1,0 +1,58 @@
+by "Joseph Newton (Shroomyjoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joseph Newton"
+date "Aug  2, 2013"
+description "READ THIS: Print this out, draw it or solve it again but remove question mark. Now connect the coloured shapes with lines that do not cross over each other or through other boxes."
+difficulty 1.5
+height 15
+id 22505
+link "https://webpbn.com/play.cgi?id=22505"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Puzzle in a Puzzle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 green 4 red 2
+black 2 green 6 red 2
+black 2 green 2 green 2 red 2
+black 1 green 2 red 1
+green 2
+blue 1 green 1 blue 1 green 1
+blue 2 green 3 green 2 blue 3 green 2
+blue 2 green 3 green 2 blue 3 green 2
+blue 2 green 3 blue 3 green 2
+blue 1 green 1 blue 1 green 1
+0
+black 1 red 1
+black 2 red 2
+black 2 red 2
+black 2 red 2
+
+columns
+black 4 blue 5 black 4
+black 3 blue 3 black 3
+0
+0
+0
+green 3
+green 5
+green 2 green 3
+green 3
+green 2 green 1 green 2
+green 2 green 2 green 2
+green 4
+green 2 blue 3
+blue 5
+blue 3
+0
+0
+0
+red 3 green 3 red 3
+red 4 green 5 red 4

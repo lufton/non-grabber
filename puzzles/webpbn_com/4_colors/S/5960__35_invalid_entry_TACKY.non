@@ -1,0 +1,52 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Jota"
+date "May 29, 2009"
+description "like a green and red stapler . Come on people; It's not rocket science!"
+difficulty 1.0
+height 10
+id 5960
+link "https://webpbn.com/play.cgi?id=5960"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "# 35 invalid entry TACKY"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+green 19
+green 19
+red 18
+red 15 black 2
+green 11
+green 18
+green 18
+0
+0
+
+columns
+0
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 3
+green 2 red 2 green 2
+green 2 red 2 green 2
+green 2 red 2 green 2
+green 2 red 2 green 2
+green 2 red 1 black 1 green 2
+green 2 red 1 black 1 green 2
+green 2 red 1 green 2
+green 2

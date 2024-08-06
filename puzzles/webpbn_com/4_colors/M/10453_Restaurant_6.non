@@ -1,0 +1,71 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Sep 23, 2010"
+description "Big Boy"
+difficulty 2.25
+height 19
+id 10453
+link "https://webpbn.com/play.cgi?id=10453"
+note "published,definitely unique,may require some guessing"
+quality 2.25
+title "Restaurant #6"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4 black 3 black 1 black 1
+black 1 black 1 black 2 black 2 black 2 black 2
+black 1 black 1 black 1 black 1 black 2 black 2 blue 1
+black 1 black 1 black 1 black 1 black 3 blue 1
+black 1 black 1 black 1 black 1 black 1 blue 8
+black 4 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 2 black 1
+black 4 black 3 black 1
+0
+0
+0
+red 2 red 1 red 1
+red 1 red 1 red 3 red 1
+red 2 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 2 red 1 red 1 red 1
+0
+
+columns
+black 10
+black 1 black 1 black 1
+black 1 black 1 black 1 red 1
+black 1 black 2 black 1 red 1 red 1 red 1
+black 3 black 3 red 5
+0
+black 6 red 1 red 3
+black 1 black 1
+black 2 black 2 red 4
+black 1 black 1 red 1
+black 2 black 2 red 1
+black 1 black 1
+black 6 red 5
+black 2
+black 2
+black 2
+black 7
+black 2
+black 2
+black 2
+blue 1
+blue 3
+blue 1 blue 1 blue 1
+blue 1
+blue 1
+blue 1
+blue 1
+blue 1
+0
+0

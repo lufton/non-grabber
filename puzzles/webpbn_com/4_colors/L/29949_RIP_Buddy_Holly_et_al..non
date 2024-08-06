@@ -1,0 +1,77 @@
+by "Louis Gilbrook (LouisGilbrook)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Louis Gilbrook"
+date "Jul  1, 2017"
+description ""
+difficulty 2.5
+height 30
+id 29949
+link "https://webpbn.com/play.cgi?id=29949"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "RIP Buddy Holly et al."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1 blue 1 blue 1 blue 1
+black 1 blue 1 blue 1 blue 1 red 4
+black 1 blue 1 blue 1 blue 1 red 3
+black 1 blue 1 blue 1 blue 1 red 4
+black 1 blue 1 blue 1 blue 1 red 3
+black 1 blue 1 blue 1 blue 1 red 4
+black 1 blue 1 blue 1 blue 1 red 3
+black 1 red 3 red 4
+black 1 red 3 red 3
+black 1 red 3 red 4
+black 1 red 3 red 3
+black 1 red 3 red 4
+black 1 red 3 red 3
+black 1 red 4
+black 1
+black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 2
+black 1 black 1 black 5 black 1
+black 1 black 3 black 1 black 1 black 3
+black 1 black 3 black 1 black 1 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 21
+black 19
+black 17
+black 15
+
+columns
+0
+0
+black 25
+blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 1
+blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1
+blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 3
+blue 1 blue 1 blue 1 red 1 red 1 red 1 black 2 black 1 black 3
+blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 black 3 black 6
+blue 1 blue 1 blue 1 red 1 red 1 red 1 black 1 black 4
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 5
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 2 black 4
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 3 black 1 black 5
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 black 4
+red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 5
+red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 1 black 1 black 4
+red 1 red 1 red 1 red 1 red 1 red 1 black 3 black 2 black 5
+black 1 black 1 black 4
+black 1 black 5
+black 2 black 2 black 4
+black 3 black 1 black 5
+black 1 black 4
+black 6
+black 2 black 1 black 3
+black 3 black 3
+black 1

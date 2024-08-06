@@ -1,0 +1,38 @@
+by "Valerie Mates (valerie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Valerie Mates"
+date "Jul 27, 2008"
+description "A very small rainbow"
+difficulty 1.25
+height 6
+id 3165
+link "https://webpbn.com/play.cgi?id=3165"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Somewhere"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 2 green 2 black 2
+black 2 green 4 black 2
+black 2 green 2 blue 2 green 2 black 2
+black 1 green 2 blue 1 blue 1 green 2 black 1
+black 1 green 1 blue 1 blue 1 green 1 black 1
+
+columns
+black 3
+black 2 green 2
+black 2 green 2 blue 1
+black 2 green 2 blue 1
+black 1 green 2 blue 1
+black 1 green 2 blue 1
+black 2 green 2 blue 1
+black 2 green 2 blue 1
+black 2 green 2
+black 3

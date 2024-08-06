@@ -1,0 +1,29 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 24, 2011"
+description "It's a kite. Somebody should make a more complicated one. Has somebody already?"
+difficulty 1.0
+height 4
+id 14125
+link "https://webpbn.com/play.cgi?id=14125"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Summer Activity"
+width 4
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 blue 2
+black 2 blue 2
+blue 2 black 1 blue 1
+blue 3 black 1
+
+columns
+black 2 blue 2
+black 2 blue 2
+blue 2 black 1 blue 1
+blue 3 black 1

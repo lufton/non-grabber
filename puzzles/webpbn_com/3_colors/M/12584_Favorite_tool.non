@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar  5, 2011"
+description "Sometimes I need to biggen stuff."
+difficulty 2.5
+height 20
+id 12584
+link "https://webpbn.com/play.cgi?id=12584"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.75
+title "Favorite tool"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 5
+blue 3 blue 3
+blue 2 blue 2
+blue 2 blue 2
+blue 1 blue 1
+blue 2 black 1 blue 2
+blue 1 black 1 blue 1
+blue 1 black 5 blue 1
+blue 1 black 1 blue 1
+blue 2 black 1 blue 2
+blue 1 blue 1
+blue 2 black 1 blue 1
+blue 2 black 3
+blue 3 blue 3 black 3
+blue 5 black 3
+black 3
+black 3
+black 3
+black 3
+black 2
+
+columns
+blue 5
+blue 3 blue 3
+blue 2 blue 2
+blue 2 blue 2
+blue 1 blue 1
+blue 2 black 1 blue 2
+blue 1 black 1 blue 1
+blue 1 black 5 blue 1
+blue 1 black 1 blue 1
+blue 2 black 1 blue 2
+blue 1 blue 1
+blue 2 black 1 blue 1
+blue 2 black 3
+blue 3 blue 3 black 3
+blue 5 black 3
+black 3
+black 3
+black 3
+black 3
+black 2

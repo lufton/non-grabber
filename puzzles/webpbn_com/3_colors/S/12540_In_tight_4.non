@@ -1,0 +1,58 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar  4, 2011"
+description "Bottom half of exit sign"
+difficulty 1.75
+height 7
+id 12540
+link "https://webpbn.com/play.cgi?id=12540"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "In tight #4"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 3 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 5 red 1 red 1 red 5 red 1 black 1
+black 1 black 1
+black 30
+
+columns
+black 7
+black 1
+red 5 black 1
+red 1 black 1
+red 1 black 1
+red 1 black 1
+red 1 black 1
+black 1
+black 1
+red 2 black 1
+red 2 black 1
+red 2 black 1
+red 2 black 1
+red 2 black 1
+black 1
+black 1
+red 1 black 1
+red 1 black 1
+red 5 black 1
+red 1 black 1
+red 1 black 1
+black 1
+black 1
+black 1
+black 1
+red 5 black 1
+black 1
+black 1
+black 1
+black 7

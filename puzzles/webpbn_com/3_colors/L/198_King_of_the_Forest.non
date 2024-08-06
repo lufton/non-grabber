@@ -1,0 +1,81 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Apr 20, 2005"
+description "O Totoro from Hayao Miyazaki's animated film "My Neighbor Totoro". Except he isn't actually blue."
+difficulty 2.25
+height 30
+id 198
+link "https://webpbn.com/play.cgi?id=198"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "King of the Forest"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 1 blue 1 black 1
+blue 2 blue 2 black 7
+blue 2 blue 2 black 9
+blue 3 blue 3 black 11
+blue 3 blue 3 black 12
+blue 1 blue 1 black 13
+blue 9 black 1 black 1 black 1 black 1
+blue 13 black 1
+blue 15 black 1
+blue 2 blue 9 blue 2 black 1
+blue 1 blue 7 blue 1 black 1
+blue 2 black 1 blue 1 black 5 blue 1 black 1 blue 2 black 1
+blue 3 blue 4 black 1 blue 4 blue 3 black 1
+blue 21 black 1
+blue 2 blue 2 black 1
+blue 5 blue 5 blue 1 black 1 blue 1
+blue 8 blue 8 blue 2 black 1 blue 1 black 1
+blue 22 blue 4 black 2
+blue 27
+blue 7 blue 10
+blue 5 blue 8
+blue 4 black 1 black 1 black 1 blue 6
+blue 4 black 3 black 3 black 3 blue 5
+blue 3 black 1 black 1 black 1 black 1 black 1 black 1 blue 4
+blue 3 blue 3
+blue 3 black 1 black 1 black 1 black 1 blue 3
+blue 3 black 3 black 3 black 3 black 3 blue 2
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 2
+blue 2 blue 2
+
+columns
+blue 10
+blue 16
+blue 18
+blue 5 blue 8
+blue 2 blue 2 blue 6 black 2
+blue 2 blue 1 blue 5 black 2
+blue 6 blue 2 black 1 blue 1 blue 4 black 2 black 2
+blue 9 blue 2 blue 3 black 2
+blue 2 blue 8 blue 3 black 2 black 2
+blue 5 black 1 blue 2 blue 2 black 2
+blue 5 black 1 blue 2 blue 2 black 2 black 2
+blue 5 black 2 blue 1 blue 2 black 2
+blue 5 black 1 blue 2 blue 2 black 2 black 2
+blue 5 black 1 blue 2 blue 2 black 2
+blue 2 blue 8 blue 3 black 2 black 2
+blue 9 blue 2 blue 3 black 2
+blue 6 blue 2 black 1 blue 1 blue 4 black 2 black 2
+black 1 blue 2 blue 1 blue 5 black 2
+black 2 blue 2 blue 2 blue 6 black 2
+black 3 blue 5 blue 8
+black 4 blue 18
+black 4 blue 16
+black 4 blue 8
+black 5 blue 7
+black 6 blue 6
+black 5 blue 6
+black 17 blue 2
+black 5 blue 2 black 1
+black 6 black 2
+black 5

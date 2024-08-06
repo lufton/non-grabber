@@ -1,0 +1,39 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Norma Dee"
+date "Apr 27, 2017"
+description "Let's have a picnic."
+difficulty 1.25
+height 8
+id 29753
+link "https://webpbn.com/play.cgi?id=29753"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Ants not allowed at this pick"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3
+black 2 black 1 red 1
+black 1 red 1 black 2
+blue 3 green 1 red 1
+blue 1 red 3
+blue 1 black 1 red 1
+blue 3 black 1 black 1 red 2
+green 8
+
+columns
+blue 1 black 2 blue 4 green 1
+blue 1 black 1 blue 1 blue 1 green 1
+blue 1 red 1 blue 1 blue 1 green 1
+black 2 green 1
+green 1
+green 1 red 1 black 1 green 1
+black 2 red 1 red 1 green 1
+red 1 black 1 red 4 green 1

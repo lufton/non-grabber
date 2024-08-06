@@ -1,0 +1,31 @@
+by "paukenpietje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/1/12"
+height 5
+id 122442
+link "https://www.griddlers.net/nonogram/-/g/122442"
+medium_time "0:00:25"
+points 11
+popularity 53.29
+title "Apple Tree"
+width 5
+
+color a 00ccff
+color c c98c00
+color d 99ff00
+color e ff3333
+
+rows
+d 2 e 1
+d 1 e 1 d 3
+d 2 e 1 d 2
+d 1 c 1 d 1
+c 1
+
+columns
+d 2
+d 1 e 1 d 2
+d 2 e 1 c 2
+e 1 d 3
+d 2

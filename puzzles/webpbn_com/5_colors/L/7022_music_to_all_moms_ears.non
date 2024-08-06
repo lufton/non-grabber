@@ -1,0 +1,83 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by harris harris"
+date "Oct 29, 2009"
+description "little boy singing his heart out"
+difficulty 2.0
+height 35
+id 7022
+link "https://webpbn.com/play.cgi?id=7022"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "music to all moms ears"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 black 1 green 22
+green 2 black 2 green 7 black 5 green 7 black 1 green 1
+green 2 black 1 green 7 black 2 black 2 green 6 black 2
+green 1 black 2 green 7 black 1 black 1 black 1 black 2 green 5 black 1 green 1
+green 1 black 2 green 6 black 2 black 3 green 2 black 2 green 1
+green 6 black 4 black 2 green 1 black 2 green 1
+green 5 black 2 black 2 green 3
+green 4 black 2 black 1 black 1 green 3
+green 4 black 1 black 1 black 2 black 1 green 3
+green 1 black 1 green 2 black 1 black 2 black 2 black 1 green 3
+green 1 black 2 green 1 black 1 black 2 black 6 black 1 green 3
+green 1 black 1 green 2 black 1 black 7 black 1 black 1 green 3
+black 2 green 2 black 1 black 1 black 1 black 1 green 3
+black 2 green 2 black 1 black 1 black 1 black 1 green 3
+green 4 black 1 black 8 black 1 green 3
+green 4 black 1 black 9 black 1 green 3
+green 4 black 1 black 9 black 1 green 3
+green 4 black 1 black 9 black 1 green 3
+green 4 black 2 black 3 red 2 black 1 red 2 black 1 black 1 green 3
+green 5 black 1 black 2 red 6 black 1 black 2 green 3
+green 5 black 2 black 1 red 6 black 1 black 1 green 4
+green 6 black 1 black 1 red 4 black 1 black 2 green 4
+green 6 black 2 black 1 red 2 black 1 black 2 green 5
+green 7 black 2 black 2 black 2 green 6
+green 8 black 2 black 2 green 7
+green 2 black 1 green 6 black 2 black 2 green 6 black 1 green 1
+green 1 black 3 blue 6 black 2 black 2 blue 6 black 3
+green 2 black 1 green 1 blue 7 black 4 blue 7 green 1 black 1 green 1
+green 8 blue 10 green 7
+green 8 blue 10 green 7
+green 8 blue 10 green 7
+green 8 blue 10 green 7
+green 8 blue 10 green 7
+green 8 blue 10 green 7
+green 8 blue 10 green 7
+
+columns
+green 12 black 2 green 21
+green 3 black 2 green 4 black 5 green 12 black 1 green 8
+black 5 green 5 black 1 green 14 black 3 green 7
+green 1 black 1 green 24 black 1 green 8
+green 7 black 12 green 7 blue 2 green 7
+green 6 black 2 black 3 green 5 blue 2 green 7
+green 5 black 2 black 3 green 3 blue 2 green 7
+green 5 black 1 black 1 black 2 green 2 blue 2 green 7
+green 5 black 1 black 2 black 2 green 1 blue 9
+green 4 black 2 black 5 black 6 black 2 blue 9
+green 2 black 3 black 2 black 1 black 6 red 1 black 1 black 2 blue 8
+green 1 black 2 black 1 black 5 red 3 black 1 black 2 blue 7
+green 1 black 1 black 1 black 1 black 4 red 5 black 1 black 1 blue 7
+green 1 black 1 black 1 black 4 red 5 black 1 black 1 blue 7
+green 1 black 1 black 1 black 1 black 5 red 3 black 1 black 2 blue 7
+green 1 black 2 black 1 black 4 red 3 black 1 black 2 blue 8
+green 2 black 2 black 2 black 1 black 4 red 2 black 1 black 2 blue 9
+green 3 black 2 black 12 black 2 green 1 blue 9
+green 4 black 1 black 2 black 2 green 2 blue 2 green 7
+green 4 black 2 black 1 black 2 green 3 blue 2 green 7
+green 5 black 2 black 3 green 4 blue 2 green 7
+green 6 black 14 green 6 blue 2 green 7
+green 4 black 2 green 20 black 1 green 8
+green 1 black 5 green 19 black 3 green 7
+green 2 black 1 green 23 black 1 green 8

@@ -1,0 +1,98 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/22"
+height 35
+id 258489
+link "https://www.griddlers.net/nonogram/-/g/258489"
+medium_time "0:20:47"
+points 110338
+popularity 79.35
+title "Neon Santa Hat"
+width 40
+
+color a 000000
+color b c62e29
+color c fe7877
+color d 7a7a7a
+color e c0c0c0
+color f ffffff
+
+rows
+0
+0
+b 7
+b 4 c 5 b 3
+b 3 c 4 f 3 c 3 b 3
+b 2 c 3 f 3 c 3 f 2 c 3 b 2
+b 2 c 2 f 2 c 4 b 1 c 3 f 2 c 2 b 2
+b 2 c 2 f 1 c 3 b 6 c 3 f 1 c 2 b 2
+b 3 c 2 f 1 c 2 b 3 b 3 c 2 f 1 c 2 b 1
+b 2 c 2 f 1 c 2 b 2 b 6 c 2 f 1 c 1 b 2
+b 1 c 2 f 1 c 2 b 2 b 1 c 3 b 3 c 1 f 1 c 2 b 1
+b 2 c 1 f 1 c 2 b 2 b 1 c 1 f 1 c 2 b 2 c 2 f 1 c 1 b 2
+b 2 c 2 f 1 c 1 b 2 b 1 c 2 f 1 c 2 b 2 c 1 f 1 c 2 b 1
+b 1 c 2 f 1 c 2 b 1 b 1 c 1 f 1 c 1 f 1 c 2 b 1 c 2 f 1 c 1 b 1
+b 1 c 1 f 1 c 2 b 2 b 1 c 1 f 1 c 2 f 1 c 2 b 1 c 1 f 1 c 1 b 1
+b 1 c 1 f 1 c 1 b 2 b 1 c 1 f 1 c 1 b 1 c 1 f 1 c 3 f 1 c 1 b 1
+d 5 f 1 c 2 b 1 b 1 c 1 f 1 c 1 b 1 c 2 f 1 c 2 f 1 c 1 d 2
+d 2 e 3 f 1 c 2 b 2 b 1 c 1 f 1 c 2 d 1 e 1 f 4 e 2 d 2
+d 1 e 2 f 2 c 3 b 2 b 1 c 2 f 1 c 1 e 2 f 1 e 3 f 1 e 2 d 1
+d 2 e 1 f 1 e 2 f 2 c 2 b 4 b 2 c 1 f 1 c 1 e 1 f 1 e 2 d 1 e 2 f 1 e 1 d 1
+d 1 e 2 f 1 e 4 f 1 c 4 b 6 b 1 c 1 f 1 c 1 e 1 f 1 e 2 d 1 e 2 f 1 e 1 d 1
+d 1 e 1 f 1 e 2 e 2 f 3 c 6 b 2 b 1 c 1 f 1 c 1 e 2 f 1 e 3 f 1 e 2 d 1
+d 1 e 1 f 1 e 1 e 4 f 5 c 2 b 4 c 1 f 1 c 1 d 1 e 2 f 3 e 2 d 2
+d 1 e 1 f 1 e 1 e 6 f 1 c 6 f 1 d 3 e 5 d 2
+d 1 e 1 f 1 e 2 e 2 f 7 e 1 d 8
+d 1 e 2 f 1 e 4 e 7 f 1 e 2 d 1
+d 2 e 2 f 3 e 3 e 2 f 1 e 1 d 1
+d 2 e 4 f 2 e 4 e 1 f 1 e 1 d 1
+d 4 e 3 f 3 e 7 e 2 f 1 e 1 d 1
+d 3 e 4 f 6 e 6 f 1 e 2 d 1
+d 4 e 7 f 6 e 2 d 2
+d 7 e 8 d 2
+d 10
+0
+0
+
+columns
+0
+0
+d 8
+d 3 e 6 d 2
+d 2 e 3 f 4 e 2 d 2
+d 1 e 2 f 2 e 4 f 1 e 2 d 1
+d 1 e 1 f 1 e 3 e 2 f 1 e 1 d 1
+d 1 e 1 f 1 e 2 e 1 f 1 e 1 d 2
+b 4 d 1 f 1 c 1 f 1 e 1 e 1 f 1 e 2 d 1
+b 2 c 3 f 1 c 2 f 1 e 2 e 2 f 1 e 1 d 2
+b 4 c 2 f 2 c 4 f 1 e 2 e 1 f 1 e 2 d 1
+b 2 c 3 f 1 c 3 b 2 c 2 f 1 e 1 e 2 f 1 e 1 d 1
+b 2 c 2 f 2 c 2 b 5 c 1 f 1 e 1 e 1 f 1 e 1 d 2
+b 2 c 2 f 1 c 3 b 2 b 1 c 1 f 1 e 2 e 1 f 1 e 2 d 1
+b 2 c 2 f 1 c 2 b 3 b 1 c 2 f 1 e 1 e 2 f 1 e 1 d 1
+b 2 c 2 f 1 c 2 b 2 b 2 c 1 f 1 e 1 e 1 f 1 e 1 d 1
+b 1 c 2 f 1 c 2 b 2 b 1 c 1 f 1 e 1 e 1 f 1 e 1 d 1
+b 2 c 1 f 1 c 2 b 2 b 1 c 1 f 1 e 1 e 1 f 1 e 1 d 1
+b 1 c 2 f 1 c 1 b 2 b 1 c 1 f 1 e 2 e 1 f 1 e 1 d 2
+b 1 c 1 f 1 c 2 b 1 b 1 c 2 f 1 e 2 e 1 f 1 e 2 d 1
+b 2 c 1 f 1 c 1 b 2 b 2 c 2 f 1 e 1 e 2 f 1 e 1 d 1
+b 1 c 2 f 1 c 1 b 1 b 2 c 1 f 1 e 1 e 1 f 1 e 1 d 1
+b 1 c 1 f 1 c 2 b 1 b 1 c 1 f 1 e 1 e 1 f 1 e 1 d 1
+b 1 c 1 f 1 c 1 b 2 b 11 b 1 c 1 f 1 e 1 e 1 f 1 e 1 d 1
+b 1 c 1 f 1 c 2 b 1 b 1 c 9 b 4 c 1 f 1 e 1 e 1 f 1 e 1 d 1
+b 1 c 2 f 1 c 1 b 3 c 1 f 1 c 1 f 5 c 6 f 1 e 2 e 2 f 1 e 1 d 1
+b 2 c 1 f 1 c 2 b 2 c 2 f 1 c 5 f 8 e 3 f 1 e 2 d 1
+b 1 c 2 f 1 c 1 b 3 c 2 f 1 c 1 b 2 c 6 d 1 e 2 f 3 e 2 d 2
+b 2 c 1 f 1 c 2 b 3 c 2 f 1 c 2 d 1 e 4 d 3 e 5 d 2
+b 1 c 2 f 1 c 2 b 3 c 2 f 1 c 1 e 2 f 2 e 2 d 8
+b 2 c 2 f 1 c 3 b 2 c 2 f 3 e 2 f 1 e 2 d 1
+b 2 c 2 f 2 c 3 b 1 c 2 f 1 e 4 f 1 e 1 d 1
+b 2 c 3 f 2 c 4 f 1 e 1 d 2 e 1 f 1 e 1 d 1
+b 3 c 3 f 5 e 4 f 1 e 1 d 1
+b 3 c 5 e 1 f 1 e 2 f 1 e 2 d 1
+b 5 d 1 e 2 f 2 e 2 d 2
+d 2 e 4 d 2
+d 6
+0
+0

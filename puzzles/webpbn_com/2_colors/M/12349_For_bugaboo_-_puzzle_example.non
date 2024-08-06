@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Gator"
+date "Feb 21, 2011"
+description "Inspired from puzzle #12341. Example of what appears to be seemingly smile logic on the 18s. Oh, and the image is some flower-like thing...maybe, if you have a really good imagination. :)"
+difficulty 3.0
+height 20
+id 12349
+link "https://webpbn.com/play.cgi?id=12349"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "For bugaboo - puzzle example"
+width 20
+
+rows
+4,1,1,1,3
+1,1,2,3,2,1
+1,3,2,2,2,1
+1,2,2,1,1,1
+1,1,2,2,1,1
+1,2,2,3,1,1
+1,4,4,1,2,1
+1,1,4,2,1,1
+1,1,2,1,1,1
+1,2,2,1,1,1
+1,2,2,3,1
+1,2,1,2,1
+1,2,2,1,1
+1,3,1,1,1
+1,3,1,2,1
+1,2,1,1
+1,3,1
+1,2,1
+1,2,1
+18
+
+columns
+18
+1,1
+1,7,1
+1,2,2,2,1
+1,1,1,2,1
+1,1,2,2,1
+1,2,1,2,1
+1,4,1,1,1
+2,4,2,1
+1,1,2,1,1
+1,3,1,2,1,1
+2,3,3,1,1
+1,1,5,1
+1,3,4
+1,5,6
+1,5,1
+2,5,1
+1,5,1
+1,1
+18

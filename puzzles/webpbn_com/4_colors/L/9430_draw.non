@@ -1,0 +1,82 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jul  1, 2010"
+description "hate when that happens :("
+difficulty 1.75
+height 30
+id 9430
+link "https://webpbn.com/play.cgi?id=9430"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "draw"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2 red 2 black 3 blue 4 black 3 red 2 red 2
+red 3 red 3 black 3 blue 6 black 3 red 3 red 3
+red 6 black 3 blue 3 blue 3 black 3 red 6
+red 4 black 3 blue 2 blue 2 blue 2 black 3 red 4
+red 4 black 3 blue 2 blue 2 blue 2 black 3 red 4
+red 6 black 3 blue 3 blue 3 black 3 red 6
+red 3 red 3 black 3 blue 6 black 3 red 3 red 3
+red 2 red 2 black 3 blue 4 black 3 red 2 red 2
+black 30
+black 30
+black 30
+blue 4 black 3 red 2 red 2 black 3
+blue 6 black 3 red 3 red 3 black 3
+blue 3 blue 3 black 3 red 6 black 3
+blue 2 blue 2 blue 2 black 3 red 4 black 3
+blue 2 blue 2 blue 2 black 3 red 4 black 3
+blue 3 blue 3 black 3 red 6 black 3
+blue 6 black 3 red 3 red 3 black 3
+blue 4 black 3 red 2 red 2 black 3
+black 30
+black 30
+black 30
+blue 4 black 3 red 2 red 2 black 3 blue 4
+blue 6 black 3 red 3 red 3 black 3 blue 6
+blue 3 blue 3 black 3 red 6 black 3 blue 3 blue 3
+blue 2 blue 2 blue 2 black 3 red 4 black 3 blue 2 blue 2 blue 2
+blue 2 blue 2 blue 2 black 3 red 4 black 3 blue 2 blue 2 blue 2
+blue 3 blue 3 black 3 red 6 black 3 blue 3 blue 3
+blue 6 black 3 red 3 red 3 black 3 blue 6
+blue 4 black 3 red 2 red 2 black 3 blue 4
+
+columns
+red 2 red 2 black 3 blue 4 black 3 blue 4
+red 3 red 3 black 3 blue 6 black 3 blue 6
+red 6 black 3 blue 3 blue 3 black 3 blue 3 blue 3
+red 4 black 3 blue 2 blue 2 blue 2 black 3 blue 2 blue 2 blue 2
+red 4 black 3 blue 2 blue 2 blue 2 black 3 blue 2 blue 2 blue 2
+red 6 black 3 blue 3 blue 3 black 3 blue 3 blue 3
+red 3 red 3 black 3 blue 6 black 3 blue 6
+red 2 red 2 black 3 blue 4 black 3 blue 4
+black 30
+black 30
+black 30
+blue 4 black 3 red 2 red 2 black 3 red 2 red 2
+blue 6 black 3 red 3 red 3 black 3 red 3 red 3
+blue 3 blue 3 black 3 red 6 black 3 red 6
+blue 2 blue 2 blue 2 black 3 red 4 black 3 red 4
+blue 2 blue 2 blue 2 black 3 red 4 black 3 red 4
+blue 3 blue 3 black 3 red 6 black 3 red 6
+blue 6 black 3 red 3 red 3 black 3 red 3 red 3
+blue 4 black 3 red 2 red 2 black 3 red 2 red 2
+black 30
+black 30
+black 30
+red 2 red 2 black 3 black 3 blue 4
+red 3 red 3 black 3 black 3 blue 6
+red 6 black 3 black 3 blue 3 blue 3
+red 4 black 3 black 3 blue 2 blue 2 blue 2
+red 4 black 3 black 3 blue 2 blue 2 blue 2
+red 6 black 3 black 3 blue 3 blue 3
+red 3 red 3 black 3 black 3 blue 6
+red 2 red 2 black 3 black 3 blue 4

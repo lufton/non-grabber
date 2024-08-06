@@ -1,0 +1,60 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/9/17"
+height 19
+id 187102
+link "https://www.griddlers.net/nonogram/-/g/187102"
+medium_time "0:06:30"
+points 4113
+popularity 88.63
+title "Horse"
+width 16
+
+color a 00cccc
+color b ecb718
+color c e4941d
+color d a3760c
+color e 774c20
+color f ffffff
+color g 000000
+color h e0d1b3
+
+rows
+c 1 c 1
+c 2 c 2
+c 2 c 2
+b 1 c 2 b 2 c 1
+b 1 c 4 f 1 b 1
+b 1 c 2 d 1 c 2 f 2 b 1
+b 1 c 1 d 1 e 1 c 2 b 1 f 2 b 1
+b 1 c 1 e 1 c 2 g 1 c 1 b 1 f 1 c 1
+c 1 d 1 e 1 c 4 b 1 f 2
+c 1 d 1 e 2 c 4 b 1 f 2
+c 1 d 1 e 2 c 5 f 2
+c 1 d 1 e 1 d 1 e 1 c 2 d 1 c 1 f 3
+c 1 d 1 e 1 d 2 e 1 d 1 c 3 f 2
+b 1 c 1 d 1 e 1 d 3 e 1 d 1 c 2 f 3
+b 1 c 1 d 1 e 1 d 1 c 1 d 2 e 1 d 1 c 1 h 1 f 2
+b 1 c 1 d 1 e 1 d 1 c 2 d 2 h 1 g 1 f 2
+b 1 c 2 d 1 e 1 d 1 c 4 h 4
+b 1 c 2 d 2 e 1 d 1 c 4 h 2
+b 2 c 1 d 3 e 2 c 1 d 1 c 2
+
+columns
+b 1
+b 3
+b 3 c 3
+c 9 d 1
+b 2 c 1 d 10
+b 1 c 2 d 1 e 8 d 2
+b 1 c 1 d 1 e 4 d 6 e 2
+b 1 c 2 e 1 c 4 e 1 d 2 c 3 d 1 e 1
+c 4 d 1 c 6 e 1 d 2 c 4
+c 7 g 1 c 4 d 1 e 1 d 2 c 2 d 1
+b 1 c 2 b 1 c 4 d 1 c 1 d 1 e 1 d 1 c 3
+c 2 b 1 f 3 b 3 c 4 d 1 c 2
+c 4 b 1 f 7 c 3 h 2
+b 2 c 1 f 6 h 1 g 1 h 2
+f 5 h 2
+f 3 h 1

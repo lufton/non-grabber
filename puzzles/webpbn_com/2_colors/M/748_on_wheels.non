@@ -1,0 +1,57 @@
+by "artur jezewski (kleszcz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by artur jezewski"
+date "Jan 23, 2007"
+description "invalid sign"
+difficulty 3.0
+height 20
+id 748
+link "https://webpbn.com/play.cgi?id=748"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "on wheels"
+width 20
+
+rows
+3
+5
+5
+3
+2
+2
+2
+6
+2,6
+3,2
+3,8
+2,9
+2,2
+2,2
+2,2
+3,1,2,1
+2,2,4
+3,3,2
+4,4
+7
+
+columns
+4
+8
+3,4
+3,2
+2,2
+2,2
+12,1
+12,1
+4,2,2,1
+2,2,2,2
+2,2,2
+2,2,2
+2,3
+3,3
+4
+4
+3
+2
+1
+1

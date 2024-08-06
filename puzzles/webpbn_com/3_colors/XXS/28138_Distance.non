@@ -1,0 +1,29 @@
+by "b. b. (ripkoops)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by b. b."
+date "Jun 11, 2016"
+description "Earth as seen from a great distance."
+difficulty 2.0
+height 4
+id 28138
+link "https://webpbn.com/play.cgi?id=28138"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Distance"
+width 4
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 1
+blue 1 black 1 blue 1
+black 1 blue 1 black 1
+blue 1 black 1
+
+columns
+blue 1 black 1
+blue 1 black 1 blue 1
+black 1 blue 1 black 1
+blue 1 black 1

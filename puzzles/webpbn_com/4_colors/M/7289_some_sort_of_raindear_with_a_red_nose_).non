@@ -1,0 +1,62 @@
+by "Hanna Graver (roodies2cool)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Hanna Graver"
+date "Dec  1, 2009"
+description ""
+difficulty 1.25
+height 20
+id 7289
+link "https://webpbn.com/play.cgi?id=7289"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "some sort of raindear with a red nose :)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 5 blue 1 black 6 blue 1 black 7
+black 4 blue 3 black 4 blue 3 black 6
+black 5 blue 1 black 6 blue 1 black 7
+black 20
+black 20
+black 8 red 3 black 9
+black 8 red 3 black 9
+black 8 red 3 black 9
+black 20
+black 4 black 3
+black 4 black 3
+black 5 black 4
+black 6 black 5
+black 7 black 6
+black 20
+black 20
+black 20
+black 20
+black 20
+
+columns
+black 20
+black 20
+black 20
+black 20
+black 2 blue 1 black 7 black 8
+black 1 blue 3 black 6 black 7
+black 2 blue 1 black 7 black 6
+black 10 black 5
+black 6 red 3 black 1 black 5
+black 6 red 3 black 1 black 5
+black 6 red 3 black 1 black 5
+black 2 blue 1 black 7 black 5
+black 1 blue 3 black 6 black 5
+black 2 blue 1 black 7 black 5
+black 10 black 6
+black 10 black 7
+black 10 black 8
+black 20
+black 20
+black 20

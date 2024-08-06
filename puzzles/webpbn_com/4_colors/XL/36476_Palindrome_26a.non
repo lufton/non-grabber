@@ -1,0 +1,92 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Mar 26, 2023"
+description "7 letters, 2 words."
+difficulty 2.75
+height 25
+id 36476
+link "https://webpbn.com/play.cgi?id=36476"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Palindrome 26a"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 2
+green 2
+green 12
+green 1 green 1
+green 1 green 1 green 1
+green 2 green 1 green 1
+green 13
+green 1
+green 1
+green 1 black 8 black 8
+green 1 black 2 black 2 black 2 black 2 black 2 black 2 blue 2
+green 1 black 2 black 1 black 1 black 2 black 1 black 1 blue 2
+green 1 black 2 black 1 black 2 black 2 black 1 black 2 black 1 black 2 black 2 black 1 blue 2
+green 1 black 2 black 1 black 1 black 2 black 1 black 1 blue 2
+green 1 black 2 black 1 black 1 black 2 black 1 black 1 blue 2
+green 1 black 2 black 1 black 4 black 1 black 2 black 1 black 4 black 1 blue 2
+green 1 black 2 black 1 black 4 black 1 black 2 black 1 black 1 blue 2 black 1 black 1 blue 2
+green 1 black 2 black 1 black 4 black 1 black 2 black 1 blue 3 black 1 black 1 blue 2
+green 1 black 2 black 1 black 4 black 1 black 2 black 1 blue 2 black 3 black 1 blue 2
+green 1 black 2 black 2 black 2 black 2 black 1 blue 2 black 2 blue 2
+green 1 black 2 black 2 black 2 black 2 blue 3 black 1 black 2 blue 2
+green 1 black 2 black 6 black 2 blue 4 blue 6 blue 2
+green 1 black 10 blue 13
+green 1 black 8 blue 10
+
+columns
+green 2 green 2
+green 2 green 2
+green 2 green 1
+green 22
+green 1 green 1
+green 1 green 1 black 3
+green 1 green 1 black 7
+green 1 green 1 black 7
+green 1 green 1 black 4
+green 1 green 1 black 2
+green 1 green 1 black 10 black 2
+green 1 green 1 black 2 black 2 black 2
+green 1 green 1 black 1 black 1 black 4
+green 5 black 1 black 1 black 4 black 3
+black 1 black 4 black 3
+black 1 black 4 black 3
+black 1 black 1 black 4 black 3
+black 1 black 1 black 4
+black 2 black 2 black 2
+black 10 black 2
+black 2
+black 4
+black 7
+black 7
+black 3
+0
+0
+blue 2
+blue 2
+blue 4
+black 10 blue 4
+black 2 blue 2 blue 2
+black 1 black 1 blue 2 black 1 blue 3
+black 1 black 1 black 2 blue 2 blue 3
+black 1 black 1 blue 2 black 1 blue 3
+black 1 black 1 blue 2 black 1 blue 3
+black 1 black 1 black 4 blue 3
+black 1 black 1 black 1 blue 3
+black 2 black 2 blue 2
+black 10 blue 2
+blue 2
+blue 4
+blue 7
+blue 7
+blue 3

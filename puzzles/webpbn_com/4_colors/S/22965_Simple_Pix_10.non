@@ -1,0 +1,52 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Scarlet Noelle Masen"
+date "Oct 17, 2013"
+description "Bee (Sorry, I don't have yellow. Use your imagination...)"
+difficulty 1.75
+height 15
+id 22965
+link "https://webpbn.com/play.cgi?id=22965"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Simple Pix 10"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4 black 2
+blue 1 blue 2 black 1 black 2
+blue 2 blue 1 black 4
+blue 2 red 1 black 2 black 1
+blue 1 black 1 red 2 black 4
+black 1 red 1 black 2 red 2 black 1 red 2
+black 2 red 1 black 3 red 4
+red 1 black 3 red 1 black 2 blue 7
+red 2 black 3 blue 3
+black 1 red 3
+black 3 red 3 red 1
+black 1 red 1 red 4 red 1
+red 6 red 3
+blue 11
+blue 9
+
+columns
+blue 3 red 2 black 2
+blue 1 blue 2 black 3 red 2 black 2
+blue 1 blue 2 red 1 black 3 red 1 black 1
+blue 2 black 2 red 1 black 2 red 1
+blue 2 red 2 black 2 red 1 black 1 blue 1
+black 2 red 2 black 1 red 1 blue 1
+black 4 red 1 black 2 red 2 blue 2
+black 1 black 1 black 1 black 1 red 1 red 1 blue 2
+black 1 black 4 blue 1 red 1 red 1 blue 2
+black 1 black 1 blue 1 red 3 blue 2
+black 1 blue 1 red 2 blue 2
+red 1 blue 2 red 1 blue 2
+red 2 blue 2 red 2 blue 2
+red 2 blue 2 red 1 red 1 blue 2
+red 1 blue 1 red 2 blue 2

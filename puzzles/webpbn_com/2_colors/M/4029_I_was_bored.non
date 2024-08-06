@@ -1,0 +1,57 @@
+by "Matt Tomsmore (Matt Spider)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Matt Tomsmore"
+date "Nov 15, 2008"
+description "Isn't it perdy?"
+difficulty 1.75
+height 20
+id 4029
+link "https://webpbn.com/play.cgi?id=4029"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "I was bored"
+width 20
+
+rows
+2,1,1,2,1,1,2
+3,2,1,2,1,2,3
+3,3,2,3,3
+3,2,2,2,3
+2,3,6,3,2
+2,3,2,3,2
+3,3,2,3,3
+1,2,8,2,1
+1,1,6,1,1
+20
+20
+1,6,1
+5,8,5
+2,3,2,3,2
+2,3,2,3,2
+2,3,6,3,2
+3,2,2,2,3
+3,3,2,3,3
+3,2,1,2,1,2,3
+2,1,1,2,1,1,2
+
+columns
+2,1,2,1,1,2
+3,7,1,2,3
+3,2,2,3,3
+3,2,2,2,3
+2,3,6,3,2
+2,3,2,3,2
+2,3,2,3,2
+5,8,5
+1,6,1
+20
+20
+1,6,1
+5,8,5
+2,3,2,3,2
+2,3,2,3,2
+2,3,6,3,2
+3,2,2,2,3
+3,2,2,3,3
+3,7,1,2,3
+2,1,2,1,1,2

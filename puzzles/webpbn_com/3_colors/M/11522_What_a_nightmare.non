@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Dec 21, 2010"
+description ""
+difficulty 1.75
+height 20
+id 11522
+link "https://webpbn.com/play.cgi?id=11522"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What a nightmare"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 10
+black 12
+black 14
+black 2 black 2 black 1 black 2 black 3
+black 16
+black 2 black 2 black 2 black 2 black 2 black 3
+black 19
+black 20
+blue 8
+blue 9
+blue 11
+blue 4 black 3 blue 4
+blue 3 black 5 blue 3
+blue 4 black 5 blue 4
+blue 2 black 1 blue 2 black 3 blue 2 black 1 blue 2
+blue 2 black 1 blue 3 black 1 blue 3 black 1 blue 2
+blue 3 black 1 blue 2 black 3 blue 2 black 1 blue 2
+blue 3 black 9 blue 3
+blue 4 black 7 blue 5
+blue 5 black 7 blue 5
+
+columns
+black 2
+black 3 blue 1
+black 4 blue 4
+black 3 black 2 blue 7
+black 7 blue 10
+black 3 black 4 blue 6 black 4 blue 2
+black 5 black 2 blue 9 black 3
+black 8 blue 4 black 2 blue 3 black 3
+black 3 black 4 blue 3 black 4 blue 1 black 4
+black 5 black 2 blue 3 black 9
+black 3 black 4 blue 3 black 4 blue 1 black 4
+black 8 blue 4 black 2 blue 3 black 3
+black 5 black 2 blue 9 black 3
+black 3 black 4 blue 5 black 4 blue 2
+black 8 blue 10
+black 4 black 2 blue 7
+black 6 blue 3
+black 4 blue 2
+black 3
+black 1

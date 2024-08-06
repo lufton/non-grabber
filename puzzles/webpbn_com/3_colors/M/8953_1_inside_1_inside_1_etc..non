@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "May 25, 2010"
+description "what my camera showed when i aimed at my tv screen (with blue vase on top) ;)"
+difficulty 1.5
+height 20
+id 8953
+link "https://webpbn.com/play.cgi?id=8953"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "1 inside 1 inside 1, etc."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 10
+blue 8
+black 19
+black 1 blue 6 black 1
+black 1 black 15 black 1
+black 1 black 1 blue 4 black 1 black 1
+black 1 black 1 black 11 black 1 black 1
+black 1 black 1 black 1 blue 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 7 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 7 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 11 black 1 black 1
+black 1 black 1 black 3 black 1 black 1
+black 1 black 15 black 1
+black 1 black 5 black 1
+black 19
+black 5
+black 7
+
+columns
+0
+black 16
+black 1 black 1
+black 1 black 12 black 1
+black 1 black 1 black 1 black 1
+blue 1 black 1 black 1 black 8 black 1 black 1
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1
+blue 2 black 1 blue 1 black 1 black 1 black 4 black 1 black 1 black 1 black 1
+blue 2 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1 black 1 black 5
+blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 7
+blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 7
+blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 7
+blue 2 black 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 5
+blue 2 black 1 black 1 black 1 black 4 black 1 black 1 black 1 black 1
+blue 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 8 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 12 black 1
+black 1 black 1
+black 16

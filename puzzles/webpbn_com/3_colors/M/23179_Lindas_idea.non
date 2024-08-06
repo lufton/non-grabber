@@ -1,0 +1,61 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kim"
+date "Nov 22, 2013"
+description "The pick-up truck. I think I will leave all future vehicle efforts to Aldege!"
+difficulty 1.5
+height 20
+id 23179
+link "https://webpbn.com/play.cgi?id=23179"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Linda's idea"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+0
+black 5
+black 1 black 1
+black 1 black 1
+black 2 black 1
+black 1 black 1 red 14
+black 1 black 1 red 1 red 1
+black 2 black 1 red 1 red 1
+black 5 red 1 red 5 red 1
+black 3 red 8 black 3 red 3
+black 2 black 2 black 2 black 2
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 3 black 3
+0
+0
+
+columns
+black 4
+black 4 black 2 black 3
+black 1 black 3 black 2
+black 1 black 2 black 1
+black 1 black 3 black 2
+black 8 black 3
+red 5
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 2 black 3
+red 1 red 1 black 2 black 2
+red 1 red 1 black 1 black 1
+red 1 red 1 black 2 black 2
+red 1 red 2 black 3
+red 1 red 1
+red 5

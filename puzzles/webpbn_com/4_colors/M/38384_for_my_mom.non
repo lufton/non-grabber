@@ -1,0 +1,67 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar 22, 2024"
+description "she's always had a thing for light houses"
+difficulty 1.25
+height 30
+id 38384
+link "https://webpbn.com/play.cgi?id=38384"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "for my mom"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+red 2
+red 3
+red 3
+black 2 black 2 red 3
+black 1
+red 3
+0
+red 3
+0
+red 3
+0
+red 3
+0
+red 3
+0
+red 3
+0
+red 3
+0
+red 3
+black 3
+black 4
+blue 4 black 5
+blue 4 black 5
+blue 2 blue 4 black 6
+blue 4 blue 3 black 6
+blue 8 black 7
+blue 9 black 6
+blue 11 black 4
+
+columns
+blue 4
+black 1 blue 5
+black 1 blue 5
+black 1 blue 1 blue 4
+black 1 blue 2 blue 3
+black 1 blue 3 blue 3
+blue 7
+blue 6
+blue 2 black 1 blue 2
+black 4 blue 1
+black 6 blue 1
+black 8
+red 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 9
+red 4 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 9
+red 4 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 9

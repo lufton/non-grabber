@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 27855
+link "https://webpbn.com/play.cgi?id=27855"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "What Physics Concept #14"
+width 20
+
+rows
+9
+3,3
+2,2
+2,2
+1,1
+2,2
+1,4,1
+1,2,2,1
+1,1,1,1
+1,1,1,1,1
+1,1,1,1
+1,2,2,1
+1,4,1
+2,2
+1,1
+2,2
+2,2
+3,3
+9
+0
+
+columns
+9
+3,3
+2,2
+2,2
+1,1
+2,2
+1,1
+1,1
+1,1
+1,1
+1,1
+1,5,1
+1,2,2,1
+2,1,1,2
+1,1,1,1,1
+2,2,2,2
+2,5,2
+3,3
+9
+0

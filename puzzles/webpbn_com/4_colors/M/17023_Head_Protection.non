@@ -1,0 +1,62 @@
+by "Susan Eberhardt (susaneber)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Susan Eberhardt"
+date "Jan  6, 2012"
+description "Lice shampoo and comb"
+difficulty 1.25
+height 20
+id 17023
+link "https://webpbn.com/play.cgi?id=17023"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Head Protection"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 black 3 blue 9
+blue 1 black 3 blue 1
+blue 1 black 3 red 4 blue 1
+blue 1 black 3 red 1 red 1 blue 1
+blue 1 black 7 red 1 red 1 blue 1
+blue 1 black 1 black 1 red 1 red 1 blue 1
+blue 1 black 1 black 1 red 1 red 1 blue 1
+blue 1 black 1 blue 5 black 1 red 1 red 1 blue 1
+blue 1 black 1 red 5 black 1 red 1 red 1 blue 1
+blue 1 black 3 black 1 black 1 red 1 red 1 blue 1
+blue 1 black 2 black 3 red 2 blue 1
+blue 1 black 1 black 1 black 1 black 1 red 2 blue 1
+blue 1 black 3 black 1 black 1 red 2 blue 1
+blue 1 black 1 red 5 black 1 red 2 blue 1
+blue 1 black 1 blue 5 black 1 red 2 blue 1
+blue 1 black 1 black 1 red 2 blue 1
+blue 1 black 1 black 1 red 2 blue 1
+blue 1 black 1 black 1 red 2 blue 1
+blue 1 black 1 black 1 blue 1
+blue 4 black 7 blue 9
+
+columns
+blue 20
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 black 16
+black 1 blue 1 red 1 black 2 black 1 red 1 blue 1 black 1
+black 5 blue 1 red 1 black 1 black 2 red 1 blue 1 black 1
+black 5 blue 1 red 1 red 1 blue 1 black 1
+black 5 blue 1 red 1 black 4 red 1 blue 1 black 1
+black 1 blue 1 red 1 black 1 red 1 blue 1 black 1
+black 16
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 red 8 blue 1
+blue 1 red 1 red 8 blue 1
+blue 1 red 1 red 8 blue 1
+blue 1 red 8 blue 1
+blue 1 blue 1
+blue 20

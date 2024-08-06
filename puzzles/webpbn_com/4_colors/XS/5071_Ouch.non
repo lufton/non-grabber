@@ -1,0 +1,42 @@
+by "Rosea (dead-roses)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rosea"
+date "Feb 16, 2009"
+description "Blue Bob has to stay in bed for a week! He stayed out in the sun too long. :("
+difficulty 1.25
+height 10
+id 5071
+link "https://webpbn.com/play.cgi?id=5071"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Ouch!"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 9
+black 2 black 3 black 2
+black 1 black 1 red 1 black 1 black 3
+black 1 red 3 black 1 blue 1 black 1
+black 1 red 1 black 3
+black 1 red 1 red 1 black 1
+black 1 black 1
+black 9
+black 1 black 1
+0
+
+columns
+black 2 black 2
+black 8
+black 1 black 1
+black 3 red 1 red 1 black 1
+black 2 red 3 black 1
+black 3 red 1 red 1 black 1
+black 1 black 1
+black 8
+black 3 blue 1 black 1 black 2
+black 3

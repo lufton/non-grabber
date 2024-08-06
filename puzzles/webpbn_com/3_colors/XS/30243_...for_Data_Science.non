@@ -1,0 +1,41 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Sep 29, 2017"
+description "R for Data Science is a book by Garrett Grolemund and Hadley Wickham."
+difficulty 1.25
+height 10
+id 30243
+link "https://webpbn.com/play.cgi?id=30243"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "...for Data Science"
+width 10
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 blue 1
+black 6 blue 1
+black 2 blue 1 black 2 blue 1
+black 2 blue 1 black 2 blue 1
+black 6 blue 1
+black 5 blue 1
+black 2 blue 1 black 2 blue 1
+black 2 blue 1 black 2 blue 1
+black 2 blue 1 black 2 blue 1
+black 2 blue 1 black 2 blue 1
+
+columns
+0
+0
+black 10
+black 10
+black 2 blue 2 black 2 blue 4
+black 2 black 2
+black 10
+blue 1 black 4 blue 1 black 4
+blue 4 blue 4
+0

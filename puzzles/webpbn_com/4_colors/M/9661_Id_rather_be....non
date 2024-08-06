@@ -1,0 +1,72 @@
+by "Wesley Snyder (wsnyder98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Wesley Snyder"
+date "Jul 17, 2010"
+description "sailing on my pirate ship... Yarr!"
+difficulty 1.75
+height 20
+id 9661
+link "https://webpbn.com/play.cgi?id=9661"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "I'd rather be..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 2
+black 6
+black 6
+black 6
+black 1 black 2 black 1
+black 5 black 8 black 5
+black 5 black 8 black 5
+black 5 black 8 black 1
+black 1 black 2 black 7
+black 23
+black 23
+black 23
+black 1 black 10 black 1
+black 2 black 1 black 2 black 1
+black 27
+black 1 red 22 black 1
+blue 5 black 3 red 17 black 2 blue 3
+blue 7 black 3 red 12 black 3 blue 5
+blue 9 black 14 blue 7
+
+columns
+blue 3
+black 1 blue 3
+black 2 blue 3
+black 1 blue 3
+black 3 black 2 blue 3
+black 3 black 3 black 1 red 1 black 1 blue 2
+black 3 black 3 black 1 red 1 black 1 blue 2
+black 11 red 1 black 2 blue 1
+black 3 black 3 black 1 red 2 black 1 blue 1
+black 3 black 3 black 1 red 2 black 2
+black 4 black 1 red 3 black 1
+black 3 black 4 black 1 red 3 black 1
+black 3 black 3 black 4 black 1 red 3 black 1
+black 3 black 3 black 4 black 1 red 3 black 1
+black 16 red 3 black 1
+black 16 red 3 black 1
+black 3 black 3 black 4 black 1 red 3 black 1
+black 3 black 3 black 4 black 1 red 3 black 1
+black 3 black 4 black 1 red 3 black 1
+black 4 black 1 red 3 black 1
+black 4 black 1 red 3 black 1
+black 2 black 4 black 1 red 3 black 1
+black 2 black 4 black 1 red 2 black 2
+black 11 red 2 black 1 blue 1
+black 2 black 4 black 1 red 2 black 1 blue 1
+black 2 black 4 black 1 red 1 black 1 blue 2
+black 4 black 1 red 1 black 1 blue 2
+black 2 blue 3
+black 1 blue 3
+blue 3

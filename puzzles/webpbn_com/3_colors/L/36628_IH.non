@@ -1,0 +1,81 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr  1, 2023"
+description "International"
+difficulty 2.25
+height 20
+id 36628
+link "https://webpbn.com/play.cgi?id=36628"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "IH"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1
+black 1
+black 1 black 1
+black 1 red 1 black 1 black 1
+black 1 red 2 black 4 black 2 red 2 black 2
+red 17 red 7 black 2 red 2 black 2
+red 16 black 6 red 1 black 2 red 2 black 2
+red 2 red 2 black 8 black 2 red 2 black 2
+red 15 black 3 red 4 black 3 black 3 red 2 black 3
+red 5 black 4 red 6 black 2 red 1 red 2 red 1 black 2 red 1 black 3 red 2 black 3
+red 16 black 2 red 2 black 2 red 2 black 2 red 1 black 2 red 2 black 2
+red 2 black 3 red 2 red 6 black 2 red 2 black 2 red 2 black 2 red 2 black 2 red 2 black 2
+black 1 red 3 black 1 red 3 black 2 red 1 red 2 red 1 black 2 red 1 black 2 red 2 black 2
+black 1 red 1 black 1 red 1 black 1 black 3 red 4 black 3 black 2 red 2 black 2
+black 1 red 3 black 1 black 8
+black 3 black 6
+black 4
+black 12 black 12
+0
+
+columns
+0
+red 3 red 2
+red 7 black 3 black 1
+red 2 red 3 black 1 red 3 black 1 black 1
+red 2 red 3 black 1 red 1 black 1 red 1 black 1 black 1
+red 2 red 3 black 1 red 3 black 1 black 1
+red 2 red 4 black 3 black 1
+black 5 red 2 red 1 black 1 red 2 black 1
+red 2 red 1 black 1 red 1 black 1
+red 2 red 1 black 1 red 1 black 1
+red 2 red 1 black 1 red 1 black 1
+red 2 red 4 black 1
+red 2 red 4 black 1
+red 2 red 4 black 2
+red 2 red 5 black 1
+red 8 black 1
+red 9 black 2
+black 1 red 3 black 6 black 1
+black 1 black 8 black 1
+red 1 black 3 red 4 black 3 black 1
+red 1 black 2 red 1 red 2 red 1 black 2 black 1
+black 1 red 1 black 2 red 2 black 2 red 2 black 2 black 1
+black 1 red 1 black 2 red 2 black 2 red 2 black 2 black 1
+black 1 red 1 black 2 red 1 red 2 red 1 black 2 black 1
+black 2 red 1 black 3 red 4 black 3 black 1
+red 1 black 8 black 1
+red 1 black 6 black 1
+red 3 black 1
+red 2
+0
+0
+black 10
+black 10
+black 2
+red 10
+red 10
+black 2
+black 10
+black 10
+0

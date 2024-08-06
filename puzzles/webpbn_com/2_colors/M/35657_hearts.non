@@ -1,0 +1,57 @@
+by "Deborah Wright (allwright01)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Deborah Wright"
+date "Apr 25, 2022"
+description "Only my second attempt! Sorry so simple! I hope to get better with each attempt!"
+difficulty 2.25
+height 20
+id 35657
+link "https://webpbn.com/play.cgi?id=35657"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.75
+title "hearts"
+width 20
+
+rows
+2,2,2,2
+1,1,1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1
+0
+1,4,1,1,4
+1,1,1,1,1,1
+1,1,1,1,1,2
+1,1,1,1,1
+4,4,1,4
+0
+0
+2,2,2,2
+1,1,1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1
+
+columns
+4,5,4
+1,1,1,1,1
+1,1,1,1,1
+1,1,1,1,1
+4,4
+5
+1,1
+1,1
+5
+0
+1
+2
+2
+2
+1
+4,4
+1,1,5,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1
+4,1,1,4

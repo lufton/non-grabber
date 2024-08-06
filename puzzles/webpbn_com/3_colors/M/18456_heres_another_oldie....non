@@ -1,0 +1,63 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by valerie o..travis"
+date "Apr 27, 2012"
+description ""
+difficulty 2.25
+height 12
+id 18456
+link "https://webpbn.com/play.cgi?id=18456"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "here's another oldie..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 12
+red 2 red 1 red 2
+red 2 red 1 red 2
+red 2 red 1 red 3
+red 24
+red 11 black 3 black 1 red 1
+red 1 black 7 red 2 black 1 black 1 black 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 2 red 2
+black 9 black 2 black 3 black 1 black 4 red 2
+red 10 black 4 red 7 black 4 red 2
+black 4 black 4 black 2
+black 2 black 2
+
+columns
+red 1 black 2
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1 black 1
+red 1 black 1 black 1 red 1 black 2
+red 2 black 1 black 1 red 1 black 2
+red 3 black 1 black 1 red 1 black 1
+red 4 black 1 black 1 red 1
+red 2 red 3 black 2 red 1
+red 2 red 3 red 1
+red 1 red 2 red 1
+red 1 red 2 black 2
+red 1 red 1 black 4
+red 1 red 1 black 4
+red 1 red 2 black 2
+red 1 red 1 red 1 red 1
+red 2 red 1 black 4 red 1
+red 1 red 1 black 1 black 1 red 1
+red 1 red 1 black 4 red 1
+red 1 red 1 red 1
+red 1 red 1 black 4 red 1
+red 1 red 1 red 1
+red 1 red 1 black 2
+red 1 red 1 black 4
+red 3 black 4
+red 2 black 2
+red 2 red 1
+red 1 red 2
+red 1 red 2
+red 3

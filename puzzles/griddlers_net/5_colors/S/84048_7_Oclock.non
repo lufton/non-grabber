@@ -1,0 +1,44 @@
+by "lilyania"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/8/09"
+height 11
+id 84048
+link "https://www.griddlers.net/nonogram/-/g/84048"
+medium_time "0:04:50"
+points 1767
+popularity 60.58
+title "7 O'clock"
+width 11
+
+color a ffffff
+color b 6666ff
+color c 000099
+color d 000000
+color e cccccc
+
+rows
+b 5
+b 1 c 2 d 1 c 2 b 1
+b 1 c 1 d 1 e 1 c 2
+b 1 c 1 d 1 e 1 b 1 c 1
+b 1 c 1 d 1 e 1 b 1 c 1
+b 1 d 1 d 1 e 1 d 1 c 1
+b 1 c 1 d 1 e 2 b 1 c 1
+b 1 c 1 d 1 e 2 b 1 c 1
+b 1 c 1 e 1 b 1 c 1
+b 3 d 1 b 2 c 1
+c 5
+
+columns
+b 5
+b 1 c 2 d 1 c 2 b 1
+b 1 c 1 c 1 b 1
+b 1 c 1 d 1 b 1 c 1
+b 1 c 1 d 1 e 2 b 1 c 1
+b 1 d 5 e 2 d 1 c 1
+b 1 c 1 e 5 b 1 c 1
+b 1 c 1 b 1 c 1
+b 1 c 1 b 1 c 1
+c 1 b 2 d 1 b 2 c 1
+c 5

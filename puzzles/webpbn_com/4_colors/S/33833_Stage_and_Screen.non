@@ -1,0 +1,52 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "Apr  2, 2020"
+description "Star"
+difficulty 2.25
+height 15
+id 33833
+link "https://webpbn.com/play.cgi?id=33833"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Stage and Screen"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2
+green 1 green 1 black 2 green 1
+green 3 blue 2 green 1 blue 1 black 1 green 1
+green 2 blue 1 black 1 green 3 blue 1 black 1 blue 1
+green 1 blue 1 green 1 black 1 blue 1 green 1 blue 1 black 2 green 1
+blue 3 black 2 blue 1 black 3 green 1
+green 1 black 4 blue 1 green 2 blue 1 black 1 blue 1
+green 1 blue 1 black 1 blue 2 green 3 blue 1 black 1 blue 1
+green 3 blue 2 green 1 blue 3 green 1 blue 1 black 2 green 1
+blue 2 green 1 blue 1 black 1 blue 1 blue 1 black 6 green 1
+black 5 green 2 blue 1 black 2 blue 1 black 1 blue 1 green 1
+green 1 black 3 blue 2 green 1 blue 1 black 1 blue 1
+green 1 blue 3 black 1 blue 1
+blue 1 black 3 blue 1
+black 3 green 1
+
+columns
+blue 1 black 1 green 1
+green 3 green 1 blue 1 black 2
+green 2 blue 2 green 1 green 2 black 2
+green 2 blue 1 black 1 green 2 blue 1 black 2
+blue 2 green 1 blue 1 black 1 blue 2 black 2 blue 1 green 1
+blue 1 black 5 blue 2 green 1 blue 3
+green 1 blue 1 black 2 blue 1 green 1 green 2 blue 1 black 2
+green 2 blue 8 black 2
+green 3 blue 1 black 1 green 2 blue 1 black 6
+green 1 black 1 blue 2 black 2 green 2 blue 1 black 2 blue 3 green 1
+green 1 black 5 blue 1 green 2 black 1 blue 1
+green 2 blue 1 green 2 black 1 blue 2 black 2
+blue 1 black 3 blue 1
+blue 1 black 2 green 1
+green 2

@@ -1,0 +1,63 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Apr 21, 2013"
+description "Do You know why?"
+difficulty 1.25
+height 20
+id 21759
+link "https://webpbn.com/play.cgi?id=21759"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "impossible Rubik's cube"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 19
+black 1 red 5 black 1 blue 5 black 1 red 5 black 2
+black 1 red 5 black 1 blue 5 black 1 red 5 black 1 green 1
+black 1 red 5 black 1 blue 5 black 1 red 5 black 1 green 1
+black 1 red 5 black 1 blue 5 black 1 red 5 black 1 green 1
+black 1 red 5 black 1 blue 5 black 1 red 5 black 1 green 1
+black 19 green 1
+black 1 black 1 red 5 black 1 green 5 black 2
+black 1 black 1 red 5 black 1 green 5 black 1 red 1
+black 1 black 1 red 5 black 1 green 5 black 1 red 1
+black 1 black 1 red 5 black 1 green 5 black 1 red 1
+black 1 black 1 red 5 black 1 green 5 black 1 red 1
+black 19 red 1
+black 1 green 5 black 1 red 5 black 1 black 2
+black 1 green 5 black 1 red 5 black 1 black 1 red 1
+black 1 green 5 black 1 red 5 black 1 black 1 red 1
+black 1 green 5 black 1 red 5 black 1 black 1 red 1
+black 1 green 5 black 1 red 5 black 1 black 1 red 1
+black 19 red 1
+black 1 red 5 black 1 green 5 black 1 red 5 black 1
+
+columns
+black 19
+black 1 red 5 black 1 black 1 green 5 black 2
+black 1 red 5 black 1 black 1 green 5 black 1 red 1
+black 1 red 5 black 1 black 1 green 5 black 1 red 1
+black 1 red 5 black 1 black 1 green 5 black 1 red 1
+black 1 red 5 black 1 black 1 green 5 black 1 red 1
+black 19 red 1
+black 1 blue 5 black 1 red 5 black 1 red 5 black 2
+black 1 blue 5 black 1 red 5 black 1 red 5 black 1 green 1
+black 1 blue 5 black 1 red 5 black 1 red 5 black 1 green 1
+black 1 blue 5 black 1 red 5 black 1 red 5 black 1 green 1
+black 1 blue 5 black 1 red 5 black 1 red 5 black 1 green 1
+black 19 green 1
+black 1 red 5 black 1 green 5 black 1 black 2
+black 1 red 5 black 1 green 5 black 1 black 1 red 1
+black 1 red 5 black 1 green 5 black 1 black 1 red 1
+black 1 red 5 black 1 green 5 black 1 black 1 red 1
+black 1 red 5 black 1 green 5 black 1 black 1 red 1
+black 19 red 1
+black 1 green 5 black 1 red 5 black 1 red 5 black 1

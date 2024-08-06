@@ -1,0 +1,61 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Apr 22, 2010"
+description "Reusable grocery bag made out of recycled plastic. I like the ones with cool designs."
+difficulty 2.5
+height 20
+id 8510
+link "https://webpbn.com/play.cgi?id=8510"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Good For You"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2
+black 8
+black 4 blue 2 black 2
+black 2 black 2 blue 2 black 2
+black 2 black 2 blue 2 black 1
+black 2 black 2 blue 2 black 1
+black 2 black 2 black 2 blue 2 black 1
+black 2 blue 1 black 3 black 2 blue 1 black 1
+black 2 black 1 blue 2 black 1 blue 2 black 3 blue 1
+black 2 black 3 blue 3 black 2 black 3
+black 2 black 2 blue 3 black 3 black 2 blue 1
+black 1 blue 2 black 1 blue 2 black 1 black 2 blue 2
+black 2 black 3 blue 1 black 2 blue 2
+black 2 black 2 black 2 blue 2
+black 2 black 2 blue 2
+black 2 black 2 blue 2
+black 2 black 2 blue 2
+black 2 black 2 blue 2
+black 2 black 2 blue 2
+black 3 blue 2
+
+columns
+black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2 black 2
+black 2 black 3 blue 1 black 2
+black 2 blue 2 black 1 blue 2 black 1 black 1
+black 2 black 2 blue 3 black 3 black 2
+black 3 black 3 blue 3 black 2 black 2 blue 1
+black 4 black 1 blue 2 black 1 blue 2 black 2 blue 2
+black 1 blue 1 black 2 blue 1 black 3 black 2 blue 2
+black 1 blue 2 black 2 black 2 black 2 blue 2
+black 1 blue 2 black 2 black 2 blue 2
+black 1 blue 2 black 2 black 2 blue 2
+black 2 blue 2 black 2 black 2 blue 2
+black 2 blue 2 black 4 blue 2
+black 8 blue 2
+blue 1 black 1 blue 2

@@ -1,0 +1,87 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar  7, 2009"
+description ""
+difficulty 1.75
+height 15
+id 5263
+link "https://webpbn.com/play.cgi?id=5263"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.0
+title "Is it paint by numbers or colors?"
+width 50
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1 green 1 blue 6 green 2 black 1 black 1 black 1 green 1 blue 7 green 2 black 1 black 1 black 1 green 1 blue 1 green 2 black 1 black 1 green 1 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 5 blue 1 green 2 black 1 black 1 black 1 green 1 blue 1 green 6 blue 1 green 1 black 1 black 1 green 1 blue 2 green 2 black 1 green 1 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 green 2 blue 1 green 2 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 2 black 1 black 1 green 1 blue 3 green 2 black 1 green 1 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 1 black 1 black 1 green 1 blue 4 green 2 green 1 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 1 black 1 black 1 green 1 blue 5 green 3 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 2 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 2 black 1 black 1 green 1 blue 1 green 1 blue 4 green 2 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 5 blue 1 green 2 black 1 black 1 black 1 green 1 blue 1 green 6 blue 1 green 1 black 1 black 1 black 1 green 1 blue 1 green 2 blue 4 green 1 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 6 green 2 black 1 black 1 black 1 black 1 green 1 blue 7 green 2 black 1 black 1 green 1 blue 1 green 3 blue 5 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 6 black 1 black 1 black 1 black 1 green 1 blue 1 green 6 blue 1 green 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 green 2 blue 4 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 2 black 1 black 1 green 1 blue 1 green 1 black 1 green 2 blue 3 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 2 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 2 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 2 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 blue 1 green 6 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1
+black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 blue 7 green 2 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1
+
+columns
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 15
+blue 15
+blue 1 green 6 blue 1 green 7
+blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1
+blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1
+blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 black 1
+blue 1 green 2 black 1 green 2 blue 1 green 1 black 1 black 1 black 1
+green 1 blue 1 green 4 blue 1 green 2 black 1 black 1 black 1
+green 2 blue 1 green 2 blue 1 green 2 black 1 black 1 black 1 black 1
+green 2 blue 2 green 2 black 1 black 1 black 1 black 1
+black 1 green 4 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 15
+blue 15
+blue 1 green 6 blue 1 green 6 blue 1
+blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1
+blue 1 green 6 blue 1 green 6 blue 1
+green 1 blue 2 green 2 blue 2 green 1 blue 2 green 2 blue 2 green 1
+green 3 blue 2 green 5 blue 2 green 3
+black 1 green 4 black 1 black 1 green 4 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 15
+blue 15
+green 1 blue 4 green 10
+green 2 blue 4 green 2 black 1 black 1 black 1 black 1
+green 2 blue 4 green 2 black 1 black 1 black 1
+black 1 green 2 blue 4 green 2 black 1 black 1 black 1
+black 1 green 2 blue 4 green 2 black 1 black 1
+black 1 black 1 green 2 blue 4 green 2 black 1 black 1
+green 7 blue 4 green 4
+blue 15
+green 15
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1

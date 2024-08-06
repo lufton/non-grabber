@@ -1,0 +1,61 @@
+by "Mary Abrams (tntmary)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Mary Abrams"
+date "Jun 29, 2018"
+description "We need to do better then this."
+difficulty 1.5
+height 20
+id 31377
+link "https://webpbn.com/play.cgi?id=31377"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "...this madness"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+0
+black 20
+black 1 black 1 black 1 black 2 black 1
+red 5 red 1 red 1 red 6
+red 2 red 1 red 1 red 2 red 1
+red 5 red 2 red 6 red 1
+red 1 red 1 red 1 red 1 red 2 red 2
+red 1 red 1 red 1 red 2 red 1 red 1 red 1
+red 2 red 1 red 1 red 2 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 2
+red 1 red 1 red 1
+0
+0
+0
+0
+0
+
+columns
+black 2 red 1 red 1 red 3
+black 1 red 1 red 4
+black 1 red 1 red 1
+black 1 red 7
+black 1 red 3
+black 1
+black 1
+black 2 red 3
+black 1 red 5
+black 1
+black 2 red 5
+black 1 red 1 red 2
+black 1 red 1 red 2
+black 1 red 1
+black 2 red 5
+black 2 red 4
+black 1 red 1 red 4
+black 1 red 1
+black 1 red 4 red 2
+black 2 red 1 red 4

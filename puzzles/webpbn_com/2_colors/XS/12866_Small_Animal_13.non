@@ -1,0 +1,33 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 19, 2011"
+description "A horse of course."
+difficulty 1.25
+height 6
+id 12866
+link "https://webpbn.com/play.cgi?id=12866"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Small Animal 13"
+width 10
+
+rows
+3
+3
+6
+1,7
+1,1,1
+1,1
+
+columns
+1
+1
+4
+2
+2
+3
+6
+2,1
+1,2
+0

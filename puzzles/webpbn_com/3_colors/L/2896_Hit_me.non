@@ -1,0 +1,81 @@
+by "Adam Nielson (monkeyboy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Adam Nielson"
+date "Jun  6, 2008"
+description "A bowling pin (not a game of blackjack, LOL) Let me know what you think."
+difficulty 2.25
+height 40
+id 2896
+link "https://webpbn.com/play.cgi?id=2896"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Hit me!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 7
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 black 1
+black 1 red 3 black 1
+black 2 red 3 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 3 black 2
+black 2 black 2
+black 2 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 2 black 3
+black 3 black 4
+black 3 black 3
+black 4 black 3
+black 4 black 4
+black 3 black 4
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 2 black 3
+black 3 black 3
+black 3 black 3
+black 12
+black 10
+
+columns
+0
+black 7
+black 11
+black 18
+black 11 black 6
+black 4 black 9 black 4
+black 8 black 5 black 2
+black 3 black 7 black 2
+black 2 red 2 red 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 2 red 2 black 2
+black 3 black 8 black 2
+black 8 black 8 black 2
+black 4 black 10 black 3
+black 10 black 6
+black 18
+black 13
+black 7
+0
+0

@@ -1,0 +1,30 @@
+by "dallenan"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/16/06"
+height 5
+id 38010
+link "https://www.griddlers.net/nonogram/-/g/38010"
+medium_time "0:00:11"
+points 4
+popularity 44.46
+title "Detonator"
+width 5
+
+color a ffffff
+color b cc0033
+color c 000000
+
+rows
+b 3
+c 1
+c 3
+c 1 c 1
+c 3
+
+columns
+0
+b 1 c 3
+b 1 c 2 c 1
+b 1 c 3
+0

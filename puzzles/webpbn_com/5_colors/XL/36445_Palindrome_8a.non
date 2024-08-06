@@ -1,0 +1,98 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb 19, 2023"
+description "11 letters, 2 words."
+difficulty 1.75
+height 30
+id 36445
+link "https://webpbn.com/play.cgi?id=36445"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Palindrome 8a"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 5 red 5 red 5
+red 5 red 5 red 5
+black 1 red 5 red 5 red 5 black 1
+black 2 red 5 red 5 red 5 black 2
+black 2 red 5 red 5 red 5 black 2
+black 2 red 5 red 5 red 5 black 2
+black 2 red 5 red 5 red 5 black 2
+black 2 red 4 red 5 red 4 black 2
+black 2 red 3 red 5 red 3 black 2
+red 1 black 2 red 2 red 5 red 2 black 2 red 1
+red 2 black 2 red 1 red 5 red 1 black 2 red 2
+black 1 red 3 black 2 red 5 black 2 red 3 black 1
+black 2 red 4 black 2 red 5 black 2 red 4 black 2
+black 2 red 5 black 2 red 5 black 2 red 5 black 2
+black 2 red 5 blue 1 red 5 green 1 red 5 black 2
+black 2 red 5 blue 2 black 1 red 5 black 1 green 2 red 5 black 2
+black 2 red 3 blue 2 black 2 red 5 black 2 green 2 red 3 black 2
+black 2 red 1 blue 2 black 2 red 5 black 2 green 2 red 1 black 2
+red 1 black 1 blue 2 red 1 black 2 black 2 red 5 black 2 black 2 red 1 green 2 black 1 red 1
+red 3 black 2 black 5 red 5 black 5 black 2 red 3
+red 4 black 2 black 4 red 5 black 4 black 2 red 4
+red 5 black 8 red 5 black 8 red 5
+red 5 black 8 red 5 black 8 red 5
+red 5 black 2 black 2 red 5 black 2 black 2 red 5
+red 5 black 2 black 2 red 3 black 2 black 2 red 5
+red 5 black 2 black 1 red 3 black 1 black 2 red 5
+red 5 black 2 red 5 black 2 red 5
+red 5 black 2 red 5 black 2 red 5
+red 5 red 5 red 5
+red 5 red 5 red 5
+
+columns
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+red 7 black 2 red 7 black 2 red 12
+red 8 black 2 red 7 black 2 red 11
+red 9 black 2 red 7 blue 1 red 11
+red 10 black 2 red 5 blue 2 black 1 red 10
+red 11 black 2 red 3 blue 2 red 1 black 2 red 9
+black 2 blue 2 black 2
+black 1 blue 2 black 2 black 2
+black 2 black 5
+black 2 black 4
+black 8
+black 8
+black 2 black 2
+black 2 black 2
+black 2 black 1
+black 2
+red 24 black 2 red 4
+red 30
+red 30
+red 30
+red 24 black 2 red 4
+black 2
+black 2 black 1
+black 2 black 2
+black 2 black 2
+black 8
+black 8
+black 2 black 4
+black 2 black 5
+black 1 green 2 black 2 black 2
+black 2 green 2 black 2
+red 11 black 2 red 3 green 2 red 1 black 2 red 9
+red 10 black 2 red 5 green 2 black 1 red 10
+red 9 black 2 red 7 green 1 red 11
+red 8 black 2 red 7 black 2 red 11
+red 7 black 2 red 7 black 2 red 12
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2

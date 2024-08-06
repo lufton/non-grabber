@@ -1,0 +1,55 @@
+by "Jaime Lee (huileehui)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jaime Lee"
+date "Jan  8, 2011"
+description ""
+difficulty 1.5
+height 21
+id 11706
+link "https://webpbn.com/play.cgi?id=11706"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "green"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+green 3
+green 3
+green 5
+green 5
+green 7
+green 3
+green 5
+green 7
+green 9
+green 5
+green 7
+green 9
+green 11
+green 5 black 1 green 5
+black 1
+black 1
+black 1
+black 1
+black 1
+green 13
+
+columns
+green 1 green 1
+green 2 green 1
+green 1 green 3 green 1
+green 1 green 2 green 4 green 1
+green 3 green 8 green 1
+green 13 green 1
+green 14 black 6 green 1
+green 13 green 1
+green 3 green 8 green 1
+green 1 green 2 green 4 green 1
+green 1 green 3 green 1
+green 2 green 1
+green 1 green 1

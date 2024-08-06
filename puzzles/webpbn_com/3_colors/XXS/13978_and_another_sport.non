@@ -1,0 +1,31 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "May 18, 2011"
+description "only part of the equipment needed"
+difficulty 1.0
+height 5
+id 13978
+link "https://webpbn.com/play.cgi?id=13978"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "and another sport"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2
+black 2 red 1 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 2
+
+columns
+black 5
+black 2
+red 1
+black 2 black 1
+black 5

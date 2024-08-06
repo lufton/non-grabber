@@ -1,0 +1,52 @@
+by "David (Havenstrom)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David"
+date "Feb  8, 2012"
+description "Hourglass."
+difficulty 1.25
+height 22
+id 17502
+link "https://webpbn.com/play.cgi?id=17502"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Wait for it..."
+width 13
+
+rows
+13
+2,2
+13
+1,1
+1,1
+1,1
+1,1
+2,2
+2,2
+2,1,2
+2,2
+2,2
+2,2
+2,1,2
+2,2
+1,1
+1,1
+1,1
+1,1
+13
+2,2
+13
+
+columns
+3,3
+8,8
+1,1,2,2,1,1
+1,1,2,2,1,1
+1,1,4,1,1
+1,1,2,1,1
+1,1,1,1,1,1
+1,1,2,1,1
+1,1,4,1,1
+1,1,2,2,1,1
+1,1,2,2,1,1
+8,8
+3,3

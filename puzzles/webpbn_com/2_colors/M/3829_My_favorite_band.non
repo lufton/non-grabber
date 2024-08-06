@@ -1,0 +1,50 @@
+by "David Martens (hillertar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by David Martens"
+date "Oct 27, 2008"
+description "Green Day"
+difficulty 1.25
+height 10
+id 3829
+link "https://webpbn.com/play.cgi?id=3829"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "My favorite band"
+width 23
+
+rows
+4,4,2,2
+5,6,3,3
+2,3,2,2,3,3
+2,2,2,2,5
+2,2,6,3
+2,2,6,3
+2,2,2,2,3
+2,3,2,2,3
+5,2,2,3
+4,2,2,3
+
+columns
+10
+10
+2,2
+3,3
+8
+6
+0
+9
+10
+2,2
+2,2
+10
+9
+0
+2
+3
+3
+8
+7
+8
+3
+3
+2

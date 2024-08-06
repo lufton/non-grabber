@@ -1,0 +1,106 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/22"
+height 45
+id 247053
+link "https://www.griddlers.net/nonogram/-/g/247053"
+medium_time "0:13:12"
+points 13744
+popularity 72.37
+title "Super Hero A"
+width 40
+
+color a cccccc
+color b 0a76a8
+color c da092f
+color d ffffff
+
+rows
+0
+0
+0
+b 12
+b 16
+b 16
+b 18
+b 6 d 7 b 5
+b 6 d 2 b 5 d 2 b 5
+b 5 d 2 b 1 d 5 b 1 d 2 b 5
+b 5 d 2 b 1 d 3 c 1 d 3 b 1 d 2 b 4
+b 5 d 1 b 1 d 3 c 3 d 3 b 1 d 1 b 4
+b 6 d 1 b 1 d 2 c 5 d 2 b 1 d 1 b 5
+b 6 d 1 b 1 d 3 c 3 d 3 b 1 d 1 b 5
+b 6 d 1 b 1 d 2 c 2 d 1 c 2 d 2 b 1 d 1 b 6
+b 7 d 1 b 1 d 2 c 1 d 3 c 1 d 2 b 1 d 1 b 6
+b 7 d 2 b 1 d 7 b 1 d 2 b 6
+b 8 d 2 b 1 d 5 b 1 d 2 b 8
+b 9 d 2 b 5 d 2 b 9
+b 11 d 7 b 10
+b 24 d 2 c 2
+b 22 d 4 c 2
+b 21 c 2 d 4 c 3
+b 19 c 4 d 4 c 3
+b 15 d 4 c 4 d 4 c 3
+b 15 c 1 d 4 c 4 d 4 c 4
+b 12 d 1 c 3 d 4 c 4 d 4 c 4
+b 10 d 3 c 3 d 4 c 4 d 4 c 4
+b 8 c 1 d 4 c 3 d 4 c 4 d 4 c 4
+b 7 c 3 d 4 c 3 d 4 c 4 d 4 c 4
+b 5 d 1 c 4 d 4 c 3 d 4 c 4 d 4 c 5
+b 3 d 3 c 4 d 4 c 3 d 4 c 4 d 5 c 4
+b 1 c 1 d 4 c 4 d 4 c 3 d 4 c 4 d 5 c 5
+c 3 d 4 c 4 d 4 c 3 d 4 c 4 d 5 c 5
+c 3 d 4 c 4 d 4 c 3 d 4 c 4 d 5 c 5
+c 3 d 4 c 4 d 4 c 3 d 4 c 4 d 5 c 5
+c 4 d 4 c 4 d 4 c 3 d 4 c 4 d 5 c 5
+c 4 d 4 c 4 d 4 c 3 d 4 c 4 d 5 c 5
+c 4 d 4 c 4 d 4 c 2 d 2 d 2 c 4 d 5 c 5
+c 4 d 4 c 4 d 4 c 2 d 2 d 2 c 4 d 5 c 5
+c 4 d 4 c 4 d 4 c 2 d 2 d 2 c 4 d 5 c 5
+c 4 d 4 c 4 d 4 c 2 d 2 d 2 c 4 d 5 c 5
+c 4 d 4 c 4 d 4 c 2 d 1 d 1 c 4 d 5 c 5
+c 3 d 4 c 4 d 4 c 1 d 1 c 4 d 6 c 3
+c 2 d 4 c 4 d 2 c 3 d 6 c 2
+
+columns
+0
+0
+c 7
+c 11
+b 4 c 12
+b 7 c 13
+b 10 d 13
+b 12 d 14
+b 16 d 14
+b 18 d 15
+b 20 c 15
+b 21 c 16
+b 23 c 16
+b 24 c 17
+b 24 d 17
+b 7 d 7 b 10 d 18
+b 6 d 2 b 5 d 2 b 9 d 17
+b 5 d 2 b 1 d 5 b 1 d 2 b 7 d 18
+b 4 d 2 b 1 d 7 b 1 d 2 b 6 c 18
+b 4 d 1 b 1 d 3 c 1 d 1 c 2 d 2 b 1 d 1 b 6 c 17
+b 4 d 1 b 1 d 2 c 4 d 3 b 1 d 1 b 5 c 13 d 5
+b 4 d 1 b 1 d 1 c 4 d 4 b 1 d 1 b 4 d 18
+b 4 d 1 b 1 d 2 c 4 d 3 b 1 d 1 b 4 d 14
+b 4 d 1 b 1 d 3 c 1 d 1 c 2 d 2 b 1 d 1 b 4 d 18
+b 4 d 2 b 1 d 7 b 1 d 2 b 4 d 20
+b 5 d 2 b 1 d 5 b 1 d 2 b 4 c 21
+b 6 d 2 b 5 d 2 b 5 c 22
+b 6 d 7 b 5 c 23
+b 18 c 23
+b 15 d 24
+b 13 d 24
+b 11 d 25
+b 8 d 25
+b 6 c 11 d 14
+b 3 c 23 d 2
+c 23
+c 20
+c 14
+c 11
+0

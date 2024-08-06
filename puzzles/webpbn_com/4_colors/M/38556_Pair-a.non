@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Apr 26, 2024"
+description "graphs"
+difficulty 2.0
+height 20
+id 38556
+link "https://webpbn.com/play.cgi?id=38556"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Pair-a"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 blue 1
+black 1 blue 1
+black 1 blue 1
+black 1 blue 1
+black 1 blue 2
+black 1 blue 1
+black 1 blue 1
+black 1 red 1 black 1 blue 2
+black 1 red 1 black 1 blue 1
+black 1 red 1 black 1 blue 2
+black 1 red 2 black 1 blue 3
+black 1 red 1 black 1 blue 4
+black 1 red 1 black 1 blue 2
+black 1 red 2 black 1
+black 1 red 1 black 1
+black 1 red 2 black 12
+black 1 red 2
+black 1 red 2
+black 1
+black 9
+
+columns
+black 13
+red 1 black 1
+red 2 black 1
+red 2 black 1
+red 3 black 1
+red 4 black 1
+red 4 black 1
+black 1
+black 16 black 1
+black 1
+blue 5 black 1
+blue 4 black 1
+blue 3 black 1
+blue 2 black 1
+blue 1 black 1
+blue 2 black 1
+blue 1 black 1
+blue 1 black 1
+blue 2 black 1
+blue 1 black 1

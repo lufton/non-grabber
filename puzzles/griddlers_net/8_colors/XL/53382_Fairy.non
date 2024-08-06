@@ -1,0 +1,110 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/15/07"
+height 42
+id 53382
+link "https://www.griddlers.net/nonogram/-/g/53382"
+medium_time "0:43:27"
+points 63184
+popularity 77.03
+title "Fairy"
+width 43
+
+color a 66ff00
+color b 990066
+color c cc33cc
+color d ff66cc
+color e ffccff
+color f ffcc66
+color g cc6600
+color h 000000
+
+rows
+b 11
+b 2 c 11 b 2
+c 3 b 2 c 2 d 4 c 9 b 2 c 3
+c 1 e 3 c 2 d 15 c 4 e 3 c 1
+c 1 e 5 c 1 d 2 e 2 d 4 e 1 d 4 e 1 d 2 c 2 e 5 c 1
+c 3 e 5 c 3 e 4 d 1 e 3 d 2 e 3 c 3 e 5 c 3
+c 1 e 3 c 1 e 3 c 1 e 3 c 1 e 11 c 1 e 3 c 1 e 3 c 1 e 3 c 1
+c 1 e 5 f 1 e 5 c 1 e 11 c 1 e 5 f 1 e 5 c 1
+c 1 e 4 f 1 e 1 f 1 e 4 c 1 e 1 d 2 e 2 d 1 e 4 d 1 c 1 e 4 f 1 e 1 f 1 e 4 c 1
+c 1 e 4 f 1 e 4 c 1 d 1 e 1 c 1 d 2 e 1 d 2 e 3 d 2 c 1 e 4 f 1 e 4 c 1
+c 2 e 5 c 3 d 2 c 2 d 4 c 1 d 5 c 2 e 5 c 2
+c 1 e 9 c 2 d 1 c 2 d 3 c 1 b 1 c 1 d 3 c 1 e 9 c 1
+c 1 e 4 c 1 e 4 c 3 d 1 c 2 d 2 c 1 b 2 c 2 d 1 c 1 e 4 c 1 e 4 c 1
+c 1 e 3 c 3 e 3 c 1 b 1 c 2 d 1 c 2 d 1 c 1 b 1 f 1 b 1 c 3 e 3 c 3 e 3 c 1
+c 9 g 1 f 1 b 1 c 8 f 1 b 2 c 10
+d 5 b 1 c 2 b 1 f 21 b 1 c 2 b 1 d 5
+d 7 b 1 c 2 b 1 f 21 b 1 c 2 b 1 d 7
+d 7 b 1 c 1 b 1 f 23 b 1 c 1 b 1 d 7
+d 8 c 1 b 1 f 2 h 4 f 11 h 4 f 2 b 1 c 1 d 8
+d 5 c 4 b 1 f 1 h 1 c 1 h 4 f 9 h 4 c 1 h 1 f 1 b 1 c 4 d 5
+d 4 c 1 d 3 c 1 b 1 f 1 h 1 e 1 h 4 f 9 h 4 e 1 h 1 f 1 b 1 c 1 d 3 c 1 d 4
+d 3 c 2 d 3 c 1 g 1 f 1 h 1 e 1 h 4 f 9 h 4 e 1 h 1 f 1 g 1 c 1 d 3 c 2 d 3
+d 2 c 1 d 4 c 1 g 1 f 1 h 1 e 1 h 4 f 9 h 4 e 1 h 1 f 1 g 1 c 1 d 4 c 1 d 2
+d 2 c 1 d 4 c 1 g 1 f 2 g 4 f 11 g 4 f 2 g 1 c 1 d 4 c 1 d 2
+d 1 c 1 d 4 c 2 g 1 f 9 g 3 f 9 g 1 c 2 d 4 c 1 d 1
+c 2 d 2 c 4 g 1 f 8 g 1 e 1 g 1 f 8 g 1 c 4 d 2 c 2
+c 6 b 1 g 1 f 7 g 1 e 1 g 1 f 7 g 1 b 1 c 6
+b 5 g 3 f 5 g 1 f 5 g 3 b 5
+e 1 d 5 g 1 f 1 g 3 f 5 g 3 f 1 g 1 d 5 e 1
+d 1 e 4 g 2 f 2 c 1 d 2 g 5 d 2 c 1 f 2 g 2 e 4 d 1
+d 1 e 2 g 3 f 4 c 1 e 8 d 1 c 1 f 4 g 3 e 2 d 1
+d 1 e 3 g 1 f 5 c 1 e 4 c 1 e 1 c 1 e 3 d 1 c 1 f 5 g 1 e 3 d 1
+d 1 e 4 g 1 f 4 c 1 e 5 c 3 e 4 d 1 c 1 f 4 g 1 e 4 d 1
+d 1 e 5 g 3 c 1 e 4 d 1 e 2 c 1 e 2 d 1 e 3 d 1 c 1 g 3 e 5 d 1
+d 1 e 7 c 1 e 4 d 1 c 1 e 4 d 1 c 1 d 1 e 2 d 2 c 1 e 7 d 1
+d 1 e 7 c 1 d 4 c 2 d 1 e 3 d 1 c 2 d 4 c 1 e 7 d 1
+d 1 e 6 d 2 c 4 f 2 c 1 d 3 c 1 f 2 c 4 d 2 e 6 d 1
+d 6 g 1 f 3 g 1 c 3 g 1 f 3 g 1 d 6
+g 1 f 3 g 1 g 1 f 3 g 1
+g 1 f 4 g 1 g 1 f 4 g 1
+g 1 f 4 g 1 g 1 f 4 g 1
+g 5 g 5
+
+columns
+d 6
+d 9
+d 10
+c 3 d 6 c 5
+c 1 e 3 c 1 c 3 d 5 c 2 d 3 c 2 d 5
+c 1 e 4 c 1 e 3 c 1 d 4 c 1 d 6 c 1 b 1 d 1 e 5 d 1
+c 2 e 4 c 1 e 3 c 1 d 3 c 1 d 6 c 1 b 1 d 1 e 6 d 1
+c 1 e 2 c 1 e 7 c 1 b 3 d 1 c 1 d 5 c 2 b 1 d 1 e 7 d 1
+c 1 e 5 f 1 e 4 c 14 b 1 e 9 d 1
+c 1 e 4 f 1 e 1 f 1 e 2 c 5 b 4 g 3 c 3 b 1 d 1 e 1 g 3 e 4 d 1
+c 1 e 5 f 1 e 4 c 2 b 2 f 7 g 1 c 1 b 1 d 1 e 1 g 1 f 2 g 1 e 3 d 1
+c 1 e 2 c 1 e 7 c 1 f 4 h 4 f 2 g 1 d 1 e 1 g 1 f 2 g 1 e 2 d 1
+b 1 c 3 e 4 c 1 e 3 c 1 f 3 h 1 c 1 e 3 g 1 f 2 g 1 d 1 g 1 f 3 g 1 c 2 d 1
+b 1 d 2 c 1 e 4 c 1 e 3 c 1 f 3 h 5 g 1 f 3 g 1 d 1 g 1 f 3 c 1 e 1 d 1 c 1
+b 1 c 1 d 2 c 1 e 3 c 5 g 1 f 3 h 5 g 1 f 3 g 2 f 3 c 1 e 2 d 1 c 1
+b 1 c 1 d 1 e 2 c 3 d 2 c 2 b 1 f 4 h 5 g 1 f 3 g 1 f 3 c 1 e 3 d 1 c 1 g 4
+b 1 c 1 d 2 e 6 d 2 c 2 b 1 f 4 h 4 f 5 g 1 c 2 e 4 d 1 c 1 f 4 g 1
+b 1 c 1 d 3 e 3 d 1 c 3 d 1 c 2 f 13 g 1 d 1 e 4 d 1 c 1 f 5 g 1
+b 1 c 1 d 3 e 3 d 2 c 3 d 1 c 1 f 13 g 1 d 1 e 3 d 1 c 2 f 5 g 1
+b 1 c 1 d 4 e 3 d 3 c 3 f 14 g 1 e 5 d 1 c 1 g 2 f 2 g 1
+b 1 c 2 d 2 e 5 d 3 c 2 f 9 g 3 f 2 g 1 e 1 c 2 e 3 d 1 c 1 g 3
+b 1 c 2 d 1 e 4 d 6 c 1 f 9 g 1 e 2 g 1 f 1 g 1 e 2 c 2 e 2 d 1 c 1
+b 1 c 2 d 2 e 4 d 2 c 4 f 9 g 3 f 2 g 1 e 1 c 2 e 3 d 1 c 1 g 3
+b 1 c 2 d 3 e 4 c 1 b 3 c 1 f 14 g 1 e 4 d 2 c 1 g 2 f 2 g 1
+b 1 c 2 d 3 e 4 d 1 c 1 b 1 f 1 c 1 f 13 g 1 d 1 e 3 d 1 c 2 f 5 g 1
+b 1 c 2 d 2 e 5 d 2 c 1 b 1 f 14 g 1 d 2 e 3 d 1 c 1 f 5 g 1
+b 1 c 2 d 1 e 4 d 4 c 2 b 1 f 4 h 4 f 5 g 1 c 2 d 1 e 3 d 1 c 1 f 4 g 1
+b 1 c 1 d 2 e 1 c 3 d 4 c 1 b 1 f 3 h 5 g 1 f 3 g 1 f 3 c 1 d 1 e 2 d 1 c 1 g 4
+b 1 c 2 d 1 c 1 e 3 c 1 d 1 c 4 f 3 h 5 g 1 f 3 g 2 f 3 c 1 d 3 c 1
+b 1 c 3 e 4 c 1 e 3 c 1 f 3 h 5 g 1 f 3 g 1 d 1 g 1 f 3 c 1 d 2 c 1
+b 1 c 3 e 4 c 1 e 3 c 1 f 3 h 1 c 1 e 3 g 1 f 2 g 1 d 1 g 1 f 3 g 1 c 2 d 1
+c 1 e 2 c 1 e 7 c 1 f 4 h 4 f 2 g 1 d 1 e 1 g 1 f 2 g 1 e 2 d 1
+c 1 e 5 f 1 e 4 c 2 b 2 f 7 g 1 c 1 b 1 d 1 e 1 g 1 f 2 g 1 e 3 d 1
+c 1 e 4 f 1 e 1 f 1 e 2 c 5 b 4 g 3 c 3 b 1 d 1 e 1 g 3 e 4 d 1
+c 1 e 5 f 1 e 4 c 14 b 1 e 9 d 1
+c 1 e 2 c 1 e 7 c 1 b 3 d 1 c 1 d 5 c 2 b 1 d 1 e 7 d 1
+c 2 e 4 c 1 e 3 c 1 d 3 c 1 d 6 c 1 b 1 d 1 e 6 d 1
+c 1 e 4 c 1 e 3 c 1 d 4 c 1 d 6 c 1 b 1 d 1 e 5 d 1
+c 1 e 3 c 1 c 3 d 5 c 2 d 3 c 2 d 5
+c 3 d 6 c 5
+d 10
+d 9
+d 6

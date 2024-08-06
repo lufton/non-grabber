@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Jan  1, 2012"
+description "Another series related to the previous two."
+difficulty 1.25
+height 5
+id 16974
+link "https://webpbn.com/play.cgi?id=16974"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What is the next symbol in the series #3?"
+width 30
+
+rows
+3,3,3,2,2,3,3
+1,1,1,1,1,1,1,1,1
+1,1,2,4,4,1,2
+1,1,1,1,1,1,1
+3,3,2,1,1,3,2
+
+columns
+1,1
+1,1,1
+2,2
+0
+1,1
+1,1,1
+2,2
+0
+3,1
+1,1,1
+1,1
+0
+2
+1,1
+5
+1
+0
+2
+1,1
+5
+1
+0
+1,1
+1,1,1
+2,2
+0
+3,1
+1,1,1
+1,1
+0

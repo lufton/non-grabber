@@ -1,0 +1,30 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166624
+link "https://www.griddlers.net/nonogram/-/g/166624"
+medium_time "0:00:12"
+points 7
+popularity 50.94
+title "Tomato"
+width 5
+
+color a ffffff
+color b ff0000
+color d 99ff00
+
+rows
+d 1
+b 1 d 1 b 1
+b 5
+b 5
+b 3
+
+columns
+b 2
+b 4
+d 1 b 3
+d 1 b 4
+b 2

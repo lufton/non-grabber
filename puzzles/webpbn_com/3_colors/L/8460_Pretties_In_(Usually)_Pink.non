@@ -1,0 +1,81 @@
+by "Eva Carner (suneva)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Eva Carner"
+date "Jul 10, 2010"
+description "No pink for the puzzle so I had to improvise with red and black. At a trip to the zoo in the spring I saw these pretty birds making a rather ugly nest from mud."
+difficulty 2.5
+height 25
+id 8460
+link "https://webpbn.com/play.cgi?id=8460"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Pretties In (Usually) Pink"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 black 3
+red 5 black 5
+red 4 black 1 red 1 black 1 red 1 black 1 black 2
+red 1 red 3 black 3 black 1
+red 2 red 2 black 2 black 2
+red 1 red 2 black 2 black 1
+red 1 red 2 black 2 black 1
+red 1 red 2 black 2 black 1
+red 2 black 2
+red 1 black 2
+red 2 black 3
+red 2 black 2
+red 4 red 2 black 2 black 5
+red 7 red 2 black 2 black 9
+red 10 red 2 black 3 black 10
+red 14 black 7 red 3 black 5
+red 15 black 10 red 1 black 4
+red 4 black 2 red 9 black 10 red 1 black 4
+red 4 black 1 red 10 black 10 red 1 black 4
+red 3 black 1 red 10 black 9 red 1 black 4
+red 4 black 1 red 9 black 6 red 1 black 6
+red 2 black 1 red 9 black 4 black 2
+red 1 red 3 red 3 black 9 black 1
+red 1 red 1 black 2 black 1
+red 1 red 1 black 1 black 1
+
+columns
+red 3
+red 4
+red 5
+red 7 black 1
+red 5 black 2 red 2
+red 5 black 1 red 4
+red 4 black 1 red 5
+red 5 black 1 red 4
+red 10
+red 13
+red 5 red 11
+red 3 red 3 red 12
+red 2 red 2 red 8
+red 3 red 2 red 6
+red 4 red 1 red 8
+red 2 black 1 red 5 red 6
+red 6 red 3
+black 3
+black 6 black 6
+black 2 red 1 black 5 black 8
+black 4 black 1 black 2 black 5 black 2
+black 2 black 1 black 6 black 2
+black 2 black 2 black 8 black 1
+black 3 black 2 black 9 black 1
+black 5 black 3 red 1 black 5 black 1
+black 3 red 1 black 5 black 1
+black 3 red 1 black 7
+black 4 red 1 black 8
+black 4 red 1 black 2 red 1 black 2
+black 5 red 2 black 3
+black 8
+black 6
+black 4
+black 4
+black 3

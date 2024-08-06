@@ -1,0 +1,42 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 16, 2010"
+description "bacon & egg :P (in teresa's cup)"
+difficulty 1.25
+height 10
+id 9232
+link "https://webpbn.com/play.cgi?id=9232"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Cup of ....."
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 1 black 3 black 1
+black 3 black 2 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 3 black 4 black 1
+black 1 black 1
+black 1 black 3 black 1
+black 3 black 3
+black 5
+
+columns
+black 4
+black 1 black 1
+black 9
+black 1
+black 3 black 2
+black 2 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 4 black 2
+black 1
+black 9

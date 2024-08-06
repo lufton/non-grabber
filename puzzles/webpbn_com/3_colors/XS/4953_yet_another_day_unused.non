@@ -1,0 +1,41 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Feb  8, 2009"
+description "my vacuumcleaner"
+difficulty 1.25
+height 10
+id 4953
+link "https://webpbn.com/play.cgi?id=4953"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "yet another day unused"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 1 black 1 red 1
+black 1 red 1 black 1 red 2
+black 1 red 4
+black 1 red 4
+black 3 black 1 red 2 black 1
+black 2
+
+columns
+black 1
+black 8
+black 1 black 1
+black 1
+black 1
+black 1 red 4 black 1
+black 4 red 3 black 1
+red 5 black 1
+red 3 black 1
+0

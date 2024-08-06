@@ -1,0 +1,62 @@
+by "christopher dayton (cdayton)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by christopher dayton"
+date "Dec 23, 2011"
+description "he really does"
+difficulty 1.5
+height 20
+id 16885
+link "https://webpbn.com/play.cgi?id=16885"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "jesus loves you"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 red 17 black 1
+blue 1 black 2 red 15 black 2
+blue 1 black 3 red 13 black 3
+blue 1 black 1 blue 1 black 1 red 12 black 2 blue 1 black 1
+blue 1 black 1 blue 1 black 15 blue 1 black 1
+blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1 blue 2
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1 blue 2
+blue 2 blue 3 black 4 blue 1 blue 3
+blue 8 black 4 blue 2 blue 3
+blue 6 black 4 blue 8
+blue 6 black 4 blue 8
+blue 2 black 10 blue 4
+blue 2 black 10 blue 3
+blue 2 black 10 blue 3
+blue 3 black 10 blue 3
+blue 8 black 4 blue 2
+blue 8 black 4 blue 3
+blue 5 black 4 blue 1 blue 3
+blue 4 black 4 blue 7
+
+columns
+black 1 blue 5 blue 2 blue 2
+black 5 blue 2 blue 2
+red 1 black 2 blue 2 blue 3 blue 3
+red 2 black 5 blue 10
+red 4 black 1 blue 11
+red 4 black 4 blue 4 black 4 blue 4
+red 4 black 1 blue 1 blue 5 black 4 blue 4
+red 4 black 4 blue 4 black 4 blue 4
+red 4 black 1 blue 3 black 12
+red 4 black 16
+red 4 black 1 blue 3 black 12
+red 4 black 16
+red 4 black 1 blue 2 blue 4 black 4 blue 2
+red 4 black 4 blue 3 black 4 blue 1
+red 4 black 1 blue 1 blue 2 black 4 blue 1
+red 4 black 4 blue 5 blue 2
+red 3 black 2 blue 1 blue 10
+red 2 black 5 blue 12
+red 1 black 2 blue 10 blue 1 blue 1 blue 1
+black 5 blue 7

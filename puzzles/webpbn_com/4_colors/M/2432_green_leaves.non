@@ -1,0 +1,62 @@
+by "Piron Kimberly (charmed)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Piron Kimberly"
+date "Mar 14, 2008"
+description "did someone say Sint-Patricks day ? :)"
+difficulty 1.5
+height 20
+id 2432
+link "https://webpbn.com/play.cgi?id=2432"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "green leaves"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 blue 5 green 3 blue 1 green 3 blue 6
+black 1 blue 4 green 1 green 1 green 1 blue 5
+black 1 blue 3 green 1 green 2 green 1 green 2 green 1 blue 4
+black 1 blue 3 green 1 green 3 green 3 green 1 blue 4
+black 1 blue 3 green 1 green 7 green 1 blue 4
+black 1 blue 4 green 1 green 5 green 1 blue 5
+black 1 blue 1 green 3 blue 1 green 1 green 3 green 1 blue 1 green 3 blue 2
+black 1 green 1 green 1 blue 1 green 1 green 1 green 1 blue 1 green 1 green 1 blue 1
+green 1 green 3 green 1 blue 1 green 1 green 1 blue 1 green 1 green 3 green 1
+green 1 green 4 green 1 blue 1 green 1 blue 1 green 1 green 4 green 1
+green 1 green 4 green 3 green 4 green 1
+black 1 green 2 green 4 green 1 green 4 green 2 blue 1
+green 1 green 4 green 1 blue 1 green 1 green 4 green 1
+green 1 green 4 green 1 blue 3 green 1 green 4 green 1
+green 1 green 3 green 1 blue 5 green 1 green 3 green 1
+black 1 green 1 green 1 blue 7 green 1 green 1 blue 1
+black 1 blue 1 green 3 blue 9 green 3 blue 2
+black 19
+0
+0
+
+columns
+black 8 green 3 black 1 green 3 black 3
+blue 7 green 1 green 1 green 1 blue 1 black 1
+blue 6 green 1 green 2 green 1 green 2 green 1 black 1
+blue 6 green 1 green 3 green 3 green 1 black 1
+blue 2 green 3 blue 1 green 1 green 7 green 1 black 1
+blue 1 green 1 green 1 blue 1 green 1 green 5 green 1 blue 1 black 1
+green 1 green 3 green 1 blue 1 green 1 green 3 green 1 blue 2 black 1
+green 1 green 4 green 1 blue 1 green 1 green 1 green 1 blue 3 black 1
+green 1 green 4 green 1 blue 1 green 1 green 1 blue 4 black 1
+blue 1 green 2 green 4 green 3 blue 5 black 1
+green 1 green 4 green 1 blue 1 green 1 green 1 blue 4 black 1
+green 1 green 4 green 1 blue 1 green 1 green 1 green 1 blue 3 black 1
+green 1 green 3 green 1 blue 1 green 1 green 3 green 1 blue 2 black 1
+blue 1 green 1 green 1 blue 1 green 1 green 5 green 1 blue 1 black 1
+blue 2 green 3 blue 1 green 1 green 7 green 1 black 1
+blue 6 green 1 green 3 green 3 green 1 black 1
+blue 6 green 1 green 2 green 1 green 2 green 1 black 1
+blue 7 green 1 green 1 green 1 blue 1 black 1
+blue 8 green 3 blue 1 green 3 blue 2 black 1
+0

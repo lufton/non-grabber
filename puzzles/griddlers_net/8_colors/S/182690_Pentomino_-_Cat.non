@@ -1,0 +1,47 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/18/17"
+height 12
+id 182690
+link "https://www.griddlers.net/nonogram/-/g/182690"
+medium_time "0:01:57"
+points 303
+popularity 65.27
+title "Pentomino - Cat"
+width 10
+
+color a ffffff
+color b 000000
+color c ffcc00
+color d ff0000
+color e 00d700
+color f 0066ff
+color g ff33ff
+color h 00ffff
+
+rows
+c 1 h 1
+c 1 g 1 h 2
+c 1 g 3 h 1
+c 1 b 1 g 1 b 1 h 1
+c 1 e 4
+e 1 d 2
+d 1
+f 1 d 2 d 1
+f 3 h 1 g 1 d 1
+e 1 f 1 h 2 g 3 f 1 d 2
+e 1 h 2 c 3 g 1 f 1 d 1
+e 3 c 2 f 3
+
+columns
+c 5 f 1 e 3
+g 2 b 1 e 2 f 3 h 1 e 1
+g 2 e 1 d 3 f 1 h 2 e 1
+h 1 g 1 b 1 e 1 d 1 d 1 h 2 c 2
+h 4 e 1 g 2 c 2
+g 1 c 1
+g 2 f 1
+f 3
+d 2 f 1
+d 3

@@ -1,0 +1,62 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/15/12"
+height 28
+id 125088
+link "https://www.griddlers.net/nonogram/-/g/125088"
+medium_time "0:03:26"
+points 673
+popularity 66.19
+title "Champagne"
+width 12
+
+color a 99ccff
+color b ffffff
+color c ffff66
+color d 000000
+color e 990099
+
+rows
+b 12
+b 12
+b 10
+b 10
+c 8
+c 8
+c 3 b 1 c 2
+c 6
+c 1 b 1 c 2
+c 4
+c 4
+c 2
+c 1 b 1
+c 2
+c 2
+c 2
+c 2
+e 3 c 2 e 2
+e 3 d 2 e 4
+e 3 d 2 e 4
+e 1 e 2 c 1 e 3
+e 2 c 1 e 1
+e 2 c 1 e 3
+c 2 e 3
+c 2
+c 4
+d 6
+d 8
+
+columns
+b 2
+b 4 e 3
+b 4 c 2 e 4 e 1 d 1
+b 4 c 4 e 3 e 2 d 2
+b 4 c 7 d 2 e 2 c 1 d 2
+b 4 c 4 b 1 c 9 d 2 e 1 c 5 d 2
+b 4 c 2 b 1 c 5 b 1 c 5 e 2 c 1 e 2 c 3 d 2
+b 4 c 7 e 4 e 2 c 1 d 2
+b 4 c 4 e 4 e 2 d 2
+b 4 c 2 e 3 e 1 d 1
+b 4
+b 2

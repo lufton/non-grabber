@@ -1,0 +1,42 @@
+by "jedslater"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/14/12"
+height 13
+id 120738
+link "https://www.griddlers.net/nonogram/-/g/120738"
+medium_time "0:00:45"
+points 51
+popularity 52.45
+title "Tiny Tower: Flu Shot"
+width 5
+
+color a 6600ff
+color b ffffff
+color c 000000
+color d ff6666
+color e ff9999
+color f cccccc
+color g 999999
+
+rows
+b 2 f 1
+f 1
+b 4 f 1
+b 1 f 1 b 1
+b 1 f 1 b 1
+b 1 f 1 b 1
+c 3
+e 1 d 1 e 1
+e 1 d 1 e 1
+b 1
+g 1
+g 1
+g 1
+
+columns
+b 1
+b 1 b 4 c 1 e 2
+b 1 f 1 b 1 f 3 c 1 d 2 b 1 g 3
+f 1 b 4 c 1 e 2
+f 1

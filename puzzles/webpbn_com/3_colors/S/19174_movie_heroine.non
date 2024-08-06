@@ -1,0 +1,51 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Jun 30, 2012"
+description "this almost goes into the "silly and simple" series(but that's not mine and this is waaay too simple)....anyhoo, go ahead and name her."
+difficulty 1.25
+height 15
+id 19174
+link "https://webpbn.com/play.cgi?id=19174"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "movie heroine?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 15
+black 6 black 5
+black 5 black 3 black 4
+black 4 black 1 blue 1 black 1 blue 1 black 1 black 4
+black 4 black 5 black 4
+black 5 black 5
+black 15
+black 5 black 5
+black 4 black 3
+black 3 black 2
+black 2 black 1 black 1 black 1
+black 2 black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+black 3 black 2 black 1 black 2
+black 7 black 4
+
+columns
+black 15
+black 15
+black 10 black 2
+black 9 black 1
+black 3 black 3 black 5
+black 2 black 2 black 1 black 2
+black 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 3 black 1
+black 1 black 1 blue 1 black 1 black 1
+black 1 black 2 black 1
+black 2 black 3
+black 8 black 5
+black 9 black 1
+black 10 black 3
+black 15

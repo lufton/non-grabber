@@ -1,0 +1,57 @@
+by "Piron Kimberly (charmed)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Piron Kimberly"
+date "Mar  7, 2008"
+description "a nice cup of coffee !"
+difficulty 1.75
+height 20
+id 2378
+link "https://webpbn.com/play.cgi?id=2378"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "smells good in the morning"
+width 20
+
+rows
+20
+6,6
+5,5
+4,4
+3,1,1,3
+2,1,1,2
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,14,1
+1,12,1,1
+1,12,1,1
+1,12,1,1
+1,14,1
+1,10,1
+1,8,1
+1,2,6,2,1
+1,1,1,1
+1,12,1
+
+columns
+20
+6
+5,1
+4,5,1,1
+3,6,1,1
+2,7,1
+1,8,1
+1,3,8,1
+1,2,9,1
+1,3,8,1
+1,2,9,1
+1,8,1
+1,7,1
+1,6,1,1
+2,5,1,1
+3,1,1,1
+4,1,1
+5,3
+6
+20

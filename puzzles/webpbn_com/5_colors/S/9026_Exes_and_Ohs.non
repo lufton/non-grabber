@@ -1,0 +1,53 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jun  2, 2010"
+description "XOXOX"
+difficulty 1.75
+height 10
+id 9026
+link "https://webpbn.com/play.cgi?id=9026"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Exes and Oh's"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 6 black 2 red 6 black 1
+red 1 black 1 blue 4 black 1 blue 2 black 1 blue 4 black 1 red 1
+red 1 blue 1 black 1 green 2 black 1 green 4 black 1 green 2 black 1 blue 1 red 1
+red 1 blue 1 green 1 black 1 black 1 blue 6 black 1 black 1 green 1 blue 1 red 1
+red 1 blue 1 green 1 blue 1 black 1 red 8 black 1 blue 1 green 1 blue 1 red 1
+red 1 blue 1 green 1 blue 1 black 1 red 8 black 1 blue 1 green 1 blue 1 red 1
+red 1 blue 1 green 1 black 1 black 1 blue 6 black 1 black 1 green 1 blue 1 red 1
+red 1 blue 1 black 1 green 2 black 1 green 4 black 1 green 2 black 1 blue 1 red 1
+red 1 black 1 blue 4 black 1 blue 2 black 1 blue 4 black 1 red 1
+black 1 red 6 black 2 red 6 black 1
+
+columns
+red 8
+black 1 blue 6 black 1
+red 1 black 1 green 4 black 1 red 1
+red 1 blue 1 black 1 blue 2 black 1 blue 1 red 1
+red 1 blue 1 green 1 black 1 black 1 green 1 blue 1 red 1
+red 1 blue 1 green 1 black 2 green 1 blue 1 red 1
+red 1 blue 1 black 1 red 2 black 1 blue 1 red 1
+red 1 black 1 blue 1 red 2 blue 1 black 1 red 1
+black 1 green 1 blue 1 red 2 blue 1 green 1 black 1
+black 1 blue 1 green 1 blue 1 red 2 blue 1 green 1 blue 1 black 1
+black 1 blue 1 green 1 blue 1 red 2 blue 1 green 1 blue 1 black 1
+black 1 green 1 blue 1 red 2 blue 1 green 1 black 1
+red 1 black 1 blue 1 red 2 blue 1 black 1 red 1
+red 1 blue 1 black 1 red 2 black 1 blue 1 red 1
+red 1 blue 1 green 1 black 2 green 1 blue 1 red 1
+red 1 blue 1 green 1 black 1 black 1 green 1 blue 1 red 1
+red 1 blue 1 black 1 blue 2 black 1 blue 1 red 1
+red 1 black 1 green 4 black 1 red 1
+black 1 blue 6 black 1
+red 8

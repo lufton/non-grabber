@@ -1,0 +1,53 @@
+by "Derek Bank (derekbank)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Derek Bank"
+date "Jun 26, 2011"
+description "The Dude with crazy hair at a party with streamers everywhere."
+difficulty 1.5
+height 15
+id 14936
+link "https://webpbn.com/play.cgi?id=14936"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "A Dude"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 black 9 blue 1 red 2
+green 1 black 9 blue 1 red 1
+green 1 black 3 black 2 blue 1 red 1
+green 1 black 2 black 1 black 1 black 2 blue 1 red 1
+green 1 black 1 black 2 blue 2 red 1
+green 2 black 2 black 3 black 1 blue 1 red 1
+green 1 black 3 black 2 blue 1 red 1
+green 1 black 5 blue 2 red 2
+black 3 black 1 black 3 red 1
+black 1 black 8 black 1 red 1
+black 3 black 1 black 3 red 1
+green 1 black 5 blue 2 red 2
+green 1 black 2 black 2 blue 2 red 1
+green 1 black 4 black 4 blue 1 red 1
+green 2 black 4 black 4 blue 1 red 1
+
+columns
+green 2 green 3 black 3 green 1 green 1
+green 1 green 4 black 1 black 1 green 3
+black 7 black 3 black 2
+black 4 black 2 black 1 black 2
+black 3 black 2 black 1 black 4
+black 2 black 1 black 1 black 1 black 1 black 4
+black 2 black 1 black 5
+black 2 black 1 black 1 black 1 black 1 black 4
+black 2 black 2 black 1 black 4
+black 7 black 3 black 2
+black 5 blue 1 black 1 black 1 blue 1 black 2
+blue 5 blue 1 black 3 blue 2
+blue 3 blue 3
+red 5 red 5
+red 1 red 3 red 4

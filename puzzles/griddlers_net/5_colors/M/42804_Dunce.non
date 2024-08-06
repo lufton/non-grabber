@@ -1,0 +1,62 @@
+by "Shaggy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/15/07"
+height 25
+id 42804
+link "https://www.griddlers.net/nonogram/-/g/42804"
+medium_time "0:10:27"
+points 7417
+popularity 59.67
+title "Dunce"
+width 15
+
+color a ffffff
+color b 000000
+color d e7e7e7
+color e 848484
+color f ffff66
+
+rows
+b 1
+b 2
+b 1 d 1 b 1
+b 1 d 2 b 1
+b 1 d 1 b 1 d 1 b 1
+b 1 d 1 e 1 d 2 b 1
+b 1 d 2 e 1 d 2 b 1
+b 1 d 1 e 1 b 1 d 2 b 1
+b 1 d 1 b 1 e 1 d 3 b 1
+b 1 d 1 e 1 d 1 d 3 b 1
+b 1 d 1 d 1 b 1 e 1 d 4 b 1
+b 1 d 1 e 1 d 1 d 2 b 2
+b 1 d 1 d 1 b 1 e 1 b 2 f 2 b 1
+b 7 f 5 b 1
+b 1 f 6 f 1 b 1
+b 1 f 2 f 1 b 2 f 1 b 1
+b 1 f 1 f 1 b 2 f 1 b 1
+b 1 f 1 b 1 f 1 f 1 b 1
+b 1 f 2 f 3 f 2 b 1
+b 1 f 13 b 1
+b 1 f 4 b 2 f 5 b 1
+b 1 f 4 b 1 b 1 f 4 b 1
+b 1 f 3 b 2 f 4 b 1
+b 2 f 5 b 2
+b 5
+
+columns
+b 5
+b 15 f 5 b 2
+b 1 d 11 b 1 f 2 f 4 b 1
+b 1 d 1 b 1 e 1 d 1 e 1 b 1 f 1 f 4 b 1
+b 1 d 2 e 1 b 2 e 1 d 1 b 1 f 1 b 1 f 4 b 1
+b 1 d 2 e 1 d 1 b 1 e 1 d 1 b 1 f 1 f 6 b 1
+b 1 d 3 e 1 d 1 b 2 f 6 b 3 f 1 b 1
+b 1 d 4 e 1 b 1 f 1 f 2 b 1 b 1 f 1 b 1
+b 1 d 4 b 1 f 1 b 2 f 2 b 1 f 2 b 1
+b 1 d 3 b 1 f 1 b 2 f 5 b 1
+b 1 d 1 b 1 f 2 f 4 b 1
+b 2 f 2 f 4 b 1
+b 1 f 2 f 4 b 1
+b 2 f 5 b 2
+b 5

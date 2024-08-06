@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Nov 22, 2012"
+description "You can't travel through the country of Turkey without seeing this amulet. It is called the evil eye and is used to ward off the effects of someone giving you the evil eye."
+difficulty 2.75
+height 20
+id 20452
+link "https://webpbn.com/play.cgi?id=20452"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Turkey day"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 1
+blue 1 black 1 blue 1 blue 5
+black 4 blue 1 black 1 blue 10
+blue 13
+blue 13
+blue 5 blue 5
+blue 5 blue 4
+blue 4 blue 1 blue 1 blue 4
+blue 5 blue 1 blue 1 blue 1 blue 4
+blue 4 blue 1 black 2 blue 1 blue 4
+blue 4 blue 1 black 2 blue 1 blue 4
+blue 4 blue 1 blue 1 blue 1 blue 4
+blue 4 blue 1 blue 5
+blue 5 blue 5
+blue 5 blue 6
+blue 12
+blue 9
+blue 5
+
+columns
+black 1
+black 1
+black 1 blue 4
+black 1 blue 8
+blue 3 blue 10
+black 5 blue 13
+blue 8 blue 4
+blue 5 blue 4
+blue 4 blue 1 blue 1 blue 3
+blue 4 blue 1 blue 1 blue 3
+blue 4 blue 1 black 2 blue 1 blue 3
+blue 4 blue 1 black 2 blue 1 blue 3
+blue 4 blue 1 blue 1 blue 1 blue 4
+blue 4 blue 1 blue 1 blue 4
+blue 4 blue 4
+blue 5 blue 5
+blue 13
+blue 11
+blue 9
+blue 6

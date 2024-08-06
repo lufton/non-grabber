@@ -1,0 +1,83 @@
+by "Sam (cementuh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sam"
+date "Apr 19, 2023"
+description "Hilbert's curve"
+difficulty 2.5
+height 31
+id 36724
+link "https://webpbn.com/play.cgi?id=36724"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Math doodle puzzle #4"
+width 31
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1
+black 5 green 1 black 5 green 1 black 5 green 1 black 5
+black 1 green 1 black 1 green 1 black 1 green 1 black 1
+green 2 black 1 green 5 black 1 green 5 black 1 green 5 black 1 green 2
+black 1 black 1 green 1 black 1 black 1
+black 13 green 1 black 13
+black 1 black 1 black 1 green 1 black 1 black 1 black 1
+black 1 green 3 black 1 green 3 black 1 green 1 black 1 green 3 black 1 green 3 black 1
+green 1 black 1 green 1 green 1 green 1 black 1 green 1
+green 4 black 5 green 9 black 5 green 4
+green 1 black 1 green 1 green 1 green 1 black 1 green 1
+black 1 green 3 black 1 green 3 black 1 green 1 black 1 green 3 black 1 green 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 29
+black 1 black 1 black 1 black 1 black 1
+green 2 black 1 green 3 black 1 green 3 black 1 green 3 black 1 green 3 black 1 green 2
+black 1 green 1 green 1 black 1 green 1 green 1 black 1
+black 5 green 5 black 5 green 5 black 5
+black 1 black 1 green 1 green 1 black 1 green 1 green 1 black 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 3 black 1 green 3 black 1 green 1 black 1 green 1 black 1
+green 1 green 1 black 1 black 1 black 1 green 1 green 1
+green 8 black 13 green 8
+green 1 green 1 black 1 black 1 black 1 green 1 green 1
+black 1 green 1 black 1 green 1 black 1 green 3 black 1 green 3 black 1 green 1 black 1 green 1 black 1
+black 1 black 1 green 1 green 1 black 1 green 1 green 1 black 1 black 1
+black 5 green 5 black 5 green 5 black 5
+black 1 green 1 green 1 black 1 green 1 green 1 black 1
+green 2 black 1 green 3 black 1 green 3 black 1 green 3 black 1 green 3 black 1 green 2
+black 1 black 1 black 1 black 1 black 1
+
+columns
+green 1 green 1 green 1 green 1 green 1
+black 3 green 1 black 3 green 1 black 3 green 1 black 3 green 1 black 3 green 1
+black 1 black 1 green 1 black 1 black 1 green 1 black 1
+green 2 black 5 green 5 black 5 green 5 black 4
+black 1 black 1 green 1 green 1 black 1 black 1 green 1 black 1
+black 3 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 3 green 1 black 3 green 1
+green 1 black 1 black 1 black 1 green 1 green 1 green 1
+green 6 black 9 green 13
+green 1 black 1 black 1 black 1 green 1 green 1
+black 3 green 1 black 1 green 1 black 1 green 1 black 3 green 1 black 5 green 1 black 2
+black 1 black 1 green 1 green 1 black 1 green 1 black 1 green 1
+green 2 black 5 green 5 black 1 green 5 black 1 green 5
+black 1 black 1 green 1 black 1 green 1 green 1 black 1 green 1 green 1
+black 3 green 1 black 3 green 1 black 3 green 1 black 1 green 1 black 1 green 1 black 1 green 1
+green 1 green 1 black 1 black 1 black 1 black 1
+green 14 black 16
+green 1 green 1 black 1 black 1 black 1 black 1
+black 3 green 1 black 3 green 1 black 3 green 1 black 1 green 1 black 1 green 1 black 1 green 1
+black 1 black 1 green 1 black 1 green 1 green 1 black 1 green 1 green 1
+green 2 black 5 green 5 black 1 green 5 black 1 green 5
+black 1 black 1 green 1 green 1 black 1 green 1 black 1 green 1
+black 3 green 1 black 1 green 1 black 1 green 1 black 3 green 1 black 5 green 1 black 2
+green 1 black 1 black 1 black 1 green 1 green 1
+green 6 black 9 green 13
+green 1 black 1 black 1 black 1 green 1 green 1 green 1
+black 3 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 3 green 1 black 3 green 1
+black 1 black 1 green 1 green 1 black 1 black 1 green 1 black 1
+green 2 black 5 green 5 black 5 green 5 black 4
+black 1 black 1 green 1 black 1 black 1 green 1 black 1
+black 3 green 1 black 3 green 1 black 3 green 1 black 3 green 1 black 3 green 1
+green 1 green 1 green 1 green 1 green 1

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Sep 25, 2010"
+description "I'm out of ideas. I just did my stapler."
+difficulty 1.5
+height 15
+id 10474
+link "https://webpbn.com/play.cgi?id=10474"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "It's official!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 7
+black 14
+black 20
+black 20 green 1
+black 19 green 2 black 2
+green 20 black 2
+green 19 black 3
+green 19 black 3
+green 17 black 3
+black 3
+black 18
+black 19
+black 4 black 4
+0
+
+columns
+0
+black 3
+black 4 green 3 black 2
+black 5 green 4 black 2
+black 5 green 4 black 3
+black 5 green 4 black 3
+black 5 green 4 black 2
+black 5 green 4 black 2
+black 5 green 4 black 2
+black 5 green 4 black 2
+black 4 green 4 black 2
+black 4 green 4 black 2
+black 4 green 4 black 2
+black 4 green 4 black 2
+black 4 green 4 black 2
+black 4 green 4 black 2
+black 3 green 4 black 3
+black 3 green 4 black 3
+black 3 green 4 black 3
+black 3 green 4 black 4
+black 2 green 4 black 4
+green 3 black 5
+black 5
+black 4
+0

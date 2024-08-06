@@ -1,0 +1,47 @@
+by "Agneta (aggge)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Agneta"
+date "Jun 29, 2009"
+description "Yes, well.... That wall is white with black dot-things on it. And three of those dots close together look almoust like this puzzle."
+difficulty 1.5
+height 18
+id 6181
+link "https://webpbn.com/play.cgi?id=6181"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "That's what you get when you let yourself be inspired by a basement wall..."
+width 12
+
+rows
+2
+4
+6,2
+11
+8,1
+5,4
+4,5
+2,4,1
+3,7
+1,7
+6
+4
+5
+7
+2,4
+1,3,4
+1,5,3
+1,5,3
+
+columns
+3,1
+7,2
+7,2
+6,2,2,2
+6,7,3
+5,8,3
+13,3
+13,2
+1,2,3,4
+2,5,5
+3,1,4
+1,3

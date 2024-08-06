@@ -1,0 +1,82 @@
+by "Hanhong Xue (macroxue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Hanhong Xue"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.0
+height 35
+id 27263
+link "https://webpbn.com/play.cgi?id=27263"
+note "published,may be unique,may require deep lookahead"
+quality 3.0
+title "Baseball"
+width 30
+
+rows
+2
+3
+3
+2
+3
+2
+2,2
+2,4
+2,4
+2,4
+2,4
+2,6
+2,10
+11,5
+8,5
+4,8
+14,3
+10,3
+3,3
+2,3,2
+5,3,2
+7,3
+6,3
+5,3
+4,3
+3,3
+4,3
+3,3
+3,3
+3,3
+3,3
+3,5
+3,5
+3,6
+2,4
+
+columns
+0
+3
+6
+8
+4,5
+5,2,2
+6,2,2,5
+5,3,3,9
+3,3,3,10
+2,2,3,7
+4,3,2,5
+8,2,4
+6,3,3
+5,3,4
+7,3
+6,4
+4,3
+4,2
+5,5
+15
+15
+4,5
+4
+3
+4
+3
+2,2
+2,2
+0
+0

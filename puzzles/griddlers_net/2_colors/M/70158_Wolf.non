@@ -1,0 +1,56 @@
+by "j_rw"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/1/08"
+height 20
+id 70158
+link "https://www.griddlers.net/nonogram/-/g/70158"
+medium_time "0:03:41"
+points 1182
+popularity 58.69
+title "Wolf"
+width 20
+
+rows
+8,8
+5,5
+4,1,4
+3,3,3
+2,4,2
+1,4,1
+1,5,1
+1,6,1
+7
+10
+12
+1,6,3
+1,1,5,1
+1,1,1,1,1,2
+1,1,1,7
+2,11
+3,12
+4,12
+5,11
+8,11
+
+columns
+8,8
+5,5
+4,4
+3,3
+2,2
+1,3,1
+1,5,1
+1,7,1
+8,2
+6,8
+6,5
+13
+1,5,5
+1,12
+1,4,6
+2,11
+3,2,6
+4,2,6
+5,2,7
+8,10

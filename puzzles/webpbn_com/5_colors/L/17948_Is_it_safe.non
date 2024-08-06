@@ -1,0 +1,83 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Richard Coderre"
+date "Mar 16, 2012"
+description "70's movie title."
+difficulty 2.0
+height 35
+id 17948
+link "https://webpbn.com/play.cgi?id=17948"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Is it safe?"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 25
+black 1 black 1
+black 1 black 2 black 1
+black 1 black 4 black 1
+black 1 black 4 black 1
+black 1 black 2 black 1 black 1
+black 1 red 4 black 1 black 1
+black 1 red 6 black 2 black 1
+black 1 black 2 red 6 black 1
+black 1 black 1 red 4 black 1
+black 1 black 1 red 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 3 black 3 black 1
+black 1 black 5 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 2 black 1
+black 1 green 23 black 1
+black 25
+black 1 black 1
+black 1 black 3 black 3 black 3 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 1 black 3 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 3 black 3 black 1
+black 1 black 2 black 2 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 3 black 3 black 3 black 1
+black 1 black 1
+black 25
+
+columns
+black 35
+black 1 green 1 black 1 black 1
+black 1 green 1 black 1 black 1 black 3 black 5 black 1
+black 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 green 1 black 1 black 3 black 1 black 1 black 1
+black 1 green 1 black 1 black 1 black 1
+black 1 green 1 black 1 black 5 black 5 black 1
+black 1 black 2 green 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 green 1 black 1 black 1 black 3 black 5 black 1
+black 1 black 1 black 1 green 1 black 1 black 1
+black 1 red 2 black 1 green 1 black 1 black 1 black 5 black 1
+black 1 black 2 red 5 blue 3 black 1 green 1 black 1 black 1 black 1
+black 1 black 4 red 5 blue 3 green 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 4 red 5 blue 3 green 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 red 5 blue 2 black 1 green 1 black 1 black 3 black 1 black 5 black 1
+black 1 red 2 black 1 green 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 5 green 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 green 1 black 1 black 1
+black 1 green 1 black 1 black 3 black 1 black 1
+black 1 green 1 black 1 black 1 black 1 black 1 black 1
+black 1 green 1 black 1 black 1 black 3 black 1
+black 1 green 1 black 1 black 1
+black 1 green 1 black 1 black 1
+black 1 green 1 black 1 black 1
+black 35

@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Apr  8, 2010"
+description "it's a puzzle in a puzzle: Now erase the dots starting at R1-C3 and try to finish at R20-C14. :D Don't get lost! lol"
+difficulty 2.0
+height 20
+id 8303
+link "https://webpbn.com/play.cgi?id=8303"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A puzzling, puzzle!"
+width 20
+
+rows
+1,1,6
+1,1,1,1
+1,7,1,2,1
+1,1,1,2,3
+8,2,2,1
+5,1
+12,1,1
+1,1,1
+9,5,1
+1,1,1,2,1
+1,3,2,6
+1,1,2,5,5
+1,4,1,2,1
+2,2,1,4,1
+3,2,8,1,1
+3,2,2,1
+1,1,8,1
+1,13,4
+1,1,1
+13,6
+
+columns
+1,1,5
+5,10,1
+1,1,1,2,1,1
+3,1,1,1,3,1,1,1
+1,1,1,1,1,1,2,1
+1,1,1,1,6,1,1
+1,1,1,1,5,1,1
+1,1,1,2,2,1
+1,1,1,5,2,1
+3,1,4,1,2,1
+1,1,1,1,2,1
+4,1,1,1,1,2,1
+1,2,2,2,1,2,1
+1,4,1,1,1,2
+1,4,1,1,2,4
+1,1,1,2,2,1
+4,4,2,1,1,1,1
+1,2,3,1,1
+9,1,1
+10

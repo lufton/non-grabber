@@ -1,0 +1,59 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/31/15"
+height 23
+id 150047
+link "https://www.griddlers.net/nonogram/-/g/150047"
+medium_time "0:03:08"
+points 584
+popularity 66.05
+title "Alice in Wonderland"
+width 11
+
+color a 348a61
+color b bf0618
+color c ffb53d
+color d fcebc2
+color e 2e2e2e
+color f ffffff
+color g fffa73
+color h 1389f7
+
+rows
+b 1
+c 1 b 3 c 1
+c 2 d 3 c 2
+c 1 e 1 d 3 e 1 c 1
+d 5
+f 1 d 3 f 1
+g 1 h 5 g 1
+g 1 f 1 h 1 f 1 h 1 f 1 g 1
+g 1 f 5 g 1
+d 1 g 2 f 1 g 1 f 1 g 2 d 1
+b 3 f 1 b 1 f 1 b 3
+b 11
+b 11
+b 11
+b 11
+b 9
+b 7
+b 5
+b 3
+b 3
+b 3
+b 3
+e 3 e 3
+
+columns
+d 1 b 4
+g 2 b 6
+c 2 g 1 g 1 b 7 e 1
+c 2 e 1 d 1 f 1 h 1 f 2 g 1 b 8 e 1
+b 1 d 4 h 2 f 3 b 11 e 1
+b 2 d 4 h 1 f 2 g 1 b 12
+b 1 d 4 h 2 f 3 b 11 e 1
+c 2 e 1 d 1 f 1 h 1 f 2 g 1 b 8 e 1
+c 2 g 1 g 1 b 7 e 1
+g 2 b 6
+d 1 b 4

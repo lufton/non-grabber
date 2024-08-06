@@ -1,0 +1,51 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Jan  1, 2016"
+description "a flamingo"
+difficulty 1.5
+height 15
+id 27139
+link "https://webpbn.com/play.cgi?id=27139"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "pretty pink"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4
+red 8
+red 2 black 1 red 6
+black 1 red 5 red 4
+black 4 red 2 red 3
+black 5 red 3
+black 4 red 3
+black 2 red 4
+black 2 red 4
+red 4
+red 4
+red 5
+red 5
+red 5
+red 6
+
+columns
+0
+0
+black 3
+black 5
+black 4 black 1
+red 3 black 3 red 1
+red 3 black 2 red 3
+red 2 black 1 red 2 red 4
+red 5 red 5
+red 4 red 6
+red 3 red 7
+red 3 red 5
+red 9
+red 7
+red 5

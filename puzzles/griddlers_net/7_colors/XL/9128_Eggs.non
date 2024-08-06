@@ -1,0 +1,86 @@
+by "HSpring"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/11/04"
+height 25
+id 9128
+link "https://www.griddlers.net/nonogram/-/g/9128"
+medium_time "0:19:02"
+points 33548
+popularity 67.61
+title "Eggs"
+width 37
+
+color a 000000
+color b ffffcc
+color c 0000ae
+color d 00ffff
+color e cc00db
+color f ffcc00
+color g ff00c2
+
+rows
+c 2
+c 3 d 2 c 4
+c 2 d 6 c 5
+c 1 d 9 c 2 d 1 c 2
+c 1 d 6 c 5 d 1 c 1 e 1 c 2
+c 5 d 3 c 3 b 1 c 1 d 2 c 1 e 3 c 1
+c 4 b 5 c 4 b 3 c 1 d 3 c 3 d 1 c 1
+c 2 d 1 c 3 b 6 c 1 f 2 c 3 d 9 c 1
+c 3 d 2 c 1 g 1 c 2 b 5 c 1 f 4 c 5 d 5 c 1
+c 2 e 1 c 1 d 2 g 1 c 1 b 6 c 1 f 6 c 1 e 3 c 1 d 4 c 2
+c 1 b 1 c 1 e 1 c 1 d 1 c 3 b 6 c 1 f 7 c 1 e 2 c 1 d 3 c 1 b 1 c 1
+c 1 b 2 c 1 e 1 c 1 d 1 c 1 g 2 c 2 b 4 c 1 f 7 c 1 e 1 c 2 d 2 c 1 b 3 c 1
+c 1 b 1 c 1 e 2 c 1 d 1 c 1 g 2 c 1 b 5 c 1 f 8 c 1 d 3 c 1 b 4 c 1
+c 1 b 2 c 1 e 2 c 1 d 1 c 1 g 1 c 1 b 6 c 1 f 8 c 4 b 4 c 2
+c 1 b 2 c 1 e 2 c 1 d 1 c 4 b 5 c 1 f 8 c 2 b 6 c 1 d 1 c 1
+c 1 b 2 c 1 e 2 c 1 d 2 c 1 g 2 c 1 b 4 c 1 f 8 c 1 b 6 c 1 d 2 c 1
+c 1 b 3 c 1 e 1 c 1 d 2 c 1 g 1 c 1 b 5 c 1 f 8 c 1 b 5 c 1 d 3 c 1
+c 1 b 3 c 1 e 1 c 1 d 2 c 5 b 4 c 1 f 6 c 1 b 4 c 2 d 3 c 1
+c 1 b 3 c 1 e 2 c 1 d 2 c 1 g 2 c 1 b 4 c 1 f 6 c 5 d 5 c 1
+c 1 b 3 c 1 e 2 c 1 d 2 c 3 b 5 c 1 f 5 c 2 d 9 c 1
+c 1 b 3 c 1 e 1 c 1 d 2 c 4 b 5 c 1 f 3 c 1 d 10 c 1
+c 1 b 2 c 1 e 2 c 1 d 2 c 1 g 1 c 1 b 6 c 3 d 10 c 1
+c 2 b 1 c 1 e 1 c 1 d 3 c 3 b 5 c 1 c 3 d 5 c 2
+c 5 d 3 c 1 g 2 c 1 b 1 c 3 c 5
+c 10
+
+columns
+c 7
+c 2 b 7 c 1
+c 1 b 10 c 1
+c 1 b 2 c 4 b 6 c 1
+c 4 e 4 c 4 b 2 c 2
+c 1 e 11 c 2 b 1 c 1
+c 11 e 4 c 2
+c 1 d 10 c 3 e 2 c 2
+c 1 d 3 c 5 d 6 c 4
+c 3 g 1 c 1 g 3 c 4 d 6 c 1
+c 2 g 1 c 2 g 2 c 2 g 2 c 4 d 3 c 1
+c 3 b 2 c 2 b 1 c 1 g 1 c 2 g 1 c 3 d 2 c 1
+c 1 b 2 c 1 b 2 c 1 b 3 c 1 b 1 c 1 g 1 c 2 g 1 c 3
+c 1 b 11 c 2 b 1 c 3 g 1 c 1
+c 3 b 16 c 1 g 1 c 1
+c 1 d 2 c 1 b 17 c 2
+c 1 d 2 c 1 b 18 c 1
+c 1 d 4 c 1 b 2 c 8 b 6 c 1
+c 1 d 4 c 3 f 8 c 3 b 3 c 1
+c 1 d 4 c 1 f 13 c 1 b 2 c 1
+c 1 d 4 c 2 f 14 c 2
+c 1 d 3 c 2 b 1 c 1 f 13 c 1
+c 1 d 2 c 2 b 1 c 1 f 13 c 1
+c 2 d 1 c 1 b 2 c 2 f 11 c 1 d 1 c 1
+c 6 d 1 c 2 f 9 c 1 d 2 c 1
+c 4 d 3 c 1 e 1 c 2 f 5 c 3 d 2 c 1
+c 1 d 5 c 1 e 3 c 5 b 1 c 1 d 4 c 1
+c 4 d 2 c 1 e 2 c 1 d 1 c 2 b 3 c 1 d 4 c 1
+c 1 e 2 c 1 d 2 c 3 d 1 c 1 b 4 c 1 d 4 c 1
+c 1 e 1 c 1 d 6 c 1 b 4 c 1 d 4 c 1
+c 1 e 1 c 1 d 5 c 1 b 4 c 1 d 5 c 1
+c 1 d 5 c 1 b 5 c 1 d 4 c 1
+c 1 d 3 c 1 b 5 c 1 d 5 c 1
+c 3 b 5 c 1 d 5 c 1
+c 2 b 2 c 2 d 5 c 1
+c 3 d 3 c 3
+c 3

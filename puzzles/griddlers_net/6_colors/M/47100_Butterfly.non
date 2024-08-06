@@ -1,0 +1,71 @@
+by "warchild"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/13/07"
+height 23
+id 47100
+link "https://www.griddlers.net/nonogram/-/g/47100"
+medium_time "0:11:12"
+points 5835
+popularity 68.95
+title "Butterfly"
+width 25
+
+color a ffffff
+color b 993300
+color c ff9999
+color d ffcccc
+color f cc0099
+color h ff99ff
+
+rows
+b 2 b 2
+b 2 b 2
+h 4 b 2 b 2 h 4
+h 2 f 2 h 2 b 3 h 2 f 2 h 2
+h 2 f 4 h 2 b 3 h 2 f 4 h 2
+h 1 f 2 d 2 f 2 h 2 b 3 h 2 f 2 d 2 f 2 h 1
+h 1 f 1 d 4 f 2 h 2 b 1 h 2 f 2 d 4 f 1 h 1
+h 1 f 1 d 1 c 2 d 2 f 2 h 1 b 3 h 1 f 2 d 2 c 2 d 1 f 1 h 1
+h 1 f 1 d 1 c 3 d 1 f 2 h 1 b 5 h 1 f 2 d 1 c 3 d 1 f 1 h 1
+h 1 f 1 d 2 c 2 d 2 f 1 h 1 b 5 h 1 f 1 d 2 c 2 d 2 f 1 h 1
+h 1 f 2 d 2 c 2 d 1 f 1 h 1 b 5 h 1 f 1 d 1 c 2 d 2 f 2 h 1
+h 2 f 2 d 2 c 1 d 1 f 1 h 1 b 5 h 1 f 1 d 1 c 1 d 2 f 2 h 2
+h 2 f 2 d 3 f 1 h 1 b 5 h 1 f 1 d 3 f 2 h 2
+h 2 f 5 h 1 b 5 h 1 f 5 h 2
+h 7 b 5 h 7
+h 6 b 5 h 6
+h 1 f 4 h 1 b 5 h 1 f 4 h 1
+h 2 f 1 c 2 f 1 h 1 b 5 h 1 f 1 c 2 f 1 h 2
+h 1 f 2 c 1 f 2 h 1 b 5 h 1 f 2 c 1 f 2 h 2
+h 2 f 1 c 2 f 1 h 2 b 3 h 2 f 1 c 2 f 1 h 2
+h 1 f 2 c 1 f 2 h 2 h 2 f 2 c 1 f 2 h 1
+h 2 f 3 h 2 h 2 f 3 h 2
+h 5 h 5
+
+columns
+h 8
+h 2 f 6 h 2
+h 2 f 2 d 4 f 2 h 2 h 3
+h 1 f 2 d 2 c 2 d 2 f 2 h 2 h 3 f 1 h 2
+h 1 f 2 d 2 c 3 d 2 f 2 h 4 f 4 h 1
+h 2 f 2 d 2 c 3 d 2 f 1 h 2 f 3 c 2 f 1 h 1
+h 2 f 2 d 3 c 2 d 1 f 1 h 2 f 1 c 3 f 2 h 1
+h 2 f 3 d 4 f 1 h 2 f 1 c 1 f 3 h 2
+b 1 h 2 f 7 h 2 f 3 h 3
+b 2 h 15
+b 2 b 11
+b 4 b 13
+b 17
+b 4 b 13
+b 2 b 11
+b 2 h 15
+b 1 h 2 f 7 h 2 f 3 h 3
+h 2 f 3 d 4 f 1 h 2 f 1 c 1 f 3 h 2
+h 2 f 2 d 3 c 2 d 1 f 1 h 2 f 1 c 3 f 2 h 1
+h 2 f 2 d 2 c 3 d 2 f 1 h 2 f 3 c 2 f 1 h 1
+h 1 f 2 d 2 c 3 d 2 f 2 h 4 f 4 h 1
+h 1 f 2 d 2 c 2 d 2 f 2 h 2 h 3 f 1 h 2
+h 2 f 2 d 4 f 2 h 2 h 4
+h 2 f 6 h 2
+h 8

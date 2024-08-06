@@ -1,0 +1,31 @@
+by "whittney nicole hill (shadow_demon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by whittney nicole hill"
+date "Dec  1, 2018"
+description "my first puzzle is very, very easy."
+difficulty 1.25
+height 5
+id 31839
+link "https://webpbn.com/play.cgi?id=31839"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "tiny pic"
+width 5
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5
+blue 5
+black 5
+black 5
+black 5
+
+columns
+blue 2 black 3
+blue 2 black 3
+blue 2 black 3
+blue 2 black 3
+blue 2 black 3

@@ -1,0 +1,57 @@
+by "sdubois (sdubois)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by sdubois"
+date "Sep 17, 2010"
+description "Black cat's watching you! (My first attempt at a puzzle...is it ok?)"
+difficulty 1.25
+height 20
+id 10394
+link "https://webpbn.com/play.cgi?id=10394"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Haloween's Coming!"
+width 20
+
+rows
+2,2
+8
+8
+3,2,2
+9
+10
+10
+10
+10
+11,2
+11,3
+12,3
+12,2
+12,2
+12,2
+12,2
+13,3
+13,3
+18
+17
+
+columns
+4
+5
+7
+9
+11
+13
+14
+15
+17
+20
+20
+2,16
+19
+14,2
+2,9,2
+7,2
+6,2,3
+3,3
+8
+6

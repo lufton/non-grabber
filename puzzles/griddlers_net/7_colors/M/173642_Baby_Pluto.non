@@ -1,0 +1,70 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/6/16"
+height 26
+id 173642
+link "https://www.griddlers.net/nonogram/-/g/173642"
+medium_time "0:08:00"
+points 9870
+popularity 83.67
+title "Baby Pluto"
+width 20
+
+color a ffffff
+color b 000000
+color c fbd84a
+color d cc9900
+color e 33ff33
+color f 339900
+color g 666666
+
+rows
+b 3
+b 1 g 3 b 1
+b 3 g 1 b 1
+b 2 d 4 b 1 g 2 b 3
+b 3 d 1 c 4 d 1 g 1 b 1
+b 1 g 2 d 1 c 1 c 2 c 1 d 1
+b 1 g 1 d 1 c 1 c 1 d 1
+b 1 g 2 d 1 c 1 c 1 d 1
+b 1 g 2 d 1 c 1 b 1 b 1 c 1 d 1
+b 1 g 2 d 1 c 1 b 1 b 1 c 1 d 1
+b 1 g 2 d 1 c 10 d 1
+b 1 g 2 d 1 c 4 b 2 c 4 d 1
+b 1 g 2 b 1 d 1 c 8 d 1
+b 3 d 1 c 6 d 1
+f 1 e 4 f 1
+d 1 c 6 d 1
+d 1 c 8 d 1
+d 1 c 8 d 1
+d 1 c 8 d 1
+d 2 d 1 c 2 d 1 c 2 d 1 c 2 d 1 d 2
+d 1 c 2 d 2 c 3 d 1 c 2 d 1 c 3 d 2 c 2 d 1
+d 1 c 3 d 1 c 3 d 1 c 2 d 1 c 3 d 1 c 3 d 1
+d 1 c 3 d 1 c 3 d 1 c 2 d 1 c 3 d 1 c 3 d 1
+d 1 c 3 d 1 c 3 d 4 c 3 d 1 c 3 d 1
+d 4 c 3 d 1 d 1 c 3 d 4
+d 3 d 3
+
+columns
+d 4
+b 3 d 1 c 4 d 1
+b 3 g 3 b 1 d 1 c 4 d 1
+b 2 g 6 b 1 d 1 c 3 d 1
+b 1 g 5 d 2 b 2 d 5
+b 1 g 1 d 4 c 2 d 1 d 4 c 5 d 1
+b 2 d 1 c 7 d 1 d 1 c 9 d 1
+b 1 d 1 c 1 c 4 f 1 c 10 d 1
+d 1 c 1 b 2 c 4 e 1 c 4 d 6
+d 1 c 2 c 1 b 1 c 2 e 1 c 8 d 1
+d 1 c 2 c 1 b 1 c 2 e 1 c 8 d 1
+d 1 c 1 b 2 c 4 e 1 c 4 d 6
+b 1 d 1 c 1 c 4 f 1 c 10 d 1
+b 2 g 2 d 1 c 7 d 1 d 1 c 9 d 1
+b 1 g 1 b 1 g 1 b 1 d 4 c 2 d 1 d 4 c 5 d 1
+b 1 g 1 b 2 d 2 d 5
+b 1 g 2 b 1 d 1 c 3 d 1
+b 3 d 1 c 4 d 1
+d 1 c 4 d 1
+d 4

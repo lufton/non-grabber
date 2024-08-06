@@ -1,0 +1,120 @@
+by "Eralcym"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/16/11"
+height 50
+id 105724
+link "https://www.griddlers.net/nonogram/-/g/105724"
+medium_time "0:47:19"
+points 75718
+popularity 76.78
+title "Oscar"
+width 45
+
+color a 000000
+color b 8fa649
+color c c98c00
+color d ff0000
+color e ffffff
+color f 336600
+color g cccccc
+color h 666666
+
+rows
+g 2 h 23 g 3
+g 2 h 25 g 3
+b 3 h 1 f 1 b 3 h 21 g 2
+b 6 f 1 b 4 f 5 h 17 g 1
+f 3 b 2 f 1 b 1 f 1 b 4 f 3 b 3 h 19
+b 4 f 8 b 10 h 17
+b 9 f 3 b 2 c 2 b 1 c 2 b 5 h 16
+b 14 c 6 b 1 c 3 b 2 h 15
+b 7 c 3 b 4 c 10 b 5 h 13
+b 3 c 9 b 1 c 12 b 7 h 10
+b 1 c 14 e 6 c 7 b 5 h 9
+c 6 e 6 c 2 e 2 e 4 b 2 c 5 b 3 h 10
+c 4 e 3 e 2 b 3 e 2 e 4 b 11 h 9
+c 3 b 2 e 2 e 2 b 4 e 6 b 8 f 3 b 2 h 8
+c 1 b 4 e 4 b 7 e 3 b 8 f 2 h 3 b 1 h 8
+b 7 e 2 b 23 h 10
+b 25 f 2 b 2 h 12
+b 22 f 1 b 3 e 1 b 2 h 9
+b 2 b 1 f 2 b 9 f 4 f 2 b 2 f 2 h 1 b 2 h 7 g 1
+b 1 b 2 f 11 d 5 f 1 b 3 f 1 h 3 b 1 h 6 g 2
+b 2 b 2 d 9 f 3 b 3 h 11 g 2
+b 2 d 10 f 1 b 5 h 10 g 2
+b 2 d 10 f 1 b 5 f 1 h 9 g 2
+b 2 d 9 b 7 f 1 b 2 h 6 g 3
+b 3 d 7 b 6 f 1 b 1 f 1 h 7 g 3
+b 5 d 3 b 8 f 1 b 1 f 1 h 6 g 2
+b 5 b 10 f 1 b 3 h 3 g 3
+b 20 f 1 b 4 g 3
+b 18 f 3 b 4 g 2
+f 1 b 14 f 5 b 4 h 2 g 6
+b 2 g 2 h 1 f 3 b 10 f 3 b 1 f 1 b 5 h 7 g 3
+b 5 g 1 h 3 f 9 b 2 f 4 b 8 h 9 g 2
+b 6 h 3 f 4 b 2 f 9 b 9 h 10 g 1
+b 9 f 3 b 5 f 4 b 11 h 12
+b 11 f 2 b 5 f 1 b 2 f 1 b 11 f 1 h 11
+b 12 f 2 b 18 f 2 h 11
+b 4 f 2 b 7 f 1 b 17 f 5 h 6 g 2 h 1
+b 3 f 3 b 29 f 2 h 1 b 2 g 2 b 1 h 2
+b 3 f 4 b 36 h 2
+b 3 f 2 g 2 f 1 b 33 h 2 g 2
+b 5 h 1 g 2 f 2 b 18 f 1 b 14 g 1
+b 4 h 2 g 3 f 2 b 14 f 3 b 14 g 1
+b 2 h 2 g 1 h 2 g 2 f 4 b 9 f 5 b 14 g 1
+h 1 g 3 h 2 g 4 f 11 g 3 b 15 g 1
+h 1 g 5 h 5 g 11 h 2 g 1 f 1 b 13 g 1
+g 1 h 1 g 1 g 7 h 11 g 2 h 1 f 1 b 7 f 2 b 3 g 1 g 1
+g 1 h 1 g 1 g 1 h 1 g 1 g 5 g 3 g 3 g 2 h 1 f 1 b 6 h 4 b 1 h 1 g 1
+g 1 h 1 g 1 h 1 g 1 g 1 h 1 g 2 g 3 g 3 g 3 h 1 f 2 b 3 h 7 g 1 g 1
+g 1 h 1 g 1 g 1 h 1 g 1 g 1 g 2 h 1 g 1 h 1 g 1 h 7 h 2 g 1
+g 1 h 1 h 1 h 1 h 1 g 1 h 4 g 6 h 2 g 1 g 1
+
+columns
+b 7
+b 1 b 10
+b 3 b 12
+b 3 c 3 b 4 b 7 f 3 b 3
+b 3 c 5 b 3 b 6 f 4 b 2 h 3 g 5
+b 4 c 4 b 4 b 5 f 3 g 1 h 3 g 2 h 4
+b 4 c 4 b 7 b 7 f 1 g 2 h 1 g 5 g 1
+b 4 c 3 e 1 b 5 f 1 b 7 g 1 h 1 b 6 f 1 g 2 h 1 g 2
+f 1 b 4 c 3 e 2 b 4 f 2 b 7 g 1 h 2 b 7 f 1 g 1 h 2 g 4
+f 1 b 4 c 2 e 4 b 4 f 1 b 5 g 1 h 2 b 7 f 1 g 2 h 1 g 2 h 2 h 1
+f 2 b 2 c 3 e 1 e 2 b 3 f 1 b 4 f 1 h 2 f 2 b 7 f 1 g 2 h 1 g 4
+b 2 f 1 b 2 c 3 e 1 e 2 b 3 f 1 b 5 f 5 b 6 f 2 g 1 h 1 g 1
+b 2 f 1 b 2 c 3 e 4 b 4 f 1 b 4 f 6 b 6 f 1 g 1 h 1 g 3
+b 1 f 2 b 3 c 2 e 3 b 5 f 1 d 2 b 3 f 3 b 2 f 2 b 5 f 1 g 1 h 1 g 2 h 2
+b 3 f 2 b 2 c 2 e 1 b 7 f 1 d 4 b 4 f 1 b 10 f 2 h 1 g 4
+g 1 b 2 f 3 b 3 c 2 b 7 f 1 d 5 b 4 f 1 b 11 f 1 g 1 h 1 g 2
+g 2 b 3 f 2 b 2 c 3 b 7 f 1 d 6 b 4 f 2 b 10 f 1 g 1 h 1 g 1
+g 1 h 2 f 1 b 1 f 1 b 2 c 3 e 2 b 6 f 1 d 6 b 4 f 2 b 10 f 1 g 1 h 1 g 1
+h 2 f 1 b 4 c 3 e 4 b 4 f 2 d 6 b 4 f 4 b 8 f 1 g 1 h 1 g 2 h 1
+h 2 b 4 c 4 e 1 e 1 b 4 f 1 d 6 b 5 f 3 b 9 f 1 g 1 h 1 g 3
+h 2 b 2 f 1 b 1 c 4 e 1 e 2 b 3 f 1 d 6 b 6 f 2 b 9 f 1 g 1 h 1 g 3
+h 2 b 2 f 1 b 2 c 3 e 5 b 3 f 1 d 5 b 7 f 3 b 8 f 1 g 1 h 1
+h 3 f 2 b 1 c 4 e 5 b 3 d 4 b 6 f 2 b 10 f 1 g 1 h 1 g 2
+h 3 f 1 b 2 c 4 e 4 b 4 d 3 b 7 f 2 b 10 f 1 g 1 h 1 g 2 h 2
+h 3 f 1 b 4 c 3 e 2 b 5 b 7 f 3 b 9 f 2 g 1 h 1 g 3
+h 3 f 1 b 3 c 4 b 6 f 1 b 6 f 3 b 10 f 1 g 2 h 1
+h 3 f 1 h 1 b 2 c 4 b 6 f 2 b 7 f 2 b 10 f 2 g 1 h 1 g 3
+h 5 b 2 c 1 b 1 c 3 b 5 f 1 b 7 f 2 b 11 f 2 g 1 h 1 g 3 h 2
+h 6 b 4 c 2 b 4 f 3 b 7 f 3 b 9 f 3 b 1 g 1 h 2 g 2
+h 7 b 3 c 2 b 4 f 3 b 5 f 6 b 14 f 3 h 2 g 1
+h 8 b 2 c 2 b 4 f 1 b 30 f 1 h 2
+h 8 b 3 c 1 b 2 f 1 b 7 f 4 b 10 f 1 b 10 f 1 h 2
+h 9 b 4 f 2 b 3 f 2 h 3 b 1 h 2 b 9 f 2 b 11 h 2
+h 9 b 4 f 1 h 1 b 1 h 1 e 1 f 1 h 4 b 1 h 3 b 6 h 1 f 3 b 11 h 2
+h 9 b 4 f 1 h 1 b 1 h 1 b 1 h 9 g 2 h 7 f 1 b 11 h 1 g 1
+h 10 b 1 h 1 b 2 h 3 b 2 h 8 g 2 h 7 f 2 b 9 h 2 g 1
+h 13 b 2 h 3 b 2 h 6 g 2 g 1 h 7 f 1 b 8 h 2 g 1
+h 26 g 1 g 1 h 8 b 7 f 1 h 2 g 1
+h 25 g 2 g 1 h 7 b 8 f 1 h 2 g 1
+h 24 g 2 g 1 h 7 b 9 h 2 g 1
+h 23 g 2 g 1 h 7 g 1 b 9 h 3
+g 1 h 21 g 3 g 2 h 6 g 1 b 1 h 1 b 6 h 4
+g 2 h 19 g 3 g 1 h 5 g 1 b 2 h 1 b 5 g 3 g 1
+g 3 h 16 g 3 g 2 h 4 g 1 h 2 g 1
+g 3 h 14 g 3 g 2 h 6 g 7 g 3

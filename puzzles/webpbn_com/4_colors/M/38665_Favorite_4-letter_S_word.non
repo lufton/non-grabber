@@ -1,0 +1,67 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "May 28, 2024"
+description "Does anyone ever actually sell their garage at these things?"
+difficulty 1.25
+height 20
+id 38665
+link "https://webpbn.com/play.cgi?id=38665"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Favorite 4-letter S word"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 25
+red 1 black 3 red 1 black 3 red 1 black 3 red 1 black 3 red 1 black 3 red 1 black 3 red 1
+red 1 black 1 red 3 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 3 black 1 red 3
+red 1 black 1 red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 1 black 2 red 2
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2 red 2 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 3
+red 1 black 3 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 3 red 1 black 3 red 1
+red 25
+red 1 green 1 red 1
+red 1 green 5 black 4 black 1 black 5 red 1
+red 1 green 1 green 1 green 1 black 1 black 1 black 1 black 1 red 1
+red 1 green 1 green 1 black 1 black 1 black 1 black 1 red 1
+red 1 green 1 green 1 black 1 black 1 black 1 black 1 red 1
+red 1 green 5 black 4 black 1 black 4 red 1
+red 1 green 1 green 1 black 1 black 1 black 1 black 1 red 1
+red 1 green 1 green 1 black 1 black 1 black 1 black 1 red 1
+red 1 green 1 green 1 black 1 black 1 black 1 black 1 red 1
+red 1 green 1 green 1 green 1 black 1 black 1 black 1 black 1 red 1
+red 1 green 5 black 1 black 1 black 4 black 5 red 1
+red 1 green 1 red 1
+red 25
+
+columns
+red 20
+red 1 black 5 red 1 red 1
+red 1 black 1 red 3 black 1 red 1 green 5 green 2 red 1
+red 1 black 1 red 1 black 3 red 1 green 1 green 1 green 1 red 1
+red 7 green 12 red 1
+red 1 black 5 red 1 green 1 green 1 green 1 red 1
+red 1 black 1 red 1 black 1 red 3 green 2 green 6 red 1
+red 1 black 5 red 1 red 1
+red 7 black 10 red 1
+red 1 black 5 red 1 black 1 black 1 red 1
+red 1 black 1 red 2 black 1 red 2 black 1 black 1 red 1
+red 1 black 3 red 1 black 1 red 1 black 10 red 1
+red 7 red 1
+red 1 black 5 red 1 black 10 red 1
+red 1 black 1 red 1 black 1 red 3 black 1 red 1
+red 1 black 5 red 1 black 1 red 1
+red 7 black 1 red 1
+red 1 black 5 red 1 red 1
+red 1 black 1 red 3 black 1 red 1 black 10 red 1
+red 1 black 1 red 1 black 3 red 1 black 1 black 1 black 1 red 1
+red 7 black 1 black 1 black 1 red 1
+red 1 black 5 red 1 black 1 black 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 red 1
+red 1 black 1 red 3 black 1 red 1 red 1
+red 20

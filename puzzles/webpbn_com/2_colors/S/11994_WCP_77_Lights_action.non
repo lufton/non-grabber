@@ -1,0 +1,47 @@
+by "Meira Bracha (mbracha)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Meira Bracha"
+date "Jan 31, 2011"
+description "movie camera"
+difficulty 1.75
+height 15
+id 11994
+link "https://webpbn.com/play.cgi?id=11994"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #77 Lights, action,"
+width 15
+
+rows
+3,3
+2,2,2,2
+1,1,1,1
+1,2,2,2,2
+1,3,3
+13
+1,1,1
+3,7
+1,1,1
+1,11
+1
+3
+2,2
+2,2
+4,4
+
+columns
+7
+1,1
+3,5
+2,3,1,1
+1,2,1,2
+2,3,1,3
+3,1,1,2,1
+1,3
+3,1,1,1,2,1
+2,3,1,1,3
+1,2,1,1,2
+2,3,1,1,1
+3,5
+1
+1

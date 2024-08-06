@@ -1,0 +1,58 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Feb 13, 2011"
+description ""
+difficulty 1.5
+height 15
+id 12194
+link "https://webpbn.com/play.cgi?id=12194"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Can't wait for summer time."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 black 18 blue 1
+blue 1 black 12 red 4 black 2 blue 1
+blue 1 black 14 green 2 black 2 blue 1
+blue 1 black 7 green 2 green 1 black 1 red 4 black 1 blue 1
+blue 1 black 2 green 3 green 1 red 2 black 1 blue 1
+blue 1 black 2 black 3 green 3 green 1 blue 1 red 1 black 1 blue 1
+blue 1 black 6 green 3 green 1 black 1 red 1 black 2 blue 1
+blue 1 black 8 black 2 black 6 blue 1
+blue 1 black 8 black 2 black 6 blue 1
+blue 1 black 6 black 2 black 3 blue 1
+blue 1 black 6 black 11 blue 1
+blue 1 black 18 blue 1
+blue 20
+blue 20
+
+columns
+blue 15
+blue 1 black 12 blue 2
+blue 1 black 12 blue 2
+blue 1 black 4 black 6 blue 2
+blue 1 black 4 black 7 blue 2
+blue 1 black 4 black 7 blue 2
+blue 1 black 4 black 7 blue 2
+blue 1 black 4 green 3 black 2 black 1 blue 2
+blue 1 black 3 green 4 black 2 black 2 blue 2
+blue 1 black 3 green 4 black 2 blue 2
+blue 1 black 3 black 5 blue 2
+blue 1 black 3 green 4 black 5 blue 2
+blue 1 black 3 black 2 blue 2
+blue 1 black 1 red 1 black 2 black 3 black 2 blue 2
+blue 1 black 1 red 1 black 1 red 1 black 2 black 2 blue 2
+blue 1 black 1 red 1 green 1 red 1 blue 1 black 2 black 2 blue 2
+blue 1 black 1 red 1 green 1 red 2 red 1 black 5 blue 2
+blue 1 black 3 red 3 black 6 blue 2
+blue 1 black 12 blue 2
+blue 15

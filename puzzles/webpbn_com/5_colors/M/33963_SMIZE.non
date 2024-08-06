@@ -1,0 +1,73 @@
+by "Brash Ataom (BRASH)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brash Ataom"
+date "Apr 26, 2020"
+description "Smizing (Smiling with your eyes) has come along just in time for all the mask-wearing we have grown (sic!) accustomed to. Thanks to all the medical workers! I smize at you! (Thanks to The a Banks for the term "smize")"
+difficulty 2.5
+height 25
+id 33963
+link "https://webpbn.com/play.cgi?id=33963"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "SMIZE!!!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 8 black 5
+black 7 red 3 black 4
+black 6 red 3 black 3
+black 5 red 7 black 2
+black 4 red 7 black 1
+black 3 red 7 black 1
+black 3 red 3 black 1
+black 10 blue 2 red 3 blue 2 black 8
+black 3 black 1
+black 2 blue 1 black 4 black 4 blue 1
+black 2 blue 2 black 1 black 1 green 1 blue 1 blue 1 green 1 black 1 black 1 blue 2
+black 1 blue 2 green 2 green 2 blue 2
+black 1 blue 2 blue 5 blue 2
+black 1 blue 2 blue 9 blue 2
+black 1 blue 15
+black 1 blue 3 blue 9
+black 2 blue 2 blue 8 black 1
+black 3 blue 2 blue 8 black 1
+black 3 blue 7 blue 13 black 1
+black 4 blue 2 black 1 blue 7 black 2
+black 5 blue 3 black 1 blue 4 black 3
+black 6 blue 3 black 3 blue 3 black 4
+black 7 blue 7 black 5
+black 8 blue 5 black 6
+black 9 black 7
+
+columns
+black 25
+black 11 black 9
+black 9 blue 2 black 8
+black 5 black 1 blue 2 blue 1 black 6
+black 4 black 1 blue 2 blue 1 black 5
+black 3 black 1 blue 2 blue 1 black 4
+black 2 black 1 black 1 blue 2 blue 1 black 3
+black 1 black 1 black 1 blue 2 blue 1 black 2
+black 1 black 2 blue 7 black 1
+black 1 black 1 green 1 blue 9
+red 3 blue 1 black 1 green 2 blue 2 black 1 blue 3
+red 3 blue 1 blue 1 blue 7 black 1 blue 3
+red 7 blue 8 black 1 blue 2
+red 7 blue 8 black 1 blue 2
+red 7 blue 8 black 1 blue 2
+red 3 blue 1 blue 1 blue 12
+red 3 blue 1 black 1 green 1 blue 10
+black 1 black 1 green 2 blue 9
+black 1 black 2 blue 7 black 1
+black 1 black 1 blue 2 blue 1 black 2
+black 1 black 1 black 1 blue 2 blue 1 black 3
+black 2 black 1 blue 2 blue 1 black 4
+black 3 black 1 blue 2 blue 1 black 5
+black 4 black 1 blue 2 blue 1 black 6
+black 9 blue 2 black 9

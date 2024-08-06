@@ -1,0 +1,62 @@
+by "Joel Lynn (Furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joel Lynn"
+date "May 12, 2011"
+description "Hint: Two views, looking North. See first comment for song and musical."
+difficulty 1.25
+height 15
+id 13862
+link "https://webpbn.com/play.cgi?id=13862"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Song from a musical"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 11 black 11
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 blue 9 black 1 black 1 blue 9 black 1
+black 1 blue 9 black 1 black 1 blue 9 black 1
+black 1 blue 9 black 1 black 1 blue 9 black 1
+black 1 blue 9 black 1 black 1 blue 9 black 1
+black 11 black 11
+
+columns
+black 15
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 red 2 blue 4 black 1
+black 1 red 3 blue 4 black 1
+black 1 red 3 blue 4 black 1
+black 15
+0
+0
+0
+black 15
+black 1 red 3 blue 4 black 1
+black 1 red 3 blue 4 black 1
+black 1 red 2 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 15

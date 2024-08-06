@@ -1,0 +1,61 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Oct 14, 2010"
+description "Muscle + X = Mueslix. I know, enter groan here."
+difficulty 1.5
+height 20
+id 10694
+link "https://webpbn.com/play.cgi?id=10694"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Cereal 7"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 4
+black 1 black 1
+black 1 black 2
+black 3 black 1
+black 2 black 2
+black 1 black 1
+black 5 black 2 black 1
+black 2 black 2 black 1 black 1
+black 2 black 4 black 1
+black 1
+black 13
+0
+0
+green 2 green 2
+green 2 green 2
+green 4
+green 2
+green 4
+green 2 green 2
+green 2 green 2
+
+columns
+black 1 black 1
+black 2 black 1
+black 2 black 1
+black 1 black 1
+black 1 black 1
+black 3 black 1 black 1
+black 1 black 1 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1 black 1 black 1
+black 3 black 2 black 1 black 1
+black 2 black 3 black 1
+black 1 black 1
+black 7
+green 2 green 2
+green 3 green 3
+green 3
+green 3
+green 3 green 3
+green 2 green 2
+0

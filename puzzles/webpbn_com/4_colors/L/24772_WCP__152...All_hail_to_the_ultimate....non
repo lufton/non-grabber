@@ -1,0 +1,82 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Jun 13, 2014"
+description "...Puzzle maker, aldege, with close to 1600 puzzles created :)"
+difficulty 1.75
+height 30
+id 24772
+link "https://webpbn.com/play.cgi?id=24772"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP # 152...All hail to the ultimate..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 2 black 2
+black 1 black 1 black 1
+black 1 black 1 black 2 black 1 blue 3
+black 1 black 1 black 1 blue 6
+black 1 black 1 black 1 black 2 blue 1
+black 1 black 1 black 2 black 1 red 2 blue 1
+black 1 black 4 black 1 red 1 blue 1
+blue 4 black 1 black 1 black 1 black 2 red 3 blue 1
+blue 6 black 2 black 2 black 1 blue 1
+blue 7 black 4 black 1 blue 3 blue 1
+blue 10 black 2 blue 1 black 1 blue 6
+blue 5 red 2 black 2 red 2 black 1
+red 8 black 2
+black 1 red 1 red 4 red 1 black 1 black 3
+black 2 red 4 black 4 black 1
+black 2 red 4 black 2 black 1
+black 2 red 4 black 1
+black 2 blue 4 black 1
+black 1 blue 4 black 1
+blue 4 black 1
+blue 5 black 1
+blue 2 blue 3 black 1
+blue 2 blue 3 black 1
+blue 2 blue 2 black 1
+blue 2 blue 2 black 1
+blue 2 blue 2 black 1
+blue 2 black 3 black 1
+black 3 black 11
+black 18
+
+columns
+blue 1
+blue 2 blue 1
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4 black 2
+blue 3 black 4 black 1
+blue 3 red 2 black 2 black 1
+black 9 blue 1 red 2 black 2 black 1
+black 2 black 2 blue 1 red 6 blue 10 black 2
+black 1 black 1 black 2 black 3 red 5 blue 10 black 2
+black 1 black 1 black 2 black 3 red 5 blue 4 black 2
+black 2 black 1 black 2 black 2 blue 1 red 6 blue 5 black 1
+black 9 red 2 blue 3 black 2
+red 2 blue 5 black 3
+black 2 blue 4 black 3
+black 2 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 28
+blue 1 black 1 black 1 blue 1 black 2
+blue 1 blue 1 black 2
+blue 2 blue 2 black 2
+blue 1 red 1 red 1 blue 1
+blue 1 red 3 blue 1
+blue 1 red 1 blue 1
+blue 1 blue 1
+blue 8

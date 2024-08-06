@@ -1,0 +1,41 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Feb 15, 2009"
+description "this is a very normal position.. for a red cat."
+difficulty 1.75
+height 10
+id 5046
+link "https://webpbn.com/play.cgi?id=5046"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "don't look at me like that!"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 5
+red 7
+red 8
+black 8 red 1 black 1
+black 1 red 2 red 1 black 1
+black 1 red 4 red 2 black 1
+black 1 red 4 red 1 black 1
+black 1 red 1 red 1 black 1
+
+columns
+black 5
+red 2 black 1 red 3
+red 3 black 1 red 3
+red 3 black 1 red 3
+red 3 black 1 red 3
+red 3 black 1
+red 3 black 1 red 1
+red 2 black 1 red 1
+red 4
+black 5

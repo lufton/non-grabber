@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Gator"
+date "Jan  1, 2015"
+description "Too late. The phone went dead."
+difficulty 1.75
+height 20
+id 26236
+link "https://webpbn.com/play.cgi?id=26236"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Quick! Plug it in"
+width 20
+
+rows
+2,2,5
+2,2,6
+1,2,7
+2,2,8
+1,3,8
+3,5,7
+3,7,6
+2,8,5
+1,8,4
+1,3,3,2
+2,2,4,1
+3,10
+2,8
+1,1,6
+2,4,4
+3,4,2
+2,4
+1,4
+2,3
+3
+
+columns
+4,3
+2,2,2,2
+1,1,1,1,1
+2,2,2,2,2
+3,1,3,1
+3,2
+2,3
+4,4
+6,4
+8,4
+10,1
+2,4,2
+2,2,3,3
+1,4,8
+6,8
+8,7
+9,5
+10,3
+10,2
+9,2

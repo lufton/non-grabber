@@ -1,0 +1,56 @@
+by "morlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/12/07"
+height 23
+id 53218
+link "https://www.griddlers.net/nonogram/-/g/53218"
+medium_time "0:01:20"
+points 43
+popularity 73.91
+title "Lighter"
+width 8
+
+color a ccffff
+color b 0000cc
+color c cccccc
+color d ff0000
+color e 999999
+color f ebeb00
+color g 000099
+color h ffff99
+
+rows
+f 1
+f 1 h 1
+f 1 h 1
+f 2 h 1 f 1
+f 1 h 2 f 1
+f 1 h 1
+f 1 e 2
+c 4 e 2
+c 5 d 2
+c 5 d 1
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+b 4 g 3
+
+columns
+f 2
+f 4 h 1 f 1 c 3 b 13
+h 5 f 1 c 3 b 13
+f 2 c 3 b 13
+e 1 c 3 b 13
+e 2 c 2 g 13
+e 1 d 2 g 13
+d 1 g 13

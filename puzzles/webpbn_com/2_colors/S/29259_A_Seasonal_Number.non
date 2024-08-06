@@ -1,0 +1,46 @@
+by "Daniel Sherlock (dsherlock)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Daniel Sherlock"
+date "Dec 26, 2016"
+description "CLUES: Across --------------------------------------- 1: (Seasonal Clue) Pipers piping 3: Even triangle number 4: Digits not rotationally symmetric 5: Digits sum to 1D 7: Sum of two powers of two 10: Six times a prime factor of 21A 12: The reverse of the answer to another clue 14: Sum of 4D, 9D, 15D, and 21A 16: The number of letters in each digit of 2D 17: Less than 20D 19: An integer 21: Digits strictly increasing Down: ---------------------------------------- 1: Sum of the digits of 10A 2: Largest digit in 9D, repeatedly sextupled 4: A triangular square number 6: A prime, though not in a pair of twins 8: Five lots of 5A divided by one lot of 1D 9: A prime number 11: Digits are unique powers of three 13: Multiple of three 15: A Fibonacci number 18: More than 8D 19: A square triangle number 20: Representation of 19A in base 13D"
+difficulty 2.0
+height 17
+id 29259
+link "https://webpbn.com/play.cgi?id=29259"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "A Seasonal Number"
+width 12
+
+rows
+4
+2,2
+1,1
+3,2
+1,1
+2,3
+1,1
+3,1,2
+1,1
+3,1,4
+1,1,1
+3,2,1,3
+1,1,1
+5,5
+1,1
+1,1
+6
+
+columns
+3
+3,1
+3,1,1
+3,3,1,4
+2,3,1,1,1,1
+1,1,3,1
+1,1,1,1,1
+2,3,1,1,1,1
+3,3,1,4
+3,1,1
+3,1
+3

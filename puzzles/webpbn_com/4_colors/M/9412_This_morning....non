@@ -1,0 +1,67 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jun 30, 2010"
+description "Coffee and strawberries :)"
+difficulty 1.75
+height 20
+id 9412
+link "https://webpbn.com/play.cgi?id=9412"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "This morning..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+0
+blue 8
+blue 2 blue 2
+blue 1 black 8 blue 2
+blue 2 black 6 blue 5
+blue 10 blue 2
+black 1 blue 7 blue 2 black 1 blue 2 black 11
+black 1 blue 2 blue 3 blue 1 blue 1 black 1 blue 2 black 11
+black 1 blue 1 blue 1 blue 3 blue 2 black 1 blue 2 black 8 red 2 black 1
+black 1 blue 2 blue 7 black 1 blue 2 black 6 red 5
+black 1 blue 4 blue 5 black 1 blue 2 black 3 blue 1 red 7
+black 1 blue 3 blue 1 blue 4 black 1 blue 2 black 2 blue 1 red 8
+black 1 blue 4 blue 8 black 1 blue 8 blue 1
+black 1 blue 7 blue 3 black 3 blue 4 blue 2 blue 1
+black 1 blue 6 blue 1 blue 1 black 5 blue 2 blue 1 blue 2 blue 1
+black 2 blue 6 blue 1 black 7 blue 2 blue 5
+black 25
+black 25
+
+columns
+black 1 black 12
+black 1 blue 13 black 3
+black 1 blue 2 black 1 blue 4 blue 7 black 2
+black 1 blue 1 black 2 blue 2 blue 1 blue 6 black 2
+black 1 blue 1 black 2 blue 3 blue 2 blue 4 black 2
+black 1 blue 1 black 2 blue 5 blue 1 blue 3 black 2
+black 1 blue 1 black 2 blue 6 blue 4 black 2
+black 1 blue 1 black 2 blue 2 blue 6 blue 1 black 2
+black 1 blue 1 black 2 blue 1 blue 1 blue 4 blue 1 black 2
+black 1 blue 2 black 1 blue 3 blue 6 blue 1 black 2
+black 1 blue 13 black 3
+black 1 blue 2 black 6 blue 2 black 4
+black 1 blue 9 black 5
+black 1 blue 9 black 5
+black 1 black 12
+black 1 black 6 blue 2 black 4
+black 1 black 5 blue 4 black 3
+black 1 black 4 blue 1 red 1 blue 4 black 2
+black 1 black 4 red 2 blue 2 blue 1 black 2
+black 1 black 4 red 2 blue 1 blue 1 black 2
+black 1 black 3 red 3 blue 2 blue 1 black 2
+black 1 black 3 red 3 blue 4 black 2
+black 1 black 2 red 4 blue 1 blue 2 black 2
+black 1 black 2 red 4 blue 1 blue 1 black 2
+black 1 black 3 red 3 blue 1 blue 2 black 2

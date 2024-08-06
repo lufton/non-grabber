@@ -1,0 +1,61 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ant"
+date "Jan 18, 2010"
+description "I just thought the design looked cool but I guess if you consider the blue part the nucleus it turns into a helium atom. Yay for chemistry."
+difficulty 2.5
+height 20
+id 7617
+link "https://webpbn.com/play.cgi?id=7617"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "electronic"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+0
+black 3
+black 1 black 2 black 3
+black 2 black 2 black 3 black 1
+black 2 black 2 black 3 black 1
+black 2 blue 5 black 2
+black 2 blue 4 blue 2 black 2
+black 2 blue 4 blue 2 black 2
+black 2 blue 6 black 2
+blue 1 black 2 blue 4 black 2
+black 1 blue 2 black 2 blue 2 black 2 blue 1
+black 2 blue 3 black 3 blue 3 black 1
+black 2 blue 2 black 2 blue 3 black 2
+black 2 black 2 blue 2 black 1 blue 1 black 2
+black 1 black 2 black 2 black 2
+black 1 black 3 black 2 black 2
+black 3 black 2 black 1
+black 3
+0
+
+columns
+0
+0
+black 3 black 3
+black 1 black 3 black 2 black 1
+black 1 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 blue 3 black 2
+black 2 blue 2 black 2 blue 3 black 2
+black 1 blue 4 black 2 blue 2 black 1
+blue 5 black 3 blue 1
+blue 6 black 2 blue 1
+blue 1 blue 3 black 1 blue 1 black 1
+black 1 blue 2 blue 2 black 1 blue 3 black 1
+black 1 blue 3 black 2 blue 2 black 2
+black 2 blue 1 black 2 blue 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 1
+black 1 black 2 black 3 black 1
+black 3 black 3
+0

@@ -1,0 +1,57 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/17/14"
+height 17
+id 142538
+link "https://www.griddlers.net/nonogram/-/g/142538"
+medium_time "0:05:30"
+points 1893
+popularity 85.06
+title "Red Apple"
+width 17
+
+color a ffffff
+color b 453325
+color c ba432b
+color d e9e0b7
+color e c9b873
+color f 9b574a
+
+rows
+b 2
+b 2
+c 5 b 1 c 3
+c 5 d 2 c 1 d 3 c 2
+c 2 c 2 d 3 e 1 d 5 c 1
+c 1 c 2 d 4 e 1 d 5 c 1
+c 2 c 2 d 4 e 1 d 6 c 1
+c 5 d 4 e 2 d 5 c 1
+f 1 c 4 d 3 e 2 b 1 e 1 d 4 c 1
+f 1 c 4 d 2 e 1 b 1 e 1 b 1 e 1 d 4 c 1
+f 1 c 4 d 2 e 1 b 1 e 2 d 5 c 1
+f 2 c 3 d 3 e 2 d 6 c 1
+f 2 c 2 d 4 e 1 d 5 c 1
+f 3 c 2 d 3 e 1 d 5 c 1
+f 3 c 2 d 2 e 1 d 4 c 1
+f 4 c 1 d 1 e 1 d 2 c 2
+f 7
+
+columns
+c 2 f 4
+c 7 f 3
+c 2 c 5 f 3
+c 1 c 8 f 3
+c 12 f 2
+c 3 d 8 c 2 f 2
+c 2 d 10 c 1 f 2
+b 1 c 1 d 6 e 2 d 4 c 1 f 1
+b 2 c 1 d 5 e 1 b 2 e 1 d 4 f 1
+b 2 c 1 e 12 f 1
+c 1 d 4 e 1 b 2 e 1 d 5 f 1
+c 1 d 5 e 2 d 6 f 1
+c 1 d 12 c 1
+c 1 d 11 c 1
+c 1 d 10 c 1
+c 2 d 6 c 2
+c 6

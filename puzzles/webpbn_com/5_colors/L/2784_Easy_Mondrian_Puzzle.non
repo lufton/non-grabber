@@ -1,0 +1,83 @@
+by "Jane Doe (telly)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jane Doe"
+date "May 17, 2008"
+description "This puzzle is similar to a painting by Piet Mondrian. It's VERY simple to do, I know, but, I like his simplicity. :D"
+difficulty 1.0
+height 30
+id 2784
+link "https://webpbn.com/play.cgi?id=2784"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Easy Mondrian Puzzle"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 10 red 20
+black 10 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 1 red 20
+black 30
+blue 9 black 1 black 1
+blue 9 black 1 black 1
+blue 9 black 1 black 1
+blue 9 black 1 black 1
+blue 9 black 1 black 4
+blue 9 black 1 black 1 green 3
+blue 9 black 1 black 1 green 3
+blue 9 black 1 black 1 green 3
+blue 9 black 1 black 1 green 3
+
+columns
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 2 black 1 blue 9
+black 30
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 1
+red 20 black 10
+red 20 black 1 black 1 green 4
+red 20 black 1 black 1 green 4
+red 20 black 1 black 1 green 4

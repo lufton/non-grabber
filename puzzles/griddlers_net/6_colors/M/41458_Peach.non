@@ -1,0 +1,63 @@
+by "cpt"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/10/07"
+height 20
+id 41458
+link "https://www.griddlers.net/nonogram/-/g/41458"
+medium_time "0:05:41"
+points 650
+popularity 64.53
+title "Peach"
+width 20
+
+color a ffffff
+color b 000000
+color c 008000
+color d 009933
+color e ff9933
+color f ffcc99
+
+rows
+b 1
+b 2 c 1 d 4
+b 1 c 3 d 5
+e 6 c 3 d 4
+e 9 c 4 d 3
+e 11 c 4 d 3
+e 8 f 2 e 4 c 2 d 3
+e 10 f 1 e 5 d 1
+e 10 f 2 e 1 f 4
+e 10 f 7
+e 10 f 7
+e 11 f 6
+e 11 f 6
+e 11 f 5
+e 12 f 4
+e 12 f 3
+e 11 f 2
+e 10 f 1
+e 9
+e 7
+
+columns
+e 8
+e 10
+e 12
+e 14
+e 15
+e 17
+b 1 e 17
+b 3 e 17
+e 17
+c 1 e 3 f 1 e 13
+c 2 e 3 f 5 e 9
+d 1 c 2 e 4 f 6 e 6
+d 2 c 2 e 4 f 6 e 4
+d 2 c 3 e 2 f 10
+d 3 c 2 e 2 f 9
+d 2 c 3 e 1 f 8
+d 3 c 2 f 5
+d 4
+d 4
+d 2

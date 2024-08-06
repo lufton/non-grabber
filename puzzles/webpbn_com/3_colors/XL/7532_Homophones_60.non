@@ -1,0 +1,91 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Jan  1, 2010"
+description "Tack (thumb) and Tach (tachometer) and Tac (Tic-Tac-Toe). Three in one!"
+difficulty 2.0
+height 25
+id 7532
+link "https://webpbn.com/play.cgi?id=7532"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Homophones #60"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 2 black 1 black 1
+red 2 red 3 black 1 black 1
+red 7 black 1 black 1
+black 8 red 7 black 11
+red 7 black 1 black 1
+red 2 red 3 black 1 black 1
+red 2 black 1 black 1
+black 11
+red 11 black 1 black 1
+red 3 black 9 red 3 black 1 black 1
+red 3 black 5 black 6 red 3 black 1 black 1
+red 3 black 3 black 2 black 2 black 4 red 2
+red 2 black 5 black 2 black 2 black 5 red 2
+red 2 black 2 black 2 black 6 black 2 black 2 red 2
+red 1 black 3 black 12 black 3 red 2
+red 2 black 4 black 2 red 2 black 1 red 2 black 1 red 2 black 2 black 5 red 1
+red 1 black 1 black 6 red 2 black 1 red 2 black 1 red 2 black 6 black 1 red 2
+red 2 black 1 black 18 black 2 red 1
+red 1 black 3 black 18 black 3 red 2
+red 1 black 29 red 1
+red 1 black 1 black 9 black 8 black 2 red 1
+red 1 black 1 black 1 black 8 black 2 red 1
+red 1 black 13 black 13 red 1
+red 1 black 29 red 1
+
+columns
+0
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1 red 7
+red 5 red 3 black 6
+red 5 red 3 black 4 black 2
+red 3 red 2 black 2 black 2 black 2
+red 3 red 2 black 3 black 1 black 2
+red 5 red 1 black 5 black 5
+red 7 red 2 black 1 black 6 black 2
+red 7 red 1 black 2 black 5 black 2
+red 2 black 3 black 5 black 2
+red 1 black 11 black 2
+red 2 black 1 black 7 black 2
+red 1 black 2 black 1 red 2 black 4 black 2
+red 1 black 6 red 2 black 4 black 2
+red 1 black 12 black 2
+red 1 black 1 black 2 red 2 black 3 black 1
+red 1 black 1 black 2 red 2 black 3 black 1
+red 1 black 11 black 1
+red 1 black 6 red 2 black 7
+red 1 black 2 black 1 red 2 black 7
+red 1 black 2 black 10
+red 2 black 14
+red 1 black 4 black 8
+red 2 black 2 black 8
+red 1 black 2 black 9
+red 2 black 5 black 5
+black 1 black 1 red 2 black 3 black 1 black 2
+black 1 black 1 red 2 black 2 black 2 black 2
+black 1 black 1 red 2 black 5 black 2
+black 11 red 3 black 7
+black 1 black 1 red 3 black 5
+black 1 black 1 red 6
+black 1 black 1
+black 11
+black 1 black 1
+black 1 black 1
+black 1 black 1
+0

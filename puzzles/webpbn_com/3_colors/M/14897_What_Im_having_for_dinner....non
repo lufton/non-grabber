@@ -1,0 +1,61 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 24, 2011"
+description "Crab cakes! Lol, they look more like discolored burgers. :)"
+difficulty 1.5
+height 20
+id 14897
+link "https://webpbn.com/play.cgi?id=14897"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What I'm having for dinner..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 1
+black 14
+black 1 black 1
+black 1 red 2 red 2 black 1 red 1 black 1
+black 1 black 1 red 2 black 1 red 2 red 3 black 1
+black 1 red 2 black 1 red 3 black 1 red 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 1 red 1 red 2 black 1
+black 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 2 black 1
+black 1 red 4 red 2 black 1 red 4 black 1
+black 1 black 1 red 2 red 2 red 1 black 1 black 1
+black 1 black 1
+black 14
+black 1
+0
+0
+
+columns
+0
+black 16
+black 1 red 1 black 1
+black 1 red 1 black 1 red 1 red 2 black 1 black 1
+black 1 red 3 red 1 black 1 red 2 black 1
+black 1 red 1 black 1 red 3 black 1
+black 1 black 1
+black 1 red 1 red 2 black 1
+black 1 red 1 black 1 red 1 red 1 black 1 red 2 black 1
+black 1 red 3 red 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1
+black 1 red 2 black 1
+black 1 black 1 red 2 red 1 black 1 red 2 black 1
+black 1 red 2 black 1 red 3 black 1 black 1
+black 1 red 1 red 2 black 1
+black 12
+0
+0
+0
+0

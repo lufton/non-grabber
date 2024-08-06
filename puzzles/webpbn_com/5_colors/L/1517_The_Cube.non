@@ -1,0 +1,83 @@
+by "Craig Mellen (cmellen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Craig Mellen"
+date "Sep 28, 2007"
+description "A Rubik's Cube. I saw mine sitting on the desk so I decided to make a puzzle. This is probably pretty quick and easy, but enjoy."
+difficulty 1.75
+height 30
+id 1517
+link "https://webpbn.com/play.cgi?id=1517"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "The Cube"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 16
+black 1 blue 4 black 1 red 4 black 1 green 4 black 2
+black 1 blue 4 black 1 red 4 black 1 green 4 black 1 blue 1 black 1
+black 16 blue 2 black 1
+black 1 red 4 black 1 blue 4 black 1 red 4 black 2 blue 2 black 1
+black 1 red 4 black 1 blue 4 black 1 red 4 black 1 green 1 black 1 blue 2 black 1
+black 16 green 2 black 1 blue 1 black 2
+black 1 green 4 black 1 blue 4 black 1 green 4 black 2 green 2 black 2 blue 1 black 1
+black 1 green 4 black 1 blue 4 black 1 green 4 black 1 blue 1 black 1 green 2 black 1 blue 2 black 1
+black 16 blue 2 black 1 green 1 black 2 blue 2 black 1
+black 1 blue 4 black 1 green 4 black 1 red 4 black 1 blue 2 black 2 red 1 black 1 blue 2 black 1
+black 1 blue 4 black 1 green 4 black 1 red 4 black 1 blue 2 black 1 red 2 black 1 blue 1 black 2
+black 1 blue 4 black 1 green 4 black 1 red 4 black 1 blue 1 black 2 red 2 black 2 red 1 black 1
+black 1 blue 4 black 1 green 4 black 1 red 4 black 2 green 1 black 1 red 2 black 1 red 2 black 1
+black 16 green 2 black 1 red 1 black 2 red 2 black 1
+black 1 red 4 black 1 green 4 black 1 blue 4 black 1 green 2 black 2 blue 1 black 1 red 2 black 1
+black 1 red 4 black 1 green 4 black 1 blue 4 black 1 green 2 black 1 blue 2 black 1 red 1 black 1
+black 1 red 4 black 1 green 4 black 1 blue 4 black 1 green 1 black 2 blue 2 black 2
+black 1 red 4 black 1 green 4 black 1 blue 4 black 2 red 1 black 1 blue 2 black 1
+black 16 red 2 black 1 blue 1 black 1
+black 1 red 4 black 1 green 4 black 1 green 4 black 1 red 2 black 2
+black 1 red 4 black 1 green 4 black 1 green 4 black 1 red 2 black 1
+black 1 red 4 black 1 green 4 black 1 green 4 black 1 red 1 black 1
+black 1 red 4 black 1 green 4 black 1 green 4 black 2
+black 16
+0
+0
+
+columns
+0
+0
+black 16
+black 2 blue 4 black 1 red 4 black 1 red 4 black 1
+black 1 green 1 black 1 blue 4 black 1 red 4 black 1 red 4 black 1
+black 1 green 2 black 1 blue 4 black 1 red 4 black 1 red 4 black 1
+black 2 green 2 black 1 blue 4 black 1 red 4 black 1 red 4 black 1
+black 1 red 1 black 1 green 2 black 16
+black 1 red 2 black 1 green 1 black 2 green 4 black 1 green 4 black 1 green 4 black 1
+black 2 red 2 black 2 blue 1 black 1 green 4 black 1 green 4 black 1 green 4 black 1
+black 1 blue 1 black 1 red 2 black 1 blue 2 black 1 green 4 black 1 green 4 black 1 green 4 black 1
+black 1 blue 2 black 1 red 1 black 2 blue 2 black 1 green 4 black 1 green 4 black 1 green 4 black 1
+black 1 blue 2 black 2 blue 1 black 1 blue 2 black 16
+black 1 blue 2 black 1 blue 2 black 1 blue 1 black 2 red 4 black 1 blue 4 black 1 green 4 black 1
+black 1 blue 1 black 2 blue 2 black 2 green 1 black 1 red 4 black 1 blue 4 black 1 green 4 black 1
+black 2 red 1 black 1 blue 2 black 1 green 2 black 1 red 4 black 1 blue 4 black 1 green 4 black 1
+black 1 red 2 black 1 blue 1 black 2 green 2 black 1 red 4 black 1 blue 4 black 1 green 4 black 1
+black 1 red 2 black 2 red 1 black 1 green 2 black 16
+black 1 red 2 black 1 red 2 black 1 green 1 black 1 blue 4 black 1 green 4 black 1 red 4 black 1
+black 1 red 1 black 2 red 2 black 2 blue 4 black 1 green 4 black 1 red 4 black 1
+black 2 green 1 black 1 red 2 black 16
+black 1 green 2 black 1 red 1 black 1 green 4 black 1 red 4 black 1 blue 4 black 1
+black 1 green 2 black 2 green 4 black 1 red 4 black 1 blue 4 black 1
+black 1 green 2 black 16
+black 1 green 1 black 1 blue 4 black 1 blue 4 black 1 red 4 black 1
+black 2 blue 4 black 1 blue 4 black 1 red 4 black 1
+black 16
+0
+0
+0

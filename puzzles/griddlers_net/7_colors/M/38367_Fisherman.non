@@ -1,0 +1,64 @@
+by "c_stenersen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/24/06"
+height 20
+id 38367
+link "https://www.griddlers.net/nonogram/-/g/38367"
+medium_time "0:04:58"
+points 2486
+popularity 48.7
+title "Fisherman"
+width 20
+
+color a ffffff
+color b ff0000
+color c 009999
+color d 0000ff
+color e fffe5b
+color g 808080
+color h 660000
+
+rows
+h 4
+h 6
+e 4
+d 1 e 3
+g 2 e 5
+g 2 b 1 e 3
+g 3 e 1
+g 1 g 2 e 1 c 1 e 1
+g 1 g 2 e 1 c 1 e 1
+g 1 g 2 c 1 e 2
+g 1 g 2 c 2 e 3
+g 1 g 2 b 3
+g 1 b 3 h 2
+g 1 b 1 h 3
+g 1 b 1 h 7
+g 1 b 1 h 8
+g 1 d 2 d 3 b 2 h 9
+g 1 d 1 g 1 d 5 h 8 c 4
+g 2 d 3 h 9 c 6
+d 1 h 5 c 14
+
+columns
+g 15 d 1
+g 3 d 2 g 1 h 1
+g 2 d 1 g 1 d 1 h 1
+g 2 d 2 h 1
+g 2 d 3 h 1
+g 2 d 2 h 2
+g 1 d 2 h 1 c 1
+c 1 g 1 d 1 h 1 c 1
+h 1 e 1 c 1 g 1 h 2 c 1
+h 2 e 1 d 1 e 1 b 1 e 2 c 1 e 1 b 2 b 1 h 2 c 1
+h 2 e 5 c 2 e 2 b 6 h 2 c 1
+h 2 e 4 e 4 b 2 h 3 c 1
+h 2 e 4 h 4 c 1
+h 1 h 5 c 1
+h 4 c 2
+h 4 c 2
+h 3 c 3
+h 4 c 3
+h 5 c 3
+h 5 c 3

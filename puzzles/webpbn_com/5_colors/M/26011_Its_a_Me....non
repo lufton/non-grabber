@@ -1,0 +1,63 @@
+by "Isabella Russell (Shimeree)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Isabella Russell"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 26011
+link "https://webpbn.com/play.cgi?id=26011"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "It's a Me..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 1 black 1 red 10 black 1 green 1 black 1
+green 1 blue 1 green 1 blue 1 red 12 blue 1 green 1 blue 1 green 1
+green 1 red 14 green 1
+blue 1 red 16 blue 1
+black 1 red 18 black 1
+red 5 red 6 red 5
+red 5 red 4 red 5
+red 5 red 2 red 5
+red 5 red 1 red 1 red 5
+red 5 red 2 red 2 red 5
+red 5 red 6 red 5
+red 5 red 6 red 5
+red 5 red 6 red 5
+red 5 red 6 red 5
+red 5 red 6 red 5
+black 1 red 18 black 1
+blue 1 red 16 blue 1
+green 1 red 14 green 1
+green 1 blue 1 green 1 blue 1 red 12 blue 1 green 1 blue 1 green 1
+black 1 green 1 black 1 red 10 black 1 green 1 black 1
+
+columns
+black 1 green 1 black 1 red 10 black 1 green 1 black 1
+green 1 blue 1 green 1 blue 1 red 12 blue 1 green 1 blue 1 green 1
+green 1 red 14 green 1
+blue 1 red 16 blue 1
+black 1 red 18 black 1
+red 5 red 5
+red 5 red 5
+red 6 red 12
+red 7 red 11
+red 8 red 10
+red 8 red 10
+red 7 red 11
+red 6 red 12
+red 5 red 5
+red 5 red 5
+black 1 red 18 black 1
+blue 1 red 16 blue 1
+green 1 red 14 green 1
+green 1 blue 1 green 1 blue 1 red 12 blue 1 green 1 blue 1 green 1
+black 1 green 1 black 1 red 10 black 1 green 1 black 1

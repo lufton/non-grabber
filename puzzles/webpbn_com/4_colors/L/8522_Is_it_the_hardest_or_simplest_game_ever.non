@@ -1,0 +1,77 @@
+by "Mallory (goalie_31)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Mallory"
+date "Apr 22, 2010"
+description "Rubik's Cube. Some people are never able to solve it and yet others can solve it within minutes."
+difficulty 2.75
+height 30
+id 8522
+link "https://webpbn.com/play.cgi?id=8522"
+note "published,definitely unique,may require some guessing"
+quality 3.25
+title "Is it the hardest or simplest game ever?"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 3
+black 2 black 2
+black 3 black 3
+black 2 black 2 black 2 black 2
+black 3 black 3 black 3
+black 2 black 2 black 2 black 2 black 2 black 2
+black 1 black 3 black 3 black 1
+black 3 black 2 black 2 black 2 black 2 black 3
+black 1 red 2 black 2 black 3 black 2 blue 2 black 1
+black 1 red 3 black 3 black 2 black 2 black 3 blue 3 black 1
+black 1 red 3 black 1 red 2 black 2 black 2 blue 2 black 1 blue 3 black 1
+black 1 red 3 black 1 red 3 black 3 black 3 blue 3 black 1 blue 3 black 1
+black 3 red 1 black 1 red 3 black 1 red 2 black 3 blue 2 black 1 blue 3 black 1 blue 1 black 3
+black 1 red 2 black 2 red 3 black 1 red 3 black 1 blue 3 black 1 blue 3 black 2 blue 2 black 1
+black 1 red 3 black 3 red 1 black 1 red 3 black 1 blue 3 black 1 blue 1 black 3 blue 3 black 1
+black 1 red 3 black 1 red 2 black 2 red 3 black 1 blue 3 black 2 blue 2 black 1 blue 3 black 1
+black 1 red 3 black 1 red 3 black 3 red 1 black 1 blue 1 black 3 blue 3 black 1 blue 3 black 1
+black 3 red 1 black 1 red 3 black 1 red 2 black 3 blue 2 black 1 blue 3 black 1 blue 1 black 3
+black 1 red 2 black 2 red 3 black 1 red 3 black 1 blue 3 black 1 blue 3 black 2 blue 2 black 1
+black 1 red 3 black 3 red 1 black 1 red 3 black 1 blue 3 black 1 blue 1 black 3 blue 3 black 1
+black 1 red 3 black 1 red 2 black 2 red 3 black 1 blue 3 black 2 blue 2 black 1 blue 3 black 1
+black 1 red 3 black 1 red 3 black 3 red 1 black 1 blue 1 black 3 blue 3 black 1 blue 3 black 1
+black 2 red 1 black 1 red 3 black 1 red 2 black 3 blue 2 black 1 blue 3 black 1 blue 1 black 2
+black 2 red 3 black 1 red 3 black 1 blue 3 black 1 blue 3 black 2
+black 2 red 1 black 1 red 3 black 1 blue 3 black 1 blue 1 black 2
+black 2 red 3 black 1 blue 3 black 2
+black 2 red 1 black 1 blue 1 black 2
+black 3
+0
+
+columns
+black 16
+black 1 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 16
+black 2 black 1 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 1 black 1 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 2 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 1 black 16
+black 2 black 2 black 1 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 2 black 2 black 1 red 4 black 1 red 4 black 1 red 4 black 1
+black 1 black 1 black 1 black 16
+black 1 black 2 black 2 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 2 black 2 black 1 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 1 black 1 black 16
+black 1 black 2 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 1 black 1 black 1 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 2 black 1 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 1 black 16
+black 1 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 1 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 1 black 1 blue 4 black 1 blue 4 black 1 blue 4 black 1
+black 16

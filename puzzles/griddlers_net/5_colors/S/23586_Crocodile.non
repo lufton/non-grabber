@@ -1,0 +1,52 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/28/05"
+height 15
+id 23586
+link "https://www.griddlers.net/nonogram/-/g/23586"
+medium_time "0:04:45"
+points 2145
+popularity 66.25
+title "Crocodile"
+width 15
+
+color a ffffff
+color b 000000
+color c 00b900
+color d d5d100
+color e ffff00
+
+rows
+b 1 b 3
+b 1 c 1 b 2 c 1 b 3
+b 1 c 2 c 1 b 1
+b 4 c 1 b 1 c 2 b 1 c 1 b 1
+b 1 c 13 b 1
+c 10 b 3 c 1 b 1
+b 10 d 2 e 1 b 1 c 1
+b 1 d 8 e 3 b 1 c 1
+b 2 e 9 b 1 c 1
+b 3 e 4 b 1 c 1
+b 1 e 1 b 1 c 1
+b 1 e 3 b 1 c 1
+b 1 e 1 e 1 b 1 c 1
+b 1 e 4 b 1 c 2
+b 1 b 1 c 3
+
+columns
+b 1 c 1 b 1
+b 1 c 2 b 2
+b 1 c 2 b 1 d 1 b 1
+b 1 c 2 b 1 d 1 b 1
+b 1 c 2 b 1 d 1 e 1 b 1
+b 2 c 3 b 1 d 1 e 1 b 1
+b 1 c 1 b 1 c 2 b 1 d 1 e 1 b 1 b 1
+b 1 c 2 b 1 d 1 e 2 b 4
+b 1 c 4 b 1 d 1 e 2 e 2
+b 1 c 5 b 1 d 1 e 2 e 1 e 1
+b 2 b 1 c 1 b 1 d 1 e 3 e 1 e 1
+b 2 c 1 b 1 d 1 e 2 e 1 e 1 b 1
+b 1 c 3 b 1 e 3 e 1 e 1 b 1 c 1
+b 2 c 2 b 7 c 2
+b 2 c 9

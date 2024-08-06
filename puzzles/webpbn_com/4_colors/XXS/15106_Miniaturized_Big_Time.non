@@ -1,0 +1,32 @@
+by "Alison Deem (Indigo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alison Deem"
+date "Oct 23, 2011"
+description "It's a gorilla."
+difficulty 1.0
+height 5
+id 15106
+link "https://webpbn.com/play.cgi?id=15106"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Miniaturized Big Time"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 1 black 1 blue 2
+blue 1 black 3 blue 1
+green 1 black 1 green 1 black 1 green 1
+green 5
+
+columns
+blue 1 blue 1 green 2
+blue 2 black 2 green 1
+blue 1 black 2 green 2
+blue 2 black 2 green 1
+blue 2 green 2

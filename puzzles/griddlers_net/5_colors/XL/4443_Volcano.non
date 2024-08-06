@@ -1,0 +1,85 @@
+by "TNT"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/14/03"
+height 31
+id 4443
+link "https://www.griddlers.net/nonogram/-/g/4443"
+medium_time "0:31:46"
+points 75416
+popularity 64.06
+title "Volcano"
+width 32
+
+color a ffffff
+color b ff0000
+color c 000000
+color d 7b7b7b
+color e 7b7b00
+
+rows
+b 1 b 3
+b 1 b 2 b 1 b 3
+b 7 b 1 b 4
+b 4 b 1 b 3
+b 4 b 1 b 3 b 2 b 2
+b 3 b 1 b 2 b 7
+b 12 b 1 b 1 b 6
+b 10 b 5 b 6
+b 9
+b 4 c 3 b 1 c 3 b 6
+b 2 c 1 c 3 b 1 c 2 b 2
+b 4 c 2 b 5 c 1 b 3
+b 3 c 2 b 6 c 2 b 3
+b 2 c 1 d 1 b 1 e 1 b 4 e 1 c 2 b 3
+c 1 d 1 b 1 e 2 b 3 e 2 c 1
+c 2 e 1 b 1 e 2 b 3 e 2 c 1
+c 1 e 1 b 1 d 1 e 3 b 1 e 2 c 2
+c 2 d 1 e 1 b 1 d 2 e 2 b 1 e 2 b 1 c 2
+c 1 d 2 e 1 b 1 d 3 e 1 b 1 e 2 b 1 e 1 c 2
+c 1 d 1 e 2 b 1 d 3 e 1 b 1 e 2 b 1 e 2 c 2
+c 2 e 3 b 1 d 3 e 1 b 1 e 3 b 1 e 2 c 1
+c 2 e 1 d 1 e 1 b 1 d 2 e 2 b 1 e 4 b 1 e 1 c 2
+c 1 d 1 e 1 d 2 b 1 d 2 e 2 b 1 e 1 d 1 e 3 b 2 c 3
+c 2 d 1 e 2 d 1 b 1 e 1 d 2 e 2 b 1 e 2 d 1 e 3 b 3 c 2
+c 1 d 1 e 1 d 2 b 1 e 1 d 1 e 4 b 1 e 1 d 1 e 7 c 2
+c 2 d 1 e 2 d 1 b 1 d 1 e 1 d 1 e 2 d 1 e 1 b 1 e 2 d 2 e 6 c 1
+c 2 d 1 e 1 d 1 b 1 d 4 e 1 d 2 e 4 d 3 e 5 c 2
+c 2 d 2 e 1 d 6 e 1 d 3 e 1 d 5 e 6 c 1
+c 2 d 26 c 2
+c 1 d 29 c 1
+c 32
+
+columns
+b 1 c 3
+b 1 b 1 b 1 c 2 c 1
+b 1 b 1 b 2 c 2 d 1 c 1
+b 1 b 1 b 2 c 2 d 1 c 1
+b 1 b 2 b 2 c 3 d 2 c 1
+b 1 b 2 b 1 c 3 d 3 c 1
+b 2 b 2 b 2 c 2 d 5 c 1
+b 1 b 2 b 2 c 4 d 2 e 3 d 2 c 1
+b 4 b 2 b 1 c 3 d 1 e 3 d 4 c 1
+b 2 b 2 b 1 c 4 d 2 e 4 d 2 b 1 d 3 c 1
+b 6 c 2 d 2 e 2 d 4 b 1 d 4 c 1
+b 5 c 3 d 2 e 7 d 1 b 2 d 5 c 1
+b 4 c 1 b 11 e 3 d 4 c 1
+b 2 c 2 b 2 e 3 d 14 c 1
+b 2 c 1 b 3 e 3 d 7 e 4 d 2 c 1
+b 6 c 2 b 5 e 2 d 3 e 5 d 4 c 1
+b 2 c 1 b 6 e 9 d 5 c 1
+b 2 c 2 b 13 e 3 d 3 c 1
+b 1 b 4 c 3 e 11 b 2 e 2 d 2 c 1
+b 2 b 2 b 1 c 2 e 8 d 1 e 4 d 3 c 1
+b 1 b 1 c 4 b 3 e 3 d 2 e 2 d 3 c 1
+b 3 b 1 b 2 c 2 e 2 b 1 e 4 d 5 c 1
+b 3 b 1 b 3 c 2 e 2 b 1 e 3 d 5 c 1
+b 2 b 2 b 1 b 1 c 2 e 2 b 1 e 3 d 4 c 1
+b 2 b 3 b 1 b 2 c 3 b 2 e 4 d 2 c 1
+b 2 b 4 b 1 b 1 c 2 b 1 e 4 d 2 c 1
+b 2 b 4 b 2 c 1 b 1 e 4 d 2 c 1
+b 1 b 1 b 1 b 1 c 2 e 4 d 2 c 1
+b 1 b 1 b 1 c 2 e 3 d 2 c 1
+b 1 b 1 c 3 e 1 d 2 c 1
+b 1 c 3 d 1 c 1
+b 1 c 3

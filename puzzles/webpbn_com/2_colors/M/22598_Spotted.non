@@ -1,0 +1,57 @@
+by "Horace (horace)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Horace"
+date "Aug 14, 2013"
+description "Shining flashlight on the cat."
+difficulty 1.5
+height 20
+id 22598
+link "https://webpbn.com/play.cgi?id=22598"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Spotted!"
+width 20
+
+rows
+20
+5,1,3,6
+4,1,1,1,1,4
+3,1,3,1,3
+2,1,1,1,2
+1,7,1
+1,1
+1,1,1,4,1
+1,3,3,1,1
+1,1,6,2,1
+1,10,1
+1,9,1
+1,3,3,1
+1,2,2,1
+1,2,2,1
+2,3,2,2
+3,12,3
+4,4
+5,5
+20
+
+columns
+20
+5,5
+4,4
+3,3
+2,4,1,2
+1,1,2,2,1
+1,10,1
+1,8,1
+6,5,1,1
+1,1,4,1,1
+4,1,4,1,1
+2,3,4,1,1
+4,1,7,1
+1,1,8,1
+6,3,1,1
+2,1,1,2
+3,1,3
+4,1,4
+5,5
+20

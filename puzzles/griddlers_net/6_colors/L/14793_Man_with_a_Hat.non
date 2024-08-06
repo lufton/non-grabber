@@ -1,0 +1,83 @@
+by "bracha1111"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/7/04"
+height 30
+id 14793
+link "https://www.griddlers.net/nonogram/-/g/14793"
+medium_time "0:08:54"
+points 8054
+popularity 50.0
+title "Man with a Hat"
+width 30
+
+color a ffffff
+color d 0000ff
+color e f2c4a9
+color f 9d8e23
+color g 808080
+color h 000000
+
+rows
+0
+h 20
+h 18
+h 16
+h 14
+f 2 h 12 f 2
+f 1 e 2 h 10 e 2 f 1
+f 2 f 1 e 14 f 1 f 2
+f 1 e 1 f 2 e 2 g 3 e 4 g 3 e 2 f 2 e 1 f 1
+f 1 e 5 h 1 e 6 h 1 e 5 f 1
+f 1 e 3 g 3 e 4 g 3 e 3 f 1
+f 1 e 6 g 2 e 6 f 1
+f 1 e 6 g 2 e 6 f 1
+f 1 e 5 g 4 e 5 f 1
+f 1 e 14 f 1
+f 1 e 12 f 1
+f 1 e 3 g 5 e 2 f 1
+f 1 e 3 g 3 e 2 f 1
+f 1 e 8 f 1
+f 1 e 8 f 1
+d 8 f 2 e 4 f 2 d 8
+d 4 d 3 f 4 d 3 d 4
+d 4 d 6 d 4
+d 3 g 1 d 2 g 1 d 3
+d 3 d 1 g 1 d 2 g 1 d 1 d 3
+d 3 d 1 g 1 d 2 g 1 d 1 d 3
+d 3 d 2 g 1 d 2 g 1 d 2 d 3
+d 3 d 2 g 1 d 2 g 1 d 2 d 3
+d 3 d 2 g 1 d 2 g 1 d 2 d 3
+d 3 d 2 g 1 d 2 g 1 d 2 d 3
+
+columns
+0
+0
+d 8
+d 9
+d 10
+f 2 d 3
+h 1 f 1 e 1 f 1 d 2
+h 2 f 1 e 1 f 1 d 1 d 6
+h 3 f 4 e 2 f 4 d 1 d 4
+h 4 f 1 e 9 f 1 d 1
+h 5 e 10 f 1 d 1
+h 6 e 1 g 1 e 1 g 1 e 6 f 3 d 2
+h 6 e 1 g 1 h 1 g 1 e 9 f 1 d 1
+h 6 e 1 g 1 e 1 g 1 e 9 f 1 d 2
+h 6 e 6 g 1 e 2 g 1 e 4 f 1 d 1 g 7
+h 6 e 4 g 3 e 2 g 2 e 3 f 1 d 8
+h 6 e 4 g 3 e 2 g 2 e 3 f 1 d 8
+h 6 e 6 g 1 e 2 g 2 e 3 f 1 d 1 g 7
+h 6 e 1 g 1 e 1 g 1 e 5 g 1 e 3 f 1 d 2
+h 6 e 1 g 1 h 1 g 1 e 9 f 1 d 1
+h 6 e 1 g 1 e 1 g 1 e 6 f 3 d 2
+h 5 e 10 f 1 d 1
+h 4 f 1 e 9 f 1 d 1
+h 3 f 4 e 2 f 4 d 1 d 4
+h 2 f 1 e 1 f 1 d 1 d 6
+h 1 f 1 e 1 f 1 d 2
+f 2 d 3
+d 10
+d 9
+d 8

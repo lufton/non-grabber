@@ -1,0 +1,62 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 15, 2011"
+description "Bee balm. Hummingbirds are attracted to it because of its bright color. It's a Ruby throated hummingbird that's in the picture."
+difficulty 1.5
+height 20
+id 14634
+link "https://webpbn.com/play.cgi?id=14634"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "In the Garden at the moment"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+green 2 green 2
+black 3 green 4
+red 1 red 1 red 1 green 3
+red 5
+red 5
+red 1 red 1 black 2 red 1
+red 1 black 1
+green 1
+green 1
+green 1
+green 1
+green 3
+green 4
+green 1
+green 1
+green 1
+green 1
+green 1
+
+columns
+red 1
+red 1
+red 1 red 1 red 1
+red 3
+red 2 black 2 green 11
+red 3 black 1 green 2
+red 1 red 1 green 2
+black 1 red 1 green 1
+black 1
+black 1
+green 2 red 1
+green 3
+green 2
+green 3
+green 1
+0
+0
+0
+0
+0

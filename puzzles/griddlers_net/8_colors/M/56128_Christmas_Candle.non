@@ -1,0 +1,78 @@
+by "goldana"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/30/07"
+height 37
+id 56128
+link "https://www.griddlers.net/nonogram/-/g/56128"
+medium_time "0:10:58"
+points 4234
+popularity 75.61
+title "Christmas Candle"
+width 16
+
+color a ffffff
+color b 3300cc
+color c 66ccff
+color d ff0000
+color e 00d700
+color f ffcc00
+color g ffffcc
+color h ffff33
+
+rows
+h 1
+h 3
+h 2 g 1 h 2
+h 2 g 3 h 2
+h 1 g 2 f 1 g 2 h 1
+h 1 g 1 f 3 g 1 h 1
+h 2 f 3 h 2
+h 2 b 1 h 2
+b 1
+c 3 b 1 c 3
+c 3 b 2 c 3
+b 1 h 1 b 3 c 2
+b 2 h 1 b 2 c 1
+b 3 h 1 b 1
+b 4 h 1
+h 1 b 4
+b 1 h 1 b 3
+b 2 h 1 b 2 e 1 e 2
+b 3 h 1 b 1 e 2
+b 4 h 1 e 1 e 2
+h 1 b 4 e 3
+e 1 b 1 h 1 b 3 e 2
+e 1 b 2 h 1 b 2 e 1 e 3
+e 2 b 3 h 1 b 1 e 2
+e 1 d 3 b 1 h 1 e 2 d 3
+d 5 b 1 e 1 d 5
+d 3 c 3 d 2 c 3 d 3
+d 2 c 3 b 1 d 2 b 1 c 3 d 2
+c 1 b 1 c 4 b 2 c 4 b 1 c 1
+c 2 b 1 c 3 b 2 c 3 b 1 c 2
+d 4 b 6 d 4
+d 2 b 3 d 2 c 3 d 2
+d 2 b 1 d 4 c 1 d 2
+d 8
+d 6
+d 4
+d 2
+
+columns
+0
+e 3 d 2 c 2 d 1
+h 4 c 2 e 2 d 3 b 1 c 1 d 2
+h 2 g 2 h 2 c 2 b 4 h 1 b 4 h 1 b 3 d 3 c 2 b 1 d 3
+h 2 g 2 f 2 h 1 c 2 h 1 b 4 h 1 b 4 h 1 b 2 d 2 c 4 d 1 b 1 d 2
+h 2 g 2 f 3 b 5 h 1 b 4 h 1 b 4 h 1 b 1 d 2 c 4 b 3 d 2
+h 2 g 2 f 2 h 1 c 1 b 3 h 1 b 4 h 1 b 4 h 1 b 1 d 1 c 1 b 1 c 2 b 2 d 4
+h 2 g 2 h 2 c 2 b 3 h 1 b 4 h 1 b 4 h 1 b 1 d 2 b 3 d 6
+h 4 c 4 e 1 e 2 d 2 b 3 d 6
+c 2 e 3 e 1 e 2 d 1 c 1 b 1 c 2 b 1 c 1 d 4
+e 1 e 2 e 1 d 2 c 4 b 1 c 2 d 2
+e 1 e 1 e 1 d 2 c 4 d 1 c 1 d 2
+e 1 e 1 e 1 d 3 c 2 b 1 d 3
+e 1 e 1 d 3 b 1 c 1 d 2
+e 1 d 2 c 2 d 1
+0

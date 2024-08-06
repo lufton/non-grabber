@@ -1,0 +1,61 @@
+by "engelbert heittler (engelbert)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by engelbert heittler"
+date "Nov  6, 2012"
+description "they are delicious"
+difficulty 1.25
+height 20
+id 20291
+link "https://webpbn.com/play.cgi?id=20291"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "i love black chicks"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 3
+black 2 red 2
+black 5
+black 3 black 2
+black 2 black 9
+black 3 black 6 red 2
+black 14 red 2
+black 15
+black 15
+black 14
+black 14
+black 12
+black 10
+black 3 red 1 black 2 red 1 black 2
+black 1 red 2 black 2 red 1 black 1
+red 1 red 1
+red 1 red 1
+red 2 red 2
+red 2 red 2
+
+columns
+0
+0
+black 5
+black 7
+black 7
+black 7
+black 8
+black 9
+black 8 red 4
+black 7 red 2 red 2
+black 11 red 1
+black 11
+black 10 red 5
+black 14 red 2
+red 1 black 13 red 1
+red 3 black 1 black 8
+red 2 black 3 red 2 black 4
+black 3 red 2
+black 1
+0

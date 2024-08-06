@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Dec 18, 2016"
+description "Rack"
+difficulty 2.5
+height 20
+id 28845
+link "https://webpbn.com/play.cgi?id=28845"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Nice"
+width 20
+
+rows
+1,1,1
+1,1,1,1,1,1,1
+3,1,1,3,3
+1,3,1,1
+1,1,5
+4,1
+1,5
+4,1
+4
+2
+4
+1,3
+6,1
+14
+2,10
+2,9
+1,9
+2,2
+1,1,1,1
+1,1,1,1
+
+columns
+3
+1
+5
+3
+3,1,1
+3,1
+2,2,4
+3,5
+8
+3,4
+2,1,4
+3,1,8
+3,1,1,5
+3,4,2
+1,4
+4,4
+1,4
+3,4,2
+5
+8

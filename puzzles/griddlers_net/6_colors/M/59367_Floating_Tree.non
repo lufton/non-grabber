@@ -1,0 +1,73 @@
+by "ashonemagi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/9/08"
+height 25
+id 59367
+link "https://www.griddlers.net/nonogram/-/g/59367"
+medium_time "0:15:13"
+points 14471
+popularity 67.4
+title "Floating Tree"
+width 25
+
+color a 33ccff
+color b 009933
+color c 00cc00
+color d 00ff00
+color e 00cc99
+color f 33ffff
+
+rows
+e 11 c 1 e 3 b 1 e 9
+e 5 b 1 e 3 c 1 d 1 b 1 e 4 b 1 e 1 d 1 c 1 e 5
+e 6 b 2 c 1 b 7 c 1 d 1 c 1 e 2 d 1 e 3
+e 2 d 4 b 3 c 2 d 2 b 3 d 2 b 2 d 1 e 4
+e 3 d 1 c 1 d 1 c 1 d 3 c 1 d 1 c 2 b 1 d 2 b 2 c 2 b 2 e 2
+e 1 c 6 b 2 d 2 b 1 c 3 d 2 c 2 b 4 e 2
+e 4 c 1 b 1 c 2 d 1 b 1 d 1 b 2 c 4 d 2 b 1 c 2 e 3
+e 5 d 4 c 3 b 1 d 1 b 2 c 1 b 1 d 4 e 3
+e 4 c 4 d 3 c 2 b 5 d 2 c 1 d 1 e 3
+e 2 b 3 c 1 b 3 d 1 b 1 c 2 d 1 c 2 b 1 d 1 c 3 e 2
+e 3 b 4 c 1 b 2 c 8 d 1 e 2
+e 4 b 4 c 2 d 1 c 1 e 4
+b 2 c 2 d 1
+b 2 c 2 d 1
+f 1 b 2 c 2 d 1
+f 2 b 2 c 2 d 1 f 1
+f 1 f 3 b 2 c 3 d 2 f 2
+f 1 f 3 b 4 c 4 d 2 f 1 f 2
+f 2 f 2 b 3 c 3 d 8 f 4
+f 2 f 1 b 3 c 2 d 11 f 4
+f 3 b 4 c 3 d 2 c 1 d 3 c 1 d 4 b 2 f 2
+f 2 b 5 c 6 d 2 c 1 b 1 c 1 d 1 c 3 b 2 f 1
+f 3 b 1 f 1 b 5 c 2 b 1 c 2 b 1 f 1 b 1 c 2 b 3 f 2
+f 6 b 2 f 1 b 3 f 1 b 3 f 2 b 3 f 4
+f 10 b 1 f 8 b 1 f 5
+
+columns
+e 9 f 8
+e 5 c 1 e 4 f 7
+e 3 d 1 e 1 c 1 e 5 f 1 b 1 f 3
+e 3 d 2 c 1 e 3 b 1 e 1 b 3 f 2
+e 3 d 1 c 3 e 1 c 1 b 1 e 1 f 2 b 2 f 3
+e 1 b 1 e 1 d 2 c 1 b 1 d 1 c 1 b 2 e 1 f 3 b 4 f 2
+e 2 b 2 c 3 d 1 c 2 b 1 e 1 f 1 b 6 f 1
+e 2 b 2 d 1 b 1 c 1 d 1 c 1 b 2 e 1 f 4 b 2 c 2 b 2 f 1
+e 2 c 1 b 1 d 1 b 1 d 3 b 2 e 1 f 2 b 2 c 3 b 1 f 2
+e 1 c 1 b 1 c 1 d 2 b 1 c 1 d 1 b 1 c 1 b 1 f 1 b 1 c 4 b 2 f 1
+e 1 d 1 b 1 c 2 d 2 c 1 d 2 b 2 b 2 c 1 d 2 c 2 b 2
+c 1 b 2 d 2 b 2 c 2 b 9 c 1 d 2 c 2 b 1 f 1
+e 2 b 1 d 1 c 2 b 2 c 3 b 5 c 2 d 2 c 2 b 1 f 2
+e 2 b 2 c 3 d 1 b 1 c 9 d 4 c 1 b 1 f 1
+e 2 b 3 c 2 b 2 d 1 c 8 d 4 c 1 b 1 f 1
+b 1 e 1 b 2 d 2 c 1 b 2 c 2 d 6 c 1 d 3 c 1 b 2 f 1
+e 1 b 1 c 1 d 3 c 2 b 1 c 3 d 4 c 1 b 1 f 3
+e 2 d 2 b 1 c 1 d 1 b 3 c 1 e 1 f 2 d 4 c 1 b 1 f 2
+e 1 d 1 c 1 b 2 c 1 d 4 c 1 e 1 f 2 d 4 c 1 b 1 f 1
+e 1 c 1 e 1 b 1 c 1 b 2 d 2 c 2 e 1 d 3 c 2 b 2
+e 3 d 1 c 1 b 1 c 1 d 1 c 2 d 1 e 1 f 1 d 2 c 1 b 2 f 1
+e 2 d 1 e 1 b 2 c 1 d 2 c 1 e 1 f 3 b 1 c 1 b 1 f 2
+e 4 b 2 e 5 f 3 b 3 f 2
+e 10 f 3 b 1 f 3
+e 9 f 6

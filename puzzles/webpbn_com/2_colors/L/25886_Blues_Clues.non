@@ -1,0 +1,77 @@
+by "Nina ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Nina"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 3.25
+height 30
+id 25886
+link "https://webpbn.com/play.cgi?id=25886"
+note "published,may be unique,may require deep lookahead"
+quality 2.75
+title "Blue's Clues"
+width 30
+
+rows
+2,2
+2,2,2,2
+2,2,2,2
+2,2,2,2
+2,2,3
+2,2,5
+2,3,2,7
+5,5
+7
+7,1
+5,3,1
+5,3
+5,5
+5,5
+5,5
+3,5
+2,3,2
+4,4
+4,4
+4,3,4
+4,5,4
+4,7,4
+2,9,2
+9
+11
+13
+13
+13
+11
+4,4
+
+columns
+3
+3
+2
+3,4
+3,5
+5
+3,5,5
+3,4,7
+2,7
+3,5
+3
+4,3
+6,5
+7,8
+6,9
+4,10
+11
+10
+11
+4,10
+2,6,9
+2,1,7,8
+2,3,6,5
+2,4,4,3
+4
+2,4,5
+2,3,7
+2,1,7
+2,5
+0

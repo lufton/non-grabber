@@ -1,0 +1,51 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/29/05"
+height 15
+id 27446
+link "https://www.griddlers.net/nonogram/-/g/27446"
+medium_time "0:03:41"
+points 338
+popularity 61.13
+title "Halloween"
+width 15
+
+color a ffffff
+color b ff9100
+color c 00ce00
+color h 000000
+
+rows
+c 2
+c 2
+c 6
+c 2 b 1 c 2 b 1 c 2
+b 4 c 1 b 4
+b 3 h 1 b 3 h 1 b 3
+b 3 h 2 b 3 h 2 b 3
+b 4 h 1 b 3 h 1 b 4
+b 7 h 1 b 7
+b 6 h 3 b 6
+b 15
+b 4 h 1 b 1 h 1 b 1 h 1 b 1 h 1 b 4
+b 4 h 5 b 4
+b 5 h 1 b 5
+b 9
+
+columns
+b 5
+b 7
+b 9
+c 1 b 11
+c 2 b 2 h 2 b 3 h 1 b 3
+c 1 b 2 h 2 b 4 h 1 b 2
+c 4 b 5 h 1 b 1 h 2 b 2
+c 5 b 3 h 2 b 2 h 2 b 1
+c 1 b 6 h 1 b 1 h 2 b 2
+c 2 b 1 h 2 b 4 h 1 b 2
+c 1 b 2 h 2 b 3 h 1 b 3
+b 11
+b 9
+b 7
+b 5

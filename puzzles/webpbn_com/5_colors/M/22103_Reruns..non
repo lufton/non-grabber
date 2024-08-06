@@ -1,0 +1,73 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "Jun  8, 2013"
+description "I'm out of ideas for new puzzles right now,so I thought I would do a series of reruns of all my past series puzzles. We will go back to my very first series titled "I can remember". I can remember as a kid going to the annual church bizarre and playing the fish pond game. The same old guy that ran that booth,always smoked a big cigar."
+difficulty 2.0
+height 20
+id 22103
+link "https://webpbn.com/play.cgi?id=22103"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Reruns."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4
+red 4
+red 8
+blue 1
+blue 1 green 1 blue 1 blue 1 blue 1
+blue 2 green 1
+blue 2 green 1
+blue 2 green 1 red 1 black 4 green 1
+blue 2 green 1 green 3
+blue 2 green 1 green 7
+black 3 blue 2 black 5 green 1 black 15
+black 2 blue 2 red 3 green 1 black 2
+black 2 blue 2 red 5 green 1 red 2 black 3
+black 2 blue 2 red 5 green 1 red 4 black 2 black 1
+black 2 blue 2 red 7 red 2 black 2 black 1
+black 1 blue 2 red 10 black 2 black 1
+black 1 blue 2 black 22 black 1
+blue 2 black 1 black 1
+blue 1 black 1 black 1
+black 1 black 1
+
+columns
+black 3 blue 2
+black 2 blue 2
+black 2 blue 2
+black 2 blue 2 black 1
+black 2 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+blue 2 black 1
+blue 2 red 2 black 1
+blue 2 black 1 red 3 red 1 black 1
+blue 2 black 1 red 5 black 1
+blue 2 black 1 red 4 black 1
+blue 2 black 1 red 4 black 1
+blue 2 black 1 red 3 black 1
+blue 1 green 10 red 2 black 1
+blue 1 black 1 red 3 black 1
+black 1 red 4 black 1
+red 1 black 1 red 2 red 1 black 1
+red 1 black 1 black 1 red 3 black 1
+red 1 black 1 black 1 red 1 black 1
+red 3 blue 1 black 1 green 1 black 1 black 1
+red 3 black 1 green 1 black 1 black 1
+red 3 blue 1 green 1 black 1 black 1
+red 3 green 2 black 1 black 4
+red 1 green 3 black 1 black 2
+red 1 green 2 black 1 black 2
+green 1 black 1 black 2
+black 1 black 2
+black 3
+black 10

@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Apr  7, 2017"
+description "a bidet makes"
+difficulty 2.0
+height 15
+id 29611
+link "https://webpbn.com/play.cgi?id=29611"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "What a bidifference..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1
+blue 3
+blue 2 blue 2
+blue 2 blue 1
+blue 2 blue 1
+black 14
+black 12
+black 12
+black 10
+black 10
+black 7
+black 6
+black 5
+black 10
+black 10
+
+columns
+0
+black 1
+black 3
+black 5 black 2
+blue 1 black 5 black 2
+blue 2 black 6 black 2
+blue 2 black 10
+blue 2 black 10
+blue 2 black 10
+blue 2 black 10
+blue 3 black 10
+black 7 black 2
+black 5 black 2
+black 3
+black 1

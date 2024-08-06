@@ -1,0 +1,61 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jun 30, 2014"
+description "Sorry Tom if this is a repeat."
+difficulty 2.0
+height 20
+id 24972
+link "https://webpbn.com/play.cgi?id=24972"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Rock Song 18"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 10
+black 12
+black 4 black 4
+black 4 black 4
+black 3 black 3
+black 2 black 3 black 3 black 2
+black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1
+black 2 black 3 black 3 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 8
+0
+
+columns
+0
+black 4
+black 12
+black 4 black 2
+black 4 black 2
+black 4 black 1 black 2
+black 3 black 1 green 1 black 1 black 2
+black 2 black 1 green 1 black 1 black 1
+black 2 black 1 green 1 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1
+black 2 black 1 black 1
+black 2 black 1 green 1 black 1 black 1
+black 3 black 1 green 1 black 1 black 2
+black 4 black 1 green 1 black 1 black 2
+black 4 black 1 black 2
+black 4 black 2
+black 12
+black 4
+0

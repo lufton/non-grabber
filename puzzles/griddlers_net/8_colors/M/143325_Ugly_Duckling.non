@@ -1,0 +1,65 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/28/14"
+height 20
+id 143325
+link "https://www.griddlers.net/nonogram/-/g/143325"
+medium_time "0:08:05"
+points 2915
+popularity 75.34
+title "Ugly Duckling"
+width 20
+
+color a 90f2c3
+color b cbccc7
+color c 1f1f1f
+color d a8a8a6
+color e ffffff
+color f c09644
+color g 8d8d85
+color h 606c9c
+
+rows
+b 3
+b 5
+b 3 c 2 d 1
+b 2 d 1 c 1 e 1 c 1 f 1
+b 1 d 3 f 4
+b 2 d 1
+b 2 d 2
+b 1 b 5 d 3
+b 2 b 1 d 2 b 3 d 1 g 1
+b 1 d 1 b 3 g 2 d 2 b 1 g 2
+b 2 d 1 g 1 b 3 g 3 d 1 b 3
+d 3 g 1 b 4 g 1 d 1 b 3
+d 3 g 1 b 9 d 1
+g 5 d 1 b 3 d 3
+g 1 d 4 b 2 d 2 g 2
+h 3 g 2 d 6 g 2 h 3
+h 5 g 8 h 5
+h 19
+h 18
+h 11
+
+columns
+h 1 h 1
+h 1 h 2
+h 4
+b 2 b 1 d 1 h 3
+b 3 d 2 h 3
+d 4 g 1 h 4
+b 1 b 1 g 1 d 1 g 4 h 4
+b 2 b 2 g 1 b 1 g 1 d 1 g 2 h 3
+b 6 g 1 d 2 g 1 h 3
+b 1 d 1 g 1 b 3 g 1 d 2 g 1 h 3
+b 1 d 1 g 2 b 2 d 3 g 1 h 3
+b 3 b 2 d 1 g 1 b 4 d 1 g 1 h 3
+b 6 b 1 d 1 g 2 b 3 d 1 g 1 h 3
+b 3 d 2 b 1 d 2 b 2 d 2 b 2 d 2 g 1 h 3
+b 2 c 2 d 5 g 1 b 3 d 2 g 2 h 3
+b 1 c 1 e 1 d 1 d 1 g 2 b 3 d 1 g 2 h 4
+d 1 c 1 f 1 b 2 d 2 g 1 h 3
+f 2 h 4
+f 1 h 4
+f 1 h 2

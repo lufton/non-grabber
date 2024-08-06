@@ -1,0 +1,120 @@
+by "memnune"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/30/07"
+height 50
+id 56112
+link "https://www.griddlers.net/nonogram/-/g/56112"
+medium_time "0:45:48"
+points 157243
+popularity 89.25
+title "Bambi"
+width 45
+
+color a 99cc00
+color b 000000
+color c 660000
+color d ffcc99
+color e ffffcc
+color f cc6600
+color g 663300
+color h ffffff
+
+rows
+b 4
+b 2 g 3 b 1
+b 2 g 2 c 1 g 3
+b 1 g 3 c 4 g 1 b 1
+b 1 g 2 c 6 g 1 c 1 b 1
+b 1 c 11 b 1
+b 1 c 12 b 1
+b 1 b 1 c 12 b 1
+b 3 b 1 c 13 b 1
+b 4 b 1 c 14 b 2
+b 1 d 1 b 1 e 1 b 2 b 1 c 16 b 2
+b 1 d 1 b 3 c 1 b 2 b 1 c 18 b 3
+b 1 d 2 b 2 c 3 b 3 c 21 b 2
+e 1 d 2 b 1 e 1 b 2 g 4 c 23 b 1
+e 1 d 2 e 2 b 2 g 5 c 23 b 2
+e 1 d 3 e 1 b 2 g 5 c 21 d 1 c 3 b 1
+e 1 d 3 e 1 b 2 g 6 c 20 d 1 c 4 b 1
+e 1 d 3 e 2 b 2 g 5 c 21 d 1 c 3 b 1
+e 1 d 4 e 1 b 2 g 5 c 5 d 1 c 15 d 1 c 4 b 1
+e 1 d 4 e 1 b 1 c 3 g 4 c 4 d 1 c 2 d 1 c 13 d 2 c 3 b 1
+e 3 d 2 e 1 b 1 c 4 g 3 c 3 d 1 c 2 d 2 c 1 d 1 c 16 b 1
+e 2 d 2 e 1 b 1 c 5 g 2 c 3 d 1 c 1 d 2 c 1 d 2 c 13 d 2 c 1 b 1
+e 5 b 1 c 12 d 1 c 1 d 1 c 2 e 6 c 10 f 1 g 1
+e 5 b 1 c 16 e 9 c 6 f 3 g 1
+e 2 b 1 c 15 e 12 c 1 f 6 g 1
+e 2 c 8 g 3 c 4 e 14 c 2 f 4 g 1
+e 1 c 7 g 2 f 1 g 1 c 4 e 15 c 1 f 4 g 1
+c 4 g 3 f 1 g 3 c 2 e 5 d 5 e 5 c 1 f 4 g 1
+g 2 f 1 g 1 f 1 c 1 g 1 f 2 g 1 c 2 e 4 d 3 b 3 d 1 e 4 c 1 f 3 g 1
+g 1 f 2 g 1 f 2 g 1 f 1 g 1 c 2 e 4 d 1 b 2 h 3 b 2 e 3 c 1 f 3 g 1
+g 1 f 3 c 1 f 1 c 1 f 1 g 3 e 2 b 3 h 4 f 3 b 1 e 2 c 1 f 2 g 1
+g 1 f 1 g 1 f 7 c 1 e 3 b 1 h 4 f 2 b 3 e 2 c 1 f 2 g 1
+g 2 f 1 g 1 f 7 c 1 e 2 b 1 h 3 f 2 b 4 e 2 c 1 f 2 g 1
+g 1 f 10 c 1 e 2 b 1 h 2 f 1 b 1 h 1 b 3 e 2 c 1 f 2 g 1
+c 1 g 2 f 10 c 1 e 2 b 1 h 1 f 1 b 5 e 1 c 2 f 2 g 1
+g 1 c 1 g 1 f 11 c 1 e 2 b 7 e 1 c 1 f 3 g 1
+g 2 c 1 g 1 f 12 c 11 f 4 g 1
+g 3 c 1 g 1 f 27 b 3
+g 3 c 1 g 2 f 25 c 1 b 5
+g 4 c 1 g 1 c 1 f 26 c 1 d 2 b 1 e 1 b 1 e 1 b 1
+c 1 g 4 c 1 g 2 f 7 g 2 f 17 c 1 d 4 b 4
+e 1 c 1 g 4 c 1 g 2 f 9 g 1 f 16 c 1 d 6 b 2
+g 1 f 1 c 1 g 1 e 4 f 10 g 6 e 1 f 9 c 1 d 7
+f 3 e 5 f 13 g 2 e 2 g 5 f 4 c 1 d 7
+f 3 e 2 f 13 g 3 e 4 g 1 g 5 d 5
+g 2 f 15 g 2 e 5 g 1 g 1 d 2 g 2
+g 1 f 15 g 2 e 5 g 1 g 2 d 2
+e 1 g 1 f 13 g 2 e 5 g 1
+e 1 g 1 f 12 g 2 e 4 g 2
+e 1 g 1 f 12 g 1 e 4 g 2
+
+columns
+b 5 e 8 c 1 g 5 c 1 e 1 g 1 f 2 g 2 e 3
+b 3 d 10 e 4 c 1 g 5 c 1 f 3 g 1 f 1 g 3
+b 4 d 8 e 4 c 1 g 5 c 1 f 7
+b 1 e 1 b 3 e 1 d 7 e 2 c 2 g 4 e 2 f 5
+b 3 e 5 d 4 e 4 c 1 g 2 e 3 f 5
+b 1 c 2 b 4 e 10 c 1 g 1 e 2 f 6
+b 1 c 1 b 12 c 2 c 1 e 2 f 6
+b 1 c 1 g 4 b 2 c 8 g 1 e 2 f 6
+b 1 g 6 c 9 g 2 f 8
+b 1 g 6 c 9 g 1 g 2 f 9
+b 5 g 7 c 8 g 5 c 1 f 10
+b 3 c 6 g 7 c 7 f 4 g 3 g 1 f 11
+b 1 c 11 g 6 c 5 g 2 f 2 g 1 f 2 g 5 f 11
+b 1 g 1 c 14 g 3 c 4 g 2 f 1 g 1 f 2 g 1 f 17
+b 1 g 2 c 20 g 3 c 1 f 1 c 1 f 17 g 2
+b 2 g 1 c 21 g 1 f 2 g 1 f 18 g 2 e 1
+b 2 g 2 c 21 g 3 f 1 g 1 c 1 f 15 g 2 e 2
+b 1 g 2 c 17 d 2 c 5 g 1 f 12 g 1 f 4 g 2 e 3
+b 1 g 1 c 16 d 2 c 7 g 4 f 9 g 3 f 1 g 2 e 4
+b 1 g 2 c 18 d 2 c 7 g 1 f 11 g 1 f 1 g 1 e 4 g 1
+b 1 g 1 c 17 d 2 c 8 g 1 c 1 f 10 g 1 f 1 g 1 e 3 g 2
+g 3 c 14 d 2 c 1 d 1 c 2 e 7 c 1 f 9 g 2 e 4 g 1
+b 1 c 17 d 1 c 2 e 9 c 1 f 8 g 2 e 3 g 1
+b 2 c 14 d 2 c 1 e 7 b 1 e 3 c 1 f 7 g 1 e 3 g 1
+b 3 c 13 e 8 b 3 e 2 c 1 f 6 e 3 g 1
+b 1 c 12 e 6 d 2 b 1 h 2 b 1 e 2 c 1 f 6 g 2
+b 1 c 12 e 5 d 2 b 1 h 4 b 1 e 1 c 1 f 6 g 1
+b 1 c 11 e 5 d 2 b 1 h 5 b 1 c 1 f 6 g 1
+b 1 c 11 e 5 d 1 b 1 h 3 f 3 b 1 c 1 f 6 g 1
+b 1 c 10 e 5 d 1 b 1 h 2 f 2 b 3 c 1 f 6 g 1
+b 1 c 11 e 4 d 1 b 1 h 1 f 2 b 1 h 1 b 2 c 1 f 7 g 1
+b 1 c 11 e 5 d 1 b 1 f 1 b 5 c 1 f 7 g 1
+b 1 c 11 e 5 b 1 f 1 b 5 c 1 f 7 g 1
+b 1 c 2 d 2 c 7 e 6 b 6 c 1 f 7 g 1
+b 1 c 3 d 2 c 6 e 11 c 1 f 5 c 2 g 2
+b 1 c 4 d 1 c 4 f 1 c 1 e 8 c 3 f 4 c 1 d 4 g 1
+b 1 c 4 d 1 c 4 f 1 c 10 f 5 c 1 d 5 g 1
+b 1 c 5 d 1 c 2 f 15 c 1 d 5 g 1 d 1
+b 2 c 3 d 1 c 1 f 15 c 1 d 6 g 1 d 1
+b 1 c 4 f 7 g 6 f 2 b 1 d 6
+b 3 f 6 g 2 g 1 b 3 d 4
+g 6 b 2 e 1 b 1 d 3
+b 5
+b 1 e 1 b 2
+b 2

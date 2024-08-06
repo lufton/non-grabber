@@ -1,0 +1,72 @@
+by "benjamin port (oneeyedplatypus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by benjamin port"
+date "Mar  4, 2012"
+description ""
+difficulty 1.5
+height 30
+id 17781
+link "https://webpbn.com/play.cgi?id=17781"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "down to earth"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 6
+black 5 blue 1 black 2
+black 2 red 2 black 4
+black 2 red 1 black 2 red 4
+black 2 red 1 black 3 red 4
+black 1 red 3 black 3
+black 5 black 3
+black 4 black 2
+black 5 black 2
+black 6 black 1
+black 7 black 2
+black 8 black 1
+black 8 black 1
+black 9 black 1
+black 4 black 4 black 1
+black 3 black 5 black 1
+black 4 black 4 black 1
+black 4 black 4 black 1
+black 3 black 4 black 1
+black 3 black 4 black 1
+black 3 black 4 black 1
+black 3 black 3 black 1
+black 3 black 3 black 1
+black 3 black 3 black 1
+black 3 black 1
+black 4 black 2
+black 5 black 2
+black 7 black 1
+black 10 black 5
+
+columns
+black 5 black 1
+black 10 black 1
+black 15 black 2
+black 25
+black 2 black 8 black 13
+black 3 red 1 black 10 black 8
+black 3 red 1 black 1 black 12 black 4
+black 3 red 1 red 1 black 13 black 3
+black 3 red 3 black 1 black 11 black 2
+black 7 black 9 black 1
+black 2 blue 1 black 5
+black 3 red 1 black 1 black 1
+black 2 red 2 black 2 black 1
+red 2 black 2 black 3
+red 2 black 3 black 2 black 1
+red 1 black 16 black 1
+black 1
+0
+0
+0

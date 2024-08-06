@@ -1,0 +1,81 @@
+by "Rea Aksglæde Karlsen (Rea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rea AksglÃ¦de Karlsen"
+date "Apr 18, 2009"
+description "Based on the idea of puzzle 4215 by Jota. I just loved the idea. Making a puzzle of a puzzle."
+difficulty 3.0
+height 30
+id 4820
+link "https://webpbn.com/play.cgi?id=4820"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WC#31 Tribute"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6 red 6 red 6 red 6
+red 6 red 6 red 6 red 6
+red 2 black 6 black 6 black 6 black 2 red 2
+red 2 black 6 black 6 black 6 black 2 red 2
+red 2 black 2 black 6 black 2 black 2 black 4 red 2
+red 2 black 2 black 6 black 2 black 2 black 4 red 2
+black 2 red 2 black 2 black 2
+black 2 red 2 black 2 red 1 black 1
+black 3 red 3 black 2 black 1 red 1 red 2 black 2 red 2 red 2 black 2
+black 3 red 3 black 1 red 1 black 1 red 1 red 2 black 1 red 3 red 2 black 2
+black 3 red 1 red 2 black 1 red 3 black 1 red 2 black 1 red 2 red 1 black 2 red 2 black 3
+black 4 red 6 red 3 black 1 red 2 red 1 black 7
+black 4 red 2 red 6 black 2 red 3 black 1 black 1 red 2 black 3
+black 4 red 2 red 1 black 1 red 3 black 1 black 2 red 4 red 2 black 4
+black 2 red 2 black 1 red 1 black 2
+black 2 black 2 black 2
+black 2 red 2 black 2 red 1 black 1 black 2 red 2 red 1 black 1 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 8 black 2 black 10 black 4
+black 8 black 2 black 10 black 4
+black 2 black 2 black 6 black 2 black 2 black 6
+black 2 black 2 black 6 black 2 black 2 black 6
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+red 2 black 4 black 2 black 2 black 6 black 2 red 2
+red 2 black 4 black 2 black 2 black 6 black 2 red 2
+red 2 black 6 black 6 black 6 black 2 red 2
+red 2 black 6 black 6 black 6 black 2 red 2
+red 6 red 6 red 6 red 6
+red 6 red 6 red 6 red 6
+
+columns
+red 6 black 6 black 6 red 6
+red 6 black 6 black 6 red 6
+red 2 black 2 black 10 black 2 black 6 red 2
+red 2 black 2 black 2 red 3 black 5 black 2 black 6 red 2
+red 2 black 4 red 2 red 2 red 1 black 5 black 4 red 2
+red 2 black 4 red 2 red 2 red 1 black 5 black 4 red 2
+black 2 red 2 black 2 black 2
+black 2 red 2 black 2 black 2
+red 2 black 2 black 3 red 3 black 2 black 2 black 2 red 2
+red 2 black 2 black 1 red 4 black 1 black 2 black 2 black 2 red 2
+red 2 black 4 red 2 red 5 black 6 black 2 red 2
+red 2 black 4 red 2 red 5 black 6 black 2 red 2
+red 2 black 4 black 2 red 2 red 1 black 1 black 2 black 4 red 2
+red 2 black 4 red 2 red 1 black 1 black 2 black 2 black 4 red 2
+black 2 black 1 red 1 black 2 black 2
+black 2 red 2 black 2 black 2
+red 2 black 2 red 4 black 2 black 6 black 2 red 2
+red 2 black 2 red 2 black 4 black 6 black 2 red 2
+red 2 black 2 black 4 red 4 black 2 black 2 black 6 red 2
+red 2 black 2 black 3 red 6 black 1 black 2 black 6 red 2
+red 2 black 4 red 2 red 2 red 1 black 5 black 4 red 2
+red 2 black 4 red 2 black 1 red 1 red 1 black 5 black 4 red 2
+black 2 red 2 black 2 black 2
+black 2 black 2 black 2 black 2
+red 2 black 2 red 2 black 3 red 1 red 1 black 1 black 2 black 2 red 2
+red 2 black 2 red 3 black 1 red 2 black 2 black 2 black 2 red 2
+red 2 black 5 red 1 red 1 black 1 red 1 black 3 black 6 black 2 red 2
+red 2 black 6 black 6 black 6 black 2 red 2
+red 6 black 6 black 6 red 6
+red 6 black 6 black 6 red 6

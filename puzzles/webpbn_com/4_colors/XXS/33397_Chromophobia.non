@@ -1,0 +1,32 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by sanane samanye"
+date "Dec 29, 2019"
+description "Chromophobia - fear of color"
+difficulty 1.25
+height 5
+id 33397
+link "https://webpbn.com/play.cgi?id=33397"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Chromophobia"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 green 1 blue 1
+black 1 green 1 blue 1
+black 1 green 1 blue 1
+0
+
+columns
+0
+black 3
+green 3
+blue 3
+0

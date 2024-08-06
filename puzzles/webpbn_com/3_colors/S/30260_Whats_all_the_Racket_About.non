@@ -1,0 +1,51 @@
+by "Daniel Hillery (daniel.hillery)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Daniel Hillery"
+date "Sep 29, 2017"
+description "This is a picture of a tennis racquet."
+difficulty 1.25
+height 15
+id 30260
+link "https://webpbn.com/play.cgi?id=30260"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What's all the Racket About"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 3
+black 2 green 1 black 2
+black 1 green 7 black 1
+black 1 green 1 green 1 green 1 black 1
+black 1 green 7 black 1
+black 1 green 1 green 1 green 1 black 1
+black 1 green 7 black 1
+black 2 green 1 black 2
+black 2 black 2
+black 1 black 1
+black 3
+black 1
+black 1
+black 1
+black 1
+
+columns
+0
+0
+0
+black 5
+black 1 green 1 green 1 green 1 black 1
+black 1 green 5 black 2
+black 1 green 1 green 1 green 1 black 3
+black 1 green 7 black 5
+black 1 green 1 green 1 green 1 black 3
+black 1 green 5 black 2
+black 1 green 1 green 1 green 1 black 1
+black 5
+0
+0
+0

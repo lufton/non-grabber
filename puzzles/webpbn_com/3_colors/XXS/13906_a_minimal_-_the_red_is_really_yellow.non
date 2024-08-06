@@ -1,0 +1,31 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "May 15, 2011"
+description "a sport item, actually two and yeah it's a tres simple pbn"
+difficulty 1.0
+height 5
+id 13906
+link "https://webpbn.com/play.cgi?id=13906"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "a minimal - the red is really yellow"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 1
+black 1 black 1
+black 1 red 1 black 1
+black 1 black 1
+black 1 black 1 black 1
+
+columns
+black 1 black 1 black 1
+black 1 black 1
+black 1 red 1 black 1
+black 1 black 1
+black 1 black 1 black 1

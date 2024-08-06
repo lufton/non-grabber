@@ -1,0 +1,51 @@
+by "Kristen Vognild (Kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kristen Vognild"
+date "Jun 19, 2012"
+description "...fairy lights by night. Stare at the center of the puzzle for 30 seconds, then look at a blank white spot to the side of the puzzle."
+difficulty 1.75
+height 15
+id 19049
+link "https://webpbn.com/play.cgi?id=19049"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Yellow #6 - Flowers by day..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2 blue 1
+black 2 black 2 blue 1
+blue 1 black 2 black 2
+black 2 blue 1 blue 1 black 2
+blue 1 black 1 blue 1 black 2 blue 1
+black 2 black 2
+blue 1 black 13 blue 1
+black 1 black 1
+black 1 black 3 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1
+black 1 black 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+
+columns
+blue 1 blue 1 black 6 blue 1 black 1
+black 2 blue 1
+black 3 blue 1
+blue 1 black 1 blue 1 black 1 black 2 blue 1 black 1 blue 1
+black 2 black 1 black 1 blue 1 blue 1
+black 2 black 1 black 2 blue 1 black 1 blue 1
+black 2 blue 1 black 1 blue 1
+black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+black 2 blue 1 black 1 black 2 blue 1 black 1 blue 1
+black 2 black 1 black 1 blue 1 blue 1
+blue 1 black 2 black 1 black 2 blue 1 black 1 blue 1
+black 3 blue 1
+black 2 blue 1
+blue 1 blue 1 black 6 blue 1 black 1

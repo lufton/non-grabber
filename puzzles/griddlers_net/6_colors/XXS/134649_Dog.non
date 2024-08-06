@@ -1,0 +1,33 @@
+by "flores"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/13"
+height 5
+id 134649
+link "https://www.griddlers.net/nonogram/-/g/134649"
+medium_time "0:00:25"
+points 8
+popularity 64.27
+title "Dog"
+width 5
+
+color a ffffff
+color b cc6600
+color c 993300
+color d 6633ff
+color e 333333
+color f ff0000
+
+rows
+c 2 b 1
+c 1 b 1 d 1 b 1 e 1
+c 1 b 4
+b 3 c 2
+f 3
+
+columns
+c 3 b 1 f 1
+c 1 b 3 f 1
+b 1 d 1 b 2 f 1
+b 2 c 1
+e 1 b 1 c 1

@@ -1,0 +1,51 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jun 14, 2011"
+description "thyme in a bottle (groooaaaannnn) and probably done before"
+difficulty 2.0
+height 20
+id 14613
+link "https://webpbn.com/play.cgi?id=14613"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "an old jim croce song"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 4
+black 4
+black 1 black 1
+black 1 black 1
+black 2 green 2 black 2
+black 1 green 2 black 1
+black 1 green 1 black 1
+black 1 green 3 black 1
+black 1 green 3 green 1 black 1
+black 1 green 2 black 1
+black 1 green 2 black 1
+black 1 green 3 black 1
+black 1 green 3 green 1 black 1
+black 1 green 3 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 black 1
+black 6
+
+columns
+0
+black 15
+black 2 black 1
+black 3 green 2 green 2 green 2 black 1
+black 2 green 2 green 2 green 2 black 1
+black 2 green 3 green 8 black 1
+black 3 green 2 green 1 black 1
+black 2 green 2 green 2 black 1
+black 15
+0

@@ -1,0 +1,63 @@
+by "Georgia Wren (teachno11)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Georgia Wren"
+date "Feb 19, 2009"
+description "What every student should have the first day of class."
+difficulty 1.25
+height 20
+id 5092
+link "https://webpbn.com/play.cgi?id=5092"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Prepared"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 15
+red 3 black 1 red 1 black 1
+red 3 black 1 red 1 black 1
+green 3 black 1 black 1 red 1 blue 9 black 1
+green 3 black 1 red 1 black 1
+green 3 black 1 red 1 blue 9 black 1
+green 3 black 1 red 1 black 1
+green 3 black 1 red 1 blue 9 black 1
+green 3 black 1 red 1 black 1
+green 3 black 1 black 1 red 1 blue 9 black 1
+green 3 black 1 red 1 black 1
+green 3 black 1 red 1 blue 9 black 1
+green 3 black 1 red 1 black 1
+green 3 black 1 red 1 blue 9 black 1
+green 3 black 1 red 1 black 1
+green 3 black 1 black 1 red 1 blue 9 black 1
+green 3 black 1 red 1 black 1
+green 1 black 1 green 1 black 1 red 1 blue 9 black 1
+black 1 black 1 red 1 black 1
+black 15
+
+columns
+0
+red 2 green 15
+red 2 green 14 black 2
+red 2 green 15
+0
+black 20
+black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 red 18 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 20

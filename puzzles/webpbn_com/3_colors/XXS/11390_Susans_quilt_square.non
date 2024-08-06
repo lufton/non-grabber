@@ -1,0 +1,31 @@
+by "Susan Eberhardt (susaneber)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Susan Eberhardt"
+date "Dec 14, 2010"
+description "Rudolph"
+difficulty 1.0
+height 5
+id 11390
+link "https://webpbn.com/play.cgi?id=11390"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "Susan's quilt square"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 4 red 1
+black 1 black 3
+black 4
+black 3
+
+columns
+black 5
+black 1 black 2
+black 4
+black 3
+red 1 black 1

@@ -1,0 +1,103 @@
+by "besmirched tea (besmirched tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by besmirched tea"
+date "Jun 30, 2014"
+description "With a great effort, the rug is moved to one side of the room, revealing the dusty cover of a closed trap door. >open trap door. The door reluctantly opens to reveal a rickety staircase descending into darkness. >down You have moved into a dark place. The trap door crashes shut, and you hear someone barring it. It is pitch black. You are likely to be eaten by a grue."
+difficulty 2.0
+height 40
+id 24974
+link "https://webpbn.com/play.cgi?id=24974"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #153 >move rug"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 20
+black 20
+black 2 red 4 black 2
+black 2 red 3 black 3
+black 20
+red 4 black 2 red 3 black 2
+red 5 black 2 red 2 black 3
+red 5 black 2 red 1 black 4
+red 5 black 20 blue 3
+red 5 black 2 red 7 black 2 blue 4
+red 9 black 2 red 3 black 3 blue 5
+red 10 black 2 red 1 black 4 blue 4 green 2
+red 10 black 20 blue 4 green 3
+red 10 black 2 red 3 black 2 blue 4 green 4
+red 10 black 2 red 2 black 1 blue 4 green 5
+red 14 black 16 blue 4 green 6
+red 12 blue 4 green 7
+red 12 blue 4 green 8
+red 12 blue 4 green 9
+red 12 blue 4 green 10
+red 16 blue 4 green 11
+red 12 red 2 blue 4 green 12
+red 13 red 2 blue 4 green 13
+red 14 red 2 blue 4 green 14
+red 2 red 12 red 3 blue 4 green 15
+
+columns
+black 3 red 2 red 2 red 2 red 5
+black 5 red 3 red 3 red 3 red 5
+black 2 black 4 red 4 red 4 red 4 red 4
+black 2 black 2 black 2 red 20
+black 2 black 2 black 2 red 19
+black 2 black 2 black 3 red 18
+black 2 black 2 black 1 black 2 red 17
+black 2 black 2 black 1 black 2 red 16
+black 2 black 2 black 1 black 2 red 15
+black 2 black 2 black 1 black 3 red 14
+black 2 black 2 black 1 black 1 red 1 black 2 red 13
+black 2 black 2 black 1 black 1 red 1 black 2 red 12
+black 2 black 2 red 1 black 1 black 1 red 1 black 2 red 2 red 4 red 3
+black 2 black 2 red 2 black 1 black 1 red 2 black 3 red 1 red 3 red 2
+black 2 black 2 red 2 black 1 red 1 black 1 red 3 black 1 black 2 red 2 red 1
+black 1 black 2 red 2 black 1 red 2 black 1 red 2 black 1 black 1 red 2
+black 1 black 2 black 1 red 3 black 1 red 1 black 1 black 1 red 2
+black 1 black 2 black 1 black 1 black 1 red 1 black 1 red 2
+black 1 black 2 black 1 black 1 black 1 red 2 black 1 red 2
+black 1 black 6 black 1 black 1 red 2 black 1 red 1
+black 1 black 2 black 3 black 1 black 1 black 1 red 1
+black 1 black 2 black 2 black 1 black 1 black 1 blue 1
+black 1 black 2 black 5 black 1 black 1 blue 2
+black 1 black 2 black 4 black 1 black 1 blue 3
+black 1 black 2 black 3 black 1 black 1 blue 4
+black 1 black 2 black 2 black 1 black 1 blue 4 green 1
+black 1 black 2 black 5 black 1 blue 4 green 2
+black 1 black 2 black 4 black 1 blue 4 green 3
+black 1 black 2 black 3 black 1 blue 4 green 4
+black 1 black 2 black 2 black 1 blue 4 green 5
+black 1 black 2 black 3 blue 4 green 6
+black 1 black 2 black 1 blue 4 green 7
+black 3 blue 4 green 8
+black 2 blue 4 green 9
+blue 4 green 10
+blue 4 green 11
+blue 4 green 12
+blue 4 green 13
+blue 3 green 14
+blue 3 green 14

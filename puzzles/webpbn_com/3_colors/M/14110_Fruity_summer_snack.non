@@ -1,0 +1,71 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 23, 2011"
+description "strawberry popsicle!"
+difficulty 1.25
+height 30
+id 14110
+link "https://webpbn.com/play.cgi?id=14110"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Fruity summer snack"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+red 3 red 3
+red 10
+red 10
+red 10
+red 10
+red 10
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 10
+black 2
+black 2
+black 2
+black 2
+black 2
+
+columns
+0
+0
+0
+0
+red 15
+red 21
+red 22
+red 22
+red 22
+red 21 black 5
+red 21 black 5
+red 22
+red 22
+red 22
+red 21
+red 15
+0
+0
+0
+0

@@ -1,0 +1,39 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "May  2, 2020"
+description ""
+difficulty 1.25
+height 11
+id 33991
+link "https://webpbn.com/play.cgi?id=33991"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Name that pattern,2"
+width 11
+
+rows
+3,1,1,3
+1,1
+3,1,1,3
+0
+1,1,3,1,1
+1,1,1,1
+1,1,3,1,1
+0
+3,1,1,3
+1,1
+3,1,1,3
+
+columns
+1,1,3,1,1
+1,1,1,1
+1,1,3,1,1
+0
+3,1,1,3
+1,1
+3,1,1,3
+0
+1,1,3,1,1
+1,1,1,1
+1,1,3,1,1

@@ -1,0 +1,54 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 13, 2011"
+description "Chainsaw. More of an outside tool than a household tool."
+difficulty 1.25
+height 12
+id 14563
+link "https://webpbn.com/play.cgi?id=14563"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Household tool #8"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 4
+black 1 green 1 black 1
+green 1 black 1 blue 1 green 1 black 1
+green 1 blue 1 black 1 blue 2 black 1 green 2
+green 4 blue 2 black 1 blue 1 green 1
+green 1 blue 2 green 2 blue 1 black 13
+green 1 blue 3 green 3 black 1 black 1 black 1 black 1 black 1 black 2
+green 1 blue 4 green 1 blue 1 black 12
+green 3 blue 2 green 1 blue 1 green 1
+green 5
+0
+
+columns
+0
+green 5
+green 2 blue 3 green 1
+green 1 blue 1 green 1 blue 3 green 2
+black 4 green 2 blue 3 green 1
+black 1 green 1 blue 3 green 2 blue 2 green 1
+black 1 green 1 blue 3 green 4
+black 6 green 1 blue 2 green 1
+green 1 blue 1 black 3 green 1
+green 2 black 1 black 1
+black 3
+black 1 black 1
+black 3
+black 1 black 1
+black 3
+black 1 black 1
+black 3
+black 1 black 1
+black 3
+black 3

@@ -1,0 +1,61 @@
+by "Nae Llama (nae)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Nae Llama"
+date "Sep 27, 2020"
+description "a cute skeleton to celebrate the 2020 sdv fall event."
+difficulty 2.25
+height 20
+id 34519
+link "https://webpbn.com/play.cgi?id=34519"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "skelly"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+black 12
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 3 black 3 black 2
+black 2 black 3 black 3 black 2
+black 2 black 3 black 3 black 2
+black 2 black 2
+black 2 red 3 red 3 black 2
+black 2 black 2
+black 2 black 2
+black 4 black 1 black 1 black 4
+black 3 black 1 black 1 black 3
+black 2 black 2 black 2
+black 2 black 2
+black 2 black 2
+black 8
+0
+0
+
+columns
+0
+black 7
+black 9
+black 2 black 2
+black 2 red 1 black 2
+black 2 black 3 red 1 black 5
+black 2 black 3 red 1 black 6
+black 2 black 3 black 1
+black 2 black 2 black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 2 black 1
+black 2 black 3 black 1
+black 2 black 3 red 1 black 6
+black 2 black 3 red 1 black 5
+black 2 red 1 black 2
+black 2 black 2
+black 9
+black 7
+0

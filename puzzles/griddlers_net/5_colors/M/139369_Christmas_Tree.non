@@ -1,0 +1,66 @@
+by "jedule"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/1/13"
+height 25
+id 139369
+link "https://www.griddlers.net/nonogram/-/g/139369"
+medium_time "0:07:27"
+points 5128
+popularity 74.26
+title "Christmas Tree"
+width 19
+
+color a 009900
+color b 993300
+color c ffff00
+color d ff0000
+color e 9999ff
+
+rows
+e 9 c 1 e 9
+e 8 c 1 e 1 c 1 e 8
+e 7 c 1 e 1 e 1 c 1 e 7
+e 8 c 3 e 8
+e 8 e 8
+e 7 b 1 d 2 e 7
+e 6 d 3 e 6
+e 5 d 3 b 1 d 2 e 5
+e 5 d 1 e 1 b 1 d 2 e 6
+e 6 d 3 e 6
+e 5 d 2 e 5
+e 4 d 3 b 1 e 4
+e 3 d 3 b 1 e 3
+e 7 b 1 e 7
+e 6 b 2 d 2 e 6
+e 5 d 3 e 5
+e 4 d 3 b 1 e 4
+e 3 d 2 b 2 e 3
+e 2 d 3 b 2 e 2
+e 1 d 2 b 3 e 1
+d 3 b 3
+e 8 b 3 e 8
+e 8 b 4 e 7
+e 7 b 6 e 6
+e 2 e 1
+
+columns
+e 20 e 4
+e 19 d 1 e 4
+e 18 d 1 e 3
+e 12 e 4 d 2 e 3
+e 11 d 1 e 3 d 2 e 3
+e 7 d 1 e 1 d 1 e 2 d 1 e 3
+e 6 d 1 e 1 d 2 e 1 d 2 e 3
+e 2 c 1 e 2 d 1 d 1 d 2 e 2 b 1
+e 1 c 1 e 1 c 1 d 2 d 2 d 1 b 5
+c 1 e 1 c 1 b 1 d 1 b 2 d 2 b 4 d 2 b 7
+e 1 c 1 e 1 c 1 d 2 d 1 b 1 d 1 b 8
+e 2 c 1 e 2 d 1 d 2 d 2 e 1 b 2
+e 6 d 2 e 1 d 1 e 2 b 1
+e 7 d 1 e 2 e 2 e 3
+e 11 e 3 e 3
+e 12 e 4 e 3
+e 18 e 3
+e 19 e 3
+e 20 e 4

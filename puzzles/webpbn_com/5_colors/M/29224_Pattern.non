@@ -1,0 +1,63 @@
+by "Ashley Whitley (aWhit2016)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Ashley Whitley"
+date "Dec 16, 2016"
+description ""
+difficulty 1.75
+height 20
+id 29224
+link "https://webpbn.com/play.cgi?id=29224"
+note "published,definitely non-unique,may require some guessing"
+quality 2.75
+title "Pattern"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 1 green 14 red 1 blue 1
+blue 2 red 1 green 1 blue 4 green 1 red 2 green 1 blue 4 green 1 red 1 blue 2
+red 3 green 1 blue 1 blue 1 green 1 red 2 green 1 blue 1 blue 1 green 1 red 3
+green 4 red 1 blue 1 blue 1 green 1 red 2 green 1 blue 1 blue 1 red 1 green 4
+green 1 blue 2 red 1 green 1 red 1 blue 2 green 1 red 2 green 1 blue 2 red 1 green 1 red 1 blue 2 green 1
+green 1 blue 1 blue 1 red 1 green 1 red 1 blue 1 green 1 red 2 green 1 blue 1 red 1 green 1 red 1 blue 1 blue 1 green 1
+green 1 blue 1 blue 1 red 1 green 6 red 1 blue 1 blue 1 green 1
+green 1 blue 5 green 1 red 4 green 1 blue 5 green 1
+green 7 red 1 blue 2 red 1 green 7
+green 1 blue 5 green 1 red 1 blue 1 black 2 blue 1 red 1 green 1 blue 5 green 1
+green 1 blue 5 green 1 red 1 blue 1 black 2 blue 1 red 1 green 1 blue 5 green 1
+green 7 red 1 blue 2 red 1 green 7
+green 1 blue 5 green 1 red 4 green 1 blue 5 green 1
+green 1 blue 1 blue 1 red 1 green 6 red 1 blue 1 blue 1 green 1
+green 1 blue 1 blue 1 red 1 green 1 red 1 blue 1 green 1 red 2 green 1 blue 1 red 1 green 1 red 1 blue 1 blue 1 green 1
+green 1 blue 2 red 1 green 1 red 1 blue 2 green 1 red 2 green 1 blue 2 red 1 green 1 red 1 blue 2 green 1
+green 4 red 1 blue 1 blue 1 green 1 red 2 green 1 blue 1 blue 1 red 1 green 4
+red 3 green 1 blue 1 blue 1 green 1 red 2 green 1 blue 1 blue 1 green 1 red 3
+blue 2 red 1 green 1 blue 4 green 1 red 2 green 1 blue 4 green 1 red 1 blue 2
+blue 1 red 1 green 14 red 1 blue 1
+
+columns
+blue 1 red 1 green 14 red 1 blue 1
+blue 2 red 1 green 1 blue 4 green 1 blue 2 green 1 blue 4 green 1 red 1 blue 2
+red 3 green 1 blue 1 blue 1 green 1 blue 2 green 1 blue 1 blue 1 green 1 red 3
+green 4 red 1 blue 1 blue 1 green 1 blue 2 green 1 blue 1 blue 1 red 1 green 4
+green 1 blue 2 red 1 green 1 red 1 blue 2 green 1 blue 2 green 1 blue 2 red 1 green 1 red 1 blue 2 green 1
+green 1 blue 1 blue 1 red 1 green 1 red 1 blue 1 green 1 blue 2 green 1 blue 1 red 1 green 1 red 1 blue 1 blue 1 green 1
+green 1 blue 1 blue 1 red 1 green 6 red 1 blue 1 blue 1 green 1
+green 1 blue 5 green 1 red 4 green 1 blue 5 green 1
+green 7 red 1 blue 2 red 1 green 7
+green 1 red 5 green 1 red 1 blue 1 black 2 blue 1 red 1 green 1 red 5 green 1
+green 1 red 5 green 1 red 1 blue 1 black 2 blue 1 red 1 green 1 red 5 green 1
+green 7 red 1 blue 2 red 1 green 7
+green 1 blue 5 green 1 red 4 green 1 blue 5 green 1
+green 1 blue 1 blue 1 red 1 green 6 red 1 blue 1 blue 1 green 1
+green 1 blue 1 blue 1 red 1 green 1 red 1 blue 1 green 1 blue 2 green 1 blue 1 red 1 green 1 red 1 blue 1 blue 1 green 1
+green 1 blue 2 red 1 green 1 red 1 blue 2 green 1 blue 2 green 1 blue 2 red 1 green 1 red 1 blue 2 green 1
+green 4 red 1 blue 1 blue 1 green 1 blue 2 green 1 blue 1 blue 1 red 1 green 4
+red 3 green 1 blue 1 blue 1 green 1 blue 2 green 1 blue 1 blue 1 green 1 red 3
+blue 2 red 1 green 1 blue 4 green 1 blue 2 green 1 blue 4 green 1 red 1 blue 2
+blue 1 red 1 green 14 red 1 blue 1

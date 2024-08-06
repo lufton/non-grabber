@@ -1,0 +1,119 @@
+by "Craig Mellen (cmellen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Craig Mellen"
+date "Oct 11, 2007"
+description "Oklahoma State Cowboys, Stillwater, Oklahoma. (The Cowboys are orange and black. I decided to use the green and red to try to create the 3-d effect in the logo created by 2 different shades of orange. If I get my lap-top screen at just the right angle it looks just about right, but I'm sure being colorblind helps that)."
+difficulty 2.5
+height 33
+id 1584
+link "https://webpbn.com/play.cgi?id=1584"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Big 12 # 10"
+width 64
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 13
+green 2 black 13 green 1
+green 1 black 16 green 1
+green 1 black 3 green 10 red 2 black 3 green 2
+green 1 black 3 green 10 red 4 black 3 green 1
+green 15 black 3 green 3 red 12 black 3 green 18
+green 2 black 17 green 3 red 13 black 20 green 1
+green 1 black 19 green 3 red 2 black 5 red 6 black 19 green 1
+green 1 black 4 green 9 red 1 black 5 green 3 red 3 black 5 red 5 green 17 red 1 black 2 green 1
+green 1 black 3 green 3 red 8 green 1 red 2 black 3 green 3 red 2 black 6 red 23 black 2 green 1
+green 1 black 2 green 3 red 2 black 6 green 2 red 2 black 2 green 3 red 3 black 30 green 1
+green 1 black 3 green 2 red 2 black 6 green 3 red 2 black 2 green 3 red 3 black 30 green 1
+green 1 black 2 green 3 red 2 black 6 green 3 red 2 black 2 green 3 red 2 green 2 black 11 green 4 red 1 black 6 green 3 red 2 black 2 green 1
+green 1 black 2 green 2 red 2 black 7 green 2 red 2 black 2 red 4 green 5 black 10 green 2 red 2 black 7 green 2 red 2 black 2 green 1
+green 1 black 3 green 2 red 2 black 6 green 3 red 2 black 2 red 4 green 6 black 8 green 2 red 3 black 6 green 3 red 2 black 2 green 1
+green 1 black 2 green 3 red 2 black 6 green 3 red 2 black 3 red 4 green 6 black 7 green 2 red 3 black 6 green 2 red 2 black 3 green 1
+green 1 black 2 green 2 red 2 black 7 green 2 red 2 black 5 red 4 green 6 black 6 green 2 red 2 black 6 green 3 red 2 black 2 green 1
+green 1 black 3 green 1 red 3 black 6 green 3 red 2 black 6 red 5 green 5 black 4 green 3 red 2 black 6 green 3 red 2 black 2 green 1
+green 1 black 2 red 5 black 6 green 2 red 3 black 8 red 4 green 4 red 1 black 3 green 3 red 2 black 6 green 2 red 2 black 3 green 1
+green 1 black 2 red 4 green 8 red 3 black 10 red 5 green 1 red 2 black 2 green 3 red 2 black 6 green 3 red 2 black 2 green 1
+green 2 black 3 red 12 black 12 red 3 green 1 red 3 black 2 green 2 red 3 black 6 green 3 red 2 black 2 green 1
+green 1 black 30 red 1 green 2 red 3 black 2 green 1 red 4 black 6 green 2 red 2 black 3 green 1
+green 1 black 30 green 3 red 2 black 2 red 5 black 5 green 4 red 2 black 2 green 1
+green 1 black 2 green 22 red 2 black 5 green 3 red 2 black 3 red 3 green 9 red 2 black 3 green 1
+green 1 black 2 green 1 red 22 black 5 green 3 red 3 black 5 red 11 black 3 green 1
+green 1 black 19 red 6 black 5 green 3 red 2 black 2 green 2 black 15 green 1
+green 17 black 3 red 5 green 8 red 3 black 2 green 1 green 1 black 12 green 2
+green 1 black 2 red 5 green 8 red 3 black 2 green 1 green 12
+green 1 black 3 red 14 black 3 green 1
+green 1 black 3 red 12 black 3 green 1
+green 1 black 16 green 1
+green 1 black 13 green 2
+green 13
+
+columns
+green 4
+green 2 black 3 green 1
+green 4 black 5 green 1
+green 3 black 3 green 1 black 2 green 2 black 1 green 1
+green 3 black 9 green 1 red 1 black 1 green 1
+green 2 black 7 red 2 black 3 green 1 red 1 black 1 green 1
+green 1 black 6 green 3 red 2 black 3 green 1 red 1 black 1 green 1
+green 1 black 4 green 5 red 4 black 2 green 1 red 1 black 1 green 1
+green 1 black 3 green 6 red 5 black 2 green 1 red 1 black 1 green 1
+green 1 black 2 green 4 red 6 green 1 red 1 black 2 green 1 red 1 black 1 green 1
+green 1 black 3 green 2 red 5 black 3 green 1 red 1 black 2 green 1 red 1 black 1 green 1
+green 1 black 2 green 2 red 3 black 6 green 1 red 1 black 2 green 1 red 1 black 1 green 1
+green 1 black 2 green 1 red 2 black 8 green 1 red 1 black 2 green 1 red 1 black 1 green 1
+green 1 black 2 green 1 red 1 black 9 green 1 red 1 black 2 green 1 red 1 black 1 green 1
+green 1 black 2 green 1 red 1 black 9 green 1 red 1 black 2 green 1 red 1 black 1 green 1
+green 1 black 2 green 1 red 1 black 9 green 1 red 1 black 2 green 1 red 1 black 1 green 1
+green 1 black 2 green 1 red 1 black 7 green 3 red 1 black 2 green 1 red 1 black 1 green 3
+green 1 black 2 green 1 red 1 black 4 green 5 red 2 black 2 green 1 red 1 black 4 green 1
+green 1 black 2 green 1 red 1 black 1 green 7 red 3 black 2 green 1 red 1 black 5 green 1
+green 1 black 2 green 1 red 1 green 6 red 4 black 3 green 1 red 1 black 2 red 1 black 3 green 1
+green 1 black 2 red 1 green 4 red 6 black 4 green 1 red 5 black 3 green 1
+green 1 black 3 red 7 black 7 green 1 red 6 black 2 green 1
+green 1 black 3 red 4 black 10 green 1 red 6 black 2 green 1
+green 1 black 17 green 1 red 6 black 2 green 1
+green 1 black 7 red 2 black 8 green 1 red 3 green 1 red 2 black 2 green 1
+green 1 black 5 green 3 red 3 black 7 red 3 green 2 red 2 black 2 green 1
+green 1 black 4 green 5 red 4 black 6 red 1 black 2 green 2 red 2 black 2 green 1
+green 1 black 3 green 7 red 5 black 8 green 2 red 2 black 2 green 1
+green 1 black 3 green 5 red 3 green 2 red 3 black 8 green 2 red 2 black 2 green 1
+green 1 black 2 green 4 red 5 green 3 red 3 black 7 green 2 red 2 black 2 green 1
+green 1 black 2 green 3 red 6 green 5 red 3 black 6 green 2 red 2 black 2 green 1
+green 1 black 2 green 2 red 4 black 3 green 5 red 4 black 3 green 4 red 2 black 2 green 1
+green 1 black 2 green 2 red 2 black 6 green 5 red 4 green 5 red 3 black 2 green 1
+green 1 black 2 green 2 red 2 black 7 green 5 red 2 green 5 red 3 black 2 green 1
+green 1 black 2 green 2 red 2 black 8 green 4 red 1 green 4 red 4 black 3 green 1
+green 1 black 2 green 2 red 2 black 9 green 4 red 7 black 3 green 1
+green 1 black 2 green 2 red 2 black 10 green 2 red 6 black 4 green 1
+green 1 black 2 green 2 red 5 black 8 red 4 black 5 green 2
+green 1 black 2 green 2 red 5 black 15 green 2
+green 1 black 2 green 1 red 6 black 12 red 1 black 2 green 1
+green 1 black 2 red 7 black 9 green 3 red 2 black 2 green 1
+green 1 black 2 red 7 black 7 green 4 red 3 black 3 green 1
+green 1 black 3 red 4 green 1 red 1 black 4 green 6 red 5 black 2 green 1
+green 1 black 6 green 1 red 1 black 2 green 7 red 4 green 1 red 1 black 2 green 1
+green 1 black 5 green 1 red 1 black 2 green 2 red 8 black 1 green 1 red 1 black 2 green 1
+green 1 black 4 green 1 red 1 black 2 green 1 red 6 black 4 green 1 red 1 black 2 green 1
+green 3 black 2 green 1 red 1 black 2 green 1 red 3 black 7 green 1 red 1 black 2 green 1
+green 1 black 2 green 1 red 1 black 2 red 1 black 10 green 1 red 1 black 2 green 1
+green 1 black 2 green 1 red 1 black 13 green 1 red 1 black 2 green 1
+green 1 black 2 green 1 red 1 black 12 green 2 red 1 black 2 green 1
+green 1 black 2 green 1 red 1 black 12 green 2 red 1 black 2 green 1
+green 1 black 2 green 1 red 1 black 9 green 5 red 1 black 2 green 1
+green 1 black 2 green 1 red 1 black 6 green 7 red 2 black 2 green 1
+green 1 black 2 green 1 red 1 black 4 green 7 red 3 black 2 green 1
+green 1 black 2 green 1 red 1 black 2 green 6 red 5 black 3 green 1
+green 1 black 2 green 1 red 1 black 2 green 3 red 6 black 4 green 1
+green 1 black 2 green 1 red 1 black 2 green 1 red 5 black 6 green 1
+green 1 black 2 green 1 red 1 black 2 red 3 black 7 green 2
+green 1 black 2 green 1 red 1 black 2 red 1 black 6 green 3
+green 1 black 2 red 2 black 6 green 3
+green 1 black 7 green 3
+green 1 black 4 green 3
+green 1 black 1 green 3
+green 2

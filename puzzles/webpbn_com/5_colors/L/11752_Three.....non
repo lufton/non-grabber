@@ -1,0 +1,83 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Jan 13, 2011"
+description "in a row wins."
+difficulty 1.75
+height 30
+id 11752
+link "https://webpbn.com/play.cgi?id=11752"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "Three...."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 black 3 blue 4 black 3 red 1 red 1
+blue 6 black 1 green 1 black 1 blue 6 black 1 green 1 black 1 red 2 red 2
+blue 3 green 2 blue 3 black 3 blue 3 green 2 blue 3 black 3 red 2 red 2
+blue 2 green 4 blue 2 black 3 blue 2 green 4 blue 2 black 3 red 4
+blue 2 green 4 blue 2 black 3 blue 2 green 4 blue 2 black 3 red 2
+blue 3 green 2 blue 3 black 1 blue 1 black 1 blue 3 green 2 blue 3 black 1 blue 1 black 1 red 4
+blue 6 black 3 blue 6 black 3 red 1 red 2
+blue 4 black 3 blue 4 black 3 red 2 red 2
+black 30
+black 2 green 1 black 3 blue 1 black 2 green 1 black 2 blue 1 black 3 blue 1 black 3 green 1 black 3 blue 1 black 3 green 1 black 1
+black 30
+black 3 red 1 red 1 black 3
+black 3 red 2 red 2 black 3
+black 1 blue 1 black 1 red 2 red 2 black 1 blue 1 black 1
+black 3 red 4 black 3
+black 3 red 2 black 3
+black 3 red 4 black 3
+black 1 blue 1 black 1 red 2 red 2 black 1 blue 1 black 1
+black 3 red 2 red 2 black 3
+black 30
+black 2 green 1 black 3 blue 1 black 2 green 1 black 2 blue 1 black 3 blue 1 black 3 green 1 black 3 blue 1 black 3 green 1 black 1
+black 30
+red 1 red 1 black 3 red 1 red 1 black 3 blue 4
+red 2 red 2 black 1 blue 1 black 1 red 2 red 2 black 1 blue 1 black 1 blue 6
+red 2 red 2 black 3 red 2 red 2 black 3 blue 3 green 2 blue 3
+red 4 black 3 red 4 black 3 blue 2 green 4 blue 2
+red 2 black 3 red 2 black 3 blue 2 green 4 blue 2
+red 4 black 1 green 1 black 1 red 4 black 1 green 1 black 1 blue 3 green 2 blue 3
+red 2 red 2 black 3 red 2 red 2 black 3 blue 7
+red 2 red 2 black 3 red 2 red 2 black 3 blue 4
+
+columns
+blue 4 black 3 black 3 red 2 red 1
+blue 6 black 3 black 3 red 2 red 2
+blue 3 green 2 blue 3 black 1 green 1 black 1 black 1 green 1 black 1 red 2 red 2
+blue 2 green 4 blue 2 black 3 black 3 red 3
+blue 2 green 4 blue 2 black 3 black 3 red 3
+blue 3 green 2 blue 3 black 3 black 3 red 2 red 2
+blue 6 black 1 blue 1 black 1 black 1 blue 1 black 1 red 2 red 2
+blue 4 black 3 black 3 red 2 red 1
+black 30
+black 1 green 1 black 3 blue 1 black 3 green 1 black 3 blue 1 black 3 blue 1 black 2 green 1 black 2 blue 1 black 3 green 1 black 2
+black 30
+blue 4 black 3 red 2 red 1 black 3 red 2 red 1
+blue 6 black 1 blue 1 black 1 red 2 red 2 black 1 blue 1 black 1 red 2 red 2
+blue 3 green 2 blue 3 black 3 red 2 red 2 black 3 red 2 red 2
+blue 2 green 4 blue 2 black 3 red 3 black 3 red 3
+blue 2 green 4 blue 2 black 3 red 3 black 3 red 3
+blue 3 green 2 blue 3 black 1 blue 1 black 1 red 2 red 2 black 1 blue 1 black 1 red 2 red 2
+blue 6 black 3 red 2 red 2 black 3 red 2 red 2
+blue 4 black 3 red 2 red 1 black 3 red 2 red 1
+black 30
+black 1 green 1 black 3 blue 1 black 3 green 1 black 3 blue 1 black 3 blue 1 black 2 green 1 black 2 blue 1 black 3 green 1 black 2
+black 30
+red 2 red 1 black 3 black 3 blue 4
+red 2 red 2 black 3 black 3 blue 6
+red 2 red 1 black 1 blue 1 black 1 black 1 blue 1 black 1 blue 3 green 2 blue 3
+red 3 black 3 black 3 blue 2 green 4 blue 2
+red 3 black 3 black 3 blue 2 green 4 blue 2
+red 2 red 2 black 3 black 3 blue 3 green 2 blue 3
+red 2 red 2 black 1 green 1 black 1 black 1 green 1 black 1 blue 6
+red 2 red 1 black 3 black 3 blue 5

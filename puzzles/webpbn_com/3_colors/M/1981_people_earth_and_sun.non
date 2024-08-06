@@ -1,0 +1,62 @@
+by "katherine (katherineb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by katherine"
+date "Dec 10, 2007"
+description "The Aboriginal flag. Used by Australia's Aboriginal people, the black represents the people, the red represents their spiritual relationship with the land and the yellow sun (pretend it's yellow!) represents the sun."
+difficulty 1.25
+height 16
+id 1981
+link "https://webpbn.com/play.cgi?id=1981"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "people, earth and sun"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 25
+black 25
+black 25
+black 10 black 10
+black 9 black 9
+black 8 black 8
+black 8 black 8
+black 8 black 8
+red 8 red 8
+red 8 red 8
+red 9 red 9
+red 10 red 10
+red 25
+red 25
+red 25
+red 25
+
+columns
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 5 red 6
+black 4 red 5
+black 3 red 4
+black 3 red 4
+black 3 red 4
+black 3 red 4
+black 3 red 4
+black 4 red 5
+black 5 red 6
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8
+black 8 red 8

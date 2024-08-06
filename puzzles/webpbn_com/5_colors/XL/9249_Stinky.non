@@ -1,0 +1,103 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Jun 16, 2010"
+description "A little green stink bug on a colorful table cloth. This is the close-up of the "mystery green pixel" in puzzle #7143."
+difficulty 2.0
+height 40
+id 9249
+link "https://webpbn.com/play.cgi?id=9249"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Stinky"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10
+blue 10
+red 5 blue 19
+red 7 blue 19
+red 9 blue 19
+red 9 blue 19
+red 9 blue 19
+red 9 blue 19
+red 2 red 8 blue 19
+red 11 blue 19
+red 11 blue 19
+red 11 blue 19
+red 11 blue 19
+red 11 blue 19
+red 11 blue 19
+red 11 blue 19
+red 11 blue 6 blue 9
+blue 12 black 2 black 9
+blue 11 black 1 green 3 black 1 black 9
+blue 10 black 2 green 4 black 8
+blue 9 black 2 green 7 black 4
+blue 9 black 2 green 8 black 3 black 4
+blue 9 green 1 green 9 black 1 black 4
+blue 9 green 12 black 6
+blue 7 green 8 black 1 green 3 black 4
+blue 7 black 2 green 7 black 1 green 4 black 2 black 4
+blue 7 black 1 green 5 black 1 green 2 black 1 green 2 black 1 black 4
+blue 18 green 6 black 1 green 3 black 5
+blue 20 black 2 green 7 black 1 black 6
+blue 20 black 3 green 5 black 2 black 6
+blue 20 black 2 black 6
+blue 21 black 1 black 9
+blue 21 black 9
+blue 21 black 9
+blue 21 black 9
+blue 21 black 9
+blue 21 black 9
+blue 11 black 10 black 9
+blue 11 black 10 black 9
+blue 11 black 10 black 9
+
+columns
+red 9 blue 13
+red 9 blue 13
+red 4 red 8 blue 13
+red 14 blue 13
+red 15 blue 13
+red 15 blue 13
+red 15 blue 13
+red 15 blue 13
+red 15 blue 13
+red 14 blue 13
+red 13 blue 13
+blue 2 blue 20 black 3
+blue 2 blue 20 black 3
+blue 2 blue 20 black 3
+blue 2 blue 20 black 3
+blue 2 blue 20 black 3
+blue 2 blue 20 black 3
+blue 2 blue 20 black 3
+blue 2 blue 7 blue 9 black 3
+blue 2 blue 7 black 2 blue 9 black 3
+blue 2 blue 3 black 1 blue 6 black 3
+blue 17 black 1 green 4 black 1
+blue 16 black 2 green 4 black 1
+blue 15 black 2 green 7 black 2
+blue 15 black 2 green 8 black 1
+blue 15 green 1 green 9
+blue 15 green 12
+blue 14 green 8 black 1 green 3
+blue 14 black 2 green 6 black 1 green 4 black 2
+blue 14 black 1 green 5 black 1 green 2 black 1 green 2 black 1
+blue 14 green 6 black 1 green 3
+blue 15 black 2 green 7 black 1 black 9
+blue 15 black 3 black 2 green 5 black 2 black 9
+blue 15 black 3 black 1 black 2 black 9
+blue 15 black 3 black 1 black 1 black 1 black 12
+blue 15 black 3 black 1 black 13
+blue 15 black 23
+blue 15 black 23
+blue 15 black 23
+blue 15 black 23

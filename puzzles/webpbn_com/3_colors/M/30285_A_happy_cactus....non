@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct  3, 2017"
+description "... is the best cactus."
+difficulty 1.25
+height 20
+id 30285
+link "https://webpbn.com/play.cgi?id=30285"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "A happy cactus..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+green 5
+green 7
+green 8
+green 9
+green 1 green 3 green 1
+green 1 black 1 green 3 black 1 green 1
+green 9
+green 1 black 1 black 1 black 1 green 1
+green 2 black 5 green 2
+green 3 black 3 green 3
+green 1 green 9
+green 3 green 9
+green 3 green 9 green 1
+green 13 green 3
+green 13 green 3
+green 16
+green 13
+green 12
+green 9
+
+columns
+0
+0
+green 4
+green 6
+green 5
+green 3
+green 16
+green 3 green 1 black 1 green 11
+green 4 black 1 green 1 black 1 green 10
+green 7 black 3 green 9
+green 7 black 2 green 9
+green 7 black 2 green 9
+green 4 black 1 green 1 black 1 green 10
+green 3 green 1 black 1 green 11
+green 17
+green 3
+green 5
+green 6
+green 4
+0

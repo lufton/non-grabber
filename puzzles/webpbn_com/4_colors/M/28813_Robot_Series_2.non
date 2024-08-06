@@ -1,0 +1,60 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Sep 27, 2016"
+description "He is a skittish but loyal astromech. Voiced by Bill Hader and Ben Schwartz."
+difficulty 2.25
+height 21
+id 28813
+link "https://webpbn.com/play.cgi?id=28813"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Robot Series #2"
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 7
+black 2 blue 5 black 2
+black 2 red 2 red 2 black 2
+black 2 black 2 black 2
+black 1 black 2 black 1
+black 1 blue 1 black 1
+black 2 red 1 red 1 red 1 black 2
+black 9
+black 2 red 1 blue 1 black 2
+black 2 red 1 blue 1 black 2
+black 2 red 1 blue 3 black 2
+black 1 red 5 red 2 red 1 black 1
+black 1 red 2 red 2 red 5 black 1
+black 1 red 1 blue 3 red 1 black 1
+black 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 3 red 1 black 1
+black 1 red 2 red 2 red 5 black 1
+black 2 red 5 red 2 red 1 black 2
+black 2 red 1 blue 3 black 2
+black 13
+
+columns
+black 8
+black 2 red 5 black 2
+black 4 black 2 red 2 red 2 black 2
+black 2 black 1 black 1 red 1 blue 1 blue 1 red 1 black 1
+black 2 red 1 black 1 red 1 blue 3 red 1 black 1
+black 2 red 1 black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 blue 1 red 1 red 1 black 1 red 2 red 2 black 1
+black 1 blue 1 black 2 black 1 red 5 black 1
+black 1 blue 1 black 2 black 1 black 1
+black 1 blue 1 blue 1 black 1 red 2 black 1
+black 1 blue 1 red 1 black 1 red 4 red 2 black 1
+black 2 red 1 black 1 red 2 red 1 blue 1 black 1
+black 2 red 1 black 1 blue 1 blue 1 red 1 red 1 blue 1 black 1
+black 2 black 1 black 1 blue 2 red 1 red 1 blue 1 black 1
+black 4 black 2 blue 1 red 1 red 2 black 2
+black 2 red 2 black 2
+black 8

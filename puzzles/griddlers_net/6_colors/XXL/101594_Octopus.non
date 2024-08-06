@@ -1,0 +1,123 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/28/10"
+height 50
+id 101594
+link "https://www.griddlers.net/nonogram/-/g/101594"
+medium_time "1:22:28"
+points 367538
+popularity 85.61
+title "Octopus"
+width 50
+
+color a ccccff
+color c 000000
+color e b87840
+color f 684028
+color g 781000
+color h b01800
+
+rows
+c 8
+c 1 e 8 c 1
+c 1 e 3 c 4 e 2 c 1
+c 2 c 1 e 2 c 1 c 1 e 2 c 1
+c 1 e 2 c 2 c 1 e 2 c 1 c 3
+c 1 e 5 c 2 c 1 e 2 c 1
+c 1 e 8 c 2 c 1 e 2 c 1 c 3
+c 1 e 11 c 2 c 1 e 2 c 1 c 1 e 2 f 1 c 2
+c 1 e 14 c 2 c 1 e 2 c 1 c 1 e 3 f 1 c 1 e 1 c 2
+c 1 e 17 c 2 c 1 e 2 c 1 c 1 e 2 f 1 c 1 f 1 e 3 c 2
+c 1 e 20 c 2 e 2 c 1 c 1 e 2 f 1 c 1 c 2 f 1 e 3 c 3
+c 1 e 21 c 1 f 1 e 1 f 1 c 1 e 3 c 1 c 3 f 1 e 3 c 2
+c 1 e 22 c 1 f 3 c 1 e 2 f 1 c 1 c 2 f 1 e 2 c 1
+c 1 e 21 c 1 f 4 c 1 e 1 f 1 c 1 c 1 f 1 e 1 c 1
+c 1 e 21 c 1 f 3 c 1 e 1 c 1 f 1 c 1 c 1 f 1 e 1 c 1
+c 1 f 1 e 21 c 1 f 1 c 1 e 2 f 1 c 1 c 1 f 1 e 1 c 1
+c 1 f 1 e 15 c 2 e 4 c 1 e 2 f 1 c 1 c 3 c 1 f 1 e 1 c 1
+c 1 f 2 e 10 f 2 e 2 c 2 e 4 c 1 e 1 f 1 c 1 c 1 f 1 e 1 c 1 c 1 f 1 c 1
+c 1 f 3 e 6 f 4 e 7 f 1 c 1 f 1 c 1 c 1 f 1 e 1 c 2 e 2 c 1
+c 1 f 11 c 1 e 7 f 1 c 1 g 1 c 1 c 1 f 2 e 4 c 1
+c 1 f 9 c 1 f 1 e 5 f 3 c 1 g 2 c 1 c 2 f 5 c 3
+c 1 f 8 c 1 f 9 c 2 g 3 c 2 c 1 g 2 c 5 g 3 c 2
+c 9 f 8 c 3 g 5 c 2 c 1 g 1 h 2 g 2 c 1 g 2 h 3 g 2 c 1
+c 10 e 2 c 2 g 5 c 2 g 1 h 2 g 1 c 6 g 1 h 3 c 1
+c 1 f 3 c 1 f 3 c 2 f 1 e 3 c 4 g 4 h 2 g 1 c 2 c 1 g 1 h 2 c 1
+c 8 f 3 c 2 f 1 e 2 c 1 c 1 f 1 e 2 c 1 c 3 g 4 c 2 c 3 c 1 g 1 h 1 c 1
+c 1 e 4 f 1 c 1 e 3 f 1 c 1 g 1 c 1 f 1 e 2 c 1 c 1 f 1 e 2 c 1 c 6 c 1 g 2 c 1 c 1 g 1 h 1 c 1
+c 1 e 4 f 1 c 1 e 2 f 1 c 1 g 2 c 1 f 1 e 3 c 1 c 1 f 1 e 3 c 1 c 1 h 1 g 1 c 1 c 1 g 1 h 1 c 1
+c 1 f 1 c 6 f 2 c 1 g 2 c 1 c 1 f 1 e 2 c 1 c 2 f 1 e 2 c 3 c 1 h 1 g 1 c 1 c 1 g 1 h 1 c 1
+c 1 f 3 c 1 c 2 g 2 c 1 c 1 f 3 c 1 c 3 f 1 c 1 e 2 c 3 c 1 h 1 g 1 c 4 g 1 h 1 c 1
+c 1 e 1 f 1 c 1 c 3 g 3 c 1 c 1 f 1 c 3 c 1 g 1 c 1 f 2 e 3 c 2 c 1 g 1 h 1 g 4 h 2 c 1
+c 1 e 2 c 1 c 1 g 5 c 1 c 2 e 2 c 1 c 1 g 2 c 2 f 2 e 3 c 1 c 2 g 1 h 5 g 1 c 1
+c 1 e 1 f 1 c 1 c 1 g 4 c 1 c 1 f 1 e 2 c 1 c 1 h 1 g 1 c 1 c 2 f 1 e 2 c 1 c 3 g 1 h 1 g 1 c 2
+c 1 e 2 c 1 c 1 g 1 h 1 g 1 c 2 c 1 f 1 e 2 c 1 c 1 h 1 g 1 c 1 c 1 f 2 e 1 c 1 c 5
+c 1 e 2 c 1 c 1 g 1 h 1 g 1 c 1 c 1 f 1 e 2 c 1 c 1 h 1 g 1 c 1 c 1 f 2 e 1 c 1
+c 1 f 1 e 1 c 1 c 3 g 1 c 1 c 1 f 1 e 3 c 1 c 1 h 1 g 1 c 6
+c 1 e 2 c 2 e 2 c 1 c 1 f 1 e 2 c 1 c 1 h 1 c 1 f 3 c 1
+c 1 e 6 c 1 c 3 c 1 f 1 c 2 e 1 c 1 c 2 f 1 e 2 c 2
+c 1 f 1 e 4 f 1 c 1 c 1 g 1 h 1 c 1 c 2 e 2 f 2 c 2 c 1 f 1 e 3 c 1 g 1 c 1
+c 1 f 1 e 1 f 3 c 2 g 1 c 4 e 2 f 2 c 2 c 3 c 1 f 1 e 2 c 1 g 1 h 1 c 1
+c 1 f 2 c 2 g 1 h 1 c 2 e 3 f 2 c 2 c 1 g 2 c 2 f 1 e 2 c 1 g 1 h 1 c 1
+c 2 g 2 c 2 e 3 f 2 c 2 c 1 h 2 g 2 c 1 f 1 e 1 c 1 h 1 c 2
+c 1 h 1 c 1 e 2 f 2 c 2 c 2 h 2 c 3 e 1 c 2
+c 1 e 2 f 1 c 2 c 2 c 1 e 3 c 1
+c 1 e 2 c 1 c 1 e 3 c 1
+c 1 e 2 c 1 c 3 c 1 c 1 e 3 c 1
+c 1 f 1 e 2 c 2 e 2 c 1 c 1 f 1 c 1 c 1 e 2 f 1 c 1
+c 1 f 3 e 4 c 1 c 1 f 2 e 1 c 2 e 2 f 2 c 1
+c 2 f 5 c 1 c 1 f 2 e 2 f 3 c 1
+c 5 c 7
+
+columns
+c 3
+c 2 e 2 f 1 c 3
+c 4 c 2 e 7 f 1 c 1
+c 2 e 3 f 1 c 2 c 1 f 1 e 2 f 1 c 3 e 3 f 1 c 1
+c 1 e 6 f 2 c 2 c 2 f 3 c 2 c 1 e 3 f 1 c 1
+c 1 e 8 f 3 c 2 c 1 e 2 c 1 f 1 c 1 c 3 e 2 f 2 c 1
+c 1 e 10 f 4 c 1 c 1 e 2 c 2 c 1 g 1 c 1 e 3 f 1 c 1 g 1 c 1
+c 1 e 11 f 4 c 1 c 1 e 2 c 1 c 2 g 1 h 1 c 1 e 2 f 2 c 1 g 1 h 1 c 5
+c 1 e 13 f 3 c 1 c 1 e 2 c 1 c 1 g 2 h 1 g 2 c 4 g 1 c 2 e 3 f 2 c 1
+c 1 e 14 f 3 c 1 c 1 f 2 c 1 c 1 g 3 c 2 c 1 h 1 c 1 e 5 f 1 c 1
+c 1 e 15 f 3 c 1 c 4 c 1 g 2 c 1 c 1 g 1 c 1 e 2 f 1 c 2 e 1 f 2 c 1
+c 1 e 15 f 3 c 1 c 1 e 2 f 1 c 1 g 3 c 1 c 1 g 1 c 2 e 1 f 1 c 1 c 1 e 1 f 1 c 1
+c 1 e 14 f 3 c 1 c 1 e 2 f 1 c 1 g 2 c 1 c 1 h 1 c 1 e 2 f 1 c 1 c 1 e 1 f 1 c 1
+c 1 e 14 f 3 c 1 c 1 f 1 e 1 f 1 c 1 g 2 c 1 c 3 e 1 f 1 c 1 c 1 e 2 f 1 c 1
+c 1 e 12 f 3 c 3 f 3 c 1 g 2 c 1 c 1 e 1 f 1 c 1 c 1 e 2 f 1 c 1
+c 1 e 12 f 2 c 1 f 2 c 1 f 2 c 1 g 2 c 1 c 1 e 1 f 1 c 1 c 4
+c 1 e 10 f 2 c 1 f 3 c 1 f 1 c 1 g 2 c 1 c 1 e 1 f 1 c 1
+c 1 e 10 f 2 e 2 f 2 c 5 c 1 e 1 f 1 c 1
+c 1 e 13 f 2 c 1 f 4 c 5 c 2 f 1 e 1 f 1 c 1
+c 1 e 13 f 2 c 1 f 1 e 3 f 3 c 1 f 1 c 2 f 2 c 1 f 1 c 1
+c 1 e 7 c 2 e 3 f 2 c 1 f 1 e 4 f 1 c 1 e 2 f 2 e 2 c 1 f 1 c 1
+c 1 e 7 c 2 e 3 f 2 c 4 e 2 f 1 c 1 e 7 c 1
+c 1 e 10 f 3 c 2 c 6 e 3 c 3
+c 1 e 10 f 2 c 2 f 1 c 1 c 3
+c 1 e 2 c 2 e 4 f 2 c 2 e 2 f 1 c 4
+c 11 f 2 c 1 e 2 f 1 c 4 e 3 f 2 c 6 c 3
+c 1 e 9 f 5 c 3 g 4 c 1 e 4 f 1 c 1 g 2 h 2 c 1 c 1 g 1 h 1 c 1
+c 1 e 11 f 3 c 1 e 2 f 1 c 1 g 3 c 3 e 3 f 1 c 1 g 3 h 1 c 1 c 1 g 1 h 1 c 1
+c 1 e 2 c 8 f 3 c 1 e 2 f 1 c 1 c 1 g 3 c 1 c 1 e 2 c 1 f 1 c 3 g 1 h 1 c 1 c 1 g 1 h 1 c 1 c 1
+c 1 e 1 c 1 c 3 e 2 f 1 c 1 c 1 g 2 c 1 c 2 e 1 f 1 c 1 c 1 g 1 h 1 c 4 g 1 h 1 c 1 c 1 f 1 c 1
+c 1 e 1 c 1 c 1 e 3 c 1 f 1 c 1 c 1 g 2 c 2 c 1 e 2 f 1 c 1 c 3 f 3 c 2 c 1 f 3 c 1
+c 1 e 1 c 1 c 2 e 3 f 2 c 1 c 1 g 2 c 1 c 2 e 1 f 1 c 4 f 2 e 3 f 1 c 2 c 1 e 1 f 1 c 1
+c 1 e 1 c 3 c 1 e 4 f 1 c 2 c 1 g 2 c 2 c 1 e 2 f 3 c 1 f 1 e 5 c 1 e 1 c 1 c 1 e 1 c 1
+c 1 e 3 c 1 c 1 e 3 f 1 c 2 c 1 g 2 c 1 c 2 e 2 f 2 c 1 f 1 e 2 c 3 e 3 c 1 c 1 e 1 c 1
+c 1 e 3 c 1 c 1 e 2 f 1 c 1 c 1 g 2 c 1 c 1 e 4 c 4 g 2 h 1 c 1 e 3 c 1 e 1 f 1 c 1
+c 3 c 1 f 2 c 1 c 1 g 1 h 1 g 1 c 1 c 5 c 1 g 1 h 2 c 3 e 4 f 1 c 1
+c 2 f 1 c 1 c 1 g 1 h 2 g 1 c 1 c 4 c 1 e 2 f 2 c 1
+c 1 e 2 c 1 c 5 g 1 h 2 g 1 c 2 c 1 f 2 c 1
+c 1 e 1 f 1 c 1 c 1 f 3 c 1 g 1 h 1 g 1 c 2 c 2
+c 1 e 2 c 1 c 1 e 2 f 2 c 1 g 1 c 2
+c 1 e 1 c 1 c 2 e 1 f 1 c 1 g 1 c 1 c 7
+c 1 e 1 f 1 c 1 c 1 e 1 f 1 c 3 c 1 g 1 h 3 g 1 c 2
+c 1 e 1 c 1 c 3 e 2 f 1 c 1 g 1 c 1 c 1 g 4 h 1 g 1 c 1
+c 1 e 1 f 1 c 2 f 3 e 2 f 1 c 1 g 1 c 1 c 4 g 1 h 1 c 2
+c 1 e 2 f 2 e 2 c 4 g 1 h 1 c 1 c 1 g 1 h 1 g 1 c 1
+c 1 e 3 c 2 c 1 g 1 h 1 g 1 c 1 c 1 g 1 h 2 c 1
+c 4 c 1 g 1 h 2 g 1 c 5 g 1 h 1 g 1 c 1
+c 1 g 1 h 2 g 5 h 2 c 2
+c 1 g 1 h 8 g 1 c 1
+c 10

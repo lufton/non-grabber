@@ -1,0 +1,42 @@
+by "Jeanette K (cuddlebearjay)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jeanette K"
+date "Nov 10, 2016"
+description ""
+difficulty 1.25
+height 5
+id 29053
+link "https://webpbn.com/play.cgi?id=29053"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "3D small puzzle"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 red 3 blue 3 black 1
+black 2 red 3 black 1 blue 3 black 2
+black 2 red 3 black 1 blue 3 black 2
+black 3 black 3 black 3
+
+columns
+black 5
+black 3
+black 1
+red 3
+red 3
+red 3
+black 1
+black 3
+black 1
+blue 3
+blue 3
+blue 3
+black 1
+black 3
+black 5

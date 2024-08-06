@@ -1,0 +1,38 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Apr 21, 2017"
+description "Tiny Dory"
+difficulty 1.25
+height 8
+id 29710
+link "https://webpbn.com/play.cgi?id=29710"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Ooh, ooh! Pick me! Pick me!"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3
+black 1 blue 2 black 1 blue 2
+black 2 blue 1 black 1 blue 3
+black 2 blue 1 red 1 blue 1 red 1
+blue 2 blue 2
+black 2 blue 1 black 2 blue 3
+black 1 blue 4
+blue 2
+
+columns
+black 2 black 2
+black 2 blue 1 black 1
+blue 2 black 1 blue 3
+blue 2 black 1 black 1 blue 2
+blue 1 black 1 blue 2 black 1 blue 2
+blue 3 red 1 blue 3
+blue 5
+red 1 blue 1

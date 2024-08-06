@@ -1,0 +1,112 @@
+by "derby (Derby)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by derby"
+date "Jul 16, 2023"
+description "Fly?"
+difficulty 4.25
+height 50
+id 36971
+link "https://webpbn.com/play.cgi?id=36971"
+note "published,may be unique,may require much guessing"
+quality 3.0
+title "Will this idea for a puzzle"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 4
+black 5 black 4 black 1
+black 2 green 2 black 1 green 1 black 2 black 4 black 1 black 1
+black 5 black 2 green 2 black 1 green 3 black 1 black 2 black 1 black 1
+black 1 black 4 black 4 black 2 green 2 black 1 green 2 black 4 black 2 black 2
+black 1 black 2 black 3 black 2 black 1 green 2 black 2 green 2 black 1 black 2 black 2 black 1
+black 1 black 1 black 2 black 3 green 2 black 1 green 2 black 1 black 2 black 1 black 2
+black 2 black 2 black 2 black 1 green 2 black 1 green 2 black 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 green 1 black 1 green 1 black 1 black 2 black 1 black 2
+black 2 black 2 black 2 black 1 green 2 black 1 green 1 black 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 green 1 black 1 green 1 black 1 black 2 black 1 black 2
+black 2 black 2 black 2 black 2 green 1 black 2 green 2 black 1 black 2 black 2
+black 2 black 2 black 2 green 1 black 1 green 1 black 2 black 3 black 1
+black 2 black 2 black 2 green 2 black 3 green 3 black 1 black 2 black 2
+black 2 black 2 black 2 green 1 black 2 green 3 black 4 black 2
+black 2 black 2 green 3 black 1 green 1 green 5 black 1 black 2
+black 2 black 1 green 1 black 1 green 1 green 1 black 1 black 2
+black 2 black 1 green 2 black 1 green 1 green 1 black 3
+black 3 green 8 green 2 black 3
+black 1 green 1 black 5 black 3 green 1 black 2
+black 2 green 2 green 2 green 3 black 2 black 3
+black 1 green 1 black 1 green 1 green 1 black 2 black 5
+black 4 black 1 green 1 green 2 green 1 black 1 black 4 black 2
+black 7 green 2 black 1 green 2 green 2 black 1 black 4 black 1
+black 4 black 4 black 3 green 2 black 1 black 3 black 3 black 2
+black 2 black 6 red 1 black 5 red 1 black 1 red 1 black 1 black 3 black 2
+black 2 black 3 red 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 red 1 black 3 black 3
+black 3 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 3 black 2
+black 2 black 2 red 1 black 2 black 2 black 1 red 1 black 1 red 1 black 1 black 2
+black 1 black 1 red 1 black 1 black 2 black 2 red 1 black 1 black 3 black 1
+black 2 black 4 black 2 black 3 black 4
+black 2 black 3 black 1 black 2 black 1 black 2
+black 2 black 2 black 3 black 6 black 2
+black 4 black 2 black 4 black 2
+black 3 black 2 black 1
+black 3 black 2 black 2
+black 2 black 3
+black 2 black 2
+black 1 black 2
+black 2 black 2
+black 3 black 2
+black 1 black 2
+black 3 black 2
+black 1
+black 2
+black 1
+black 2
+black 2
+black 1
+black 1
+
+columns
+black 1
+black 5 black 2
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 2 black 2 black 2 black 2
+black 3 black 1 black 2 black 4 black 2
+black 1 black 2 black 2 black 6 black 2
+black 1 black 2 black 2 black 3 black 5
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 4 black 2 black 2 black 3 black 4
+black 1 black 2 black 2 black 2 black 2 black 9
+black 1 black 2 black 2 black 2 black 3 black 5 black 2
+black 2 black 2 black 1 black 1 black 4 black 3 black 3
+black 2 black 2 black 1 black 4 black 2 red 1 black 1 black 2 black 1
+black 1 black 1 black 4 green 3 black 3 black 2 red 1 black 1 red 1 black 2 black 1
+black 1 black 3 green 4 black 1 green 4 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 2 green 1 black 1 black 2 green 3 green 1 black 1 green 1 green 1 black 2 red 1 black 3 black 2
+black 2 green 3 black 2 black 1 green 2 black 1 green 1 green 1 black 1 green 1 black 3 black 2
+black 2 green 2 green 3 black 1 green 1 black 5 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 11
+black 2 green 2 green 2 black 3 green 5 black 1 green 4 black 12
+black 1 green 2 black 7 black 1 green 1 green 1 green 1 black 1 red 1 black 1 black 2
+black 1 green 1 black 3 green 5 green 3 green 1 black 1 green 1 black 1 red 1 black 1 red 1 black 2 black 2 black 3
+black 3 green 1 green 2 black 3 green 3 black 1 green 1 black 1 green 1 green 1 black 2 red 1 black 1 red 1 black 2 black 2
+black 1 green 2 green 2 black 1 black 2 green 1 black 1 green 1 green 1 black 1 green 4 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 3
+black 1 green 3 black 1 black 1 black 3 green 1 green 2 black 4 black 1 red 1 black 1 red 1 black 3 black 3
+black 2 green 1 black 1 black 2 black 1 green 3 black 4 black 3 black 2 black 2
+black 1 black 2 black 1 black 5 black 3 black 2 black 2
+black 2 black 2 black 2 black 2 black 3 black 4 black 3
+black 3 black 2 black 1 black 2 black 3 black 5
+black 1 black 3 black 2 black 2 black 2 black 2
+black 1 black 1 black 3 black 2 black 2
+black 2 black 3 black 2 black 2 black 1
+black 1 black 3 black 3 black 2 black 3
+black 1 black 2 black 2 black 3 black 1 black 2
+black 5 black 3 black 2 black 2 black 1
+black 1 black 3 black 3 black 2 black 2
+black 1 black 3 black 4 black 1
+black 5 black 1
+black 2

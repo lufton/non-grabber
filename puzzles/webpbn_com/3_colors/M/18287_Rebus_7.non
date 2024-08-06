@@ -1,0 +1,66 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Richard Coderre"
+date "Apr 11, 2012"
+description "Vintage TV Show"
+difficulty 2.0
+height 20
+id 18287
+link "https://webpbn.com/play.cgi?id=18287"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Rebus #7"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 1
+red 2 black 1
+red 11 black 2
+red 2 black 1
+red 1 black 2
+black 1 black 2
+black 14 black 1
+black 2 black 1 red 1
+black 2 black 11 red 3
+black 2 black 2 red 5
+black 2 black 2 red 1
+black 2 black 3 red 1
+black 1 black 2 black 1 red 1
+black 1 black 1 black 1 red 1
+black 1 black 4 red 1
+black 1 black 1 red 1
+black 1 black 1 red 1
+black 1 black 1 red 1
+black 5
+0
+
+columns
+0
+black 8
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 2 black 7
+black 2 black 2 black 1
+black 1 black 2 black 1
+black 1 black 6
+black 1 black 2
+black 1 black 1
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 2 black 1
+red 5 black 3
+red 3 red 1
+red 1 black 2 red 2
+black 2 red 11
+black 3 red 2
+black 3 red 1

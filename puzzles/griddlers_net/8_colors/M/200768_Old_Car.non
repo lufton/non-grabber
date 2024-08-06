@@ -1,0 +1,68 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/18/19"
+height 15
+id 200768
+link "https://www.griddlers.net/nonogram/-/g/200768"
+medium_time "0:07:39"
+points 4465
+popularity 81.75
+title "Old Car"
+width 28
+
+color a ffffff
+color b 000000
+color c 666666
+color d cc0033
+color e cccccc
+color f 990000
+color g ffde65
+color h ccffff
+
+rows
+b 13
+b 1 e 2 b 1 h 3 c 1 h 5 b 1
+b 2 e 1 b 2 h 3 c 1 h 6 c 1
+b 1 e 2 b 2 h 3 c 1 h 6 c 1 e 3
+d 1 b 4 c 5 h 2 d 8 e 5
+d 21 g 2 e 1 g 2
+c 4 d 9 c 1 d 1 c 1 d 1 c 1 d 3 g 2 e 1 g 2
+c 6 d 8 c 1 f 1 c 1 f 1 d 1 c 4 e 3 c 1
+c 7 d 7 c 1 d 3 c 6 e 1 c 3
+c 2 b 3 c 2 d 10 c 2 b 3 c 2 e 1 b 1 c 2
+b 1 e 2 b 1 c 4 d 6 c 2 b 5 e 2 b 2
+b 1 e 2 b 1 c 7 b 1 e 2 b 6
+b 4 b 1 e 2 b 2 b 2
+b 2 b 5
+b 3
+
+columns
+c 3
+d 1 c 4
+d 2 c 3 b 4
+b 3 d 1 c 3 b 1 e 2 b 2
+b 2 e 1 b 1 d 1 c 3 b 1 e 2 b 2
+b 1 e 3 b 1 d 2 c 3 b 3
+b 1 e 1 b 3 d 3 c 3
+b 4 c 1 d 5 c 1
+b 1 h 3 c 1 d 5 c 1
+b 1 h 3 c 1 d 5 c 1
+b 1 h 3 c 1 d 6 c 1
+b 1 c 4 d 6 c 1
+b 1 h 4 d 6 c 1
+b 1 h 4 d 6 c 1
+b 1 h 3 d 2 c 3 d 2 c 1
+b 1 h 3 d 3 f 1 d 3 c 1
+b 1 h 3 d 2 c 2 d 2 c 2
+b 2 h 2 d 3 f 1 d 1 c 2
+c 2 d 2 c 1 d 1 c 2 b 4
+d 3 c 2 b 2 e 2 b 2
+d 3 c 2 b 2 e 2 b 2
+d 3 c 2 b 6
+e 1 g 2 c 3 b 4
+e 2 g 2 e 1 c 2 e 1 b 1
+e 8 b 2
+e 2 g 2 e 1 c 1 b 4
+e 1 g 2 c 3 b 2
+c 2

@@ -1,0 +1,63 @@
+by "Clayton Ross (claytonross)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Clayton Ross"
+date "Jan  5, 2011"
+description ""
+difficulty 1.25
+height 20
+id 11682
+link "https://webpbn.com/play.cgi?id=11682"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "What's on?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 20
+black 20
+black 2 blue 1 black 2
+black 2 blue 1 blue 1 black 2
+black 2 blue 1 black 2
+black 2 blue 5 red 2 black 2
+black 2 blue 1 red 2 black 2
+black 2 blue 1 red 4 black 2
+black 2 blue 1 blue 1 red 2 black 2
+black 2 green 16 black 2
+black 2 green 16 black 2
+black 20
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+
+columns
+black 12
+black 12
+black 2 green 2 black 1
+black 2 blue 1 green 2 black 1
+black 2 blue 1 blue 1 blue 1 green 2 black 1
+black 2 blue 1 blue 4 green 2 black 8
+black 2 blue 1 blue 1 blue 1 green 2 black 8
+black 2 blue 1 green 2 black 8
+black 2 green 2 black 8
+black 2 green 2 black 8
+black 2 green 2 black 8
+black 2 red 1 green 2 black 8
+black 2 red 4 green 2 black 8
+black 2 red 4 green 2 black 8
+black 2 red 1 green 2 black 8
+black 2 green 2 black 1
+black 2 green 2 black 1
+black 2 green 2 black 1
+black 12
+black 12

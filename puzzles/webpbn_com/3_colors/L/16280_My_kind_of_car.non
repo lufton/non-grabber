@@ -1,0 +1,76 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Nov  4, 2011"
+description "I've always thought the Mazda Miata was a cute car. The first time I saw one with its headlights up, I fell in love; it looked like a little anime frog! (Inspired by Aldege's nearly endless series of car puzzles ;)"
+difficulty 1.5
+height 25
+id 16280
+link "https://webpbn.com/play.cgi?id=16280"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My kind of car"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 13
+red 19
+red 21
+red 5 black 13 red 4
+red 4 red 4
+red 1 black 6 black 6
+black 1 red 7 black 1 red 7
+black 1 red 1 black 1 black 1 red 1 black 1 red 1 black 1 black 1 red 1
+black 1 red 1 red 1 black 1 red 1 red 1
+black 1 red 1 red 1 black 1 red 1 red 1
+black 1 red 1 black 1 black 1 red 1 black 10 red 1 black 1 black 1 red 1
+red 3 black 3 red 14 black 3 red 2
+red 27
+red 27
+red 27
+red 7 black 13 red 7
+red 6 black 15 red 6
+red 6 black 15 red 6
+red 7 black 13 red 7
+red 25
+black 1 red 22 black 1
+black 4 black 4
+black 4 black 4
+black 4 black 4
+
+columns
+0
+red 7
+red 2 black 5 red 9
+red 2 black 1 red 14 black 4
+red 3 black 1 red 1 black 1 black 1 red 10 black 3
+red 4 black 1 red 1 black 1 red 9 black 3
+red 3 black 1 red 1 black 1 red 9 black 3
+red 3 black 1 red 1 black 1 red 4 black 2 red 3
+red 3 black 1 black 1 red 1 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 red 9 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 1 red 4 black 4 red 2
+red 3 black 1 black 5 red 4 black 4 red 2
+red 3 black 1 black 1 red 9 black 4 red 2
+red 3 black 1 red 1 black 1 black 1 red 5 black 2 red 3
+red 4 black 1 red 1 black 1 red 9
+red 4 black 1 red 1 black 1 red 9 black 3
+red 3 black 1 red 1 black 1 red 9 black 3
+red 1 black 1 red 1 black 1 black 1 red 10 black 3
+red 14 black 4
+red 7
+0
+0

@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom King"
+date "Dec  2, 2011"
+description "I HOPE Aldege recognizes it ;-)"
+difficulty 2.0
+height 20
+id 16576
+link "https://webpbn.com/play.cgi?id=16576"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Marz Challenge - Fun in the Summertime"
+width 20
+
+rows
+16
+1,1
+1,2
+1,1
+1,1
+1,1
+1,1,2
+1,1,1,2
+2,1,2,1,1
+1,3,2,1,1
+4,1,2,3
+2,2,4
+1,4,4
+1,1,3,2,4
+1,1,1,1,2,4
+6,1,4,4
+2,2,1,4
+3,4,3,5
+3,3
+3,3
+
+columns
+5
+1,2,1
+1,3,1,3
+9,1,1,1,3
+1,1,2,3
+1,1,2
+1,1,2
+1,3,1
+1,1
+1,5
+1,1,1
+1,4,3
+1,1,1,3
+1,8,3
+1,13
+1,2,1
+3,12
+1,8
+11
+1,7

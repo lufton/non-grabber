@@ -1,0 +1,110 @@
+by "Vampiroula"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/5/13"
+height 35
+id 134781
+link "https://www.griddlers.net/nonogram/-/g/134781"
+medium_time "0:16:03"
+points 87963
+popularity 75.0
+title "Aurora Borealis"
+width 50
+
+color a 000066
+color b 660066
+color c cc0099
+color d ff99cc
+color e ffffff
+color f 999999
+color g 006699
+color h ffcccc
+
+rows
+c 2 b 4 b 13 c 2
+h 1 c 2 b 5 b 10 c 6
+h 2 c 3 b 6 b 10 c 7 d 2
+h 2 d 1 c 4 b 6 b 11 c 7 d 4
+h 2 d 3 c 4 b 6 b 12 c 6 d 7
+h 2 d 5 c 3 b 21 c 7 d 10
+h 3 d 4 c 3 b 13 c 10 d 8 h 6
+h 4 d 3 c 4 b 13 c 5 d 8 h 9
+h 4 d 3 c 4 b 18 d 3 b 6 h 7
+h 4 d 4 c 12 b 18 h 6
+h 4 d 5 c 12 b 16 h 2 b 3
+h 4 d 8 c 11 b 18
+h 5 d 11 c 8 b 16
+h 5 d 14 c 9 b 10
+h 12 d 9 c 8 b 8
+h 14 d 9 c 8 b 5
+h 12 d 9 c 11
+h 9 d 9 c 7
+h 8 d 7 c 5
+h 9 d 5 c 3
+h 9 d 5
+h 9 d 3
+f 1 h 7 d 2
+f 7 h 5
+f 3 e 3 f 4 h 3
+e 2 f 3 e 4 f 4 f 3 f 2 h 1
+e 4 f 3 e 4 f 5 f 7 f 7
+e 7 f 1 e 7 f 4 f 2 e 5 f 4 e 6
+e 8 f 2 e 8 f 3 f 3 e 7 f 2 e 8
+e 9 f 2 e 9 f 2 f 4 e 7 f 2 e 9
+e 9 f 2 g 4 e 6 f 1 g 16 f 3 e 9
+f 2 e 8 f 3 g 19 f 7 e 11
+f 4 e 8 f 2 g 18 f 1 e 17
+e 2 f 3 g 45
+e 4 f 3 g 43
+
+columns
+c 1 h 2 f 3 e 6 f 2 e 2
+c 2 h 3 f 2 e 6 f 2 e 2
+b 1 c 2 h 3 f 3 e 6 f 2 e 1
+b 2 c 1 d 2 h 2 f 1 e 1 f 1 e 6 f 2 e 1
+b 2 c 2 d 2 h 2 f 1 e 1 f 2 e 6 f 2
+b 3 c 1 d 2 h 3 f 1 e 2 f 1 e 6 g 1 f 1
+b 2 c 2 d 2 h 3 f 2 e 1 f 1 e 6 g 1 f 1
+b 2 c 2 d 2 h 3 f 1 e 2 f 1 e 5 g 2
+b 2 c 1 d 3 h 3 f 1 e 3 f 1 e 4 g 2
+b 2 c 2 d 3 h 3 f 2 e 2 f 3 e 2 g 2
+b 3 c 2 d 3 h 3 f 1 e 3 f 3 e 1 g 2
+b 2 c 3 d 2 h 3 f 2 e 3 g 1 f 1 e 1 g 2
+b 3 c 3 d 2 h 3 f 2 e 3 g 1 f 2 g 2
+b 4 c 2 d 3 h 3 f 1 e 3 g 2 f 1 g 2
+b 3 c 3 d 2 h 4 f 1 e 3 g 5
+b 4 c 2 d 3 h 3 f 2 e 3 g 4
+b 4 c 1 d 3 h 3 f 1 e 3 g 4
+b 4 c 2 d 3 h 2 f 1 e 3 g 4
+b 4 c 2 d 3 h 3 f 2 e 2 g 4
+b 4 c 2 d 3 h 3 f 1 e 2 g 4
+b 4 c 2 d 3 h 3 f 2 e 1 g 4
+b 4 c 3 d 2 h 3 f 2 g 4
+b 4 c 3 d 2 h 3 g 5
+b 4 c 3 d 2 h 3 g 5
+b 4 c 3 d 2 h 3 g 5
+b 5 c 3 d 3 h 3 g 5
+b 2 c 1 b 3 c 3 d 2 h 3 g 5
+b 2 c 1 b 3 c 3 d 2 h 3 g 5
+b 3 c 2 b 2 c 3 d 3 h 2 f 1 g 5
+b 3 c 2 b 3 c 2 d 3 h 2 f 1 g 5
+b 3 c 2 b 3 c 2 d 4 h 2 f 2 g 5
+b 4 c 2 b 3 c 3 d 3 h 2 f 2 g 5
+b 4 c 2 b 4 c 2 d 3 h 2 f 1 e 1 g 1 f 2 g 2
+b 3 c 2 d 1 b 4 c 2 d 3 h 3 f 1 e 2 g 1 f 1 e 1 g 2
+b 4 c 2 d 2 b 4 c 2 d 3 h 2 f 2 e 2 g 1 f 1 e 1 g 2
+b 5 c 2 d 2 b 4 c 2 d 3 h 2 f 1 e 3 g 1 f 1 e 1 g 2
+b 5 c 1 d 3 b 4 c 2 d 3 h 3 f 2 e 3 g 1 f 1 e 1 g 2
+b 4 c 2 d 2 b 5 c 3 d 2 h 3 f 2 e 3 g 1 f 1 e 1 g 2
+b 4 c 2 d 2 b 5 c 3 d 3 h 3 f 2 e 3 f 2 e 1 g 2
+b 3 c 3 d 2 b 5 c 4 d 2 h 3 f 1 e 2 f 2 e 2 g 2
+b 3 c 2 d 3 b 6 c 3 d 2 h 3 f 5 e 2 g 2
+b 2 c 3 d 2 h 1 b 6 c 3 d 2 h 4 f 2 e 4 g 2
+b 2 c 3 d 2 h 1 b 7 c 2 d 3 h 3 f 1 e 5 g 2
+b 2 c 2 d 3 h 2 b 6 c 3 d 2 h 3 f 2 e 5 g 2
+b 1 c 3 d 2 h 4 b 5 c 3 d 2 h 3 f 2 e 6 g 2
+b 1 c 3 d 2 h 5 b 5 c 3 d 2 h 3 f 2 e 6 g 2
+b 1 c 2 d 3 h 5 b 5 c 3 d 2 h 3 f 1 e 6 g 2
+b 1 c 2 d 3 h 4 b 6 c 4 d 2 h 3 f 1 e 6 g 2
+c 2 d 4 h 4 b 6 c 4 d 3 h 2 f 1 e 6 g 2
+c 2 d 4 h 4 b 6 c 4 d 3 h 3 f 1 e 6 g 2

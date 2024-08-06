@@ -1,0 +1,61 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Dec  2, 2017"
+description "Mario's mushroom looks suspiciously similar to the deadly fly amanita (also known as amanita muscaria, or fly agaric)."
+difficulty 1.5
+height 20
+id 30586
+link "https://webpbn.com/play.cgi?id=30586"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "One up (or maybe not)"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 5 black 4 black 2 green 8
+green 3 black 2 black 8 green 6
+green 2 black 4 black 1 black 2 black 3 green 5
+green 1 black 1 black 1 black 4 black 3 black 2 green 4
+black 7 black 3 black 4 green 4
+black 1 black 1 black 6 black 2 black 3 green 3
+black 5 black 1 black 7 black 1 green 3
+black 2 black 6 black 2 black 4 green 3
+green 1 black 2 black 2 black 2 black 4 green 5
+green 2 green 6
+green 4 green 1 black 4 green 4
+green 5 black 2 black 3 green 3
+green 5 black 5 black 1 green 3
+green 5 black 1 black 6 green 2
+green 5 black 3 black 1 black 1 green 2
+green 5 black 2 black 2 black 2 green 2
+green 5 black 2 black 3 green 3
+green 5 black 3 green 3
+green 5 green 1 green 4
+green 5 green 1 green 4
+
+columns
+green 4 black 4 green 12
+green 3 black 2 black 2 green 11
+green 2 black 1 black 3 black 1 green 10
+green 1 black 4 black 3 green 10
+green 1 black 2 black 4 green 9
+black 1 black 4 black 2
+black 2 black 6
+black 4 black 1 black 1
+black 2 black 6
+black 2 black 3 black 1
+black 5 black 2 black 2 black 1
+black 2 black 1 black 4 green 1 black 2 black 3 green 2
+green 1 black 6 black 1 black 5 black 2
+green 1 black 2 black 1 black 3 black 1 black 4 black 1
+green 2 black 7 green 1 black 4 black 3
+green 3 black 3 black 1 green 2 black 2 black 2 black 1
+green 5 black 3 green 3 black 3 black 2 green 2
+green 13 black 3 green 4
+green 20
+green 20

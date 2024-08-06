@@ -1,0 +1,38 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Apr  5, 2004"
+description "Two hats falling from a cloud? No, just simple example of the usefulness of edges."
+difficulty 2.75
+height 11
+id 23
+link "https://webpbn.com/play.cgi?id=23"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Nonrepresentational Test Pattern"
+width 10
+
+rows
+1
+3
+1
+2
+1
+3
+3
+1
+2
+2
+4
+
+columns
+1
+3
+1
+2,2
+2
+4
+1
+3
+3
+1

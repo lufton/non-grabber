@@ -1,0 +1,51 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Oct 14, 2012"
+description "GRAND PRIZE WINNER receives ABSOLUTELY NOTHING!!!"
+difficulty 1.5
+height 20
+id 20064
+link "https://webpbn.com/play.cgi?id=20064"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Movie title #98?"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 2 red 2 black 1 red 1 black 1 red 1
+red 2 black 2 red 2 black 1 red 2 black 1
+red 1 black 2 red 1 black 2 red 1 black 1 red 1 black 1
+red 1 black 2 red 1 black 2 red 1 black 1 red 2
+red 1 black 7 red 2
+red 1 black 1 black 1 black 1 red 1
+red 1 black 8 red 1
+black 1 black 1 black 1 black 1 red 1
+black 9
+black 1 black 1 black 1 black 1
+black 9
+black 1 black 1 black 1 black 1
+black 9
+black 1 black 1 black 1 black 1
+black 9
+black 1 black 1 black 1 black 1
+black 9
+black 1 black 3 black 1
+black 4 black 4
+black 4 black 4
+
+columns
+red 6 black 13
+red 2 black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 2 red 2 black 16
+red 2 black 3 black 1 black 1 black 1 black 1 black 1 black 2
+red 2 black 18
+black 2 red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+red 2 black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 red 4 black 15
+red 1 black 2 red 5

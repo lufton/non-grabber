@@ -1,0 +1,32 @@
+by "Colby Curtis (beast)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Colby Curtis"
+date "Oct 12, 2013"
+description "easiest on in the world"
+difficulty 1.0
+height 5
+id 22941
+link "https://webpbn.com/play.cgi?id=22941"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "picnic bascket"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1
+blue 1 black 1 green 1 black 1 blue 1
+blue 1 blue 1
+blue 1 black 1 green 1 black 1 blue 1
+green 1 green 1
+
+columns
+blue 1 blue 1
+green 1 black 1 blue 1 black 1 green 1
+green 1 green 1
+green 1 black 1 blue 1 black 1 green 1
+blue 1 blue 1

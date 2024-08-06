@@ -1,0 +1,65 @@
+by "Naomi Millar (sailormewtwo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Naomi Millar"
+date "Jun  5, 2009"
+description "From the webcomic 8-Bit Theater, the Light Warrior, Fighter. A simple man, with simple tastes. Based on a fighter from Final Fantasy I."
+difficulty 2.75
+height 26
+id 5982
+link "https://webpbn.com/play.cgi?id=5982"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "8BT#1 - "I like swords!""
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 8
+black 1 red 1 black 1 red 1 black 1 red 8 black 1
+black 1 red 1 black 1 red 9 black 4
+black 1 red 15 black 1
+black 2 red 12 black 2
+black 1 red 13 black 1 black 1
+black 1 red 1 black 1 red 1 red 1 black 2 red 5 black 1 black 1
+black 1 black 1 red 1 black 3 red 5 black 1 black 1
+black 1 red 1 black 2 black 1 red 2 red 1 black 1 black 1
+black 1 red 3 black 1 black 1 red 1 black 1 red 3 black 1
+black 1 red 2 red 1 red 1 black 2 red 2 black 2
+black 2 red 1 black 2 red 1 black 1
+black 1 red 1 black 1 black 1 red 2 black 1 red 1 black 1
+black 2 red 2 black 3 red 3 red 1 black 2
+black 2 red 2 black 2 red 3 black 1 black 3
+black 1 red 7 black 4
+black 1 red 1 black 3 red 1 black 1 red 2 black 1
+black 1 red 2 black 2 red 2 black 1
+black 1 red 8 black 1
+black 1 red 9 black 1
+black 1 red 4 black 1 red 5 black 1
+black 1 black 2 black 1
+black 1 red 5 black 1 black 1 red 4 black 1
+black 1 red 5 black 1 black 1 red 5 black 1
+black 1 red 6 black 1 black 1 red 5 black 1
+black 6 black 5
+
+columns
+black 7 black 1
+black 3 red 2 black 3 black 1 red 1 black 1
+black 1 red 2 black 1 red 2 red 3 black 2 black 2 red 2 black 1
+black 1 red 1 black 1 red 3 black 3 red 1 black 2 black 2 red 3 black 1
+black 1 red 6 black 2 red 6 black 1 black 1 red 2 red 3 black 1
+black 1 red 5 black 1 black 1 red 4 black 1 red 3 red 3 black 1
+black 1 red 5 black 3 black 2 red 1 black 1 red 4 red 3 black 1
+black 1 red 5 black 2 black 2 red 1 black 1 red 4 red 1 black 2
+black 1 red 5 black 1 black 1 red 2 black 2 red 2 black 3
+black 1 red 8 black 1 red 4 black 1 red 3 black 1
+black 1 red 9 black 1 red 4 black 1 red 4 black 2
+black 1 red 7 red 1 black 1 red 2 black 2 red 5 red 2 black 1
+black 1 red 7 black 1 black 1 red 1 black 1 red 3 red 3 black 1
+black 1 red 1 black 1 red 6 black 2 black 2 black 2 red 1 red 3 black 1
+black 1 red 1 black 1 red 3 black 3 red 2 black 2 black 1 red 3 black 1
+black 2 red 1 black 2 red 2 black 1 red 1 black 1 black 2 red 2 black 1
+black 1 red 1 black 1 red 1 black 1 red 2 black 2 black 1 red 1 black 1
+black 1 black 9 black 1

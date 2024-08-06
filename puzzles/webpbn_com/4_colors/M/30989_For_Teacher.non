@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Mar 24, 2018"
+description ""
+difficulty 2.0
+height 20
+id 30989
+link "https://webpbn.com/play.cgi?id=30989"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "For Teacher"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 3 green 1 red 4
+red 6 green 2 red 7
+red 3 red 7 red 3
+red 2 red 2 red 4
+red 2 red 2 red 2
+red 2 red 2 red 2
+red 2 red 2 red 2
+red 2 black 1 red 2 black 1 red 2
+red 2 black 8 red 2 black 6 red 2
+red 2 black 4 black 2 red 2 black 3 red 2
+red 2 black 5 red 2 black 1 red 2
+red 2 red 2 black 2 red 2
+red 2 red 2 black 2 red 2
+red 2 red 2 black 2 red 2
+red 2 red 2 red 2
+red 4 red 2
+red 3 red 2
+red 3 red 3 red 3
+red 14
+red 5 red 5
+
+columns
+red 10
+red 15
+red 3 black 3 red 4
+red 3 black 3 red 4
+red 2 black 3 red 2 red 2
+red 2 black 3 red 2 red 2
+red 2 black 2 black 1 red 2 red 2
+red 2 black 2 red 2 red 2
+red 1 black 2 red 2 red 2
+green 1 red 2 black 1 red 2 black 3 red 3
+green 2 red 2 red 2 black 4 red 2
+red 2 red 2 black 1 red 3
+red 2 red 2 black 2 red 2
+red 2 red 2 black 2 red 2
+red 2 red 2 black 1 red 2
+red 2 red 2 black 1 red 3
+red 4 black 1 red 3
+red 3 black 2 red 4
+red 14
+red 10

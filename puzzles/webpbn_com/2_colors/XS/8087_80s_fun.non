@@ -1,0 +1,37 @@
+by "Josh Greifer (joshgreifer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Josh Greifer"
+date "Mar 18, 2010"
+description "Space Invader!"
+difficulty 1.25
+height 9
+id 8087
+link "https://webpbn.com/play.cgi?id=8087"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "80s fun"
+width 11
+
+rows
+1,1
+1,1
+7
+2,3,2
+11
+11
+1,7,1
+1,1,1,1
+2,2
+
+columns
+4
+3
+1,6
+2,3,1
+5,1
+5
+5,1
+2,3,1
+1,6
+3
+4

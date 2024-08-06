@@ -1,0 +1,39 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Jul 28, 2010"
+description "Triangle"
+difficulty 1.25
+height 11
+id 9793
+link "https://webpbn.com/play.cgi?id=9793"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Instruments #3"
+width 11
+
+rows
+1
+3
+1,1
+2,2
+1,1
+2,2
+1,1
+2,2
+1,1
+2,2
+11
+
+columns
+2
+4
+3,1
+3,1
+3,1
+2,1
+3,1
+3,1
+3,1
+4
+2

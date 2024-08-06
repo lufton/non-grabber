@@ -1,0 +1,62 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Apr  2, 2011"
+description "Mr. B. heard Sarah and Tom talking about "rabbit ears" helping TV reception so he tried them. Though he looked rather dashing, the reception wasn't helped."
+difficulty 1.5
+height 20
+id 13170
+link "https://webpbn.com/play.cgi?id=13170"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Television Reception"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 black 18 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 2 black 2 black 1 blue 1
+blue 1 black 1 black 2 black 2 black 1 blue 1
+blue 1 black 1 black 3 black 3 black 1 blue 1
+blue 1 black 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 6 blue 1 blue 1 black 7 blue 1
+blue 6 blue 7
+blue 6 red 1 blue 7
+blue 7 blue 8
+blue 8 blue 9
+blue 7 blue 8
+blue 6 blue 7
+blue 5 blue 6
+
+columns
+blue 20
+blue 1 black 12 blue 7
+blue 1 black 1 black 1 blue 7
+blue 1 black 1 black 1 blue 7
+blue 1 black 1 black 1 blue 7
+blue 1 black 1 black 5 black 1 blue 6
+blue 1 black 1 black 4 black 1 blue 3
+blue 1 black 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 red 1 red 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 black 4 black 1 blue 3
+blue 1 black 1 black 5 black 1 blue 6
+blue 1 black 1 black 1 blue 7
+blue 1 black 1 black 1 blue 7
+blue 1 black 1 black 1 blue 7
+blue 1 black 1 black 1 blue 7
+blue 1 black 12 blue 7
+blue 20

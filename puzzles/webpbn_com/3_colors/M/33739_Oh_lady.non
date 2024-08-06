@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Mar 19, 2020"
+description "of Spain played on the accordian"
+difficulty 1.5
+height 15
+id 33739
+link "https://webpbn.com/play.cgi?id=33739"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Oh lady"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6 black 6
+red 1 red 2 black 8
+red 1 black 1 red 2 black 9
+red 1 red 2 black 10
+red 1 black 1 red 2 black 11
+red 1 red 2 black 11 red 1
+red 1 black 1 red 2 black 10 red 3
+red 1 red 2 black 9 red 5
+red 1 black 1 red 2 black 8 red 1 red 3
+red 6 black 7 red 1 red 1 red 1
+black 4 red 1 red 1 red 1
+black 2 red 3 red 1
+red 5
+red 3
+red 1
+
+columns
+red 10
+red 1 red 1
+red 1 red 1
+red 1 black 1 black 1 black 1 black 1 red 1
+red 10
+red 10
+black 10
+black 10
+black 11
+black 12
+black 12 red 1
+black 11 red 3
+black 9 red 5
+black 8 red 1 red 3
+black 6 red 1 red 1 red 1
+black 4 red 1 red 1 red 1
+black 2 red 3 red 1
+red 5
+red 3
+red 1

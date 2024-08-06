@@ -1,0 +1,83 @@
+by "shalonda nutt (sdrew)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by shalonda nutt"
+date "Jul 19, 2008"
+description "This is my first puzzle. I did not know what to create."
+difficulty 2.25
+height 30
+id 3106
+link "https://webpbn.com/play.cgi?id=3106"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Funny face"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 30
+black 30
+black 8 black 8
+black 7 black 7
+black 6 black 4 black 4 black 6
+black 5 black 1 black 1 black 1 black 1 black 5
+black 4 black 1 black 2 black 1 black 4
+black 4 black 1 black 4 black 3 black 4
+black 4 black 1 black 1 blue 2 black 2 black 1 blue 2 black 1 black 4
+black 4 black 1 black 1 blue 3 black 2 black 1 blue 3 black 1 black 4
+black 4 black 2 blue 3 black 3 black 1 blue 3 black 1 black 4
+black 4 black 12 black 4
+black 4 black 1 green 2 black 1 black 4
+black 4 black 1 green 4 black 1 black 4
+black 4 black 1 green 6 black 1 black 4
+black 4 black 1 green 6 black 1 black 4
+black 4 black 1 green 6 black 1 black 4
+black 4 black 6 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 14 black 4
+black 4 black 1 red 4 black 1 black 1 black 1 red 3 black 1 black 4
+black 4 black 1 red 3 black 1 black 1 black 1 red 2 black 1 black 4
+black 4 black 1 red 2 black 5 red 1 black 1 black 4
+black 4 black 1 red 6 black 1 black 4
+black 5 black 1 red 4 black 1 black 5
+black 6 black 4 black 6
+black 7 black 7
+black 30
+
+columns
+black 30
+black 30
+black 30
+black 30
+black 6 black 4
+black 5 black 3
+black 4 black 2
+black 3 black 4 black 1
+black 2 black 1 black 1 black 2 black 1
+black 2 black 1 black 2 black 1 red 1 black 1 black 1
+black 2 black 1 black 1 blue 1 black 1 black 1 red 2 black 1 black 1
+black 2 black 1 black 1 blue 2 black 1 black 3 black 1 red 3 black 1 black 1
+black 2 black 1 black 1 blue 3 black 1 black 1 green 3 black 1 black 1 red 4 black 1 black 1
+black 2 black 1 black 1 blue 2 black 3 green 4 black 1 black 4 red 2 black 1 black 1
+black 2 black 6 green 5 black 1 black 1 black 1 red 2 black 1 black 1
+black 2 black 6 green 5 black 1 black 4 red 2 black 1 black 1
+black 2 black 1 black 2 green 4 black 1 black 1 black 1 red 2 black 1 black 1
+black 2 black 1 black 2 black 1 green 3 black 1 black 4 red 1 black 1 black 1
+black 2 black 1 black 1 blue 1 black 1 black 3 black 1 red 3 black 1 black 1
+black 2 black 1 black 1 blue 2 black 1 black 1 red 2 black 1 black 1
+black 2 black 1 black 1 blue 3 black 1 black 1 red 1 black 1 black 1
+black 2 black 1 black 1 blue 2 black 1 black 2 black 1
+black 3 black 4 black 1
+black 4 black 2
+black 5 black 3
+black 6 black 4
+black 30
+black 30
+black 30
+black 30

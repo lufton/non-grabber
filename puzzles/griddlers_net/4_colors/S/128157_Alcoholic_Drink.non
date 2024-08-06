@@ -1,0 +1,51 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/20/12"
+height 17
+id 128157
+link "https://www.griddlers.net/nonogram/-/g/128157"
+medium_time "0:01:30"
+points 384
+popularity 47.22
+title "Alcoholic Drink"
+width 13
+
+color a a1e9ed
+color b f9fefa
+color c fbf6ce
+color d e4e9e8
+
+rows
+b 13
+c 13
+c 13
+c 11
+c 7
+c 3
+b 1
+b 1
+b 1
+d 1
+d 1
+b 1
+d 1
+b 1
+d 1 b 2
+b 3 d 2 b 2
+b 3 d 2 b 3 d 2 b 1
+
+columns
+b 1 c 2
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 4 b 2
+b 1 c 4 b 1 d 1
+b 1 c 5 d 1 b 1 d 1
+b 1 c 5 b 3 d 2 b 1 d 1 b 2 d 1 b 1
+b 1 c 5 b 1 d 1 b 1
+b 1 c 4 b 2
+b 1 c 4 b 1 d 1
+b 1 c 3 d 1
+b 1 c 3 b 1
+b 1 c 2

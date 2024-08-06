@@ -1,0 +1,65 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/24/16"
+height 30
+id 170464
+link "https://www.griddlers.net/nonogram/-/g/170464"
+medium_time "0:05:39"
+points 1090
+popularity 72.08
+title "Tarkin"
+width 10
+
+color a ffffff
+color b 000000
+color c 9e9e9c
+color d efa28f
+color e 5d6860
+color f 383d36
+color g 3f65a6
+color h efb56b
+
+rows
+c 4
+c 2 d 4
+c 2 d 4
+d 6
+d 5
+d 4
+e 3
+f 1 e 7
+e 2 f 1 e 6
+f 1 e 2 c 1 f 1 e 2 g 2 c 1
+f 1 e 3 f 1 e 2 d 1 h 1 e 1
+f 1 e 3 f 1 e 5
+f 1 e 1 f 1 e 1 f 1 e 4
+f 1 e 1 f 1 b 3 c 2 b 1
+f 1 e 1 f 1 e 1 f 1 e 4
+f 2 e 1 f 1 e 5
+f 1 e 1 f 1 e 5
+f 1 e 1 f 1 e 5
+f 1 e 1 f 4 e 2
+f 1 e 3 f 1 e 3
+f 1 e 3 f 1 e 3
+f 1 e 2 f 1 e 2
+f 1 e 2 f 1 e 2
+f 1 e 2 f 1 e 2
+f 1 e 2 f 1 e 2
+b 2 b 2
+b 2 b 2
+b 2 b 2
+b 2 b 2
+b 3 b 3
+
+columns
+f 6
+e 7 f 1
+f 1 e 4 f 9
+e 1 f 1 c 1 e 3 b 1 e 7 f 4 b 5
+c 2 d 2 e 2 f 4 b 1 f 5 e 6 b 5
+c 3 d 3 e 7 b 1 e 4 f 1 e 6 b 1
+c 1 d 5 e 7 c 1 e 4 f 7
+c 1 d 5 e 3 g 1 d 1 e 2 c 1 e 4 f 1 e 6 b 5
+c 1 d 5 e 2 g 1 h 1 e 2 b 1 e 11 b 5
+d 3 e 2 c 1 e 2 e 6 b 1

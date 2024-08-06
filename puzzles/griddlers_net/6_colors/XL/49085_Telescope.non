@@ -1,0 +1,99 @@
+by "bayistanbul"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/12/07"
+height 46
+id 49085
+link "https://www.griddlers.net/nonogram/-/g/49085"
+medium_time "0:17:29"
+points 13247
+popularity 80.53
+title "Telescope"
+width 30
+
+color a 000000
+color b 558bf6
+color c 666666
+color d 999999
+color e cccccc
+color f ffffff
+
+rows
+b 5 b 24
+b 4 b 23
+b 3 b 22
+b 2 b 22
+b 1 f 1 b 21
+b 2 e 1 f 2 b 20
+b 3 c 1 d 1 e 1 f 2 b 19
+b 5 c 1 d 1 e 1 f 2 b 18
+b 6 c 1 d 1 e 1 f 2 b 17
+b 7 c 1 d 1 e 1 f 2 b 16
+b 8 c 1 d 1 e 1 f 2 b 15
+b 9 c 1 d 1 e 1 f 2 b 14
+b 10 c 1 d 1 e 1 f 2 b 13
+b 11 c 1 d 1 e 1 f 2 b 12
+b 12 c 1 d 1 e 1 f 2 b 4 b 6
+b 13 c 1 d 1 e 1 f 2 b 2 b 5
+b 14 c 1 d 1 e 1 f 2 b 2 b 4
+b 15 c 1 d 1 e 1 f 2 b 2 b 3
+b 16 c 1 d 1 f 2 b 2
+b 10 f 2 b 1 b 1
+b 10 f 2 b 2
+b 8 b 5 c 1 d 1 e 1 f 2 b 2 b 1
+b 8 b 6 c 1 d 1 e 1 f 2 b 3
+b 8 b 7 c 1 d 1 e 1 f 2 b 2
+b 7 b 1 b 1 b 7 c 1 d 1 e 1 f 2 b 1
+b 7 b 1 b 1 b 8 c 1 d 1 e 1
+b 7 b 1 b 1 b 9 c 1
+b 6 b 2 b 2 b 9
+b 6 b 2 b 2 b 10 b 1
+b 6 b 2 b 2 b 11 b 2
+b 5 b 3 b 3 b 13
+b 5 b 3 b 3 b 13
+b 5 b 3 b 3 b 13
+b 4 b 4 b 4 b 12
+b 4 b 4 b 4 b 12
+b 4 b 4 b 4 b 12
+b 3 b 5 b 5 b 11
+b 3 b 5 b 5 b 11
+b 2 b 5 b 5 b 10
+b 2 b 6 b 6 b 10
+b 2 b 6 b 6 b 10
+b 1 b 7 b 7 b 9
+b 1 b 7 b 7 b 9
+b 1 b 7 b 7 b 9
+b 8 b 8 b 8
+b 8 b 8 b 8
+
+columns
+b 44
+b 4 b 36
+b 3 b 32 b 2
+b 2 b 29 b 5
+b 1 b 26 b 7
+c 1 b 22 b 10
+b 1 e 1 d 1 c 1 b 18 b 13
+b 2 f 2 e 1 d 1 c 1 b 14 b 16
+b 4 f 2 e 1 d 1 c 1 b 10 b 19
+b 5 f 2 e 1 d 1 c 1 b 9 b 22
+b 6 f 2 e 1 d 1 c 1 b 6
+b 7 f 2 e 1 d 1 c 1 b 5
+b 8 f 2 e 1 d 1 c 1 b 4 b 22
+b 9 f 2 e 1 d 1 c 1 b 3 b 19
+b 10 f 2 e 1 d 1 c 1 b 2 b 3 b 16
+b 11 f 2 e 1 d 1 c 1 b 1 b 6 b 13
+b 12 f 2 e 1 d 1 c 1 b 9 b 10
+b 13 f 2 e 1 d 1 c 1 b 12 b 7
+b 14 f 2 e 1 d 1 b 15 b 5
+b 15 f 2 b 16 b 2
+b 16 f 2 c 1 b 18
+b 17 f 2 d 1 c 1 b 20
+b 15 b 2 f 2 e 1 d 1 c 1 b 21
+b 14 b 1 f 2 e 1 d 1 c 1 b 20
+b 15 f 2 e 1 d 1 c 1 b 19
+b 16 b 2 f 2 e 1 d 1 c 1 b 18
+b 17 b 2 f 2 e 1 b 17
+b 18 b 2 f 1 b 16
+b 19 b 2 b 17
+b 20 b 4 b 18

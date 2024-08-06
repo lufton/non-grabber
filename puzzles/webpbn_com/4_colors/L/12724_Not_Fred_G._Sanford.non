@@ -1,0 +1,82 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 17, 2011"
+description "but it is a red fox."
+difficulty 2.25
+height 20
+id 12724
+link "https://webpbn.com/play.cgi?id=12724"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Not Fred G. Sanford"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 red 1
+red 2 red 2
+red 2 red 1 black 1 red 1
+red 2 red 1 black 1 red 1
+red 4 black 1 red 1
+green 1 red 6 green 1
+green 2 red 2 black 1 red 4 green 1 green 1 green 1 green 1 green 1
+green 1 red 8 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+black 2 red 3 red 4 green 1 green 1 green 1 red 5 green 1 green 1 green 1 green 1
+black 1 red 18 green 1 green 1 green 2 green 1
+green 2 black 3 red 19 green 3 green 2 green 5
+green 5 red 21 green 2 green 2 green 1 green 2
+green 2 green 1 red 2 green 1 red 3 green 1 red 21 green 1
+green 2 green 1 red 2 green 1 red 3 green 1 red 3 green 1 red 7 green 1 red 8 green 1
+green 2 green 2 red 3 green 1 red 3 green 1 red 3 green 2 red 5 green 2 green 2 red 6 green 2
+green 2 green 2 red 3 green 5 green 1 green 2 red 5 green 2 green 3 green 3 green 4
+green 1 green 2 red 2 green 1 red 1 green 1 green 2 green 2 green 1 red 1 green 1 red 3 green 2 green 3 green 3 green 4
+green 1 green 1 green 1 red 2 green 1 red 2 green 2 green 1 red 1 green 1 red 3 green 2 green 3 green 3 green 1
+green 1 green 2 green 1 red 2 green 1 red 1 green 2 green 2 red 2 green 1 red 3 green 1 green 2 green 4 green 2 green 1
+green 1 green 2 green 1 red 2 green 1 red 1 green 1 green 2 green 1 red 2 green 1 red 3 green 2 green 3 green 4 green 1 green 1
+
+columns
+green 3 black 2 green 2 green 3
+green 1 red 1 black 1 green 6
+red 3 black 1 green 9
+black 1 red 8 black 1 green 1 green 2
+red 5 black 1 red 2 black 1 green 6
+red 4 green 6
+red 6 red 6
+red 1 black 3 red 4 red 8
+red 16 green 4
+red 4 green 4 red 2
+green 2 red 7 green 2 red 3
+red 6 green 1 green 1
+green 2 red 6 green 3
+red 3 green 8
+red 6 green 2
+green 1 red 6 green 2
+red 6 green 3
+red 4 green 3 green 2
+green 2 red 5 green 3
+red 11
+red 8 green 2 red 2
+red 10 green 2
+red 12
+green 2 red 12
+red 6 green 4 red 2
+red 4 green 7
+red 3 green 1
+green 3 red 3 green 4
+green 3 red 3 green 6
+green 2 red 3 green 5
+green 2 red 3 green 1
+red 3 green 4
+green 2 red 3 green 5
+green 4 red 3 green 5
+red 3 green 2
+green 2 green 2 green 1
+green 5 green 4
+green 2 green 2 green 2
+green 2 green 3
+green 9 green 2

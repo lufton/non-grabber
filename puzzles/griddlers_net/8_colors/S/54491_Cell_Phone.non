@@ -1,0 +1,52 @@
+by "benjy_t"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/2/07"
+height 18
+id 54491
+link "https://www.griddlers.net/nonogram/-/g/54491"
+medium_time "0:01:50"
+points 391
+popularity 64.12
+title "Cell Phone"
+width 9
+
+color a ffffff
+color b 999999
+color c 003333
+color d ccccff
+color e 66cccc
+color f 0099cc
+color g 006699
+color h c0c0c0
+
+rows
+b 1 c 1
+b 1 c 1
+b 1 c 1
+c 7
+c 1 b 7 c 1
+c 1 d 7 c 1
+c 1 d 1 e 4 f 1 d 1 c 1
+c 1 d 1 e 1 f 4 d 1 c 1
+c 1 d 1 f 3 g 2 d 1 c 1
+c 1 d 1 f 1 g 3 f 1 d 1 c 1
+c 1 d 7 c 1
+c 2 c 3 c 2
+c 1 h 7 c 1
+c 2 c 3 c 2
+c 1 h 7 c 1
+c 2 c 3 c 2
+c 1 h 7 c 1
+c 7
+
+columns
+c 13
+c 1 b 1 d 6 c 1 h 1 c 1 h 1 c 1 h 1 c 1
+c 1 b 1 d 1 e 2 f 2 d 1 h 1 h 1 h 1 c 1
+c 1 b 1 d 1 e 1 f 2 g 1 d 1 c 1 h 1 c 1 h 1 c 1 h 1 c 1
+c 1 b 1 d 1 e 1 f 2 g 1 d 1 c 1 h 1 c 1 h 1 c 1 h 1 c 1
+c 1 b 1 d 1 e 1 f 1 g 2 d 1 c 1 h 1 c 1 h 1 c 1 h 1 c 1
+b 3 c 1 b 1 d 1 f 2 g 1 f 1 d 1 h 1 h 1 h 1 c 1
+c 4 b 1 d 6 c 1 h 1 c 1 h 1 c 1 h 1 c 1
+c 13

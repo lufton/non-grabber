@@ -1,0 +1,96 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/19/07"
+height 31
+id 47288
+link "https://www.griddlers.net/nonogram/-/g/47288"
+medium_time "0:38:23"
+points 101061
+popularity 84.33
+title "Aladdin's Lamp"
+width 40
+
+color a ffffff
+color b de2e2e
+color c a256f5
+color d c39bf0
+color e ccccff
+color f ffde00
+color g 7526d3
+color h b87bf4
+
+rows
+b 1
+b 1 c 4
+b 1 c 1 d 2 c 1
+b 3 c 1 d 2 c 1
+b 3 c 1 d 1 c 1
+b 4 c 1 e 1 d 1 c 2
+b 5 c 1 e 1 d 2 c 2
+b 2 f 1 b 2 c 1 g 1 c 1 e 1 d 3 g 1
+b 3 c 1 d 2 g 1 c 1 d 4 g 1
+b 1 c 2 b 1 c 1 d 2 g 1 c 1 d 1 h 3 d 1 g 1
+c 1 b 3 d 1 c 1 c 4 g 8 c 1 d 1 h 1 g 2 h 1 d 1 g 1
+g 1 e 4 d 1 c 1 g 1 d 1 c 1 d 8 g 1 d 1 g 1 g 1 d 1 h 1 g 1 g 1 h 1 d 1 g 1
+g 2 d 2 e 1 d 1 c 1 c 2 g 1 e 1 d 1 c 3 g 5 d 2 g 2 d 1 h 1 g 1 c 1 d 1 g 1
+c 1 d 2 e 1 d 1 c 1 c 1 d 1 e 1 d 1 c 1 e 2 d 8 g 1 d 2 g 2 c 1 d 1 g 1
+c 1 d 2 e 1 d 1 c 2 d 1 h 1 e 2 d 1 c 4 g 6 d 2 h 2 g 1 c 1 d 1 g 1
+c 1 d 3 e 1 g 1 d 1 e 2 h 1 e 1 d 13 h 2 d 1 g 1 c 1 d 1 g 1
+c 1 d 2 g 1 d 1 g 2 d 2 c 3 d 1 c 3 d 1 g 2 d 2 g 3 h 1 g 2 c 1 d 2 g 1
+c 1 h 1 c 1 d 1 g 2 d 1 g 2 c 1 d 1 c 3 d 1 c 2 g 1 h 1 g 3 c 1 g 4 c 1 d 1 g 1
+g 1 h 2 d 13 h 4 c 4 h 1 d 1 g 1 c 2 d 1 h 1 g 1
+g 1 h 3 d 8 h 6 c 6 h 2 g 1 h 3 g 1
+g 1 h 4 d 6 h 5 c 3 g 2 c 1 h 3 g 1 h 2 g 1
+g 1 h 11 c 5 g 2 c 2 h 3 g 3
+g 3 h 9 c 6 h 3 g 2
+g 2 h 14 g 2
+g 5 h 3 c 2 g 4
+c 1 h 1 d 3 h 3 g 1
+c 1 d 1 e 4 d 2 h 2 g 1
+g 2 d 3 e 1 d 4 h 3 g 2
+g 1 h 15 g 1
+g 1 d 5 e 2 d 6 h 4 g 1
+g 3 c 2 h 4 c 2 g 8
+
+columns
+b 3
+b 2 b 6 c 1 g 1
+b 5 f 1 b 3 e 1 g 1
+b 6 c 1 b 1 e 1 g 1
+b 2 c 1 b 1 e 1 d 1 c 1
+b 1 d 1 e 1 d 2 c 2
+c 1 d 1 e 1 d 3 c 2
+c 1 d 1 e 1 d 3 h 1 g 2
+c 1 d 1 e 1 d 2 c 1 h 2 g 1
+c 1 d 1 e 1 g 1 d 1 h 3 g 1
+c 1 g 1 d 1 g 1 d 1 h 3 g 1
+c 1 d 1 g 2 d 2 h 2 g 1
+c 1 d 1 e 1 g 1 d 3 h 2 g 1
+c 1 d 1 h 1 e 1 d 1 g 1 d 3 h 2 g 1 g 2
+c 1 e 2 h 1 d 1 g 1 d 3 h 2 g 1 g 1 d 1 g 1
+g 2 d 1 e 2 c 2 d 3 h 3 g 1 g 1 h 1 d 1 g 1
+c 1 d 1 e 1 c 1 d 2 c 1 d 4 h 3 g 1 g 1 h 1 d 1 c 1
+c 2 d 1 e 1 c 1 d 1 c 2 d 3 h 3 g 1 c 1 d 1 h 1 d 1 c 1
+c 1 d 1 c 1 e 1 c 1 d 2 c 1 d 3 h 3 g 1 c 1 d 2 h 1 d 1 h 1
+c 1 d 1 c 1 d 1 c 1 d 1 c 2 d 1 h 5 g 1 h 1 e 1 d 1 h 1 e 1 h 1
+c 2 g 1 d 1 c 1 d 1 c 1 d 1 c 1 d 2 h 6 d 1 e 2 h 1 e 1 h 1
+c 1 d 2 g 1 d 1 g 1 d 1 g 1 d 1 c 2 d 1 h 2 c 1 h 3 d 1 e 1 d 1 h 1 d 1 h 1
+g 1 d 2 g 1 d 1 g 1 d 1 g 1 d 2 c 1 d 1 h 2 c 2 h 2 d 1 e 1 d 1 h 1 d 1 c 1
+g 3 d 1 g 1 d 1 g 1 d 1 g 2 h 3 c 2 h 1 c 1 h 1 d 2 h 1 d 1 c 1
+g 1 d 1 g 1 d 1 g 1 d 1 g 1 h 3 c 3 h 1 c 1 h 1 d 2 h 1 d 1 g 1
+g 1 d 1 g 1 d 1 g 1 d 2 g 1 h 1 c 4 h 1 g 1 h 4 d 1 g 1
+g 2 d 2 g 1 d 2 g 1 h 1 c 2 g 1 c 1 h 1 g 2 h 3 d 1 g 1
+g 1 d 2 g 1 d 2 g 2 c 2 g 2 c 1 h 1 g 1 g 1 h 3 g 1
+g 2 d 3 g 1 c 3 g 1 c 1 h 2 g 1 g 1 h 2 g 1
+c 3 g 1 d 1 h 2 g 2 c 4 h 1 g 1 g 1 h 2 g 1
+c 1 d 2 e 1 c 1 g 1 d 1 g 1 h 3 g 1 c 2 h 3 g 1 g 1 h 1 g 1
+c 1 d 2 c 1 d 1 e 1 c 1 c 1 d 1 h 1 g 2 d 1 g 2 h 4 g 1 g 2
+c 1 d 1 c 1 c 1 d 1 e 1 c 2 d 1 h 1 g 1 g 3 d 1 h 3 g 1
+c 2 c 1 d 4 h 1 g 1 g 4
+c 1 c 1 d 2 h 1 g 1 c 1 h 2 g 1
+c 1 d 2 h 1 g 1 c 1 h 2 g 1
+g 1 d 1 h 2 g 1 c 2 d 1 h 1 g 1
+g 1 d 2 h 1 c 4 d 2 h 1 g 1
+g 2 d 6 g 2
+g 6

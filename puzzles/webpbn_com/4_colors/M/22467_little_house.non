@@ -1,0 +1,62 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Jul 30, 2013"
+description "by ann"
+difficulty 1.25
+height 20
+id 22467
+link "https://webpbn.com/play.cgi?id=22467"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "little house"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 6
+black 8
+black 10
+black 12
+black 14
+black 16
+blue 14
+blue 1 blue 6 blue 1
+blue 1 blue 6 blue 1
+blue 1 blue 6 blue 1
+blue 14
+blue 14
+blue 5 black 4 blue 5
+blue 5 black 4 blue 5
+blue 5 black 4 blue 5
+blue 5 black 4 blue 5
+blue 5 black 4 blue 5
+blue 5 black 4 blue 5
+green 20
+
+columns
+green 1
+green 1
+green 1
+green 1
+black 1 green 1
+black 2 blue 12 green 1
+black 3 blue 1 blue 8 green 1
+black 4 blue 1 blue 8 green 1
+black 5 blue 1 blue 8 green 1
+black 6 blue 12 green 1
+black 7 blue 6 black 6 green 1
+black 7 blue 6 black 6 green 1
+black 7 blue 6 black 6 green 1
+black 7 blue 6 black 6 green 1
+black 6 blue 12 green 1
+black 5 blue 1 blue 8 green 1
+black 4 blue 1 blue 8 green 1
+black 3 blue 1 blue 8 green 1
+black 2 blue 12 green 1
+black 1 green 1

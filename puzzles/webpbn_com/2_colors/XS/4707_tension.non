@@ -1,0 +1,37 @@
+by "shay yatim (shay3979)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by shay yatim"
+date "Jan 11, 2009"
+description ""
+difficulty 1.0
+height 10
+id 4707
+link "https://webpbn.com/play.cgi?id=4707"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "tension"
+width 10
+
+rows
+4
+1,1
+1,4
+4,1
+1,1,4
+4,1,1
+1,1,4
+1,1,1,1
+1,1,1,1
+10
+
+columns
+8
+1,1,1
+1,1,1
+10
+1,1,1
+1,1,1
+10
+1,1,1
+1,1,1
+6

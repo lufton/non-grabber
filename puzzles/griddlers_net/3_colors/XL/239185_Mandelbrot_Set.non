@@ -1,0 +1,90 @@
+by "czarnyresorak"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/17/22"
+height 35
+id 239185
+link "https://www.griddlers.net/nonogram/-/g/239185"
+medium_time "0:15:44"
+points 52564
+popularity 75.37
+title "Mandelbrot Set"
+width 35
+
+color a 000066
+color b 000000
+color e 0000ff
+
+rows
+e 2
+e 1 e 1
+e 1
+e 3
+e 1 b 3 e 1
+e 1 b 3 e 1
+e 1 b 3 e 1 e 1
+e 1 e 2 b 3 e 1 e 1
+e 2 e 1 b 6 e 1 b 1 e 1
+e 1 b 1 e 1 b 8 e 1
+e 1 e 1 b 9 e 1
+e 1 e 1 b 10 e 3
+e 2 e 1 e 1 b 11 e 1
+e 1 b 1 e 1 b 1 e 1 e 1 b 10 e 1
+e 1 e 1 b 3 e 1 e 1 b 11 e 1
+e 6 b 5 e 1 e 1 b 11 e 1
+e 1 e 1 b 3 e 1 b 7 e 2 b 11 e 1
+e 2 b 1 e 2 b 13 e 1 b 11 e 1
+e 1 e 1 b 3 e 1 b 7 e 2 b 11 e 1
+e 6 b 5 e 1 e 1 b 11 e 1
+e 1 e 1 b 3 e 1 e 1 b 11 e 1
+e 1 b 1 e 1 b 1 e 1 e 1 b 10 e 1
+e 2 e 1 e 1 b 11 e 1
+e 1 e 1 b 10 e 3
+e 1 e 1 b 9 e 1
+e 1 b 1 e 1 b 8 e 1
+e 2 e 1 b 6 e 1 b 1 e 1
+e 1 e 2 b 3 e 1 e 1
+e 1 b 3 e 1 e 1
+e 1 b 3 e 1
+e 1 b 3 e 1
+e 3
+e 1
+e 2 e 1
+e 1
+
+columns
+e 1
+e 1
+e 1 b 1 e 1
+e 1
+e 1 e 1 e 1
+e 2 b 1 e 2
+e 1 b 3 e 1
+e 1 b 3 e 1
+e 1 b 3 e 1
+e 2 b 1 e 2
+e 3 e 1 b 3 e 1 e 3
+e 1 b 1 e 1 b 5 e 1 b 1 e 1
+e 1 b 7 e 1
+e 1 b 9 e 1
+e 1 b 7 e 1
+e 1 b 5 e 1
+e 1 b 3 e 1
+e 1 b 1 e 1
+e 3
+e 1 e 2 b 3 e 2 e 1
+e 2 e 2 b 7 e 2 e 2
+e 1 b 1 e 2 b 11 e 2 b 1 e 1
+e 1 e 1 b 15 e 1 e 1
+e 1 b 17 e 1
+e 1 b 19 e 1
+e 1 e 4 b 19 e 4 e 2
+e 2 e 1 b 27 e 1 e 1
+e 2 b 27 e 2
+e 1 e 1 b 27 e 1 e 1
+e 4 b 19 e 4
+e 1 b 7 e 3 b 7 e 1
+e 2 b 1 e 2 b 2 e 3 e 3 b 2 e 2 b 1 e 2
+e 1 e 2 e 2 e 1
+e 1 e 1
+e 1 e 1

@@ -1,0 +1,92 @@
+by "DinaGreen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/11/07"
+height 20
+id 51559
+link "https://www.griddlers.net/nonogram/-/g/51559"
+medium_time "0:08:29"
+points 14351
+popularity 83.86
+title "Egyptian Pyramids"
+width 50
+
+color a ccffff
+color b 595214
+color c 8b791b
+color d e9e957
+color h bdaf34
+
+rows
+0
+d 1 h 1
+d 2 h 2
+c 1 d 3 h 3
+d 1 c 2 d 3 h 5
+d 2 c 3 d 4 h 6 d 1 c 1
+d 2 c 5 d 5 h 7 d 2 c 2
+d 3 c 6 d 5 h 9 d 2 c 4
+d 4 c 7 d 6 h 10 d 3 c 5
+d 4 c 9 d 5 h 11 d 4 c 6
+d 5 c 10 d 3 h 13 d 3 c 8
+d 5 c 12 d 2 h 14 d 2 c 9
+d 6 c 13 d 1 h 15 c 11
+d 6 c 15 h 17 c 10
+d 6 c 17 h 17 c 9
+d 7 c 4 d 1 c 10 h 1 c 2 h 17 c 8
+d 6 c 4 d 1 h 1 b 1 c 8 h 2 b 1 c 2 h 17 c 7
+d 6 c 3 d 1 h 1 b 3 c 6 h 2 b 3 c 2 h 17 c 4 b 2
+b 1 d 4 c 3 d 1 h 1 b 5 c 4 h 2 b 5 c 2 h 17 b 5
+b 2 d 2 c 3 d 1 h 1 b 7 c 2 h 2 b 7 c 3 h 13 b 7
+
+columns
+d 3 b 2
+d 5 b 1
+d 7
+d 8
+d 8 c 1
+d 8 c 2
+d 7 c 4
+d 6 c 5 d 1
+d 6 c 5 d 1 h 1
+d 5 c 6 d 1 h 1 b 1
+d 4 c 7 d 1 h 1 b 2
+d 2 c 9 d 1 h 1 b 3
+c 13 b 4
+c 13 b 3
+c 13 b 2
+c 13 b 1
+c 13
+c 12
+d 1 c 10 h 1
+d 3 c 8 h 2
+d 5 c 6 h 2 b 1
+d 7 c 4 h 2 b 2
+d 9 c 2 h 2 b 3
+d 7 h 4 c 2 b 4
+d 5 h 8 c 2 b 3
+d 3 h 12 c 2 b 2
+h 16 c 2 b 1
+h 16 c 2
+h 16 c 1
+h 15 c 1
+h 15
+h 14
+h 13
+h 12
+h 11
+h 10
+d 2 h 9
+d 4 h 8
+d 5 c 1 h 7
+d 4 c 3 h 7
+d 2 c 7 h 6
+c 10 h 5
+c 10 h 4
+c 10 h 2 b 1
+c 10 h 1 b 1
+c 9 b 2
+c 8 b 2
+c 7 b 2
+c 5 b 3
+c 4 b 3

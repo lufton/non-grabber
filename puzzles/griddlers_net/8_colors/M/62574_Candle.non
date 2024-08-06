@@ -1,0 +1,64 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/2/08"
+height 30
+id 62574
+link "https://www.griddlers.net/nonogram/-/g/62574"
+medium_time "0:03:41"
+points 1054
+popularity 75.3
+title "Candle"
+width 9
+
+color a cccccc
+color b cc3300
+color c ff6600
+color d ffcc00
+color e 6699cc
+color f ffffff
+color g 99ccff
+color h 3366cc
+
+rows
+b 1
+b 1 c 1 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 5 b 1
+b 1 c 1 d 2 c 2 b 1
+b 1 c 1 d 2 c 2 b 1
+b 1 c 1 d 2 c 2 b 1
+b 1 c 1 d 2 c 2 b 1
+b 2 d 1 b 2
+b 1
+b 1
+e 3 b 1 e 3
+e 1 f 5 g 2 h 1
+e 1 f 5 g 2 h 1
+e 1 f 2 h 1 f 2 g 2 h 1
+e 1 f 1 h 1 f 1 h 1 f 1 g 2 h 1
+h 1 f 2 h 1 f 1 g 2 h 1
+e 1 f 3 h 3
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 1 f 4 g 1 h 1
+e 2 h 3
+
+columns
+e 4
+b 5 e 1 f 4 h 1 e 11
+b 2 c 5 b 1 e 1 f 3 h 1 f 12 e 1
+b 1 c 3 d 4 b 1 e 1 f 2 h 1 f 13 e 1
+b 1 c 4 d 5 b 3 f 3 h 2 f 11 h 1
+b 1 c 7 b 1 e 1 f 5 h 1 f 10 h 1
+b 2 c 5 b 1 e 1 g 5 h 1 g 10 h 1
+b 5 e 1 g 5 h 11
+h 5

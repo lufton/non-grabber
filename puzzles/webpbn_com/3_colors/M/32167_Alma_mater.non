@@ -1,0 +1,61 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Bill Eisenmann"
+date "Mar 10, 2019"
+description "University of Utah"
+difficulty 1.25
+height 20
+id 32167
+link "https://webpbn.com/play.cgi?id=32167"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Alma mater"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 9 red 9
+red 7 red 1 red 7 red 1
+red 7 red 1 red 7 red 1
+red 7 red 1 red 7 red 1
+red 9 red 9
+red 5 red 5
+red 3 red 1 red 3 red 1
+red 3 red 1 red 3 red 1
+red 3 red 1 red 3 red 1
+red 3 red 1 red 3 red 1
+red 3 red 1 red 3 red 1
+red 3 red 1 red 3 red 1
+red 3 red 1 red 3 red 1
+red 3 red 10 red 1
+red 3 red 12
+red 2 red 11
+red 12
+red 10 black 3
+red 8 black 4
+black 3
+
+columns
+red 5
+red 5
+red 15
+red 16
+red 17
+red 6 red 2
+red 19
+red 1 red 1 red 6
+red 5 red 6
+red 6
+red 6
+red 5 red 6
+red 5 red 6
+red 19
+red 18 black 1
+red 17 black 1
+red 6 red 2 black 2
+red 15 black 2
+red 1 red 1 black 2
+red 5 black 2

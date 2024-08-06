@@ -1,0 +1,62 @@
+by "Denise Poulin (dlp1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Denise Poulin"
+date "Dec  9, 2008"
+description "old fashioned game control"
+difficulty 1.5
+height 20
+id 4234
+link "https://webpbn.com/play.cgi?id=4234"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "First style... has changed since then"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+red 2
+red 4
+red 6
+red 6
+red 4
+red 2
+red 2
+black 5 red 2 black 6
+black 1 red 4 black 1 red 2 black 1 red 4 black 1
+black 1 red 1 black 4 red 2 black 5 red 1 black 1
+black 1 red 1 black 1 green 2 black 2 red 2 black 2 green 2 black 1 red 1 black 1
+black 1 red 1 black 1 green 2 black 2 red 2 black 2 green 2 black 2 red 1 black 1
+black 1 red 1 black 14 red 1 black 1
+black 1 red 18 black 1
+black 20
+black 20
+black 20
+black 19
+black 16
+
+columns
+black 4
+black 1 red 1 black 4
+black 2 red 2 black 4
+black 2 red 2 black 1 red 1 black 4
+black 1 red 2 black 3 red 1 black 5
+black 1 red 1 black 1 green 2 black 1 red 1 black 5
+black 1 red 1 black 1 green 2 black 1 red 1 black 5
+red 2 black 1 red 1 black 4 red 1 black 5
+red 4 black 6 red 1 black 5
+red 12 black 1 red 1 black 5
+red 12 black 1 red 1 black 5
+red 4 black 6 red 1 black 5
+red 2 black 1 red 1 black 4 red 1 black 5
+black 1 red 1 black 1 green 2 black 1 red 1 black 5
+black 1 red 1 black 1 green 2 black 1 red 1 black 5
+black 1 red 1 black 4 red 1 black 5
+black 2 red 2 black 2 red 1 black 5
+black 2 red 3 black 5
+black 2 red 1 black 5
+black 6

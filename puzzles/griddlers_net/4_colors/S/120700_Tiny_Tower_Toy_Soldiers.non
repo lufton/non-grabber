@@ -1,0 +1,43 @@
+by "jedslater"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/12/12"
+height 9
+id 120700
+link "https://www.griddlers.net/nonogram/-/g/120700"
+medium_time "0:02:40"
+points 335
+popularity 43.0
+title "Tiny Tower: Toy Soldiers"
+width 13
+
+color a ffffff
+color b 0ce80c
+color c 6cb854
+color d cccccc
+
+rows
+b 1
+b 4
+b 1 c 1 d 2 b 1
+b 1 d 2 b 4
+b 1 d 1 c 1 c 1 b 1 d 2
+b 5 b 1 d 1
+d 5 c 1 d 1 b 1
+b 5
+d 5
+
+columns
+b 1
+b 1 b 2 d 1
+b 4 d 1 b 1 d 1
+b 1 c 1 d 1 c 1 b 1 d 1
+b 1 d 2 b 1 d 1
+d 1 d 1
+0
+b 1 b 1
+b 1 c 1 c 1 b 1 d 1
+b 4 d 1 b 1 d 1
+b 1 d 2 b 2 d 1
+d 1 b 1 d 1
+d 1

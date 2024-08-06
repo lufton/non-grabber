@@ -1,0 +1,37 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Scarlet Noelle Masen"
+date "Oct  7, 2013"
+description "Bird"
+difficulty 1.25
+height 10
+id 22907
+link "https://webpbn.com/play.cgi?id=22907"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Simple Pix 1"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 2
+red 1 black 2
+red 2 black 1
+black 2 red 1
+black 2 red 1
+black 1 red 2
+black 1 red 1
+green 2 black 1 green 1
+red 1 green 2
+red 1 green 2
+
+columns
+green 1
+black 4 green 1 red 2
+red 3 black 2 red 2 black 1
+red 1 black 1 red 4 green 3
+black 2 green 2

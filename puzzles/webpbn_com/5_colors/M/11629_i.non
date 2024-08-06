@@ -1,0 +1,63 @@
+by "Angie Heath (bewildering18)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Angie Heath"
+date "Aug 15, 2011"
+description "h"
+difficulty 1.0
+height 20
+id 11629
+link "https://webpbn.com/play.cgi?id=11629"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "i"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 red 4 black 3 blue 10
+black 3 red 4 black 3 blue 1 black 8 blue 1
+black 3 red 4 black 3 blue 1 black 8 blue 1
+black 3 red 4 black 3 blue 1 black 8 blue 1
+black 3 red 4 black 3 blue 1 black 8 blue 1
+black 3 red 4 black 3 blue 1 black 8 blue 1
+black 3 red 4 black 3 blue 10
+black 3 red 4 black 3 blue 1 black 8 blue 1
+black 10 blue 1 black 8 blue 1
+black 10 blue 1 black 8 blue 1
+black 10 blue 1 black 8 blue 1
+black 10 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+black 3 green 4 black 3 blue 1 black 8 blue 1
+
+columns
+black 20
+black 20
+black 20
+red 8 black 4 green 8
+red 8 black 4 green 8
+red 8 black 4 green 8
+red 8 black 4 green 8
+black 20
+black 20
+black 20
+blue 20
+blue 1 black 5 blue 1 black 13
+blue 1 black 5 blue 1 black 13
+blue 1 black 5 blue 1 black 13
+blue 1 black 5 blue 1 black 13
+blue 1 black 5 blue 1 black 13
+blue 1 black 5 blue 1 black 13
+blue 1 black 5 blue 1 black 13
+blue 1 black 5 blue 1 black 13
+blue 20

@@ -1,0 +1,53 @@
+by "deepfreeze"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/31/11"
+height 15
+id 107386
+link "https://www.griddlers.net/nonogram/-/g/107386"
+medium_time "0:04:15"
+points 550
+popularity 64.17
+title "Butterfly"
+width 17
+
+color a ffffff
+color b 660066
+color c ffff00
+color d ff0000
+
+rows
+b 3 b 3
+b 1 b 2 b 2 b 1
+b 1 b 1
+b 3
+c 3 b 1 c 3
+c 7 b 1 c 7
+c 7 b 3 c 7
+c 2 d 2 c 3 b 3 c 2 d 2 c 3
+c 2 d 2 c 3 b 3 c 2 d 2 c 3
+c 6 b 3 c 5
+c 5 b 3 c 4
+d 4 b 3 d 4
+d 2 c 1 d 2 b 3 d 2 c 1 d 2
+d 5 b 3 d 5
+d 3 b 1 d 3
+
+columns
+c 4
+c 6
+c 3 d 2 c 2 d 2
+c 3 d 2 c 2 d 4
+b 2 c 6 d 1 c 1 d 2
+b 1 c 6 d 4
+b 2 c 6 d 3
+b 3 b 8
+b 12
+b 3 b 8
+b 2 c 6 d 3
+b 1 c 6 d 4
+b 2 c 2 d 2 c 2 d 1 c 1 d 2
+c 3 d 2 c 2 d 4
+c 6 d 2
+c 5
+c 4

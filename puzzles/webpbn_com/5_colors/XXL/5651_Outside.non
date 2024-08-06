@@ -1,0 +1,123 @@
+by "McKenzi Sims (msims7)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by McKenzi Sims"
+date "Apr 17, 2009"
+description ""
+difficulty 1.5
+height 50
+id 5651
+link "https://webpbn.com/play.cgi?id=5651"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Outside"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 17 blue 32
+blue 5 blue 11 blue 32
+blue 5 blue 10 blue 26
+blue 2 blue 3 blue 3 blue 5 blue 32
+blue 2 blue 3 blue 3 blue 4 blue 32
+blue 4 blue 5 blue 4 blue 33
+blue 5 blue 4 blue 3 blue 34
+blue 10 blue 3 blue 1 blue 33
+blue 2 blue 4 blue 3 blue 2 blue 32
+blue 3 blue 2 blue 5 blue 31
+blue 9 blue 7 blue 4 green 2 blue 24
+blue 8 blue 2 blue 10 green 4 blue 23
+blue 7 blue 4 blue 8 green 6 blue 22
+blue 5 blue 7 blue 6 green 8 blue 21
+blue 1 blue 8 blue 4 green 10 blue 20
+blue 1 blue 4 blue 12 green 5 black 5 green 2 blue 19
+blue 1 blue 4 blue 11 green 7 black 3 green 4 blue 18
+blue 1 blue 4 blue 9 green 9 black 1 green 6 blue 17
+blue 1 blue 5 blue 8 green 18 blue 16
+blue 1 blue 6 blue 6 green 20 blue 15
+blue 1 blue 12 green 22 blue 14
+blue 13 green 24 blue 13
+blue 12 green 4 black 5 green 17 blue 12
+blue 11 green 6 black 3 green 6 black 5 green 8 blue 11
+blue 10 green 8 black 1 green 8 black 3 green 10 blue 10
+blue 9 green 19 black 1 green 12 blue 9
+blue 8 green 34 blue 8
+blue 7 green 36 blue 7
+blue 6 green 26 black 5 green 7 blue 6
+blue 5 green 28 black 3 green 9 blue 5
+blue 4 green 9 black 5 green 16 black 1 green 11 blue 4
+blue 3 green 11 black 3 green 30 blue 3
+blue 2 green 13 black 1 green 32 blue 2
+blue 1 green 48 blue 1
+green 50
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 21
+blue 21 black 8 blue 8 green 2 red 2 blue 6 green 2 blue 1
+blue 2 green 5 blue 13 green 4 red 2 green 4 blue 5 green 4 red 2 green 2 blue 3 green 4
+blue 1 green 8 blue 8 green 7 red 2 green 24
+green 3 red 2 green 42 red 2 green 1
+green 3 red 2 green 29 red 2 green 11 red 2 green 1
+green 13 red 2 green 19 red 2 green 14
+
+columns
+blue 14 blue 19 green 1 blue 12 green 3
+blue 14 blue 12 green 2 blue 11 green 4
+blue 3 blue 3 blue 5 blue 17 green 3 blue 10 green 5
+blue 4 blue 3 blue 4 blue 16 green 4 blue 10 green 2 red 2 green 1
+blue 5 blue 3 blue 4 blue 15 green 5 blue 10 green 2 red 2 green 1
+blue 1 blue 2 blue 2 blue 3 blue 15 green 6 blue 10 green 5
+blue 2 blue 5 blue 3 blue 10 green 7 blue 10 green 5
+blue 3 blue 4 blue 2 blue 4 blue 8 green 8 blue 11 green 4
+blue 8 blue 1 blue 6 blue 6 green 9 blue 11 green 4
+blue 8 blue 1 blue 13 green 10 blue 12 green 3
+blue 6 blue 2 blue 13 green 11 blue 12 green 3
+blue 3 blue 2 blue 12 green 12 blue 12 green 3
+blue 9 blue 1 blue 10 green 13 blue 12 green 3
+blue 8 blue 3 blue 8 green 9 black 1 green 4 blue 12 green 2 red 1
+blue 7 blue 4 blue 6 green 10 black 2 green 3 blue 12 green 2 red 1
+blue 6 blue 7 blue 4 green 11 black 3 green 2 blue 12 green 3
+blue 4 blue 1 blue 10 green 4 black 1 green 7 black 2 green 3 blue 12 green 3
+blue 3 blue 8 green 5 black 2 green 6 black 1 green 4 blue 11 green 4
+blue 2 blue 6 blue 6 green 6 black 3 green 10 blue 11 green 4
+blue 2 blue 7 blue 4 green 7 black 2 green 11 blue 11 green 4
+blue 2 blue 11 green 8 black 1 green 12 blue 10 green 5
+blue 2 blue 10 green 22 black 10 green 5
+blue 2 blue 9 green 23 black 10 green 5
+blue 2 blue 8 green 24 black 10 green 5
+blue 10 green 5 black 1 green 19 black 10 red 2 green 3
+blue 10 green 5 black 2 green 18 black 10 red 2 green 3
+blue 11 green 4 black 3 green 5 black 1 green 11 black 10 green 5
+blue 12 green 3 black 2 green 6 black 2 green 10 black 10 green 5
+blue 13 green 2 black 1 green 7 black 3 green 9 black 10 green 5
+blue 14 green 9 black 2 green 10 blue 10 green 5
+blue 15 green 8 black 1 green 11 blue 11 green 4
+blue 16 green 19 blue 11 green 4
+blue 17 green 11 black 1 green 6 blue 11 green 4
+blue 18 green 10 black 2 green 5 blue 11 green 4
+blue 19 green 9 black 3 green 4 blue 11 green 2 red 2
+blue 20 green 8 black 2 green 5 blue 10 green 3 red 2
+blue 21 green 7 black 1 green 6 blue 10 green 5
+blue 22 green 13 blue 9 green 6
+blue 23 green 12 blue 9 green 6
+blue 24 green 11 blue 9 red 2 green 4
+blue 25 green 10 blue 9 red 2 green 4
+blue 26 green 9 blue 10 green 5
+blue 27 green 8 blue 10 green 5
+blue 28 green 7 blue 11 green 4
+blue 29 green 6 blue 11 green 4
+blue 30 green 5 blue 11 green 4
+blue 31 green 4 blue 10 green 5
+blue 32 green 3 blue 9 green 3 red 2 green 1
+blue 33 green 2 blue 9 green 3 red 2 green 1
+blue 34 green 1 blue 10 green 5

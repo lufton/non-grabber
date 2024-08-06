@@ -1,0 +1,61 @@
+by "Brianda Jackson (EggtopiaMusic)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brianda Jackson"
+date "Sep 10, 2021"
+description "Flap, Flap!"
+difficulty 4.0
+height 20
+id 35345
+link "https://webpbn.com/play.cgi?id=35345"
+note "published,definitely non-unique,may require much guessing"
+quality 1.5
+title "pretty"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 2 black 1
+black 5 black 2 black 2
+black 1 red 1 black 1 black 1 black 2
+black 1 red 1 black 1 black 1 black 2
+black 1 red 3 black 5
+black 1 red 1 red 1 black 3
+black 2 red 2 black 2
+black 2 red 2 red 1 black 2
+black 4 red 1 black 2
+black 1 red 2 black 3
+black 1 red 1 black 3
+black 2 red 1 black 3
+black 1 black 1
+black 2 black 2
+black 5 black 2
+black 2 black 2
+black 3
+
+columns
+black 1
+black 1 black 4
+black 8 black 2
+black 2 black 3 black 2
+black 1 black 1 red 1 black 2
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 3 black 3
+black 1 red 2 red 1 black 4
+black 1 red 1 red 1 black 1
+black 2 red 2 black 2
+black 1 black 1 black 3
+black 2 black 8
+black 10
+black 2
+black 2
+black 2
+black 2
+black 2
+0
+0

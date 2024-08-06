@@ -1,0 +1,111 @@
+by "Magnus Boivie (boivie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Magnus Boivie"
+date "Aug  2, 2008"
+description "Squares whose sides are successive Fibonacci numbers in length"
+difficulty 1.25
+height 34
+id 3183
+link "https://webpbn.com/play.cgi?id=3183"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Fibonacci"
+width 55
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 13 green 34
+black 13 green 34
+black 13 green 34
+black 13 green 34
+black 13 green 34
+black 13 green 34
+black 13 green 34
+black 13 green 34
+black 13 blue 2 black 1 blue 5 green 34
+black 13 blue 2 blue 5 green 34
+black 13 green 3 blue 5 green 34
+black 13 green 3 blue 5 green 34
+black 13 green 3 blue 5 green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+
+columns
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+black 13
+blue 2 green 3
+blue 2 green 3
+black 1 green 3
+blue 5
+blue 5
+blue 5
+blue 5
+blue 5
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34
+green 34

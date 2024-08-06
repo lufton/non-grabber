@@ -1,0 +1,34 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 13, 2011"
+description "Measuring tape."
+difficulty 1.0
+height 5
+id 14555
+link "https://webpbn.com/play.cgi?id=14555"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "Household tool #6"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+red 3
+red 1 blue 1 red 1
+red 3 black 3
+0
+
+columns
+0
+red 3
+red 1 blue 1 red 1
+red 3
+black 1
+black 1
+black 1

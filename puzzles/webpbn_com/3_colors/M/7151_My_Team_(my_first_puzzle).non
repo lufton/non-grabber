@@ -1,0 +1,61 @@
+by "Mike Johnson (KickinIt_98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Mike Johnson"
+date "Nov 19, 2009"
+description "Green Bay Packers logo (imagine some yellow in there somewhere)"
+difficulty 2.0
+height 20
+id 7151
+link "https://webpbn.com/play.cgi?id=7151"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My Team (my first puzzle)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 6 black 8 green 6
+green 5 black 2 black 2 green 5
+green 4 black 2 green 6 black 2 green 4
+green 3 black 2 green 2 green 2 black 2 green 3
+green 2 black 2 green 2 green 2 black 2 green 2
+green 1 black 2 green 2 green 4 green 2 black 2 green 1
+black 2 green 2 green 6 green 2 black 2
+black 1 green 2 green 8 green 2 black 1
+black 1 green 1 green 13 black 1
+black 1 green 1 green 4 green 1 black 1
+black 1 green 1 green 4 green 1 black 1
+black 1 green 1 green 10 green 1 black 1
+black 1 green 2 green 8 green 2 black 1
+black 2 green 2 green 6 green 2 black 2
+green 1 black 2 green 2 green 4 green 2 black 2 green 1
+green 2 black 2 green 2 green 2 black 2 green 2
+green 3 black 2 green 2 green 2 black 2 green 3
+green 4 black 2 green 6 black 2 green 4
+green 5 black 2 black 2 green 5
+green 6 black 8 green 6
+
+columns
+green 6 black 8 green 6
+green 5 black 2 black 2 green 5
+green 4 black 2 green 6 black 2 green 4
+green 3 black 2 green 2 green 2 black 2 green 3
+green 2 black 2 green 2 green 2 black 2 green 2
+green 1 black 2 green 2 green 4 green 2 black 2 green 1
+black 2 green 2 green 6 green 2 black 2
+black 1 green 2 green 8 green 2 black 1
+black 1 green 1 green 10 green 1 black 1
+black 1 green 1 green 4 green 4 green 1 black 1
+black 1 green 1 green 4 green 4 green 1 black 1
+black 1 green 1 green 4 green 4 green 1 black 1
+black 1 green 2 green 3 green 3 green 2 black 1
+black 2 green 2 green 2 green 2 green 2 black 2
+green 1 black 2 green 2 green 1 green 1 green 2 black 2 green 1
+green 2 black 2 green 2 green 1 green 2 black 2 green 2
+green 3 black 2 green 3 green 2 black 2 green 3
+green 4 black 2 green 6 black 2 green 4
+green 5 black 2 black 2 green 5
+green 6 black 8 green 6

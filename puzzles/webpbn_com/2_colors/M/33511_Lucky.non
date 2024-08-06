@@ -1,0 +1,55 @@
+by "Taylor Capponi (tcapponi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Taylor Capponi"
+date "Jan 21, 2020"
+description "How lucky are your rolls?"
+difficulty 1.25
+height 19
+id 33511
+link "https://webpbn.com/play.cgi?id=33511"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Lucky"
+width 19
+
+rows
+0
+5,5,5
+5,1,3,1,3
+2,2,5,2,2
+5,3,1,3,1
+5,5,5
+0
+5,5
+1,1,1,1,1,1
+5,2,2
+1,1,1,1,1,1
+5,5
+0
+5
+1,1,1
+1,1,1
+1,1,1
+5
+0
+
+columns
+0
+5
+5
+2,2
+5,5
+5,1,1,1
+5
+5,1,1,1,5
+1,3,5,1,1
+5,5
+3,1,5,1,1
+5,1,1,1,5
+2,2
+5,1,1,1
+1,3,5
+2,2
+3,1
+5
+0

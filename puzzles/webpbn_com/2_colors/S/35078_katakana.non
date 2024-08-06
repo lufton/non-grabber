@@ -1,0 +1,43 @@
+by "Pierre Dejoue (LittleBigDej)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Pierre Dejoue"
+date "May  1, 2021"
+description "Japanese katakana character for the sound "ne""
+difficulty 1.0
+height 13
+id 35078
+link "https://webpbn.com/play.cgi?id=35078"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "katakana"
+width 13
+
+rows
+13
+6,6
+6,6
+6,6
+2,2
+9,3
+8,4
+6,5
+4,2,3
+1,2,3,2
+6,4,1
+6,6
+13
+
+columns
+13
+9,3
+4,4,3
+4,4,3
+4,3,4
+4,3,4
+1,2,1
+4,2,5
+4,1,6
+4,2,4
+4,4,3
+10,2
+13

@@ -1,0 +1,61 @@
+by "Nick Poulin (nickpoulin49)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Nick Poulin"
+date "Dec  6, 2008"
+description "big red"
+difficulty 1.25
+height 20
+id 4258
+link "https://webpbn.com/play.cgi?id=4258"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "gum"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 20
+red 20
+red 20
+red 20
+red 20
+red 20
+red 3 black 4 red 2 black 1 red 2 black 5 red 3
+red 3 black 1 red 2 black 1 red 5 black 1 red 7
+red 3 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 7
+red 3 black 5 red 1 black 1 red 2 black 1 red 7
+red 3 black 1 red 3 black 1 red 1 black 1 red 2 black 1 red 2 black 3 red 2
+red 3 black 1 red 3 black 1 red 1 black 1 red 2 black 1 red 4 black 1 red 2
+red 3 black 1 red 3 black 1 red 1 black 1 red 2 black 1 red 4 black 1 red 2
+red 3 black 1 red 3 black 1 red 1 black 1 red 2 black 1 red 4 black 1 red 2
+red 3 black 5 red 1 black 1 red 2 black 6 red 2
+red 20
+red 1 black 18 red 1
+red 20
+red 20
+red 20
+
+columns
+red 20
+red 16 black 1 red 3
+red 16 black 1 red 3
+red 6 black 9 red 1 black 1 red 3
+red 6 black 1 red 2 black 1 red 4 black 1 red 1 black 1 red 3
+red 6 black 1 red 2 black 1 red 4 black 1 red 1 black 1 red 3
+red 6 black 4 red 4 black 1 red 1 black 1 red 3
+red 9 black 6 red 1 black 1 red 3
+red 16 black 1 red 3
+red 6 black 1 red 1 black 7 red 1 black 1 red 3
+red 16 black 1 red 3
+red 16 black 1 red 3
+red 6 black 9 red 1 black 1 red 3
+red 6 black 1 red 7 black 1 red 1 black 1 red 3
+red 6 black 1 red 7 black 1 red 1 black 1 red 3
+red 6 black 1 red 3 black 1 red 3 black 1 red 1 black 1 red 3
+red 6 black 1 red 3 black 1 red 3 black 1 red 1 black 1 red 3
+red 10 black 5 red 1 black 1 red 3
+red 16 black 1 red 3
+red 20

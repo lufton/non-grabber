@@ -1,0 +1,31 @@
+by "Heather (heatherkewl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Heather"
+date "Jun  9, 2011"
+description "view from the plane doing a barrel roll"
+difficulty 1.0
+height 5
+id 14464
+link "https://webpbn.com/play.cgi?id=14464"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "air trip"
+width 5
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+black 5
+black 5
+blue 5
+blue 5
+
+columns
+black 3 blue 2
+black 3 blue 2
+black 3 blue 2
+black 3 blue 2
+black 3 blue 2

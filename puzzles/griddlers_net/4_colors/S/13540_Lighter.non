@@ -1,0 +1,44 @@
+by "thunderbirdfr"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/27/04"
+height 17
+id 13540
+link "https://www.griddlers.net/nonogram/-/g/13540"
+medium_time "0:00:43"
+points 16
+popularity 60.87
+title "Lighter"
+width 6
+
+color a ffffff
+color d 0000ff
+color g 808080
+color h 000000
+
+rows
+g 3
+h 3 g 3
+h 2 g 2 h 1
+h 5
+d 2 d 1
+d 5
+d 5
+d 5
+d 5
+d 5
+d 5
+d 5
+d 5
+d 5
+d 5
+d 5
+d 5
+
+columns
+h 1
+h 3 d 13
+h 3 d 13
+g 3 h 1 d 12
+g 3 h 1 d 12
+g 2 h 2 d 13

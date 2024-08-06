@@ -1,0 +1,30 @@
+by "arcadedweller"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/9/08"
+height 5
+id 66122
+link "https://www.griddlers.net/nonogram/-/g/66122"
+medium_time "0:00:12"
+points 11
+popularity 39.09
+title "Manilla Folder"
+width 5
+
+color a ffffcc
+color b 999999
+color c f2dea0
+
+rows
+b 2 c 3
+c 3 c 1
+c 1 c 1
+c 1 c 1
+c 5
+
+columns
+b 1 c 4
+b 1 c 1 c 1
+c 2 c 1
+c 1 c 1
+c 5

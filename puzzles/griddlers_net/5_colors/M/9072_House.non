@@ -1,0 +1,62 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/9/04"
+height 20
+id 9072
+link "https://www.griddlers.net/nonogram/-/g/9072"
+medium_time "0:06:43"
+points 1444
+popularity 63.16
+title "House"
+width 20
+
+color a ffffff
+color b 800000
+color c cd0000
+color d 008000
+color e 000000
+
+rows
+b 1
+b 2 c 1
+b 2 c 3
+b 4 c 3 d 2
+b 4 c 5 d 3
+b 6 c 5 d 4
+b 6 c 7 d 4
+b 8 c 7 d 4
+b 8 c 9 d 3
+e 1 b 7 c 7 d 2
+e 1 b 4 c 3 e 1 b 2
+e 1 e 2 e 1 c 1 e 2 e 1 b 2
+e 1 e 2 e 1 e 3 e 1 b 2
+e 1 e 1 e 3 e 1 b 2
+e 1 b 1 e 1 e 3 e 1 b 2
+d 1 e 1 b 2 e 1 e 1 d 2 b 2
+d 1 e 1 b 2 e 1 d 5
+d 3 b 2 e 1 d 7
+d 5 b 1 e 1 d 9
+d 7 e 1 d 11
+
+columns
+b 1 d 5
+b 2 e 8 d 3
+b 4 d 3
+b 5 e 2 d 2
+b 6 e 2 b 4 d 2
+b 8 b 4 d 1
+b 9 d 1
+b 10
+b 2 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 2 e 9
+c 11 d 1
+c 9 d 1
+c 8 e 3 d 2
+c 6 e 4 d 2
+c 5 e 4 d 3
+c 4 d 3
+c 3 e 6 d 4
+d 3 c 1 d 5
+d 5 d 5
+d 7 b 6 d 4
+d 7 b 6 d 4

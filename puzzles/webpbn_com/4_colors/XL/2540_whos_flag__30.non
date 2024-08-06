@@ -1,0 +1,93 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by harris harris"
+date "Mar 25, 2008"
+description "Jordan"
+difficulty 1.25
+height 31
+id 2540
+link "https://webpbn.com/play.cgi?id=2540"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "who's flag # 30"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 1 black 39
+red 2 black 38
+red 3 black 37
+red 4 black 36
+red 5 black 35
+red 6 black 34
+red 7 black 33
+red 8 black 32
+red 9 black 31
+red 10 black 30
+red 11
+red 12
+red 3 red 1 red 1 red 5
+red 4 red 7
+red 3 red 7
+red 4 red 9
+red 3 red 1 red 1 red 7
+red 14
+red 13
+red 12
+red 11 green 29
+red 10 green 30
+red 9 green 31
+red 8 green 32
+red 7 green 33
+red 6 green 34
+red 5 green 35
+red 4 green 36
+red 3 green 37
+red 2 green 38
+red 1 green 39
+
+columns
+red 31
+black 1 red 29 green 1
+black 2 red 27 green 2
+black 3 red 9 red 1 red 1 red 11 green 3
+black 4 red 9 red 11 green 4
+black 5 red 7 red 9 green 5
+black 6 red 7 red 9 green 6
+black 7 red 5 red 1 red 1 red 7 green 7
+black 8 red 15 green 8
+black 9 red 13 green 9
+black 10 red 11 green 10
+black 10 red 9 green 11
+black 10 red 7 green 11
+black 10 red 5 green 11
+black 10 red 3 green 11
+black 10 red 1 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11
+black 10 green 11

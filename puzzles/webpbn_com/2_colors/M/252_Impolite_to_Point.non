@@ -1,0 +1,54 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Aug  8, 2005"
+description "My cursor, pointing at a paint-by-number cell."
+difficulty 2.25
+height 20
+id 252
+link "https://webpbn.com/play.cgi?id=252"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Impolite to Point"
+width 17
+
+rows
+2,2
+1,1,2
+5,10
+5,10
+1,1,2
+1,4,2
+1,1,4
+1,1,1,3
+1,1,1,1,2
+3,1,1,1,1,1
+1,3,1,1
+1,2,1
+2,1,1,1,1,1
+1,1,1,1,1,1
+2,1,1,1,1
+1,1,1,1,1
+2,1,1,1,2
+1,1,1,1,1
+2,1
+12
+
+columns
+2,4
+2,1,3
+2,2,3
+2,2,3
+13,2
+1,1
+1,1
+9,6,1
+2,1,1
+2,1,1
+2,5,6,1
+2,1,1
+7,1
+11,6,1
+2,1,1
+2,2,4
+2,9

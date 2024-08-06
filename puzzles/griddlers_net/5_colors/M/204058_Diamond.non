@@ -1,0 +1,55 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/28/19"
+height 14
+id 204058
+link "https://www.griddlers.net/nonogram/-/g/204058"
+medium_time "0:05:12"
+points 5146
+popularity 82.21
+title "Diamond"
+width 19
+
+color a 009999
+color b ffccff
+color c ccccff
+color d ccffff
+color e ffffff
+
+rows
+c 2 d 1 c 1 d 1 e 1 d 4 c 1
+d 1 e 1 c 2 d 1 e 1 d 1 e 1 c 3 e 1 c 1
+b 1 d 2 e 1 c 1 e 1 d 2 c 1 e 1 c 1 e 1 c 2 d 1
+b 3 d 2 e 1 d 2 c 3 e 1 c 1 d 4
+b 1 e 17 d 1
+b 2 c 3 e 1 c 5 e 1 c 1 d 3 b 1
+b 3 c 1 e 1 c 3 b 1 c 1 e 1 d 3 b 1
+b 2 c 2 e 1 c 2 b 1 e 1 c 1 d 2 b 1
+b 2 c 1 e 1 c 1 b 2 e 1 d 2 b 1
+b 1 c 2 e 1 b 1 e 1 d 2 b 1
+b 1 c 1 e 1 b 1 e 1 d 1 b 1
+b 2 e 1 d 2
+b 1 e 1 d 1
+b 1
+
+columns
+b 1
+b 1 e 1 b 1
+b 2 e 1 b 2
+d 2 b 1 e 1 c 1 b 2
+c 1 e 1 d 2 e 1 c 1 b 3
+c 2 e 1 d 1 e 1 c 3 b 2
+d 1 c 2 e 4 c 3 b 1
+c 1 d 1 e 1 d 1 e 1 c 2 e 2 c 2 b 1
+d 1 e 1 d 2 e 1 c 4 e 2 b 2
+e 1 d 2 c 1 e 1 c 3 b 3 e 2 b 1
+d 1 e 1 c 2 e 1 c 1 b 3 e 2 d 2
+d 1 c 1 e 1 c 1 e 1 c 2 e 2 d 3
+d 1 c 2 e 4 c 1 d 2 b 1
+d 1 c 1 e 1 c 1 e 1 c 1 d 3 b 1
+c 1 e 1 c 1 d 1 e 1 d 3 b 1
+c 2 d 1 e 1 d 2 b 1
+d 2 e 1 d 1 b 1
+d 1 e 1 b 1
+d 1

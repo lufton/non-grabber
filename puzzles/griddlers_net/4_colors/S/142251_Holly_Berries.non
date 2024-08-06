@@ -1,0 +1,46 @@
+by "ClareQ"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/26/14"
+height 15
+id 142251
+link "https://www.griddlers.net/nonogram/-/g/142251"
+medium_time "0:02:51"
+points 258
+popularity 71.23
+title "Holly Berries"
+width 10
+
+color a ffffff
+color b 009900
+color c cc0000
+color d 00cc00
+
+rows
+b 4
+b 1 d 2 b 2
+b 1 d 3 b 2
+b 2 d 3 b 1
+b 2 d 2 b 1
+b 4 c 2
+c 2 c 4
+c 8
+c 4 c 2
+c 2 c 2
+b 3 c 4
+b 2 d 1 b 1 c 4
+b 2 d 1 b 2 c 2
+b 1 d 1 b 2
+b 3
+
+columns
+b 4 b 3
+b 1 d 2 b 2 b 2 d 1 b 1
+b 1 d 3 b 2 c 2 b 2 d 1 b 2
+b 2 d 3 b 1 c 4 b 1 d 1 b 2
+b 2 d 2 b 1 c 4 b 3
+b 4 c 2 c 2
+c 2 c 4
+c 8
+c 4 c 2
+c 2

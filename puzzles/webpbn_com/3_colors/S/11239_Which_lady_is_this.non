@@ -1,0 +1,42 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Dec  3, 2010"
+description ""
+difficulty 1.25
+height 11
+id 11239
+link "https://webpbn.com/play.cgi?id=11239"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Which lady is this?"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5 red 1
+black 6 red 1
+black 6 red 1
+black 6 red 1
+black 4
+black 4
+black 4
+black 4
+black 5
+black 6
+black 2 black 2
+
+columns
+black 2
+black 3
+black 2
+black 9
+black 11
+black 11
+black 8
+black 4
+black 4
+red 4

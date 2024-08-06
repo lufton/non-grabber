@@ -1,0 +1,37 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Apr 25, 2017"
+description "...a card, any card"
+difficulty 1.25
+height 8
+id 29735
+link "https://webpbn.com/play.cgi?id=29735"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Pick..."
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 5 black 2
+black 1 red 1 red 1 black 2 red 1
+black 1 red 1 black 1 red 1 red 1
+black 1 red 1 red 1 black 1 red 1
+black 1 red 1 black 1 red 1 black 1
+black 1 red 1 red 1 black 1 black 2
+black 7
+
+columns
+black 7
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 7
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 2
+black 2 red 1 black 2

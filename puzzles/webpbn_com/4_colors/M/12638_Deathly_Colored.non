@@ -1,0 +1,62 @@
+by "ErgoDyne (ergodyne)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by ErgoDyne"
+date "Mar  8, 2011"
+description "The Deathly Hallows"
+difficulty 2.0
+height 20
+id 12638
+link "https://webpbn.com/play.cgi?id=12638"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Deathly Colored"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 3
+black 2 red 1 black 2
+black 1 red 1 black 2
+black 2 red 1 black 1
+black 1 red 1 black 2
+black 2 red 1 black 1
+black 3 blue 2 red 1 blue 2 black 2
+black 2 blue 1 red 1 blue 2 black 3
+black 2 blue 1 red 1 blue 2 black 2
+black 2 blue 2 red 1 blue 1 black 1
+black 2 blue 1 red 1 blue 1 black 1
+black 2 blue 2 red 1 blue 1 black 2
+black 1 black 2 blue 2 red 1 blue 1 black 3
+black 1 black 2 black 1 blue 1 red 1 blue 1 black 2
+black 4 black 1 blue 1 red 1 blue 1 black 2
+black 3 black 1 blue 1 red 1 blue 1 black 2
+black 1 blue 2 red 1 blue 2 black 1
+black 4 blue 7 black 6
+black 2 black 4 blue 2 black 3 black 1
+
+columns
+black 3 black 1
+black 2 black 2
+black 5
+black 5 black 1
+black 5 black 1
+black 5 blue 2 black 3 black 1
+black 3 blue 8 black 1
+black 4 blue 2 blue 2 black 1
+black 3 blue 2 blue 1 black 1
+black 2 blue 1 blue 2
+black 2 red 16 blue 2
+black 2 blue 1 blue 1 black 1
+black 2 blue 2 blue 1 black 1
+black 3 blue 2 blue 2 black 1
+black 4 blue 9 black 1
+black 3 black 1
+black 7 black 1
+black 4 black 2
+black 1 black 2 black 1
+black 3

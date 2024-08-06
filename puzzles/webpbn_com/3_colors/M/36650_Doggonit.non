@@ -1,0 +1,61 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr  5, 2023"
+description ""
+difficulty 1.25
+height 20
+id 36650
+link "https://webpbn.com/play.cgi?id=36650"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Doggonit!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1
+blue 3
+blue 3 blue 1 black 1
+blue 7
+blue 7
+blue 8
+blue 8
+blue 8
+blue 8
+blue 9
+blue 7 blue 2
+blue 6 blue 1
+blue 2 blue 4 blue 2
+blue 1 black 5 black 5
+blue 1 black 1 black 1
+blue 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 5 black 1
+
+columns
+blue 1
+blue 4
+blue 2
+blue 2 black 1 black 1
+blue 3 black 1 black 1
+blue 5 black 7
+blue 6 black 1 black 1
+blue 7 black 1 black 1
+blue 6 blue 1
+blue 7 black 1
+blue 6 black 1
+blue 8 black 7
+blue 11 black 1
+blue 7 blue 1 black 1
+blue 7
+blue 1 blue 3
+blue 2
+black 1 blue 1
+0
+0

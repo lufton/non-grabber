@@ -1,0 +1,65 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/17/07"
+height 28
+id 45897
+link "https://www.griddlers.net/nonogram/-/g/45897"
+medium_time "0:06:57"
+points 1506
+popularity 74.64
+title "Tree in a Pot"
+width 12
+
+color a 000000
+color b ccff00
+color c 66cc00
+color d 006600
+color e ff3300
+color f cc6600
+color g ffff00
+color h ff9900
+
+rows
+b 1 c 1
+b 4 c 2
+b 1 c 1 b 1 c 1 b 3 c 2 c 1
+c 1 b 2 e 2 b 1 e 1 c 1 d 1 c 1
+b 1 c 2 b 1 e 1 b 2 c 1 d 2
+c 1 b 2 c 1 b 2 d 1 e 2 c 2
+b 3 e 1 c 2 e 1 d 1 e 1 d 1 c 1 d 1
+c 1 e 2 b 1 c 1 b 1 d 3 c 1
+b 1 c 1 b 1 c 1 e 1 b 1 e 1 d 1 c 1 d 1
+c 1 b 1 c 2 b 1 d 1 e 2 c 1 d 2
+c 5 d 1
+f 1 d 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+f 1
+g 10
+g 4 h 4
+g 4 h 4
+g 5 h 3
+g 5 h 3
+g 4 h 2
+g 2 h 2
+
+columns
+b 1
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1
+c 1 b 1 c 1 b 2 e 1 c 1 b 1 g 1
+b 3 c 1 b 1 e 2 b 1 c 1 g 5
+b 2 c 1 e 1 b 1 c 2 b 1 c 3 g 6
+b 2 e 2 b 1 c 2 e 1 b 1 c 1 g 7
+b 5 e 1 b 2 d 1 c 1 g 7
+c 2 b 1 e 1 b 1 d 3 e 2 c 1 f 10 g 1 h 2 g 3 h 1
+c 4 e 2 d 2 e 1 c 1 d 1 g 1 h 6
+c 1 d 2 e 1 d 2 c 2 d 1 g 1 h 5
+c 1 d 1 c 3 d 2 g 1 h 4
+c 1 c 1 d 1 d 1 g 1

@@ -1,0 +1,31 @@
+by "rafal24"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10378
+link "https://www.griddlers.net/nonogram/-/g/10378"
+medium_time "0:00:24"
+points 27
+popularity 42.92
+title "Sleeping Under the tree"
+width 5
+
+color a 986100
+color b efe1ca
+color c 00ff00
+color e 00ffff
+
+rows
+c 1 c 2
+c 2
+e 1 c 2 e 1
+e 3 b 1
+e 1 b 2 e 1
+
+columns
+c 2 e 3
+c 2 e 1 b 1
+c 1 c 1 e 1 b 1
+c 1 e 1 b 1 e 1
+0

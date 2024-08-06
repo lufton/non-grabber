@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Jan  6, 2014"
+description "Wrapped up like a doofus throwing snowballs in a fight."
+difficulty 1.5
+height 20
+id 23507
+link "https://webpbn.com/play.cgi?id=23507"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Mondegreen #8"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 11 blue 6 blue 1
+blue 10 blue 2 blue 1 blue 3
+blue 7 blue 4 blue 5
+blue 7 blue 11
+blue 20
+blue 2 black 4 blue 9 blue 1 blue 1
+blue 2 black 4 blue 9 blue 3
+blue 1 black 2 blue 5 blue 7
+black 4 blue 3 black 1 blue 1 blue 7
+black 4 blue 2 black 2 blue 6
+black 7 blue 1 black 2 blue 5
+black 11 blue 2
+black 2 black 7
+black 1 black 4 black 1
+black 4
+black 5
+black 3 black 2
+black 2 black 2
+black 2 black 2
+black 3 black 3
+
+columns
+blue 7 black 3
+blue 8 black 3 black 4
+blue 5 black 4 black 2 black 5
+blue 5 black 12 black 1
+blue 5 black 2 black 8
+blue 5 black 2 black 12
+blue 9 black 11
+blue 2 blue 6 black 3 black 1
+blue 2 blue 7 black 3
+blue 8 black 5
+blue 1 blue 7 black 3
+blue 6 blue 3
+blue 7 blue 3
+blue 1 blue 8
+blue 1 blue 8
+blue 5 blue 4
+blue 1 blue 3 blue 3
+blue 9
+blue 4 blue 3
+blue 9

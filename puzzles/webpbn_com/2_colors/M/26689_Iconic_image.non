@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 26689
+link "https://webpbn.com/play.cgi?id=26689"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Iconic image"
+width 20
+
+rows
+7,9
+7,8
+5,1,1,7
+4,6
+3,3,3,5
+5,3,1,4
+3,1,1,1,1,1,1,4
+3,1,1,1,1,4
+3,3,4,4
+3,1,5
+3,1,6
+3,2,7
+4,2,7
+3,1,7
+1,1,3,8
+1,8
+3,8
+3,2,7
+1,2,2,6
+2,9
+
+columns
+9,1,1
+12,1
+13,3
+4,1,3,4
+4,3,2
+3,1,1,2
+2,1,1,1,2
+3,1,1,2
+2,3,1,1
+1,1,1,1,1,1
+8,1,1
+1,1,1,2,3
+2,1,1,1,6
+3,1,1,9
+4,3,10
+5,11
+19
+18
+17
+17

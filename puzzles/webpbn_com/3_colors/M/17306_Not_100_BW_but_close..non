@@ -1,0 +1,61 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan 23, 2012"
+description "Hints 1991, Video game, 1970s "Groupthink""
+difficulty 2.0
+height 20
+id 17306
+link "https://webpbn.com/play.cgi?id=17306"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Not 100% B&W but close."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 3 black 1 black 1
+black 1 black 1 black 3 black 6 black 1
+black 1 black 2 black 7 black 4
+black 6 black 1 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+blue 20
+
+columns
+black 2 blue 1
+black 1 black 1 blue 1
+black 2 black 8 blue 1
+black 2 black 6 blue 1
+black 1 black 1 blue 1
+black 2 blue 1
+black 2 blue 1
+black 2 black 5 blue 1
+black 2 black 10 blue 1
+black 1 black 1 blue 1
+black 1 black 1 blue 1
+black 3 blue 1
+black 1 black 7 blue 1
+black 2 black 9 blue 1
+black 1 black 1 blue 1
+black 2 blue 1
+black 2 blue 1
+black 1 black 1 black 4 blue 1
+black 13 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1

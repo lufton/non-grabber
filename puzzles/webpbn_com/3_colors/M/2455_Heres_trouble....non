@@ -1,0 +1,61 @@
+by "Marcus (aanet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marcus"
+date "Mar 19, 2008"
+description "Mischievous looking red-haired lad."
+difficulty 2.75
+height 20
+id 2455
+link "https://webpbn.com/play.cgi?id=2455"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Here's trouble..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 red 6 red 3
+red 2 red 5 red 4 red 2
+red 2 black 2 red 2 red 2
+red 2 black 6 red 4 red 2
+red 2 black 1 black 3 black 4 red 2 red 1
+red 2 black 2 black 3 black 6 red 1 red 1
+red 2 black 2 black 3 black 2 black 1 red 1
+red 1 black 1 black 3 black 3 black 1 red 1
+black 4 black 2 black 1 red 1
+black 3 black 1 black 1 red 1
+red 1 red 1 black 3 black 2 red 2
+black 2 red 3
+black 1 red 1 black 3 red 1 red 1
+black 1 black 1 black 1 red 1
+black 2 black 5 black 1 red 1
+black 5 black 6
+black 1 black 1 black 2 black 1 black 1
+black 2 black 2 black 3 black 1
+black 1 black 2 black 2 black 1
+black 2 black 7 black 2
+
+columns
+red 8 black 6
+red 7 black 2 black 3
+red 1 red 1 red 1 black 1 black 1
+red 1 black 2
+red 1 black 5 red 1 black 4
+red 1 black 2 black 2 black 1 black 3 black 2
+red 1 black 2 black 5 black 1 black 2
+red 2 black 13 black 1
+red 1 black 8 black 1 black 1
+red 1 black 5 black 1 black 1
+red 2 black 1 black 1
+red 2 black 3 black 2 black 1
+red 2 black 6 black 2 black 2
+red 2 red 1 black 2 black 2 black 1 red 1 black 3
+red 1 red 1 black 2 black 1 black 1
+red 1 black 6 red 1 red 1 black 1
+red 2 black 1 black 1
+red 1 red 2 red 1 black 1
+red 4 red 2 black 2
+red 13 black 2

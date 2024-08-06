@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Nov 13, 2011"
+description "The common point about which two bodies orbit. The gravity of the smaller body causes the larger to wobble. We use this to detect extra-solar planet. It is a very effective method if the orbiting planet is large and close."
+difficulty 1.75
+height 15
+id 16363
+link "https://webpbn.com/play.cgi?id=16363"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Astronomy Vocabulary 3: Barycenter"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+black 5
+black 3 black 3
+black 1 black 1
+black 2 black 2 black 2
+black 1 black 1 black 4
+black 1 green 1 black 1 black 4
+black 1 black 1 black 2
+black 2 black 2
+black 1 black 1
+black 3 black 3
+black 5
+0
+0
+
+columns
+black 5
+black 3 black 3
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 green 1 black 1
+black 3 black 3
+black 5
+0
+0
+0
+0
+0
+black 2
+black 4
+black 4
+black 2

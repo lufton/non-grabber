@@ -1,0 +1,48 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/9/17"
+height 7
+id 187099
+link "https://www.griddlers.net/nonogram/-/g/187099"
+medium_time "0:01:41"
+points 810
+popularity 69.0
+title "Evolution"
+width 18
+
+color a ffffff
+color b 65d5bd
+color c 90e073
+color d f89088
+color e b86830
+color f f8e850
+
+rows
+f 2
+b 2 d 4
+b 2 d 2 b 1 e 2
+b 2 c 2 b 1 d 4 b 1 e 2
+b 1 c 4 b 1 c 4 b 1 c 4
+b 5 b 5 b 5
+b 1 b 1 b 1 b 1 b 1 b 1
+
+columns
+b 1
+b 4
+c 1 b 1
+c 2 b 1
+c 2 b 1
+c 1 b 2
+b 1
+b 5
+d 1 c 1 b 1
+d 2 c 1 b 1
+d 2 c 1 b 1
+d 1 c 1 b 2
+b 1
+b 6
+d 1 c 1 b 1
+f 1 d 1 e 2 c 1 b 1
+f 1 d 1 e 2 c 1 b 1
+d 1 c 1 b 2

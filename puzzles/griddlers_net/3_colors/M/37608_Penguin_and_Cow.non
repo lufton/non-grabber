@@ -1,0 +1,61 @@
+by "sudoku"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/8/06"
+height 20
+id 37608
+link "https://www.griddlers.net/nonogram/-/g/37608"
+medium_time "0:07:54"
+points 2824
+popularity 63.25
+title "Penguin and Cow"
+width 21
+
+color a ffffff
+color b ff9800
+color h 000000
+
+rows
+h 2 h 2
+h 5 h 1 h 7 h 1
+h 7 h 4 h 1
+h 9 h 4 h 1 h 1
+h 2 h 3 h 2 h 2 h 1 h 1 h 1
+h 2 h 3 h 2 h 1 h 1 h 1 h 1
+h 3 b 3 h 3 h 1 h 1
+h 2 b 5 h 2 h 9
+h 1 b 5 h 1 h 1 h 1 h 1 h 1
+h 1 h 1 b 3 h 1 h 1 h 1 h 2
+h 2 h 1 b 1 h 1 h 2 h 1 h 1 h 3
+h 3 h 1 h 3 h 9
+h 4 h 4 h 4 h 1
+h 4 h 4 h 3 h 1
+h 3 h 3 h 2 h 3 h 1
+h 2 h 2 h 1 h 3 h 1
+h 1 h 5 h 1 h 1 h 1 h 1 h 1
+h 1 b 2 h 1 b 2 h 1 h 1 h 1 h 1 h 2
+h 1 b 3 h 1 b 3 h 1 h 1 h 3 h 3
+h 3 h 3 h 5 h 5
+
+columns
+h 5 h 8 h 1
+h 7 h 6 h 1 b 1 h 1
+h 3 h 1 b 2 h 1 h 4 h 1 b 2 h 1
+h 5 b 4 h 1 h 2 h 1 b 2 h 1
+h 5 b 5 h 1 h 3
+h 5 b 4 h 1 h 2 h 1 b 2 h 1
+h 3 h 1 b 2 h 1 h 4 h 1 b 2 h 1
+h 7 h 6 h 1 b 1 h 1
+h 5 h 8 h 1
+0
+h 2 h 3 h 8
+h 1 h 6 h 4 h 1
+h 4 h 1 h 3 h 1
+h 3 h 2 h 2 h 1
+h 5 h 1 h 1 h 6
+h 1 h 1 h 2 h 2 h 1
+h 1 h 3 h 1 h 1 h 6
+h 1 h 2 h 1 h 1
+h 1 h 1 h 2 h 2
+h 1 h 6 h 3 h 3
+h 2 h 3 h 8

@@ -1,0 +1,57 @@
+by "Rachel Clune (rebecca)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Rachel Clune"
+date "Dec  1, 2007"
+description "Blue is my absolute favorite color."
+difficulty 2.0
+height 20
+id 1919
+link "https://webpbn.com/play.cgi?id=1919"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Blue"
+width 20
+
+rows
+1,2,3,2,2
+3,1,1,3,1,3,1
+2,2,1,2,3,1
+2,3,1,1,2,3,1
+2,3,2,4,2
+1,1,1,1
+2,2,4,3,4
+2,4,3,2
+1,3,4,3,4
+1,1,3,3,1
+1,1,3,1
+1,1,1,1,3,1,1,2
+3,1,1,3,1,1
+1,1,1,1,3,1,1,1,1
+1,1,1,1,1
+1,3,2,1,2
+2,1,3,2,1,4
+1,3,2,1,2
+2,1,3,2,1,5
+1,1,1,1
+
+columns
+0
+1,2,1,2,3,1,1
+4,1,1,1,1
+2,1,5
+1,7,5
+1,2,3,3
+1,2,4
+3,3,9
+8,5
+2,1,8
+4,8,4
+2,1,9
+3,4
+5,4,3,5
+1,6
+3,5,1,1
+3,1,1,1,1
+3,1,1,1,2,3
+1,1,3,1,5
+10,1,1,1

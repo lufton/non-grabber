@@ -1,0 +1,88 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Norma Dee"
+date "Nov 15, 2012"
+description "Whoever loses the bet on the ball return has to get some more beer."
+difficulty 1.5
+height 30
+id 20376
+link "https://webpbn.com/play.cgi?id=20376"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Another Thanksgiving Tradition."
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 25
+black 1 green 23 black 1
+blue 1 blue 1 blue 1 black 1 green 23 black 1 blue 1 blue 1 blue 1
+blue 5 black 1 green 2 red 2 green 8 blue 2 green 5 blue 2 green 2 black 1 blue 5
+blue 2 blue 2 black 1 green 2 red 2 green 8 blue 2 green 5 blue 2 green 2 black 1 blue 2 blue 2
+blue 2 blue 2 black 1 green 2 red 1 green 1 red 1 green 8 blue 1 green 6 blue 1 green 2 black 1 blue 2 blue 2
+blue 5 black 1 green 2 red 3 green 7 blue 2 green 3 black 1 blue 3 green 2 black 1 blue 5
+blue 3 black 1 green 2 red 1 green 10 blue 1 green 5 blue 2 green 2 black 1 blue 3
+blue 1 black 1 green 2 red 3 green 6 blue 3 green 4 blue 3 green 2 black 1 blue 1
+black 1 green 2 red 1 green 1 red 1 green 5 blue 2 green 1 blue 2 green 2 blue 2 green 1 blue 1 green 2 black 1
+black 1 green 2 red 1 green 1 red 2 green 8 blue 1 green 4 blue 2 green 2 black 1
+black 1 green 2 red 2 green 19 black 1
+black 25
+0
+blue 3 blue 3 blue 3
+blue 5 blue 5 blue 5
+black 5 black 5 black 5
+black 5 black 5 black 5
+black 3 black 3 black 3
+blue 25
+green 2 blue 25 green 2
+green 2 blue 25 green 2
+green 2 blue 25 green 2
+black 5 blue 25 black 5
+black 5 blue 25 black 5
+black 1 black 1 blue 25 black 1 black 1
+black 1 black 1 blue 25 black 1 black 1
+black 1 black 1 blue 25 black 1 black 1
+black 1 black 1 blue 25 black 1 black 1
+black 1 black 1 blue 25 black 1 black 1
+
+columns
+blue 5 black 7
+blue 5 black 2
+blue 2 blue 3 green 3 black 2
+blue 5 green 3 black 2
+blue 5 black 7
+black 13 blue 11
+black 1 green 11 black 1 blue 11
+black 1 green 11 black 1 blue 11
+black 1 green 2 red 9 black 1 blue 1 black 2 blue 11
+black 1 green 2 red 2 green 1 red 1 green 1 red 1 green 2 red 1 black 1 blue 2 black 3 blue 11
+black 1 green 4 red 2 green 1 red 3 green 1 black 1 blue 2 black 3 blue 11
+black 1 green 9 red 1 green 1 black 1 blue 2 black 3 blue 11
+black 1 green 11 black 1 blue 1 black 2 blue 11
+black 1 green 11 black 1 blue 11
+black 1 green 11 black 1 blue 11
+black 1 green 11 black 1 blue 1 black 2 blue 11
+black 1 green 8 blue 1 green 2 black 1 blue 2 black 3 blue 11
+black 1 green 7 blue 2 green 2 black 1 blue 2 black 3 blue 11
+black 1 green 2 blue 2 green 1 blue 1 green 1 blue 1 green 3 black 1 blue 2 black 3 blue 11
+black 1 green 2 blue 7 green 2 black 1 blue 1 black 2 blue 11
+black 1 green 8 blue 2 green 1 black 1 blue 11
+black 1 green 11 black 1 blue 11
+black 1 green 11 black 1 blue 1 black 2 blue 11
+black 1 green 5 black 1 green 2 blue 1 green 2 black 1 blue 2 black 3 blue 11
+black 1 green 5 blue 1 green 1 blue 2 green 2 black 1 blue 2 black 3 blue 11
+black 1 green 2 blue 2 green 1 blue 3 green 1 blue 1 green 1 black 1 blue 2 black 3 blue 11
+black 1 green 2 blue 8 green 1 black 1 blue 1 black 2 blue 11
+black 1 green 11 black 1 blue 11
+black 1 green 11 black 1 blue 11
+black 13 blue 11
+blue 5 black 7
+blue 5 green 3 black 2
+blue 2 blue 3 green 3 black 2
+blue 5 black 2
+blue 5 black 7

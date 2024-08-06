@@ -1,0 +1,111 @@
+by "starch"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/30/08"
+height 50
+id 60360
+link "https://www.griddlers.net/nonogram/-/g/60360"
+medium_time "0:41:10"
+points 81324
+popularity 77.94
+title "Welcome to Spring"
+width 38
+
+color a ffffff
+color b ab4320
+color c bd7d9a
+color d d0a4b8
+color f 3c3c1a
+color h 93983e
+
+rows
+b 4
+b 1 c 2 d 1 c 1 b 1
+b 4 d 2 b 1
+b 1 d 1 b 2 c 1 d 1 b 1
+b 1 c 1 b 1 d 1 b 1 c 1 b 1
+b 3 c 1 b 1 c 1 b 5
+b 3 c 1 d 2 b 2 c 1 d 1 b 1 d 1 c 2 b 1
+b 1 d 1 b 2 c 1 d 2 b 4 d 1 b 2 d 1 b 1
+b 1 c 2 d 1 b 2 c 1 b 1 d 1 b 1 d 1 c 1 b 2 d 1 b 1
+b 5 c 1 b 1 d 1 b 1 d 1 b 1 d 1 b 1 c 1 b 1
+b 2 c 1 d 2 b 6 c 1 b 1 c 1 b 1
+b 7 c 2 d 1 c 1 b 1 d 1 c 1 b 4
+b 1 d 1 b 2 c 1 b 1 d 1 b 2 d 2 b 5 d 1 b 1
+b 1 c 2 d 1 b 2 d 1 b 2 d 2 b 3 d 1 c 2 b 1
+b 5 c 1 b 1 d 1 b 1 c 1 b 6
+b 1 c 2 d 1 b 1 c 1 b 1 c 1 b 3 d 2 c 2 b 1
+b 8 c 1 d 1 b 7
+b 3 c 1 d 2 c 1 b 7 d 1 c 2 b 1 d 1 c 1 b 3
+b 1 d 1 b 2 c 1 d 1 b 1 c 2 d 1 c 2 b 1 d 2 b 2 d 1 b 3 d 1 b 1
+b 1 c 2 d 1 b 2 d 1 b 2 d 2 b 2 d 1 c 1 b 2 d 1 b 1 d 1 c 2 b 1
+b 5 d 1 b 2 c 1 d 1 b 2 c 1 b 1 d 1 b 1 c 1 b 4 f 2
+b 1 c 2 d 1 b 1 c 1 b 1 d 1 b 1 c 1 b 4 c 1 b 1 c 1 b 1 c 2 b 1 f 2
+b 4 c 1 b 1 c 1 b 5 d 1 c 1 b 5 f 3
+b 3 c 1 d 2 b 2 c 1 d 1 b 1 d 1 c 1 b 3 d 2 c 1 b 3 f 2
+b 1 d 1 b 2 c 1 d 2 b 4 d 1 b 2 d 1 b 1 d 1 c 1 b 2 d 1 b 1 f 3
+b 1 c 2 d 1 b 2 c 1 b 1 c 1 b 1 d 1 c 1 b 2 d 1 b 3 d 1 c 2 b 1 f 3
+f 2 b 5 c 1 b 1 c 1 b 1 c 1 b 1 d 1 b 1 c 1 b 6 f 4
+f 2 b 1 c 2 d 2 b 1 d 1 b 4 c 1 b 1 c 1 b 1 d 2 c 2 b 1 f 5
+f 3 b 9 d 1 c 1 b 2 d 1 b 4 f 4
+f 2 b 1 c 2 d 2 b 8 f 5
+f 3 b 4 f 2 b 1 d 2 c 2 b 1 f 1 h 1 f 3
+f 3 f 3 h 1 b 4 f 1 h 1 f 4
+f 4 f 2 h 1 f 1 h 2 f 4
+f 5 f 2 h 1 f 1 h 1 f 4
+f 4 f 2 h 1 f 1 h 2 f 4
+f 5 f 1 h 1 f 1 h 2 f 4
+f 3 h 1 f 1 f 1 h 1 f 1 h 2 f 5
+f 4 h 1 f 1 f 1 h 1 f 1 h 3 f 4
+f 4 h 2 f 1 f 1 h 1 f 2 h 2 f 5
+f 4 h 1 f 1 f 1 h 1 f 1 h 3 f 4
+f 4 h 2 f 1 f 1 h 1 f 2 h 2 f 5
+f 4 h 2 f 1 f 1 h 1 f 1 h 3 f 5
+f 5 h 2 f 1 f 1 h 1 f 1 h 3 f 5
+f 4 h 3 f 2 h 1 f 1 h 2 f 6
+f 5 h 2 f 2 h 1 f 2 h 2 f 6
+f 4 h 3 f 1 h 1 f 1 h 2 f 6
+f 5 h 2 f 1 h 1 f 1 h 2 f 5
+f 5 h 6 f 6
+f 5 h 5 f 5
+f 5 h 4 f 5
+
+columns
+f 1
+f 3
+f 4
+f 6
+f 6
+b 3 b 3 f 8
+b 1 d 1 c 1 b 2 b 1 d 1 c 1 b 2 f 9
+b 2 c 1 b 1 c 1 b 3 c 1 b 1 c 1 b 1 f 10
+b 3 b 1 c 1 b 1 d 1 b 1 c 1 b 1 c 1 b 1 d 1 b 1 c 1 b 1 f 1 h 1 f 8
+b 3 b 1 d 1 c 1 b 3 d 1 c 1 b 2 d 1 b 1 d 1 c 1 b 2 d 1 b 1 f 1 h 2 f 9
+b 1 d 1 c 1 b 4 c 1 b 1 c 1 b 1 d 2 b 4 d 2 b 2 d 1 b 2 f 1 h 3 f 9
+b 2 c 1 b 4 d 1 b 1 c 1 b 1 c 1 b 1 d 2 c 2 b 1 d 1 c 2 b 2 c 1 b 1 f 2 h 2 f 8
+b 1 c 1 b 1 d 1 b 1 c 1 b 1 c 1 b 2 d 1 b 2 c 1 b 8 d 1 b 1 c 1 b 1 f 1 h 3 f 6
+b 1 d 1 c 1 b 2 d 1 b 7 c 1 b 2 d 1 c 2 b 1 c 2 b 2 d 1 b 1 f 1 h 4 f 4
+b 4 d 2 b 2 d 1 b 1 d 2 c 2 b 2 d 2 c 1 b 2 d 1 b 5 d 1 b 1 f 1 f 1 h 5 f 2
+b 2 d 1 c 2 b 1 d 1 c 2 b 1 c 1 b 6 c 1 d 2 c 1 b 3 d 1 c 1 b 3 f 5 f 2 h 5
+b 1 c 1 b 9 c 1 b 2 d 1 c 2 b 1 c 1 b 4 d 2 c 1 b 2 d 1 b 1 f 17 h 3
+b 1 c 1 b 2 d 1 c 2 b 1 d 2 b 1 d 3 b 2 d 1 b 6 c 1 b 2 d 1 c 2 b 2 h 19
+b 1 d 2 c 1 b 2 d 1 b 4 c 1 d 2 c 1 b 3 d 2 c 1 b 9 d 1 b 1 f 3 h 3
+b 1 c 1 d 2 c 1 b 3 d 2 b 7 d 2 c 1 b 2 d 1 b 1 d 2 c 2 b 2 d 1 b 1 f 3 h 4 f 1
+b 5 d 2 c 1 b 2 d 1 b 3 d 1 b 1 c 1 b 2 d 1 c 2 b 5 d 1 b 1 c 1 b 1 f 2 h 5 f 3
+b 1 c 1 b 2 d 1 c 2 b 3 d 1 b 1 c 1 b 5 d 2 b 2 d 1 b 2 c 1 b 1 f 3 h 4 f 5
+b 1 c 1 b 6 d 1 b 1 c 1 b 2 d 2 c 2 b 1 d 1 c 1 b 2 d 1 b 3 f 2 h 4 f 7
+b 1 d 2 c 2 b 2 c 1 b 1 c 1 b 1 d 1 b 5 c 1 b 1 d 1 b 1 c 1 b 1 f 1 h 5 f 8
+b 5 d 1 c 1 b 3 c 1 b 1 d 1 b 1 c 1 b 3 c 1 b 1 c 1 b 1 f 1 h 4 f 9
+b 3 b 2 c 1 b 1 c 1 b 2 d 1 c 1 b 2 f 1 h 3 f 10
+b 1 d 1 c 1 b 2 b 3 f 2 h 2 f 10
+b 3 f 1 h 3 f 10
+f 1 h 2 f 9
+f 1 h 1 f 8
+f 10
+f 9
+f 8
+f 6
+f 6
+f 4
+f 3
+f 1

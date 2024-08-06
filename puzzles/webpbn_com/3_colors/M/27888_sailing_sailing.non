@@ -1,0 +1,61 @@
+by "Branwen Elysia Aldrich ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Branwen Elysia Aldrich"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 20
+id 27888
+link "https://webpbn.com/play.cgi?id=27888"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.75
+title "sailing, sailing"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 3
+black 1 black 1 black 1
+black 2 black 3
+black 1 black 1
+black 1 black 1
+black 5
+black 1
+black 1
+black 1
+black 12
+black 12
+blue 6 black 10 blue 4
+blue 7 black 8 blue 5
+blue 8 black 6 blue 6
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20
+
+columns
+blue 8
+blue 8
+blue 8
+blue 8
+blue 8
+black 2 blue 8
+black 3 blue 7
+black 4 blue 6
+black 5 blue 5
+black 5 blue 5
+black 13 blue 5
+black 1 black 1 black 5 blue 5
+black 1 black 1 black 5 blue 5
+black 2 black 5 blue 5
+black 1 black 4 blue 6
+black 1 black 3 blue 7
+black 1 black 1 black 2 blue 8
+black 1 black 1 blue 8
+black 1 black 1 blue 8
+black 1 blue 8

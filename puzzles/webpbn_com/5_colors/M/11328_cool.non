@@ -1,0 +1,63 @@
+by "candy edwards (angel)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by candy edwards"
+date "Dec 11, 2010"
+description ""
+difficulty 1.75
+height 20
+id 11328
+link "https://webpbn.com/play.cgi?id=11328"
+note "published,definitely non-unique,may require some guessing"
+quality 1.75
+title "cool"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 20
+green 20
+green 5 red 10 green 5
+green 5 red 1 blue 3 red 2 blue 3 red 1 green 5
+green 5 red 10 green 5
+green 2 blue 3 black 10 blue 3 green 2
+green 2 blue 1 red 1 blue 1 black 10 blue 1 red 1 blue 1 green 2
+green 2 blue 1 red 1 blue 1 black 4 blue 1 black 4 blue 1 red 1 blue 1 green 2
+green 2 blue 1 red 1 blue 1 black 4 blue 1 black 4 blue 1 red 1 blue 1 green 2
+green 2 blue 3 black 2 blue 1 blue 1 blue 1 black 2 blue 3 green 2
+green 2 blue 3 black 2 blue 1 blue 1 blue 1 black 2 blue 3 green 2
+green 2 blue 1 red 1 blue 1 black 4 blue 1 black 4 blue 1 red 1 blue 1 green 2
+green 2 blue 1 red 1 blue 1 black 4 blue 1 black 4 blue 1 red 1 blue 1 green 2
+green 2 blue 1 red 1 blue 1 black 10 blue 1 red 1 blue 1 green 2
+green 2 blue 3 black 10 blue 3 green 2
+green 5 red 10 green 5
+green 5 red 1 blue 3 red 2 blue 3 red 1 green 5
+green 5 red 10 green 5
+green 20
+green 20
+
+columns
+green 20
+green 20
+green 5 blue 10 green 5
+green 5 blue 1 red 3 blue 2 red 3 blue 1 green 5
+green 5 blue 10 green 5
+green 2 red 3 black 10 red 3 green 2
+green 2 red 1 blue 1 red 1 black 10 red 1 blue 1 red 1 green 2
+green 2 red 1 blue 1 red 1 black 4 blue 1 black 4 red 1 blue 1 red 1 green 2
+green 2 red 1 blue 1 red 1 black 4 blue 1 black 4 red 1 blue 1 red 1 green 2
+green 2 red 3 black 2 blue 1 blue 1 blue 1 black 2 red 3 green 2
+green 2 red 3 black 2 blue 1 blue 1 blue 1 black 2 red 3 green 2
+green 2 red 1 blue 1 red 1 black 4 blue 1 black 4 red 1 blue 1 red 1 green 2
+green 2 red 1 blue 1 red 1 black 4 blue 1 black 4 red 1 blue 1 red 1 green 2
+green 2 red 1 blue 1 red 1 black 10 red 1 blue 1 red 1 green 2
+green 2 red 3 black 10 red 3 green 2
+green 5 blue 10 green 5
+green 5 blue 1 red 3 blue 2 red 3 blue 1 green 5
+green 5 blue 10 green 5
+green 20
+green 20

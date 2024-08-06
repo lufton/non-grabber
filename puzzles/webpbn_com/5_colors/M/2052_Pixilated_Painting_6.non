@@ -1,0 +1,68 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Arduinna"
+date "Dec 25, 2007"
+description "Sorry it's super easy--I just had to do this one! It's Piet Mondrian. I think this is Composition in Red Blue and Yellow, but a search for that brings up a different painting also. And I am no art expert! Do you like my creative license in changing the yellow to green?"
+difficulty 1.0
+height 25
+id 2052
+link "https://webpbn.com/play.cgi?id=2052"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Pixilated Painting #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 5 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 1 black 1 red 14 black 1
+black 20
+black 1 blue 3 black 1 black 1 black 1
+black 1 blue 3 black 1 black 1 black 1
+black 1 blue 3 black 1 black 5
+black 1 blue 3 black 1 black 1 green 3 black 1
+black 1 blue 3 black 1 black 1 green 3 black 1
+black 1 blue 3 black 1 black 1 green 3 black 1
+black 20
+
+columns
+black 25
+black 1 black 1 black 1 blue 6 black 1
+black 1 black 1 black 1 blue 6 black 1
+black 1 black 1 black 1 blue 6 black 1
+black 25
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 1 black 1
+black 1 red 16 black 8
+black 1 red 16 black 1 black 1 green 3 black 1
+black 1 red 16 black 1 black 1 green 3 black 1
+black 1 red 16 black 1 black 1 green 3 black 1
+black 25

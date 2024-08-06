@@ -1,0 +1,51 @@
+by "roodar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/21/19"
+height 17
+id 203983
+link "https://www.griddlers.net/nonogram/-/g/203983"
+medium_time "0:02:25"
+points 475
+popularity 80.96
+title "Donald Duck"
+width 10
+
+color a ffffff
+color b 000000
+color c ffcc00
+color d ff0000
+color e ccccff
+color f 0000ff
+color g e0e0e0
+
+rows
+f 6
+f 7 b 2
+f 1 b 4 f 1 b 1
+g 1 e 2 e 2 g 1
+g 1 e 1 b 1 b 1 e 1 g 1
+g 1 e 1 b 1 b 1 e 1 g 1
+g 2 c 4 g 2
+c 8
+f 1 d 1 d 1 f 1
+f 2 d 4 f 2
+f 2 d 1 f 2 d 1 f 2
+g 3 f 4 g 3
+g 10
+g 8
+g 6
+d 2 d 2
+d 4 d 4
+
+columns
+g 2 d 1
+f 1 g 4 c 1 f 2 g 3 d 1
+f 3 e 3 g 1 c 1 f 3 g 4 d 2
+f 2 b 1 e 1 b 2 c 2 d 3 f 1 g 3 d 2
+f 2 b 1 c 2 d 1 f 2 g 3
+f 2 b 1 c 2 d 1 f 2 g 3
+f 2 b 1 e 1 b 2 c 2 d 3 f 1 g 3 d 2
+f 3 e 3 g 1 c 1 f 3 g 4 d 2
+b 2 g 4 c 1 f 2 g 3 d 1
+b 1 g 2 d 1

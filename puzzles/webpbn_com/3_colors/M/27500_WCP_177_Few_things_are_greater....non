@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 27500
+link "https://webpbn.com/play.cgi?id=27500"
+note "published,may be unique,may require moderate lookahead"
+quality 2.5
+title "WCP #177 Few things are greater..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+blue 1 blue 1 blue 1 blue 1 blue 1
+0
+0
+black 7
+black 3 black 3
+black 3 black 3 black 4
+black 2 black 1 black 6
+black 2 black 1 black 5
+black 1 black 5 black 5
+black 2 black 2 black 3 black 5
+black 3 black 2 black 7
+black 5 black 1 black 3
+black 6 black 6
+black 6 black 2 black 2 black 1
+black 8 black 1
+0
+black 1 black 1
+0
+
+columns
+blue 3 black 4
+blue 2 black 2 black 3
+blue 3 black 2 black 3
+blue 2 black 1 black 3
+blue 2 black 2 black 1 black 3
+blue 2 black 1 black 1 black 4
+blue 2 black 2 black 2 black 2
+blue 2 black 1 black 2 black 2 black 1
+blue 3 black 1 black 1 black 1 black 2
+blue 2 black 1 black 1 black 1 black 1
+blue 2 black 1 black 1 black 1 black 1
+blue 2 black 1 black 2 black 2
+blue 2 black 2 black 1 black 1 black 3
+blue 2 black 3 black 2 black 1 black 1
+blue 2 black 4 black 3 black 1
+blue 2 black 6 black 3 black 1
+blue 3 black 9
+blue 2 black 7 black 1
+blue 2 black 5
+blue 3 black 3 black 1

@@ -1,0 +1,61 @@
+by "Wesley Snyder (wsnyder98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wesley Snyder"
+date "May 24, 2014"
+description "What is this one?"
+difficulty 1.25
+height 20
+id 24566
+link "https://webpbn.com/play.cgi?id=24566"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "Famous Letters - 10"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 16 red 2 black 2
+black 15 red 3 black 2
+black 14 red 2 black 1 red 1 black 2
+black 14 red 1 black 2 red 1 black 2
+black 13 red 2 black 5
+black 13 red 1 black 6
+black 12 red 2 black 6
+black 4 red 2 black 6 red 1 black 7
+black 4 red 2 black 5 red 2 black 7
+black 3 red 3 black 5 red 1 black 8
+black 2 red 2 black 1 red 1 black 4 red 2 black 8
+black 2 red 1 black 2 red 1 black 4 red 1 black 9
+black 1 red 2 black 2 red 1 black 3 red 2 black 9
+black 5 red 1 black 3 red 1 black 10
+black 5 red 1 black 2 red 2 black 10
+black 5 red 1 black 1 red 2 black 11
+black 5 red 3 black 12
+black 5 red 3 black 12
+black 6 red 1 black 13
+black 6 red 1 black 13
+
+columns
+black 20
+black 12 red 1 black 7
+black 10 red 3 black 7
+black 9 red 2 black 9
+black 7 red 3 black 10
+black 7 red 11 black 2
+black 16 red 4
+black 15 red 3 black 2
+black 14 red 2 black 4
+black 12 red 3 black 5
+black 10 red 3 black 7
+black 8 red 3 black 9
+black 6 red 3 black 11
+black 4 red 3 black 13
+black 2 red 3 black 15
+black 1 red 2 black 17
+red 2 black 18
+red 4 black 16
+black 20
+black 20

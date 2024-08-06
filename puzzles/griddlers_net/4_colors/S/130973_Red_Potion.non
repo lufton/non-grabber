@@ -1,0 +1,48 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/14/13"
+height 19
+id 130973
+link "https://www.griddlers.net/nonogram/-/g/130973"
+medium_time "0:01:16"
+points 64
+popularity 60.12
+title "Red Potion"
+width 8
+
+color a a1deed
+color b d6a210
+color c ffffff
+color d c64121
+
+rows
+b 2
+b 2
+c 4
+c 4
+c 2
+c 2
+c 2
+c 2
+c 4
+c 4
+d 3 c 1 d 2
+d 3 c 1 d 2
+d 5 c 1 d 2
+d 5 c 1 d 2
+d 6 c 1 d 1
+d 6 c 1 d 1
+d 8
+d 6
+d 6
+
+columns
+d 5
+d 9
+c 2 c 2 d 9
+b 2 c 8 d 9
+b 2 c 10 d 7
+c 2 c 2 d 2 c 2 d 5
+d 4 c 2 d 3
+d 5

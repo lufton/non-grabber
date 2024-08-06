@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom King"
+date "Jan  3, 2013"
+description "I am trying to come up with the ultimate scene and post it. These are just tests."
+difficulty 2.0
+height 20
+id 20762
+link "https://webpbn.com/play.cgi?id=20762"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Aldege challenge #4 still working on ideas"
+width 20
+
+rows
+3,8
+1,5,1
+6,1
+7,1
+6,1,1
+3,1,1
+1,1,1
+1,1
+1,1,1
+1,1,3
+1,1,3
+1,1,3
+1,1,1
+2,1,1,1
+1,5,5
+1,2,2,3
+2,1,1,1,1
+3,1,1
+3,1,3,1
+4,1,1,2
+
+columns
+2,5
+10,3
+2,3
+2,2
+2,1
+2,5
+2,2
+2,1,1,2
+1,2,1,1
+15,1,2
+1,1,2
+2,5
+2,1
+2
+2
+2,2
+1,3,2
+7,5,2
+1,3,2
+1,2

@@ -1,0 +1,52 @@
+by "Marie-Louise Ambrey (Tazzy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Marie-Louise Ambrey"
+date "Oct  1, 2019"
+description "The Laughing Kookaburra, the title being its scientific name."
+difficulty 3.0
+height 20
+id 32976
+link "https://webpbn.com/play.cgi?id=32976"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 4.0
+title "Dacelo novaeguinea (requires minimal edge logic)"
+width 15
+
+rows
+4
+1,1
+1,1,1
+3,1
+3,2
+2,2
+1,4
+1,5
+1,3,1
+1,1,2
+1,2
+1,1
+1,2,4
+2,1,2,1,2
+1,6,3,1
+2,3,1,1
+4,2,1
+2,2
+2,2
+5
+
+columns
+1,1,1
+2,1,1
+4,5,3
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,3,1
+1,1,2,4
+8,3,2
+5,1,2,1
+3,1,1,2,1
+1,6,1,1
+2,1,2,2
+3,1,2
+1,1,1
+1

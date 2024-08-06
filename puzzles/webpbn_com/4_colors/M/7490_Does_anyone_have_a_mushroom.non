@@ -1,0 +1,68 @@
+by "Travis Brandt (ziztex86)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Travis Brandt"
+date "Dec 23, 2009"
+description "Mario, the plumber from Mario Brothers."
+difficulty 2.5
+height 30
+id 7490
+link "https://webpbn.com/play.cgi?id=7490"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Does anyone have a mushroom?"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 8
+black 2 red 6 black 1
+black 2 red 7 black 3
+black 2 red 4 black 8
+black 2 red 4 black 1 black 3
+black 1 red 4 black 1 black 1 black 1 black 1
+black 7 black 1 black 1 black 2
+black 2 black 3 black 1
+black 2 black 1 black 1 black 1
+black 2 black 1 black 4 black 3
+black 1 black 7
+black 1 black 5
+black 3 black 1
+black 2 red 3 black 6
+black 1 red 5 blue 1 red 3 blue 1 black 4
+black 1 red 2 black 2 red 1 blue 2 red 3 blue 1 black 1 black 1
+black 1 red 3 black 2 blue 2 red 3 blue 2 black 1 black 1
+black 1 red 1 black 2 black 2 blue 6 black 1 black 1
+black 2 black 1 blue 7 black 1
+black 2 black 1 blue 5 black 3
+black 4 blue 5 black 2 red 1 black 2
+black 1 red 2 blue 7 black 1 red 3 black 1
+black 2 red 1 blue 8 black 1 red 3 black 1
+black 1 red 2 blue 5 black 4 red 3 black 1
+black 1 red 2 blue 2 black 3 black 1 red 2 black 1
+black 1 red 2 black 2 black 2
+black 3
+0
+0
+
+columns
+black 3 black 4 black 5
+black 6 black 1 red 4 black 1 black 2 red 3 black 1
+black 2 red 1 black 1 black 1 black 1 red 3 black 4 red 5 black 1
+black 2 red 2 black 1 black 3 red 2 black 1 red 1 black 1 black 2 red 1 blue 3 black 1
+black 2 red 3 black 2 black 1 red 2 black 2 black 1 blue 4 black 1
+black 2 red 4 black 4 black 1 red 3 black 2 black 1 blue 3 black 1
+black 1 red 4 black 3 black 1 blue 3 black 3 blue 4 black 1
+black 1 red 3 black 1 black 1 black 1 red 1 blue 9 black 1
+black 1 red 2 black 1 black 2 black 3 black 1 red 3 blue 6 black 1
+black 1 red 2 black 1 black 3 black 1 red 3 blue 6 black 1
+black 1 red 2 black 1 black 2 black 3 black 1 blue 1 red 2 blue 6 black 1
+black 1 red 2 black 1 black 5 blue 5 black 5
+black 7 black 2 black 2 blue 3 black 2 red 4 black 1
+black 3 black 1 black 3 black 1 black 2 blue 1 black 1 red 5 black 1
+black 3 black 4 black 1 black 3 red 3 black 1
+black 1 black 1 black 3 black 4

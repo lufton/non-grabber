@@ -1,0 +1,31 @@
+by "chuck combs (domjat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by chuck combs"
+date "Dec 16, 2010"
+description "Philadelphia Phillies"
+difficulty 1.0
+height 5
+id 11437
+link "https://webpbn.com/play.cgi?id=11437"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Quilt, quilt, quilt"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5
+blue 1 black 3 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 3 blue 1
+blue 1 black 1 blue 3
+
+columns
+blue 5
+blue 1 black 4
+blue 1 black 1 black 1 blue 1
+blue 1 black 3 blue 1
+blue 5

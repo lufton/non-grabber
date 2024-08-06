@@ -1,0 +1,43 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 22, 2011"
+description "Tom's Matt the Kat is hiding, waiting for a rat to foolishly come towards him. Tom, I stole Matt for just a few minutes as he should be in the animal challenge and then returned him. Mr. B wanted to be a small animal but too bad for him."
+difficulty 1.25
+height 7
+id 12955
+link "https://webpbn.com/play.cgi?id=12955"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Brian's animal challenge # 11"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 2 black 2
+black 9
+black 2 black 2
+black 1 black 3 black 3 black 1
+black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1
+
+columns
+0
+black 3
+black 2
+black 2 black 2
+black 3 black 1 blue 1
+black 1 black 2
+black 1
+black 1 black 2
+black 3 black 1 blue 1
+black 2 black 2
+black 2
+black 3
+0
+0
+0

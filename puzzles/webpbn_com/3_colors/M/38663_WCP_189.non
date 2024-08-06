@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "May 28, 2024"
+description "Alpine lake"
+difficulty 1.25
+height 20
+id 38663
+link "https://webpbn.com/play.cgi?id=38663"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WCP #189"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 blue 3
+blue 4 blue 7
+blue 4 blue 8 blue 3
+blue 5 blue 6 blue 2
+blue 4 blue 4 blue 1
+blue 4 black 1 blue 2 black 1
+blue 3 black 1 black 1 black 1 black 1 black 1
+blue 2 black 3 black 2 black 1 black 1 black 2
+blue 2 black 8 black 3 black 3
+blue 1 black 18
+0
+blue 1 black 18
+blue 2 black 8 black 3 black 3
+blue 2 black 3 black 2 black 1 black 1 black 2
+blue 3 black 1 black 1 black 1 black 1 black 1
+blue 4 black 1 blue 2 black 1
+blue 4 blue 4 blue 1
+blue 5 blue 6 blue 2
+blue 4 blue 8 blue 3
+blue 4 blue 7
+
+columns
+blue 7 blue 7
+blue 6 blue 6
+blue 5 black 1 black 1 blue 5
+blue 4 black 2 black 2 blue 4
+blue 1 blue 2 black 4 black 4 blue 2
+blue 3 black 3 black 3 blue 2
+blue 2 black 4 black 4 blue 1
+blue 3 black 2 black 2 blue 2
+blue 3 black 3 black 3 blue 3
+blue 3 black 5 black 5 blue 3
+blue 4 black 2 black 2 blue 4
+blue 4 black 1 black 1 blue 4
+blue 3 black 4 black 4 blue 3
+blue 3 black 2 black 2 blue 3
+blue 2 black 3 black 3 blue 2
+blue 1 black 1 black 1 blue 1
+blue 2 black 2 black 2 blue 1
+blue 3 black 5 black 5 blue 2
+blue 4 black 3 black 3 blue 3
+blue 4 black 1 black 1 blue 4

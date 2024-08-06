@@ -1,0 +1,62 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/28/06"
+height 26
+id 30304
+link "https://www.griddlers.net/nonogram/-/g/30304"
+medium_time "0:03:56"
+points 1639
+popularity 57.23
+title "Hot Air Balloon"
+width 15
+
+color a ffffff
+color b 000000
+color c 969696
+color d ff0000
+
+rows
+b 5
+b 3 d 3 b 3
+b 2 d 7 b 2
+b 2 d 9 b 2
+b 1 d 11 b 1
+b 2 d 11 b 2
+b 3 d 9 b 3
+b 1 d 2 b 9 d 2 b 1
+b 1 d 6 b 1 d 6 b 1
+b 1 d 6 b 1 d 6 b 1
+b 1 d 5 b 1 d 5 b 1
+b 1 d 5 b 1 d 5 b 1
+b 2 d 4 b 1 d 4 b 2
+b 3 d 2 b 1 d 2 b 3
+b 1 b 5 b 1
+b 2 b 1 b 2
+b 1 b 1 b 1
+b 2 b 1 b 2
+b 1 b 1 b 1
+b 1 b 1 b 1
+b 7
+b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1
+b 1 c 5 b 1
+b 1 c 5 b 1
+b 7
+
+columns
+b 5
+b 4 d 3 b 3
+b 2 d 2 b 1 d 5 b 4
+b 2 d 4 b 1 d 5 b 1 b 3
+b 1 d 5 b 1 d 5 b 1 b 9
+b 2 d 5 b 1 d 6 b 1 b 1 c 4 b 1
+b 1 d 6 b 1 d 6 b 1 b 1 c 4 b 1
+b 1 d 6 b 16 c 2 b 1
+b 1 d 6 b 1 d 6 b 1 b 1 c 4 b 1
+b 2 d 5 b 1 d 6 b 1 b 1 c 4 b 1
+b 1 d 5 b 1 d 5 b 1 b 9
+b 2 d 4 b 1 d 5 b 1 b 3
+b 2 d 2 b 1 d 5 b 4
+b 4 d 3 b 3
+b 5

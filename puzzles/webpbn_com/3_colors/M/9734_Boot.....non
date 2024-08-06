@@ -1,0 +1,53 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 25, 2010"
+description "girls! Don't ya luv em"
+difficulty 1.25
+height 20
+id 9734
+link "https://webpbn.com/play.cgi?id=9734"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Boot...."
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+red 3 black 1 red 1
+red 4 black 2 red 1
+red 5 black 1 red 1
+red 8
+red 9
+red 10
+red 12
+red 12
+0
+0
+0
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 1 black 2 black 1 black 2
+
+columns
+red 2
+red 3
+red 5 black 8
+red 7 black 7
+black 1 red 8 black 8
+black 1 red 8 black 1
+black 1 red 8
+black 3 red 6 black 8
+black 1 red 1 black 2 red 5 black 7
+red 7 black 8
+red 4 black 1
+red 2

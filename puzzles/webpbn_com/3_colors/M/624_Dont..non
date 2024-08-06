@@ -1,0 +1,61 @@
+by "Gitte Olesen (granny40)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Gitte Olesen"
+date "Nov 25, 2006"
+description ""
+difficulty 2.0
+height 20
+id 624
+link "https://webpbn.com/play.cgi?id=624"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Don`t."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 6
+red 10
+red 3 red 3
+red 2 red 2
+red 2 red 2
+red 8 red 2
+red 2 red 6 red 2
+red 2 red 6 red 2
+red 2 red 6 black 4 red 2
+red 2 red 6 black 1 black 1 red 2
+red 2 red 6 black 6 red 2
+red 2 red 6 black 6 red 2
+red 4 red 2 black 1 black 1 red 2
+red 2 red 2
+red 2 red 2
+red 3 red 3
+red 10
+red 6
+0
+
+columns
+0
+red 6
+red 10
+red 3 red 3
+red 2 red 8 red 2
+red 2 red 8 red 2
+red 2 red 7 red 2
+red 2 red 7 red 2
+red 2 red 8 red 2
+red 2 red 8 red 2
+red 2 black 3 red 2
+red 2 black 1 black 3 red 2
+red 2 black 1 black 2 red 2
+red 2 black 1 black 2 red 2
+red 2 black 1 black 3 red 2
+red 2 black 3 red 2
+red 3 red 3
+red 10
+red 6
+0

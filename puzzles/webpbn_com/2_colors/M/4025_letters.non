@@ -1,0 +1,57 @@
+by "mikko (vihu)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by mikko"
+date "Nov 13, 2008"
+description ""
+difficulty 1.25
+height 20
+id 4025
+link "https://webpbn.com/play.cgi?id=4025"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "letters"
+width 20
+
+rows
+0
+0
+4,2,8
+4,3,8
+4,4,2,2
+4,5,2,2
+9,2,2
+8,2,2
+7,2,2
+6,2,2
+6,8
+7,8
+8,2,2
+9,2,2
+4,5,2,2
+4,4,2,2
+4,3,2,2
+4,2,2,2
+0
+0
+
+columns
+0
+16
+16
+16
+16
+8
+10
+5,5
+5,5
+5,5
+4,4
+0
+16
+16
+2,2
+2,2
+2,2
+2,2
+16
+16

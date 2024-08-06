@@ -1,0 +1,51 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar 27, 2024"
+description "I <3 NY (or insert state) shot glass"
+difficulty 1.5
+height 15
+id 38407
+link "https://webpbn.com/play.cgi?id=38407"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "another common souvenir"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 14
+black 1 black 1
+black 1 black 1
+black 1 black 3 red 1 red 1 black 1
+black 1 black 1 red 3 black 1
+black 1 black 3 red 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 10
+
+columns
+black 6
+black 1 black 5
+black 1 black 3
+black 1 black 1 black 1 black 3 black 1
+black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1
+black 1 black 1
+black 1 red 2 black 1 black 1
+black 1 red 2 black 2 black 1
+black 1 red 2 black 1 black 1
+black 1 black 3
+black 1 black 5
+black 6
+0

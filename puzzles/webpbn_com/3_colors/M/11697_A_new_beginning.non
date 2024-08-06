@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Jan  8, 2011"
+description ""
+difficulty 2.25
+height 20
+id 11697
+link "https://webpbn.com/play.cgi?id=11697"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "A new beginning!"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4 blue 3 black 7
+blue 4 blue 2 black 8
+blue 3 black 8
+black 1 blue 1 black 6
+blue 3 black 5
+blue 3 blue 3 black 5
+blue 4 blue 2 black 4
+blue 5 blue 2
+blue 4 blue 1
+blue 2 blue 3
+blue 2 blue 4
+blue 2 blue 3
+blue 1 blue 4
+blue 6
+blue 3 blue 5 blue 3
+blue 3 blue 3 blue 3
+blue 4 blue 3 blue 3
+blue 3 blue 3 blue 3
+blue 2 blue 3 blue 4
+blue 3 blue 5
+
+columns
+blue 1 blue 3 blue 3
+blue 2 blue 5 blue 5
+blue 3 blue 4 blue 4
+blue 3 blue 4 blue 3
+blue 2 blue 4 blue 1
+blue 3 blue 2
+blue 4
+blue 5
+blue 1 blue 5
+blue 2 blue 3
+blue 2 blue 2 blue 2
+blue 2 blue 3 blue 1
+black 3 blue 3 blue 4 blue 1
+black 3 blue 3 blue 5 blue 2
+black 4 blue 2 blue 4 blue 2
+black 7 blue 2 blue 3
+black 7 blue 5
+black 7 blue 4
+black 7 blue 3
+black 6

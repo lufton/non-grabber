@@ -1,0 +1,63 @@
+by "MaryJane Anderson (o-so-clever)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by MaryJane Anderson"
+date "Sep  7, 2009"
+description "just messing around"
+difficulty 2.0
+height 20
+id 6677
+link "https://webpbn.com/play.cgi?id=6677"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Randomeness"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 black 1 blue 3 green 1 blue 3 red 2 blue 3 green 1 blue 3 black 1 red 1
+black 1 red 1 green 4 black 1 red 2 green 4 red 1 black 1
+blue 1 green 1 red 2 green 2 black 1 black 1 red 2 green 2 red 2 green 1 blue 1
+blue 1 green 2 red 2 green 1 black 1 red 2 green 1 red 2 green 2 blue 1
+blue 1 green 3 red 2 black 1 black 1 red 2 red 2 green 3 blue 1
+green 5 red 2 green 2 red 2 green 2 red 2 green 5
+blue 1 green 1 red 2 blue 1 red 2 blue 1 red 2 green 1 black 1 black 1 blue 1
+blue 1 green 1 blue 1 red 6 blue 1 green 1 black 1 black 1 blue 1
+blue 1 green 1 blue 2 red 4 blue 2 green 1 black 1 black 1 blue 1
+red 9 blue 2 red 9
+red 9 blue 2 red 9
+blue 1 black 1 black 1 green 1 blue 1 red 6 blue 1 green 1 blue 1
+blue 1 black 1 black 1 green 1 red 2 blue 1 red 2 blue 1 red 2 green 1 blue 1
+blue 1 black 1 black 1 red 2 blue 2 red 2 blue 2 red 2 blue 1
+green 4 red 2 green 3 red 2 green 3 red 2 green 4
+blue 1 green 2 red 2 green 1 red 2 black 1 black 1 green 1 red 2 green 2 blue 1
+blue 1 green 1 red 2 green 2 red 2 black 1 green 2 red 2 green 1 blue 1
+blue 1 green 1 red 1 green 3 red 2 black 1 black 1 green 3 red 2 blue 1
+black 1 red 1 green 4 red 2 black 1 green 4 red 1 black 1
+red 1 black 1 green 4 red 2 black 1 black 1 green 4 black 1 red 1
+
+columns
+red 1 black 1 blue 3 green 1 blue 3 red 2 blue 3 green 1 blue 3 black 1 red 1
+black 1 red 1 green 4 red 2 black 1 black 1 green 4 red 1 black 1
+blue 1 green 1 red 1 green 3 red 2 black 1 green 2 red 2 green 2
+blue 1 green 1 red 2 green 2 red 2 black 1 black 1 green 1 red 2 green 3
+blue 1 green 2 red 2 green 1 red 2 black 1 red 2 green 4
+green 4 red 2 green 3 red 2 green 2 red 2 green 5
+blue 1 black 1 black 1 red 2 blue 2 red 2 blue 1 red 2 green 1
+blue 1 black 1 black 1 green 1 red 2 blue 1 red 4 blue 1 green 1
+blue 1 black 1 black 1 green 1 blue 1 red 5 blue 2 green 1
+red 9 blue 2 red 9
+red 9 blue 2 red 9
+blue 1 green 1 blue 1 red 5 blue 2 green 1 black 1 black 1 black 1
+blue 1 green 1 red 2 blue 1 red 4 blue 1 green 1 black 1 black 1
+blue 1 red 2 blue 2 red 2 blue 1 red 2 green 1 black 1 black 1 black 1
+green 4 red 2 green 3 red 2 green 2 red 2 green 5
+blue 1 green 2 red 2 green 1 black 1 black 1 red 2 red 2 green 4
+blue 1 green 1 red 2 green 2 black 1 red 2 green 1 red 2 green 3
+blue 1 green 1 red 1 green 3 black 1 black 1 red 2 green 2 red 2 green 2
+black 1 red 1 green 4 black 1 red 2 green 3 red 2 black 1
+red 1 black 1 blue 3 green 1 blue 3 red 2 blue 3 green 1 blue 3 black 1 red 1

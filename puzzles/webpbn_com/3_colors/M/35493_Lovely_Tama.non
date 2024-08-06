@@ -1,0 +1,53 @@
+by "Devon McCarthy (The Dev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Devon McCarthy"
+date "Dec 17, 2021"
+description "Lovelitchi from Tamagotchi"
+difficulty 2.75
+height 16
+id 35493
+link "https://webpbn.com/play.cgi?id=35493"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Lovely Tama"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 red 1 black 2 black 2 black 2 red 1 black 1
+black 1 red 3 black 2 black 2 red 3 black 1
+black 1 red 2 red 2 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 1
+black 10
+black 1 black 1 black 1 black 1
+black 2 black 2
+black 8
+black 1 black 1
+
+columns
+black 2
+black 1 red 1 black 2 black 4
+black 1 red 2 black 1 black 1
+black 1 red 2 black 1 black 3
+black 1 red 1 black 3 black 1 black 2
+black 2 black 2 black 1 black 2 black 1
+black 1 black 1 black 2
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 1 black 1 black 2
+black 2 black 2 black 1 black 2 black 1
+black 1 red 1 black 3 black 1 black 2
+black 1 red 2 black 1 black 3
+black 1 red 2 black 1 black 1
+black 1 red 1 black 2 black 4
+black 2

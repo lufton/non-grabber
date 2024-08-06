@@ -1,0 +1,72 @@
+by "Carol Brand (KarylAnn)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Carol Brand"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 25522
+link "https://webpbn.com/play.cgi?id=25522"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #159 What word do these two pictures represent?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5 red 1 black 1 red 7
+black 6 black 1 red 1 red 7
+black 5 red 1 red 7
+black 5 black 1 red 1
+red 1 black 2 red 1 red 1 black 1 red 3
+blue 3 red 5 blue 3 red 1 red 3
+blue 8 red 1 blue 4 red 1 black 1 black 3
+blue 2 blue 3 black 1 blue 1 red 1 blue 1 blue 2 black 1 red 1 black 3
+blue 2 blue 7 blue 2 red 1 black 1
+blue 2 blue 7 blue 2 black 1 red 1 black 1
+blue 2 blue 3 black 1 blue 3 blue 2 red 1 black 1 black 1
+blue 2 blue 7 blue 2 red 1 red 6
+blue 7 red 1 black 1 black 1 red 4 black 1
+blue 3 black 1 blue 3 black 1 red 1 black 6
+blue 7 red 1 black 6
+blue 7 black 1 red 1 black 6
+red 1 black 1 black 6
+red 1 black 6
+red 1 black 1 black 6
+black 1 red 1
+
+columns
+blue 6
+blue 7
+black 1 blue 2
+black 4 blue 11
+black 4 red 2 blue 10
+black 5 red 1 blue 10
+black 5 red 1 blue 1 black 1 blue 2 black 1 blue 2 black 1 blue 2
+black 4 red 2 blue 10
+red 3 blue 8
+blue 11
+blue 2
+blue 7
+blue 6
+0
+red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1
+0
+0
+red 3
+red 3 red 2 black 2
+red 3 red 2 black 5
+red 3 red 2 black 2
+red 3
+red 3
+red 3 red 1 black 7
+red 2 black 6
+red 2 black 6
+red 2 black 6
+red 2 black 6
+red 1 black 7

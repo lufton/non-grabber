@@ -1,0 +1,62 @@
+by "Joel Rogers (ecosystempets)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joel Rogers"
+date "Jun 26, 2011"
+description "A white fan, a green cross, a series of circles... what do you see?"
+difficulty 1.75
+height 20
+id 14176
+link "https://webpbn.com/play.cgi?id=14176"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "What do you see?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 black 8 blue 6
+blue 4 black 2 green 8 black 2 blue 4
+blue 3 black 1 black 6 black 1 blue 3
+blue 2 black 1 black 2 green 6 black 2 black 1 blue 2
+blue 1 black 1 black 1 black 4 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 2 green 4 black 2 black 1 black 1 blue 1
+black 1 green 1 black 1 black 1 black 2 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 black 2 green 2 black 2 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 blue 1 green 2 blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 2 black 2 green 2 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 2 black 2 green 2 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 blue 1 green 2 blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 black 2 green 2 black 2 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 2 black 1 black 1 green 1 black 1
+blue 1 black 1 black 1 black 2 green 4 black 2 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 4 black 1 black 1 blue 1
+blue 2 black 1 black 2 green 6 black 2 black 1 blue 2
+blue 3 black 1 black 6 black 1 blue 3
+blue 4 black 2 green 8 black 2 blue 4
+blue 6 black 8 blue 6
+
+columns
+blue 6 black 8 blue 6
+blue 4 black 2 green 8 black 2 blue 4
+blue 3 black 1 black 6 black 1 blue 3
+blue 2 black 1 black 2 green 6 black 2 black 1 blue 2
+blue 1 black 1 black 1 black 4 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 2 green 4 black 2 black 1 black 1 blue 1
+black 1 green 1 black 1 black 1 black 2 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 black 2 green 2 black 2 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 blue 1 green 2 blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 2 black 2 green 2 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 2 black 2 green 2 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 blue 1 green 2 blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 green 1 black 1 black 2 green 2 black 2 black 1 green 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 black 2 black 1 black 1 green 1 black 1
+blue 1 black 1 black 1 black 2 green 4 black 2 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 4 black 1 black 1 blue 1
+blue 2 black 1 black 2 green 6 black 2 black 1 blue 2
+blue 3 black 1 black 6 black 1 blue 3
+blue 4 black 2 green 8 black 2 blue 4
+blue 6 black 8 blue 6

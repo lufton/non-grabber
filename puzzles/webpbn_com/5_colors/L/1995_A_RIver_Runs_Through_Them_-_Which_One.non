@@ -1,0 +1,83 @@
+by "Debra Greene (dlegreen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Debra Greene"
+date "Dec 11, 2007"
+description "The Colorado River running through Colorado, Utah, Arizona and New Mexico -extra points for naming the capitals!"
+difficulty 1.75
+height 30
+id 1995
+link "https://webpbn.com/play.cgi?id=1995"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "A RIver Runs Through Them - Which One?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 7
+black 1 green 1 blue 1 green 1 blue 1 green 1 black 1
+black 1 green 1 blue 3 green 1 black 23
+black 1 green 2 blue 3 green 5 black 1 green 16 black 1
+black 1 green 3 blue 2 green 5 black 1 green 16 black 1
+black 1 green 5 red 1 green 4 black 1 green 7 blue 1 green 8 black 1
+black 1 green 10 black 1 green 5 blue 2 green 9 black 1
+black 1 green 10 black 1 green 2 blue 3 green 3 red 1 green 7 black 1
+black 1 green 10 blue 3 green 14 black 1
+black 1 green 9 blue 2 green 16 black 1
+black 1 green 8 blue 2 black 1 green 16 black 1
+black 1 green 7 blue 2 green 1 black 1 green 16 black 1
+black 1 green 6 blue 2 green 2 black 1 green 16 black 1
+black 1 green 6 blue 1 green 3 black 1 green 16 black 1
+black 6 blue 2 black 21
+black 1 green 5 blue 1 green 4 black 1 green 13 black 1
+black 1 green 3 blue 3 green 4 black 1 green 13 black 1
+blue 3 green 1 blue 2 green 6 black 1 green 6 red 1 green 6 black 1
+blue 1 green 1 blue 2 green 8 black 1 green 13 black 1
+blue 1 green 11 black 1 green 13 black 1
+blue 1 green 11 black 1 green 13 black 1
+blue 1 green 10 black 1 green 13 black 1
+blue 1 green 4 red 1 green 5 black 1 green 13 black 1
+blue 1 green 10 black 1 green 13 black 1
+blue 1 green 11 black 1 green 13 black 1
+blue 2 green 10 black 1 green 13 black 1
+blue 1 black 3 green 7 black 1 green 7 black 7
+black 4 green 4 black 1 green 2 black 6
+black 9
+0
+
+columns
+blue 4 blue 2
+black 17 blue 1 green 3 blue 3 green 1 blue 2
+black 1 green 13 black 1 green 2 blue 2 green 7 black 1
+black 1 blue 2 green 11 black 1 green 3 blue 1 green 7 black 1
+black 1 green 1 blue 2 green 10 black 1 green 2 blue 1 green 8 black 2
+black 1 blue 4 green 9 black 1 green 1 blue 2 green 9 black 1
+black 1 green 2 blue 2 green 9 black 1 green 1 blue 1 green 5 red 1 green 4 black 1
+black 3 green 2 red 1 green 8 blue 3 green 10 black 2
+black 1 green 9 blue 3 green 13 black 1
+black 1 green 8 blue 2 green 1 black 1 green 13 black 1
+black 1 green 7 blue 2 green 2 black 1 green 13 black 1
+black 1 green 6 blue 2 green 3 black 1 green 13 black 1
+black 6 blue 2 black 19
+black 1 green 5 blue 1 green 5 black 1 green 13 black 1
+black 1 green 5 blue 1 green 5 black 1 green 13 black 1
+black 1 green 4 blue 1 green 6 black 1 green 12 black 2
+black 1 green 4 blue 1 green 6 black 1 green 12 black 1
+black 1 green 4 blue 1 green 6 black 1 green 12 black 1
+black 1 green 3 blue 1 green 7 black 1 green 12 black 1
+black 1 green 3 blue 1 green 7 black 1 green 2 red 1 green 9 black 1
+black 1 green 2 blue 1 green 8 black 1 green 11 black 2
+black 1 green 4 red 1 green 6 black 1 green 11 black 1
+black 1 green 11 black 1 green 11 black 1
+black 1 green 11 black 1 green 11 black 1
+black 1 green 11 black 1 green 11 black 1
+black 1 green 11 black 1 green 11 black 1
+black 1 green 11 black 13
+black 1 green 11 black 1
+black 1 green 11 black 1
+black 13

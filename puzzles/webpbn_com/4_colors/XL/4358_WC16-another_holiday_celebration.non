@@ -1,0 +1,97 @@
+by "Jane Doe (telly)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jane Doe"
+date "Dec 12, 2008"
+description "Kwanzaa---An African-American holiday consisting of seven days of celebration, featuring activities such as candle-lighting and pouring of libations, and culminating in a feast and gift giving."
+difficulty 2.0
+height 35
+id 4358
+link "https://webpbn.com/play.cgi?id=4358"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WC#16-another holiday celebration"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 3 black 2 black 1 black 2 black 2 black 2
+black 3 black 4 black 4 black 3 black 4 black 3 black 4
+black 4 black 4 black 3 black 3 black 4 black 3 black 4
+black 2 black 2 black 2 black 2 black 2 black 1 black 2
+0
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+red 4 red 4 red 4 black 4 green 4 green 4 green 4
+0
+black 4 black 4 black 4 black 4 black 4 black 4 black 4
+black 4 black 4 black 4 black 4 black 4 black 4 black 4
+0
+black 36
+black 1 black 3 black 2 black 3 black 2 black 4 black 2 black 3 black 2 black 3 black 1
+black 36
+black 22
+black 8 black 8
+black 8 black 2 black 8
+black 8 black 6 black 8
+black 8 black 8 black 8
+black 7 black 12 black 8
+black 8 black 8 black 8
+black 8 black 6 black 8
+black 8 black 2 black 8
+black 8 black 8
+black 22
+black 18
+
+columns
+black 1
+black 3
+black 3 black 3
+black 1 red 8 black 2 black 1 black 1 black 5
+black 3 red 8 black 2 black 3 black 5
+black 4 red 8 black 2 black 3 black 7
+black 4 red 8 black 2 black 3 black 7
+black 1 black 1 black 4 black 4
+black 2 red 8 black 2 black 3 black 4 black 4
+black 4 red 8 black 2 black 7 black 4
+black 6 red 8 black 2 black 1 black 5 black 4
+black 3 red 8 black 2 black 6 black 4
+black 6 black 4
+black 2 red 8 black 2 black 5 black 3
+black 4 red 8 black 2 black 1 black 3 black 1 black 3
+black 5 red 8 black 2 black 4 black 1 black 2
+black 1 red 8 black 2 black 4 black 3 black 2
+black 1 black 2 black 5 black 2
+black 2 black 8 black 2 black 4 black 5 black 2
+black 5 black 8 black 2 black 4 black 7 black 2
+black 3 black 8 black 2 black 4 black 7 black 2
+black 8 black 2 black 4 black 5 black 2
+black 1 black 2 black 5 black 2
+black 2 green 8 black 2 black 4 black 3 black 2
+black 5 green 8 black 2 black 4 black 1 black 2
+black 4 green 8 black 2 black 1 black 3 black 1 black 3
+black 2 green 8 black 2 black 5 black 3
+black 6 black 4
+black 3 green 8 black 2 black 6 black 4
+black 5 green 8 black 2 black 1 black 5 black 4
+black 2 green 8 black 2 black 7 black 4
+green 8 black 2 black 3 black 4 black 4
+black 1 black 1 black 9
+black 2 green 8 black 2 black 3 black 7
+black 4 green 8 black 2 black 3 black 7
+black 5 green 8 black 2 black 3 black 5
+black 2 green 8 black 2 black 1 black 1 black 5
+black 3 black 3
+black 3
+black 1

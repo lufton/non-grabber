@@ -1,0 +1,93 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by gregg licht"
+date "Feb 12, 2023"
+description "Discovery of a green tent in the backyard...along with another familiar sight. From a recent, quick novel."
+difficulty 2.25
+height 40
+id 36430
+link "https://webpbn.com/play.cgi?id=36430"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Has anyone read this quick novel?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 black 2 blue 16
+red 1 black 2 blue 6 blue 1 blue 4 blue 2
+red 2 red 1 black 2 blue 6 blue 4 blue 4
+red 1 red 1 black 2 blue 4 blue 7
+red 1 red 1 red 1 black 2 blue 10
+red 1 red 1 red 2 black 2 blue 5
+red 1 red 1 black 2 blue 4
+red 2 red 1 black 2 blue 4
+red 1 red 1 black 3 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+red 1 red 1 black 3 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+red 1 black 19
+red 1 black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 8 black 17 green 2
+black 9 black 3 black 1 black 1 black 1 black 1 black 1 black 1 green 3
+black 9 black 3 black 1 black 1 black 1 black 1 black 1 black 1 green 4
+black 8 black 14 green 3 black 2
+black 7 blue 1 black 3 black 1 black 1 black 1 black 1 black 1 green 2 black 2 green 1
+black 5 black 2 green 2 black 2 green 2
+black 5 black 2 green 2 black 2 green 3
+black 4 black 2 black 2 green 2 black 1 green 5
+black 3 red 4 black 1 green 2 black 6
+red 5 black 2
+black 6 red 4 black 1 black 1 black 2
+black 3 red 3 black 1 black 1 black 2
+black 2 black 4 black 2
+black 3 black 1 black 2
+black 2 black 1
+black 2 black 1
+black 3 black 2
+black 1 black 2 black 1
+black 1 black 4
+black 1 black 2
+black 1 black 2
+black 1 black 2
+blue 5 black 1 black 2
+black 2 blue 1 black 3 black 2
+black 2 blue 1 black 3 black 2
+blue 5 black 1 black 2
+blue 5 black 1 black 2
+
+columns
+black 9 black 1 blue 1 black 2 blue 2
+black 10 black 1 blue 1 black 2 blue 2
+black 10 black 1 blue 5
+black 9 black 1 blue 1 black 2 blue 2
+red 4 black 8 black 1 black 1 blue 1 black 2 blue 2
+red 3 black 6 black 2 black 12
+red 4 black 5 black 1 black 1
+red 3 black 4 black 1 red 3 black 2 black 1
+red 4 black 2 blue 1 black 1 red 4 black 2 black 1
+red 7 red 4 black 1 black 2
+red 4 black 3 black 1
+black 21 red 1 black 3 black 1 black 9
+black 21 black 1 black 1 black 11
+blue 2 black 10 black 8
+blue 3 blue 1 black 1 black 1 black 1
+blue 3 black 10 black 4
+blue 3 blue 1 black 1 black 1 black 1 black 4
+blue 4 black 10
+blue 5 blue 2 black 1 black 1 black 1
+blue 1 blue 3 blue 1 black 10
+blue 2 blue 7 black 1 black 1 black 1
+blue 1 blue 1 blue 4 black 10 black 1
+blue 1 blue 8 black 1 black 1 black 1 green 2
+blue 7 black 10 green 3
+blue 6 blue 2 black 1 black 1 black 1 green 2 black 2
+blue 2 blue 2 black 8 green 3 black 1 green 1 black 1
+blue 5 blue 1 black 1 black 1 green 3 black 2 green 1 black 1
+blue 1 blue 3 black 6 green 3 black 2 green 2 black 1
+blue 4 blue 1 black 1 green 3 black 2 green 3 black 1
+blue 2 black 5 green 3 black 1 green 4 black 1

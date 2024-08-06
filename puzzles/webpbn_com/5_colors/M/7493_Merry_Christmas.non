@@ -1,0 +1,63 @@
+by "Horse Fan (HorseFan_12)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Horse Fan"
+date "Dec 24, 2009"
+description "its a christmas tree"
+difficulty 1.5
+height 20
+id 7493
+link "https://webpbn.com/play.cgi?id=7493"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Merry Christmas"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 3
+green 3
+green 5
+green 5
+green 7
+green 7
+green 9
+green 9
+green 11
+green 11
+green 13
+green 13
+green 15
+green 15
+green 17
+green 17
+black 5
+red 1 blue 2 red 1 black 5 blue 1 red 2 blue 1
+red 1 blue 2 red 1 black 5 blue 1 red 2 blue 1
+
+columns
+0
+green 2 red 2
+green 4 blue 2
+green 6 blue 2
+green 8 red 2
+green 10
+green 12
+green 14 black 3
+green 16 black 3
+green 17 black 3
+green 16 black 3
+green 14 black 3
+green 12
+green 10
+green 8 blue 2
+green 6 red 2
+green 4 red 2
+green 2 blue 2
+0
+0

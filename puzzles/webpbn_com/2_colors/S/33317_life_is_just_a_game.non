@@ -1,0 +1,47 @@
+by "darren jackson (hi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by darren jackson"
+date "Dec  5, 2019"
+description "a pulsar in Conway's Game of life."
+difficulty 2.25
+height 15
+id 33317
+link "https://webpbn.com/play.cgi?id=33317"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "life is just a game"
+width 15
+
+rows
+1,1
+1,1
+2,2
+0
+3,2,2,3
+1,1,1,1,1,1
+2,2
+0
+2,2
+1,1,1,1,1,1
+3,2,2,3
+0
+2,2
+1,1
+1,1
+
+columns
+1,1
+1,1
+2,2
+0
+3,2,2,3
+1,1,1,1,1,1
+2,2
+0
+2,2
+1,1,1,1,1,1
+3,2,2,3
+0
+2,2
+1,1
+1,1

@@ -1,0 +1,31 @@
+by "Joel Lynn (Furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joel Lynn"
+date "May 18, 2011"
+description "See comment 1"
+difficulty 1.25
+height 5
+id 13983
+link "https://webpbn.com/play.cgi?id=13983"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "A mini sport puzzle"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+black 1 red 1 black 1
+black 5
+black 3
+black 1
+
+columns
+black 2
+red 1 black 2
+red 2 black 3
+red 1 black 2
+black 2

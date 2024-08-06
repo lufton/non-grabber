@@ -1,0 +1,107 @@
+by "ryan moore (solar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by ryan moore"
+date "Apr 19, 2013"
+description "Medieval Statue of a knight holding his sword. One of my favorite knight statues. Had to color the sword and hilt or it would not have a unique solutions. Constructive comments please. I am trying to get better and need to know ways to improve."
+difficulty 2.75
+height 60
+id 21721
+link "https://webpbn.com/play.cgi?id=21721"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.25
+title "Standing there (symmetrical)"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 1 black 3 black 3 black 1
+black 1 black 4 black 4 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2
+black 3 black 3
+black 7
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 1 black 1 black 2
+black 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 1
+black 2 black 1 black 1 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 15 black 2
+black 1 black 1 black 1
+black 2 black 1 black 2
+black 7 black 1 black 7
+black 1 black 9 black 1
+black 1 red 5 black 1
+black 1 red 5 black 1
+red 15
+red 15
+red 15
+red 15
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 2 black 1 blue 1 black 1 blue 1 black 1 black 2
+black 1 black 2 blue 1 black 1 blue 1 black 2 black 1
+black 1 black 2 blue 1 black 1 blue 1 black 2 black 1
+black 1 black 2 blue 1 black 1 blue 1 black 2 black 1
+black 1 black 2 blue 1 black 1 blue 1 black 2 black 1
+black 1 black 2 blue 1 black 1 blue 1 black 2 black 1
+black 2 black 3 blue 1 black 1 blue 1 black 3 black 2
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 6 black 1 blue 1 black 1 blue 1 black 1 black 6
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 3 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 black 1 black 1 black 1
+black 6 black 1 black 6
+
+columns
+black 4
+black 8
+black 2 black 2
+black 3 black 1 black 12
+black 2 black 2 black 1 black 7 black 1 black 1
+black 2 black 5 black 4 red 4 black 7 black 1 black 1
+black 8 black 2 black 2 black 1 black 1 red 4 black 1 black 1
+black 2 black 2 black 2 black 2 black 1 black 1 red 4 black 1 black 1
+black 2 black 1 black 1 black 1 black 2 black 1 black 2 red 4 black 12
+black 1 black 2 black 3 black 3 black 2 black 1 black 1 red 4 black 6
+black 2 black 2 black 1 black 1 black 1 red 6 black 22
+black 1 black 2 black 3 black 1 black 1 black 1 red 6 blue 22 black 1
+black 1 black 1 black 5 red 6 black 21 blue 2 black 1
+black 1 black 2 black 3 black 1 black 1 black 1 red 6 blue 22 black 1
+black 2 black 2 black 1 black 1 black 1 red 6 black 22
+black 1 black 2 black 3 black 3 black 2 black 1 black 1 red 4 black 6
+black 2 black 1 black 1 black 1 black 2 black 1 black 2 red 4 black 12
+black 2 black 2 black 2 black 2 black 1 black 1 red 4 black 1 black 1
+black 8 black 2 black 2 black 1 black 1 red 4 black 1 black 1
+black 2 black 5 black 4 red 4 black 7 black 1 black 1
+black 2 black 2 black 1 black 7 black 1 black 1
+black 3 black 1 black 12
+black 2 black 2
+black 8
+black 4

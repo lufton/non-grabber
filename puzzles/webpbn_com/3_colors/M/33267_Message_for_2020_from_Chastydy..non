@@ -1,0 +1,61 @@
+by "Aldege Cholette (rogue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Aldege Cholette"
+date "Jan  1, 2020"
+description "Chastydy wanted to make the first puzzle of this year on my puzzle list, on my puzzle list. I helped her to make sure it was solvable by colour logic alone, hence the blue pixels. Happy puzzling in 2020 everyone."
+difficulty 2.75
+height 20
+id 33267
+link "https://webpbn.com/play.cgi?id=33267"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Message for 2020 from Chastydy."
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 2 black 2 black 2 black 2 blue 1
+black 2 black 1 black 1 black 2
+black 1 black 2 black 2 black 1
+black 1 black 4 black 1
+black 1 black 2 black 1
+black 1 black 1
+black 2 black 2
+blue 1 black 1 black 1
+black 2 black 2
+black 1 black 2 black 2
+black 2 black 2
+black 1 black 2 black 2 blue 1 black 1 black 1
+black 1 black 2 black 2 black 1 black 1
+black 1 black 4 black 1 black 1
+black 1 black 1 black 2 blue 1 blue 1 black 3
+black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 2 blue 1 black 2
+black 1 black 1 black 1 black 3
+black 3 black 3 black 1 blue 1
+
+columns
+black 1 black 4
+blue 1
+black 6 black 5
+black 2 black 3 black 1
+black 2 black 2 black 1
+black 1 black 2
+black 2 black 2 black 4
+black 3 black 2 black 1
+black 2 black 2 black 4
+black 2 black 2
+black 2 black 2
+black 2 black 2 blue 1 black 2
+black 3 black 2 blue 1 black 2
+black 2 black 2 blue 1 black 2
+black 1 black 2 blue 1 blue 1 black 2 blue 1
+black 2 black 2 black 2
+black 2 black 3
+blue 1 black 6 black 4
+black 1
+black 4

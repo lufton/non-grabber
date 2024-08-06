@@ -1,0 +1,53 @@
+by "farfalla19"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/22/10"
+height 15
+id 94308
+link "https://www.griddlers.net/nonogram/-/g/94308"
+medium_time "0:03:05"
+points 176
+popularity 67.58
+title "Cow"
+width 15
+
+color a ccccff
+color b 000000
+color c ffff33
+color d ffcccc
+color e ffffff
+color f ff6699
+
+rows
+c 1 c 1
+c 2 e 4 c 2
+c 1 e 8 c 1
+e 10
+e 11 b 2
+e 11 b 4
+e 5 b 1 e 2 b 1 e 2 b 4
+e 12
+e 3 d 6 e 3
+e 1 d 10 e 1
+d 12
+d 4 f 1 d 2 f 1 d 4
+d 12
+d 10
+d 8
+
+columns
+e 2
+e 6 d 3
+c 3 e 6 d 5
+c 1 e 7 d 6
+e 6 d 7
+e 5 b 1 e 1 d 3 f 1 d 3
+e 7 d 7
+e 7 d 7
+e 5 b 1 e 1 d 3 f 1 d 3
+e 6 d 7
+c 1 e 7 d 6
+c 3 e 2 b 2 e 2 d 5
+b 3 e 3 d 3
+b 3
+b 2

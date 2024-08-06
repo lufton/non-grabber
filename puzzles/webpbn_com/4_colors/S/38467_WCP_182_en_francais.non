@@ -1,0 +1,52 @@
+by "N. Franklin (kaytris)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by N. Franklin"
+date "Apr  7, 2024"
+description "Les Filles!"
+difficulty 1.25
+height 15
+id 38467
+link "https://webpbn.com/play.cgi?id=38467"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #182, en francais"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 2
+blue 6
+black 2
+red 1 black 2 red 1
+red 1 red 2 red 1
+blue 1 red 2 blue 1
+red 2
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 6
+blue 1 blue 1
+blue 2 blue 2
+
+columns
+0
+0
+blue 1
+blue 1 red 1 red 4 blue 1
+blue 1 red 1 red 1 red 1 blue 2
+blue 2 black 2 red 3 red 1
+blue 2 black 2 red 3 red 1
+blue 1 red 1 red 1 red 1 blue 2
+blue 1 red 1 red 4 blue 1
+blue 1
+0
+0
+0
+0
+0

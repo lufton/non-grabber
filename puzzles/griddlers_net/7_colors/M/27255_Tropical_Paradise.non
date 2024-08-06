@@ -1,0 +1,64 @@
+by "1213taffy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/23/05"
+height 20
+id 27255
+link "https://www.griddlers.net/nonogram/-/g/27255"
+medium_time "0:04:49"
+points 854
+popularity 63.23
+title "Tropical Paradise"
+width 20
+
+color a 0000ff
+color b fffe85
+color c 00ff00
+color e 00e1fe
+color f 007300
+color g 8e5d00
+color h ffa200
+
+rows
+e 15 h 5
+e 6 c 2 e 3 f 2 e 3 h 4
+e 6 c 3 e 1 f 3 e 4 h 3
+e 7 c 3 f 2 e 6 h 2
+e 5 f 4 c 1 f 1 c 4 e 4 h 1
+e 4 f 6 c 6 e 4
+e 3 f 3 e 1 c 3 f 3 e 1 c 3 e 3
+f 2 c 3 g 2 f 3 c 2
+c 3 g 2 f 3
+c 2 g 2 f 2
+g 2
+g 2
+b 1 g 2 b 1
+b 3 g 2 b 3
+b 4 g 2 b 4
+b 13
+b 14
+b 15
+b 14
+b 12
+
+columns
+e 7
+e 7
+e 7 b 3
+e 6 f 2 b 5
+e 5 f 3 b 5
+e 4 f 3 c 2 b 6
+e 1 c 2 e 1 f 2 e 1 c 3 b 7
+e 1 c 3 f 2 c 3 b 7
+e 2 c 2 f 2 c 2 b 8
+e 3 c 2 f 1 c 1 g 8 b 5
+e 2 f 3 c 1 f 1 g 8 b 5
+e 1 f 3 c 2 f 2 b 8
+e 1 f 2 e 1 c 2 f 3 b 7
+e 4 c 2 e 1 f 3 b 7
+e 4 c 3 f 2 b 6
+h 1 e 4 c 3 b 4
+h 2 e 4 c 2 b 1
+h 3 e 4
+h 4 e 3
+h 5 e 2

@@ -1,0 +1,80 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/31/12"
+height 29
+id 126025
+link "https://www.griddlers.net/nonogram/-/g/126025"
+medium_time "0:09:59"
+points 13693
+popularity 77.88
+title "Compass"
+width 26
+
+color a acfaac
+color b 9c6d39
+color c efdfc6
+color d 422800
+color e ccccff
+color f ce2008
+color g c5c9a4
+color h c69231
+
+rows
+b 2 c 4
+b 2 c 2 d 4 c 2
+b 2 c 1 e 5 d 3 c 1
+b 2 c 1 e 7 d 3 c 1
+b 2 c 1 e 8 d 3 c 1
+b 2 c 1 e 10 d 2 c 1
+d 1 b 1 c 1 e 10 d 3 c 1
+d 1 b 1 c 1 e 11 d 2 c 1
+d 1 b 1 c 1 e 11 d 2 c 1
+d 1 b 1 c 1 e 11 d 2 c 1
+d 2 c 1 e 11 d 2 c 1
+d 3 c 1 e 9 d 2 c 1
+d 2 c 2 e 8 d 2 c 1
+d 3 c 2 e 5 d 3 c 1
+d 3 c 3 e 1 d 3 c 8
+d 4 c 16
+d 5 c 3 f 1 c 10
+d 1 c 4 f 2 c 10
+c 2 g 1 c 3 f 3 c 8 d 1
+d 1 c 1 g 2 c 4 f 1 h 2 c 7 d 1
+d 1 c 1 g 2 c 5 h 3 c 6 d 1
+d 1 c 1 g 4 c 5 h 2 c 4 b 1 d 1
+d 2 c 1 g 6 c 8 b 1 d 1
+d 3 c 3 g 4 c 5 b 2 d 2
+d 4 c 7 b 5 d 1
+d 11 b 4 d 2
+d 9 b 3 d 3
+d 10
+d 4
+
+columns
+b 1 d 6
+b 7 d 4
+b 3 c 6 d 4
+b 2 c 2 e 6 c 2 d 3
+b 1 c 1 e 9 c 2 d 2
+b 1 c 1 e 11 c 2 d 2
+b 1 c 1 e 12 c 1 d 2
+c 1 d 1 e 12 c 2 d 1 d 5
+c 1 d 1 e 13 c 1 d 2 c 4 d 4
+c 1 d 1 e 12 d 1 c 1 d 1 c 2 g 3 c 1 d 4
+c 1 d 2 e 11 d 1 c 3 g 5 c 1 d 3
+c 1 d 2 e 9 d 2 c 6 g 2 c 1 d 4
+c 1 d 3 e 8 d 1 c 7 g 2 c 2 d 3
+c 1 d 4 e 4 d 3 c 2 f 2 c 4 g 2 c 1 d 3
+c 1 d 9 c 4 f 2 c 3 g 2 c 1 d 4
+c 2 d 5 c 2 c 4 f 2 c 2 g 2 c 1 d 4
+c 5 c 4 f 1 h 2 c 2 g 1 c 1 d 4
+c 5 h 2 c 4 d 4
+c 6 h 2 c 3 d 1 b 1 d 1
+c 7 h 1 c 2 b 3 d 1
+c 9 b 3 d 1
+c 9 b 2 d 1
+c 8 b 3 d 1
+c 7 b 2 d 2
+c 4 b 2 d 3
+d 6

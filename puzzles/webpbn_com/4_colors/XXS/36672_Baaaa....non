@@ -1,0 +1,32 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr  9, 2023"
+description "Sheep in shades"
+difficulty 1.0
+height 5
+id 36672
+link "https://webpbn.com/play.cgi?id=36672"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Baaaa..."
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1
+blue 3
+blue 1 black 1 blue 1 black 1 blue 1
+blue 1 red 1 blue 1
+blue 1
+
+columns
+blue 1
+blue 1 black 1 blue 1
+blue 3 red 1 blue 1
+blue 1 black 1 blue 1
+blue 1

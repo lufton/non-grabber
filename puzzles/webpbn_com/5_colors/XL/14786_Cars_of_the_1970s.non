@@ -1,0 +1,98 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Jun 20, 2011"
+description "A 1970 Plymouth Superbird parked at a McDonalds in Downey, California.One of the few remaining original surviving examples of the franchise,this one has been intact since 1953."
+difficulty 2.25
+height 35
+id 14786
+link "https://webpbn.com/play.cgi?id=14786"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Cars of the 1970's"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 5 red 5
+red 7 red 7
+red 4 red 4 red 4 red 4
+red 4 red 4 red 4 red 4
+blue 39
+blue 39
+blue 2 red 1 blue 1 black 5 black 3 blue 16
+blue 2 red 2 blue 1 black 4 black 1 blue 15 red 1
+blue 1 red 2 blue 1 blue 3 red 1 red 4
+red 3 blue 19 red 1 black 1 black 2 red 3
+red 4 blue 1 black 1 black 1 red 4 blue 1 black 1 black 4 red 2
+red 5 blue 2 black 2 black 2 red 5 blue 1 black 2 black 4 red 2
+red 4 blue 13 red 4 blue 13 red 2
+red 4 blue 11 red 4 blue 10 red 2
+red 4 blue 9 red 4 blue 9 red 2
+blue 2 red 4 blue 14 red 4 blue 14 red 2
+red 4 blue 1 red 4 blue 1 red 2
+blue 40
+0
+black 17
+green 10 black 20
+green 2 green 2 black 3 black 5 black 2
+green 2 black 1 green 2 black 1 black 3 black 5 green 6 black 1 green 1 black 1 green 6
+green 2 black 2 green 3 black 1 black 1 black 5 green 1 black 5 green 1 black 1 green 2 black 1 green 5
+green 2 black 4 green 3 black 20 green 5
+green 2 green 34
+green 34 black 2 green 2
+green 34 black 1 black 1 green 1
+green 1 blue 14 green 20 black 1 black 1
+blue 1 green 14 blue 1 green 5 black 2 green 10 black 3 black 2
+blue 1 red 4 green 5 red 4 green 1 blue 1 green 3 black 2 black 2 green 6 black 5
+blue 1 red 4 green 5 red 4 blue 2 green 3 black 1 black 1 green 3
+blue 4 green 2 blue 3 green 2 blue 4 green 4 black 1 black 1
+blue 1 red 1 blue 9 red 1 blue 2 green 2 black 4 black 2
+black 5 black 7
+
+columns
+blue 1 blue 1 green 2 green 1 blue 4
+blue 2 blue 1 blue 1 green 5 green 1 blue 1 green 1 red 2 blue 2
+blue 3 red 3 blue 1 green 1 green 5 blue 1 green 1 red 2 blue 1 red 1
+blue 4 red 6 blue 1 green 1 green 3 blue 1 green 1 red 2 blue 2
+blue 2 blue 2 red 8 blue 1 green 1 green 2 blue 1 green 1 red 2 green 1 blue 1 black 1
+blue 2 red 10 blue 1 green 1 green 2 blue 1 green 4 blue 1 black 1
+blue 2 red 8 blue 1 blue 1 green 1 green 3 blue 1 green 3 blue 2 black 1
+blue 6 red 2 blue 3 green 1 green 3 blue 1 green 3 blue 2 black 1
+red 1 blue 2 black 2 blue 4 blue 1 blue 1 green 1 black 1 green 3 blue 1 green 3 blue 2 black 1
+red 2 blue 2 black 2 blue 1 blue 2 blue 1 blue 1 green 1 black 2 green 3 blue 1 green 4 blue 1
+red 3 blue 2 black 2 blue 1 blue 2 blue 1 blue 1 green 2 black 3 green 3 blue 1 green 1 red 2 green 1 blue 1
+red 4 blue 2 black 2 blue 1 black 2 blue 4 blue 1 green 3 black 1 green 3 blue 1 green 1 red 2 blue 2
+red 3 blue 2 black 1 blue 1 black 1 blue 4 blue 1 black 2 green 6 blue 1 green 1 red 2 blue 1 red 1
+red 2 blue 2 blue 1 blue 4 blue 1 black 3 green 5 blue 1 green 1 red 2 blue 2
+red 3 blue 2 blue 1 blue 4 blue 1 black 3 green 4 blue 1 green 2 blue 3
+red 4 blue 2 blue 1 blue 4 blue 1 black 2 black 3 green 4 blue 3 green 2
+red 3 blue 2 blue 1 black 1 blue 4 blue 1 black 2 black 1 black 1 green 9 black 1
+red 2 blue 2 blue 1 black 2 blue 4 blue 1 black 2 black 3 green 8 black 2
+red 1 blue 2 blue 1 blue 4 blue 1 black 2 black 1 green 8 black 2
+blue 2 black 1 blue 1 blue 4 blue 1 black 2 black 2 green 5 black 5
+blue 2 black 2 blue 1 blue 2 red 3 blue 1 black 2 black 3 green 5 black 1 black 2
+blue 2 black 1 blue 1 red 6 blue 1 black 6 green 4 black 1 black 1
+blue 2 blue 1 red 7 blue 1 black 6 green 4 black 2 black 2
+blue 2 blue 1 red 7 blue 1 black 6 green 5 black 4
+blue 6 red 4 blue 1 blue 1 black 4 green 1 black 1 green 7
+blue 6 red 2 blue 1 blue 1 blue 1 black 3 green 1 black 2 green 7
+red 1 blue 5 red 1 blue 4 blue 1 blue 1 black 2 green 1 black 2 green 7
+red 2 blue 4 red 1 blue 4 blue 1 black 2 green 1 black 2 green 6
+red 3 blue 4 blue 4 blue 1 black 2 green 1 black 2 green 6
+red 4 blue 4 black 3 blue 4 blue 1 black 2 green 1 black 2 green 6
+red 3 blue 4 black 1 blue 4 blue 1 black 2 green 2 black 1 green 5
+red 2 blue 4 blue 4 blue 1 black 5 green 5
+red 3 blue 4 blue 4 blue 1 black 1 green 2 black 1 green 5
+red 4 blue 4 black 2 blue 4 blue 1 black 1 green 1 black 1 green 4 black 2
+red 3 blue 4 black 3 blue 6 green 1 black 2 green 4 black 2
+red 2 blue 4 black 3 blue 4 blue 1 green 5 black 4
+red 1 blue 4 red 1 black 2 blue 1 blue 1 blue 1 green 4 black 1 black 1
+blue 4 red 2 blue 1 blue 1 blue 1 green 4 black 1 black 2
+blue 4 red 9 blue 1 green 5 black 3
+blue 3 red 10 blue 1 green 6

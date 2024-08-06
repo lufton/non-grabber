@@ -1,0 +1,37 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Jan 24, 2010"
+description "A very tiny elephant. [ My first tiny puzzle ... did it work? ]"
+difficulty 1.25
+height 10
+id 7665
+link "https://webpbn.com/play.cgi?id=7665"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Blind man's rope"
+width 10
+
+rows
+4
+6
+7
+4,3
+8
+8
+8
+5,3
+5,3
+6,2
+
+columns
+8
+9
+10
+10
+3,6
+7,1
+7
+6
+3
+2

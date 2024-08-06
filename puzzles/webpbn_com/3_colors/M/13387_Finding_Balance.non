@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr 15, 2011"
+description "OK Adam. How many of these have been done at this site?"
+difficulty 1.5
+height 20
+id 13387
+link "https://webpbn.com/play.cgi?id=13387"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Finding Balance"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 20
+red 8 red 8
+red 5 black 5 red 5
+red 4 black 7 red 4
+red 3 black 9 red 3
+red 2 black 4 black 4 red 2
+red 2 black 4 black 4 red 2
+red 2 black 9 red 2
+red 1 black 10 red 1
+red 1 black 9 red 1
+red 1 black 8 red 1
+red 1 black 8 red 1
+red 2 black 7 red 2
+red 2 black 6 black 2 red 2
+red 2 black 6 black 2 red 2
+red 3 black 5 red 3
+red 4 black 5 red 4
+red 5 black 5 red 5
+red 8 black 4 red 8
+red 20
+
+columns
+red 20
+red 8 black 4 red 8
+red 5 black 10 red 5
+red 4 black 12 red 4
+red 3 black 14 red 3
+red 2 black 16 red 2
+red 2 black 3 black 11 red 2
+red 2 black 3 black 11 red 2
+red 1 black 11 black 3 red 1
+red 1 black 8 black 2 red 1
+red 1 black 6 black 1 red 1
+red 1 black 3 black 1 red 1
+red 2 black 2 red 2
+red 2 black 2 red 2
+red 2 red 2
+red 3 red 3
+red 4 red 4
+red 5 red 5
+red 8 red 8
+red 20

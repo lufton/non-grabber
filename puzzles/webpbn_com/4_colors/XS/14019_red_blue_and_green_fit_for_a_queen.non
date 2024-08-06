@@ -1,0 +1,42 @@
+by "Maggie Johns (Magginni)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Maggie Johns"
+date "May 20, 2011"
+description "looks like a red diamond!"
+difficulty 1.25
+height 10
+id 14019
+link "https://webpbn.com/play.cgi?id=14019"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "red blue and green, fit for a queen!!!"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 6
+black 1 green 4 black 2
+black 1 green 1 blue 2 green 2 black 2
+black 1 green 1 blue 3 green 2 black 1
+black 1 green 2 blue 3 green 1 black 1
+black 2 green 2 blue 2 green 1 black 1
+black 2 green 4 black 1
+black 6
+0
+
+columns
+0
+black 6
+black 1 green 4 black 2
+black 1 green 1 blue 2 green 2 black 2
+black 1 green 1 blue 3 green 2 black 1
+black 1 green 2 blue 3 green 1 black 1
+black 2 green 2 blue 2 green 1 black 1
+black 2 green 4 black 1
+black 6
+0

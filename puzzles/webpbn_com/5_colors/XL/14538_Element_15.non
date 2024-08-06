@@ -1,0 +1,103 @@
+by "Joshua Ghofrani (josh18)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joshua Ghofrani"
+date "Jun 14, 2011"
+description "Element 15 is phosphorus. This picture shows some images that might come to mind when you think of my element: a bone,a set of teeth, some matches,a strand of DNA, a phosphor, fireworks,and toothpaste. Most of the phosphorus in our bodies is in our bones, including our teeth. The fireworks use phosphorus as a fuel.When you strike one of those safety matches, the heat from friction transforms some red phosphorus to white phosphorus. And that DNA has a sugar phosphate backbone (the green dot is the Helicase unwinding the strand) The phosphor tubes on the left will continue to emit light after the source is taken away; they are phosphorescent. And toothpastes often have phosphorus to support our enamels."
+difficulty 3.0
+height 40
+id 14538
+link "https://webpbn.com/play.cgi?id=14538"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Element 15"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 black 1 green 1 black 3 green 1 black 2 blue 1 black 2 red 1 black 1 green 1 black 8 blue 4
+black 1 black 2 green 1 black 1 green 1 black 5 blue 1 black 3 green 1 black 3 green 1 black 6 blue 1
+black 3 black 3 green 1 black 6 red 1 blue 2 black 2 green 1 black 1 green 1 black 5 blue 1 black 1 blue 1
+black 1 blue 1 black 1 black 3 black 1 green 1 black 1 green 1 black 4 red 1 black 1 blue 2 red 1 black 2 green 1 black 5 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 5 green 1 black 3 green 1 black 4 blue 1 black 2 blue 1 black 1 green 1 black 1 green 1 black 1 blue 1 black 3 blue 1 black 1 blue 1
+black 1 blue 1 black 1 black 1 black 2 black 1 blue 1 black 5 blue 1 black 4 green 1 black 3 green 1 black 1 blue 1 black 1 blue 1 black 3
+black 1 blue 1 black 1 black 1 black 2 blue 3 black 6 red 1 black 3 red 1 black 3 red 1 black 1 blue 1 black 4
+black 1 blue 1 black 1 black 2 black 1 blue 1 black 3 red 1 black 4 red 1 black 1 red 1 black 3 red 1 black 1 blue 1 black 1 blue 1 black 3
+black 1 blue 1 black 1 black 3 black 4 red 3 black 4 red 1 black 5 blue 1 black 3 blue 1 black 2
+black 3 black 2 black 5 black 3 red 1 black 4 red 1 black 1 red 1 black 3 blue 1 black 5 blue 1 black 1
+black 1 black 3 black 3 black 7 red 1 black 3 red 1 black 9 blue 1
+black 3 black 3 black 3 blue 10 black 5 red 1 blue 1 black 8
+black 4 black 3 blue 11
+black 5 black 3 blue 2 green 7 blue 2
+black 3 black 3 blue 2 green 7 blue 2 black 2
+black 1 black 3 blue 2 green 8 blue 2 black 4
+black 1 black 2 blue 2 green 8 blue 2 black 6
+black 3 black 2 blue 2 green 8 blue 2 black 3 blue 1 red 2 black 3
+black 5 blue 2 green 8 blue 2 black 3 red 1 green 2 red 1 blue 1 black 2
+black 3 blue 2 green 7 blue 3 black 4 green 1 red 2 green 1 red 1 black 3
+black 2 blue 10 black 4 blue 1 red 2 blue 1 red 2 black 3
+black 1 blue 9 black 3 red 3 green 1 red 1 blue 1 red 1 black 3
+black 3 blue 3 black 2 green 1 red 1 green 1 blue 1 red 2 black 3
+black 1 blue 1 black 1 blue 3 black 2 red 1 blue 1 red 3 green 1 black 3
+black 1 blue 1 black 1 blue 3 black 2 green 1 red 1 blue 1 black 4
+black 1 blue 1 black 1 blue 3 black 8
+black 1 blue 1 black 1 blue 3 black 5 black 3
+black 1 blue 1 black 1 blue 3 black 1 red 1 black 3
+black 1 blue 1 black 1 blue 3 black 1 black 1 black 1 blue 1 blue 1 black 3
+black 1 blue 1 black 1 red 1 red 1 blue 3 black 3 black 2 red 1 blue 1 black 3
+black 1 blue 1 black 1 red 1 black 1 black 1 blue 2 black 3 red 1 red 1 black 3
+black 1 blue 1 black 1 black 1 black 1 black 1 red 1 blue 1 black 1 black 1 black 3 blue 1 red 1 black 3
+black 1 blue 1 black 1 red 1 black 2 black 2 black 1 black 1 black 3 blue 1 red 1 black 4
+black 1 blue 1 black 1 black 1 black 1 black 1 black 3 blue 1 blue 1 black 3
+black 1 blue 1 black 1 black 1 black 1 black 1 red 15 black 3 red 1 blue 1 black 2
+black 1 blue 1 black 1 black 6 red 15 black 3 red 1 blue 1
+black 1 blue 1 black 1 black 6 red 2 red 3 black 3 red 1
+black 3 black 6 red 3 red 2 black 2 green 1
+black 1 black 6 red 3 red 3 black 1
+black 2 black 6 red 11 black 1
+
+columns
+black 1 black 1 black 5 black 1 black 16 black 1
+black 1 black 8 black 1 black 2 black 1 black 3 blue 14 black 3
+black 3 blue 6 black 6 black 3 black 16
+black 8 black 2 black 2
+black 3 black 2 red 1 red 1
+black 3 black 1 black 1 black 1 black 5
+black 2 black 4 black 1 black 6
+black 3 black 4 red 1 black 4 black 5
+black 3 black 3 black 6
+black 5 black 3 red 1 black 4 black 5
+black 2 black 3 black 1 black 6
+black 2 black 3 red 1
+black 2 black 3
+black 2 black 2
+black 3 black 2 black 1 blue 20 red 4
+green 1 black 3 green 1 black 1 black 1 blue 20 red 5
+black 1 green 1 black 1 green 1 black 2 blue 1 black 3 blue 2 green 7 blue 10 red 2 red 3
+black 2 green 1 black 2 blue 3 black 1 blue 2 green 7 blue 2 red 2 red 2
+black 1 green 1 black 1 green 1 black 2 blue 1 black 4 blue 2 green 7 blue 2 red 2 red 1
+green 1 black 3 green 1 black 6 blue 2 green 7 blue 2 black 2 red 2 red 1
+black 8 red 1 black 2 blue 2 green 7 blue 2 red 2 red 1
+black 7 red 3 black 1 blue 2 green 7 blue 2 black 2 red 2 red 1
+blue 1 black 7 red 1 black 2 blue 2 green 7 blue 2 black 1 black 1 red 2 red 1
+black 3 red 1 black 1 blue 1 black 5 blue 4 green 4 blue 2 black 2 black 2 red 2 red 1
+black 1 blue 1 red 1 black 1 blue 1 black 6 blue 9 black 4 black 2 red 2 red 1
+red 1 black 1 blue 2 black 2 red 1 black 3 red 1 black 1 blue 5 black 6 red 2 red 2
+black 2 blue 2 black 3 red 1 black 1 red 1 black 2 black 3 red 1 green 1 black 2 red 6
+green 1 black 2 red 1 blue 1 black 3 red 1 black 3 black 2 green 1 blue 1 red 1 black 2 red 5
+black 1 green 1 black 3 green 1 black 1 red 1 black 1 red 1 black 2 black 2 red 3 blue 1 black 1 black 3 red 3
+black 2 green 1 black 1 green 1 black 1 red 1 black 3 red 1 black 1 black 2 red 1 green 1 red 1 black 2 blue 1 black 3
+black 3 green 1 black 7 red 1 black 2 blue 1 red 1 blue 1 red 1 black 3 red 1 red 1 black 3
+black 2 green 1 black 1 green 1 black 6 blue 1 black 3 red 1 green 1 red 1 green 1 black 1 black 2 blue 1 red 1 black 3
+black 1 green 1 black 3 green 1 black 1 red 1 black 1 blue 1 black 2 black 3 green 1 red 3 black 2 black 3 blue 1 blue 1 black 3
+black 4 blue 1 black 1 red 1 black 1 blue 1 black 3 black 3 red 2 blue 2 black 2 black 3 red 1 blue 1 black 3
+black 5 blue 1 black 1 blue 1 black 4 black 3 blue 1 green 1 red 3 black 2 black 3 red 1 blue 1 black 3
+black 6 blue 1 black 5 black 3 red 1 green 2 red 1 black 2 black 3 red 1 red 1 black 3
+blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 4 black 2 red 3 black 2 black 3 blue 1 red 1 black 4
+blue 1 black 1 blue 1 black 1 blue 1 black 3 blue 1 black 3 black 2 blue 1 black 3 black 3 blue 1 red 1
+blue 1 black 2 blue 1 black 5 blue 1 black 2 black 4 black 3 blue 1
+blue 3 black 1 blue 1 black 5 blue 1 black 1 black 3 black 3 green 1

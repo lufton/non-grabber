@@ -1,0 +1,62 @@
+by "destan (destan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by destan"
+date "Jul 14, 2022"
+description "An impossible triangle, also known as a Penrose triangle, cannot be constructed in three-dimensional space without curving the material."
+difficulty 1.25
+height 20
+id 35835
+link "https://webpbn.com/play.cgi?id=35835"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A Rose By Any Other Name"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 4
+black 5 blue 1
+black 5 blue 3
+black 4 blue 4
+black 5 blue 5
+black 4 blue 6
+black 5 blue 7
+black 4 blue 3 green 1 blue 4
+black 5 blue 3 green 1 blue 5
+black 4 blue 3 green 3 blue 4
+black 5 blue 3 green 3 blue 5
+black 4 blue 3 green 3 blue 4
+black 5 blue 3 green 3 blue 5
+black 11 green 3 blue 4
+black 12 green 3 blue 5
+black 13 green 3 blue 4
+green 16 blue 4
+green 17 blue 3
+green 18
+
+columns
+black 2 green 2
+black 4 green 3
+black 6 green 3
+black 8 green 3
+black 10 green 3
+black 12 green 3
+black 9 blue 2 black 3 green 3
+black 8 blue 4 black 3 green 3
+black 7 blue 6 black 3 green 3
+black 5 blue 6 black 3 green 3
+black 3 blue 6 green 2 black 3 green 3
+black 2 blue 5 green 6 black 3 green 3
+blue 8 green 6 black 1 green 3
+blue 9 green 8
+blue 9 green 6
+blue 9 green 4
+blue 9 green 2
+blue 8 green 1
+blue 6 green 1
+blue 4

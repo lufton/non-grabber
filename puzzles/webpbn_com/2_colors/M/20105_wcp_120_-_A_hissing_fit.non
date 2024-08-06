@@ -1,0 +1,57 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Dave Oas"
+date "Oct 18, 2012"
+description "Poor Frank can't keep Shadow off the gravestone."
+difficulty 2.0
+height 20
+id 20105
+link "https://webpbn.com/play.cgi?id=20105"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "wcp #120 - A hissing fit"
+width 20
+
+rows
+8
+2,1
+2,1,1
+2,3,1
+4,1,1,2
+3,1,3,1
+3,2,2,1,3,1
+2,1,8,1
+1,3,11
+2,1,3,3
+1,2,2,2
+1,1,1,2,2
+1,1,2,2
+7,8
+1,3,9
+2,2,1,2
+4,2,1,1
+4,2,1,2,1,2,1
+4,2,1,2,1,2,1
+4,2,1,2,1,1,1
+
+columns
+10,2
+8,5,4
+1,3,1,5
+1,1,1,1,5
+1,1,1,4
+1,1,1,5
+1,2,5,7
+4,2,6
+0
+1,1,4
+4,1
+1,2,3,3
+11,3
+5,2
+4,2,3
+3,2
+4,3,3
+8,2
+3,4,3
+5,6

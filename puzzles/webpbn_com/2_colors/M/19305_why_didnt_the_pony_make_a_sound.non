@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Jul 14, 2012"
+description "because he was a little hoarse(horse)..."
+difficulty 2.0
+height 20
+id 19305
+link "https://webpbn.com/play.cgi?id=19305"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "why didn't the pony make a sound?"
+width 20
+
+rows
+1,1
+1,4
+9
+3,2,1
+2,4
+3,5
+1,3,1,5
+9,9
+4,4,2
+2,6
+1,3,7
+1,5,3,1
+1,7,4,1
+2,7,4,1
+7,5,1,1
+1,2,1,1,1
+1,1,2,1,1,1
+1,1,1,1,1,1
+3,4,2,3
+3,3,3,2
+
+columns
+4
+7,5
+2,2,2
+2,1,4
+1,2,2
+1,7
+1,5,3
+3,6,2
+5,4,4
+5,2,2
+3,1,3
+1,4,2
+1,1,5,1
+2,6,1
+6,8,2
+7,5,1,3
+2,5,1,2,1,1
+7,1,2,2
+3,1,1,2
+2,3,1,2

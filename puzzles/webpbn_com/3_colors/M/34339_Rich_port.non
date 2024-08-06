@@ -1,0 +1,71 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Kristen Vognild"
+date "Jul 22, 2020"
+description "I wanted to make a more interesting version of a rather boring flag :)"
+difficulty 1.75
+height 20
+id 34339
+link "https://webpbn.com/play.cgi?id=34339"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Rich port"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5 black 1
+black 13 black 2
+black 9 black 4
+blue 2 black 3 black 5
+blue 4 black 7
+blue 2 blue 2 black 8 blue 1
+blue 1 blue 2 black 16 blue 1
+blue 3 blue 1 blue 3 black 13 blue 2
+blue 2 blue 6 black 12 blue 2
+blue 1 blue 1 blue 3 black 3 black 5 black 1 blue 1
+blue 1 blue 3 black 1 blue 1
+blue 5 black 2
+blue 5 black 3 black 4
+blue 2 black 7 black 6
+blue 1 black 2 black 11 black 7
+black 8 black 13
+black 5 black 9
+black 3 black 4
+black 1
+0
+
+columns
+black 1 blue 12 black 4
+black 1 blue 3 blue 2 blue 3 black 3
+black 3 blue 1 blue 1 blue 4 black 4
+black 3 blue 2 blue 1 blue 3 black 3
+black 3 blue 1 blue 6 black 2
+black 2 blue 1 blue 2 black 2
+black 2 blue 4 black 3
+black 2 black 1 blue 2 black 1 black 4
+black 2 black 1 blue 2 black 1 black 3
+black 1 black 4 black 3
+black 1 black 3 black 2
+black 1 black 3 black 2
+black 2 black 3 black 3
+black 2 black 3 black 2
+black 2 black 4 black 3
+black 1 black 4 black 3
+black 1 black 5 black 3
+black 6 black 3
+black 7 black 3
+black 7 black 4
+black 8 black 3
+black 8 black 4
+black 5 black 4
+black 2 black 4
+blue 4 black 7
+blue 4 black 4
+black 2
+0
+0
+0

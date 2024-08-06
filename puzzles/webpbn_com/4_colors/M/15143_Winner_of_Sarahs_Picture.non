@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jul 11, 2011"
+description "Annalivia! The picture is of Falling Water, one of Frank Lloyd Wright's houses. Thanks, everyone, for participating and making great puzzles."
+difficulty 1.25
+height 20
+id 15143
+link "https://webpbn.com/play.cgi?id=15143"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Winner of Sarah's Picture"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 3 black 2 black 1 black 2 black 1 black 3
+black 1 black 1 black 2 black 1 black 2 black 1 black 1 black 1
+black 3 black 1 black 2 black 1 black 2 black 3
+black 1 black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+0
+0
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 3 green 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 green 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 3 green 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 green 1
+0
+0
+0
+0
+0
+
+columns
+0
+0
+black 5 blue 5
+black 1 black 1 blue 1
+black 5 blue 1
+0
+black 5 blue 5
+black 2
+black 2 blue 4
+black 5 blue 1
+blue 4
+black 5
+black 2 blue 5
+black 2
+black 5 blue 5
+blue 1 blue 1
+black 5 blue 5
+black 1 black 1
+black 5 green 3 green 1
+0

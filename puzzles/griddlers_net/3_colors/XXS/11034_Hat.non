@@ -1,0 +1,30 @@
+by "sewcio"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/5/04"
+height 5
+id 11034
+link "https://www.griddlers.net/nonogram/-/g/11034"
+medium_time "0:00:11"
+points 2
+popularity 39.05
+title "Hat"
+width 5
+
+color a ffffff
+color b 940000
+color h ffcd00
+
+rows
+b 3
+b 5
+h 3
+h 3
+h 1
+
+columns
+b 1
+b 2 h 2
+b 2 h 3
+b 2 h 2
+b 1

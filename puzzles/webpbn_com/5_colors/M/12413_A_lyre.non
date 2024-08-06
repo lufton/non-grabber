@@ -1,0 +1,63 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Feb 25, 2011"
+description "Okay, okay. It should have been "liar", but then that would hav ebeen too easy."
+difficulty 3.25
+height 20
+id 12413
+link "https://webpbn.com/play.cgi?id=12413"
+note "published,definitely unique,may require some guessing"
+quality 2.5
+title "A lyre"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 10
+green 11
+green 7
+black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 blue 1 black 1 black 1 blue 1 black 1 black 1
+0
+black 12
+black 1 black 1 black 1
+black 12
+0
+red 3 black 1
+red 1 red 1 black 1
+red 1 black 3 red 1 black 2
+red 3 black 2
+black 1
+black 2
+black 3
+0
+
+columns
+green 2
+green 2 black 2
+green 2 black 1 blue 1
+green 2 black 2 red 2
+green 2 black 1 red 1 black 1 red 1
+green 3 black 1 black 1 red 1 black 1 red 1 black 1
+green 3 black 3 red 1 black 1 red 1 black 1
+green 3 black 2 black 1 black 1 red 2 black 1
+green 3 black 1 blue 1 black 1 black 1 black 1
+green 3 black 2 black 1 black 1 black 3
+green 2 black 1 black 1 black 1 black 2
+green 1 black 3 black 1 black 1 black 3
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1
+0
+0

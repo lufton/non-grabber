@@ -1,0 +1,104 @@
+by "tomtal"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/17/09"
+height 42
+id 79537
+link "https://www.griddlers.net/nonogram/-/g/79537"
+medium_time "0:14:20"
+points 6420
+popularity 62.07
+title "House"
+width 38
+
+color a e3e2e2
+color b 999999
+color d 990033
+color e 660000
+color f 663300
+color g 854404
+color h b6dbff
+
+rows
+e 6
+e 10
+e 14
+e 18
+d 1 e 22
+d 3 e 22
+d 5 e 22
+d 7 e 22
+d 9 e 22
+d 11 e 22
+d 13 e 18 b 3
+d 15 e 15 b 5
+d 17 e 11 b 8
+d 19 e 7 b 11
+d 21 e 3 b 14
+b 10 b 3
+b 7 d 3 b 3
+b 4 d 1 d 4 b 3
+f 1 g 2 f 2 b 3 d 4 d 4 b 3
+g 1 f 2 g 2 f 2 g 2 b 3 d 4 d 4 b 3
+f 1 g 2 f 2 g 2 f 2 g 2 f 2 b 3 d 4 h 1 d 3 b 3
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 g 1 b 3 d 3 h 1 h 1 d 3 b 3
+f 2 g 2 f 1 b 5 g 2 f 2 g 1 b 3 d 3 h 1 h 1 d 3 b 3
+f 2 g 2 f 1 b 1 h 3 b 1 g 2 f 2 g 1 b 3 d 3 h 1 h 1 b 3
+f 2 g 2 f 1 b 1 h 3 b 1 g 2 f 2 g 1 b 3 d 3 b 7
+f 2 g 2 f 1 b 1 h 3 b 1 g 2 f 2 b 2 b 3 b 10
+f 2 g 2 f 1 b 1 h 3 b 1 g 2 f 2 b 2 b 17
+f 2 g 2 f 1 b 1 h 3 b 1 g 2 f 2 b 2 b 17
+f 2 g 2 f 1 b 5 g 2 f 2 b 2 b 17
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 g 1 b 17
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 g 1 b 17
+f 1 b 1 g 2 b 1 f 1 g 2 f 2 g 2 f 2 g 1 b 17
+f 1 b 1 g 2 b 1 f 1 g 2 f 2 g 2 f 2 g 1 b 17
+f 2 b 2 f 2 g 2 f 2 g 2 f 2 g 1 b 17
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 g 1 b 17
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 g 1 b 17
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 b 2 b 17
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 b 2 b 15
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 b 2 b 12
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 b 2 b 9
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 g 1 b 6
+f 2 g 2 f 2 g 2 f 2 g 2 f 2 g 1 b 3
+
+columns
+d 1
+d 2
+d 3
+d 4 f 21
+d 5 f 11 b 2 f 9
+d 6 g 13 b 1 g 8
+d 7 g 14 b 1 g 8
+d 8 f 12 b 2 f 9
+d 9 f 4 b 7 f 13
+d 10 g 4 b 1 h 5 b 1 g 13
+d 11 g 4 b 1 h 5 b 1 g 13
+e 1 d 10 f 4 b 1 h 5 b 1 f 13
+e 2 d 9 f 4 b 7 f 13
+e 3 d 8 g 23
+e 5 d 7 g 23
+e 6 d 6 f 22
+e 7 d 5 f 22
+e 9 d 4 g 4 b 4 g 7 b 4 g 2
+e 10 d 3 b 4 b 4
+e 11 d 2
+e 13 d 1
+e 14 b 27
+e 14 b 27
+e 15 b 27
+e 14 b 4 b 15
+e 14 b 3 d 7 b 15
+e 14 b 3 d 7 b 15
+e 13 b 4 d 7 b 14
+e 13 b 3 d 4 h 3 b 15
+e 12 b 3 b 15
+e 10 b 4 d 3 h 4 b 14
+e 9 b 3 d 7 b 15
+e 8 b 3 d 7 b 15
+e 6 b 4 d 7 b 14
+e 5 b 4 b 14
+e 3 b 28
+e 2 b 27
+e 1 b 27

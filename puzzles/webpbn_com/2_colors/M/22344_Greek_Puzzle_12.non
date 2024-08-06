@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jul  7, 2013"
+description "First rule: Don't talk about it."
+difficulty 1.5
+height 20
+id 22344
+link "https://webpbn.com/play.cgi?id=22344"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Greek Puzzle 12"
+width 20
+
+rows
+1
+1
+1,1
+5,1
+1,1,1,5
+2,1,2,1,1
+1,1,1,3,1
+1,1,1,1,1
+2,1,2,1
+1,1,1,1
+5
+1
+1
+0
+8
+2,13
+19
+19
+2,13
+8
+
+columns
+4
+3,3,4
+1,1,4
+13,2
+1,1,2
+3,3,2
+4,4
+4
+4
+4
+1,6
+3,6
+1,6
+6
+1,6
+1,6
+8,6
+1,6
+1,4
+2

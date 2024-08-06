@@ -1,0 +1,62 @@
+by "stella snajdar (stellas)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by stella snajdar"
+date "Mar  2, 2011"
+description "venice"
+difficulty 1.5
+height 20
+id 12502
+link "https://webpbn.com/play.cgi?id=12502"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "my trip to"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+red 2 black 4
+red 2 black 5
+red 2 black 2
+red 2 black 4
+red 2 black 2
+red 2 black 4
+red 2 black 2
+red 2 black 4
+red 2 black 2
+black 15
+black 14
+black 13 blue 7
+black 12 blue 8
+black 11 blue 9
+black 10 blue 10
+blue 20
+blue 20
+blue 20
+blue 20
+
+columns
+black 6 blue 4
+black 6 blue 4
+red 1 red 1 red 1 red 1 red 1 black 6 blue 4
+red 1 red 1 red 1 red 1 red 1 black 6 blue 4
+black 6 blue 4
+black 6 blue 4
+red 1 red 1 red 1 red 1 black 6 blue 4
+red 1 red 1 red 1 red 1 black 6 blue 4
+black 6 blue 4
+black 6 blue 4
+black 5 blue 5
+black 4 blue 6
+black 11 blue 7
+black 11 blue 8
+black 2 black 1 black 1 black 1 black 1 blue 8
+black 2 black 1 black 1 black 1 blue 8
+black 2 blue 8
+blue 8
+blue 8
+blue 8

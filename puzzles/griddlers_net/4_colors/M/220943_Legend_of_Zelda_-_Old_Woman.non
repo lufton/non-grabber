@@ -1,0 +1,53 @@
+by "gramblar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/10/21"
+height 16
+id 220943
+link "https://www.griddlers.net/nonogram/-/g/220943"
+medium_time "0:03:17"
+points 1024
+popularity 72.4
+title "Legend of Zelda - Old Woman"
+width 16
+
+color a 999999
+color b ffffff
+color c cc0000
+color d ff9933
+
+rows
+c 6
+c 2 b 4 c 2
+c 2 b 6 c 2
+c 1 b 2 d 4 b 2 c 1
+c 1 b 1 d 1 d 2 d 1 b 1 c 1
+c 1 b 1 d 6 b 1 c 1
+c 2 b 1 d 1 d 2 d 1 b 1 c 2
+c 2 b 1 c 1 d 1 d 1 c 1 b 1 c 2
+c 3 b 1 c 2 d 2 c 2 b 1 c 3
+c 1 d 1 c 1 b 1 c 2 d 2 c 2 b 1 c 1 d 1 c 1
+c 1 d 1 c 10 d 1 c 1
+c 1 c 4 b 2 c 4 c 1
+c 1 c 1 c 2 b 2 c 2 c 1 c 1
+c 2 c 8 c 2
+c 1 c 8 c 1
+c 1 d 3 c 2 d 3 c 1
+
+columns
+0
+c 6
+c 3 d 2 c 3
+c 11
+c 2 b 7 c 2 c 2 d 1
+c 2 b 2 d 3 c 8 d 1
+c 1 b 2 d 1 d 1 d 1 c 7 d 1
+c 1 b 2 d 4 d 2 c 1 b 2 c 3
+c 1 b 2 d 4 d 2 c 1 b 2 c 3
+c 1 b 2 d 1 d 1 d 1 c 7 d 1
+c 2 b 2 d 3 c 8 d 1
+c 2 b 7 c 2 c 2 d 1
+c 11
+c 3 d 2 c 3
+c 6
+0

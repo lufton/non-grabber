@@ -1,0 +1,67 @@
+by "Piglet (piglet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Piglet"
+date "Mar 26, 2008"
+description "Allied States of America flag, from the series Jericho"
+difficulty 1.25
+height 20
+id 2550
+link "https://webpbn.com/play.cgi?id=2550"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Jericho"
+width 26
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2 black 2 black 1 blue 11
+black 2 black 2 black 2 black 1 blue 11
+black 2 black 2 black 2 black 1 blue 4 blue 1 blue 4
+black 2 black 2 black 2 black 1 blue 3 blue 1 blue 1 blue 3
+black 2 black 2 black 2 black 1 blue 2 blue 1 blue 1 blue 1 blue 2
+black 2 black 2 black 2 black 1 blue 3 blue 1 blue 1 blue 3
+black 2 black 2 black 2 black 1 blue 2 blue 1 blue 1 blue 1 blue 2
+black 2 black 2 black 2 black 1 blue 3 blue 1 blue 1 blue 3
+black 2 black 2 black 2 black 1 blue 4 blue 1 blue 4
+black 2 black 2 black 2 black 1 blue 11
+black 2 black 2 black 2 black 1 blue 11
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2
+
+columns
+0
+0
+black 20
+black 20
+0
+0
+black 20
+black 20
+0
+0
+black 20
+black 20
+0
+0
+black 20
+blue 11 black 9
+blue 11
+blue 4 blue 1 blue 4
+blue 3 blue 1 blue 1 blue 3 black 9
+blue 2 blue 1 blue 1 blue 1 blue 2 black 9
+blue 3 blue 1 blue 1 blue 3
+blue 2 blue 1 blue 1 blue 1 blue 2
+blue 3 blue 1 blue 1 blue 3 black 9
+blue 4 blue 1 blue 4 black 9
+blue 11
+blue 11

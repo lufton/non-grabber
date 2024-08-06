@@ -1,0 +1,52 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Jan 31, 2011"
+description "It's the solitaire engagement ring I gave to my wife 18 years ago. We iwll be married 16 years in June."
+difficulty 3.0
+height 15
+id 11989
+link "https://webpbn.com/play.cgi?id=11989"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "WCP #77 - Her best friend"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2 blue 2
+blue 5 blue 2
+blue 2 blue 2 blue 1
+blue 2 blue 1 blue 2
+red 2 blue 1 blue 1
+red 3 black 3 blue 3
+blue 1 red 1 black 2 black 2 blue 2
+blue 1 black 2 black 1 black 2 blue 2
+black 1 black 1 black 1 black 1 blue 2
+black 2 black 1 black 2 blue 2
+black 2 black 2 red 1 blue 1
+black 3 red 3
+red 2
+blue 2
+blue 1
+
+columns
+blue 2
+red 2
+red 3 black 3
+blue 1 red 1 black 2 black 2
+blue 2 black 2 black 1 black 2
+blue 2 black 1 black 1 black 1 black 1
+blue 1 black 2 black 1 black 2 blue 2
+blue 2 black 2 black 2 red 1 blue 1
+blue 2 black 3 red 3
+blue 2 red 2
+blue 1 blue 2 blue 2
+blue 1 blue 1 blue 2
+blue 1 blue 1 blue 2
+blue 3 blue 3
+blue 4

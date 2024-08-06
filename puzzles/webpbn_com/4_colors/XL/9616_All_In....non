@@ -1,0 +1,103 @@
+by "Adam Reida (asreida)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Adam Reida"
+date "Jul 14, 2010"
+description "Who wants to play cards?"
+difficulty 2.75
+height 33
+id 9616
+link "https://webpbn.com/play.cgi?id=9616"
+note "published,definitely non-unique,may require much guessing"
+quality 2.25
+title "All In..."
+width 48
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 16
+blue 1 black 4 blue 1
+blue 1 black 1 blue 1
+blue 1 black 1 blue 1
+blue 1 black 1 black 1 red 16
+blue 1 black 3 red 1 black 4 red 1
+blue 1 red 1 black 1 black 1 red 1
+blue 1 red 1 black 1 black 1 red 1
+red 8 blue 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 black 3 blue 1 black 2 red 1 black 3 red 1 blue 14 red 1 blue 1
+red 1 black 1 black 1 black 1 blue 1 black 1 black 1 red 1 blue 1 black 1 black 2 red 1 black 1 red 1
+red 1 black 1 black 1 black 1 blue 1 black 4 red 1 blue 1 black 3 red 1 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 blue 1 black 4 red 1 blue 1 black 2 red 1 black 1 black 1 black 1 red 1
+red 1 black 1 black 3 blue 1 black 1 black 1 red 1 black 1 blue 1 black 1 black 1 red 1 black 1 red 1
+red 1 blue 1 black 1 red 1 black 1 blue 1 black 1 black 1 red 1 black 1 red 1
+red 1 blue 1 black 2 red 1 black 3 blue 1 red 1 red 1
+red 1 black 1 blue 1 red 1 black 3 blue 1 red 1 red 1
+red 1 black 2 blue 1 red 1 black 1 blue 1 red 1 red 1
+red 1 black 1 black 1 blue 1 red 1 blue 1 red 1 black 2 black 2 red 1
+red 1 black 4 blue 1 red 1 black 1 blue 1 red 1 black 2 black 2 red 1
+red 1 black 4 blue 1 red 1 blue 1 red 1 black 1 red 1
+red 1 black 1 black 1 blue 1 red 1 blue 1 red 1 black 1 black 1 black 2 red 1
+red 1 black 1 blue 8 red 1 blue 1 red 1 black 1 black 2 red 1
+red 1 black 4 red 2 blue 1 red 1 black 1 red 1
+red 1 red 2 blue 1 red 1 red 1
+red 1 black 3 black 1 red 2 blue 1 red 1 red 1
+red 1 black 1 black 1 black 1 red 8 blue 1 red 1 red 1
+red 1 black 1 black 1 black 1 red 1 blue 1 red 1 black 1 red 1
+red 1 black 1 black 1 black 1 red 1 blue 1 red 1 black 1 red 1
+red 1 black 3 black 1 red 1 blue 1 red 1 black 1 black 1 black 1 red 1 blue 1
+red 16 blue 1 red 1 black 1 black 1 red 1 black 1 blue 1
+blue 10 red 1 black 1 red 1 blue 3
+red 1
+
+columns
+red 23
+red 1 black 5 red 1
+red 1 red 1
+red 1 black 5 red 1
+red 1 black 1 black 1 black 2 red 1
+red 1 black 5 black 4 red 1
+red 1 black 1 black 2 black 1 red 1
+red 1 black 8 red 1
+blue 23 black 1 red 1
+blue 1 black 1 black 2 blue 1 black 1 red 1
+blue 1 black 1 black 1 blue 1 black 5 red 1
+blue 1 black 5 blue 1 black 1 black 1 red 1
+blue 1 black 1 black 2 blue 1 black 5 red 1
+blue 1 black 4 blue 1 red 1
+blue 1 black 1 black 2 black 1 blue 1 black 5 red 1
+blue 1 black 8 blue 1 red 8
+blue 1 red 23
+blue 1 red 1 black 5 red 1
+blue 1 red 1 black 1 black 1 red 1
+blue 1 red 1 black 1 red 1 black 1 red 1
+blue 1 red 1 black 4 red 1 black 2 red 1
+blue 1 red 1 black 4 red 1
+blue 1 red 1 black 1 black 2 black 1 red 1
+blue 4 red 1 blue 23
+red 1 blue 1 black 5 red 1 blue 1
+red 1 blue 1 black 2 red 1 red 1 blue 1
+red 1 blue 1 black 2 black 1 red 1 red 1 blue 1
+red 1 blue 1 black 1 black 1 red 1 red 1 blue 1
+red 1 blue 1 red 1 red 1 blue 1
+red 1 blue 1 red 1 red 1 blue 1
+red 1 blue 1 red 1 red 1 blue 1
+red 5 blue 1 red 1 red 1 blue 1
+blue 1 red 1 black 1 red 1 blue 1
+blue 1 red 1 black 1 black 1 black 1 red 1
+blue 1 red 1 black 2 black 1 black 1 black 1 black 1 red 1
+blue 1 red 1 black 1 black 2 black 1 black 1 black 1 red 1
+blue 1 red 1 black 1 black 1 black 1 red 1 blue 1
+red 1 black 1 black 1 black 1 black 2 black 2 red 1 black 1 blue 1
+blue 1 red 1 black 1 black 1 black 2 black 2 red 1 blue 3
+red 1 black 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1

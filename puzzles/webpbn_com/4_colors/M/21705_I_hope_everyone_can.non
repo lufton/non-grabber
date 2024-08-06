@@ -1,0 +1,62 @@
+by "Jay Hughes (bfavrehof74)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jay Hughes"
+date "Apr 16, 2013"
+description "I live relatively close to Boston and this cowardly act of terror has everyone close to me in a state of shock and disbelief. This was supposed to be a day of celebration and rememberance. Now it will be remembered for something that never should have happened."
+difficulty 1.75
+height 20
+id 21705
+link "https://webpbn.com/play.cgi?id=21705"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "I hope everyone can"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 3 green 3 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 3 green 3 green 3 green 1
+green 1 green 2 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1
+0
+blue 1 blue 1 black 2 black 2
+blue 1 blue 1 black 7
+blue 4 black 5
+blue 1 black 3
+blue 1 black 1
+0
+blue 2 green 1 blue 3 green 3 blue 1 green 1 green 1
+blue 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 blue 1 green 2 green 1
+blue 2 green 1 green 1 blue 1 green 1 blue 1 blue 1 green 1 green 2
+blue 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 blue 1 green 1 green 1
+blue 2 green 1 blue 3 green 1 blue 1 green 1 green 1
+0
+0
+
+columns
+blue 5
+green 5 blue 1 blue 1 blue 1
+green 1 green 1 blue 1 blue 1
+green 3 green 3
+green 1 green 1
+green 5 green 3
+green 1 green 2 blue 3 blue 2 blue 1
+green 3 green 1 blue 1 blue 1 blue 1 blue 1
+blue 5 blue 1 blue 2
+green 4 blue 1 green 1
+green 1 green 1 green 5
+green 4 green 1
+blue 3
+green 2 black 1 blue 1 blue 1
+green 3 black 3 blue 3
+green 2 black 4 green 5
+black 4 green 1
+black 4 green 1
+black 3 green 5
+black 1

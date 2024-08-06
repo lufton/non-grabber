@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Aug  7, 2010"
+description "Thanks for the cash Grandma."
+difficulty 2.25
+height 20
+id 9914
+link "https://webpbn.com/play.cgi?id=9914"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Ultimate Gift card"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 14
+blue 1
+blue 1
+blue 2 blue 1
+blue 3 blue 1
+blue 3 blue 1
+black 1 blue 3 green 3 blue 1
+black 1 blue 3 green 4
+black 1 black 3 blue 3 green 4
+black 1 black 1 blue 1 green 4
+black 3 black 1 black 1 blue 1 green 2
+black 1 black 1 black 1 blue 1 green 3
+black 1 black 1 blue 1 green 3
+black 1 blue 1 green 2 green 1
+black 1 blue 1 green 1 green 2 green 1
+blue 1 green 1 green 1 green 1
+blue 1 green 1 green 2 green 1
+blue 1 green 1 green 1 green 2
+blue 1 green 1 green 2 green 1
+blue 1 green 1 green 1 green 1
+
+columns
+blue 1 blue 1 black 3
+blue 1 blue 2
+blue 1 blue 1 black 5
+blue 1 blue 2 black 1 black 1
+blue 1 blue 1 black 3
+blue 1 blue 2
+blue 1 blue 1 black 2
+blue 1 blue 2 black 3
+blue 1 green 1 blue 1 black 2
+blue 1 green 1 blue 2
+blue 1 green 2 blue 1
+blue 1 green 1 blue 12
+blue 1 green 1 green 1 green 1 green 3
+blue 7 green 2 green 2 green 4
+green 1 green 1 green 2
+green 1 green 2 green 3
+green 2 green 1 green 3
+green 1 green 3
+green 1 green 3
+green 1 green 4

@@ -1,0 +1,51 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 24, 2011"
+description "A misshapen red pony"
+difficulty 1.5
+height 10
+id 14141
+link "https://webpbn.com/play.cgi?id=14141"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "animal"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+black 2
+red 4 black 2 black 3
+red 5 black 1 black 4
+red 10 black 5
+red 10 black 3
+red 9 black 3
+red 1 red 1 black 2
+red 1 red 1 black 2
+black 1 black 1
+
+columns
+0
+0
+red 2
+red 2
+red 3
+black 1 red 4
+red 1 black 2 red 6 black 1
+black 2 red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+black 1 red 4 black 1
+black 2
+black 5
+black 7
+black 7
+0

@@ -1,0 +1,108 @@
+by "danusia03"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/1/11"
+height 46
+id 115383
+link "https://www.griddlers.net/nonogram/-/g/115383"
+medium_time "0:32:50"
+points 76504
+popularity 83.8
+title "Goose"
+width 38
+
+color a ffffff
+color b 000000
+color c ffff00
+color d ff0000
+color e 339900
+color f cccccc
+color g ffffcc
+
+rows
+e 5
+e 8 d 1
+e 8 d 1 d 1
+e 8 d 1 d 1 d 1
+e 7 d 1 d 1 d 2
+e 6 d 3 d 1 d 1 f 1
+e 5 d 1 d 1 d 2 f 1 g 1
+e 5 d 1 d 3 f 1 b 1 g 1
+e 5 d 3 f 2 g 2 c 3
+e 5 d 1 f 4 g 2 c 5
+e 5 f 3 g 4 c 3 c 2
+e 5 f 2 g 2 f 3 c 8
+e 4 f 2 g 3 f 1
+e 5 f 2 g 2 f 2
+d 3 e 3 f 3 g 3 f 1
+d 5 e 4 d 1 f 4 g 1 f 2
+d 5 e 2 e 1 d 2 e 1 d 1 f 4
+d 5 d 2 e 2 d 1 e 1 d 1 f 1 e 3
+d 3 e 3 d 2 e 1 d 1 e 5
+e 3 d 2 e 1 d 1 e 1 d 1 e 4
+e 1 d 2 e 1 d 2 e 1 d 1 e 4
+e 2 d 2 e 1 d 1 e 1 d 2 e 4 f 1
+e 6 f 1 e 1 d 1 e 4 f 3
+e 6 f 3 d 5 f 1 g 1 f 2
+d 3 e 3 f 4 d 5 f 1 g 1 f 2 f 2
+e 4 d 3 f 2 g 1 f 1 d 2 e 3 f 1 g 2 f 2 f 1 g 1 f 2
+d 4 e 2 f 2 g 2 f 1 e 6 f 1 g 2 f 2 f 4 g 1 f 2 g 1 f 1
+e 4 d 3 f 2 g 2 f 1 e 4 d 2 e 1 f 1 g 2 f 2 g 4 f 2 g 2 f 1
+e 7 f 1 g 3 f 1 e 2 d 2 e 2 d 2 f 1 g 2 f 2 g 3 f 1 g 2 f 1
+e 7 f 2 g 3 f 2 d 1 e 2 d 3 e 2 f 1 g 2 f 2 g 4 f 1
+e 7 f 1 g 4 f 2 e 1 d 3 e 5 f 2 g 2 f 2 g 1 f 1
+d 4 e 4 f 1 g 5 f 1 d 2 e 10 f 1 g 2 f 1
+d 3 d 3 f 2 g 5 f 1 e 9 d 3 f 1 g 2 f 1
+d 2 f 1 g 6 f 1 e 7 d 3 f 3 g 1 f 1
+d 1 f 1 g 6 f 2 e 3 d 4 f 3 g 2 f 2
+f 2 g 6 f 1 d 5 f 4 g 2 f 2
+f 2 g 5 f 1 d 2 f 5 g 3 f 2
+f 2 g 5 f 6 g 4 f 2
+f 2 g 5 f 1 g 7 f 2
+f 2 g 9 f 4
+f 3 g 3 f 5
+c 1 f 5 c 2
+c 2 c 2
+c 2 c 2
+c 5 c 5
+c 1 c 1 c 1 c 1 c 1 c 1
+
+columns
+d 3
+d 5
+d 5 d 1
+d 5 d 2
+d 3 e 2 d 2
+e 1 e 4 d 1
+e 2 e 1 d 1 e 4 d 1
+e 1 e 1 d 1 e 1 d 1 e 5 d 1
+e 3 e 2 d 1 e 1 d 1 e 5 d 2
+e 7 d 1 e 2 e 3 d 1 e 1 d 2 e 4 d 3
+e 10 d 3 e 7 d 1 e 1 d 1 e 4 f 4
+e 11 f 2 d 1 e 3 d 2 e 3 d 1 e 1 d 1 e 1 f 4 g 2 f 3
+e 12 f 2 e 2 d 4 e 3 d 1 f 4 g 6 f 3
+e 11 f 4 d 4 e 3 f 5 g 10 f 2 c 2
+e 9 f 4 g 1 f 2 e 3 d 2 f 4 g 13 f 2 c 1
+e 6 d 1 f 2 g 4 f 1 d 4 e 2 f 2 g 15 f 1 c 5
+e 5 d 4 f 2 g 4 f 3 e 3 d 3 f 7 g 9 f 2 c 3
+e 5 d 1 d 1 f 1 g 3 f 4 e 2 d 3 e 1 d 3 e 3 f 6 g 6 f 1 c 2
+e 4 d 5 f 1 g 1 f 3 e 6 d 3 e 3 d 1 e 1 d 1 e 2 f 4 g 3 f 1
+e 3 d 1 d 1 f 2 g 1 f 1 e 6 d 2 e 3 d 1 e 1 d 2 e 3 d 2 f 2 g 2 f 1
+e 1 d 1 d 4 f 1 g 2 f 1 e 5 d 2 e 3 d 1 e 1 d 1 e 4 d 2 f 1 g 2 f 2 c 2
+d 1 d 1 d 1 f 1 g 2 c 2 e 3 f 2 d 1 e 2 d 1 e 1 d 2 e 4 d 1 f 2 g 2 f 1 c 4
+d 1 d 2 f 1 b 1 g 1 c 3 f 2 g 1 f 2 e 1 d 1 e 1 d 1 e 4 d 2 f 2 g 2 f 1 c 5
+d 2 f 1 g 2 c 4 f 2 g 2 f 1 e 1 d 2 e 4 d 2 f 2 g 2 f 1 c 1
+c 2 c 1 f 2 g 2 f 1 d 1 e 5 d 1 f 2 g 2 f 2 c 2
+c 2 c 1 f 2 g 2 f 1 e 4 d 2 f 2 g 2 f 1
+c 3 f 2 g 2 f 1 e 3 d 1 f 2 g 3 f 1
+c 2 f 2 g 2 f 1 e 1 d 2 f 2 g 2 f 2
+c 1 f 2 g 1 f 1 e 1 d 1 f 2 g 2 f 2
+f 1 g 1 f 2 g 1 e 1 d 1 f 1 g 2 f 2
+f 1 g 2 f 1 g 1 f 3 g 1 f 2
+f 1 g 3 f 1 g 3 f 2
+f 1 g 3 f 1 g 2 f 2
+f 1 g 1 f 2 g 2 f 2
+f 1 g 1 f 2 g 2 f 1
+f 3 g 2 f 1
+f 1 g 2 f 1
+f 2

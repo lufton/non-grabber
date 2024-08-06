@@ -1,0 +1,63 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 26, 2011"
+description "So much flooding here; our house is an island. There are more storms on the way. So if the house starts to flood, we're sticking oars out the side windows and row to higher ground. All the animals will have to sit on the roof."
+difficulty 1.25
+height 15
+id 13627
+link "https://webpbn.com/play.cgi?id=13627"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "we don't want a boat"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 5
+black 1 green 5 black 1
+black 1 green 7 black 1
+black 11
+black 1 red 9 black 1
+black 4 red 3 black 3 red 3 black 4
+black 5 black 1 red 3 black 1 black 1 red 3 black 1 black 5
+black 3 black 1 red 3 black 1 black 1 red 3 black 1 black 3
+blue 7 black 1 red 3 black 1 black 1 red 3 black 1 blue 7
+blue 7 black 1 red 3 black 1 black 1 red 3 black 1 blue 7
+blue 7 black 11 blue 7
+blue 25
+blue 25
+blue 25
+
+columns
+black 2 blue 6
+black 2 blue 6
+black 2 blue 6
+black 1 blue 6
+black 2 blue 6
+black 1 blue 6
+black 1 blue 6
+black 8 blue 3
+black 2 red 6 black 1 blue 3
+black 1 green 1 black 1 red 6 black 1 blue 3
+black 1 green 2 black 1 red 6 black 1 blue 3
+black 1 green 2 black 1 red 1 black 6 blue 3
+black 1 green 2 black 1 red 1 black 1 black 1 blue 3
+black 1 green 2 black 1 red 1 black 6 blue 3
+black 1 green 2 black 1 red 6 black 1 blue 3
+black 1 green 1 black 1 red 6 black 1 blue 3
+black 2 red 6 black 1 blue 3
+black 8 blue 3
+black 1 blue 6
+black 1 blue 6
+black 2 blue 6
+black 1 blue 6
+black 2 blue 6
+black 2 blue 6
+black 2 blue 6

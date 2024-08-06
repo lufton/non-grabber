@@ -1,0 +1,47 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 20, 2011"
+description "Blue stew pot."
+difficulty 1.25
+height 11
+id 14789
+link "https://webpbn.com/play.cgi?id=14789"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Kitchen Utensil #5"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 1
+blue 5
+blue 7
+black 2 blue 9 black 2
+blue 9
+blue 9
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 7
+blue 5
+0
+
+columns
+0
+black 1
+black 1
+blue 4
+blue 4 blue 1
+blue 8
+blue 5 blue 2
+black 1 blue 8
+blue 5 blue 2
+blue 8
+blue 4 blue 1
+blue 4
+black 1
+black 1
+0

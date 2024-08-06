@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Oct 24, 2011"
+description "Because Seven ate Nine."
+difficulty 1.25
+height 20
+id 16172
+link "https://webpbn.com/play.cgi?id=16172"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Why Six is afraid of Seven."
+width 20
+
+rows
+10,5
+10,6
+10,1,4
+3,4,1,3
+3,1,2
+4,3,3
+3,4,4
+3,8
+4,7
+3,3
+3,3
+3,3
+3,3
+4,3
+3,3
+3,3
+3,3
+3,3
+3,3
+3,3
+
+columns
+4
+4
+4
+3,7
+3,12
+3,15
+14
+9
+6
+4
+0
+2
+4
+1,4
+3,3
+2,2
+3,3
+4,15
+20
+19

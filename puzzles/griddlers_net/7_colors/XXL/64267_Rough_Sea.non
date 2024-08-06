@@ -1,0 +1,114 @@
+by "kyng"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/5/08"
+height 45
+id 64267
+link "https://www.griddlers.net/nonogram/-/g/64267"
+medium_time "0:52:27"
+points 190342
+popularity 66.67
+title "Rough Sea"
+width 45
+
+color a ccffff
+color b 000000
+color c 993300
+color d ff0000
+color e ffff00
+color f 0000ff
+color h ffffff
+
+rows
+h 6 d 6 b 1
+h 3 d 3 h 4 d 1 b 1 h 1
+h 6 d 3 h 6 d 2 b 1
+h 10 d 2 h 7 d 2 b 1 h 1
+h 11 d 2 h 8 d 2 b 1
+h 7 d 1 h 10 d 1 b 1 h 1
+h 4 d 3 h 10 d 1 b 1 h 2
+d 2 h 1 d 1 h 8 d 2 b 1 h 1 h 6
+d 2 h 2 d 1 h 8 d 1 b 1 h 7
+d 2 h 3 d 1 h 8 d 1 b 1 h 1 h 5
+c 1 d 2 h 4 d 1 h 7 d 2 b 1
+e 1 c 1 d 2 h 5 d 1 h 6 d 2 b 1 h 1
+e 1 c 1 d 2 h 6 d 1 h 5 d 2 b 1
+e 1 c 1 d 1 h 7 d 3 h 3 d 2 b 1 h 1
+e 1 c 1 d 10 e 1 d 5 b 1
+e 1 c 1 d 2 h 8 d 3 h 3 d 1 b 1 h 1
+e 1 c 2 d 2 h 10 d 1 h 4 d 1 b 1
+e 1 c 1 d 2 h 11 d 1 h 3 d 1 b 1 h 1
+e 2 d 1 h 12 d 1 h 3 d 1 b 1 h 3
+h 2 d 1 h 13 d 1 h 2 d 1 f 1 b 1 h 1 h 1 f 3 h 1 f 1
+h 1 f 3 f 1 d 4 h 10 d 1 h 2 d 1 f 1 b 1 f 8 h 2 h 1 f 3
+f 1 h 1 f 4 d 1 e 2 c 1 d 4 h 6 d 3 f 1 b 1 h 1 f 9 h 1 f 9
+f 5 d 1 f 2 e 2 c 4 d 2 h 5 d 1 f 2 b 1 f 2 h 2 f 4 h 3 f 9
+f 5 b 6 e 1 c 4 d 2 h 3 d 1 f 1 b 1 h 1 f 5 h 1 f 1 h 1 f 3 h 2 f 1 h 1 f 3 h 2
+h 4 f 4 h 1 e 1 d 1 b 3 c 2 e 2 d 4 e 1 b 1 e 1 f 6 h 1 f 5 f 2 h 1
+f 1 f 1 h 2 e 1 d 1 e 1 c 1 b 5 e 1 c 2 b 1 e 3 f 10 f 5
+f 2 h 4 f 2 h 2 e 1 d 1 e 2 c 4 b 4 c 2 e 2 f 14 f 1
+f 5 h 1 f 2 h 2 e 2 d 1 e 2 c 10 e 3 f 6 h 4 f 2 h 3
+f 2 f 6 h 3 e 2 d 1 e 2 c 10 e 4 f 4 h 1 f 1 h 2 f 2 h 2
+f 1 f 5 h 3 e 2 d 1 e 2 c 12 e 3 f 7 f 1
+f 1 f 2 f 5 h 2 e 3 d 1 e 3 c 12 e 4 f 4 f 3
+f 12 h 2 e 3 d 2 e 4 c 12 e 3 h 1 f 6
+f 1 h 5 h 3 e 4 d 3 e 4 c 11 e 1 h 4 f 3
+h 2 f 1 f 4 h 2 e 6 d 3 e 5 c 8 e 1 f 1 h 5
+f 6 h 3 f 7 h 1 e 8 d 4 e 6 c 3 e 1 f 3 h 3
+f 4 h 2 f 7 h 2 f 2 e 9 d 5 e 2 d 1 e 1 f 7
+f 3 f 9 h 2 f 3 e 12 d 2 e 1 f 8
+f 1 f 6 h 3 f 4 h 2 f 6 e 11 f 7
+f 10 h 1 h 3 h 1 f 7 e 7 f 6 f 1
+f 7 h 2 f 1 f 1 h 2 f 8 e 5 f 7 f 1 f 1
+f 2 h 1 h 2 f 10 h 2 f 23
+h 2 f 14 h 2 f 22
+f 17 h 2 f 9 f 2 f 4
+f 15 f 3 h 2 f 1 f 1 f 2 f 1
+f 24 h 2 f 2 f 14
+
+columns
+c 1 e 1 h 2 f 3 h 1 f 8 h 1 f 7 h 1 f 3
+h 2 c 1 e 1 h 1 f 1 h 1 f 2 h 1 f 3 f 1 h 2 f 3 f 3 h 1 f 3
+h 2 c 1 e 1 f 4 h 1 h 1 f 1 f 2 h 1 f 3 f 2 h 1 f 3
+h 3 c 1 e 1 f 4 h 1 h 1 f 2 f 2 h 1 f 2 f 2 f 3
+h 4 c 1 e 1 f 4 h 1 f 2 f 1 h 1 f 1 f 3 h 1 f 3
+h 4 c 1 e 3 f 2 d 1 b 1 f 1 h 2 f 2 f 1 h 1 f 1 h 1 f 3 h 1 f 3
+h 5 c 2 e 1 d 3 f 1 b 1 f 1 f 4 h 2 f 3 f 3
+h 5 c 1 d 2 h 1 d 1 e 1 f 1 b 1 f 8 f 1 h 1 f 2 h 1 f 4
+h 5 d 2 h 2 d 1 e 2 b 1 h 2 f 6 h 1 f 3 h 1 f 4
+h 4 d 2 h 3 d 1 c 1 e 1 b 1 e 1 h 4 f 3 f 5 f 4
+h 3 d 2 h 5 d 1 c 1 b 1 d 1 e 1 h 4 f 2 f 4 h 2 f 5
+h 1 d 2 h 6 d 1 c 1 e 1 b 1 d 1 e 2 h 3 f 1 f 4 h 1 f 5
+d 1 h 1 d 1 h 6 d 1 c 2 b 1 e 1 d 1 e 2 h 4 f 4 h 2 f 5
+d 2 h 1 d 1 h 6 d 1 c 2 b 1 c 1 e 1 d 1 e 3 h 2 f 5 h 1 f 5
+d 2 h 2 d 1 h 7 d 1 c 2 b 1 e 2 d 1 e 3 h 2 f 4 h 1 f 5
+h 1 d 2 h 3 d 1 h 7 d 1 c 2 b 1 c 1 e 2 d 1 e 3 h 1 f 4 f 3 f 1
+h 2 d 2 h 4 d 1 h 8 d 1 e 1 b 1 c 2 e 2 d 1 e 3 h 2 f 2 f 4 f 1
+h 2 d 2 h 5 d 1 h 8 d 1 e 1 b 1 c 3 e 2 d 1 e 3 h 3 f 2 f 1
+h 2 d 2 h 6 d 1 h 9 d 1 b 1 c 4 e 1 d 1 e 3 f 1 h 2 f 3 f 2
+h 1 d 1 h 6 d 3 h 8 d 1 e 1 b 1 c 3 e 2 d 1 e 2 f 3 h 2 f 2 f 2
+h 1 d 9 e 1 d 7 h 2 d 1 c 1 b 1 c 4 e 1 d 1 e 3 f 2 h 2 f 1 f 2
+d 1 h 8 d 3 h 5 d 4 c 1 b 1 c 4 e 1 d 1 e 3 f 4 h 2 f 1
+d 2 h 9 d 1 h 6 d 1 f 2 e 1 b 2 c 4 e 2 d 1 e 3 f 4 h 2 f 1
+d 2 h 10 d 1 h 4 d 2 f 2 b 2 e 1 c 6 e 1 d 1 e 3 f 5 h 2 f 1
+d 1 h 11 d 1 h 2 d 2 f 2 b 2 h 1 e 2 c 6 e 1 d 1 e 3 f 6 h 2
+d 1 h 10 d 4 b 2 h 1 f 3 e 2 c 5 e 2 d 1 e 3 f 6 h 1
+d 1 h 10 d 2 b 2 h 1 f 6 e 2 c 5 e 1 d 1 e 3 f 5
+d 1 h 9 d 2 b 2 h 1 f 2 h 1 f 4 e 2 c 4 e 1 d 1 e 3 f 5 f 1
+d 1 h 8 d 2 b 2 h 1 h 1 f 2 h 1 f 4 e 2 c 4 e 1 d 1 e 4 f 4 f 1
+d 1 h 6 d 4 b 2 h 1 h 1 f 9 e 1 c 4 e 2 d 1 e 4 f 3
+d 1 h 6 d 1 b 2 h 1 h 1 f 4 h 1 f 4 e 2 c 4 e 1 d 1 e 4 f 4
+d 1 h 2 d 4 b 2 h 1 h 1 f 5 h 1 f 4 e 1 c 4 e 1 d 1 e 4 f 3 f 1
+d 1 h 1 d 3 b 2 h 1 h 1 f 3 h 1 f 5 e 2 c 3 e 1 d 1 e 4 f 3 f 1
+d 3 b 2 h 1 f 2 h 1 f 7 e 1 c 3 e 1 d 1 e 4 f 2 f 1
+d 1 b 2 h 1 h 1 f 1 h 1 f 7 e 1 c 3 e 2 d 1 e 2 f 3 f 1
+b 1 h 1 h 3 f 4 h 2 f 1 e 2 c 3 e 1 d 1 e 1 f 5 f 1
+f 2 h 1 f 1 f 1 h 1 f 3 e 1 c 3 d 1 e 1 f 6 f 1
+f 2 h 1 f 1 h 2 f 2 e 2 c 2 e 1 f 6 f 1
+h 1 f 3 f 2 h 2 f 2 h 2 e 2 f 7 f 2
+h 3 f 2 h 1 f 7 h 1 f 9 f 2
+h 3 f 3 f 4 f 1 h 2 f 8 f 1
+h 4 h 1 f 5 h 1 f 1 h 2 f 4 f 3 f 1
+h 4 f 6 h 2 f 3 h 2 f 3 f 4 f 1
+h 3 f 4 h 2 h 1 f 3 h 2 f 2 f 3 f 1
+h 2 f 3 h 1 f 1 h 1 f 4 h 2 f 2 f 7

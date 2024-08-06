@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Gator"
+date "Jan 18, 2012"
+description "I sometimes buy T-shirts from shirt.woot.com. Anyone else buy from there?"
+difficulty 2.25
+height 20
+id 16335
+link "https://webpbn.com/play.cgi?id=16335"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Woot!"
+width 20
+
+rows
+2,2
+2,1,2,2
+2,4,2
+2,2
+2,2,2
+2,4,2
+1,4,1
+2,1,4,1,2
+2,1,4,1,2
+3,4,3
+1,4,1
+1,2,1
+1,2,1
+1,1
+1,2,1
+1,4,1
+1,4,1
+1,2,1
+2,1
+1,1
+
+columns
+3
+2,2
+2,2
+2,1,2
+2,12
+2
+1
+1
+1,6,2
+1,9,4
+1,9,4
+2,6,2
+1
+1
+2
+2,13
+2,1
+2,2
+2,2
+3

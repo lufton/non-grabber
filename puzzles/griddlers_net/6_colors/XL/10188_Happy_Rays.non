@@ -1,0 +1,88 @@
+by "HSpring"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/24/04"
+height 32
+id 10188
+link "https://www.griddlers.net/nonogram/-/g/10188"
+medium_time "0:24:02"
+points 35584
+popularity 79.7
+title "Happy Rays"
+width 33
+
+color a ffffff
+color b aa6c5f
+color c ff9000
+color d e0a900
+color e ffde4c
+color g 000000
+
+rows
+b 1 b 2 b 2
+b 3 b 4 b 3
+b 1 c 1 b 1 b 1 c 2 b 1 b 1 c 2 b 1
+b 3 b 1 c 1 b 1 b 1 c 2 b 1 b 1 c 2 b 1
+b 1 c 1 b 2 b 1 c 1 b 4 c 2 b 1 b 1 c 2 b 1 b 2
+b 2 c 1 b 4 c 3 b 1 c 3 b 3 c 2 b 1 b 4
+b 2 c 3 b 1 c 1 d 10 c 2 b 2 c 1 b 2
+b 2 c 2 d 3 e 9 d 1 c 4 b 1
+b 1 c 1 d 2 e 12 d 1 c 2 b 1
+b 8 g 8 e 8 d 1 c 1 b 6
+b 2 c 5 g 18 c 5 b 1
+b 2 c 3 d 2 g 17 d 1 c 2 b 2
+b 2 c 1 d 2 e 2 g 7 e 1 g 8 d 1 c 1 b 1
+b 2 d 1 e 4 g 4 e 4 g 7 d 1 c 1 b 1
+b 4 d 1 e 13 g 5 e 1 d 1 b 2
+b 2 c 4 d 1 e 2 d 2 e 5 d 2 e 8 d 1 c 1 b 4
+b 2 c 2 d 1 e 2 d 1 d 1 e 14 d 1 c 4 b 2
+b 2 d 1 e 2 d 1 d 3 e 7 d 2 e 3 d 1 c 1 b 3
+b 1 d 1 e 3 d 1 d 3 e 3 d 4 e 3 d 1 b 2
+b 2 d 1 e 3 d 1 d 5 d 1 e 3 d 1 c 1 b 1
+b 2 c 2 d 3 e 1 d 2 d 2 e 3 d 1 c 2 b 2
+b 1 c 5 d 1 e 2 d 1 d 2 e 4 d 1 c 3 b 2
+b 7 d 1 e 2 d 3 d 1 e 3 d 2 b 7
+b 1 c 1 d 2 e 3 d 2 d 4 e 2 d 2 c 1 b 1
+b 2 c 2 d 3 e 2 d 4 e 4 d 2 c 2 b 1
+b 1 c 2 b 3 d 3 e 6 d 3 b 1 c 2 b 2
+b 5 b 1 c 2 d 8 c 2 b 3 c 1 b 1
+b 2 b 1 c 2 b 2 c 3 b 3 c 2 b 1 b 3
+b 1 c 1 b 1 b 2 c 1 b 1 b 1 c 2 b 1
+b 1 c 1 b 1 b 1 c 1 b 1 b 2 c 1 b 1
+b 2 b 1 c 1 b 1 b 3
+b 1 b 2
+
+columns
+b 1 b 1
+b 2 b 1 b 1
+b 3 b 1 c 1 b 1 b 3
+b 1 c 1 b 2 b 1 c 1 b 1 b 1 c 1 b 1
+b 3 b 1 c 2 b 3 c 2 b 1 b 1 c 2 b 1 b 2
+b 1 c 1 b 2 b 1 c 3 b 2 c 2 b 3 c 2 b 1 b 4
+b 2 c 1 b 2 b 1 c 2 d 9 c 1 b 3 c 1 b 1
+b 2 c 1 b 3 c 1 d 2 e 7 d 1 c 1 b 1 c 3 b 1
+b 1 c 3 g 2 d 1 e 8 d 4 c 1 b 2
+b 1 c 2 d 1 g 3 e 3 d 3 e 5 d 2 b 1
+b 7 d 2 g 4 e 2 d 1 d 3 e 3 d 1 b 6
+b 1 c 5 d 1 e 1 g 5 e 2 d 2 d 3 e 1 d 2 c 4 b 1
+b 4 c 1 d 2 e 1 g 5 e 3 d 1 d 1 e 2 d 1 c 2 b 2
+b 1 c 1 d 1 e 2 g 5 e 3 d 2 d 2 e 1 d 2 b 1
+b 2 d 1 e 2 g 5 e 4 d 1 d 2 e 1 d 1 b 2
+b 4 c 1 d 1 e 2 g 4 e 5 d 2 d 1 e 1 d 1 c 1 b 3
+b 2 c 4 d 1 e 3 g 3 e 2 d 1 e 3 d 1 d 1 e 1 d 1 c 4 b 1
+b 2 c 4 d 1 e 3 g 2 e 3 d 1 e 3 d 1 d 2 e 1 d 1 c 1 b 3
+b 5 d 1 e 3 g 3 e 6 d 1 d 1 e 2 d 1 b 1
+b 1 d 1 e 3 g 4 e 4 d 2 d 1 e 2 d 1 b 1
+b 4 d 1 e 3 g 5 e 3 d 1 d 3 e 1 d 2 b 3
+b 1 c 4 d 1 e 3 g 5 e 2 d 2 d 2 e 3 d 1 c 3 b 2
+b 2 c 5 d 1 e 2 g 5 e 2 d 4 e 3 d 2 c 4 b 2
+b 6 c 2 d 1 e 1 g 5 e 8 d 2 b 7
+b 1 c 2 d 1 g 5 e 7 d 2 c 2 b 1
+b 2 c 3 g 4 e 8 d 1 c 3 b 2
+b 1 c 2 b 2 c 1 d 11 b 4 c 1 b 1
+b 4 b 1 c 4 b 1 c 3 b 1 c 3 b 1 b 3
+b 3 b 1 c 2 b 4 c 1 b 3 c 2 b 1
+b 1 c 1 b 1 b 1 c 1 b 1 b 1 c 1 b 1
+b 1 c 1 b 1 b 1 c 1 b 1 b 3
+b 2 b 2 b 2
+b 1 b 1

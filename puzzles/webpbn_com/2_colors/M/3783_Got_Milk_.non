@@ -1,0 +1,57 @@
+by "Jota (Jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jota"
+date "Oct 13, 2008"
+description "A Holstein dairy cow"
+difficulty 2.25
+height 20
+id 3783
+link "https://webpbn.com/play.cgi?id=3783"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Got Milk ?"
+width 20
+
+rows
+1,1
+2,2
+9
+1,1
+1,2,2,1
+1,2,2,1
+1,11
+2,1,2,3,1
+1,1,1,2,1
+7,2,1,1
+1,1,1,2,1,1
+1,3,2,2,1,1
+1,2,3,1,1
+1,2,1
+17
+1,1,5,1
+1,1,3,1
+1,1,1,1
+3,3,3
+3,3,3
+
+columns
+6,2
+3,8,2
+2,2,1,6
+1,2,3,1
+1,1,1,1,1
+1,2,3,1,2
+2,2,1,1,2
+3,3,8
+6,4
+1,1,1
+1,2,2
+1,3,3
+1,4
+1,2,3
+1,2,2
+2,1,1,2
+3,1,2
+14
+1
+6

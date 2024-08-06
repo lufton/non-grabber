@@ -1,0 +1,62 @@
+by "jazzinka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/21/06"
+height 20
+id 31979
+link "https://www.griddlers.net/nonogram/-/g/31979"
+medium_time "0:08:48"
+points 4327
+popularity 74.4
+title "Wine"
+width 17
+
+color a ffffff
+color b a5ccfe
+color c 739afe
+color d c30000
+color e 890000
+color f ff7878
+color g ff4b3c
+color h 808080
+
+rows
+b 8 c 1
+b 2 b 1 c 1
+b 1 b 1 c 1
+b 2 b 2 c 1
+b 1 b 2 b 2 c 1 b 1 c 1
+b 1 b 5 c 1 b 1 c 1
+b 1 g 1 e 8 b 1 c 1
+b 1 d 1 g 1 e 8 d 1 b 1 c 1
+b 1 d 1 f 1 e 7 d 2 b 1 c 1
+b 1 d 1 f 1 d 9 b 1 c 1
+b 1 d 2 f 1 d 8 b 1 c 1
+b 1 d 1 f 1 d 7 b 1 c 1 h 4
+b 1 d 8 e 1 b 1 c 1 h 4
+b 1 d 5 e 2 b 1 c 1 h 5
+b 2 d 1 e 2 b 2 c 1 h 5
+b 3 c 1 h 2
+b 1 c 1 h 2
+b 1 c 1 h 2
+b 1 c 1 h 2
+b 2 c 2 h 3
+
+columns
+b 9
+b 1 b 1 d 4 b 2
+b 1 b 1 g 2 f 2 d 3 b 1
+b 1 b 1 e 3 d 1 f 2 d 2 b 1
+b 1 b 1 e 3 d 5 b 1
+b 1 b 1 e 3 d 6 b 1 b 1
+b 1 b 1 e 3 d 5 e 1 b 5
+b 1 b 1 e 3 d 5 e 1 b 1 c 4
+b 1 b 1 e 3 d 4 e 1 b 1 c 1 h 1 c 1
+b 1 b 1 c 1 e 3 d 4 e 1 b 1 h 3
+b 1 b 1 e 2 d 4 e 1 b 1 c 1 h 2 h 1
+c 1 b 1 b 1 c 1 d 4 b 2 c 1 h 3 h 1
+c 1 b 9 c 2 h 3
+c 9 h 4
+h 4
+h 4
+h 3

@@ -1,0 +1,89 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/12/07"
+height 42
+id 48173
+link "https://www.griddlers.net/nonogram/-/g/48173"
+medium_time "0:15:43"
+points 32944
+popularity 77.85
+title "Three Candles"
+width 22
+
+color a ffffff
+color b ff0000
+color c ffff00
+color d 336666
+color e cccccc
+color f 999999
+color g cc6600
+color h ffcc00
+
+rows
+b 1
+b 1
+b 1 b 3
+b 1 b 1 c 1 b 1
+b 3 b 1 c 1 b 1
+b 1 c 1 b 1 b 3
+b 1 c 1 b 1 d 1
+b 3 d 1 b 1
+d 1 d 4 b 1
+d 1 d 1 e 4 d 1 b 3
+d 4 d 1 e 4 d 1 b 1 c 1 b 1
+d 1 e 4 d 1 d 1 e 1 f 2 e 1 d 1 b 1 c 1 b 1
+d 1 e 4 d 1 d 1 e 2 d 1 b 3
+d 1 e 1 f 2 e 1 d 1 d 1 e 2 d 1 d 1
+d 1 e 2 d 1 d 1 e 2 d 1 d 1
+d 1 e 2 d 1 d 1 e 2 d 1 d 4
+d 1 e 2 d 1 d 1 e 2 d 1 d 1 e 4 d 1
+g 4 d 1 e 2 d 1 d 1 e 4 d 1
+g 1 c 4 g 1 g 6 d 1 e 1 f 2 e 1 d 1
+g 1 c 1 h 1 g 1 g 1 c 5 h 1 g 1 d 2 e 2 d 2
+g 1 c 1 h 1 g 1 g 1 c 2 h 2 g 1 d 1 e 2 d 1
+g 1 c 1 g 1 g 1 c 2 h 2 g 1 d 1 e 2 d 1
+g 1 c 1 h 1 g 1 g 1 c 1 h 1 g 1 d 1 e 2 d 1
+g 1 c 1 h 1 g 4 c 1 h 1 g 1 d 1 e 2 d 1
+g 1 c 1 h 4 c 1 h 1 g 1 g 4
+g 1 c 2 h 4 g 1 g 1 c 3 h 1 g 1
+g 2 h 4 g 1 g 1 c 1 h 1 g 1
+g 1 h 3 g 1 g 1 c 1 h 1 g 1
+g 1 c 1 h 1 g 1 g 1 c 1 g 1
+g 1 c 1 h 1 g 1 g 1 c 1 h 1 g 1
+g 1 c 1 h 2 g 3 c 1 h 1 g 1
+g 1 c 1 h 2 c 3 h 1 g 1
+g 1 c 1 h 5 g 1
+g 1 c 1 h 3 g 2
+g 1 c 1 h 2 g 1
+g 1 c 2 h 2
+g 1 c 2 h 2 g 1
+g 1 c 2 h 2 g 1
+g 1 c 3 h 3 g 1
+g 1 c 3 h 3 g 1
+g 1 h 4 g 1
+g 4
+
+columns
+d 3 g 1
+d 1 e 3 d 3 g 1 c 1 g 2
+b 4 d 1 e 2 f 1 e 3 g 1 c 3 g 2
+b 3 c 2 b 1 d 3 e 2 f 1 e 3 g 1 c 1 h 2 c 2 g 1
+b 4 d 1 e 3 d 3 g 1 c 1 g 3 h 1 c 1 g 1
+d 3 g 1 g 1 h 1 c 1 g 1
+g 1 h 1 c 1 g 1
+g 1 g 1 h 1 c 1 g 1 g 2
+d 3 g 1 c 1 g 2 g 1 h 3 g 1 g 3 c 2 g 1
+b 4 d 1 e 3 d 6 g 1 c 3 g 2 h 4 g 7 c 5 h 1 g 1
+b 3 c 2 b 1 d 3 e 2 f 1 e 6 g 1 c 6 h 3 c 12 h 1 g 1
+b 4 d 1 e 2 f 1 e 6 g 1 c 1 h 21 g 1
+d 1 e 3 d 6 g 1 c 1 h 2 g 8 h 11 g 1
+d 3 g 1 h 1 g 2 g 1 c 1 h 2 g 1 g 2 h 2 g 1
+g 1 g 1 c 1 h 1 g 1 g 2
+g 1 c 1 h 1 g 1
+d 4 g 1 g 1 c 1 h 1 g 1
+b 4 d 1 e 3 d 5 g 1 c 1 g 3 c 1 h 1 g 1
+b 3 c 2 b 1 d 3 e 2 f 1 e 5 g 1 c 4 h 1 g 1
+b 4 d 1 e 2 f 1 e 5 g 1 c 1 h 2 g 2
+d 1 e 3 d 5 g 1 h 1 g 2
+d 4 g 1

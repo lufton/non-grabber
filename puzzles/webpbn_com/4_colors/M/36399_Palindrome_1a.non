@@ -1,0 +1,72 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb  4, 2023"
+description "2 words, 8 letters. (version number should not change just with added text info)"
+difficulty 1.5
+height 26
+id 36399
+link "https://webpbn.com/play.cgi?id=36399"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Palindrome 1a"
+width 24
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 2 blue 1 black 4 blue 1 black 2
+black 4 blue 1 black 2 blue 1 black 4
+black 4 red 1 black 2 red 1 black 4
+black 4 black 8 black 4
+black 4 black 2 red 4 black 2 black 4
+black 4 black 1 red 2 black 2 red 2 black 1 black 4
+black 4 black 1 red 1 black 4 red 1 black 1 black 4
+black 4 black 4 black 4
+black 4 black 4 black 4
+black 20
+black 20
+black 16
+black 16
+black 8
+black 8
+black 8
+black 8
+black 12
+black 12
+black 4 black 4
+black 4 black 4
+black 4 black 4
+black 4 black 4
+black 6 black 6
+black 6 black 6
+
+columns
+black 6
+black 6
+black 8
+black 8
+black 4 black 2
+black 4 black 2
+black 4 black 4 black 8
+black 4 black 4 black 8
+black 6 black 16
+blue 1 black 4 red 2 black 16
+black 1 blue 1 red 1 black 1 red 2 black 13
+black 4 red 1 black 14
+black 4 red 1 black 14
+black 1 blue 1 red 1 black 1 red 2 black 13
+blue 1 black 4 red 2 black 16
+black 6 black 16
+black 4 black 4 black 8
+black 4 black 4 black 8
+black 4 black 2
+black 4 black 2
+black 8
+black 8
+black 6
+black 6

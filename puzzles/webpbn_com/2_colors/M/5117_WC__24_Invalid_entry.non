@@ -1,0 +1,57 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Jota"
+date "Feb 21, 2009"
+description "WOT Pattern"
+difficulty 1.25
+height 20
+id 5117
+link "https://webpbn.com/play.cgi?id=5117"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "WC # 24 Invalid entry"
+width 20
+
+rows
+2,2,9
+2,2,1,1,1,1,1
+2,2,2,9
+2,2,2,1,1,1,1,1
+8,9
+1,1,1,1,1
+8
+8,1,1,1,1,1
+2,2
+2,2,1,1,1,1,1
+2,2,9
+8,1,1,1,1,1
+8,9
+1,1,1,1,1
+8,9
+8,1,1,1,1,1
+2
+2,1,1,1,1,1
+2
+2,1,1,1,1,1
+
+columns
+5,7,2
+5,7,2
+1,2,2,2
+3,2,2,6
+3,2,2,6
+1,2,2,2
+5,7,2
+5,7,2
+0
+0
+6,1,7,1,1
+1,1,1,1,1,1
+6,1,7,1,1
+1,1,1,1,1,1
+6,1,7,1,1
+1,1,1,1,1,1
+6,1,7,1,1
+1,1,1,1,1,1
+6,1,7,1,1
+0

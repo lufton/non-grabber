@@ -1,0 +1,61 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marie-Louise Ambrey"
+date "Oct 31, 2008"
+description "Introducing the Slushy, a nasty little monster that likes it when you forget to put on underarm deodorant. It gets in your arm pits and starts salvitating excessivly, you will get damp patches on your shirts and it smells quite funky. Other people will try to avoid you, it is just terrible. BEWARE!!! Thankyou Sylvain for this one :)"
+difficulty 2.25
+height 20
+id 3920
+link "https://webpbn.com/play.cgi?id=3920"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Lil' Monster #4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 2 red 2 black 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 3 black 3 red 1 black 1
+black 2 black 1 red 1 black 1 black 1 black 1 red 2 black 2
+black 2 black 1 black 5 black 5
+black 4 black 2 black 2
+black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 9 black 2
+black 5 black 1
+red 3 red 3 black 3 black 2
+red 4 red 5 black 1 black 1
+red 4 red 3 black 1 red 2 black 2 black 2
+red 3 red 3 black 1 black 3 black 1
+red 2 red 3 black 10
+red 3 red 4 black 9
+red 7 black 9
+red 5 black 1 black 5 black 2
+red 3 black 3 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1
+black 3 black 2 black 2 black 2
+
+columns
+black 2 red 5
+black 4 red 7
+black 1 black 3 red 4 red 4
+black 3 red 3 red 3
+red 2 red 4
+black 3 red 4
+black 2 red 2 black 1 red 4
+black 1 red 1 black 3 red 4 black 3
+black 1 red 1 black 1 black 1 black 2 red 3 black 3
+black 4 black 1 red 3 black 1 black 1
+black 2 black 2 red 2 black 3 black 2
+black 4 red 3 black 3
+black 2 red 2 black 4 black 1
+black 5 black 7
+black 2 black 10
+black 4 black 1 black 1 black 9
+black 1 black 1 red 1 black 1 black 2 black 5 black 1
+black 3 red 1 black 1 black 3
+black 1 red 2 black 2 black 1 black 1 black 1 black 4 black 1
+black 3 black 14

@@ -1,0 +1,57 @@
+by "Sydney Miller (mrsteran)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Sydney Miller"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.5
+height 20
+id 26765
+link "https://webpbn.com/play.cgi?id=26765"
+note "published,may be unique,may require deep lookahead"
+quality 2.75
+title "Platform ..."
+width 20
+
+rows
+2
+4
+1,2
+4,2
+6,2,1
+2,2,2,2
+2,2,1,2,2
+2,2,4,2
+7,2,2
+6,2
+2,2
+2,2,3
+2,2,2,4
+5,2,2,2
+3,2,1,2
+2,2
+7
+2
+2
+2
+
+columns
+0
+3
+5,2
+2,2,3
+2,2,2
+2,2,2
+2,2,2
+9
+7
+1
+2,2,2
+2,2,2
+2,1,2,2
+7,2,2
+2,2,2,4
+2,2,1
+2,2,1
+2,9
+2,9
+2,1

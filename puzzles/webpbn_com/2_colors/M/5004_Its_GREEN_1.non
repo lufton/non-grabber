@@ -1,0 +1,57 @@
+by "Mara Alconea (alconea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Mara Alconea"
+date "Feb 11, 2009"
+description "Seventeen Green Squares"
+difficulty 2.0
+height 20
+id 5004
+link "https://webpbn.com/play.cgi?id=5004"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "It's GREEN #1"
+width 20
+
+rows
+2,3
+2,3,3
+3,3,3
+4,3,3
+4,6,3
+4,2,6
+4,2,6,4
+6,4
+4,6,4
+4,6,4
+2,4
+2,4,5
+5,5
+4,5,5
+4,5,5
+4,5,5
+4,5
+3,2
+2,3,2,2
+2,3,2
+
+columns
+2,4,2
+2,4,2,2
+4,4,2
+4,4,4
+4,4
+3,2,4,4
+3,2,4
+3,3
+6,3
+6,5,3
+6,5
+6,5
+3,6,5,2
+3,6,5,2
+3
+4,5
+4,5
+3,4,5,2
+3,4,5,2
+3,5

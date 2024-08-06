@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Apr  9, 2010"
+description "My first reversal."
+difficulty 1.5
+height 20
+id 8313
+link "https://webpbn.com/play.cgi?id=8313"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Gato"
+width 20
+
+rows
+20
+1,16
+1,3,12
+1,3,1,1,3,4
+1,1,2,4,2
+5,1,2,3,1
+10,2,1
+12
+11,1
+9,3
+7,3
+6,4
+2,2,4
+1,2,5
+3,5
+2,1,5
+1,1,5
+1,2,5
+3,5
+2,7,4
+
+columns
+14,1
+1,8,4,1
+1,2,7,3
+1,2,10
+13
+2,6
+2,1,6
+2,4,1
+10,1
+3,5,1
+3,2,2
+3,4,3
+7,5
+6,1
+5
+3,6
+4,9
+4,11
+5,1,11
+6,12

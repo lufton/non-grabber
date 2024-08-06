@@ -1,0 +1,72 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Joe"
+date "Dec 17, 2012"
+description "Yet another American flag, hopefully a bit more challenging than most."
+difficulty 3.0
+height 40
+id 20633
+link "https://webpbn.com/play.cgi?id=20633"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 4.0
+title "I need a breeze"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1
+blue 1 black 1
+blue 1 black 1
+blue 3
+blue 3
+blue 1 blue 1
+blue 3
+blue 2
+blue 2 blue 1
+blue 3
+red 1 blue 2
+red 2 blue 1
+red 2
+red 1 red 2
+red 2 red 2
+red 3 red 2
+red 3 red 1
+red 1 red 3 red 1
+red 2 red 2
+red 3 red 2
+red 3 red 2
+red 3 red 2
+red 4 red 1
+red 1 red 3 red 1
+red 1 red 3
+red 4
+red 5
+red 3 red 2
+red 2 red 2
+red 1 red 3
+red 2 red 3
+red 1 red 3
+red 3 black 1
+red 3 black 2
+red 2 black 2
+red 2 black 2
+red 1 black 2
+red 2 black 2
+red 1 black 2
+
+columns
+red 2
+red 3 red 1 red 2 red 3
+red 3 red 6 red 4 red 3
+red 2 red 3 red 4 red 3 red 3
+blue 4 blue 1 red 2 red 3 red 8 red 3
+blue 4 blue 4 red 2 red 3 red 5 red 3 black 6
+black 4 blue 5 blue 2 red 2 red 3 red 4 red 3 black 7
+blue 4 red 2 red 3 red 6
+red 3 red 4 red 3
+0

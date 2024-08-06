@@ -1,0 +1,75 @@
+by "vpgrid"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/15/23"
+height 26
+id 267224
+link "https://www.griddlers.net/nonogram/-/g/267224"
+medium_time "0:13:14"
+points 18926
+popularity 84.42
+title "kitten"
+width 26
+
+color a FFFFFF
+color b 000000
+color c ff0000
+color e FFDAB9
+color f 87CEEB
+color g FF69B4
+
+rows
+b 4 b 4
+b 1 f 4 b 1 b 1 f 4 b 1
+b 1 f 2 g 2 f 2 b 1 b 1 f 2 g 2 f 2 b 1
+b 1 f 1 g 4 f 1 b 7 f 1 g 4 f 1 b 1
+b 1 f 1 g 4 b 1 f 7 b 1 g 4 f 1 b 1
+b 1 f 1 g 1 b 1 f 11 b 1 g 1 f 1 b 1
+b 1 f 15 b 1
+b 1 f 4 b 7 f 4 b 1
+b 1 f 3 b 2 e 7 b 2 f 3 b 1
+b 1 f 2 b 1 e 11 b 1 f 2 b 1
+b 1 f 1 b 1 e 13 b 1 f 1 b 1
+b 1 f 1 b 2 e 11 b 2 f 1 b 1
+b 1 f 1 b 1 e 2 b 2 e 5 b 2 e 2 b 1 f 1 b 1
+b 1 f 1 b 2 e 1 b 1 e 3 c 1 e 3 b 1 e 1 b 2 f 1 b 1
+b 2 e 13 b 2
+b 2 e 11 b 2
+b 2 e 7 b 2
+b 1 e 2 b 7 e 2 b 1
+b 2 b 1 e 3 b 1 f 5 b 1 e 3 b 1
+b 1 f 2 b 1 b 1 e 3 b 1 f 7 b 1 e 3 b 1
+b 1 f 1 b 2 f 1 b 3 e 3 b 1 f 7 b 1 e 3 b 1
+b 1 b 1 f 2 b 1 e 2 b 2 f 7 b 2 e 2 b 1
+b 5 e 2 b 1 f 5 b 1 e 2 b 3
+b 1 e 3 b 1 f 3 b 1 e 3 b 1
+b 1 e 3 b 5 e 3 b 1
+b 4 b 4
+
+columns
+b 1
+b 1 f 1 b 1
+b 1 f 1 b 1
+b 1 f 1 b 1
+b 1 f 1 b 1
+b 3 b 1 f 1 b 1
+b 1 f 3 b 1 b 6 b 1 f 1 b 1
+b 1 f 2 g 2 f 1 b 2 f 6 b 1 b 4
+b 1 f 1 g 4 f 4 b 6 b 1 e 3 b 1
+b 1 f 1 g 3 b 1 f 3 b 1 e 1 b 1 e 1 b 1 e 1 b 1 b 1 e 4 b 3
+b 1 f 2 g 2 f 3 b 1 e 7 b 1 e 4 b 1 e 3 b 1
+b 1 f 2 b 1 f 3 b 1 e 3 b 2 e 2 b 1 e 2 b 3 e 3 b 1
+b 2 f 3 b 1 e 4 b 1 e 4 b 2 f 3 b 1 e 2 b 1
+b 1 f 3 b 1 e 9 b 1 f 5 b 3
+b 1 f 3 b 1 e 9 b 1 f 6 b 1
+b 1 f 3 b 1 e 5 c 1 e 3 b 1 f 6 b 1
+b 1 f 3 b 1 e 9 b 1 f 6 b 1
+b 1 f 3 b 1 e 9 b 1 f 5 b 3
+b 2 f 3 b 1 e 4 b 1 e 4 b 2 f 3 b 1 e 2 b 1
+b 1 f 2 b 1 f 3 b 1 e 3 b 2 e 2 b 1 e 2 b 3 e 3 b 1
+b 1 f 2 g 2 f 3 b 1 e 7 b 1 e 4 b 1 e 3 b 1
+b 1 f 1 g 3 b 1 f 3 b 1 e 1 b 1 e 1 b 1 e 1 b 1 b 1 e 4 b 3
+b 1 f 1 g 4 f 4 b 6 b 1 e 3 b 1
+b 1 f 2 g 2 f 1 b 2 f 6 b 1 b 4
+b 1 f 3 b 1 b 6
+b 3

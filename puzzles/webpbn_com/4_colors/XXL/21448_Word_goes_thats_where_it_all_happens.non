@@ -1,0 +1,127 @@
+by "Freek Kuipers (fkuipers)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Freek Kuipers"
+date "Mar 23, 2013"
+description "Has anyone else posted the coat of arms of Amsterdam before?"
+difficulty 2.25
+height 60
+id 21448
+link "https://webpbn.com/play.cgi?id=21448"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Word goes that's where it all happens"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 45
+black 1 red 14 black 15 red 14 black 1
+black 1 red 14 black 3 black 7 black 3 red 14 black 1
+black 1 red 14 black 2 black 5 black 2 red 14 black 1
+black 1 red 14 black 3 black 3 black 3 red 14 black 1
+black 1 red 14 black 4 black 1 black 4 red 14 black 1
+black 1 red 14 black 5 black 5 red 14 black 1
+black 1 red 14 black 6 black 6 red 14 black 1
+black 1 red 14 black 5 black 5 red 14 black 1
+black 1 red 14 black 4 black 1 black 4 red 14 black 1
+black 1 red 14 black 3 black 3 black 3 red 14 black 1
+black 1 red 14 black 2 black 5 black 2 red 14 black 1
+black 1 red 14 black 3 black 7 black 3 red 14 black 1
+black 1 red 14 black 15 red 14 black 1
+black 1 red 14 black 15 red 14 black 1
+black 1 red 14 black 15 red 14 black 1
+black 1 red 14 black 3 black 7 black 3 red 14 black 1
+black 1 red 14 black 2 black 5 black 2 red 14 black 1
+black 1 red 14 black 3 black 3 black 3 red 14 black 1
+black 1 red 14 black 4 black 1 black 4 red 14 black 1
+black 1 red 14 black 5 black 5 red 14 black 1
+black 1 red 14 black 6 black 6 red 14 black 1
+black 1 red 14 black 5 black 5 red 14 black 1
+black 1 red 14 black 4 black 1 black 4 red 14 black 1
+black 1 red 14 black 3 black 3 black 3 red 14 black 1
+black 1 red 14 black 2 black 5 black 2 red 14 black 1
+black 1 red 14 black 3 black 7 black 3 red 14 black 1
+black 1 red 14 black 15 red 14 black 1
+black 1 red 14 black 15 red 14 black 1
+black 1 red 14 black 15 red 14 black 1
+black 1 red 14 black 3 black 7 black 3 red 14 black 1
+black 1 red 14 black 2 black 5 black 2 red 14 black 1
+black 1 red 14 black 3 black 3 black 3 red 14 black 1
+black 1 red 14 black 4 black 1 black 4 red 14 black 1
+black 1 red 14 black 5 black 5 red 14 black 1
+black 1 red 14 black 6 black 6 red 14 black 1
+black 1 red 13 black 5 black 5 red 13 black 1
+black 1 red 13 black 4 black 1 black 4 red 13 black 1
+black 1 red 12 black 3 black 3 black 3 red 12 black 1
+black 1 red 12 black 2 black 5 black 2 red 12 black 1
+black 1 red 11 black 3 black 7 black 3 red 11 black 1
+green 1 black 1 red 10 black 15 red 10 black 1 green 1
+green 1 black 2 red 8 black 15 red 8 black 2 green 1
+green 3 black 2 red 6 black 15 red 6 black 2 green 3
+green 2 black 2 red 4 black 15 red 4 black 2 green 2
+green 3 black 3 red 1 black 15 red 1 black 3 green 3
+green 2 black 17 green 2
+green 2 black 11 green 2
+green 4 green 4
+green 13 green 13
+green 2 green 31 green 3
+green 2 green 2
+green 1
+black 2 black 1 black 1 black 4 black 3 black 4 black 3 black 3 black 2 black 1 black 1
+black 3 black 2 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 4 black 1 black 3 black 3 black 1 black 1 black 2 black 1 black 1 black 1
+black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 4 black 1 black 4 black 1 black 1 black 3 black 1 black 1 black 1 black 1
+
+columns
+black 36 green 3 green 2 black 4
+black 1 red 35 black 2 green 2 green 3 black 4
+black 1 red 37 black 2 green 3 green 2 black 2 black 1
+black 1 red 39 black 1 green 2 green 1 black 7
+black 1 red 40 black 1 green 5
+black 1 red 41 black 1 green 3 black 7
+black 1 red 41 black 1 green 2 black 1
+black 1 red 42 black 1 green 3 black 1
+black 1 red 42 black 1 green 2 black 1
+black 1 red 43 black 1 green 2 black 7
+black 1 red 43 black 1 green 2
+black 1 red 44 black 1 green 2 black 4 black 1
+black 1 red 44 black 1 green 2 black 1 black 1 black 1
+black 1 red 44 black 1 green 2 black 1 black 1 black 1
+black 1 red 45 black 1 green 1 black 1 black 4
+black 47 green 1
+black 47 green 1 black 1
+black 3 black 7 black 5 black 7 black 5 black 7 black 8 green 1 black 7
+black 2 black 5 black 3 black 5 black 3 black 5 black 7 green 1 black 1
+black 3 black 3 black 5 black 3 black 5 black 3 black 8 green 1
+black 4 black 1 black 7 black 1 black 7 black 1 black 9 green 1 black 7
+black 5 black 9 black 9 black 10 green 1 black 1 black 1 black 1
+black 6 black 11 black 11 black 11 green 1 black 1 black 1 black 1
+black 5 black 9 black 9 black 10 green 1 black 1 black 1
+black 4 black 1 black 7 black 1 black 7 black 1 black 9 green 1
+black 3 black 3 black 5 black 3 black 5 black 3 black 8 green 1 black 7
+black 2 black 5 black 3 black 5 black 3 black 5 black 7 green 1 black 1 black 1
+black 3 black 7 black 5 black 7 black 5 black 7 black 8 green 1 black 1 black 2
+black 47 green 1 black 2 black 2
+black 47 green 1
+black 1 red 45 black 1 green 1 black 7
+black 1 red 44 black 1 green 2 black 1 black 1
+black 1 red 44 black 1 green 2 black 1 black 1
+black 1 red 44 black 1 green 2 black 5
+black 1 red 43 black 1 green 2
+black 1 red 43 black 1 green 2 black 4
+black 1 red 42 black 1 green 2 black 4
+black 1 red 42 black 1 green 3 black 2 black 1
+black 1 red 41 black 1 green 2 black 7
+black 1 red 41 black 1 green 3
+black 1 red 40 black 1 green 5 black 7
+black 1 red 39 black 1 green 2 green 1 black 1
+black 1 red 37 black 2 green 3 green 2 black 1
+black 1 red 35 black 2 green 2 green 3 black 1
+black 36 green 3 green 2 black 7

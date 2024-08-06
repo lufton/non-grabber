@@ -1,0 +1,63 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Ron Jacobson"
+date "Jul 29, 2014"
+description "... on a hot day than running through the sprinkler!"
+difficulty 3.0
+height 20
+id 25093
+link "https://webpbn.com/play.cgi?id=25093"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "Not much better..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 2
+blue 1 blue 1 blue 1
+blue 1 blue 2
+blue 1 blue 2
+blue 1 red 1 blue 2
+blue 1 red 1 blue 1 blue 2
+black 2 red 1 red 1 blue 2 blue 1
+black 3 blue 1 blue 2
+black 4 blue 1 blue 2
+blue 1 black 2 blue 2 blue 2
+blue 1 green 2 blue 2 blue 1
+blue 1 green 2 blue 1 blue 2
+blue 1 green 1 green 1 blue 1 blue 2
+blue 1 green 2 green 2 blue 2
+blue 1 green 1 green 2 blue 2
+blue 1 green 2 black 2 green 3
+blue 1 green 4 black 2
+blue 1
+blue 1
+blue 1
+
+columns
+blue 6 black 3 blue 11
+black 3
+red 1 red 1 black 3 green 1
+red 1 black 2 green 2
+red 1 green 3
+green 3
+green 2
+green 1
+green 1
+green 1
+black 2
+green 2 black 2
+green 4
+blue 9 green 1
+blue 3 blue 2 blue 2 green 1
+blue 2 blue 1 blue 1
+blue 2 blue 2 blue 2
+blue 2 blue 2 blue 2
+blue 1 blue 1 blue 1
+blue 2 blue 1 blue 1

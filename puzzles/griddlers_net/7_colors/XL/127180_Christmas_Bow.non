@@ -1,0 +1,88 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/27/12"
+height 32
+id 127180
+link "https://www.griddlers.net/nonogram/-/g/127180"
+medium_time "0:19:12"
+points 57950
+popularity 82.35
+title "Christmas Bow"
+width 32
+
+color a 99ccff
+color b 660000
+color c ff0033
+color d ff6666
+color e ff0000
+color f ffffff
+color g cc0000
+
+rows
+b 6
+b 1 c 4 d 2 b 1
+b 1 e 1 c 2 f 1 c 1 d 1 b 1
+b 1 e 3 f 3 d 2 b 1
+b 1 e 4 f 1 c 2 d 2 b 1
+b 1 e 6 c 3 d 2 b 1
+b 1 e 7 c 3 d 2 b 1
+b 1 e 7 c 1 b 3 d 1 b 1
+b 1 e 2 f 1 e 3 b 2 c 3 b 2
+b 1 e 5 b 1 c 2 f 1 c 3 b 1
+b 7 b 2 e 3 b 1 c 6 b 1
+b 2 e 7 b 4 c 2 b 1 e 1 b 1 c 5 b 2
+b 2 c 1 e 9 f 1 g 1 b 1 c 2 b 2 c 3 b 3
+b 1 c 4 f 1 e 6 f 3 g 1 b 3 c 1 e 1 b 2
+b 1 c 4 f 3 e 6 f 1 g 1 b 1 c 1 b 2 e 3 b 1
+b 1 d 3 c 2 f 1 c 1 e 2 f 1 e 3 b 2 c 1 b 1 e 1 b 1 e 4 b 1
+b 2 d 2 c 4 e 3 b 2 c 3 b 1 e 1 b 1 e 1 f 1 e 2 b 1
+b 1 d 2 c 4 b 2 c 4 b 1 e 2 b 1 f 3 e 2 b 1
+b 1 d 2 c 2 b 1 c 5 b 1 e 4 b 1 f 1 e 3 b 1
+b 1 d 2 b 1 c 6 b 1 e 1 f 1 e 2 b 1 e 5 b 1
+b 1 d 1 b 1 c 1 f 1 c 2 b 2 c 1 e 4 b 1 c 1 e 4 b 1
+b 1 c 3 b 3 c 2 e 4 b 1 c 1 e 3 f 1 e 1 b 1
+b 3 b 1 c 2 e 4 b 1 c 1 e 6 b 1
+b 1 c 2 e 1 f 1 e 3 b 1 c 2 e 5 b 1
+b 1 c 2 f 3 e 2 b 1 c 2 e 6 b 1
+b 1 c 3 e 1 f 1 e 3 b 1 c 2 f 1 e 5 b 1
+b 1 c 2 e 6 b 1 c 1 f 3 e 5 b 1
+b 1 c 2 e 6 b 1 c 3 f 1 e 6 b 1
+b 1 c 3 e 6 b 1 c 4 e 7 b 1
+b 1 c 3 e 7 b 1 c 4 e 3 b 4
+b 1 c 2 e 2 f 1 e 5 b 8
+b 10
+
+columns
+b 2
+b 1 c 1 d 1 b 1
+b 1 c 2 d 1 b 1
+b 1 c 2 d 2 b 1
+b 1 c 4 d 2 b 1
+b 1 e 1 c 1 f 1 c 2 d 2 b 1
+b 1 e 2 f 3 c 2 d 2 b 1
+b 1 e 3 f 1 c 4 d 2 b 1
+b 1 e 5 c 3 b 2 c 1 b 1 b 2
+b 1 e 6 c 1 b 1 c 3 b 1 b 1 c 2 b 1
+b 1 e 4 f 1 e 1 b 1 c 2 f 1 c 1 b 1 b 1 c 3 b 1
+b 1 e 6 b 1 c 3 b 1 b 2 c 3 e 1 b 1
+b 1 e 5 b 1 c 4 b 1 b 2 c 4 e 2 b 1
+b 1 e 1 f 1 e 2 b 1 c 3 b 3 c 4 e 3 f 1 b 1
+b 1 f 3 b 1 c 4 b 1 c 5 e 5 b 1
+b 1 g 1 f 1 g 1 b 1 c 2 b 2 c 3 e 1 f 1 e 6 b 1
+b 2 g 1 b 1 c 2 b 1 e 5 f 3 e 5 b 1
+b 6 c 2 b 1 c 1 b 2 e 2 f 1 e 4 f 1 e 6 b 1
+b 2 e 5 b 1 c 2 b 2 e 16 b 1
+b 2 e 8 b 7 e 9 b 4
+b 1 c 1 e 6 f 1 e 3 b 1 c 1 e 3 f 1 b 9 c 3 b 1
+b 1 c 2 e 8 b 1 c 1 e 3 f 3 e 1 c 10 b 1
+b 1 c 2 f 1 e 6 b 1 c 2 b 1 e 3 f 1 e 5 c 3 f 1 c 3 b 1
+b 1 c 1 f 3 e 4 b 1 c 3 b 2 e 10 f 3 c 2 b 1
+b 1 d 1 c 1 f 1 c 2 e 2 b 1 c 3 b 1 b 2 e 9 f 1 e 3 b 1
+b 1 d 3 c 4 b 1 c 3 b 1 b 2 e 2 f 1 e 8 b 1
+b 2 d 2 c 2 b 1 c 1 f 1 c 2 b 1 b 2 e 9 b 1
+b 1 d 2 c 1 b 1 c 3 b 1 b 1 e 7 b 1
+b 1 d 2 b 1 c 3 b 1 b 2 e 5 b 1
+b 1 d 2 b 1 c 1 b 1 b 2 e 3 b 1
+b 4 b 2 e 1 b 1
+b 1

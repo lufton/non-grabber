@@ -1,0 +1,87 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb  8, 2023"
+description "It's quite possible you may figure this one when it's only half filled in. That's sort of my hope, as a change of pace!"
+difficulty 1.5
+height 15
+id 36423
+link "https://webpbn.com/play.cgi?id=36423"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Palindrome 4a"
+width 55
+
+rows
+0
+3,1,1,4,3,3,3,1,1,2,2,2,3
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,1,1,1,2,1,1,3,3,3,2,2,2,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,4,3,1,3,1,1,1,1,1,1,2,3
+0
+55
+0
+3,3,3,3,3,3,1,3,3,3
+1,1,1,1,1,1,1,1,1,1,1,1
+3,1,1,1,1,3,1,1,1,1,1,3
+1,1,1,1,1,1,1,1,1,1,1,1
+1,3,1,3,1,1,3,3,1,1,1,3
+0
+
+columns
+1,1
+1
+5,1,1,3
+1,1,1,1,1,1
+5,1,3,1
+1
+4,1,1
+1,1,1
+4,1,5
+1
+5,1,5
+1,1,1,1,1
+1,1,1,1,5
+1,3,1
+1
+1
+1,1
+1
+5,1,1
+1,1,1,1
+5,1,5
+1
+5,1,3,1
+1,1,1,1,1,1
+3,1,1,3
+1
+3,1,1,5
+1,1,1,1,1,1
+1,3,1,5
+1
+1
+1
+5,1
+1,1,5
+5,1
+1
+5,1,1
+1,1,1,1
+1,2,1,5
+1
+1
+1
+5,1
+1,1,1
+1,2,1,1
+1,1
+5,1,5
+1,1,1,1
+1,1,1,1,3
+1,1,1,1
+1,1,1,3,1
+5,1
+1,1,1
+1
+1

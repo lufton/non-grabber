@@ -1,0 +1,40 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/19/18"
+height 8
+id 188392
+link "https://www.griddlers.net/nonogram/-/g/188392"
+medium_time "0:01:06"
+points 101
+popularity 51.95
+title "Boba Fett"
+width 7
+
+color a ffffff
+color b 000000
+color c 026f2e
+color d 828a95
+color e 7b2238
+color f a93133
+color g ed8e22
+color h 383d50
+
+rows
+b 2 c 3
+d 1 c 1 b 3 c 1
+d 1 c 1 e 1 b 1 e 1 c 1
+d 1 c 1 e 1 b 1 e 1 c 1
+g 1 c 3 g 1
+d 2 h 3 d 2
+f 5
+h 1 h 1
+
+columns
+b 1 d 3 d 1
+b 1 c 3 g 1 d 1 f 1 h 1
+c 1 b 1 e 2 c 1 h 1 f 1
+c 1 b 3 c 1 h 1 f 1
+c 1 b 1 e 2 c 1 h 1 f 1
+c 3 g 1 d 1 f 1 h 1
+d 1

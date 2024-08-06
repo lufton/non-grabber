@@ -1,0 +1,48 @@
+by "skybreezes"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/9/07"
+height 19
+id 53034
+link "https://www.griddlers.net/nonogram/-/g/53034"
+medium_time "0:00:57"
+points 260
+popularity 63.52
+title "Lighthouse"
+width 8
+
+color a ffffff
+color b 000000
+color c 0033cc
+color d 999999
+
+rows
+c 2
+c 4
+d 4
+d 2 b 1 d 1
+c 4
+c 4
+d 4
+d 2 b 1 d 1
+c 4
+c 4
+d 4
+d 2 b 1 d 1
+c 6
+c 6
+d 2 b 2 d 2
+d 2 b 2 d 2
+c 6
+c 6
+c 8
+
+columns
+c 1
+c 2 d 2 c 3
+c 1 d 2 c 2 d 2 c 2 d 2 c 2 d 2 c 3
+c 2 d 2 c 2 d 2 c 2 d 2 c 2 b 2 c 3
+c 2 d 1 b 1 c 2 d 1 b 1 c 2 d 1 b 1 c 2 b 2 c 3
+c 1 d 2 c 2 d 2 c 2 d 2 c 2 d 2 c 3
+c 2 d 2 c 3
+c 1

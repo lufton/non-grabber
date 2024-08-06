@@ -1,0 +1,48 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/19/16"
+height 15
+id 170308
+link "https://www.griddlers.net/nonogram/-/g/170308"
+medium_time "0:04:13"
+points 264
+popularity 77.17
+title "Safety Pins"
+width 13
+
+color a ffffff
+color b 006699
+color c b3ccff
+
+rows
+b 2 b 2
+b 4 b 1 b 1
+b 2 b 3 c 1 b 2 c 1
+b 2 b 3 c 1 c 1
+c 1 b 4 c 1 c 1
+c 1 b 2 c 1 c 1
+c 1 c 1 c 1 c 1
+c 1 c 1 c 1 c 1
+c 1 c 1 c 1 c 1
+c 1 c 1 c 1 b 2
+c 1 c 1 c 1 b 4
+c 1 c 1 b 2 b 3
+c 1 b 2 c 1 b 2 b 3
+b 1 b 1 b 4
+b 2 b 2
+
+columns
+b 2 c 9
+b 3 b 1
+b 2 b 1 b 1 b 1
+b 5 b 1 b 1
+b 5 b 1
+b 4 c 7
+0
+c 9 b 2
+b 1 b 3
+b 1 b 1 b 1 b 2
+b 1 b 1 b 5
+b 1 b 5
+c 7 b 4

@@ -1,0 +1,53 @@
+by "Maedhros"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/3/11"
+height 16
+id 107482
+link "https://www.griddlers.net/nonogram/-/g/107482"
+medium_time "0:11:58"
+points 6946
+popularity 51.89
+title "Link to the Past: Dungeon Map"
+width 16
+
+color a ffffff
+color b 000000
+color c b3a402
+color d ffff00
+
+rows
+b 4
+b 1 c 1 d 3 b 1
+b 1 c 1 d 2 d 1 b 1 b 2
+b 1 c 1 d 2 b 2 d 1 b 1
+b 1 c 1 d 3 b 3 d 1 b 1
+b 1 c 1 d 2 b 1 c 1 d 1 c 1 b 1 d 1 b 1
+b 1 c 1 d 3 b 1 c 1 d 1 d 1 c 1 d 1 b 1
+b 1 c 1 d 1 b 1 c 1 d 1 d 2 b 1
+b 1 c 1 d 3 b 1 c 1 d 1 d 1 b 1
+b 1 c 1 d 1 b 1 c 1 d 1 c 1 d 2 b 1
+b 1 c 1 d 2 b 1 c 1 d 1 d 1 b 1
+b 1 d 1 b 2 d 1 b 1 c 2 d 2 b 1
+b 1 d 1 b 1 b 1 c 1 d 1 d 2 b 1
+b 1 c 1 d 1 b 2 d 2 d 2 b 1
+b 1 c 1 d 6 b 2
+b 7
+
+columns
+b 4
+b 2 c 1 d 2 c 1 b 1
+b 3 c 2 d 1 b 2 d 1 c 1 b 1
+b 3 c 3 d 3 b 1 b 1 d 1 b 1
+b 1 c 3 d 4 d 1 b 1 d 1 b 1
+b 1 c 1 d 5 d 1 b 1 d 2 b 1
+b 1 d 4 d 1 b 2 c 1 d 2 b 1
+b 1 d 1 d 1 b 2 c 2 d 1 d 1 b 1
+b 1 d 1 b 2 c 2 d 1 c 1 d 1 b 1
+b 1 d 1 b 1 c 2 d 2 d 1 b 1
+b 3 c 1 d 2 c 1 d 2 b 1
+b 2 d 1 d 2 b 1
+b 1 b 1 c 1 d 1 d 3 b 1
+b 1 d 1 b 1 c 1 d 3 b 2
+b 1 d 4 b 2
+b 4

@@ -1,0 +1,46 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun  9, 2010"
+description "then bite! :P"
+difficulty 1.25
+height 13
+id 9114
+link "https://webpbn.com/play.cgi?id=9114"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "lQQk first;"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2
+green 1
+red 2 green 1 red 1
+red 8
+red 9
+red 7 red 2
+red 11
+red 11
+red 11
+red 3 black 2 red 6
+black 3 red 7
+black 2 red 3 red 3
+red 5
+
+columns
+red 5 black 1
+red 6 black 2
+red 7 black 1 red 1
+red 7 black 2 red 2
+red 7 black 1 red 3
+green 1 red 8 red 1
+green 3 red 8 red 1
+red 3 red 7
+red 2 red 6
+red 9
+red 6

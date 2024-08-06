@@ -1,0 +1,57 @@
+by "gridmaster"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/17/12"
+height 20
+id 128049
+link "https://www.griddlers.net/nonogram/-/g/128049"
+medium_time "0:04:32"
+points 2519
+popularity 64.16
+title "Toxic Barrel"
+width 15
+
+color a cccccc
+color b 66ff33
+color c 666666
+color d ffffff
+color e 00d700
+
+rows
+d 3 c 9 d 3
+d 1 c 4 e 3 b 2 c 4 d 1
+c 3 b 2 e 2 b 1 e 1 b 2 e 1 c 3
+c 2 e 1 b 5 e 1 b 1 e 3 c 2
+c 2 e 4 b 4 e 2 b 1 c 2
+c 3 e 2 b 2 e 1 b 1 e 3 c 3
+c 5 e 5 c 5
+c 1 c 11 c 1
+c 1 c 1
+c 1 c 5 c 1
+c 1 c 1 e 3 c 1 c 1
+c 1 c 1 e 1 c 1 c 1
+c 1 c 1 c 1
+c 1 c 2 c 2 c 1
+c 1 c 2 e 1 c 1 c 1 e 1 c 2 c 1
+c 1 c 1 e 1 c 2 c 2 e 1 c 1 c 1
+c 2 c 2 c 2 c 2
+d 1 c 2 c 2 d 1
+d 2 c 2 c 2 d 2
+d 3 c 9 d 3
+
+columns
+d 2 c 15 d 3
+d 1 c 6 c 2 d 2
+d 1 c 2 e 2 c 3 c 2 d 1
+c 2 b 2 e 2 c 2 c 2 c 2
+c 2 b 2 e 2 c 2 c 2 e 1 c 1 c 1
+c 1 e 2 b 1 e 1 b 1 e 1 c 1 c 2 c 1 e 1 c 2 c 1
+c 1 e 2 b 3 e 1 c 1 c 1 e 1 c 1 c 2 c 1
+c 1 e 1 b 3 e 2 c 1 c 1 e 2 c 1 c 1
+c 1 b 1 e 2 b 2 e 1 c 1 c 1 e 1 c 1 c 2 c 1
+c 1 b 4 e 2 c 1 c 2 c 1 e 1 c 2 c 1
+c 2 b 1 e 3 c 2 c 2 e 1 c 1 c 1
+c 2 e 4 c 2 c 2 c 2
+d 1 c 2 e 1 b 1 c 3 c 2 d 1
+d 1 c 6 c 2 d 2
+d 2 c 15 d 3

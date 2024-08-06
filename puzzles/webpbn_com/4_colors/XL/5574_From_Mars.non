@@ -1,0 +1,102 @@
+by "jaume pons viscarri (jponsv)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by jaume pons viscarri"
+date "Apr 10, 2009"
+description "Me in green"
+difficulty 2.0
+height 40
+id 5574
+link "https://webpbn.com/play.cgi?id=5574"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "From Mars?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 18 black 1 green 19
+red 17 black 1 green 20
+red 16 black 1 green 21
+red 16 black 1 green 21
+red 15 black 1 green 22
+red 14 black 1 green 23
+red 14 black 5 green 19
+red 13 black 1 green 5 black 1 green 18
+red 12 black 1 green 3 black 2 green 20
+red 11 black 1 green 3 black 2 black 1 green 19
+red 10 black 1 green 4 black 2 black 1 green 10 black 3 green 5
+red 9 black 1 green 6 black 3 green 10 black 1 green 2 black 1 green 5
+red 8 black 1 green 19 black 1 green 3 black 1 green 5
+red 7 black 1 green 22 black 1 green 1 black 1 green 5
+red 6 black 1 green 23 black 1 green 1 black 1 green 5
+red 5 black 1 green 24 black 1 green 1 black 1 green 5
+red 5 black 1 green 6 black 2 green 19 black 1 green 5
+red 4 black 1 green 5 black 1 green 1 black 1 green 15 black 4 green 6
+red 4 black 1 green 3 black 2 green 2 black 1 green 25
+red 5 black 7 green 26
+red 5 black 1 green 27
+red 6 black 1 green 27
+red 9 black 1 green 28
+red 8 black 1 green 4 black 1 green 24
+red 8 black 5 green 25
+red 8 black 3 green 26
+red 8 black 1 green 29
+red 8 black 1 green 29
+red 8 black 1 green 17 black 1 green 11
+red 8 black 1 green 16 black 1 green 12
+red 7 black 1 green 16 black 1 green 13
+red 7 black 1 green 15 black 1 green 14
+red 7 black 1 green 14 black 1 green 15
+red 8 black 2 green 11 black 1 green 16
+red 9 black 11 green 17
+red 9 black 1 green 21
+red 11 black 1 green 20
+red 18 black 1 green 19
+red 19 green 17
+red 1 red 17 green 17
+
+columns
+red 40
+red 39
+red 39
+red 40
+red 17 red 21
+red 15 red 19
+red 14 black 3 red 18
+red 13 black 1 green 3 black 1 red 8 red 7
+red 12 black 1 green 4 black 1 red 1 red 6
+red 11 black 1 green 5 black 1 black 3 red 4
+red 10 black 1 green 5 black 2 black 2 black 4 green 3 black 1 red 4
+red 9 black 1 green 6 black 2 black 1 green 1 black 2 green 7 black 1 red 3
+red 8 black 1 green 6 black 1 green 1 black 3 green 2 black 2 green 8 black 1 red 3
+red 7 black 1 green 6 black 1 green 2 black 1 green 4 black 2 green 8 black 1 red 3
+red 5 black 1 green 7 black 3 green 5 black 1 green 9 black 1 red 3
+red 4 black 1 green 15 black 1 green 10 black 1 red 3
+red 2 black 2 green 27 black 1 red 3
+red 1 black 1 green 1 black 1 green 2 black 2 green 23 black 1 red 3
+black 2 green 2 black 1 green 1 black 4 green 22 black 2 red 2
+black 1 green 4 black 1 green 1 black 1 black 1 green 22 black 1 green 1 black 1 red 1
+black 1 green 5 black 1 green 2 black 1 black 1 green 22 black 1 green 2 black 1
+green 7 black 1 green 2 black 1 green 23 black 1 green 3
+green 34 black 1 green 3
+green 33 black 1 green 6
+green 32 black 1 green 7
+green 31 black 1 green 8
+green 30 black 1 green 9
+green 29 black 1 green 10
+green 28 black 1 green 11
+green 40
+green 12 black 1 green 4 black 1 green 22
+green 11 black 1 green 5 black 1 green 22
+green 10 black 1 green 2 black 3 green 1 black 1 green 22
+green 10 black 1 green 6 black 1 green 22
+green 10 black 7 green 23
+green 40
+green 40
+green 40
+green 40
+green 40

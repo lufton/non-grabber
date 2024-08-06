@@ -1,0 +1,67 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Oct 30, 2017"
+description "when I was solving # 30426, I immediately thought "You know nothing, John Snow.""
+difficulty 2.25
+height 30
+id 30453
+link "https://webpbn.com/play.cgi?id=30453"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Know Nothing"
+width 20
+
+rows
+13
+17
+11,6
+10,7
+11,6
+8,1,4
+7,1,4
+6,3
+4,3,6
+7,2,1
+5,2,2,2
+4,1,2,2,1,1
+3,4,4,1
+3,1
+4,1,1,1
+3,1
+4,3,3,2
+4,2,2,2
+5,1,3,1,3
+6,5,3
+5,1,2
+4,2,2,1
+4,1,3,1,2,4
+7,7,4
+7,5,1,3
+8,1,5
+10,9
+1,4,4,7
+2,2,3,2,3,3
+3,8,2
+
+columns
+17,3,3
+25,2
+27,1
+11,1,14
+8,2,4,6
+8,1,1,1,6
+7,2,2,2,4,1
+6,1,1,1,2,2,5
+5,1,3,2,2,5
+5,1,1,1,1,3,2,1
+6,1,1,2,2,3
+3,2,3,1,2
+2,1,1,2,5,1
+4,1,1,1,3,4
+5,1,3,2,3,4
+5,1,1,1,2,1,5
+7,2,2,2,2,3
+10,1,3,8
+8,1,4,9
+7,8,5,1

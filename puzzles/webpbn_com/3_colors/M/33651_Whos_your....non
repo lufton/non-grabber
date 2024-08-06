@@ -1,0 +1,71 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Feb 28, 2020"
+description "llama"
+difficulty 1.5
+height 30
+id 33651
+link "https://webpbn.com/play.cgi?id=33651"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Who's your..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 4 green 6 green 3
+green 3 green 6 green 3
+green 2 green 8 green 2
+green 2 green 8 green 2
+green 1 green 8 green 1
+green 1 green 8 green 1
+green 1 green 8 green 1
+green 1 green 8 green 1
+green 2 green 6 green 1
+green 3 green 2
+green 3 green 2
+green 1 green 1 green 1
+green 2 green 1
+green 3 black 4 black 4 green 2
+green 3 black 2 black 2 green 2
+green 3 green 1
+green 2 green 1
+green 2 black 2 black 2 green 1
+green 2 black 5 green 1
+green 2 black 3 green 2
+green 3 green 2
+green 3 green 2
+green 3 black 1 black 1 black 1 green 3
+green 4 black 5 green 3
+green 4 green 4
+green 4 green 4
+green 4 green 4
+green 4 green 4
+green 4 green 3
+green 3 green 2
+
+columns
+green 30
+green 4 green 3 green 18
+green 2 green 3 green 3 green 10
+green 1 green 6
+black 1
+black 2
+green 6 black 2
+green 9 black 1 black 1
+green 9 black 2 black 1
+green 9 black 3 black 1
+green 9 black 2 black 2
+green 9 black 3 black 1
+green 9 black 2 black 1
+green 6 black 1 black 1
+black 2
+black 2
+green 1 black 1 green 4
+green 2 green 7
+green 4 green 3 green 2 green 11
+green 10 green 18

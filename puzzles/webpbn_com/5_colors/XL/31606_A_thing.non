@@ -1,0 +1,95 @@
+by "Matias Prieto (e1m4t1p)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Matias Prieto"
+date "Sep 27, 2018"
+description "I don't know what it is."
+difficulty 1.75
+height 36
+id 31606
+link "https://webpbn.com/play.cgi?id=31606"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "A thing"
+width 36
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 blue 2 green 4 blue 4 green 2 black 4
+red 4 blue 2 green 4 black 1 red 1 blue 4 green 2 black 4
+red 4 blue 2 green 4 black 2 red 2 blue 4 green 2 black 4
+red 4 blue 2 green 4 black 2 red 2 blue 4 green 2 black 4
+blue 1 red 4 green 4 black 2 red 2 blue 4 black 4 green 1
+blue 2 red 4 green 4 black 2 red 2 blue 4 black 4 green 2
+blue 2 red 4 green 4 black 2 red 2 blue 4 black 4 green 2
+blue 2 red 4 green 3 black 2 red 2 blue 3 black 4 green 2
+blue 2 red 4 green 1 black 2 red 2 blue 1 black 4 green 2
+blue 1 green 1 red 4 black 1 red 1 black 4 blue 1 green 1
+green 3 red 4 black 4 blue 3
+green 4 black 1 red 4 black 4 red 1 blue 4
+green 4 black 2 blue 1 red 4 black 4 green 1 red 2 blue 4
+green 4 black 2 blue 2 red 4 black 4 green 2 red 2 blue 4
+green 4 black 2 blue 2 red 4 black 4 green 2 red 2 blue 4
+black 1 green 4 blue 2 red 4 black 4 green 2 blue 4 red 1
+black 2 green 4 blue 2 red 4 black 4 green 2 blue 4 red 2
+black 2 green 4 blue 2 red 4 black 4 green 2 blue 4 red 2
+black 2 green 4 blue 2 red 2 black 4 green 2 blue 4 red 2
+black 2 green 4 blue 2 black 4 green 2 blue 4 red 2
+black 2 green 4 black 4 red 2 blue 4 red 2
+black 2 green 4 black 4 red 4 blue 4 red 2
+black 2 green 4 black 4 green 1 blue 1 red 4 blue 4 red 2
+black 2 green 3 black 4 green 2 blue 2 red 4 blue 3 red 2
+black 2 green 1 black 4 green 2 blue 2 red 4 blue 1 red 2
+black 5 green 2 blue 2 red 5
+black 4 green 3 blue 3 red 4
+black 5 green 4 blue 4 red 5
+black 4 green 1 black 2 green 4 blue 4 red 2 blue 1 red 4
+black 4 green 2 black 2 green 4 blue 2 red 2 blue 2 red 4
+black 4 green 2 black 2 green 4 red 2 blue 2 red 4
+black 4 green 2 blue 2 green 4 blue 2 red 4
+black 4 green 2 blue 4 green 4 blue 2 red 4
+black 4 green 2 blue 4 red 1 black 1 green 4 blue 2 red 4
+black 4 green 2 blue 4 red 2 black 2 green 4 blue 2 red 4
+black 4 green 2 blue 4 red 2 black 2 green 4 blue 2 red 4
+
+columns
+red 1 blue 2 green 1 black 2 black 1
+red 3 blue 2 green 3 black 2 black 2
+red 5 blue 2 green 5 black 2 black 3
+red 7 blue 2 green 7 black 2 black 4
+red 3 blue 1 red 4 blue 2 green 4 black 1 green 4 black 2 black 4 green 1
+red 2 blue 2 red 4 green 4 black 2 green 4 black 2 black 4 green 2
+red 1 blue 2 red 4 green 2 black 2 green 4 black 2 black 4 green 2
+blue 2 red 4 black 2 green 4 black 2 black 4 green 2
+blue 1 green 2 red 4 blue 2 green 4 black 2 black 4 green 2
+green 4 red 4 blue 2 green 4 black 6 green 2
+green 4 black 2 red 4 blue 2 green 4 black 4 green 2
+green 4 black 2 red 4 blue 2 green 2 black 4 green 2 blue 1
+green 4 black 2 red 4 blue 2 black 6 blue 2
+green 4 black 2 red 4 blue 2 black 4 green 2 black 2 blue 3
+green 4 black 2 red 4 blue 2 black 4 green 4 black 2 blue 4
+green 3 black 2 red 4 blue 1 black 4 green 6 black 1 blue 4 red 1
+green 2 black 2 red 3 black 4 green 2 green 4 blue 3 red 2
+green 1 black 2 red 1 black 4 green 2 green 4 blue 1 red 2
+blue 1 red 2 black 4 red 1 blue 2 blue 1 green 4 black 2
+blue 2 red 2 black 4 red 3 blue 2 blue 3 green 4 black 2
+blue 3 red 2 black 4 green 1 red 4 blue 6 red 1 green 4 black 1
+blue 4 red 2 black 4 green 2 red 4 blue 4 red 2 green 4
+blue 4 red 2 black 4 green 2 red 4 blue 2 red 2 green 3
+blue 4 red 2 black 4 green 2 red 6 green 2
+blue 4 red 2 black 4 green 2 blue 2 red 4 blue 2 green 1
+blue 4 red 2 black 4 green 2 blue 4 red 4 blue 2
+blue 4 black 4 green 2 blue 4 red 6 blue 2
+green 1 blue 2 black 4 green 2 blue 4 red 2 red 4 blue 2
+green 2 black 4 red 2 blue 4 red 2 red 4 blue 2
+black 1 green 2 black 4 blue 2 red 2 blue 4 red 2 red 4 blue 2
+black 2 green 2 black 4 blue 4 red 2 blue 4 red 2 red 4 blue 2
+black 3 green 1 black 4 green 2 blue 4 red 1 blue 4 red 2 red 4 blue 1
+black 7 green 2 blue 7 red 2 red 4
+black 5 green 2 blue 5 red 2 red 3
+black 3 green 2 blue 3 red 2 red 2
+black 1 green 2 blue 1 red 2 red 1

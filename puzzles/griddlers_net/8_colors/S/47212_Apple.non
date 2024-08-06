@@ -1,0 +1,55 @@
+by "koozka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/17/07"
+height 15
+id 47212
+link "https://www.griddlers.net/nonogram/-/g/47212"
+medium_time "0:05:04"
+points 1149
+popularity 63.18
+title "Apple"
+width 15
+
+color a ffffff
+color b 88370e
+color c 006633
+color d 009900
+color e 96630b
+color f a6eda6
+color g 56bd58
+color h ddfbdd
+
+rows
+c 2 b 1 e 1 c 1
+c 1 b 1 e 1 c 3
+d 4 b 2 c 1 d 3
+d 1 g 4 d 2 g 4 d 1
+d 1 g 1 f 4 g 2 h 2 g 2 d 1
+d 1 g 1 f 8 h 1 g 1 d 1
+d 1 g 1 f 8 h 1 g 1 d 1
+d 1 g 1 f 8 h 1 g 1 d 1
+d 1 g 1 f 8 h 1 g 1 d 1
+d 1 g 1 f 8 h 1 f 1 g 1 d 1
+d 1 g 1 f 8 g 1 d 1
+d 1 g 1 f 8 g 1 d 1
+d 1 g 8 d 1
+d 8
+c 1 b 1 e 1
+
+columns
+0
+d 6
+d 1 g 6 d 2
+d 1 g 1 f 6 g 2 d 1
+d 1 g 1 f 8 g 1 d 1
+c 1 d 1 g 1 f 8 g 1 d 1
+c 2 d 1 g 1 f 8 g 1 d 1 c 1
+b 3 d 1 g 1 f 7 g 1 d 1 b 1
+e 2 b 1 d 1 g 1 f 7 g 1 d 1 e 1
+c 2 g 1 h 1 f 7 g 1 d 1
+c 1 d 1 g 1 h 1 f 7 g 1 d 1
+c 2 d 1 g 1 h 5 f 2 g 1 d 1
+d 1 g 2 f 1 g 2 d 1
+d 1 g 6 d 2
+d 6

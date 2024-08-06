@@ -1,0 +1,63 @@
+by "Fionnoula St. Hilaire (fmss)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Fionnoula St. Hilaire"
+date "Oct 30, 2019"
+description "a bar graph.blue is the post popular"
+difficulty 1.0
+height 20
+id 33103
+link "https://webpbn.com/play.cgi?id=33103"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Bars"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+red 4 blue 4
+red 4 blue 4
+red 4 blue 4
+red 4 blue 4
+red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+black 4 red 4 green 4 blue 4
+
+columns
+black 10
+black 10
+black 10
+black 10
+0
+red 15
+red 15
+red 15
+red 15
+0
+green 11
+green 11
+green 11
+green 11
+0
+blue 20
+blue 20
+blue 20
+blue 20
+0

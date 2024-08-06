@@ -1,0 +1,62 @@
+by "Devin Vincent Joel Rogers (Firedevin990)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Devin Vincent Joel Rogers"
+date "Apr 17, 2014"
+description "Doesn't it look like it?"
+difficulty 1.25
+height 20
+id 24280
+link "https://webpbn.com/play.cgi?id=24280"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Titanic"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 9 blue 9
+blue 3 blue 1 blue 7
+blue 2 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 6
+blue 3 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 6
+blue 7 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 6
+blue 7 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 6
+blue 7 blue 5
+blue 6 blue 4
+blue 1 blue 1
+black 20
+blue 1 black 18 blue 1
+blue 2 black 17 blue 1
+blue 1 black 17 blue 2
+red 17 blue 3
+red 16 blue 4
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20
+
+columns
+blue 8 black 1 blue 3 red 2 blue 5
+blue 8 black 2 blue 1 black 1 red 2 blue 5
+blue 2 blue 5 black 4 red 2 blue 5
+blue 1 blue 4 black 4 red 2 blue 5
+blue 1 blue 6 black 4 red 2 blue 5
+blue 1 blue 4 black 4 red 2 blue 5
+blue 2 blue 3 black 4 red 2 blue 5
+blue 1 black 1 red 3 black 4 red 2 blue 5
+blue 1 blue 3 black 4 red 2 blue 5
+black 1 red 3 black 4 red 2 blue 5
+blue 4 black 4 red 2 blue 5
+blue 1 black 1 red 3 black 4 red 2 blue 5
+blue 1 blue 4 black 4 red 2 blue 5
+blue 2 black 1 red 3 black 4 red 2 blue 5
+blue 6 black 4 red 2 blue 5
+blue 7 black 4 red 2 blue 5
+blue 9 black 4 red 1 blue 6
+blue 8 black 4 blue 7
+blue 8 black 3 blue 8
+blue 8 black 1 blue 10

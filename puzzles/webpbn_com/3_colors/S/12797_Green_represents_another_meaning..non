@@ -1,0 +1,51 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Mar 17, 2011"
+description ""
+difficulty 1.5
+height 15
+id 12797
+link "https://webpbn.com/play.cgi?id=12797"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Green represents another meaning."
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2 green 5 green 2
+green 2 black 1 green 3 black 1 green 2
+green 3 green 5 green 3
+green 7 green 6
+green 7 green 7
+green 7 green 7
+green 5 black 1 green 4 green 1
+green 11 green 2
+green 8 green 2
+green 1 green 7 green 3
+green 2 green 2 green 4
+green 4 green 6
+green 8 green 4
+green 11
+green 6 green 2
+
+columns
+green 7 green 3
+green 8 green 3
+green 1 green 7 green 3
+black 1 green 7 green 4
+green 1 green 8 green 3
+green 6 green 3 green 3
+green 6 green 4 green 3
+green 3 black 1 green 4 green 3
+green 1 green 8 green 3
+black 1 green 7 green 1 green 1
+green 1 green 6 green 4
+green 7 green 5
+green 5 green 5
+green 3 green 6
+green 8

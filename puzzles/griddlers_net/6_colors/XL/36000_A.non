@@ -1,0 +1,84 @@
+by "oshri1234"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/23/06"
+height 34
+id 36000
+link "https://www.griddlers.net/nonogram/-/g/36000"
+medium_time "0:13:05"
+points 41663
+popularity 71.74
+title "A"
+width 27
+
+color a ffffff
+color b 999999
+color c 000011
+color d 0066ff
+color e 000099
+color f 0033ff
+
+rows
+b 4
+b 2 c 2 b 3
+b 2 c 1 d 2 c 2 b 3
+b 2 c 1 d 5 c 2 b 2
+b 2 c 1 d 8 c 1 b 1
+b 1 c 1 d 9 c 1 b 2
+b 2 c 1 d 8 c 1 e 1 c 1 b 1
+b 1 c 1 f 1 c 2 d 5 c 1 e 2 c 1 b 1
+b 2 c 1 f 3 c 2 d 2 c 1 e 3 c 1 b 2
+b 1 c 1 f 6 c 2 e 5 c 1 b 1
+b 1 c 1 f 7 c 1 e 5 c 1 b 1
+b 2 c 1 f 7 c 1 e 5 c 1 b 1
+b 1 c 1 f 9 c 1 e 4 c 1 b 2
+b 2 c 1 f 9 c 1 e 5 c 1 b 1
+b 1 c 1 f 10 c 1 e 5 c 1 b 1
+b 1 c 1 f 5 c 1 f 4 c 1 e 5 c 1 b 2
+b 2 c 1 f 4 c 1 e 1 c 1 f 4 c 1 e 5 c 1 b 1
+b 1 c 1 f 5 c 1 e 1 c 1 f 4 c 1 e 5 c 1 b 1
+b 2 c 1 f 4 c 1 e 2 c 1 f 4 c 1 e 5 c 1 b 1
+b 1 c 1 f 5 c 1 e 1 d 2 c 1 f 4 c 1 e 4 c 1 b 2
+b 1 c 1 f 5 c 1 d 3 c 1 f 4 c 1 e 5 c 1 b 1
+b 2 c 1 f 6 c 2 d 1 c 1 f 4 c 1 e 5 c 1 b 1
+b 1 c 1 f 9 c 2 f 4 c 1 e 5 c 1 b 1
+b 1 c 1 f 16 c 1 e 4 c 1 b 2
+b 2 c 2 f 4 c 2 f 8 c 1 e 5 c 1 b 1
+b 3 c 2 f 1 c 1 b 2 c 2 f 6 c 1 e 5 c 1 b 1
+b 3 c 1 b 5 c 2 f 5 c 1 e 4 c 1 b 2
+b 3 b 2 c 1 f 5 c 1 e 5 c 1 b 1
+b 2 c 1 f 4 c 1 e 4 c 1 b 2
+b 1 c 1 f 4 c 1 e 3 c 1 b 2
+b 1 c 2 f 4 c 1 e 1 c 1 b 2
+b 3 c 2 f 2 c 2 b 2
+b 3 c 3 b 2
+b 5
+
+columns
+b 4
+b 4 c 2 b 2
+b 3 c 3 f 2 c 1 b 1
+b 4 c 2 f 5 c 1 b 2
+b 3 c 3 f 8 c 1 b 1
+b 4 c 2 f 11 c 1 b 2
+b 3 c 3 f 14 c 1 b 1
+b 3 c 2 f 16 c 1 b 2
+b 2 c 2 f 11 c 3 f 3 c 1 b 2
+b 2 c 1 d 2 c 1 f 8 c 2 e 2 d 1 c 1 f 2 c 1 b 2
+b 2 c 1 d 3 c 1 f 7 c 1 e 3 d 2 c 1 f 3 c 1 b 1
+b 2 c 1 d 5 c 1 f 7 c 3 d 3 c 1 f 2 c 1 b 2
+b 1 c 1 d 6 c 1 f 10 c 4 f 3 c 1 b 2
+b 1 c 1 d 7 c 1 f 16 c 2 b 4
+b 2 c 1 d 6 c 3 f 16 c 3 b 1
+b 1 c 1 d 5 c 1 e 3 c 4 f 14 c 1 b 2
+b 2 c 1 d 3 c 1 e 8 c 3 f 12 c 1 b 1
+b 1 c 1 d 2 c 1 e 12 c 4 f 8 c 1 b 2
+b 2 c 2 e 17 c 3 f 6 c 1 b 1
+b 3 c 3 e 17 c 4 f 2 c 1 b 1
+b 4 c 4 e 17 c 3 b 1
+b 5 c 3 e 15 c 1 b 2
+b 4 c 4 e 10 c 1 b 2
+b 5 c 4 e 5 c 1 b 2
+b 5 c 3 e 1 c 1 b 2
+b 4 c 1 b 2
+b 3

@@ -1,0 +1,51 @@
+by "jim"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/24/10"
+height 15
+id 89475
+link "https://www.griddlers.net/nonogram/-/g/89475"
+medium_time "0:05:06"
+points 770
+popularity 64.98
+title "Globe"
+width 13
+
+color a ffffff
+color b b4d6ee
+color c 8fa6b3
+color d 5a675d
+color e 4f462d
+color f 935325
+
+rows
+b 1 c 2 d 2
+b 1 b 3 c 1 d 1
+b 1 b 2 c 1 d 1 c 1 d 2
+b 1 b 2 c 1 d 2 e 3 d 1
+b 3 c 2 d 1 e 5
+f 1 b 2 c 1 d 3 e 2 d 2 e 2
+f 1 d 1 c 1 d 7 f 2 e 1
+f 10 e 1
+d 2 e 5 d 1 e 1
+d 6 e 1
+d 5
+e 5
+f 3 e 4
+f 4 e 5
+f 4 e 3
+
+columns
+f 2
+b 3 d 1 f 1
+b 1 b 2 c 1 f 1 d 1 f 1
+b 1 b 2 c 1 d 1 f 1 d 2 f 3
+b 1 b 2 c 1 d 2 f 1 e 1 d 2 e 1 f 3
+c 1 b 2 c 2 d 2 f 1 e 1 d 2 e 1 f 3
+c 1 b 1 c 1 d 4 f 1 e 1 d 2 e 3 f 1
+d 1 b 1 d 2 e 2 d 1 f 1 e 1 d 2 e 4
+d 1 c 2 e 3 d 1 f 1 e 1 d 2 e 4
+d 2 e 2 d 2 f 1 d 1 e 1 e 3
+d 1 e 2 d 1 f 2 e 1 e 1
+d 1 e 2 f 1 e 1
+e 2

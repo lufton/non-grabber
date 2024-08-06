@@ -1,0 +1,38 @@
+by "Al LaPointe (kancamagus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Al LaPointe"
+date "Apr 26, 2017"
+description "Oops! Not a 'pick', but rather a 'Pict'... And a happy one at that."
+difficulty 1.25
+height 8
+id 29751
+link "https://webpbn.com/play.cgi?id=29751"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Wrong. Pick again!"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1 black 1
+black 7
+black 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 black 1 black 1
+black 2 red 1 red 1 black 2
+black 2 red 1 black 2
+black 3
+
+columns
+0
+black 6
+black 1 black 2
+black 2 blue 1 red 1 black 2
+black 1 black 1 red 1 black 1
+black 2 blue 1 red 1 black 2
+black 1 black 2
+black 6

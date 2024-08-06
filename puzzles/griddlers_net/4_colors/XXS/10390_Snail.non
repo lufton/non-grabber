@@ -1,0 +1,31 @@
+by "nhfk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10390
+link "https://www.griddlers.net/nonogram/-/g/10390"
+medium_time "0:00:17"
+points 2
+popularity 46.94
+title "Snail"
+width 5
+
+color a ffffff
+color c fffe00
+color f ffc700
+color h 000000
+
+rows
+0
+h 1 h 1 c 2
+f 1 c 2
+f 3
+0
+
+columns
+h 1
+f 1
+h 1 f 1
+c 2 f 1
+c 2 f 1

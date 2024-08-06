@@ -1,0 +1,41 @@
+by "arlo the epic (me.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by arlo the epic"
+date "Oct 22, 2011"
+description "pac-man"
+difficulty 1.25
+height 10
+id 16145
+link "https://webpbn.com/play.cgi?id=16145"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "if it round... GIMMIE!"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 4 black 2 red 2
+red 5 black 2 red 1
+red 7
+red 6
+red 6
+red 7
+red 8
+red 8
+red 6
+
+columns
+red 6
+red 8
+red 10
+red 10
+red 10
+red 1 black 2 red 7
+red 1 black 2 red 1 red 4
+red 3 red 3
+red 1 red 1
+0

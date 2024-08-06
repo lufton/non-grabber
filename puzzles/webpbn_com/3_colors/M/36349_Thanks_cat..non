@@ -1,0 +1,61 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Wombat"
+date "Jan 14, 2023"
+description "Zuul hit my keyboard while I was playing webpnn."
+difficulty 1.25
+height 20
+id 36349
+link "https://webpbn.com/play.cgi?id=36349"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Thanks, cat."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 1 black 1
+black 2 red 2 black 1 black 1
+black 2 red 4 black 1 black 1
+black 2 red 4 black 1 black 1
+black 2 red 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 3 black 2 black 4 black 1 black 4 black 1
+black 1 black 2 black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1
+black 2 black 2 black 3 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 1 black 1 black 1 black 1
+black 3 black 2 black 4 black 1 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 3 black 2 black 2 black 1 black 4 black 1
+black 1 black 2 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 black 1 black 1
+black 3 black 2 black 4 black 1 black 4 black 1
+
+columns
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 3 black 4
+0
+black 20
+black 20
+0
+red 2 black 7 black 2
+red 4 black 1 black 1 black 1 black 1 black 1
+red 4 black 1 black 1 black 1 black 1 black 1
+red 2 black 2 black 3 black 4
+0
+black 20
+0
+black 1 black 2 black 1
+black 1 black 3 black 1 black 1
+black 1 black 2 black 1 black 1
+black 3 black 4
+0
+black 20

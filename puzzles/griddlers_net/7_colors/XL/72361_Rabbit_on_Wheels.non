@@ -1,0 +1,93 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/24/08"
+height 35
+id 72361
+link "https://www.griddlers.net/nonogram/-/g/72361"
+medium_time "0:24:47"
+points 66463
+popularity 69.68
+title "Rabbit on Wheels"
+width 34
+
+color a 6b6bce
+color b daa09c
+color c fbf5f1
+color e f9d9db
+color f 634a08
+color g efc9bb
+color h de847b
+
+rows
+b 3
+b 4 c 3 b 1
+b 1 e 1 c 3 b 2 c 2 b 1
+b 1 e 2 c 4 b 1 c 2 b 1
+b 1 e 3 c 4 b 1 c 1 b 1
+b 1 e 2 c 4 b 1 c 2 b 1
+b 1 e 3 c 4 b 1 c 1 b 3
+b 1 e 3 c 4 b 1 c 3 b 3
+b 1 e 4 c 7 e 3 b 2
+b 1 e 4 c 7 e 4 b 1
+b 2 e 3 b 1 c 7 e 2 c 1 b 1
+b 3 e 1 c 4 f 2 c 3 g 2
+b 1 e 4 c 2 f 1 e 3 c 1 g 3
+b 1 e 11 g 1 b 1
+b 1 e 7 g 2 e 2 b 1
+b 1 e 6 g 2 e 2 b 1
+b 1 e 9 b 1
+b 2 c 1 b 1 e 4 b 4
+b 3 e 1 c 3 b 4 e 4 b 1
+b 1 e 3 c 10 e 2 b 1
+b 2 e 3 c 1 e 3 c 7 e 3 b 1
+b 2 e 3 c 3 b 2 e 3 c 5 e 3 b 1
+b 3 b 2 e 5 c 5 b 2 e 3 c 2 e 5 b 1
+b 1 c 3 b 1 e 9 c 5 b 1 e 9 b 1
+b 1 e 1 c 4 b 1 e 3 h 3 e 3 c 5 b 1 e 4 h 3 e 1 b 1
+b 1 e 2 c 4 b 1 e 1 h 2 b 3 h 2 e 3 c 3 b 1 e 2 h 2 b 3 h 2
+b 1 e 3 c 3 b 1 h 1 b 3 e 2 b 2 h 1 e 3 c 3 b 1 h 1 b 3 e 2 b 2 h 1
+b 1 e 5 b 1 h 1 b 2 h 3 e 2 h 1 e 4 c 2 b 1 h 1 b 2 h 3 e 2 h 1
+b 1 e 3 b 1 h 1 b 2 h 1 b 3 h 1 g 1 b 1 h 1 e 5 h 1 b 2 h 1 b 3 h 1 g 1 b 1 h 1
+b 4 h 1 b 1 g 1 h 1 g 3 h 1 g 1 b 1 h 1 b 5 h 1 b 1 g 1 h 1 g 3 h 1 g 1 b 1 h 1
+h 1 b 1 g 1 h 1 g 3 h 1 g 1 b 1 h 1 h 1 b 1 g 1 h 1 g 3 h 1 g 1 b 1 h 1
+h 1 b 1 g 1 h 3 g 1 b 1 h 1 h 1 b 1 g 1 h 3 g 1 b 1 h 1
+h 1 b 2 g 3 b 2 h 1 h 1 b 2 g 3 b 2 h 1
+h 2 b 3 h 2 h 2 b 3 h 2
+h 3 h 3
+
+columns
+b 2
+b 1 e 2 b 1
+b 1 e 4 b 1
+b 1 c 3 e 3 b 1
+b 1 c 4 e 2 b 1
+b 1 c 4 e 2 b 1
+b 1 c 3 e 1 b 2
+b 1 e 1 b 4 h 3
+b 1 e 3 h 2 b 3 h 2
+b 1 e 3 h 1 b 3 g 2 b 2 h 1
+b 1 e 3 h 1 b 2 h 3 g 1 b 1 h 1
+b 1 e 3 h 1 b 2 h 1 b 1 g 2 h 1 g 1 b 1 h 1
+b 3 b 1 e 3 h 1 b 1 e 1 h 1 b 1 g 2 h 1 g 1 b 1 h 1
+b 1 e 3 b 2 b 1 e 4 h 1 b 1 e 1 h 1 b 1 g 2 h 1 g 1 b 1 h 1
+b 1 c 1 e 4 b 2 b 1 e 2 c 2 e 2 h 1 b 1 e 1 h 3 g 1 b 1 h 1
+b 1 c 2 e 5 b 1 b 1 e 2 c 2 e 2 h 1 b 1 e 1 g 3 b 2 h 1
+b 1 c 4 e 4 b 1 b 1 e 1 c 4 e 2 h 2 b 3 h 2
+b 1 c 1 b 1 c 4 e 3 b 1 b 1 e 1 c 1 e 1 b 1 c 3 e 3 h 3
+b 1 c 1 b 1 c 5 e 3 b 4 b 1 c 2 e 1 b 1 c 3 e 4 b 1
+b 1 c 2 b 1 c 5 e 2 b 1 e 3 b 2 c 3 e 2 b 1 c 3 e 3 b 1
+b 1 c 2 b 2 c 4 e 1 b 1 e 5 b 1 c 3 e 1 b 1 c 4 e 2 b 1
+b 1 c 3 b 1 c 3 b 1 e 7 b 1 c 2 e 2 b 1 c 4 e 1 b 1
+b 2 c 2 b 1 c 4 e 6 b 1 c 3 e 2 b 2 c 2 e 1 b 1
+b 2 c 6 e 5 b 1 c 3 e 4 b 2 h 3
+b 1 c 6 e 5 b 1 c 4 e 3 h 2 b 3 h 2
+b 1 c 5 f 1 e 4 b 1 e 1 c 4 e 2 h 1 b 3 g 2 b 2 h 1
+b 1 e 1 c 2 f 1 e 2 g 2 e 1 b 1 e 1 c 3 e 3 h 1 b 2 h 3 g 1 b 1 h 1
+b 1 e 2 c 1 f 1 e 2 g 2 e 1 b 1 e 6 h 1 b 2 h 1 b 1 g 2 h 1 g 1 b 1 h 1
+b 1 e 2 c 2 e 5 b 1 e 6 h 1 b 1 e 1 h 1 b 1 g 2 h 1 g 1 b 1 h 1
+b 1 e 2 c 2 e 3 b 1 b 2 e 4 h 1 b 1 e 1 h 1 b 1 g 2 h 1 g 1 b 1 h 1
+b 1 e 2 c 1 g 2 b 2 b 2 e 3 h 1 b 1 e 1 h 3 g 1 b 1 h 1
+b 1 c 1 g 2 b 1 b 3 h 1 b 1 e 1 g 3 b 2 h 1
+b 1 g 2 h 2 b 3 h 2
+h 3

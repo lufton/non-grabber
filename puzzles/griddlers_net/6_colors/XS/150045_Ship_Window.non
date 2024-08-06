@@ -1,0 +1,43 @@
+by "sandlady"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/31/15"
+height 10
+id 150045
+link "https://www.griddlers.net/nonogram/-/g/150045"
+medium_time "0:01:01"
+points 201
+popularity 62.67
+title "Ship Window"
+width 10
+
+color a 3399ff
+color b cccccc
+color c 0000cc
+color d ffff00
+color e 33cc00
+color f 660000
+
+rows
+b 10
+b 3 b 3
+b 2 b 2
+b 1 d 2 e 1 b 1
+b 1 d 2 e 1 f 1 e 1 b 1
+b 1 f 1 b 1
+b 1 d 3 b 1
+b 2 c 6 b 2
+b 3 c 4 b 3
+b 10
+
+columns
+b 10
+b 3 b 3
+b 2 c 1 b 2
+b 1 d 2 c 2 b 1
+b 1 d 2 c 2 b 1
+b 1 e 1 d 1 c 2 b 1
+b 1 e 1 f 2 d 1 c 2 b 1
+b 2 e 1 d 1 c 1 b 2
+b 3 b 3
+b 10

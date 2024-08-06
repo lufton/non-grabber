@@ -1,0 +1,95 @@
+by "Bee"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/1/04"
+height 30
+id 13768
+link "https://www.griddlers.net/nonogram/-/g/13768"
+medium_time "1:18:07"
+points 162181
+popularity 80.08
+title "Banff National Park"
+width 40
+
+color a 808080
+color b 0000ff
+color c 0083ec
+color d 2f95fe
+color e fffefe
+color f 676767
+color g 005b00
+color h 297200
+
+rows
+b 30 c 7 d 3
+b 26 c 10 d 4
+b 22 c 11 d 6
+b 20 c 10 d 4 d 2
+b 14 c 14 d 4 d 1
+b 9 c 18 d 8 d 4
+b 6 c 12 e 1 c 9 d 4 d 6
+b 4 c 13 e 2 c 10 d 1 d 2
+b 4 c 3 e 1 c 3 e 2 c 3 e 1 e 2 c 12 d 2 d 1
+b 2 c 4 e 2 e 2 c 1 e 1 e 1 e 2 c 10 d 4
+c 5 e 3 e 2 e 2 e 2 e 2 c 9 d 2 d 2
+c 4 e 2 e 1 e 2 e 2 e 2 c 6 e 1 c 2 d 6
+c 3 e 2 e 1 f 3 e 2 f 2 e 1 e 2 e 2 c 3 e 3 f 1 c 3 d 4
+e 2 e 2 f 3 e 2 f 2 e 2 e 2 e 2 c 1 e 3 f 2 c 1 d 5
+e 1 e 3 f 2 f 3 e 1 e 2 f 1 e 1 f 4 d 5
+e 2 f 2 f 3 e 1 e 2 f 2 e 1 f 7 d 3
+e 2 e 1 f 1 f 2 f 3 e 1 e 2 f 2 e 1 f 5 f 2 d 2
+e 1 f 1 f 2 e 1 f 2 e 1 f 2 e 1 f 2 f 1 f 1 d 2
+e 1 f 1 e 1 f 1 f 2 e 1 f 3 f 1 f 2 f 1 d 1
+g 2 h 2 e 1 f 1 e 2 f 1 f 2 e 1 f 2 f 2 f 1 f 2
+g 3 h 2 e 2 f 1 f 1 e 1 f 3 f 2 f 2 f 1
+g 5 h 2 e 1 f 1 f 1 e 1 f 5 f 2 f 2 f 2
+g 6 h 1 f 2 f 2 f 2 f 2 f 2 e 1
+g 6 h 2 f 2 f 3 f 1 f 3 f 1 e 1
+g 7 h 3 f 2 f 2 f 2 f 2 f 1 e 3
+g 8 h 4 f 2 f 2 f 2 f 2 e 2
+g 11 h 2 f 2 f 2 f 3 f 2 e 1
+g 12 h 2 f 1 f 3 f 2 f 2
+g 14 h 6 f 4 f 2
+g 19 h 7
+
+columns
+b 10 c 3 e 2 g 11
+b 10 c 3 e 1 g 11
+b 9 c 4 e 2 h 1 g 10
+b 9 c 3 e 1 e 3 h 2 g 9
+b 7 c 4 e 2 e 1 h 1 g 9
+b 7 c 3 e 2 e 2 e 1 h 1 g 8
+b 6 c 3 e 2 e 2 e 1 f 1 h 3 g 6
+b 6 c 2 e 3 f 1 e 1 f 1 e 2 h 2 g 5
+b 6 c 3 f 2 e 1 f 1 e 2 f 1 h 2 g 4
+b 5 c 4 e 1 f 3 f 1 e 2 f 1 h 2 g 4
+b 5 c 4 e 1 f 3 f 2 h 1 g 4
+b 5 c 3 e 3 e 1 f 2 h 2 g 3
+b 5 c 3 e 2 e 2 f 2 h 2 g 2
+b 5 c 4 e 2 f 2 h 1 g 2
+b 4 c 6 e 2 e 1 f 2 f 2 h 1 g 1
+b 4 c 5 e 2 f 4 e 1 f 3 f 2 h 1 g 1
+b 4 c 4 e 1 f 5 e 3 f 2 h 1 g 1
+b 4 c 3 e 3 f 5 f 2 h 1 g 1
+b 4 c 2 e 2 e 2 e 3 f 5 f 2 h 1 g 1
+b 4 c 3 e 4 e 2 f 5 h 2
+b 3 c 5 e 1 e 1 f 2 h 1
+b 3 c 6 e 1 e 2 e 1 f 1 h 1
+b 2 c 7 e 4 e 2 f 4 h 1
+b 2 c 8 e 2 e 2 f 6 h 1
+b 2 c 9 e 3 f 3 f 3 h 1
+b 2 c 10 e 2 f 2 f 1 f 2 h 1
+b 1 c 12 f 2 f 2 f 2
+b 1 c 4 d 1 c 8 f 2 e 2 f 2 f 1
+b 1 c 3 d 3 c 6 e 3 f 1 f 2
+b 1 c 3 d 3 c 5 e 2 f 1 f 1 f 2 f 1
+c 3 d 4 c 4 e 2 f 3 f 2 f 2 f 1
+c 3 d 4 c 3 e 2 f 3 f 2 f 1 f 1
+c 3 d 1 d 1 c 4 f 5 f 1 f 2
+c 2 d 2 d 1 d 1 d 1 c 2 f 4 f 2 f 2
+c 2 d 1 d 4 d 2 c 2 f 5 f 1 f 1
+c 2 d 1 d 1 d 1 c 1 d 2 f 1 f 5
+c 1 d 3 d 2 d 1 d 4 f 2 f 6
+d 4 d 2 d 1 d 5 f 2 e 3 f 2
+d 3 d 3 d 9 f 2 e 2 f 2
+d 2 d 15 f 2 e 3 f 1

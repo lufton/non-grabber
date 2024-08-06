@@ -1,0 +1,89 @@
+by "tbs"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/11/07"
+height 43
+id 41504
+link "https://www.griddlers.net/nonogram/-/g/41504"
+medium_time "0:23:23"
+points 9145
+popularity 68.56
+title "Fire"
+width 24
+
+color a 000000
+color b ff6633
+color c ffff99
+color d ffcc33
+color e cc9900
+
+rows
+d 2
+d 5
+d 7 d 1
+d 8 d 1
+d 9 d 3
+d 5 c 3 d 2 d 4
+d 5 c 3 d 2 d 4
+d 5 c 4 d 7
+d 4 c 5 d 8
+d 5 c 5 d 8
+d 4 c 7 d 3 c 1 d 4
+d 3 c 8 d 2 c 2 d 4
+d 4 c 13 d 3
+d 3 c 11 b 1 c 2 d 3
+d 3 c 11 b 2 c 1 d 3
+d 4 c 5 b 1 c 4 b 3 c 1 d 3
+d 4 c 4 b 2 c 4 b 3 c 1 d 3
+d 3 c 5 b 2 c 3 b 3 c 1 d 4
+d 3 c 4 b 3 c 3 b 3 c 1 d 4
+d 3 c 4 b 3 c 2 b 4 c 1 d 4
+d 2 c 4 b 3 c 1 b 5 c 1 d 4
+d 2 c 4 b 8 c 2 d 3
+d 2 c 4 b 8 c 2 d 3
+d 2 c 4 b 7 c 3 d 3
+d 3 c 3 b 6 c 3 d 3
+d 2 c 4 b 4 c 4 d 3
+d 2 c 5 b 2 c 4 d 3
+d 1 c 10 d 4
+c 4 c 3 d 2
+c 1 c 2 d 2
+c 1
+e 6 e 5
+e 9 e 7
+e 11 e 5
+e 12 e 3
+e 13 e 1
+e 1 e 11 d 2
+e 3 e 9 d 4
+e 5 e 5 d 2 e 3 d 2
+d 3 e 6 e 3 d 2 e 1 d 1 e 1 d 2
+e 1 d 1 e 2 d 2 e 5 e 1 d 3 e 1 d 2 e 1
+d 1 e 1 d 1 e 1 d 3 e 2 d 1 e 4
+e 3 d 3
+
+columns
+e 1 d 1
+d 2 e 2
+e 1 d 1 e 1 d 1 e 1
+d 5 e 2 d 1 e 3
+d 13 e 2 e 4 d 3
+d 18 e 4 e 3 d 3
+d 10 c 7 d 4 e 5 e 3 d 2
+d 8 c 16 e 6 e 3
+d 7 c 18 e 7 e 3
+d 7 c 20 e 7 e 2
+d 6 c 10 b 7 c 4 e 8 e 1
+d 6 c 9 b 10 c 2 e 7
+d 4 c 10 b 12 c 1 e 8
+d 5 c 16 b 6 c 1 e 8
+d 5 c 15 b 6 c 3 e 7 d 1
+d 9 c 9 b 6 c 5 e 1 e 4 d 3
+d 10 c 5 b 7 c 7 e 1 e 4 d 4
+d 5 c 3 b 8 c 4 d 3 e 3 e 2 d 1 e 4
+d 6 c 2 b 8 c 5 d 4 e 3 e 1 d 2 e 1 d 2 e 1
+d 6 c 4 b 3 c 7 d 4 e 4 d 2 e 2 d 1 e 1
+d 10 c 5 d 11 e 5 d 3 e 2
+d 22 e 4 d 2
+d 16
+d 11

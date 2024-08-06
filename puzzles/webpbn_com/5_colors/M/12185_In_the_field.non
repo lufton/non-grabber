@@ -1,0 +1,63 @@
+by "Kerri Kemp (kerri_kemp)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kerri Kemp"
+date "Feb 12, 2011"
+description "This is my first puzzle. Was meant to be a flower with a hill in the background, but I'm not sure if that's what it looks like. Maybe looks like a windmill."
+difficulty 1.5
+height 20
+id 12185
+link "https://webpbn.com/play.cgi?id=12185"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "In the field"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2
+blue 4
+blue 6
+blue 6
+blue 4
+blue 2 blue 2 blue 2
+blue 4 red 2 blue 4
+blue 6 red 4 blue 6
+blue 6 red 4 blue 6
+blue 4 red 2 blue 4
+blue 2 blue 2 blue 2
+blue 4
+blue 6
+blue 6
+blue 4 green 3
+blue 2 green 6
+black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+
+columns
+green 3
+green 3
+blue 2 green 3
+blue 4 green 3
+blue 6 green 3
+blue 6 green 3
+blue 4 green 3
+blue 2 blue 2 blue 2 green 3
+blue 4 red 2 blue 4 green 3
+blue 6 red 4 blue 6 black 4
+blue 6 red 4 blue 6 black 4
+blue 4 red 2 blue 4 green 4
+blue 2 blue 2 blue 2 green 5
+blue 4 green 6
+blue 6 green 6
+blue 6 green 6
+blue 4 green 5
+blue 2 green 5
+green 4
+green 4

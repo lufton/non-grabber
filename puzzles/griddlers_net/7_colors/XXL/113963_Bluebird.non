@@ -1,0 +1,119 @@
+by "Seorin"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/14/11"
+height 50
+id 113963
+link "https://www.griddlers.net/nonogram/-/g/113963"
+medium_time "0:34:48"
+points 170845
+popularity 72.41
+title "Bluebird"
+width 45
+
+color a f8fffb
+color c 5294a6
+color d cdb6a9
+color e 034868
+color f 3d3d3d
+color g f7d0b2
+color h f99473
+
+rows
+c 7
+e 1 c 9
+e 1 c 4 c 6
+f 1 e 1 c 6 e 4 c 2
+f 4 c 1 e 2 c 5 e 3 c 2
+f 6 c 1 e 1 c 1 e 1 c 4 e 5 c 1
+f 2 c 5 e 6 c 2
+f 1 d 1 c 2 e 1 d 1 c 1 e 6 c 2
+h 2 c 1 d 1 h 1 c 1 e 7 c 1
+d 1 h 5 c 1 e 6 c 2
+d 1 h 5 c 1 e 7 c 2
+d 1 h 4 c 1 e 9 c 2
+d 1 h 4 c 2 e 9 c 2
+d 1 h 4 c 2 e 9 c 3
+d 1 h 4 c 2 e 10 c 3
+d 1 h 5 c 2 e 9 c 4
+d 1 h 6 c 1 e 10 c 4
+d 1 h 6 c 2 e 11 c 2
+d 1 h 7 c 2 e 11 c 2
+d 2 h 7 c 1 e 12 c 2
+d 2 h 7 c 2 e 11 c 3
+d 2 h 7 c 2 e 11 c 2
+d 1 h 8 c 2 e 10 c 2
+d 2 h 8 c 3 e 9 c 2
+d 2 h 9 c 2 e 8 c 2
+d 1 h 10 c 3 e 7 c 1
+d 2 g 7 h 4 c 3 e 5 c 2
+d 2 g 9 h 3 c 3 e 4 c 1
+d 2 g 10 h 3 c 2 e 3 c 1
+d 2 g 11 h 2 c 3 e 1 c 1 f 1
+d 3 g 1 d 1 g 3 d 1 g 2 d 1 g 2 d 3 c 2 f 1
+f 3 d 3 g 4 d 3 g 4 d 2 f 3
+f 1 d 1 f 2 d 9 g 4 d 2 f 3
+f 1 d 3 f 2 d 2 f 2 d 1 d 2 g 3 d 2 f 3
+f 2 d 3 f 2 f 5 d 1 g 3 d 1 c 1 f 2
+f 1 d 4 f 5 f 2 d 2 d 1 g 1 d 1 c 2 f 3
+f 2 d 3 f 1 d 3 f 4 d 2 f 1 d 3 e 1 c 2 f 3
+f 2 d 6 f 6 d 1 f 4 c 1 e 3 c 2 f 3
+f 1 d 6 f 3 d 7 f 1 c 3 e 2 c 2
+f 8 d 2 f 1 d 6 f 1 c 1 e 3 c 2
+f 5 d 7 f 1 c 2 e 4 c 1
+f 4 d 5 f 1 c 2 e 3 c 2
+f 2 d 5 f 2 c 2 e 3 c 2
+f 1 d 5 f 1 c 1 e 4 c 2
+f 2 d 5 f 1 c 1 e 4 c 1
+f 1 d 5 f 1 c 3 e 2 c 1
+f 1 d 5 f 1 c 4
+f 1 d 5 f 1
+f 1 d 5 f 1
+f 1 d 4 f 1
+
+columns
+f 1
+f 1
+f 2
+f 2 f 4
+f 3 f 1 d 2 f 3
+e 2 f 2 f 2 d 3 f 2
+e 1 c 4 f 1 f 1 d 4 f 2
+c 3 e 2 f 2 f 1 d 5 f 1
+c 4 e 1 c 2 d 1 h 1 d 12 f 2 d 4 f 1
+c 5 e 1 c 2 h 11 d 3 f 3 d 2 f 1
+c 2 c 6 h 12 d 3 f 1 d 3 f 1
+c 7 e 1 d 1 h 14 d 2 f 1 d 3 f 1
+c 3 e 1 c 3 d 1 h 16 d 3 f 1 d 3 f 1
+c 3 e 1 c 2 e 1 c 2 h 2 c 4 h 11 d 2 f 6
+c 3 e 6 c 2 e 1 c 4 h 10 g 1 d 2 f 5
+c 2 e 12 c 3 h 8 g 2 d 2 f 3 d 1 f 1
+c 2 e 13 c 2 h 7 g 3 d 2 f 2 d 2 f 2
+c 2 e 13 c 3 h 5 g 4 d 1 f 1 d 1 f 1 d 1 f 3
+c 1 e 15 c 2 h 4 g 4 d 2 f 2 d 1 f 1 d 3 f 1
+c 2 e 14 c 2 h 3 g 5 d 1 f 1 d 1 f 1 d 4 f 2
+c 2 e 14 c 2 h 2 g 4 d 4 f 1 d 1 f 1 d 4 f 1
+c 3 e 13 c 1 h 3 g 5 d 2 f 1 f 1 d 5 f 2
+c 2 e 12 c 2 h 2 g 5 d 1 f 2 f 1 d 6 f 5
+c 2 e 12 c 2 h 1 g 5 d 1 f 1 f 2 d 10 f 1
+c 3 e 11 c 1 h 2 g 2 d 1 g 1 d 2 f 1 d 10
+c 4 e 9 c 2 h 1 g 3 d 2 f 2 d 8
+c 4 e 9 c 1 h 2 g 2 d 2 f 1 d 7
+c 3 e 9 c 2 h 1 g 1 d 3 f 2 d 6
+c 3 e 9 c 1 h 2 g 2 d 1 f 6
+c 3 e 8 c 2 h 1 g 3 d 1
+c 3 e 7 c 2 d 1 g 2 d 1
+c 4 e 6 c 1 d 1 g 3 d 1
+c 5 e 4 c 1 d 2 g 3
+c 4 e 3 c 1 d 2 g 2 d 2
+c 5 f 1 d 2 g 2 d 1 c 2
+f 4 d 4 e 1 c 3
+f 3 c 2 e 2 c 1 e 1 c 2
+f 3 c 2 e 4 c 2
+f 3 c 2 e 4 c 2
+f 2 c 3 e 4 c 2
+f 3 c 2 e 5 c 2
+f 2 c 2 e 3 c 2
+f 1 c 2 e 3 c 1
+c 2 e 2 c 1
+c 3

@@ -1,0 +1,77 @@
+by "adigo"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/12/04"
+height 25
+id 14906
+link "https://www.griddlers.net/nonogram/-/g/14906"
+medium_time "0:07:33"
+points 1785
+popularity 62.02
+title "Fish"
+width 30
+
+color a 00aef6
+color b ff8c00
+color c 00a400
+color d fffefe
+color h 000000
+
+rows
+h 3
+h 1
+h 2
+h 1 h 2 d 2
+h 2 h 1 d 2
+h 5 d 2
+0
+b 1 b 6 d 3
+b 2 b 8 d 3
+b 3 b 7 d 1 b 2
+b 15
+b 15
+b 3 b 10
+b 2 b 8
+b 1 b 6
+c 1
+c 2 c 1 c 1
+c 1 c 1 c 1 c 1 c 2
+c 2 c 1 c 2 c 1 c 2
+c 3 c 2 c 1 c 2 c 2
+c 2 c 2 c 1 c 1 c 2 c 1
+c 2 c 1 c 1 c 2 c 2 c 2 c 2
+c 2 c 2 c 2 c 2 c 3 c 2 c 2
+c 2 c 2 c 2 c 2 c 2 c 2 c 2
+c 30
+
+columns
+c 1
+c 3
+c 5
+h 2 c 3 c 1
+h 2 c 2 c 1
+h 1 h 1 c 4 c 1
+h 3 h 1 c 2 c 3
+h 1 h 2 h 1 c 4
+h 3 b 8 c 1
+b 6 c 4 c 1
+b 4 c 6
+b 2 c 3
+b 4 c 1
+b 6 c 2
+b 8 c 4
+b 8 c 5 c 1
+b 8 c 3 c 1
+b 8 c 1
+b 8 c 3 c 1
+b 2 d 1 b 5 c 4
+b 6 c 3
+b 4 c 1
+b 2 c 1
+d 2 c 4 c 1
+d 2 c 6
+d 2 c 4
+d 3 c 3 c 1
+d 3 c 3 c 1
+c 6
+c 4

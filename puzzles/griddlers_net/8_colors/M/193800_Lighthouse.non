@@ -1,0 +1,71 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/20/18"
+height 29
+id 193800
+link "https://www.griddlers.net/nonogram/-/g/193800"
+medium_time "0:05:55"
+points 1060
+popularity 81.87
+title "Lighthouse"
+width 17
+
+color a ccffff
+color b 000000
+color c 993300
+color d ffffff
+color e ffe100
+color f 6699ff
+color g ff0000
+color h cccccc
+
+rows
+e 1
+e 2
+e 4 b 3
+e 5 b 5
+e 6 h 1 g 3 h 1
+e 5 b 5
+e 4 h 2 b 5 h 2
+e 2 b 9
+e 1 g 2 h 2 g 3
+g 3 h 2 g 2
+h 1 g 3 h 2 g 1
+h 2 g 3 h 2
+g 1 h 2 g 3 h 1
+g 2 h 2 g 3
+g 3 h 2 g 2
+g 4 h 2 g 1
+h 2 d 4 h 2 d 1
+d 1 h 2 d 1 b 2 d 1 h 2
+d 2 h 2 b 2 d 2 h 1
+d 3 h 1 b 2 d 3
+f 4 d 4 h 2 d 3 f 4
+f 4 h 2 d 3 h 2 d 2 f 4
+f 4 d 1 b 3 d 2 h 2 d 1 f 4
+f 4 d 1 b 3 d 3 h 2 f 4
+f 4 d 1 b 3 h 1 d 3 h 1 f 4
+f 4 d 1 b 3 h 2 d 3 f 4
+f 2 c 1 b 11 c 1 f 2
+f 1 c 15 f 1
+c 17
+
+columns
+e 5 f 8 c 1
+e 9 f 7 c 2
+e 7 f 6 c 3
+e 5 f 6 b 1 c 2
+e 3 h 1 b 1 h 1 d 4 h 1 d 4 b 1 c 2
+e 1 h 1 b 1 g 2 h 2 g 4 h 2 d 3 h 1 b 5 c 2
+b 1 h 1 b 3 g 3 h 2 g 3 d 1 h 2 d 3 b 5 c 2
+b 2 g 1 b 3 h 1 g 3 h 2 g 2 d 2 h 2 d 2 b 5 c 2
+b 2 g 1 b 3 h 2 g 3 h 2 g 1 d 1 b 3 h 1 d 3 h 2 b 1 c 2
+b 2 g 1 b 3 g 1 h 2 g 3 h 2 d 1 b 3 h 2 d 3 h 1 b 1 c 2
+b 1 h 1 b 3 g 2 h 2 g 3 h 2 d 4 h 2 d 3 b 1 c 2
+h 1 b 1 g 3 h 2 g 3 h 2 d 4 h 2 d 2 b 1 c 2
+h 1 b 1 d 1 h 2 d 4 h 2 d 1 b 1 c 2
+f 6 b 1 c 2
+f 6 c 3
+f 7 c 2
+f 8 c 1

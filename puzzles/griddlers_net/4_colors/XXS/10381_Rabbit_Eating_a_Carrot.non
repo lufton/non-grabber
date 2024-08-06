@@ -1,0 +1,31 @@
+by "rafal24"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10381
+link "https://www.griddlers.net/nonogram/-/g/10381"
+medium_time "0:00:26"
+points 12
+popularity 32.7
+title "Rabbit Eating a Carrot"
+width 5
+
+color a 94d7fe
+color b ff0000
+color e fffefe
+color g 808080
+
+rows
+g 2 g 2
+g 1
+g 3
+b 2 e 1 g 2
+g 2
+
+columns
+g 1 b 1
+g 1 g 1 b 1
+g 2 e 1
+g 1 g 3
+g 1 g 2

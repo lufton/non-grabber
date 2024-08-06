@@ -1,0 +1,57 @@
+by "Hayden Baker Cloud (hcloud)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Hayden Baker Cloud"
+date "Oct 30, 2019"
+description "I made this based on pac man and I tried to make it as accurate as possible"
+difficulty 4.0
+height 20
+id 33093
+link "https://webpbn.com/play.cgi?id=33093"
+note "published,definitely non-unique,may require much guessing"
+quality 1.75
+title "Arcade game"
+width 20
+
+rows
+0
+0
+1,1,1
+0
+1
+0
+1,1
+1
+0
+1,1
+0
+1
+1,1,1
+0
+1
+0
+0
+1,1
+1
+1
+
+columns
+0
+1,1,1,1
+0
+1
+1
+1
+0
+1,1
+1
+0
+1
+1
+1
+1,1
+0
+0
+1,1
+0
+0
+1

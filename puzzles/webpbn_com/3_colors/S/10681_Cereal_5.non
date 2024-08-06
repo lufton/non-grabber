@@ -1,0 +1,44 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Oct 13, 2010"
+description "Cat in the Hat Cereal"
+difficulty 1.25
+height 14
+id 10681
+link "https://webpbn.com/play.cgi?id=10681"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Cereal 5"
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 red 5 black 1
+black 1 black 1
+red 9
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 red 1 black 1
+black 2 black 1 black 2
+black 5
+
+columns
+red 1
+black 8 red 1 black 4
+red 1 red 1 red 1 red 1 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 black 1 black 1
+red 1 red 1 red 1 red 1 red 1 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 black 1 black 1
+red 1 red 1 red 1 red 1 red 1 black 2
+black 8 red 1 black 4
+red 1

@@ -1,0 +1,41 @@
+by "Bruce Yanoshek (yanogator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Bruce Yanoshek"
+date "Feb 21, 2017"
+description "Is it a duck facing left, or a rabbit facing right?"
+difficulty 1.25
+height 12
+id 29468
+link "https://webpbn.com/play.cgi?id=29468"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Age-old question"
+width 12
+
+rows
+10
+9
+8
+4
+1
+1
+3
+8
+6
+4,1
+3,3
+2,4
+
+columns
+3,7
+3,6
+3,5
+3,3
+4,2
+4,2
+4,1
+4,1,1
+2,2
+1,3
+2
+1

@@ -1,0 +1,32 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Aug 24, 2011"
+description "Who felt the earthquake yesterday? It was a 5.9 magnitude and went all over the East Coast."
+difficulty 1.25
+height 5
+id 15650
+link "https://webpbn.com/play.cgi?id=15650"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Who felt it?"
+width 10
+
+rows
+1,1
+2,2
+2,2,1,2
+1,2,1
+1,1
+
+columns
+2
+1
+2
+2
+3
+1
+2
+2
+1
+3

@@ -1,0 +1,88 @@
+by "Lauren Wilkinson (Lauren)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Lauren Wilkinson"
+date "May  7, 2020"
+description "Based on the Game Show, "Chain Reaction," This puzzle is a series of words. Your job is to get from "Motor" to "Loop" by a series of two words that make a phrase. For example, a different chain might go, "bad-feeling; feeling-blue; blue-moon; moon-cycle." Need help getting started? Ask for a letter."
+difficulty 1.75
+height 21
+id 34021
+link "https://webpbn.com/play.cgi?id=34021"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Chain Reaction Puzzle"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 11 blue 2 blue 2 blue 3 blue 3 blue 3 blue 3
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 11 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 3
+black 9 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 black 1 black 1 black 1 blue 1 blue 1 blue 3 blue 1 blue 3 blue 1 blue 1
+black 9
+red 9
+red 1 red 1 red 1 red 1 red 1
+red 9
+black 7
+black 1 black 1 black 1 black 1
+black 7
+red 9
+red 1 red 1 red 1 red 1 red 1
+red 9
+black 9
+blue 1 blue 3 blue 3 blue 3 black 1 black 1 black 1 black 1 black 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 9
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 3 blue 9
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 4 blue 3 blue 3 blue 1 blue 9
+
+columns
+blue 3
+blue 1 blue 1
+blue 3
+blue 1 blue 1
+blue 3
+blue 1 blue 1
+blue 3
+blue 1 blue 1
+blue 3 black 3
+blue 1 blue 1 black 1 black 1
+blue 3 black 3
+black 1 black 1
+black 3
+black 1 black 1 blue 5
+black 3 red 3 blue 1
+black 1 black 1 red 1 red 1 blue 1
+black 3 red 3 blue 1
+red 1 red 1
+blue 3 red 3 blue 5
+blue 2 red 1 red 1 blue 1 blue 1
+blue 1 red 3 black 3 blue 5
+blue 1 red 1 red 1 black 1 black 1
+blue 1 red 3 black 3 blue 5
+blue 2 black 1 black 1 blue 1 blue 1
+blue 3 black 3 red 3 blue 5
+black 1 black 1 red 1 red 1
+blue 5 black 3 red 3 blue 5
+blue 1 blue 1 red 1 red 1 blue 1 blue 1
+blue 5 red 3 blue 3
+red 1 red 1
+blue 1 red 3 black 3
+blue 5 red 1 red 1 black 1 black 1
+blue 1 red 3 black 3
+black 1 black 1
+blue 5 black 3
+blue 1 blue 1 black 1 black 1
+blue 5 black 3 blue 3
+black 1 black 1 blue 1 blue 1
+blue 5 black 3 blue 3
+blue 1 blue 1 blue 1 blue 1
+blue 4 blue 3
+blue 1 blue 1 blue 1
+blue 3
+blue 1 blue 1
+blue 3

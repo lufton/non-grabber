@@ -1,0 +1,56 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/11/17"
+height 19
+id 182625
+link "https://www.griddlers.net/nonogram/-/g/182625"
+medium_time "0:02:20"
+points 300
+popularity 71.55
+title "Pentomino - Strucc"
+width 13
+
+color a ffffff
+color b ff33ff
+color c ffcc00
+color d ff0000
+color e 00d700
+color f 0000ff
+color g 00ffff
+
+rows
+b 1
+b 3
+b 1
+g 1
+g 1
+g 1
+g 1
+g 1 g 1
+c 1 g 2
+c 1 d 2 b 1 f 2 g 1
+c 3 d 2 b 3 f 1 g 1
+e 1 d 1 f 2 b 1 c 1 f 2
+e 3 f 1 c 4
+e 1 f 2 e 2
+e 3
+d 1
+d 1
+d 1
+d 2
+
+columns
+b 1
+b 1
+b 3 g 5 c 3
+c 1
+c 1 e 2
+d 2 e 2
+d 2 f 1 e 1 f 1
+d 1 b 1 f 3 e 1 d 1
+b 3 c 1 e 2 d 4
+f 1 b 1 c 2 e 2
+f 3 c 1
+g 3 f 1 c 1
+g 2

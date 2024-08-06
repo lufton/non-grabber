@@ -1,0 +1,73 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Feb 24, 2011"
+description "Or whatever this waterskier's name is. I believe it was Howard Kossel (sp?) who said, "Down goes Frazier! Down goes Frazier!" after he was knocked down in a boxing match."
+difficulty 2.75
+height 20
+id 12394
+link "https://webpbn.com/play.cgi?id=12394"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Down goes Frazier! Down goes Frazier!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2
+green 1 green 2
+green 1 green 1 black 1
+green 1 green 2 black 3
+green 2 black 4
+black 5
+red 2 black 3
+red 4 black 2
+blue 1 red 4 black 2
+blue 3 blue 1 black 1 black 1 red 4
+blue 4 blue 2 black 3 blue 1 red 4
+blue 7 black 2 blue 3 blue 2 red 3 blue 1 blue 1
+blue 3 black 2 black 1 blue 3 blue 2 red 1 blue 1 red 1 blue 2
+blue 3 black 2 black 2 blue 4 blue 1 red 3 blue 3
+blue 30
+blue 24 blue 5
+blue 30
+blue 5 blue 2 blue 8 blue 6
+blue 2 blue 26
+blue 30
+
+columns
+blue 6
+blue 3 blue 6
+blue 9 blue 1
+blue 10 blue 1
+blue 10
+blue 1 black 2 blue 3 blue 2
+blue 1 black 2 blue 6
+blue 2 blue 6
+blue 2 blue 3 blue 2
+black 1 blue 3 blue 2
+black 5 blue 3 blue 2
+black 2 blue 4 blue 2
+green 5 black 2 blue 5 blue 2
+green 1 green 1 blue 6 blue 2
+green 1 green 1 blue 7 blue 2
+green 3 blue 1 blue 6
+black 1 blue 6
+black 1 blue 6
+black 1 blue 6
+black 2 blue 6
+black 1 red 2 blue 2 blue 6
+black 1 red 5 blue 9
+black 2 red 8 blue 6
+black 1 red 5 blue 1 red 1 blue 3 blue 2
+black 2 red 5 blue 1 blue 4
+black 2 blue 1 blue 7
+black 3 blue 8
+black 1 blue 9
+black 1 blue 6
+black 1 blue 6

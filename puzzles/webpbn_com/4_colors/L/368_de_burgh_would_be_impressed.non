@@ -1,0 +1,79 @@
+by "lisa hamm (lisylocket)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by lisa hamm"
+date "Mar  1, 2006"
+description "lady in red , one for the gents. I'm working on chip n' dales for the ladies ;)"
+difficulty 3.0
+height 35
+id 368
+link "https://webpbn.com/play.cgi?id=368"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 3.5
+title "de burgh would be impressed"
+width 22
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 8
+black 1 red 1 black 1 black 6
+red 3 black 5 black 2
+black 4 black 1 red 1 black 1 black 3 black 1
+black 1 black 1 black 2 blue 1 blue 1 black 2 black 1
+black 1 black 1 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 red 1 red 1 black 2
+black 2 red 3 black 2
+black 1 black 3 black 3 black 1
+black 6 black 6
+black 4 black 4
+black 2 red 1 red 1 black 2
+black 2 red 2 red 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 3 red 3 black 2
+black 2 red 3 black 1 red 3 black 2
+black 2 black 2 red 3 black 1 red 3 black 1 black 1
+black 1 black 2 red 11 black 2 black 1
+black 2 red 9 black 2 black 2
+black 1 black 2 red 7 black 2 black 2
+black 2 black 1 red 1 red 7 black 1 black 2
+black 2 red 2 black 2 red 7 black 2
+black 1 red 2 black 1 red 7 black 2
+red 1 black 1 black 1 red 7 black 2
+black 4 red 8 black 1
+red 11 black 2
+black 6 red 9 red 2 black 4
+black 6 red 9 red 2 black 3
+black 6 red 9 red 2 black 2
+black 6 red 9 red 2 black 1
+black 6 red 9 red 2 black 1
+black 6 red 9 black 1 red 2 black 1
+black 6 red 9 black 1 red 2 black 1
+black 6 red 9 black 1 red 2 black 1
+
+columns
+black 2 black 2 black 2 black 8
+black 5 black 2 black 2 black 8
+black 1 black 2 black 1 black 2 black 8
+black 1 black 2 black 2 black 3 red 2 black 8
+black 5 black 2 black 2 black 2 black 2 red 2 black 2 black 8
+black 1 black 2 black 1 red 2 black 1 black 8
+black 1 red 1 black 10 red 4 black 1 black 1 red 9
+black 1 red 3 black 8 red 6 black 4 red 9
+black 2 red 1 black 1 black 3 red 22
+black 1 red 1 black 2 red 2 red 17
+black 2 blue 1 red 1 red 17
+black 2 red 1 black 2 red 17
+black 3 blue 1 red 1 red 17
+black 3 red 1 black 2 red 2 red 17
+black 4 black 3 red 22
+black 11 red 6 black 2 red 2 black 3
+black 11 red 4 black 2 black 1 red 2
+black 1 black 2 black 3 black 3 black 1 red 2
+black 2 black 2 black 2 black 1 black 2 black 4 red 2
+black 5 black 2 black 2 black 2 red 6
+black 1 black 2 black 2 black 3 red 5
+black 4 black 8

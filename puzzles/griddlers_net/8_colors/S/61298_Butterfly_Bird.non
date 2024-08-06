@@ -1,0 +1,55 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/11/08"
+height 13
+id 61298
+link "https://www.griddlers.net/nonogram/-/g/61298"
+medium_time "0:05:22"
+points 1607
+popularity 70.38
+title "Butterfly Bird"
+width 17
+
+color a 99ccff
+color b ff3366
+color c 999999
+color d ff99cc
+color e ffffff
+color f 000000
+color g ff9900
+color h cccccc
+
+rows
+b 1
+c 3 b 1 b 1
+c 1 d 3 c 1 b 2 b 1
+c 1 e 4 d 1 b 2 d 2 b 1 d 1 b 1
+c 1 e 2 f 1 e 2 b 1 d 2 b 1 d 2 b 1
+g 3 e 3 d 3 b 1 d 3 b 1
+g 2 h 4 d 5 b 1
+c 1 h 2 e 2 d 3 b 1
+c 1 h 1 e 3 b 3
+c 1 e 4 b 1 d 1 b 1
+c 1 e 3 b 1 d 2 b 1
+c 3 b 2 d 2 b 1
+g 1 g 1 b 5
+
+columns
+g 1
+c 2 g 1
+c 1 e 2 g 2
+c 1 d 1 e 3 g 1
+c 1 d 1 e 1 f 1 e 1 h 1 c 2
+c 1 d 1 e 3 h 3 c 1
+c 1 d 1 e 1 d 1 h 2 e 2 c 1
+b 2 d 1 h 1 e 4 c 1 g 1
+b 1 d 3 e 4 c 1
+b 1 d 2 b 1 d 2 b 1 e 2 c 1 g 1
+b 2 d 1 b 1 d 3 b 4
+b 1 b 1 d 4 b 1 d 2 b 1
+b 1 d 4 b 1 b 1 d 2 b 1
+b 1 b 4 b 1 d 1 b 1
+b 2
+b 1
+b 1

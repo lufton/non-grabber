@@ -1,0 +1,95 @@
+by "sberez"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/21/04"
+height 35
+id 13285
+link "https://www.griddlers.net/nonogram/-/g/13285"
+medium_time "0:26:13"
+points 162677
+popularity 67.75
+title "Winamp"
+width 35
+
+color a ffffff
+color b ff0000
+color c ffc500
+color d fffe00
+color e 808000
+color f bfbfbf
+color g 808080
+color h 000000
+
+rows
+0
+0
+g 1 h 2
+g 1 f 1 g 1 h 2 b 1 h 1
+g 1 f 1 g 1 f 1 g 1 h 1 c 1 b 1 d 1 h 1
+g 1 f 1 g 3 f 1 g 1 h 1 e 1 c 1 b 1 d 2 h 1
+g 1 f 1 g 1 h 3 g 1 f 1 g 1 h 1 e 1 d 1 c 1 b 1 d 2 h 1
+g 1 f 1 g 1 h 5 g 1 f 1 e 1 d 1 c 1 b 2 d 2 h 1
+g 1 f 1 g 1 h 7 e 1 d 1 c 1 b 1 d 3 h 1
+g 1 f 1 g 1 h 6 e 1 d 2 c 1 b 1 d 3 h 1
+g 1 f 1 g 1 h 5 e 1 d 3 c 1 b 1 d 3 h 1
+g 1 f 1 g 1 h 4 e 1 d 4 c 1 b 1 d 3 h 1 g 1
+g 1 f 1 g 1 h 3 e 1 d 5 c 1 b 1 d 3 h 1 g 1 f 1 g 1
+g 1 f 1 g 1 h 2 e 2 d 14 f 1 g 1
+g 1 f 1 g 1 h 2 e 1 d 15 b 1 h 1 f 1 g 1
+g 1 f 1 g 1 h 3 d 4 c 5 d 5 b 2 d 1 h 1 g 1 f 1 g 1
+g 1 f 1 g 1 h 4 d 3 b 4 c 1 d 5 b 1 d 3 h 2 g 1 f 1 g 1
+g 1 f 1 g 1 h 5 d 6 c 1 d 4 b 2 d 4 h 3 g 1 f 1 g 1
+g 1 f 1 g 1 h 4 d 5 c 1 d 4 b 1 d 5 e 1 h 2 g 1 f 1 g 1
+g 1 f 1 g 1 h 7 c 1 d 3 b 2 d 4 e 1 h 3 g 1 f 1 g 1
+g 1 f 1 g 1 h 5 c 1 d 3 b 1 d 5 e 1 h 3 g 1 f 1 g 1
+g 1 f 1 g 1 h 3 c 1 d 2 b 2 d 4 e 1 h 4 g 1 f 1 g 1
+g 1 f 1 g 1 h 1 c 1 d 1 b 2 d 5 e 1 h 4 g 1 f 1 g 1
+g 1 h 1 c 1 d 1 b 1 d 5 e 1 h 5 g 1 f 1 g 1
+h 1 c 1 b 2 d 5 e 1 h 5 g 1 f 1 g 1
+h 1 c 1 b 1 d 5 e 1 h 6 g 1 f 1 g 1
+h 1 c 1 b 1 d 4 e 1 h 7 g 1 f 1 g 1
+h 1 c 1 b 1 d 4 e 1 f 1 g 1 h 5 g 1 f 1 g 1
+h 1 b 2 d 3 e 1 h 1 g 1 f 1 g 1 h 3 g 1 f 1 g 1
+h 1 d 4 g 1 g 1 f 1 g 1 h 1 g 1 f 1 g 1
+h 1 d 2 g 1 h 1 g 1 f 1 g 1 f 1 g 1
+h 1 d 1 g 1 g 1 f 1 g 1
+h 2 g 1
+0
+0
+
+columns
+0
+0
+g 1
+g 1 f 1 g 1
+g 1 f 1 g 1 f 1 g 1 h 5
+g 1 f 1 g 1 h 1 g 1 f 1 g 1 h 1 b 1 d 3 h 1
+g 1 f 1 g 1 h 3 g 1 f 1 g 1 h 1 c 1 b 1 d 2 g 1
+g 1 f 1 g 1 h 5 g 1 f 1 g 1 h 1 c 1 b 1 d 2 g 1
+g 1 f 1 g 1 h 7 g 1 f 1 g 1 h 1 c 1 b 1 d 3 h 1
+g 1 f 1 g 1 h 9 g 1 h 1 c 1 b 1 d 3 g 1
+g 1 f 1 g 1 h 2 e 1 d 4 h 4 c 1 b 1 d 3 e 1
+g 1 f 1 g 1 h 2 e 1 d 5 h 3 c 1 d 1 b 1 d 3 h 1
+g 1 f 1 g 1 h 3 e 1 d 5 h 2 c 1 d 1 b 1 d 3 e 1
+g 1 f 1 g 1 h 3 e 1 d 3 b 1 d 2 h 1 c 1 d 1 b 1 d 3 e 1 f 1 g 1
+g 1 f 1 g 1 h 4 d 3 c 1 b 1 d 2 c 1 d 2 b 1 d 3 h 1 g 1 f 1 g 1
+g 1 f 1 g 1 h 4 e 1 d 3 c 1 b 1 d 1 c 1 d 2 b 1 d 3 e 1 h 2 g 1 f 1 g 1
+g 1 f 1 g 1 h 5 d 4 c 1 b 1 c 1 d 3 b 1 d 3 h 4 g 1 f 1 g 1
+g 1 f 1 g 2 h 4 e 1 d 4 c 2 d 3 b 1 d 3 e 1 h 5 g 1 f 1 g 1
+g 1 f 1 g 1 h 4 d 5 c 1 d 3 b 1 d 3 e 1 h 5 g 1 f 1 g 1
+g 1 f 1 g 1 h 2 e 1 d 2 c 1 d 6 b 1 d 3 h 5 g 1 f 1 g 1
+g 1 f 1 g 1 h 1 d 2 c 1 b 1 d 5 b 1 d 3 e 1 h 4 g 1 f 1 g 1
+g 1 f 1 e 1 d 1 c 1 b 1 d 5 b 1 d 3 e 1 h 4 g 1 f 1 g 1
+e 1 d 1 c 1 b 1 d 6 b 1 d 3 h 4 g 1 f 1 g 1
+h 1 d 1 c 1 b 1 d 6 b 1 d 3 e 1 h 3 g 1 f 1 g 1
+e 1 c 1 b 1 d 3 h 1 d 2 b 1 d 3 e 1 h 3 g 1 f 1 g 1
+h 1 d 1 b 1 d 3 h 1 g 1 d 2 b 1 d 3 h 3 g 1 f 1 g 1
+e 1 c 1 b 1 d 2 h 1 g 1 f 1 d 1 b 1 d 3 e 1 h 2 g 1 f 1 g 1
+h 1 c 1 b 1 d 2 h 1 g 1 f 1 h 6 g 1 f 1 g 1
+h 1 c 1 b 1 d 2 h 1 g 1 f 1 g 1 h 3 g 1 f 1 g 1
+h 1 b 1 d 2 h 1 g 1 f 1 g 1 h 1 g 1 f 1 g 1
+h 1 b 1 d 2 h 1 g 1 f 1 g 1 f 1 g 1
+h 4 g 1 f 1 g 1
+g 1
+0
+0

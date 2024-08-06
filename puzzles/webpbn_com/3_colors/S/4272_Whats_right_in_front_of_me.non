@@ -1,0 +1,51 @@
+by "Nicole P (sunnyc.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Nicole P"
+date "Dec  7, 2008"
+description "A half-drunk bottle of coke! This is my first puzzle - kinda boring, hope it's okay"
+difficulty 1.25
+height 20
+id 4272
+link "https://webpbn.com/play.cgi?id=4272"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What's right in front of me"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 1 red 2 black 1
+black 6
+black 2 black 2
+black 2 black 2
+black 1 black 1
+black 1 red 8 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 2 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 red 8 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 10
+black 10
+black 10
+black 10
+black 10
+
+columns
+black 16
+black 2 red 5 black 5
+black 2 red 1 red 1 black 5
+black 3 red 1 red 1 red 1 black 5
+black 1 red 1 black 1 red 5 black 5
+black 1 red 1 black 1 red 1 red 1 black 5
+black 3 red 1 red 1 red 1 black 5
+black 2 red 1 red 1 black 5
+black 2 red 5 black 5
+black 16

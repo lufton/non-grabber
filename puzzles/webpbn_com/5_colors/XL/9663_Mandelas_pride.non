@@ -1,0 +1,98 @@
+by "Larry Gilbert (L2G)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Larry Gilbert"
+date "Jul 17, 2010"
+description "Yes, this rendition of South Africa's flag looks a little strange because the choice of puzzle colors doesn't include yellow, the color of the stripe surrounding black. I had to approximate it by dithering red and green together. You can kind of see it if you squint!"
+difficulty 1.5
+height 30
+id 9663
+link "https://webpbn.com/play.cgi?id=9663"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Mandela's pride"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6 red 35
+green 8 red 34
+green 9 red 32
+green 11 red 31
+red 1 green 1 red 1 green 9 red 29
+green 1 red 1 green 1 red 1 green 10 red 28
+black 1 green 1 red 1 green 1 red 1 green 10 red 26
+black 2 green 1 red 1 green 1 red 1 green 11 red 25
+black 4 red 1 green 1 red 1 green 11 red 23
+black 5 red 1 green 1 red 1 green 12 red 22
+black 7 green 1 red 1 green 1 red 1 green 10
+black 8 green 1 red 1 green 1 red 1 green 11
+black 10 red 1 green 1 red 1 green 32
+black 11 red 1 green 1 red 1 green 31
+black 13 green 1 red 1 green 30
+black 13 red 1 green 1 red 1 green 29
+black 11 green 1 red 1 green 1 red 1 green 30
+black 10 green 1 red 1 green 1 red 1 green 31
+black 8 red 1 green 1 red 1 green 12
+black 7 red 1 green 1 red 1 green 11
+black 5 green 1 red 1 green 1 red 1 green 11 blue 22
+black 4 green 1 red 1 green 1 red 1 green 10 blue 23
+black 2 red 1 green 1 red 1 green 12 blue 25
+black 1 red 1 green 1 red 1 green 11 blue 26
+red 1 green 1 red 1 green 11 blue 28
+green 1 red 1 green 10 blue 29
+green 11 blue 31
+green 9 blue 32
+green 8 blue 34
+green 6 blue 35
+
+columns
+green 4 red 1 green 1 black 18 red 1 green 5
+green 5 red 1 green 1 black 16 red 1 green 1 red 1 green 4
+green 4 red 1 green 1 red 1 green 1 black 14 red 1 green 1 red 1 green 5
+green 5 red 1 green 1 red 1 black 14 green 1 red 1 green 6
+green 6 red 1 green 1 red 1 black 12 green 1 red 1 green 7
+green 7 red 1 green 1 red 1 black 10 green 1 red 1 green 8
+green 7 red 1 green 1 black 10 red 1 green 8
+green 8 red 1 green 1 black 8 red 1 green 1 red 1 green 7
+green 8 red 1 green 1 black 6 red 1 green 1 red 1 green 7
+green 8 red 1 black 6 green 1 red 1 green 7
+red 1 green 7 red 1 green 1 red 1 black 4 green 1 red 1 green 8 blue 1
+red 2 green 7 red 1 green 1 red 1 black 2 green 1 red 1 green 8 blue 2
+red 2 green 7 red 1 green 1 black 2 red 1 green 8 blue 2
+red 3 green 8 red 1 green 1 red 1 green 1 red 1 green 7 blue 3
+red 4 green 8 red 1 green 1 red 1 green 7 blue 4
+red 4 green 8 red 1 green 7 blue 4
+red 5 green 16 blue 5
+red 6 green 14 blue 6
+red 6 green 12 blue 6
+red 7 green 12 blue 7
+red 8 green 10 blue 8
+red 8 green 8 blue 8
+red 9 green 8 blue 9
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10

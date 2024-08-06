@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Oct  3, 2012"
+description "I'm going to the vet to get tutored."
+difficulty 1.5
+height 20
+id 19932
+link "https://webpbn.com/play.cgi?id=19932"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Inspired by The Far Side #6: After the post office..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 8 blue 2
+blue 3 blue 1 blue 2 blue 5
+blue 2 blue 1 blue 1 blue 6
+blue 2 black 3 blue 8
+blue 1 black 2 blue 1 black 3 blue 8
+blue 1 black 3 red 2 blue 6 black 1 blue 2
+blue 1 black 5 red 1 blue 7 black 3 blue 1
+blue 1 black 6 blue 7 black 2 black 2
+blue 1 black 4 blue 2 black 2 blue 6 black 1 black 1
+blue 1 black 5 blue 2 black 2 blue 5 black 1 black 1
+blue 1 black 1 blue 3 black 2 blue 1 black 2 blue 5 black 2 black 2
+blue 5 black 2 blue 7 black 5
+blue 13 black 3
+blue 12
+blue 10 black 3
+blue 9 black 6
+black 2 blue 5 black 7
+black 3 blue 3 black 4
+black 3 black 3
+black 2 black 2
+
+columns
+blue 13 black 2
+blue 2 black 3 blue 5 black 3
+blue 2 black 4 blue 7 black 3
+blue 1 black 6 blue 8 black 2
+blue 2 black 7 blue 8
+blue 1 black 1 blue 1 black 3 blue 1 black 3 blue 6
+blue 3 black 2 red 1 black 2 blue 2 black 2 blue 5
+blue 1 black 1 red 2 black 2 blue 7
+blue 1 black 1 blue 1 black 3 blue 5
+blue 1 blue 3 black 2 blue 4
+blue 1 blue 8
+blue 2 blue 9
+blue 12
+blue 9 black 2
+blue 9 black 1 black 2
+blue 6 black 6 black 3
+blue 5 black 2 black 3 black 4
+blue 5 black 2 black 2 black 5
+blue 6 black 2 black 2 black 5
+blue 6 black 4 black 4

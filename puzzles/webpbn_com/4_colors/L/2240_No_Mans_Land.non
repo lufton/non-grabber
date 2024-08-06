@@ -1,0 +1,82 @@
+by "Debra Greene (dlegreen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Debra Greene"
+date "Jan 31, 2008"
+description "The capital is easy - name the islands! (I left out a couple of the tiny ones)"
+difficulty 1.75
+height 30
+id 2240
+link "https://webpbn.com/play.cgi?id=2240"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "No Man's Land"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 green 1 blue 8 blue 1 blue 15
+blue 1 green 4 blue 7 blue 15
+green 6 blue 6 blue 1 blue 15
+blue 1 green 5 blue 2 green 1 blue 6 blue 14
+blue 2 green 3 blue 3 green 3 blue 3 blue 1 blue 13
+blue 6 green 6 blue 2 blue 13
+blue 7 green 3 black 1 green 2 blue 1 blue 1 blue 13
+blue 8 green 2 blue 7 blue 3 blue 8
+blue 17 blue 1 blue 1 blue 8
+blue 17 blue 8
+blue 8 green 2 blue 12 blue 7
+blue 1 blue 4 green 7 blue 8 blue 1 blue 6
+blue 1 blue 3 green 7 blue 8 blue 6
+blue 6 green 2 blue 10 blue 1 blue 6
+blue 1 blue 10 green 2 blue 1 green 2 blue 6 blue 3
+blue 3 blue 9 green 7 blue 5 blue 4
+blue 3 blue 5 green 2 blue 4 green 6 blue 3 blue 3
+blue 3 blue 5 green 2 blue 4 green 3 blue 8
+blue 5 blue 2 green 2 blue 4 green 2 blue 10 blue 1
+blue 5 blue 1 blue 5 green 1 blue 13
+blue 5 blue 4 green 2 blue 4 green 2 blue 10
+blue 8 blue 1 blue 7 green 5 blue 7
+blue 8 blue 8 green 8 blue 3
+blue 8 blue 1 blue 8 green 10 blue 1
+blue 11 blue 6 green 11 blue 1
+blue 10 blue 1 blue 5 green 10 blue 2
+blue 10 blue 7 green 7 blue 3
+blue 10 blue 1 blue 7 green 6 blue 4
+blue 21 green 4 blue 5
+blue 23 green 2 blue 5
+
+columns
+blue 2 green 1 blue 9 blue 15
+blue 1 green 3 blue 7 blue 1 blue 16
+blue 1 green 4 blue 7 blue 15
+green 5 blue 10 blue 12
+blue 1 green 4 blue 12 blue 12
+blue 2 green 2 blue 14 blue 9
+blue 5 green 1 blue 5 green 2 blue 5 blue 1 blue 9
+blue 5 green 2 blue 4 green 2 blue 5 blue 9
+blue 3 green 5 blue 2 green 3 blue 8 blue 6
+blue 4 green 4 blue 2 green 4 blue 2 green 1 blue 5 blue 7
+blue 4 green 2 black 1 blue 4 green 3 blue 2 green 3 blue 2 blue 1 blue 2
+blue 5 green 2 blue 4 green 2 blue 4 green 2 blue 5 blue 1 blue 3
+blue 3 green 1 blue 4 green 2 blue 7 green 1 blue 4 blue 2
+blue 1 blue 12 green 2 blue 3 green 2 blue 9
+blue 1 blue 7 green 2 blue 14
+blue 3 blue 1 blue 9 green 2 blue 13
+blue 4 blue 7 green 5 blue 11
+blue 7 blue 4 green 5 blue 11
+blue 9 blue 5 green 3 blue 2 green 2 blue 2 green 2 blue 4
+blue 8 blue 5 green 2 blue 3 green 6 blue 4
+blue 9 blue 6 green 1 blue 4 green 7 blue 2
+blue 7 blue 1 blue 7 green 8 blue 1
+blue 10 blue 1 blue 8 green 8 blue 1
+blue 11 blue 8 green 8
+blue 14 blue 1 blue 5 green 8
+blue 14 blue 5 green 6 blue 2
+blue 14 blue 1 blue 5 green 5 blue 3
+blue 17 blue 1 blue 3 green 3 blue 4
+blue 17 blue 3 green 2 blue 5
+blue 17 blue 1 blue 10

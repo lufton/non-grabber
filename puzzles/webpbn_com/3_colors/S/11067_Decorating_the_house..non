@@ -1,0 +1,46 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Nov 18, 2010"
+description ":D"
+difficulty 1.5
+height 15
+id 11067
+link "https://webpbn.com/play.cgi?id=11067"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Decorating the house."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 2 black 1 black 2
+black 3 black 1
+black 3 black 1
+black 2 black 3
+black 2 black 5
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 red 2 black 1
+red 2
+red 2
+red 3
+
+columns
+black 4
+black 4
+black 2
+black 2
+black 2 black 7
+black 1 black 2 black 1 red 1
+black 6 black 1 red 4
+black 1 black 2 red 4
+black 2 black 7
+black 1

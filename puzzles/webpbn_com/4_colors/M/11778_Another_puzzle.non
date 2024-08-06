@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 16, 2011"
+description "I still do sudoku every day. What other games and puzzles do you do? Wanna puzzle it out?"
+difficulty 1.75
+height 15
+id 11778
+link "https://webpbn.com/play.cgi?id=11778"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Another puzzle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 13
+black 1 red 1 blue 1 black 1 blue 1 red 1 black 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 black 1
+black 1 blue 1 red 1 black 1 blue 1 red 1 black 1 blue 1 red 1 black 1 black 2
+black 13 black 3
+black 1 black 1 red 1 black 1 blue 1 black 1 black 4
+black 1 blue 1 red 1 blue 1 black 1 black 1 blue 1 blue 1 black 1 black 3
+black 1 blue 1 red 1 black 1 black 1 red 1 black 1 red 2 black 1
+black 13 red 1
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 red 1 blue 1 red 1 black 1 blue 2 red 1 black 1 blue 1 red 1 black 1
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 13
+0
+
+columns
+0
+black 13
+black 1 red 1 blue 1 black 1 blue 2 black 1 red 1 black 1
+black 1 blue 1 red 1 black 1 red 2 black 1 blue 2 black 1
+black 1 blue 1 red 1 black 1 blue 1 black 1 blue 1 red 1 black 1
+black 13
+black 1 blue 1 black 1 black 1 blue 1 black 1
+black 1 red 1 blue 2 black 1 red 1 black 1 blue 2 black 1
+black 1 blue 1 red 1 black 1 black 1 red 1 blue 1 black 1
+black 13
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 2 red 1 black 1 black 1 red 1 blue 1 black 1
+black 1 red 1 black 1 blue 2 red 1 black 1 blue 1 black 1
+black 13
+0
+red 2
+black 2 red 1
+black 4
+black 4
+black 4

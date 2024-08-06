@@ -1,0 +1,57 @@
+by "Nathan (SirMoose)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Nathan"
+date "Dec  7, 2011"
+description "Don't push that button!"
+difficulty 2.25
+height 20
+id 16677
+link "https://webpbn.com/play.cgi?id=16677"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "STOP!"
+width 20
+
+rows
+2
+2,2
+2,2
+2,3
+2,1,4
+2,1,3,1
+1,1,1
+2,1,1,1
+2,2,1,2
+2,4
+4,1,1
+2,1,3
+1,2,1
+2,2
+7
+0
+10
+1,1
+1,1
+20
+
+columns
+1
+1
+1
+1
+1
+3,4
+5,2,2,2,1,1
+5,2,1,1,1,1
+1,1,1,1
+2,1,1,1
+7,1,1,1
+1,1,1,1,1
+2,2,1,1
+2,2,1,1
+2,8,4
+1,1,1,1
+2,1,1
+1,4,1
+5,1,1
+1,2,1

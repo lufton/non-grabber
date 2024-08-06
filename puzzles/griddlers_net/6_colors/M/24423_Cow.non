@@ -1,0 +1,63 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/22/05"
+height 20
+id 24423
+link "https://www.griddlers.net/nonogram/-/g/24423"
+medium_time "0:05:30"
+points 1673
+popularity 76.0
+title "Cow"
+width 20
+
+color a 00e1fe
+color c 00ff00
+color e fffefe
+color f ffa8c1
+color g 808080
+color h 000000
+
+rows
+0
+g 1 g 1
+g 2 h 3 g 2
+f 3 h 5 f 3
+f 2 e 3 h 3 e 1 f 2
+e 3 h 2 e 3 h 2 e 2 h 1
+e 1 h 1 e 3 h 1 e 2 h 6 e 2 h 1
+e 2 f 3 e 3 h 6 e 2 h 1
+f 1 h 1 f 1 h 1 f 1 e 2 h 5 e 3 h 1
+f 5 e 2 h 4 e 4 h 1
+f 3 e 3 h 3 e 6
+e 6 h 2 e 6
+e 5 h 2 e 7
+c 1 c 1 e 5 h 2 e 7
+c 1 c 3 e 14
+c 7 e 13
+c 8 e 5 c 2 f 5
+c 8 e 5 c 3 f 4
+c 8 e 4 c 5 f 1 e 1 f 1
+c 8 e 4 c 6 e 2
+
+columns
+c 7
+f 2 c 5
+f 2 c 6
+g 2 f 1 e 4 c 7
+g 1 h 1 e 2 h 1 e 1 f 2 c 6
+h 2 e 3 f 1 h 1 f 2 c 5
+h 4 e 1 f 4 e 4 c 5
+h 4 e 1 f 1 h 1 f 2 e 5 c 4
+g 1 h 2 e 1 h 1 e 1 f 2 e 10
+g 2 f 1 e 16
+f 2 e 15
+f 2 h 6 e 1 h 2 e 6
+h 9 e 4 c 2
+h 6 e 4 c 4
+h 4 e 6 c 4
+h 3 e 7 f 1 c 3
+h 2 e 8 f 2 c 2
+e 11 f 3 c 1
+e 11 f 2 e 2
+h 5 e 6 f 3 e 1

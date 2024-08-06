@@ -1,0 +1,77 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David Bouldin"
+date "Feb 10, 2012"
+description "Tom challenged anyone to re-rebus this move title from Puzzle #17405...so the spoilers are the same ;) ...this is Version 2, so #22.2.2?"
+difficulty 1.75
+height 15
+id 17438
+link "https://webpbn.com/play.cgi?id=17438"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Movie Title #22.2?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1
+black 7 black 2 black 1 black 2
+black 8 black 2 black 2 black 2
+black 1 black 3 black 2 red 3 red 3 black 7 black 1
+black 1 black 6 red 4 red 4 black 3 black 2 black 4
+black 1 black 2 black 1 red 5 red 5 black 3 black 3 black 2
+black 1 black 1 black 1 black 1 red 11 black 1 black 5 black 1
+black 1 black 2 black 1 black 1 red 11 black 3 black 5 black 2
+black 5 black 1 black 1 black 1 red 3 red 3 red 3 black 1 black 5 black 1
+black 3 black 2 black 1 black 1 red 3 red 1 red 3 black 2 black 3 black 3
+black 1 black 1 black 1 black 1 red 3 red 3 black 4 black 2 black 1
+black 2 black 1 black 1 red 3 red 3 black 1 black 6
+blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 2 black 2 black 2
+blue 3 blue 3 blue 3 black 1 blue 3 black 2 black 1 black 1
+blue 16 black 1 black 1 black 1
+
+columns
+black 1 blue 2
+black 2 blue 3
+black 8 blue 2
+black 2 blue 1
+black 2 black 1 blue 2
+black 3 black 1 black 1 black 1 black 1 blue 3
+black 12 blue 2
+black 2 black 1 blue 1
+black 2 black 1 blue 2
+black 2 black 1 black 6 blue 3
+black 4 blue 2
+black 13 blue 1
+blue 2
+blue 3
+blue 2
+red 9 blue 1
+red 9
+red 9
+red 4
+red 4
+red 4
+red 4
+red 4
+red 9
+red 9
+red 9
+0
+black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 2
+black 2 black 6 black 2
+black 4 black 2 black 2
+black 2 black 3 black 3
+black 2 black 5 black 1
+black 4 black 5 black 4
+black 1 black 5 black 2
+black 3 black 3 black 2
+black 5 black 4
+black 1 black 6 black 2
+black 1 black 2 black 1 black 2 black 1

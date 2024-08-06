@@ -1,0 +1,61 @@
+by "ik (ik)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ik"
+date "Nov 29, 2010"
+description "IT'S SNOWING!! their's allready 5 cm. and it just keeps snowing!! yeah merry christmas happy winter!!!"
+difficulty 2.75
+height 20
+id 11188
+link "https://webpbn.com/play.cgi?id=11188"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "IT'S SNOWING!!!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 9 blue 10
+blue 8 blue 9
+blue 7 blue 8
+blue 3 black 2 black 1 black 1 black 1 black 2 blue 4
+blue 3 black 1 black 1 black 3 black 1 black 1 blue 4
+blue 3 black 2 black 1 black 1 black 2 blue 4
+blue 3 black 1 black 1 black 1 blue 4
+blue 2 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 1 black 1 black 1 black 1 black 1 blue 2
+black 2 black 2 black 2 black 2 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 2
+blue 2 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 3 black 1 black 1 black 1 blue 4
+blue 3 black 2 black 1 black 1 black 2 blue 4
+blue 3 black 1 black 1 black 3 black 1 black 1 blue 4
+blue 3 black 2 black 1 black 1 black 1 black 2 blue 4
+blue 7 blue 8
+blue 8 blue 9
+blue 9 blue 10
+blue 20
+
+columns
+blue 9 blue 10
+blue 8 blue 9
+blue 7 blue 8
+blue 3 black 2 black 1 black 1 black 1 black 2 blue 4
+blue 3 black 1 black 1 black 3 black 1 black 1 blue 4
+blue 3 black 2 black 1 black 1 black 2 blue 4
+blue 3 black 1 black 1 black 1 blue 4
+blue 2 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 1 black 1 black 1 black 1 black 1 blue 2
+black 2 black 2 black 2 black 2 blue 1
+blue 1 black 1 black 1 black 1 black 1 blue 2
+blue 2 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 3 black 1 black 1 black 1 blue 4
+blue 3 black 2 black 1 black 1 black 2 blue 4
+blue 3 black 1 black 1 black 3 black 1 black 1 blue 4
+blue 3 black 2 black 1 black 1 black 1 black 2 blue 4
+blue 7 blue 8
+blue 8 blue 9
+blue 9 blue 10
+blue 20

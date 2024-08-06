@@ -1,0 +1,61 @@
+by "Eric (kelalatir)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Eric"
+date "Jul 18, 2020"
+description "The Battle between Gandalf and the Balrog from the Lord of the Rings. The Balrog wields a fiery sword and fiery whip, while Gandalf wields his wizard's staff and the Elven sword Glamdring."
+difficulty 3.5
+height 20
+id 34328
+link "https://webpbn.com/play.cgi?id=34328"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "A Scene from a favorite novel"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2 black 6 red 5
+black 1 black 1 black 2 red 2 red 1
+black 7 black 1 red 2 black 2 red 1
+black 1 black 1 red 1 black 1 black 2 red 1
+black 1 black 1 black 1 black 1 red 2 black 1 black 2 red 1 red 1
+black 1 black 1 red 2 black 2 black 2 red 1
+black 2 red 1 black 1 red 1 black 2 black 2
+black 1 red 1 black 2 red 1 black 2 black 1 red 1
+black 1 black 1 black 1 red 1 black 2 red 2
+black 1 black 1 red 2 black 1 black 2 red 2 black 1
+black 2 red 2 black 4 red 2 black 1
+black 3 red 1 black 4 red 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 2 red 1 black 1 black 3
+black 1 black 1 black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 5
+black 1 black 1 black 1 black 3
+black 4 black 1 black 1 black 3
+black 8 black 1 black 3
+black 12 black 1 black 1
+black 16
+
+columns
+black 3 black 3 black 2 black 4
+black 1 black 2 black 2 black 5 black 3
+black 1 black 1 black 1 black 1 black 3
+black 1 red 2 black 1 black 2 black 4
+black 1 black 1 black 1 red 2 black 3
+black 1 black 2 black 2 red 2 black 3
+black 3 black 2 black 2 red 1 black 9
+red 4 black 3 black 3
+black 1 red 2 black 1 black 2 black 2
+black 2 red 1 black 2 black 3 black 1 black 2
+black 3 red 1 black 2 black 2 black 2 black 2
+black 1 red 1 black 3 black 2 red 2 black 2 black 2
+black 1 red 1 black 1 red 2 black 1
+black 1 red 1 black 2 red 2 black 1
+red 2 black 1 black 2 red 2 black 7 black 1
+red 1 black 4 red 2 black 1 black 1
+red 1 black 2 black 1 black 6
+red 1 red 1 black 7 black 1
+red 1 red 1 black 1 black 1 black 6
+red 4 black 2 black 1

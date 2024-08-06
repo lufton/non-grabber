@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Brian Bellis"
+date "Nov 19, 2023"
+description "I promise I won't jump"
+difficulty 1.25
+height 30
+id 37848
+link "https://webpbn.com/play.cgi?id=37848"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Add a letter 4"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3
+green 3 black 1
+green 2 black 2
+green 2 black 4 black 1
+green 2 black 3 red 1
+red 2 red 1
+red 6
+red 6
+red 3
+red 3
+red 3
+blue 3
+blue 3
+blue 2
+blue 2
+blue 2
+blue 2
+green 3
+green 4
+black 9
+black 9
+black 7
+black 7
+black 7
+black 1 black 2
+black 1 black 2
+black 7
+black 1 black 2
+black 1 black 2
+black 7
+
+columns
+black 5 black 1 black 1
+black 5 black 1 black 1
+green 2 black 11
+green 4 black 5 black 1 black 1
+green 3 black 2 red 6 blue 2 black 5 black 1 black 1
+green 2 black 3 red 6 blue 6 green 2 black 11
+green 1 black 4 red 5 blue 6 green 2 black 11
+black 1 red 2 green 2 black 2
+red 2 green 1 black 2
+black 1 red 4

@@ -1,0 +1,62 @@
+by "Jeanette Wray (tobeykilmer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Jeanette Wray"
+date "Feb 16, 2010"
+description "Recently I discovered many of my peers had either never heard of or had completely forgotten Mr. Yuk, the friendly-faced mascot of the poison control center. I think it's time for a comeback tour! And the red eyes make him look cool :)"
+difficulty 1.75
+height 20
+id 7846
+link "https://webpbn.com/play.cgi?id=7846"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Mr. Yuk makes a comeback"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 8
+black 10
+black 2 green 8 black 2
+black 2 green 10 black 2
+black 2 green 2 black 1 green 6 black 1 green 2 black 2
+black 2 green 3 black 2 green 4 black 2 green 3 black 2
+black 2 green 5 black 2 green 2 black 2 green 5 black 2
+black 1 green 3 black 3 green 6 black 3 green 3 black 1
+black 1 green 2 black 2 red 1 black 2 green 4 black 2 red 1 black 2 green 2 black 1
+black 1 green 2 black 1 red 3 black 1 green 4 black 1 red 3 black 1 green 2 black 1
+black 1 green 18 black 1
+black 1 green 5 black 8 green 5 black 1
+black 1 green 4 black 2 green 1 black 1 green 3 black 3 green 4 black 1
+black 2 green 2 black 2 green 2 black 1 green 1 black 1 green 1 black 1 green 1 black 2 green 2 black 2
+black 2 green 1 black 1 green 3 black 1 green 1 black 1 green 1 black 1 green 2 black 1 green 1 black 2
+black 2 green 4 black 2 green 1 black 2 green 3 black 2
+black 2 green 4 black 3 green 3 black 2
+black 2 green 8 black 2
+black 10
+black 8
+
+columns
+black 8
+black 2 green 6 black 2
+black 2 green 8 black 2
+black 2 green 3 black 2 green 5 black 2
+black 2 green 3 black 2 red 1 green 3 black 2 green 1 black 2
+black 2 green 4 black 1 red 2 green 2 black 2 green 3 black 2
+black 2 green 2 black 2 green 1 black 2 red 1 green 1 black 2 green 5 black 2
+black 2 green 3 black 2 green 1 black 2 green 1 black 1 green 6 black 2
+black 2 green 4 black 1 green 4 black 5 green 2 black 2
+black 2 green 9 black 1 green 3 black 2 green 1 black 2
+black 2 green 9 black 1 green 1 black 2 green 1 black 1 green 1 black 2
+black 2 green 4 black 1 green 4 black 1 green 3 black 2 green 1 black 2
+black 2 green 3 black 2 green 1 black 2 green 1 black 5 green 2 black 2
+black 2 green 2 black 2 green 1 black 2 red 1 green 1 black 2 green 5 black 2
+black 2 green 4 black 1 red 2 green 2 black 2 green 3 black 2
+black 2 green 3 black 2 red 1 green 3 black 2 green 1 black 2
+black 2 green 3 black 2 green 5 black 2
+black 2 green 8 black 2
+black 2 green 6 black 2
+black 8

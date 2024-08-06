@@ -1,0 +1,103 @@
+by "hayley ireland (hayley88)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by hayley ireland"
+date "Jul 25, 2009"
+description "Fish are friends, not food!!!! My name is Bruce..."
+difficulty 2.25
+height 40
+id 6085
+link "https://webpbn.com/play.cgi?id=6085"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Under the sea"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1
+red 1 red 1
+red 2 red 1 red 2 red 2 blue 4
+red 4 red 2 red 6 blue 5
+red 8 red 2 red 1 blue 7
+red 4 red 2 red 1 blue 8
+red 2 red 1 blue 3 blue 3 blue 9
+red 1 blue 1 black 3 blue 7 blue 10
+blue 1 black 1 black 1 blue 8 blue 11
+blue 1 black 1 black 1 black 1 blue 3 black 3 blue 15
+blue 2 black 1 black 2 blue 2 black 1 black 1 blue 14
+blue 5 black 3 blue 2 black 2 black 1 black 1 blue 15
+blue 12 black 2 black 1 blue 15
+blue 16 black 4 blue 15
+blue 31 black 2 blue 2
+blue 29 black 2 blue 3 black 1 blue 1
+blue 27 black 2 blue 2 black 2 blue 2 black 1 blue 1
+blue 29 black 2 blue 2 black 1 blue 2 black 1 blue 1
+blue 31 black 1 blue 2 black 1 blue 2 black 1 blue 1
+blue 32 black 1 blue 2 black 1 blue 4
+blue 31 black 2 blue 7
+blue 40
+blue 40
+blue 38
+black 1 blue 37
+black 2 black 1 black 1 black 1 blue 22
+black 2 black 2 black 3 black 2 blue 23
+black 1 black 3 black 1 black 1 black 1 blue 25
+black 3 black 2 black 3 blue 25
+blue 1 black 1 black 1 black 1 blue 12 blue 11
+blue 15 blue 3 blue 7
+blue 15 green 2 green 1 blue 10
+green 1 blue 10 green 2 green 2 blue 10
+green 1 green 1 green 1 green 1 green 2 green 2 blue 9
+green 2 green 2 green 2 green 2 green 2 green 3 green 3 blue 7 green 2
+green 2 green 2 green 1 green 4 green 2 green 1 green 1 blue 5 green 2
+green 2 green 2 green 3 green 2 green 3 green 1 green 2 blue 2 green 2
+green 4 green 6 green 2 green 1 green 3
+green 3 green 4 green 8
+green 3 green 3 green 4
+
+columns
+blue 4 green 4
+red 1 blue 5 green 4
+red 3 blue 7 black 3 green 2
+red 5 blue 9 black 4 blue 3 green 3
+red 5 blue 10 black 2 blue 3 green 5
+red 3 blue 12 black 3 blue 3 green 3 green 2
+red 1 blue 12 black 3 blue 3 green 2
+red 3 blue 13 black 2 blue 3
+red 7 blue 13 black 2 blue 3 green 2
+blue 14 black 2 blue 3 green 3
+blue 14 black 2 blue 3 green 1
+blue 15 black 3 blue 3 green 1 green 2
+blue 17 black 2 blue 3 green 2 green 2
+blue 1 black 3 blue 14 black 3 blue 4 green 5
+blue 1 black 1 black 1 blue 13 black 2 blue 5 green 6
+blue 1 black 1 black 1 black 1 blue 20 green 3 green 3
+blue 1 black 1 black 2 blue 20 green 2
+blue 1 black 3 blue 21 green 3
+blue 23 green 4
+blue 4 black 2 blue 17 green 3
+blue 4 black 3 blue 17 green 2
+blue 3 black 1 black 1 blue 16 green 1
+blue 3 black 1 black 1 black 1 blue 16
+blue 2 black 1 black 1 blue 16
+red 1 blue 2 black 4 blue 16
+red 3 blue 21 green 2
+red 3 blue 20 green 3
+red 1 blue 20 green 2
+red 2 blue 22 green 2
+red 6 blue 25 green 3
+blue 9 black 1 blue 17 green 3
+blue 10 black 2 blue 2 black 1 blue 9 blue 4 green 2 green 2
+blue 12 black 4 blue 15 green 4
+blue 11 black 1 blue 20 green 2
+blue 11 black 2 blue 20 green 1
+blue 13 black 4 blue 17 green 2
+blue 12 black 1 blue 21 green 3
+blue 12 black 1 blue 10 blue 9 green 3
+blue 13 black 4 blue 6 blue 7 green 2
+blue 7 blue 14 green 1

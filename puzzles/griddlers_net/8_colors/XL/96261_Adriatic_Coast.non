@@ -1,0 +1,110 @@
+by "sciguy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/13/10"
+height 35
+id 96261
+link "https://www.griddlers.net/nonogram/-/g/96261"
+medium_time "0:44:20"
+points 59338
+popularity 80.66
+title "Adriatic Coast"
+width 50
+
+color a ffffff
+color b 669900
+color c 00cccc
+color d cc99ff
+color e ccccff
+color f ccffff
+color g cc9900
+color h cccc00
+
+rows
+f 14
+f 7 f 7 f 2 f 5
+f 2 f 1 f 7 f 2 f 5
+f 3 f 5 f 11 f 4
+f 4 f 5 g 1 f 2 f 9 e 1 f 1 e 2 f 7
+f 8 f 7 g 1 f 1 f 10 d 1 e 1 f 1 e 1 f 2 e 1 d 1 f 1
+f 16 g 3 f 24 f 3
+f 16 g 3 f 4 g 1 f 20 f 4
+d 5 f 10 g 5 f 2 g 1 g 1 f 16 d 1 f 1 d 2 f 4
+d 10 f 5 e 2 f 1 g 1 g 3 f 12 d 1 f 1 d 1 f 2 d 1 f 3
+d 10 f 4 d 1 e 2 f 1 d 1 e 2 g 2 f 17
+d 1 b 3 d 1 b 3 d 6 f 1 e 2 f 1 d 1 e 4 f 15
+b 3 h 1 b 9 d 2 d 1 e 2 f 1 e 4 f 15 f 1
+b 2 h 7 g 6 e 2 b 3 e 4 f 9 d 4 f 7
+h 8 g 1 g 4 d 1 e 1 b 4 b 4 e 2 f 1 d 3 f 4 d 8 f 4
+h 3 b 3 h 1 g 1 g 2 e 1 g 1 b 8 d 18 f 2
+b 2 h 1 b 6 d 1 g 1 e 1 g 2 b 3 b 6 d 16
+h 1 b 9 d 1 b 5 g 4 b 11 d 14
+b 7 g 16 c 17
+g 9 b 9 g 3 g 4 c 17
+g 28 g 2 c 16
+g 1 b 2 c 14
+g 7 g 4 g 3 g 2 h 5 g 6 b 1 c 14
+g 7 b 4 g 2 b 3 c 12
+c 13 g 5 c 1 h 5 b 3 g 1 b 4 c 12
+c 20 g 3 c 3 b 2 c 14
+c 22 g 1 f 1 g 1 c 18
+c 22 g 2 f 1 g 1 c 17
+c 4 c 4 g 3 f 1 g 1 c 16
+c 5 d 3 e 2 d 3 e 3 c 4 g 4 c 5
+c 5 d 1 e 2 d 2 e 4 g 1 c 5 g 3 c 4
+c 6 g 3 c 4 g 22 c 3
+c 8 c 4 g 4 c 1 g 1 h 20 c 3
+c 50
+c 50
+
+columns
+f 3 d 2 d 1 b 2 h 2 b 1 h 1 g 2 g 1 c 11
+f 3 d 3 b 3 h 2 b 2 g 2 g 1 c 11
+f 3 d 3 b 2 h 4 b 1 g 2 g 1 c 11
+f 5 d 3 b 1 h 3 b 3 g 2 g 1 c 11
+f 5 d 4 b 1 h 2 b 3 g 2 g 1 c 4 c 6
+f 6 d 2 b 2 h 2 b 3 g 2 g 1 c 4 c 4
+f 5 d 2 b 2 h 3 b 2 g 2 g 1 c 4 d 1 c 3
+f 4 d 2 b 2 h 2 g 1 b 2 g 2 c 4 d 2 c 3
+f 3 d 3 b 1 h 1 g 1 b 2 g 2 g 1 c 4 d 1 e 1 c 2
+f 3 d 3 b 1 g 1 b 1 b 1 g 1 g 1 c 4 e 2 c 2
+f 1 f 5 d 2 b 1 g 1 d 2 b 2 g 1 g 1 c 4 e 1 c 2
+f 2 f 6 d 1 b 1 g 2 b 2 g 1 g 1 c 4 d 1 c 2
+f 1 f 7 d 1 b 1 g 2 b 3 g 1 c 4 d 2 c 2
+f 1 f 7 d 2 g 3 b 3 g 1 g 1 g 1 c 3 d 1 e 1 c 2
+f 1 f 8 d 1 g 4 b 3 g 1 g 1 g 1 c 3 d 1 e 1 c 2
+f 1 f 4 g 1 b 3 g 1 g 1 g 1 c 3 e 2 c 2
+f 1 f 2 g 3 d 1 d 1 d 1 b 3 g 1 g 1 c 3 e 2 c 2
+f 1 f 1 g 5 g 1 b 1 g 1 g 1 c 3 e 1 g 1 c 3
+f 4 g 3 e 8 g 4 g 2 c 5 g 1 c 3
+f 2 f 2 g 1 e 5 b 1 g 6 g 2 h 1 c 6 g 1 c 3
+f 1 f 7 b 2 g 5 g 1 h 1 g 1 c 5 g 1 c 3
+f 2 f 3 g 1 b 2 g 2 g 1 h 1 g 1 h 1 g 1 c 6 g 1 c 2
+f 1 f 3 g 1 b 3 g 1 g 1 h 1 g 1 h 1 g 4 c 3 g 1 c 2
+f 1 f 2 g 1 b 1 g 1 g 1 h 1 g 1 h 1 g 3 c 2 g 1 c 2
+f 2 f 3 g 1 d 2 b 3 g 1 g 1 h 1 g 1 g 3 c 1 g 1 c 2
+f 2 f 5 g 1 b 4 g 1 g 1 h 1 f 3 g 3 c 3
+f 3 f 5 g 1 e 4 b 4 g 1 g 1 g 7 c 2
+f 3 f 5 g 1 e 4 b 2 b 1 g 1 g 1 g 1 h 1 c 2
+f 2 f 6 g 1 e 4 b 3 g 1 g 1 h 1 c 2
+f 2 f 7 g 1 e 4 b 3 g 2 g 1 b 1 g 1 h 1 c 2
+f 15 d 1 b 2 g 2 g 1 b 2 g 1 h 1 c 2
+f 1 f 12 d 2 b 2 g 2 g 1 b 2 c 1 g 1 h 1 c 2
+f 1 f 2 d 1 f 8 d 2 b 2 g 3 g 1 b 2 c 2 g 1 h 1 c 2
+f 1 f 2 e 1 f 8 d 2 b 2 c 2 g 5 c 3 g 1 h 1 c 2
+f 1 f 1 e 1 f 10 d 2 b 1 c 3 b 1 g 2 b 2 c 3 g 1 h 1 c 2
+f 1 f 2 e 1 f 9 d 2 b 1 c 3 b 5 c 3 g 1 h 1 c 2
+f 2 f 1 e 1 f 10 d 3 c 5 b 2 c 4 g 1 h 1 c 2
+f 2 f 1 e 1 f 10 d 3 c 5 b 2 c 4 g 1 h 1 c 2
+f 1 f 2 e 1 f 8 d 4 c 11 g 1 h 1 c 2
+f 1 f 2 d 1 f 7 d 5 c 11 g 1 h 1 c 2
+f 5 d 1 f 3 d 5 c 11 g 1 h 1 c 2
+f 1 f 2 d 1 f 4 d 5 c 11 g 1 h 1 c 2
+f 2 f 3 d 1 f 3 d 5 c 11 g 1 h 1 c 2
+f 3 f 1 d 1 f 5 d 4 c 11 g 1 h 1 c 2
+f 3 d 1 f 5 d 4 c 11 g 1 h 1 c 2
+f 3 f 1 d 1 f 1 f 1 d 4 c 12 g 1 h 1 c 2
+f 2 f 4 f 2 d 3 c 13 g 1 h 1 c 2
+f 2 f 4 f 2 d 3 c 17
+f 1 f 4 f 3 d 2 c 17
+f 1 f 2 f 4 d 2 c 17

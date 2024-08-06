@@ -1,0 +1,62 @@
+by "Joanne Firla (JoFirla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Joanne Firla"
+date "Apr  6, 2023"
+description "...your mother brings you a Christmas wreath? Answer in the first comment."
+difficulty 2.0
+height 20
+id 36598
+link "https://webpbn.com/play.cgi?id=36598"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What do you get when...(16)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 18
+black 2 green 2 black 1
+black 2 green 5 black 1
+black 2 green 6 black 1
+black 2 green 6 black 1
+black 2 green 4 green 2 green 2 black 1
+black 2 green 3 green 3 black 1
+black 2 green 2 green 1 green 2 black 1
+black 2 green 2 red 1 green 2 red 1 green 4 black 1
+black 2 green 1 red 2 green 1 red 2 green 4 black 1
+black 2 green 1 red 2 green 1 red 2 green 2 black 1
+black 2 red 1 green 1 red 1 red 1 green 1 black 1
+black 2 red 3 black 1
+black 2 red 1 red 1 black 1
+black 2 red 2 red 1 black 1
+black 2 red 1 red 1 black 1
+black 2 red 1 black 1
+black 2 black 2 black 1
+black 2 black 2 black 1
+black 2 black 1
+
+columns
+0
+0
+black 20
+black 20
+black 1
+black 1
+black 1 green 2
+black 1 green 6 black 2
+black 1 green 3 red 4 red 2 black 2
+black 1 green 6 red 2 green 1 red 3
+black 1 green 4 green 3 red 2
+black 1 green 4 red 2 red 3
+black 1 green 4 red 4 red 2
+black 1 green 4 green 2
+black 1 green 2 green 5
+black 1 green 6
+black 1 green 2 green 3
+black 1 green 1
+black 1
+black 20

@@ -1,0 +1,44 @@
+by "jedslater"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/14/12"
+height 13
+id 120736
+link "https://www.griddlers.net/nonogram/-/g/120736"
+medium_time "0:01:14"
+points 293
+popularity 43.92
+title "Tiny Tower: Tarot Reading"
+width 8
+
+color a 0033cc
+color b ffffff
+color c ffff99
+color d 333333
+color e cccccc
+color f 541e03
+
+rows
+b 8
+b 1 b 1
+b 1 c 1 b 1
+b 1 c 1 c 1 b 1
+b 1 c 1 b 1
+b 1 d 1 b 1
+b 1 d 3 f 1 e 1 b 1
+b 1 d 2 b 1 f 1 b 1
+b 1 d 3 f 1 b 1
+b 1 d 3 f 1 b 1
+b 1 d 4 f 1 b 1
+b 1 d 3 f 1 b 1
+b 8
+
+columns
+b 13
+b 1 d 4 b 1
+b 1 d 6 b 1
+b 1 d 7 b 1
+b 1 c 1 d 1 b 1 d 1 b 1
+b 1 c 1 c 1 f 6 b 1
+b 1 c 1 e 1 b 1
+b 13

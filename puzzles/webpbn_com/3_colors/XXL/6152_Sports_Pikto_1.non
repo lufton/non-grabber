@@ -1,0 +1,141 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Kai-Uwe Zickerick"
+date "Jun 26, 2009"
+description "Official Piktogramm Basketball"
+difficulty 3.0
+height 60
+id 6152
+link "https://webpbn.com/play.cgi?id=6152"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Sports Pikto #1"
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 60
+black 20 black 1 black 1 black 4 black 1
+black 2 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4 black 1
+black 2 black 1 black 1 black 1 black 1 black 2 black 2 black 1 black 1 black 1 black 1 black 4 black 1
+black 2 black 2 black 1 black 3 black 2 black 1 black 1 black 1 black 1 black 4 black 1
+black 2 black 3 black 1 black 1 black 2 black 2 black 1 black 1 black 4 black 4 black 1
+black 2 black 3 black 1 black 1 black 2 black 2 black 1 black 4 black 4 black 1
+black 20 black 2 black 4 black 6 black 1
+black 4 black 1 black 3 black 9 black 4 black 4 black 8 black 1
+black 3 black 1 black 9 black 4 black 4 black 8 black 1
+black 4 black 1 black 3 black 9 black 4 black 4 black 8 black 1
+black 3 black 2 black 9 black 4 black 4 black 8 black 1
+black 4 black 1 black 3 black 9 black 4 black 4 black 6 black 1
+black 20 black 4 black 5 black 4 black 1
+black 1 black 4 black 4 black 6 black 1
+black 1 black 6 black 4 black 7 black 1
+black 1 black 8 black 4 black 8 black 1
+black 1 black 8 black 5 black 9 black 1
+black 1 black 8 black 5 black 10 black 1
+black 1 black 8 black 5 black 11 black 1
+black 1 black 6 black 5 black 12 black 1
+black 1 black 4 black 5 black 13 black 1
+black 1 black 5 black 14 black 1
+black 1 black 5 black 9 black 5 black 1
+black 1 black 6 black 9 black 5 black 1
+black 1 black 7 black 8 black 4 black 1
+black 1 black 8 black 7 black 4 black 1
+black 1 black 9 black 6 black 4 black 1
+black 1 black 10 black 1 black 5 black 4 black 1
+black 1 black 11 black 3 black 4 black 4 black 1
+black 1 black 12 black 5 black 3 black 4 black 1
+black 1 black 13 black 5 black 2 black 4 black 1
+black 1 black 5 black 8 black 5 black 1 black 1 black 4 black 1
+black 1 black 5 black 8 black 5 black 3 black 4 black 1
+black 1 black 5 black 7 black 5 black 5 black 4 black 1
+black 1 black 4 black 6 black 5 black 5 black 2 black 1
+black 1 black 4 black 5 black 5 black 5 black 1
+black 1 black 4 black 4 black 5 black 5 black 1
+black 1 black 4 black 3 black 6 black 5 black 1
+black 1 black 4 black 2 black 10 black 1
+black 1 black 4 black 1 black 9 black 1
+black 1 black 4 black 1 black 8 black 1
+black 1 black 4 black 3 black 7 black 1
+black 1 black 4 black 5 black 6 blue 3 blue 2 blue 3 blue 1 blue 1 blue 3 blue 3 black 1
+black 1 black 2 black 5 black 5 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 5 black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 blue 1 blue 1 black 1
+black 1 black 5 black 4 blue 3 blue 4 blue 3 blue 2 blue 2 blue 1 black 1
+black 1 black 5 black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 4 black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 4 black 4 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 4 blue 3 blue 2 blue 1 blue 1 black 1
+black 1 black 4 black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 4 black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 4 black 4 blue 3 blue 4 blue 1 blue 1 black 1
+black 1 black 4 black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 4 black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 4 black 2 blue 3 blue 1 blue 1 blue 3 blue 3 black 1
+black 1 black 4 black 1
+black 60
+
+columns
+black 60
+black 14 black 1
+black 2 black 7 black 1
+black 2 black 1 black 4 black 1 black 2 black 1
+black 3 black 4 black 1 black 1
+black 9 black 1 black 2 black 1
+black 2 black 1 black 1 black 10 black 1
+black 9 black 1 black 2 black 12 black 1
+black 2 black 7 black 13 black 1
+black 4 black 4 black 4 black 13 black 1
+black 2 black 1 black 1 black 1 black 5 black 1
+black 14 black 4 black 5 black 1
+black 2 black 11 black 6 black 5 black 1
+black 2 black 15 black 5 black 1
+black 2 black 19 black 15 black 1
+black 22 black 15 black 1
+black 2 black 15 black 15 black 1 black 1
+black 2 black 3 black 7 black 6 black 15 black 3 black 1
+black 2 black 7 black 4 black 15 black 5 black 1
+black 14 black 15 black 5 black 1
+black 1 black 15 black 5 black 1
+black 1 black 15 black 16
+black 1 black 5 black 2 black 15
+black 2 black 5 black 4 black 14
+black 1 black 2 black 13 black 6 black 13
+black 1 black 2 black 13 black 8 black 1
+black 1 black 1 black 12 black 10 black 1
+black 1 black 1 black 10 black 5 black 6 black 1
+black 1 black 2 black 5 black 6 black 1
+black 1 black 2 black 5 black 19 black 1
+black 2 black 5 black 21 black 1
+black 1 black 5 black 22 black 1
+black 25 black 3 black 22 black 1
+black 26 black 1 black 5 black 1
+black 27 black 5 blue 7 black 1
+black 28 black 5 blue 1 blue 1 blue 1 black 1
+black 1 black 16 black 3 blue 1 blue 1 blue 1 black 1
+black 1 black 4 black 16 black 1 blue 2 blue 2 black 1
+black 1 black 6 black 16 black 1
+black 1 black 8 black 16 blue 6 blue 7 black 1
+black 1 black 8 black 16 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 8 black 5 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 8 black 5 blue 6 blue 2 blue 2 black 1
+black 1 black 6 black 5 black 1
+black 1 black 4 black 14 blue 4 blue 1 blue 6 black 1
+black 1 black 14 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 13 blue 1 blue 4 blue 1 blue 1 black 1
+black 1 black 11 blue 6 black 1
+black 1 blue 7 black 1
+black 1 blue 2 blue 7 black 1
+black 1 blue 2 blue 3 blue 1 black 1
+black 1 blue 1 black 1
+black 1 blue 7 black 1
+black 1 blue 1 blue 1 blue 1 blue 7 black 1
+black 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 black 1
+black 1 blue 1 black 1
+black 1 blue 7 black 1
+black 1 blue 1 black 1
+black 60

@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Jul  7, 2014"
+description "A Speedo if you don't have the bod for it."
+difficulty 1.25
+height 20
+id 25041
+link "https://webpbn.com/play.cgi?id=25041"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Inappropriate Attire #23"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+blue 1 blue 1
+blue 1 black 7 blue 2
+blue 1 black 7 blue 2
+blue 1 black 8 blue 1
+blue 1 black 3 blue 1
+black 2 blue 1
+black 1 blue 1
+0
+0
+0
+blue 1
+blue 1 blue 1
+blue 2 blue 1
+blue 2 blue 1
+
+columns
+blue 5 blue 4
+black 3 blue 2
+black 3
+black 3
+black 3
+black 3
+black 4
+black 5
+blue 2 black 4
+blue 7 blue 3

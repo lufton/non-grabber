@@ -1,0 +1,70 @@
+by "Matt Gurney (joudas.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Matt Gurney"
+date "Feb 19, 2008"
+description "It's Birdo, who according to the SMB2 manual wishes to be called 'Birdetta'."
+difficulty 2.5
+height 33
+id 2307
+link "https://webpbn.com/play.cgi?id=2307"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Super Mario Brothers 2"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 1 black 1 black 2
+black 3 black 4 red 1 black 1
+black 2 black 1 black 2 red 1 black 1
+black 1 black 1 black 1 red 1 black 1
+black 1 black 1 black 1 black 2
+black 3 red 1 black 1 black 1 red 1 black 1
+black 1 red 4 black 3 red 3 black 1
+black 1 red 11 black 1
+black 1 red 9 black 1 red 2 black 1
+black 1 red 7 black 1 red 4 black 1
+black 1 red 13 black 1
+black 1 red 10 black 1 red 1 black 1
+black 1 red 1 black 2 red 6 black 2 red 1 black 1
+black 1 red 2 black 2 red 3 black 3 red 1 black 1
+black 2 red 4 black 4 red 2 black 1
+black 8 red 2 black 1
+black 4 red 3 black 1
+black 3 red 4 black 1
+black 2 red 5 black 1
+black 3 red 5 black 1 red 1 black 1
+black 1 red 2 black 3 red 2 black 2 red 1 black 1 black 1
+black 4 black 2 red 3 black 2 black 2
+black 1 black 1 red 2 black 2 red 1 black 2 red 1 black 1
+black 1 black 3 red 5 black 1
+black 1 black 4 red 2 black 1
+black 1 black 1 red 4 black 1
+black 1 red 1 black 1 black 1 red 5 black 1
+black 1 red 1 black 2 black 1 red 4 black 1
+black 1 red 2 black 6 red 3 black 1
+black 1 red 2 black 3 red 6 black 1
+black 2 red 2 black 9
+black 1 red 5 black 2
+black 7
+
+columns
+black 2
+black 5 black 1 red 1 black 1 black 3 black 1
+black 2 red 4 black 2 black 1 red 1 black 5 red 3 black 2 red 1 black 1
+black 1 red 4 black 1 red 2 black 1 black 3 black 2 red 2 black 1 red 1 black 1
+black 1 black 5 red 5 black 2 red 1 black 1 black 1 red 1 black 1 black 2 red 3 black 1
+black 2 black 1 red 7 black 1 red 1 black 4 red 1 black 1 black 2 red 2 black 1
+black 2 black 1 red 9 black 3 red 3 black 2 black 3 red 1 black 1
+black 1 black 2 red 9 black 4 red 3 black 1 red 1 black 1 black 5
+black 1 black 1 black 1 red 8 black 3 red 3 black 1 red 2 black 1 black 3 red 1 black 3
+black 1 black 1 black 1 red 6 black 3 red 3 black 2 red 1 black 4 red 2 black 1 red 1 black 1
+black 2 black 1 red 2 black 1 red 3 black 2 red 7 black 1 red 1 black 1 red 5 black 1
+black 1 black 1 red 5 black 2 red 4 black 4 red 2 black 1 red 5 black 1
+black 3 black 1 red 2 black 1 red 2 black 2 red 2 black 3 black 2 red 1 black 1 red 5 black 1
+black 1 red 1 black 3 red 8 black 2 black 1 red 4 black 2 red 1 black 1
+black 1 red 2 black 2 red 5 black 2 black 1 red 3 black 2 black 2
+black 2 black 5 black 5

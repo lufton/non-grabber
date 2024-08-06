@@ -1,0 +1,85 @@
+by "nasa17"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/21/09"
+height 30
+id 79739
+link "https://www.griddlers.net/nonogram/-/g/79739"
+medium_time "0:24:02"
+points 25762
+popularity 77.15
+title "Waterfall"
+width 30
+
+color a cf9b69
+color b 000000
+color c 66cffc
+color d f9fdfe
+color e 3365fc
+color f 663200
+color g 0098ff
+color h 986432
+
+rows
+c 30
+c 30
+c 30
+b 5 c 13 b 12
+b 13
+b 3 c 1 d 2 c 1 d 2 c 1 b 3
+b 5 c 1 d 4 b 3
+b 3 g 1 c 2 e 1 f 1 b 3
+b 1 g 2 c 2 f 2 h 1 b 3
+b 2 g 1 c 1 g 1 e 1 f 2 h 1 h 1
+b 2 b 2 f 2 g 1 c 1 g 1 c 1 f 2 h 1 h 1
+b 3 b 1 f 1 h 1 b 4 h 2 f 2 g 1 c 1 e 2 f 2 h 1 h 1
+b 3 f 2 h 1 b 3 f 2 h 1 h 1 h 1 f 1 h 1 f 1 g 1 d 1 g 1 c 1 e 1 f 1 h 1 h 1
+h 1 f 2 h 2 f 2 h 1 h 4 f 2 g 1 e 1 g 1 c 1 e 1 f 2 h 1
+h 1 f 2 h 1 f 2 h 1 h 1 h 1 f 1 h 1 f 1 e 1 g 2 c 1 e 1 f 1 h 1
+h 1 f 2 h 1 h 1 f 2 h 1 h 3 f 2 e 1 c 1 g 1 c 1 g 1 f 1 h 1 f 1 h 1
+h 1 f 2 h 1 f 2 h 1 h 1 h 1 f 1 h 1 f 1 e 1 c 1 g 1 c 1 g 1 f 2 h 1
+h 1 f 2 h 1 f 2 h 1 h 3 f 2 e 1 c 1 g 1 d 1 g 1 f 1 h 1 f 1
+h 1 f 2 h 1 h 1 f 2 h 1 h 1 h 1 f 3 e 1 c 1 g 1 d 1 g 1 f 2 h 1
+h 1 h 1 f 3 h 2 f 1 h 1 h 2 f 2 e 1 d 1 g 1 d 1 c 1 g 1 f 2
+h 1 h 1 f 3 h 2 f 1 h 1 h 3 f 2 g 1 c 2 e 1 d 1 c 1 g 1 f 2
+h 1 h 1 f 3 h 2 f 1 h 1 h 1 h 2 f 2 g 1 c 2 e 1 g 1 c 1 g 1 f 2
+h 1 h 1 f 3 h 1 f 2 h 1 h 3 f 2 g 1 d 1 c 1 d 1 g 1 c 1 g 1 f 2
+h 1 h 2 f 2 h 1 h 1 f 1 h 1 h 1 h 2 f 2 g 1 d 1 c 1 e 1 c 1 d 1 g 1 f 3
+h 1 h 1 f 3 h 1 f 2 h 1 h 3 f 2 g 1 d 1 c 1 e 1 c 1 e 1 c 1 e 1 f 2
+h 4 f 2 h 2 f 2 h 1 h 1 h 2 f 2 g 1 e 1 c 1 d 1 c 1 e 1 c 1 e 1 f 2
+h 1 h 1 f 3 h 1 f 2 h 1 h 3 f 2 d 2 g 1 d 1 c 1 d 1 c 1 d 1 f 2
+h 4 f 2 h 2 f 2 h 1 h 3 f 2 g 1 c 1 g 1 d 1 c 1 e 1 c 1 e 1 f 2
+h 3 f 3 h 2 f 1 h 1 h 1 h 3 f 1 g 1 d 1 g 1 d 2 c 1 d 1 c 1 f 2
+h 3 f 3 h 3 f 1 h 1 h 3 f 1 g 1 d 1 g 1 d 2 c 1 d 1 c 1 f 2
+
+columns
+c 3 b 1 b 1 h 11
+c 3 b 1 b 1 h 1 h 3
+c 3 b 1 b 1 h 17
+c 3 b 1 b 1 f 11 h 1 f 1 h 1 f 1 h 1 f 2
+c 3 b 1 b 1 f 18
+c 4 b 1 b 1 h 7 f 11
+c 4 b 1 b 1 h 1
+c 4 b 1 b 1 h 1 h 1 h 1 h 1 h 1
+c 4 b 2 b 1 h 5 h 6
+c 4 b 2 b 1 f 7 h 3 f 1 h 1 f 4 h 2
+c 4 b 2 b 1 f 19
+c 4 b 1 c 1 b 1 b 1 h 19
+c 4 b 1 d 1 b 1 b 1
+c 4 b 1 d 1 b 1 b 1 h 1 h 1 h 1 h 1
+c 4 b 1 c 1 b 1 b 1 h 3 h 1 h 1 h 1 h 1 h 1 h 2
+c 4 b 1 d 1 b 1 b 1 h 1 h 1 h 1 h 10
+c 4 b 1 d 1 c 1 b 1 b 1 h 19
+c 4 b 1 c 1 d 1 b 1 b 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 8 h 2
+c 3 b 1 b 1 d 1 b 1 b 1 f 2 h 1 f 1 h 1 f 1 h 1 f 13
+c 3 b 1 b 1 d 1 g 1 b 2 f 10 g 6 d 1 g 3
+c 3 b 1 b 1 d 1 c 1 g 6 e 6 c 2 d 3 e 1 d 1 c 1 d 2
+c 3 b 1 b 1 c 1 g 1 c 3 d 1 e 1 g 1 c 4 d 1 c 6 g 4
+c 3 b 1 b 1 e 1 c 1 g 2 e 1 g 8 e 2 d 1 e 2 d 5
+c 3 b 1 b 1 f 1 c 1 e 1 c 1 e 1 c 5 d 4 g 2 c 5 d 2
+c 3 b 1 b 1 f 4 e 3 g 4 c 4 d 1 e 2 d 1 e 1 c 2
+c 3 b 1 b 1 f 11 g 5 c 4 d 2
+c 3 b 1 b 1 h 5 f 1 h 2 f 1 h 1 f 6 e 2 d 1 e 1 c 2
+c 3 b 1 b 1 f 1 h 1 f 1 h 1 f 11
+c 3 b 1 b 1 h 1 h 1 f 7
+c 3 b 1 b 1 h 1 h 1 h 1 h 1

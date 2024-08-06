@@ -1,0 +1,72 @@
+by "person harris (games1793)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by person harris"
+date "May 28, 2008"
+description "i love my mom"
+difficulty 1.25
+height 30
+id 2865
+link "https://webpbn.com/play.cgi?id=2865"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "my mom"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+blue 5
+blue 1
+blue 1
+blue 1
+blue 5
+0
+red 1 red 3 red 1 red 1 red 4
+red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 3 red 1 red 1 red 3
+red 1 red 1 red 1 red 1
+red 4 red 3 red 4
+0
+blue 5 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 3
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1
+0
+black 5 black 4 black 5
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 4 black 1 black 1 black 1
+0
+0
+0
+0
+
+columns
+0
+0
+blue 1 blue 1 red 5 blue 5 black 5
+blue 1 blue 1 red 1 blue 1 black 1
+blue 5 red 3 red 1 blue 5 black 5
+blue 1 blue 1 red 1 red 1 red 1 blue 1 black 1
+blue 1 blue 1 red 3 blue 5 black 5
+0
+red 5 blue 3 black 5
+red 1 blue 3 black 1 black 1
+red 5 blue 3 black 1 black 1
+black 5
+red 5
+red 1 red 1 red 1 black 5
+red 1 red 1 red 1 black 1
+red 1 red 1 black 5
+black 1
+black 5
+0
+0

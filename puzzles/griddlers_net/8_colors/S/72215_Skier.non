@@ -1,0 +1,54 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/22/08"
+height 16
+id 72215
+link "https://www.griddlers.net/nonogram/-/g/72215"
+medium_time "0:06:31"
+points 816
+popularity 65.72
+title "Skier"
+width 13
+
+color a ffffff
+color b 000000
+color c ffcc99
+color d cc9966
+color e cc66ff
+color f 990033
+color g 000099
+color h 3366ff
+
+rows
+b 3
+b 5
+c 3 b 3
+c 2 d 1 b 1 e 1
+f 5 e 3
+f 7 e 1 e 1
+f 2 f 3 e 1 f 1 e 1
+g 2 e 3 g 2 f 2 e 4
+g 2 g 2 f 2 e 1
+f 4 h 2
+f 2 b 3 h 1 h 1
+b 5 h 2 g 1
+h 2 g 1 b 2 h 1 g 1
+h 2 g 1 h 2 g 1
+h 2 g 1
+h 2 g 1
+
+columns
+c 1 g 2
+b 1 c 2 f 2 g 2 h 1
+b 2 c 2 f 3 e 1 h 1 h 1
+b 3 d 1 f 2 e 1 h 1 g 1 h 1
+b 4 f 3 e 1 f 2 h 1 h 1 g 1
+b 2 f 3 g 2 f 2 b 1 g 1 h 1
+f 3 g 2 f 1 b 2 h 1 g 1
+f 1 e 1 f 3 b 3 h 1
+e 1 f 3 b 3 g 1
+e 1 e 1 h 2 b 1 h 1
+e 3 e 1 h 1 h 1 g 1
+e 1 e 3 h 1
+e 1 h 1 g 1

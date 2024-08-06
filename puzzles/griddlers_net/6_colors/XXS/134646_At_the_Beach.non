@@ -1,0 +1,33 @@
+by "flores"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/13"
+height 5
+id 134646
+link "https://www.griddlers.net/nonogram/-/g/134646"
+medium_time "0:00:26"
+points 22
+popularity 44.45
+title "At the Beach"
+width 5
+
+color a ffffff
+color b ffcccc
+color c ffff33
+color d ff0000
+color e 993300
+color g 00ffff
+
+rows
+g 1 e 1 b 1 e 1 g 1
+b 1 d 1 b 1 d 1 b 1
+g 1 d 3 g 1
+c 1 b 1 d 1 b 1 c 1
+c 1 b 1 c 1 b 1 c 1
+
+columns
+g 1 b 1 g 1 c 2
+e 1 d 2 b 2
+b 2 d 2 c 1
+e 1 d 2 b 2
+g 1 b 1 g 1 c 2

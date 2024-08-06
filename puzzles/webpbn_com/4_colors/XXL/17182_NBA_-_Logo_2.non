@@ -1,0 +1,125 @@
+by "Russell Reed (russl722)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Russell Reed"
+date "Jan 16, 2012"
+description "Indiana Pacers"
+difficulty 1.5
+height 41
+id 17182
+link "https://webpbn.com/play.cgi?id=17182"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "NBA - Logo #2"
+width 62
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 62
+black 13 blue 29 black 20
+black 13 blue 30 black 19
+black 13 blue 18 red 3 blue 1 red 4 blue 5 black 18
+black 12 blue 17 red 6 blue 1 red 5 blue 4 black 17
+black 12 blue 15 red 9 blue 1 red 5 blue 4 black 16
+black 12 blue 14 red 11 blue 1 red 5 blue 4 black 15
+black 11 blue 15 red 11 blue 1 red 5 blue 5 black 14
+black 11 blue 14 red 13 blue 1 red 3 blue 1 red 1 blue 4 black 14
+black 11 blue 25 red 3 blue 1 red 1 blue 1 red 2 blue 5 black 13
+black 10 red 26 blue 2 red 1 blue 2 red 4 blue 4 black 13
+black 10 red 28 blue 2 red 5 blue 5 black 12
+black 10 blue 13 red 17 blue 1 red 4 blue 5 black 12
+black 9 blue 14 red 17 blue 1 red 5 blue 4 black 12
+black 9 blue 41 black 12
+black 9 red 31 blue 1 red 5 blue 4 black 12
+black 8 red 32 blue 1 red 5 blue 4 black 12
+black 8 blue 16 red 14 blue 3 red 4 blue 5 black 12
+black 7 blue 17 red 12 blue 2 red 2 blue 2 red 3 blue 4 black 13
+black 7 blue 29 red 3 blue 1 red 1 blue 2 red 2 blue 4 black 13
+black 7 red 32 blue 1 red 2 blue 7 black 13
+black 7 red 31 blue 1 red 4 blue 5 black 14
+black 6 blue 20 red 11 blue 1 red 4 blue 6 black 14
+black 6 blue 22 red 7 blue 2 red 4 blue 6 black 15
+black 6 blue 24 red 4 blue 1 red 4 blue 8 black 15
+black 5 blue 41 black 16
+black 5 blue 40 black 17
+black 5 blue 39 black 18
+black 4 blue 38 black 20
+black 4 blue 19 black 39
+black 4 blue 19 black 39
+black 3 blue 19 black 40
+black 3 blue 19 black 3 blue 5 black 32
+black 3 blue 19 black 3 blue 1 black 3 blue 1 black 32
+black 2 blue 19 black 3 blue 1 black 3 blue 1 black 2 blue 5 black 2 blue 5 black 2 blue 5 black 2 blue 1 black 1 blue 2 black 1 blue 5
+black 2 blue 19 black 3 blue 1 black 3 blue 1 black 2 blue 1 black 3 blue 1 black 2 blue 1 black 3 blue 1 black 2 blue 1 black 3 blue 1 black 2 blue 2 black 3 blue 1 black 3 blue 1
+black 2 blue 19 black 3 blue 5 black 6 blue 1 black 2 blue 1 black 6 blue 1 black 3 blue 1 black 2 blue 1 black 4 blue 1 black 4
+black 1 blue 19 black 3 blue 1 black 6 blue 5 black 2 blue 1 black 6 blue 5 black 2 blue 1 black 6 blue 1 black 3
+black 1 blue 19 black 3 blue 1 black 6 blue 1 black 3 blue 1 black 2 blue 1 black 6 blue 1 black 6 blue 1 black 7 blue 2 black 1
+black 1 blue 18 black 4 blue 1 black 6 blue 1 black 3 blue 1 black 2 blue 1 black 3 blue 1 black 2 blue 1 black 6 blue 1 black 5 blue 1 black 3 blue 1
+black 23 blue 1 black 6 blue 5 black 2 blue 5 black 2 blue 5 black 2 blue 1 black 5 blue 5
+
+columns
+black 41
+black 37 blue 3 black 1
+black 34 blue 6 black 1
+black 31 blue 9 black 1
+black 28 blue 12 black 1
+black 25 blue 15 black 1
+black 22 blue 18 black 1
+black 18 blue 2 red 2 blue 18 black 1
+black 16 red 1 blue 3 red 2 blue 18 black 1
+black 13 blue 2 red 2 blue 3 red 2 blue 18 black 1
+black 10 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 7 blue 3 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 4 blue 6 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 18 black 1
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 17 black 2
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 15 black 4
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 12 black 7
+black 1 blue 9 red 2 blue 3 red 2 blue 3 red 2 blue 9 black 10
+black 1 blue 9 red 4 blue 1 red 2 blue 3 red 2 blue 7 black 8 blue 4
+black 1 blue 9 red 4 blue 1 red 4 blue 1 red 2 blue 7 black 5 blue 3 black 4
+black 1 blue 7 red 1 blue 1 red 4 blue 1 red 4 blue 1 red 2 blue 7 black 3 blue 2 black 2 blue 1 black 4
+black 1 blue 5 red 3 blue 1 red 4 blue 1 red 4 blue 1 red 3 blue 6 black 3 blue 1 black 3 blue 1 black 4
+black 1 blue 4 red 4 blue 1 red 4 blue 1 red 4 blue 1 red 3 blue 6 black 3 blue 1 black 3 blue 1 black 4
+black 1 blue 4 red 4 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 5 black 3 blue 1 black 1 blue 3 black 4
+black 1 blue 3 red 5 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 5 black 3 blue 2 black 7
+black 1 blue 3 red 5 blue 1 red 4 blue 1 red 4 blue 1 red 5 blue 4 black 8 blue 4
+black 1 blue 2 red 6 blue 1 red 4 blue 1 red 4 blue 1 red 5 blue 4 black 5 blue 2 black 1 blue 1 black 2 blue 1
+black 1 blue 2 red 6 blue 1 red 4 blue 1 red 4 blue 1 red 5 blue 4 black 5 blue 1 black 2 blue 1 black 2 blue 1
+black 1 blue 2 red 6 blue 1 red 4 blue 1 red 4 blue 1 red 5 blue 4 black 5 blue 1 black 2 blue 1 black 2 blue 1
+black 1 blue 3 red 5 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 5 black 5 blue 1 black 2 blue 4
+black 1 blue 2 red 1 blue 1 red 4 blue 1 red 4 blue 1 red 4 blue 1 red 3 blue 1 red 1 blue 4 black 5 blue 3 black 4
+black 1 blue 2 red 2 blue 1 red 4 blue 1 red 3 blue 1 red 3 blue 1 red 4 blue 1 red 1 blue 4 black 12
+black 1 blue 2 red 3 blue 2 red 2 blue 1 red 3 blue 1 red 3 blue 1 red 3 blue 1 red 2 blue 4 black 8 blue 4
+black 1 blue 2 red 5 blue 1 red 2 blue 1 red 2 blue 1 red 2 blue 1 red 3 blue 1 red 3 blue 4 black 5 blue 3 black 3 blue 1
+black 1 blue 3 red 5 blue 3 red 2 blue 1 red 2 blue 1 red 1 blue 2 red 3 blue 5 black 5 blue 1 black 5 blue 1
+black 1 blue 3 red 6 blue 1 red 1 blue 7 red 5 blue 5 black 5 blue 1 black 5 blue 1
+black 1 blue 4 red 4 blue 1 red 4 blue 1 red 3 blue 2 red 3 blue 6 black 5 blue 1 black 4 blue 2
+black 2 blue 4 red 2 blue 1 red 5 blue 1 red 4 blue 2 red 1 blue 6 black 6 blue 2 black 5
+black 3 blue 5 red 6 blue 1 red 5 blue 8 black 13
+black 4 blue 6 red 4 blue 1 red 5 blue 7 black 10 blue 4
+black 5 blue 8 red 1 blue 1 red 2 blue 9 black 8 blue 4 black 2 blue 1
+black 6 blue 19 black 9 blue 1 black 2 blue 1 black 2 blue 1
+black 7 blue 16 black 11 blue 1 black 2 blue 1 black 2 blue 1
+black 9 blue 12 black 13 blue 1 black 2 blue 1 black 2 blue 1
+black 11 blue 7 black 16 blue 3 black 4
+black 41
+black 37 blue 4
+black 34 blue 3 black 4
+black 35 blue 1 black 5
+black 34 blue 1 black 6
+black 34 blue 1 black 6
+black 41
+black 34 blue 3 black 2 blue 2
+black 34 blue 1 black 2 blue 1 black 2 blue 1
+black 34 blue 1 black 3 blue 1 black 1 blue 1
+black 34 blue 1 black 3 blue 1 black 1 blue 1
+black 34 blue 2 black 3 blue 2

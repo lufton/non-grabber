@@ -1,0 +1,73 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Dec 13, 2012"
+description "Destyny likes to stuff toys down the front of her sleeper,including her brothers L.E.D. flashlight that is switched on. Then she parades around the house saying "ouchie",because she's walking on a toy."
+difficulty 2.75
+height 30
+id 20600
+link "https://webpbn.com/play.cgi?id=20600"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.5
+title "Why is Destyny's sleeper glowing."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+blue 9 black 1 blue 10
+green 1 black 3 green 1 blue 1
+black 2 green 1 black 2 black 5 green 3 blue 1
+green 1 black 1 green 3 black 2 black 2 green 4 blue 1
+green 6 black 1 black 1 blue 1 blue 1
+blue 1 black 2 blue 1 blue 1 black 2 blue 1
+black 1 black 1 black 1 black 1 blue 1
+black 2 black 1 black 1 black 2 blue 1
+red 2 black 2 red 1 black 2 red 2 blue 1
+red 3 black 1 red 1 black 1 red 3 blue 1
+red 4 black 1 black 1 red 4 blue 1
+blue 2 red 6 black 1 black 1 red 6 blue 3
+red 13
+red 6 red 4
+red 3 red 1 red 1
+green 2 green 1 red 4 red 2
+green 3 green 2 red 1 red 3
+green 1 green 3 red 1 red 1 red 3 green 2
+green 1 green 1 red 2 red 4 green 1
+green 1 red 9 green 2 green 1
+green 1 blue 1 blue 1 red 5 red 1 green 2 green 2
+green 1 red 5 black 3 red 1 green 1 green 1
+green 1 red 3 red 1 black 1 red 1 green 3
+green 1 red 1 green 1 red 3 red 1 black 1 red 1 green 2
+green 3 red 3 red 1 black 1 red 1 green 3
+red 3 red 1 black 1 red 1 green 3
+red 3 red 3 green 3
+red 2 red 2 red 5 green 2
+red 1 red 1 red 5 green 3
+
+columns
+blue 1 black 1 green 1 blue 1 green 4 green 3
+blue 1 black 1 green 2 black 2 red 3 blue 1 green 2 green 1 green 1
+blue 1 green 1 black 1 green 1 black 1 red 4 green 2 blue 1 green 1
+blue 1 green 1 black 1 green 2 blue 1 red 4 green 2 red 1 green 1
+blue 1 black 1 green 2 red 4 green 2 blue 1 green 1 red 2
+blue 1 green 2 black 4 red 3 green 2 red 4 green 1 red 1
+blue 1 black 3 black 2 red 16
+blue 1 black 2 black 1 red 5 red 9
+blue 1 black 2 blue 1 black 1 red 4 red 1 red 10
+black 4 red 2 red 2 red 1 red 3
+black 1 blue 1 black 2 blue 1 black 1 red 1 red 1 red 4 black 1 red 7
+blue 1 black 2 black 1 red 3 red 5 black 5 red 3
+blue 1 black 3 black 2 red 9 black 1 red 7
+blue 1 black 4 red 3 red 4 green 1 red 2
+blue 1 red 4 green 1 green 2 red 2
+blue 1 green 1 red 4 green 2 green 5
+blue 1 green 2 black 1 red 4 green 6 green 2
+blue 1 green 3 blue 1 black 2 red 3 blue 1 green 3 green 1
+blue 1 green 2 blue 1 green 1 green 3
+blue 12 green 4

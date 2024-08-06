@@ -1,0 +1,49 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Dec 11, 2018"
+description "candy cane"
+difficulty 1.25
+height 7
+id 31867
+link "https://webpbn.com/play.cgi?id=31867"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "candy cane"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 6 black 1 green 1 black 1 blue 11
+blue 5 black 1 blue 3 black 1 blue 10
+blue 5 green 1 blue 3 green 1 blue 10
+blue 9 black 1 blue 10
+blue 9 green 1 blue 10
+blue 9 black 1 blue 10
+
+columns
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7
+blue 2 black 1 green 1 blue 3
+blue 1 black 1 blue 5
+blue 1 green 1 blue 5
+blue 1 black 1 blue 5
+blue 2 black 1 green 1 black 1 green 1 black 1
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7

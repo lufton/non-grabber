@@ -1,0 +1,57 @@
+by "Arsonist (arsonistph)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Arsonist"
+date "Sep 26, 2020"
+description "uwu"
+difficulty 1.25
+height 18
+id 34515
+link "https://webpbn.com/play.cgi?id=34515"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "for the wizards"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 1 blue 1
+blue 4
+blue 4
+blue 4
+black 1 blue 4
+black 1 red 1 blue 4
+blue 5 red 1
+black 1 blue 6
+blue 4 red 1 blue 2
+black 1 blue 7
+blue 2 red 1 blue 5 green 1
+green 1 blue 6 green 2
+blue 2 green 7 blue 2
+black 1 blue 14
+blue 4 red 1 blue 10 black 1
+black 2 blue 8 red 1 blue 2 black 2
+black 2 blue 8
+black 4
+
+columns
+blue 1 black 1
+black 1 blue 1 black 1
+blue 3 black 1
+blue 4 black 1
+blue 1 black 1 blue 1 green 1 blue 2 red 1 blue 2
+red 1 blue 1 black 1 blue 4 green 1 blue 4
+blue 3 black 2 blue 4 red 1 blue 1 green 1 blue 4 black 1
+blue 4 red 1 blue 6 green 1 blue 4 black 1
+blue 11 green 1 blue 4 black 1
+blue 6 red 1 blue 3 green 1 blue 4 black 1
+blue 9 green 1 blue 2 red 1 blue 1
+blue 1 red 1 blue 4 green 2 blue 4
+green 2 blue 4
+blue 3 black 1
+blue 2 black 1
+blue 1 black 1

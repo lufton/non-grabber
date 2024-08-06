@@ -1,0 +1,84 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/31/10"
+height 30
+id 100355
+link "https://www.griddlers.net/nonogram/-/g/100355"
+medium_time "0:09:38"
+points 11585
+popularity 79.35
+title "Sand Castle"
+width 30
+
+color a 99ffff
+color b 624011
+color c cc9866
+color e fd0000
+color f fffecb
+color g ffcb99
+color h f2d05e
+
+rows
+b 1
+b 1 c 1 b 1
+b 1 c 3 b 1 b 1 e 2
+b 1 c 3 b 1 b 1 e 1 e 4
+b 1 c 5 b 1 b 1 e 6
+b 7 b 1 e 3
+b 1 f 3 b 1 b 1
+b 1 f 3 b 1 b 1
+b 1 f 1 b 1 f 1 b 1 b 1
+b 1 f 1 b 1 f 1 b 1 b 3 b 3 b 3
+b 1 f 3 b 1 b 1 f 1 b 1 b 1 f 1 b 1 b 1 f 1 b 1
+b 1 f 1 b 1 f 1 b 1 b 1 f 2 b 1 f 3 b 1 f 2 b 1
+b 1 f 1 b 1 f 1 b 1 b 1 f 9 b 1
+b 1 f 3 b 1 b 1 f 9 b 1
+b 1 f 1 b 1 f 1 b 1 b 1 f 9 b 1
+b 1 f 1 b 1 f 1 b 1 b 2 f 8 b 1
+b 1 f 3 b 1 b 8
+b 3 b 3 f 1 b 2 b 3 b 1 c 5 b 3 b 3
+b 1 g 1 b 3 g 1 b 3 g 1 b 2 g 1 b 3 c 1 c 1 c 1 b 1 g 1 b 3 g 1 b 1
+b 1 g 14 b 1 c 5 b 1 g 5 b 1
+b 1 g 14 b 1 c 1 c 1 c 1 b 1 g 5 b 1
+h 1 b 1 g 1 b 1 g 2 b 1 g 2 b 1 g 2 b 1 g 3 b 1 c 5 b 1 g 2 b 1 g 2 b 1 h 1
+h 1 b 1 g 1 b 1 g 2 b 1 g 2 b 1 g 2 b 1 g 3 b 1 c 5 b 1 g 2 b 1 g 2 b 1 h 1
+h 1 b 1 g 14 b 1 c 5 b 1 g 5 b 1 h 1
+h 1 b 1 g 14 b 1 c 1 b 3 c 1 b 1 g 5 b 1 h 1
+h 1 b 16 c 1 b 3 c 1 b 7 h 1
+h 16 b 1 c 1 b 3 c 1 b 1 h 7
+h 16 b 7 h 7
+h 30
+h 30
+
+columns
+h 9
+b 9 h 4
+b 1 g 7 b 1 h 4
+b 2 g 2 b 2 g 2 b 1 h 4
+b 1 g 6 b 1 h 4
+b 2 b 2 g 6 b 1 h 4
+b 2 c 1 b 13 g 3 b 2 g 2 b 1 h 4
+b 1 c 3 b 1 f 11 b 2 g 6 b 1 h 4
+b 1 c 4 b 1 f 2 b 2 f 1 b 2 f 1 b 2 f 2 b 1 g 6 b 1 h 4
+b 1 c 3 b 1 f 11 b 2 g 2 b 2 g 2 b 1 h 4
+b 2 c 1 b 13 g 7 b 1 h 4
+b 2 b 1 g 6 b 1 h 4
+b 2 g 2 b 2 g 2 b 1 h 4
+b 1 g 7 b 1 h 4
+b 7 b 2 g 6 b 1 h 4
+b 1 f 5 b 1 b 1 g 6 b 1 h 4
+b 2 f 5 b 12 h 2
+b 1 f 4 b 1 c 10 b 1 h 2
+b 2 f 5 b 1 c 1 c 1 c 3 b 4 h 2
+b 8 f 6 b 1 c 7 b 4 h 2
+e 2 b 2 f 5 b 1 c 1 c 1 c 3 b 4 h 2
+e 2 b 1 f 4 b 1 c 10 b 1 h 2
+e 2 b 2 f 5 b 12 h 2
+e 3 b 1 f 6 b 2 g 7 b 1 h 4
+e 2 b 7 b 2 g 6 b 1 h 4
+e 3 b 1 g 2 b 2 g 2 b 1 h 4
+e 2 b 2 g 6 b 1 h 4
+b 1 g 7 b 1 h 4
+b 9 h 4
+h 9

@@ -1,0 +1,61 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Joe"
+date "Jan  3, 2012"
+description "This is a graphical representation of a series. What's next?"
+difficulty 1.75
+height 20
+id 17005
+link "https://webpbn.com/play.cgi?id=17005"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "What Next [II]"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 2 red 2
+red 2 red 2
+red 4 red 1 red 2
+red 2 red 2 red 2
+red 2 red 2 red 4
+red 2 red 3 red 2
+red 1 red 2 red 2
+red 2 red 2 red 2
+black 1 red 2 red 2 red 2
+black 2 red 2 red 2 red 2
+black 2 red 3 red 2
+black 2 red 2 red 1
+black 2 red 2 red 2
+black 2 red 2 red 2 black 1
+black 2 red 2 red 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 3 black 2
+
+columns
+red 3 black 2
+red 2 red 2 black 2
+red 2 red 2 black 2
+red 2 red 2 black 2
+red 2 red 2 black 2
+red 3 red 4 black 2
+red 2 red 2 red 2 red 2 black 2
+red 1 red 2 red 2 red 2 black 2
+red 2 red 1 red 4 red 2 black 2
+red 2 red 2 red 2 black 2
+red 2 red 2 red 2 black 1
+red 3 red 2
+red 2 red 1
+red 2 red 2
+red 2 red 2 black 1
+red 2 red 2 black 2
+red 2 red 2 black 2
+red 2 red 2 black 2
+red 2 red 2 black 2
+red 3 black 2

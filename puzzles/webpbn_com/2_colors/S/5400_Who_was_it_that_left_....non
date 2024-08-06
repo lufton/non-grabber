@@ -1,0 +1,47 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Jota"
+date "Mar 20, 2009"
+description "The door open and now all the mosquitos are in the house."
+difficulty 1.25
+height 20
+id 5400
+link "https://webpbn.com/play.cgi?id=5400"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Who was it that left ..."
+width 10
+
+rows
+0
+10
+1,2
+1,3
+1,2,1
+1,2,1
+1,2,1
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+1,3,1
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+
+columns
+19
+1
+1
+1
+1,14
+1,2,1
+1,2,1
+1,2
+3
+19

@@ -1,0 +1,26 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 11, 2011"
+description "Smallest I can make. Has this been done before?"
+difficulty 1.0
+height 2
+id 14512
+link "https://webpbn.com/play.cgi?id=14512"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "Very small face"
+width 3
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+black 1
+
+columns
+blue 1
+black 1
+blue 1

@@ -1,0 +1,42 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Mar 31, 2023"
+description ""
+difficulty 1.0
+height 10
+id 36615
+link "https://webpbn.com/play.cgi?id=36615"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Tiny, Medium Animal - four point"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 9
+blue 1 blue 5 blue 1
+blue 1 blue 7 blue 1
+blue 2 blue 1 blue 1 blue 2
+blue 3 blue 3
+blue 3 black 1 black 1 blue 3
+blue 3 blue 3
+blue 4 blue 4
+blue 4 black 1 blue 4
+blue 5 blue 5
+
+columns
+blue 8
+blue 2 blue 7
+blue 1 blue 1 blue 6
+blue 4 blue 3
+blue 3 black 1 blue 1
+blue 3 black 1
+blue 3 black 1 blue 1
+blue 4 blue 3
+blue 1 blue 1 blue 6
+blue 2 blue 7
+blue 8

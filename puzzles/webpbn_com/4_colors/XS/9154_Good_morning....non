@@ -1,0 +1,38 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 14, 2010"
+description "to you green tea baggers out thar."
+difficulty 1.25
+height 9
+id 9154
+link "https://webpbn.com/play.cgi?id=9154"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Good morning..."
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 2 black 1
+black 1 black 1
+blue 1 blue 1
+blue 1 green 3 blue 3
+blue 1 green 3 blue 1 blue 1
+blue 1 green 3 blue 3
+blue 1 green 3 blue 1
+blue 5
+
+columns
+blue 6
+black 2 green 4 blue 1
+black 2 green 4 blue 1
+black 1 green 4 blue 1
+black 1 blue 6
+blue 1 blue 1
+blue 3

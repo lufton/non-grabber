@@ -1,0 +1,82 @@
+by "Stephanie Bruno (stbruno)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Stephanie Bruno"
+date "Jul 12, 2024"
+description "Tried to duplicate the iconic JAWS scene"
+difficulty 1.5
+height 30
+id 38735
+link "https://webpbn.com/play.cgi?id=38735"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Maybe he just wants a hug?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 black 3
+blue 11 black 11 blue 8
+blue 9 black 2 blue 6 black 1 blue 1 black 3 blue 8
+blue 7 black 2 blue 9 black 1 blue 11
+blue 15 black 1 blue 3 black 1 blue 10
+blue 14 black 3 blue 3 black 1 blue 9
+blue 13 black 5 blue 12
+blue 12 black 7 blue 11
+black 7
+black 9
+black 9
+black 11
+black 11
+black 11
+black 13
+blue 2 black 13 blue 2
+blue 2 black 15 blue 2
+blue 2 black 15 blue 2
+blue 1 black 17 blue 1
+blue 1 black 8 black 8 blue 1
+black 8 red 1 black 8
+black 7 red 3 black 7
+black 7 red 5 black 7
+black 6 red 7 black 6
+black 6 red 9 black 6
+black 5 red 11 black 5
+black 5 red 13 black 5
+black 4 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 4
+black 27
+black 27
+
+columns
+blue 7
+blue 7
+blue 7 black 2
+blue 7 black 4
+blue 7 black 6
+blue 7 black 8
+blue 7 blue 4 black 10
+blue 2 black 1 blue 4 blue 3 black 9 black 2
+blue 2 black 1 blue 4 blue 1 black 10 red 1 black 2
+blue 1 black 1 blue 5 black 11 red 1 black 2
+black 1 blue 1 black 1 blue 5 black 13 red 3 black 2
+black 1 blue 6 black 14 red 3 black 2
+black 1 blue 5 black 15 red 5 black 2
+black 1 blue 4 black 15 red 5 black 2
+black 1 blue 3 black 15 red 7 black 2
+black 1 blue 2 black 15 red 7 black 2
+black 1 blue 3 black 15 red 7 black 2
+black 3 blue 3 black 15 red 5 black 2
+black 1 blue 1 black 1 blue 3 black 15 red 5 black 2
+black 3 blue 1 black 1 blue 3 black 14 red 3 black 2
+black 3 blue 2 black 1 blue 2 black 13 red 3 black 2
+black 3 blue 5 black 11 red 1 black 2
+blue 7 blue 1 black 10 red 1 black 2
+blue 7 blue 3 black 9 black 2
+blue 7 blue 4 black 10
+blue 7 black 8
+blue 7 black 6
+blue 7 black 4
+blue 7 black 2
+blue 7

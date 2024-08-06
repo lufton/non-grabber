@@ -1,0 +1,105 @@
+by "ulka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/29/03"
+height 50
+id 6658
+link "https://www.griddlers.net/nonogram/-/g/6658"
+medium_time "0:45:40"
+points 20197
+popularity 85.83
+title "Santa Claus"
+width 30
+
+color a ffffff
+color b ead9bd
+color c ff2802
+color d b10025
+color e 0259d9
+color f 72452e
+color g a5680e
+color h f4bccc
+
+rows
+0
+0
+0
+c 7
+c 10
+c 4 c 1
+c 4 b 2 b 1
+c 4 h 2 b 3
+c 5 h 1 e 1 h 2 e 1 b 3
+c 3 b 1 h 7 b 2
+b 1 c 1 b 1 h 2 h 2 b 2
+b 3 b 1 h 1 h 2 b 2
+b 3 b 1 h 1 c 2 b 2 d 2
+b 1 c 2 b 1 b 2 c 2 d 1
+c 4 b 1 b 1 c 4 d 1
+d 1 c 5 c 6 d 1
+d 1 c 6 c 8
+c 8 c 9 d 1
+d 1 c 7 d 1 c 1 d 1 c 5 d 1 c 3 d 1
+c 2 g 3 c 2 d 1 g 1 d 1 c 5 d 2 c 3 d 1
+d 1 c 2 g 9 d 1 c 3 d 4 c 4
+c 4 g 8 h 1 c 1 d 4 c 6
+d 1 c 3 d 1 g 6 h 3 c 8
+d 1 c 2 d 1 e 1 g 3 h 5 d 1 c 7
+d 2 c 1 e 2 g 3 e 1 d 2 c 3 d 2 c 1 d 1
+d 3 g 1 e 2 g 1 e 2 d 2 d 1 c 2 d 1 c 3 d 1
+d 1 g 2 e 2 b 2 g 1 d 2 d 3 c 5 d 1
+d 1 g 1 e 2 g 1 e 1 b 2 g 1 c 1 d 2 c 7 d 1
+g 2 e 1 g 1 b 2 e 1 b 1 g 1 c 7 d 3
+g 2 e 2 g 2 b 1 e 1 b 1 g 2 c 8
+g 4 e 1 g 3 b 1 g 1 b 1 g 3 c 7
+g 4 e 1 g 3 b 1 g 1 b 2 g 2 c 8
+g 5 e 1 g 3 b 1 g 2 b 1 g 2 c 9
+g 9 b 2 g 5 c 5
+g 11 b 1 g 5 c 1 c 1
+g 11 b 1 g 5 c 2
+g 5 b 1 g 6 b 1 g 5 c 4
+g 4 b 2 g 13 c 5
+g 4 b 1 g 14 c 5
+g 4 b 1 g 14 c 5
+g 3 b 2 g 14 c 5
+g 2 b 1 g 15 c 4
+g 2 b 1 g 3 b 1 g 11 c 2 c 1
+g 1 b 1 g 2 b 2 g 11
+g 2 b 1 g 1 b 1 g 11 d 1
+g 1 b 1 g 1 b 1 g 11 d 4
+g 1 f 3 g 9 b 4 d 1
+f 5 g 7 b 1 f 4 b 1
+f 4 g 3 f 6
+f 6
+
+columns
+0
+0
+0
+0
+g 5
+g 9
+d 1 c 1 d 3 g 13
+b 2 d 1 c 5 d 2 g 10 b 4 g 2
+b 4 d 1 c 8 d 1 g 7 b 4 g 3 b 2 g 1 f 1
+c 2 b 2 d 1 c 3 g 2 c 2 d 1 d 1 g 7 b 2 g 8 f 2
+c 3 c 5 g 3 d 1 d 2 g 15 b 3 f 3
+c 4 c 6 g 4 e 2 g 4 e 4 g 9 b 2 g 2 f 3
+c 5 c 7 g 4 e 2 g 1 e 3 g 17 f 2
+c 5 b 3 c 6 g 5 e 3 g 20 f 1
+c 4 c 1 b 2 b 1 c 4 d 1 g 6 e 1 g 1 b 1 g 20
+c 3 h 4 c 1 d 1 g 3 h 1 g 1 e 1 b 1 e 1 b 6 g 15
+c 2 h 1 e 1 h 2 h 1 c 1 g 4 h 1 e 2 b 2 e 2 g 3 b 4 g 12
+c 2 h 3 h 1 c 1 g 2 h 2 d 2 g 1 b 5 g 16
+c 2 h 2 h 1 c 1 d 2 h 3 d 3 g 4 b 2 g 15
+c 2 b 1 e 1 h 2 d 1 c 3 h 2 d 1 c 2 g 19
+c 2 b 1 h 2 c 4 d 1 d 1 c 2 g 17 b 1 f 2
+c 1 b 1 h 1 b 2 c 5 d 1 d 2 c 5 g 13 b 1 f 3
+c 1 b 2 b 2 c 5 d 2 c 1 d 1 d 2 c 8 g 7 d 1 b 1 f 3
+b 3 b 2 c 6 d 2 c 4 d 1 c 7 c 6 d 1 b 1 f 3
+b 4 d 1 c 6 d 2 c 13 c 6 d 1 b 1 f 3
+b 2 d 1 c 5 d 3 c 4 d 1 c 8 c 6 d 3 b 1 f 2
+d 1 c 10 d 1 c 3 d 1 c 5 c 7
+d 1 c 9 d 1 c 3 d 1 c 4 c 6
+d 1 c 12 d 1 c 2 c 3
+d 3 c 4 d 4 c 1

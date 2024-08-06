@@ -1,0 +1,68 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Apr  1, 2019"
+description "Well if you aren't going to set that ladder back a bit, at least give me a few seconds to get my camera out."
+difficulty 2.25
+height 30
+id 32300
+link "https://webpbn.com/play.cgi?id=32300"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Too Steep"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 2
+green 1 black 2
+green 1 black 3
+green 1 black 2 black 1
+green 1 black 1 black 1
+green 2 black 1
+green 1 black 1
+green 1 black 1
+green 1 black 1
+green 2 green 2 black 1
+green 3 green 1 black 1
+black 2 green 1 black 1
+black 2 green 1 black 1
+black 1 green 2 black 1
+red 4 black 1 black 1
+red 1 red 2 green 1 black 1
+red 1 red 2 green 1 black 1
+red 1 red 2 green 2 black 1
+black 1 black 1 red 2 green 1 black 1
+black 3 blue 2 green 1 black 1
+black 3 blue 2 green 1 black 1
+blue 1 green 2 black 1
+blue 1 green 1 black 1
+blue 1 green 1 black 1
+black 1 green 1 black 1 black 1
+green 2 black 1
+green 1 black 1
+green 1 black 1
+red 3 black 1
+
+columns
+black 3
+red 3 black 2
+red 1 black 3 red 1
+green 2 black 3 red 5 blue 5 black 1 green 3 red 1
+green 2 black 2 red 5 blue 2 green 5 red 1
+green 1 red 1 green 5 black 1
+green 1 black 1 green 3
+green 5
+green 5
+green 5
+black 2
+black 2
+black 2
+black 29
+black 2

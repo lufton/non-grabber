@@ -1,0 +1,62 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kelly Kriese"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 25419
+link "https://webpbn.com/play.cgi?id=25419"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Chessboard Catle"
+width 25
+
+rows
+0
+0
+3,3,3,3,3,3
+1,3,3,1,11
+1,1,11
+4,4,11
+1,1,5
+1,1,5
+1,1,5
+1,1,5
+1,1,7
+1,1,7
+1,1,7
+1,1,7
+1,1,7
+9,9
+1,1,9
+9,9
+0
+0
+
+columns
+0
+4
+1,1,3
+2,1,6,1
+1,5,1,1
+2,1,1
+1,1,1
+2,1,1
+1,5,1,1
+2,1,6,1
+1,1,3
+4
+0
+4
+4,3
+4,8
+15
+16
+16
+16
+15
+4,8
+4,3
+4
+0

@@ -1,0 +1,60 @@
+by "Amanda Egeskov Hald (MInimanta)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Amanda Egeskov Hald"
+date "Feb 10, 2009"
+description "It's a pear."
+difficulty 1.25
+height 24
+id 4983
+link "https://webpbn.com/play.cgi?id=4983"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "A fruit # 3"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 2
+black 3
+black 1
+black 2
+black 1
+black 3
+black 1 green 3 black 1
+black 1 green 5 black 1
+black 1 green 5 black 1
+black 1 green 5 black 1
+black 1 green 5 black 1
+black 1 green 7 black 1
+black 1 green 9 black 1
+black 1 green 9 black 1
+black 1 green 11 black 1
+black 1 green 11 black 1
+black 1 green 11 black 1
+black 1 green 9 black 1
+black 1 green 9 black 1
+black 1 green 7 black 1
+black 2 green 3 black 2
+black 3
+0
+
+columns
+0
+black 3
+black 2 green 3 black 2
+black 1 green 7 black 1
+black 4 green 9 black 1
+black 1 green 13 black 1
+black 1 green 15 black 1
+black 3 green 15 black 1
+black 3 black 1 green 15 black 1
+black 1 black 1 green 13 black 1
+black 2 black 4 green 9 black 1
+black 1 black 1 green 7 black 1
+black 2 green 3 black 2
+black 3
+0

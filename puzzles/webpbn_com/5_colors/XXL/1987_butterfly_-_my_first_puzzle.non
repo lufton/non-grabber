@@ -1,0 +1,123 @@
+by "adele (adele1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by adele"
+date "Dec 11, 2007"
+description ""
+difficulty 2.0
+height 50
+id 1987
+link "https://webpbn.com/play.cgi?id=1987"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "butterfly - my first puzzle"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 13 black 2 blue 21 black 2 blue 12
+blue 14 black 2 blue 19 black 2 blue 13
+blue 5 black 7 blue 3 black 2 blue 17 black 2 blue 3 black 7 blue 4
+blue 4 black 2 black 2 blue 3 black 2 blue 15 black 2 blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3 black 2 blue 13 black 2 blue 3 black 2 black 2 blue 2
+blue 2 black 2 black 2 blue 3 black 2 blue 11 black 2 blue 3 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 3 black 2 blue 9 black 2 blue 3 black 2 black 2
+blue 1 black 1 green 2 black 2 blue 3 black 2 blue 7 black 2 blue 3 black 2 green 2 black 1
+blue 1 black 1 green 4 black 2 blue 3 black 2 blue 5 black 2 blue 3 black 2 green 4 black 1
+blue 1 black 1 green 2 blue 2 green 2 black 2 blue 3 black 2 blue 3 black 2 blue 3 black 2 green 2 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 4 green 2 black 2 blue 3 black 5 blue 3 black 2 green 2 blue 4 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 2 blue 2 green 2 black 2 blue 2 black 5 blue 2 black 2 green 2 blue 2 red 2 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 4 blue 2 green 2 black 11 green 2 blue 2 red 4 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 6 blue 2 green 2 black 7 green 2 blue 2 red 6 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 8 blue 2 green 2 black 7 green 2 blue 2 red 8 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 10 blue 2 green 2 black 7 green 2 blue 2 red 10 blue 2 green 2 black 1
+blue 1 black 1 green 1 blue 2 red 12 blue 2 green 2 black 7 green 2 blue 2 red 12 blue 2 green 1 black 1
+blue 1 black 1 green 1 blue 2 red 12 blue 2 green 2 black 7 green 2 blue 2 red 12 blue 2 green 1 black 1
+blue 1 black 1 green 2 blue 2 red 10 blue 2 green 2 black 7 green 2 blue 2 red 10 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 8 blue 2 green 2 black 7 green 2 blue 2 red 8 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 6 blue 2 green 2 black 7 green 2 blue 2 red 6 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 4 blue 2 green 2 black 7 green 2 blue 2 red 4 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 2 red 2 blue 2 green 2 black 7 green 2 blue 2 red 2 blue 2 green 2 black 1
+blue 1 black 1 green 2 blue 4 green 2 black 7 green 2 blue 4 green 2 black 1
+blue 1 black 2 green 2 blue 2 green 2 black 7 green 2 blue 2 green 2 black 2
+blue 2 black 2 green 4 black 7 green 4 black 2 blue 1
+blue 3 black 4 green 2 black 7 green 2 black 4 blue 2
+blue 6 black 3 black 7 black 3 blue 5
+blue 8 black 3 black 7 black 3 blue 7
+blue 10 black 1 black 7 black 1 blue 9
+blue 10 black 3 black 7 black 3 blue 9
+blue 12 black 3 black 7 black 3 blue 11
+blue 14 black 23 blue 13
+blue 14 black 23 blue 13
+blue 11 black 29 blue 10
+blue 9 black 3 black 7 black 3 blue 8
+blue 8 black 2 black 7 black 2 blue 7
+blue 6 black 3 black 7 black 3 blue 5
+blue 5 black 2 green 8 black 7 green 8 black 2 blue 4
+blue 5 black 1 green 8 black 7 green 8 black 1 blue 4
+blue 4 black 2 green 8 black 7 green 8 black 2 blue 3
+blue 4 black 1 green 8 black 7 green 8 black 1 blue 3
+blue 3 black 2 green 8 black 7 green 8 black 2 blue 2
+blue 3 black 1 green 8 black 7 green 8 black 1 blue 2
+blue 3 black 1 green 8 black 7 green 8 black 1 blue 2
+blue 3 black 1 green 8 black 7 green 8 black 1 blue 2
+blue 3 black 1 green 8 black 9 green 8 black 1 blue 2
+blue 3 black 1 green 8 black 1 blue 2 black 3 blue 2 black 1 green 8 black 1 blue 2
+blue 3 black 2 black 2 blue 7 black 2 black 2 blue 2
+blue 4 black 2 black 1 blue 9 black 1 black 2 blue 3
+
+columns
+blue 50
+blue 6 black 19 blue 25
+blue 5 black 2 green 4 black 2 blue 24
+blue 4 black 2 green 2 blue 2 green 2 black 2 blue 15 black 7 blue 1
+blue 3 black 2 green 2 blue 4 green 2 black 1 blue 13 black 3 black 2
+blue 2 black 2 green 2 blue 2 red 2 blue 2 green 2 black 1 blue 11 black 3 black 1
+blue 2 black 1 green 2 blue 2 red 4 blue 2 green 2 black 2 blue 9 black 2
+blue 2 black 1 green 2 blue 2 red 6 blue 2 green 2 black 1 blue 9 black 1
+blue 2 black 1 green 2 blue 2 red 8 blue 2 green 2 black 2 blue 7 black 2
+blue 2 black 1 green 2 blue 2 red 10 blue 2 green 2 black 1 blue 6 black 2
+blue 2 black 1 green 2 blue 2 red 12 blue 2 green 2 black 3 blue 4 black 1 green 10
+blue 2 black 2 green 2 blue 2 red 12 blue 2 green 2 black 1 blue 3 black 2 green 10
+blue 3 black 2 green 2 blue 2 red 10 blue 2 green 2 black 2 blue 2 black 1 green 10
+black 1 blue 3 black 2 green 2 blue 2 red 8 blue 2 green 2 black 1 blue 2 black 1 green 10
+black 2 blue 3 black 2 green 2 blue 2 red 6 blue 2 green 2 black 4 green 10
+blue 1 black 2 blue 3 black 2 green 2 blue 2 red 4 blue 2 green 2 black 3 green 10
+blue 2 black 2 blue 3 black 2 green 2 blue 2 red 2 blue 2 green 2 black 3 green 10
+blue 3 black 2 blue 3 black 2 green 2 blue 4 green 2 black 3 green 10
+blue 4 black 2 blue 3 black 2 green 2 blue 2 green 2 black 3
+blue 5 black 2 blue 3 black 2 green 4 black 3
+blue 6 black 2 blue 3 black 2 green 2 black 3 black 2
+blue 7 black 2 blue 3 black 1 black 3 black 3 blue 1
+blue 8 black 2 blue 2 black 35 blue 3
+blue 9 black 38 blue 3
+blue 10 black 38 blue 2
+blue 10 black 38 blue 2
+blue 10 black 38 blue 2
+blue 9 black 38 blue 3
+blue 8 black 2 blue 2 black 35 blue 3
+blue 7 black 2 blue 3 black 1 black 3 black 3 blue 1
+blue 6 black 2 blue 3 black 2 green 2 black 3 black 2
+blue 5 black 2 blue 3 black 2 green 4 black 3
+blue 4 black 2 blue 3 black 2 green 2 blue 2 green 2 black 3
+blue 3 black 2 blue 3 black 2 green 2 blue 4 green 2 black 3 green 10
+blue 2 black 2 blue 3 black 2 green 2 blue 2 red 2 blue 2 green 2 black 3 green 10
+blue 1 black 2 blue 3 black 2 green 2 blue 2 red 4 blue 2 green 2 black 3 green 10
+black 2 blue 3 black 2 green 2 blue 2 red 6 blue 2 green 2 black 4 green 10
+black 1 blue 3 black 2 green 2 blue 2 red 8 blue 2 green 2 black 1 blue 2 black 1 green 10
+blue 3 black 2 green 2 blue 2 red 10 blue 2 green 2 black 2 blue 2 black 1 green 10
+blue 2 black 2 green 2 blue 2 red 12 blue 2 green 2 black 1 blue 3 black 2 green 10
+blue 2 black 1 green 2 blue 2 red 12 blue 2 green 2 black 3 blue 4 black 1 green 10
+blue 2 black 1 green 2 blue 2 red 10 blue 2 green 2 black 1 blue 6 black 2
+blue 2 black 1 green 2 blue 2 red 8 blue 2 green 2 black 2 blue 7 black 2
+blue 2 black 1 green 2 blue 2 red 6 blue 2 green 2 black 1 blue 9 black 1
+blue 2 black 1 green 2 blue 2 red 4 blue 2 green 2 black 2 blue 9 black 2
+blue 2 black 2 green 2 blue 2 red 2 blue 2 green 2 black 1 blue 11 black 3 black 1
+blue 3 black 2 green 2 blue 4 green 2 black 1 blue 13 black 3 black 2
+blue 4 black 2 green 2 blue 2 green 2 black 2 blue 15 black 7 blue 1
+blue 5 black 2 green 4 black 2 blue 24
+blue 6 black 19 blue 25

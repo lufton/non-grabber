@@ -1,0 +1,125 @@
+by "jingai"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/23/09"
+height 50
+id 76489
+link "https://www.griddlers.net/nonogram/-/g/76489"
+medium_time "0:33:27"
+points 687272
+popularity 76.47
+title "Well I am Feeling Woof!"
+width 50
+
+color a ffffff
+color b 000000
+color c 663300
+color d ff0000
+color e 999999
+color f eacd7b
+color g ffff00
+color h cc9900
+
+rows
+b 3 c 1 b 1 c 2
+b 1 b 2 c 1 h 1 b 1 c 2 b 1
+b 1 b 2 c 2 h 2 b 1 c 1 h 2 b 1
+b 2 b 2 c 2 h 2 b 1 c 3 h 2 b 1
+b 3 c 3 h 3 b 1 c 2 h 4 b 1
+b 1 b 2 c 5 h 3 b 1 c 3 h 4 b 1
+b 2 b 1 c 3 h 5 c 4 h 4 b 1
+b 1 b 2 c 1 h 6 c 3 h 5 b 1
+b 1 b 2 h 6 c 2 h 5 b 1
+b 1 b 2 h 5 f 3 h 3 f 1 b 1
+b 2 b 1 h 4 f 8 b 1
+b 1 b 2 h 7 f 5 b 1
+b 2 b 2 h 8 f 4 b 2 b 4
+b 1 b 2 h 2 h 3 f 5 b 8 e 2 b 3
+b 1 b 4 h 3 f 6 b 1 e 8 b 3
+b 2 b 3 b 2 c 2 h 9 b 1 e 6 b 1 e 2 b 2
+b 1 b 2 b 2 c 1 h 9 b 1 e 2 b 2 e 3 b 1 e 2 b 1
+b 2 b 2 b 2 h 10 b 4 e 4 b 1 e 1 b 1 h 1
+b 2 b 2 b 2 h 10 f 2 b 3 e 3 b 1 e 1 b 1 h 1
+b 1 b 1 b 2 h 9 f 4 b 2 e 3 b 2 f 1 h 1
+b 1 b 5 b 2 h 8 f 5 b 5 f 2 h 1
+b 2 b 1 b 2 h 7 f 12 h 1
+b 1 b 1 b 2 h 5 f 13 h 1
+b 1 b 1 b 2 h 2 f 7 h 2 f 6 h 1
+b 2 b 2 b 3 f 9 h 1 f 4 h 1
+b 2 b 1 b 3 f 8 h 2 f 2 h 1
+b 1 b 1 b 2 f 7 h 1 h 2
+b 1 b 1 b 2 f 5 h 1 b 1
+b 1 b 1 b 2 f 3 h 1 b 1
+b 1 b 2 b 4 b 2
+b 1 b 1 b 2 b 1
+b 1 b 1 b 3 b 1
+b 1 b 1 b 2 b 1
+b 1 b 1 b 12 b 2 b 2
+b 4 b 1 b 2 b 15
+b 1 d 3 b 1 b 1 b 1
+b 1 d 3 b 13
+b 1 d 14 b 1
+b 2 d 13 b 1
+h 2 b 2 d 11 b 1
+h 5 b 12
+h 15 b 1 h 1 b 1
+h 16 g 1 h 1 g 1
+b 1 h 16 g 3
+b 1 h 17 g 3
+h 21
+h 21
+h 22
+h 23
+h 24
+
+columns
+b 1 h 5
+b 1 h 6
+h 8
+h 9
+h 10
+b 15 h 11
+b 5 b 1 d 3 b 1 h 11
+b 5 b 1 d 4 b 1 h 10
+b 4 b 1 d 4 b 1 h 10
+b 4 b 2 d 3 b 1 h 9
+b 3 b 1 d 3 b 1 h 9
+b 5 b 4 b 8 d 3 b 1 h 9
+b 4 b 1 b 1 b 1 b 1 d 3 b 1 h 9
+b 4 b 1 b 5 b 1 d 3 b 1 h 9
+b 1 b 2 b 1 b 1 d 3 b 1 h 9
+b 1 b 3 b 3 b 1 d 3 b 1 h 9
+b 2 c 2 b 2 b 2 b 1 d 3 b 1 h 9
+b 2 c 3 b 2 b 2 b 1 d 3 b 1 h 9
+b 2 c 3 h 2 b 3 b 2 b 1 d 3 b 2 g 3 h 5
+b 1 c 2 h 5 b 2 b 2 b 1 d 3 b 1 h 2 g 2 h 5
+c 3 h 6 b 4 b 6 g 3 h 5
+c 2 h 9 b 2 b 3 h 3
+c 1 h 11 b 2 b 2 h 2
+c 1 h 8 f 1 h 3 b 2 b 1 h 1
+c 1 h 2 b 3 c 3 f 2 h 2 c 1 b 2 b 1
+b 3 c 3 f 2 h 2 c 2 b 2 b 1
+c 3 h 1 f 2 h 2 b 2 b 1
+c 2 h 3 f 2 h 2 b 2 b 1
+c 2 h 4 f 2 h 8 b 2 b 1
+c 2 h 5 f 3 h 8 b 2 b 1
+c 1 h 5 f 5 h 8 b 2 b 1
+c 2 h 4 b 3 f 4 h 8 b 2 b 1
+c 1 h 4 b 2 b 1 f 3 h 9 b 2 b 1
+c 2 h 3 b 1 b 1 f 2 h 9 b 2 b 2
+c 1 b 4 b 1 f 2 h 8 f 2 b 2 b 1
+b 1 f 1 h 8 f 3 b 2 b 1
+b 1 f 1 h 7 f 5 b 2 b 1
+b 4 h 2 f 9 b 2 b 1
+b 1 e 3 b 1 f 11 b 1 b 1
+b 1 e 3 b 1 f 11 b 1 b 1
+b 1 e 2 b 3 f 10 b 2 b 1
+b 1 e 2 b 4 f 3 h 1 f 4 h 1 b 2 b 1
+b 2 e 4 b 3 f 2 h 1 f 3 h 1 b 1 b 1
+b 1 e 7 b 1 f 3 h 3 b 2 b 1
+b 1 e 2 b 1 e 4 b 1 f 4 h 1 b 3
+b 2 e 2 b 1 e 3 b 1 f 5 h 1 b 2
+b 2 e 2 b 4 f 5 h 1 b 1 b 1
+b 3 e 3 b 1 f 5 h 1 b 2 b 2
+b 5 f 5 h 1 b 5
+h 7

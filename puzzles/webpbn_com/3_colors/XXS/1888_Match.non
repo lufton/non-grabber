@@ -1,0 +1,31 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.0
+height 5
+id 1888
+link "https://webpbn.com/play.cgi?id=1888"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Match"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+black 1
+black 1
+black 1
+black 1
+
+columns
+0
+0
+red 1 black 4
+0
+0

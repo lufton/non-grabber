@@ -1,0 +1,41 @@
+by "Sonja T (sugarriver)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Sonja T"
+date "Jun 23, 2014"
+description "Simplicity is the order of the day."
+difficulty 1.25
+height 10
+id 24906
+link "https://webpbn.com/play.cgi?id=24906"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "SR Rock Song #5"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 2
+blue 4
+blue 6
+blue 6
+blue 4
+blue 2
+black 4
+black 6
+black 8
+black 10
+
+columns
+black 1
+black 2
+blue 2 black 3
+blue 4 black 4
+blue 6 black 4
+blue 6 black 4
+blue 4 black 4
+blue 2 black 3
+black 2
+black 1

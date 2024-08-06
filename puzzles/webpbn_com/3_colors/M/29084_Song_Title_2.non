@@ -1,0 +1,61 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Nov 14, 2016"
+description "2001 BG"
+difficulty 2.0
+height 10
+id 29084
+link "https://webpbn.com/play.cgi?id=29084"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Song Title #2"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 5 black 3 green 5
+green 2 green 2 black 2 green 2 green 2
+green 1 green 1 black 1 black 1 green 1 green 1
+green 1 green 1 black 5 green 1 green 1
+green 1 green 1 black 2 black 2 green 1 green 1
+green 2 green 2 black 1 black 1 green 2 green 2
+green 5 black 1 black 1 green 5
+green 1 black 1 black 1 green 1
+green 3 black 2 black 2 green 3
+green 1 black 5 green 1
+
+columns
+0
+green 5
+green 2 green 2
+green 1 green 1 green 1
+green 1 green 4
+green 1 green 1 green 1
+green 2 green 2
+green 5
+0
+0
+0
+black 5
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1 black 5
+black 2
+black 3
+0
+green 5
+green 2 green 2
+green 1 green 1 green 1
+green 1 green 4
+green 1 green 1 green 1
+green 2 green 2
+green 5
+0
+0

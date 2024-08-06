@@ -1,0 +1,82 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Teresa K"
+date "Sep 27, 2009"
+description "Maritime signal flags based on the International Code of Signals (ICS). Each flag represents a letter of the alphabet. Can you tell what it spells?"
+difficulty 2.5
+height 25
+id 6810
+link "https://webpbn.com/play.cgi?id=6810"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "ICS puzzle"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 10 black 10 black 10
+black 1 blue 8 black 1 black 1 blue 8 black 1 black 1 red 8 black 1
+black 1 blue 8 black 1 black 1 blue 8 black 1 black 1 red 7 black 1
+black 1 blue 2 blue 2 black 1 black 1 blue 8 black 1 black 1 red 6 black 1
+black 1 blue 2 red 2 blue 2 black 1 black 1 blue 8 black 1 black 1 red 5 black 1
+black 1 blue 2 red 2 blue 2 black 1 black 1 red 8 black 1 black 1 red 5 black 1
+black 1 blue 2 blue 2 black 1 black 1 red 8 black 1 black 1 red 6 black 1
+black 1 blue 8 black 1 black 1 red 8 black 1 black 1 red 7 black 1
+black 1 blue 8 black 1 black 1 red 8 black 1 black 1 red 8 black 1
+black 10 black 10 black 10
+0
+0
+0
+black 10 black 10 black 10
+black 1 blue 8 black 1 black 1 red 8 black 1 black 1 blue 2 blue 2 black 1
+black 1 blue 8 black 1 black 1 red 7 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 blue 8 black 1 black 1 red 6 black 1 black 1 blue 2 blue 2 black 1
+black 1 blue 3 blue 3 black 1 black 1 red 5 black 1 black 1 blue 1 black 1 blue 1 black 2
+black 1 blue 3 blue 3 black 1 black 1 red 5 black 1 black 1 blue 2 blue 2 black 1
+black 1 blue 8 black 1 black 1 red 6 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 blue 8 black 1 black 1 red 7 black 1 black 1 blue 2 blue 2 black 1
+black 1 blue 8 black 1 black 1 red 8 black 1 black 1 blue 1 black 1 blue 1 black 2
+black 10 black 10 black 10
+0
+
+columns
+0
+black 10 black 10
+black 1 blue 8 black 1 black 1 blue 8 black 1
+black 1 blue 8 black 1 black 1 blue 8 black 1
+black 1 blue 2 blue 2 black 1 black 1 blue 8 black 1
+black 1 blue 2 red 2 blue 2 black 1 black 1 blue 3 blue 3 black 1
+black 1 blue 2 red 2 blue 2 black 1 black 1 blue 3 blue 3 black 1
+black 1 blue 2 blue 2 black 1 black 1 blue 8 black 1
+black 1 blue 8 black 1 black 1 blue 8 black 1
+black 1 blue 8 black 1 black 1 blue 8 black 1
+black 10 black 10
+0
+black 10 black 10
+black 1 blue 4 red 4 black 1 black 1 red 8 black 1
+black 1 blue 4 red 4 black 1 black 1 red 8 black 1
+black 1 blue 4 red 4 black 1 black 1 red 8 black 1
+black 1 blue 4 red 4 black 1 black 1 red 8 black 1
+black 1 blue 4 red 4 black 1 black 1 red 8 black 1
+black 1 blue 4 red 4 black 1 black 1 red 3 red 3 black 1
+black 1 blue 4 red 4 black 1 black 1 red 2 red 2 black 1
+black 1 blue 4 red 4 black 1 black 1 red 1 red 1 black 1
+black 10 black 10
+0
+black 10 black 10
+black 1 red 8 black 1 black 1 blue 2 blue 2 black 1
+black 1 red 8 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 red 8 black 1 black 1 blue 2 blue 2 black 1
+black 1 red 8 black 1 black 1 blue 1 black 1 blue 1 black 2
+black 1 red 8 black 1 black 1 blue 2 blue 2 black 1
+black 1 red 3 red 3 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 red 2 red 2 black 1 black 1 blue 2 blue 2 black 1
+black 1 red 1 red 1 black 1 black 1 blue 1 black 1 blue 1 black 2
+black 10 black 10
+0
+0

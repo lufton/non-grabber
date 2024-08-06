@@ -1,0 +1,62 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Mar  4, 2011"
+description ""
+difficulty 1.25
+height 20
+id 12543
+link "https://webpbn.com/play.cgi?id=12543"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Name that picture"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 black 3 blue 1 black 1 blue 11 red 1
+red 1 black 4 blue 1 black 1 blue 4 black 1 blue 5 red 1
+red 1 blue 2 black 2 blue 5 black 2 blue 5 red 1
+red 1 black 1 blue 8 black 1 blue 1 black 2 blue 3 red 1
+red 1 blue 1 black 1 blue 7 black 1 blue 1 black 2 blue 3 red 1
+red 1 blue 7 black 4 blue 5 red 1
+red 1 blue 5 black 9 blue 2 red 1
+red 1 blue 3 black 6 blue 7 red 1
+red 1 blue 1 black 7 blue 8 red 1
+red 1 blue 1 black 1 blue 2 black 2 blue 10 red 1
+red 1 blue 3 black 2 blue 5 black 2 blue 1 black 2 blue 1 red 1
+red 1 blue 3 black 1 blue 5 black 2 blue 1 black 2 blue 2 red 1
+red 1 blue 8 black 2 blue 1 black 2 blue 3 red 1
+red 18
+red 18
+red 18
+red 16
+red 2 red 2
+red 2 red 2
+red 2 red 2
+
+columns
+0
+red 16
+black 2 blue 1 black 1 blue 9 red 7
+black 2 blue 2 black 1 blue 3 black 2 blue 3 red 7
+black 3 blue 5 black 1 blue 4 red 4
+blue 1 black 2 blue 4 black 2 blue 1 black 2 blue 1 red 4
+black 1 blue 6 black 4 blue 2 red 4
+blue 1 black 1 blue 4 black 4 blue 3 red 4
+blue 6 black 3 blue 4 red 4
+blue 5 black 4 blue 4 red 4
+blue 5 black 3 blue 4 black 1 red 4
+blue 2 black 5 blue 4 black 2 red 4
+blue 1 black 2 blue 2 black 2 blue 3 black 2 blue 1 red 4
+blue 3 black 2 blue 1 black 1 blue 3 black 1 blue 1 black 1 red 4
+blue 3 black 2 blue 1 black 1 blue 4 black 2 red 4
+blue 6 black 1 blue 3 black 2 blue 1 red 4
+blue 10 black 1 blue 2 red 7
+blue 13 red 7
+red 16
+0

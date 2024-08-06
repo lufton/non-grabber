@@ -1,0 +1,83 @@
+by "Itai Palmoo (igot3)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Itai Palmoo"
+date "Dec 27, 2008"
+description "A nice little face"
+difficulty 1.25
+height 30
+id 4546
+link "https://webpbn.com/play.cgi?id=4546"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Smile"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 17 black 5
+black 1
+black 1
+black 1
+black 1
+black 1 red 10 red 10
+black 1 red 1 red 7 red 10
+black 1 red 1 red 7 red 10
+red 10 red 10
+red 10 red 10
+red 10 red 10
+red 10 red 10
+black 1 red 10 red 10
+black 1 red 10 red 10
+black 1 red 10 red 10
+black 1 green 1
+black 1 green 1
+black 1 green 1
+black 1 green 1
+black 1 blue 2 green 3 blue 2
+black 1 blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 25
+blue 25
+black 1
+black 1
+black 1
+black 1
+black 1 black 17 black 4
+
+columns
+black 8 black 9 black 5
+0
+0
+0
+0
+black 1 red 10 blue 6 black 1
+black 1 red 1 red 7 blue 6 black 1
+black 1 red 1 red 7 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 green 1 blue 2 black 1
+black 1 green 1 blue 2 black 1
+black 1 green 5 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+red 10 blue 2
+red 10 blue 2
+red 10 blue 2
+black 1 red 10 blue 2
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 2 black 1
+black 1 red 10 blue 6 black 1
+black 1 red 10 blue 6 black 1

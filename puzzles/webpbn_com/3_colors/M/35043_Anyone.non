@@ -1,0 +1,54 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Yonah Kondor"
+date "Apr 14, 2021"
+description "It's been quiet lately; no new puzzles... It's like all I'm hearing is ______."
+difficulty 1.5
+height 14
+id 35043
+link "https://webpbn.com/play.cgi?id=35043"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Anyone?"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+green 3
+green 2 green 2 green 2
+green 2 green 2 green 2
+green 2 green 1 green 1 green 5
+green 10 black 1 green 1 green 3
+green 2 black 2 green 1 black 1 green 1 black 2 green 1 black 2 green 3
+green 2 black 3 green 1 black 1 green 2 black 1 green 1 black 2 green 1
+green 2 black 1 green 2 black 2 green 2 green 2
+green 8
+green 2 green 3
+green 3 green 2 green 3
+green 2 green 2 green 1
+green 2
+
+columns
+green 1 green 1
+green 3 green 2
+green 3 black 1 green 2 green 1
+green 3 black 3 green 3
+green 2 green 1 black 2 green 3
+green 2 green 5
+green 2 green 2 black 3 green 1 green 1
+green 2 green 3 black 1 green 1 green 2
+green 2 green 1 black 1 green 3 green 2
+green 3 black 2 green 4
+green 3 green 1
+green 2 black 2 green 1 green 2
+green 1 black 3 green 1 green 1
+green 4 green 2
+green 1 green 1
+green 2 green 1
+green 2 green 1
+green 1 green 1
+green 1

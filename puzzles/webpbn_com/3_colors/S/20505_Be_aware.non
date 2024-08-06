@@ -1,0 +1,51 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom O'Connell"
+date "Dec  1, 2012"
+description "Today is aids awareness day."
+difficulty 2.5
+height 15
+id 20505
+link "https://webpbn.com/play.cgi?id=20505"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Be aware!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 2 black 2
+black 2 black 1 black 1 black 1 black 2
+black 2 black 1 black 1
+black 1 black 1
+black 2 black 1
+black 3 black 3
+black 2 black 2 black 2 black 2
+black 3 black 1 black 2 black 2
+black 2 black 2 black 1 red 1 black 2
+black 2 black 2 red 1 red 1 black 2
+black 2 black 1 red 1 black 2
+black 2 red 3 black 2
+black 2 red 1 red 1 black 2
+black 2 black 2
+
+columns
+black 7
+black 8
+black 2 black 3
+black 2 black 1
+black 2 black 2
+black 2 black 3
+black 1 black 1 black 2
+black 1 black 1 black 2
+black 4 black 2
+black 2 red 1 red 2
+black 1 black 1 black 2 red 1 red 2
+black 1 black 2 red 1 red 2
+black 3 black 9
+black 3 black 8
+0

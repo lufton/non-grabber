@@ -1,0 +1,62 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Mar 14, 2011"
+description ""
+difficulty 1.5
+height 20
+id 12735
+link "https://webpbn.com/play.cgi?id=12735"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "A tribute to Japan :("
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 11 blue 1
+blue 13 blue 1
+blue 1 black 1 blue 3 blue 2
+blue 1 black 1 red 3 blue 2 blue 4
+blue 1 black 1 red 5 blue 9
+blue 1 black 1 red 5 blue 9
+blue 1 black 1 red 5 blue 9
+blue 1 black 1 red 3 blue 3 blue 2
+blue 1 black 1 blue 5 blue 1
+blue 1 black 2 blue 14
+blue 1 black 2 blue 17
+blue 1 black 2 blue 2 blue 5 blue 6
+blue 1 black 2 blue 4 blue 3 blue 5
+blue 1 black 2 blue 8 blue 4
+blue 1 black 2 blue 7 blue 3
+blue 1 black 2 blue 2 blue 2 black 7 blue 3
+blue 1 black 2 blue 1 black 9 blue 2
+blue 1 black 2 blue 3 black 10 blue 1
+blue 1 black 2 blue 5 black 12
+
+columns
+blue 20
+blue 3 black 17
+blue 3 black 10
+blue 3 blue 8 blue 1
+blue 3 red 3 blue 7 blue 1
+blue 3 red 5 blue 2 blue 3 blue 1
+blue 3 red 5 blue 2 blue 3 blue 2
+blue 3 red 5 blue 2 blue 2 blue 2
+blue 3 red 3 blue 3 blue 3 blue 1 black 1
+blue 3 blue 7 black 3
+blue 3 blue 5 black 4
+blue 1 blue 12 black 4
+blue 1 blue 11 black 4
+blue 1 blue 1 blue 7 black 4
+blue 1 blue 3 blue 4 black 4
+blue 1 blue 3 blue 5 black 4
+blue 1 blue 4 blue 5 black 4
+blue 1 blue 4 blue 6 black 3
+blue 1 blue 6 blue 7 black 2
+blue 10 blue 8 black 1

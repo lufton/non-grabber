@@ -1,0 +1,31 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "May 15, 2012"
+description ""
+difficulty 1.25
+height 5
+id 18667
+link "https://webpbn.com/play.cgi?id=18667"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Minimal Who #9"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 green 2
+black 2 green 2
+black 1 green 3
+green 2 black 2
+black 2
+
+columns
+black 2
+green 1 black 2 green 1 black 1
+green 4 black 1
+green 2 black 1
+green 1 black 1

@@ -1,0 +1,43 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug 13, 2016"
+description "Not quite synchronized diving"
+difficulty 1.5
+height 13
+id 28552
+link "https://webpbn.com/play.cgi?id=28552"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title ""Hurry up!" "Why don't YOU slow down?""
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+green 1 black 1 black 1
+green 1 black 1 black 1
+black 1 black 1 green 1
+black 1 red 1 black 1 green 1
+black 1 black 1 black 1 black 1
+blue 3 black 1 red 1 black 1
+blue 2 blue 1 black 1 blue 1 black 1
+blue 3 blue 2
+blue 5 blue 1
+
+columns
+black 3 black 3 blue 4
+green 2 red 1 blue 4
+black 3 black 3 blue 1 blue 2
+blue 1 blue 1
+black 3 black 3 blue 2
+green 2 red 1 blue 2
+black 3 black 3 blue 1

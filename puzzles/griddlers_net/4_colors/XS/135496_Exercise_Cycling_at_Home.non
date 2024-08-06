@@ -1,0 +1,38 @@
+by "paukenpietje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/2/13"
+height 7
+id 135496
+link "https://www.griddlers.net/nonogram/-/g/135496"
+medium_time "0:01:04"
+points 143
+popularity 57.06
+title "Exercise Cycling at Home"
+width 10
+
+color a ffffff
+color b 000000
+color c c98c00
+color d ff0000
+
+rows
+c 2 d 1
+d 1
+c 3 d 2
+d 1 d 3
+d 3 c 1 d 3
+b 2 d 6 b 2
+b 2 c 1 b 2
+
+columns
+d 1 b 2
+c 1 d 1 b 2
+c 1 d 3
+c 1 d 1
+d 1 c 1
+c 1 c 1 d 1
+c 1 d 1
+d 6
+d 3 b 2
+d 2 b 2

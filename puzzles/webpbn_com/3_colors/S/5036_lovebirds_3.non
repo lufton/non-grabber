@@ -1,0 +1,51 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Feb 14, 2009"
+description "Flamingo's. Can you see how the necks form a heart?"
+difficulty 1.75
+height 15
+id 5036
+link "https://webpbn.com/play.cgi?id=5036"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "lovebirds 3"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 red 3
+red 2 red 2 red 2 red 2
+red 1 black 1 black 1 red 1
+red 2 black 1 black 1 red 2
+red 2 red 2
+red 4 red 4
+red 5 red 5
+red 5 red 5
+red 5 red 5
+red 1 black 1 red 1 red 1 black 1 red 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+red 2
+red 3
+red 3 red 4
+red 2 red 6 black 3 black 1
+red 1 red 6 black 2
+red 2 red 3
+red 1 black 2
+0
+red 1 black 2
+red 2 red 3
+red 1 red 6 black 2
+red 2 red 6 black 3 black 1
+red 3 red 4
+red 3
+red 2

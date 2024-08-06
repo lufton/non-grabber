@@ -1,0 +1,137 @@
+by "Randy Robinson (robinson88766)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Randy Robinson"
+date "Dec 23, 2011"
+description "I know it's super easy and there are probably a half a dozen versions already here, but it is more a result of learning to use the editor than an attempt to challenge the solver."
+difficulty 2.0
+height 50
+id 16796
+link "https://webpbn.com/play.cgi?id=16796"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "interlock"
+width 65
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 4 black 4
+black 1 blue 2 black 3 black 3 green 2 black 1
+black 1 blue 4 black 3 black 3 green 4 black 1
+black 1 blue 6 black 3 black 3 green 6 black 1
+black 1 blue 8 black 3 black 3 green 8 black 1
+black 1 blue 10 black 3 black 3 green 10 black 1
+black 1 blue 12 black 3 black 3 green 12 black 1
+black 1 blue 14 black 3 green 14 black 1
+black 1 blue 12 black 3 green 16 black 1
+black 1 blue 10 black 3 green 18 black 1
+black 1 blue 8 black 3 green 20 black 1
+black 1 blue 7 black 2 green 13 black 3 green 6 black 1
+black 1 blue 7 black 1 green 12 black 3 blue 1 black 3 green 4 black 1
+black 1 blue 7 black 1 green 10 black 3 blue 5 black 3 green 2 black 1
+black 1 blue 7 black 1 green 8 black 3 blue 9 black 4
+black 2 blue 7 black 1 green 6 black 3 blue 13 black 3
+black 4 blue 7 black 1 green 4 black 3 black 3 blue 13 black 3
+black 3 green 2 black 1 blue 7 black 1 green 2 black 3 black 3 blue 13 black 3
+black 3 green 4 black 1 blue 7 black 4 black 3 blue 13 black 3
+black 3 green 6 black 1 blue 7 black 2 black 3 blue 13 black 3
+black 3 green 8 black 1 blue 7 black 1 black 4 blue 13 black 3
+black 3 green 10 black 1 blue 7 black 1 black 1 green 2 black 3 blue 13 black 3
+black 3 green 12 black 1 blue 7 black 1 black 1 green 4 black 3 blue 13 black 3
+black 2 green 14 black 2 blue 6 black 1 black 1 green 6 black 2 blue 14 black 2
+black 3 green 13 black 3 blue 4 black 1 black 1 green 7 black 1 blue 12 black 3
+black 3 green 13 black 3 blue 2 black 1 black 1 green 7 black 1 blue 10 black 3
+black 3 green 13 black 4 black 1 green 7 black 1 blue 8 black 3
+black 3 green 13 black 3 black 2 green 7 black 1 blue 6 black 3
+black 3 green 13 black 3 black 4 green 7 black 1 blue 4 black 3
+black 3 green 13 black 3 black 3 blue 2 black 1 green 7 black 1 blue 2 black 3
+black 3 green 13 black 3 black 3 blue 4 black 1 green 7 black 4
+black 3 green 13 black 3 blue 6 black 1 green 7 black 2
+black 4 green 9 black 3 blue 8 black 1 green 7 black 1
+black 1 blue 2 black 3 green 5 black 3 blue 10 black 1 green 7 black 1
+black 1 blue 4 black 3 green 1 black 3 blue 12 black 1 green 7 black 1
+black 1 blue 6 black 3 blue 13 black 2 green 7 black 1
+black 1 blue 20 black 3 green 8 black 1
+black 1 blue 18 black 3 green 10 black 1
+black 1 blue 16 black 3 green 12 black 1
+black 1 blue 14 black 3 green 14 black 1
+black 1 blue 12 black 3 black 3 green 12 black 1
+black 1 blue 10 black 3 black 3 green 10 black 1
+black 1 blue 8 black 3 black 3 green 8 black 1
+black 1 blue 6 black 3 black 3 green 6 black 1
+black 1 blue 4 black 3 black 3 green 4 black 1
+black 1 blue 2 black 3 black 3 green 2 black 1
+black 4 black 4
+black 2 black 2
+0
+
+columns
+black 1
+black 3
+black 1 green 1 black 1
+black 2 green 1 black 2
+black 1 green 3 black 1
+black 2 green 3 black 2
+black 1 green 5 black 1
+black 2 green 5 black 2
+black 1 green 7 black 1
+black 2 green 7 black 2
+black 1 green 9 black 1
+black 2 green 9 black 2
+black 1 green 11 black 1
+black 2 green 11 black 2
+black 1 green 13 black 1
+black 2 green 13 black 2
+black 25 green 7 black 17
+black 2 blue 22 black 2 green 6 black 2 blue 13 black 2
+black 1 blue 23 black 1 green 7 black 1 blue 13 black 1
+black 2 blue 22 black 2 green 6 black 2 blue 11 black 2
+black 1 blue 23 black 1 green 7 black 1 blue 11 black 1
+black 2 blue 22 black 2 green 6 black 2 blue 9 black 2
+black 1 blue 23 black 1 green 7 black 1 blue 9 black 1
+black 2 blue 22 black 2 green 6 black 2 blue 7 black 2
+black 1 blue 7 black 17 green 7 black 1 blue 7 black 1
+black 2 blue 5 black 2 green 6 black 2 black 2 green 5 black 2 blue 6 black 2
+black 1 blue 5 black 1 green 7 black 1 black 1 green 5 black 1 blue 7 black 1
+black 2 blue 3 black 2 green 6 black 2 black 2 green 3 black 2 blue 6 black 2
+black 1 blue 3 black 1 green 7 black 1 black 1 green 3 black 1 blue 7 black 1
+black 2 blue 1 black 2 green 6 black 2 black 2 green 1 black 2 blue 6 black 2
+black 1 blue 1 black 1 green 7 black 1 black 1 green 1 black 1 blue 7 black 1
+black 3 green 6 black 2 black 3 blue 6 black 2
+black 1 green 7 black 1 black 1 blue 7 black 1
+black 2 green 6 black 3 black 2 blue 6 black 3
+black 1 green 7 black 1 blue 1 black 1 black 1 blue 7 black 1 green 1 black 1
+black 2 green 6 black 2 blue 1 black 2 black 2 blue 6 black 2 green 1 black 2
+black 1 green 7 black 1 blue 3 black 1 black 1 blue 7 black 1 green 3 black 1
+black 2 green 6 black 2 blue 3 black 2 black 2 blue 6 black 2 green 3 black 2
+black 1 green 7 black 1 blue 5 black 1 black 1 blue 7 black 1 green 5 black 1
+black 2 green 6 black 2 blue 5 black 2 black 2 blue 6 black 2 green 5 black 2
+black 1 green 7 black 1 blue 7 black 17 green 7 black 1
+black 2 green 7 black 2 blue 6 black 2 green 22 black 2
+black 1 green 9 black 1 blue 7 black 1 green 23 black 1
+black 2 green 9 black 2 blue 6 black 2 green 22 black 2
+black 1 green 11 black 1 blue 7 black 1 green 23 black 1
+black 2 green 11 black 2 blue 6 black 2 green 22 black 2
+black 1 green 13 black 1 blue 7 black 1 green 23 black 1
+black 2 green 13 black 2 blue 6 black 2 green 22 black 2
+black 17 blue 7 black 25
+black 2 blue 13 black 2
+black 1 blue 13 black 1
+black 2 blue 11 black 2
+black 1 blue 11 black 1
+black 2 blue 9 black 2
+black 1 blue 9 black 1
+black 2 blue 7 black 2
+black 1 blue 7 black 1
+black 2 blue 5 black 2
+black 1 blue 5 black 1
+black 2 blue 3 black 2
+black 1 blue 3 black 1
+black 2 blue 1 black 2
+black 1 blue 1 black 1
+black 3
+black 1

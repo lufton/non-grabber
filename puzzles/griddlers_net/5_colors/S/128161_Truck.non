@@ -1,0 +1,51 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/20/12"
+height 13
+id 128161
+link "https://www.griddlers.net/nonogram/-/g/128161"
+medium_time "0:01:23"
+points 108
+popularity 62.96
+title "Truck"
+width 16
+
+color a ffffff
+color b 1c14c6
+color c d3bc1f
+color d cec7ce
+color e 000000
+
+rows
+b 10
+b 11
+b 11
+b 11 c 3
+b 11 c 2 d 2
+b 11 c 2 d 2
+b 11 c 2 d 3
+b 11 c 2 d 3
+b 11 c 5
+c 2 e 2 c 8 e 2 c 1 d 1
+c 1 e 4 c 6 e 4 c 1
+e 4 e 4
+e 2 e 2
+
+columns
+b 8 c 2
+b 9 c 1 e 2
+b 9 e 4
+b 9 e 4
+b 9 c 1 e 2
+b 9 c 2
+b 9 c 2
+b 9 c 2
+b 9 c 2
+b 9 c 2
+b 9 c 2
+c 7 e 2
+c 6 e 4
+c 1 d 4 c 1 e 4
+d 4 c 2 e 2
+d 2 c 1 d 1 c 1

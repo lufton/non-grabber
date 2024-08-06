@@ -1,0 +1,76 @@
+by "Adam (adds3000)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Adam"
+date "Sep 18, 2020"
+description "The Playstation, my first console and will also be my latest one!"
+difficulty 1.5
+height 25
+id 34481
+link "https://webpbn.com/play.cgi?id=34481"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "In light of Sony's latest announcement"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 1
+red 5
+red 8
+red 10
+red 5 red 5
+red 5 red 5
+red 5 red 6
+red 5 red 6
+red 5 red 6
+red 5 red 6
+red 5 red 5
+black 1 red 5 red 4
+black 4 red 5 black 6
+black 6 red 5 black 10
+black 5 red 5 black 4 black 4
+black 4 red 5 black 1 black 5
+black 5 black 3 red 5 black 7
+black 9 red 5 black 7
+black 5 red 5 black 5
+red 4 black 2
+red 1
+0
+0
+
+columns
+0
+black 1
+black 3
+black 4
+black 5
+black 6
+black 2 black 2
+black 3 black 2
+black 2 black 3
+black 2 black 2
+black 3 black 2
+0
+red 19
+red 19
+red 19
+red 19
+red 20
+red 2
+red 10 black 3 black 2
+red 10 black 2 black 3
+red 9 black 2 black 2
+red 9 black 3 black 3
+red 7 black 2 black 3
+red 4 black 2 black 2
+black 2 black 3
+black 6
+black 5
+black 4
+black 2
+0

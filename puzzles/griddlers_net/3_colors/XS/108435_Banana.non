@@ -1,0 +1,36 @@
+by "Lenchik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/23/11"
+height 9
+id 108435
+link "https://www.griddlers.net/nonogram/-/g/108435"
+medium_time "0:00:53"
+points 7
+popularity 49.81
+title "Banana"
+width 7
+
+color a ffffff
+color b f0db00
+color c ffff00
+
+rows
+b 3
+b 1
+c 1
+c 2
+c 2
+c 3
+c 4
+c 6
+c 4
+
+columns
+c 1
+c 2
+c 2
+c 3
+b 1 c 4
+b 2 c 6
+b 1 c 4

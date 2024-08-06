@@ -1,0 +1,103 @@
+by "OphraLev (ophralev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by OphraLev"
+date "Apr 12, 2009"
+description "An ice cold can of coke.... Psss... (my son's idea and help in creating)"
+difficulty 2.5
+height 50
+id 5603
+link "https://webpbn.com/play.cgi?id=5603"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Pssss.... (our first puzzle)"
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 12
+black 22
+black 8 black 8
+black 4 black 4
+black 2 black 8 black 2
+black 1 black 1 black 6 black 1
+black 1 black 1 black 6 black 1
+black 2 black 8 black 2
+black 5 black 5
+black 1 red 1 black 8 black 8 red 1 black 1
+black 1 red 4 black 22 red 4 black 1
+black 1 red 9 black 12 red 5 black 1
+black 1 red 20 red 5 black 1
+black 1 red 21 red 4 black 1
+black 1 red 22 red 4 black 1
+black 1 red 23 red 3 black 1
+black 1 red 14 red 1 red 3 red 3 black 1
+black 1 red 13 red 1 red 3 red 3 black 1
+black 1 red 12 red 2 red 2 red 2 red 2 black 1
+black 1 red 12 red 2 red 2 red 3 red 2 black 1
+black 1 red 12 red 2 red 2 red 3 red 2 black 1
+black 1 red 13 red 5 red 1 black 1
+black 1 red 14 red 6 red 1 black 1
+black 1 red 9 red 9 red 5 red 1 black 1
+black 1 red 9 red 7 red 5 black 1
+black 1 red 9 red 5 red 7 black 1
+black 1 red 8 red 1 red 3 red 8 black 1
+black 1 red 11 red 1 red 10 black 1
+black 1 red 12 red 11 black 1
+black 1 red 6 red 8 black 1
+black 1 red 6 red 8 black 1
+black 1 red 6 red 11 red 8 black 1
+black 1 red 11 red 10 black 1
+black 1 red 10 red 9 black 1
+black 1 red 9 red 6 red 8 black 1
+black 1 red 8 red 6 red 8 black 1
+black 1 red 8 red 6 red 8 black 1
+black 1 red 9 red 9 black 1
+black 1 red 1 red 2 red 2 red 9 black 1
+black 1 red 1 red 4 red 6 red 8 black 1
+black 1 red 1 red 3 red 10 red 6 black 1
+black 1 red 2 red 2 red 10 red 6 black 1
+black 1 red 2 red 2 red 10 red 5 black 1
+black 1 red 3 red 2 red 8 red 5 black 1
+black 2 red 2 red 3 red 5 black 2
+black 3 red 4 red 5 black 3
+black 4 red 17 black 4
+black 24
+
+columns
+black 41
+black 2 black 2 red 17 red 6 black 2
+black 2 black 2 red 19 red 4 black 2
+black 2 black 2 red 22 red 2 black 2
+black 2 black 2 red 25 black 2
+black 2 black 2 red 27 black 2
+black 2 black 2 black 2 red 30 black 1
+black 2 black 1 black 1 black 2 red 34 black 1
+black 2 black 1 black 1 black 2 red 27 red 8 black 1
+black 2 black 1 black 1 black 2 red 18 red 6 red 1 red 3 black 1
+black 2 black 4 black 2 red 11 red 2 red 6 red 2 black 1
+black 2 black 4 black 2 red 11 red 3 red 7 red 3 red 2 black 1
+black 2 black 4 black 2 red 12 red 2 red 7 red 4 red 1 black 1
+black 2 black 4 black 2 red 6 red 4 red 1 red 3 red 7 red 1 black 1
+black 2 black 4 black 2 red 5 red 4 red 2 red 6 red 1 black 1
+black 2 black 2 black 2 red 4 red 3 red 4 red 1 red 3 red 5 red 1 black 1
+black 2 black 2 red 4 red 3 red 5 red 1 red 3 red 5 red 1 black 1
+black 2 black 2 red 4 red 4 red 1 red 3 red 5 red 1 black 1
+black 2 black 2 red 4 red 3 red 1 red 3 red 5 red 1 black 1
+black 2 black 2 red 9 red 2 red 1 red 1 red 3 red 4 red 1 black 1
+black 2 black 2 red 4 red 3 red 1 red 2 red 1 red 3 red 3 red 1 black 1
+black 2 black 2 red 4 red 1 red 3 red 2 red 1 red 2 black 1
+black 2 black 2 red 4 red 2 red 4 red 2 red 3 red 3 black 1
+black 2 black 2 red 32 black 1
+black 2 black 2 red 30 black 1
+black 2 black 2 red 27 black 1
+black 2 black 2 red 2 red 24 black 2
+black 2 black 2 red 5 red 21 black 2
+black 2 black 2 red 8 red 17 black 2
+black 2 black 2 red 11 red 13 black 2
+black 2 black 2 red 15 red 9 black 2
+black 41

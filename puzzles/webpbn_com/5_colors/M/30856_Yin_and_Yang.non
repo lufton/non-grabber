@@ -1,0 +1,63 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Scarlet Noelle Masen"
+date "Feb 10, 2018"
+description "Another puzzle based on the Miraculous Ladybug. Tikki and Plagg are the kwamis used to transform Marinette and Adrien into the superheros Ladybug and Cat Noir. They're just really cute."
+difficulty 2.0
+height 20
+id 30856
+link "https://webpbn.com/play.cgi?id=30856"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Yin and Yang"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 3 black 2
+red 2 black 1 black 3
+red 2 red 2 black 2 black 5
+red 1 red 4 black 8
+red 5 black 9
+red 4 black 9
+red 4 black 10
+red 5 black 11
+red 6 black 10
+red 7 black 9
+red 8 black 8
+red 1 black 1 blue 2 red 2 black 2 green 3 black 2
+red 2 blue 1 black 1 blue 1 red 1 black 1 green 1 black 1 green 3 black 2
+red 3 blue 1 black 2 blue 1 red 1 black 1 green 1 black 1 green 2 black 3
+red 3 blue 2 red 1 black 1 green 3 black 3
+red 6 black 8
+red 3 black 3 black 2
+red 1 black 1 black 2
+red 2 black 2 black 1
+red 3 black 3 black 1
+
+columns
+red 1
+red 1
+red 2 red 4 red 2
+red 2 red 9
+red 9 black 1 red 3
+red 7 blue 2 red 2
+red 8 blue 1 black 1 blue 1 red 1
+red 3 black 2 red 3 blue 1 black 2 blue 1 red 2 red 1
+red 3 black 4 red 3 blue 2 red 2 red 2
+red 2 black 6 red 10
+black 20
+black 1 black 10 green 3 black 2 black 2
+black 8 green 1 black 2 green 1 black 2 black 1
+black 8 green 4 black 1
+black 9 green 3 black 2
+black 10 green 1 black 3
+black 15
+black 4 black 4 black 2 black 2
+black 2 black 2
+black 3

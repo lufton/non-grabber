@@ -1,0 +1,46 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 19, 2011"
+description "Crocodile"
+difficulty 1.25
+height 5
+id 12862
+link "https://webpbn.com/play.cgi?id=12862"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Small Animal 11"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+black 1 black 2
+black 8 black 3
+black 20
+blue 20
+
+columns
+black 1 blue 1
+black 1 blue 1
+black 1 blue 1
+black 2 blue 1
+black 2 blue 1
+black 2 blue 1
+black 2 blue 1
+black 2 blue 1
+black 2 blue 1
+black 2 blue 1
+black 2 blue 1
+black 1 blue 1
+black 1 blue 1
+black 1 blue 1
+black 3 blue 1
+black 2 blue 1
+black 3 blue 1
+black 2 black 1 blue 1
+black 1 black 1 blue 1
+black 1 blue 1

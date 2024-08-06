@@ -1,0 +1,57 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug  8, 2016"
+description "2007 movie I hope Norma didn't already use this title!"
+difficulty 1.5
+height 18
+id 28530
+link "https://webpbn.com/play.cgi?id=28530"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Another Ã  la Norma #21 (dropped letter)"
+width 17
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10
+blue 10 green 7
+blue 5 blue 1 black 4 green 3
+blue 3 blue 1 black 4 green 1
+blue 2 blue 1 black 1 green 1
+blue 2 blue 4 blue 1 black 1 green 1
+blue 2 blue 1 blue 1 blue 1 black 1 green 1
+blue 1 blue 2 blue 1 black 1 black 1 green 1
+blue 1 blue 1 blue 1 blue 1 black 1 black 1 green 1
+blue 1 blue 1 blue 1 blue 2 black 1 black 1 green 1
+blue 1 blue 4 blue 2 black 1 black 1 green 2
+blue 1 blue 2 black 1 black 2 green 2
+blue 1 blue 3 black 1 black 2 green 3
+blue 1 blue 5 black 2 green 3
+blue 10 black 3 green 3
+blue 10 black 4 green 3
+black 10 green 3
+black 10
+
+columns
+blue 16
+blue 7 blue 2
+blue 4 blue 2
+blue 3 blue 2 blue 3 blue 2
+blue 3 blue 1 blue 1 blue 1 blue 2 black 2
+blue 2 blue 1 blue 1 blue 1 blue 3 black 2
+blue 2 blue 2 blue 3 blue 3 black 2
+blue 2 blue 4 black 2
+blue 2 blue 7 black 2
+blue 16 black 2
+green 1 black 2 black 6 black 3
+green 1 black 2 black 4
+green 1 black 2 black 7
+green 1 black 16
+green 2 green 5
+green 2 green 7
+green 16

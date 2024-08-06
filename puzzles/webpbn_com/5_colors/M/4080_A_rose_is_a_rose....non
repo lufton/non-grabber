@@ -1,0 +1,73 @@
+by "Sofia Bergendal (haesselmaas)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Sofia Bergendal"
+date "Nov 20, 2008"
+description "A picture of a rose with leaves in a frame. My first puzzle!"
+difficulty 1.75
+height 25
+id 4080
+link "https://webpbn.com/play.cgi?id=4080"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A rose is a rose..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 25
+black 1 blue 23 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 red 9 blue 1 black 1
+black 1 blue 1 red 2 red 2 blue 1 black 1
+black 1 blue 1 red 2 red 7 red 2 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 2 red 2 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 5 red 2 red 2 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 2 red 2 red 2 red 2 blue 1 black 1
+black 1 blue 1 red 1 red 2 red 2 red 3 red 2 red 2 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 2 red 2 red 2 red 2 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 1 red 2 red 2 red 1 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 1 red 1 red 2 red 1 red 1 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 1 red 4 red 2 red 1 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 2 red 2 red 2 red 1 red 1 blue 1 black 1
+black 1 blue 1 green 1 red 1 red 2 red 6 red 2 red 2 red 1 blue 1 black 1
+black 1 blue 1 green 1 red 2 red 2 red 2 red 2 red 2 green 1 blue 1 black 1
+black 1 blue 1 green 2 red 2 red 8 red 2 red 2 green 2 blue 1 black 1
+black 1 blue 1 green 3 red 2 red 2 red 2 green 3 blue 1 black 1
+black 1 blue 1 green 1 black 1 green 2 red 10 red 2 green 4 blue 1 black 1
+black 1 blue 1 black 1 green 6 green 4 blue 1 black 1
+black 1 blue 1 green 6 green 3 blue 1 black 1
+black 1 blue 1 green 5 green 1 blue 1 black 1
+black 1 blue 23 black 1
+black 25
+
+columns
+black 25
+black 1 blue 23 black 1
+black 1 blue 1 green 5 black 1 green 2 blue 1 black 1
+black 1 blue 1 red 9 green 2 black 1 green 3 blue 1 black 1
+black 1 blue 1 red 2 red 2 green 5 blue 1 black 1
+black 1 blue 1 red 2 red 7 red 2 green 4 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 2 red 2 green 3 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 5 red 2 red 1 green 2 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 2 red 2 red 1 red 1 green 1 blue 1 black 1
+black 1 blue 1 red 1 red 2 red 2 red 3 red 1 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 2 red 2 red 1 red 1 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 1 red 2 red 1 red 1 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 1 red 1 red 2 red 1 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 1 red 2 red 1 red 2 red 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 1 red 2 red 2 red 2 red 2 red 1 blue 1 black 1
+black 1 blue 1 red 1 red 2 red 2 red 3 red 2 red 2 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 2 red 2 red 2 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 5 red 2 red 1 blue 1 black 1
+black 1 blue 1 red 2 red 2 red 2 red 2 blue 1 black 1
+black 1 blue 1 red 2 red 7 red 2 green 2 blue 1 black 1
+black 1 blue 1 red 2 red 2 green 4 blue 1 black 1
+black 1 blue 1 red 9 green 6 blue 1 black 1
+black 1 blue 1 green 6 blue 1 black 1
+black 1 blue 23 black 1
+black 25

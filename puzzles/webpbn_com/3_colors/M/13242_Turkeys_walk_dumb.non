@@ -1,0 +1,66 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Apr  7, 2011"
+description "Grammar notwithstanding, this is how I saw a turkey walking across my father-in-law's field. It was swinging its neck back and forth like an idiot."
+difficulty 1.75
+height 15
+id 13242
+link "https://webpbn.com/play.cgi?id=13242"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Turkeys walk dumb"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 5 black 1 blue 1 black 1
+black 1 blue 1 black 3 black 5
+black 3 black 3
+black 3 black 2
+black 2 black 3
+black 7 black 7
+black 13 black 12
+black 13 black 12
+black 12 black 12
+black 10 black 10
+black 7 black 7
+black 5 black 5
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+
+columns
+0
+black 2
+black 3
+black 4
+black 4 black 1
+black 1 black 5 black 2
+black 2 black 8
+black 1 blue 1 black 7
+black 2 black 7
+black 3 black 8
+black 3 black 9
+black 9 black 1
+black 7
+black 3
+0
+black 3
+black 4
+black 4 black 1
+black 5 black 2
+black 8
+black 7
+black 7
+black 8
+black 10
+black 9 black 1
+black 9
+black 3 black 3
+blue 1 black 1
+black 2
+black 1

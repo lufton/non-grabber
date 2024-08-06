@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom King"
+date "Jan  3, 2013"
+description "I'm still not there on this movie. This is my 3rd attempt to make a recognizable scene and kee it in the parameters. No need to guess unless you want."
+difficulty 2.25
+height 15
+id 20752
+link "https://webpbn.com/play.cgi?id=20752"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Aldeges challenge attempt 3"
+width 25
+
+rows
+3,4
+5,3,2
+6,2,1,2
+8,2,1,1,1
+2,3,1,2,2,1
+2,1,2,3,2,2
+2,3,5,2,2
+2,1,1,3
+3,1,1
+3,1,3,1
+3,1,1,5,3
+3,5,1,1,1,1,1,1
+3,1,3,3
+3,3,1,1
+3,1,1,2,2,2,2
+
+columns
+15
+15
+4,7
+4
+6
+3,1
+1,2
+3
+2,2,1
+2,1,1,1
+2,1,3
+2,1,1,1
+2,2,1
+0
+2,1
+2,1,1
+2,5
+4,2,1,1
+1,2,2,1
+2,2
+1,2,2,1,1
+1,1,1,1,1,1,1
+2,1,2,5
+2,2,1,1,1
+4,1,1

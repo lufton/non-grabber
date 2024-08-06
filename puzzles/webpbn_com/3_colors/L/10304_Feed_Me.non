@@ -1,0 +1,81 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Sep 11, 2010"
+description "Where is that round-headed kid?"
+difficulty 3.0
+height 30
+id 10304
+link "https://webpbn.com/play.cgi?id=10304"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Feed Me"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 5
+black 6 black 2 black 3
+black 2 black 2 black 1 black 1 black 1
+black 3 black 4 black 1
+black 3 black 2
+black 4 black 1 black 2
+black 4 black 1 black 2
+black 4 black 1 black 3
+black 3 black 3
+black 2 black 3
+black 16 black 3
+black 1 red 13 black 1 black 1 black 3
+black 1 red 13 black 1 black 1 black 3
+black 1 red 14 black 1 black 1 black 3
+black 1 red 15 black 1 black 1 black 4
+black 1 red 15 black 1 black 1 black 2 black 2
+red 16 black 1 black 1 black 1 black 2
+red 16 black 2 black 1 black 2
+black 16 red 1 black 1 black 2
+black 1 black 2 black 1 black 2
+black 2 black 3 black 1 black 1 black 2
+black 4 black 1 red 1 black 1 black 1
+black 1 red 2 black 1 black 1
+black 1 red 4 black 2
+black 1 red 3 black 3
+black 1 red 1 black 2
+black 1 black 1 black 1
+black 1 black 1
+black 1
+black 1
+
+columns
+black 3 red 2 black 1
+black 3 red 5 black 1
+black 3 black 1 red 7 black 1
+black 5 black 1 red 7 black 1
+black 5 black 1 red 7 black 1
+black 8 red 7 black 1
+black 1 black 2 red 7 black 1
+black 2 black 1 red 7 black 1
+black 2 black 1 red 7 black 1
+black 1 black 1 red 7 black 1
+black 1 black 1 red 7 black 1
+black 1 black 1 red 7 black 1
+black 1 black 1 red 7 black 2
+black 1 black 1 red 7 black 1 black 1
+black 1 black 1 red 7 black 1 black 2
+black 1 black 4 red 4 black 1 black 1
+black 1 black 1 black 4 red 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 3 black 5 black 1
+black 1 black 2
+black 1 black 1
+black 2 black 5
+black 2 red 2 black 5
+black 1 red 3
+black 1 red 3 black 2
+black 1 black 6 red 3
+black 2 black 2 black 4
+black 2 black 8 black 2
+black 20 black 2
+black 19 black 2

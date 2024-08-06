@@ -1,0 +1,62 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Aug  2, 2016"
+description "They requested an illustration of (P)lastic cutlery. Elastic cutlery? Useless!"
+difficulty 2.0
+height 20
+id 28498
+link "https://webpbn.com/play.cgi?id=28498"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Better take another look,"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 black 2 black 1 blue 2
+green 5 black 1 black 1 black 2 blue 3
+green 5 black 1 black 1 black 1 blue 3
+green 5 black 5 blue 3
+green 5 black 1 blue 3
+green 3 black 1 blue 3
+green 1 black 2 blue 3
+green 2 black 1 blue 3
+green 1 black 1 blue 3
+green 1 black 1 blue 3
+green 2 black 3 blue 2
+green 1 black 1 blue 1
+green 1 black 2 black 1 blue 1
+green 1 black 3 black 1 blue 1
+green 2 black 1 black 3 blue 1
+green 2 black 1 blue 1
+green 1 black 2 blue 2
+green 2 black 3 blue 1
+green 2 black 2 blue 2
+green 2 black 2 blue 1
+
+columns
+0
+green 4 green 3
+green 6 green 4 green 2 green 3
+green 8 green 5 green 2
+green 6
+green 4
+0
+black 1 black 5
+black 4 black 2 black 2
+black 1 black 5 black 2 black 1
+black 7 black 1 black 1 black 3
+black 1 black 5 black 2
+black 3
+black 1
+0
+0
+blue 9
+blue 11 blue 3
+blue 17 blue 2
+0

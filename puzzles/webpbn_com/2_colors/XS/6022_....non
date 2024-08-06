@@ -1,0 +1,30 @@
+by "Oasis Fan (morningglory)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Oasis Fan"
+date "Jun  4, 2009"
+description "i just saw this pattern in a larger puzzle and wondered if anyone could solve it using non-guess-and-check logic"
+difficulty 2.0
+height 6
+id 6022
+link "https://webpbn.com/play.cgi?id=6022"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "..."
+width 7
+
+rows
+1
+3
+1,1,1
+1
+3
+1,1
+
+columns
+2
+3
+2
+0
+2
+2
+2

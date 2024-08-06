@@ -1,0 +1,30 @@
+by "rafal24"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/04"
+height 5
+id 10382
+link "https://www.griddlers.net/nonogram/-/g/10382"
+medium_time "0:00:22"
+points 12
+popularity 39.88
+title "Paris at Night"
+width 5
+
+color a 0000fe
+color b c2d100
+color d fffe00
+
+rows
+b 1 d 1
+d 1 b 1
+b 1
+b 3
+b 2 b 2
+
+columns
+d 1 b 1
+b 2
+b 4
+b 2
+d 1 b 1

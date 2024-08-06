@@ -1,0 +1,77 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "Feb  2, 2013"
+description "His name is Rusty and he's a talking pipe wrench. He's also afraid of everything. Inclement weather will make him want to stay inside."
+difficulty 3.0
+height 40
+id 21030
+link "https://webpbn.com/play.cgi?id=21030"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "I think I'll stay in the truck."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 1 black 1 green 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 2
+black 2 black 3 black 2
+black 4 black 4 green 1
+green 1 green 1 green 2
+green 2 green 2 green 1
+green 1 green 1 green 2
+green 2 green 2 green 1
+green 1 green 1 green 2
+green 14
+green 1 green 1 green 1
+green 14
+green 2 green 2 green 2
+green 2 green 3 green 2 green 1
+green 1 green 9 green 2
+green 1 green 2
+green 11 green 1
+green 1 green 1
+green 2 green 1 green 2
+green 1 green 3 blue 2
+green 1 green 2 green 2 blue 3
+green 1 green 1 green 1 blue 3
+green 1 green 2 green 2 blue 3
+green 1 green 1 green 1 blue 2 green 1
+green 2 green 3 green 1 green 1
+green 1 green 1 green 1 green 1
+green 2 green 1 green 2 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 2 green 1 green 2 green 1
+green 1 green 1 green 1 green 1
+green 1 green 2 green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1
+
+columns
+green 3 green 3
+black 3 green 1 green 1 green 1 green 1
+black 1 black 2 green 3 green 1 green 1 green 3
+black 1 green 1 black 2 green 3 green 1 green 1 green 1 green 1 green 7
+black 1 green 1 black 1 black 1 green 2 green 1 green 4 green 1 green 3 green 5
+black 1 green 1 black 1 green 1 green 4 green 1 green 3 green 7
+black 1 green 1 black 2 green 1 green 1 green 2 green 1 green 2 green 3
+black 4 green 3 green 1 green 1 green 1 green 2 green 11
+black 1 green 1 black 2 green 3 green 1 green 1 green 1 green 1 green 2 green 3 green 2
+black 1 green 1 black 1 green 2 green 4 green 1 green 1 green 3
+black 1 green 1 black 1 green 1 green 4 green 1 green 7
+black 1 green 1 black 1 black 2 green 1 green 1 green 1 green 1 blue 5 green 3 green 5
+black 1 black 2 green 2 green 1 green 1 green 1 green 1 blue 5
+black 3 green 3 green 5 green 5 blue 3 green 14
+green 3 green 3

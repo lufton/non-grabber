@@ -1,0 +1,83 @@
+by "Mikey (Nuggy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Mikey"
+date "Dec 29, 2007"
+description "Enjoy some red wine, a nice shiny red bartlett pear, and some "bleu" cheese on a cracker. My first puzzle, hope you enjoy."
+difficulty 2.25
+height 30
+id 2072
+link "https://webpbn.com/play.cgi?id=2072"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Sophistication Pun Fun"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 9 black 1 black 1
+black 1 blue 7 black 2 black 1 black 1
+black 1 blue 8 black 2 black 1 black 1
+black 2 blue 8 black 1 black 1 black 1
+black 2 blue 7 black 1 black 4
+green 2 black 9 black 6
+green 2 black 1 black 1
+green 2 green 1 black 1 black 1
+green 3 black 2 green 2 black 1 red 4 black 1
+black 1 green 3 black 2 red 4 black 2
+black 1 black 1 red 6 black 1
+red 2 black 1 red 6 black 1
+red 4 black 2 red 6 black 2
+red 4 black 1 red 8 black 1
+red 6 black 2 red 8 black 2
+red 8 black 2 red 10 black 2
+red 8 black 1 red 12 black 1
+red 10 black 1 red 3 black 6 red 3 black 1
+red 11 black 1 red 3 black 2 black 1 red 3 black 1
+red 7 blue 1 red 3 black 1 red 3 black 1 black 3 red 3 black 1
+red 7 blue 2 red 3 black 1 red 3 black 1 black 4 red 3 black 1
+red 13 black 1 red 3 black 1 black 2 black 1 red 3 black 1
+red 5 blue 1 red 5 black 1 red 3 black 4 black 1 red 3 black 1
+red 5 blue 2 red 5 black 1 red 3 black 3 black 1 red 3 black 1
+red 13 black 1 red 3 black 1 black 2 red 3 black 1
+red 12 black 1 red 3 black 6 red 3 black 1
+red 10 black 1 red 12 black 1
+red 3 red 4 black 2 red 10 black 2
+black 12
+
+columns
+red 7
+red 10
+green 2 red 13
+green 2 red 14
+green 1 red 16
+green 2 black 3 red 11 blue 2 red 3
+black 4 green 3 black 1 red 11 blue 1 red 4
+black 1 blue 2 black 2 green 2 red 7 blue 2 red 1 red 4
+black 1 blue 3 black 2 green 2 red 5 blue 1 red 7
+black 1 blue 4 black 1 green 1 red 4 red 7
+black 1 blue 4 black 1 red 10
+black 1 blue 4 black 1 red 8
+black 1 blue 4 black 1 red 6
+black 1 blue 4 black 1
+black 2 blue 3 black 1
+black 2 blue 2 black 1 black 13
+black 4 black 2 red 11 black 2
+black 3 red 13 black 1
+black 4 red 15 black 1
+black 5 red 7 black 9 red 2 black 1
+black 7 red 9 black 2 black 2 black 1 red 2 black 1
+black 1 black 2 red 9 black 1 black 4 black 1 red 2 black 1
+black 1 black 2 red 9 black 1 black 4 black 1 red 2 black 1
+black 7 red 9 black 1 black 2 black 2 red 2 black 1
+black 5 red 7 black 9 red 2 black 1
+black 4 red 15 black 1
+black 3 red 13 black 1
+black 2 red 11 black 2
+black 13
+0

@@ -1,0 +1,31 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.0
+height 5
+id 1887
+link "https://webpbn.com/play.cgi?id=1887"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "Tree"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+green 3
+green 1
+black 1
+black 1
+
+columns
+0
+green 1
+green 3 black 2
+green 1
+0

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jun  9, 2011"
+description "I'm at 30 state although I've only been through some of them. (Had a meal, used the rest stop on the interstate, waited for a bus at the downtown depot.) I enjoyed the opportunity to make a flag though."
+difficulty 1.75
+height 20
+id 14457
+link "https://webpbn.com/play.cgi?id=14457"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "How many...answer"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 2
+black 1 black 1 blue 3
+black 1 blue 2 blue 5 red 4
+black 1 blue 1 blue 1 blue 1 blue 2 red 4
+black 1 blue 2 blue 1 blue 1 blue 1 red 2 red 4
+black 1 blue 1 blue 1 blue 1 blue 2 red 4
+black 1 blue 2 blue 1 blue 1 blue 1 red 6
+black 1 blue 1 blue 1 blue 1 blue 2 red 3
+black 1 blue 2 blue 1 blue 1 blue 1 red 7
+black 1 blue 6 red 1 red 2
+black 1 red 1 red 7
+black 1 red 7 red 4
+black 1 red 7
+black 1 red 5 red 6
+black 1 red 7
+black 1 red 3 red 7
+black 1 black 1 red 7 red 2
+black 2 red 7
+black 1 red 4
+
+columns
+black 20
+black 1 black 1
+black 1 blue 7 red 2 red 1 red 1 black 1
+blue 2 blue 1 blue 1 blue 1 red 1 red 1 red 1
+blue 1 blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 2
+blue 2 blue 1 blue 1 blue 2 red 1 red 1 red 1
+blue 2 blue 1 blue 1 blue 1 red 1 red 2 red 1
+blue 1 blue 1 blue 1 blue 2 red 1 red 1 red 1
+blue 2 blue 1 blue 1 blue 1 red 2 red 1 red 1
+blue 8 red 1 red 1 red 1
+red 1 red 1 red 1 red 2 red 1 red 1 red 2
+red 1 red 2 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 2 red 1 red 1 red 2 red 1
+red 2 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 2 red 1 red 1 red 2 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 2 red 1 red 1 red 2 red 1 red 1 red 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 2 red 1 red 1 red 2 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1

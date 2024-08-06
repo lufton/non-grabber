@@ -1,0 +1,83 @@
+by "robert svanberg (tango)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by robert svanberg"
+date "Nov 27, 2016"
+description "Here in Australia Christmas falls in summer. Despite the lack of snow, we have adopted many of the northern hemisphere Christmas traditions - roast turkey, hot Christmas pudding, carols, tinsel. Like our northern friends, lots of people display Christmas lights, including many appearances of Santa and his sleigh. But, drive around town, look up on the roofs, and you'll see there are plenty of people who make it a little more Australian - kangaroos instead of reindeers pulling the sleigh."
+difficulty 1.75
+height 30
+id 29152
+link "https://webpbn.com/play.cgi?id=29152"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Coming to a roof near me"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 30
+blue 13 blue 16
+blue 6 black 1 blue 23
+blue 6 black 2 blue 3 blue 3 blue 14
+blue 6 black 2 blue 11 blue 7 red 1 blue 2
+blue 4 black 4 blue 13 blue 2 green 3 blue 3
+blue 3 black 2 black 2 blue 5 blue 9 green 3 blue 4
+red 1 black 8 blue 13 green 3 blue 5
+black 10 blue 12 green 5 blue 3
+blue 1 black 9 red 1 blue 12 green 7
+blue 5 green 1 red 1 green 1 red 1 green 1 red 1 green 1 blue 12 green 6
+blue 5 black 5 green 1 red 1 black 2 blue 11 red 1 green 4
+blue 6 black 5 green 1 red 1 black 3 blue 8 red 1 green 5
+blue 6 black 6 green 1 red 1 black 4 blue 5 red 1 green 1 blue 2 green 3
+blue 5 black 8 green 1 red 1 black 5 blue 2 red 1 green 1 blue 4 green 2
+blue 4 black 10 green 1 red 1 black 5 red 1 green 1 blue 6 green 1
+blue 3 black 12 green 1 red 1 black 1 red 1 black 1 red 1 green 1 blue 8
+blue 2 black 2 blue 1 black 12 green 4 black 1 blue 8
+blue 2 black 2 blue 2 black 13 red 1 black 2 blue 8
+blue 2 black 2 blue 2 black 3 black 13 blue 7
+blue 2 black 1 blue 5 red 1 black 14 blue 2 red 5
+blue 9 black 11 blue 1 black 3 blue 1 red 2 red 2
+blue 13 black 6 blue 3 black 2 blue 1 red 1 red 1
+blue 14 black 4 blue 4 black 2 blue 1 red 1 red 1
+blue 15 black 2 blue 5 black 2 blue 1 red 2 red 1
+red 15 black 2 red 5 black 2 red 2 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 red 1 red 1 black 2 red 1 black 2
+red 1 red 1 red 1 red 1 red 1 red 1 black 3 red 1 red 1 black 6
+red 1 red 1 red 1 black 7 red 1 red 1 black 4 red 1
+red 1 red 1 red 1 red 1 black 8 red 1 red 1 red 1 red 1 red 1 red 1
+
+columns
+blue 7 red 1 black 1 blue 16 red 2 red 1
+blue 7 black 3 blue 15 red 1 red 1 red 1
+blue 7 black 3 blue 7 black 4 blue 4 red 2
+blue 6 black 4 blue 6 black 4 blue 5 red 1 red 1 red 1
+blue 5 black 5 blue 5 black 2 blue 8 red 2 red 1
+blue 5 black 1 black 3 green 1 black 1 blue 2 black 4 blue 7 red 1 red 1 red 1
+blue 2 black 8 red 1 black 9 blue 5 red 2
+blue 3 black 7 green 1 black 9 blue 5 red 1 red 1 red 1
+blue 7 black 3 red 1 black 9 red 1 blue 4 red 2 red 1
+blue 8 black 2 green 1 black 8 black 2 blue 3 red 1 red 1 black 1
+blue 9 red 2 green 1 black 10 blue 3 red 2 black 2
+blue 3 blue 6 green 1 red 1 green 1 black 9 blue 3 red 1 black 2
+blue 11 black 1 red 1 green 1 black 8 blue 3 red 2 black 2
+blue 1 blue 4 blue 4 black 2 red 1 green 1 black 8 blue 2 red 1 red 1 black 2
+blue 12 black 2 red 1 green 1 black 8 blue 1 red 1 black 3
+blue 3 blue 8 black 3 red 1 green 1 black 13
+blue 13 black 3 red 1 black 13
+blue 13 black 4 green 1 black 6 blue 1 red 1 red 1
+blue 14 black 2 red 1 green 1 black 5 blue 2 red 1 red 1 red 1
+blue 4 blue 9 black 3 green 1 red 1 black 3 blue 3 red 2
+blue 15 black 1 red 1 green 1 black 3 blue 4 red 1 red 1 red 1
+blue 5 blue 9 red 1 green 1 black 5 blue 3 red 2 red 1
+blue 7 green 2 blue 5 red 1 green 1 blue 3 black 8 red 1
+blue 6 green 4 blue 3 red 1 green 1 blue 6 black 7
+blue 5 green 6 blue 1 red 1 green 1 blue 11 red 1 black 2 red 1
+blue 5 green 2 blue 1 green 3 red 1 green 1 blue 7 red 6 black 2
+blue 5 green 1 blue 2 green 5 blue 7 red 2 red 1 red 1 black 2
+blue 4 red 1 blue 4 green 5 blue 6 red 1 red 1 black 2 red 1
+blue 9 green 6 blue 5 red 2 red 1 black 2 red 1
+blue 9 green 7 blue 4 red 4 red 1 black 1 red 1

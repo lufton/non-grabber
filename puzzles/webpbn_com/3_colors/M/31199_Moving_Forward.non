@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "May 15, 2018"
+description "The arrow within the FedEx logo."
+difficulty 1.25
+height 15
+id 31199
+link "https://webpbn.com/play.cgi?id=31199"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Moving Forward"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 black 8
+blue 3 black 8
+blue 3 black 8
+blue 3 black 3
+blue 3 black 3
+blue 3 black 3
+blue 1 blue 3 black 11
+blue 5 black 8 black 3
+blue 4 black 8 black 3 black 1
+blue 3 black 3 black 4
+blue 3 black 3 black 3
+blue 3 black 3 black 4
+blue 4 black 8 black 3 black 1
+blue 5 black 8 black 3
+blue 1 blue 3 black 11
+
+columns
+blue 2 blue 2
+blue 2 blue 2
+blue 15
+blue 15
+blue 15
+black 15
+black 15
+black 15
+black 3 black 3 black 3
+black 3 black 3 black 3
+black 3 black 3 black 3
+black 3 black 3 black 3
+black 3 black 3 black 3
+black 1 black 1
+black 2 black 2
+black 3 black 3
+black 3 black 3
+black 5
+black 3
+black 5

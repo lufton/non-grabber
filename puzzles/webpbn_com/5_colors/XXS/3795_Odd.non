@@ -1,0 +1,32 @@
+by "Rachel (Lil' Freer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Rachel"
+date "Oct 15, 2008"
+description "green in the corners two blacks in the centre blue and red below and on top."
+difficulty 1.0
+height 5
+id 3795
+link "https://webpbn.com/play.cgi?id=3795"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.25
+title "Odd"
+width 4
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1
+blue 1 red 1
+black 2
+red 1 blue 1
+green 1 green 1
+
+columns
+green 1 green 1
+blue 1 black 1 red 1
+red 1 black 1 blue 1
+green 1 green 1

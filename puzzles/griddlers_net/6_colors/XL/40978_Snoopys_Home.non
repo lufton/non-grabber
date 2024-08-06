@@ -1,0 +1,103 @@
+by "talmc"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/27/06"
+height 30
+id 40978
+link "https://www.griddlers.net/nonogram/-/g/40978"
+medium_time "0:08:05"
+points 8401
+popularity 52.68
+title "Snoopy's Home"
+width 50
+
+color a 33ffff
+color b 000000
+color c 660000
+color d ff0000
+color e 00d700
+color g ffffff
+
+rows
+g 13
+g 15
+g 16
+g 16
+b 18 g 16
+b 2 d 16 b 2 g 15
+b 22 g 14
+b 1 d 21 b 2 g 12
+b 26 g 6
+b 2 d 24 b 2
+b 28
+b 1 d 18 b 1
+b 1 d 18 b 1
+b 20
+b 1 d 18 b 1
+b 1 d 18 b 1
+b 20
+b 1 d 18 b 1
+b 1 d 18 b 1
+b 20
+b 1 d 18 b 1
+b 1 d 18 b 1
+b 20
+b 1 d 18 b 1
+e 3 b 1 d 2 e 2 d 5 e 1 d 8 b 1
+e 1 b 2 e 3 b 4 e 2 b 9 e 1
+e 3 b 1 e 2 d 6 e 2 d 5 e 2 d 1 b 1 e 2
+c 5 e 3 b 1 e 1 d 7 e 2 d 4 e 2 d 2 b 1 e 3 c 19
+c 9 e 1 c 12 e 2 c 26
+c 50
+
+columns
+c 3
+c 3
+c 3
+c 3
+b 2 c 3
+b 3 e 1 e 2 c 2
+b 2 d 1 b 1 e 1 e 2 c 2
+b 1 d 1 b 1 d 1 b 1 e 4 c 2
+b 2 d 1 b 1 d 1 b 18 c 2
+b 3 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 e 3 c 1
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 e 2 d 1 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 1 e 2 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 1 e 2 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 e 3 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 1 e 4 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 e 1 c 1
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 1 e 2 c 1
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 e 2 c 2
+b 1 d 1 b 1 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 e 1 d 1 c 2
+b 3 d 1 b 1 d 1 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 c 2
+b 2 d 1 b 1 d 1 b 18 c 2
+b 3 d 1 b 1 e 3 c 2
+b 2 d 1 b 1 e 2 c 2
+b 3 e 1 c 2
+b 2 c 3
+c 3
+g 5 c 3
+g 6 c 3
+g 7 c 3
+g 8 c 3
+g 8 c 3
+g 8 c 3
+g 8 c 3
+g 8 c 3
+g 9 c 3
+g 9 c 3
+g 9 c 3
+g 9 c 3
+g 9 c 3
+g 8 c 3
+g 7 c 3
+g 5 c 3
+c 3

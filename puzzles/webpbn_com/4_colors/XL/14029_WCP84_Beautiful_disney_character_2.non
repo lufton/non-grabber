@@ -1,0 +1,102 @@
+by "bartek2241 (bartek2241)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by bartek2241"
+date "May 24, 2011"
+description "Quasimodo is ugly, but he has a beautiful soul."
+difficulty 2.0
+height 40
+id 14029
+link "https://webpbn.com/play.cgi?id=14029"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "WCP#84 Beautiful disney character 2"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 4 red 7 red 6
+red 2 black 2 red 2 red 12 red 13
+red 2 black 4 red 15 black 1 red 13
+red 1 black 4 red 17 black 1 red 14
+red 1 black 2 red 20 black 1 red 4 black 4 red 5
+black 1 red 17 black 2 red 6 black 2 red 3 black 2 red 6
+red 17 black 2 red 6 black 2 red 5 black 3 red 4
+red 16 black 1 red 8 black 1 red 8 black 2 red 3
+red 12 black 5 red 1 black 3 red 4 black 5 red 5 black 1 red 3
+red 10 black 6 red 2 black 4 red 2 black 14 red 2
+red 9 black 1 red 5 black 12 red 1 black 11 red 1
+red 8 black 1 red 2 black 2 red 2 black 12 red 3 black 9 red 1
+red 2 black 1 red 5 black 1 red 1 black 4 red 2 black 3 red 3 black 1 red 1 black 3 red 3 black 9 red 1
+red 2 black 1 red 5 black 1 red 5 black 7 red 3 black 4 red 6 black 5 red 1
+red 2 black 1 red 7 black 1 blue 1 black 1 red 1 black 4 red 7 black 5 red 6 black 3 red 1
+red 2 black 1 red 5 black 2 blue 3 red 2 black 2 red 2 black 5 red 2 black 1 red 2 black 6 red 1 black 3 red 1
+red 2 black 1 red 5 black 1 blue 2 black 1 blue 2 red 1 black 1 red 2 black 7 red 1 black 2 red 12
+red 2 black 1 red 2 black 1 red 2 black 2 blue 3 red 2 black 1 red 1 black 8 red 1 black 2 red 5 blue 1 black 1 red 2 black 2 red 1
+red 2 black 1 red 2 black 1 red 1 black 1 red 6 black 1 red 2 black 8 red 2 black 1 red 2 black 1 blue 1 red 1 blue 1 black 1 red 1 black 2 red 1
+red 3 black 1 red 1 black 1 red 1 black 8 red 1 black 10 red 2 black 1 red 7 black 1 red 2
+red 3 black 3 red 1 black 1 red 1 black 2 red 1 black 2 red 2 black 11 red 2 black 7 red 3
+red 4 black 4 red 4 black 2 red 2 black 1 red 3 black 1 red 3 black 2 red 1 black 1 red 2 black 8 red 1
+red 5 black 10 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 2 black 2 red 7 black 1 red 2
+red 5 black 21 red 1 black 9 red 2
+red 6 black 20 red 1 black 9 red 1
+red 6 black 8 red 3 black 8 red 2 black 7 red 3
+red 4 black 1 red 1 black 9 red 11 black 7 red 2 black 1 red 1
+black 1 red 2 black 2 red 1 black 9 red 4 black 3 red 1 black 1 red 2 black 6 red 2 black 2 red 1
+black 1 red 1 black 13 red 4 red 3 black 6 red 2 black 3 red 1
+black 1 red 1 black 15 red 2 red 1 black 7 red 1 black 4 red 1
+black 1 red 1 black 16 red 7 black 5 red 2 black 4 red 1
+black 1 red 1 black 12 red 1 black 14 red 2 black 5 red 1
+black 1 red 2 black 11 red 2 black 9 red 1 black 3 red 1 black 5 red 2
+black 2 red 2 black 11 red 2 black 8 red 1 black 2 red 2 black 5 red 1
+black 3 red 2 black 11 red 3 black 5 red 2 black 2 red 1 black 6 red 1
+black 4 red 1 black 8 red 1 black 4 red 7 black 2 red 2 black 5 red 2
+black 4 red 2 black 7 red 4 black 10 red 1 black 5 red 2
+black 5 red 2 black 9 red 2 black 8 red 2 black 4 red 2
+black 6 red 4 black 7 red 4 black 5 red 1 black 4 red 2
+black 9 red 2 black 14 red 2 black 3 red 2
+
+columns
+red 3 black 1 red 21 black 13
+red 2 black 2 red 28 black 7
+red 2 black 3 red 7 black 7 red 9 black 4 red 2 black 6
+red 1 black 3 red 15 black 2 red 6 black 6 red 2 black 5
+red 1 black 3 red 16 black 2 red 4 black 8 red 3 black 3
+red 2 black 1 red 14 black 7 red 4 black 8 red 2 black 2
+red 20 black 16 red 2 black 1
+red 16 black 20 red 1 black 1
+red 10 black 3 red 1 black 3 red 1 black 1 red 2 black 16 red 1 black 1
+red 9 black 1 red 4 black 1 blue 1 black 1 red 1 black 2 red 1 black 16 red 2
+red 9 black 1 red 2 black 1 red 1 black 1 blue 3 red 1 black 2 red 1 black 17 red 1
+red 9 black 1 red 1 black 2 red 1 blue 2 black 1 blue 1 red 1 black 1 red 2 black 18
+red 8 black 2 red 1 black 2 red 1 black 1 blue 3 red 1 black 21
+red 8 black 2 red 2 black 1 red 3 blue 1 red 2 black 16 red 2 black 3
+red 8 black 2 red 3 black 2 red 3 black 2 red 2 black 3 red 1 black 5 red 2 black 3 red 1 black 3
+red 8 black 4 red 1 black 5 red 5 black 2 red 4 black 3 red 2 black 2 red 1 black 3
+red 7 black 2 red 1 black 6 red 3 black 6 red 4 black 4 red 2 black 1 red 2 black 2
+red 5 black 1 red 3 black 5 red 2 black 4 red 2 black 3 red 4 black 4 red 1 black 2 red 2 black 1
+red 4 black 2 red 1 black 6 red 2 black 5 red 1 black 4 red 5 black 3 red 2 black 2 red 1 black 1
+red 4 black 1 red 2 black 4 red 1 black 1 red 1 black 6 red 2 black 3 red 1 black 1 red 1 black 4 red 1 black 2 red 1 black 1
+red 6 black 4 red 1 black 1 red 1 black 11 red 1 black 1 red 1 black 4 red 1 black 2 red 1 black 1
+red 1 black 1 red 6 black 3 red 3 black 6 red 2 black 3 red 1 black 1 red 1 black 4 red 1 black 4
+red 2 black 1 red 6 black 3 red 2 black 6 red 1 black 4 red 3 red 1 black 4 red 1 black 4
+red 3 black 1 red 5 black 2 red 3 black 6 red 2 black 3 red 1 black 1 red 3 black 4 red 1 black 4
+red 8 black 5 red 2 black 10 red 3 black 1 red 1 black 3 red 2 black 4
+red 6 black 9 red 4 black 3 red 1 black 2 red 3 black 4 red 3 black 4 red 1
+red 5 black 2 red 1 black 10 red 2 black 1 red 5 black 11 red 3
+red 5 black 1 red 2 black 2 red 3 black 2 red 1 black 3 red 2 black 14 red 3 black 2
+red 4 black 1 red 3 black 3 red 3 black 1 red 4 black 1 red 2 black 11 red 3 black 4
+red 4 black 1 red 3 black 3 red 3 black 2 red 4 black 1 red 2 black 8 red 3 black 6
+red 4 black 1 red 4 black 4 red 2 black 1 red 2 black 1 red 1 black 2 red 1 black 7 red 2 black 7 red 1
+red 3 black 2 red 3 black 4 red 2 black 1 red 2 blue 1 red 1 black 2 red 1 black 5 red 3 black 7 red 2
+red 4 black 2 red 2 black 4 red 2 black 1 red 4 black 2 red 1 black 4 red 2 black 8 red 2
+red 5 black 1 red 2 black 4 red 2 black 1 red 1 blue 2 red 1 black 2 red 1 black 3 red 2 black 8 red 2
+red 4 black 2 red 1 black 5 red 1 black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 2 black 8 red 2
+red 4 black 7 red 6 black 2 red 1 black 2 red 1 black 6 red 4
+red 6 black 7 red 2 black 2 red 1 black 2 red 10
+red 4 black 7 red 1 black 2 red 2 black 1 red 2
+red 5 black 6 red 1 black 1 red 5
+red 9

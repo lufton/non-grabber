@@ -1,0 +1,37 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Apr 10, 2017"
+description "Tiny sea turtle"
+difficulty 1.25
+height 8
+id 29651
+link "https://webpbn.com/play.cgi?id=29651"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Little swimmer"
+width 8
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4 black 2
+black 1 black 2 black 2
+black 1 blue 3
+black 1 blue 1 black 1 blue 2 black 2
+blue 1 black 1 blue 1 black 1 blue 1 black 2
+black 1 blue 2 black 1 blue 1 black 1 black 1
+blue 3 black 1 black 1
+black 1 black 1
+
+columns
+black 1 black 1
+black 1 black 1 blue 3
+black 1 black 1 blue 1 black 1 blue 2 black 1
+black 2 blue 1 black 1 blue 1 black 1 blue 1
+black 2 blue 2 black 1 blue 1 black 1
+blue 3 black 1
+black 2 black 2 black 1
+black 2 black 4

@@ -1,0 +1,103 @@
+by "Liz P (Lizteach)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Liz P"
+date "Aug 15, 2010"
+description "The title of this puzzle is the last line of the children's classic book The Little Red Lighthouse and the Great Gray Bridge, which tells a tale about the red lighthouse under the George Washington Bridge before and after the bridge was built. It's still there, but it's more of a museum than a working lighthouse these days."
+difficulty 2.25
+height 40
+id 9974
+link "https://webpbn.com/play.cgi?id=9974"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WCP #65 "If you don't believe it, go see for yourself!""
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 5 black 4 black 4 black 5
+black 14 black 2 black 4 black 4 black 4 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 5 black 4 black 4 black 5 black 1
+black 1 black 1 black 1 black 1 black 1 black 2 black 2 black 4 black 4 black 7 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 5 black 4 black 4 black 3 black 2
+black 1 black 1 black 1 black 1 black 2 black 2 black 4 black 4 black 5 black 2
+black 1 black 1 black 1 black 1 black 1 black 5 black 4 black 7 black 2
+black 1 black 1 black 1 black 2 black 2 black 4 black 4 black 3 black 2
+black 1 black 1 black 1 black 1 black 5 black 4 black 5 black 2
+black 1 black 1 black 2 black 2 black 4 black 7 black 2
+black 1 black 1 black 1 black 5 black 4 black 3 black 2
+black 1 black 2 black 2 black 4 black 5 black 2
+black 1 black 1 black 5 black 7 black 2 black 2
+black 2 black 2 black 4 black 3 black 2 black 4
+black 1 black 5 black 5 black 2 black 6
+black 2 black 7 black 2 black 1 black 1
+black 5 black 3 black 2 black 1 black 1
+black 1 black 5 black 2 black 8
+black 6 black 2 black 1 black 1 black 1 black 1
+black 3 black 2 black 10
+black 2 black 2 red 8
+black 2 red 8
+black 1 red 8
+red 8
+red 8
+red 8
+red 8
+red 8
+black 13 black 10 red 8 black 3
+green 13 black 4 green 9 black 3 red 8 green 3
+green 29 red 8 green 3
+green 29 red 8 green 3
+green 29 red 8 green 1 black 2
+black 29 red 8 black 1 green 2
+blue 29 red 8 green 3
+blue 29 red 2 black 3 red 3 green 3
+blue 29 red 2 black 1 red 1 black 1 red 3 green 3
+blue 27 black 3 red 1 black 1 red 1 black 1 red 2 black 3 green 1
+black 28 black 6 black 1 green 1
+green 27 black 1 black 1 green 1
+
+columns
+black 14 black 3 black 1 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 1 black 2 black 4 black 1 green 4 black 1 blue 4 black 1 green 1
+black 12 black 3 black 2 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 1 black 2 black 5 black 1 green 4 black 1 blue 4 black 1 green 1
+black 10 black 3 black 3 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 1 black 2 black 2 black 3 black 1 green 4 black 1 blue 4 black 1 green 1
+black 8 black 3 black 2 black 1 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 1 black 2 black 2 black 4 black 1 green 4 black 1 blue 4 black 1 green 1
+black 6 black 3 black 2 black 2 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 1 black 2 black 2 black 5 black 1 green 4 black 1 blue 4 black 1 green 1
+black 4 black 3 black 2 black 3 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 1 black 2 black 2 black 2 black 3 black 1 green 4 black 1 blue 4 black 1 green 1
+black 2 black 3 black 2 black 2 black 1 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 2 black 2 black 2 black 4 black 1 green 3 black 1 blue 4 black 1 green 1
+black 1 black 3 black 2 black 2 black 2 black 1 black 1 green 3 black 1 blue 4 black 1 green 1
+black 2 black 2 black 2 black 5 black 1 green 3 black 1 blue 4 black 1 green 1
+black 3 black 2 black 2 black 3 black 1 black 1 green 3 black 1 blue 4 black 1 green 1
+black 1 black 2 black 2 black 2 black 3 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 2 black 2 black 2 black 1 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 2 black 2 black 2 black 4 black 1 green 4 black 1 blue 4 black 1 green 1
+black 2 black 2 black 2 black 2 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 2 black 2 black 5 black 1 green 4 black 1 blue 4 black 1 green 1
+black 2 black 2 black 3 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 2 black 2 black 3 black 1 green 4 black 1 blue 4 black 1 green 1
+black 1 black 2 black 2 black 1 black 1 black 1 green 4 black 1 blue 4 black 1 green 1
+black 2 black 2 black 4 black 1 green 4 black 1 blue 4 black 1 green 1
+black 2 black 2 black 2 black 1 black 2 green 3 black 1 blue 4 black 1 green 1
+black 2 black 5 black 1 green 3 black 1 blue 3 black 3
+black 2 black 3 black 1 black 2 black 1 green 3 black 1 blue 3 black 1
+black 1 black 2 black 3 black 1 black 1 red 17 black 1
+black 1 black 2 black 1 black 1 black 1 black 1 black 1 red 18 black 1
+black 2 black 4 black 7 red 15 black 4
+black 2 black 2 black 1 black 3 black 1 black 1 red 15 black 1 red 2 black 1
+black 5 black 3 black 1 black 1 red 15 black 4
+black 3 black 1 black 7 red 18 black 1
+black 1 black 3 black 1 black 1 black 1 red 18 black 1
+black 1 black 1 black 1 black 1 black 1 red 17 black 1
+black 4 black 2 black 1 green 4 black 1 green 3 black 1
+black 2 black 1 black 1 green 3 black 1 green 4 black 3
+black 3 black 1 green 3 black 1 green 7

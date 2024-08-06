@@ -1,0 +1,98 @@
+by "carm53"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/11/11"
+height 45
+id 109059
+link "https://www.griddlers.net/nonogram/-/g/109059"
+medium_time "0:37:47"
+points 30246
+popularity 68.89
+title "Rappeling"
+width 30
+
+color a 000000
+color b ffffff
+color c c98c00
+color d d2b13e
+color e ccffff
+color f 8f7662
+
+rows
+e 3 f 1
+e 2 b 1 e 1 f 1 e 1 f 1 e 1 f 1
+e 3 b 2 e 1 f 1 e 1 f 1 e 1 f 1 e 1 f 1
+e 8 b 3 e 1 f 1 e 1 f 1 e 1 f 1 e 1 f 1 e 6
+e 2 b 7 e 1 b 1 e 1 f 1 e 1 f 1 e 1 f 1 e 1 f 1 e 3 b 4
+e 1 b 2 e 6 b 1 e 1 f 1 e 1 f 3 e 1 f 1 e 2 b 2 e 2 b 1
+e 1 b 2 e 6 b 1 e 1 f 1 e 1 e 1 f 1 e 1 b 2 e 3 b 1
+e 1 b 3 e 3 b 3 e 1 f 1 e 1 e 1 e 1 f 1 e 2 b 2 e 3
+e 1 b 3 e 3 b 3 e 1 f 1 e 1 e 1 e 2 b 2 e 3
+e 1 b 3 e 3 b 2 e 1 e 1 f 1 e 1 f 1 f 1 e 2 b 1 e 3
+e 1 b 2 e 4 b 2 e 1 f 1 f 1 e 1 f 1 e 1 f 1 e 1 b 1 e 3
+e 1 b 2 e 2 b 3 e 1 e 1 f 1 f 1 e 1 e 5
+e 2 b 1 e 3 b 2 e 1 f 1 e 1 e 1 e 1 b 2 e 1
+e 2 b 1 e 2 b 3 e 1 f 1 e 1 e 1 e 1 b 2 e 1
+e 2 b 1 e 2 b 3 e 1 f 1 e 1 e 1 e 1 b 2 e 1
+e 5 b 3 e 1 f 1 e 1 f 1 f 1 e 1 e 1 b 2 e 1
+e 7 b 1 e 1 f 1 e 1 f 1 f 1 e 1 e 1 b 1 e 2
+b 1 e 9 f 1 e 1 e 1 b 2 e 2
+e 4 b 3 e 3 b 1 e 3
+d 3 e 3 b 4 e 1 e 1 b 1 e 3
+c 2 d 3 e 2 b 3 e 1 e 1 b 3 e 2 d 1 c 1
+c 4 d 2 e 3 b 2 e 1 e 1 b 3 e 2 d 1 c 1
+c 5 d 3 e 2 b 1 e 1 e 1 b 3 e 2 d 2 c 1
+c 1 d 1 c 5 d 2 e 3 e 5 d 3 c 1
+c 1 d 2 c 5 d 4 f 1 f 1 e 3 d 5 c 1
+c 2 d 2 c 8 f 1 f 1 d 8 c 1
+c 2 d 3 c 7 f 8 d 8 c 1
+c 2 d 2 c 8 f 1 f 1 d 8 c 1
+c 1 d 1 c 1 d 2 c 6 f 1 f 1 d 8 c 1
+c 1 d 2 c 1 d 2 c 4 f 2 f 2 d 7 c 1
+d 6 c 2 f 1 f 2 c 2 d 5 c 1
+c 2 d 5 c 1 f 1 f 1 c 3 d 4 c 1
+c 3 d 4 c 1 d 1 f 1 c 1 f 1 d 1 f 1 c 7
+c 3 d 3 c 1 d 1 c 1 f 1 c 7
+c 4 d 2 c 1 d 1 c 1 c 1 f 1 c 7
+c 4 d 2 c 1 d 1 c 1 f 1 c 5 d 1 c 1
+c 6 d 1 f 1 c 1 f 1 c 1 f 1 c 5 d 1 c 1
+c 4 f 1 d 1 f 1 c 1 f 1 c 1 f 1 c 4 d 1 c 1
+c 1 f 1 d 1 f 1 c 1 f 1 c 1 f 1 d 1 c 3 d 1 c 1
+c 5 f 1 c 1 f 1 c 1 f 1 c 1 f 1 c 7 d 2 c 1
+c 2 d 2 f 1 c 1 f 1 c 1 f 1 c 1 f 1 c 6 d 2 c 1
+c 1 d 1 f 1 c 1 f 1 d 1 f 1 c 1 f 1 c 2 d 5 c 2
+c 1 f 1 c 1 f 1 d 1 f 1 c 1 f 1 c 1 d 5 c 2
+c 1 f 1 d 1 f 1 d 1 f 1 c 1 f 1 d 3 c 4
+c 1 c 1 f 1 d 1 f 1 c 1 f 1 d 1 c 5
+
+columns
+b 1 e 1 d 1 c 7
+e 2 e 7 d 1 c 3 d 2 c 5
+e 16 d 2 c 3 d 3 c 1 d 3 c 2
+e 1 b 11 e 5 d 1 c 4 d 3 c 1 d 2 c 5
+e 1 b 8 e 6 b 1 e 1 d 2 c 4 d 3 c 1 d 2 c 6
+e 1 b 1 e 2 b 3 e 8 b 1 e 2 d 2 c 5 d 5 c 5
+e 1 b 1 e 8 b 3 e 2 b 2 e 2 d 1 c 6 d 5 c 5
+e 2 b 1 e 6 b 5 e 3 b 2 e 1 d 2 c 6 d 6 c 2 c 1
+e 2 b 1 e 6 b 6 e 2 b 2 e 2 d 2 c 6 d 5 c 1 c 2
+e 2 b 2 e 2 b 5 e 7 b 3 e 2 d 1 c 12 c 2
+e 2 b 2 e 3 b 4 e 1 e 2 b 2 e 1 d 1 c 5 c 1 d 1 c 1
+e 1 b 8 e 2 e 3 d 1 c 4 c 1 d 2 c 3
+e 9 f 3 c 1 f 7
+f 9 f 1 f 6 f 4 d 7 c 4 d 1 c 1
+e 9 e 7 f 1 f 4 f 9
+f 5 f 3 f 2 f 1 c 1 c 1 c 5 d 4
+e 4 f 1 e 1 e 2 f 1 f 3 f 9
+f 5 f 2 f 1 f 2 d 1 c 12
+e 7 e 1 f 4 f 13
+f 6 f 3 f 2 f 3 d 1 c 4 d 2
+e 5 e 7 e 3 d 4 c 3 d 2 c 1
+e 3 b 1 e 2 e 1 b 1 e 2 d 5 c 2 c 2 d 3 c 1
+e 2 b 3 e 2 e 1 b 2 e 2 d 5 c 7 c 2 d 2 c 2
+e 1 b 2 e 1 b 2 e 3 e 1 b 3 e 1 d 7 c 7 c 2 d 2 c 2
+e 1 b 1 e 3 b 3 e 6 b 5 e 2 d 8 c 9 d 2 c 2
+e 1 b 1 e 7 b 6 e 2 b 1 e 2 d 9 c 8 d 2 c 2
+b 3 e 5 b 4 e 6 d 10 c 7 d 2 c 2
+e 13 d 11 c 3 d 5 c 2
+d 1 c 19
+c 1

@@ -1,0 +1,95 @@
+by "emma calder (flutterby)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by emma calder"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.25
+height 36
+id 26301
+link "https://webpbn.com/play.cgi?id=26301"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.5
+title "aquarium"
+width 36
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 36
+blue 36
+blue 7 red 3 blue 18 green 1 blue 7
+blue 8 red 4 blue 15 green 1 blue 8
+blue 8 black 2 red 4 blue 12 green 1 blue 9
+blue 9 black 3 red 5 blue 8 green 1 blue 10
+blue 2 green 1 blue 7 black 3 red 5 blue 5 green 1 blue 11
+blue 3 green 1 blue 7 black 4 red 3 blue 4 green 1 blue 11
+blue 4 green 1 blue 7 black 5 red 3 blue 2 green 2 blue 10
+blue 4 green 1 blue 8 black 4 red 5 blue 1 green 1 blue 10
+blue 5 green 1 blue 7 black 3 red 2 black 2 red 3 green 1 blue 10
+blue 5 green 1 blue 5 black 2 red 2 black 5 red 2 green 1 blue 9
+blue 5 green 2 blue 4 black 2 red 2 black 6 red 3 blue 9
+blue 6 green 1 red 3 blue 3 black 1 red 2 black 8 red 3 blue 8
+blue 5 red 3 black 1 red 2 blue 2 black 1 red 2 black 8 red 5 blue 6
+blue 4 red 2 black 2 red 1 black 2 red 1 blue 1 black 1 red 3 black 7 red 7 blue 5
+blue 1 red 1 black 1 blue 1 red 1 black 3 red 1 black 2 red 6 black 6 red 3 black 3 red 3 blue 4
+blue 2 red 1 black 1 blue 1 black 1 red 1 black 3 red 2 black 2 red 3 black 5 red 2 black 4 black 1 red 2 blue 2
+blue 2 red 2 black 1 black 4 red 1 blue 2 black 2 red 3 black 3 red 3 black 4 black 1 blue 2
+blue 3 red 3 black 2 red 2 blue 3 black 2 red 2 black 4 red 3 black 7 blue 3
+blue 4 red 5 blue 5 black 2 red 3 black 2 black 1 red 2 black 6 blue 4
+blue 5 green 2 blue 7 black 2 red 2 black 3 black 1 red 3 black 2 blue 5
+blue 5 green 1 blue 7 black 3 red 2 black 2 black 3 red 2 blue 6
+blue 4 green 2 blue 6 black 2 red 2 black 2 black 4 red 1 blue 7
+blue 4 green 1 blue 6 black 2 red 1 black 3 black 2 red 2 green 1 blue 7
+blue 3 green 2 blue 6 black 1 red 2 black 1 red 1 red 2 green 2 blue 7
+blue 3 green 2 blue 8 black 2 red 1 black 1 red 2 red 3 blue 1 green 1 blue 8
+blue 3 green 2 blue 8 black 2 red 1 red 6 blue 3 green 1 blue 8
+blue 4 green 2 blue 6 black 3 red 5 blue 4 green 2 blue 8
+blue 4 green 2 blue 5 black 3 red 5 blue 5 green 1 blue 9
+blue 5 green 1 blue 4 black 2 red 5 blue 6 green 2 blue 9
+blue 5 green 2 blue 3 black 2 red 3 blue 8 green 2 blue 10
+blue 5 green 2 blue 2 red 4 blue 10 green 2 blue 10
+blue 6 green 2 red 4 blue 12 green 2 blue 10
+blue 6 green 2 blue 16 green 2 blue 10
+blue 7 green 2 blue 14 green 2 blue 11
+
+columns
+blue 36
+blue 16 red 1 blue 19
+blue 6 green 1 blue 9 black 1 red 2 blue 17
+blue 7 green 1 blue 9 black 1 red 2 blue 5 green 3 blue 8
+blue 8 green 2 blue 5 red 2 blue 1 black 1 red 2 blue 2 green 7 blue 6
+blue 10 green 3 blue 1 red 2 black 2 red 2 green 3 blue 4 green 5 blue 3
+blue 12 green 2 red 1 black 2 black 2 red 1 green 1 blue 9 green 4 blue 1
+blue 2 red 1 blue 10 red 2 black 2 red 1 black 2 red 1 blue 12 green 3
+blue 2 red 2 black 1 blue 8 red 1 black 1 red 2 black 2 red 2 blue 12 red 1 blue 1 green 1
+blue 2 red 2 black 2 blue 7 red 2 black 4 red 1 blue 12 red 1 blue 2
+blue 3 red 2 black 1 blue 7 red 1 black 3 red 1 blue 11 red 2 blue 2
+blue 3 red 2 black 2 blue 3 blue 2 red 3 blue 6 blue 3 black 1 red 2 blue 2
+blue 4 red 2 black 1 blue 2 blue 3 red 2 blue 5 blue 2 black 2 red 1 blue 3
+blue 4 red 2 black 2 black 1 red 1 black 1 blue 2 black 2 red 2 blue 3
+blue 5 red 2 black 2 black 3 red 2 black 2 black 8 red 2 blue 4
+blue 5 red 2 black 6 red 5 black 7 red 1 black 4 red 2 blue 4
+blue 5 red 2 black 5 red 7 black 4 red 5 black 1 red 2 blue 5
+blue 6 red 2 black 3 red 2 black 4 red 7 black 3 red 3 blue 5
+blue 6 red 2 black 2 red 2 black 6 red 5 black 2 red 4 blue 5
+blue 7 red 4 black 9 red 1 black 4 red 5 blue 6
+blue 8 red 2 black 13 red 4 blue 6
+blue 8 red 2 black 12 red 2 blue 7
+blue 9 red 2 black 7 red 1 black 1 red 1 blue 8
+blue 9 red 2 black 5 red 4 black 4 red 2 blue 7 green 1
+blue 6 green 3 blue 1 red 3 black 2 red 7 black 3 red 1 blue 4 green 5
+blue 5 green 1 blue 2 green 3 red 6 black 2 red 3 black 3 red 2 blue 3 green 5 blue 1
+blue 4 green 1 blue 6 green 1 red 4 black 5 red 2 black 1 red 2 blue 2 green 3 blue 5
+blue 3 green 1 blue 9 red 3 black 6 red 1 red 1 green 4 blue 7
+blue 2 green 1 blue 11 red 2 black 6 red 1 green 2 blue 10
+blue 14 red 3 black 2 blue 13
+blue 15 red 2 black 1 black 2 blue 14
+blue 16 red 1 black 2 blue 15
+blue 17 red 1 black 2 blue 16
+blue 17 red 1 blue 17
+blue 36
+blue 36

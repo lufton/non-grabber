@@ -1,0 +1,57 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by ant"
+date "Nov 11, 2009"
+description "'Sword and Shield' in Latin.. gladius coming from the proto-germanic word for 'smooth', and scutum from the indo-european word for 'cover'"
+difficulty 1.75
+height 20
+id 7096
+link "https://webpbn.com/play.cgi?id=7096"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "gladius et scutum"
+width 20
+
+rows
+5,4,5
+3,4,3,2
+4,2,2
+1,2,2,1
+1,3,1
+1,2,1,1
+1,2,3,1
+1,2,3,1
+1,3,1
+2,3,2
+1,3,1
+1,3,1
+2,5
+2,3
+2,4
+1,1,3
+2,2,2
+2,2
+2,2
+4
+
+columns
+0
+9
+3,4
+3,1,2
+1,2,2,2
+1,4,3
+2,2,2
+1,2,1,2
+4,3,2
+3,3,1
+1,3,1
+2,3,2
+1,3,2
+2,3,2
+1,6
+1,3
+1,4
+3,4,3
+9,2
+0

@@ -1,0 +1,30 @@
+by "newt7"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/7/23"
+height 5
+id 264579
+link "https://www.griddlers.net/nonogram/-/g/264579"
+medium_time "0:00:10"
+points 14
+popularity 60.53
+title "1 Cube"
+width 5
+
+color a FF0000
+color e 0000ff
+color g ff00ff
+
+rows
+g 5
+g 1 g 1
+g 1 e 1 g 1
+g 1 g 1
+g 5
+
+columns
+g 5
+g 1 g 1
+g 1 e 1 g 1
+g 1 g 1
+g 5

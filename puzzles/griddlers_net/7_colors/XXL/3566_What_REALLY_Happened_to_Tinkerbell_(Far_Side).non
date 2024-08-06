@@ -1,0 +1,124 @@
+by "wiggles"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/19/03"
+height 50
+id 3566
+link "https://www.griddlers.net/nonogram/-/g/3566"
+medium_time "1:01:02"
+points 46542
+popularity 80.0
+title "What REALLY Happened to Tinkerbell (Far Side)"
+width 50
+
+color a 000000
+color b ffff00
+color c 808000
+color d 008000
+color e f5f5f5
+color f 00c700
+color g 0000ff
+
+rows
+b 3 b 2
+b 4 b 3
+b 5 b 3
+b 5 c 2 b 4
+b 6 c 4 c 3 b 5
+b 6 c 5 c 5 b 6
+b 7 c 6 c 6 b 6
+b 8 c 7 c 7 b 7
+b 9 c 7 c 6 b 8
+b 9 c 6 c 6 b 9
+b 10 c 5 c 5 b 9
+b 11 c 5 c 5 b 8
+b 11 c 5 c 3 b 8
+b 11 c 5 c 1 b 8
+b 11 c 4 b 8
+b 10 d 2 b 8
+b 8 d 1 b 7 c 2
+b 8 b 5 c 5
+b 7 e 3 e 3 b 5 c 4
+b 6 e 5 e 5 b 4 c 3
+d 1 b 5 e 6 e 6 b 4 d 1
+d 2 b 4 e 2 e 2 e 2 e 2 b 3 d 1
+d 1 b 3 e 2 e 2 f 1 e 2 e 2 b 3 d 2
+d 2 b 2 f 3 e 5 f 1 e 5 f 1 b 3 d 1
+d 1 f 5 e 3 f 3 e 4 f 2 b 1 d 1
+d 1 f 18 d 2
+d 2 f 18 d 1
+d 1 f 17 d 1
+d 1 f 3 f 8 f 3 d 1
+d 2 f 2 f 6 f 2 d 1
+d 2 f 2 f 2 d 1
+d 1 f 3 f 4 f 4 f 4 d 1
+d 1 f 3 f 13 f 4 d 1
+d 2 f 3 f 15 f 5 d 1
+d 1 f 4 f 15 f 3 d 1
+d 1 f 4 f 3 f 13 f 3 d 1
+d 1 f 4 f 3 f 9 f 3 f 3 d 1
+d 1 f 4 f 3 f 9 f 3 f 3 d 1
+d 1 f 4 f 3 f 9 f 3 f 2 d 1
+d 1 f 3 f 2 f 9 f 2 f 1 d 1
+d 1 f 3 f 2 f 9 f 2 f 2 d 1
+g 3 d 1 g 12 f 1 f 1 f 8 f 2 f 1 g 12 d 1 g 2
+d 1 d 4 f 2 f 2 f 7 f 2 f 1 d 3 d 1
+d 1 g 5 d 3 f 4 f 2 f 6 f 3 f 2 d 3 g 4 d 1
+g 1 d 1 g 1 d 3 f 5 f 2 f 4 f 4 f 3 d 3 g 2 d 1
+g 1 g 4 d 2 f 5 f 3 f 5 f 5 d 2 g 1 g 4
+g 1 d 3 f 5 f 7 f 7 f 5 d 2 g 2
+g 5 d 3 f 3 f 1 f 2 f 2 f 1 f 2 f 2 f 4 d 2 g 5
+d 5 f 1 f 2 f 2 f 2 d 2
+d 8 d 4 d 6
+
+columns
+b 14 g 1
+b 15 g 1 g 4
+b 16 g 1 g 1
+b 15 d 12 g 1
+b 15 d 4 g 1 g 1 g 1
+b 14 d 2 g 1 g 1 g 1 g 1
+b 12 d 4 g 1 g 1 g 1
+b 12 d 4 g 1 g 1 g 1
+b 12 d 3 g 1 g 3
+b 10 d 2 g 1 d 4
+b 10 g 1 d 6
+b 8 g 1 d 7
+d 2 b 5 f 5 g 1 d 3 f 2 d 2
+c 3 d 1 b 5 f 8 g 1 d 2 f 3 d 2
+c 5 b 4 f 10 g 1 d 1 f 5 d 1
+c 7 b 2 f 3 f 10 g 1 d 1 f 5 d 1
+c 8 f 6 f 1 f 8 d 1
+c 7 f 7 f 6 f 3
+c 6 e 3 f 18 f 3
+c 5 e 5 f 4 f 17
+c 6 e 3 e 2 f 4 f 4 f 7
+c 6 e 3 e 2 f 5 f 10 f 4
+c 5 e 7 f 5 f 12 f 1
+c 3 e 5 f 6 f 13 f 2 d 1
+f 8 f 13 f 2 d 1
+e 5 f 6 f 13 d 1
+e 7 f 5 f 13 f 2 d 1
+e 3 e 2 f 4 f 13 f 1
+e 3 e 2 f 3 f 13 f 2 f 1
+e 6 f 17 f 5
+e 3 f 7 f 5 f 5
+b 1 f 5 f 14
+c 3 b 3 f 3 f 1 f 14
+c 5 b 4 f 3 f 4 f 2
+c 6 b 5 f 3 f 6
+c 8 b 5 f 10 g 1 d 1 f 5 d 1
+c 8 b 6 f 7 g 1 d 2 f 4 d 1
+c 8 b 6 f 5 g 1 d 3 f 3 d 1
+c 6 b 6 g 1 d 2 f 3 d 1
+c 3 b 6 g 1 d 2 f 1 d 1
+b 7 g 1 d 5
+b 8 c 1 g 1 d 3
+b 9 c 2 g 1 g 3
+b 9 c 4 g 1 g 2 g 2
+b 10 c 4 g 1 g 1 g 1
+b 10 c 3 d 3 g 1 g 1 g 1
+b 10 d 4 g 1 g 1 g 1 g 1
+b 11 d 17 g 1 g 1
+b 11 g 1 d 3 g 1
+b 10 g 1 g 1

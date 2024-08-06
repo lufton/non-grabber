@@ -1,0 +1,57 @@
+by "viilma"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/22/10"
+height 17
+id 94306
+link "https://www.griddlers.net/nonogram/-/g/94306"
+medium_time "0:05:56"
+points 3708
+popularity 74.92
+title "Warermelon"
+width 17
+
+color a ffff33
+color b 006600
+color c 99ff33
+color d ff6666
+color e ff0000
+color f 000000
+
+rows
+b 1
+d 1 c 1 b 1
+e 1 d 2 c 1
+e 1 d 2 c 1 b 1
+e 3 d 1 c 1 b 1
+f 1 e 3 d 1 c 1 b 1
+e 5 d 1 c 1 b 1
+e 2 f 1 e 3 d 1 c 1 b 1
+e 2 f 1 e 4 d 1 c 1 b 1
+e 2 f 1 e 4 d 2 c 1 b 1
+f 1 e 1 f 1 e 4 d 2 c 1 b 1
+e 7 d 2 c 2 b 1
+e 8 d 3 c 1 b 1
+d 4 e 4 d 3 c 1 b 2
+b 1 c 1 d 8 c 2 b 2
+b 1 c 8 b 2
+b 7
+
+columns
+b 1
+d 1 c 1 b 1
+e 1 d 2 c 1
+e 1 d 2 c 1 b 1
+e 2 d 2 c 1 b 1
+f 1 e 3 d 1 c 1 b 1
+e 5 d 1 c 1 b 1
+e 2 f 1 e 3 d 1 c 1 b 1
+e 2 f 1 e 4 d 1 c 1 b 1
+e 2 f 1 e 4 d 2 c 1 b 1
+f 1 e 1 f 1 e 4 d 2 c 1 b 1
+e 7 d 3 c 1 b 1
+e 8 d 3 c 1 b 1
+d 3 e 5 d 2 c 2 b 2
+b 1 c 1 d 8 c 2 b 2
+b 1 c 8 b 2
+b 7

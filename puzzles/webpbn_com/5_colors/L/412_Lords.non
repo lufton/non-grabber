@@ -1,0 +1,83 @@
+by "Leigh Cousins (pog)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Leigh Cousins"
+date "Apr 13, 2006"
+description "...as in Lord's Ground, the spiritual home of cricket, the headquarters of the MCC. Here in a very rough approximation of their colours along with a bat, a pad, a wicket, a helmet and some balls."
+difficulty 3.0
+height 30
+id 412
+link "https://webpbn.com/play.cgi?id=412"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Lord's"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 green 1 red 3 green 1 red 2 green 3 red 3 green 3 red 2
+black 5 red 1 green 2 red 1 green 2 red 1 green 1 red 3 green 1 red 1 green 1 red 3 green 1 red 1 black 2
+black 1 black 1 black 1 red 1 green 5 red 1 green 1 red 5 green 1 red 5 black 3
+black 1 black 1 black 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 3 green 1 red 1 green 1 red 3 green 1 red 1 black 3
+black 1 black 1 black 1 red 1 green 1 red 3 green 1 red 2 green 3 red 3 green 3 red 1 black 3
+black 1 black 1 black 1 red 17 black 3
+black 1 black 1 black 1 black 3
+black 1 black 1 black 1 red 3 black 5
+black 1 black 1 black 1 red 1 red 3 black 5 red 3
+black 1 black 1 black 1 red 2 red 2 black 6 red 1 red 3
+black 1 black 1 black 1 red 3 red 1 black 7 red 2 red 2
+black 1 black 1 black 1 red 3 black 7 red 3 red 1
+black 1 black 1 black 1 black 7 red 3
+black 1 black 1 black 1 black 7 black 3
+black 1 black 1 black 1 black 7 black 2 black 2
+black 7 black 7
+black 7 black 1 black 1 black 1 black 1
+green 5 black 5 black 7
+green 7 black 3 black 1 black 1 black 1 black 1
+green 9 black 1 black 2 black 1 black 1 black 2
+green 10 black 1 black 1 black 1 black 1 black 1
+green 13 black 2 black 1 black 1 black 1 black 1
+green 7 black 1 black 1 black 1 black 1 black 1
+black 3 green 4 black 2 black 1 black 1 black 1 black 1
+black 4 blue 2 black 1 green 4 red 3 black 1 black 1 black 1 black 1 black 1
+black 1 blue 2 black 1 blue 2 black 1 red 1 red 3 black 1 black 1 black 1 black 1
+black 4 blue 1 black 1 red 2 red 2 black 3 black 1 black 1 black 2
+black 1 blue 2 black 2 red 3 red 1 black 1 black 1 black 1 black 1 black 1
+black 2 red 3 black 2 black 1 black 3 black 1
+black 1 black 3 black 3
+
+columns
+black 13 green 1
+black 1 green 1 black 3
+black 1 green 1 black 1 blue 1 black 1 blue 1 black 1
+black 14 green 3 black 1 blue 1 black 1 blue 1 black 1
+black 1 green 4 black 4
+black 1 green 5 black 1 blue 2 black 1
+black 13 green 6 black 1 blue 2 black 1
+red 6 green 6 black 1 blue 1 black 1
+green 5 red 1 green 6 black 2
+red 1 green 2 red 3 red 3 green 8
+red 2 green 2 red 2 red 1 red 3 green 7
+red 1 green 2 red 3 red 2 red 2 black 1 green 6
+green 5 red 1 red 3 red 1 black 3 green 5
+red 6 red 3 black 5 red 3
+red 1 green 3 red 2 black 7 red 1 red 3
+green 1 red 3 green 1 red 1 black 7 red 2 red 2
+green 1 red 3 green 1 red 1 black 7 red 3 red 1
+green 1 red 3 green 1 red 1 black 7 red 3
+red 1 green 1 red 1 green 1 red 2 black 7
+red 6 black 7 black 3 black 2
+red 1 green 3 red 2 black 7 black 2 black 2 black 1 black 2
+green 1 red 3 green 1 red 1 black 6 black 1 black 1
+green 1 red 3 green 1 red 1 black 5 black 15
+green 1 red 3 green 1 red 1 black 5 black 2 black 1 black 1
+red 1 green 1 red 1 green 1 red 1 black 3 black 17
+red 4 black 3 red 3 black 1 black 1 black 1 black 1
+black 3 red 1 red 3 black 17
+black 3 red 2 red 2 black 2 black 1 black 1
+black 3 red 3 red 1 black 15
+black 2 red 3 black 1 black 1

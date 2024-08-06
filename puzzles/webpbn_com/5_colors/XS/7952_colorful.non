@@ -1,0 +1,43 @@
+by "desirae carpenter (pinkrider)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by desirae carpenter"
+date "Mar  2, 2010"
+description "it uses all the colors in order"
+difficulty 1.0
+height 10
+id 7952
+link "https://webpbn.com/play.cgi?id=7952"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "colorful"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 5 green 5
+red 5 green 5
+red 5 green 5
+red 5 green 5
+red 4 green 4
+black 4 blue 4
+black 5 blue 5
+black 5 blue 5
+black 5 blue 5
+black 5 blue 5
+
+columns
+red 5 black 5
+red 5 black 5
+red 5 black 5
+red 5 black 5
+red 4 black 4
+green 4 blue 4
+green 5 blue 5
+green 5 blue 5
+green 5 blue 5
+green 5 blue 5

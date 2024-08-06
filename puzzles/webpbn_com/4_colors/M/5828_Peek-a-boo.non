@@ -1,0 +1,57 @@
+by "Wendy (wen9988)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Wendy"
+date "May  9, 2009"
+description "Man on the other side of the wall"
+difficulty 1.75
+height 15
+id 5828
+link "https://webpbn.com/play.cgi?id=5828"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Peek-a-boo!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 3 black 3
+black 1 black 2 black 1
+black 1 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1
+black 1 black 1 black 1 black 10 black 1 black 1
+red 5 red 3 black 1 black 1 red 2 red 4
+red 5 red 3 black 1 black 1 red 2 red 4
+black 1 black 1
+red 3 red 6 black 2 red 5 red 2
+red 3 red 6 red 6 red 2
+0
+red 5 red 4 red 4 red 4
+red 5 red 4 red 4 red 4
+0
+red 1 red 5 red 5 red 4 red 1
+
+columns
+black 1 red 2 red 2 red 2 red 1
+black 1 red 2 red 2 red 2
+black 1 red 2 red 2 red 2 red 1
+black 1 red 2 red 2 red 1
+black 1 red 2 red 2 red 2 red 1
+red 2 red 1
+black 3 red 2 red 2 red 2 red 1
+black 1 black 1 red 2 red 2 red 2
+black 1 blue 1 black 1 red 2 red 2 red 2 red 1
+black 1 black 4 red 2 red 2 red 1
+black 3 black 1 red 1
+black 3 black 1 red 1 red 2 red 1
+black 1 black 4 red 2 red 2 red 1
+black 1 blue 1 black 1 red 2 red 2 red 2
+black 1 black 1 red 2 red 2 red 2 red 1
+black 3 red 2 red 1
+red 2 red 2 red 2 red 1
+black 1 red 2 red 2 red 1
+black 1 red 2 red 2 red 2
+black 1 red 2 red 2 red 2 red 1

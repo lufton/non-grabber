@@ -1,0 +1,41 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/10/12"
+height 8
+id 128836
+link "https://www.griddlers.net/nonogram/-/g/128836"
+medium_time "0:01:43"
+points 134
+popularity 60.0
+title "Mini Fish"
+width 10
+
+color a ffffff
+color b bdfbde
+color c d6b2ce
+color d fff34a
+color e 21499c
+color f 000000
+
+rows
+b 3
+c 2 d 1 c 1
+c 2 e 1 c 1 e 1 c 1 c 2
+c 2 f 1 c 2 e 1 c 2 e 1
+c 4 e 1 d 1 c 1 e 1 c 1
+c 1 e 2 d 1 c 2 c 2
+c 4
+b 3
+
+columns
+c 2
+c 4
+c 2 f 1 c 1 e 1 c 1
+b 1 c 1 e 1 c 2 e 1 c 1 b 1
+b 1 d 1 c 2 e 1 d 1 c 1 b 1
+b 1 c 1 e 2 d 1 c 2 b 1
+c 4
+c 1 e 1
+c 1 e 1 c 2
+c 1 c 1

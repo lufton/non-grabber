@@ -1,0 +1,37 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Sep 29, 2017"
+description "The number e is a mathematical constant that is the base of the natural logarithm: the unique number whose natural logarithm is equal to one. It is approximately equal to 2.71828."
+difficulty 1.25
+height 10
+id 30249
+link "https://webpbn.com/play.cgi?id=30249"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "... for natural algorithm."
+width 10
+
+rows
+4
+6
+2,2
+2,2
+8
+8
+2
+2,2
+6
+4
+
+columns
+0
+4
+8
+3,2,3
+2,2,2
+2,2,2
+3,2,3
+5,2
+3
+0

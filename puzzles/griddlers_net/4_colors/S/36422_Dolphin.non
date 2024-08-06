@@ -1,0 +1,47 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/31/06"
+height 14
+id 36422
+link "https://www.griddlers.net/nonogram/-/g/36422"
+medium_time "0:02:13"
+points 151
+popularity 43.13
+title "Dolphin"
+width 12
+
+color a ccffff
+color b ffffff
+color c 969696
+color d 000000
+
+rows
+c 4
+c 3 d 1 c 4
+c 4 b 2 c 4
+c 5 b 1 c 3
+c 4 b 2 c 1
+c 4 b 1 c 1
+c 3 b 1 c 1
+c 5
+c 5
+c 4
+c 4
+c 3
+c 5
+c 2 c 3
+
+columns
+c 1
+c 1
+c 3
+c 1 d 1 c 2
+c 5 c 1
+c 6 c 2
+c 1 b 1 c 10
+c 1 b 1 c 10
+c 1 b 2 c 9
+c 2 b 3 c 4 c 2
+c 7 c 1
+c 2

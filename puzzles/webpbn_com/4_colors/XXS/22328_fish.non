@@ -1,0 +1,32 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Jul  8, 2013"
+description ""
+difficulty 1.0
+height 5
+id 22328
+link "https://webpbn.com/play.cgi?id=22328"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "fish"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1
+red 4
+red 1 black 1 red 2
+red 4
+blue 1 red 1 blue 2 red 1
+
+columns
+red 1 blue 1
+red 1 black 1 red 2
+red 4 blue 1
+red 3 blue 1
+red 2 red 2

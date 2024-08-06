@@ -1,0 +1,31 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun  9, 2011"
+description "Mini-earth."
+difficulty 1.0
+height 5
+id 14444
+link "https://webpbn.com/play.cgi?id=14444"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Very Small Planet"
+width 5
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3
+blue 1 black 2 blue 2
+blue 1 black 1 blue 1 black 2
+black 1 blue 1 black 2 blue 1
+black 1 blue 2
+
+columns
+blue 2 black 1
+blue 1 black 2 blue 1 black 1
+blue 1 black 1 blue 1 black 1 blue 1
+blue 2 black 2 blue 1
+blue 1 black 1 blue 1

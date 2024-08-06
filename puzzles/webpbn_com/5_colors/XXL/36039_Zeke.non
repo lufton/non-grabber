@@ -1,0 +1,128 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Yonah Kondor"
+date "Oct 31, 2022"
+description "Zero"
+difficulty 2.5
+height 30
+id 36039
+link "https://webpbn.com/play.cgi?id=36039"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 3.75
+title "Zeke"
+width 75
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+black 3
+black 3
+black 3 red 2
+black 2 red 3
+blue 2 green 1 black 2 red 2
+blue 3 green 1 black 4
+blue 3 green 1 black 5
+blue 3 green 1 black 2 black 5
+blue 4 green 1 black 3 black 5
+blue 5 green 1 black 8 black 6
+blue 4 green 1 black 4 green 11 red 2 black 6
+blue 5 green 1 black 4 blue 2 red 2 blue 10 red 3 black 6
+blue 5 black 4 blue 1 green 2 blue 2 red 2 blue 10 black 6
+blue 12 green 1 blue 2 red 2 blue 8 black 7
+black 5 blue 8 green 2 blue 2 red 1 blue 7 black 7
+black 6 blue 3 green 2 blue 8 black 8 red 1
+black 5 blue 6 black 8 red 2
+black 5 blue 2 black 9 red 4
+black 3 blue 3 black 8 green 2 red 4
+blue 3 black 6 green 5
+blue 3 black 5 green 8
+blue 3 black 4 green 4
+blue 2 black 4
+black 6
+black 5
+black 5
+black 5
+black 4
+black 3
+
+columns
+black 1
+black 1
+black 2
+black 1
+black 1
+black 2
+black 1
+black 1
+black 2
+black 1 black 2
+black 2 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 1
+black 3 black 2
+black 2 black 2
+black 3 black 1
+black 2 blue 1 black 1
+blue 3 blue 1 black 2 blue 1 black 1
+blue 6 blue 2 black 2 blue 1 black 2
+green 1 blue 9 black 1 blue 1 black 1
+green 2 blue 8 blue 1 black 1
+green 1 blue 7 blue 1 black 2
+green 1 blue 6 blue 1 black 1
+green 2 blue 1 black 1 blue 2 blue 1 black 1
+green 1 black 1 blue 3 blue 1 black 2
+black 2 blue 3 blue 1 black 1
+black 2 blue 3 blue 1 black 1
+black 2 blue 3 green 1 blue 1 black 2
+black 2 green 1 blue 1 green 2 blue 1 black 2
+black 1 blue 1 green 3 blue 2 blue 1 black 1
+black 2 blue 7 black 2
+black 1 green 1 red 1 blue 6 black 2
+black 1 green 1 red 4 blue 2 black 3
+black 2 green 1 blue 1 red 2 blue 3 black 2
+black 2 green 1 blue 6 black 2 green 1
+black 3 green 1 blue 5 black 3 green 1
+black 1 black 1 green 1 blue 5 black 3 green 2
+black 1 green 1 blue 4 black 4 green 3
+green 1 blue 4 black 3 green 4
+green 1 blue 4 black 3 green 4
+green 1 blue 3 black 4 red 1 green 3
+green 1 blue 3 black 3 red 2 green 1
+red 1 blue 2 black 4 red 2
+red 2 blue 1 black 3 red 3
+red 1 black 4 red 2
+red 1 black 3 red 1
+black 4
+black 3
+black 4
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 2
+black 2
+black 2
+black 1
+black 2
+black 2
+black 2
+black 2
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 2 red 1
+black 1 red 1
+black 2 red 1
+black 1
+black 2
+black 1

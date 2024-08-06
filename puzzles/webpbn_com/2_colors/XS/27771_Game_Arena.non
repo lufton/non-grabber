@@ -1,0 +1,33 @@
+by "Frank Camp (marakesh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Frank Camp"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 8
+id 27771
+link "https://webpbn.com/play.cgi?id=27771"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Game Arena"
+width 8
+
+rows
+8
+2,1
+2,1,1,1
+2,1,1,1
+2,1
+2,1
+3,2
+2
+
+columns
+7
+7
+1,1
+1,2,1
+1,2
+1,2,1
+1,1
+5

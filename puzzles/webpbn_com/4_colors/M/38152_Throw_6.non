@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Brian Bellis"
+date "Dec 30, 2023"
+description "the book at him"
+difficulty 2.0
+height 20
+id 38152
+link "https://webpbn.com/play.cgi?id=38152"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Throw #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 5
+blue 3 black 5
+blue 2 black 1 blue 2 black 5
+blue 2 black 3 blue 2 black 3
+blue 2 black 3 blue 2 red 9
+blue 2 black 3 blue 2 red 11
+blue 2 black 3 blue 2 red 11
+black 3 blue 2 red 11
+black 1 blue 2 red 11
+blue 1 red 3 red 1 red 3
+red 2 black 3 red 2
+red 1 black 5 red 1
+red 2 black 5 red 2
+red 2 black 2 red 1 black 2 red 2
+red 9
+red 9
+red 9
+red 4 red 4
+red 4 red 4
+red 4 red 4
+
+columns
+blue 1
+blue 2 black 1
+blue 2 black 3
+blue 2 black 3 blue 2
+blue 2 black 3 blue 2
+blue 2 black 3 blue 2
+blue 2 black 3 blue 2
+blue 2 black 1 blue 2
+blue 3
+blue 1 red 4
+red 16
+red 7 red 8
+black 3 red 6 black 3 red 6
+black 4 red 5 black 4 red 6
+black 4 red 6 black 3 red 4
+black 4 red 5 black 4 red 6
+black 3 red 6 black 3 red 6
+red 7 red 8
+red 16
+red 4

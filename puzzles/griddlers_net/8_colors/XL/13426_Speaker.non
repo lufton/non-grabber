@@ -1,0 +1,105 @@
+by "ety22"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/25/04"
+height 45
+id 13426
+link "https://www.griddlers.net/nonogram/-/g/13426"
+medium_time "0:15:54"
+points 20123
+popularity 66.95
+title "Speaker"
+width 35
+
+color a ffffff
+color b 000000
+color c ffd593
+color d 0000ff
+color e 808080
+color f 00ffff
+color g ff9848
+color h 00ff00
+
+rows
+b 5
+b 1 c 3 b 1
+d 1 c 1 d 1
+c 3
+b 1 c 3 b 1
+b 3 e 1 f 1 b 1 f 1 e 1 b 3
+d 2 b 1 e 2 f 1 b 1 f 1 e 2 b 3
+e 1 d 2 b 1 e 2 f 1 b 1 f 1 e 2 b 4
+e 3 d 2 b 2 e 1 f 1 b 1 f 1 e 1 b 2 b 2
+e 2 b 2 b 2 e 1 f 1 b 1 f 1 e 1 b 2 b 2
+e 2 b 2 b 2 e 1 f 3 e 1 b 2 b 2
+e 2 g 1 b 2 c 2 g 4 c 2 b 3 g 1
+e 2 g 1 b 2 c 1 g 6 c 1 b 2 g 2
+e 2 e 15
+e 2 e 1 g 13 e 1
+e 2 e 1 g 13 e 1
+b 6 e 2 b 4 e 1 g 13 e 1 b 8
+b 6 e 1 b 5 e 1 g 13 e 1 b 8
+b 6 e 1 b 5 e 1 g 13 e 1 b 8
+b 6 e 1 b 5 e 1 g 13 e 1 b 8
+b 6 e 1 b 5 e 1 g 13 e 1 b 8
+b 5 e 3 b 4 e 1 g 13 e 1 b 8
+b 5 e 3 b 4 e 1 g 13 e 1 b 8
+b 4 e 5 b 3 e 15 b 8
+b 4 e 5 b 3 e 15 b 8
+b 35
+0
+b 2 e 2 e 2 b 2 b 2 e 2 e 2 b 2 e 1
+b 2 e 2 e 2 b 2 b 2 e 2 e 2 b 2 e 1
+d 4 f 4 h 4 g 4 c 4 h 4 d 4 f 4 d 3
+d 4 f 4 h 4 g 4 c 4 h 4 d 4 f 4 d 3
+d 4 f 4 h 4 g 4 c 4 h 4 d 4 f 4 d 3
+b 35
+b 1 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2
+b 1 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2
+b 35
+0
+b 2 e 2 b 2 b 2 e 2 b 2 e 2 e 2
+b 2 e 2 b 2 b 2 e 2 b 2 e 2 e 2
+c 1 g 4 h 4 d 4 f 4 h 4 d 4 f 4 g 4 h 2
+c 1 g 4 h 4 d 4 f 4 h 4 d 4 f 4 g 4 h 2
+c 1 g 4 h 4 d 4 f 4 h 4 d 4 f 4 g 4 h 2
+b 35
+b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 1
+b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 2 b 2 e 1
+
+columns
+b 10 d 3 b 4 c 3 b 3
+b 10 b 2 d 3 b 1 e 2 b 1 g 3 b 3
+b 10 b 2 d 3 b 1 e 2 b 1 b 2 g 3 b 1 e 2
+b 10 d 3 b 4 b 2 g 3 b 1 e 2
+b 7 e 2 b 1 f 3 b 4 g 3 b 3
+b 5 e 4 b 1 e 2 f 3 b 1 e 2 b 1 h 3 b 3
+e 13 b 1 e 2 f 3 b 1 e 2 b 1 e 2 h 3 b 1 e 2
+e 6 b 4 e 4 b 1 f 3 b 4 e 2 h 3 b 1 e 2
+e 2 b 7 e 2 b 1 h 3 b 4 h 3 b 3
+e 2 b 10 e 2 h 3 b 1 e 2 b 1 d 3 b 3
+e 2 b 10 e 2 h 3 b 1 e 2 b 1 b 2 d 3 b 1 e 2
+e 1 b 10 h 3 b 4 b 2 d 3 b 1 e 2
+e 2 b 2 g 2 e 12 b 1 g 3 b 4 d 3 b 3
+d 3 b 4 e 1 g 9 e 2 b 1 b 2 g 3 b 1 e 2 b 1 f 3 b 3
+b 1 d 3 b 2 e 1 g 9 e 2 b 1 b 2 g 3 b 1 e 2 b 1 b 2 f 3 b 1 e 2
+b 6 c 2 e 1 g 9 e 2 b 1 g 3 b 4 b 2 f 3 b 1 e 2
+b 1 e 2 b 3 c 1 g 1 e 1 g 9 e 2 b 1 c 3 b 4 f 3 b 3
+b 2 b 1 e 6 g 2 e 1 g 9 e 2 b 1 b 2 c 3 b 1 e 2 b 1 h 3 b 3
+b 1 c 1 d 1 c 2 f 6 g 2 e 1 g 9 e 2 b 1 b 2 c 3 b 1 e 2 b 1 e 2 h 3 b 1 e 2
+b 1 c 4 b 5 f 1 g 2 e 1 g 9 e 2 b 1 c 3 b 4 e 2 h 3 b 1 e 2
+b 1 c 1 d 1 c 2 f 6 g 2 e 1 g 9 e 2 b 1 h 3 b 4 h 3 b 3
+b 2 b 1 e 6 c 1 g 1 e 1 g 9 e 2 b 1 e 2 h 3 b 1 e 2 b 1 d 3 b 3
+b 1 e 2 b 3 c 2 e 1 g 9 e 2 b 1 e 2 h 3 b 1 e 2 b 1 b 2 d 3 b 1 e 2
+b 8 e 1 g 9 e 2 b 1 h 3 b 4 b 2 d 3 b 1 e 2
+b 3 b 2 e 1 g 9 e 2 b 1 d 3 b 4 d 3 b 3
+b 6 g 1 e 1 g 9 e 2 b 1 e 2 d 3 b 1 e 2 b 1 f 3 b 3
+b 4 g 2 e 12 b 1 e 2 d 3 b 1 e 2 b 1 e 2 f 3 b 1 e 2
+b 10 d 3 b 4 e 2 f 3 b 1 e 2
+b 10 f 3 b 4 f 3 b 3
+b 10 b 2 f 3 b 1 e 2 b 1 g 3 b 3
+b 10 b 2 f 3 b 1 e 2 b 1 e 2 g 3 b 1 e 2
+b 10 f 3 b 4 e 2 g 3 b 1 e 2
+b 10 d 3 b 4 g 3 b 3
+b 10 d 3 b 1 e 2 b 1 h 3 b 3
+b 10 e 2 d 3 b 1 e 2 b 1 h 3 b 1 e 2

@@ -1,0 +1,102 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Sep  1, 2010"
+description "Windows Logo (needing yellow!) In Memory of Jans #34"
+difficulty 2.0
+height 39
+id 10157
+link "https://webpbn.com/play.cgi?id=10157"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #66 Looking through"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 8
+black 12
+black 6 red 4 black 7 black 2
+black 5 red 8 black 7 black 4
+black 3 red 12 black 7 black 7
+black 3 red 12 black 18
+black 3 red 12 black 3 green 2 black 8 green 2 black 3
+black 3 red 12 black 3 green 4 black 4 green 4 black 3
+black 3 red 12 black 4 green 12 black 3
+black 3 red 12 black 4 green 12 black 3
+black 3 red 12 black 3 green 12 black 3
+black 3 red 12 black 3 green 12 black 3
+black 3 red 12 black 4 green 12 black 3
+black 3 red 12 black 4 green 12 black 3
+black 3 red 4 black 4 red 4 black 3 green 12 black 3
+black 3 red 2 black 8 red 2 black 3 green 12 black 3
+black 18 green 12 black 3
+black 6 blue 4 black 8 green 12 black 3
+black 4 blue 8 black 8 green 8 black 5
+black 3 blue 12 black 8 green 4 black 7
+black 3 blue 12 black 19
+black 3 blue 12 black 3 black 8 black 3
+black 3 blue 12 black 3 black 4 black 3
+black 3 blue 12 black 4 black 3
+black 3 blue 12 black 4 black 3
+black 3 blue 12 black 3 black 3
+black 3 blue 12 black 3 black 3
+black 3 blue 12 black 4 black 3
+black 3 blue 12 black 4 black 3
+black 3 blue 4 black 4 blue 4 black 3 black 3
+black 3 blue 2 black 8 blue 2 black 3 black 2 red 4 red 1
+black 18 black 3 red 1 red 5
+black 7 black 7 black 3 red 1 red 1 red 1 red 1
+black 4 black 7 black 5 red 1 red 1 red 1
+black 2 black 7 black 6
+black 14
+black 8
+black 4
+
+columns
+black 6
+black 12
+black 16
+black 15 blue 4 black 3
+black 15 blue 8 black 3
+black 16 blue 11 black 3
+black 10 red 4 black 3 blue 11 black 3
+black 6 red 8 black 2 blue 11 black 3
+black 3 red 11 black 3 blue 11 black 3
+black 3 red 11 black 2 blue 12 black 3
+black 3 red 11 black 3 blue 12 black 3
+black 3 red 11 black 3 blue 13 black 3
+black 3 red 12 black 3 blue 13 black 3
+black 3 red 12 black 4 blue 13 black 3
+black 3 red 13 black 3 blue 13 black 3
+black 3 red 13 black 4 blue 8 black 8
+black 3 red 13 black 3 blue 4 black 12
+black 3 red 13 black 19
+black 3 red 8 black 17 black 3
+black 3 red 4 black 17 black 3
+black 19 black 3
+black 12 green 4 black 3 black 3
+black 8 green 8 black 4 black 3
+black 3 green 13 black 3 black 3
+black 3 green 13 black 4 black 3
+black 3 green 13 black 3 black 3
+black 3 green 13 black 3 black 3
+black 3 green 12 black 3 black 3
+black 3 green 12 black 2 black 3
+black 3 green 11 black 3 black 3
+black 3 green 11 black 2 black 7
+black 3 green 11 black 3 black 11
+black 3 green 11 black 12 red 1 black 3
+black 3 green 8 black 15 red 4
+black 3 green 4 black 15 red 1
+black 19 red 4
+black 12 red 1
+black 6 red 2
+red 1
+red 4

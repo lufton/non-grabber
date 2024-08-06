@@ -1,0 +1,83 @@
+by "Macci Clement (girly980)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Macci Clement"
+date "May 31, 2014"
+description "Apparently as played by the Hulk... with blue pants and a matching blue vest. Sorry about the horrid colors."
+difficulty 1.75
+height 41
+id 24644
+link "https://webpbn.com/play.cgi?id=24644"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Aladdin..."
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4
+red 4
+black 7
+black 10
+black 7 green 2 black 3
+black 8 green 4 black 3
+black 4 green 8 black 2
+black 1 green 2 black 1 green 3 black 1 green 2 black 1
+black 1 green 2 black 2 green 3 black 2 green 2 black 1
+black 1 green 11 black 1
+black 1 green 9 black 1
+black 2 green 7 black 2
+green 5
+blue 3 green 5 blue 3
+blue 5 green 3 blue 5
+green 2 blue 4 green 3 blue 4 green 2
+green 4 blue 3 green 3 blue 3 green 4
+green 3 blue 2 green 5 blue 2 green 3
+green 3 blue 2 green 5 blue 2 green 3
+green 3 blue 1 red 7 blue 1 green 3
+green 3 red 9 green 3
+green 3 red 7 green 3
+green 3 red 7 green 3
+green 3 blue 7 green 3
+blue 11
+blue 11
+blue 13
+blue 13
+blue 13
+blue 15
+blue 15
+blue 7 blue 7
+blue 7 blue 7
+blue 8 blue 8
+blue 8 blue 8
+blue 7 blue 7
+blue 7 blue 7
+blue 5 blue 5
+green 5 green 5
+green 6 green 6
+green 6 green 6
+
+columns
+green 1
+black 1 green 3 blue 4 green 2
+black 2 green 6 blue 9 green 3
+black 6 blue 1 green 9 blue 12 green 3
+black 4 green 3 black 2 blue 3 green 1 green 5 blue 14 green 3
+black 5 green 4 black 1 blue 7 red 1 green 3 blue 14 green 3
+black 4 green 1 black 2 green 3 blue 6 red 4 blue 15 green 2
+red 2 black 4 green 1 black 1 green 5 blue 3 green 2 red 4 blue 14
+red 2 black 4 green 13 red 4 blue 12
+red 2 black 3 green 14 red 4 blue 8
+red 2 black 2 green 15 red 4 blue 12
+black 2 green 3 black 1 green 5 blue 3 green 2 red 4 blue 14
+black 2 green 2 black 2 green 3 blue 6 red 4 blue 15 green 2
+black 3 green 5 black 1 blue 7 red 1 green 3 blue 14 green 3
+black 3 green 3 black 2 blue 3 green 1 green 5 blue 14 green 3
+black 5 blue 1 green 9 blue 12 green 3
+green 6 blue 9 green 3
+green 3 blue 4 green 2
+green 1

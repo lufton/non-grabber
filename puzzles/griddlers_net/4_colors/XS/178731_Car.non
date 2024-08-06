@@ -1,0 +1,36 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/1/16"
+height 5
+id 178731
+link "https://www.griddlers.net/nonogram/-/g/178731"
+medium_time "0:00:33"
+points 46
+popularity 63.93
+title "Car"
+width 10
+
+color a e5e4e4
+color b 000000
+color c ffffff
+color d ff6600
+
+rows
+d 4
+d 1 c 2 d 1 c 1 d 1
+d 9
+d 2 b 2 d 3 b 2 d 1
+b 2 b 2
+
+columns
+d 1
+d 2
+d 1 b 2
+d 2 b 2
+d 1 c 1 d 2
+d 1 c 1 d 2
+d 4
+d 1 c 1 d 1 b 2
+d 2 b 2
+d 2

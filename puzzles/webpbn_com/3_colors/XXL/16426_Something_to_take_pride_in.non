@@ -1,0 +1,174 @@
+by "ryan moore (solar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by ryan moore"
+date "Nov 18, 2011"
+description "The American flag. This is my first puzzle."
+difficulty 2.0
+height 78
+id 16426
+link "https://webpbn.com/play.cgi?id=16426"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Something to take pride in"
+width 75
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 47 black 28
+blue 3 blue 7 blue 7 blue 7 blue 7 blue 7 blue 3 black 28
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2 black 28
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1 black 28
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2 black 28
+blue 1 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 1 black 28
+blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 black 28
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6
+blue 5 blue 3 blue 3 blue 3 blue 3 blue 5
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6
+blue 5 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 5
+blue 3 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 3
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1 black 28
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2 black 28
+blue 1 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 1 black 28
+blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 black 28
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6 black 28
+blue 5 blue 3 blue 3 blue 3 blue 3 blue 5 black 28
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6 black 28
+blue 5 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 5
+blue 3 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 3
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2
+blue 1 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 1
+blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6 black 28
+blue 5 blue 3 blue 3 blue 3 blue 3 blue 5 black 28
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6 black 28
+blue 5 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 5 black 28
+blue 3 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 3 black 28
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2 black 28
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1 black 28
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2
+blue 1 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 1
+blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6
+blue 5 blue 3 blue 3 blue 3 blue 3 blue 5
+blue 6 blue 5 blue 5 blue 5 blue 5 blue 6
+blue 5 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 5
+blue 3 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 1 blue 3 blue 1 blue 3 black 28
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2 black 28
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1 black 28
+blue 2 blue 5 blue 5 blue 5 blue 5 blue 5 blue 2 black 28
+blue 1 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 3 blue 1 blue 1 black 28
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1 black 28
+blue 47 black 28
+0
+0
+0
+0
+black 75
+black 75
+black 75
+black 75
+black 75
+0
+0
+0
+0
+0
+black 75
+black 75
+black 75
+black 75
+black 75
+black 75
+0
+0
+0
+0
+0
+black 75
+black 75
+black 75
+black 75
+black 75
+
+columns
+blue 48 black 5 black 6 black 5
+blue 3 blue 1 blue 6 blue 1 blue 6 blue 1 blue 6 blue 1 blue 6 blue 1 blue 1 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 1 blue 6 blue 6 blue 6 blue 6 blue 3 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 6 blue 6 blue 6 blue 6 blue 8 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 1 blue 6 blue 6 blue 6 blue 6 blue 3 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 6 blue 6 blue 6 blue 6 blue 8 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 1 blue 6 blue 6 blue 6 blue 6 blue 3 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 6 blue 6 blue 6 blue 6 blue 8 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 1 blue 6 blue 6 blue 6 blue 6 blue 3 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 6 blue 6 blue 6 blue 6 blue 8 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 1 blue 6 blue 6 blue 6 blue 6 blue 3 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 6 blue 6 blue 6 blue 6 blue 8 black 5 black 6 black 5
+blue 7 blue 6 blue 6 blue 6 blue 7 black 5 black 6 black 5
+blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 1 blue 6 blue 6 blue 6 blue 6 blue 3 black 5 black 6 black 5
+blue 2 blue 6 blue 6 blue 6 blue 6 blue 2 black 5 black 6 black 5
+blue 3 blue 1 blue 6 blue 1 blue 6 blue 1 blue 6 blue 1 blue 6 blue 1 blue 1 black 5 black 6 black 5
+blue 48 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5
+black 7 black 7 black 7 black 7 black 5 black 6 black 5

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Feb 15, 2010"
+description "But if you do...here are some tissues."
+difficulty 1.75
+height 20
+id 7829
+link "https://webpbn.com/play.cgi?id=7829"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Don't Cry Teresa"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 6
+black 4 black 4
+black 1 black 2 blue 2
+black 1 black 1 blue 2
+black 1 black 1 blue 2
+black 1 black 2 blue 1
+black 3 black 3 blue 1
+black 3 blue 2 black 1 black 5 blue 1
+blue 5 black 1 black 7 blue 2
+blue 4 black 2 black 8 blue 4
+black 1 blue 3 black 10 blue 6
+black 1 blue 4 black 7 blue 6 black 2
+black 2 blue 4 black 4 blue 6 black 3 blue 1
+blue 1 black 1 blue 12 black 3 blue 3
+blue 1 black 2 blue 9 black 3 blue 5
+blue 2 black 1 blue 7 black 3 blue 7
+blue 2 black 2 blue 4 black 3 blue 9
+blue 3 black 1 blue 2 black 3 blue 11
+blue 3 black 4 blue 13
+blue 4 black 1 blue 15
+
+columns
+black 1 blue 2 black 3 blue 7
+black 1 blue 4 black 3 blue 5
+black 1 blue 6 black 3 blue 3
+black 1 blue 9 black 3 blue 1
+black 1 blue 2 black 2 blue 7 black 2
+black 7 blue 6 black 1 blue 1
+black 4 black 3 blue 4 black 2 blue 1
+black 1 black 3 blue 4 black 1 blue 2
+black 1 black 4 blue 3 black 2 blue 2
+black 1 black 4 blue 3 black 1 blue 3
+black 1 black 3 blue 3 black 2 blue 3
+black 1 black 4 blue 3 black 1 blue 4
+black 1 black 3 blue 3 black 2 blue 4
+black 1 black 3 blue 3 black 1 blue 5
+black 1 black 3 blue 3 black 2 blue 5
+black 1 black 3 blue 3 black 1 blue 6
+black 2 black 3 blue 3 black 2 blue 6
+black 8 blue 3 black 1 blue 7
+black 1 blue 3 black 3 blue 3 black 2 blue 7
+black 1 blue 9 black 1 blue 8

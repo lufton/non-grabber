@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Nov 13, 2011"
+description "When a planet or moon always show the same face to the body which it orbits. Caused by gravitational tides slowing the rotation until the period of rotation is equal to the period of revolution."
+difficulty 1.75
+height 20
+id 16361
+link "https://webpbn.com/play.cgi?id=16361"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Astronomy Vocabulary 1: Tidal Lock"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 2
+black 1 red 2 black 1
+black 2 red 1 red 1 black 2
+red 1 red 1
+0
+0
+0
+red 2
+black 1 red 1 red 4 red 1 black 1
+black 1 red 1 red 4 red 1 black 1
+red 2
+0
+0
+0
+red 1 red 1
+black 2 red 1 red 1 black 2
+black 1 red 2 black 1
+black 2
+0
+
+columns
+0
+black 2
+black 1 red 2 black 1
+black 2 red 1 red 1 black 2
+red 1 red 1
+0
+0
+0
+red 2
+black 1 red 1 red 4 red 1 black 1
+black 1 red 1 red 4 red 1 black 1
+red 2
+0
+0
+0
+red 1 red 1
+black 2 red 1 red 1 black 2
+black 1 red 2 black 1
+black 2
+0

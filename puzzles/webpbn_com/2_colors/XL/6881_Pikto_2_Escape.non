@@ -1,0 +1,80 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Kai-Uwe Zickerick"
+date "Oct  6, 2009"
+description "Emergency Exit"
+difficulty 1.75
+height 33
+id 6881
+link "https://webpbn.com/play.cgi?id=6881"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Pikto #2 Escape"
+width 30
+
+rows
+30
+30
+4,5
+4,2,5
+4,4,5
+4,6,5
+4,6,5
+4,4,5
+4,2,5
+4,5
+4,10,5
+4,12,5
+4,14,5
+4,12,4,5
+10,6,4,5
+4,4,5,3,5
+4,5,2,5
+4,5,2,5
+4,7,5
+4,3,3,5
+4,3,3,5
+4,3,8,5
+4,3,9,5
+4,3,7,5
+4,3,5
+4,3,5
+4,3,5
+4,3,5
+4,3,5
+5,5
+6,3,5
+7,3,5
+8,3,5
+
+columns
+33
+33
+33
+33
+2,1,4
+2,3,3
+2,3,2
+2,3,1
+2,4,2,1
+2,2,4,5,2
+2,4,4,8,3
+2,6,5,9,2
+2,6,14,1
+2,4,11
+2,2,9
+2,13
+2,14
+2,3,6
+2,3,3
+2,4,3
+2,4,3
+2,4,3
+2,5,3
+2,4,1
+2
+33
+33
+33
+33
+33

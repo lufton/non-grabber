@@ -1,0 +1,41 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Yonah Kondor"
+date "Mar 21, 2023"
+description "Bringing together Morse Code and Palindromes makes for satisfying visuals. The image for this one (I'll let you translate the word) reminds me of Space Invaders!"
+difficulty 1.0
+height 5
+id 36561
+link "https://webpbn.com/play.cgi?id=36561"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A Confluence of Themes"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3 black 1 black 3
+black 1 black 3
+black 3 black 1 black 3 green 3
+black 1 black 3
+black 3 black 1 black 3
+
+columns
+black 5
+black 1 black 1 black 1
+black 5
+black 1 black 1
+black 5
+0
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+0
+green 1
+green 1
+green 1
+0
+0

@@ -1,0 +1,54 @@
+by "arcadedweller"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/8/08"
+height 23
+id 61153
+link "https://www.griddlers.net/nonogram/-/g/61153"
+medium_time "0:03:13"
+points 1012
+popularity 52.13
+title "Ballerina Wave"
+width 10
+
+color a ffffff
+color b 000000
+color c ff6699
+color d 6a520a
+
+rows
+d 1
+d 3
+d 5
+c 1 d 1 c 3 d 1
+c 1 c 5
+c 1 c 3
+c 2 c 1
+c 2 c 1
+c 2 b 1 c 1 b 1 c 1
+b 3 c 1
+b 3 c 1
+b 3 c 1
+b 3 c 1
+b 5 c 1
+b 7
+b 9
+b 9
+c 1 c 1
+c 1 c 1
+c 1 c 1
+c 1 c 1
+b 1 b 1
+b 2 b 2
+
+columns
+c 4
+c 2 b 2
+c 2 b 3
+d 2 c 1 c 1 b 4 b 1
+d 2 c 3 b 9 c 4 b 2
+d 3 c 6 b 8
+d 2 c 3 b 9 c 4 b 2
+d 2 c 1 c 1 b 4 b 1
+c 5 b 3
+b 2

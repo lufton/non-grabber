@@ -1,0 +1,31 @@
+by "rave"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/19/04"
+height 5
+id 12265
+link "https://www.griddlers.net/nonogram/-/g/12265"
+medium_time "0:00:11"
+points 3
+popularity 34.98
+title "Man"
+width 5
+
+color a 62d5fe
+color b ff0000
+color d 0000ff
+color g dabfae
+
+rows
+0
+g 1
+d 3
+d 1
+b 1 b 1
+
+columns
+0
+d 1 b 1
+g 1 d 2
+d 1 b 1
+0

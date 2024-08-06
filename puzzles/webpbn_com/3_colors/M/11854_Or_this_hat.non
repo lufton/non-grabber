@@ -1,0 +1,61 @@
+by "Janet (jltho)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Janet"
+date "Jan 21, 2011"
+description "The Cat in the Hat"
+difficulty 1.5
+height 25
+id 11854
+link "https://webpbn.com/play.cgi?id=11854"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Or this hat?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 15
+black 5 red 8 black 2
+black 4 red 10 black 1
+black 3 red 11 black 1
+black 3 red 3 red 4 black 1
+black 4 red 3 black 1
+black 4 red 5 red 3 black 1
+black 3 red 8 black 3
+black 3 red 8 black 4
+black 2 red 3 black 5
+black 2 red 2 black 5
+black 2 red 1 red 3 black 5
+black 3 red 7 black 4
+black 3 red 8 black 4
+black 2 red 8 black 1 black 1
+black 3 red 2 black 2 black 2
+black 2 black 6
+black 1 black 10
+black 1 black 12
+black 15
+black 15
+black 15
+black 15
+black 15
+black 15
+
+columns
+black 25
+black 17 black 6
+black 9 red 3 black 2 red 1 black 1 black 6
+black 3 red 2 black 2 red 4 red 3 black 7
+black 2 red 3 red 3 red 4 black 7
+black 1 red 4 red 3 red 3 black 1 black 8
+black 1 red 3 red 3 red 3 black 1 black 8
+black 1 red 3 red 3 red 4 black 8
+black 1 red 3 red 3 red 4 black 8
+black 1 red 3 red 3 red 4 black 9
+black 1 red 4 red 2 black 3 red 2 black 1 black 9
+black 1 red 6 black 6 black 9
+black 1 red 6 black 7 black 9
+black 2 red 5 black 7 black 10
+black 25

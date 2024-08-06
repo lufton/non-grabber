@@ -1,0 +1,46 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb  5, 2011"
+description "No longer BFFs, big boy Dee (large tom cat) is hiding from little Minnie (small female cat). He is hiding in the laundry basket and doesn't realize that his ears are sticking out. She is waiting for him (little white ears at the bottom)."
+difficulty 1.25
+height 15
+id 12079
+link "https://webpbn.com/play.cgi?id=12079"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Hide and Seek"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+0
+black 1 black 1
+black 2 black 2
+black 3 black 3
+blue 10
+blue 10
+blue 8
+blue 8
+blue 8
+blue 8
+blue 8
+blue 8
+blue 2 blue 1 blue 3
+blue 1 blue 1 blue 2
+
+columns
+blue 2
+blue 10
+black 1 blue 9
+black 2 blue 8
+black 3 blue 10
+blue 8
+black 3 blue 9
+black 2 blue 10
+black 1 blue 10
+blue 2

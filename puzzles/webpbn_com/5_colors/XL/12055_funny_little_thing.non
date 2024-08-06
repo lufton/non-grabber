@@ -1,0 +1,103 @@
+by "josipa (joja7)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by josipa"
+date "Mar 26, 2011"
+description ""
+difficulty 1.5
+height 40
+id 12055
+link "https://webpbn.com/play.cgi?id=12055"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "funny little thing"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+black 1 black 1
+black 1 red 36 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 blue 32 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 28 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 3 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 7 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 blue 7 black 5 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 5 red 10 black 5 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 5 red 10 black 5 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 2 red 10 black 2 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 green 3 red 8 green 3 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 green 2 black 10 green 2 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 green 1 black 1 black 1 green 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 1 red 2 red 2 black 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 1 red 2 red 2 black 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 1 black 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 1 black 2 black 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 1 black 2 black 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 1 black 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 2 black 1 red 2 red 2 black 1 black 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 1 red 4 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 2 black 1 black 1 green 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 3 black 10 green 3 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 2 green 12 blue 2 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 18 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 1 red 1 blue 18 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 1 red 20 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 22 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 28 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 32 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 36 black 1
+black 1 black 1
+black 40
+
+columns
+black 40
+black 1 black 1
+black 1 red 36 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 blue 32 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 28 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 3 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 14 red 2 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 14 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 3 green 2 blue 3 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 green 3 green 2 blue 3 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 3 green 2 black 10 green 2 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 red 3 green 1 black 1 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 2 red 4 black 1 red 2 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 2 red 4 black 1 red 2 red 1 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 3 red 4 black 1 red 2 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 3 red 4 black 1 black 2 red 1 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 3 red 4 black 1 black 2 red 1 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 2 red 4 black 1 red 2 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 blue 2 red 4 black 1 red 2 red 1 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 red 4 black 1 red 2 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 red 3 green 1 black 1 black 1 green 1 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 green 2 black 10 green 2 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 green 3 green 2 blue 3 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 3 green 2 blue 3 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 14 blue 2 red 1 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 14 red 2 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 3 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 28 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 32 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 36 black 1
+black 1 black 1
+black 40

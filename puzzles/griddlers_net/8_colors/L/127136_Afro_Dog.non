@@ -1,0 +1,85 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/26/12"
+height 32
+id 127136
+link "https://www.griddlers.net/nonogram/-/g/127136"
+medium_time "0:19:45"
+points 26289
+popularity 69.64
+title "Afro Dog"
+width 28
+
+color a 000000
+color b cc6633
+color c ff6699
+color d ffcc66
+color e ffffff
+color f ffff33
+color g 9999cc
+color h ff9933
+
+rows
+b 3 b 3
+b 1 c 3 b 2 c 2 d 1 b 1
+b 3 c 7 d 3 b 3
+b 1 c 2 e 2 c 3 e 2 d 3 e 2 d 2 b 1
+b 2 c 2 e 2 c 3 e 2 d 3 e 2 d 2 b 2
+b 1 c 9 d 8 f 3 b 1
+b 1 c 8 d 8 f 4 b 1
+b 1 c 1 e 2 c 3 e 2 d 3 e 2 d 2 f 1 e 2 f 2 b 1
+b 1 c 1 e 2 c 3 e 2 d 3 e 2 d 1 f 2 e 2 f 2 b 1
+b 1 c 6 d 8 f 7 d 1 b 1
+b 1 c 6 d 8 f 7 d 3 b 1
+b 1 c 1 e 2 c 2 d 1 e 2 d 3 e 2 f 3 e 2 f 2 d 1 e 2 g 1 b 1
+b 1 e 2 c 1 d 2 e 2 b 6 f 2 e 2 f 1 d 2 e 2 b 1
+b 1 c 3 d 4 b 1 h 6 b 1 f 3 d 3 g 3 b 1
+b 1 c 1 d 5 b 1 h 7 b 1 f 2 d 3 g 4 b 1
+b 1 d 2 e 2 d 1 b 1 h 3 h 1 b 1 d 2 e 2 g 3 b 1
+b 1 d 1 e 2 d 1 b 1 h 3 h 1 b 1 d 2 e 2 g 2 b 1
+b 1 d 4 b 1 g 1 e 6 h 1 b 1 d 1 g 5 b 1
+b 1 d 4 g 1 e 8 b 1 e 1 g 4 e 1 b 1
+b 1 e 1 d 2 g 1 e 2 e 4 h 1 b 1 g 4 e 1 b 1
+b 2 f 1 g 1 e 2 e 5 h 1 b 1 g 3 b 2
+b 1 g 1 e 2 e 2 e 3 g 1 h 1 b 3 h 2 b 1 g 3
+g 1 e 1 e 1 e 4 g 1 h 7 b 1 e 1 g 1
+g 1 e 8 g 1 h 9 b 1 g 1
+g 1 e 5 g 2 h 10 b 1
+g 5 h 12 b 1
+b 1 h 15 b 1
+b 1 h 2 b 1 h 8 b 2 h 2 b 1
+b 1 h 3 b 1 h 2 b 6 b 1 h 2 b 1
+b 1 h 2 b 1 h 3 b 1 b 1 h 1 b 1
+b 3 h 2 b 1 b 3
+b 2
+
+columns
+b 2 b 2
+b 1 c 2 b 1 c 2 b 1
+b 4 c 2 e 2 c 1 d 2 b 4
+b 1 c 6 e 2 c 1 d 5 e 1 b 1
+b 2 c 2 e 2 c 4 d 2 e 2 d 3 b 1
+b 1 c 4 e 2 c 3 d 3 e 2 d 3 f 1 b 1
+b 1 c 8 d 8 g 4
+b 1 e 2 c 5 d 1 e 2 d 1 b 4 g 1 e 2 e 1 g 1
+b 1 c 1 e 2 c 4 d 2 e 2 b 1 h 1 g 1 e 4 e 1 g 1
+b 1 c 6 e 2 d 3 b 1 h 2 e 2 e 1 e 2 g 1 b 2
+b 1 c 6 e 2 d 3 b 1 h 4 e 2 e 3 g 1 b 2 h 2 b 1
+b 1 c 5 d 6 b 1 h 4 e 2 e 1 e 2 g 1 h 4 b 1
+b 1 c 1 e 2 d 6 e 1 b 1 h 4 e 5 e 2 g 1 h 3 b 2
+b 1 c 1 e 2 d 6 e 1 b 1 h 2 e 4 e 3 g 1 h 1 b 2 h 2 b 1
+b 1 c 2 d 4 e 2 d 2 f 1 b 1 h 2 e 7 g 1 h 6 b 1
+b 1 c 1 d 5 e 2 d 1 f 3 b 2 h 3 e 6 g 1 h 5 b 1
+b 1 d 8 f 6 b 4 h 1 e 3 g 1 h 4 b 2
+b 1 d 1 e 2 d 3 f 3 e 2 f 2 d 3 e 1 b 1 h 1 g 2 h 5 b 1
+b 1 e 2 d 2 f 4 e 2 f 1 d 3 g 3 b 1 h 7 b 1
+b 1 d 3 f 1 e 2 f 4 d 2 e 2 g 4 b 1 h 6 b 1
+b 1 d 2 f 2 e 2 f 3 d 3 e 2 g 4 b 1 h 6 b 1
+b 2 f 6 d 3 g 7 b 1 h 6 b 1
+b 1 f 5 d 1 e 2 g 5 e 2 b 1 h 6 b 1
+b 4 d 2 e 2 g 3 b 5 h 6 b 4
+b 1 d 1 g 1 b 1 g 2 b 1 b 1 h 8 b 1
+b 2 b 2 g 1 b 1 h 6 b 2
+g 1 e 1 b 6
+g 3

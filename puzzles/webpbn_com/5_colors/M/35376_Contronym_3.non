@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Sep 28, 2021"
+description "Left: Went away and remained behind"
+difficulty 1.5
+height 20
+id 35376
+link "https://webpbn.com/play.cgi?id=35376"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Contronym 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 green 1
+red 5 green 1
+red 2 black 2 green 1
+red 2 black 3 black 1 green 2
+red 1 black 3 black 1 green 2
+black 4 green 1 green 3
+black 2 green 1 green 3
+green 7 green 4
+green 7 green 4
+black 1 green 3 green 5
+black 1 green 3 green 6
+black 1 green 3 green 7
+black 1 blue 3 green 3 black 2 green 1 black 2
+black 1 blue 7 black 3 black 2
+black 1 blue 7 black 3 black 2
+black 5 blue 2 red 1 black 3 black 2
+black 1 black 1 blue 2 red 3 black 1 black 2
+black 1 black 1 blue 2 red 1 red 3 red 2
+black 1 black 1 red 2 red 2 red 2
+black 1 black 1 red 3 red 2 red 1
+
+columns
+red 4 black 1 black 11
+red 4 black 3 green 5 blue 3 black 1
+red 2 black 5 green 5 blue 3 black 1
+red 2 black 4 green 5 blue 3 black 1
+red 2 black 1 green 2 blue 2 black 5
+green 2 blue 2
+green 2 blue 5 red 2
+black 2 green 4 blue 5 red 2
+red 1
+red 1
+red 1
+red 3
+green 1 black 1 red 3
+green 2 black 3 red 3
+green 3 black 3 red 1
+green 3 black 3
+green 5 black 2
+green 8
+green 9 black 5 red 3
+green 12 black 5 red 2

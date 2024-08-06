@@ -1,0 +1,63 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jota"
+date "Mar 29, 2011"
+description "Vodka, cranberry juice and lime martini with a straw ... Shaken not stirred"
+difficulty 1.75
+height 20
+id 13090
+link "https://webpbn.com/play.cgi?id=13090"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "His favorite drink"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 red 1 red 1
+blue 1 black 1 red 4
+blue 2 black 5
+blue 2 black 1 black 4
+blue 1 green 1 black 7
+red 5 red 2 black 3 black 1
+red 3 red 1 black 3 black 1
+red 1 red 1 black 4 black 3
+black 1 black 3 black 10
+black 1 black 2 black 11
+black 1 black 12
+black 3 black 10
+black 10
+black 9
+black 7
+black 4
+black 1 black 1
+black 3 black 1
+black 1 black 3
+black 1 black 1
+
+columns
+0
+red 1
+red 2 black 1
+blue 2 red 3 black 4
+blue 2 green 1 red 2 black 1
+blue 2 red 1 black 1
+black 2
+black 3
+black 1 black 4
+black 3 red 3 black 6
+red 1 black 2 black 1 red 1 black 7 black 1
+red 1 black 14 black 3
+red 2 black 16
+red 1 black 14 black 1
+red 2 black 2 black 13
+black 7 black 1
+black 7
+black 8
+black 4
+black 2

@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jul 31, 2011"
+description ""
+difficulty 1.25
+height 20
+id 15391
+link "https://webpbn.com/play.cgi?id=15391"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Slang for money 6"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 4
+black 4
+black 2
+black 2 black 2
+black 1
+black 1 black 2
+black 2
+black 1 black 2
+black 1 black 1
+black 1
+black 1
+black 3 black 1 black 1
+black 2 black 3
+red 2 black 2 black 1
+black 2 black 1
+black 5 black 1 black 1
+black 4 black 3
+black 4 black 2
+black 3 black 2
+
+columns
+black 2 black 1 black 2 black 1 red 1 black 4
+black 3 black 1 black 1 black 1 red 1 black 4
+black 3 black 1 black 4
+black 4 black 1 black 4
+black 15
+black 3 black 1
+black 1 black 2
+black 2 black 3
+black 7
+0

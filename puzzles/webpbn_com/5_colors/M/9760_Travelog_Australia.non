@@ -1,0 +1,73 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Jul 26, 2010"
+description "Ayers Rock"
+difficulty 1.75
+height 20
+id 9760
+link "https://webpbn.com/play.cgi?id=9760"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Travelog: Australia"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 blue 16
+blue 5 blue 15
+blue 4 blue 10 blue 1
+blue 4 blue 11
+blue 2 blue 1 blue 12
+blue 2 blue 17
+blue 26
+blue 7 red 19 blue 4
+blue 5 red 11 black 1 red 6 black 1 red 4 blue 2
+blue 3 red 9 black 1 red 4 black 1 red 6 black 1 red 4 blue 1
+blue 1 red 1 black 1 red 3 black 1 red 2 black 1 red 3 black 1 red 2 black 2 red 5 black 1 red 3 black 2 red 1
+blue 1 red 1 black 2 red 2 black 1 red 3 black 1 red 3 black 1 red 1 black 2 red 2 black 2 red 4 black 2 red 2
+red 1 black 2 red 3 black 1 red 4 black 1 red 2 black 1 red 1 black 1 red 1 black 2 red 1 black 3 red 2 black 2 red 2
+red 1 black 1 red 3 black 1 red 1 green 2 red 3 black 3 red 2 green 1 red 1 black 1 red 3 black 1 red 1 black 4 red 1
+red 1 black 1 red 1 green 1 black 1 red 3 green 2 red 4 black 1 red 1 green 3 red 2 green 2 red 2 black 1 red 1 green 1 black 1 red 1
+green 30
+green 30
+green 30
+green 30
+green 30
+
+columns
+blue 12 red 3 green 5
+blue 10 red 2 black 3 green 5
+blue 4 blue 4 black 3 red 2 green 5
+blue 4 blue 3 red 2 black 1 red 2 green 6
+blue 2 blue 3 red 5 black 1 green 5
+blue 1 blue 2 red 5 black 1 red 1 green 5
+blue 3 red 2 black 3 red 2 green 5
+blue 2 red 6 green 1 red 1 green 5
+blue 3 red 6 green 7
+blue 2 red 3 black 1 red 3 green 6
+blue 2 red 4 black 1 red 3 green 5
+blue 2 red 5 black 1 red 2 green 5
+blue 3 red 2 black 1 red 3 black 1 red 1 green 5
+blue 3 red 3 black 1 red 2 black 1 red 1 green 5
+blue 1 blue 3 red 4 black 4 green 5
+blue 7 red 8 green 5
+blue 7 red 1 black 1 red 1 black 3 red 1 green 6
+blue 7 red 2 black 3 red 1 green 7
+blue 7 red 5 black 1 red 1 green 6
+blue 7 red 5 black 2 red 1 green 5
+blue 7 red 4 black 1 red 3 green 5
+blue 7 red 4 black 2 red 1 green 6
+blue 7 red 5 black 1 red 1 green 6
+blue 5 blue 1 red 1 black 1 red 1 black 1 red 1 black 2 red 1 green 5
+blue 4 blue 1 red 2 black 1 red 5 green 5
+blue 2 blue 1 blue 1 red 6 black 2 green 5
+blue 2 blue 1 red 3 black 3 red 1 green 5
+blue 2 blue 1 red 2 black 4 green 6
+blue 2 blue 2 red 1 black 1 red 2 black 2 green 5
+blue 3 blue 3 red 5 green 5

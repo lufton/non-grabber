@@ -1,0 +1,57 @@
+by "Bruce Yanoshek (yanogator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Bruce Yanoshek"
+date "Oct 11, 2012"
+description "I felt like making a puzzle, so I did this one in about 30 seconds."
+difficulty 1.5
+height 20
+id 20033
+link "https://webpbn.com/play.cgi?id=20033"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "You're nuts! No, mine!!!!"
+width 20
+
+rows
+2,5
+4,3,2
+6,3,4
+7,2,2,2
+3,4,3,2,1
+9,2,3
+7,2,3
+5,2,4
+4,3,2
+3,5,5,2
+11,2,2,2
+1,12,2,1
+8,3,1,1
+12,1,1
+9,2,1,1
+12,1,1
+9,1,1
+8,4
+9
+8
+
+columns
+1,2
+2,2
+4,2
+6,3,1
+3,3,6,1
+17,1
+20
+20
+5,12
+11
+10
+6,8
+10,6
+4,6,2,1
+3,3,1,5,2
+2,5,2,4,1
+1,7,2,2
+1,1,3,5,1
+4,2,1
+4,6

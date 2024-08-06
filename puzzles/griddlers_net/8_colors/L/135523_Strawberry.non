@@ -1,0 +1,80 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/3/13"
+height 35
+id 135523
+link "https://www.griddlers.net/nonogram/-/g/135523"
+medium_time "0:17:49"
+points 13006
+popularity 80.23
+title "Strawberry"
+width 20
+
+color a 33ccff
+color b 666600
+color c 990000
+color d 999966
+color e 330000
+color f cc0033
+color g ff3333
+color h ffcc99
+
+rows
+b 2
+b 2
+b 3
+c 3 b 1 d 1 b 1
+c 3 b 3 c 1 b 1 d 1 b 1
+c 2 f 1 b 3 f 1 d 1 b 1 c 1 b 1 d 1 b 2
+c 1 f 2 b 1 d 3 b 1 f 1 d 1 b 1 c 2 d 1 b 1
+c 1 f 2 g 3 b 1 d 3 b 2 f 1 d 1 b 2
+c 1 f 2 g 2 e 1 g 3 b 4 d 1 b 2
+c 1 f 2 g 3 b 2 d 4 b 2 f 1 b 1
+c 1 f 2 g 3 b 1 d 3 b 1 g 1 b 5 c 1
+c 1 f 2 g 1 e 1 g 1 d 3 b 1 g 1 b 1 d 1 b 1 d 1 b 1 d 1 b 1 c 1
+c 1 f 1 g 5 b 1 g 3 d 2 g 1 d 1 b 1 f 1 b 1 c 1
+c 1 f 2 g 8 b 1 d 1 b 2 d 1 b 1 f 1 b 1 f 1
+c 1 f 2 g 1 e 1 g 3 h 1 g 1 b 1 d 2 b 2 d 1 b 1 f 3
+c 1 f 1 e 1 g 4 e 1 h 2 d 2 b 1 g 1 d 2 g 2 f 1 e 1
+c 1 f 1 g 7 h 2 b 1 h 1 g 1 d 1 b 1 g 2 f 2
+f 2 g 7 h 1 e 1 h 3 b 1 g 1 e 1 g 1 f 2
+f 2 g 4 e 1 g 3 h 5 g 3 f 2
+f 2 g 1 e 1 g 8 e 1 h 1 g 4 f 2
+f 2 g 6 e 1 g 6 e 1 g 2 e 1 f 1
+f 1 e 1 g 3 c 10 g 3 f 2
+f 3 g 1 c 1 h 10 c 1 g 2 f 2
+f 3 c 1 h 2 e 1 h 6 e 1 h 2 c 1 g 1 f 2
+f 3 c 1 h 2 e 1 h 6 e 1 h 2 c 1 f 1 e 1 f 1
+c 1 f 2 c 1 h 2 e 1 h 6 e 1 h 2 c 1 f 2 c 1
+c 1 f 2 c 1 h 12 c 1 f 2 c 1
+c 1 f 1 c 1 h 12 c 1 f 1 c 1
+c 2 h 12 c 2
+c 1 g 1 h 6 g 1 c 1
+c 1 g 4 h 2 g 4 c 1
+c 1 g 1 c 1 g 2 h 2 g 2 c 1 g 1 c 1
+c 10
+c 1 g 3 h 2 g 3 c 1
+c 8
+
+columns
+c 4 f 8 c 2
+c 3 f 8 e 1 f 5 c 1
+c 2 f 5 e 1 g 6 f 6 c 1
+c 1 f 4 g 7 e 1 g 3 c 6
+c 1 f 3 g 4 e 1 g 7 c 1 h 6 c 2
+c 1 f 2 g 3 e 1 g 9 c 1 h 7 c 1 g 2 c 2
+c 1 f 1 g 11 e 1 g 2 c 1 h 1 e 3 h 3 g 2 c 2 g 1 c 1
+c 1 f 1 b 1 g 1 e 1 g 1 b 1 d 1 g 3 e 1 g 5 c 1 h 8 g 2 c 1 g 1 c 1
+c 1 b 1 d 1 g 2 b 1 d 2 b 1 g 1 h 2 g 4 e 1 c 1 h 8 g 2 c 1 g 1 c 1
+c 1 b 1 d 1 b 1 g 1 b 1 d 2 g 3 h 3 g 3 c 1 h 10 c 1 h 1 c 1
+c 1 b 2 d 2 g 1 d 2 b 1 g 2 b 1 d 1 h 1 e 1 h 1 g 2 c 1 h 10 c 1 h 1 c 1
+c 1 b 1 f 1 b 1 d 1 b 1 d 1 b 1 g 2 b 1 d 2 b 1 h 2 g 2 c 1 h 8 g 2 c 1 g 1 c 1
+c 1 b 1 d 1 f 1 d 1 b 1 d 1 g 1 b 1 d 3 b 1 h 3 e 1 g 1 c 1 h 8 g 2 c 1 g 1 c 1
+c 1 b 1 d 1 b 2 d 1 b 1 d 2 b 2 g 2 h 3 g 1 c 1 h 1 e 3 h 3 g 2 c 2 g 1 c 1
+c 1 b 6 g 1 b 2 d 2 b 1 h 1 g 2 c 1 h 7 c 1 g 2 c 2
+c 1 f 1 d 1 b 2 d 5 b 1 g 3 e 1 g 1 c 1 h 6 c 2
+b 1 c 1 d 1 b 1 f 1 b 5 g 2 e 1 g 5 c 6
+b 3 d 2 b 4 d 1 f 3 g 9 f 4 c 1
+b 3 d 2 b 3 c 1 b 3 f 6 e 1 f 3 e 1 f 2 c 1
+b 6 c 2 f 2 e 1 f 9 c 2

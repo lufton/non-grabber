@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Nov 30, 2010"
+description "of a migrating whale."
+difficulty 1.25
+height 20
+id 11207
+link "https://webpbn.com/play.cgi?id=11207"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Just a Fluke."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 1 black 1
+black 4 black 4
+black 6 black 7
+black 7 black 8
+black 8 black 9
+black 17
+black 16 red 1
+black 14 red 1
+black 12 red 2
+black 9 red 2
+black 7 black 3
+blue 7 black 6 blue 5 black 2
+blue 7 black 6 blue 7
+blue 6 black 8 blue 6
+blue 5 black 9 blue 6
+blue 5 black 10 blue 5
+blue 20
+
+columns
+black 4 blue 6
+black 5 blue 6
+black 6 blue 6
+black 7 blue 6
+black 7 blue 6
+black 8 blue 3 black 2 blue 1
+black 8 blue 2 black 3 blue 1
+black 12 blue 1
+black 12 blue 1
+black 11 blue 1
+black 12 blue 1
+black 12 blue 1
+black 13 blue 1
+black 8 blue 2 black 3 blue 1
+black 7 blue 4 black 1 blue 1
+black 7 blue 6
+black 7 blue 6
+black 6 black 1 blue 6
+black 4 red 2 black 2 blue 5
+black 4 red 4 black 2 blue 5

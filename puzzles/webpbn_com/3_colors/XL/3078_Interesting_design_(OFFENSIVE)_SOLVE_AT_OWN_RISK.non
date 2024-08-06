@@ -1,0 +1,101 @@
+by "Adam Nielson (monkeyboy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Adam Nielson"
+date "Jul 16, 2008"
+description "I don't believe in this, and I am not biased against any racial, ethnic, political or religious groups; it's just a puzzle that I doubt has been done before."
+difficulty 3.5
+height 40
+id 3078
+link "https://webpbn.com/play.cgi?id=3078"
+note "published,definitely unique,may require some guessing"
+quality 2.25
+title "Interesting design (OFFENSIVE) SOLVE AT OWN RISK"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 40
+red 40
+red 40
+red 14 red 14
+red 11 black 2 red 11
+red 10 black 4 red 10
+red 9 black 6 red 9
+red 8 black 6 red 8
+red 7 black 6 red 7
+red 6 black 6 black 2 red 6
+red 5 black 6 black 4 red 5
+red 5 black 6 black 6 red 4
+red 4 black 6 black 8 red 4
+red 3 black 6 black 10 red 3
+red 3 black 6 black 12 red 3
+red 2 black 12 black 6 red 2
+red 2 black 10 black 6 red 2
+red 2 black 2 black 8 black 6 red 2
+red 2 black 3 black 7 black 5 red 2
+red 2 black 5 black 9 black 3 red 2
+red 2 black 6 black 11 black 1 red 2
+red 2 black 6 black 13 red 2
+red 2 black 5 black 6 black 7 red 2
+red 2 black 5 black 6 black 7 red 2
+red 2 black 10 black 7 red 2
+red 2 black 8 black 6 red 2
+red 3 black 6 black 5 red 3
+red 3 black 4 black 6 red 3
+red 4 black 2 black 6 red 4
+red 4 black 6 red 4
+red 5 black 6 red 5
+red 6 black 6 red 6
+red 6 black 6 red 7
+red 7 black 6 red 8
+red 8 black 4 red 9
+red 10 black 2 red 10
+red 13 red 13
+red 40
+red 40
+red 40
+
+columns
+red 40
+red 40
+red 15 red 14
+red 13 black 2 red 12
+red 12 black 4 red 10
+red 10 black 6 red 9
+red 9 black 7 red 7
+red 8 black 6 red 6
+red 7 black 6 red 5
+red 6 black 6 red 5
+red 5 black 5 red 4
+red 4 black 2 black 5 red 4
+red 4 black 4 black 6 red 4
+red 4 black 6 black 6 red 3
+red 3 black 8 black 6 red 3
+red 3 black 10 black 6 red 3
+red 3 black 12 black 6 red 3
+red 3 black 6 black 12 black 1 red 3
+red 3 black 5 black 10 black 3 red 3
+red 3 black 3 black 8 black 5 red 3
+red 3 black 1 black 7 black 6 red 3
+red 3 black 8 black 6 red 3
+red 3 black 10 black 6 red 3
+red 3 black 12 black 6 red 3
+red 3 black 6 black 7 black 5 red 3
+red 3 black 6 black 11 red 3
+red 4 black 6 black 9 red 3
+red 4 black 6 black 7 red 4
+red 4 black 6 black 5 red 4
+red 5 black 6 black 3 red 4
+red 6 black 6 red 5
+red 7 black 6 red 6
+red 8 black 6 red 7
+red 9 black 6 red 8
+red 10 black 6 red 9
+red 11 black 4 red 10
+red 13 black 2 red 12
+red 15 red 14
+red 40
+red 40

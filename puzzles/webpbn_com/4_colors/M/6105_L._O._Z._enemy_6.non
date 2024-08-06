@@ -1,0 +1,54 @@
+by "Mac Vail (MV17)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Mac Vail"
+date "Jun 16, 2009"
+description "Gibdos. The classic mummified guadians of several dungeons. They take alot of hits todrop, but don't do too much damage. Almost makes you wonder if they were "Ye Olde Bank Robber"."
+difficulty 1.75
+height 16
+id 6105
+link "https://webpbn.com/play.cgi?id=6105"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "L. O. Z. enemy #6"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 blue 3 green 6
+blue 3 green 2 blue 2 black 3 blue 1 green 3 blue 2
+green 1 black 1 black 1 black 1 blue 1 green 1
+green 1 blue 3 blue 1 black 5 blue 1 green 1 blue 3
+green 2 blue 5 green 1
+green 3 blue 3 blue 3 green 2
+green 4 blue 5 green 3
+green 4 blue 2 blue 2 green 3
+green 4 blue 5 green 3
+green 4 blue 2 blue 3 green 3
+green 3 blue 5 green 3
+green 3 blue 1 blue 4 green 3
+green 1 blue 3 green 2 green 3
+green 1 blue 3 green 5 blue 3 green 3
+green 10 green 1
+green 10 blue 5 green 1
+
+columns
+blue 1 green 13
+blue 1 blue 1 green 8 blue 1 green 2
+green 1 blue 1 blue 1 green 7 blue 1 green 2
+green 2 blue 1 blue 1 green 4 blue 1 blue 1 green 2
+green 3 blue 1 blue 1 blue 1 blue 1 green 2
+green 1 blue 1 blue 1 blue 1 blue 1 blue 2 blue 1 green 3
+blue 1 black 2 blue 1 blue 1 blue 1 blue 1 blue 1 green 3
+blue 1 black 1 black 1 blue 1 blue 1 blue 1 blue 1 green 4
+blue 1 black 3 blue 1 blue 1 blue 1 blue 1 green 4
+blue 1 black 1 black 1 blue 1 blue 1 blue 1 blue 2 green 3
+green 1 blue 1 black 2 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1
+green 2 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+green 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+green 2 blue 1 blue 1 green 8 blue 1
+green 1 blue 1 blue 1 green 9 blue 1
+green 1 blue 1 blue 1 green 12

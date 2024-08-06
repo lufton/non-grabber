@@ -1,0 +1,61 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 20, 2011"
+description "jigsaw puzzle piece"
+difficulty 1.5
+height 20
+id 13492
+link "https://webpbn.com/play.cgi?id=13492"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "J as in"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 19
+red 1 black 17 red 1
+red 1 black 17 red 1
+red 1 black 1 black 3 red 3 black 3 red 1
+red 1 black 1 black 2 black 2 black 3 red 3 black 3 red 1
+red 1 black 1 black 1 black 1 black 4 red 1 black 4 red 1
+red 1 black 4 black 4 red 7 black 1 red 1
+red 1 black 4 black 4 red 7 black 1 red 1
+red 1 black 4 black 4 red 7 black 1 red 1
+red 1 black 4 black 4 red 1 black 2 red 1 black 2 red 1 black 1 red 1
+red 1 black 4 black 7 red 1 black 4 red 1
+red 1 black 4 black 4 red 1 black 2 red 1 black 2 red 1 black 1 red 1
+red 1 black 4 black 4 red 7 black 1 red 1
+red 1 black 1 black 1 black 4 red 7 black 1 red 1
+red 1 black 1 black 2 black 4 red 7 black 1 red 1
+red 1 black 1 black 2 black 7 red 1 black 4 red 1
+red 1 black 1 black 6 red 3 black 3 red 1
+red 1 black 11 red 3 black 3 red 1
+red 1 black 17 red 1
+red 19
+
+columns
+0
+red 20
+red 1 black 18 red 1
+red 1 black 2 black 7 black 2 red 1
+red 1 black 2 black 1 black 7 black 2 black 2 red 1
+red 1 black 2 black 12 black 2 red 1
+red 1 black 2 black 2 red 1
+red 1 black 2 black 15 red 1
+red 1 black 2 black 1 black 13 red 1
+red 1 black 2 black 13 red 1
+red 1 black 18 red 1
+red 1 black 5 red 4 black 1 red 4 black 4 red 1
+red 1 black 5 red 3 black 3 red 3 black 4 red 1
+red 1 black 2 red 2 black 1 red 3 black 3 red 3 black 1 red 2 black 1 red 1
+red 1 black 2 red 15 black 1 red 1
+red 1 black 2 red 2 black 1 red 3 black 3 red 3 black 1 red 2 black 1 red 1
+red 1 black 5 red 3 black 3 red 3 black 4 red 1
+red 1 black 5 red 4 black 1 red 4 black 4 red 1
+red 1 black 18 red 1
+red 20

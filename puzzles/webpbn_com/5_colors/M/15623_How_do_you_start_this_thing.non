@@ -1,0 +1,63 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Aug 22, 2011"
+description "This is the new Powerflite automatic transmission controls for the Plymouth from the previous puzzle.To start the car you need to turn the ignition key on and then press the N neutral button.Once started simply press the D drive button and away you go,but release the emergency brake first because there's no park button and you have to use the brake and keep the car in neutral."
+difficulty 1.5
+height 20
+id 15623
+link "https://webpbn.com/play.cgi?id=15623"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "How do you start this thing?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 11
+green 3 blue 7 green 3
+green 4 blue 1 blue 3 blue 1 green 4
+green 5 blue 1 blue 2 blue 1 green 5
+green 5 blue 1 blue 1 blue 1 blue 1 green 6
+green 4 black 1 green 1 blue 1 blue 2 blue 1 green 2 black 1 green 3
+green 6 blue 1 blue 3 blue 1 green 6
+green 2 blue 16 green 1
+green 2 blue 1 red 3 blue 1 green 6 blue 1 blue 2 green 1
+green 2 blue 1 red 1 blue 1 red 1 blue 1 green 6 blue 1 blue 1 blue 1 green 1
+green 2 blue 1 red 2 blue 2 green 6 blue 1 blue 1 blue 1 green 1
+green 2 blue 1 red 1 blue 1 red 1 blue 1 green 6 blue 1 blue 1 blue 1 green 1
+green 2 blue 1 red 1 blue 1 red 1 blue 8 blue 2 green 1
+green 2 blue 8 blue 7 green 1
+green 6 blue 2 blue 2 green 6
+green 2 black 1 green 2 blue 3 blue 2 green 2 black 1 green 3
+green 8 blue 3 blue 2 green 5
+green 8 blue 2 blue 1 green 4
+green 8 blue 6 green 3
+green 16
+
+columns
+green 4
+green 9 green 4
+green 12 green 4
+green 5 blue 7 green 6
+green 6 blue 1 red 5 blue 1 green 6
+green 5 black 1 green 1 blue 1 red 1 blue 1 red 1 blue 3 green 1 black 1 green 4
+green 7 blue 1 red 2 blue 1 red 2 blue 1 green 6
+green 1 blue 13 green 6
+green 1 blue 1 blue 1 green 4 blue 7 green 1
+green 1 blue 2 blue 4 green 4 blue 7 green 1
+green 1 blue 3 blue 3 green 4 blue 2 blue 2 blue 1 green 1
+green 1 blue 4 blue 2 green 4 blue 1 blue 1 green 1
+green 1 blue 1 blue 1 green 4 blue 5 blue 1 green 1
+green 1 blue 7 green 4 blue 7 green 1
+green 7 blue 7 green 6
+green 7 blue 1 blue 1 green 6
+green 4 black 1 green 1 blue 1 blue 3 blue 1 green 1 black 1 green 3
+green 5 blue 2 blue 2 green 4
+green 4 blue 7 green 3
+green 12

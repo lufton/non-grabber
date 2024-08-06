@@ -1,0 +1,63 @@
+by "Mallory ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Mallory"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.25
+height 21
+id 26464
+link "https://webpbn.com/play.cgi?id=26464"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "One of my favorite bands"
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 5
+blue 3 blue 3
+black 1 blue 2 blue 1 black 1 blue 1
+blue 1 black 2 black 1 blue 2
+blue 2 black 2 black 2 blue 2
+blue 1 black 2 black 2 blue 1
+blue 2 black 3 black 3 blue 2
+blue 1 black 3 black 3 blue 1
+blue 2 black 5 black 5 blue 2
+blue 1 black 2 black 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 black 2 black 2 blue 1
+blue 1 black 3 black 3 black 3 black 3 blue 1
+blue 2 black 2 black 2 black 2 black 2 blue 2
+blue 1 black 2 black 2 black 2 black 2 blue 1
+blue 2 black 1 black 3 black 3 black 1 blue 2
+blue 1 black 2 black 2 blue 1
+blue 2 black 5 blue 2
+blue 2 black 3 blue 2
+blue 3 black 3 blue 3
+blue 3 black 1 blue 3
+blue 2 black 1 blue 2
+
+columns
+blue 5
+blue 3 blue 3
+blue 3 black 3 blue 3
+blue 2 black 7 blue 2
+black 10 blue 2
+blue 1 black 6 blue 1
+blue 2 black 6 blue 2
+blue 1 black 7 blue 1
+blue 2 black 6 blue 2
+blue 1 black 5 blue 1
+blue 1 black 5
+blue 1 black 5 blue 1
+blue 2 black 6 blue 2
+blue 1 black 7 blue 1
+blue 2 black 6 blue 2
+black 7 blue 1
+blue 2 black 8 blue 2
+blue 2 black 7 blue 2
+blue 3 black 3 blue 3
+blue 3 blue 3
+blue 5

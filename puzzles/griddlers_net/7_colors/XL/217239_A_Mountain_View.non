@@ -1,0 +1,104 @@
+by "maccironi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/31/20"
+height 40
+id 217239
+link "https://www.griddlers.net/nonogram/-/g/217239"
+medium_time "0:16:24"
+points 15133
+popularity 83.66
+title "A Mountain View"
+width 40
+
+color a FFC0CB
+color b 000000
+color d FF6699
+color e 9966CC
+color f 990099
+color g 0099CC
+color h 330099
+
+rows
+b 40
+b 40
+b 15 b 15
+b 12 b 12
+b 10 b 10
+b 9 b 9
+b 8 b 8
+b 7 b 7
+b 6 b 6
+b 5 b 5
+b 5 b 5
+b 4 b 4
+b 4 d 1 e 2 b 4
+b 3 d 2 e 3 f 1 b 3
+b 3 d 2 e 4 f 2 d 5 b 3
+b 2 d 5 d 1 d 2 e 6 f 1 d 6 b 2
+b 2 d 8 d 3 e 7 f 2 d 7 d 2 b 2
+b 2 d 13 e 8 f 3 d 12 b 2
+b 2 d 11 e 11 f 4 d 10 b 2
+b 2 d 8 e 14 f 5 d 9 b 2
+b 2 d 7 e 12 g 1 e 3 f 5 d 8 b 2
+b 2 d 5 e 14 g 2 e 3 f 5 d 7 b 2
+b 2 d 2 e 17 g 3 e 2 f 6 d 6 b 2
+b 2 d 1 e 6 g 1 e 10 g 5 e 1 f 7 d 5 b 2
+b 2 e 6 g 2 e 11 g 3 e 2 f 3 g 1 f 4 d 4 b 2
+b 3 e 5 g 3 e 8 g 6 e 2 f 2 g 2 f 4 d 2 b 3
+b 3 e 4 g 5 e 9 g 5 e 2 g 3 f 6 b 3
+b 4 e 2 g 5 e 9 g 5 e 4 g 4 f 3 b 4
+b 4 e 3 g 6 e 6 g 8 e 2 g 3 f 4 b 4
+b 5 g 7 e 6 g 5 h 1 g 2 e 2 g 5 f 2 b 5
+b 5 e 1 g 7 e 4 g 5 h 3 g 2 e 1 g 6 f 1 b 5
+b 6 e 1 g 7 h 1 e 3 g 4 h 4 g 7 f 1 b 6
+b 7 g 6 h 2 e 2 g 4 h 4 g 2 e 6 b 7
+b 8 g 4 h 4 g 4 h 6 g 2 e 4 b 8
+b 9 g 4 h 4 e 4 h 6 e 4 b 9
+b 10 g 1 h 7 e 4 h 4 e 4 b 10
+b 12 h 5 e 3 h 6 e 2 b 12
+b 15 h 3 e 3 h 4 b 15
+b 40
+b 40
+
+columns
+b 40
+b 40
+b 15 d 9 e 1 b 15
+b 13 d 10 e 4 b 13
+b 11 d 10 e 7 b 11
+b 9 d 7 e 7 g 1 e 1 b 9
+b 8 d 7 e 5 g 1 e 1 g 2 e 1 b 8
+b 7 d 5 e 5 g 7 b 7
+b 6 d 6 e 3 g 10 b 6
+b 5 d 4 e 3 g 12 b 5
+b 4 d 2 e 6 g 11 b 4
+b 4 d 2 e 7 g 1 e 1 g 7 h 1 b 4
+b 3 d 2 e 9 g 1 e 1 g 3 h 1 g 1 h 2 b 3
+b 3 d 2 e 13 g 1 h 5 b 3
+b 3 d 3 e 13 h 6 b 3
+b 2 d 2 e 16 h 5 b 2
+b 2 e 17 g 1 h 4 b 2
+b 2 e 15 g 1 e 1 g 2 e 1 h 1 e 1 h 1 b 2
+b 2 e 15 g 5 e 4 b 2
+b 2 e 12 g 1 e 2 g 6 e 4 b 2
+b 2 e 11 g 1 e 1 g 1 e 1 g 6 h 1 e 2 h 1 e 1 b 2
+b 2 e 8 g 12 h 3 e 1 h 2 b 2
+b 2 f 2 e 6 g 9 h 8 b 2
+b 2 f 4 e 4 g 7 h 9 b 2
+b 2 f 4 e 3 g 1 e 1 g 5 h 8 b 2
+b 3 f 4 e 5 g 1 e 1 g 3 h 1 g 1 h 4 b 3
+b 3 d 3 f 7 e 3 g 1 e 1 g 4 h 1 e 2 b 3
+b 3 d 4 f 8 e 5 g 1 e 1 g 1 e 3 b 3
+b 4 d 5 f 7 g 1 e 2 g 3 e 4 b 4
+b 4 d 6 f 4 g 8 e 4 b 4
+b 5 d 7 f 4 g 7 e 3 b 5
+b 6 d 8 f 5 g 5 e 2 b 6
+b 7 d 7 f 4 g 1 f 1 g 3 e 1 b 7
+b 8 d 7 f 6 g 1 f 1 b 8
+b 9 d 9 f 6 b 9
+b 11 d 10 f 3 b 11
+b 13 d 9 f 1 b 13
+b 15 d 8 b 15
+b 40
+b 40

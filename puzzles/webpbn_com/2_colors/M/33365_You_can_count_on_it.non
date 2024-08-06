@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Dec 30, 2019"
+description "Count down to the new year(and a new decade?)"
+difficulty 1.25
+height 20
+id 33365
+link "https://webpbn.com/play.cgi?id=33365"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "You can count on it"
+width 15
+
+rows
+5
+2,7
+2,3,3
+4,2
+5,2
+2,2,2
+5,2
+3,2
+2
+2
+2
+3
+3
+3
+3
+6
+6,1
+2,4,2
+5,8
+3,6
+
+columns
+1,2,3
+2,4,5
+3,2,2,2
+5,5
+5,4
+4,4
+3,3,2
+2,3,2
+2,3,2
+2,3,2
+3,4,2
+9,2
+6,2
+2
+2

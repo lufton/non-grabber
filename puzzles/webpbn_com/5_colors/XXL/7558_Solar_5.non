@@ -1,0 +1,113 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Jan  6, 2010"
+description "Solar balloons that float in the air collecting energy."
+difficulty 3.25
+height 45
+id 7558
+link "https://webpbn.com/play.cgi?id=7558"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Solar #5"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 21
+black 5 blue 19 black 5
+black 4 blue 9 black 4 blue 14 black 3
+black 2 blue 10 black 2 black 1 black 2 blue 15 black 2
+black 2 blue 10 black 1 black 1 black 1 black 1 blue 15 black 2
+black 2 blue 10 black 1 black 1 black 1 black 1 black 1 black 1 blue 15 black 2
+black 2 blue 10 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 15 black 2
+black 1 blue 10 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 15 black 1
+black 2 blue 10 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 15 black 2
+black 1 blue 10 black 1 black 3 black 1 black 1 black 1 black 2 black 1 blue 15 black 1
+black 1 blue 10 black 1 black 1 black 3 black 1 black 3 black 1 blue 15 black 1
+black 1 blue 10 black 1 black 1 black 1 black 2 black 4 black 1 black 1 blue 15 black 1
+blue 12 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 17
+blue 12 black 1 black 1 black 1 black 1 black 1 black 1 blue 17
+blue 13 black 1 black 1 black 1 black 1 black 1 black 1 blue 18
+blue 14 black 1 black 1 black 1 black 1 black 1 black 1 blue 19
+blue 15 black 1 black 2 black 1 blue 20
+blue 16 black 2 black 1 black 2 blue 21
+blue 18 black 4 blue 23
+black 8 blue 12 black 1 blue 24
+green 7 black 8 blue 5 black 1 blue 8 black 8 blue 8
+green 14 black 15 black 1 black 8
+green 20 black 1 green 4 black 2 black 8 black 2 green 4
+green 6 black 6 green 8 black 1 green 2 black 2 black 1 black 1 black 2 black 2 green 2
+green 4 black 2 black 1 black 2 green 6 black 1 green 1 black 1 black 2 black 6 black 2 black 1 green 1
+green 2 black 2 black 6 black 2 green 4 black 3 black 2 black 4 black 1 black 2 black 1 black 2
+black 2 black 2 black 1 black 3 black 2 green 2 black 4 black 3 black 1 black 3 black 2
+black 1 black 2 black 5 black 1 black 1 black 4 black 3 black 8 black 3
+black 2 black 2 black 1 black 3 black 5 black 4 black 1 black 4
+black 3 black 6 black 3 black 1 black 10 black 2
+black 3 black 1 black 3 black 1 black 2 black 1
+black 8 black 1 black 2 black 6
+black 1 black 1 black 2 black 1
+black 3 black 1 black 2 black 1 black 3
+black 6 black 3 black 1 black 2 black 8
+red 5 black 1 black 3 black 1 black 2 black 1 black 1
+red 1 black 1 red 1 black 1 red 1 black 4 black 3 black 1 black 2 black 7 black 6
+red 1 black 1 red 1 black 1 red 1 black 1 red 2 black 4 black 3 black 1 black 2 black 3 black 1 black 1 red 5
+red 5 black 1 red 5 black 1 black 3 black 2 black 1 black 7 red 4
+red 5 black 1 red 1 black 1 red 1 black 1 red 1 black 3 black 1 black 2 black 3 black 4 red 5 black 1 red 2 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 black 8 black 1 black 1 black 1 red 8 black 1 red 2 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 5 black 1 black 3 black 1 red 2 black 2 red 2 black 8 red 2 black 1 red 1 black 1 red 3 black 1 red 4
+red 5 black 1 red 1 black 3 red 1 black 1 black 1 black 3 red 2 black 1 red 3 black 1 black 1 red 8 black 1 red 2 black 1 red 1
+red 5 black 1 red 1 black 3 red 1 black 1 black 1 black 1 red 4 black 1 red 3 black 4 black 1 red 2 black 3 red 1 black 1 red 1 black 1 red 2 black 1 red 1
+red 5 black 1 red 1 black 3 red 1 black 1 black 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1 red 4 black 1 black 1 red 2 black 3 red 3 black 1 red 4
+
+columns
+black 4 blue 7 black 1 green 6 black 3 black 1 red 10
+black 3 blue 10 black 1 green 6 black 1 black 2 black 1 red 1 black 2 red 2 black 2 red 3
+black 2 blue 12 black 1 green 5 black 1 black 1 black 1 black 1 red 10
+black 2 blue 13 black 1 green 5 black 1 black 1 black 2 black 1 red 1 black 2 red 2 black 2 red 3
+black 2 blue 14 black 1 green 4 black 1 black 1 black 1 black 1 black 1 red 10
+black 2 blue 15 black 1 green 4 black 1 black 1 black 1 black 2 black 11
+black 1 blue 16 black 1 green 3 black 1 black 1 black 1 black 1 black 1 black 1 red 8
+black 1 blue 16 black 2 green 2 black 1 black 1 black 3 black 1 black 1 red 2 black 2 red 1 black 3
+black 2 blue 17 black 1 green 2 black 1 black 3 black 5 black 2 red 4 black 3
+black 1 blue 18 black 1 green 2 black 3 black 1 black 1 black 1 black 1 black 1 red 1 black 2 red 1 black 3
+black 1 blue 18 black 1 green 2 black 1 black 1 black 1 black 1 black 1 black 2 black 1 red 7
+black 1 blue 7 black 3 blue 8 black 1 green 2 black 1 black 2 black 2 black 1 black 1 black 8
+black 2 blue 5 black 2 black 2 blue 6 black 1 green 3 black 1 black 3 black 2 black 2 black 1
+black 1 blue 5 black 1 black 3 black 1 blue 5 black 1 green 3 black 1 black 1 black 1 black 1 black 1 black 6
+black 1 blue 4 black 1 black 3 black 2 black 1 blue 4 black 2 green 3 black 1 black 1 black 2 black 2 black 1
+black 1 blue 3 black 1 black 1 black 3 black 1 black 1 blue 4 black 1 green 3 black 1 black 1 black 1 black 4
+black 1 blue 2 black 1 black 1 black 1 black 1 black 1 blue 3 black 1 green 4 black 1 black 2 black 2 black 1 red 2
+black 1 blue 2 black 1 black 4 black 1 blue 3 black 1 green 4 black 3 black 1 black 3 red 1 black 1
+black 1 blue 1 black 1 black 4 black 1 black 3 black 1 blue 2 black 1 green 5 black 2 black 2 black 1 red 3 black 1
+black 1 blue 1 black 3 black 3 blue 2 black 1 green 5 black 2 black 1 black 1 red 4
+black 1 blue 1 black 1 black 3 black 1 black 2 black 27
+black 1 blue 1 black 1 black 7 black 1 blue 2 black 1 green 3 black 2 black 2 red 3
+black 1 blue 2 black 5 black 1 black 1 blue 3 black 1 green 2 black 3 black 2 red 3 black 1
+black 1 blue 2 black 1 black 5 black 1 black 1 blue 3 black 1 green 1 black 1 black 2 black 3 red 4
+black 1 blue 3 black 1 black 1 black 1 black 2 black 1 blue 4 black 1 green 1 black 1 black 1 black 1 black 2 black 4 red 1
+black 1 blue 4 black 1 black 6 black 1 blue 5 black 2 black 1 black 2 black 2 black 1 black 1 red 1
+black 1 blue 5 black 1 black 1 black 1 blue 6 black 2 black 1 black 1 black 1 black 2 black 3 black 1 red 1
+black 1 blue 6 black 2 black 2 blue 7 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 2
+black 1 blue 8 black 3 blue 9 black 1 black 1 black 2 black 2 black 2 black 5
+black 1 blue 19 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 1
+black 1 blue 19 black 1 black 1 black 1 black 1 black 1 black 2 black 2 black 1
+black 1 blue 19 black 1 black 1 black 2 black 1 black 3 black 1 black 6
+black 2 blue 18 black 3 black 1 black 1 black 2 black 1 black 1 red 5
+black 1 blue 18 black 1 black 3 black 3 black 1 black 1 red 5
+black 1 blue 18 black 1 black 1 black 4 black 1 black 1 black 2 red 1 black 1 red 1 black 2
+black 1 blue 18 black 1 black 1 black 1 black 1 black 1 black 3 black 1 red 4 black 2
+black 2 blue 17 black 1 black 1 black 2 black 1 black 1 black 1 black 3 red 2 black 1 red 1 black 2
+black 1 blue 18 black 1 black 1 black 2 black 2 black 1 black 1 red 6
+black 1 blue 18 black 1 black 1 black 1 black 1 black 1 black 1 red 4 black 1 red 1
+black 1 blue 17 black 2 black 1 black 1 black 1 black 4 black 3 red 6
+black 2 blue 16 black 2 black 1 black 2 black 1 black 1 black 1 red 1 black 7
+black 2 blue 15 black 1 green 1 black 1 black 1 black 1 black 1 black 1 black 1 red 8
+black 2 blue 14 black 1 green 1 black 1 black 2 black 1 black 4 red 8
+black 3 blue 12 black 1 green 2 black 3 black 3 black 1 black 1 red 2 black 2 red 1 black 2 red 1
+black 4 blue 9 black 1 green 3 black 1 black 1 black 1 black 1 black 1 red 8

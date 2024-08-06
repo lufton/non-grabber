@@ -1,0 +1,61 @@
+by "bryan fish (fish)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by bryan fish"
+date "Oct 29, 2005"
+description "dante hall (cheifs football)"
+difficulty 1.25
+height 20
+id 285
+link "https://webpbn.com/play.cgi?id=285"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "x-factor"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 red 1 black 2 red 1 black 2 red 2 black 2 red 1 black 3 red 1 black 3
+black 2 red 1 black 2 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 3 red 1 black 3
+black 2 red 4 black 1 red 4 black 1 red 1 black 3 red 1 black 3
+black 2 red 1 black 2 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 3 red 1 black 3
+black 2 red 1 black 2 red 1 black 1 red 1 black 2 red 1 black 1 red 3 black 1 red 3 black 1
+black 20
+black 20
+black 20
+black 3 red 7 black 1 red 8 black 1
+black 3 red 1 black 5 red 1 black 8 red 1 black 1
+black 3 red 1 black 5 red 1 black 8 red 1 black 1
+black 3 red 1 black 5 red 1 black 8 red 1 black 1
+black 3 red 1 black 5 red 1 black 8 red 1 black 1
+black 3 red 7 black 1 red 8 black 1
+black 3 red 1 black 5 red 1 black 1 red 1 black 8
+black 3 red 1 black 5 red 1 black 1 red 1 black 8
+black 3 red 1 black 5 red 1 black 1 red 1 black 8
+black 3 red 1 black 5 red 1 black 1 red 1 black 8
+black 3 red 7 black 1 red 8 black 1
+black 20
+
+columns
+black 20
+black 20
+red 5 black 15
+black 2 red 1 black 5 red 11 black 1
+black 2 red 1 black 5 red 1 black 4 red 1 black 4 red 1 black 1
+red 5 black 3 red 1 black 4 red 1 black 4 red 1 black 1
+black 8 red 1 black 4 red 1 black 4 red 1 black 1
+black 1 red 4 black 3 red 1 black 4 red 1 black 4 red 1 black 1
+red 1 black 1 red 1 black 5 red 1 black 4 red 1 black 4 red 1 black 1
+red 1 black 1 red 1 black 5 red 11 black 1
+black 1 red 4 black 15
+black 8 red 1 black 4 red 6 black 1
+red 5 black 3 red 1 black 4 red 1 black 4 red 1 black 1
+black 4 red 1 black 3 red 1 black 4 red 1 black 4 red 1 black 1
+black 4 red 1 black 3 red 1 black 4 red 1 black 4 red 1 black 1
+black 8 red 1 black 4 red 1 black 4 red 1 black 1
+red 5 black 3 red 1 black 4 red 1 black 4 red 1 black 1
+black 4 red 1 black 3 red 1 black 4 red 1 black 4 red 1 black 1
+black 4 red 1 black 3 red 6 black 4 red 1 black 1
+black 20

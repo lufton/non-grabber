@@ -1,0 +1,62 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar 14, 2024"
+description "red door and I want it painted black."
+difficulty 1.0
+height 20
+id 38352
+link "https://webpbn.com/play.cgi?id=38352"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "I see a"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+black 12
+black 1 red 10 black 1
+black 1 red 10 black 1
+black 1 red 10 black 1 black 3
+black 1 red 10 black 1 black 3
+black 1 red 10 black 1 black 3
+black 1 red 10 black 1 black 1 black 1
+black 1 red 10 black 1 black 1 black 1
+black 1 red 8 black 1 red 1 black 1 black 3
+black 1 red 10 black 1 black 1
+black 1 red 10 black 1 black 1
+black 1 red 10 black 1 black 1
+black 1 red 10 black 1 black 3 black 1
+black 1 red 10 black 1 blue 2 black 1 black 1
+black 1 red 10 black 1 blue 3 black 1
+black 1 red 10 black 1 blue 3 black 1
+
+columns
+0
+black 16
+black 1 red 15
+black 1 red 15
+black 1 red 15
+black 1 red 15
+black 1 red 15
+black 1 red 15
+black 1 red 15
+black 1 red 15
+black 1 red 7 black 1 red 7
+black 1 red 15
+black 16
+0
+black 1 blue 3
+black 2 black 1 blue 3
+black 1 black 2 blue 2
+black 3 black 1
+black 13
+black 3

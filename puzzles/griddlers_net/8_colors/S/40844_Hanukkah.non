@@ -1,0 +1,55 @@
+by "nasa17"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/20/06"
+height 13
+id 40844
+link "https://www.griddlers.net/nonogram/-/g/40844"
+medium_time "0:02:12"
+points 191
+popularity 56.02
+title "Hanukkah"
+width 17
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color f ffff00
+color g cc00cc
+color h 570e00
+
+rows
+b 1
+b 1 b 1 b 1 b 1 d 1 b 1 b 1 b 1 b 1
+f 1 c 1 e 1 g 1 d 1 g 1 e 1 f 1 d 1
+f 1 c 1 e 1 g 1 d 1 g 1 e 1 f 1 d 1
+f 1 c 1 e 1 g 1 h 1 g 1 e 1 f 1 d 1
+h 1 h 1 h 1 h 1 h 1 h 1 h 1 h 1 h 1
+h 17
+h 13
+h 9
+h 5
+h 3
+h 7
+h 11
+
+columns
+b 1 f 3 h 2
+h 1
+b 1 c 3 h 3
+h 2 h 1
+b 1 e 3 h 4 h 1
+h 3 h 2
+b 1 g 3 h 5 h 2
+h 7
+b 1 d 3 h 9
+h 7
+b 1 g 3 h 5 h 2
+h 3 h 2
+b 1 e 3 h 4 h 1
+h 2 h 1
+b 1 f 3 h 3
+h 1
+b 1 d 3 h 2

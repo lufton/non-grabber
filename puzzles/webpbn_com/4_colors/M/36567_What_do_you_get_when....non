@@ -1,0 +1,62 @@
+by "Joanne Firla (JoFirla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Joanne Firla"
+date "Mar 23, 2023"
+description "...you mix fire retardant and rain water? Answer in first comment."
+difficulty 1.75
+height 20
+id 36567
+link "https://webpbn.com/play.cgi?id=36567"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "What do you get when..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 2
+black 2 black 2
+black 2 black 3
+black 3 black 2 black 2
+black 3 black 2 black 2
+black 3 black 3 black 2
+black 7 black 4
+black 10
+black 9
+black 7 black 3 black 2
+black 2 black 6
+black 3 black 6
+black 2
+black 2
+black 2 red 2
+red 2
+blue 3 blue 2 red 2
+blue 8 red 2
+blue 10 red 2
+
+columns
+0
+0
+black 3 black 2
+black 4 black 4
+black 4 black 4
+black 6 blue 1
+black 5 blue 1
+black 6 blue 2
+black 8 blue 3
+black 4 black 4 blue 3
+black 2 black 3 blue 3
+black 2 blue 2
+black 4 blue 3
+black 6 blue 3
+black 2 black 4 black 3 blue 2
+black 6 black 2
+black 2 black 2
+black 3
+black 3 red 5
+red 5

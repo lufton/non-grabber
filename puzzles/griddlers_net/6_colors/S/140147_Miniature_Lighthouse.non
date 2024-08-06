@@ -1,0 +1,48 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/4/14"
+height 15
+id 140147
+link "https://www.griddlers.net/nonogram/-/g/140147"
+medium_time "0:01:53"
+points 462
+popularity 68.31
+title "Miniature Lighthouse"
+width 10
+
+color a 9ad1e8
+color b c0c0c0
+color c f1d539
+color d c91b17
+color e 000000
+color f ffffff
+
+rows
+c 1 d 1
+c 1 d 1 c 1 d 1
+e 6
+b 4
+b 4
+d 2 f 2
+d 1 f 2 d 1
+f 2 d 2
+f 2 d 3 f 1
+d 4 f 2
+d 3 f 2 d 1
+d 3 f 2 d 3
+d 2 f 2 d 3 f 1
+d 1 f 2 d 3 f 2
+f 3 d 3 f 4
+
+columns
+f 1
+d 3 f 1
+e 1 f 1 d 4 f 2
+c 1 e 1 b 2 d 2 f 2 d 3 f 2 d 1
+c 1 d 1 e 1 b 2 d 1 f 2 d 3 f 2 d 2
+d 1 c 1 e 1 b 2 f 2 d 3 f 2 d 3
+d 1 e 1 b 2 f 1 d 3 f 2 d 3 f 1
+e 1 f 2 d 3 f 2
+d 1 f 3
+f 1

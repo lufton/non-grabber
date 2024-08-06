@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb 26, 2011"
+description "Sheet Lightning returns!"
+difficulty 1.25
+height 15
+id 12414
+link "https://webpbn.com/play.cgi?id=12414"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Who is on the roof? # 8"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 10
+black 2 black 4
+black 3 black 4
+black 3 black 1 black 1 black 2
+black 4
+black 1 black 1 black 2
+0
+black 13
+black 2 green 12
+black 2 green 13
+black 1 green 14
+black 15
+black 1
+black 1
+black 1
+
+columns
+black 3 black 6
+black 4 black 1 black 2 green 1 black 1
+black 1 black 3 black 2 green 2 black 1
+black 1 black 3 black 1 green 3 black 1
+black 1 black 1 black 1 green 3 black 1
+black 1 black 2 black 1 green 3 black 1
+black 1 black 1 black 1 green 3 black 1
+black 2 black 1 green 3 black 1
+black 2 black 1 black 1 green 3 black 1
+black 3 black 1 green 3 black 1
+black 3 black 1 green 3 black 1
+black 1 black 1 green 3 black 1
+black 2 black 1 green 3 black 1
+black 1 black 1 green 3 black 1
+black 1 green 3 black 1

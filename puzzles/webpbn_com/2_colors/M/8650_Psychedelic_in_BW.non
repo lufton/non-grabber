@@ -1,0 +1,57 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by David Bouldin"
+date "May  3, 2010"
+description "Started out in blue as Stropharia Aeruginosa, but couldn't get the fuzzy spots at this detail level...so it became generic monochrome mushroom."
+difficulty 2.25
+height 20
+id 8650
+link "https://webpbn.com/play.cgi?id=8650"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Psychedelic in B&W"
+width 20
+
+rows
+12
+6,2
+8,2
+3,1,3,1
+2,1,1,3,2
+3,1,1,1,3,1
+2,1,2,1,3,2
+2,5,1,2,1
+4,2,2,2,1
+2,1,2,2,1
+2,1,5,3
+3,1,2,4
+2,1,1,1,1,2
+1,1,3,5
+1,1,5,3
+1,1,7
+2,2,4
+2,1
+2,2
+6
+
+columns
+5
+5,2,2
+7,1,2
+3,1,2,2,2
+3,1,1,3,1,1
+3,1,3,1,1,1
+5,3,1,1,1,1
+3,3,1,1
+1,2,1,2
+1,6,3
+1,2,2,3
+1,2,1,2,2
+1,2,1,5
+1,2,1,2,3
+1,2,1,1,2
+2,2,1,1,2
+2,2,1,1,2
+3,3,4
+3,7
+10

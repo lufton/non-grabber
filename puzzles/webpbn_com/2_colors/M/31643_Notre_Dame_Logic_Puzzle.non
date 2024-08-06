@@ -1,0 +1,67 @@
+by "Devin McCarthy (dmac21155)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Devin McCarthy"
+date "Sep 30, 2018"
+description "Stonehenge fountain at Notre Dame"
+difficulty 1.25
+height 30
+id 31643
+link "https://webpbn.com/play.cgi?id=31643"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Notre Dame Logic Puzzle"
+width 20
+
+rows
+14
+14
+14
+14
+14
+5,5
+5,5
+5,5
+9,9
+6,4,6
+5,1,4,5
+5,2,1,5
+5,2,1,5
+5,1,2,5
+5,2,1,5
+5,1,2,5
+5,2,1,5
+5,2,5
+5,4,5
+5,6,5
+5,8,5
+5,8,5
+5,8,5
+5,8,5
+5,6,5
+5,4,5
+5,8,5
+5,8,5
+5,2,2,5
+5,2,2,5
+
+columns
+25
+25
+25
+30
+30
+5,2
+5,1,1,4,4
+5,1,1,1,6,4
+5,3,10
+5,19
+5,19
+5,3,10
+5,1,1,1,6,4
+5,1,2,4,4
+5,2
+30
+30
+25
+25
+25

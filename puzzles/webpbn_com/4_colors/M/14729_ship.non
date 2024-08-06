@@ -1,0 +1,64 @@
+by "Angie Heath (bewildering3)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Angie Heath"
+date "Jun 17, 2011"
+description "dummy"
+difficulty 1.25
+height 20
+id 14729
+link "https://webpbn.com/play.cgi?id=14729"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "ship"
+width 22
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 4
+green 1 black 1 black 1
+green 1 black 4
+green 1 blue 4 black 1
+green 1 blue 4 black 1
+green 1 blue 1 black 7
+green 1 blue 1 black 1
+green 1 blue 3 black 3
+green 1 blue 3 black 1 black 1
+green 1 blue 14
+green 1 blue 14
+green 1 blue 14
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+
+columns
+0
+green 20
+0
+0
+0
+0
+0
+0
+blue 3
+blue 3
+blue 2 blue 3
+blue 2 blue 3
+blue 2 blue 5
+blue 9
+blue 5
+black 1 blue 3
+black 1 blue 3
+black 3 black 1 black 2 blue 3
+black 1 black 6 blue 3
+black 1 black 1 black 1 black 2 blue 3
+black 3 black 1 blue 3
+black 1 blue 3

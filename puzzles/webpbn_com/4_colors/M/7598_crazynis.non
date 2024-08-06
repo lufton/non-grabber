@@ -1,0 +1,62 @@
+by "Veruca Salt (verucasalt12)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Veruca Salt"
+date "Jan 13, 2010"
+description "colorful"
+difficulty 1.25
+height 20
+id 7598
+link "https://webpbn.com/play.cgi?id=7598"
+note "published,definitely non-unique,may require some guessing"
+quality 1.25
+title "crazynis"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 9 green 2 black 9
+blue 2 green 2 black 2
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+green 9 blue 1 black 1 green 9
+green 9 black 1 blue 1 green 9
+blue 1 black 1 green 2 blue 1 black 1
+blue 1 black 1 green 2 blue 1 black 1
+blue 1 black 1 green 2 blue 1 black 1
+blue 1 black 1 green 2 blue 1 black 1
+blue 1 black 1 green 2 blue 1 black 1
+blue 1 black 1 green 2 blue 1 black 1
+blue 1 black 1 green 2 blue 1 black 1
+blue 1 black 1 green 2 blue 1 black 1
+black 9 green 2 blue 9
+
+columns
+blue 9 green 2 blue 8 black 1
+blue 2 green 2 black 2
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+blue 1 blue 1 green 2 black 1 black 1
+green 9 blue 1 black 1 green 9
+green 9 black 1 blue 1 green 9
+black 1 black 1 green 2 blue 1 blue 1
+black 1 black 1 green 2 blue 1 blue 1
+black 1 black 1 green 2 blue 1 blue 1
+black 1 black 1 green 2 blue 1 blue 1
+black 1 black 1 green 2 blue 1 blue 1
+black 1 black 1 green 2 blue 1 blue 1
+black 1 black 1 green 2 blue 1 blue 1
+black 2 green 2 blue 2
+black 9 green 2 black 8 blue 1

@@ -1,0 +1,68 @@
+by "henika"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/21/06"
+height 23
+id 39132
+link "https://www.griddlers.net/nonogram/-/g/39132"
+medium_time "0:02:40"
+points 1114
+popularity 67.88
+title "Pyramids"
+width 23
+
+color a ccccff
+color c cc9900
+color d ffff00
+color e 996600
+color f ffff99
+
+rows
+f 4
+f 6
+f 8
+f 8
+f 8
+f 6
+f 4 c 1 e 1
+c 2 d 1 e 2
+c 3 d 2 e 3
+c 4 d 3 e 3 c 1
+c 5 d 4 e 2 c 1
+c 6 d 5 e 1 c 1
+c 7 d 6 c 1
+c 8 d 7
+c 8 d 8
+c 9 d 8
+c 10 d 8
+c 11 d 8
+c 11 d 9
+c 12 d 9
+c 13 d 9
+c 13 d 10
+c 13 d 10
+
+columns
+f 3 c 2
+f 5 c 3
+f 7 c 4
+f 7 c 5
+f 7 c 6
+f 7 c 7
+f 5 c 8
+f 3 c 9
+c 10
+c 11
+c 12
+c 13
+c 14
+c 13 d 2
+c 11 d 5
+c 8 d 9
+d 16
+d 15
+d 14
+e 1 d 13
+e 3 d 12
+e 5 d 11
+e 3 c 4 d 10

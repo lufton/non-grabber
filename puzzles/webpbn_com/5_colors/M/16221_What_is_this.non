@@ -1,0 +1,63 @@
+by "Sebastian (Dorako123)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sebastian"
+date "Oct 28, 2011"
+description "It seems familiar to me but i don't know what is that thing"
+difficulty 1.5
+height 20
+id 16221
+link "https://webpbn.com/play.cgi?id=16221"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What is this?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 2 black 3
+black 1 black 1 black 1 black 1
+black 18
+black 1 black 1
+black 1 black 10 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 10 black 1
+black 1 black 1
+black 1 red 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 8 black 1
+green 3 black 1 black 1 green 3
+green 3 black 1 black 1 green 3
+green 4 black 12 green 4
+
+columns
+black 1 green 3
+black 1 black 1 green 3
+black 1 black 10 green 3
+black 2 black 5 green 1
+black 1 black 1
+black 1 black 7 black 1
+black 1 black 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 blue 3 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1
+black 1 black 1 blue 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2 black 1
+black 1 black 7 black 1
+black 2 black 1
+black 1 black 1 black 5 green 1
+black 1 black 10 green 3
+black 1 black 1 green 3
+black 1 green 3

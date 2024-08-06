@@ -1,0 +1,87 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kim"
+date "Jun 21, 2013"
+description "I do hope Joe makes another illumination. It did provide some illumination to me to spark a little creativity! Thank you, Joe!"
+difficulty 2.5
+height 15
+id 22218
+link "https://webpbn.com/play.cgi?id=22218"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.5
+title "What Joe was trying to tell us"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 2 black 4
+green 2 green 2 black 2 black 2
+green 3 black 1 black 1
+black 1 black 2 black 1
+blue 2 black 1 blue 2 black 2 black 2 black 25
+blue 3 black 1 blue 3 black 3 black 1 blue 1 blue 2 black 1 black 1 blue 1 blue 1 black 1
+blue 3 black 1 blue 3 black 2 black 1 blue 4 black 1 blue 2 blue 2 black 1 blue 3 black 1
+blue 4 black 1 blue 4 black 4 black 1 blue 4 black 1 blue 7 black 1 blue 3 black 1
+blue 4 black 1 blue 4 black 2 black 2 black 3 black 1 blue 4 black 1 blue 7 black 1 blue 3 black 1
+blue 9 black 2 black 1 black 3 black 1 blue 3 black 1 black 1 blue 3 black 1
+blue 9 black 1 black 4 black 25
+blue 7 black 2 black 2
+blue 7 black 3 black 2
+blue 5 black 3 black 5
+black 3 black 3
+
+columns
+green 1 blue 4
+green 2 blue 8
+green 2 blue 10
+green 1 blue 10
+green 2 black 6 blue 5
+green 2 blue 10
+green 1 blue 10
+blue 8
+blue 4
+0
+0
+black 4
+black 3 black 2 black 3
+black 2 black 2 black 2 black 2
+black 1 black 4 black 2
+black 1 black 3 black 1
+black 2 black 2 black 2 black 2
+black 4 black 3 black 2
+black 4
+black 3 black 1
+black 3 black 2
+black 2 black 1
+black 1 black 1
+0
+0
+black 7
+black 1 blue 2 black 1
+black 1 blue 3 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 1 black 1
+black 7
+black 1 blue 3 black 1
+black 1 blue 3 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 2 black 1
+black 1 blue 3 black 1
+black 1 blue 3 black 1
+black 7
+black 1 black 1
+black 1 black 1
+black 1 blue 5 black 1
+black 1 blue 4 black 1
+black 1 blue 5 black 1
+black 1 black 1
+black 1 black 1
+black 7

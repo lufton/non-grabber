@@ -1,0 +1,92 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/26/05"
+height 45
+id 24553
+link "https://www.griddlers.net/nonogram/-/g/24553"
+medium_time "0:13:21"
+points 6742
+popularity 63.91
+title "Life Guard"
+width 22
+
+color a 008800
+color b dc0000
+color c fffe00
+color d 0000ce
+color e fffefe
+color f ffa2af
+color g 808080
+color h 000000
+
+rows
+c 2
+d 3 c 2 d 3
+d 8
+d 8
+d 8
+d 1 c 6 d 1
+h 2 c 4 h 2
+h 1 f 6 h 1
+f 1 h 1 f 1 h 1 f 2 h 1 f 1 h 1 f 1
+f 10
+f 1 h 1 f 4 h 1 f 1
+f 2 h 4 f 2
+f 2 b 2 f 2
+c 3 f 2 c 3
+h 7 c 3 e 2 c 3 h 7
+c 1 b 1 c 1 b 1 c 1 b 12 c 1 b 1 c 1 b 1 c 1
+c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 8 c 1 b 1 c 1 b 1 c 1 b 1 c 1
+c 1 b 1 c 1 b 1 c 1 b 12 c 1 b 1 c 1 b 1 c 1
+b 7 c 1 b 4 c 1 b 7
+b 3 h 1 b 12 h 1 b 3
+b 3 h 1 b 4 c 1 b 2 c 1 b 4 h 1 b 3
+b 3 h 1 b 12 h 1 b 3
+b 3 h 1 b 4 c 1 b 2 c 1 b 4 h 1 b 3
+b 3 h 1 b 12 h 1 b 3
+b 3 h 5 c 2 h 5 b 3
+b 3 h 5 c 2 h 5 b 3
+b 2 h 1 b 5 d 2 b 5 h 1 b 2
+b 3 h 1 b 4 d 4 b 4 h 1 b 3
+e 2 h 1 b 5 d 4 b 5 h 1 e 2
+e 1 h 2 b 4 d 6 b 4 h 2 e 1
+f 2 b 4 d 6 b 4 f 2
+f 2 e 1 g 4 e 1 g 4 f 2
+f 1 e 1 g 2 e 1 g 1 e 1 g 2 e 1 g 1 f 1
+e 1 g 1 e 2 g 1 e 1 g 1 e 2 g 1
+e 4 g 1 e 4 g 1
+e 4 g 1 e 4 g 1
+e 4 g 1 e 3 g 2
+e 2 g 2 e 2 g 2
+f 2 h 1 f 2 h 1
+f 2 h 1 f 2 h 1
+f 2 h 1 f 2 h 1
+f 2 h 1 f 2 h 1
+f 2 h 1 f 2 h 1
+f 1 e 1 f 1 h 1 f 1 e 1 f 1 h 1
+f 2 h 2 f 2 h 2
+
+columns
+h 1 c 3
+h 1 b 9 b 1 e 2
+h 1 c 3 b 10 e 1 h 1 f 3
+h 1 b 13 h 2 f 2
+h 1 c 3 b 1 h 5 b 2 h 2 b 3
+h 1 b 9 h 2 b 5
+f 2 h 1 b 1 c 1 b 7 h 2 b 5 e 6
+d 5 h 3 f 3 c 2 b 9 h 2 b 5 g 3 e 4 f 2
+d 4 c 1 h 1 f 3 h 1 f 2 c 2 b 3 c 1 b 5 h 2 b 3 d 2 g 2 e 5 f 5 e 1 f 1
+d 4 c 2 f 1 h 1 f 2 h 1 f 1 c 2 b 5 c 1 b 1 c 1 b 1 h 2 b 1 d 4 g 1 e 5 g 1 f 6 h 1
+c 2 d 3 c 2 f 4 h 1 b 1 f 1 e 1 b 9 c 2 d 5 g 7 h 7
+c 2 d 3 c 2 f 4 h 1 b 1 f 1 e 1 b 9 c 2 d 5 e 7 f 7
+d 4 c 2 f 1 h 1 f 2 h 1 f 1 c 2 b 5 c 1 b 1 c 1 b 1 h 2 b 1 d 4 g 3 e 4 f 5 e 1 f 1
+d 4 c 1 h 1 f 3 h 1 f 2 c 2 b 3 c 1 b 5 h 2 b 3 d 2 g 2 e 4 g 1 h 5 f 1 h 1
+d 5 h 3 f 3 c 2 b 9 h 2 b 5 g 1 e 4 g 2 h 2
+f 2 h 1 b 1 c 1 b 7 h 2 b 5 g 6
+h 1 b 9 h 2 b 5
+h 1 c 3 b 1 h 5 b 2 h 2 b 3
+h 1 b 13 h 2 f 2
+h 1 c 3 b 10 e 1 h 1 f 3
+h 1 b 9 b 1 e 2
+h 1 c 3

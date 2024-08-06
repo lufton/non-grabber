@@ -1,0 +1,78 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Wombat"
+date "Jul 10, 2024"
+description "A fishbowl"
+difficulty 2.0
+height 25
+id 38734
+link "https://webpbn.com/play.cgi?id=38734"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Unoriginal puzzle concept"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 2 blue 2
+blue 3 blue 3
+blue 2 blue 3 blue 3 blue 2
+blue 1 blue 3 blue 3 blue 1
+blue 2 blue 3 blue 3 blue 2
+blue 1 blue 10 blue 1
+blue 1 green 1 blue 1
+blue 1 green 2 green 2 green 2 blue 1
+blue 1 green 2 green 1 green 1 blue 1
+blue 1 green 1 green 1 green 1 blue 1
+blue 1 green 1 green 1 green 1 blue 1
+blue 1 red 1 green 2 green 3 green 1 blue 1
+blue 1 red 4 red 2 green 1 green 1 green 1 green 2 blue 1
+blue 2 red 2 black 1 red 4 green 3 green 4 blue 2
+blue 1 red 4 black 1 red 2 black 2 green 2 black 2 green 2 blue 1
+blue 2 black 7 red 1 black 2 green 1 black 4 green 2 blue 2
+blue 2 black 12 green 1 black 4 green 1 black 2 blue 2
+blue 2 black 12 green 1 black 7 blue 2
+blue 3 black 16 blue 3
+blue 3 black 12 blue 3
+blue 14
+
+columns
+blue 10
+blue 3 blue 3
+blue 2 blue 2
+blue 2 blue 2
+blue 4 blue 2
+blue 1 blue 1 black 2 blue 1
+blue 2 blue 2 black 2 blue 2
+blue 1 blue 1 red 1 black 4 blue 1
+blue 2 blue 2 red 3 black 4 blue 2
+blue 1 blue 1 red 1 black 1 red 1 black 5 blue 1
+blue 2 blue 2 red 3 black 5 blue 1
+blue 1 blue 1 red 3 black 5 blue 1
+blue 1 blue 1 red 1 black 6 blue 1
+blue 1 blue 1 red 3 black 5 blue 1
+blue 1 blue 1 red 2 red 2 black 4 blue 1
+blue 1 blue 1 black 6 blue 1
+blue 1 blue 1 green 4 black 6 blue 1
+blue 1 blue 1 green 2 green 7 black 2 blue 1
+blue 1 blue 1 green 1 green 2 black 5 blue 1
+blue 2 blue 2 green 3 black 6 blue 1
+blue 1 blue 1 green 5 black 6 blue 1
+blue 2 blue 2 green 1 green 3 black 4 blue 2
+blue 1 blue 1 green 4 black 2 blue 1
+blue 2 blue 2 green 9 black 2 blue 2
+blue 1 blue 1 green 2 green 2 black 2 blue 1
+blue 4 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 3 blue 3
+blue 10

@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Jan 18, 2013"
+description "While most PGA tournaments have sponsors with exotic, prestigious, etc. names, the Phoenix Open is now sponsored by garbage. Actually the Waste Management company. Well, I guess somebody's gotta do it. It just sounds so unromantic for a golf tournament that attracts the biggest crowds on the tour."
+difficulty 1.75
+height 20
+id 20907
+link "https://webpbn.com/play.cgi?id=20907"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Phoenix Open since 2009"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 7 black 7
+black 8 black 8
+black 9 black 9
+blue 8 black 1 black 1 red 9
+blue 8 red 9
+blue 5 blue 1 red 1 red 5
+blue 1 green 2 blue 2 blue 1 red 1 red 5
+blue 1 green 2 blue 5 red 5 blue 2 red 2
+blue 1 green 2 blue 5 red 5 blue 2 red 2
+blue 1 green 2 blue 3 green 3 red 5 blue 2 red 2
+green 3
+green 1
+green 16
+black 4 green 12
+black 1 black 2 green 12
+black 1 black 2 green 12
+black 5 green 12
+black 6 green 10
+black 2 black 2 black 2
+0
+
+columns
+black 3 blue 7
+black 3 blue 3 green 4 green 1 black 5
+black 3 blue 3 green 4 green 1 black 1 black 2
+black 3 blue 7 green 1 black 1 black 3
+black 3 blue 7 green 1 black 6
+black 3 blue 2 blue 3 green 1 black 4
+black 3 blue 2 blue 2 green 8 black 1
+black 2 blue 6 green 2 green 6
+black 2 green 2 green 6
+green 6
+black 1 green 6
+black 1 red 7 green 6 black 1
+black 2 red 2 red 3 green 6 black 1
+black 3 red 2 red 3 green 6
+black 3 red 7 green 6 black 1
+black 3 red 7 green 6 black 1
+black 3 red 4 blue 3 green 6
+black 3 red 4 blue 3 green 4
+black 3 red 7
+black 3 red 2 red 3

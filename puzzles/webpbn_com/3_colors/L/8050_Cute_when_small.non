@@ -1,0 +1,76 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Mar 15, 2010"
+description "Not nice in the least when big."
+difficulty 2.75
+height 25
+id 8050
+link "https://webpbn.com/play.cgi?id=8050"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Cute when small"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1
+black 1
+black 5 black 1
+black 2 black 2 black 1
+black 8 black 7
+black 2 green 1 green 1 black 1 black 2
+black 1 green 7 green 4 black 1 green 1 black 1
+black 1 green 1 green 1 green 2 green 2 green 1 black 1 green 2 black 1
+green 12 green 7 green 1 black 1 black 1
+green 1 green 1 green 1 green 3 green 1 black 1
+green 12 green 4 green 1 black 1
+black 8 green 2 green 1 green 3 green 1 black 1
+black 2 green 2 green 4 green 1 green 1 black 1
+black 1 green 8 green 1 green 4 green 3 black 1
+black 1 green 11 green 4 green 5 black 1
+black 1 green 1 green 7 green 7 black 1
+black 1 green 24 black 1
+black 1 green 1 black 1
+black 1 black 24 black 1
+black 3 black 3 black 3 black 3 black 3 black 3
+black 2 black 1 black 1 black 1 black 1 black 2
+black 2 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 2
+black 2 green 3 black 1 green 3 black 1 green 3 black 1 green 3 black 1 green 3 black 2
+black 2 green 1 black 3 green 1 black 3 green 1 black 3 green 1 black 3 green 1 black 2
+black 24
+
+columns
+green 3
+green 1 green 1
+black 1 green 1 green 1 black 12
+black 2 green 1 green 1 black 2 green 2 green 1 black 5
+black 1 green 2 green 1 black 1 green 2 green 1 black 2 black 2
+black 1 green 1 green 1 green 1 black 1 green 2 green 1 black 1 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 green 2 green 1 black 1 green 3 black 1
+black 1 green 1 green 1 green 1 black 1 green 2 green 1 black 2 green 1 black 2
+black 1 green 1 green 1 green 1 black 1 green 2 green 1 black 7
+black 1 green 1 green 1 green 1 black 1 green 2 green 1 black 2 black 2
+black 1 green 3 green 5 green 1 black 1 green 2 black 1
+black 1 green 2 green 7 green 1 black 1 green 3 black 1
+black 2 green 1 green 1 green 1 black 2 green 1 black 2
+black 1 green 1 green 3 black 7
+black 1 green 1 green 2 black 2 black 2
+black 1 green 1 green 2 black 1 green 2 black 1
+black 1 green 2 green 1 green 1 green 2 black 1 green 3 black 1
+black 1 green 1 green 1 green 1 green 3 black 2 green 1 black 2
+black 1 green 9 black 7
+black 1 green 10 black 2 black 2
+black 2 green 8 green 1 black 1 green 2 black 1
+black 1 green 2 green 1 green 2 black 1 green 3 black 1
+black 1 green 7 green 3 black 2 green 1 black 2
+black 1 green 1 green 4 black 7
+black 1 green 1 green 5 black 2 black 2
+black 9 green 4 black 1 green 2 black 1
+black 1 green 2 green 3 black 1 green 3 black 1
+black 1 green 1 green 2 black 2 green 1 black 2
+black 2 black 5
+black 16

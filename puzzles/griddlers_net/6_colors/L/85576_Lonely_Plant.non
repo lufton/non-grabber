@@ -1,0 +1,83 @@
+by "nasa17"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/20/09"
+height 35
+id 85576
+link "https://www.griddlers.net/nonogram/-/g/85576"
+medium_time "0:33:10"
+points 42985
+popularity 74.53
+title "Lonely Plant"
+width 25
+
+color a 323232
+color b 907a47
+color c caab63
+color d 68a82f
+color e 4b801e
+color f a04213
+
+rows
+c 7 b 11 c 3
+c 6 b 2 c 2 b 2 c 3
+c 5 b 2 c 1 b 2 c 1
+c 4 b 2 c 1 b 1 c 1
+c 3 b 2 c 1 d 2 e 1 d 1 b 2
+c 2 b 2 c 1 d 1 e 4 d 1 b 2
+c 1 b 2 c 1 d 1 e 1 e 1 e 1 d 1 b 2
+b 2 c 1 e 1 b 2
+b 1 c 1 d 1 e 1 d 1 e 1 d 2 b 2
+b 2 c 1 d 1 e 1 e 2 d 2 b 2
+b 1 c 1 d 1 d 1 e 1 d 1 d 1 b 2
+b 1 c 1 e 1 e 1 d 1 b 2
+b 2 d 1 e 1 d 1 b 2
+b 2 d 1 e 2 e 2 e 2 d 1 b 2
+b 2 d 1 e 1 e 4 e 1 d 1 f 2 b 2
+b 2 d 1 e 1 d 1 d 1 e 1 d 1 f 4 b 2
+b 2 e 1 d 1 e 1 d 1 f 6 b 2
+b 2 d 1 e 2 f 8 b 2
+b 2 e 2 f 10 b 2
+b 2 e 1 f 11 b 2
+b 2 f 2 e 2 f 10 b 2
+b 2 f 2 c 2 f 8 b 2
+b 2 f 3 c 6 f 7 b 2
+b 2 f 5 c 6 f 7
+b 2 f 6 c 6 f 5 c 2
+b 2 f 7 c 4 f 4 c 4
+b 2 f 7 c 4 f 2 c 4
+b 2 f 8 f 1 c 4 c 2
+b 2 f 11 c 4 c 1 c 2
+b 2 f 9 c 4 c 3 c 2
+b 2 f 7 c 4 c 5 c 2
+b 2 f 5 c 4 c 6 c 2
+b 2 f 3 c 4 c 2 c 6 c 2
+b 2 f 1 c 4 c 4 c 6 c 2
+b 1 c 4 c 6 c 6 c 2
+
+columns
+c 7 b 26
+c 6 b 3 c 2 b 22
+c 5 b 2 c 2 f 10
+c 4 b 2 c 1 f 10 c 1
+c 3 b 2 c 1 f 10 c 1
+c 2 b 2 c 1 d 1 f 10 c 2
+c 1 b 2 c 1 d 2 e 2 d 1 f 10 c 2
+b 2 c 1 d 1 e 1 d 2 f 10 c 2
+b 1 c 1 d 1 e 1 d 2 d 1 e 1 f 1 f 6 c 2
+b 1 c 1 d 1 e 1 d 1 e 1 e 1 f 1 c 3 f 3 c 2 c 1
+b 1 c 1 d 1 e 1 e 1 e 1 d 1 f 1 c 5 f 2 c 2 c 1
+b 1 e 4 d 1 d 1 e 4 e 4 c 6 f 1 c 2 c 2
+b 1 e 1 e 3 e 6 f 1 e 1 c 6 f 1 c 2 c 2
+b 1 d 2 e 1 d 1 e 1 d 1 e 1 f 3 c 5 c 2 c 3
+b 1 d 1 d 3 e 1 d 2 f 3 c 3 f 1 c 2 c 3
+b 1 d 1 e 1 e 1 f 5 f 2 c 2
+b 1 d 2 e 1 f 10 c 2 c 4
+b 1 d 2 f 10 c 2 c 5
+b 1 f 10 c 2 c 5
+b 1 f 10 c 2 c 6
+b 1 f 10 c 2 c 6
+b 1 f 10 c 2 c 7
+c 2 b 1 f 10 c 2
+c 2 b 21 c 2 c 8
+c 4 b 19 c 2 c 8

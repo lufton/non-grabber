@@ -1,0 +1,47 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Mar 20, 2020"
+description "Box"
+difficulty 1.25
+height 10
+id 33740
+link "https://webpbn.com/play.cgi?id=33740"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Boom!"
+width 20
+
+rows
+4
+1,1
+18
+2,2
+1,2,1,1,2,1
+1,4,4,1
+1,4,6,4,1
+1,2,6,2,1
+2,2
+18
+
+columns
+6
+2,2
+1,2,1
+1,4,1
+1,4,1
+1,2,1
+1,1
+2,2,1
+1,1,1,2,1
+1,1,2,1
+1,1,2,1
+1,1,1,2,1
+2,2,1
+1,1
+1,2,1
+1,4,1
+1,4,1
+1,2,1
+2,2
+6

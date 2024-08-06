@@ -1,0 +1,57 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jota"
+date "Mar 26, 2011"
+description "It was a couple who bought the computer. The man was red headed and looked like a french Canadian martial arts professor. The woman wore glasses, was pregnant and looked latin."
+difficulty 1.25
+height 20
+id 13036
+link "https://webpbn.com/play.cgi?id=13036"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "First set of clues are a real surprise ..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 1 black 1
+black 2 black 2
+black 5
+black 1 blue 1 black 1 blue 1 black 1
+black 3
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 1 black 1 red 1 black 1 black 1 black 2
+black 9 black 1
+black 5 black 2
+black 7 black 1
+black 5 black 3
+black 5
+black 3
+black 2 black 1
+black 2
+0
+0
+
+columns
+0
+0
+black 2
+black 1
+black 3 black 5 black 1
+black 3 blue 1 black 11
+black 3 red 3 black 6
+black 3 blue 1 black 12
+black 3 black 5 black 1
+black 1 black 1
+black 2 black 2
+black 1
+black 3
+black 3
+black 1

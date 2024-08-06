@@ -1,0 +1,63 @@
+by "Amanda Carter (mandybear)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Amanda Carter"
+date "Mar 28, 2010"
+description "A nice little home with an apple tree"
+difficulty 1.5
+height 20
+id 8189
+link "https://webpbn.com/play.cgi?id=8189"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Where the heart is"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 black 1 blue 1 black 1 blue 13
+blue 5 black 1 blue 5 black 1 blue 8
+blue 10 black 1 red 1 black 1 blue 3 black 1 blue 1 black 1 blue 1
+blue 9 black 1 red 3 black 1 blue 3 black 1 blue 2
+blue 1 green 3 blue 4 black 1 red 5 black 1 blue 5
+green 5 blue 2 black 1 red 7 black 1 blue 4
+green 1 red 1 green 3 blue 1 black 1 red 9 black 1 blue 3
+green 3 red 1 green 1 black 13 blue 2
+green 5 black 1 black 1 blue 2
+green 1 black 2 green 1 red 1 black 1 black 3 black 3 black 1 blue 2
+blue 1 black 2 blue 2 black 1 black 1 black 1 black 1 black 1 black 1 blue 2
+blue 1 black 2 blue 2 black 1 black 3 black 3 black 1 blue 2
+green 1 black 2 green 2 black 1 black 1 green 2
+green 1 black 2 green 2 black 1 black 3 black 1 green 2
+green 1 black 2 green 2 black 1 black 2 black 1 black 1 black 2 black 1 green 2
+green 1 black 2 green 2 black 1 black 2 black 1 black 1 black 2 black 1 green 2
+green 5 black 1 black 1 black 1 black 1 green 2
+green 1 red 1 green 1 red 1 green 1 black 13 green 1 blue 1
+green 18 blue 2
+green 4 red 1 green 11 blue 4
+
+columns
+blue 5 green 5 blue 2 green 8
+blue 4 green 2 red 1 green 2 black 7 green 1 red 1 green 2
+blue 4 green 5 black 7 green 4
+blue 4 green 3 red 1 green 2 blue 2 green 5 red 1 green 2
+black 1 blue 4 green 4 red 1 blue 2 green 7 red 1
+blue 1 black 1 blue 5 black 11 green 2
+black 1 blue 5 black 2 black 1 green 2
+blue 5 black 1 red 1 black 1 black 3 black 2 black 1 green 2
+blue 4 black 1 red 2 black 1 black 1 black 1 black 2 black 1 green 2
+blue 3 black 1 red 3 black 1 black 3 black 1 green 2
+blue 2 black 1 red 4 black 1 black 5 green 2
+blue 1 black 1 red 5 black 1 black 1 black 1 green 2
+blue 2 black 1 red 4 black 1 black 5 green 2
+blue 3 black 1 red 3 black 1 black 3 black 1 green 2
+blue 4 black 1 red 2 black 1 black 1 black 1 black 2 black 1 green 2
+blue 5 black 1 red 1 black 1 black 3 black 2 black 1 green 2
+blue 2 black 1 blue 3 black 2 black 1 green 1 blue 1
+blue 3 black 1 blue 3 black 11 green 1 blue 1
+blue 2 black 1 blue 9 green 6 blue 2
+blue 12 green 5 blue 3

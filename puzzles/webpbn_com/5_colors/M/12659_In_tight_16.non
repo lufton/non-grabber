@@ -1,0 +1,63 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar 10, 2011"
+description "This one's a breeze"
+difficulty 1.5
+height 20
+id 12659
+link "https://webpbn.com/play.cgi?id=12659"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "In tight #16"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 7
+green 7
+red 16
+red 1
+black 3 red 1
+red 16
+black 7 red 1 blue 3
+black 9 red 1 blue 1
+red 16 blue 1 red 1
+black 11 red 1 blue 1 red 1
+black 11 red 1 blue 1
+red 16 blue 1 black 1
+black 11 red 1 blue 1 black 1
+black 10 red 1 blue 1
+red 16 blue 2 black 1
+black 8 red 1 black 2
+black 6 red 1 black 2
+red 16 black 2
+
+columns
+red 1 red 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+red 1 red 1 black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+green 2 red 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+green 2 red 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+green 2 red 1 black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+green 2 red 1 black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+green 2 red 1 black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 1 red 1
+green 2 red 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 1 red 1
+green 2 red 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 red 1
+red 1 red 1 black 1 red 1 black 2 red 1 black 2 red 1 red 1
+red 1 red 1 red 1 black 2 red 1 black 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 16
+black 1
+blue 9 black 2
+blue 1 blue 1 black 2
+blue 1 red 2 black 2 black 2

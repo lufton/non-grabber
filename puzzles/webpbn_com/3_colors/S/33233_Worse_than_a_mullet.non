@@ -1,0 +1,51 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by sanane samanye"
+date "Nov 25, 2019"
+description "Hipster fashion"
+difficulty 1.25
+height 20
+id 33233
+link "https://webpbn.com/play.cgi?id=33233"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Worse than a mullet"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1
+black 3
+black 4
+black 5
+black 1
+0
+black 1 black 1
+0
+black 4
+black 2 black 1
+black 4
+red 1 black 4
+red 2 black 4 red 1
+black 2 red 1 black 4 red 1 black 1
+black 2 red 2 black 2 red 2 black 1
+red 2 black 2 red 2 black 2 red 2
+red 2 black 2 red 2 black 2 red 2
+black 2 red 2 black 2 red 2 black 2
+black 2 red 2 black 2 red 2 black 2
+
+columns
+black 2 red 2 black 2
+red 1 black 2 red 2 black 2
+black 2 red 4 black 2 red 2
+black 2 black 6 red 1 black 2 red 2
+black 3 black 1 black 7 red 2 black 2
+black 4 black 1 black 5 red 2 black 2
+black 3 black 1 black 6 red 1 black 2 red 2
+red 3 black 2 red 2
+black 2 red 2 black 2
+red 2 black 2

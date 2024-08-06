@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Feb  1, 2011"
+description "After Kai's Rhythm stick puzzle."
+difficulty 1.5
+height 15
+id 12022
+link "https://webpbn.com/play.cgi?id=12022"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "A moment later"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 3
+black 4 black 2 black 2
+black 2 black 2
+black 3 black 1 black 1
+black 2 black 2
+black 6 black 2 black 2
+black 3
+red 1
+red 5
+red 1
+0
+0
+0
+green 15
+
+columns
+green 1
+black 1 black 1 red 1 green 1
+black 1 black 1 red 1 green 1
+black 1 black 1 black 1 red 1 green 1
+black 1 black 1 black 1 red 1 green 1
+black 1 black 1 red 1 green 1
+black 1 red 1 red 1 green 1
+black 3 green 1
+black 2 black 2 green 1
+black 2 black 2 green 1
+black 1 black 1 green 1
+black 2 black 2 green 1
+black 2 black 2 green 1
+black 3 green 1
+green 1

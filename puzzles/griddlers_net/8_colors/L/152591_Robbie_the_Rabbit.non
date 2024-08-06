@@ -1,0 +1,81 @@
+by "HeinzMonkey"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/18/15"
+height 38
+id 152591
+link "https://www.griddlers.net/nonogram/-/g/152591"
+medium_time "0:15:36"
+points 9766
+popularity 65.33
+title "Robbie the Rabbit"
+width 18
+
+color a ff6633
+color b 000000
+color c ffffff
+color d ff0000
+color e 660000
+color f ff7272
+color g 006600
+color h ffbcff
+
+rows
+h 4 h 4
+h 6 h 6
+h 2 c 2 h 3 h 3 c 2 h 2
+h 2 c 3 h 2 h 3 c 2 h 2
+h 2 c 3 h 2 h 2 c 3 h 2
+h 3 c 2 h 2 h 3 c 2 h 3
+h 2 c 2 h 2 h 2 c 2 h 3
+h 2 c 2 h 2 h 2 c 1 h 4
+h 3 c 1 h 1 h 1 c 1 h 3
+h 5 h 4
+h 12
+h 12
+h 2 b 2 h 6 b 2 h 2
+h 1 b 1 h 10 b 1 h 1
+h 3 c 3 h 4 c 3 h 2
+h 2 c 1 e 3 c 1 h 2 c 1 e 3 c 1 h 2
+h 2 c 1 e 1 b 1 e 1 c 1 h 2 c 1 e 1 b 1 e 1 c 1 h 2
+h 2 c 1 e 1 b 1 e 1 c 1 h 2 c 1 e 1 b 1 e 1 c 1 h 2
+h 16
+h 3 c 2 d 1 c 1 h 1 e 2 h 1 c 2 d 1 c 1 h 3
+h 2 c 1 d 1 c 2 d 1 c 1 e 2 c 1 d 1 c 1 d 2 c 1 h 2
+h 1 c 3 d 1 c 4 d 1 c 2 d 3 c 2 h 1
+h 1 c 1 d 2 c 1 d 1 c 1 d 1 c 3 d 1 c 2 d 3 h 1
+h 1 d 1 c 1 d 1 b 1 c 3 d 2 c 3 b 1 c 1 d 1 h 2
+h 2 c 1 d 1 c 1 b 2 f 2 c 1 f 1 b 2 c 2 d 1 h 2
+h 1 c 1 d 1 c 1 b 1 f 4 b 1 c 2 d 1 h 1
+h 1 c 3 b 1 f 2 b 1 d 1 c 1 h 3
+h 2 c 2 b 2 d 1 c 1 h 2
+h 1 c 4 h 1
+e 2 g 2 h 4 g 2 e 2
+h 1 e 2 g 8 e 2 h 1
+h 2 e 2 g 1 d 1 g 6 e 2 h 2
+h 2 e 2 g 2 h 4 g 1 d 1 e 2 h 2
+h 3 e 2 h 6 d 1 h 1 e 2 h 3
+h 2 e 14 h 2
+h 2 e 1 e 3 d 1 e 1 d 2 e 1 e 1 h 2
+h 2 e 7 d 1 e 6 h 2
+h 2 e 5 d 1 e 1 d 1 e 6 h 2
+
+columns
+h 6 h 5
+h 5 h 7 c 2 d 1 h 1 h 7
+h 10 h 8 c 2 d 1 c 2 h 1 h 4 e 4
+h 2 c 3 h 8 b 1 h 1 c 3 h 1 c 1 d 1 c 1 d 3 c 1 h 1 e 6 e 2
+h 2 c 6 h 4 b 1 h 1 c 1 e 3 h 1 c 2 d 1 c 1 b 1 c 1 d 1 c 1 h 1 e 6 e 2
+h 3 c 6 h 3 b 1 h 1 c 1 e 1 b 2 h 1 d 1 c 2 d 1 c 1 b 1 c 2 h 1 g 4 h 1 e 4
+h 13 c 1 e 3 h 1 c 1 d 1 c 3 b 2 c 2 h 1 g 2 d 1 g 1 h 1 e 4
+h 6 h 5 c 3 h 2 c 2 d 1 c 1 f 2 b 1 c 2 h 1 g 2 h 2 e 3 d 1
+h 9 e 2 c 2 d 1 f 3 b 1 c 1 h 1 g 2 h 2 e 1 d 1 e 2
+h 9 e 2 d 1 c 1 d 1 c 1 f 2 b 1 c 1 h 1 g 2 h 2 e 2 d 2
+h 3 h 5 c 3 h 2 c 4 f 2 b 1 d 1 c 1 h 1 g 2 h 2 e 1 d 1 e 2
+h 12 c 1 e 3 h 1 c 1 d 1 c 1 d 1 c 1 b 2 d 1 c 1 h 1 g 4 d 1 e 1 d 1 e 2
+h 5 c 3 h 3 b 1 h 1 c 1 e 1 b 2 h 1 c 2 d 1 c 2 b 1 c 2 h 1 g 3 d 1 h 1 e 4
+h 4 c 3 h 5 b 1 h 1 c 1 e 3 h 1 d 3 c 1 b 1 c 2 h 2 e 6 e 2
+h 2 c 4 h 7 b 1 h 1 c 3 h 1 c 1 d 3 c 2 d 1 h 1 e 6 e 2
+h 2 c 3 h 4 h 8 c 2 d 3 h 2 h 4 e 4
+h 8 h 6 c 1 d 1 h 2 h 7
+h 5 h 6 h 5

@@ -1,0 +1,54 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "Jul 15, 2023"
+description "National Sour Candy Day!"
+difficulty 1.75
+height 17
+id 36973
+link "https://webpbn.com/play.cgi?id=36973"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "July 18 is ..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 2
+black 2 red 1 red 1 black 1
+black 2 red 3 red 3 black 2
+black 1 red 9 black 1
+black 3 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 3
+black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 2 black 1
+black 2 red 7 black 2
+black 2 red 5 black 2
+black 1 green 2 black 1
+green 2 green 2 green 2
+green 2 green 2
+green 2
+green 2 green 1 green 3 green 1
+green 7
+green 1 green 3 green 1 green 1 green 3 green 1
+green 7
+green 1 green 3 green 1
+
+columns
+black 2 black 1 black 2 green 3
+black 2 black 1 black 2 green 1
+black 5 green 2 green 3
+red 3 green 2 green 3
+red 2 black 1 red 2 green 3
+red 4 black 1 red 2 green 2 green 1
+red 2 black 1 red 3 green 2 green 2 green 3
+red 2 black 1 red 2 green 2
+red 2 black 1 red 3 green 3
+red 4 black 1 red 2 green 2 green 1
+red 2 black 1 red 2 green 2 green 3
+red 3 green 3
+black 5 green 3
+black 3 black 1 black 2 green 1
+black 1 black 1 black 2 green 3

@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Aug  1, 2021"
+description ""
+difficulty 1.25
+height 20
+id 35282
+link "https://webpbn.com/play.cgi?id=35282"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Not a number 6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 black 3 black 3
+black 2 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 3 black 3 black 3
+red 2
+red 1 red 1
+red 1 red 1 green 1 green 1
+red 1 red 1 green 1 green 1
+red 2 green 1 green 1 blue 3
+green 1 green 1 blue 1
+green 1 blue 1 red 1 red 1
+blue 1 red 1 red 1
+blue 1 red 2
+red 1
+red 2
+0
+
+columns
+0
+0
+red 5
+red 1 red 1
+red 3
+0
+black 1 black 1 green 4
+black 7 green 1
+black 1 green 4
+0
+black 7 blue 1
+black 1 black 1 blue 5
+black 7 blue 1
+0
+black 7 red 2
+black 1 black 1 red 1 red 1
+black 7 red 5
+0
+0
+0

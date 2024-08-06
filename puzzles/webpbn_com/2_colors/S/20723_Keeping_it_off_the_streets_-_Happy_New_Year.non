@@ -1,0 +1,47 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Dave Oas"
+date "Jan  1, 2013"
+description "Last night was a good one. Thanks to everyone who celebrated responsibly."
+difficulty 1.5
+height 15
+id 20723
+link "https://webpbn.com/play.cgi?id=20723"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Keeping it off the streets - Happy New Year"
+width 15
+
+rows
+1,2
+1,1
+1,5,1,2,1
+1,3,1,1,1
+1,1,2,1
+3,1,2
+1,1,1,2
+1,1,3,2
+3,2
+3,2,5
+3,3,3
+1,1,3,1
+1,4,1
+5,1
+4,3
+
+columns
+10
+1,4,3,2
+10
+1,3
+2,1,3
+6,3
+2,1,2
+1,2
+2
+2,2
+1,1,2,1
+1,1,3,2,1
+1,2,1,6
+1,1,2,1
+2,1

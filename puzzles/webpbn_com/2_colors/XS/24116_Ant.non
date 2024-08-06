@@ -1,0 +1,37 @@
+by "Jason Mara (jmara2)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Jason Mara"
+date "Mar 28, 2014"
+description ""
+difficulty 1.5
+height 10
+id 24116
+link "https://webpbn.com/play.cgi?id=24116"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Ant"
+width 10
+
+rows
+1
+1,1
+1,1,3,1
+1,1,4
+1,5
+4
+3,3,1
+5,1
+4,1
+4,2
+
+columns
+2,4
+1,4
+1,5
+1,3,3
+4
+5,1
+4,1,1
+1,3,1,1
+1,1
+1

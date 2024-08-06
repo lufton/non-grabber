@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/15/07"
+height 11
+id 41623
+link "https://www.griddlers.net/nonogram/-/g/41623"
+medium_time "0:03:10"
+points 583
+popularity 60.32
+title "Helicopter"
+width 18
+
+color a ccccff
+color b 000000
+color c 969696
+color d ffffff
+color e ffff99
+color f 990099
+
+rows
+c 13
+b 1
+b 1 b 1 d 2
+e 1 d 3 f 1 b 1 d 1
+e 3 d 2 f 2 d 3 b 1
+e 3 d 2 f 5 d 5
+e 2 d 2 f 5 d 5
+d 3 f 5 d 3
+b 1 b 1
+b 1 b 1
+b 12
+
+columns
+c 1 b 1
+c 1 e 2 d 1 b 1
+c 1 e 3 d 1 b 2
+c 1 e 2 d 2 b 1 b 1
+c 1 e 2 d 2 f 1 b 1
+c 1 d 3 f 2 b 1
+c 1 b 2 d 2 f 3 b 1
+c 1 d 1 f 4 b 1
+c 1 f 5 b 1 b 1
+c 1 f 2 d 1 b 2
+c 1 f 1 d 2 b 1
+c 1 d 3 b 1
+c 1 d 2
+d 2
+d 3
+b 1 d 2
+d 1 b 1 d 1
+d 2 b 1

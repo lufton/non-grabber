@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Dec  3, 2011"
+description "What did Rogen's mom say at bed time?"
+difficulty 1.5
+height 20
+id 16532
+link "https://webpbn.com/play.cgi?id=16532"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Element Joke 6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 1 black 1
+black 1 black 1
+black 3 black 1
+black 5 black 1
+black 7 black 1
+black 9
+black 1 black 5
+red 3 black 3
+blue 3 red 1 green 1 red 3 black 2
+blue 6 green 1 red 2 black 2
+blue 9 red 2 black 1
+blue 12 red 1 black 1
+blue 16 black 1
+blue 17 black 1
+blue 17 black 1
+blue 17 black 1
+blue 16 black 1
+blue 14
+
+columns
+blue 6
+blue 6
+blue 7
+blue 7
+blue 8
+blue 8
+blue 9
+blue 9
+blue 10
+blue 10
+blue 10
+black 9 blue 9
+black 4 red 1 blue 8
+black 4 red 1 green 1 blue 7
+black 3 red 2 green 1 blue 5
+black 4 red 5 blue 5
+black 3 red 3 blue 3
+black 4
+black 5
+black 17

@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr 22, 2011"
+description "Think exploding hatchback from the 70's."
+difficulty 1.25
+height 10
+id 13527
+link "https://webpbn.com/play.cgi?id=13527"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Name this car."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+0
+green 6
+green 8
+green 13
+green 14
+green 2 black 2 green 6 black 2 green 1
+black 2 black 2
+black 20
+
+columns
+black 1
+black 1
+black 1
+green 2 black 1
+green 3 black 1
+green 2 black 3
+green 2 black 3
+green 3 black 1
+green 4 black 1
+green 5 black 1
+green 5 black 1
+green 5 black 1
+green 5 black 1
+green 4 black 3
+green 4 black 3
+green 4 black 1
+green 2 black 1
+black 1
+black 1
+black 1

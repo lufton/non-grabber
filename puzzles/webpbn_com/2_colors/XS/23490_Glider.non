@@ -1,0 +1,37 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Thomas Genuine"
+date "Jan  5, 2014"
+description "One of the most famous patterns."
+difficulty 1.0
+height 10
+id 23490
+link "https://webpbn.com/play.cgi?id=23490"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "Glider"
+width 10
+
+rows
+10
+3,6
+4,5
+2,5
+10
+10
+10
+10
+10
+10
+
+columns
+10
+10
+3,6
+1,1,6
+2,6
+10
+10
+10
+10
+10

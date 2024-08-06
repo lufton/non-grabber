@@ -1,0 +1,58 @@
+by "Quiksolve"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/31/08"
+height 11
+id 60515
+link "https://www.griddlers.net/nonogram/-/g/60515"
+medium_time "0:01:34"
+points 135
+popularity 58.64
+title "Lunar Eclipse"
+width 25
+
+color a 333333
+color b ffcc00
+color c 990000
+color d 3333ff
+color e 00d700
+
+rows
+b 1
+b 2
+b 3 e 1 d 2
+b 4 e 2 d 1 e 2
+b 4 e 2 d 2 e 3 c 3
+b 4 e 1 d 4 e 2 c 3
+b 4 d 7 c 3
+b 4 e 2 d 3
+b 3 e 3
+b 2
+b 1
+
+columns
+b 11
+b 9
+b 7
+b 5
+0
+0
+0
+0
+0
+e 2 d 1
+e 2 d 2 e 1
+e 2 d 3 e 2
+d 6 e 1
+d 1 e 2 d 3 e 1
+e 3 d 2
+e 2 d 1
+0
+0
+0
+0
+0
+0
+c 3
+c 3
+c 3

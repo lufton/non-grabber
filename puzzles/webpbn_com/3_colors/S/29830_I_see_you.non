@@ -1,0 +1,51 @@
+by "Roisin Clark (RC-bunny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Roisin Clark"
+date "May 17, 2017"
+description "Icy ewe"
+difficulty 1.25
+height 15
+id 29830
+link "https://webpbn.com/play.cgi?id=29830"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "I see you"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 7
+blue 2 black 1 blue 3 black 1 blue 2
+blue 3 black 5 blue 3
+blue 2 black 7 blue 2
+blue 2 black 2 black 1 black 2 blue 2
+blue 2 black 7 blue 2
+blue 3 black 5 blue 3
+blue 11
+blue 9
+blue 1 black 1 blue 3 black 1 blue 1
+black 1 blue 3 black 1
+black 1 black 1
+black 1 black 1
+0
+
+columns
+0
+0
+blue 6
+blue 8
+blue 3 black 3 blue 4
+blue 1 black 6 blue 2 black 4
+blue 2 black 2 black 2 blue 4
+blue 2 black 5 blue 4
+blue 2 black 2 black 2 blue 4
+blue 1 black 6 blue 2 black 4
+blue 3 black 3 blue 4
+blue 8
+blue 6
+0
+0

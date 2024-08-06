@@ -1,0 +1,62 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Aug 14, 2016"
+description "Well the buzz from the bees is that the leopards are in a bit of a spot. And the baboons are going ape over this. Of course, the giraffes are acting like they're above it all... The tick birds are pecking on the elephants. I told the elephants to forget it, but they can't. The cheetahs are hard up, but I always say, cheetahs never prosper..."
+difficulty 1.75
+height 18
+id 28555
+link "https://webpbn.com/play.cgi?id=28555"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Checking in with the morning report."
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 black 1 green 16
+green 3 black 3 green 2 black 1 green 3 black 2 green 7
+green 2 black 4 green 2 black 2 blue 1 black 4 green 6
+green 1 black 3 black 1 green 3 black 1 blue 2 blue 1 red 3 green 3
+green 1 black 2 blue 1 green 3 red 2 blue 1 black 1 blue 1 red 2 green 2
+green 2 blue 3 green 3 red 3 blue 2 red 2 green 1
+green 3 blue 3 green 4 blue 1 red 9 green 1
+green 3 blue 4 green 4 blue 1 green 2 red 2 green 2
+green 4 blue 3 green 4 blue 2 green 7
+green 4 blue 3 green 2 blue 4 green 6
+green 5 blue 8 green 6
+green 6 blue 1 blue 3 green 6
+green 6 black 3 blue 1 green 6
+green 5 black 3 green 7
+green 5 black 2 green 1 green 8
+green 9 green 1 green 9
+green 7 red 3 green 1 red 3 green 7
+green 7 red 2 green 3 red 2 green 7
+
+columns
+green 18
+green 3 black 2 green 13
+green 2 black 3 green 12
+green 1 black 3 blue 3 green 10
+black 3 blue 6 green 8
+green 1 black 3 blue 6 green 2 black 2 green 3
+green 7 blue 5 black 3 green 3
+green 10 blue 1 black 2 green 1 red 2
+green 1 black 2 green 7 blue 1 black 1 green 1 red 2
+green 2 black 2 red 2 green 3 blue 4 red 1 green 1
+green 2 blue 2 red 2 blue 1 green 2 blue 3 green 4
+green 2 black 1 blue 2 red 2 blue 5 red 1 green 1
+green 1 black 2 blue 1 red 1 blue 3 green 1 red 2
+green 1 black 2 black 1 blue 1 red 1 green 2 red 2
+green 2 black 1 blue 2 red 1 green 1 green 5
+green 3 red 1 red 1 green 11
+green 3 red 1 red 1 green 11
+green 3 red 2 red 2 green 10
+green 4 red 4 green 10
+green 5 red 2 green 11
+green 18

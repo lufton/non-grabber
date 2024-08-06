@@ -1,0 +1,61 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by valerie o..travis"
+date "Dec 20, 2013"
+description "...A car with antlers and red nose"
+difficulty 1.5
+height 20
+id 23389
+link "https://webpbn.com/play.cgi?id=23389"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Rudolph is that you?..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 3
+black 3 black 3
+black 1 black 1 black 1 black 1
+black 3 black 8 black 3
+black 3 black 3
+black 1 black 1
+black 1 black 2 black 2 black 1
+black 12
+black 3 black 3
+black 2 black 2
+black 9 red 2 black 9
+black 1 black 2 red 4 black 2 black 1
+black 2 red 4 black 2
+black 4 black 2 red 2 black 2 black 4
+black 6 black 6
+black 3 black 6 black 3
+black 3 black 3
+
+columns
+black 3
+black 2 black 2
+black 4 black 2 black 3 black 4
+black 1 black 1 black 1 black 2 black 4
+black 6 black 2 black 2 black 4
+black 1 black 4 black 1 black 1
+black 2 black 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 3
+black 1 black 2 black 1 red 2 black 1 black 1
+black 1 black 1 red 4 black 1
+black 1 black 1 red 4 black 1
+black 1 black 2 black 1 red 2 black 1 black 1
+black 1 black 2 black 1 black 3
+black 2 black 2 black 1 black 1 black 1
+black 1 black 4 black 1 black 1
+black 6 black 2 black 2 black 4
+black 1 black 1 black 1 black 2 black 4
+black 3 black 2 black 3 black 4
+black 2 black 2
+black 3

@@ -1,0 +1,66 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Arduinna"
+date "Jan  7, 2009"
+description "My mom taught me how to draw a boy using the word "boy" when I was little."
+difficulty 2.25
+height 25
+id 4665
+link "https://webpbn.com/play.cgi?id=4665"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.75
+title "Drawing Lesson"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 11
+black 2 black 3
+black 2 black 3
+blue 1 black 1 black 3
+blue 1 black 3
+blue 1 black 2
+blue 1 black 1
+blue 1 black 11 black 1
+blue 1 black 4 black 1
+blue 1 black 2 black 1
+blue 5 blue 5 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1 blue 1
+blue 1 black 2 blue 1 blue 1 black 2 blue 1 blue 1 blue 1
+blue 5 blue 5 blue 5
+black 1 blue 1
+black 1 blue 1
+black 1 black 1 blue 1
+black 1 black 3 blue 1
+black 1 black 1 blue 1
+black 2 black 2 black 1
+black 1 black 6 black 2
+black 1 black 2
+black 2 black 2
+black 14
+
+columns
+blue 12 black 6
+black 2 black 1 blue 1 blue 1 black 4
+black 2 black 1 blue 1 black 1 blue 1 black 2
+black 2 black 1 blue 1 black 2 blue 1 black 1
+black 1 black 1 blue 5 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 blue 5 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 2 blue 1 black 2 blue 1 black 1 black 1
+black 1 black 2 blue 5 black 2 black 1
+black 1 black 1 black 2 black 1
+black 2 black 2 black 1
+black 2 black 1 blue 5 black 1
+black 3 blue 1 black 2
+black 3 blue 1 black 2
+black 3 blue 1 black 2
+black 6 blue 10 black 2
+0

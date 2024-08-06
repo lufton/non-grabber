@@ -1,0 +1,61 @@
+by "ik (ik)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ik"
+date "Dec 23, 2010"
+description "norah jones she makes great music."
+difficulty 1.25
+height 20
+id 11552
+link "https://webpbn.com/play.cgi?id=11552"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "i love"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 3 black 2 black 6
+black 3 black 2 black 6
+black 4 black 2 black 2
+black 4 black 2 black 2
+black 4 black 2 red 2 red 2 black 2
+black 5 black 2 red 3 red 4 black 2
+black 5 black 2 red 8 black 2
+black 5 black 2 red 8 black 2
+black 2 black 5 red 8 black 2
+black 2 black 5 red 7 black 2
+black 2 black 4 red 5 black 2
+black 2 black 4 red 3 black 2
+black 2 black 4 black 2
+black 2 black 4 black 2 black 2
+black 2 black 2 black 3 black 2
+black 2 black 2 black 6
+black 2 black 2 black 4
+
+columns
+0
+black 17
+black 17
+black 8
+black 8
+black 9
+black 6
+black 17
+black 17
+red 6
+red 7
+red 7
+red 6 black 2
+black 2 red 7 black 3
+black 2 red 7 black 3
+black 2 red 6 black 2
+black 2 red 4 black 2
+black 17
+black 16
+0

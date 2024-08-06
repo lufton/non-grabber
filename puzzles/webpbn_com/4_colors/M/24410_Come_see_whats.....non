@@ -1,0 +1,62 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Ron Jacobson"
+date "May  7, 2014"
+description "The Milwaukee Brewer's logo. "Come see what's brewing" was a slogan of the team back in the day, late 70s or 80s."
+difficulty 2.0
+height 20
+id 24410
+link "https://webpbn.com/play.cgi?id=24410"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Come see what's...."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+blue 1 black 2 blue 1 black 1
+blue 1 black 4 blue 1 black 1
+black 3 blue 1 black 2 blue 1 black 2
+black 2 blue 1 black 3 blue 1 black 3
+black 2 blue 1 black 3 blue 1 black 4
+blue 1 black 7 blue 1 black 2
+blue 1 black 2 blue 1 black 3 blue 1 black 2
+blue 1 black 2 blue 1 black 3 blue 1 black 2
+blue 1 black 1 blue 1 black 3 blue 1 black 2
+blue 1 black 2 blue 1 black 3 blue 1 black 2 blue 2 black 1
+blue 1 black 2 blue 1 black 3 blue 1 black 2 blue 1 black 2
+blue 1 black 2 blue 1 black 1 blue 1 black 4
+blue 1 black 1 blue 1 black 3
+blue 1 black 1 blue 1 black 2
+red 1
+red 13
+red 12 red 1
+red 12
+
+columns
+blue 1 black 3 blue 3 red 1
+blue 1 black 4 blue 2 black 3 red 2
+black 3 blue 4 black 3 red 3
+black 2 blue 3 black 6 red 3
+black 7 red 3
+black 4 blue 5 red 3
+black 8 blue 1 red 3
+black 7 red 3
+blue 1 black 6 red 3
+blue 1 black 2 red 3
+blue 1 black 2 blue 9 red 3
+blue 2 black 12 red 3
+black 14 red 1 red 1
+blue 1 black 2 red 1 red 1
+blue 1 black 2 red 1 red 1
+blue 1 black 1
+black 1
+0
+0
+0

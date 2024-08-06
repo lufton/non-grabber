@@ -1,0 +1,81 @@
+by "Technyk32 (technyk)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Technyk32"
+date "Jun 18, 2014"
+description "A Tic-tac-toe game where the result is a tie."
+difficulty 2.0
+height 30
+id 24839
+link "https://webpbn.com/play.cgi?id=24839"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.75
+title "Nobody Wins"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 30
+blue 1 black 4 blue 2 black 1 black 2 blue 2 black 1 black 2 blue 1
+blue 1 black 5 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 3 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 3 blue 2 black 3 blue 1
+blue 1 black 2 black 2 blue 2 black 3 blue 2 black 3 blue 1
+blue 1 black 3 black 2 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 7 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 4 blue 2 black 2 black 1 blue 2 black 2 black 1 blue 1
+blue 30
+blue 30
+blue 1 black 1 black 2 blue 2 black 4 blue 2 black 4 blue 1
+blue 1 black 2 black 2 blue 2 black 5 blue 2 black 5 blue 1
+blue 1 black 2 black 2 blue 2 black 2 black 3 blue 2 black 2 black 3 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 3 black 2 blue 2 black 3 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 7 blue 2 black 7 blue 1
+blue 1 black 2 black 1 blue 2 black 4 blue 2 black 4 blue 1
+blue 30
+blue 30
+blue 1 black 1 black 2 blue 2 black 4 blue 2 black 1 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 5 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 2 black 3 blue 2 black 2 black 2 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 3 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 3 blue 1
+blue 1 black 2 black 2 blue 2 black 3 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 7 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 1 blue 2 black 4 blue 2 black 2 black 1 blue 1
+blue 30
+
+columns
+blue 30
+blue 1 black 4 blue 2 black 2 black 1 blue 2 black 2 black 1 blue 1
+blue 1 black 5 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 3 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 3 blue 2 black 3 blue 1
+blue 1 black 2 black 2 blue 2 black 3 blue 2 black 3 blue 1
+blue 1 black 3 black 2 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 6 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 5 blue 2 black 1 black 2 blue 2 black 1 black 2 blue 1
+blue 30
+blue 30
+blue 1 black 2 black 1 blue 2 black 4 blue 2 black 4 blue 1
+blue 1 black 2 black 2 blue 2 black 5 blue 2 black 5 blue 1
+blue 1 black 2 black 2 blue 2 black 2 black 3 blue 2 black 2 black 3 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 3 black 2 blue 2 black 3 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 6 blue 2 black 6 blue 1
+blue 1 black 1 black 2 blue 2 black 5 blue 2 black 5 blue 1
+blue 30
+blue 30
+blue 1 black 2 black 1 blue 2 black 4 blue 2 black 2 black 1 blue 1
+blue 1 black 2 black 2 blue 2 black 5 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 2 black 3 blue 2 black 2 black 2 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 3 blue 1
+blue 1 black 3 blue 2 black 2 black 2 blue 2 black 3 blue 1
+blue 1 black 2 black 2 blue 2 black 3 black 2 blue 2 black 2 black 2 blue 1
+blue 1 black 2 black 2 blue 2 black 6 blue 2 black 2 black 2 blue 1
+blue 1 black 1 black 2 blue 2 black 5 blue 2 black 1 black 2 blue 1
+blue 30

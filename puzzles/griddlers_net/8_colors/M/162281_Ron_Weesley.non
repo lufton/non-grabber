@@ -1,0 +1,65 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/9/15"
+height 25
+id 162281
+link "https://www.griddlers.net/nonogram/-/g/162281"
+medium_time "0:04:25"
+points 1372
+popularity 71.93
+title "Ron Weesley"
+width 15
+
+color a cc66cc
+color b ff6600
+color c ffcc99
+color d 00cccc
+color e ffffff
+color f 990000
+color g 333333
+color h 999999
+
+rows
+b 3
+b 5
+b 3 c 1 b 3
+b 1 c 5 b 1
+b 1 d 1 c 3 d 1 b 1
+b 1 c 5 b 1
+b 1 c 3 b 1
+e 1 c 1
+f 1 g 1 f 1 e 1 f 1 e 1 f 1 g 1
+f 1 g 2 f 1 e 1 b 1 e 1 f 1 g 2
+f 1 g 3 f 1 h 1 e 1 h 1 f 1 g 3
+f 1 g 4 f 1 h 3 f 1 g 4
+c 1 g 2 g 1 f 1 h 3 f 1 g 1 g 2 c 1
+g 1 g 1 f 1 h 3 f 1 g 1 g 1
+g 1 f 1 h 3 f 1 g 1
+g 1 f 1 b 3 f 1 g 1
+g 2 f 1 g 3 f 1 g 2
+g 3 f 1 g 3 f 1 g 3
+g 3 f 1 g 3 f 1 g 3
+g 3 f 1 g 3 f 1 g 3
+g 3 f 1 g 3 f 1 g 3
+g 2 f 1 g 3 f 1 g 2
+g 1 f 1 g 3 f 1 g 1
+f 3 f 3
+g 3 g 3
+
+columns
+e 1 f 4 c 1
+g 3
+g 3 g 4
+g 3 g 6
+b 4 g 15 f 1 g 1
+b 2 c 1 d 1 c 1 b 1 f 16 g 1
+b 3 c 4 e 2 h 5 b 1 g 7 f 1 g 1
+b 2 c 6 f 1 b 1 e 1 h 4 b 1 g 7
+b 3 c 4 e 2 h 5 b 1 g 7 f 1 g 1
+b 2 c 1 d 1 c 1 b 1 f 16 g 1
+b 4 g 15 f 1 g 1
+g 3 g 6
+g 3 g 4
+g 3
+c 1

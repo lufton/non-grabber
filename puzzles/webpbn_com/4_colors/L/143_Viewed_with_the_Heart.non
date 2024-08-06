@@ -1,0 +1,75 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Jan  5, 2005"
+description "The hero of Antoine de Saint-Exupery's book "The Little Prince" in full princely regalia and with a surprising red hair die job. He's supposed to be golden blonde, but I still don't have yellow."
+difficulty 2.5
+height 28
+id 143
+link "https://webpbn.com/play.cgi?id=143"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Viewed with the Heart"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 4
+red 6
+red 6
+black 1 red 2
+black 2 black 1 red 1
+black 1 black 1 red 1
+black 1 black 1 black 1
+black 1 black 2
+blue 2 red 2 blue 2 red 2 blue 1
+blue 4 red 1 blue 2 red 1 blue 3
+blue 3 blue 1 red 1 red 1 blue 4
+blue 3 blue 2 blue 2 blue 2
+blue 3 blue 2 blue 2 blue 2
+blue 3 red 1 blue 2 black 2 blue 2 blue 2
+blue 1 red 2 blue 1 black 2 blue 2 red 2
+red 1 blue 2 blue 2 black 1 black 1
+blue 3 blue 2 black 2
+blue 2 blue 2 black 1
+blue 2 blue 3 black 1
+blue 3 black 1 blue 3 black 1
+blue 2 black 1 red 1 blue 2 black 1 blue 1
+blue 3 black 2 red 3 black 1 blue 2
+blue 3 red 1 black 2 red 2 black 2 red 3 black 1 red 1 blue 2
+blue 3 red 2 black 2 red 2 black 2 red 3 black 1 red 2 blue 2
+blue 3 red 3 black 2 red 2 black 2 red 3 black 1 red 3 blue 2
+blue 2 red 4 black 2 black 2 black 1 red 4 blue 1
+blue 2 red 3 black 3 black 3 black 1 red 2 blue 1
+blue 1 red 2 black 2 black 2
+
+columns
+blue 2
+blue 2 red 1
+blue 2 red 2
+blue 2 blue 2 red 2
+blue 4 blue 3 red 2
+blue 6 blue 3 red 2
+blue 3 blue 1 red 2 blue 4 red 3
+blue 2 red 2 blue 6 red 3
+red 2 black 4 red 1 blue 5 blue 5 black 5
+red 3 black 1 black 1 red 3 blue 6 black 6
+red 3 black 1 blue 2 black 2 black 1 red 3 black 2
+red 3 black 1 black 1 blue 2 black 2 black 3 red 3
+red 4 black 3 red 3 blue 5 black 5
+red 5 red 1 blue 10 black 6
+blue 3 blue 4 red 5 black 2
+blue 3 blue 3 red 4
+blue 4 red 1 black 2 blue 2 red 4
+blue 2 red 1 black 11
+black 1 blue 2 red 3
+blue 2 red 3
+blue 2 red 2
+blue 2 red 1
+blue 1 red 2
+blue 1 red 1
+blue 1

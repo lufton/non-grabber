@@ -1,0 +1,87 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/3/11"
+height 32
+id 111166
+link "https://www.griddlers.net/nonogram/-/g/111166"
+medium_time "0:32:20"
+points 45259
+popularity 89.17
+title "Baby Dino"
+width 31
+
+color a ccccff
+color b 000000
+color c deffbd
+color d ffffff
+color f 4a8c00
+color g 63bd00
+color h 84ff00
+
+rows
+b 4
+b 2 b 1 c 1 d 2 c 1 b 3
+b 1 c 2 b 1 c 1 d 1 b 2 d 1 c 1 b 1 f 1 b 1
+b 1 c 1 b 3 d 2 b 2 d 2 b 1 g 1 f 1 b 1
+b 1 c 1 b 1 f 1 b 1 d 2 c 1 b 1 d 2 b 1 g 2 b 1
+b 2 f 1 g 1 b 1 c 1 d 1 b 2 d 1 c 1 b 1 g 2 f 1 b 1
+b 1 f 1 g 2 f 1 b 1 c 1 d 2 c 1 b 1 f 1 g 3 b 1 b 3
+b 1 f 1 g 4 f 1 b 4 f 1 g 4 b 1 b 2 f 1 g 1 h 1 b 1
+b 2 f 1 b 1 f 1 g 11 b 1 b 1 f 1 g 4 h 1 b 1
+b 1 f 1 g 14 f 1 b 1 b 1 f 1 g 1 b 1 f 1 g 2 h 1 b 1
+b 1 g 11 f 1 g 3 b 1 b 1 f 1 g 1 f 2 b 1 g 3 h 1 b 1
+b 1 g 10 f 1 b 1 g 2 f 1 b 1 b 1 f 2 b 3 g 3 h 1 b 1
+b 1 f 1 g 8 f 1 b 1 f 1 g 1 f 1 b 1 b 1 f 2 b 1 b 1 g 3 h 1 b 1
+b 1 f 1 g 5 f 1 b 2 f 1 g 1 f 1 b 1 b 1 f 1 b 1 b 1 g 3 h 1 b 1
+b 7 f 1 g 2 f 1 b 1 b 1 f 1 b 1 b 1 g 4 b 1
+b 1 f 1 g 1 h 1 g 2 b 1 b 1 f 1 b 1 b 1 g 4 b 1
+b 1 f 1 g 1 h 2 g 1 f 1 b 1 b 1 b 1 f 1 g 4 b 1
+b 1 g 1 h 2 g 2 b 1 b 1 g 4 f 1 b 1
+b 1 f 1 h 3 g 2 b 1 b 1 f 1 g 4 b 1
+b 1 g 1 h 2 g 3 f 1 b 2 b 3 f 1 g 5 b 1
+b 1 f 1 g 1 h 2 g 5 f 1 b 4 f 1 g 8 b 1
+b 1 f 1 g 1 h 2 g 17 f 1 b 2
+b 1 f 1 b 1 h 2 g 18 f 1 b 1
+b 1 f 1 b 1 g 1 h 1 b 1 g 18 f 1 b 1
+b 1 f 1 b 1 h 1 b 1 g 18 f 1 b 1
+b 1 f 1 b 1 g 1 b 1 f 1 g 5 b 1 g 5 b 1 g 5 f 1 b 1
+b 1 f 3 b 1 g 1 b 1 g 5 b 1 h 3 g 1 f 1 b 1 g 6 f 1 b 1
+b 1 f 5 b 2 g 5 b 1 h 2 g 1 f 1 b 2 f 1 g 6 b 1
+b 1 f 6 b 1 f 1 g 5 b 5 f 2 b 1 g 6 f 1 b 1
+b 1 f 5 b 1 f 1 g 5 f 1 b 1 b 1 f 2 b 1 f 1 g 5 f 1 b 1
+b 6 f 1 g 4 f 1 b 1 b 4 f 1 g 1 f 4 b 1
+b 7 b 6
+
+columns
+b 4
+b 2 f 1 g 2 f 1 b 1 b 2
+b 4 f 1 b 1 g 4 f 1 b 1 b 1 f 2 b 1
+b 1 c 2 b 1 f 1 g 1 f 1 g 5 b 1 b 4 b 1 f 3 b 1
+b 1 c 1 b 2 f 1 g 2 b 1 g 5 b 1 b 2 f 4 b 2 f 4 b 1
+b 1 c 1 b 1 f 1 g 3 f 1 g 5 b 1 b 2 f 1 g 3 b 2 f 6 b 1
+b 4 f 1 g 7 b 2 f 1 g 1 h 5 g 1 b 2 f 4 b 1
+b 1 c 1 d 2 c 1 b 1 f 1 g 6 b 1 f 1 g 1 h 8 g 1 b 1 f 2 b 3
+b 1 c 1 d 4 c 1 b 1 g 5 f 1 b 1 g 1 h 3 g 4 b 3 g 1 b 2 f 2 b 1
+b 1 d 1 b 2 c 1 b 1 d 1 b 1 g 5 b 1 f 1 h 2 g 8 f 1 b 2 f 1 g 2 b 1
+b 1 d 1 b 4 d 1 b 1 g 4 f 1 b 1 g 17 b 1
+b 1 c 1 d 4 c 1 b 1 g 3 f 1 b 1 f 1 g 2 f 1 b 2 f 1 g 11 b 1
+b 1 c 1 d 2 c 1 b 1 f 1 g 2 f 1 b 1 f 1 g 1 f 1 b 2 b 1 g 11 b 1
+b 5 f 1 g 6 f 1 b 1 b 1 f 1 g 9 f 1 b 1
+b 1 f 1 g 9 f 1 b 1 b 1 g 8 f 1 b 1
+b 1 f 1 g 7 f 1 b 1 b 1 g 4 b 5
+b 2 f 1 g 3 f 1 b 2 b 1 g 5 h 2 b 1
+b 5 b 4 b 1 g 5 h 2 b 1
+b 2 f 4 b 1 b 1 f 1 g 5 h 1 g 1 b 1
+b 1 f 3 b 3 b 1 g 7 f 1 b 2
+b 1 f 1 g 1 f 1 b 1 b 1 g 6 f 1 b 1 f 2 b 1
+b 1 f 1 g 1 f 1 b 1 b 1 f 1 g 5 b 3 f 2 b 1
+b 1 g 1 b 1 f 1 b 1 b 2 f 1 g 8 f 1 b 3
+b 1 f 1 g 1 f 1 b 6 f 1 g 12 f 1 b 1
+b 1 g 23 f 1 b 1
+b 1 h 1 g 13 f 1 g 9 b 1
+b 1 h 2 g 11 b 1 f 1 g 7 f 1 b 1
+b 2 h 4 g 3 f 1 b 5 f 3 g 4 f 1 b 1
+b 8 b 3 f 1 g 3 f 1 b 1
+b 2 f 3 b 1
+b 3

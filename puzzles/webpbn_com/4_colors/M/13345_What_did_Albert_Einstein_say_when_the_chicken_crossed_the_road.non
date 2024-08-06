@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 12, 2011"
+description "Whether the chicken crossed the road or the road moved the chicken depends upon your frame of mind."
+difficulty 1.5
+height 20
+id 13345
+link "https://webpbn.com/play.cgi?id=13345"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What did Albert Einstein say when the chicken crossed the road?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 7
+black 1 black 1
+black 1 green 1 green 1 black 1
+black 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 7 black 7
+black 2 black 2
+black 2 black 2
+black 5 black 5
+black 1 black 1
+black 1 black 3 black 1
+black 3 black 3
+red 1 red 1
+red 1 red 1
+red 3 red 3
+
+columns
+black 2
+black 3
+black 1 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+red 3 black 6 black 4 red 1
+red 1 black 1 red 3
+red 3 green 1 black 2 red 1
+red 1 red 2 black 1
+red 3 green 1 black 2 red 1
+red 1 black 1 red 3
+red 3 black 6 black 4 red 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2
+black 3
+black 2
+0

@@ -1,0 +1,123 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/04"
+height 50
+id 9505
+link "https://www.griddlers.net/nonogram/-/g/9505"
+medium_time "0:41:38"
+points 84777
+popularity 70.71
+title "Friendly Rat"
+width 50
+
+color a ffffff
+color c a09d9b
+color d 000000
+color e fcd1eb
+color g 0000fa
+color h fd0000
+
+rows
+c 6 c 5
+c 8 c 7
+c 9 c 9
+c 10 c 13
+c 12 c 14
+c 13 c 16
+c 9 d 1 c 3 c 17
+c 9 e 1 d 1 c 2 c 4 d 1 c 12
+c 7 d 2 e 1 d 1 c 2 c 1 d 1 e 1 d 2 c 12
+c 7 e 2 d 1 e 1 c 2 c 3 c 1 d 1 e 4 c 11
+c 7 e 3 d 2 c 1 c 4 d 2 e 3 c 11
+c 10 d 1 c 1 c 4 e 2 c 14
+c 9 d 1 c 4 e 1 c 15
+c 9 d 2 d 2 c 19
+c 9 d 1 d 1 c 1 d 1 c 16
+c 8 d 2 c 15
+c 1 e 4 c 5 d 2 c 1 c 11 c 2
+c 1 e 3 c 7 d 3 c 1 c 8 c 3
+c 1 e 4 c 7 d 3 c 1 c 7
+c 1 e 4 c 7 d 4 c 1 c 8
+c 1 e 4 c 8 d 1 d 2 c 2 c 7
+c 1 e 3 c 10 d 2 c 2 c 5
+c 2 e 4 c 8 d 1 d 2 c 2 c 7
+d 8 c 8 d 1 d 2 c 2 c 10
+d 2 g 2 d 7 c 6 d 1 d 3 c 1 c 7
+d 2 g 4 d 7 c 5 d 1 d 5 c 1 c 3 c 4
+d 2 g 4 d 8 c 3 d 3 d 4 c 1 c 3 c 2
+d 2 g 3 d 9 c 2 d 4 c 1 c 4
+d 2 g 3 d 10 d 4 c 1 c 3
+d 2 g 2 d 11 d 4 c 1 c 2
+d 2 g 2 d 10 d 4 c 1 c 3
+d 2 g 1 d 11 d 2 h 2 c 1 c 3
+d 14 d 1 h 3 c 1 c 3
+d 13 c 1 h 5 c 2 c 3
+d 11 c 2 h 4 c 2 c 3
+d 9 c 1 d 4 c 2 c 4
+d 5 c 10
+g 6 c 9 g 4
+g 9 c 8 g 8
+g 6 d 6 c 7 d 3 g 8
+g 3 c 4 d 5 c 7 d 8 g 4
+g 3 c 6 d 4 c 7 d 11 g 2
+g 2 c 8 d 3 c 7 d 11 g 2
+g 2 c 18 d 10 g 3
+g 4 c 16 d 6 g 7
+g 3 c 8 g 2 c 2 g 18
+g 5 c 4 g 24
+g 7 c 2 g 24
+g 33
+g 33
+
+columns
+d 7
+d 10
+d 3 g 4 d 5
+d 2 g 5 d 6
+d 1 g 4 d 8
+d 1 g 4 d 9
+d 1 g 3 d 10
+d 2 g 1 d 10
+c 7 c 1 d 13
+c 9 c 2 d 13
+c 11 c 1 e 2 d 12 g 9
+c 15 c 1 e 3 d 11 g 11
+c 15 c 1 e 4 d 11 g 3 c 2 g 6
+c 15 c 1 e 3 c 1 e 1 c 1 d 9 g 2 c 3 g 1 c 1 g 4
+c 15 e 4 c 4 d 5 g 2 c 6 g 4
+c 8 d 1 e 2 c 4 c 1 e 3 c 8 g 2 c 7 g 3
+c 8 d 1 e 2 c 4 e 3 c 9 g 2 c 7 g 3
+c 5 d 1 e 2 d 1 e 1 c 5 e 1 c 10 g 2 d 1 c 8 g 2
+c 6 d 2 e 1 d 3 c 3 e 1 c 9 g 2 d 2 c 7 g 2
+c 8 d 1 d 1 c 2 e 1 c 9 g 2 d 3 c 4 g 4
+c 6 d 2 c 9 d 3 g 2 d 4 c 3 g 4
+c 2 c 8 d 1 d 1 c 2 g 2 d 4 c 2 g 5
+c 1 d 1 c 7 d 1 d 1 h 1 c 2 g 2 d 4 c 2 g 5
+c 1 d 2 c 4 d 2 d 1 h 2 d 1 c 10 g 4
+c 8 d 3 d 8 h 2 d 1 c 10 g 4
+c 4 d 18 h 3 d 1 c 9 g 5
+c 5 d 16 h 4 d 1 c 9 g 5
+c 18 d 7 h 2 c 12 g 5
+c 3 d 3 e 2 c 3 c 25 g 5
+c 4 e 2 d 1 e 1 c 4 c 9 g 5
+c 5 d 1 e 2 c 6 c 4 d 6 g 5
+c 5 d 2 e 2 c 7 c 4 g 1 d 6 g 5
+c 7 e 2 c 7 c 4 g 2 d 6 g 5
+c 18 c 4 g 3 d 5 g 5
+c 18 c 3 g 3 d 5 g 5
+c 18 c 3 g 3 d 5 g 5
+c 18 c 4 g 2 d 4 g 6
+c 18 c 4 g 2 d 4 g 6
+c 17 c 3 g 3 d 3 g 6
+c 16 c 4 g 2 d 3 g 6
+c 14 c 5 g 2 d 2 g 7
+c 13 c 3 g 10
+c 11 c 6 g 9
+c 8 c 8
+c 9
+c 11
+c 8 c 2
+c 3 c 2
+c 3 c 2
+c 2 c 1

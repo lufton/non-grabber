@@ -1,0 +1,71 @@
+by "Alison Deem (Indigo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alison Deem"
+date "Apr  7, 2010"
+description "The hose nozzle spraying water on a blue sponge on the blacktop so that I can wash my car!"
+difficulty 1.75
+height 20
+id 8293
+link "https://webpbn.com/play.cgi?id=8293"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Spit Spot"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 30
+black 30
+black 30
+black 6 black 5
+black 5 blue 18 black 1 black 4
+black 5 blue 7 blue 5 blue 1 blue 2 black 1 black 3
+black 5 blue 5 blue 6 blue 1 blue 3 blue 1 black 1 black 2
+black 5 blue 3 blue 2 blue 1 blue 1 blue 5 blue 1 blue 2 black 2
+black 5 blue 4 blue 8 blue 1 blue 2 blue 2 black 2
+black 5 blue 5 blue 1 blue 2 blue 1 blue 1 blue 3 blue 2 black 2
+black 5 blue 6 blue 1 blue 1 blue 1 blue 4 blue 2 black 2
+black 5 blue 7 blue 1 blue 1 blue 5 blue 2 black 2
+black 5 blue 8 blue 6 blue 2 black 2
+black 5 blue 9 blue 7 blue 2 black 2
+black 5 black 1 black 2 blue 2 black 2
+black 6 black 1 blue 6 black 4 blue 7 black 1 blue 1 black 2
+black 7 black 1 blue 5 black 4 blue 8 black 1 black 2
+black 8 black 4 black 2
+black 12 black 6 black 10
+black 11 black 8 black 9
+
+columns
+black 20
+black 20
+black 20
+black 20
+black 20
+black 4 black 5
+black 3 blue 10 black 1 black 4
+black 3 blue 10 black 1 black 3
+black 3 blue 10 blue 1 black 1 black 2
+black 3 blue 3 blue 6 blue 2 black 2
+black 3 blue 4 blue 5 blue 2 black 2
+black 3 blue 2 blue 2 blue 4 blue 2 black 1
+black 3 blue 3 blue 2 blue 3 blue 2 black 1
+black 3 blue 1 blue 3 blue 1 blue 2 blue 2 black 2
+black 3 blue 3 blue 2 blue 1 blue 1 black 5
+black 3 blue 6 black 6
+black 3 blue 3 blue 1 blue 1 black 6
+black 3 blue 6 blue 1 blue 1 black 5
+black 3 blue 2 blue 2 blue 1 blue 2 blue 2 black 2
+black 3 blue 1 blue 2 blue 1 blue 3 blue 2 black 1
+black 3 blue 2 blue 2 blue 4 blue 2 black 1
+black 3 blue 1 blue 2 blue 5 blue 2 black 2
+black 3 blue 3 blue 6 blue 2 black 2
+black 3 blue 10 blue 2 black 2
+black 3 black 1 blue 2 black 2
+black 4 black 1 blue 9 black 1 blue 1 black 2
+black 5 black 1 blue 9 black 1 black 2
+black 6 black 2
+black 20
+black 20

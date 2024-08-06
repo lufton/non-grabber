@@ -1,0 +1,63 @@
+by "kiki (yellowbaby.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by kiki"
+date "Nov 23, 2008"
+description "yes it's me my sister made the other!!"
+difficulty 1.5
+height 20
+id 4131
+link "https://webpbn.com/play.cgi?id=4131"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "me!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 2
+green 4 black 12 green 4
+green 1 green 1 black 12 green 1 green 2
+green 4 black 2 blue 8 black 2 green 4
+green 1 green 1 black 2 blue 8 black 2 green 1 green 2
+green 4 black 2 blue 8 black 2 green 4
+green 1 green 1 black 2 blue 2 green 1 blue 2 green 1 blue 2 black 2 green 1 green 2
+green 4 black 2 blue 8 black 2 green 4
+green 1 green 1 black 2 blue 2 red 1 blue 2 red 1 blue 2 black 2 green 1 green 2
+green 1 black 2 green 1 black 2 blue 3 red 2 blue 3 black 2 green 1 black 2 green 1
+green 1 black 5 blue 8 black 5 green 1
+green 1 black 5 green 1 green 1 blue 2 green 1 black 5 green 1
+blue 1 blue 1 green 1 green 1 green 1 blue 2 green 1 green 1 green 1 blue 1 green 1 blue 1
+blue 4 green 1 red 8 green 1 blue 4
+blue 3 green 3 red 8 green 3 blue 3
+green 1 blue 1 green 1 red 14 blue 1 green 1
+green 1 blue 2 red 14 blue 2 green 1
+green 6 red 8 green 6
+green 1 green 1 green 1 red 8 green 1 green 1 green 2
+green 6 red 8 green 6
+
+columns
+green 12 blue 3 green 5
+green 1 green 1 green 1 green 1 black 3 blue 4 green 1 green 1
+green 9 black 3 blue 3 green 1 blue 1 green 3
+green 1 green 1 green 1 green 1 green 1 black 2 blue 1 green 1 red 2 green 1 green 1
+green 1 black 11 green 3 red 2 green 3
+black 11 green 1 red 2 green 1 green 1
+green 1 black 2 blue 8 green 2 red 7
+black 2 blue 8 red 7
+green 1 black 2 blue 3 green 1 blue 1 red 1 blue 2 green 2 red 7
+black 2 blue 6 red 1 blue 3 red 7
+green 1 black 2 blue 6 red 1 blue 3 red 7
+black 2 blue 3 green 1 blue 1 red 1 blue 2 red 7
+green 1 black 2 blue 8 green 2 red 7
+black 2 blue 8 red 7
+green 1 black 11 green 3 red 2 green 3
+black 11 green 1 red 2 green 1 green 1
+green 10 black 2 green 1 blue 1 green 1 red 2 green 3
+green 1 green 1 green 1 green 1 black 3 blue 3 blue 1 green 1 green 1
+green 9 black 3 green 1 blue 4 green 3
+green 12 blue 3 green 5

@@ -1,0 +1,33 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Feb  1, 2009"
+description "a rooster"
+difficulty 2.0
+height 5
+id 4892
+link "https://webpbn.com/play.cgi?id=4892"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "goodmorning"
+width 7
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2
+blue 2 blue 1 black 1
+blue 4
+blue 2
+black 1
+
+columns
+blue 1
+blue 2
+blue 2
+blue 2
+blue 2 black 1
+blue 2
+black 1

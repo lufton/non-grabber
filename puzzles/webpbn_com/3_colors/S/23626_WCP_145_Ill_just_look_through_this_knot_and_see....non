@@ -1,0 +1,51 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wombat"
+date "Jan 20, 2014"
+description "Is that a cat looking back at me?"
+difficulty 1.75
+height 15
+id 23626
+link "https://webpbn.com/play.cgi?id=23626"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #145 I'll just look through this knot and see..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 2 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 5 black 1
+black 1 black 3 green 3 black 2 black 1
+black 1 black 2 green 2 black 1 green 2 black 1 black 1
+black 1 black 2 green 2 black 1 green 2 black 1 black 1
+black 1 black 2 green 2 black 1 green 2 black 1 black 1
+black 1 black 3 green 3 black 1 black 1
+black 1 black 1 black 5 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+
+columns
+0
+black 4 black 3
+black 3 black 3 black 2
+0
+black 15
+black 5
+black 2 black 2 green 3 black 3
+black 5 green 5 black 3
+black 2 green 1 black 3 green 1 black 1 black 2
+black 1 green 5 black 1
+black 7 green 3 black 5
+black 4
+black 4 black 3
+black 3 black 3
+black 3

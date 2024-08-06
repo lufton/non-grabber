@@ -1,0 +1,67 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Ron Jacobson"
+date "May  4, 2017"
+description "Cough cough..... Imagine whirled peas."
+difficulty 2.75
+height 25
+id 29777
+link "https://webpbn.com/play.cgi?id=29777"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Another mixed up quote"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 10
+black 3 black 2
+black 2 green 3 black 2
+black 2 green 3 green 3 black 1
+black 1 green 3 green 3 black 2
+black 1 green 3 green 1 green 3 black 1
+black 2 green 3 green 1 green 1 black 2
+black 1 green 3 green 1 black 1
+black 1 green 1 black 1
+black 2 green 1 green 3 green 3 black 1
+black 1 green 3 green 3 black 2
+black 2 green 3 green 3 black 1
+black 2 green 1 green 1 black 2
+black 1 green 1 green 1 black 2
+black 5 black 3
+black 2 black 7
+black 2
+0
+black 1
+black 8
+black 2 black 2
+black 2 black 2
+black 2 black 2 black 2 black 2
+black 1 black 1
+black 1 blue 2 blue 2 black 1
+
+columns
+0
+0
+black 4 black 2
+black 4 black 3 black 2
+black 2 black 2 black 3
+black 2 green 5 black 3 black 1 black 2
+black 1 green 3 black 1 black 2
+black 2 green 3 black 2 black 2
+black 1 green 5 black 2 black 1 black 1 blue 1
+black 1 green 3 black 2 black 1 black 1 blue 1
+black 1 green 5 green 3 black 1 black 1
+black 1 green 3 black 1 black 1
+black 1 green 3 green 5 black 1 black 1 black 1 blue 1
+black 1 green 3 black 2 black 1 black 1 blue 1
+black 1 green 5 green 3 black 1 black 2
+black 1 green 3 black 2 black 2
+black 2 green 3 black 2 black 2
+black 2 black 3 black 3
+black 3 black 5
+black 3

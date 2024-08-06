@@ -1,0 +1,73 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Apr 21, 2013"
+description ""
+difficulty 1.25
+height 20
+id 21758
+link "https://webpbn.com/play.cgi?id=21758"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "black fantasy"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4 blue 1 red 1 black 24
+black 6 green 1 blue 1 black 22
+black 6 blue 1 black 22
+black 9 blue 1 black 20
+black 8 red 1 blue 1 black 20
+black 10 green 2 black 18
+black 10 green 1 blue 1 black 18
+black 12 blue 1 black 17
+black 12 red 1 black 16
+black 14 blue 1 green 1 black 14
+black 14 green 2 black 14
+black 16 blue 1 red 1 black 12
+black 17 blue 1 black 12
+black 18 red 1 green 1 black 10
+black 18 green 2 black 10
+black 20 blue 1 green 1 black 8
+black 20 green 1 red 1 black 8
+black 22 blue 1 black 7
+black 22 blue 1 red 1 black 6
+black 24 green 2 black 4
+
+columns
+black 20
+black 20
+black 20
+black 20
+blue 1 black 19
+red 1 black 19
+black 1 green 1 blue 1 black 17
+black 1 blue 1 black 17
+black 4 red 1 black 15
+black 3 blue 2 black 15
+black 5 green 2 black 13
+black 5 green 1 blue 1 black 13
+black 7 blue 1 black 11
+black 8 red 1 black 11
+black 9 blue 1 green 1 black 9
+black 9 green 2 black 9
+black 11 blue 1 black 8
+black 11 red 1 blue 1 black 7
+black 13 red 1 green 1 black 5
+black 13 green 2 black 5
+black 15 blue 1 green 1 black 3
+black 15 green 1 red 1 black 3
+black 17 blue 2 black 1
+black 18 red 1 black 1
+black 19 green 1
+black 19 green 1
+black 20
+black 20
+black 20
+black 20

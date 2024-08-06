@@ -1,0 +1,113 @@
+by "jingai"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/1/08"
+height 45
+id 64028
+link "https://www.griddlers.net/nonogram/-/g/64028"
+medium_time "0:25:02"
+points 114623
+popularity 78.45
+title "Wilma"
+width 45
+
+color a ffffff
+color b 000000
+color d ff0000
+color e ffcccc
+color f ff00cc
+color h ffff00
+
+rows
+b 4
+b 1 d 4 b 4
+b 1 d 8 b 1
+b 1 d 3 b 3 d 3 b 2
+b 1 d 2 b 1 d 3 b 1 d 4 b 1
+b 1 d 2 b 1 d 4 b 2 d 3 b 1
+b 1 d 2 b 1 d 6 b 1 d 3 b 1
+b 1 d 3 b 1 d 6 b 1 d 2 b 1
+b 1 d 3 b 1 d 3 b 1 d 3 b 1 d 2 b 1
+b 1 d 4 b 1 d 3 b 3 d 4 b 2 b 4
+b 1 d 4 b 1 d 10 b 4 b 1 d 4 b 1
+b 1 d 4 b 1 d 8 b 1 d 4 b 1 b 1 d 6 b 1
+b 2 d 3 b 8 d 6 b 1 b 1 d 5 b 3
+b 1 e 1 b 1 d 12 b 1 d 4 b 1 b 1 d 3 b 2 d 3 b 1
+b 1 e 1 b 2 d 10 b 1 d 6 b 2 d 3 b 1 d 5 b 1
+b 1 e 4 b 10 d 11 b 1 d 2 b 4
+b 1 e 1 b 2 e 10 b 1 d 10 b 1 d 2 b 1 d 4 b 2
+b 1 e 4 b 1 e 2 b 1 e 5 b 1 d 13 b 1 d 6 b 1
+b 1 e 8 b 1 e 3 b 1 d 13 b 1 d 7 b 1
+b 1 e 2 b 2 e 5 b 1 e 3 b 1 d 21 b 1
+b 1 e 1 b 1 b 1 e 9 b 1 d 4 b 2 d 6 b 1 d 7 b 1
+b 1 e 2 b 2 e 2 b 2 e 5 b 1 d 4 b 1 d 1 b 1 d 3 b 1 d 2 b 1 d 7 b 1
+b 1 e 5 b 1 b 1 e 5 b 1 d 3 b 1 d 2 b 1 d 3 b 1 d 2 b 2 d 5 b 1
+b 1 e 2 b 2 e 2 b 2 e 6 b 1 d 6 b 1 d 3 b 1 d 2 b 1 b 1 d 2 b 2
+b 1 e 2 b 1 e 2 b 1 e 8 b 1 d 4 b 1 d 2 b 1 d 2 b 1 d 3 b 1 b 2
+b 1 e 3 b 1 e 11 b 1 d 3 b 1 d 3 b 1 d 2 b 1 d 2 b 2
+b 1 e 4 b 1 e 10 b 1 d 3 b 1 d 2 b 1 d 2 b 1 d 3 b 1
+b 1 e 16 b 1 d 3 b 1 d 2 b 1 d 2 b 1 d 3 b 1
+b 1 e 3 d 2 e 11 b 1 d 3 b 1 d 4 b 1 d 3 b 2
+b 1 e 3 d 3 e 10 b 1 d 3 b 1 d 3 b 1 d 3 b 2
+b 1 e 4 f 2 d 1 e 9 b 1 d 4 b 3 d 4 b 1
+b 1 e 3 d 1 f 3 d 1 e 8 b 1 d 9 b 3
+b 1 e 3 d 4 e 9 b 1 d 8 b 2
+b 1 e 3 d 2 e 11 b 1 d 5 b 3
+b 1 e 15 b 1 d 3 b 3
+b 1 e 14 b 5
+b 1 e 11 b 3
+b 1 e 6 b 4
+b 1 e 5 b 1
+b 3 e 5 b 1
+b 2 b 3 e 2 b 5
+b 2 b 1 b 2 b 3
+b 1 h 2 b 4 b 1 b 1 h 3 b 1
+b 1 h 6 b 3 h 1 b 4 h 4 b 1
+b 1 h 18 b 1
+
+columns
+b 3
+b 1 h 3
+b 1 h 3
+b 6 b 1 b 1 h 2
+b 2 e 6 b 1 b 1 b 1 h 2
+b 1 e 9 b 1 b 1 b 1 h 2
+b 1 e 11 b 2 b 1 b 2 h 2
+b 2 e 5 d 2 e 1 d 2 e 4 b 4 b 1 h 1
+b 9 b 2 e 3 b 2 e 2 d 2 f 2 d 2 e 6 b 1 b 1 h 1
+b 1 d 9 b 1 b 2 e 4 b 1 e 2 b 1 e 2 d 1 f 2 d 2 e 6 b 1 b 1 h 1
+b 1 d 10 b 1 b 2 e 3 b 2 e 1 b 1 e 6 d 1 f 1 d 1 e 8 b 2 h 2
+b 1 d 3 b 3 d 5 b 3 e 4 b 1 b 1 e 2 b 1 e 6 d 1 e 9 b 1 b 1 h 1
+b 1 d 2 b 1 d 3 b 2 d 3 b 1 e 3 b 1 e 2 b 2 e 19 b 1 b 1 h 1
+b 1 d 1 b 1 d 5 b 1 d 3 b 2 e 1 b 1 e 5 b 2 e 14 b 3 b 1 h 1
+b 1 d 1 b 1 d 6 b 1 d 3 b 1 e 2 b 1 e 3 b 1 b 1 e 13 b 1 b 1 b 1 h 1
+b 1 d 2 b 1 d 6 b 1 d 3 b 1 e 5 b 2 e 14 b 1 b 1 b 1 h 2
+b 1 d 3 b 1 d 2 b 1 d 3 b 1 d 2 b 1 e 21 b 1 b 2 h 3
+b 1 d 2 b 1 d 3 b 1 d 2 b 1 d 2 b 1 e 1 b 1 e 19 b 1 b 1 h 3
+b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 e 2 b 2 e 16 b 1 b 1 h 3
+b 1 d 3 b 1 d 1 b 1 d 2 b 1 d 2 b 1 e 20 b 1 b 3
+b 1 d 3 b 1 d 3 b 1 d 2 b 1 e 8 b 9 e 3 b 1
+b 1 d 6 b 1 d 2 b 1 e 5 b 3 d 9 b 3
+b 2 d 4 b 1 d 2 b 1 e 2 b 3 d 14 b 1
+b 1 d 3 b 1 d 2 b 1 e 1 b 1 d 17 b 1
+b 1 d 1 b 1 d 3 b 2 d 8 b 5 d 5 b 1
+b 2 d 3 b 1 d 7 b 1 d 1 b 1 d 5 b 1 d 3 b 2
+b 1 d 2 b 1 d 7 b 1 d 8 b 1 d 3 b 1
+b 1 d 9 b 1 d 5 b 2 d 2 b 1 d 2 b 2
+b 1 d 9 b 6 d 3 b 1 d 3 b 1
+b 1 d 16 b 1 d 3 b 2
+b 1 d 13 b 2 d 3 b 2
+b 1 d 10 b 2 d 5 b 1
+b 1 d 6 b 3 d 5 b 3
+b 1 d 13 b 2
+b 2 d 11 b 4
+b 1 d 4 b 1 d 3 b 6
+b 1 d 4 b 1 d 2 b 1 d 3 b 1
+b 1 d 4 b 1 d 2 b 1 d 5 b 1
+b 1 d 3 b 1 d 2 b 1 d 7 b 1
+b 1 d 3 b 1 d 1 b 1 d 8 b 1
+b 1 d 2 b 1 d 2 b 1 d 7 b 1
+b 1 d 1 b 1 d 2 b 1 d 7 b 1
+b 2 d 2 b 1 d 6 b 1
+b 2 b 1 d 3 b 2
+b 4

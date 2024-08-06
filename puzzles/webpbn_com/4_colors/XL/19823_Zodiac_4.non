@@ -1,0 +1,97 @@
+by "ryan moore (solar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by ryan moore"
+date "Sep 18, 2012"
+description "Cancer, the crab"
+difficulty 2.25
+height 40
+id 19823
+link "https://webpbn.com/play.cgi?id=19823"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Zodiac #4"
+width 35
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10
+blue 12
+blue 4 blue 2
+black 7 blue 2 blue 2
+black 11 blue 1 blue 1
+black 13 blue 1 blue 1 blue 4
+black 3 black 3 black 3 blue 2 blue 2 blue 2 blue 2
+black 2 black 3 black 2 blue 4 blue 1 blue 1
+black 2 black 2 blue 1 blue 1
+black 1 black 2 blue 2 blue 2
+black 2 black 2 blue 2 blue 4
+black 2 black 2 black 2 blue 12
+black 3 black 3 black 1 black 2 blue 9
+black 7 black 2 black 2 black 3
+black 6 black 1 black 2 black 2 black 4 black 2
+black 6 black 1 black 2 black 10 black 3
+black 3 black 2 black 11 black 4
+black 2 black 18
+black 2 black 15
+black 4 black 16 black 2
+black 24 black 5
+black 28
+black 18
+black 19
+black 20 black 3
+black 3 black 21
+black 3 black 18
+black 2 black 17
+black 3 black 13
+black 3 black 12
+black 2 black 12
+black 3 black 2
+black 2 black 3
+black 3
+0
+green 5 green 1 green 1 green 1 green 5 green 5 green 5
+green 1 green 1 green 1 green 2 green 1 green 1 green 1 green 1 green 1
+green 1 green 3 green 1 green 1 green 1 green 1 green 4 green 5
+green 1 green 2 green 2 green 1 green 2 green 1 green 1 green 1 green 1
+green 5 green 1 green 1 green 1 green 1 green 5 green 5 green 1 green 1
+
+columns
+black 5 green 5
+black 9 green 1 green 1
+black 7 black 3 green 1 green 1
+black 6 black 3 black 2 green 1 green 1
+black 2 black 3 black 2 black 3 green 1 green 1
+black 3 black 4 black 2 black 3 black 2
+black 3 black 4 black 2 black 3 black 3 green 2
+black 2 black 3 black 2 black 2 black 3 green 3
+black 3 black 2 black 2 black 2 black 2 black 2 black 2 green 1 green 1
+black 7 black 2 black 9 black 3 green 3
+black 5 black 2 black 15 green 2
+black 4 black 16
+black 3 black 2 black 15 black 1 green 5
+black 3 black 18 black 2 green 1
+black 3 black 20 green 1
+black 3 black 18 green 1
+black 27 green 5
+black 26
+black 16 green 5
+blue 4 black 16 green 1 green 1
+blue 2 blue 2 black 16 green 1 green 1
+blue 2 blue 1 blue 2 black 16 green 1 green 1
+blue 3 blue 1 blue 2 black 3 black 12 green 1 green 1
+blue 4 blue 2 blue 2 black 2 black 11
+blue 2 blue 4 blue 2 black 2 black 11 green 5
+blue 2 blue 2 black 2 black 2 black 2 green 1 green 1 green 1
+blue 2 blue 2 black 3 black 3 black 3 green 1 green 1 green 1
+blue 2 blue 2 black 3 black 2 black 2 green 1 green 1 green 1
+blue 2 blue 2 black 2 black 2 black 2 green 1 green 1
+blue 2 blue 4 blue 2 black 3 black 1
+blue 2 blue 2 blue 4 black 2 green 5
+blue 3 blue 1 blue 3 green 1 green 1
+blue 2 blue 1 blue 2 green 1 green 2
+blue 2 blue 2 green 1 green 1 green 1
+blue 4 green 3

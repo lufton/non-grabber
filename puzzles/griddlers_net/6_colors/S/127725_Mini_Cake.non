@@ -1,0 +1,47 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/6/12"
+height 13
+id 127725
+link "https://www.griddlers.net/nonogram/-/g/127725"
+medium_time "0:02:03"
+points 170
+popularity 60.53
+title "Mini Cake"
+width 11
+
+color a 8bc8f7
+color b be1212
+color c ffffff
+color d a5784d
+color e e0bacf
+color f ce3863
+
+rows
+b 3
+b 3 c 1
+c 2 b 1 c 3
+c 6 d 1
+d 2 c 4 d 3
+d 4 c 1 d 6
+d 11
+d 9 e 1 d 1
+d 1 e 1 f 2 d 2 f 2 e 2
+e 2 f 1 e 2 f 2 e 2
+e 1 f 1 e 2 f 1 e 2
+e 1 f 2 e 1 f 1 e 2
+f 2 e 1 f 1 e 1
+
+columns
+d 4
+d 4 e 2
+c 1 d 4 f 1 e 3
+c 3 d 3 f 5
+b 2 c 4 d 3 e 2 f 2
+b 3 c 2 d 4 e 4
+b 2 c 3 d 3 f 5
+c 3 d 4 f 2 e 3
+c 1 d 5 e 4
+d 3 e 3
+d 3

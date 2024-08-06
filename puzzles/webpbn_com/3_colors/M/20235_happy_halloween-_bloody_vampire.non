@@ -1,0 +1,61 @@
+by "lara bouilland (cosmowanda)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by lara bouilland"
+date "Oct 31, 2012"
+description "have a happy vampire"
+difficulty 3.5
+height 20
+id 20235
+link "https://webpbn.com/play.cgi?id=20235"
+note "published,definitely unique,may require deep lookahead"
+quality 2.25
+title "happy halloween- bloody vampire"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 2 black 1
+black 1 black 2
+black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 6 black 6
+black 2 black 1 black 1 black 1 black 1 black 2
+black 1 black 2 black 2 black 2 black 1 black 2
+black 1 black 1 black 6 black 1
+black 2 black 1 red 1 red 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 2 black 3 black 1 black 2
+black 2 black 4 black 1
+black 1 black 1
+black 8
+red 8
+red 10
+red 10
+red 12
+red 13
+
+columns
+0
+black 2
+black 3
+black 1 black 2 red 1
+black 1 black 3 red 2
+black 3 black 2 red 4
+black 3 black 3 black 3 red 5
+black 3 black 2 black 1 red 5
+black 2 black 3 black 1 black 1 red 5
+black 1 black 2 black 2 red 1 black 2 black 1 red 5
+black 1 black 1 black 1 black 1 red 5
+black 1 black 2 black 2 red 1 black 1 black 1 red 5
+black 1 black 3 black 2 black 1 red 5
+black 2 black 3 black 2 red 5
+black 6 black 2 red 4
+black 1 black 3 red 2
+black 1 black 1
+black 1 black 2
+black 3
+black 2

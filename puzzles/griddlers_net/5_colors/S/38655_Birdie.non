@@ -1,0 +1,44 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/5/06"
+height 10
+id 38655
+link "https://www.griddlers.net/nonogram/-/g/38655"
+medium_time "0:02:09"
+points 157
+popularity 67.08
+title "Birdie"
+width 12
+
+color a ffffff
+color b 000000
+color c 3300ff
+color d ccccff
+color e ff9900
+
+rows
+c 1
+c 2 c 3
+c 3 c 1 b 1 c 1 c 3
+c 3 c 2 e 2 c 2
+c 3 d 3 c 2
+c 1 d 4
+d 4
+c 1 e 1 c 1 e 1
+c 5
+c 2
+
+columns
+c 3
+c 4 c 1
+c 4 c 1
+c 1 d 2 c 2
+c 4 d 3 e 1 c 2
+c 1 b 1 c 1 d 3 c 3
+c 2 e 1 d 3 e 1
+e 1 c 1
+c 2
+c 2
+c 1
+c 1

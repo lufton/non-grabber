@@ -1,0 +1,41 @@
+by "Vicki Woods (vickicwoods)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Vicki Woods"
+date "Apr  2, 2024"
+description "Vicki Woods. My first puzzle. I have a greater appreciation for all you veteran puzzle makers."
+difficulty 1.75
+height 10
+id 38436
+link "https://webpbn.com/play.cgi?id=38436"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "My name is..."
+width 10
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 4
+black 2
+blue 2 blue 2 blue 2
+blue 2 blue 4 blue 2
+blue 1 blue 1 blue 1 blue 1
+blue 3 blue 3
+blue 3 blue 3
+
+columns
+black 1 blue 2
+black 2 blue 5
+black 2 blue 2
+black 2 blue 4
+black 2 blue 2
+black 2 blue 2
+black 2 blue 4
+black 2 blue 2
+black 2 blue 5
+black 1 blue 2

@@ -1,0 +1,57 @@
+by "Juho (Telorast)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Juho"
+date "Jun  9, 2013"
+description ""
+difficulty 2.5
+height 20
+id 22118
+link "https://webpbn.com/play.cgi?id=22118"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Flying my kite"
+width 20
+
+rows
+1,5
+3,3
+5,4
+7,4,6
+5,1,1
+3,3,1,1
+1,2,1,1
+1,4,4
+2,1
+3,5
+3,3,1
+1,3,2
+3,1,3
+5,3,1
+3,5,1,2
+1,1,1,2,1
+1,3,1,2,1,1
+1,1,1,1,3,1
+1,1,1,1,2
+18
+
+columns
+1,1
+3,3,1
+5,9
+7,3,1
+5,1,1,1
+3,1,5
+1,3,1,1,1
+1,2,2,1
+2,1,1,1,8
+2,1,1,1,2,2,1
+2,1,1,1,1,1,2,1
+1,1,1,1,1,1,1
+1,1,1
+6,4,2,1,1
+2,7,4
+2,1,4,1,1,1
+6,1,2,1
+1,2,4
+1,1,2
+0

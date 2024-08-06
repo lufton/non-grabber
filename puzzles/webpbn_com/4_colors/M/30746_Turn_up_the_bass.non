@@ -1,0 +1,62 @@
+by "Bo (bere0034)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Bo"
+date "Jan 19, 2018"
+description "An equalizer display"
+difficulty 1.5
+height 20
+id 30746
+link "https://webpbn.com/play.cgi?id=30746"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Turn up the bass"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 2 black 2
+0
+black 2
+0
+blue 2 blue 2 blue 2
+0
+blue 2 blue 2 blue 2 blue 2
+0
+blue 2 blue 2 blue 2
+0
+blue 2 blue 2 blue 2 blue 2 blue 2 blue 2
+0
+blue 2 blue 2 blue 2 blue 2 blue 2
+0
+green 2 green 2 green 2 green 2 green 2 green 2
+0
+green 2 green 2 green 2 green 2 green 2 green 2 green 2
+0
+green 2 green 2 green 2 green 2 green 2 green 2 green 2
+
+columns
+green 1 green 1
+green 1 green 1
+0
+black 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 green 1 green 1 green 1
+black 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 green 1 green 1 green 1
+0
+blue 1 blue 1 green 1 green 1 green 1
+blue 1 blue 1 green 1 green 1 green 1
+0
+blue 1 blue 1 blue 1 green 1 green 1 green 1
+blue 1 blue 1 blue 1 green 1 green 1 green 1
+0
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 green 1 green 1 green 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 green 1 green 1 green 1
+0
+blue 1 green 1 green 1 green 1
+blue 1 green 1 green 1 green 1
+0
+blue 1 blue 1 blue 1 blue 1 blue 1 green 1 green 1 green 1
+blue 1 blue 1 blue 1 blue 1 blue 1 green 1 green 1 green 1

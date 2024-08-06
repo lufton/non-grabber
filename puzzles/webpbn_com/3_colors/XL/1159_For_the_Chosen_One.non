@@ -1,0 +1,90 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Arduinna"
+date "Aug  8, 2007"
+description "Buffy's scythe. This is my first puzzle. I hope it's acceptable and not too nerdy!"
+difficulty 2.75
+height 32
+id 1159
+link "https://webpbn.com/play.cgi?id=1159"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "For the Chosen One"
+width 37
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+red 5 black 2
+red 4 black 3
+red 6 black 4
+red 5 red 6 black 3
+red 4 red 6 black 2
+red 3 red 5 black 2
+red 3 red 6 black 2
+red 5 red 6 black 3
+red 3 red 2 red 7 black 2
+red 3 red 8 black 2
+red 3 red 7 black 2
+red 3 red 7 black 2
+red 3 red 4 black 5
+red 3 red 2 black 4
+red 3 black 3 black 1
+red 3 black 7
+red 3 black 10
+red 3 black 2 black 4 black 3
+black 1 red 4 black 2 black 2 black 2
+black 2 red 2 black 2 black 2 black 3
+black 3 red 1 black 7
+black 5 black 5
+black 3 black 1 black 3
+black 4 black 4 black 1 black 2
+black 4 black 2 black 3 black 2
+black 3 black 2 black 2 black 2
+black 5 black 3 black 1 black 4
+black 3 black 11
+black 3 black 7
+black 1
+black 3
+
+columns
+black 3
+black 3
+black 5
+black 3
+black 4
+black 4
+black 3
+black 6
+red 1 black 3
+red 2 black 2
+red 4
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3 black 1
+red 5 red 1 black 1
+red 5 red 2 black 1
+red 4 red 2 red 2 black 1 black 2 black 2
+red 5 red 5 black 1 black 4 black 5
+red 4 red 4 black 1 black 1 black 1 black 1 black 2
+red 3 red 4 black 2 black 2 black 1 black 3
+red 5 red 5 black 1 black 3 black 1 black 2 black 2
+red 2 red 3 red 6 black 1 black 7 black 1 black 2 black 1
+red 9 black 1 black 17
+red 8 black 2 black 3 black 2 black 1 black 2 black 1
+black 1 red 7 black 2 black 2 black 3 black 2
+black 2 red 6 black 2 black 3 black 4 black 3
+black 4 red 3 black 3 black 5 black 2 black 2
+black 9 black 3 black 5
+black 5 black 3

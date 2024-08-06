@@ -1,0 +1,96 @@
+by "starch"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/15/07"
+height 34
+id 45826
+link "https://www.griddlers.net/nonogram/-/g/45826"
+medium_time "0:35:13"
+points 79570
+popularity 88.0
+title "Donut"
+width 37
+
+color a 00cccc
+color b 000000
+color c ff9900
+color d ff0000
+color e 00d700
+color f ffcc00
+color g ffff99
+color h 6666ff
+
+rows
+b 2
+b 3 f 2 b 3
+b 5 f 3 g 2 f 3 b 2
+b 2 f 5 g 4 d 1 g 3 f 1 b 2
+b 2 f 2 g 9 d 1 g 4 f 2 b 1
+b 2 f 2 g 4 h 2 g 7 e 1 g 3 f 1 b 1
+b 1 f 2 g 10 e 2 g 3 e 1 g 1 d 1 g 1 f 1 b 2
+b 1 f 1 g 2 e 1 g 3 d 2 g 11 d 1 g 1 f 1 b 1 c 1 b 1
+b 1 f 1 g 3 e 1 g 10 d 1 g 6 f 3 b 1 c 1 b 1
+b 1 f 1 g 9 f 5 g 1 d 1 g 2 e 1 g 3 h 1 f 2 b 1 c 1 b 1
+b 1 f 1 g 2 h 1 g 4 f 4 b 4 g 4 e 1 g 3 h 1 f 2 b 1 c 2 b 1
+b 1 f 2 g 2 h 1 g 3 f 1 b 2 f 1 b 1 f 3 b 1 f 2 g 6 f 3 b 1 c 2 b 1
+b 1 f 1 g 5 d 2 f 1 b 1 f 1 b 2 f 2 c 2 b 1 f 1 g 2 h 2 g 2 f 2 b 2 c 2 b 1
+b 1 f 1 g 1 d 1 g 2 e 2 f 1 b 2 f 4 c 3 b 2 f 1 g 5 f 3 b 1 f 1 c 2 b 1
+b 1 f 2 g 1 d 1 g 4 f 1 b 1 f 3 c 2 b 4 f 1 g 2 e 1 g 1 d 2 f 3 b 1 f 1 c 2 b 1
+b 1 f 2 g 7 f 1 b 1 f 2 c 2 b 2 b 1 f 1 g 3 e 1 g 3 f 3 b 1 f 1 c 2 b 1
+b 1 f 1 g 8 f 1 b 1 f 1 c 2 b 1 b 1 f 1 g 7 f 3 b 2 f 1 c 2 b 1
+b 1 f 1 g 1 h 2 g 5 f 1 b 1 f 1 c 2 b 1 b 1 f 1 g 3 d 1 g 4 f 2 b 2 f 1 c 3 b 1
+b 1 f 1 g 4 d 2 g 2 f 1 b 1 c 2 b 1 b 2 f 1 g 4 d 1 g 2 h 1 f 2 b 2 f 2 c 3 b 1
+b 1 f 2 g 8 f 1 b 4 f 2 g 8 h 1 f 1 b 1 f 4 c 2 b 1
+b 1 f 1 g 1 e 2 g 5 d 1 f 4 g 4 e 2 g 4 f 2 b 1 f 3 c 3 b 1
+b 1 f 1 g 8 d 1 g 4 d 1 g 8 f 3 b 1 f 3 c 2 b 1
+b 1 f 1 g 5 h 1 g 4 e 1 g 2 d 1 g 3 h 2 g 2 f 4 b 1 f 2 c 3 b 1
+b 1 f 1 g 5 h 1 g 4 e 1 g 6 f 6 b 2 f 3 c 2 b 1
+b 1 f 1 h 2 g 14 f 2 b 2 f 2 b 2 f 3 c 2 b 1
+b 1 f 2 g 5 d 2 g 6 f 2 b 1 f 1 b 4 f 3 c 2 b 1
+b 2 f 2 g 7 f 6 b 1 f 8 c 2 b 1
+b 2 f 5 g 3 f 2 b 5 f 7 c 2 b 1
+b 5 f 3 g 1 f 1 b 2 f 9 c 3 b 1
+b 1 c 1 f 2 b 3 f 1 g 1 f 1 b 1 f 8 c 3 b 2
+b 1 c 2 f 2 b 1 f 3 b 1 f 6 c 4 b 1
+b 1 c 3 f 1 b 4 f 3 c 5 b 2
+b 3 c 10 b 3
+b 10
+
+columns
+b 3
+b 2 f 3 b 5
+b 1 f 2 g 2 f 6 b 2
+b 1 f 2 g 1 h 1 g 6 h 1 f 1 b 2
+b 2 f 2 g 2 h 1 g 2 e 1 g 3 h 1 f 2 b 3
+b 1 f 2 g 7 e 1 g 5 f 2 b 1 c 1 b 1
+b 1 f 2 g 1 d 2 g 3 d 1 g 8 f 1 b 1 f 1 c 1 b 1
+b 1 f 1 g 8 d 1 g 8 f 1 b 1 f 1 c 2 b 1
+b 1 f 1 g 13 h 2 g 3 f 1 b 2 f 1 c 1 b 1
+b 1 f 1 g 2 h 2 g 1 e 1 g 13 f 2 b 1 f 1 c 1 b 1
+b 1 f 1 g 6 e 1 g 3 f 2 g 6 d 1 g 2 f 1 b 2 f 1 c 1 b 1
+b 1 f 1 g 5 d 1 f 4 b 2 f 1 d 2 g 3 d 1 g 2 f 3 b 1 c 1 b 1
+b 1 f 1 g 1 e 2 g 3 d 1 b 4 f 1 c 1 b 1 f 1 g 9 f 1 b 1 c 1 b 1
+b 1 f 1 g 5 f 2 b 1 f 3 c 2 b 1 f 1 g 1 e 2 g 2 f 5 b 1 c 1 b 1
+b 1 f 1 g 5 f 1 b 2 f 3 c 2 b 2 f 1 g 5 f 2 b 4 c 1 b 1
+b 1 f 1 g 5 f 1 b 1 f 3 c 2 b 1 b 1 f 1 g 5 f 1 b 2 f 3 c 1 b 1
+b 1 f 1 g 3 d 1 g 2 f 2 b 1 f 1 c 2 b 1 b 1 f 1 g 1 d 2 g 3 f 1 b 1 f 4 c 1 b 1
+b 1 f 1 g 3 d 1 g 1 f 2 b 2 f 1 c 1 b 1 b 1 f 1 g 6 f 1 b 1 f 4 c 1 b 1
+b 1 f 1 g 1 h 1 g 3 f 1 b 1 f 2 c 1 b 2 b 1 f 1 g 6 f 2 b 1 f 3 c 2 b 1
+b 1 f 1 g 1 h 1 g 3 f 1 b 1 f 2 c 1 b 1 b 1 f 1 g 6 f 2 b 2 f 3 c 2 b 1
+b 1 f 1 g 5 f 1 b 1 f 1 c 2 b 2 f 1 g 3 e 1 g 1 h 1 f 2 b 1 f 5 c 1 b 1
+b 1 f 1 g 6 f 1 b 2 c 1 b 2 f 1 g 4 e 1 g 1 h 1 f 1 b 1 f 5 c 2 b 1
+b 1 f 1 g 3 e 1 g 4 f 1 b 2 f 1 g 8 f 1 b 2 f 4 c 2 b 1
+b 1 f 1 g 3 e 1 g 1 d 2 g 1 f 3 g 3 d 2 g 4 f 2 b 1 f 3 c 2 b 1
+b 1 f 1 g 20 f 3 b 1 f 3 c 2 b 1
+b 1 f 1 g 1 d 2 g 9 e 2 g 5 f 3 b 2 f 2 c 2 b 1
+b 1 f 1 g 6 e 2 g 1 h 1 g 5 h 2 f 3 b 2 f 3 c 1 b 1
+b 1 f 1 g 2 e 2 g 5 h 1 g 1 d 1 g 3 f 5 b 1 f 3 c 2 b 1
+b 1 f 1 g 11 d 1 g 1 f 3 b 4 f 3 c 2 b 1
+b 1 f 1 g 2 d 2 g 5 f 5 b 1 f 6 c 2 b 1
+b 2 f 1 g 3 f 1 h 2 f 6 b 2 f 5 c 2 b 1
+b 1 f 12 b 2 f 4 c 3 b 1
+b 4 f 4 b 5 f 3 c 4 b 1
+b 1 c 1 b 5 f 4 c 6 b 1
+b 1 c 13 b 2
+b 2 c 9 b 2
+b 9

@@ -1,0 +1,33 @@
+by "Colin McCaughey (MillvilleBice)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Colin McCaughey"
+date "Apr 19, 2017"
+description "Harry potters glasses and mark"
+difficulty 1.5
+height 8
+id 29676
+link "https://webpbn.com/play.cgi?id=29676"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Hogwarts class of 2017"
+width 8
+
+rows
+1
+1,1
+1,1
+1
+2,1
+2,1,1
+2,1,1
+1
+
+columns
+1
+2
+2
+1
+2,2
+1,2,1
+2,2
+0

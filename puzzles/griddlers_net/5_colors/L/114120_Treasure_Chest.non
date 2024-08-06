@@ -1,0 +1,82 @@
+by "gridmaster"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/18/11"
+height 25
+id 114120
+link "https://www.griddlers.net/nonogram/-/g/114120"
+medium_time "0:09:34"
+points 11905
+popularity 69.55
+title "Treasure Chest"
+width 35
+
+color a cccccc
+color b 000000
+color c ffff00
+color d cc9900
+color e 999999
+
+rows
+b 20
+b 2 c 1 d 13 c 1 b 2 c 2 b 1
+b 2 c 1 d 13 c 1 b 2 c 1 d 2 c 1 b 1
+b 2 c 1 d 13 c 1 b 2 c 2 d 3 c 1 b 1
+b 1 c 1 d 14 c 1 b 1 c 2 d 4 c 1 b 1
+b 2 c 1 d 13 c 1 b 2 c 1 d 5 c 1 b 1
+b 1 c 16 b 1 c 2 d 5 c 1 b 1
+b 18 c 1 d 6 c 1 b 1 e 4
+b 1 c 16 b 1 c 1 d 6 c 1 b 1 e 4
+b 1 c 1 d 4 c 5 d 5 c 1 b 1 c 1 d 6 c 1 b 1 e 3
+b 1 c 1 d 4 c 1 b 1 c 1 b 1 c 1 d 5 c 1 b 1 c 1 d 6 c 1 b 1 e 2
+e 1 b 1 c 1 d 4 c 2 b 1 c 2 d 5 c 1 b 1 c 1 d 5 c 1 b 1 e 2
+e 2 b 1 c 1 d 4 c 2 b 1 c 2 d 5 c 1 b 1 c 1 d 4 c 1 b 1 e 3
+e 3 b 1 c 1 d 4 c 5 d 5 c 1 b 1 c 1 d 3 c 1 b 1 e 4
+e 4 b 1 c 1 d 5 c 3 d 6 c 1 b 1 c 1 d 2 c 1 b 1 e 2 e 2
+e 4 b 1 c 1 d 14 c 1 b 1 c 1 d 1 c 1 b 1 e 2 e 2
+e 4 b 1 c 16 b 1 c 2 b 1 e 2 e 2
+e 4 b 20 e 2 e 2
+e 25 e 2
+e 3 e 3 e 2
+e 3 e 3 e 2
+e 3 e 3 e 2
+e 3 e 3
+e 3 e 3
+e 3 e 3
+
+columns
+e 5
+e 6
+e 7
+e 14
+b 13 e 7
+b 3 c 1 b 1 c 9 b 1 e 7
+b 2 c 3 b 1 c 1 d 7 c 1 b 1 e 1
+b 2 c 1 d 2 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 2 c 1 d 3 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 1 c 1 d 4 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 6 d 2 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 2 b 1 c 4 d 1 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 3 b 2 c 2 d 1 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 2 b 1 c 4 d 1 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 6 d 2 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 1 d 5 c 1 b 1 c 1 d 7 c 1 b 1 e 1
+b 1 d 4 c 2 b 1 c 9 b 1 e 1
+b 1 d 2 c 2 b 13 e 7
+b 1 d 1 c 1 b 3 c 11 b 1 e 7
+b 1 c 1 b 2 c 3 d 9 c 1 b 1 e 7
+b 3 c 2 d 10 c 1 b 1 e 2
+b 2 c 2 d 10 c 1 b 1 e 2
+b 1 c 1 d 11 c 1 b 1 e 2
+b 1 c 1 d 10 c 1 b 1 e 2
+b 1 c 1 d 8 c 1 b 1 e 2
+b 1 c 8 b 1 e 2
+b 8 e 11
+e 15
+e 4
+e 3
+e 2

@@ -1,0 +1,62 @@
+by "Gus nelson (Supergus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Gus nelson"
+date "Nov 26, 2021"
+description "A smiley face with red hair."
+difficulty 2.5
+height 20
+id 35444
+link "https://webpbn.com/play.cgi?id=35444"
+note "published,definitely non-unique,definitely requires much guessing"
+quality 2.0
+title "Red-head"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1
+red 1 red 8 red 2
+red 1 red 11
+red 3 black 1 red 10 black 1 red 1
+red 1 red 1 black 1 red 9 black 1
+red 2 black 1 blue 2 blue 2 black 1
+red 2 black 1 blue 1 blue 1 black 1
+red 2 black 1 blue 2 blue 2 black 1
+red 1 red 1 black 1 black 1
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 1 black 1 black 1 black 1
+red 2 black 1 black 6 black 1
+red 1 black 1 black 1
+black 1 black 1
+black 10
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+red 1 red 1
+red 1 red 3 red 6
+red 10 red 1
+red 1 black 11 black 1
+red 2 black 1 black 1 black 2
+red 2 black 1
+red 4 black 1 black 1
+red 4 blue 3 black 1 black 1
+red 4 blue 1 blue 1 black 1 black 1
+red 4 black 1 black 1
+red 4 black 1 black 1
+red 4 black 1 black 1
+red 5 blue 3 black 1 black 1
+red 4 blue 1 blue 1 black 1
+red 1 red 3 black 2
+red 1 black 1 black 1 black 1
+red 1 red 1 black 11 black 1
+0
+0
+0

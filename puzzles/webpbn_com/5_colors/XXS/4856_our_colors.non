@@ -1,0 +1,33 @@
+by "person harris (games1793)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by person harris"
+date "Jan 27, 2009"
+description ""
+difficulty 1.25
+height 5
+id 4856
+link "https://webpbn.com/play.cgi?id=4856"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "our colors"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 blue 1 red 1
+black 1 blue 1 red 1 green 1
+black 1 blue 1 red 1 green 1 black 1
+blue 1 red 1 green 1 black 1
+red 1 green 1 black 1
+
+columns
+black 1 blue 1 red 1
+black 1 blue 1 red 1 green 1
+black 1 blue 1 red 1 green 1 black 1
+blue 1 red 1 green 1 black 1
+red 1 green 1 black 1

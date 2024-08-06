@@ -1,0 +1,78 @@
+by "Gustavo Hernandez Gonzalez (gusrick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gustavo Hernandez Gonzalez"
+date "Feb 12, 2009"
+description "Something that can save your life if you know how to use it"
+difficulty 1.75
+height 35
+id 5020
+link "https://webpbn.com/play.cgi?id=5020"
+note "published,definitely non-unique,may require some guessing"
+quality 2.5
+title "I'm on fire!!!!!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 black 2
+black 9
+black 18
+black 14
+black 7 black 1
+black 8 black 3
+black 1 black 2 black 3
+black 2 black 2 black 3
+black 2 red 5 black 3
+black 2 red 9 black 3
+black 2 red 11 black 3
+black 2 red 12 black 3
+black 2 red 12 black 3
+black 1 red 12 black 3
+red 12 black 3
+red 12 black 3
+red 12 black 3
+red 12 black 3
+red 12 black 3
+red 12 black 3
+red 1 green 10 red 1 black 5
+red 1 green 1 blue 2 green 2 blue 1 green 4 red 1
+red 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 3 red 1 black 5
+red 1 blue 1 green 3 blue 1 green 1 blue 1 green 1 blue 2 red 1
+red 1 blue 1 green 3 blue 1 green 1 blue 1 green 2 blue 1 red 1
+red 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 red 1
+red 1 green 1 blue 2 green 2 blue 1 green 2 blue 2 red 1
+red 1 green 10 red 1
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+red 12
+
+columns
+black 2 black 7
+black 3 black 7
+black 3 black 1 red 24
+black 3 black 2 red 10 green 2 blue 4 green 2 red 7
+black 6 red 11 green 1 blue 1 green 4 blue 1 green 1 red 7
+black 6 red 11 green 1 blue 2 green 2 blue 2 green 1 red 7
+black 5 red 12 green 8 red 7
+black 8 red 12 green 2 blue 4 green 2 red 7
+black 8 red 12 green 1 blue 1 green 4 blue 1 green 1 red 7
+black 4 red 12 green 2 blue 4 green 2 red 7
+black 2 red 12 green 8 red 7
+black 2 red 11 green 3 blue 1 green 1 blue 2 green 1 red 7
+black 2 red 11 green 3 blue 2 green 1 blue 1 green 1 red 7
+black 2 red 25
+black 2
+black 2 black 1 black 1
+black 2 black 16 black 1
+black 19 black 1
+black 16 black 1
+black 1 black 1

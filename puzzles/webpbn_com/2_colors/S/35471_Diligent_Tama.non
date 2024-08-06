@@ -1,0 +1,47 @@
+by "Devon McCarthy (The Dev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Devon McCarthy"
+date "Dec 12, 2021"
+description "Mametchi from Tamagotchi"
+difficulty 1.5
+height 16
+id 35471
+link "https://webpbn.com/play.cgi?id=35471"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Diligent Tama"
+width 14
+
+rows
+3,3
+5,5
+12
+12
+1,1
+1,3,3,1
+1,2,1,2,1,1
+1,2,1,2,1,1
+1,3,3,1
+1,2,1
+10
+1,1
+1,1,1,1
+3,3
+1,2,1
+2,2
+
+columns
+4
+4,1
+4,4,1,2
+4,4,2,1
+4,1,1,1,4
+3,2,1,1
+2,2,1
+2,2,1
+3,4,1,1
+4,4,1,4
+4,1,1,2,1
+4,2,1,2
+4,1
+4

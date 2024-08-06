@@ -1,0 +1,58 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Apr 22, 2011"
+description ""
+difficulty 1.5
+height 15
+id 13545
+link "https://webpbn.com/play.cgi?id=13545"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "MY favorite band... lmbo"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 7
+blue 8
+blue 3 blue 2
+blue 3 blue 4
+blue 2 blue 4
+blue 7
+blue 2 black 8
+black 3 red 3 black 10
+black 1 red 5 green 3 black 2
+red 6 black 1 black 2
+black 4 red 6 black 2
+black 1 red 2 blue 1 red 1 black 2
+blue 4
+0
+
+columns
+0
+black 2
+black 2 black 1
+blue 2 black 1 black 1
+blue 3 black 1 black 1
+blue 4
+blue 5 red 4
+blue 2 blue 3 red 4
+blue 2 blue 2 red 4
+blue 2 blue 4 black 1 red 4
+blue 5 black 2 red 4
+blue 4 black 2 green 1 red 2 blue 2
+blue 3 black 2 green 1 blue 1
+blue 1 black 2 green 1 red 1 blue 1
+black 2 black 1 blue 1
+black 2 black 1
+black 2 black 2
+black 5
+black 3
+0

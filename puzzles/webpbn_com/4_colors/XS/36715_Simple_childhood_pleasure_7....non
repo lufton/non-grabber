@@ -1,0 +1,42 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr 18, 2023"
+description "A pet is a pet, no matter how ugly!"
+difficulty 1.25
+height 10
+id 36715
+link "https://webpbn.com/play.cgi?id=36715"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Simple childhood pleasure #7..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 2
+green 2 black 2
+green 3
+green 2 green 2
+blue 2 black 1
+blue 2 black 1 black 4
+blue 2 black 4
+black 2 black 1 black 1
+green 10
+
+columns
+green 1
+green 1 blue 3 black 1 green 1
+green 2 blue 3 black 1 green 1
+green 2 green 1
+green 3 black 1 green 1
+black 2 green 1 black 1 black 2 green 1
+black 2 black 2 green 1
+black 2 green 1
+black 3 green 1
+black 1 green 1

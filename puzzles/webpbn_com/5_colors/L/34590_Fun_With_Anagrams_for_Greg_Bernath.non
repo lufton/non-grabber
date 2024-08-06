@@ -1,0 +1,83 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Teresa K"
+date "Oct 21, 2020"
+description "Rearrange the letters in "GREG BERNATH" to find three words depicted in the image."
+difficulty 2.25
+height 30
+id 34590
+link "https://webpbn.com/play.cgi?id=34590"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Fun With Anagrams for: Greg Bernath"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 black 3 black 3
+red 6 blue 3 black 2 black 2
+red 3 red 3 blue 3 black 1 black 4 black 4 black 1
+red 2 red 2 blue 3 black 2 black 3 black 2
+red 2 red 2 blue 2 black 4 black 4
+red 3 red 3 blue 2 black 1
+green 1 red 6 blue 3 green 1 black 1 green 1
+green 3 red 4 blue 5 black 1 black 2 black 1
+green 2 green 1 blue 4 black 3 black 2 black 1 black 1
+green 2 green 2 black 1 black 1 black 1 black 1 red 3 black 1
+green 3 green 3 black 3 black 1 black 2 black 2
+green 6 black 2 black 2
+green 4 black 7
+0
+black 5 black 5
+black 1 black 5 black 1
+black 1 black 1
+black 2 black 2
+black 1 green 6 black 3 black 3
+black 3 green 2 green 3 black 7
+black 1 green 2 green 3
+green 1 green 2
+green 5 green 5
+green 6 blue 1 green 6
+green 3 green 1 red 1 blue 1 blue 1 red 1 green 1 green 3
+green 2 red 1 red 1 blue 1 red 1 red 1 green 2
+green 2 red 1 red 1 green 2
+green 3 green 3
+green 3 green 5
+green 16
+
+columns
+green 4 green 4
+red 4 green 6 black 1 green 6
+red 6 green 1 green 3 black 3 green 3 green 3
+red 3 red 3 green 2 black 1 green 2 green 2
+red 2 red 2 green 2 green 2 green 1
+red 2 red 2 green 3 green 2 green 1
+red 3 red 3 green 4 green 5 red 1 green 1
+red 6 blue 2 green 2 green 2 red 1 red 1 green 1
+blue 1 red 4 blue 2 green 2 red 1 green 1
+blue 2 blue 2 green 1 blue 1 green 1
+blue 3 blue 3 green 1 blue 1 blue 1 green 1
+blue 6 green 1 blue 1 green 1
+blue 4 black 3 green 2 red 1 green 1
+black 1 black 1 green 3 red 1 red 1 green 1
+black 3 green 3 red 1 green 1
+green 5 green 1
+black 3 green 2 green 2
+black 3 green 1 black 1 black 4 green 2 green 2
+black 2 black 1 black 1 black 2 green 2 green 1
+black 1 black 3 black 4 black 1 black 1 green 3 green 2
+black 1 black 1 black 3 black 1 black 2 green 6
+black 1 black 1 black 2 black 2 black 1 green 4
+black 3 red 1 black 1 black 1 black 1
+black 1 black 1 red 1 black 1 black 1 black 1
+black 6 red 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 2 black 1
+black 1 black 1 black 3 black 1 black 2
+black 1 black 3 black 4 black 1 black 1
+black 2 black 1 black 1 black 2
+black 3 green 1 black 4

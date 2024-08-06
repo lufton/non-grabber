@@ -1,0 +1,43 @@
+by "Rosea (death-roses)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rosea"
+date "Jul 12, 2009"
+description "Blue Bob watches the fireworks with Red Fred!"
+difficulty 1.5
+height 10
+id 6290
+link "https://webpbn.com/play.cgi?id=6290"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Ooooh! Aaaah!"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 2 blue 1 green 1 red 1
+black 1 green 1 blue 1 blue 1 black 1 green 1 red 1 black 1
+black 2 black 2 red 1 blue 1 red 1
+black 1 red 1 black 3 blue 1 black 2 black 1
+red 3 black 1 blue 3 black 2
+black 1 red 1 black 3 blue 1 black 4
+red 1 black 1 red 1 black 1 blue 1 black 1 blue 1 black 3
+green 10
+green 2
+green 1 green 6
+
+columns
+green 1 black 1 black 1 red 1 black 1 red 1 green 3
+black 1 black 1 red 3 black 1 green 2
+black 1 green 1 black 2 red 1 black 1 red 1 green 1
+blue 1 black 4 green 1
+blue 1 black 2 blue 1 black 1 blue 1 green 1 green 1
+blue 1 black 1 blue 3 black 1 green 1 green 1
+green 1 black 1 black 1 blue 1 black 1 blue 1 green 1 green 1
+red 1 green 1 red 1 black 4 green 1 green 1
+red 1 blue 1 black 3 green 1 green 1
+black 1 red 1 black 1 black 2 green 1 green 1

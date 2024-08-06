@@ -1,0 +1,111 @@
+by "ledka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/10/08"
+height 46
+id 59445
+link "https://www.griddlers.net/nonogram/-/g/59445"
+medium_time "0:29:20"
+points 21318
+popularity 74.22
+title "Dodo"
+width 41
+
+color a b0d63c
+color b 000000
+color c ccffff
+color d cc00ff
+color e 9900cc
+color f 996600
+color g cc9900
+
+rows
+d 6
+d 4 f 4
+d 3 f 6
+d 3 f 2 f 4 g 1
+d 2 f 2 b 1 f 1 g 4
+d 2 f 3 f 1 g 6 b 5
+d 2 f 5 g 6 b 6
+d 2 f 4 g 7 b 4 e 1 b 1
+d 4 f 8 b 8
+c 4 d 4 f 7 b 8
+c 1 d 2 c 3 d 6 f 4 b 7
+c 2 d 1 c 2 d 2 c 2 d 8 b 5
+c 8 d 1 c 2 d 8 b 2
+c 2 d 3 c 3 d 1 c 2 d 8
+d 2 c 3 d 1 e 19 d 8
+c 2 d 3 c 1 e 21 d 7
+c 1 d 1 c 3 e 23 d 6
+d 1 c 3 d 1 e 24 d 6
+c 3 d 2 e 26 d 4
+c 2 e 28 d 4
+e 15 d 3 e 12 d 3
+e 14 d 6 e 11 d 2
+e 15 d 7 e 11 d 1
+e 14 d 8 e 12
+e 14 d 8 e 12
+e 12 c 2 d 8 e 12
+e 11 d 11 e 12
+e 10 c 4 d 8 e 12
+e 8 d 12 e 13
+e 9 c 4 d 6 e 13
+e 31
+e 30
+e 29
+e 27
+e 25
+e 22
+e 17
+g 4 e 8
+f 4 g 5
+g 3 f 4
+f 3 g 3
+g 3 f 3
+f 4 g 4
+g 7 f 4 g 1 f 1 g 1 f 2 g 1
+g 1 f 1 g 2 f 1 g 2 f 1 g 1 f 1 g 1 f 1 g 2 f 1 g 1 f 1 g 3 f 1 g 2
+c 1 g 1 f 1 g 1 f 1 g 2 f 1 g 2 f 1 g 2 c 1 g 1 c 1 g 1 f 1 g 2 c 2 g 1 c 1
+
+columns
+c 2 d 1 c 2 d 1 c 2
+c 3 d 1 c 1 d 1 c 3
+c 2 d 1 c 1 d 1 c 3
+c 1 d 1 c 1 d 1 c 1 d 1 c 2 d 1 e 6
+c 1 d 1 c 2 d 1 c 1 d 1 c 1 d 2 e 11
+c 1 d 1 c 3 d 1 c 1 e 16
+c 2 d 1 c 2 e 19
+c 2 d 1 c 2 e 20
+c 2 d 2 e 21
+c 3 e 22 c 1
+c 2 e 22 g 2
+e 23 f 2
+e 14 d 1 e 8 g 1 g 3
+e 13 c 1 d 1 c 1 e 7 g 1 f 1 f 1 g 2 f 1
+e 12 d 1 c 1 d 1 c 1 e 7 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1
+e 11 c 1 d 1 c 1 d 1 c 1 e 7 g 1 f 1 g 1 f 1 g 1 f 1 g 3
+e 11 c 1 d 1 c 1 d 1 c 1 e 8 f 1 g 1 f 1 g 1 f 1 g 2 f 1
+e 9 d 7 e 8 g 1 f 1 g 1
+e 7 d 9 e 8 g 3
+e 6 d 10 e 8 g 1 f 2
+e 6 d 10 e 8 g 1 f 1 g 2
+d 6 e 6 d 10 e 8 g 1 f 1 g 1 f 1 g 1 f 2 g 1
+d 10 e 7 d 9 e 8 g 1 f 1 g 1 f 1 g 1 f 1 g 1 c 1
+d 4 f 4 d 4 e 7 d 8 e 9 g 1 f 1 g 1 f 1 g 1 f 1 g 2
+d 3 f 5 d 6 e 8 d 6 e 9 g 1 f 2 c 1
+d 2 f 2 f 4 d 6 e 22 g 3
+d 1 f 2 b 1 f 4 d 5 e 22 f 3
+d 1 f 3 f 2 g 1 f 2 d 6 e 21 g 3
+d 1 f 4 g 3 f 3 d 6 e 19 f 1 g 2
+f 3 g 4 f 3 d 7 e 18 f 1 g 1 c 1
+f 2 g 4 f 3 d 7 e 18 g 1 f 1 c 1
+g 5 f 3 d 7 e 16 g 2
+g 4 f 2 d 6 e 15 g 1 c 1
+g 3 b 2 d 5 e 14
+b 6 d 4 e 12
+b 6 d 3 e 9
+b 7 d 3 e 6
+b 7
+b 2 e 1 b 5
+b 7
+b 4

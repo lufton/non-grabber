@@ -1,0 +1,62 @@
+by "Grudunza (Grudunza)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Grudunza"
+date "Oct 25, 2009"
+description "This is my first puzzle design attempt... The original picture was drawn by my wife, and I tweaked it a bit to make it work better as a puzzle."
+difficulty 2.25
+height 20
+id 6992
+link "https://webpbn.com/play.cgi?id=6992"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Swings through trees?"
+width 25
+
+rows
+1,3,3,2
+1,5,6,2,1
+2,5,4,3,2,1
+2,6,2,1,2
+4,2,1,2,1,2
+3,2,2,1,4,2
+4,2,2,1,2,2
+3,2,2,2
+2,3,3,2
+2,7,2
+2,3,5
+2,5
+2,2,3,5
+2,7,6
+3,4,2,2,3
+2,2,2,2,3,2
+2,2,2,2,4,2
+2,2,2,2,2,5
+9,6,4
+9,6
+
+columns
+4,6,6
+18
+4,3,2
+4,2
+3,5
+2,8
+2,3,2
+7,7
+9,7
+2,2,2
+2,2,8
+3,2,8
+2,3,2
+1,5,2
+2,6,8
+2,8
+2,2,2,2
+3,3,2
+5,5,2
+6,2,2,2
+2,2,5
+5,4,4
+3,5
+1,5
+5

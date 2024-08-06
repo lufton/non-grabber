@@ -1,0 +1,44 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Jul 15, 2016"
+description "Movie--this is the one that isn't Bug's Lie or Lord of the Rigs"
+difficulty 1.25
+height 9
+id 28390
+link "https://webpbn.com/play.cgi?id=28390"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Improved Dropped letter Ã  la Norma"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5 blue 5
+blue 4 blue 4
+blue 3 blue 3
+blue 3 blue 3
+blue 4 blue 1 green 2 blue 1
+green 10
+red 1 green 8 red 1
+black 1 black 1 black 1 black 1
+0
+
+columns
+blue 5
+blue 5 green 1 red 1
+blue 5 green 2 black 1
+blue 2 blue 1 green 2
+blue 1 green 2 black 1
+green 2
+green 2 black 1
+blue 1 green 2
+blue 2 blue 1 green 2
+blue 4 green 3 black 1
+blue 4 green 2 red 1
+blue 5

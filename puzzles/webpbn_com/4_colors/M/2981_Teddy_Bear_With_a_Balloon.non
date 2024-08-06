@@ -1,0 +1,62 @@
+by "Ashley Lynn Norman (PinkyPony08)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Ashley Lynn Norman"
+date "Jun 24, 2008"
+description ""
+difficulty 1.75
+height 20
+id 2981
+link "https://webpbn.com/play.cgi?id=2981"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.25
+title "Teddy Bear With a Balloon"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 2 red 3 red 3
+blue 3 red 10
+blue 5 red 9
+blue 5 red 3 black 1 red 1 black 1 red 2
+blue 4 red 8
+blue 2 red 3 black 3 red 2
+black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+black 1 red 2 black 3 red 1 red 3
+black 1 red 15
+black 2 red 16
+black 1 red 16
+red 16
+red 13
+red 9
+red 9
+red 10
+red 12
+red 8 red 3
+red 2 red 3
+
+columns
+blue 3
+blue 5 black 4
+blue 6 black 1 black 2 red 2
+blue 5 red 5 red 3
+blue 2 red 5 red 4
+red 3 red 10
+red 6 red 10
+red 18
+red 5 black 1 red 11
+red 2 black 1 red 1 black 1 red 1 black 1 red 10
+red 4 black 3 red 10
+red 2 black 1 red 1 black 1 red 1 black 1 red 9
+red 6 black 1 red 12
+red 7 red 11
+red 2 red 5 red 3
+red 5
+red 5
+red 5
+red 2
+0

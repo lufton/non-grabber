@@ -1,0 +1,57 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Jota"
+date "Aug 14, 2010"
+description "But the Empire Sate Building on July 4th. Don't wait until then to place your entry."
+difficulty 1.5
+height 20
+id 9969
+link "https://webpbn.com/play.cgi?id=9969"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP # 65 Illegal entry ... What else ..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1 black 1
+black 1 blue 1 black 1
+black 2 blue 1 black 2
+black 2 red 3 black 2
+black 1 black 1
+black 2 black 1 black 1 black 2
+black 3 black 3 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 3
+black 1 black 1 black 3 black 1 black 1
+black 3 black 1 black 1
+black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1
+
+columns
+0
+0
+0
+black 13
+black 2 black 1 black 1
+black 16
+black 2
+black 3 red 1 black 2 black 1 black 1 black 2 black 3
+black 1 blue 2 red 1 black 1 black 1 black 1 black 1 black 1
+black 3 red 1 black 2 black 3 black 2 black 3
+black 2
+black 16
+black 2 black 1 black 1
+black 13
+0

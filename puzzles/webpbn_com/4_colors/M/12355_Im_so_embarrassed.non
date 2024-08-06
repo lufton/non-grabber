@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb 21, 2011"
+description "The cow miscalculates her jump."
+difficulty 1.5
+height 20
+id 12355
+link "https://webpbn.com/play.cgi?id=12355"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "I'm so embarrassed"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+blue 6 red 8 blue 6
+blue 5 red 8 blue 1 black 1 blue 3 black 1 blue 1
+blue 4 red 7 blue 3 black 1 blue 3 black 1 blue 1
+blue 4 red 5 blue 4 black 1 black 3 black 1
+blue 4 red 4 blue 5 black 1 black 1
+blue 4 red 4 black 6 black 1 black 1 black 1
+blue 4 red 4 black 3 black 1 black 1
+blue 4 red 4 black 3 black 3 black 2
+blue 4 red 5 black 2 black 4 blue 1
+blue 2 black 3 red 5 black 1 blue 1
+blue 2 black 1 blue 1 black 2 red 6 black 1 blue 1
+blue 2 black 1 blue 1 black 1 black 1 red 6 black 1 blue 1
+blue 2 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 3 black 1 blue 1
+blue 2 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 blue 1
+blue 2 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 blue 1
+blue 4 black 3 blue 1 black 3 blue 1 black 3 blue 1 black 3 blue 1
+blue 20
+blue 20
+
+columns
+blue 20
+blue 20
+blue 11 black 6 blue 3
+blue 11 black 1 blue 8
+blue 4 red 7 black 7 blue 2
+blue 3 red 9 black 1 black 1 blue 2
+blue 2 red 11 black 5 blue 2
+blue 2 red 12 blue 6
+blue 2 red 4 blue 1 black 1 red 4 black 4 blue 2
+blue 2 red 3 blue 2 black 3 red 3 black 1 blue 2
+blue 2 red 3 blue 2 black 4 red 2 black 4 blue 2
+blue 2 red 2 blue 3 black 4 red 2 blue 6
+blue 2 red 2 blue 3 black 1 red 1 black 4 blue 2
+blue 2 red 1 blue 2 black 5 black 1 blue 2
+blue 3 black 2 black 1 black 4 blue 2
+blue 5 black 1 black 1 black 2 black 1 blue 5
+blue 5 black 1 black 1 black 4 blue 2
+blue 5 black 1 black 1 black 1 black 1 blue 2
+blue 3 black 2 black 9 blue 2
+blue 5 black 5 blue 10

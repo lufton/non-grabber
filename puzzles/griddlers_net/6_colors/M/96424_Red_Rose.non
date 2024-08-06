@@ -1,0 +1,68 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/17/10"
+height 30
+id 96424
+link "https://www.griddlers.net/nonogram/-/g/96424"
+medium_time "0:11:48"
+points 3015
+popularity 83.59
+title "Red Rose"
+width 15
+
+color a f6f6d0
+color b ff9a9a
+color c f73636
+color d cd0034
+color e 23e423
+color f 18ab18
+
+rows
+b 1 c 1 d 1
+b 1 c 3 b 1 d 1 c 2
+c 1 b 1 c 4 b 1 d 1 c 1
+c 1 d 1 b 1 c 3 b 1 d 1 c 2
+c 3 d 1 b 1 c 3 d 1 c 2
+c 4 d 1 b 1 d 1 c 1 d 1 c 2
+c 6 d 1 b 1 d 1 c 3
+e 1 c 7 d 1 c 4 e 1
+c 1 e 1 c 4 e 1 c 1 d 1 c 4 e 1
+c 1 e 1 c 4 e 1 d 1 c 5 e 1
+c 1 f 1 e 1 c 2 e 2 d 1 c 4 e 1 f 1
+f 2 c 2 e 2 d 1 c 4 e 1
+f 2 c 1 e 1 d 1 c 4 e 1 f 1
+f 2 e 1 d 1 c 3 f 2
+f 4
+f 3 e 1
+f 2 e 1
+f 1 e 1
+f 3 f 1
+f 5 f 1 f 2
+f 5 f 1 f 4
+f 4 f 1 f 5
+f 2 f 1 f 1 f 4
+f 2 f 4
+f 2
+f 1
+f 1
+f 1
+f 1
+f 1
+
+columns
+f 2
+e 1 c 3 f 4
+c 2 e 2 f 2 f 5
+c 6 e 1 f 2 f 5
+b 1 c 10 f 2 f 3
+b 1 c 1 b 1 d 1 c 9 f 1 f 1
+c 3 b 1 d 1 c 5 e 4 f 3 f 1
+c 3 b 1 d 1 c 2 e 4 d 2 f 16
+c 3 b 1 d 1 c 2 d 3 c 2 f 2 e 2 f 1
+b 1 c 3 d 1 b 1 d 2 c 5 f 1 e 1 f 1
+d 1 b 2 c 2 d 1 c 7 f 3
+d 1 c 1 d 4 c 7 f 1 f 4
+c 11 e 1 f 1 f 5
+c 7 e 2 f 1 f 4
+e 3 f 1 f 2

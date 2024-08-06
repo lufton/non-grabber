@@ -1,0 +1,52 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by David Bouldin"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 15
+id 25805
+link "https://webpbn.com/play.cgi?id=25805"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Shadowy Figure"
+width 20
+
+rows
+1,1,1,1,2,2
+2,2,3
+1,2,1
+1,2,1
+1,7,1
+8
+14
+1,15
+14
+1,15,1
+10
+6,2,1
+5,2,1
+4,1,1
+5,1,5
+
+columns
+3,1,1,1,4
+1,1,5
+1,6
+8
+10,1
+11
+3,7,1
+7
+7
+7
+8
+5,1
+4,1
+1,4,1
+4
+1,4,1
+1,4,1
+1,2,2
+2,1,1,1
+3,1,1,1,2

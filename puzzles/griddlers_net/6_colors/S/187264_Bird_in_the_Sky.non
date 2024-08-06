@@ -1,0 +1,51 @@
+by "paikea"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/16/17"
+height 14
+id 187264
+link "https://www.griddlers.net/nonogram/-/g/187264"
+medium_time "0:02:39"
+points 1337
+popularity 69.91
+title "Bird in the Sky"
+width 14
+
+color a 33FFFF
+color b 330000
+color c FFFF33
+color d 669900
+color g 996633
+color h 663300
+
+rows
+h 3
+h 1 g 1 b 1 g 1 h 1
+h 1 g 3 h 1 c 1
+h 2 g 3 h 1 c 2
+h 1 g 2 h 3
+h 1 g 2 h 4
+h 1 g 2 h 5
+h 1 g 2 h 6
+h 1 h 8
+h 9
+h 8 c 1 d 1
+h 1 h 4 d 1 c 1 d 2
+d 3 c 1 d 1 c 1 d 3
+d 11
+
+columns
+h 4
+h 2
+h 4 d 1
+h 1 g 1 h 4 d 2
+h 1 g 2 h 4 d 2
+h 1 g 2 h 5 d 2
+h 1 g 2 h 6 c 1 d 1
+h 3 g 1 h 6 d 3
+h 1 g 3 h 6 c 3 d 1
+h 1 b 1 g 2 h 5 d 4
+h 1 g 3 h 4 d 3
+h 3 d 2
+c 2 d 1
+c 1

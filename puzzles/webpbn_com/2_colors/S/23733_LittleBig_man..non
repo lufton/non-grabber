@@ -1,0 +1,47 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tom O'Connell"
+date "Feb  4, 2014"
+description ""
+difficulty 3.0
+height 15
+id 23733
+link "https://webpbn.com/play.cgi?id=23733"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Little/Big man."
+width 15
+
+rows
+4,5
+4,3
+3,3
+2,3,3,2
+2,2,2,2
+2,1,2
+3,1,2
+2,2,3
+1,1,1,3
+2,2,3
+3,3
+6
+6
+4
+2
+
+columns
+5
+7
+3,3
+2,2
+2,2,4
+1,2,1,4
+1,1,1,4
+3,1,4
+1,2,1,4
+1,2,4
+1,1,3
+2,3
+3,2
+7
+5

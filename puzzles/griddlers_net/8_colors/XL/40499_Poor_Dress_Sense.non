@@ -1,0 +1,103 @@
+by "alembic42"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/5/06"
+height 45
+id 40499
+link "https://www.griddlers.net/nonogram/-/g/40499"
+medium_time "0:18:11"
+points 26996
+popularity 66.48
+title "Poor Dress Sense"
+width 33
+
+color a ffffff
+color b 000000
+color c ff6600
+color d 990033
+color e 339900
+color f 0000ff
+color g ff9900
+color h ffcccc
+
+rows
+c 9
+c 11
+c 13
+c 2 h 11 c 2
+c 2 h 1 b 3 h 1 b 1 h 1 b 3 h 1 c 2
+b 1 h 1 b 2 b 1 b 3 b 1 b 2 h 1 b 1
+b 2 h 1 b 1 b 1 h 1 b 1 b 1 h 1 b 2
+b 1 h 3 b 3 h 3 b 3 h 3 b 1
+b 1 h 6 b 3 h 6 b 1
+b 1 h 2 b 1 h 7 b 1 h 4 b 1
+b 1 h 3 b 7 h 5 b 1
+b 1 h 10 b 1 h 4 b 1
+b 1 h 10 b 1 h 4 b 1
+b 2 h 4 b 1 h 2 b 1 h 3 b 1 h 3 b 2
+b 2 f 1 b 1 h 4 b 2 h 1 b 3 h 3 b 1 f 1 b 2
+b 1 f 2 b 1 f 1 b 1 h 11 b 1 f 1 b 1 f 2 b 1
+b 1 f 4 b 1 f 1 b 1 h 9 b 1 f 1 b 1 f 4 b 1
+b 1 f 6 b 1 f 1 b 2 h 5 b 2 f 1 b 1 f 6 b 1
+b 1 f 4 b 1 f 3 b 1 f 1 b 2 h 3 b 2 f 1 b 1 f 3 b 1 f 4 b 1
+b 1 f 4 b 1 f 4 b 1 f 2 b 3 f 2 b 1 f 4 b 1 f 4 b 1
+b 1 f 5 b 1 f 8 b 1 f 8 b 1 f 5 b 1
+b 1 f 5 b 2 f 7 b 1 f 7 b 2 f 5 b 1
+b 1 f 5 b 1 f 10 b 1 f 8 b 1 f 5 b 1
+b 6 f 11 b 1 f 9 b 6
+b 1 f 3 b 1 f 12 b 1 f 10 b 1 f 3 b 1
+b 5 f 12 b 1 f 10 b 5
+b 1 h 2 b 1 f 12 b 1 f 10 b 1 h 2 b 1
+b 1 h 2 b 1 f 12 b 1 f 10 b 1 h 2 b 1
+b 1 h 2 b 1 f 12 b 1 f 10 b 1 h 2 b 1
+b 1 h 3 b 1 f 11 b 1 f 9 b 1 h 3 b 1
+b 1 h 3 b 1 f 10 b 1 f 8 b 1 h 3 b 2
+b 1 h 3 b 2 f 9 b 1 f 7 b 2 h 3 b 1
+b 1 h 2 b 1 e 1 b 7 g 3 b 7 e 1 b 1 h 2 b 1
+b 3 e 19 b 3
+b 1 e 17 b 1
+b 1 e 7 b 3 e 7 b 1
+b 1 e 8 b 1 e 8 b 1
+b 1 e 8 b 1 e 8 b 1
+b 1 e 8 b 1 e 8 b 1
+b 1 e 8 b 1 e 8 b 1
+b 1 e 8 b 1 e 8 b 1
+b 19
+b 1 d 8 b 1 d 8 b 1
+b 1 d 9 b 1 d 9 b 1
+b 23
+
+columns
+b 4
+b 2 f 1 b 1 f 1 b 5
+b 2 f 3 b 1 f 1 b 1 h 4 b 2
+b 1 f 5 b 1 f 1 b 1 h 6 b 1
+b 1 f 6 b 6 h 4 b 1
+b 1 f 7 b 1 f 5 b 1 h 3 b 1 b 1
+b 1 f 7 b 1 f 7 b 4 b 2
+b 2 f 3 b 4 f 9 b 1 e 2 b 9 d 1 b 1
+b 9 f 1 b 1 f 5 b 1 f 10 b 1 e 8 b 1 d 2 b 1
+c 2 h 1 b 1 h 7 b 1 f 1 b 1 f 15 b 1 e 8 b 1 d 2 b 1
+c 3 b 1 h 9 b 1 f 1 b 1 f 14 b 1 e 8 b 1 d 2 b 1
+c 2 h 2 b 2 h 2 b 1 h 6 b 1 f 1 b 1 f 13 b 1 e 8 b 1 d 2 b 1
+c 3 h 1 b 1 b 1 h 2 b 1 h 6 b 1 f 1 b 1 f 12 b 1 e 8 b 1 d 2 b 1
+c 3 h 1 b 2 b 1 h 2 b 1 h 2 b 1 h 3 b 2 f 13 b 1 e 8 b 1 d 2 b 1
+c 3 h 1 b 1 b 1 h 2 b 1 h 3 b 1 h 3 b 1 f 13 b 1 e 8 b 1 d 2 b 1
+c 3 h 2 b 2 h 1 b 1 h 1 b 1 h 3 b 1 h 4 b 1 f 12 g 1 e 2 b 1 e 5 b 1 d 2 b 1
+c 3 h 1 b 2 h 2 b 1 h 1 b 1 h 2 b 1 h 5 b 3 f 10 g 1 e 2 b 10
+c 3 h 2 b 2 h 1 b 1 h 1 b 1 h 3 b 1 h 4 b 1 f 2 b 10 g 1 e 2 b 1 e 5 b 1 d 2 b 1
+c 3 h 1 b 1 b 1 h 2 b 1 h 3 b 1 h 3 b 1 f 13 b 1 e 8 b 1 d 2 b 1
+c 3 h 1 b 2 b 1 h 1 b 1 h 1 b 2 h 1 b 1 h 2 b 2 f 13 b 1 e 8 b 1 d 2 b 1
+c 3 h 1 b 1 b 1 h 5 b 1 h 3 b 1 f 1 b 1 f 12 b 1 e 8 b 1 d 2 b 1
+c 2 h 2 b 2 h 9 b 1 f 1 b 1 f 13 b 1 e 8 b 1 d 2 b 1
+c 3 b 1 h 9 b 1 f 1 b 1 f 14 b 1 e 8 b 1 d 2 b 1
+c 2 h 1 b 1 h 7 b 1 f 1 b 1 f 15 b 1 e 8 b 1 d 2 b 1
+b 9 f 1 b 1 f 5 b 1 f 10 b 1 e 8 b 1 d 2 b 1
+b 2 f 3 b 4 f 9 b 1 e 2 b 9 d 1 b 1
+b 1 f 7 b 1 f 7 b 4 b 2
+b 1 f 7 b 1 f 5 b 1 h 3 b 1 b 1
+b 1 f 6 b 6 h 4 b 1
+b 1 f 5 b 1 f 1 b 1 h 6 b 1
+b 2 f 3 b 1 f 1 b 1 h 4 b 2
+b 2 f 1 b 1 f 1 b 6
+b 4

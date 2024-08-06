@@ -1,0 +1,63 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Nov 17, 2016"
+description "My daughter's room is painted Americana Blue. I call it the blue hole especially when she does not keep it clean. Saturday is her birthday and I am dedicating this puzzle to her. The green thing on the right is suppose to be a huge stuffed lion that I won for her when she was in the second grade."
+difficulty 2.0
+height 20
+id 29100
+link "https://webpbn.com/play.cgi?id=29100"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The Bllue Hole"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 black 3 blue 11
+blue 1 black 1 black 1 black 2 blue 6 blue 1
+blue 1 black 3 black 2 blue 6 black 2 blue 1
+blue 1 black 1 black 1 black 1 blue 6 red 2 blue 1
+blue 1 black 1 blue 1 blue 2 green 2 blue 1
+blue 1 black 4 blue 1 green 1 blue 2 blue 1
+blue 1 black 1 blue 1 blue 7
+blue 1 blue 11
+blue 20
+blue 20
+blue 1 red 3 blue 12 green 1 blue 2 green 1
+black 1 red 1 red 7 green 2 blue 1
+black 1 red 3 red 1 red 1 green 2 blue 1
+black 1 blue 3 red 2 red 4 green 4
+black 15 green 5
+green 5
+green 5
+blue 14 green 3 green 1
+blue 14 green 3 green 1
+
+columns
+blue 12 black 4 blue 2
+blue 1 black 4 blue 2 red 3 blue 1 black 1 blue 2
+blue 1 black 1 black 1 blue 2 red 1 red 1 blue 1 black 1 blue 2
+blue 1 black 4 blue 2 red 3 blue 1 black 1 blue 2
+blue 1 black 2 blue 3 red 1 red 1 black 1 blue 2
+blue 1 black 1 blue 3 red 3 black 1 blue 2
+blue 1 black 2 black 1 blue 3 red 1 black 1 blue 2
+blue 1 black 5 blue 3 red 1 black 1 blue 2
+blue 1 blue 3 red 1 black 1 blue 2
+blue 12 red 3 black 1 blue 2
+blue 5 blue 4 red 1 black 1 blue 2
+blue 5 green 1 blue 4 red 1 black 1 blue 2
+blue 5 blue 4 red 1 black 1 blue 2
+blue 12 black 1 blue 2
+blue 12 black 1 green 2
+blue 2 blue 5 green 5
+blue 2 black 1 red 1 green 1 blue 4 green 1 green 6
+blue 2 black 1 red 1 green 1 blue 5 green 6
+blue 2 blue 5 green 6
+blue 11 green 1 blue 2 green 6

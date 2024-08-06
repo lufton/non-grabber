@@ -1,0 +1,61 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Dec 23, 2018"
+description "ho ho ho"
+difficulty 1.75
+height 20
+id 31907
+link "https://webpbn.com/play.cgi?id=31907"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.5
+title "santa hat"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 green 1 green 1 black 1 black 1 black 1
+green 4 green 1 green 1 black 4 black 1 black 1
+green 1 green 1 green 1 black 1 black 1 black 1
+0
+0
+green 1 green 1 green 1
+green 4 green 1 green 1
+green 1 green 1 green 1 black 1
+black 1 black 2 green 2
+black 1 green 2
+black 2 green 2
+black 3 green 1
+black 5
+black 7
+black 9
+black 11
+black 13
+black 1 green 13 black 1
+black 1 green 15 black 1
+green 17
+
+columns
+0
+0
+green 3 green 3 black 1 green 1
+green 1 green 1 black 1 green 2
+green 1 green 1 black 1 green 3
+green 3 green 3 black 2 green 3
+black 3 green 3
+green 1 green 1 black 4 green 3
+green 1 green 1 green 1 green 1 black 5 green 3
+green 1 green 1 black 6 green 3
+black 7 green 3
+black 3 black 7 green 3
+black 1 black 1 black 5 green 3
+black 1 black 1 black 4 green 3
+black 3 black 1 black 3 green 3
+black 1 black 2 green 3
+black 1 black 1 black 1 green 3
+black 1 black 1 green 3 black 1 green 2
+black 1 green 4 black 1 green 1
+0

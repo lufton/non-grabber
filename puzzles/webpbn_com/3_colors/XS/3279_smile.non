@@ -1,0 +1,41 @@
+by "joelle young (Lanniobananio)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by joelle young"
+date "Aug 13, 2008"
+description ""
+difficulty 1.5
+height 10
+id 3279
+link "https://webpbn.com/play.cgi?id=3279"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.25
+title "smile"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 10
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 10
+
+columns
+black 10
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 blue 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 10

@@ -1,0 +1,44 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/3/07"
+height 11
+id 44269
+link "https://www.griddlers.net/nonogram/-/g/44269"
+medium_time "0:02:46"
+points 364
+popularity 67.61
+title "Simple Butterfly"
+width 11
+
+color a ffffff
+color b 000000
+color c ff9900
+color d ff0000
+color e ff9999
+
+rows
+b 1 e 2
+b 1 e 4
+b 1 e 1 d 1 e 2
+b 5 e 3 c 2
+b 3 e 1 c 4
+e 3 b 3 c 4
+e 2 d 1 e 2 b 3 c 2
+e 4 c 2 b 2
+e 2 c 4
+c 4
+c 2
+
+columns
+b 1 e 2
+b 1 e 4
+b 1 e 1 d 1 e 2
+b 5 e 3 c 2
+b 3 e 1 c 4
+e 3 b 3 c 4
+e 2 d 1 e 2 b 3 c 2
+e 4 c 2 b 2
+e 2 c 4
+c 4
+c 2

@@ -1,0 +1,61 @@
+by "Liz P (Lizteach)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Liz P"
+date "Feb 16, 2010"
+description "This is the very first puzzle I've created! Please be gentle. :D (Actually, I'd rather you be honest.) The title refers not to the Beatles song but rather the song about a love potion, in belated honor of Valentine's Day."
+difficulty 2.25
+height 20
+id 7841
+link "https://webpbn.com/play.cgi?id=7841"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Number 9"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 2 black 1 red 1 black 2
+black 2 red 1 black 1 black 2 black 2 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 2
+black 4 black 1 red 2 black 2 red 2 black 1 black 3 red 1 black 1
+black 2 red 4 black 2 black 1 red 2 black 1
+black 1 black 1 black 2 red 2 black 2 black 1 red 2 black 2
+black 5 black 2 red 1 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 2 black 5
+black 1 red 1 black 1 black 1
+black 1 black 9
+black 1 red 9 black 1
+black 2 red 11 black 2
+black 2 red 11 black 2
+black 2 red 9 black 2
+black 17
+black 1 black 13 black 1
+black 17
+black 13
+black 11
+
+columns
+black 3
+black 1 red 1 black 1 black 2 black 3
+black 1 red 2 black 1 black 2 red 1 black 1 black 2 black 1 black 1
+black 4 black 1 red 2 black 1 black 7
+black 2 red 1 black 1 black 1 red 2 black 6
+black 2 black 2 black 1 red 4 black 5
+black 2 red 1 black 2 black 1 red 4 black 5
+black 1 red 3 black 2 black 1 red 4 black 5
+black 2 red 2 black 2 black 1 red 4 black 5
+black 1 red 3 black 3 red 4 black 5
+black 2 red 2 black 2 black 1 red 4 black 5
+black 1 red 2 black 2 black 1 red 4 black 5
+black 3 black 1 red 4 black 5
+black 1 red 4 black 5
+black 5 black 1 red 2 black 6
+black 1 red 3 black 5 black 7
+black 1 red 1 black 2 red 3 black 1 black 2 black 1 black 1
+black 3 red 4 black 1 black 3
+black 3 red 1 black 1
+black 3

@@ -1,0 +1,110 @@
+by "myamollytaz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/28/07"
+height 41
+id 54322
+link "https://www.griddlers.net/nonogram/-/g/54322"
+medium_time "0:34:38"
+points 32400
+popularity 72.97
+title "Fun in the Sun"
+width 45
+
+color a ffffff
+color c ffcc99
+color d 663300
+color e ffcc00
+color f 0000ff
+color g 00ffff
+color h ff00ff
+
+rows
+d 5 d 5
+d 15
+h 2 d 19 h 2
+d 3 h 4 d 19 h 4 d 3
+d 4 h 5 d 19 h 5 d 4
+d 4 h 5 d 21 h 5 d 4
+d 5 h 4 d 23 h 4 d 5
+d 6 h 2 d 23 e 3 h 1 d 6
+d 6 d 12 c 1 d 3 c 1 d 7 e 3 d 6
+d 6 d 11 c 1 d 3 c 2 d 7 e 3 d 6
+d 5 d 10 c 2 d 2 c 4 d 6 e 3 d 5
+d 5 d 9 c 2 d 2 c 6 d 5 e 3 d 5
+d 5 d 7 c 13 d 4 e 3 d 5
+d 5 d 4 g 6 c 5 g 6 d 2 e 3 d 5
+d 5 d 3 g 1 g 1 c 3 g 1 g 1 d 1 e 3 d 5
+d 4 g 3 d 2 g 3 d 2 g 2 e 3 d 4
+d 3 c 1 g 2 d 1 d 2 d 1 d 1 g 2 e 3 d 3
+d 2 c 1 g 2 d 4 g 3 d 4 g 2 e 3 d 2
+d 2 c 1 g 2 d 2 g 1 c 1 h 1 c 1 g 1 d 2 g 1 e 4 d 2
+d 1 c 1 g 1 g 1 c 5 g 1 g 1 e 4 d 1
+g 5 c 2 h 3 c 2 g 2 e 7
+c 11 e 7
+h 4 c 9 e 5
+h 3 c 3 h 1 c 7 h 1 c 3 h 3
+h 2 c 9 g 1 c 3 g 1 c 9 h 2
+h 1 c 11 g 1 c 3 g 1 c 11 h 1
+h 1 c 7 h 1 g 9 h 1 c 7 h 1
+h 1 c 4 h 2 g 9 h 2 c 4 h 1
+h 1 c 3 h 5 g 9 h 5 c 3 h 1
+h 1 h 21 h 1
+h 2 h 7 h 5 h 6 h 1
+h 8 h 5 h 8
+h 7 h 5 h 7
+h 4 h 5 h 4
+h 3 h 5 h 3
+h 13
+c 4 c 4
+c 4 c 4
+f 3 c 4 c 4 f 3
+f 6 c 3 c 3 f 6
+f 9 c 1 c 1 f 9
+
+columns
+d 7
+d 10
+d 13
+d 15
+d 12
+d 6
+d 5
+d 2 h 2 h 5
+d 1 h 4 h 1 c 2 h 2
+h 5 d 5 h 1 c 4 h 2
+h 5 d 8 h 1 c 4 h 2
+h 4 d 9 g 1 c 3 h 1 c 5 h 4
+h 2 d 10 g 4 c 1 h 1 c 3 h 5 f 1
+d 12 g 6 h 2 c 3 h 7 f 2
+d 11 g 1 g 1 h 1 c 4 h 8 f 2
+d 12 g 1 d 2 g 1 h 1 c 3 h 7 h 1 f 3
+d 11 c 1 g 1 d 1 d 2 g 1 h 1 c 3 h 3 h 1 f 3
+d 12 c 1 g 1 d 4 g 1 c 1 h 1 c 2 h 3 h 1 f 3
+d 11 c 2 g 1 d 2 g 1 c 2 c 2 g 3 h 1 h 1 c 3 f 2
+d 10 c 3 g 1 g 1 c 6 g 3 h 1 h 1 c 4 f 1
+d 9 c 2 d 1 c 2 g 1 g 1 c 5 g 5 h 7 c 4 f 1
+d 8 c 1 d 3 c 3 g 1 g 1 c 2 h 1 c 5 g 3 h 7 c 5
+d 10 c 4 g 1 g 1 h 1 c 1 h 1 c 5 g 3 h 7
+d 10 c 5 g 1 g 1 c 2 h 1 c 5 g 3 h 7 c 5
+d 9 c 5 g 1 g 1 c 5 g 5 h 7 c 4 f 1
+d 8 c 5 g 1 g 1 c 6 g 3 h 1 h 1 c 4 f 1
+d 10 c 3 g 1 d 2 g 1 c 2 c 2 g 3 h 1 h 1 c 3 f 2
+d 11 c 2 g 1 d 1 d 2 g 1 c 1 h 1 c 2 h 2 h 1 f 3
+d 11 c 1 g 1 d 1 d 2 e 3 c 3 h 3 h 1 f 3
+d 12 g 1 d 2 e 3 c 3 h 7 h 1 f 3
+d 11 g 1 e 3 c 4 h 8 f 2
+d 12 g 6 e 3 h 1 c 3 h 7 f 2
+h 2 d 10 g 3 e 5 h 1 c 3 h 5 f 1
+h 4 d 1 e 15 h 1 c 5 h 4
+h 5 e 15 h 1 c 4 h 2
+h 4 e 13 h 1 c 4 h 2
+d 1 h 4 h 1 c 2 h 1
+d 2 h 2 h 5
+d 5
+d 6
+d 12
+d 15
+d 13
+d 10
+d 7

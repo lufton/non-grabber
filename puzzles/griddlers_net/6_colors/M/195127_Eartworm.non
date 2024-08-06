@@ -1,0 +1,73 @@
+by "roodar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/29/18"
+height 25
+id 195127
+link "https://www.griddlers.net/nonogram/-/g/195127"
+medium_time "0:17:09"
+points 20653
+popularity 85.78
+title "Eartworm"
+width 25
+
+color a ffffff
+color b 000000
+color c ffff00
+color d ff0000
+color e 00d700
+color f 009900
+
+rows
+b 9
+b 2 b 1 e 2 b 1 b 1 e 1 b 2
+b 2 b 1 e 1 b 1 b 1 e 2 b 1
+b 2 b 1 e 2 b 1 b 1 e 1 b 1
+b 1 b 2 e 1 b 2 b 1 e 1 b 1
+b 1 b 3 e 1 b 3 b 1 e 1 f 1 b 1
+b 1 b 3 e 1 b 3 b 1 e 1 f 1 b 1
+b 1 b 2 e 2 b 3 b 1 e 1 f 1 b 1
+b 1 b 1 e 2 b 2 b 1 e 2 f 1 b 1
+b 4 e 3 b 1 b 1 e 3 f 1 b 1
+b 1 f 3 e 4 b 3 e 3 f 2 b 1
+b 1 f 6 e 4 b 1 f 2 b 1
+b 10 f 2 e 1 b 1
+d 4 b 1 f 5 e 2 b 1
+d 4 b 2 f 3 e 2 b 1
+d 5 b 1 c 2 f 2 e 2 b 1
+d 6 b 1 e 4 f 1 e 1 b 5
+d 3 b 1 c 4 f 1 e 1 b 1 f 1 e 3 b 1
+d 3 b 1 e 3 f 1 e 2 b 1 e 5 b 4
+b 1 c 3 f 1 e 2 f 1 e 3 f 2 b 1 e 3 b 1
+b 1 e 3 f 1 e 5 b 1 f 2 e 3 f 1 b 1
+b 1 c 2 f 1 e 5 b 1 e 5 f 1 b 1
+b 1 e 3 f 1 e 3 b 1 b 1 c 1 e 2 f 2 b 1
+b 1 e 3 f 2 b 1 b 1 c 1 f 1 b 2
+b 5 b 2
+
+columns
+d 1
+d 1 d 1
+b 8 d 4
+b 2 b 1 f 1 b 1 d 5
+b 1 b 1 f 2 b 1 d 5
+b 1 b 3 b 1 f 2 b 1 d 4
+b 2 b 5 e 2 f 1 b 1 d 3
+b 1 b 4 e 4 f 1 b 1 d 1 b 7
+b 3 e 8 f 1 b 4 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1
+b 1 e 3 b 6 e 1 f 1 b 1 f 1 b 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 2 b 1
+b 1 e 1 b 7 b 1 e 1 b 1 f 2 c 1 e 1 c 1 e 1 c 1 e 1 f 1 e 2 b 1
+b 2 b 3 b 1 e 1 b 1 f 3 e 1 c 1 f 3 e 1 f 1 e 1 b 1
+b 1 b 1 e 1 b 1 f 5 e 5 f 1 b 1
+b 2 b 1 e 2 b 1 f 1 e 9 f 1 b 1
+b 1 e 1 b 1 b 1 e 2 b 1 f 1 e 3 b 3 f 1 e 3 b 1
+b 1 e 1 b 5 e 3 f 2 e 1 b 3 f 1 e 4 b 1
+b 1 e 8 f 2 e 1 b 1 b 1 e 4 b 1
+b 3 f 6 b 2 b 1 e 3 b 1 e 1 b 1
+b 6 b 1 e 2 f 2 e 1 c 1 b 1
+b 1 e 1 f 2 e 2 c 1 b 1
+b 2 e 3 f 1 b 1
+b 1 e 3 f 1 b 1
+b 1 e 2 f 2 b 1
+b 1 e 1 f 1 b 2
+b 2

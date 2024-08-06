@@ -1,0 +1,63 @@
+by "GabrielMyCat (GabrielMyCat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by GabrielMyCat"
+date "Sep  2, 2010"
+description "flowers, Hi! Question Mark & Box with face."
+difficulty 1.75
+height 20
+id 10173
+link "https://webpbn.com/play.cgi?id=10173"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "having fun making my first puzzle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 green 5 red 5
+black 1 red 3 black 1 green 1 blue 3 green 1 black 1 black 1 red 4
+black 1 red 1 green 1 red 1 black 1 green 1 blue 1 red 1 blue 1 green 1 black 1 black 1 red 3 black 3
+black 1 red 3 black 1 green 1 blue 3 green 1 black 4 red 2 black 1
+black 5 green 5 black 1 black 1 black 1
+green 1 red 1 black 1 black 1 red 2 black 3
+green 3 blue 4 red 3 red 2
+green 3 blue 1 black 2 blue 1 red 3 black 4 black 4
+green 2 blue 4 red 2 black 4 black 4
+green 1 blue 2 red 1 black 2 black 2
+green 10
+blue 6 green 1 green 1
+blue 8 green 1 blue 2 blue 2 green 1
+blue 2 blue 2 green 1 blue 1 blue 1 green 1
+blue 2 blue 2 green 1 blue 2 green 1
+blue 4 blue 2 green 1 blue 2 green 1
+blue 3 green 1 red 4 green 1
+blue 6 green 1 red 2 red 2 green 1
+blue 2 green 1 green 1
+blue 2 green 10
+
+columns
+black 5 green 2 blue 1
+black 1 red 3 black 1 green 3 blue 4
+black 1 red 1 green 1 red 1 black 1 green 5 blue 5 blue 3
+black 1 red 3 black 1 blue 3 blue 2 blue 1 blue 3
+black 5 blue 1 black 1 blue 2 blue 2 blue 1
+green 5 blue 1 black 1 blue 2 blue 2 blue 1
+green 1 blue 3 green 1 blue 3 blue 2 blue 2
+green 1 blue 1 red 1 blue 1 green 1 red 5 blue 7
+green 1 blue 3 green 1 red 3 blue 5
+green 5 red 2
+black 5 black 2 green 10
+black 1 black 2 green 1 green 1
+black 1 black 3 green 1 blue 1 red 1 green 1
+black 5 black 3 green 1 blue 2 red 2 green 1
+red 4 red 2 green 1 blue 2 red 1 green 1
+red 4 red 2 green 1 blue 2 red 1 green 1
+red 3 black 3 green 1 blue 2 red 2 green 1
+red 2 black 1 black 1 black 3 green 1 blue 1 red 1 green 1
+red 1 black 4 black 2 green 1 green 1
+black 1 black 1 black 2 green 10

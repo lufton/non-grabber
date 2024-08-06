@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gator"
+date "Jul 22, 2010"
+description "Hovercraft - they are able to travel on a cushion of air. They can travel over land, ice, and water."
+difficulty 2.5
+height 20
+id 9710
+link "https://webpbn.com/play.cgi?id=9710"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Land and Sea"
+width 20
+
+rows
+5
+2,2
+1,2,2
+1,1,1,1
+3,2,1
+3,2,2
+2,1,5
+3,3,1
+3,5,2
+3,5,3
+3,4,4
+4,2,5
+3,7
+4,8
+4,8
+5,8
+11
+9
+6
+3
+
+columns
+2
+5
+8
+9
+5,5
+4,4
+3,5
+2,4
+2,2,4
+2,3,5
+1,3,4
+2,4,5
+4,4,4
+2,2,3,4
+1,1,2,1,4
+1,1,1,1,5
+1,1,1,1,6
+2,1,7
+2,2,3
+4

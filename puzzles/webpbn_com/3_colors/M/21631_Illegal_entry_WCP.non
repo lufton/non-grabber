@@ -1,0 +1,61 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jota"
+date "Apr  8, 2013"
+description "Cause she gave birth to your child!"
+difficulty 1.5
+height 20
+id 21631
+link "https://webpbn.com/play.cgi?id=21631"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Illegal entry WCP"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 3
+black 4
+black 6
+black 8
+black 3 black 3
+black 2 black 3
+black 2 black 4
+black 3 red 2 black 4
+black 4 red 2 black 3
+black 3 red 1 black 3
+black 4 red 2 black 2
+black 4 red 1 black 4
+black 3 black 4
+black 3 black 3
+black 6 black 3
+black 3 black 3
+black 2 black 3
+black 1 black 1
+black 1 black 2
+
+columns
+black 1
+black 3
+black 5
+black 8
+black 7
+black 8
+black 3 black 2
+black 5
+black 5
+black 4 red 2 red 2
+black 5 red 4
+black 5
+black 1 black 6
+black 8 black 2
+black 14
+black 11
+black 8
+black 1
+0
+0

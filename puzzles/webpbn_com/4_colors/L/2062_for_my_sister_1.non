@@ -1,0 +1,77 @@
+by "Ian Smith (dragonfreak)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Ian Smith"
+date "Dec 28, 2007"
+description "a small giant panda resting on a tree branch. i'm sorry that the branch is red. my sister loves pandas."
+difficulty 2.5
+height 30
+id 2062
+link "https://webpbn.com/play.cgi?id=2062"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "for my sister #1"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 13 black 6 green 6
+green 9 black 4 black 1 green 5
+green 7 black 2 black 1 green 5
+green 6 black 1 black 1 green 4
+green 5 black 1 black 2 green 3
+green 4 black 1 black 2 black 3 black 1 green 3
+green 3 black 1 black 3 black 4 black 1 green 3
+green 3 black 1 black 2 black 3 black 1 green 3
+green 3 black 1 black 2 black 2 green 2
+green 3 black 1 black 2 green 2
+green 2 black 2 black 2 green 2
+green 2 black 2 black 2 green 2
+green 2 black 2 black 1 black 2 black 3 green 1
+green 1 black 4 black 1 black 1 black 1 black 2 black 3 green 1
+green 1 black 4 black 4 black 4 black 3 green 1
+green 1 black 4 black 3 black 2 black 4
+black 6 black 1 black 1 black 4
+black 8 black 1 black 4
+red 7 black 1 black 11
+red 7 black 1 black 3 black 1 red 4 black 7
+red 8 black 1 black 1 black 1 red 5 black 6 red 1
+red 9 black 3 red 7 black 5 red 1
+red 19 black 5 red 1
+red 18 black 5 red 2
+red 17 black 6 red 2
+black 6 red 4 black 6 red 2
+black 4 red 3 black 5 red 3
+black 3 red 3 black 3 red 4
+red 9
+red 8
+
+columns
+green 16 black 2 red 7 black 1
+green 13 black 5 red 7 black 3
+green 10 black 8 red 7 black 3
+green 6 black 12 red 7 black 3
+green 5 black 1 black 5 red 7 black 2
+green 4 black 1 black 2 black 2 red 7 black 1
+green 3 black 1 black 3 black 2 black 1 red 7
+green 2 black 1 black 2 black 7 red 5
+green 2 black 1 black 1 black 2 black 1 red 4
+green 1 black 1 black 2 black 1 black 1 red 3
+green 1 black 1 black 3 red 3
+green 1 black 1 black 1 black 1 red 3
+green 1 black 1 black 2 black 1 red 4
+black 1 black 1 black 2 black 1 red 6
+black 1 black 4 black 2 red 8
+black 1 black 2 black 1 black 1 red 9
+black 1 black 2 black 1 red 10
+black 1 black 3 black 1 red 5 black 3 red 3
+black 1 black 4 black 3 red 2 black 5 red 2
+green 1 black 2 black 3 black 10 red 2
+green 3 black 2 black 10 red 2
+green 4 black 23 red 3
+green 8 black 18 red 4
+green 12 black 11 red 7
+green 15 black 5 red 10

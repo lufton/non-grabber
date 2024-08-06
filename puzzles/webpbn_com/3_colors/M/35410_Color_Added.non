@@ -1,0 +1,61 @@
+by "Glenn Crider (playamonkey)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Glenn Crider"
+date "Oct 23, 2021"
+description "finbear's puzzle #14011, titled "Something Green", was B&W so I wondered what it looked like with some color."
+difficulty 1.5
+height 20
+id 35410
+link "https://webpbn.com/play.cgi?id=35410"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Color Added"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 4
+green 8
+green 3 green 2
+green 5 green 3
+green 7 green 2 green 7
+green 2 green 4 green 9
+green 1 green 5 green 2
+green 3
+green 7 green 6
+green 6 green 2 green 7
+green 3 green 3 green 2 green 4
+green 2 black 11 green 1 green 1
+green 2 black 11 green 1
+green 1 black 9 green 2
+green 1 black 9 green 1
+black 7 green 1
+black 7 green 1
+black 7
+black 5
+black 5
+
+columns
+green 3 green 3
+green 3 green 3
+green 2 green 3
+green 2 green 2
+green 2 green 2
+green 2 green 2 black 2
+green 2 green 2 black 4
+green 2 green 3 black 7
+green 6 green 1 black 9
+green 9 black 9
+green 3 green 4 black 9
+green 2 green 2 black 9
+green 2 green 2 green 1 black 9
+green 2 green 2 green 3 black 7
+green 2 green 2 green 2 black 4
+green 2 green 2 green 2 black 2
+green 2 green 2 green 3
+green 2 green 2 green 6
+green 3 green 3 green 4
+green 2 green 3

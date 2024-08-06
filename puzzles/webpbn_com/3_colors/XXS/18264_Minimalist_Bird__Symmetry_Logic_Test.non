@@ -1,0 +1,31 @@
+by "Kevin S (KevinS)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kevin S"
+date "Apr 10, 2012"
+description "Its a flamingo / I noticed that some puzzles labeled as some guessing required, but can be solved logically if it is assumed to be symmetrical. So i wondered if you could every logically assume a puzzle was symmetrical, this is an example of why you cant; however I was unable to make one with only one color that had only one solution. Can it be logically assumed a B/W puzzle with only one solution and has symmetrical clues must produce a symmetrical image?"
+difficulty 1.25
+height 5
+id 18264
+link "https://webpbn.com/play.cgi?id=18264"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Minimalist Bird / Symmetry Logic Test"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 2
+black 1
+red 3 black 1
+black 1
+black 1
+
+columns
+red 1
+red 1 black 2
+black 1 red 1
+red 1 black 2
+red 1

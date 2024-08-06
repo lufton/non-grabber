@@ -1,0 +1,48 @@
+by "taboo"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/05"
+height 15
+id 26499
+link "https://www.griddlers.net/nonogram/-/g/26499"
+medium_time "0:02:05"
+points 513
+popularity 48.58
+title "Water Bottle"
+width 10
+
+color a ffffff
+color b ff0000
+color d ccffff
+color e 0099ff
+color g 808080
+color h 000000
+
+rows
+g 2
+g 2
+h 1 e 2 h 1
+h 1 d 4 h 1
+h 1 d 6 h 1
+h 1 d 7 e 1 h 1
+h 1 b 6 h 1
+h 1 b 6 h 1
+h 1 d 7 e 1 h 1
+h 1 d 7 e 1 h 1
+h 1 d 5 e 1 h 1
+h 1 d 5 e 1 h 1
+h 1 d 7 e 1 h 1
+h 1 d 6 e 2 h 1
+h 8
+
+columns
+h 1 h 2 h 2
+h 1 d 1 h 2 d 2 h 2 d 2 h 1
+h 1 d 2 b 2 d 6 h 1
+h 1 d 3 b 2 d 6 h 1
+g 2 e 1 d 3 b 2 d 6 h 1
+g 2 e 1 d 3 b 2 d 6 h 1
+h 1 d 3 b 2 d 6 h 1
+h 1 d 2 b 2 d 2 e 2 d 1 e 1 h 1
+h 1 e 1 h 2 e 2 h 2 e 2 h 1
+h 1 h 2 h 2

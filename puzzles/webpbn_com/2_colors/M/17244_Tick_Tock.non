@@ -1,0 +1,55 @@
+by "Jack Robbins (jdr5373)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jack Robbins"
+date "Jan 19, 2012"
+description "An hourglass"
+difficulty 1.25
+height 25
+id 17244
+link "https://webpbn.com/play.cgi?id=17244"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Tick Tock"
+width 13
+
+rows
+0
+13
+1,1
+13
+1,1
+1,1
+1,1
+1,1,1,1,1,1
+2,1,1,1,2
+2,1,1,2
+2,1,2
+2,2
+2,2
+2,2
+2,2
+2,1,2
+2,2
+1,1,1
+1,1,1,1
+1,1,1,1,1
+1,1,1,1,1,1
+13
+1,1
+13
+0
+
+columns
+3,3
+1,6,6,1
+1,1,2,2,1,1
+1,1,1,2,2,2,1
+1,1,1,5,1,1,1
+1,1,1,1,3,1,2,1
+1,1,1,1,1,1,1,1,1
+1,1,1,1,3,1,2,1
+1,1,1,5,1,1,1
+1,1,1,2,2,2,1
+1,1,2,2,1,1
+1,6,6,1
+3,3

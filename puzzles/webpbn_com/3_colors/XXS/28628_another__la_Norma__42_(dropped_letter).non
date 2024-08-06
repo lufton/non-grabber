@@ -1,0 +1,31 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug 22, 2016"
+description "1994 movie"
+difficulty 1.25
+height 5
+id 28628
+link "https://webpbn.com/play.cgi?id=28628"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "another Ã  la Norma # 42 (dropped letter)"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+0
+black 1 green 1 black 1
+black 5
+
+columns
+black 1
+black 2
+green 1 black 1
+black 2
+black 1

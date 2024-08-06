@@ -1,0 +1,81 @@
+by "David R. Felton (drfelton)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David R. Felton"
+date "Nov 13, 2011"
+description "Santa's hat which is representative of of old St. Nick; who, everyone knows, gives presents to all!"
+difficulty 1.25
+height 30
+id 16359
+link "https://webpbn.com/play.cgi?id=16359"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "Presents for all!!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 30
+black 14 black 14
+black 13 black 13
+black 12 black 12
+black 12 black 12
+black 12 black 12
+black 13 black 13
+black 14 black 14
+black 14 red 2 black 14
+black 13 red 4 black 13
+black 13 red 4 black 13
+black 12 red 6 black 12
+black 12 red 6 black 12
+black 11 red 8 black 11
+black 11 red 8 black 11
+black 10 red 10 black 10
+black 10 red 10 black 10
+black 9 red 12 black 9
+black 9 red 12 black 9
+black 8 red 14 black 8
+black 8 red 14 black 8
+black 7 red 16 black 7
+black 7 red 16 black 7
+black 6 red 18 black 6
+black 6 red 18 black 6
+black 5 red 20 black 5
+black 5 red 20 black 5
+black 3 black 3
+black 2 black 2
+black 3 black 3
+
+columns
+black 30
+black 30
+black 28 black 1
+black 27
+black 27
+black 25 red 2
+black 23 red 4
+black 21 red 6
+black 19 red 8
+black 17 red 10
+black 15 red 12
+black 13 red 14
+black 3 black 5 red 16
+black 2 black 2 red 18
+black 1 red 19
+black 1 red 19
+black 2 black 2 red 18
+black 3 black 5 red 16
+black 13 red 14
+black 15 red 12
+black 17 red 10
+black 19 red 8
+black 21 red 6
+black 23 red 4
+black 25 red 2
+black 27
+black 27
+black 28 black 1
+black 30
+black 30

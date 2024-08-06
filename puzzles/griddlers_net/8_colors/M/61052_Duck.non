@@ -1,0 +1,64 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/7/08"
+height 16
+id 61052
+link "https://www.griddlers.net/nonogram/-/g/61052"
+medium_time "0:07:48"
+points 6673
+popularity 81.39
+title "Duck"
+width 23
+
+color a d6efff
+color b c6ad18
+color c efde84
+color d e7ce4a
+color e 000000
+color f de7b18
+color g ef9c52
+color h 426394
+
+rows
+b 4
+b 1 c 4 b 1
+b 1 c 1 d 4 c 1 b 1
+b 1 c 1 d 2 e 1 d 2 f 3
+b 1 c 1 d 4 f 1 g 2 f 1
+b 3 b 1 c 1 d 3 f 1 g 2 f 1
+b 1 c 3 b 5 b 1 c 1 d 2 f 3
+b 1 c 1 d 2 b 1 c 4 b 2 b 1 d 1 c 1 b 1
+b 1 c 1 d 2 b 1 c 1 d 3 c 2 b 2 d 2 c 1 b 1
+b 1 c 1 d 2 b 1 c 1 d 5 c 2 b 1 d 1 c 1 b 1
+b 1 c 1 d 3 b 1 c 1 d 5 c 1 b 1 d 1 c 1 b 1
+b 1 c 1 d 3 b 1 c 5 b 1 d 2 c 1 b 1
+b 1 c 1 d 4 b 5 d 3 c 1 b 1
+b 1 c 2 d 8 c 2 b 1
+b 2 c 8 b 2
+h 23
+
+columns
+h 1
+h 1
+b 5 h 1
+b 1 c 5 b 2 h 1
+b 1 c 1 d 4 c 2 b 1 h 1
+b 1 c 1 d 6 c 1 b 1 h 1
+b 4 d 3 c 1 b 1 h 1
+b 1 c 3 b 1 d 3 c 1 h 1
+b 1 c 1 d 2 c 1 b 1 d 2 c 1 h 1
+b 1 c 1 d 3 c 1 b 1 d 1 c 1 h 1
+b 1 c 1 d 3 c 1 b 1 d 1 c 1 h 1
+b 1 c 1 d 2 c 1 b 1 d 1 c 1 h 1
+b 4 b 1 c 1 d 2 c 1 b 1 d 1 c 1 h 1
+b 1 c 4 b 1 b 1 c 1 d 1 c 1 b 1 d 1 c 1 h 1
+b 1 c 1 d 4 c 1 b 2 c 2 b 1 d 2 c 1 h 1
+b 1 c 1 d 7 b 2 d 2 c 1 b 1 h 1
+b 1 c 1 d 1 e 1 d 3 c 1 d 5 c 1 b 1 h 1
+b 1 c 1 d 3 f 2 b 1 c 5 b 1 h 1
+b 1 c 1 d 1 f 1 g 1 f 1 b 5 h 1
+b 1 f 1 g 2 f 1 h 1
+f 1 g 1 f 1 h 1
+f 2 h 1
+h 1

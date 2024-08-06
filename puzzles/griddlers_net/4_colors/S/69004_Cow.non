@@ -1,0 +1,51 @@
+by "x11r63"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/6/08"
+height 15
+id 69004
+link "https://www.griddlers.net/nonogram/-/g/69004"
+medium_time "0:06:12"
+points 1068
+popularity 65.6
+title "Cow"
+width 15
+
+color a ffffff
+color b 000000
+color c cc6600
+color d ff0000
+
+rows
+b 1 b 1
+b 2 c 5 b 2
+b 3 c 1 c 1 c 2 b 3
+c 2 c 1 c 1 c 3
+c 2 c 1 c 1 c 1 c 2
+c 2 c 3
+c 3 b 1 b 1 c 4
+c 2 c 4
+c 8 c 1 c 2
+c 1 c 2
+c 2 b 2 b 2 c 1
+c 1 b 1 b 1 c 1
+c 2 c 5 c 2
+c 3 d 3 c 5
+d 3 c 2
+
+columns
+c 2 c 3
+b 3 c 4 c 2 c 2
+b 2 c 4 c 1 c 1
+b 1 c 1 c 1 b 2 c 2
+c 2 c 1 b 1 c 1 b 1 c 1 d 2
+c 1 c 1 c 1 c 1 d 2
+c 2 c 1 c 1 c 1 d 2
+c 1 c 1 b 1 c 1 b 1 c 2
+c 2 c 1 c 1 b 2 c 1
+c 2 c 1 c 2
+b 1 c 4 c 1 c 2
+b 2 c 7 c 2
+b 3 c 3 c 3
+c 3
+c 2

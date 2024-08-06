@@ -1,0 +1,105 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/21/22"
+height 40
+id 261941
+link "https://www.griddlers.net/nonogram/-/g/261941"
+medium_time "0:36:10"
+points 59151
+popularity 84.15
+title "Ursula"
+width 40
+
+color a ffffcc
+color b 000000
+color c bd98f8
+color d f2bae1
+color e 4c9dd5
+color f 626b70
+color g 7d2d82
+color h ffffff
+
+rows
+0
+0
+f 1
+f 1 f 1 h 1 f 1 f 1
+f 1 h 1 f 1 h 3 f 1 h 1 f 1
+f 1 h 2 f 1 h 1 f 1 h 2 f 1
+f 1 h 1 f 1 h 5 f 1 h 1 f 1
+f 1 h 1 f 1 h 7 f 1 h 1 f 1
+f 1 h 3 f 1 c 1 f 1 h 1 f 1 c 1 f 1 h 3 f 1
+f 1 h 1 f 1 h 1 c 3 f 1 c 3 h 1 f 1 h 1 f 1
+f 1 h 1 f 1 c 1 e 2 c 3 e 2 c 1 f 1 h 1 f 1
+f 1 h 1 c 2 e 2 c 3 e 2 c 2 h 1 f 1
+f 1 h 1 c 2 b 1 h 1 c 3 h 1 b 1 c 2 h 1 f 1
+b 2 f 1 c 1 d 1 b 2 c 3 b 2 d 1 c 1 f 1
+b 1 g 2 b 1 f 1 d 2 c 5 d 2 f 1
+b 1 g 1 f 1 b 3 c 7
+b 1 g 1 f 1 b 1 c 5 b 2
+b 1 g 1 f 2 b 1 c 12 b 2
+b 1 g 1 f 2 b 1 c 3 b 3 c 2 b 3 c 3 b 2
+b 1 g 1 f 2 b 1 c 4 b 1 f 3 b 2 f 3 b 1 c 3 b 2 g 1 b 1
+b 1 f 4 b 1 c 5 b 1 f 8 b 1 c 4 b 4 f 1 g 1 b 1
+b 1 f 3 c 4 b 1 f 8 b 1 c 3 b 2 f 3 g 1 b 1
+b 2 f 1 c 3 b 1 b 2 f 4 b 2 c 1 b 1 f 5 g 1 b 1
+b 2 c 2 f 1 b 1 b 1 f 8 b 1 b 2 f 4 g 1 b 2
+b 4 g 1 b 1 f 3 b 3 f 8 b 1 b 2 f 4 b 2
+b 2 g 3 f 1 b 1 f 2 b 3 f 10 b 1 f 5 b 5
+b 2 g 1 f 3 b 2 f 1 b 2 f 1 b 1 f 10 b 1 f 4 b 2 f 4 b 2
+b 1 g 1 f 1 b 3 b 2 f 2 b 1 f 10 b 1 f 3 b 1 f 3 g 3 f 1 b 1
+b 1 g 1 f 2 b 1 b 1 f 4 b 1 f 3 b 2 f 3 b 1 f 4 b 1 f 2 g 1 b 3 g 1 b 1
+b 1 g 1 f 2 b 1 b 1 f 2 b 1 f 5 b 1 f 4 b 1 f 3 b 2 f 1 g 1 b 2 b 2
+b 1 g 1 f 2 b 1 b 1 f 2 b 1 f 5 b 1 f 4 b 1 f 3 b 1 f 2 g 1 b 1 b 2
+b 1 g 2 f 1 b 6 f 2 b 1 f 4 b 1 f 5 b 5 f 2 g 1 b 1
+b 2 g 1 f 8 b 2 f 4 b 1 f 11 g 1 b 2
+b 1 g 2 f 7 b 1 f 4 g 2 b 1 f 10 g 1 b 1
+b 2 g 2 f 6 b 1 f 4 g 2 b 2 f 8 g 2 b 1
+b 9 b 1 f 3 g 3 b 2 f 6 g 2 b 1
+b 1 f 4 g 3 b 3 f 2 g 3 b 2
+b 2 f 3 g 4 b 6
+b 2 f 8 b 1
+b 8
+
+columns
+0
+b 5
+b 2 g 4 b 3
+b 2 b 2 g 1 f 3 g 3 b 2
+b 1 g 2 b 3 b 2 g 1 f 6 g 2 b 1
+b 1 g 1 f 2 g 2 f 1 b 1 b 1 g 1 f 1 b 5 f 2 g 1 b 1
+b 1 g 1 f 1 b 1 f 5 b 1 b 1 g 1 f 1 b 1 b 1 f 3 b 1
+b 1 g 1 b 1 b 1 f 4 b 1 b 1 g 1 f 1 b 1 b 1 f 3 b 1
+b 2 b 2 f 3 b 1 g 1 f 1 b 1 b 1 f 3 b 1
+b 1 b 1 c 2 b 4 b 1 f 3 b 1
+c 4 f 3 b 5 f 3 b 1
+c 5 f 2 b 2 f 7 b 1
+f 5 c 3 b 1 f 2 b 2 f 5 b 3
+f 1 h 5 f 1 c 3 b 3 f 3 b 4 f 2 b 2
+f 1 h 2 f 2 c 3 f 1 c 4 b 4 f 9 b 1
+f 2 h 1 f 1 h 2 c 3 d 2 c 2 b 3 b 2 f 3 b 1 f 8 b 2
+f 1 h 2 f 1 h 1 f 1 c 1 e 2 b 2 d 1 c 1 c 1 b 1 f 3 b 1 f 15 b 1
+f 1 h 3 c 2 e 2 h 1 b 1 c 4 b 1 f 3 b 1 f 10 g 3 f 3 b 1
+f 1 h 1 f 1 h 2 f 1 c 9 b 1 f 12 b 2 g 4 f 2 b 1
+f 1 h 6 f 1 c 9 b 1 f 8 b 3 f 2 b 2 g 3 f 1 b 1
+f 1 h 1 f 1 h 2 f 1 c 10 b 1 f 8 b 1 f 5 b 2 g 2 f 1 b 1
+f 1 h 3 c 2 e 2 h 1 b 1 c 4 b 1 f 16 b 2 g 1 f 1 b 1
+f 1 h 2 f 1 h 1 f 1 c 1 e 2 b 2 d 1 c 1 c 1 b 1 f 3 b 1 f 13 b 1 g 1 f 1 b 1
+f 2 h 1 f 1 h 2 c 3 d 2 c 1 b 1 f 3 b 1 f 13 b 2 f 1 b 1
+f 1 h 2 f 2 c 3 f 1 c 2 b 3 b 2 f 3 b 4 f 5 b 1 f 1 b 1
+f 1 h 5 f 1 c 4 b 3 f 3 b 1 f 5 b 2
+f 5 c 4 b 1 f 6 b 1 f 4 g 1 b 1
+c 4 b 2 f 6 b 1 f 4 g 1 b 1
+c 2 b 2 f 5 b 3 f 3 g 2 b 1
+b 1 f 5 b 3 f 4 g 2 b 1
+b 2 f 4 b 1 f 5 g 3 b 2
+b 1 f 4 b 2 f 2 g 3 b 3
+b 1 b 1 f 3 b 2 f 2 g 1 b 4
+b 2 b 2 f 2 g 1 b 2 f 1 g 1 b 2
+b 3 f 1 g 2 b 1 b 1 f 1 g 1 b 1
+b 1 g 2 b 3 b 1 f 1 g 1 b 1
+b 2 b 1 f 1 g 1 b 2
+b 5
+0
+0

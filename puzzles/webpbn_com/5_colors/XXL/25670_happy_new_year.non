@@ -1,0 +1,143 @@
+by "ben jammin ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by ben jammin"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 3.25
+height 60
+id 25670
+link "https://webpbn.com/play.cgi?id=25670"
+note "published,may be unique,may require deep lookahead"
+quality 2.5
+title "happy new year"
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+blue 1
+blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 3 blue 3
+blue 2 blue 1 blue 3
+blue 2 blue 1 blue 2
+blue 2 blue 1 blue 10
+blue 2 blue 1 blue 10
+blue 3
+blue 2
+blue 2
+blue 2
+blue 2
+blue 2
+blue 2
+0
+black 6 red 5 green 2 blue 5 blue 1 blue 2 blue 1
+black 6 red 5 green 2 blue 5 blue 1 blue 2 blue 1
+black 2 red 2 red 2 green 2 blue 2 blue 1 blue 2 blue 1
+black 6 red 2 red 2 green 2 blue 5 blue 1 blue 2 blue 1
+black 6 red 2 red 2 green 2 blue 5 blue 10
+black 2 red 2 red 2 green 2 blue 5
+black 2 red 2 red 2 green 2 blue 2
+black 2 red 2 red 2 green 2 blue 2 blue 2
+black 2 red 2 red 2 green 2 blue 5 blue 3
+black 6 red 5 green 2 blue 5 blue 3
+black 6 red 5 green 2 blue 5 blue 3
+blue 3
+blue 5
+blue 3 blue 3
+blue 3 blue 3
+blue 2 blue 3
+blue 3
+blue 2
+0
+0
+blue 2 blue 2 red 2 green 12 black 1 black 1
+blue 2 blue 2 red 4 green 1 green 2 green 1 black 2 black 2
+blue 2 blue 2 red 2 red 2 green 1 green 2 green 1 black 2 black 2
+blue 2 blue 2 red 2 red 2 green 1 green 2 green 1 black 4
+blue 10 red 2 red 2 green 1 green 6 green 3 black 2
+blue 10 red 12 green 1 green 1 green 1 green 1 black 2
+blue 2 blue 2 red 2 red 2 green 1 green 1 green 1 green 1 black 2
+blue 2 blue 2 red 2 red 2 green 1 green 1 green 1 green 1 black 2
+blue 2 blue 2 red 2 red 2 green 1 green 1 green 1 green 1 black 2
+blue 2 blue 2 red 1 red 1 green 3 green 3 black 1
+green 5 blue 4
+red 6 red 2 green 1 green 1 blue 4 blue 6 blue 4
+red 7 red 2 green 1 green 3 blue 4 blue 8 blue 4
+red 8 red 2 green 1 green 1 blue 4 blue 4 blue 4 blue 4
+red 2 red 5 red 2 green 1 green 3 blue 4 blue 4 blue 4 blue 4
+red 2 red 6 red 2 green 1 green 3 blue 4 blue 4 blue 4 blue 4
+red 2 red 7 green 1 green 1 blue 4 blue 4 blue 4 blue 4
+red 2 red 7 green 1 green 3 blue 7 blue 7
+red 2 red 5 green 1 green 1 blue 5 blue 5
+red 2 red 5 green 5 blue 3 blue 3
+
+columns
+blue 10
+blue 10 red 9
+blue 2 red 9
+blue 2 red 3
+black 2 black 8 blue 2 red 3
+black 2 black 8 blue 2 red 5
+black 2 black 2 black 2 blue 2 red 5
+black 2 black 2 black 2 blue 2 red 6
+black 5 black 2 blue 10 red 5
+black 5 black 2 blue 10 red 6
+red 11 red 2 red 5
+red 11 red 2 red 4
+red 2 red 2 red 2 red 9
+red 11 red 2 red 9
+red 11 red 2
+green 11 red 3 green 10
+green 11 red 2 red 1 green 1 green 1
+blue 6 blue 3 red 2 red 1 green 1 green 6 green 1
+blue 6 blue 3 red 2 red 1 green 1 green 1 green 2 green 1 green 1
+blue 2 blue 3 blue 3 red 2 red 1 green 3 green 2 green 3
+blue 2 blue 8 red 2 red 1
+blue 2 blue 8 red 2 red 1 blue 1
+red 3 blue 2
+red 2 blue 3
+red 2 blue 4
+red 2 blue 4
+red 2 blue 4
+red 2 blue 4
+blue 4
+green 10 blue 4
+green 1 green 1 blue 3
+green 1 green 6 blue 4
+green 1 green 1 blue 4
+green 1 green 1 blue 4
+green 1 green 1 blue 4
+blue 2 blue 5 blue 2 blue 2 green 5 blue 4
+blue 4 blue 1 blue 3 blue 3 green 10 blue 4
+blue 2 blue 2 blue 1 blue 3 blue 3 green 1 green 1 blue 4
+blue 2 blue 2 blue 1 blue 5 green 1 green 6 blue 3
+blue 10 blue 5 blue 3 green 1 green 1 blue 3
+blue 2 blue 2 blue 5 blue 3 green 5 blue 4
+blue 2 blue 2 blue 1 blue 3 blue 4
+blue 2 blue 1 blue 3 blue 4
+blue 2 blue 1 blue 3 black 2 blue 4
+blue 1 blue 5 blue 3 black 2 black 2 blue 4
+blue 2 black 2 black 2 blue 4
+black 2 black 2 blue 4
+blue 1 black 3 blue 3
+blue 3 blue 2 black 2 blue 4
+blue 3 blue 2 black 2 blue 4
+blue 5 black 2 blue 4
+blue 4 black 2 blue 4
+blue 2 blue 4
+blue 2 blue 4
+blue 2 blue 3
+blue 2 blue 2
+blue 2 blue 1
+blue 2
+0
+0

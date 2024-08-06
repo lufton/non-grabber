@@ -1,0 +1,84 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/2/07"
+height 30
+id 47789
+link "https://www.griddlers.net/nonogram/-/g/47789"
+medium_time "0:14:23"
+points 17586
+popularity 75.35
+title "Castle"
+width 30
+
+color a 000000
+color b 999999
+color c cc33ff
+color d ffccff
+color e cc99ff
+color f cccccc
+color g ffffff
+
+rows
+b 1 c 2
+b 1 c 4
+b 1 c 5
+b 1 c 3
+c 2
+c 1 e 2 c 1
+c 1 e 1 d 1 e 2 c 1
+c 1 e 1 d 3 e 2 c 1
+c 1 e 1 d 5 e 2 c 1
+c 1 e 1 d 7 e 2 c 1
+c 1 e 12 c 1
+c 14
+f 1 g 1 f 1 g 4 f 1 g 3 f 1
+f 1 g 1 f 1 g 4 f 1 g 3 f 1
+c 1 f 12 c 1
+c 1 d 1 c 1 f 2 f 4 g 1 f 4 g 1 f 4 f 2 c 1 d 1 c 1
+c 1 d 3 c 1 f 1 f 1 g 2 f 1 g 1 f 1 g 2 f 1 g 1 f 1 g 2 f 1 f 1 c 1 d 3 c 1
+c 7 f 16 c 7
+f 1 g 3 f 1 g 2 f 1 g 4 f 1 g 4 f 1 g 4 f 2 g 3 f 1
+f 1 g 1 b 1 g 1 f 1 g 2 f 1 g 4 f 1 g 4 f 1 g 4 f 2 g 1 b 1 g 1 f 1
+f 1 g 1 b 1 g 1 f 20 g 1 b 1 g 1 f 1
+f 1 g 3 f 1 g 4 f 1 g 4 f 1 g 4 f 1 g 3 f 1 g 3 f 1
+f 4 g 4 f 1 g 1 c 7 g 1 f 1 g 4 f 3
+f 8 c 1 d 1 e 2 c 1 d 2 e 1 c 1 f 7
+f 1 g 4 f 1 g 1 c 1 d 3 e 1 c 1 d 3 e 1 c 1 g 2 f 1 g 2 f 1
+f 1 g 4 f 1 g 1 c 1 d 3 e 1 c 1 d 3 e 1 c 1 g 2 f 1 g 2 f 1
+f 7 c 1 d 2 c 1 e 1 c 1 d 1 c 1 d 1 e 1 c 1 f 6
+f 1 g 2 f 1 g 3 c 1 d 3 e 1 c 1 d 3 e 1 c 1 f 1 g 4 f 1
+f 1 g 2 f 1 g 3 c 1 e 4 c 1 e 4 c 1 f 1 g 4 f 1
+f 7 c 11 f 6
+
+columns
+c 1
+c 2 f 4
+c 1 d 1 c 1 g 4 f 1
+c 1 d 2 c 1 g 1 b 2 g 1 f 8
+c 1 d 1 c 1 g 4 f 2 g 2 f 1 g 2 f 1
+f 1 c 2 f 6 g 2 f 1 g 2 f 1
+f 2 c 1 g 2 f 1 g 2 f 1 g 2 f 4
+f 1 g 2 f 1 g 2 f 1 g 2 f 1 g 2 f 1
+c 2 f 6 g 2 f 4 g 2 f 1
+c 1 e 1 c 1 f 4 g 1 f 1 g 2 f 1 g 2 f 1 g 2 f 1 g 2 f 1
+c 1 e 2 c 1 g 2 f 2 g 1 f 1 g 2 f 4 c 6
+c 1 e 1 d 1 e 1 c 1 f 6 g 2 f 1 g 2 c 1 d 4 e 1 c 1
+c 1 e 1 d 2 e 1 c 1 g 2 f 1 g 2 f 1 g 2 f 1 g 1 c 1 d 5 e 1 c 1
+c 1 e 1 d 3 e 1 c 1 g 2 f 7 g 1 c 1 e 1 d 2 c 1 d 1 e 1 c 1
+c 1 e 1 d 4 e 1 c 1 g 2 f 2 g 1 f 1 g 2 f 1 g 1 c 1 e 6 c 1
+b 4 c 1 e 2 d 3 e 1 c 1 g 2 f 2 g 1 f 1 g 2 f 2 c 8
+c 3 c 1 e 2 d 2 e 1 c 1 f 6 g 2 f 1 g 1 c 1 d 5 e 1 c 1
+c 3 c 1 e 2 d 1 e 1 c 1 g 2 f 1 g 2 f 1 g 2 f 1 g 1 c 1 d 3 c 1 d 1 e 1 c 1
+c 3 c 1 e 3 c 1 g 2 f 7 g 1 c 1 e 1 d 4 e 1 c 1
+c 3 c 1 e 2 c 1 g 2 f 2 g 1 f 1 g 2 f 1 g 2 c 1 e 5 c 1
+c 2 c 1 e 1 c 1 f 4 g 1 f 1 g 2 f 4 c 6
+c 2 f 3 g 2 f 1 g 2 f 1 g 2 f 4
+f 1 g 2 f 1 g 2 f 1 g 2 f 1 g 2 f 1
+f 2 c 1 f 3 g 2 f 4 g 2 f 1
+f 1 c 2 f 4 g 1 f 1 g 2 f 1 g 2 f 1
+c 1 d 1 c 1 g 4 f 2 g 2 f 1 g 2 f 1
+c 1 d 2 c 1 g 1 b 2 g 1 f 8
+c 1 d 1 c 1 g 4 f 1
+c 2 f 4
+c 1

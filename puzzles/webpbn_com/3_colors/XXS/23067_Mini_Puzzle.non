@@ -1,0 +1,31 @@
+by "Horace (horace)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Horace"
+date "Nov  2, 2013"
+description "Tiny tree in fall."
+difficulty 1.5
+height 5
+id 23067
+link "https://webpbn.com/play.cgi?id=23067"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Mini Puzzle"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 1 red 1
+red 1 red 1
+red 1 black 1 red 1
+black 1
+
+columns
+red 3
+red 1
+red 1 black 2
+red 1
+red 3

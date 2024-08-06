@@ -1,0 +1,55 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/18/20"
+height 19
+id 206429
+link "https://www.griddlers.net/nonogram/-/g/206429"
+medium_time "0:03:28"
+points 2760
+popularity 80.22
+title "Christmas Tree"
+width 11
+
+color a ccccff
+color b 660000
+color c 669900
+color d ff8484
+color e 990000
+color f 757500
+color g ff9966
+color h ffea33
+
+rows
+h 1
+h 1 g 1 h 1
+h 1
+c 1
+c 1 f 1 c 1
+c 1 e 1 c 1 f 1 c 1
+c 1 e 1 c 1
+c 1 f 1 c 1 e 1 c 1
+c 1 d 1 f 2 c 1 e 1 c 1
+c 1 d 1 f 2 c 1
+f 1 c 2 d 1 f 2 c 1
+f 1 e 1 f 1 c 2 d 1 f 2 c 1
+c 1 e 1 f 1 c 2 d 1 f 1
+c 3 e 1 f 1 c 2 d 1 f 1
+c 5 e 1 f 1 c 2 d 1 f 1
+b 1
+b 1
+c 5 b 1 c 5
+f 11
+
+columns
+c 1 c 1 f 1
+f 1 c 2 c 1 f 1
+c 1 f 1 e 1 c 3 c 1 f 1
+c 1 c 1 d 1 c 2 f 1 e 1 c 2 c 1 f 1
+h 1 c 1 e 1 c 1 f 2 d 1 c 2 f 1 e 1 c 1 c 1 f 1
+h 1 g 1 h 1 c 1 f 1 c 1 e 1 c 1 f 2 d 1 c 2 f 1 e 1 b 3 f 1
+h 1 c 1 f 1 c 1 e 1 c 1 f 2 d 1 c 2 f 1 c 1 f 1
+c 1 c 1 e 1 c 1 f 2 d 1 c 2 c 1 f 1
+c 1 c 1 f 2 d 1 c 1 c 1 f 1
+c 1 f 1 d 1 c 1 f 1
+f 1 c 1 f 1

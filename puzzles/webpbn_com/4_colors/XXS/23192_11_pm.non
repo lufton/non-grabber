@@ -1,0 +1,32 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom O'Connell"
+date "Nov 23, 2013"
+description ""
+difficulty 1.0
+height 5
+id 23192
+link "https://webpbn.com/play.cgi?id=23192"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "11 pm"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+black 2 black 1 green 1
+blue 3 green 1
+green 5
+green 1 green 1
+
+columns
+black 2 blue 1 green 2
+black 2 blue 1 green 1
+blue 1 green 1
+black 1 green 1
+green 4

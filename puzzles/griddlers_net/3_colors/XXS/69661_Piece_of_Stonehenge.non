@@ -1,0 +1,30 @@
+by "Cerriddwen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/20/08"
+height 5
+id 69661
+link "https://www.griddlers.net/nonogram/-/g/69661"
+medium_time "0:00:11"
+points 10
+popularity 54.72
+title "Piece of Stonehenge"
+width 5
+
+color a 00cccc
+color b cccccc
+color c 009900
+
+rows
+0
+b 5
+b 1 b 1
+c 1 b 1 c 1 b 1 c 1
+c 5
+
+columns
+b 1 c 2
+b 3 c 1
+b 1 c 2
+b 3 c 1
+b 1 c 2

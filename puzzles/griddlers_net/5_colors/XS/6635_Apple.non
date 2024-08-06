@@ -1,0 +1,37 @@
+by "suziak"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/26/03"
+height 8
+id 6635
+link "https://www.griddlers.net/nonogram/-/g/6635"
+medium_time "0:01:32"
+points 58
+popularity 47.37
+title "Apple"
+width 7
+
+color a ffffff
+color b ffbd00
+color c 00ff00
+color f ff7200
+color h 875f00
+
+rows
+h 1 c 1
+h 1
+f 2 h 1 f 2
+f 1 f 3 f 1
+f 1 b 1 f 1
+f 1 b 2 f 1
+f 1 b 1 f 1 f 1
+f 1 f 1
+
+columns
+f 3
+f 1 b 2 f 1
+f 2 b 2 f 1
+h 3 f 1 f 1
+c 1 f 2 f 1
+f 1 f 1
+f 3

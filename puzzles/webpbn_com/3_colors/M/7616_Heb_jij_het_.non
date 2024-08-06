@@ -1,0 +1,61 @@
+by "Ine (Ineke_Loves_U)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ine"
+date "Jan 17, 2010"
+description "Ja hoor, ik bedoel liefde!"
+difficulty 1.25
+height 20
+id 7616
+link "https://webpbn.com/play.cgi?id=7616"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Heb jij het ?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 18
+black 2 black 3 red 3 black 3 red 4
+black 2 black 3 red 1 black 1 red 1 black 3 red 1 black 3
+black 2 black 3 red 1 black 1 red 1 black 1 black 1 black 1 red 2 black 2
+black 2 black 3 red 1 black 1 red 1 black 1 black 1 black 1 red 1 black 3
+black 2 red 3 black 2 black 2 red 4
+black 18
+black 18
+black 5 black 3 black 6
+black 4 black 1 black 5
+black 3 black 4
+black 3 black 4
+black 4 black 5
+black 5 black 6
+black 6 black 7
+black 7 black 8
+black 8 black 9
+black 18
+0
+
+columns
+0
+black 18
+black 18
+black 1 black 12
+black 5 black 4 black 6
+black 5 black 3 black 5
+black 5 black 2 black 4
+black 1 red 5 black 2 black 3
+black 1 red 1 black 3 red 1 black 3 black 2
+black 1 red 5 black 4 black 1
+black 1 black 6 black 2
+black 3 black 3 black 3
+black 5 black 2 black 4
+black 3 black 4 black 5
+black 1 black 7 black 6
+black 1 red 5 black 12
+black 1 red 1 black 1 red 1 black 1 red 1 black 12
+black 1 red 1 black 3 red 1 black 12
+black 1 red 1 black 3 red 1 black 12
+0

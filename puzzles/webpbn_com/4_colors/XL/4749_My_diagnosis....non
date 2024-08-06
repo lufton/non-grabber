@@ -1,0 +1,92 @@
+by "Sofia Bergendal (haesselmaas)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Sofia Bergendal"
+date "Jan 15, 2009"
+description "Attention Defecit Disorder (like ADHD minus the hyperactivity). It's not just for kids!"
+difficulty 1.75
+height 20
+id 4749
+link "https://webpbn.com/play.cgi?id=4749"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "My diagnosis..."
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 8 red 1 black 2 blue 8 red 1 black 6 blue 7 red 1 black 6 blue 10
+blue 7 red 2 black 2 blue 8 red 1 black 7 blue 6 red 1 black 7 blue 9
+blue 7 red 1 black 4 blue 7 red 1 black 2 blue 2 red 1 black 3 blue 5 red 1 black 2 blue 2 red 1 black 3 blue 8
+blue 6 red 2 black 1 blue 1 red 1 black 1 blue 7 red 1 black 2 blue 3 red 1 black 3 blue 4 red 1 black 2 blue 3 red 1 black 3 blue 7
+blue 6 red 1 black 2 blue 1 red 1 black 2 blue 6 red 1 black 2 blue 4 red 1 black 3 blue 3 red 1 black 2 blue 4 red 1 black 3 blue 6
+red 2 black 2 red 1 black 2 red 1 black 2 red 1 black 3 red 1 black 2 red 1 black 3
+red 1 black 2 red 2 black 2 red 1 black 2 red 1 black 3 red 1 black 2 red 1 black 3
+red 2 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 1 black 2 red 2 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 2 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 1 black 2 red 8 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 2 black 12 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 1 black 14 red 1 black 2 red 2 black 2 red 1 black 2 red 2 black 2
+red 2 black 2 red 1 black 2 red 1 black 2 red 2 black 3 red 1 black 2 red 2 black 3
+red 1 black 2 red 2 black 2 red 1 black 2 red 2 black 3 red 1 black 2 red 2 black 3
+red 2 black 2 blue 11 red 1 black 2 blue 1 red 1 black 2 blue 3 red 2 black 3 blue 3 red 1 black 2 blue 3 red 2 black 3 blue 6
+red 1 black 2 blue 12 red 2 black 2 red 1 black 2 blue 2 red 2 black 3 blue 4 red 1 black 2 blue 2 red 2 black 3 blue 7
+red 1 black 2 blue 13 red 1 black 2 red 1 black 2 red 3 black 3 blue 5 red 1 black 2 red 3 black 3 blue 8
+black 2 blue 14 red 2 black 9 blue 6 red 1 black 7 blue 9
+black 2 blue 15 red 1 black 8 blue 7 red 1 black 6 blue 10
+
+columns
+blue 5 red 3 black 2
+blue 5 red 3 black 4
+blue 5 red 3 black 4 blue 2
+blue 5 red 3 black 4 blue 4
+blue 5 red 3 black 4 blue 5
+blue 5 red 3 black 5 blue 5
+blue 3 red 3 black 4 red 1 black 2 blue 5
+blue 1 red 3 black 4 red 1 black 2 blue 5
+red 2 black 4 red 1 black 2 blue 5
+black 3 blue 2 red 1 black 2 blue 5
+black 3 red 4 red 1 black 2 blue 5
+blue 2 black 4 red 3 red 1 black 2 blue 5
+blue 4 black 4 red 3 black 2 blue 5
+blue 5 black 4 red 1 black 2 blue 5
+blue 5 black 5 red 2 blue 5
+blue 5 black 4 red 3 blue 3
+blue 5 black 4 red 3 blue 1
+blue 5 black 4 red 2
+blue 5 blue 1 black 4
+red 18 black 2
+black 20
+black 20
+black 2 blue 3 blue 2 red 1 black 2
+black 2 blue 3 blue 2 red 1 black 2
+black 2 red 1 blue 2 blue 1 red 2 black 2
+black 3 red 1 blue 1 red 2 black 3
+blue 1 black 3 red 1 red 2 black 3 blue 1
+blue 2 black 3 red 1 red 2 black 3 blue 2
+blue 3 black 3 red 1 red 2 black 3 blue 3
+blue 4 black 3 red 6 black 3 blue 4
+blue 5 black 10 blue 5
+blue 5 black 8 blue 5
+blue 5 blue 5
+red 20
+black 20
+black 20
+black 2 blue 3 blue 2 red 1 black 2
+black 2 blue 3 blue 2 red 1 black 2
+black 2 red 1 blue 2 blue 1 red 2 black 2
+black 3 red 1 blue 1 red 2 black 3
+blue 1 black 3 red 1 red 2 black 3 blue 1
+blue 2 black 3 red 1 red 2 black 3 blue 2
+blue 3 black 3 red 1 red 2 black 3 blue 3
+blue 4 black 3 red 6 black 3 blue 4
+blue 5 black 10 blue 5
+blue 5 black 8 blue 5
+blue 5 blue 5
+blue 5 blue 5
+blue 5 blue 5
+blue 5 blue 5

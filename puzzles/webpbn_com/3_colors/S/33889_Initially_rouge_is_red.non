@@ -1,0 +1,51 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "Apr 12, 2020"
+description "R"
+difficulty 1.5
+height 15
+id 33889
+link "https://webpbn.com/play.cgi?id=33889"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Initially, rouge is red"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1 black 7 green 1
+black 10 green 1
+black 2 black 6
+green 1 black 1 black 1 black 4
+green 2 black 3 black 4
+black 4 black 4
+black 4 black 3 green 1
+black 3 green 1 black 3 green 1
+black 4 green 1 black 3 green 1
+black 8 green 1
+black 8 green 1
+black 4 green 1 black 3 green 1
+black 4 black 4 green 1 black 1
+black 4 green 1 black 6
+green 4 black 3 green 1
+
+columns
+green 1
+green 1 black 1 green 1
+green 2 black 6 green 1
+black 2 black 9 green 1
+black 2 black 10
+green 1 black 1 black 9 green 1
+black 2 black 4 green 2 black 2 green 1
+black 2 black 4
+black 2 black 5
+black 3 black 7
+black 3 black 2 green 3 black 3
+black 9 green 1 black 2
+black 8 green 1 black 1 green 1
+green 1 black 6 green 1 black 1
+green 1 black 4 green 1 black 1

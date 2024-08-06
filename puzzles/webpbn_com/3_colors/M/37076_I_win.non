@@ -1,0 +1,61 @@
+by "Andrew Goss (TJDevil02)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Goss"
+date "Sep  1, 2023"
+description "See? Right there! Along the diagonal!"
+difficulty 1.5
+height 20
+id 37076
+link "https://webpbn.com/play.cgi?id=37076"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "I win!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2 black 5 black 3 black 2
+black 4 black 1 black 4 black 1 black 4
+black 2 black 1 black 2 black 3 blue 2 black 2
+black 2 black 1 black 2 black 3 blue 2 black 2
+black 4 black 1 black 4 black 1 black 4
+black 2 black 5 black 3 black 2
+black 20
+black 2 black 3 black 3 black 2
+black 4 black 1 black 4 black 1 black 4
+black 2 blue 2 black 3 black 2 black 3 blue 2 black 2
+black 2 blue 2 black 3 black 2 black 3 blue 2 black 2
+black 4 black 1 black 4 black 1 black 4
+black 2 black 3 black 3 black 2
+black 20
+black 2 black 3 black 2 black 3 black 2
+black 4 black 1 black 4 black 1 black 4
+black 2 black 3 blue 2 black 3 black 2
+black 2 black 3 blue 2 black 3 black 2
+black 4 black 1 black 4 black 1 black 4
+black 2 black 3 black 2 black 3 black 2
+
+columns
+black 1 black 2 black 2 black 2 black 1
+black 2 black 3 black 4 black 3 black 2
+black 4 black 3 blue 2 black 3 black 4
+black 4 black 3 blue 2 black 3 black 4
+black 2 black 3 black 4 black 3 black 2
+black 1 black 2 black 2 black 2 black 1
+black 20
+black 1 black 3 black 2 black 2
+black 2 black 5 black 3 black 4
+black 4 black 1 black 4 black 3 blue 2 black 2
+black 4 black 1 black 4 black 3 blue 2 black 2
+black 2 black 5 black 3 black 4
+black 1 black 3 black 2 black 2
+black 20
+black 2 black 1 black 2 black 2 black 1
+black 4 black 1 black 4 black 3 black 2
+black 2 blue 2 black 5 blue 2 black 3 black 4
+black 2 blue 2 black 5 blue 2 black 3 black 4
+black 4 black 1 black 4 black 3 black 2
+black 2 black 1 black 2 black 2 black 1

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Jun  2, 2018"
+description "Wow! Those are some big engines."
+difficulty 1.75
+height 20
+id 31298
+link "https://webpbn.com/play.cgi?id=31298"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Rhymes with a State #12"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+0
+black 3
+blue 1 black 3 blue 3
+black 1 blue 2 black 4 blue 2
+black 2 blue 2 black 4 blue 1
+black 3 black 4
+black 4 black 10
+black 15 black 1
+black 19
+black 17
+black 15
+black 5
+black 4
+blue 2 black 5 blue 1
+blue 2 black 4 blue 3
+black 3 blue 5
+black 3
+0
+0
+
+columns
+black 4
+black 5
+black 5
+black 5
+black 4 blue 1 black 1
+black 4 blue 2 black 2
+blue 1 black 4 blue 1 black 3
+black 1 blue 3 black 4 black 3
+black 3 blue 1 black 5 black 2 blue 1
+black 4 black 5 black 3 blue 1
+black 12 blue 2
+blue 1 black 11 blue 2
+blue 2 black 9 blue 3
+blue 3 black 7
+black 6
+black 5
+black 1 black 3
+black 1 black 3
+black 3
+black 1

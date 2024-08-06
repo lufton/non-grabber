@@ -1,0 +1,62 @@
+by "Robert Shields (skweedle)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Robert Shields"
+date "Aug 10, 2010"
+description "Kilroy - for those who remember"
+difficulty 2.5
+height 20
+id 9935
+link "https://webpbn.com/play.cgi?id=9935"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "He was here"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 9
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 2 blue 2 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+red 3 red 3 black 1 black 1 red 2 red 4 red 1
+red 3 red 2 black 1 black 1 red 3 red 4 red 1
+black 1 black 1
+red 2 red 2 black 1 black 1 red 4 red 4 red 2
+red 2 red 2 black 2 red 4 red 4 red 2
+0
+red 1 red 4 red 4 red 4 red 3
+red 1 red 4 red 4 red 4 red 3
+0
+red 4 red 4 red 4 red 4
+red 4 red 4 red 4 red 4
+
+columns
+red 2 red 2 red 2 red 2
+red 2 red 2 red 2
+red 2 red 2 red 2
+red 2 red 2 red 2
+black 5 red 2 red 2 red 2
+black 2 black 1 red 2 black 3 red 2 red 2
+black 2 black 1 red 1 black 1 black 1 red 2
+black 1 black 1 blue 2 black 1 black 1 red 2 red 2
+black 1 black 1 blue 1 black 1 black 1 red 2 red 2 red 2
+black 1 black 1 black 1 black 1 red 2 red 2
+black 1 black 1 red 1 red 2 red 2 red 2
+black 1 black 1 black 1 red 2 red 2 red 2
+black 1 black 1 blue 2 red 2 red 2 red 2
+black 1 black 1 blue 1 red 2 red 2 red 2
+black 2 black 1 red 2 red 2 red 2
+black 2 black 1 red 2 red 2 red 2 red 2
+black 5 red 2 red 2 red 2
+red 2 red 2 red 2
+red 2 red 2 red 2
+red 2 red 2 red 2

@@ -1,0 +1,76 @@
+by "evengroen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/15/15"
+height 27
+id 152417
+link "https://www.griddlers.net/nonogram/-/g/152417"
+medium_time "0:11:46"
+points 8557
+popularity 81.08
+title "Dragonfly"
+width 27
+
+color a ffffff
+color b 000000
+color c 66cc00
+color d 99ff33
+color e ccccff
+
+rows
+e 3
+e 5
+e 6
+e 7
+e 3 e 7 b 3
+e 5 e 7 b 4
+e 6 e 6 d 2 b 2
+e 7 e 6 d 3 b 1
+e 7 e 4 d 3
+e 7 e 1 d 3
+e 6 d 3 e 2
+e 6 c 1 d 2 e 5
+e 4 c 3 e 5
+e 1 c 3 e 6
+c 3 e 2 e 6
+c 3 e 5 e 7
+c 3 e 5 e 7
+c 3 e 6 e 6
+c 3 e 6 e 5
+c 3 e 7 e 3
+c 3 e 7
+c 3 e 6
+c 3 e 5
+c 3 e 3
+c 3
+c 3
+c 2
+
+columns
+c 2
+c 3
+c 3
+e 3 c 3
+e 5 c 3
+e 6 c 3
+e 7 c 3
+e 3 e 7 c 3
+e 5 e 6 c 3
+e 6 e 6 c 3
+e 7 e 5 c 3
+e 7 e 5 c 3
+e 6 e 2 c 3
+e 6 c 3 e 1
+e 5 c 3 e 4
+e 5 d 2 c 1 e 6
+e 2 d 3 e 6
+d 3 e 1 e 7
+d 3 e 4 e 7
+b 1 d 3 e 6 e 7
+b 2 d 2 e 6 e 6
+b 4 e 7 e 5
+b 3 e 7 e 3
+e 7
+e 6
+e 5
+e 3

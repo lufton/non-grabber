@@ -1,0 +1,32 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun  8, 2011"
+description "A mini Titanic"
+difficulty 1.25
+height 5
+id 14415
+link "https://webpbn.com/play.cgi?id=14415"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Fatal Voyage"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1
+black 1 black 1
+black 5
+black 5
+blue 5
+
+columns
+black 2 blue 1
+red 1 black 3 blue 1
+black 2 blue 1
+red 1 black 3 blue 1
+black 2 blue 1

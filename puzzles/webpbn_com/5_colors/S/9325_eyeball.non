@@ -1,0 +1,48 @@
+by "Angie Heath (bewildering18)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Angie Heath"
+date "Aug 21, 2011"
+description ""
+difficulty 1.25
+height 10
+id 9325
+link "https://webpbn.com/play.cgi?id=9325"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "eyeball"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+red 11
+red 3 black 9 red 3
+black 4 blue 3 black 4
+black 1 blue 1 green 1 blue 1 black 2
+black 2 blue 3 black 1
+black 9
+0
+0
+
+columns
+red 1 black 1
+red 1 black 2
+red 2 black 1 black 1
+red 1 black 2 black 2
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 1 blue 3 black 1
+red 1 black 1 blue 1 green 1 blue 1 black 1
+red 1 black 1 blue 3 black 1
+red 1 black 1 black 1
+red 1 black 1 black 1
+red 1 black 5
+red 2 black 2
+red 1 black 1
+red 1 black 1

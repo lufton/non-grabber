@@ -1,0 +1,73 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom O'Connell"
+date "Jul 29, 2012"
+description "A couple days later Annie Mae set Mr. R on the floor to see if he can stand. No luck but Mr. R really wants to be with his wife and children."
+difficulty 2.5
+height 25
+id 19404
+link "https://webpbn.com/play.cgi?id=19404"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Attempt a walk - Part 5"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 7 green 8
+black 1 blue 1 black 1 green 1 red 2 blue 5
+black 1 blue 1 black 1 green 1 red 1 blue 2 blue 1
+black 1 blue 2 black 1 black 1 red 3 green 1 blue 1 blue 2
+black 1 black 1 red 5 green 1 blue 2 blue 3
+black 1 black 1 red 1 red 2 green 1 blue 5 green 2
+black 7 blue 1 red 1 green 1 blue 4 green 2 red 1
+red 1 green 1 blue 4 red 1 green 2
+red 1 red 1 red 1 red 1 red 2 green 1 blue 5 green 1 red 1
+red 5 red 2 green 1 blue 5 black 1 blue 1
+black 3 red 2 green 3 red 2 green 8
+black 2 red 1 green 6 red 1
+black 2 blue 1 black 2 green 5 red 1 blue 2
+black 1 green 9 blue 4
+black 2 red 2 green 5 black 2 blue 1 black 1 blue 1 black 1
+black 1 red 2 green 5 black 6
+black 2 black 1 blue 5 black 1 black 1
+black 6 blue 5 black 5
+green 2 red 1 green 2 green 3 blue 4 green 7 black 1 green 3 black 1
+green 1 red 2 green 1 red 1 green 3 blue 3 green 8 black 1 green 3 black 1
+green 2 red 2 green 1 red 2 green 2 blue 7 black 2 green 2 black 1 green 3 black 1
+green 9 blue 7 black 2 green 2 black 1 green 3 black 1
+green 11 green 4 black 1 green 7
+green 10 green 2 green 11
+
+columns
+black 3 green 6
+black 7 black 3 black 2 green 1 red 1 green 4
+black 1 blue 1 black 1 black 2 black 1 red 3 green 3
+black 1 blue 1 black 1 red 2 black 2 black 1 green 2 red 1 green 3
+black 1 blue 2 black 1 black 1 red 1 black 1 black 1 green 1 red 1 green 4
+black 1 black 1 red 2 black 1 blue 1 green 1 black 1 red 1 green 3
+black 1 black 1 red 2 green 1 red 2 black 2 green 2 red 1 green 3
+black 7 red 4 black 1 green 1 red 2 green 6
+green 1 black 1 green 1 green 6
+red 2 green 5 blue 6 green 2
+red 2 red 1 green 6 blue 6 green 1
+red 2 blue 1 green 6 blue 6 green 1
+red 2 green 6 blue 3 green 1 blue 2 green 1
+red 2 red 3 green 5 blue 2 green 2 blue 2 green 1
+red 8 green 2 blue 2 green 2
+green 2 blue 2 green 2
+green 2 black 2 green 2
+green 11 green 2 black 3 green 1
+green 1 red 2 blue 7 green 1 green 6
+green 1 red 1 blue 1 blue 6 green 1 black 2 green 6
+green 1 blue 2 blue 5 green 1 blue 1 black 8 green 2
+green 1 blue 1 blue 5 green 1 blue 3 black 1 black 1 green 6
+green 1 blue 1 blue 2 green 1 red 1 blue 2 green 1 blue 1 black 2 black 1 green 6
+green 1 blue 1 blue 2 green 4 black 1 green 1 blue 2 black 1 black 1 green 6
+green 1 blue 4 green 1 red 1 green 1 red 1 blue 1 green 1 blue 1 black 8 green 2

@@ -1,0 +1,51 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Feb  3, 2011"
+description "Buckle up for safety."
+difficulty 1.75
+height 15
+id 12047
+link "https://webpbn.com/play.cgi?id=12047"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #77 - A friendly little reminder"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 9
+blue 3 blue 3
+blue 1 black 2 blue 1
+blue 2 black 4 blue 2
+blue 1 blue 2 black 4 blue 1
+blue 1 blue 2 black 2 blue 1
+blue 1 blue 2 black 4 blue 1
+blue 1 black 1 blue 2 black 2 black 1 blue 1
+blue 1 black 1 black 1 blue 2 black 1 black 1 blue 1
+blue 1 black 1 black 2 blue 2 black 1 blue 1
+blue 1 black 3 blue 2 blue 1
+blue 2 blue 9 blue 2
+blue 1 black 4 blue 1
+blue 3 blue 3
+blue 9
+
+columns
+blue 9
+blue 3 blue 3
+blue 1 blue 1
+blue 2 blue 1 blue 1 blue 2
+blue 1 blue 2 black 3 blue 1 blue 1
+blue 1 blue 2 blue 1 blue 1
+blue 1 black 2 blue 2 black 3 blue 1 black 1 blue 1
+blue 1 black 5 blue 2 black 2 blue 1 black 1 blue 1
+blue 1 black 6 blue 2 black 1 blue 1 black 1 blue 1
+blue 1 black 2 black 3 blue 3 black 1 blue 1
+blue 1 black 1 blue 2 blue 1
+blue 2 black 3 blue 1 blue 2
+blue 1 blue 1
+blue 3 blue 3
+blue 9

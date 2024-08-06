@@ -1,0 +1,74 @@
+by "b0br"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/19/07"
+height 25
+id 51871
+link "https://www.griddlers.net/nonogram/-/g/51871"
+medium_time "0:10:35"
+points 5304
+popularity 71.24
+title "Mill"
+width 25
+
+color a 00cccc
+color b 000000
+color c ffcc33
+color d 006600
+color e 663300
+color f ffffff
+color g ff9933
+
+rows
+f 9 f 3
+b 2 f 3 b 2 f 3 f 5
+f 1 b 3 b 3 f 12
+f 2 b 3 b 3 f 13
+f 2 b 6 f 11
+f 1 b 4 f 4 f 2 f 3
+b 6 f 4 f 2
+b 3 f 2 b 3 f 2
+b 3 f 3 b 4
+b 3 f 2 b 2 b 2
+b 1 f 1 b 1 f 1 b 1 g 1 c 1 g 1 c 1
+b 1 f 2 b 2 c 1 g 1
+b 1 f 3 b 1 g 6
+b 1 f 3 b 1 g 1 g 1 c 6 g 1
+b 1 f 3 b 1 g 1 c 8 g 1
+b 1 f 2 b 2 d 3 g 1 c 10
+d 2 b 1 f 2 b 2 d 5 c 10
+d 5 e 3 d 8 c 5 d 4
+d 6 e 4 d 7 c 3 d 5
+d 7 e 4 d 14
+d 7 e 6 d 12
+d 9 e 4 d 12
+d 9 e 5 d 11
+d 10 e 6 d 9
+d 11 e 6 d 8
+
+columns
+f 4 d 9
+b 2 f 2 b 2 d 9
+b 3 b 3 d 8
+f 1 b 3 b 11 d 8
+f 2 b 5 f 9 d 8
+f 2 b 3 f 3 b 1 f 6 e 1 d 7
+f 2 b 3 f 2 b 1 f 1 b 1 f 3 b 2 e 2 d 6
+f 1 b 14 e 4 d 4
+f 1 b 3 b 3 d 1 e 3 d 4
+f 1 b 3 b 3 d 1 e 5 d 2
+f 1 b 2 b 2 d 3 e 5 d 1
+f 1 f 2 d 5 e 5
+f 1 f 3 d 5 e 5
+f 2 f 3 g 1 d 7 e 3
+f 5 c 1 g 1 d 7 e 2
+f 3 g 1 c 2 d 6 e 2
+f 5 g 1 g 1 c 4 d 6 e 1
+f 5 g 1 c 6 d 6
+f 4 c 1 g 1 c 6 d 6
+f 3 g 1 c 6 d 6
+f 4 g 1 g 1 c 5 d 7
+f 4 g 1 c 4 d 8
+f 6 c 1 g 1 c 4 d 8
+f 7 g 1 c 3 d 8
+f 7 g 1 g 1 c 2 d 8

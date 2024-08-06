@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Mar 25, 2012"
+description "Top and side view."
+difficulty 1.5
+height 20
+id 18041
+link "https://webpbn.com/play.cgi?id=18041"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Footwear #1"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 1 blue 1 black 1 green 4
+green 9 black 1 blue 1 black 1 green 4
+green 11 black 1 blue 2 green 3
+green 10 black 1 blue 1 black 1 green 4
+green 9 black 1 blue 1 black 1 green 5
+green 7 black 1 blue 1 black 1 green 5
+0
+0
+0
+0
+0
+0
+black 1 blue 1 black 1
+black 1 blue 1 black 1 blue 1
+black 1 blue 1 black 1 blue 1
+green 17
+green 17
+
+columns
+0
+0
+green 3 green 2
+green 5 green 2
+green 5 green 2
+green 5 green 2
+green 5 green 2
+green 5 green 2
+green 5 green 2
+green 5 green 2
+green 4 black 1 black 1 green 2
+black 1 green 3 black 1 blue 1 black 1 blue 1 green 2
+blue 1 black 1 green 1 black 1 blue 1 black 1 black 1 blue 1 black 1 green 2
+black 1 blue 1 black 1 blue 1 black 1 green 1 blue 1 black 1 green 2
+green 1 black 1 blue 1 black 1 green 2 black 1 green 2
+green 2 blue 1 green 3 blue 2 green 2
+green 6 green 2
+green 6 green 2
+green 4 green 2
+0

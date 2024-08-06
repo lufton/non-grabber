@@ -1,0 +1,41 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Kristen Vognild"
+date "Apr  9, 2023"
+description "A stylized divorce decree"
+difficulty 1.0
+height 10
+id 36676
+link "https://webpbn.com/play.cgi?id=36676"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Finally"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 6
+black 1 black 1
+black 3 black 1
+black 1 black 4
+black 4 black 1
+black 1 black 3
+black 4 black 1
+black 1 red 1 black 2
+black 1 black 2
+black 6
+
+columns
+black 4
+black 3 black 1
+black 3 black 1 black 1
+black 3 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 2
+black 1 black 5
+black 4
+0

@@ -1,0 +1,39 @@
+by "paikea"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/16/17"
+height 9
+id 187260
+link "https://www.griddlers.net/nonogram/-/g/187260"
+medium_time "0:00:48"
+points 125
+popularity 60.8
+title "Tricycle"
+width 9
+
+color a ffffff
+color b 000000
+color c ff0000
+color f CCCCCC
+
+rows
+c 5
+c 1
+b 3 c 1
+c 1 c 1
+c 8
+f 2 f 2
+f 4 f 4
+f 4 f 4
+f 2 f 2
+
+columns
+c 1 f 2
+b 1 c 1 f 4
+b 1 c 2 f 4
+b 1 c 1 f 2
+c 1 c 1
+c 1 c 1 f 2
+c 5 f 4
+c 1 c 1 f 4
+c 1 f 2

@@ -1,0 +1,73 @@
+by "Matt (MattSpider)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Matt"
+date "Mar 15, 2011"
+description "February 31 is now the square root of -1 day."
+difficulty 2.25
+height 25
+id 12759
+link "https://webpbn.com/play.cgi?id=12759"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "New Holiday!!!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 5 red 5 red 3
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 3 red 3 red 3
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 black 1 red 1
+red 1 red 5 red 3 blue 1 green 1
+0
+red 4 red 1 green 1 green 5
+red 1 red 1 green 1 green 1
+red 1 red 1 green 1 green 1
+red 4 red 1 green 1 green 5
+red 1 red 1 green 1 green 1
+red 1 red 1 green 1 green 1 green 1
+red 4 red 1 green 1 green 5
+0
+0
+0
+blue 6 green 2 green 1 green 1 green 1
+blue 2 blue 7 green 1 green 1 green 1 green 1 green 1 green 1
+blue 3 blue 2 green 1 green 1 green 3 green 3
+blue 3 blue 2 blue 1 green 1 green 1 green 1 green 1 green 1
+blue 1 blue 1 green 2 green 1 green 1 green 1
+blue 1
+0
+
+columns
+red 7 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 blue 2
+red 1 red 1 red 1 red 1 red 1 blue 2
+red 1 red 1 red 1 red 1 blue 2
+red 1 red 2 red 2 blue 2
+blue 2
+red 7 red 7 blue 2
+red 1 red 1 red 1 blue 2
+red 1 red 1 red 1 blue 2 blue 1
+red 1 red 1 blue 2 blue 1
+red 1 red 1 green 1 green 5 blue 2
+blue 2 blue 3
+red 7 blue 2
+red 1 red 1 red 1 green 4 green 2
+red 1 red 1 red 1 green 1 green 1 green 1 green 5
+red 2 red 2 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 3
+black 1 blue 1 green 2 green 4
+red 1 green 1 green 4
+green 1 green 1
+green 4
+0
+green 3
+green 3
+green 3

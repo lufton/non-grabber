@@ -1,0 +1,35 @@
+by "kaitlyn cyr (cyrious)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by kaitlyn cyr"
+date "May 26, 2023"
+description "it looks like an alligator chomping"
+difficulty 2.0
+height 8
+id 36850
+link "https://webpbn.com/play.cgi?id=36850"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "nom"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 1
+black 1 blue 1 green 1
+black 1 blue 1 green 1
+black 1 blue 1 green 1
+black 1 blue 1
+green 1 blue 1 black 1
+green 1 blue 1 black 1 blue 1
+green 1 blue 1 black 1 blue 1 green 1
+
+columns
+green 1 black 1 green 1
+black 1 blue 1 black 1 green 1 blue 1
+green 1 blue 1 black 1 green 1 blue 1 black 1
+green 1 blue 1 black 1 blue 1 black 1 blue 1
+green 1 blue 1 black 1 blue 1 green 1

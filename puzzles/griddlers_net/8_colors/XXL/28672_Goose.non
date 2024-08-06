@@ -1,0 +1,117 @@
+by "Pellis"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/7/05"
+height 42
+id 28672
+link "https://www.griddlers.net/nonogram/-/g/28672"
+medium_time "0:33:46"
+points 34867
+popularity 73.91
+title "Goose"
+width 50
+
+color a 0066ff
+color b ffff33
+color c ff00ff
+color d cccc00
+color e cc0099
+color f ff9900
+color g 00cc00
+color h 000000
+
+rows
+c 1
+c 1 c 3
+c 2 c 4
+c 4 c 5
+c 9 e 2
+c 2 c 11 e 2
+c 3 c 12 e 3
+c 15 e 3
+b 1 b 1 c 16 e 3
+c 2 b 1 c 15 e 3
+c 3 b 3 c 16 e 2
+c 4 c 2 b 6 c 16 e 3
+c 6 c 2 b 8 c 16 e 3
+c 10 b 10 c 15 e 3
+c 10 b 12 c 15 e 4
+c 10 b 4 h 1 b 5 h 1 b 3 c 14 e 4
+c 9 b 6 f 4 b 6 c 14 e 4
+c 9 b 6 f 6 b 6 c 14 e 4
+c 8 b 6 f 9 b 5 c 13 e 4
+c 7 b 6 f 12 b 4 c 11 e 5
+c 8 b 4 f 16 b 2 c 11 e 4
+c 8 b 3 f 16 h 1 b 2 g 2 c 9 e 4
+c 8 b 3 h 1 f 13 h 2 f 1 b 2 g 2 c 7 g 3 e 1
+c 9 b 2 h 2 f 10 h 2 f 1 d 2 b 2 g 2 c 5 g 4
+c 9 d 3 h 2 f 6 h 2 f 2 d 3 b 1 g 3 c 2 g 6
+c 9 e 1 d 3 f 1 h 6 f 3 d 3 g 5 g 4
+c 8 e 4 d 3 f 7 d 4 g 5 g 4
+c 1 g 1 c 2 e 8 d 12 g 7 g 3
+g 3 e 8 d 9 g 9 g 3
+g 3 e 1 c 1 g 1 e 4 d 7 b 2 g 9 g 3
+g 6 c 2 d 5 b 3 g 9 g 2 g 3
+g 4 d 4 b 4 g 8 g 4 g 3
+g 1 g 3 g 3 d 2 b 5 g 8 g 4 g 3
+g 3 g 3 g 5 g 3 b 6 g 7 g 4 g 3
+g 3 g 2 g 4 g 5 b 7 g 5 g 4 g 4
+g 5 g 6 g 7 b 7 g 3 g 5 g 5
+g 5 g 6 g 9 b 7 g 2 g 7 g 6
+g 5 g 6 g 9 b 8 g 14
+g 11 g 12 b 8 g 15
+g 12 g 13 b 7 g 15
+g 27 b 8 g 14
+g 28 b 8 g 14
+
+columns
+c 4 g 2 g 1
+c 10 g 2 g 2
+c 12 g 5 g 3
+c 14 g 8
+c 14 g 3 g 7
+c 15 g 14
+c 16 g 14
+c 16 e 3 g 4 g 4
+c 9 b 4 c 4 e 2 c 1 g 2 g 6
+c 9 b 6 c 2 e 3 g 2 g 7
+c 8 b 7 d 1 e 5 g 1 g 7
+c 4 b 5 f 1 h 2 d 2 e 4 c 1 g 8
+c 2 b 5 f 3 h 1 d 2 e 4 c 1 g 9
+c 2 b 6 f 4 h 1 d 2 e 3 g 9
+c 2 b 6 f 5 h 1 f 1 d 1 e 2 g 4 g 2
+c 1 b 6 f 7 h 1 d 2 g 2 g 4
+b 4 h 1 b 1 f 8 h 1 f 1 d 1 g 2 g 4
+b 1 b 6 f 9 h 1 f 1 d 2 g 6
+b 7 f 9 h 1 f 1 d 3 g 7
+b 1 b 6 f 9 h 1 f 1 d 3 g 8
+b 5 f 9 h 1 f 1 d 4 g 8
+b 6 f 7 h 1 f 2 d 5 g 9
+b 3 h 1 b 2 f 6 h 1 f 2 d 6 g 9
+b 5 f 5 h 1 f 2 d 7 g 9
+b 5 f 4 h 1 f 1 d 7 b 3 g 7
+b 4 f 3 h 1 f 1 d 5 b 7 g 6
+b 4 f 2 h 1 d 5 b 9 g 4
+c 2 b 3 f 1 h 1 f 1 d 2 g 2 b 9 g 3
+c 4 b 7 g 3 b 11
+c 7 b 5 g 6 b 9
+c 8 g 9 b 8
+c 12 g 14 b 7
+c 14 g 15 b 6
+c 18 g 13 b 5
+c 21 g 12 b 4
+c 21 g 8 g 2 b 2
+c 20 g 4 g 6
+c 20 g 7
+c 21 g 9
+c 24 g 10
+c 25 g 11
+c 23 g 1 g 11
+c 2 e 1 c 17 g 3 g 3 g 6
+e 4 c 13 e 1 g 4 g 2 g 5
+e 5 c 9 e 3 g 5 g 6
+e 17 g 5 g 8
+e 14 g 18
+e 10 g 16
+e 6 g 14
+g 7

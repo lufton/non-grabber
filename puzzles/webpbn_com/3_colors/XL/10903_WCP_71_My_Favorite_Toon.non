@@ -1,0 +1,101 @@
+by "Skippy Miller (gmillvmill)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Skippy Miller"
+date "Nov  3, 2010"
+description "Snoopy!!! The best comic ever!"
+difficulty 2.75
+height 40
+id 10903
+link "https://webpbn.com/play.cgi?id=10903"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "WCP #71: My Favorite 'Toon"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 10 black 6 red 24
+red 8 black 2 black 3 red 22
+red 6 black 2 black 10 red 12
+red 5 black 1 black 3 red 9
+red 4 black 1 black 1 red 9
+red 4 black 1 black 2 black 2 black 2 red 8
+red 3 black 1 black 2 black 2 black 2 red 7
+red 3 black 1 black 3 black 1 red 7
+red 2 black 1 black 4 black 1 red 7
+red 2 black 1 black 4 black 1 red 7
+red 1 black 1 black 2 black 1 black 2 black 1 red 7
+red 1 black 1 black 3 black 2 black 1 red 7
+red 1 black 1 black 3 black 1 black 1 red 7
+red 1 black 1 black 4 black 1 black 1 red 8
+red 1 black 1 black 4 black 2 black 1 black 1 red 9
+red 1 black 1 black 4 black 2 black 1 black 4 red 10
+red 1 black 1 black 4 black 1 black 3 black 1 red 14
+red 1 black 1 black 4 black 4 black 10 red 14
+red 2 black 1 black 3 black 1 red 3 black 3 black 1 red 1 black 3 red 2 black 2 red 10
+red 3 black 1 black 1 red 7 black 1 black 1 red 1 black 2 red 2 black 1 black 4 red 7
+red 4 black 4 red 8 black 1 black 2 red 5 black 1 black 1 red 7
+red 16 black 4 black 6 black 2 red 7
+red 9 black 3 red 4 black 2 black 1 red 7
+red 7 black 2 black 6 black 1 red 8
+red 6 black 1 black 4 black 1 red 8
+red 6 black 2 black 1 black 1 red 2 black 2 red 9
+red 6 black 1 black 2 black 1 black 2 red 13
+red 6 black 3 black 5 black 2 red 12
+red 7 black 2 black 2 red 4 black 1 black 4 black 2 red 3 black 5 red 3
+red 8 black 2 red 6 black 1 black 1 black 2 black 2 red 1 black 1 black 1 black 2 red 2
+red 16 black 1 black 1 black 1 black 2 black 2 black 1 black 1 black 1 red 2
+red 16 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2
+red 16 black 1 black 1 black 1 black 1 black 4 black 1 black 1 black 1 red 2
+red 16 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2
+red 16 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2
+red 15 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2
+red 12 black 5 black 1 black 1 black 5 black 1 red 3
+red 11 black 1 black 5 black 2 black 1 red 3 black 5 red 4
+red 10 black 7 red 3 black 2 black 1 red 13
+red 21 black 5 red 14
+
+columns
+red 40
+red 10 black 8 red 22
+red 8 black 2 black 1 red 21
+red 6 black 2 black 7 black 1 red 20
+red 4 black 2 black 8 black 1 red 19
+red 3 black 1 black 8 black 1 red 19
+red 2 black 1 black 6 black 1 red 3 black 4 red 12
+red 2 black 1 black 2 black 2 black 1 red 2 black 1 black 1 black 2 red 11
+red 1 black 1 black 5 black 1 red 3 black 1 black 3 red 10
+red 1 black 1 black 5 red 3 black 1 black 1 black 1 red 10
+black 1 black 1 red 4 black 1 black 2 black 1 red 9 black 1 red 1
+black 1 black 1 red 4 black 2 black 1 red 8 black 2 red 1
+black 1 black 1 red 5 black 1 black 1 red 8 black 1 black 1 red 1
+black 1 black 2 black 1 red 4 black 1 black 1 red 8 black 1 black 1 red 1
+black 1 black 1 black 1 red 4 black 1 black 1 red 8 black 1 black 1 red 1
+black 2 black 1 black 1 red 4 black 1 black 1 red 7 black 2 black 1 red 1
+red 1 black 1 black 2 black 2 black 5 black 13 red 1
+red 1 black 1 black 2 black 1 black 2 black 1 red 2
+red 2 black 1 black 1 black 1 black 1 red 2
+red 2 black 1 black 2 black 1 black 1 black 6 red 2
+red 2 black 1 black 2 black 1 black 1 black 2 black 2 red 1
+red 2 black 1 black 5 black 1 black 2 black 2
+red 2 black 1 black 1 red 3 black 1 black 1 black 3 black 1
+red 2 black 1 black 2 black 3 red 1 black 1 black 1 black 1 black 1
+red 2 black 1 black 4 black 3 red 1 black 1 black 1 black 6 black 1
+red 2 black 1 black 4 black 3 red 2 black 1 black 1 black 2 black 1 black 1 black 1
+red 2 black 1 black 3 black 1 red 5 black 1 black 4 black 2 black 1 red 1
+red 2 black 1 black 1 red 3 black 2 black 1 red 2 black 2 black 8 red 2
+red 3 black 1 black 1 red 2 black 1 black 1 red 3 black 2 black 1 black 1 red 3
+red 3 black 1 black 1 red 2 black 2 black 2 red 3 black 2 black 1 black 1 red 3
+red 3 black 3 black 1 red 4 black 1 black 1 red 4 black 7 red 3
+red 5 black 2 black 1 red 5 black 1 black 1 black 2 red 4 black 1 black 2 red 2
+red 6 black 7 red 6 black 4 red 5 black 1 black 3 black 1 red 2
+red 28 black 4 black 1 black 1 red 2
+red 28 black 1 black 1 red 2
+red 28 black 1 black 6 black 1 red 2
+red 28 black 2 black 1 red 3
+red 29 black 7 red 4
+red 40
+red 40

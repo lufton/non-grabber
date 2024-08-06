@@ -1,0 +1,103 @@
+by "Sam Lin (sirsammy27)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Sam Lin"
+date "Apr  4, 2009"
+description "Spot the differences!"
+difficulty 2.5
+height 25
+id 5502
+link "https://webpbn.com/play.cgi?id=5502"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Double Vision"
+width 55
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 55
+black 1 black 3 black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 3 black 1 black 2 black 2 black 1 black 3 black 1 black 2 black 2
+black 1 black 2 black 1 black 3 black 2 black 1 black 2 black 1 black 3 black 2 black 1
+black 1 green 4 black 5 black 1 green 4 black 5 black 1
+black 1 green 7 red 3 black 1 green 7 blue 3 black 1
+black 1 green 4 red 1 green 4 blue 5 black 1 green 4 red 1 green 4 red 5 black 1
+black 1 green 1 red 1 green 5 red 1 green 1 black 1 red 5 black 1 green 1 red 1 green 5 red 1 green 1 black 1 blue 5 black 1
+black 1 green 3 red 1 green 5 red 4 black 1 blue 3 black 1 green 3 red 1 green 5 black 1 red 4 red 3 black 1
+black 1 green 1 red 1 green 3 red 1 green 3 red 6 black 1 black 1 black 1 green 5 red 1 green 3 black 1 red 6 black 1 black 1
+black 1 green 8 red 3 red 3 black 3 black 1 green 8 red 3 red 3 black 3 black 1
+black 1 green 1 black 1 green 2 black 1 green 1 red 10 black 1 green 1 black 1 green 2 black 1 green 1 red 10 black 1
+black 1 black 3 red 12 black 1 black 3 red 12 black 1
+black 1 black 2 black 8 black 1 black 2 black 8 black 1
+black 1 black 2 black 8 black 1 black 2 black 8 black 1
+black 1 black 2 black 3 black 3 black 1 black 2 black 3 black 3 black 1
+black 1 black 2 black 3 black 3 blue 3 black 1 black 2 black 3 black 3 black 1
+black 1 black 2 black 3 black 3 blue 1 blue 2 black 1 black 2 black 3 black 3 blue 3 black 1
+black 1 black 3 green 5 black 2 green 4 blue 5 black 1 black 3 green 5 black 2 green 4 blue 1 blue 2 black 1
+black 1 black 5 green 7 black 3 green 4 blue 2 black 2 blue 1 black 1 black 5 green 7 black 3 green 4 blue 5 black 1
+black 1 green 1 black 4 green 1 black 2 green 7 black 3 green 5 black 2 green 1 black 1 green 1 black 4 green 1 black 2 green 7 black 3 green 3 blue 2 black 2 blue 1 black 1
+black 1 green 4 black 1 green 11 black 4 green 6 black 1 green 4 black 1 green 11 black 4 green 6 black 1
+black 1 green 18 black 9 green 18 black 9
+black 1 green 26 black 1 green 26 black 1
+black 55
+
+columns
+black 25
+black 1 green 5 green 4 black 1
+black 1 green 2 red 1 green 1 red 1 green 2 black 1 green 3 black 1
+black 1 green 7 black 2 black 2 green 3 black 1
+black 1 green 4 red 1 green 3 black 9 green 3 black 1
+black 1 green 2 red 1 green 5 black 10 green 2 black 1
+black 1 green 5 red 1 green 1 black 1 black 2 green 4 black 1
+black 1 black 2 green 7 black 2 green 3 black 1
+black 2 black 1 green 2 red 1 green 3 green 1 black 1 green 3 black 1
+black 2 black 1 green 4 green 5 black 1
+black 2 black 1 red 1 green 6 black 1
+black 1 black 1 black 1 red 2 green 6 black 1
+black 1 black 1 black 1 red 3 black 5 green 6 black 1
+black 1 black 1 black 1 red 4 black 5 green 6 black 1
+black 1 black 1 red 5 black 5 green 6 black 1
+black 1 red 2 red 2 black 2 black 2 green 4 black 1
+black 1 red 2 red 2 black 2 black 3 green 3 black 1
+black 2 red 5 black 5 green 1 black 3 green 2 black 1
+black 1 black 1 red 4 black 5 green 2 black 2 green 2 black 1
+black 1 black 1 black 3 red 3 black 5 green 3 black 2 green 1 black 1
+black 1 black 1 red 2 green 3 black 2 green 1 black 1
+black 1 black 1 red 1 green 3 black 1 green 1 black 1
+black 1 black 1 blue 1 red 1 blue 2 green 2 black 1 green 1 black 1
+black 1 black 1 red 1 blue 1 red 1 blue 1 black 1 blue 3 green 2 black 1 green 1 black 1
+black 1 black 1 red 1 blue 1 red 1 blue 1 black 2 blue 1 blue 1 black 2 green 1 black 1 green 1 black 1
+black 1 black 1 red 1 blue 1 red 1 blue 1 black 1 blue 3 black 2 green 1 black 1 green 1 black 1
+black 1 black 1 blue 1 red 1 blue 4 green 2 black 1 green 1 black 1
+black 25
+black 1 green 5 green 4 black 1
+black 1 green 2 red 1 green 4 black 1 green 3 black 1
+black 1 green 7 black 2 black 2 green 3 black 1
+black 1 green 4 red 1 green 3 black 9 green 3 black 1
+black 1 green 2 red 1 green 5 black 10 green 2 black 1
+black 1 green 5 red 1 green 1 black 1 black 2 green 4 black 1
+black 1 black 2 green 7 black 2 green 3 black 1
+black 2 black 1 green 2 red 1 green 3 green 1 black 1 green 3 black 1
+black 2 black 1 green 4 green 5 black 1
+black 2 black 1 red 1 green 6 black 1
+black 1 black 1 black 1 red 2 green 6 black 1
+black 1 black 1 black 1 black 3 red 3 black 5 green 6 black 1
+black 1 black 1 black 1 red 4 black 5 green 6 black 1
+black 1 black 1 red 5 black 5 green 6 black 1
+black 1 red 2 red 2 black 2 black 2 green 4 black 1
+black 1 red 2 red 2 black 2 black 3 green 3 black 1
+black 2 red 5 black 5 green 1 black 3 green 2 black 1
+black 1 black 1 red 4 black 5 green 2 black 2 green 2 black 1
+black 1 black 1 red 3 black 5 green 3 black 2 green 1 black 1
+black 1 black 1 red 2 green 3 black 2 green 1 black 1
+black 1 black 1 red 1 green 3 black 1 green 1 black 1
+black 1 black 1 red 1 blue 1 blue 2 green 1 black 1 green 1 black 1
+black 1 black 1 blue 1 red 1 blue 1 red 1 black 1 blue 3 green 1 black 1 green 1 black 1
+black 1 black 1 blue 1 red 1 blue 1 red 1 black 2 blue 1 blue 1 black 1 green 1 black 1 green 1 black 1
+black 1 black 1 blue 1 red 1 blue 1 red 1 black 1 blue 3 black 1 green 1 black 1 green 1 black 1
+black 1 black 1 red 1 blue 1 blue 4 green 1 black 1 green 1 black 1
+black 25

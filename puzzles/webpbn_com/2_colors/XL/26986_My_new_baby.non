@@ -1,0 +1,92 @@
+by "Deb Rysavy Lien (d_lien)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Deb Rysavy Lien"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.25
+height 30
+id 26986
+link "https://webpbn.com/play.cgi?id=26986"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.5
+title "My new baby"
+width 45
+
+rows
+1,1,1,1
+2,2,3,3,3
+1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,3,3,4,3,3
+1,1
+3,3,4
+2
+2
+4
+36
+1,1
+1,1
+2,1
+1,8,3
+1,1,15,1,1,3
+1,1,3,1,4,1,3
+1,1,2,2,1,1,3
+1,1,2,8,3
+1,1,1,1,3
+1,1,2,1
+1,1,1,1,1,3,1
+1,3,1,2,2,1
+7,1,1,1,1,1
+1,1,2,2,1
+1,1,3,1
+27,1
+1,1
+1,1
+16,1
+38
+
+columns
+4
+1
+1
+1,5
+4,11,1,2
+4,1,1,2
+2,1,1,4,2
+1,1,1,1,1,1,1,1,2
+4,1,1,1,1,2
+1,7,1,2
+1,3,2,1,2
+1,1,2,1,2
+4,1,1,1,2
+1,1,1,1,1,2
+3,1,1,1,2
+1,1,1,2
+3,1,1,1,2
+1,1,1,1,1,2
+3,1,1,1,2
+1,1,1,1,1
+1,1,1,1
+4,1,1,1,1
+1,1,1,1,1,1
+3,1,1,1,1
+1,2,1,1
+2,1,1,1,1,1
+1,1,1,2,1,1
+4,1,2,1,1
+1,3,1,1
+1,7,1
+1,2,1
+5,5,1
+5,1,1,1
+1,2,1,1,1,3,1
+1,1,1,1,2,2,1
+1,1,1,1,1,1,1,1
+1,1,1,1,2,2,1
+1,1,1,3,1
+1,5,1
+1,1
+21
+6
+6
+0
+0

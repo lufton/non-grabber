@@ -1,0 +1,61 @@
+by "Cierra Driscoll (cierraincole)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Cierra Driscoll"
+date "Nov 18, 2010"
+description "Three Hearts"
+difficulty 2.5
+height 20
+id 11073
+link "https://webpbn.com/play.cgi?id=11073"
+note "published,definitely non-unique,may require much guessing"
+quality 2.0
+title "Red Red"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 2 black 2
+black 1 red 2 black 2 red 2 black 1
+black 1 red 6 black 1
+black 1 red 4 black 1
+black 1 red 2 black 1
+black 2
+black 2 black 2
+black 1 red 2 black 2 red 2 black 1
+black 1 red 6 black 1
+black 1 red 4 black 1
+black 2 black 2 black 1 red 2 black 1
+black 1 red 2 black 2 red 2 black 1 black 2
+black 1 red 6 black 1
+black 1 red 4 black 1
+black 1 red 2 black 1
+black 2
+0
+0
+
+columns
+0
+0
+black 2
+black 2 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 2
+black 2 black 2
+black 1 red 2 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 2 black 1
+black 2
+0
+0

@@ -1,0 +1,102 @@
+by "Christian Heckmann Engelbrecht (CEngelbrecht)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Christian Heckmann Engelbrecht"
+date "Oct 16, 2012"
+description "The flag of Wales. Its name means "The Red Dragon", the red dragon of Cadwaladr, King of Gwynedd. My personal unbiased favorite among the flags of the world (no, I'm not Welsh)."
+difficulty 2.0
+height 30
+id 20090
+link "https://webpbn.com/play.cgi?id=20090"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Y Ddraig Goch"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+red 1
+red 3 red 1 red 1
+red 8 red 2 red 2
+red 5 black 1 red 4 red 5 red 3
+red 1 red 9 red 12 red 1
+red 2 red 8 red 12 red 2
+red 11 red 1 red 12 red 4
+red 2 red 5 red 13 red 5
+red 1 red 1 red 4 red 1 red 12 red 1 red 1
+red 1 red 2 red 6 red 12 red 6
+red 4 red 5 red 1 red 12 red 1 red 2
+red 2 red 6 red 12 red 6
+red 2 red 19 red 2
+red 2 red 29
+green 6 red 1 green 1 red 2 green 3 red 28 green 9
+green 6 red 1 green 1 red 3 green 2 red 26 green 11
+green 9 red 28 green 13
+green 10 red 20 green 1 red 8 green 11
+green 11 red 18 green 4 red 8 green 9
+green 11 red 2 green 2 red 7 green 1 red 6 green 8 red 3 green 1 red 1 green 8
+green 15 red 5 green 4 red 7 green 7 red 2 green 10
+green 14 red 3 green 1 red 1 green 6 red 7 green 6 red 2 green 10
+green 9 red 1 green 4 red 2 green 5 red 1 green 5 red 3 green 2 red 1 green 4 red 2 green 11
+green 10 red 5 green 7 red 7 green 4 red 6 green 11
+green 9 red 6 green 6 red 6 green 5 red 7 green 11
+green 10 red 1 green 4 red 2 green 5 red 1 green 4 red 2 green 4 red 2 green 4 red 2 green 9
+green 9 red 1 green 11 red 1 green 10 red 1 green 17
+green 50
+green 50
+
+columns
+green 15
+green 15
+green 15
+green 15
+green 15
+green 15
+red 1 red 2 red 2 green 13
+red 1 red 4 green 15
+red 2 red 8 green 13
+red 1 red 1 red 2 red 3 green 5 red 1 green 1 red 1 green 1 red 1 green 2
+red 1 red 1 green 1 red 3 green 5 red 3 green 3
+red 2 red 1 green 2 red 4 green 3 red 2 green 4
+red 6 green 2 red 4 green 3 red 2 green 4
+red 6 red 8 green 4 red 2 green 4
+red 1 black 1 red 3 red 10 green 2 red 4 green 4
+red 21 green 2 red 1 green 3
+red 20 green 3 red 1 green 3
+red 19 green 8
+red 21 green 7
+red 2 red 2 red 1 red 1 red 9 green 8
+red 3 red 1 red 1 red 1 red 8 green 9
+red 8 green 2 red 1 green 1 red 1 green 1 red 1 green 2
+red 8 green 4 red 3 green 3
+red 13 green 3 red 2 green 4
+red 15 green 2 red 2 green 4
+red 17 green 1 red 2 green 4
+red 18 green 1 red 2 green 4
+red 20 green 1 red 1 green 3
+red 21 green 1 red 1 green 3
+red 15 green 2 red 3 green 6
+red 15 green 3 red 2 green 7
+red 17 green 3 red 1 green 7
+red 9 red 5 green 4 red 1 green 1 red 1 green 1 red 1 green 2
+red 8 red 6 green 4 red 3 green 3
+red 7 red 6 green 4 red 3 green 3
+red 5 red 6 green 4 red 2 green 4
+red 3 red 6 green 4 red 2 green 4
+red 3 red 3 red 3 green 1 red 3 green 2 red 3 green 4
+red 2 red 1 red 1 red 3 green 1 red 8 green 4
+red 1 red 1 red 2 green 3 red 4 green 3 red 1 green 3
+red 1 red 1 red 1 red 2 green 3 red 1 green 6 red 1 green 3
+red 2 red 5 green 5 red 1 green 9
+red 8 green 15
+red 4 green 15
+red 3 green 15
+green 15
+green 15
+green 15
+green 15
+green 15

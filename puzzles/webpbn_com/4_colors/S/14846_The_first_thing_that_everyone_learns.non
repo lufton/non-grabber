@@ -1,0 +1,48 @@
+by "Maggie Johns (Magginni)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Maggie Johns"
+date "Jun 22, 2011"
+description "ABC and 123. Have lots of people done this?"
+difficulty 1.5
+height 11
+id 14846
+link "https://webpbn.com/play.cgi?id=14846"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "The first thing that everyone learns"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 2 black 3 black 3 blue 1
+blue 1 black 1 red 2 black 1 black 1 red 1 black 1 black 1 blue 1
+blue 1 black 4 black 4 black 1 blue 1
+blue 1 black 1 black 1 black 1 red 2 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 4 black 3 blue 1
+blue 15
+blue 1 black 2 black 3 black 3 blue 1
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 4 black 3 blue 1
+blue 1 black 1 black 1 red 1 black 1 black 1 black 1 blue 1
+blue 1 black 3 black 3 black 3 blue 1
+
+columns
+blue 11
+black 4 blue 1 black 1 black 1
+black 1 red 1 black 1 blue 1 black 5
+black 1 red 1 black 1 blue 1 black 1
+black 4 blue 1
+blue 1 black 1 black 3
+black 5 blue 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 red 1 black 1 blue 1 black 5
+black 3 red 1 black 1 blue 1 black 1
+black 3 blue 1 black 1
+blue 1
+black 5 blue 1 black 1 black 1 black 1
+black 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 blue 1 black 5
+blue 11

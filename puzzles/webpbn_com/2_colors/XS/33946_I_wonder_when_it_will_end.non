@@ -1,0 +1,42 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Apr 22, 2020"
+description "The Stay at Home order"
+difficulty 1.25
+height 5
+id 33946
+link "https://webpbn.com/play.cgi?id=33946"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "I wonder when it will end?"
+width 20
+
+rows
+12,3
+1,1,1,1,2,5
+4,1,3,8
+1,1,1,1,1,4
+4,1,1,1,1,4
+
+columns
+3,1
+1,1,1
+1,1,1
+1,3
+1
+5
+1
+5
+1,1
+5
+1
+2
+2
+3
+2
+5
+5
+5
+4
+1

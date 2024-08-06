@@ -1,0 +1,117 @@
+by "Loz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/9/08"
+height 43
+id 71662
+link "https://www.griddlers.net/nonogram/-/g/71662"
+medium_time "0:39:33"
+points 38920
+popularity 65.28
+title "Spoonbill"
+width 50
+
+color a ccccff
+color b 000000
+color c ffff00
+color d ffccff
+color e ffffff
+color f 0000ff
+color h ff00ff
+
+rows
+b 4
+c 4 b 2
+c 6 b 1
+b 1 c 2 b 1 c 2 b 1
+c 3 b 1 c 3 b 2
+b 1 c 3 b 1 c 3 b 2
+c 2 b 1 c 1 b 1 c 1 b 4 e 1
+b 1 c 3 b 1 c 2 e 5
+c 2 b 1 c 1 b 1 c 3 e 4
+b 1 c 3 b 1 c 3 e 5
+c 2 b 1 c 1 b 1 c 3 e 6 e 10
+c 3 b 1 c 3 e 6 e 13
+c 3 b 1 c 3 e 6 e 16
+b 3 c 3 e 6 e 7 h 2 d 8
+c 1 b 1 c 3 e 5 e 6 h 4 d 9
+c 2 b 1 c 1 e 5 e 6 h 5 d 2 h 1 d 2 h 1 d 4
+e 5 e 5 h 7 d 1 h 6 d 3
+e 10 h 4 d 1 h 8 d 1 h 2 d 3
+e 10 h 4 d 3 h 3 d 2 h 1 d 1 h 2 d 4
+e 5 d 5 h 4 d 5 h 1 d 9 h 1 d 1
+e 1 h 4 d 5 h 5 d 12 h 1 d 2 h 1 d 1
+h 5 d 5 h 5 d 7 h 1 d 3 h 2 d 1 h 2
+h 4 d 6 h 5 d 2 h 2 d 3 h 1 d 3 h 1 d 2 h 1 d 1
+h 4 d 7 h 3 d 3 h 1 d 3 h 2 d 2 h 5 b 1
+h 6 d 6 h 3 d 3 h 1 d 3 h 2 d 2 h 5 b 1
+h 6 d 6 h 3 d 1 h 3 d 1 h 3 d 1 h 3 b 1 h 2 b 1
+h 5 d 6 h 11 b 1 h 2 b 2 h 1 b 1
+h 4 d 11 b 3 h 1 b 1 h 2 b 1
+d 9 b 2 h 1 b 1 h 1 b 2
+d 3 d 3 b 5
+f 10 d 2 f 3 d 2 f 7 b 4
+f 14 d 2 f 3 d 2 f 9 b 2
+f 19 c 1 d 1 f 3 c 1 d 1 f 11
+f 22 c 2 f 3 c 2 f 13
+f 17 c 2 c 2 f 12
+f 14 c 2 c 2 f 7
+f 12 c 2 c 2 f 6
+f 11 f 6 c 2 f 3 c 2 f 5 f 4
+f 9 f 9 c 2 f 3 c 2 f 8 f 3
+f 6 f 13 c 2 f 3 c 2 f 10 f 1
+f 5 f 15 c 2 f 3 c 2 f 11
+f 3 f 14 c 2 c 2 f 10
+f 1 f 14 c 2 c 2 f 9
+
+columns
+f 6
+f 6
+c 1 b 1 c 2 f 7
+c 3 b 2 c 1 f 6
+b 1 c 3 b 1 c 1 b 1 f 7
+c 2 b 1 c 1 b 1 c 3 f 6
+b 1 c 3 b 1 c 3 f 6
+c 2 b 1 c 1 b 1 c 3 f 6
+b 1 c 3 b 1 c 3 f 6
+c 2 b 1 c 1 b 1 c 3 f 6
+c 3 b 1 c 3 e 10 f 6
+c 1 b 1 c 2 b 1 c 3 e 10 h 2 f 5 f 1
+c 3 b 2 c 3 e 11 h 3 f 5 f 2
+b 1 c 5 b 1 e 13 h 5 f 4 f 3
+b 1 c 2 b 1 c 2 b 1 e 13 h 6 f 5 f 3
+b 1 c 5 b 1 e 7 e 2 d 2 h 5 f 5 f 4
+b 2 c 2 b 3 e 4 e 4 d 4 h 4 f 4 f 4
+b 5 e 2 e 5 d 5 h 3 f 4 f 4
+e 7 d 5 h 3 f 5 f 4
+e 7 d 6 h 2 f 5 f 5
+e 6 h 4 d 5 h 2 f 5 f 5
+e 5 h 6 d 5 h 1 f 4 f 5
+e 5 h 8 d 4 h 1 f 4 f 6
+e 4 h 9 d 4 h 1 f 4 f 6
+e 4 h 3 d 3 h 4 d 4 f 4 f 6
+e 3 h 5 d 3 h 4 d 3 f 4 f 5
+e 3 h 5 d 4 h 4 d 3 f 4 f 4
+e 3 d 3 h 3 d 5 h 3 d 3 f 4 f 4
+e 3 d 4 h 2 d 6 h 2 d 5 c 11
+e 3 d 2 h 5 d 2 h 1 d 3 h 1 d 6 c 10
+e 3 d 3 h 2 d 4 h 2 d 1 h 2 d 2 f 4 f 4
+e 3 d 3 h 2 d 6 h 3 d 2 f 4 f 4
+e 2 d 2 h 4 d 6 h 2 d 3 f 4 f 4
+e 1 d 3 h 1 d 4 h 1 d 4 h 1 d 5 c 11
+d 3 h 3 d 3 h 2 d 1 h 2 d 6 c 10
+d 3 h 2 d 4 h 4 f 4 f 4
+d 9 h 3 f 4 f 4
+d 4 h 2 d 4 h 1 f 4 f 4
+d 4 h 3 d 1 h 1 b 2 f 5 f 4
+d 1 h 1 d 3 h 4 b 1 f 5 f 5
+d 1 h 2 d 1 h 4 b 2 f 5 f 4
+d 1 h 4 b 2 h 1 b 1 f 5 f 5
+d 1 h 3 b 2 h 1 b 1 f 4 f 5
+b 1 h 4 b 2 f 5 f 4
+b 3 h 2 b 2 f 5 f 4
+b 4 f 5 f 3
+b 4 f 5 f 2
+b 2 f 6 f 2
+f 5 f 2
+f 6 f 1

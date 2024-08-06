@@ -1,0 +1,61 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kai-Uwe Zickerick"
+date "Oct 14, 2011"
+description ""
+difficulty 1.25
+height 20
+id 16053
+link "https://webpbn.com/play.cgi?id=16053"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Like it"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 blue 6
+black 1 blue 7
+black 2 black 1 blue 4 black 2 blue 2
+black 2 black 1 blue 5 black 2 blue 2
+black 1 blue 10
+black 1 blue 10
+black 1 blue 11
+black 1 blue 11
+black 1 blue 12
+black 6 blue 7
+black 1 blue 7
+black 1 blue 8
+black 2 black 1 blue 4 black 2 blue 2
+black 3 black 1 blue 2 black 3 blue 3
+black 3 black 1 blue 1 black 3 blue 5
+black 5 blue 7
+black 1 blue 9
+black 1 blue 8
+black 1 blue 8
+black 1 blue 8
+
+columns
+0
+0
+0
+black 2 black 1
+black 2 black 2
+black 1
+black 2
+black 2 black 1
+black 2 blue 1 black 1 black 2
+black 2 blue 3 black 1 black 1
+black 1 blue 5 black 1 black 3
+black 1 blue 6 black 1 black 3 blue 1 black 1 blue 1 black 3
+black 1 blue 7 black 2 blue 3 black 2 blue 4
+black 1 blue 13 black 1 blue 5
+blue 13 black 2 blue 5
+blue 13 black 1 blue 6
+blue 2 black 2 blue 8 black 2 blue 6
+blue 2 black 2 blue 8 black 1 blue 7
+blue 20
+blue 20

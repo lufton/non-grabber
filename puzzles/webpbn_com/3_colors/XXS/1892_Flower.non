@@ -1,0 +1,31 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.0
+height 5
+id 1892
+link "https://webpbn.com/play.cgi?id=1892"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Flower"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 1
+black 1
+green 1 green 1 green 1
+green 3
+green 1
+
+columns
+green 1
+black 1 green 1
+black 1 green 3
+black 1 green 1
+green 1

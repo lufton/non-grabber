@@ -1,0 +1,49 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Sep  3, 2010"
+description ""
+difficulty 2.0
+height 13
+id 10190
+link "https://webpbn.com/play.cgi?id=10190"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Bottom or front, inside or out?"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 9 red 1
+black 2 red 1 black 2 red 1
+black 1 black 1 red 1 blue 2 black 1 black 1 red 1
+black 1 black 1 red 1 blue 2 black 1 black 1 red 1
+black 1 black 9
+black 1 green 2 black 1 black 1 black 1
+black 1 green 2 black 1 black 1 green 2 black 1
+black 1 black 1 black 1 green 2 black 1
+black 9 blue 1 black 1
+blue 1 black 1 black 1 red 2 black 1 blue 1 black 1
+blue 1 black 1 black 1 red 2 black 1 blue 1 black 1
+blue 1 black 2 black 2
+blue 1 black 9
+
+columns
+black 9 blue 1
+black 2 black 2 blue 1
+black 1 red 1 black 1 green 2 black 1 black 1 blue 1
+black 1 red 1 black 1 green 2 black 1 black 1 blue 1
+black 1 red 1 black 9
+black 1 blue 2 black 1 black 1 black 1
+black 1 blue 2 black 1 black 1 red 2 black 1
+black 1 black 1 black 1 red 2 black 1
+black 9 black 1
+red 1 black 1 black 1 green 2 blue 1 black 1 black 1
+red 1 black 1 black 1 green 2 blue 1 black 1 black 1
+red 1 black 2 blue 1 black 2
+red 1 black 9

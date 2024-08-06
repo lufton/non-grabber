@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Jul  7, 2014"
+description "Plummer with "whale tail" underwear"
+difficulty 1.25
+height 20
+id 25042
+link "https://webpbn.com/play.cgi?id=25042"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Inappropriate Attire #24"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 19
+black 1 green 19
+black 1 green 18 black 1
+black 2 green 17 black 1
+black 2 green 17 black 1
+black 2 green 17 black 1
+black 2 green 17 black 1
+black 2 green 17 black 1
+black 2 green 17 black 1
+black 2 black 1
+black 2 red 17 black 1
+black 2 red 3 black 1
+black 3 blue 15 black 2
+black 3 blue 15 black 2
+black 3 blue 15 black 2
+black 3 blue 1 blue 3 blue 3 blue 3 blue 1 black 2
+black 3 blue 1 blue 3 blue 3 blue 3 blue 1 black 2
+black 3 blue 1 blue 3 blue 3 blue 3 blue 2 black 1
+black 2 blue 2 blue 3 blue 3 blue 3 blue 2 black 1
+black 2 blue 2 blue 3 blue 2 black 1
+
+columns
+black 20
+green 3 black 17
+green 9 red 1 black 6 blue 2
+green 9 red 1 blue 8
+green 9 red 1 blue 3
+green 9 red 1 blue 7
+green 9 red 1 blue 7
+green 9 red 1 blue 7
+green 9 red 1 blue 3
+green 9 red 2 blue 8
+green 9 red 2 blue 8
+green 9 red 2 blue 8
+green 9 red 1 blue 3
+green 9 red 1 blue 7
+green 9 red 1 blue 7
+green 9 red 1 blue 7
+green 9 red 1 blue 3
+green 9 red 1 blue 8
+green 9 red 1 black 5 blue 3
+green 2 black 18

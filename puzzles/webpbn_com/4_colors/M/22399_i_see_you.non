@@ -1,0 +1,62 @@
+by "Jay Bee (jaybee)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jay Bee"
+date "Jul 19, 2013"
+description "smile face"
+difficulty 1.75
+height 20
+id 22399
+link "https://webpbn.com/play.cgi?id=22399"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.25
+title "i see you"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+black 7 black 7
+black 1 blue 4 black 6 blue 4 black 1
+black 1 blue 4 black 2 black 2 blue 4 black 1
+black 1 blue 4 black 1 black 1 blue 4 black 1
+black 1 blue 4 black 1 black 1 blue 4 black 1
+black 6 black 6
+black 1
+black 1
+black 2 black 1 black 2
+black 2 black 3 black 2
+black 2 black 2
+black 2 black 2 red 1
+black 10 red 3
+red 4
+red 3
+0
+
+columns
+0
+black 1
+black 6 black 2
+black 1 blue 4 black 1 black 2
+black 1 blue 4 black 1 black 2
+black 1 blue 4 black 1 black 2
+black 1 blue 4 black 1 black 1
+black 6 black 2 black 1
+black 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 3 black 1
+black 6 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 4 black 1 black 2 red 1
+black 1 blue 4 black 1 black 2 red 3
+black 1 blue 4 black 1 black 2 red 4
+black 6 black 2 red 3
+black 1
+0

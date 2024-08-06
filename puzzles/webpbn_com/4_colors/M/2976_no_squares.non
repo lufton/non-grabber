@@ -1,0 +1,62 @@
+by "joelle young (Lanniobananio)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by joelle young"
+date "Jun 21, 2008"
+description "squares galore"
+difficulty 2.0
+height 20
+id 2976
+link "https://webpbn.com/play.cgi?id=2976"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.5
+title "no squares"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 blue 18 black 1
+black 1 green 1 blue 16 green 1 black 1
+black 1 green 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 blue 12 blue 1 green 1 black 1
+black 1 green 1 blue 1 green 12 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 green 1 black 10 green 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 green 1 black 1 blue 1 blue 1 black 2 green 1 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 green 1 black 1 blue 1 black 1 blue 1 black 1 green 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 green 1 black 1 blue 1 green 3 black 1 black 1 green 1 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 green 1 black 1 green 2 black 1 green 1 blue 1 black 1 green 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 green 1 black 1 blue 1 green 1 black 1 green 2 black 1 green 1 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 green 1 black 1 black 1 green 3 blue 1 black 1 green 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 green 1 black 1 black 1 green 4 black 1 green 1 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 green 1 black 2 blue 1 blue 1 blue 1 black 1 green 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 green 1 black 10 green 1 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 green 12 blue 1 green 1 black 1
+black 1 green 1 blue 1 blue 12 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 green 1 black 1
+black 1 green 1 blue 16 green 1 black 1
+black 1 blue 18 black 1
+
+columns
+black 20
+blue 1 green 18 blue 1
+blue 20
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 2
+blue 2 black 1 blue 1 green 12 blue 1 blue 2
+blue 2 blue 1 green 1 black 10 green 1 blue 1 black 1 blue 2
+blue 2 black 1 blue 1 green 1 black 1 black 2 green 1 blue 1 blue 2
+blue 2 blue 1 green 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 black 1 green 1 blue 1 black 1 blue 2
+blue 2 black 1 blue 1 green 1 black 1 green 3 black 1 green 1 black 1 green 1 blue 1 blue 2
+blue 2 blue 1 green 1 black 1 blue 1 green 2 black 1 green 2 black 1 green 1 blue 1 black 1 blue 2
+blue 2 black 1 blue 1 green 1 black 1 green 1 black 1 green 3 black 1 green 1 blue 1 blue 2
+blue 2 blue 1 green 1 black 1 blue 1 black 1 green 4 blue 1 black 1 green 1 blue 1 black 1 blue 2
+blue 2 black 1 blue 1 green 1 black 1 black 1 black 1 green 1 blue 1 blue 2
+blue 2 blue 1 green 1 black 2 blue 1 blue 1 blue 1 blue 1 black 1 green 1 blue 1 black 1 blue 2
+blue 2 black 1 blue 1 green 1 black 10 green 1 blue 1 blue 2
+blue 2 blue 1 green 12 blue 1 black 1 blue 2
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 2
+blue 20
+blue 1 green 18 blue 1
+black 20

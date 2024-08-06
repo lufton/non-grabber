@@ -1,0 +1,96 @@
+by "vaoakh"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/1/09"
+height 21
+id 75474
+link "https://www.griddlers.net/nonogram/-/g/75474"
+medium_time "0:11:40"
+points 6827
+popularity 75.92
+title "PacMan"
+width 50
+
+color a 006600
+color b 000000
+color c ffff00
+color d ffcc00
+color e 00ff00
+color f 0000cc
+color g 000099
+color h ffffff
+
+rows
+e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1
+e 50
+0
+d 3 c 2
+d 4 c 5 g 2 f 3
+d 3 b 2 c 6 g 4 f 5
+d 4 b 2 c 7 d 1 c 1 g 5 f 6
+d 3 c 10 d 2 c 4 g 2 h 2 f 3 h 2 f 2
+d 4 c 7 d 2 c 6 g 2 b 1 h 1 f 3 b 1 h 1 f 2
+d 3 c 6 d 1 c 7 g 3 f 8
+d 2 c 5 d 1 c 9 g 3 f 8
+d 3 c 6 d 1 c 7 g 3 f 8
+d 4 c 7 d 1 c 7 g 3 f 8
+d 3 c 10 d 2 c 4 g 3 f 8
+d 4 c 9 d 1 c 1 g 3 f 8
+d 4 c 7 g 5 f 6
+d 4 c 5 g 7 f 1 g 2 f 3
+d 3 c 2 g 3 f 1 g 2 f 1 g 2 f 2
+0
+e 50
+e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1 e 1
+
+columns
+e 2 d 5 e 1
+e 1 d 9 e 2
+e 1 d 5 c 1 d 5 e 1
+e 2 d 5 c 3 d 5 e 1
+e 1 d 3 c 7 d 3 e 2
+e 1 d 2 b 2 c 8 d 3 e 1
+e 2 d 2 b 2 c 9 d 2 e 1
+e 1 d 1 c 6 c 6 d 1 e 2
+e 1 c 7 c 7 e 1
+e 2 c 6 c 6 e 1
+e 1 c 5 c 5 e 2
+e 1 c 4 c 4 e 1
+e 2 c 3 c 3 e 1
+e 1 c 2 c 2 e 2
+e 1 e 1
+e 2 e 1
+e 1 e 2
+e 1 e 1
+e 2 e 1
+e 1 e 2
+e 1 d 1 e 1
+e 2 d 2 c 1 d 2 e 1
+e 1 d 2 c 4 d 1 e 2
+e 1 d 1 c 5 d 1 e 1
+e 2 d 1 c 7 d 1 e 1
+e 1 c 9 e 2
+e 1 c 7 e 1
+e 2 c 7 e 1
+e 1 c 5 e 2
+e 1 c 1 e 1
+e 2 e 1
+e 1 e 2
+e 1 e 1
+e 2 e 1
+e 1 e 2
+e 1 e 1
+e 2 g 2 e 1
+e 1 g 12 e 2
+e 1 g 13 e 1
+e 2 g 2 h 1 b 1 g 8 f 1 e 1
+e 1 g 3 h 2 f 6 g 2 e 2
+e 1 g 3 f 8 g 3 e 1
+e 2 f 12 g 2 e 1
+e 1 f 14 e 2
+e 1 f 3 h 1 b 1 f 7 g 1 e 1
+e 2 f 2 h 2 f 7 g 2 e 1
+e 1 f 12 g 1 e 2
+e 1 f 12 e 1
+e 2 f 2 e 1
+e 1 e 2

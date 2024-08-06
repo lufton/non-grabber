@@ -1,0 +1,51 @@
+by "FireJem"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/27/09"
+height 15
+id 83413
+link "https://www.griddlers.net/nonogram/-/g/83413"
+medium_time "0:04:56"
+points 528
+popularity 61.8
+title "Pacifier"
+width 14
+
+color a ffffff
+color c ffff00
+color d 000099
+color e 000033
+color f ffffcd
+
+rows
+c 3
+c 5
+c 5
+c 6 d 3
+c 7 d 6
+c 4 f 1 d 6
+c 2 f 1 d 6
+c 1 f 1 d 6
+d 7 e 1
+d 6 e 2
+d 6 e 2
+d 5 e 1
+d 4 e 2 e 1
+d 2 e 2 e 2
+e 4
+
+columns
+c 3
+c 5
+c 5
+c 6 d 3
+c 7 d 6
+c 4 f 1 d 6
+c 2 f 1 d 6
+c 1 f 1 d 6 e 1
+d 7 e 2
+d 6 e 2
+d 6 e 1
+d 5 e 2 e 1
+d 4 e 2 e 2
+d 2 e 4

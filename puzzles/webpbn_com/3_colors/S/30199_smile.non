@@ -1,0 +1,45 @@
+by "Theodore Black (TheodoreB13)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Theodore Black"
+date "Sep 18, 2017"
+description ""
+difficulty 1.25
+height 12
+id 30199
+link "https://webpbn.com/play.cgi?id=30199"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "smile"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 black 6 red 3
+red 2 black 1 black 1 red 2
+red 1 black 1 black 1 red 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 6 black 1
+red 1 black 1 black 1 red 1
+red 2 black 1 black 1 red 2
+red 3 black 6 red 3
+
+columns
+red 3 black 6 red 3
+red 2 black 1 black 1 red 2
+red 1 black 1 black 1 red 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 2 black 2 black 1
+red 1 black 1 black 1 red 1
+red 2 black 1 black 1 red 2
+red 3 black 6 red 3

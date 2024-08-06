@@ -1,0 +1,62 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jun 30, 2014"
+description ""
+difficulty 2.25
+height 20
+id 24977
+link "https://webpbn.com/play.cgi?id=24977"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Band Name of a popular 1972 song"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 1 green 3 black 1
+black 1 green 4 black 1
+black 1 green 5 black 1
+black 1 green 2 black 4
+black 1 green 1 black 1 green 3 black 1
+black 2 green 4 black 2
+black 1 green 2 black 3 green 1 black 1
+black 1 green 1 black 1 green 4 black 1
+black 2 green 5 black 1
+black 2 green 2 black 6
+black 1 green 2 black 1 green 5 black 1
+black 1 green 1 black 1 green 6 black 1
+black 2 green 7 black 1
+black 1 green 4 black 4
+black 1 green 3 black 1 blue 4 black 1
+black 1 green 2 black 1 blue 4 black 1
+black 1 green 1 black 1 blue 4 black 1
+black 2 blue 4 black 1
+black 4
+
+columns
+black 4
+black 1 green 3 black 1
+black 1 green 4 black 1
+black 1 green 5 black 1
+black 1 green 2 black 4
+black 1 green 1 black 1 green 3 black 1
+black 2 green 4 black 2
+black 1 green 2 black 5
+black 1 green 1 black 1 green 4 black 1
+black 2 green 5 black 1
+black 1 green 3 black 6
+black 1 green 2 black 1 green 5 black 1
+black 1 green 1 black 1 green 6 black 1
+black 2 green 7 black 1
+black 1 green 4 black 4
+black 1 green 3 black 1 blue 4 black 1
+black 1 green 2 black 1 blue 4 black 1
+black 1 green 1 black 1 blue 4 black 1
+black 2 blue 4 black 1
+black 4

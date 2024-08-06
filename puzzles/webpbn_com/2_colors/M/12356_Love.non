@@ -1,0 +1,57 @@
+by "M Warden (malindor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by M Warden"
+date "Feb 21, 2011"
+description "Building my first puzzle with my daughter in my arms. Seemed right at the time"
+difficulty 2.0
+height 20
+id 12356
+link "https://webpbn.com/play.cgi?id=12356"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Love"
+width 20
+
+rows
+0
+6,6
+2,1,1,2
+2,3,2,3,2
+1,5,5,1
+1,14,1
+1,14,1
+1,14,1
+2,12,2
+2,10,2
+2,8,2
+2,6,2
+2,4,2
+2,2,2
+4,2,2,4
+2,1,2,1,2
+1,2,6,2,1
+1,2,2,2,2,1
+2,2,2,2
+4,4
+
+columns
+4
+6,2,2
+2,2,1,2,1
+2,3,2,1,2,1
+1,5,2,2,1
+1,7,2,1
+1,8,2,2
+1,9,2,2
+2,9,1,1
+1,9,2
+1,9,2
+2,9,1,1
+1,9,2,2
+1,8,2,2
+1,7,2,1
+1,5,2,2,1
+2,3,2,1,2,1
+2,2,1,2,1
+6,2,2
+4

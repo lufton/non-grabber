@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Apr 10, 2021"
+description "From left to right...chamfer, fillet, counterbore, countersink, round"
+difficulty 1.25
+height 15
+id 35035
+link "https://webpbn.com/play.cgi?id=35035"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Drafting Terminology"
+width 40
+
+rows
+6,4,4
+1,1,1,2,2,3
+1,1,1,2,2,3
+1,1,1,2,2,1
+1,3,3,1,1,2
+1,1,1,1,1,1
+2,1,1,1,1,2
+1,1,1,1,1,1
+3,1,1,1,1,1
+4,1,1,1,1,1
+2,1,1,1,1,1
+2,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+16,9,13
+
+columns
+4
+2,1
+2,1
+1,1
+1,1
+2,1
+1,1
+3,1
+7,1
+1,1
+1,1
+1,1
+1,1
+5,1
+1,1
+11
+0
+11
+1,1
+5,1
+1,1
+1,1
+2,1
+2,1
+2,1
+12
+0
+12
+2,1
+2,1
+2,1
+1,1
+1,1
+2,1
+1,1
+2,1
+1,1
+3,1
+3,1
+9

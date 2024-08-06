@@ -1,0 +1,32 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jun  8, 2011"
+description "I'm sure what Lilly meant was..."
+difficulty 1.25
+height 5
+id 14427
+link "https://webpbn.com/play.cgi?id=14427"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Mini disaster"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+red 1 black 3
+black 2
+red 1 black 3
+blue 5
+
+columns
+red 1 red 1 blue 1
+black 1 black 1 blue 1
+black 4 blue 1
+black 4 blue 1
+blue 1

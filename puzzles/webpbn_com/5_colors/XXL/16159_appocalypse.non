@@ -1,0 +1,113 @@
+by "arlo the epic (me.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by arlo the epic"
+date "Oct 23, 2011"
+description "guy being chased by a meteor"
+difficulty 2.0
+height 45
+id 16159
+link "https://webpbn.com/play.cgi?id=16159"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "appocalypse"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 black 2 red 13
+red 3 black 3 red 14
+red 3 black 3 red 16
+red 3 black 4 red 18
+red 3 black 2 red 21
+red 3 black 2 red 22
+red 3 black 3 red 23
+red 2 black 9 red 18
+red 2 black 9 red 18
+red 2 black 13 red 16
+red 2 black 13 red 16
+red 1 black 17 red 14
+black 17 red 14
+black 17 red 14
+black 17 red 14
+black 17 red 14
+black 17 red 13 black 1
+black 17 red 11 black 2
+black 17 red 8 black 3
+black 17 red 5 black 3
+black 13 red 3 black 4
+blue 1 blue 1 blue 1 black 13 red 1 black 3 red 1
+blue 1 blue 1 blue 1 black 13 red 5
+black 7 blue 2 black 9 red 5
+black 7 red 7
+black 2 black 2
+black 2 black 1 black 1 black 2
+black 2 black 2
+black 2 black 3 black 2
+black 2 black 1 black 1 black 2 black 8
+black 2 black 3 black 2
+black 2 black 2
+black 7 black 8
+black 7
+black 1
+black 9 black 8
+black 1
+black 1
+black 1
+black 5 green 3
+black 1 black 1 green 5
+black 1 green 7
+black 1 green 10 green 3 green 11 green 3
+green 45
+black 30 green 4 black 11
+
+columns
+black 7 green 1 black 1
+black 7 black 1 green 1 black 1
+blue 2 black 2 black 2 black 1 green 1 black 1
+black 2 black 1 black 2 black 1 black 4 green 1 black 1
+black 2 black 3 black 2 black 1 black 1 green 1 black 1
+blue 2 black 2 black 1 black 1 black 8 green 1 black 1
+black 2 black 1 black 3 black 2 black 1 black 1 green 2 black 1
+black 2 black 2 black 1 black 2 green 3 black 1
+blue 2 black 2 black 2 black 1 green 4 black 1
+black 7 black 1 green 5 black 1
+black 7 green 5 black 1
+red 2 blue 1 green 5 black 1
+red 2 blue 1 green 4 black 1
+red 2 black 1 black 1 black 1 green 3 black 1
+red 3 black 9 black 1 black 1 black 1 green 2 black 1
+red 3 black 9 black 1 black 1 black 1 green 2 black 1
+red 3 black 13 black 1 black 1 black 1 green 1 black 1
+red 3 black 13 black 1 black 1 black 1 green 1 black 1
+red 3 black 17 black 1 black 1 black 1 green 1 black 1
+red 4 black 18 black 1 black 1 black 1 green 1 black 1
+red 3 black 18 black 1 black 1 black 1 green 1 black 1
+red 2 black 19 green 1 black 1
+red 1 black 2 red 1 black 17 green 1 black 1
+black 2 red 2 black 17 green 1 black 1
+black 1 red 3 black 17 green 2 black 1
+black 1 red 3 black 17 green 2 black 1
+black 2 red 3 black 17 green 2 black 1
+black 1 red 6 black 14 green 1 black 1
+black 2 red 6 black 14 green 1 black 1
+black 1 red 9 black 9 red 2 black 1 green 1 black 1
+black 2 red 9 black 9 red 1 black 2 red 1 green 3
+black 1 red 20 black 1 red 1 green 3
+red 20 black 2 red 1 green 3
+red 20 black 1 red 1 green 3
+red 20 black 1 red 1 green 2 black 1
+red 20 black 1 red 1 green 2 black 1
+red 19 black 1 red 2 green 2 black 1
+red 19 black 1 red 1 green 2 black 1
+red 19 black 1 red 1 green 2 black 1
+red 18 black 1 red 1 green 2 black 1
+red 18 black 1 red 2 green 2 black 1
+red 18 black 1 red 1 green 1 black 1
+red 17 black 1 red 1 green 2 black 1
+red 17 black 1 red 1 green 2 black 1
+red 16 black 1 red 2 green 2 black 1

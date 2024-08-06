@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Feb 23, 2021"
+description "Dishes"
+difficulty 1.25
+height 20
+id 34915
+link "https://webpbn.com/play.cgi?id=34915"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Knock knock"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+blue 4
+green 3 blue 8 green 1
+green 3 blue 3 black 4 blue 3 green 2
+green 3 blue 2 black 2 blue 2 black 2 blue 2 green 2
+green 1 blue 2 black 2 blue 4 black 2 blue 2 green 2
+green 1 blue 2 black 1 blue 6 black 1 blue 2 green 2
+green 1 blue 2 black 1 blue 6 black 1 blue 2 green 1
+green 1 blue 2 black 2 blue 4 black 2 blue 2 green 1
+green 1 blue 2 black 2 blue 2 black 2 blue 2 green 1
+green 1 blue 3 black 4 blue 3 green 1
+blue 8
+blue 4
+0
+0
+0
+
+columns
+0
+green 3
+green 9
+green 3
+blue 4
+blue 8
+blue 3 black 4 blue 3
+blue 2 black 2 blue 2 black 2 blue 2
+blue 2 black 2 blue 4 black 2 blue 2
+blue 2 black 1 blue 6 black 1 blue 2
+blue 2 black 1 blue 6 black 1 blue 2
+blue 2 black 2 blue 4 black 2 blue 2
+blue 2 black 2 blue 2 black 2 blue 2
+blue 3 black 4 blue 3
+blue 8
+blue 4
+0
+green 9
+green 4
+0

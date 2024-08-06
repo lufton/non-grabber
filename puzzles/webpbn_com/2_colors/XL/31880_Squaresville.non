@@ -1,0 +1,97 @@
+by "Brian Howard (oduck83)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Howard"
+date "Dec 15, 2018"
+description "A Fibonacci spiral made of 45-degree rotated squares, each one based on the diagonal of the previous."
+difficulty 2.0
+height 40
+id 31880
+link "https://webpbn.com/play.cgi?id=31880"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Squaresville"
+width 40
+
+rows
+3
+5
+2,1,2
+2,1,2
+2,1,2
+2,1,2
+2,1,2
+2,1,2
+2,1,2,1
+2,1,2,2
+2,1,2,2
+2,1,2,2
+2,1,2,2
+2,1,2,2
+2,1,2,2
+17,3
+3,1,3
+1,2,1,3
+1,2,1,3
+1,2,1,3
+1,2,1,3
+1,2,1,3
+1,2,1,3
+1,2,1,3
+1,4,1,3
+1,2,3,1,3
+1,2,3,1,3
+1,2,3,1,3
+1,2,3,1,3
+1,2,7
+3,6
+40
+2,1,7
+2,1,8
+2,1,3,1,3
+2,1,3,6
+2,1,2,2,1,2,2
+5,5,2
+3,3,2
+9,2
+
+columns
+17
+3,3
+5,5
+2,1,2,2,1,2
+2,1,2,2,1,2
+2,1,2,2,1,2
+2,1,2,2,1,2
+2,1,2,2,1,2
+2,1,3,9
+2,1,3,1,3
+2,1,3,1,2,1
+2,1,3,1,2,1
+2,1,3,1,2,1
+2,1,3,1,4,1
+2,1,7,2,1
+2,1,5,3
+40
+2,5,1,2
+2,10
+2,10
+2,3,5
+2,3,1,2
+2,3,1,2
+2,3,1,2
+2,3,1,2
+2,3,1,1
+2,3,1
+2,3,1
+2,3,1
+2,3,1
+2,3,1
+4,1
+2,1
+2,1
+2,1
+2,1
+2,1
+2,1
+2,1
+2,1

@@ -1,0 +1,52 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 15
+id 25624
+link "https://webpbn.com/play.cgi?id=25624"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WCP # 161 - Think Pink"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 3 black 3
+black 2 black 3
+black 1 black 1 black 2
+black 1 black 2 black 1
+black 3
+black 2 red 2
+black 3 red 3 red 2
+black 5 red 3 red 3
+black 4 red 4 red 3
+blue 3 red 4 red 6
+blue 3 red 3 red 6
+blue 3 black 2 red 6
+blue 3 black 2 red 1 red 1
+black 4 red 3 red 1 red 1
+
+columns
+black 4 black 4 blue 4 black 1
+black 2 black 4 blue 4 black 1
+black 1 black 1 black 3 blue 4 black 1
+black 1 black 2 black 1
+black 5 red 2 black 1 red 3 black 2 red 1
+black 5 red 6 black 2 red 1
+black 2 red 5 red 1
+black 1 red 3
+0
+red 7
+red 6
+red 6
+red 3
+red 3
+red 5

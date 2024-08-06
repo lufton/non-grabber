@@ -1,0 +1,43 @@
+by "farfalla19"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/21/10"
+height 11
+id 91771
+link "https://www.griddlers.net/nonogram/-/g/91771"
+medium_time "0:01:06"
+points 76
+popularity 49.83
+title "Bee"
+width 10
+
+color a ffffff
+color b 000000
+color c ffff33
+color d 33ff66
+color e 66ccff
+
+rows
+e 2
+e 4
+e 5
+e 5
+c 2 b 2 c 2
+b 1 c 2 b 2 c 2 b 1
+b 1 d 1 c 2 b 2 c 2 b 2
+b 2 c 2 b 2 c 2 b 2
+b 2 c 2 b 2 c 2 b 2
+b 1 c 2 b 2 c 2 b 1
+c 2 b 2 c 2
+
+columns
+b 3
+b 1 d 1 b 3
+c 7
+e 1 c 7
+e 2 b 7
+e 3 b 7
+e 4 c 7
+e 4 c 7
+e 2 b 5
+b 3

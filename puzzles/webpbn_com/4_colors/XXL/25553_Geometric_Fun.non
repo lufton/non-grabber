@@ -1,0 +1,122 @@
+by "CSMat ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by CSMat"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.25
+height 50
+id 25553
+link "https://webpbn.com/play.cgi?id=25553"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Geometric Fun!"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+red 5 blue 10 blue 10 red 5
+red 1 red 1 blue 1 blue 1 black 10 blue 1 blue 1 red 1 red 1
+red 1 red 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 red 1 red 1
+red 1 red 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 red 1 red 1
+red 1 red 1 blue 10 black 1 black 4 black 1 blue 10 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 19 black 13 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 16 black 10 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 7 black 13 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 5 black 1 black 1 black 1 black 4 black 10 black 1 black 1 black 1 red 5
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 13 black 10 black 10 black 7
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 10 black 10 black 10 black 4 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 4 black 10 black 10 black 10 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 7 black 10 black 10 black 13
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 10 black 4 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 5
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 13 black 7 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 10 black 16 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 13 black 19 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 black 1 black 1 red 1 red 1
+red 1 red 1 blue 10 black 1 black 4 black 1 blue 10 red 1 red 1
+red 1 red 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 red 1 red 1
+red 1 red 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 red 1 red 1
+red 1 red 1 blue 1 blue 1 black 10 blue 1 blue 1 red 1 red 1
+red 5 blue 10 blue 10 red 5
+0
+
+columns
+0
+red 17 red 17
+red 1 red 1 black 10 red 1 red 1
+red 1 red 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 red 1 red 1
+red 17 black 1 black 4 black 1 red 17
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+blue 5 black 13 black 19 blue 5
+blue 1 blue 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 10 black 16 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 13 black 7 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 5 black 1 black 1 black 1 black 10 black 4 black 1 black 1 black 1 blue 5
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 7 black 10 black 10 black 13
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 4 black 10 black 10 black 10 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 10 black 10 black 10 black 4 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 13 black 10 black 10 black 7
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+blue 5 black 1 black 1 black 1 black 4 black 10 black 1 black 1 black 1 blue 5
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 7 black 13 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 16 black 10 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 black 1 blue 1 blue 1
+blue 5 black 19 black 13 blue 5
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+red 17 black 1 black 4 black 1 red 16
+red 1 red 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 1 black 1 red 1 red 1
+red 1 red 1 black 10 red 1 red 1
+red 17 red 16
+0

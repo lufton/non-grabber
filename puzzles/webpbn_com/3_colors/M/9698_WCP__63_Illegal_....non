@@ -1,0 +1,61 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Jota"
+date "Jul 20, 2010"
+description "Not in Vegas."
+difficulty 1.5
+height 20
+id 9698
+link "https://webpbn.com/play.cgi?id=9698"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP # 63 Illegal ..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 4 black 1
+black 1 red 2 black 1
+black 2 red 2 black 1 black 5
+red 2 black 1 black 9
+red 4 black 1 black 1 black 1
+red 4 black 1 black 1
+red 4 black 9
+red 4 black 12
+black 2 black 1 black 1
+black 2 black 1 black 1
+black 2 black 1 black 2 black 1
+black 2 black 12
+black 1 black 2 black 2
+black 1 black 2 black 2
+0
+
+columns
+black 6
+red 4 black 1 red 4
+red 8 black 4
+red 8 black 6
+red 4 red 4
+black 8
+0
+0
+black 5
+black 1 black 3
+black 1 black 3
+black 5 black 1
+black 1 black 2 black 1
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 2 black 2 black 1
+black 2 black 2 black 1
+black 2 black 2 black 3
+black 1 black 2 black 3
+black 9

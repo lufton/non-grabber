@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar  5, 2011"
+description "You can always tell when an American is about to make a turn in Australia. The windshield wipers come on. Not only is the steering wheel on the other side of the car but the turn signal lever is flipped too. "Watch out Mabel, I think those Yanks are about to make a turn""
+difficulty 2.0
+height 15
+id 12580
+link "https://webpbn.com/play.cgi?id=12580"
+note "published,definitely unique,may require some guessing"
+quality 2.75
+title "WCP#79 Bob and Kate signal their intentions"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 16
+red 2 red 2
+red 1 black 2 black 2 red 1
+red 2 black 2 black 2 red 2
+red 1 black 2 black 2 red 1
+red 1 black 2 black 2 red 1
+red 1 black 2 black 2 red 1
+red 1 black 2 black 2 red 1
+red 1 black 2 black 4 red 1
+red 12 black 2 red 2 black 2 red 2
+black 2 black 2
+black 1 black 2 black 1
+black 1 black 2 blue 2 black 1 blue 1
+black 2 black 2
+black 2 black 2
+
+columns
+red 7
+red 3 red 1
+red 2 red 1
+red 1 black 1 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 1 black 1 red 1
+red 1 black 2 red 1 black 4
+red 1 black 2 black 2 black 2
+red 1 black 2 black 2 black 1
+red 1 black 2 black 1 red 1 black 2
+red 1 black 3 red 1 black 2
+red 1 black 3 blue 1 black 1
+red 2 black 2 blue 1 black 2
+red 3 red 1 black 4
+red 7 blue 1

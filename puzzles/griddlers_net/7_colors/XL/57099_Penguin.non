@@ -1,0 +1,111 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/20/08"
+height 41
+id 57099
+link "https://www.griddlers.net/nonogram/-/g/57099"
+medium_time "0:26:42"
+points 54251
+popularity 79.35
+title "Penguin"
+width 46
+
+color a ffffff
+color c cc3333
+color d ccccff
+color e ccffff
+color f 9999ff
+color g 666666
+color h ffcc66
+
+rows
+c 10
+c 13
+c 15
+c 16
+c 17
+c 18
+d 5 c 9 d 3 c 3
+d 1 e 5 d 9 e 1 d 3 c 2
+d 1 e 16 d 2 c 3
+d 1 e 16 d 2 c 3
+d 3 e 9 d 5 f 1 c 1 d 2
+f 1 d 1 f 1 d 13 f 3 d 1 e 1 d 2
+f 1 d 16 f 2 d 1 e 2 d 1 c 4
+f 1 d 4 g 2 d 7 g 2 d 4 f 1 d 2 c 3 e 2 c 1
+f 1 d 3 g 1 g 2 d 5 g 1 g 2 d 3 f 1 c 4 e 3 c 1
+f 1 d 4 g 4 d 5 g 4 d 4 f 1 c 1 e 2 c 2 e 2 c 2
+f 1 d 5 g 2 d 7 g 2 d 5 f 1 c 1 e 2 c 2 e 1 c 3
+f 1 d 21 f 1 c 2 e 1 c 1 c 4
+f 1 d 9 h 3 d 9 f 1 c 4 c 1 e 2 c 1
+f 1 d 9 h 5 d 9 f 1 c 1 e 1 c 2 c 1 e 2 c 1
+f 2 d 10 h 3 d 10 f 2 c 1 e 2 c 1 c 4
+d 1 f 1 d 23 f 1 d 1 c 2 e 1 c 1 c 4
+f 1 d 1 f 1 d 23 f 1 d 1 f 1 c 5 c 1 e 2 c 1
+f 1 d 1 f 1 d 23 f 1 d 1 f 1 c 4 c 1 e 2 c 1
+f 1 d 2 f 1 d 8 f 7 d 8 f 1 d 2 f 1 c 1 e 2 c 1 c 2
+f 1 d 2 f 1 d 7 f 1 e 5 d 2 f 1 d 7 f 1 d 2 f 1 c 1 e 2 c 1
+f 1 d 3 f 1 d 6 f 1 e 7 d 2 f 1 d 6 f 1 d 3 f 1 c 2
+f 1 d 3 f 1 d 6 f 1 e 8 d 1 f 1 d 6 f 1 d 3 f 1 c 2
+f 4 d 5 f 1 e 9 d 2 f 1 d 5 f 4 e 1 c 1
+f 1 d 5 f 1 e 10 d 1 f 1 d 5 f 1 c 2 e 1 c 1
+f 1 d 3 f 1 e 11 d 2 f 1 d 3 f 1 c 3
+f 1 d 3 f 1 e 12 d 1 f 1 d 3 f 1 c 4
+f 1 d 3 f 1 e 12 d 1 f 1 d 3 f 1 c 1 e 2 c 1
+f 1 d 2 f 1 e 12 d 1 f 1 d 2 f 1 c 2 e 1 c 2
+f 1 d 2 f 1 e 11 f 1 d 2 f 1 c 4
+f 3 e 11 f 3 c 2
+h 3 f 11 h 3
+h 7 h 7
+h 7 h 7
+h 6 h 6
+h 4 h 4
+
+columns
+f 2
+f 2 d 2 f 1
+f 2 d 4 f 1
+f 1 d 7 f 1
+f 11
+f 4 d 11 f 3
+f 2 d 18 f 1 h 2
+d 3 f 2 d 21 f 1 h 4
+d 1 e 3 d 25 f 1 h 5
+c 2 d 1 e 3 d 1 f 1 d 18 f 4 d 1 f 1 h 5
+c 4 d 1 e 3 d 4 g 2 d 12 f 2 e 4 f 2 h 5
+c 5 d 1 e 4 d 2 g 1 g 2 d 9 f 2 e 8 f 1 h 3
+c 5 d 1 e 4 d 2 g 4 d 8 f 1 e 10 f 1 h 2
+c 7 d 1 e 3 d 3 g 2 d 8 f 1 e 11 f 1 h 1
+c 7 d 1 e 3 d 8 h 1 d 4 f 1 e 11 f 1
+c 7 d 1 e 3 d 7 h 3 d 3 f 1 e 11 f 1
+c 7 d 1 e 3 d 7 h 3 d 3 f 1 e 11 f 1
+c 7 d 1 e 3 d 7 h 3 d 3 f 1 e 11 f 1
+c 7 d 1 e 3 d 8 h 1 d 4 f 1 d 1 e 10 f 1
+c 7 d 1 e 3 d 3 g 2 d 8 f 1 d 2 e 9 f 1 h 1
+c 7 d 1 e 2 d 3 g 1 g 2 d 8 f 1 d 3 e 7 f 1 h 2
+c 7 d 1 e 2 d 3 g 4 d 9 f 2 d 3 e 5 f 1 h 3
+c 6 d 1 e 3 d 4 g 2 d 12 f 2 d 4 f 2 h 5
+c 5 d 2 e 2 d 1 f 1 d 18 f 4 d 1 f 1 h 5
+c 4 d 5 f 2 d 22 f 1 h 5
+c 4 d 3 f 3 d 21 f 1 h 4
+c 6 d 2 f 2 d 18 f 1 h 2
+c 4 d 1 e 2 d 1 f 4 d 11 f 3
+c 2 d 2 e 1 d 1 f 11 c 2
+d 2 f 1 d 7 f 1 c 5
+f 2 d 4 f 1 c 3 e 2 c 2
+f 2 d 2 f 1 c 3 e 1 c 2
+c 2 f 2 e 2 c 4
+c 2 e 2 c 4
+c 4 e 2 c 2
+c 1 e 1 c 5
+c 2 e 3 c 2
+c 8
+c 1 e 3 c 2
+c 2 e 2 c 2
+c 5 c 2
+c 5 c 2 e 2 c 1
+c 1 e 4 c 5 e 2 c 1
+c 1 e 3 c 2 e 2 c 4
+c 1 e 1 c 3 e 2 c 2
+c 6

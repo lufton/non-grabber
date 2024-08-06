@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Dec 10, 2017"
+description "A soda jerk at the counter of the pharmacy. Cherry phosphate coming up."
+difficulty 2.0
+height 20
+id 30612
+link "https://webpbn.com/play.cgi?id=30612"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What a jerk! #3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 1 blue 1
+blue 1 blue 3 blue 3
+blue 2 blue 5
+blue 3 blue 1 blue 1 blue 7
+blue 2 blue 5
+blue 1 black 5 blue 3
+black 2 blue 1
+black 1 blue 1
+black 1 blue 1
+blue 1 red 1 red 1 blue 1
+blue 2 blue 1 red 2 blue 2
+blue 3 blue 2 red 3 blue 2 red 2 blue 1 blue 3
+blue 2 blue 1 red 6 blue 2 blue 2
+blue 1 red 5 green 4
+red 5 green 1
+blue 1 red 6
+blue 2 blue 1 red 4 red 2 black 3
+blue 3 blue 2 red 4 red 1 black 2
+blue 2 blue 1 red 4 black 2
+
+columns
+blue 5 blue 5 blue 4
+blue 3 blue 3 blue 3
+blue 1 blue 1 blue 1
+0
+blue 1 blue 1 blue 1
+black 4 blue 3 blue 3
+blue 1 black 2 red 8
+blue 2 black 1 red 8
+blue 1 black 1 red 8
+black 1 blue 1 red 1 blue 1 red 7
+blue 1 blue 1 red 4
+red 2 red 2
+blue 1 red 2 red 2
+blue 3 red 2 blue 1 black 3
+blue 5 blue 2 green 2 black 3
+blue 7 blue 1 green 1 black 1
+blue 5 blue 4 green 1
+blue 3 blue 3 green 1
+blue 1 blue 1
+0

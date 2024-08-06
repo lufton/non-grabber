@@ -1,0 +1,63 @@
+by "kaella young (kiko88)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by kaella young"
+date "May 21, 2008"
+description "I hope you enjoy a ten year olds puzzle, thank you Jan for your advice."
+difficulty 2.75
+height 20
+id 2812
+link "https://webpbn.com/play.cgi?id=2812"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "it's very pretty!!!!edited now with a unique solition!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 green 1 blue 7 red 1 blue 1
+blue 1 blue 1 green 1 blue 1
+blue 1 red 1 red 1 green 1 blue 1 blue 1
+blue 1 blue 1 red 4 blue 1
+blue 1 green 1 red 4 red 2 red 2 blue 1
+blue 1 blue 1 red 1 red 3 red 2 red 2 blue 1
+blue 1 red 1 red 1 red 1 red 2 blue 2
+blue 1 red 1 red 2 black 5 red 1 blue 1
+blue 1 red 2 black 5 red 3 red 1 blue 1
+blue 1 red 1 black 5 green 1 blue 1
+blue 2 green 1 blue 1 black 5 blue 1
+blue 1 red 1 black 5 red 1 blue 1 blue 1
+blue 1 red 3 black 5 red 4 blue 1
+blue 1 red 1 red 2 green 1 red 2 red 1 blue 1
+blue 1 red 1 red 1 red 1 green 5 red 1 red 1 blue 1
+blue 1 red 3 green 7 red 4 blue 1
+blue 1 red 2 green 7 red 3 blue 1
+blue 1 green 1 green 2 green 1 green 2 red 1 blue 1
+blue 1 blue 1 green 1 blue 1 green 1 blue 1
+blue 4 red 1 blue 2 green 1 blue 4 red 1 blue 1
+
+columns
+blue 20
+blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 red 1 green 1 green 1 blue 1
+blue 1 green 1 red 2 blue 2
+blue 1 red 1 red 1 red 1 red 4
+red 1 red 1 blue 1 red 1 red 2 red 1
+green 1 red 1 red 1 red 1 red 1
+red 2 red 1 red 4 green 3
+blue 1 red 1 red 1 black 6 red 1 green 4 blue 1
+blue 1 red 2 black 6 green 3 blue 1
+blue 1 blue 1 black 6 green 7
+blue 1 black 6 green 3 blue 1
+blue 1 green 1 red 2 black 6 red 1 green 4 blue 1
+blue 1 red 2 red 1 red 4 green 3 blue 1
+blue 1 red 2 red 1 green 1 red 1 red 1 red 1 blue 1
+red 1 red 3 red 1 red 2
+red 1 blue 1 red 1 red 2 red 1 red 2 blue 1
+red 3 red 1 blue 1 red 4 green 1 red 1
+green 1 red 1 blue 1
+blue 20

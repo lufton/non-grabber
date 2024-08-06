@@ -1,0 +1,99 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/5/21"
+height 40
+id 229620
+link "https://www.griddlers.net/nonogram/-/g/229620"
+medium_time "0:36:42"
+points 46369
+popularity 93.35
+title "Iris"
+width 35
+
+color a ffffff
+color c 9933FF
+color d 663399
+color e FF6600
+color f FFCC00
+color g 339900
+color h 336666
+
+rows
+c 1 c 1
+c 2 c 2
+c 2 c 3
+c 1 c 4 c 3
+c 2 c 4 c 3
+c 3 d 2 c 4 c 4 d 3
+g 1 c 2 d 3 c 3 c 4 d 4
+g 2 c 2 d 2 c 3 c 4 d 3
+h 1 g 1 d 2 c 3 d 1 d 1 c 3 d 3
+h 1 g 2 d 1 c 3 d 2 d 2 c 3 d 1
+h 1 g 2 c 3 d 1 d 2 c 3
+h 2 g 1 c 5 d 1 c 2
+h 1 g 2 c 4 d 1 c 3
+h 1 g 2 c 1 f 2 c 8 f 3 c 1
+h 1 g 2 c 2 e 5 c 6 e 5 f 1 c 2
+h 2 g 2 c 2 e 2 e 2 c 2 e 2 c 2 e 1 f 1 c 2
+h 1 g 1 c 2 f 1 c 3 f 1 e 3 c 3 f 1 c 1
+h 1 c 7 f 2 e 2 f 2 c 7
+h 1 c 7 c 1 f 2 e 2 f 1 c 1 c 7 h 1 g 3
+c 8 c 2 f 1 e 1 f 2 c 1 c 8 h 1 g 3
+c 8 c 3 e 1 f 1 c 3 c 8 g 3
+c 7 c 4 e 1 c 4 c 8 g 2
+c 7 c 5 c 6 c 7 g 1
+c 7 g 1 c 11 h 1 c 5
+c 6 g 2 c 11 h 1 g 2 c 4
+c 3 h 1 g 3 c 11 h 1 g 5 c 2
+c 2 h 1 g 4 c 11 h 1 g 4
+c 1 h 1 g 3 c 10 h 2 g 3
+h 1 g 3 c 9 h 2 g 2
+h 1 g 3 c 6 h 2 g 3
+h 1 g 4 c 3 h 2 g 4
+h 1 g 4 h 2 g 3
+h 1 g 4 h 1 g 4
+h 1 g 4 h 2 g 3
+h 2 g 3 h 2 g 3
+h 2 g 3 h 1 g 3
+h 2 g 3 h 1 g 3
+h 2 g 1 h 2 g 2
+h 4 g 2
+h 3 g 2
+
+columns
+g 2 h 4
+g 4 h 5 c 5
+g 6 h 4 c 9
+g 5 c 10
+c 3 g 1 c 10
+c 3 c 10 h 2
+c 3 c 2 f 1 c 8 g 2 h 2
+d 2 c 1 c 1 e 1 c 7 g 5 h 2
+d 4 c 1 e 2 c 4 g 8 h 1
+d 4 f 1 e 1 c 4 g 6 h 1
+c 7 f 1 e 1 c 1 c 2 c 3 g 4 h 2
+c 11 e 1 c 1 c 10 g 4 h 2
+c 14 e 2 c 11 g 4 h 2
+c 3 d 2 c 5 e 1 f 2 c 10 g 4 h 2
+d 2 c 5 f 4 c 9 g 4 h 2
+c 5 e 6 c 8 g 3 h 2
+d 1 c 2 e 4 f 2 c 9 g 1 h 3
+d 2 c 3 e 2 f 3 c 9 h 7
+d 2 c 3 f 1 c 10 h 5 g 5
+d 2 c 4 e 1 c 11 h 3 g 8
+c 7 e 1 c 1 c 7 h 3 g 7
+c 11 f 1 e 1 c 2 c 3 h 3 g 6
+c 9 f 1 e 1 c 6 h 1 g 7
+c 6 d 2 f 1 e 1 c 7 h 1 g 6
+d 3 c 1 f 1 e 1 c 6 h 1 g 4
+d 3 c 1 f 1 c 7 g 3
+d 3 c 2 f 1 c 8 g 1
+d 2 c 10 g 1
+d 1 c 9
+c 7
+h 1 g 3
+h 1 g 3
+g 3
+g 2
+g 1

@@ -1,0 +1,63 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jul 15, 2011"
+description "three forks, montana... the origin of the missouri river"
+difficulty 1.25
+height 20
+id 15192
+link "https://webpbn.com/play.cgi?id=15192"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "sarah's contest: 'between thre rockies and the mississippi'"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 1 red 1 red 1 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 1 red 1 red 1 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 1 red 1 red 1 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 1 red 1 red 1 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 1 red 1 red 1 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 1 red 1 red 1 green 1 green 1 green 1 blue 1 blue 1 blue 1
+red 5 green 5 blue 5
+red 3 green 3 blue 3
+red 1 green 1 blue 1
+red 1 green 1 blue 1
+red 1 black 2 black 2 green 1 black 5 blue 1
+red 1 black 2 black 2 green 1 black 1 blue 1
+red 1 black 1 black 1 black 1 green 1 black 1 blue 1
+red 1 black 1 black 1 green 1 black 1 blue 1
+red 1 black 1 black 1 green 1 black 1 blue 1
+red 1 green 1 blue 1
+red 1 green 1 blue 1
+red 1 green 1 blue 1
+red 3 green 3 blue 3
+
+columns
+0
+red 7
+red 2 red 1
+red 19
+red 2 black 5 red 1
+red 7 black 2
+black 1
+green 7 black 2
+green 2 black 5 green 1
+green 19
+green 2 black 1 green 1
+green 7 black 1
+black 5
+blue 7 black 1
+blue 2 black 1 blue 1
+blue 19
+blue 2 blue 1
+blue 7
+0
+0

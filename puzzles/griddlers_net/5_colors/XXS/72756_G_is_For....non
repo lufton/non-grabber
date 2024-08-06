@@ -1,0 +1,32 @@
+by "MomWiz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/4/08"
+height 5
+id 72756
+link "https://www.griddlers.net/nonogram/-/g/72756"
+medium_time "0:00:40"
+points 31
+popularity 42.78
+title "G is For..."
+width 5
+
+color a ffffff
+color b 000000
+color c 66ff33
+color d ccff99
+color e 00d700
+
+rows
+b 2 d 1
+b 1 d 1 c 1
+b 1 d 1 e 1 d 1
+b 1 b 1 d 1 c 1
+b 2 c 1 e 1
+
+columns
+b 3
+b 1 b 1
+b 1 d 1 b 2
+d 1 e 1 d 1 c 1
+d 1 c 1 d 1 c 1 e 1

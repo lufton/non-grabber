@@ -1,0 +1,62 @@
+by "Alison Deem (Indigo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alison Deem"
+date "May 23, 2010"
+description "Time."
+difficulty 1.75
+height 20
+id 8923
+link "https://webpbn.com/play.cgi?id=8923"
+note "published,definitely non-unique,may require some guessing"
+quality 1.75
+title "Time after......"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2 green 5 black 6 green 5 black 2
+black 2 green 3 black 2 black 1 black 2 green 3 black 2
+black 2 green 1 black 2 black 1 black 2 green 1 black 2
+black 2 black 2 black 6 black 2 black 2
+black 2 black 1 black 2 black 1 black 2 black 1 black 2
+black 1 black 2 black 2 black 1 black 2 black 2
+black 2 black 2 black 6 black 2 black 2
+black 2 black 1 black 2 black 1 black 2 black 1 black 2
+black 2 black 2 black 1 black 2 black 2
+black 2 black 6 black 2
+black 1 black 2 black 1 black 2 black 1
+black 2 black 1 black 2
+black 1 black 2 red 1 black 1 black 2
+black 2 black 1 red 1 black 1 black 1 black 2
+green 1 black 2 black 1 red 1 black 1 black 1 black 2 green 1
+green 2 black 3 black 2 black 3 green 2
+green 4 black 1 black 2 black 1 green 4
+green 4 black 2 black 1 black 2 green 4
+green 5 black 2 black 2 black 2 green 5
+green 6 black 8 green 6
+
+columns
+black 1 black 1 black 2 black 2 green 6
+black 2 black 2 black 2 black 2 green 5
+green 1 black 2 black 2 black 2 black 2 green 4
+green 2 black 2 black 2 black 2 black 1 green 4
+green 3 black 2 black 2 black 2 black 6 green 2
+green 2 black 1 black 1 black 1 black 2 black 2 green 1
+green 1 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 red 1 black 1
+black 1 black 1 black 1 black 1 red 1 black 1
+black 1 black 1 black 1 black 1 red 1 black 2
+black 16 black 2
+black 1 black 1 black 1 black 1 black 2 black 1
+black 2 black 2 black 2 black 2 black 2 black 1
+green 1 black 2 black 2 black 2 black 2 black 2
+green 2 black 1 black 1 black 1 black 2 black 2 green 1
+green 3 black 2 black 2 black 2 black 6 green 2
+green 2 black 2 black 2 black 2 black 1 green 4
+green 1 black 2 black 2 black 2 black 2 green 4
+black 2 black 2 black 2 black 2 green 5
+black 1 black 1 black 1 black 1 green 6

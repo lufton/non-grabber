@@ -1,0 +1,115 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/22"
+height 48
+id 247038
+link "https://www.griddlers.net/nonogram/-/g/247038"
+medium_time "0:39:12"
+points 212757
+popularity 88.97
+title "Pigeon"
+width 44
+
+color a ffffff
+color b 000000
+color c ffcc66
+color d 8795ba
+color e 585276
+color f d7cbd9
+
+rows
+b 2
+b 1 d 1 b 2 b 1
+b 1 d 3 b 1 b 1 d 1 b 2
+b 1 d 4 b 1 b 2 b 1 d 3 b 1
+b 1 d 5 b 1 d 1 b 1 b 1 d 3 b 1
+b 1 e 2 d 5 b 1 b 1 d 4 b 1
+b 1 f 2 e 1 d 4 b 1 b 1 d 1 e 1 d 4 b 1
+b 1 f 4 e 1 d 3 b 1 b 1 d 1 e 1 d 5 b 1
+b 1 f 5 e 1 d 2 b 3 b 1 d 1 e 1 d 5 b 1
+b 1 d 1 f 5 e 1 d 3 b 1 b 1 d 3 e 1 d 5 b 1
+b 1 d 2 f 4 e 1 d 2 b 1 b 1 d 4 e 1 d 4 b 1
+b 1 f 1 d 3 f 3 e 1 d 2 b 3 b 1 d 4 e 1 d 3 b 1
+b 1 f 2 d 2 f 4 e 1 d 3 b 1 b 1 e 2 d 3 e 1 d 3 b 1
+b 1 f 2 d 3 f 4 e 1 d 1 b 1 b 1 e 2 d 3 e 1 d 4 b 1
+b 1 f 3 d 2 f 4 e 1 d 2 b 1 b 1 e 2 d 3 e 1 d 3 b 1
+b 1 f 3 d 3 f 3 e 1 d 3 b 1 e 3 d 3 e 1 d 3 b 1
+b 1 f 3 d 3 f 3 e 1 d 3 b 1 e 3 d 3 e 1 d 4 b 1
+b 1 f 4 d 2 f 3 e 1 d 3 b 1 e 3 d 3 e 1 d 4 b 1
+b 1 f 4 d 3 f 3 e 1 d 2 b 1 e 3 d 4 e 1 d 2 b 1
+b 1 f 4 d 2 f 3 e 1 d 3 b 1 e 2 d 4 e 1 d 2 b 1
+b 1 f 4 d 3 f 2 e 1 d 3 b 1 e 3 d 3 e 1 d 1 b 1
+b 3 b 1 f 5 d 2 f 2 e 1 d 3 b 1 e 3 d 2 e 1 d 2 b 1
+b 1 d 3 b 2 b 1 f 5 d 2 f 3 e 1 d 1 b 1 e 4 d 2 e 1 d 3 b 1
+b 1 d 2 b 1 d 3 b 1 b 1 f 5 d 2 f 2 e 1 d 2 b 1 e 4 d 2 e 1 d 2 b 1
+b 2 d 2 b 1 d 4 b 1 b 1 f 4 d 2 f 2 e 1 d 3 b 1 e 3 d 2 e 1 d 2 b 1
+b 1 c 2 b 1 d 7 b 2 f 4 d 2 f 2 e 1 d 3 b 1 e 2 d 3 e 1 d 1 b 1
+b 1 c 2 b 1 d 6 e 1 d 1 b 1 f 4 d 2 f 3 e 1 d 2 b 1 e 2 d 2 e 1 d 2 b 1
+b 1 c 1 b 1 d 7 e 1 d 1 b 1 f 4 d 3 f 2 e 1 d 1 b 1 e 3 d 2 e 1 d 2 b 1
+b 1 b 1 d 6 e 1 d 1 b 1 f 4 d 3 f 2 e 1 d 1 b 1 e 3 d 1 e 1 d 2 b 1
+b 1 d 4 e 1 d 1 e 1 b 1 f 4 d 2 f 2 e 1 d 1 b 1 e 3 d 1 e 1 d 1 b 2
+b 1 d 3 e 1 d 1 e 1 f 1 b 1 f 3 d 2 f 2 e 1 d 2 b 1 e 2 d 1 e 1 b 1
+b 1 d 1 e 1 d 1 e 1 f 2 b 1 f 3 d 2 f 2 e 1 d 2 b 1 e 1 d 1 e 1 d 1 b 1
+b 1 d 2 e 1 f 6 d 2 f 2 e 1 d 1 b 1 e 2 d 1 e 1 b 1
+b 1 d 1 e 1 f 7 d 2 f 4 b 1 e 1 d 1 e 1 b 1
+b 1 f 13 b 3 d 1 b 1
+b 1 f 16 b 2
+b 1 f 17 b 1
+b 1 f 17 b 1
+b 1 f 17 b 2
+b 2 f 5 b 1 f 3 b 1 f 7 b 2
+b 3 f 3 b 1 f 2 b 1 f 9 b 3
+b 4 f 2 b 1 f 12 b 4
+b 1 f 1 b 3 f 10 e 1 f 2 e 1 b 3
+b 5 b 2 f 7 e 1 f 2 e 1 d 4 b 1
+b 1 c 5 b 1 b 2 f 2 e 3 f 2 e 1 d 3 b 2
+b 1 c 1 b 3 c 1 b 1 b 2 f 3 e 2 d 2 b 2
+b 2 b 2 b 3 d 2 b 2
+b 2
+
+columns
+b 3
+b 1 c 3 b 1
+b 2 c 2 b 1
+b 1 d 2 b 2 d 1 b 1
+b 1 d 7 b 1
+b 1 d 1 b 2 d 5 b 1
+b 1 d 9 b 1
+b 1 d 9 b 2
+b 1 d 8 e 1 d 2 b 2
+b 1 d 5 e 2 d 2 e 1 f 2 b 1
+b 8 b 1 d 1 e 3 d 2 e 2 f 4 b 1
+b 4 f 8 b 5 b 1 d 3 e 2 f 7 b 1
+b 4 f 2 d 3 f 12 b 6 f 9 b 1
+b 3 d 2 e 1 f 4 d 4 f 16 b 2 f 7 b 1
+b 1 d 4 e 1 f 5 d 6 f 23 b 1
+b 1 d 4 e 1 f 6 d 6 f 21 b 1
+b 1 d 5 e 1 f 7 d 6 f 19 b 1
+b 2 d 4 e 1 f 9 d 16 f 7 b 1
+b 1 d 4 e 3 f 8 d 14 f 7 b 1 b 2
+b 1 d 8 e 1 f 14 d 2 f 10 b 1 f 1 b 1 b 1 c 2 b 1
+b 6 d 4 e 5 f 22 b 2 b 1 c 1 b 2
+b 1 d 1 b 2 d 6 e 4 f 1 e 3 f 3 e 4 f 9 b 2 c 1 b 1
+b 2 b 1 d 1 b 1 d 8 e 1 d 3 e 3 d 4 f 1 b 1 f 8 b 1 c 1 b 2
+b 2 b 1 d 14 b 1 d 2 b 3 f 4 b 5 c 2 b 1
+b 4 d 3 b 2 d 3 b 2 e 1 b 2 e 2 b 1 f 7 b 1 b 2
+b 3 e 4 b 3 e 2 b 3 e 6 d 2 b 1 f 6 b 1
+b 3 e 19 d 2 e 1 b 2 f 7 b 1
+b 3 d 3 e 17 d 2 e 2 b 1 b 1 f 6 b 1
+b 4 d 14 e 5 d 4 e 2 d 1 b 1 b 1 f 6 b 1
+b 1 d 4 e 3 d 19 e 1 d 1 b 2 b 1 f 5 b 1
+b 1 d 6 e 1 d 16 e 2 d 1 b 1 b 1 f 6 b 1
+b 1 d 7 e 8 d 3 e 5 d 3 b 1 b 1 f 5 b 1
+b 2 d 13 e 3 d 7 b 1 b 1 f 4 e 1 f 1 b 1
+b 1 d 19 b 3 b 1 f 3 e 1 f 1 b 1
+b 1 d 13 b 2 d 1 b 2 b 1 f 3 e 1 f 1 b 1
+b 2 d 2 b 2 d 1 b 2 d 2 b 2 b 1 b 1 f 2 e 1 f 1 e 1 d 1 b 1
+b 2 b 1 b 2 b 1 e 1 f 2 e 1 d 1 b 1
+b 1 f 2 e 1 d 1 b 1
+b 1 f 1 e 1 d 2 b 1
+b 1 e 1 d 2 b 1
+b 1 d 2 b 1
+b 1 d 1 b 1
+b 1 d 1 b 1
+b 1

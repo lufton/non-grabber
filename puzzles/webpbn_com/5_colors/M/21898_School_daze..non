@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "May  5, 2013"
+description "BAD egg!"
+difficulty 1.5
+height 20
+id 21898
+link "https://webpbn.com/play.cgi?id=21898"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "School daze."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 2 black 3
+green 1 black 1 black 1 black 1 black 4
+green 3 black 2 black 3 black 2 black 4
+green 4 black 1 black 1 black 1 black 2
+green 5 black 2 black 2 red 3
+green 6 red 4
+green 3 blue 2 red 4
+green 1 blue 5 black 4 red 8
+blue 7 red 7
+blue 7 black 4
+blue 7 red 4
+blue 7 red 4
+blue 7 red 4
+blue 5 red 4
+blue 3 red 4
+black 5 red 4
+black 1 black 1 red 4
+black 5 black 2
+black 1 black 1 black 3
+black 1 black 1 black 2 black 1
+
+columns
+green 7 blue 5
+green 5 blue 7 black 5
+green 5 blue 8 black 1 black 1
+green 3 blue 9 black 1 black 1
+green 2 blue 9 black 1 black 1
+green 1 blue 7 black 5
+black 1 black 3 blue 5
+black 3 black 1 black 1
+black 1
+black 1 black 1
+black 3 black 1
+black 1 red 1
+red 2
+black 1 black 3 red 2
+black 3 black 1 red 2 black 1
+red 4 black 1 red 7 black 2
+black 3 red 5 black 1 red 7 black 2
+black 4 red 5 black 1 red 7 black 3
+black 4 red 5 black 1 red 7
+black 2

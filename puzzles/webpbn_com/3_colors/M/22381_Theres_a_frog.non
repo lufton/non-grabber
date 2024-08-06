@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jul 20, 2013"
+description "on the bump on the log in the hole in the bottom of the sea."
+difficulty 2.25
+height 15
+id 22381
+link "https://webpbn.com/play.cgi?id=22381"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.25
+title "There's a frog"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+green 3
+green 5
+green 3
+green 5
+green 4 green 2
+black 7
+black 2 black 4
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 1
+black 2 black 1
+black 1 black 1
+
+columns
+black 2
+black 2
+black 3
+black 3
+black 2
+black 2
+green 1 black 2
+green 2 black 1
+green 3 black 1
+green 4 black 1
+green 4 black 1
+green 2 green 2 black 1
+green 2 green 1 black 2
+green 1 black 1
+black 1
+black 2
+black 2
+black 2
+black 2
+black 4

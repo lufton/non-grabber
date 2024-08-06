@@ -1,0 +1,41 @@
+by "Rick (bee)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Rick"
+date "Sep 28, 2019"
+description "They are dropping anchor. At the top there is the hull of the boat and there is seaweed floating close-by."
+difficulty 1.5
+height 10
+id 32943
+link "https://webpbn.com/play.cgi?id=32943"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What are they doing ?"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1 black 1 black 1
+black 2 black 1 black 3
+black 9
+black 1
+green 1 black 1 green 2
+green 1 black 3 green 2
+green 2 black 1 green 2
+black 1 green 1 black 1 black 1 green 3
+black 2 black 1 black 2 green 1
+black 5 green 2
+
+columns
+black 2 green 3 black 2
+black 2 green 2 black 2
+black 1 black 1 black 1
+black 10
+black 1 black 1 black 1
+black 1 black 2
+black 1 black 2
+black 2 green 1 green 2 green 1
+black 2 green 6
+black 3 green 1 green 1

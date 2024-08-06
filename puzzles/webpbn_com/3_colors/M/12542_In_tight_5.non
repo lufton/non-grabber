@@ -1,0 +1,61 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar  4, 2011"
+description "Upper right corner of our family bible."
+difficulty 1.25
+height 20
+id 12542
+link "https://webpbn.com/play.cgi?id=12542"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "In tight #5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 17
+black 1
+black 1
+black 1
+black 1
+black 12 black 1
+black 12 black 1
+black 2 black 1
+black 2 black 1
+red 6 black 2 black 1
+red 1 black 2 black 1
+red 1 black 2 black 1
+red 1 black 2 black 1
+red 4 black 2 black 1
+red 1 black 2 black 1
+red 1 black 2 black 1
+red 1 black 2 black 1
+red 6 black 2 black 1
+black 2 black 1
+
+columns
+black 1 black 2
+black 1 black 2 red 1 red 1
+black 1 black 2 red 9
+black 1 black 2 red 1 red 1 red 1
+black 1 black 2 red 1 red 1 red 1
+black 1 black 2 red 1 red 1 red 1
+black 1 black 2 red 1 red 1
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 14
+black 1 black 14
+black 1
+black 1
+black 1
+black 1
+black 19
+0
+0
+0

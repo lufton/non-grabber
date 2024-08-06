@@ -1,0 +1,96 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Apr 27, 2010"
+description "Lighthouse"
+difficulty 2.0
+height 55
+id 8592
+link "https://webpbn.com/play.cgi?id=8592"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Show me the way"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 3
+black 5
+black 7
+black 7
+black 9
+black 3 black 3
+black 3 black 3 black 3
+black 4 black 3 black 4
+black 2 black 1 black 3 black 1 black 2
+black 1 black 1
+black 1 red 4 black 1
+red 9
+red 12
+red 16
+red 18
+red 3 black 2 red 8 black 2 red 3
+red 2 black 2 red 8 black 2 red 2
+red 2 black 2 red 8 black 2 red 2
+red 2 black 2 red 8 black 2 red 2
+red 16
+red 16
+red 4 red 5 red 4
+red 3 red 3 red 3
+red 3 red 3 red 3
+red 2 red 1 red 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+red 14
+red 14
+red 14
+red 14
+red 14
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 4 black 1
+black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 18
+black 18
+black 18
+black 18
+black 20
+black 20
+black 20
+black 20
+black 20
+
+columns
+black 5
+red 2 red 2 black 9
+red 12 black 15
+black 2 red 12 black 4 red 5 black 6 black 9
+black 3 red 3 black 4 red 3 red 5 black 9
+black 2 red 3 black 4 red 3 red 5 black 9
+black 7 red 10 red 5 black 9
+black 4 red 10 red 5 black 9
+black 5 red 12 red 5 black 17
+black 5 black 3 red 14 red 5 black 1 black 9
+black 6 black 3 red 15 red 5 black 1 black 9
+black 5 black 3 red 14 red 5 black 17
+black 5 red 11 red 5 black 9
+black 4 red 10 red 5 black 9
+black 7 red 4 black 4 red 3 red 5 black 9
+black 2 red 3 black 4 red 3 red 5 black 9
+black 3 red 12 black 4 red 5 black 6 black 9
+black 2 red 12 black 15
+red 2 red 2 black 9
+black 5

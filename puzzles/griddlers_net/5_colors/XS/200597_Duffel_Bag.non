@@ -1,0 +1,38 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/11/19"
+height 8
+id 200597
+link "https://www.griddlers.net/nonogram/-/g/200597"
+medium_time "0:00:37"
+points 57
+popularity 71.48
+title "Duffel Bag"
+width 8
+
+color a ffffff
+color b 996600
+color c cc6600
+color d 663300
+color f 333333
+
+rows
+b 2
+d 1 d 1
+c 8
+c 1 f 2 c 2 f 2 c 1
+b 1 f 2 b 2 f 2 b 1
+b 1 d 2 b 2 d 2 b 1
+b 1 d 2 b 2 d 2 b 1
+b 8
+
+columns
+c 2 b 4
+c 1 f 2 d 2 b 1
+d 1 c 1 f 2 d 2 b 1
+b 1 c 2 b 4
+b 1 c 2 b 4
+d 1 c 1 f 2 d 2 b 1
+c 1 f 2 d 2 b 1
+c 2 b 4

@@ -1,0 +1,45 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 20, 2011"
+description "A large, floral, mixing bowl"
+difficulty 1.75
+height 9
+id 14785
+link "https://webpbn.com/play.cgi?id=14785"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Kitchen Utensil #2"
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 10
+black 1 red 1 green 1 red 1 red 1 green 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 green 1 red 1 red 1 green 1 red 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 green 1 red 1 black 1
+black 6
+0
+
+columns
+0
+black 1
+black 1 red 1 black 2
+black 1 green 1 red 1 black 2
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 green 1 red 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 green 1 red 1 red 1 green 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 green 1 red 1 black 1
+black 1 red 1 red 1 black 2
+black 1 black 2
+black 1
+0

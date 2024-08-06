@@ -1,0 +1,77 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by gregg licht"
+date "Jan  1, 2016"
+description "A computer on a green table displaying the Webpbn page displaying the same puzzle that is displayed on your computer right now. Maybe a PBN version of the movie "Inception"?"
+difficulty 1.75
+height 20
+id 27780
+link "https://webpbn.com/play.cgi?id=27780"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Room with a Deja View"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 35
+black 25 black 3
+black 25 black 3
+black 1 black 3 black 3
+black 3 black 3 black 12 black 11
+black 1 black 1 black 1 black 3 black 3
+black 1 black 2 black 14 black 3 black 3
+black 1 black 1 black 1 black 7 black 1 black 3 black 3
+black 3 black 3 black 1 black 1 black 1 black 2 black 1 black 11
+green 2 black 1 black 1 black 3 black 5 black 1 green 2 black 8
+green 2 black 1 black 3 black 1 black 1 green 1 black 6 green 2 black 2 black 1 green 3 black 7
+green 2 black 1 black 1 black 1 green 2 black 1 black 1 green 2 black 1 black 1 green 4 black 6
+green 2 black 1 red 1 black 14 black 1 green 5 black 5
+green 2 black 1 black 1 green 6 black 4
+green 2 black 23 green 7 black 3
+green 5 black 1 green 15 black 1 green 11 black 2
+green 3 black 21 green 10 black 1
+green 3 black 2 black 2 green 10
+green 4 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 green 9
+green 5 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 green 8
+
+columns
+black 1 black 1 black 1 green 11
+black 1 black 1 black 1 green 11
+black 15 green 5
+black 3 black 1 green 1 black 2 green 2
+black 3 black 1 black 1 black 1 black 1 black 1 green 1 black 3 green 1
+black 3 black 1 black 1 black 1 black 1 red 1 black 3 black 2
+black 3 black 1 black 1 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 green 1 black 1
+black 3 black 7 black 1 green 1 black 1 black 1
+black 3 black 1 black 1 black 1 green 1 black 1 black 1
+black 3 black 9 black 1 green 1 black 1 black 1
+black 3 black 1 black 1 black 1 green 2 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 black 5 green 1 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 black 2 black 3 black 1 green 1 black 1 black 1
+black 3 black 1 black 2 black 1 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 black 2 black 1 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 black 2 black 1 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 black 5 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 black 4 green 1 black 2 black 1 green 1 black 1 black 1
+black 3 black 1 black 1 black 1 green 2 black 1 black 1 green 1 black 1 black 1
+black 3 black 1 black 1 black 2 green 1 black 1 black 1 green 1 black 1 black 1
+black 3 black 9 black 3 black 1
+black 3 black 1 green 1 black 1 black 1
+black 3 black 1 green 1 black 2 black 1
+black 15 green 2 black 2
+black 9 green 9 black 2
+black 9 green 10 black 1
+black 1 black 1 black 2 green 10
+black 1 black 1 black 3 green 9
+black 1 black 1 black 4 green 8
+black 1 black 1 black 5 green 7
+black 1 black 1 black 6 green 6
+black 15 green 5
+black 16 green 4
+black 17 green 3

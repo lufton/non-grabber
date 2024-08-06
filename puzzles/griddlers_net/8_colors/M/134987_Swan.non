@@ -1,0 +1,70 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/14/13"
+height 25
+id 134987
+link "https://www.griddlers.net/nonogram/-/g/134987"
+medium_time "0:07:49"
+points 3923
+popularity 80.63
+title "Swan"
+width 20
+
+color a 97d7b8
+color b ffffff
+color c 808080
+color d dec339
+color e 000000
+color f c0c0c0
+color g b5dbef
+color h e7efef
+
+rows
+b 5
+c 3 b 4
+d 1 c 2 e 1 c 1 b 4
+d 3 c 2 b 6
+d 3 c 1 f 1 f 1 b 4
+f 1 b 3
+f 1 b 3
+f 1 b 3
+f 1 b 3
+f 1 b 3
+f 1 b 3
+f 1 b 4 b 1
+f 1 b 7 b 3
+b 15
+b 16
+b 16
+f 1 b 2 f 1 b 9 f 1 c 1 b 1
+f 2 b 2 f 3 b 4 f 2 c 1 b 2
+g 5 f 2 b 2 c 2 f 4 c 2 b 3
+g 1 h 2 g 1 h 2 f 2 b 3 c 4 b 4 f 1
+h 5 f 2 b 9 f 1 g 1
+g 8 f 4 b 3 f 1 g 3
+h 16 g 1
+h 2 g 16
+h 10 g 6
+
+columns
+d 2 g 2
+d 3 g 1 h 1 g 1
+c 2 d 2 g 1 h 2 g 1 h 1
+b 1 c 4 g 2 h 1 g 1 h 3
+b 1 c 1 e 1 c 1 f 1 b 2 f 2 g 1 h 2 g 1 h 1 g 1 h 1
+b 2 c 1 b 1 f 2 b 4 f 2 h 2 g 1 h 1 g 1 h 1
+b 4 f 1 f 2 b 7 f 2 h 1 g 1 h 1 g 1 h 1
+b 5 f 4 b 7 f 1 b 2 f 2 g 1 h 1 g 1 h 1
+b 16 f 1 b 2 f 1 g 1 h 1 g 1 h 1
+b 15 f 1 c 1 b 2 f 1 h 1 g 1 h 1
+b 6 b 5 f 1 c 1 b 2 f 1 h 1 g 1 h 1
+b 6 f 1 c 1 b 1 f 1 h 1 g 1 h 1
+b 6 f 1 c 1 b 1 f 1 h 1 g 1 h 1
+b 5 f 1 c 1 b 2 h 1 g 2
+b 5 f 1 c 1 b 2 h 1 g 2
+b 4 f 1 c 1 b 3 h 1 g 2
+b 4 f 1 c 1 b 2 f 1 h 1 g 2
+b 4 f 1 c 1 b 3 g 1 h 1 g 2
+b 5 c 1 b 3 f 1 g 1 h 1 g 2
+b 7 f 1 g 4

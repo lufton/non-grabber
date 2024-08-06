@@ -1,0 +1,49 @@
+by "bige"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/30/22"
+height 13
+id 259781
+link "https://www.griddlers.net/nonogram/-/g/259781"
+medium_time "0:02:22"
+points 7897
+popularity 75.62
+title "pickaxe"
+width 13
+
+color a FFFAFA
+color b 996600
+color d CC9933
+color e 006633
+color f 33FFCC
+color g 663300
+
+rows
+e 5
+e 1 f 5 e 1 b 1 d 1
+e 4 f 2 d 1 g 1
+b 1 f 2 e 1
+b 1 d 1 g 1 f 2 e 1
+b 1 d 1 g 1 e 1 f 1 e 1
+b 1 d 1 g 1 e 1 f 1 e 1
+b 1 d 1 g 1 e 1 f 1 e 1
+b 1 d 1 g 1 e 1 f 1 e 1
+b 1 d 1 g 1 e 1
+b 1 d 1 g 1
+b 1 d 1 g 1
+d 1 g 1
+
+columns
+b 1 d 1
+b 1 d 1 g 1
+b 1 d 1 g 1
+e 1 b 1 d 1 g 1
+e 1 f 1 e 1 b 1 d 1 g 1
+e 1 f 1 e 1 b 1 d 1 g 1
+e 1 f 1 e 1 b 1 d 1 g 1
+e 1 f 1 e 1 b 1 d 1 g 1
+e 1 f 2 b 1 d 1 g 1
+e 1 f 2 g 1
+b 1 d 1 f 2 e 4
+d 1 g 1 e 1 f 5 e 1
+e 5

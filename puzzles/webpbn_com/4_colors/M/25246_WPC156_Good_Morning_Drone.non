@@ -1,0 +1,62 @@
+by "Tonia Bergh (Tonia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tonia Bergh"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.25
+height 20
+id 25246
+link "https://webpbn.com/play.cgi?id=25246"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WPC#156 Good Morning, Drone!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 17
+black 10 black 3
+black 3 black 7 blue 1
+black 3 black 1 black 1 blue 2
+black 7 blue 4 black 5 blue 3
+blue 1 black 1 blue 1 black 1 blue 3 blue 3 black 1
+blue 2 black 5 black 5
+blue 2 black 1 black 1 black 1
+black 7 black 5
+black 1 black 1 black 1 black 1 black 1 blue 2
+black 7 blue 3 black 5 blue 3
+black 5 blue 3 black 3 black 3
+blue 2 black 5 blue 3 black 2 black 2
+black 5 black 3 black 3
+black 5 black 5
+black 3 black 3
+black 3
+green 1 black 3 green 3 green 4
+green 3 black 3 green 14
+green 20
+
+columns
+black 2 blue 2 blue 1 green 3
+black 2 black 1 blue 2 black 3 blue 1 green 2
+black 2 black 1 blue 1 black 1 black 1 black 5 green 2
+black 7 black 1 black 9 green 1
+black 5 blue 1 black 3 black 9 green 1
+black 7 black 1 black 9 green 1
+black 2 black 1 blue 1 black 1 black 1 black 5 green 2
+black 2 black 1 blue 1 black 3 blue 1 green 2
+black 2 blue 2 blue 2 green 3
+black 2 blue 1 blue 3 green 3
+black 1 blue 1 blue 2 green 3
+black 1 black 1 blue 2 blue 1 black 3 green 2
+black 1 black 1 black 1 blue 1 black 9 green 2
+black 5 blue 1 black 1 black 1 black 2 black 3 green 2
+black 3 black 3 black 3 black 2 green 3
+black 5 black 1 black 1 black 2 black 3 green 3
+black 1 black 1 black 1 black 9 green 3
+black 1 blue 1 blue 1 black 3 green 3
+blue 2 blue 2 green 2
+blue 3 blue 2 green 2

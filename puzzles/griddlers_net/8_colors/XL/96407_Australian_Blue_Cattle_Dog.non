@@ -1,0 +1,102 @@
+by "dunsford"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/15/10"
+height 48
+id 96407
+link "https://www.griddlers.net/nonogram/-/g/96407"
+medium_time "0:36:37"
+points 67679
+popularity 68.75
+title "Australian Blue Cattle Dog"
+width 29
+
+color a 95a557
+color b 282828
+color c f8afb5
+color d f2f2f2
+color e a58261
+color f 888889
+color g 684043
+color h cbc1b6
+
+rows
+h 1 h 3
+h 1 e 1 e 1 h 3
+h 1 d 1 e 2 e 2 h 4
+e 1 h 1 d 1 e 2 h 1 e 2 h 4
+e 1 h 1 d 1 e 3 e 3 h 2 e 1 h 1
+e 2 h 1 e 2 f 1 f 1 h 2 e 1 h 2 e 1 h 1
+e 3 h 1 d 2 f 2 d 1 f 5 d 2 h 2 e 2 h 1
+e 3 d 1 f 4 h 1 f 5 d 2 h 2 e 2
+e 3 f 5 h 1 f 5 d 3 h 1 e 2
+e 1 f 2 e 1 f 2 h 3 f 5 d 3 e 1
+e 1 f 1 e 3 h 1 e 3 h 1 f 8
+f 1 e 4 h 1 e 2 h 3 f 7
+f 1 g 2 d 1 f 1 h 1 e 2 g 2 h 1 f 2 h 1 f 3
+e 1 d 2 f 1 e 1 f 1 e 1 g 1 e 3 f 6
+d 2 f 2 e 1 h 2 e 4 d 1 f 5
+d 4 e 1 h 1 e 7 h 3 f 2
+b 4 h 1 e 4 h 2 d 1 e 3 h 3 f 2
+b 4 h 1 e 3 h 2 f 1 h 2 e 2 h 2 e 1 f 2
+b 4 e 1 h 1 e 1 h 2 e 3 h 1 e 2 h 2 e 1 f 2
+b 2 f 2 h 1 e 1 f 1 h 1 e 1 h 3 e 2 h 1 e 2 h 2
+f 3 e 1 f 2 h 3 f 1 b 1 h 1 e 5 h 1 f 1
+c 5 f 3 b 1 h 1 e 4 h 2 f 2 b 1
+c 4 f 2 b 2 h 3 e 3 h 4 b 1 f 1
+c 2 b 3 h 4 e 1 h 1 e 1 h 3 f 1 h 1 b 1 f 2
+b 2 h 3 e 2 h 4 e 1 h 3 f 2 b 1 e 1 f 1
+h 3 e 4 h 7 f 2 b 1 f 3
+d 1 e 2 h 1 e 5 h 5 f 2 b 1 f 4
+b 1 e 2 h 1 e 5 h 4 f 2 h 1 b 1 h 3 f 2
+d 1 b 1 e 10 h 1 f 1 h 1 b 1 h 1 f 2 h 2 f 1
+d 1 b 1 e 10 h 2 b 2 f 4 h 1 f 1
+h 1 b 2 e 8 f 1 b 2 f 1 h 1 f 1 h 1 f 2 h 1
+d 2 b 2 e 6 f 1 b 2 f 3 h 2 f 1 h 3
+d 3 h 1 b 8 e 1 f 2 h 2 f 2 h 1 f 2 h 1
+d 3 h 2 b 6 e 2 f 1 h 4 f 2 h 1 f 2
+h 1 d 1 e 1 d 2 b 9 h 1 f 2 h 2 f 2 h 2
+h 1 d 1 e 2 d 1 f 6 b 3 f 4 d 2 f 1 d 2 h 1
+d 3 e 2 d 1 f 13 d 4 h 1
+d 2 f 2 e 1 d 2 f 8 h 1 d 1 h 2 e 3 d 1 f 1
+d 1 f 4 e 1 d 3 f 3 h 1 f 2 h 2 d 4 e 1 h 1 f 2
+d 2 h 1 f 4 d 2 f 2 h 7 e 1 d 3 h 1 f 2
+d 3 h 1 e 3 d 1 f 1 h 1 e 6 h 1 e 2 d 4 f 2
+d 2 h 1 e 1 h 1 e 1 d 2 h 1 e 8 d 3 h 1 d 1 f 3
+d 3 e 1 h 1 e 1 d 3 e 2 h 3 e 2 d 4 h 1 d 1 f 3
+d 2 e 1 h 1 e 1 d 2 f 1 h 1 e 2 h 1 e 2 d 4 h 3 f 3
+d 1 e 4 d 2 f 1 h 2 e 5 d 3 h 3 f 3
+d 1 e 3 f 2 d 1 h 3 e 5 d 3 f 1 h 2 f 3
+d 1 h 2 e 1 f 3 h 1 f 1 h 1 e 4 d 4 f 1 h 3 f 2
+d 1 h 2 e 2 f 2 h 1 f 2 h 1 e 2 d 6 e 1 h 2 f 2
+
+columns
+h 1 e 6 b 3
+h 2 d 1 h 2 e 6 f 2 d 1 b 4 f 1
+e 2 d 2 h 1 e 3 f 2 e 1 g 1 e 1 d 2 b 4 f 1 c 2
+e 4 h 1 d 1 f 2 e 2 g 1 d 3 b 3 f 2 c 3 b 1 d 1 b 1 d 2 d 2 h 2 d 5
+e 3 d 1 f 2 e 3 d 2 f 1 d 1 h 2 e 1 f 1 e 1 c 3 b 1 h 1 e 2 b 2 h 1 d 7 f 1 d 4
+e 1 f 1 d 1 f 3 e 2 f 3 e 3 h 2 f 1 c 2 b 1 h 2 e 4 b 1 d 3 e 2 d 1 f 2 h 1 d 8
+f 4 h 3 e 2 h 1 e 4 f 1 c 1 f 1 b 1 h 4 e 2 b 2 h 2 d 1 e 2 f 3 h 2 d 2 e 2 h 2
+f 3 h 1 e 3 f 1 h 1 e 3 h 1 f 1 h 1 f 2 b 1 h 1 e 6 b 2 h 1 d 2 e 2 f 2 e 6 h 2
+d 1 h 3 e 4 h 1 e 2 h 4 f 1 b 1 h 1 e 8 b 3 f 1 d 2 e 1 f 1 e 1 h 3 e 4
+f 3 h 1 e 1 h 1 g 2 e 2 h 2 e 2 h 1 f 1 b 1 h 1 e 8 b 3 f 2 d 2 f 1 e 5 f 2 e 1
+f 4 h 2 g 1 e 3 h 1 f 1 e 1 h 1 f 1 b 1 h 3 e 7 b 3 f 3 d 7 f 3
+f 5 h 2 e 3 d 1 h 1 e 1 h 1 b 1 h 5 e 6 b 3 f 3 d 2 f 1 d 5 f 2
+f 7 e 4 h 4 e 1 h 1 e 1 h 4 e 4 b 3 f 5 h 2 d 1 f 2 h 3
+f 9 d 1 e 8 h 5 e 4 b 3 f 5 e 3 h 3 f 2
+h 1 e 1 h 1 d 3 f 3 h 1 f 2 h 1 e 9 h 3 e 3 f 1 b 1 e 1 b 2 f 3 h 1 e 4 h 3 f 1
+e 3 h 1 d 4 f 5 h 5 e 3 h 7 f 1 b 1 e 2 b 2 f 2 h 2 e 2 h 1 e 4 h 1
+e 5 h 2 d 2 f 5 h 4 e 2 h 6 f 2 h 1 b 2 f 2 b 2 f 3 h 1 e 2 h 2 e 4
+h 9 d 1 f 6 h 1 e 4 h 5 f 2 h 1 b 2 f 2 h 2 f 4 h 1 e 2 h 1 e 5
+h 6 e 4 f 2 f 6 h 2 f 1 h 1 f 4 h 1 b 2 f 2 h 2 f 3 h 3 e 7 d 1
+h 4 e 5 f 3 h 1 f 2 h 2 f 2 b 2 h 1 f 1 h 1 f 1 h 2 f 3 d 1 h 3 e 2 d 1 e 2 d 2
+h 5 b 5 f 1 h 1 f 3 h 1 f 1 h 2 f 2 h 1 d 1 h 1 e 2 d 6
+f 2 e 1 f 2 h 1 f 2 h 2 f 2 h 1 d 1 f 1 h 1 d 1 e 2 d 7
+f 4 h 2 f 3 h 1 f 2 d 2 e 1 d 10
+f 3 h 2 f 1 h 1 f 1 h 1 f 2 d 1 e 1 d 5 h 2 f 2 d 1
+f 3 h 2 f 2 h 1 d 2 e 2 d 2 h 6 e 1
+h 2 f 1 h 1 d 3 h 2 d 3 h 5
+h 2 f 9 h 2
+f 10
+f 7

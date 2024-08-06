@@ -1,0 +1,57 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Sep 17, 2013"
+description ""
+difficulty 1.25
+height 15
+id 22786
+link "https://webpbn.com/play.cgi?id=22786"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Try this one."
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 2
+black 2 blue 2 green 2
+black 3 blue 3 green 6
+black 4 blue 4 green 7
+black 2 blue 5 green 3 green 1
+black 2 blue 3 blue 2 green 3
+black 2 blue 2 blue 2 green 6
+black 2 blue 7 green 6
+black 2 blue 7 green 2
+black 2 blue 2 green 2 green 2
+black 2 blue 2 green 7
+black 4 blue 4 green 5
+black 4 blue 4 green 2
+green 2
+
+columns
+black 1
+black 2 black 2
+black 12
+black 12
+black 2
+blue 4
+blue 5
+blue 3 blue 2
+blue 3 blue 2 blue 2
+blue 12
+blue 12
+blue 2 blue 2
+0
+green 4 green 2
+green 6 green 3
+green 6 green 2
+green 4 green 2 green 4
+green 4 green 2 green 4
+green 2 green 6
+green 3 green 4

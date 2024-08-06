@@ -1,0 +1,61 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wombat"
+date "Apr 29, 2014"
+description "And don't let the paint get on the furniture!"
+difficulty 2.25
+height 20
+id 24348
+link "https://webpbn.com/play.cgi?id=24348"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Watch that drip..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 1
+black 2
+black 3
+black 4
+black 4
+black 4
+black 8
+green 1 black 2 black 3
+green 2 black 1
+green 3 black 1
+green 4 black 2
+green 8 black 2
+green 8
+green 6
+green 3
+green 2
+green 1
+green 1
+0
+
+columns
+0
+0
+0
+0
+green 5
+green 9
+green 7
+green 7
+black 1 green 4
+black 2 green 3
+black 1 green 2
+black 1 green 2
+black 1 black 1
+black 2 black 2
+black 6
+black 4
+black 4
+black 4
+black 4
+black 4

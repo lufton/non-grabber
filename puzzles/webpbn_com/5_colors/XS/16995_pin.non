@@ -1,0 +1,52 @@
+by "sophie beswick (sophieb44)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by sophie beswick"
+date "Jan  3, 2012"
+description "my first puzzle"
+difficulty 1.0
+height 25
+id 16995
+link "https://webpbn.com/play.cgi?id=16995"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "pin"
+width 4
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+red 4
+black 1 red 1 black 1 red 1
+red 4
+black 1 red 1 black 1 red 1
+red 1 black 1 red 2
+green 4
+green 4
+green 4
+green 4
+green 4
+green 4
+blue 1 red 2 blue 1
+blue 1 red 2 blue 1
+blue 1 red 2 blue 1
+red 4
+
+columns
+blue 10 red 1 black 1 red 1 black 1 red 1 green 6 blue 3 red 1
+blue 10 red 4 black 1 green 6 red 4
+blue 10 red 1 black 1 red 1 black 1 red 1 green 6 red 4
+blue 10 red 5 green 6 blue 3 red 1

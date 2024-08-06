@@ -1,0 +1,62 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Mar 11, 2012"
+description "A small media blaster booth for removing paint from parts."
+difficulty 1.75
+height 20
+id 17880
+link "https://webpbn.com/play.cgi?id=17880"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Shop tools Brian may not make # 7."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2 green 3 black 1
+black 2 green 1 black 2
+black 2 black 2
+black 2 black 2
+black 17
+black 1 black 1
+black 1 black 1
+black 1 green 1 green 1 black 1 green 1
+black 1 green 2 green 3 black 1 green 2
+black 1 green 1 green 1 black 1 green 1
+black 1 red 3 red 1 black 1 red 1
+black 1 red 6 red 3 black 1 red 2
+black 1 red 11 black 1 red 2
+black 1 red 6 red 5 black 1 red 2
+black 1 red 6 red 6 black 1 red 1
+black 1 red 2 red 5 red 3 black 1
+black 1 red 1 red 1 red 1 red 2 black 1
+black 1 red 2 red 2 red 2 red 2 black 1
+black 1 red 4 red 4 black 1
+black 1 red 2 red 2 black 1
+
+columns
+black 17
+black 3 green 3
+black 2 black 1 green 1 red 3
+black 2 black 1 red 2 red 2
+black 1 black 1 red 2 red 2
+black 1 red 3 red 2
+black 1 red 5 red 2
+black 1 red 7
+black 1 red 6
+black 1 green 1 red 4 red 3
+green 1 black 1 green 3 red 3 red 2 red 2
+green 2 black 1 green 1 red 4 red 2
+green 1 black 1 red 3 red 2
+black 1 red 5 red 2
+black 1 red 7
+black 1 red 7
+black 17
+black 2 red 5
+black 2 green 1 red 3
+black 2 green 3

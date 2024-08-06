@@ -1,0 +1,36 @@
+by "elik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/25/24"
+height 8
+id 278029
+link "https://www.griddlers.net/nonogram/-/g/278029"
+medium_time "0:00:44"
+points 32
+popularity 68.91
+title "Christmas Tree"
+width 6
+
+color a ffffff
+color c CC9900
+color d 66CC00
+color e FFFF33
+color g FF3300
+
+rows
+e 1
+e 2
+d 3
+d 1 g 1 d 1
+d 3
+g 1 d 3
+d 4 g 1 d 1
+c 2
+
+columns
+d 1
+d 1 d 1 g 1 d 1
+e 1 d 5 c 1
+e 2 d 1 g 1 d 3 c 1
+d 1 d 1 g 1
+d 1

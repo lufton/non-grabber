@@ -1,0 +1,73 @@
+by "Ellen Vollor (evollor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Ellen Vollor"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 25423
+link "https://webpbn.com/play.cgi?id=25423"
+note "published,may be unique,may require moderate lookahead"
+quality 2.75
+title "WCP #158 Below the waste..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3
+red 1 green 4 green 2 blue 1 black 1
+green 5 red 1 green 2 blue 4 black 1
+black 1 red 1 green 5 blue 6
+black 1 green 5 red 1 green 2 blue 2 red 1 blue 3 green 1
+black 1 black 1 green 4 blue 2 red 1 blue 1 red 1 blue 2 green 1
+black 1 red 2 green 3 red 1 blue 2 red 1 blue 2 green 1
+red 1 black 1 blue 3 green 1
+black 2 black 2 blue 1 green 1
+black 1 black 2 black 3 green 1
+black 2 black 1 black 6 black 2
+black 1 black 2 red 1 black 5
+black 2 red 3 black 1 blue 3 green 3 black 2 black 3
+black 5 black 2 red 1 blue 5 black 3 black 2
+black 4 black 1 blue 4 black 2 red 3
+black 4 black 1 red 2 green 2 blue 1 black 3 blue 2 green 2 black 1
+black 7 black 5 blue 5 black 2
+black 1 red 1 black 1 red 1 black 1 green 1 blue 3 black 6
+black 1 black 3 black 2 green 1 black 4 blue 3 green 2
+black 3 blue 6
+
+columns
+black 3 black 3
+black 2 black 2 black 1
+red 1 black 4 red 1 black 1
+red 1 black 6
+black 4 red 1 black 4 red 1 black 1
+red 1 black 6
+red 2 black 1 black 2 black 3
+black 2 black 3 black 1
+black 1 black 2 black 1 red 1
+red 1 green 3 black 1 red 1 black 1
+green 4 black 1 black 1 red 1 green 1 black 1
+red 1 green 5 black 1 blue 2 green 1 black 1 black 1
+green 5 red 1 black 1 red 1 blue 4 black 1 green 2 black 1
+green 5 black 2 blue 3 black 2 blue 1 black 2
+green 4 red 1 black 1 blue 3 black 1 blue 2 black 1 blue 1
+green 3 black 1 green 1 blue 1 black 2 blue 2 black 1 blue 1
+red 1 black 1 green 1 black 2 blue 2 black 2 blue 1
+black 2 green 1 black 1 blue 2 black 1 blue 2
+black 2 black 2 green 1 blue 1 black 1 blue 2
+green 1 black 1 black 1 green 1 black 1 blue 2
+green 1 blue 1 black 2 black 1 green 1
+green 1 blue 3 black 1 black 2 green 1
+green 1 blue 2 red 1 blue 2 red 1 black 2
+green 1 blue 2 red 1 blue 1 red 1 blue 2 red 1
+green 1 blue 3 red 1 blue 2 green 2 black 1 red 1
+blue 6 black 2
+black 1 blue 4 green 2 black 1
+black 1 blue 1 green 2 black 1
+0
+0

@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/4/19"
+height 15
+id 200431
+link "https://www.griddlers.net/nonogram/-/g/200431"
+medium_time "0:07:13"
+points 1125
+popularity 76.2
+title "Chicken"
+width 15
+
+color a 33ccff
+color d ff6633
+color e ff0033
+color g 990000
+color h 000000
+
+rows
+g 1
+e 1 g 2 g 1
+e 3 g 1 h 3
+d 3 e 1 g 1 h 1 g 1
+e 1 d 1 h 1 d 1 h 1 g 3
+e 2 d 3 h 1 g 2 g 1
+d 3 d 2 g 1 h 2 g 1
+h 1 d 6 h 1 d 1 g 1 h 2
+h 1 d 3 h 1 d 4 g 1 h 1
+h 2 d 1 h 2 d 2 h 1 d 1 g 1
+h 1 d 1 h 1 d 2 h 1 d 1
+d 3 h 1 d 1
+d 2
+e 1
+e 2
+
+columns
+e 1
+e 2
+e 1 d 3 h 3
+e 2 d 1 h 1 d 4 h 2
+e 1 d 9
+e 1 d 3 h 2 d 2 e 1
+d 1 h 2 d 3 e 2
+d 4 h 1
+d 4 h 1 d 1
+g 2 h 2 d 1 h 1 d 1 h 1 d 1
+g 1 h 2 g 2 d 3
+g 1 h 1 g 2 h 1 g 2
+g 1 h 1 g 2 h 2 g 1
+g 1 g 2 h 2
+g 1

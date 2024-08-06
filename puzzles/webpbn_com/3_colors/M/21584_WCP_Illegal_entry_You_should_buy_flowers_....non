@@ -1,0 +1,61 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jota"
+date "Apr  4, 2013"
+description "Cause you've got lipstick on your underwear!"
+difficulty 1.75
+height 20
+id 21584
+link "https://webpbn.com/play.cgi?id=21584"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP Illegal entry! You should buy flowers ..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 13
+black 1 black 1
+black 13
+black 1 black 1
+black 1 red 2 black 2
+black 1 red 1 red 1 black 2
+black 1 red 2 black 2
+black 1 black 1 black 2
+black 1 black 1 black 1
+black 1 black 2 black 2
+black 1 black 1 black 2
+black 1 black 2 black 1
+black 1 black 1
+black 1 black 3 black 1
+black 1 black 1 black 2 black 1
+black 1 black 1 black 3 black 1
+black 1 black 1 black 3 black 1
+black 1 black 1 black 6
+
+columns
+0
+black 18
+black 1 black 1
+black 1 black 1 red 1
+black 1 black 1 red 1 red 1
+black 1 black 1 red 1 red 1
+black 1 black 1 red 1
+black 1 black 1
+black 1 black 1 black 3 black 5
+black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 2
+black 1 black 1 black 2
+black 5 black 2
+black 2 black 2
+black 2 black 1
+black 2 black 1
+black 3 black 1
+black 2 black 1
+black 8

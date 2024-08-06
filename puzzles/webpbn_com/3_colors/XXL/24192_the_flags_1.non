@@ -1,0 +1,219 @@
+by "todd loertscher (yoshiario)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by todd loertscher"
+date "Apr  6, 2014"
+description "the american flag"
+difficulty 1.25
+height 99
+id 24192
+link "https://webpbn.com/play.cgi?id=24192"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "the flags #1"
+width 99
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 58
+blue 1 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 58
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 58
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 58
+blue 1 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2
+blue 1
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 58
+blue 1 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 58
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 58
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 58
+blue 1 black 58
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2
+blue 1
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3
+blue 2 blue 4 blue 33 black 58
+blue 1 blue 2 blue 32 black 58
+blue 31 black 58
+blue 1 blue 2 blue 32 black 58
+blue 2 blue 4 blue 33 black 58
+blue 41 black 58
+black 99
+black 99
+0
+0
+0
+0
+0
+0
+0
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+0
+0
+0
+0
+0
+0
+0
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+0
+0
+0
+0
+0
+0
+0
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+0
+0
+0
+0
+0
+0
+0
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+black 99
+
+columns
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 2 black 8 black 8 black 8 black 9
+blue 1 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 2 black 8 black 8 black 8 black 9
+blue 1 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 blue 2 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 4 blue 3 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 6 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 6 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 6 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 6 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 6 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 6 black 2 black 8 black 8 black 8 black 9
+blue 1 blue 2 blue 2 blue 2 blue 2 blue 2 blue 7 black 2 black 8 black 8 black 8 black 9
+blue 2 blue 4 blue 4 blue 4 blue 4 blue 4 blue 8 black 2 black 8 black 8 black 8 black 9
+blue 36 black 2 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9
+black 8 black 8 black 8 black 8 black 8 black 8 black 9

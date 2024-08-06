@@ -1,0 +1,31 @@
+by "Shannon Creviston (sacrevi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Shannon Creviston"
+date "May 17, 2011"
+description "Slap shot!"
+difficulty 1.25
+height 5
+id 13969
+link "https://webpbn.com/play.cgi?id=13969"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "More minimal sports 2"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1
+blue 1
+blue 2
+blue 5
+blue 1 black 2 blue 1
+
+columns
+blue 2
+blue 1 black 1
+blue 1 black 1
+blue 3
+blue 4

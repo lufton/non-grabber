@@ -1,0 +1,101 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Teresa K"
+date "Jun 28, 2011"
+description "Energy Resource: Fission. In nuclear power plants like this one, neutrons collide with uranium atoms, splitting them inside the core (red). This releases neutrons that in turn collide with other atoms, causing a chain reaction. Fission releases energy that heats water to about 520 degrees F in the core of the plant. This hot water is then used to spin turbines that are connected to generators which produce electricity. The steam is cooled by water that is piped in from and out to the cooling tower."
+difficulty 2.0
+height 30
+id 14981
+link "https://webpbn.com/play.cgi?id=14981"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Where Do You Get All That Energy? #2"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4 black 5 black 26 black 2 black 2 black 2
+black 3 black 9 black 25 black 1 black 2 black 1
+black 2 black 11 black 25 black 1 black 2 black 1
+black 1 black 13 black 24 black 2 black 1 black 1
+black 15 black 22 black 2 black 1 black 2
+black 17 black 11 black 10 black 2 black 1 black 2
+black 12 black 1 black 10 black 2 black 2 black 2
+black 12 black 4 black 8 black 19
+black 11 black 3 black 8 black 1 black 9 black 1
+black 6 black 3 black 1 black 2 black 7 black 2 black 9 black 1
+black 6 black 2 black 3 black 1 black 6 black 2 black 1 black 1
+black 6 black 2 black 5 black 1 black 5 black 1 black 2 black 7 black 2 black 2
+black 6 black 2 black 5 black 1 black 5 black 3 black 1 black 7 black 2 black 2
+black 4 black 5 black 1 black 5 black 2 black 1 black 1 black 2 black 2 black 2
+black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 2
+black 3 black 2 black 2 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 2 black 2 black 2
+black 3 black 2 black 2 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 2 black 2 black 2 black 2
+black 3 black 2 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 5 black 1 black 2 black 2 black 1 black 1
+black 3 black 2 black 1 black 1 black 1 black 1 black 2 black 2 black 5 black 1 black 1
+black 3 black 2 black 2 black 3 black 1 black 1 black 2 black 2 black 5 black 9 black 1
+black 3 black 1 red 3 black 1 black 1 black 1 black 2 black 2 black 5 black 8
+black 1 black 1 red 3 black 1 black 1 black 2 black 2 black 2 black 3
+black 1 black 1 black 5 black 3 black 3 black 2 black 2 black 2 black 1 black 8
+black 1 black 1 black 3 black 3 black 2 black 2 black 2 black 2 black 8
+black 1 black 11 black 3 black 2 black 2 black 2 black 2 black 7
+black 1 black 11 black 3 black 2 black 2 black 2 black 2 black 7
+black 1 black 4 black 4 black 3 black 2 black 2 black 2 black 1 black 7
+black 1 black 1 black 3 black 2 black 3
+black 6 black 8 black 5 black 5 black 7
+black 17 black 5 black 5 black 7
+
+columns
+black 4
+black 3 black 25
+black 2 black 17 black 2
+black 1 black 18 black 5 black 2
+black 12 black 3 black 2
+black 12 black 8 black 3 black 2
+black 12 black 6 red 2 black 1 black 3 black 2
+black 9 red 2 black 1 black 2 black 1
+black 13 black 6 red 2 black 1 black 2 black 1 black 1
+black 13 black 3 black 4 black 2 black 1
+black 10 black 3 black 2
+black 9 black 7 black 1 black 6 black 2
+black 7 black 4 black 1 black 5 black 2
+black 5 black 5 black 6 black 5 black 2
+black 4 black 1 black 4 black 2
+black 1 black 3 black 2 black 9 black 8
+black 2 black 2 black 3 black 9
+black 3 black 1 black 8 black 13
+black 4
+black 6 black 8 black 13
+black 6 black 7 black 12
+black 6 black 7 black 2
+black 6 black 7 black 9 black 2
+black 6 black 20 black 2
+black 6 black 4
+black 6 black 3 black 18
+black 6 black 2 black 3 black 15
+black 6 black 1 black 6 black 3
+black 7 black 3 black 4 black 3 black 2
+black 6 black 6 black 6 black 5 black 2
+black 5
+black 10 black 3 black 3 black 2 black 5 black 2
+black 10 black 2 black 2 black 5 black 2
+black 10 black 2 black 2 black 2 black 5 black 2
+black 10 black 2 black 2 black 2 black 5 black 2
+black 10 black 2 black 2 black 5 black 2
+black 10 black 3 black 3 black 2 black 5 black 2
+black 10 black 7 black 2 black 5 black 2
+black 10 black 2 black 2
+black 20
+black 8 black 6
+black 2 black 1
+black 1 black 3
+black 8
+black 2 black 1
+black 2 black 2
+black 8
+black 1 black 1
+black 1 black 4 black 6
+black 20

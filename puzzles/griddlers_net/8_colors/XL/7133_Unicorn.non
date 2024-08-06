@@ -1,0 +1,95 @@
+by "Ratbag"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/6/04"
+height 35
+id 7133
+link "https://www.griddlers.net/nonogram/-/g/7133"
+medium_time "0:27:52"
+points 29496
+popularity 76.47
+title "Unicorn"
+width 35
+
+color a 428efe
+color b a0a0d4
+color c e6e6fe
+color d 000093
+color e cfcffe
+color f a70079
+color g 8282c4
+color h 464646
+
+rows
+0
+f 5
+f 16
+f 17
+f 7 b 1 e 4 f 7
+f 7 b 1 e 6 f 6
+f 1 f 9 b 5 e 1 f 6
+f 1 f 14 b 1 e 1 f 6
+f 12 b 1 f 2 e 2 b 1 e 1 f 6
+f 3 g 1 f 4 b 2 f 2 e 5 f 5
+g 1 b 1 e 3 b 1 f 2 e 7 f 4
+g 20 c 2 b 1 e 5 f 1 e 1 f 5
+g 2 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 4 g 1 e 6 f 2 e 1 f 3
+b 4 h 3 e 1 g 1 e 1 g 1 c 1 g 1 c 1 g 1 c 3 e 9 f 4
+g 1 h 3 g 1 e 2 g 1 c 6 e 6 f 4
+g 1 h 3 e 1 c 3 e 1 d 1 e 1 d 2 e 3 f 5
+g 1 c 2 e 2 c 3 e 1 d 1 g 1 d 2 e 3 f 5
+g 1 c 1 e 2 c 3 e 2 d 2 e 4 f 5
+g 1 c 1 e 2 c 3 e 8 f 5
+f 4 g 1 c 2 e 1 c 3 e 5 c 2 e 1 f 5
+f 6 g 1 c 2 e 1 c 3 e 5 c 2 e 1 f 5
+f 6 g 1 c 6 e 4 c 3 e 2 f 4
+f 7 g 1 c 6 e 3 c 3 e 2 b 1 f 4
+f 7 g 1 c 5 e 4 c 2 e 3 b 1 f 4
+f 2 f 2 g 1 c 5 e 3 c 2 e 3 b 1 e 1 f 4
+f 2 f 1 g 1 c 5 e 3 c 1 e 3 h 1 e 2 f 4
+f 1 g 1 c 6 e 1 c 2 e 2 h 1 e 3 f 4
+g 1 c 3 b 1 g 1 h 1 c 2 e 2 h 1 e 4 f 4
+g 1 c 5 g 2 c 2 e 1 c 1 h 1 b 1 e 2 f 1 e 1 f 3
+g 1 c 5 b 1 g 1 c 1 e 2 c 1 h 1 b 1 c 1 e 3 f 3
+g 1 e 3 c 5 e 1 h 1 c 1 h 1 f 1 b 1 c 1 e 2 f 3
+g 1 e 4 c 4 e 1 h 1 c 1 h 1 f 1 b 1 c 1 e 2 f 3
+h 1 e 7 h 1 c 2 h 1 f 2 b 1 c 1 e 1 f 3
+h 1 e 5 h 1 c 2 h 1 f 3 b 1 c 1 e 1 f 3
+h 6 h 2 f 5 b 1 f 3
+
+columns
+g 1
+g 2
+g 2
+g 1 e 1
+g 1 c 1 b 1
+g 1 e 1 b 1
+g 1 c 1 b 1
+g 1 e 1 b 1
+g 1 c 1 h 1 f 4
+g 1 e 1 h 1 f 7
+f 2 g 1 c 1 h 1 f 4
+f 1 f 2 g 1 e 2 g 1 f 5
+f 2 g 1 c 1 g 1 h 1 f 5
+f 3 g 1 e 2 h 1 f 6
+f 3 g 1 c 1 g 1 h 1 g 2 f 7 g 4
+f 4 g 1 e 1 c 1 g 1 h 1 c 1 g 11 c 2 e 2 h 1
+f 5 g 3 c 1 g 1 e 1 h 1 c 14 e 3 h 2
+f 6 b 1 g 1 e 1 c 1 e 1 h 1 e 3 c 11 e 4 h 1
+f 7 e 1 g 1 c 1 g 2 e 6 c 10 e 3 h 1
+f 8 e 1 g 1 c 15 b 1 c 4 e 2 h 1
+f 8 e 1 c 16 g 2 b 1 c 2 e 2 h 1
+f 7 b 2 c 12 e 3 c 1 h 1 g 2 c 2 e 2 h 1
+f 3 b 1 f 2 b 2 f 1 b 1 g 1 e 1 c 1 e 12 c 5 e 1 h 1
+f 2 b 1 e 1 b 1 f 4 e 3 c 1 d 2 e 9 c 3 e 3 h 1 c 1 h 1
+f 2 e 2 b 1 f 3 e 4 c 1 e 1 g 1 d 1 e 6 c 3 e 3 h 2 c 2 h 1
+f 2 e 2 b 1 f 1 e 7 d 3 e 4 c 3 e 3 c 5 h 1 f 1
+f 3 e 2 b 1 f 1 e 7 d 2 e 4 c 3 e 3 h 6 f 2
+f 3 e 2 b 3 e 10 c 4 e 3 h 1 e 1 b 2 f 5
+f 4 e 6 f 1 e 7 c 3 e 3 h 1 e 3 c 1 b 2 f 3
+f 8 e 3 f 1 e 11 b 1 e 5 c 2 b 2 f 1
+f 9 e 1 f 2 e 2 f 6 e 1 b 2 e 4 f 1 e 3 c 2 b 1
+f 10 e 1 f 15 e 6
+f 33
+f 33
+f 33

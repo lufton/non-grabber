@@ -1,0 +1,38 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/16/05"
+height 9
+id 26785
+link "https://www.griddlers.net/nonogram/-/g/26785"
+medium_time "0:01:33"
+points 195
+popularity 49.05
+title "Strawberry"
+width 9
+
+color a ffffff
+color b 00cc00
+color c ff0000
+
+rows
+b 2 b 1 b 2
+b 1 b 1 b 1
+b 5
+b 2 c 1 b 1 c 1 b 2
+c 6
+c 6
+c 4
+b 1 c 2 b 1
+b 2 b 2
+
+columns
+b 2 b 2
+b 1 b 1 c 2 b 1
+b 2 c 3
+b 1 c 5
+b 4 c 4
+b 1 c 4
+b 2 c 2
+b 1 b 1 b 1
+b 2 b 2

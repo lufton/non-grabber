@@ -1,0 +1,88 @@
+by "iris"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/23/04"
+height 31
+id 11338
+link "https://www.griddlers.net/nonogram/-/g/11338"
+medium_time "0:16:11"
+points 23052
+popularity 67.41
+title "South Park - Cartman Native"
+width 32
+
+color a ffffff
+color b c6a500
+color c ffb59c
+color d 6ba5a5
+color e 7bceef
+color f ffd6c6
+color g 000000
+color h b54a00
+
+rows
+b 3 c 1 b 1
+b 7 c 1 b 1 c 1 b 1
+b 9 c 1 b 1 c 1 b 1 c 1 b 1
+d 2 e 9 d 2 b 1 c 1 b 1 c 1 b 1
+d 2 e 13 d 2 b 1 c 1 b 1
+d 1 e 3 c 10 e 4 d 1 c 1 b 1
+d 1 c 4 e 10 c 5 d 1 b 1
+d 1 e 7 d 8 e 6 d 1
+d 1 e 4 d 4 c 3 f 2 c 3 d 4 e 3 d 1
+d 1 e 3 d 2 f 2 c 2 c 2 c 2 f 2 d 4
+d 4 f 3 c 1 c 1 c 1 f 4 c 1
+c 1 f 6 c 1 g 1 c 1 g 1 c 1 f 4 c 1
+c 1 f 6 c 1 c 1 c 1 f 4 c 1
+c 1 f 6 c 1 c 2 c 1 f 4 c 1
+c 1 f 4 b 1 f 1 c 1 c 1 f 2 c 1 c 1 f 1 b 1 f 2 c 1
+h 1 c 1 f 2 b 1 f 3 c 3 f 4 c 3 f 3 b 1 f 1 c 1
+h 2 c 1 f 3 b 1 f 12 b 1 f 2 c 1 h 2
+h 4 c 1 f 1 b 1 f 5 c 4 f 5 b 1 c 1 h 4
+h 5 c 2 f 6 g 2 f 5 c 2 h 6
+h 8 c 2 f 9 c 2 g 1 h 5 b 3
+b 3 h 5 g 1 h 1 c 9 d 1 h 1 g 1 h 4 b 5
+b 5 h 5 g 1 h 1 d 8 h 1 g 1 h 4 b 6
+b 6 h 5 g 1 h 2 d 4 h 2 g 1 h 6 b 5
+b 6 h 6 g 1 h 6 g 1 h 7 b 5
+b 4 h 8 g 2 e 2 g 2 h 9 b 3
+h 12 e 4 h 12
+c 11 e 4 c 12
+h 1 c 2 h 2 c 2 h 2 c 2 h 1 e 2 c 2 h 2 c 2 h 1 c 2 h 1 c 2
+h 26
+g 24
+g 26
+
+columns
+b 3
+h 1 b 5
+d 2 c 3 h 3 b 5 h 1
+d 1 e 1 d 1 f 3 c 1 h 5 b 5 h 1 c 1 h 2 g 1
+d 1 e 2 d 1 f 4 c 1 h 5 b 4 h 1 c 2 h 1 g 2
+d 1 e 3 d 1 f 5 c 1 h 5 b 2 h 2 c 2 h 1 g 2
+d 1 c 1 e 2 d 1 f 7 c 1 h 8 c 1 h 2 g 2
+d 1 e 1 c 1 e 2 d 1 f 5 b 1 f 2 c 1 h 7 c 1 h 2 g 2
+d 1 e 1 c 1 e 1 d 1 f 5 b 1 f 2 b 1 c 1 h 7 c 2 h 1 g 2
+d 1 e 2 c 1 e 1 d 1 f 1 c 4 f 2 b 1 f 2 c 1 g 1 h 5 c 2 h 1 g 2
+d 1 e 1 c 1 e 2 d 1 c 1 c 1 f 4 c 1 h 1 g 1 h 4 c 1 h 2 g 2
+b 1 e 2 c 1 e 2 d 1 c 1 c 1 f 4 c 1 h 1 g 1 h 3 c 1 h 2 g 2
+b 2 e 2 c 1 e 1 d 1 c 1 c 1 f 4 c 1 d 1 h 1 g 1 h 2 c 2 h 1 g 2
+b 2 e 2 c 1 e 1 d 1 c 1 c 1 f 4 c 1 d 1 h 2 g 1 h 1 c 2 h 1 g 2
+b 3 e 2 c 1 e 1 d 1 c 1 g 1 c 1 f 2 c 1 f 2 c 1 d 2 h 1 g 1 e 2 h 2 g 2
+b 3 e 2 c 1 e 1 d 1 f 1 c 1 c 1 f 3 c 1 g 1 f 1 c 1 d 2 h 1 e 4 h 1 g 2
+b 3 e 2 c 1 e 1 d 1 f 1 c 5 f 3 c 1 g 1 f 1 c 1 d 2 h 1 e 4 h 1 g 2
+b 2 e 2 c 1 e 1 d 1 c 1 g 1 c 1 f 2 c 1 f 2 c 1 d 2 h 1 g 1 e 2 c 1 h 1 g 2
+b 2 e 2 c 1 e 1 d 1 c 1 c 1 f 4 c 1 d 1 h 2 g 1 h 1 c 2 h 1 g 2
+b 1 e 2 c 1 e 1 d 1 c 1 c 1 f 4 c 1 d 1 h 1 g 1 h 2 c 1 h 2 g 2
+d 1 e 2 c 1 e 1 d 1 c 1 c 1 f 3 c 1 d 1 h 1 g 1 h 3 c 1 h 2 g 2
+c 2 d 1 e 2 c 1 e 1 d 1 c 1 c 1 f 4 c 1 h 1 g 1 h 4 c 2 h 1 g 2
+b 3 d 1 e 1 c 1 e 1 d 1 f 1 c 4 f 2 b 1 f 1 c 1 g 2 h 5 c 2 h 1 g 2
+c 4 d 1 e 1 c 1 e 1 d 1 f 5 b 1 f 2 b 1 c 1 h 7 c 1 h 2 g 2
+b 5 d 1 c 1 e 2 d 1 f 5 b 1 f 1 c 1 h 8 c 2 h 1 g 2
+c 4 d 1 e 2 d 1 f 6 c 1 h 9 c 2 h 1 g 2
+b 5 d 1 e 1 d 1 f 4 c 2 h 5 b 1 h 4 c 1 h 2 g 2
+d 2 c 4 h 4 b 4 h 2 c 2 h 1 g 2
+h 2 b 6 h 1 c 2 h 1 g 1
+h 1 b 6 h 1 c 1
+b 6
+b 4

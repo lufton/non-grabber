@@ -1,0 +1,75 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/20/09"
+height 29
+id 85579
+link "https://www.griddlers.net/nonogram/-/g/85579"
+medium_time "0:12:54"
+points 17458
+popularity 83.03
+title "Small World"
+width 21
+
+color a ffffff
+color b cc6633
+color c 336666
+color d ffcc66
+color e 6ca4dd
+color f 99cc33
+color g cccc66
+color h 2f90c1
+
+rows
+b 2
+b 3 c 7
+b 1 d 1 c 2 e 4 f 3 c 2
+b 1 d 1 c 1 e 5 g 2 f 4 c 1
+b 1 d 1 c 1 e 2 f 1 g 1 e 2 g 4 f 3 c 1
+b 1 d 1 c 1 e 2 f 1 g 2 e 3 g 4 f 3 c 1
+b 1 d 1 c 1 e 1 f 2 g 1 e 6 g 3 f 2 c 1
+b 1 d 1 c 1 h 1 e 1 f 2 g 1 e 4 g 2 e 1 g 3 e 2 c 1
+b 1 d 1 c 1 h 1 f 3 g 2 e 1 g 5 e 5 c 1
+b 1 d 1 c 1 h 1 f 3 g 2 e 2 g 4 e 3 f 2 c 1
+b 1 d 1 c 1 h 1 f 4 g 1 e 4 g 2 e 3 f 2 c 1
+b 1 d 1 c 1 h 1 f 3 e 7 g 1 e 2 g 1 f 1 e 1 c 1
+b 1 d 1 c 1 h 2 f 3 e 8 g 1 f 1 e 2 c 1
+b 1 d 1 c 1 h 3 f 2 e 12 c 1
+b 1 d 1 c 1 h 3 f 3 e 9 c 1
+b 1 d 1 c 1 h 4 f 5 e 6 c 1
+b 1 d 2 c 1 h 3 f 5 e 5 c 1
+b 1 d 2 c 1 h 4 f 2 h 5 c 1
+b 1 d 2 c 2 h 3 f 1 h 3 c 2 b 1
+b 1 d 3 c 7 d 2 b 1
+b 2 d 8 b 2
+b 8
+b 1 d 1 b 1
+b 1 d 1 b 1
+b 1 d 1 b 1
+b 1 d 3 b 1
+b 2 d 5 b 2
+b 1 d 9 b 1
+b 9
+
+columns
+b 7
+b 2 d 7 b 3
+b 1 d 2 c 7 d 3 b 1
+b 1 d 1 c 2 h 7 c 2 d 2 b 1
+b 1 d 1 c 1 e 3 f 4 h 4 c 1 d 2 b 1
+b 1 d 1 c 1 e 2 f 7 h 4 c 1 d 2 b 1
+b 2 c 1 e 2 f 9 h 4 c 1 d 1 b 1 b 1
+b 2 c 1 e 1 f 1 g 5 f 1 e 1 f 3 h 3 c 1 d 2 b 1 b 1 d 1 b 1
+c 1 e 2 g 2 e 2 g 3 e 3 f 3 h 2 c 1 d 1 b 1 b 1 d 1 b 1
+c 1 e 12 f 3 h 2 c 1 d 1 b 1 b 1 d 2 b 1
+c 1 e 6 g 1 e 6 f 3 h 1 c 1 d 1 b 4 d 3 b 1
+c 1 e 1 g 2 e 3 g 2 e 5 f 4 c 1 d 1 b 1 d 6 b 1
+c 1 f 1 g 3 e 1 g 3 e 5 f 2 h 2 c 1 d 1 b 4 d 3 b 1
+c 1 f 2 g 2 e 1 g 4 e 6 h 2 c 1 d 1 b 1 b 1 d 2 b 1
+c 1 f 2 g 3 e 1 g 4 e 5 h 2 c 1 d 1 b 1 b 1 d 1 b 1
+c 1 f 2 g 3 e 9 h 1 c 1 d 1 b 1 b 1 d 1 b 1
+c 1 f 3 g 2 e 4 g 1 e 4 h 1 c 1 d 1 b 1 b 1
+c 1 f 3 g 1 e 3 g 1 f 1 e 4 c 1 b 2
+c 1 f 2 e 2 f 3 e 4 c 1
+c 2 e 2 f 2 e 3 c 2
+c 7

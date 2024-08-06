@@ -1,0 +1,63 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/05"
+height 20
+id 22953
+link "https://www.griddlers.net/nonogram/-/g/22953"
+medium_time "0:04:52"
+points 5837
+popularity 66.52
+title "Pencil"
+width 20
+
+color a ffffff
+color b 000000
+color c 800000
+color d ff0000
+color e ffff00
+color f 808080
+
+rows
+b 1 c 2 d 5 c 1
+b 1 c 2 d 5 c 2
+b 1 c 2 d 5 c 3
+b 1 c 2 d 5 c 3 b 1
+b 1 c 2 d 5 c 3 b 2
+b 1 c 2 d 5 c 3 b 2
+b 1 c 1 d 5 c 3 b 2
+b 1 e 2 d 4 c 3 b 2
+b 1 e 3 d 2 c 3 b 2
+b 2 e 6 c 1 b 2
+b 1 e 7 f 1 b 1
+b 2 e 6 f 2
+b 1 e 5 f 2
+b 2 e 4 f 2
+b 2 e 3 f 2
+b 6 f 1
+b 4 f 1
+b 4 f 1
+b 2 f 1
+b 1 f 1
+
+columns
+b 3
+b 4 f 1
+b 5 f 1
+b 7
+b 3 e 3 b 2 f 1
+b 3 e 5 b 1 f 1
+b 2 e 8 b 1
+b 1 c 2 e 7 f 2
+b 1 c 2 d 2 e 5 f 2
+b 1 c 2 d 4 e 3 f 2
+b 1 c 2 d 5 e 3 f 1
+b 1 c 2 d 5 c 1 e 2 f 1
+c 2 d 5 c 3 f 2
+c 1 d 5 c 3 b 2
+d 5 c 3 b 2
+d 4 c 3 b 2
+d 3 c 3 b 2
+d 2 c 3 b 2
+d 1 c 3 b 2
+c 3 b 2

@@ -1,0 +1,93 @@
+by "Kitty Kat (ledeyoung)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Kitty Kat"
+date "Apr 18, 2023"
+description "This is my first puzzle, so I don't know many techniques to improve the solving process yet. Hopefully, it turned out with a satisfying and interesting end image, though!"
+difficulty 3.25
+height 40
+id 36719
+link "https://webpbn.com/play.cgi?id=36719"
+note "published,definitely non-unique,may require some guessing"
+quality 3.75
+title "Venus"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 14 black 1 blue 5
+blue 6 black 1 blue 4 black 2 blue 3 black 1 blue 6
+blue 4 black 1 blue 4 black 2 blue 6 black 1 blue 6
+blue 8 black 1 blue 6 green 1 blue 5
+blue 7 black 1 blue 6 green 1 blue 4
+blue 6 black 1 blue 6 green 1 blue 3
+blue 1 black 1 blue 9 green 2 blue 2
+black 1 blue 10 blue 3
+black 1 blue 3 black 1 blue 5 green 1 blue 2
+blue 3 black 1 blue 5 blue 2
+blue 3 black 1 blue 4 green 1 blue 1
+blue 7 green 1 blue 1
+blue 6 blue 1
+blue 6 blue 5 blue 3
+blue 5 blue 2 blue 6 blue 2 blue 1
+blue 5 blue 1 blue 2 blue 2 green 1
+blue 5 green 1 green 1
+blue 4 black 1 black 4 green 1 black 3 black 1
+blue 2 black 1 blue 1 black 1 red 2 black 1 green 1 black 1 red 2 black 1
+blue 2 black 1 blue 1 red 2 red 2
+blue 4 green 1
+blue 2 black 1 blue 1 green 1
+blue 2 black 1 blue 1 green 1 green 1
+blue 4 green 1 green 1
+blue 2 black 1 green 1
+blue 3 green 1 green 1 green 1
+blue 3 green 1 green 2 green 2 green 1
+blue 4 green 1 green 3 green 1
+blue 4 green 2 green 1
+blue 4 green 2 red 2 red 2 green 1
+blue 4 green 3 red 10 green 2
+blue 5 red 3 black 4 red 1
+blue 5 red 7 green 1 blue 1
+black 1 blue 3 green 1 red 5 green 1 blue 1
+black 1 blue 5 green 1 blue 2
+blue 1 black 1 blue 6 green 1 blue 3
+blue 9 green 1 blue 4
+blue 2 black 1 blue 7 green 1 blue 5
+blue 5 black 1 blue 4 green 1 green 1 blue 6
+blue 2 black 1 blue 3 black 1 blue 4 green 2 green 2 blue 7
+
+columns
+blue 7 black 2 blue 24 black 2 blue 5
+blue 6 black 1 blue 28 black 1 blue 4
+blue 18 black 2 blue 1 black 2 blue 1 black 1 blue 12 black 1 blue 1 black 1
+blue 9 black 2 blue 13 blue 13
+blue 2 black 1 blue 5 black 1 blue 8 green 3 blue 2 green 1 blue 6
+blue 14 green 2 blue 4 black 1 blue 1
+blue 1 black 1 blue 3 black 1 blue 6 blue 1 green 2 blue 4 black 1
+blue 4 black 1 blue 6 blue 1 black 1 green 1 blue 5
+blue 3 black 1 blue 6 blue 2 black 1 green 1 blue 4
+blue 2 black 1 blue 6 blue 1 black 1 blue 3
+blue 2 black 1 blue 5 blue 2 black 1 red 2 green 1 blue 1
+blue 1 black 1 blue 4 blue 2 black 1 red 2
+blue 1 black 1 blue 4 blue 2 black 1 red 1 green 1
+blue 5 blue 1 black 1 red 2 green 1
+black 1 blue 3 blue 2 green 2 red 3
+blue 3 blue 2 green 1 red 5
+blue 1 black 1 blue 1 red 2 black 1 red 2
+blue 2 black 1 green 1 red 1 black 1 red 2
+blue 3 green 1 green 2 green 1 red 2 black 1 red 2
+blue 4 green 1 green 2 green 2 red 2 black 1 red 2 green 1
+blue 3 green 1 blue 1 black 1 green 2 red 3 green 1
+blue 4 blue 2 black 1 red 2 red 1 green 2 blue 1
+blue 4 green 2 blue 2 black 1 red 2 green 1 blue 3
+blue 4 green 1 blue 1 black 1 green 2 blue 4
+blue 4 green 1 blue 1 black 1 green 1 green 2 blue 6
+blue 5 green 2 blue 1 black 1 green 3 blue 8
+blue 6 green 2 green 8 blue 5
+blue 2
+0
+0

@@ -1,0 +1,47 @@
+by "BeezNuts (BeezNuts)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by BeezNuts"
+date "Oct  6, 2021"
+description "A lovely little clocktower (I may have gone on too small a scale with this one)"
+difficulty 1.25
+height 20
+id 35386
+link "https://webpbn.com/play.cgi?id=35386"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "High And Dry"
+width 10
+
+rows
+2
+2
+4
+4
+6
+8
+10
+1,1
+1,2,1
+2,2
+2,2
+1,2,1
+1,1
+1,1
+1,1
+1,1
+1,2,1
+2,2
+2,3
+2,2
+
+columns
+1
+2
+16
+5,2,3
+7,1,1,1
+7,1,1,1,1
+5,2,3
+16
+2
+1

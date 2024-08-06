@@ -1,0 +1,32 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr 25, 2011"
+description "Penguin"
+difficulty 1.25
+height 5
+id 13604
+link "https://webpbn.com/play.cgi?id=13604"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Small Animal Puzzle 32"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+blue 2 black 2 red 1
+blue 1 black 2 blue 1
+blue 2 black 1 blue 1
+blue 1 black 2 red 2
+
+columns
+blue 4
+blue 1 black 1 blue 1 black 1
+black 5
+black 2 red 1
+red 1 blue 2 red 1

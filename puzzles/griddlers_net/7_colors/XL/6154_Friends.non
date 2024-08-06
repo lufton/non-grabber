@@ -1,0 +1,89 @@
+by "ababa"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/29/03"
+height 35
+id 6154
+link "https://www.griddlers.net/nonogram/-/g/6154"
+medium_time "0:13:43"
+points 16311
+popularity 52.45
+title "Friends"
+width 30
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color e 00ffff
+color f ff00ff
+color g 808080
+color h 000000
+
+rows
+h 6 e 11 c 6
+h 8 e 1 g 7 e 2 c 2 f 4 c 2
+h 2 e 4 h 2 e 1 g 7 e 2 c 2 f 1 h 1 f 2 h 1 f 1 c 2
+h 1 e 6 h 1 e 1 g 2 h 1 g 1 h 1 g 2 e 1 c 3 f 6 c 3
+h 1 e 1 h 1 e 2 h 1 e 1 h 1 e 1 g 7 e 1 c 3 f 2 h 2 f 2 c 3
+h 1 e 6 h 1 e 1 g 1 h 5 g 1 e 1 c 3 f 6 c 3
+h 1 e 2 h 2 e 2 h 1 g 4 h 1 g 4 c 3 e 1 f 4 e 1 c 3
+e 6 g 3 c 3 e 2 f 2 e 2 c 3
+b 3 e 4 b 6 g 1 b 4 c 1 h 1 e 3 f 2 e 3 h 1 b 1
+b 3 e 4 b 6 c 1 b 4 c 1 h 1 e 3 f 2 e 3 h 1 b 1
+b 1 h 1 e 6 h 1 b 4 c 1 b 4 h 2 e 3 f 2 e 3 h 2
+h 2 e 1 h 1 e 2 h 1 e 1 h 2 b 3 c 1 b 4 h 2 e 3 f 2 e 3 h 2
+h 2 e 1 h 1 e 2 h 1 e 1 h 2 b 2 c 3 b 3 h 2 e 3 f 2 e 3 h 2
+h 2 e 1 h 1 e 2 h 1 e 1 h 2 b 2 c 3 b 3 h 2 e 3 f 2 e 3 h 2
+h 2 e 1 h 1 e 2 h 1 e 1 h 2 b 2 c 3 b 3 h 2 e 3 f 2 e 3 h 2
+h 2 e 1 h 1 e 2 h 1 e 1 h 2 b 2 c 3 b 3 h 2 e 3 f 2 e 3 h 2
+h 2 e 1 h 1 e 2 h 1 e 1 h 2 b 2 c 3 b 3 h 3 e 2 f 2 e 2 h 3
+h 2 e 1 h 1 e 2 h 1 e 1 h 2 b 2 c 3 b 3 h 3 b 6 h 3
+h 6 b 4 h 3 b 14
+h 6 b 3 h 5 b 13
+h 6 h 5 b 10
+h 2 h 2 h 5 b 3 b 3
+e 2 e 2 h 2 h 2 b 3 b 3
+e 2 e 2 h 2 h 2 b 3 b 3
+e 2 e 2 h 2 h 2 b 3 b 3
+e 2 e 2 h 2 h 2 b 3 b 3
+e 2 e 2 h 2 h 2 b 3 b 3
+e 2 e 2 h 2 h 2 b 3 b 3
+e 2 e 2 h 2 h 2 b 3 b 3
+h 2 h 2 h 2 h 2 f 2 f 2
+h 3 h 3 h 3 h 3 f 4 f 4
+0
+0
+0
+0
+
+columns
+b 3 h 7
+h 6 b 2 h 8 h 1
+h 3 e 5 b 2 e 8 h 4 e 7 h 2
+h 2 e 2 h 1 e 6 h 11 e 7 h 2
+h 2 e 4 h 1 e 11 h 3
+h 2 e 4 h 1 e 11 h 3
+h 2 e 2 h 1 e 6 h 11 e 7 h 2
+h 3 e 5 b 2 e 8 h 4 e 7 h 2
+e 1 h 6 b 2 h 8 b 2 h 1
+e 6 g 1 b 3 h 7 b 2
+e 1 g 6 b 12 h 1
+e 1 g 4 h 1 g 1 b 11 h 12
+e 1 g 2 h 1 g 1 h 1 g 2 b 4 c 6 h 13
+e 1 g 4 h 2 g 2 c 9 h 4
+e 1 g 2 h 1 g 1 h 1 g 2 b 4 c 6 h 13
+e 1 g 4 h 1 g 1 b 11 h 12
+e 1 g 6 b 12 h 1
+e 6 g 1 b 12
+e 3 c 7 h 8 b 2 f 1
+c 6 h 10 b 11 f 1
+c 7 e 8 h 2 b 11 f 2
+c 2 f 4 e 11 b 12 f 2
+c 1 f 1 h 1 f 4 e 10 b 4
+c 1 f 3 h 1 f 12 b 4
+c 1 f 3 h 1 f 12 b 4
+c 1 f 1 h 1 f 4 e 10 b 4
+c 2 f 4 e 11 b 12 f 2
+c 7 e 8 h 2 b 11 f 2
+c 6 h 10 b 11 f 1
+c 5 b 2 h 8 f 1

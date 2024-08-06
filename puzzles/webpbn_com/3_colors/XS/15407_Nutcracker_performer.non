@@ -1,0 +1,40 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Aug  1, 2011"
+description "A tiny ballerina."
+difficulty 1.25
+height 11
+id 15407
+link "https://webpbn.com/play.cgi?id=15407"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Nutcracker performer"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+black 1 black 2 red 1 black 1
+black 1 black 3 black 1
+black 1 black 1 black 1
+black 2 red 1 black 2
+red 1
+red 3
+red 1 black 2 red 3
+black 1
+black 1
+red 1
+
+columns
+red 1
+black 3 black 1
+black 1 black 1
+black 2 black 1 red 2
+red 1 black 3 red 4 black 2 red 1
+red 1 black 1 black 1 red 2
+black 1
+black 3

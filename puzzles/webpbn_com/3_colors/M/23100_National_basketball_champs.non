@@ -1,0 +1,61 @@
+by "Beth Greenwald (bethgreenwald)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Beth Greenwald"
+date "Nov  9, 2013"
+description ""
+difficulty 1.25
+height 20
+id 23100
+link "https://webpbn.com/play.cgi?id=23100"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "National basketball champs"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 8 red 3 black 9
+black 8 red 3 black 9
+black 8 red 3 black 9
+red 3
+red 8
+red 8
+red 8
+0
+
+columns
+black 15
+black 15
+black 15
+black 3
+black 3
+black 3
+black 3
+black 3
+red 19
+red 19
+red 19
+black 3 red 3
+black 3 red 3
+black 3 red 3
+black 3 red 3
+black 3 red 3
+black 3
+black 15
+black 15
+black 15

@@ -1,0 +1,81 @@
+by "yoahi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/21/17"
+height 30
+id 185154
+link "https://www.griddlers.net/nonogram/-/g/185154"
+medium_time "0:06:35"
+points 16644
+popularity 77.39
+title "Geometry"
+width 29
+
+color a 87CEEB
+color b 000000
+color c 0066FF
+color e 33CCFF
+color g 00008B
+
+rows
+b 2 g 7 b 1 b 1 g 7 b 2
+b 1 c 1 b 1 g 7 b 1 b 1 g 7 b 1 e 1 b 1
+b 1 c 2 b 1 g 7 b 1 b 1 g 7 b 1 e 2 b 1
+b 1 c 3 b 1 g 7 b 1 b 1 g 7 b 1 e 3 b 1
+b 1 c 4 b 1 g 7 b 3 g 7 b 1 e 4 b 1
+b 1 c 5 b 1 g 5 b 1 e 1 b 1 c 1 b 1 g 5 b 1 e 5 b 1
+b 1 c 6 b 1 g 3 b 1 e 2 b 1 c 2 b 1 g 3 b 1 e 6 b 1
+b 1 c 7 b 1 g 1 b 1 e 3 b 1 c 3 b 1 g 1 b 1 e 7 b 1
+b 1 c 8 b 1 e 4 b 1 c 4 b 1 e 8 b 1
+b 1 c 8 b 1 e 4 b 1 c 4 b 1 e 8 b 1
+b 1 c 8 b 1 e 4 b 1 c 4 b 1 e 8 b 1
+b 1 c 8 b 1 e 3 b 1 g 1 b 1 c 3 b 1 e 8 b 1
+b 1 c 8 b 1 e 2 b 1 g 3 b 1 c 2 b 1 e 8 b 1
+b 1 c 8 b 1 e 1 b 1 g 5 b 1 c 1 b 1 e 8 b 1
+b 1 c 8 b 2 g 7 b 2 e 8 b 1
+b 1 c 9 b 1 g 7 b 1 e 9 b 1
+b 1 c 9 b 1 g 5 b 1 e 9 b 1
+b 1 c 9 b 1 g 3 b 1 e 9 b 1
+b 1 c 9 b 1 g 1 b 1 e 9 b 1
+b 1 c 9 b 1 e 9 b 1
+b 1 c 8 b 1 e 8 b 1
+b 1 c 7 b 1 e 7 b 1
+b 1 c 6 b 1 e 6 b 1
+b 1 c 5 b 1 e 5 b 1
+b 1 c 4 b 1 e 4 b 1
+b 1 c 3 b 1 e 3 b 1
+b 1 c 2 b 1 e 2 b 1
+b 1 c 1 b 1 e 1 b 1
+b 3
+b 1
+
+columns
+b 16
+b 1 c 15 b 1
+g 1 b 1 c 15 b 1
+g 2 b 1 c 15 b 1
+g 3 b 1 c 15 b 1
+g 4 b 1 c 15 b 1
+g 5 b 1 c 15 b 1
+g 6 b 1 c 15 b 1
+g 7 b 1 c 15 b 1
+b 1 g 7 b 7 c 9 b 1
+b 1 g 5 b 1 e 6 b 2 c 9 b 1
+b 1 g 3 b 1 e 6 b 1 g 2 b 1 c 9 b 1
+b 1 g 1 b 1 e 6 b 1 g 4 b 1 c 9 b 1
+b 1 e 6 b 1 g 6 b 1 c 9 b 1
+b 7 g 8 b 11
+b 1 c 6 b 1 g 6 b 1 e 9 b 1
+b 1 g 1 b 1 c 6 b 1 g 4 b 1 e 9 b 1
+b 1 g 3 b 1 c 6 b 1 g 2 b 1 e 9 b 1
+b 1 g 5 b 1 c 6 b 2 e 9 b 1
+b 1 g 7 b 7 e 9 b 1
+g 7 b 1 e 15 b 1
+g 6 b 1 e 15 b 1
+g 5 b 1 e 15 b 1
+g 4 b 1 e 15 b 1
+g 3 b 1 e 15 b 1
+g 2 b 1 e 15 b 1
+g 1 b 1 e 15 b 1
+b 1 e 15 b 1
+b 16

@@ -1,0 +1,101 @@
+by "mitch cunningham (mitchc123)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by mitch cunningham"
+date "Jun 16, 2011"
+description "I made a penny because it is made of copper. Copper is my element"
+difficulty 2.25
+height 40
+id 14656
+link "https://webpbn.com/play.cgi?id=14656"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Element 29"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 black 4
+red 1 black 14
+red 1 red 1 red 1 black 16
+red 1 red 1 red 1 black 21
+red 3 red 3 black 23
+black 25
+black 27
+black 9 black 13
+black 10 black 20
+black 10 black 2 black 15
+black 11 black 2 black 1 black 15
+black 11 black 3 black 15
+black 12 black 3 black 16
+black 12 black 2 black 18
+black 12 black 2 black 17
+black 1 black 3 black 1 black 5 black 9 black 1 black 1 black 1 black 3
+black 1 black 5 black 5 black 11 black 1 black 1 black 1 black 1 black 3
+black 2 black 3 black 1 black 3 black 3 black 1 black 1 black 1 black 1 black 4
+black 2 black 3 black 1 black 1 black 3 black 5 black 3 black 1 black 1 black 1 black 4
+black 2 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1 black 4
+black 14 black 17
+black 14 black 1 black 1 black 16
+black 13 black 1 black 1 black 3 black 7
+black 13 black 1 black 1 black 4 black 1 black 7
+black 13 black 1 black 1 black 4 black 1 black 7
+black 13 black 1 black 3 black 4 black 1 black 7
+black 13 black 1 black 1 black 3 black 7
+black 12 black 1 black 1 black 13
+black 12 black 6 black 12
+black 11 black 12
+black 11 black 12
+black 10 black 11
+black 9 black 10
+black 8 black 9
+black 7 black 8
+black 6 black 7 red 3 red 3
+black 5 black 6 red 1 red 1 red 1
+black 4 black 3 red 3 red 3
+black 5 black 5 red 1 red 1
+black 4 red 3 red 3
+
+columns
+red 5 black 5
+red 1 red 1 black 12
+red 1 red 1 black 3 black 9
+black 9 black 11
+red 3 black 10 black 12
+red 1 black 25
+red 3 black 8 black 1 black 14
+black 29
+black 10 black 16
+black 13 black 1 black 17
+black 14 black 17
+black 35
+black 17 black 18
+black 37
+black 8 black 2
+black 6 black 2 black 1
+black 6 black 9 black 8 black 1
+black 6 black 9 black 1 black 1
+black 7 black 1 black 2 black 1 black 2
+black 7 black 1 black 2 black 5 black 1 black 1
+black 7 black 1 black 1 black 1 black 2 black 1 black 1 black 1 black 1
+black 7 black 1 black 1 black 2 black 1 black 4 black 2
+black 10 black 8 black 1
+black 20 black 1
+black 21 black 1
+black 14 black 1 black 19
+black 14 black 1 black 1 black 18
+black 13 black 1 black 18
+black 19 black 3 black 10
+black 12 black 2 black 10
+black 12 black 3 black 2 black 3 black 10
+black 11 black 2 black 9
+black 30
+black 9 black 14 red 1 red 3
+black 26 red 1 red 1 red 1
+black 7 black 12 red 3 red 1
+black 22
+black 17 red 3 red 1
+black 13 red 1 red 1 red 1
+black 5 red 5

@@ -1,0 +1,62 @@
+by "Magnus Boivie (boivie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Magnus Boivie"
+date "Jul 24, 2008"
+description "The sun is shining on a person by the ocean"
+difficulty 2.25
+height 20
+id 3072
+link "https://webpbn.com/play.cgi?id=3072"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Summer"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 8
+red 4 red 5
+red 4 red 6
+red 4 red 2 red 4
+red 3 red 3 red 4
+red 1 red 2 red 2 red 1
+red 3 red 1 red 1
+black 3 red 2 red 2 red 1
+black 1 black 1 red 2 red 2 red 1
+black 3 red 1 red 2
+black 1 red 2 red 1
+black 5 red 2 red 2
+black 1 black 1 black 1 red 1 red 1
+black 2 black 1 black 1 red 2 red 2
+black 1 red 1 red 1 blue 1
+blue 1 black 1 blue 1 red 2 blue 4
+blue 2 black 3 blue 2 blue 1 red 1 blue 5
+blue 2 black 2 black 2 blue 11
+blue 2 black 1 blue 3 black 1 blue 13
+blue 20
+
+columns
+red 1 blue 5
+red 1 black 1 blue 4
+red 1 black 3 black 2 blue 1
+red 2 black 3 black 1 black 2 blue 2
+red 1 black 1 black 8 blue 2
+red 1 black 3 black 1 black 2 blue 2
+red 2 red 1 black 2 black 2 blue 1
+red 1 red 2 black 1 blue 2
+red 1 red 2 blue 2
+red 2 red 1 blue 3
+red 1 red 2 red 2 blue 4
+red 1 red 2 red 3 blue 4
+red 2 red 1 red 2 blue 3
+red 1 red 2 red 3 blue 5
+red 1 red 2 red 2 red 2 blue 3
+red 3 red 3 red 3 blue 4
+red 6 red 3 blue 6
+red 5 red 3 blue 5
+red 5 red 3 blue 5
+red 7 blue 5

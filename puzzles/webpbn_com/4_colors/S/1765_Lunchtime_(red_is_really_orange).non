@@ -1,0 +1,50 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Sarah Andrews"
+date "Nov  8, 2007"
+description "My ducks,StopThatNow and Quackers, eating lunch in the pond. They like to be upside down, eating whatever ducks eat under water. They propel themselves with their feet while still upside down. Quackers is a white female of unknown breed; Stop is a black Indian Runner. Stop's name is because he constantly chases the female geese and I'm always hollerin' "stop that now!" He never listens. Quackers' name is for the obvious reason - she's a loud mouth."
+difficulty 1.25
+height 11
+id 1765
+link "https://webpbn.com/play.cgi?id=1765"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Lunchtime (red is really orange)"
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 2 black 3
+black 2 black 1 black 1
+black 4 black 2 black 2
+black 4 black 1 black 2
+black 6 black 2 black 1
+black 6 black 1 black 1
+black 1 red 1 black 2 red 1 black 1 black 1 red 1 red 1 black 1
+black 1 red 1 black 2 red 1 black 1 black 1 red 1 red 1 black 1
+blue 17
+blue 17
+
+columns
+blue 2
+black 4 blue 2
+black 4 red 2 blue 2
+black 8 blue 2
+black 8 blue 2
+black 4 red 2 blue 2
+black 4 blue 2
+blue 2
+blue 2
+black 4 blue 2
+black 3 blue 2
+black 3 red 2 blue 2
+black 1 blue 2
+black 3 red 2 blue 2
+black 2 blue 2
+black 5 blue 2
+blue 2

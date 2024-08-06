@@ -1,0 +1,33 @@
+by "ik (ik)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ik"
+date "Dec 16, 2010"
+description "oke i made one to and i enjoinded it!!!"
+difficulty 1.5
+height 5
+id 11457
+link "https://webpbn.com/play.cgi?id=11457"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Quilt"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 1 blue 1 green 1
+black 1 red 1 blue 1 green 1
+green 1 black 1 red 1 blue 1
+blue 1 green 1 black 1 red 1
+red 1 blue 1 green 1 black 1
+
+columns
+black 1 green 1 blue 1 red 1
+red 1 black 1 green 1 blue 1
+blue 1 red 1 black 1 green 1
+green 1 blue 1 red 1 black 1
+green 1 blue 1 red 1 black 1

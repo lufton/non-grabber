@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Sep  1, 2019"
+description ""
+difficulty 1.5
+height 20
+id 32796
+link "https://webpbn.com/play.cgi?id=32796"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Iconic movie prop #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4
+blue 4
+0
+0
+black 2
+blue 8 black 2
+blue 8 black 2
+blue 8 black 8
+blue 6 red 2
+blue 4 red 4 black 2 black 2 black 2
+blue 2 red 4 black 2 black 2 black 2
+red 4 black 2 black 2 black 2
+red 2 red 2 black 2 black 2 black 2
+red 4 black 2 black 2 black 2
+red 4
+red 4 black 8
+red 2 red 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+red 4 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+red 4 blue 2 red 8
+red 4 blue 4 black 8
+
+columns
+0
+blue 6 red 2 red 2 red 1
+blue 6 red 2 red 2 red 1
+blue 2 blue 5 red 2 red 2 red 2
+blue 2 blue 5 red 2 red 2 red 2
+blue 2 blue 4 red 2 red 2 red 2 blue 1
+blue 2 blue 4 red 2 red 2 red 2 blue 1
+blue 3 red 2 red 2 red 2 blue 2
+blue 3 red 2 red 2 red 2 blue 2
+0
+0
+black 1 black 5 black 1 red 3 black 1
+black 1 black 5 black 3 red 1 black 1
+black 1 black 1 red 3 black 1
+black 4 black 5 black 3 red 1 black 1
+black 4 black 5 black 1 red 3 black 1
+black 1 black 3 red 1 black 1
+black 1 black 5 black 1 red 3 black 1
+black 1 black 5 black 3 red 1 black 1
+0

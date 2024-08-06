@@ -1,0 +1,27 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Apr  4, 2012"
+description "It is pitch black. You are likely to be eaten by a grue."
+difficulty 1.0
+height 5
+id 18167
+link "https://webpbn.com/play.cgi?id=18167"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "minimalist monster"
+width 5
+
+rows
+3
+5
+1,1,1
+5
+3
+
+columns
+3
+2,2
+5
+2,2
+3

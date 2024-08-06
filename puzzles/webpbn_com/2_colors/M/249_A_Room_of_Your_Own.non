@@ -1,0 +1,54 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Aug  1, 2005"
+description "Women's room or men's room? These two came out looking like they belong on the restroom doors of a country and western bar."
+difficulty 1.25
+height 20
+id 249
+link "https://webpbn.com/play.cgi?id=249"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A Room of Your Own"
+width 17
+
+rows
+2,2
+4,4
+4,2
+2,2
+2,2,2,2
+8,8
+1,4,1,1,4,1
+1,2,1,1,4,1
+1,2,1,1,4,1
+1,4,1,1,4,1
+1,4,1,1,1
+4,4
+6,4
+6,4
+6,1,1
+8,1,1
+8,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+
+columns
+6,2
+2,5
+2,3,11
+4,12
+4,12
+2,3,11
+2,5
+6,2
+0
+6
+2
+1,6,9
+4,5,3
+4,5,3
+1,6,9
+2
+6

@@ -1,0 +1,57 @@
+by "Alex Klages (metalfoot)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Alex Klages"
+date "May 22, 2008"
+description "Just a simple, inverted shield, with a simple cross on it. Designed for a church youth retreat puzzle booklet."
+difficulty 1.25
+height 20
+id 2832
+link "https://webpbn.com/play.cgi?id=2832"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The Shield"
+width 20
+
+rows
+4
+4,4
+18
+8,8
+8,8
+8,8
+5,5
+5,5
+8,8
+8,8
+8,8
+8,8
+8,8
+7,8
+6,6
+1,5,5,1
+2,4,4,2
+3,3,3,3
+5,6,5
+6,6
+
+columns
+5
+12,4
+13,3
+14,2
+15,2
+15,1
+4,10
+4,11
+1,4,11
+1,1,1
+1,1,1
+1,4,11
+4,11
+4,10
+15,1
+15,2
+14,2
+13,3
+13,4
+5

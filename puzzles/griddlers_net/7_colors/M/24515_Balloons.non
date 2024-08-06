@@ -1,0 +1,64 @@
+by "jemBBa"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/25/05"
+height 20
+id 24515
+link "https://www.griddlers.net/nonogram/-/g/24515"
+medium_time "0:08:44"
+points 1153
+popularity 64.34
+title "Balloons"
+width 20
+
+color a 00c2fe
+color b ffe40d
+color c 00fedf
+color d bb00fe
+color e ffffff
+color f ff88fe
+color h 000000
+
+rows
+b 1 b 5
+f 3 b 2 b 4
+f 5 b 1 b 5
+f 7 b 1 b 3
+f 7 b 2 b 1
+f 4 e 2 f 1 b 1 b 1
+c 3 f 3 e 1 f 1 b 1
+c 5 f 3 b 1 b 1
+c 7 f 1 d 3
+c 7 f 3 d 5
+c 4 e 2 c 1 h 1 d 7
+c 3 e 1 c 1 h 1 d 7
+c 3 h 2 d 4 e 2 d 1
+c 1 h 1 d 3 e 1 d 1
+c 3 h 2 d 3
+h 2 h 2 d 1
+h 1 h 1 d 3
+h 1 h 2 h 1
+h 2 h 2 h 1
+h 1 h 1 h 2
+
+columns
+c 3
+c 5
+c 7 c 1
+c 9 h 1 h 2
+c 4 e 2 c 1 c 1 h 4
+c 3 e 1 c 1
+f 3 c 3
+f 5
+f 7 f 1 h 3
+f 9 h 3 h 2 h 2
+f 4 e 2 f 1 f 1 h 3 h 2
+f 3 e 1 f 1
+b 1 b 1 f 3 d 3
+b 1 d 5
+b 1 b 1 d 7 d 1
+b 1 b 1 b 1 d 9 h 3
+b 3 b 1 d 4 e 2 d 1 d 1 h 1
+b 5 b 1 d 3 e 1 d 1
+b 4 b 1 d 3
+b 6 b 1

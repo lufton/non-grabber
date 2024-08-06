@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Jan  5, 2011"
+description ""
+difficulty 1.5
+height 20
+id 11675
+link "https://webpbn.com/play.cgi?id=11675"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Want I look at while practicing my yoga."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+black 2 green 1
+green 1 black 3 green 2
+green 2 black 3 green 2
+green 4 black 2 green 3
+green 2 green 1 black 3 green 4
+green 2 green 2 black 7
+green 2 green 4 black 5 green 1
+green 2 green 2 green 1 black 4
+green 1 green 2 black 3
+green 1 green 1 black 3 black 2
+green 2 black 6 black 2
+green 1 black 11
+green 1 black 3 black 3
+green 2 black 3 green 3
+green 1 black 4 green 2
+black 4 green 1
+black 3 red 1
+black 6
+
+columns
+black 1 green 7
+black 2 green 8
+green 1 black 2 green 1 green 2 black 1
+black 2 green 3 green 4 black 4
+green 1 black 3 green 2 green 1 black 7
+green 2 black 3 green 4 black 7
+green 2 black 2 green 3 black 6 red 1 black 1
+green 2 black 1 green 1 black 2 black 1
+green 2 black 2 green 1 black 3
+green 1 black 2 black 3
+green 1 black 2 black 3
+black 3 black 2
+black 3 black 2 green 1
+green 1 black 6 green 2
+black 6 green 3

@@ -1,0 +1,115 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Nov 30, 2009"
+description "...within the puzzle?"
+difficulty 2.0
+height 42
+id 7276
+link "https://webpbn.com/play.cgi?id=7276"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.75
+title "Can you solve the puzzle..."
+width 52
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1
+black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1
+black 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 red 1 black 1 red 5 black 1 red 5 black 1 red 5 black 1 red 5 black 1 red 5 black 1 red 1 black 1
+black 1 red 4 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 4 black 1
+black 52
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 2 red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 red 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 52
+red 2 red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 2 red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 52
+red 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 52
+red 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 52
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 52
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 52
+
+columns
+black 1 black 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1
+black 1 red 1 red 1 black 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1
+black 1 red 5 black 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1
+black 1 red 1 black 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 red 3 red 1 black 1 red 1 red 1 black 1 black 1
+black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 2 black 1 red 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1
+black 1 red 5 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 red 1 black 1 red 1 red 1 red 1 black 1 red 5 black 1
+black 1 red 1 black 1 red 1 red 1 red 1 black 1 red 2 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 black 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1
+black 42
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 42
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 42
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 42
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 42
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 42
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 42
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 42

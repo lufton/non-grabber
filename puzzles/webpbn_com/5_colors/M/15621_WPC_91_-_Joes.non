@@ -1,0 +1,63 @@
+by "Amy Adams (ajstarner68)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Amy Adams"
+date "Aug 22, 2011"
+description "My husband and I want to go to Pittsburgh for his favorite birthday dinner - Joe's Crab Shack. His birthday was in July and we haven't been able to get there yet. We love their "Classic Steam Pot" - which includes 3 types of crab, red potatoes, shrimp, corn on the cob (I had to make it green) and smoked sausage (blue). The colors are a little off, but it is delicious!"
+difficulty 2.0
+height 20
+id 15621
+link "https://webpbn.com/play.cgi?id=15621"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WPC #91 - Joe's"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 black 3 blue 2 black 3 blue 2
+blue 2 black 1 black 9 blue 2
+blue 3 black 9 blue 2
+blue 2 black 7 blue 3
+black 6 red 1 red 1
+black 4 red 3 red 1 red 1
+blue 2 black 7 red 2 black 2 red 3
+blue 2 black 2 red 2 red 2 black 1 red 2
+blue 2 black 2 red 2 red 2 red 1 red 1 black 1
+blue 2 black 2 blue 5 red 2 red 2 red 1 black 2
+blue 1 black 3 green 4 red 1 red 1 red 1 black 2
+black 6 green 4 red 2 black 4
+black 1 black 17
+black 20
+green 2 black 17 green 1
+green 1 black 16 green 2
+green 1 black 15 green 2
+green 3 black 13 green 2
+green 2 green 2 black 10 green 2
+green 4 green 4 green 4 green 4
+
+columns
+blue 3 blue 1 blue 2 black 3 green 2 green 2
+blue 4 black 1 blue 4 black 1 black 1 green 1 green 3
+blue 2 black 2 blue 2 black 7 green 2 green 1
+black 2 black 9 green 1
+black 3 black 2 black 8 green 2
+black 5 black 2 blue 1 black 7 green 1
+black 1 black 3 black 1 blue 1 green 2 black 7 green 1
+black 5 black 1 red 2 blue 1 green 2 black 7 green 1
+black 3 black 1 red 2 blue 1 green 2 black 7 green 1
+black 3 black 1 blue 1 green 2 black 7 green 1
+blue 1 black 3 black 1 red 2 black 7
+blue 1 black 2 red 2 black 1 red 2 black 7 green 1
+black 2 red 4 red 2 black 7 green 1
+black 2 red 4 red 1 red 1 black 7 green 1
+black 2 black 1 red 2 black 7 green 1
+black 2 black 2 black 7
+black 1 blue 1 red 6 black 7 green 2
+blue 2 red 2 black 9 green 3
+blue 4 red 2 black 6 green 3 green 1
+blue 2 black 1 black 1 green 3 green 1

@@ -1,0 +1,43 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "May 30, 2010"
+description "long sword & companion sword"
+difficulty 1.25
+height 9
+id 8975
+link "https://webpbn.com/play.cgi?id=8975"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Samurai weaponry."
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 13
+black 1 black 1
+blue 9
+black 1 black 1
+black 5
+black 7
+black 7
+black 1 black 1
+
+columns
+blue 1
+blue 1
+blue 1 blue 1
+blue 1 blue 1 black 3
+blue 1 black 1 blue 1 black 4
+blue 1 blue 1 black 3
+blue 1 blue 1 black 3
+blue 1 blue 1 black 3
+blue 1 black 1 blue 1 black 4
+blue 1 blue 1 black 3
+blue 1 blue 1
+blue 1
+blue 1

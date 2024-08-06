@@ -1,0 +1,41 @@
+by "aliza glatter (cisv247)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by aliza glatter"
+date "Jun 15, 2010"
+description "er... FLICKR"
+difficulty 1.25
+height 7
+id 9226
+link "https://webpbn.com/play.cgi?id=9226"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "flick"
+width 13
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 black 3
+blue 5 black 5
+blue 6 black 6
+blue 6 black 6
+blue 6 black 6
+blue 5 black 5
+blue 3 black 3
+
+columns
+blue 3
+blue 5
+blue 7
+blue 7
+blue 7
+blue 5
+0
+black 5
+black 7
+black 7
+black 7
+black 5
+black 3

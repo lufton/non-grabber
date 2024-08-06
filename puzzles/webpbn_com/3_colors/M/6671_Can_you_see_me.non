@@ -1,0 +1,61 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Wombat"
+date "Sep  6, 2009"
+description "Color blindness tests generally involve a group of dots, with a number made up of dots of a different color. Most common is red/green colorblindness, so the background dots would be one of those, while the shape dots would be the other. Nearly all cases of this type of color blindness are men."
+difficulty 2.75
+height 20
+id 6671
+link "https://webpbn.com/play.cgi?id=6671"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Can you see me?"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 12
+green 3 green 1 green 1 green 1 green 1 green 2
+green 3 green 1 green 1 green 1 green 1 green 1 green 2
+green 3 green 1 black 5 green 3 green 2
+green 3 green 1 black 3 black 1 black 1 green 1 green 1 green 2
+green 2 green 1 black 1 black 1 green 1 green 1 black 2 green 1 green 1 green 1
+green 1 green 1 green 1 black 2 green 1 green 3 black 2 green 4
+green 2 green 1 black 1 green 1 green 1 green 1 black 1 green 1 green 1 green 1
+green 1 green 3 green 1 green 1 green 1 black 1 green 2 green 1 green 2
+green 2 green 1 green 5 black 2 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 black 1 green 3 green 4
+green 2 green 1 green 1 green 1 black 1 green 1 green 3 green 1 green 1
+green 1 green 3 green 1 black 2 green 1 green 1 green 1 green 1 green 2
+green 2 green 1 green 1 black 1 green 1 green 3 green 1 green 1 green 1
+green 1 green 1 green 1 black 3 black 1 black 1 black 1 green 1 green 2
+green 2 green 1 green 1 black 3 black 3 green 1 green 3
+green 2 green 3 green 1 green 1 green 1 green 1 green 3
+green 2 green 1 green 3 green 1 green 1 green 3
+green 2 green 1 green 1 green 1 green 1 green 3
+green 12
+
+columns
+green 12
+green 3 green 1 green 1 green 1 green 1 green 2
+green 3 green 1 green 1 green 1 green 1 green 1 green 2
+green 3 green 1 green 3 green 3 green 1 green 2
+green 3 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 2
+green 2 green 1 black 3 green 1 green 1 green 1 green 3 green 1
+green 1 green 1 black 1 black 1 green 3 green 1 black 1 green 1 green 2
+green 2 black 3 green 1 green 1 green 1 black 3 green 1 green 1
+green 1 green 1 black 2 green 1 green 3 black 1 black 2 green 4
+green 2 black 1 green 1 green 1 green 1 black 2 green 1 black 1 green 1 green 1
+green 1 green 1 black 2 green 1 green 1 black 2 green 1 black 1 green 1 green 2
+green 2 black 1 green 3 black 1 green 1 green 1 black 1 green 1 green 1
+green 1 green 1 black 2 green 1 black 1 green 1 green 2 black 2 green 1 green 2
+green 2 green 1 black 3 green 4 green 1 black 1 green 1 green 1
+green 1 green 3 black 1 green 1 green 3 black 1 green 1 green 2
+green 2 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 3
+green 2 green 1 green 1 green 1 green 1 green 1 green 1 green 3
+green 2 green 3 green 3 green 1 green 3
+green 2 green 1 green 1 green 1 green 1 green 3
+green 12

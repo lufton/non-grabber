@@ -1,0 +1,106 @@
+by "astocki"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/7/10"
+height 45
+id 89978
+link "https://www.griddlers.net/nonogram/-/g/89978"
+medium_time "0:30:26"
+points 59209
+popularity 79.63
+title "Bentley"
+width 40
+
+color a ffffff
+color b 000000
+color c 5c440c
+color d ffff33
+
+rows
+c 1
+c 2 c 1
+b 6 c 3 c 2
+b 2 c 5 b 2 c 4 c 3
+b 2 c 6 b 2 c 4 c 5
+b 2 c 8 b 1 c 4 b 4 c 3
+b 2 c 9 b 1 c 5 b 2 c 3
+b 2 c 10 b 1 c 8
+b 2 c 10 b 2 c 9
+b 2 c 11 b 2 d 4 c 5
+b 2 c 12 b 2 c 3 d 7
+b 2 c 12 b 3 c 10
+b 2 c 13 b 1 c 1 b 1 c 11
+b 2 c 14 b 1 c 1 b 1 c 3 b 1 c 7
+b 2 c 15 b 1 c 1 b 2 c 1 b 3 c 6
+b 2 c 16 b 1 c 1 b 2 c 2 b 1 c 7
+b 2 c 17 b 1 c 1 b 2 c 9
+b 2 c 17 b 2 c 2 b 1 c 9
+b 2 c 17 b 1 c 3 b 2 c 8
+b 2 c 18 b 1 c 4 b 1 c 8
+b 2 c 19 b 1 c 4 b 1 c 8
+c 1 d 1 c 17 b 1 c 4 b 2 c 2 d 5
+c 2 d 1 c 17 c 4 b 2 d 4 c 2 b 2
+c 3 d 1 c 16 c 3 b 2 c 5 b 2 c 1
+c 3 d 1 c 16 c 2 b 2 c 4 b 2 c 2
+c 3 d 2 c 15 c 1 d 4 c 1 b 2 c 3
+c 3 d 1 c 15 d 1 c 2 d 1 b 2 c 4
+c 3 d 2 c 14 d 4 b 1 c 6
+c 3 d 3 c 13 d 2 b 1 c 6
+c 3 d 2 c 14 b 3 c 6
+c 3 d 2 c 13 c 4 b 2 c 2
+c 3 d 3 c 11 d 1 c 3 b 1 c 4
+c 3 d 3 c 11 d 2 c 3 b 1 c 4
+c 4 d 3 c 10 d 2 c 2 b 1 c 3
+c 4 d 4 c 8 d 3 c 4
+c 4 d 4 c 6 d 5
+c 4 d 3 c 6 d 5
+c 5 d 4 c 4 d 3 d 1
+c 5 d 5 c 3 d 3 c 2
+c 6 d 4 c 2 d 3 c 2
+c 6 d 4 c 1 d 2 c 2
+c 7 d 6 c 3
+c 8 d 5 c 3
+c 11 d 3 c 4
+c 13 d 2 c 3
+
+columns
+c 22
+c 23
+b 1 c 24
+b 2 d 5 c 12
+b 3 c 5 d 4 c 8
+b 3 c 8 d 3 c 6
+b 2 c 11 d 5 c 4
+b 2 c 14 d 5 c 3
+b 2 c 16 d 5 c 2
+b 2 c 19 d 6 c 2
+b 2 c 21 d 6 c 2
+b 2 c 23 d 6 c 1
+b 2 c 26 d 5 c 1
+b 2 c 28 d 5
+b 2 c 31 d 5
+b 2 c 33 d 4
+b 2 c 32 d 5
+b 1 c 31 d 6
+b 1 c 30 d 5
+b 1 c 29 d 5
+b 1 c 19 c 2 d 6 c 2
+b 2 c 17 d 5 c 4
+b 1 c 18 d 3 c 7
+b 1 c 14 b 5 c 6
+b 1 c 8 b 7 c 5
+b 1 c 5 b 4 c 12
+b 1 c 1 b 13 c 8
+b 2 c 4 d 1 c 4 b 5 c 7
+b 1 c 5 d 1 c 8 b 7 d 3
+c 6 d 1 c 4 b 1 c 6 b 4 d 1 c 1 d 1
+c 7 d 2 c 2 b 3 c 6 d 1 c 2 d 1 c 1 d 2 b 1
+c 4 b 1 c 4 d 1 c 3 b 1 c 7 d 1 c 2 d 4 b 1 c 3
+c 4 b 2 c 3 d 1 c 10 d 2 c 3 b 4 c 4
+b 2 c 3 d 1 c 10 d 2 c 2 b 2 c 8
+c 1 b 1 c 4 d 1 c 10 d 1 c 2 b 2 c 5 b 3 c 1
+c 3 c 2 d 1 c 10 d 1 c 1 b 2 c 5 b 1 c 4
+c 4 d 1 c 10 d 1 b 2 c 6 b 1 c 4
+c 4 c 4 b 1 c 11
+c 4 c 6
+0

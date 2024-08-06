@@ -1,0 +1,63 @@
+by "demirors"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/7/09"
+height 20
+id 74095
+link "https://www.griddlers.net/nonogram/-/g/74095"
+medium_time "0:06:17"
+points 1332
+popularity 68.39
+title "Apple"
+width 20
+
+color a ffffff
+color c 990000
+color d cc0033
+color f ff0000
+color g cccc00
+color h 663300
+
+rows
+h 2
+h 2
+f 4 h 2 d 4
+f 5 d 1 h 2 d 5
+f 5 d 2 h 2 g 1 f 1 d 4
+f 5 d 3 h 2 g 1 f 3 d 3
+f 7 d 3 f 6 d 3
+f 16 d 4
+f 7 f 8 d 4
+f 6 f 6 d 3 c 1
+f 7 f 4 d 2 c 3
+f 8 f 3 d 2 c 3
+f 10 f 3 d 2 c 4
+f 12 d 3 c 3
+f 11 d 3 c 4
+f 9 d 3 c 4
+f 1 d 9 c 4
+d 8 c 5
+d 4 c 5
+c 5
+
+columns
+f 7
+f 10
+f 12
+f 14 d 1
+f 13 d 2
+f 14 d 3
+f 3 d 1 f 3 f 6 d 3
+f 2 d 3 f 1 f 5 d 3 c 1
+h 2 f 1 d 4 f 2 f 4 d 3 c 1
+h 6 d 1 f 2 f 4 d 2 c 2
+h 4 f 4 f 3 d 2 c 2
+d 2 g 2 f 5 f 3 d 2 c 3
+d 2 f 10 d 3 c 2
+d 3 f 8 d 3 c 3
+d 3 f 7 d 3 c 3
+d 3 f 4 d 4 c 4
+d 8 c 5
+d 5 c 6
+d 4 c 5
+d 2 c 4

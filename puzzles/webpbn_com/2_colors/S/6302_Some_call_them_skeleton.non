@@ -1,0 +1,47 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Jul 14, 2009"
+description "Antique Key"
+difficulty 3.5
+height 15
+id 6302
+link "https://webpbn.com/play.cgi?id=6302"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Some call them skeleton"
+width 15
+
+rows
+1
+2
+4
+2,3
+1,2,2
+2,2
+1,2
+5
+1,2,1
+4,1
+7
+1,4
+1,2,1
+4
+0
+
+columns
+2
+2,2
+3,2
+4
+2
+2
+2
+2
+6
+1,2,1
+4,1
+7
+1,4
+1,2,1
+4

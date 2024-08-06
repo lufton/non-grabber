@@ -1,0 +1,53 @@
+by "harley (moyo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by harley"
+date "Mar 24, 2011"
+description "can of coke"
+difficulty 1.0
+height 22
+id 13002
+link "https://webpbn.com/play.cgi?id=13002"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "my soda #2"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 black 4 red 3
+red 10
+red 1 black 1 black 1 red 1
+red 1 black 1 black 2 black 1 red 1
+red 1 black 1 black 2 black 1 red 1
+red 1 black 8 red 1
+red 1 red 1
+red 1 black 3 black 3 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 8 red 1
+red 1 red 1
+red 1 black 8 red 1
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 8 red 1
+red 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 8 red 1
+red 10
+
+columns
+red 22
+red 2 black 4 black 1 black 1 black 4 black 4 red 1
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+black 1 red 1 black 3 black 3 black 1 black 1 black 1 red 1
+black 1 red 1 black 3 black 3 black 1 black 1 black 1 red 1
+black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 2 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 2 black 4 black 1 black 1 black 4 black 4 red 1
+red 22

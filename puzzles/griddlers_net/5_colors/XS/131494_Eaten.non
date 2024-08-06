@@ -1,0 +1,41 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/29/13"
+height 12
+id 131494
+link "https://www.griddlers.net/nonogram/-/g/131494"
+medium_time "0:01:26"
+points 66
+popularity 62.19
+title "Eaten"
+width 7
+
+color a ffffff
+color b 638a39
+color c bd4129
+color d f7d7ad
+color e 735129
+
+rows
+b 1
+b 3
+b 4
+b 3
+c 3 b 1 c 3
+d 1 c 4
+d 3
+e 1 d 1 e 1
+d 3
+d 5
+c 4 d 1 c 2
+c 2 c 2
+
+columns
+b 3 c 1 c 1
+b 3 c 1 d 1 d 1 c 2
+b 3 c 2 d 1 e 1 d 2 c 2
+b 3 c 1 d 4 c 1
+c 2 d 1 e 1 d 3 c 1
+c 2 d 1 c 2
+c 1 c 1

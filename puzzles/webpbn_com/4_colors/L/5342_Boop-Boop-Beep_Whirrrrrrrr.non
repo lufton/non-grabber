@@ -1,0 +1,74 @@
+by "Kevin Tiberio (ktberio)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Kevin Tiberio"
+date "Mar 14, 2009"
+description "R2D2"
+difficulty 2.5
+height 29
+id 5342
+link "https://webpbn.com/play.cgi?id=5342"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Boop-Boop-Beep Whirrrrrrrr!"
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 9 black 1
+black 2 black 1 black 1 black 3
+black 1 black 2 blue 4 black 1
+black 3 black 2 blue 1 black 2 blue 1 black 1
+black 2 black 1 black 1 blue 1 black 2 blue 1 black 2 black 2
+black 2 blue 3 black 1 blue 3 black 2
+black 1 blue 3 black 1 black 1 red 2 black 1 blue 1 blue 1 black 2
+black 1 blue 7 red 2 blue 6 black 1
+black 1 black 1 black 1 black 3 black 1
+black 21
+black 1 black 2 blue 7 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 blue 7 black 1 black 1
+black 1 black 3 black 1 black 1 black 1
+black 1 black 1 blue 7 black 1 black 1
+black 1 black 4 blue 1 black 3 black 1 black 1 black 1
+black 4 blue 1 black 3 blue 1 black 1 black 3
+black 1 black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 2 black 1 blue 1 black 3 blue 1 black 1 black 1
+black 1 black 3 blue 7 black 1 black 1 black 1
+black 1 blue 1 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 17 blue 1 black 1
+black 1 blue 1 black 1 black 13 black 1 blue 1 black 1
+black 1 black 1 black 13 black 1 black 1
+black 1 black 1 black 4 black 1 black 1
+black 5 black 1 black 1 black 5
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 5 black 5
+
+columns
+black 3
+black 17 black 1
+black 1 black 1 blue 3 black 1 black 1
+black 22 black 1
+black 3 blue 1 black 2 black 2 black 2 black 2 black 1 black 3
+black 2 blue 3 black 2 black 1 black 1 black 1 black 1 black 1 black 3
+black 1 black 2 blue 3 black 1 black 1 black 1 black 1 black 3
+black 3 blue 3 black 2 black 3
+black 1 black 3 black 1 blue 1 black 1 blue 1 blue 1 blue 6 black 3
+black 2 black 1 blue 1 black 1 blue 1 blue 1 blue 1 blue 1 black 3
+black 1 blue 3 black 1 blue 1 black 2 blue 1 blue 1 blue 1 black 2 black 1 blue 1 black 7
+black 1 blue 1 black 2 red 2 black 2 blue 1 blue 1 blue 1 black 2 black 1 blue 1 black 4 black 1
+black 2 blue 1 black 2 red 2 black 2 blue 1 blue 1 blue 1 black 2 black 1 blue 1 black 4 black 2
+black 1 blue 3 blue 1 black 1 blue 1 blue 1 blue 1 blue 1 black 4 black 1
+black 1 black 2 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 4 black 3 black 3
+black 3 black 1 blue 3 black 1 black 3
+black 1 black 1 blue 1 blue 1 black 1 black 3
+black 4 blue 3 black 2 black 1 black 1 black 1 black 3
+black 4 blue 1 black 1 black 1 black 3
+black 22 black 1
+black 1 black 1 blue 3 black 1 black 1
+black 17 black 1
+black 3

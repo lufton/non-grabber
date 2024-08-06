@@ -1,0 +1,60 @@
+by "Sommer (Sommer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Sommer"
+date "May 13, 2020"
+description "Meet Chip! He's my favorite cat that I cat sit, he is a little chubby and extremely tough, he's a born hunter, but he loves pets! He was really rude at first, but once I figured out he liked to be talked to, he became my pal!"
+difficulty 2.0
+height 18
+id 34072
+link "https://webpbn.com/play.cgi?id=34072"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Coolest Kitten on the Block"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 1 red 1 black 2 black 2 red 1 black 1
+black 1 red 3 black 1 black 4 black 1 red 3 black 1
+black 1 red 4 black 8 red 4 black 1
+black 1 red 2 black 12 red 2 black 1
+black 16 red 1 black 1
+black 12 black 3
+black 10 black 2
+black 3 blue 1 black 1 blue 1 black 3 blue 1 black 1 blue 1 black 2
+black 4 blue 1 black 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 3
+black 9 black 1 black 4
+black 7 red 2 black 8
+black 6 red 1 red 1 black 7
+black 6 red 4 black 6
+black 5 black 5
+black 5 black 5
+black 12
+
+columns
+black 3
+black 5 black 5
+black 1 red 4 black 10
+black 1 red 3 black 11
+black 1 red 2 black 13
+black 1 red 1 black 4 blue 2 black 7
+black 9 black 4
+black 5 blue 2 black 1 red 1 black 2
+black 9 red 1 black 1
+black 7 red 1 red 1 black 1
+black 8 red 1 red 1 black 1
+black 6 black 1 red 1 black 1
+black 4 blue 2 black 1 red 1 black 2
+black 4 black 2 black 6
+black 1 red 1 black 2 blue 2 black 6
+black 1 red 2 black 3 black 6
+black 1 red 3 black 11
+black 1 red 5 black 9
+black 5 black 5
+black 3

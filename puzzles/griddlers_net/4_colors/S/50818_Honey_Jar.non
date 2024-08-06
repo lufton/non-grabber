@@ -1,0 +1,42 @@
+by "khturh"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/24/07"
+height 12
+id 50818
+link "https://www.griddlers.net/nonogram/-/g/50818"
+medium_time "0:00:37"
+points 312
+popularity 44.28
+title "Honey Jar"
+width 9
+
+color a ffcc66
+color b 000000
+color d ff0000
+color e ffffff
+
+rows
+d 9
+e 1 b 1 b 1 e 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 3 b 1
+b 1 b 3 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+e 1 b 7 e 1
+
+columns
+d 1 e 1 b 9 e 1
+d 1 b 1 b 1
+d 1 b 1
+d 1 b 2 b 1
+d 1 b 2 b 1
+d 1 b 2 b 1
+d 1 b 1
+d 1 b 1 b 1
+d 1 e 1 b 9 e 1

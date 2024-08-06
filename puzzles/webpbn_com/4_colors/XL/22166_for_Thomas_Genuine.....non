@@ -1,0 +1,92 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Jun 16, 2013"
+description "Deep Purple album art....small quickie version. I started much bigger and more detailed, but it was too difficult to make solve without many hours of tweaking...doesn't do the art much justice, but it is what it is."
+difficulty 2.5
+height 30
+id 22166
+link "https://webpbn.com/play.cgi?id=22166"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "for Thomas Genuine...."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 40
+blue 6 blue 31
+blue 4 black 2 blue 25 red 5
+red 1 blue 2 black 4 blue 22 red 2 black 1 red 1 black 3
+red 1 black 1 black 1 black 2 blue 1 blue 17 red 7
+black 2 black 3 black 3 black 1 blue 15 red 1 black 2 red 1
+black 2 black 1 black 1 black 3 blue 12 black 1 red 1
+black 2 black 1 black 1 black 2 black 2 black 2 blue 11 black 1 red 2
+black 2 black 1 black 2 black 1 black 1 blue 10 black 3 red 1
+black 1 black 1 black 2 black 2 black 2 black 3 blue 7 black 2 black 2 red 1
+black 1 black 2 black 2 black 1 black 2 blue 5 black 1 black 1 red 1
+black 1 black 6 black 1 black 1 black 1 black 1 blue 3 black 3 black 4 red 1
+black 2 black 5 black 1 black 1 black 4 blue 2 black 1 black 2 red 1
+black 3 black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 2 black 3 black 2 black 1 black 2 black 3 black 1 black 1
+black 4 black 2 black 7 black 1 black 3 black 1 black 1 black 1 black 1 black 1
+black 10 black 7 black 2 black 5
+black 1 black 5 black 5 black 6
+black 2 black 1 black 9 black 5
+black 1 red 1 black 3 black 3 black 1 black 9 black 5 black 1
+red 1 black 1 red 1 black 1 red 1 black 6 black 3 black 1 black 2 black 3 black 4
+black 1 red 1 black 1 red 2 black 14 black 1 black 2 black 5
+black 3 red 3 black 12 black 1 black 1 black 2 black 1 black 2
+black 1 red 2 black 1 red 2 black 5 black 3 black 2 black 2 black 1
+red 3 black 1 black 2 black 1 black 1 black 1 black 2 black 1 black 1
+red 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 9 black 1 black 2 black 1 black 2 black 1 black 2 black 1
+black 1 red 1 black 2 black 4 black 3 black 1 black 1 black 1 black 1 black 1 black 2
+red 2 black 2 black 4 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 5
+red 3 black 2 black 7 black 1 black 1 black 1 black 1 black 1 black 1 black 6 black 6
+
+columns
+blue 3 red 2 black 10 black 1 red 1 black 3 red 3 black 1 red 2
+blue 4 black 5 black 3 red 1 black 1 red 1 black 1 red 3 black 1 red 3
+blue 4 black 3 black 2 red 1 black 2 red 3 black 3 red 1
+blue 3 black 6 black 1 black 4 red 2 black 2 black 4
+blue 2 black 2 black 2 black 1 black 1 red 4 black 1 black 1
+blue 2 black 1 black 1 black 1 black 1 black 5 black 2 red 2 black 1
+blue 1 black 2 black 1 black 3 black 3 black 2
+blue 1 black 2 black 1 black 3 black 4 black 2 black 1
+blue 1 black 3 black 5 black 4 black 2 black 1
+blue 2 black 12 black 5 black 4
+blue 3 black 2 black 2 black 3 black 3
+blue 5 black 1 black 3 black 2
+blue 4 black 7 black 1 black 4 black 3
+blue 4 black 2 black 1 black 3 black 8 black 1
+blue 4 black 2 black 2 black 5 black 1
+blue 4 black 2 black 1 black 1 black 1 black 2 black 4 black 1 black 1
+blue 5 black 3 black 4 black 2 black 1 black 1
+blue 5 black 9 black 2 black 1
+blue 8 black 1 black 3 black 1 black 1 black 1 black 1
+blue 9 black 6 black 1 black 1 black 1 black 1
+blue 9 black 3 black 8 black 1 black 1
+blue 9 black 2 black 1 black 1 black 2 black 1 black 1 black 1
+blue 10 black 1 black 2 black 2 black 1 black 1 black 1
+blue 10 black 1 black 1 black 4 black 2 black 1 black 1
+blue 11 black 7 black 1 black 1 black 1
+blue 12 black 6 black 1 black 1
+blue 13 black 8 black 1 black 1
+blue 13 black 4 black 2
+blue 11 black 1
+blue 7 black 1 black 1 black 1
+blue 6 black 10 black 1
+blue 6 black 3 black 14
+blue 6 black 2 black 1 black 2 black 8 black 1
+blue 3 red 3 black 1 black 2 black 3
+blue 3 red 2 black 3 black 1 black 2 black 2 black 1 black 3
+blue 2 red 1 black 1 red 1 black 3 black 2 black 3 black 1 black 1 black 2
+blue 2 red 3 black 6 black 3 black 1 black 2
+blue 2 red 1 black 1 red 1 black 1 black 2 black 1 black 3 black 3
+blue 2 red 1 black 1 red 1 black 2 red 1 black 1 black 10
+blue 2 red 1 black 1 red 9 black 4 black 1

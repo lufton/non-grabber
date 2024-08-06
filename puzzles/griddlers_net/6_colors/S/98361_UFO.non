@@ -1,0 +1,53 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/4/10"
+height 15
+id 98361
+link "https://www.griddlers.net/nonogram/-/g/98361"
+medium_time "0:04:41"
+points 2117
+popularity 69.93
+title "UFO"
+width 15
+
+color a ffffff
+color b 000000
+color c ffcc00
+color d ff0f6b
+color e ccccff
+color f 52529d
+
+rows
+b 1
+b 2 c 1 b 1
+b 1 b 1
+b 3
+b 2 e 3 b 2
+b 1 e 3 e 3 b 1
+b 1 e 3 e 4 b 1
+b 1 e 2 e 5 b 1
+b 1 f 1 b 1 e 7 b 1 f 1 b 1
+b 1 d 1 f 2 b 2 e 3 b 2 f 2 d 1 b 1
+b 1 f 1 d 1 c 1 f 2 b 3 f 2 c 1 d 1 f 1 b 1
+b 2 f 2 d 3 c 1 d 3 f 2 b 2
+b 1 c 1 b 3 f 5 b 3 c 1 b 1
+b 1 c 3 b 5 c 3 b 1
+b 3 b 3
+
+columns
+b 4
+b 1 d 1 f 1 b 1 c 1 b 1
+b 2 f 2 d 1 f 1 b 1 c 1 b 1
+b 1 e 2 b 1 f 1 c 1 f 1 b 1 c 1 b 1
+b 1 e 4 b 1 f 1 d 1 b 1 c 1 b 1
+b 1 e 2 e 1 b 1 f 1 d 1 f 1 b 1
+b 1 e 2 e 2 b 1 d 1 f 1 b 1
+b 1 e 1 e 3 b 1 c 1 f 1 b 1
+b 2 e 6 b 1 d 1 f 1 b 1
+b 1 b 1 e 4 b 1 f 1 d 1 f 1 b 1
+b 1 b 1 e 4 b 1 f 1 d 1 b 1 c 1 b 1
+b 1 c 1 b 1 b 1 e 2 b 1 f 1 c 1 f 1 b 1 c 1 b 1
+b 1 b 2 f 2 d 1 f 1 b 1 c 1 b 1
+b 1 d 1 f 1 b 1 c 1 b 1
+b 4

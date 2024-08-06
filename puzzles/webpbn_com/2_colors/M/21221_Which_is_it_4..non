@@ -1,0 +1,57 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "Mar  1, 2013"
+description "A ten pin bowling ball striking the pins..or a bomb about to blow up some buildings?"
+difficulty 2.5
+height 20
+id 21221
+link "https://webpbn.com/play.cgi?id=21221"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Which is it? #4."
+width 20
+
+rows
+2
+4,2
+2,2,4
+1,1,2,2
+1,7,1,1
+2,1,2,1,1
+2,1,2,1,1
+2,4,2,1,1
+3,1,1,2,2
+2,3,1,1
+2,3,2,1
+1,2,1,4,4
+1,4,1,1,4,2
+1,3,3,1,2
+2,2
+1,1,2
+3,2,2
+2,2,4,2
+1,3,3,2,2
+1,7,4
+
+columns
+6
+4,3,1
+3,3,2,2,1
+2,2,1,4,4
+2,2,1,2,2
+2,1,4,4
+2,1,2,2,1
+3,3,1
+2,1,1,3,1
+1,3,1,1,2
+2,3,3
+2,2,2
+2,1,1,3
+2,1,5
+3,7,2
+2,2,2,1
+2,1,1
+2,2,2
+2,3,2,2
+3,2,1,1

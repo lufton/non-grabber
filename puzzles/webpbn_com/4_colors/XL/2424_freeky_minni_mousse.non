@@ -1,0 +1,102 @@
+by "lindsay piron (lins)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by lindsay piron"
+date "Mar 13, 2008"
+description ""
+difficulty 2.25
+height 40
+id 2424
+link "https://webpbn.com/play.cgi?id=2424"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "freeky minni mousse"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+red 2 red 2
+red 3 red 4
+red 4 red 5
+red 12
+black 3 red 13
+black 4 red 6 black 2 red 5 black 2
+black 4 red 5 black 3 red 5 black 3
+black 5 red 3 black 4 red 4 black 5
+black 4 red 2 black 2 black 1 red 3 black 5
+black 7 black 7
+black 3 black 6
+black 3 black 5 black 3
+black 1 black 3 black 3 black 3 black 2 black 4
+black 2 black 1 black 1 black 1 black 1 black 1 black 8
+black 2 black 3 black 3 black 1 black 8
+black 1 black 1 black 6
+black 1 black 2 black 1 black 4
+black 1 black 4 black 1 black 4
+black 2 black 2 black 1 black 5
+black 1 black 1 red 1 black 4 red 1 black 1 black 5
+black 3 black 1 red 6 black 1 black 2 black 5
+black 2 black 6 black 1 black 5
+black 1 black 2 black 5
+blue 1 black 11 blue 3 black 5
+blue 2 blue 5 black 5
+blue 12 blue 7 black 6
+black 2 blue 27 black 10
+black 1 blue 28 black 10
+black 1 blue 28 black 9
+black 1 blue 28 black 7
+black 1 blue 3 blue 20 black 5
+blue 19 black 3
+blue 17
+blue 16
+
+columns
+black 5
+black 1 blue 4
+blue 6
+blue 6
+blue 5
+black 3 black 5 blue 5
+black 6 black 1 black 3 blue 5
+black 6 black 1 black 1 blue 5
+black 10 black 2 blue 5 blue 2
+red 3 black 5 black 2 blue 9
+red 8 black 3 blue 11
+red 9 black 1 black 3 black 1 blue 10
+red 8 black 2 black 1 black 1 black 2 black 1 blue 9
+red 5 black 2 black 3 black 1 red 2 black 1 black 1 blue 9
+red 3 black 2 black 4 red 1 black 1 black 1 blue 8
+red 2 black 3 black 4 red 1 black 1 black 1 blue 8
+red 2 black 3 black 3 black 1 black 1 red 1 black 1 black 1 blue 8
+red 6 black 1 black 1 black 1 black 1 red 1 black 1 black 1 blue 8
+red 8 black 3 red 2 black 1 black 1 blue 9
+red 9 black 1 black 1 black 1 blue 9
+red 9 black 2 black 1 blue 10
+red 6 black 5 black 2 blue 10
+black 8 black 3 blue 11
+black 16 blue 11
+black 7 blue 10
+black 5 blue 6
+blue 6
+blue 6
+blue 5 black 1
+black 6
+black 6
+black 5
+black 3 black 5
+black 4 black 6
+black 3 black 12
+black 17
+black 17
+black 18
+black 17
+black 4

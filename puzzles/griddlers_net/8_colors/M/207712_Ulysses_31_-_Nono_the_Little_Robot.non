@@ -1,0 +1,57 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/30/20"
+height 20
+id 207712
+link "https://www.griddlers.net/nonogram/-/g/207712"
+medium_time "0:06:04"
+points 1717
+popularity 73.14
+title "Ulysses 31 - Nono the Little Robot"
+width 12
+
+color a ffffff
+color b 000000
+color c ffcccc
+color d ff0000
+color e cc0000
+color f ff9933
+color g 999999
+color h 666666
+
+rows
+e 1 d 4 e 3
+e 2 d 3 e 2
+e 1 d 1
+e 1 d 1
+e 2 d 3 e 2
+e 1 d 8
+e 2 h 2 g 2 h 3 e 1
+e 1 h 1 g 3 g 1
+f 1 e 1 g 1 b 1 g 3 b 1 g 1 f 1
+f 1 d 1 g 1 b 1 g 3 b 1 g 1 f 1
+f 1 d 1 h 1 g 7 h 1 f 1
+d 2 h 2 d 2 g 1 h 2 d 1
+d 1 c 2 d 4 e 2 d 1
+e 1 d 1 c 4 e 3 d 1
+e 1 d 2 c 4 e 1 d 1
+e 1 d 2 c 2 e 1 d 2
+e 1 d 5
+e 2
+e 4 d 6
+e 2 d 6
+
+columns
+f 3
+e 1 e 3 d 4 e 2 e 1
+d 1 e 2 h 1 g 2 h 1 d 1 c 1 d 2 e 1 e 2
+d 1 e 1 e 1 d 1 h 1 g 1 h 1 c 2 d 2 e 1 e 2
+d 1 e 1 e 1 d 1 h 1 b 2 g 1 h 1 d 1 c 2 d 2 e 1 d 1
+d 2 e 2 d 2 g 5 d 2 c 3 d 1 e 1 d 2
+e 1 d 5 g 5 d 2 c 3 d 1 e 1 d 2
+e 1 d 1 d 2 h 1 g 5 d 1 e 1 c 1 e 1 d 1 d 2
+e 2 e 1 d 1 h 1 b 2 g 1 h 1 e 3 d 2 d 2
+e 1 e 1 d 1 h 1 g 1 h 1 e 2 d 2 d 2
+d 1 e 1 g 3 h 1 d 3 d 1
+f 3

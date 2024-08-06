@@ -1,0 +1,89 @@
+by "iris"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/23/04"
+height 32
+id 11344
+link "https://www.griddlers.net/nonogram/-/g/11344"
+medium_time "0:18:55"
+points 103563
+popularity 62.09
+title "South Park - Chef Knievel"
+width 32
+
+color a ffffff
+color b 6b6b6b
+color c bd0000
+color d 000073
+color e cecece
+color f 593939
+color g b5844a
+color h 000000
+
+rows
+b 8
+b 3 h 1 c 1 d 1 d 1 c 1 h 1 b 3
+b 2 h 3 c 1 d 1 d 1 c 1 h 4 b 2
+b 1 h 3 c 1 d 4 c 1 h 3 b 1
+b 1 h 2 c 1 d 1 d 1 c 1 h 2 b 1
+b 1 h 2 c 1 d 1 d 1 c 1 h 2 b 1
+b 1 h 2 c 1 d 4 c 1 h 2 b 1
+b 1 h 2 c 1 d 1 d 1 c 1 h 2 b 1
+b 1 h 1 c 1 d 1 d 1 c 1 h 1 b 1
+b 1 h 2 c 1 d 4 c 1 h 2 b 1
+b 1 h 1 c 1 d 1 d 1 c 1 h 1 b 1
+b 1 h 2 b 2 c 1 d 1 d 1 c 1 b 2 h 2 b 1
+b 1 h 1 b 3 f 3 g 2 f 3 b 3 h 1 b 1
+b 1 h 1 b 2 g 2 f 1 f 2 f 1 g 2 b 2 h 1 b 1
+b 1 h 1 b 1 g 2 f 1 e 1 e 2 f 1 g 2 b 1 h 1 b 1
+b 1 h 1 b 1 g 2 f 1 e 1 h 1 e 1 h 1 e 1 f 1 g 2 b 1 h 1 b 1
+b 1 h 1 b 1 g 2 f 1 e 1 f 1 g 2 b 1 h 1 b 1
+b 1 h 1 b 1 g 2 f 1 f 2 f 1 g 2 b 1 h 1 b 1
+b 1 h 1 b 1 g 3 f 1 f 1 g 2 f 1 f 1 g 2 h 1 b 1 h 1 b 1
+b 1 h 1 b 1 g 4 f 3 g 4 f 3 g 3 h 1 b 1 h 1 b 1
+b 1 h 1 b 1 g 5 h 8 g 4 h 1 b 1 h 1 b 1
+b 1 h 2 b 1 h 1 g 3 h 10 g 3 h 1 b 1 h 2 b 1
+b 1 h 1 b 1 h 6 g 6 h 6 b 1 h 1 b 1
+b 1 h 1 b 1 h 5 g 3 h 2 g 3 h 5 b 1 h 1 b 1
+b 1 h 2 b 1 h 6 g 2 h 2 g 2 h 6 b 1 h 2 b 1
+b 1 h 2 b 1 h 18 b 1 h 1 b 1
+b 1 h 1 b 1 h 18 b 1 h 1 b 1
+b 1 h 1 b 1 h 16 b 1 h 1 b 1
+b 1 b 2 h 4 b 4 h 5 b 1 b 1
+b 2 h 1 b 6 h 1 b 3
+b 8
+b 4
+
+columns
+b 8
+b 2 h 8 b 3
+b 2 h 3 h 3 b 3
+b 1 h 3 h 4 b 1
+b 1 h 2 h 2 b 1
+b 1 h 2 h 2 b 1
+b 1 h 2 b 12 h 1 b 1
+b 1 h 2 b 2 g 6 h 6 b 1
+b 1 h 1 b 1 g 8 h 6 b 1
+b 1 h 2 b 1 g 2 f 3 g 4 h 6 b 1
+b 1 h 1 b 1 g 1 f 1 f 1 g 3 h 7 b 1
+b 1 h 1 b 2 f 1 f 1 g 1 h 8 b 1
+b 1 h 1 b 1 f 1 f 1 h 3 g 1 h 6 b 1
+b 1 c 11 f 1 e 1 f 1 h 2 g 3 h 4 b 2
+b 1 d 11 f 1 e 1 h 1 f 1 g 1 h 2 g 3 h 3 b 4
+b 1 d 1 d 1 d 1 g 1 f 1 f 1 g 2 h 2 g 1 h 5 b 4
+b 1 d 1 d 1 d 1 g 1 f 1 e 3 f 1 g 2 h 2 g 1 h 5 b 4
+b 1 d 11 f 1 e 1 h 1 f 1 g 1 h 2 g 3 h 3 b 4
+b 1 c 11 f 1 e 1 f 1 h 2 g 3 h 4 b 2
+b 1 h 2 b 1 f 1 f 1 h 3 g 1 h 6 b 1
+b 1 h 1 b 2 f 1 f 1 g 1 h 8 b 1
+b 1 h 1 b 1 g 1 f 1 f 1 g 3 h 7 b 1
+b 1 h 2 b 1 g 2 f 3 g 4 h 7 b 1
+b 1 h 1 b 1 g 8 h 6 b 1
+b 1 h 2 b 2 g 3 h 9 b 1
+b 1 h 2 b 12 h 1 b 1
+b 1 h 2 h 1 b 1
+b 1 h 2 h 2 b 1
+b 1 h 3 h 4 b 1
+b 2 h 3 h 3 b 3
+b 2 h 8 b 3
+b 8

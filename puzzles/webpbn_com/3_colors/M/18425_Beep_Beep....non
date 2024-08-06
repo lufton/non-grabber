@@ -1,0 +1,60 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by valerie o..travis"
+date "Apr 24, 2012"
+description "...18 Wheeler backing up at you"
+difficulty 1.5
+height 19
+id 18425
+link "https://webpbn.com/play.cgi?id=18425"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Beep Beep..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 14
+black 1 red 1 black 1 red 1 black 3
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 3 black 1 black 3 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 2
+black 1 black 1 black 4
+black 15
+black 15
+black 1 red 1 red 1 black 2 black 2 red 1 red 1 black 1
+black 5 black 3 black 5
+black 3 black 3
+
+columns
+black 3
+black 16 red 1 black 2
+black 1 red 1 black 2 black 2
+black 1 black 1 black 2 red 1 black 2
+black 1 black 1 black 4
+black 1 black 2 black 3
+black 1 black 2 black 1
+black 16 black 1
+black 1 black 2 black 1
+black 1 black 2 black 3
+black 1 black 1 black 4
+black 1 black 1 black 2 red 1 black 2
+black 1 red 1 black 2 black 2
+black 16 red 1 black 2
+black 2 black 5
+black 2 black 3
+black 2 black 3
+black 1 black 2
+black 1 black 3
+black 5

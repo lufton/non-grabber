@@ -1,0 +1,98 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/19/21"
+height 25
+id 229906
+link "https://www.griddlers.net/nonogram/-/g/229906"
+medium_time "0:37:19"
+points 57865
+popularity 86.58
+title "Motorcycle"
+width 50
+
+color a ffffff
+color b 000000
+color c CC0000
+color f 666666
+color g CCCCCC
+color h 999999
+
+rows
+h 1
+h 3
+b 2 h 2 c 1
+c 1 h 1 c 1 h 2 b 2 g 1
+c 4 f 2 h 2 b 1 g 1
+c 6 b 2 h 1 b 1 g 1
+c 3 c 1 b 3 h 1
+c 3 c 1 b 3 h 1
+b 7 b 2 c 1 c 2 b 2 g 1 h 1
+c 4 b 7 b 3 c 9 g 1 b 1 g 1 h 1 c 5
+h 1 c 8 b 9 g 11 b 1 h 1 c 3 b 3
+c 2 h 9 b 3 h 3 f 1 g 2 f 1 g 5 f 2 g 1 b 1 c 2 h 1 b 7
+c 12 h 2 f 2 h 3 f 4 g 2 h 1 g 2 f 3 b 1 c 1 b 2 h 1 b 1 f 3 b 3
+c 2 b 3 f 4 b 1 c 1 h 1 c 1 f 2 h 3 f 4 g 5 f 2 b 2 c 2 b 2 f 1 h 1 g 2 f 2 b 3
+c 1 b 3 f 6 h 1 c 2 f 6 h 2 f 8 b 2 c 1 b 2 f 2 h 1 f 1 b 2
+b 2 f 2 g 3 f 1 h 1 f 1 c 2 f 5 h 2 f 8 h 1 b 1 c 2 b 1 f 2 h 2 f 1 b 2
+b 3 f 1 g 4 h 1 f 3 c 1 f 3 h 3 f 4 g 3 f 1 h 1 b 2 c 1 b 2 f 1 h 2 f 1 b 2
+b 3 f 1 g 5 f 6 h 2 f 1 g 1 f 4 g 1 h 1 g 1 f 1 h 1 b 2 b 2 f 1 h 2 f 1 b 2
+b 3 h 13 f 1 g 3 f 3 g 3 h 1 b 3 b 2 f 2 f 1 b 2
+b 2 h 9 f 12 h 3 b 3 b 3 f 1 f 2 b 2
+b 2 f 2 g 3 f 2 h 13 b 5 b 2 f 2 f 2 b 2
+g 1 b 2 f 5 b 3 b 5 b 2 f 6 b 2
+b 9 b 8
+b 7 b 6
+f 50
+
+columns
+c 1 f 1
+c 3 b 4 f 1
+h 1 c 3 b 7 g 1 f 1
+c 3 b 6 h 1 b 3 f 1
+c 2 h 1 c 1 b 2 f 3 h 2 f 1 b 3 f 1
+c 2 h 1 c 1 b 1 f 2 g 2 h 2 f 2 b 2 f 1
+c 2 h 1 c 1 f 2 g 3 h 2 g 1 f 1 b 2 f 1
+b 1 c 2 h 1 c 1 f 2 g 3 h 2 g 1 f 1 b 2 f 1
+b 2 c 1 h 1 c 1 f 2 g 3 h 2 g 1 f 1 b 2 f 1
+b 2 c 1 h 1 c 1 f 3 h 1 g 1 h 2 f 2 b 2 f 1
+b 2 c 1 h 1 c 1 b 1 f 1 h 1 f 2 h 2 f 1 b 3 f 1
+b 3 h 1 c 2 h 1 f 3 h 3 b 2 f 1
+b 3 h 3 c 2 f 2 h 1 f 1 h 1 b 1 f 1
+b 4 h 1 c 4 f 1 h 1 f 1 h 1 f 1
+b 3 f 6 h 1 f 1 h 1 f 1
+b 2 f 6 h 1 f 1 h 1 f 1
+b 1 h 3 f 3 h 2 f 1 h 1 f 1
+b 1 h 3 f 2 h 2 f 2 h 1 f 1
+b 2 h 3 f 2 h 1 f 1 g 1 f 1 h 1 b 1 f 1
+b 3 f 4 h 2 g 2 f 1 h 1 b 1 f 1
+b 2 g 2 f 2 h 2 f 2 g 1 f 1 h 1 b 1 f 1
+c 3 g 2 f 2 h 1 f 5 h 1 b 1 f 1
+c 1 c 1 g 1 f 9 h 1 b 1 f 1
+c 2 c 1 g 4 f 6 h 1 f 1
+c 1 c 1 g 4 f 2 g 3 h 1 b 1 f 1
+c 2 c 1 g 2 h 1 g 1 f 2 g 1 h 1 g 1 h 1 b 1 f 1
+b 1 c 2 c 1 g 4 f 2 g 3 h 1 b 1 f 1
+h 1 b 1 c 2 c 1 g 4 f 4 h 1 b 2 f 1
+h 2 c 3 c 1 g 1 f 5 h 2 b 3 f 1
+h 4 c 2 c 2 g 1 f 4 h 1 b 4 f 1
+c 2 f 1 c 4 g 3 f 1 b 6 f 1
+h 1 f 1 b 10 f 1
+h 2 b 4 f 1
+b 1 h 2 b 2 c 2 f 1
+b 3 h 2 g 1 c 3 b 4 f 1
+g 3 h 1 g 1 c 3 b 7 f 1
+h 2 c 1 b 3 f 4 b 3 f 1
+c 1 h 1 b 2 f 2 f 3 b 2 f 1
+c 1 b 1 h 1 f 2 f 2 b 2 f 1
+c 2 b 2 h 3 f 1 b 2 f 1
+c 1 b 2 f 1 g 1 h 3 f 1 b 2 f 1
+c 1 b 2 f 1 g 1 h 2 f 1 b 2 f 1
+c 1 b 2 f 2 f 1 b 2 f 1
+c 1 b 2 f 1 f 2 b 2 f 1
+b 3 f 1 f 2 b 2 f 1
+b 3 f 5 b 2 f 1
+b 8 f 1
+b 5 f 1
+f 1
+f 1

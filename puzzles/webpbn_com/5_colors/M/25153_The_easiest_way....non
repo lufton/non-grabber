@@ -1,0 +1,63 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Thomas Genuine"
+date "Aug  8, 2014"
+description "... to Pythagoras Theorem: (A+B)^2 = C^2 + 4(AB/2) A^2 + 2AB + B^2 = C^2 + 2AB A^2 + BÃâ¡2 = CÃâ¡2 :)"
+difficulty 1.25
+height 20
+id 25153
+link "https://webpbn.com/play.cgi?id=25153"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The easiest way..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 13 red 7
+black 1 black 3 red 1 red 1
+black 1 black 3 red 2 red 1
+black 1 black 3 red 1 red 1
+black 1 black 3 red 2 red 1
+black 1 black 3 red 1 red 1
+black 3 red 2 red 1
+blue 2 red 1 red 1
+blue 2 red 2 red 1
+blue 3 red 1 red 1
+blue 1 blue 1 red 3
+blue 1 blue 2 red 2
+blue 1 blue 1 red 2
+blue 1 blue 2 green 3
+blue 1 blue 1 green 3 green 1
+blue 1 blue 2 green 3 green 1
+blue 1 blue 1 green 3 green 1
+blue 1 blue 2 green 3 green 1
+blue 1 blue 1 green 3 green 1
+blue 7 green 13
+
+columns
+black 7 blue 13
+black 1 black 1 blue 3 blue 1
+black 1 black 2 blue 3 blue 1
+black 1 black 1 blue 3 blue 1
+black 1 black 2 blue 3 blue 1
+black 1 black 1 blue 3 blue 1
+black 1 black 2 blue 3
+black 1 black 1 green 2
+black 1 black 2 green 2
+black 1 black 1 green 3
+black 3 green 1 green 1
+black 2 green 2 green 1
+black 2 green 1 green 1
+red 3 green 2 green 1
+red 1 red 3 green 1 green 1
+red 1 red 3 green 2 green 1
+red 1 red 3 green 1 green 1
+red 1 red 3 green 2 green 1
+red 1 red 3 green 1 green 1
+red 13 green 7

@@ -1,0 +1,79 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/9/17"
+height 34
+id 187103
+link "https://www.griddlers.net/nonogram/-/g/187103"
+medium_time "0:12:51"
+points 5496
+popularity 83.03
+title "Daffodil"
+width 21
+
+color a ffffff
+color b 009900
+color c 00cc00
+color d ffffcc
+color e ff9933
+color f ffcc66
+color g ffff00
+
+rows
+g 1 f 3
+g 1 f 3
+g 3 f 3
+g 3 f 3
+d 3 g 2 f 2 g 1
+d 6 g 2 f 1 g 3 g 1
+d 6 g 2 e 1 g 2 e 1 g 4
+d 6 e 3 d 1 e 4 f 2
+d 5 e 1 d 4 e 1 f 1 e 1 g 1 f 3
+d 3 e 3 d 1 e 3 f 2 e 1 g 1 f 3
+e 2 d 2 e 1 f 3 e 1 g 1 f 3
+d 3 e 3 d 1 e 2 f 3 e 1 f 2
+d 6 e 2 d 3 e 1 f 1 e 1 g 3
+d 7 e 3 d 1 e 2 g 1 e 1 g 1
+d 6 b 1 g 2 e 1 d 2 e 1 g 3
+d 7 b 1 g 3 f 1 g 3 g 1 c 1
+d 5 b 2 g 2 f 2 g 1 f 1 c 1
+b 2 g 3 f 3 c 1
+b 2 g 2 f 2 c 2
+c 1 b 2 g 2 f 2 c 2
+c 1 b 2 g 1 f 1 c 2
+c 1 b 2 c 3
+c 2 b 2 c 3
+c 2 b 2 c 2
+c 2 b 2 c 3
+c 3 b 2 c 3
+c 2 b 2 c 3
+c 3 b 2 c 4
+c 3 b 2 c 4
+c 3 b 2 c 3
+c 3 b 2 c 3
+c 2 b 2 c 2
+c 2 b 1 c 1
+c 1 b 1
+
+columns
+d 2
+d 4
+d 4 d 5
+d 5 d 5
+d 6 d 6 c 7
+d 5 d 5 c 6
+d 5 d 5 c 5
+d 4 e 3 d 2 b 4 c 4
+g 2 g 1 e 7 g 2 b 7 c 4
+g 7 e 1 d 1 e 1 d 1 e 3 g 4 b 10 c 3
+f 2 g 4 e 2 d 5 e 2 g 5 b 9 c 2
+f 6 g 1 d 2 e 3 d 3 f 2 g 4 b 6
+f 5 g 2 e 1 d 1 e 1 f 1 e 1 d 1 e 1 d 1 g 1 f 5 c 3
+f 2 g 2 e 4 f 2 e 3 g 2 f 3 c 4
+g 2 e 1 f 5 g 3 f 2 c 4
+g 1 e 2 f 1 e 1 f 1 e 2 g 1 c 4
+g 2 f 1 g 1 e 1 g 1 e 1 g 4 c 5
+g 1 f 2 g 1 f 2 g 1 c 7
+f 4 g 1 c 11
+f 3 c 5
+f 1

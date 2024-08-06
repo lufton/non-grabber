@@ -1,0 +1,63 @@
+by "Paige Porter (paigep)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Paige Porter"
+date "Nov 18, 2008"
+description "This is a jigsaw puzzle"
+difficulty 1.25
+height 20
+id 4072
+link "https://webpbn.com/play.cgi?id=4072"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Jigsaw"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 10 blue 10
+black 10 blue 10
+black 8 blue 12
+black 8 blue 12
+black 4 red 2 black 4 blue 4 blue 4
+black 4 red 2 black 4 blue 4 blue 4
+red 10
+red 10
+red 10
+red 10
+red 10
+red 4 green 2 red 4
+red 4 green 2 red 4 black 2
+green 10 black 10
+green 10 black 10
+green 10 black 10
+green 10 black 10
+green 10 black 10
+green 4 green 4 black 4 black 4
+green 4 green 4 black 4 black 4
+
+columns
+black 6 red 7 green 7
+black 6 red 7 green 7
+black 6 red 7 green 7
+black 6 red 7 green 7
+black 4 red 7 green 7
+black 4 red 7 green 7
+black 6 red 7 green 7
+black 6 red 7 green 7
+black 2 blue 2 black 2 red 7 green 7
+black 2 blue 2 black 2 red 7 green 7
+blue 6 black 7
+blue 6 black 7
+blue 6 black 7
+blue 6 black 7
+blue 4 black 6
+blue 4 black 6
+blue 6 black 7
+blue 6 black 7
+blue 6 black 7
+blue 6 black 7

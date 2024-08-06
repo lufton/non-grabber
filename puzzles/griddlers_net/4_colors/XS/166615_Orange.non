@@ -1,0 +1,41 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 10
+id 166615
+link "https://www.griddlers.net/nonogram/-/g/166615"
+medium_time "0:00:24"
+points 15
+popularity 56.42
+title "Orange"
+width 10
+
+color a ffffff
+color b ff9900
+color c 66ff00
+color d 330066
+
+rows
+c 3
+c 2
+c 1
+b 5
+b 7
+b 7
+b 7
+b 7
+b 7
+d 2 b 5 d 3
+
+columns
+d 1
+b 5 d 1
+b 7
+b 7
+c 3 b 7
+c 2 b 7
+c 1 b 7
+b 5 d 1
+d 1
+d 1

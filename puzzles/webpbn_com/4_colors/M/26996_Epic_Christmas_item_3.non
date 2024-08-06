@@ -1,0 +1,62 @@
+by "Ellen Vollor (evollor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Ellen Vollor"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.0
+height 20
+id 26996
+link "https://webpbn.com/play.cgi?id=26996"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Epic Christmas item 3"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1
+green 1 green 1 black 6 blue 5
+green 1 green 1 green 1 black 7 blue 7
+green 1 green 1 black 6 blue 7
+green 1 green 1 black 3 blue 7
+green 1 black 3 blue 5
+green 1 black 3
+green 12
+green 14
+green 3 green 3
+green 3 green 3
+green 1 green 1
+green 1 blue 2 blue 1 blue 1 blue 1 blue 3 blue 2 green 1
+green 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 green 2
+green 1 blue 1 blue 3 blue 1 blue 1 blue 1 blue 2 green 1
+green 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 green 1
+green 1 blue 2 blue 1 blue 1 blue 2 blue 3 blue 2 green 1
+green 2 green 2
+green 18
+green 16
+
+columns
+green 1 green 1 green 1 green 1 green 5
+green 1 green 1 green 1 green 4 green 2
+green 1 green 1 green 1 green 2 blue 5 green 2
+green 1 green 1 green 3 blue 1 blue 1 green 2
+green 1 green 3 green 2
+black 1 green 2 blue 5 green 2
+black 3 green 2 blue 1 green 2
+black 3 green 2 blue 5 green 2
+black 3 green 2 green 2
+black 6 green 2 blue 5 green 2
+black 6 green 2 blue 1 green 2
+black 6 green 2 green 2
+blue 3 green 2 blue 5 green 2
+blue 5 green 2 blue 1 blue 1 green 2
+blue 5 green 2 blue 5 green 2
+blue 5 green 3 green 2
+blue 5 green 3 blue 5 green 2
+blue 5 green 2 blue 1 blue 1 blue 1 green 2
+blue 3 green 4 green 2
+green 5

@@ -1,0 +1,62 @@
+by "arcer"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/15/06"
+height 25
+id 38927
+link "https://www.griddlers.net/nonogram/-/g/38927"
+medium_time "0:09:57"
+points 10846
+popularity 61.91
+title "Lightning"
+width 16
+
+color a ffffff
+color b ff9900
+color c ffff00
+color d cccccc
+
+rows
+b 1
+b 2 d 1
+b 2 d 2
+b 3 d 2
+b 1 c 1 b 1 d 3
+b 1 c 2 b 1 d 2
+b 1 c 2 b 1 d 3
+b 1 c 3 b 1 d 2
+b 1 c 3 b 1 d 3
+b 1 c 4 b 1 d 2
+b 1 c 4 b 6
+b 1 c 9 b 1 d 3
+b 1 c 9 b 1 d 3
+b 6 c 4 b 1 d 3
+b 1 c 4 b 1 d 3
+b 1 c 3 b 1 d 3
+b 1 c 3 b 1 d 3
+b 1 c 2 b 1 d 3
+b 1 c 2 b 1 d 3
+b 1 c 1 b 1 d 3
+b 3 d 3
+b 2 d 3
+b 2 d 2
+b 1 d 2
+d 1
+
+columns
+b 1 b 2
+b 2 b 3
+b 1 c 1 b 1 b 4 d 2
+b 1 c 2 b 1 b 2 c 2 b 1 d 3
+b 1 c 3 b 3 c 3 b 1 d 3
+b 1 c 4 b 1 c 4 b 1 d 3
+b 1 c 9 b 1 d 3
+b 1 c 9 b 1 d 3
+b 1 c 4 b 1 c 4 b 1 d 3
+b 1 c 3 b 3 c 3 b 1 d 3
+b 1 c 2 b 2 d 2 b 1 c 2 b 1 d 3
+b 4 d 4 b 1 c 1 b 1 d 3
+b 3 d 5 b 2 d 3
+b 2 d 4 b 1 d 3
+d 3 d 2
+d 2 d 1

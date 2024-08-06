@@ -1,0 +1,57 @@
+by "Robyn Broyles (ginkgo100)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Robyn Broyles"
+date "Sep  9, 2009"
+description "After a questionable first attempt, this is an entirely logically solvable flight featherâa secondary flight feather this time, and thus wider. Primaries are at the wingtip, while secondaries form the row behind them."
+difficulty 2.0
+height 20
+id 6695
+link "https://webpbn.com/play.cgi?id=6695"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "#42 WCP: Flight logistics"
+width 20
+
+rows
+3
+1,1
+2,1
+2,1
+2,3
+2,5
+4,7
+13
+13
+12
+10
+11
+3,7
+1,3,8
+1,2,8
+2,8
+1,1,8
+3,4
+2,2
+1,1
+
+columns
+2,1,2
+1,2
+5,1
+3,1
+3,1,1
+4,3,1
+4,5
+11
+12
+12
+12
+13
+2,9
+2,8
+1,6
+1,5
+1,5
+1,5
+1,5
+7

@@ -1,0 +1,100 @@
+by "adap"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/13"
+height 40
+id 135704
+link "https://www.griddlers.net/nonogram/-/g/135704"
+medium_time "0:30:01"
+points 16833
+popularity 75.0
+title "Pingu"
+width 35
+
+color a cccccc
+color b 000000
+color c c98c00
+color d ff0000
+color e ffff33
+color f ccccff
+color g ffffff
+color h ccffff
+
+rows
+f 7 f 6
+f 7 f 6
+f 7 b 3 f 6
+f 6 h 1 b 4 b 4 f 5
+f 5 h 2 b 7 f 4 b 5 f 4
+f 1 h 3 b 9 f 3 b 5 f 3
+f 2 b 1 g 2 b 7 f 2 b 5
+f 4 b 1 g 1 b 5 g 2 b 1 f 2 b 4 f 2
+f 7 b 3 d 4 b 1 g 1 b 1 f 2 b 4 f 2
+f 6 b 2 d 5 b 3 f 3 b 3 f 3
+f 1 b 3 d 3 b 2 f 4 b 3 f 5
+h 4 f 2 b 8 f 4 b 3 f 6
+h 7 f 1 b 10 f 3 b 3 f 7
+h 7 b 7 g 2 b 8 f 8
+h 4 b 7 e 1 g 4 b 5 f 2 h 3 f 3
+h 4 b 7 e 1 g 5 b 3 h 1 f 2 h 4 f 3
+h 6 b 7 e 1 g 7 b 1 h 2 f 2 h 4 f 3
+h 5 b 7 e 1 g 7 b 1 h 2 f 2 h 5 f 3
+h 4 b 7 e 1 g 9 h 2 f 2 h 6 f 2
+h 4 b 6 e 2 g 9 h 2 f 2 h 8
+b 6 e 1 g 10 h 2 f 2 h 8
+b 6 e 1 g 10 h 2 f 2 h 8
+f 2 b 7 e 1 g 10 h 2 f 2 h 8
+f 1 b 6 e 2 g 10 h 12
+b 6 e 1 g 11 h 11
+b 6 e 1 g 11 h 11
+b 6 e 1 g 11 h 11
+b 6 e 1 g 11 h 1
+h 3 b 7 e 1 g 11 f 4
+h 2 b 8 e 1 g 11 f 8
+h 1 b 5 b 2 e 2 g 11 f 11
+b 5 f 2 b 2 e 1 g 12 f 12
+f 1 b 2 f 5 b 1 e 1 g 10 c 1 f 8 c 3 f 2
+f 8 e 2 g 10 c 2 f 7 c 4 f 2
+f 8 c 2 g 7 c 2 f 6 c 5 f 1
+f 6 c 3 c 2 f 4 c 6
+f 6 c 4 c 2 f 3 c 6
+f 6 c 11 c 9 f 2
+c 11 f 1 c 6 f 3
+c 8 f 1 f 3 h 2
+
+columns
+f 5 h 9 f 2 h 3 b 1 f 6
+f 8 h 9 f 1 h 2 b 3 f 5
+f 5 f 3 h 9 h 1 b 4 f 5
+f 5 f 2 h 9 b 4 f 6
+f 5 h 1 f 3 h 2 h 2 b 10 f 6
+f 4 h 2 f 2 h 2 h 1 b 13 f 7
+f 3 h 3 f 2 h 2 b 14 f 4 c 3
+f 2 f 2 b 17 f 3 c 4
+f 4 b 19 e 1 c 5
+f 1 b 17 e 4 c 1 c 3
+b 5 b 11 e 8 g 3 c 3
+b 2 g 2 b 11 e 5 g 11 c 3
+b 3 g 1 b 2 d 1 b 8 e 2 g 15 c 3
+b 5 d 2 b 6 e 2 g 17 c 3
+b 5 d 3 b 4 e 1 g 19 c 3
+b 5 d 3 b 3 e 1 g 20 c 3
+b 4 d 3 b 2 g 22 c 3
+b 3 g 1 b 5 g 22 c 2
+f 1 b 2 g 2 b 5 g 20 f 2
+f 2 b 4 f 2 b 2 g 20
+f 9 b 3 g 16 c 3
+f 9 b 5 g 14 c 5
+b 5 f 4 b 3 f 3 c 4
+b 13 h 11 f 6 c 2
+b 13 h 11 f 8 c 2
+b 12 h 2 f 6 h 4 f 9 c 2
+b 4 f 16 h 4 f 8 c 3
+f 10 h 10 f 7 c 4
+f 5 h 13 f 6 c 4
+f 3 f 4 h 13 f 4 c 5
+f 4 f 4 h 13 f 3 c 5 f 1
+f 5 f 4 h 12 f 3 c 5 f 2
+f 6 f 6 h 9 f 2 c 4 f 3
+f 6 f 6 h 8 f 4 f 2 h 1
+f 6 f 4 h 5 f 5 h 1

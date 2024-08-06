@@ -1,0 +1,42 @@
+by "lasvegas1966"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/31/15"
+height 8
+id 161585
+link "https://www.griddlers.net/nonogram/-/g/161585"
+medium_time "0:01:03"
+points 224
+popularity 66.0
+title "Color Rainbow"
+width 9
+
+color a ffffff
+color b ffff00
+color c ff9900
+color d ff0000
+color e 00d700
+color f 0000ff
+color g 00ffff
+color h 9900cc
+
+rows
+d 3
+d 2 c 3 d 2
+d 1 c 2 b 3 c 2 d 1
+c 1 b 2 e 3 b 2 c 1
+b 1 e 2 g 3 e 2 b 1
+g 1 f 2 h 3 f 2 g 1
+f 1 h 2 h 2 f 1
+h 1 h 1
+
+columns
+d 1 c 1 b 1 g 1 f 1 h 1
+d 1 c 1 b 1 e 1 f 1 h 1
+d 1 c 1 b 1 e 1 f 1 h 1
+d 1 c 1 b 1 e 1 g 1 h 1
+d 1 c 1 b 1 e 1 g 1 h 1
+d 1 c 1 b 1 e 1 g 1 h 1
+d 1 c 1 b 1 e 1 f 1 h 1
+d 1 c 1 b 1 e 1 f 1 h 1
+d 1 c 1 b 1 g 1 f 1 h 1

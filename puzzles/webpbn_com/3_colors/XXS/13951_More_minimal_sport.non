@@ -1,0 +1,31 @@
+by "Shannon Creviston (sacrevi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Shannon Creviston"
+date "May 16, 2011"
+description "That's a ringer"
+difficulty 1.25
+height 5
+id 13951
+link "https://webpbn.com/play.cgi?id=13951"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "More minimal sport"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 black 1 blue 1
+blue 3
+
+columns
+blue 4
+blue 1
+black 1 blue 1
+blue 1
+blue 4

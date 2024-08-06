@@ -1,0 +1,82 @@
+by "Lizzie Tonkin (LizzieTonkin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lizzie Tonkin"
+date "Jun  7, 2011"
+description "Cake! Black Forest Cake to be exact! If only it was real..."
+difficulty 1.75
+height 30
+id 14406
+link "https://webpbn.com/play.cgi?id=14406"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "So delicious..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+red 1
+0
+blue 1
+blue 1
+red 2 blue 1 red 2
+red 2 black 1 red 2 blue 1 black 2 red 2 red 2
+black 2 red 2 black 4 blue 1 black 5 red 2
+black 2 red 2 black 6 blue 1 black 9
+red 2 black 2 red 2 black 4 red 2 black 3 red 2
+black 3 red 2 black 4 red 2 red 2 black 2
+black 9 black 9
+black 22
+black 22
+black 22
+black 22
+black 22
+black 22
+black 22
+black 22
+black 22
+black 22
+black 20
+black 11
+0
+0
+0
+0
+0
+
+columns
+0
+0
+0
+0
+0
+0
+black 12
+black 1 black 13
+black 1 black 13
+black 1 red 2 black 12
+black 1 red 2 black 12
+red 2 black 2 black 12
+red 2 black 2 black 13
+black 2 red 2 black 13
+black 3 red 2 black 13
+red 2 black 4 black 12
+red 2 black 4 black 12
+red 1 blue 6 black 2 black 12
+black 5 black 12
+black 3 red 2 black 13
+red 2 black 2 red 2 black 13
+red 2 black 3 black 13
+black 3 black 13
+red 2 black 2 black 12
+red 2 black 1 red 2 black 12
+black 1 red 2 black 12
+black 1 black 13
+black 12
+0
+0

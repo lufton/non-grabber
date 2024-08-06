@@ -1,0 +1,63 @@
+by "Courtney (TheArcticFox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Courtney"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 21
+id 25424
+link "https://webpbn.com/play.cgi?id=25424"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Gotta Catch 'Em All!"
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 9
+black 11
+black 2 red 9 black 2
+black 2 red 11 black 2
+black 2 red 13 black 2
+black 2 red 15 black 2
+black 2 red 6 black 3 red 6 black 2
+black 2 red 5 black 5 red 5 black 2
+black 2 red 4 black 2 black 2 red 4 black 2
+black 8 black 1 black 8
+black 2 black 2 black 2 black 2
+black 2 black 5 black 2
+black 2 black 3 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 11
+black 9
+0
+
+columns
+0
+black 9
+black 11
+black 2 red 4 black 1 black 2
+black 2 red 5 black 1 black 2
+black 2 red 6 black 1 black 2
+black 2 red 7 black 1 black 2
+black 2 red 6 black 3 black 2
+black 2 red 5 black 5 black 2
+black 2 red 4 black 2 black 2 black 2
+black 2 red 4 black 2 black 1 black 2 black 2
+black 2 red 4 black 2 black 2 black 2
+black 2 red 5 black 5 black 2
+black 2 red 6 black 3 black 2
+black 2 red 7 black 1 black 2
+black 2 red 6 black 1 black 2
+black 2 red 5 black 1 black 2
+black 2 red 4 black 1 black 2
+black 11
+black 9
+0

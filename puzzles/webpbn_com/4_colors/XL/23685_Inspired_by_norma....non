@@ -1,0 +1,83 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Jan 29, 2014"
+description "...Norma's question on puzzle #23682, comment #1...and this was my answer in comment #2...lol"
+difficulty 2.75
+height 29
+id 23685
+link "https://webpbn.com/play.cgi?id=23685"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "Inspired by norma..."
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 6 black 2
+blue 3 blue 3 black 2
+blue 2 blue 2 black 2
+blue 3 blue 3 black 2
+blue 2 blue 2 black 3
+black 2 red 4 blue 1 black 3
+black 2 red 5 blue 2 black 5
+black 1 blue 2 red 2 red 1 black 2 black 2
+blue 1 red 2 red 3 black 1
+blue 2 red 4 blue 2
+blue 4 red 3 blue 1
+blue 1 blue 2 black 2 red 1 blue 1
+black 3 blue 1 blue 2 black 3 blue 1
+black 2 black 1 blue 1 blue 2 red 2 blue 1
+black 4 blue 1 red 2 blue 1
+black 2 black 1 blue 2 red 2 red 2 blue 2
+black 4 blue 1 red 5 red 4 black 1
+blue 2 red 4 red 3 black 1 black 2
+blue 2 blue 2 red 1 black 4
+blue 1 blue 1 black 3
+blue 2 blue 2 black 3
+blue 1 blue 3 blue 3 blue 1 black 2
+blue 3 blue 2 blue 2 black 2
+blue 5 blue 3 blue 3 blue 2 black 2 blue 2
+blue 7 blue 6 blue 2 black 1 blue 4
+blue 10 blue 11
+blue 29
+blue 31
+blue 32
+
+columns
+black 3 blue 1
+black 5 blue 2
+black 1 black 1 black 1 blue 3
+black 2 black 5 blue 4
+black 3 blue 7 black 1 blue 6
+red 2 blue 4 blue 3 blue 7
+red 2 blue 1 blue 1 blue 2 blue 8
+blue 1 red 2 blue 2 blue 3 blue 7
+blue 2 red 4 blue 2 blue 2 blue 6
+blue 1 red 3 blue 2 blue 1 blue 5
+blue 2 blue 1 blue 2 blue 5
+blue 2 red 2 blue 2 blue 4
+blue 1 red 2 blue 1 blue 4
+blue 2 black 1 red 2 blue 2 blue 3
+blue 1 black 2 red 5 blue 1 blue 3
+blue 1 black 2 red 4 blue 1 blue 3
+blue 1 blue 1 blue 3
+blue 1 blue 1 blue 3
+blue 2 blue 2 blue 3
+blue 1 blue 1 blue 4
+blue 2 blue 2 blue 4
+blue 2 blue 2 blue 4
+blue 1 red 2 blue 1 blue 6
+black 1 blue 2 red 3 red 1 blue 2 blue 6
+black 2 blue 3 red 3 red 2 blue 3 black 2 blue 4
+black 2 blue 1 red 3 red 3 blue 1 blue 1 black 2 blue 5
+black 3 black 2 red 1 blue 1 blue 1 red 3 black 3 blue 6
+black 5 blue 7 red 1 black 4 blue 6
+black 3 black 4 blue 5
+black 2 black 2 blue 4
+black 2 black 2 blue 3
+black 2 black 2 blue 2

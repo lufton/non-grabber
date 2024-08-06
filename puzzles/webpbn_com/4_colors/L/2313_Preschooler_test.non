@@ -1,0 +1,82 @@
+by "m2 (mercymercy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by m2"
+date "Feb 21, 2008"
+description "Which direction is the bus moving? To the right or to the left?"
+difficulty 1.25
+height 20
+id 2313
+link "https://webpbn.com/play.cgi?id=2313"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Preschooler test"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 20
+blue 3 blue 3
+blue 2 blue 2
+blue 2 blue 2
+blue 1 green 4 green 4 green 4 blue 1
+blue 2 green 1 green 1 green 1 green 1 green 1 green 1 blue 2
+blue 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1
+blue 2 green 4 green 4 green 4 blue 2
+blue 1 blue 1
+blue 2 blue 2
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 34
+black 3 black 3
+black 2 black 2 black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 3 black 3
+
+columns
+0
+0
+0
+blue 5
+blue 3 blue 1
+blue 3 blue 1
+blue 3 blue 1
+blue 2 blue 1 black 3
+blue 2 blue 1 black 2 black 2
+blue 1 blue 1 black 1 black 1 black 1
+blue 2 green 4 blue 1 black 2 black 2
+blue 1 green 1 green 1 blue 1 black 3
+blue 1 green 1 green 1 blue 1
+blue 1 green 4 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 green 4 blue 1
+blue 1 green 1 green 1 blue 1
+blue 1 green 1 green 1 blue 1
+blue 1 green 4 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 green 4 blue 1
+blue 1 green 1 green 1 blue 1
+blue 1 green 1 green 1 blue 1 black 3
+blue 2 green 4 blue 1 black 2 black 2
+blue 1 blue 1 black 1 black 1 black 1
+blue 2 blue 1 black 2 black 2
+blue 2 blue 1 black 3
+blue 3 blue 1
+blue 3 blue 1
+blue 3 blue 1
+blue 5
+0
+0
+0

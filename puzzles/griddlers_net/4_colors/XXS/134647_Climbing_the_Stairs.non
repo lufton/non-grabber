@@ -1,0 +1,31 @@
+by "flores"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/13"
+height 5
+id 134647
+link "https://www.griddlers.net/nonogram/-/g/134647"
+medium_time "0:00:19"
+points 12
+popularity 51.48
+title "Climbing the Stairs"
+width 5
+
+color a ffffff
+color b ffcccc
+color c 660000
+color d 04e1aa
+
+rows
+d 1 b 1 d 1 b 1 d 1
+d 1 b 1 d 1 c 2
+d 1 b 1 d 1
+d 1 c 2
+d 1
+
+columns
+d 5
+b 3 c 1
+d 3 c 1
+b 1 c 1
+d 1 c 1

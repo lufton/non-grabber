@@ -1,0 +1,31 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Apr  4, 2012"
+description "a campfire"
+difficulty 1.25
+height 5
+id 18166
+link "https://webpbn.com/play.cgi?id=18166"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "minimalist heat source"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 1 red 1
+red 3 red 1
+red 5
+black 5
+
+columns
+red 3 black 1
+red 2 black 1
+red 4 black 1
+red 1 black 1
+red 2 black 1

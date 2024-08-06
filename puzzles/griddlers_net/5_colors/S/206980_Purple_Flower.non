@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/2/20"
+height 20
+id 206980
+link "https://www.griddlers.net/nonogram/-/g/206980"
+medium_time "0:03:01"
+points 439
+popularity 80.97
+title "Purple Flower"
+width 10
+
+color a ffffff
+color c 33ff00
+color d 33cc00
+color e cc99ff
+color f 9900ff
+
+rows
+e 1
+e 3
+f 2 e 3 f 2
+f 4 e 1 f 4
+f 4 e 1 f 4
+c 1 f 3 e 1 f 3
+c 1 f 2 e 1 f 2
+c 2 c 1
+c 2 c 2
+c 2 c 1 d 1
+c 3 c 2 d 2
+c 3 c 1 d 3
+c 5 d 4
+c 3 d 4
+c 2 d 4
+d 4
+d 2
+d 1
+d 2
+d 2
+
+columns
+c 8 d 1
+f 2 c 8 d 2
+f 4 c 5 d 4
+f 5 c 2 d 3
+e 2 f 4 c 3 d 3
+e 7 c 4 d 4
+e 2 f 4 c 1 d 4
+f 5 d 4
+f 4 d 4
+f 2

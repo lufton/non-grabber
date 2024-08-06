@@ -1,0 +1,61 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by vindersloon"
+date "Dec 17, 2008"
+description "It's about a Dutch song by Harry Jekkers, a young boy is very dissapointed because he has to be the donkey in the christmasplay."
+difficulty 2.0
+height 20
+id 4410
+link "https://webpbn.com/play.cgi?id=4410"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WC # 17 part of the play"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 4
+black 1 black 2
+black 5
+red 1 black 4
+red 2 black 2
+red 2 red 2 red 2 red 1
+red 2 red 1 red 6
+red 4 red 7
+red 3 red 3 red 5
+red 1 black 1 red 3 black 1 red 3 red 6
+red 7 black 2 red 1 red 7
+red 8 red 2 red 5
+red 5 red 3 black 2 red 7
+red 2 black 1 red 1 red 1 black 2 red 6
+black 1 red 1 red 6
+red 3 red 3
+red 3 red 3
+red 2 red 2
+red 2 red 2
+
+columns
+red 2
+red 3 black 1
+red 2 red 3 black 1 red 1
+red 3 red 5
+red 2 black 1 red 3
+red 2 red 5
+red 10
+red 5
+red 3
+black 2
+red 1 black 1
+red 3 black 2
+red 3 red 1 black 2 red 4
+red 3 red 3 red 5
+black 1 red 3 red 2 red 5
+black 4 red 10
+black 2 black 3 red 13
+black 6 red 14
+black 4 red 11
+red 6

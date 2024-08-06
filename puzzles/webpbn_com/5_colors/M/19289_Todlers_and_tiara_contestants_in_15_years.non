@@ -1,0 +1,68 @@
+by "benjamin port (oneeyedplatypus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by benjamin port"
+date "Jul 11, 2012"
+description "shorthand of a joke i just wrote, sorry about all the white"
+difficulty 1.5
+height 25
+id 19289
+link "https://webpbn.com/play.cgi?id=19289"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Todlers and tiara contestants in 15 years"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 red 4
+blue 2 black 2 red 2
+blue 2 blue 1 black 2 red 1
+black 1 blue 2 black 3 red 2
+black 1 blue 2 black 1 green 1 red 1
+black 7 green 1 black 1 red 1
+blue 2 green 3 black 1
+blue 2 green 2 black 2 black 1
+blue 2 green 4 black 4
+blue 2 black 2
+blue 2 black 2
+blue 2 black 2
+blue 2 black 3
+blue 2 green 4
+blue 2 black 1 green 4
+blue 1 black 4 green 2
+black 5
+black 4
+black 3 blue 1
+green 7 black 3 blue 2 green 8
+green 6 black 3 green 1 blue 2 green 8
+green 6 black 10 green 4
+green 6 black 10 green 4
+green 10 blue 2 green 3 black 1 green 4
+green 10 blue 2 green 8
+
+columns
+green 6
+green 6
+green 6
+green 6
+green 6
+green 6
+green 1 black 3 green 2
+black 4 green 2
+black 2 black 5 green 2
+black 1 black 1 black 3 green 1 black 2 green 2
+blue 5 black 1 blue 10 black 3 blue 2 black 2 blue 2
+blue 5 black 1 blue 9 black 3 blue 3 black 2 blue 2
+black 1 green 2 black 4 green 2 black 2 green 2
+red 1 black 1 blue 1 black 1 black 1 green 3 black 1 green 2 black 2 green 2 black 2 green 2
+red 1 black 5 green 1 black 1 green 1 black 4 green 2 black 2 green 2 black 2 green 2
+red 2 black 2 green 3 black 1 green 1 black 4 green 3 green 2 black 3 green 1
+red 4 black 1 black 1 green 3 green 6
+red 3 black 1 black 1 green 6
+black 2 green 6
+black 1 green 6

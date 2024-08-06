@@ -1,0 +1,73 @@
+by "jessica ellison (cancer91)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by jessica ellison"
+date "Sep  2, 2008"
+description ""
+difficulty 1.25
+height 15
+id 3408
+link "https://webpbn.com/play.cgi?id=3408"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title ""
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5 red 5 green 1 green 1 red 5 blue 5 black 5 green 5
+blue 1 blue 1 red 1 green 1 green 1 red 1 blue 1 black 1 green 1
+blue 1 blue 1 red 1 green 1 green 1 red 1 blue 1 black 1 green 1
+blue 5 red 1 green 5 red 5 blue 1 black 5 green 1
+blue 1 blue 1 red 1 green 1 green 1 red 1 blue 1 black 1 green 1
+blue 1 blue 1 red 1 green 1 green 1 red 1 blue 1 black 1 green 1
+blue 1 blue 1 red 1 green 1 green 1 red 5 blue 5 black 5 green 1
+0
+black 3 green 5 blue 1 blue 1
+black 1 black 1 green 1 green 1 blue 2 blue 2
+black 1 black 1 green 1 green 1 blue 3
+black 1 black 1 green 5 blue 1
+black 1 black 1 green 1 green 1 blue 1
+black 1 black 1 green 1 green 1 blue 1
+black 3 green 1 green 1 blue 1
+
+columns
+blue 7
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 7
+red 1 black 7
+red 1 black 1 black 1
+red 7 black 1 black 1
+red 1 black 1 black 1
+red 1 black 3
+green 7
+green 1
+green 1
+green 1
+green 7
+red 7 green 7
+red 1 red 1 red 1 green 1 green 1
+red 1 red 1 red 1 green 1 green 1
+red 1 red 1 red 1 green 1 green 1
+red 1 red 1 red 1 green 7
+blue 1 blue 1
+blue 1 blue 1
+blue 7
+blue 1 blue 1
+blue 1 blue 1
+black 4 black 1 blue 2
+black 1 black 1 black 1 blue 2
+black 1 black 1 black 1 blue 5
+black 1 black 1 black 1 blue 2
+black 1 black 4 blue 2
+green 1
+green 1
+green 7
+green 1
+green 1

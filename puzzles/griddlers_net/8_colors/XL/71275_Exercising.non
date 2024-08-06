@@ -1,0 +1,98 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/2/08"
+height 42
+id 71275
+link "https://www.griddlers.net/nonogram/-/g/71275"
+medium_time "0:27:19"
+points 16907
+popularity 76.63
+title "Exercising"
+width 31
+
+color a ffcc33
+color b 666633
+color c 999999
+color d ffd8b1
+color e cc6699
+color f 666699
+color g ffdddd
+color h cc99cc
+
+rows
+b 4
+b 1 c 4 b 2
+b 10 c 1 b 1
+b 2 c 1 b 5 c 1 b 4 c 1 b 1
+b 1 c 2 b 7 c 2 b 4
+b 1 c 2 b 9 c 2 b 2 c 1 b 1
+b 1 c 1 b 5 d 1 b 5 c 1 b 2 c 1 b 1 b 1
+b 4 d 7 b 6 c 1 b 3
+b 1 c 1 b 1 d 11 b 5 c 2 b 1
+b 1 c 1 b 1 d 3 b 1 d 3 b 1 d 3 b 1 c 1 b 3 c 2 b 1
+b 3 d 3 b 1 d 3 b 1 d 3 b 1 c 1 b 1 b 4
+b 1 d 13 b 1 b 2
+b 1 d 13 b 1
+b 1 d 5 e 1 d 5 b 1
+b 1 d 11 b 1
+b 1 d 9 b 1
+b 1 d 5 b 1
+d 5
+d 1 f 1 d 5 f 1 d 1
+d 2 f 1 d 5 f 1 d 1 c 2 c 2
+d 4 f 5 d 1 c 1 g 2 c 2 d 2 c 2 g 2 c 1
+d 5 f 1 c 3 f 1 d 1 c 1 g 2 c 1 d 4 c 1 g 2 c 1
+d 4 f 1 c 3 f 1 c 1 h 2 c 1 d 4 c 1 h 2 c 1
+c 2 d 2 c 2 f 1 c 2 h 1 c 2 f 1 c 2 d 3 c 2
+c 1 g 2 c 2 d 2 c 2 g 2 c 1 f 1 c 2 h 1 c 3 f 1 d 3
+c 1 g 2 c 1 d 4 c 1 g 2 c 3 h 3 c 2 f 1
+c 1 h 2 c 1 d 4 c 1 h 2 c 1 f 8
+c 2 c 2 e 9
+e 1 h 2 g 3 h 2 e 1
+e 1 h 2 g 3 h 2 e 1
+e 1 h 2 g 1 e 1 g 1 h 2 e 1
+e 1 h 2 g 1 e 1 g 1 h 2 e 1
+e 1 h 2 g 1 e 1 g 1 h 2 e 1
+e 1 h 2 g 1 e 1 g 1 h 2 e 1
+e 1 h 2 g 2 e 1 g 2 h 2 e 1
+e 1 h 2 g 2 e 1 g 2 h 2 e 1
+e 1 h 2 g 2 e 1 g 2 h 2 e 1
+e 3 h 1 g 2 e 1 g 2 h 1 e 3
+b 1 e 7 b 1
+b 1 c 3 e 1 b 1 c 2 b 1
+b 1 c 3 b 1 c 1 b 1
+b 5
+
+columns
+c 3
+c 1 g 2 h 1 c 1
+c 1 g 2 h 1 c 1
+c 3
+c 1 d 2
+d 3
+d 3
+b 3 d 1 c 1 d 2
+b 3 c 2 b 3 b 2 d 3 c 3
+b 1 c 2 b 4 d 2 b 2 d 3 c 1 g 2 h 1 c 1 e 1
+b 1 c 2 b 2 d 7 d 4 c 1 g 2 h 1 c 1 e 4
+b 1 c 1 b 3 d 8 d 5 c 3 e 7 h 3 e 1 b 2
+b 1 c 1 b 3 d 9 f 2 d 2 f 2 c 1 f 1 e 1 h 10 e 1 c 1 b 1
+b 5 d 2 b 2 d 9 f 3 c 3 f 1 e 1 h 6 g 4 e 1 c 2 b 1
+b 5 d 13 f 1 c 4 h 1 f 1 e 1 g 10 e 1 c 2 b 1
+b 4 d 7 e 1 d 6 f 1 c 2 h 3 f 1 e 1 g 2 e 10 c 1 b 1
+b 6 d 13 f 1 c 4 h 1 f 1 e 1 g 10 e 1 b 3
+b 1 c 1 b 5 d 2 b 2 d 9 f 3 c 3 f 1 e 1 h 6 g 4 e 1 c 2 b 1
+b 1 c 1 b 1 c 1 b 3 d 9 f 2 d 2 f 1 c 2 f 1 e 1 h 10 e 1 c 1 b 1
+b 1 c 1 b 2 c 1 b 3 d 8 d 2 c 3 f 3 e 7 h 3 e 1 b 2
+b 1 c 1 b 2 c 2 b 2 d 7 c 1 g 2 h 1 c 1 e 4
+b 4 c 2 b 4 d 2 b 2 c 1 g 2 h 1 c 1 d 1 e 1
+b 1 c 1 b 6 c 2 b 2 b 2 c 3 d 2
+b 1 c 1 b 7 c 1 d 4
+b 2 c 2 b 3 d 4
+b 2 c 1 b 3 d 3
+b 1 c 2 b 2 c 1 d 2
+b 1 c 2 b 2 c 3
+b 5 c 1 g 2 h 1 c 1
+c 1 g 2 h 1 c 1
+c 3

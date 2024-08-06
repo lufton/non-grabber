@@ -1,0 +1,32 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Dec 14, 2010"
+description "Keep adding 5x5 squares to the quilt and I will publish when I have enough."
+difficulty 1.75
+height 5
+id 11371
+link "https://webpbn.com/play.cgi?id=11371"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "My Quilt square"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 green 2
+blue 2 green 1
+blue 2
+blue 2
+black 1 blue 2
+
+columns
+blue 2 black 1
+blue 2
+blue 2
+green 1 blue 2
+green 2 blue 1

@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tom King"
+date "May 29, 2014"
+description "This one requires a little more skill than the last two, but we haven;t entered edge logic, yet"
+difficulty 1.5
+height 20
+id 24621
+link "https://webpbn.com/play.cgi?id=24621"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Creating puzzles part 3"
+width 20
+
+rows
+2
+4,2
+3,3
+4,2
+3,1
+4,1
+1,1
+1,1
+1,6,6,1
+1,1,1,1,1,1
+1,6,6,1
+1,1
+1,1
+1,1
+1,1
+1,4,3,4,1
+1,1,1,1,1,1,1,1
+1,4,1,1,4,1
+1,1,1,1
+1,1,1,1
+
+columns
+1
+15
+1
+2,3,3
+1,1,1,1,1
+2,1,1,1,1
+1,1,1,3
+1,1,1
+2,3
+1,5
+2,1
+1,3,5
+1,1,1
+2,1,1
+1,1,1,3
+1,1,1,1,1
+2,3,1,1
+1,3
+2
+17

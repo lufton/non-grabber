@@ -1,0 +1,41 @@
+by "Kylie :) (misty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kylie :)"
+date "Dec 31, 2010"
+description "100 coins gets you a 1-up mushroom."
+difficulty 1.25
+height 10
+id 11624
+link "https://webpbn.com/play.cgi?id=11624"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Ultimate Coinage"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 7
+green 3 green 3
+green 3 green 2
+green 3 green 2
+green 1 green 1
+green 2 green 2
+green 7
+green 4 green 3
+green 2 black 1 black 1 green 2
+green 1 green 1
+
+columns
+green 2 green 1
+green 3 green 2
+green 10
+green 2 green 3
+green 1 green 1 black 1
+green 1 green 1
+green 1 green 1 black 1
+green 2 green 3
+green 10
+green 3 green 2

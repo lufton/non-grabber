@@ -1,0 +1,46 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/18/15"
+height 15
+id 164204
+link "https://www.griddlers.net/nonogram/-/g/164204"
+medium_time "0:01:46"
+points 538
+popularity 68.95
+title "Island"
+width 10
+
+color a ffffff
+color b 66cc00
+color c c98c00
+color d 00ccff
+
+rows
+b 4 b 5
+b 3 b 1
+b 8
+b 1 b 3 b 1
+b 1 b 1 c 1 b 1
+b 1 c 1 b 1
+c 1
+c 1
+c 3
+c 6
+c 1 d 2 c 2 d 2 c 1
+c 2 d 1 c 2 d 2 c 3
+d 10
+d 10
+d 10
+
+columns
+b 1 b 3 c 1 d 3
+b 1 b 1 c 2 d 3
+b 1 b 1 b 2 c 1 d 5
+b 4 c 2 d 1 c 1 d 3
+b 3 c 8 d 3
+b 4 c 3 d 4
+b 1 b 1 b 2 c 1 d 5
+b 1 b 2 c 1 d 1 c 1 d 3
+b 1 c 2 d 3
+b 2 c 1 d 3

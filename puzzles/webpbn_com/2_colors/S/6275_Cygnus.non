@@ -1,0 +1,47 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Jul 10, 2009"
+description "Swan"
+difficulty 2.75
+height 15
+id 6275
+link "https://webpbn.com/play.cgi?id=6275"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Cygnus"
+width 15
+
+rows
+4
+2,1
+4,1
+2,2,1
+2,1,1
+1,2
+1,2
+1,2,5
+1,2,3,2
+2,1,2,3
+2,3,2,1
+2,2,3
+2,2
+2,3
+11
+
+columns
+3
+1,5
+4,2,2
+4,1,1
+1,1,1,3,1
+1,2,1,2,1,1
+1,2,2,2,1
+1,2,2,1,1
+4,1,1,1
+2,1,1
+1,1,1,1
+1,1,4
+1,3,2
+3,1,1
+1

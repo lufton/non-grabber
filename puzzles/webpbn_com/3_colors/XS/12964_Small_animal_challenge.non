@@ -1,0 +1,41 @@
+by "Kit E. Katz (hello)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kit E. Katz"
+date "Mar 22, 2011"
+description "Polar bear in a snowstorm as seen through the porthole of an ice-locked ship. Hey... stop fogging up the window, bear!"
+difficulty 1.5
+height 10
+id 12964
+link "https://webpbn.com/play.cgi?id=12964"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title ""Small" animal challenge"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 6
+black 2 blue 4 black 2
+black 2 blue 2 blue 2 black 2
+black 1 blue 2 blue 2 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 black 3 blue 1 black 1
+black 1 blue 1 black 1 blue 2 black 1
+black 2 blue 1 blue 2 black 2
+black 2 blue 4 black 2
+black 6
+
+columns
+black 6
+black 2 blue 4 black 2
+black 2 blue 2 blue 1 black 2
+black 1 blue 2 black 1 blue 1 black 1
+black 1 blue 1 black 2 blue 1 black 1
+black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 2 blue 2 black 1
+black 2 blue 2 blue 2 black 2
+black 2 blue 4 black 2
+black 6

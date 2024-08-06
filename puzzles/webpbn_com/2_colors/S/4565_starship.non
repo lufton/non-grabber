@@ -1,0 +1,47 @@
+by "shay yatim (shay3979)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by shay yatim"
+date "Feb  5, 2009"
+description ""
+difficulty 1.75
+height 15
+id 4565
+link "https://webpbn.com/play.cgi?id=4565"
+note "published,definitely non-unique,definitely requires moderate lookahead"
+quality 2.0
+title "starship"
+width 15
+
+rows
+0
+5
+1,1
+1,1
+1,3,1
+1,1,1,1,1
+3,3,1
+5,1,5
+13
+9
+1,1
+2,2
+2,2
+1,1
+0
+
+columns
+1
+3,2
+3,2
+9
+1,3
+1,1,2
+1,1,1,2
+1,6
+1,1,1,2
+1,1,2
+1,3
+9
+2,2
+2,2
+1

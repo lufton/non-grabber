@@ -1,0 +1,62 @@
+by "naomi baron (moly)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by naomi baron"
+date "Dec 19, 2013"
+description "Christmas with blue"
+difficulty 1.75
+height 20
+id 23384
+link "https://webpbn.com/play.cgi?id=23384"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Red green colorblind proof"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1
+blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1
+black 1 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 green 1 blue 1 black 1 black 1 blue 1
+green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1
+green 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1
+blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1
+black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1
+blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1
+black 1 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 green 1 blue 1 black 1 black 1 blue 1
+black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1 blue 1 green 1 black 1 black 1 green 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1
+green 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 green 1 blue 1 green 1 blue 1
+blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1
+black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1
+
+columns
+black 1 blue 1 black 1 black 1 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1
+green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1
+black 1 blue 1 green 1 blue 1 black 1 black 1 black 1 blue 1 green 1 blue 1 black 1 black 1
+green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1
+black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1
+green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1
+black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1
+green 1 blue 1 black 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 black 1 blue 1 green 1 green 1 blue 1 green 1
+black 1 blue 1 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+green 1 blue 1 black 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 black 1 blue 1 green 1 green 1 blue 1 green 1
+black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1
+green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1
+black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1
+green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1
+black 1 blue 1 green 1 blue 1 black 1 black 1 black 1 blue 1 green 1 blue 1 black 1 black 1
+green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1
+black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1
+green 1 green 1 blue 1 green 1 blue 1 green 1 green 1 blue 1 green 1 blue 1
+black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1 black 1 blue 1 black 3 blue 1 green 1 blue 1 black 1
+green 1 blue 1 black 1 blue 1 green 1 green 1 blue 1 green 1 green 1 blue 1 black 1 blue 1 green 1 green 1 blue 1 green 1

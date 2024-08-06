@@ -1,0 +1,53 @@
+by "Valerie Mates (valerie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Valerie Mates"
+date "May  6, 2024"
+description "My son Corbin is very enthusiastic about his Minecraft shirts. .... The white stripe across the top of the shirt is the word MINECRAFT. The green box is one of those brown-and-green Minecraft cubes of dirt that the Minecraft world is built out of. And that's Alex or Steve (the Minecraft people) behind it, with a square red head and a blue t-shirt. .... Neither Corbin nor I play Minecraft, though Corbin's brothers Arlo and James do. Arlo has written some popular Minecraft mods, and Jan spent enormous amounts of time re-creating a copy of Ann Arbor in our local public library's Minecraft server."
+difficulty 1.25
+height 15
+id 38600
+link "https://webpbn.com/play.cgi?id=38600"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Corbin's clothing item - WCP #186"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 3 black 3
+black 11
+black 13
+black 13
+black 4 black 4
+black 7
+black 2 red 2 black 3
+black 2 red 2 black 3
+black 1 blue 4 black 2
+black 1 blue 4 black 2
+black 2 blue 1 green 3 black 1
+black 2 blue 1 green 3 black 1
+black 3 green 3 black 1
+black 7
+
+columns
+0
+black 3
+black 4
+black 5
+black 14
+black 4 black 3 blue 2 black 4
+black 3 black 1 red 2 blue 4 black 2
+black 3 black 1 red 2 blue 2 green 3 black 1
+black 3 black 3 blue 2 green 3 black 1
+black 4 black 5 green 3 black 1
+black 14
+black 5
+black 4
+black 3
+0

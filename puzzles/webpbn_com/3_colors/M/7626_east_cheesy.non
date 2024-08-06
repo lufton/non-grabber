@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by sanane samanye"
+date "Jan 19, 2010"
+description "flamingo sunset"
+difficulty 1.5
+height 20
+id 7626
+link "https://webpbn.com/play.cgi?id=7626"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "east cheesy"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 4 black 4 red 2
+red 4 black 7 red 1
+red 5 black 2 red 4 black 1 red 2
+red 7 black 2 red 7
+red 8 black 2 red 6
+red 10 black 2 red 6
+red 11 black 2 red 5
+red 2 black 5 red 5 black 2 red 4
+black 12 red 1 black 3 red 3
+black 15 red 3
+red 1 black 14 red 3
+red 2 black 12 red 3
+red 2 black 11 red 3
+red 2 black 8 red 4
+red 3 black 4 red 5
+red 3 black 2 red 5
+red 2 black 1 red 3
+black 1
+black 1
+
+columns
+black 1
+red 3 black 2 red 2
+red 5 black 3 red 2
+red 5 black 5 red 2
+red 6 black 6 red 2
+red 7 black 7 red 2
+red 7 black 7 red 2
+red 8 black 8 red 2
+red 2 black 2 red 5 black 8 red 1
+red 1 black 4 red 4 black 11
+red 1 black 2 red 1 black 2 red 3 black 7 red 2
+red 1 black 2 red 2 black 2 red 2 black 6 red 3
+red 1 black 2 red 3 black 2 red 2 black 5 red 3
+red 1 black 1 red 4 black 7 red 3
+red 1 black 2 red 4 black 6 red 3
+red 7 black 3 red 4
+red 12
+red 10
+red 6
+0

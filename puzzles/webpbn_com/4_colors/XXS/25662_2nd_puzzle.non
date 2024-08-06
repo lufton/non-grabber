@@ -1,0 +1,30 @@
+by "ben jammin ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by ben jammin"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.0
+height 4
+id 25662
+link "https://webpbn.com/play.cgi?id=25662"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "2nd puzzle"
+width 4
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 red 1 green 1 black 1
+red 1 black 2 green 1
+green 1 black 2 red 1
+black 1 green 1 red 1 black 1
+
+columns
+black 1 red 1 green 1 black 1
+red 1 black 2 green 1
+green 1 black 2 red 1
+black 1 green 1 red 1 black 1

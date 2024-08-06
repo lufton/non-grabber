@@ -1,0 +1,79 @@
+by "abrek"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/22/07"
+height 25
+id 47394
+link "https://www.griddlers.net/nonogram/-/g/47394"
+medium_time "0:07:18"
+points 4326
+popularity 60.45
+title "Plane"
+width 30
+
+color a 7ea8fc
+color b ffffff
+color c 0f0f9a
+color d cccccc
+color e 000000
+color f 800000
+color g 008000
+
+rows
+c 2
+c 6
+c 6
+c 6
+c 7 d 1
+c 1 c 7 d 1
+c 3 c 4 d 1 c 2 d 1 c 3 d 3
+c 19 d 3 c 3
+c 13 e 8 d 1 c 5
+c 4 e 1 e 1 c 6
+e 2 e 2 c 3
+e 1
+0
+0
+0
+0
+0
+f 2
+f 5
+g 1 b 1 g 9 f 7
+g 1 b 2 g 11 f 9
+g 3 b 2 g 21 f 2 g 1 f 1
+g 5 b 3 g 22
+g 8 b 4 g 18
+g 12 b 1 g 17
+
+columns
+c 3 g 6
+c 4 b 2 g 4
+c 4 g 1 b 1 g 4
+c 1 c 3 g 2 b 1 g 3
+c 2 c 3 g 2 b 1 g 3
+c 3 c 2 g 3 b 1 g 2
+c 2 c 2 g 3 b 1 g 2
+c 2 c 2 g 3 b 1 g 2
+c 3 c 2 g 4 b 1 g 1
+c 2 c 2 g 4 b 1 g 1
+c 3 c 3 g 4 b 1 g 1
+c 2 c 3 g 3 b 1 g 1
+c 2 c 3 g 4 b 1
+c 6 g 5
+c 2 d 1 c 1 e 1 e 1 g 4
+c 4 e 3 g 4
+c 4 e 1 g 4
+c 1 d 1 c 1 e 1 g 4
+c 3 e 3 g 4
+c 2 d 1 e 1 e 2 g 4
+d 2 c 1 d 1 e 1 g 4
+d 2 e 1 f 1 g 4
+d 1 c 1 d 1 f 1 g 4
+d 1 c 2 f 2 g 4
+c 3 f 2 g 4
+c 2 f 3 g 4
+c 2 f 4 g 3
+c 3 f 4 g 3
+c 2 f 4 g 4
+c 2 f 5 g 3

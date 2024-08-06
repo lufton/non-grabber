@@ -1,0 +1,60 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/22/05"
+height 20
+id 27208
+link "https://www.griddlers.net/nonogram/-/g/27208"
+medium_time "0:04:18"
+points 422
+popularity 65.82
+title "Tart"
+width 15
+
+color a 000000
+color b ff0000
+color c ffe300
+color d 83fef7
+color e 0000fe
+color f ffaaa8
+color g fffef3
+color h fffec1
+
+rows
+h 1 c 1 h 2
+h 2 c 2 h 2
+h 2 c 1 h 2
+h 1 e 2 h 1
+e 2
+g 3 e 2 g 4
+b 1 g 9 b 1 g 1
+g 3 b 1 g 2 b 1 g 2 b 1 g 4
+g 14
+g 2 f 4 g 3 f 2 g 2
+b 10 g 1
+f 10
+b 10
+f 10
+d 14
+d 12
+d 2
+d 2
+d 4
+d 6
+
+columns
+g 2 d 1
+b 1 g 3 d 2
+g 4 b 1 f 1 b 1 f 1 d 2
+g 2 b 1 g 1 f 1 b 1 f 1 b 1 f 1 d 2
+h 2 g 4 f 1 b 1 f 1 b 1 f 1 d 2 d 1
+h 4 g 4 f 1 b 1 f 1 b 1 f 1 d 2 d 2
+c 2 e 3 g 1 b 1 g 1 f 1 b 1 f 1 b 1 f 1 d 6
+h 1 c 2 e 3 g 4 b 1 f 1 b 1 f 1 d 6
+h 4 g 5 b 1 f 1 b 1 f 1 d 2 d 2
+h 2 g 2 b 1 g 2 b 1 f 1 b 1 f 1 d 2 d 1
+g 4 f 1 b 1 f 1 b 1 f 1 d 2
+g 1 b 1 g 2 f 1 b 1 f 1 b 1 f 1 d 2
+g 5 d 2
+g 3 d 1
+0

@@ -1,0 +1,61 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Dec 22, 2012"
+description "a mouse peeking out of a large block of cheese....."
+difficulty 3.25
+height 20
+id 20659
+link "https://webpbn.com/play.cgi?id=20659"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "I'm in heaven!(tuffy, but no guessing!)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5 black 2
+black 5 black 1
+black 5 black 1
+black 3 black 2
+black 2
+black 2 black 1
+black 3 black 3
+black 4 black 3 black 3
+black 6 black 1 black 1
+black 5 black 2 black 1
+black 2 black 2 black 2 black 2
+black 1 black 1 black 4 black 4
+black 2 black 1 black 3 black 1 black 1
+black 3 black 3 black 1
+black 1 black 1 black 2 black 2
+black 1 black 1 red 1 black 1 black 1 black 1
+black 4 black 2 black 3 black 1
+black 9 black 3 black 1
+black 2 black 3 black 1 black 1
+black 1
+
+columns
+black 3 black 2
+black 2 black 3 black 2
+black 3 black 2 black 1 black 4
+black 4 black 4 black 2 black 3
+black 4 black 5 black 1
+black 4 black 3 black 1
+black 3 black 2 black 1 black 1 black 2
+black 5 black 2
+black 5 black 2
+black 4 red 1 black 2
+black 2 black 4
+black 4
+black 3
+0
+black 3 black 2
+black 1 black 2 black 2 black 2 black 4
+black 4 black 2 black 2 black 2
+black 5
+black 4
+black 6

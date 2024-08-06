@@ -1,0 +1,71 @@
+by "Pam Negri (pamnegri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Pam Negri"
+date "Mar 14, 2009"
+description "my try at the flag of argentina green is yellow"
+difficulty 1.0
+height 20
+id 5345
+link "https://webpbn.com/play.cgi?id=5345"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "flag 2"
+width 30
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 30
+blue 30
+blue 30
+blue 30
+blue 30
+blue 30
+black 2
+black 1 black 1
+black 1 black 2 black 1
+black 1 black 4 black 1
+black 1 black 4 black 1
+black 1 black 2 black 1
+black 1 black 1
+black 2
+blue 30
+blue 30
+blue 30
+blue 30
+blue 30
+blue 30
+
+columns
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 black 2 blue 6
+blue 6 black 1 black 1 blue 6
+blue 6 black 1 black 2 black 1 blue 6
+blue 6 black 1 black 4 black 1 blue 6
+blue 6 black 1 black 4 black 1 blue 6
+blue 6 black 1 black 2 black 1 blue 6
+blue 6 black 1 black 1 blue 6
+blue 6 black 2 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6
+blue 6 blue 6

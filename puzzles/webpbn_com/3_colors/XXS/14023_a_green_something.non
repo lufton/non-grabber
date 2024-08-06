@@ -1,0 +1,31 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 20, 2011"
+description "an apple or a pear, whatever you like."
+difficulty 1.0
+height 5
+id 14023
+link "https://webpbn.com/play.cgi?id=14023"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "a green something"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1
+green 1 black 1 green 1
+green 5
+green 5
+green 3
+
+columns
+green 2
+green 4
+black 2 green 3
+green 4
+green 2

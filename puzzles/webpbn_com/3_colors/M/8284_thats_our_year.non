@@ -1,0 +1,76 @@
+by "Rachel Barient (barient)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Rachel Barient"
+date "Apr  6, 2010"
+description "class of 2010!"
+difficulty 1.75
+height 15
+id 8284
+link "https://webpbn.com/play.cgi?id=8284"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "thats our year!"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 4 red 1 red 1 black 8 red 1 red 1 black 2 red 1 red 1 black 8 red 1
+red 1 black 6 red 2 black 8 red 1 red 1 black 3 red 1 red 1 black 8 red 1
+red 1 black 2 red 3 black 2 red 2 black 1 red 6 black 1 red 1 red 1 black 2 red 1 black 1 red 1 red 1 black 1 red 6 black 1 red 1
+red 1 black 2 red 1 red 1 black 3 red 2 black 1 red 1 red 1 black 1 red 2 black 2 red 2 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 1 red 1 red 1 black 3 red 1 red 1 black 1 red 1 red 1 black 1 red 2 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 2 red 1 black 2 red 1 red 1 black 1 red 1 red 1 black 1 red 3 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 2 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 2 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 2 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 2 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 2 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1
+red 1 black 2 red 8 black 1 red 6 black 1 red 6 black 1 red 5 black 1 red 6 black 1 red 1
+red 1 black 8 red 2 black 8 red 2 black 8 red 2 black 8 red 1
+red 1 black 8 red 2 black 8 red 2 black 8 red 2 black 8 red 1
+
+columns
+red 3 red 4
+red 1 black 2 red 1 red 1 black 4
+red 1 black 2 red 1 red 2 black 5
+red 1 black 2 red 1 red 2 black 3 red 2 black 2
+black 2 red 1 red 2 black 3 red 2 red 1 black 2
+black 2 red 2 black 4 red 1 red 1 black 2
+black 2 red 1 black 3 red 2 red 1 black 2
+black 5 red 1 red 1 black 2
+red 1 black 3 red 1 red 1 black 2
+red 3 red 3
+red 15
+black 15
+black 2 red 11 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 red 1 black 2
+black 2 red 11 black 2
+black 15
+red 15
+red 3 red 3
+red 1 black 2 red 1 red 1 black 2
+red 1 black 2 red 1 red 1 black 2
+red 1 black 2 red 1 red 1 black 2
+black 2 red 11 black 2
+black 15
+red 13 black 2
+red 1 black 2
+red 1 black 2
+red 3
+red 15
+black 15
+black 2 red 11 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 red 1 black 2
+black 2 red 11 black 2
+black 15
+red 15

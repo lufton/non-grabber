@@ -1,0 +1,36 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jota"
+date "Mar 16, 2023"
+description "inspired by Brian's 36535"
+difficulty 1.0
+height 4
+id 36541
+link "https://webpbn.com/play.cgi?id=36541"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "My morse"
+width 15
+
+rows
+1,3,3,3
+3,3,3
+3
+1,3
+
+columns
+4
+2
+4
+1,1
+2,1
+1
+2
+1
+2
+1
+2
+1
+1
+0
+0

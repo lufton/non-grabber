@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Apr 29, 2009"
+description "Campfire"
+difficulty 3.0
+height 20
+id 5735
+link "https://webpbn.com/play.cgi?id=5735"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Scouting staple"
+width 20
+
+rows
+1,1,1
+2,2,2
+2,1,2,2
+2,2,2,3
+2,1,2,2
+2,2,1,2
+2,2,1,2
+2,2,1,2
+3,3,2
+7
+11
+3,10
+3,3,4
+1,1,7,1,1
+1,6,4,1,1
+2,3,1,1,4,2
+3,3,1,4
+1,1,2,2
+1,1
+3
+
+columns
+3
+1,2
+2,2
+4,2,3
+7,2,2
+3,2,2,2
+1,1,1,2
+5,4,6
+2,3,6,1,1
+3,7,1,1
+3,6,1,1
+2,8,6
+3,3,2
+3,4,2
+6,2,2
+3,2,2
+2,4
+2,2
+1,2
+3

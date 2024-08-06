@@ -1,0 +1,41 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Sep 14, 2016"
+description "a ploverchick."
+difficulty 1.5
+height 10
+id 28741
+link "https://webpbn.com/play.cgi?id=28741"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "tiny waterlover"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 3
+black 1 blue 3 blue 1 black 1
+blue 1 black 3 blue 2 black 1
+blue 4 black 1 blue 2 black 1
+blue 4 black 1 blue 1
+black 2
+black 2
+black 2
+black 3
+
+columns
+blue 1
+blue 2
+blue 3
+black 2 blue 2 black 1
+blue 1 black 2 blue 1 black 3
+blue 1 black 1 blue 1 black 2 black 2
+blue 5 black 1
+blue 1 blue 1 black 1 black 1
+blue 2 black 1
+black 1

@@ -1,0 +1,39 @@
+by "Sheri Haemmelmann (Sheri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Sheri Haemmelmann"
+date "Jan 14, 2012"
+description "your awesome"
+difficulty 1.0
+height 6
+id 17149
+link "https://webpbn.com/play.cgi?id=17149"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "after the rain comes down"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 1 green 2 blue 1
+red 3 green 2 blue 3
+black 1 red 2 green 2 blue 2 black 1
+black 1 black 1 red 1 green 2 blue 1 black 1 black 1
+black 1 black 1
+
+columns
+black 1
+red 1 black 1 black 1
+red 2 black 1
+red 4
+green 4
+green 4
+blue 4
+blue 2 black 1
+blue 1 black 1 black 1
+black 1

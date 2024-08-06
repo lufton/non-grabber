@@ -1,0 +1,67 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Aug  8, 2021"
+description "cough on me!"
+difficulty 1.5
+height 25
+id 35286
+link "https://webpbn.com/play.cgi?id=35286"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Don't"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+black 1 black 1 black 1
+blue 5
+blue 5
+blue 5
+black 2
+black 2
+black 4
+black 7
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 6
+black 10
+black 3 black 2
+black 2 black 2
+black 2 black 2 black 1
+black 12
+black 14 black 1
+black 4 black 3 black 1
+black 2 black 4
+black 3 black 4
+black 15 green 1
+green 1 green 1 black 12 green 1 green 2
+green 20
+
+columns
+green 2
+black 3 green 1
+black 5 green 2
+black 2 black 3 black 3 green 1
+black 1 black 7 black 2 green 1
+black 3 black 2 black 3 black 2 green 1
+black 2 black 3 black 2 black 2 green 1
+black 2 black 2 black 2 black 2 green 1
+black 1 black 2 black 2 black 2 green 1
+black 2 black 2 black 2 black 2 green 1
+black 1 blue 3 black 2 black 2 black 2 black 2 green 1
+black 1 blue 3 black 5 black 3 black 2 black 2 green 1
+black 2 blue 3 black 7 black 1 black 3 black 2 green 1
+black 1 blue 3 black 2 black 6 black 2 green 1
+black 1 blue 3 black 2 black 3 black 3 green 1
+black 5 green 1
+black 4 green 2
+black 2 green 1
+black 1 black 3 green 2
+green 3

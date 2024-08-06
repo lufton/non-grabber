@@ -1,0 +1,84 @@
+by "Belf_"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/20/14"
+height 35
+id 146792
+link "https://www.griddlers.net/nonogram/-/g/146792"
+medium_time "0:17:59"
+points 5966
+popularity 83.19
+title "Space Rocket"
+width 25
+
+color a 000066
+color b ffffff
+color c cc0000
+color d 999999
+color e 66ffff
+color f ffff33
+color g ff6600
+
+rows
+f 3
+f 1
+0
+c 2 f 1
+c 4 f 3
+c 6 f 1
+c 8
+c 8
+c 10
+c 2 d 6 c 2
+d 3 c 6 d 3
+f 1 c 3 d 6 c 3
+f 3 d 12
+f 1 d 14
+d 4 c 4 d 6
+d 3 c 2 e 2 c 2 d 5
+d 3 c 1 e 2 b 1 e 1 c 1 d 5
+d 3 c 1 b 2 e 2 c 1 d 5
+d 2 c 2 e 2 c 2 d 5 f 1
+d 3 c 4 d 5 f 3
+c 3 d 12 c 3 f 1
+c 5 d 10 c 5
+c 5 d 2 c 6 d 2 c 5
+c 8 d 6 c 8
+c 6 d 2 g 2 f 2 g 2 d 2 c 6
+c 5 g 2 f 4 g 2 c 5
+c 3 g 2 f 5 g 3 c 3
+c 1 g 2 f 6 g 2 c 1
+f 1 g 3 f 5 g 2
+f 3 g 2 f 4 g 3
+f 1 g 3 f 2 g 3
+g 2 f 1 g 4 f 1
+g 4 f 3
+g 3 f 1
+g 1
+
+columns
+f 1
+f 3 c 5
+f 1 c 6
+c 7 f 1
+c 6 f 3
+d 5 c 6 f 1
+d 1 c 1 d 9 c 4
+f 1 c 2 d 1 c 1 d 11 c 1 d 1 g 3
+f 2 c 4 d 1 c 1 d 3 c 4 d 4 c 1 d 1 g 6
+f 1 c 4 d 1 c 1 d 3 c 2 e 1 b 1 c 2 d 2 c 1 d 1 g 2 f 2 g 4
+c 5 d 1 c 1 d 3 c 1 e 2 b 1 e 1 c 1 d 2 c 1 d 1 g 1 f 5 g 4
+c 6 d 1 c 1 d 3 c 1 e 1 b 1 e 2 c 1 d 2 c 1 d 1 f 8 g 3
+c 6 d 1 c 1 d 3 c 2 e 2 c 2 d 2 c 1 d 1 f 7 g 3
+c 5 d 1 c 1 d 4 c 4 d 3 c 1 d 1 g 1 f 5 g 3
+c 4 d 1 c 1 d 11 c 1 d 1 g 3 f 2 g 3
+c 4 d 1 c 1 d 11 c 1 d 1 g 7
+c 2 d 1 c 1 d 11 c 1 d 1 g 4
+d 1 c 1 d 9 c 4
+d 6 c 6 f 1
+f 1 c 6 f 3
+f 3 c 7 f 1
+f 1 c 6
+f 1 c 5
+f 3
+f 1

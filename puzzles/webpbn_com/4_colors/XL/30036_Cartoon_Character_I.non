@@ -1,0 +1,99 @@
+by "Aurelian Ginkgo (AurelianGinkgo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Aurelian Ginkgo"
+date "Jul 26, 2017"
+description "Who wants to play "guess the character"? I am aware that not everyone will know who this guy is because he is relatively new, so it is not against the rules to do research."
+difficulty 2.5
+height 50
+id 30036
+link "https://webpbn.com/play.cgi?id=30036"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Cartoon Character I"
+width 27
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 blue 5 blue 5
+blue 6 green 1 blue 1 green 6 blue 4
+blue 6 green 3 green 9 blue 3
+blue 6 green 2 green 7 green 2 blue 3
+green 12 blue 3
+green 6 green 15 blue 2
+green 23 blue 1
+green 23 blue 1
+blue 1 green 21 blue 1
+green 23
+green 25
+green 26
+green 1 green 9 black 3 green 9
+blue 1 green 3 black 3 green 5 black 4 green 7
+blue 3 green 2 black 1 black 2 green 4 black 2 green 7
+blue 3 green 1 black 2 black 2 green 3 black 2 green 6
+blue 3 black 2 black 3 green 2 black 2 green 5
+blue 4 black 2 black 2 black 5 green 4
+blue 4 black 2 black 3 black 3 green 2
+blue 4 black 2 black 2 black 2 green 1
+blue 4 black 2 black 1 black 2 green 1
+blue 4 black 2 black 5 black 1
+blue 4 black 2 black 2 black 2 black 1 blue 2
+blue 4 black 2 black 2 black 2 black 1 blue 2
+blue 4 black 2 black 1 black 1 black 1 blue 2
+blue 4 black 2 black 1 blue 1 black 1 blue 1 black 1 blue 2
+blue 4 black 2 black 1 blue 2 black 1 blue 2 black 2 blue 2
+blue 4 black 2 black 1 black 1 black 2 blue 1
+blue 4 black 2 black 1 black 8
+blue 2 black 2 black 2 black 2 black 2
+blue 2 black 5 black 2 black 2 black 1
+blue 2 black 1 black 1 black 5 black 1
+blue 2 black 1 black 1 black 1
+blue 2 black 1 black 1 black 1
+blue 2 black 1 black 1 black 1
+blue 2 black 5 black 2
+blue 2 black 2 black 8
+blue 5 black 2 black 7
+blue 5 black 2 black 1 blue 1
+blue 6 black 2 black 1 blue 7
+blue 6 black 2 black 1 blue 7
+blue 6 black 2 black 1 blue 6
+blue 6 black 2 black 2 blue 6
+blue 6 black 2 black 1 blue 6
+blue 6 black 2 black 4 blue 6
+blue 6 black 3 black 1 blue 6
+blue 6 black 2 black 1 blue 8
+blue 7 black 2 black 1 blue 8
+blue 5 black 2 black 1 blue 6
+blue 5 black 14 blue 6
+
+columns
+blue 4 green 1 blue 1 green 2 blue 36
+blue 4 green 2 green 2 blue 36
+blue 4 green 3 green 3 blue 16 blue 13
+blue 4 green 3 green 3 blue 12 black 6 blue 13
+blue 4 green 7 green 3 black 1 black 1 blue 13
+blue 4 green 10 black 14 black 1 black 2 black 1 blue 9
+green 8 black 17 black 3 blue 1 black 1
+green 2 green 7 black 1 black 3 black 12 black 1
+green 11 black 1 black 12
+blue 1 green 11 black 1 black 7 black 5
+blue 1 green 10 black 1 black 2 black 2 black 1
+blue 2 green 10 black 2 black 2 black 2 black 1
+blue 1 green 12 black 2 black 1 black 1 black 1
+blue 1 green 14 black 1 black 1 blue 2 black 1 black 1
+green 10 black 1 green 3 black 2 black 3 blue 1 black 1 black 1
+green 11 black 2 green 3 black 3 black 2 black 2 black 1
+green 11 black 2 green 1 black 1 black 2 black 2 black 1 black 1
+green 12 black 1 black 2 black 7 black 6
+green 12 black 2 black 1 black 1 black 7 black 1 black 1
+green 2 green 10 black 2 black 2 blue 2 black 1 black 2 black 3 blue 2 black 1
+green 2 green 10 black 4 blue 1 black 1 black 2 blue 2 blue 2
+green 2 green 11 black 4 black 2 black 2 blue 11
+blue 1 green 1 green 12 black 2 black 3 black 2 blue 11
+blue 2 green 12 black 7 black 1 black 2 blue 11
+blue 5 green 12 black 2 black 3 blue 11
+blue 6 green 11 blue 5 black 8 blue 11
+blue 9 green 4 blue 6 blue 12

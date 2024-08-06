@@ -1,0 +1,57 @@
+by "Morten Jeppesen (ninjamunk)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Morten Jeppesen"
+date "Nov 27, 2010"
+description "skipping"
+difficulty 2.75
+height 20
+id 11159
+link "https://webpbn.com/play.cgi?id=11159"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "what do boxers and school girls have in common?"
+width 20
+
+rows
+1,4,1
+4,4,4
+1,3,3,1
+1,1
+2
+3,6
+10,3
+3,4,1
+1,6,1
+1,12,1
+1,13,1
+1,8,2
+1,2,4,1
+2,3,4,1
+2,3,2,2
+1,2,1,1
+2,1,2
+2,1,2
+2,2
+8
+
+columns
+6
+1,2
+1,1,1,3
+3,2,2,2
+1,1,2,1
+2,2,3,1
+1,2,3,1
+4,9,1
+2,1,9,1
+2,1,6,3,1
+4,8,4,1
+1,2,3,1,1
+2,2,3,2,1
+1,1,2,2,1
+3,1,2,2,1
+1,2,1,3,1
+1,1,2
+1,2
+5,3
+4

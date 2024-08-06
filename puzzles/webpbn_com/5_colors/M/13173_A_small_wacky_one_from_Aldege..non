@@ -1,0 +1,63 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Apr  3, 2011"
+description "O.K. folks,i've been seeing all kinds of strange,cute,wacky,bizarre,not so cute,interesting and some downright disturbing puzzles out there lately,this one could fit any or all of those descriptions.I'll let you decide which one fits best.It's a dog chasing a squirrel,only you don't see the squirrel,and with ought all the different colors you probably wouldn't make out the dog either.Sorry for the long description but it's for bugaboo's enjoyment.lol."
+difficulty 1.75
+height 20
+id 13173
+link "https://webpbn.com/play.cgi?id=13173"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A small wacky one from Aldege."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2
+green 3 green 3 green 2 green 1
+green 2 green 8 black 2
+green 1 green 8 black 4
+green 8 black 5
+green 2 black 1 green 2 black 1 green 3 black 6
+green 6 blue 1 green 2 black 5
+green 6 blue 2 green 2 black 5
+green 7 blue 3 green 2 black 2 black 2
+green 3 blue 2 green 1 blue 5 green 2 black 1 black 2
+green 3 blue 8 green 2 black 1 black 1
+green 2 black 2 blue 6 green 2 black 3
+blue 1 green 1 black 2 blue 5 green 2 blue 1 black 4
+blue 2 green 3 red 2 blue 2 green 2 blue 3 black 3
+blue 3 green 1 red 2 green 4 blue 4 black 3
+blue 8 blue 4 black 3
+blue 8 blue 3 black 2
+black 1 blue 10 black 1 green 2
+black 3 blue 5 green 2
+green 3 blue 5 green 1
+
+columns
+blue 3 green 1
+green 2 blue 5 black 2 green 1
+green 5 blue 4 black 1 green 1
+green 2 green 3 black 2 green 2 blue 3 black 1
+green 2 green 2 blue 1 black 2 green 1 red 1 blue 3
+green 1 green 2 green 2 blue 4 red 2 blue 3
+green 8 blue 4 red 1 green 1 blue 3
+green 3 black 1 green 4 blue 4 green 1 blue 4
+green 8 blue 5 green 1 blue 4
+green 8 blue 4 green 2 blue 3
+green 4 black 1 green 2 blue 4 green 2 blue 6
+green 5 blue 4 green 2 blue 7
+green 5 blue 4 green 2 blue 5 blue 1
+green 4 green 6 black 2 blue 3 black 1 green 2
+green 1 black 1 green 4 black 7 green 2
+green 1 black 7 black 6 green 1
+black 7 black 4
+black 6
+black 7
+black 7

@@ -1,0 +1,51 @@
+by "roodar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/27/18"
+height 14
+id 193353
+link "https://www.griddlers.net/nonogram/-/g/193353"
+medium_time "0:03:54"
+points 574
+popularity 75.16
+title "Santa Claus 1"
+width 13
+
+color a eaeaea
+color b 000000
+color c ffffff
+color d ff0000
+color e 00d700
+color f b2b2ff
+color g ffcc00
+
+rows
+d 3
+e 2 d 5
+e 3 d 1 c 3 d 2 c 1
+c 3 c 1 f 1 c 1 f 1 c 1
+d 4 c 2 c 2
+d 3 c 2 c 2 d 2
+d 3 c 3 d 4
+d 1 c 3 d 6
+b 3 g 1 b 3 c 3
+d 7 e 3
+d 7 e 2
+c 3 c 3
+b 3 b 3
+b 4 b 4
+
+columns
+e 2 c 1 d 1
+e 2 c 1 d 2
+e 1 c 1 d 3 b 1
+d 4 b 1 d 2 c 1 b 2
+d 2 c 3 d 1 c 1 b 1 d 2 c 1 b 2
+d 2 c 1 f 1 c 4 b 1 d 2 c 1 b 2
+d 2 c 2 c 2 g 1 d 2
+d 2 c 1 f 1 c 3 d 1 b 1 d 2 c 1 b 2
+d 2 c 3 d 2 b 1 d 2 c 1 b 2
+d 1 d 3 b 1 d 2 c 1 b 2
+c 1 d 3 c 1 e 1 b 1
+d 2 c 1 e 2
+d 1 c 1 e 2

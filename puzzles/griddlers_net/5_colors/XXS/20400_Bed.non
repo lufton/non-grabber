@@ -1,0 +1,32 @@
+by "nhfk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/5/05"
+height 5
+id 20400
+link "https://www.griddlers.net/nonogram/-/g/20400"
+medium_time "0:00:14"
+points 6
+popularity 49.76
+title "Bed"
+width 5
+
+color a ffffff
+color c fffe5d
+color d 0000ff
+color e 00ffff
+color h 000000
+
+rows
+0
+c 1 h 1
+d 3 e 1 h 1
+h 5
+h 1 h 1
+
+columns
+d 1 h 2
+d 1 h 1
+d 1 h 1
+c 1 e 1 h 1
+h 4

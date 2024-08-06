@@ -1,0 +1,82 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Aug 25, 2017"
+description "Inspired by Gaynor's comment"
+difficulty 2.0
+height 30
+id 30124
+link "https://webpbn.com/play.cgi?id=30124"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "TSE"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 10 black 1 green 4 black 1 green 14
+green 9 black 1 green 4 black 1 green 13
+green 5 black 2 green 2 black 1 green 4 black 1 green 13
+green 7 black 1 green 1 black 4 green 2 black 2 green 9
+green 8 black 1 black 2 green 1 black 1 green 1 black 2 green 1 black 1 green 11
+green 8 black 10 green 12
+black 1 green 4 black 4 red 3 black 3 green 3 black 3 green 4
+green 1 black 2 green 4 black 2 red 1 black 2 green 2 black 3 green 4
+green 3 black 3 green 3 black 1 black 1 black 1 green 2 black 3 green 7
+green 4 black 4 green 2 black 2 black 2 black 5 green 6
+green 5 black 5 black 3 green 6 green 1
+green 2 green 3 black 4 black 2 green 6 black 2 green 1
+green 2 green 4 black 2 green 7 black 3 green 2
+green 1 green 6 black 1 green 4 black 4 green 3
+green 1 green 1 green 5 black 2 green 1 black 5 green 4
+green 1 green 5 black 5 green 6
+green 3 green 6 black 4 green 7
+green 3 green 2 green 2 black 1 black 6 green 6
+green 2 green 2 green 2 black 2 black 8 green 5
+green 4 green 1 green 3 black 2 black 10 green 4
+green 2 green 2 green 3 black 6 green 3 black 4 green 2
+green 4 green 1 green 1 green 3 black 6 green 5 black 1 green 1
+green 1 green 2 green 3 green 3 black 4 green 8
+green 2 green 2 green 2 green 2 black 4 green 11
+green 1 black 3 green 13
+green 14 green 13
+green 14 green 13
+green 14 green 13
+green 13 green 14
+green 12 green 15
+
+columns
+green 6 green 8 green 2 green 2 green 5
+green 6 green 5 green 2 green 3 green 5
+green 6 green 3 green 8 green 1 green 5
+green 6 black 2 green 5 green 2 green 3 green 5
+green 7 black 3 green 7 green 2 green 1 green 5
+green 2 black 1 green 5 black 3 green 8 green 2 green 1 green 5
+green 2 black 1 green 5 black 4 green 8 green 2 green 5
+green 3 black 1 green 5 black 4 green 4 green 2 green 5
+green 4 black 3 green 3 black 3 green 7 green 2 green 5
+green 1 black 3 green 2 black 2 green 6 green 1 green 5
+black 3 black 5 black 2 green 4 green 5
+green 3 black 4 black 1 black 2 green 4 green 5
+green 3 black 1 green 1 black 1 red 1 black 1 black 3 green 7
+green 3 black 3 red 2 black 1 black 5 green 3
+green 3 black 1 green 1 black 1 red 1 black 1 black 5
+black 3 black 3 black 1 black 6 green 1
+green 1 black 5 black 5 green 2
+green 5 black 3 green 1 black 1 black 4 green 8
+green 4 black 1 green 4 black 3 green 1 black 2 black 3 green 10
+green 3 black 1 green 4 black 4 green 2 black 6 green 10
+green 3 black 1 green 3 black 4 green 4 black 5 green 10
+green 6 black 4 green 4 black 7 green 9
+green 6 black 2 green 5 black 7 green 9
+green 6 black 1 green 5 black 3 green 1 black 5 green 8
+green 6 green 5 black 2 green 3 black 3 green 8
+green 6 green 4 black 3 green 4 green 7
+green 11 black 3 green 6 green 7
+green 10 black 2 green 7 green 7
+green 9 green 9 green 6
+green 9 green 12 green 6

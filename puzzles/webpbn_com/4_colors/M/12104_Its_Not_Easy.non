@@ -1,0 +1,72 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Feb  7, 2011"
+description "Being Green~ Â© Kermit T. Frog"
+difficulty 2.0
+height 30
+id 12104
+link "https://webpbn.com/play.cgi?id=12104"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "It's Not Easy"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3 black 3
+black 1 black 1 green 4 black 1 black 1
+black 1 black 2 black 1 green 4 black 1 black 2 black 1
+black 1 black 2 black 1 green 4 black 1 black 2 black 1
+black 1 black 1 green 6 black 1 black 1
+green 1 black 3 green 8 black 3 green 1
+green 16
+green 4 black 1 red 2 red 2 black 1 green 3
+green 3 black 1 red 4 red 4 green 3
+green 4 red 6 green 4
+green 4 red 4 green 4
+green 4 red 2 green 4
+green 8
+green 2 green 7 green 2
+green 3 black 1 green 3 black 1 green 3 black 1 green 3
+green 4 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 4
+green 6 black 1 green 3 black 1 green 6
+green 19
+green 2 green 14 green 2
+green 1 green 14 green 1
+green 14
+green 14
+green 14
+green 14
+green 14
+green 14
+green 12
+green 10
+green 8
+green 8
+
+columns
+green 2
+green 2
+black 3 green 4 green 2 green 2
+black 1 black 1 green 4 green 13
+black 1 black 2 black 1 green 5 green 13
+black 1 black 2 black 1 green 2 black 1 green 3 green 13
+black 1 black 1 green 2 black 1 red 1 green 4 black 1 green 15
+black 3 green 3 red 3 green 5 black 1 green 14
+green 6 red 4 green 5 black 1 green 13
+green 6 red 4 green 3 black 1 green 14
+green 6 red 3 green 2 black 1 green 15
+green 6 red 3 green 4 black 1 green 14
+black 3 green 3 red 3 green 6 black 1 green 13
+black 1 black 1 green 2 red 2 green 6 black 1 green 14
+black 1 black 2 black 1 green 1 black 1 red 1 green 3 black 1 green 13
+black 1 black 2 black 1 green 5 green 12
+black 1 black 1 green 4 green 12
+black 3 green 4 green 5
+green 2 green 3
+green 3

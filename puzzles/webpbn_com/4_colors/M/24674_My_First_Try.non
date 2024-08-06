@@ -1,0 +1,72 @@
+by "Nanu Clark (nanunanu)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Nanu Clark"
+date "Jun  4, 2014"
+description "It seemed a simple thing to try for a very first effort."
+difficulty 1.5
+height 25
+id 24674
+link "https://webpbn.com/play.cgi?id=24674"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "My First Try"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 5
+black 7
+black 2 blue 1 black 3 blue 1 black 2
+black 9
+black 11
+black 3 red 9 black 3
+black 1 red 5 black 2 red 6 black 6
+black 6 red 5 black 2 red 6 black 3 black 1
+black 1 black 1 red 17 black 1 black 1
+black 1 black 2 red 3 black 2 red 6 black 2 red 4 black 2
+black 1 red 4 black 2 red 6 black 2 red 5 black 1
+black 1 red 19 black 1
+black 3 red 14 black 2 red 3 black 3
+black 1 black 1 red 2 black 2 red 10 black 2 red 3 black 1 black 1
+black 1 black 1 red 2 black 2 red 15 black 1 black 1
+black 1 red 6 black 2 red 3 black 2 red 6 black 1
+black 1 red 6 black 2 red 3 black 2 red 6 black 1
+black 3 red 17 black 3
+black 1 black 1 red 17 black 1 black 1
+black 1 black 3 red 6 black 2 red 5 black 3 black 1
+black 1 black 2 red 5 black 2 red 4 black 2 black 1
+black 1 black 3 red 7 black 3 black 1
+black 1 black 3 red 3 black 3 black 1
+black 1 black 5 black 1
+
+columns
+black 3 black 3
+black 1 black 1 black 7
+black 1 black 9
+black 3 red 7 black 3
+black 1 red 11 black 1
+black 3 red 5 black 2 red 4 black 2
+black 1 red 7 black 2 red 5 black 2
+black 2 red 3 black 2 red 10 black 1
+black 3 red 4 black 2 red 10 black 2
+black 4 red 10 black 2 red 5 black 1
+black 2 blue 1 black 2 red 10 black 2 red 5 black 2
+black 6 red 1 black 2 red 15 black 1
+black 6 red 1 black 2 red 11 black 2 red 2 black 1
+black 6 red 14 black 2 red 2 black 1
+black 2 blue 1 black 2 red 10 black 2 red 5 black 2
+black 4 red 4 black 2 red 4 black 2 red 5 black 1
+black 3 red 4 black 2 red 10 black 2
+black 2 red 6 black 2 red 7 black 1
+black 1 red 6 black 2 red 6 black 2
+black 3 red 11 black 2
+black 2 red 11 black 1
+black 4 red 7 black 3
+black 1 black 9
+black 1 black 1 black 7
+black 3 black 3

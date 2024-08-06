@@ -1,0 +1,54 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Sep 14, 2010"
+description "Bridge over troubled Water (Simon and Garfunkel)"
+difficulty 1.75
+height 13
+id 10330
+link "https://webpbn.com/play.cgi?id=10330"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Song Title #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 5
+black 7
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 20
+black 5 black 4
+blue 4
+blue 1 blue 2 blue 4 blue 3
+blue 1 blue 2 blue 1 blue 1 blue 2
+blue 3 blue 4 blue 4
+blue 1 blue 1 blue 1 blue 2
+blue 3 blue 3 blue 2
+
+columns
+black 2 blue 1
+black 2 blue 1
+black 2 blue 4
+black 2 blue 1
+black 3 blue 1 blue 1
+black 3 blue 2 blue 1
+black 2 black 1 blue 1 blue 3
+black 2 black 1 blue 1
+black 2 black 1 blue 1
+black 2 black 1 blue 3
+black 2 black 1 blue 2
+black 2 black 1 blue 1
+black 2 black 1 blue 1 blue 1
+black 2 black 1 blue 2 blue 1
+black 2 black 1 blue 3
+black 3 blue 1
+black 3 blue 3
+black 2 blue 1 blue 2
+black 2 blue 2 blue 2
+black 2 blue 1 blue 1

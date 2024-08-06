@@ -1,0 +1,72 @@
+by "Michelle Talmor (mtalmor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Michelle Talmor"
+date "Sep 13, 2016"
+description "Like the Genie from Aladdin!"
+difficulty 2.75
+height 30
+id 28748
+link "https://webpbn.com/play.cgi?id=28748"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.75
+title "Ain't Never Had a Friend"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 4
+red 1 black 1 black 2
+black 4 red 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 blue 6 black 1
+black 2 blue 6 black 1 black 2
+black 1 blue 8 black 1 black 1 blue 1 black 1
+black 1 blue 7 black 1 blue 1 black 1 blue 2 black 1
+black 2 blue 2 black 2 blue 2 black 1 blue 1 black 1 blue 1 black 1
+black 2 blue 1 black 1 black 1 blue 2 black 1 blue 1 black 1
+black 1 blue 2 blue 3 black 1 blue 1 black 1
+black 1 black 1 blue 2 black 1 blue 5 black 1
+black 1 blue 10 black 1 blue 1 black 1
+black 1 blue 2 black 1 blue 8 black 2
+black 1 blue 1 black 1 blue 2 black 1 blue 2 black 1 blue 1 black 2
+black 1 blue 2 black 1 blue 1 black 1 blue 3 blue 1 black 1 blue 1 black 1
+black 1 blue 2 black 2 red 1 blue 1 black 1 blue 1 black 1
+black 1 blue 3 red 6 blue 1 black 1 blue 1 black 1
+black 1 blue 4 red 3 blue 1 black 1 blue 1 black 1
+black 2 blue 4 blue 3 black 1 blue 1 black 1
+black 2 blue 10 black 2 blue 1
+black 14 blue 1
+black 1 blue 2 black 9 blue 2
+black 2 blue 11 red 1
+blue 4 red 3 red 1
+blue 3 blue 1 red 8 red 1
+blue 2 blue 2 red 5 red 1
+blue 3 red 1
+red 3
+
+columns
+black 2
+black 3 black 1 black 1
+black 1 blue 2 black 3 blue 1
+black 1 blue 4 black 2 blue 2
+black 2 blue 6 black 2 blue 3
+black 1 blue 3 blue 3 black 2 blue 4
+black 2 black 3 blue 2 black 3 blue 2 black 2 blue 5
+black 1 blue 2 black 2 blue 1 black 1 blue 2 black 1 red 1 blue 1 black 2 blue 2 blue 1
+black 2 blue 2 black 1 black 1 blue 3 black 1 red 2 blue 1 black 2 blue 1 blue 2
+black 1 blue 10 black 1 blue 1 red 2 blue 1 black 2 blue 1 blue 2
+black 1 blue 6 black 1 blue 6 red 2 blue 1 black 2 blue 1 red 1
+black 1 blue 5 black 1 black 1 blue 4 red 1 blue 2 black 2 blue 1 red 1
+black 1 blue 5 black 1 blue 2 red 2 blue 2 black 2 blue 1 red 2
+red 1 black 1 blue 6 black 1 blue 4 black 1 blue 6 black 1 blue 2 red 2
+black 2 red 1 black 1 blue 3 black 1 blue 7 black 7 blue 1 red 3 red 1
+black 2 black 3 blue 1 black 1 blue 5 black 1 blue 5 black 1 blue 1 red 6
+black 2 black 1 blue 1 black 2 blue 1 black 8 blue 1 red 3 red 1
+black 2 black 1 blue 1 black 1 blue 4 black 1 red 1
+black 2 black 1 blue 3 black 4 red 1 red 1
+black 1 black 4 red 1

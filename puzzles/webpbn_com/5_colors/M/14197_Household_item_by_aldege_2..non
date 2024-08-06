@@ -1,0 +1,58 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "May 26, 2011"
+description "Answer is in first spoiler."
+difficulty 1.75
+height 15
+id 14197
+link "https://webpbn.com/play.cgi?id=14197"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Household item by aldege #2."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 6
+black 2
+red 1 black 4 blue 1 black 2
+red 1 black 2 black 2 black 1
+red 1 green 2 black 1 black 1
+red 1 green 3 black 1 black 3 red 1
+red 1 green 2 black 1 blue 1
+black 4 black 1 blue 2 blue 1
+black 1 black 1 black 1 red 5 black 2 blue 6
+black 1 black 1 black 1 blue 1 blue 1 blue 1 black 1 blue 6
+green 5 black 1 blue 1 blue 2 blue 3
+green 5 black 6 blue 1 black 3 blue 3
+green 16 blue 3
+green 17 blue 3
+black 1 black 1 blue 3
+
+columns
+red 5 black 3 green 4 black 1
+green 3 black 1 green 4
+green 3 black 1 green 4
+green 1 black 3 green 4
+green 4
+black 9 green 2
+black 2 blue 2 black 1 green 2
+black 1 red 1 black 1 green 2
+black 1 red 1 blue 1 black 1 green 2
+black 2 black 1 blue 1 red 1 black 1 green 2
+black 3 blue 2 red 1 blue 2 black 1 green 2
+black 1 red 1 blue 2 green 2
+black 1 black 1 green 2
+black 2 black 1 green 2
+black 1 blue 2 black 1 green 2
+black 1 blue 1 red 1 blue 2 green 2 black 1
+black 1 blue 2 green 1
+black 1 blue 7
+black 3 blue 7
+black 4 blue 8

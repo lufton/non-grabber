@@ -1,0 +1,52 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/14/17"
+height 15
+id 186044
+link "https://www.griddlers.net/nonogram/-/g/186044"
+medium_time "0:09:54"
+points 2667
+popularity 84.06
+title "Bluebell"
+width 15
+
+color a ffffff
+color b 99ccff
+color c 0099ff
+color d 003399
+color e 339900
+
+rows
+e 1 b 1
+e 2 c 2 b 1 c 2
+e 3 c 2 b 1 c 2
+e 3 d 1 c 3 d 1
+e 3 d 2 c 1 d 2
+e 1 d 2 c 1 d 2 c 1 b 1 b 1
+b 1 c 2 e 1 d 3 c 1 b 1
+b 2 c 1 e 1 c 4 b 1
+b 2 c 3 e 2 d 1 c 1 d 1 c 3
+c 3 d 1 c 1 d 1 e 1 d 2 c 2 c 1
+c 1 c 2 d 2 e 1 d 3 e 1
+d 3 c 1 e 2 e 3
+e 2 c 2 e 1 d 2 e 3
+e 5 c 1 e 1 d 1 e 3
+e 3 e 2 e 1 e 3
+
+columns
+e 4 b 1 b 1 c 2 e 1
+e 4 b 2 c 1 e 3
+e 3 c 1 b 1 c 3 e 3
+e 2 c 3 d 1 c 1 d 1 e 2
+c 1 e 1 c 2 d 2 e 1
+c 2 d 3 d 3 e 1
+c 2 d 3 e 1 c 2 e 1
+b 3 c 3 d 1 e 5 c 2
+c 2 d 3 e 4
+c 2 d 3 d 3 d 2
+c 1 c 2 d 2 d 1 e 1
+c 1 c 1 d 1 c 1 d 1 e 3
+b 1 c 4 e 4
+b 1 c 2 e 4
+b 1 b 1 c 2 e 1

@@ -1,0 +1,52 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug 22, 2016"
+description "1976 movie"
+difficulty 1.5
+height 20
+id 28631
+link "https://webpbn.com/play.cgi?id=28631"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "another Ã  la Norma # 44 (dropped letter)"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 3
+black 1
+black 1
+0
+black 3
+black 5
+black 2 blue 3 black 2
+black 2 blue 5 black 2
+black 2 blue 5 black 2
+black 2 blue 5 black 2
+black 3 blue 3 black 3
+black 1 black 5 black 1
+black 1 black 3 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 3 black 3
+black 7
+black 3
+
+columns
+0
+black 10
+black 5 black 3
+black 2 blue 3 black 2 black 2
+black 1 black 2 blue 5 black 2 black 2
+black 4 black 2 blue 5 black 2 black 2
+black 1 black 2 blue 5 black 2 black 2
+black 2 blue 3 black 2 black 2
+black 5 black 3
+black 10
+0

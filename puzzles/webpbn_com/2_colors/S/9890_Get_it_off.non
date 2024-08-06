@@ -1,0 +1,47 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gator"
+date "Aug  6, 2010"
+description "Some kind of bug. Not sure what kind though. I didn't get that good of a look at it before I brushed it off, and it scurried away. :)"
+difficulty 3.0
+height 15
+id 9890
+link "https://webpbn.com/play.cgi?id=9890"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Get it off!"
+width 15
+
+rows
+2
+1
+1,1
+1,1,3,1
+1,1,5,1
+1,1,2,5
+1,6,2
+1,3,1,1,1
+3,3
+2,1,1,2
+2,1,1,2,3
+1,3
+2,1,3,3
+3,3
+4,3
+
+columns
+3,4
+3,3
+3,3,2
+3,1,1,1
+3,2,1,2
+2,1,2
+3,1,3
+1,1,1,3,1
+2,6,1
+5,2,1,1
+1,5,1,1
+1,3,1,1
+1,1
+1
+2

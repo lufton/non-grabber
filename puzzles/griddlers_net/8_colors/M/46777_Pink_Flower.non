@@ -1,0 +1,60 @@
+by "jonnie"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/07"
+height 15
+id 46777
+link "https://www.griddlers.net/nonogram/-/g/46777"
+medium_time "0:06:57"
+points 2628
+popularity 72.05
+title "Pink Flower"
+width 20
+
+color a 00ccff
+color b ffff66
+color c ff9999
+color d ff6666
+color e 009900
+color f 00cc00
+color g ffcccc
+color h cc0000
+
+rows
+h 3
+d 3 h 4 h 3
+d 6 h 3 d 3 h 2
+d 7 h 3 d 4 h 1
+g 1 c 3 d 4 b 1 d 1 h 1 d 5 h 1
+g 2 c 4 d 1 b 3 d 5 h 2
+g 2 c 5 b 2 d 5 h 2 e 1
+g 2 c 7 d 5 h 2 e 1
+f 1 e 1 g 2 c 7 d 3 h 2 e 2
+f 1 e 2 g 2 c 6 d 3 h 1 e 2
+f 2 e 2 g 4 c 4 d 1 h 1 e 3
+f 2 e 4 g 3 c 2 e 5
+f 3 e 12
+f 4 e 9
+f 5 e 4
+
+columns
+f 1
+e 1 f 1
+g 2 e 1 f 1
+c 1 g 3 e 1 f 3
+d 2 c 2 g 3 e 1 f 3
+d 3 c 4 g 2 e 2 f 2
+d 4 c 4 g 2 e 2 f 2
+h 1 d 4 c 5 g 1 e 2 f 2
+h 2 d 4 c 4 g 1 e 3 f 1
+h 2 d 3 b 1 c 4 g 2 e 2 f 1
+h 2 d 1 b 3 c 4 g 1 e 2 f 1
+h 3 d 1 b 2 c 4 g 1 e 3
+h 3 d 3 c 4 e 3
+h 1 d 6 c 2 e 3
+d 9 e 4
+h 1 d 8 h 1 e 3
+h 1 d 6 h 2 e 4
+h 2 d 2 h 4 e 4
+h 6 e 4
+e 3

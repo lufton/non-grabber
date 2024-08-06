@@ -1,0 +1,85 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/2/06"
+height 30
+id 36518
+link "https://www.griddlers.net/nonogram/-/g/36518"
+medium_time "0:18:03"
+points 8064
+popularity 81.16
+title "In the Water"
+width 30
+
+color a ccccff
+color b 000000
+color c ffffff
+color d ffcc00
+color e 00d700
+color f 0066ff
+color g 006633
+color h 996600
+
+rows
+c 3
+d 1 b 1 c 3
+e 1 d 3 c 4
+h 2 e 2 c 2
+h 2 e 2 e 1 c 2
+h 2 e 1 c 3 c 2
+e 1 e 1 c 3 b 1 d 1 c 3
+g 2 e 1 e 1 c 4 d 3 c 2
+e 2 g 3 e 1 c 2 e 1 c 3 c 1
+e 1 e 1 g 1 e 2 c 2 e 1 g 1 c 3 c 4
+e 1 e 1 g 1 e 1 c 2 e 1 g 2 c 3 c 5
+e 2 e 1 g 2 e 1 c 3 e 2 c 3 c 7 c 2
+e 1 e 1 g 1 e 1 c 2 e 1 c 14
+e 1 c 1 e 1 g 1 e 1 c 3 e 1 c 13
+f 4 c 4 f 3 c 3 f 2 c 13 f 1
+f 5 c 5 f 2 c 3 f 2 c 2 e 1 c 8 f 2
+f 1 c 2 f 1 c 7 f 1 c 3 f 3 h 2 f 10
+f 1 c 14 f 3 h 2 f 10
+f 2 c 13 f 3 h 2 f 10
+f 2 c 13 f 3 e 1 f 11
+f 3 c 11 f 1 e 1 f 2 e 1 f 11
+f 15 h 2 f 1 e 1 f 2 e 3 f 6
+f 13 g 1 f 1 h 2 f 1 e 1 f 4 e 2 f 1 e 1 f 2 e 1
+f 9 e 3 f 1 g 1 f 1 h 2 f 1 e 1 f 2 e 1 f 2 e 1 f 1 e 1 f 2 e 1
+f 8 e 2 f 1 e 1 f 1 g 2 f 1 e 1 f 1 e 1 f 1 g 1 e 1 f 1 g 1 e 1 f 1 e 1 f 1 e 2
+f 11 e 2 f 1 g 1 f 1 e 1 f 1 e 1 f 1 g 1 e 1 g 2 e 1 f 1 e 1 f 1 e 1 f 1
+f 12 e 1 f 1 g 2 e 1 f 1 e 2 g 1 f 1 g 1 f 1 e 3 f 1 e 1 f 1
+f 12 e 1 f 2 g 1 e 1 f 1 e 2 g 3 f 2 e 2 f 1 e 1 f 1
+f 12 e 1 f 2 g 1 e 1 f 1 e 2 f 1 g 2 f 2 e 4 f 1
+f 12 e 1 f 2 g 1 e 1 f 1 e 2 f 1 g 2 f 3 e 3 f 1
+
+columns
+e 1 f 16
+e 4 f 2 c 2 f 12
+e 3 f 2 c 4 f 10
+g 1 f 3 c 4 f 9
+e 1 h 3 g 2 c 2 f 1 c 5 f 9
+h 3 e 2 g 1 e 5 c 7 f 9
+g 4 c 7 f 9
+g 3 c 7 f 9
+e 6 f 1 c 6 f 3 e 1 f 5
+e 1 e 5 f 1 c 6 f 2 e 2 f 5
+c 6 f 2 c 5 f 2 e 1 f 6
+c 10 f 2 c 4 f 2 e 3 f 4
+c 3 c 10 f 4 e 5
+e 2 c 1 b 1 c 1 e 4 c 8 f 1 g 3 f 5
+d 1 e 1 d 2 g 1 e 3 f 1 c 5 f 4 g 3 f 3
+d 1 d 1 g 2 f 6 e 1 h 3 f 2 g 4
+d 2 d 1 c 5 f 6 h 3 e 6
+c 1 b 1 c 1 c 8 f 14
+c 3 c 10 h 3 e 11
+c 10 c 3 e 1 h 3 f 7 e 4
+c 6 c 5 f 8 g 4 f 2
+c 6 f 5 e 1 f 1 e 3 f 1 g 3
+c 6 f 5 e 1 f 3 g 5
+c 7 f 5 e 2 f 1 g 2 f 4
+c 7 f 6 e 5 f 3
+c 7 f 10 e 3 f 1
+c 2 c 5 f 6 e 8
+c 4 f 12 e 2
+c 4 f 9 e 6
+c 2 f 8 e 3 f 5

@@ -1,0 +1,41 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Apr 20, 2013"
+description "becomes a pearl"
+difficulty 1.5
+height 10
+id 21753
+link "https://webpbn.com/play.cgi?id=21753"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "easy mini #9....a little bit of grit"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4
+black 4
+black 3
+black 4
+blue 2 black 4
+blue 1 blue 2 black 1 black 2
+blue 4 black 2
+blue 2 black 3
+black 3 black 4
+black 8
+
+columns
+black 1
+black 1 black 2
+black 1 blue 2 black 2
+black 2 blue 1 blue 2 black 1
+black 2 blue 4 black 1
+black 3 blue 2 black 1
+black 5 black 2
+black 3 black 3
+black 7
+black 5

@@ -1,0 +1,61 @@
+by "Adam (adds3000)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Adam"
+date "Nov  8, 2019"
+description "A Metronome"
+difficulty 1.5
+height 20
+id 33141
+link "https://webpbn.com/play.cgi?id=33141"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Tick...Tick...Tick"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 4
+black 2 black 2
+black 1 black 2 black 1
+black 2 black 2
+black 1 black 2 black 1
+black 1 black 1
+black 2 black 2 black 2 red 1
+black 1 black 1 red 4
+black 1 black 2 black 1 red 1 black 1 red 1
+black 1 black 1 red 4
+black 1 black 2 red 2
+black 2 red 2 black 1
+black 1 black 2 red 2 black 1
+black 1 red 2 black 1
+black 2 black 1 red 2 black 2
+black 3 black 3
+black 12
+black 12
+black 2 black 2
+
+columns
+0
+0
+0
+0
+black 7
+black 6 black 4
+black 4 black 4
+black 3 black 3
+black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 black 2
+black 2 red 2 black 2
+black 3 red 2 black 3
+black 4 red 2 black 4
+black 4 red 2 black 4
+red 2 black 7
+red 3
+red 1 black 1 red 1
+red 3
+red 2

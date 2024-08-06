@@ -1,0 +1,27 @@
+by "Glenn Crider (playamonkey)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Glenn Crider"
+date "Sep 15, 2013"
+description "Answer in first spoiler."
+difficulty 1.25
+height 5
+id 22761
+link "https://webpbn.com/play.cgi?id=22761"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Binary (5 bit bytes)"
+width 5
+
+rows
+1
+1,1
+2
+2
+4
+
+columns
+0
+1,3
+4
+1
+1,1

@@ -1,0 +1,62 @@
+by "Azzurra Woodfine (AzzurraMoon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Azzurra Woodfine"
+date "Feb  8, 2017"
+description "I have a problem"
+difficulty 1.75
+height 20
+id 29400
+link "https://webpbn.com/play.cgi?id=29400"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Phan"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 2 black 1
+black 1 black 1 black 3 black 1 black 2
+black 2 black 1 black 1 black 1 black 1
+red 15
+0
+red 1 red 1 black 1 black 1 black 1 black 2
+red 5 black 1 black 1 black 2 black 1 black 1 black 1
+red 3 black 3 black 1 black 2 black 1 black 1
+red 1 black 1 black 1 black 1 black 1 black 2
+0
+0
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 3
+blue 14 black 1 black 1 black 1
+0
+
+columns
+blue 1
+red 1 black 5 blue 1
+black 4 red 1 red 1 black 1 black 1 blue 1
+black 1 black 1 red 1 red 3 black 1 blue 1
+black 2 red 1 red 3 blue 1
+red 1 red 3 black 5 blue 1
+black 3 red 1 red 1 black 1 blue 1
+black 1 black 1 red 1 black 5 blue 1
+black 3 red 1 black 3 blue 1
+red 1 black 1 black 1 black 5 blue 1
+black 4 red 1 black 3 blue 1
+black 1 red 1 black 5 blue 1
+black 1 red 1 black 4 black 1 blue 1
+black 4 red 1 black 1 black 1 blue 1
+red 1 black 1
+red 1 black 4 black 4 black 1
+0
+black 4 black 4 black 1
+black 1 black 1
+black 2 black 4 black 1

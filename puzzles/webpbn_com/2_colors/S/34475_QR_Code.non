@@ -1,0 +1,47 @@
+by "Sean Blend (SeanBlend)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Sean Blend"
+date "Sep 14, 2020"
+description ""
+difficulty 1.75
+height 15
+id 34475
+link "https://webpbn.com/play.cgi?id=34475"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "QR Code"
+width 15
+
+rows
+4,3,4
+1,1,1,1,1,1,1
+1,1,1,1,1,1
+6,1,4
+1,1,2
+4,1,1,2
+1,2,2
+4,2,1,2
+1,2,1,2,1,2
+1,3,1,1,1
+2,2
+4,4,1
+1,1,1,1,3
+1,1,1,1,1,2
+4,1,4,1
+
+columns
+4,1,3,4
+1,1,1,1,1,1
+1,1,1,1,1,1
+4,1,2,4
+1,2
+1,5,1,4
+1,3,1
+6,2,1
+1,3,5
+2,1,1,2,1
+1,1,2
+4,1,4,1
+1,1,2,3
+1,1,1,1,3
+4,2,1

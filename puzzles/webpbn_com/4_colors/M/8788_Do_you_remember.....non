@@ -1,0 +1,56 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "May 13, 2010"
+description "patrol boys/girls in school?"
+difficulty 1.5
+height 20
+id 8788
+link "https://webpbn.com/play.cgi?id=8788"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Do you remember...."
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2 black 3
+red 4 black 5
+red 6 black 7
+red 6 black 1 black 1 black 3
+red 4 black 7
+red 3 black 1 black 4
+black 1 black 5
+black 1 black 3
+black 1 blue 1 black 1
+blue 8 blue 1
+blue 5 blue 1
+blue 3 blue 2
+blue 2 blue 3
+blue 1 blue 4
+blue 1 blue 1
+blue 7
+black 2 black 2 blue 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+
+columns
+red 2
+red 4
+red 6
+red 6 black 3
+red 5 blue 2
+red 2 blue 1
+blue 1
+black 3 blue 2 blue 2
+black 2 black 3 blue 5 blue 1 black 4
+black 5 black 2 blue 4 blue 1 black 4
+black 3 black 5 blue 3 blue 1 blue 1
+black 8 blue 2 blue 2 blue 1 black 4
+black 6 blue 3 blue 1 black 4
+black 4 blue 8

@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom O'Connell"
+date "Aug  5, 2012"
+description "For the chicken lover in you."
+difficulty 2.0
+height 20
+id 19474
+link "https://webpbn.com/play.cgi?id=19474"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Controversial eating!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 2
+red 2 red 3 red 3
+red 3 black 7 red 1
+red 1 black 2 black 2
+black 2 black 1 red 2
+black 2 black 1 black 2 red 2
+black 1 black 1 red 1 black 1 red 1
+black 2 black 2 black 1
+black 1 black 3 black 2
+black 1 black 4
+black 2 red 2
+black 1 red 1
+black 1
+black 1
+black 2
+black 3
+black 2 black 1
+black 2 black 2
+black 4 black 2
+black 5
+
+columns
+0
+0
+black 5
+black 4 black 2
+black 3 black 1
+red 3 black 2 black 2
+red 2 black 2 black 2
+red 1 black 1 black 2
+black 1 black 1
+black 1 black 3 black 2
+red 1 black 1 black 2 black 2
+red 2 black 1 black 1 black 1
+red 1 black 1 black 2 black 1
+black 1 red 1 black 1 red 1 black 2
+red 1 black 2 black 1 red 2 black 2
+red 3 black 3 black 2 black 2
+red 2 red 1 black 4
+red 3
+red 1
+0

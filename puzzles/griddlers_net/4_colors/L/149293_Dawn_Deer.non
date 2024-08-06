@@ -1,0 +1,84 @@
+by "janet"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/12/15"
+height 18
+id 149293
+link "https://www.griddlers.net/nonogram/-/g/149293"
+medium_time "0:09:13"
+points 2641
+popularity 73.63
+title "Dawn Deer"
+width 45
+
+color a cccccc
+color b 663300
+color c 333300
+color d 003366
+
+rows
+b 1
+b 15 b 3
+b 16 b 3
+b 16 b 1 b 2
+b 16 b 2 b 3
+b 17 b 1 b 2
+b 12 b 5 b 3
+b 4 b 2 b 1 b 7 b 2
+c 6 b 1 b 1 b 1 b 1 b 3 b 1 b 3
+c 10 b 1 b 1 b 1 b 1 b 2 b 2
+c 13 b 1 c 2 b 1 c 4 b 3 c 1 b 1 d 9
+c 14 b 1 c 2 b 1 c 4 b 3 d 20
+c 22 d 23
+c 22 d 23
+c 23 d 22
+c 24 d 21
+c 12 d 33
+c 5 d 40
+
+columns
+c 10
+c 10
+c 10
+c 10
+c 10
+c 9 d 1
+c 8 d 1
+c 8 d 1
+c 8 d 1
+c 8 d 1
+c 7 d 1
+c 7 d 1
+b 3 c 6 d 2
+b 4 b 5 c 5 d 2
+b 7 c 1 b 1 c 4 d 2
+b 7 c 6 d 2
+b 10 c 5 d 2
+b 6 c 1 b 1 c 4 d 2
+b 6 c 6 d 2
+b 6 c 6 d 2
+b 7 c 6 d 2
+b 10 c 5 d 2
+b 6 b 2 d 2 c 2 d 2
+b 11 d 3 c 1 d 2
+b 6 c 1 b 1 d 6
+b 5 d 7
+b 7 d 7
+b 7 d 7
+b 7 d 7
+b 6 d 7
+b 4 d 7
+b 3 b 1 d 7
+b 1 b 4 d 7
+b 3 b 2 b 1 d 7
+b 1 b 2 b 2 d 7
+b 1 b 1 b 2 d 7
+b 2 b 1 d 8
+b 1 b 1 d 8
+d 8
+d 8
+d 8
+d 8
+d 8
+d 8
+d 8

@@ -1,0 +1,102 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Jan 15, 2011"
+description "It's good to be Queen-to-be."
+difficulty 1.25
+height 40
+id 11765
+link "https://webpbn.com/play.cgi?id=11765"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Kate's Ring"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 21
+blue 24
+blue 26
+blue 28
+blue 30
+blue 32
+blue 34
+blue 36
+blue 38
+black 40
+blue 40
+red 1 blue 38 red 1
+red 2 blue 36 red 2
+red 3 blue 34 red 3
+red 4 blue 32 red 4
+red 5 blue 30 red 5
+red 6 blue 28 red 6
+red 7 blue 26 red 7
+red 8 blue 24 red 8
+red 9 blue 22 red 9
+red 10 blue 20 red 10
+red 11 blue 18 red 11
+red 12 blue 16 red 12
+red 13 blue 14 red 13
+red 14 blue 12 red 14
+red 15 blue 10 red 15
+red 16 blue 8 red 16
+red 14 red 13
+red 12 red 12
+red 11 red 13 red 11
+red 10 red 15 red 10
+red 9 red 17 red 9
+red 8 red 19 red 8
+red 7 red 21 red 7
+red 6 red 23 red 6
+red 6 red 25 red 5
+red 6 red 25 red 5
+red 6 red 25 red 5
+red 6 red 25 red 5
+red 6 red 25 red 5
+
+columns
+black 1 blue 1 red 29
+blue 1 black 1 blue 2 red 28
+blue 2 black 1 blue 3 red 27
+blue 3 black 1 blue 4 red 26
+blue 4 black 1 blue 5 red 25
+blue 5 black 1 blue 6 red 24
+blue 6 black 1 blue 7 red 17
+blue 7 black 1 blue 8 red 15
+blue 8 black 1 blue 9 red 13 red 5
+blue 8 black 1 blue 10 red 11 red 6
+blue 9 black 1 blue 11 red 9 red 7
+blue 9 black 1 blue 12 red 7 red 8
+blue 9 black 1 blue 13 red 5 red 9
+blue 9 black 1 blue 14 red 4 red 10
+blue 9 black 1 blue 15 red 2 red 11
+blue 9 black 1 blue 16 red 1 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 17 red 11
+blue 9 black 1 blue 16 red 1 red 11
+blue 9 black 1 blue 15 red 2 red 11
+blue 9 black 1 blue 14 red 3 red 11
+blue 9 black 1 blue 13 red 5 red 10
+blue 9 black 1 blue 12 red 7 red 9
+blue 9 black 1 blue 11 red 9 red 8
+blue 9 black 1 blue 10 red 11 red 7
+blue 8 black 1 blue 9 red 13 red 6
+blue 7 black 1 blue 8 red 15 red 5
+blue 6 black 1 blue 7 red 17
+blue 5 black 1 blue 6 red 19
+blue 4 black 1 blue 5 red 25
+blue 3 black 1 blue 4 red 26
+blue 2 black 1 blue 3 red 27
+blue 1 black 1 blue 2 red 28
+black 1 blue 1 red 29

@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb 26, 2011"
+description "Mama Rabbit has dug up all the carrots and there are too many to carry home to her babies."
+difficulty 1.5
+height 25
+id 12391
+link "https://webpbn.com/play.cgi?id=12391"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Where's your wheelbarrow?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 15
+black 15
+black 3 black 5 black 3
+black 3 black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 1 black 1 black 1 black 1 black 3
+black 5 black 5
+black 3 black 1 black 1 black 1 black 3
+black 3 black 3 black 3
+black 3 black 1 black 1 black 3
+black 3 black 1 green 1 green 1 green 1 black 1 black 3
+black 3 black 1 red 1 green 1 red 1 green 1 red 1 black 1 black 3
+black 3 black 3 red 1 black 3 black 3
+black 3 black 1 red 1 black 1 black 3
+black 7 red 1 black 7
+black 4 red 5 black 4
+black 4 red 1 red 1 black 4
+black 5 black 5
+black 5 black 1 black 5
+black 5 black 1 black 5
+black 2 black 1 black 2
+green 2 green 1 green 2
+green 15
+green 15
+
+columns
+black 22 green 3
+black 22 green 3
+black 21 green 2
+black 2 black 1 black 6 green 2
+black 2 black 2 black 4 black 1 black 3 green 2
+black 3 black 1 green 1 red 1 black 1 black 1 red 1 green 2
+black 4 black 1 black 1 green 1 black 3 red 2 green 2
+black 4 black 2 green 1 red 5 black 3 green 3
+black 4 black 1 black 1 green 1 black 3 red 2 green 2
+black 3 black 1 green 1 red 1 black 1 black 1 red 1 green 2
+black 2 black 2 black 4 black 1 black 3 green 2
+black 2 black 1 black 6 green 2
+black 21 green 2
+black 22 green 3
+black 22 green 3

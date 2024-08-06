@@ -1,0 +1,51 @@
+by "Ruby Lane (firewitch)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Ruby Lane"
+date "Apr  3, 2017"
+description "A swallow from beneath.* *Inspired by the swallow that flew over me on a windy day and landed on my chimney."
+difficulty 1.5
+height 15
+id 29603
+link "https://webpbn.com/play.cgi?id=29603"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Looking Up"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 5 blue 7
+blue 4 black 1 blue 5
+blue 3 black 3 blue 5
+blue 3 black 3 blue 2
+blue 2 black 3 blue 2
+blue 1 black 5 blue 2
+blue 1 black 9 blue 2
+blue 1 black 9 blue 2
+blue 1 black 3 black 3 black 3 blue 2
+black 2 black 3 black 2 blue 2
+black 1 black 3 black 1 blue 2
+black 3 blue 2
+black 1 black 1 blue 2
+black 1 black 1 blue 3
+blue 5
+
+columns
+blue 9
+blue 5
+blue 4 black 3
+blue 2 black 4
+blue 1 black 3
+black 3 black 1
+black 11
+black 11
+blue 1 black 11
+blue 1 black 3 black 1
+blue 3 black 3 blue 1
+blue 3 black 4 blue 1
+blue 3 black 3 blue 2
+blue 15
+blue 15

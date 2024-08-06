@@ -1,0 +1,77 @@
+by "Marcy (triath)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marcy"
+date "Oct 16, 2008"
+description "Donkey Kong, the classic video game."
+difficulty 2.25
+height 30
+id 3801
+link "https://webpbn.com/play.cgi?id=3801"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Mario's original home"
+width 30
+
+rows
+2
+2,1,1,1
+2,2,3
+2,6,1
+2,2,1,2,1,1,1
+2,2,1,2,1,5
+2,2,1,1,1
+8,14,6
+3,3
+1,1,1,1
+3,3
+8,6,7,6
+3
+1,1
+3
+2,12,14
+3
+1,1
+3
+2,18,8
+3
+1,1
+3
+1,1
+11,9,8
+1,1
+1,3,3
+3,1,1,3
+1,3,1
+1,1,1,1,1
+
+columns
+1,1,1,1,1
+4,1,5,1,1,1
+7,1,1,1,1,3
+3,1,1,5,1,1,1
+4,1,1,1,1
+4,1,1,1,1
+1,1,1,1,1
+5,1,1,1
+1,1,1,1,1
+5,1,1,1
+1,1,1,1,6
+2,1,1,1,1,1,1
+1,1,1,1,1,6
+1,1,2,1,1,1,1
+1,4,1,5,1,1
+1,4,1,1,1,1,1
+1,1,2,5,1,1
+1,1,1,1,1,1
+2,1,1,1,1,1
+1,1,1,1,1
+1,1,1,6
+1,1,1,1,1
+5,1,6
+1,1,1,1,1
+5,1,1,1
+3,1,1,1,1
+1,2,1,1,1,1,1,2
+3,1,1,1,1,1,1,4
+1,2,1,1,1,1,1,2
+1,1,1,1,1,1

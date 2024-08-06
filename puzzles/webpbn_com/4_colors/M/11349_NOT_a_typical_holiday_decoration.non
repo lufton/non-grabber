@@ -1,0 +1,72 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joel Lynn"
+date "Dec 12, 2010"
+description "A wreath I saw on a house door in Colonial Williamsburg this weekend. The blue and black items are dreidels."
+difficulty 2.0
+height 25
+id 11349
+link "https://webpbn.com/play.cgi?id=11349"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "NOT a typical holiday decoration"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 3
+green 3
+green 5
+green 3 green 3
+green 2 black 1 green 3
+green 8 black 2 green 9 blue 1 green 5
+green 7 black 2 green 7 blue 2 green 5
+green 3 green 3 green 1 blue 2 green 3
+green 3 green 2 green 2 green 3
+green 5 green 5
+green 4 green 4
+blue 1 green 1 black 1 green 1
+green 2 blue 2 green 2 black 2
+green 2 blue 2 green 1 green 3 black 2
+green 2 green 3 green 2 green 3
+green 3 green 3 green 3 green 3
+green 16 blue 1 green 6
+green 8 black 1 green 6 blue 2 green 8
+green 1 black 2 green 1 blue 2
+black 2 green 1 green 3
+green 5
+green 3
+green 3
+green 1
+
+columns
+green 1 green 1
+green 3 green 3
+green 4 green 4
+green 6 green 6
+green 2 green 3 blue 1 green 2 green 2
+green 2 green 3 blue 2 green 1 green 2
+green 6 blue 2 green 4
+green 5 green 5
+green 1 black 2 green 1 green 2 black 1 green 1
+green 2 black 2 green 2 black 2
+green 2 black 1 green 2 green 2 black 2 green 1
+green 4 green 2 green 2 green 4
+green 4 green 2 green 2 green 4
+green 4 green 2 green 2 green 4
+green 5 green 5
+green 4 green 1 blue 2 green 1
+green 4 green 2 blue 2
+green 1 blue 2 green 2 green 3 blue 1 green 1
+green 1 blue 2 green 3 green 6
+blue 1 green 1 green 2 black 1 green 2 green 2
+green 2 green 4 black 2 green 1 green 2
+green 6 black 2 green 4
+green 4 green 4
+green 3 green 3
+green 1 green 1

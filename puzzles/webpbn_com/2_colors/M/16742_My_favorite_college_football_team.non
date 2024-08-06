@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom King"
+date "Dec 27, 2011"
+description "OK, looks like a weasel. Nike (huge Oregon donor) developed it. We need the grand malamute back!!! Go Huskies!"
+difficulty 2.75
+height 20
+id 16742
+link "https://webpbn.com/play.cgi?id=16742"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "My favorite college football team"
+width 20
+
+rows
+1,1,1,1
+2,2,1,1
+3,3,1,1
+1,1,3,1,1
+7,4
+12
+9,3
+9,3,2
+4,3
+4,1
+4,2
+6,4
+8,3
+9,2
+7,2,1,1
+6,1,1,1,1
+5,1,1,1,1
+5,2,1,1,1
+5,1,5
+5,2
+
+columns
+12
+14
+15
+15
+8,9
+2,4,5,1
+6,3
+4,2
+8,1
+6
+4,4
+1,1,2,3
+1,1,2,1
+1,1,1
+1,2
+5,1,1,5
+1,2,1,1
+1,2,2,4
+5,1,1,1
+2,5

@@ -1,0 +1,127 @@
+by "Nancy Snyder (naneki)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Nancy Snyder"
+date "Nov  3, 2007"
+description "Pinocchiois the second animated feature by Disney, released on February 7, 1940. The plot of the film involves a wooden puppet being brought to life by a blue fairy, who tells him he can become a real boy if he proves himself "brave, truthful, and unselfish". Thus begins the puppet's adventures to become a real boy, which involves many an encounter with a host of unsavory characters."
+difficulty 3.25
+height 55
+id 1741
+link "https://webpbn.com/play.cgi?id=1741"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.5
+title "#33 - Don't tell any Lies!"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6
+black 3 black 2
+black 1 black 2 black 10
+black 3 black 2 black 13
+black 1 blue 1 black 2 black 4 black 16
+black 1 blue 1 black 3 black 3 black 1 black 18
+black 1 blue 1 black 1 blue 1 black 1 black 4 black 20
+black 1 blue 1 black 1 blue 1 black 1 black 10 black 23
+black 1 blue 3 black 5 black 4 black 25
+black 1 blue 3 black 2 black 4 black 27
+black 1 blue 2 black 2 black 4 black 28
+black 1 blue 1 black 2 black 4 black 29
+black 3 black 4 black 29
+black 2 black 4 black 29
+black 1 black 5 black 29
+black 1 black 4 black 25
+black 1 black 3 black 25
+black 1 black 4 black 1 black 2 black 10 black 2
+black 1 black 4 black 2 black 2 black 2
+black 1 black 4 black 2 black 2 black 2
+black 1 black 4 black 1 black 2 black 1
+black 1 black 3 black 2 black 2 black 1
+black 1 black 3 black 1 black 3 black 3 black 1
+black 1 black 4 black 2 black 4 black 2 black 2 black 1
+black 1 black 4 black 2 black 4 black 1 black 2 black 1
+black 1 black 3 black 1 black 4 black 6 black 1
+black 1 black 3 black 2 black 6 black 5 black 2 black 1 black 1
+black 1 black 6 black 6 black 2 black 2 black 4 black 1 black 1
+black 2 black 5 black 8 black 1 black 1 black 3 black 1 black 4
+black 2 black 4 black 8 black 1 black 3 black 2 black 6 black 1
+black 2 black 3 black 10 black 3 black 2 black 1 black 2 black 2
+black 5 black 11 black 3 black 1 black 1 black 2 black 3
+black 3 black 11 black 4 black 3 black 3 black 2 black 1
+black 2 black 11 black 3 black 2 black 2 black 3 black 1
+black 2 black 11 black 5 black 1 black 2 black 1 black 1
+black 1 black 5 black 2 black 2 black 2 black 2 black 1
+black 2 black 4 black 2 black 1 black 5 black 2 black 1
+black 1 black 3 black 4 black 2 black 2
+black 1 black 3 black 3 black 1 black 2 black 2
+black 2 black 3 black 2 black 3 black 2
+black 1 black 3 black 11 black 1
+black 3 black 3 black 1 black 2 black 7 black 2
+black 2 black 9 black 2 red 3 black 2 black 2
+black 2 black 9 black 5 black 2
+black 15 black 3 black 2
+black 3 black 6
+black 1 black 9
+black 3 black 1 black 1 black 4
+black 2 blue 1 black 2 black 1 black 1 black 2 blue 2 black 2
+black 1 blue 3 black 4 black 3 blue 4 black 2
+black 1 blue 6 black 7 blue 3 black 1 blue 3 black 1
+black 1 blue 3 black 2 blue 3 black 2 blue 2 black 4 blue 4 black 1
+black 1 blue 4 black 2 blue 2 black 1 blue 4 black 1 blue 6 black 1
+black 1 blue 5 black 4 blue 4 black 4 blue 3 black 1
+black 1 blue 8 black 6 blue 6 black 1
+
+columns
+black 26
+black 2 blue 8 black 2 black 3
+black 5 blue 3 black 2 black 3 black 4
+black 2 blue 4 black 2 black 2 black 3 black 3
+black 6 black 8 black 1
+black 2 black 11 black 2
+black 1 black 13 black 2
+black 2 black 13 black 2
+black 2 black 11 black 2 black 1
+black 1 black 8 black 2 black 1
+black 1 black 8 black 3 black 1
+black 1 black 7 black 2 black 10 black 1
+black 8 black 3 black 13 black 1
+black 6 black 3 black 16 black 1
+black 4 black 2 black 14 black 3 black 1
+black 2 black 2 black 15 black 4
+black 2 black 16 black 1 black 3
+black 1 black 3 black 13 black 2 black 3
+black 1 black 3 black 9 black 2 black 3
+black 2 black 4 black 7 black 2 black 3 black 7
+black 1 black 5 black 6 black 1 black 3 black 2 blue 6
+black 2 black 6 black 6 black 1 black 4 black 1 blue 7
+black 1 black 7 black 2 black 2 blue 6
+black 2 black 8 black 2 black 2 blue 1 black 1 blue 3
+black 2 black 9 black 1 black 1 blue 1 black 2 blue 2
+black 2 black 10 black 2 black 1 blue 2 black 2 blue 1
+black 2 black 11 black 6 blue 2 black 1 blue 1
+black 1 black 13 black 6 black 1 black 1 blue 2 black 1 blue 1
+black 2 black 14 black 2 black 4 black 1 black 5
+black 1 black 15 black 1 black 6 black 1 black 2 blue 2 black 1
+black 1 black 15 black 1 black 1 black 3 black 1 black 1 blue 3 black 1
+black 1 black 16 black 1 black 2 black 1 black 1 black 1 black 1 blue 3 black 1
+black 1 black 16 black 2 black 3 black 1 black 2 black 6 blue 2 black 1
+black 18 black 3 black 3 black 2 black 1 black 1 blue 1 black 4
+black 17 black 5 black 3 black 1 black 2 blue 1 black 1 blue 1 black 1 blue 1
+black 16 black 3 black 3 blue 2 black 1 blue 1 black 1 blue 1
+black 16 black 5 black 4 black 3 blue 2 black 1 blue 2 black 1 blue 1
+black 15 black 2 black 4 black 3 black 2 red 1 black 1 black 1 black 1 blue 7
+black 15 black 1 black 1 black 3 black 2 black 2 black 2 red 1 black 1 black 1 black 2 blue 6
+black 15 black 2 black 1 black 3 black 1 black 1 black 2 red 1 black 1 black 1 black 2 blue 5
+black 15 black 3 black 1 black 2 black 1 black 5 black 1 black 6
+black 14 black 8 black 1 black 4 black 2
+black 16 black 2 black 2 black 3 black 2
+black 12 black 13 black 2 black 2 black 2
+black 10 black 1 black 2 black 2 black 2
+black 9 black 1 black 2 black 2 black 3
+black 8 black 8 black 2
+black 8 black 2 black 2
+black 6 black 7
+black 3

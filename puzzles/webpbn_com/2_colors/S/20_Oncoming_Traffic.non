@@ -1,0 +1,46 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Apr  4, 2004"
+description "A test of my theory that it takes little more than two headlights and a windshield to make a blob recognizable as a car. Not entirely a successful test - I need to squint at it."
+difficulty 1.5
+height 12
+id 20
+link "https://webpbn.com/play.cgi?id=20"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Oncoming Traffic"
+width 17
+
+rows
+9
+2,8
+3,1,7
+5,1,2
+5,1,1
+7,2
+15
+1,13
+5,4,1
+11
+11
+2,2
+
+columns
+3
+7
+1,6
+1,4
+8
+2,5
+3,7
+12
+3,5
+3,5
+2,2,2
+2,5
+2,5
+8
+7
+2,3
+4

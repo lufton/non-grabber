@@ -1,0 +1,82 @@
+by "JT (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by JT"
+date "Jan  1, 2016"
+description "Tilly, that is."
+difficulty 1.25
+height 30
+id 27958
+link "https://webpbn.com/play.cgi?id=27958"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Eustace"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6
+black 6
+black 6
+black 6
+black 6
+black 10
+black 1 black 2
+red 2 blue 3 black 3 black 3
+red 2 blue 1 blue 1 black 2 blue 1 black 2
+red 1 black 1 black 1 blue 1 blue 1 black 2 black 3
+red 2 black 1 blue 1 blue 1 black 2 black 3
+blue 3 black 1 black 6
+blue 1 black 2 black 2 black 1
+black 4 black 1 black 1 black 2
+black 2 blue 1 black 4 black 1
+black 4 black 1 black 1
+black 2 blue 1 black 2 black 2
+black 2 blue 1 red 1 black 1 black 1 red 1
+red 5 blue 1 red 2 black 1 black 1 red 2
+red 3 blue 1 red 3 black 1 black 1 blue 1 red 2
+red 3 blue 1 red 3 black 1 black 1 blue 1 red 4
+red 3 blue 1 red 6 black 1 black 1 red 1 blue 1 red 5
+red 3 blue 1 red 6 black 2 black 1 red 2 blue 1 red 6
+red 5 blue 2 red 6 black 2 black 1 red 2 blue 2 red 6
+red 6 blue 1 red 7 black 4 red 3 blue 1 red 4 red 2
+red 6 blue 2 red 11 blue 3 red 5 red 1
+red 7 blue 1 red 7 blue 5 red 8
+red 6 blue 3 red 2 blue 4 red 12
+red 8 blue 4 red 14
+red 23 red 1
+
+columns
+red 2 red 1
+black 1 red 1 red 9
+red 2 black 1 black 2 red 11
+red 2 black 1 black 4 red 11
+black 3 red 1 red 7
+blue 5 black 1 black 1 red 7
+blue 1 blue 2 black 1 blue 1 black 1 blue 8 red 6
+blue 5 black 1 red 2 blue 3 red 4
+red 4 blue 3 red 2
+red 7 blue 1 red 2
+black 1 red 8 blue 2 red 1
+black 2 red 9 blue 1 red 1
+black 2 black 4 red 2 black 1 red 7 blue 1 red 1
+black 1 black 2 black 1 black 1 red 2 black 1 black 2 red 4 blue 2 red 1
+black 3 black 1 black 3 black 2 red 3 blue 1 red 2
+black 6 black 1 blue 1 black 5 black 2 red 2 blue 1 red 2
+black 6 black 2 black 1 red 1 blue 2 red 2
+black 6 black 1 black 1 red 1 blue 1 red 3
+black 6 black 1 black 1 red 1 blue 1 red 3
+black 6 black 1 black 1 red 2 blue 1 red 3
+black 8 black 3 black 4 black 1 red 2 blue 2 red 3
+black 9 black 3 black 1 red 3 blue 1 red 4
+black 1 black 4 red 2 black 2 red 2 blue 3 red 4
+red 1 blue 5 red 6
+red 11
+red 11
+red 10
+red 4 red 4
+red 4 red 2
+red 4 red 1

@@ -1,0 +1,95 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/06"
+height 35
+id 38751
+link "https://www.griddlers.net/nonogram/-/g/38751"
+medium_time "0:17:21"
+points 16877
+popularity 68.31
+title "House"
+width 35
+
+color a 008b58
+color b 8f0000
+color c ffffff
+color d 0000a4
+color e 6aade8
+color f 0db41a
+color g 808080
+color h 000000
+
+rows
+h 3
+h 7
+h 5 b 1 h 5
+h 5 b 2 c 1 b 2 h 5
+h 5 b 3 c 1 b 1 c 1 b 3 h 5
+h 4 b 6 c 1 b 6 h 4
+h 2 b 17 h 2
+b 1 c 2 d 4 c 2 b 1 c 2 d 4 c 2 b 1
+b 1 e 2 d 1 g 2 d 1 e 2 b 1 e 2 d 1 g 2 d 1 e 2 b 1
+b 1 c 2 d 1 g 2 d 1 c 2 b 1 c 2 d 1 g 2 d 1 c 2 b 1 h 1 g 1
+b 1 e 2 d 1 g 2 d 1 e 2 b 1 e 2 d 1 g 2 d 1 e 2 b 1 h 1 g 9 h 1
+b 1 c 2 d 1 g 2 d 1 c 2 b 1 c 2 d 1 g 2 d 1 c 2 b 1 h 1 g 9 h 1 g 1
+b 1 e 2 d 1 g 2 d 1 e 2 b 1 e 2 d 1 g 2 d 1 e 2 b 1 h 1 g 10 h 1
+b 1 c 2 d 1 g 2 d 1 c 2 b 1 c 2 d 1 g 2 d 1 c 2 b 1 h 12
+b 30
+b 20 g 8 b 2
+b 1 c 2 d 4 c 2 b 11 e 1 c 7 b 2
+b 1 e 2 d 1 g 2 d 1 e 2 b 3 c 5 b 3 g 1 e 7 b 2
+b 1 c 2 d 1 g 2 d 1 c 2 b 3 e 1 g 3 e 1 b 3 e 1 c 7 b 2
+b 1 e 2 d 1 g 2 d 1 e 2 b 3 e 1 g 3 e 1 b 3 g 1 e 7 b 2
+b 1 c 2 d 1 g 2 d 1 c 2 b 3 e 1 c 3 e 1 b 3 e 1 c 7 b 2
+b 1 e 2 d 1 g 2 d 1 e 2 b 3 e 3 h 1 e 1 b 3 g 1 e 7 b 2
+b 1 c 2 d 1 g 2 d 1 c 2 b 3 e 5 b 3 e 1 c 7 b 2
+b 12 e 3 c 1 e 1 b 3 g 1 e 7 b 2
+b 12 e 1 c 3 e 1 b 3 e 1 c 7 b 2
+b 12 e 5 b 3 g 1 e 7 b 2
+b 10 e 1 c 7 e 1 b 11
+f 11 e 9 f 15
+f 2 f 3 e 1 c 9 e 1 f 3 f 5
+f 1 f 3 g 11 f 3 f 3
+f 24 f 4
+f 9 f 5 f 9
+f 6 f 3 f 6
+f 3 f 3 f 4
+f 4 f 6 f 4
+
+columns
+h 2 f 4
+h 3 b 20 f 2 f 1
+h 2 b 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 2 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 4 f 1 f 1
+h 3 b 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 2 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 4 f 1 f 2
+h 2 b 2 d 7 b 2 d 7 b 4 f 1 f 2
+h 3 b 2 d 1 g 6 b 2 d 1 g 6 b 4 f 1 f 3 f 1
+h 2 b 3 d 1 g 6 b 2 d 1 g 6 b 4 f 1 f 5
+h 3 b 3 d 7 b 2 d 7 b 4 f 8
+h 2 b 4 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 2 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 4 f 8
+h 3 b 1 c 1 b 2 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 2 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 4 f 6
+h 2 b 1 c 1 b 1 c 1 b 21 f 1 e 1 g 1 f 3
+h 3 b 1 c 1 b 2 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 12 e 2 c 1 g 1 f 2
+h 2 b 4 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 12 c 1 e 1 c 1 g 1 f 1
+h 3 b 3 d 7 b 3 c 1 e 8 c 1 e 1 c 1 g 1 f 1
+h 2 b 3 d 1 g 6 b 3 c 1 g 2 c 1 e 3 c 1 e 1 c 1 e 1 c 1 g 1 f 2
+h 3 b 2 d 1 g 6 b 3 c 1 g 2 c 1 e 3 c 1 e 1 c 1 e 1 c 1 g 1 f 2 f 1
+h 2 b 2 d 7 b 3 c 1 g 2 c 1 h 1 e 1 c 2 e 1 c 1 e 1 c 1 g 1 f 3 f 1
+h 3 b 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 3 c 1 e 8 c 1 e 1 c 1 g 1 f 5
+h 2 b 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 12 c 1 e 1 c 1 g 1 f 5
+h 3 b 19 e 2 c 1 g 1 f 1 f 2
+h 2 h 5 b 13 f 1 e 1 g 1 f 1 f 1
+g 3 h 1 b 1 g 1 e 1 g 1 e 1 g 1 e 1 g 1 e 1 g 1 e 1 g 1 b 1 f 4
+g 3 h 1 b 1 g 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1 f 4
+g 3 h 1 b 1 g 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1 f 5
+g 3 h 1 b 1 g 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1 f 1 f 1
+g 3 h 1 b 1 g 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1 f 1 f 2 f 1
+g 3 h 1 b 1 g 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1 f 1 f 4
+g 3 h 1 b 1 g 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1 f 1 f 4
+g 3 h 1 b 1 g 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1 f 1 f 4
+g 4 h 1 b 13 f 1 f 3
+h 2 g 1 h 1 b 13 f 2 f 2
+g 1 h 2 f 2 f 2
+f 4
+f 4
+f 4

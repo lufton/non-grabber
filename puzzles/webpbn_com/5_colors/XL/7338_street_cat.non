@@ -1,0 +1,93 @@
+by "giovanni seidner (giovannisei)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by giovanni seidner"
+date "Dec  6, 2009"
+description ""
+difficulty 1.75
+height 20
+id 7338
+link "https://webpbn.com/play.cgi?id=7338"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "street cat"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 11 green 1 black 7 blue 28
+black 11 green 1 black 7 blue 1 red 3 blue 24
+black 2 green 2 black 1 green 5 black 1 green 1 black 1 green 1 black 2 green 2 black 1 blue 1 red 1 red 1 blue 24
+black 1 green 1 black 2 green 1 black 4 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 2 green 1 blue 1 red 1 red 4 blue 1 red 3 blue 2 red 7 blue 1 red 7
+black 3 green 1 black 3 green 3 black 1 green 1 black 1 green 1 black 3 green 1 black 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 2 red 1 red 1 blue 1 red 1 red 1
+black 2 green 1 black 6 green 1 black 1 green 1 black 1 green 1 black 2 green 1 black 2 blue 1 red 4 red 1 blue 1 red 1 red 1 blue 2 red 1 red 3 red 1 blue 1 red 1 red 3 red 1
+black 1 green 4 black 4 green 1 black 1 green 1 black 1 green 1 black 1 green 4 blue 1 red 4 red 1 blue 1 red 1 red 1 blue 1 red 2 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1
+black 11 green 1 black 7 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1
+blue 1 red 6 blue 1 red 3 blue 1 red 4 blue 1 red 3 blue 1 red 3 blue 1 red 3
+blue 48
+blue 48
+blue 13 red 6 blue 2 red 3 blue 1 red 7 blue 1 red 6 blue 9
+blue 13 red 1 red 1 blue 2 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 9
+blue 13 red 4 red 1 blue 2 red 1 red 1 blue 1 red 1 red 3 red 1 blue 1 red 4 red 1 blue 9
+blue 13 red 4 red 2 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 4 red 1 red 1 blue 9
+blue 13 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 1 red 1 red 1 blue 4 red 1 red 1 blue 9
+blue 13 red 7 blue 1 red 3 blue 1 red 3 blue 1 red 3 blue 4 red 3 blue 9
+blue 48
+0
+
+columns
+0
+black 8 blue 9
+black 3 green 1 black 2 green 1 black 1 blue 9
+black 2 green 1 black 2 green 2 black 1 blue 9
+black 2 green 1 black 1 green 1 black 1 green 1 black 1 blue 9
+black 3 green 1 black 2 green 1 black 1 blue 9
+black 2 green 1 black 5 blue 9
+black 2 green 1 black 5 blue 9
+black 2 green 1 black 1 green 1 black 3 blue 9
+black 2 green 1 black 1 green 1 black 3 blue 9
+black 2 green 5 black 1 blue 9
+black 8 blue 9
+green 8 blue 9
+black 8 blue 9
+black 2 green 5 black 1 blue 2 red 6 blue 1
+black 8 blue 2 red 1 red 2 red 1 blue 1
+black 3 green 1 black 2 green 1 black 1 blue 2 red 1 red 2 red 1 blue 1
+black 2 green 1 black 2 green 2 black 1 blue 2 red 1 red 2 red 1 blue 1
+black 2 green 1 black 1 green 1 black 1 green 1 black 1 blue 2 red 1 red 1 blue 1
+black 3 green 1 black 2 green 1 black 1 blue 2 red 4 red 1 blue 1
+blue 5 red 3 blue 1
+blue 18
+blue 1 red 8 blue 2 red 6 blue 1
+blue 1 red 1 red 2 red 1 blue 2 red 1 red 1 blue 1
+blue 1 red 3 red 2 red 1 blue 2 red 6 blue 1
+blue 3 red 1 red 2 red 1 blue 9
+blue 3 red 1 red 1 blue 2 red 6 blue 1
+blue 3 red 6 blue 2 red 1 red 1 blue 1
+blue 11 red 1 red 4 blue 1
+blue 3 red 6 blue 2 red 1 red 1 blue 4
+blue 3 red 1 red 1 blue 2 red 1 red 4 blue 1
+blue 3 red 6 blue 2 red 1 red 1 blue 1
+blue 11 red 6 blue 1
+blue 6 red 3 blue 9
+blue 3 red 4 red 1 blue 2 red 3 blue 4
+blue 3 red 1 red 1 blue 2 red 1 red 1 blue 4
+blue 3 red 1 red 4 blue 2 red 1 red 1 blue 4
+blue 3 red 1 red 1 blue 5 red 1 red 4 blue 1
+blue 3 red 1 red 4 blue 2 red 1 red 1 blue 1
+blue 3 red 1 red 1 blue 2 red 6 blue 1
+blue 3 red 6 blue 9
+blue 18
+blue 3 red 6 blue 9
+blue 3 red 1 red 1 blue 9
+blue 3 red 1 red 4 blue 9
+blue 3 red 1 red 1 blue 12
+blue 3 red 1 red 4 blue 9
+blue 3 red 1 red 1 blue 9
+blue 3 red 6 blue 9
+0

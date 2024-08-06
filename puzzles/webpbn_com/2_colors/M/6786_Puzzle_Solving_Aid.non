@@ -1,0 +1,62 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Sep 25, 2009"
+description "The Logitech symbol. It is on the trackball that I use to solve puzzles."
+difficulty 2.5
+height 20
+id 6786
+link "https://webpbn.com/play.cgi?id=6786"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Puzzle Solving Aid"
+width 25
+
+rows
+3,2
+6,4
+6,4
+7,4
+6,3
+7
+7
+7,6
+7,2,1,3
+7,2,1,2,7
+7,4,2,5
+7,8
+8,1,3
+8,3
+8
+8,2
+7,5
+6,5
+3,4
+2
+
+columns
+6
+10
+13
+15
+17
+17
+18
+7,7
+4,2,6
+2,4,3
+2,2
+1,4
+1,2,1,1
+2,1,3
+2,2,3
+2,6
+3,4,1
+2,2
+3,1,3
+2,2,2
+2,3
+2,3
+2,3
+2,1
+1

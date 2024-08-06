@@ -1,0 +1,110 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/5/21"
+height 35
+id 229613
+link "https://www.griddlers.net/nonogram/-/g/229613"
+medium_time "0:48:15"
+points 117073
+popularity 87.5
+title "Castles"
+width 50
+
+color a ffffff
+color b 000000
+color c CC9966
+color d CC6633
+color e FFCC33
+color f 99CC00
+color g 666633
+color h 669900
+
+rows
+d 1 c 5
+d 5 c 1
+d 1 c 3
+d 1 c 1 b 1 c 1
+d 1 c 1 b 1 c 1 e 2 f 2
+c 1 d 1 c 3 e 2 f 1
+f 1 c 6 e 1 e 1 f 2 f 1 h 1 f 1
+h 1 f 1 d 2 c 4 e 4 f 1 h 3 e 2 h 1 f 1
+h 1 d 1 f 1 c 8 h 1 h 1 e 2 f 1
+h 1 f 3 c 1 b 1 c 2 e 4 c 1 c 1 e 1 f 2 e 2
+h 3 f 1 d 1 c 1 b 1 c 2 e 1 b 1 e 2 d 1 c 3 e 2 h 1 f 3 e 1
+h 1 f 1 d 2 c 4 e 1 b 1 e 2 d 4 c 2 h 1 h 1 f 2 h 1 f 2
+h 2 f 2 d 1 c 4 e 4 d 1 c 3 e 2 h 4 f 2
+h 2 f 1 h 1 d 5 e 4 d 1 c 1 b 1 c 1 e 2 h 1 f 1 e 2 f 2
+h 3 d 1 c 8 d 1 c 1 b 1 c 2 e 1 e 1 g 1 f 1 h 1 f 1 h 1
+g 1 d 2 c 1 b 1 c 1 e 5 d 1 c 5 f 1 e 1 g 1 h 4
+g 1 d 2 c 1 b 1 c 1 e 2 b 1 e 12 f 2 g 1 f 2 h 1
+h 1 g 1 d 2 c 3 e 2 b 1 e 2 d 1 e 1 c 1 e 1 c 1 e 1 e 1 e 1 f 4 h 2 f 2 h 1
+h 2 d 2 c 3 e 5 d 1 e 1 c 1 e 1 c 1 e 1 f 1 e 1 f 1 e 1 f 2 f 10 f 2 h 1 g 1
+f 1 h 1 d 2 c 3 e 5 d 10 f 20 h 1 f 1 g 1
+h 2 f 2 d 2 c 2 b 2 e 4 d 3 c 10 f 2 h 2 f 12 h 2 e 2 f 1 h 1
+h 5 c 2 b 2 e 4 d 3 c 10 h 8 f 4 h 7 e 1 h 1 f 2
+f 2 h 3 d 1 g 1 c 1 b 2 e 4 d 5 c 8 h 12 f 1 h 4 f 2 e 1 f 2 h 1
+f 1 h 3 d 1 g 2 h 1 b 2 e 4 d 5 c 1 b 2 c 5 h 14 f 1 h 1 f 2 h 2 f 2 h 1
+f 1 g 1 f 1 h 1 g 1 f 1 h 2 e 6 d 6 b 2 d 2 c 3 f 1 h 4 g 2 h 1 f 2
+h 2 f 4 h 1 f 3 e 6 d 4 b 2 d 2 c 3 d 1 f 2 h 2 g 5 h 1 f 1
+h 3 f 11 e 6 b 2 d 4 c 1 d 1 f 2 h 2 g 7 h 1
+h 5 f 8 e 10 d 5 g 1 f 1 h 2 g 8
+h 1 g 1 h 6 f 13 e 4 d 3 g 3 h 1 g 9
+g 3 h 6 f 15 e 2 d 2 h 1 g 11
+g 2 h 5 g 1 h 5 f 2 h 1 f 6 h 1 f 3 e 3 c 8 g 9
+g 4 h 2 g 2 h 11 f 2 h 2 f 4 e 4 b 1 b 1 g 7
+g 10 h 11 f 1 h 2 f 5 e 1 f 1 e 3 f 1 e 1 g 1 f 2 g 3
+g 13 h 13 f 5 e 1 f 1 e 1 f 1 g 3 f 3
+g 15 h 2 g 1 h 12 f 1 g 2 f 1 g 5 f 3
+
+columns
+h 1 h 1 f 3 h 4 g 6
+h 2 h 2 h 2 f 1 h 1 g 1 h 3 g 7
+f 1 h 1 h 2 h 2 h 2 f 2 h 3 f 2 h 3 g 1 h 1 g 4
+f 1 h 1 f 1 h 1 f 3 h 1 g 3 h 2 f 1 h 4 f 2 h 4 g 4
+c 2 d 2 f 2 d 1 f 1 h 2 d 6 h 2 d 1 g 1 f 2 h 5 g 3
+d 2 c 1 d 1 f 2 d 11 h 1 d 1 g 1 f 4 h 4 g 3
+c 1 d 5 c 7 d 1 c 8 g 2 h 2 f 2 h 3 g 4
+c 1 d 1 c 7 b 2 c 2 d 1 c 1 b 2 c 6 h 2 f 3 h 2 g 5
+c 1 d 1 c 1 b 2 c 8 d 1 c 6 b 4 e 1 f 4 h 3 g 3
+c 1 d 1 c 11 d 1 c 1 e 5 b 4 e 1 f 5 h 2 g 3
+c 2 e 1 c 1 e 5 c 1 e 11 f 4 h 3 g 2
+e 2 c 1 e 1 b 2 e 2 c 1 e 1 b 2 e 8 f 4 h 3 g 2
+e 1 c 1 e 5 c 1 e 11 f 4 h 3 g 2
+e 2 c 1 e 5 c 1 e 11 f 1 e 1 f 3 h 3 g 1
+d 6 e 1 d 8 e 3 f 3 h 3 g 1
+c 2 d 1 c 4 e 3 d 6 e 3 f 2 h 5
+c 1 d 1 c 1 b 2 c 1 e 1 c 2 d 7 e 2 f 3 h 4
+c 2 d 1 c 4 e 3 d 1 c 2 d 4 e 2 f 3 h 3 g 1
+e 1 c 1 e 2 c 2 e 1 c 2 d 1 c 2 d 4 e 2 f 3 h 4
+e 2 c 1 e 3 c 1 e 3 d 1 c 4 d 2 e 2 f 4 h 3
+e 1 f 1 d 1 c 3 b 4 e 1 f 4 h 3
+e 3 d 1 c 3 b 4 e 2 f 2 h 1 f 1 h 2
+e 1 f 1 d 1 c 4 d 3 e 2 f 1 h 5
+e 3 d 1 c 4 d 4 e 1 f 3 h 3
+f 2 c 6 d 2 e 2 f 3 h 2
+f 2 c 6 d 3 e 1 f 3 h 2
+f 1 c 7 d 3 e 1 f 3 h 1
+f 2 h 3 d 5 e 2 f 2 h 1
+f 2 h 3 h 1 e 2 f 2 h 1
+f 2 h 4 c 1 e 2 f 1 h 1
+f 2 h 4 c 1 e 1 f 3
+f 4 h 3 c 1 e 2 g 1
+f 4 h 3 c 1 b 1 e 1 f 1 g 1
+f 4 h 3 c 1 e 2 f 1
+f 4 h 3 c 1 f 2 g 1
+f 4 h 2 c 1 b 1 e 1 g 2
+f 4 h 2 c 1 g 3
+f 4 h 2 g 1 f 1 g 2
+f 4 h 2 f 1 g 2 f 2 g 1
+f 2 h 1 f 1 h 1 f 3 g 2 f 2
+f 2 h 3 f 2 h 3 g 1 f 2
+f 1 h 1 h 1 f 2 h 2 f 1 h 4 g 3 f 1
+f 1 h 1 h 2 f 2 h 5 g 5
+f 1 h 2 h 2 f 2 f 2 h 3 f 1 h 1 g 7
+e 1 h 1 e 1 f 1 h 1 f 1 h 1 f 1 e 2 f 1 h 1 f 1 h 3 f 2 h 1 g 7
+e 2 f 1 e 2 f 3 h 1 e 1 g 3 h 2 f 1 e 1 h 1 f 1 h 1 g 8
+e 1 f 1 h 1 e 1 f 1 e 1 f 1 h 1 f 1 e 1 f 1 h 1 f 1 g 2 e 3 h 1 g 8
+f 1 f 1 h 1 e 1 f 4 h 2 f 2 f 1 h 1 f 2 h 1 g 8
+f 1 f 1 e 1 f 1 f 2 h 1 f 1 h 1 f 4 h 1 g 7
+h 3 h 1 f 1 h 2 f 2 h 1 g 6

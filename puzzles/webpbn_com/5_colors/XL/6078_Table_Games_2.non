@@ -1,0 +1,97 @@
+by "Aaron Tennison (Adinell.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Aaron Tennison"
+date "Jun 13, 2009"
+description "4 in a row!"
+difficulty 1.5
+height 37
+id 6078
+link "https://webpbn.com/play.cgi?id=6078"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Table Games 2"
+width 37
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 37
+green 37
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 green 2 green 2
+green 37
+green 37
+green 2 blue 3 green 2 green 2 green 2 red 3 green 2 green 2 blue 1 black 1 blue 1 green 2 green 2
+green 2 blue 3 green 2 green 2 green 2 red 3 green 2 green 2 blue 1 black 1 blue 1 green 2 green 2
+green 2 blue 3 green 2 green 2 green 2 red 3 green 2 green 2 blue 1 black 1 blue 1 green 2 green 2
+green 28 black 1 green 8
+green 28 black 1 green 8
+green 2 red 3 green 2 green 2 blue 3 green 2 blue 3 green 2 red 3 green 2 blue 1 black 1 blue 1 green 2 green 2
+green 2 red 3 green 2 green 2 blue 3 green 2 blue 3 green 2 red 3 green 2 blue 1 black 1 blue 1 green 2 green 2
+green 2 red 3 green 2 green 2 blue 3 green 2 blue 3 green 2 red 3 green 2 blue 1 black 1 blue 1 green 2 green 2
+green 28 black 1 green 8
+green 28 black 1 green 8
+green 2 red 3 green 2 red 3 green 2 red 3 green 2 blue 3 green 2 blue 3 green 2 blue 1 black 1 blue 1 green 2 red 3 green 2
+green 2 red 3 green 2 red 3 green 2 red 3 green 2 blue 3 green 2 blue 3 green 2 blue 1 black 1 blue 1 green 2 red 3 green 2
+green 2 red 3 green 2 red 3 green 2 red 3 green 2 blue 3 green 2 blue 3 green 2 blue 1 black 1 blue 1 green 2 red 3 green 2
+green 28 black 1 green 8
+green 28 black 1 green 8
+green 2 red 3 green 2 red 3 green 2 red 3 green 2 blue 3 green 2 red 3 green 2 blue 1 black 1 blue 1 green 2 blue 3 green 2
+green 2 red 3 green 2 red 3 green 2 red 3 green 2 blue 3 green 2 red 3 green 2 blue 1 black 1 blue 1 green 2 blue 3 green 2
+green 2 red 3 green 2 red 3 green 2 red 3 green 2 blue 3 green 2 red 3 green 2 blue 1 black 1 blue 1 green 2 blue 3 green 2
+green 37
+green 37
+
+columns
+green 37
+green 37
+green 2 green 2 green 2 green 2 blue 3 green 2 red 3 green 2 red 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 blue 3 green 2 red 3 green 2 red 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 blue 3 green 2 red 3 green 2 red 3 green 2 red 3 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 green 2 green 2 red 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 red 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 red 3 green 2 red 3 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 green 2 blue 3 green 2 red 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 green 2 blue 3 green 2 red 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 green 2 blue 3 green 2 red 3 green 2 red 3 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2 blue 3 green 2 blue 3 green 2
+green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2 blue 3 green 2 blue 3 green 2
+green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2 blue 3 green 2 blue 3 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2 red 3 green 2
+green 2 green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2 red 3 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 blue 3 green 2 blue 3 green 2 blue 3 green 2 blue 3 green 2
+green 2 green 2 green 2 green 2 black 18 green 2
+green 2 green 2 green 2 green 2 blue 3 green 2 blue 3 green 2 blue 3 green 2 blue 3 green 2
+green 37
+green 37
+green 2 green 2 green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 red 3 green 2 blue 3 green 2
+green 37
+green 37

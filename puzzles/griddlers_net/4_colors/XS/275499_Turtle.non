@@ -1,0 +1,38 @@
+by "AliceMagdalena"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/23"
+height 7
+id 275499
+link "https://www.griddlers.net/nonogram/-/g/275499"
+medium_time "0:01:00"
+points 31
+popularity 81.85
+title "Turtle"
+width 10
+
+color a ffffff
+color b 000000
+color c 336600
+color d 66cc00
+
+rows
+c 2
+c 4 d 2
+c 6 d 1 b 1 d 1
+c 6 d 3
+d 1 c 6 d 2
+d 6
+d 2 d 2
+
+columns
+d 1
+c 3 d 2
+c 4 d 2
+c 5 d 1
+c 5 d 1
+c 4 d 2
+c 3 d 2
+d 4
+d 1 b 1 d 2
+d 2

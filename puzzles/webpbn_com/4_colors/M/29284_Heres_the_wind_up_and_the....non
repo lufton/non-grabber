@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Jan  1, 2017"
+description "Pitch Drop Experiment"
+difficulty 1.75
+height 25
+id 29284
+link "https://webpbn.com/play.cgi?id=29284"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Here's the wind up and the..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 4
+green 2
+green 15
+green 3 green 3
+green 2 green 2
+green 2 green 1 green 1 green 1
+green 1 green 2 black 10 green 2 green 2
+green 2 green 2 black 8 green 2 green 1
+green 1 red 1 green 2 black 6 green 2 red 1 green 1
+green 1 red 1 green 2 black 4 green 2 red 1 green 1
+green 1 red 1 green 2 black 2 green 2 red 1 green 1
+green 1 red 2 green 4 red 2 green 1
+green 1 red 1 green 2 red 1 green 1
+green 1 red 1 green 1 black 2 green 1 red 1 green 1
+green 1 red 2 green 1 black 2 green 1 red 2 green 1
+green 1 red 1 green 1 black 4 green 1 red 1 green 1
+green 1 red 1 green 1 black 4 green 1 red 1 green 1
+green 1 red 2 green 1 black 4 green 1 red 2 green 1
+green 1 red 1 green 1 black 2 green 1 red 1 green 1
+green 1 red 1 green 1 green 1 red 1 green 1
+green 1 red 2 green 1 green 1 red 2 green 1
+green 1 red 1 green 1 green 1 red 1 green 1
+green 1 red 1 green 10 red 1 green 1
+black 3 red 1 black 18 red 1 black 2
+black 23
+
+columns
+black 1
+green 16 black 2
+green 3 black 2
+green 2 red 4 black 1
+green 2 red 4 black 2
+green 1 red 4 black 2
+green 2 green 2 red 4 black 2
+green 1 green 2 red 4 black 2
+green 1 black 1 green 2 green 10 black 2
+green 1 black 2 green 2 green 1 black 2
+green 1 black 3 green 2 green 1 black 2
+green 1 green 1 black 4 green 2 black 3 green 1 black 2
+green 3 black 5 green 2 black 6 green 1 black 2
+green 3 black 5 green 2 black 6 green 1 black 2
+green 1 green 1 black 4 green 2 black 3 green 1 black 2
+green 1 black 3 green 2 green 1 black 2
+green 1 black 2 green 2 green 1 black 2
+green 1 black 1 green 2 green 10 black 2
+green 1 green 2 red 4 black 2
+green 1 green 2 red 4 black 2
+green 2 red 4 black 2
+green 1 red 4 black 2
+green 2 red 4 black 1
+green 3 black 2
+green 17 black 1

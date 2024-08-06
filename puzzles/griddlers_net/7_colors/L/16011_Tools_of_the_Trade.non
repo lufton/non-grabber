@@ -1,0 +1,84 @@
+by "jbt98"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/14/05"
+height 25
+id 16011
+link "https://www.griddlers.net/nonogram/-/g/16011"
+medium_time "0:11:35"
+points 5520
+popularity 61.79
+title "Tools of the Trade"
+width 35
+
+color a ffffff
+color b 5dada1
+color d 0000ff
+color e fffe6a
+color f 9bc8fe
+color g a3b096
+color h 000000
+
+rows
+f 1
+h 2 f 3
+e 3 h 2 f 5
+e 3 h 2 f 7 h 4
+e 3 h 2 f 7 h 7
+e 3 h 2 f 7 h 2 f 1 h 4
+e 3 f 1 h 2 f 11 h 4
+e 3 f 2 h 2 f 11 b 2 h 4
+e 3 f 3 h 2 f 10 b 4 h 5
+e 3 f 4 h 2 f 9 b 4 f 1 h 4
+e 3 f 2 d 5 f 7 b 4 f 3 h 3
+f 1 g 5 d 5 f 6 b 2 g 5 f 1 h 2
+f 1 g 7 d 4 f 5 b 2 g 7 f 3
+f 1 g 2 e 3 f 1 g 15 f 4 g 2 f 3
+f 2 g 1 f 1 e 3 f 2 g 14 f 10
+f 3 g 1 f 1 e 3 f 2 g 14 f 9
+f 2 g 1 f 1 e 3 f 2 g 14 f 8
+f 1 g 2 e 3 f 1 g 15 f 4 g 2 f 1
+f 1 g 7 d 4 b 5 f 2 g 7 f 1
+f 1 g 5 d 5 f 1 b 3 f 4 g 5 f 1
+e 3 f 2 d 5 f 2 b 1 f 10
+e 3 f 2 d 5 f 12
+e 3 f 2 d 5 f 11
+e 3 f 2 d 3 f 11
+e 3 f 14
+
+columns
+0
+f 1
+f 3
+f 5
+f 1 g 5 f 1
+f 1 g 2 f 3 g 2 f 1
+e 9 g 2 e 5 g 2 e 5
+e 9 g 2 e 5 g 2 e 5
+e 9 g 2 e 5 g 2 e 5
+f 2 g 2 f 5 g 2 f 3
+f 3 g 3 f 3 g 3 f 4
+f 3 d 2 g 7 d 4 f 2
+f 4 d 3 g 5 d 6 f 1
+h 9 d 3 g 5 d 6 f 1
+h 9 d 3 g 5 d 6 f 1
+f 6 d 3 g 5 d 5 f 2
+f 10 g 5 b 1 f 6
+f 11 g 5 b 2 f 5
+f 12 g 5 b 3 f 4
+f 13 g 5 b 2 f 5
+f 12 g 5 b 1 f 6
+f 10 b 1 g 5 f 7
+f 1 h 2 f 5 b 2 g 5 f 7
+h 3 f 4 b 2 g 7 f 6
+h 2 f 4 b 2 g 9 f 5
+h 2 f 2 b 3 g 2 f 5 g 2 f 4
+h 3 b 4 g 2 f 5 g 2 f 3
+h 3 b 3 f 1 g 2 f 5 g 2 f 2
+h 4 b 1 f 2 g 2 f 5 g 2 f 1
+h 4 f 2 g 2 f 3 g 2 f 1
+h 6 f 1 g 1 f 3 g 1 f 1
+h 5 f 6
+h 3 f 5
+h 2 f 3
+f 1

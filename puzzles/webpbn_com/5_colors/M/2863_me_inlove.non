@@ -1,0 +1,63 @@
+by "person harris (games1793)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by person harris"
+date "May 27, 2008"
+description "all loves me and love will never depart"
+difficulty 1.25
+height 20
+id 2863
+link "https://webpbn.com/play.cgi?id=2863"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "me inlove"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 1 blue 4 red 3 blue 2 red 1 blue 1 red 1 blue 2 red 4
+blue 1 red 1 blue 4 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 3
+blue 1 red 1 blue 4 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 3 blue 1
+blue 1 red 1 blue 4 red 1 blue 1 red 1 blue 2 red 1 blue 1 red 1 blue 2 red 1 blue 3
+blue 1 red 3 blue 2 red 3 blue 2 red 3 blue 2 red 4
+blue 1 green 1 blue 4 green 3 blue 2 green 1 blue 1 green 1 blue 2 green 4
+blue 1 green 1 blue 4 green 1 blue 1 green 1 blue 2 green 1 blue 1 green 1 blue 2 green 1 blue 3
+blue 1 green 1 blue 4 green 1 blue 1 green 1 blue 2 green 1 blue 1 green 1 blue 2 green 3 blue 1
+blue 1 green 1 blue 4 green 1 blue 1 green 1 blue 2 green 1 blue 1 green 1 blue 2 green 1 blue 3
+blue 1 green 3 blue 2 green 3 blue 2 green 3 blue 2 green 4
+blue 1 blue 4 blue 2 blue 1 blue 2
+blue 1 blue 4 blue 1 blue 2 blue 1 blue 2 blue 3
+blue 1 blue 4 blue 1 blue 2 blue 1 blue 2 blue 1
+blue 1 blue 4 blue 1 blue 2 blue 1 blue 2 blue 3
+blue 1 blue 2 blue 2 blue 2
+blue 1 black 1 blue 4 black 3 blue 2 black 1 blue 1 black 1 blue 2 black 4
+blue 1 black 1 blue 4 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 2 black 1 blue 3
+blue 1 black 1 blue 4 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 2 black 3 blue 1
+blue 1 black 1 blue 4 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 2 black 1 blue 3
+blue 1 black 3 blue 2 black 3 blue 2 black 3 blue 2 black 4
+
+columns
+blue 20
+red 5 green 5 black 5
+blue 4 red 1 blue 4 green 1 blue 4 blue 4 black 1
+blue 4 red 1 blue 4 green 1 blue 4 blue 4 black 1
+blue 20
+blue 20
+red 5 green 5 black 5
+red 1 blue 3 red 1 green 1 blue 3 green 1 blue 3 black 1 blue 3 black 1
+red 5 green 5 black 5
+blue 20
+blue 20
+red 5 green 5 black 5
+blue 4 red 1 blue 4 green 1 blue 4 blue 4 black 1
+red 5 green 5 black 5
+blue 20
+blue 20
+red 5 green 5 black 5
+red 1 blue 1 red 1 blue 1 red 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+red 1 blue 1 red 1 blue 1 red 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+red 1 blue 3 red 1 green 1 blue 3 green 1 blue 3 black 1 blue 3 black 1

@@ -1,0 +1,63 @@
+by "W. Brayton Batson (batsonb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by W. Brayton Batson"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 30
+id 26331
+link "https://webpbn.com/play.cgi?id=26331"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Chemistry Lab #3"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 1
+blue 1 blue 2 blue 3
+blue 1 blue 3
+blue 1 green 1 blue 1 green 1
+green 1 blue 2 green 1 black 1
+green 6 black 1
+green 1 blue 1 green 1 black 1
+green 1 blue 2 green 1 black 1
+green 1 blue 4 green 1 black 1
+green 1 blue 4 green 1 black 1
+green 1 blue 4 green 1 black 1 black 1
+green 4 black 4
+black 4 black 1 black 1
+red 1 black 1
+red 2 black 1
+red 3 black 1
+red 4 black 1
+red 3 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 3 black 1
+black 2 black 2 black 1
+black 1 black 1 black 1
+black 8
+black 3 black 3
+
+columns
+blue 2 green 7 black 1
+blue 1 blue 1 green 1 blue 3 green 1 black 1 black 4
+blue 2 green 1 blue 1 green 1 blue 1 blue 3 green 1 black 1 red 3 black 2 black 2
+blue 4 green 1 blue 4 green 1 black 1 red 5 black 8 black 1
+blue 1 green 1 green 1 blue 4 green 1 black 1 red 4 black 2 black 1
+blue 2 green 7 black 1 red 1 black 3
+blue 1 black 1 black 1
+blue 2 black 26
+black 1 black 2
+black 1 black 1 black 1

@@ -1,0 +1,90 @@
+by "Piglet3"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/17/13"
+height 22
+id 139090
+link "https://www.griddlers.net/nonogram/-/g/139090"
+medium_time "0:26:06"
+points 59884
+popularity 68.0
+title "Window to The Soul"
+width 43
+
+color a ccffff
+color b e2e6e7
+color c 5b3d02
+color d 000000
+color e 00cccc
+color f ffffff
+color g 999999
+color h d4cfcf
+
+rows
+g 9
+g 1 c 11 g 1
+g 1 c 2 h 10 c 4
+g 1 c 1 h 3 e 4 b 4 h 4 c 3
+g 2 h 3 e 2 e 2 e 1 b 3 h 5 c 3
+g 2 h 2 b 1 e 1 e 1 e 1 f 3 e 1 f 2 b 3 h 4 c 2
+g 1 h 3 b 1 e 1 e 1 e 1 f 6 b 5 h 3 c 2
+g 1 h 3 b 2 e 2 f 3 f 1 b 1 f 1 b 4 h 4 c 2 c 1 g 1
+g 1 h 3 b 2 e 1 e 2 d 2 f 1 f 1 e 1 f 3 b 4 h 4 c 3 g 1 c 1 c 1
+g 1 h 3 b 3 e 3 d 2 f 1 d 1 e 1 f 1 e 1 b 1 f 3 b 4 h 4 g 1 c 2 g 1 c 1 g 1
+g 1 h 3 b 3 e 1 e 1 d 4 e 2 b 2 f 2 b 4 h 5 g 1 c 2 g 1 c 1
+g 1 h 3 b 4 e 2 e 1 d 2 e 1 e 1 e 1 b 8 h 5 g 2 c 3 g 1
+g 1 h 3 b 5 e 3 e 2 e 1 b 10 h 4 g 5
+g 1 h 3 b 5 e 1 f 2 e 1 e 1 e 1 e 1 e 1 b 9 h 4 g 3
+h 2 g 1 h 3 b 5 e 1 f 1 e 1 e 2 b 10 h 3 g 3
+g 1 h 2 g 1 h 4 b 5 e 3 e 3 b 10 h 2 g 3
+g 1 h 2 g 2 h 3 b 7 e 4 b 10 h 2 g 3
+g 2 g 1 h 3 b 17 h 3 g 3
+g 3 h 3 b 13 h 3 g 3
+g 4 h 4 b 6 h 4 g 3
+g 5 h 9 g 3
+g 10
+
+columns
+g 2
+h 3 g 1
+g 3 h 3 g 1
+g 2 h 3 g 3
+g 1 h 7 g 1
+g 1 h 9 g 2
+g 1 h 4 b 3 h 4 g 1
+g 1 h 3 b 6 h 3 g 2
+g 2 h 2 b 9 h 2 g 1
+g 1 h 2 b 11 h 1 g 2
+g 1 h 2 b 2 e 4 b 6 h 1 g 2
+g 1 c 1 h 1 b 1 e 2 e 1 e 3 b 5 h 1 g 1
+c 1 h 2 e 1 e 1 e 1 e 1 f 1 e 1 b 4 h 1 g 1
+g 1 c 1 h 1 e 1 e 1 e 1 e 1 e 1 f 2 e 1 b 3 h 1 g 2
+g 1 c 1 h 2 e 1 e 1 e 1 e 1 e 1 b 3 h 2 g 1
+g 1 c 1 h 1 e 1 e 1 d 2 e 2 b 3 h 1 g 1
+g 1 c 1 h 1 e 1 e 1 d 4 e 1 e 1 b 3 h 1 g 1
+g 1 c 1 h 1 e 3 d 1 f 1 d 2 e 1 e 1 b 3 h 1 g 1
+g 1 c 1 h 1 e 2 f 2 d 2 e 1 e 2 b 3 h 1 g 1
+g 1 c 1 h 1 b 1 f 4 e 2 e 1 b 4 h 1 g 1
+g 1 c 1 h 1 b 1 e 1 f 3 e 1 e 4 b 4 h 1 g 1
+g 1 c 1 h 1 b 2 e 1 f 4 e 1 e 1 b 4 h 2 g 1
+g 1 c 1 h 1 b 2 f 2 e 2 e 2 b 5 h 2 g 1
+c 1 h 2 b 1 f 3 e 1 e 2 b 7 h 1 g 1
+c 2 h 2 b 3 f 1 b 9 h 2 g 1
+g 1 c 1 h 2 b 2 f 3 b 8 h 1 g 2
+c 1 h 2 b 3 f 3 b 6 h 2 g 1
+c 2 h 2 b 3 f 2 b 6 h 1 g 2
+c 1 h 2 b 11 h 1 g 1
+c 2 h 2 b 9 h 1 g 2
+c 1 h 3 b 8 h 1 g 1
+c 2 h 3 b 6 h 1 g 2
+c 2 h 5 b 1 h 3 g 1
+c 1 h 8 g 2
+c 1 h 7 g 1
+c 2 h 5 g 2
+c 1 g 1 h 3 g 2
+c 2 g 5
+c 1 g 1 c 2 g 3
+g 1 c 1 g 1 c 2 g 1
+c 1 g 1 c 1 g 1
+c 1 g 1 c 1 g 1
+c 1 g 1

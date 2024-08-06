@@ -1,0 +1,56 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Apr 30, 2009"
+description "Mosquito - not symmetric :)"
+difficulty 2.5
+height 20
+id 5745
+link "https://webpbn.com/play.cgi?id=5745"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Bloodsucker-v2 (for Jota)"
+width 19
+
+rows
+1
+1,1,1
+1,1,1,1,2
+2,1,1,1,1
+2,3,2
+3,3,2
+3,3,3
+7
+2,1,1,2
+2,4,4,2
+1,1,1,1,1,1,1,1,1,1
+2,1,1,3,1,1,2
+15
+1,5,1
+2,3,3,2
+2,2,3,2,1
+2,1,1,1,1,2
+1,1,3,1,1
+1,1,1,1,2
+1,1,1,1
+
+columns
+3,2,1
+2,1,1,3
+2,2,1,2
+1,1,2,2
+2,1,1,3,2
+1,1,2,3
+2,2,1,2
+2,1,1,3
+14
+8,3,1,2
+14
+2,1,1,3
+2,2,1,2
+1,1,2,4
+2,1,1,3,1
+2,1,2,3
+3,2,1,3
+2,1,1,2
+2

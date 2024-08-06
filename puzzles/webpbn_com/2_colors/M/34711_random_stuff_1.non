@@ -1,0 +1,87 @@
+by "darren jackson (hi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by darren jackson"
+date "Nov 23, 2020"
+description "make of it what you please but notice that it is the same weird upside down pyramid again and again smaller and smaller AND that if you remove the top row you get 2 of the whole image and if you remove the top 2 rows you get 4 and so on also: binary! a base two system: 0, 1, 10, 11, 100, 101, 110, 111, 1000, 1001, 1010 (ten is 4 digits) not efficient: two is the smallest number that needs two digits. takes 6 rows for numbers 0 - 63 inclusive"
+difficulty 1.0
+height 6
+id 34711
+link "https://webpbn.com/play.cgi?id=34711"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "random stuff 1"
+width 64
+
+rows
+32
+16,16
+8,8,8,8
+4,4,4,4,4,4,4,4
+2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+columns
+6
+5
+4,1
+4
+3,2
+3,1
+3,1
+3
+2,3
+2,2
+2,1,1
+2,1
+2,2
+2,1
+2,1
+2
+1,4
+1,3
+1,2,1
+1,2
+1,1,2
+1,1,1
+1,1,1
+1,1
+1,3
+1,2
+1,1,1
+1,1
+1,2
+1,1
+1,1
+1
+5
+4
+3,1
+3
+2,2
+2,1
+2,1
+2
+1,3
+1,2
+1,1,1
+1,1
+1,2
+1,1
+1,1
+1
+4
+3
+2,1
+2
+1,2
+1,1
+1,1
+1
+3
+2
+1,1
+1
+2
+1
+1
+0

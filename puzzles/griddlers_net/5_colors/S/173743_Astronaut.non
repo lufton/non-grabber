@@ -1,0 +1,52 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/7/16"
+height 15
+id 173743
+link "https://www.griddlers.net/nonogram/-/g/173743"
+medium_time "0:04:20"
+points 820
+popularity 74.67
+title "Astronaut"
+width 15
+
+color a 003399
+color b ffffff
+color c ff3300
+color d 66ccff
+color e ffff33
+
+rows
+b 3 e 1
+b 1 d 3 b 1 e 2
+e 1 b 1 d 3 b 1 e 4
+b 3 e 4
+b 1 d 1 c 1 b 1 c 1 d 1 b 1 e 2
+b 2 d 1 c 1 b 1 c 1 d 1 b 2
+b 2 d 1 c 3 d 1 b 2
+d 1 b 1 b 5 b 1 d 1
+d 2 b 5 d 2 e 1
+b 5
+b 2 b 2
+e 1 b 2 b 2
+b 2 b 2 e 1
+d 1 b 2 b 2 d 1
+d 3 d 3
+
+columns
+e 1 d 2
+b 3 d 1 e 1
+b 3 d 2
+b 2 d 3 b 7 d 1
+b 1 d 2 b 1 c 3 b 7 d 1
+b 1 d 2 b 3 c 1 b 3
+b 1 d 2 b 1 c 3 b 7 d 1
+b 2 d 3 b 7 d 1
+b 3 d 2
+e 1 b 3 d 1
+d 2 e 1
+e 2
+e 4
+e 4 e 1
+e 2

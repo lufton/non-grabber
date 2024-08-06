@@ -1,0 +1,70 @@
+by "anthony smith (something)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by anthony smith"
+date "Apr 21, 2011"
+description "the titanic sinking"
+difficulty 2.0
+height 24
+id 13524
+link "https://webpbn.com/play.cgi?id=13524"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "abandon ship! we have hit an iceburg!!!!!"
+width 24
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 24
+blue 24
+blue 24
+0
+0
+black 1 red 1
+black 2 red 2
+black 5 red 1
+black 6 red 1
+black 7 red 1
+black 9 red 1
+black 10 red 2
+black 10 red 3
+black 10 red 4
+black 10 red 4
+black 10 red 5
+black 10 red 5
+black 10 red 5
+black 10 red 6
+black 10 red 6
+black 2 blue 1 black 5 blue 2 red 4 blue 1 red 1
+blue 1 blue 1 black 3 blue 1 blue 1 red 3 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 3 blue 4 blue 3 blue 2
+blue 2
+
+columns
+blue 3 black 1 blue 1
+blue 3 black 2 blue 3
+blue 3 black 2 blue 1
+blue 3 black 4 blue 1
+blue 3 black 6 blue 1
+blue 3 black 7 blue 1
+blue 3 black 8 blue 1
+blue 3 black 8 blue 1
+blue 3 black 8 blue 1
+blue 3 black 9 blue 3
+blue 3 black 10 red 2 blue 1
+blue 3 black 10 red 3 blue 1
+blue 3 black 10 red 4 blue 1
+blue 3 black 10 red 4 blue 1
+blue 3 black 10 red 4 blue 1
+blue 3 black 10 red 6 blue 1
+blue 3 red 2 black 7 red 6 blue 1
+blue 3 red 1 black 6 red 6 blue 1
+blue 3 red 3 black 2 red 5 blue 1
+blue 3 red 6 blue 1
+blue 3 red 3 blue 1
+blue 3 blue 1
+blue 3 blue 1
+blue 3 blue 1

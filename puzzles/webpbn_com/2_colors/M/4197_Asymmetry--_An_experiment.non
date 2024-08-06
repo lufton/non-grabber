@@ -1,0 +1,57 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Arduinna"
+date "Dec  1, 2008"
+description "OK-- I hate patterns. I hate puzzles without unique solutions... But I keep reading that if there is a unique solution and the clues are symmetrical, you can assume the solution is symmetrical. So here's a puzzle with symmetrical clues and multiple solutions. Mostly because I wanted to see what it looked like. Sorry for the WOT! ;)"
+difficulty 2.75
+height 20
+id 4197
+link "https://webpbn.com/play.cgi?id=4197"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.0
+title "Asymmetry-- An experiment"
+width 20
+
+rows
+2,2
+2,2
+2
+4,4
+4,4
+4,4
+4,4
+4,4
+4,4
+20
+20
+4,4
+4,4
+4,4
+4,4
+4,4
+4,4
+2
+2,2
+2,2
+
+columns
+2,2
+2,2
+2
+4,4
+4,4
+4,4
+4,4
+4,4
+4,4
+20
+20
+4,4
+4,4
+4,4
+4,4
+4,4
+4,4
+2
+2,2
+2,2

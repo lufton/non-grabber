@@ -1,0 +1,58 @@
+by "Viva"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/2/04"
+height 20
+id 7091
+link "https://www.griddlers.net/nonogram/-/g/7091"
+medium_time "0:02:32"
+points 1032
+popularity 53.44
+title "Ice Cream"
+width 15
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color f ff00ff
+
+rows
+0
+0
+0
+b 3
+b 5
+b 7
+f 3 c 4 b 2
+f 5 c 5
+f 7 c 5
+f 9 c 4
+d 13
+d 1 e 11 d 1
+d 1 e 9 d 1
+d 1 e 7 d 1
+d 1 e 5 d 1
+d 1 e 3 d 1
+d 1 e 3 d 1
+d 1 e 3 d 1
+d 1 e 1 d 1
+d 5
+
+columns
+0
+f 1 d 2
+f 2 d 1 e 1 d 1
+f 3 d 1 e 2 d 1
+f 4 d 1 e 3 d 1
+b 1 f 4 d 1 e 4 d 3 d 1
+b 2 f 4 d 1 e 7 d 2
+b 3 c 1 f 3 d 1 e 8 d 1
+b 3 c 2 f 2 d 1 e 7 d 2
+b 3 c 3 f 1 d 1 e 4 d 3 d 1
+b 2 c 4 d 1 e 3 d 1
+b 2 c 3 d 1 e 2 d 1
+b 1 c 3 d 1 e 1 d 1
+c 2 d 2
+0

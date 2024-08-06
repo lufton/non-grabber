@@ -1,0 +1,61 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Jota"
+date "Jun 27, 2013"
+description "Going to the river in the woods!"
+difficulty 1.75
+height 20
+id 22278
+link "https://webpbn.com/play.cgi?id=22278"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP Illegal entry!"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 3 black 1 black 3 black 1
+black 4 black 3 black 8
+black 1 black 5 black 1 black 1 black 3
+black 2 black 1 black 2 black 5
+black 2 black 5 black 1
+black 5 black 7
+black 8 blue 5 black 2 black 1
+black 7 blue 7 black 1 black 2
+black 6 blue 8 black 5
+black 5 blue 10 black 4 blue 1
+black 2 blue 5 black 4 blue 4 black 2 blue 2
+blue 5 black 6 blue 7
+blue 6 black 1 black 1 black 2 blue 6
+blue 6 black 2 black 3 blue 4
+black 1 blue 3 black 1 black 1 black 4 blue 2
+black 5 black 3 black 3
+black 2 black 5 black 1 black 1
+black 1 black 1 black 3
+black 3 black 5
+
+columns
+black 2 black 5 blue 1
+black 4 black 6 blue 2 black 2
+black 2 black 8 blue 4 black 2
+black 1 black 7 blue 5 black 2
+black 1 black 5 blue 5 black 1 black 1
+black 2 black 3 blue 5 black 2 black 2
+black 4 black 2 blue 5 black 1 black 1
+black 2 black 2 blue 4 black 3 black 1
+black 1 black 1 blue 4 black 2 black 2
+black 2 blue 4 black 2 black 4
+black 4 blue 4 black 3 black 2
+black 1 black 3 blue 4 black 2 black 1
+black 2 black 2 blue 5 black 2
+black 4 black 3 blue 5 black 2 black 1
+black 2 black 3 blue 4 black 2 black 2
+black 1 black 1 black 2 blue 3 black 2 black 3
+black 3 black 3 blue 3 black 2 black 2
+black 5 black 3 blue 3 black 2 black 1
+black 3 black 3 blue 5 black 2
+black 1 black 2 blue 6

@@ -1,0 +1,63 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by annalivia"
+date "Sep 28, 2013"
+description "a book title."
+difficulty 1.75
+height 20
+id 22848
+link "https://webpbn.com/play.cgi?id=22848"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "but, Ma! It's me!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 1 green 1 green 1 green 1 black 1 green 1 green 1 green 1 red 2 green 1 green 1
+green 1 black 1 green 1 black 1 green 1 green 1 green 1 red 1 black 1 blue 1 red 1 green 1
+green 1 green 1 black 3 green 1 green 1 green 1 red 2 blue 1 black 1 red 2 green 1
+green 1 black 5 green 1 green 1 red 8
+green 1 black 1 blue 1 black 1 blue 1 black 1 green 1 green 1 red 1
+green 1 black 5 green 1 green 1 red 1 black 3
+green 1 black 1 red 1 black 1 green 1 green 1 red 1 black 5
+green 1 black 6 green 1 green 1 red 1 black 1 blue 1 blue 1 black 1
+black 1 green 1 black 8 black 1 red 1
+black 12 red 1 red 1 black 2
+green 1 black 8 green 1 red 1 red 1 black 2
+black 1 green 1 black 8 black 1 red 1 black 2 black 3
+black 12 red 1 black 6
+green 1 black 6 green 1 green 1 red 1 black 2 black 2
+green 1 black 6 green 1 green 1 red 1 black 5
+green 1 black 8 green 1 red 1 black 2 black 2
+black 1 green 1 black 8 black 1 red 1 black 5
+black 12 red 1 blue 1
+green 1 black 8 green 1 red 1 black 5
+green 1 black 6 green 1 green 1 red 1 black 5
+
+columns
+black 2 black 2 black 2
+green 9 black 1 green 2 black 1 green 4 black 1 green 2
+black 1 black 5 black 4
+green 1 black 1 green 1 black 3 black 13
+black 2 blue 1 black 15
+green 2 black 4 red 1 black 13
+black 2 blue 1 black 15
+green 1 black 1 green 1 black 3 black 13
+black 1 black 13
+green 8 black 5 green 2 black 4 green 1
+black 1 black 1 black 1
+green 8 black 2 green 1 black 2 green 3 black 2 green 2
+red 17
+green 2 red 2 black 2 black 6 black 2
+red 3 black 2 blue 1 black 6 black 2
+red 1 black 1 blue 1 red 1 black 2 red 2 black 1 black 1 black 1 blue 1 black 2
+red 1 blue 1 black 1 red 1 black 2 blue 1 black 6 black 2
+green 1 red 3 black 2 black 6 black 2
+red 2 black 4
+green 3 red 1 black 2

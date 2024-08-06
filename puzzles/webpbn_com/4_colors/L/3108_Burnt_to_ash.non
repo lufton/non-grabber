@@ -1,0 +1,82 @@
+by "Luke Johnson Davies (Shadowknight)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Luke Johnson Davies"
+date "Jul 20, 2008"
+description "A volcano erupts and burns everything to ash!"
+difficulty 2.25
+height 30
+id 3108
+link "https://webpbn.com/play.cgi?id=3108"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Burnt to ash!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3 black 3 black 1
+black 3 black 3 black 4 black 3 black 3 black 1
+black 3 black 3 black 3 black 2 black 4 black 2
+black 3 black 2 black 4 black 3
+black 3 black 1 red 7 black 1 black 3 black 3
+black 3 black 1 red 8 black 1 black 3
+black 2 black 2 red 9 black 1 black 4
+black 3 black 2 red 3 black 2 red 4 black 1 black 3
+black 3 black 2 red 2 black 3 red 4 black 2 black 3
+black 3 black 2 red 2 black 3 red 5 black 1 black 3
+black 2 black 1 red 3 black 3 red 5 black 1 black 2
+red 4 black 3 red 5 black 2
+black 1 red 4 black 3 red 5 black 2
+black 1 red 3 black 4 red 4 black 4
+black 2 red 3 black 4 red 4 black 4
+black 1 red 4 black 4 red 5 black 3
+black 1 red 3 black 5 red 6 black 3
+black 2 red 3 black 6 red 5 black 3
+black 1 red 4 black 6 red 5 black 4
+black 1 red 6 black 5 red 5 black 4
+black 1 red 6 black 5 red 6 black 3
+black 2 red 6 black 5 red 6 black 3
+black 3 red 5 black 6 red 6 black 5
+green 2 black 3 red 4 black 9 red 5 black 6
+green 4 black 1 red 5 black 7 red 5 black 7
+green 3 red 6 black 8 red 6 black 7
+green 3 red 5 green 3 black 7 red 5 black 4 green 1 black 1 green 1
+green 3 red 4 green 10 black 1 red 5 black 1 green 6
+green 3 red 4 green 11 red 5 green 7
+
+columns
+green 6
+green 6
+black 2 black 1 green 5
+black 4 black 2 green 1 red 4
+black 6 black 4 red 4
+black 8 black 4 red 6
+black 2 black 7 black 2 red 10
+black 4 black 4 black 4 red 9 green 2
+black 5 black 3 red 11 green 3
+black 3 black 5 red 12 black 1 red 1 black 1 green 3
+black 5 red 13 black 3 green 3
+black 2 black 1 red 11 black 3 red 3 black 5 green 2
+black 4 red 9 black 14 green 2
+black 4 red 4 black 19 green 2
+black 3 red 3 black 20 green 2
+red 3 black 20 green 2
+red 13 black 10 green 2
+black 2 red 19 black 1 red 2 black 2 green 1
+black 4 red 25
+black 3 black 2 red 23
+black 2 black 3 red 4 black 2 red 14
+black 2 black 8 red 13
+black 3 black 9 red 4 black 1 red 4
+black 4 black 2 black 15 green 1
+black 5 black 3 black 11 green 2
+black 4 black 4 black 9 green 2
+black 2 black 4 black 5 green 2
+black 5 black 4 green 3
+black 5 black 4 green 2
+black 5 black 1 green 3

@@ -1,0 +1,59 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/12/14"
+height 17
+id 143723
+link "https://www.griddlers.net/nonogram/-/g/143723"
+medium_time "0:03:16"
+points 950
+popularity 79.66
+title "Humming Top"
+width 19
+
+color a ffffff
+color d cc00cc
+color e 00cccc
+color f 0000ff
+color g 00ffff
+color h ff00ff
+
+rows
+g 3
+g 1
+f 3
+f 5
+g 9 e 2
+g 12 e 3
+g 2 f 1 g 2 f 1 g 2 f 1 g 2 f 1 g 2 f 1 e 2
+g 15 e 4
+f 19
+h 15 d 4
+h 3 f 1 h 2 f 1 h 2 f 1 h 2 f 1 h 2 f 1 d 3
+h 13 d 4
+h 11 d 4
+h 7 d 4
+e 7
+e 5
+f 1
+
+columns
+g 1 f 1 h 2
+g 2 f 1 h 3
+g 3 f 1 h 4
+g 1 f 1 g 1 f 1 h 1 f 1 h 2
+g 4 f 1 h 5
+g 4 f 1 h 5
+g 2 f 1 g 1 f 1 h 1 f 1 h 3 e 1
+f 1 g 4 f 1 h 5 e 2
+g 1 f 2 g 4 f 1 h 5 e 2
+g 2 f 2 g 2 f 1 g 1 f 1 h 1 f 1 h 3 e 2 f 1
+g 1 f 2 g 4 f 1 h 5 e 2
+f 1 g 4 f 1 h 4 d 1 e 2
+g 2 f 1 g 1 f 1 h 1 f 1 h 2 d 1 e 1
+e 1 g 3 f 1 h 3 d 2
+e 2 g 2 f 1 h 2 d 3
+e 1 f 1 e 1 f 1 d 1 f 1 d 2
+e 3 f 1 d 4
+e 2 f 1 d 3
+e 1 f 1 d 2

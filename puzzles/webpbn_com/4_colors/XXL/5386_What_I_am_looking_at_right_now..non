@@ -1,0 +1,122 @@
+by "Tyler Buglewicz (tbugs14)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Tyler Buglewicz"
+date "Mar 18, 2009"
+description "The computer. The web-pbn home page"
+difficulty 2.75
+height 50
+id 5386
+link "https://webpbn.com/play.cgi?id=5386"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What I am looking at right now."
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+black 40
+black 40
+black 2 black 2
+black 2 black 1 black 1 black 3 black 2 black 2 black 2 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 2
+black 2 black 2 black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 1 black 1 black 1 black 2
+black 2 black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 2
+black 2 black 1 black 1 black 3 black 2 black 1 black 2 black 1 black 1 black 2
+black 2 black 2
+black 2 red 16 black 2
+black 2 red 15 black 2
+black 2 red 3 blue 7 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 3 black 3 black 3 black 3 black 2
+black 2 black 34 black 2
+black 2 black 2
+black 2 black 34 black 2
+black 2 black 2
+black 2 blue 7 black 1 black 1 black 1 black 7 black 4 black 2
+black 2 black 2
+black 2 blue 5 black 1 black 1 black 5 black 4 black 2
+black 2 black 2
+black 2 blue 7 black 1 black 1 black 1 black 7 black 4 black 2
+black 2 black 2
+black 2 blue 6 black 1 black 1 black 1 black 1 black 3 black 4 black 2
+black 2 black 2
+black 2 blue 4 black 1 black 1 black 9 black 4 black 2
+black 40 black 1
+black 40 black 1
+black 10 black 1 black 2
+black 6 black 2 black 2
+black 4 black 2 black 2
+black 4 black 5 black 3
+black 6 black 7
+black 3 black 3
+black 4 black 4
+0
+0
+black 35
+black 2 black 4 black 4 black 4 black 3 black 4 black 2
+black 2 black 4 black 5 black 2
+black 2 black 5 black 2
+black 2 black 4 black 2
+black 44
+
+columns
+0
+0
+0
+0
+black 2
+black 30 black 3
+black 30 black 2 black 1
+black 2 black 2 black 2 black 1
+black 2 black 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 1
+black 2 black 3 black 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 1 black 1
+black 2 black 2 black 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 1
+black 2 black 2 black 1 black 1 blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 blue 1 blue 1 blue 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 blue 1 blue 1 black 2 black 1 black 1
+black 2 black 3 black 2 black 1 black 2 black 2 black 1
+black 2 black 1 black 1 black 2 black 2 black 1
+black 2 black 5 black 2 black 1 black 1 black 1 black 1 black 1 black 3 black 2 black 1
+black 2 black 1 black 1 black 1 red 3 black 2 black 1 black 2 black 2 black 1
+black 2 black 1 black 1 red 3 black 2 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1
+black 2 red 3 black 1 black 1 black 3 black 1 black 2 black 1
+black 2 black 5 red 2 black 2 black 1 black 1 black 1 black 1 black 3 black 2 black 2 black 1
+black 2 black 1 black 1 black 1 red 2 blue 1 black 2 black 1 black 4 black 3 black 2 black 1
+black 2 black 1 black 1 red 2 blue 1 black 2 black 1 black 1 black 8 black 2 black 1
+black 2 red 2 blue 1 black 1 black 1 black 7 black 1 black 1
+black 2 black 1 red 2 blue 1 black 1 black 1 black 7 black 1 black 1
+black 2 black 1 red 2 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 9 black 1 black 1
+black 2 red 2 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 5 black 3 black 1 black 1
+black 2 black 5 red 2 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4 black 2 black 1 black 1
+black 2 black 1 black 1 red 2 black 1 black 1 black 1 black 1 black 1 black 4 black 1 black 1 black 1
+black 2 black 1 red 2 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 3 black 1
+black 2 red 2 black 1 black 1 black 1 black 1 black 3 black 3 black 1
+black 2 black 5 red 2 black 1 black 1 black 1 black 1 black 3 black 3 black 1
+black 2 black 1 black 1 black 1 red 1 black 1 black 1 black 5 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1 black 3 black 2 black 1 black 1
+black 2 black 1 black 1 black 2 black 2 black 1 black 1
+black 2 black 5 black 1 black 1 black 2 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 2 black 1 black 3 black 1
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 2 black 4 black 1
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 2 black 6
+black 2 black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 6
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 4
+black 2 black 2 black 1 black 2 black 3
+black 30 black 1 black 2 black 1
+black 30 black 2 black 2 black 1
+black 1 black 3
+black 2 black 2
+black 2 black 1
+black 2
+black 3

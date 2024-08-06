@@ -1,0 +1,53 @@
+by "kaczka78"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/13/20"
+height 5
+id 207952
+link "https://www.griddlers.net/nonogram/-/g/207952"
+medium_time "0:00:49"
+points 179
+popularity 76.94
+title "Numbers 1-5"
+width 25
+
+color a ffffff
+color c ff9900
+color d ff0000
+color e ffff33
+color f 33ff00
+color g 00ffff
+
+rows
+d 1 c 3 e 3 f 1 g 3
+d 2 c 1 e 1 f 2 g 1
+d 1 d 1 c 3 e 3 f 4 g 3
+d 1 c 1 e 1 f 1 g 1
+d 1 c 3 e 3 f 1 g 3
+
+columns
+d 1
+d 1
+d 5
+0
+0
+c 1 c 3
+c 1 c 1 c 1
+c 3 c 1
+0
+0
+e 1 e 1 e 1
+e 1 e 1 e 1
+e 5
+0
+0
+f 1
+f 2
+f 5
+f 1
+0
+g 3 g 1
+g 1 g 1 g 1
+g 1 g 3
+0
+0

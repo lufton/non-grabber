@@ -1,0 +1,81 @@
+by "Magnus Boivie (boivie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Magnus Boivie"
+date "Oct 23, 2008"
+description "Map of the Mediterranean Sea. The borders between countries kind of reflect the time between 1945 and 1992."
+difficulty 3.5
+height 20
+id 3434
+link "https://webpbn.com/play.cgi?id=3434"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "warm"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 8 black 5 black 2 black 5
+blue 8 black 1 black 1 black 4 black 2
+blue 2 blue 3 black 1 black 1 black 2 black 1
+blue 1 black 1 black 2 black 1 blue 1 blue 2 black 1 black 2 blue 1
+blue 1 black 3 black 1 blue 7 blue 3 black 2 blue 6
+blue 1 black 1 blue 9 blue 3 black 4 blue 7
+black 2 blue 7 blue 3 blue 3 black 1 blue 7
+black 1 blue 2 blue 9 blue 3 black 3 black 1 blue 7
+black 1 blue 2 blue 4 blue 5 blue 3 black 3 blue 3
+black 1 blue 7 blue 6 blue 1 blue 2 black 1 blue 1 blue 1
+blue 2 blue 17 blue 4 black 1 blue 1
+blue 3 blue 16 blue 7 blue 2
+blue 2 blue 7 black 1 blue 3 blue 10 blue 1 blue 1
+blue 2 black 1 blue 2 black 1 blue 12 blue 1 blue 6
+black 1 black 1 blue 19 blue 1
+black 2 black 2 blue 23
+black 3 black 1 black 1 blue 3 blue 13
+black 3 black 2 blue 2 black 1 blue 10
+black 1 black 1 black 1 blue 3
+black 1 black 1
+
+columns
+blue 6 blue 4 black 2
+blue 3 black 2 black 2 blue 4 black 1
+blue 2 black 1 black 2 blue 1 black 2
+blue 2 black 3 black 1
+blue 2 blue 1 black 2
+blue 3 blue 2 black 3
+blue 3 blue 3
+blue 3 blue 3
+black 1 blue 6
+black 2 blue 8
+blue 3 blue 4
+blue 3 blue 5
+blue 8
+blue 8
+blue 8 black 4
+black 3 blue 4 blue 2 black 2
+black 1 blue 3 blue 1 blue 2 black 3
+black 1 blue 8 blue 1 black 1
+black 1 blue 11 black 1
+black 1 blue 10
+black 1 blue 4 blue 4
+black 2 blue 2 blue 3 blue 4
+black 1 blue 3 blue 2 blue 6
+black 1 blue 3 blue 7
+black 1 blue 3 blue 7
+black 1 blue 3 blue 6
+black 1 blue 9
+black 2 black 1 blue 9
+black 1 black 3 black 1 black 1 blue 6 black 3
+black 1 black 6 blue 7
+black 1 black 1 black 1 blue 1 blue 4
+black 1 black 1 black 1 blue 1 blue 1 blue 4
+black 2 black 1 black 1 blue 1 blue 1 blue 5
+black 3 blue 4 blue 2 blue 4
+black 1 blue 6 blue 5
+blue 6 blue 6
+blue 4 blue 6
+blue 4 blue 1 blue 4
+blue 4 blue 1 blue 3
+blue 4 blue 5

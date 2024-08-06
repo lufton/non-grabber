@@ -1,0 +1,63 @@
+by "Grace Zoppi (Grace Giraffe.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Grace Zoppi"
+date "Jul  3, 2010"
+description "At my house."
+difficulty 1.0
+height 20
+id 9468
+link "https://webpbn.com/play.cgi?id=9468"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Where my heart is"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 8 black 4 blue 8
+blue 7 black 6 blue 7
+blue 6 black 8 blue 6
+blue 5 black 10 blue 5
+blue 4 black 12 blue 4
+blue 4 red 12 blue 4
+blue 4 red 12 blue 4
+blue 4 red 2 blue 2 red 4 blue 2 red 2 blue 4
+blue 4 red 2 blue 2 red 4 blue 2 red 2 blue 4
+blue 4 red 4 black 4 red 4 blue 4
+blue 4 red 4 black 4 red 4 blue 4
+blue 4 red 4 black 4 red 4 blue 4
+blue 4 red 4 black 4 red 4 blue 4
+blue 4 red 4 black 4 red 4 blue 4
+blue 4 red 4 black 4 red 4 blue 4
+green 20
+green 20
+green 20
+green 20
+green 20
+
+columns
+blue 15 green 5
+blue 15 green 5
+blue 15 green 5
+blue 15 green 5
+blue 4 black 1 red 10 green 5
+blue 3 black 2 red 10 green 5
+blue 2 black 3 red 2 blue 2 red 6 green 5
+blue 1 black 4 red 2 blue 2 red 6 green 5
+black 5 red 4 black 6 green 5
+black 5 red 4 black 6 green 5
+black 5 red 4 black 6 green 5
+black 5 red 4 black 6 green 5
+blue 1 black 4 red 2 blue 2 red 6 green 5
+blue 2 black 3 red 2 blue 2 red 6 green 5
+blue 3 black 2 red 10 green 5
+blue 4 black 1 red 10 green 5
+blue 15 green 5
+blue 15 green 5
+blue 15 green 5
+blue 15 green 5

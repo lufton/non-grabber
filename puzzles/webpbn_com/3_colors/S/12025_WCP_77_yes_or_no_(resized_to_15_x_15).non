@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb  2, 2011"
+description "an engagement ring in a blue box"
+difficulty 1.25
+height 15
+id 12025
+link "https://webpbn.com/play.cgi?id=12025"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP #77 yes or no? (resized to 15 x 15)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 11
+black 2 blue 10
+black 2 blue 10 black 1
+black 2 blue 10 black 2
+black 14
+black 1 blue 12 black 1
+black 1 blue 1 black 10 blue 1 black 1
+black 1 blue 1 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 4 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 2 black 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 4 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 10 blue 1 black 1
+black 1 blue 12 black 1
+black 14
+
+columns
+black 11
+black 2 blue 9 black 1
+black 3 blue 1 black 7 blue 1 black 1
+black 2 blue 1 black 1 blue 1 black 1 black 1 blue 1 black 1
+black 2 blue 2 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 1 black 3 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 1 black 3 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 1 black 1 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 1 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 7 blue 1 black 1
+black 1 blue 3 black 1 blue 9 black 1
+black 1 blue 2 black 12
+black 1 blue 1 black 2

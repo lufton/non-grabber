@@ -1,0 +1,51 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Joe"
+date "Apr  1, 2020"
+description "Pure S-sense"
+difficulty 1.5
+height 15
+id 33822
+link "https://webpbn.com/play.cgi?id=33822"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Sense"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1 black 4
+black 2 black 5
+black 10
+black 10
+green 1 black 8
+green 2 black 5
+green 1 black 3
+black 1 green 1 black 2
+black 2 green 1 black 1
+black 4 black 1
+black 6 black 1
+black 8
+black 9
+black 4 black 4
+black 3 black 2 green 1
+
+columns
+black 1 black 8
+black 7
+black 6
+black 5
+black 3
+black 2 black 4
+black 3 green 1 black 4
+black 4 black 4
+black 3 green 1 black 2
+black 3 green 1
+black 5
+black 6 green 1
+black 7 green 1
+black 8 green 1
+black 11 green 1

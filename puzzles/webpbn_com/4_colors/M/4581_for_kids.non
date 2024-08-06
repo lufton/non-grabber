@@ -1,0 +1,62 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by sanane samanye"
+date "Dec 29, 2008"
+description "a white kitty playing on grass"
+difficulty 3.0
+height 20
+id 4581
+link "https://webpbn.com/play.cgi?id=4581"
+note "published,definitely unique,definitely requires much guessing"
+quality 2.5
+title "for kids"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2 green 5 black 6 green 5 black 2
+black 2 green 2 black 3 black 3 green 2 black 2
+black 4 black 4
+0
+0
+black 2 black 2
+black 1 black 2 black 1 black 2
+black 4 black 4
+black 2 black 2
+black 3
+black 1
+black 1
+black 2 black 1 black 2
+black 3 red 1 black 3
+black 3 black 1 red 3 black 1 black 3
+black 2 black 2 red 1 black 2 black 2
+black 1 black 2 black 3 black 2 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+black 3 black 1 black 1 black 3
+
+columns
+black 1 black 1 black 1 black 2
+black 2 black 1 black 2
+green 1 black 2 black 2 black 1 black 1
+green 2 black 1 black 2
+green 2 black 1 black 2 black 4
+green 1 black 2 black 1 black 2
+green 1 black 1 black 4 black 1
+black 2 black 2 black 2
+black 1 black 3
+black 1 black 1 black 1 red 1 black 2
+black 1 black 4 red 3 black 2
+black 1 black 1 black 1 red 1 black 2
+black 2 black 3
+green 1 black 1 black 2 black 2
+green 1 black 2 black 1 black 2 black 1
+green 2 black 1 black 4 black 4
+green 2 black 1 black 2 black 2
+green 1 black 2 black 2 black 1 black 1
+black 2 black 1 black 2
+black 1 black 1 black 1 black 2

@@ -1,0 +1,60 @@
+by "Elizabeth Staarmann (maureren)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Elizabeth Staarmann"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 27479
+link "https://webpbn.com/play.cgi?id=27479"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Carol's Guilt"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 9
+black 10
+black 2 black 2
+black 1 black 1
+black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 1
+black 1 black 1
+black 15
+black 2 black 2
+black 2 red 3 black 2
+black 1 red 1 red 3 black 1
+black 1 red 5 black 1
+black 1 red 3 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+black 6
+black 2
+black 2
+black 1
+black 12
+black 3 black 1
+black 2 black 4 black 2 black 1 red 2
+black 2 black 1 black 1 black 1 black 1 red 1 red 2
+black 2 black 2 black 4 black 1 red 4
+black 2 black 1 red 4
+black 2 black 6 black 1 red 2
+black 2 black 1 black 1 black 1
+black 2 black 6 black 1
+black 3 black 1
+black 11
+black 1
+black 2
+black 2
+black 6

@@ -1,0 +1,80 @@
+by "mopi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/13/05"
+height 30
+id 22185
+link "https://www.griddlers.net/nonogram/-/g/22185"
+medium_time "0:10:50"
+points 5222
+popularity 70.12
+title "Pirate"
+width 25
+
+color a ffffff
+color b ff0000
+color c a70000
+color d 009500
+color e ffa1ab
+color f fffe00
+color g 808080
+color h 000000
+
+rows
+h 3
+h 1 h 1 h 1
+h 6 h 6
+h 4 h 1 h 4
+h 9 e 2
+f 1 e 1 d 1 e 1 d 1 e 1 f 1 e 2
+e 5 b 4
+e 2 b 1 e 2 b 4
+e 3 c 3
+c 1 b 2 b 2 c 1 b 4
+b 1 c 1 b 2 b 2 c 1 b 4
+b 3 c 2 b 1 b 1 c 2 b 4
+b 5 c 1 b 1 c 1 b 2
+c 1 b 7 c 1 b 3
+b 2 c 1 b 2 b 7
+b 3 c 1 b 2 f 1 b 1 f 1 b 2
+g 4 e 2 b 2 b 9
+g 1 e 2 b 3 f 1 b 1 f 1 b 3
+c 2 b 9
+c 3 b 4 d 1 b 4
+d 9
+d 4 d 4
+d 3 d 3
+h 3 c 2
+h 3 c 2
+h 3 c 2
+h 3 c 2
+h 4 c 1
+h 5 c 1
+0
+
+columns
+0
+g 1
+g 1
+g 1
+g 2
+b 2 e 2 c 2
+c 1 b 2 e 2 c 2
+b 1 c 1 b 2 c 1
+h 1 b 4 c 1 b 1
+h 2 b 5 h 1
+h 3 c 2 b 3 b 4 d 2 h 2
+h 3 f 1 b 2 c 1 b 8 d 3 h 6
+h 4 e 3 b 2 c 1 b 8 d 3 h 6
+h 1 h 1 h 1 d 1 e 3 b 1 c 1 b 2 f 1 b 1 f 1 b 2 d 3 h 6
+h 2 h 2 e 2 b 1 e 1 b 1 c 1 b 5 d 2
+h 1 h 1 h 1 d 1 e 3 b 1 c 1 b 2 f 1 b 1 f 1 b 2 d 3
+h 4 e 3 b 2 c 1 b 8 d 3 c 4
+h 3 f 1 b 2 c 1 b 8 d 3 c 6
+h 3 c 2 b 1 b 4 d 2
+h 2 b 3
+h 1 e 2 b 2 c 1 b 3
+e 2 b 2 c 1 b 3
+b 2 c 1 b 2
+b 2
+0

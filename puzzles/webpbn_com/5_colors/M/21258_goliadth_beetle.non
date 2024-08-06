@@ -1,0 +1,68 @@
+by "neil harris (drhorrible)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by neil harris"
+date "Mar  4, 2013"
+description "he is praying to the sky"
+difficulty 1.75
+height 20
+id 21258
+link "https://webpbn.com/play.cgi?id=21258"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "goliadth beetle"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 blue 5 blue 1 blue 4
+blue 3 blue 6 blue 3 blue 1 blue 2 blue 1 blue 2
+blue 22 blue 2
+blue 1 blue 6 blue 2 blue 1 blue 2
+blue 2 blue 16
+blue 9 black 1 black 1
+blue 3 black 1 black 1
+black 3
+black 5
+black 5
+black 3 red 5 black 3
+green 5 red 1 black 1 red 1 black 1 red 1 green 5
+green 2 black 3 red 2 black 1 red 1 black 4 green 2
+green 5 black 1 red 4 green 5
+green 2 black 3 red 1 black 1 red 1 black 1 red 1 black 3 green 2
+green 25
+green 25
+green 25
+green 25
+green 25
+
+columns
+blue 4 blue 2 green 5
+blue 3 blue 2 green 5
+blue 4 blue 2 green 5
+blue 1 blue 4 green 5
+blue 5 green 5
+blue 3 blue 1 green 9
+blue 4 blue 1 green 9
+blue 4 blue 1 black 1 green 1 black 1 green 1 black 1 green 5
+blue 3 blue 1 black 1 green 1 black 1 green 1 black 1 green 5
+blue 3 blue 1 black 1 green 1 black 1 green 1 black 1 green 5
+blue 1 blue 1 blue 1 black 1 black 2 red 3 black 1 red 1 green 5
+blue 2 blue 1 black 4 red 1 black 1 red 2 black 1 green 5
+blue 2 blue 1 black 3 red 2 black 1 red 2 green 5
+blue 2 blue 1 black 4 red 1 black 1 red 2 black 1 green 5
+blue 1 blue 1 black 1 black 2 red 2 black 1 red 2 green 5
+blue 2 blue 1 black 1 green 1 black 1 green 1 black 1 green 5
+blue 1 blue 1 black 1 green 1 black 1 green 1 black 1 green 5
+blue 2 blue 1 black 1 green 1 black 1 green 1 black 1 green 5
+blue 4 green 9
+blue 1 blue 3 green 9
+blue 2 blue 1 green 5
+blue 1 blue 3 green 5
+blue 1 blue 1 green 5
+blue 5 green 5
+blue 5 green 5

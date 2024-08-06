@@ -1,0 +1,48 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kai-Uwe Zickerick"
+date "Feb  4, 2011"
+description "oh, sorry! I meant Eye"
+difficulty 1.5
+height 12
+id 12064
+link "https://webpbn.com/play.cgi?id=12064"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #77 I"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 2 black 2
+black 2 black 1 black 3 black 2
+black 2 black 10
+black 1 black 8 black 2
+black 5 blue 2 black 4 black 2
+black 2 black 2 blue 4 black 3 black 1
+black 1 black 2 blue 4 black 3 black 2
+black 2 black 3 blue 2 black 3 black 2
+black 2 black 6 black 2
+black 10
+black 7
+
+columns
+black 1 black 3
+black 1 black 4 black 2
+black 3 black 1 black 2
+black 7 black 1
+black 2 black 9
+black 5 blue 2 black 4
+black 2 blue 4 black 3
+black 5 blue 4 black 3
+black 4 blue 2 black 4
+black 11
+black 2 black 6 black 2
+black 2 black 3 black 2
+black 4 black 2
+black 2 black 2 black 2
+black 3

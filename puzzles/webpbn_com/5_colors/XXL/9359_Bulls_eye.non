@@ -1,0 +1,123 @@
+by "Beano (bewildering20)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Beano"
+date "May  8, 2011"
+description "Did I trick you into thinking it would be a bull's eye? It's really a "Bullseye" on the target!"
+difficulty 2.25
+height 50
+id 9359
+link "https://webpbn.com/play.cgi?id=9359"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Bull's eye!"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 1 black 1 black 1 black 1 black 4 black 3 black 1 black 1 black 3 black 1
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 2 black 1 black 1
+black 4 black 2 black 1 black 1 black 1 black 1 black 4 black 3 black 3 black 3 black 1
+black 6 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 8 black 2 black 3 black 2 black 2 black 4 black 3 black 1 black 3 black 1
+black 9
+black 10
+black 10
+black 10
+black 9
+black 10
+black 10
+black 10
+black 9 blue 4 black 1 blue 12
+black 9 green 3 black 2 green 11 blue 1
+black 9 red 1 black 3 red 10 green 1 blue 1
+black 12 blue 9 red 1 green 1 blue 1
+blue 1 black 10 green 8 blue 1 red 1 green 1 blue 1
+blue 1 black 10 red 7 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 black 9 blue 6 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 black 8 green 5 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 black 9 red 4 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 black 10 blue 3 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+black 11 green 2 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 3 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 5 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 7 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 9 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 11 red 1 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 1 red 13 green 1 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 1 green 15 blue 1 red 1 green 1 blue 1
+blue 1 green 1 red 1 blue 17 red 1 green 1 blue 1
+blue 1 green 1 red 19 green 1 blue 1
+blue 1 green 21 blue 1
+blue 23
+0
+0
+0
+0
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+0
+0
+black 14
+black 12
+black 4 red 2 black 4
+black 3 red 2 black 3
+
+columns
+0
+0
+0
+0
+black 2
+black 4
+black 6
+black 9
+black 11
+black 12
+black 13
+black 13
+black 13
+black 11 blue 6 black 1 blue 12
+black 12 green 3 black 2 green 11 blue 1
+black 5 black 12 red 1 black 3 red 10 green 1 blue 1 black 1
+black 1 black 1 black 1 black 14 blue 9 red 1 green 1 blue 1 black 2
+black 1 black 1 black 13 green 8 blue 1 red 1 green 1 blue 1 black 3
+black 12 red 7 green 1 blue 1 red 1 green 1 blue 1 black 4 black 4
+black 5 blue 1 green 1 black 9 blue 6 red 1 green 1 blue 1 red 1 green 1 blue 1 black 4
+black 1 blue 1 green 1 red 1 black 8 green 5 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 4
+black 5 blue 1 green 1 black 9 red 4 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 2 red 2
+blue 1 black 10 blue 3 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 2 red 2
+black 5 black 11 green 2 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 4
+black 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 4
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 3 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 4
+black 5 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 5 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 4 black 3
+black 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 1 red 7 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 2
+blue 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 9 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 1
+black 3 black 1 blue 1 green 1 red 1 blue 1 green 1 red 1 blue 11 red 1 green 1 blue 1 red 1 green 1 blue 1
+black 1 black 1 black 1 blue 1 green 1 red 1 blue 1 green 1 red 13 green 1 blue 1 red 1 green 1 blue 1
+black 1 black 1 black 1 blue 1 green 1 red 1 blue 1 green 15 blue 1 red 1 green 1 blue 1
+black 1 black 3 blue 1 green 1 red 1 blue 17 red 1 green 1 blue 1
+blue 1 green 1 red 19 green 1 blue 1
+black 5 blue 1 green 21 blue 1
+black 1 black 1 black 1 blue 23
+black 1 black 1 black 1
+0
+black 2
+black 2
+black 3
+black 2
+black 2
+0
+black 5
+black 1 black 1 black 1
+black 1 black 1 black 1
+0
+black 3 black 1
+0

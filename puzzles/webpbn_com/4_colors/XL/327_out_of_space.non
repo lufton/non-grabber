@@ -1,0 +1,84 @@
+by "Martial (marso)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Martial"
+date "Dec 11, 2005"
+description "Who wants a ride?"
+difficulty 2.5
+height 32
+id 327
+link "https://webpbn.com/play.cgi?id=327"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "out of space"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 6
+black 8
+black 10
+black 1 black 4 black 4 black 1
+black 1 black 1 black 4 black 4 black 1 black 1
+black 1 black 1 black 3 blue 2 black 3 black 1 black 1
+black 1 black 5 blue 4 black 5 black 1
+black 1 black 4 blue 1 blue 1 black 4 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 4 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 3 black 1 black 1 black 3
+black 2 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 2
+black 2 black 1 black 2 black 1 black 2
+black 11 black 1 black 11
+black 2 black 1 black 1 black 2 black 1 black 1 black 2
+black 14 black 14
+black 1 black 1 black 1 red 2 black 2 red 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 5 black 8 black 5
+
+columns
+black 4
+black 5
+black 2 black 1 black 1
+black 17 black 1 black 2 black 1
+black 1 black 2 black 1 black 1 black 3
+black 1 black 2 black 3 black 1
+black 1 black 2 black 1 black 1 black 3
+black 13 black 1 black 2 black 1
+black 11 black 1 black 1
+black 11 black 1 black 1
+black 25
+black 6 black 2 black 1
+black 5 black 1 red 1 black 3
+black 4 blue 2 black 1 red 1 black 1
+black 4 blue 2 black 1 black 1 black 1 black 2
+black 4 blue 2 black 8 black 1
+black 4 blue 2 black 1 red 1 black 1
+black 5 black 1 red 1 black 3
+black 6 black 2 black 1
+black 25
+black 11 black 1 black 1
+black 11 black 1 black 1
+black 13 black 1 black 2 black 1
+black 1 black 2 black 1 black 1 black 3
+black 1 black 2 black 3 black 1
+black 1 black 2 black 1 black 1 black 3
+black 17 black 1 black 2 black 1
+black 2 black 1 black 1
+black 5
+black 3

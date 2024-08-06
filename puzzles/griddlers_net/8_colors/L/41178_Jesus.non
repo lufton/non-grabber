@@ -1,0 +1,77 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/3/07"
+height 27
+id 41178
+link "https://www.griddlers.net/nonogram/-/g/41178"
+medium_time "0:07:34"
+points 4540
+popularity 63.64
+title "Jesus"
+width 25
+
+color a 003399
+color b 999900
+color c ffcccc
+color d ffffff
+color e f1f141
+color f 0099ff
+color g 000000
+color h cc3300
+
+rows
+d 1
+d 1
+d 1
+d 3
+d 3 e 1 d 3
+d 3
+d 1
+b 1 d 1 b 1
+b 1 d 1 b 1
+b 2 d 1 b 2
+b 2 d 1 b 2
+e 3 b 2 d 1 b 2 e 3
+e 5 e 5
+e 2 g 2 e 1 f 3 e 2
+e 1 g 2 c 1 c 1 f 2 e 1
+e 1 g 1 c 3 c 3 f 1 e 1
+b 2 g 2 c 1 g 1 c 1 f 2 b 2
+b 2 h 3 f 3 b 2
+b 2 h 5 c 1 e 1 c 1 f 5 b 2
+b 5 h 5 b 1 e 3 b 1 f 5 b 5
+b 2 h 3 e 1 c 1 e 1 f 3 b 2
+b 2 h 3 d 1 c 1 d 1 f 3 b 2
+b 2 h 4 b 2 d 3 b 2 f 3 b 2
+b 2 h 6 b 2 d 1 b 2 f 4 b 2
+b 2 h 6 b 3 f 6 b 2
+b 2 h 6 b 9 f 6 b 2
+b 2 h 6 b 9 f 6 b 2
+
+columns
+b 8
+b 9
+b 3 h 4
+b 2 b 1 h 4
+e 4 b 1 b 1 h 5
+e 3 g 3 h 10
+e 2 g 2 c 1 g 1 h 10
+e 2 g 1 c 3 h 10
+b 1 e 2 c 1 g 1 h 2 b 2
+d 1 b 2 h 2 b 1 b 2
+d 1 b 2 c 1 b 1 b 2 b 2
+d 3 b 3 e 2 d 2 b 4
+d 4 e 1 d 7 e 2 c 2 d 2 b 3
+d 3 b 3 e 2 d 2 b 4
+d 1 b 2 c 1 b 1 b 2 b 2
+d 1 b 2 f 2 b 1 b 2
+b 1 e 1 f 1 c 1 f 2 b 2
+e 2 f 1 c 3 f 10
+e 2 f 2 c 1 f 11
+e 3 f 13
+e 4 b 1 b 1 f 4
+b 2 b 1 f 3
+b 3 f 3
+b 9
+b 8

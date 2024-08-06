@@ -1,0 +1,82 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan  3, 2012"
+description "Blew the putt on 18 and my partner and I lost the match (and $$s). Poor putter..."
+difficulty 1.5
+height 20
+id 17003
+link "https://webpbn.com/play.cgi?id=17003"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Missed it by that much"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 12 red 2 green 16 red 1 green 1
+green 12 red 2 green 16 red 1 green 5
+green 12 red 2 green 16 red 1 green 1 green 1
+green 12 red 2 green 16 black 1 green 1 green 1
+green 12 red 2 green 7 green 7 black 1 green 5
+green 12 red 2 green 6 green 6 black 1 green 1 green 1
+green 10 red 2 green 3 green 5 black 1 green 1 green 1
+green 9 red 2 green 2 green 5 black 1 green 1 green 1
+green 8 black 1 red 2 black 1 green 2 green 6 black 1 green 5
+green 7 black 2 red 2 black 2 green 2 green 7 black 1 green 1
+green 6 black 3 red 2 black 3 green 10 black 1
+green 5 black 4 red 2 black 4 green 9 black 1
+green 5 black 5 red 2 black 5 green 9 black 1
+green 5 black 5 red 2 black 5 green 9 black 1
+green 5 black 12 green 9 black 1 black 2
+green 5 black 10 green 10 black 1 black 2
+green 6 black 8 green 10 black 1 black 2
+green 6 black 6 green 11 black 8
+green 7 green 11
+green 8 green 12
+
+columns
+green 20
+green 20
+green 20
+green 20
+green 20
+green 11 green 4
+green 10 green 2
+green 9 black 3 green 1
+green 8 black 5
+green 7 black 7
+green 6 black 9
+green 6 black 10
+red 14 black 4
+red 14 black 4
+green 6 black 10
+green 6 black 9
+green 7 black 7
+green 8 black 5
+green 9 black 3 green 1
+green 6 green 2 green 3
+green 5 green 2 green 5
+green 4 green 10
+green 4 green 10
+green 5 green 11
+green 6 green 12
+green 20
+green 20
+green 20
+green 20
+green 20
+0
+red 3 black 14
+black 1
+black 1
+green 4 green 1 black 1
+green 1 green 1 green 1 black 1
+green 10 black 1
+green 1 green 1 green 1 black 1
+green 1 green 5 black 4
+black 4

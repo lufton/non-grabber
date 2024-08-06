@@ -1,0 +1,42 @@
+by "gemini"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/15/07"
+height 10
+id 44680
+link "https://www.griddlers.net/nonogram/-/g/44680"
+medium_time "0:01:03"
+points 90
+popularity 41.24
+title "Happy Boy"
+width 10
+
+color a ffffff
+color b 000000
+color c ffcccc
+color d ff0000
+color e 0033ff
+
+rows
+c 4
+c 6
+c 2 b 1 c 2 b 1 c 2
+c 8
+c 2 b 1 c 2 b 1 c 2
+c 2 b 2 c 2
+c 4
+e 6
+e 3 d 2 e 3
+e 4 d 2 e 4
+
+columns
+e 1
+c 3 e 2
+c 5 e 3
+c 2 b 1 c 1 b 1 c 2 e 3
+c 5 b 1 c 1 e 1 d 2
+c 5 b 1 c 1 e 1 d 2
+c 2 b 1 c 1 b 1 c 2 e 3
+c 5 e 3
+c 3 e 2
+e 1

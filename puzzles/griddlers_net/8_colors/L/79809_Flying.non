@@ -1,0 +1,79 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/24/09"
+height 25
+id 79809
+link "https://www.griddlers.net/nonogram/-/g/79809"
+medium_time "0:19:02"
+points 29387
+popularity 81.31
+title "Flying"
+width 29
+
+color a ffffff
+color b de7b08
+color c ffbd18
+color d ffd642
+color e 99734c
+color f 773d04
+color g f77331
+color h e7b56b
+
+rows
+b 3
+b 2 c 3 b 2
+b 1 d 4 c 3 b 1
+b 1 d 2 b 1 d 3 b 1 c 2 b 1
+b 1 d 1 b 1 b 1 d 1 b 1 b 1 c 1 b 1
+b 1 d 1 b 1 e 2 b 1 d 1 b 1 e 2 b 1 c 1 b 1
+b 1 d 2 b 1 e 1 f 1 b 1 d 1 b 1 f 1 e 1 b 1 c 2 b 1
+b 2 b 1 d 3 b 1 e 1 b 3 e 1 b 1 d 1 c 2 b 1 b 2
+b 1 d 2 b 1 b 1 d 4 b 1 g 3 b 1 d 2 c 2 b 1 b 1 d 2 b 1
+b 1 d 3 b 1 b 1 d 4 b 1 g 1 b 1 d 2 c 2 b 1 b 1 d 2 c 1 b 1
+b 1 c 1 d 3 b 2 b 2 d 3 b 1 d 1 c 2 b 2 b 2 d 2 c 2 b 1
+b 1 c 3 d 2 b 2 c 2 b 2 d 1 c 2 b 2 c 2 b 2 d 2 c 3 b 1
+b 1 c 1 b 2 c 3 d 2 c 1 b 1 c 2 b 3 c 2 b 1 c 1 d 2 c 3 b 2 c 1 b 1
+b 1 d 1 c 2 b 2 d 2 c 2 b 1 d 2 c 5 b 1 c 2 d 2 b 2 c 2 d 1 b 1
+b 1 d 2 c 5 b 1 d 6 c 3 b 1 c 5 d 2 b 1
+b 3 c 4 b 1 d 7 c 2 b 1 c 4 b 3
+b 1 c 4 b 2 d 8 c 3 b 2 c 4 b 1
+b 4 b 1 d 8 c 3 b 1 b 4
+b 1 d 8 c 3 b 1
+b 1 b 1 b 1 d 6 c 3 b 1 b 1 b 1
+b 1 h 1 b 1 h 1 b 2 h 1 b 2 d 1 c 4 b 2 h 1 b 2 h 1 b 1 h 1 b 1
+b 1 h 1 b 1 h 1 b 1 h 1 b 1 b 5 b 1 h 1 b 1 h 1 b 1 h 1 b 1
+b 1 h 3 b 2 b 2 h 3 b 1
+b 1 h 2 b 1 b 1 h 2 b 1
+b 2 b 2
+
+columns
+b 3 b 2
+b 1 d 2 c 1 b 1 c 1 d 1 b 1
+b 1 d 3 c 1 b 1 c 1 d 1 b 2
+b 1 d 2 c 1 b 1 c 1 d 1 b 1 c 1 b 1 b 3
+b 1 d 1 c 2 b 1 c 1 b 1 c 1 b 1 b 1 h 3 b 1
+b 1 d 1 c 1 b 1 c 3 b 1 b 2 h 2 b 1
+b 1 d 1 c 1 d 1 c 3 b 1 b 1 h 4 b 1
+b 3 b 1 d 2 c 2 b 1 b 4
+b 1 d 3 b 1 b 1 d 1 c 3 b 3 b 1 h 1 b 1
+b 2 d 5 b 1 c 3 b 2 d 3 b 1 h 1 b 1
+b 1 d 2 b 2 d 3 b 1 c 1 b 2 d 6 b 1
+b 1 d 2 b 1 e 2 b 1 d 3 b 1 c 1 d 7 b 1
+b 1 d 1 b 1 e 1 f 1 e 1 b 1 d 2 b 1 c 1 d 8 b 1
+b 1 c 1 d 2 b 4 g 1 b 1 d 2 b 1 c 1 d 6 c 1 b 1
+b 1 c 1 d 5 b 1 g 2 b 1 c 1 b 1 c 1 d 6 c 1 b 1
+b 1 c 2 d 1 b 4 g 1 b 1 d 1 c 1 b 1 c 1 d 6 c 1 b 1
+b 1 c 1 b 1 e 1 f 1 e 1 b 1 d 1 c 1 b 1 c 3 d 4 c 2 b 1
+b 1 c 2 b 1 e 2 b 1 d 2 c 1 b 1 c 8 b 1
+b 1 c 2 b 2 d 2 c 1 b 1 c 1 b 2 c 6 b 1
+b 2 c 5 b 1 c 3 b 2 c 3 b 1 h 1 b 1
+b 1 c 3 b 1 b 1 d 1 c 3 b 3 b 1 h 1 b 1
+b 3 b 1 d 2 c 2 b 1 b 4
+b 1 d 1 c 1 d 1 c 3 b 1 b 1 h 4 b 1
+b 1 d 1 c 1 b 1 c 3 b 1 b 2 h 2 b 1
+b 1 d 1 c 2 b 1 c 1 b 1 c 1 b 1 b 1 h 3 b 1
+b 1 d 2 c 1 b 1 c 1 d 1 b 1 c 1 b 1 b 3
+b 1 d 2 c 2 b 1 c 1 d 1 b 2
+b 1 d 1 c 2 b 1 c 1 d 1 b 1
+b 3 b 2

@@ -1,0 +1,86 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Arduinna"
+date "Nov 21, 2008"
+description "Ok, you can't really tell from the picture, but I was "Little Red Riding Hood--- the Werewolf Hunter." You can see the combat boots and the ammo belt over my shoulder. I also had a rifle and a hunting knife, but I couldn't get them into the picture. Or maybe I was "a werewolf hunter who just happens to be diguised as Little Red Riding Hood?" Either way. My husband was, of course, a werewolf."
+difficulty 1.75
+height 40
+id 4099
+link "https://webpbn.com/play.cgi?id=4099"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "My Halloween Costume this Year"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 3
+red 5
+red 6
+red 7
+red 4 black 2 red 1
+red 3 black 3 red 1
+red 3 black 2 red 1
+red 2 red 2
+red 7
+red 5 black 4
+red 5 black 2 black 2
+red 5 black 3 black 2
+red 5 black 3 black 1 black 2
+red 5 black 3 black 2 black 1
+red 4 black 3 black 2 black 2
+red 5 black 4 black 1 black 2
+red 5 black 6 black 3 red 1
+red 5 black 8 red 2
+red 6 red 7 black 2 red 3
+red 5 red 12
+red 5 red 9 red 4
+red 6 red 11 red 4
+red 5 red 11 red 5
+red 5 red 13 red 4
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 13
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 7
+black 7
+black 7
+black 7
+black 9
+black 9
+
+columns
+red 1
+red 3
+red 4
+red 6
+red 7
+red 8
+red 9
+red 9 red 1 black 2
+red 9 red 3 black 1
+red 8 red 4 black 2
+red 6 black 3 red 6 black 1 black 2
+red 5 red 5 black 4 red 6 black 14
+red 10 black 5 red 6 black 1 black 6
+red 10 black 6 red 6 black 2 black 6
+red 5 black 2 red 1 black 3 black 2 red 6 black 13
+red 4 black 3 red 1 black 4 black 2 red 6 black 2 black 6
+red 3 black 2 red 2 black 3 black 2 black 1 red 6 black 1 black 6
+red 5 black 1 black 3 black 3 red 5 black 14
+black 2 black 1 black 1 black 1 red 1 red 3 black 1 black 2
+black 2 black 2 red 4 red 1 black 2
+black 2 black 2 red 7
+black 3 red 6
+red 4
+red 3
+red 2

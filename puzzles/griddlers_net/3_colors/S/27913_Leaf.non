@@ -1,0 +1,44 @@
+by "julia-grace"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/14/05"
+height 15
+id 27913
+link "https://www.griddlers.net/nonogram/-/g/27913"
+medium_time "0:01:45"
+points 538
+popularity 55.08
+title "Leaf"
+width 9
+
+color a ffffff
+color c 00ff00
+color d 33cc00
+
+rows
+d 1
+c 1 d 1 c 1
+d 1 c 1 d 1 c 1 d 1
+c 2 d 3 c 2
+c 1 d 1 c 2 d 1 c 2 d 1 c 1
+c 2 d 1 c 1 d 1 c 1 d 1 c 2
+d 1 c 2 d 3 c 2 d 1
+c 1 d 1 c 2 d 1 c 2 d 1 c 1
+c 2 d 1 c 1 d 1 c 1 d 1 c 2
+c 2 d 3 c 2
+c 2 d 1 c 2
+c 1 d 1 c 1
+d 1
+d 1
+d 1
+
+columns
+c 2 d 1 c 2
+c 1 d 1 c 2 d 1 c 2
+d 1 c 2 d 1 c 2 d 1 c 2
+c 2 d 1 c 2 d 1 c 2 d 1 c 2
+d 15
+c 2 d 1 c 2 d 1 c 2 d 1 c 2
+d 1 c 2 d 1 c 2 d 1 c 2
+c 1 d 1 c 2 d 1 c 2
+c 2 d 1 c 2

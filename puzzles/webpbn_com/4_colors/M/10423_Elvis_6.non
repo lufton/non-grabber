@@ -1,0 +1,72 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Sep 21, 2010"
+description "Kentucky Rain"
+difficulty 1.75
+height 20
+id 10423
+link "https://webpbn.com/play.cgi?id=10423"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Elvis #6"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 30
+black 30
+black 29
+black 8 black 9 black 1
+blue 1 black 2 black 6
+blue 1 blue 2 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 red 4 blue 1
+blue 1 blue 1 red 3 blue 1 red 3 blue 1
+blue 1 red 5 blue 1 red 5 blue 1
+blue 1 blue 1 red 5 blue 1 red 5
+blue 1 blue 1 red 6 blue 1 red 5
+red 1 blue 1 blue 1 blue 1 red 15
+red 3 blue 1 red 6 blue 1 red 9 blue 1
+red 7 blue 1 red 7 blue 1 red 9 blue 1
+red 16 blue 1 red 9 blue 1
+red 15 blue 1 red 7
+red 20
+
+columns
+black 2 blue 2 blue 2
+black 3 red 1
+black 3 red 4
+black 4 red 5
+black 4 blue 4 red 6
+black 4 red 4
+black 4 blue 3 red 4
+black 4 red 4
+black 5 blue 5 blue 1 red 4
+black 5 blue 2 red 3
+black 4 red 4
+black 3 blue 1 blue 3 red 5
+black 3 blue 4 red 6
+black 3 red 6
+black 4 red 7
+black 4 red 9
+black 5 red 9
+black 5 blue 3 red 6 blue 4 red 1
+black 5 red 11
+black 5 red 11
+black 5 blue 3 red 1 blue 4 red 6
+black 5 red 10
+black 4 red 10
+black 3 red 9
+black 3 blue 4 red 8
+black 3 red 7
+black 3 red 4
+black 3 blue 4 blue 3
+black 3
+black 4

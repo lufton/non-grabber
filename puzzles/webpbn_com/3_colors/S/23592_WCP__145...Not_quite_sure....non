@@ -1,0 +1,51 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Jan 15, 2014"
+description "...Because there's a big red dog with his face in the hole in the fence"
+difficulty 1.5
+height 15
+id 23592
+link "https://webpbn.com/play.cgi?id=23592"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP # 145...Not quite sure..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1 black 3 black 3 black 3 black 1
+black 1 black 1 black 1 black 1
+black 1 black 6 black 1
+black 1 black 2 red 1 red 1 black 2 black 1
+black 3 red 6 black 2 black 1
+black 2 red 2 black 1 red 2 black 1 red 2 black 1 black 1
+black 2 red 8 black 1 black 1
+black 2 red 3 black 2 red 3 black 1 black 1
+black 2 red 8 black 1 black 1
+black 2 red 1 red 1 black 2 red 1 red 1 black 1 black 1
+black 3 red 4 black 2 black 1
+black 1 black 2 red 4 black 2 black 1
+black 1 black 6 black 1
+black 1 black 1 black 1 black 1
+
+columns
+black 1
+black 13
+black 1 black 7
+black 1 black 2 red 5 black 2
+black 1 black 2 red 5 black 3
+black 2 red 2 black 1 red 6 black 1
+black 1 black 1 red 3 black 1 red 1 black 1 red 2 black 1
+black 1 black 1 red 3 black 1 red 1 black 1 red 2 black 1
+black 1 black 1 red 2 black 1 red 6 black 1
+black 3 red 5 black 3
+black 1 black 2 red 5 black 2
+black 1 black 7
+black 1
+black 13
+black 1

@@ -1,0 +1,62 @@
+by "tomer liron (tomerik15)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by tomer liron"
+date "Aug 16, 2013"
+description "i'm planet earth"
+difficulty 1.25
+height 20
+id 22611
+link "https://webpbn.com/play.cgi?id=22611"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "you are standing on me"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 black 11 black 2
+black 2 black 2 green 3 blue 1 green 1 black 4
+black 3 green 5 blue 1 blue 1 green 3 black 1 black 1
+black 2 green 7 blue 4 green 4 black 2
+black 1 green 8 blue 4 green 5
+black 1 green 9 blue 4 green 5 black 1
+black 1 green 9 blue 4 green 6
+green 10 blue 4 green 6
+green 10 blue 5 green 5
+green 2 blue 1 green 8 blue 4 green 5
+green 1 blue 3 green 4 blue 7 green 5
+blue 15 green 5
+blue 3 green 3 blue 10 green 4
+blue 3 green 7 blue 6 green 4
+black 1 blue 3 green 6 blue 8 green 2
+black 1 blue 3 green 6 blue 9
+black 3 blue 3 green 5 blue 9
+black 1 black 1 blue 11 green 4 black 1
+black 5 blue 6 green 7 black 1
+black 2 black 2 blue 4 green 7 black 1 black 1
+
+columns
+black 1 black 1 black 2 green 4 blue 3 black 1 black 3
+black 5 green 5 blue 5 black 2 black 2
+black 1 black 1 green 5 blue 7 black 4
+black 3 green 7 blue 2 green 2 blue 3 black 1
+black 1 green 9 blue 1 green 3 blue 3 black 2
+black 1 green 10 blue 1 green 4 blue 3 black 1
+black 1 green 10 blue 2 green 4 blue 3
+black 1 green 10 blue 2 green 4 blue 3
+black 1 green 8 blue 3 green 4 blue 3
+black 1 blue 1 green 7 blue 3 green 4 blue 3
+black 1 blue 6 green 1 blue 5 green 2 blue 2 green 1
+black 1 blue 15 green 2
+black 1 blue 15 green 2
+black 1 blue 16 green 2
+black 1 blue 1 green 6 blue 10 green 2
+black 1 green 11 blue 5 green 3
+black 1 green 12 blue 3 green 3
+black 3 green 11 blue 3 green 2 black 1
+black 2 black 1 green 11 blue 2 green 1 black 1
+black 3 black 1 green 9 blue 2 black 1 black 1

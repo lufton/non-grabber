@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "May 12, 2018"
+description "The Baskin Robbins ice cream logo has a hidden 31 for the 31 flavors at there stores. I like their pralines and cream"
+difficulty 1.25
+height 15
+id 31189
+link "https://webpbn.com/play.cgi?id=31189"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A sweet surprise is hidden within this logo"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 3 black 4 black 2 blue 5
+blue 3 black 5 black 2 blue 6
+blue 3 black 3 black 2 blue 2
+blue 3 black 2 black 2 blue 2
+blue 2 black 3 black 2 blue 3
+blue 2 black 4 black 2 blue 5
+blue 2 black 4 black 2 blue 2
+blue 2 black 3 black 2 blue 2
+blue 2 black 3 black 2 blue 3
+blue 2 black 2 black 2 blue 3
+blue 1 black 3 black 2 blue 3
+blue 1 black 5 black 2 blue 2
+blue 1 black 4 black 2
+0
+
+columns
+blue 4
+blue 10
+blue 13
+black 2 black 1 black 2
+black 2 black 2 black 2
+black 2 black 3 black 2
+black 3 black 5 black 3
+black 5 black 5
+black 3 black 3
+0
+0
+black 13
+black 13
+blue 2 blue 2
+blue 2 blue 4
+blue 2 blue 1 blue 3
+blue 2 blue 2 blue 3
+blue 6 blue 3
+blue 4 blue 2
+0

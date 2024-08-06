@@ -1,0 +1,31 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.0
+height 5
+id 1933
+link "https://webpbn.com/play.cgi?id=1933"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Ball"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 blue 1 black 1
+black 1 blue 1 black 1 blue 1 black 1
+blue 1 black 1 blue 1 black 1 blue 1
+black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 1
+
+columns
+black 1 blue 1 black 1
+black 1 blue 1 black 1 blue 1 black 1
+blue 1 black 1 blue 1 black 1 blue 1
+black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 1 black 1

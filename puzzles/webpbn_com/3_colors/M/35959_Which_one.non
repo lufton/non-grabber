@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Oct  9, 2022"
+description "The witch won."
+difficulty 1.5
+height 20
+id 35959
+link "https://webpbn.com/play.cgi?id=35959"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Which one?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1
+black 1
+black 3
+black 1 black 3
+black 2 black 5
+black 2 black 5
+black 6 black 11
+black 2 green 2
+black 3 green 1 black 1 green 1
+black 6 green 4
+black 3 green 4
+black 4 black 2 green 3
+green 2
+black 4
+black 6
+black 9
+black 4 black 5 black 3
+black 20
+black 5 black 7 black 2
+black 7
+
+columns
+black 2 black 1 black 1 black 2
+black 3 black 1 black 3
+black 2 black 1 black 3
+black 1 black 1 black 3
+black 1 black 3
+black 1 black 1
+black 3
+black 1 black 3
+black 1 black 3 black 5
+black 1 black 3 black 5
+black 1 black 3 black 6
+black 6 green 1 black 7
+black 8 green 3 black 7
+black 7 green 6 black 3 black 1
+black 5 green 1 black 1 green 3 black 3 black 1
+black 3 green 2 black 4
+black 1 green 1 black 4
+black 1 black 3
+black 1 black 1
+black 1

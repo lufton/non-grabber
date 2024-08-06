@@ -1,0 +1,36 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jun 10, 2010"
+description "and kinda sleazy"
+difficulty 1.25
+height 9
+id 9145
+link "https://webpbn.com/play.cgi?id=9145"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "this one's easy.."
+width 6
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 3
+black 1
+black 3 blue 3
+black 1 black 1 blue 1 blue 1
+black 3 blue 3
+blue 1
+blue 3
+0
+
+columns
+black 5
+black 1 black 1 black 1
+black 1 black 3
+blue 3 blue 1
+blue 1 blue 1 blue 1
+blue 5

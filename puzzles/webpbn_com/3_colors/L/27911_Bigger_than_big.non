@@ -1,0 +1,81 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "Gigantor the Space Age Robot"
+difficulty 1.5
+height 30
+id 27911
+link "https://webpbn.com/play.cgi?id=27911"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Bigger than big"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4
+black 4
+black 4
+black 5
+black 5
+black 4 black 3
+black 4 black 3
+black 4 black 2 black 3
+black 4 black 4 black 3
+black 5 black 5 black 2
+black 4 black 3 black 6
+black 4 black 1 black 8
+black 3 black 10
+black 3 black 5 black 4
+black 14
+black 7 black 6
+black 14
+black 4 black 9
+black 2 black 9 black 2
+black 14
+black 10 black 4
+black 15
+black 6 black 7
+black 14
+black 8 black 4
+black 9 black 3 blue 1
+black 6 black 3 blue 2
+black 4 blue 1 black 2 blue 1
+blue 5 black 6
+blue 10 black 3 blue 1
+
+columns
+black 5
+black 6
+black 7
+black 8
+black 5
+black 4
+black 4
+black 1 black 5
+black 6 black 7
+black 3 black 6 black 3
+black 5 black 15
+black 5 black 2 black 6 black 6
+black 6 black 15
+black 7 black 5 black 9
+black 6 black 3 black 12
+black 20
+black 15 black 3 blue 1
+black 16 blue 1
+black 7 black 6 blue 1
+black 3 black 8 blue 2
+black 10 blue 2
+black 6 black 2 blue 2
+black 8 blue 2
+black 4 black 2 blue 2
+black 3 black 2 blue 1
+black 5 blue 1
+black 2 blue 1 black 2
+black 4
+blue 1 black 3
+blue 3 black 1 blue 1

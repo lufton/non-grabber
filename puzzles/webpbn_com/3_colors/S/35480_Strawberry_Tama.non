@@ -1,0 +1,44 @@
+by "Devon McCarthy (The Dev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Devon McCarthy"
+date "Dec 13, 2021"
+description "Ichigotchi from Tamagotchi"
+difficulty 2.25
+height 12
+id 35480
+link "https://webpbn.com/play.cgi?id=35480"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.25
+title "Strawberry Tama"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 1 red 1 red 1 black 1
+black 1 red 5 black 1
+black 1 red 2 red 2 black 1
+black 6 red 1 black 1
+black 1 black 1 red 2 black 1
+black 1 black 1 black 1 red 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 1 red 1 black 1
+black 1 black 1 red 1 black 2
+black 7
+black 3 black 3
+
+columns
+black 3
+black 2 black 1 black 1
+black 3 black 1 black 2
+black 1 red 1 black 1 black 1 black 2
+black 1 red 3 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1
+black 1 red 2 black 1 black 1
+black 1 red 3 black 1 black 3
+black 1 red 1 red 1 black 3 red 1 black 2
+black 2 red 2 red 1 black 1 black 1
+black 5

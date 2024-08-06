@@ -1,0 +1,32 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.0
+height 5
+id 1932
+link "https://webpbn.com/play.cgi?id=1932"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Fish"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 1 blue 1 blue 1
+red 2 red 1
+red 1 black 1 red 3
+red 2 red 1
+
+columns
+blue 1 red 1
+blue 1 red 1 black 1 red 1
+blue 1 red 3
+blue 1 red 1
+blue 1 red 3

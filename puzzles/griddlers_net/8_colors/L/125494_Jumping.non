@@ -1,0 +1,83 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/22/12"
+height 32
+id 125494
+link "https://www.griddlers.net/nonogram/-/g/125494"
+medium_time "0:18:27"
+points 18672
+popularity 79.35
+title "Jumping"
+width 26
+
+color a ffffff
+color b 000000
+color c ff9608
+color d ffff63
+color e ffbe6b
+color f f7718c
+color g e77929
+color h ff2021
+
+rows
+b 9
+b 2 c 9 b 2
+b 1 c 9 b 1 c 3 b 1
+b 1 d 1 c 1 b 1 c 1 d 1 c 1 b 1 c 4 b 1 c 3 b 1
+b 1 d 2 c 1 b 1 c 1 d 1 c 1 b 1 c 3 d 1 c 1 b 1 c 3 b 1
+b 1 d 1 c 2 b 2 d 2 c 1 b 1 c 2 d 2 c 1 b 1 c 2 b 1
+b 1 d 2 c 1 b 1 e 1 b 1 c 1 d 2 c 1 b 2 c 1 d 2 b 1 c 1 d 1 c 1 b 1
+b 1 d 1 c 1 b 1 e 1 b 3 c 1 d 1 c 1 b 3 c 1 d 1 c 1 b 1 d 1 c 1 b 1
+b 1 c 2 b 3 e 2 b 1 c 2 b 1 e 2 b 1 c 2 b 1 c 1 d 1 b 1
+b 1 c 2 b 1 e 1 b 3 e 1 b 4 e 2 b 1 c 1 b 1 c 1 d 1 b 1
+b 1 c 2 b 2 e 1 b 1 e 3 b 1 e 1 b 1 e 1 b 2 c 2 b 1
+b 5 e 1 b 2 e 3 b 2 e 1 b 1 e 1 b 5
+b 2 e 1 b 1 c 1 b 1 e 2 b 2 e 3 b 2 e 3 b 1 c 1 b 1 e 1 b 2
+b 1 e 4 b 2 e 1 f 2 e 2 b 1 e 2 f 2 e 2 b 2 e 4 b 1
+b 2 e 3 b 1 g 1 e 3 b 1 b 1 e 4 g 1 b 1 e 3 b 2
+b 1 e 3 b 1 e 3 b 1 b 1 e 3 g 1 b 1 e 3 b 2
+b 2 e 3 b 2 e 2 b 1 e 2 g 1 b 2 e 3 b 1 c 1 b 1
+b 1 c 1 b 1 e 2 b 1 h 1 b 6 h 1 b 1 e 2 b 1 c 2 b 1
+b 1 c 1 b 1 e 1 b 1 h 1 f 1 h 1 b 1 e 2 b 1 h 1 f 1 h 1 b 1 e 1 b 1 c 1 b 1
+b 1 c 1 b 2 h 1 f 2 h 1 b 2 h 1 f 2 h 1 b 2 c 2 b 1
+b 1 c 1 b 1 h 1 f 10 h 1 b 1 c 1 b 1
+b 3 h 10 b 3
+b 2 h 2 b 2 h 2 b 2
+b 2 h 1 f 2 h 4 f 2 h 1 b 2
+b 1 f 4 h 1 f 4 h 1 f 3 h 1 b 1
+b 1 f 15 h 1 b 1
+b 1 h 1 f 12 h 1 b 1
+b 1 h 4 f 4 h 4 b 1
+b 4 h 4 b 4
+b 1 e 2 b 4 e 2 b 1
+b 1 e 1 b 1 b 1 e 1 b 1
+b 2 b 2
+
+columns
+b 1
+b 1 e 1 b 1
+b 1 e 1 b 1
+b 6 e 3 b 4
+b 2 d 2 c 3 b 2 e 3 b 1 c 2 b 2 b 1
+b 1 d 3 c 4 b 1 c 1 b 1 e 3 b 2 c 2 b 1 b 1 f 1 b 1
+b 1 d 2 c 2 b 8 e 4 b 3 b 1 f 2 h 1 b 1
+b 1 c 4 b 1 e 1 b 1 e 1 b 2 e 2 g 1 b 1 e 2 b 2 h 1 b 1 b 1 f 3 h 1 b 1
+b 1 c 1 b 3 e 1 b 3 e 3 f 1 e 2 b 2 h 2 f 1 h 1 b 1 h 1 f 3 h 1 b 2
+b 1 c 4 b 3 e 1 b 4 f 1 e 2 b 1 h 1 f 3 h 1 b 1 f 4 h 1 b 1 e 1 b 1
+b 1 c 2 d 3 c 1 b 1 e 1 b 1 b 2 e 4 b 1 h 1 f 2 h 2 f 1 h 1 f 2 h 1 b 1 e 2 b 1
+b 1 c 4 d 2 c 1 b 1 e 5 b 2 e 1 b 2 h 1 f 1 h 3 f 4 h 1 b 3
+b 1 c 2 b 2 c 1 d 2 c 1 b 1 e 3 b 1 b 2 e 1 b 1 f 1 h 1 b 1 h 1 f 4 h 1 b 1
+b 1 c 4 b 1 c 3 b 1 e 4 b 2 e 1 b 1 e 1 b 1 f 1 h 1 b 1 h 1 f 4 h 1 b 1
+b 1 c 5 b 7 e 4 b 2 h 1 f 1 h 3 f 4 h 1 b 3
+b 1 c 5 b 2 e 1 b 1 b 2 f 1 e 2 g 1 b 1 h 1 f 2 h 2 f 1 h 1 f 2 h 1 b 1 e 2 b 1
+b 1 c 1 b 1 c 1 d 2 c 1 b 1 e 5 f 1 e 2 b 1 h 1 f 3 h 1 b 1 f 4 h 1 b 1 e 1 b 1
+b 1 c 2 b 1 c 1 d 2 c 1 b 1 e 1 b 2 e 3 g 1 b 2 h 2 f 1 h 1 b 1 h 1 f 3 h 1 b 2
+b 1 c 2 b 1 c 1 d 2 c 1 b 1 e 4 g 1 b 1 e 2 b 2 h 1 b 1 b 1 f 3 h 1 b 1
+b 1 c 3 b 2 c 3 b 5 e 4 b 3 b 1 h 1 f 1 h 1 b 1
+b 1 c 4 b 5 c 1 b 1 e 3 b 2 c 2 b 1 b 1 h 1 b 1
+b 1 c 2 d 2 c 3 b 2 e 3 b 1 c 3 b 1 b 1
+b 2 c 2 d 2 c 1 b 1 e 3 b 1 c 2 b 2
+b 7 e 1 b 4
+b 1 e 1 b 1
+b 1

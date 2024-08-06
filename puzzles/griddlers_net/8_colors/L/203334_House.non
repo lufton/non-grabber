@@ -1,0 +1,85 @@
+by "emergency112"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/13/19"
+height 30
+id 203334
+link "https://www.griddlers.net/nonogram/-/g/203334"
+medium_time "0:19:01"
+points 11408
+popularity 88.48
+title "House"
+width 30
+
+color a ffffff
+color b 990000
+color c ff9933
+color d cc6600
+color e 993300
+color f 336600
+color g 00cccc
+color h 339900
+
+rows
+b 3 g 3
+g 3 b 3 g 5
+g 6 b 3 g 7
+g 9 b 5 g 4
+g 8 b 7
+g 2 g 2 b 3 c 3 b 3
+b 3 c 5 b 3
+b 3 c 7 b 3
+b 3 c 2 e 1 g 3 e 1 c 2 b 3
+b 3 c 3 e 1 g 3 e 1 c 3 b 3
+b 3 c 4 e 1 g 3 e 1 c 4 b 3
+b 3 c 5 e 1 g 3 e 1 c 5 b 3
+b 3 c 4 d 9 c 4 b 3
+f 5 c 17
+f 3 b 1 f 3 c 6 d 5 c 6
+f 5 b 1 f 1 c 1 e 1 g 2 e 1 c 1 d 5 c 1 e 1 g 2 e 1 c 1
+f 1 b 1 f 5 c 1 e 1 g 2 e 1 c 1 d 5 c 1 e 1 g 2 e 1 c 1
+f 7 c 1 e 1 g 2 e 1 c 1 d 1 e 1 d 3 c 1 e 1 g 2 e 1 c 1
+f 2 c 1 f 2 c 1 f 3 c 2 d 5 c 1 f 4 c 1
+c 1 f 5 c 1 d 5 f 6
+e 1 c 1 e 1 f 7 d 5 f 7
+e 5 h 4 f 2 e 8 f 2 h 5
+h 1 f 1 e 1 f 1 e 1 f 1 e 1 f 1 h 2 f 2 e 8 f 2 h 7
+h 1 f 3 e 1 f 3 h 3 f 2 e 8 f 2 h 7
+h 2 f 5 h 5 f 2 e 8 f 2 h 6
+h 11 f 2 e 8 f 2 h 6
+h 9 f 2 e 8 f 2 h 6
+h 7 f 2 e 8 f 2 h 4
+h 9
+h 7
+
+columns
+h 4
+f 4 f 2 h 3
+g 1 f 3 b 1 f 2 e 3 f 2 h 3
+g 2 f 6 e 1 f 3 h 4
+g 3 f 1 b 1 f 3 c 3 e 3 f 1 h 5
+g 4 f 6 e 1 f 3 h 5
+g 5 b 1 f 2 b 1 f 3 e 3 f 2 h 5
+g 4 b 2 f 4 h 1 f 2 h 6
+g 5 b 3 f 1 h 9
+g 4 b 3 c 7 f 2 h 6 f 1 h 2
+g 2 b 3 c 4 e 3 f 3 h 1 f 1 h 3 f 2 h 2
+b 3 c 5 g 3 f 6 h 1 f 2 e 1 h 1
+b 3 c 6 g 3 f 4 e 1 f 3 e 2
+b 3 c 4 d 1 c 2 e 3 c 1 f 2 e 3 f 1 e 3
+b 3 c 5 d 1 c 7 f 1 e 7
+b 3 c 2 e 4 d 1 c 1 d 7 e 7
+b 3 c 3 g 4 d 1 c 1 d 3 e 1 d 3 e 7
+b 4 c 3 g 4 d 1 c 1 d 7 e 7
+b 5 c 3 g 4 d 1 c 1 d 7 e 7
+b 2 b 3 c 2 e 4 d 1 c 1 d 7 e 6 f 1
+b 1 b 3 c 5 d 1 c 6 f 2 e 1 f 1 e 3 f 2
+b 3 c 4 d 1 c 2 e 3 f 6 e 1 f 2 h 1
+g 1 b 3 c 6 g 3 f 4 h 1 f 3 h 2
+g 2 b 3 c 5 g 3 f 3 h 3 f 1 h 3
+g 4 b 3 c 4 e 3 f 3 h 7
+g 4 b 3 c 7 f 2 h 6
+g 4 b 3 f 1 h 6
+g 3 b 2 h 6
+g 1 b 1 h 4
+h 2

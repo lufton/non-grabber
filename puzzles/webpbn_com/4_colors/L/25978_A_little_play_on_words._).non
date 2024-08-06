@@ -1,0 +1,77 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Norma Dee"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 25978
+link "https://webpbn.com/play.cgi?id=25978"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A little play on words. :)"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 black 1 blue 5
+blue 2 blue 2 black 1 blue 2 blue 2
+blue 2 blue 2 black 1 blue 2 blue 2
+blue 6 black 1 blue 6
+blue 3 blue 3 black 1 blue 3 blue 3
+blue 3 blue 3 black 1 blue 3 blue 3
+blue 8 black 1 blue 7
+blue 4 blue 4 black 1 blue 4 blue 4
+blue 2 red 4 blue 3 black 1 blue 4 blue 4
+blue 1 red 1 red 1 blue 2 black 1 blue 9
+blue 1 red 6 blue 2 black 1 blue 9
+blue 1 red 6 blue 2 black 1 blue 4 blue 4
+blue 1 red 6 blue 2 black 1 blue 4 blue 4
+blue 1 black 1 blue 4 black 1 blue 2 black 1 blue 9
+blue 4 blue 4 black 1 blue 4 blue 4
+black 1
+red 1 red 1 red 1 red 1 black 1 red 1 red 1 red 3 red 1 red 1 red 1 red 1
+red 2 red 1 red 1 red 1 black 1 red 2 red 1 red 1 red 1 red 2 red 1 red 1 red 1
+red 1 red 1 red 1 red 3 black 1 red 1 red 2 red 1 red 1 red 1 red 1 red 1 red 3
+red 1 red 1 red 1 red 1 red 1 black 1 red 1 red 1 red 3 red 1 red 1 red 1 red 1 red 1
+
+columns
+0
+0
+0
+blue 9 red 4
+blue 5 red 4 black 1 blue 1 red 1
+blue 8 red 1 red 3 blue 2 red 1 red 2
+blue 8 red 1 red 3 blue 2
+blue 1 blue 1 blue 1 red 1 red 3 blue 1 red 4
+blue 8 red 1 red 3 blue 2
+blue 9 red 4 black 1 blue 1 red 3
+blue 12 red 1 red 1
+blue 8 red 3
+0
+0
+black 20
+0
+red 4
+red 1
+red 1
+red 4
+blue 8
+blue 11 red 4
+blue 15 red 1 red 1
+blue 15 red 4
+blue 1 blue 1 blue 1 blue 2 blue 1
+blue 15 red 4
+blue 15 red 1
+blue 12 red 1 red 2
+blue 8
+red 4
+0
+red 3
+red 1 red 1
+red 3
+0

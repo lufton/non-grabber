@@ -1,0 +1,43 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "May 28, 2011"
+description "How well she swims, today we'll see."
+difficulty 1.25
+height 10
+id 14226
+link "https://webpbn.com/play.cgi?id=14226"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Deidra duck will chance the sea."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 2
+black 3 red 1
+black 4
+0
+blue 10
+blue 6 green 2 blue 2
+blue 3 green 4 blue 1
+blue 1 red 1 blue 2 green 1 black 1 green 1 blue 1 green 1
+blue 2 green 1 blue 1 black 1 blue 1 green 1 blue 1
+blue 5 black 1 blue 3
+
+columns
+black 1 blue 2 blue 1
+black 1 blue 2 blue 1
+black 2 blue 3 red 1 blue 2
+black 2 blue 6
+black 1 blue 4 green 1 blue 1
+blue 2 green 2 blue 2
+blue 1 green 2 black 3
+blue 1 green 3 blue 2
+red 1 blue 2 green 1 blue 1 green 1 blue 1
+red 2 blue 3 green 1 blue 2

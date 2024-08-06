@@ -1,0 +1,71 @@
+by "Aurelian Ginkgo (AurelianGinkgo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Aurelian Ginkgo"
+date "Aug  1, 2021"
+description "How do you read this correctly?"
+difficulty 1.75
+height 20
+id 35283
+link "https://webpbn.com/play.cgi?id=35283"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Not a number - AG's input"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 5 green 1 green 1
+green 1 green 1 green 1
+green 3 green 2 green 2
+green 1 green 1 green 1 green 1
+green 5 green 5 green 1
+green 2
+0
+green 5 green 1 green 1 green 3 green 5 green 1 green 5
+green 1 green 1 green 1 green 1 green 1 green 1 green 2 green 1
+green 1 green 4 green 5 green 1 green 5
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 5
+0
+0
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1 black 1
+black 1 black 4 black 4 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 3 black 1 black 1 black 1
+
+columns
+green 5 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 5
+green 1 green 1 green 1
+green 1 green 1 green 1
+0
+green 3 green 5
+green 3 green 1
+green 1 green 1
+green 2 green 5
+green 1
+green 3 green 3
+green 3 green 1 green 3
+green 2 green 1 green 1
+green 3 black 1 black 1
+green 3 black 6
+black 1
+green 1
+green 1 black 3
+green 5 black 1
+green 1 black 1
+green 1 black 6
+green 1
+green 2 black 3
+black 1
+green 3 green 1 black 1
+green 1 green 1 green 1 black 6
+green 1 green 1 green 1
+green 1 green 1 green 1 black 4 black 1
+green 1 green 3

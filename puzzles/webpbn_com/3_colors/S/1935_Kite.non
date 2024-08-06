@@ -1,0 +1,51 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.0
+height 15
+id 1935
+link "https://webpbn.com/play.cgi?id=1935"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Kite"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+red 1 black 1 red 1
+red 2 black 1 red 2
+red 3 black 1 red 3
+red 4 black 1 red 4
+red 5 black 1 red 5
+red 6 black 1 red 6
+black 15
+red 6 black 1 red 6
+red 5 black 1 red 5
+red 4 black 1 red 4
+red 3 black 1 red 3
+red 2 black 1 red 2
+red 1 black 1 red 1
+black 1
+
+columns
+black 1
+red 1 black 1 red 1
+red 2 black 1 red 2
+red 3 black 1 red 3
+red 4 black 1 red 4
+red 5 black 1 red 5
+red 6 black 1 red 6
+black 15
+red 6 black 1 red 6
+red 5 black 1 red 5
+red 4 black 1 red 4
+red 3 black 1 red 3
+red 2 black 1 red 2
+red 1 black 1 red 1
+black 1

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Feb 12, 2017"
+description "I wonder if Bugs Bunny was a good spokes rabbit for the carrot industry?"
+difficulty 2.0
+height 20
+id 29419
+link "https://webpbn.com/play.cgi?id=29419"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "What's up Doc?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 black 2
+red 3
+red 5
+red 5
+red 5
+red 5 black 3
+red 1 black 2 red 2 black 1 black 2
+black 3 red 2 black 2 black 2
+black 2 red 5 black 1 black 1
+red 4 black 3
+red 6
+red 6
+red 5
+red 3 green 3
+green 1 green 2
+green 2 green 3
+green 2 green 2
+green 1 green 1
+
+columns
+black 2
+black 1
+black 1
+black 2 red 2
+red 3
+black 2 red 4
+black 1 red 5 black 2
+black 1 red 4 black 3
+black 2 red 3 black 2 red 1
+red 7
+red 7
+black 3 red 5
+black 1 black 1 red 6
+black 2 black 2 red 4
+black 2 black 1 red 4 green 3
+black 3 red 2 green 4
+green 1
+green 3
+green 3
+green 3

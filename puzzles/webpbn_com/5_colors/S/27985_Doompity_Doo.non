@@ -1,0 +1,45 @@
+by "besmirched tea (besmirched tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by besmirched tea"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 15
+id 27985
+link "https://webpbn.com/play.cgi?id=27985"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Doompity Doo"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 green 3 blue 2
+blue 1 green 5 blue 1
+blue 1 green 1 red 3 green 1 blue 1
+green 2 red 3 green 2
+blue 1 red 1 black 1 red 1 black 1 red 1 blue 1
+blue 2 red 3 blue 2
+blue 3 red 1 blue 3
+blue 1 red 1 red 1 red 1 blue 1
+blue 1 red 1 red 1 red 1 blue 1
+blue 1 red 1 red 1 blue 1
+red 2 red 2
+blue 2 blue 2
+blue 2 blue 1 blue 2
+blue 2 blue 1 blue 2
+blue 1 black 2 blue 1 black 2 blue 1
+
+columns
+blue 3 green 1 blue 6 red 1 blue 4
+blue 1 green 3 red 1 blue 2 red 4 blue 3 black 1
+green 2 red 2 black 1 red 1 blue 1 black 1
+green 2 red 7 blue 3
+green 2 red 2 black 1 red 1 blue 1 black 1
+blue 1 green 3 red 1 blue 2 red 4 blue 3 black 1
+blue 3 green 1 blue 6 red 1 blue 4

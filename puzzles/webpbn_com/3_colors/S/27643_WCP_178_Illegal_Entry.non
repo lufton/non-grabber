@@ -1,0 +1,46 @@
+by "Jota (Jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jota"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 15
+id 27643
+link "https://webpbn.com/play.cgi?id=27643"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP #178 Illegal Entry"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 4
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+red 1 black 2 black 3 red 1
+red 1 black 6 red 2
+red 1 black 5 red 3
+black 5 red 3
+black 3 red 3
+0
+
+columns
+0
+red 3 black 1
+black 5
+black 5
+black 4
+black 3 red 1
+red 1 black 10 red 2
+red 1 black 9 red 3
+red 1 black 8 red 3
+red 1 black 7 red 3

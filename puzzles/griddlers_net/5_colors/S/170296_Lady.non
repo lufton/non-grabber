@@ -1,0 +1,52 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/19/16"
+height 15
+id 170296
+link "https://www.griddlers.net/nonogram/-/g/170296"
+medium_time "0:04:21"
+points 595
+popularity 73.33
+title "Lady"
+width 15
+
+color a ffffff
+color b f7d2c0
+color c 843300
+color d ec8d46
+color e cb582c
+
+rows
+e 3
+e 5 e 3
+e 10
+e 2 b 1 c 3 e 4
+e 1 b 3 c 2 d 3
+b 1 c 1 b 2 c 2 d 3
+b 4 c 2 d 1 d 2
+b 2 d 1 c 1 d 2 d 1
+b 1 d 1 d 1 d 1
+b 2 d 1
+b 4 d 1
+d 1 e 1 b 4 d 2 e 1 d 1
+d 2 e 2 b 3 e 2 d 3
+d 2 e 5 c 1 d 5
+d 3 e 4 c 2 d 5
+
+columns
+d 1
+d 3
+e 3 d 4
+e 5 e 4
+e 3 b 4 b 1 e 3
+e 3 c 1 b 1 c 1 b 2 b 3 e 2
+e 2 c 1 b 9 e 2
+e 1 c 2 b 2 d 2 b 4 e 1 c 1
+e 3 c 4 d 1 b 1 d 1 e 1 c 2
+e 3 d 1 c 2 d 2 e 1 d 2
+e 3 d 4 e 1 d 3
+e 2 d 2 d 2 d 4
+d 2 d 3
+d 2 d 2
+d 1

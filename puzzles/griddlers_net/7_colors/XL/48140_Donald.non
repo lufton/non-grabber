@@ -1,0 +1,96 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/11/07"
+height 45
+id 48140
+link "https://www.griddlers.net/nonogram/-/g/48140"
+medium_time "0:18:36"
+points 6034
+popularity 82.55
+title "Donald"
+width 27
+
+color a 9999ff
+color b 000000
+color c ffcc00
+color d ff3300
+color e 330099
+color f ffffff
+color g ccffff
+
+rows
+e 3
+e 6
+e 7
+e 8
+e 10
+e 13
+e 14
+e 1 b 4 e 9
+f 1 b 8 e 6
+f 2 f 3 b 7 e 5
+f 10 b 4 e 4 b 1
+f 14 b 1 b 3
+f 6 g 2 f 8 b 2
+f 7 g 4 f 7 b 2
+f 7 g 5 f 5 b 3
+f 1 g 1 f 5 g 6 f 5 b 2
+f 1 g 1 f 5 g 6 f 5 b 2
+g 3 f 4 g 7 f 2 c 2
+g 3 f 4 g 5 b 2 f 1 c 3
+g 3 f 4 g 4 b 3 f 1 c 3
+g 1 b 1 f 4 g 4 b 3 f 1 c 3
+g 1 b 2 f 4 g 4 b 2 c 4
+g 1 b 2 c 3 f 1 g 4 b 1 c 4
+c 8 g 3 c 5
+c 14
+c 14
+c 14
+c 16
+c 16 f 1
+c 15 f 2
+f 5
+f 5 e 2
+e 1 f 4 e 3
+e 2 f 4 e 2
+d 2 e 2 f 4 e 4
+d 3 e 1 f 4 e 6
+d 3 f 2 d 3 e 7
+d 9 c 8
+d 9 c 10
+d 9 c 1 c 3
+d 10
+d 5 d 4
+d 3 d 4
+d 4
+d 2
+
+columns
+c 2
+c 3
+c 3 d 3
+f 4 g 3 c 3 d 5
+f 1 f 2 g 8 c 1 c 4 d 6
+f 6 g 3 b 3 c 1 c 5 d 8
+f 11 b 2 c 7 d 8
+f 14 c 8 d 6
+e 5 f 13 c 8 e 2 f 1 d 7
+e 6 f 12 c 8 e 2 f 2 d 8
+e 8 f 4 g 8 f 2 c 7 e 2 f 2 d 9
+e 7 b 2 f 3 g 11 c 7 f 6 d 8
+e 7 b 2 f 3 g 12 c 6 f 6 d 2 c 2
+e 6 b 3 f 3 g 11 c 6 f 5 e 2 c 2
+e 5 b 3 f 4 g 5 b 2 g 3 c 6 f 4 e 3 c 2
+e 5 b 2 f 5 g 3 b 5 c 6 f 3 e 5 c 2
+e 4 b 3 f 6 g 1 b 4 c 6 f 2 e 6 c 2
+e 4 b 3 f 10 c 6 e 2 e 3 c 2
+e 3 b 4 f 6 c 8 e 2 c 2
+e 4 b 2 f 5 c 8 e 1 c 3
+e 6 f 2 f 2 c 5 c 3
+e 5 c 2
+e 5
+e 4 b 1
+e 2 b 5
+b 6
+b 3

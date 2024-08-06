@@ -1,0 +1,102 @@
+by "Jane Doe (telly)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jane Doe"
+date "Jun  8, 2008"
+description "Hickory Dickory Dock. The thing on the side of the clock is a mouse. The blue is the shadow."
+difficulty 2.0
+height 50
+id 2908
+link "https://webpbn.com/play.cgi?id=2908"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "nursery rhyme #1"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 18
+black 6 black 1 black 7
+black 5 black 6
+black 4 black 1 black 5
+black 3 black 1 black 4
+black 3 black 1 black 1 black 4
+black 3 black 2 black 4
+black 5 black 2 black 6
+black 3 black 1 black 4
+black 3 black 4
+black 3 black 5
+black 4 black 5
+black 5 black 6
+black 6 black 1 black 7
+black 7 black 1 black 8
+black 4 red 9 black 5
+black 2 red 1 black 7 red 1 black 3
+black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 2 red 1 black 1 black 1 blue 2 black 1 red 1 black 3
+black 1 black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 2 black 2 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 7 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 7 red 1 black 1 black 1 blue 1 black 1 red 1 black 3
+black 5 red 1 black 3 blue 2 black 1 red 1 black 3
+black 5 red 1 black 4 blue 1 black 1 red 1 black 3
+black 5 red 1 black 4 blue 1 black 1 red 1 black 3
+black 2 black 2 red 1 black 3 blue 2 black 1 red 1 black 3
+black 1 black 2 red 1 black 3 blue 1 black 1 red 1 black 3
+black 2 black 2 red 1 black 1 black 1 red 1 black 3 blue 3
+black 1 black 2 red 1 black 1 black 1 red 1 black 3 blue 5
+black 2 red 1 black 1 black 1 red 1 black 3 blue 5
+black 2 red 1 black 1 black 1 red 1 black 3 blue 5
+black 2 red 1 black 1 black 1 red 1 black 3 blue 6
+black 2 red 1 black 1 black 1 red 1 black 3 blue 9
+black 2 red 1 black 1 black 1 red 1 black 3 blue 10
+black 2 red 1 black 7 red 1 black 3 blue 11
+black 2 red 9 black 3 blue 11
+black 14 blue 11
+black 18 blue 9
+black 18 blue 7
+black 18 blue 5
+black 18 blue 3
+black 18 blue 2
+black 18
+0
+
+columns
+black 2 black 2
+black 2 black 3
+black 14 black 7
+black 16 black 7 black 6
+black 16 black 5 black 6
+black 4 black 1 black 38
+black 3 black 1 black 37
+black 2 black 2 red 27 black 7
+black 1 black 1 red 1 black 25 red 1 black 7
+black 1 red 1 black 1 black 5 black 1 red 1 black 7
+black 1 red 1 black 1 black 10 black 1 red 1 black 7
+black 2 black 6 black 2 red 1 black 7 blue 6 black 2 blue 2 black 1 red 1 black 7
+black 1 black 2 red 1 black 1 blue 7 blue 4 black 1 red 1 black 7
+black 1 black 1 red 1 black 1 black 1 red 1 black 7
+black 1 black 1 red 1 black 25 red 1 black 7
+black 2 black 2 red 27 black 7
+black 3 black 1 black 37
+black 4 black 1 black 39
+black 49
+black 16 blue 3 black 6
+black 16 blue 4 black 6
+black 14 blue 10
+blue 10
+blue 9
+blue 9
+blue 12
+blue 11
+blue 12
+blue 11
+blue 11

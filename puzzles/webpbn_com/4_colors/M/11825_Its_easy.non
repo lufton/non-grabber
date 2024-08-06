@@ -1,0 +1,62 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Jan 19, 2011"
+description "as A B C."
+difficulty 1.75
+height 20
+id 11825
+link "https://webpbn.com/play.cgi?id=11825"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "It's easy"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+blue 7
+black 3 blue 8
+black 5 blue 2 blue 2
+black 3 black 3
+green 10 black 3
+green 11 black 2
+green 2 black 3 blue 2 green 2 black 2
+green 2 black 8 green 2 black 1
+green 2 black 2 blue 2 green 2 black 2
+green 2 black 2 blue 2 green 2 black 4
+black 1 green 11 black 3
+green 11
+green 2 blue 1 green 2 blue 2
+green 2 blue 1 green 2 blue 5
+green 2 green 2 blue 5
+green 2 green 2
+green 13
+green 12
+
+columns
+green 2 black 1 green 2
+green 14
+green 14
+green 2 black 4 green 2 green 2
+green 2 black 4 green 2 green 2
+black 1 green 2 black 2 green 2 green 2
+black 2 green 2 black 1 green 2 green 2
+black 3 green 2 black 1 green 2 green 2
+black 2 green 2 blue 1 black 1 blue 2 green 2 green 2
+black 3 green 2 blue 1 black 1 blue 2 green 2 green 2
+black 3 green 2 black 1 green 2 blue 1 green 2
+blue 2 black 3 green 7 blue 1 green 2
+blue 3 black 3 green 3 green 5
+blue 2 black 4 green 3
+blue 2 black 3 blue 2
+blue 2 black 2 blue 2
+blue 2 black 2 blue 2
+blue 3 blue 3
+blue 3 blue 3
+0

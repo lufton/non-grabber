@@ -1,0 +1,33 @@
+by "Colin Chase (colin.chase)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Colin Chase"
+date "Apr 12, 2017"
+description "Tulips are grey?"
+difficulty 1.25
+height 8
+id 29678
+link "https://webpbn.com/play.cgi?id=29678"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Pretty flower in spring"
+width 8
+
+rows
+1,1,1,1
+2,1,2
+1,1
+1,1
+3
+3
+3
+3
+
+columns
+3
+1,1
+1,4
+1,4
+1,4
+1,1
+3
+0

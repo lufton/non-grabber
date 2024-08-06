@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Nov  2, 2018"
+description "The tomato hornworm. It is the same color as the leaf and stem it is eating."
+difficulty 2.0
+height 20
+id 31735
+link "https://webpbn.com/play.cgi?id=31735"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Summer pest"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+red 3 green 3
+red 2 green 3 green 6
+green 10 green 4 red 1 green 4
+green 3 red 1 green 1 red 1 green 13 red 1 green 6
+green 7 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 3 green 3
+green 22 green 4
+green 4 green 2 green 11 green 2 red 1 green 2
+green 2 green 2 green 2 green 2 green 2 green 2 green 4
+green 15 green 2 green 2
+green 1 black 1 green 5 black 1 green 2 black 1 green 7
+green 2 black 1 green 2 black 1 green 4
+green 5
+green 5
+green 5
+green 5
+green 8
+green 6
+
+columns
+green 2
+green 2
+green 1 green 1
+red 1 green 5
+red 1 green 7 black 1
+red 2 green 5 green 2
+red 1 green 4 green 2
+green 2 red 1 green 2 green 2
+green 5 green 2
+green 2 red 1 green 2 green 2
+green 7 black 1
+green 2 red 1 green 5
+green 4 green 2
+green 2 red 1 green 4 black 1
+green 8
+green 1 red 1 green 2 green 2
+green 7 black 1
+green 1 red 1 green 6
+green 4 green 2
+green 1 red 1 green 5 black 1 green 1
+green 10
+green 2 red 1 green 2 green 4
+green 5 green 6
+green 1 red 1 green 3 green 7
+green 5 green 5
+green 1 red 1 green 1 green 1 green 4
+green 4 green 3 green 3
+green 6 red 1 green 1 green 2
+green 8 green 2
+green 7 green 1

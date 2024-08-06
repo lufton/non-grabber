@@ -1,0 +1,55 @@
+by "bexie (becinaus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by bexie"
+date "Jan 15, 2009"
+description "also a word i use a lot after solving puzzles"
+difficulty 1.25
+height 7
+id 4743
+link "https://webpbn.com/play.cgi?id=4743"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "my fav word"
+width 27
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4 black 3 blue 1 black 1 blue 3 black 1 blue 4 black 2 blue 8
+blue 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 3 black 1 black 1 black 1 black 1 black 3 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 black 3 black 3
+black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 3 blue 7 black 1 blue 3 black 1 blue 5 black 1 blue 1 black 1 blue 4
+
+columns
+blue 2 black 5
+blue 1 black 1 black 1 black 1
+blue 1 black 5
+blue 1 blue 1
+black 5 blue 1
+black 1 blue 1
+black 2 blue 1
+blue 1 blue 1
+black 1 black 4 blue 1
+blue 1 blue 1
+blue 1 black 5
+blue 1 blue 1
+black 5 blue 1
+blue 1 blue 1
+blue 1 black 1 black 4
+blue 1 blue 1
+blue 1 black 2 blue 1
+black 1 black 2 blue 1
+black 5 blue 1
+blue 1 blue 1
+blue 1 black 5
+blue 1 black 1 blue 1
+blue 1 black 4
+blue 1 blue 1
+blue 1 black 1 blue 1
+blue 1 black 5 blue 1
+blue 3 black 1 blue 3

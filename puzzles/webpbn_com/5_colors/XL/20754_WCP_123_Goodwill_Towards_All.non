@@ -1,0 +1,103 @@
+by "Randall Childs (rchilds)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Randall Childs"
+date "Jan  3, 2013"
+description "Inspired by the popular "coexist" bumper sticker using symbols associated with four major world religions to make a plea for peace, equality and harmony for all the people of the Earth. The "i" is often dotted with a pentagram to include pagan traditions. That wasn't going to fit, so I turned it into a candle, often used in vigils for peace or remembrance."
+difficulty 2.25
+height 15
+id 20754
+link "https://webpbn.com/play.cgi?id=20754"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "WCP #123: Goodwill Towards All"
+width 65
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 red 3 blue 1 red 1 black 3
+green 5 red 2 blue 3 red 3 black 3
+green 3 green 2 black 5 red 1 red 1 blue 2 blue 2 red 1 red 1 black 5 black 3
+green 2 black 2 black 1 black 2 red 6 blue 1 blue 1 red 1 red 1 black 2 black 2 black 7
+green 3 green 1 black 2 black 1 black 2 red 2 red 2 blue 13 black 1 black 2 black 2 black 7
+green 2 green 1 black 1 black 1 black 1 red 1 red 2 blue 1 blue 1 blue 1 blue 1 black 1 black 2 black 1 black 1 black 7
+green 2 green 5 black 1 black 1 black 1 red 1 red 1 blue 3 blue 3 black 1 black 3 black 1 black 3
+green 2 green 1 black 1 black 1 black 1 red 9 blue 1 blue 1 black 1 black 5 black 1 black 3
+green 2 green 3 black 1 black 3 black 1 red 1 blue 3 blue 3 black 1 black 6 black 1 black 3
+green 2 green 2 green 2 black 1 black 1 black 1 black 1 black 1 red 1 red 2 blue 1 blue 1 blue 1 blue 1 black 1 black 4 black 1 black 1 black 3
+green 3 black 2 black 1 black 2 red 2 red 2 blue 13 black 1 black 6 black 2 black 3
+green 2 black 2 black 1 black 2 red 6 blue 1 blue 1 black 1 black 4 black 1 black 3
+green 3 green 2 black 5 red 1 blue 2 blue 2 black 1 black 5 black 3
+green 5 red 3 blue 3 black 3
+green 3 red 1 blue 1 black 3
+
+columns
+green 7
+green 11
+green 4 green 4
+green 3 green 3
+green 2 green 1 green 1 green 2
+green 2 green 1 green 2 green 2
+green 2 green 5 green 2
+green 1 green 1 green 2 green 1
+green 1 green 1
+0
+black 7
+black 2 black 2
+black 2 black 1 black 2
+black 1 black 1 black 1
+black 11
+black 1 black 1 black 1
+black 2 black 1 black 2
+black 2 black 2
+black 7
+0
+red 7
+red 2 red 1 red 2
+red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 4
+red 1 red 1 red 1 red 1
+red 1 red 3 red 1 red 2
+red 2 red 2 red 1 red 2
+red 3 red 3 red 1
+0
+blue 1 blue 1
+blue 3 blue 3
+blue 1 blue 3 blue 1
+blue 3 blue 3
+blue 3 blue 3
+blue 2 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 2
+blue 3 blue 3
+blue 3 blue 3
+blue 1 blue 3 blue 1
+blue 3 blue 3
+blue 1 blue 1
+0
+red 3
+red 2 black 9
+red 3
+0
+black 7
+black 9
+black 2 black 7
+black 1 black 6
+black 1 black 1 black 2 black 3
+black 1 black 3 black 1
+black 2 black 1
+black 2 black 2
+black 7
+0
+black 3
+black 3
+black 15
+black 15
+black 15
+black 3
+black 3

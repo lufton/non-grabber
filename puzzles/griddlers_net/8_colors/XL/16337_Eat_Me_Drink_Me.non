@@ -1,0 +1,110 @@
+by "BenMiff"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/25/05"
+height 40
+id 16337
+link "https://www.griddlers.net/nonogram/-/g/16337"
+medium_time "0:27:59"
+points 100510
+popularity 67.03
+title "Eat Me, Drink Me"
+width 45
+
+color a ffffff
+color b 00c400
+color c 00ff00
+color d fffec4
+color e ff0000
+color f 804000
+color g 808080
+color h 000000
+
+rows
+0
+0
+0
+0
+h 3
+h 1 f 1 h 1
+h 1 f 1 h 1
+h 2 f 1 h 2
+h 7
+h 3 h 5 h 1 b 2 h 1
+h 3 e 3 h 3 h 1 d 4 h 1 h 1 c 1 b 2 h 1
+h 2 e 3 h 2 e 4 h 2 h 1 d 5 h 1 h 1 c 1 b 2 h 1
+h 2 e 3 h 1 h 1 e 2 h 2 e 1 h 1 h 1 d 6 h 1 h 1 c 1 b 2 h 1
+h 1 h 1 e 2 h 1 h 1 e 1 h 1 h 1 e 1 h 2 d 7 h 1 h 1 c 1 b 2 h 1
+h 1 h 1 e 3 h 2 e 2 h 1 h 1 e 1 h 1 d 7 h 1 h 1 c 1 b 2 h 1
+h 1 e 1 h 2 e 9 h 2 e 1 h 1 d 7 h 1 h 1 c 1 b 2 h 1
+h 1 e 5 h 2 e 7 h 1 d 7 h 1 h 2 c 1 b 2 h 2
+h 1 e 4 h 1 h 1 e 7 h 1 d 5 h 1 h 3 c 1 h 1 c 2 b 1 h 1 c 1 h 2
+h 1 e 5 h 1 h 1 e 3 h 2 e 3 h 1 d 3 h 1 h 3 c 3 h 3 c 3 h 2
+h 3 e 4 h 2 e 3 h 1 h 1 e 3 h 1 d 1 h 1 h 1 c 11 b 3 h 1
+h 1 h 1 e 8 h 1 h 1 e 4 h 1 h 2 c 2 b 13 h 1
+h 21 h 1 c 1 b 15 h 1
+h 1 d 5 h 1 h 1 c 2 b 15 h 1
+h 1 d 2 d 2 h 1 h 2 c 2 b 15 h 1
+h 1 d 2 d 2 h 1 h 1 c 1 b 17 h 1
+h 1 d 2 d 2 h 1 h 1 c 2 b 17 h 1
+h 1 d 2 d 2 h 1 h 1 c 2 b 17 h 1
+h 1 d 5 h 1 h 1 c 2 b 17 h 1
+h 1 d 3 d 1 h 1 h 1 c 2 b 16 g 1 h 1
+h 1 d 3 d 1 h 1 h 1 c 2 b 15 h 1
+h 1 d 1 d 1 d 1 h 1 h 1 c 2 b 15 h 1
+h 1 d 1 d 1 d 1 h 1 h 1 c 2 b 14 g 1 h 1
+h 9 d 1 d 3 h 12 c 2 b 13 h 4
+g 8 h 1 d 1 d 3 h 1 g 10 h 1 c 2 b 12 g 1 h 1 g 3
+g 4 h 4 d 7 h 4 g 7 h 2 b 10 g 1 h 2 g 4
+g 2 h 2 f 3 h 1 d 7 h 1 f 3 h 2 g 7 h 3 b 4 g 1 h 3 g 6
+g 1 h 1 f 4 h 11 f 4 h 1 g 9 h 5 g 9
+g 2 h 2 f 15 h 2 g 24
+g 4 h 15 g 26
+g 45
+
+columns
+h 1 g 7
+h 4 h 1 g 3 h 1 g 3
+h 3 e 1 h 1 h 1 h 1 g 2 h 1 f 1 h 1 g 2
+h 2 e 4 h 1 h 1 h 1 g 2 h 1 f 1 h 1 g 2
+h 1 h 1 e 4 h 2 h 1 g 1 h 1 f 3 h 1 g 1
+h 2 h 1 e 5 h 1 h 1 g 1 h 1 f 3 h 1 g 1
+h 1 e 1 h 2 e 6 h 1 h 1 g 1 h 1 f 1 h 1 f 1 h 1 g 1
+h 1 e 6 h 2 e 2 h 1 h 1 g 1 h 3 f 1 h 1 g 1
+h 1 e 5 h 1 h 1 e 1 h 13 d 2 h 1 f 1 h 1 g 1
+h 1 e 1 h 2 e 2 h 1 h 1 e 1 h 1 d 14 h 1 f 1 h 1 g 1
+h 1 e 1 h 1 h 1 e 2 h 2 e 2 h 1 d 8 d 2 h 1 f 1 h 1 g 1
+h 1 e 1 h 1 h 1 e 6 h 1 d 1 d 9 h 1 f 1 h 1 g 1
+h 1 e 2 h 2 e 7 h 1 d 6 d 4 h 1 f 1 h 1 g 1
+h 1 e 8 h 3 d 14 h 1 f 1 h 1 g 1
+h 1 e 2 h 2 e 3 h 1 h 13 d 2 h 1 f 1 h 1 g 1
+h 1 e 1 h 1 h 1 e 2 h 1 h 1 h 1 g 1 h 3 f 1 h 1 g 1
+h 2 h 1 e 3 h 3 h 1 g 1 h 1 f 1 h 1 f 1 h 1 g 1
+h 1 e 1 h 2 e 1 h 1 e 4 h 1 h 1 g 1 h 1 f 3 h 1 g 1
+h 1 e 2 h 1 d 1 h 1 e 3 h 1 h 1 g 1 h 1 f 3 h 1 g 1
+h 2 d 3 h 1 e 2 h 1 h 1 g 2 h 1 f 1 h 1 g 2
+h 1 d 5 h 1 e 1 h 1 h 1 g 2 h 1 f 1 h 1 g 2
+h 1 d 7 h 2 h 1 g 3 h 1 g 3
+h 1 d 7 h 1 h 1 g 7
+h 1 d 7 h 1 h 6 h 1 g 7
+h 1 d 7 h 1 h 4 c 4 h 4 g 7
+h 1 d 6 h 1 h 3 c 10 h 2 g 6
+h 1 d 5 h 1 h 1 c 4 b 5 c 5 h 1 g 5
+h 1 d 4 h 1 h 2 c 2 b 11 c 2 h 1 g 5
+h 5 h 1 c 1 b 15 h 1 g 4
+h 1 h 1 c 2 b 15 h 1 g 4
+h 1 h 1 c 3 b 15 h 1 g 4
+h 11 c 2 b 16 h 1 g 3
+h 5 c 8 h 1 c 1 b 16 h 1 g 3
+h 1 f 3 h 1 b 8 c 1 h 1 c 1 b 16 h 1 g 3
+h 5 b 9 h 1 c 1 b 16 h 1 g 3
+h 11 c 1 b 15 g 1 h 1 g 3
+h 1 c 3 b 15 h 1 g 4
+h 1 c 2 b 15 h 1 g 4
+h 1 c 1 b 15 g 1 h 1 g 4
+h 1 b 15 h 1 g 5
+h 1 b 14 g 1 h 1 g 5
+h 2 b 10 g 1 h 2 g 6
+h 3 b 4 g 1 h 4 g 7
+h 5 h 1 g 7
+h 1 g 7

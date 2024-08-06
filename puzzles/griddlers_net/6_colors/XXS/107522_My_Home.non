@@ -1,0 +1,33 @@
+by "wieralee"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/4/11"
+height 5
+id 107522
+link "https://www.griddlers.net/nonogram/-/g/107522"
+medium_time "0:00:22"
+points 6
+popularity 56.35
+title "My Home"
+width 5
+
+color a d6ffff
+color b cc9900
+color c 0099ff
+color d ffff00
+color e 00d700
+color f ff0033
+
+rows
+e 3
+e 2 f 2
+b 1 f 3
+b 1 d 1 c 1
+b 1 e 2 d 2
+
+columns
+e 2 b 3
+e 2 e 1
+e 1 f 1 e 1
+f 2 d 2
+f 2 c 1 d 1

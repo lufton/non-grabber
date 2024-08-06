@@ -1,0 +1,83 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Jul 16, 2011"
+description "Showboat"
+difficulty 2.0
+height 30
+id 15216
+link "https://webpbn.com/play.cgi?id=15216"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Another Musical"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 9 blue 5 blue 5 blue 5
+blue 1 blue 1 blue 3 blue 6 blue 6 blue 3
+blue 1 blue 1 black 2 blue 5 black 2 blue 5 black 2 blue 2
+blue 1 black 2 blue 5 black 2 blue 5 black 2 blue 2 blue 1
+blue 2 black 2 blue 5 black 2 blue 5 black 2 blue 4 blue 1
+blue 1 blue 5 black 2 blue 5 black 2 blue 5 black 2 blue 7
+blue 4 red 22 blue 4
+blue 3 red 24 blue 3
+blue 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 2 red 26 blue 2
+blue 1 red 28 blue 1
+blue 1 blue 1
+0
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 30
+red 30
+black 5
+black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 9 black 1 red 5 black 1 red 14
+red 8 black 1 red 5 black 1 red 13 blue 1
+blue 1 black 1 black 1 blue 3
+blue 2 black 2 black 2 blue 5
+blue 4 black 5 blue 9
+green 4 blue 2 green 3 blue 3 green 3 blue 4 green 3 blue 4 green 3 blue 1
+green 1 blue 3 green 3 blue 1 green 5 blue 2 green 4 blue 2 green 3 blue 1 green 1 blue 3 green 1
+blue 30
+
+columns
+blue 3 blue 8 red 2 black 2 red 1 blue 3 green 2 blue 1
+blue 1 blue 5 red 1 black 2 red 2 red 2 blue 2 green 1 blue 2
+blue 2 blue 5 red 2 red 2 red 2 blue 1 green 1 blue 2
+blue 1 blue 2 red 1 red 2 red 2 black 2 red 2 blue 1 green 1 blue 2
+blue 1 blue 1 red 2 red 2 black 2 red 2 red 2 blue 1 green 1 blue 1
+blue 2 blue 2 red 2 black 2 red 2 red 2 red 2 blue 1 green 1 blue 1
+blue 6 red 2 red 2 red 2 black 2 red 2 green 2 blue 1
+blue 2 black 4 red 2 red 2 black 2 red 2 red 2 green 1 blue 2
+blue 1 black 4 red 2 black 2 red 2 red 2 red 2 green 2 blue 1
+blue 5 red 2 red 2 red 2 black 7 blue 1 green 1 blue 1
+blue 5 red 2 red 2 black 2 red 2 black 2 red 2 black 2 blue 1 green 1 blue 1
+blue 6 red 2 black 2 red 2 red 2 black 1 red 2 black 1 blue 1 green 1 blue 1
+blue 6 red 2 red 2 red 2 black 1 red 2 black 1 green 2 blue 1
+blue 6 red 2 red 2 black 2 red 2 black 1 red 2 black 1 green 1 blue 2
+blue 2 black 4 red 2 black 2 red 2 red 2 black 2 red 2 black 2 green 1 blue 2
+blue 1 black 4 red 2 red 2 red 2 black 7 blue 1 green 1 blue 1
+blue 5 red 2 red 2 black 2 red 2 red 2 blue 1 green 1 blue 1
+blue 5 red 2 black 2 red 2 red 2 red 2 blue 1 green 1 blue 1
+blue 6 red 2 red 2 red 2 black 2 red 2 blue 1 green 1 blue 1
+blue 6 red 2 red 2 black 2 red 2 red 2 green 1 blue 2
+blue 6 red 2 black 2 red 2 red 2 red 2 green 1 blue 2
+blue 2 black 4 red 2 red 2 red 2 black 2 red 2 blue 1 green 2 blue 1
+blue 1 black 4 red 2 red 2 black 2 red 2 red 2 blue 2 green 1 blue 1
+blue 5 red 2 black 2 red 2 red 2 red 2 blue 2 green 1 blue 1
+blue 5 red 2 red 2 red 2 black 2 red 2 blue 4
+blue 2 blue 2 red 2 red 2 black 2 red 2 red 2 blue 3 green 1 blue 1
+blue 1 blue 3 red 1 black 2 red 2 red 2 red 2 blue 2 green 1 blue 2
+blue 1 blue 5 red 2 red 2 black 2 red 2 blue 3 green 1 blue 2
+blue 1 blue 6 red 1 black 2 red 2 red 2 blue 3 green 1 blue 2
+blue 1 blue 10 red 2 red 1 blue 5 green 1 blue 1

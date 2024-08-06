@@ -1,0 +1,62 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kim"
+date "Nov 22, 2013"
+description "The trusty wheelbarrow-what I will need to carry me away from the Thankgsgiving table!"
+difficulty 1.75
+height 20
+id 23178
+link "https://webpbn.com/play.cgi?id=23178"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Travis, Norma and Susan's consensus"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+red 16
+red 16
+red 16
+blue 2 red 15
+blue 3 red 13
+blue 3 red 13
+blue 3 red 10
+black 1 blue 3 red 8
+black 1 blue 3 red 5
+black 1 black 1 blue 3 red 3 black 2
+black 1 black 1 blue 3 black 4
+black 1 black 1 blue 3 red 1 black 1
+black 4 black 4
+black 2
+0
+0
+0
+
+columns
+blue 1
+blue 2
+blue 1
+blue 2
+red 3 blue 1
+red 4 blue 2
+red 6 blue 1 black 6
+red 6 blue 2 black 1
+red 7 blue 1 black 1
+red 7 blue 2 black 4
+red 8 blue 1
+red 8 blue 2
+red 9 blue 1
+red 9 blue 2
+red 10 blue 1
+red 10 blue 2
+red 10 black 1 blue 1 black 1
+red 8 black 2 blue 1 black 2
+red 6 black 2 red 1 black 2
+red 4 black 3

@@ -1,0 +1,56 @@
+by "jule"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/21/02"
+height 22
+id 1095
+link "https://www.griddlers.net/nonogram/-/g/1095"
+medium_time "0:04:57"
+points 939
+popularity 57.27
+title "Boy"
+width 12
+
+color a ffffff
+color b ff0000
+color d 0000ff
+color f f5f539
+color h 000000
+
+rows
+f 4
+f 6
+f 2 h 1 f 4 h 1 f 2
+f 4 h 4 f 4
+f 10
+f 6
+d 1 f 4 d 1
+b 1 d 1 b 4 d 1 b 1
+b 3 d 1 b 2 d 1 b 3
+b 4 d 2 b 4
+b 3 d 1 b 2 d 1 b 3
+b 3 d 1 b 2 d 1 b 3
+b 1 d 1 h 1 d 2 h 1 d 1 b 1
+d 6
+d 6
+d 3 d 3
+d 3 d 3
+d 3 d 3
+d 3 d 3
+d 3 d 3
+d 3 d 3
+h 4 h 4
+
+columns
+f 1 h 1
+f 3 b 4 d 3 h 1
+f 3 b 6 d 6 h 1
+f 1 h 1 f 3 d 2 b 4 d 9 h 1
+f 3 h 1 f 3 b 1 d 1 b 1 d 2 h 1 d 5
+f 3 h 1 f 3 b 2 d 1 b 2 d 3
+f 3 h 1 f 3 b 2 d 1 b 2 d 3
+f 3 h 1 f 3 b 1 d 1 b 1 d 2 h 1 d 5
+f 1 h 1 f 3 d 2 b 4 d 9 h 1
+f 3 b 6 d 6 h 1
+f 3 b 4 d 3 h 1
+f 1 h 1

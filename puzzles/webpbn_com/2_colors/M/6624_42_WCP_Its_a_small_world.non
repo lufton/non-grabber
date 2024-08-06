@@ -1,0 +1,57 @@
+by "Robyn Broyles (ginkgo100)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Robyn Broyles"
+date "Sep  1, 2009"
+description "A globe."
+difficulty 1.75
+height 20
+id 6624
+link "https://webpbn.com/play.cgi?id=6624"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "#42 WCP: It's a small world"
+width 20
+
+rows
+2
+4,4
+2,8
+2,10
+2,10,1
+1,10,1
+2,10,3
+2,9,4
+2,8,5
+2,6,6
+2,3,7
+3,1,9
+2,10
+3,8
+3,4,2
+4,2
+10
+2
+8
+10
+
+columns
+0
+6
+11
+3,4
+2,4,3
+2,8,2
+2,8,1,2,1
+10,2,2,2
+8,3,1,2
+9,4,1,2
+8,5,4
+8,5,4
+7,6,1,2
+5,6,1,2
+4,8,1,2
+1,7,3,1
+8,1
+4
+0
+0

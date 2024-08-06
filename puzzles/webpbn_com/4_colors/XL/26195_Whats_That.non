@@ -1,0 +1,102 @@
+by "twalk ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by twalk"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 50
+id 26195
+link "https://webpbn.com/play.cgi?id=26195"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "What's That?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 8 red 2 black 8
+black 3 blue 16 black 3
+black 1 blue 20 black 1
+black 3 blue 20 black 3
+black 28
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 1 black 1 black 1
+black 2 black 1 black 1 black 1 black 1 black 2 black 2 black 1 black 2 black 2
+black 2 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 28
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 8 blue 1 black 2 blue 1 black 8 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 2 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 2 black 8 blue 1 black 2 blue 1 black 8 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 4 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 4 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 4 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 8 blue 1 black 2 blue 1 black 8 blue 2 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 2 black 8 blue 1 black 2 blue 1 black 8 blue 2 black 1
+black 1 blue 2 black 1 blue 6 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 blue 6 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 blue 6 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 blue 6 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 blue 6 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 1 blue 6 black 1 blue 1 black 2 blue 1 black 1 blue 6 black 1 blue 2 black 1
+black 1 blue 2 black 8 blue 1 black 2 blue 1 black 8 blue 2 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 1 blue 11 black 2 blue 11 black 1
+black 3 blue 11 black 2 blue 11 black 3
+black 1 blue 13 black 2 blue 13 black 1
+black 1 blue 13 black 2 blue 13 black 1
+black 30
+
+columns
+black 4
+black 5 black 1 blue 2 black 1
+black 41 blue 2 black 1
+black 2 black 1 blue 37 black 1
+black 4 black 2 blue 37 black 1
+black 1 blue 2 black 5 blue 1 black 1 blue 2 black 8 blue 2 black 8 blue 8 black 1
+black 2 blue 2 black 1 black 1 blue 1 black 1 blue 2 black 1 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 1 black 1 blue 1 black 8 blue 2 black 1 black 1 black 2 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 5 blue 1 black 1 blue 2 black 1 black 1 black 2 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 1 black 1 blue 1 black 1 blue 2 black 1 black 1 black 2 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 5 blue 1 black 8 blue 2 black 1 black 1 black 2 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 1 black 1 blue 1 black 1 blue 2 black 1 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 5 blue 1 black 1 blue 2 black 8 blue 2 black 8 blue 8 black 1
+black 4 blue 3 black 1 black 1 blue 37 black 1
+black 1 red 3 blue 3 black 1 black 1 black 39
+black 1 red 3 blue 3 black 43
+black 4 blue 3 black 1 black 1 blue 37 black 1
+black 1 blue 3 black 1 black 1 black 1 blue 1 black 1 blue 2 black 8 blue 2 black 8 blue 8 black 1
+black 1 blue 3 black 5 blue 1 black 1 blue 2 black 1 blue 6 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 1 black 1 blue 1 black 8 blue 2 black 1 blue 6 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 2 black 1 blue 1 black 1 blue 2 black 1 blue 6 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 5 blue 1 black 1 blue 2 black 1 blue 6 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 3 black 1 black 1 blue 1 black 8 blue 2 black 1 blue 6 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 2 blue 2 black 1 black 1 blue 1 black 1 blue 2 black 1 blue 6 black 1 blue 2 black 1 blue 6 black 1 blue 8 black 1
+black 1 blue 2 black 5 blue 1 black 1 blue 2 black 8 blue 2 black 8 blue 8 black 1
+black 4 black 1 black 1 blue 37 black 1
+black 3 black 2 blue 37 black 1
+black 2 black 1 black 36 blue 2 black 1
+black 5 black 1 blue 2 black 1
+black 4

@@ -1,0 +1,117 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Jun 24, 2005"
+description "A train. From left to right there is (1) a caboose, (2) a gondola car, (3) a box car with the door open, (4) an open passenger car, (4) a crane, (5) a hopper car, (6) a flatbed car with an automobile on it, (7 and 8) two passenger cars, (9) the tender, and (10) the locomotive with two big driving wheels."
+difficulty 1.75
+height 5
+id 228
+link "https://webpbn.com/play.cgi?id=228"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Long Haul"
+width 95
+
+rows
+3,8,3,3,8,3,7,7,4,1
+4,4,3,3,1,1,5,6,6,1,1,1,1,1,1,1,1,4,1,7
+7,7,3,3,2,2,3,4,1,1,7,7,5,10
+9,7,8,8,8,8,8,7,7,5,10
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1
+
+columns
+1,1
+4
+3
+4
+1,2
+4
+3
+4
+1,1
+0
+2
+3
+2
+2
+2
+3
+2
+0
+4
+5
+4
+1,1
+1,1
+4
+5
+4
+0
+1
+4
+2
+1
+3
+2
+2
+1
+0
+1
+5
+4
+4
+1,1
+2,1
+1,2
+1,1
+0
+1,1
+2,2
+4
+4
+4
+4
+2,2
+1,1
+0
+1
+1,2
+4
+2,1
+2,1
+3
+1,2
+1
+0
+4
+1,3
+4
+1,2
+4
+1,3
+4
+0
+4
+1,3
+4
+1,2
+4
+1,3
+4
+0
+3
+4
+3
+4
+2
+0
+4
+1,2
+1,3
+5
+3
+4
+4
+3
+5
+3

@@ -1,0 +1,42 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr  3, 2023"
+description "For what the bell tolls."
+difficulty 1.25
+height 15
+id 36641
+link "https://webpbn.com/play.cgi?id=36641"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Liberty..."
+width 10
+
+rows
+10
+10
+1,2,1
+6
+1,1
+2,2
+1,1,1
+2,1,2
+1,1,1
+1,1,1
+10
+2
+0
+0
+0
+
+columns
+3,4
+2,3,1
+2,3,1
+2,1,1,2
+4,2,3
+4,1
+2,1,1
+2,3,1
+2,3,1
+3,4

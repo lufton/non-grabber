@@ -1,0 +1,72 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "May 14, 2011"
+description "Jack be nimble Jack be quick Jack jump over The candlestick."
+difficulty 1.5
+height 30
+id 13890
+link "https://webpbn.com/play.cgi?id=13890"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Children's Hour 8"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 13 red 4 black 3
+black 13 red 1 black 3
+black 13 blue 1 black 3
+black 12 black 4
+black 13 black 4
+black 14 black 4
+black 11 red 1 red 1 black 1
+black 14 red 3 black 3
+black 14 black 3
+black 4 black 1 blue 7 red 3 black 3
+black 4 blue 10 black 3
+black 4 blue 10 black 3
+black 14 blue 3 black 3
+black 9 black 4 blue 3 black 3
+black 8 black 3 blue 3 black 3
+black 7 black 2 blue 3 black 3
+black 8 black 3 blue 3 black 3
+black 9 black 4 blue 3 black 3
+black 7 blue 4 black 3 blue 3 black 3
+black 7 blue 4 black 4 black 3
+black 7 blue 4 black 4 black 3
+black 7 blue 4 black 4 black 3
+black 7 blue 4 black 9
+black 7 blue 4 black 9
+black 7 blue 4 black 9
+red 3 black 4 blue 4 black 9
+black 3 red 1 black 3 blue 4 black 9
+black 3 red 1 black 3 blue 4 black 3 red 1 black 5
+black 4 red 10 black 6
+
+columns
+black 26 red 1 black 3
+black 26 red 1 black 3
+black 26 red 1 black 3
+black 27 red 2 black 1
+black 10 black 16 red 1
+black 10 black 16 red 1
+black 11 black 16 red 1
+black 10 blue 3 black 3 black 2 blue 10 red 1
+black 10 blue 3 black 2 black 1 blue 10 red 1
+black 10 blue 3 black 1 blue 10 red 1
+black 10 blue 3 black 2 black 1 blue 10 red 1
+black 7 black 2 blue 3 black 3 black 12 red 1
+black 4 black 2 red 1 black 2 blue 3 black 16 red 1
+black 1 red 1 black 1 black 2 blue 3 black 16 red 1
+black 1 red 1 blue 1 red 1 red 1 blue 9 black 8 red 1 black 1
+black 1 red 1 red 1 red 1 blue 9 black 7
+black 1 red 2 black 3 red 1 red 1 blue 9 black 7
+black 7 red 1 black 22
+black 7 black 22
+black 30

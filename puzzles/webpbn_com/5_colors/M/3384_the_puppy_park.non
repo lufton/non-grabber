@@ -1,0 +1,63 @@
+by "Ed Donahue (edzoid)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Ed Donahue"
+date "Aug 31, 2008"
+description "a puppy at a park, made by my 8-yr old."
+difficulty 1.25
+height 20
+id 3384
+link "https://webpbn.com/play.cgi?id=3384"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "the puppy park"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10 blue 6
+blue 9 blue 4 blue 5
+blue 1 black 6 blue 1 blue 6 blue 4
+blue 1 black 2 red 1 black 2 blue 3 blue 5
+black 6 blue 14
+black 16 blue 4
+blue 2 black 14 blue 4
+blue 2 black 15 blue 3
+blue 2 black 12 blue 1 black 3 blue 2
+blue 2 black 3 blue 6 black 3 blue 2 black 3 blue 1
+blue 2 black 3 blue 6 black 3 blue 3 black 2 blue 1
+blue 2 black 3 blue 6 black 3 blue 6
+blue 2 black 3 blue 6 black 3 blue 6
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+
+columns
+blue 4 black 2 blue 7 green 7
+blue 2 black 4 blue 7 green 7
+blue 2 black 11 green 7
+blue 2 black 1 red 1 black 9 green 7
+blue 2 black 11 green 7
+blue 2 black 7 blue 4 green 7
+blue 2 black 1 blue 2 black 4 blue 4 green 7
+blue 5 black 4 blue 4 green 7
+blue 2 blue 2 black 4 blue 4 green 7
+blue 1 blue 1 blue 1 black 4 blue 4 green 7
+blue 2 blue 1 black 4 blue 4 green 7
+blue 2 blue 1 black 8 green 7
+blue 2 blue 1 black 8 green 7
+blue 2 blue 1 black 8 green 7
+blue 1 blue 1 blue 1 black 3 blue 5 green 7
+blue 2 blue 2 black 4 blue 4 green 7
+blue 7 black 3 blue 3 green 7
+blue 8 black 3 blue 2 green 7
+blue 9 black 2 blue 2 green 7
+blue 13 green 7

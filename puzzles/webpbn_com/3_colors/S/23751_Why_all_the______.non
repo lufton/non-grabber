@@ -1,0 +1,51 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "Feb  6, 2014"
+description "C'mon people. It would be nice if you checked your work and got rid of the question marks. Multiple solutions just aren't fun."
+difficulty 1.5
+height 10
+id 23751
+link "https://webpbn.com/play.cgi?id=23751"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Why all the ? ? ? ? ? ?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 1 black 1 red 3 black 1 black 1
+black 1 red 1 red 1 black 3 black 1
+black 2 red 1 black 1 black 1 red 3 black 2
+black 1 red 2 black 1 red 1 red 1 black 1
+red 1 black 2 red 1
+black 1 black 1 red 2 black 1
+red 1 red 1
+black 1
+red 1
+
+columns
+0
+black 2
+black 1 black 2 black 1
+black 4
+0
+red 2
+red 1 red 2 red 1
+red 4
+0
+black 2
+black 1 black 2 black 1
+black 4
+0
+red 2
+red 1 red 2 red 1
+red 4
+0
+black 2
+black 1 black 2 black 1
+black 4

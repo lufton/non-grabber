@@ -1,0 +1,53 @@
+by "J.D. McLure (cubfan415)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by J.D. McLure"
+date "Aug  5, 2012"
+description "A Goomba. (Sorry about having to outling the legs... there's no cream color :P )"
+difficulty 1.5
+height 16
+id 19482
+link "https://webpbn.com/play.cgi?id=19482"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "SMB1 - Puzzle 4"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4
+red 6
+red 8
+red 10
+red 1 black 2 red 6 black 2 red 1
+red 3 black 1 red 4 black 1 red 3
+red 4 black 6 red 4
+red 4 black 1 red 2 black 1 red 4
+red 4 red 2 red 4
+red 16
+red 4 red 4
+black 1 black 1
+black 1 black 2
+black 2 black 6
+black 3 black 7
+black 4 black 5
+
+columns
+red 4
+red 6
+red 7
+red 1 black 1 red 6 black 2
+red 2 black 1 red 2 black 5
+red 4 black 3 red 1 black 2
+red 6 black 1 red 1 black 1
+red 6 black 1 red 3 black 1
+red 6 black 1 red 3 black 1
+red 6 black 1 red 1 black 3
+red 4 black 3 red 1 black 3
+red 2 black 1 red 2 black 1 black 3
+red 1 black 1 red 6 black 4
+red 7 black 4
+red 6 black 2
+red 4

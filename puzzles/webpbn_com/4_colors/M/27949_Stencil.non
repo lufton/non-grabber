@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 27949
+link "https://webpbn.com/play.cgi?id=27949"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Stencil"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 21 red 3 black 3
+black 10 red 4 black 3
+red 2 black 1 red 1 black 3
+black 2 black 2 red 2 black 3 black 3
+black 2 black 2 black 2 black 2 red 4 black 3 black 3
+black 2 black 2 black 3 black 3 red 2 black 1 black 3 black 2
+black 2 black 2 black 2 black 2 red 1 black 2 black 3 black 2
+black 2 black 2 black 2 red 5 black 2 black 3 blue 1 black 1
+black 2 black 2 black 5 red 2 black 2 black 5 blue 2 black 1
+black 2 black 2 black 5 black 2 black 2 black 3 blue 2
+black 2 black 2 red 5 black 2 black 2 black 1 black 1 blue 3
+black 3 black 3 red 6 black 2 black 2 blue 5
+black 2 black 2 red 2 black 2 red 1 black 2 black 2 blue 6
+red 3 black 3 black 3 black 2 blue 5 black 1
+red 4 black 2 black 2 black 2 blue 4 black 3
+black 9 red 2 blue 4 black 5
+black 9 red 1 blue 5 black 7
+black 16 blue 2 black 7
+red 4 black 20
+red 5 black 14
+
+columns
+black 1 black 2
+black 1 black 9 black 2
+black 1 black 10 black 3 red 1
+black 1 black 2 black 3 red 2
+black 1 black 3 red 2
+black 1 black 2 black 3 red 2
+black 1 black 10 black 3 red 2
+black 1 black 9 red 2 black 4
+black 1 red 3 black 4
+black 2 red 6 black 2
+black 2 black 4 red 2 black 2 red 2 black 2
+black 2 black 6 red 2 black 3 black 3
+black 2 black 2 black 2 red 3 black 2 black 3
+black 2 red 1 black 2 red 2 black 3
+black 2 black 2 red 1 black 2 red 2 black 2 black 3
+black 2 black 3 red 2 black 6 black 3
+black 2 red 1 black 2 red 2 black 4 black 3
+black 2 red 5 blue 1 black 3
+black 2 red 4 blue 2 black 2
+black 1 red 2 black 1 red 1 black 10 blue 3 black 2
+black 1 red 1 black 3 black 9 blue 2 black 2
+red 3 black 3 blue 3 black 3
+red 2 black 3 black 3 blue 3 black 3
+red 1 black 5 blue 3 black 4
+black 3 blue 3 black 4
+black 1 black 3 blue 3 black 4
+black 3 black 3 blue 3 black 4
+black 5 blue 1 black 1 blue 3 black 4
+black 6 blue 6 black 3
+black 6 blue 3 black 4

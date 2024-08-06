@@ -1,0 +1,52 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/18"
+height 15
+id 189478
+link "https://www.griddlers.net/nonogram/-/g/189478"
+medium_time "0:04:46"
+points 1861
+popularity 75.98
+title "Pizza"
+width 15
+
+color a ffffff
+color b 000000
+color c c98c00
+color d ff0000
+color e ffff33
+
+rows
+b 4
+b 1 e 1 b 1 d 1 b 4
+b 1 e 1 b 1 d 2 b 1 e 2 b 4
+b 1 e 2 b 2 e 7 b 3
+b 1 e 6 b 2 e 2 b 1 c 1 b 1
+b 1 e 5 b 1 d 2 b 1 e 1 b 1 c 1 b 1
+b 1 e 5 b 1 d 2 b 2 c 2 b 1
+b 1 e 1 b 2 e 3 b 2 e 1 b 1 c 1 b 1
+b 1 d 2 b 1 e 4 b 1 c 2 b 1
+b 1 d 2 b 1 e 3 b 1 c 2 b 1
+b 3 e 3 b 1 c 2 b 1
+b 1 e 3 b 2 c 2 b 1
+b 3 c 3 b 1
+b 1 c 3 b 2
+b 4
+
+columns
+b 4
+b 1 e 3 b 4
+b 3 e 5 b 4
+b 1 d 2 b 1 e 3 b 1 d 2 b 1 e 1 b 3
+b 1 d 1 b 1 e 3 b 1 d 2 b 1 e 1 b 1 c 1 b 1
+b 2 e 5 b 2 e 2 b 1 c 1 b 1
+b 1 e 9 b 1 c 2 b 1
+b 1 e 3 b 2 e 4 b 1 c 1 b 1
+b 1 e 1 b 1 d 2 b 1 e 2 b 1 c 2 b 1
+b 1 e 1 b 1 d 2 b 1 e 1 b 1 c 2 b 1
+b 1 e 2 b 2 e 1 b 1 c 2 b 1
+b 1 e 3 b 2 c 2 b 1
+b 3 c 3 b 1
+b 1 c 3 b 2
+b 4

@@ -1,0 +1,36 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb  1, 2011"
+description "time-release allergy capsule."
+difficulty 1.25
+height 5
+id 12011
+link "https://webpbn.com/play.cgi?id=12011"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "WCP #77 aaah choo"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 black 1
+black 5
+
+columns
+black 1
+black 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 black 1
+black 1
+0

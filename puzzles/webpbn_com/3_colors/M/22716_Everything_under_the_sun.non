@@ -1,0 +1,61 @@
+by "Kim (kjh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kim"
+date "Sep  5, 2013"
+description "The red is our sun, and the black underneath is the infinity symbol. This is in response to Norma's comment about the easiest Web PBN puzzle. I have had a mission lately. I have completed every single puzzle here which is less than 20x20. And, yes, there are a few just like the most recent. Along with people saying "hi", making smiley faces and lots of awful swirls, it is tedious. My favorite small puzzles are the minimalists. There were some awesome entries! Wish I could be so creative!"
+difficulty 1.25
+height 20
+id 22716
+link "https://webpbn.com/play.cgi?id=22716"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Everything under the sun"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 20
+red 18
+red 16
+red 14
+red 12
+red 10
+red 6
+0
+0
+0
+0
+black 4 black 4
+black 2 black 3 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 3 black 2
+black 4 black 4
+0
+0
+
+columns
+red 1
+red 2
+red 3
+red 4
+red 5
+red 6 black 5
+red 6 black 2 black 2
+red 7 black 1 black 1
+red 7 black 1 black 1
+red 7 black 2 black 2
+red 7 black 5
+red 7 black 2 black 2
+red 7 black 1 black 1
+red 6 black 1 black 1
+red 6 black 2 black 2
+red 5 black 5
+red 4
+red 3
+red 2
+red 1

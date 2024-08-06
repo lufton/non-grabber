@@ -1,0 +1,61 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Teresa K"
+date "Jan 18, 2020"
+description "What movie is this?"
+difficulty 1.5
+height 20
+id 33493
+link "https://webpbn.com/play.cgi?id=33493"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Box Office Rebus #14"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 1
+black 3
+black 2
+red 1
+red 2
+red 2
+red 2
+black 3
+black 2
+red 1 black 3
+red 1 black 1
+black 1
+red 2
+black 20
+black 1 red 1 black 1 red 1
+black 1 red 1 black 1 red 1
+black 1 red 1 black 1 red 1 black 1 red 1
+black 1 red 1 black 1 red 1 black 1 red 1
+black 2 red 1 black 3 red 1 black 2 red 1
+black 3 black 3
+
+columns
+black 1
+black 1
+black 1
+black 1
+black 1
+black 6
+red 2 black 1 red 4 black 2
+black 1 black 1 black 1 red 1 black 1
+red 3 black 3 black 1 black 2
+black 2 red 4 black 5 red 1 black 1 black 3
+red 1 black 2 red 1 black 1 red 2 black 2
+black 2 black 1 red 1 black 1
+black 1 black 2
+black 6
+black 1 red 5
+black 1
+black 1
+black 1
+black 1
+black 1

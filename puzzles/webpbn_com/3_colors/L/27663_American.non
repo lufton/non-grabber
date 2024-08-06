@@ -1,0 +1,81 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 40
+id 27663
+link "https://webpbn.com/play.cgi?id=27663"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "American"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 5
+black 9
+black 11
+black 11
+black 12
+black 14
+black 15
+black 16
+black 16
+black 12
+black 8
+black 4
+blue 3 black 1
+blue 7
+blue 7
+blue 14
+blue 1 blue 10
+blue 1 blue 6
+blue 2 blue 5 black 4
+blue 1 blue 5 black 5
+blue 7 black 5
+blue 4 black 6
+blue 2 blue 3 black 5
+blue 2 blue 3 black 5
+blue 1 blue 4 black 4
+blue 2 black 2 blue 1
+blue 7 black 1 blue 3
+blue 1 blue 5 blue 5
+blue 1 blue 6 blue 3
+blue 9
+blue 15
+blue 13
+blue 2 blue 12
+blue 2 blue 12
+blue 1 blue 13
+blue 10
+blue 15
+blue 15
+blue 13
+
+columns
+0
+black 2
+black 3 blue 2 blue 2 blue 3 blue 3 blue 1 blue 1 blue 3 blue 2
+black 4 blue 2 blue 1 blue 2 blue 1 blue 2 blue 3 blue 1 blue 2 blue 3
+black 4 blue 2 blue 2 blue 3 blue 1 blue 1 blue 3 blue 1 blue 3
+black 5 blue 12 blue 9 blue 3
+black 6 blue 12 blue 9 blue 3
+black 7 blue 26
+black 7 blue 8 blue 14
+black 8 blue 5 black 4 blue 12
+black 9 blue 4 black 8 blue 11
+black 10 blue 3 black 8 blue 10
+black 10 blue 2 black 7 blue 1 blue 10
+black 10 blue 2 black 6 blue 1 blue 9
+black 12 blue 1 black 4 blue 3 blue 9
+black 12 blue 1 blue 3 blue 9
+black 12 blue 4 blue 8
+black 4 black 4
+black 3
+black 2

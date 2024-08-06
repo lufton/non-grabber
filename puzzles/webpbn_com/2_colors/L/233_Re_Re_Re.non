@@ -1,0 +1,76 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Jul  7, 2005"
+description "Reuse, reduce, recycle. Sorry this recycle symbol came out so asymmetrical. It was amazingly hard to get this to be a solvable puzzle and by the time I got it there I was too sick of it to want to spend more time getting it symmetrical."
+difficulty 2.75
+height 32
+id 233
+link "https://webpbn.com/play.cgi?id=233"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Re Re Re"
+width 27
+
+rows
+7
+1,7
+4,7
+5,7
+6,7
+7,7,2
+8,7,3
+8,9
+8,8
+6,6
+3,7
+8,1,8,1
+7,3
+6,6
+8,8
+9,8
+7,3,8
+7,2,7
+7,6
+7,1,5
+7,1,3,1
+7,2,3
+6,4,12
+5,4,13
+4,5,13
+3,5,13
+3,4,12
+2,4,11
+2,3,9
+2
+1
+1
+
+columns
+1,3
+1,7
+2,10
+2,13
+17
+1,13,3
+3,11,2,1
+6,9,6
+8,6,7
+10,3,7
+1,9,3,7
+1,10,2
+2,7,2,1
+3,3,1,1,5
+5,1,9
+7,2,13
+9,2,7
+11,7
+11,1,7
+10,3,7
+9,6,7
+6,8,7
+3,9,7
+3,9,6
+2,9,6
+2,7,4
+1,3,2

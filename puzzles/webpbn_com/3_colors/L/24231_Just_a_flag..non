@@ -1,0 +1,77 @@
+by "loren (ghth13)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by loren"
+date "Apr 25, 2014"
+description "because why not make one? The U.S.A. flag has 13 red stripes and 50 stars!"
+difficulty 1.5
+height 26
+id 24231
+link "https://webpbn.com/play.cgi?id=24231"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Just a flag."
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 13 black 17
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 17
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 17
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 17
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 17
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 17
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2
+blue 13 black 17
+black 30
+0
+0
+black 30
+black 30
+0
+0
+black 30
+black 30
+0
+0
+black 30
+black 30
+
+columns
+blue 13 black 1 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 1 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 1 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 1 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 1 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 1 black 2 black 2 black 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 2 black 2 black 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 black 1 black 2 black 2 black 2
+blue 13 black 1 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 2 black 2

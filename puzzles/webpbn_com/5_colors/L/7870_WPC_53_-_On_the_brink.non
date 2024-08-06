@@ -1,0 +1,83 @@
+by "Debra Greene (dlegreen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Debra Greene"
+date "Feb 20, 2010"
+description "Been away a long time. It's supposed to be a couple holding hands on the roller coaster just before they go over the top."
+difficulty 2.5
+height 30
+id 7870
+link "https://webpbn.com/play.cgi?id=7870"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "WPC #53 - On the brink!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1
+black 3 black 1 black 2 black 1
+black 1 red 2 black 2 black 3 black 3
+black 1 red 3 black 2 black 1 black 1
+black 1 red 5 black 1 black 11
+black 6 black 1 blue 9 black 1
+black 1 black 2 blue 5 black 2
+black 1 black 12
+black 1 black 2 black 1
+black 1 black 1 black 8 black 2
+black 1 black 2 black 11 black 2
+black 1 black 1 black 2 black 2 black 2
+black 1 black 3 black 2 black 2
+black 1 black 1 black 1 black 2 black 2
+black 1 black 19 black 2
+black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 2 black 2
+black 1 black 3 black 1
+black 1 black 1 black 22
+black 1 black 2
+black 1 black 3
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 21
+green 2 black 2 black 25
+green 6 green 10 green 4
+green 10 green 7 green 9
+green 10 green 12
+green 6 green 6 green 6
+green 12 green 15
+
+columns
+black 21 black 1 green 1 green 1 green 1
+black 1 red 3 black 1 black 1 black 1 green 3 green 2
+black 1 red 3 black 1 black 1 black 1 green 2 green 2
+black 1 red 2 black 1 black 1 black 1 green 2 green 2
+black 2 red 1 black 1 black 1 green 5
+black 1 red 1 black 1 black 2 black 1 green 5
+black 1 black 4 black 2 green 5
+black 4 black 3 black 1 green 2 green 1
+black 3 black 3 black 1 green 2 green 1
+black 3 black 3 black 1 black 2 green 4
+black 3 black 3 black 1 black 2 green 3
+black 2 black 2 black 1 black 1 black 2 green 3
+black 2 black 1 black 2 black 1 black 1 black 2 green 4
+black 1 blue 1 black 2 black 2 black 1 black 1 black 2 green 4
+black 1 black 1 blue 1 black 2 black 2 black 1 black 1 black 2 green 2 green 2
+black 1 black 1 blue 2 black 1 black 2 black 1 black 1 black 2 green 2 green 1
+black 1 black 3 blue 2 black 1 black 2 black 1 black 1 black 2 green 2 green 1
+black 1 black 1 blue 2 black 1 black 2 black 1 black 1 black 2 green 3 green 1
+black 1 black 1 blue 2 black 1 black 2 black 1 black 1 black 2 green 3 green 1
+black 1 black 1 blue 2 black 1 black 2 black 1 black 1 black 2 green 1 green 1 green 1
+black 1 black 1 blue 1 black 2 black 2 black 1 black 1 black 2 green 1 green 3
+black 1 black 3 blue 1 black 2 black 1 black 1 black 1 black 2 green 5
+black 1 black 2 black 1 black 2 black 1 black 1 black 2 green 4
+black 1 black 2 black 2 black 1 black 1 black 2 green 4
+black 2 black 3 black 1 black 2 green 5
+black 2 black 2 black 1 black 2 green 5
+black 2 black 1 black 1 black 2 green 3 green 1
+black 2 black 2 black 1 black 2 green 3 green 1
+black 2 black 2 black 1 black 2 green 2 green 1
+black 2 black 3 black 2 green 1

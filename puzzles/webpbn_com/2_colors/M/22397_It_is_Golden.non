@@ -1,0 +1,67 @@
+by "Rob in Japan (rgmjp)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Rob in Japan"
+date "Jul 19, 2013"
+description "The Golden Ratio roughly 1.61803398875"
+difficulty 2.0
+height 20
+id 22397
+link "https://webpbn.com/play.cgi?id=22397"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "It is Golden"
+width 30
+
+rows
+11
+1,2
+2,1,5
+1,1,2,2
+1,1,1,1,2
+1,5,2,2,4
+1,1,1,1,2
+1,1,2,2,2
+1,3,2
+3,1,4
+0
+30
+0
+4
+2,2
+2
+2
+2
+2
+6
+
+columns
+1
+1,1,1
+9,1
+1,1
+1
+1,1
+1,1
+5,1
+1,1
+1,1
+1
+2,1
+3,1,1,1
+2,1,2,2
+2,1,1,3
+2,1,1,2,1
+3,1,4,1
+3,1,2,1
+3,1
+2,1
+1,1
+1,1
+1,4,1,1
+1,4,1,1
+1,1,1,1,1
+1,1,5,1
+1,1,3,1
+1,1
+1,1
+1,1

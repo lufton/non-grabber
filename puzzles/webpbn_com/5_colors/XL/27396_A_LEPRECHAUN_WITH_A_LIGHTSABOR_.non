@@ -1,0 +1,103 @@
+by "OrliKids (jlorli)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by OrliKids"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 40
+id 27396
+link "https://webpbn.com/play.cgi?id=27396"
+note "published,may be unique,may require moderate lookahead"
+quality 2.5
+title "A LEPRECHAUN WITH A LIGHTSABOR ?!?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+black 34 red 6
+black 31 red 9
+black 29 red 11
+black 26 red 10 green 4
+black 24 red 6 green 10
+black 23 red 7 green 10
+black 20 red 6 green 10 blue 4
+black 19 red 5 green 6 blue 10
+black 18 red 4 green 8 blue 10
+black 17 red 3 green 6 blue 10 black 4
+black 16 red 3 green 5 blue 6 black 10
+black 15 red 3 green 4 blue 8 black 10
+black 14 red 3 green 3 blue 6 black 14
+black 13 red 3 green 3 blue 5 black 16
+black 12 red 3 green 3 blue 4 black 18
+black 11 red 3 green 3 blue 3 black 20
+black 10 red 3 green 3 blue 3 black 21
+black 10 red 2 green 3 blue 3 black 22
+black 9 red 2 green 3 blue 3 black 23
+black 8 red 3 green 2 blue 3 black 24
+black 8 red 3 green 1 blue 3 black 25
+black 8 red 2 green 2 blue 3 black 25
+black 7 red 3 green 2 blue 3 black 7 black 15
+black 7 red 2 green 3 blue 3 black 7 blue 1 black 15
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 15
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 15
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 15
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 15
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 2 black 9
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 2 green 2 black 9
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 2 green 2 black 6
+black 6 red 3 green 2 blue 3 black 8 blue 1 black 2 green 4 black 1 black 6
+black 6 red 3 green 2 blue 3 black 8 black 1 black 1 black 2 black 1 black 6
+black 6 red 3 green 2 blue 3 black 8 black 1 black 2 green 1 black 6
+black 6 red 3 green 2 blue 3 black 8 black 2 green 8 black 6
+black 6 red 3 green 2 blue 3 black 8 black 1 green 2 black 6
+black 6 red 3 green 2 blue 3 black 8 green 2 black 8
+black 6 red 3 green 2 blue 3 black 11 green 1 green 1 black 8
+black 6 red 3 green 2 blue 3 black 11 black 2 black 2 black 8
+
+columns
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 25 red 15
+black 23 red 17
+black 20 red 20
+black 19 red 5 green 16
+black 17 red 5 green 18
+black 16 red 3 green 6 blue 15
+black 15 red 3 green 3 blue 19
+black 14 red 3 green 3 blue 20
+black 13 red 3 green 3 blue 6 black 15
+black 12 red 3 green 3 blue 3 black 19
+black 11 red 3 green 3 blue 3 black 20
+black 10 red 3 green 3 blue 3 black 21
+black 9 red 3 green 3 blue 3 black 22
+black 8 red 3 green 3 blue 3 black 23
+black 7 red 3 green 3 blue 3 black 24
+black 7 red 3 green 3 blue 3 black 24
+black 7 red 2 green 3 blue 3 black 8 black 2
+black 6 red 3 green 3 blue 3 black 8 blue 9 black 4 black 2
+black 5 red 3 green 3 blue 3 black 9 black 1 black 2
+black 5 red 3 green 3 blue 3 black 20 green 1
+black 4 red 3 green 3 blue 3 black 20 green 1 black 1
+black 4 red 3 green 3 blue 3 black 16 green 1 green 1 green 1 black 1
+black 4 red 3 green 3 blue 3 black 16 green 3 black 2 green 3
+black 3 red 4 green 3 blue 3 black 16 green 3 black 2 green 4 black 1
+black 3 red 2 green 3 blue 3 black 18 green 1 green 1 black 1
+black 2 red 3 green 3 blue 3 black 20 green 1
+black 2 red 3 green 3 blue 3 black 20 black 2 green 2 black 3
+black 2 red 3 green 3 blue 3 black 20 black 3
+black 1 red 4 green 3 blue 3 black 29
+black 1 red 4 green 3 blue 3 black 29
+black 1 red 3 green 3 blue 3 black 30
+black 1 red 3 green 3 blue 3 black 30
+black 1 red 3 green 3 blue 3 black 30
+black 1 red 3 green 3 blue 3 black 30

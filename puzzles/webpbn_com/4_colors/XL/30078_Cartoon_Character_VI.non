@@ -1,0 +1,109 @@
+by "Aurelian Ginkgo (AurelianGinkgo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Aurelian Ginkgo"
+date "Aug 14, 2017"
+description ""Unless someone like you cares a whole awful lot, nothing is going to get better; it's not.""
+difficulty 2.5
+height 50
+id 30078
+link "https://webpbn.com/play.cgi?id=30078"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Cartoon Character VI"
+width 37
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 12 red 3 black 20
+black 11 red 3 red 2 black 5 black 10
+black 10 red 1 red 1 red 3 red 4 black 9
+black 10 red 5 red 4 red 1 red 1 black 8
+black 12 red 2 red 9 red 1 red 1 black 8
+black 11 red 2 green 2 red 5 red 2 red 1 black 8
+black 7 red 5 red 4 green 2 red 2 black 8
+black 6 red 3 red 4 black 2 red 3 green 1 red 2 black 10
+black 5 red 2 red 2 black 4 red 5 black 7
+black 5 red 1 red 2 red 2 red 1 red 1 black 6
+black 4 red 1 red 1 red 3 red 2 red 1 red 1 red 2 black 5
+black 4 red 1 red 1 red 1 red 2 red 1 red 1 red 1 red 2 red 2 black 5
+black 4 red 1 red 1 red 1 red 1 red 1 red 1 red 2 red 1 red 1 black 4
+black 4 red 1 red 1 red 1 red 1 red 2 red 1 red 1 red 1 red 1 red 1 black 4
+black 4 red 1 red 1 red 5 red 1 red 1 red 1 red 2 black 4
+black 5 red 1 red 1 black 1 red 5 red 2 red 1 red 6 black 4
+black 5 red 1 black 3 red 1 red 4 red 2 red 1 red 1 black 4
+black 6 black 3 red 2 red 1 red 1 red 1 red 1 black 5
+black 7 red 4 red 4 red 1 red 1 black 5
+black 6 red 2 red 3 black 5
+black 5 red 2 red 5 black 4
+black 4 red 2 red 2 black 3
+black 3 red 2 red 2 black 2
+black 2 red 2 red 4 red 4 red 1 black 2
+black 1 red 2 red 2 black 2 red 1 red 1 black 2 red 2 red 2 black 1
+red 2 red 2 black 3 red 1 red 1 black 3 red 2 red 1 black 1
+red 2 red 1 black 3 red 2 red 1 black 4 red 1 red 2
+black 1 red 4 black 2 red 1 red 1 black 3 red 2 red 2
+black 2 red 4 black 1 red 1 red 1 black 2 red 2 red 2 black 1
+black 3 red 1 red 3 red 8 black 2
+black 3 red 2 red 1 red 1 red 3 black 4
+black 4 red 2 red 1 red 1 red 2 black 6
+black 5 red 3 red 3 black 7
+black 7 red 1 red 1 black 9
+black 7 red 1 red 1 black 9
+black 7 red 1 red 1 black 9
+black 7 red 1 red 2 black 9
+black 7 red 2 red 1 black 10
+black 8 red 1 red 2 black 10
+black 8 red 1 red 1 black 11
+black 8 red 2 red 2 black 11
+black 9 red 1 red 2 black 12
+black 9 red 2 red 2 black 13
+black 10 red 2 red 2 black 14
+black 11 red 2 red 3 red 2 black 15
+black 12 red 1 red 2 black 1 red 2 red 1 black 16
+black 12 red 1 red 1 black 3 red 1 red 1 black 16
+black 8 red 1 black 2 red 2 red 1 black 3 red 1 red 1 black 3 red 1 black 12
+black 8 red 4 red 2 black 3 red 7 black 12
+black 9 red 5 black 5 red 5 black 13
+
+columns
+black 25 red 2 black 23
+black 24 red 4 black 22
+black 23 red 2 red 2 black 21
+black 22 red 2 red 6 black 19
+black 10 black 6 red 2 red 2 black 1 red 2 red 2 black 18
+black 8 red 5 black 3 red 2 red 2 black 3 red 2 red 2 black 17
+black 7 red 4 black 1 red 2 red 1 black 5 red 1 red 1 black 17
+black 6 red 2 black 1 red 2 red 1 black 2 red 12 black 12
+black 6 red 1 red 5 black 2 red 1 red 4 red 4 black 6 red 2 black 1
+black 6 red 1 red 2 black 2 red 1 red 3 black 5 red 2
+black 2 black 2 red 2 black 2 red 2 red 2 black 4 red 2
+black 1 red 2 black 1 red 2 red 1 red 4 red 3 red 2 black 2 red 3
+red 1 red 4 red 1 red 1 red 4 red 1
+red 2 red 2 red 1 red 2 red 1 red 2
+red 1 red 1 green 1 red 2 red 1 red 3 red 1 red 4 black 1
+red 2 red 1 green 1 red 2 red 2 red 2 red 2 black 4
+red 1 red 2 red 1 red 2 red 1 red 1 black 5
+black 1 red 1 red 4 black 1 red 2 red 2 black 4
+black 2 red 4 black 2 red 4 red 4 black 1
+black 2 red 5 black 2 red 2 red 2
+black 2 red 6 black 1 red 4 red 2 red 6
+black 2 red 4 red 2 red 1 red 2 black 3 red 2
+black 2 red 1 green 1 red 2 red 2 red 1 red 2 black 4 red 2
+black 1 red 1 red 1 green 2 red 1 red 7 red 2 black 5 red 2
+black 1 red 1 red 2 red 1 red 1 red 2 black 5 red 2 black 1
+black 1 red 2 red 4 red 2 red 1 red 3 black 9
+black 1 red 1 red 1 red 2 red 6 red 2 red 3 black 11
+black 2 red 1 red 1 black 1 red 1 red 3 red 1 red 8 black 13
+black 3 red 1 black 1 red 1 red 3 red 2 red 7 red 1 black 17
+black 8 red 2 red 4 red 1 red 1 black 5 red 1 red 2 black 17
+black 9 red 5 red 1 red 1 black 5 red 3 black 18
+black 10 red 5 red 1 red 2 black 3 red 3 black 19
+black 12 black 3 red 2 red 2 black 1 red 4 black 19
+black 21 red 2 red 3 red 1 black 20
+black 22 red 3 red 2 black 20
+black 24 red 5 black 21
+black 26 red 2 black 22

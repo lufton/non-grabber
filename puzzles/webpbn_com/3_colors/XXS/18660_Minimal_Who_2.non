@@ -1,0 +1,31 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "May 15, 2012"
+description ""
+difficulty 1.0
+height 5
+id 18660
+link "https://webpbn.com/play.cgi?id=18660"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Minimal Who #2"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 black 2
+blue 1 black 2
+blue 1 black 3
+0
+black 3
+
+columns
+blue 3 black 1
+black 3 black 1
+black 3 black 1
+black 1
+0

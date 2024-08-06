@@ -1,0 +1,46 @@
+by "sam laughlin (frisbeekid95)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by sam laughlin"
+date "Nov  6, 2009"
+description "Awesome, super fantastical, the best puzzle you will ever do, even cooler than santa clause!"
+difficulty 1.25
+height 10
+id 7077
+link "https://webpbn.com/play.cgi?id=7077"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "SamMiya"
+width 15
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5 black 10
+blue 5 black 10
+blue 2 black 2 black 2 black 2
+blue 2 black 2 black 2 black 2
+blue 5 black 2 black 2 black 2
+blue 5 black 2 black 2 black 2
+blue 2 black 2 black 2 black 2
+blue 2 black 2 black 2 black 2
+blue 5 black 2 black 2 black 2
+blue 5 black 2 black 2 black 2
+
+columns
+blue 6 blue 2
+blue 6 blue 2
+blue 2 blue 2 blue 2
+blue 2 blue 6
+blue 2 blue 6
+black 10
+black 10
+black 2
+black 2
+black 10
+black 10
+black 2
+black 2
+black 10
+black 10

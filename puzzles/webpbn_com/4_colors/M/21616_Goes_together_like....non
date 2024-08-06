@@ -1,0 +1,62 @@
+by "Courtney (Spardog)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Courtney"
+date "Apr  7, 2013"
+description "Starfish and coffee (maple syrup and jam, butterscotch clouds and tangerines, with a side order of ham...)"
+difficulty 1.75
+height 20
+id 21616
+link "https://webpbn.com/play.cgi?id=21616"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Goes together like..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 4 blue 5
+blue 3 red 4 blue 7
+blue 5 red 2 red 1 blue 4 blue 2
+blue 6 red 2 red 1 blue 4 red 4
+blue 6 red 1 red 1 blue 3 red 2 red 2
+blue 4 red 1 red 4 red 2
+blue 1 red 1 red 2 blue 2
+red 5 red 2 blue 3
+red 3 red 2 blue 4
+red 2 red 1 blue 5
+red 4 red 2 blue 3
+blue 2 red 3 black 4
+blue 5 red 2 black 1 black 2
+blue 5 red 1 black 6 black 1
+blue 4 red 2 red 3 black 1 black 1 black 1
+blue 4 red 1 red 2 blue 1 black 1 black 1 black 1
+blue 1 red 1 red 2 blue 3 black 1 black 1 black 1
+red 1 red 1 blue 4 black 1 black 1 black 1
+red 1 red 1 blue 3 black 1 black 2
+red 3 blue 3 black 4 blue 2
+
+columns
+blue 3 red 2 blue 5
+blue 3 red 3 blue 5
+blue 4 red 1 red 1 blue 4
+blue 5 red 2 red 2 blue 5
+blue 5 red 1 red 1 blue 2 red 4
+blue 1 blue 4 red 1 red 4 red 1
+red 5 red 1 red 1
+red 2 red 1 red 2 red 1
+red 2 red 2 blue 1 red 2
+red 2 red 2 blue 3
+red 5 red 1 blue 5
+red 2 blue 2 red 1 red 1 blue 4
+red 1 blue 3 red 1 black 7 blue 1
+blue 4 red 1 red 1 black 1 black 1 black 1
+blue 4 red 2 red 3 black 1 black 1 black 1
+blue 3 red 2 red 2 blue 1 black 1 black 1 black 1
+blue 2 red 1 red 2 blue 2 black 1 black 1 black 1
+blue 2 red 1 red 2 blue 4 black 7 blue 1
+blue 3 red 3 blue 5 black 1 black 1 blue 1
+blue 2 red 1 blue 5 black 5

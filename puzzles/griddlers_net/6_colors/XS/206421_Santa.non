@@ -1,0 +1,43 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/18/20"
+height 13
+id 206421
+link "https://www.griddlers.net/nonogram/-/g/206421"
+medium_time "0:00:56"
+points 124
+popularity 78.01
+title "Santa"
+width 7
+
+color a 009999
+color b 000000
+color c ffffff
+color d ff0000
+color f cc0000
+color g ffcc99
+
+rows
+c 2
+d 1 c 2
+d 3
+d 5
+d 7
+d 1 c 5 d 1
+c 1 g 1 b 1 g 1 b 1 g 1 c 1
+c 1 g 5 c 1
+c 3 f 1 c 3
+c 7
+c 5
+c 3
+c 1
+
+columns
+d 2 c 4
+d 2 c 1 g 2 c 3
+d 3 c 1 b 1 g 1 c 4
+d 4 c 1 g 2 f 1 c 4
+c 2 d 3 c 1 b 1 g 1 c 4
+c 2 d 2 c 1 g 2 c 3
+d 2 c 4

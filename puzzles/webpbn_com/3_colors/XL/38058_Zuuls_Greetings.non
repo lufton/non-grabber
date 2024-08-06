@@ -1,0 +1,86 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Wombat"
+date "Nov 29, 2023"
+description "BOOP"
+difficulty 2.75
+height 30
+id 38058
+link "https://webpbn.com/play.cgi?id=38058"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Zuul's Greetings!"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 1 black 2
+black 1 black 2
+black 1 black 5 black 2
+black 1 black 6 black 5
+black 1 black 2 black 3 black 2 black 1
+black 1 black 2 black 2 black 4 black 4
+black 1 black 2 black 14 black 2 black 2
+black 2 black 17 black 2 black 1
+black 2 black 19 black 1
+black 2 black 14 black 2 black 1
+black 2 black 9 black 1 black 2
+black 2 black 7 black 1 black 1
+black 3 black 6 black 3 black 1 black 1
+black 3 black 4 black 2 black 4
+black 3 black 3 black 2
+black 1 black 3 black 2 black 2
+black 1 black 3 black 1 black 1
+black 1 black 3 black 1 red 1 black 1
+black 1 black 4 red 1 black 2
+black 1 red 3 black 1
+black 1 red 1 black 1
+black 2 red 1 black 2
+black 2 red 2 red 3 red 2 black 1
+black 1 red 4 red 4 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 3
+black 2 black 3
+black 9
+
+columns
+black 9
+black 1 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 1
+black 3 black 2
+black 4 black 9
+black 1 black 2 black 2 black 2
+black 2 black 2 black 2 black 3
+black 1 black 2 black 1 black 2
+black 2 black 3 black 2 red 1 black 2
+black 6 black 2 red 2 black 2
+black 7 black 2 red 1 black 2
+black 8 black 2 red 1 black 1
+black 9 black 1 red 1 red 2 black 1
+black 10 black 1 red 4 black 1
+black 13 red 1 red 2 black 1
+black 7 red 2 red 1 black 1
+black 6 red 1 black 1
+black 5 black 1 red 2 black 1
+black 4 black 2 red 1 black 2
+black 4 black 1 black 1
+black 4 black 1 black 2
+black 4 black 1
+black 4 black 2
+black 1 black 1 black 2
+black 1 black 2 black 2
+black 2 black 4 black 3
+black 2 black 2 black 3 black 4
+black 1 black 2 black 6
+black 2 black 1 black 3
+black 2 black 2 black 4
+black 8

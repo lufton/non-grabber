@@ -1,0 +1,51 @@
+by "arcadedweller"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/9/08"
+height 18
+id 61227
+link "https://www.griddlers.net/nonogram/-/g/61227"
+medium_time "0:01:05"
+points 297
+popularity 54.36
+title "Joystick"
+width 13
+
+color a ffffff
+color b cc0000
+color c 000000
+
+rows
+b 2
+b 4
+b 6
+b 6
+b 4
+b 2
+c 2
+c 2
+c 2
+c 2 b 1
+c 2 b 1
+c 2
+c 2
+c 2
+c 4
+c 6 b 2
+c 13
+c 13
+
+columns
+c 2
+c 2
+c 2
+b 2 c 3
+b 4 c 4
+b 6 c 12
+b 6 c 12
+b 4 b 2 c 4
+b 2 c 3
+c 2
+b 1 c 2
+b 1 c 2
+c 2

@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Apr 28, 2024"
+description "Clue"
+difficulty 1.25
+height 20
+id 38570
+link "https://webpbn.com/play.cgi?id=38570"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "The Classic Mystery Game"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 6 black 4 black 4
+black 1 red 4 black 1 black 1 red 2 black 1 black 1
+black 1 red 4 black 1 black 1 red 2 black 1 black 1
+black 1 red 4 black 1 black 1 red 2 black 1 black 1
+black 3 red 2 black 1 black 1 red 2 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1 black 1 black 1
+black 1 red 3 black 3 red 3 black 1 black 1 black 1
+black 3 black 1 red 9 black 1 black 1
+black 1 black 1 red 9 black 1 black 1
+black 1 black 1 red 7 black 1 black 1
+black 3 black 7 black 4
+0
+0
+
+columns
+black 1 black 1
+black 1 black 1
+black 5 black 4
+black 1 red 3 black 1
+black 1 red 3 black 9
+black 1 red 12 black 1
+black 1 red 13 black 1
+black 10 red 4 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 10 red 4 black 1
+black 1 red 13 black 1
+black 1 red 12 black 1
+black 13
+0
+black 15
+black 1 black 1
+black 1 black 1
+black 1 black 2 black 2 black 1

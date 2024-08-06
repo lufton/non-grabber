@@ -1,0 +1,105 @@
+by "Meldon"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/29/05"
+height 40
+id 20025
+link "https://www.griddlers.net/nonogram/-/g/20025"
+medium_time "0:42:03"
+points 23952
+popularity 73.72
+title "Resting Lion"
+width 40
+
+color a b2d0e3
+color b 32cc3c
+color c ac5f36
+color d dfeaf1
+color e ffb173
+color f fff3a8
+color g 00811e
+color h 000000
+
+rows
+d 4
+d 2 d 4 d 6
+d 18 d 7
+d 20 d 8
+d 20 d 8 d 2
+d 16 d 12
+d 14 d 13
+d 14
+d 3 d 13
+d 4 d 11
+d 6 d 11
+c 4 d 6 g 1 d 10
+d 1 c 10 d 6 g 3 d 7
+d 3 c 12 d 5 g 1 d 6
+d 2 c 12 d 3 g 3 g 1 g 1 d 5
+d 2 c 4 e 6 c 4 d 4 g 1 g 1 g 3 d 4
+c 3 e 1 h 2 e 2 h 2 e 1 c 3 d 3 g 1 g 2 g 3 d 2
+c 3 e 2 h 1 e 2 h 1 e 2 c 3 d 3 g 6 g 1 d 2
+c 3 e 8 c 3 g 2 g 4 d 1
+c 3 e 1 f 6 e 1 c 3 g 1 g 1 g 4 g 1
+c 3 f 2 h 4 f 2 c 3 g 2 g 5 g 1 g 1
+c 3 f 3 h 2 f 3 c 3 g 1 g 5 g 2 g 2
+g 1 c 2 f 8 c 2 e 16 g 2
+g 1 g 1 c 2 f 3 c 2 f 3 c 2 e 18 g 5
+g 5 c 3 f 6 c 3 e 8 h 1 e 10 b 4
+g 1 b 1 g 1 b 1 h 1 e 1 c 3 f 4 c 3 e 8 h 1 e 11 b 2 g 1 b 1
+g 2 b 2 h 1 e 2 c 8 e 8 h 1 e 9 h 1 e 3 b 3
+g 2 b 2 h 1 e 3 c 6 e 3 h 1 e 5 h 1 e 9 b 1 h 1 e 2 b 1 g 1 b 1
+g 1 b 3 h 1 e 5 c 2 h 5 e 6 h 1 e 8 h 1 g 1 h 1 e 2 b 3
+b 5 h 1 e 4 h 1 e 12 h 1 e 8 h 1 g 1 h 1 e 2 b 3
+b 5 h 1 e 2 h 2 e 14 h 1 e 6 h 1 g 1 b 1 h 1 e 2 b 2 g 1
+b 6 h 2 e 3 h 3 e 7 h 3 e 6 h 1 g 1 b 1 h 1 e 3 b 3
+b 2 g 1 b 2 h 1 e 4 h 1 e 3 h 1 g 2 e 2 g 1 h 1 e 8 h 1 g 2 b 1 e 3 g 2 b 2
+b 5 h 1 e 3 h 1 e 4 h 1 g 5 h 1 e 6 h 2 g 2 b 1 e 3 g 2 b 3
+b 6 h 3 b 2 e 2 h 1 g 2 b 1 g 1 b 2 g 1 h 6 g 3 b 1 c 2 e 1 g 2 b 4
+b 21 g 7 b 3 c 2 g 1 b 6
+b 2 g 1 b 4 g 1 b 9 g 1 b 8 g 1 b 3 c 2 g 1 b 4 g 1 b 2
+b 1 g 1 b 1 g 1 b 8 g 1 b 3 g 1 b 1 g 1 b 3 g 1 b 7 g 2 b 8
+b 2 g 1 b 12 g 1 b 1 g 1 b 1 g 1 b 5 g 1 b 14
+b 16 g 1 b 1 g 1 b 20 g 1
+
+columns
+d 3 d 2 g 7 b 11
+d 3 d 4 g 1 b 1 g 2 b 9 g 1 b 2
+d 3 d 1 d 1 g 2 b 6 g 1 b 3 g 1 b 1 g 1 b 1
+d 5 g 2 b 12 g 1 b 2
+d 5 c 7 g 1 h 4 b 11
+d 5 c 12 e 4 h 2 b 1 h 2 b 6
+d 5 c 14 e 5 h 1 e 2 h 1 b 5
+d 5 c 4 e 4 f 4 c 3 e 4 h 1 e 2 h 1 b 1 g 1 b 3
+d 6 c 3 e 1 h 1 e 2 f 6 c 3 e 2 h 1 e 3 h 1 b 5
+d 6 c 4 e 1 h 2 e 1 f 1 h 1 f 5 c 2 e 2 h 1 e 2 h 1 b 6
+d 6 c 4 e 4 f 1 h 2 f 1 c 1 f 2 c 3 h 1 e 2 h 1 e 1 b 6
+d 6 c 4 e 4 f 1 h 2 f 1 c 1 f 2 c 3 e 2 h 1 e 3 b 5
+d 5 c 4 e 1 h 2 e 1 f 1 h 1 f 5 c 2 h 1 e 2 h 1 e 3 b 2 g 1 b 2
+d 5 c 3 e 1 h 1 e 2 f 6 c 3 h 1 e 2 h 1 e 2 h 1 b 5
+d 5 c 4 e 4 f 4 c 3 e 1 h 1 e 3 h 2 g 1 b 5
+d 5 c 14 e 2 h 1 e 3 g 3 b 3 g 1 b 1
+d 5 c 12 e 3 h 1 e 3 g 2 b 3 g 1 b 1 g 1
+d 5 c 7 e 5 h 1 e 5 g 2 b 1 g 1 b 1 g 1 b 1
+d 4 d 3 e 11 g 1 b 3 g 1 b 1 g 1
+d 2 d 5 d 1 g 3 e 10 g 2 b 4 g 1 b 1
+d 10 g 1 e 10 h 2 g 1 b 5
+d 10 e 9 h 1 e 2 h 1 g 1 b 4
+d 10 e 9 h 1 e 2 h 1 g 1 b 1 g 1 b 2
+d 4 e 4 h 4 e 1 h 1 e 2 h 1 g 1 b 4
+g 2 g 1 e 3 h 1 e 4 h 1 e 3 h 1 g 1 b 4
+g 1 g 3 e 2 h 1 e 9 h 1 g 1 b 2 g 1 b 1
+d 3 d 1 g 4 g 2 e 12 h 1 g 2 b 3
+d 8 g 1 g 5 e 11 h 1 g 2 b 4
+d 9 g 10 e 11 h 1 g 1 b 5
+d 11 g 2 g 7 e 10 h 1 g 2 b 5
+d 12 g 2 g 3 g 1 e 9 h 1 g 2 b 2 c 1 g 1 b 2
+d 12 g 2 e 8 h 1 g 2 b 1 c 3 g 1 b 2
+d 10 g 1 e 6 h 2 g 1 b 2 e 1 c 2 g 1 b 3
+d 10 g 2 e 3 h 1 b 1 g 2 b 1 h 1 e 3 g 1 b 4
+d 10 g 1 e 4 h 4 e 3 g 1 b 5
+d 10 g 1 g 1 e 9 g 2 b 5
+d 12 g 5 b 2 e 6 g 2 b 6
+d 12 g 2 b 8 g 1 b 3 g 1 b 3
+d 13 g 1 g 1 b 1 g 1 b 1 g 1 b 12
+d 13 g 1 g 1 b 6 g 1 b 8 g 1

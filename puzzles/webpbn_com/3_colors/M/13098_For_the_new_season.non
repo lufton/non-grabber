@@ -1,0 +1,61 @@
+by "Steve LaFortune (lafor399)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Steve LaFortune"
+date "Mar 30, 2011"
+description "Go Twins!!"
+difficulty 1.5
+height 20
+id 13098
+link "https://webpbn.com/play.cgi?id=13098"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "For the new season"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 18
+blue 18
+blue 3 blue 3 blue 3
+blue 2 blue 3 blue 2
+blue 1 black 3 blue 3 black 4 blue 1
+black 4 blue 3 black 5
+black 5 blue 3 black 6
+black 4 blue 3 black 4
+black 4 blue 3 black 4
+black 4 blue 3 black 3
+black 5 blue 3
+black 4 blue 3
+black 4 blue 3 black 3
+black 4 blue 3 black 4
+black 15
+black 13
+black 11
+blue 3
+blue 3
+blue 5
+
+columns
+black 1
+black 3
+blue 5 black 5
+blue 4 black 7
+blue 3 black 9
+blue 2 black 4 black 4
+blue 2 black 4 black 4
+blue 2 black 3 black 3
+blue 2 black 3 black 3 blue 1
+blue 14 black 3 blue 3
+blue 14 black 3 blue 3
+blue 14 black 3 blue 3
+blue 2 black 3 black 3 blue 1
+blue 2 black 3 black 3
+blue 2 black 3 black 3
+blue 2 black 4 black 3
+blue 2 black 4 black 4
+blue 3 black 4 black 4
+blue 4 black 3 black 3
+blue 5 black 2 black 2

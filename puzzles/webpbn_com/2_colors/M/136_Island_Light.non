@@ -1,0 +1,62 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Dec 23, 2004"
+description "A lighthouse on an island. My dad painted hundreds of oil paintings of ships and lighthouses and this is a small tribute to him."
+difficulty 1.75
+height 20
+id 136
+link "https://webpbn.com/play.cgi?id=136"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Island Light"
+width 25
+
+rows
+2
+4
+6
+1,1
+1,1
+6
+1,1
+2,1
+1,1,1
+7,1,1
+3,3,2
+2,2,2,1
+2,8,1
+1,1,1,1,1,1,1
+6,1,1,1,7
+16
+20
+23
+19
+14
+
+columns
+1,1
+1,1
+1,3
+1,3
+1,5
+9
+2,5
+2,7
+3,5
+1,9
+1,1,5
+1,2,5
+2,1,5
+2,2,5
+1,1,3,5
+19
+3,1,1,1,5
+3,1,1,5
+19
+1,1,5
+1,3
+1,2
+1,1
+1
+1

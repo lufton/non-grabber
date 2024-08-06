@@ -1,0 +1,54 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/14/18"
+height 17
+id 189142
+link "https://www.griddlers.net/nonogram/-/g/189142"
+medium_time "0:03:19"
+points 569
+popularity 82.17
+title "Candle"
+width 15
+
+color a ffffff
+color b ffff66
+color c ff3333
+color d 339900
+color e 33ff33
+
+rows
+b 1
+b 2
+b 3
+b 3
+b 1
+c 3
+c 3
+c 3
+c 3 d 1 d 1
+c 3 d 2 e 1
+e 1 e 1 c 3 d 1 d 2 e 1
+e 3 c 3 d 3 e 4
+d 2 e 3 c 3 d 1 e 4
+d 3 c 2 d 4
+d 3 d 2 e 2 d 3
+e 2 d 4
+e 1 d 1
+
+columns
+e 1 d 1
+e 1 d 1 d 1
+e 3 d 2
+e 2 d 2
+e 1 d 1
+b 2 c 9 d 1
+b 5 c 9 d 1
+b 3 c 8 d 1 e 1
+d 4 e 3
+d 1 e 1 d 2 e 1
+d 2 e 1 d 3
+d 3 e 2 d 3
+d 1 e 3 d 1
+d 1 e 1 e 1 d 1
+e 1

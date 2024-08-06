@@ -1,0 +1,61 @@
+by "AK Thompson (mordia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by AK Thompson"
+date "Mar 27, 2018"
+description "webpbn only lets us have 2k eggs. It's probably just a Krabby, too."
+difficulty 1.75
+height 20
+id 31001
+link "https://webpbn.com/play.cgi?id=31001"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Oh?"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+blue 20
+blue 8 blue 9
+blue 7 blue 8
+blue 7 blue 8
+blue 6 blue 7
+blue 6 black 1 blue 7
+blue 5 black 2 blue 6
+blue 5 blue 6
+blue 5 black 2 blue 6
+blue 4 black 4 blue 5
+blue 4 black 4 blue 5
+blue 4 black 5 blue 5
+blue 4 black 2 black 5 blue 5
+blue 5 black 2 black 3 blue 6
+blue 5 black 3 blue 6
+blue 7 blue 8
+blue 20
+blue 20
+
+columns
+blue 20
+blue 20
+blue 20
+blue 20
+blue 11 black 1 blue 5
+blue 8 black 3 blue 3
+blue 6 black 2 blue 3
+blue 4 black 1 blue 2
+blue 3 black 2 blue 2
+blue 3 black 5 blue 2
+blue 3 black 6 blue 2
+blue 4 black 2 black 6 blue 2
+blue 6 black 1 black 4 blue 3
+blue 8 blue 3
+blue 11 blue 5
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20

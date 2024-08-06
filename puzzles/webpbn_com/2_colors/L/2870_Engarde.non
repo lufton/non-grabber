@@ -1,0 +1,77 @@
+by "Helen (elena9)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Helen"
+date "May 29, 2008"
+description "A fencing epee.....Not quite as exciting as the title makes it seem."
+difficulty 1.25
+height 40
+id 2870
+link "https://webpbn.com/play.cgi?id=2870"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Engarde!"
+width 20
+
+rows
+10,2,4
+10,2,6
+10,2,4
+10,2,6
+10,2,4
+1,1,3,2,9
+2,2,2,4
+1,1,3,2,2,1,4
+2,2,2,1,4
+1,1,3,2,2,4
+10,2,6
+10,2,6
+10,9
+10,2,4
+10,2,6
+10,2,4
+10,2,6
+10,2,4
+10,9
+10,9
+10,2,4
+10,2,6
+10,2,4
+10,2,6
+10,2,4
+10,9
+20
+8,6
+6,4
+5,3
+4,2
+4,2
+20
+10,8
+10,8
+10,8
+10,8
+10,8
+20
+20
+
+columns
+6,1,31
+5,30
+6,1,31
+5,30
+6,1,21,8
+29,8
+28,8
+5,18,8
+27,8
+27,8
+1,1,2
+27,1,2
+27,8
+1,1,2,2,8
+1,1,1,2,3,1,1,2,1,1,3,8
+1,1,1,3,1,1,2,1,1,3,8
+29,8
+30,8
+40
+40

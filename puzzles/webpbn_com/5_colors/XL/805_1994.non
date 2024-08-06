@@ -1,0 +1,93 @@
+by "Zapman (Zapman)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Zapman"
+date "Mar 20, 2007"
+description "This is the South African flag after the 1994 democratic elections."
+difficulty 1.5
+height 30
+id 805
+link "https://webpbn.com/play.cgi?id=805"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "1994"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6 red 32
+green 7 red 31
+green 8 red 30
+green 9 red 29
+green 10 red 28
+green 11 red 27
+green 11 red 26
+green 11 red 25
+black 1 green 11 red 24
+black 2 green 11 red 23
+black 3 green 11
+black 4 green 11
+black 5 green 33
+black 6 green 32
+black 7 green 31
+black 7 green 31
+black 6 green 32
+black 5 green 33
+black 4 green 11
+black 3 green 11
+black 2 green 11 blue 23
+black 1 green 11 blue 24
+green 11 blue 25
+green 11 blue 26
+green 11 blue 27
+green 10 blue 28
+green 9 blue 29
+green 8 blue 30
+green 7 blue 31
+green 6 blue 32
+
+columns
+green 6 black 14 green 6
+green 7 black 12 green 7
+green 8 black 10 green 8
+green 9 black 8 green 9
+green 10 black 6 green 10
+green 11 black 4 green 11
+green 11 black 2 green 11
+green 11 green 11
+red 1 green 11 green 11 blue 1
+red 2 green 22 blue 2
+red 3 green 20 blue 3
+red 4 green 18 blue 4
+red 5 green 16 blue 5
+red 6 green 14 blue 6
+red 7 green 12 blue 7
+red 8 green 10 blue 8
+red 9 green 8 blue 9
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10
+red 10 green 6 blue 10

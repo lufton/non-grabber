@@ -1,0 +1,45 @@
+by "Devon McCarthy (The Dev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Devon McCarthy"
+date "Dec 12, 2021"
+description "Gozarutchi from Tamagotchi"
+difficulty 1.25
+height 15
+id 35475
+link "https://webpbn.com/play.cgi?id=35475"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Ninja Tama"
+width 13
+
+rows
+1
+9
+11
+13
+2,2
+2,2,2,2
+2,2
+13
+13
+11
+2,2
+1,2,2,2
+1,5
+3
+1,1
+
+columns
+6
+8
+3,3,2
+3,1,4
+3,1,6,1
+3,3,3
+3,3,2
+3,3,4
+3,1,6
+4,1,4
+3,3,1
+8,1
+6

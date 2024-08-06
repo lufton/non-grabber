@@ -1,0 +1,57 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Wombat"
+date "Feb 12, 2024"
+description "A superb owl"
+difficulty 1.5
+height 20
+id 38249
+link "https://webpbn.com/play.cgi?id=38249"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Not a cat (belated edition)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 1 black 2 red 9 black 2 red 1
+red 2 black 11 red 2
+red 2 black 2 black 2 red 2
+red 1 black 2 black 2 red 1
+red 1 black 1 green 3 green 3 black 1 red 1
+red 1 black 1 green 1 black 1 green 1 green 1 black 1 green 1 black 1 red 1
+red 1 black 1 green 3 green 3 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 2 black 3 black 2 red 1
+red 2 black 2 black 1 black 2 red 2
+red 3 black 2 black 2 red 3
+red 2 black 11 red 2
+red 1 black 2 black 2 red 1
+red 1 black 1 black 1 red 1
+black 2 black 1 black 1 black 2
+black 1 black 2 black 2 black 1
+black 1 black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+red 1 black 2 black 2 black 2 black 2 red 1
+red 2 black 3 black 3 red 2
+
+columns
+red 14 black 4 red 2
+black 1 red 2 black 6 red 3 black 3 black 2 red 1
+black 4 black 2 red 1 black 2 black 2
+red 1 black 2 black 3 black 1
+red 1 black 1 green 3 black 2 black 2 black 2
+red 1 black 1 green 1 black 1 green 1 black 1 black 4
+red 1 black 1 green 3 black 1 black 1
+red 1 black 1 black 2 black 1
+red 1 black 1 green 3 black 1 black 1
+red 1 black 1 green 1 black 1 green 1 black 1 black 4
+red 1 black 1 green 3 black 2 black 2 black 2
+red 1 black 2 black 3 black 1
+black 4 black 2 red 1 black 2 black 2
+black 1 red 2 black 6 red 3 black 3 black 2 red 1
+red 14 black 4 red 2

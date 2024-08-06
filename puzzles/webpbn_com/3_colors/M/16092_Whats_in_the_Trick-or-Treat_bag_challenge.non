@@ -1,0 +1,61 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Oct 18, 2011"
+description "I challenge everyone to add something to this Trick-or-Treat bucket."
+difficulty 1.5
+height 20
+id 16092
+link "https://webpbn.com/play.cgi?id=16092"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "What's in the Trick-or-Treat bag challenge"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 7
+black 1 black 1
+black 2 black 1
+black 1 black 1
+black 1 red 9
+red 1 black 1 red 10
+red 1 black 1 red 5 red 3 red 2
+red 2 black 2 red 3 red 1 red 2
+red 16
+red 10 red 4
+red 6 red 2 red 1 red 1
+red 7 red 4 red 2
+red 7 red 2
+red 10
+0
+0
+0
+
+columns
+0
+0
+red 5
+red 7
+red 1 black 2 red 5
+black 4 red 1 black 1 red 6
+black 2 red 10
+black 1 red 10
+black 1 red 6 red 3
+black 1 red 3 red 2 red 2
+black 1 red 2 red 3 red 1
+black 1 red 3 red 4 red 1
+black 1 red 5 red 1 red 1
+black 2 red 3 red 1 red 1 red 1
+black 2 red 2 red 4 red 1
+red 2 red 2 red 1
+red 4 red 2
+red 5
+0
+0

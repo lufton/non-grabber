@@ -1,0 +1,66 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jul  3, 2010"
+description "coffee table"
+difficulty 1.25
+height 15
+id 9474
+link "https://webpbn.com/play.cgi?id=9474"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "on the floor"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+0
+black 19
+black 20
+black 21
+black 19 black 2
+black 19 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 blue 12 black 2 blue 1 black 2 blue 1
+black 2 blue 1 black 1 blue 13 black 2 blue 1 black 1 blue 3
+black 2 blue 15 black 2 blue 4
+blue 1 black 2 blue 15 black 2 blue 3
+blue 2 black 1 blue 16 black 1 blue 3
+blue 21
+0
+
+columns
+0
+0
+blue 1
+blue 3
+black 8 blue 1
+black 8 blue 2
+black 4 blue 5
+black 8 blue 4
+black 7 blue 5
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 5 blue 6
+black 11 blue 1
+black 10 blue 2
+black 3 blue 6
+black 8 blue 3
+black 7 blue 3
+blue 3
+blue 1
+0
+0

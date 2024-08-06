@@ -1,0 +1,53 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb 14, 2011"
+description "Sorry, Tom! I borrowed your declawed dragonish bald duck named "Sheet Lightning". The golf ball that the sea creature flipped towards the green has been in the air at slow motion speed for some time. "Sheet Lightning" has it now."
+difficulty 1.25
+height 15
+id 12223
+link "https://webpbn.com/play.cgi?id=12223"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "and then, the cat ran re # 12142 & # 12071"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10
+blue 2 blue 3
+blue 3 blue 4
+blue 3 blue 1 black 1 blue 1 black 1 blue 2
+blue 4 black 2 red 1 black 2
+blue 1 blue 1 blue 2 black 2 red 3 black 2
+black 1 red 5 black 1
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 3
+0
+0
+0
+0
+green 15
+
+columns
+blue 3 green 1
+blue 4 blue 1 green 1
+blue 1 blue 3 green 1
+blue 1 blue 3 green 1
+blue 1 blue 1 green 1
+blue 1 blue 2 green 1
+blue 1 blue 1 green 1
+blue 1 black 3 green 1
+blue 2 blue 1 black 2 red 1 black 2 green 1
+blue 3 black 2 red 3 black 2 green 1
+blue 3 red 5 black 1 green 1
+blue 1 black 2 red 3 black 2 green 1
+blue 2 black 2 red 1 black 2 green 1
+blue 1 black 3 green 1
+green 1

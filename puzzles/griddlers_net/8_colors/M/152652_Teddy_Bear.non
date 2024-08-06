@@ -1,0 +1,69 @@
+by "evengroen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/19/15"
+height 22
+id 152652
+link "https://www.griddlers.net/nonogram/-/g/152652"
+medium_time "0:13:44"
+points 6035
+popularity 81.3
+title "Teddy Bear"
+width 22
+
+color a ffffff
+color b 000000
+color c ffcc33
+color d cc9900
+color e cc6600
+color f ffff66
+color g 00ffff
+color h cc0099
+
+rows
+h 3 d 1 c 3 c 3 d 1
+h 5 c 1 d 1 c 1 d 1 c 5 d 4
+h 2 h 4 c 2 d 1 c 2 d 3 c 2 d 3
+h 2 h 5 d 2 c 2 d 5 c 2 d 2
+h 9 c 2 d 1 b 1 d 3 b 1 d 1 c 1 d 1
+h 9 d 4 f 1 b 1 f 1 d 4
+h 9 d 3 f 5 d 3
+h 8 e 2 d 1 f 2 b 1 f 2 e 1 d 1 e 1
+h 7 e 1 d 1 f 5 d 1 e 1
+h 6 e 2 f 3 e 2
+h 4 d 1 c 2 d 1 c 2
+b 1 h 1 e 1 c 2 d 1 e 2 c 1 e 1
+b 2 c 2 d 2 e 2 c 2
+b 1 c 2 e 7
+b 1 d 2 c 2 d 1 e 4 g 3
+b 1 d 3 c 2 d 3 g 6
+d 1 c 2 d 2 c 2 d 3 e 3 g 4
+d 1 c 2 d 6 e 2 c 2 e 1 g 4
+d 1 c 2 d 1 e 1 d 2 e 3 d 1 c 1 d 1 e 1 g 4
+e 1 d 2 e 1 c 1 e 3 d 2 c 3 e 1 g 4
+e 2 d 4 c 1 d 1 e 2 c 1 d 1 e 2 g 4
+e 1 c 1 d 2 e 2 e 3 g 4
+
+columns
+h 4
+h 7
+h 2 h 6 d 2 e 2
+h 2 h 7 d 1 c 2 d 1 e 2
+h 11 b 2 c 3 d 2 c 1
+h 12 b 4 c 1 d 2 e 1 d 2
+h 10 d 3 e 1 c 1 d 2
+h 8 d 5 e 1 d 1 e 1
+h 5 d 2 c 1 d 2 e 1 c 1 e 1
+d 1 c 2 d 1 c 2 d 1 e 2 d 1
+c 1 d 1 c 1 d 1 c 1 d 2 e 1 c 2 d 2 e 1 d 1 e 1
+c 2 d 1 c 2 d 2 e 2 c 2 d 2 e 2 d 1 e 1
+c 1 d 1 c 2 d 5 e 1 e 1 c 2 d 3 e 1 d 1 c 2 e 1
+c 2 d 1 b 1 d 1 f 3 e 1 d 1 c 2 e 2 d 1 e 1 c 3 d 1 e 1
+c 1 d 3 f 5 c 2 d 1 e 2 g 1 e 1 c 1 d 1 c 1 e 2
+c 1 d 3 b 1 f 1 b 1 f 2 c 1 d 2 e 2 g 1 e 5 g 1
+c 1 d 3 f 5 d 1 e 4 g 7
+c 2 d 1 b 1 d 1 f 3 e 1 c 1 e 3 g 8
+c 1 d 1 c 2 d 3 e 1 d 1 e 1 c 3 e 1 g 8
+c 1 d 2 c 2 d 3 e 1 e 1 c 1 e 1 g 7
+c 1 d 6 e 1
+d 4

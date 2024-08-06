@@ -1,0 +1,42 @@
+by "Julia Koelpin (Number_Julia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Julia Koelpin"
+date "Dec  2, 2007"
+description ""
+difficulty 1.5
+height 10
+id 1889
+link "https://webpbn.com/play.cgi?id=1889"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "Face"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6
+black 3 black 3
+black 2 black 2
+black 1 blue 1 blue 1 black 1
+black 1 black 1
+black 1 black 2 black 1
+black 1 red 1 red 1 black 1
+black 1 red 4 black 1
+black 1 black 1
+black 6
+
+columns
+black 6
+black 2 black 1
+black 2 red 1 black 1
+black 2 blue 1 red 1 black 1
+black 1 black 1 red 1 black 1
+black 1 black 1 red 1 black 1
+black 2 blue 1 red 1 black 1
+black 2 red 1 black 1
+black 2 black 1
+black 6

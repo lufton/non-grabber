@@ -1,0 +1,83 @@
+by "stijn98"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/14/10"
+height 24
+id 90244
+link "https://www.griddlers.net/nonogram/-/g/90244"
+medium_time "0:15:23"
+points 13209
+popularity 75.46
+title "Monster Truck"
+width 35
+
+color a ffffff
+color b 000000
+color c 888888
+color d ff0000
+color e 666666
+color f 33ffff
+color g 0066cc
+
+rows
+b 9
+b 1 f 1 b 1 d 3 b 1 f 2 b 1
+b 1 f 1 b 1 d 3 b 1 f 3 b 1
+b 11 d 3 b 11
+b 2 d 23 b 1
+b 2 d 22 b 3
+b 1 d 12 b 3 d 10 b 1
+b 7 d 13 b 7
+b 2 c 1 b 1 c 2 b 1 c 1 b 2 d 4 b 3 d 2 b 2 c 1 b 1 c 2 b 1 c 1 b 2
+b 1 c 9 e 1 b 1 d 7 b 1 c 9 e 1 b 1
+b 1 c 11 e 1 b 7 c 11 e 1 b 1
+b 1 c 11 e 1 b 1 g 2 b 1 g 2 b 1 c 11 e 1 b 1
+b 1 c 6 b 2 c 5 e 1 b 2 g 1 b 2 c 6 b 2 c 5 e 1 b 1
+b 2 c 4 b 1 b 1 c 4 b 2 g 3 b 2 c 4 b 1 b 1 c 4 b 2
+b 1 c 4 b 1 b 2 b 1 c 3 e 1 b 5 c 4 b 1 b 2 b 1 c 3 e 1 b 1
+b 1 c 4 b 1 b 2 b 1 c 3 e 1 b 1 g 1 b 1 g 1 b 1 c 4 b 1 b 2 b 1 c 3 e 1 b 1
+b 2 c 4 b 1 b 1 c 4 b 3 g 1 b 3 c 4 b 1 b 1 c 4 b 2
+b 1 c 6 b 2 c 5 e 1 b 5 c 6 b 2 c 5 e 1 b 1
+b 1 c 11 e 1 b 2 b 2 c 11 e 1 b 1
+b 1 e 1 c 10 e 1 b 1 b 1 e 1 c 10 e 1 b 1
+b 1 e 2 c 6 e 2 b 1 b 1 e 2 c 6 e 2 b 1
+b 2 e 1 b 1 e 2 b 1 e 1 b 2 b 2 e 1 b 1 e 2 b 1 e 1 b 2
+b 6 b 6
+b 35
+
+columns
+b 6 b 1
+b 2 c 1 b 1 c 2 b 1 c 1 b 2 b 1
+b 1 c 9 e 1 b 1 b 1
+b 1 c 11 e 1 b 1 b 1
+b 6 c 11 e 1 b 1 b 1
+b 3 d 1 b 1 c 6 b 2 c 5 e 1 b 2
+b 1 d 3 b 2 c 4 b 1 b 1 c 4 b 3
+b 1 d 3 b 1 c 4 b 1 b 2 b 1 c 3 e 1 b 2
+b 1 d 3 b 1 c 4 b 1 b 2 b 1 c 3 e 1 b 2
+b 1 d 3 b 2 c 4 b 1 b 1 c 4 b 3
+b 1 d 3 b 1 c 6 b 2 c 5 e 1 b 2
+b 1 d 4 b 1 c 11 e 1 b 1 b 1
+b 4 d 4 b 1 e 1 c 10 e 1 b 1 b 1
+b 1 f 2 b 1 d 5 b 1 e 2 c 6 e 2 b 1 b 1
+b 4 d 6 b 2 e 1 b 1 e 2 b 1 e 1 b 2 b 1
+b 1 d 9 b 1 g 1 b 7 b 1
+b 1 d 9 b 1 g 1 b 1 g 1 b 1 g 1 b 2 b 1
+b 1 d 5 b 1 d 1 b 1 d 1 b 2 g 2 b 2 g 1 b 1 b 1
+b 4 d 2 b 1 d 1 b 1 d 1 b 1 g 1 b 1 g 1 b 1 g 1 b 2 b 1
+b 1 f 2 b 1 d 2 b 1 d 1 b 1 d 1 b 1 g 1 b 7 b 1
+b 1 f 2 b 1 d 6 b 2 c 1 b 1 c 2 b 1 c 1 b 2 b 1
+b 1 f 1 b 1 d 5 b 1 c 9 e 1 b 1 b 1
+b 2 d 4 b 1 c 11 e 1 b 1 b 1
+b 1 d 4 b 1 c 11 e 1 b 1 b 1
+b 1 d 3 b 1 c 6 b 2 c 5 e 1 b 2
+b 1 d 3 b 2 c 4 b 1 b 1 c 4 b 3
+b 1 d 3 b 1 c 4 b 1 b 2 b 1 c 3 e 1 b 2
+b 1 d 3 b 1 c 4 b 1 b 2 b 1 c 3 e 1 b 2
+b 1 d 1 b 1 d 1 b 2 c 4 b 1 b 1 c 4 b 3
+b 2 d 1 b 1 c 6 b 2 c 5 e 1 b 2
+b 4 c 11 e 1 b 1 b 1
+b 1 e 1 c 10 e 1 b 1 b 1
+b 1 e 2 c 6 e 2 b 1 b 1
+b 2 e 1 b 1 e 2 b 1 e 1 b 2 b 1
+b 6 b 1

@@ -1,0 +1,52 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/15/16"
+height 15
+id 179016
+link "https://www.griddlers.net/nonogram/-/g/179016"
+medium_time "0:04:01"
+points 869
+popularity 76.81
+title "Cockerel on the Fence"
+width 15
+
+color a ffffff
+color b ffcc00
+color c 0099ff
+color d cc0000
+color e 33ff33
+
+rows
+d 1 b 1
+d 2
+b 2 d 3
+b 1 c 1 b 2 d 1 d 1
+d 1 b 5 d 1 d 2
+b 8 d 1 d 1
+d 2 b 2 d 2 b 4 d 1
+d 1 b 2 d 3 b 2
+b 6
+b 4
+c 2 c 2 c 2 c 2
+c 15
+c 2 c 2 c 2 c 2
+c 2 e 1 c 2 e 1 c 2 c 2
+e 1 c 2 e 2 c 2 e 2 c 2 e 2 c 2
+
+columns
+c 1 e 1
+d 1 d 1 c 5
+b 3 d 2 c 5
+b 1 c 1 b 5 c 1 e 2
+d 2 b 8 c 1 e 1
+d 1 b 3 d 2 b 2 c 5
+b 1 b 2 d 2 b 2 c 5
+b 2 d 1 b 2 c 1 e 1
+b 4 c 1 e 2
+b 3 c 5
+d 2 b 1 c 5
+d 1 d 2 c 1 e 1
+d 1 d 1 c 1 e 1
+d 1 d 1 c 5
+d 1 d 1 c 5

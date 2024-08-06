@@ -1,0 +1,69 @@
+by "mickeybabydoll"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/26/05"
+height 23
+id 27367
+link "https://www.griddlers.net/nonogram/-/g/27367"
+medium_time "0:04:10"
+points 6572
+popularity 66.05
+title "Tetris"
+width 22
+
+color a 000099
+color b 000000
+color c ff0000
+color d ffff00
+color e 00ffff
+color f 00ff00
+color g ff00ff
+
+rows
+b 7
+b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1
+b 7
+b 1 c 2 b 1 b 4
+b 1 c 2 b 1 b 1 d 2 b 1
+b 4 b 1 d 2 b 1
+b 1 c 2 b 1 b 4
+b 1 c 2 b 1 b 1 d 2 b 1
+b 4 b 1 d 2 b 1
+b 13
+b 1 d 2 b 1 e 2 b 1 e 2 b 1 d 2 b 1
+b 1 d 2 b 1 e 2 b 1 e 2 b 1 d 2 b 1
+b 13
+b 1 d 2 b 1 e 2 b 1 e 2 b 1 d 2 b 1
+b 1 d 2 b 1 e 2 b 1 e 2 b 1 d 2 b 1
+b 16
+b 1 f 2 b 1 d 2 b 1 g 2 b 1 g 2 b 1 g 2 b 1
+b 1 f 2 b 1 d 2 b 1 g 2 b 1 g 2 b 1 g 2 b 1
+b 22
+b 1 f 2 b 1 f 2 b 1 f 2 b 1 d 2 b 1 b 1 g 2 b 1
+b 1 f 2 b 1 f 2 b 1 f 2 b 1 d 2 b 1 b 1 g 2 b 1
+b 13 b 4
+
+columns
+b 4
+b 1 f 2 b 1
+b 10 b 1 f 2 b 1
+b 1 c 2 b 1 c 2 b 1 c 2 b 1 b 4
+b 1 c 2 b 1 c 2 b 1 c 2 b 1 b 1 f 2 b 1
+b 10 b 1 f 2 b 1
+b 1 c 2 b 1 b 7
+b 1 c 2 b 1 b 1 f 2 b 1 f 2 b 1
+b 4 b 1 f 2 b 1 f 2 b 1
+b 13
+b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1
+b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1
+b 13
+b 1 e 2 b 1 e 2 b 1 g 2 b 1
+b 1 e 2 b 1 e 2 b 1 g 2 b 1
+b 13
+b 1 e 2 b 1 e 2 b 1 g 2 b 1 g 2 b 1
+b 1 e 2 b 1 e 2 b 1 g 2 b 1 g 2 b 1
+b 19
+b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 g 2 b 1
+b 1 d 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 g 2 b 1
+b 16

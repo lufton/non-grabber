@@ -1,0 +1,61 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by ant"
+date "Mar 24, 2011"
+description "a plane circling towards the runway. please return your seat backs to their full upright position."
+difficulty 2.25
+height 20
+id 9987
+link "https://webpbn.com/play.cgi?id=9987"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "bank on it"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 blue 4 blue 3
+black 2 blue 2 blue 5
+black 1 blue 5 blue 6
+black 4 blue 11
+black 4 blue 6
+black 1 blue 1 black 2 blue 2
+black 6 black 3 blue 3
+black 5 black 2 blue 6
+black 1 black 1 black 2 black 1 blue 5
+black 5 black 2 blue 5
+black 1 black 2 black 2 black 1 blue 2
+black 2 black 2 black 1 black 1 blue 1
+black 2 black 2 black 1 black 1 blue 1
+black 2 black 2 black 1 black 1 blue 2
+black 2 black 2 black 3 black 1 blue 3
+black 2 black 2 black 1 black 1 blue 3
+black 2 black 1 black 1 black 1 blue 3
+black 2 black 1 black 1 black 2 blue 1
+black 2 black 1 black 1 black 1 blue 1
+black 4 black 1 black 1
+
+columns
+black 1 black 1 black 4
+blue 1 black 1 black 1 black 1 black 2
+blue 1 black 2 black 1 black 1 black 2
+blue 3 black 1 black 1 black 1 black 2
+blue 3 black 1 black 1 black 2 black 2
+blue 1 black 1 black 3 black 2 black 2
+blue 1 black 1 black 1 black 2 black 2
+blue 2 black 1 black 1 black 2 black 2
+blue 1 black 1 black 1 black 2 black 2
+blue 1 black 1 black 2 black 2 black 1
+blue 1 black 1 black 2 black 5
+blue 2 black 1 black 2 black 1 black 1
+blue 3 black 2 black 5
+blue 2 black 3 black 6
+blue 3 black 2 blue 1 black 1
+blue 9 black 3
+blue 12 black 4
+blue 4 blue 5 blue 4 black 1
+blue 3 blue 3 blue 4 black 2
+blue 3 blue 3 blue 5 black 1

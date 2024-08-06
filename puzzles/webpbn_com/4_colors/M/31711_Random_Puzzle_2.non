@@ -1,0 +1,62 @@
+by "Allie Blake (Lil' Squish)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Allie Blake"
+date "Oct 24, 2018"
+description "It's an apple!"
+difficulty 1.25
+height 20
+id 31711
+link "https://webpbn.com/play.cgi?id=31711"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Random Puzzle #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+0
+black 2 green 2
+black 3 green 3
+black 2 green 3
+black 3 green 2
+black 3
+black 2
+red 4
+red 6
+red 8
+red 10
+red 10
+red 10
+red 10
+red 8
+red 6
+red 4
+
+columns
+0
+0
+0
+0
+0
+red 4
+red 6
+red 8
+red 10
+black 2 red 10
+black 3 red 10
+black 5 red 10
+black 4 red 8
+black 1 green 2 red 6
+green 3 red 4
+green 3
+green 2
+0
+0
+0

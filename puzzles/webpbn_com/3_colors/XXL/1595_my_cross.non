@@ -1,0 +1,121 @@
+by "Travis Rusin (tapsrat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Travis Rusin"
+date "Oct 12, 2007"
+description "A cross design I came up with in high school."
+difficulty 1.75
+height 60
+id 1595
+link "https://webpbn.com/play.cgi?id=1595"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "my cross"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 8
+red 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 7 red 1
+black 6 red 2
+black 5 red 3
+black 4 red 2 red 1
+black 3 red 2 red 1
+black 2 red 2 red 1
+black 1 red 2 red 1
+red 2 red 1
+red 2 black 13 red 17 black 6 red 2
+red 2 black 12 red 3 red 2 red 1 red 2 black 7 red 2
+red 2 black 11 red 2 red 1 red 2 red 1 red 2 black 8 red 2
+red 2 black 10 red 2 red 8 red 2 black 9 red 2
+red 2 black 9 red 2 red 8 red 2 black 10 red 2
+red 2 black 8 red 2 red 1 red 2 red 1 red 2 black 11 red 2
+red 2 black 7 red 2 red 1 red 2 red 3 black 12 red 2
+red 2 black 6 red 17 black 13 red 2
+red 1 red 2
+red 1 red 2 black 1
+red 1 red 2 black 2
+red 1 red 2 black 3
+red 1 red 2 black 4
+red 3 black 5
+red 2 black 6
+red 1 black 7
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+red 8
+red 8
+black 8
+black 8
+red 8
+red 8
+
+columns
+red 8
+red 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+black 7 red 1
+black 6 red 2
+black 5 red 3
+black 4 red 2 red 1
+black 3 red 2 red 1
+black 2 red 2 red 1
+black 1 red 2 red 1
+red 2 red 1
+red 2 black 13 red 17 black 22 red 2 black 2 red 2
+red 2 black 12 red 3 red 2 red 1 red 2 black 23 red 2 black 2 red 2
+red 2 black 11 red 2 red 1 red 2 red 1 red 2 black 24 red 2 black 2 red 2
+red 2 black 10 red 2 red 8 red 2 black 25 red 2 black 2 red 2
+red 2 black 9 red 2 red 8 red 2 black 26 red 2 black 2 red 2
+red 2 black 8 red 2 red 1 red 2 red 1 red 2 black 27 red 2 black 2 red 2
+red 2 black 7 red 2 red 1 red 2 red 3 black 28 red 2 black 2 red 2
+red 2 black 6 red 17 black 29 red 2 black 2 red 2
+red 1 red 2
+red 1 red 2 black 1
+red 1 red 2 black 2
+red 1 red 2 black 3
+red 1 red 2 black 4
+red 3 black 5
+red 2 black 6
+red 1 black 7
+black 8
+black 8
+black 8
+black 8
+black 8
+black 8
+red 8
+red 8

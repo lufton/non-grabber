@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Feb 28, 2012"
+description "Darn kids playing with their toy sub in the toilet...wait a minute didn't we have cabbage rolls for dinner last night."
+difficulty 2.75
+height 30
+id 17714
+link "https://webpbn.com/play.cgi?id=17714"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Enemy Approaching."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 7
+black 1 red 1 black 1 black 12
+black 2 red 1 green 2 black 2 black 1 black 1
+black 2 green 1 black 1 green 2 black 3 black 1 black 6 black 1
+black 2 green 2 black 1 green 2 black 4 black 1 black 1 black 1 black 1
+black 2 green 4 black 3 black 1 black 4 black 4
+black 2 green 3 black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 1 black 1 black 1
+black 8 black 1 black 1 black 1 black 1 black 1
+black 7 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 6 black 2
+black 1 black 3 black 1 black 1 black 1
+black 1 black 4 black 2 black 1 black 1
+black 1 black 1 black 1 black 6
+black 1 black 1 black 2 black 1
+black 1 black 1 black 10 black 1
+black 1 black 1 black 4 black 3 black 1
+black 1 black 1 black 4 black 5 black 2 black 1
+black 1 black 5 black 2 blue 1 green 2 blue 1 black 2 black 2 black 1
+black 1 black 4 black 2 blue 2 green 1 blue 3 black 2 black 1 black 1
+black 8 black 1 blue 2 green 3 blue 3 black 2 black 1 black 1
+black 2 black 3 black 1 green 7 black 2 black 1 black 1
+black 3 black 1 black 8 black 2 black 1
+black 3 black 2 black 3 black 1
+black 2 black 11 black 1 black 1
+black 2 black 4 black 2 black 1
+black 1 black 2 black 2 black 1 red 3
+black 4 black 2 black 2 red 5
+black 1 black 3 black 2 red 5
+black 4 black 2 black 5 red 7
+
+columns
+black 15
+black 2 black 2 black 1
+black 2 black 2 black 3
+black 2 black 2 black 1 black 4
+black 2 green 3 black 2 black 1 black 1 black 2
+black 2 green 4 black 13 black 2
+black 1 red 2 black 2 green 2 black 3 black 2 black 4 black 2 black 1
+black 1 green 4 black 3 black 1 black 5 black 3 black 1
+black 1 green 3 black 3 black 4 black 3 black 3
+black 1 black 3 black 4 black 2 black 1 black 1
+black 1 black 3 black 4 black 3 black 1 black 2
+black 1 black 3 black 5 black 2 blue 1 green 1 black 1 black 3 black 1
+black 13 black 1 black 2 blue 2 green 1 black 1 black 2 black 2
+black 1 black 1 blue 2 green 2 black 1 black 2 black 1
+black 1 black 1 green 4 black 1 black 5
+black 10 black 1 black 1 green 1 blue 1 green 2 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 blue 3 green 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 blue 2 green 1 black 1 black 1 black 1
+black 1 black 5 black 1 black 2 black 2 blue 1 black 2 black 1 black 2
+black 1 black 1 black 3 black 1 black 3 black 2 black 3
+black 1 black 1 black 4 black 2 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 2 black 4 black 1
+black 1 black 1 black 1 black 5
+black 1 black 5 black 1 red 1
+black 1 black 1 black 2 black 1 red 3
+black 1 black 1 black 5 red 4
+black 10 black 12 red 4
+red 4
+red 3
+red 1

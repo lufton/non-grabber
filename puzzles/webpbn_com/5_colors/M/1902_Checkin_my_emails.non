@@ -1,0 +1,60 @@
+by "Alaris Zaaqurin (Zephyr)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Alaris Zaaqurin"
+date "Nov 27, 2007"
+description "It's Strongbad! Our favorite email-checking, Cheat-loving, Homestar-pranking animated character."
+difficulty 1.75
+height 20
+id 1902
+link "https://webpbn.com/play.cgi?id=1902"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Checkin' my emails"
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 7
+red 9
+red 1 black 1 red 1 red 3 red 1 black 1 red 1
+red 1 black 2 blue 3 black 2 red 1
+red 1 black 3 blue 5 black 3 red 1
+red 1 black 3 blue 5 black 3 red 2
+red 2 black 3 blue 3 black 4 red 1
+red 1 black 3 green 2 blue 1 green 2 black 3 red 1
+red 1 black 3 green 2 blue 1 green 2 black 3 red 1
+red 1 black 6 black 6 red 1
+red 1 black 7 black 7 red 1
+red 1 black 15 red 1
+red 1 black 3 red 9 black 3 red 1
+red 1 black 2 red 2 red 2 black 2 red 2
+red 2 black 1 red 1 red 1 black 1 red 2
+red 3 red 3
+red 2 red 5 red 2
+red 9
+red 7
+red 5
+
+columns
+red 7
+red 3 black 6 red 2
+red 1 black 10 red 2
+red 1 black 12 red 2
+red 1 black 5 green 2 black 3 red 6
+red 3 green 2 black 3 red 2 red 2
+red 2 blue 2 black 3 red 1 red 4
+red 3 blue 4 black 2 red 1 red 4
+red 3 blue 6 black 1 red 1 red 4
+red 3 blue 4 black 2 red 1 red 4
+red 2 blue 2 black 3 red 1 red 4
+red 3 green 2 black 3 red 2 red 2
+red 1 black 5 green 2 black 3 red 6
+red 1 black 12 red 2
+red 1 black 10 red 2
+red 2 black 7 red 2
+red 9

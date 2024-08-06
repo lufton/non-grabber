@@ -1,0 +1,55 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by valerie o..travis"
+date "Jan 23, 2011"
+description "tears of a clown"
+difficulty 1.5
+height 19
+id 11868
+link "https://webpbn.com/play.cgi?id=11868"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "WCP #76...water works"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4
+green 1 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 1 blue 2 green 1
+green 8 red 3
+black 1 red 2 red 2
+red 4 red 1
+black 1 red 6
+red 5
+black 1 red 3
+
+columns
+green 12
+green 1 green 1 black 1 black 1 black 1
+green 1 green 1
+green 1 blue 11 green 1
+green 1 blue 11 green 1
+green 1 green 1
+green 1 green 1
+green 12 red 2
+red 4
+red 6
+red 1 red 4
+red 2 red 3
+red 4

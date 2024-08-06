@@ -1,0 +1,63 @@
+by "astl_thomas"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/20/05"
+height 20
+id 24316
+link "https://www.griddlers.net/nonogram/-/g/24316"
+medium_time "0:03:23"
+points 704
+popularity 54.92
+title "Road Sign"
+width 20
+
+color a 00ff00
+color b ff0000
+color c ffffff
+color e 00ffff
+color g 808080
+color h 000000
+
+rows
+e 14 c 2 e 4
+e 12 c 5 e 3
+e 6 b 3 e 2 c 7 e 2
+e 5 b 1 c 3 b 1 e 1 c 7 e 2
+e 4 b 1 c 5 b 1 e 1 c 2 e 1 c 2 e 3
+e 4 b 1 c 5 b 1 e 9
+b 1 c 5 b 1
+b 1 c 3 b 1
+b 3
+h 1 g 1
+h 1 g 2
+h 1 g 3
+h 1 g 4
+h 1 g 5
+g 5 c 1
+g 5 c 2
+g 5 c 2 g 1
+g 5 c 2 g 2
+g 5 c 2 g 3
+g 5 c 2 g 4
+
+columns
+e 6
+e 6
+e 6
+e 6
+e 4 b 3
+e 3 b 1 c 3 b 1
+e 2 b 1 c 5 b 1
+e 2 b 1 c 5 b 1 h 5
+e 2 b 1 c 5 b 1
+e 3 b 1 c 3 b 1 g 1
+e 4 b 3 g 2
+e 2 c 2 e 2 g 3
+e 1 c 4 e 1 g 4
+e 1 c 4 e 1 g 5
+c 4 e 2 g 5 c 1
+c 5 e 1 g 5 c 2
+e 1 c 4 e 1 g 5 c 2 g 1
+e 2 c 2 e 2 g 5 c 2 g 2
+e 6 g 5 c 2 g 3
+e 6 g 5 c 2 g 4

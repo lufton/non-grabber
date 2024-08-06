@@ -1,0 +1,31 @@
+by "deen (barbaradeen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by deen"
+date "Dec 15, 2010"
+description "Deen :)"
+difficulty 1.0
+height 5
+id 11405
+link "https://webpbn.com/play.cgi?id=11405"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "my quilt square!"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 4
+
+columns
+black 5
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 3

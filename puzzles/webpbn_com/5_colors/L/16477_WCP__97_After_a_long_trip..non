@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Nov 22, 2011"
+description "Ahh cheers Fitz. Cheers to you to pal. Nothing like a nice cold beer after that long trip to get groceries.You got that right,but i'm the one doing most of the work,i have to pull the sled with all the groceries and your not so small butt too. Don't you think i deserve to have my brand of beer once in awhile. I'll consider it Fitz,but you consider this. I'm the one with the money,and if i hear to much complaining from you,i might just think about getting one of those jet powered sleds we see all the time. This is 2020 you know and those things are getting cheaper all the time. Wow,i'm deeply hurt,and to think all this time I thought you actually cared and loved me. Ah stop being such a little girl Fitz,you know i love you,now let's flip a coin to see who's gonna get the potato chips. Nah i'll get them,i need to go in to wipe the tears off my fur anyways, before they freeze up. Oh for heavens sake ok,next case i'll get your brand. Thanks buddy. Your welcome pal,now drink up,the beers getting warm."
+difficulty 2.5
+height 30
+id 16477
+link "https://webpbn.com/play.cgi?id=16477"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP # 97 After a long trip."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 blue 2 black 4 blue 2
+blue 1 blue 3 blue 2 black 6 blue 1
+blue 3 blue 1 black 2 black 2
+blue 2 black 1 blue 2 blue 2 black 2 black 2
+blue 2 black 3 blue 2 blue 1 black 2 black 1 black 1 black 2
+blue 2 black 2 black 2 blue 2 blue 2 black 2 red 1 black 1 red 1 black 1 red 1 black 2
+blue 1 black 2 black 2 blue 1 blue 1 black 2 red 5 black 2
+black 2 black 1 black 1 black 2 blue 1 black 1 red 7 black 1
+black 2 black 2 blue 1 black 1 black 1 black 1 black 1
+black 3 red 1 black 3 blue 1 black 1 black 1 blue 1 blue 1 black 2 black 1
+red 1 black 3 black 3 red 1 blue 1 black 1 black 1 black 1 black 1
+red 2 black 5 red 2 blue 1 green 1 black 1 green 1 black 1 black 1 black 2 black 1
+green 1 red 3 black 1 red 3 green 1 blue 2 green 1 blue 2 green 1 blue 1 black 1 black 2 blue 3
+blue 2 red 5 blue 2 green 1 green 1 black 2 red 1 black 1
+blue 3 blue 3 green 6 red 1 black 3
+blue 4 blue 4 green 6 green 1 black 1 black 1 green 3
+blue 3 green 1 blue 1 blue 1 green 1 blue 2 black 2 green 3 black 4 black 2 green 2
+blue 2 green 1 blue 1 blue 1 green 1 blue 1 black 1 green 5 black 2 black 2 green 1
+black 2 green 1 blue 1 blue 1 green 1 green 6 black 1 black 3
+black 1 green 2 red 9 green 2 black 1 black 1 green 1 black 2
+green 3 red 9 green 3 green 3 black 1 black 1 green 4
+green 1 black 2 blue 6 black 2 green 1 black 4 black 3 green 1
+black 3 blue 4 black 3 black 2 black 5 black 2
+black 4 blue 2 black 4 black 1 black 3 black 1
+green 1 black 3 green 2 black 3 green 7 black 1 black 2 green 1 black 2 black 1 green 1
+green 2 black 2 green 2 black 2 green 3 red 2 green 1 red 2 green 1 black 2 green 3 black 2 green 2
+green 11 red 1 green 1 red 1 green 1 red 1 green 10
+black 1 black 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 1 black 1
+green 1 red 1 green 3 red 1 green 1
+green 7
+
+columns
+blue 2 black 2 green 1
+blue 3 black 1 green 2
+blue 3 green 3
+blue 2 blue 2 black 3 red 2 green 1 blue 3 green 3 red 2 black 3 green 3
+blue 1 blue 2 black 5 red 2 blue 6 red 2 black 4 green 2 black 1
+blue 2 blue 2 black 2 black 3 red 2 red 2 blue 1 black 4 green 1
+blue 3 black 2 black 1 black 2 red 2 red 2 blue 2 black 3 green 1
+blue 2 black 2 red 1 black 2 red 1 red 2 blue 3 green 3
+blue 2 black 2 black 1 black 2 red 2 red 2 blue 3 green 3
+blue 2 black 2 black 3 red 2 red 2 blue 2 black 3 green 1
+blue 2 black 5 red 2 blue 6 red 2 blue 1 black 4 green 1
+blue 2 black 3 red 2 green 1 blue 3 green 3 red 2 black 4 green 2 black 1
+blue 3 green 2 black 3 green 3
+blue 8 blue 3 green 3 green 6
+blue 3 blue 1 green 2 black 2 green 1 green 1 green 1 red 4 green 1
+blue 3 green 5 black 1 green 2 green 1 red 1 green 4
+blue 2 black 7 blue 1 green 5 green 2 red 2 green 2
+blue 1 black 3 blue 1 green 5 green 1 red 1 green 4
+black 2 green 8 green 1 black 2 green 1 red 4 green 1
+black 2 blue 1 green 2 black 1 green 2 green 1 black 2 black 1 green 5
+black 2 red 1 black 5 black 2 green 1 black 1 black 1 green 1
+black 2 red 1 black 1 black 1 green 1 black 7 black 2 green 1 black 1
+black 2 red 3 blue 1 black 1 red 2 black 2 black 4 green 2
+black 2 black 2 red 2 black 1 black 2 green 3
+black 2 red 3 blue 1 black 3 black 3 green 2
+black 2 black 2 red 2 black 3 green 1 black 7 black 2 green 1
+black 2 red 3 black 2 black 2 green 2 black 2 green 2 black 1 black 1 green 1
+black 2 black 3 blue 1 green 3 black 2 green 1 black 2 black 1 green 2 black 1
+blue 1 black 3 blue 1 black 1 green 2 black 2 green 3
+blue 2 black 7 blue 1 green 1

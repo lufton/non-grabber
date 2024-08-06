@@ -1,0 +1,41 @@
+by "Allie Blake (Lil' Squish)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Allie Blake"
+date "Nov 18, 2018"
+description "If you stare at the cylinder, it will appear to change the direction it is going."
+difficulty 1.5
+height 10
+id 31800
+link "https://webpbn.com/play.cgi?id=31800"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Cool Illusions! #1"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2
+black 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2 black 1
+black 2 black 2
+black 1 black 1
+black 2
+
+columns
+0
+black 6
+black 1 blue 1 black 2
+black 1 blue 1 black 1 black 1
+black 1 blue 1 black 1 black 1
+black 1 blue 1 black 2
+black 6
+0
+0
+0

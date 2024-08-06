@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Oct  7, 2021"
+description "Variety: This one type among many types"
+difficulty 1.5
+height 20
+id 35394
+link "https://webpbn.com/play.cgi?id=35394"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Contronym 15"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 20
+red 2 black 1 green 2 black 1
+red 2 red 2 black 1 green 4 black 1 green 2 green 1 red 1
+red 2 red 2 black 1 green 2 black 1 red 1 green 1 red 1 green 1
+red 4 black 1 green 2 green 2 black 1 green 1 red 1
+red 2 red 2 black 1 green 2 green 2 black 1 red 1 green 1 red 1 green 1
+red 2 black 1 black 1 red 2
+black 20
+red 3
+red 5 black 1
+red 2 black 1 green 1 red 1 black 1
+red 2 black 2 red 1 green 1 black 1
+red 1 black 2 black 3
+black 3 green 2
+black 2 green 2
+green 8
+green 8
+green 4
+green 4
+green 4
+
+columns
+black 1 red 2 red 2 black 1
+black 1 red 6 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 red 4 black 1 red 4 black 2 green 5
+black 1 red 2 black 1 red 4 black 3 green 5
+black 8 red 2 black 4 green 5
+black 1 green 2 black 1 red 2 black 1 green 5
+black 1 green 2 green 2 black 1 red 1 green 2
+black 1 green 4 black 1 green 1 red 1 black 1 green 2
+black 1 green 2 black 1 black 1 red 1 green 1 black 1 green 4
+black 1 green 2 black 1 black 3 green 4
+black 1 green 2 black 1
+black 8
+black 1 green 1 red 1 black 1
+black 1 green 2 red 2 black 1
+black 1 green 1 red 1 black 1
+black 1 green 1 red 1 black 1
+black 1 green 1 red 2 green 1 black 1
+black 1 red 1 green 1 black 1

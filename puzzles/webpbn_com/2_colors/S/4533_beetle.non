@@ -1,0 +1,47 @@
+by "shay yatim (shay3979)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by shay yatim"
+date "Feb  4, 2009"
+description ""
+difficulty 2.0
+height 15
+id 4533
+link "https://webpbn.com/play.cgi?id=4533"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "beetle"
+width 15
+
+rows
+0
+5
+1,2,3,2,1
+13
+1,5,1
+1,1,1
+1,2,1,2,1
+1,2,1,2,2
+1,1,1
+1,2,1,2,1
+1,2,1,2,1
+2,1,2
+1,2,1,2,1
+5
+0
+
+columns
+1,1
+1,5,1
+2,2
+2,2,1
+2,2,2,1
+1,2,2,1
+4,1
+13
+4,1
+1,2,2,1
+2,2,2,1
+2,2,1
+2,2
+1,5,1
+1,1,1

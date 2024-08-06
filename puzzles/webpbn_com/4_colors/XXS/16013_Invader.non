@@ -1,0 +1,32 @@
+by "Taren Klaupert (Taren)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Taren Klaupert"
+date "Oct 11, 2011"
+description "Space invader.."
+difficulty 1.0
+height 5
+id 16013
+link "https://webpbn.com/play.cgi?id=16013"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Invader"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 1 blue 1 blue 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+red 1 red 1
+
+columns
+black 2 red 1
+black 1 blue 1 black 1
+black 1 black 1
+black 1 blue 1 black 1
+black 2 red 1

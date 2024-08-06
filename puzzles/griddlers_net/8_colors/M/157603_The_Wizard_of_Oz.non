@@ -1,0 +1,64 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/20/15"
+height 24
+id 157603
+link "https://www.griddlers.net/nonogram/-/g/157603"
+medium_time "0:03:53"
+points 1052
+popularity 75.55
+title "The Wizard of Oz"
+width 15
+
+color a ccffcc
+color b 999999
+color c ff9966
+color d ff66cc
+color e 333333
+color f ffffff
+color g 006600
+color h 666666
+
+rows
+b 3
+b 5
+b 2 c 1 b 1 c 1 b 2
+b 1 c 5 b 1
+b 1 e 1 c 3 e 1 b 1
+b 1 d 1 c 3 d 1 b 1
+b 3 c 3 b 3
+b 2 c 1 b 2
+e 2 f 1 g 1 f 1 e 2
+e 3 g 1 f 1 g 1 e 3
+e 2 e 1 f 3 e 1 e 2
+e 2 e 1 g 1 f 1 g 1 e 1 e 2
+c 1 e 1 e 1 g 3 e 1 e 1 c 1
+e 1 g 3 e 1
+e 2 h 3 e 2
+e 2 h 5 e 2
+e 3 h 5 e 3
+e 3 h 2 e 1 h 2 e 3
+e 2 h 2 e 1 h 2 e 2
+e 1 h 2 e 1 h 2 e 1
+h 2 h 2
+h 2 h 2
+e 2 e 2
+e 3 e 3
+
+columns
+c 1
+e 2
+e 2 e 2
+b 1 e 2 e 4
+b 5 e 2 e 6 e 1
+b 2 c 1 e 1 d 1 b 2 e 7 h 7 e 2
+b 2 c 5 b 1 f 1 g 1 f 1 g 3 h 8 e 2
+b 3 c 5 g 1 f 3 g 2 h 3 e 3
+b 2 c 5 b 1 f 1 g 1 f 1 g 3 h 8 e 2
+b 2 c 1 e 1 d 1 b 2 e 7 h 7 e 2
+b 5 e 2 e 6 e 1
+b 1 e 2 e 4
+e 2 e 2
+e 2
+c 1

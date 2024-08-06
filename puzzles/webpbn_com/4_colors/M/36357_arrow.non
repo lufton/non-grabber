@@ -1,0 +1,62 @@
+by "Ian (JustASillyDuck)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Ian"
+date "Jan 17, 2023"
+description "easy right?"
+difficulty 1.0
+height 20
+id 36357
+link "https://webpbn.com/play.cgi?id=36357"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "arrow"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 blue 6 black 1 red 12
+black 1 blue 6 black 1 red 11
+black 1 blue 6 black 1 red 10
+black 1 blue 6 black 1 red 9
+black 1 blue 6 black 1 red 8
+black 1 blue 6 black 1 red 7
+black 1 blue 6 black 1 red 6
+black 1 blue 6 black 1 red 5
+black 1 blue 6 black 1 red 4
+black 1 blue 6 black 1 red 3
+black 1 blue 6 black 1 red 3
+black 1 blue 6 black 1 red 4
+black 1 blue 6 black 1 red 5
+black 1 blue 6 black 1 red 6
+black 1 blue 6 black 1 red 7
+black 1 blue 6 black 1 red 8
+black 1 blue 6 black 1 red 9
+black 1 blue 6 black 1 red 10
+black 1 blue 6 black 1 red 11
+black 1 blue 6 black 1 red 12
+
+columns
+black 1 black 1
+blue 1 black 1 black 1 blue 1
+blue 2 black 1 black 1 blue 2
+blue 3 black 1 black 1 blue 3
+blue 4 black 1 black 1 blue 4
+blue 5 black 1 black 1 blue 5
+blue 6 black 1 black 1 blue 6
+black 1 blue 6 black 1 black 1 blue 6 black 1
+red 1 black 1 blue 6 black 1 black 1 blue 6 black 1 red 1
+red 2 black 1 blue 6 black 2 blue 6 black 1 red 2
+red 3 black 1 blue 12 black 1 red 3
+red 4 black 1 blue 10 black 1 red 4
+red 5 black 1 blue 8 black 1 red 5
+red 6 black 1 blue 6 black 1 red 6
+red 7 black 1 blue 4 black 1 red 7
+red 8 black 1 blue 2 black 1 red 8
+red 9 black 2 red 9
+red 20
+red 20
+red 20

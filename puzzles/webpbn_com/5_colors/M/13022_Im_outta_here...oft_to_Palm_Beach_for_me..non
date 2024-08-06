@@ -1,0 +1,54 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Mar 25, 2011"
+description ""wonder iffin Dee will come""
+difficulty 1.5
+height 14
+id 13022
+link "https://webpbn.com/play.cgi?id=13022"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "I'm outta here...oft to Palm Beach for me."
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 7
+red 9
+red 10 black 2
+red 9 black 2
+blue 4 black 1 blue 1 red 7 black 1 red 1 blue 2
+blue 2 black 4 blue 1 black 5 red 1 black 1 green 1 blue 2
+blue 1 black 1 blue 1 black 11 green 2 blue 1
+blue 1 black 13 green 3
+blue 1 red 1 black 12 green 3
+blue 1 black 12 red 1 black 2 blue 1
+blue 3 black 10 red 1 black 2 blue 1
+blue 4 black 2 red 5 black 2 red 1 black 2 blue 1
+blue 4 black 2 blue 1 red 4 black 2 red 1 black 2 blue 1
+blue 3 black 3 blue 2 red 2 black 3 red 1 black 2 blue 1
+
+columns
+blue 10
+blue 2 black 2 red 1 black 1 blue 4
+blue 1 black 1 blue 1 black 3 blue 4
+blue 1 black 6 blue 2 black 1
+red 2 black 10
+red 3 blue 1 black 9
+red 5 blue 1 black 5 red 1 blue 2
+red 5 black 6 red 2 blue 1
+red 5 black 6 red 3
+red 5 black 6 red 3
+red 5 black 6 red 2 black 1
+red 5 black 9
+red 6 black 8
+red 2 black 6 red 5
+black 2 red 1 green 4 black 5
+black 1 blue 2 green 3 black 5
+blue 3 green 2 blue 5

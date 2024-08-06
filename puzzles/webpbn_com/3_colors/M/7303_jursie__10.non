@@ -1,0 +1,61 @@
+by "Hanna Graver (roodies2cool)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Hanna Graver"
+date "Dec  2, 2009"
+description ""
+difficulty 1.5
+height 20
+id 7303
+link "https://webpbn.com/play.cgi?id=7303"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "jursie # 10"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+0
+0
+0
+0
+0
+black 1 green 1 black 4 black 4 green 1 black 1
+black 1 green 1 black 4 green 5 black 4 green 1 black 1
+black 1 green 1 black 13 green 1 black 1
+black 2 black 2 black 4
+black 2 black 1 black 2 black 3
+black 2 black 1 black 2 black 3
+black 2 black 1 black 2 black 3
+black 2 black 2 black 4
+black 11
+green 11
+black 11
+0
+0
+
+columns
+0
+black 3
+green 3
+black 3
+black 9 green 1 black 1
+black 9 green 1 black 1
+black 3 black 1 green 1 black 1
+green 1 black 7 green 1 black 1
+green 1 black 2 black 2 green 1 black 1
+green 1 black 1 black 3 black 1 green 1 black 1
+green 1 black 1 black 3 black 1 green 1 black 1
+green 1 black 2 black 2 green 1 black 1
+black 9 green 1 black 1
+black 9 green 1 black 1
+black 9 green 1 black 1
+black 3
+green 3
+black 3
+0
+0

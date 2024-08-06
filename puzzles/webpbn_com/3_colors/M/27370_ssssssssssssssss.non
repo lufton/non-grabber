@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 27370
+link "https://webpbn.com/play.cgi?id=27370"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "ssssssssssssssss"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3
+green 3 green 2
+green 1 green 5
+green 4 green 1
+green 4 black 2 green 1
+green 5 green 3 black 2 green 1
+green 7 green 7 black 2
+green 12 black 1
+green 12
+green 4 green 5
+green 3 green 3
+green 1 green 3 green 5
+green 1 green 4 green 9
+green 1 green 11 green 3
+green 2 green 9 green 3
+green 1 green 4 green 3
+green 2 green 3
+green 2 green 4
+green 4 green 8
+green 11
+
+columns
+green 4
+green 3
+green 5 green 2
+green 8 green 2
+green 10 green 2
+green 5 green 3 green 2
+green 4 green 3 green 2
+green 4 green 3 green 1
+green 5 green 3 green 1
+green 4 green 4 green 2
+green 3 green 3 green 2
+green 4 green 3 green 2
+green 6 green 3 green 2
+green 8 green 3 green 2
+green 1 green 5 green 3 green 3
+green 5 green 1 green 3 green 2
+green 1 green 2 black 1 green 1 green 9
+green 3 black 2 green 1 green 7
+green 2 black 3 green 4
+green 4 black 1

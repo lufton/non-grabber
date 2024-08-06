@@ -1,0 +1,37 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gaynor Sorrell"
+date "Apr 20, 2017"
+description "...and another flower"
+difficulty 1.25
+height 8
+id 29701
+link "https://webpbn.com/play.cgi?id=29701"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Another 8"
+width 8
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 1 black 1
+black 5
+black 5
+green 1 black 3 green 1
+green 1 black 1 green 1
+green 2 green 1 green 1
+green 1 green 3
+green 3
+
+columns
+0
+green 3
+black 3 green 2
+black 3 green 1
+black 5 green 3
+black 3 green 2
+black 3 green 2
+green 2

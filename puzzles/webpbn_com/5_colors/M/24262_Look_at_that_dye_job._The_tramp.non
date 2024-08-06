@@ -1,0 +1,73 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Tom O'Connell"
+date "Apr 14, 2014"
+description "Happy Easter :D"
+difficulty 2.25
+height 20
+id 24262
+link "https://webpbn.com/play.cgi?id=24262"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Look at that dye job. The tramp!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 2 green 3 blue 3
+red 5 green 4 blue 6
+red 3 red 1 green 6 blue 1 black 2 blue 3 black 1
+black 2 black 2 red 2 black 1 green 3 black 2 green 1 blue 2 black 1 blue 2 black 2
+red 1 blue 1 blue 1 green 1 red 1 green 1 black 2 green 2 black 1 green 2 blue 2 blue 2 blue 2
+red 1 green 4 red 2 green 2 green 2 green 2 blue 9
+red 1 green 7 red 1 green 8 blue 9
+red 1 green 3 green 1 red 1 green 8 blue 9
+red 1 red 1 red 1 green 1 red 1 green 3 green 3 blue 4 blue 3
+red 1 red 2 green 1 red 1 green 2 green 2 green 2 blue 4 blue 3
+red 2 green 5 red 1 green 7 blue 9
+red 1 green 5 red 2 green 7 blue 7
+red 2 green 2 red 2 green 5 blue 7
+black 1 red 3 black 1 green 4 blue 5
+black 7 black 5 black 5
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 black 1 red 2 black 1 black 1 black 2 black 2 black 1 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+
+columns
+0
+red 7
+red 1 black 1 green 1 red 2 black 1
+red 2 black 1 blue 1 green 2 red 1 green 1 red 1 black 3 red 1
+red 3 green 3 red 1 green 2 red 2 black 1
+red 2 black 1 blue 1 green 3 red 1 green 3 red 1 black 5
+red 1 black 1 green 2 red 1 green 3 red 1 black 1
+red 3 green 3 green 2 red 1 black 3 red 1
+red 3 green 5 red 2 black 1 red 1
+red 7
+0
+green 6
+green 1 black 2 green 7
+green 3 black 1 green 3 green 3 black 3
+green 8 green 5 black 1
+green 8 green 5 black 5
+green 3 black 2 green 3 green 4 black 1
+green 1 black 1 green 10 black 3
+green 9 black 1
+0
+blue 6
+blue 11 black 1
+blue 1 black 1 blue 11 black 3
+blue 2 black 2 blue 9 black 1
+blue 8 blue 4 black 5
+blue 8 blue 4 black 1
+blue 2 black 1 blue 9 black 3
+blue 1 black 2 blue 9 black 1
+blue 7
+0

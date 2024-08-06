@@ -1,0 +1,58 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Feb 14, 2022"
+description "Here's a blank grid. I've chosen a word. I will only take one word at a time so the first person to guess a word is the one I'll choose. I'll republish with the colors green (correctly place letter), blue (correct letter in the wrong place), and red (letter not in this puzzle)"
+difficulty 1.0
+height 19
+id 35597
+link "https://webpbn.com/play.cgi?id=35597"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Do you want to play WORDLE?"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 16
+black 1 red 2 black 1 red 2 black 1 red 2 black 1 blue 2 black 1 red 2 black 1
+black 1 red 2 black 1 red 2 black 1 red 2 black 1 blue 2 black 1 red 2 black 1
+black 16
+black 1 green 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1
+black 1 green 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1
+black 16
+black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1
+black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1
+black 16
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 16
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 16
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 16
+
+columns
+black 19
+black 1 red 2 black 1 green 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 green 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 19
+black 1 red 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 19
+black 1 red 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 19
+black 1 blue 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 1 blue 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 19
+black 1 red 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 red 2 black 1 green 2 black 1 black 1 black 1 black 1
+black 19

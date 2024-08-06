@@ -1,0 +1,51 @@
+by "David (Havenstrom)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David"
+date "May 24, 2012"
+description "Captain America's shield."
+difficulty 2.0
+height 15
+id 18743
+link "https://webpbn.com/play.cgi?id=18743"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "National Protector"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 2 black 2
+black 1 black 5 black 1
+black 1 black 1 blue 2 blue 2 black 1 black 1
+black 1 black 1 blue 3 blue 3 black 1 black 1
+black 1 black 1 blue 3 blue 3 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 2 blue 2 black 1 black 1
+black 1 black 1 blue 2 blue 2 black 1 black 1
+black 1 black 1 blue 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 3 black 1 black 1
+black 1 black 5 black 1
+black 2 black 2
+black 5
+
+columns
+black 5
+black 2 black 2
+black 1 black 5 black 1
+black 1 black 1 blue 1 blue 3 black 1 black 1
+black 1 black 1 blue 2 blue 3 black 1 black 1
+black 1 black 1 blue 3 black 1 black 1
+black 1 black 1 blue 2 blue 1 black 1 black 1
+black 1 black 1 blue 2 black 1 black 1
+black 1 black 1 blue 2 blue 1 black 1 black 1
+black 1 black 1 blue 3 black 1 black 1
+black 1 black 1 blue 2 blue 3 black 1 black 1
+black 1 black 1 blue 1 blue 3 black 1 black 1
+black 1 black 5 black 1
+black 2 black 2
+black 5

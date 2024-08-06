@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Dec  5, 2009"
+description "Let's turn off the light."
+difficulty 3.0
+height 20
+id 7344
+link "https://webpbn.com/play.cgi?id=7344"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.75
+title "I have a bright idea."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 1 black 5 red 3
+red 3 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 1 black 1 red 1
+black 2 green 1 green 1 black 2
+black 1 green 5 black 1 red 5
+red 4 black 1 green 1 green 1 green 1 black 1
+black 1 green 1 green 1 black 1 red 1
+red 1 black 2 green 2 green 2 black 2 red 2
+red 2 black 1 green 1 green 1 black 1 red 1 red 3
+red 2 black 2 green 1 green 1 black 2 red 1 red 2
+red 2 red 1 black 1 green 1 green 1 black 1 red 2 red 1
+red 1 red 1 black 2 green 1 green 1 black 2 red 1
+red 2 black 1 green 1 green 1 black 1 red 2
+red 1 black 1 green 1 green 1 black 1 red 1
+red 2 black 5 red 2
+red 1 black 3 red 1
+red 2 black 5 red 2
+red 1 black 3 red 1
+red 1 black 1 red 2
+
+columns
+red 2 red 1 red 2
+red 1 red 1 red 2 red 3
+red 2 red 1 red 2 red 3
+red 2 red 1 red 2 red 3
+red 1 black 5 red 3
+black 3 black 3
+black 2 black 3
+black 2 green 4 black 4 black 1
+black 1 green 2 green 7 black 4
+black 1 green 2 black 5
+black 1 green 2 green 7 black 4
+black 2 green 4 black 4 black 1
+black 2 black 3
+black 3 black 3
+red 2 black 5 red 3
+red 2 red 1 red 2 red 3
+red 2 red 1 red 2 red 3
+red 1 red 1 red 1 red 3
+red 1 red 1 red 2 red 3
+red 1 red 2 red 1

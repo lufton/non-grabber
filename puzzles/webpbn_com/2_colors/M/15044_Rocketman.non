@@ -1,0 +1,57 @@
+by "John Finley (jfinley91)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by John Finley"
+date "Jul  1, 2011"
+description "A fireworks rocket with a bit of personality. Happy Fourth of July to anyone in the US. Happy firework-filled summer to everyone else."
+difficulty 2.25
+height 20
+id 15044
+link "https://webpbn.com/play.cgi?id=15044"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Rocketman"
+width 20
+
+rows
+3,5
+3,7,1
+2,4,1,2
+1,5,1,7
+2,2,3,6
+3,2,1,4
+4,5,1,1,3
+4,3,1,2
+3,2,1,3
+1,2,2,1,2
+2,2,2,2,2
+1,1,3,3,3
+1,5,2
+2,2,5
+4,2,4
+8,1
+5,2,4
+4,2,2,4
+3,6,2,2
+2,4,4,1
+
+columns
+3,2,3,3
+3,3,1,4
+2,4,4
+1,4,4
+4,7
+5,2,6
+2,5,2,3
+3,3,1,2
+2,2,3,1,2
+2,2,2,2
+2,1,2,2
+4,1,2,2
+1,1,2,2
+1,1,1,1,3
+1,2,1,5,1
+2,3,3,3,2
+2,4,1,2,2,4
+2,6,5,2,1
+1,6,4,3
+5,4

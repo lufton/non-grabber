@@ -1,0 +1,32 @@
+by "paukenpietje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/13"
+height 5
+id 135712
+link "https://www.griddlers.net/nonogram/-/g/135712"
+medium_time "0:00:15"
+points 15
+popularity 49.81
+title "Bedtime"
+width 5
+
+color a 0000cc
+color b cc6600
+color c ffff00
+color d ffccff
+color e ffffff
+
+rows
+c 1
+d 1
+e 1 d 4
+b 5
+b 1 b 1
+
+columns
+d 1 e 1 b 1
+d 1 b 2
+d 1 b 1
+d 1 b 2
+c 1 d 1 b 1

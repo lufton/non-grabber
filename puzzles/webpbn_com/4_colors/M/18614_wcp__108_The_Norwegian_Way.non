@@ -1,0 +1,57 @@
+by "Syla Vims (syla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Syla Vims"
+date "May 11, 2012"
+description "According to Wikipedia, we do have some kind of prom, but it has nothing to do with graduation, more lik a social event for the entire school. To celebrate the end of the last year, we are russ. We wear an overal and a special hat in a color according to our line of study (This one is a rÃ¯Â¿Â½druss, studying General studies, Media or Dance and music), and party, drink, give away cards to kids and collect knots in our hat. In my region we also wear white coats with a huge painting on the back, and smal drawings, quotes and grettings from friends on the rest. The celebration lasts from 1st of May to 17th of May, two national holidays. Wikipedia knows more, altough the traditions vary from nregion to region, and everything is not true for everyone. I don't know if this is acepted as an entry, as it' not from a prom, but as it is our equalient, I hope it is."
+difficulty 1.5
+height 20
+id 18614
+link "https://webpbn.com/play.cgi?id=18614"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "wcp # 108 The Norwegian Way"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+red 3
+red 6
+black 4 red 4
+black 4 red 2
+black 1 black 1
+black 2 green 1 green 1 black 2
+black 2 black 2 green 1
+black 2 red 1 black 2 green 1
+black 2
+black 1 red 1 black 3 red 1 black 4
+black 3 red 1 black 1 red 1 black 3
+black 3 red 3 black 1
+black 2 black 1 red 3 black 1
+black 2 red 5
+red 5
+red 2 red 2
+red 2 red 2
+red 2 red 2
+black 3 black 3
+
+columns
+0
+black 2
+black 4
+black 1 black 3 black 3 black 1
+red 1 black 6 red 1 black 3 red 5 black 1
+red 2 black 2 green 1 black 1 red 8 black 1
+red 2 black 2 red 1 black 2 red 4
+red 3 black 1 green 1 black 1 red 8 black 1
+red 3 black 4 red 1 black 3 red 5 black 1
+red 3 black 3 black 2 black 1
+red 1 black 2
+black 2
+green 2 black 2
+0
+0

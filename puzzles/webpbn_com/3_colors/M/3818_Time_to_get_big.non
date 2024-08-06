@@ -1,0 +1,66 @@
+by "Nick Mostaccero (cotc18)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Nick Mostaccero"
+date "Oct 19, 2008"
+description "The mushroom power-up from the Mario series."
+difficulty 2.0
+height 20
+id 3818
+link "https://webpbn.com/play.cgi?id=3818"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Time to get big!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 7
+black 4 red 5 black 4
+black 3 red 3 red 3 black 3
+black 2 red 4 red 4 black 2
+black 2 red 4 red 4 black 2
+black 2 red 4 red 4 black 2
+black 2 red 2 red 2 black 2
+black 1 red 2 red 2 black 1
+black 1 red 4 red 4 black 1
+black 1 red 4 red 4 black 1
+black 1 red 6 red 6 black 1
+black 1 red 21 black 1
+black 2 red 6 black 9 red 6 black 2
+black 2 red 3 black 3 black 3 red 3 black 2
+black 2 red 1 black 2 black 1 black 1 black 2 red 1 black 2
+black 2 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 2 black 2
+black 15
+
+columns
+black 7
+black 2 black 2
+black 2 red 2 black 2
+black 2 red 4 black 2
+black 2 red 2 red 7 black 4
+black 1 red 11 black 1 black 2
+black 2 red 10 black 2 black 1
+black 1 red 4 red 5 black 1 black 1
+black 1 red 2 red 2 black 2 black 1
+black 2 red 1 red 1 black 1 black 3 black 1
+black 1 red 1 red 1 black 1 black 1
+black 1 red 1 red 1 black 1 black 1
+black 1 red 1 red 1 black 1 black 1
+black 1 red 1 red 1 black 1 black 1
+black 1 red 1 red 1 black 1 black 1
+black 2 red 1 red 1 black 1 black 3 black 1
+black 1 red 2 red 2 black 2 black 1
+black 1 red 4 red 5 black 1 black 1
+black 2 red 10 black 2 black 1
+black 1 red 11 black 1 black 2
+black 2 red 2 red 7 black 4
+black 2 red 4 black 2
+black 2 red 2 black 2
+black 2 black 2
+black 7

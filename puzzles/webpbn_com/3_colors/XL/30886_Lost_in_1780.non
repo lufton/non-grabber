@@ -1,0 +1,91 @@
+by "Greggo (Greggo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Greggo"
+date "Feb 20, 2018"
+description "Acton MA, showing in red the part of town annexed to the 2nd District of Carlisle in 1780."
+difficulty 1.25
+height 45
+id 30886
+link "https://webpbn.com/play.cgi?id=30886"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Lost in 1780"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 2
+black 3
+black 2 red 1 black 1
+black 2 red 2 black 1
+black 1 red 3 black 1
+black 2 red 3 black 1
+black 2 red 4 black 1
+black 2 red 5 black 1
+black 2 red 6 black 1
+black 1 red 7 black 1
+black 3 red 6 black 1
+black 2 black 1 red 6 black 1
+black 2 black 2 red 5 black 1
+black 2 black 2 red 4 black 1
+black 3 black 2 red 3 black 1
+black 1 black 2 red 2 black 1
+black 1 black 2 red 1 black 1
+black 1 black 3
+black 1 black 1
+black 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 20
+0
+
+columns
+0
+0
+black 17
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 5 black 1
+black 6 black 1
+black 1 black 1
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 2 black 1
+black 3 black 1
+black 2 red 1 black 3 black 1
+black 2 red 4 black 2 black 1
+black 2 red 6 black 2 black 1
+black 3 red 8 black 2 black 1
+black 2 red 11 black 2 black 1
+black 2 red 13 black 2 black 1
+black 2 red 15 black 1 black 1
+black 43
+0
+0
+0

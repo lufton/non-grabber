@@ -1,0 +1,67 @@
+by "Heather (heatherkewl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Heather"
+date "Jun  8, 2011"
+description "see comments for answer"
+difficulty 2.75
+height 20
+id 14431
+link "https://webpbn.com/play.cgi?id=14431"
+note "published,definitely non-unique,may require some guessing"
+quality 1.75
+title "bug puzzle for mootpoint"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 blue 1 blue 1 black 1 black 3 red 3 red 3 red 3
+black 2 black 2 black 1 black 1 red 2 red 1 blue 1 blue 1 red 1 red 1
+black 1 black 1 black 1 black 1 blue 2 black 1 red 3 red 3
+black 1 black 1 black 3 red 1 red 1 red 1 red 2
+black 1 black 1 black 1 black 1 red 2 red 1 red 3 red 1
+red 1 red 1 red 1 red 1
+red 2 red 1 red 1 red 1
+black 1 red 1 black 1 red 1 black 1 red 1 red 1
+black 3 black 1 black 1 black 1
+black 1 blue 1 blue 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 3 black 3
+black 1 black 1 blue 2 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 3 black 3 black 3
+0
+blue 1 blue 1
+0
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+black 5 black 2
+blue 1 black 1 black 1 black 1
+black 1 black 1 blue 1 black 1
+blue 1 black 1 black 1 black 1
+black 5 black 1 blue 1 black 1
+black 1 black 1
+black 5
+black 1 blue 1 black 1 black 2
+black 1 blue 1 black 1 black 1 blue 1 black 1
+black 2 black 1 black 1 blue 1 black 1
+black 7 blue 1 black 3
+red 1 red 1 red 1
+red 1 red 1 red 1 black 7
+red 1 red 1 red 1 black 1 blue 1 black 1
+red 1 red 1 red 1 red 1 black 1 black 1 blue 1 black 3
+red 1 red 1 red 1 red 1 black 2
+red 3 red 1
+red 1 blue 1 red 1 black 2
+red 1 red 1 black 1 black 1
+red 1 blue 1 red 1 black 1 blue 1 black 1
+red 3 red 1 black 7
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1
+red 1 red 1 red 1

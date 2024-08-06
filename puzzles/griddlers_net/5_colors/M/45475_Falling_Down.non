@@ -1,0 +1,56 @@
+by "qwerty_strikes"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/7/07"
+height 17
+id 45475
+link "https://www.griddlers.net/nonogram/-/g/45475"
+medium_time "0:02:54"
+points 747
+popularity 65.93
+title "Falling Down"
+width 17
+
+color a 000000
+color b ffcc99
+color c ff0000
+color d 0000ff
+color e 990000
+
+rows
+e 4
+e 3
+e 2
+b 2
+b 2
+d 2
+d 2
+d 3 b 1
+d 4 b 1
+e 3 b 2 d 4 c 2 c 1
+e 3 b 2 d 4 c 4
+e 2 c 3
+e 1 b 2 c 3 b 4 e 1
+b 2 d 1 b 1 e 1
+b 1 d 1 b 2 e 1
+b 4 e 1
+e 5
+
+columns
+e 4
+e 3
+e 2
+b 2
+b 2
+d 2
+d 2
+d 3 b 1
+d 4 b 1
+e 3 b 2 d 4 c 2 c 1
+e 3 b 2 d 4 c 4
+e 2 c 3
+e 1 b 2 c 3 b 4 e 1
+b 2 d 1 b 1 e 1
+b 1 d 1 b 2 e 1
+b 4 e 1
+e 5

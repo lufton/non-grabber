@@ -1,0 +1,62 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Dave Oas"
+date "May  7, 2013"
+description "Mr. Peanut"
+difficulty 2.5
+height 30
+id 21903
+link "https://webpbn.com/play.cgi?id=21903"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "An Old Salt"
+width 15
+
+rows
+9
+9
+9
+9
+9
+9
+9
+9
+15
+15
+1,1
+1,2,4,1
+1,1,1,1,1
+1,1,1,1,2,1
+1,3,1,1
+1,1,2,1
+1,1,1
+1,8,1
+1,1,1,1,1
+2,3,1
+2,1
+2,2
+1,1,1,1
+1,1,1,1
+1,1,1,1,1
+4,1,1
+1,1,1,1
+1,1,1
+1,1,2
+1,1
+
+columns
+2,1
+2,8,6
+3,3,1,2
+10,14
+10,1,1,1
+10,1,1,2
+10,2,1,1
+10,1,1,1
+10,5,1,1
+10,1,2,2,3
+10,1,1,1
+10,1,1,2,3,1
+3,3,2
+2,8,6
+2

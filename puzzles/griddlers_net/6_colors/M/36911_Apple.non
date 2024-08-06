@@ -1,0 +1,63 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/15/06"
+height 20
+id 36911
+link "https://www.griddlers.net/nonogram/-/g/36911"
+medium_time "0:06:03"
+points 715
+popularity 72.95
+title "Apple"
+width 20
+
+color a ffffff
+color b 666600
+color c 66cc00
+color d 99f433
+color e cc3300
+color g ff0033
+
+rows
+d 4
+d 5 c 1
+b 2 d 5 c 2
+b 1 d 5 c 2
+b 2 c 2 d 3 c 2
+b 1 c 3
+e 5 b 2 e 5
+e 15
+e 2 g 2 e 11
+e 2 g 1 g 1 e 11
+e 3 g 1 g 1 e 11
+e 4 g 1 e 12
+e 3 g 1 e 13
+e 17
+e 15
+e 15
+e 14
+e 12
+e 12
+e 3 b 2 e 3
+
+columns
+e 5
+e 10
+e 3 g 1 e 9
+e 2 g 1 g 1 e 1 g 1 e 6
+e 2 g 1 g 1 e 8
+e 3 g 2 e 9
+e 14
+e 12 b 1
+b 1 e 12 b 1
+b 1 b 3 e 13
+b 3 e 14
+c 1 e 14
+d 1 c 1 e 13
+d 3 c 1 e 13
+d 4 c 1 e 11
+d 4 c 1 e 9
+d 4 c 1 e 5
+d 3 c 2
+d 2 c 2
+d 1 c 2

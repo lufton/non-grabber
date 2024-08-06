@@ -1,0 +1,54 @@
+by "Alan Carter ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Alan Carter"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.0
+height 20
+id 25734
+link "https://webpbn.com/play.cgi?id=25734"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Hey!"
+width 13
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 5
+black 1 green 3 black 1
+green 1 black 1 green 3 black 1
+green 1 green 3
+green 1 green 1
+green 1 black 2 green 1 black 2
+green 1 black 2 green 1 green 1 black 2 green 1
+black 2 green 1 green 1 black 2 green 1
+green 3 green 1
+green 3 green 2
+black 1 black 1 black 1
+green 1 green 1 green 1 green 1
+black 1 black 1 black 1 black 1 black 1
+green 1 green 1 green 1 green 1 green 1
+black 1 black 1 black 1 black 1 black 1 black 1
+green 1 green 1 green 1 green 1 green 1 green 1
+green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1
+black 1 black 1
+black 1 black 1
+green 2 green 2
+
+columns
+green 1
+green 3 black 1 green 1 black 1
+green 1 green 1 black 1 green 1 green 1
+black 3 green 1 black 1 green 1 black 1
+black 3 black 3 black 1 black 1 green 1 green 1 black 2 green 1
+black 1 green 3 green 4 green 1 black 1 green 1 black 1 green 1
+black 1 green 5 green 2 black 1 black 1 green 1 green 1
+black 1 green 3 green 4 green 1 black 1 green 1 black 3 green 1
+black 3 black 3 black 1 black 1 green 1 green 1 green 1
+black 3 green 1 green 1 black 1 green 1 black 1
+green 1 green 1 black 1 green 1 green 1
+green 2 black 1 green 1 black 1
+green 1

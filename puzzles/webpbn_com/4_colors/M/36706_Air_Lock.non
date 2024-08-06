@@ -1,0 +1,57 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Norma Dee"
+date "Apr 19, 2023"
+description "The moment cymbal players dread. It's the climax and the cymbal player brings the cymbals together for that mighty crash but the cymbals meet perfectly creating an air lock and instead of a crash you get a kind of whoomf."
+difficulty 1.5
+height 20
+id 36706
+link "https://webpbn.com/play.cgi?id=36706"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Air Lock"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 black 4 green 1
+green 2 black 6 green 2
+green 2 black 2 black 2 green 2
+green 1 black 1 black 1 black 1 black 1 green 1
+green 1 black 2 black 1 black 1 black 2 green 1
+green 1 black 2 black 2 green 1
+green 1 black 2 red 2 black 2 green 1
+green 2 black 2 red 2 black 2 green 2
+green 1 black 2 black 2 green 1
+black 2
+black 10
+black 5 green 2 black 5
+black 5 green 2 black 5
+black 5 green 2 black 5
+black 5 green 2 black 5
+black 4 green 2 black 4
+black 3 green 2 black 3
+black 2 green 2 black 2
+black 6
+black 6
+
+columns
+0
+green 6
+green 2 green 2 black 4
+green 2 black 3 black 6
+black 6 black 7
+black 2 black 2 black 10
+black 2 black 2 black 1 black 10
+black 2 red 2 black 2 green 7 black 2
+black 2 red 2 black 2 green 7 black 2
+black 2 black 2 black 1 black 10
+black 2 black 2 black 10
+black 6 black 7
+green 2 black 3 black 6
+green 2 green 2 black 4
+green 6

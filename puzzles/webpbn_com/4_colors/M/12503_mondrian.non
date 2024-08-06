@@ -1,0 +1,62 @@
+by "stella snajdar (stellas)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by stella snajdar"
+date "Mar  2, 2011"
+description ""
+difficulty 1.25
+height 20
+id 12503
+link "https://webpbn.com/play.cgi?id=12503"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "mondrian"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 black 11
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 20
+black 1 blue 11 black 1
+black 1 blue 11 black 1
+black 20
+red 2 black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 1
+red 2 black 1 black 11
+red 2 black 1 black 1 black 1 blue 5
+red 2 black 1 black 1 black 1 blue 5
+red 2 black 8 black 1 blue 5
+red 2 black 1 black 1 black 1 blue 5
+red 2 black 1 black 1 black 1 blue 5
+
+columns
+black 1 black 1 red 11
+black 1 black 1 red 11
+black 20
+black 1 blue 2 black 1 black 1
+black 1 blue 2 black 1 black 1
+black 1 blue 2 black 1 black 1
+black 1 blue 2 black 1 black 1
+black 1 blue 2 black 1 black 1
+black 1 blue 2 black 1 black 1
+black 6 blue 2 black 12
+black 1 black 1 blue 2 black 1 black 1
+black 1 black 1 blue 2 black 1 black 1
+black 1 black 1 blue 2 black 1 black 1
+black 1 black 1 blue 2 black 1 black 1
+black 1 black 15
+black 1 black 1 black 1 black 1 blue 5
+black 1 black 1 black 1 black 1 blue 5
+black 1 black 1 black 7 blue 5
+black 1 black 1 black 1 black 1 blue 5
+black 1 black 1 black 1 black 1 blue 5

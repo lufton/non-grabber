@@ -1,0 +1,63 @@
+by "Sandra aaa (sandraaaa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Sandra aaa"
+date "Oct 24, 2009"
+description "My first puzzle! Just wanted to try this thing out! :)"
+difficulty 1.75
+height 20
+id 6988
+link "https://webpbn.com/play.cgi?id=6988"
+note "published,definitely non-unique,definitely requires moderate lookahead"
+quality 1.5
+title "Psychedelic"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2
+green 1 black 18 green 1
+green 1 black 1 red 5 red 2 red 5 black 1 green 1
+blue 1 black 1 red 1 blue 3 black 2 blue 4 black 2 blue 3 red 1 black 1 blue 1
+blue 1 black 1 red 1 blue 1 green 12 blue 1 red 1 black 1 blue 1
+green 1 black 1 red 1 blue 1 green 1 blue 2 black 1 blue 2 black 1 blue 2 green 1 blue 1 red 1 black 1 green 1
+green 1 black 1 black 1 green 1 blue 1 red 3 red 3 blue 1 green 1 black 1 black 1 green 1
+blue 1 black 1 black 1 green 1 blue 1 red 1 green 1 black 1 green 2 black 1 green 1 red 1 blue 1 green 1 black 1 black 1 blue 1
+blue 1 black 1 red 1 blue 1 green 1 black 1 red 1 black 1 blue 4 black 1 red 1 black 1 green 1 blue 1 red 1 black 1 blue 1
+green 1 black 1 red 1 blue 1 green 1 blue 1 red 1 green 1 blue 1 red 1 blue 1 green 1 red 1 blue 1 green 1 blue 1 red 1 black 1 green 1
+green 1 black 1 red 1 blue 1 green 1 blue 1 red 1 green 1 blue 1 red 1 blue 1 green 1 red 1 blue 1 green 1 blue 1 red 1 black 1 green 1
+blue 1 black 1 red 1 blue 1 green 1 black 1 red 1 black 1 blue 4 black 1 red 1 black 1 green 1 blue 1 red 1 black 1 blue 1
+blue 1 black 1 black 1 green 1 blue 1 red 1 green 1 black 1 green 2 black 1 green 1 red 1 blue 1 green 1 black 1 black 1 blue 1
+green 1 black 1 black 1 green 1 blue 1 red 3 red 3 blue 1 green 1 black 1 black 1 green 1
+green 1 black 1 red 1 blue 1 green 1 blue 2 black 1 blue 2 black 1 blue 2 green 1 blue 1 red 1 black 1 green 1
+blue 1 black 1 red 1 blue 1 green 12 blue 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 blue 3 black 2 blue 4 black 2 blue 3 red 1 black 1 blue 1
+green 1 black 1 red 5 red 2 red 5 black 1 green 1
+green 1 black 18 green 1
+green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2
+
+columns
+green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2
+green 1 black 18 green 1
+green 1 black 1 red 4 red 4 red 4 black 1 green 1
+blue 1 black 1 red 1 blue 3 black 2 blue 4 black 2 blue 3 red 1 black 1 blue 1
+blue 1 black 1 red 1 blue 1 green 12 blue 1 red 1 black 1 blue 1
+green 1 black 1 red 1 blue 1 green 1 blue 2 black 1 blue 2 black 1 blue 2 green 1 blue 1 red 1 black 1 green 1
+green 1 black 1 red 1 black 1 green 1 blue 1 red 8 blue 1 green 1 black 1 red 1 black 1 green 1
+blue 1 black 1 black 1 green 1 blue 1 red 1 green 1 black 1 green 2 black 1 green 1 red 1 blue 1 green 1 black 1 black 1 blue 1
+blue 1 black 1 blue 1 green 1 black 1 red 1 black 1 blue 4 black 1 red 1 black 1 green 1 blue 1 black 1 blue 1
+green 1 black 1 red 1 blue 1 green 1 blue 1 green 1 blue 1 red 1 blue 1 green 1 blue 1 green 1 blue 1 red 1 black 1 green 1
+green 1 black 1 red 1 blue 1 green 1 blue 1 green 1 blue 1 red 1 blue 1 green 1 blue 1 green 1 blue 1 red 1 black 1 green 1
+blue 1 black 1 blue 1 green 1 black 1 red 1 black 1 blue 4 black 1 red 1 black 1 green 1 blue 1 black 1 blue 1
+blue 1 black 1 black 1 green 1 blue 1 red 1 green 1 black 1 green 2 black 1 green 1 red 1 blue 1 green 1 black 1 black 1 blue 1
+green 1 black 1 red 1 black 1 green 1 blue 1 red 8 blue 1 green 1 black 1 red 1 black 1 green 1
+green 1 black 1 red 1 blue 1 green 1 blue 2 black 1 blue 2 black 1 blue 2 green 1 blue 1 red 1 black 1 green 1
+blue 1 black 1 red 1 blue 1 green 12 blue 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 blue 3 black 2 blue 4 black 2 blue 3 red 1 black 1 blue 1
+green 1 black 1 red 4 red 4 red 4 black 1 green 1
+green 1 black 18 green 1
+green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2 blue 2 green 2

@@ -1,0 +1,52 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Wombat"
+date "Dec  5, 2017"
+description "A cat caught cleaning itself between its legs. They always give you the dirtiest looks when you walk in on them like this."
+difficulty 1.5
+height 15
+id 30602
+link "https://webpbn.com/play.cgi?id=30602"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Do you mind?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+black 3 black 1 black 1
+black 1 black 2 black 2 black 2
+black 2 black 1 black 7
+black 1 black 3 black 1
+black 2 black 2 green 1 green 1 black 3
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 1
+black 1 black 3 red 1 black 2 black 1
+black 3 red 1 black 1 black 1
+black 1 black 1 black 2 black 1
+black 3 black 1 black 1
+black 4 black 5
+black 1 black 1 black 1 black 2
+
+columns
+black 3
+black 1 black 3
+black 2 black 3
+black 3 black 3 black 2
+black 2 black 4
+black 9 black 2
+black 2 black 2 black 4
+black 1 green 1 black 1
+black 1 red 2
+black 1 green 1 black 1 black 2
+black 2 black 2 black 3
+black 7 black 2 black 1
+black 1 black 2
+black 9
+0

@@ -1,0 +1,39 @@
+by "chefmomster2"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/18/06"
+height 9
+id 30068
+link "https://www.griddlers.net/nonogram/-/g/30068"
+medium_time "0:00:49"
+points 31
+popularity 61.08
+title "Christmas Candle"
+width 9
+
+color a ffffff
+color d ff0000
+color e 00cc00
+color g ffff66
+
+rows
+g 1
+g 1
+d 3
+d 3
+d 3
+e 2 d 3 e 2
+e 3 d 2 e 4
+e 3 d 1 e 3
+e 3 d 1 e 1 d 1 e 3
+
+columns
+e 2 e 1
+e 4
+e 3
+d 5 e 1 d 1
+g 2 d 6 e 1
+d 4 e 2 d 1
+e 3
+e 4
+e 2 e 1

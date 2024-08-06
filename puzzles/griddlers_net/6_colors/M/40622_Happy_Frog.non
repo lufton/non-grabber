@@ -1,0 +1,59 @@
+by "greenjelly"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/10/06"
+height 16
+id 40622
+link "https://www.griddlers.net/nonogram/-/g/40622"
+medium_time "0:06:37"
+points 4979
+popularity 79.08
+title "Happy Frog"
+width 20
+
+color a ffffff
+color b 000000
+color c ff6600
+color d ff6666
+color e 00cc00
+color f 009900
+
+rows
+f 5 f 5
+f 1 e 1 f 2 e 1 f 1
+f 1 f 1 e 1 f 1
+f 1 c 1 b 1 f 1 e 1 c 1 b 1 f 1
+f 1 b 2 f 1 e 1 b 2 f 1
+f 1 e 2 f 1
+f 2 f 1 e 3 f 2
+f 1 e 2 f 4 e 6 f 3 e 1 f 1
+f 1 e 18 f 1
+f 1 e 2 b 1 e 12 b 1 e 2 f 1
+f 1 e 3 b 12 e 3 f 1
+f 1 e 4 b 2 d 2 b 1 d 3 b 2 e 4 f 1
+f 1 e 4 b 2 d 4 b 2 e 4 f 1
+f 1 e 5 b 4 e 5 f 1
+f 3 e 8 f 3
+f 8
+
+columns
+f 4
+f 1 e 4 f 1
+f 5 e 6 f 1
+f 1 f 1 e 2 b 1 e 4 f 1
+f 1 f 1 e 2 b 1 e 3 f 1
+f 1 c 1 b 1 f 1 e 2 b 2 e 2 f 1
+f 1 b 2 f 1 e 2 b 3 e 2 f 1
+f 1 f 1 e 2 b 1 d 1 b 1 e 2 f 1
+f 1 e 1 f 1 e 3 b 1 d 2 b 1 e 1 f 1
+f 4 e 5 b 2 d 1 b 1 e 1 f 1
+f 1 e 8 b 1 d 2 b 1 e 1 f 1
+f 1 e 1 e 4 b 1 d 2 b 1 e 1 f 1
+f 1 e 3 b 1 d 1 b 1 e 2 f 1
+f 1 c 1 b 1 e 3 b 3 e 2 f 1
+f 1 b 2 f 1 e 2 b 2 e 2 f 1
+f 1 f 1 e 2 b 1 e 3 f 1
+f 1 f 2 e 1 b 1 e 4 f 1
+f 5 e 6 f 1
+f 1 e 4 f 1
+f 4

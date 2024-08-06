@@ -1,0 +1,79 @@
+by "Sarah Roberts ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Sarah Roberts"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.75
+height 22
+id 26002
+link "https://webpbn.com/play.cgi?id=26002"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 3.25
+title "Easter"
+width 35
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 1 green 1 green 2
+blue 1 blue 1 green 4
+blue 1 blue 1 green 2
+blue 4 blue 4 blue 4 blue 4 blue 1 blue 1
+blue 1 blue 1 blue 1 black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 4 blue 4 blue 4 blue 4
+green 2 blue 1 blue 1 blue 1
+green 2 blue 1 blue 1 blue 1
+green 2 blue 1 blue 1 blue 5
+green 2
+green 2
+green 2 green 2
+0
+0
+green 5 green 1
+green 1 green 1 green 2 green 1
+green 1 green 3 green 3 green 1 green 1 green 1 green 5
+green 4 green 1 green 1 green 5 green 4 green 1 green 1
+green 1 green 4 green 3 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 4 green 4 green 3 green 3 green 3 green 1
+
+columns
+blue 7
+blue 1
+blue 1
+blue 7
+green 1 green 1
+green 1 blue 4 green 1 green 7
+green 2 blue 1 black 1 blue 1 green 5 green 1 green 1 green 1
+green 2 blue 1 black 1 blue 1 green 5 green 1 green 1 green 1
+green 2 blue 4 green 1 green 1 green 1 green 1
+green 1 green 1 green 1
+blue 7 green 3
+blue 1 blue 1 green 1 green 1 green 1
+blue 1 blue 1 green 1 green 1 green 1
+blue 4 green 5
+0
+blue 7 green 3 green 1
+blue 1 blue 1 green 1 green 1 green 1
+blue 1 blue 1 green 1 green 3
+blue 4 green 1
+blue 1 green 1
+blue 4 blue 1 green 7
+blue 1 blue 1 green 1 green 1
+blue 1 blue 1 green 1 green 1
+blue 7
+green 4
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 2 green 1
+0
+green 6
+green 1
+green 1
+green 1
+green 2
+0

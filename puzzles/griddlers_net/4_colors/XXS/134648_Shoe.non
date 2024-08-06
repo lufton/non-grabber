@@ -1,0 +1,31 @@
+by "flores"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/13"
+height 5
+id 134648
+link "https://www.griddlers.net/nonogram/-/g/134648"
+medium_time "0:00:22"
+points 9
+popularity 63.11
+title "Shoe"
+width 5
+
+color a ffffff
+color b 660000
+color c c98c00
+color d ffcc33
+
+rows
+b 2
+d 1 b 2
+d 1 b 2 c 1
+b 3 c 1
+c 3 c 1
+
+columns
+b 1 c 1
+d 1 b 1 c 1
+d 1 b 2 c 1
+b 3
+b 2 c 3

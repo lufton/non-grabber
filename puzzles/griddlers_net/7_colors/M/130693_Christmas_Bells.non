@@ -1,0 +1,74 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/23/12"
+height 25
+id 130693
+link "https://www.griddlers.net/nonogram/-/g/130693"
+medium_time "0:15:26"
+points 13912
+popularity 75.0
+title "Christmas Bells"
+width 25
+
+color a 82ebec
+color b a00203
+color c cf0505
+color d 571e17
+color e 6c6c24
+color f ebec8a
+color g dec700
+
+rows
+b 3 c 4
+b 3 c 4
+b 3 c 3 c 2
+b 2 c 3 c 3
+b 2 c 1 c 5
+b 1 d 2 c 6
+e 4 d 2 c 3 b 2 c 1
+e 1 f 2 g 1 e 2 d 1 b 6
+e 1 f 2 g 1 e 1 g 1 e 1 d 1 b 5
+e 2 f 2 g 1 e 1 g 1 e 2 d 1 b 3
+e 5 f 2 e 1 g 2 e 3
+f 4 e 2 g 2 e 2 g 1 e 1
+f 6 e 1 g 2 e 2 d 2 e 4
+f 5 g 1 e 1 g 1 e 1 d 2 e 2 g 1 f 2 e 1
+g 2 f 1 e 5 b 1 d 1 e 1 g 1 e 1 g 1 f 2 e 1
+g 2 e 2 g 1 e 1 d 1 b 1 d 1 e 2 g 1 e 1 g 1 f 2 e 2
+g 4 e 1 d 1 b 1 d 1 e 3 g 2 e 1 f 2 e 5
+g 2 e 1 d 1 b 2 d 1 e 1 g 1 e 2 g 2 e 2 f 4
+b 1 d 2 b 1 d 2 e 2 g 2 e 1 f 6
+b 2 d 1 b 2 d 1 e 1 g 1 e 1 g 2 f 4
+b 2 d 1 b 3 e 5 f 1 g 2
+b 2 d 1 b 2 e 1 g 1 e 2 g 2
+b 3 b 2 e 1 g 4
+b 2 e 1 g 2
+b 2
+
+columns
+e 1 f 2
+e 1 f 3
+e 1 f 3 g 1
+e 1 f 3 g 2
+e 3 f 3 g 2 b 1
+e 1 f 1 e 1 f 2 e 2 g 1 b 2
+e 1 f 2 g 1 e 1 g 1 e 2 g 2 b 5
+e 1 f 2 e 1 g 2 e 2 g 3 d 1 b 2 d 1
+b 3 e 1 f 2 g 2 e 1 g 2 e 4 d 3
+b 4 e 1 f 1 g 1 e 1 g 1 e 4 d 3
+b 5 e 1 g 1 e 1 g 1 e 1 g 1 e 1 d 1 b 4
+c 4 b 2 e 2 g 1 e 3 d 5 b 4
+c 5 d 2 e 4 d 1 e 4 d 2 b 6
+c 4 d 5 e 2 g 1 e 3 d 2 b 5
+c 2 c 2 b 1 e 1 g 1 e 1 g 1 e 1 g 1 e 1
+c 3 b 2 e 1 f 1 g 1 e 1 g 1 e 4
+c 4 b 3 e 1 f 2 g 2 e 1 g 2 e 4
+c 4 b 4 e 1 f 2 e 1 g 2 e 2 g 3
+c 4 b 4 e 1 f 2 g 1 e 1 g 1 e 2 g 2
+c 3 b 2 e 1 f 1 e 1 f 1 g 1 e 2 g 1
+e 3 f 3 g 2
+e 1 f 3 g 2
+e 1 f 3 g 1
+e 1 f 3
+e 1 f 2

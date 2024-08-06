@@ -1,0 +1,101 @@
+by "koko"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/30/20"
+height 46
+id 216104
+link "https://www.griddlers.net/nonogram/-/g/216104"
+medium_time "0:40:18"
+points 52010
+popularity 83.33
+title "Chamois"
+width 30
+
+color a 5F9EA0
+color b 696969
+color c A9A9A9
+color d 8B4513
+color e CD853F
+color f DEB887
+color g 000000
+color h FFFFFF
+
+rows
+c 1 b 2 b 1
+c 1 c 2 b 1 c 2 b 1
+c 1 b 1 c 1 b 1
+c 2 b 1 c 1 b 1
+c 1 b 1 c 1 b 1
+c 1 b 1 c 1 b 1
+d 1 c 1 b 1 c 1 b 1
+e 1 d 1 c 1 b 1 c 1 b 1
+e 1 e 2 d 1 c 1 b 1 c 1 b 1
+e 1 d 1 e 1 e 1 d 2 c 2 b 1 c 1 b 1
+d 1 e 1 e 2 d 1 c 1 b 1 c 1 b 2
+e 1 d 1 f 2 e 2 d 1 c 1 b 1 c 1 b 1
+d 3 f 2 d 3 c 2 b 1 c 1 b 1 d 1
+f 1 d 1 f 2 d 2 e 2 d 1 c 2 b 1 c 1 d 3
+f 2 d 1 f 2 e 1 d 4 c 1 b 1 d 4
+f 3 e 3 f 2 e 1 d 4
+e 2 f 3 e 2 f 4 e 1 d 2
+e 3 f 4 e 2 f 3 e 2 d 1
+e 2 f 1 e 1 f 5 b 2 h 2 e 4
+e 1 f 2 e 1 f 3 b 3 h 1 g 2 e 1 f 1 e 2
+e 2 f 6 e 2 b 2 h 2 b 1 f 2 e 2
+e 1 f 5 e 4 b 6 f 2 e 2
+e 1 f 3 e 6 f 1 b 6 f 3 e 2
+e 1 f 8 e 2 f 2 b 6 f 3 e 1
+e 2 f 9 e 3 f 3 b 5 f 2 e 1
+e 3 f 10 e 4 f 3 b 3 f 2 e 1
+e 2 f 1 e 1 f 1 e 2 f 10 e 4 f 2 b 3 f 2
+e 2 f 2 e 1 d 1 e 4 f 10 e 3 f 2 b 2 f 2
+e 2 f 3 e 1 f 2 d 2 e 3 f 11 e 4 d 2
+e 2 f 3 e 1 f 4 d 2 e 2 f 3 d 1 d 6 f 2 d 2
+e 2 f 4 e 1 f 5 d 5 d 2
+f 1 e 1 f 3 e 1 f 7 d 3
+f 1 e 1 f 3 e 1 f 7 e 2 d 1
+f 1 e 1 f 3 e 1 f 6 e 2 d 1
+f 1 e 1 f 3 e 1 f 7 e 1
+f 1 e 1 f 2 e 1 f 7 e 1
+f 1 e 1 f 3 e 1 f 6 e 1
+f 1 e 1 f 3 e 1 f 6 e 2
+e 1 f 2 f 5 e 1 f 2 e 1
+f 3 f 2 e 1 f 1 e 1 f 2 e 1
+f 2 e 1 f 2 e 1 f 1 f 1 e 1
+f 1 e 1 f 1 f 1
+f 1 f 1 f 1
+f 1
+f 1
+f 1
+
+columns
+e 3
+e 5 f 2
+e 2 e 4 f 3 e 2 f 2
+d 1 e 6 f 7 e 2 f 3
+e 1 d 1 e 1 d 1 e 3 f 4 e 2 f 8 e 4 f 2
+e 1 d 2 f 2 e 2 f 8 e 3 f 16
+f 1 d 2 f 1 e 2 f 8 e 1 d 1 f 2 e 3 f 7 e 2
+d 1 e 2 f 3 d 1 f 1 e 4 f 2 e 1 f 3 e 2 f 5 e 3 f 2
+d 1 e 4 f 10 e 1 f 4 e 1 d 1 f 7 e 2 f 3
+d 2 e 2 d 2 f 7 e 2 f 4 e 1 d 1 f 14
+d 5 e 2 f 5 e 2 f 4 e 2 d 1 f 9 e 2
+d 1 e 1 d 1 e 2 f 2 b 1 e 3 f 5 e 1 d 1 f 11
+e 1 d 1 e 3 f 1 b 1 e 4 f 4 e 2 d 1 f 8 e 1
+c 1 d 2 f 2 e 1 b 4 f 1 e 2 f 4 e 1 d 1 f 7 e 1
+c 1 c 1 d 1 f 3 b 1 h 1 b 3 f 1 e 1 f 5 d 2 e 2 f 6
+b 1 c 1 c 3 e 1 f 2 h 1 g 1 h 1 b 2 f 1 e 2 f 4 d 2 e 6 f 5
+b 1 c 3 c 4 b 2 d 1 f 2 h 1 g 1 h 1 b 3 f 1 e 1 f 4 d 4 e 4
+b 2 c 7 b 3 c 1 d 2 e 4 b 4 f 1 e 1 f 3 d 1
+c 1 b 7 c 1 d 4 e 2 f 2 b 3 f 1 e 2 f 2
+b 1 c 1 c 2 b 1 d 5 e 2 f 2 b 3 f 1 e 1 f 2 d 1
+b 1 c 8 b 2 d 3 e 3 f 2 b 2 f 1 e 1 f 2 d 1
+b 9 e 2 f 1 b 2 f 1 e 2 f 1 d 1
+e 1 f 2 b 2 f 1 e 1 f 1 d 1
+e 1 f 1 b 2 f 1 e 1 f 1 d 1
+e 1 f 2 b 2 f 1 e 1 d 1
+e 1 f 2 b 1 f 1 e 1 f 1 d 1
+e 1 f 1 b 2 e 1 f 1 d 1
+e 1 f 1 b 1 e 1 d 1
+f 2 d 2
+f 1 d 1

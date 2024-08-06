@@ -1,0 +1,41 @@
+by "farfalla19"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/26/10"
+height 9
+id 95590
+link "https://www.griddlers.net/nonogram/-/g/95590"
+medium_time "0:01:50"
+points 200
+popularity 62.16
+title "Butterfly"
+width 11
+
+color a ffffff
+color b ff00cc
+color c 00cc99
+color d ffcc33
+
+rows
+d 2 d 2
+c 3 d 3 c 3
+c 1 c 2 d 1 c 2 c 1
+c 5 d 1 c 5
+c 4 d 1 c 4
+b 3 d 1 b 3
+b 1 b 2 d 1 b 2 b 1
+b 4 d 1 b 4
+b 2 d 1 b 2
+
+columns
+c 3
+c 1 c 2 b 2
+d 1 c 4 b 1 b 2
+d 1 c 3 b 4
+d 1 c 2 b 3
+d 8
+d 1 c 2 b 3
+d 1 c 3 b 4
+d 1 c 4 b 1 b 2
+c 1 c 2 b 2
+c 3

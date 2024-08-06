@@ -1,0 +1,63 @@
+by "jessi winn ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by jessi winn"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.75
+height 25
+id 27649
+link "https://webpbn.com/play.cgi?id=27649"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Way to a man's heart..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+black 7
+black 2 black 4
+black 1 black 1
+black 2 black 1 black 1 black 2
+black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+black 1 black 3 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 11
+black 2 green 2 black 2 green 1 black 2 green 2 black 2
+black 2 green 11 black 2
+black 1 green 13 black 1
+black 1 green 2 black 2 green 5 black 2 green 2 black 1
+black 1 green 2 black 1 green 7 black 1 green 2 black 1
+black 4 green 2 black 3 green 2 black 4
+black 1 black 1 green 1 black 1 red 1 black 1 red 1 black 1 green 1 black 1 black 1
+black 1 black 1 green 1 black 1 red 3 black 1 green 1 black 1 black 1
+black 1 black 1 green 1 black 2 red 1 black 2 green 1 black 1 black 1
+black 1 black 1 green 2 black 3 green 2 black 1 black 1
+black 1 black 1 green 7 black 1 black 1
+black 1 black 9 black 1
+black 1 black 1 blue 7 black 1 black 1
+
+columns
+black 12
+black 2 green 3 black 1
+black 2 green 4 black 1
+black 3 black 1 green 3 black 10
+black 4 black 3 black 1 green 3 black 1 green 7 black 1 blue 1
+black 3 black 5 green 5 black 3 green 2 black 1 blue 1
+black 2 black 1 black 2 black 3 green 4 black 1 red 2 black 2 green 1 black 1 blue 1
+black 3 black 1 black 1 black 1 green 5 black 2 red 2 black 1 green 1 black 1 blue 1
+black 3 black 1 black 2 black 3 green 4 black 1 red 2 black 2 green 1 black 1 blue 1
+black 3 black 5 green 5 black 3 green 2 black 1 blue 1
+black 4 black 3 black 1 green 3 black 1 green 7 black 1 blue 1
+black 3 black 1 green 3 black 10
+black 2 green 4 black 1
+black 2 green 3 black 1
+black 12

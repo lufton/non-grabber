@@ -1,0 +1,68 @@
+by "Aiden Ambrey (aidenpaden)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Aiden Ambrey"
+date "Aug 22, 2007"
+description "A house with a dog kennel."
+difficulty 1.5
+height 15
+id 1219
+link "https://webpbn.com/play.cgi?id=1219"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Night scape."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 21 blue 4
+blue 5 blue 3 blue 5 green 2 blue 2 blue 6
+blue 1 red 1 blue 10 blue 1 green 4 blue 8
+blue 1 blue 2 red 5 blue 7 green 6 blue 5 blue 1
+blue 4 red 7 blue 2 blue 2 green 8 blue 2 blue 3
+blue 3 red 9 blue 4 green 4 black 1 green 3 blue 6
+blue 1 blue 2 black 7 blue 6 green 1 black 1 green 2 black 1 green 1 blue 7
+blue 4 black 7 blue 1 red 3 blue 4 black 3 blue 8
+blue 4 black 1 black 1 black 1 black 1 blue 1 black 3 blue 2 blue 2 black 2 blue 4 blue 2 green 1
+blue 4 black 3 black 3 blue 1 black 1 black 1 blue 5 black 2 blue 6 green 2
+green 30
+green 30
+green 30
+green 30
+green 30
+
+columns
+blue 1 blue 7 green 5
+blue 2 blue 3 green 5
+blue 6 green 5
+blue 1 blue 2 red 1 blue 4 green 5
+blue 4 red 2 black 4 green 5
+blue 2 red 4 black 2 black 1 green 5
+blue 3 red 3 black 4 green 5
+blue 3 red 3 black 2 green 5
+blue 3 red 3 black 4 green 5
+blue 1 blue 1 red 3 black 2 black 1 green 5
+blue 4 red 2 black 4 green 5
+blue 5 red 1 blue 4 green 5
+blue 7 red 1 black 2 green 5
+blue 1 blue 2 blue 2 red 1 black 1 green 5
+blue 7 red 1 black 2 green 5
+blue 10 green 5
+blue 2 blue 1 green 2 blue 4 green 5
+blue 3 green 4 blue 1 blue 1 green 5
+blue 2 green 4 black 1 blue 3 green 5
+blue 1 green 6 black 1 blue 2 green 5
+blue 1 green 4 black 1 green 1 black 3 green 5
+blue 2 green 4 black 4 green 5
+blue 3 green 4 blue 3 green 5
+blue 1 blue 2 green 2 blue 4 green 5
+blue 9 green 5
+blue 10 green 5
+blue 4 blue 3 blue 1 green 5
+blue 10 green 5
+blue 3 blue 5 green 6
+blue 7 green 7

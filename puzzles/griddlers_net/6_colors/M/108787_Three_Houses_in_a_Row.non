@@ -1,0 +1,73 @@
+by "zarinahelene"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/1/11"
+height 25
+id 108787
+link "https://www.griddlers.net/nonogram/-/g/108787"
+medium_time "0:04:13"
+points 2556
+popularity 67.97
+title "Three Houses in a Row"
+width 25
+
+color a 66ffff
+color b 000000
+color c ffffff
+color d ff0000
+color e ffff00
+color f 6666ff
+
+rows
+b 1
+b 3
+b 5
+b 7
+b 9
+f 9
+f 5 c 3 f 1
+f 5 c 3 f 1
+f 5 c 3 f 1 b 2
+f 9 b 4
+f 9 b 6
+f 9 b 8
+f 9 b 2 d 8
+f 9 b 4 d 2 c 3 d 3
+f 1 c 3 f 5 b 6 d 2 c 3 d 3
+f 1 c 3 f 5 b 8 d 2 c 3 d 3
+f 1 c 3 f 5 e 8 d 8
+f 9 e 1 c 2 e 5 d 4 c 3 d 1
+f 9 e 1 c 2 e 5 d 4 c 3 d 1
+f 2 c 3 f 4 e 8 d 4 c 3 d 1
+f 2 c 3 f 4 e 8 d 1 c 2 d 5
+f 2 c 3 f 4 e 2 c 2 e 1 c 2 e 1 d 1 c 2 d 1 c 3 d 1
+f 2 c 2 b 1 f 4 e 2 c 2 e 1 c 2 e 1 d 1 c 1 b 1 d 1 c 3 d 1
+f 2 c 3 f 4 e 2 c 1 b 1 e 4 d 1 c 2 d 1 c 3 d 1
+f 2 c 3 f 4 e 2 c 2 e 4 d 1 c 2 d 5
+
+columns
+b 1 f 20
+b 2 f 9 c 3 f 8
+b 3 f 9 c 3 f 2 c 6
+b 4 f 9 c 3 f 2 c 6
+b 5 f 14 c 3 b 1 c 2
+b 4 f 1 c 3 f 16
+b 3 f 1 c 3 f 16
+b 2 f 1 c 3 f 16
+b 1 f 20
+b 1 e 9
+b 2 e 1 c 2 e 6
+b 3 e 1 c 2 e 2 c 4
+b 4 e 5 c 2 b 1 c 1
+b 4 e 9
+b 3 e 5 c 2 e 2
+b 2 e 5 c 2 e 2
+b 1 e 9
+b 1 d 13
+b 2 d 8 c 5
+b 3 d 1 c 3 d 4 c 2 b 1 c 2
+b 4 d 1 c 3 d 9
+b 4 d 1 c 3 d 1 c 3 d 1 c 3 d 1
+b 3 d 5 c 3 d 1 c 3 d 1
+b 2 d 5 c 3 d 1 c 3 d 1
+b 1 d 13

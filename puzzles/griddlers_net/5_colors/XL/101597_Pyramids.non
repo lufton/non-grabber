@@ -1,0 +1,112 @@
+by "Comicpainter"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/28/10"
+height 40
+id 101597
+link "https://www.griddlers.net/nonogram/-/g/101597"
+medium_time "1:00:59"
+points 69830
+popularity 71.0
+title "Pyramids"
+width 50
+
+color a ffffff
+color b 0099ff
+color c 000000
+color d ff9900
+color e ffffcc
+
+rows
+b 50
+b 50
+b 26 b 19
+b 24 c 5 b 17
+b 23 c 3 c 1 b 16
+b 17 b 4 c 2 d 5 c 2 b 16
+b 16 b 3 c 2 d 8 c 2 b 15
+b 16 c 1 b 2 c 1 d 9 c 2 b 14
+b 15 c 1 c 1 b 1 d 11 b 14
+b 15 c 1 c 2 c 1 d 12 c 1 b 13
+b 14 c 1 c 2 d 13 c 1 b 13
+b 14 c 2 e 2 c 3 d 13 c 1 b 12
+b 13 c 1 e 2 c 1 c 1 d 12 c 1 b 12
+b 12 c 2 e 3 c 1 d 12 c 1 b 12
+b 12 c 1 e 3 c 1 c 1 d 10 c 1 b 12
+b 11 c 2 e 4 c 5 d 9 c 1 c 1 b 12
+b 11 c 1 e 5 c 1 d 1 c 2 d 7 c 4 b 12
+b 10 c 2 e 6 c 1 d 1 c 1 d 6 c 1 c 1 b 12
+b 9 c 1 e 7 c 2 d 1 d 5 c 2 c 1 b 12
+b 9 c 1 e 7 c 1 d 2 c 1 d 3 c 2 e 1 c 1 b 12
+b 8 c 1 e 9 c 1 c 1 d 2 c 1 e 1 c 2 b 11
+b 8 c 1 e 10 c 1 c 3 c 1 d 1 c 2 e 2 c 1 b 11
+b 7 c 1 e 10 c 1 d 1 c 2 c 2 e 3 c 1 b 10
+b 7 c 1 e 11 c 1 d 1 c 2 e 4 c 4 b 10
+b 6 c 1 e 12 c 4 c 1 e 4 c 1 b 9
+b 6 c 1 e 13 d 1 c 2 e 4 c 2 c 1 b 9
+b 5 c 1 e 13 d 1 c 2 e 3 c 1 b 8
+b 4 c 2 e 14 c 4 c 1 e 3 c 1 c 1 b 8
+b 4 c 1 e 14 c 1 c 4 e 2 c 2 c 3 b 8
+b 3 c 2 e 16 d 5 c 1 e 2 c 1 c 1 b 7
+b 3 c 1 e 16 c 1 d 5 c 1 e 1 c 5 c 1 b 7
+b 2 c 1 e 14 c 1 d 1 e 2 c 1 c 2 b 6
+c 1 e 1 c 3 c 1 c 6 c 1 b 5
+c 2 c 1 c 7 c 6 c 11 c 2 c 2
+c 9 c 3 d 8 c 3 c 6
+d 1 d 1 d 31 c 6
+d 19 d 2 d 17 d 1
+d 16 d 7 d 10 d 7
+d 8 d 16 d 15
+d 47 d 2
+
+columns
+b 32 c 1 d 2 d 2
+b 32 c 2 d 4
+b 31 c 1 d 5
+b 29 c 3 d 4
+b 27 c 3 c 1 d 4
+b 26 c 3 e 2 c 1 d 4
+b 24 c 2 e 3 c 1 d 4
+b 22 c 2 e 5 c 1 d 4
+b 20 c 2 e 7 c 2 d 2 d 1
+b 18 c 2 e 9 c 2 d 3 d 1
+b 17 c 1 e 11 c 1 d 3 d 1
+b 15 c 2 e 12 c 1 d 3 d 1
+b 13 c 3 e 14 c 1 d 3 d 1
+b 12 c 3 e 16 c 1 d 5
+b 10 c 3 e 17 c 1 d 5
+b 8 c 2 e 19 d 5
+b 6 c 2 e 21 c 2 d 5
+b 5 c 1 e 21 c 2 d 2 d 2
+b 7 c 5 e 15 c 2 d 2 d 2
+b 8 c 3 c 4 e 11 c 1 d 1 d 2
+b 9 c 1 c 1 c 4 e 7 c 1 d 2 d 3
+b 6 c 1 c 2 c 1 d 1 c 1 c 3 e 2 c 2 d 6
+b 5 c 2 d 3 c 3 d 1 c 1 c 1 c 2 c 1 d 6
+b 4 c 2 d 6 c 2 d 2 c 1 d 1 c 1 d 1 c 1 c 4 d 2 d 3
+b 3 c 2 d 10 c 1 d 1 c 1 c 1 c 1 c 1 d 2 d 3
+b 3 c 1 d 11 c 1 c 1 d 2 c 1 d 2 d 3
+b 2 c 2 d 14 c 3 d 1 d 2 c 1 d 2 d 3
+b 2 c 1 d 15 c 2 c 1 d 1 c 1 d 2 c 1 d 2 d 2
+b 2 c 1 d 17 c 4 c 1 d 2 c 1 d 5
+b 2 c 1 d 16 c 1 c 3 d 2 c 1 d 3 d 1
+b 2 c 1 d 14 c 2 e 3 c 2 d 1 c 1 d 3 d 1
+b 3 c 2 d 12 c 3 e 6 c 1 c 1 d 3 d 1
+b 3 c 2 d 9 c 2 e 9 c 2 d 3 d 1
+b 4 c 2 d 7 c 3 e 13 c 2 d 3 d 1
+b 6 c 1 d 4 c 2 e 1 c 1 d 3 d 1
+b 7 c 2 c 2 c 1 c 1 c 8 d 5
+b 9 c 6 c 3 c 1 c 1 c 1 c 1 c 2 d 5
+b 11 c 2 c 1 c 1 c 1 d 5
+b 20 c 2 c 1 c 1 d 2 d 2
+b 22 c 2 c 1 c 1 c 1 c 1 d 2 d 2
+b 24 c 3 c 1 c 1 d 1 d 2
+b 26 c 2 c 1 c 1 d 1 d 2
+b 29 c 2 c 2 d 1 d 2
+b 31 c 4 d 4
+b 32 c 2 d 4
+b 33 c 1 d 3
+b 33 c 1 d 3
+b 33 c 1 d 2
+b 33 c 1 d 3
+b 33 d 4

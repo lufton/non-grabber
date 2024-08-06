@@ -1,0 +1,71 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Sep  1, 2017"
+description "A wombat with a washboard"
+difficulty 2.25
+height 25
+id 30148
+link "https://webpbn.com/play.cgi?id=30148"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Instrumental Animal"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 4
+black 2 black 2
+black 3 black 2
+black 2 black 3
+black 2 black 2
+black 2 black 1 black 1
+black 4 black 1
+black 4 black 2 black 1 red 2
+black 3 black 1 black 4 black 3 red 3
+black 3 black 4 black 1 red 3 red 1
+black 2 black 3 red 2 red 2 black 3
+black 1 black 1 red 3 red 2 black 5
+black 2 black 2 red 3 red 2 black 4
+black 2 black 3 red 1 red 2 black 2 black 1
+black 8 red 3 red 2 black 1
+black 5 black 3 red 2 red 1 black 1
+black 3 black 3 red 2 red 2 black 1
+black 3 black 5 red 3 black 1
+black 2 black 2 black 2 red 3 red 1 black 1
+black 2 black 2 black 1 red 3 red 1 black 2
+black 2 black 1 black 2 red 1 red 1 black 1
+black 3 black 2 red 1 red 1 black 2
+black 8 red 1 red 1 black 2
+
+columns
+0
+black 3
+black 5
+black 7
+black 2 black 2 black 5
+black 2 black 2 black 7
+black 2 black 4 black 2
+black 2 black 1 black 3 black 1
+black 2 black 2 black 1
+black 2 black 3 black 2 black 2 black 1
+black 3 black 1 black 5 black 2 black 2 black 1
+black 1 black 4 black 2 black 2 black 2
+black 1 black 2 red 1 black 3 black 2 black 3
+black 3 red 1 black 2 black 6
+black 3 red 5 black 4 red 4
+black 1 black 2 red 1 red 1 red 1 black 1 red 1 black 1 red 1
+black 2 black 1 red 1 red 1 red 1 red 1 red 2
+black 5 red 1 red 1 red 1 red 1 red 1
+red 2 red 1 red 1 red 1 red 2
+red 1 red 1 red 1 red 1 red 2
+red 4 black 1 red 1 black 1 red 9
+red 1 black 4 black 1
+black 3 black 2
+black 3 black 3
+black 9

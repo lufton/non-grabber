@@ -1,0 +1,72 @@
+by "vonnizen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/3/05"
+height 21
+id 28523
+link "https://www.griddlers.net/nonogram/-/g/28523"
+medium_time "0:10:46"
+points 3210
+popularity 75.71
+title "Christmas Bell"
+width 27
+
+color a ffffff
+color b ff0000
+color c 008900
+color d 00c800
+color e fffe00
+color f ffcb00
+color h 000000
+
+rows
+b 3 b 3
+b 4 b 4
+c 1 b 5 b 4 c 1
+c 3 b 5 b 5 c 3
+c 5 b 9 c 5
+c 3 b 5 d 1 b 1 d 1 b 5 c 3
+c 3 b 5 d 2 e 1 d 1 b 6 c 3
+c 5 b 4 d 2 e 5 d 2 b 4 c 5
+c 5 d 1 b 2 d 2 e 7 d 2 b 2 d 1 c 5
+c 4 d 2 b 1 d 2 e 7 d 2 b 1 d 2 c 4
+c 3 d 5 e 9 d 5 c 3
+c 3 d 6 e 9 d 6 c 3
+c 1 d 6 e 11 d 6 c 1
+d 6 e 13 d 6
+d 2 d 2 b 11 d 2 d 1
+b 1 e 11 b 1
+e 13
+f 15
+f 2 e 5 h 1 e 5 f 2
+f 2 e 3 h 3 e 3 f 2
+f 10
+
+columns
+c 2 c 1 d 1
+c 6 d 2
+c 6 d 2
+c 5 d 3
+c 6 d 5
+c 4 b 2 d 7
+c 3 b 3 d 5 f 2
+c 2 b 5 d 3 e 1 b 1 e 1 f 3
+b 4 c 1 b 3 d 4 e 2 b 1 e 2 f 1 e 1 f 1
+b 7 d 3 e 4 b 1 e 2 f 1 e 2 f 1
+b 6 d 2 e 6 b 1 e 2 f 1 e 2 f 1
+b 5 d 1 e 7 b 1 e 2 f 1 e 2 f 1
+b 3 d 1 e 7 b 1 e 2 f 1 e 1 h 1 f 1
+b 2 e 8 b 1 e 2 f 1 h 2 f 1
+b 2 d 1 e 7 b 1 e 2 f 1 e 1 h 1 f 1
+b 5 d 1 e 7 b 1 e 2 f 1 e 2 f 1
+b 7 d 1 e 6 b 1 e 2 f 1 e 2 f 1
+b 7 d 3 e 4 b 1 e 2 f 1 e 2 f 1
+b 4 c 1 b 3 d 4 e 2 b 1 e 2 f 1 e 1 f 2
+c 2 b 5 d 3 e 1 b 1 e 1 f 3
+c 3 b 3 d 5 f 2
+c 4 b 2 d 7
+c 6 d 5
+c 5 d 3
+c 6 d 2
+c 6 d 1
+c 2 c 1 d 1

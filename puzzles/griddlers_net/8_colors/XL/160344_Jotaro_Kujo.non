@@ -1,0 +1,90 @@
+by "kitaro1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/17/15"
+height 42
+id 160344
+link "https://www.griddlers.net/nonogram/-/g/160344"
+medium_time "0:31:19"
+points 26860
+popularity 72.32
+title "Jotaro Kujo"
+width 23
+
+color a ffffff
+color b 000000
+color c ffff33
+color d ffcc99
+color e 0033cc
+color f 996600
+color g ccffff
+color h cc00cc
+
+rows
+b 6
+b 4 e 5 b 1
+b 5 e 8 b 1
+b 4 e 6 c 2 b 1
+b 4 e 2 c 2 e 2 c 2 e 1 b 1
+b 5 e 4 c 3 e 2 b 2
+b 8 e 5 c 4 b 1
+b 9 e 3 b 6
+b 2 d 1 b 2 f 1 b 5 e 5 b 1
+b 3 d 1 b 1 f 1 b 1 f 1 b 1 e 2 b 6
+b 3 d 1 f 4 e 1 b 1 e 1 f 2 b 1
+b 5 f 4 d 4 f 1 b 1
+b 1 b 1 e 3 c 1 b 1 f 2 d 4 b 1 c 1
+b 1 e 4 b 2 f 1 d 2 f 1 b 1 c 1 b 1 c 1
+b 3 e 5 b 1 f 4 b 1 c 1 b 1 c 1
+b 1 e 3 b 1 e 4 b 5 h 1 b 1 c 1 b 2
+b 1 e 4 b 1 e 4 b 1 h 4 b 1 c 1 b 2
+b 1 e 8 c 1 b 1 h 4 c 1 b 1 c 1 b 1
+b 1 e 8 b 1 h 4 c 1 b 1 c 1 b 1
+b 1 e 3 b 1 e 3 c 1 b 1 h 4 b 1 c 1 b 1
+b 1 e 3 b 1 e 4 b 1 h 4 b 2 e 1 b 1
+b 1 e 4 b 1 e 2 c 1 b 1 h 4 b 1 c 1 e 1 b 1
+b 1 e 5 b 1 e 2 b 1 h 5 b 5
+b 1 e 5 b 6 c 1 f 2 c 1 e 1 b 1 e 1 b 1
+b 2 e 4 d 1 f 1 b 1 f 3 e 5 b 1 e 1 b 1
+b 2 e 2 d 3 f 1 e 3 f 1 c 1 f 2 c 1 b 1 d 1 b 1
+b 1 e 1 b 1 f 2 d 1 e 1 f 3 b 1 e 4 b 1 d 1 b 1
+b 2 e 1 b 2 f 1 e 1 f 1 e 3 b 1 e 5 b 2
+b 1 e 1 b 3 e 5 b 2 e 7 b 1
+b 2 e 1 b 1 g 1 b 1 e 4 b 3 e 4 b 1 e 2 b 1
+b 1 e 1 b 2 g 1 b 1 e 4 b 1 g 1 b 1 e 4 b 2 e 1 b 1
+b 1 e 1 b 1 g 2 b 1 e 3 b 2 g 1 b 1 e 4 b 2 e 1 b 1
+b 2 e 1 b 1 g 1 b 2 e 3 b 1 g 2 b 2 e 3 b 1 g 1 b 1 e 1 b 1
+b 1 e 2 b 1 g 1 b 1 e 3 b 2 g 1 b 1 g 1 b 1 e 2 b 2 g 1 b 1 e 1 b 1
+b 1 e 2 b 1 g 1 b 1 e 3 b 1 g 2 b 1 g 1 b 2 e 1 b 1 g 2 b 1 e 1 b 1
+b 1 e 1 b 3 e 3 b 1 g 4 b 2 e 1 b 1 g 2 b 1 e 1 b 1
+b 1 e 2 b 1 f 2 e 1 b 2 g 1 b 1 g 1 b 2 f 1 e 1 b 4 e 1 b 1
+b 3 f 3 b 1 g 2 b 3 f 4 b 1 b 1
+b 1 f 4 b 1 g 1 b 2 b 1 f 3 b 3
+b 1 f 4 b 2 b 2 f 4 b 1
+b 1 f 4 b 1 b 5
+b 5
+
+columns
+b 3
+b 3 b 3 b 4 e 2 b 2
+b 1 b 1 b 1 e 3 b 4 e 2 b 2 b 3 e 7 b 1 b 2
+b 2 b 3 b 1 e 10 b 3 e 2 b 6 e 1 b 3 f 1 b 1
+b 1 b 10 e 13 b 3 g 4 b 3 f 3 b 1
+b 10 e 3 b 1 e 10 b 3 g 3 b 4 f 5 b 1
+b 6 d 3 b 1 e 4 b 1 e 2 b 2 e 4 d 1 f 1 b 6 e 3 f 5 b 1
+b 9 f 1 b 1 e 9 b 3 d 2 f 2 e 9 f 3 b 1
+b 8 f 3 c 1 e 10 b 1 f 1 d 2 e 9 b 4
+b 1 e 4 b 2 f 1 b 1 f 2 b 2 e 9 b 2 f 1 e 1 f 1 e 5 b 4 g 2 b 1
+b 2 e 5 b 2 f 4 b 3 e 1 c 1 e 1 c 1 e 1 c 1 b 2 f 1 e 1 f 1 e 4 b 3 g 4 b 1
+b 1 e 3 c 1 e 2 b 3 f 4 b 7 h 1 b 1 f 1 e 1 f 1 e 2 b 3 g 4 b 3
+b 1 e 3 c 1 e 3 b 1 e 2 d 3 f 1 b 1 h 7 b 1 f 1 e 1 f 1 e 1 b 2 g 3 b 2 g 2 b 1
+b 1 e 4 c 1 e 2 b 1 e 1 b 1 d 3 f 1 b 1 h 7 c 1 e 1 f 1 b 7 g 3 b 2
+b 1 e 4 c 1 e 2 b 2 e 1 d 2 f 2 b 1 h 7 f 1 e 1 c 1 e 6 b 5 f 1 b 2
+b 1 e 2 c 4 b 1 e 1 b 1 f 1 d 2 b 2 h 8 f 1 e 1 f 1 e 8 b 2 f 3 b 1
+b 1 e 1 c 2 e 1 c 1 b 1 e 1 b 1 f 2 b 1 c 2 b 2 c 2 b 4 c 1 e 1 f 1 e 11 f 3 b 1
+b 2 e 2 c 1 b 1 e 1 b 3 c 1 b 2 c 2 b 2 c 1 b 1 c 1 b 1 e 2 c 1 e 7 b 4 f 3 b 1
+b 2 c 1 b 1 e 1 b 1 c 2 b 2 c 2 b 1 e 2 b 5 e 2 b 5 g 2 b 3 f 1 b 1
+b 3 e 1 b 1 b 4 b 3 e 2 d 2 b 1 e 2 b 2 g 4 b 1 b 1 f 1 b 1
+b 2 b 6 e 4 b 5 b 3
+b 4 e 5 b 1
+b 5

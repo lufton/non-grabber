@@ -1,0 +1,62 @@
+by "Aaron Schmitz (calcnerd)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Aaron Schmitz"
+date "Feb 17, 2010"
+description "Lets Skate!!!!!!"
+difficulty 1.75
+height 20
+id 7851
+link "https://webpbn.com/play.cgi?id=7851"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Olympics 2!!!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4
+blue 2 red 2 blue 2
+red 1 blue 2 red 1
+red 4
+red 2
+blue 6
+blue 3 red 2 blue 4
+blue 3 red 1 blue 2 red 1 blue 1 blue 2
+blue 2 blue 1 red 4 blue 1 blue 2
+blue 2 blue 1 red 1 blue 2 red 1 blue 1 blue 2
+blue 2 blue 6 blue 2
+red 2 blue 6 red 2
+blue 6
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 2 black 2
+black 2 black 4
+black 4
+
+columns
+0
+blue 1 red 1
+blue 2 red 1
+blue 2
+blue 2
+blue 2 black 1
+blue 1 blue 13 black 2
+blue 2 red 2 blue 2 red 3 blue 8 black 2
+blue 1 red 1 blue 1 red 2 blue 1 red 1 blue 1 red 1 blue 4 black 1
+blue 1 red 1 blue 1 red 2 blue 1 red 1 blue 1 red 1 blue 4 black 1
+blue 2 red 2 blue 2 red 3 blue 7 black 2
+blue 1 blue 12 black 2
+blue 1 black 1
+blue 2
+blue 2
+blue 2
+blue 2 red 1
+blue 1 red 1
+0
+0

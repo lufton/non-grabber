@@ -1,0 +1,42 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Scarlet Noelle Masen"
+date "Oct 17, 2013"
+description "Cat and Bird"
+difficulty 1.25
+height 10
+id 22968
+link "https://webpbn.com/play.cgi?id=22968"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Simple Pix 13"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2
+red 2 green 2 black 1
+green 1 black 1
+black 1 black 1 green 3 black 1
+black 4 green 3 black 1
+black 4 red 1 green 1 red 1 black 1
+black 9
+black 8
+black 4 black 3
+black 1 black 1 black 2 black 1
+
+columns
+black 4
+black 6
+black 5
+red 1 black 7
+red 1 black 3
+green 2 green 2 red 1 black 2 black 1
+green 6 black 4
+green 2 red 1 black 3
+black 2 black 4
+black 3

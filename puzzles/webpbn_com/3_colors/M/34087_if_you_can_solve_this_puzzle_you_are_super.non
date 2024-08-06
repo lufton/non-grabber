@@ -1,0 +1,61 @@
+by "Nejat Polat (npolat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Nejat Polat"
+date "May 15, 2020"
+description "if you solved this you cheated"
+difficulty 2.75
+height 20
+id 34087
+link "https://webpbn.com/play.cgi?id=34087"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "if you can solve this puzzle you are super!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 1
+red 4 red 3
+red 5 red 5
+red 5 red 5
+red 3 red 4
+0
+black 2
+black 2
+black 1
+black 3
+black 3
+0
+0
+black 6
+black 4 black 2
+black 3 black 2
+black 3 black 2
+black 1 black 2
+
+columns
+0
+black 2
+red 2 black 1
+red 4 black 2
+red 4 black 1
+red 5 black 2
+red 3 black 1
+black 1 black 1
+black 3 black 2
+black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2
+red 4 black 2
+red 4 black 2
+red 4 black 2
+red 3 black 1
+red 2
+0

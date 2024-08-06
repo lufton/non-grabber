@@ -1,0 +1,71 @@
+by "CrazyPants"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/26/09"
+height 25
+id 79894
+link "https://www.griddlers.net/nonogram/-/g/79894"
+medium_time "0:10:25"
+points 5233
+popularity 66.44
+title "White Cat"
+width 23
+
+color a cccccc
+color b 000000
+color c 969696
+color d ff66ff
+color e 00d700
+color f ffffff
+
+rows
+b 3
+b 2 b 3 f 3 b 1
+b 1 f 1 b 2 b 2 f 2 b 2 f 3 b 1
+b 1 f 3 b 1 b 1 f 4 b 1 b 1 f 2 b 1
+b 1 f 4 b 7 f 2 b 1 f 2 b 1 b 1 f 2 b 1
+b 1 f 1 b 1 f 12 b 1 f 1 b 1 b 1 f 2 b 1
+b 1 f 14 b 1 f 1 b 2 f 3 b 1
+b 1 f 16 b 2 f 3 b 1
+b 1 f 1 c 3 f 7 c 3 f 2 b 1 f 3 b 1
+b 1 c 1 e 1 b 1 e 1 c 1 f 5 c 1 e 1 b 1 e 1 c 1 f 1 b 1 f 3 b 1
+b 1 c 1 e 1 b 1 e 1 c 1 f 5 c 1 e 1 b 1 e 1 c 1 f 1 b 1 f 2 b 1
+b 1 f 1 c 4 f 5 c 4 f 2 b 1 f 1 b 1
+b 1 f 6 d 1 f 7 b 3
+b 1 f 14 b 2
+b 1 f 4 d 3 f 5 b 2
+b 1 f 1 b 1 f 4 d 1 f 5 b 1 f 1 b 1
+b 1 f 2 b 2 f 6 b 2 f 2 b 1
+b 1 f 4 b 6 f 4 b 1
+b 1 f 14 b 1
+b 1 f 3 b 1 f 1 b 1 f 1 b 1 f 1 b 1 f 4 b 1
+b 1 f 3 b 2 b 1 b 1 b 1 f 3 b 1
+b 1 f 3 b 1 b 1 f 3 b 1
+b 1 f 3 b 1 b 1 f 3 b 1
+b 1 f 3 b 1 b 1 f 3 b 1
+b 3 b 3
+
+columns
+b 11
+b 1 f 7 c 2 f 1 b 2 b 9
+b 1 f 2 b 1 f 2 c 1 e 2 c 1 f 2 b 1 f 9 b 1
+b 1 f 5 c 1 b 2 c 1 f 3 b 1 f 8 b 1
+b 1 f 4 c 1 e 2 c 1 f 4 b 1 f 7 b 1
+b 1 f 4 c 3 f 4 b 1 f 2 b 5
+b 1 f 12 b 1 f 2 b 1
+b 1 f 9 d 1 f 2 b 1 f 1 b 1
+b 1 f 7 d 1 f 1 d 2 f 1 b 1 f 2 b 1
+b 1 f 9 d 1 f 2 b 1 f 1 b 1
+b 1 f 12 b 1 f 2 b 1
+b 1 f 4 c 3 f 5 b 1 f 1 b 1
+b 1 f 4 c 1 e 2 c 1 f 4 b 1 f 3 b 4
+b 1 f 5 c 1 b 2 c 1 f 4 b 1 f 7 b 1
+b 1 f 1 b 1 f 3 c 1 e 2 c 1 f 3 b 1 f 8 b 1
+b 1 f 3 b 2 f 2 c 2 f 3 b 1 f 9 b 1
+b 1 f 10 b 12
+b 13
+b 1 f 1 b 1 b 2 f 4 b 1
+b 1 f 2 b 3 f 5 b 1
+b 1 f 9 b 1
+b 1 f 6 b 2
+b 6

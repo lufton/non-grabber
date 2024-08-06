@@ -1,0 +1,74 @@
+by "puzzleguzzler"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/30/07"
+height 25
+id 48718
+link "https://www.griddlers.net/nonogram/-/g/48718"
+medium_time "0:09:39"
+points 2821
+popularity 80.75
+title "Perfect Apricot"
+width 25
+
+color a ffffff
+color c 663300
+color d 993300
+color e 339900
+color f 66cc00
+color g ff6600
+color h ff9933
+
+rows
+f 4 d 5
+e 1 f 7 d 4 c 3
+e 5 f 4 d 3 c 3
+e 9 f 1 d 4 c 3
+e 10 d 3 c 2 f 5
+e 6 d 1 c 1 e 1 f 6
+e 5 h 9 e 2 f 5
+e 1 h 12 e 3 f 5
+g 6 h 7 e 4 f 4
+g 7 h 7 e 4 f 3
+g 9 h 7 e 5 f 2
+g 11 h 7 e 4 f 2
+g 11 h 8 e 5
+g 12 h 7 e 3
+g 12 h 7
+g 13 h 6
+g 15 h 4
+g 15 h 4
+g 16 h 3
+g 16 h 3
+g 15 h 2
+g 15 h 1
+g 14
+g 11
+g 8
+
+columns
+e 4
+e 4 g 9
+e 5 g 12
+e 6 g 15
+f 1 e 5 h 1 g 15
+f 2 e 4 h 1 g 16
+f 2 e 3 h 2 g 16
+f 3 e 2 h 2 g 17
+f 3 e 2 h 2 g 17
+f 2 e 2 h 3 g 16
+f 3 d 2 h 4 g 15
+d 2 c 1 h 5 g 14
+d 2 h 7 g 12
+d 1 c 1 h 9 g 10
+d 2 c 1 h 10 g 9
+d 1 c 1 f 1 e 2 h 9 g 8
+d 2 c 1 f 2 e 3 h 9 g 5
+d 1 c 2 f 3 e 3 h 12
+d 1 c 1 f 3 e 4 h 10
+d 2 c 1 f 4 e 4 h 8
+d 1 c 1 f 4 e 4
+d 1 c 1 f 5 e 3
+d 1 c 1 f 3 e 4
+d 1 f 5 e 2
+f 2 e 2

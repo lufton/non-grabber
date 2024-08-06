@@ -1,0 +1,46 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 15
+id 166597
+link "https://www.griddlers.net/nonogram/-/g/166597"
+medium_time "0:00:37"
+points 92
+popularity 68.0
+title "Pin It"
+width 10
+
+color a ffffff
+color b ff0000
+color c cccccc
+color d cc3300
+
+rows
+b 6
+b 4
+b 4
+b 4
+b 6
+b 8
+b 8
+c 1
+d 3 c 1 d 4
+d 3 c 1 d 4
+d 3 c 1 d 4
+d 3 d 4
+d 10
+d 10
+d 10
+
+columns
+d 7
+b 2 d 7
+b 1 b 3 d 7
+b 7 d 3
+b 7 c 4 d 3
+b 7 d 3
+b 7 d 7
+b 1 b 3 d 7
+b 2 d 7
+d 7

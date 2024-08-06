@@ -1,0 +1,83 @@
+by "scopefragger"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/24/07"
+height 30
+id 46229
+link "https://www.griddlers.net/nonogram/-/g/46229"
+medium_time "0:22:38"
+points 42432
+popularity 81.08
+title "Lobster"
+width 30
+
+color a f4f4f4
+color b 303030
+color c dc5800
+color d 949494
+color e ff7800
+color h 4040c4
+
+rows
+b 2 b 6 b 1
+b 1 b 5 b 2
+b 1 b 1 b 1 c 3 b 1 c 1 b 1
+b 2 b 1 d 2 e 1 d 3 c 1 b 1
+b 1 d 1 b 1 e 1 b 2 d 2 c 1 b 1
+b 1 b 1 e 1 b 2 d 1 c 2 b 1
+b 1 b 1 c 1 b 2 d 1 c 3 b 1
+b 1 d 2 c 1 d 1 d 1 c 1 b 7
+b 3 c 1 b 3 c 2 b 2 c 6 b 2
+b 1 c 2 b 1 c 2 e 2 c 2 b 1 c 1 e 3 c 5 b 1
+b 3 c 1 b 1 c 1 e 2 c 2 b 3 c 2 e 1 c 4 b 1
+b 1 d 2 b 2 c 1 e 3 c 1 b 1 d 2 b 2 c 1 e 2 c 3 b 1
+b 1 d 2 b 1 c 2 e 2 c 2 b 1 d 3 b 1 c 1 e 2 c 2 b 1
+b 6 c 1 e 1 b 5 d 3 b 1 c 1 e 1 c 3 b 1
+b 1 c 4 b 2 c 2 b 1 c 4 b 4 c 1 e 1 c 3 b 1
+b 1 c 1 e 2 c 2 b 4 c 7 b 2 c 1 e 1 c 2 b 1
+b 1 c 1 e 2 c 2 b 1 h 3 b 1 c 2 e 4 c 2 e 2 c 2 b 2
+b 1 c 1 e 1 c 2 b 1 h 3 b 1 c 2 e 7 c 3 b 1 c 1 b 1
+b 1 c 1 e 2 c 1 b 1 h 3 b 1 c 2 e 7 c 3 b 1 c 2 b 1
+b 1 c 4 b 1 h 3 b 1 c 3 e 4 c 3 b 1 c 1 e 1 c 2 b 1
+b 2 c 2 b 1 h 4 b 1 c 9 b 1 c 1 e 1 c 2 b 1
+b 4 h 4 b 2 c 5 b 2 c 1 e 2 c 3 b 1
+b 11 c 2 e 2 b 1 c 1 e 1 c 1 b 1
+b 2 c 2 b 1 d 2 b 1 c 6 b 1 c 1 e 1 c 1 b 2
+b 1 d 1 b 4 d 1 b 8 c 5 b 1
+b 1 d 2 b 1 b 1 d 2 b 3 c 10 b 1
+b 5 d 2 b 4 d 1 b 2 b 6 c 2 e 1 c 1 b 1
+b 2 h 5 b 2 h 6 b 1 b 2 c 7 b 1
+b 1 h 6 b 1 h 8 b 7 c 3 b 1
+b 26
+
+columns
+b 1 b 3
+b 1 b 3 b 1 c 3 b 2
+b 1 b 1 c 1 b 1 d 1 b 2 c 1 e 2 c 2 b 1 b 3
+b 2 b 1 c 1 b 1 d 2 b 1 c 1 e 4 c 1 b 1 b 2 h 1 b 1
+b 1 b 7 c 1 b 1 d 1 b 1 c 4 e 1 c 1 b 1 b 1 h 2 b 1
+b 1 b 1 d 2 d 1 c 2 b 5 c 6 b 1 b 1 h 2 b 1
+b 1 c 1 d 1 b 3 d 1 b 1 c 4 b 6 c 2 b 1 b 1 h 2 b 1
+b 1 c 1 e 3 c 2 b 1 e 3 c 3 b 1 h 3 b 3 b 1 h 2 b 1
+b 1 c 1 d 1 b 3 d 1 b 1 e 5 c 1 b 1 h 5 b 1 b 1 d 1 h 2 b 1
+b 2 d 1 b 3 c 3 e 2 b 3 h 6 b 1 b 1 d 2 b 3
+b 2 c 1 d 2 d 1 c 5 b 1 c 2 b 3 h 3 b 2 d 2 b 2 h 1 b 1
+b 1 b 1 c 1 d 3 c 1 b 4 c 1 b 1 c 5 b 1 h 2 b 5 h 2 b 1
+b 1 b 1 c 3 b 2 c 1 b 1 d 1 b 2 c 6 b 1 h 1 b 1 c 1 b 1 b 1 h 2 b 1
+b 1 b 1 c 2 b 1 c 1 e 1 b 1 d 2 b 1 c 2 e 3 c 2 b 2 c 1 b 3 h 2 b 1
+b 1 b 1 c 1 b 1 c 1 e 1 c 1 b 1 d 2 b 1 c 1 e 3 c 2 b 4 d 2 h 2 b 1
+b 1 b 2 c 1 e 1 c 1 b 1 d 2 b 1 c 1 e 4 c 2 b 1 d 3 b 1 h 2 b 1
+b 1 b 1 c 2 e 1 c 1 b 1 d 1 b 1 c 1 e 4 c 2 b 1 d 1 b 3 h 2 b 1
+b 1 b 1 c 3 e 1 c 1 b 3 c 1 e 3 c 2 b 4 b 1 h 1 b 1
+b 1 b 1 c 3 e 2 c 2 b 1 c 1 e 3 c 2 b 1 c 1 b 2 b 2
+b 1 c 3 e 3 c 1 e 3 c 3 b 1 c 1 b 1 c 1 b 1 b 2
+b 1 c 6 e 2 c 4 b 1 c 2 b 1 c 1 b 4
+b 2 c 10 b 1 c 2 b 1 c 1 b 4
+b 2 c 6 b 2 c 1 e 1 c 1 b 1 c 1 b 1 c 1 b 2
+b 6 c 2 e 2 c 1 b 1 c 1 b 1 c 1 b 2
+b 1 c 2 e 3 b 2 c 2 b 1 c 1 b 2
+b 1 c 11 b 1
+b 1 c 3 e 2 c 5 b 1
+b 2 c 5 e 1 c 2 b 1
+b 3 c 4 b 1
+b 5

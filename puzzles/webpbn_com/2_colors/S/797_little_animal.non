@@ -1,0 +1,47 @@
+by "Lucilla Schiaffino (guspilla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Lucilla Schiaffino"
+date "Mar  7, 2007"
+description "a sweet mouse"
+difficulty 1.75
+height 15
+id 797
+link "https://webpbn.com/play.cgi?id=797"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "little animal"
+width 15
+
+rows
+6,6
+1,1,1,1
+1,2,1,1,2,1
+1,2,4,2,1
+1,1,1,1
+4,4
+1,1
+1,1,1,1,1
+1,1,1,1,1
+1,1,1
+1,1,2
+2,2,1
+3,3,1
+1,2,1,1
+1,2,3
+
+columns
+5
+1,1
+1,2,1
+1,2,10
+1,1,2
+5,2,1
+1,2
+1,2
+5,2,1
+1,1,2
+1,2,10
+1,2,1,1
+1,1,5
+5,2
+2

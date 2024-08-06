@@ -1,0 +1,56 @@
+by "Heather Williams (Pandabear)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Heather Williams"
+date "Apr 12, 2010"
+description "In case you missed it, thats H (psi) = E (psi), the Schrodinger equation. Google Schrodinger Equation if you don't know it..."
+difficulty 1.5
+height 10
+id 8362
+link "https://webpbn.com/play.cgi?id=8362"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Fundamental wave"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 25
+red 1 black 1 black 1 red 1 black 1 black 1 red 5 black 3 red 1 black 1 black 1
+red 1 black 1 black 1 red 1 black 1 black 1 black 1 red 5 black 1 red 1 black 1 black 1 black 1
+red 1 black 1 black 1 red 1 black 1 black 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 black 1 black 1
+red 1 black 4 red 1 black 1 black 1 black 1 red 1 red 1 black 3 red 1 black 1 black 1 black 1
+red 1 black 1 black 1 red 1 black 1 black 1 black 1 red 1 black 3 red 1 black 1 red 1 black 1 black 1 black 1
+red 1 black 1 black 1 red 1 black 1 black 1 black 1 red 5 black 1 red 1 black 1 black 1 black 1
+red 1 black 1 black 1 red 1 black 5 red 5 black 3 red 1 black 5
+red 8 black 1 red 13 black 1 red 2
+red 8 black 1 red 13 black 1 red 2
+
+columns
+red 10
+red 1 black 7 red 2
+red 1 black 1 red 2
+red 1 black 1 red 2
+red 1 black 7 red 2
+red 10
+red 1 black 7 red 2
+red 1 black 1 red 2
+red 1 black 8
+red 1 black 1 red 2
+red 1 black 7 red 2
+red 10
+red 3 black 1 black 1 red 4
+red 3 black 1 black 1 red 4
+red 3 black 1 black 1 red 4
+red 10
+red 1 black 7 red 2
+red 1 black 1 black 1 black 1 red 2
+red 1 black 1 black 1 black 1 red 2
+red 10
+red 1 black 7 red 2
+red 1 black 1 red 2
+red 1 black 8
+red 1 black 1 red 2
+red 1 black 7 red 2

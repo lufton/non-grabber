@@ -1,0 +1,53 @@
+by "Andrei Kantor (heraphim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Andrei Kantor"
+date "Aug 17, 2010"
+description "a computer!"
+difficulty 1.25
+height 16
+id 10011
+link "https://webpbn.com/play.cgi?id=10011"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "My favourite thing"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 16
+black 16
+black 16
+black 4 blue 8 black 4
+black 4 blue 1 black 4 blue 1 black 4
+black 4 blue 1 black 6 blue 1 black 4
+black 4 blue 1 black 6 blue 1 black 4
+black 4 blue 1 black 4 blue 1 black 4
+black 4 blue 8 black 4
+black 16
+black 3 blue 10 black 3
+black 3 blue 1 black 5 black 1 blue 1 black 3
+black 3 blue 10 black 3
+black 16
+black 16
+black 16
+
+columns
+black 16
+black 16
+black 16
+black 10 blue 3 black 3
+black 3 blue 6 black 1 blue 1 black 1 blue 1 black 3
+black 3 blue 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 3
+black 3 blue 1 black 4 blue 1 black 1 blue 1 black 1 blue 1 black 3
+black 3 blue 1 black 4 blue 1 black 1 blue 1 black 1 blue 1 black 3
+black 3 blue 1 black 4 blue 1 black 1 blue 1 black 1 blue 1 black 3
+black 3 blue 1 black 4 blue 1 black 1 blue 1 blue 1 black 3
+black 3 blue 1 black 2 blue 1 black 1 blue 1 blue 1 black 3
+black 3 blue 6 black 1 blue 1 black 1 blue 1 black 3
+black 10 blue 3 black 3
+black 16
+black 16
+black 16

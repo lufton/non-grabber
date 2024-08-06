@@ -1,0 +1,31 @@
+by "koakuma (koakuma)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by koakuma"
+date "Dec 16, 2010"
+description "that's a special bowling ball. why is it so special? they forgot a bowling ball had 3 holes..."
+difficulty 1.25
+height 5
+id 11448
+link "https://webpbn.com/play.cgi?id=11448"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "i'm annoying you with another quilt lalala~"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 3
+blue 2 black 1 blue 2
+blue 3 black 1 blue 1
+blue 5
+blue 3
+
+columns
+blue 3
+blue 5
+blue 1 black 1 blue 3
+blue 2 black 1 blue 2
+blue 3

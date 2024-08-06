@@ -1,0 +1,70 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/15/13"
+height 20
+id 130986
+link "https://www.griddlers.net/nonogram/-/g/130986"
+medium_time "0:06:14"
+points 2510
+popularity 63.82
+title "Child's Xylophone"
+width 25
+
+color a ffffff
+color b f7b642
+color c 0875d6
+color d 08598c
+color e a5ba5a
+color f 39794a
+color g ffe752
+color h ad1418
+
+rows
+b 3
+c 2 b 4
+d 1 c 4 b 4
+e 2 d 2 c 4 b 4
+f 1 e 4 d 2 c 4 b 4
+g 2 f 2 e 4 d 2 c 4 b 4
+b 1 g 4 f 2 e 4 d 2 c 4 b 4
+h 2 b 2 g 4 f 2 e 4 d 2 c 4 b 3
+b 1 h 4 b 2 g 4 f 2 e 4 d 2 c 1 d 2 b 3
+b 2 h 4 b 2 g 4 f 2 e 4 d 2 b 3
+b 3 h 4 b 2 g 4 f 2 e 3 b 2
+b 4 h 4 b 2 g 4 f 2 b 1
+b 5 h 4 b 2 g 3
+b 6 h 5 b 1
+b 6 h 1
+b 5 h 1
+b 4
+b 3
+b 2
+b 1
+
+columns
+b 6
+h 1 b 6
+h 3 b 6
+h 4 b 6
+b 2 h 4 b 6
+g 1 b 2 h 4 b 6
+g 3 b 2 h 4 b 6
+g 4 b 2 h 5
+f 2 g 4 b 2 h 2
+e 1 f 2 g 4 b 2 h 1
+e 3 f 2 g 4 b 1 h 1
+e 4 f 2 g 4 b 1
+d 2 e 4 f 2 g 3
+c 1 d 2 e 4 f 2 g 2
+c 3 d 2 e 4 f 2
+c 4 d 2 e 4 f 1
+b 2 c 4 d 2 e 3
+b 3 c 4 d 2 e 2
+b 4 c 4 d 2
+b 4 c 4 d 1
+b 4 c 2 d 1
+b 4 c 1 d 1
+b 6
+b 6
+b 6

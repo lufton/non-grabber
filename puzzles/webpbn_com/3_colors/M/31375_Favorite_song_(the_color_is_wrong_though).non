@@ -1,0 +1,71 @@
+by "Mary Maxine (shanarieva)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Mary Maxine"
+date "Jun 28, 2018"
+description "I know, I know the image isn't great. But the song amuses me."
+difficulty 1.5
+height 20
+id 31375
+link "https://webpbn.com/play.cgi?id=31375"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Favorite song (the color is wrong though)"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1
+black 1
+black 3
+blue 3
+blue 3 blue 5 blue 3
+blue 5 blue 2 black 1 blue 2 blue 5
+blue 7 blue 5 blue 7
+blue 9 blue 5 blue 9
+blue 5 blue 5 blue 3 blue 6 blue 4
+blue 5 blue 14 blue 4
+blue 4 blue 12 blue 4
+blue 3 blue 10 blue 3
+blue 2 blue 10 blue 2
+blue 10
+blue 10
+blue 10
+blue 8
+blue 6
+blue 4
+
+columns
+blue 4
+blue 5
+blue 5
+blue 5
+blue 5
+blue 5
+blue 4
+blue 5
+blue 5
+blue 5
+blue 9
+blue 9
+blue 4 blue 9
+black 1 blue 16
+black 3 blue 2 black 1 blue 13
+black 1 blue 16
+blue 4 blue 10
+blue 10
+blue 10
+blue 10
+blue 6
+blue 6
+blue 5
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+blue 3

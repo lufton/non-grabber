@@ -1,0 +1,42 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 11, 2010"
+description "good morning :)"
+difficulty 1.25
+height 13
+id 9131
+link "https://webpbn.com/play.cgi?id=9131"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Savory time..."
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 2
+black 2 black 1
+black 1 black 1
+0
+blue 1 blue 1
+blue 1 black 4 blue 1
+blue 3 black 4 blue 1
+blue 1 blue 1 black 4 blue 1
+blue 1 blue 1 black 4 blue 1
+blue 3 black 4 blue 1
+blue 1 black 4 blue 1
+blue 6
+
+columns
+blue 4
+blue 1 blue 1
+blue 8
+black 6 blue 1
+black 2 black 6 blue 1
+black 2 black 6 blue 1
+black 2 black 1 black 6 blue 1
+black 1 blue 8

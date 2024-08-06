@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/07"
+height 14
+id 46774
+link "https://www.griddlers.net/nonogram/-/g/46774"
+medium_time "0:02:44"
+points 546
+popularity 65.83
+title "Fort"
+width 15
+
+color a ffffff
+color b cc6600
+color c cccccc
+color d 999999
+color e 666666
+color f 330099
+
+rows
+f 1
+f 3
+f 5
+d 1 c 1 c 1 d 1 c 1 d 1 c 1 c 1
+d 1 c 4 d 1 c 1 d 1 c 4
+d 1 c 4 d 1 c 1 d 1 c 4
+d 1 c 2 d 1 c 2 d 1 c 2
+d 1 c 2 e 1 e 1 e 1 c 1 e 1 d 1 c 2
+d 1 c 2 e 7 d 1 c 2
+d 1 c 2 e 3 b 1 e 3 d 1 c 2
+d 1 c 2 e 2 b 3 e 2 d 1 c 2
+d 1 c 2 e 2 b 3 e 2 d 1 c 2
+d 1 c 2 e 2 b 3 e 2 d 1 c 2
+d 1 c 2 e 2 b 3 e 2 d 1 c 2
+
+columns
+d 3
+c 2 d 8
+c 11
+c 10
+c 3 e 7
+e 6
+e 3 b 4
+f 1 e 1 b 5
+f 2 d 4 e 3 b 4
+f 3 c 5 e 6
+f 2 d 3 c 1 e 7
+f 1 c 2 d 8
+c 11
+c 10
+c 3

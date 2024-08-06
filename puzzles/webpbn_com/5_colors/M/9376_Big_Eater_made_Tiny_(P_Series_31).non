@@ -1,0 +1,68 @@
+by "Ray Star (RazorStar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ray Star"
+date "Jun 26, 2010"
+description "Snorlax from Pokemon. I used a different kind of sprite this time to make the puzzle easier, tell me what you think about baby snorlax! Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile PokÃ©mon that there are children who use its expansive belly as a place to play."
+difficulty 2.25
+height 21
+id 9376
+link "https://webpbn.com/play.cgi?id=9376"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Big Eater made Tiny (P Series 31)"
+width 24
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2
+black 1 blue 1 black 1
+black 1 blue 2 black 3 black 2
+black 1 blue 3 black 3 blue 2 black 1
+black 1 black 2 blue 5 black 1
+black 2 black 1 black 2 blue 3 black 1
+black 1 blue 1 black 4 blue 2 black 1
+black 1 blue 1 black 1 green 4 black 2 blue 3 black 1
+black 3 green 7 black 3 blue 4 black 1
+black 1 green 10 black 1 blue 1 black 2 blue 1 black 1
+black 1 green 10 black 1 blue 5 black 1
+black 3 green 10 black 1 blue 6 black 1
+black 1 black 1 black 1 green 10 black 1 blue 5 black 1
+black 1 red 1 green 2 black 1 green 5 black 3 green 3 black 1 blue 4 black 1
+black 1 red 2 green 2 blue 1 green 3 black 1 black 1 black 1 green 1 blue 5 black 1
+black 1 red 2 green 2 blue 3 black 1 green 3 black 1 black 1 blue 5 black 1
+black 1 green 3 blue 3 black 1 green 1 red 2 green 2 black 1 blue 4 black 1
+black 4 blue 2 black 1 green 1 red 2 green 2 black 1 blue 3 black 1
+black 2 green 1 red 2 green 2 black 1 blue 1 black 2
+black 2 green 3 black 3
+black 3
+
+columns
+black 4
+black 1 red 3 black 1
+black 2 green 1 red 2 green 1 black 1
+black 2 green 4 black 1
+black 1 green 2 black 2 green 3 black 1
+black 2 green 5 blue 3 black 1
+black 1 blue 1 black 1 green 6 blue 3
+black 1 blue 1 black 1 green 6 blue 3 black 1
+black 1 black 1 green 7 black 5
+black 1 green 7 black 1 green 4 black 1
+black 2 green 6 black 1 green 1 red 3 green 1 black 1
+black 1 black 1 green 6 black 2 green 1 red 3 green 1 black 1
+black 2 black 1 green 6 black 1 black 1 green 4 black 1
+black 1 blue 1 black 1 black 1 green 6 black 1 green 3 black 1
+black 1 blue 2 black 1 black 1 green 2 black 2 green 3 black 5
+black 3 blue 1 black 2 blue 1 black 1 green 1 blue 5 black 1
+black 1 blue 1 black 1 blue 3 black 1 blue 4 black 1
+black 1 blue 1 black 1 black 1 blue 9 black 1
+black 1 blue 1 black 1 blue 1 black 1 blue 7 black 1
+black 1 blue 1 blue 2 black 1 blue 6 black 1
+black 1 blue 10 black 2
+black 1 blue 6 black 5
+black 1 blue 3 black 3
+black 3

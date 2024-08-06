@@ -1,0 +1,53 @@
+by "Ben (bendanielhayden)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Ben"
+date "Apr  8, 2013"
+description "Red Rose"
+difficulty 1.25
+height 20
+id 21624
+link "https://webpbn.com/play.cgi?id=21624"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Flower"
+width 12
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 2 black 2 black 2
+black 10
+black 10
+black 8
+black 6
+black 4
+green 2
+green 2
+green 2 green 2
+green 5
+green 4
+green 3
+green 2
+green 4
+green 4
+green 3
+green 2
+green 2
+green 2
+
+columns
+0
+black 2
+black 4
+black 5 green 2
+black 5 green 3
+black 6 green 13
+black 6 green 13
+black 5 green 3
+black 5 green 3
+black 4 green 2
+black 2
+0

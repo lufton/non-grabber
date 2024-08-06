@@ -1,0 +1,46 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Kristen Vognild"
+date "Jul 12, 2021"
+description "more or less to scale"
+difficulty 1.0
+height 20
+id 35227
+link "https://webpbn.com/play.cgi?id=35227"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Another board game token"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 4
+black 4
+green 4
+black 4
+black 4
+green 4
+black 4
+black 4
+green 4
+black 4
+black 4
+green 4
+black 4
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+
+columns
+0
+black 2 green 1 black 2 green 1 black 2 green 1 black 2 green 1 black 1
+black 2 green 1 black 2 green 1 black 2 green 1 black 2 green 1 black 8
+black 2 green 1 black 2 green 1 black 2 green 1 black 2 green 1 black 8
+black 2 green 1 black 2 green 1 black 2 green 1 black 2 green 1 black 1

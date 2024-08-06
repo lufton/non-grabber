@@ -1,0 +1,53 @@
+by "Bart Henning (blazers67)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Bart Henning"
+date "Aug 22, 2011"
+description "This is my first ever color. I'm not fond of color honestly. I think it detracts from the fun of the puzzles, and the pictures. Still, had to make one. It's a blue bird flying over the rainbow, form one of the wizard of oz's songs."
+difficulty 1.75
+height 15
+id 15629
+link "https://webpbn.com/play.cgi?id=15629"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Dorthy"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 1 blue 2
+blue 2
+blue 4
+blue 1 blue 2
+0
+red 7
+red 2 green 5 red 2
+red 2 green 2 blue 3 green 2 red 2
+red 2 green 2 blue 2 blue 2 green 2 red 2
+red 2 green 2 blue 2 blue 2 green 2 red 2
+red 1 black 2 blue 2 blue 2 black 2 red 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 3 black 3
+
+columns
+red 2 black 2
+red 2 black 1 black 1
+red 2 green 1 black 1 black 1
+red 2 green 2 blue 1 black 1
+red 2 green 2 blue 2 black 2
+blue 1 blue 2 red 1 green 2 blue 2
+blue 2 red 1 green 1 blue 2
+blue 4 red 1 green 1 blue 1
+blue 1 blue 2 red 1 green 1 blue 2
+red 1 green 2 blue 2
+red 2 green 2 blue 2 black 2
+red 2 green 2 blue 1 black 1
+red 2 green 1 black 1 black 1
+red 2 black 1 black 1
+red 2 black 2

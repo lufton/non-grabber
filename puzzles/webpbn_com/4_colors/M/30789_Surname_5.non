@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Jan 24, 2018"
+description ""
+difficulty 1.75
+height 20
+id 30789
+link "https://webpbn.com/play.cgi?id=30789"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Surname 5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 9
+black 11 black 4
+black 11 black 5
+red 11 green 1 black 1
+red 11 green 1 black 1
+red 13 green 1
+red 13 green 1
+red 13 green 1
+red 15
+red 9 red 4
+red 9 red 4
+red 12 black 3 black 3
+red 11 green 1 red 1 black 4 green 1
+red 11 green 1 red 1 green 1
+red 11 green 1 red 1 green 1
+red 11
+red 11
+black 11
+black 11
+red 9
+
+columns
+red 4
+red 10
+black 2 red 14 black 2
+red 1 black 2 red 14 black 2 red 1
+red 1 black 2 red 14 black 2 red 1
+red 1 black 2 red 14 black 2 red 1
+red 1 black 2 red 14 black 2 red 1
+red 1 black 2 red 14 black 2 red 1
+red 1 black 2 red 14 black 2 red 1
+red 1 black 2 red 6 red 6 black 2 red 1
+red 1 black 2 red 6 red 6 black 2 red 1
+red 1 black 2 red 14 black 2 red 1
+black 2 red 8 black 1 green 3 red 2 black 2
+red 6 black 1 red 3
+black 2 red 3 black 2
+black 2 black 1
+black 2 green 5 black 1
+black 2 black 2
+black 2 black 1
+black 1 black 1 green 3

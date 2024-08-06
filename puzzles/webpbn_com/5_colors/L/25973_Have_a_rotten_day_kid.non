@@ -1,0 +1,83 @@
+by "Barbara Zordan (MotherMech)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Barbara Zordan"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 40
+id 25973
+link "https://webpbn.com/play.cgi?id=25973"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Have a rotten day, kid!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 8
+green 11
+green 2 black 8 green 2
+green 1 black 2 black 2 black 2 green 1
+green 4 blue 1 green 2 blue 1 green 3
+green 14
+green 14
+green 3 black 7 green 4
+green 3 black 1 red 6 black 1 green 2 blue 1
+green 2 black 2 red 2 black 2 green 2 red 2 blue 2
+green 2 black 4 green 2 red 4
+green 6 red 4
+green 2 red 2
+green 4 green 3
+green 6 green 5
+green 11
+black 1 green 12 black 1
+black 1 green 12 black 2
+black 1 green 3 black 11
+black 2 green 2 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 3 black 3 black 3 black 3
+black 13
+0
+
+columns
+0
+black 20
+green 5 green 2 black 18
+green 8 green 4 black 17
+green 2 black 1 green 6 green 4 black 1
+green 2 black 2 green 3 black 2 green 2 green 3 black 19
+green 2 black 1 green 2 black 1 red 1 black 1 green 2 green 4 black 19
+green 2 black 1 blue 1 green 2 black 1 red 1 black 2 green 1 green 5 black 19
+green 2 black 2 green 3 black 1 red 2 black 1 green 7 black 1 black 1
+green 2 black 2 green 3 black 1 red 2 black 1 green 7 black 19
+green 2 black 1 green 2 black 1 red 1 black 2 green 1 green 5 black 19
+green 2 black 1 blue 1 green 2 black 1 red 1 black 1 green 2 green 4 black 19
+green 2 black 2 green 4 black 1 green 2 green 3 black 1 black 1
+green 2 black 1 green 6 green 4 black 19
+green 7 red 2 green 3 black 20
+green 3 red 4 green 3 black 20
+red 4 green 2
+blue 1 red 2 green 2
+blue 2
+0

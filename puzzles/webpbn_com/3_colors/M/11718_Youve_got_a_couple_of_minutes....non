@@ -1,0 +1,61 @@
+by "Tripper (TripperCR)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tripper"
+date "Jan 10, 2011"
+description "...to solve this one, if not, you'd better run!!! :P"
+difficulty 2.25
+height 20
+id 11718
+link "https://webpbn.com/play.cgi?id=11718"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "You've got a couple of minutes..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 2
+black 3 black 1 black 1
+black 2 black 4 black 1
+black 3 black 4 black 1
+black 3 black 1 black 4 black 1
+black 3 black 3 black 4 black 1
+black 5 black 3 black 3 black 1
+black 3 black 4 black 5 black 1
+black 3 black 1 black 3 black 1
+black 3 black 3 black 6 black 2
+black 3 black 1 black 3 black 3 black 2
+black 6 black 5 red 1 black 2 red 1
+black 7 black 3 red 1 black 1 red 2
+black 9 red 1 black 1 red 1
+black 6 red 1 red 2 black 1 red 3
+black 4 red 3 black 1 red 1
+black 2 red 10
+red 3
+red 1 red 1 red 2
+red 1 red 1
+
+columns
+black 3
+black 5
+black 7
+black 3 black 5
+black 2 black 7
+black 2 black 1 black 6
+black 2 black 3 black 4
+black 4 black 3 black 2
+black 5 black 4
+black 2 black 2 black 1 black 3
+black 2 black 1 black 1 black 4 red 1
+black 2 black 3 black 3 red 1 red 1 red 1
+black 2 black 1 black 3 black 2 red 2 red 2 red 1
+black 4 black 4 red 4 red 1
+black 4 black 3 red 4
+black 7 black 5 red 2
+black 2 black 4 black 2 red 6
+black 1 black 2 black 2 red 3 red 1 red 1
+black 1 black 2 red 1 red 1 red 1
+black 7 red 1 red 1

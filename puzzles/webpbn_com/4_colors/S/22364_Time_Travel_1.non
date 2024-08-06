@@ -1,0 +1,52 @@
+by "Joshua (jag)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joshua"
+date "Jul 16, 2013"
+description "Answer in first spoiler"
+difficulty 2.25
+height 15
+id 22364
+link "https://webpbn.com/play.cgi?id=22364"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Time Travel #1"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 1 black 6
+black 1 black 1 red 3 black 1
+black 1 red 1 black 1 red 3 black 3 black 1
+black 1 black 1 red 1 red 1 red 2 black 1 black 1
+black 1 black 1 red 3 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1
+black 1 black 1 red 1 blue 2 black 1 black 1
+black 1 black 1 red 2 black 2 blue 2 black 1 black 1
+black 1 red 1 black 1 red 1 blue 2 black 1 black 1
+black 1 black 2 red 1 black 1 blue 2 black 1 black 1
+black 2 red 1 blue 2 black 1
+black 7
+0
+
+columns
+0
+black 8
+black 1 black 2
+black 1 red 1 black 6 red 1 black 1
+black 1 black 2 red 1 red 1 black 2 black 1
+black 1 red 2 red 1 black 2 red 2 black 1 black 1
+black 1 red 6 black 1 red 3 black 1
+black 1 red 2 red 1 black 2 black 1 blue 1 black 1 blue 1 black 1
+black 1 black 1 red 1 black 1 blue 5 black 1
+black 1 black 1 red 1 black 2 blue 2 blue 1 black 1
+black 1 black 2 black 2 black 1
+black 2 black 5 black 1
+black 1 black 1
+black 7
+0

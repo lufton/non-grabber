@@ -1,0 +1,65 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Jul 23, 2013"
+description "A famous medieval exercise from China (or Japan): Connect all four corner points of a square to two opposite median points! It makes a central polygon. Is it a regular octogon or not? Why or why not?"
+difficulty 2.0
+height 21
+id 22425
+link "https://webpbn.com/play.cgi?id=22425"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Geometrical problem"
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 4 green 1 black 1 green 1 green 3 black 1
+green 1 black 3 green 2 green 2 black 1 green 2 green 3 black 2 green 1
+green 1 black 1 black 2 green 4 black 1 blue 1 black 1 green 4 black 2 black 1 green 1
+green 2 black 1 black 2 green 2 black 1 blue 1 black 1 green 2 black 2 black 1 green 2
+green 1 black 1 black 2 blue 3 black 2 black 1 green 1
+green 2 black 1 black 5 black 1 green 2
+green 1 black 1 black 3 red 1 black 3 black 1 green 1
+green 2 black 1 black 2 red 5 black 2 black 1 green 2
+green 3 black 3 red 7 black 3 green 3
+green 2 black 2 blue 1 black 2 red 7 black 2 blue 1 black 2 green 2
+black 2 blue 3 black 1 red 9 black 1 blue 3 black 2
+green 2 black 2 blue 1 black 2 red 7 black 2 blue 1 black 2 green 2
+green 3 black 3 red 7 black 3 green 3
+green 2 black 1 black 2 red 5 black 2 black 1 green 2
+green 1 black 1 black 3 red 1 black 3 black 1 green 1
+green 2 black 1 black 5 black 1 green 2
+green 1 black 1 black 2 blue 3 black 2 black 1 green 1
+green 2 black 1 black 2 green 2 black 1 blue 1 black 1 green 2 black 2 black 1 green 2
+green 1 black 1 black 2 green 4 black 1 blue 1 black 1 green 4 black 2 black 1 green 1
+green 1 black 2 green 3 green 2 black 1 green 2 green 3 black 2 green 1
+black 1 green 3 green 1 black 1 green 1 green 3 black 1
+
+columns
+black 1 green 3 green 1 black 1 green 1 green 3 black 1
+green 1 black 2 green 3 green 2 black 1 green 2 green 3 black 2 green 1
+green 1 black 1 black 2 green 4 black 1 blue 1 black 1 green 4 black 2 black 1 green 1
+green 1 black 2 black 2 green 2 black 1 blue 1 black 1 green 2 black 2 black 1 green 2
+green 2 black 1 black 2 blue 3 black 2 black 1 green 1
+green 2 black 1 black 5 black 1 green 2
+green 1 black 1 black 3 red 1 black 3 black 1 green 1
+green 2 black 1 black 2 red 5 black 2 black 1 green 2
+green 3 black 3 red 7 black 3 green 3
+green 2 black 2 blue 1 black 2 red 7 black 2 blue 1 black 2 green 2
+black 2 blue 3 black 1 red 9 black 1 blue 3 black 2
+green 2 black 2 blue 1 black 2 red 7 black 2 blue 1 black 2 green 2
+green 3 black 3 red 7 black 3 green 3
+green 2 black 1 black 2 red 5 black 2 black 1 green 2
+green 1 black 1 black 3 red 1 black 3 black 1 green 1
+green 2 black 1 black 5 black 1 green 2
+green 1 black 1 black 2 blue 3 black 2 black 1 green 1
+green 2 black 1 black 2 green 2 black 1 blue 1 black 1 green 2 black 2 black 1 green 2
+green 1 black 1 black 2 green 4 black 1 blue 1 black 1 green 4 black 2 black 1 green 1
+green 1 black 2 green 3 green 2 black 1 green 2 green 3 black 2 green 1
+black 1 green 3 green 1 black 1 green 1 green 3 black 1

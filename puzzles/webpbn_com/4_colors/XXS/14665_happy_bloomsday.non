@@ -1,0 +1,32 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jun 16, 2011"
+description "16 june 1902"
+difficulty 1.25
+height 5
+id 14665
+link "https://webpbn.com/play.cgi?id=14665"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "happy bloomsday!"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 2
+red 2 black 1 red 1
+red 1 black 1 black 1 red 1
+red 2 black 1 red 1
+red 2 green 1
+
+columns
+red 3
+red 2 black 1 red 2
+red 1 black 1 black 1 red 1
+red 1 black 1 red 1
+red 1 green 1

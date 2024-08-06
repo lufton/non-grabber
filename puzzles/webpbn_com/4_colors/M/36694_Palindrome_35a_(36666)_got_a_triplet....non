@@ -1,0 +1,72 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Apr 14, 2023"
+description "Fraternal, not identical. Again, 2 words, 7 letters. Clue in the spoilers."
+difficulty 1.75
+height 25
+id 36694
+link "https://webpbn.com/play.cgi?id=36694"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Palindrome 35a (36666) got a triplet..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3
+black 4 green 3 black 4
+black 2 green 1 red 9 green 1 black 2
+black 1 green 2 red 2 red 2 green 2 black 1
+black 1 green 2 red 2 green 5 red 2 green 2 black 1
+black 1 green 1 red 2 green 7 red 2 green 1 black 1
+black 1 green 2 red 1 green 9 red 1 green 2 black 1
+black 1 green 2 red 1 green 12 red 1 green 2 black 1
+black 1 green 3 red 1 green 6 red 1 green 3 black 1
+black 1 green 3 red 1 green 9 red 1 green 3 black 1
+black 1 green 3 red 2 green 7 red 2 green 3 black 1
+black 1 green 5 red 2 green 5 red 2 green 5 black 1
+black 1 green 6 red 2 red 2 green 6 black 1
+black 1 green 7 red 9 green 7 black 1
+black 1 green 10 black 3 green 10 black 1
+black 1 green 7 black 3 green 3 black 3 green 7 black 1
+black 1 green 4 black 3 green 9 black 3 green 4 black 1
+black 1 green 1 black 3 green 15 black 3 green 1 black 1
+black 1 green 21 black 1
+black 1 green 21 black 1
+black 1 green 21 black 1
+black 1 green 19 black 1
+black 1 green 8 black 3 green 8 black 1
+black 1 green 3 black 4 black 4 green 3 black 1
+black 3 black 3
+
+columns
+black 7
+black 3 green 7 black 3
+black 2 green 9 black 1 green 3 black 2
+black 2 green 11 black 1 green 5 black 1
+black 1 green 13 black 1 green 6 black 1
+black 1 green 2 red 6 green 5 black 1 green 7 black 1
+black 1 green 1 red 2 red 2 green 4 black 1 green 7 black 1
+black 1 green 1 red 2 green 2 red 2 green 3 black 1 green 6 black 1
+black 1 red 2 green 4 red 2 green 1 black 1 green 7 black 1
+black 1 red 1 green 6 red 1 green 1 black 1 green 7 black 1
+black 1 red 1 green 8 red 1 green 1 black 1 green 7 black 1
+black 1 green 1 red 1 green 8 red 1 black 1 green 7 black 1
+black 1 green 1 red 1 green 8 red 1 black 1 green 7 black 1
+black 1 green 1 red 1 green 4 green 3 red 1 black 1 green 7 black 1
+black 1 red 1 green 4 green 3 red 1 green 1 black 1 green 7 black 1
+black 1 red 1 green 3 green 2 red 1 green 1 black 1 green 7 black 1
+black 1 red 2 green 2 green 1 red 2 green 1 black 1 green 7 black 1
+black 1 green 1 red 2 green 1 red 2 green 3 black 1 green 6 black 1
+black 1 green 1 red 2 green 1 red 2 green 4 black 1 green 7 black 1
+black 1 green 2 red 6 green 5 black 1 green 7 black 1
+black 1 green 13 black 1 green 6 black 1
+black 2 green 11 black 1 green 5 black 1
+black 2 green 9 black 1 green 3 black 2
+black 3 green 7 black 3
+black 7

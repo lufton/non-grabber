@@ -1,0 +1,61 @@
+by "Levi Ross (rhodyboy888)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Levi Ross"
+date "Dec  9, 2011"
+description "An acorn lying on the grass. Some lucky squirrel will be able to put this away for winter."
+difficulty 1.25
+height 20
+id 16704
+link "https://webpbn.com/play.cgi?id=16704"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Winter Food"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 3
+black 5
+black 11
+black 13
+black 14
+black 14
+black 14
+black 18
+black 19
+black 15
+black 14
+black 14
+black 13
+black 11
+black 5
+black 3
+green 20
+green 20
+green 20
+
+columns
+black 2 green 3
+black 2 green 3
+black 2 green 3
+black 14 green 3
+black 16 green 3
+black 16 green 3
+black 16 green 3
+black 14 green 3
+black 12 green 3
+black 12 green 3
+black 12 green 3
+black 12 green 3
+black 12 green 3
+black 12 green 3
+black 10 green 3
+black 10 green 3
+black 8 green 3
+black 3 green 3
+black 1 green 3
+green 3

@@ -1,0 +1,46 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by vindersloon"
+date "Sep  7, 2016"
+description "my cat"
+difficulty 1.25
+height 15
+id 4311
+link "https://webpbn.com/play.cgi?id=4311"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "relaxing"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 4
+black 4
+black 2
+black 2
+black 4
+black 5
+black 5
+black 3 black 4
+blue 6 black 1
+blue 1 blue 1 black 1
+blue 1 blue 1 black 2
+blue 1 black 2
+blue 1 blue 1
+
+columns
+0
+black 3 black 1 blue 1
+black 3 black 1 blue 5
+black 3 black 4 blue 1
+black 3 black 4 blue 1 black 1
+black 5 blue 3 black 1 blue 1
+black 4 blue 1 black 1
+black 3 black 1
+black 3
+0

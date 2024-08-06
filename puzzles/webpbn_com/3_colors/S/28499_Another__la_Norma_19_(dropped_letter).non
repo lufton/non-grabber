@@ -1,0 +1,51 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug  2, 2016"
+description "1988 cop movie"
+difficulty 1.5
+height 20
+id 28499
+link "https://webpbn.com/play.cgi?id=28499"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Another Ã  la Norma #19 (dropped letter)"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 1 black 1
+black 1 black 1
+black 1 red 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 2 red 3 black 2
+black 1 red 1 red 1 black 1
+black 1 red 2 red 1 black 1
+black 1 red 1 red 2 red 1 black 1
+black 1 red 1 red 2 black 1
+black 1 red 1 red 1 black 1
+black 1 red 6 black 1
+black 1 red 2 red 1 black 1
+black 1 black 1
+black 2 black 2
+black 6
+
+columns
+0
+black 10
+black 2 red 6 black 2
+black 9 red 1 red 1 red 2 black 1
+black 1 red 1 red 1 red 1 red 2 black 1
+black 1 red 1 red 4 red 1 black 1
+black 9 red 3 black 1
+black 2 red 2 red 2 black 2
+black 10
+0

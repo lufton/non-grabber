@@ -1,0 +1,61 @@
+by "James Ernst (siegfried)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by James Ernst"
+date "Mar 20, 2019"
+description "The four rings are interlocked, but cut any one and all four fall free."
+difficulty 1.25
+height 19
+id 32223
+link "https://webpbn.com/play.cgi?id=32223"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Four Borromean Rings"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 11
+black 1 black 1
+blue 2 black 1 blue 8 black 1
+blue 1 black 1 blue 1 black 1
+blue 1 black 1 red 6 blue 1 red 1 black 1 red 2
+blue 1 black 1 red 1 blue 1 black 1 red 1
+green 2 blue 1 green 3 red 1 green 4 blue 1 black 1 red 1
+green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1
+green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1
+green 1 blue 1 black 1 red 1 green 1 blue 1 black 1 red 1
+green 1 blue 1 black 6 green 1 black 4 red 1
+green 1 blue 1 red 1 green 1 blue 1 red 1
+green 1 blue 11 red 1
+green 1 red 1 green 1 red 1
+green 1 red 11
+green 1 green 1
+green 11
+0
+
+columns
+0
+green 11
+green 1 green 1
+blue 11 green 1
+blue 1 green 1 blue 1 green 1
+black 6 green 1 black 4 blue 1 green 1
+black 1 blue 1 green 1 black 1 blue 1 green 1
+black 1 blue 1 red 6 black 1 red 1 blue 1 red 2 green 1
+black 1 blue 1 red 1 green 1 black 1 blue 1 red 1 green 1
+black 1 blue 1 red 1 green 1 black 1 blue 1 red 1 green 1
+black 1 blue 1 red 1 green 1 black 1 blue 1 red 1 green 1
+black 1 blue 1 red 1 green 6 blue 1 green 1 red 1 green 2
+black 1 blue 1 red 1 black 1 blue 1 red 1
+black 1 blue 8 black 1 blue 2 red 1
+black 1 red 1 black 1 red 1
+black 11 red 1
+red 1 red 1
+red 11
+0

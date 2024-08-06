@@ -1,0 +1,88 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/8/10"
+height 32
+id 100708
+link "https://www.griddlers.net/nonogram/-/g/100708"
+medium_time "0:20:52"
+points 29772
+popularity 78.12
+title "Orange Striped Fish"
+width 32
+
+color a ccccff
+color b 555555
+color c dddddd
+color d 7c7b7b
+color e ffcc00
+color f cc0000
+color g 000000
+
+rows
+0
+b 5
+b 2 c 5 b 3
+d 8 c 3 b 3
+d 1 e 8 d 3 c 3 b 1
+d 1 e 1 b 8 e 3 d 2 c 2 b 1
+d 3 e 3 d 1 e 2 d 2 b 1 e 3 d 2 c 2 b 1
+b 2 e 2 d 1 e 2 d 1 e 3 d 1 e 2 b 2 e 2 d 2 c 1 b 1
+b 1 d 1 e 3 d 1 e 2 d 1 e 3 d 1 e 4 b 1 e 2 d 2 b 1
+b 1 e 1 d 1 e 2 d 2 e 2 d 1 e 2 d 2 e 3 d 2 b 1 e 2 d 1 b 1
+b 1 d 1 e 3 d 2 e 1 d 2 e 2 d 2 e 2 d 2 e 1 b 1 e 2 b 2
+b 1 e 1 d 1 e 3 d 2 e 1 d 2 e 2 d 2 e 2 d 2 e 2 b 1 e 1 b 1
+b 1 e 1 d 2 e 3 d 2 e 1 d 2 e 2 d 2 e 2 d 2 e 3 b 2 b 2
+b 1 e 1 d 2 e 3 d 2 e 1 d 2 e 2 d 2 e 2 d 2 e 3 b 1 b 1 d 2 b 1
+b 1 e 2 f 2 e 3 d 2 e 1 d 2 e 2 d 2 e 2 d 2 e 3 b 3 d 1 c 2 b 1
+b 1 e 2 g 1 f 1 e 4 d 1 e 1 d 2 e 2 d 2 e 2 d 2 e 2 d 1 e 1 b 1 c 2 d 2 b 1
+b 1 e 2 d 2 e 3 d 1 e 2 d 2 e 2 d 2 e 2 d 2 e 2 d 1 e 1 b 1 d 2 c 2 b 1
+b 1 e 3 d 2 e 3 d 1 e 2 d 2 e 2 d 2 e 2 d 2 e 2 d 1 e 1 b 1 c 4 b 1
+b 1 e 3 d 2 e 3 d 1 e 2 d 2 e 2 d 2 e 2 d 2 e 2 d 1 e 1 b 1 d 3 c 1 b 1
+b 2 e 1 d 2 e 3 d 1 e 2 d 2 e 2 d 2 e 2 d 2 e 2 d 1 e 1 b 1 c 3 d 1 b 1
+b 3 e 1 d 2 e 3 d 1 e 2 d 2 e 2 d 2 e 2 d 2 e 2 d 1 e 1 b 1 d 2 c 2 b 1
+b 1 e 3 d 1 e 2 d 1 e 3 d 2 e 2 d 2 e 2 d 2 e 2 d 1 e 1 b 2 c 1 d 2 b 1
+b 2 e 2 d 1 e 2 d 1 e 3 d 2 e 2 d 2 e 2 d 2 e 3 b 1 b 1 c 2 b 1
+b 2 e 2 d 2 e 5 d 1 e 2 d 2 e 2 d 2 e 3 b 2 b 2
+d 3 e 6 d 1 e 2 d 2 e 2 d 2 e 2 b 1 e 1 b 1
+d 1 e 7 d 2 e 1 d 2 e 3 d 1 e 2 b 1 e 1 b 2
+d 1 e 3 d 1 e 1 d 3 e 2 d 1 e 3 d 1 e 1 b 1 e 1 d 2 b 1
+d 1 e 3 b 1 e 2 d 1 e 3 d 1 e 2 b 2 e 2 d 1 b 2
+b 2 e 1 b 2 e 2 d 1 e 2 d 1 b 2 e 2 d 3 b 1
+b 3 c 1 b 6 e 2 d 3 b 3
+b 2 b 1 d 7 b 3
+b 8
+
+columns
+b 2 b 1
+b 3 e 2 b 4
+b 2 e 5 b 2 e 1 b 2
+b 1 e 11 b 1
+b 2 e 1 d 2 f 1 g 1 d 5 e 3 d 1
+b 1 e 1 d 4 f 2 d 7 e 1 d 2
+b 1 d 2 e 13 d 2 e 1 d 1
+b 1 e 15 d 1 e 3 d 1
+d 1 e 14 d 2 e 5 b 1
+d 2 e 2 d 6 e 1 d 5 e 7 b 2
+d 1 e 1 d 10 e 10 d 1 e 2 b 1
+d 1 e 1 b 1 e 21 b 4
+d 1 e 1 b 1 e 4 d 13 e 3 d 1 e 1 b 1 c 1 b 1
+b 1 d 1 e 1 b 1 e 1 d 20 e 2 b 1
+b 1 d 1 e 1 b 1 d 1 e 18 d 3 e 1 b 2
+b 1 c 1 d 1 e 1 b 1 e 22 d 1 b 1 d 1 b 1
+b 1 c 1 d 1 e 1 b 1 e 3 d 17 e 3 b 1 d 1 b 1
+b 1 c 1 d 1 e 1 b 1 d 21 e 2 b 1 d 1 b 1
+b 1 c 1 d 1 e 1 b 1 d 1 e 20 d 2 b 1 d 1 b 1
+b 1 c 2 d 1 e 1 b 1 e 21 b 1 e 1 d 1 b 1
+b 1 c 1 d 1 e 2 b 1 e 2 d 15 e 3 b 1 e 1 d 1 b 1
+b 1 c 1 d 1 e 2 b 1 e 1 d 18 b 1 e 1 d 2 b 1
+b 2 c 1 d 1 e 2 b 1 d 1 e 17 b 1 e 1 d 1 b 2
+b 1 c 1 d 2 e 2 b 2 e 15 b 1 e 1 d 2 b 1
+b 1 c 2 d 2 e 3 b 1 e 3 d 7 e 2 b 2 e 2 d 1 b 2
+b 1 c 2 d 2 e 3 b 3 e 7 b 2 e 2 d 3 b 1
+b 1 c 2 d 2 b 3 b 8 b 3 d 1 b 3
+b 5 b 1 c 1 d 1 c 1 d 1 c 1 d 1 b 1 b 3
+b 1 d 1 c 1 d 1 c 1 d 1 c 1 d 1 c 1 b 1
+b 1 d 1 c 1 d 1 c 2 d 1 c 2 d 1 c 1 b 1
+b 1 d 1 c 1 d 1 c 3 d 1 c 1 d 1 c 1 b 1
+b 10

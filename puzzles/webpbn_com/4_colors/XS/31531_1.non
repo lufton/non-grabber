@@ -1,0 +1,39 @@
+by "eewawetwe (ddongddo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by eewawetwe"
+date "Sep  1, 2018"
+description "1gaang."
+difficulty 1.25
+height 12
+id 31531
+link "https://webpbn.com/play.cgi?id=31531"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "1ê°•"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+red 1 red 1
+black 2 red 1 black 2
+black 1
+black 1
+green 1
+
+columns
+black 1
+black 5 red 1 black 1
+black 1 red 1 black 2 green 1
+black 5 red 1 black 1
+black 1

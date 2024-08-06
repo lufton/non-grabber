@@ -1,0 +1,51 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan 19, 2012"
+description "I am taking license with the climactic scene, but this should be obvious"
+difficulty 2.5
+height 20
+id 17240
+link "https://webpbn.com/play.cgi?id=17240"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Movie title 15?"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3
+black 5
+black 6
+black 7
+black 7
+green 1 black 5
+green 2 black 3
+green 3
+green 1 green 1
+green 2 green 1
+green 2 green 2
+green 2 green 1
+green 2
+green 2 green 1
+green 1 green 2
+green 1 green 3
+green 2 green 2
+green 1
+green 1
+green 1
+
+columns
+green 4 green 4
+green 3 green 4
+green 2
+black 2 green 2 green 3
+black 5 green 5 green 3
+black 7 green 1 green 3
+black 7 green 1 green 2
+black 7
+black 5
+black 3

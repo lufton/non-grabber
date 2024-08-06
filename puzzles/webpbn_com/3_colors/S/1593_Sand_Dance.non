@@ -1,0 +1,49 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Sarah Andrews"
+date "Oct 12, 2007"
+description "from a line in The Bangle's Walk Like an Eygptian. A website said the idea for the song came from watching people losing their balance on a ferry boat."
+difficulty 1.5
+height 17
+id 1593
+link "https://webpbn.com/play.cgi?id=1593"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Sand Dance"
+width 11
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 4
+black 4 black 2
+black 4 blue 1
+black 2 black 1
+black 7
+black 1 black 3
+blue 1 black 3
+black 2 blue 3
+black 6
+black 7
+black 2 blue 2
+black 2 black 1
+blue 2 black 2
+black 1
+black 2
+0
+
+columns
+0
+black 1
+black 2 blue 1 black 1
+black 3 black 1 black 3 blue 1 black 1
+black 7 blue 1 black 4 blue 1 black 2
+black 7 blue 1 black 2
+black 3 black 3 blue 1 black 2
+black 1 black 2
+black 1 blue 1 black 2 black 2 blue 1 black 2
+black 1 black 2 blue 1 black 1
+0

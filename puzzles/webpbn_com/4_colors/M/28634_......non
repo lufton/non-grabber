@@ -1,0 +1,54 @@
+by "OlÃ¡h Beatrix (Atri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by OlÃÂ¡h Beatrix"
+date "Aug 23, 2016"
+description "A cup of green tea"
+difficulty 1.25
+height 15
+id 28634
+link "https://webpbn.com/play.cgi?id=28634"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "....."
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 9
+blue 1 black 9 blue 1
+blue 1 black 2 green 7 black 2 blue 1
+blue 2 green 9 blue 2 blue 2
+blue 17
+blue 1 blue 12 blue 2
+blue 1 blue 11 blue 1
+blue 1 blue 11 blue 2
+blue 1 blue 11 blue 2
+blue 1 blue 11 blue 2
+blue 1 blue 13
+blue 1 blue 12
+blue 2 blue 10
+blue 11
+blue 9
+
+columns
+blue 11
+blue 1 black 1 blue 2 blue 2
+blue 1 black 2 green 1 blue 8 blue 2
+blue 1 black 1 green 2 blue 11
+blue 1 black 1 green 2 blue 11
+blue 1 black 1 green 2 blue 11
+blue 1 black 1 green 2 blue 11
+blue 1 black 1 green 2 blue 11
+blue 1 black 1 green 2 blue 11
+blue 1 black 1 green 2 blue 11
+blue 1 black 2 green 1 blue 11
+blue 1 black 1 blue 11
+blue 11
+blue 2 blue 2
+blue 2 blue 2
+blue 3 blue 3
+blue 5

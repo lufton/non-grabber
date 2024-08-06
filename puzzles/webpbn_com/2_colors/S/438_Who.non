@@ -1,0 +1,43 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Jan Wolter"
+date "May 21, 2006"
+description "An owl."
+difficulty 1.25
+height 17
+id 438
+link "https://webpbn.com/play.cgi?id=438"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Who?"
+width 9
+
+rows
+1,1
+9
+2,3,2
+1,1,1,1,1
+2,3,2
+3,3
+1,2,2,1
+1,3,1
+1,3,1
+1,5,1
+1,5,1
+9
+3,1,3
+1,1,1,1,1
+5
+5
+3
+
+columns
+5,8
+2,2,2
+1,1,2,7
+2,8,3
+4,10
+2,8,3
+1,1,2,7
+2,2,2
+5,8

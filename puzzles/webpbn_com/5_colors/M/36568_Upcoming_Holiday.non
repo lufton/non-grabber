@@ -1,0 +1,63 @@
+by "Sandra Bigner (sandyb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sandra Bigner"
+date "Mar 23, 2023"
+description "Happy Easter!"
+difficulty 2.25
+height 20
+id 36568
+link "https://webpbn.com/play.cgi?id=36568"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Upcoming Holiday"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 2 black 2
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 3 red 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 red 1 black 1
+black 3
+black 1 black 1
+black 11
+black 1 black 1 black 1
+black 1 red 2 blue 1 black 1 black 2 black 2
+black 1 red 1 blue 1 red 1 black 1 black 5
+black 1 green 3 black 1 black 1
+green 3 black 5 green 4 black 3 green 5
+green 20
+0
+0
+0
+
+columns
+green 2
+green 2
+green 2
+black 4 green 1
+red 2 green 1 black 1 green 1
+black 2 red 1 blue 1 green 1 black 1 green 1
+black 2 black 1 blue 1 red 1 green 1 black 1 green 1
+black 1 red 1 black 1 black 1 black 4 green 1
+black 1 red 1 black 2 black 1 green 2
+black 1 blue 1 black 1 black 3 green 2
+black 1 red 1 black 3 black 2 green 2
+black 1 blue 1 black 1 black 1 black 1 green 2
+black 1 red 1 black 2 black 1 black 1 black 1 green 1
+black 1 red 1 black 1 black 1 black 1 black 1 green 1
+black 2 black 1 black 4 green 1
+black 3 green 2
+black 1 green 2
+green 2
+green 2
+green 2

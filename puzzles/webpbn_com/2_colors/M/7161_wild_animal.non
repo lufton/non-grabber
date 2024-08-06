@@ -1,0 +1,57 @@
+by "marley powers (captaindys)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by marley powers"
+date "Nov 20, 2009"
+description ""
+difficulty 1.5
+height 20
+id 7161
+link "https://webpbn.com/play.cgi?id=7161"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "wild animal"
+width 20
+
+rows
+20
+1,14,1
+1,1,12,1,1
+2,1,10,1,2
+3,1,8,1,3
+3,3
+3,3
+3,4,4,3
+4,1,1,4
+4,2,1,1,2,4
+4,2,1,1,2,4
+4,1,1,4
+3,4,4,3
+3,3
+3,3
+3,1,8,1,3
+2,1,10,1,2
+1,1,12,1,1
+1,14,1
+20
+
+columns
+20
+1,14,1
+1,1,12,1,1
+2,1,4,1,2
+3,1,1,1,1,3
+4,1,2,1,4
+5,1,2,1,5
+5,1,1,5
+5,4,5
+5,5
+5,5
+5,4,5
+5,1,1,5
+5,1,2,1,5
+4,1,2,1,4
+3,1,1,1,1,3
+2,1,4,1,2
+1,1,12,1,1
+1,14,1
+20

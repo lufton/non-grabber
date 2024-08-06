@@ -1,0 +1,93 @@
+by "Corinne Felton (cfelton98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Corinne Felton"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 40
+id 27103
+link "https://webpbn.com/play.cgi?id=27103"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "What's That Sound?"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 30
+blue 30
+blue 30
+blue 30
+blue 10 blue 3 black 1 blue 6
+blue 8 blue 1 black 3 blue 5
+blue 7 black 3 blue 5
+blue 6 black 5 blue 1 red 3
+blue 5 red 4 black 6 red 4
+black 4 blue 1 red 6 black 6 red 4 blue 1
+blue 4 black 3 red 2 red 3 black 5 red 5 blue 1
+blue 4 black 2 red 1 green 1 red 1 black 4 red 5 blue 2
+black 3 blue 1 black 2 red 4 black 3 red 2 green 1 red 3 blue 2
+blue 2 black 6 red 3 green 1 red 15 blue 2
+blue 4 red 6 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 5 blue 2
+blue 4 red 20 blue 2
+blue 4 red 20 blue 2
+blue 4 red 19 blue 3
+blue 5 red 18 blue 3
+blue 5 red 2 black 1 red 10 black 1 red 2 blue 4
+blue 5 black 1 black 1 black 1 blue 5
+blue 5 black 20 blue 1
+blue 6 blue 6
+blue 7 blue 7
+blue 8 blue 8
+blue 10 blue 9
+blue 30
+blue 30
+blue 30
+blue 30
+blue 30
+blue 16 black 4 blue 10
+blue 15 black 6 blue 9
+blue 15 black 6 blue 9
+blue 15 black 6 blue 9
+black 24 blue 6
+black 25 blue 5
+black 26 blue 4
+black 27 blue 3
+black 28 blue 2
+
+columns
+blue 9 black 1 blue 2 black 1 blue 22 black 5
+blue 9 black 1 blue 2 black 1 blue 22 black 5
+blue 9 black 1 blue 2 black 2 blue 21 black 5
+blue 9 black 1 blue 3 black 1 blue 21 black 5
+blue 10 black 1 black 1 blue 17 black 5
+blue 8 black 1 black 1 blue 13 black 5
+blue 7 black 1 black 1 blue 12 black 5
+blue 6 red 2 black 2 blue 11 black 5
+blue 5 red 3 black 2 red 4 black 1 blue 10 black 5
+blue 5 red 2 black 1 red 6 black 1 blue 10 black 5
+blue 4 red 12 black 1 blue 9 black 5
+blue 4 red 3 green 1 red 8 black 1 blue 9 black 5
+blue 4 red 4 green 1 red 5 black 3 blue 9 black 5
+blue 4 red 8 black 1 blue 9 black 5
+blue 4 red 1 green 1 red 5 black 1 blue 9 black 5
+blue 4 red 7 black 1 blue 6 black 8
+blue 4 red 1 green 1 red 5 black 1 blue 5 black 9
+blue 4 red 7 black 1 blue 5 black 9
+blue 4 red 1 green 1 red 5 black 1 blue 5 black 9
+blue 4 black 4 red 7 black 1 blue 5 black 9
+blue 5 black 5 red 1 green 1 red 5 black 1 blue 6 black 8
+blue 6 black 6 red 7 black 1 blue 10 black 5
+blue 5 black 7 red 2 green 1 red 5 black 1 blue 11 black 5
+blue 4 black 7 red 8 black 3 blue 12 black 5
+blue 5 black 5 red 2 green 1 red 7 black 1 blue 14 black 4
+blue 7 black 2 red 11 blue 1 black 1 blue 15 black 3
+blue 8 red 11 blue 2 black 1 blue 16 black 2
+blue 7 red 10 blue 4 black 1 blue 17 black 1
+blue 7 red 4 blue 10 black 1 blue 18
+blue 7 red 2 blue 31

@@ -1,0 +1,41 @@
+by "Michelle T ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Michelle T"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 10
+id 27597
+link "https://webpbn.com/play.cgi?id=27597"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Unique"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 8
+black 2 black 4 black 2
+black 3 black 2 black 2
+black 4 black 1
+black 3
+black 2 red 1
+black 1
+black 1 black 1
+black 2 black 3
+black 6
+
+columns
+black 10
+black 5 black 2
+black 1 black 3 black 1
+black 2 black 1 black 1
+black 3 red 1 black 2
+black 3 black 2
+black 2 black 2
+black 1
+black 3
+black 4

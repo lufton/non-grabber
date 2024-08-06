@@ -1,0 +1,57 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jan 16, 2011"
+description "This is a lousy puzzle of our basketball hoop. When the net (blue line)is horizontal to the ground, it's tornado time. It has never failed to warn us."
+difficulty 1.25
+height 20
+id 11779
+link "https://webpbn.com/play.cgi?id=11779"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "a winning Warning System"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 15
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 7 black 1
+black 1 blue 9 black 1
+black 1 black 1
+black 15
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+
+columns
+black 10
+black 1 black 1
+black 1 blue 1 black 1
+black 1 blue 1 black 1
+black 1 red 1 blue 1 black 1
+black 1 red 1 blue 1 black 1
+black 1 red 1 blue 1 black 11
+black 1 red 1 blue 1 black 11
+black 1 red 1 blue 1 black 11
+black 1 red 1 blue 1 black 1
+black 1 red 1 blue 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 10

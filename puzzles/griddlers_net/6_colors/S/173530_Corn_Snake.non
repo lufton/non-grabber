@@ -1,0 +1,53 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/4/16"
+height 15
+id 173530
+link "https://www.griddlers.net/nonogram/-/g/173530"
+medium_time "0:09:26"
+points 2225
+popularity 82.09
+title "Corn Snake"
+width 15
+
+color a ffffff
+color b 000000
+color c cc3300
+color d ff0000
+color e ff9900
+color f ffcc00
+
+rows
+c 2 d 1 e 1 f 2
+d 2 c 2 d 1 e 1 f 1 c 1 d 1 e 2
+d 3 c 2 e 2 f 2 e 1 c 1 d 1
+f 1 d 1 e 1 d 2 e 2 d 2
+e 3
+f 1 e 2 f 1 e 2 d 2 c 2 d 1
+e 1 f 2 e 2 d 2 c 2 d 2 e 1
+f 1 e 2 f 1 e 1 c 1 d 1 e 2 f 1
+e 1 f 2
+d 1 e 2 d 2 f 2
+e 3 d 2 e 1 d 2 c 1 e 2 f 1
+f 4 e 1 d 2 e 1 d 1 c 2 d 1 e 3
+b 1 f 2 b 1 f 1 d 2 c 2 d 1 e 1
+f 4 d 1 c 3
+f 2
+
+columns
+d 2 f 1 f 1 b 1 f 1
+c 1 d 3 e 1 f 1 e 1 f 4
+c 2 d 1 e 4 e 1 f 4
+d 1 c 2 e 2 f 2 d 1 e 1 f 1 b 1 f 1
+d 1 c 1 f 2 e 1 e 1 d 1 e 1 f 1
+e 2 d 1 e 2 e 1 d 2
+f 1 e 1 d 1 e 2 f 1 d 1 e 1 d 1
+f 1 e 1 e 1 d 1 e 1 d 2 e 1
+f 1 e 1 d 2 d 3
+e 1 d 1 d 1 c 1 c 2 d 2
+c 2 d 1 c 3 c 3
+d 2 c 1 d 2 d 1 c 2
+e 2 d 2 e 2 e 2 d 1 c 1
+f 1 e 1 e 2 f 2 e 3
+f 1 f 4 e 1

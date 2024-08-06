@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Apr 26, 2024"
+description "Phonetic Alphabet with Morse Code"
+difficulty 1.25
+height 10
+id 38536
+link "https://webpbn.com/play.cgi?id=38536"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "M"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2 red 2 black 2 black 2 black 4
+black 2 black 2 red 2 black 2 black 2 black 4
+black 3 black 3 red 2 black 2 black 2 black 2
+black 7 red 2 black 2 black 2 black 2
+black 7 red 2 black 5 black 4 black 3 black 3
+black 2 black 1 black 2 red 2 black 4 black 4
+black 2 black 2 red 2 black 2 black 2 black 2
+black 2 black 2 red 2 black 2 black 2 black 2
+black 2 black 2 red 2 black 2 black 2 black 4
+black 2 black 2 red 2 black 2 black 2 black 4
+
+columns
+black 10
+black 10
+black 3
+black 3
+black 3
+black 10
+black 10
+0
+red 10
+red 10
+0
+black 10
+black 10
+black 2
+black 10
+black 5 black 4
+0
+black 10
+black 10
+black 2 black 2 black 2
+black 2 black 2 black 2
+0
+black 1
+black 1
+black 1
+0
+black 1
+black 1
+black 1
+0

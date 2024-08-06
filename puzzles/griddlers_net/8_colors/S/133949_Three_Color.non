@@ -1,0 +1,55 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/25/13"
+height 15
+id 133949
+link "https://www.griddlers.net/nonogram/-/g/133949"
+medium_time "0:03:23"
+points 338
+popularity 69.83
+title "Three Color"
+width 15
+
+color a ffffff
+color b cedf8c
+color c ffeb31
+color d ffd300
+color e 9cc37b
+color f de8a9c
+color g efc77b
+color h d69273
+
+rows
+b 5
+c 2 b 6
+c 2 d 1 c 1 b 6
+c 2 d 3 c 1 b 5
+c 1 d 5 b 4 e 1
+c 1 d 5 b 4 e 1
+c 1 d 5 f 3 e 2
+g 1 d 3 f 6
+g 4 f 8
+g 5 f 7
+g 6 f 6
+g 5 h 2 f 4
+g 4 h 3
+g 2 h 3
+g 2 h 2
+
+columns
+g 1
+g 3
+g 4 h 1
+g 5 h 2
+c 4 g 6 h 1
+c 2 d 4 g 4 h 2
+c 2 d 5 g 4 h 1
+c 1 d 6 f 1 g 2 h 2
+c 1 d 4 f 4 h 1
+b 2 c 1 d 3 f 5
+b 6 f 6
+b 6 f 6
+b 6 f 6
+b 6 e 1 f 4
+b 4 e 3 f 2

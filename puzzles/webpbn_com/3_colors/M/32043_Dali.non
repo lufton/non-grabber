@@ -1,0 +1,61 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Thomas Genuine"
+date "Feb  5, 2019"
+description "Salvador Dali's clock"
+difficulty 2.25
+height 20
+id 32043
+link "https://webpbn.com/play.cgi?id=32043"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Dali"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 6
+black 3 black 3
+black 1 black 1 black 2
+black 1 black 1 black 1 black 2
+black 4 black 1 black 2
+blue 3 black 5 black 1 black 1 black 2 blue 4
+black 2 black 2 black 1 black 2
+black 2 black 2 black 2
+black 2 black 1 black 1 black 1
+black 2 black 2 black 1 black 2
+black 2 black 1 black 2 black 2
+black 2 black 1 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2 black 2
+black 3 black 1 black 1 black 1
+black 3 black 2 black 2
+black 4 black 2
+black 5
+0
+
+columns
+blue 1
+blue 1
+blue 1
+black 5
+black 2 black 2
+black 2 black 2 black 5
+black 1 black 1 black 11
+black 1 black 3 black 3
+black 1 black 1 black 2 black 3
+black 2 black 3 black 2
+black 1 black 1 black 2 black 2 black 2
+black 2 black 3 black 2
+black 2 black 2 black 2 black 3 black 1
+black 2 black 1 black 1 black 1 black 1
+black 3 black 2 black 2 black 2
+black 3 black 2
+blue 1 black 9
+blue 1 black 5
+blue 1
+blue 1

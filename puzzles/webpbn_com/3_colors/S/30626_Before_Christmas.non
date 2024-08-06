@@ -1,0 +1,50 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Thomas Genuine"
+date "Dec 12, 2017"
+description "This evening is Erev Chanukka. The original event of Light."
+difficulty 1.25
+height 10
+id 30626
+link "https://webpbn.com/play.cgi?id=30626"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Before Christmas"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 17
+black 1 black 1
+black 3 black 3
+
+columns
+0
+red 2 black 6
+black 1
+red 2 black 6 black 1
+black 3
+red 2 black 6 black 1
+black 1
+red 2 black 6
+black 1
+red 2 black 6
+black 1
+red 2 black 6
+black 1
+red 2 black 6 black 1
+black 3
+red 2 black 6 black 1
+black 1
+red 2 black 5
+0

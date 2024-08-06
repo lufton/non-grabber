@@ -1,0 +1,36 @@
+by "Diego (ironcito)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Diego"
+date "May 29, 2011"
+description "Space Invaders!"
+difficulty 1.25
+height 8
+id 14243
+link "https://webpbn.com/play.cgi?id=14243"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "No one would have believed in the late 1970s..."
+width 11
+
+rows
+1,1
+1,1
+7
+2,3,2
+11
+1,7,1
+1,1,1,1
+2,2
+
+columns
+3
+2
+1,5
+2,2,1
+4,1
+4
+4,1
+2,2,1
+1,5
+2
+3

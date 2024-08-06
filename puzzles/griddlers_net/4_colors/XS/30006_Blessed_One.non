@@ -1,0 +1,39 @@
+by "chefmomster2"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/17/06"
+height 9
+id 30006
+link "https://www.griddlers.net/nonogram/-/g/30006"
+medium_time "0:01:11"
+points 96
+popularity 45.37
+title "Blessed One"
+width 9
+
+color a ffffff
+color b 660000
+color c ff99cc
+color d ffcc00
+
+rows
+d 1
+d 1 b 1 d 1
+d 2 b 1 b 1 d 2
+d 3 b 1 b 1 d 3
+d 3 c 3 d 3
+d 3 c 1 d 3
+d 1 c 3 d 1
+c 5
+c 5
+
+columns
+d 5
+d 4
+d 3 c 2
+d 1 b 2 c 1 c 3
+d 1 b 1 c 5
+d 1 b 2 c 1 c 3
+d 3 c 2
+d 4
+d 5

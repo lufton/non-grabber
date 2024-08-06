@@ -1,0 +1,26 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun  9, 2011"
+description "The smallest distinguishable apple I could make."
+difficulty 1.0
+height 3
+id 14445
+link "https://webpbn.com/play.cgi?id=14445"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Tiny Fruit"
+width 2
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1
+black 2
+black 2
+
+columns
+black 2
+green 1 black 2

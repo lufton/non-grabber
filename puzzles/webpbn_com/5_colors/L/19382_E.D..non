@@ -1,0 +1,83 @@
+by "erim dilmen (erim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by erim dilmen"
+date "Jul 22, 2012"
+description "E.D."
+difficulty 1.75
+height 30
+id 19382
+link "https://webpbn.com/play.cgi?id=19382"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "E.D."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 blue 2 red 2 green 2 black 6 blue 2 black 6 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 black 6 blue 2 black 6 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 black 2 blue 2 green 2 blue 2 black 2 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 black 2 blue 2 green 2 blue 2 black 2 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 black 2 blue 2 black 2 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 black 2 blue 2 black 2 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 black 2 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 black 2 green 2 red 2 blue 2 black 2
+black 2 blue 2 red 2 green 2 red 2 blue 2 black 2
+red 8 black 2 blue 2 red 2 green 2 red 2 blue 2 black 2 red 6
+red 1 black 6 red 1 black 2 blue 2 red 2 blue 2 black 2 red 1 black 4 red 2
+red 1 black 6 red 1 black 2 blue 2 red 2 blue 2 black 2 red 1 black 5 red 2
+red 1 black 2 red 5 black 2 blue 2 black 2 red 1 black 2 red 1 black 3 red 1
+red 1 black 2 red 4 black 2 blue 2 black 2 red 1 black 2 red 2 black 2 red 1
+red 1 black 5 red 1 black 2 red 1 black 2 red 2 black 2 red 1
+red 1 black 5 red 1 black 2 red 1 black 2 red 2 black 2 red 1
+red 1 black 2 red 4 black 2 red 2 black 2 red 1 black 2 red 2 black 2 red 1
+red 1 black 2 red 5 black 2 red 2 black 2 red 1 black 2 red 1 black 3 red 1
+red 1 black 6 red 1 black 2 red 2 green 2 red 2 black 2 red 1 black 5 red 2
+red 1 black 6 red 1 black 2 red 2 green 2 red 2 black 2 red 1 black 4 red 2
+red 8 black 2 red 2 green 2 blue 2 green 2 red 2 black 2 red 6
+black 2 red 2 green 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 6 red 2 black 6 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 6 red 2 black 6 blue 2 green 2 red 2 black 2
+
+columns
+black 2 red 12 black 2
+black 2 red 1 black 10 red 1 black 2
+blue 2 black 2 red 1 black 10 red 1 black 2 red 2
+blue 2 black 2 red 1 black 2 red 2 black 2 red 2 black 2 red 1 black 2 red 2
+red 2 blue 2 black 2 red 1 black 2 red 2 black 2 red 2 black 2 red 1 black 2 red 2 green 2
+red 2 blue 2 black 2 red 1 black 2 red 2 black 2 red 2 black 2 red 1 black 2 red 2 green 2
+green 2 red 2 blue 2 black 2 red 1 black 2 red 6 black 2 red 1 black 2 red 2 green 2 blue 2
+green 2 red 2 blue 2 black 2 red 4 red 4 black 2 red 2 green 2 blue 2
+black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2
+black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2
+black 4 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 4
+black 4 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 4
+black 2 blue 2 black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2 red 2 black 2
+black 2 blue 2 black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2 red 2 black 2
+blue 2 green 2 blue 2 black 2 green 2 red 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 red 2
+blue 2 green 2 blue 2 black 2 green 2 red 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 red 2
+black 2 blue 2 black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2 red 2 black 2
+black 2 blue 2 black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2 red 2 black 2
+black 4 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 4
+black 4 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 4
+black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2
+black 2 green 2 red 2 blue 2 black 2 black 2 red 2 green 2 blue 2 black 2
+green 2 red 2 blue 2 black 2 red 12 black 2 red 2 green 2 blue 2
+green 2 red 2 blue 2 black 2 red 1 black 10 red 1 black 2 red 2 green 2 blue 2
+red 2 blue 2 black 2 red 1 black 10 red 1 black 2 red 2 green 2
+red 2 blue 2 black 2 red 1 black 2 red 6 black 2 red 1 black 2 red 2 green 2
+blue 2 black 2 red 1 black 3 red 4 black 3 red 1 black 2 red 2
+blue 2 black 2 red 2 black 8 red 2 black 2 red 2
+black 2 red 2 black 6 red 2 black 2
+black 2 red 8 black 2

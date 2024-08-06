@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Aug 30, 2021"
+description "Swallowed it hook, line, and sinker"
+difficulty 1.5
+height 20
+id 35317
+link "https://webpbn.com/play.cgi?id=35317"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "American Idiom 22"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 19
+blue 18 black 2
+blue 17 black 2
+blue 17 blue 2
+blue 16 blue 3
+blue 15 blue 4
+blue 10 blue 4 blue 4
+blue 9 blue 2 blue 1 blue 4
+blue 3 black 1 blue 3 blue 5
+blue 2 black 1 black 1 red 1 blue 8
+blue 1 red 1 blue 2 red 1 blue 4
+blue 1 black 2 red 1 blue 1 red 1 blue 3
+blue 1 black 7 red 2 blue 3
+blue 1 black 6 blue 3 red 1
+blue 1 black 5 blue 2
+blue 1 black 5 blue 1
+blue 2 black 6 blue 2
+blue 2 black 6 blue 1 blue 3 red 3
+blue 10 blue 3 red 3
+blue 10 blue 4 red 2
+
+columns
+blue 20
+blue 10 black 4 blue 4
+blue 9 black 6 blue 2
+blue 8 black 7 blue 2
+blue 8 black 7 blue 2
+blue 8 black 2 black 6 blue 2
+blue 8 black 2 black 2 blue 2
+blue 8 black 1 black 1 black 2 blue 2
+blue 8 blue 3
+blue 7 blue 2
+blue 6
+blue 9 red 4
+blue 12 red 1
+blue 7 blue 3 red 1
+blue 8 blue 1 red 1 blue 3
+blue 5 blue 2 blue 4
+blue 4 blue 6 blue 7
+blue 2 blue 11 red 2 blue 1
+blue 1 black 2 blue 11 red 3
+black 2 blue 10 red 1 red 3

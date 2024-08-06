@@ -1,0 +1,36 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 20, 2011"
+description "It's not a bumblebee with legs but that's what I thought when she ran out of the grass towards a duckling. She was a teeny newborn Bobwhite Quail and she was an orphan."
+difficulty 1.25
+height 7
+id 12888
+link "https://webpbn.com/play.cgi?id=12888"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Brian's animal challenge 1"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 1 blue 1 black 1
+red 1 black 3
+black 4
+black 4
+black 1 black 1
+black 2 black 2
+
+columns
+0
+red 1 black 1
+black 7
+black 1 blue 1 black 3
+black 7
+black 2 black 1
+0

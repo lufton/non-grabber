@@ -1,0 +1,63 @@
+by "Itai Palmoo (igot3)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Itai Palmoo"
+date "Dec 27, 2008"
+description "A square target"
+difficulty 1.25
+height 20
+id 4547
+link "https://webpbn.com/play.cgi?id=4547"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Square Up!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 18 blue 1
+black 1 black 1
+black 1 red 16 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 blue 12 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 8 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 1 red 2 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 1 red 2 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 8 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 12 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 16 black 1
+black 1 black 1
+blue 1 black 18 blue 1
+
+columns
+blue 1 black 18 blue 1
+black 1 black 1
+black 1 red 16 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 blue 12 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 8 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 1 red 2 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 1 red 2 black 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 black 4 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 1 green 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 green 8 blue 1 red 1 black 1
+black 1 red 1 blue 1 blue 1 red 1 black 1
+black 1 red 1 blue 12 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 16 black 1
+black 1 black 1
+blue 1 black 18 blue 1

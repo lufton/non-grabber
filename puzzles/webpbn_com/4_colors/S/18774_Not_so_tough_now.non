@@ -1,0 +1,52 @@
+by "Nelson Peters (Ace999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Nelson Peters"
+date "May 27, 2012"
+description "Whats wrong dude?"
+difficulty 1.25
+height 15
+id 18774
+link "https://webpbn.com/play.cgi?id=18774"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Not so tough now!!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2 black 11 green 2
+green 1 black 13 green 1
+black 3 black 3
+black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2
+black 2 red 1 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 5 black 2
+black 2 black 1 black 1 black 2
+black 3 black 3
+green 1 black 13 green 1
+green 2 black 11 green 2
+
+columns
+green 2 black 11 green 2
+green 1 black 13 green 1
+black 3 black 3
+black 2 black 2
+black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 1 black 2
+black 2 red 1 black 1 black 2
+black 2 black 1 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2
+black 2 black 2
+black 3 black 3
+green 1 black 13 green 1
+green 2 black 11 green 2

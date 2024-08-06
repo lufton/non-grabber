@@ -1,0 +1,33 @@
+by "keara norton (surya)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by keara norton"
+date "Sep 29, 2019"
+description "One side is a regular flower and the other is upside down."
+difficulty 1.25
+height 8
+id 32963
+link "https://webpbn.com/play.cgi?id=32963"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Flowers"
+width 8
+
+rows
+3,1
+1,1,1
+3,1
+1,3
+3,1
+1,3
+1,1,1
+1,3
+
+columns
+3,1
+1,6
+3,1
+0
+0
+1,3
+6,1
+1,3

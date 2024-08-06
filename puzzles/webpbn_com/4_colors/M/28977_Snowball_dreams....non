@@ -1,0 +1,67 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Gaynor Sorrell"
+date "Oct 26, 2016"
+description "...of the delicious carrot she will have for lunch!"
+difficulty 2.25
+height 25
+id 28977
+link "https://webpbn.com/play.cgi?id=28977"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Snowball dreams..."
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 15 blue 3
+blue 15 black 1 blue 2
+blue 15 black 2 blue 1
+blue 15 black 2
+blue 3 blue 5 blue 5 black 2 green 1
+blue 2 blue 4 blue 5 green 2
+blue 1 blue 3 blue 5 green 1
+blue 1 blue 1 blue 1 blue 3 blue 1
+blue 1 blue 7
+blue 1 black 1 black 1 blue 1 blue 1 blue 5
+blue 1 blue 1 blue 7
+blue 1 black 1 blue 2 blue 6
+blue 1 black 3 blue 3 blue 6
+blue 3 green 2 blue 9
+blue 3 green 7 blue 7
+blue 3 green 1 green 1 blue 5
+blue 2 green 1 green 1 blue 1 blue 3
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 3
+blue 1 green 1 blue 1 blue 1 blue 1 green 1 blue 1 green 1
+green 1 blue 1 green 1 blue 1 blue 1 blue 3 green 1 blue 1
+green 4 green 2 green 2 green 5
+green 2 green 1 green 6
+green 20
+
+columns
+blue 8 blue 7 green 4
+blue 6 blue 7 green 1 blue 1 green 3
+blue 5 blue 8 blue 1 green 2 green 1
+blue 4 blue 1 blue 1 green 1 green 1 green 1
+blue 5 black 1 green 1 green 1 green 1
+blue 7 black 1 green 2 green 1
+blue 7 black 2 green 1 blue 2 green 3
+blue 7 black 1 green 2 green 1 green 1
+blue 6 black 1 green 1 green 1 green 1
+blue 4 blue 1 green 2 green 1
+blue 4 blue 4 green 1 blue 1 green 1 green 1
+blue 6 blue 3 green 1 green 1
+blue 8 blue 2 green 1
+blue 11 blue 2 green 1
+blue 9 blue 5 green 2
+blue 3 blue 9 blue 1 green 3
+black 2 blue 10 blue 2 green 3
+blue 1 black 3 blue 9 blue 1 green 1 blue 1 green 3
+blue 2 black 2 green 2 blue 13 green 4
+blue 3 green 2 blue 12 green 1 blue 1 green 3

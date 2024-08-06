@@ -1,0 +1,80 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/1/07"
+height 29
+id 45288
+link "https://www.griddlers.net/nonogram/-/g/45288"
+medium_time "0:13:32"
+points 3086
+popularity 74.81
+title "Snowy"
+width 27
+
+color a 0099ff
+color b 000000
+color c 99ffff
+color d ff0000
+color e ffffff
+color f 993300
+color g cccc00
+
+rows
+c 2
+c 4
+c 2
+g 2 d 4
+g 4 d 6
+g 6 d 8
+g 7 c 1 d 1 c 3 d 1 c 2
+g 8 c 10
+g 5 f 1 g 1 c 12
+g 3 f 3 c 3 e 7 c 2
+g 1 f 4 c 1 e 2 b 1 e 3 b 1 e 2
+f 3 e 4 b 1 e 4
+f 2 e 9 e 4
+f 1 e 2 b 3 e 2 e 7
+f 2 d 1 e 5 d 1 e 8
+f 2 e 1 d 8 e 6
+f 1 e 2 d 7 e 5
+e 2 f 1 e 1 d 7 e 2
+e 4 f 1 e 4 d 3 e 2
+e 7 b 1 e 1 d 3 e 2
+e 8 d 4 e 3
+e 8 d 4 e 3
+e 6 b 1 d 4 e 3
+e 5 f 1 e 2 d 3 e 3
+e 5 f 2 e 7
+e 6 f 1 e 7
+e 7 f 1 e 6
+e 6 f 1 e 5
+e 10
+
+columns
+g 1
+g 3
+g 5
+g 6
+g 6 f 1
+g 5 f 3
+g 5 f 4
+g 6 f 4
+f 3 e 4
+c 2 f 2 e 10
+c 4 f 2 e 11
+d 1 c 4 e 3 e 2 f 1 e 11
+d 3 c 2 e 5 d 2 e 2 f 1 e 10
+c 1 d 3 c 3 e 1 b 1 e 4 d 3 e 11
+c 3 d 3 c 3 e 4 b 1 e 1 d 3 e 5 f 2 e 4
+c 3 d 3 c 3 e 2 b 1 e 1 b 1 e 1 d 3 e 1 b 1 e 2 b 1 e 1 f 2 e 3
+c 1 d 4 c 2 e 4 b 1 e 1 d 3 e 2 d 3 e 3 f 2 e 1
+d 2 c 3 e 1 b 1 e 4 d 9 e 5
+d 1 c 3 e 5 d 10 e 5
+c 3 e 3 e 1 d 9 e 5
+c 2 e 16
+e 15
+e 5 e 7
+e 5
+e 5
+e 4
+e 2

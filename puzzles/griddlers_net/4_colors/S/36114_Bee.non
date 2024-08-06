@@ -1,0 +1,48 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/26/06"
+height 14
+id 36114
+link "https://www.griddlers.net/nonogram/-/g/36114"
+medium_time "0:01:24"
+points 135
+popularity 53.31
+title "Bee"
+width 13
+
+color a 99ccff
+color b 000000
+color c ffcc00
+color d ffffff
+
+rows
+b 1
+b 1
+b 3
+b 5
+c 5
+d 3 b 5 d 3
+d 4 c 5 d 4
+d 5 b 3 d 5
+d 3 c 3 d 3
+c 5
+c 5
+c 3
+b 1 b 1
+b 2 b 2
+
+columns
+d 2
+d 4
+d 4
+d 4
+b 1 c 1 b 1 c 1 d 1 c 2 b 1
+b 2 c 1 b 1 c 1 b 1 c 4 b 2
+b 4 c 1 b 1 c 1 b 1 c 4
+b 2 c 1 b 1 c 1 b 1 c 4 b 2
+b 1 c 1 b 1 c 1 d 1 c 2 b 1
+d 4
+d 4
+d 4
+d 2

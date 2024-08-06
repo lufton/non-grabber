@@ -1,0 +1,44 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/30/07"
+height 10
+id 45263
+link "https://www.griddlers.net/nonogram/-/g/45263"
+medium_time "0:02:04"
+points 360
+popularity 58.66
+title "Crown"
+width 13
+
+color a ffffff
+color b cc9900
+color c ffff66
+color d ffcc00
+
+rows
+c 1 c 1
+c 1
+c 1
+b 1 c 2 c 1 c 1 c 2 b 1
+b 1 c 1 b 1 d 1 c 1 c 1 c 1 d 1 b 1 c 1 b 1
+b 1 c 1 b 1 d 1 c 2 d 1 c 2 d 1 b 1 c 1 b 1
+b 1 c 1 d 1 c 1 d 1 c 1 d 1 c 1 d 1 c 1 b 1
+b 1 c 7 b 1
+b 1 c 7 b 1
+b 1 c 7 b 1
+
+columns
+b 2
+b 1 c 2 b 1
+c 1 b 2 c 1 b 3
+c 1 d 3 c 3
+c 6
+c 1 c 1 c 1 d 1 c 3
+c 2 c 1 d 1 c 4
+c 1 c 1 c 1 d 1 c 3
+c 6
+c 1 d 3 c 3
+c 1 b 2 c 1 b 3
+b 1 c 2 b 1
+b 2

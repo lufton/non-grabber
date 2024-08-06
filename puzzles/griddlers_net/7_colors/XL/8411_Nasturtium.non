@@ -1,0 +1,111 @@
+by "sandyeggan"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/14/04"
+height 47
+id 8411
+link "https://www.griddlers.net/nonogram/-/g/8411"
+medium_time "0:58:44"
+points 185149
+popularity 78.06
+title "Nasturtium"
+width 40
+
+color a ffffff
+color c 666600
+color d cccc66
+color e cc9933
+color f 996600
+color g cc9900
+color h ffcc00
+
+rows
+c 2
+c 1 d 2 c 1
+c 1 d 4 c 1
+c 1 d 5 c 2
+c 2 d 2 c 2 d 3 c 2
+c 2 d 5 c 3 d 3 c 1
+c 1 d 9 c 5
+c 1 d 7 c 1 d 3 c 1
+c 4 c 1 d 8 c 3 d 2 c 1
+c 1 e 4 c 2 c 1 d 8 c 1 c 1 d 2 c 1
+c 1 g 2 e 5 c 2 d 8 c 2 c 1 d 2 c 1
+c 4 g 2 h 1 g 1 h 4 e 1 f 1 d 8 c 1 c 1 d 2 c 1
+c 1 g 5 h 2 g 1 h 6 g 1 d 7 c 1 c 2 d 2 c 1
+c 1 g 2 h 2 g 2 h 1 g 1 h 3 g 2 h 2 f 1 d 5 c 1 c 1 e 1 c 1 d 2 c 1
+c 1 g 1 h 4 g 4 h 2 g 2 h 4 f 3 d 2 c 2 h 1 e 2 f 1 c 1
+c 6 h 5 g 8 h 3 e 1 f 1 g 2 f 1 e 1 c 1 f 1 h 2 e 1 f 1 c 1
+c 1 g 4 h 2 g 1 h 5 g 9 c 1 f 1 g 3 h 1 f 1 g 1 h 2 g 1 e 2 c 1
+c 1 g 2 h 2 g 3 h 5 g 8 c 1 f 1 g 4 h 3 g 2 h 1 e 1 c 1
+c 1 g 1 h 4 g 3 h 6 g 6 c 1 g 9 h 2 e 2 c 1
+c 1 h 4 g 3 h 3 g 1 h 2 f 2 h 1 g 3 c 2 g 7 h 2 e 3 c 1
+c 1 h 6 g 4 h 3 c 1 f 6 c 2 g 4 e 8 c 1
+c 1 g 1 h 12 c 1 f 2 g 2 f 1 g 1 f 1 c 2 f 1 g 5 h 5 e 2 c 1
+c 1 g 2 h 2 e 7 h 1 e 1 c 1 g 2 f 4 g 1 f 2 c 2 f 1 g 4 h 5 e 2 c 1
+c 1 g 1 h 1 e 8 h 2 f 1 c 1 f 3 g 1 f 1 g 2 f 1 g 1 c 2 f 1 g 5 h 4 g 1 e 1 c 1
+c 1 g 2 e 6 h 2 g 1 h 1 f 1 c 1 f 2 g 1 f 2 g 2 f 1 h 1 g 1 c 2 g 11 c 1
+c 2 g 1 e 5 h 3 g 1 h 2 c 1 f 1 g 2 f 3 g 3 h 2 f 1 c 2 g 10 c 1
+c 1 g 2 h 7 g 1 h 2 c 2 f 4 g 1 f 1 g 4 h 1 g 1 f 1 c 1 f 1 g 8 c 1
+c 1 g 2 h 5 g 1 h 4 c 2 h 5 f 1 g 3 h 1 g 1 h 2 c 10
+c 1 g 1 h 3 g 3 h 3 c 3 h 6 f 3 h 1 g 1 h 2 f 1 c 1
+c 1 g 2 h 1 g 3 h 3 c 3 h 8 f 1 c 2 h 1 g 1 h 2 g 1 c 1
+c 2 g 1 h 6 c 3 h 3 e 1 h 2 g 1 h 2 g 1 c 2 h 1 f 1 h 2 g 1 f 1 c 1
+c 2 g 2 h 3 c 3 h 3 e 1 h 3 g 1 h 3 c 2 e 1 h 1 f 1 h 2 g 1 c 1
+c 2 g 1 h 2 c 3 h 4 e 1 h 3 g 1 h 3 c 2 e 1 h 1 g 2 h 1 g 2 c 1
+c 2 f 1 c 3 h 1 e 4 h 3 g 2 h 3 c 2 e 1 h 2 f 1 h 1 g 2 c 1
+c 3 h 1 e 5 h 3 g 2 h 3 c 2 e 1 h 2 f 2 h 1 g 1 c 1
+c 1 h 1 g 1 e 3 h 4 g 2 h 3 g 1 c 2 e 1 h 2 f 2 h 1 g 2 c 1
+c 1 h 1 g 1 e 3 h 4 g 2 h 3 c 3 e 1 h 2 f 2 h 1 g 2 c 1
+c 1 g 3 h 4 g 4 h 3 c 3 h 3 f 2 h 2 g 1 c 1
+c 1 g 1 h 5 g 4 h 4 c 2 e 1 h 3 f 2 h 1 g 2 c 1
+c 1 g 1 h 4 g 4 h 4 c 3 h 4 f 2 h 1 g 1 c 1
+c 1 g 2 h 3 g 3 h 2 g 2 c 1 c 1 g 1 h 4 f 1 g 1 h 1 g 1 c 1
+c 1 g 10 c 1 c 1 g 1 h 6 g 2 c 1
+c 4 g 3 c 3 c 1 e 1 g 1 h 5 g 1 c 1
+c 4 c 1 g 3 h 1 g 3 c 1
+c 1 g 5 c 2
+c 1 e 4 c 1
+c 4
+
+columns
+c 3
+c 1 c 4 g 2 c 3
+c 1 g 1 c 2 c 1 g 8 c 2
+c 1 g 3 c 2 g 2 h 1 g 1 e 1 h 3 g 2 c 2
+c 1 g 2 h 5 e 3 h 5 g 1 c 2
+c 1 g 1 h 6 e 3 h 3 g 1 h 1 g 2 c 1
+c 1 h 6 e 4 h 2 g 2 h 3 f 1 c 1
+c 2 h 1 g 1 h 4 e 4 h 2 g 2 h 3 c 8
+c 2 g 1 h 1 g 4 h 2 e 3 h 2 g 2 h 3 c 3 h 2 g 4 c 1
+c 1 g 2 h 3 g 3 h 2 e 3 h 6 c 3 h 1 g 3 h 2 g 2 c 1
+c 1 g 2 h 4 g 3 h 1 e 2 h 2 g 1 h 3 c 3 h 1 e 3 g 1 h 3 g 1 c 1
+c 1 g 1 h 7 g 1 h 1 e 2 h 1 g 1 h 3 c 3 h 1 e 4 h 4 g 1 c 1
+c 1 g 1 h 7 g 1 h 1 e 1 h 1 g 1 h 3 c 3 h 2 e 4 h 4 g 1 c 1
+c 1 g 5 h 4 g 1 h 5 c 4 h 3 e 2 h 4 g 4 c 1
+c 1 g 2 h 1 g 4 h 2 g 1 h 2 e 1 f 2 c 4 h 4 e 2 h 3 g 5 c 1
+c 1 e 1 g 1 h 3 g 4 h 4 c 3 f 2 h 4 e 2 h 4 g 6 c 1
+c 1 e 2 g 7 h 3 c 1 g 1 f 2 g 1 f 1 h 3 e 1 h 6 g 3 h 1 g 1 c 2
+c 1 e 2 h 4 g 4 f 1 c 1 f 1 g 1 f 2 g 1 f 1 h 8 g 4 h 2 g 1 c 1
+c 1 e 2 h 4 g 4 f 5 g 1 f 2 h 6 g 5 h 2 g 2 c 1
+c 1 e 1 h 3 g 5 h 1 f 1 g 1 f 1 g 1 f 2 g 1 h 3 g 5 h 5 g 1 c 1
+c 1 e 1 h 2 g 7 f 1 g 1 f 6 h 12 c 1
+c 1 e 1 h 1 g 1 h 2 g 4 f 3 g 5 f 1 h 10 c 1
+c 1 f 1 h 4 g 4 f 1 g 7 f 2 g 1 h 4 g 1 c 7
+c 2 d 2 g 1 h 3 c 4 f 5 g 3 f 1 c 11 g 2 e 1 c 1
+c 1 d 5 f 1 h 1 e 1 f 2 g 1 c 3 f 1 g 1 h 2 g 1 h 2 c 9 e 1 h 3 g 2 c 1
+c 1 d 7 f 2 g 4 c 4 g 1 h 2 g 2 h 2 e 6 h 6 g 2 c 1
+c 1 d 8 f 1 g 6 f 1 c 3 f 1 g 1 h 2 g 1 f 1 h 12 g 2 e 1 c 1
+c 1 d 8 f 1 g 7 f 2 c 2 f 1 h 4 f 1 g 1 h 11 g 1 e 1 c 1
+c 1 d 10 f 1 h 1 g 8 c 3 f 1 h 3 g 1 f 8 h 2 g 2 e 1 c 1
+c 2 d 10 e 1 f 1 h 1 g 8 f 1 c 2 g 2 h 3 f 6 g 1 h 2 g 2 e 1 c 1
+c 1 d 10 c 3 g 1 h 1 g 2 e 1 g 6 c 1 c 1 f 1 g 3 h 7 g 3 c 2
+c 1 d 8 c 3 c 1 f 1 h 2 g 2 e 1 g 6 c 1 c 2 g 5 h 1 g 4 c 3
+c 1 d 3 c 1 d 2 c 4 c 1 h 3 g 2 h 1 e 1 h 2 g 4 c 1 c 3 g 4 c 3
+c 1 d 3 c 2 d 2 c 1 c 1 e 2 h 1 g 2 h 2 e 1 h 3 g 3 c 1 c 4
+c 1 d 3 c 1 d 2 c 6 e 3 h 2 e 2 h 3 g 3 c 1
+c 2 d 1 c 2 d 7 f 2 e 5 h 3 g 3 c 1
+c 1 d 2 c 2 d 6 c 4 e 3 h 3 g 3 c 1
+c 1 d 1 c 1 c 6 c 2 e 3 g 4 c 1
+c 1 d 1 c 1 c 1 e 3 g 2 c 1
+c 2 c 5

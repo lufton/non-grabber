@@ -1,0 +1,103 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Sep  9, 2010"
+description ""
+difficulty 1.5
+height 40
+id 10264
+link "https://webpbn.com/play.cgi?id=10264"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "burst"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 black 1
+red 6 black 1
+red 7 black 3
+red 9 black 3
+red 10 black 3
+red 11 black 5
+red 4 black 20
+red 4 blue 3 black 16
+red 3 blue 6 black 13
+red 3 blue 8 black 11
+red 3 blue 10 black 9
+red 3 blue 11 black 9
+red 3 blue 11 black 11
+red 3 blue 12 black 11
+red 2 blue 12 black 6 green 1 black 5
+red 2 blue 13 black 5 green 3 black 5
+red 3 blue 12 black 5 green 5 black 4
+red 2 blue 13 black 4 green 7 black 4
+red 2 blue 13 black 4 green 10 black 2
+red 2 blue 14 black 2 green 13 black 2
+red 1 blue 14 green 15
+red 2 blue 13 green 12
+red 1 blue 12 green 11
+red 1 blue 11 green 10
+red 1 blue 10 green 8
+red 1 blue 9 green 7
+red 1 blue 9 green 6
+red 1 blue 7 green 7
+red 1 blue 7 green 5
+blue 7 green 5
+blue 6 green 4
+blue 5 green 4
+blue 5 green 3
+blue 4 green 2
+blue 3 green 2
+blue 2 green 2
+blue 1 green 2
+green 2
+green 1
+0
+
+columns
+red 1 blue 8 green 2
+red 2 blue 8 green 2
+red 1 blue 9 green 2
+red 2 blue 9 green 2
+red 2 blue 10 green 2
+red 3 blue 9 green 3
+red 2 blue 10 green 3
+red 3 blue 10 green 4
+red 3 blue 10 green 4
+red 4 blue 10 green 4
+red 3 blue 12 green 3
+red 3 blue 12 green 4
+red 3 blue 12 green 4
+red 3 blue 13 green 3
+red 3 blue 13 green 4
+red 3 blue 13 green 5
+red 3 blue 14 green 4
+red 3 blue 14 green 4
+red 3 blue 14 green 4
+red 3 blue 14 green 4
+red 3 black 1 blue 13 green 5
+red 3 black 1 blue 11 black 2 green 5
+red 4 black 2 blue 8 black 4 green 4
+red 4 black 3 blue 5 black 5 green 5
+red 5 black 4 blue 2 black 7 green 5
+red 5 black 12 green 5
+red 6 black 11 green 6
+red 6 black 10 green 7
+red 5 black 10 green 7
+red 2 black 12 green 8
+black 15 green 7
+black 14 green 5
+black 12 green 4
+black 12 green 3
+black 4 black 6 green 3
+black 3 black 4 green 1
+black 2 black 3
+black 2 black 1
+black 1
+black 1

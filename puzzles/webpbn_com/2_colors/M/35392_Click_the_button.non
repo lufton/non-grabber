@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Oct  7, 2021"
+description "And sort by puzzles created for a surprise"
+difficulty 1.25
+height 10
+id 35392
+link "https://webpbn.com/play.cgi?id=35392"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Click the button"
+width 35
+
+rows
+2,2
+2,2
+2,2
+2,2,3,4,2,2,3
+2,2,2,2,6,5,2,2
+2,2,2,2,2,3,2
+2,2,3,6,2,3
+2,2,2,2,2,2
+3,3,2,2,2,2,2,2,2
+5,3,4,2,3
+
+columns
+0
+9
+10
+2
+1
+2
+10
+9
+0
+2,1
+4,2
+1,1,1
+2,4
+1,2
+0
+5
+7
+2,1,1
+2,1,1
+4,2
+3,1
+0
+7
+7
+2
+2
+2
+0
+2,1
+4,2
+1,1,1
+2,4
+1,2
+0
+0

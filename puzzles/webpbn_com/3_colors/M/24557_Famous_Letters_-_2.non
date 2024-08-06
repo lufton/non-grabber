@@ -1,0 +1,61 @@
+by "Wesley Snyder (wsnyder98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wesley Snyder"
+date "May 24, 2014"
+description "There should be yellow between the red and the outer black ring..."
+difficulty 2.0
+height 20
+id 24557
+link "https://webpbn.com/play.cgi?id=24557"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Famous Letters - 2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 20
+red 7 red 6
+red 5 black 5 red 5
+red 5 black 3 black 2 red 4
+red 4 black 1 black 2 red 4
+red 4 black 2 black 1 red 4
+red 4 black 1 black 1 black 1 red 4
+red 3 black 1 black 2 black 1 red 4
+red 3 black 2 black 1 black 2 red 4
+red 3 black 1 black 1 black 1 red 4
+red 3 black 1 black 2 black 1 red 5
+red 2 black 1 black 1 black 1 red 5
+red 2 black 2 black 2 black 2 red 5
+red 2 black 1 black 1 black 1 red 5
+red 2 black 1 black 1 red 6
+red 2 black 2 black 2 red 6
+red 2 black 3 black 3 red 6
+red 3 black 4 red 7
+red 4 red 9
+red 20
+
+columns
+red 20
+red 20
+red 11 red 3
+red 7 black 4 red 2
+red 4 black 5 black 2 red 1
+red 2 black 4 black 1 red 1
+red 2 black 3 black 2 red 1
+red 1 black 1 black 2 black 1 red 1
+red 1 black 2 black 3 black 1 red 1
+red 1 black 1 black 4 black 2 red 1
+red 1 black 1 black 2 black 1 red 1
+red 1 black 1 black 2 red 2
+red 1 black 2 black 4 red 2
+red 1 black 2 black 5 red 3
+red 2 black 5 red 6
+red 3 red 10
+red 20
+red 20
+red 20
+red 20

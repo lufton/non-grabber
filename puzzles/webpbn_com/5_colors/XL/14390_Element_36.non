@@ -1,0 +1,103 @@
+by "DJ Arruda (Dredgon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by DJ Arruda"
+date "Jun 12, 2011"
+description "This is an image of Superman, albeit very crude, and it represents Krypton because Superman in known to be invulnerable to everything except Kryptonite, a fictional substance derived from the element Krypton."
+difficulty 1.75
+height 40
+id 14390
+link "https://webpbn.com/play.cgi?id=14390"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Element 36"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 1 green 1
+green 1 green 2
+blue 10 green 3
+blue 10 green 2
+blue 2 black 2 blue 2 black 2 blue 2 green 3 green 1
+blue 2 black 6 blue 2 green 1 green 1 green 3
+blue 2 black 2 blue 2 black 2 blue 2 green 1 green 2 green 1 green 1
+blue 10 green 1 green 1 green 1
+blue 10 green 1 green 1 green 1
+blue 6
+blue 13
+blue 13
+blue 2 blue 2
+blue 2 blue 2
+blue 2 red 5 blue 2
+blue 2 red 1 blue 4
+blue 3 red 1 blue 4
+blue 4 red 1 blue 2 blue 3
+blue 1 blue 2 red 3 blue 2 blue 2
+blue 1 blue 2 red 2 blue 2 blue 2
+blue 2 blue 2 red 1 red 1 blue 2 blue 2
+blue 1 blue 2 red 1 red 1 blue 2 blue 2
+blue 1 blue 2 red 1 red 1 blue 2 blue 2
+blue 2 blue 2 red 6 blue 2 blue 1
+blue 5 blue 2 blue 2 blue 5
+blue 3 blue 2 blue 2 blue 3
+blue 2 blue 2 blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 13
+blue 13
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 4 blue 4
+blue 4 blue 4
+
+columns
+0
+0
+0
+0
+blue 3
+blue 3
+blue 2
+blue 1
+blue 2
+blue 4
+blue 4
+blue 2 blue 2
+blue 22 blue 2
+blue 22 blue 2
+blue 7 blue 2 blue 9
+blue 7 blue 2 red 4 blue 2
+blue 2 black 3 blue 5 red 1 blue 2
+blue 2 black 3 blue 5 red 5 red 1 blue 2
+blue 3 black 1 blue 6 red 1 red 1 red 1 blue 2
+blue 3 black 1 blue 6 red 1 red 2 red 1 blue 2
+blue 2 black 3 blue 5 red 1 red 5 blue 2
+blue 2 black 3 blue 5 red 1 blue 2
+blue 7 blue 2 blue 9
+blue 7 blue 22 blue 2
+blue 22 blue 2
+blue 2 blue 2
+blue 3
+blue 1
+blue 2
+blue 2
+green 9 blue 3
+green 3 blue 3
+green 2 green 3 blue 3
+green 2 green 3 blue 1
+blue 2
+blue 3
+green 5 blue 3
+green 1
+green 2
+0

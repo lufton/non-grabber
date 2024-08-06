@@ -1,0 +1,63 @@
+by "Sam Reiss (sammyrice)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Sam Reiss"
+date "Aug 21, 2016"
+description "It's a weave pattern of some sort, hopefully you think it's kinda cool, otherwise, sorry for wasting your time."
+difficulty 1.5
+height 20
+id 28612
+link "https://webpbn.com/play.cgi?id=28612"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Basket"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 green 3 blue 1 green 3 blue 1 green 5
+blue 1 blue 1 blue 1
+black 1 black 1 black 1
+red 3 black 1 red 3 black 1 red 3 black 1 red 2
+black 1 black 1 black 1
+blue 1 blue 1 blue 1
+blue 1 green 3 blue 1 green 3 blue 1 green 5
+blue 1 blue 1 blue 1
+black 1 black 1 black 1
+red 3 black 1 red 3 black 1 red 3 black 1 red 2
+black 1 black 1 black 1
+blue 1 blue 1 blue 1
+blue 1 green 3 blue 1 green 3 blue 1 green 5
+blue 1 blue 1 blue 1
+black 1 black 1 black 1
+red 3 black 1 red 3 black 1 red 3 black 1 red 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+
+columns
+red 1 red 1 red 1
+blue 4 red 1 blue 3 red 1 blue 3 red 1
+red 1 red 1 red 1
+green 1 green 1 green 1
+green 1 black 3 green 1 black 3 green 1 black 4
+green 1 green 1 green 1
+red 1 red 1 red 1
+blue 4 red 1 blue 3 red 1 blue 3 red 1
+red 1 red 1 red 1
+green 1 green 1 green 1
+green 1 black 3 green 1 black 3 green 1 black 4
+green 1 green 1 green 1
+red 1 red 1 red 1
+blue 4 red 1 blue 3 red 1 blue 3 red 1
+red 1 red 1 red 1
+green 1 green 1 green 1
+green 1 black 3 green 1 black 3 green 1 black 4
+green 1 green 1 green 1
+green 1 red 1 green 1 red 1 green 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1

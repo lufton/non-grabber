@@ -1,0 +1,52 @@
+by "Aurelian Ginkgo (AurelianGinkgo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Aurelian Ginkgo"
+date "Sep  5, 2018"
+description "Donut expect anything healthy, either."
+difficulty 2.25
+height 15
+id 31544
+link "https://webpbn.com/play.cgi?id=31544"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "This puzzle does not contain a veggie pun."
+width 20
+
+rows
+8
+3,3
+3,3
+2,2
+2,4,2
+1,6,1
+1,1,2,3,1,1
+1,2,2,3,1
+1,4,1,1
+2,2,2,1,2
+1,2,1,1
+2,1,2,3
+2,1,4,3
+3,2,1
+5
+
+columns
+6
+2,3
+2,2,2
+1,1,2
+2,1,1
+1,1,2
+2,1
+1,1,1,1
+1,2,6
+1,3,2,2
+1,3,1,1
+1,2,1,1
+1,1,2,1
+2,2,2
+1,1,1
+2,2,1
+1,7
+2,2,2
+2,3
+6

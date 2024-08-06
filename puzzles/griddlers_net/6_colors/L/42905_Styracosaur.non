@@ -1,0 +1,83 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/19/07"
+height 30
+id 42905
+link "https://www.griddlers.net/nonogram/-/g/42905"
+medium_time "0:27:57"
+points 48042
+popularity 79.44
+title "Styracosaur"
+width 30
+
+color a ffffff
+color b 000000
+color c cccccc
+color d 868686
+color f 999966
+color h 660000
+
+rows
+b 2
+b 2 b 1 c 1 b 1
+b 1 c 1 b 1 b 1 c 1 b 1 b 2
+b 1 d 1 b 1 b 1 c 1 b 1 b 1 c 1 b 1
+b 1 c 1 d 1 b 1 b 1 c 1 d 1 b 1 b 1 c 1 b 1
+b 1 c 1 d 1 b 1 b 1 c 1 d 1 b 1 b 1 c 1 d 1 b 1
+b 2 b 1 c 1 d 2 b 1 b 1 c 1 d 1 b 2 c 1 d 1 b 1 b 2
+b 1 c 1 b 2 b 1 c 1 d 1 b 1 b 1 c 1 d 1 b 1 d 3 b 2 c 1 b 1
+b 1 c 2 b 2 b 1 c 2 d 1 b 1 f 1 b 4 d 1 b 2 c 1 b 1 b 2
+b 1 c 1 d 1 c 1 b 5 f 6 b 2 c 1 d 1 b 1 b 1 c 1 b 1
+b 1 c 1 d 2 b 1 f 9 b 1 c 1 d 1 b 1 b 2 c 1 d 1 b 1
+b 1 c 1 d 2 b 1 f 7 b 1 c 1 d 2 b 1 b 2 c 1 d 2 b 1
+b 1 c 1 d 1 b 1 f 5 b 2 c 1 d 2 b 4 c 2 d 2 b 1
+b 2 f 5 b 1 c 2 d 2 b 1 f 1 b 1 c 2 d 3 b 1
+b 7 f 6 b 1 c 1 d 2 b 1 f 2 b 1 d 3 b 2
+b 1 c 6 b 1 f 6 b 3 f 4 b 3
+b 2 c 1 d 3 b 1 f 14 b 1
+b 4 f 9 b 3 f 2 b 2
+b 2 f 9 b 2 f 2 b 1 b 2
+b 1 f 3 b 2 f 9 b 1 b 1 c 1 b 1
+b 3 f 2 b 1 f 9 b 2 c 1 b 1
+b 1 f 3 b 1 f 9 b 1 c 1 d 1 b 1
+b 1 f 5 b 4 f 6 b 2
+b 1 f 6 b 1 h 2 b 2 f 2 b 1 f 2 b 1
+b 3 f 4 b 1 h 1 b 2 f 3 b 1
+b 1 f 3 b 1 h 2 b 1 f 2 b 1
+b 1 f 3 b 1 h 1 b 1 f 1 b 1
+b 1 f 3 b 3 b 1
+b 2 f 3 b 1
+b 3
+
+columns
+b 2 b 2
+b 1 c 1 b 1 b 1 c 1 b 1
+b 1 c 1 b 1 b 1 c 1 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+b 2 b 1 d 1 c 1 b 1 b 1 c 1 d 1 b 1
+b 1 c 1 b 2 b 1 c 1 d 1 c 1 b 1 b 1 c 1 d 1 b 1
+b 1 d 1 c 1 b 2 b 1 d 2 c 1 b 2 c 1 d 1 b 2
+b 1 d 1 c 2 b 4 d 2 b 1 f 1 b 2 f 1 b 2
+b 1 d 2 c 2 b 1 f 1 b 2 f 7 b 1 b 2
+b 1 d 2 c 1 b 1 f 10 b 2 f 2 b 1
+b 2 d 1 b 1 f 10 b 1 f 3 b 1
+b 1 f 10 b 1 f 4 b 1
+b 8 f 11 b 1 f 5 b 1
+b 1 c 7 b 1 f 4 b 2 f 5 b 2 f 4 b 1
+b 3 d 4 b 1 f 3 b 1 c 2 b 1 f 6 b 1 f 4 b 1
+b 5 f 3 b 1 c 1 d 1 b 1 f 6 b 2 f 4 b 1
+b 1 d 1 b 1 f 2 b 1 c 1 d 2 b 1 f 1 b 1 f 4 b 1 h 1 b 2 f 2 b 1
+b 1 c 1 d 2 b 2 c 1 d 2 b 1 f 2 b 2 f 3 b 1 h 3 b 1 f 2 b 1
+b 1 c 1 d 2 b 2 c 1 d 2 b 1 f 3 b 2 f 4 b 1 h 2 b 1 f 1 b 1
+b 1 c 1 d 1 b 3 c 1 d 2 b 1 f 10 b 1 b 1 f 1 b 1
+b 1 c 1 b 2 b 1 c 1 d 1 b 5 f 9 b 1 b 2
+b 2 b 1 c 1 b 2 b 1 c 1 d 1 b 1 f 1 b 2 f 5 b 3
+b 2 b 1 c 1 d 1 b 3 b 1 f 3 b 1 f 3 b 1
+b 1 c 1 d 2 b 1 b 2 f 4 b 1
+b 1 c 1 d 1 b 1 b 1 c 1 b 1 f 2 b 1
+b 1 c 1 d 2 b 1 b 1 c 1 d 1 b 3
+b 1 d 2 b 1 b 1 c 1 b 2
+b 1 c 1 d 1 b 1 b 2
+b 1 c 1 d 1 b 1
+b 3

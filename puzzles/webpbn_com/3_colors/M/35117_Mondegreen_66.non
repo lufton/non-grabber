@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "May 24, 2021"
+description "Get your free cone."
+difficulty 1.25
+height 25
+id 35117
+link "https://webpbn.com/play.cgi?id=35117"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Mondegreen #66"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 7
+black 10
+black 12
+black 14
+black 14
+black 14
+black 13
+black 12
+black 10
+black 9
+red 7
+red 7
+red 7
+red 7
+black 1 red 5
+black 2 red 5
+black 2 red 5
+red 5
+red 3
+red 3
+red 3
+red 3
+red 1
+red 1
+black 3 red 1
+
+columns
+black 2 black 1
+black 4 black 3 black 1
+black 6 black 1
+black 9
+black 9 red 4
+black 10 red 8
+black 10 red 12
+black 10 red 15
+black 10 red 12
+black 10 red 8
+black 10 red 4
+black 10
+black 8
+black 6
+black 3

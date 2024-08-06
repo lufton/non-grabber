@@ -1,0 +1,63 @@
+by "Shari Robertson (sharir)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Shari Robertson"
+date "Mar 29, 2011"
+description "max ;-]"
+difficulty 1.25
+height 20
+id 13086
+link "https://webpbn.com/play.cgi?id=13086"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "the answer"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1 red 1 black 3 red 6
+black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 6
+black 3 red 1 black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 6
+black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 6
+black 1 red 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1 red 1 black 3 red 6
+red 20
+black 5 blue 1 black 1 blue 1 black 1 blue 2 black 3 blue 1 black 3 blue 2
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2
+black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 3 blue 1 black 1
+black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2
+black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 2
+blue 20
+black 5 green 1 black 2 green 2 black 3 green 1 black 3 green 3
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 4 black 1 green 2 black 1 green 5
+black 1 green 1 black 1 green 1 black 1 green 1 black 2 green 3 black 1 green 2 black 3 green 3
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 4 black 1 green 4 black 1 green 3
+black 1 green 1 black 1 green 1 black 1 green 1 black 2 green 2 black 3 green 1 black 3 green 3
+green 20
+green 20
+green 20
+
+columns
+black 5 red 1 black 5 blue 1 black 5 green 3
+red 2 black 1 red 3 black 1 blue 5 black 1 green 7
+black 5 red 1 black 5 blue 1 black 5 green 3
+red 6 black 1 blue 5 black 1 green 7
+black 5 red 1 black 5 blue 1 black 5 green 3
+black 1 red 1 black 1 red 1 black 1 red 1 blue 6 green 8
+red 6 black 2 blue 4 black 5 green 3
+black 5 red 1 blue 2 black 3 blue 1 black 1 green 1 black 1 green 1 black 1 green 3
+red 6 black 2 blue 4 green 8
+black 5 red 1 blue 6 green 8
+red 6 blue 6 black 1 green 3 black 1 green 3
+black 5 red 1 black 5 blue 1 black 5 green 3
+black 1 red 3 black 1 red 1 black 1 blue 5 black 1 green 3 black 1 green 3
+black 5 red 1 black 5 blue 1 green 8
+red 6 blue 6 black 3 green 1 black 1 green 3
+red 6 black 5 blue 1 black 1 green 1 black 1 green 1 black 1 green 3
+red 6 black 1 blue 1 black 1 blue 3 black 1 green 1 black 3 green 3
+red 6 black 5 blue 1 green 8
+red 6 blue 6 green 8
+red 6 blue 2 black 1 blue 3 green 8

@@ -1,0 +1,101 @@
+by "Beth Briggs (YodaTrophy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Beth Briggs"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 40
+id 26824
+link "https://webpbn.com/play.cgi?id=26824"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Card game"
+width 40
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 26 blue 14
+blue 1 black 26 blue 13
+blue 1 black 26 blue 13
+blue 1 black 27 blue 12
+blue 2 black 26 blue 12
+blue 2 black 19 black 2 blue 7
+blue 2 black 7 black 1 black 3 black 1 black 2 blue 7
+blue 3 black 5 black 1 black 2 black 1 black 2 black 2 blue 2 blue 7
+blue 3 black 3 black 4 black 1 black 2 black 2 black 2 blue 2 blue 7
+blue 3 black 2 black 5 black 3 black 2 black 2 blue 2 blue 7
+blue 4 black 7 black 5 black 2 black 2 blue 1 blue 7
+blue 4 black 8 black 5 black 2 black 2 blue 7
+blue 4 black 3 black 5 black 2 blue 2 blue 2
+blue 5 black 1 black 1 black 5 black 2 black 3 blue 3 blue 2
+blue 5 black 6 black 1 black 3 black 2 black 3 blue 3 blue 2
+blue 5 black 6 black 1 black 3 black 1 black 3 blue 8
+blue 6 black 5 black 1 black 1 black 3 black 2 black 3 blue 8
+blue 6 black 3 black 1 black 2 black 2 black 2 black 3 blue 8
+blue 6 black 1 black 2 black 3 black 2 black 2 black 4 blue 7
+blue 7 black 5 black 4 black 2 black 2 black 4 blue 7
+blue 7 black 8 black 17 blue 7
+blue 7 black 27 blue 6
+blue 8 black 26 blue 6
+blue 8 black 17 black 2 blue 6
+blue 8 black 4 black 4 black 3 blue 5
+blue 9 black 3 black 3 black 5 black 2 blue 5
+blue 9 black 3 black 4 black 3 black 5 black 2 blue 5
+blue 9 black 3 black 4 black 3 black 5 black 3 blue 4
+blue 10 black 3 black 4 black 3 black 5 black 3 blue 4
+blue 10 black 3 black 4 black 3 black 5 black 3 blue 4
+blue 10 black 3 black 3 black 5 black 4 blue 3
+blue 11 black 2 black 5 black 2 black 5 black 4 blue 3
+blue 11 black 2 black 5 black 2 black 5 black 4 blue 3
+blue 11 black 2 black 4 black 2 black 5 black 5 blue 2
+blue 12 black 1 black 4 black 2 black 5 black 5 blue 2
+blue 12 black 1 black 4 black 2 black 5 blue 2
+blue 12 black 1 black 2 black 7 blue 1
+blue 13 black 1 black 18 blue 1
+blue 13 black 26 blue 1
+blue 14 black 26
+
+columns
+black 1 blue 39
+black 4 blue 36
+black 7 blue 33
+black 10 blue 30
+black 10 blue 27
+black 9 black 3 blue 24
+black 8 black 1 black 5 blue 21
+black 8 black 2 black 4 black 2 blue 18
+black 7 black 2 black 4 black 5 blue 15
+black 6 black 3 black 3 black 8 blue 12
+black 6 black 4 black 3 black 12 blue 9
+black 6 black 5 black 15 blue 6
+black 13 black 6 black 9 blue 3
+black 6 black 16 black 2 blue 1
+black 6 black 5 black 2
+black 9 black 3 black 4 black 2 black 2
+black 8 black 8 black 4 black 5 black 2
+black 7 black 4 black 7 black 4 black 5 black 2
+black 6 black 5 black 6 black 4 black 5 black 2
+black 6 black 8 black 5 black 5 black 2
+black 17 black 5 black 2
+black 5 black 21 black 3
+black 5 black 24
+black 10 black 20
+black 15 black 4 black 3
+black 5 black 13 black 3
+blue 1 black 4 black 7 black 10 black 3
+blue 3 black 2 black 2 black 3 black 10 black 3
+blue 5 black 5 black 2 black 3 black 10 black 3
+blue 5 blue 2 black 3 black 10 black 10 black 3
+blue 5 blue 4 black 10 black 10 black 3
+blue 5 blue 1 blue 2 black 8 black 3
+blue 5 blue 6 black 7 black 4
+blue 21 black 19
+blue 12 blue 9 black 16
+blue 12 blue 12 black 13
+blue 12 blue 15 black 10
+blue 12 blue 18 black 7
+blue 36 black 4
+blue 39 black 1

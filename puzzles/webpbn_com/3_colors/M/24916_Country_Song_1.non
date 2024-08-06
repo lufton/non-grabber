@@ -1,0 +1,61 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Ron Jacobson"
+date "Jul  7, 2014"
+description "Ring of Fire"
+difficulty 2.25
+height 20
+id 24916
+link "https://webpbn.com/play.cgi?id=24916"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Country Song #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+red 2
+red 2
+red 2 red 3 red 2
+red 1 red 2 red 1
+red 2 red 2 red 2
+red 1 black 3 red 1
+red 3 black 5 red 3
+red 3 black 2 black 2 red 3
+red 1 black 2 red 2 black 2 red 1
+black 2 red 1 black 2
+black 2 red 2 black 2
+black 2 red 1 black 2
+black 2 red 3 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 3
+0
+0
+0
+
+columns
+0
+0
+0
+0
+red 2
+red 5 black 3
+red 3 red 2 black 5
+red 1 black 2 black 2
+black 2 black 2
+red 3 black 2 red 2 black 2
+red 5 black 2 red 5 black 1
+red 4 black 2 red 3 red 2 black 2
+red 1 black 2 red 1 black 2
+black 2 black 2
+red 2 black 5
+red 5 black 3
+red 3 red 2
+red 1
+0
+0

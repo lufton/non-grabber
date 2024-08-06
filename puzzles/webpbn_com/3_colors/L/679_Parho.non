@@ -1,0 +1,81 @@
+by "zohar accart (zohar1717.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by zohar accart"
+date "Dec 19, 2006"
+description "I try to make Parho from the bible but i thing i got a snake head.. the bird is not very clear so use your imagintion..."
+difficulty 3.0
+height 35
+id 679
+link "https://webpbn.com/play.cgi?id=679"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Parho"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 8 black 8
+black 1 black 2 black 2 black 1
+black 1 black 1 black 3 black 3 black 1 black 1
+black 3 black 2 black 2 black 3
+black 2 black 2
+black 9
+black 3 black 1 black 1 black 1 black 3
+black 15
+black 3 black 9 black 3
+black 3 black 1 black 1 black 3
+black 3 black 1 black 1 black 3
+black 3 black 1 black 3 black 3 black 1 black 3
+black 3 black 1 black 2 red 1 black 2 black 2 red 1 black 2 black 1 black 3
+black 2 black 1 black 3 black 3 black 1 black 2
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1 black 5 black 1 black 1
+black 1 black 2 black 3 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 9 black 1
+black 1 black 7 black 1
+black 1 black 5 black 1
+black 1 black 1 black 5 black 1 black 1
+black 1 black 1 black 5 black 1 black 1
+black 2 black 1 black 5 black 1 black 2
+black 2 black 1 black 5 black 1 black 2
+black 2 black 1 black 5 black 1 black 2
+black 2 black 2 black 5 black 2 black 2
+black 2 black 1 black 7 black 1 black 2
+black 3 black 7 black 3
+black 2 black 7 black 2
+
+columns
+black 17
+black 3 black 2
+black 3 black 2
+black 3 black 2
+black 4 black 3 black 2
+black 1 black 1 black 3 black 9 black 2
+black 1 black 2 black 3 black 1 black 3 black 2
+black 1 black 2 black 1 black 1 black 2 black 4
+black 1 black 2 black 4 black 3 black 2 black 6
+black 1 black 4 black 2 black 1 red 1 black 1 black 2 black 3
+black 3 black 5 black 3 black 1 black 12
+black 2 black 1 black 2 black 1 black 2 black 2 black 12
+black 4 black 2 black 1 black 2 black 12
+black 2 black 1 black 2 black 1 black 1 black 2 black 12
+black 3 black 5 black 3 black 1 black 12
+black 1 black 4 black 2 black 1 red 1 black 1 black 2 black 3
+black 1 black 2 black 4 black 3 black 2 black 6
+black 1 black 2 black 1 black 1 black 2 black 4
+black 1 black 2 black 3 black 1 black 3 black 2
+black 1 black 1 black 3 black 9 black 2
+black 4 black 3 black 2
+black 3 black 2
+black 3 black 2
+black 3 black 2
+black 17

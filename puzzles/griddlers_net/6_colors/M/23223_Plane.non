@@ -1,0 +1,63 @@
+by "Calvario"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/16/05"
+height 20
+id 23223
+link "https://www.griddlers.net/nonogram/-/g/23223"
+medium_time "0:02:39"
+points 955
+popularity 50.16
+title "Plane"
+width 20
+
+color a ffffff
+color b ffff66
+color c ffcccc
+color d ff0000
+color e 99ccff
+color f 3399ff
+
+rows
+e 3
+e 4
+e 6 f 4
+e 2 e 2 b 4
+e 1 d 2 e 1 b 4
+e 1 d 4 e 1 f 4
+e 1 c 2 d 2 e 1 e 4
+e 1 c 2 d 1 e 1 e 4
+e 17
+e 18
+e 19
+e 19
+e 19
+d 1 e 19
+f 8
+b 8
+b 8
+f 8
+e 8
+e 6
+
+columns
+d 1
+e 4
+e 5
+e 6
+e 6
+e 11 f 1 b 2 f 1 e 1
+e 2 e 6 f 1 b 2 f 1 e 2
+e 1 d 1 c 2 e 6 f 1 b 2 f 1 e 2
+e 1 d 2 c 2 e 6 f 1 b 2 f 1 e 2
+e 1 d 4 e 6 f 1 b 2 f 1 e 2
+e 1 d 2 e 6 f 1 b 2 f 1 e 2
+e 2 e 6 f 1 b 2 f 1 e 2
+e 11 f 1 b 2 f 1 e 1
+e 6
+e 6
+e 6
+e 1 f 1 b 2 f 1 e 8
+e 2 f 1 b 2 f 1 e 8
+e 2 f 1 b 2 f 1 e 8
+e 2 f 1 b 2 f 1 e 8

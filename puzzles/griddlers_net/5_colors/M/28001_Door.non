@@ -1,0 +1,62 @@
+by "julia-grace"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/16/05"
+height 20
+id 28001
+link "https://www.griddlers.net/nonogram/-/g/28001"
+medium_time "0:03:56"
+points 486
+popularity 51.7
+title "Door"
+width 20
+
+color a c90300
+color c ffd500
+color d 0000ff
+color e 0000bc
+color h a41200
+
+rows
+h 4
+h 1 h 1
+h 4
+d 10 h 4
+d 10 h 1 h 1
+d 2 e 2 d 2 e 2 d 2 h 4
+d 2 e 2 d 2 e 2 d 2
+d 2 e 2 d 2 e 2 d 2
+d 2 e 2 d 2 e 2 d 2
+d 10
+d 8 c 1 d 1
+d 3 c 4 d 3
+h 4 d 2 e 2 d 2 e 2 d 2
+h 1 h 1 d 2 e 2 d 2 e 2 d 2
+h 4 d 2 e 2 d 2 e 2 d 2
+d 2 e 2 d 2 e 2 d 2
+d 2 e 2 d 2 e 2 d 2 h 3
+d 10 h 1
+d 10 h 3
+d 10
+
+columns
+h 3
+h 3 h 1 h 1
+h 1 h 1 h 1 h 1
+h 1 h 1 h 3
+h 3
+d 17
+d 17
+d 2 e 4 d 3 e 5 d 3
+d 2 e 4 d 2 c 1 e 5 d 3
+d 8 c 1 d 8
+d 8 c 1 d 8
+d 2 e 4 d 2 c 1 e 5 d 3
+d 2 e 4 d 3 e 5 d 3
+d 7 c 1 d 9
+d 17
+h 3
+h 1 h 1
+h 1 h 1 h 3
+h 3 h 1 h 1
+h 1 h 1

@@ -1,0 +1,63 @@
+by "Lama Seoud (lamloum)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Lama Seoud"
+date "Apr  1, 2010"
+description "Montreal subway map, rotate 90 degrees counterclockwise"
+difficulty 1.75
+height 20
+id 8235
+link "https://webpbn.com/play.cgi?id=8235"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Dizzy driver in montreal"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1
+blue 1
+blue 1
+blue 2
+blue 1
+red 1 blue 1
+red 1 blue 2
+red 1 blue 1
+black 5 red 1 black 4 blue 1 black 2 green 1
+black 1 red 1 blue 1 black 1 green 1
+black 1 red 1 blue 1 green 1 black 1 green 5
+red 3 blue 1 black 1
+red 1 blue 1 black 1
+red 1 blue 5
+black 10 blue 1
+blue 1
+blue 3
+blue 1
+blue 1
+blue 1
+
+columns
+0
+0
+black 3
+black 1
+black 1
+black 1 black 1
+black 1 black 1
+red 7 black 1
+black 1 red 1 black 1
+black 1 red 3 black 1
+blue 4 black 1 black 1
+blue 4 black 1 black 1
+blue 8 black 1
+black 1 green 1 blue 1 black 1
+black 5 blue 1 black 1 blue 4
+green 1 blue 1 blue 1
+green 1 blue 4
+green 1
+green 1
+green 3

@@ -1,0 +1,41 @@
+by "hhhhhhhhhhhhhhiiiiiiiiiiiiiiiii (ello)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by hhhhhhhhhhhhhhiiiiiiiiiiiiiiiii"
+date "Apr 16, 2009"
+description "...ains Yeah i dont know i got bored"
+difficulty 1.0
+height 4
+id 5643
+link "https://webpbn.com/play.cgi?id=5643"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "mount"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 blue 5 black 1 blue 5 black 1 blue 3
+black 2 blue 3 black 3 blue 3 black 3 blue 2
+black 3 blue 1 black 5 blue 1 black 5 blue 1
+black 16
+
+columns
+black 4
+blue 1 black 3
+blue 2 black 2
+blue 3 black 1
+blue 2 black 2
+blue 1 black 3
+black 4
+blue 1 black 3
+blue 2 black 2
+blue 3 black 1
+blue 2 black 2
+blue 1 black 3
+black 4
+blue 1 black 3
+blue 2 black 2
+blue 3 black 1

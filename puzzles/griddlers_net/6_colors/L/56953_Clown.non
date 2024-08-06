@@ -1,0 +1,83 @@
+by "aga_jasinska"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/16/08"
+height 30
+id 56953
+link "https://www.griddlers.net/nonogram/-/g/56953"
+medium_time "0:19:51"
+points 14112
+popularity 76.42
+title "Clown"
+width 30
+
+color a 009900
+color b 000000
+color c ffff00
+color d ff0000
+color e ffffff
+color f 0000ff
+
+rows
+b 19
+b 19
+b 30
+b 4 c 2 b 18 c 4 b 2
+c 2 e 5 b 8 e 5 c 4
+c 4 e 2 d 2 e 4 b 2 e 4 d 2 e 2 c 4
+c 4 e 2 d 6 e 4 d 6 e 2 c 3
+c 3 e 2 d 2 e 3 d 2 e 4 d 2 e 3 d 2 e 2 c 3
+c 3 e 2 d 1 e 2 b 1 e 2 d 2 e 6 b 1 e 2 d 1 e 2 c 3
+c 3 e 1 d 1 e 3 b 1 e 2 d 2 e 6 b 1 e 3 d 1 e 1 c 3
+c 4 e 1 d 1 e 1 f 4 b 2 e 4 b 2 f 4 e 1 d 1 e 1 c 1 c 2
+c 2 e 1 b 3 f 3 e 8 f 3 b 3 e 1 c 1
+c 2 e 4 f 3 e 2 d 4 e 2 f 3 e 4 c 1
+c 2 e 5 b 1 e 2 d 6 e 2 b 1 e 5 c 3
+c 2 e 5 b 1 e 1 d 5 c 2 d 1 e 1 b 1 e 5 c 3
+c 1 e 5 b 1 e 1 d 6 c 1 d 1 e 1 b 1 e 5 c 1
+c 2 e 8 d 5 c 1 e 8 c 2
+e 9 d 5 e 8
+e 4 d 2 e 10 d 2 e 4
+e 3 d 5 e 6 d 5 e 3
+e 2 d 3 b 1 d 3 e 1 d 2 e 1 d 3 b 1 d 3 e 2
+e 2 d 2 b 2 d 8 b 2 d 2 e 2
+e 2 d 2 b 12 d 2 e 2
+e 3 d 2 b 10 d 2 e 3
+e 3 d 10 e 3 d 3
+d 2 e 4 d 6 e 4 d 5
+d 5 e 14 d 5
+e 2 d 4 e 8 d 3 e 2
+d 2 e 1 d 1 e 1 d 2 b 1 d 3 b 2 d 3 e 1 d 3
+d 2 e 1 d 7 b 1 d 4 b 1 d 2 e 1 d 5
+
+columns
+b 2 c 1 c 1
+b 2 c 5 c 4 d 2
+b 2 c 10 d 2 e 1
+b 2 c 8 d 1 e 1 d 2
+b 1 c 4 e 14 d 4
+b 1 c 3 e 3 d 2 b 1 e 12 d 2 e 2
+b 4 e 3 d 2 e 2 b 1 e 8 d 1 e 3 d 3
+b 4 e 2 d 2 e 2 f 1 b 1 e 7 d 4 e 2 d 1 e 1 d 1
+b 4 e 1 d 2 e 3 f 3 e 5 d 6 e 3 d 2
+b 4 e 1 d 2 e 1 b 2 f 3 b 3 e 2 d 2 b 3 d 1 e 3 d 2
+b 4 e 2 d 1 e 3 f 3 e 6 d 2 b 3 d 1 e 2 d 1
+b 5 e 1 d 2 e 2 b 1 e 3 d 2 e 3 d 3 b 2 d 1 e 3 d 1
+b 5 e 1 d 4 b 1 e 2 d 4 e 3 d 2 b 2 d 2 e 2 d 1
+b 5 e 3 d 2 e 2 d 6 e 3 d 1 b 2 d 2 e 2 b 2
+b 6 e 6 d 6 e 2 d 2 b 2 d 2 e 2 d 2
+b 6 e 6 d 6 e 2 d 2 b 2 d 2 e 2 d 2
+b 5 e 7 d 2 c 1 d 3 e 3 d 1 b 2 d 2 e 2 d 2
+b 5 e 1 d 2 e 2 b 1 e 2 d 1 c 3 d 1 e 2 d 2 b 2 d 2 e 2 b 1 d 1
+b 5 e 1 d 2 e 2 b 1 e 3 d 2 e 3 d 3 b 2 d 1 e 3 b 2
+b 4 e 2 d 1 e 3 f 3 e 6 d 2 b 3 d 1 e 2 d 1
+b 4 e 1 d 2 e 1 b 2 f 3 b 3 e 2 d 2 b 3 d 1 e 3 d 2
+b 4 e 1 d 2 e 3 f 3 e 5 d 6 e 3 d 1 e 1
+b 4 e 2 d 2 e 2 f 1 b 1 e 7 d 4 e 2 d 3
+b 4 e 3 d 2 e 2 b 1 e 8 d 1 e 3 d 1 e 1 d 1
+b 3 c 3 e 3 d 2 b 1 e 12 d 5
+b 1 c 4 e 14 d 2 e 1 d 2
+b 1 c 12 d 3 e 1 d 2
+b 1 c 7 c 2 d 3
+b 2 c 4 c 4 d 3
+b 2 c 1 c 1

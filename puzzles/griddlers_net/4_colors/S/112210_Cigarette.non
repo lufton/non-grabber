@@ -1,0 +1,43 @@
+by "kraganeth"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/26/11"
+height 7
+id 112210
+link "https://www.griddlers.net/nonogram/-/g/112210"
+medium_time "0:00:32"
+points 37
+popularity 51.45
+title "Cigarette"
+width 15
+
+color a 66ffff
+color b ff9900
+color c ffffff
+color d 999999
+
+rows
+d 1
+d 2
+d 1
+d 1
+d 2
+c 10 b 4
+c 10 b 4
+
+columns
+d 2
+d 1 d 1 d 1 c 2
+d 1 c 2
+d 1 c 2
+c 2
+c 2
+c 2
+c 2
+c 2
+c 2
+c 2
+b 2
+b 2
+b 2
+b 2

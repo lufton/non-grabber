@@ -1,0 +1,33 @@
+by "Heather (heatherkewl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Heather"
+date "Jun  9, 2011"
+description "road trip view from side window of car"
+difficulty 1.0
+height 5
+id 14463
+link "https://webpbn.com/play.cgi?id=14463"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "the view"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4 red 1
+blue 5
+green 5
+black 5
+black 5
+
+columns
+blue 2 green 1 black 2
+blue 2 green 1 black 2
+blue 2 green 1 black 2
+blue 2 green 1 black 2
+red 1 blue 1 green 1 black 2

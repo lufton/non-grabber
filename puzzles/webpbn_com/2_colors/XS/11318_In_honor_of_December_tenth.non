@@ -1,0 +1,37 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Dec  9, 2010"
+description "Thought I'd give you all Ten 10x puzzles. Enjoy."
+difficulty 1.25
+height 10
+id 11318
+link "https://webpbn.com/play.cgi?id=11318"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "In honor of December tenth"
+width 10
+
+rows
+3,2,1,1
+1,1,3
+1,2,3
+1,1,1,1
+1,2,1,1
+0
+1,3
+1,1,1,1,1
+1,1,1,1
+1,3,1,1
+
+columns
+1,4
+5
+1,4
+1,1
+5,4
+1,1,1
+1,1
+5,1
+2,1,1
+5

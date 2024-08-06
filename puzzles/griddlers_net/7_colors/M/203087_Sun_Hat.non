@@ -1,0 +1,64 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/2/19"
+height 20
+id 203087
+link "https://www.griddlers.net/nonogram/-/g/203087"
+medium_time "0:04:06"
+points 990
+popularity 76.41
+title "Sun Hat"
+width 20
+
+color a ffffff
+color b 66cc00
+color c ff0033
+color d ffff00
+color f 000000
+color g 996600
+color h ffcccc
+
+rows
+d 6
+d 8 b 2
+d 10 b 1
+d 10 b 1
+b 12
+d 12 b 2
+d 16
+d 20
+g 4 h 6 g 4
+g 4 h 8 g 4
+h 3 f 1 h 5 f 1 h 4
+h 5 c 3 h 6
+h 10
+h 8
+h 4
+h 1 c 6 h 1
+h 2 c 6 h 2
+h 3 c 6 h 3
+h 3 c 8 h 3
+h 2 c 10 h 2
+
+columns
+d 1
+d 1
+d 2 g 1
+d 2 g 2 h 2 h 2
+d 3 g 2 h 2 h 3
+d 2 b 1 d 3 g 2 h 3 h 3 c 1
+d 3 b 1 d 3 g 1 h 1 f 1 h 3 h 3 c 2
+d 4 b 1 d 3 h 6 c 5
+d 4 b 1 d 3 h 3 c 1 h 3 c 5
+d 4 b 1 d 3 h 3 c 1 h 3 c 5
+d 4 b 1 d 3 h 3 c 1 h 3 c 5
+d 4 b 1 d 3 h 7 c 5
+d 4 b 1 d 3 h 2 f 1 h 3 c 5
+d 3 b 1 d 3 g 1 h 5 h 3 c 2
+d 2 b 1 d 3 g 2 h 3 h 3 c 1
+b 2 d 3 g 2 h 2 h 3
+b 2 b 1 d 2 g 2 h 2 h 2
+b 1 b 1 d 2 g 1
+b 1 d 1
+d 1

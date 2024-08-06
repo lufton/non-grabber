@@ -1,0 +1,81 @@
+by "Jota (Jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jota"
+date "Sep  2, 2008"
+description "Empire State Building as seen from the Statue of Liberty!"
+difficulty 1.25
+height 40
+id 3405
+link "https://webpbn.com/play.cgi?id=3405"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WC#2 We live for it ..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 8 black 1 blue 9
+blue 8 black 1 blue 9
+blue 8 black 1 blue 9
+blue 8 black 1 blue 9
+blue 8 black 1 blue 9
+blue 8 black 1 blue 9
+blue 7 black 3 blue 8
+blue 7 black 1 black 1 blue 8
+blue 7 black 1 black 1 blue 8
+blue 7 black 1 black 1 blue 8
+blue 7 black 1 black 1 blue 8
+blue 7 black 1 black 1 blue 8
+blue 6 black 5 blue 7
+blue 6 black 1 black 1 blue 7
+blue 5 black 7 blue 6
+blue 5 black 1 black 1 blue 6
+blue 5 black 1 black 1 black 1 black 1 blue 6
+blue 3 black 3 black 3 blue 4
+blue 3 black 1 black 1 black 1 black 1 blue 4
+blue 3 black 1 black 1 black 1 black 1 blue 4
+blue 3 black 1 black 1 black 1 black 1 blue 4
+blue 3 black 1 black 1 black 1 black 1 blue 4
+blue 3 black 1 black 1 black 1 black 1 blue 4
+blue 2 black 2 black 1 black 1 black 2 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 blue 3
+
+columns
+0
+blue 40
+blue 40
+blue 23 black 17
+blue 17 black 7
+blue 17 black 1
+blue 14 black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+blue 12 black 3
+blue 6 black 7 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 7 black 1 black 1
+blue 6 black 7 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+blue 12 black 3
+blue 14 black 4 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+blue 17 black 1
+blue 17 black 7
+blue 23 black 17
+blue 40
+blue 40
+blue 40
+0

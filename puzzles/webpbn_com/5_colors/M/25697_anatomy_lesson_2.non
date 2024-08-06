@@ -1,0 +1,73 @@
+by "Sue Drummer (sdrummer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Sue Drummer"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 25
+id 25697
+link "https://webpbn.com/play.cgi?id=25697"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "anatomy lesson #2"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 14
+black 5 red 10
+black 4 green 1 black 4
+black 3 green 7 black 2
+black 3 green 2 blue 5 green 2 black 3 red 5
+black 2 red 1 green 2 blue 1 blue 2 green 3 black 2 red 4
+black 1 red 2 blue 3 blue 3 green 2 black 2
+black 1 blue 1 red 2 blue 2 green 2 black 2
+black 1 blue 2 black 1 red 1 blue 2 green 2 black 2
+black 2 blue 1 black 3 blue 2 green 1 black 2
+black 2 blue 1 black 3 blue 1 green 2 black 2
+black 1 black 5 blue 2 green 1 black 2
+black 1 black 5 red 1 blue 1 green 1 black 2
+black 1 black 5 blue 2 green 1 black 2
+black 2 blue 1 black 3 blue 2 green 2 black 1
+black 2 blue 1 black 3 blue 1 green 2 black 2
+black 1 blue 2 black 1 red 1 blue 4 black 2
+black 1 blue 1 red 2 blue 2 green 2 blue 3 black 1
+black 1 red 2 blue 2 blue 2 green 2 black 3 blue 2
+black 2 red 1 green 1 blue 3 blue 2 green 2 black 2 black 2
+black 2 green 3 blue 6 green 2 black 2 red 5
+black 3 green 3 blue 1 green 4 black 2 red 6
+black 4 green 3 black 4
+black 5 red 10
+red 14
+
+columns
+black 5
+black 2 black 2
+black 2 black 2
+black 1 blue 3 black 3 blue 3 black 1
+black 2 blue 2 black 7 blue 2 black 2
+black 2 red 2 black 9 red 2 black 2
+black 2 red 4 black 7 red 4 black 2
+black 2 green 1 blue 1 black 3 blue 1 green 2 black 2
+black 2 green 2 blue 1 blue 2 green 1 black 2
+black 1 green 2 blue 2 blue 1 green 2 black 1
+black 2 green 1 blue 1 blue 2 green 1 black 2
+red 1 black 2 green 1 blue 1 blue 1 green 2 black 1 red 1
+red 1 black 1 green 2 blue 1 blue 2 green 1 black 1 red 1
+red 1 black 2 green 1 blue 1 blue 1 green 2 black 1 red 1
+red 1 black 2 green 1 blue 2 blue 1 green 1 black 2 red 1
+red 2 black 1 green 2 blue 2 blue 2 green 1 black 1 red 2
+red 2 black 2 green 2 blue 1 blue 2 green 2 black 1 red 2
+red 2 black 2 green 1 blue 2 blue 2 green 2 black 2 red 2
+red 2 black 1 green 2 blue 2 blue 2 green 2 black 2 red 2
+red 2 black 2 green 2 blue 2 blue 3 green 2 black 2 red 1 red 2
+red 2 red 1 black 2 green 2 blue 3 red 1 blue 2 green 1 blue 1 green 1 black 2 red 2 red 2
+red 2 red 2 black 2 green 3 blue 3 green 2 blue 2 black 1 red 2 red 2
+red 2 red 2 black 3 green 5 black 2 blue 1 black 1 red 2 red 2
+red 2 red 2 black 9 blue 2 black 1 red 2 red 2
+red 2 red 2 black 4 black 1 blue 1 black 1 red 2 red 2

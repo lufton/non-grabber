@@ -1,0 +1,76 @@
+by "Lynda Fischer (graceblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Lynda Fischer"
+date "Aug 21, 2009"
+description "An open jewelry box, with jewelry pouring out of it."
+difficulty 2.0
+height 30
+id 6549
+link "https://webpbn.com/play.cgi?id=6549"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Containing Chaos"
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 13
+black 2 black 2
+black 2 black 7 black 2
+black 2 black 1 blue 7 black 1 black 2
+black 2 black 1 blue 9 black 1 black 2
+black 2 black 1 blue 9 black 1 black 2
+black 2 black 1 blue 7 black 1 black 2
+black 2 black 7 black 2
+black 2 black 2
+black 13 green 1 black 1 red 1 black 1 red 1 black 5
+black 13 green 1 black 1 red 1 black 1 red 1 black 5
+black 13 green 1 black 1 red 1 black 1 red 1 black 5
+black 1 black 1 green 1 red 1 red 1 black 1 black 1
+black 1 black 1 blue 1 red 1 red 1 black 1 black 1
+black 3 red 1 black 3
+black 16 red 1 black 6
+black 1 black 1 red 1 blue 1 red 1 black 1 black 1
+black 1 black 1 blue 1 red 1 black 1 black 1
+black 3 black 3
+black 23
+black 1 black 1 black 1 black 1
+black 1 black 1 blue 1 black 1 black 1
+black 3 black 3
+black 23
+black 1 black 19 black 1
+black 1 black 19 black 1
+black 23
+black 8 black 8
+black 6 black 6
+black 4 black 4
+
+columns
+black 25
+black 8 black 2 black 2 black 2 black 4
+black 2 black 21
+black 2 black 3 black 1 black 1 black 7
+black 2 black 3 black 1 black 1 black 6
+black 2 black 3 black 1 black 1 black 6
+black 1 black 2 black 3 black 1 black 1 black 5
+black 1 black 1 blue 2 black 1 black 3 black 1 black 1 black 5
+black 1 black 1 blue 4 black 1 black 3 black 1 black 1 black 4
+black 1 black 1 blue 4 black 1 black 3 black 1 black 1 black 4
+black 1 black 1 blue 4 black 1 black 3 black 1 black 1 black 4
+black 1 black 1 blue 4 black 1 black 3 blue 1 black 1 blue 1 black 1 blue 1 black 4
+black 1 black 1 blue 4 black 1 black 3 black 1 black 1 black 4
+black 1 black 1 blue 4 black 1 green 4 black 1 black 1 black 4
+black 1 black 1 blue 4 black 1 black 3 black 1 black 1 black 4
+black 1 black 1 blue 2 black 1 red 5 black 1 red 1 black 1 black 5
+black 1 black 2 black 3 red 2 blue 1 red 1 black 1 black 5
+black 2 red 5 black 1 red 1 black 1 black 6
+black 2 black 3 black 1 black 1 black 6
+black 2 black 3 black 1 black 1 black 7
+black 2 black 21
+black 8 black 2 black 2 black 2 black 4
+black 25

@@ -1,0 +1,31 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Sep 29, 2018"
+description "vol"
+difficulty 1.25
+height 5
+id 31634
+link "https://webpbn.com/play.cgi?id=31634"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "volcano"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 1 red 1 black 1
+red 4
+red 1 red 3
+red 4
+black 1 black 1
+
+columns
+black 1 red 3 black 1
+red 2 red 1
+red 3
+red 4
+black 1 red 1 black 1

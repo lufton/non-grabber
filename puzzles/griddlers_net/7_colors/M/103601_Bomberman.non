@@ -1,0 +1,64 @@
+by "unhygenix"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/5/11"
+height 22
+id 103601
+link "https://www.griddlers.net/nonogram/-/g/103601"
+medium_time "0:07:21"
+points 2361
+popularity 67.91
+title "Bomberman"
+width 18
+
+color a 999900
+color b ffffff
+color c 000000
+color d ff0000
+color e ffcc00
+color f 0000ff
+color g 6699ff
+
+rows
+c 6 c 2
+c 2 b 6 c 1 c 1 d 2 c 1
+c 1 b 9 c 3 d 2 c 1
+c 1 b 10 c 1 c 2
+c 1 d 5 b 6 c 3
+c 1 d 1 e 1 c 1 e 2 d 1 b 5 c 3
+c 1 d 1 e 1 c 1 e 2 d 1 b 5 c 1
+c 1 d 1 e 1 c 1 e 2 d 1 b 5 c 1
+c 1 d 5 b 6 c 1
+c 1 b 3 c 3 b 3 c 1
+c 3 b 3 c 3
+c 1 f 1 g 1 c 1 b 3 c 1 f 1 c 1
+c 1 f 1 g 1 c 1 b 3 c 1 f 1 c 1
+c 1 e 2 c 7
+c 1 f 1 g 1 c 1 d 3 c 1 f 1 c 1
+c 9
+c 1 b 5 c 1
+c 9
+c 4 d 4 c 5
+c 15
+c 13
+c 9
+
+columns
+c 1
+c 5 c 3
+c 2 d 5 c 1 c 4 c 3
+c 1 b 2 d 1 e 3 d 1 b 1 c 1 f 2 e 1 f 1 c 1 c 5
+c 1 b 2 d 1 c 3 d 1 b 1 c 1 g 2 e 1 g 1 c 7
+c 1 b 3 d 1 e 3 d 1 b 1 c 6 b 1 c 1 d 1 c 3
+c 1 b 3 d 1 e 3 d 1 c 1 b 3 c 1 d 1 c 1 b 1 c 1 d 1 c 3
+c 1 b 4 d 3 b 1 c 1 b 3 c 1 d 1 c 1 b 1 c 1 d 1 c 3
+c 1 b 8 c 1 b 3 c 1 d 1 c 1 b 1 c 1 d 1 c 3
+c 1 b 9 c 6 b 1 c 5
+c 1 b 9 c 1 f 2 c 1 f 1 c 7
+c 1 b 8 c 6 c 5
+c 1 b 6 c 1 c 3
+c 7 c 3
+c 2 c 2 c 1
+c 1 d 2 c 3
+c 1 d 2 c 1
+c 2

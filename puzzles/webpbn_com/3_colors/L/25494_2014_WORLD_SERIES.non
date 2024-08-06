@@ -1,0 +1,81 @@
+by "Dan Tomlinson ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Dan Tomlinson"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.5
+height 30
+id 25494
+link "https://webpbn.com/play.cgi?id=25494"
+note "published,may be unique,may require moderate lookahead"
+quality 1.5
+title "2014 WORLD SERIES"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 5
+black 3 black 2
+black 1 black 1
+black 1
+black 1 black 7
+black 2 black 1
+black 6
+black 1 black 2
+black 1 black 1
+black 7
+black 1 black 1
+black 1 black 1 black 1
+black 2 black 1 black 2
+black 6 blue 2 blue 2
+black 1 blue 2 blue 3
+black 1 blue 2 blue 3
+black 1 blue 2 blue 3
+blue 2 blue 2
+blue 4 blue 4
+blue 4 blue 6
+blue 2 blue 2 blue 1 blue 1
+blue 2 blue 2 blue 1
+blue 2 blue 2 blue 1
+blue 2 blue 4
+blue 2 blue 3
+blue 2 blue 3 blue 1
+blue 2 blue 2
+blue 4
+0
+
+columns
+0
+0
+0
+0
+black 5 black 2
+black 2 black 2 black 2
+black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 13
+black 2 black 1 black 1 black 1 black 1
+black 2 black 1 black 2 black 1 black 2
+black 1 black 6
+black 1 black 1
+black 1 black 1
+black 1 black 1 blue 13
+blue 13
+blue 2
+blue 7
+blue 3 blue 4
+blue 3 blue 3
+blue 3 blue 3
+blue 2 blue 8
+blue 2 blue 2
+blue 2 blue 1
+blue 2 blue 1
+blue 2 blue 2
+blue 2 blue 2
+0
+0
+0

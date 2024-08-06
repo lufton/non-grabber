@@ -1,0 +1,62 @@
+by "Angie Heath (bewildering9)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Angie Heath"
+date "Jun 16, 2011"
+description "A RATTLE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+difficulty 1.25
+height 20
+id 14691
+link "https://webpbn.com/play.cgi?id=14691"
+note "published,definitely non-unique,may require moderate lookahead"
+quality 2.5
+title "Baby Toy2"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 blue 1 black 1
+black 5
+black 2 blue 1 green 1 black 3
+black 2 green 1 black 3 green 1 black 2
+black 1 blue 1 black 2 blue 1 black 2 blue 1 black 1
+black 3 green 1 black 2 green 1 black 2
+black 1 blue 1 black 2 blue 1 black 2
+black 2 green 1 black 2
+black 3
+green 1
+green 1
+green 1
+green 1
+green 1
+green 1
+blue 3
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 3
+
+columns
+0
+0
+0
+0
+0
+black 3
+black 2 blue 1 black 2
+black 2 green 1 black 2 blue 1 black 1 blue 3
+black 2 blue 1 black 2 green 1 black 3 blue 1 blue 1
+blue 1 black 1 green 1 black 1 blue 1 black 2 green 1 black 1 green 6 blue 1 blue 1
+black 6 blue 1 black 2 blue 1 blue 1
+black 2 green 1 black 1 green 1 black 2 blue 3
+black 2 blue 1 black 2
+black 3
+0
+0
+0
+0
+0
+0

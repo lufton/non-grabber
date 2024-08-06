@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr 21, 2011"
+description "when an elephant sits on your fence?"
+difficulty 1.5
+height 20
+id 13513
+link "https://webpbn.com/play.cgi?id=13513"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What time is it?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 3 black 2
+blue 1 blue 3 black 4
+blue 15 black 5
+blue 13 black 7
+blue 12 black 8
+blue 3 blue 3 blue 3 black 9
+blue 2 blue 1 blue 2 black 9
+blue 1 blue 1 blue 2 black 9
+blue 1 blue 1 blue 1 black 10
+black 10
+blue 1 black 10
+blue 1 blue 1 blue 1 black 10
+blue 1 blue 1 blue 1 black 10
+blue 1 blue 1 blue 1 black 10
+blue 1 blue 1 blue 1 black 10
+blue 1 blue 1 blue 1 black 10
+black 10
+black 11
+green 1 green 1 black 4 green 1 black 7
+green 1 black 2 green 1 green 1 green 3
+
+columns
+blue 7
+blue 1 blue 7 blue 5 green 2
+blue 4
+blue 3
+blue 4
+blue 7 blue 5 green 1 black 1
+blue 4 black 2
+blue 1 blue 3 black 1
+blue 1 blue 4 black 1
+blue 9 blue 6 black 2 green 1
+blue 7 black 10 green 1
+blue 4 black 13
+blue 2 black 14
+blue 1 black 16 green 1
+blue 1 black 16
+black 17
+black 18
+black 18 green 1
+black 19 green 1
+black 19 green 1

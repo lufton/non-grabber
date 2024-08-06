@@ -1,0 +1,55 @@
+by "Amanda Egeskov Hald (MInimanta)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Amanda Egeskov Hald"
+date "Feb 10, 2009"
+description "An orange (Yeah I know, the orange is red XD, but it's not my fault that there is no orange color XD)"
+difficulty 1.5
+height 17
+id 4982
+link "https://webpbn.com/play.cgi?id=4982"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A fruit # 2"
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 5
+black 2 red 5 black 2
+black 1 red 3 black 1 red 5 black 1
+black 1 red 3 black 1 red 1 black 1 red 5 black 1
+black 1 red 4 black 1 red 6 black 1
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 11 black 1
+black 1 red 11 black 1
+black 1 red 9 black 1
+black 2 red 5 black 2
+black 5
+0
+
+columns
+0
+black 5
+black 2 red 5 black 2
+black 1 red 9 black 1
+black 1 red 11 black 1
+black 1 red 11 black 1
+black 1 red 2 black 1 red 10 black 1
+black 1 red 1 black 1 red 1 black 1 red 9 black 1
+black 1 red 2 black 1 red 10 black 1
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 11 black 1
+black 1 red 11 black 1
+black 1 red 9 black 1
+black 2 red 5 black 2
+black 5
+0

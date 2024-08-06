@@ -1,0 +1,53 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kelly Kriese"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.5
+height 17
+id 25396
+link "https://webpbn.com/play.cgi?id=25396"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.5
+title "October 9th is... (3)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 9 black 1
+black 2 black 1 black 1 black 1 black 2
+black 4 black 1 black 4
+black 7
+black 1 black 1 black 1
+black 7
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 3 red 5 black 3
+black 1 red 1 black 3 red 1 black 1
+black 1 red 3 black 1
+red 3
+red 1
+
+columns
+black 5 black 1
+black 1 black 2 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 8
+black 2 black 1 black 1 red 2
+black 1 black 1 black 1 black 1 red 1 black 1 red 2
+black 6 black 1 red 1 black 1 red 3
+black 1 black 1 black 1 black 1 red 1 black 1 red 2
+black 2 black 1 black 1 red 2
+black 1 black 8
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 2 black 1
+black 5 black 1

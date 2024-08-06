@@ -1,0 +1,33 @@
+by "Robert Kummerfeldt (rmkummerfeldt)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Robert Kummerfeldt"
+date "Nov 30, 2007"
+description "Musical notes from Ben Forgard's puzzle #1899 to demonstrate a unique use of elimination logic"
+difficulty 3.25
+height 11
+id 1915
+link "https://webpbn.com/play.cgi?id=1915"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Noteworthy"
+width 5
+
+rows
+2
+1,1
+1,1
+1,1
+1
+0
+2
+1,1
+1,1
+1,1
+1
+
+columns
+1
+1,3
+3,1,1
+1,1,3
+3

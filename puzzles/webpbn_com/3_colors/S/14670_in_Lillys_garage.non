@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jun 16, 2011"
+description "jumper cables"
+difficulty 1.25
+height 10
+id 14670
+link "https://webpbn.com/play.cgi?id=14670"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "in Lilly's garage"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3 red 3
+red 5 red 3 red 5
+red 3 red 3 red 3 red 3
+0
+black 3 black 3 black 3 black 3
+black 4 black 2 black 2 black 4
+black 3 black 1 black 1 black 3
+black 3
+0
+
+columns
+0
+0
+red 1 red 1 black 1 black 1
+red 3 black 3
+red 3 black 3
+red 1 black 1
+red 1 black 2
+red 2 black 1
+red 1 black 2
+red 2 black 3
+red 1 black 1
+red 2 black 3
+red 1 black 2
+red 2 black 1
+red 1 black 2
+red 1 black 1
+red 3 black 3
+red 3 black 3
+red 1 red 1 black 1 black 1
+0

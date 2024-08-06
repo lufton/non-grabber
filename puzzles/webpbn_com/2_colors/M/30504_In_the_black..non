@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Nov 17, 2017"
+description "Black Tie"
+difficulty 1.75
+height 20
+id 30504
+link "https://webpbn.com/play.cgi?id=30504"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "In the black."
+width 20
+
+rows
+0
+0
+2,5,2
+3,2,2,3
+5,5
+6,6
+3,3
+4,1,4
+6,5
+7,7
+7,7
+6,1,7
+6,6
+5,6
+5,5
+4,1,4
+4,4
+4,4
+3,3
+7
+
+columns
+1,1
+2,3
+2,5
+3,8
+15
+16
+14
+2,10
+2,3
+1,1,1,1,1
+2,3
+2,10
+14
+16
+15
+3,8
+2,6
+2,3
+1,1
+0

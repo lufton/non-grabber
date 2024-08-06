@@ -1,0 +1,66 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 22, 2011"
+description "PBN puzzle"
+difficulty 1.5
+height 15
+id 13555
+link "https://webpbn.com/play.cgi?id=13555"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "P as in"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 30
+red 1 black 28 red 1
+red 1 black 6 red 21 black 1 red 1
+red 1 black 1 black 1 red 1 black 19 red 1 black 1 red 1
+red 1 black 1 black 2 black 1 red 1 black 5 red 13 black 1 red 1 black 1 red 1
+red 1 black 1 black 2 black 1 red 1 black 1 black 1 red 1 black 11 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 black 1 red 1 black 1 black 1 black 1 red 1 black 11 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 black 4 red 1 black 1 black 1 red 1 black 11 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 black 4 red 1 black 1 black 3 red 1 black 11 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 black 4 red 1 black 1 black 3 red 1 black 11 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 black 4 red 1 black 5 red 13 black 1 red 1 black 1 red 1
+red 1 black 6 red 1 black 19 red 1 black 1 red 1
+red 1 black 6 red 21 black 1 red 1
+red 1 black 28 red 1
+red 30
+
+columns
+red 15
+red 1 black 13 red 1
+red 1 black 2 black 3 red 1
+red 1 black 2 black 2 black 7 red 1
+red 1 black 2 black 2 black 7 red 1
+red 1 black 2 black 7 red 1
+red 1 black 13 red 1
+red 1 black 1 red 11 black 1 red 1
+red 1 black 1 red 1 black 9 red 1 black 1 red 1
+red 1 black 1 red 1 black 2 black 2 red 1 black 1 red 1
+red 1 black 1 red 1 black 2 black 1 black 4 red 1 black 1 red 1
+red 1 black 1 red 1 black 2 black 4 red 1 black 1 red 1
+red 1 black 1 red 1 black 9 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 7 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 7 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 9 red 1 black 1 red 1
+red 1 black 1 red 11 black 1 red 1
+red 1 black 13 red 1
+red 15

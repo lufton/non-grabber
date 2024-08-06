@@ -1,0 +1,90 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/16/13"
+height 35
+id 131019
+link "https://www.griddlers.net/nonogram/-/g/131019"
+medium_time "0:20:21"
+points 22721
+popularity 86.79
+title "Duck"
+width 30
+
+color a ffffff
+color b 2d3623
+color c 425c2d
+color d d8b746
+color e 613e2c
+color f 849992
+color g 334e59
+color h a56b43
+
+rows
+b 3 c 2
+b 3 c 5
+b 3 c 7
+b 3 c 2 b 1 c 6
+d 2 b 1 c 9
+d 4 c 9
+d 5 b 1 c 5 b 1 c 2
+d 6 b 2 c 3 b 1 c 3
+d 3 b 3 c 3
+b 2 c 4
+e 4 c 2
+e 7
+e 9
+e 9 f 1 e 1
+e 9 f 1 e 2 f 1
+e 9 f 2 g 1 f 1 g 2 f 1
+e 9 f 1 e 1 f 1 g 2 f 2 g 1 f 1 g 1
+e 10 f 2 g 2 f 2 g 1 f 2 g 1
+e 10 f 1 g 1 f 2 g 5 f 2
+e 9 f 2 g 1 f 1 g 2 f 2 g 1 f 3 c 1
+e 9 f 1 g 2 f 1 g 2 f 2 g 1 f 2 b 1 c 2
+e 3 h 1 e 5 f 1 g 1 f 3 g 1 f 2 c 4 b 1 c 2
+e 2 h 1 e 1 h 1 e 4 f 1 c 2 f 2 c 3 b 2 c 3 b 1 c 1
+e 1 h 2 e 4 h 2 f 1 c 5 b 1 c 3 b 1 c 4
+e 1 h 2 e 2 h 4 f 1 c 1 b 1 c 3 b 3 c 1 b 4 c 1
+e 1 h 1 e 1 h 5 b 1 c 2 b 2 c 4 b 1 c 6
+h 8 b 2 c 3 b 4 c 1 b 3 c 1 b 3
+h 9 b 2 c 3 b 3 c 3 b 5
+h 10 b 3 h 1 e 1 b 4 e 4
+h 15 e 9
+d 1 h 15 e 9
+d 3 h 13 e 1 h 1 e 8
+d 5 h 11 e 1 h 3 e 5
+d 2 h 11 e 1 h 1 e 2
+d 5 h 9
+
+columns
+d 2 e 7
+d 3 e 9
+d 4 e 8 h 2 e 1
+b 1 d 4 e 8 h 1 e 1 h 2 e 1 h 1 d 1
+b 2 d 4 e 10 h 1 e 1 h 4 d 2
+b 4 d 3 e 14 h 4 d 3
+b 3 c 3 b 2 e 14 h 6 d 2 d 1
+b 2 c 5 b 1 e 14 h 8 d 3
+b 1 c 2 b 1 c 4 b 2 e 13 h 10 d 2
+c 8 b 2 e 6 f 1 e 2 f 4 h 11 d 1
+c 8 b 1 c 1 e 5 f 1 e 1 f 3 g 2 c 1 f 1 h 10 d 1
+c 6 b 1 c 3 e 3 f 4 g 3 f 1 c 2 f 1 b 2 h 8
+c 5 b 1 c 4 e 2 f 1 e 1 g 3 f 5 c 3 b 1 h 8
+c 8 e 2 f 1 g 2 f 1 g 2 f 2 c 1 b 1 c 2 b 1 h 7
+c 5 f 1 g 1 f 2 g 4 c 3 b 1 c 1 b 1 h 7
+g 1 f 2 g 1 f 3 c 3 b 1 c 2 b 1 h 6
+f 1 g 3 f 3 c 1 b 1 c 2 b 1 c 1 b 1 h 6
+f 2 g 3 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 h 6
+g 1 f 1 g 1 f 2 c 1 b 1 c 1 b 1 c 1 b 2 h 7
+g 1 f 3 c 3 b 1 c 1 b 2 e 1 h 3 e 1 h 2
+f 2 b 1 c 2 b 1 c 1 b 1 c 1 b 2 e 1 h 1 e 1 h 1 e 1
+c 2 b 1 c 2 b 1 c 1 b 1 c 1 b 1 e 2 h 3
+c 2 b 1 c 1 b 1 c 1 b 1 c 1 b 1 e 3 h 1 e 1
+c 3 b 1 c 1 b 1 c 1 b 1 e 5
+c 1 b 1 c 2 b 1 e 5
+c 2 b 2 e 5
+c 1 b 2 e 5
+b 2 e 5
+b 1 e 3
+e 2

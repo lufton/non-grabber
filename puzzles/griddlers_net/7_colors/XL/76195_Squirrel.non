@@ -1,0 +1,94 @@
+by "demirors"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/17/09"
+height 35
+id 76195
+link "https://www.griddlers.net/nonogram/-/g/76195"
+medium_time "0:36:32"
+points 18548
+popularity 84.64
+title "Squirrel"
+width 35
+
+color a ffffff
+color b 000000
+color c 996600
+color d ff0000
+color e 660000
+color f ff3300
+color g ff9900
+
+rows
+g 1 d 2
+g 3 d 3
+g 4 d 3 g 3
+g 4 d 4 g 3 e 1
+g 3 d 4 g 6 e 2
+g 3 d 3 g 8 e 4
+g 2 d 4 g 8 e 4
+g 2 d 3 g 10 e 3 c 1 e 1
+g 2 d 3 g 10 c 2 e 2 c 3 e 1
+g 1 d 4 g 7 e 1 c 3 e 4 c 2 e 1
+d 3 g 5 f 1 e 1 c 3 e 3 c 3
+g 3 f 3 e 1 c 3 e 1 c 1 b 2 e 1 c 1 e 1
+g 3 f 2 e 2 c 7 b 3 e 1 c 1
+g 2 f 2 e 3 c 6 e 1 c 3 e 4
+g 2 f 2 e 2 c 8 e 2 c 1 e 6
+g 1 f 3 e 2 c 12 e 3 e 1
+f 4 e 3 c 6 c 6 e 5
+f 3 e 3 c 6 c 4
+f 2 e 5 c 6 c 6 f 2
+f 1 e 5 c 6 c 3 f 1 e 1
+f 1 e 5 c 6 c 5 c 4 e 3
+e 6 c 6 c 1 c 2 c 5 e 5
+e 5 c 8 c 2 c 1 e 4
+e 5 c 11 c 2 e 2
+e 6 c 11 c 2
+e 6 c 11 c 2
+e 5 c 11 c 1
+e 5 c 11 c 1
+e 5 c 10 c 2
+e 4 c 10 c 2
+e 2 c 9 c 2
+e 2 c 6 c 3
+e 2 c 3 e 1 c 1 e 4
+e 9 e 1
+e 7 e 2
+
+columns
+g 5
+g 7
+g 4 d 5
+g 2 d 7
+g 3 d 7 e 4
+g 2 d 4 g 2 d 1 f 3 e 7
+g 2 d 3 g 4 f 3 e 10
+d 4 g 6 g 1 f 2 e 12
+d 4 g 11 f 3 e 12
+d 1 g 13 f 2 e 5 c 2 e 7
+g 11 f 3 e 6 c 6 e 3
+g 9 f 4 e 4 c 11 e 1
+g 7 f 2 e 4 c 13 e 2
+g 5 f 2 e 3 c 15 e 2
+g 2 e 5 c 17 e 2
+c 18 e 2
+c 18 e 2
+c 6 c 9 e 3
+c 5 c 11 e 2
+c 5 c 10 e 3
+c 6 c 1 c 6 c 1 e 3
+c 8 c 2 c 1 e 2
+c 9 c 4 c 2 e 1
+e 3 c 2 e 2 c 5 c 1 c 2 c 2 e 2
+e 8 c 2 e 1 c 4 c 2 c 2 c 2 e 1
+e 7 c 2 e 1 c 3 c 1 c 4
+e 2 c 2 e 1 c 1 e 1 c 3 c 1
+e 1 c 1 e 1 b 2 c 2 e 2 c 2 c 1
+c 2 b 2 e 3 c 1 c 2
+e 1 c 2 b 1 e 3 c 1 c 1
+e 1 c 1 e 1 e 2 e 1 c 3 e 1
+c 2 e 3 e 1 c 3 e 2
+e 1 c 1 e 3 c 2 e 4
+e 2 f 2 e 4
+f 1 e 4

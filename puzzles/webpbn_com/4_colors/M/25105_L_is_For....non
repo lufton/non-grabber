@@ -1,0 +1,62 @@
+by "Bryan (Cyclone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bryan"
+date "Jul 26, 2014"
+description "Sorry guys, the puzzle interest hasn't been biting me as much lately! Haven't had the best setup here for solving puzzles! But I thought I should come back and do more of this series!"
+difficulty 2.0
+height 20
+id 25105
+link "https://webpbn.com/play.cgi?id=25105"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "L is For..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 2 black 7 red 2
+red 1 black 2 red 5 black 2 red 1
+black 2 red 7 black 2
+black 2 red 2 black 5 red 2 black 2
+black 1 red 2 black 2 black 2 red 2 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+red 2 black 1 red 1 black 2 black 2 red 1 black 1 red 2
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 2 black 2 red 2 black 1
+black 2 red 2 black 1 black 1 red 2 black 2
+black 2 red 1 black 2 black 2 red 1 black 2
+green 1 black 1 red 2 black 1 black 1 red 2 black 1
+green 1 red 1 black 2 red 1 black 1 black 1 red 1 black 2 red 1
+green 1 red 2 black 7 red 2
+green 1 black 1 green 3 black 1
+green 1 black 1 green 3 black 1
+green 1 black 1 green 1 green 1 black 1
+green 1 black 1 green 3 black 1
+green 1 black 1 green 3 black 1
+green 5 black 1 green 1 black 1
+
+columns
+green 9
+red 1 green 1
+red 1 red 1 green 1
+red 2 red 1 green 1
+black 7 red 2 green 1
+black 2 red 5 black 2
+black 2 red 2 black 2 red 3 black 3
+black 2 red 2 black 1 black 3 red 3 black 8
+black 1 red 2 black 2 black 3 red 2 black 1 green 1 green 2
+black 1 red 2 black 1 black 4 green 1 green 1
+black 1 red 2 black 1 black 1 green 2 green 2
+black 1 red 2 black 1 black 4 green 1 green 1
+black 1 red 2 black 2 black 3 red 2 black 1 green 2 green 2
+black 2 red 2 black 1 black 3 red 3 black 8
+black 2 red 2 black 2 red 3 black 3
+black 2 red 5 black 2
+black 7 red 2
+red 2 red 1
+red 1 red 1
+red 1

@@ -1,0 +1,38 @@
+by "Aurelian Ginkgo (AurelianGinkgo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Aurelian Ginkgo"
+date "Apr 23, 2017"
+description "... for all of your ice-picking needs. It's an ice pick. The white lines are to make it look like ice in the background."
+difficulty 1.25
+height 8
+id 29717
+link "https://webpbn.com/play.cgi?id=29717"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "You should totally pick me"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4 blue 3
+blue 1 blue 1 black 4 blue 1
+blue 2 blue 1 red 1 black 2 blue 1
+blue 2 red 3 black 2
+blue 1 red 3 blue 1 black 2
+blue 1 red 3 blue 1 blue 1 black 1
+red 3 blue 1 blue 1 black 1
+red 2 blue 1 blue 2 blue 1
+
+columns
+blue 2 blue 2 red 2
+black 1 blue 2 red 3
+black 1 blue 1 blue 1 red 3 blue 1
+black 2 blue 1 red 3
+black 2 red 3 blue 3
+blue 1 black 2 red 1 blue 1 blue 1
+blue 1 black 4 blue 2
+blue 3 black 4 blue 1

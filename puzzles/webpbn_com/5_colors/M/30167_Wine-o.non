@@ -1,0 +1,63 @@
+by "Ashley Whitley (aWhit2016)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Ashley Whitley"
+date "Nov  1, 2017"
+description "Green and " purple" grapes with a glass of wine"
+difficulty 2.0
+height 20
+id 30167
+link "https://webpbn.com/play.cgi?id=30167"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 3.0
+title "Wine-o"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 7
+black 1 black 1
+black 3 black 3
+black 1 black 6 black 1
+black 1 black 1
+black 1 red 9 black 1
+black 1 black 1 red 9 black 1 black 1
+black 1 black 1 red 9 black 1 black 1
+black 1 black 1 red 9 black 1 black 1
+green 4 black 1 red 7 black 1 black 1
+green 6 black 1 red 5 black 1 blue 3
+green 7 black 5 blue 6
+green 7 black 1 blue 6
+green 7 black 1 blue 7
+green 6 black 1 blue 6
+green 5 black 1 blue 6
+green 3 black 3 blue 4
+green 1 black 7 blue 3
+blue 1
+
+columns
+green 4
+black 1 green 7
+black 2 green 7
+green 8
+green 9
+black 7 green 7
+black 2 red 4 black 1 green 4
+black 1 black 2 red 5 black 1 black 1
+black 1 black 1 red 6 black 1 black 1
+black 1 black 1 red 6 black 1 black 2
+black 1 black 1 red 6 black 7
+black 1 black 1 red 6 black 1 black 2
+black 1 black 1 red 6 black 1 black 1
+black 1 black 1 red 5 black 1 blue 3 black 1
+black 2 red 4 black 1 blue 6
+black 7 blue 7
+blue 9
+black 2 blue 8
+black 1 blue 6
+black 1 blue 3

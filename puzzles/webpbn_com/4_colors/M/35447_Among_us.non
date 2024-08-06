@@ -1,0 +1,62 @@
+by "Gus nelson (Supergus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Gus nelson"
+date "Nov 26, 2021"
+description "AMOGUS"
+difficulty 1.25
+height 20
+id 35447
+link "https://webpbn.com/play.cgi?id=35447"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Among us"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 8
+black 1 red 8 black 1
+black 1 red 5 blue 5 black 1
+black 1 red 4 blue 7 black 1
+black 1 red 5 blue 7 black 1
+black 3 red 5 blue 7 black 1
+black 1 red 1 black 1 red 5 blue 7 black 1
+black 1 red 1 black 1 red 6 blue 5 black 1
+black 1 red 1 black 1 red 10 black 1
+black 1 red 1 black 1 red 10 black 1
+black 1 red 1 black 1 red 10 black 1
+black 1 red 1 black 1 red 10 black 1
+black 3 red 10 black 1
+black 1 red 4 black 2 red 4 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 3 black 3
+
+columns
+0
+0
+black 8
+black 1 red 6 black 1
+black 13
+black 2 red 13 black 1
+black 1 red 15 black 1
+black 1 red 16 black 1
+black 1 red 13 black 3
+black 1 red 12 black 1
+black 1 red 2 blue 4 red 6 black 1
+black 1 red 1 blue 6 red 6 black 3
+black 1 red 1 blue 6 red 9 black 1
+black 1 red 1 blue 6 red 9 black 1
+black 1 red 1 blue 6 red 9 black 1
+black 1 blue 6 black 9
+black 1 blue 4 black 1
+black 4
+0
+0

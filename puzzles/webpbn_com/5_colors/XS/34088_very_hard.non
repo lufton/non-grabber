@@ -1,0 +1,38 @@
+by "Nejat Polat (npolat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Nejat Polat"
+date "May 15, 2020"
+description "glitter"
+difficulty 1.75
+height 8
+id 34088
+link "https://webpbn.com/play.cgi?id=34088"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "very hard!"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 2
+black 1 black 1 red 1
+black 1 blue 1 black 1 green 1
+green 1 red 1 black 1
+black 1 blue 1 green 1 red 1
+black 1 red 1 blue 1 red 1 green 1
+black 1
+black 1 red 1 red 2 black 1
+
+columns
+black 2 green 1 black 2
+red 1
+black 1 blue 1 black 2
+green 1 red 1 blue 1 red 1 red 1
+green 1 black 3 blue 1 red 1
+red 1 green 1 green 1 red 1 black 1
+red 1 green 1

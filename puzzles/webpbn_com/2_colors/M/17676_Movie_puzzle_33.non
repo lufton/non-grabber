@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Feb 25, 2012"
+description "This is a rebus. The right half includes the vertical. Winner receives ABSOLUTELY NOTHING!!!"
+difficulty 2.5
+height 20
+id 17676
+link "https://webpbn.com/play.cgi?id=17676"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Movie puzzle #33?"
+width 20
+
+rows
+1,1,1,1,1,2,2
+1,2,1,1,1,1,1,3
+1,5,1,1,1,2,1
+2,1,1,1,2,1
+1,1,1,1,2,1,1,1
+1,1,1,1,3,1
+2,3,1,1,1,3,1
+1,1,1,1,3,1
+5,1,1,3,1
+2,2,1,1,3,1
+1,1,1,1,3,1
+2,1,2,1,1,3,1
+1,1,1,1,3,1
+2,1,1,1,1,3,1
+1,1,1,1,1,3,1
+1,1,1,1,1
+1,1,1,1,2,1
+1,1,1,1,2,1
+2,2,3,3
+1,1,1,2,2
+
+columns
+1,1,2
+1,2,1,3
+1,4,3,5
+3,3,2
+1,1,1,1
+3,1,1,1,1,1
+1,1,1,1
+2,3,2
+1,4,3,4
+2,1,4
+1
+19
+1,2
+19
+0
+1,10,1
+2,10,2
+2,10,2
+2,2
+20

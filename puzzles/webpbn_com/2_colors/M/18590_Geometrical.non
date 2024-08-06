@@ -1,0 +1,57 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kai-Uwe Zickerick"
+date "May 10, 2012"
+description ""
+difficulty 1.75
+height 20
+id 18590
+link "https://webpbn.com/play.cgi?id=18590"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Geometrical"
+width 20
+
+rows
+6,6
+2,3,1,1
+2,2,2,1,1
+2,2,8
+2,2,3,2
+13,2
+10,2
+6,4,2
+2,3,3,2
+2,3,3,2
+2,3,3,2
+2,3,3,3
+2,4,4,2,1
+2,8,2,1
+2,6,2,1
+2,2,2,1
+2,2,1
+2,2,1
+4,1
+12
+
+columns
+1,1
+2,3
+3,2,2
+2,1,2,2
+2,3,2,2
+2,8,2
+1,10,2
+1,6,4,2
+1,2,3,3,3
+3,3,3,2
+2,3,3,2
+2,4,3,3
+2,4,4,2,1
+2,8,2,1
+6,6,2,1
+1,1,2,2,2,1
+1,1,2,2,1
+1,1,2,2,1
+1,1,4,1
+4,11

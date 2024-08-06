@@ -1,0 +1,102 @@
+by "Nancy Snyder (naneki)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Nancy Snyder"
+date "Oct 27, 2007"
+description "Dudley Do-Right, a member of the Royal Canadian Mounties shaped his career around keeping an entire country safe from evil men with sawmills."
+difficulty 3.5
+height 35
+id 1683
+link "https://webpbn.com/play.cgi?id=1683"
+note "published,definitely unique,may require some guessing"
+quality 4.0
+title "#25 - always trying to catch his nemesis"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 12 black 2 black 2 green 23
+green 11 black 1 red 2 black 2 red 2 black 1 green 7 green 8
+green 10 black 1 red 4 black 1 red 3 black 1 green 4 green 7
+green 9 black 1 red 9 black 1 black 6 green 7
+green 8 black 2 red 8 black 3 black 3 red 5 black 1 green 7
+green 8 black 1 red 7 black 9 red 7 black 1 green 7
+green 8 black 1 red 5 black 8 red 9 black 1 green 8
+green 8 black 1 red 1 black 9 red 4 black 3 red 3 black 2 green 9
+green 8 black 8 red 4 black 3 black 4 green 10
+green 8 black 5 red 4 black 3 black 4 green 11
+green 7 black 2 red 5 black 3 black 3 black 2 green 10
+green 6 black 2 red 4 black 2 black 1 black 2 black 2 black 6 green 9
+green 4 black 2 red 4 black 2 black 1 black 1 black 2 black 1 black 2 green 8
+green 3 black 1 red 4 black 2 black 1 black 1 black 4 black 2 green 7
+green 2 black 2 red 4 black 1 black 2 black 1 black 2 black 2 green 6
+green 1 black 1 red 5 black 1 black 1 black 4 black 1 green 6
+black 1 red 4 black 3 black 4 black 1 black 11 green 6
+black 1 red 2 black 3 black 2 black 2 black 4 black 1 green 2
+black 3 black 4 black 1 black 1 green 1
+green 2 black 1 black 9 black 2 black 6 green 1
+green 1 green 6 black 2 black 1 black 2 black 1 black 5 black 2 green 1
+green 12 black 5 black 8 black 1 black 2 black 1 green 1
+green 12 black 1 black 6 black 2 black 2 black 1 green 1
+green 12 black 1 black 3 black 3 green 1
+green 12 black 1 black 2 green 1
+green 12 black 2 black 2 green 1
+green 12 black 2 black 9 black 2 green 2
+green 13 black 9 red 5 black 1 black 7 green 4
+green 14 black 1 red 3 black 3 red 1 black 1 green 4
+green 16 black 1 red 3 black 1 black 1 red 1 black 9 green 3
+green 15 black 1 red 3 black 2 red 2 black 1 black 1 black 1 green 3
+green 15 black 7 red 5 black 3 black 6 green 3
+green 15 black 1 black 7 red 1 black 1 black 2 red 3 black 1 green 2
+green 15 black 6 red 8 black 1 black 3 red 4 black 1 green 2
+green 16 black 1 red 11 black 1 black 1 red 1 black 1 red 5 black 1 green 1
+
+columns
+green 16 green 15
+green 15 black 2 green 14
+green 14 black 1 red 1 black 1 green 14
+green 13 black 1 red 2 black 1 green 14
+green 12 black 1 red 2 black 1 green 15
+green 12 black 1 red 2 black 1 green 15
+green 11 black 1 red 3 black 1 green 15
+green 10 black 1 red 3 black 1 green 16
+green 4 black 1 red 3 black 1 green 16
+green 3 black 1 red 3 black 3 green 15
+green 2 black 7 red 2 black 1 black 2 green 14
+green 1 black 1 red 3 black 3 red 2 black 1 black 1 green 14
+black 3 red 2 black 3 red 3 black 1 black 1 green 8
+black 1 red 5 black 3 red 2 black 1 black 4 green 7
+black 1 red 6 black 3 red 2 black 1 black 2 black 6 green 6
+black 1 red 6 black 2 red 2 black 1 black 1 black 1 black 2 green 1 green 1
+black 1 red 4 black 3 red 2 black 1 black 1 black 1 black 2
+black 2 red 3 black 3 red 1 black 1 black 2 black 1 black 1 black 3
+black 1 red 4 black 3 red 2 black 1 black 1 black 2 black 1 black 1 black 2
+black 1 red 4 black 3 red 1 black 6 black 1 black 1 black 1 black 1 red 1
+black 1 red 3 black 3 red 1 black 1 black 4 black 1 black 1 black 1 red 1
+black 1 red 1 black 3 red 2 black 1 black 1 black 1 black 1 red 1
+green 1 black 4 red 1 black 1 black 5 black 1 black 1 black 1 red 1
+green 2 black 3 red 1 black 1 black 2 black 1 black 1 black 6 red 2
+green 3 black 1 red 2 black 1 black 1 black 1 black 3 black 2 red 4 black 1 red 2
+green 3 black 1 red 1 black 1 black 4 black 2 black 3 black 1 red 5 black 1 red 2
+green 3 black 1 red 1 black 1 black 1 black 4 black 1 black 1 black 2 black 1 red 5 black 1 red 2
+green 3 black 1 red 2 black 3 black 1 black 1 black 1 black 2 black 1 red 1 black 3 red 1 black 1 red 2
+green 2 black 1 red 3 black 4 black 1 black 1 black 1 black 3 black 1 red 1 black 1 black 1 red 1 black 1 red 2
+green 2 black 1 red 3 black 1 black 4 black 1 black 1 black 3 black 1 red 1 black 2 red 1 black 2 red 2
+green 1 black 1 red 4 black 1 black 1 black 1 black 5 black 2 red 3 black 1 red 2 black 1
+green 1 black 1 red 3 black 1 black 1 black 4 black 2 black 1 black 6
+green 1 black 1 red 3 black 1 black 1 black 1 black 2 black 2 black 1
+green 1 black 1 red 2 black 1 black 2 black 1 black 2 black 1 black 1 black 2
+green 1 black 1 red 1 black 1 green 1 black 2 black 1 black 4 black 1 black 5 red 1
+green 1 black 2 green 3 black 2 black 1 black 1 black 1 black 1 black 1 black 4
+green 1 green 5 black 3 black 2 black 1 black 1 black 1 red 3
+green 2 green 7 black 1 black 1 black 1 black 1 red 3
+green 14 black 1 black 1 black 2 black 1 black 1 red 3
+green 17 black 1 black 2 black 2 black 4 red 2
+green 17 black 1 black 4 black 1 red 1
+green 17 black 2 black 2 green 2 black 1
+green 17 black 4 green 5
+green 18 green 8
+green 35

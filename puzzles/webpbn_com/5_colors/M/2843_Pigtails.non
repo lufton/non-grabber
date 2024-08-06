@@ -1,0 +1,67 @@
+by "Aeribela (aeribela)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Aeribela"
+date "May 23, 2008"
+description "A little girl with pigtails"
+difficulty 1.75
+height 21
+id 2843
+link "https://webpbn.com/play.cgi?id=2843"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Pigtails"
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 6
+black 8
+black 10
+black 3 black 1 black 1 black 4
+black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 1 blue 1 black 1 blue 1 black 2
+black 2 black 1 black 2
+black 2 black 2 black 2
+black 1 black 1
+black 1 black 1 black 2 black 2
+black 3 black 2 black 4
+black 5 black 2 black 3 black 1
+black 3 black 1 black 1 black 2 red 1 black 2
+black 1 black 3 green 1 black 2 green 1 black 2
+black 2 red 1 black 2 green 10
+black 2 green 14
+green 6 black 3 green 5
+green 3 black 1 green 4 black 1 green 3 black 1 green 3
+green 3 black 1 green 4 black 1 green 3 black 1 green 3
+green 3 black 1 green 4 black 1 green 3 black 1 green 3
+
+columns
+black 1
+black 2
+red 1 black 1
+black 3
+black 3 green 3
+black 3 green 5
+black 6 black 3 green 5
+black 11 green 3 black 3
+black 3 black 2 green 6
+black 3 black 2 black 1 green 6
+black 4 black 1 blue 1 black 1 black 1 green 7
+black 3 black 1 black 1 black 1 green 2 black 1 green 3
+black 4 black 2 black 1 black 1 green 2 black 4
+black 3 black 2 black 1 black 1 green 3 black 1 green 3
+black 4 black 1 blue 1 black 1 black 1 green 6
+black 3 black 2 green 6
+black 10 green 3 black 3
+black 6 black 3 green 5
+black 3 green 5
+black 3 green 3
+red 1 black 1
+black 2
+black 1

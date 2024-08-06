@@ -1,0 +1,103 @@
+by "Claudia (clau_bolson)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Claudia"
+date "Mar 30, 2011"
+description "In 1976 I had to decide on a career. I wanted computer science but "there is no field, how many computers are there in this country?", so I studied civil engeneering. Of course I never made a house, and I began to work with computers as soon as I could. If I had been told to study computer science, I would have had a much better career."
+difficulty 2.25
+height 40
+id 13088
+link "https://webpbn.com/play.cgi?id=13088"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP#81 - I wish I knew"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 17 red 1 black 2
+black 1 black 1 red 2 black 2
+black 1 black 4 black 4 black 1 red 3 black 2
+black 1 black 2 black 2 black 2 black 2 black 1 red 4 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 red 11 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 red 12 black 2
+black 1 black 2 black 2 black 2 black 2 black 1 red 11 black 2
+black 1 black 4 black 4 black 1 red 4 black 2
+black 1 black 1 red 3 black 2
+black 17 red 2 black 2
+black 17 red 1 black 2
+black 2 black 2 black 2
+black 2 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 black 2 black 2 black 7
+black 2 black 2 black 2 black 7
+black 2 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 2 black 2 black 1 black 1 black 1
+black 2 black 2 black 2 black 1 black 1 black 1
+black 2 black 2 black 2 black 1 black 1 black 1
+black 2 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 black 2 black 2 black 14
+black 2 black 2 black 2 black 14
+black 2 black 2 black 2 black 1 black 1 black 2 black 1 black 1
+black 16 black 2 black 1 black 1 black 2 black 1 black 1
+black 15 black 2 black 1 black 1 black 2 black 1 black 1
+black 2 black 2 black 2 black 23
+black 2 black 2 black 2 black 2 black 21
+black 2 black 2 black 1 black 2 black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 2 black 2 black 2 black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 2 black 2 black 2 black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 2 black 2 black 2 black 21
+black 2 black 2 black 2 black 21
+black 2 black 2 black 2 black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 2 black 2 black 2 black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 2 black 1 black 2 black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 2 black 2 black 21
+black 2 black 2 black 21
+black 2 black 2 red 1 red 1 red 4 red 1 black 2 black 4 black 4 black 2
+black 1 black 2 red 2 red 1 red 1 red 1 red 1 black 2 black 4 black 4 black 2
+black 2 red 1 red 2 red 1 red 1 red 1 black 2 black 4 black 4 black 2
+black 2 red 1 red 1 red 1 red 1 black 2 black 4 black 4 black 2
+black 2 red 1 red 1 red 4 red 1 black 2 black 4 black 4 black 2
+
+columns
+black 1
+black 36 black 2
+black 1 black 26 black 2
+black 1 black 4 black 2 red 1 red 1 green 1 black 2 black 2
+black 1 black 2 black 2 black 2 green 1 blue 1 blue 1 black 2 black 2
+black 1 black 1 black 1 black 2 red 1 red 1 green 1 black 12 black 2
+black 1 black 1 black 1 black 2 green 1 blue 1 blue 1 black 11 black 2 red 5
+black 1 black 2 black 2 black 2 red 1 red 1 green 1 black 2 black 2 red 1
+black 1 black 4 black 2 green 1 blue 1 blue 1 black 2 black 2 red 1
+black 1 black 2 red 1 red 1 green 1 black 2 black 2 red 5
+black 1 black 4 black 2 green 1 blue 1 blue 1 black 2 black 2
+black 1 black 2 black 2 black 2 red 1 red 1 green 1 black 2 black 2 red 5
+black 1 black 1 black 1 black 2 green 1 blue 1 blue 1 black 5 black 2 red 1 red 1
+black 1 black 1 black 1 black 2 red 1 red 1 green 1 black 4 black 2 red 1 red 1
+black 1 black 2 black 2 black 2 green 1 blue 1 blue 1 black 2 black 2 red 5
+black 1 black 4 black 2 red 1 red 1 green 1 black 2 black 2
+black 1 black 12 black 2 red 3 red 1
+black 20 black 2
+black 19
+red 1 black 2 black 2 black 2 black 7
+red 3 black 2 black 2 black 2 black 2
+red 5 black 2 black 12
+red 7 black 2 black 2 black 2 black 2
+red 9 black 2 black 2 black 2 black 7
+red 11 black 2 black 17
+red 3 black 2 black 22
+red 3 black 2 black 2 black 2 black 2 black 7
+red 3 black 2 black 2 black 2 black 2 black 2
+red 3 black 2 black 17
+red 3 black 2 black 2 black 2 black 2 black 2
+red 3 black 2 black 2 black 2 black 2 black 7
+black 2 black 22
+black 2 black 27
+black 2 black 2 black 2 black 2 black 2 black 7
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 22
+black 2 black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2 black 7
+black 2 black 27
+black 2

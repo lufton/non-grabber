@@ -1,0 +1,32 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 20, 2011"
+description "it's a dragonfly which isn't an animal. does it count?"
+difficulty 1.0
+height 6
+id 12890
+link "https://webpbn.com/play.cgi?id=12890"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Brian's animal challenge 3"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+blue 2 black 1 blue 2
+black 1
+blue 5
+black 1
+black 1
+
+columns
+blue 1 blue 1
+blue 1 blue 1
+black 3 blue 1 black 2
+blue 1 blue 1
+blue 1 blue 1

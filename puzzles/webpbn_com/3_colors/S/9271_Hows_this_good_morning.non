@@ -1,0 +1,43 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 18, 2010"
+description ""
+difficulty 1.25
+height 10
+id 9271
+link "https://webpbn.com/play.cgi?id=9271"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "How's this good morning?"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 1 red 2 red 2 black 1
+black 3 red 3 red 3 black 1
+black 1 black 1 black 1
+black 1 black 1 red 1 black 1
+black 1 black 1 red 2 black 1
+black 3 red 2 red 2 black 1
+black 1 red 6 black 1
+black 1 black 1
+black 10
+
+columns
+black 5
+black 1 black 1
+black 10
+red 1 red 1 black 1
+red 2 red 2 black 1
+red 2 red 1 red 1 black 1
+red 2 red 1 black 1
+red 2 red 1 black 1
+red 2 red 1 black 1
+red 1 red 2 black 1
+red 1 black 1
+black 10

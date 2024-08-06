@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Oct 10, 2018"
+description "Working against the clock"
+difficulty 3.25
+height 20
+id 31666
+link "https://webpbn.com/play.cgi?id=31666"
+note "published,definitely unique,may require deep lookahead"
+quality 3.25
+title "American Idiom 2"
+width 25
+
+rows
+0
+3
+2
+1
+1,5
+3,3,3
+2,2,2
+1,2,2
+2,1,1,1
+2,2,2,2
+1,2,2,1
+7,6,1
+3,1,1
+4,2,2
+3,1,4
+3,2,3
+1,2,2,3
+1,2,3,3
+1,1,6
+2,2,1
+
+columns
+0
+7
+4,1
+6
+6,2
+2,1,3
+1,1
+3,1
+2,2
+1,5
+1,3,3
+3,2,1,2
+2,2,1,2
+1,1,1,1
+2,1,2
+1,1,1
+1,2,1
+1,2,1
+2,2,3
+1,3
+2,3
+2,3
+3,3
+6
+1

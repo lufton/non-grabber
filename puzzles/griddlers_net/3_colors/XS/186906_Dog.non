@@ -1,0 +1,35 @@
+by "koompalade"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/25/17"
+height 5
+id 186906
+link "https://www.griddlers.net/nonogram/-/g/186906"
+medium_time "0:00:46"
+points 36
+popularity 68.47
+title "Dog"
+width 10
+
+color a ffffff
+color b 000000
+color c 663300
+
+rows
+b 1 c 1
+c 5 b 1 c 1 b 1
+c 7
+c 1 c 1 c 1
+c 2 c 2
+
+columns
+c 1
+c 1
+c 4
+c 2 c 1
+c 2
+c 2
+c 2
+b 2 c 3
+c 2 c 1
+b 1

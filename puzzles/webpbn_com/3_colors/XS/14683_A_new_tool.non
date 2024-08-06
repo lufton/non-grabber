@@ -1,0 +1,37 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 16, 2011"
+description "Scissors."
+difficulty 1.25
+height 9
+id 14683
+link "https://webpbn.com/play.cgi?id=14683"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "A new tool"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 1 black 1
+red 1 black 1 red 1
+red 3 red 3
+red 1 red 1 red 1 red 1
+red 3 red 3
+
+columns
+red 3
+red 1 red 1
+black 5 red 4
+red 1 black 1
+black 5 red 4
+red 1 red 1
+red 3

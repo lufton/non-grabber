@@ -1,0 +1,31 @@
+by "argos"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/19/08"
+height 5
+id 60098
+link "https://www.griddlers.net/nonogram/-/g/60098"
+medium_time "0:00:15"
+points 1
+popularity 57.74
+title "Mouse"
+width 5
+
+color a 969696
+color b 000000
+color c ffffff
+color d ff0000
+
+rows
+c 1
+b 1 b 1
+d 1
+c 1 c 1
+b 1 b 1
+
+columns
+c 1
+b 1 b 1
+c 1 d 1
+b 1 b 1
+c 1

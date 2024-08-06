@@ -1,0 +1,60 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/25/20"
+height 18
+id 206701
+link "https://www.griddlers.net/nonogram/-/g/206701"
+medium_time "0:05:33"
+points 1953
+popularity 70.24
+title "King Louie"
+width 17
+
+color a ffffff
+color b 000000
+color c cc6600
+color d cc66ff
+color e 9900cc
+color f ffdbb7
+color g cc9900
+color h ff6699
+
+rows
+c 2 d 5 c 2
+c 2 d 7 c 2
+c 1 d 9 c 1
+c 1 d 9 c 1
+d 2 c 1 d 2 b 2 d 1 b 2 d 2 c 1 d 2
+d 2 c 1 d 1 b 1 d 3 b 1 d 1 c 1 d 2
+d 1 c 2 d 1 d 1 d 1 c 2 d 1
+c 4 d 1 b 1 d 1 b 1 d 1 c 4
+c 3 e 1 d 1 e 3 d 1 e 1 c 3
+c 3 e 1 d 2 e 1 d 3 e 1 d 2 e 1 c 3
+c 2 f 1 e 2 d 1 b 1 e 1 b 1 d 1 e 2 f 1 c 2
+c 2 f 1 g 1 f 2 e 2 f 1 e 2 f 2 g 1 f 1 c 2
+f 1 g 1 f 11 g 1 f 1
+f 1 g 1 f 3 g 5 f 3 g 1 f 1
+f 2 g 3 h 5 g 3 f 2
+f 4 h 5 f 4
+f 4 h 3 f 4
+f 5
+
+columns
+c 1 c 1 c 1
+d 3 c 5 f 3
+d 2 c 5 f 1 g 2 f 2
+c 8 e 1 f 1 g 1 f 2 g 1 f 2
+c 2 d 6 e 1 d 1 e 1 f 3 g 1 f 2
+c 1 d 4 b 1 d 2 e 1 f 3 g 1 f 2
+d 4 b 1 b 1 e 1 d 1 e 1 f 1 g 1 h 2 f 2
+d 4 b 1 d 1 e 1 d 1 b 1 e 1 f 1 g 1 h 3 f 1
+d 8 e 1 d 1 e 1 f 2 g 1 h 3 f 1
+d 4 b 1 d 1 e 1 d 1 b 1 e 1 f 1 g 1 h 3 f 1
+d 4 b 1 b 1 e 1 d 1 e 1 f 1 g 1 h 2 f 2
+c 1 d 4 b 1 d 2 e 1 f 3 g 1 f 2
+c 2 d 6 e 1 d 1 e 1 f 3 g 1 f 2
+c 8 e 1 f 1 g 1 f 2 g 1 f 2
+d 2 c 5 f 1 g 2 f 2
+d 3 c 5 f 3
+c 1 c 1 c 1

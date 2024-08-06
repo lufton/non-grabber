@@ -1,0 +1,85 @@
+by "hadarkot"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/05"
+height 30
+id 26494
+link "https://www.griddlers.net/nonogram/-/g/26494"
+medium_time "0:19:26"
+points 6854
+popularity 68.12
+title "Bunnies"
+width 30
+
+color a ffffff
+color b 000000
+color c 969696
+color d ff0066
+color e ffcc99
+color f ff9966
+color g ff9999
+color h ffcccc
+
+rows
+h 1 g 1
+g 1 h 2 g 1 g 1
+h 3 g 2 g 2
+h 4 g 1 g 4 g 2
+h 4 g 1 g 6 g 2 h 1
+h 4 g 1 g 8 g 2 h 2
+h 4 g 2 g 9 g 1 h 3
+g 1 h 3 g 2 f 2 g 3 g 4 g 1 h 4
+f 1 h 3 f 5 g 1 g 1 e 3 g 2 h 4
+f 2 g 1 f 7 e 4 g 2 h 3 g 1
+f 11 e 7 h 2 g 1
+f 11 e 8 g 1 e 1
+f 11 e 11
+f 11 e 11
+f 5 c 1 b 1 f 4 e 11
+f 10 e 4 b 1 c 1 e 5
+f 7 g 1 f 2 e 1 g 1 e 8
+f 6 h 1 g 1 h 1 g 1 e 6
+f 7 e 5
+f 4 g 2 d 3 d 3 e 4
+f 6 h 2 d 6 h 1 e 5
+f 8 h 3 d 4 h 3 e 5
+f 8 h 3 d 4 h 3 e 6
+c 2 f 8 h 3 d 4 h 2 e 8
+c 3 f 9 g 1 d 6 g 1 e 8 c 1
+c 3 f 9 g 2 d 4 g 2 e 8 c 2
+c 3 f 9 g 2 d 2 g 2 e 8 c 2
+c 3 f 8 h 4 h 1 g 2 e 7 c 3
+c 2 f 7 h 4 h 1 g 1 h 1 e 7 c 2
+f 5 h 2 h 1 e 6
+
+columns
+c 3
+c 5
+c 6
+f 6 c 2
+f 7
+f 5 f 9
+g 1 h 5 g 1 f 9 f 11
+h 9 f 21
+g 1 h 8 g 1 f 20
+g 2 h 6 f 21
+g 6 f 6 c 1 f 4 g 1 f 10
+g 2 f 6 b 1 f 4 g 1 h 4 f 6
+f 12 d 1 h 4 g 3 h 3
+g 2 f 9 g 1 h 1 d 2 h 3 d 1 g 2 h 3
+g 4 f 9 g 1 d 7 h 2
+g 6 f 8 d 7 h 2
+g 6 e 5 d 8
+g 6 e 6 g 1 h 1 d 7 h 2
+g 6 e 8 g 1 d 2 h 3 d 1 g 4
+g 4 e 11 h 4 g 4 h 2
+g 3 e 7 b 1 e 5 h 2 e 7
+g 2 e 7 c 1 e 14
+g 2 e 20
+g 3 e 20
+g 2 h 4 e 7 e 10
+g 2 h 5 g 1 e 5 e 9
+g 2 h 5 g 1 e 5 e 7
+g 1 h 5 g 1 e 4 c 2
+c 5
+c 3

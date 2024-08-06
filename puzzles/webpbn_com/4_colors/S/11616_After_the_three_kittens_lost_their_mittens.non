@@ -1,0 +1,52 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sarah Andrews"
+date "Dec 31, 2010"
+description "Today was warm enough for the kittens to go out. When they came back inside, all three ran straight to the litter box. (Seattle, Taos, and Cheyenne)"
+difficulty 1.25
+height 10
+id 11616
+link "https://webpbn.com/play.cgi?id=11616"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "After the three kittens lost their mittens"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 red 1 red 1 black 1 black 1
+black 3 red 3 black 3
+black 3 red 3 black 3
+black 5 red 5 black 5
+black 5 red 5 black 5
+black 5 red 5 black 5
+blue 20
+blue 20
+blue 18
+blue 18
+
+columns
+blue 2
+blue 4
+black 3 blue 4
+black 6 blue 4
+black 5 blue 4
+black 6 blue 4
+black 3 blue 4
+blue 4
+red 3 blue 4
+red 6 blue 4
+red 5 blue 4
+red 6 blue 4
+red 3 blue 4
+blue 4
+black 3 blue 4
+black 6 blue 4
+black 5 blue 4
+black 6 blue 4
+black 3 blue 4
+blue 2

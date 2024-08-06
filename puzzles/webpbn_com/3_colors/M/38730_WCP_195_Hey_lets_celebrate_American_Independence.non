@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Jul  4, 2024"
+description "By setting off some bottle rockets"
+difficulty 1.5
+height 20
+id 38730
+link "https://webpbn.com/play.cgi?id=38730"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #195 Hey, let's celebrate American Independence"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 3
+black 1 black 1
+black 1 black 2 black 3
+black 1 red 3 black 3
+black 3 red 3 black 1 black 2
+black 1 red 3 black 3 black 2
+red 3 black 4
+red 3 black 1 black 1
+red 3 black 3 black 2
+red 3 black 6
+red 5 black 2
+red 7 black 1
+red 9 black 3
+red 3 red 3 black 1
+red 3 red 3
+black 2 red 1 red 3
+black 6 red 3 black 4 black 1 black 2
+black 20
+black 20
+
+columns
+black 1 red 3 black 4
+black 3 red 4 black 4
+black 2 red 6 black 3
+red 10 black 3
+red 10 black 3
+black 1 red 10 black 3
+black 2 black 1 black 1 red 7 black 2
+black 1 black 1 black 1 black 3 red 6 black 2
+black 13 red 5 black 2
+black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 3
+black 1 black 2 black 1 black 2 black 3
+black 2 black 2 black 3
+black 1 black 2 black 3
+black 2
+black 3
+black 2
+black 3
+black 3
+black 2

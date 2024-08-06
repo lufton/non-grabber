@@ -1,0 +1,97 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Marie-Louise Ambrey"
+date "Jul 17, 2007"
+description "Egg, catapillar, chrysalis and finally a butterfly."
+difficulty 3.25
+height 20
+id 1074
+link "https://webpbn.com/play.cgi?id=1074"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Life cycle, lesson #2"
+width 55
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1 black 1
+black 1 black 2 black 3 black 3
+black 2 black 1 blue 1 black 2 black 2 green 1 black 2 black 2 green 1 black 2 black 3 green 1 green 1 black 3
+black 2 black 4 black 17 black 1 black 5 black 1 black 1 black 5
+black 2 black 2 green 2 black 2 black 5 green 1 black 1 black 2 green 1 black 2 black 1 green 1 black 3 black 1 blue 3 black 2 black 2 black 2 blue 3 black 1
+black 3 green 1 green 1 green 1 black 1 black 4 black 3 black 4 black 1 blue 1 black 1 blue 2 black 2 black 2 black 2 blue 2 black 1 blue 1 black 1
+black 4 green 5 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 black 2 blue 1 black 3 green 2 black 3 blue 1 black 2 blue 1 black 1
+black 2 green 3 black 1 green 1 green 3 black 1 green 2 black 1 blue 1 black 2 blue 2 black 6 blue 2 black 2 blue 1 black 1
+black 1 green 5 black 1 green 3 green 1 black 1 black 19 green 2 black 1 blue 2 black 2 blue 2 black 4 blue 2 black 2 blue 2 black 1
+black 1 green 5 black 1 green 1 green 2 black 1 black 16 green 3 black 2 blue 5 black 1 green 2 black 1 blue 5 black 2
+black 1 green 6 black 1 green 2 green 1 black 1 black 5 black 1 black 2 green 2 black 16
+black 1 green 7 black 1 green 3 black 1 black 4 black 2 black 2 green 1 black 1 blue 3 black 4 blue 3 black 1
+black 1 green 7 black 1 green 2 black 1 black 3 black 4 black 2 black 1 blue 3 black 2 green 2 black 2 blue 3 black 1
+black 4 green 4 black 1 green 1 black 1 black 3 black 1 green 3 black 2 green 2 black 1 blue 2 black 10 blue 2 black 1
+black 3 green 2 black 1 green 2 black 1 black 2 black 4 black 4 green 2 black 1 blue 2 black 10 blue 2 black 1
+black 2 green 4 black 1 black 2 black 2 green 2 black 1 green 3 black 1 blue 1 black 2 blue 1 black 2 green 2 black 2 blue 1 black 2 blue 1 black 1
+black 2 green 2 black 2 black 2 black 3 green 1 black 1 green 1 green 2 black 1 blue 2 black 1 blue 1 black 1 black 2 black 1 blue 1 black 1 blue 2 black 1
+black 1 green 2 black 1 black 1 black 1 green 1 green 3 black 1 green 2 green 1 black 1 blue 3 black 1 black 1 blue 3 black 1
+black 3 black 1 black 2 green 4 green 3 black 3 black 3
+black 1 black 1 green 3 green 3
+
+columns
+black 3 black 5
+black 2 black 2 green 4 black 2
+black 2 black 1 green 6 black 1
+black 3 green 6 black 1
+black 2 green 6 black 2
+black 2 green 1 black 1 green 6 black 1
+black 2 green 2 black 2 green 4 black 2
+black 1 green 1 green 3 black 1 green 4 black 2
+black 1 green 3 green 3 black 1 green 4 black 2
+black 2 green 3 green 2 black 3 green 3 black 1
+black 1 green 1 green 1 green 1 green 2 green 4 black 2
+black 2 green 9 black 3
+black 10
+0
+black 3 black 11
+black 1 blue 1 black 2 black 9
+black 5 black 6
+black 4 black 4
+black 4 black 3
+black 2 green 1 black 1 black 2
+black 6 black 2 black 4
+black 2 green 1 black 1 black 2 black 2 green 1 black 3
+black 4 black 5 green 1 black 1 green 1 black 3
+black 5 black 2 black 1 green 1 black 1 green 1 black 1 green 1 black 2
+black 1 green 1 black 1 black 2
+black 5 black 2
+black 4 black 3 green 1
+black 2 green 1 black 1 black 4 green 2
+black 6 black 2 black 2 green 3
+black 2 green 1 black 1 black 2 black 2 green 2
+black 4 black 1 black 2 green 3
+black 2 black 1 black 4
+black 2 green 1 black 1 green 1 black 1 green 3
+green 4 green 1 black 1 green 1 green 3
+green 4 green 4 green 2
+green 4 green 1
+black 7
+black 2 blue 5 black 2 black 4
+black 2 blue 1 black 3 blue 2 black 1 black 1 blue 4 black 1
+black 2 blue 2 black 3 blue 1 black 2 blue 3 black 1 blue 2 black 1
+black 2 blue 3 black 1 blue 1 black 1 blue 2 black 4 blue 1 black 1
+black 3 blue 3 black 1 blue 2 black 2 blue 3 black 1
+green 1 black 3 blue 2 black 1 blue 1 black 6
+black 1 black 10
+black 2 green 1 black 2 green 1 black 2 green 1 black 2 green 1 black 1
+black 2 green 1 black 2 green 1 black 2 green 1 black 2 green 1 black 1
+black 1 black 10
+green 1 black 3 blue 2 black 1 blue 1 black 6
+black 3 blue 3 black 1 blue 2 black 2 blue 3 black 1
+black 2 blue 3 black 1 blue 1 black 1 blue 2 black 4 blue 1 black 1
+black 2 blue 2 black 3 blue 1 black 2 blue 3 black 1 blue 2 black 1
+black 2 blue 1 black 3 blue 2 black 1 black 1 blue 4 black 1
+black 2 blue 5 black 2 black 4
+black 7
+0

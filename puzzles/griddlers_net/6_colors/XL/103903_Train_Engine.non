@@ -1,0 +1,87 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/12/11"
+height 31
+id 103903
+link "https://www.griddlers.net/nonogram/-/g/103903"
+medium_time "0:09:32"
+points 6639
+popularity 76.12
+title "Train Engine"
+width 33
+
+color a f2f2fa
+color b 000000
+color d 5d5d5d
+color e 539d23
+color f cc0000
+color g f9e71a
+
+rows
+f 17
+f 17
+e 15
+e 15
+e 3 b 6 e 6
+g 9 e 3 b 6 e 6
+g 9 e 3 b 6 e 6
+g 7 e 3 b 6 e 6
+g 7 g 2 e 3 b 6 e 5
+g 5 g 4 e 3 b 6 e 4
+g 5 g 6 e 3 b 6 e 4
+e 4 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 13
+e 5 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 13
+e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 13
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 13
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 14
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 15
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 15
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 15
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 15
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 15
+g 1 e 6 f 1 e 1 f 1 e 4 f 1 e 1 f 1 e 15
+g 1 e 3 d 5 f 1 e 4 d 5 e 5 d 5 e 3
+g 1 e 2 d 7 e 3 d 7 e 3 d 7 e 2
+e 1 d 9 e 1 d 9 e 1 d 11
+d 9 e 1 d 9 e 1 d 9
+d 4 b 21 d 4
+d 9 d 9 d 9
+d 9 d 9 d 9
+d 7 d 7 d 7
+d 5 d 5 d 5
+
+columns
+g 10
+e 12
+g 2 e 12 d 5
+g 4 e 12 d 7
+g 6 e 11 d 9
+g 6 e 11 d 9
+g 6 e 11 d 4 b 1 d 4
+g 6 f 11 d 4 b 1 d 4
+g 6 e 11 d 4 b 1 d 4
+g 4 f 12 d 3 b 1 d 3
+g 2 g 1 e 13 d 2 b 1 d 2
+g 2 e 15 b 1
+g 3 e 13 d 2 b 1 d 2
+g 3 e 12 d 3 b 1 d 3
+g 2 f 11 d 4 b 1 d 4
+g 1 e 11 d 4 b 1 d 4
+f 2 f 11 d 4 b 1 d 4
+f 2 e 20 d 4 b 1 d 4
+f 2 e 20 d 4 b 1 d 4
+f 2 e 21 d 3 b 1 d 3
+f 2 e 2 b 7 e 13 d 2 b 1 d 2
+f 2 e 2 b 7 e 15 b 1
+f 2 e 2 b 7 e 13 d 2 b 1 d 2
+f 2 e 2 b 7 e 12 d 3 b 1 d 3
+f 2 e 2 b 7 e 11 d 4 b 1 d 4
+f 2 e 2 b 7 e 11 d 4 b 1 d 4
+f 2 e 20 d 4 b 1 d 4
+f 2 e 20 d 9
+f 2 e 20 d 9
+f 2 e 21 d 7
+f 2 e 7 e 9 d 5
+f 2 e 6 e 8 d 1
+f 2 d 1

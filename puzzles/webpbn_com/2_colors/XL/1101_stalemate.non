@@ -1,0 +1,97 @@
+by "Ian Smith (dragonfreak)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Ian Smith"
+date "Jul 24, 2007"
+description "the end of a chess game I had been in. Two kings and a pawn, while black moves up the board. i believe the colors of the pieces were swiched, but i cannot remember correctly."
+difficulty 2.25
+height 35
+id 1101
+link "https://webpbn.com/play.cgi?id=1101"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "stalemate"
+width 45
+
+rows
+10,10,5
+1,1,2,1,1,10,5
+1,1,2,1,1,10,5
+1,1,10,5
+1,1,10,5
+2,2,10,5
+3,3,10,5
+1,6,1,10,5
+2,2,10,5
+10,10,5
+10,10
+2,10,10
+4,10,10
+4,10,10
+2,10,10
+2,10,10
+4,10,10
+4,10,10
+6,10,10
+10,10
+10,10,5
+10,1,1,1,1,10,5
+10,1,1,1,1,10,5
+10,8,10,5
+10,8,10,5
+10,6,10,5
+10,4,10,5
+10,1,1,10,5
+10,6,10,5
+10,10,5
+10,10
+10,10
+10,10
+10,10
+10,10
+
+columns
+10,10
+1,2,2,10
+3,2,1,1,10
+1,1,1,2,3,10
+3,1,1,8,10
+3,1,1,8,10
+1,1,1,2,3,10
+3,2,1,1,10
+1,2,2,10
+10,10
+10,5
+10,4,1,5
+10,3,1,5
+10,6,1,5
+10,4,1,5
+10,4,1,5
+10,6,1,5
+10,3,1,5
+10,4,1,5
+10,5
+10,10
+10,10
+10,10
+10,10
+10,10
+10,10
+10,10
+10,10
+10,10
+10,10
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+10,10
+10,10
+10,10
+10,10
+10,10

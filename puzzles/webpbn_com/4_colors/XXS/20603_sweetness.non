@@ -1,0 +1,30 @@
+by "Angie Heath (bewildering11)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Angie Heath"
+date "Dec 13, 2012"
+description "this is the best puzzle! literally!"
+difficulty 1.25
+height 5
+id 20603
+link "https://webpbn.com/play.cgi?id=20603"
+note "published,definitely unique,definitely trivial"
+quality 1.0
+title "sweetness"
+width 3
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 3
+green 1 black 1
+red 3
+black 1 green 1
+red 3
+
+columns
+red 1 red 1 black 1 red 1
+red 1 green 1 red 1 green 1 red 1
+red 1 black 1 red 1 red 1

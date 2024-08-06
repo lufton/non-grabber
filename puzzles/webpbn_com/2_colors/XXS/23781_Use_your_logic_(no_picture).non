@@ -1,0 +1,27 @@
+by "RB (rb2013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by RB"
+date "Feb 10, 2014"
+description "Could you solve it quickly? If yes, I want to know the method!"
+difficulty 2.25
+height 5
+id 23781
+link "https://webpbn.com/play.cgi?id=23781"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "Use your logic (no picture)"
+width 5
+
+rows
+2
+1
+1,2
+1,1
+2
+
+columns
+1,1
+2
+2
+1,1
+1,1

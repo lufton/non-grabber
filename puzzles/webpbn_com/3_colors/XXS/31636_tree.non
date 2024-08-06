@@ -1,0 +1,31 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Sep 29, 2018"
+description "tree"
+difficulty 1.25
+height 5
+id 31636
+link "https://webpbn.com/play.cgi?id=31636"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "tree"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1
+green 1 green 1
+green 1 green 3
+black 3
+black 3
+
+columns
+green 1
+green 1 black 2
+green 1 green 1 black 2
+green 2 black 2
+green 1

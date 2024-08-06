@@ -1,0 +1,63 @@
+by "Tony (Daniel.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Tony"
+date "Aug  3, 2008"
+description "Walk around my labarinth."
+difficulty 1.75
+height 20
+id 3205
+link "https://webpbn.com/play.cgi?id=3205"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Gå - go"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 black 2 red 2 red 9
+blue 1 black 2 blue 1 red 1 red 1 red 1
+red 1 black 2 red 9 red 5 red 1
+red 1 blue 2 red 1 red 1 red 1
+red 12 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1
+red 7 red 1 red 1 red 1
+red 1 red 1 red 3
+red 6 red 5 red 1
+red 1 red 1 red 1 red 1 red 5
+red 1 red 4 red 1 red 3 red 1 red 1
+red 1 red 1 red 1 red 1 red 2 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 8 red 2 red 1
+red 1 red 1 red 1 red 2 red 1
+red 1 red 1 red 13 black 2
+red 3 red 1 blue 2 black 2
+red 3 black 2
+red 1 green 2
+
+columns
+red 1 blue 1 red 3 red 9
+black 3 blue 1 red 1 red 1 red 1
+black 3 blue 1 red 1 red 1 red 7
+red 1 blue 1 red 1 red 1 red 1 red 1
+red 3 red 1 red 1 red 1
+red 1 red 1 red 3 red 6
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 6 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1
+red 3 red 4 red 3 red 1 red 1
+red 1 red 1 red 1 red 1
+red 1 red 10 red 1 red 1
+red 1 red 1 red 3 red 1
+red 1 red 1 red 3 red 3
+red 1 red 1 red 1 red 3 blue 1 red 1
+red 1 red 7 red 1 red 5 blue 1 red 2
+red 1 red 1 red 1 black 3 green 1
+red 9 red 6 black 3 green 1

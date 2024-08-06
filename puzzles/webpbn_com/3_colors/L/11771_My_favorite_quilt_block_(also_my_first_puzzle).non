@@ -1,0 +1,81 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Jan 16, 2011"
+description "The "Monkey Wrench" pattern, which to me looks like two brontosaurs kissing."
+difficulty 1.75
+height 30
+id 11771
+link "https://webpbn.com/play.cgi?id=11771"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My favorite quilt block (also my first puzzle)"
+width 30
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 16
+blue 15
+blue 14
+blue 13
+blue 12
+blue 11
+blue 10
+blue 9
+blue 1 black 7 blue 8
+blue 2 black 6 blue 2 black 1 blue 7
+blue 3 black 5 blue 4 black 2 blue 6
+blue 4 black 4 blue 6 black 3 blue 5
+blue 5 black 3 blue 6 black 4 blue 4
+blue 6 black 2 blue 4 black 5 blue 3
+blue 7 black 1 blue 2 black 6 blue 2
+black 2 blue 6 black 1 blue 1 black 7
+black 3 blue 5 black 2 blue 2 black 6
+black 4 blue 4 black 4 blue 3 black 5
+black 5 blue 3 black 6 blue 4 black 4
+black 6 blue 2 black 5 blue 5 black 3
+black 7 blue 1 black 3 blue 6 black 2
+black 8 black 1 blue 7 black 1
+black 9
+black 10
+black 11
+black 12
+black 13
+black 14
+black 15
+black 16
+
+columns
+black 15
+blue 1 black 15
+blue 3 black 14
+blue 5 black 13
+blue 7 black 12
+blue 9 black 11
+blue 11 black 10
+blue 13 black 9
+black 7 black 8
+black 6 black 7
+black 5 black 6
+black 4 black 1 black 5
+black 3 blue 2 black 3 black 4
+black 2 blue 4 black 5 black 3
+blue 1 black 1 blue 6 black 7 black 2
+blue 2 blue 6 black 4 blue 1 black 1
+blue 3 blue 4 black 2 blue 2
+blue 4 blue 2 blue 3
+blue 5 blue 4
+blue 6 blue 5
+blue 7 blue 6
+blue 8 blue 7
+blue 9 black 13
+blue 10 black 11
+blue 11 black 9
+blue 12 black 7
+blue 13 black 5
+blue 14 black 3
+blue 15 black 1
+blue 15

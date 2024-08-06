@@ -1,0 +1,83 @@
+by "judy ellen reed (puzzled)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by judy ellen reed"
+date "Jan  9, 2022"
+description "Try reading the color names"
+difficulty 1.75
+height 20
+id 35522
+link "https://webpbn.com/play.cgi?id=35522"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "color palette"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 1 red 2 red 1 red 2 red 3 red 3 red 1 red 2
+blue 1 red 1 red 1 red 2 red 1 red 1 red 1 red 1 red 2 red 1
+blue 1 blue 2 blue 2 blue 2 red 1 red 1 red 1 red 4 red 4 red 2 red 1
+blue 2 blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+blue 1 blue 4 blue 1 blue 1 red 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+blue 1 blue 1 blue 1 blue 1 red 1 red 1 red 3 red 3 red 1 red 1
+blue 1 blue 1 blue 1 blue 1 blue 1 red 1 red 1
+blue 1 blue 3 blue 3 red 3
+0
+0
+black 1 black 1 green 1 green 1 green 1
+black 1 black 1 green 1 green 1 green 1 green 1
+black 2 black 1 black 1 black 1 black 2 green 3 green 1 green 4 green 2 green 1 green 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 3
+black 1 black 1 black 1 black 1 black 1 black 3 green 1 green 1 green 1 green 1 green 1 green 1 green 2
+black 1 black 1 black 1 black 1 black 1 black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 2
+black 2 black 1 black 1 black 2 green 3 green 1 green 2 green 1 green 2 green 1 green 1
+0
+
+columns
+0
+blue 6 black 8
+blue 1 black 1 black 1
+blue 1 black 4
+blue 1
+black 8
+blue 4
+blue 1 blue 1 blue 1 black 5
+blue 1 blue 1 blue 1 black 1
+blue 2 blue 2 black 5
+0
+blue 5 black 4
+blue 1 blue 1 black 1 black 1 black 1
+blue 8 black 3 black 2
+0
+0
+red 4 red 2 green 8
+red 1 red 1 red 1 green 1 green 1
+red 8 green 1 green 1
+green 4
+red 6
+red 1 green 8
+red 1
+red 1 green 5
+green 1 green 1
+red 4 green 1 green 1
+red 1 red 1 red 1 green 5
+red 1 red 1 red 1 green 1
+red 3 red 2
+green 4
+red 4 green 1 green 1
+red 1 red 1 red 1 green 1 green 1
+red 1 red 1 red 1 green 1 green 1
+red 3 red 2
+green 8
+red 6 green 3
+red 2 green 2 green 2
+red 1 green 2 green 2
+red 6
+0

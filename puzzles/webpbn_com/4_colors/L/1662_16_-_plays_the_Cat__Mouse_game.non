@@ -1,0 +1,77 @@
+by "Nancy Snyder (naneki)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Nancy Snyder"
+date "Nov 13, 2008"
+description "TOM"
+difficulty 2.5
+height 30
+id 1662
+link "https://webpbn.com/play.cgi?id=1662"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "#16 - plays the "Cat & Mouse game""
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 1 black 4
+black 2 black 1 black 2
+black 2 black 1 black 1 black 2
+black 1 black 2 black 2 black 3
+black 2 black 1 black 1 black 3 black 1
+black 2 black 1 black 6 black 3 black 1
+black 1 black 1 black 1 black 4 black 2
+black 1 black 2 black 2 black 2
+black 1 black 1 black 5 black 2 black 1
+black 2 black 2 black 2 black 2 black 1
+black 3 black 2 black 2 black 3 black 1 black 1
+black 4 black 1 black 2 black 2 black 4
+black 3 black 1 black 1 black 1 black 2
+black 1 black 2 black 1 black 2 black 1
+black 1 black 1 blue 1 black 1 black 1 black 1
+black 1 black 1 blue 2 black 1 black 1 blue 1 black 1
+black 2 black 2 black 1 blue 2 black 1 black 1 blue 2 black 1
+black 2 black 3 black 3 blue 1 black 1 black 1 blue 2 black 1
+black 2 black 1 black 4 black 6 blue 1 black 1
+black 2 black 1 black 3 black 7
+black 2 black 1 black 3 black 5 black 2
+black 2 black 1 black 1 red 1 black 2 black 4 black 1
+black 1 black 1 black 1 red 2 black 3 black 2 black 1
+black 3 black 1 red 3 black 7 black 2
+black 2 black 1 red 2 black 2 black 2 black 2
+black 2 black 4 black 8
+black 2 black 2 black 3
+black 2 black 3
+black 5
+
+columns
+black 7
+black 4 black 9
+black 2 black 3 black 4
+black 3 black 2 black 4
+black 1 black 2 black 4
+black 2 black 2 black 3
+black 4 black 3 black 11
+black 1 black 5 black 2 black 2
+black 2 black 9 black 2
+black 3 black 3 red 4 black 2 black 1
+black 4 black 2 black 4 red 3 black 2 black 1
+black 1 black 2 black 6 black 2 red 1 black 2 black 2
+black 1 black 2 black 3 black 1 black 3 black 3
+black 1 black 1 black 2 black 2 black 2 black 3
+black 2 black 1 black 1 blue 3 black 1 black 4
+black 2 black 1 black 2 blue 3 black 4 black 3
+black 1 black 1 black 6 black 4 black 1 black 1
+black 3 black 4 black 1 black 1
+black 1 black 2 black 11 black 1
+black 2 black 2 black 3 blue 3 black 4 black 1
+black 1 black 3 blue 3 black 2 black 2
+black 2 black 7 black 2 black 2
+black 2 black 7 black 4
+black 6
+0

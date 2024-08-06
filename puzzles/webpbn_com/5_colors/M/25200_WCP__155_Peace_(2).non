@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "Aug 16, 2014"
+description "I told you it wouldn't work. I told you putting all those different kinds of people together wouldn't work. You already ruined the red planet that way and we had to annihilate all life on that planet. But you had to try it again and now, the only way we're going to have peace on the blue planet, is for you to annihilate all life there, too. The Powers will probably never ever give you another planet to play with."
+difficulty 2.0
+height 20
+id 25200
+link "https://webpbn.com/play.cgi?id=25200"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP # 155 Peace (#2)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 3 black 1 blue 2
+blue 2 black 3 blue 3
+blue 2 black 2 blue 3 black 1
+blue 3 black 2 blue 2 black 1
+blue 1 black 1 blue 2 black 1 blue 3
+blue 3 black 1 blue 2
+blue 4
+0
+red 1 green 1 blue 1 black 1 green 1 black 1 red 1 green 1 blue 1 red 1
+black 12
+black 2 black 2
+black 2 red 2 red 2 black 2
+black 1 green 2 green 2 red 3 black 1
+black 1 green 3 red 3 black 1
+black 1 green 3 red 3 black 1
+black 1 green 3 red 1 red 1 red 1 black 1
+black 2 red 1 red 2 blue 1 red 2 black 2
+black 2 red 1 green 1 red 1 blue 1 red 1 blue 1 black 2
+black 12
+
+columns
+0
+0
+black 6
+black 2 black 2
+black 2 black 2
+red 1 black 1 green 1 black 1
+blue 4 green 1 black 1 green 4 red 1 black 1
+blue 4 black 1 blue 1 blue 1 black 1 green 3 red 1 green 1 black 1
+blue 2 black 2 blue 4 black 2 green 4 red 1 black 1
+blue 2 black 3 blue 3 green 1 black 1 green 1 black 1
+blue 1 black 2 blue 1 black 3 blue 1 black 2 red 1 red 2 black 1
+blue 8 red 1 black 1 red 4 red 1 blue 1 black 1
+blue 6 green 1 black 1 red 4 blue 1 red 1 black 1
+blue 1 black 2 blue 1 blue 1 black 1 red 4 red 1 blue 1 black 1
+red 1 black 1 red 1 red 2 black 1
+black 2 black 2
+black 2 black 2
+black 6
+0
+0

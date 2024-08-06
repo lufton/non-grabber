@@ -1,0 +1,31 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Dec 14, 2010"
+description "I like this idea."
+difficulty 1.0
+height 5
+id 11395
+link "https://webpbn.com/play.cgi?id=11395"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "My square :)"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 black 1
+blue 3
+blue 1 blue 1
+blue 3
+black 1 black 1
+
+columns
+black 1 black 1
+blue 3
+blue 1 blue 1
+blue 3
+black 1 black 1

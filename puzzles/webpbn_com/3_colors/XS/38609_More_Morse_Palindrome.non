@@ -1,0 +1,37 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Yonah Kondor"
+date "May  8, 2024"
+description "And Civic kindda looks American Flag-y."
+difficulty 1.0
+height 5
+id 38609
+link "https://webpbn.com/play.cgi?id=38609"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "More Morse Palindrome"
+width 11
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 black 1 black 3 black 1
+blue 1 blue 1
+blue 1 blue 1 black 1 black 3
+black 1 black 1
+black 3 black 1 black 3 black 1
+
+columns
+blue 3 black 2
+blue 1 black 1
+blue 3 black 2
+0
+black 1 black 1 black 1
+0
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+0
+black 1 black 1

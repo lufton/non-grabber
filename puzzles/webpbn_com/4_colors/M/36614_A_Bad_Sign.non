@@ -1,0 +1,72 @@
+by "Sam (cementuh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sam"
+date "Apr 19, 2023"
+description "No, your food is inanimate, I promise. Are you ok? Are you drinking enough water? Eating enough food? Getting enough sleep?"
+difficulty 2.75
+height 19
+id 36614
+link "https://webpbn.com/play.cgi?id=36614"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "A Bad Sign"
+width 31
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 9
+black 3 red 1 blue 1 black 3
+black 1 black 2 blue 1 red 1 blue 1 black 2 black 1
+black 2 black 2 blue 1 red 1 blue 1 black 2 black 2
+black 3 black 1 blue 1 red 2 blue 2 red 1 black 1 black 3
+black 1 black 2 black 2 blue 1 black 2 red 1 blue 1 red 1 black 2 black 2 black 1
+black 1 red 1 black 2 black 1 red 1 black 4 red 1 black 5 red 1 black 1 black 2 red 1 black 1
+black 1 red 1 black 3 red 1 black 8 blue 2 red 2 black 3 red 1 black 1
+black 1 red 1 blue 1 black 2 red 1 blue 2 black 1 black 1 blue 1 red 1 black 2 blue 1 red 1 black 1
+black 1 red 1 blue 1 black 1 red 2 blue 1 red 1 blue 1 red 1 black 1 blue 1 red 1 black 1
+black 1 red 1 blue 1 black 2 red 1 black 11 blue 1 red 1 black 2 blue 1 red 1 black 1
+black 1 red 1 black 3 red 1 black 11 blue 1 black 3 red 1 black 1
+black 1 red 1 black 2 black 1 red 2 black 2 red 2 black 1 red 2 black 2 blue 1 black 1 black 2 red 1 black 1
+black 1 black 2 black 2 red 1 black 2 red 3 black 2 blue 2 black 2 black 2 black 1
+black 3 black 1 red 1 black 5 red 1 blue 1 black 1 black 3
+black 2 black 2 red 2 blue 1 red 1 black 2 black 2
+black 1 black 2 red 1 blue 1 red 2 black 2 black 1
+black 3 blue 2 black 3
+black 9
+
+columns
+black 15
+black 2 black 2
+black 2 red 7 black 2
+black 2 black 2
+black 2 blue 3 black 2
+black 2 black 2
+black 9
+black 3 red 4 black 3
+black 2 red 4 black 2
+black 2 black 1 red 4 black 2
+black 1 blue 4 black 2 black 2 red 2 black 1
+black 2 black 3 blue 1 black 3 black 2
+black 1 black 3 blue 2 black 4 black 1
+black 1 black 2 black 2 red 1 black 2 black 1
+black 1 red 4 black 2 black 2 red 2 black 1 blue 3 black 1
+black 1 red 3 black 1 black 3 red 1 black 1 blue 1 black 1
+black 1 black 2 red 1 black 2 red 2 black 1 black 1
+black 1 black 1 black 2 red 1 black 2 black 1
+black 1 blue 4 black 1 black 4 red 3 black 1
+black 2 blue 2 black 1 blue 1 black 3 red 1 black 2
+black 1 black 1 blue 3 black 2 black 1
+black 2 black 1 blue 4 black 2
+black 2 red 4 blue 2 black 2
+black 3 red 4 black 3
+black 9
+black 2 black 2
+black 2 blue 3 black 2
+black 2 black 2
+black 2 red 7 black 2
+black 2 black 2
+black 15

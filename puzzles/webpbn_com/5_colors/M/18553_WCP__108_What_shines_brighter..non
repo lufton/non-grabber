@@ -1,0 +1,58 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "May  6, 2012"
+description "The disco ball,or Tom's shiner that he is wearing at the end of the prom. Tom stands next to the disco ball,with his finger pointing up,indicating a valuable lesson learned. Don't put your arms around a couple of cuties that came to the prom with dates."
+difficulty 2.5
+height 20
+id 18553
+link "https://webpbn.com/play.cgi?id=18553"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "WCP # 108 What shines brighter."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 black 1
+blue 1 blue 3 black 1
+blue 5 blue 2 black 1
+blue 5 blue 1 green 1
+blue 8 green 1 red 1 blue 1
+blue 1 blue 3 black 2 blue 1 red 1 blue 1 red 1
+blue 2 black 1 green 1 black 1 green 1 blue 1 green 1 blue 1
+black 1 red 1 black 1 black 1 black 1 green 1 red 1 green 1
+black 2 green 1 blue 1 black 1 blue 1 red 1
+black 1 black 1 black 1 blue 1
+black 2 black 2
+black 2 red 1 black 1
+black 1 red 1 red 1 black 1 black 1
+black 2 black 1 black 2
+blue 1 black 3 blue 1 blue 2
+blue 3 red 1 red 3 blue 2 blue 2
+blue 3 red 4 blue 4
+blue 4 red 1 red 1 blue 3
+blue 2 blue 2 blue 2
+blue 2 blue 2 blue 2
+
+columns
+blue 1 blue 3
+blue 1 blue 4
+blue 2 blue 2 black 3 blue 3
+blue 2 blue 1 black 3 black 2 blue 5
+blue 5 black 3 blue 2 red 1 blue 2
+blue 4 red 1 green 1 black 1 red 2
+blue 5 green 1 black 1 blue 1 red 1 black 1 red 2
+blue 1 blue 2 black 1 red 1 black 1 red 2
+blue 1 black 1 red 1 black 1 red 1 red 1
+blue 3 black 1 black 1 red 1
+blue 1 blue 1 black 3 black 3 blue 2
+blue 2 green 1 black 3 blue 2
+green 1 red 1 blue 1 green 1 blue 2 blue 1
+red 1 blue 1 green 1 red 1 blue 1 black 2 blue 6
+black 3 green 1 blue 1 red 1 blue 1 green 1 red 1 blue 1 black 1 blue 5

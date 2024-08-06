@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Mar 22, 2021"
+description "Anyone know it?"
+difficulty 1.25
+height 20
+id 34998
+link "https://webpbn.com/play.cgi?id=34998"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Community Deep Cut"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 2 blue 2
+blue 3 blue 3
+blue 5 blue 5
+blue 7 blue 7
+blue 18
+0
+blue 1 blue 5 black 4 blue 5 blue 1
+blue 2 blue 2 black 6 blue 2 blue 2
+blue 4 black 8 blue 4
+blue 6 black 3 black 2 blue 6
+blue 6 black 3 black 1 black 2 blue 6
+blue 4 black 3 black 2 blue 4
+blue 2 blue 2 black 6 blue 2 blue 2
+blue 1 blue 5 black 4 blue 5 blue 1
+0
+blue 18
+blue 16
+blue 14
+blue 10
+blue 5
+
+columns
+blue 8
+blue 1 blue 6 blue 1
+blue 2 blue 4 blue 2
+blue 3 blue 1 blue 4 blue 1 blue 3
+blue 3 blue 1 blue 2 blue 1 blue 3
+blue 4 blue 2 blue 2 blue 2 blue 4
+blue 4 blue 2 black 4 blue 2 blue 4
+blue 5 blue 1 black 6 blue 1 blue 4
+blue 1 blue 2 black 8 blue 5
+blue 1 black 3 black 2 blue 5
+blue 1 black 3 black 1 black 2 blue 5
+blue 1 blue 2 black 3 black 2 blue 5
+blue 5 blue 1 black 6 blue 1 blue 5
+blue 4 blue 2 black 4 blue 2 blue 4
+blue 4 blue 2 blue 2 blue 2 blue 4
+blue 3 blue 1 blue 2 blue 1 blue 3
+blue 3 blue 1 blue 4 blue 1 blue 3
+blue 2 blue 4 blue 2
+blue 1 blue 6 blue 1
+blue 8

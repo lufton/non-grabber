@@ -1,0 +1,52 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom King"
+date "Dec  2, 2011"
+description "Create a simple little puzzle"
+difficulty 1.5
+height 15
+id 16553
+link "https://webpbn.com/play.cgi?id=16553"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Something to do while watching TV..."
+width 20
+
+rows
+6
+3,2
+2,3
+2,5,2
+2,7,2
+3,9,2
+1,11,1
+1,11,2
+2,11,1
+2,9,2
+2,7,2
+3,6,2
+2,1
+3,3
+6
+
+columns
+4
+1,2
+2,2
+2,2
+1,1
+1,3,2
+2,5,2
+1,7,1
+2,9,2
+1,9,1
+1,9,1
+1,9,1
+1,9,1
+2,8,2
+2,5,1
+1,3,3
+2,2
+2,2
+2,3
+3

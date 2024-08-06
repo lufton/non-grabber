@@ -1,0 +1,125 @@
+by "stingrox"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/17/05"
+height 50
+id 26848
+link "https://www.griddlers.net/nonogram/-/g/26848"
+medium_time "0:23:52"
+points 114258
+popularity 68.86
+title "Dervish"
+width 50
+
+color a ffffff
+color b c6c7c7
+color c 78605f
+color d d5ad9b
+color e a2a4a5
+color f 669900
+color g 271d1e
+color h ffcc99
+
+rows
+f 50
+f 15 g 1 c 3 f 31
+f 15 g 1 c 4 f 17 d 2 h 1 f 10
+f 15 g 2 c 4 h 1 f 13 e 1 d 3 h 2 f 9
+f 15 g 3 c 1 g 1 d 2 h 1 f 10 e 5 f 12
+f 16 g 4 d 1 d 1 h 1 f 7 e 3 e 2 f 12
+f 17 g 2 c 2 h 3 f 5 e 3 e 1 f 13
+f 18 g 1 c 3 d 1 f 4 e 3 e 2 f 13
+f 20 c 2 h 2 e 4 e 2 f 14
+f 2 d 1 h 2 f 12 e 8 e 2 f 15
+f 2 d 2 h 2 e 3 f 6 e 3 e 3 f 16
+f 3 d 3 e 1 e 8 e 3 f 18
+f 6 e 2 e 1 f 20
+f 6 e 2 b 3 e 2 f 20
+f 7 e 3 b 9 e 1 e 1 f 21
+f 9 e 9 b 1 b 1 e 2 e 1 f 21
+f 17 e 2 b 1 b 1 e 2 e 1 f 21
+f 18 e 2 b 1 b 1 e 2 e 1 f 21
+f 19 e 2 b 1 e 2 e 1 f 21
+f 20 e 2 b 1 e 1 e 1 f 21
+f 20 g 6 e 1 e 1 f 21
+f 19 e 1 b 6 e 1 b 1 e 2 f 19
+f 18 e 2 b 2 e 1 e 2 f 18
+f 16 e 3 b 2 e 2 f 17
+f 15 e 2 b 3 e 3 f 15
+f 13 e 3 b 2 e 2 f 14
+f 11 e 3 b 3 e 2 f 13
+f 7 e 6 b 2 e 3 f 11
+f 6 e 5 b 3 e 3 f 9
+f 5 e 4 b 3 e 3 f 7
+f 4 e 3 b 3 e 3 f 5
+f 3 e 3 b 3 e 2 f 4
+f 3 e 2 b 3 e 1 b 1 f 3
+f 2 e 3 b 2 e 1 f 3
+f 2 e 2 b 3 e 1 f 3
+f 2 e 2 b 3 e 2 f 3
+f 2 e 2 b 2 b 1 e 2 f 4
+f 2 e 2 b 2 b 1 e 1 f 5
+f 2 e 2 b 2 b 1 e 2 f 6
+f 3 e 2 b 2 b 2 e 5 f 7
+f 4 e 2 b 1 b 1 e 3 f 11
+f 4 e 3 b 2 e 3 f 13
+f 5 e 3 b 2 e 3 f 15
+f 6 e 4 b 2 e 3 f 17
+f 7 e 13 b 1 e 4 f 19
+f 20 e 8 f 22
+f 50
+f 50
+f 50
+f 50
+
+columns
+f 50
+f 50
+f 9 d 2 f 22 e 6 f 11
+f 9 h 1 d 2 f 19 e 9 f 10
+f 9 h 2 d 1 f 18 e 4 b 5 e 3 f 8
+f 10 h 1 d 1 f 17 e 3 b 8 e 3 f 7
+f 10 e 4 f 14 e 3 b 5 b 2 e 3 f 6
+f 10 e 1 e 3 f 12 e 3 b 3 e 3 f 5
+f 10 e 2 b 1 e 1 f 12 e 3 b 2 e 2 f 5
+f 11 e 1 b 1 e 2 f 11 e 2 b 2 e 2 f 5
+f 11 e 1 b 2 e 1 f 11 e 2 b 1 e 1 f 5
+f 11 e 1 b 1 e 1 f 10 e 2 b 2 e 1 f 5
+f 11 e 1 b 1 e 1 f 10 e 2 b 1 e 1 f 5
+f 11 e 1 b 1 e 1 f 9 e 2 b 2 e 1 f 5
+f 11 e 1 b 1 e 1 f 9 e 1 b 2 e 1 f 5
+f 1 g 4 f 5 e 2 b 1 e 1 f 8 e 2 b 1 e 1 f 5
+f 1 c 2 g 3 f 4 e 1 b 1 e 1 f 7 e 2 b 2 b 4 e 1 f 5
+f 1 c 3 g 3 f 2 e 2 b 1 e 2 f 6 e 1 b 2 b 3 e 1 f 5
+f 1 c 4 g 3 f 1 e 1 b 2 e 2 f 4 e 2 b 1 b 2 e 1 f 5
+f 2 c 2 g 2 c 2 f 1 e 1 b 1 e 2 f 2 e 2 b 2 b 2 e 1 f 5
+f 3 c 1 d 2 c 3 e 1 e 1 b 1 b 1 e 2 g 1 b 3 b 2 e 1 f 4
+f 3 h 1 d 1 h 1 c 2 e 1 e 1 b 1 e 1 g 1 b 2 e 1 f 4
+f 4 h 1 d 1 h 1 d 1 h 1 e 1 e 2 b 1 g 1 b 1 e 1 f 4
+f 5 h 2 f 1 h 1 e 1 e 2 b 1 g 1 b 1 e 1 f 4
+f 8 e 2 e 2 b 1 g 1 b 1 e 1 f 4
+f 8 e 1 e 2 g 1 b 1 e 1 f 4
+f 8 e 1 e 3 e 1 f 4
+f 7 e 2 b 1 e 2 f 4
+f 7 e 1 e 8 e 1 f 5
+f 6 e 2 e 3 f 7 e 1 e 1 f 5
+f 6 e 1 e 1 f 9 e 2 e 2 f 5
+f 5 e 2 e 2 f 10 e 2 e 1 f 6
+f 5 e 1 e 1 f 12 e 2 e 2 f 6
+f 4 e 2 e 2 f 13 e 1 e 1 f 7
+f 4 e 1 e 2 f 14 e 2 e 2 f 7
+f 3 e 2 e 2 f 16 e 2 e 1 f 8
+f 3 d 1 e 4 f 18 e 2 e 2 f 8
+f 2 d 2 e 2 f 21 e 1 e 1 f 9
+f 2 d 2 f 23 e 2 e 2 f 9
+f 2 h 2 f 24 e 1 e 1 f 10
+f 3 h 1 f 24 e 2 e 1 f 10
+f 29 e 1 e 1 f 10
+f 29 e 2 e 2 f 10
+f 30 e 1 e 1 f 11
+f 30 e 2 e 2 f 12
+f 31 e 2 e 2 f 13
+f 32 b 1 e 3 f 14
+f 50
+f 50
+f 50

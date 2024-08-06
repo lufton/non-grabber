@@ -1,0 +1,56 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Wombat"
+date "Jul 30, 2024"
+description "Zuul knocked the ball out of the track from puzzle #36276 this morning, and I haven't been able to find it yet. Has anyone seen it?"
+difficulty 1.5
+height 15
+id 38785
+link "https://webpbn.com/play.cgi?id=38785"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Lost: One Pink Ball"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 2 black 2
+black 1 black 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+red 2 black 1 black 1
+red 4 black 1
+red 2 red 3 black 1
+red 8 black 1
+red 8 black 3
+red 6 black 1
+red 4 black 6
+red 2 black 1
+black 4
+
+columns
+0
+red 2
+red 4
+red 6
+red 2 red 5
+red 8
+black 5 black 1 red 6
+black 1 black 1 red 4
+black 1 red 2
+black 1 black 1
+black 1 black 1 black 1
+black 5 black 7
+black 1
+black 1
+black 1
+black 1
+black 3
+black 1
+black 1
+black 1

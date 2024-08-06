@@ -1,0 +1,51 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jota"
+date "Apr 16, 2012"
+description "Heaven is where little girls who die too young go ... I hope"
+difficulty 1.75
+height 20
+id 18343
+link "https://webpbn.com/play.cgi?id=18343"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP Illegal entry"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 5
+red 4 black 1 red 2
+red 2 red 2 black 1 red 2
+red 2 red 2 black 1 red 1
+red 2 black 1 black 1 red 1 black 1 red 1
+red 1 red 3
+red 2 black 1 red 3
+red 2 red 3
+red 3 red 3
+red 2 red 3
+red 1 red 3
+red 1 red 3
+red 3
+red 2
+red 2
+red 1
+red 2
+red 2
+red 2
+red 1
+
+columns
+red 4
+red 3 red 3
+red 3 red 3
+red 2 black 1 red 4
+red 2 black 1
+red 3 black 1 red 2
+red 1 black 1 red 2 red 7
+red 1 black 1 red 15
+red 2 black 2 red 6 red 3
+red 6 red 2

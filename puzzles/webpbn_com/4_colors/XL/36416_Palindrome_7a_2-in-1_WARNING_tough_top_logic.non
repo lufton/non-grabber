@@ -1,0 +1,102 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb 17, 2023"
+description "9 letters. Not drawn to scale."
+difficulty 3.5
+height 40
+id 36416
+link "https://webpbn.com/play.cgi?id=36416"
+note "published,definitely unique,may require deep lookahead"
+quality 2.5
+title "Palindrome 7a: 2-in-1, WARNING tough top logic"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 1 black 1
+black 1 black 1
+black 25
+black 2 black 1 black 1 black 2
+black 3 black 2 black 2 black 3
+black 3 black 2 black 2 black 3
+black 3 black 3
+black 2 black 2
+black 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 1 black 3 black 3 black 1
+black 5 black 5
+0
+black 18 black 21
+black 1 black 1 black 1 black 1
+black 1 blue 3 blue 1 blue 1 black 1 black 1 blue 3 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 3 black 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 black 1
+black 1 blue 1 blue 2 blue 2 blue 2 blue 2 black 1 black 1 blue 1 blue 1 blue 3 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 1 blue 1 blue 1 blue 1 blue 5 black 1
+black 1 blue 1 blue 5 blue 1 blue 1 black 1 black 1 blue 2 blue 2 blue 1 blue 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 6 black 3 black 1 black 1 black 6 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 18 black 21
+0
+0
+0
+red 14 red 17
+red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 1
+red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 1
+red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2
+red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2
+red 14 red 17
+0
+
+columns
+black 13
+black 1 black 1 red 4
+black 1 blue 5 black 1 red 3 black 2 red 1
+black 1 blue 1 black 1 red 1 black 2 red 3
+black 1 blue 1 black 1 red 6
+black 1 blue 3 black 5 red 3 black 2 red 1
+black 1 black 1 blue 2 blue 1 black 1 black 1 red 1 black 2 red 3
+black 2 black 1 blue 1 blue 1 black 1 black 1 red 6
+black 3 black 1 blue 2 blue 1 black 1 black 1 black 1 red 3 black 2 red 1
+black 1 black 1 black 1 blue 3 black 1 black 1 red 1 black 2 red 3
+black 1 black 2 black 1 black 1 black 5 red 6
+black 1 black 1 black 3 black 1 blue 3 black 1 red 3 black 2 red 1
+black 1 black 2 black 3 black 1 black 1 blue 2 black 1 red 1 black 2 red 3
+black 1 black 1 black 2 black 1 black 1 blue 2 black 3 black 1 red 6
+black 1 black 3 black 2 black 1 blue 2 black 1 black 1 black 1 red 3 black 2 red 1
+black 1 black 2 black 2 black 1 black 1 blue 3 black 3 black 1 red 1 black 2 red 3
+black 3 black 2 black 2 black 1 black 1 red 4
+black 3 black 1 black 1 black 13
+black 2 black 1 black 1
+black 3 black 1 black 1 black 13
+black 3 black 2 black 2 black 1 black 1 red 4
+black 1 black 2 black 2 black 1 black 1 blue 2 blue 1 black 1 red 3 black 2 red 1
+black 1 black 3 black 2 black 1 blue 1 blue 2 black 1 red 1 black 2 red 3
+black 1 black 1 black 2 black 1 black 1 blue 1 black 1 red 6
+black 1 black 2 black 3 black 1 black 1 blue 1 blue 2 black 1 red 3 black 2 red 1
+black 1 black 1 black 3 black 1 blue 2 blue 1 black 1 red 1 black 2 red 3
+black 1 black 2 black 1 black 1 black 5 red 6
+black 1 black 1 black 1 blue 2 black 1 black 1 red 3 black 2 red 1
+black 3 black 1 blue 1 black 1 black 1 red 1 black 2 red 3
+black 2 black 1 blue 5 black 1 black 1 black 1 red 6
+black 1 black 1 blue 1 black 1 black 1 red 3 black 2 red 1
+black 1 blue 2 black 5 red 1 black 2 red 3
+black 1 black 1 red 6
+black 1 blue 3 black 1 red 3 black 2 red 1
+black 1 blue 1 blue 1 black 1 red 1 black 2 red 3
+black 1 blue 5 black 3 black 1 red 6
+black 1 blue 1 blue 1 black 1 black 1 black 1 red 3 black 2 red 1
+black 1 blue 3 black 3 black 1 red 1 black 2 red 3
+black 1 black 1 red 4
+black 13

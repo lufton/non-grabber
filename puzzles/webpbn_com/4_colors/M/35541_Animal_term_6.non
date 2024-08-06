@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Jan 20, 2022"
+description "I wouldn't harm a hare on your head."
+difficulty 1.5
+height 25
+id 35541
+link "https://webpbn.com/play.cgi?id=35541"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Animal term #6"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 4
+black 2 red 1 black 3
+red 1 black 6
+black 7
+black 6
+black 10 black 2
+black 11 black 2
+black 14
+black 13
+black 12
+black 6 black 4
+black 2 black 2 black 5
+black 2 black 2 red 2 black 3 red 1
+black 2 red 1 black 2 red 8
+red 14
+red 15
+red 1 red 6
+red 2 red 2 red 5
+red 4
+blue 1 blue 1 red 3
+
+columns
+red 1 black 1 red 2
+black 3 black 4 black 2 red 2
+black 19 red 2 red 1 blue 1
+black 5 red 1 black 10 red 3 red 1
+black 11 black 2 red 2
+black 18 red 2
+black 5 black 11 red 3 red 1 blue 1
+black 7 red 4 red 1
+black 5 red 4
+black 5 black 2 red 4
+black 8 red 5
+black 7 red 6
+black 5 red 8
+black 7 red 7
+black 3 red 6

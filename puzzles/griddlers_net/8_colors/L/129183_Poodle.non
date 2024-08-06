@@ -1,0 +1,84 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/22/12"
+height 33
+id 129183
+link "https://www.griddlers.net/nonogram/-/g/129183"
+medium_time "0:20:39"
+points 29744
+popularity 81.15
+title "Poodle"
+width 26
+
+color a fba479
+color b 6b6b6b
+color c e9dfce
+color d b9a98f
+color e 000000
+color f 993300
+color g ff8080
+color h ffffff
+
+rows
+b 4
+b 2 h 2 c 2 b 2
+b 1 h 6 c 2 b 1
+b 2 h 7 c 1 b 2
+b 2 c 2 h 5 c 1 b 2
+b 1 c 1 b 1 c 2 h 4 c 2 b 1 c 1 b 1
+b 2 c 3 b 2 c 4 b 2 c 3 b 2
+b 1 c 7 b 4 c 7 b 1
+b 1 c 1 h 2 c 3 h 9 c 1 h 2 c 2 b 1
+b 1 c 1 h 2 c 2 h 10 c 1 h 3 c 1 b 1
+b 1 c 1 h 3 c 2 h 10 c 1 h 3 c 2 b 1
+b 1 c 1 h 3 c 2 d 2 h 6 d 2 c 2 h 3 c 1 b 1
+b 1 c 1 h 4 c 2 e 2 h 6 e 2 c 2 h 3 c 1 d 1 b 1
+b 1 c 1 h 4 c 2 d 2 h 2 b 1 e 1 h 2 d 2 c 2 h 3 c 1 d 1 b 1
+b 1 c 2 h 2 c 3 b 2 c 1 h 1 e 2 h 1 c 1 b 2 c 2 h 3 c 1 d 1 b 1
+b 1 c 5 b 1 c 1 b 2 c 4 b 2 c 1 b 1 c 4 d 1 b 1
+b 1 c 3 b 1 f 2 c 1 b 2 g 2 b 2 c 1 f 1 c 1 b 1 d 3 b 1
+b 3 c 2 f 2 c 1 b 4 c 1 f 2 c 2 b 3
+b 1 c 1 h 3 f 2 c 4 f 2 h 1 c 2 d 1 b 1
+b 1 c 1 h 4 f 6 h 2 c 2 d 1 b 1
+b 1 c 1 h 4 f 3 h 1 f 3 h 1 c 2 d 1 b 1
+b 1 c 1 h 4 f 2 h 3 f 2 h 1 c 1 d 2 b 1
+b 1 c 2 h 8 c 2 d 2 b 1
+b 2 c 2 h 7 c 3 d 2 b 2
+b 1 h 1 c 1 b 1 c 9 d 3 b 1 h 2 b 1
+b 1 h 2 c 2 b 3 c 5 d 1 b 3 c 1 h 2 c 1 b 1
+b 1 h 2 c 2 b 1 c 1 b 1 d 6 b 1 c 1 b 1 c 2 h 1 c 1 b 1
+b 1 c 3 b 5 d 4 b 5 c 3 b 1
+b 3 h 4 c 1 b 1 c 2 b 1 h 4 c 1 b 3
+b 1 h 4 c 1 b 4 h 4 c 1 b 1
+b 1 h 4 c 1 b 1 b 1 h 4 c 1 b 1
+b 1 c 4 b 1 b 1 c 4 b 1
+b 4 b 4
+
+columns
+b 3
+b 2 c 3 b 1
+b 2 c 2 h 2 c 2 b 1 b 3
+b 1 c 2 h 5 c 2 b 1 b 1 h 2 c 1 b 1
+b 1 c 1 h 7 c 2 b 7 h 3 c 1 b 1
+b 1 c 1 h 6 c 3 b 1 c 5 b 1 c 4 b 4
+b 1 c 10 b 1 c 1 h 4 c 2 b 1 c 2 b 1 h 3 c 1 b 1
+b 2 c 10 b 1 f 1 c 1 h 4 c 2 b 3 h 3 c 1 b 1
+b 4 c 3 h 2 d 1 e 1 d 1 b 1 c 1 f 2 h 4 h 1 c 1 b 1 c 1 b 1 h 3 c 1 b 1
+b 1 h 2 c 2 b 1 c 1 h 3 d 1 e 1 d 1 b 2 c 1 f 2 h 5 c 1 b 3 h 3 c 1 b 1
+b 1 h 2 c 2 b 1 c 1 h 6 c 1 b 2 c 1 f 4 h 2 c 2 d 1 b 1 c 3 b 1
+b 1 h 5 c 1 b 1 h 7 c 1 b 2 c 1 f 3 h 2 c 2 d 2 b 3
+b 1 h 5 c 1 b 1 h 5 b 1 e 1 c 1 g 1 b 1 c 1 f 2 h 3 c 2 d 2 c 1 b 1
+b 1 c 1 h 4 c 1 b 1 h 5 e 2 c 1 g 1 b 1 c 1 f 1 h 4 c 2 d 2 c 1 b 1
+b 1 c 1 h 4 c 1 b 1 h 7 c 1 b 2 c 1 f 2 h 3 c 2 d 2 b 3
+b 1 c 1 h 2 c 1 b 1 c 1 h 6 c 1 b 2 c 1 f 4 h 1 c 2 d 2 b 1 h 3 b 1
+b 1 c 4 b 1 c 1 h 3 d 1 e 1 d 1 b 2 c 1 f 2 h 1 f 2 h 1 c 1 d 1 b 3 h 3 c 1 b 1
+b 4 c 2 h 3 d 1 e 1 d 1 b 1 c 1 f 2 h 4 c 2 d 1 b 1 c 1 b 1 h 3 c 1 b 1
+b 2 c 10 b 1 c 7 d 2 b 3 h 3 c 1 b 1
+b 1 c 2 h 3 c 5 b 1 c 4 d 3 b 1 c 2 b 1 c 4 b 1
+b 1 c 1 h 7 c 1 d 1 b 1 d 5 b 1 h 2 c 2 b 4
+b 1 c 2 h 6 c 1 d 1 b 7 h 3 c 1 b 1
+b 1 c 3 h 4 c 1 d 1 b 1 b 1 c 3 b 1
+b 2 c 5 d 1 b 1 b 3
+b 2 d 3 b 1
+b 3

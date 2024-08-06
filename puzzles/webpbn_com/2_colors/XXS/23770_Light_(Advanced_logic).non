@@ -1,0 +1,27 @@
+by "RB (rb2013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by RB"
+date "Feb  9, 2014"
+description "Flame of a burning candle. See the comments for information about the logic."
+difficulty 2.75
+height 5
+id 23770
+link "https://webpbn.com/play.cgi?id=23770"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Light (Advanced logic)"
+width 5
+
+rows
+1
+1,1
+1,1
+2,1
+1,1
+
+columns
+1,1
+1,1
+1,1
+1,1
+2

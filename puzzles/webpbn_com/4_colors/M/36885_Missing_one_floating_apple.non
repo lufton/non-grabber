@@ -1,0 +1,72 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by gregg licht"
+date "Jun 14, 2023"
+description "A surrealistic image, but the floating apple has gone missing and has been replaced by a pop-up ad from one of those puzzle sites."
+difficulty 1.5
+height 30
+id 36885
+link "https://webpbn.com/play.cgi?id=36885"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Missing: one floating apple"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 8
+black 12
+black 14
+black 14
+black 14
+black 16
+black 16
+black 16
+black 16
+black 16
+black 20
+black 20
+black 1 black 7 black 1
+black 2 black 2
+blue 18
+blue 1 blue 2 blue 1
+blue 1 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 2 blue 2 blue 1 blue 1
+blue 1 blue 2 blue 1 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 1 blue 2 blue 1 blue 1 blue 1
+blue 18
+black 2 black 2
+black 2 black 2
+black 2 black 6 black 2
+black 3 black 1 red 2 black 1 black 3
+black 5 black 1 red 2 black 1 black 5
+black 9 black 9
+black 7 red 2 black 7
+black 8 red 2 black 8
+
+columns
+black 2 black 3
+black 2 blue 7 black 4
+black 9 blue 1 blue 1 black 5
+black 10 black 1 blue 1 blue 1 black 5
+black 11 blue 1 blue 5 black 6
+black 11 blue 1 blue 1 blue 1 blue 1 black 1 black 1 black 4
+black 12 blue 1 blue 1 blue 1 black 2 black 3
+black 13 blue 1 blue 1 black 2 black 1 black 1
+black 13 blue 7 black 4
+black 13 blue 2 blue 1 blue 2 black 1 red 2 red 2
+black 13 blue 1 blue 1 blue 1 blue 1 black 1 red 2 red 2
+black 13 blue 1 blue 1 black 4
+black 13 blue 1 blue 5 black 2 black 1 black 1
+black 13 blue 1 blue 1 blue 1 black 2 black 3
+black 11 blue 1 blue 1 blue 1 black 1 black 1 black 4
+black 11 blue 1 blue 5 black 6
+black 10 black 1 blue 1 blue 1 black 5
+black 9 blue 1 blue 1 black 5
+black 2 blue 7 black 4
+black 2 black 3

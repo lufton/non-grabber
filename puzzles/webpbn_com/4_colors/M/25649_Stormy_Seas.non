@@ -1,0 +1,62 @@
+by "Grace Vaught ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Grace Vaught"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.0
+height 20
+id 25649
+link "https://webpbn.com/play.cgi?id=25649"
+note "published,may be unique,may require some guessing"
+quality 2.5
+title "Stormy Seas"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 black 1 black 2
+black 5 black 7
+black 5 black 7
+black 3 black 7
+black 5
+black 3
+0
+black 2
+red 1 black 2
+black 1 black 2
+black 4
+black 2 black 1
+black 1 black 1
+black 1 black 2
+black 4
+black 1 black 1 black 2 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 11
+black 1 blue 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1 blue 1
+
+columns
+black 1 black 1
+black 2 black 1 blue 1
+black 4 black 1 black 1
+black 4 black 1
+black 4 black 1 blue 1
+black 2 black 1
+black 1 blue 1
+black 1
+black 1
+black 1
+black 1
+black 1 black 1
+black 2
+black 3 red 1 black 8 black 1
+black 5 black 2 black 2 black 3
+black 5 black 4 black 2 black 1
+black 5 black 8
+black 5 black 1
+black 5 black 2 black 1
+black 4 black 1 black 1 blue 1

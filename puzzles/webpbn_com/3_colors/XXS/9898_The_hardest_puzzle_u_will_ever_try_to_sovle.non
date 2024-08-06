@@ -1,0 +1,31 @@
+by "Austin Langer (awl410)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Austin Langer"
+date "Aug  5, 2010"
+description "I was joking"
+difficulty 1.25
+height 5
+id 9898
+link "https://webpbn.com/play.cgi?id=9898"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "The hardest puzzle u will ever try to sovle"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 1 blue 1
+black 1 black 1
+black 5
+0
+
+columns
+black 2
+blue 1 black 1
+black 1
+blue 1 black 1
+black 2

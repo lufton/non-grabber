@@ -1,0 +1,108 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Andrew Schultz"
+date "Feb 12, 2024"
+description "I hit enough of Tom King/SGUSA's puzzles I wanted to try one I didn't see yet. The lyrics seemed to necessitate a relative lack of whitespace, so the PBN itself may be trivial."
+difficulty 2.0
+height 30
+id 38248
+link "https://webpbn.com/play.cgi?id=38248"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Rock song lyric (h/t SGUSA)"
+width 55
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 6
+black 4 red 4 black 4
+black 3 red 8 blue 1 black 3
+black 2 blue 1 black 1 red 7 blue 1 black 1 red 1 black 2 black 27
+black 2 blue 2 black 1 red 6 blue 2 black 1 red 2 black 2 black 25
+black 2 blue 2 black 2 red 5 blue 2 black 2 red 2 black 2 black 1 green 8 black 1 red 3 black 1 blue 4 black 1
+black 2 blue 2 black 2 red 7 blue 2 black 2 red 2 black 2 black 1 green 7 black 1 red 3 black 1 blue 3 black 1
+black 2 blue 2 black 2 red 7 blue 4 black 2 red 2 black 2 black 10 red 3 black 6
+black 1 blue 3 black 1 red 7 blue 6 black 1 red 3 black 1 black 1 blue 7 black 1 red 3 black 1 red 3 black 1
+black 2 blue 3 black 1 red 6 blue 7 black 1 red 3 black 2 black 1 blue 7 black 5 red 3 black 1
+black 1 blue 4 black 1 red 7 blue 6 black 1 red 4 black 1 black 10 blue 3 black 1 red 3 black 1
+black 1 blue 4 black 1 red 6 blue 7 black 1 red 4 black 1 black 1 green 7 black 1 blue 3 black 1 red 3 black 1
+black 2 blue 4 black 1 red 5 blue 8 black 1 red 4 black 2 black 1 green 7 black 10
+black 1 blue 5 black 1 red 4 blue 8 black 2 red 5 black 1 black 10 green 7 black 1
+black 1 blue 5 black 2 red 2 blue 9 black 1 red 6 black 1 black 1 red 3 black 1 blue 3 black 1 green 7 black 1
+black 1 blue 6 black 2 blue 10 black 2 red 6 black 1 black 1 red 3 black 1 blue 3 black 10
+black 1 blue 7 black 2 blue 10 black 2 red 7 black 1 black 1 red 3 black 5 blue 7 black 1
+black 2 blue 7 black 2 blue 8 black 2 red 7 black 2 black 1 red 3 black 1 red 3 black 1 blue 7 black 1
+black 1 blue 7 black 10 red 7 black 1 black 6 red 3 black 10
+black 1 blue 6 black 1 black 1 red 6 black 1 black 1 blue 3 black 1 red 3 black 1 green 7 black 1
+black 2 blue 5 black 5 black 5 red 5 black 2 black 2 blue 2 black 1 red 3 black 1 green 6 black 2
+black 1 blue 7 black 3 black 2 black 3 red 7 black 1 black 4 red 3 black 1 green 3 black 4
+black 2 blue 6 black 2 red 6 black 2 black 3 red 2 black 1 green 2 black 3
+black 2 blue 5 red 5 black 2 black 2 red 1 black 1 green 1 black 2
+black 2 blue 4 black 10 red 4 black 2 black 5
+black 2 blue 3 black 1 black 1 black 2 black 1 black 1 red 3 black 2 black 1
+black 2 blue 2 black 10 red 2 black 2
+black 3 black 3
+black 4 black 4
+black 6
+
+columns
+black 6
+black 4 blue 4 black 4
+black 3 blue 10 black 3
+black 2 blue 14 black 2
+black 2 blue 16 black 2
+black 2 blue 18 black 2
+black 2 blue 2 black 8 blue 10 black 2
+black 2 blue 2 black 2 red 6 black 2 blue 10 black 2
+black 1 blue 2 black 2 red 8 black 2 blue 2 black 2 blue 6 black 1
+black 5 red 9 black 2 black 1 blue 6 black 2
+black 1 red 12 blue 1 black 2 black 2 black 3 black 1
+black 1 red 11 blue 3 black 1 black 2 black 1 black 1 black 1
+black 2 red 10 blue 3 black 1 black 2 black 3 black 2
+black 1 red 8 red 1 blue 4 black 1 black 1 black 1 black 1
+black 1 red 7 blue 5 black 1 black 2 black 3 black 1
+black 1 red 4 red 1 blue 6 black 1 black 2 black 3 black 1
+black 1 red 3 blue 1 blue 7 black 1 black 1 black 1 black 1
+black 2 red 1 blue 10 black 1 black 2 black 3 black 2
+black 1 blue 2 blue 11 black 1 black 2 black 1 black 1 black 1
+black 1 blue 15 black 2 black 2 black 3 black 1
+black 5 blue 10 black 2 black 1 red 6 black 2
+black 1 red 2 black 2 blue 8 black 2 red 2 black 2 red 6 black 1
+black 2 red 2 black 2 blue 5 black 3 red 10 black 2
+black 2 red 2 black 7 red 11 black 2
+black 2 red 18 black 2
+black 2 red 16 black 2
+black 2 red 14 black 2
+black 1 black 3 red 10 black 3
+black 2 black 4 red 4 black 4
+black 3 black 6
+black 2 black 1
+black 2 black 14
+black 2 green 1 black 1 black 1 black 1 black 1 black 1
+black 2 green 2 black 1 blue 2 black 1 green 2 black 1 red 4 black 1 blue 1 black 1
+black 2 green 2 black 1 blue 2 black 1 green 2 black 1 red 4 black 1 blue 2 black 1
+black 2 green 2 black 1 blue 2 black 1 green 2 black 1 red 4 black 1 blue 2 black 2
+black 2 green 2 black 1 blue 2 black 1 green 2 black 10
+black 2 green 2 black 1 blue 2 black 1 green 2 black 1 blue 2 black 1 red 5 black 2
+black 2 green 2 black 1 blue 2 black 1 green 2 black 1 blue 2 black 1 red 6 black 2
+black 2 green 2 black 1 blue 2 black 1 green 2 black 1 blue 2 black 1 red 7 black 1
+black 23
+black 2 red 4 black 1 blue 2 black 1 green 2 black 1 blue 2 black 1 green 5 black 1
+black 2 red 4 black 1 blue 2 black 1 green 2 black 1 blue 2 black 1 green 4 black 2
+black 2 red 4 black 1 blue 2 black 1 green 2 black 1 blue 2 black 1 green 3 black 2
+black 10 green 2 black 1 blue 2 black 1 green 2 black 2
+black 2 blue 2 black 1 red 4 black 1 green 2 black 1 blue 2 black 1 green 2 black 2
+black 2 blue 2 black 1 red 4 black 1 green 2 black 1 blue 2 black 1 green 2 black 1
+black 2 blue 2 black 1 red 4 black 1 green 2 black 1 blue 2 black 1 green 1 black 1
+black 2 blue 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 14
+black 2 black 1
+black 3
+black 2
+black 1
+0

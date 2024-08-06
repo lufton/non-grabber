@@ -1,0 +1,68 @@
+by "myja_myja"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/5/05"
+height 30
+id 16866
+link "https://www.griddlers.net/nonogram/-/g/16866"
+medium_time "0:07:46"
+points 1667
+popularity 63.86
+title "Flower"
+width 15
+
+color a 599cfe
+color b ff0000
+color c ff00b6
+color d 930000
+color e 008800
+color f 7b6623
+
+rows
+0
+b 3 b 3
+b 1 c 1 d 3 b 1 c 1 b 3
+b 7 c 2 d 1 b 1
+b 2 c 2 b 6 d 1 b 1
+b 2 d 3 b 2 c 4 d 1 b 2
+b 1 d 2 b 4 c 2 d 1 b 2 c 1 b 1
+b 1 c 1 b 6 c 1 d 2 b 3
+b 1 c 1 b 3 d 1 c 1 b 2 c 1 d 2 b 1
+b 1 c 2 b 1 d 6 c 1 b 1
+b 2 c 2 b 1 c 2 b 3
+e 2 b 6 e 2
+e 2 b 3 e 2
+e 5
+e 2
+e 2
+f 12
+f 10
+f 8
+f 6
+f 8
+f 10
+f 12
+f 12
+f 12
+f 12
+f 12
+f 10
+f 8
+0
+
+columns
+b 4
+b 3 d 1 c 2 b 1 e 1 f 1 f 5
+b 3 d 2 b 2 c 1 b 1 e 1 f 2 f 7
+b 1 c 1 b 1 c 1 d 1 b 3 c 1 b 2 e 1 f 3 f 9
+b 1 d 1 b 1 c 1 d 1 b 4 c 1 b 1 e 2 f 13
+b 1 d 1 b 5 d 2 c 1 b 2 e 1 f 13
+d 1 b 5 c 1 d 1 b 3 e 3 f 13
+b 4 c 2 b 2 d 1 c 1 b 2 e 3 f 13
+b 1 c 2 b 1 c 3 b 1 d 1 c 1 b 1 e 2 f 13
+b 2 c 1 b 1 c 1 d 2 c 1 d 1 b 1 e 2 f 13
+b 1 d 1 b 1 c 1 b 1 d 3 b 1 e 1 f 3 f 9
+b 2 d 2 b 2 d 1 c 1 b 1 f 2 f 7
+b 2 c 1 b 3 f 1 f 5
+b 3
+0

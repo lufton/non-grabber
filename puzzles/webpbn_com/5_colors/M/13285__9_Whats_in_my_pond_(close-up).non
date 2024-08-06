@@ -1,0 +1,63 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 10, 2011"
+description "The kittens have returned, this time with their fishing poles. I made them put on their little inflatable rubber duckies since they've already fallen out of the canoe once today."
+difficulty 1.5
+height 20
+id 13285
+link "https://webpbn.com/play.cgi?id=13285"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "# 9 What's in my pond? (close-up)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 3
+black 1 black 1
+black 1 black 1
+black 1 black 1 red 2 red 2
+black 1 black 1 red 7
+black 1 black 1 red 1 red 1
+black 1 black 1 red 1 blue 1 blue 1 red 1
+black 1 black 1 red 1 red 1 blue 3
+black 1 black 1 red 7 blue 5
+red 2 black 1 red 7 blue 3 green 1 blue 2
+red 2 black 1 red 7 blue 6 red 1
+black 1 black 1 blue 10
+black 1 blue 10
+black 1 red 8
+green 3 black 1 green 16
+green 3 black 1 green 16
+green 3 black 1 green 16
+blue 3 black 1 blue 16
+blue 3 black 1 blue 16
+
+columns
+green 3 blue 2
+black 9 red 2 black 1 green 3 blue 2
+black 1 red 2 green 3 blue 2
+black 19
+red 2 blue 2 green 3 blue 2
+red 8 blue 2 red 1 green 3 blue 2
+red 2 red 3 blue 2 red 1 green 3 blue 2
+red 1 blue 1 red 3 blue 2 red 1 green 3 blue 2
+red 1 red 3 blue 2 red 1 green 3 blue 2
+red 1 blue 1 red 3 blue 2 red 1 green 3 blue 2
+red 2 red 3 blue 2 red 1 green 3 blue 2
+red 6 blue 4 red 1 green 3 blue 2
+blue 5 red 1 green 3 blue 2
+blue 6 green 3 blue 2
+blue 2 green 1 blue 1 green 3 blue 2
+blue 4 green 3 blue 2
+blue 3 green 3 blue 2
+red 1 green 3 blue 2
+green 3 blue 2
+green 3 blue 2

@@ -1,0 +1,90 @@
+by "ld5"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/15/08"
+height 35
+id 70603
+link "https://www.griddlers.net/nonogram/-/g/70603"
+medium_time "1:53:00"
+points 100725
+popularity 79.78
+title "Jack-o-Lantern"
+width 35
+
+color a 000000
+color b ffcc00
+color c cc6600
+
+rows
+c 3 c 4 c 3 c 6 c 4 c 1 b 4
+c 2 c 2 c 2 c 3 c 3 c 1 b 4
+c 2 c 2 c 1 c 4 c 4 b 4 c 1
+c 2 c 5 c 9 b 1 c 1
+c 1 c 8 c 6 c 1 b 1
+c 1 c 6 c 3 b 1 b 2 c 1
+c 5 c 11 c 2 b 1 c 2
+c 5 b 13 c 3 b 1 b 1 c 3
+c 4 c 1 c 3 c 2 c 2 c 4 c 2 b 1 b 2 c 1
+c 4 c 1 c 3 c 3 c 3 c 4 c 2 b 1 c 1
+c 3 c 1 c 2 c 3 c 1 c 1 c 2 c 1
+c 3 c 1 b 3 c 1 c 1 c 1 b 3 c 1 c 1 c 2
+c 2 c 1 c 1 c 1 c 1 c 1 c 2
+c 1 c 1 c 2 c 5 c 1 c 5 c 1 c 1 c 2
+c 1 c 1 c 1 c 1 c 1 b 4 c 1 b 4 c 2 c 1 c 2
+c 1 c 2 c 1 c 1 c 1 b 1 b 1 c 1 b 1 b 1 c 1 c 1 c 1 c 2
+c 2 c 1 b 1 c 2 b 1 c 1 c 1 c 2
+c 1 c 1 c 1 b 1 c 1 b 2 c 1 b 1 c 1 c 2 c 1
+c 1 c 1 c 1 c 1 c 1 b 2 c 1 c 1 c 2
+c 1 c 1 c 1 c 1 c 1 b 1 b 2 c 1 c 2 c 2
+c 1 c 1 b 1 c 1 c 2 b 1 b 2 c 1 c 1 b 1 c 2
+c 1 c 1 b 1 c 1 c 1 c 1 c 1 c 1 b 2 c 2
+c 1 c 1 b 1 c 2 c 1 c 2 c 1 b 1 b 1 c 2
+c 1 c 1 b 4 c 1 c 1 c 1 b 2 b 4 c 2
+c 1 c 1 c 1 c 1 b 1 b 4 c 1 b 1 c 1 b 5 c 1 c 1 c 2
+c 1 c 1 c 1 c 1 b 1 b 8 c 1 c 1 c 1 c 2
+c 1 c 1 c 2 b 3 b 3 c 1 c 1 c 2
+c 1 c 1 c 2 c 1 c 1 c 1 c 1 c 1
+c 2 c 2 c 2 c 1 c 1 c 1 c 2 c 1
+c 2 c 2 c 3 c 1 c 1 c 2 c 1 c 1
+c 2 c 2 c 3 c 1 c 2 c 4 c 1 c 1
+c 2 c 1 c 3 c 7 c 4 c 1 c 1
+c 3 c 3 c 6 c 3 c 2
+c 2 c 3 c 4 c 3 c 2
+c 1 c 3 c 2 c 3
+
+columns
+c 6 c 7
+c 4 c 6 c 11
+c 1 c 6 c 2 c 2
+c 1 c 5 c 18
+c 2 c 4 c 1 c 2
+c 2 c 3 c 3 c 6 c 1
+c 1 c 3 c 4 b 2 c 5 c 1
+c 1 c 2 c 1 c 8 b 2 c 1 c 3
+c 1 c 1 c 2 c 1 b 2 c 3 c 2
+c 1 c 1 c 1 c 3 c 2 b 1 c 4 c 1
+c 2 c 2 b 1 c 2 b 1 c 1 b 3 c 1 b 2 c 1 c 4 c 1
+c 1 c 2 c 1 b 1 c 2 b 1 c 1 b 1 b 1 b 2 c 4
+c 1 c 3 c 1 b 1 c 1 b 1 c 1 b 1 c 6 b 1 c 3 c 3
+c 3 c 1 b 1 c 1 c 1 c 1 b 2 c 1 b 3 c 2 c 2
+c 3 c 1 b 1 c 3 c 1 c 1 b 1 b 2 c 2 c 1
+c 3 c 1 b 1 c 3 c 2 b 1 c 1 b 2 c 3
+c 2 c 1 b 1 c 3 c 1 b 2 c 1 b 2 c 4
+c 1 c 1 b 1 c 3 c 1 b 3 c 1 b 2 c 4
+c 1 c 1 b 1 c 3 b 2 b 2 c 3
+c 1 c 2 c 1 b 1 c 2 b 1 c 1 b 3 c 3 c 1
+c 1 c 2 c 1 b 1 c 1 c 1 c 3 c 6 b 3 c 3 c 2
+c 2 c 1 b 1 c 2 b 1 c 1 b 3 c 1 b 2 c 4
+c 4 b 1 c 2 b 1 c 1 b 1 b 1 b 1 c 1 c 4
+c 5 c 2 b 1 c 1 b 1 c 1 b 2 c 3
+c 6 c 2 c 1 b 2 c 1 b 2 c 3 c 1
+c 1 c 2 c 2 c 1 b 1 c 1 c 3 c 2
+c 1 c 1 c 2 c 1 c 6 b 3 c 3 c 2
+c 1 c 2 c 1 c 4 c 1 b 2 c 3
+b 2 c 2 c 2 c 5 c 1
+c 1 b 1 b 1 c 2 c 1 c 2
+c 1 b 2 b 1 b 1 c 2 c 15
+b 4 b 3 c 3 c 10
+b 3 c 1 c 3 b 1 c 4
+b 2 c 1 c 2 b 2 c 4
+b 1 c 4 c 3

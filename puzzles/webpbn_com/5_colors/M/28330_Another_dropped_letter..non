@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Jul  8, 2016"
+description "I've got you under my ski"
+difficulty 1.75
+height 20
+id 28330
+link "https://webpbn.com/play.cgi?id=28330"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Another dropped letter."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 3
+green 5 red 3
+green 5 red 5
+green 5 red 1 blue 1 blue 1 red 1
+blue 1 green 3 blue 1 red 1 red 1 black 2
+green 10 red 4 black 2
+green 10 red 2 black 2
+blue 1 green 5 black 1 red 3 black 2 red 2 black 1
+blue 1 green 5 blue 1 red 1 black 2 red 2
+black 1 blue 1 green 3 blue 1 black 2 red 2
+black 1 blue 1 green 3 blue 1 black 2 red 3
+blue 1 black 1 green 3 blue 1 black 1 red 3
+blue 1 black 2 green 1 green 1 black 1 blue 1 red 1 red 1
+blue 1 black 2 green 1 green 1 black 2 blue 1 black 1 black 1
+blue 1 green 1 black 1 green 1 green 1 black 1 green 1 blue 1 black 2 black 2
+blue 1 black 5 blue 1
+blue 3 black 3 blue 3
+black 2 black 2
+black 2 black 2
+
+columns
+black 2 blue 1
+blue 1 green 2 blue 10
+green 2 black 2 blue 1
+green 2 black 2 green 1 black 1
+green 3 green 4 black 3 black 2
+green 15 black 3
+green 12 black 2
+green 15 black 3
+green 3 green 4 black 3 black 2
+green 2 black 2 green 1 blue 1 black 1
+blue 1 green 2 black 1 blue 9
+red 1 black 2 blue 1
+red 4 red 2 black 2 black 1
+red 2 blue 1 red 3 black 2 red 3 black 2
+red 2 red 2 black 2 red 3
+red 2 blue 1 red 1 black 2 red 5 black 2
+red 3 black 2 red 2 black 1
+black 2 red 1
+black 1 black 1
+0

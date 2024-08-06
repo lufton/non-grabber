@@ -1,0 +1,63 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jun 22, 2010"
+description "One of my friend's birds.. Ruby is mostly red, Hazel is mostly green and blue. I don't know what they are exactly but they're frickin crazy!! lol"
+difficulty 2.25
+height 20
+id 9329
+link "https://webpbn.com/play.cgi?id=9329"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Ruby"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6
+green 2 red 2 green 1
+green 2 red 2 blue 1 black 1 red 2
+green 1 red 3 black 1 red 3
+red 7 black 2
+green 1 red 6 black 4
+green 1 red 7 black 3
+red 2 green 2 red 7 black 1
+red 3 green 3 red 5
+red 3 blue 2 green 3 red 2
+red 3 blue 2 red 1 green 1 red 1 green 2 red 2
+red 3 blue 1 red 1 blue 1 red 1 green 4 red 1
+red 2 blue 1 red 1 blue 2 red 1 green 1 red 1 green 3 red 1
+green 1 blue 2 red 1 blue 1 red 3 green 1 red 1 green 3
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 3 green 1 red 1 green 2
+blue 1 red 1 blue 3 red 4 green 1 red 1 green 1 red 1
+blue 1 green 1 blue 3 red 3 red 3 blue 1
+blue 1 green 1 red 1 blue 1 red 1 blue 1 red 1 red 1 red 2 blue 2
+blue 4 red 1 blue 1 red 6 blue 2
+blue 3 red 1 blue 2 red 6 blue 3
+
+columns
+red 3 green 2 blue 5
+red 4 blue 2 red 1 green 2 blue 2
+red 4 blue 2 red 1 blue 2 red 1 blue 2
+red 2 blue 2 red 2 blue 5 red 1
+green 2 red 2 blue 2 red 1 blue 2 red 1 blue 2 red 2 blue 1
+green 2 red 1 green 1 blue 1 red 1 blue 2 red 1 blue 1 red 2 blue 3
+green 2 green 6 red 9
+green 1 red 4 green 3 red 1 green 2 red 4 red 2
+green 1 red 6 green 3 red 1 green 1 red 2 red 3
+green 1 red 7 green 3 red 1 green 2 red 1 red 2
+green 1 red 1 blue 1 black 1 red 6 green 3 red 6
+green 1 red 1 black 1 red 7 green 4 red 4
+green 1 red 7 red 3 green 2 red 1 blue 4
+red 3 black 1 red 3 blue 3
+red 1 black 3 red 1 blue 1
+black 3
+black 3
+0
+0
+0

@@ -1,0 +1,55 @@
+by "helenaukusa"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/31/18"
+height 10
+id 196004
+link "https://www.griddlers.net/nonogram/-/g/196004"
+medium_time "0:01:33"
+points 605
+popularity 58.29
+title "Sunset"
+width 20
+
+color a 483D8B
+color b 660066
+color c 003333
+color d FFFAFA
+color e 990099
+color f DC143C
+color g FF7F50
+color h FFFF00
+
+rows
+d 2
+d 2
+0
+e 3
+b 1 e 5
+b 2 e 9
+c 1 b 2 e 15 h 2
+c 2 b 12 e 3 g 3
+d 1 c 12 b 4 f 3
+d 12 c 4 b 4
+
+columns
+b 2 c 2 d 2
+b 2 c 2 d 1
+d 2 b 2 c 1 d 1
+d 2 e 1 b 1 c 1 d 1
+e 1 b 1 c 1 d 1
+e 1 b 1 c 1 d 1
+e 1 b 1 c 1 d 1
+e 1 b 1 c 1 d 1
+e 1 b 1 c 1 d 1
+e 1 b 1 c 1 d 1
+e 1 b 1 c 1 d 1
+e 2 b 1 c 1 d 1
+e 2 b 1 c 2
+e 2 b 2 c 1
+e 3 b 1 c 1
+e 4 b 1 c 1
+e 4 b 2
+e 4 g 1 f 1 b 1
+e 3 h 1 g 1 f 1 b 1
+e 3 h 1 g 1 f 1 b 1

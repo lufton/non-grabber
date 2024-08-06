@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jun 22, 2013"
+description "Earthworm"
+difficulty 1.75
+height 20
+id 22232
+link "https://webpbn.com/play.cgi?id=22232"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Compound word 13"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2
+blue 4
+blue 4 blue 2 blue 2
+blue 2 blue 8
+blue 8 blue 2
+blue 2 blue 2 blue 4
+blue 4
+blue 2 blue 2
+blue 4
+blue 4
+blue 2
+blue 2
+blue 4
+blue 4
+blue 2
+blue 2
+blue 2 blue 4
+blue 1 black 1 blue 6
+blue 4 blue 2
+blue 2
+
+columns
+0
+blue 2
+blue 4
+blue 4
+blue 2
+blue 2
+blue 4
+blue 4
+blue 2
+blue 2
+blue 4
+blue 4 blue 2
+blue 2 blue 1 black 1 blue 2
+blue 2 blue 4
+blue 4 blue 2
+blue 4 blue 2
+blue 2 blue 2 blue 2 blue 4
+blue 12
+blue 8 blue 2
+blue 2 blue 2

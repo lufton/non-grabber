@@ -1,0 +1,57 @@
+by "Jaime Lee (huileehui)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jaime Lee"
+date "Mar 27, 2011"
+description "That's the Sound of Your Life Running Out."
+difficulty 1.5
+height 20
+id 13049
+link "https://webpbn.com/play.cgi?id=13049"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Tick. Tick. Tick."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1
+red 5
+red 7
+red 9
+black 1
+green 7
+green 1 red 7 green 1
+green 1 red 4 black 1 red 4 green 1
+green 1 red 5 green 1 red 5 green 1
+green 1 red 5 green 1 red 5 green 1
+green 1 red 5 green 1 red 5 green 1
+green 1 red 1 black 1 red 3 green 3 red 1 black 1 red 1 green 1
+green 1 red 11 green 1
+green 1 red 11 green 1
+green 1 red 11 green 1
+green 1 red 4 black 1 red 4 green 1
+green 1 red 7 green 1
+black 1 green 7 black 1
+black 1 black 1
+black 3 black 3
+
+columns
+0
+green 7 black 1
+green 1 red 7 green 1 black 2
+red 1 green 1 red 4 black 1 red 4 green 1 black 1 black 1
+red 2 green 1 red 11 green 1
+red 3 green 1 red 11 green 1
+red 3 green 1 red 11 green 1
+green 1 red 3 black 1 green 1 red 1 black 1 green 4 red 3 black 1 red 1 green 1
+red 3 green 1 red 5 green 1 red 5 green 1
+red 3 green 1 red 5 green 1 red 5 green 1
+red 2 green 1 red 11 green 1
+red 1 green 1 red 4 black 1 red 4 green 1 black 1 black 1
+green 1 red 7 green 1 black 2
+green 7 black 1
+0

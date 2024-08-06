@@ -1,0 +1,68 @@
+by "Richard Alan Crady (Extran)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Richard Alan Crady"
+date "Jan 27, 2017"
+description "A worrier!"
+difficulty 1.75
+height 25
+id 29359
+link "https://webpbn.com/play.cgi?id=29359"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Code:00003(Link Sinor)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 red 1 black 1 blue 3
+green 6 red 1 black 1 blue 3
+green 3 green 4 red 1 black 1 blue 3
+black 3 blue 1 black 1 red 1 blue 3
+black 4 black 1 red 1 black 1 blue 1
+black 4 black 1 red 1 black 1 red 1
+black 4 blue 1 black 1 red 2
+green 10 red 2 black 3
+black 2 green 4 black 2 blue 3 black 3
+black 2 green 4 black 2 blue 2 black 4
+black 2 green 4 black 2 blue 1 black 2 red 1
+black 2 green 4 black 4 blue 1
+black 2 green 4 black 3 blue 2
+black 3 black 3 green 4 black 1 blue 3
+black 6 green 4 blue 3
+black 5 green 4 blue 3
+black 2 red 4 blue 3
+red 6 blue 3
+red 2 red 2 blue 3
+red 2 red 2 blue 3
+red 2 red 2 blue 3
+red 2 red 2 blue 3
+red 2 red 2 blue 3
+red 3 red 3 blue 3
+blue 5 red 4 blue 2 red 4 blue 5
+
+columns
+blue 1
+black 3 blue 1
+black 3 blue 1
+black 4 blue 1
+green 1 black 3 blue 1
+green 2 green 1 black 3 red 1
+green 3 green 1 black 7 red 2
+green 2 green 1 black 6 red 8
+green 3 black 4 green 9 red 9
+green 3 black 4 green 9 red 2 blue 1
+red 1 green 2 black 4 green 9 red 2 blue 1
+black 1 red 1 green 1 blue 1 black 3 green 9 red 9
+black 1 red 1 black 1 green 1 black 5 red 8
+black 1 red 1 black 1 green 1 black 6 red 2
+blue 4 red 1 black 1 blue 1 green 1 blue 3 black 2 blue 11 red 1
+blue 4 black 1 red 1 black 1 red 1 blue 2 black 2 blue 13
+blue 5 black 1 red 2 blue 1 black 2 blue 14
+red 2 black 3 blue 1
+black 3 blue 1
+black 3 red 1 blue 1

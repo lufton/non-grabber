@@ -1,0 +1,82 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Andrew Schultz"
+date "Jan  9, 2024"
+description "My first ever puzzle was titled "needs luck and skill." It was of a 7-10 split, and I put a lot of black in the background because bowling pins were white. Here the bowling ball is trying to hit the 4-pin on its side, and maybe it will slide just right. The one red dot is slightly scuffed so there is no guessing. I still have things I want to do better but I thought I'd sort of revisit it after googling what was the hardest split to pick up. It's not Snake Eyes (the 7-10 split) as I thought, but the Greek Church (4-6-7-8-10 or 4-6-7-9-10). You have to be very unlucky or roll the ball very slowly and straight, and probably hit the 1-pin head on, to get it."
+difficulty 2.0
+height 30
+id 38176
+link "https://webpbn.com/play.cgi?id=38176"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Greek Church, and a retrospective"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2 black 2
+black 4 black 4 black 4
+black 4 black 4 black 4
+red 2 red 2 red 2
+black 4 black 4 black 4
+black 6 black 6 black 6
+black 6 black 6 black 6
+black 6 black 6 black 6
+black 6 black 6 black 6
+black 6 black 6 black 6
+black 4 black 4 red 2 black 4
+black 2 black 2 red 2 black 2
+black 2 black 2
+black 4 black 4
+black 4 black 4
+red 2 red 2
+black 4 black 4
+black 6 black 6
+black 6 black 6
+black 6 black 6
+black 6 black 6
+black 6 black 6
+black 4 red 2 black 4
+black 2 red 1 black 1 black 2
+0
+0
+blue 5
+blue 2 blue 4
+blue 7
+blue 1 blue 2 blue 2
+
+columns
+black 5
+black 2 black 7 blue 3
+black 3 red 1 black 8 blue 3
+black 3 red 1 black 8 blue 1 blue 2
+black 2 black 7 black 5 blue 4
+black 5 black 2 black 7 blue 3
+black 3 red 1 black 8 blue 4
+black 3 red 1 black 8 blue 3
+black 5 black 2 black 7
+black 2 black 7 black 5
+black 3 red 1 black 8
+black 3 red 1 black 8
+black 2 black 7
+black 5
+red 2
+red 1 black 1
+0
+0
+red 2
+red 2
+black 5
+black 2 black 7
+black 3 red 1 black 8
+black 3 red 1 black 8
+black 5 black 2 black 7
+black 2 black 7 black 5
+black 3 red 1 black 8
+black 3 red 1 black 8
+black 2 black 7
+black 5

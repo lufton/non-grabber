@@ -1,0 +1,61 @@
+by "j andrews (910ammo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by j andrews"
+date "Jul  1, 2013"
+description "Blowing fan"
+difficulty 3.25
+height 20
+id 22310
+link "https://webpbn.com/play.cgi?id=22310"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "I need to get A/C"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+blue 5
+blue 1
+black 2 blue 4 black 2
+black 3 blue 1 blue 1 black 4
+black 5 black 5
+blue 1 black 4 black 3 blue 1
+blue 1 blue 1 black 4 black 4 blue 1 blue 1
+blue 1 blue 1 black 2 black 2 blue 1 blue 1
+blue 1 blue 1 black 1 blue 1 blue 1
+blue 1 blue 1 black 2 black 2 blue 1 blue 1
+blue 1 blue 1 black 4 black 4 blue 1 blue 1
+blue 1 black 3 black 1 black 4 blue 1
+black 5 black 1 black 5
+black 4 blue 1 black 1 black 4
+black 2 blue 4 black 2
+blue 1 black 5
+black 1 blue 4 black 2
+black 5
+0
+
+columns
+0
+blue 5
+blue 1
+black 2 blue 4 black 2
+black 4 blue 1 blue 1 black 3
+black 5 black 5
+blue 1 black 3 black 4 blue 1 black 1
+blue 1 blue 1 black 4 black 4 blue 1 black 1 blue 1 black 1
+blue 1 blue 1 black 2 black 2 blue 1 black 1 blue 1 black 1
+blue 1 blue 1 black 1 black 3 blue 1 black 1 blue 1 black 1
+blue 1 blue 1 black 2 black 2 blue 1 black 1 blue 1 black 1
+blue 1 blue 1 black 4 black 4 blue 1 black 3
+blue 1 black 4 black 4 black 1
+black 5 black 5
+black 3 blue 1 blue 1 black 4
+black 2 blue 4 black 2
+blue 1
+blue 5
+0
+0

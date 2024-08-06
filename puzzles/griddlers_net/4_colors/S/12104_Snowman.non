@@ -1,0 +1,51 @@
+by "AdamS"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/8/04"
+height 15
+id 12104
+link "https://www.griddlers.net/nonogram/-/g/12104"
+medium_time "0:02:36"
+points 477
+popularity 49.38
+title "Snowman"
+width 15
+
+color a 000000
+color b b00000
+color c 0000ff
+color d fffefe
+
+rows
+b 1 b 1 c 3
+b 3 c 3
+b 2 c 3
+b 3 c 5
+b 1 d 3
+b 1 d 1 d 1 d 1
+b 1 d 3
+b 1 d 2 d 2
+b 3 d 7
+b 1 d 2 d 2
+b 1 d 5
+b 1 d 3 d 3
+b 1 d 9
+b 1 d 4 d 4
+b 1 d 7
+
+columns
+0
+b 4
+b 14
+b 2 b 1 b 1
+b 1 d 2
+d 1 d 4
+c 1 d 1 d 8
+c 4 d 1 d 9
+c 4 d 3 d 1 d 1 d 1 d 1
+c 4 d 1 d 9
+c 1 d 1 d 8
+d 1 d 4
+d 2
+0
+0

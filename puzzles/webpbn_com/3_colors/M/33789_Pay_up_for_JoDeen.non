@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Mar 30, 2020"
+description "Here are the socks I owe you."
+difficulty 1.5
+height 20
+id 33789
+link "https://webpbn.com/play.cgi?id=33789"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Pay up for JoDeen"
+width 15
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 4
+black 8
+black 4 blue 4
+black 4 blue 4
+blue 8
+blue 8
+blue 8
+blue 8
+blue 8
+blue 9
+blue 3 black 2 blue 5
+blue 3 black 3 blue 5
+blue 5 black 2 blue 6
+black 2 blue 4 blue 4 black 2
+black 3 blue 5 blue 1 black 3
+black 2 blue 6 black 2
+blue 4 black 2
+blue 1 black 3
+black 2
+
+columns
+blue 1 black 2
+black 3 blue 9 black 3
+black 3 blue 10 black 2
+black 3 blue 12
+black 3 blue 6 black 2 blue 5
+black 3 blue 8 black 3 blue 4
+black 3 blue 9 black 2 blue 4
+black 3 blue 11 blue 3 black 2
+black 3 blue 12 blue 1 black 3
+blue 5 black 2
+blue 5
+blue 3 black 2
+blue 1 black 3
+black 2
+0

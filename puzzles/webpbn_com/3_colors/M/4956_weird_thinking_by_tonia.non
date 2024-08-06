@@ -1,0 +1,61 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Feb  8, 2009"
+description "Chicken on wheels (see comments on puzzle 4924)"
+difficulty 2.25
+height 20
+id 4956
+link "https://webpbn.com/play.cgi?id=4956"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "weird thinking by tonia"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1
+black 3 black 3
+black 1 black 3 black 3
+black 1 black 3 black 5
+black 6 black 3 black 1 black 1 red 2
+black 16 red 3
+black 15 red 1
+black 5 black 2 black 1
+black 2 black 4 black 4
+black 2 black 7 black 3
+black 2 black 9
+black 2 black 5 black 2
+black 2 red 1 red 1 black 1
+black 1 red 2 black 3 red 2 black 1
+red 3 black 1 black 2 red 2
+black 2 red 2 black 3 red 2 black 2
+black 4 black 4
+black 4 black 4
+black 2 black 2
+
+columns
+black 3
+black 2 black 2
+black 6 black 4
+black 9 black 4
+black 11 red 1 black 2
+black 1 black 4 black 3 red 2
+black 3 black 1 black 3 red 1
+black 2 black 2 red 2
+black 3 black 4 red 2 black 1
+black 3 black 4 black 1 black 1
+black 3 black 4 black 1 black 1
+black 2 black 4 black 3
+black 1 black 1 black 3 black 3 red 2 black 1
+black 3 black 4 black 1 black 1 red 2
+black 6 black 4 black 1 red 2
+black 2 black 7 red 1 black 2
+black 4 black 2 black 4
+red 3 black 4
+red 2 black 2
+red 1

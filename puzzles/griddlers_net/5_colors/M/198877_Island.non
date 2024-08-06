@@ -1,0 +1,57 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/23/19"
+height 20
+id 198877
+link "https://www.griddlers.net/nonogram/-/g/198877"
+medium_time "0:04:48"
+points 718
+popularity 77.64
+title "Island"
+width 15
+
+color a 99ffff
+color c c98c00
+color d 996600
+color e 00d700
+color f 0000ff
+
+rows
+e 1
+e 3
+e 4
+e 5
+e 8
+e 1 c 1 e 5
+c 1 d 1 e 3 e 1
+d 2 c 1 e 2
+d 2 e 1
+d 2 e 1
+d 2
+f 5 c 1 d 2 c 1 f 6
+f 1 c 7 f 2
+f 2 c 9 f 4
+f 2 c 8 f 1 f 2
+f 4 c 4 f 4
+f 6 f 5
+f 13
+f 1 f 5 f 2
+f 8 f 4
+
+columns
+f 1 f 4 f 2
+f 1 f 4 f 1
+f 2 c 2 f 3 f 1
+f 1 c 3 f 3 f 1
+f 1 c 4 f 2 f 1
+e 1 c 5 f 4
+e 2 d 3 c 4 f 3
+e 1 e 3 c 1 d 5 c 4 f 3
+e 4 c 1 d 3 c 4 f 1 f 2
+e 7 c 1 f 1 c 3 f 1 f 2
+e 8 f 2 c 1 f 4
+e 1 e 4 f 3 f 3 f 1
+e 2 f 1 f 1 f 2 f 1
+e 2 f 1 f 2 f 4
+f 1 f 2 f 4

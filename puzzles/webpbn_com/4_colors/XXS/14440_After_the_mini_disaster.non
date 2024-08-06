@@ -1,0 +1,32 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun  9, 2011"
+description "...and now at the bottom of the sea."
+difficulty 1.0
+height 5
+id 14440
+link "https://webpbn.com/play.cgi?id=14440"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "After the mini disaster"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5
+blue 5
+blue 1 red 1 blue 1 red 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1
+black 5
+
+columns
+blue 4 black 1
+blue 2 red 1 black 2
+blue 4 black 1
+blue 2 red 1 black 2
+blue 4 black 1

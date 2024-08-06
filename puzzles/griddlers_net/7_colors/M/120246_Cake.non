@@ -1,0 +1,56 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/3/12"
+height 16
+id 120246
+link "https://www.griddlers.net/nonogram/-/g/120246"
+medium_time "0:02:37"
+points 514
+popularity 64.28
+title "Cake"
+width 16
+
+color a ffffff
+color b ffff00
+color c ff2c00
+color d edc8bf
+color e ffe0d7
+color f 7e4b1a
+color g e6aa51
+
+rows
+b 1 c 1 b 1 c 1
+c 2 c 2
+c 2 b 1 c 1 c 2
+c 2 c 2 c 2
+c 2 c 2 c 2
+d 3 c 2 d 1 c 2 d 1 c 2 d 3
+d 2 e 5 c 2 e 5 d 2
+d 1 e 6 c 2 e 6 d 1
+d 3 e 10 d 3
+d 16
+f 2 g 12 f 2
+f 3 g 8 f 3
+f 1 g 1 f 10 g 1 f 1
+f 1 g 12 f 1
+f 4 g 4 f 4
+f 8
+
+columns
+d 4 f 1
+d 2 e 1 d 2 f 4
+d 1 e 2 d 2 g 1 f 1 g 2 f 1
+d 1 e 3 d 1 g 1 f 2 g 1 f 1
+b 1 c 5 e 3 d 1 g 2 f 1 g 1 f 2
+c 6 e 3 d 1 g 2 f 1 g 1 f 2
+d 1 e 3 d 1 g 2 f 1 g 2 f 1
+b 1 c 5 e 1 d 1 g 2 f 1 g 2 f 1
+c 6 e 1 d 1 g 2 f 1 g 2 f 1
+d 1 e 3 d 1 g 2 f 1 g 2 f 1
+b 1 c 5 e 3 d 1 g 2 f 1 g 1 f 2
+c 6 e 3 d 1 g 2 f 1 g 1 f 2
+d 1 e 3 d 1 g 1 f 2 g 1 f 1
+d 1 e 2 d 2 g 1 f 1 g 2 f 1
+d 2 e 1 d 2 f 4
+d 4 f 1

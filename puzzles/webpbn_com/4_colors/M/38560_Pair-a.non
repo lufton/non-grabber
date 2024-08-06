@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Apr 26, 2024"
+description "dice"
+difficulty 1.25
+height 15
+id 38560
+link "https://webpbn.com/play.cgi?id=38560"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Pair-a"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+black 12
+black 14
+black 16
+black 2 black 13
+green 1 green 9 black 6
+green 2 blue 3 green 3 black 5
+green 1 blue 1 blue 1 green 4 black 5
+green 2 blue 3 green 1 blue 3 green 1 black 4
+green 7 blue 1 blue 1 green 2 black 3
+green 12 blue 3 green 3 black 2
+green 19 black 1
+
+columns
+black 4 green 1 green 2
+black 4 green 2
+black 3 green 2
+black 3 green 1 green 2
+black 4 green 1 green 2
+black 4 green 1 green 3
+black 4 green 2 green 4
+black 4 green 7
+black 4 green 1 blue 3 green 3
+black 4 green 1 blue 1 blue 1 green 3
+black 4 green 1 blue 3 green 3
+black 4 green 7
+black 4 green 2 blue 3 green 1
+black 4 green 2 blue 1 blue 1 green 1
+black 4 green 1 blue 3 green 1
+black 5 green 4
+black 5 green 3
+black 5 green 2
+black 5 green 1
+black 5

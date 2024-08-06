@@ -1,0 +1,102 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/23/12"
+height 50
+id 126995
+link "https://www.griddlers.net/nonogram/-/g/126995"
+medium_time "0:16:01"
+points 27673
+popularity 78.2
+title "Red Riding Hood"
+width 27
+
+color a ffffff
+color b 663333
+color c ff3366
+color d cc3333
+color e cc6633
+color f ffcc99
+color g 666666
+color h ffff66
+
+rows
+b 1 c 15 b 1
+b 1 c 17 b 1
+b 1 c 19 b 1
+b 1 c 19 b 1
+b 1 d 1 c 19 d 1 b 1
+b 1 d 1 c 19 d 1 b 1
+b 1 d 2 c 5 b 9 c 5 d 2 b 1
+b 1 d 2 c 3 b 2 e 9 b 2 c 3 d 2 b 1
+b 1 d 2 c 2 b 1 e 13 b 1 c 2 d 2 b 1
+b 1 d 3 c 1 b 1 e 15 b 1 c 1 d 3 b 1
+b 1 d 3 b 1 e 17 b 1 d 3 b 1
+b 1 d 2 c 1 b 1 e 17 b 1 c 1 d 2 b 1
+b 1 d 2 b 1 e 2 f 15 e 2 b 1 d 2 b 1
+b 1 d 2 b 1 e 1 f 17 e 1 b 1 d 2 b 1
+b 1 d 2 b 1 e 1 f 2 g 2 f 9 g 2 f 2 e 1 b 1 d 2 b 1
+b 1 d 2 b 1 e 1 f 2 g 2 f 9 g 2 f 2 e 1 b 1 d 2 b 1
+b 1 d 3 e 1 f 2 g 2 f 9 g 2 f 2 e 1 d 3 b 1
+b 1 d 3 e 1 f 17 e 1 d 3 b 1
+b 1 d 3 f 17 d 3 b 1
+b 1 d 3 f 6 c 1 f 3 c 1 f 6 d 3 b 1
+b 1 d 3 f 6 c 3 f 6 d 3 b 1
+b 1 d 3 f 13 d 3 b 1
+b 1 d 4 f 9 d 2 b 1 d 1 b 1
+b 1 d 7 e 1 d 7 b 1
+b 1 d 7 c 1 d 1 c 1 d 7 b 1
+b 1 d 7 c 1 d 1 h 1 d 1 c 1 d 7 b 1
+b 1 c 1 d 6 c 1 d 1 h 1 d 1 c 1 d 6 c 1 b 1
+b 2 c 2 d 3 c 1 d 1 h 3 d 1 c 1 d 3 c 2 b 2
+b 1 f 1 d 2 c 3 d 1 h 5 d 1 c 3 d 2 f 1 b 1
+b 1 f 1 e 2 d 3 h 7 d 3 e 2 f 1 b 1
+b 1 f 1 e 2 h 13 e 2 f 1 b 1
+b 1 f 2 e 1 h 15 e 1 f 2 b 1
+b 1 f 2 e 1 h 15 e 1 f 2 b 1
+b 1 f 2 e 1 h 15 e 1 f 2 b 1
+b 1 f 2 e 1 h 15 e 1 f 2 b 1
+b 1 f 2 e 1 h 15 e 1 f 2 b 1
+b 1 f 2 e 1 h 15 e 1 f 2 b 1
+b 2 h 17 b 2
+b 1 h 17 b 1
+b 1 h 17 b 1
+b 1 h 2 e 1 h 2 e 1 h 2 b 1 h 2 e 1 h 2 e 1 h 2 b 1
+b 2 f 1 e 2 f 1 e 1 b 1 b 1 e 1 f 1 e 2 f 1 b 2
+b 1 f 5 b 1 b 1 f 5 b 1
+b 1 f 5 b 1 b 1 f 5 b 1
+b 1 g 5 b 1 b 1 g 5 b 1
+b 1 b 1 b 1 b 1
+b 2 g 1 b 1 b 1 g 1 b 2
+b 1 g 1 g 1 b 1 b 1 g 1 g 1 b 1
+b 1 g 7 b 1 b 1 g 7 b 1
+b 9 b 9
+
+columns
+b 9
+b 3 d 9 b 2
+b 2 d 14 b 1 b 6
+b 2 d 7 c 1 b 4 d 5 b 1 b 6 f 6 b 1
+b 1 c 8 b 2 e 6 d 4 b 1 b 1 d 1 c 1 b 1 f 9 b 4 b 3
+b 1 c 8 b 1 e 3 f 7 d 3 b 1 d 3 c 1 d 1 e 8 h 4 b 1 b 1 g 2 b 1
+c 8 b 1 e 3 f 9 d 6 c 1 d 1 e 2 h 10 b 6 g 1 b 1
+c 7 b 1 e 4 f 2 g 3 f 5 d 6 c 1 d 1 h 10 e 1 f 3 g 1 g 3 b 1
+c 7 b 1 e 4 f 2 g 3 f 5 d 6 c 1 d 1 h 11 e 1 f 2 g 1 g 1 b 1
+c 6 b 1 e 5 f 11 d 5 c 1 d 1 h 11 e 1 f 2 g 1 g 1 b 1
+c 6 b 1 e 5 f 11 d 4 c 1 d 1 h 11 e 1 f 3 g 1 g 1 b 1
+c 6 b 1 e 5 f 7 c 1 f 3 d 2 c 2 d 1 h 13 e 1 f 2 g 1 g 1 b 1
+c 6 b 1 e 5 f 8 c 1 f 2 d 1 c 1 d 2 h 14 b 9
+c 6 b 1 e 5 f 8 c 1 f 2 e 1 d 1 h 15 b 1
+c 6 b 1 e 5 f 8 c 1 f 2 d 1 c 1 d 2 h 14 b 9
+c 6 b 1 e 5 f 7 c 1 f 3 d 2 c 2 d 1 h 13 e 1 f 2 g 1 g 1 b 1
+c 6 b 1 e 5 f 11 d 4 c 1 d 1 h 11 e 1 f 3 g 1 g 1 b 1
+c 6 b 1 e 5 f 11 d 5 c 1 d 1 h 11 e 1 f 2 g 1 g 1 b 1
+c 7 b 1 e 4 f 2 g 3 f 5 d 6 c 1 d 1 h 11 e 1 f 2 g 1 g 1 b 1
+c 7 b 1 e 4 f 2 g 3 f 5 d 6 c 1 d 1 h 10 e 1 f 3 g 1 g 3 b 1
+c 8 b 1 e 3 f 9 d 1 b 1 d 4 c 1 d 1 e 2 h 10 b 6 g 1 b 1
+b 1 c 8 b 1 e 3 f 7 d 3 b 1 d 3 c 1 d 1 e 8 h 4 b 1 b 1 g 2 b 1
+b 1 c 8 b 2 e 6 d 4 b 1 b 1 d 1 c 1 b 1 f 9 b 4 b 3
+b 2 d 7 c 1 b 4 d 5 b 1 b 6 f 6 b 1
+b 2 d 14 b 1 b 6
+b 3 d 9 b 2
+b 9

@@ -1,0 +1,72 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Jun 15, 2011"
+description "A side view of the back tailfin of a 1959 Cadillac Eldorado Biarritz."
+difficulty 1.75
+height 20
+id 14628
+link "https://webpbn.com/play.cgi?id=14628"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Fins!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 9
+blue 4 red 9
+blue 4 red 11
+blue 13 red 14
+red 18 blue 6 red 1 blue 1
+blue 8 red 5 blue 13 red 2
+blue 12 red 6 blue 6 red 1 blue 1
+red 8 blue 7 red 10
+red 12 blue 6 red 8
+red 15 blue 6 red 5
+red 18 blue 6 red 3
+red 21 blue 2 red 1 blue 3 red 1 blue 1
+red 24 blue 1 red 1 blue 3 red 1
+red 24 blue 1 red 1 blue 3 red 1
+red 4 blue 7 red 13 blue 1 red 1 blue 3 red 1
+red 3 blue 2 black 5 blue 2 red 12 blue 1 red 1 blue 3
+red 2 blue 2 black 1 black 1 blue 2 red 11 blue 4
+blue 3 black 1 blue 3 black 1 blue 14
+blue 3 black 1 blue 1 blue 1 blue 1 black 1 blue 11
+blue 2 black 2 blue 1 blue 1 black 2 blue 5
+
+columns
+blue 1 red 1 blue 2 red 10 blue 3
+blue 1 red 1 blue 2 red 10 blue 3
+blue 1 red 1 blue 2 red 9 blue 3 black 1
+blue 1 red 1 blue 2 red 8 blue 2 black 3
+blue 1 red 1 blue 2 red 7 blue 2 black 1
+blue 1 red 1 blue 2 red 7 blue 1 black 1 blue 1
+blue 1 red 1 blue 2 red 7 blue 1 black 1 blue 1 blue 1
+blue 1 red 1 blue 2 red 7 blue 1 black 1 blue 2
+blue 1 red 2 blue 2 red 6 blue 1 black 1 blue 1 blue 1
+blue 1 red 2 blue 2 red 6 blue 1 black 1 blue 1
+blue 1 red 2 blue 2 red 6 blue 2 black 1
+blue 1 red 2 blue 2 red 7 blue 2 black 3
+blue 1 red 3 blue 2 red 7 blue 3 black 1
+blue 1 red 2 blue 1 red 1 blue 2 red 8 blue 3
+blue 1 red 2 blue 1 red 1 blue 2 red 8 blue 3
+blue 1 red 2 blue 1 red 2 blue 2 red 7 blue 3
+blue 1 red 2 blue 1 red 2 blue 2 red 7 blue 3
+blue 1 red 3 blue 1 red 2 blue 2 red 7 blue 3
+blue 1 red 2 blue 3 red 2 blue 2 red 6 blue 2
+blue 1 red 2 blue 3 red 2 blue 2 red 6 blue 2
+blue 1 red 2 blue 3 red 2 blue 2 red 6 blue 2
+blue 1 red 3 blue 3 red 3 blue 2 red 5 blue 2
+blue 1 red 3 blue 3 red 3 blue 2 red 5 blue 2
+blue 1 red 3 blue 3 red 3 blue 1 red 6 blue 1
+blue 1 red 4 blue 1 red 5 blue 7
+blue 1 red 3 blue 3 red 3 blue 1 red 4 blue 2
+blue 1 red 3 red 1 red 1 blue 6
+blue 1 red 2 red 1 red 1 blue 5
+blue 1 red 1 blue 5
+blue 1 red 1 red 3

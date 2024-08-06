@@ -1,0 +1,62 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Joel Lynn"
+date "Nov 26, 2011"
+description "Emerald cut white diamond in a channel-set blue and white diamond setting, shown in a red velvet box with black velvet under the ring and white satin in the lid"
+difficulty 1.25
+height 20
+id 16526
+link "https://webpbn.com/play.cgi?id=16526"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My favorite sparkly"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1
+red 1 red 1
+red 2 red 2
+red 1 red 1
+red 1 red 1
+red 2 black 12 red 2
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 6 black 6 red 1
+red 1 black 2 blue 3 blue 3 black 2 red 1
+red 1 black 2 black 2 red 1
+red 1 black 2 blue 3 blue 3 black 2 red 1
+red 1 black 6 black 6 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 1 black 14 red 1
+red 2 black 12 red 2
+red 14
+0
+
+columns
+0
+0
+red 3 red 13
+red 4 black 11 red 2
+black 13 red 1
+black 5 blue 1 blue 1 black 5 red 1
+black 5 blue 1 blue 1 black 5 red 1
+black 5 blue 1 blue 1 black 5 red 1
+black 5 black 5 red 1
+black 4 black 4 red 1
+black 4 black 4 red 1
+black 5 black 5 red 1
+black 5 blue 1 blue 1 black 5 red 1
+black 5 blue 1 blue 1 black 5 red 1
+black 5 blue 1 blue 1 black 5 red 1
+black 13 red 1
+red 4 black 11 red 2
+red 3 red 13
+0
+0

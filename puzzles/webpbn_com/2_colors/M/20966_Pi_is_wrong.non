@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jan 25, 2013"
+description "Tau seems to be better. 6.2831853..."
+difficulty 2.25
+height 20
+id 20966
+link "https://webpbn.com/play.cgi?id=20966"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Pi is wrong!"
+width 20
+
+rows
+6,2,8
+0
+6,2
+10,2
+3,2,5
+2,2,2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+3,2
+5
+3
+0
+6,2,8
+
+columns
+1,1
+1,1,1
+1,2,1
+1,2,1
+1,2,1
+1,2,1
+2
+2
+12
+1,14,1
+1,2,4,1
+2,3
+1,2,2,1
+1,2,2,1
+1,2,2,1
+1,2,1,1
+1,2,1
+1,1,1
+1,1
+1,1

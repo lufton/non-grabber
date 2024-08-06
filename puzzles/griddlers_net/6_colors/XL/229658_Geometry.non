@@ -1,0 +1,105 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/6/21"
+height 41
+id 229658
+link "https://www.griddlers.net/nonogram/-/g/229658"
+medium_time "0:13:09"
+points 36981
+popularity 86.36
+title "Geometry"
+width 41
+
+color a 000000
+color b CC66FF
+color d CC0033
+color e CC0099
+color f FF6699
+color g FF3333
+
+rows
+e 13 b 13 f 13
+e 13 b 13 f 13
+e 2 e 2 b 2 b 2 f 2 f 2
+e 2 e 2 b 2 b 2 f 2 f 2
+e 2 e 2 b 2 b 2 f 2 f 2
+e 2 e 2 b 2 b 2 f 2 f 2
+e 2 e 2 b 2 b 2 f 2 f 2
+e 2 g 7 b 2 g 4 d 7 f 2 d 4 f 2
+e 2 g 7 b 2 g 4 d 7 f 2 d 4 f 2
+e 2 g 2 e 2 b 2 g 2 d 2 b 2 f 2 d 2 f 2
+e 2 g 2 e 2 b 2 g 2 d 2 b 2 f 2 d 2 f 2
+e 13 b 4 g 2 b 7 f 4 d 2 f 7
+e 13 b 4 g 2 b 7 f 4 d 2 f 7
+g 2 g 2 d 2 d 2
+b 7 g 2 b 4 b 7 d 2 b 4 b 13
+b 7 g 2 b 4 b 7 d 2 b 4 b 13
+b 2 g 2 b 2 b 2 g 2 d 2 b 2 b 2 d 2 b 2
+b 2 g 2 b 2 b 2 g 2 d 2 b 2 b 2 d 2 b 2
+b 2 g 4 b 2 g 7 d 4 b 2 d 7 b 2
+b 2 g 4 b 2 g 7 d 4 b 2 d 7 b 2
+b 2 b 2 b 2 b 2 b 2 b 2
+b 2 f 7 b 2 f 4 e 7 b 2 e 4 b 2
+b 2 f 7 b 2 f 4 e 7 b 2 e 4 b 2
+b 2 f 2 b 2 b 2 f 2 e 2 b 2 b 2 e 2 b 2
+b 2 f 2 b 2 b 2 f 2 e 2 b 2 b 2 e 2 b 2
+b 13 b 4 f 2 b 7 b 4 e 2 b 7
+b 13 b 4 f 2 b 7 b 4 e 2 b 7
+f 2 f 2 e 2 e 2
+d 7 f 2 d 4 b 7 e 2 b 4 g 13
+d 7 f 2 d 4 b 7 e 2 b 4 g 13
+d 2 f 2 d 2 b 2 f 2 e 2 b 2 g 2 e 2 g 2
+d 2 f 2 d 2 b 2 f 2 e 2 b 2 g 2 e 2 g 2
+d 2 f 4 d 2 f 7 e 4 b 2 e 7 g 2
+d 2 f 4 d 2 f 7 e 4 b 2 e 7 g 2
+d 2 d 2 b 2 b 2 g 2 g 2
+d 2 d 2 b 2 b 2 g 2 g 2
+d 2 d 2 b 2 b 2 g 2 g 2
+d 2 d 2 b 2 b 2 g 2 g 2
+d 2 d 2 b 2 b 2 g 2 g 2
+d 13 b 13 g 13
+d 13 b 13 g 13
+
+columns
+e 13 b 13 d 13
+e 13 b 13 d 13
+e 2 e 2 b 2 b 2 d 2 d 2
+e 2 e 2 b 2 b 2 d 2 d 2
+e 2 e 2 b 2 b 2 d 2 d 2
+e 2 e 2 b 2 b 2 d 2 d 2
+e 2 e 2 b 2 b 2 d 2 d 2
+e 2 g 4 e 2 g 7 f 4 b 2 f 7 d 2
+e 2 g 4 e 2 g 7 f 4 b 2 f 7 d 2
+e 2 g 2 e 2 b 2 g 2 f 2 b 2 d 2 f 2 d 2
+e 2 g 2 e 2 b 2 g 2 f 2 b 2 d 2 f 2 d 2
+e 7 g 2 e 4 b 7 f 2 b 4 d 13
+e 7 g 2 e 4 b 7 f 2 b 4 d 13
+g 2 g 2 f 2 f 2
+b 13 b 4 g 2 b 7 b 4 f 2 b 7
+b 13 b 4 g 2 b 7 b 4 f 2 b 7
+b 2 g 2 b 2 b 2 g 2 f 2 b 2 b 2 f 2 b 2
+b 2 g 2 b 2 b 2 g 2 f 2 b 2 b 2 f 2 b 2
+b 2 g 7 b 2 g 4 f 7 b 2 f 4 b 2
+b 2 g 7 b 2 g 4 f 7 b 2 f 4 b 2
+b 2 b 2 b 2 b 2 b 2 b 2
+b 2 d 4 b 2 d 7 e 4 b 2 e 7 b 2
+b 2 d 4 b 2 d 7 e 4 b 2 e 7 b 2
+b 2 d 2 b 2 b 2 d 2 e 2 b 2 b 2 e 2 b 2
+b 2 d 2 b 2 b 2 d 2 e 2 b 2 b 2 e 2 b 2
+b 7 d 2 b 4 b 7 e 2 b 4 b 13
+b 7 d 2 b 4 b 7 e 2 b 4 b 13
+d 2 d 2 e 2 e 2
+f 13 b 4 d 2 b 7 g 4 e 2 g 7
+f 13 b 4 d 2 b 7 g 4 e 2 g 7
+f 2 d 2 f 2 b 2 d 2 e 2 b 2 g 2 e 2 g 2
+f 2 d 2 f 2 b 2 d 2 e 2 b 2 g 2 e 2 g 2
+f 2 d 7 b 2 d 4 e 7 g 2 e 4 g 2
+f 2 d 7 b 2 d 4 e 7 g 2 e 4 g 2
+f 2 f 2 b 2 b 2 g 2 g 2
+f 2 f 2 b 2 b 2 g 2 g 2
+f 2 f 2 b 2 b 2 g 2 g 2
+f 2 f 2 b 2 b 2 g 2 g 2
+f 2 f 2 b 2 b 2 g 2 g 2
+f 13 b 13 g 13
+f 13 b 13 g 13

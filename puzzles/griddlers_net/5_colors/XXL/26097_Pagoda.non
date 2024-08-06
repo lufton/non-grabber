@@ -1,0 +1,112 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/24/05"
+height 45
+id 26097
+link "https://www.griddlers.net/nonogram/-/g/26097"
+medium_time "0:18:34"
+points 52126
+popularity 68.52
+title "Pagoda"
+width 45
+
+color a 0088f3
+color e 545252
+color f b4b4b4
+color g fffefe
+color h 000000
+
+rows
+h 1
+h 2 h 3 h 2
+h 9
+g 7
+g 2 f 1 g 1 f 1 g 2
+g 2 f 1 g 1 f 1 g 2
+h 2 g 2 f 1 g 1 f 1 g 2 h 2
+h 2 g 7 h 2
+h 13
+h 2 f 19 h 2
+h 19
+g 15
+g 15
+g 1 f 1 g 1 f 1 g 7 f 1 g 1 f 1 g 1
+g 1 f 1 g 1 f 1 g 3 h 1 g 3 f 1 g 1 f 1 g 1
+h 2 g 1 f 1 g 1 f 1 g 2 h 1 f 1 h 1 g 2 f 1 g 1 f 1 g 1 h 2
+h 2 g 4 h 2 f 3 h 2 g 4 h 2
+h 12 f 7 h 12
+h 1 g 6 h 7 g 6 h 1
+h 1 f 1 h 1 g 17 h 1 f 1 h 1
+h 2 f 3 h 2 g 13 h 2 f 3 h 2
+h 2 h 2 f 7 h 2 g 9 h 2 f 7 h 2 h 2
+h 6 f 11 h 9 f 11 h 6
+h 16 g 9 h 16
+g 35
+g 35
+g 5 f 1 g 1 f 1 g 4 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 4 f 1 g 1 f 1 g 5
+g 5 f 1 g 1 f 1 g 4 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 4 f 1 g 1 f 1 g 5
+g 5 f 1 g 1 f 1 g 4 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 4 f 1 g 1 f 1 g 5
+h 1 g 35 h 1
+h 2 g 35 h 2
+h 45
+h 3 g 37 h 3
+g 39
+g 6 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 6
+g 6 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 6
+g 6 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 5 f 1 g 1 f 1 g 6
+g 39
+h 37
+e 37
+e 39
+e 39
+e 41
+e 43
+e 45
+
+columns
+h 1 h 3 e 1
+h 2 h 3 e 2
+h 2 h 2 e 3
+h 2 h 2 g 5 e 5
+h 2 h 1 g 6 h 1 e 6
+h 1 h 2 g 7 h 1 g 6 h 1 e 6
+h 2 h 2 g 7 h 1 g 6 h 1 e 6
+h 2 h 1 f 1 h 1 g 7 h 1 g 6 h 1 e 6
+h 1 h 1 f 1 h 1 g 7 h 1 g 6 h 1 e 6
+h 1 h 1 f 2 h 1 g 7 h 1 g 2 f 3 g 1 h 1 e 6
+h 1 h 1 f 2 h 1 g 2 f 3 g 2 h 1 g 6 h 1 e 6
+h 1 h 1 h 1 f 3 h 1 g 7 h 1 g 2 f 3 g 1 h 1 e 6
+h 1 h 2 f 4 h 1 g 2 f 3 g 2 h 1 g 6 h 1 e 6
+f 1 h 1 h 1 g 1 h 1 f 3 h 1 g 7 h 1 g 6 h 1 e 6
+f 1 h 1 h 1 g 2 h 1 f 2 h 1 g 7 h 1 g 6 h 1 e 6
+h 1 f 1 h 1 g 6 h 1 g 2 h 1 f 2 h 1 g 7 h 1 g 6 h 1 e 6
+h 3 f 1 h 1 g 2 f 3 g 1 h 1 g 3 h 1 f 1 h 1 g 7 h 1 g 6 h 1 e 6
+h 1 h 1 h 1 f 1 h 1 g 6 h 1 g 3 h 1 f 1 h 1 g 2 f 3 g 2 h 1 g 2 f 3 g 1 h 1 e 6
+h 2 h 1 f 1 h 1 g 2 f 3 g 1 h 1 g 4 h 1 g 8 h 1 g 6 h 1 e 6
+h 1 g 5 h 1 f 1 h 1 g 5 h 1 f 1 h 1 g 3 h 1 g 3 f 3 g 2 h 1 g 2 f 3 g 1 h 1 e 6
+h 1 g 5 h 1 f 1 h 1 g 5 h 1 f 1 h 1 g 3 h 1 g 8 h 1 g 6 h 1 e 6
+h 2 g 1 f 3 g 1 h 1 f 1 h 1 g 4 h 1 f 2 h 1 g 3 h 1 g 8 h 1 g 6 h 1 e 6
+h 3 g 5 h 1 f 1 h 1 g 3 h 1 f 3 h 1 g 3 h 1 g 8 h 1 g 6 h 1 e 6
+h 2 g 1 f 3 g 1 h 1 f 1 h 1 g 4 h 1 f 2 h 1 g 3 h 1 g 8 h 1 g 6 h 1 e 6
+h 1 g 5 h 1 f 1 h 1 g 5 h 1 f 1 h 1 g 3 h 1 g 8 h 1 g 6 h 1 e 6
+h 1 g 5 h 1 f 1 h 1 g 5 h 1 f 1 h 1 g 3 h 1 g 3 f 3 g 2 h 1 g 2 f 3 g 1 h 1 e 6
+h 2 h 1 f 1 h 1 g 2 f 3 g 1 h 1 g 4 h 1 g 8 h 1 g 6 h 1 e 6
+h 1 h 1 h 1 f 1 h 1 g 6 h 1 g 3 h 1 f 1 h 1 g 2 f 3 g 2 h 1 g 2 f 3 g 1 h 1 e 6
+h 3 f 1 h 1 g 2 f 3 g 1 h 1 g 3 h 1 f 1 h 1 g 7 h 1 g 6 h 1 e 6
+h 1 f 1 h 1 g 6 h 1 g 2 h 1 f 2 h 1 g 7 h 1 g 6 h 1 e 6
+f 1 h 1 h 1 g 2 h 1 f 2 h 1 g 7 h 1 g 6 h 1 e 6
+f 1 h 1 h 1 g 1 h 1 f 3 h 1 g 7 h 1 g 6 h 1 e 6
+h 1 h 2 f 4 h 1 g 2 f 3 g 2 h 1 g 6 h 1 e 6
+h 1 h 1 h 1 f 3 h 1 g 7 h 1 g 2 f 3 g 1 h 1 e 6
+h 1 h 1 f 2 h 1 g 2 f 3 g 2 h 1 g 6 h 1 e 6
+h 1 h 1 f 2 h 1 g 7 h 1 g 2 f 3 g 1 h 1 e 6
+h 1 h 1 f 1 h 1 g 7 h 1 g 6 h 1 e 6
+h 2 h 1 f 1 h 1 g 7 h 1 g 6 h 1 e 6
+h 2 h 2 g 7 h 1 g 6 h 1 e 6
+h 1 h 2 g 7 h 1 g 6 h 1 e 6
+h 2 h 1 g 6 h 1 e 6
+h 2 h 2 g 5 e 5
+h 2 h 2 e 3
+h 2 h 3 e 2
+h 1 h 3 e 1

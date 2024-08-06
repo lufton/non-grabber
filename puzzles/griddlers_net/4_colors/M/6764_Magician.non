@@ -1,0 +1,71 @@
+by "leondro"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/4/03"
+height 25
+id 6764
+link "https://www.griddlers.net/nonogram/-/g/6764"
+medium_time "0:11:17"
+points 6189
+popularity 66.78
+title "Magician"
+width 25
+
+color a ffffff
+color b ff0000
+color c dde675
+color h 000000
+
+rows
+h 3 c 1
+h 3 b 2 c 1 b 1
+h 3 c 1 b 1 c 2 b 1 c 2
+h 5 b 2 c 3 b 1 b 1
+c 3 b 3 c 5
+c 3 b 1 b 1 c 1 b 1 b 1
+b 5 c 2 b 3
+b 1 h 5 b 1 c 2 b 2 c 1
+b 2 h 6 b 1 h 3 c 2
+b 2 h 7 b 3 h 3
+b 1 h 9 b 1 h 3
+b 1 h 13 b 1
+b 2 h 3 b 1 h 5 b 1 h 3 b 2
+b 5 h 8 b 2 h 1 b 4
+b 6 h 3 c 1 h 3 b 9
+b 6 h 2 c 2 h 2 b 8
+b 7 h 1 c 2 h 2 b 7
+b 7 h 5 b 4
+b 5 h 2 b 1 h 2
+h 2 h 2
+h 2 h 2
+h 2 h 2
+h 2 h 2
+h 2 h 2
+h 3 h 3
+
+columns
+b 2
+b 5
+b 6
+b 7
+b 1 h 1 b 6
+b 2 h 3 b 5
+b 2 h 5 b 4
+b 2 h 3 b 1 h 3 b 3 h 1
+h 1 b 1 h 18
+h 4 c 2 b 1 h 7 c 3 h 8
+h 4 c 2 b 1 h 8 c 2 h 1 b 1
+h 4 c 2 b 1 h 18
+h 1 b 1 h 18
+b 1 h 4 b 6 h 1
+b 2 h 3 b 5
+b 2 h 3 b 4
+b 1 b 1 h 3 b 5
+b 3 h 4 b 5
+c 1 c 2 b 1 c 2 h 3 b 6
+b 2 c 1 b 2 c 2 h 2 b 4
+b 1 c 4 b 1 b 2
+c 2 b 1 c 1 b 2 b 1
+b 1 c 1 b 2
+b 1 c 1 b 1 c 1 b 1 b 1 c 1
+c 1 c 1 c 2

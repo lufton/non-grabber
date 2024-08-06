@@ -1,0 +1,51 @@
+by "willem"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/16/05"
+height 15
+id 24147
+link "https://www.griddlers.net/nonogram/-/g/24147"
+medium_time "0:01:56"
+points 480
+popularity 64.5
+title "Phantom"
+width 15
+
+color a 009dfe
+color b 0000fe
+color d 000000
+color h fffefe
+
+rows
+d 5 d 6
+d 3 d 4
+d 2 d 3
+d 1 h 2 h 2 d 2
+d 1 h 4 h 4 d 2
+d 1 h 2 b 2 h 2 b 2 d 2
+h 2 b 2 h 2 b 2 d 1
+h 2 h 2 d 1
+d 1
+d 1
+d 1
+d 1
+d 1 d 2 d 1 d 1
+d 3 d 2 d 3 d 1
+d 15
+
+columns
+d 6 d 1
+d 3 h 3 d 2
+d 2 h 5 d 3
+d 1 h 2 b 2 h 1 d 2
+d 1 h 1 b 2 d 1
+d 1
+d 3
+h 3 d 3
+h 5 d 1
+d 1 h 2 b 2 h 1 d 1
+d 1 h 1 b 2 d 2
+d 2 d 3
+d 3 d 2
+d 6 d 1
+d 15

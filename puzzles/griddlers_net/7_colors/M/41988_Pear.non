@@ -1,0 +1,61 @@
+by "elychiolo"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/26/07"
+height 21
+id 41988
+link "https://www.griddlers.net/nonogram/-/g/41988"
+medium_time "0:05:17"
+points 2300
+popularity 68.32
+title "Pear"
+width 16
+
+color a ffffff
+color b cc9900
+color c ffcc00
+color d ffff66
+color e ffffcc
+color f 009933
+color g 33cc00
+
+rows
+g 2
+f 1 g 1
+f 1 g 1
+f 1
+c 1 b 3
+d 1 c 2 b 3
+e 1 d 2 c 1 b 3
+e 2 d 2 c 1 b 3
+b 1 e 2 d 2 c 1 b 3
+b 2 d 1 e 1 d 2 c 2 b 2
+b 3 d 1 e 2 d 1 c 2 b 3
+b 2 d 1 e 4 d 1 c 1 b 3
+b 2 d 1 e 5 d 2 c 1 b 2
+b 2 c 1 d 1 e 5 d 2 c 2 b 2
+b 2 c 1 d 3 e 2 d 3 c 2 b 2
+b 2 c 1 d 8 c 2 b 2
+b 2 c 2 d 7 c 2 b 2
+b 2 c 2 d 5 c 3 b 2
+b 2 c 8 b 3
+b 2 c 4 b 5
+b 5
+
+columns
+b 4
+b 6
+b 2 c 4 b 2
+b 2 d 4 c 2 b 2
+b 1 d 1 e 2 d 3 c 2 b 1
+b 2 e 3 d 4 c 2
+b 1 d 1 e 4 d 3 c 2
+b 1 d 1 e 5 d 3 c 2
+e 7 d 4 c 2 b 1
+e 3 d 9 c 1 b 2
+d 5 c 2 d 5 c 2 b 2
+c 2 d 3 c 2 b 1 c 7 b 2
+b 1 c 5 b 3 c 5 b 3
+f 3 b 16
+g 3 b 7 b 6
+g 1 b 4

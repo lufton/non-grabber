@@ -1,0 +1,114 @@
+by "AUTENTICARSE"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/30/04"
+height 40
+id 10411
+link "https://www.griddlers.net/nonogram/-/g/10411"
+medium_time "0:44:28"
+points 129851
+popularity 85.0
+title "Tropical Fish"
+width 50
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color d 0000ff
+color e 009ee1
+color f fffe00
+color g ff7343
+
+rows
+b 50
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 e 3 b 1
+b 1 e 5 b 1
+b 1 e 1 e 3 b 1
+b 1 e 1 e 3 e 2 b 1
+b 1 e 3 e 2 f 6 e 4 b 1
+b 1 e 4 e 5 f 7 e 1 e 2 b 1
+b 1 e 1 e 2 e 5 f 6 e 2 b 1
+b 1 e 2 e 3 f 6 e 3 f 1 b 1
+b 1 e 3 f 5 e 4 f 2 b 1
+b 1 b 3 e 4 f 5 e 4 f 3 b 1
+b 1 b 3 g 3 d 1 e 2 f 5 e 4 f 4 b 1
+b 1 b 3 g 4 d 1 e 2 f 5 e 4 f 1 e 2 f 2 b 1
+b 1 b 5 b 1 g 6 d 2 e 1 f 5 e 4 f 2 e 2 f 2 b 1
+b 1 b 3 g 1 b 2 b 2 g 5 f 1 d 3 f 5 d 1 e 3 f 2 e 1 d 2 f 2 b 1
+b 1 b 3 g 1 f 1 b 1 b 1 g 3 e 1 g 1 f 2 d 3 f 5 d 2 e 2 f 1 e 1 d 1 d 1 f 3 b 1
+b 1 b 2 g 3 f 1 b 1 b 2 g 4 f 2 d 4 f 4 d 5 f 1 e 1 d 3 f 4 b 1
+b 1 b 1 g 1 b 1 g 1 f 1 b 2 f 1 g 3 f 3 d 4 f 5 d 5 f 1 e 1 d 2 g 1 f 3 b 1
+b 1 b 2 g 1 f 1 g 1 f 2 b 1 g 1 f 4 d 5 f 4 d 5 f 2 e 1 g 3 f 2 b 1
+b 1 b 1 g 2 f 6 c 1 f 1 c 1 d 5 f 1 c 1 f 1 c 1 d 4 f 2 e 1 g 3 f 3 b 1
+b 1 b 2 g 2 f 6 c 1 d 5 c 1 f 2 c 1 d 5 f 1 e 1 g 3 e 1 f 2 b 1
+b 1 b 1 g 1 f 5 c 2 d 5 c 1 f 1 c 2 d 5 f 1 e 1 g 3 e 2 f 1 b 1
+b 1 b 3 f 5 c 2 d 6 c 3 d 5 f 1 e 6 f 1 b 1
+b 1 b 3 g 1 f 4 c 2 d 7 c 4 d 4 c 1 f 1 e 5 f 1 b 1
+b 1 b 2 g 3 f 3 c 1 f 1 d 7 c 4 d 4 c 1 f 2 e 4 b 1
+b 1 b 3 g 1 f 5 d 3 c 4 d 5 c 1 f 1 e 4 b 1
+b 1 b 3 g 2 f 5 c 5 d 5 c 1 f 2 e 3 b 1
+b 1 b 2 g 2 b 1 f 5 d 7 c 1 f 2 e 2 b 1
+b 1 f 7 d 7 b 1
+b 1 d 6 b 1
+b 1 d 6 b 1
+b 1 d 5 b 1
+b 1 d 4 b 1
+b 1 d 3 b 1
+b 1 d 2 b 1
+b 1 b 1
+b 50
+
+columns
+b 40
+b 1 b 1
+b 1 b 1
+b 1 e 3 b 1 b 1
+b 1 e 2 e 1 b 2 f 1 b 1
+b 1 e 5 b 1 g 1 f 1 b 1
+b 1 e 5 b 3 g 1 f 1 b 1
+b 1 e 3 b 2 b 3 g 1 b 1 f 1 b 1
+b 1 b 4 b 1 g 1 b 1 g 1 f 2 b 1
+b 1 e 2 b 6 b 2 g 2 f 3 b 1
+b 1 e 2 e 1 b 1 g 1 b 1 g 2 b 3 b 1 g 2 f 4 b 1
+b 1 e 4 b 2 g 2 b 1 g 2 b 3 f 5 b 1
+b 1 e 2 b 1 f 1 g 2 f 1 g 3 f 6 b 1
+b 1 b 1 f 2 g 1 f 1 g 1 f 6 b 1
+b 1 b 2 f 6 c 1 f 1 b 1
+b 1 b 1 f 5 c 1 f 1 b 1
+b 1 b 1 f 1 b 1 f 4 c 1 d 1 b 1
+b 1 b 3 g 2 f 3 c 1 d 2 b 1
+b 1 e 1 b 3 g 3 f 3 c 2 d 2 b 1
+b 1 e 1 b 2 g 5 f 1 c 1 f 1 c 1 d 4 d 3 b 1
+b 1 e 2 b 2 g 4 f 3 c 1 d 5 c 1 d 5 b 1
+b 1 f 1 e 2 b 2 g 3 e 1 g 1 f 2 c 1 d 6 c 1 d 6 b 1
+b 1 f 1 e 2 b 1 g 5 f 2 d 7 c 2 d 6 b 1
+b 1 f 2 e 2 b 1 g 4 f 2 d 7 c 3 d 5 b 1
+b 1 f 2 e 4 g 3 f 2 d 7 c 4 d 5 b 1
+b 1 f 3 e 3 d 10 c 5 d 5 b 1
+b 1 f 4 e 4 d 7 c 1 f 1 c 3 d 5 b 1
+b 1 f 4 e 4 d 3 f 4 c 3 d 5 b 1
+b 1 f 13 c 1 f 1 c 1 d 6 b 1
+b 1 f 14 c 1 d 6 c 1 b 1
+b 1 f 12 c 1 d 6 c 1 f 1 b 1
+b 1 f 10 d 6 c 2 f 2 b 1
+b 1 e 2 f 6 d 7 c 1 f 3 e 1 b 1
+b 1 e 6 d 8 f 3 e 3 b 1
+b 1 e 7 d 6 f 1 e 5 b 1
+b 1 f 1 e 7 d 3 f 2 e 6 b 1
+b 1 f 1 e 6 d 2 f 2 e 1 g 1 e 4 b 1
+b 1 f 10 e 1 g 2 e 3 b 1
+b 1 f 2 e 1 f 2 e 4 g 3 e 2 b 1
+b 1 f 2 e 3 d 3 g 3 e 2 f 1 b 1
+b 1 f 2 e 1 d 1 d 2 g 2 e 2 f 1 b 1
+b 1 f 2 d 3 g 2 f 3 b 1
+b 1 e 2 f 8 b 1
+b 1 e 2 e 1 f 6 b 1
+b 1 e 4 f 3 b 1
+b 1 e 2 f 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 40

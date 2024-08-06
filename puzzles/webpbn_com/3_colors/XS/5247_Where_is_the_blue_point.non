@@ -1,0 +1,41 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar  6, 2009"
+description ""
+difficulty 1.25
+height 10
+id 5247
+link "https://webpbn.com/play.cgi?id=5247"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Where is the blue point?"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 7
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 7 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 7
+black 1 black 1 black 1
+black 8
+
+columns
+black 7
+black 2 black 1
+black 1 black 1 black 1
+black 8 black 1
+black 1 black 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 7
+black 1 black 1 black 1 black 1
+black 2 black 2
+black 8

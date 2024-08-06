@@ -1,0 +1,53 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/24/05"
+height 20
+id 27310
+link "https://www.griddlers.net/nonogram/-/g/27310"
+medium_time "0:03:57"
+points 951
+popularity 49.61
+title "Corn"
+width 10
+
+color a ffffff
+color b 33cc00
+color c 336600
+color d 009900
+color f ffcc33
+color g ff9900
+
+rows
+b 1 b 1
+b 1 b 1
+b 1 d 1 g 1 d 1
+c 1 b 1 d 1 g 1 d 1 b 1
+c 1 b 1 d 1 g 2 d 1 b 1 c 1
+c 2 b 1 d 1 g 2 d 1 b 1 c 1
+c 2 b 1 d 1 g 1 f 1 d 1 b 1 c 1
+c 2 d 1 g 2 f 1 d 2 b 1 c 1
+c 1 b 1 d 1 g 1 f 3 d 1 b 1 c 1
+c 1 b 2 g 1 f 3 d 1 b 1 c 1
+c 1 b 2 g 1 f 3 d 1 b 1 c 1
+b 2 g 1 f 3 d 2 c 1
+b 2 g 2 f 2 d 2 c 1
+c 1 b 1 g 3 d 2 c 2
+c 1 b 2 g 2 d 1 b 1 c 1
+c 1 b 2 g 1 d 1 c 2
+b 1 c 2
+b 1
+b 1
+b 1
+
+columns
+c 8
+c 3 b 5 c 2
+b 3 d 2 b 6 c 1
+b 4 d 3 g 7 b 2
+d 2 g 4 f 4 g 3 b 1
+g 4 f 7 g 3 b 4
+b 2 d 6 f 5 d 3 c 1
+b 4 d 7 b 1 c 2
+b 4 d 2 c 3
+c 10

@@ -1,0 +1,72 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marie-Louise Ambrey"
+date "Jun 14, 2008"
+description "Lion and lion tamer."
+difficulty 2.25
+height 20
+id 2941
+link "https://webpbn.com/play.cgi?id=2941"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Big Top Event"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4 red 1 red 1 red 2 red 2
+blue 4 red 1 red 3 red 2 red 1 red 3
+black 8 red 2 red 2 red 2 black 1 red 1
+black 2 black 1 red 2 red 1 black 2 red 4 black 1
+black 1 black 1 black 2 black 1 red 1 red 1 red 1 black 1
+black 2 black 1 black 1 black 2 red 5 black 1
+black 2 black 2 black 5 red 1 red 1 red 2 black 2
+black 4 black 2 red 5 black 6 red 4 black 2
+black 2 blue 2 black 4 red 1 red 1 black 2 black 2 red 1 red 2 black 1 black 1
+black 2 blue 4 black 2 red 1 red 1 black 2 red 1 red 2 black 3 black 1
+black 2 blue 5 red 1 red 1 red 3 black 5 black 1
+black 5 red 9 black 5 red 1 black 3 black 1 black 1
+black 6 black 9 black 3 black 1
+blue 5 black 1 black 1 black 3 black 6
+black 6 black 2 black 6
+black 7 black 2 black 3
+black 3 black 3 black 7
+black 4 black 2 blue 7
+black 2 black 2 blue 1 blue 1 blue 1 blue 1 blue 1
+black 3 black 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+
+columns
+black 1 black 3
+black 1 black 5
+black 1 blue 1 black 4 black 2 blue 2 black 2 blue 1 black 2 black 3
+black 1 blue 1 black 2 black 3 blue 3 black 2 blue 1 black 6
+black 1 blue 1 black 1 black 2 blue 3 black 2 blue 1 black 4 black 1
+black 1 blue 1 black 2 black 1 black 2 blue 2 red 1 black 1 blue 1 black 4
+black 1 black 1 black 2 blue 1 red 1 black 1 blue 1 black 2
+black 1 black 3 red 1 black 3
+black 3 red 1 black 5
+black 1 red 5 black 4
+red 1 red 1 black 1
+red 5
+red 1 red 1
+red 1 red 1
+0
+red 1 red 1 black 2 black 2
+red 1 red 2 black 4 black 2
+red 2 black 1 black 3 black 3
+red 2 red 1 black 4 black 1 black 2
+red 2 black 1 black 5 black 2 blue 1
+red 1 red 1 black 2 red 2 black 2 red 2 black 3 blue 1
+red 2 red 3 red 2 red 2 black 3 black 1 blue 1 blue 1
+red 3 red 3 red 2 black 6 blue 2
+red 4 red 3 black 3 black 2 blue 1 blue 1
+red 1 red 1 red 4 black 3 black 2 black 1 blue 2
+red 1 red 1 black 3 black 3 black 1 blue 1 blue 1
+black 2 black 5 blue 2
+red 1 black 5 black 7 blue 1 blue 1
+red 3 black 2 black 3 blue 1
+red 2 black 8 blue 1

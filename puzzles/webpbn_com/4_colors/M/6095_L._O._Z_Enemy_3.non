@@ -1,0 +1,55 @@
+by "Mac Vail (MV17)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Mac Vail"
+date "Jun 15, 2009"
+description "The Armos. These guys don't attack until Link touches them. When active, these guys can be really tough and can take an adventurer down if he is inexperienced."
+difficulty 1.75
+height 17
+id 6095
+link "https://webpbn.com/play.cgi?id=6095"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "L. O. Z Enemy #3"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 16
+green 4 black 1 green 1 red 4 green 1 red 1 black 1 green 3
+green 4 black 1 red 2 black 2 red 3 black 1 green 1
+green 4 red 2 black 2 red 2 green 1 green 1
+green 4 red 2 red 2 green 1
+black 1 red 5 black 1 green 1 green 1
+black 1 black 1 black 6 red 1 black 1 green 1
+black 1 red 7 green 1
+black 1 red 6 black 2 green 1
+black 1 red 5 black 4
+black 4 red 3 black 3
+black 1 red 2 black 5 red 1
+black 4 red 4 black 1
+black 1 black 1 black 1 red 4 black 2 red 1 black 1
+black 1 red 3 black 1 red 2 black 1 red 1
+black 7 green 3 red 4 green 1
+green 3 red 4 green 7 green 1
+
+columns
+green 5 black 1 green 1
+green 5 black 1 black 1 black 1 green 1
+green 5 black 1 green 1
+green 5 black 1 red 1
+green 1 black 2 red 2 black 1 black 1 black 1 red 1
+green 2 red 3 black 1 red 1
+green 1 red 2 black 11 red 1
+green 1 red 1 black 2 red 1 black 1 red 3 black 1 red 1 black 1 red 2 green 2
+green 1 red 1 black 2 red 1 black 1 red 3 black 1 red 1 black 1 red 2 green 2
+green 1 red 2 red 1 black 1 red 3 black 3 red 2 green 2
+green 2 red 4 black 1 red 4 black 1 red 2 black 1 red 1 green 1
+green 1 red 5 black 1 red 4 black 1 red 1 black 1 red 2 green 1
+green 1 black 2 green 2 black 1 red 3 black 1 red 1 black 1 red 1 black 1 red 2 green 1
+green 2 green 1 black 1 red 1 black 4 red 2 black 1 red 1 green 1
+green 4 black 3
+green 2 green 4 black 2 red 1 black 2 red 1 green 2

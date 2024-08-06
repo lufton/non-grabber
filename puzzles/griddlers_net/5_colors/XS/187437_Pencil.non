@@ -1,0 +1,44 @@
+by "katjapeter"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/28/17"
+height 19
+id 187437
+link "https://www.griddlers.net/nonogram/-/g/187437"
+medium_time "0:00:22"
+points 20
+popularity 56.08
+title "Pencil"
+width 3
+
+color a ffffff
+color b 000000
+color e 0000ff
+color f 00ffff
+color h 808080
+
+rows
+e 1
+e 1
+e 3
+e 3
+e 3
+e 3
+f 1 e 1 f 1
+f 1 e 1 f 1
+f 3
+f 3
+f 3
+f 3
+f 3
+f 3
+f 3
+h 3
+h 1
+h 1
+b 1
+
+columns
+e 4 f 9 h 1
+e 8 f 7 h 3 b 1
+e 4 f 9 h 1

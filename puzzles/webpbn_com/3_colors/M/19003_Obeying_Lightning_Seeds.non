@@ -1,0 +1,61 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by David Bouldin"
+date "Aug  2, 2012"
+description "...just doing as they told me to... (link in first comment)"
+difficulty 2.25
+height 20
+id 19003
+link "https://webpbn.com/play.cgi?id=19003"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Obeying Lightning Seeds"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1
+0
+blue 2 blue 2
+blue 2 blue 4 black 5
+blue 4 black 2 black 2
+blue 2 black 1 black 2
+black 1 black 1
+black 3 black 1
+blue 2 black 1 black 4 black 1
+blue 2 black 1 black 1 black 1
+blue 1 blue 1 black 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 2
+black 1 black 2 black 3
+black 1 black 1 black 1
+black 2 black 5
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 1
+
+columns
+0
+0
+blue 2 blue 2
+blue 2 blue 2
+0
+blue 1
+blue 2 blue 1
+blue 4
+blue 4 blue 1 black 3
+blue 2 black 5 black 4
+black 1 black 1
+black 3 black 3
+black 4 black 1 black 2 black 1
+black 2 black 1 black 1 black 1 black 3
+black 1 black 2 black 3 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 5 black 3
+black 2 black 3 black 1 black 3
+black 2 black 2 black 4
+black 7

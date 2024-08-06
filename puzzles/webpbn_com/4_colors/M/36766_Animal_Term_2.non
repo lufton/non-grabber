@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Brian Bellis"
+date "May  1, 2023"
+description "Guess the two word term"
+difficulty 2.0
+height 20
+id 36766
+link "https://webpbn.com/play.cgi?id=36766"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Animal Term 2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 5
+black 2 black 1
+black 5 black 1 black 1
+black 3 black 1 black 2
+black 4 black 1 black 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 5
+red 1 black 1 red 5 black 1 black 1 black 1 black 1 black 1
+blue 1 black 1 red 2 black 2 black 1 black 5
+blue 1 black 1 red 2 black 1 black 2 black 5
+red 1 black 1 blue 1 red 2 black 2 black 3
+red 1 black 1 red 2 black 5
+red 1 red 2 blue 1 red 1 black 2 red 5
+red 7 blue 2 red 1 black 1 red 2
+red 7 blue 2 black 1 red 2
+red 1 blue 1 black 1 red 2
+red 2 blue 2 red 2
+red 2 blue 1 red 2
+red 2 black 1 red 2
+red 8
+
+columns
+red 1 blue 2 red 5
+black 6 red 2
+black 4 black 1 red 1 blue 1 black 1 red 2
+black 6 red 1 red 2
+black 1 black 4 red 1 red 2
+black 4 black 1 red 8
+black 2 black 1 red 8
+black 2
+black 6
+0
+black 6 blue 2
+black 2 black 2 red 1 blue 2 red 5
+black 3 red 1 blue 2 red 4
+black 5 black 5 blue 1 red 1
+black 1 black 4 red 1 blue 2 black 1 red 1
+black 6 red 1 red 1
+black 1 black 4 red 1 red 1
+black 5 red 8
+red 8
+0

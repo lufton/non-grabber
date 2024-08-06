@@ -1,0 +1,53 @@
+by "J.D. McLure (cubfan415)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by J.D. McLure"
+date "Aug  5, 2012"
+description "1-up Mushroom."
+difficulty 1.5
+height 16
+id 19481
+link "https://webpbn.com/play.cgi?id=19481"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "SMB1 - Puzzle 3"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 6
+black 3 green 2 black 3
+black 2 green 2 black 2
+black 2 green 1 green 4 green 1 black 2
+black 1 green 10 black 1
+black 2 green 2 green 2 black 2
+black 1 green 1 green 1 black 1
+black 1 green 1 green 1 black 1
+black 1 green 2 green 2 black 1
+black 1 green 5 green 5 black 1
+black 1 green 2 black 10 green 2 black 1
+black 4 black 1 black 1 black 4
+black 2 black 1 black 1 black 2
+black 1 black 1
+black 2 black 2
+black 10
+
+columns
+black 7
+black 3 green 2 black 2
+black 2 green 2 black 4
+black 2 green 2 green 2 black 2 black 2
+black 1 green 6 black 1 black 1
+black 2 green 2 green 1 black 1 black 1
+black 1 green 2 black 3 black 1
+black 1 green 4 black 1 black 1
+black 1 green 4 black 1 black 1
+black 1 green 2 black 3 black 1
+black 2 green 2 green 1 black 1 black 1
+black 1 green 6 black 1 black 1
+black 2 green 2 green 2 black 2 black 2
+black 2 green 2 black 4
+black 3 green 2 black 2
+black 7

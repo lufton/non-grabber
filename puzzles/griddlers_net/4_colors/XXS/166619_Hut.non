@@ -1,0 +1,31 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166619
+link "https://www.griddlers.net/nonogram/-/g/166619"
+medium_time "0:00:12"
+points 11
+popularity 59.08
+title "Hut"
+width 5
+
+color a ffffff
+color b cc3300
+color c 000000
+color d 99ff00
+
+rows
+b 1
+b 3
+b 5
+c 1 c 1
+d 1 c 3 d 1
+
+columns
+b 1 d 1
+b 2 c 2
+b 3 c 1
+b 2 c 2
+b 1 d 1

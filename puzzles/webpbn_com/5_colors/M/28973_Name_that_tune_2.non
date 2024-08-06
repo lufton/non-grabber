@@ -1,0 +1,63 @@
+by "CS Matlock (csmatlock820)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by CS Matlock"
+date "Oct 26, 2016"
+description "The Beatles!"
+difficulty 1.75
+height 20
+id 28973
+link "https://webpbn.com/play.cgi?id=28973"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Name that tune #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 17 black 2
+black 3 black 12 black 1
+black 2 black 10
+black 1 black 10 black 1
+black 2 black 12 black 2
+black 3 black 9 black 6
+black 12 black 5
+black 4 red 3 black 4 black 4
+black 3 red 4 black 5 black 5
+black 3 red 2 black 6 black 6
+black 3 red 2 black 1 black 11
+black 3 red 2 green 2 black 5 black 3
+black 4 green 4 black 3 black 4
+black 4 green 4 black 3 black 5
+black 4 green 1 blue 2 green 1 black 4 black 5
+black 4 blue 2 black 6 black 5
+black 3 blue 2 black 7 black 4
+black 2 blue 2 black 3 black 4 black 3
+black 3 red 4 black 1 black 8
+black 4 black 3 black 7
+
+columns
+black 20
+black 3 black 16
+black 2 black 12 black 2
+black 1 black 2 red 4 black 4 black 1
+black 2 black 2 red 5 green 3 red 1
+black 3 black 3 red 2 green 3 blue 4 red 1 black 1
+black 7 red 2 green 3 blue 4 red 1 black 1
+black 11 green 3 black 3 red 1 black 1
+black 10 black 4
+black 11 black 4
+black 12 black 4
+black 7 black 10
+black 6 black 10
+black 5 black 3 black 4
+black 6 black 3 black 3
+black 2 black 4 black 3 black 3 black 2
+black 1 black 7 black 5 black 2
+black 15
+black 1 black 16
+black 2 black 17

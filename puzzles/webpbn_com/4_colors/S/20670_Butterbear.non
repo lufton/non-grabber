@@ -1,0 +1,52 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Joe"
+date "Dec 24, 2012"
+description "Well, that's I named my teddy bear received on my 3rd Xmas."
+difficulty 2.5
+height 15
+id 20670
+link "https://webpbn.com/play.cgi?id=20670"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Butterbear"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3 green 1
+black 3 black 3 green 2
+black 1 black 1 black 1 black 1 green 1
+black 2 black 1 black 1 black 2 green 2
+black 1 black 1 green 3
+black 1 black 2 black 1 green 1
+black 3 black 3 green 2
+black 2 black 3 black 3 black 2 green 1
+black 1 black 1 red 3 black 1 black 1 green 1
+black 1 black 2 black 2 black 1
+black 1 black 1 black 2 black 2 black 1 black 1
+black 2 black 1 black 1 black 2
+black 1 black 2 black 1 black 1 black 2 black 1 green 1
+black 1 black 3 black 1 green 1
+black 4 black 4 green 2
+
+columns
+black 3
+black 2 black 3
+black 2 black 2 black 1 black 1
+black 1 black 4 black 1 black 1 black 1
+black 2 black 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1 red 1 black 4
+black 1 black 1 red 1 black 1
+black 1 black 1 black 1 black 1 red 1 black 4
+black 1 black 2 black 1 black 1
+black 2 black 2 black 1 black 1 black 1
+black 1 black 4 black 1 black 1 black 1
+black 2 green 1 black 2 black 1 black 1
+green 1 green 2 green 1 black 2 black 3 green 1
+green 9 black 3 green 3

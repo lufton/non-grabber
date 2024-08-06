@@ -1,0 +1,45 @@
+by "natem"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/29/06"
+height 15
+id 39385
+link "https://www.griddlers.net/nonogram/-/g/39385"
+medium_time "0:01:28"
+points 636
+popularity 57.56
+title "Christmas Tree"
+width 9
+
+color a ffffff
+color c 009a00
+color d fffe00
+color e 856800
+
+rows
+c 1
+c 1 d 1 c 1
+c 1
+c 3
+c 2 d 1 c 2
+c 3
+c 1 d 1 c 3
+c 4 d 1 c 2
+c 3
+c 2 d 1 c 2
+c 1 d 1 c 3 d 1 c 1
+c 9
+e 1
+e 1
+e 1
+
+columns
+c 1
+c 1 c 2
+c 1 c 2 c 1 d 1 c 1
+c 1 c 3 d 1 c 5
+c 1 d 1 c 2 d 1 c 4 d 1 c 2 e 3
+c 1 c 4 d 1 c 4
+c 1 c 2 c 1 d 1 c 1
+c 1 c 2
+c 1

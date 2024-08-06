@@ -1,0 +1,57 @@
+by "Bruce Yanoshek (yanogator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Bruce Yanoshek"
+date "Nov 23, 2011"
+description "pumpkin pi"
+difficulty 1.25
+height 20
+id 16497
+link "https://webpbn.com/play.cgi?id=16497"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A seasonal mathematical pun"
+width 20
+
+rows
+2
+2
+2
+8
+12
+15
+17
+13,4
+6,5
+6,2,3,6
+9,3,6
+9,3,6
+9,3,6
+9,3,6
+9,3,6
+6,1,4,6
+6,6,5
+18
+16
+13
+
+columns
+7
+10
+13
+14
+15
+16
+5,5,4
+5,7,3
+5,6,4
+1,5,5
+8,11
+7,11
+5,11
+5,4
+5,7,3
+3,12
+16
+14
+12
+10

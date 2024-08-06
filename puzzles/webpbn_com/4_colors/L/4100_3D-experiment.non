@@ -1,0 +1,82 @@
+by "Agneta (aggge)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Agneta"
+date "Nov 22, 2008"
+description "I have tried to make one of those pictures that look 3D-ish when you look at it with eyes crossed in a weird way. The two dots at the top are supposed to be a help - if you look at them in such a way that it looks like three dots, and you can focus on the middle one, the picture below should have become 3D. It seems to be better to hold the head a bit further away from the screen. I have managed to make it work for me, so I hope it works for you too! :o)"
+difficulty 1.75
+height 20
+id 4100
+link "https://webpbn.com/play.cgi?id=4100"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "3D-experiment"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1
+0
+0
+0
+0
+blue 2 blue 3 blue 3 blue 3 blue 3 blue 3 blue 3
+blue 3 blue 5 blue 5 blue 5 blue 5 blue 5 blue 5
+blue 3 blue 5 blue 5 blue 5 blue 5 blue 5 blue 5
+blue 3 blue 5 blue 5 blue 5 blue 5 blue 5 blue 5
+blue 2 black 2 blue 3 black 3 blue 3 black 2 blue 3 black 1 blue 3 blue 3 blue 3 black 1
+black 3 black 3 black 3 black 3 black 3 black 3
+black 3 black 3 green 1 black 3 green 1 black 3 green 1 black 3 green 1 black 3
+green 3 green 3 green 3 green 3 green 3
+green 5 green 5 green 5 green 5 green 5
+green 3 green 3 green 3 green 3 green 3
+green 1 green 1 green 1 green 1 green 1
+0
+0
+0
+0
+
+columns
+blue 5
+blue 5 black 2 green 1
+blue 3 black 3 green 3
+black 3 green 4
+blue 3 green 3
+blue 5 green 1
+blue 5
+blue 5
+blue 3 black 3
+black 3 green 1
+blue 3 black 3 green 3
+blue 5 green 5
+blue 5 green 3
+blue 5 green 1
+blue 3
+black 3
+blue 3 black 3
+black 1 blue 5 black 2 green 1
+blue 5 green 3
+blue 5 green 5
+blue 3 green 3
+green 1
+blue 3 black 3
+black 1 blue 5 black 2
+blue 5 black 2
+blue 5 green 1
+blue 3 green 3
+green 5
+blue 3 green 3
+blue 5 black 2 green 1
+blue 5 black 2
+blue 5 black 2
+blue 3
+green 1
+blue 3 green 3
+blue 5 green 5
+blue 5 black 2 green 3
+blue 5 black 2 green 1
+blue 3 black 3
+0

@@ -1,0 +1,57 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Jun 13, 2004"
+description "A Chess knight."
+difficulty 1.75
+height 25
+id 56
+link "https://webpbn.com/play.cgi?id=56"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "No Pawn"
+width 15
+
+rows
+1,1
+2,2
+6
+7
+6,2
+8,1
+2,5,2
+10,1
+11,1
+12,2
+6,5,1
+2,1,6,1
+1,7,1
+8,1
+9,1
+11
+12
+12
+12
+12
+6
+10
+10
+12
+12
+
+columns
+3
+4
+4,1
+7,4,2
+3,7,6,4
+5,4,7,4
+8,13
+8,14
+24
+25
+1,20
+2,18
+3,10,4
+4,5,4
+11,2

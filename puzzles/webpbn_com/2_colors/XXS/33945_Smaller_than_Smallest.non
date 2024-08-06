@@ -1,0 +1,27 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by David Bouldin"
+date "Apr 22, 2020"
+description "In puzzle #3790, Jota declared her elephant to be the world's smallest. Well...all records must fall!"
+difficulty 1.0
+height 5
+id 33945
+link "https://webpbn.com/play.cgi?id=33945"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Smaller than Smallest"
+width 5
+
+rows
+2
+5
+5
+3,1
+1,1
+
+columns
+4
+3
+5
+3
+3

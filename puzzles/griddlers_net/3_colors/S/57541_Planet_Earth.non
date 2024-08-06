@@ -1,0 +1,50 @@
+by "asta_lam"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/28/08"
+height 15
+id 57541
+link "https://www.griddlers.net/nonogram/-/g/57541"
+medium_time "0:03:31"
+points 430
+popularity 49.27
+title "Planet Earth"
+width 15
+
+color a 0033ff
+color b 000000
+color c 009900
+
+rows
+b 4 b 4
+b 3 c 5 b 3
+b 2 c 7 b 2
+b 1 c 8 b 1
+c 10
+c 2 c 11
+c 2 c 9
+c 3 c 9
+c 3 c 6
+c 2 c 3
+0
+b 1 c 4 b 1
+b 2 c 3 b 2
+b 3 b 3
+b 4 b 4
+
+columns
+b 4 c 5 b 4
+b 3 c 5 b 3
+b 2 c 2 b 2
+b 1 c 2 b 1
+c 3
+c 6
+c 8
+c 8
+c 9
+c 9
+c 9 c 2
+b 1 c 7 c 2 b 1
+b 2 c 4 c 2 b 2
+b 3 c 3 c 1 b 3
+b 4 b 4

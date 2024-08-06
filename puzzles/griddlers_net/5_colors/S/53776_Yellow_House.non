@@ -1,0 +1,48 @@
+by "victorbz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/21/07"
+height 11
+id 53776
+link "https://www.griddlers.net/nonogram/-/g/53776"
+medium_time "0:01:33"
+points 214
+popularity 59.27
+title "Yellow House"
+width 15
+
+color a ffffff
+color b 5d5d0b
+color c 999900
+color d ffff33
+color e 000000
+
+rows
+e 1
+e 3
+e 2 e 2
+e 6
+e 7
+d 6
+c 1 c 1 d 2 e 2 d 2
+c 4 c 1 d 2 e 2 d 2
+c 5 b 6 c 2 b 2
+c 6 b 4 c 2 b 3
+c 5 b 4 c 2 b 4
+
+columns
+c 4
+c 5
+c 4
+c 5
+c 3
+c 1 b 1 c 1 b 1
+b 3
+b 3
+e 1 b 3
+e 2 d 3 b 2 c 1
+e 3 d 3 b 1 c 2
+e 4 d 1 e 2 c 2 b 1
+e 2 e 2 d 1 e 2 c 1 b 2
+e 4 d 3 b 3
+e 3 d 3 b 3

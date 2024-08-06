@@ -1,0 +1,61 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar  4, 2011"
+description "Diet Coke can."
+difficulty 2.0
+height 20
+id 12538
+link "https://webpbn.com/play.cgi?id=12538"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "In tight 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2 red 2 black 1 black 3
+red 2 red 2 black 2 black 3
+red 2 red 2 black 1 black 2
+red 9 black 2 black 2
+red 6 black 1 black 2
+black 1 black 2
+black 1 black 2
+red 2 red 2 black 1 black 2
+red 3 red 5 black 1 black 1
+red 3 red 6 black 2 black 1
+red 2 red 6 black 1 black 1
+red 1 red 4 black 1 black 1
+red 1 red 4 black 1 black 1
+red 1 red 5 black 1 black 1
+red 1 red 5 black 1 black 2
+red 13 black 1 black 2
+red 12 black 1 black 2
+red 9 black 2 black 2
+black 1 black 3
+black 1 black 3
+
+columns
+red 9
+red 4 red 3
+red 3 red 3
+red 3
+red 3 red 3
+red 4 red 3
+red 2 red 3
+red 2 red 3 red 3
+red 2 red 4 red 3
+red 2 red 3 red 5
+red 2 red 9
+red 2 red 9 black 2
+red 4 red 7 black 1
+red 4 red 5 black 3
+black 2 black 4
+black 3 black 2
+black 7
+black 2 black 2
+black 8 black 6
+black 20

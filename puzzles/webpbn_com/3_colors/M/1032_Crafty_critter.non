@@ -1,0 +1,61 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Marie-Louise Ambrey"
+date "Jul  4, 2007"
+description "A fox."
+difficulty 2.25
+height 20
+id 1032
+link "https://webpbn.com/play.cgi?id=1032"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Crafty critter"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 5
+red 2 red 2 red 1 red 1
+red 2 red 2 red 2 red 1
+red 5 red 4 red 1
+black 1 red 1 black 1 red 3 red 5 red 1
+black 1 red 5 red 2 red 7
+red 1 red 1 red 6
+red 3 red 2 red 5
+red 1 red 2 red 4
+red 1 red 4 red 5
+red 1 red 4 red 4
+red 1 red 4 red 4
+red 1 red 5 red 3
+red 1 red 7 red 2
+red 1 red 9 red 2
+red 12 red 3
+red 2 red 2 red 9
+red 1 red 1 red 8
+red 1 red 1 red 5
+red 2 red 2 red 6
+
+columns
+black 1 red 1
+red 2 red 1 red 1
+red 3 black 1 red 1 red 1 red 4 red 1
+red 3 red 3 red 6
+red 1 black 1 red 1 red 2
+red 3 red 1 red 1
+red 4 red 2 red 6
+red 2 red 7 red 4
+red 1 red 1 red 7 red 1
+red 9 red 1
+red 10
+red 9
+red 5 red 8
+red 8 red 7
+red 10 red 5
+red 1 red 9 red 2
+red 1 red 9 red 3
+red 1 red 2 red 8
+red 1 red 1 red 5
+red 5

@@ -1,0 +1,38 @@
+by "Andrew Eckler ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Andrew Eckler"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.25
+height 8
+id 27692
+link "https://webpbn.com/play.cgi?id=27692"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Robot"
+width 8
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 blue 4 black 1
+black 1 blue 1 green 1 black 2 green 1 blue 1 black 1
+black 1 blue 1 black 4 blue 1 black 1
+blue 1 black 4 blue 1
+blue 1 black 1 black 1 blue 1
+black 1 blue 4 black 1
+black 2
+
+columns
+black 2
+black 1 blue 4 black 1
+blue 1 green 1 black 3 blue 1
+blue 1 black 3 blue 1 black 1
+blue 1 black 3 blue 1 black 1
+blue 1 green 1 black 3 blue 1
+black 1 blue 4 black 1
+black 2

@@ -1,0 +1,47 @@
+by "Josh DeClusin (BatJosh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Josh DeClusin"
+date "Oct  2, 2019"
+description ""
+difficulty 1.25
+height 13
+id 32987
+link "https://webpbn.com/play.cgi?id=32987"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Yin Yang"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 13
+blue 5 blue 5
+blue 3 black 1 black 2 blue 3
+blue 2 black 3 blue 2
+blue 2 black 4 blue 2
+blue 1 black 6 blue 1
+blue 1 black 6 blue 1
+blue 1 black 5 blue 1
+blue 2 black 5 blue 2
+blue 2 black 6 blue 2
+blue 3 black 1 black 3 blue 3
+blue 5 black 3 blue 5
+blue 13
+
+columns
+blue 13
+blue 5 blue 5
+blue 3 blue 3
+blue 2 blue 2
+blue 2 blue 2
+blue 1 black 3 blue 1
+blue 1 black 1 black 2 black 2 black 1 blue 1
+blue 1 black 8 blue 1
+blue 2 black 9 blue 2
+blue 2 black 9 blue 2
+blue 3 black 7 blue 3
+blue 5 black 3 blue 5
+blue 13

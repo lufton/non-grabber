@@ -1,0 +1,76 @@
+by "seka (Seka.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by seka"
+date "Mar 29, 2009"
+description "It's kind of messy, but it's supposed to be a dolphin leaping out of the water."
+difficulty 3.0
+height 35
+id 5457
+link "https://webpbn.com/play.cgi?id=5457"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Leaping"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+0
+black 5
+black 2 blue 4 black 3
+black 4 blue 4 black 2
+black 2 blue 1 black 1 blue 6 black 2
+black 2 blue 1 black 1 blue 3 black 1 blue 3 black 1 blue 1
+black 1 blue 2 black 1 blue 2 black 3 blue 1 black 5
+black 1 blue 1 black 1 blue 2 black 8 blue 3 black 1
+blue 1 black 5 black 9
+black 3 black 1 blue 1 black 1 blue 1 black 6
+black 2 black 2 blue 1 black 4
+blue 1 blue 1 black 1 blue 2 black 3 blue 1
+blue 2 blue 1 black 2 blue 1 black 4 blue 2
+blue 3 blue 1 black 2 blue 1 black 3 blue 1
+blue 1 blue 3 black 2 black 3 blue 1
+blue 2 blue 3 black 1 blue 2 black 2 blue 2
+blue 4 blue 4 black 1 blue 1 black 2 blue 3
+blue 4 blue 1 blue 3 black 1 blue 1 black 1 blue 4
+blue 4 blue 1 blue 2 black 3 blue 4
+blue 4 blue 1 black 1 blue 1 black 5 blue 2
+blue 4 black 3 blue 1 black 5 blue 1 blue 1
+blue 5 black 1 blue 2 black 5 blue 1 blue 2
+blue 5 blue 1 blue 1 black 5 blue 5
+blue 5 blue 3 black 5 blue 3
+blue 8 blue 2 black 1 blue 1 black 1 blue 3
+blue 8 blue 3 blue 2 black 1 blue 3
+blue 7 blue 4 black 1 blue 3
+blue 7 blue 1 blue 3 blue 4
+blue 4 blue 2 blue 2 blue 5
+blue 1 blue 9 blue 2 blue 4
+blue 12 blue 3 blue 1
+blue 11 blue 1 blue 5
+blue 9 blue 4 blue 4
+blue 20
+
+columns
+blue 1 blue 1 blue 20
+blue 1 blue 14 blue 4
+black 3 black 2 blue 2 blue 13 blue 4
+black 2 blue 2 black 3 blue 1 blue 18
+black 2 blue 2 black 3 blue 2 blue 7 blue 5
+black 2 blue 1 black 1 blue 1 black 1 blue 1 blue 5 blue 4 blue 5
+black 4 blue 2 black 1 blue 5 blue 1 black 1 blue 6 blue 5
+black 1 blue 1 black 1 blue 3 black 4 blue 3 black 2 blue 3 blue 6
+black 1 blue 4 black 2 blue 1 black 3 blue 3 black 2 blue 3 blue 7
+black 1 blue 4 black 2 blue 2 black 2 blue 5 blue 3 blue 3 blue 1
+black 1 blue 3 black 3 blue 2 black 2 black 4 blue 4 blue 3 blue 1
+black 2 blue 4 black 2 blue 1 black 2 black 5 blue 3 blue 2 blue 2
+black 2 blue 2 black 5 blue 1 black 8 blue 3 blue 2
+black 3 blue 1 black 3 blue 1 black 3 blue 3 black 7 blue 1 blue 2 blue 3
+black 20 blue 2 blue 2 blue 2
+black 1 blue 1 black 9 blue 1 black 4 blue 1 blue 2 blue 1
+black 1 blue 1 black 2 black 3 blue 6 blue 7
+blue 1 black 2 blue 4 blue 8 blue 3
+black 3 blue 2 blue 4 blue 9 blue 3
+blue 1 black 2 blue 2 blue 5 blue 14

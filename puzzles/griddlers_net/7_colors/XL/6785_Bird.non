@@ -1,0 +1,104 @@
+by "ulka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/7/03"
+height 40
+id 6785
+link "https://www.griddlers.net/nonogram/-/g/6785"
+medium_time "1:02:49"
+points 94075
+popularity 78.75
+title "Bird"
+width 40
+
+color a ffffff
+color b ff0000
+color c ffea00
+color e 7083a2
+color f a4715c
+color g 7b3f3b
+color h 000000
+
+rows
+h 5
+h 8
+b 2 h 7
+b 4 e 1 h 3
+e 1 b 2 e 1 e 1 h 5
+f 3 e 1 h 2 e 2 h 1 e 1 h 2
+f 5 e 1 h 2 f 2 e 1 h 1 g 1
+f 1 e 1 b 2 e 2 f 2 g 1 e 1 h 1 g 1
+b 3 e 1 f 1 g 1 e 1 h 1 g 2
+b 1 b 2 e 2 h 1 g 2 f 1
+b 2 e 3 h 2 g 1 f 3 g 1
+b 1 h 2 g 2 f 2 g 1 f 1 g 3
+e 1 h 2 g 1 f 2 g 3 f 3 g 1
+e 3 f 1 f 1 h 3 g 1 f 3 g 1 f 3 g 1
+f 1 f 1 f 1 f 2 h 4 g 2 f 2 g 2 f 1 g 1
+e 2 e 1 e 1 e 1 h 5 c 2 g 2 f 3 g 1
+e 1 f 1 f 1 e 1 f 1 h 3 c 4 g 2 f 1 g 1 f 2 g 1
+e 2 f 2 h 3 c 5 g 1 f 2 g 3
+f 1 e 2 f 2 e 1 f 1 h 1 c 7 f 1 g 1 f 3 g 1
+e 1 e 2 f 1 f 1 h 1 c 8 g 1 f 3 g 1
+e 1 f 1 f 1 h 1 c 3 h 1 e 1 h 1 c 2 g 5
+e 2 h 1 c 3 h 4 e 1 h 1 g 1 f 2 g 1
+e 1 f 1 h 1 c 2 h 4 e 1 h 2 g 1 f 1 g 2
+e 2 f 1 h 1 c 2 h 1 e 1 h 2 e 1 h 2 g 2 h 1
+e 1 f 1 h 1 c 1 h 2 e 1 h 2 e 1 h 2 g 1 h 2
+e 3 h 4 e 1 h 4 h 2 f 1
+e 2 h 3 e 1 h 1 e 1 h 1 e 1 h 1 f 3
+e 4 e 2 h 4 e 1 h 1 e 2 f 1 e 1
+g 1 e 5 e 2 g 1 h 2 e 1 h 1 f 1 e 2 e 2
+g 3 e 5 g 2 h 1 h 1 f 4 e 2
+g 2 g 2 g 2 h 2 f 2 h 1
+g 2 h 1 h 1 h 2
+g 2 h 4
+g 2 g 2 e 1 h 3
+g 2 e 1 h 1 e 1
+g 2 g 2 e 1 e 1
+g 1 g 1 e 1 e 1 e 1
+e 1 e 2
+e 2
+0
+
+columns
+f 1
+f 1
+f 2 e 1 f 1 e 3 f 1
+e 1 f 3 b 2 e 2 e 1 f 1 e 5
+b 2 f 2 e 1 b 3 e 1 f 1 e 1 f 1 e 3
+h 1 b 3 e 2 b 2 f 1 e 1 f 1 f 1 e 3 g 1
+h 1 b 2 e 1 h 2 b 3 e 1 f 2 e 1 e 2 g 2
+h 3 b 1 h 2 e 2 b 1 f 1 e 1 f 1 e 2 e 3 g 2
+h 3 e 1 e 1 e 1 f 1 e 2 g 2
+h 3 e 2 f 1 e 1 h 2 f 2 e 1 f 1 e 2 g 1
+h 3 e 1 h 1 f 1 g 1 e 1 h 3 f 1 h 3 f 2 e 2
+h 3 h 1 f 2 e 1 h 1 g 2 h 7 f 1 e 1 g 1 g 2
+h 4 e 1 f 1 g 1 e 1 h 1 g 1 f 1 h 5 c 2 h 2 f 1 e 2 g 1 g 1
+h 3 e 1 h 1 g 1 f 2 g 1 h 2 c 6 h 1 f 1 e 1 g 1
+h 3 e 2 h 1 g 1 f 2 g 1 f 1 h 2 c 7 h 1 f 1 e 1 g 2
+h 4 g 2 f 1 g 2 f 1 g 1 c 9 h 1 e 1 g 2 g 1
+g 3 f 3 g 1 f 1 g 1 c 5 h 3 c 2 h 1 e 1 g 2 g 2
+g 2 f 1 g 1 f 1 g 2 c 3 e 1 h 5 e 1 g 2
+g 1 f 3 g 3 c 2 h 3 e 1 h 3 e 2 g 2
+g 1 f 2 g 1 f 4 c 2 h 3 e 1 h 2 e 1 g 2
+g 1 f 1 g 1 f 1 g 1 f 1 g 2 c 1 e 2 h 2 e 1 h 2
+g 1 f 3 g 1 f 2 g 1 h 2 e 1 h 2 e 1 h 1
+g 2 f 1 g 1 f 2 g 2 h 2 e 1 h 4
+g 2 f 2 g 1 f 1 g 1 h 3 e 1 h 3
+g 3 f 2 g 1 h 3 e 1 h 1
+g 5 e 2 h 4
+g 1 h 5 f 1
+h 2 f 1 e 2 f 1
+f 2 e 2 f 1
+f 2 f 1
+e 2 f 2
+e 2 f 1 h 1
+e 1 h 1
+h 3 e 1
+h 3 e 1
+h 3 e 2
+h 1 e 2
+e 1 e 1 e 1
+e 1 e 1
+e 2

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Brian Bellis"
+date "Dec 30, 2023"
+description "Your voice"
+difficulty 2.5
+height 20
+id 38153
+link "https://webpbn.com/play.cgi?id=38153"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Throw #7"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 1
+black 1 red 1
+black 2 red 1
+black 3 red 1
+black 4 red 1
+black 5 red 1
+black 6 red 1
+black 8 red 1
+black 3 red 1
+red 1 black 3 green 2 red 1
+red 1 black 1 green 4
+red 1 green 4
+green 5
+green 3
+black 1
+black 5
+black 1 black 1
+black 1 black 1
+black 3
+0
+
+columns
+0
+0
+0
+0
+0
+red 1
+black 1 red 1
+black 3 red 1
+black 3 green 1
+red 1 black 8 green 3
+red 1 black 6 red 1 green 4
+red 1 black 5 red 1 green 4
+red 1 black 4 green 3 black 2
+red 1 black 3 green 2 black 3
+red 1 black 2 green 1 black 1 black 1
+red 1 black 1 black 1 black 1
+red 1 black 1 black 1
+black 2
+0
+0

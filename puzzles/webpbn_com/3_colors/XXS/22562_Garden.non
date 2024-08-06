@@ -1,0 +1,31 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Aug  9, 2013"
+description "by Ann"
+difficulty 1.0
+height 5
+id 22562
+link "https://webpbn.com/play.cgi?id=22562"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Garden"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3
+black 1 black 1
+black 3
+green 1 green 1 green 1
+green 3
+
+columns
+green 1
+black 3 green 1
+black 1 black 1 green 2
+black 3 green 1
+green 1

@@ -1,0 +1,69 @@
+by "sobat"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/8/08"
+height 25
+id 70392
+link "https://www.griddlers.net/nonogram/-/g/70392"
+medium_time "0:11:24"
+points 6829
+popularity 60.17
+title "Rubik's Cube"
+width 22
+
+color a ffffff
+color b 009900
+color c ff9900
+color d ffff00
+color e 000000
+
+rows
+e 3
+e 4 b 1 e 1
+e 4 b 1 e 1 b 3 e 1
+e 3 b 1 e 1 b 3 e 1 b 2 e 3
+e 2 b 3 e 1 b 2 e 5 b 2 e 1
+e 2 b 2 e 5 b 2 e 1 b 4 e 1
+e 1 c 1 e 3 b 2 e 1 b 4 e 1 b 3 e 2
+e 1 c 2 e 1 b 4 e 1 b 3 e 5 b 1 e 1
+e 1 c 2 e 2 b 3 e 5 b 1 e 1 b 4 e 1
+e 2 c 1 e 1 c 1 e 4 b 1 e 1 b 4 e 1 b 4 e 1
+e 1 c 1 e 2 c 2 e 1 b 4 e 1 b 4 e 6
+e 1 c 2 e 1 c 2 e 2 b 4 e 6 d 3 e 1
+e 1 c 2 e 2 c 1 e 1 c 1 e 6 d 3 e 1 d 3 e 1
+e 2 c 1 e 1 c 1 e 2 c 2 e 1 d 3 e 1 d 3 e 1 d 2 e 2
+e 1 c 1 e 2 c 2 e 1 c 2 e 1 d 3 e 1 d 2 e 4 d 1 e 1
+e 1 c 2 e 1 c 2 e 2 c 1 e 1 d 2 e 4 d 1 e 1 d 3 e 1
+e 1 c 2 e 2 c 1 e 1 c 1 e 4 d 1 e 1 d 3 e 1 d 3 e 1
+e 1 c 1 e 1 c 1 e 2 c 2 e 1 d 3 e 1 d 3 e 1 d 2 e 2
+e 2 c 2 e 1 c 2 e 1 d 3 e 1 d 2 e 4 d 1 e 1
+e 1 c 2 e 2 c 1 e 1 d 2 e 4 d 1 e 1 d 3 e 1
+e 1 c 1 e 1 c 1 e 4 d 1 e 1 d 3 e 1 d 3 e 1
+e 2 c 2 e 1 d 3 e 1 d 3 e 1 d 3 e 1
+e 1 c 2 e 1 d 3 e 1 d 3 e 5
+e 1 c 1 e 1 d 3 e 5
+e 6
+
+columns
+e 13
+e 3 c 3 e 1 c 3 e 1 c 3 e 1
+e 1 b 2 e 1 c 3 e 1 c 3 e 1 c 3 e 1
+e 1 b 2 e 14
+e 1 b 2 e 2 b 1 e 1 c 3 e 1 c 3 e 1 c 3 e 1
+e 4 b 3 e 1 c 3 e 1 c 3 e 1 c 3 e 1
+e 1 b 2 e 1 b 3 e 14
+e 1 b 2 e 2 b 2 e 1 b 1 e 1 c 3 e 1 c 3 e 1 c 3 e 1
+e 1 b 2 e 2 b 1 e 3 b 2 e 1 c 3 e 1 c 3 e 1 c 3 e 1
+e 4 b 3 e 1 b 3 e 13
+e 2 b 2 e 1 b 3 e 2 b 2 e 1 d 3 e 1 d 3 e 1 d 3 e 1
+e 2 b 2 e 2 b 2 e 1 b 1 e 1 b 1 e 1 d 3 e 1 d 3 e 1 d 3 e 1
+e 1 b 2 e 2 b 1 e 3 b 2 e 2 d 2 e 1 d 3 e 1 d 4 e 1
+e 3 b 3 e 1 b 3 e 14
+e 1 b 3 e 2 b 2 e 1 d 3 e 1 d 3 e 1 d 3 e 1
+e 1 b 2 e 1 b 1 e 1 b 1 e 1 d 3 e 1 d 3 e 1 d 3 e 1
+e 3 b 2 e 2 d 2 e 1 d 3 e 1 d 4 e 1
+e 1 b 3 e 14
+e 1 b 2 e 1 d 3 e 1 d 3 e 1 d 3 e 1
+e 1 b 1 e 1 d 3 e 1 d 3 e 1 d 3 e 1
+e 2 d 2 e 1 d 3 e 1 d 4 e 1
+e 13

@@ -1,0 +1,35 @@
+by "zachary richerd morris (sonic123)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by zachary richerd morris"
+date "Nov 14, 2010"
+description "[deleted]"
+difficulty 1.0
+height 2
+id 11024
+link "https://webpbn.com/play.cgi?id=11024"
+note "published,definitely unique,definitely trivial"
+quality 1.0
+title "chess#1"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+
+columns
+red 1 black 1
+black 1 red 1
+red 1 black 1
+black 1 red 1
+red 1 black 1
+black 1 red 1
+red 1 black 1
+black 1 red 1
+red 1 black 1
+black 1 red 1
+red 1 black 1
+black 1 red 1

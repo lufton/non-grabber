@@ -1,0 +1,38 @@
+by "Belita (belita)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Belita"
+date "Apr 27, 2017"
+description "Pikachu"
+difficulty 1.5
+height 8
+id 29754
+link "https://webpbn.com/play.cgi?id=29754"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "I pick you..."
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2
+red 4
+red 2 black 2 red 2
+red 2 black 1 black 1 red 2
+black 1 black 1
+blue 1 black 2 blue 1
+blue 2 blue 2
+blue 3 blue 3
+
+columns
+red 1 blue 3
+red 2 blue 2
+red 2 black 2 blue 1
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 2 black 2 blue 1
+red 2 blue 2
+red 1 blue 3

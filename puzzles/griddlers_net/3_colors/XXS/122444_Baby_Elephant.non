@@ -1,0 +1,30 @@
+by "paukenpietje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/1/12"
+height 5
+id 122444
+link "https://www.griddlers.net/nonogram/-/g/122444"
+medium_time "0:00:15"
+points 3
+popularity 46.97
+title "Baby Elephant"
+width 5
+
+color a 33cc00
+color b cccccc
+color c 333333
+
+rows
+b 1
+b 2
+c 1 b 1 b 2
+b 2 b 1
+b 4
+
+columns
+b 2 c 1 b 2
+b 4
+b 1
+b 3
+b 1

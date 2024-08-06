@@ -1,0 +1,31 @@
+by "paukenpietje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/1/12"
+height 5
+id 122445
+link "https://www.griddlers.net/nonogram/-/g/122445"
+medium_time "0:00:13"
+points 3
+popularity 56.21
+title "Splish Splash"
+width 5
+
+color a ccffff
+color b 0099ff
+color c c98c00
+color d 00cc66
+
+rows
+c 1
+c 1
+c 2
+c 1 d 2
+b 3 d 2
+
+columns
+b 1
+b 1
+c 1 c 2 b 1
+c 2 d 2
+d 2

@@ -1,0 +1,82 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Thomas Genuine"
+date "May 22, 2014"
+description "Rubik's cube. Have you ever seen its inner part? :)"
+difficulty 1.75
+height 30
+id 24545
+link "https://webpbn.com/play.cgi?id=24545"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Today is its 40th birthday"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 9
+black 2 red 6 black 2
+black 2 red 6 black 3
+black 2 red 6 black 3
+black 18
+black 18
+black 9 black 8
+black 2 black 8
+black 2 black 8
+black 3 black 2 black 8 black 3
+black 4 black 2 black 7 black 4
+black 5 black 2 black 6 black 3 green 1 black 1
+black 6 black 2 black 2 black 3 green 2 black 1
+black 7 black 4 black 3 green 3 black 1
+black 26 green 3 black 1
+black 26 green 3 black 1
+black 6 black 3 black 3 green 3 black 1
+black 16 black 3 green 2 black 2
+black 13 black 2 black 3 green 1 black 2
+black 5 black 2 black 2 black 5
+black 5 black 2 black 2 black 4
+black 3 black 1 black 2 black 2 black 3
+black 1 black 2 black 2
+black 1 black 9
+black 1 black 9
+black 16
+black 10
+black 10
+black 9
+black 8
+
+columns
+black 9
+black 10
+black 11
+black 11
+black 17
+black 10 black 1
+black 7 black 2 black 1
+black 2 black 2 black 1
+black 3 black 2 black 2 black 1
+black 4 black 2 black 2 black 1 black 3
+black 5 black 2 black 2 black 5
+black 2 red 1 black 3 black 2 black 13
+black 2 red 2 black 3 black 2 black 13
+black 1 red 3 black 3 black 4 black 7
+black 1 red 3 black 26
+black 1 red 3 black 26
+black 1 red 3 black 3 black 3 black 7
+black 1 red 2 black 3 black 4 black 6
+black 1 red 1 black 11 black 2 black 5
+black 12 black 2 black 4
+black 3 black 8 black 2
+black 8 black 2
+black 8 black 2
+black 8 black 9
+black 7 black 10
+black 6 black 11
+black 3 green 6 black 2
+black 3 green 6 black 2
+black 2 green 6 black 2
+black 9

@@ -1,0 +1,51 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr 11, 2023"
+description "Wood cutting machine"
+difficulty 1.0
+height 10
+id 36682
+link "https://webpbn.com/play.cgi?id=36682"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Two Cycle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 2
+red 2 black 2
+red 3 black 1 red 2
+red 3 black 1 red 3
+black 9 red 3 black 1 red 6
+black 4 red 2 black 1 red 1 black 3 red 2 black 1 red 3 black 1 red 2
+black 10 red 2 black 1 red 3
+red 5
+0
+
+columns
+black 1
+black 3
+black 3
+black 3
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 3
+black 1 red 1 black 1
+black 3
+black 3
+red 3 black 2
+red 7
+black 1 red 7
+black 8 red 1
+black 1 red 6
+red 6
+red 4
+red 1 black 1
+red 2
+red 2

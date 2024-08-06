@@ -1,0 +1,74 @@
+by "Ben Kimball (zubin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Ben Kimball"
+date "Apr  4, 2012"
+description "Samus, from the original Metroid video game. I wanted to make this as close to the real thing as possible and still have a unique solution."
+difficulty 2.0
+height 34
+id 18094
+link "https://webpbn.com/play.cgi?id=18094"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Old school"
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 18
+black 8 red 2 black 8
+black 6 red 1 red 4 black 6
+black 5 red 1 green 1 red 4 green 1 red 1 black 5
+black 5 green 1 green 1 red 2 green 1 green 1 black 5
+black 4 red 1 green 2 green 2 green 2 red 1 black 4
+black 4 red 1 green 1 black 1 green 4 black 1 green 1 red 1 black 4
+black 4 red 3 black 1 green 2 black 1 red 3 black 4
+black 2 black 1 red 2 black 2 red 2 black 1 black 2
+black 1 green 1 red 1 black 2 red 1 green 1 black 1
+black 1 red 1 green 1 red 2 green 1 red 1 black 1
+black 2 green 1 red 2 red 2 red 2 green 1 black 2
+black 2 red 2 red 2 red 4 black 2
+black 2 black 1 green 1 red 8 green 1 black 1 black 2
+black 1 red 2 black 2 green 1 red 2 green 2 red 2 green 1 black 2 red 2 black 1
+black 1 green 2 green 1 black 1 green 1 green 2 black 2 black 1
+black 3 green 2 green 1 black 1 black 1 red 1 black 1
+black 2 green 1 black 1 green 4 red 4 black 1
+black 3 green 1 black 1 green 1 black 2 red 1 black 1 red 2 black 2
+black 4 green 1 black 2 green 1 black 2 black 2 red 2 black 2
+black 5 green 2 black 2 red 2 black 3
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 4 red 2 black 4 red 2 black 4
+black 4 red 1 black 6 red 1 black 4
+black 3 black 6 black 3
+black 3 black 6 black 3
+black 3 black 6 black 3
+black 2 red 2 red 1 black 6 red 1 red 2 black 2
+black 2 green 3 red 1 black 6 red 1 green 3 black 2
+black 1 red 4 green 1 black 6 green 1 red 4 black 1
+black 1 red 5 black 6 red 5 black 1
+black 2 red 3 black 8 red 3 black 2
+black 18
+
+columns
+black 34
+black 9 black 3 red 1 black 14 red 2 black 2
+black 8 green 1 red 1 green 1 black 1 green 1 black 10 red 1 green 1 red 3 black 1
+black 8 black 2 green 2 black 1 green 1 black 6 red 1 green 1 red 3 black 1
+black 5 red 3 red 1 green 1 black 1 green 2 black 1 green 1 black 3 red 1 green 1 red 3 black 1
+black 3 red 1 green 3 red 1 black 1 red 3 green 2 green 2 black 1 green 1 red 2 red 2 green 1 red 1 black 2
+black 2 red 1 green 1 green 1 black 1 red 2 green 1 red 2 red 2 black 1 green 2 black 2 green 1 black 10
+black 2 red 1 green 1 green 1 black 1 red 2 green 1 red 3 green 1 black 1 green 1 black 1 green 1 black 13
+black 1 red 4 green 3 black 2 red 4 green 1 black 15
+black 1 red 4 green 3 black 2 red 2 red 1 green 1 black 15
+black 2 red 2 green 1 green 1 black 1 red 2 green 1 red 3 green 1 black 13
+black 2 red 1 green 1 green 1 black 1 red 2 green 1 red 5 green 1 black 10
+black 3 red 1 green 3 red 1 black 1 red 3 green 1 black 1 red 2 black 1 red 2 red 2 green 1 red 1 black 2
+black 5 red 3 red 1 green 1 black 2 red 2 black 2 red 1 black 2 red 1 green 1 red 3 black 1
+black 8 black 3 red 4 black 4 red 1 green 1 red 3 black 1
+black 8 green 1 red 1 red 3 black 8 red 1 green 1 red 3 black 1
+black 9 black 3 red 1 black 12 red 2 black 2
+black 34

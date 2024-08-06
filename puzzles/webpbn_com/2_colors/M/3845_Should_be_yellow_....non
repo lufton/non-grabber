@@ -1,0 +1,57 @@
+by "Jota (Jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jota"
+date "Oct 27, 2008"
+description "Little chicken"
+difficulty 1.75
+height 20
+id 3845
+link "https://webpbn.com/play.cgi?id=3845"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Should be yellow ..."
+width 20
+
+rows
+1,1
+1,1,2
+2,3
+5,2
+10
+7
+10
+4,2
+6
+14
+12
+14
+13
+12
+12
+11
+9
+1,1
+1,1
+3,3
+
+columns
+0
+1
+3
+5
+1,7
+1,1,8
+3,1,1,8,1
+5,11
+5,8,1
+16
+15
+16,1
+2,3,12
+14,1
+1,4,5
+1
+1
+1
+0
+0

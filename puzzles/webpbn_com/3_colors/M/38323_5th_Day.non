@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar  6, 2024"
+description "Five Golden Rings"
+difficulty 1.5
+height 20
+id 38323
+link "https://webpbn.com/play.cgi?id=38323"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "5th Day"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+red 3 black 10
+red 2 red 2 black 9
+red 1 red 1 black 3 red 3 black 3
+red 2 red 2 black 2 red 2 black 1 red 2 black 2
+red 3 black 3 red 1 black 1 red 1
+black 3 red 2 red 2
+black 4 red 3
+black 5 red 3
+black 5 red 2 red 2
+black 3 red 1 black 1 red 1
+black 3 red 2 red 2
+red 3 black 4 red 3
+red 2 red 2 black 5
+red 1 red 1 black 5
+red 2 red 2 black 8 red 3
+red 3 black 9 red 2 red 2
+black 10 red 1 red 1
+black 10 red 2 red 2
+black 10 red 3
+
+columns
+0
+red 3
+red 2 red 2 red 3
+red 1 red 1 red 2 red 2
+red 2 red 2 red 1 red 1
+black 2 red 3 black 5 red 2 red 2 black 3
+black 10 red 3 black 4
+black 10 black 5
+black 4 red 3 black 3 black 5
+black 3 red 2 black 1 red 2 black 2 black 5
+black 3 red 1 black 1 red 1 black 10
+black 3 red 2 red 2 black 10
+black 4 red 3 black 10
+black 5 red 3 black 8
+black 5 red 2 black 1 red 2 black 7
+red 1 red 1 red 3
+red 2 red 2 red 2 red 2
+red 3 red 1 red 1
+red 2 red 2
+red 3

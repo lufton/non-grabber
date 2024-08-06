@@ -1,0 +1,74 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Dec 22, 2004"
+description "Rosie the Riveter, world war two propaganda icon later adopted by the feminist movement. She's wearing a red bandana and blue work overalls."
+difficulty 3.0
+height 30
+id 135
+link "https://webpbn.com/play.cgi?id=135"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "We Can Do It!"
+width 22
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 3
+red 3 black 2 red 1
+red 3 black 5 red 1
+red 2 black 4 black 2
+red 2 black 2 black 1 red 1
+red 2 black 1 black 2 black 4
+red 2 black 1 black 2 black 1 black 1 black 2
+red 2 black 1 black 1 black 3 black 1
+red 2 black 1 black 2 black 1 black 1 black 2
+red 1 black 1 black 2 black 3 black 1
+red 1 black 1 black 2 black 1 black 1 black 1
+black 2 black 2 black 1 black 1
+black 3 black 1 black 1 black 2
+black 1 black 3 black 1 black 1
+blue 8 black 2 black 1
+blue 9 black 2 black 1 black 1
+blue 3 blue 2 black 1 black 1 black 1 black 2
+blue 3 blue 5 blue 1 black 1 black 1 black 1 black 1
+blue 10 black 1 black 4 black 1
+blue 11 black 2 black 1
+blue 11 black 1
+blue 11 black 2
+blue 3 blue 8 black 9
+blue 4 blue 5 black 2
+blue 17 black 1
+blue 13 blue 3 black 1
+blue 12 blue 3 black 3
+blue 12
+blue 10
+blue 10
+
+columns
+red 5 blue 7
+red 9 blue 12
+red 3 black 2 black 4 blue 16
+red 2 black 2 black 3 blue 3 blue 4 blue 7
+red 2 black 2 black 1 blue 2 blue 6 blue 6
+red 1 black 3 black 1 black 2 blue 2 blue 6 blue 6
+red 1 black 3 black 1 black 1 black 1 blue 2 blue 6 blue 6
+red 1 black 1 black 3 black 1 black 1 blue 2 blue 6 blue 6
+black 2 black 1 black 2 blue 2 blue 6 blue 6
+red 1 black 3 black 3 blue 3 blue 5 blue 6
+red 1 black 5 blue 3 blue 4 blue 6
+black 4 blue 1 blue 6
+black 3 black 1 black 1 black 1 blue 5
+black 1 black 1 black 1 black 1 black 1 black 1 blue 3
+black 1 black 1 black 1 black 3 black 1 blue 2
+black 1 black 6 black 1 black 1 blue 3
+black 2 black 5 black 1 blue 4
+black 3 black 1 blue 3
+black 5 black 1 blue 1
+black 5 black 2 black 1
+black 8 black 1
+black 4

@@ -1,0 +1,47 @@
+by "roliepolie"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/5/11"
+height 14
+id 103604
+link "https://www.griddlers.net/nonogram/-/g/103604"
+medium_time "0:03:53"
+points 207
+popularity 63.55
+title "Ms. PacMan"
+width 13
+
+color a 000000
+color b ffdd00
+color c cc0000
+
+rows
+c 2
+c 3 b 4
+c 1 c 2 b 6
+c 2 c 1 b 9
+c 3 b 3 b 3 c 2
+c 2 b 2 b 2
+b 6
+b 4
+b 6
+b 3 b 4
+b 9 c 2
+b 11
+b 9
+b 5
+
+columns
+c 2
+c 3 b 4
+c 1 c 2 b 6
+c 2 c 1 b 9
+c 3 b 6 b 3
+c 2 b 2 b 1 b 6
+b 3 b 1 b 6
+b 3 b 1 b 5
+b 5 b 5
+b 4 b 4
+b 3 b 3
+b 2 c 1 c 1 b 2
+b 1 c 1 c 1 b 1

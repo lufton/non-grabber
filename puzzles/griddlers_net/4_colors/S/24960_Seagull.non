@@ -1,0 +1,51 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/6/05"
+height 15
+id 24960
+link "https://www.griddlers.net/nonogram/-/g/24960"
+medium_time "0:03:08"
+points 636
+popularity 50.06
+title "Seagull"
+width 15
+
+color a ffffff
+color b ffd0a3
+color c 8080ff
+color d 000000
+
+rows
+b 1
+b 3
+c 2 b 2 d 1 b 1 d 2
+c 4 b 3
+c 4 d 1 c 1 b 3
+c 4 d 1 c 3 b 3
+c 4 d 1 c 5 b 2
+c 2 d 1 c 5 b 4
+c 3 b 7
+b 2 d 1 b 1 d 1
+d 1 d 1
+d 1 d 1
+d 1 d 1
+d 1 d 1
+d 1 d 1
+
+columns
+c 2
+c 3
+c 2 d 1 c 1
+c 4
+c 2 d 1 c 1 b 1
+c 4 b 2
+c 2 d 1 c 2 b 2
+c 6 b 1 d 6
+c 2 d 1 c 2 b 3
+b 1 c 4 b 2 d 6
+b 8
+b 2 d 1 b 5
+b 5
+d 1
+d 1

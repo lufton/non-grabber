@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Feb 21, 2019"
+description "Ram Tuff"
+difficulty 3.25
+height 20
+id 32115
+link "https://webpbn.com/play.cgi?id=32115"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.25
+title "Tuff puzzle"
+width 20
+
+rows
+3,3
+1,3,3,1
+3,3
+3,3
+2,3,3,2
+3,2,2,2
+2,2,2,3
+2,1,1,1,1,2
+2,1,1,2
+2,2,2,2
+7,7
+3,3,3,3
+3,3
+2,2
+3,3
+2,2
+2,2
+1,1
+1,1
+2
+
+columns
+1,4
+1,7
+1,3,2
+2,2,2
+2,4
+3,4
+3,5
+4,6
+4,5
+1
+1
+4,5
+4,6
+3,5
+3,4
+2,4
+2,1,2
+1,3,2
+1,7
+1,5

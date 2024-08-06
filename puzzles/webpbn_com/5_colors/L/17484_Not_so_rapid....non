@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Feb  7, 2012"
+description "Transit. I haven't taken a city bus in a long,long time,not since i was a kid,and i think the fare was a quarter and you could get a transfer if you had to take another bus. What does it cost now and can you still get a transfer?"
+difficulty 2.25
+height 20
+id 17484
+link "https://webpbn.com/play.cgi?id=17484"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Not so rapid..."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 black 1 green 2 blue 11
+green 1 black 1 green 1 black 2 green 1 red 22 blue 3
+black 2 green 1 black 1 green 1 red 2 red 1 red 2 blue 1 blue 2
+black 2 green 1 red 2 black 3 black 3 black 3 black 3 red 1 red 7 blue 1
+green 1 black 1 green 1 red 34
+black 1 red 23 red 1 black 2 green 1 black 3 red 1
+red 2 red 1 red 1 black 1 green 3 black 2 red 1
+red 2 black 2 black 3 black 3 black 3 black 3 red 1 black 2 red 1 black 6 red 1
+red 1 black 3 black 3 black 3 black 3 black 3 red 1 black 2 red 1 black 4 red 2 black 2 red 1
+red 1 black 3 black 3 black 3 black 3 black 3 green 2 red 1 green 4 red 1 black 3 red 1 black 2 red 1 black 1 red 1
+red 1 green 5 blue 5 red 1 blue 4 red 10
+red 1 red 3 green 2 blue 10 red 1 black 2 red 1 green 2 green 2 red 1
+red 1 red 1 black 3 red 1 green 1 blue 10 red 3 black 2 red 1 green 1 blue 2 green 2 blue 2 green 1 red 1
+red 1 red 1 black 2 red 1 black 2 red 1 green 1 blue 10 red 1 black 3 red 1 red 1 green 2 black 2 green 2 red 1
+green 1 red 1 black 1 red 1 red 1 black 1 red 1 blue 10 red 1 black 2 red 1 black 2 red 1 red 1 black 4 red 1
+green 2 red 2 black 1 red 1 red 1 black 1 red 2 blue 9 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 4 red 1
+black 1 black 2 red 1 red 1 black 3 red 9 black 2 red 1 red 1 black 1 red 4 black 6 red 1
+black 1 black 3 red 2 black 8 black 2 red 1 red 1 black 3 green 12
+black 1 black 7 black 3 black 2 red 2 black 3 black 2 red 2 black 2
+black 1 black 5 black 5 black 4
+
+columns
+green 1 black 1 green 1 red 7 green 2
+green 1 black 5 red 2 green 1 black 4
+green 3 black 1 green 1 red 2 red 1
+green 1 black 2 green 1 red 2 black 2 red 3 black 2
+black 2 green 1 red 3 black 3 red 1 black 6
+green 2 red 4 black 3 red 1 black 2 red 3 black 3
+green 1 red 2 red 2 red 1 black 1 red 1 red 1 black 2
+red 1 black 1 red 2 black 3 red 1 black 2 red 4 black 2
+red 1 black 1 red 2 black 3 red 1 black 7
+red 1 black 1 red 2 black 3 red 3 black 4
+red 1 red 2 green 1 blue 1 red 1 black 3
+red 1 black 1 red 2 black 3 green 1 blue 3 red 1 black 1
+red 1 black 1 red 2 black 3 green 1 blue 4 red 1 black 2
+red 1 black 1 red 2 black 3 green 1 blue 4 red 1 black 2
+red 1 red 2 green 1 blue 5 red 1 black 2
+red 1 black 1 red 2 black 3 green 1 blue 5 red 1 black 1
+red 1 black 1 red 2 black 3 green 1 blue 5 red 1
+red 1 black 1 red 2 black 3 green 1 blue 5 red 1
+red 1 red 2 green 1 blue 5 red 1
+red 1 black 1 red 2 black 3 blue 6 red 1
+red 1 black 1 red 2 black 3 blue 4 red 2 black 2
+red 1 black 1 red 2 black 3 blue 3 red 1 black 5
+red 1 red 2 green 1 blue 2 red 1 black 2 red 3 black 2
+red 1 red 3 green 1 blue 2 red 1 black 1 red 1 red 1 black 1
+red 2 red 9 black 2 red 4 black 1
+red 1 red 1 green 1 blue 1 red 1 black 6
+red 1 red 1 black 2 green 1 blue 1 black 2 red 3 black 3
+blue 1 red 2 red 1 black 2 green 1 blue 1 black 2 red 1 black 2
+blue 1 red 3 green 1 blue 1 red 1 green 1
+blue 1 red 2 red 9 green 1
+blue 1 red 5 black 2 red 1 green 1 green 1
+blue 1 red 2 black 5 red 1 green 1 blue 1 green 1 black 1 green 1
+blue 1 red 2 black 1 green 1 black 3 red 1 green 1 blue 1 green 1 black 3 green 1 black 1
+blue 1 red 2 green 2 black 2 red 2 green 1 black 4 green 1 black 2
+blue 1 red 2 black 1 green 1 black 1 red 1 black 1 red 1 green 1 black 4 green 1 red 1 black 1
+blue 1 red 1 black 3 red 1 black 1 red 1 green 1 blue 1 green 1 black 3 green 1 red 1 black 1
+blue 4 red 1 black 4 red 2 green 1 blue 1 green 1 black 1 green 1 black 2
+blue 2 red 3 black 2 red 1 green 1 green 1 black 1
+blue 2 red 9 green 1
+blue 1 green 1

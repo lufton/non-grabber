@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom King"
+date "Jan  2, 2013"
+description "Not great art, but a fun and challenging solve."
+difficulty 2.5
+height 15
+id 20750
+link "https://webpbn.com/play.cgi?id=20750"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Still working on it but fits Aldege's Challenge"
+width 25
+
+rows
+3,5,3
+5,2,2,1,1
+1,1,1,1,1,1,1,1
+0
+1,1,3
+1,1,1,1
+25
+1,2
+5,2
+1,1,1,1,1
+2,1,1
+1,2,2
+1,1,1,1,1,1,2,1
+1,1,20
+25
+
+columns
+1,1,4,1
+3,1,1,1,2
+2,1,4,1
+3,1,1,2
+1,1,2,1
+1,1,1,2
+2,1,6
+2,1,2
+1,1,2,2
+1,1,1,3
+1,1,2,2
+2,1,2
+2,1,3
+1,2
+1,2
+1,2,3
+1,1,1,1,2
+1,1,1,2
+1,1,1,1,3
+1,2,2
+1,3
+1,4
+1,4,2
+3,3
+2,2

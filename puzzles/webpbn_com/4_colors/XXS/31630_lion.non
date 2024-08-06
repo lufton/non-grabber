@@ -1,0 +1,32 @@
+by "gus (coolGus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by gus"
+date "Dec 11, 2018"
+description "lion"
+difficulty 1.0
+height 5
+id 31630
+link "https://webpbn.com/play.cgi?id=31630"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "lion"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 1 blue 1 blue 1 black 1
+black 1 red 1 black 1 red 1 black 1
+black 1 red 3 black 1
+black 5
+
+columns
+black 5
+black 1 blue 1 red 2 black 1
+black 1 black 1 red 1 black 1
+black 1 blue 1 red 2 black 1
+black 5

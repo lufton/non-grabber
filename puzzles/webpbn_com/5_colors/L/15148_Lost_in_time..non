@@ -1,0 +1,78 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Jul 11, 2011"
+description "A war ravaged city that has been forgotten,and has been taken over by delinquent moths.This is my son A-J's(6yrs old)puzzle.He made it with my supervision and we made sure it is solvable with no guessing."
+difficulty 1.75
+height 20
+id 15148
+link "https://webpbn.com/play.cgi?id=15148"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Lost in time."
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 3 red 1
+red 7 red 3
+red 11 red 1 red 2
+red 11 red 6 red 1 red 1
+green 7 red 11 blue 1 red 2 blue 1 red 1 red 1
+green 1 black 2 black 2 green 1 black 1 black 1 red 1 blue 1 red 2 blue 1 red 1 red 1
+green 1 black 2 black 2 green 1 black 1 black 1 red 1 blue 1 red 1 blue 1 red 1 red 1
+green 1 green 1 black 1 red 7 black 1 red 1 blue 1 red 1 red 2 blue 1 red 1 red 1
+green 1 black 2 black 2 green 1 black 1 red 3 black 1 red 3 black 1 red 1 blue 1 red 2 blue 1 red 1 red 1
+green 1 black 2 black 2 green 1 black 1 red 2 black 3 red 2 black 1 red 1 blue 1 red 1 blue 1 red 1 red 1
+green 1 green 1 black 1 red 1 black 5 red 1 black 1 red 1 blue 1 red 1 red 2 blue 1 red 1 red 1
+green 1 red 2 red 2 green 1 black 1 red 2 black 3 red 2 black 1 red 1 blue 1 red 2 blue 1 red 1 red 1
+green 1 red 2 red 2 green 1 black 1 red 3 black 1 red 3 black 1 red 1 blue 1 red 1 blue 1 red 1 red 1
+green 1 green 1 black 1 red 7 black 1 red 3 blue 1 red 1 red 2 blue 1 red 1 red 1
+green 1 blue 5 green 1 black 1 black 1 red 2 blue 1 red 2 blue 1 red 4 red 1
+green 1 blue 1 blue 1 blue 1 green 1 black 5 black 1 red 3 blue 1 blue 1 red 1 red 1 red 1
+green 1 blue 1 blue 1 blue 1 green 1 black 1 black 1 black 1 red 2 blue 1 red 4 blue 1 red 4 red 1
+green 1 blue 1 blue 1 blue 1 green 1 black 1 black 1 black 1 red 1 red 1 blue 1 red 2 blue 1 red 1 red 4
+green 1 blue 1 blue 1 blue 1 green 1 black 2 black 1 black 1 red 3 blue 1 red 2 blue 1 red 1 red 2 red 1
+green 1 blue 1 blue 1 blue 1 green 1 black 1 black 1 black 1 red 3 blue 1 red 2 blue 1 red 4 red 1
+
+columns
+green 16
+green 1 black 2 black 2 red 2 blue 6
+green 1 black 2 black 2 red 2 blue 1
+green 1 blue 6
+green 1 black 2 black 2 red 2 blue 1
+green 1 black 2 black 2 red 2 blue 6
+green 16
+0
+0
+red 3
+red 3 black 15
+red 4 red 7 black 1 black 1
+red 4 red 3 black 1 red 3 black 1
+red 5 red 2 black 3 red 2 black 1
+red 5 red 1 black 5 red 1 black 5
+red 5 red 2 black 3 red 2
+red 4 red 3 black 1 red 3
+red 4 red 7
+red 3 black 15
+red 3 red 7
+red 1 red 1 red 1 red 5 red 2
+red 1 red 1 red 1 red 1 red 1 red 1 red 3
+red 1 blue 16
+red 1 red 2 red 2 red 2 red 1
+red 1 red 4
+red 3 red 2 red 2 red 2 red 4
+red 3 red 2 red 2 red 2 red 1
+red 1 blue 16
+red 1 red 1 red 1
+red 6
+red 1 red 1 red 1
+red 19
+red 2 red 2
+red 2 red 1
+red 18

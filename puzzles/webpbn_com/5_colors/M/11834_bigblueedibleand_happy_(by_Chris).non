@@ -1,0 +1,73 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Jan 20, 2011"
+description "I've made The Lord of Tasty! also known as;The Big,magical,blue-Cheeto from Mars! Yes,that is a big-cheeto-bag at top,he has a magical-sword,and a halo(angels have them)! He is happy,that is to smite evil,and bad-taste! Hope you like it!"
+difficulty 2.5
+height 30
+id 11834
+link "https://webpbn.com/play.cgi?id=11834"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "big,blue,edible,and happy! (by Chris)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 6 black 1
+black 1 red 2 black 1 red 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 2
+black 1 red 1 black 3 red 2 black 1
+black 2 red 1 black 1 red 1 black 1 red 1 black 1
+green 1 black 1 red 1 black 1 red 1 black 1 red 2 black 1 green 1
+green 1 black 8 green 1
+green 3 green 3
+green 1 green 1
+green 1 green 2 green 2
+green 1 green 1 green 1
+green 2 green 1 green 1 black 2 green 1 green 1
+green 2 green 1 black 1 blue 2 black 1 green 1
+green 2 green 1 blue 4 green 1
+green 2 black 1 blue 1 green 4 blue 1 black 1
+green 2 black 1 black 1 blue 2 black 1 black 1
+green 2 black 2 blue 2 black 2
+green 2 black 1 blue 6 black 1
+green 4 black 1 blue 1 black 4 blue 1 black 1
+black 2 black 1 blue 1 black 1 red 2 black 1 blue 1 black 1 black 2
+black 1 blue 2 black 1 black 1 blue 2 black 2 blue 2 black 1 black 1 blue 2
+black 1 blue 2 black 1 black 1 blue 4 black 1 blue 1 black 1 black 1 blue 2
+black 2 black 2 blue 4 black 2 black 2
+green 2 black 1 blue 1 black 1 blue 3 black 2
+black 1 blue 1 black 1 blue 4 black 1
+black 1 blue 6 black 1
+black 1 blue 4 black 1
+black 1 blue 2 black 1
+black 2
+0
+
+columns
+0
+green 1 black 2
+green 8 black 1 blue 2 black 1 green 1
+green 3 green 10 black 1 blue 2 black 1 green 1
+green 1 green 1 black 2
+green 3
+green 3
+black 7 black 12
+red 4 black 1 red 1 black 1 green 2 blue 1 black 1 blue 5 black 1 blue 3 black 1
+red 2 black 2 red 1 black 2 green 1 black 1 blue 1 green 1 black 1 blue 1 black 2 blue 3 black 2 blue 2 black 1
+red 1 black 1 black 2 red 1 black 1 black 1 blue 2 green 1 blue 3 black 1 red 1 black 1 blue 7 black 1
+red 2 black 2 red 1 black 2 black 1 blue 2 green 1 blue 3 black 1 red 1 black 1 blue 7 black 1
+red 1 black 1 red 2 black 1 red 1 black 1 green 1 black 1 blue 1 green 1 black 1 blue 1 black 2 blue 1 black 1 blue 5 black 1
+red 2 black 1 red 3 black 1 green 2 blue 1 black 1 blue 5 black 2 blue 2 black 1
+black 7 black 12
+green 3
+green 3
+green 1 black 2
+green 3 black 1 blue 2 black 1
+black 1 blue 2 black 1

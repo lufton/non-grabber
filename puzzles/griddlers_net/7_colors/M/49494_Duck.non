@@ -1,0 +1,60 @@
+by "IZA666"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/24/07"
+height 22
+id 49494
+link "https://www.griddlers.net/nonogram/-/g/49494"
+medium_time "0:06:44"
+points 1340
+popularity 79.47
+title "Duck"
+width 14
+
+color a ffffff
+color b ff6600
+color c ffcc66
+color d ffff33
+color e 00ccff
+color f 0000ff
+color g 000000
+
+rows
+d 4
+d 6
+d 4 g 1 d 1
+d 6 c 2
+d 6 c 3
+d 4
+d 4 f 3
+e 2 d 2 f 2 e 1
+e 1 f 2 e 1 d 1 e 2
+d 1 e 3 d 1 f 1 d 2
+d 2 d 5 e 1 d 1 f 1 d 1
+d 9 e 1 d 1 f 1 d 2
+d 4 d 4 e 1 f 1 d 2
+d 3 d 10
+d 2 d 10
+d 2 d 9
+d 2 d 8
+d 9
+b 1 d 1 c 3 d 2
+b 2 c 3
+b 2 c 4
+b 2 c 7
+
+columns
+d 6
+d 6
+d 3 d 2 b 3
+d 2 d 1 d 2 b 4
+d 2 d 3 d 2 c 3
+d 4 e 1 d 2 d 5 c 4
+d 6 e 1 e 1 d 8 c 4
+d 7 e 1 e 1 d 8 c 1 c 2
+d 8 f 1 e 1 d 9 c 1
+d 2 g 1 d 5 f 1 d 1 e 2 d 7 c 1
+d 4 d 1 f 1 e 1 f 1 d 2 e 1 d 5 c 1
+c 2 f 2 d 2 f 3 d 5
+c 2 f 1 e 1 d 8
+c 1 f 1 e 2 d 3

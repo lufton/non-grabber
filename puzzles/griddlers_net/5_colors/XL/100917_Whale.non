@@ -1,0 +1,83 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/14/10"
+height 32
+id 100917
+link "https://www.griddlers.net/nonogram/-/g/100917"
+medium_time "0:16:44"
+points 45297
+popularity 81.25
+title "Whale"
+width 29
+
+color a ccccff
+color b 424242
+color c cc9933
+color d c0c0c0
+color g 868686
+
+rows
+b 2
+b 3
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 4 b 1
+b 1 c 3 b 2
+b 1 c 4 b 2
+b 1 c 3 b 2 c 1 b 2
+b 1 c 3 b 1 c 1 b 1 c 3 b 1
+b 1 c 2 b 2 c 1 b 1 c 1 d 1 c 2 b 1
+b 1 c 1 b 1 b 1 c 1 b 1 c 2 d 1 c 2 b 1
+b 2 b 1 c 2 b 1 c 1 d 1 c 4 b 1
+b 1 c 7 d 1 c 1 b 1
+b 2 c 1 d 1 c 2 d 1 c 6 b 1
+b 1 c 1 b 1 c 3 d 1 c 2 d 1 c 4 b 1
+b 2 c 1 d 1 c 1 d 1 c 7 d 1 c 2 b 1
+b 2 c 1 d 1 c 5 d 1 c 2 d 1 c 5 b 2
+b 1 c 7 d 1 c 9 d 1 b 4
+b 1 c 2 d 1 c 2 d 1 c 5 b 1 c 3 d 1 c 3 b 1
+b 1 d 1 c 7 d 1 c 1 b 1 c 2 b 1 c 5 d 1 b 1
+b 1 c 3 d 1 c 2 d 1 c 5 b 1 c 2 b 1 c 1 d 1 c 2 b 1
+b 1 c 2 d 1 c 9 d 1 c 1 b 1 c 1 b 1 c 3 d 1 b 1
+b 1 c 5 d 1 c 3 d 1 c 4 b 1 c 1 b 1 c 1 d 2 b 1 g 2
+b 1 c 9 d 1 b 1 d 1 c 3 b 1 c 1 d 2 b 2 g 4
+b 1 c 10 d 1 c 3 d 3 b 5 g 4
+b 1 g 8 d 6 b 2 b 3 g 2
+b 2 d 7 b 5 b 3 g 1
+b 7 b 3
+
+columns
+b 2
+b 2 c 2 b 1
+b 1 c 4 g 1 b 1
+b 1 c 5 g 1 b 1
+b 1 d 1 c 1 d 1 c 3 g 1 d 1 b 1
+b 1 c 7 g 1 d 1 b 1
+b 1 c 3 d 1 c 4 g 1 d 1 b 1
+b 1 c 1 d 1 c 3 d 1 c 2 g 1 d 1 b 1
+b 1 b 1 c 9 g 1 d 1 b 1
+b 3 b 1 d 1 c 3 d 1 c 4 g 1 d 1 b 1
+b 1 c 1 b 6 b 4 b 1 c 3 d 1 c 4 d 1 c 1 d 2 b 1
+b 1 c 7 b 3 c 3 b 1 b 1 c 1 d 1 c 6 d 1 b 1 d 2 b 1
+b 1 c 11 b 1 b 2 c 4 d 1 c 3 d 1 c 1 d 1 b 1
+b 2 c 8 b 1 b 2 c 2 d 1 c 1 d 1 c 7 d 1 b 1
+b 3 c 4 b 3 c 2 d 1 c 5 b 1 c 1 d 1 c 3 d 1 b 1
+b 2 c 1 b 1 c 8 d 1 c 3 b 1 c 3 d 2 b 1
+b 7 c 2 d 1 c 3 b 1 c 2 b 3 d 1 b 1
+b 1 c 6 d 1 c 5 b 1 c 4 d 1 b 1
+b 1 c 1 d 1 c 1 d 1 c 4 d 1 c 3 b 3 d 1 b 1
+b 1 c 2 d 1 c 3 d 1 c 8 d 1 b 1
+b 1 c 9 d 1 c 1 d 1 c 1 d 1 b 2
+b 1 c 2 d 1 c 2 d 1 c 6 d 1 b 2
+b 1 c 10 d 1 b 1 g 1 b 2
+b 2 c 4 d 1 c 1 d 1 b 2 g 3 b 1
+b 7 g 3 b 2
+b 2 g 3 b 1
+b 1 g 2 b 2
+b 1 g 1 b 1
+b 1

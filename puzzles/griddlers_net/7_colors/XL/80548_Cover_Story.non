@@ -1,0 +1,88 @@
+by "Rainbow15"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/17/09"
+height 32
+id 80548
+link "https://www.griddlers.net/nonogram/-/g/80548"
+medium_time "0:13:18"
+points 4795
+popularity 63.6
+title "Cover Story"
+width 32
+
+color a 9900cc
+color b 3300ff
+color c ffff00
+color d ff0000
+color e 006600
+color f ff9900
+color g ffffff
+
+rows
+g 3
+e 7
+e 5 c 6
+e 5 f 1 d 5 c 2
+e 5 f 1 d 7 c 2
+e 5 f 1 d 9 c 2
+e 4 b 1 f 2 d 9 c 2
+e 4 b 2 f 2 d 9 c 2 e 1
+e 3 b 3 f 2 d 9 c 2 e 1
+e 2 b 4 f 2 d 9 c 2 e 1
+e 2 b 4 f 3 d 7 f 1 c 2 e 1
+e 1 b 6 f 3 d 5 f 2 c 2 e 1
+e 1 b 3 d 3 b 2 f 7 c 2 e 2
+e 1 b 2 d 5 b 2 f 4 c 3 e 2
+b 2 d 6 b 1 c 6 e 3
+b 2 d 7 b 5 e 3
+b 1 d 7 b 5 e 3
+b 1 d 5 b 5 e 3
+b 1 d 3 b 5 e 3
+b 7 e 2
+0
+0
+g 2 g 3 g 1 g 2 g 2 g 8 g 2 g 1 g 1
+g 1 g 1 g 1 g 1 g 2 g 1 g 1 g 1 g 1 g 1 g 1 g 1 g 1 g 1
+g 1 g 1 g 1 g 1 g 1 g 2 g 1 g 1 g 1 g 1 g 2 g 1
+g 2 g 2 g 1 g 2 g 1 g 1 g 2 g 1 g 3 g 1 g 1 g 1
+0
+0
+g 1
+g 2 g 1
+g 6 g 3
+g 1
+
+columns
+g 1
+g 1 g 4 g 1
+g 1 g 1 g 1 g 1
+g 1
+g 4 g 1
+g 1 g 1 g 1
+e 7 g 3 g 1
+e 5 b 5 g 1
+e 4 b 8 g 3
+e 4 b 5 d 4 b 1
+e 4 b 5 d 6 b 1 g 4
+e 4 b 6 d 7 b 1 g 2 g 1
+e 5 f 5 b 1 d 7 b 1
+e 4 f 7 b 1 d 6 b 1 g 4
+e 3 f 1 d 5 f 2 b 2 d 4 b 2 g 1 g 1
+e 2 f 1 d 7 f 2 b 2 d 2 b 3 g 1 g 1
+e 1 c 1 d 9 f 2 c 1 b 5
+e 1 c 1 d 9 f 2 c 1 b 5 g 2 g 1
+e 1 c 1 d 9 f 2 c 1 b 4 e 1 g 1 g 2
+c 1 d 9 f 2 c 1 b 3 e 2 g 1
+c 1 d 9 f 1 c 2 b 2 e 2 g 4
+c 2 d 7 f 2 c 2 e 4 g 1
+c 2 d 5 f 2 c 2 e 4 g 4
+c 9 e 4 g 1 g 1
+c 7 e 3 g 4
+e 6
+g 4
+g 1 g 1
+g 1 g 1 g 1
+g 1 g 2
+g 3 g 1
+g 1 g 4

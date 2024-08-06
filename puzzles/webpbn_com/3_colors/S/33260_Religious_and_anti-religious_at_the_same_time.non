@@ -1,0 +1,46 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by sanane samanye"
+date "Dec 10, 2019"
+description "The Cross of Saint Peter, a.k.a Petrine Cross, is a symbol of the Crucifixion of St. Peter. It is also the symbol of many anti-Christian beliefs such as Church of Satan."
+difficulty 1.25
+height 15
+id 33260
+link "https://webpbn.com/play.cgi?id=33260"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Religious and anti-religious at the same time"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 4
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 4 black 2 red 4
+red 1 black 8 red 1
+red 1 black 8 red 1
+red 4 black 2 red 4
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 4
+0
+
+columns
+red 4
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 7 black 2 red 4
+red 1 black 11 red 1
+red 1 black 11 red 1
+red 7 black 2 red 4
+red 1 black 2 red 1
+red 1 black 2 red 1
+red 4

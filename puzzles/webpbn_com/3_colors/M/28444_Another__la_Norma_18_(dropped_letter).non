@@ -1,0 +1,53 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Jul 19, 2016"
+description "1968 movie"
+difficulty 1.5
+height 17
+id 28444
+link "https://webpbn.com/play.cgi?id=28444"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Another Ã  la Norma, #18 (dropped letter)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 15
+black 4
+black 2 black 3 black 1
+black 2 black 2
+red 1 black 3 red 5 black 1 red 5
+black 2 black 1
+black 1 black 1
+black 2
+black 15
+black 2
+black 2
+black 2
+black 15
+black 1
+0
+0
+black 15
+
+columns
+black 1 red 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 4 black 1 black 1 black 1
+black 3 black 2 black 1 black 1 black 1
+black 2 red 1 black 1 black 3 black 1
+black 2 red 1 black 1 black 3 black 1
+black 3 red 1 black 3 black 1 black 1
+black 1 black 1 red 1 black 2 black 1 black 1
+black 1 black 2 red 1 black 2 black 1 black 1
+black 1 black 6 black 1 black 1
+black 1 red 1 black 1 black 1 black 1
+black 1 black 1 red 1 black 1 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 black 1

@@ -1,0 +1,61 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Jota"
+date "Nov 30, 2010"
+description "gondoliere veneziano attesa Bob+Kate"
+difficulty 1.75
+height 20
+id 11201
+link "https://webpbn.com/play.cgi?id=11201"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "WCP # 73 ingresso illegale"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 2
+0
+0
+red 3
+red 1 red 1
+red 3
+red 1 red 1
+black 3
+black 1 black 1
+black 2 black 1 black 1 black 1
+black 2 black 1 black 1 black 2
+black 6 black 2
+black 11 black 3
+black 11
+black 9
+0
+0
+0
+
+columns
+black 1
+black 2
+black 2
+black 2
+black 3
+black 4
+black 4
+black 4
+black 3
+black 3
+black 3
+black 3
+black 3
+red 1 red 1 black 3
+red 1 red 1 black 4 black 1
+black 1 red 1 red 1 black 1 black 1
+black 1 red 1 red 1 black 4 black 1
+red 1 red 1 black 2
+black 2
+black 2

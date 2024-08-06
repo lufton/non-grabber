@@ -1,0 +1,63 @@
+by "unhygenix"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/1/11"
+height 18
+id 104754
+link "https://www.griddlers.net/nonogram/-/g/104754"
+medium_time "0:07:20"
+points 6249
+popularity 66.48
+title "Dagger"
+width 20
+
+color a 999900
+color b 996600
+color c ffffff
+color d ffff00
+color e cc6600
+color f 999999
+color g 666666
+color h ff6666
+
+rows
+b 1 e 1 h 2
+b 2 e 2 h 1 g 2
+b 2 e 1 h 1 e 1 g 2
+b 2 e 2 h 1 g 2 d 3
+b 2 e 2 h 1 d 2 g 3
+b 2 d 2 f 1 g 4
+d 2 g 2 f 1 c 1 g 2
+d 1 f 2 g 1 f 1 c 1 g 2
+d 1 f 3 g 1 f 1 c 1 g 2
+d 1 f 3 g 1 f 1 c 1 g 2
+d 1 g 1 f 2 g 1 f 1 c 1 g 2
+g 1 f 2 g 1 f 1 c 1 g 2
+g 1 f 4 c 1 g 2
+f 4 c 1 g 2
+f 3 c 1 g 2
+f 3 c 1 g 1
+f 2 g 1
+g 1
+
+columns
+b 2
+e 1 b 2
+h 1 e 1 b 2
+h 1 e 2 b 2 d 3
+h 2 e 1 b 2 d 2
+g 1 e 3 b 1 d 1
+g 2 h 1 e 1 d 1 g 1 f 2 g 3
+g 2 h 1 d 1 g 1 f 3
+g 1 d 1 f 2 g 1 f 2
+d 1 g 1 c 1 f 1 g 1 f 2
+d 1 g 2 c 1 f 1 g 1 f 2
+d 1 g 3 c 1 f 1 g 1 f 2
+d 1 g 1 g 2 c 1 f 1 g 1 f 2
+g 1 g 2 c 1 f 3
+g 1 g 2 c 1 f 3
+g 1 g 2 c 1 f 3
+g 2 c 1 f 2
+g 2 c 1 f 2
+g 2 c 1 f 1
+g 4

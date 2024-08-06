@@ -1,0 +1,56 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "Jun 26, 2023"
+description "National Fried Chicken Day!"
+difficulty 2.0
+height 17
+id 36937
+link "https://webpbn.com/play.cgi?id=36937"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "July 6 is...."
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 3
+red 4
+red 4 red 2
+red 2 red 3
+red 2 red 5
+red 3 red 2 black 1 red 3
+red 3 red 1 black 1 red 4
+red 5 black 1 red 4
+red 1 red 1 red 2 red 4
+red 1 red 1 red 3
+red 1 red 1 red 4 red 2
+red 1 red 4 red 1 black 1 red 3
+red 1 red 5 red 3 black 1 red 3
+red 6 red 4 black 1 red 3
+red 4 red 1 red 6
+red 1 red 1 red 1 red 4
+
+columns
+red 1 red 1 red 2
+red 1 red 1 red 2
+red 1 red 1 red 4
+red 1 red 1 red 4
+red 3 red 4 red 4 red 1
+red 9 red 6
+red 14
+red 2 red 4
+red 2
+red 4
+black 1 red 4
+red 2 black 1 red 3
+red 2 black 1 red 1 red 3 black 1 red 2
+red 2 black 1 red 2 red 5
+red 2 black 1 red 3 red 3
+red 7 red 1
+red 6
+red 3

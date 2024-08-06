@@ -1,0 +1,27 @@
+by "Itai Palmoo (igot3)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Itai Palmoo"
+date "Jan  2, 2009"
+description "The letter 'A'"
+difficulty 1.0
+height 5
+id 4608
+link "https://webpbn.com/play.cgi?id=4608"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "The easiest puzzle ever!!"
+width 5
+
+rows
+4
+1,1
+4
+1,1
+1,1
+
+columns
+5
+1,1
+1,1
+5
+0

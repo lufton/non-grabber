@@ -1,0 +1,57 @@
+by "AT (at1213)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by AT"
+date "Nov 14, 2009"
+description "(of a pencil) to draw the black lined shaped"
+difficulty 1.25
+height 20
+id 7118
+link "https://webpbn.com/play.cgi?id=7118"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "No lifting required"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1
+black 1 blue 1 black 1
+black 1 blue 3 black 1
+black 1 red 1 blue 3 red 1 black 1
+black 1 red 2 blue 3 red 2 black 1
+black 1 red 3 blue 3 red 3 black 1
+black 11
+black 2 red 7 black 2
+black 1 blue 1 black 1 red 5 black 1 blue 1 black 1
+black 1 blue 2 black 1 red 3 black 1 blue 2 black 1
+black 1 blue 3 black 1 red 1 black 1 blue 3 black 1
+black 1 blue 4 black 1 blue 4 black 1
+black 1 blue 3 black 1 red 1 black 1 blue 3 black 1
+black 1 blue 2 black 1 red 3 black 1 blue 2 black 1
+black 1 blue 1 black 1 red 5 black 1 blue 1 black 1
+black 2 red 7 black 2
+black 11
+0
+0
+
+columns
+0
+0
+black 12
+black 1 red 1 black 2 blue 7 black 2
+black 1 red 2 black 1 red 1 black 1 blue 5 black 1 red 1 black 1
+black 1 red 3 black 1 red 2 black 1 blue 3 black 1 red 2 black 1
+black 1 blue 4 black 1 red 3 black 1 blue 1 black 1 red 3 black 1
+black 1 blue 5 black 1 red 4 black 1 red 4 black 1
+black 1 blue 4 black 1 red 3 black 1 blue 1 black 1 red 3 black 1
+black 1 red 3 black 1 red 2 black 1 blue 3 black 1 red 2 black 1
+black 1 red 2 black 1 red 1 black 1 blue 5 black 1 red 1 black 1
+black 1 red 1 black 2 blue 7 black 2
+black 12
+0
+0

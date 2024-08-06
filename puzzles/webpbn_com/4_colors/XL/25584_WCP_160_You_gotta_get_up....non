@@ -1,0 +1,102 @@
+by "Strangely Normal ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Strangely Normal"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 2.25
+height 20
+id 25584
+link "https://webpbn.com/play.cgi?id=25584"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "WCP #160 "You gotta get up...""
+width 60
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 18 black 16
+black 4 red 16 black 3 black 3 black 9
+black 3 red 3 black 4 red 14 black 4 black 5 black 2 black 6
+black 2 red 5 black 1 black 2 red 14 black 2 black 2 black 5 black 2
+black 2 red 6 black 1 black 10 red 8 black 2 black 1 green 1 black 1 red 2 black 2 black 2
+black 2 red 7 black 3 black 3 red 7 black 2 black 2 black 1 green 1 black 1 red 3 black 2 black 2
+black 2 red 6 black 3 black 3 red 6 black 2 red 1 black 1 red 1 black 1 black 1 black 2
+black 2 red 7 black 2 black 1 black 4 red 4 black 2 black 5 black 2
+black 2 red 7 black 2 red 1 black 2 black 2 black 3 red 3 black 3 black 1 black 4 black 1
+black 2 red 7 black 3 red 1 black 2 black 1 black 2 red 2 black 2 black 2 black 3 black 1
+black 2 red 8 black 3 red 1 black 2 black 2 red 2 black 4 black 1 black 2 black 2
+black 2 red 7 black 3 black 1 red 2 black 1 black 2 black 1 red 2 black 1 black 1 black 3 black 3
+black 2 red 7 black 2 red 1 black 1 red 2 black 1 black 2 black 4 black 4 black 1 black 1 black 1 black 1 black 2
+black 2 red 6 black 2 red 1 black 2 black 1 red 1 black 3 black 1 black 4 black 1 black 1 black 1 black 1 black 1 black 2
+black 2 red 7 black 1 red 1 black 2 black 1 red 2 black 1 black 2 black 1 black 2 black 1 black 1 black 1 black 1 black 1
+black 1 red 7 black 1 black 1 black 1 red 2 black 1 black 2 black 2 black 3 black 1 black 2 black 2 black 1 black 1
+black 2 red 5 black 3 black 2 black 2 red 1 black 5 black 1 black 1 black 2 black 7 red 2
+black 2 red 4 black 1 black 4 black 1 black 2 red 3 black 1 black 2 black 2 black 3 red 1 black 1 red 2 black 1 red 1 black 1 red 2
+black 2 red 3 black 1 black 1 red 1 black 3 black 3 black 2 red 3 black 2 black 1 black 1 black 1 black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 2
+black 2 red 2 black 4 red 3 black 8 red 1 black 5 red 3 black 2 black 1 black 2 black 1 black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 1
+
+columns
+black 6
+black 10
+black 3 red 6 black 4
+black 2 red 11 black 2
+black 2 red 13 black 2
+black 1 red 15 black 2
+black 2 red 16 black 1
+black 1 red 18
+black 1 red 18
+black 2 red 4 black 4 red 1 black 3 red 2 black 4
+black 1 red 1 black 15 black 1
+black 1 red 1 black 1 black 2 black 3 black 2 black 1
+black 1 red 1 black 1 black 2 black 1 black 3
+black 1 red 1 black 3 black 1 red 2
+black 1 red 2 black 2 red 1 red 1 black 2 red 1
+black 1 red 3 black 1 black 2 red 1 red 1 black 2 black 1 red 1
+black 1 red 3 black 1 black 2 red 1 red 1 black 2 black 2
+black 1 red 3 black 1 black 1 black 1 black 1
+black 1 red 3 black 1 black 1
+black 1 red 3 black 1 black 1
+black 1 red 3 black 1 black 1
+black 1 red 3 black 2 black 1
+black 1 red 4 black 1 black 2 black 2 black 1
+black 1 red 4 black 2 black 1 red 2 black 1 red 2 black 1 black 2
+black 1 red 5 black 1 black 3 red 5 black 3 red 1
+black 1 red 5 black 3 black 5 black 2
+black 2 red 5 black 1 black 1 black 1
+black 1 red 5 black 1 black 3 black 1
+black 2 red 4 black 2 black 2 black 2 black 1
+black 2 red 4 black 1 black 1 black 1 black 2
+black 3 red 3 black 2 black 2 red 1
+black 2 black 2 red 3 black 2 black 2 red 2
+black 1 black 2 red 3 black 7 red 3
+black 2 black 2 red 4 black 1 black 1 red 3 black 1
+black 1 black 1 red 1 black 3 red 2 black 1 black 1 red 1 black 2
+black 1 black 3 black 6 black 3
+black 1 black 2 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 green 1 black 1 black 1 black 2 black 2
+black 1 black 1 green 1 black 1 black 1 black 1 black 2
+black 1 black 2 black 5 black 1 black 1
+black 1 black 3 black 3 black 2
+black 1 black 1 red 2 black 1 black 2 black 1
+black 1 black 1 red 3 black 1 black 3
+black 1 black 2 red 1 black 2 black 2 black 2
+black 1 black 2 black 2 black 2
+black 1 black 4 black 2 black 2
+black 2 black 3 black 2
+black 2 black 2 black 4 black 1
+black 2 black 3 black 1 black 3
+black 3 black 7 red 3
+black 1 black 2 black 4
+black 1 black 2 black 1 red 3
+black 1 black 2 black 1 red 3
+black 2 black 2 black 4
+black 2 black 10 red 3
+black 1 black 2 black 4
+black 1 black 2
+black 1 black 2 red 4
+black 1 black 3 red 3

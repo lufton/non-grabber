@@ -1,0 +1,49 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Ron Jacobson"
+date "Apr 24, 2018"
+description "IT's not a spider or a bowling ball. :-)"
+difficulty 1.75
+height 13
+id 31112
+link "https://webpbn.com/play.cgi?id=31112"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Rime Thyme whatever number it is"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4 black 3
+black 2 black 4 black 2
+black 1 black 2 black 2 black 1
+black 2 black 2 blue 4 black 2
+black 2 black 2 blue 6 black 4
+black 1 black 2 blue 5 blue 2 black 1 black 1
+black 1 black 1 blue 4 blue 3 black 1 black 1
+black 1 blue 5 blue 2 black 1
+black 1 blue 8 black 1
+black 1 blue 1 black 1 blue 3 black 1 blue 2 black 1
+black 1 blue 4 black 2
+black 2 blue 4 black 2
+black 2 black 1
+
+columns
+black 3
+black 2
+black 3 black 5
+black 2 black 2 black 2
+black 1 black 3 blue 5 black 3
+black 1 black 2 blue 5 black 1 blue 1
+black 2 blue 9
+black 2 blue 9
+black 2 blue 3 blue 5
+black 2 blue 2 blue 1 blue 1 black 2 blue 1
+black 1 blue 6 black 2
+black 2 black 1 blue 5 black 2
+black 6
+black 2 black 3
+black 3

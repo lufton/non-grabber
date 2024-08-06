@@ -1,0 +1,45 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/6/19"
+height 6
+id 199648
+link "https://www.griddlers.net/nonogram/-/g/199648"
+medium_time "0:01:54"
+points 280
+popularity 69.71
+title "Rainbow Fish"
+width 16
+
+color a ffffff
+color b 66cc00
+color c ff3333
+color d ff9900
+color e 3366ff
+color f 000000
+
+rows
+c 1 e 2 d 2
+b 3 c 1 e 2 d 2 c 2 e 1 b 1
+b 2 f 1 b 1 c 2 e 2 d 2 c 2 e 2 b 2
+b 4 d 1 c 2 e 2 d 2 c 2 b 2
+b 3 d 2 c 2 e 1 c 1 b 1
+b 1
+
+columns
+b 2
+b 4
+b 1 f 1 b 2
+b 4
+c 3 d 2 b 1
+e 2 c 2 d 1
+e 3 c 2
+d 2 e 2 c 1
+d 3 e 2
+c 1 d 2
+c 2 d 1
+e 1 c 3
+e 1 c 1
+e 1
+b 2
+b 4

@@ -1,0 +1,65 @@
+by "iriski"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/27/03"
+height 20
+id 3403
+link "https://www.griddlers.net/nonogram/-/g/3403"
+medium_time "0:09:44"
+points 14280
+popularity 61.26
+title "Rainbow"
+width 20
+
+color a ffffff
+color b ff0000
+color c 004000
+color d 00ce00
+color e 6b9de4
+color f f5f500
+color g 502e10
+color h f57a00
+
+rows
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 2 d 1 e 1
+b 1 h 1 f 1 c 1 d 1 e 1
+h 1 f 1 c 3 d 1 c 1
+f 2 d 1 c 2 d 3 c 1 c 3
+f 1 d 3 c 1 d 3 c 3 d 1 c 3
+f 1 d 3 c 2 d 3 c 3 d 3 c 3
+e 1 d 3 d 2 g 1 d 2 c 3 d 3 c 1 g 1 c 1
+d 2 g 1 d 2 e 1 g 1 c 2 g 1 c 1 d 3 g 1
+g 1 e 7 g 1 d 2 g 1 d 2
+e 9 g 1
+e 15
+e 15
+e 13
+
+columns
+b 1 h 1 f 3 e 1 d 1
+b 1 h 1 f 2 d 4
+b 1 h 1 f 1 c 1 d 4 g 2
+b 1 h 1 f 1 c 3 d 4 e 1
+b 1 h 1 f 2 d 1 c 4 d 1 e 3
+b 1 h 1 f 2 d 1 e 1 c 1 e 5
+b 1 h 1 f 2 d 1 e 1 d 1 e 4
+b 1 h 1 f 2 d 1 e 1 d 4 e 5
+b 1 h 1 f 2 d 1 e 1 d 4 g 2 e 5
+h 1 f 2 d 1 e 1 d 4 e 5
+f 2 d 1 e 1 d 1 c 1 e 4
+f 1 d 1 e 1 c 4 e 4
+d 1 e 1 c 4 g 2 e 4
+e 1 c 4 d 1 e 3
+d 4 e 3
+d 4 g 2 e 3
+d 4 e 3
+c 4 d 1 e 3
+c 4 g 2 e 3
+c 4 e 2

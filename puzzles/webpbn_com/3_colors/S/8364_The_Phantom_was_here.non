@@ -1,0 +1,45 @@
+by "Heather Williams (Pandabear)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Heather Williams"
+date "Apr 12, 2010"
+description "Its a black rose, the Phantom is the phantom of the opera who left black roses for people (particularly Christine). See Phantom of the Opera, Andrew Lloyd Weber"
+difficulty 1.25
+height 17
+id 8364
+link "https://webpbn.com/play.cgi?id=8364"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "The Phantom was here"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 5
+black 7
+black 7
+black 7
+black 7
+black 5
+black 3
+green 1
+green 1
+green 1
+green 1
+green 1 green 1 green 1
+green 2 green 1 green 2
+green 5
+green 3
+green 1
+green 1
+
+columns
+black 4 green 2
+black 6 green 2
+black 7 green 2
+black 7 green 10
+black 7 green 2
+black 6 green 2
+black 4 green 2

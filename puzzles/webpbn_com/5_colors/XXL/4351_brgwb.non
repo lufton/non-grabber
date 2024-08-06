@@ -1,0 +1,123 @@
+by "person harris (games1793)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by person harris"
+date "Dec 12, 2008"
+description "brgwb=blue red green white black"
+difficulty 1.75
+height 50
+id 4351
+link "https://webpbn.com/play.cgi?id=4351"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "brgwb"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 black 1 green 48
+red 1 black 1 red 47
+red 1 black 1 red 1 black 1 green 43 red 1
+red 1 black 1 red 1 black 1 red 43 red 1
+red 1 black 1 red 1 black 1 red 1 green 40 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 39 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 36 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 35 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 32 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 31 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 28 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 27 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 24 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 23 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 20 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 19 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 16 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 15 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 12 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 11 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 8 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 7 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 green 4 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 5 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 7 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 9 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 11 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 13 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 15 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 17 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 19 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 21 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 23 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 25 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 27 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 29 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 31 red 1 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 33 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 35 red 1 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 37 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 1 blue 39 red 1 red 1 red 1
+red 1 black 1 red 1 black 1 red 41 red 1 red 1
+red 1 black 1 red 1 blue 43 red 1 red 1
+red 1 black 1 red 45 red 1
+red 1 blue 47 red 1
+red 49
+
+columns
+red 50
+black 48 blue 1 red 1
+green 1 red 47 blue 1 red 1
+green 1 red 1 black 44 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 43 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 black 39 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 39 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 35 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 35 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 31 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 31 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 27 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 27 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 23 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 23 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 19 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 19 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 15 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 15 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 11 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 11 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 7 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 7 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 black 3 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 3 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 black 2 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 5 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 9 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 13 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 17 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 21 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 25 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 29 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 33 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 green 1 red 37 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 green 1 red 41 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1
+green 1 red 1 green 1 red 45 blue 1 red 1
+green 1 red 1 blue 1 red 1
+green 1 red 49
+green 1

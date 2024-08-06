@@ -1,0 +1,48 @@
+by "Chemical"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/2/04"
+height 13
+id 14658
+link "https://www.griddlers.net/nonogram/-/g/14658"
+medium_time "0:03:13"
+points 1335
+popularity 45.79
+title "Brunette"
+width 12
+
+color a ffca66
+color b 683812
+color e fffefe
+color f 00ccff
+color g 880000
+color h cc6600
+
+rows
+e 3 b 6 e 3
+e 2 b 5 b 2 e 2
+e 1 b 5 b 3 e 1
+e 1 b 4 b 2 e 1
+e 1 b 3 f 1 f 1 b 1 e 1
+e 1 b 2 b 1 e 1
+e 1 b 1 g 2 b 1 e 1
+e 1 b 2 h 2 b 2 e 1
+e 1 b 2 g 1 b 2 e 1
+e 1 b 1 g 1 h 2 h 2 g 1 b 1 e 1
+e 1 g 1 h 3 h 3 g 1 e 1
+g 3 h 2 h 2 g 3
+g 5 g 5
+
+columns
+e 11 g 2
+e 2 b 8 g 3
+e 1 b 5 b 2 g 1 h 1 g 2
+b 5 h 3 g 1
+b 4 f 1 h 3 g 1
+b 3 g 1 h 1
+b 2 g 1 h 1
+b 1 f 1 h 3 g 1
+b 3 g 1 h 3 g 1
+e 1 b 3 b 2 g 1 h 1 g 2
+e 2 b 8 g 3
+e 11 g 2

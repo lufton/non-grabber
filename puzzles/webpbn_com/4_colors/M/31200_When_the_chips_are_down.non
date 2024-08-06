@@ -1,0 +1,67 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "May 15, 2018"
+description "You're going to need some salsa. The Tostitos logo does not disappoint."
+difficulty 1.75
+height 20
+id 31200
+link "https://webpbn.com/play.cgi?id=31200"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "When the chips are down"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2 green 2 black 2
+black 2 green 4 black 2
+black 2 green 3 black 2
+green 2 black 4 black 5
+black 10 green 1 black 11
+black 10 black 6
+black 8 black 4 black 3
+black 2 black 3 black 2 red 4 black 1 black 3
+black 3 black 1 red 4 black 2 black 2 black 2
+black 3 black 5 black 3 black 3
+black 3 black 3 black 3
+black 1 black 3 black 5 black 2 black 3
+black 2 black 3 black 5 black 2 black 2
+black 3 black 3 black 4 black 2 black 2
+black 2 black 2 black 4 black 2 black 2
+black 2 black 2 black 3 black 2 black 2
+black 3 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 3
+black 1 black 2 black 2 black 2 black 4
+black 2 black 2 black 2 black 3
+
+columns
+black 4 black 3 black 3
+black 4 black 6
+black 3 black 4
+black 3
+black 10
+black 3 black 16
+black 3 black 16
+black 3
+black 2 black 2
+black 2 black 1 red 1 black 1 black 4
+green 5 black 1 red 2 black 1 black 9
+green 4 black 1 red 2 black 1 black 9
+green 2 black 1 red 2 black 1 black 5
+green 1 black 2 black 1 red 1 black 2 black 2
+black 2 black 2
+black 3 black 5
+black 3 black 11
+black 3 black 11
+black 3 black 7
+black 5
+black 3 black 7
+black 2 black 9
+black 2 black 3 black 3
+black 2 black 3 black 2
+black 2 black 2

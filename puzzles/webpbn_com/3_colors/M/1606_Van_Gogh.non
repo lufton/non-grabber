@@ -1,0 +1,55 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Sarah Andrews"
+date "Oct 16, 2007"
+description "Cat Van Gogh lost his ear in a fight with a coyote."
+difficulty 1.25
+height 19
+id 1606
+link "https://webpbn.com/play.cgi?id=1606"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Van Gogh"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2
+black 3
+black 4
+black 5
+black 15
+black 15
+black 15
+black 15
+black 2 blue 2 black 4 blue 2 black 1
+black 15
+black 15
+black 15
+black 15
+black 7 black 5
+black 8 black 6
+black 7 black 6
+black 5 black 5
+black 11
+black 9
+
+columns
+black 15
+black 16
+black 7 black 8
+black 6 blue 1 black 9
+black 5 blue 1 black 10
+black 4 black 10
+black 15
+black 9 black 2 black 2
+black 9 black 2
+black 9 black 2 black 2
+black 4 black 10
+black 4 blue 1 black 10
+black 4 blue 1 black 10
+black 4 black 9
+black 13

@@ -1,0 +1,63 @@
+by "anita lewis (Ginger.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by anita lewis"
+date "Nov 11, 2006"
+description "arcade game ever- arkanoid"
+difficulty 1.0
+height 20
+id 600
+link "https://webpbn.com/play.cgi?id=600"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "No1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+green 4 red 4 blue 4 green 4 red 4
+blue 4 green 4 red 4 blue 4 green 4
+red 4 blue 4 green 4 red 4 blue 4
+green 4 red 4 blue 4 green 4 red 4
+blue 4 green 4 red 4 blue 4 green 4
+red 4 blue 4 green 4 red 4 blue 4
+green 4 red 4 blue 4 green 4 red 4
+blue 4 green 4 red 4 blue 4 green 4
+red 4 blue 4 green 4 red 4 blue 4
+black 20
+black 20
+black 20
+black 20
+black 10 black 9
+black 20
+black 20
+black 20
+black 6 blue 3 black 11
+black 5 red 5 black 10
+
+columns
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 10
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 9 red 1
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 8 blue 1 red 1
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 8 blue 1 red 1
+black 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 black 8 blue 1 red 1
+black 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 black 9 red 1
+black 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 black 4 black 5
+black 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 black 10
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 black 10
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 10
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 10
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 10
+black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 red 1 green 1 blue 1 black 10

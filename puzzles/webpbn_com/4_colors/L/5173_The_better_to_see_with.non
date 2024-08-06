@@ -1,0 +1,82 @@
+by "Georgia Wren (teachno11)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Georgia Wren"
+date "Feb 28, 2009"
+description "Using a magnifying glass to read writing on a red background."
+difficulty 1.75
+height 30
+id 5173
+link "https://webpbn.com/play.cgi?id=5173"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The better to see with"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 7 black 2 red 1 black 2 red 1 blue 3 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 6 black 2 red 1 black 2 red 1 blue 2 red 1 blue 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+red 5 black 2 red 1 black 2 red 1 blue 2 red 3 blue 2 black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 1
+red 4 black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 2 blue 2 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 3 black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 1 black 1 red 2 blue 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+red 2 black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 6 blue 2 black 1 red 1 black 2 red 1 black 2 red 1 black 1
+red 1 black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 8 blue 2 black 2 red 1 black 2 red 1 black 2
+black 2 red 1 black 2 red 1 blue 2 red 4 black 1 red 5 black 1 red 2 blue 2 red 1 black 2 red 1 black 2 red 1
+black 1 red 1 black 2 red 1 blue 2 red 2 black 1 red 3 black 1 red 3 black 1 red 1 black 1 red 2 blue 2 black 1 red 1 black 2 red 1 black 1
+red 1 black 2 red 1 blue 2 red 2 black 1 red 5 black 1 red 5 black 1 red 2 blue 2 black 2 red 1 black 2
+black 2 red 1 blue 2 red 2 black 1 red 1 black 1 red 5 black 1 red 5 black 1 red 2 blue 2 red 1 black 2 red 1
+black 1 red 1 blue 2 red 6 black 1 red 5 black 1 red 5 black 1 red 2 blue 1 black 2 red 1 black 1
+red 1 blue 2 red 2 black 2 red 4 black 1 red 5 black 1 red 3 black 1 red 2 blue 2 black 1 red 1 black 2
+blue 2 red 2 black 1 red 2 black 1 red 4 black 1 red 5 black 1 red 1 black 1 red 2 blue 2 black 1 red 1 black 2 red 1
+blue 1 red 2 black 1 red 4 black 1 red 4 black 1 red 5 black 1 red 2 blue 2 black 1 red 1 black 2 red 2
+blue 2 red 2 black 1 red 3 black 1 red 5 black 1 red 6 blue 2 black 1 red 1 black 2 red 3
+black 1 blue 2 red 2 black 1 red 2 black 3 red 4 black 1 red 1 black 1 red 2 blue 2 black 1 red 1 black 2 red 4
+black 1 red 1 blue 2 red 2 black 1 red 4 black 1 red 4 black 1 red 2 blue 2 black 1 red 1 black 2 red 5
+red 1 black 2 blue 2 red 2 black 1 red 4 black 1 red 2 black 1 red 2 blue 3 red 1 black 2 red 6
+black 2 red 1 black 1 blue 2 red 2 black 1 red 4 black 1 red 3 blue 4 black 2 red 6
+black 1 red 1 black 2 red 1 blue 2 red 2 black 1 red 3 black 1 red 2 blue 6 red 6
+red 1 black 2 red 1 black 2 blue 2 red 2 black 1 red 1 black 1 red 2 blue 2 black 1 red 1 black 1 blue 3 red 4
+black 2 red 1 black 2 red 1 black 1 blue 2 red 2 black 1 red 2 blue 2 black 1 red 1 black 2 red 1 blue 3 red 2
+black 1 red 1 black 2 red 1 black 2 red 1 blue 2 red 3 blue 2 black 1 red 1 black 2 red 3 blue 3
+red 1 black 2 red 1 black 2 red 1 black 2 blue 2 red 1 blue 2 black 1 red 1 black 2 red 5 blue 3
+black 2 red 1 black 2 red 1 black 2 red 1 black 1 blue 3 black 1 red 1 black 2 red 6 blue 3
+black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 3
+red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 3
+black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 3
+black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 2
+
+columns
+red 7 black 2 red 1 black 2 red 1 blue 3 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 6 black 2 red 1 black 2 red 1 blue 2 red 1 blue 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+red 5 black 2 red 1 black 2 red 1 blue 2 red 3 blue 2 black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 1
+red 4 black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 2 blue 2 black 2 red 1 black 2 red 1 black 2 red 1 black 2
+red 3 black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 1 black 1 red 2 blue 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1
+red 2 black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 3 black 1 red 2 blue 2 black 1 red 1 black 2 red 1 black 2 red 1 black 1
+red 1 black 2 red 1 black 2 red 1 blue 2 red 3 black 1 red 4 black 1 red 2 blue 2 black 2 red 1 black 2 red 1 black 2
+black 2 red 1 black 2 red 1 blue 2 red 2 black 1 red 2 black 1 red 4 black 1 red 2 blue 2 red 1 black 2 red 1 black 2 red 1
+black 1 red 1 black 2 red 1 blue 2 red 2 black 1 red 4 black 3 red 2 black 1 red 2 blue 2 black 1 red 1 black 2 red 1 black 1
+red 1 black 2 red 1 blue 2 red 2 black 1 red 1 black 1 red 5 black 1 red 3 black 1 red 2 blue 2 black 2 red 1 black 2
+black 2 red 1 blue 2 red 6 black 1 red 4 black 1 red 4 black 1 red 2 blue 2 red 1 black 2 red 1
+black 1 red 1 blue 2 red 2 black 1 red 5 black 1 red 4 black 1 red 4 black 1 red 2 blue 1 black 2 red 1 black 1
+red 1 blue 2 red 2 black 1 red 1 black 1 red 5 black 1 red 4 black 1 red 2 black 1 red 2 blue 2 black 1 red 1 black 2
+blue 2 red 2 black 1 red 3 black 1 red 5 black 1 red 4 black 2 red 2 blue 2 black 1 red 1 black 2 red 1
+blue 1 red 2 black 1 red 5 black 1 red 5 black 1 red 6 blue 2 black 1 red 1 black 2 red 2
+blue 2 red 2 black 1 red 5 black 1 red 5 black 1 red 1 black 1 red 2 blue 2 black 1 red 1 black 2 red 3
+black 1 blue 2 red 8 black 1 red 5 black 1 red 2 blue 2 black 1 red 1 black 2 red 4
+black 1 red 1 blue 2 red 4 black 1 red 3 black 1 red 3 black 1 red 2 blue 2 black 1 red 1 black 2 red 5
+red 1 black 2 blue 2 red 2 black 1 red 5 black 1 red 4 blue 3 red 1 black 2 red 6
+black 2 red 1 black 1 blue 2 red 2 black 1 red 5 black 1 red 2 blue 4 black 2 red 6
+black 1 red 1 black 2 red 1 blue 2 red 2 black 1 red 3 black 1 red 2 blue 6 red 6
+red 1 black 2 red 1 black 2 blue 2 red 2 black 1 red 1 black 1 red 2 blue 2 black 1 red 1 black 1 blue 3 red 4
+black 2 red 1 black 2 red 1 black 1 blue 2 red 2 black 1 red 2 blue 2 black 1 red 1 black 2 red 1 blue 3 red 2
+black 1 red 1 black 2 red 1 black 2 red 1 blue 2 red 3 blue 2 black 1 red 1 black 2 red 3 blue 3
+red 1 black 2 red 1 black 2 red 1 black 2 blue 2 red 1 blue 2 black 1 red 1 black 2 red 5 blue 3
+black 2 red 1 black 2 red 1 black 2 red 1 black 1 blue 3 black 1 red 1 black 2 red 6 blue 3
+black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 3
+red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 3
+black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 3
+black 1 red 1 black 2 red 1 black 2 red 1 black 2 red 1 black 2 red 6 blue 2

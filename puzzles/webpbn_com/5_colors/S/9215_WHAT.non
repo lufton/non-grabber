@@ -1,0 +1,47 @@
+by "Angie Heath (bewildering14)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Angie Heath"
+date "Jun 15, 2010"
+description "Do you know?"
+difficulty 1.25
+height 16
+id 9215
+link "https://webpbn.com/play.cgi?id=9215"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "WHAT??????"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 red 2 green 2 red 2 green 1
+black 1 red 1 black 1 red 2 black 1 red 1 black 1
+green 8
+green 1 black 2 green 2 black 2 green 1
+green 1 black 2 green 2 black 2 green 1
+green 2 red 4 green 2
+red 1 blue 1 red 1 blue 2 red 1 blue 1 red 1
+green 1 red 2 blue 2 red 2 green 1
+red 2 blue 4 red 2
+blue 1 red 6 blue 1
+black 1 red 1 green 1 blue 2 green 1 red 1 black 1
+red 8
+blue 1 red 1 green 4 red 1 blue 1
+green 1 red 1 green 4 red 1 green 1
+red 8
+black 1 red 1 green 1 blue 2 green 1 red 1 black 1
+
+columns
+green 1 black 1 green 4 red 1 green 1 red 1 blue 1 black 1 red 1 blue 1 green 1 red 1 black 1
+red 2 green 1 black 2 green 1 blue 1 red 9
+red 1 black 1 green 1 black 2 red 3 blue 1 red 1 green 1 red 1 green 2 red 1 green 1
+green 1 red 1 green 3 red 1 blue 3 red 1 blue 1 red 1 green 2 red 1 blue 1
+green 1 red 1 green 3 red 1 blue 3 red 1 blue 1 red 1 green 2 red 1 blue 1
+red 1 black 1 green 1 black 2 red 3 blue 1 red 1 green 1 red 1 green 2 red 1 green 1
+red 2 green 1 black 2 green 1 blue 1 red 9
+green 1 black 1 green 4 red 1 green 1 red 1 blue 1 black 1 red 1 blue 1 green 1 red 1 black 1

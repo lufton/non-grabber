@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Aug 27, 2021"
+description "Eat your heart out."
+difficulty 1.75
+height 20
+id 35312
+link "https://webpbn.com/play.cgi?id=35312"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "American Idiom 18 (Graphic)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 4
+red 6
+red 3 black 3
+red 3 black 2 green 1
+red 2 black 5
+red 1 black 5
+black 4 red 1 black 2
+black 5 red 2 black 4
+black 5 black 2
+black 5 black 2
+black 2 black 2
+black 2 black 6
+black 10
+black 10
+black 5
+black 3 red 2
+black 4 red 1
+black 6
+black 6
+black 6
+
+columns
+0
+0
+red 5 black 2 black 7
+red 5 black 5 black 8
+red 4 black 16
+red 2 black 13 red 1 black 4
+red 2 black 4 black 3 black 3 red 2 black 3
+red 1 black 1 green 1 black 2 black 2 black 3 black 3
+black 1 red 1 black 3
+red 2 black 3
+black 1 black 3
+black 8
+black 7
+black 1
+0

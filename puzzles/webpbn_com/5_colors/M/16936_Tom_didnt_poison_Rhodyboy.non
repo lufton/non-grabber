@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Dec 29, 2011"
+description "He was bungee jumping off this bridge in Kenya while on photo safari. He too brought back photos as proof of innocence. Check out puzzle 16910 and join the fun."
+difficulty 1.5
+height 20
+id 16936
+link "https://webpbn.com/play.cgi?id=16936"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Tom didn't poison Rhodyboy"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 20
+black 1 black 1 black 1 black 1 black 1 green 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 green 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 6 green 1 black 4 black 1 black 1
+black 1 black 4 green 2 black 4 black 1
+black 1 black 2 green 2 black 2 black 1
+black 3 green 1 black 3
+black 2 green 2 black 2
+black 2 green 1 black 1
+black 1 green 2
+blue 1 green 1
+blue 1
+blue 1
+red 1
+red 3
+black 1
+0
+0
+blue 20
+
+columns
+black 1 black 2 blue 1
+black 9 blue 1
+black 1 black 2 blue 1
+black 7 blue 1
+black 1 black 2 blue 1
+black 5 blue 1
+black 1 black 2 blue 1
+black 4 blue 1
+black 1 black 1 green 2 red 1 blue 1
+black 4 green 1 green 1 blue 3 red 2 black 1 blue 1
+black 1 green 1 black 1 green 2 green 3 red 1 blue 1
+black 2 green 3 green 1 blue 1
+black 1 black 1 blue 1
+black 4 blue 1
+black 1 black 2 blue 1
+black 5 blue 1
+black 1 black 2 blue 1
+black 7 blue 1
+black 1 black 2 blue 1
+black 9 blue 1

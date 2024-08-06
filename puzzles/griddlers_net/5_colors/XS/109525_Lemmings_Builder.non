@@ -1,0 +1,42 @@
+by "jim"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/22/11"
+height 10
+id 109525
+link "https://www.griddlers.net/nonogram/-/g/109525"
+medium_time "0:02:03"
+points 111
+popularity 58.61
+title "Lemmings: Builder"
+width 10
+
+color a 000000
+color b 00b000
+color c f0d0d0
+color d f02020
+color e 4040e0
+
+rows
+b 3
+b 2 c 1 b 1
+d 1 b 1 c 3 d 1
+d 4 e 2 d 2
+d 3 e 1 c 2 d 1
+d 3 e 2 c 3 d 1
+d 2 e 3 d 1
+e 3
+e 2
+c 3
+
+columns
+d 3
+d 5
+d 4
+b 2 d 1 e 5 c 1
+b 2 c 1 e 1 c 1 e 4 c 1
+b 1 c 2 e 1 c 2 e 2 c 1
+b 2 c 1 c 1
+c 1 d 1
+d 3
+d 2

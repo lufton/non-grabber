@@ -1,0 +1,76 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Andrew Schultz"
+date "Jun  5, 2021"
+description "King, bishop and knight against king is the trickiest practical endgame checkmate in chess. It requires you to pin your opponent into the same-color corner as your bishop. But first you have to force them into the opposite-color corner. There's a tightrope to walk to make sure the lone king stays trapped on or near the edge once he's in the corner. If you do it wrong, the 50-move rule comes into play, and the game is drawn. There are other final mating positions, but this is the main one."
+difficulty 2.0
+height 27
+id 32880
+link "https://webpbn.com/play.cgi?id=32880"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Requires intricate edge logic, sort of"
+width 27
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 4 black 4 green 1 black 4 green 1
+green 2 green 3 black 3 green 3 black 3 green 3
+green 7 black 4 green 1 black 4 green 3 green 1
+green 2 green 3 black 1 green 2 black 1 green 1 black 1 green 2 black 1 green 3 green 3
+green 1 green 3 green 9 green 2 green 4
+green 3 green 1 black 3 green 1 black 3 green 1 green 7
+green 3 green 2 black 2 green 1 black 2 green 2 green 5
+green 5 black 1 green 2 black 1 green 1 black 1 green 2 black 1 green 3
+green 7 black 2 green 5 black 2 green 7
+black 9 black 9
+black 9 black 9
+black 9 black 9
+black 9 black 9
+black 9 black 9
+black 9 black 9
+black 9 black 9
+black 9 black 9
+black 9 black 9
+red 1 black 9
+red 3 black 9
+red 1 black 9
+red 2 red 1 red 2 black 9
+red 9 black 9
+red 1 red 1 red 1 black 9
+red 2 red 1 red 2 black 9
+red 2 red 1 red 2 black 9
+red 5 black 9
+
+columns
+black 9 red 3
+green 3 green 1 black 9 red 2 red 2
+green 3 green 2 black 9 red 2 red 2
+green 3 green 4 black 9 red 1 red 1 red 1
+green 1 green 1 green 5 black 9 red 9
+green 9 black 9 red 1 red 1 red 1
+green 5 green 2 black 9 red 2 red 2
+green 3 green 1 black 9 red 2 red 2
+black 9 red 3
+black 4 green 3 black 2 black 9
+black 3 green 2 black 1 green 2 black 1 black 9
+black 3 green 2 black 2 green 2 black 9
+black 1 green 1 black 2 green 1 black 3 green 1 black 9
+green 9 black 9
+black 1 green 1 black 2 green 1 black 3 green 1 black 9
+black 3 green 2 black 2 green 2 black 9
+black 3 green 2 black 1 green 2 black 1 black 9
+black 4 green 3 black 2 black 9
+black 9
+green 3 green 1 black 9
+green 5 green 1 black 9
+green 3 green 4 black 9
+green 3 green 5 black 9
+green 1 green 6 black 9
+green 5 green 1 black 9
+green 3 green 1 black 9
+black 9

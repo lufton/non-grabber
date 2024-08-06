@@ -1,0 +1,31 @@
+by "Kristen Maria (coco4484)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kristen Maria"
+date "Dec 15, 2010"
+description ""
+difficulty 1.0
+height 5
+id 11416
+link "https://webpbn.com/play.cgi?id=11416"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Happy Quilt"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1 black 1 green 1 black 1 green 1
+green 1 black 1 green 1 black 1 green 1
+green 5
+black 1 green 3 black 1
+green 1 black 3 green 1
+
+columns
+green 3 black 1 green 1
+black 2 green 2 black 1
+green 4 black 1
+black 2 green 2 black 1
+green 3 black 1 green 1

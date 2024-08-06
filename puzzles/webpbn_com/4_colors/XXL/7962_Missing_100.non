@@ -1,0 +1,115 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Mar  6, 2010"
+description "The first Dalmatian"
+difficulty 3.75
+height 50
+id 7962
+link "https://webpbn.com/play.cgi?id=7962"
+note "published,definitely unique,may require moderate lookahead"
+quality 4.5
+title "Missing 100"
+width 43
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 43
+black 1 black 7 black 1
+black 1 black 3 black 2 black 3 black 1
+black 1 black 6 black 2 red 1 black 1 black 3 black 1
+black 1 black 11 red 3 black 3 black 2 black 1
+black 1 black 3 black 3 red 4 black 1 black 3 black 1
+black 1 black 3 black 4 red 2 black 1 black 3 black 1
+black 1 black 5 black 5 red 2 black 1 black 1 black 3 black 1
+black 1 black 2 black 2 black 5 black 2 black 2 red 2 black 1 black 3
+black 1 black 2 black 2 black 4 black 1 red 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 4 black 3 black 1 red 2 black 3 black 1 black 1
+black 1 black 2 black 2 black 2 black 2 black 3 red 1 black 1 black 2 black 1
+black 1 black 2 black 1 black 2 black 1 black 5 black 2 black 1
+black 1 black 2 black 3 black 2 black 4 black 7 black 2 black 1
+black 1 black 2 black 3 black 2 black 2 black 3 black 5 black 2 black 3
+black 1 black 2 black 2 black 2 black 1 black 4 black 5 black 2 black 1
+black 3 black 1 black 2 black 2 black 6 black 8 black 1
+black 2 black 2 black 2 black 4 black 5
+black 2 black 2 black 2 black 5
+black 3 black 2 black 6
+black 1 black 2 black 2 black 2 black 4 black 6
+black 1 black 2 black 2 black 2 black 5 black 6
+black 1 black 2 black 2 black 2 black 3 black 5
+black 1 black 2 black 2 black 1 black 4 black 1 black 1
+black 1 black 3 black 2 black 2 black 5 black 1
+black 1 black 2 black 2 black 2 black 2 black 2 black 1
+black 1 black 5 black 4 black 2 black 1 black 1
+black 1 black 3 black 3 black 2 black 1 black 1
+black 1 black 2 black 3 black 2 black 2 black 1
+black 1 black 2 black 2 black 7 black 3 black 3 black 1
+black 1 black 2 black 4 black 10 black 4 black 1
+black 1 black 2 black 2 black 8 black 1
+black 1 black 2 black 4 black 4 black 1
+black 1 black 2 black 3 black 2 black 1
+black 1 black 2 black 2 black 3 black 2 black 1
+black 1 black 2 black 2 black 2 blue 1 black 1
+black 1 black 2 black 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 2 black 1 blue 1 black 1 black 1
+black 1 blue 2 black 1 black 2 black 1 blue 2 black 1 black 1
+black 1 black 1 blue 2 black 1 black 2 black 1 blue 1 black 3 black 1
+black 1 black 2 blue 2 black 1 black 2 black 1 blue 1 black 8 black 1
+black 1 black 3 blue 1 black 1 black 1 blue 2 black 1 black 10 black 1
+black 1 black 4 blue 2 black 1 black 1 blue 2 black 1 black 7 black 1
+black 1 black 2 black 1 blue 2 black 2 blue 2 black 1 black 1 black 2 black 6 black 1
+black 1 black 2 black 1 blue 4 black 1 black 4 black 8
+black 1 black 2 black 1 blue 2 black 1 black 5 black 4
+black 1 black 5 black 2 black 1 black 3 black 4
+black 1 black 2 black 2 black 3 black 2 black 2 black 1 black 1
+black 1 black 2 black 2 black 1
+black 43
+
+columns
+black 50
+black 1 black 4 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 1
+black 1 black 2 black 3 black 2 black 1
+black 1 black 2 black 1 black 1
+black 1 black 2 black 2 black 3 black 2 black 1
+black 1 black 2 black 4 black 3 black 2 black 4
+black 1 black 2 black 5 black 1 black 8
+black 1 black 1 black 11 blue 2 black 8 black 1
+black 1 black 2 black 21 blue 2 black 3 black 2 black 1
+black 1 black 23 black 1 blue 2 black 2 black 2 black 1
+black 1 black 13 black 1 black 3 black 1 blue 3 black 1 black 1
+black 1 black 2 black 2 black 3 black 2 blue 2 black 1 black 1
+black 1 black 2 black 2 black 2 black 2 black 1 blue 2 black 1 black 1
+black 1 black 2 black 3 black 3 black 2 black 1 black 4 black 1 blue 2 black 1 black 1
+black 1 black 2 black 3 black 2 black 2 black 3 black 1 black 4 black 1 blue 2 black 1 black 1
+black 1 black 2 black 3 black 1 black 3 black 1 black 1 black 2 black 2 black 2 blue 2 black 1 black 1 black 1
+black 1 black 2 black 2 black 5 black 1 black 1 black 2 black 3 black 1 blue 3 black 1 black 1 black 1
+black 1 black 3 black 1 black 5 black 2 black 2 black 2 black 3 black 2 blue 3 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 3 black 1 black 2 black 2 black 2 black 1 blue 2 black 3 black 1
+black 3 black 1 black 1 black 2 black 4 black 1 blue 2 black 2 black 1 black 1
+black 2 black 3 black 1 black 1 black 6 blue 2 black 5 black 3 black 1
+black 2 black 1 red 1 black 1 black 1 black 1 black 2 black 3 black 2 black 1
+black 3 red 2 black 4 black 2 black 1 black 2 black 3 black 1
+black 4 red 2 black 3 black 4 black 1 black 2 black 2 black 3 black 3
+black 2 black 1 red 1 black 2 black 2 black 3 black 2 black 2 black 2 black 3
+black 3 black 1 red 1 black 2 black 1 black 4 black 1 black 2 black 3 black 1
+black 1 black 1 black 1 red 2 black 2 black 6 black 2 black 2 black 2 black 1
+black 1 black 2 black 1 red 2 black 2 black 5 black 1 black 2 black 2 black 1
+black 1 black 1 black 1 red 3 black 4 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 1 red 4 black 3 black 1 black 2 black 2 black 3 black 1 black 1
+black 1 black 2 black 2 red 1 black 1 black 3 black 2 black 2 black 2 black 2 black 1
+black 1 black 1 black 1 black 2 black 2 black 2 black 2 black 3 black 2 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 2 black 1
+black 1 black 1 black 2 black 1 black 3 black 1 black 2 black 2 black 1
+black 1 black 2 black 1 black 2 black 7 black 5 black 2 black 1
+black 1 black 1 black 2 black 2 black 7 black 2 black 4 black 1
+black 1 black 2 black 2 black 8 black 3 black 1
+black 1 black 2 black 1 black 6 black 3 black 1
+black 50

@@ -1,0 +1,46 @@
+by "amirh100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/15/08"
+height 15
+id 58314
+link "https://www.griddlers.net/nonogram/-/g/58314"
+medium_time "0:02:30"
+points 145
+popularity 52.83
+title "Rose"
+width 10
+
+color a 000000
+color e 0d8a0d
+color f ff00ff
+color g cc00cc
+
+rows
+f 3
+f 5
+f 1 f 2
+g 2 g 2
+g 4 g 3
+g 5 g 3
+g 5 g 4
+g 5 g 4
+g 1 g 2 e 2 g 1
+e 2 e 5
+e 6
+e 3
+e 2
+e 1
+e 1
+
+columns
+g 4
+f 2 g 4 e 1
+f 2 g 6 e 2
+f 2 g 6 e 1
+f 3 g 4 e 3
+f 2 e 7
+g 5 e 5
+g 5 e 2
+g 4 e 1
+g 3

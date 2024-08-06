@@ -1,0 +1,47 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by David Bouldin"
+date "Jul 23, 2010"
+description "A baby penguin waving hello..."
+difficulty 2.0
+height 15
+id 9727
+link "https://webpbn.com/play.cgi?id=9727"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Symmetrical If Not So Friendly"
+width 15
+
+rows
+9
+11
+2,3,2
+1,1,1
+2,1,2
+2,1,2,1
+3,1
+1,1,2
+3,3
+4,3
+13
+1,11
+11
+9
+11
+
+columns
+4
+2,4
+2,5,1
+2,2,6
+2,2,5
+2,5
+3,1,5
+8,5
+3,1,5
+2,5
+2,2,5
+2,2,6
+2,5,1
+2,3
+4

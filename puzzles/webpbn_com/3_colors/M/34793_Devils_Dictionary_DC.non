@@ -1,0 +1,61 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Bill Eisenmann"
+date "Jan  8, 2021"
+description "Politics Definition in first spoiler"
+difficulty 1.25
+height 20
+id 34793
+link "https://webpbn.com/play.cgi?id=34793"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Devil's Dictionary DC"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+blue 2 blue 2
+blue 7 black 3
+blue 1 blue 3 blue 1 black 5
+blue 7 black 6 black 2
+blue 5 black 10
+blue 5 black 11
+blue 5 black 10 black 1
+blue 5 black 1 black 8 black 1
+blue 3 black 2 black 2 black 1
+blue 1 black 2 black 2 black 1
+black 2 black 2
+0
+0
+0
+0
+
+columns
+blue 4 blue 3
+blue 7 blue 5
+blue 13
+blue 9
+blue 13
+blue 7 blue 5
+blue 4 blue 3
+black 1
+black 1
+black 6
+black 7
+black 5
+black 5
+black 5
+black 5
+black 9
+black 10
+black 2 black 3
+black 5
+black 8

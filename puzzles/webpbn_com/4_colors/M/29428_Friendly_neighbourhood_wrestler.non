@@ -1,0 +1,72 @@
+by "Roisin Clark (RC-bunny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Roisin Clark"
+date "Feb 15, 2017"
+description "Spider-Man"
+difficulty 2.25
+height 25
+id 29428
+link "https://webpbn.com/play.cgi?id=29428"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Friendly neighbourhood wrestler"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 red 2 black 1 red 2 black 3
+black 3 red 2 black 1 red 1 black 1 red 1 black 1 red 2 black 3
+black 2 red 2 black 1 red 2 black 3 red 2 black 1 red 2 black 2
+black 2 red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 1 red 1 black 2
+black 2 red 3 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 3 black 2
+black 2 red 2 black 1 red 2 black 1 red 2 black 3 red 2 black 1 red 2 black 1 red 2 black 2
+black 1 red 1 black 1 red 1 black 2 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 2 red 1 black 1 red 1 black 1
+black 2 red 2 black 2 blue 1 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 2 black 1 blue 1 black 2 red 2 black 2
+black 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 2 black 3 red 2 black 1 blue 1 black 1 red 1 black 1 red 1 black 1
+black 1 red 2 black 2 blue 1 black 1 red 2 black 1 red 2 black 1 blue 1 black 2 red 2 black 1
+black 1 red 3 black 1 blue 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 3 black 1
+black 1 red 2 black 2 blue 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 2 red 2 black 1
+black 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 1 black 1 red 1 black 1
+black 2 red 2 black 2 blue 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 2 red 2 black 2
+black 1 red 1 black 1 red 2 black 4 red 2 black 1 red 2 black 4 red 2 black 1 red 1 black 1
+black 2 red 2 black 1 red 5 black 3 red 5 black 1 red 2 black 2
+black 1 red 1 black 1 red 4 black 2 red 1 black 1 red 1 black 2 red 4 black 1 red 1 black 1
+black 2 red 3 black 2 red 2 black 3 red 2 black 2 red 3 black 2
+black 1 red 1 black 2 red 3 black 1 red 1 black 1 red 1 black 1 red 3 black 2 red 1 black 1
+black 2 red 4 black 1 red 2 black 1 red 2 black 1 red 4 black 2
+black 2 red 2 black 1 red 2 black 3 red 2 black 1 red 2 black 2
+black 1 red 1 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 2 black 1 red 1 black 1
+black 2 red 2 black 1 red 2 black 1 red 2 black 1 red 2 black 2
+black 3 red 3 black 1 red 3 black 3
+black 9
+
+columns
+black 7
+black 3 red 5 black 3
+black 2 red 2 black 1 red 3 black 1 red 2 black 3
+black 2 red 1 black 1 red 2 black 1 red 1 black 1 red 2 black 1 red 2 black 3
+black 2 red 3 black 7 red 2 black 1 red 2 black 2
+black 2 red 2 black 3 black 1 red 1 black 1 red 2 black 1 red 1 black 3
+black 1 red 1 black 1 red 2 black 1 blue 1 black 1 red 3 black 1 red 3 black 2
+black 2 red 2 black 1 red 2 black 1 blue 1 black 1 red 2 black 1 red 3 black 1 red 1 black 1
+black 1 red 1 black 1 red 2 black 1 red 2 black 1 blue 1 black 1 red 2 black 1 red 2 black 1 red 2 black 2
+black 1 red 2 black 1 red 2 black 1 red 2 black 1 blue 4 black 1 red 1 black 1 red 2 black 1 red 2 black 1 red 1 black 1
+red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 4 red 2 black 1 red 1 black 1 red 2 black 1 red 2 black 1
+red 2 black 1 red 2 black 1 red 2 black 1 red 6 black 1 red 1 black 1 red 2 black 1 red 3 black 1
+black 25
+red 2 black 1 red 2 black 1 red 2 black 1 red 6 black 1 red 1 black 1 red 2 black 1 red 3 black 1
+red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 4 red 2 black 1 red 1 black 1 red 2 black 1 red 2 black 1
+black 1 red 2 black 1 red 2 black 1 red 2 black 1 black 1 red 1 black 1 red 2 black 1 red 2 black 1 red 1 black 1
+black 1 red 1 black 1 red 2 black 1 red 2 black 1 black 1 red 2 black 1 red 2 black 1 red 2 black 2
+black 2 red 2 black 1 red 2 black 1 black 1 red 2 black 1 red 3 black 1 red 1 black 1
+black 1 red 1 black 1 red 2 black 1 blue 1 blue 1 black 1 red 3 black 1 red 3 black 2
+black 2 red 2 black 3 blue 5 black 1 red 1 black 1 red 2 black 1 red 1 black 3
+black 2 red 3 black 7 red 2 black 1 red 2 black 2
+black 2 red 1 black 1 red 2 black 1 red 1 black 1 red 2 black 1 red 2 black 3
+black 2 red 2 black 1 red 3 black 1 red 2 black 3
+black 3 red 5 black 3
+black 7

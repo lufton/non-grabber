@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Jan 12, 2013"
+description "easy puzzle...but do you know who this is or the title of the novel I'm looking for?"
+difficulty 2.0
+height 20
+id 20845
+link "https://webpbn.com/play.cgi?id=20845"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "yet another novel..."
+width 20
+
+rows
+3,8,4
+3,13
+17
+8,3,1,1
+3,3,1
+3,8,2
+1,7,2
+4,4,2
+9,2,1,1
+4,7,1,1
+1,5,3,3,1
+3,2,5,1
+5,1,2,1,1
+2,3,4,1
+3,1,1,1,2,1
+1,2,2,1,1
+4,2,3,1
+3,2,1,2,1
+2,2,5,1,2,1
+2,2,1,1,4,2
+
+columns
+1,1,1,2,3,1
+4,1,5,1,1,2
+4,1,2,4,2,1
+5,3,2,3
+3,2,3,3
+1,4,2,2,1,1
+4,1,2,1,2,1,1
+4,6,2,1,1
+4,2,2,3,3
+3,2,2,2
+3,2,2,2
+4,3,2
+13,1
+4,4,5,3
+2,1,1,2,1,2,1
+3,1,4,2,4
+4,2,9
+3,2,1
+2,2,3
+2,8

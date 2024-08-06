@@ -1,0 +1,78 @@
+by "cark"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/18/02"
+height 25
+id 2609
+link "https://www.griddlers.net/nonogram/-/g/2609"
+medium_time "0:10:23"
+points 29910
+popularity 62.65
+title "Christmas Pudding"
+width 30
+
+color a ffffff
+color b 009100
+color c 000000
+color d 7d6b6f
+color e ff0000
+color f 0000ff
+
+rows
+b 2
+b 2 b 3
+b 3 b 3
+b 4 c 1 b 3
+c 1 b 3 d 1 b 2 c 1
+c 2 d 3 e 1 d 1 e 1 c 2
+c 2 d 2 b 2 d 1 e 1 d 2 c 2
+c 2 d 2 b 3 e 1 b 3 d 1 c 2
+c 2 d 2 b 3 b 4 d 1 c 2
+c 2 d 2 b 2 b 3 d 2 c 2
+c 1 d 2 b 2 d 2 c 2
+c 2 d 1 d 2 c 1
+c 1 d 1 d 1 c 2
+c 2 d 1 d 2 c 1
+c 1 d 1 d 1 c 2
+c 2 d 1 d 2 c 1
+c 1 d 2 d 1 c 1
+b 2 c 1 d 1 b 2 b 2 d 1 c 1 b 2
+b 3 d 1 b 3 b 3 d 1 b 3
+b 4 b 4 b 4 b 4
+f 1 b 3 b 3 b 3 b 3 f 1
+f 2 c 1 b 2 e 1 b 2 d 14 b 2 e 1 b 2 c 1 f 2
+f 3 e 1 f 1 e 1 f 16 e 1 f 1 e 1 f 3
+f 26
+f 24
+
+columns
+f 2
+b 3 f 2
+b 4 c 1 f 2
+c 3 b 4 f 3
+c 3 d 3 b 3 e 1 f 2
+c 3 d 3 e 1 f 3
+c 3 d 2 b 3 e 1 f 2
+c 2 d 2 b 4 f 3
+c 2 d 2 b 4 d 1 f 3
+c 2 d 2 b 3 d 1 f 3
+c 2 d 2 d 1 f 3
+b 3 c 2 d 2 b 2 d 1 f 3
+b 4 d 2 b 3 d 1 f 3
+b 3 d 1 b 3 d 1 f 3
+b 2 d 1 b 2 d 1 f 3
+c 1 d 1 e 1 d 1 e 1 d 1 f 3
+b 2 d 1 e 1 b 2 d 1 f 3
+b 3 e 1 d 1 b 3 d 1 f 3
+b 3 c 2 d 1 b 4 d 1 f 3
+b 3 c 2 d 1 b 3 d 1 f 3
+b 2 c 2 d 2 b 3 d 1 f 3
+c 2 d 2 b 4 d 1 f 3
+c 2 d 2 b 4 f 3
+c 2 d 3 b 3 e 1 f 2
+c 3 d 3 e 1 f 3
+c 3 d 4 b 3 e 1 f 2
+c 4 b 4 f 3
+b 4 c 1 f 2
+b 3 f 2
+f 2

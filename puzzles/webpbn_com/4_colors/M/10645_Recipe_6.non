@@ -1,0 +1,62 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Oct 10, 2010"
+description "Chicken Cordon Bleu chicken-cord-on-blue"
+difficulty 1.5
+height 20
+id 10645
+link "https://webpbn.com/play.cgi?id=10645"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Recipe #6"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 15 blue 4
+blue 15 blue 4
+blue 14 red 3 blue 3
+blue 13 red 5 blue 2
+blue 12 red 7 blue 1
+blue 11 red 9
+blue 13 blue 2
+blue 14 blue 3
+blue 4 red 2 blue 9 black 1 blue 4
+blue 3 red 1 blue 9 black 1 blue 4
+blue 4 red 1 blue 5 blue 2 black 1 blue 4
+blue 4 red 1 blue 7 blue 1 black 1 blue 4
+blue 3 blue 2 blue 1 black 1 blue 4
+blue 6 blue 1 black 1 blue 4
+blue 5 blue 2 black 1 blue 4
+blue 1 blue 8 black 1 blue 4
+blue 2 blue 2 blue 9 black 2 blue 1
+blue 2 blue 2 blue 9 black 3 blue 1
+blue 2 blue 2 blue 11 blue 1
+blue 1 blue 1 blue 1 blue 13
+
+columns
+blue 12 blue 5
+blue 13 blue 3
+blue 13 blue 1
+blue 9 red 1 blue 3 blue 3
+blue 8 red 1 blue 3
+blue 8 red 1 red 1 blue 1
+blue 10 red 1 blue 2 blue 3
+blue 20
+blue 12 blue 7
+blue 12 blue 7
+blue 12 blue 7
+blue 5 red 1 blue 6 blue 7
+blue 4 red 2 blue 4 blue 1 blue 1 blue 5
+blue 3 red 3 blue 4 blue 1 blue 6
+blue 2 red 4 blue 4 blue 7
+red 4 black 10 blue 2
+blue 2 red 4 blue 8 black 2 blue 2
+blue 3 red 3 blue 9 black 1 blue 1
+blue 4 red 2 blue 10 blue 1
+blue 5 red 1 blue 14

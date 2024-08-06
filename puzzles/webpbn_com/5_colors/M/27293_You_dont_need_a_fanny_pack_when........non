@@ -1,0 +1,58 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 27293
+link "https://webpbn.com/play.cgi?id=27293"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "You don't need a fanny pack when......."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+black 1 black 2
+blue 1 black 1
+black 1 black 2
+red 1 black 1
+red 3
+red 4
+black 2 red 6
+black 1 red 6
+green 11
+green 1 green 1 green 1 green 1 blue 4
+green 2 green 1 green 2 blue 4
+green 2 green 2 blue 4
+green 3 blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+black 4
+black 5
+
+columns
+0
+0
+green 3
+green 1 green 2
+green 2 green 2
+black 1 green 1 green 1 green 1
+black 2 green 2 green 2
+red 2 green 1 green 2
+black 2 black 1 red 2 green 3 black 1
+black 1 blue 1 red 1 red 3 green 1 blue 8 black 2
+black 1 red 4 green 1 blue 8 black 2
+black 2 black 1 red 4 green 1 blue 8 black 2
+black 5 red 4 green 1 blue 8 black 2
+0
+0

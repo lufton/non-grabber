@@ -1,0 +1,46 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Nov 16, 2013"
+description "A simple little two from one."
+difficulty 1.25
+height 15
+id 23138
+link "https://webpbn.com/play.cgi?id=23138"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Thataway."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 3
+black 3
+black 3
+black 3
+black 5
+black 2 green 3
+black 3 green 3
+green 3
+green 3
+green 3
+green 3
+green 3
+green 2
+green 2
+green 1
+
+columns
+0
+black 1
+black 2
+black 1
+black 1 black 1
+black 5 green 10
+black 5 green 9
+black 5 green 7
+black 1
+0

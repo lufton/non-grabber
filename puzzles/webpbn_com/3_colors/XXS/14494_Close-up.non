@@ -1,0 +1,31 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun 11, 2011"
+description "What is it? Answer in first spoiler."
+difficulty 1.0
+height 5
+id 14494
+link "https://webpbn.com/play.cgi?id=14494"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "Close-up"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3
+red 4
+red 3 black 2
+red 2 black 1 red 2
+
+columns
+red 2
+red 3
+red 3 black 1
+red 2 black 1 red 1
+red 2 black 1 red 1

@@ -1,0 +1,31 @@
+by "M Dandene (SnarkyBear)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by M Dandene"
+date "Feb  5, 2019"
+description "Using the Find Puzzle feature here, I have successfully found and solved all 398 5x5 (and smaller) puzzles. Including all nine 1x1 puzzles! Onward to completing all 10x10 puzzles...."
+difficulty 1.25
+height 5
+id 32044
+link "https://webpbn.com/play.cgi?id=32044"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Achievement Unlocked! (Very Easy)"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 blue 1
+black 1 blue 1
+black 3 blue 1
+black 1
+black 3 blue 1
+
+columns
+black 3 black 1
+black 1 black 1 black 1
+black 1 black 3
+0
+blue 3 blue 1

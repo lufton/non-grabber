@@ -1,0 +1,67 @@
+by "Joseph Newton (Shroomyjoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joseph Newton"
+date "Aug 14, 2013"
+description "This is a Bongard Problem, in which one side follows a specific and simple rule that the other side does not. You have to find the rule. For clarification, the left 6 boxes have a [, ?, :, ;, - and . and the left side has a &, those two dots you can put above letters, !, =, * and _ Look at the spoilers in the comments for the answer."
+difficulty 2.25
+height 19
+id 22599
+link "https://webpbn.com/play.cgi?id=22599"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Puzzle in a Puzzle #3"
+width 27
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 13 red 1 black 13
+black 1 red 2 black 1 red 3 black 1 red 1 black 1 red 1 black 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 red 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 2 red 1 black 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1 red 1 red 1 black 1 black 1
+black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 2 red 1 black 1 black 1
+black 13 red 1 black 13
+black 1 black 1 black 1 red 1 black 1 red 1 black 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 3 black 1
+black 1 black 1 black 1 red 1 black 1 red 1 black 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1 red 3 black 1
+black 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 black 1
+black 13 red 1 black 13
+black 1 black 1 black 1 red 1 black 1 red 1 red 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 red 1 black 1 black 1
+black 1 red 3 black 1 black 1 red 1 black 1 red 1 red 1 black 1 black 1
+black 1 black 1 red 1 black 1 red 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1 red 5 black 1
+black 13 red 1 black 13
+
+columns
+black 19
+black 1 black 1 black 1 black 1
+black 1 red 5 black 1 black 1 red 1 black 1
+black 1 red 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 black 1 black 1 red 1 black 1
+black 1 black 1 black 1 black 1
+black 19
+black 1 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 black 1
+black 1 red 1 red 1 red 1 black 1 red 1 red 2 black 1 red 1 black 1
+black 1 red 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 19
+red 19
+black 19
+black 1 red 1 red 1 black 1 black 1 black 1
+black 1 red 1 red 1 red 1 black 1 black 1 red 1 red 1 black 1
+black 1 red 2 red 1 black 1 red 3 red 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1 black 1 black 1
+black 19
+black 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1
+black 1 black 1 black 1 red 1 black 1
+black 19

@@ -1,0 +1,39 @@
+by "Angie Heath (bewildering9)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Angie Heath"
+date "Jun 16, 2011"
+description "A sword, A deadly Weapon."
+difficulty 1.25
+height 8
+id 14664
+link "https://webpbn.com/play.cgi?id=14664"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Deadly Weapon"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 black 1 green 4
+green 1 black 1 green 1
+green 1 black 1 green 1
+green 1 black 1 green 1
+green 1 black 1 green 1
+green 1 blue 5 green 1
+green 1 red 1 green 1
+green 3 red 1 green 4
+
+columns
+green 8
+green 1 blue 1 green 1
+green 1 blue 1 green 1
+black 5 blue 1 red 2
+green 1 blue 1 green 1
+green 1 blue 1 green 1
+green 1 green 1
+green 8

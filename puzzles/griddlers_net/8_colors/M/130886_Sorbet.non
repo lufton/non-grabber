@@ -1,0 +1,62 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/8/13"
+height 26
+id 130886
+link "https://www.griddlers.net/nonogram/-/g/130886"
+medium_time "0:05:15"
+points 1109
+popularity 73.55
+title "Sorbet"
+width 11
+
+color a 8ff3df
+color b d67939
+color c fff39c
+color d f75939
+color e ff719c
+color f e79a29
+color g 94bab5
+color h ffffff
+
+rows
+b 4
+b 6
+b 5 c 3
+d 1 e 2 b 2 c 2 f 1 c 2
+d 2 e 1 d 1 e 2 f 4 c 1
+d 3 e 4 f 2 c 2
+d 5 e 2 f 3 c 1
+d 3 e 1 d 1 e 1 f 2 c 2
+g 2 d 2 g 3 h 1 f 1 c 1
+h 1 g 2 d 1 g 1 h 4 c 1
+h 1 g 3 h 2 g 1 h 2
+h 1 g 2 h 4 g 1 h 1
+h 1 g 1 h 5 g 1 h 1
+h 1 g 1 h 5 g 1 h 1
+h 1 g 1 h 5 g 1 h 1
+h 2 g 1 h 3 g 1 h 2
+h 7
+g 1 h 2
+g 1
+g 1
+g 1
+g 1
+g 1
+g 1
+g 1 h 2
+g 4 h 6 g 1
+
+columns
+d 3 g 1
+d 5 g 1 h 7 g 1
+b 1 e 2 d 3 g 7 h 2 g 1
+b 2 e 1 d 1 e 1 d 3 g 3 h 3 g 1 h 1 g 1
+b 4 e 2 d 1 e 1 d 2 g 1 h 6 g 1 g 1 h 1
+b 4 e 3 d 1 g 2 h 8 g 6 h 2
+b 3 c 1 f 1 e 3 g 1 h 9 h 2
+b 2 c 2 f 4 g 1 h 1 g 1 h 4 g 1 h 1 h 1
+b 1 c 1 f 5 h 3 g 4 h 2 h 1
+c 2 f 1 c 1 f 1 c 1 f 1 h 7 h 1
+c 7 g 1

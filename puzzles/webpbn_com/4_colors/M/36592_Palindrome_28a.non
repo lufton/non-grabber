@@ -1,0 +1,72 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Mar 29, 2023"
+description "1 word, 7 letters."
+difficulty 2.25
+height 20
+id 36592
+link "https://webpbn.com/play.cgi?id=36592"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Palindrome: 28a"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 8
+black 1 black 1 black 5
+black 1 black 1 black 2 black 2
+black 4 black 1 black 1 black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1 black 1 red 3 black 1 black 1
+black 1 red 1 black 1 black 1 blue 1 black 1 black 1 black 5 black 1
+black 4 black 1 blue 5 black 1 black 2 black 1 black 2
+black 1 black 1 blue 6 black 1 black 2 black 3 black 2
+black 5 black 1 blue 5 black 1 black 7
+black 1 black 1 black 1 black 1 blue 1 black 1 black 3
+black 1 black 2 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 2 black 2
+black 4 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 8 black 2 black 2
+
+columns
+0
+black 3 black 4
+black 6 black 1 black 1 black 1
+black 1 black 1 black 1 black 5
+black 1 red 2 black 5 black 4
+black 1 blue 1 black 1 red 1 black 2 black 1 black 1
+black 2
+black 2
+0
+black 20
+black 1 blue 3 black 1
+black 1 blue 3 black 1
+black 1 blue 3 black 1
+black 1 blue 5 black 1
+black 1 blue 3 black 1
+black 1 blue 1 black 1
+black 20
+0
+black 6
+black 2
+black 5 black 2 black 1
+black 2 black 1 black 1 black 5
+black 1 blue 1 red 2 black 1 black 7
+black 1 red 1 black 8
+black 1 blue 1 red 2 black 1 black 7
+black 2 black 1 black 1 black 5
+black 5 black 2 black 1
+black 2
+black 6
+0

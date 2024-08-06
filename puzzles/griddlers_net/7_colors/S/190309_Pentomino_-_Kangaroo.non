@@ -1,0 +1,52 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/19/18"
+height 13
+id 190309
+link "https://www.griddlers.net/nonogram/-/g/190309"
+medium_time "0:02:00"
+points 314
+popularity 75.0
+title "Pentomino - Kangaroo"
+width 15
+
+color a ffffff
+color c ffcc00
+color d ff0000
+color e 00d700
+color f 0066ff
+color g ff33ff
+color h 00ffff
+
+rows
+c 1
+c 3
+d 1 c 1
+d 2
+f 1 d 1
+f 3 d 1
+f 1 g 3
+g 1 e 1 g 1 h 2
+e 3 d 1 h 2
+e 1 f 1 d 3 h 1 g 1
+h 1 f 2 d 1 e 2 g 1
+h 1 f 1 e 2 g 1
+h 3 f 1 e 1 g 2 c 5
+
+columns
+f 2 h 1
+c 1 f 1 h 1
+c 1 d 2 f 2 g 2 e 2 h 3
+c 3 d 3 g 1 e 2 f 4
+g 2 e 1 d 1 f 1
+h 1 d 3
+h 2 d 1 e 2
+h 2 e 3
+g 4
+g 1
+c 1
+c 1
+c 1
+c 1
+c 1

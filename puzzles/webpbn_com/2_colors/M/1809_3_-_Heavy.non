@@ -1,0 +1,57 @@
+by "Hirameki (hirameki)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Hirameki"
+date "Nov 14, 2007"
+description "A weightlifter practicing"
+difficulty 3.75
+height 15
+id 1809
+link "https://webpbn.com/play.cgi?id=1809"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "[3] - Heavy"
+width 25
+
+rows
+1,1
+2,2,2
+4,3,1,2,1,3
+4,2,1,4,1,2
+2,1,1,4,1,1
+2,2,2
+4,2,2
+1,6,1,4
+2,1,2,1,2,2
+4,1,1,4,2
+2,2,2,2
+1,4,1,4
+1,1,1,1
+1,1,1,1
+2,2,2,2
+
+columns
+3
+5
+1
+1
+2,1
+2,2,1,4
+4,3,2
+4,3,2
+2,2,1,4
+2,1
+1
+3,1
+5,5
+1,3
+3
+1,2,1
+2,2,4
+4,5
+4,5
+2,2,4
+1,2,1
+3
+1
+5
+3

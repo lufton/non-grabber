@@ -1,0 +1,63 @@
+by "ik (ik)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ik"
+date "Dec  9, 2010"
+description "where am i from?!"
+difficulty 1.5
+height 20
+id 11301
+link "https://webpbn.com/play.cgi?id=11301"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "where is this?!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 7 black 1 blue 6 black 1 blue 2 blue 1
+blue 1 blue 1 black 3 blue 4 black 3 blue 1 blue 1
+blue 3 blue 1 black 3 blue 2 black 3 blue 1 blue 1
+blue 3 blue 4 black 6 blue 3 blue 1
+blue 5 blue 2 black 1 red 2 black 1 blue 1 blue 4
+blue 4 blue 2 black 1 red 2 black 1 blue 1 blue 2
+blue 8 black 6 blue 6
+black 3 red 2 black 3
+black 3 red 2 black 3
+black 1 red 4 black 1
+red 6
+red 6
+red 6
+red 6
+red 6
+green 4 green 4 red 2 green 3 green 1
+green 20
+green 20
+green 20
+
+columns
+blue 8 green 3
+blue 2 blue 5 green 4
+blue 2 blue 5 green 4
+blue 2 blue 3 green 4
+blue 2 blue 2 blue 1 green 4
+blue 3 blue 1 blue 1 green 3
+blue 2 black 1 blue 2 blue 1 black 1 green 4
+blue 1 black 3 blue 4 black 3 green 4
+blue 2 black 3 blue 2 black 3 red 5 green 4
+blue 3 black 6 red 6 green 4
+blue 4 black 1 red 2 black 1 red 9 green 3
+blue 4 black 1 red 2 black 1 red 9 green 3
+blue 3 black 6 red 6 green 4
+blue 2 black 3 blue 2 black 3 red 5 green 4
+blue 1 black 3 blue 1 blue 1 black 3 green 4
+blue 2 black 1 blue 2 blue 1 black 1 green 3
+blue 3 blue 2 blue 1 green 3
+blue 1 blue 1 blue 1 green 3
+blue 1 blue 3 green 3
+blue 8 green 4

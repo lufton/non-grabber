@@ -1,0 +1,33 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 20, 2011"
+description "Lightsaber!"
+difficulty 1.0
+height 8
+id 14044
+link "https://webpbn.com/play.cgi?id=14044"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "Something else from Star Wars"
+width 4
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+green 1
+green 1
+green 1
+green 1
+black 3
+black 1
+black 1
+
+columns
+black 1
+green 5 black 3
+black 1
+0

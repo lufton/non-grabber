@@ -1,0 +1,78 @@
+by "kenhowle"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/31/19"
+height 20
+id 202223
+link "https://www.griddlers.net/nonogram/-/g/202223"
+medium_time "0:11:17"
+points 8843
+popularity 68.93
+title "Down Hill Run"
+width 35
+
+color a FFFFFF
+color b 660000
+color d 00ff00
+color f 00ffff
+color g ff00ff
+color h 808080
+
+rows
+h 5
+h 4
+h 5
+h 9
+f 3 h 5 b 1 b 1
+b 2 g 4 f 4 h 3 f 1 b 1 h 1
+b 3 g 6 f 7 b 1 h 1
+b 4 g 2 g 3 f 8 g 5
+b 5 g 2 b 2 g 2 f 6 g 7
+b 6 h 1 g 2 b 4 g 2 f 6 g 3 g 2
+b 7 h 1 g 2 b 1 b 1 g 3 f 5 g 2 b 4 h 1
+b 8 h 1 g 2 b 1 b 1 g 5 f 3 g 1 b 1 b 1 h 1
+b 11 b 2 b 1 g 8 b 1 b 1 h 1
+b 11 b 4 g 7 b 4
+b 26 b 2
+d 1 b 32
+d 2 b 13 b 13
+d 5
+d 6
+d 35
+
+columns
+b 8 d 5
+b 9 d 4
+b 9 d 3
+b 9 d 3
+b 8 d 3
+b 7 d 2
+b 6 d 1
+b 6 d 1
+h 3 b 5 d 1
+g 3 b 5 d 1
+g 4 b 5 d 1
+g 2 b 4 d 1
+g 2 b 3 b 3 d 1
+g 2 b 2 b 1 b 3 d 1
+g 2 b 2 b 1 b 3 d 1
+g 3 b 3 b 3 d 1
+f 1 g 4 b 4 d 1
+h 1 f 2 g 5 b 4 d 1
+h 2 f 5 g 3 b 5 d 1
+h 4 f 5 g 3 b 4 d 1
+h 5 f 6 g 3 b 2 d 1
+h 6 f 5 g 3 b 2 d 1
+h 6 f 5 g 3 b 3 d 1
+h 1 h 3 f 6 g 2 b 3 d 1
+h 1 h 1 b 1 f 3 f 3 g 2 b 3 d 1
+h 1 f 1 g 2 f 1 g 2 b 3 d 1
+b 2 g 6 b 3 d 1
+h 1 b 1 g 3 b 3 d 1
+h 1 g 2 b 4 b 2 d 1
+g 2 b 1 b 1 b 2 d 1
+g 2 b 1 b 1 b 2 d 1
+g 2 b 4 b 2 d 1
+g 2 b 2 d 1
+g 1 h 3 b 3 d 1
+b 3 d 1

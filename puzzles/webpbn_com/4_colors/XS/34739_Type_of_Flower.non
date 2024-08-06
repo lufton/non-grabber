@@ -1,0 +1,42 @@
+by "Rena Molnyenski (Rena_Molnyenski)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Rena Molnyenski"
+date "Dec 16, 2020"
+description "Dandelion"
+difficulty 1.75
+height 10
+id 34739
+link "https://webpbn.com/play.cgi?id=34739"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.0
+title "Type of Flower"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3
+black 2 black 4
+black 1 black 3 red 1 black 1 red 1
+black 6 red 2
+black 5 red 1 black 1
+black 4 red 5
+black 3 red 3 green 1
+black 3 red 2 green 3
+black 4 red 1 green 4
+black 1 red 1 green 2
+
+columns
+black 3
+black 2 black 4
+black 1 black 6
+black 8
+black 4 red 2 black 1
+black 4 red 5
+black 1 red 1 black 2 red 2 green 2
+black 3 red 2 green 3
+black 1 red 2 black 1 red 1 green 3
+red 1 red 1 green 2

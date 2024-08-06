@@ -1,0 +1,51 @@
+by "Diana (dianaid)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Diana"
+date "Jul 13, 2016"
+description ""
+difficulty 1.5
+height 20
+id 28364
+link "https://webpbn.com/play.cgi?id=28364"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Vapp"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 10
+green 4 green 4
+green 3 green 3
+green 2 black 2 green 2
+green 1 black 4 green 1
+black 6
+black 8
+black 10
+black 10
+black 10
+black 3 black 3
+black 4 black 4
+black 1 black 6 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 6 black 1
+black 4 black 4
+black 3 black 3
+black 10
+black 10
+
+columns
+green 5 black 13
+green 4 black 6 black 4
+green 3 black 8 black 5
+green 2 black 6 black 6 black 2
+green 1 black 7 black 1 black 1 black 2
+green 1 black 7 black 1 black 1 black 2
+green 2 black 6 black 6 black 2
+green 3 black 8 black 5
+green 4 black 6 black 4
+green 5 black 13

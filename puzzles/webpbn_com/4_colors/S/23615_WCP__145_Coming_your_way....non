@@ -1,0 +1,52 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Jan 18, 2014"
+description "...Homerun"
+difficulty 2.25
+height 15
+id 23615
+link "https://webpbn.com/play.cgi?id=23615"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "WCP # 145 Coming your way..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 12 black 1 black 1
+green 10 black 2 black 2
+black 6 black 1
+black 2 black 2 black 1 black 2
+black 2 red 1 red 1 black 2 black 1
+black 1 red 1 red 1 black 1
+black 1 red 1 red 1 black 1 green 1
+black 1 red 1 red 1 black 1 green 2
+black 1 red 1 red 1 black 1 green 3
+black 2 red 1 red 1 black 2 green 4
+black 2 black 2 green 5
+black 6 green 6
+green 7
+black 3 black 3 green 1 black 3 green 1 black 2
+black 1 black 1 black 1 black 1
+
+columns
+green 2 black 6 black 1
+green 2 black 2 black 2 black 1
+green 2 black 2 red 1 red 1 black 2 black 1
+green 2 black 1 red 4 black 1 black 1
+green 2 black 1 black 1 black 1
+green 2 black 1 black 1 black 1
+green 2 black 1 red 4 black 1 black 1
+green 2 black 2 red 1 red 1 black 2 black 1
+green 2 black 2 black 2 green 2 black 1
+green 2 black 6 green 2 black 1
+green 1 black 1 green 3 black 1
+green 1 black 1 black 2 green 4 black 1
+black 1 black 1 green 6 black 1
+black 1 black 1 green 6 black 1
+black 2 black 1 green 7 black 1

@@ -1,0 +1,61 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Joe"
+date "May 15, 2018"
+description "Nothing in Kansas makes beastly noises -- See comment 1"
+difficulty 2.0
+height 20
+id 31220
+link "https://webpbn.com/play.cgi?id=31220"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Cryptic Puzzle 14"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 3
+green 1 black 5 green 1
+black 8 green 1
+green 1 black 9 green 1 green 2
+black 4 green 1 black 5 green 1 green 1 black 1 green 1
+green 1 black 4 green 2 black 3 green 1 green 1 black 2 green 1
+black 6 green 4 green 1 black 2 green 1
+black 2 green 1 black 12
+black 3 green 1 green 1 black 9 green 1
+black 5 green 1 black 6 green 1
+black 6 black 3 green 3
+black 7 green 2 black 4 green 1
+black 13 green 1
+black 12 green 1
+black 10 green 2
+black 10 green 1
+black 11
+black 11 green 1
+black 12 green 1
+black 13 green 1
+
+columns
+black 13
+black 13
+green 1 black 12
+green 1 black 3 green 1 green 1 black 11
+black 6 black 11
+green 1 black 6 green 1 black 10
+green 1 black 7 green 1 black 9
+green 1 black 3 green 1 black 4 green 1 black 8
+black 4 green 1 black 3 green 1 green 1 black 8
+green 1 black 3 green 1 black 14
+black 4 green 1 black 7 green 2 black 4
+green 1 black 3 green 1 black 7 green 1 green 1 black 2
+green 1 black 2 green 1 black 3 green 1 black 2 green 1 green 1 black 1
+green 3 black 3 green 3 green 1
+black 3 green 1
+green 1 black 2 green 1
+green 1 black 2 green 1
+green 1 black 3
+green 1 black 2 green 1
+green 3

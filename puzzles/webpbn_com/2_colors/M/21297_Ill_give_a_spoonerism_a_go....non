@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom King"
+date "Mar  8, 2013"
+description "Fat carts..."
+difficulty 1.75
+height 20
+id 21297
+link "https://webpbn.com/play.cgi?id=21297"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "I'll give a spoonerism a go..."
+width 20
+
+rows
+3,3
+12
+1,1
+1,1
+1,1,1
+1,7,1
+1,1,1
+1,1
+1,1
+3,3,1
+20
+1,3,3
+1,1
+1,1,1
+1,7,1
+1,1,1
+1,1
+1,1
+12
+3,3
+
+columns
+1,9
+1,1,2,2
+1,2,2
+1,2,2
+1,1,1
+1,1,1
+1,1,1
+1,2,2
+10,2
+1,2,2
+2,1,1
+2,9
+2,2,1
+1,2,1
+1,1,1
+1,1,1
+2,2,1
+2,2,1
+2,2,1,1
+10,1

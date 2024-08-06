@@ -1,0 +1,71 @@
+by "Laura Farnan (lfarnan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Laura Farnan"
+date "Jan 22, 2018"
+description "Third step of the Sierpinski carpet (a plane fractal first described by Waclaw Sierpinski in 1916). The construction of the Sierpinski carpet begins with a square. The square is cut into 9 congruent subsquares in a 3-by-3 grid, and the central subsquare is removed."
+difficulty 1.5
+height 27
+id 30774
+link "https://webpbn.com/play.cgi?id=30774"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A rug"
+width 27
+
+rows
+0
+1,1,1,1,1,1,1,1,1
+0
+3,3,3
+1,3,1,1,3,1,1,3,1
+3,3,3
+0
+1,1,1,1,1,1,1,1,1
+0
+0
+1,1,1,1,1,1,1,1,1
+0
+3,3,3
+1,3,1,1,3,1,1,3,1
+3,3,3
+0
+1,1,1,1,1,1,1,1,1
+0
+0
+1,1,1,1,1,1,1,1,1
+0
+3,3,3
+1,3,1,1,3,1,1,3,1
+3,3,3
+0
+1,1,1,1,1,1,1,1,1
+0
+
+columns
+0
+1,1,1,1,1,1,1,1,1
+0
+3,3,3
+1,3,1,1,3,1,1,3,1
+3,3,3
+0
+1,1,1,1,1,1,1,1,1
+0
+0
+1,1,1,1,1,1,1,1,1
+0
+3,3,3
+1,3,1,1,3,1,1,3,1
+3,3,3
+0
+1,1,1,1,1,1,1,1,1
+0
+0
+1,1,1,1,1,1,1,1,1
+0
+3,3,3
+1,3,1,1,3,1,1,3,1
+3,3,3
+0
+1,1,1,1,1,1,1,1,1
+0

@@ -1,0 +1,92 @@
+by "jack thorn (ravenskuld)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by jack thorn"
+date "Apr  3, 2008"
+description "Viking longship"
+difficulty 3.0
+height 25
+id 2590
+link "https://webpbn.com/play.cgi?id=2590"
+note "published,definitely unique,definitely requires some guessing"
+quality 3.25
+title "Raiding Party"
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 18
+black 2 red 2 red 2 red 2 black 2
+black 2 red 2 red 2 red 2 black 2
+black 2 red 2 red 2 red 2 black 2
+black 2 red 2 red 2 red 2 black 2
+black 2 red 2 red 2 red 2 black 2
+black 2 red 2 red 2 red 2 black 2
+black 2 red 2 red 2 red 2 black 2 black 3
+black 2 red 2 red 2 red 2 black 2 black 2 black 2
+black 2 red 2 red 2 red 2 black 2 black 1 black 1
+black 2 black 2 red 2 red 2 red 2 black 2 black 1 black 2
+black 1 black 1 black 2 red 2 red 2 red 2 black 2 black 1 black 3
+black 1 black 1 black 18 black 1 black 1
+black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 5 black 6 black 5 black 1 black 1
+black 1 black 3 black 2 black 2 black 2 black 2 black 2 black 1 black 1
+blue 2 black 1 black 1 black 3 black 3 black 4 black 1 blue 2
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 1 blue 1 blue 3
+blue 3 black 1 black 5 black 5 black 5 black 1 blue 5
+blue 5 black 1 blue 2 blue 2 blue 2 blue 2 black 1 blue 6
+blue 7 black 1 blue 2 blue 2 blue 2 blue 2 black 1 blue 7
+blue 8 black 4 blue 3 black 3 blue 3 black 3 blue 3 black 3 blue 3 black 4 blue 8
+blue 45
+
+columns
+blue 1 blue 3
+blue 2 blue 4
+blue 8
+blue 7
+black 9 blue 5
+black 1 black 1 blue 4
+black 4 black 1 blue 3
+black 2 black 1 blue 2
+black 2 black 1 blue 1
+black 5 black 1 blue 1
+black 2 black 2 black 1 blue 1
+black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 blue 1 blue 2
+black 2 black 2 black 1 black 1 blue 4
+black 3 black 3 black 2 black 2 blue 3
+black 1 black 9 black 1 black 5 black 1 blue 1
+black 1 black 7 black 1 black 1 black 1 blue 1
+black 1 red 1 red 1 black 1 black 5 black 1 blue 1
+black 1 red 2 red 2 black 1 black 2 black 2 blue 1 blue 2
+black 1 red 9 black 1 black 1 black 1 blue 4
+black 1 red 7 black 1 black 1 black 1 black 1 blue 3
+black 1 red 1 red 1 black 1 black 1 black 1 black 1 blue 1
+black 1 red 2 red 2 black 4 black 2 black 1 blue 1
+black 1 red 9 black 8 black 1 blue 1
+black 1 red 7 black 1 black 1 blue 1 blue 2
+black 1 red 1 red 1 black 1 black 5 blue 4
+black 1 red 2 red 2 black 1 black 2 black 2 blue 3
+black 1 red 9 black 1 black 1 black 1 black 1 blue 1
+black 1 red 7 black 1 black 1 black 1 black 1 black 1 blue 1
+black 2 black 2 black 1 black 1 black 1 blue 1
+black 2 black 2 black 2 black 2 blue 1 blue 2
+black 9 black 5 blue 4
+black 7 black 1 blue 3
+black 1 black 1 blue 1
+black 1 black 1 blue 1
+black 2 black 1 blue 1
+black 6 black 1 blue 1
+black 2 black 1 blue 2
+black 1 black 5 black 1 blue 3
+black 2 black 1 black 5 blue 4
+black 1 black 2 blue 6
+black 2 blue 1 blue 5
+blue 9
+blue 8
+blue 8

@@ -1,0 +1,73 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/14/10"
+height 26
+id 97488
+link "https://www.griddlers.net/nonogram/-/g/97488"
+medium_time "0:11:37"
+points 7206
+popularity 76.72
+title "Fuzzy Bumblebee"
+width 26
+
+color a ffffff
+color b 000000
+color g ffda47
+color h f9fcb7
+
+rows
+h 3
+h 5
+h 7
+h 7
+h 8
+b 3 g 2 h 9
+b 3 g 2 b 2 h 8
+b 2 g 2 b 1 g 3 h 7
+b 1 g 2 b 1 g 2 b 2 h 6
+g 2 b 1 g 2 b 1 g 3 h 5
+g 1 b 1 g 2 b 1 g 2 b 2 h 4
+b 2 g 1 b 1 g 2 b 4 h 3
+b 5 h 1 g 1 b 1 g 1 b 6 h 2 b 2
+b 2 h 5 g 1 b 6 g 3 b 1
+b 1 h 8 b 5 g 4 b 5
+b 2 h 11 b 2 g 3 b 3
+h 12 g 3 b 2 b 1
+h 13 g 2 b 5
+h 10 b 1 g 2 b 2 b 3
+h 4 b 2 g 1 b 5
+b 3 b 1
+b 1 b 1
+b 1
+b 2
+b 1
+b 1
+
+columns
+b 1
+b 3 h 2
+b 2 h 5
+b 1 h 6
+b 1 h 6
+b 1 h 7
+b 3 g 2 b 2 h 6
+b 3 g 2 b 2 h 7
+b 2 g 2 b 1 g 3 h 6
+b 1 g 2 b 1 g 2 b 2 h 6 b 2
+g 2 b 1 g 2 b 1 g 3 h 5 b 1
+g 1 b 1 g 2 b 1 g 2 b 3 h 3 b 2
+h 1 b 1 g 1 b 1 g 2 b 4 h 3 b 2
+h 3 g 1 b 1 g 1 b 6 h 2 g 1
+h 7 g 1 b 6 g 4 b 3
+h 10 b 4 g 3 b 6
+h 12 b 2 g 3 b 3
+h 13 g 3 b 2 b 1
+h 13 g 2 b 5
+h 9 g 2 b 1 b 3
+h 6 b 5
+b 1
+b 1
+b 1
+b 3
+b 1

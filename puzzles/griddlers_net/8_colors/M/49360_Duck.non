@@ -1,0 +1,75 @@
+by "krzysiek"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/21/07"
+height 27
+id 49360
+link "https://www.griddlers.net/nonogram/-/g/49360"
+medium_time "0:10:47"
+points 3236
+popularity 78.27
+title "Duck"
+width 23
+
+color a ffffff
+color b cc00cc
+color c ffff66
+color d ff0000
+color e ff99ff
+color f 0000ff
+color g 00ffff
+color h ccffff
+
+rows
+g 2 h 2 g 2
+g 2 h 1 g 3 h 2
+g 1 h 1 g 2 h 2 g 3
+g 1 h 1 g 2 h 1 g 3 c 2
+g 1 h 1 g 1 h 1 g 2 c 4
+g 1 h 1 g 2 c 5 c 1
+g 2 h 1 g 1 c 4 f 1 c 1 c 2
+h 2 g 1 c 5 d 3 c 2
+g 2 h 1 c 5 d 2
+h 2 b 2 c 2 b 1 b 2
+g 2 b 1 e 1 b 3 b 2
+h 2 e 2 c 2 e 1 b 2
+c 1 g 2 e 1 c 9 f 4
+c 2 e 1 h 2 e 1 c 8 f 4
+c 3 e 1 b 1 e 2 g 1 e 2 c 6 f 2
+c 1 e 5 h 1 e 3 c 4
+e 3 b 1 e 2 g 1 e 5
+b 1 e 11 b 1 e 1
+b 1 e 2 b 1 e 5 b 1 e 4
+b 1 e 12
+b 2 e 3 b 1 e 4 b 1 e 1
+b 2 e 8
+b 8
+d 1
+d 1 d 2
+d 8
+d 7
+
+columns
+b 2
+c 2 e 2 b 1
+c 4 e 4 b 1
+c 1 e 3 b 1 e 1 b 1
+e 7 b 1
+b 1 e 1 b 1 e 4 b 1 d 2
+e 9 b 1 d 2
+g 2 g 1 h 1 g 1 h 1 g 1 h 1 g 1 h 1 e 6 b 1 e 1 b 1 d 4
+g 2 h 2 g 2 h 1 g 1 h 1 g 1 h 1 g 1 h 1 g 1 h 1 g 1 e 5 b 1 d 2
+g 2 h 1 g 2 h 2 g 1 h 1 b 2 e 7 b 1 e 3 b 1 d 2
+g 1 h 1 g 2 h 1 g 2 c 2 b 1 e 2 c 2 e 8 b 1 d 2
+h 1 g 2 h 1 g 2 c 4 b 1 c 4 e 7 b 1 d 3
+h 1 g 1 h 1 g 2 c 5 b 1 c 5 e 1 b 1 e 2 b 1 e 1 b 1 d 2
+g 2 h 1 g 1 c 5 b 2 e 1 c 4 e 6 b 1
+g 1 h 1 g 2 c 5 c 4
+h 1 g 1 c 3 f 1 d 2 c 4
+g 1 c 4 d 2 c 3
+d 1 c 2
+c 1
+f 2
+c 2 b 3 f 3
+c 3 b 3 f 3
+f 2

@@ -1,0 +1,83 @@
+by "cpt"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/29/06"
+height 30
+id 35225
+link "https://www.griddlers.net/nonogram/-/g/35225"
+medium_time "0:20:55"
+points 16621
+popularity 66.46
+title "Yellow Flowers"
+width 30
+
+color a ffffff
+color b 000000
+color d 00c500
+color e efd23c
+color f f9fe03
+color g 8e0100
+
+rows
+b 2
+b 3 f 2 b 1
+b 3 f 6 b 3
+b 1 f 3 b 1 e 1 f 4 b 2 f 1 b 1
+b 1 f 3 b 1 e 1 f 4 b 1 f 2 b 1
+b 1 f 3 b 1 e 2 b 3 f 3 b 1
+b 1 f 3 b 1 e 1 b 2 e 1 f 4 b 1
+b 1 f 2 b 1 e 1 b 2 e 5 b 1
+b 4 e 5 f 3 b 1
+b 1 f 3 b 1 e 1 b 2 f 1 b 1 f 2 b 1
+b 1 f 4 b 1 f 4 b 1 f 1 b 1
+b 1 e 3 f 1 b 2 f 3 e 1 b 1 d 1 b 4
+b 2 e 2 b 2 f 1 e 3 b 1 d 2 b 1 e 1 f 1 b 2
+b 1 d 1 b 1 e 1 b 1 e 1 b 5 g 2 b 1 e 1 f 1 e 1 b 1
+b 1 d 1 b 5 g 1 d 1 b 5
+b 1 d 2 g 1 g 3 b 1
+b 1 d 3 g 1 g 3
+b 1 d 1 b 1 d 1 g 2 g 3
+b 1 d 1 b 1 d 1 g 1 g 2
+b 1 d 1 b 1 d 1 g 1 g 8 d 2
+b 1 d 2 g 2 g 2 g 3 d 1
+b 2 g 5 d 1 g 1 d 1
+b 1 g 3 d 1 g 1
+b 1 g 2 d 1 b 1
+g 3 b 3
+g 6 b 1 e 2 b 1
+g 3 b 1 e 3 b 1
+b 1 e 1 b 1
+b 1 e 1 b 1
+b 1
+
+columns
+g 1
+g 1
+g 2
+g 1
+b 4 g 1
+b 3 d 4 b 2 g 1
+b 4 d 4 b 3 d 1 b 3 g 2
+b 1 f 4 b 5 d 6 g 2
+b 1 f 5 b 1 f 2 e 1 b 1 g 2
+b 1 f 5 b 1 f 2 e 1 b 2 g 2
+b 1 f 1 b 6 f 2 e 3 b 1 g 2
+b 1 f 1 e 6 b 1 f 2 e 1 b 2 g 3
+b 1 f 3 e 1 b 2 e 2 b 3 e 1 b 1 g 5
+b 1 f 4 b 3 e 1 b 1 f 1 b 4 g 3 g 1
+b 1 f 4 b 1 e 3 b 1 f 3 b 2 g 2
+b 1 f 3 b 1 f 1 e 2 f 3 e 1 b 1 g 2
+b 3 f 2 e 1 f 1 b 1 f 2 e 1 b 1 g 2
+b 2 f 3 e 1 f 2 b 1 e 2 b 1 g 3
+b 1 f 4 e 1 f 3 b 2 g 1 g 1
+b 8 g 2 g 1
+g 1 g 1
+g 2 g 1
+g 1 g 2
+d 1 g 3 d 1 g 1 d 3
+d 2 g 1 d 1 d 1 g 3 b 4
+b 5 d 2 b 1 e 2 b 2
+b 1 e 2 b 1 b 1 e 4 b 1
+b 1 f 2 b 1 b 1 e 1 b 2
+b 2 e 1 b 1 b 1
+b 3

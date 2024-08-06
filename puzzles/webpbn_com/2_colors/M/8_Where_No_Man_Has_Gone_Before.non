@@ -1,0 +1,67 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Mar 24, 2004"
+description "The Star Ship Enterprise. It took a lot of fiddling around to make the puzzle solvable, including adding a planet and painting the pylons black."
+difficulty 3.5
+height 15
+id 8
+link "https://webpbn.com/play.cgi?id=8"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Where No Man Has Gone Before"
+width 35
+
+rows
+12
+11,1,1,1
+2,1,1,2,11
+1,3,1,3
+4,4,3,11
+15,3,1,1,1
+10,1,3,10
+5,3,3
+5,3,3
+5,5,6
+8,15
+10,1,4,3,1
+12,1,2
+13,1,5
+14,8
+
+columns
+2,6
+1,2,6
+1,2,6
+1,2,6
+1,2,6
+1,2,5
+2,2,5
+1,1,2,5
+1,1,2,4
+1,1,2,4
+2,2,3
+1,2,3
+1,2,2
+1,4,1
+1,2,2
+1,2,3,3
+2,5,1
+1,5,1
+1,1,4,1
+6,3,1
+1,7,2,1
+1,9,1
+1,1,5,1
+1,1,1,2,2
+1,1,1,1,3,1
+1,1,8,1
+1,1,1,6,1
+1,1,1,3,1,1
+1,1,1,1,1,1
+2,1,1,1,1
+1,1,2
+1,1
+1,1
+1,1
+2

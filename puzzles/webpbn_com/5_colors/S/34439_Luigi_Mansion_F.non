@@ -1,0 +1,51 @@
+by "seulki (Sleepground)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by seulki"
+date "Aug 30, 2020"
+description "Ã¬Ââ¢Ã¬Ëâ¢"
+difficulty 1.25
+height 13
+id 34439
+link "https://webpbn.com/play.cgi?id=34439"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Luigi Mansion F"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 15
+blue 15
+blue 7 green 1 blue 2 red 2 blue 3
+blue 6 green 3 blue 1 red 2 blue 3
+blue 2 green 5 green 5 blue 2
+blue 1 green 5 green 5 blue 1
+green 5 green 5
+blue 1 green 3 blue 1
+blue 1 black 2 green 3 black 2 blue 1
+blue 1 black 2 red 1 green 2 black 2 blue 1
+blue 1 green 3 blue 1
+blue 1 green 3 blue 1
+black 15
+
+columns
+blue 6 green 1 blue 5 black 1
+blue 5 green 2 black 1
+blue 4 green 3 black 2 black 1
+blue 4 green 3 black 2 black 1
+blue 4 green 3 black 1
+blue 4 green 2 black 1
+blue 3 green 2 green 2 red 1 green 2 black 1
+blue 2 green 2 green 5 black 1
+blue 3 green 2 green 5 black 1
+blue 4 green 2 black 1
+blue 2 red 2 green 3 black 1
+blue 2 red 2 green 3 black 2 black 1
+blue 4 green 3 black 2 black 1
+blue 5 green 2 black 1
+blue 6 green 1 blue 5 black 1

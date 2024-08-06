@@ -1,0 +1,82 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/30/07"
+height 30
+id 42111
+link "https://www.griddlers.net/nonogram/-/g/42111"
+medium_time "0:38:23"
+points 67925
+popularity 67.36
+title "Museum"
+width 30
+
+color a ffffff
+color d 000000
+color e cccccc
+color f 868686
+color g 424242
+
+rows
+d 4 d 2
+d 3 d 3 d 2 d 2
+d 3 d 2 d 3 d 1 e 1 d 2 f 1 d 1
+d 3 d 2 f 2 d 2 d 3 d 1 e 2 f 2 d 1
+d 3 d 2 f 2 e 4 d 2 d 3 e 2 f 2 d 1
+d 2 d 2 f 2 e 4 e 2 d 2 d 2 e 1 f 2 d 1
+d 1 e 1 d 2 d 2 e 2 e 2 d 2 d 2 f 1 d 1
+d 1 g 1 e 2 d 2 d 2 e 2 d 2 d 2
+d 1 e 1 g 2 e 2 d 2 d 2 e 2 d 2 d 1
+d 2 e 2 g 2 e 2 d 2 d 2 d 2 d 3
+d 2 e 2 g 2 e 2 d 2 d 2 d 2 d 2 f 2 d 1
+d 1 e 2 g 2 e 2 d 2 d 2 d 2 f 2 d 1
+d 3 e 2 g 2 e 2 d 2 d 2 f 2 f 2 d 1
+d 1 e 2 d 2 e 2 g 2 e 2 d 2 f 2 f 4 d 1
+d 3 e 2 d 2 e 2 g 2 e 1 f 1 f 3 d 1 f 2 d 1
+d 1 f 1 d 2 e 2 d 2 d 1 f 1 e 2 g 1 f 5 d 1 f 2 d 1
+d 1 f 1 d 1 d 2 e 2 d 2 d 2 f 2 e 3 f 2 d 1 f 6 d 1
+d 1 f 1 d 1 d 1 f 1 d 2 e 2 d 2 f 2 d 2 e 3 f 2 d 1 f 6 d 1
+d 1 f 1 d 1 d 1 f 1 d 1 d 2 e 1 f 1 d 2 f 2 e 3 f 9 d 1
+d 2 f 1 d 1 d 1 f 1 d 1 d 5 f 3 d 1 e 2 f 6 d 1 f 2 d 1
+d 2 e 1 d 1 d 1 f 1 d 1 d 1 f 1 d 1 d 1 f 3 d 1 e 2 f 6 d 1 f 2 d 1
+d 1 e 2 d 1 d 1 e 1 d 1 d 1 f 1 d 1 d 1 f 3 d 1 e 2 f 2 d 1 f 6 d 1
+d 1 d 1 e 2 d 1 d 1 f 1 d 1 d 1 f 3 d 1 e 2 f 2 d 1 f 4 d 1
+d 3 d 1 d 1 e 1 d 1 d 1 f 3 e 3 f 5 f 2 d 1
+d 1 e 2 d 2 d 1 e 2 d 1 d 1 f 3 e 3 f 3 f 2 d 2
+d 2 e 2 d 2 d 1 d 1 e 1 f 2 g 2 e 1 f 1 f 2 d 2
+d 2 e 2 d 2 d 1 e 2 d 2 e 2 g 1 f 2 d 2
+d 2 e 2 d 2 d 2 f 2 d 2 e 1 f 1 d 2
+d 2 e 2 d 2 f 2 d 2 d 2
+d 6
+
+columns
+d 14
+d 1 d 1 e 1 d 1 d 2 e 1 d 1 e 1 d 1
+d 1 d 1 e 1 d 1 f 5 e 2 d 1 e 1 d 1
+d 5 d 1 e 1 d 7 d 1 e 1 d 1
+d 2 e 1 g 1 e 1 d 1 d 1 e 1 d 1 d 1 d 1 e 1 d 1
+d 1 d 1 e 1 g 1 e 1 d 1 e 1 d 6 e 1 d 1 e 1 d 1
+d 2 d 1 e 1 g 1 e 1 d 1 e 1 d 1 f 4 e 2 d 1 e 1 d 1
+d 1 d 1 d 1 e 1 g 1 e 1 d 1 e 1 d 7 d 1 e 1 d 1
+d 2 d 1 d 1 e 1 g 1 e 1 d 1 e 1 d 1 d 1 d 1 e 1 d 1
+d 1 d 1 f 1 d 1 d 1 e 1 g 1 e 1 d 1 e 1 d 6 e 1 d 1 e 1 d 1
+d 2 d 1 f 1 d 1 d 1 e 1 g 1 e 1 d 1 e 1 d 2 f 3 e 2 d 1 e 1 d 1
+d 1 d 1 f 1 e 2 d 1 d 1 e 1 g 1 e 1 d 1 e 1 d 7 d 2
+d 2 d 1 f 1 e 2 d 1 d 1 e 1 g 1 e 1 d 1 f 1 d 1 d 1 d 2
+d 1 d 1 f 1 e 2 d 1 d 1 e 1 g 1 e 1 d 1 f 1 d 8 e 1 d 1 f 1 d 1
+d 1 d 1 f 1 e 2 d 1 d 1 e 1 g 1 e 1 d 1 f 1 d 1 f 6 e 2 d 1 f 1 d 1
+d 2 d 1 e 1 d 1 d 1 e 1 g 1 e 1 d 1 f 1 d 1 f 8 d 1 f 1 d 1
+d 1 d 1 e 1 d 1 d 1 e 1 g 1 e 1 f 2 d 1 f 8 d 1 f 1 d 1
+d 2 d 1 e 1 d 1 d 1 e 1 g 1 e 4 d 4 e 2 g 1 e 1 d 1
+d 1 d 1 e 1 d 1 d 1 e 1 g 1 e 10 g 1 e 1 d 1
+d 2 d 1 e 1 d 1 d 1 e 1 g 1 e 10 g 1 e 1 d 1
+d 1 d 1 e 1 d 1 d 1 f 1 f 10 f 1 d 1
+d 2 d 1 e 1 d 1 d 1 f 1 f 10 f 1 d 1
+d 1 d 1 e 1 d 1 d 1 f 1 f 1 d 2 f 3 d 2 f 2 f 1 d 1
+d 5 d 1 e 1 d 1 d 1 f 1 f 10 f 1 d 1
+d 1 e 3 d 1 d 1 e 1 d 1 d 1 f 1 f 10 f 1 d 1
+d 1 d 1 e 3 d 1 d 1 d 1 f 1 f 10 f 1 d 1
+d 1 d 1 f 3 d 1 d 1 d 1 f 1 f 1 d 2 f 3 d 2 f 2 f 1 d 1
+d 1 f 5 d 1 d 1 f 1 f 10 f 1 d 1
+d 7 d 1 f 1 f 10 f 1 d 1
+d 16

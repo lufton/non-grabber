@@ -1,0 +1,31 @@
+by "pawciopila"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/12/06"
+height 5
+id 31678
+link "https://www.griddlers.net/nonogram/-/g/31678"
+medium_time "0:00:14"
+points 2
+popularity 36.09
+title "Bed and Window"
+width 5
+
+color a 808080
+color b ff0000
+color d 0000ff
+color e 00ffff
+
+rows
+e 2
+e 2 b 1
+b 1 b 1
+b 1 d 3 b 1
+b 1 b 1
+
+columns
+b 3
+e 2 d 1
+e 2 d 1
+d 1
+b 4

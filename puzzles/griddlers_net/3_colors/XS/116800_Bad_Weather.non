@@ -1,0 +1,31 @@
+by "IamKatrine"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/5/11"
+height 6
+id 116800
+link "https://www.griddlers.net/nonogram/-/g/116800"
+medium_time "0:00:21"
+points 7
+popularity 47.28
+title "Bad Weather"
+width 5
+
+color a 3333ff
+color b 818080
+color c ffff33
+
+rows
+b 3
+b 5
+b 1 c 1 b 1
+c 1
+c 1
+c 1
+
+columns
+b 1
+b 3 c 1 c 1
+b 2 c 1 c 1
+b 3
+b 1

@@ -1,0 +1,52 @@
+by "jessica ellison (cancer91)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by jessica ellison"
+date "Jul  7, 2008"
+description "hope you like an easy waste of time"
+difficulty 1.0
+height 15
+id 3038
+link "https://webpbn.com/play.cgi?id=3038"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "waste of time"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 15
+black 2 blue 12 black 1
+black 1 green 1 black 1 blue 11 black 1
+black 1 green 2 black 1 blue 10 black 1
+black 1 green 3 black 1 blue 9 black 1
+black 1 green 4 black 1 blue 8 black 1
+black 1 green 5 black 1 blue 7 black 1
+black 1 green 6 black 1 blue 6 black 1
+black 1 green 7 black 1 blue 5 black 1
+black 1 green 8 black 1 blue 4 black 1
+black 1 green 9 black 1 blue 3 black 1
+black 1 green 10 black 1 blue 2 black 1
+black 1 green 11 black 1 blue 1 black 1
+black 1 green 12 black 2
+black 15
+
+columns
+black 15
+black 2 green 12 black 1
+black 1 blue 1 black 1 green 11 black 1
+black 1 blue 2 black 1 green 10 black 1
+black 1 blue 3 black 1 green 9 black 1
+black 1 blue 4 black 1 green 8 black 1
+black 1 blue 5 black 1 green 7 black 1
+black 1 blue 6 black 1 green 6 black 1
+black 1 blue 7 black 1 green 5 black 1
+black 1 blue 8 black 1 green 4 black 1
+black 1 blue 9 black 1 green 3 black 1
+black 1 blue 10 black 1 green 2 black 1
+black 1 blue 11 black 1 green 1 black 1
+black 1 blue 12 black 2
+black 15

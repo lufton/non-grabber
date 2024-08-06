@@ -1,0 +1,63 @@
+by "Glenn Crider (playamonkey)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Glenn Crider"
+date "May 21, 2014"
+description "Archery"
+difficulty 1.5
+height 20
+id 24539
+link "https://webpbn.com/play.cgi?id=24539"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Merit Badge #5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6
+green 10
+green 4 red 6 green 4
+green 3 red 10 green 3
+green 2 red 12 green 2
+green 2 red 2 black 1 red 11 green 2
+green 2 red 3 blue 1 red 10 green 2
+green 2 red 5 blue 1 red 10 green 2
+green 2 red 4 blue 3 black 2 blue 3 red 4 green 2
+green 2 red 3 blue 1 red 3 blue 1 red 4 blue 1 red 3 green 2
+green 2 red 2 blue 1 red 5 blue 1 red 4 blue 1 red 2 green 2
+green 2 red 2 blue 12 red 2 green 2
+green 2 red 10 blue 1 red 5 green 2
+green 2 red 10 blue 1 black 1 red 2 green 2
+green 2 red 10 black 1 blue 1 black 1 red 1 green 2
+green 2 red 10 black 1 red 1 green 2
+green 3 red 10 green 3
+green 4 red 6 green 4
+green 10
+green 6
+
+columns
+green 6
+green 10
+green 4 red 6 green 4
+green 3 red 10 green 3
+green 2 red 6 blue 2 red 4 green 2
+green 2 red 2 black 1 red 3 blue 1 red 1 blue 1 red 5 green 2
+green 2 red 3 blue 1 red 1 blue 1 red 2 blue 1 red 5 green 2
+green 2 red 5 blue 2 red 2 blue 1 red 6 green 2
+green 2 red 6 blue 1 red 2 blue 1 red 6 green 2
+green 2 red 6 black 1 blue 1 red 1 blue 1 red 6 green 2
+green 2 red 6 black 1 red 1 blue 2 red 6 green 2
+green 2 red 6 blue 1 red 2 blue 1 red 6 green 2
+green 2 red 6 blue 1 red 2 blue 2 red 5 green 2
+green 2 red 5 blue 1 red 2 blue 1 red 1 blue 1 black 1 red 2 green 2
+green 2 red 6 blue 1 red 1 blue 1 red 1 black 1 blue 1 black 1 red 1 green 2
+green 2 red 6 blue 2 red 2 black 1 red 1 green 2
+green 3 red 10 green 3
+green 4 red 6 green 4
+green 10
+green 6

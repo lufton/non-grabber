@@ -1,0 +1,62 @@
+by "Angie Heath (bewildering15)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Angie Heath"
+date "Jun 17, 2011"
+description "ding!"
+difficulty 1.5
+height 20
+id 14721
+link "https://webpbn.com/play.cgi?id=14721"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "I have an idea!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 2 blue 1
+blue 2 red 4 blue 2
+red 6
+blue 2 red 8 blue 2
+red 10
+blue 2 red 10 blue 2
+red 12
+blue 2 red 12 blue 2
+red 12
+blue 2 red 10 blue 2
+red 8
+blue 2 red 6 blue 2
+red 4
+blue 2 red 4 blue 2
+blue 1 black 4 blue 1
+black 2
+black 4
+black 2
+black 4
+black 2
+
+columns
+0
+0
+blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 red 3 blue 1
+blue 1 red 6 blue 1
+blue 2 red 8 blue 1 blue 2
+blue 1 red 10 blue 1
+red 13 black 1 black 1 black 1
+blue 1 red 13 black 6
+blue 1 red 13 black 6
+red 13 black 1 black 1 black 1
+blue 1 red 10 blue 1
+blue 2 red 8 blue 1 blue 2
+blue 1 red 6 blue 1
+blue 1 blue 1 red 3 blue 1
+blue 1 blue 1 blue 1
+blue 1
+0
+0

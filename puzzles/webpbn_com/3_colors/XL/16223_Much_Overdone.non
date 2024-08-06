@@ -1,0 +1,106 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David Bouldin"
+date "Oct 29, 2011"
+description "Heart"
+difficulty 2.75
+height 50
+id 16223
+link "https://webpbn.com/play.cgi?id=16223"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Much Overdone"
+width 35
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 black 2 black 2 black 2
+blue 4 black 2 black 2 black 2
+blue 3 blue 4 black 2 black 2 black 3
+blue 6 blue 5 black 2 black 2 black 2
+blue 5 blue 4 black 8
+blue 3 black 9
+blue 6 blue 4 blue 2 black 11
+blue 6 blue 3 blue 2 black 13
+blue 3 blue 2 black 15
+black 1 blue 4 blue 2 black 7 black 7
+black 3 blue 4 black 5 black 5
+black 5 blue 4 black 1 black 5 blue 2
+black 3 blue 4 black 1 black 5 blue 4 blue 9
+blue 4 black 1 black 5 blue 16
+black 5 blue 4 black 1 black 5 blue 6
+black 5 blue 4 black 1 black 6 blue 3 black 4
+black 2 blue 4 black 4 blue 3 black 2 black 2
+blue 4 black 3 blue 3 black 5
+blue 4 black 1 blue 3 black 9
+blue 5 black 1 blue 4 black 11
+blue 5 black 3 blue 3 black 11
+blue 6 black 1 blue 3 black 1 black 11
+blue 7 black 1 blue 4 black 2 black 10
+blue 8 blue 3 black 2 black 9
+blue 10 blue 3 black 4 black 8
+blue 10 blue 3 black 5 black 6
+blue 10 blue 3 black 5 black 4 black 1
+blue 10 blue 3 black 5 black 3 black 2
+blue 10 blue 4 black 6 black 4
+blue 10 blue 5 black 3 black 6
+blue 10 blue 5 black 10
+blue 10 blue 5 black 10
+blue 10 blue 1 blue 1 black 11
+blue 11 blue 3 black 11
+blue 5 blue 6 blue 5 black 10
+blue 5 blue 6 blue 6 black 9
+blue 5 blue 11 black 9
+blue 4 blue 8 black 9
+blue 4 blue 11 black 8
+blue 4 blue 11 black 8
+blue 4 blue 11 black 6
+blue 4 blue 11 black 5
+blue 4 blue 11 black 4
+blue 4 blue 10 black 3
+blue 4 blue 9 black 2
+blue 4 blue 8
+blue 4 blue 7
+blue 3 blue 4
+blue 3
+blue 4
+
+columns
+blue 2 blue 2 black 3 black 3
+blue 2 blue 2 black 2 black 3
+blue 3 blue 2 black 3 black 2 blue 12
+blue 2 blue 2 black 2 black 2 blue 17
+blue 2 blue 2 black 2 black 2 blue 23
+blue 2 blue 2 blue 27
+blue 1 blue 8 blue 16 blue 1
+blue 29
+blue 31
+blue 34
+blue 7 blue 19
+blue 5 blue 2 black 5 blue 18
+blue 4 blue 4 blue 15 blue 1
+blue 2 blue 2 black 5 black 2 blue 13 blue 2
+blue 1 black 9 black 3 blue 3 blue 3 blue 3
+black 11 black 1 blue 5 blue 6
+black 11 blue 10 blue 9
+black 11 blue 25
+black 6 black 1 blue 14 blue 11
+black 10 blue 2 blue 6 blue 3 blue 12
+black 10 blue 4 blue 4 black 3 blue 12
+black 5 blue 7 black 8 blue 12
+black 9 blue 5 black 1 black 8 blue 10
+black 9 blue 3 black 4 black 6 black 2 blue 9
+black 6 blue 2 black 6 black 10 blue 8
+black 8 blue 2 black 9 black 2 black 8 blue 7
+black 11 blue 2 black 10 black 1 black 10 blue 6
+black 3 black 5 blue 2 black 10 black 11 blue 3
+black 4 blue 2 black 1 black 11 black 13
+black 3 blue 2 black 1 black 10 black 15
+black 2 blue 2 black 2 black 27
+blue 2 black 2 black 8 black 17
+blue 2 black 6 black 16
+blue 2 black 4 black 14
+blue 2

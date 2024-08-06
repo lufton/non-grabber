@@ -1,0 +1,87 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Apr 10, 2021"
+description "Top, front, and right side view of the same part"
+difficulty 1.5
+height 30
+id 35037
+link "https://webpbn.com/play.cgi?id=35037"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Orthographic Projection"
+width 40
+
+rows
+15
+3,3,1
+2,2,1
+2,2,1
+1,1,1
+2,3,2,1
+1,2,2,1,1
+1,1,1,1,1
+1,2,2,1,1
+2,3,2,1
+1,1,1
+2,2,1
+2,2,1
+3,3,1
+15
+0
+0
+0
+0
+0
+15,15
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,11,15
+1,1,1,1,1
+1,1,2,1,1,1,1,1
+1,1,2,1,1,1,1,1
+20,15
+
+columns
+5,10
+3,3,1,1
+2,2,1,1
+2,2,1,1
+1,1,1,1
+2,3,2,3,2,3
+1,2,2,1,1,1
+1,1,1,1,1,1
+1,2,2,1,1,1
+2,3,2,3,2,3
+2,2,1,5
+3,3,1,1,1
+1,2,2,1,1,1,1
+1,3,3,1,1,1,1
+1,5,1,6,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+15,5
+0
+0
+0
+0
+0
+10
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+3,2,3
+1,1,1
+1,1,1
+1,1,1
+3,2,3
+1,1,1
+1,1,1
+1,1,1
+1,1,1
+10

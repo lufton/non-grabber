@@ -1,0 +1,82 @@
+by "Liz P (Lizteach)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Liz P"
+date "Feb 16, 2010"
+description "This is supposed to be an herbivorous dinosaur amongst Jurassic ferns. It looks rather like the images of the Loch Ness monster I've seen, but I'm going with an anchisaurus. I found it a little hard to solve, but I'm publishing anyway. Feedback is appreciated!"
+difficulty 3.5
+height 30
+id 7847
+link "https://webpbn.com/play.cgi?id=7847"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Pre-history"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2 green 3 green 1 green 1 green 1 green 1 green 1 green 1
+green 3 green 3 green 2 green 2 green 2 green 2 green 1 green 1 green 1
+green 2 green 2 green 1 green 3 green 2 green 2 green 3 green 2 green 1
+green 5 green 1 green 16 green 1
+green 2 green 1 green 1 green 5 green 4 green 2 green 1 green 1
+green 1 green 4 green 2 green 1 green 1 green 2
+green 1 green 2 black 10 green 1 green 1
+green 1 green 3 black 2 black 3 green 1 black 4 green 1
+green 2 green 1 green 2 green 1 black 2 green 1 green 1 black 2
+green 6 black 1 green 2 green 1 green 3
+green 3 black 2 green 5 green 2
+green 1 black 1 green 1 green 2 green 1 green 2
+green 1 green 2 black 1 black 3 black 3 green 1 green 1 green 2
+green 6 black 2 red 2 black 1 red 2 black 1 green 3 green 3
+green 3 black 1 red 2 black 1 red 2 black 1 green 4 green 2
+green 3 black 1 green 1 green 1 green 2
+green 1 black 2 green 2 green 1 green 2
+green 1 green 1 black 1 green 3 green 3
+green 2 green 1 black 1 green 2 black 2 black 2 green 4 green 2
+green 5 black 2 black 2 green 1 green 2 green 2
+green 1 black 1 black 1 black 1 green 1 green 4 green 2
+green 1 black 1 green 1 black 3 green 1 black 1 green 1 green 2
+green 1 black 2 black 1 green 1 green 2 black 2 green 2
+green 2 black 1 red 7 black 1 green 1 green 2 green 2 green 2 black 2
+green 1 green 3 black 1 green 1 red 3 black 2 green 1 green 6 green 2
+green 7 black 1 black 2 green 2 green 5 green 2
+green 3 black 8 green 2 green 2 green 2
+green 3 green 2 green 2 green 2 green 2
+green 2 green 2 green 2 green 2 green 2
+green 2 green 2 green 1 green 1 green 2 green 2
+
+columns
+green 1 green 2 green 1 green 2 green 1
+green 2 green 1 green 2 green 1 green 2 green 1
+green 3 green 2 green 1 green 1 green 1 green 1
+green 29
+green 2 green 2 green 3 black 1 green 1 black 3 green 7
+green 2 green 2 green 3 black 2 green 2 black 2 green 4
+green 1 green 1 green 1 green 2 green 1 black 4 green 1 black 1 green 1
+green 2 green 1 green 1 black 4 green 2
+green 9 black 2 red 1 black 2
+green 1 green 2 black 1 black 1 red 2 black 3 red 1 black 1
+green 1 green 2 black 1 black 1 red 2 black 2 red 2 black 1 green 3
+green 1 green 2 black 1 black 3 red 2 black 1 green 3
+green 5 black 2 red 2 black 1
+green 4 black 1 black 3 red 1 black 1
+green 6 black 1 black 2 red 1 black 1
+green 1 green 1 black 1 black 1 red 2 black 2
+green 1 green 2 black 1 black 1 red 2 black 2
+green 2 black 1 black 3 black 2 green 5
+green 1 green 2 black 1 black 1 green 6
+green 6 black 1 green 3 green 1
+green 3 black 1 black 1 green 2
+green 1 green 2 black 2 green 2 green 2 green 2 black 1 green 3
+green 3 black 1 green 2 green 1 green 2 black 1 green 6
+green 2 black 1 green 2 green 2 green 2 green 10
+green 21 black 1 green 4
+green 2 black 1 green 1 green 1 green 4 black 1 green 2
+green 2 black 1 green 2 green 2 green 2 green 1 black 1 green 2
+green 2 green 1 black 1 green 1 green 2 green 2 green 2
+green 1 black 2 green 14 black 1 green 6
+green 7 black 1 green 3 green 2 green 4 black 1 green 6

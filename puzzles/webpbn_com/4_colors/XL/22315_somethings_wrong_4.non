@@ -1,0 +1,92 @@
+by "ryan moore (solar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by ryan moore"
+date "Jul  2, 2013"
+description "Another sign with something wrong. Original pic sorry the link is long. http://www.google.com/imgres?imgurl=http://farm5.static.flickr.com/4022/4289146904_00de0b63d6.jpg&imgrefurl=http://drivesteady.com/50-funniest-road-signs&h=400&w=300&sz=37&tbnid=Yi22-WzWZsLfwM:&tbnh=100&tbnw=75&zoom=1&usg=__ba7gN-1ZDzDFTFctb9JTfQ7HxLQ=&docid=6UDpVvOMNIvGEM&sa=X&ei=xzHTUdeDEoGV0QGvzIGYCw&sqi=2&ved=0CDgQ9QEwBA&dur=3466"
+difficulty 2.5
+height 40
+id 22315
+link "https://webpbn.com/play.cgi?id=22315"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "somethings wrong #4"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 30
+black 30
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 blue 2 black 2
+black 2 blue 4 black 2
+black 2 blue 4 black 2
+black 2 blue 1 blue 2 blue 2 black 2
+black 2 blue 3 blue 2 black 2 red 2 black 2
+black 2 blue 5 blue 3 black 2 red 4 black 2
+black 2 blue 6 blue 2 black 2 red 4 black 2
+black 2 blue 10 black 2 red 2 black 2
+black 2 blue 9 black 2 black 2
+black 2 blue 5 blue 2 black 2 red 6 black 2
+black 2 blue 5 black 2 red 8 black 2
+black 2 blue 5 black 2 red 10 black 2
+black 2 blue 5 black 2 red 3 red 2 red 3 black 2
+black 2 blue 4 black 2 red 2 red 4 red 2 black 2
+black 2 blue 5 black 2 red 2 red 4 red 2 black 2
+black 2 blue 3 black 2 red 1 red 6 red 1 black 2
+black 2 blue 3 black 2 red 8 black 2
+black 2 blue 3 black 2 red 8 black 2
+black 2 blue 3 black 2 red 10 black 2
+black 2 blue 2 black 2 red 10 black 2
+black 2 blue 2 black 2 red 2 red 2 black 2
+black 2 blue 1 black 2 red 2 red 2 black 2
+black 2 black 2 red 2 red 2 black 2
+black 2 black 2 red 2 red 2 black 2
+black 2 black 2 red 2 red 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 30
+black 2 black 1 black 1 black 1 black 3 black 1 black 2
+black 4 black 3 black 2 black 1 black 1 black 3 black 5 black 4
+black 4 black 3 black 2 black 1 black 1 black 3 black 4 black 4
+black 4 black 3 black 2 black 1 black 1 black 3 black 5 black 4
+black 4 black 3 black 1 black 1 black 1 black 3 black 4
+black 30
+
+columns
+black 40
+black 40
+black 2 black 1 black 5
+black 2 blue 4 black 1 black 5
+black 2 blue 6 black 1 black 1
+black 2 blue 8 black 1 black 5
+black 2 blue 9 black 1 black 5
+black 2 blue 12 black 7
+black 2 blue 5 blue 4 black 1 black 1
+black 2 blue 2 blue 5 blue 4 black 1 black 3 black 1
+black 2 blue 4 blue 3 blue 5 black 1 black 3 black 1
+black 2 blue 4 blue 4 blue 5 black 1 black 1
+black 2 blue 2 blue 4 blue 5 black 7
+black 2 blue 3 blue 4 black 1 black 1
+black 2 blue 1 black 21 black 7
+black 2 black 21 black 1 black 1
+black 2 black 5 black 1
+black 2 red 5 red 2 black 5 black 1
+black 2 red 5 red 4 black 7
+black 2 red 4 red 10 black 1 black 1
+black 2 red 2 red 3 red 12 black 1 black 1 black 1 black 1
+black 2 red 4 red 11 black 1 black 3 black 1
+black 2 red 4 red 11 black 7
+black 2 red 2 red 3 red 12 black 1 black 5
+black 2 red 4 red 10 black 1 black 5
+black 2 red 5 red 4 black 1 black 1
+black 2 red 5 red 2 black 1 black 5
+black 2 black 1 black 5
+black 40
+black 40

@@ -1,0 +1,57 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Dave Oas"
+date "Oct 30, 2012"
+description "Before these, "cell phone" refered to the call you made after being arrested."
+difficulty 1.5
+height 20
+id 20175
+link "https://webpbn.com/play.cgi?id=20175"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The new nostalgia"
+width 20
+
+rows
+10,1
+9,2
+8,3,2
+7,5,3
+6,10
+5,10
+4,9,1
+3,9,2
+2,1,7,3
+1,1,1,5,4
+1,1,1,3,5
+3,1,1,3,6
+5,1,3,7
+6,3,8
+9,9
+8,10
+7,11
+6,12
+5,13
+3,14
+
+columns
+10,7
+9,9
+8,9
+7,9
+6,1,7
+5,1,1,5
+4,1,1,1,3,1
+3,3,1,1,3,2
+2,5,1,3,3
+1,7,3,4
+11,5
+10,6
+9,7
+7,8
+5,9
+4,10
+3,11
+3,12
+3,13
+2,14

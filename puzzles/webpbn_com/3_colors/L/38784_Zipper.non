@@ -1,0 +1,81 @@
+by "Jyo (heath)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Jyo"
+date "Jul 28, 2024"
+description "Zipper was my first cat. He lived 14 years and enjoyed many belly rubs."
+difficulty 3.0
+height 30
+id 38784
+link "https://webpbn.com/play.cgi?id=38784"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 4.0
+title "Zipper"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 2
+black 1 black 1 black 3
+black 1 black 2 black 3 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 3 black 1 black 1
+black 1 black 2 red 1 black 10 black 2 black 1
+black 1 black 2 red 1 red 1 black 2 black 1
+black 1 black 1 red 1 red 1 black 2 black 2
+black 2 black 1 red 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 1
+black 1 black 2
+black 1 black 1
+black 1 black 2 black 3 black 1
+black 2 black 4 black 3 black 1
+black 1 black 4 black 4 black 1
+black 1 black 4 black 2 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1
+black 2 black 2
+black 2 black 1 black 1 black 3
+black 2 black 2 red 1 black 3
+black 3 red 1 black 3
+black 4 black 3 black 3
+black 5 black 2
+black 1 black 2
+black 8
+
+columns
+0
+black 11
+black 1 black 4 black 6
+black 3 black 4 black 5 black 2
+black 2 black 5 black 2
+black 2 red 4 black 2
+black 2 black 1
+black 2 black 2
+black 2 black 1 black 1 black 1
+black 1 black 3 black 1 black 1
+black 1 black 4 black 2
+black 1 black 3 black 3
+black 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 red 2 black 1 black 1
+black 1 black 1 black 1 black 2
+black 2 black 2
+black 2 black 3 black 1
+black 2 red 2 black 4 black 2
+black 2 black 3 black 3 black 3
+black 1 black 4 black 3 black 4
+black 2 black 3
+black 2 black 6 black 4
+black 10 black 7
+0
+0
+0

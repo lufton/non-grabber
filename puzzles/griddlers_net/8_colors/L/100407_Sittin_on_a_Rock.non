@@ -1,0 +1,83 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/1/10"
+height 27
+id 100407
+link "https://www.griddlers.net/nonogram/-/g/100407"
+medium_time "0:17:55"
+points 28019
+popularity 82.33
+title "Sittin' on a Rock"
+width 31
+
+color a ffffff
+color b 000000
+color c 575656
+color d 797979
+color e 336600
+color f 669933
+color g 99cc66
+color h b6b5b5
+
+rows
+b 5
+b 1 b 1
+b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 2
+b 1 b 1 f 2 b 1
+b 1 f 1 b 5 f 4 b 2
+b 2 f 1 g 7 f 5 b 1
+b 3 f 1 g 6 f 3 e 3 f 3 b 2
+b 1 f 1 g 6 f 3 e 4 b 1 f 1 g 4 b 2
+b 2 f 6 e 5 b 1 e 1 f 2 g 5 b 3
+b 4 e 6 b 2 e 1 f 4 g 3 b 1 g 3 b 2
+b 1 f 2 b 6 e 3 f 6 g 4 f 1 g 1 f 1 b 1
+b 1 f 10 e 2 f 4 g 6 f 3 b 1
+b 1 g 5 f 5 e 1 f 3 b 1 g 3 f 1 g 1 f 1 g 1 f 2 e 1 b 1
+b 1 g 8 f 2 b 1 f 3 b 1 g 2 f 1 g 1 f 1 g 1 f 3 e 1 b 1
+b 1 g 6 f 3 b 1 f 1 b 1 f 1 b 1 f 2 g 1 f 5 e 2 b 1
+b 1 g 3 f 4 b 1 f 2 b 1 f 1 e 1 b 2 f 1 e 3 f 2 e 2 b 1
+b 2 f 3 e 2 b 1 f 1 b 1 e 5 b 2 f 2 e 3 b 1
+b 6 f 1 b 1 e 5 b 1 f 2 e 3 b 1
+b 3 c 2 b 3 e 1 b 7 f 1 e 3 b 1
+b 1 d 3 c 1 b 3 e 1 b 6 f 2 e 1 b 4
+b 1 d 1 h 3 d 1 b 1 g 1 b 3 f 1 b 1 e 1 b 1 e 2 b 3 d 2 b 2
+b 1 d 1 h 3 d 2 b 3 f 1 b 8 e 1 b 1 d 3 b 2
+b 1 d 1 h 2 d 3 c 2 b 3 c 4 b 1 e 1 b 3 d 2 c 3 b 1
+b 1 c 1 d 3 c 11 b 3 c 7 b 1
+b 27
+
+columns
+b 2
+b 1 f 1 b 1
+b 1 g 1 b 2
+b 1 f 1 g 1 f 1 b 3
+b 1 g 2 f 1 b 1 f 2 b 2 b 4
+b 1 f 1 g 2 f 1 b 1 f 2 g 2 b 1 b 1 d 2 c 1 b 1
+b 4 f 1 g 3 f 1 e 1 b 1 f 1 g 3 b 1 b 1 d 1 h 2 d 1 b 1
+b 1 b 1 g 3 f 1 e 1 b 1 f 1 g 4 b 1 b 1 d 1 h 3 d 1 b 1
+b 1 b 3 b 1 g 2 f 2 e 1 b 1 f 1 g 4 b 1 b 1 d 1 h 2 d 2 b 1
+b 1 b 1 g 2 f 1 e 2 b 1 f 1 g 4 f 1 b 2 d 1 h 1 d 2 c 1 b 1
+b 1 b 3 b 1 g 1 f 2 e 2 b 1 f 2 g 2 f 2 b 1 c 2 d 3 c 1 b 1
+b 1 b 1 g 1 f 1 e 3 b 1 f 2 g 2 f 2 b 1 c 1 b 3 c 2 b 1
+b 1 b 1 f 1 g 1 f 1 e 2 b 1 e 1 f 2 g 1 f 2 e 1 b 3 g 1 b 1 c 2 b 1
+b 1 b 1 f 3 e 3 b 1 e 1 f 5 e 1 b 6 c 1 b 1
+b 3 f 3 e 2 b 1 e 3 f 3 b 4 e 1 b 1 f 1 b 1 c 1 b 1
+b 1 f 2 e 1 b 1 e 1 f 2 e 2 b 2 f 3 e 1 b 4 c 1 b 1
+b 1 f 11 b 4 f 1 b 1 c 2 b 1
+b 1 f 2 g 1 f 6 b 2 e 2 b 4 c 2 b 1
+b 1 f 1 g 2 f 7 e 2 b 2 e 1 b 1 c 2 b 1
+b 1 g 3 f 2 b 3 e 3 b 4 c 2 b 1
+b 1 g 3 f 1 g 3 f 1 b 1 e 2 b 2 e 1 b 4
+b 1 g 6 f 1 b 1 e 2 b 1 f 1 e 1 b 1 e 1 b 2
+b 1 g 1 b 1 g 3 f 1 g 1 f 1 b 3 f 1 b 5
+b 1 g 3 f 1 g 1 f 1 e 1 b 1 f 2 e 1 b 1 e 1 b 1 c 1 b 1
+b 1 g 4 f 2 e 1 f 2 e 1 b 4 c 1 b 1
+b 1 g 1 f 1 g 1 f 1 g 1 f 1 e 1 f 1 e 2 b 1 d 3 c 1 b 1
+b 1 g 1 f 1 g 1 f 3 e 3 b 1 d 3 c 1 b 1
+b 1 f 6 e 2 b 3 d 1 c 2 b 1
+b 1 f 3 e 3 b 1 b 2 c 2 b 1
+b 1 e 4 b 1 b 1 c 2 b 1
+b 4 b 3

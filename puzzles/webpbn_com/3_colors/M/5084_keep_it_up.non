@@ -1,0 +1,61 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Jun  7, 2009"
+description "A sealion balancing a ball."
+difficulty 3.0
+height 20
+id 5084
+link "https://webpbn.com/play.cgi?id=5084"
+note "published,definitely unique,definitely requires some guessing"
+quality 2.25
+title "keep it up!"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 3
+black 1
+blue 2
+blue 3
+blue 2
+blue 2 blue 1
+blue 2 blue 2
+blue 3 blue 2
+blue 5 blue 2
+blue 12
+blue 3 blue 7
+blue 2 blue 5
+black 13
+black 1 black 1 black 1
+black 3 black 3 black 3
+black 1 black 2 black 2 black 2 black 2 black 1
+black 2 black 1 black 1 black 1 black 1 black 2
+black 1 black 3 black 3 black 1
+black 1 black 1 black 1 black 1
+
+columns
+0
+0
+black 3
+blue 1 black 3
+black 2 blue 2 black 3
+black 3 blue 2 blue 2 black 1 black 2
+black 2 blue 3 blue 3 black 1 black 3
+blue 7 black 1 black 2
+blue 5 black 1 black 3
+blue 4 black 1 black 2
+blue 4 black 3
+blue 3 black 1 black 2
+blue 3 black 1 black 3
+blue 3 black 1 black 2
+blue 3 black 1 black 3
+blue 3 black 1 black 2
+blue 3 black 3
+blue 2 black 3
+blue 2 black 3
+0

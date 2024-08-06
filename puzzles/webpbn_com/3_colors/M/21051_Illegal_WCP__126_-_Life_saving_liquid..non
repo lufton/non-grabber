@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom O'Connell"
+date "Feb  5, 2013"
+description ""
+difficulty 2.75
+height 20
+id 21051
+link "https://webpbn.com/play.cgi?id=21051"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Illegal WCP # 126 - Life saving liquid."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 5
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 2 red 1 black 2
+red 1
+red 1
+black 1 red 1
+black 4 red 1
+black 5 red 1 black 2
+black 4 red 3 black 2
+black 3 red 2 black 2
+black 3 red 1 black 3 black 1
+black 2 red 1 black 3 black 2
+black 2 red 1 black 3 black 2
+black 1 black 4 black 3
+black 3 black 3
+black 2 black 4
+
+columns
+black 3 black 2
+black 2 black 1
+black 3 black 2
+black 4 black 1
+black 4
+black 4
+black 3
+black 2
+black 1
+red 4 black 1
+black 6 red 2 black 2
+black 1 red 4 black 1 red 1 black 1
+black 2 red 11 black 2
+black 1 red 4 black 1 black 1 black 1
+black 6 black 2 black 1
+black 1 black 2
+black 2 black 3
+black 2 black 3
+black 2 black 3
+black 1 black 2

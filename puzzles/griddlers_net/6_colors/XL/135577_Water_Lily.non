@@ -1,0 +1,103 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/4/13"
+height 30
+id 135577
+link "https://www.griddlers.net/nonogram/-/g/135577"
+medium_time "0:15:04"
+points 14539
+popularity 82.52
+title "Water Lily"
+width 50
+
+color a 99ffff
+color b ffcccc
+color c ff9999
+color d ffffff
+color e 336666
+color f 669966
+
+rows
+b 1 b 1 b 1
+b 3 b 1 c 1 b 1 b 3
+b 5 b 3 b 5
+b 2 d 1 b 3 b 5 b 3 d 1 b 2
+b 1 b 1 d 3 b 3 b 2 d 1 b 2 b 3 d 3 b 1 b 1
+b 2 b 2 d 2 b 2 c 1 b 2 d 3 b 2 c 1 b 2 d 2 b 2 b 2
+b 7 d 1 b 2 c 1 b 2 d 3 b 2 c 1 b 10
+b 9 c 1 b 2 d 5 b 2 c 1 b 9
+b 2 d 1 b 6 c 1 b 2 d 5 b 2 c 1 b 6 d 1 b 2
+b 2 d 2 b 4 c 2 b 2 d 5 b 2 c 2 b 3 d 3 b 2
+b 2 d 4 b 3 c 1 b 2 d 5 b 2 c 1 b 3 d 4 b 2
+b 2 d 4 b 1 c 1 b 2 d 7 b 2 c 1 b 1 d 4 b 2
+b 2 d 4 b 1 c 1 b 2 d 7 b 2 c 1 b 1 d 4 b 2
+b 2 d 3 b 1 c 1 b 2 d 7 b 2 c 1 b 1 d 3 b 2
+b 2 d 3 b 4 d 7 b 2 c 1 b 1 d 3 b 2
+b 2 d 2 b 5 d 5 b 5 d 2 b 2
+b 3 d 1 b 5 d 5 b 5 d 1 b 3 e 10
+e 4 b 5 c 1 b 2 d 5 b 2 c 1 b 5 f 11 e 4
+e 3 f 5 b 4 c 1 b 2 d 5 b 2 c 1 b 4 f 16 e 4
+f 8 b 4 c 1 b 3 d 3 b 3 c 1 b 4 f 20 e 2
+f 9 b 1 c 3 b 4 d 1 b 4 c 3 b 1 f 23 e 1
+e 7 f 3 b 2 c 1 b 1 c 1 b 5 c 1 b 1 c 1 b 2 f 25
+e 2 f 3 b 3 c 5 b 3 f 27
+e 1 f 4 b 7 f 29
+e 9 f 41
+f 49 e 1
+f 46 e 3
+e 4 f 38 e 4
+e 7 f 26 e 5
+e 26
+
+columns
+e 1 f 2 e 1 e 1 f 2 e 1
+e 1 f 2 e 1 e 1 f 2 e 1
+e 1 f 2 e 1 e 1 f 2 e 1
+b 7 e 1 f 3 e 1 e 1 f 2 e 1
+b 8 e 1 f 3 e 1 e 1 f 3 e 1
+b 2 d 3 b 4 e 1 f 3 e 1 e 1 f 3 e 1
+b 3 d 4 b 4 e 1 f 3 e 1 e 1 f 3 e 1
+b 8 d 5 b 3 f 4 e 1 e 1 f 3 e 1
+b 3 d 1 b 5 d 6 b 4 f 2 e 1 e 1 f 3 e 1
+b 3 d 3 b 5 d 6 b 4 f 2 e 1 f 4 e 1
+b 3 d 3 b 13 c 1 b 1 f 6 e 1
+b 7 c 1 b 1 c 3 b 6 c 1 b 1 f 7 e 1
+b 4 c 4 b 6 c 5 b 1 f 6 e 1
+b 1 c 2 b 16 f 6 e 1
+b 6 d 4 b 6 c 1 b 2 f 5 e 1
+b 4 d 12 b 3 c 1 b 1 f 5 e 1
+b 4 d 15 b 2 c 1 b 1 f 5 e 1
+b 1 c 1 b 2 d 17 b 1 c 1 b 1 f 5 e 1
+b 4 d 15 b 2 c 1 b 1 f 5 e 1
+b 4 d 12 b 3 c 1 b 1 f 5 e 1
+b 6 d 4 b 6 c 1 b 2 f 5 e 1
+b 1 c 2 b 16 f 6 e 1
+b 4 c 4 b 6 c 5 b 1 f 6 e 1
+b 7 c 1 b 1 c 4 b 5 c 1 b 1 f 7 e 1
+b 3 d 2 b 14 c 1 b 1 f 7 e 1
+b 3 d 3 b 5 d 6 b 4 f 8 e 1
+b 3 d 1 b 5 d 6 b 4 f 9 e 1
+b 7 d 6 b 3 f 11 e 1
+b 3 d 4 b 4 f 12 e 1
+b 2 d 3 b 4 e 1 f 12 e 1
+b 8 e 1 f 12 e 1
+b 7 e 1 f 12 e 1
+e 1 f 12 e 1
+e 1 f 12 e 1
+e 1 f 12 e 1
+e 1 f 12 e 1
+e 1 f 12 e 1
+e 1 f 11 e 1
+e 1 f 11 e 1
+e 1 f 10 e 1
+e 1 f 10 e 1
+e 1 f 10 e 1
+e 1 f 9 e 1
+e 1 f 8 e 1
+e 1 f 8 e 1
+e 1 f 8 e 1
+e 1 f 7 e 1
+e 1 f 6 e 1
+e 1 f 6 e 1
+e 1 f 4 e 1

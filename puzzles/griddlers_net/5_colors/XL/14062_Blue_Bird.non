@@ -1,0 +1,102 @@
+by "douglas_itoh"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/15/04"
+height 35
+id 14062
+link "https://www.griddlers.net/nonogram/-/g/14062"
+medium_time "0:30:13"
+points 19660
+popularity 81.25
+title "Blue Bird"
+width 45
+
+color a ffffff
+color b 0000ff
+color c 0099ff
+color d 000000
+color f 808000
+
+rows
+b 3
+c 1 b 2 c 2
+b 5 c 3 b 2 c 1
+b 14 c 5 b 2 c 2
+b 4 d 8 b 3 c 1 c 3 b 2 c 1
+b 5 d 8 b 2 c 2 b 3 c 1 c 3
+b 4 d 5 b 2 c 1 b 2 c 8
+b 1 f 1 b 2 d 3 d 4 b 2 c 2 c 1 b 3 c 1
+f 5 d 7 d 3 b 3 c 3 b 3 c 2
+f 6 d 7 d 4 b 5 c 5 b 1
+f 5 d 7 d 6 b 2 c 1 b 1 c 1 b 5
+f 9 d 8 d 8 b 2 c 1 c 1 b 2 c 2
+f 3 f 5 d 3 d 10 b 6
+f 1 f 2 d 2 d 11 b 2
+f 1 d 17 b 3
+d 16 b 3
+d 15 b 2
+d 13 b 2
+d 11 b 3
+d 10 b 2
+d 9 b 3
+d 9 b 3
+b 3 d 5 b 5
+b 5 d 3 b 6
+b 16
+b 4 c 1 b 10
+b 5 c 2 b 10
+b 3 c 3 b 10
+b 3 c 4 b 10
+b 3 c 4 b 10
+b 2 c 5 b 2 c 1 b 7
+b 3 c 5 b 2 c 1 b 7
+b 3 c 4 b 2 c 2 b 7
+b 5 c 1 b 3 c 2 b 8
+b 19
+
+columns
+0
+0
+f 2
+f 2
+f 3
+f 2
+f 3
+f 4
+f 5
+f 2 f 2
+b 1 f 2 f 2
+b 1 f 3 f 2 b 4
+b 2 d 1 f 2 b 6
+b 3 d 4 f 2 b 7
+b 2 d 7 b 4 c 3 b 2
+b 2 d 8 b 3 c 4 b 2
+b 2 d 5 d 3 b 4 c 6 b 1
+b 3 d 5 d 3 b 3 c 6 b 2
+b 2 d 5 d 4 b 4 c 5 b 3
+b 1 d 1 d 4 d 5 b 4 c 3 b 6
+b 1 d 1 d 1 d 8 b 3 c 2 b 5 c 2 b 1
+b 1 d 2 d 9 b 8 c 4 b 1
+b 1 d 2 d 11 b 12
+b 1 d 2 d 12 b 11
+b 1 d 3 d 13 b 11
+b 1 d 3 d 14 b 11
+b 1 d 4 d 13 b 12
+b 2 d 17 b 13
+b 2 d 17 b 13
+b 4 d 13 b 9 b 2
+b 2 c 1 b 4 d 9 b 9
+b 1 c 1 c 2 b 4 d 3 b 11
+b 1 c 1 c 1 b 1 c 1 b 11
+c 1 b 1 c 2 b 2 c 2 b 1 c 1 b 5
+b 2 c 2 b 1 c 1 c 1 b 2 c 1 b 1
+b 2 c 3 b 1 c 1 c 1 b 1 c 1 b 1
+b 1 c 2 b 1 c 2 b 1 c 1 c 1 b 1
+b 1 c 2 b 2 c 1 b 1 c 1 b 2
+b 2 c 1 c 2 b 1 c 1 b 2
+b 1 c 1 c 2 b 1 c 1 b 1 c 1
+c 2 c 2 b 1 c 2 b 1 c 1
+c 2 b 1 c 1 b 1
+c 1 b 2
+0
+0

@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Aug 14, 2017"
+description "Penguin tooting a tuba"
+difficulty 2.25
+height 30
+id 30081
+link "https://webpbn.com/play.cgi?id=30081"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Animals playing instruments #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3 green 2
+green 3 green 2
+green 3 green 3
+green 3 green 3
+green 2 green 4
+green 3 green 4
+green 2 green 5
+green 2 green 7
+green 3 green 8
+green 14
+green 4 green 2 black 2 green 3
+black 1 black 2 green 3
+black 4 green 3
+green 2 red 2 black 3 green 3
+green 2 black 3 green 3
+green 2 black 5 green 3
+green 3 black 1 black 1 green 3
+green 3 black 1 black 1 green 3
+green 4 green 1 black 1 green 2
+green 1 black 2 green 5 black 3
+black 5 green 4 black 2
+black 3 black 1 green 4 black 2 black 1
+black 2 green 2 green 4 black 2
+green 6 black 2
+green 3 black 1 black 2
+black 2 black 2
+black 2 black 2
+black 5
+black 1 black 1
+red 3 red 3
+
+columns
+green 4
+green 7
+green 4 green 3
+green 3 green 2
+green 3 green 2 black 1
+green 2 green 2 black 2
+green 1 green 2 green 3 black 2 green 2
+green 3 green 5 green 1 black 2 green 3
+green 4 green 1 green 3 black 2 green 2 red 1
+green 7 red 1 green 2 black 3 green 3 black 2 red 1
+green 9 black 2 red 1 black 3 green 2 black 1 green 3 black 5 red 1
+green 10 black 1 black 4 green 2 green 3 black 1
+green 10 black 6 green 4 black 1
+green 4 black 5 green 3 black 1
+green 4 black 3 green 3 black 8 red 1
+green 8 black 2 green 1 black 6 red 1
+green 8 black 2 red 1
+green 6 black 3
+0
+0

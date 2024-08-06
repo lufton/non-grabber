@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 29, 2011"
+description "squirt!"
+difficulty 2.25
+height 20
+id 11943
+link "https://webpbn.com/play.cgi?id=11943"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP#76 "Smell my flower""
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2
+blue 1
+red 3 blue 2
+red 2 red 2 blue 1
+red 4 red 1 red 1 red 4 blue 1
+red 1 red 3 red 3 red 1 blue 1
+red 1 red 2 red 2 red 1 blue 2
+red 2 red 2 red 2 red 2 blue 1
+red 1 red 1 red 1 red 2 blue 2
+red 4 green 3 red 5 blue 1
+red 2 green 2 green 2 red 2 red 2 blue 2
+green 1 black 1 green 1 red 1 blue 1
+red 2 green 2 green 2 red 2 red 2 blue 2
+red 4 green 3 red 5 blue 2
+red 1 red 1 red 1 red 2 blue 2
+red 2 red 2 red 2 red 2 blue 1
+red 1 red 2 red 2 red 1
+red 1 red 3 red 3 red 1
+red 4 red 1 red 1 red 4
+red 2 red 2 blue 2
+
+columns
+red 4 red 1 red 1 red 4
+red 1 red 3 red 3 red 1
+red 1 red 1 red 1 red 1
+red 2 red 2 red 2 red 2
+red 2 red 1 red 1 red 2
+red 5 green 3 red 5
+red 2 red 2 green 2 green 2 red 2 red 1
+red 1 green 1 black 1 green 1
+red 2 red 2 green 2 green 2 red 2 red 1
+red 5 green 3 red 5
+red 2 red 1 red 1 red 2 blue 1
+red 2 red 2 red 2 red 2 blue 1
+blue 1 red 1 red 2 red 2 red 1
+blue 3 red 1 red 3 red 3 red 1
+blue 2 red 4 red 1 red 1 red 4
+blue 3 red 2 red 2 blue 2
+blue 3 red 3 blue 2
+blue 3 blue 2
+blue 3
+0

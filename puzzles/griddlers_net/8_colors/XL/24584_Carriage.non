@@ -1,0 +1,98 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/27/05"
+height 31
+id 24584
+link "https://www.griddlers.net/nonogram/-/g/24584"
+medium_time "0:34:18"
+points 30013
+popularity 75.0
+title "Carriage"
+width 42
+
+color a ffffff
+color b ff0000
+color c ffde00
+color d 808080
+color e 009c00
+color f ffb3c7
+color g e2dee0
+color h 000000
+
+rows
+d 2
+d 3
+c 2 d 2
+c 2 e 2 c 3 d 2
+c 2 e 2 c 8 d 3
+c 3 c 9 d 3 h 1
+c 3 c 4 f 4 h 1 h 1 d 2 h 2
+c 2 c 3 f 4 h 3 d 7
+c 2 c 3 f 3 h 1 f 1 h 2 d 8
+c 2 c 3 f 5 h 2 d 8 g 2
+e 1 c 1 f 5 b 1 e 3 f 3 h 2 d 8 h 1 g 1
+e 3 f 5 e 4 f 2 c 3 h 2 d 9
+e 11 c 4 h 1 d 8 c 2 f 1
+e 3 f 3 c 4 h 1 d 4 c 2 h 1 f 1
+e 4 f 3 b 4 d 3 c 3 d 2 c 2 f 3
+e 2 b 3 f 2 b 4 d 9 c 2 d 4 c 3
+b 13 d 1 d 8 c 2 d 6
+b 15 d 1 d 8 c 2 d 6
+b 15 d 1 d 8 c 2 d 4 b 4
+b 15 d 2 d 8 b 6 d 2
+b 5 h 3 b 6 d 3 b 6 c 2 d 6
+b 3 h 2 b 1 h 1 b 1 h 2 b 10 d 6 c 2 d 10
+b 1 h 1 b 3 h 1 b 3 h 1 d 3 d 4 c 2 d 10
+h 1 b 3 h 1 h 1 d 2 d 2 d 3 d 2
+h 1 h 1 h 1 d 2 d 2 d 2 d 2
+h 11 d 2 d 2 d 2 d 2
+h 1 h 1 h 1 h 2 d 1 d 2 d 2 h 2 d 1
+g 1 h 1 h 1 h 1 g 1 h 2 d 2 d 2 h 2
+h 1 h 1 h 1 d 2 d 2
+g 1 h 2 h 1 h 2 g 1 d 1 h 2 d 1 h 2
+g 1 h 3 g 1 h 2 h 2
+
+columns
+b 3
+b 5
+c 1 b 6 h 3 g 1
+c 5 b 6 h 2 h 1 h 2 g 1
+c 6 b 5 h 1 b 2 h 1 h 1
+c 5 e 2 b 5 h 1 b 2 h 1 h 1 g 1
+c 1 e 2 e 4 b 4 h 1 b 3 h 1 h 1
+e 2 c 2 e 4 b 5 h 11
+c 6 e 5 b 5 h 1 b 2 h 1 h 1
+c 7 e 2 f 2 b 6 h 1 b 1 h 1 h 1 g 1
+c 7 f 2 e 1 f 3 b 5 h 1 b 1 h 1 h 1
+c 3 f 6 e 1 f 3 b 6 h 2 h 1 h 2 g 1
+c 3 f 6 e 1 b 8 h 3 g 1
+c 2 f 6 e 1 b 8
+c 2 f 2 h 1 f 3 e 1 b 8
+c 2 f 2 b 1 e 2 b 3 b 1
+e 3 d 1 b 1 h 2
+e 2 d 4 b 1 d 4 h 2
+e 2 d 1 d 1 b 1 d 5
+f 2 d 6 b 1 d 1
+f 2 d 6 b 1
+f 1 c 1 d 6 b 1 d 2
+c 1 d 6 b 1 d 6
+c 2 d 6 b 1 d 9
+c 1 d 5 b 1 d 2 d 2 h 2
+c 1 d 5 b 1 d 1 h 2
+c 2 d 5 b 1 d 1
+c 1 c 4 b 1 c 3
+c 1 c 4 b 1 c 3
+h 3 c 1 d 4 b 1 d 3
+h 8 c 1 d 4 b 1 d 10
+h 2 d 5 c 1 d 4 b 1 d 9 h 2
+h 2 d 6 c 1 d 4 b 1 d 4 h 2
+d 11 c 1 d 2 b 1 d 4
+d 14 c 1 d 2 b 1 d 4
+d 5 h 1 d 6 c 1 b 1 d 2
+d 2 h 2 d 6 c 1 b 1 d 2 h 2
+d 1 d 6 c 1 d 5 h 2
+d 6 c 1 d 6
+d 2 g 1 h 1 d 1 c 2 f 1
+g 2 c 1 h 1 f 1
+f 3

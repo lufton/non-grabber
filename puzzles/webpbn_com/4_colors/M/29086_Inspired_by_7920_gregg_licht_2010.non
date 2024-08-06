@@ -1,0 +1,72 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Nov 17, 2016"
+description "As I was working his puzzle "Olympic Wrinkle Remover", it occurred to me that an asphalt paver would be the Ultimate Wrinkle Remover. I realize Gregg's choice of Olympic was referring to the 2010 Olympics in Vancouver."
+difficulty 2.25
+height 25
+id 29086
+link "https://webpbn.com/play.cgi?id=29086"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Inspired by #7920 gregg licht 2010"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 8
+green 8
+green 1
+green 1
+black 1 blue 1 green 1
+black 3 blue 1 green 1
+black 2 black 1 blue 1 green 1
+green 6 black 2 blue 4 green 1
+green 7 black 2 blue 4 green 1
+green 8 black 2 blue 4 green 1
+green 9 black 2 blue 4 green 1
+green 9 green 14
+green 9 green 14
+green 10 green 14
+green 3 black 1 green 3 black 1 green 9 black 1 green 3 black 1 green 3
+black 3 green 3 black 2 green 7 black 2 green 3 black 3
+black 2 green 3 black 1 green 5 black 1 green 3 black 2
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 7 black 7
+
+columns
+green 5 black 7
+green 6 black 2 black 2
+green 7 black 1 black 2
+green 7 black 2 black 1
+green 12 black 1
+green 12 black 1 black 1
+green 12 black 1
+green 7 black 2 black 1
+green 8 black 1 black 2
+green 3 black 1 black 2
+green 3 black 6
+black 1 green 6
+black 2 green 6
+black 2 green 6
+black 2 green 6 black 6
+black 2 green 5 black 1 black 2
+black 2 green 4 black 1 black 2
+green 2 black 1 green 3 black 2 black 1
+green 2 black 3 green 8 black 1
+green 2 green 8 black 1 black 1
+green 2 blue 4 green 8 black 1
+green 2 blue 4 green 3 black 2 black 1
+green 2 blue 4 green 4 black 1 black 2
+green 2 blue 7 green 4 black 2 black 2
+green 15 black 7

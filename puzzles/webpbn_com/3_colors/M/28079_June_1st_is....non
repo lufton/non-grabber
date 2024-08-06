@@ -1,0 +1,71 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Kelly Kriese"
+date "Jun  1, 2016"
+description "Bare Feet Day. No shoes!!"
+difficulty 2.25
+height 25
+id 28079
+link "https://webpbn.com/play.cgi?id=28079"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "June 1st is..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 13
+red 4 red 5
+red 3 red 3
+red 2 black 3 red 2
+red 2 black 5 black 3 red 3
+red 2 black 7 black 5 red 5
+red 2 black 7 black 5 red 3 red 2
+red 2 black 7 black 4 red 3 red 2
+red 2 black 7 black 3 red 3 black 1 red 2
+red 2 black 7 black 2 red 3 black 2 red 2
+red 2 black 6 black 1 red 3 black 3 red 2
+red 2 black 5 red 3 black 4 red 2
+red 2 black 5 red 3 black 5 red 2
+red 2 black 4 red 3 black 5 red 2
+red 2 red 3 black 4 red 2
+red 2 black 2 red 3 red 2
+red 2 black 2 red 3 black 3 red 2
+red 2 black 1 red 3 black 1 black 5 red 2
+red 2 red 3 black 2 black 5 red 2
+red 2 red 3 black 2 black 5 red 2
+red 2 red 3 black 3 red 2
+red 4 red 2
+red 3 red 3
+red 5 red 5
+red 13
+
+columns
+red 13
+red 17
+red 3 red 3
+red 2 red 2
+red 1 red 4
+red 2 black 8 red 5
+red 2 black 10 black 2 red 3 red 2
+red 2 black 11 black 2 red 3 red 2
+red 2 black 11 black 1 red 3 black 1 red 2
+red 1 black 11 red 3 black 2 red 1
+red 1 black 7 red 3 black 2 red 1
+red 1 black 5 red 3 red 1
+red 1 red 3 red 1
+red 1 black 5 red 3 red 1
+red 1 black 5 red 3 black 3 red 1
+red 1 black 5 red 3 black 3 black 5 red 1
+red 2 black 4 red 3 black 4 black 5 red 2
+red 2 black 3 red 3 black 5 black 5 red 2
+red 2 black 1 red 3 black 6 black 3 red 2
+red 2 red 3 black 6 red 2
+red 2 red 3 red 2
+red 4 red 2
+red 3 red 3
+red 16
+red 13

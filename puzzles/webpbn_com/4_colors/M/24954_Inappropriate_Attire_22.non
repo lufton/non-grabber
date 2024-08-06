@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Jun 28, 2014"
+description "Wearing color at a Goth nightclub."
+difficulty 1.75
+height 20
+id 24954
+link "https://webpbn.com/play.cgi?id=24954"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Inappropriate Attire #22"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 2 blue 1 black 2
+black 2 blue 1 black 1 black 2
+black 3 red 1 blue 3 red 3 black 2
+black 2 red 2 red 1 blue 2 red 3 black 1 black 1
+black 2 red 3 red 1 blue 1 black 1 black 2
+red 4 red 1 black 1 black 3
+red 6 black 6
+red 3 black 3
+red 3 black 3
+red 3 black 3
+blue 3 black 3
+blue 3 black 3
+blue 3 black 3
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 2 black 1 black 1
+red 3 black 1 black 1
+red 1 red 2 black 4
+
+columns
+black 3
+black 5
+black 4 red 7 blue 3 red 6
+black 1 red 7 blue 3 red 5
+black 1 blue 1 red 1 red 6 blue 3 red 2
+red 2 red 1
+blue 1 red 1
+blue 2 red 4
+blue 3
+blue 1
+0
+red 2 black 3
+red 2 black 1
+red 2 black 1 black 1
+black 1 black 1 black 1 black 14
+black 1 black 9 black 1
+black 4 black 15
+black 4
+0
+0

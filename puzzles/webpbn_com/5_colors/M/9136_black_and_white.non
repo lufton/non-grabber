@@ -1,0 +1,63 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jun 10, 2010"
+description "and colorful"
+difficulty 1.75
+height 20
+id 9136
+link "https://webpbn.com/play.cgi?id=9136"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "black and white"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5 black 5
+black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+black 1 red 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1
+black 5 black 5
+black 5 black 5
+blue 1 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1
+black 5 black 5
+black 5 black 5
+black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+black 1 red 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1
+black 5 black 5
+black 5 black 5
+blue 1 black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1 black 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+red 1 black 1 red 1 black 1 red 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 red 1 black 1
+black 5 black 5
+
+columns
+black 5 black 5
+black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1
+black 5 black 5
+black 5 black 5
+blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1
+black 5 black 5
+black 5 black 5
+black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1
+black 5 black 5
+black 5 black 5
+blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1
+black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1 black 1 green 1 black 1
+blue 1 black 1 red 1 black 1 blue 1 red 1 black 1 blue 1 black 1 red 1 black 1 blue 1 red 1 black 1
+black 5 black 5

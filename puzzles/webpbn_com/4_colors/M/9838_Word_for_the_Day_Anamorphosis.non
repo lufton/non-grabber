@@ -1,0 +1,72 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Teresa K"
+date "Jul 31, 2010"
+description "That's me peeking out from behind my name. It looks like regular text if you view it from an angle from below. Tilt your laptop backwards, or if you are using a desktop, get down on the floor and look up. Then try to explain your strange behavior to your boss and co-workers or your spouse/kids. Definition and link in comments."
+difficulty 1.5
+height 30
+id 9838
+link "https://webpbn.com/play.cgi?id=9838"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Word for the Day: Anamorphosis"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3 black 2 black 3 black 2 black 2 black 1
+black 3 black 2 black 3 black 2 black 2 black 1
+black 3 black 2 black 3 black 2 black 2 black 1
+black 3 black 2 black 3 black 2 black 2 black 1
+black 3 black 2 black 3 black 2 black 2 black 1
+black 3 black 2 black 3 black 2 black 2 black 1
+black 3 black 2 black 3 black 2 black 2 black 3
+black 3 black 2 black 3 green 1 black 2 black 2 black 3
+black 1 black 1 black 1 black 1 green 1 black 1 green 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 green 1 black 1 green 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 green 1 black 1 green 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 green 1 black 1 green 1 black 1 black 1 black 1
+black 1 black 2 black 3 black 2 green 1 black 1 black 3
+black 1 black 2 black 2 black 2 black 1 black 3
+black 1 black 2 black 2 black 2 black 2 black 3
+black 1 black 2 black 2 black 2 black 1 black 3
+black 1 black 2 black 2 black 2 black 1 black 3
+black 1 black 2 black 3 black 2 black 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 red 1 black 1 red 3 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 red 1 black 1 red 3 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 red 1 black 2 red 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 1 black 1
+black 1 black 2 black 1 black 1 black 2 black 2 black 1 black 1
+
+columns
+black 8
+black 30
+black 8
+0
+black 30
+black 8 black 6 black 8
+0
+black 30
+black 8 black 6 red 2
+black 13 black 13
+green 5 red 3
+black 30
+black 8 black 6 red 2 black 8
+green 5 red 3
+black 15 red 2 black 8
+black 8 black 16
+0
+black 24
+black 8 black 6
+black 24

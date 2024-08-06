@@ -1,0 +1,79 @@
+by "ety22"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/22/04"
+height 25
+id 11873
+link "https://www.griddlers.net/nonogram/-/g/11873"
+medium_time "0:17:37"
+points 10426
+popularity 60.63
+title "At the Farm"
+width 30
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color g 808080
+color h 000000
+
+rows
+e 4 e 6 b 10
+e 2 e 3 b 11
+e 4 h 3 b 9
+h 5 b 10
+h 7 e 4 b 1 b 6
+g 3 e 2 b 1 b 4
+g 3 e 5 b 1 b 1
+g 3 e 4
+h 2 e 3 h 1 e 2
+e 2 h 1 e 3 h 1 e 2
+e 3 h 5 e 3
+e 4 h 1 e 1 h 1 e 4
+e 2 e 1 h 1 e 1 h 1 e 4 g 1
+e 2 e 1 h 1 e 1 h 1 e 1 e 2 g 4
+e 2 e 1 h 1 e 1 h 1 e 1 e 2 g 1 h 1 g 1
+g 2 h 5 g 2 g 4
+g 2 d 5 g 2 b 1 g 8
+d 5 g 1 h 2 g 6
+d 5 g 3 h 2 g 2 g 1
+d 2 d 2 g 6 g 1
+c 1 b 1 c 1 d 2 d 2 c 1 c 1 g 1 g 1 g 1
+c 1 b 1 c 1 d 2 d 2 c 1 c 1 b 1 c 1 g 1 g 1
+c 3 c 1 h 2 h 2 c 2 c 1 c 2 c 1 c 1 h 1 c 1 h 1 c 1 c 1 b 1
+b 1 c 2 b 1 c 1 h 2 c 1 h 2 c 2 b 1 c 1 c 2 b 1 c 1 c 1 b 1 c 5 b 1 c 2
+c 4 h 3 c 1 h 3 c 4 b 1 c 14
+
+columns
+e 1 c 3 b 1 c 1
+e 1 b 2 c 3
+e 2 e 5 g 2 c 5
+e 3 e 6 g 2 b 1 c 1
+e 1 h 1 h 1 e 3 c 2 h 1
+e 1 h 2 h 3 e 4 h 1 d 6 h 3
+e 1 h 3 g 3 e 2 h 6 d 6 h 3
+h 3 g 3 e 2 h 1 e 4 h 1 d 3 c 2
+h 3 g 3 e 2 h 6 d 6 h 3
+h 2 h 3 e 4 h 1 d 6 h 3
+e 1 h 1 e 4 c 2 h 1
+e 1 e 6 g 2 c 4
+e 1 e 5 g 2 b 1 c 1
+e 1 c 5
+e 1 c 1
+e 2 c 1 b 1 c 2 b 1
+e 1 e 1 c 3
+e 1 e 1 b 1 c 1
+e 2 c 3
+b 1 e 3 g 1 b 1 c 1
+b 2 b 1 e 1 g 4 c 4
+b 4 e 1 g 2 h 1 g 5 b 1 c 1
+b 5 e 2 g 4 h 1 g 4 h 1 c 2
+b 4 e 2 g 1 g 1 h 1 g 2 c 2
+b 6 e 1 g 2 h 1 g 1 c 3
+b 5 e 2 g 2 h 1 g 3 h 1 c 2
+b 7 e 1 g 4 c 3
+b 6 g 3 b 1 c 1
+b 7 g 1 c 3
+b 6 g 4 b 1 c 2

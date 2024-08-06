@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Nov 12, 2011"
+description "Or maybe the coolest part of the TV series...It's the Batmobile. The fins, the flames, wow! "Batteries to power, turbines to speed.""
+difficulty 1.5
+height 20
+id 16349
+link "https://webpbn.com/play.cgi?id=16349"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Cheesiest part of Batman TV Series #5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+red 9
+red 5 black 7 red 1
+red 5 black 10 red 1
+black 16 red 1
+black 16 red 1 blue 1 red 1
+black 16 red 1 blue 1 red 2
+black 16 red 1 blue 1 red 1
+black 5 red 4 black 7 red 1 blue 1 red 1
+red 5 red 8
+black 4 black 4 black 7
+black 3 black 6 black 6
+black 2 black 3 black 3 black 4
+black 2 black 2
+black 2 black 2
+black 3 black 3
+black 6
+black 4
+
+columns
+red 1 black 5 red 1 black 3
+red 1 black 5 red 1 black 3
+red 1 black 5 red 1 black 2
+red 1 black 5 red 1 black 1 black 4
+red 1 black 5 red 1 black 6
+red 1 black 5 red 1 black 3 black 3
+red 1 black 5 red 1 black 2 black 2
+red 1 black 5 red 1 black 2 black 2
+red 1 black 5 red 1 black 3 black 3
+red 1 black 6 red 1 black 6
+red 1 black 7 red 1 black 1 black 4
+red 1 black 7 red 1 black 2
+red 1 black 7 red 1 black 3
+red 1 black 7 red 1 black 3
+red 1 black 7 red 1 black 3
+red 1 black 1 red 1 black 5 red 1 black 3
+red 1 black 1 red 6 black 2
+red 2 blue 4
+red 1 red 2
+red 2 red 1

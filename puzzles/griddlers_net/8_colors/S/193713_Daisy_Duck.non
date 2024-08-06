@@ -1,0 +1,51 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/13/18"
+height 14
+id 193713
+link "https://www.griddlers.net/nonogram/-/g/193713"
+medium_time "0:02:43"
+points 500
+popularity 74.22
+title "Daisy Duck"
+width 12
+
+color a ffffff
+color b 000000
+color c b2d8ff
+color d cc99ff
+color e ffe500
+color f ffcccc
+color g ffaae0
+color h ffffcc
+
+rows
+f 3 f 3
+f 1 g 2 g 2 f 1
+f 1 g 2 f 2 g 2 f 1
+f 1 f 1 g 1 f 2 g 1 f 1 f 1
+f 1 f 1 g 1 g 1 f 1 f 1
+f 2 f 2
+b 1 d 2 d 2 b 1
+b 1 d 1 c 1 b 1 b 1 c 1 d 1 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+e 1 h 1 c 2 h 1 e 2 h 1 c 2 h 1 e 1
+e 1 h 1 e 6 h 1 e 1
+e 1 h 6 e 1
+e 6
+
+columns
+f 6 b 4 e 1
+f 1 f 1 h 1 e 1
+f 1 f 1 d 1 c 3 h 1 e 1
+g 2 f 1 g 1 d 1 c 4 e 1 h 1 e 1
+g 3 d 1 b 3 h 1 e 1 h 1 e 1
+f 2 e 2 h 1 e 1
+f 2 e 2 h 1 e 1
+g 3 d 1 b 3 h 1 e 1 h 1 e 1
+g 2 f 1 g 1 d 1 c 4 e 1 h 1 e 1
+f 1 f 1 d 1 c 3 h 1 e 1
+f 1 f 1 h 1 e 1
+f 6 b 4 e 1

@@ -1,0 +1,86 @@
+by "luke piper (luke)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by luke piper"
+date "Jul 15, 2007"
+description "storm trooper from star wars.. this is my first puzzle..."
+difficulty 2.25
+height 35
+id 1073
+link "https://webpbn.com/play.cgi?id=1073"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "trooper"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 30
+blue 7 black 16 blue 7
+blue 6 black 1 black 1 blue 6
+blue 5 black 1 black 1 blue 5
+blue 4 black 1 black 1 blue 4
+blue 3 black 1 black 1 blue 3
+blue 3 black 1 black 1 blue 3
+blue 3 black 1 black 1 blue 3
+blue 3 black 1 black 1 blue 3
+blue 3 black 1 black 1 blue 3
+blue 3 black 24 blue 3
+blue 3 black 24 blue 3
+blue 3 black 1 black 1 blue 3
+blue 3 black 1 black 8 black 8 black 1 blue 3
+blue 3 black 1 black 7 black 7 black 1 blue 3
+blue 3 black 1 black 6 black 6 black 1 blue 3
+blue 3 black 1 black 3 black 3 black 1 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 3 black 3 blue 3
+blue 2 black 5 black 4 black 5 blue 2
+blue 1 black 1 black 2 black 8 black 2 black 1 blue 1
+black 1 black 1 black 3 black 3 black 1 black 1
+black 1 black 1 black 1 black 3 black 3 black 1 black 1 black 1
+black 1 black 2 black 1 black 3 black 3 black 1 black 2 black 1
+blue 1 black 1 black 2 black 1 black 1 black 2 black 1 blue 1
+blue 2 black 1 black 2 black 2 black 1 blue 2
+blue 3 black 1 black 1 blue 3
+blue 4 black 1 black 1 blue 4
+blue 3 black 1 black 1 blue 3
+blue 3 black 1 black 1 blue 3
+blue 4 black 1 black 2 black 1 blue 4
+blue 5 black 1 black 2 black 4 black 2 black 1 blue 5
+blue 6 black 1 black 2 black 4 black 2 black 1 blue 6
+blue 7 black 1 black 1 blue 1 black 2 blue 1 black 1 black 1 blue 7
+blue 8 black 4 blue 6 black 4 blue 8
+
+columns
+blue 21 black 3 blue 11
+blue 20 black 1 black 1 blue 10
+blue 19 black 1 black 2 black 1 blue 9
+blue 5 black 15 black 1 black 2 black 1 blue 1 black 2 blue 5
+blue 4 black 1 black 2 black 3 black 1 black 2 black 1 black 1 blue 4
+blue 3 black 1 black 2 black 3 black 3 black 1 black 1 black 1 blue 3
+blue 2 black 1 black 2 black 4 black 2 black 1 black 1 blue 2
+blue 1 black 1 black 2 black 4 black 1 blue 1
+blue 1 black 1 black 2 black 4 black 1 black 1
+blue 1 black 1 black 2 black 3 black 2 black 2 black 1
+blue 1 black 1 black 2 black 3 black 3 black 2 black 1
+blue 1 black 1 black 2 black 2 black 3 black 1
+blue 1 black 1 black 2 black 1 black 2 black 1 blue 1
+blue 1 black 1 black 2 black 2 black 2 blue 2
+blue 1 black 1 black 2 black 2 black 4 blue 1
+blue 1 black 1 black 2 black 2 black 4 blue 1
+blue 1 black 1 black 2 black 2 black 2 blue 2
+blue 1 black 1 black 2 black 1 black 2 black 1 blue 1
+blue 1 black 1 black 2 black 2 black 3 black 1
+blue 1 black 1 black 2 black 3 black 3 black 2 black 1
+blue 1 black 1 black 2 black 3 black 2 black 2 black 1
+blue 1 black 1 black 2 black 4 black 1 black 1
+blue 1 black 1 black 2 black 4 black 1 blue 1
+blue 2 black 1 black 2 black 4 black 2 black 1 black 1 blue 2
+blue 3 black 1 black 2 black 3 black 3 black 1 black 1 black 1 blue 3
+blue 4 black 1 black 2 black 3 black 1 black 2 black 1 black 1 blue 4
+blue 5 black 15 black 1 black 2 black 1 blue 1 black 2 blue 5
+blue 19 black 1 black 2 black 1 blue 9
+blue 20 black 1 black 1 blue 10
+blue 21 black 3 blue 11

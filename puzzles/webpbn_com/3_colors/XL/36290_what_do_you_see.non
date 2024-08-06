@@ -1,0 +1,91 @@
+by "cathy mcweeney (catty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by cathy mcweeney"
+date "Jan  1, 2023"
+description "if you flip it you will see ship"
+difficulty 1.25
+height 30
+id 36290
+link "https://webpbn.com/play.cgi?id=36290"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "what do you see"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 40
+red 1 black 39
+red 1 black 1 red 38
+red 1 black 1 red 1 black 1 red 35 black 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 32 black 2
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 29 black 3
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 23 black 7
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 21 black 2 black 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 19 black 7
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 17 black 3 black 2
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 13 black 9
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 12 black 10
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 5 black 1 red 3 black 2 black 8
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 4 black 4 red 1 black 11
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2 red 2 black 3 black 1 red 1 black 2 black 8
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 5 red 1 black 17
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2 black 2 red 1 black 2 black 12
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 20 black 3
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2 black 21
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 27
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 11 black 14
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 29
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 3 black 16 black 7
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 31
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 5 black 25
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 33
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 33
+red 1 black 1 red 1 black 1 red 1 black 35
+red 1 black 1 red 1 black 37
+red 1 black 1 red 1 black 37
+
+columns
+red 30
+red 1 black 29
+red 1 black 1 red 28
+red 1 black 1 red 1 black 27
+red 1 black 1 red 26 black 2
+red 1 black 1 red 2 black 26
+red 1 black 1 red 25 black 3
+red 1 black 1 red 3 black 25
+red 1 black 1 red 23 black 5
+red 1 black 1 red 4 black 24
+red 1 black 1 red 21 black 7
+red 1 black 1 red 5 black 23
+red 1 black 1 red 19 black 9
+red 1 black 1 red 6 black 22
+red 1 black 1 red 17 black 3 black 1 black 5
+red 1 black 1 red 7 black 13 black 7
+red 1 black 1 red 15 black 13
+red 1 black 1 red 8 black 8 black 11
+red 1 black 1 red 13 black 3 black 11
+red 1 black 1 red 10 black 4 black 13
+red 1 black 1 red 12 black 16
+red 1 black 1 red 13 black 15
+red 1 black 1 red 15 black 13
+red 1 black 1 red 12 black 16
+red 1 black 1 red 11 black 7 black 9
+red 1 black 1 red 10 black 4 black 3 black 9
+red 1 black 1 red 11 black 1 black 1 black 13
+red 1 black 1 red 11 black 3 black 13
+red 1 black 1 red 13 black 15
+red 1 black 1 red 10 black 18
+red 1 black 1 red 9 black 19
+red 1 black 1 red 8 black 2 black 1 black 15
+red 1 black 1 red 8 black 12 black 7
+red 1 black 1 red 4 black 24
+red 1 black 1 red 4 black 24
+red 1 black 1 red 4 black 1 black 9 black 12
+red 1 black 1 red 4 black 1 black 1 black 7 black 12
+red 1 black 1 red 3 black 2 black 1 black 20
+red 1 black 1 red 2 black 3 black 22
+red 1 black 1 red 1 black 27

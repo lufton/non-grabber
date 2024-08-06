@@ -1,0 +1,77 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/3/08"
+height 35
+id 64165
+link "https://www.griddlers.net/nonogram/-/g/64165"
+medium_time "0:07:17"
+points 22761
+popularity 69.56
+title "Dolk"
+width 17
+
+color a 66ccff
+color b 6699cc
+color c ffffff
+color d 99ccff
+color e 993300
+color f cc9900
+color g ffcc99
+color h 663300
+
+rows
+b 1
+b 2
+b 1 c 1 b 1
+b 1 d 1 b 1
+b 1 c 1 b 1
+b 1 d 1 b 1
+b 1 c 1 d 1 b 1
+b 1 d 1 b 1
+b 1 c 1 d 1 b 1
+b 1 c 1 d 2 b 1
+b 1 c 1 d 1 b 1
+b 1 c 2 d 1 b 1
+b 1 c 1 d 2 b 1
+b 1 c 2 d 1 b 1
+b 1 c 2 d 2 b 1
+b 1 c 2 d 2 b 1
+b 1 c 2 d 2 b 1
+b 1 c 2 d 2 b 1
+b 1 c 2 d 3 b 1
+b 1 c 2 d 2 b 1
+b 1 c 2 d 2 b 1
+b 1 c 2 d 3 b 1
+b 1 c 2 d 2 b 1
+b 1 c 1 d 3 b 1
+e 4 c 1 d 2 b 1
+e 1 f 1 g 1 c 2 e 2 b 1
+e 1 h 3 g 1 c 2 e 1
+h 3 g 2 h 1
+e 1 c 1 f 1 h 2 f 1 h 1
+e 1 g 1 h 1 h 2
+e 1 c 1 f 1 h 1
+e 1 g 1 h 1
+e 1 c 1 f 1 h 1
+e 1 g 1 h 1
+h 2
+
+columns
+e 2 e 2
+e 1 f 1 h 1 e 2 c 1 g 1 h 1
+e 1 g 1 h 1 e 2 c 1 g 1 f 1 h 2
+e 1 c 1 h 2 c 1 g 1 f 1 h 2
+b 3 e 1 c 1 g 1 h 1 f 1 h 2
+b 3 c 4 e 1 c 1 h 2
+b 2 c 5 d 2 e 1 c 1 g 1 h 1
+b 2 c 5 d 4 b 1 e 1 g 1 f 1 h 1
+b 1 c 4 d 6 b 1 h 3
+b 2 c 3 d 6 b 2
+b 2 c 3 d 5 b 3
+b 1 c 3 d 4 b 3
+b 2 c 1 d 4 b 3
+b 2 c 1 d 3 b 3
+b 2 c 1 d 2 b 3
+b 1 c 1 d 1 b 3
+b 4

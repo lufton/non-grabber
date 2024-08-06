@@ -1,0 +1,100 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Jun  3, 2010"
+description "I'm very proud wearing my new woolen socks"
+difficulty 2.0
+height 35
+id 9035
+link "https://webpbn.com/play.cgi?id=9035"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #60 High Heels"
+width 42
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 2 red 1
+green 2 red 2
+green 2 red 2
+green 3 red 3
+green 3 red 3
+green 4 red 4
+green 4 blue 4
+green 5 blue 5
+green 1 red 2 green 2 black 1 blue 4
+red 6 black 1 blue 5
+red 5 black 2 blue 5
+red 6 black 2 blue 6
+red 6 black 2 blue 6
+red 7 black 2 blue 7
+red 7 black 2 blue 7
+red 8 black 2 blue 5 green 3
+green 3 red 6 black 2 blue 4 green 4
+green 6 blue 4 black 2 red 3 green 6
+green 7 blue 5 black 1 red 3 green 6 red 1
+green 8 blue 5 red 3 green 6 red 3
+green 10 blue 4 red 3 green 5 red 5
+red 2 green 10 blue 3 red 1 green 5 red 7
+red 5 green 9 blue 2 green 5 red 9 blue 1
+red 8 green 7 green 2 red 9 blue 4
+red 10 green 4 red 8 blue 7
+red 11 green 2 red 6 blue 8
+red 12 red 4 blue 8 black 1
+black 1 red 10 red 2 blue 8 black 2
+black 2 red 8 blue 9 black 2
+black 3 red 6 blue 7 black 3
+black 4 red 5 blue 6 black 3
+black 4 red 4 blue 4 black 4
+black 5 red 3 blue 3 black 4
+black 5 red 2 blue 2 black 4
+
+columns
+red 3 black 7
+red 5 black 6
+red 6 black 5
+red 8 black 4
+red 10 black 2
+red 13
+red 13
+green 2 red 11
+green 4 red 8
+green 6 red 5
+green 8 red 3
+green 10 red 1
+red 1 green 10
+red 3 green 9
+red 6 green 7
+red 8 green 7
+green 2 red 8 blue 3 green 3
+green 3 red 9 blue 6
+green 5 red 9 blue 6
+green 9 red 8 blue 5
+green 10 red 1 black 8 blue 3
+red 6 blue 2 black 11 red 2
+red 5 blue 11 red 5
+red 3 blue 11 red 4 green 2
+red 1 blue 11 red 2 green 4
+blue 10 green 7
+blue 7 green 8
+blue 4 green 8 red 2
+blue 2 green 6 red 5
+green 5 red 7
+green 2 red 9
+red 10 blue 1
+red 8 blue 3
+red 6 blue 5
+red 4 blue 7
+red 2 blue 9
+red 1 blue 11
+blue 12
+blue 8 black 3
+blue 6 black 5
+blue 3 black 7
+blue 2 black 8

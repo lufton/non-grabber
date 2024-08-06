@@ -1,0 +1,58 @@
+by "Michelle T ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Michelle T"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.75
+height 20
+id 27574
+link "https://webpbn.com/play.cgi?id=27574"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "John-117"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+black 6
+black 2 green 6 black 2
+black 2 green 8 black 2
+black 12
+black 1 green 12 black 1
+black 1 green 1 black 12 green 1 black 1
+black 1 green 1 black 1 red 1 red 4 red 1 black 1 green 1 black 1
+black 1 red 2 red 6 red 2 black 1
+black 1 red 2 red 6 red 2 black 1
+black 1 red 12 black 1
+black 1 green 1 black 1 red 1 red 1 black 4 red 1 red 1 black 1 green 1 black 1
+black 1 green 2 black 3 green 4 black 3 green 2 black 1
+black 2 green 2 black 1 green 1 black 2 green 1 black 1 green 2 black 2
+black 2 green 1 black 1 green 4 black 1 green 1 black 2
+black 3 green 4 black 3
+black 2 green 4 black 2
+black 4
+0
+
+columns
+black 2 black 2
+black 1 green 2 black 3 green 2 black 1
+black 2 green 1 black 2 red 3 black 1 green 1 black 2
+black 3 green 1 black 1 red 5 black 1 green 1 black 2
+black 1 green 1 black 1 green 1 black 1 red 1 black 1 green 2 black 2
+black 1 green 2 black 1 green 1 black 1 red 4 black 5
+black 1 green 2 black 1 green 1 black 1 red 4 black 1 green 5 black 1
+black 1 green 2 black 1 green 1 black 1 red 4 black 1 green 1 black 1 green 3 black 1
+black 1 green 2 black 1 green 1 black 1 red 4 black 1 green 1 black 1 green 3 black 1
+black 1 green 2 black 1 green 1 black 1 red 4 black 1 green 5 black 1
+black 1 green 2 black 1 green 1 black 1 red 4 black 5
+black 1 green 1 black 1 green 1 black 1 red 1 black 1 green 2 black 2
+black 3 green 1 black 1 red 5 black 1 green 1 black 2
+black 2 green 1 black 2 red 3 black 1 green 1 black 2
+black 1 green 2 black 3 green 2 black 1
+black 2 black 2

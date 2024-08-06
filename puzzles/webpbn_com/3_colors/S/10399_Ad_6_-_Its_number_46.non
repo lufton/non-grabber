@@ -1,0 +1,49 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Sep 22, 2010"
+description "Excedrine headache."
+difficulty 1.75
+height 16
+id 10399
+link "https://webpbn.com/play.cgi?id=10399"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "Ad #6 - It's number 46"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 6
+black 3 black 2
+black 2 black 2
+black 1 black 3 black 3 black 2
+black 1 red 1 red 1 black 2
+black 1 black 2
+black 1 black 2 black 2
+black 2 black 1 black 1 black 3
+black 4 black 2 black 1
+black 1 black 6 black 1
+black 1 black 4 black 1
+black 1 black 4 black 1
+black 12
+black 2 black 2
+black 1 black 1
+black 1 black 1
+
+columns
+black 11
+black 2 black 2 black 2
+black 1 black 1 black 1 black 4
+black 2 black 1 red 1 black 2 black 1
+black 1 black 1 black 1 black 4
+black 1 black 1 black 4
+black 1 black 1 black 1 black 4
+black 1 black 1 red 1 black 1 black 4
+black 2 black 1 black 2 black 1
+black 2 black 2 black 4
+black 6 black 2
+black 10

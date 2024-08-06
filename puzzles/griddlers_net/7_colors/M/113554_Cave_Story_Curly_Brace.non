@@ -1,0 +1,67 @@
+by "phi1997"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/30/11"
+height 24
+id 113554
+link "https://www.griddlers.net/nonogram/-/g/113554"
+medium_time "0:04:04"
+points 752
+popularity 52.4
+title "Cave Story: Curly Brace"
+width 19
+
+color a cccccc
+color b ffffff
+color c cccc00
+color d ff3333
+color e cc0066
+color f 0000ff
+color g 33ff33
+
+rows
+c 11
+c 16
+c 16
+c 16 g 1
+c 1 b 12 c 3 g 1
+g 1 b 1 f 2 b 3 f 2 b 4 c 3 g 2
+g 1 b 1 f 2 b 3 f 2 b 4 c 3 g 1
+c 1 b 1 f 2 b 3 f 2 b 4 c 3
+c 1 b 12 c 3
+c 2 b 11 c 3
+c 5 b 3 c 8
+c 5 b 3 c 3 c 3
+b 7
+b 2 d 3 b 2
+d 7
+d 7
+b 7
+b 7
+b 9
+b 2 e 5 b 2
+e 5
+e 5
+e 12
+e 12
+
+columns
+e 2
+c 4 g 2 c 5 e 2
+c 3 b 5 c 3 b 2 e 2
+c 3 b 1 f 3 b 2 c 2 b 2 e 2
+c 4 b 1 f 3 b 2 c 2 b 2 d 2 b 3 e 1 e 2
+c 4 b 6 c 2 b 2 d 2 b 3 e 1 e 2
+c 4 b 9 d 3 b 3 e 2 e 2
+c 4 b 9 d 3 b 3 e 5
+c 4 b 1 f 3 b 5 d 3 b 3 e 5
+c 4 b 1 f 3 b 2 c 2 b 2 d 2 b 4 e 4
+c 4 b 6 c 2 b 2 d 2 b 4 e 4
+c 4 b 6 c 2 e 3
+c 4 b 6 c 1
+c 4 b 6 c 1
+c 12
+c 11
+c 11
+g 2
+g 3

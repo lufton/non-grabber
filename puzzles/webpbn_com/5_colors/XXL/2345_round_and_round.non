@@ -1,0 +1,123 @@
+by "adele (adele1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by adele"
+date "Feb 27, 2008"
+description "spiral, well sort off"
+difficulty 1.5
+height 50
+id 2345
+link "https://webpbn.com/play.cgi?id=2345"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "round and round"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 50
+black 50
+black 2
+red 48 black 2
+red 48 black 2
+green 45 red 2 black 2
+green 45 red 2 black 2
+green 2 red 2 black 2
+blue 43 green 2 red 2 black 2
+blue 43 green 2 red 2 black 2
+black 40 blue 2 green 2 red 2 black 2
+black 40 blue 2 green 2 red 2 black 2
+black 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 36 black 2 blue 2 green 2 red 2 black 2
+black 2 red 36 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 30 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 30 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 26 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 26 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 20 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 20 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 16 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 16 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 10 red 2 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 10 red 2 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 6 green 2 red 2 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 6 green 2 red 2 black 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 16 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 16 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 20 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 20 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 26 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 26 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 30 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 30 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 36 green 2 red 2 black 2
+black 2 red 2 green 2 blue 36 green 2 red 2 black 2
+black 2 red 2 green 2 green 2 red 2 black 2
+black 2 red 2 green 40 red 2 black 2
+black 2 red 2 green 40 red 2 black 2
+black 2 red 46 black 2
+black 2 red 46 black 2
+black 2 black 2
+black 50
+black 50
+
+columns
+black 2 red 2 green 2 blue 2 black 40
+black 2 red 2 green 2 blue 2 black 40
+black 2 red 2 green 2 blue 2 black 2 red 34 black 2
+black 2 red 2 green 2 blue 2 black 2 red 34 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 30 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 30 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 24 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 24 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 20 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 20 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 14 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 14 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 10 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 10 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 4 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 4 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 4 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 4 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 4 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 4 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 5 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 green 5 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 7 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 2 red 7 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 10 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 black 10 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 2 blue 2 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 14 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 2 blue 14 green 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 20 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 green 20 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 2 red 2 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 24 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 2 red 24 black 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 30 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 black 30 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 2 blue 2 green 2 red 2 black 2
+black 2 red 2 green 2 blue 34 green 2 red 2 black 2
+black 2 red 2 green 2 blue 34 green 2 red 2 black 2
+black 2 red 2 green 40 red 2 black 2
+black 2 red 2 green 40 red 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 44 black 2
+black 2 red 44 black 2
+black 50
+black 50

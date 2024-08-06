@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jun 17, 2011"
+description "What did all the other elements say when Hydrogen refused to eat her phos?"
+difficulty 1.25
+height 20
+id 14735
+link "https://webpbn.com/play.cgi?id=14735"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Element Joke 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 2
+black 8
+black 2
+0
+black 3
+black 9
+0
+black 3
+black 6
+black 3
+0
+red 3 red 1
+black 2 red 1 black 1 red 1 black 1 red 1 black 6 red 2 black 1
+black 2 red 3 red 1 red 1 black 2
+black 1 red 1 red 3 red 2 red 1 black 1
+black 2 red 1 red 1 red 1 red 2 red 2 black 2
+black 16
+0
+0
+
+columns
+0
+black 3
+black 2 black 2
+black 1 black 1
+red 5 black 1
+red 1 black 1 red 1 black 1
+black 1 red 3 black 1
+black 1 black 2 black 1 black 1 black 1 black 1
+black 3 black 2 black 1 black 1 red 5 black 1
+black 3 black 2 black 3 black 1 red 1 black 1
+black 1 black 1 black 1 black 1 red 2 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 red 2 black 1
+black 1 black 1 black 1 black 1 red 2 black 1
+black 1 black 1 black 1 black 1 black 1
+red 2 red 1 black 1
+red 1 red 2 black 1
+black 2 black 2
+black 3
+0

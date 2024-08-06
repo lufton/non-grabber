@@ -1,0 +1,58 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Mar 25, 2011"
+description "Up in her tree...hee hee"
+difficulty 1.5
+height 20
+id 13019
+link "https://webpbn.com/play.cgi?id=13019"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Matt going to see Dee :D"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 1 black 2 green 1 black 2 green 1
+black 2 green 1 black 4 green 1
+green 1 black 6 green 1
+black 1 green 1 black 4 black 1 black 1
+black 11
+black 7 blue 1 black 1 blue 1 black 1
+black 11
+black 8 red 1 black 2
+black 6 black 3
+black 6 blue 2
+black 11
+black 12
+black 6 black 5
+black 6 black 5
+black 6 black 5
+black 6 black 5 black 1
+black 11 black 1
+black 12 black 1
+black 6 black 3
+black 6
+
+columns
+black 2 green 1
+green 1 black 19
+green 1 black 1 green 1 black 16
+black 18
+black 20
+black 20
+green 1 black 19
+black 2 green 1 black 4 black 2 black 2
+black 1 green 1 black 2 blue 1 black 3 black 8
+green 1 black 3 red 1 black 1 blue 1 black 8
+black 2 blue 1 black 3 blue 1 black 8
+black 4 black 8
+black 5 black 2
+black 1
+black 4

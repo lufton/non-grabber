@@ -1,0 +1,93 @@
+by "Scott C (estray98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Scott C"
+date "Sep  9, 2008"
+description "just some groceries. sry the california raisins were already taken... =>)"
+difficulty 2.0
+height 20
+id 3485
+link "https://webpbn.com/play.cgi?id=3485"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WC# 3: its time for yum yum's"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+blue 2
+green 2 green 2 black 4
+green 3 green 3 black 1 blue 4 black 1 black 7
+green 1 green 1 green 1 blue 2 black 1 blue 4 black 1 black 7
+green 1 green 1 green 1 black 4 black 1 blue 4 black 1 black 1 blue 5 black 1
+green 1 black 1 black 1 black 1 blue 4 black 1 black 1 blue 1 red 4 black 1
+red 3 black 2 red 5 black 1 blue 2 black 1 blue 2 black 3 blue 2 black 2 black 1 blue 4 black 1 black 1 red 1 blue 4 black 1
+red 5 black 1 black 1 red 1 red 1 red 1 black 1 blue 1 black 2 blue 1 black 4 blue 1 black 3 black 1 blue 4 black 1 black 1 red 1 blue 4 black 1
+red 5 black 2 red 1 red 1 red 1 black 1 blue 2 black 1 blue 1 black 1 blue 1 black 2 blue 1 black 1 blue 1 black 1 black 1 blue 4 black 1 black 1 red 1 blue 4 black 1
+red 5 black 1 red 1 red 1 red 1 black 1 blue 1 black 2 blue 1 black 2 blue 1 black 1 blue 1 black 2 blue 1 black 1 blue 4 black 1 black 1 blue 1 red 4 black 1
+red 3 black 5 blue 2 black 1 blue 3 black 2 blue 3 black 1 black 4 black 7
+green 50
+green 50
+blue 50
+blue 50
+green 50
+green 50
+
+columns
+green 3 green 2 blue 2 green 2
+green 2 red 3 green 2 blue 2 green 2
+green 2 red 5 green 2 blue 2 green 2
+green 3 red 5 green 2 blue 2 green 2
+green 2 red 5 green 2 blue 2 green 2
+green 2 red 3 green 2 blue 2 green 2
+green 3 green 2 blue 2 green 2
+green 2 blue 2 green 2
+black 1 green 2 blue 2 green 2
+black 1 black 1 green 2 blue 2 green 2
+black 5 green 2 blue 2 green 2
+black 1 red 4 black 1 green 2 blue 2 green 2
+blue 1 black 1 red 1 black 1 green 2 blue 2 green 2
+blue 1 black 1 red 4 black 1 green 2 blue 2 green 2
+black 1 red 1 black 1 green 2 blue 2 green 2
+black 1 red 4 black 1 green 2 blue 2 green 2
+black 4 green 2 blue 2 green 2
+green 2 blue 2 green 2
+green 2 blue 2 green 2
+green 2 blue 2 green 2
+blue 5 green 2 blue 2 green 2
+blue 1 black 1 blue 1 black 1 blue 1 green 2 blue 2 green 2
+black 5 green 2 blue 2 green 2
+blue 5 green 2 blue 2 green 2
+blue 1 black 3 blue 1 green 2 blue 2 green 2
+black 2 blue 1 black 1 blue 1 green 2 blue 2 green 2
+black 3 blue 1 black 1 green 2 blue 2 green 2
+black 5 green 2 blue 2 green 2
+blue 5 green 2 blue 2 green 2
+blue 1 black 3 blue 1 green 2 blue 2 green 2
+black 2 blue 1 black 1 blue 1 green 2 blue 2 green 2
+black 3 blue 1 black 1 green 2 blue 2 green 2
+green 2 blue 2 green 2
+green 2 blue 2 green 2
+black 8 green 2 blue 2 green 2
+black 1 blue 8 black 1 green 2 blue 2 green 2
+blue 1 black 1 blue 8 black 1 green 2 blue 2 green 2
+blue 1 black 1 blue 8 black 1 green 2 blue 2 green 2
+black 1 blue 8 black 1 green 2 blue 2 green 2
+black 8 green 2 blue 2 green 2
+green 2 blue 2 green 2
+green 2 blue 2 green 2
+black 9 green 2 blue 2 green 2
+black 2 blue 2 red 3 blue 1 black 1 green 2 blue 2 green 2
+black 2 blue 1 red 1 blue 3 red 1 black 1 green 2 blue 2 green 2
+black 2 blue 1 red 1 blue 3 red 1 black 1 green 2 blue 2 green 2
+black 2 blue 1 red 1 blue 3 red 1 black 1 green 2 blue 2 green 2
+black 2 blue 1 red 1 blue 3 red 1 black 1 green 2 blue 2 green 2
+black 9 green 2 blue 2 green 2
+green 2 blue 2 green 2

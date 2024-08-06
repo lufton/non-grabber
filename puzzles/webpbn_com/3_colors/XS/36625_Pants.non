@@ -1,0 +1,34 @@
+by "Sam (cementuh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sam"
+date "Apr  1, 2023"
+description "Arf! Keeping the title for this one, but tiny animal #1"
+difficulty 1.0
+height 7
+id 36625
+link "https://webpbn.com/play.cgi?id=36625"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Pants"
+width 6
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2 black 1
+black 4
+red 2
+
+columns
+black 2 black 2
+black 1 black 1 black 1
+black 2 red 1
+black 2 red 1
+black 1 black 1 black 1
+black 2 black 2

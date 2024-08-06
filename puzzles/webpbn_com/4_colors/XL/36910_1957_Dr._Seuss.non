@@ -1,0 +1,113 @@
+by "Kitty Kat (ledeyoung)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Kitty Kat"
+date "Dec 19, 2023"
+description "It's easy to forget that the original "How the Grinch Stole Christmas" book illustrations only included the colors black, white, and red. This was due to printing limitations. No green at all except the cover!"
+difficulty 3.0
+height 56
+id 36910
+link "https://webpbn.com/play.cgi?id=36910"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.75
+title "1957 Dr. Seuss"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 7 red 8 red 4 red 2 red 4 red 4
+red 7 red 4 red 1 red 1 red 1 red 1 red 3 red 5
+red 8 red 2 red 1 red 1 green 1 green 1 red 1 red 6
+red 1 red 3 red 2 red 1 red 1 green 1 black 1 green 4 green 1 red 4
+red 2 red 3 red 2 green 1 green 3 black 1 green 1 black 1 green 3 black 1 green 1 red 2 red 1
+red 2 red 2 red 1 green 1 green 5 black 2 green 1 black 1 green 1 black 3 green 2 green 2 red 2
+red 3 red 2 green 6 black 2 green 1 black 3 green 9 red 3
+red 3 red 1 green 1 green 6 black 4 green 10 red 4
+red 3 green 1 green 5 black 1 green 1 black 7 green 7 red 4
+red 2 green 1 green 5 black 7 green 2 black 1 green 1 black 1 green 4 red 4
+red 1 red 3 green 8 black 2 black 1 black 2 green 2 black 1 green 4 red 4
+red 1 red 2 green 6 black 3 black 2 green 5 red 2 green 2
+red 2 red 2 green 4 black 3 black 2 black 3 green 5 red 1 green 4
+red 2 red 2 green 3 black 3 black 1 black 3 green 4 green 5
+red 3 red 1 green 3 black 2 black 1 black 1 green 3 green 6
+red 3 green 2 black 2 black 2 black 3 green 9
+red 2 green 1 green 2 black 2 black 1 black 2 black 2 black 1 green 7 red 1
+red 1 green 3 black 2 black 4 green 6 red 2
+green 2 green 3 black 2 black 3 black 2 black 4 green 5 red 3
+red 1 green 1 green 3 black 2 black 2 red 3 black 1 black 1 red 3 black 1 green 5
+red 1 green 6 black 2 red 1 black 1 red 3 red 1 black 1 red 2 black 1 green 9
+red 2 green 5 black 2 red 1 black 1 red 3 red 1 black 1 red 1 black 1 green 9
+red 1 green 4 black 1 red 4 red 3 black 1 green 9
+red 1 green 3 black 2 black 1 black 2 black 1 green 9
+green 1 green 2 black 2 black 5 black 2 black 3 green 9
+green 3 green 1 black 2 black 1 green 7 red 1
+green 6 black 2 black 1 black 2 green 7
+green 6 black 2 black 1 black 2 green 7
+green 6 black 2 black 1 black 1 green 8
+green 6 black 2 black 2 black 1 green 5
+green 7 black 1 black 2 black 1 black 2 green 4 red 3
+green 7 black 2 black 2 black 1 black 2 green 6 red 1
+green 8 black 2 black 12 green 9
+green 9 black 2 black 1 green 11
+green 10 black 2 black 6 green 12
+green 11 black 1 black 2 green 14
+green 11 black 2 black 2 green 15
+green 11 black 2 black 1 green 16
+green 12 black 2 black 1 green 17
+green 12 black 2 black 1 green 7 black 1 green 9
+green 12 black 2 black 1 green 6 black 1 green 10
+green 11 black 2 black 1 black 2 green 6 black 1 green 10
+green 11 black 2 black 1 black 2 green 3 black 1 green 2 black 1 green 10
+green 11 black 2 black 4 green 4 black 1 green 1 black 1 green 10
+green 11 black 2 black 1 black 1 green 4 black 1 green 1 black 2 green 9
+green 10 black 2 black 1 black 1 black 1 green 4 black 6 green 7
+green 9 black 2 black 2 black 2 green 3 black 2 black 2 green 6
+green 10 black 8 green 3 black 4 black 1 green 6
+green 10 black 1 black 3 black 2 green 3 black 5 black 1 green 6
+green 7 black 5 black 2 black 2 green 3 black 2 black 1 green 6
+green 6 black 6 black 2 black 1 black 1 green 3 black 3 black 2 green 6
+green 5 black 11 black 2 green 3 black 2 black 2 green 7
+green 5 black 9 black 4 green 4 black 4 green 8
+green 5 black 11 black 3 green 3 black 4 green 8
+green 5 black 21 green 9
+green 6 black 20 green 9
+
+columns
+red 8 red 6 red 3 green 32
+red 3 red 5 red 5 green 1 red 2 green 31
+red 4 red 5 red 3 green 3 red 1 green 31
+red 5 red 4 red 1 green 2 green 30
+red 6 red 4 green 4 green 30
+red 3 red 3 green 1 red 3 green 35 black 4 green 1
+red 4 red 2 green 3 green 8 black 5 green 20 black 6
+red 3 green 13 black 9 green 17 black 7
+red 1 red 2 green 10 black 8 black 2 green 16 black 7
+red 3 green 7 black 7 black 3 black 2 green 12 black 1 green 2 black 7
+red 4 green 8 black 4 black 1 black 2 black 2 green 10 black 11
+red 2 green 6 black 3 black 2 black 4 green 3 black 5 black 1 black 7
+red 4 green 6 black 3 black 1 black 2 black 1 black 9 black 3 black 5
+red 1 green 4 black 2 green 1 black 2 black 1 black 1 red 2 black 1 black 1 black 3 black 11
+red 3 green 4 black 3 black 1 black 1 red 1 black 2 red 1 black 1 black 1 black 3 black 5 black 3
+red 1 green 4 black 3 black 1 black 1 red 4 black 1 black 1 black 3 black 1 black 5
+green 3 black 4 black 1 black 1 black 1 red 4 black 1 black 1 black 3 black 5 black 1 black 2
+red 2 green 1 black 6 black 1 black 2 black 1 red 3 black 1 black 1 black 12 black 5
+red 1 black 3 green 1 black 3 black 1 black 2 black 2 black 1 black 1 black 2 green 12 black 6
+red 2 green 2 black 5 black 1 black 2 black 2 black 1 black 3 green 16 black 3
+red 1 green 1 black 3 green 1 black 1 green 1 black 5 black 2 black 1 red 3 black 1 black 2 green 18 black 2
+green 4 black 1 green 1 black 1 green 2 black 3 black 2 black 1 red 1 black 2 red 1 black 1 black 3 black 1 green 7 black 1 green 3 black 4 green 4 black 2
+red 2 green 2 black 1 green 3 black 1 green 3 black 3 black 1 red 4 black 1 black 1 black 1 green 8 black 9 green 2 black 2
+red 1 green 3 black 1 green 4 black 1 green 4 black 1 black 1 red 2 black 1 black 2 green 11 black 1 black 2 black 6
+black 1 green 3 black 1 green 6 black 1 black 2 black 1 green 1 black 2 black 2 green 7 black 6 black 2 black 1 black 4
+red 3 black 1 green 15 black 3 green 3 black 2 black 2 green 7 black 1 green 4 black 2 black 1 black 4
+red 2 green 10 green 12 black 4 green 14 black 1 black 3 green 2
+red 2 green 1 green 5 green 30 black 2 black 2 green 4
+red 1 red 1 green 4 red 1 green 32 black 5 green 5
+red 3 green 2 red 2 green 42
+red 3 green 2 red 3 green 5 green 36
+red 4 green 1 red 4 green 5 green 10 green 25
+red 4 red 5 green 4 red 1 green 5 green 3 red 1 green 24
+red 3 red 5 green 4 red 2 green 4 green 2 red 1 green 24
+red 3 red 5 green 3 red 3 green 3 red 1 green 1 red 2 green 23

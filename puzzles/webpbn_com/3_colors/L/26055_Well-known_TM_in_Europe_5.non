@@ -1,0 +1,81 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Thomas Genuine"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 15
+id 26055
+link "https://webpbn.com/play.cgi?id=26055"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Well-known TM in Europe #5"
+width 45
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 8 black 8 black 7 black 6 black 5
+black 1 black 2 black 1 black 2 black 1 black 3 black 1 black 2 black 1 black 2 black 2
+black 2 black 2 black 3 black 2 black 2 black 2
+black 2 black 2 black 1 black 3 black 2 black 2 black 2
+black 2 black 5 black 5 black 2 black 2 black 2
+black 2 black 2 black 1 black 4 black 2 black 2 black 2
+black 2 black 2 black 1 black 1 black 3 black 2 black 1 black 2 black 2
+black 4 black 8 black 7 black 6 black 5
+0
+0
+blue 6 blue 6 blue 7 blue 7 blue 6
+blue 6 blue 5 blue 6 blue 5 blue 5
+blue 5 blue 6 blue 7 blue 6 blue 6
+0
+
+columns
+black 2 blue 1
+black 1 blue 2
+black 1 black 1 blue 2
+black 8 blue 3
+black 8 blue 3
+black 1 black 1 blue 2
+black 1 blue 2
+black 2 blue 1
+blue 1 blue 1
+black 1 black 1 blue 1
+black 8 blue 2
+black 8 blue 2
+black 1 black 1 black 1 blue 3
+black 1 black 1 black 1 blue 3
+black 1 black 3 black 1 blue 2
+black 1 black 1 blue 1
+black 2 black 2 blue 1
+blue 1 blue 1
+black 2 black 2 blue 1
+black 4 black 1 blue 2
+black 5 black 1 blue 2
+black 1 black 2 black 1 blue 3
+black 1 black 2 black 1 blue 3
+black 1 black 4 blue 3
+black 1 black 4 blue 2
+black 2 black 2 blue 1
+blue 1
+black 4 blue 1 blue 1
+black 6 blue 1
+black 2 black 2 blue 2
+black 1 black 1 blue 3
+black 1 black 1 blue 3
+black 1 black 1 blue 3
+black 1 black 1 blue 2
+black 2 black 2 blue 1
+blue 1
+black 4 blue 1 blue 1
+black 6 blue 1
+black 2 black 2 blue 2
+black 1 black 1 blue 3
+black 1 black 1 blue 3
+black 1 black 1 blue 3
+black 2 black 2 blue 2
+black 6 blue 1
+black 4 blue 1

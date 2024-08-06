@@ -1,0 +1,40 @@
+by "pinkpigeon"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/25/22"
+height 10
+id 236734
+link "https://www.griddlers.net/nonogram/-/g/236734"
+medium_time "0:02:02"
+points 1054
+popularity 70.0
+title "Heart"
+width 10
+
+color a ffffff
+color b 000000
+color c ff0000
+
+rows
+b 1 b 1
+b 1 c 1 b 1 b 1 c 1 b 1
+b 1 c 1 c 1 b 2 c 1 c 1 b 1
+b 1 c 1 c 2 c 1 b 1
+b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 1
+b 1 c 2 b 1
+b 2
+c 4 b 2 c 4
+b 10
+
+columns
+b 2 c 1 b 1
+b 1 c 2 b 1 c 1 b 1
+b 1 c 1 c 1 b 1 c 1 b 1
+b 1 c 1 c 1 b 1 c 1 b 1
+b 1 c 1 c 1 b 3
+b 1 c 1 c 1 b 3
+b 1 c 1 c 1 b 1 c 1 b 1
+b 1 c 1 c 1 b 1 c 1 b 1
+b 1 c 2 b 1 c 1 b 1
+b 2 c 1 b 1

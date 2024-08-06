@@ -1,0 +1,57 @@
+by "Aidan Fraser (aaaidan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aidan Fraser"
+date "Jan 25, 2012"
+description "Yes, it's a maze, you genius! Start bottom left, end bottom right!"
+difficulty 1.75
+height 20
+id 17330
+link "https://webpbn.com/play.cgi?id=17330"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "amazing!"
+width 20
+
+rows
+11,2,3,1
+1,1,1,1,1,1
+9,3,2,3
+1,1,1,1,1,1
+3,1,1,3,3,3
+1,1,1,1,1
+3,1,1,5,2
+1,9,1,1
+1,8
+5,5,1,1
+1,1,1,6
+1,3,1,1,1,1,1
+1,1,8,1,3
+1,3,1,1,1
+1,1,6,1,1,1,1
+5,1,1,1,3
+1,6,1,1,1
+4,1,1,1,3
+1,1,1,3,1,1,1,1
+1,6,1,3,5
+
+columns
+3,4,7,3
+1,1,1,1,1,1,1
+1,3,2,1,3,1,3
+1,1,1,1,1,1,3,1
+1,1,6,1,3,1
+1,1,1,2
+1,4,1,1,2,1,1,1
+1,1,1,1,1,3,2
+1,1,2,1,4,1,1,1
+1,1,1,1,1,1,4
+5,2,1,2,1,1
+1,1,1,1,2
+5,7,1
+1,1,1,1,8
+3,1,1,1
+3,1,1,1,8
+1,3,3,1
+3,1,1,1,4,3
+3,1,1,1,1,1,1,1
+3,3,3,4,1

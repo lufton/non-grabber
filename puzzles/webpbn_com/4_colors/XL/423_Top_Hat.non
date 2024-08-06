@@ -1,0 +1,87 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Jan Wolter"
+date "Apr 29, 2006"
+description "A crown: the item on the head of the head of state. This picture is modeled on the crown of the Queen of Sweden."
+difficulty 3.0
+height 30
+id 423
+link "https://webpbn.com/play.cgi?id=423"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "Top Hat"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 3
+black 1
+black 1
+blue 1 black 1 blue 1
+blue 5
+blue 1 blue 3 blue 1
+black 5 blue 2 blue 2 black 5
+black 2 black 2 blue 5 black 2 black 2
+black 2 black 5 black 1 blue 3 black 1 black 5 black 2
+black 1 black 3 red 2 black 11 red 2 black 3 black 1
+black 3 red 3 black 2 black 2 black 2 black 2 red 3 black 3
+black 2 red 3 black 2 black 3 red 1 black 1 black 1 red 1 black 3 black 2 red 3 black 2
+black 1 red 2 black 3 black 2 red 2 black 1 black 1 red 2 black 2 black 3 red 2 black 1
+black 2 red 2 black 2 black 2 red 2 red 2 black 1 black 1 red 2 red 2 black 2 black 2 red 2 black 2
+black 1 red 2 black 3 black 1 red 1 red 4 black 3 red 4 red 1 black 1 black 3 red 2 black 1
+black 1 red 1 black 1 black 3 red 3 red 1 black 2 black 2 red 1 red 3 black 3 black 1 red 1 black 1
+black 2 red 1 black 1 black 2 red 3 red 3 black 1 black 1 red 3 red 3 black 2 black 1 red 1 black 2
+black 1 black 5 red 2 red 3 red 1 black 2 black 2 red 1 red 3 red 2 black 5 black 1
+black 3 black 1 red 1 red 3 red 3 black 5 red 3 red 3 red 1 black 1 black 3
+black 2 black 1 red 3 red 3 red 1 black 2 black 2 red 1 red 3 red 3 black 1 black 2
+black 2 black 2 red 2 red 3 black 1 black 1 red 3 red 2 black 2 black 2
+black 4 red 1 black 1 red 1 black 1 black 2 black 2 black 1 red 1 black 1 red 1 black 4
+black 4 red 4 black 1 red 1 red 1 black 2 black 2 red 1 red 1 black 1 red 4 black 4
+black 1 black 3 red 2 black 2 red 4 black 5 red 4 black 2 red 2 black 3 black 1
+black 1 black 1 black 6 red 2 black 1 black 1 red 2 black 6 black 1 black 1
+black 2 black 1 black 1 black 5 black 5 black 1 black 1 black 2
+black 3 black 1 black 1 black 1 black 7 black 1 black 1 black 1 black 3
+black 5 black 1 black 1 black 1 black 1 black 1 black 1 black 5
+black 15
+
+columns
+black 6
+black 3 black 1 black 3
+black 2 red 3 black 8
+black 2 red 2 black 3 black 2 black 1
+black 1 black 1 red 2 black 1 black 1 black 6
+black 2 red 2 black 2 black 7 black 1
+black 1 black 1 red 1 black 6 red 2 black 1 red 2 black 5
+black 1 black 1 red 2 black 1 black 2 red 1 red 1 red 2 black 1 black 1
+black 1 black 1 red 1 black 2 black 1 red 4 red 2 black 4
+black 1 black 1 red 1 black 1 black 2 red 1 red 1 red 1 black 1 red 1 black 2 black 1
+black 1 black 1 red 1 black 1 black 1 red 8 black 7
+black 1 black 1 red 1 black 1 black 1 red 1 red 1 red 1 red 1 black 1 red 2 black 2 black 1
+black 1 black 2 black 2 red 8 red 2 black 4
+black 1 black 1 black 1 red 1 red 1 red 1 red 1 red 1 red 2 black 1 black 1
+blue 2 black 1 black 1 black 1 red 9 black 1 red 2 black 5
+blue 1 blue 2 black 3 red 1 red 2 black 9 black 1 black 1
+black 1 blue 3 blue 2 black 7 black 3 black 2 black 3
+black 5 blue 2 blue 2 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 blue 3 blue 2 black 7 black 3 black 2 black 3
+blue 1 blue 2 black 3 red 1 red 2 black 9 black 1 black 1
+blue 2 black 1 black 1 black 1 red 9 black 1 red 2 black 5
+black 1 black 1 black 1 red 1 red 1 red 1 red 1 red 1 red 2 black 1 black 1
+black 1 black 2 black 2 red 8 red 2 black 4
+black 1 black 1 red 1 black 1 black 1 red 1 red 1 red 1 red 1 black 1 red 2 black 2 black 1
+black 1 black 1 red 1 black 1 black 1 red 8 black 7
+black 1 black 1 red 1 black 1 black 2 red 1 red 1 red 1 black 1 red 1 black 2 black 1
+black 1 black 1 red 1 black 2 black 1 red 4 red 2 black 4
+black 1 black 1 red 2 black 1 black 2 red 1 red 1 red 2 black 1 black 1
+black 1 black 1 red 1 black 6 red 2 black 1 red 2 black 5
+black 2 red 2 black 2 black 7 black 1
+black 1 black 1 red 2 black 1 black 1 black 6
+black 2 red 2 black 3 black 2 black 1
+black 2 red 3 black 8
+black 3 black 1 black 3
+black 6

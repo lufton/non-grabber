@@ -1,0 +1,33 @@
+by "Brianna Hill (brianna.hill)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brianna Hill"
+date "Sep 26, 2017"
+description "upside down cows head"
+difficulty 1.25
+height 8
+id 30218
+link "https://webpbn.com/play.cgi?id=30218"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "cows head"
+width 8
+
+rows
+6
+1,1
+1,1,1,1
+1,1
+1,2,1
+2,2
+1,2,1
+3,3
+
+columns
+3,2
+1,2,1
+1,1,1,1
+1,1,1
+1,1,1
+1,1,1,1
+1,2,1
+3,2

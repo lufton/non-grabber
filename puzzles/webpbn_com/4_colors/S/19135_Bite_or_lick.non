@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Jun 26, 2012"
+description "That is my lime paleta (Mexican Popsicle) on the left and my wife's watermelon on the right. I'm a biter."
+difficulty 1.25
+height 15
+id 19135
+link "https://webpbn.com/play.cgi?id=19135"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Bite or lick?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+green 3 red 1
+green 4 red 3
+green 5 red 3
+green 5 red 3
+green 5 red 5
+green 5 red 5
+green 5 red 5
+green 5 red 5
+green 5 red 5
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+0
+
+columns
+0
+green 7
+green 8
+green 9 black 4
+green 9
+green 9
+0
+0
+0
+red 5
+red 8
+red 9 black 4
+red 8
+red 5
+0

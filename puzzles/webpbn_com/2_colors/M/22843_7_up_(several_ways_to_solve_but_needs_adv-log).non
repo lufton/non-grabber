@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Sep 28, 2013"
+description "nope, it's a sprite...(I coulda added one more black pixel to make it LLS, but what fun is that? lol)"
+difficulty 3.75
+height 20
+id 22843
+link "https://webpbn.com/play.cgi?id=22843"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "7 up? (several ways to solve, but needs adv-log)"
+width 20
+
+rows
+1,5,3,3,2
+1,1,1,3,1
+1,2,1,5,3
+3,1,3,1,1
+1,2,2,5,1
+2,5,1,1
+2,1,2,2,6
+1,1,2,2,1,2
+2,1,3,3,1
+5,1,2,2
+5,4,1
+1,2,1,1,1
+1,3,2,2
+2,2,5
+1,1,1,1,2,1
+1,3,1,2,2
+1,3,2,1,4
+2,1,2,1,4
+6,2,1
+7,4,2,1
+
+columns
+10,6
+1,2,4,3
+1,3,2,1,2,2
+3,1,5,2,2
+1,1,4,2,2
+1,1,1,1,1,1,2
+1,3,1,4,1
+1,2,1,3
+1,1,2,1,1,1,1
+1,1,1,3,1,1,3
+1,2,2,1,1,3,1,1
+1,1,3,3,1,1,2
+1,2,1,1,1
+1,1,1,2
+2,1,3,3,1
+3,1,1,1,1,1,1
+4,4,1,2
+1,3,1,1,2
+1,2,1,2,3
+2,4,2,2,1

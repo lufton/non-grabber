@@ -1,0 +1,76 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Wombat"
+date "Jan 17, 2024"
+description "No, not the beets. It's the label from the beets."
+difficulty 1.75
+height 30
+id 38197
+link "https://webpbn.com/play.cgi?id=38197"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Zuul's favorite toys, #16"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 2 black 3
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 2 black 3
+black 1 black 3
+black 1 black 2
+black 2 black 2
+black 1 black 1
+black 23
+blue 23
+blue 1 blue 1
+blue 1 blue 3 blue 3 blue 3 blue 3 blue 3 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 2 blue 2 blue 2 blue 1 blue 3 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 3 blue 3 blue 3 blue 1 blue 3 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 5 blue 1
+blue 1 blue 7 blue 1
+blue 1 blue 2 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 2 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 7 blue 1
+blue 1 blue 5 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+
+columns
+black 4
+black 2 black 3 blue 19
+black 2 black 1 blue 1
+black 3 black 1 blue 1 blue 5
+black 2 black 1 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 blue 1 blue 2 blue 2
+black 1 black 1 blue 1
+black 1 blue 1 blue 5
+black 1 blue 1 blue 1 blue 1 blue 1 blue 2
+black 1 blue 1 blue 1 blue 1 blue 4
+black 1 blue 1 blue 2 blue 2
+black 1 blue 1 blue 5 blue 6
+black 1 blue 1 blue 1 blue 1 blue 1 blue 2 blue 2
+black 1 blue 1 blue 1 blue 1 blue 6
+black 1 blue 1 blue 2 blue 2
+black 1 blue 1 blue 1 blue 4
+black 1 blue 1 blue 5 blue 2
+black 3 black 1 blue 1 blue 1
+black 1 black 2 black 1 blue 1
+black 2 black 2 black 1 blue 1 blue 3 blue 1
+black 1 black 1 black 1 blue 1 blue 1 blue 1 blue 1
+black 1 black 2 black 1 blue 1 blue 1 blue 3
+black 1 black 1 blue 1
+black 5 blue 19
+black 2

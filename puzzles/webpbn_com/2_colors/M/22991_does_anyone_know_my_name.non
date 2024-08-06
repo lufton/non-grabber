@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Oct 20, 2013"
+description ""
+difficulty 2.5
+height 20
+id 22991
+link "https://webpbn.com/play.cgi?id=22991"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "does anyone know my name?"
+width 20
+
+rows
+2
+4,8
+1,3,4
+5,2,3
+3,1,5,1
+5,2,4,5
+5,1,7
+1,3,1,3,1
+3,3,2,1,1,1,1
+1,1,1,10
+1,1
+3,2,2
+1,1,1,2
+4,1,2
+1,5,1,3
+1,3,2,7
+6,1,2,1
+4,2,4,1
+2,2,2,2
+2,2,2
+
+columns
+4,3,2,3,1
+2,3,1,1,4
+7,2,1,4
+3,2,1,4
+7,2
+1,5,2
+1,3,2
+1,1,2
+1,2,1
+1,2,3,4
+1,3,2,1,5
+1,2,1,4,2
+2,3,2,3,2
+1,3,1,4
+1,4,1,1,2
+2,3,1,2,2,1
+1,2,2,2,1,2
+1,2,1,6
+6,2
+1,2,1

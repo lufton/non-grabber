@@ -1,0 +1,51 @@
+by "Eliza Havruk (GoodGirl174)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Eliza Havruk"
+date "Jul  8, 2012"
+description ""
+difficulty 1.5
+height 15
+id 19249
+link "https://webpbn.com/play.cgi?id=19249"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Heart"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 4 red 4
+red 1 black 4 red 1 red 1 black 4 red 1
+red 1 black 5 red 1 red 1 black 5 red 1
+red 1 black 6 red 1 black 6 red 1
+red 1 black 6 red 1 black 6 red 1
+red 1 black 6 red 1 black 6 red 1
+red 1 black 6 red 1 black 6 red 1
+red 1 black 5 red 1 black 5 red 1
+red 2 black 4 red 1 black 4 red 2
+red 1 black 4 red 1 black 4 red 1
+red 1 black 3 red 1 black 3 red 1
+red 1 black 2 red 1 black 2 red 1
+red 1 black 1 red 1 black 1 red 1
+red 3
+red 1
+
+columns
+red 5
+red 1 black 5 red 2
+red 1 black 7 red 2
+red 1 black 9 red 1
+red 1 black 10 red 1
+red 1 black 11 red 1
+red 2 black 10 red 1
+red 12
+red 2 black 10 red 1
+red 1 black 11 red 1
+red 1 black 10 red 1
+red 1 black 9 red 1
+red 1 black 7 red 2
+red 1 black 5 red 2
+red 5

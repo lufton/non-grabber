@@ -1,0 +1,57 @@
+by "Alex Klages (metalfoot)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Alex Klages"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 27281
+link "https://webpbn.com/play.cgi?id=27281"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "An easy one"
+width 20
+
+rows
+2,2,2,2,2,2,2
+2,2,2,2,2,2,2
+20
+20
+20
+20
+1,1
+1,1
+1,1
+1,1
+1,1
+1,13,1
+1,13,1
+1,13,1
+1,13,1
+1,4,4,1
+1,4,4,1
+1,4,4,1
+1,4,4,1
+1,4,4,1
+
+columns
+20
+6
+4
+6
+6,9
+4,9
+6,9
+6,9
+4,4
+6,4
+6,4
+4,4
+6,4
+6,9
+4,9
+6,9
+6,9
+4
+6
+20

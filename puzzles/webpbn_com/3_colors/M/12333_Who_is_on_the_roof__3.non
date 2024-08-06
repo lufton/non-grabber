@@ -1,0 +1,61 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Feb 21, 2011"
+description "Coyotes on my friend's roof."
+difficulty 1.25
+height 20
+id 12333
+link "https://webpbn.com/play.cgi?id=12333"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Who is on the roof? # 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 20
+black 3 black 14
+black 2 black 13
+black 2 black 13
+black 2 black 13
+black 3 black 14
+black 20
+black 8 black 4 black 2 black 3
+black 8 black 3 black 2 black 3
+black 7 black 3 black 3
+black 5 black 3 black 3
+black 7 black 3
+black 6 black 3
+black 4 black 3
+black 3 black 3
+black 2 black 3 black 3 black 1 black 2
+black 2 black 4 black 3 black 1 black 3
+black 2 black 3 black 2 black 1 black 3
+blue 20
+blue 20
+
+columns
+black 18 blue 2
+black 18 blue 2
+black 2 black 10 blue 2
+black 1 black 8 blue 2
+black 1 black 7 blue 2
+black 1 black 4 black 2 black 1 blue 2
+black 2 black 5 black 1 black 3 blue 2
+black 9 black 3 blue 2
+black 7 black 3 blue 2
+black 8 blue 2
+black 17 blue 2
+black 18 blue 2
+black 18 blue 2
+black 7 blue 2
+black 9 black 3 blue 2
+black 9 blue 2
+black 7 black 3 blue 2
+black 11 black 3 blue 2
+black 11 black 2 blue 2
+black 11 blue 2

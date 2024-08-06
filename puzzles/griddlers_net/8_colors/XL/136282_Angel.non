@@ -1,0 +1,110 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/23/13"
+height 45
+id 136282
+link "https://www.griddlers.net/nonogram/-/g/136282"
+medium_time "0:27:24"
+points 31068
+popularity 70.0
+title "Angel"
+width 40
+
+color a ffffff
+color b 946c27
+color c edced4
+color d 040002
+color e 86b8d9
+color f b15152
+color g 4b597c
+color h c97867
+
+rows
+b 7
+b 9
+b 4 c 1 b 7
+b 5 c 2 b 2 c 2 b 3
+b 2 c 1 b 1 c 1 b 1 c 3 b 1 c 3 b 3
+b 2 b 2 c 1 b 1 c 10 b 3 b 2
+b 3 b 3 c 5 d 1 c 1 d 1 c 4 b 1 c 1 b 2 b 2
+b 3 b 4 c 12 b 1 c 1 b 2 b 2
+b 7 c 15 b 6
+b 6 c 15 b 4
+e 4 b 2 c 13 b 1
+e 8 b 2 c 13 b 2
+e 3 b 3 e 3 b 2 c 11 b 3 b 2
+e 4 b 4 e 2 b 2 c 9 e 2 b 3 b 4
+e 4 b 3 e 2 b 2 f 3 g 2 c 5 g 1 f 1 e 4 b 8
+e 5 b 5 f 1 h 1 f 1 g 1 e 1 g 1 h 3 g 1 e 1 g 1 f 1 e 5 b 6
+e 6 b 3 f 1 h 1 f 1 h 1 g 1 e 1 g 1 h 3 g 1 e 1 g 1 f 2 e 5 b 3 e 1
+e 9 f 1 h 2 f 1 h 1 g 1 e 2 g 1 h 3 g 1 e 1 g 1 f 1 h 1 f 1 e 8
+e 9 c 1 f 1 h 2 f 1 h 1 g 1 e 2 g 5 e 1 g 1 f 1 h 1 f 1 e 8
+e 9 c 3 f 2 h 1 g 1 e 9 g 1 f 1 h 2 f 1 e 7
+e 9 c 5 f 1 g 1 e 10 g 1 f 1 h 2 f 1 e 7
+e 8 c 5 f 1 h 1 g 1 e 10 g 1 f 1 h 2 f 1 e 7
+e 7 c 5 f 1 h 1 g 1 e 11 g 1 h 1 f 2 c 1 e 6
+e 6 c 5 f 1 h 2 g 1 e 11 g 1 h 1 f 1 c 2 e 5
+e 4 c 6 f 1 h 1 g 1 e 13 g 1 f 1 c 2 e 3
+e 3 c 5 f 1 h 1 g 1 e 14 g 1 f 1 c 3 e 2
+e 2 c 4 f 1 h 2 g 1 e 14 g 1 h 1 f 1 c 2 e 2
+c 2 f 1 h 2 g 1 e 15 g 1 h 1 f 1 c 3 e 1
+f 1 h 2 g 1 e 15 g 1 h 1 f 1 c 3
+f 1 h 2 g 1 e 16 g 1 h 1 f 1 c 3
+f 1 h 3 g 1 e 15 g 1 h 1 f 1 c 3
+f 1 h 4 g 3 e 13 g 1 h 1 f 1 c 2
+f 1 h 7 g 3 e 10 g 1 h 1 f 1
+f 1 h 10 g 11 h 1 f 1
+f 1 h 22 f 1
+f 2 h 20 f 1
+f 4 h 16 f 1
+c 2 f 4 h 12 f 1
+c 6 f 12
+c 14
+c 14
+c 14
+c 13
+c 12
+c 10
+
+columns
+e 4
+e 6
+e 8
+e 10
+e 10
+e 11 c 3
+e 11 c 5 f 4
+e 11 c 6 f 2 h 4 f 1
+e 10 c 6 f 2 h 6 f 1
+b 4 e 1 b 3 e 5 c 6 f 1 h 9 f 1
+b 5 e 2 b 4 e 3 c 6 f 1 h 3 g 1 h 6 f 1 c 4
+b 4 e 2 b 5 e 1 c 5 f 2 h 2 g 2 e 1 g 2 h 4 f 1 c 7
+b 2 e 3 b 1 e 1 b 2 f 2 c 3 f 1 h 2 g 2 e 4 g 1 h 4 f 1 c 8
+b 3 e 5 b 2 h 2 f 1 c 1 f 1 h 2 g 1 e 6 g 1 h 5 f 1 c 7
+b 4 e 3 b 2 f 1 h 2 f 2 h 1 g 2 e 8 g 1 h 4 f 1 c 7
+b 10 f 1 h 1 f 2 h 1 g 2 e 10 g 1 h 4 f 1 c 7
+b 4 c 2 b 4 f 1 h 1 f 1 h 2 g 1 e 12 g 1 h 4 f 1 c 7
+b 2 c 7 f 2 h 1 g 2 e 14 g 1 h 4 f 1 c 6
+b 2 c 1 b 1 c 7 f 1 g 2 e 16 g 1 h 4 f 1 c 6
+b 4 c 9 g 1 e 18 g 1 h 4 f 1 c 6
+b 4 c 10 g 5 e 14 g 1 h 4 f 1 c 6
+b 5 c 10 h 3 g 1 e 14 g 1 h 4 f 1 c 6
+b 2 c 4 d 1 c 8 h 3 g 1 e 14 g 1 h 4 f 1 c 5
+b 3 c 12 h 3 g 1 e 14 g 1 h 4 f 1 c 3
+b 4 c 2 d 1 c 8 g 4 e 14 g 1 h 4 f 1
+b 5 c 10 e 18 g 1 h 4 f 1
+b 3 c 11 g 10 e 9 g 1 h 4 f 1
+b 2 c 11 f 8 h 2 g 10 h 4 f 1
+b 2 c 9 e 2 f 1 h 5 f 4 h 12 f 1
+b 6 c 4 e 4 f 2 h 3 f 1 c 3 f 12
+b 3 c 4 b 3 e 6 f 3 c 10
+b 4 b 3 e 11 c 7
+b 3 b 3 e 12 c 4
+b 2 b 3 e 12
+b 2 b 3 e 7
+b 1 b 2 b 4 e 7
+b 5 b 5 e 6
+b 3 b 4 e 6
+b 3
+b 1

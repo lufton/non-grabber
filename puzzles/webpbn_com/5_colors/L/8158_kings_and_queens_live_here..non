@@ -1,0 +1,83 @@
+by "Rachel Barient (barient)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Rachel Barient"
+date "Mar 24, 2010"
+description "its a castle! =]"
+difficulty 1.75
+height 30
+id 8158
+link "https://webpbn.com/play.cgi?id=8158"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "kings and queens live here."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 green 1
+red 3 red 3 red 3 black 1 green 2 red 3 red 3 red 3
+red 3 red 3 red 3 black 1 green 3 red 3 red 3 red 3
+red 11 black 1 green 2 red 11
+red 11 black 1 green 1 red 10
+red 11 black 1 red 11
+red 5 black 1 red 5
+red 1 blue 4 blue 3 blue 3 blue 3 red 1 blue 3 red 1
+red 1 blue 20 red 1
+red 1 blue 20 red 1
+red 1 blue 20 red 1
+red 1 blue 20 red 1
+red 1 blue 4 black 1 blue 10 black 1 blue 4 red 1
+red 1 blue 3 black 3 blue 8 black 3 blue 3 red 1
+red 1 blue 3 black 3 blue 8 black 3 blue 3 red 1
+red 1 blue 20 red 1
+red 1 blue 20 red 1
+red 1 blue 4 black 1 blue 10 black 1 blue 4 red 1
+red 1 blue 3 black 3 blue 8 black 3 blue 3 red 1
+red 1 blue 3 black 3 blue 8 black 3 blue 3 red 1
+red 1 blue 20 red 1
+red 1 blue 20 red 1
+red 1 blue 9 black 2 blue 9 red 1
+red 1 blue 8 black 4 blue 8 red 1
+red 1 blue 7 black 6 blue 7 red 1
+red 1 blue 7 black 6 blue 7 red 1
+green 1 green 1 red 1 blue 7 black 6 blue 7 red 1 green 1 green 1
+green 4 red 1 blue 7 black 6 blue 7 red 1 green 4
+green 4 red 1 blue 7 black 6 blue 7 red 1 green 4
+
+columns
+green 2
+red 5 green 3
+red 5 green 2
+red 5 green 3
+red 26
+red 6 blue 22
+red 6 blue 22
+red 6 blue 22
+red 4 blue 6 black 2 blue 3 black 2 blue 9
+red 5 blue 4 black 3 blue 2 black 3 blue 9
+red 5 blue 6 black 2 blue 3 black 2 blue 9
+red 5 blue 22
+blue 17 black 5
+blue 15 black 6
+black 7 blue 15 black 7
+green 3 blue 15 black 7
+green 3 blue 16 black 6
+green 2 blue 16 black 5
+red 3 green 1 red 1 blue 22
+red 5 blue 6 black 2 blue 3 black 2 blue 9
+red 5 blue 5 black 3 blue 2 black 3 blue 9
+red 5 blue 5 black 2 blue 3 black 2 blue 9
+red 6 blue 22
+red 6 blue 22
+red 6 blue 22
+red 26
+red 5 green 2
+red 5 green 3
+red 5 green 2
+green 3

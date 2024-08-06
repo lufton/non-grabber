@@ -1,0 +1,56 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Nov 15, 2010"
+description "tom, the pipers son.....stole a pig and away he run."
+difficulty 1.75
+height 15
+id 11029
+link "https://webpbn.com/play.cgi?id=11029"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Nursery rhythm #10 - Me?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 5
+black 4
+black 2 black 1
+black 6
+black 1 black 1
+black 2 black 2
+red 1 black 2 black 2
+red 3 black 6
+red 4 black 1 red 4 black 2 black 4
+red 1 red 1 black 3 red 2 black 2 black 4
+red 2 red 1 red 3 black 4 black 1 black 1
+red 1 red 5 black 1 black 1
+red 1 red 6 black 1 black 1
+red 1 red 1 black 2 black 2
+
+columns
+red 1
+red 4
+red 1 red 1
+red 1 red 1 red 1
+red 1 red 1
+red 5
+black 2 red 3
+red 3 black 1 red 3
+red 2 black 2 red 3
+red 3 black 1 red 1
+red 2 black 1
+black 2
+black 2
+black 2
+black 2 black 5
+black 5 black 9
+black 5 black 3 black 1
+black 3 black 1 black 5
+black 1 black 11
+black 2 black 1

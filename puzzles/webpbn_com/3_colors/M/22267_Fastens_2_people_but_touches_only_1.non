@@ -1,0 +1,61 @@
+by "A Lathe (Fozzielathe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by A Lathe"
+date "Jun 25, 2013"
+description "Wedding ring (the white is the "gold" & the black is the finger. Blue is just a pretty color :))"
+difficulty 1.5
+height 20
+id 22267
+link "https://webpbn.com/play.cgi?id=22267"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Fastens 2 people but touches only 1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 7 blue 7
+blue 6 blue 6
+blue 5 black 6 blue 5
+blue 4 black 8 blue 4
+blue 3 black 10 blue 3
+blue 2 black 12 blue 2
+blue 2 black 12 blue 2
+blue 1 black 14 blue 1
+blue 1 black 16 blue 1
+black 16
+black 16
+blue 1 black 16 blue 1
+blue 1 black 14 blue 1
+blue 2 black 12 blue 2
+blue 2 black 12 blue 2
+blue 3 black 10 blue 3
+blue 4 black 8 blue 4
+blue 5 black 6 blue 5
+blue 6 blue 6
+blue 7 blue 7
+
+columns
+blue 9 blue 9
+blue 7 blue 7
+blue 5 black 4 blue 5
+blue 4 black 6 blue 4
+blue 3 black 10 blue 3
+blue 2 black 12 blue 2
+blue 1 black 14 blue 1
+black 16
+black 16
+black 16
+black 16
+black 16
+black 16
+blue 1 black 14 blue 1
+blue 2 black 12 blue 2
+blue 3 black 10 blue 3
+blue 4 black 6 blue 4
+blue 5 black 4 blue 5
+blue 7 blue 7
+blue 9 blue 9

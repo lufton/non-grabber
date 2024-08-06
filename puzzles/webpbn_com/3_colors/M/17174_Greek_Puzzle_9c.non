@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Jan 15, 2012"
+description "Another alternate puzzle inspired by Kristen's comments."
+difficulty 1.5
+height 20
+id 17174
+link "https://webpbn.com/play.cgi?id=17174"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Greek Puzzle #9c"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 3 blue 3 blue 3
+blue 3 blue 3 blue 3
+blue 11
+blue 9
+blue 5
+black 3 blue 1 black 3 black 3
+black 3 black 3 black 3
+blue 1 black 11
+blue 2 black 9
+blue 3 black 5
+blue 3 black 3
+blue 3 black 3
+blue 3 black 3
+blue 3 black 3
+blue 3 black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+
+columns
+blue 1
+blue 2
+blue 3
+blue 3
+blue 2
+blue 3 black 1
+blue 5 black 2 blue 8
+blue 5 black 3 blue 7
+blue 6 black 3 blue 6
+blue 3 black 2
+blue 2 black 3
+blue 3 black 15
+blue 3 black 15
+blue 2 black 15
+blue 1 black 3
+black 2
+black 3
+black 3
+black 2
+black 1

@@ -1,0 +1,73 @@
+by "callan27"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/2/02"
+height 30
+id 1019
+link "https://www.griddlers.net/nonogram/-/g/1019"
+medium_time "0:09:49"
+points 2149
+popularity 65.65
+title "Mermaid"
+width 20
+
+color a ffffff
+color d 0000ff
+color e 00ffff
+color f f5b5f5
+color g 7f4008
+color h 000000
+
+rows
+f 2
+f 1
+g 3 f 1
+g 3 f 2 f 1
+g 3 f 2 f 1
+g 4 f 1 g 2 f 2
+g 5 f 1 g 2
+g 1 f 1 g 2 f 1 g 2
+g 1 f 1 g 3 f 1 g 2
+f 2 g 2 f 2
+f 1 f 1 g 1 f 2
+f 1 f 4
+f 1 f 4
+f 1 f 4
+f 1 d 5
+f 3 d 6
+h 4 d 6
+h 7 d 5 h 2
+h 8 d 4 h 3
+h 9 d 3 h 3
+h 10 d 4 h 2
+h 11 d 3 h 3
+e 2 h 11 d 3 h 3 e 1
+e 1 h 10 d 4 h 2 e 2
+e 1 h 8 d 4 h 2 e 1
+e 4 h 4 d 7 h 1 e 2
+e 5 d 9 e 6
+e 6 d 5 h 2
+e 5 d 6 h 1 e 8
+e 20
+
+columns
+e 8
+e 1 e 5
+h 4 e 5
+h 7 e 5
+g 4 f 1 h 9 e 4
+g 7 f 1 h 10 d 1 e 1 d 1 e 1
+g 5 f 9 h 10 d 1 d 1 e 1
+g 1 f 2 g 4 f 1 d 2 h 10 d 3 e 1
+f 3 g 4 f 4 d 3 h 9 d 3 e 1
+g 1 f 2 g 3 f 3 d 3 h 8 d 4 e 1
+g 3 f 6 d 4 h 7 d 4 e 1
+f 1 f 1 g 3 f 5 d 5 h 6 d 3 h 1 e 1
+f 6 g 1 d 6 h 2 d 4 h 1 e 2
+d 11 h 1 e 2
+d 9 e 1 e 2
+h 3 d 6 e 1 e 2
+h 9 e 1 e 2
+h 7 e 1 e 2
+h 2 e 1 e 2 e 2
+e 5 e 2

@@ -1,0 +1,63 @@
+by "Pam Negri (pamnegri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Pam Negri"
+date "Feb 21, 2009"
+description "cherry"
+difficulty 1.25
+height 20
+id 5107
+link "https://webpbn.com/play.cgi?id=5107"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "tree"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 8 green 4 blue 8
+blue 7 green 6 blue 7
+blue 6 green 4 red 1 green 3 blue 6
+blue 5 green 10 blue 5
+blue 5 green 1 red 1 green 8 blue 5
+blue 5 green 6 red 1 green 3 blue 5
+blue 5 green 10 blue 5
+blue 6 green 2 red 1 green 5 blue 6
+blue 7 green 6 blue 7
+blue 8 green 4 blue 8
+blue 9 black 2 blue 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+green 9 black 2 green 9
+
+columns
+blue 11 green 9
+blue 11 green 9
+blue 11 green 9
+blue 11 green 9
+blue 11 green 9
+blue 3 green 4 blue 4 green 9
+blue 2 green 2 red 1 green 3 blue 3 green 9
+blue 1 green 8 blue 2 green 9
+green 7 red 1 green 2 blue 1 green 9
+green 10 black 10
+green 2 red 1 green 7 black 10
+green 5 red 1 green 4 blue 1 green 9
+blue 1 green 8 blue 2 green 9
+blue 2 green 6 blue 3 green 9
+blue 3 green 4 blue 4 green 9
+blue 11 green 9
+blue 11 green 9
+blue 11 green 9
+blue 11 green 9
+blue 11 green 9

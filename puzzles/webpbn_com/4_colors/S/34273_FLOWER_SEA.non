@@ -1,0 +1,52 @@
+by "michelle johnson (blubrd420)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by michelle johnson"
+date "Jun 27, 2020"
+description "RED POLLEN"
+difficulty 1.25
+height 20
+id 34273
+link "https://webpbn.com/play.cgi?id=34273"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "FLOWER SEA"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+blue 2
+blue 6
+blue 6
+blue 3 black 2 blue 3
+blue 3 black 2 blue 3
+blue 6
+blue 6
+blue 2
+green 2 green 1
+green 1 green 4
+green 6
+green 4
+green 2
+blue 4
+blue 8
+blue 10
+
+columns
+blue 1
+blue 2 blue 2
+blue 6 green 3 blue 2
+blue 6 green 2 blue 3
+blue 3 black 2 blue 3 green 5 blue 3
+blue 3 black 2 blue 3 green 5 blue 3
+blue 6 green 2 blue 3
+blue 6 green 3 blue 2
+blue 2 blue 2
+blue 1

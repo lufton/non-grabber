@@ -1,0 +1,88 @@
+by "Aaron Tennison (Adinell.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Aaron Tennison"
+date "Jun 12, 2009"
+description "Pool Table"
+difficulty 1.25
+height 40
+id 6077
+link "https://webpbn.com/play.cgi?id=6077"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Table Game"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3 green 19 black 3
+black 3 green 19 black 3
+black 3 green 19 black 3
+green 25
+green 25
+green 8 red 2 blue 2 red 2 blue 2 red 2 green 7
+green 8 red 2 blue 2 red 2 blue 2 red 2 green 7
+green 9 blue 2 red 2 blue 4 green 8
+green 9 blue 2 red 2 blue 4 green 8
+green 10 red 2 black 2 red 2 green 9
+green 10 red 2 black 2 red 2 green 9
+green 11 blue 4 green 10
+green 11 blue 4 green 10
+green 12 red 2 green 11
+green 12 red 2 green 11
+green 25
+green 25
+green 25
+green 25
+black 3 green 19 black 3
+black 3 green 19 black 3
+black 3 green 19 black 3
+green 25
+green 25
+green 25
+green 25
+green 25
+green 25
+green 12 green 11
+green 12 green 11
+green 25
+green 25
+green 25
+green 25
+green 25
+green 25
+green 25
+black 3 green 19 black 3
+black 3 green 19 black 3
+black 3 green 19 black 3
+
+columns
+black 3 green 16 black 3 green 15 black 3
+black 3 green 16 black 3 green 15 black 3
+black 3 green 16 black 3 green 15 black 3
+green 40
+green 40
+green 40
+green 40
+green 40
+green 5 red 2 green 33
+green 5 red 2 blue 2 green 31
+green 5 blue 4 red 2 green 29
+green 5 blue 2 red 4 blue 2 green 27
+green 5 red 4 black 2 blue 2 red 2 green 13 green 10
+green 5 red 2 blue 2 black 2 blue 2 red 2 green 13 green 10
+green 5 blue 4 red 2 blue 2 green 27
+green 5 blue 4 red 2 green 29
+green 5 red 2 blue 2 green 31
+green 5 red 2 green 33
+green 40
+green 40
+green 40
+green 40
+black 3 green 16 black 3 green 15 black 3
+black 3 green 16 black 3 green 15 black 3
+black 3 green 16 black 3 green 15 black 3

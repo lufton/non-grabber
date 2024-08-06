@@ -1,0 +1,83 @@
+by "baconDllama"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/5/07"
+height 36
+id 42329
+link "https://www.griddlers.net/nonogram/-/g/42329"
+medium_time "0:08:20"
+points 18166
+popularity 66.53
+title "Shadow Link's Bomb"
+width 23
+
+color a ffffff
+color b 000000
+color c ffff00
+color d ff0000
+color e ffa000
+color f 0000ff
+color g ffffbe
+
+rows
+b 2
+b 1 d 2 b 1
+b 1 d 1 e 2 d 1 b 1
+b 1 d 1 e 1 c 2 e 1 d 1 b 1
+b 1 d 1 e 1 c 2 e 1 d 1 b 1
+b 1 d 1 e 2 d 1 b 1
+b 1 d 2 b 1
+b 1 g 1 b 2
+b 1 g 2 b 1
+b 1 g 2 b 1
+b 1 g 1 b 1
+b 3
+b 1 f 1 b 1
+b 2 f 1 b 2
+b 3 f 5 b 3
+b 2 f 11 b 2
+b 1 f 15 b 1
+b 1 f 17 b 1
+b 1 f 17 b 1
+b 1 f 8 b 3 f 8 b 1
+b 1 f 7 b 1 b 1 f 7 b 1
+b 1 f 6 b 1 b 1 f 6 b 1
+b 1 f 7 b 1 b 1 b 1 b 1 f 7 b 1
+b 1 f 7 b 1 b 1 f 7 b 1
+b 1 f 8 b 1 b 1 f 8 b 1
+b 1 f 7 b 1 b 1 f 7 b 1
+b 1 f 7 b 1 b 1 b 1 b 1 f 7 b 1
+b 1 f 7 b 1 f 1 b 1 f 1 b 1 f 7 b 1
+b 1 f 19 b 1
+b 1 f 19 b 1
+b 1 f 17 b 1
+b 1 f 17 b 1
+b 1 f 15 b 1
+b 2 f 11 b 2
+b 3 f 5 b 3
+b 5
+
+columns
+b 5
+b 3 f 5 b 3
+b 2 f 11 b 2
+b 1 f 15 b 1
+b 1 f 17 b 1
+b 1 f 17 b 1
+b 1 f 19 b 1
+b 1 f 19 b 1
+b 1 f 6 b 3 f 1 b 2 f 7 b 1
+b 1 f 6 b 1 b 1 b 1 f 7 b 1
+b 2 b 5 f 5 b 1 b 1 b 1 f 8 b 1
+b 1 d 2 b 1 b 2 g 2 b 1 f 7 b 1 b 1 f 7 b 1
+b 1 d 1 e 2 d 1 b 1 g 3 b 4 f 5 b 1 b 1 b 1 f 8 b 1
+b 1 d 1 e 1 c 2 e 1 d 1 b 1 g 1 b 1 b 1 f 6 b 1 b 1 b 1 f 7 b 1
+b 1 d 1 e 1 c 2 e 1 d 1 b 2 b 1 f 6 b 3 f 1 b 2 f 7 b 1
+b 1 d 1 e 2 d 1 b 1 b 1 f 19 b 1
+b 1 d 2 b 1 b 1 f 19 b 1
+b 2 b 1 f 17 b 1
+b 1 f 17 b 1
+b 1 f 15 b 1
+b 2 f 11 b 2
+b 3 f 5 b 3
+b 5

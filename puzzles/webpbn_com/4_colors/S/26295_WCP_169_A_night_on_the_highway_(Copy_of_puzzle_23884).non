@@ -1,0 +1,52 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Thomas Genuine"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 15
+id 26295
+link "https://webpbn.com/play.cgi?id=26295"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP #169 A night on the highway (Copy of puzzle #23884)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 black 3 blue 1 black 7
+black 7 blue 1 black 7
+black 7 blue 1 black 1 red 1 black 2 red 1 black 2
+black 7 black 7
+black 1 blue 1 black 3 blue 1 black 1 black 7
+blue 3 black 1 blue 3 black 7
+blue 1 blue 3 blue 2 black 7
+blue 1 blue 2 black 6
+blue 1 blue 2 black 6
+blue 1 blue 3 blue 2 black 2 red 1 black 3 red 1
+blue 3 blue 3 black 1 red 3 black 1 red 2
+black 1 blue 1 black 3 blue 1 black 1 black 2 red 1 black 3 red 1
+black 7 black 4 black 2
+black 7 black 7
+black 6 blue 1 black 7
+
+columns
+black 5 blue 2 blue 2 black 4
+black 3 blue 2 blue 2 black 3
+black 5 blue 2 blue 2 black 4
+black 5 blue 4 black 4
+black 5 blue 2 blue 2 black 4
+black 4 blue 2 blue 2 black 3
+black 5 blue 2 blue 2 black 3
+blue 3 blue 4 blue 1
+black 7 blue 2 black 6
+black 2 red 1 black 7 red 1 black 4
+black 9 red 3 black 3
+black 10 red 1 black 4
+black 2 red 1 black 9 black 2
+black 10 red 1 black 4
+black 9 red 3 black 3

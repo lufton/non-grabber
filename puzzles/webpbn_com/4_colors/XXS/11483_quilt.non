@@ -1,0 +1,32 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Wombat"
+date "Dec 17, 2010"
+description "A white mouse. Or perhaps a rat."
+difficulty 1.25
+height 5
+id 11483
+link "https://webpbn.com/play.cgi?id=11483"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "quilt"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 2 black 2
+blue 1 blue 1
+0
+red 1
+
+columns
+black 2
+black 2 blue 1
+red 1
+black 2 blue 1
+black 2

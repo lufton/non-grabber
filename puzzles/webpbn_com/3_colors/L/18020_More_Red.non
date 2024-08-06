@@ -1,0 +1,76 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Mar 22, 2012"
+description "Cardinal"
+difficulty 2.0
+height 25
+id 18020
+link "https://webpbn.com/play.cgi?id=18020"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "More Red"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+red 3
+red 4
+red 5
+red 6
+black 2 red 5
+red 1 black 2 red 1 black 1 red 3
+red 3 black 3 red 4
+red 1 black 3 red 5
+black 2 red 5
+black 2 red 6
+black 1 red 8
+black 1 red 9
+red 11
+red 12
+red 12 black 1
+red 12 black 1 red 12
+red 13 black 1 red 2 black 1 red 1 black 1 red 1 black 1 red 3
+red 12 black 1 red 9
+red 6 black 2 red 2 black 1
+red 6 black 2
+black 1 red 3
+black 1 black 1
+black 1 black 1
+black 7
+
+columns
+red 1
+red 1
+red 3
+red 1 black 4
+red 2 black 6
+red 7 black 6 red 5
+red 6 black 1 red 12
+red 18
+red 18
+red 15 black 1
+red 13 black 1
+red 11 black 4
+red 10 black 1
+red 11 black 1
+red 7 black 1 red 2 black 3
+red 6 black 1 red 2 black 1
+red 6 black 1
+black 2 red 3 black 1
+red 1 black 3
+red 3
+red 3
+red 1 black 1 red 1
+red 3
+red 1 black 1 red 1
+red 3
+red 1 black 1 red 1
+red 3
+red 3
+red 2
+red 1

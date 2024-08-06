@@ -1,0 +1,68 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/20/07"
+height 19
+id 48435
+link "https://www.griddlers.net/nonogram/-/g/48435"
+medium_time "0:07:33"
+points 2171
+popularity 73.56
+title "It's a Boy"
+width 24
+
+color a 000000
+color b ffffff
+color c e7e7ef
+color d bdbdde
+color e ecc531
+color f 5a73c6
+color g 849cff
+color h b5c6ff
+
+rows
+0
+b 2 c 1
+b 3 c 1 d 1
+e 5 b 1 b 1 c 1 d 1
+e 8 b 1 c 2 d 1
+e 2 c 1 d 1
+f 2 c 1
+g 1 f 1 c 1
+g 2 f 1 c 2 b 5 c 2
+h 1 g 2 f 1 d 1 c 2 b 4 c 1 c 2 d 1
+h 2 g 2 f 1 d 1 c 2 b 2 c 1 d 1 d 3
+h 3 g 1 f 1 d 3 b 1 c 2 d 1 d 2
+h 3 g 2 f 1 d 2 b 1 c 2 d 2
+h 4 g 2 f 1 c 2 d 3
+g 1 h 2 g 3 f 1 d 3 d 1
+g 6 f 1 d 1 d 1
+f 1 g 4 f 2 d 1
+f 5
+0
+
+columns
+0
+e 1 h 1 g 2 f 1
+e 1 h 5 g 2 f 1
+e 2 g 1 h 6 g 2 f 1
+e 2 f 1 g 4 h 3 g 3 f 1
+e 2 f 3 g 8 f 1
+e 2 f 3 g 4 f 2
+e 3 f 5
+b 2 e 2
+b 2 b 1
+b 3 c 5 d 1
+c 4 d 1 c 2 d 2
+d 3 c 2 d 2
+b 2 c 1 d 2
+b 2
+b 5 c 1 d 3
+b 3 c 3 d 1
+b 1 c 4 d 3
+c 1 d 4
+c 2 d 3
+c 1 d 2
+d 3
+d 1
+0

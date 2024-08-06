@@ -1,0 +1,62 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Jan 13, 2012"
+description "His eyes hurt from concentrating on the tiny pixels, and intricate one at a time placements"
+difficulty 1.25
+height 20
+id 17134
+link "https://webpbn.com/play.cgi?id=17134"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My operating system after solving Kristen's WCP puzzle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 green 1
+green 1 green 1
+green 1 green 1
+green 2 green 6 green 2
+green 1 green 8 green 1
+green 10
+green 12
+green 2 black 3 green 4 black 3 green 2
+green 2 black 1 red 1 red 1 black 1 green 2 black 1 red 1 red 1 black 1 green 1
+green 2 black 1 red 1 black 1 green 2 black 1 red 1 black 1 green 1
+green 2 black 1 red 1 red 1 black 1 green 2 black 1 red 1 red 1 black 1 green 2
+green 4 black 3 green 4 black 3 green 5
+green 20
+green 20
+green 20
+green 20
+green 20
+0
+green 20
+green 20
+
+columns
+green 5 green 2
+green 6 green 2
+green 9 green 2
+green 4 green 10 green 2
+green 2 green 2 black 3 green 6 green 2
+green 2 black 1 red 1 red 1 black 1 green 5 green 2
+green 3 black 1 red 1 black 1 green 5 green 2
+green 4 black 1 red 1 red 1 black 1 green 5 green 2
+green 5 black 3 green 6 green 2
+green 14 green 2
+green 14 green 2
+green 5 black 3 green 6 green 2
+green 4 black 1 red 1 red 1 black 1 green 5 green 2
+green 3 black 1 red 1 black 1 green 5 green 2
+green 2 black 1 red 1 red 1 black 1 green 5 green 2
+green 2 green 2 black 3 green 6 green 2
+green 4 green 10 green 2
+green 7 green 2
+green 6 green 2
+green 6 green 2

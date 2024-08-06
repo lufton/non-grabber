@@ -1,0 +1,46 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Mar 11, 2013"
+description "tell him it's a firetruck, in case he can't tell....:)"
+difficulty 1.5
+height 10
+id 21327
+link "https://webpbn.com/play.cgi?id=21327"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "for laurpol's boy...."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 11
+black 3 black 1 black 1 black 1 black 4
+red 9 black 2
+black 1 red 1 black 2 red 1 black 2 red 7
+black 2 red 1 black 2 red 1 black 2 red 7
+red 11 red 1
+red 4 black 1 red 5 red 3
+black 1 black 1 red 1 black 1 red 2
+black 3 red 6 black 5 red 1
+black 1 black 1 black 1
+
+columns
+black 1 black 1 red 2 black 1
+black 2 red 1 black 2 red 2 black 3
+black 2 red 5 black 1
+black 1 red 1 black 2 red 2 red 1
+black 2 red 1 black 2 red 1 black 1 red 1
+black 1 red 5 red 1
+black 2 red 1 black 2 red 2 red 1
+black 1 red 1 black 2 red 2 red 1
+black 2 red 5 red 1
+black 1 red 5 black 1
+black 2 red 3 black 3
+black 2 red 2 red 1 black 1
+black 2 red 2 red 1 black 3
+black 2 red 2 red 2 black 1
+red 6

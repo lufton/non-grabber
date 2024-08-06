@@ -1,0 +1,31 @@
+by "(SebTvHd)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by"
+date "Feb  4, 2018"
+description "wINKInG SkUll"
+difficulty 1.0
+height 5
+id 30838
+link "https://webpbn.com/play.cgi?id=30838"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "w_ _ _ _ n _ _ k _ l l"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 1 red 1 black 3
+black 1 red 1 black 1 red 1 black 1
+black 5
+black 1 black 1
+
+columns
+black 3
+black 1 red 2 black 2
+black 4
+black 2 red 1 black 2
+black 3

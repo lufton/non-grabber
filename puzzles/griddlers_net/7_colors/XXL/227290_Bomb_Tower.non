@@ -1,0 +1,116 @@
+by "goshenmichael"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/19/21"
+height 42
+id 227290
+link "https://www.griddlers.net/nonogram/-/g/227290"
+medium_time "0:30:10"
+points 51397
+popularity 81.08
+title "Bomb Tower"
+width 50
+
+color a ffffff
+color b 000000
+color c 502800
+color d 7d570a
+color e 3d4a61
+color f 5f5e5e
+color g 283847
+
+rows
+c 8
+c 2 f 7 g 1 c 2
+c 1 f 10 g 2 c 1
+c 1 f 12 g 2 c 1
+c 1 f 13 g 3 c 1
+c 1 f 5 b 4 f 6 g 3 c 11
+c 1 f 4 b 6 f 5 g 3 e 11 c 4
+c 1 f 4 b 7 f 5 g 3 e 15 c 2
+c 1 f 3 b 9 f 4 g 3 e 17 c 1
+c 1 f 4 b 9 f 4 g 3 e 18 c 2
+c 1 f 3 b 10 f 4 g 3 e 20 c 1
+c 1 f 2 b 11 f 4 g 3 e 21 c 1
+c 1 f 3 b 11 f 4 g 3 e 22 c 1
+c 1 f 3 b 10 f 4 g 4 e 22 c 1
+c 1 f 3 b 10 f 4 g 4 e 23 c 1
+c 1 f 3 b 9 f 4 g 4 e 24 c 1
+c 1 f 3 b 9 f 4 g 4 e 25 c 1
+c 1 f 3 b 8 f 5 g 4 e 18 c 6 e 1 c 1
+c 1 f 3 b 8 f 4 g 4 e 18 c 4 d 5 c 1
+c 1 f 4 b 6 f 5 g 4 e 17 c 4 d 7 c 1
+c 1 f 5 b 3 f 6 g 4 e 17 c 4 d 8 c 1
+c 1 f 13 g 4 e 17 c 4 d 4 b 1 d 5 c 1
+c 1 f 11 g 4 e 18 c 4 d 3 b 1 c 1 d 1 b 3 d 1 b 1
+c 1 f 9 g 5 e 17 c 4 d 3 b 1 c 1 d 2 b 2 d 2 c 1
+c 1 f 8 g 5 e 18 c 4 d 2 b 2 c 1 d 2 b 2 d 2 c 1
+c 1 f 4 g 7 e 18 c 4 d 3 c 4 d 2 b 1 d 2 c 1
+c 2 g 3 c 2 g 3 e 19 c 4 d 2 c 4 d 4 b 1 d 1 c 1
+c 5 d 2 c 4 e 16 c 4 d 2 c 3 d 5 b 1 d 1 c 1
+c 3 d 3 c 3 d 1 e 15 c 3 d 2 c 4 d 5 b 1 d 1 c 1
+c 2 d 3 b 2 c 2 d 1 e 14 c 3 d 2 c 3 d 5 b 1 d 2 c 1
+c 2 d 3 b 1 c 3 b 2 e 12 c 4 d 2 c 3 d 5 b 1 d 2 c 1
+c 2 d 3 c 2 b 3 d 1 e 11 c 4 d 2 c 3 d 5 b 1 d 1 c 1
+c 2 d 4 c 1 b 1 d 4 c 2 e 8 c 4 d 2 c 3 d 4 b 1 d 2 c 1
+c 2 d 8 c 1 c 3 e 5 c 4 d 2 b 2 c 2 d 3 b 1 d 2 c 1
+c 2 d 6 c 1 c 9 d 2 b 2 c 1 d 3 b 2 d 1 c 1
+c 7 c 4 d 2 b 1 c 1 d 2 b 3 d 2 c 1
+c 4 d 3 c 1 d 2 b 2 d 2 c 1
+c 3 d 5 b 2 d 3 c 1
+c 4 d 8 c 1
+c 3 d 7 c 1
+c 2 d 5 c 1
+c 5
+
+columns
+c 10
+c 3 f 10 c 1
+c 2 f 14 c 2
+c 2 f 18 c 1
+c 1 f 6 b 8 f 7 c 1
+c 1 f 6 b 10 f 6 c 1
+c 1 f 5 b 13 f 5 g 1 c 1
+c 1 f 5 b 14 f 5 g 1 c 1
+c 1 f 4 b 15 f 4 g 2 c 2
+c 1 f 4 b 15 f 5 g 1 c 5
+c 1 f 4 b 15 f 5 g 1 c 7
+c 1 f 4 b 14 f 5 g 3 d 4 c 3
+c 1 f 4 b 12 f 6 g 4 d 6 c 2
+c 1 f 5 b 9 f 7 g 5 c 1 d 6 c 2
+c 1 f 7 b 5 f 8 g 5 e 1 c 2 b 2 d 4 c 1
+c 1 f 19 g 5 e 2 c 2 b 1 c 2 d 3 c 1
+c 1 g 1 f 16 g 6 e 3 c 6 d 2 c 1
+c 1 g 1 f 12 g 7 e 6 d 1 c 2 b 2 d 2 c 1
+c 1 g 3 f 8 g 8 e 8 d 1 b 2 d 3 c 1
+c 1 g 17 e 10 b 2 d 3 c 1
+c 1 g 14 e 13 d 3 c 1
+c 1 g 10 e 17 d 1 c 1
+c 1 e 26 c 1
+c 1 e 26 c 1
+c 1 e 27 c 1
+c 1 e 27 c 1
+c 1 e 27 c 1
+c 1 e 28 c 1
+c 1 e 28 c 1
+c 1 e 28 c 1
+c 1 e 28 c 1
+c 1 e 28 c 1
+c 1 e 24 c 7
+c 1 e 18 c 14
+c 1 e 16 c 17
+c 1 e 14 c 19
+c 1 e 13 c 8 d 10 c 3
+c 1 e 11 c 6 d 15 c 1
+c 1 e 10 c 5 d 5 c 5 b 3 d 5 c 1
+c 1 e 8 c 4 d 5 c 7 b 2 c 2 d 4 c 1
+c 1 e 7 c 3 d 4 b 1 c 10 d 6 c 1
+c 1 e 7 c 2 d 4 b 2 c 4 d 4 c 1 d 3 b 1 d 3 c 1
+c 1 e 6 c 1 d 4 b 1 c 4 d 8 b 3 d 3 c 1
+c 1 e 5 c 1 d 3 b 1 c 1 d 2 c 1 d 9 b 2 d 3 c 1
+c 2 e 3 c 1 d 16 b 2 d 3 c 1
+c 2 e 2 d 4 b 3 d 7 b 3 d 3 c 1
+c 2 d 4 b 4 d 3 b 3 d 4 c 2
+c 1 d 3 b 1 d 3 b 3 d 5 c 2
+c 2 d 10 c 3
+c 1 b 1 c 8

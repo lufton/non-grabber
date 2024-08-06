@@ -1,0 +1,63 @@
+by "Emiliano (sevuse)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Emiliano"
+date "Aug 30, 2009"
+description "my carpet's stamp"
+difficulty 3.0
+height 20
+id 6606
+link "https://webpbn.com/play.cgi?id=6606"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.25
+title "Nothing to say"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 red 2 red 2 red 2 green 2
+green 1 green 2 red 1 red 6 red 1 green 2 green 1
+green 2 green 2 red 1 red 1 green 2 green 2
+green 2 green 2 red 1 red 1 green 2 green 2
+green 2 green 2 black 4 green 2 green 2
+red 1 green 3 black 2 black 2 green 3 red 1
+red 1 green 1 black 2 blue 2 black 2 green 1 red 1
+red 2 red 1 black 2 blue 4 black 2 red 1 red 2
+red 2 black 2 blue 2 blue 2 black 2 red 2
+red 2 black 1 blue 2 blue 2 blue 2 black 1 red 2
+red 2 black 1 blue 2 blue 2 blue 2 black 1 red 2
+red 2 black 2 blue 2 blue 2 black 2 red 2
+red 2 red 1 black 2 blue 4 black 2 red 1 red 2
+red 1 green 1 black 2 blue 2 black 2 green 1 red 1
+red 1 green 3 black 2 black 2 green 3 red 1
+green 2 green 2 black 4 green 2 green 2
+green 2 green 2 red 1 red 1 green 2 green 2
+green 2 green 2 red 1 red 1 green 2 green 2
+green 1 green 2 red 1 red 6 red 1 green 2 green 1
+green 2 red 2 red 2 red 2 green 2
+
+columns
+green 2 red 2 red 2 red 2 green 2
+green 1 green 2 red 1 red 6 red 1 green 2 green 1
+green 2 green 2 red 1 red 1 green 2 green 2
+green 2 green 2 red 1 red 1 green 2 green 2
+green 2 green 2 black 4 green 2 green 2
+red 1 green 3 black 2 black 2 green 3 red 1
+red 1 green 1 black 2 blue 2 black 2 green 1 red 1
+red 2 red 1 black 2 blue 4 black 2 red 1 red 2
+red 2 black 2 blue 2 blue 2 black 2 red 2
+red 2 black 1 blue 2 blue 2 blue 2 black 1 red 2
+red 2 black 1 blue 2 blue 2 blue 2 black 1 red 2
+red 2 black 2 blue 2 blue 2 black 2 red 2
+red 2 red 1 black 2 blue 4 black 2 red 1 red 2
+red 1 green 1 black 2 blue 2 black 2 green 1 red 1
+red 1 green 3 black 2 black 2 green 3 red 1
+green 2 green 2 black 4 green 2 green 2
+green 2 green 2 red 1 red 1 green 2 green 2
+green 2 green 2 red 1 red 1 green 2 green 2
+green 1 green 2 red 1 red 6 red 1 green 2 green 1
+green 2 red 2 red 2 red 2 green 2

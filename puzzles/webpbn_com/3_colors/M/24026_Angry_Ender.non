@@ -1,0 +1,66 @@
+by "loren (ghth13)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by loren"
+date "Mar 16, 2014"
+description "Run. To the water. Now. endermen belong to Minecraft and Mojang."
+difficulty 1.5
+height 25
+id 24026
+link "https://webpbn.com/play.cgi?id=24026"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Angry Ender"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 7
+black 7
+black 7
+red 3 black 1 red 3
+red 3 black 1 red 3
+black 7
+black 7
+black 9
+black 13
+black 15
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 9 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2
+
+columns
+0
+0
+black 15
+black 16
+black 2
+black 12
+black 3 red 2 black 20
+black 3 red 2 black 20
+black 3 red 2 black 14
+black 19
+black 3 red 2 black 14
+black 3 red 2 black 20
+black 3 red 2 black 20
+black 12
+black 2
+black 16
+black 15
+0
+0
+0

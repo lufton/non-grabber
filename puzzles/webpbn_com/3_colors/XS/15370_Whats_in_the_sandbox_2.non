@@ -1,0 +1,37 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jul 30, 2011"
+description "Sand bucket. It might be one of those sand castle buckets, where you fill it with sand, dump it out and, voila! there's a castle. It's your call."
+difficulty 1.25
+height 8
+id 15370
+link "https://webpbn.com/play.cgi?id=15370"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "What's in the sandbox #2?"
+width 8
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 4
+blue 2 blue 2
+blue 1 blue 1
+black 6
+black 4
+black 4
+black 4
+black 2
+
+columns
+0
+blue 2 black 1
+blue 2 black 4
+blue 1 black 5
+blue 1 black 5
+blue 2 black 4
+blue 2 black 1
+0

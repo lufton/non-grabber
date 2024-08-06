@@ -1,0 +1,37 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 19, 2011"
+description "Trained Seal (or is it a Sea Lion?)"
+difficulty 1.0
+height 7
+id 12867
+link "https://webpbn.com/play.cgi?id=12867"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Small Animal 14"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 blue 1
+blue 1 red 1
+black 1
+black 2
+black 3
+black 2 black 4
+black 4 black 2
+
+columns
+black 1
+black 2
+black 1
+black 2
+black 3
+black 3
+red 1 blue 1 black 5
+blue 1 red 1 black 1

@@ -1,0 +1,76 @@
+by "Phil Cudlob (redskinsfan21)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Phil Cudlob"
+date "Jan 13, 2008"
+description "i tried so hard to think of a reasonable title with a pun on the word "spare" the blob in the back is/are actually pins"
+difficulty 3.0
+height 25
+id 2162
+link "https://webpbn.com/play.cgi?id=2162"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "a puzzle for your spare time"
+width 29
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 black 3
+black 3 black 1 black 1 black 3
+black 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3
+black 3 red 1 black 1 black 1 black 1 black 1 red 1 black 1 black 1 black 1 black 1 red 1 black 3
+black 3 black 1 black 1 red 1 black 1 black 1 black 1 black 1 black 1 red 1 black 1 black 1 black 3
+black 3 black 1 black 2 black 1 red 1 black 1 black 1 red 1 black 1 black 2 black 1 black 3
+black 3 black 1 black 2 black 2 black 1 red 1 black 1 black 2 black 2 black 1 black 3
+black 3 black 4 black 2 black 2 black 2 black 2 black 4 black 3
+black 3 black 4 black 2 black 2 black 4 black 3
+black 3 black 4 black 4 black 3
+black 3 black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 red 1 black 3
+black 3 red 3 blue 3 black 3
+black 3 red 1 red 1 red 1 blue 2 blue 2 black 3
+black 3 red 1 red 1 blue 1 blue 3 black 3
+black 3 red 3 red 2 blue 3 blue 1 black 3
+black 3 red 1 red 1 red 1 red 1 blue 3 black 3
+black 3 red 1 red 1 black 3
+black 3 red 3 red 3 black 3
+
+columns
+black 25
+black 25
+black 25
+0
+black 1 black 4
+black 1 red 1 black 1 red 1
+black 1 black 4 red 2
+black 1 black 4 red 1
+black 1 red 1 black 1
+black 1 black 4 red 2
+black 1 black 4 red 3
+black 1 red 1 black 1 red 2
+black 1 black 4
+black 1 black 1 black 4 red 2
+black 1 red 1 black 1 red 1 black 1 red 2
+black 1 black 1 black 4 red 2
+black 1 black 4
+black 1 red 1 black 1 red 2
+black 1 black 4 red 2
+black 1 black 4 blue 3 red 1
+black 1 red 1 black 1 blue 2 blue 2
+black 1 black 4 blue 1 blue 3 red 1
+black 1 black 4 blue 3 blue 1 red 2
+black 1 red 1 black 1 blue 3 red 1
+black 1 black 4
+0
+black 25
+black 25
+black 25

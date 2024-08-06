@@ -1,0 +1,62 @@
+by "amanda_jamma (amanda_jamma)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by amanda_jamma"
+date "Sep  4, 2011"
+description "Margaritas!"
+difficulty 1.5
+height 25
+id 15744
+link "https://webpbn.com/play.cgi?id=15744"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #91:Frozen or on the rocks?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1
+black 2
+black 1
+black 2
+black 1
+black 2
+green 1 green 1 green 1 green 1 green 1 black 1 green 1 green 1
+black 15
+black 1 black 2 black 1
+black 1 red 4 green 3 red 2 green 3 red 1 black 1
+black 1 green 3 red 1 green 4 red 3 green 2 black 1
+black 1 red 1 green 1 red 4 green 3 red 2 black 1
+black 1 red 2 green 3 red 3 green 3 black 1
+black 2 red 2 green 3 red 2 black 2
+black 2 red 2 green 1 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 9
+
+columns
+green 1 black 4
+black 1 red 1 green 1 black 2
+green 1 black 1 red 1 green 1 red 2 black 1
+black 1 red 1 green 2 red 1 black 1 black 1
+green 1 black 1 red 3 green 1 red 1 black 1 black 2
+black 1 green 2 red 1 green 1 red 1 black 1 black 1 black 1
+green 1 black 1 green 2 red 1 green 2 red 1 black 7 black 1
+black 1 green 2 red 2 green 1 red 1 black 1
+green 1 black 1 red 1 green 2 red 1 green 2 black 7 black 1
+black 2 red 2 green 1 red 2 black 1 black 1 black 1
+black 4 green 1 red 1 green 2 red 1 black 1 black 2
+black 3 black 1 green 1 red 2 green 1 black 1 black 1
+black 3 green 1 black 1 green 2 red 1 green 1 black 1
+black 2 black 1 red 1 green 1 black 2
+green 1 black 4

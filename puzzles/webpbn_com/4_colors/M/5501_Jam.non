@@ -1,0 +1,62 @@
+by "Sam Lin (sirsammy27)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Sam Lin"
+date "Apr  4, 2009"
+description "Strawberries don't taste half as good by the time they get to Chicago."
+difficulty 1.75
+height 20
+id 5501
+link "https://webpbn.com/play.cgi?id=5501"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Jam"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1
+green 2 green 2 green 3
+green 9
+green 7
+red 4 green 8
+red 8 green 1 green 2
+red 2 black 1 red 8 green 2
+red 8 black 1 red 4 green 1
+red 5 black 1 red 8
+red 2 black 1 red 9 black 1 red 1
+red 9 black 1 red 4
+red 6 black 1 red 7
+red 1 black 1 red 8 black 1 red 3
+red 5 black 1 red 7
+red 12
+red 2 black 1 red 3 black 1 red 4
+red 9
+red 8
+red 2 black 1 red 3
+red 3
+
+columns
+0
+0
+0
+red 9
+red 7 black 1 red 6
+green 1 red 5 black 1 red 5 black 1 red 4
+green 2 red 2 black 1 red 11 black 1 red 1
+green 2 red 16
+green 1 red 4 black 1 red 4 black 1 red 5
+green 3 red 6 black 1 red 3 black 1 red 3
+green 4 red 13
+green 5 red 2 black 1 red 10
+green 4 red 4 black 1 red 6
+green 4 red 6 black 1 red 3
+green 1 green 2 red 9
+green 1 green 3 red 2 black 1 red 4
+green 3 red 5
+green 2
+0
+0

@@ -1,0 +1,30 @@
+by "Ellen Ritchie (emritchie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Ellen Ritchie"
+date "Nov 24, 2009"
+description "what do you see?"
+difficulty 1.0
+height 2
+id 7195
+link "https://webpbn.com/play.cgi?id=7195"
+note "published,definitely unique,definitely trivial"
+quality 1.0
+title "what do you see?"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 4
+green 1 red 3 green 1
+
+columns
+blue 1 green 1
+black 1 red 1
+black 1 red 1
+black 1 red 1
+black 1 green 1

@@ -1,0 +1,47 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Mar 24, 2004"
+description "I entered this while testing the first version of web paint-by-number in 2002."
+difficulty 1.5
+height 15
+id 3
+link "https://webpbn.com/play.cgi?id=3"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "First Puzzle Ever Entered Here"
+width 15
+
+rows
+5
+9
+11
+3,1,3
+2,3,3,2
+4,1,1,4
+6,8
+6,8
+5,9
+5,6
+2,7,2
+3,3
+11
+9
+5
+
+columns
+5
+9
+11
+3,5,3
+2,1,5,2
+3,1,2,1,3
+3,2,1,1,3
+4,3,1,3
+3,5,1,3
+3,1,5,3
+2,1,5,2
+3,5,3
+11
+9
+5

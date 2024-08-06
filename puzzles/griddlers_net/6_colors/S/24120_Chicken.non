@@ -1,0 +1,53 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/15/05"
+height 15
+id 24120
+link "https://www.griddlers.net/nonogram/-/g/24120"
+medium_time "0:06:18"
+points 814
+popularity 67.65
+title "Chicken"
+width 15
+
+color a ffffff
+color b ff0000
+color c fffe00
+color d 0000ff
+color e 00fe00
+color h 000000
+
+rows
+b 3
+b 4
+b 1 c 2 b 2 e 3
+b 2 c 1 h 1 c 2 e 5
+b 1 c 4 e 2 b 2 e 1
+b 1 c 3 e 1 b 4 e 1
+c 3 c 1 b 1 d 2 b 2 e 1
+c 6 d 4 b 1
+b 1 c 6 d 1 d 1 b 1
+b 1 c 5 d 1
+b 4 c 4 d 1
+b 1 b 1
+b 1
+b 1
+b 4
+
+columns
+b 4
+b 1 b 1
+b 3 b 1
+b 2 c 6 b 1 b 1
+b 2 c 1 h 1 c 7 b 1
+b 2 c 9 b 4
+b 3 c 2 c 4 b 1
+b 1 c 4
+e 2 c 4
+e 2 b 2 d 2
+e 2 b 2 d 2
+e 2 b 2 d 2
+e 2 b 2 d 2
+e 2 b 2 d 2
+e 2 b 1

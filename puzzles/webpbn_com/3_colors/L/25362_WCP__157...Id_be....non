@@ -1,0 +1,77 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.0
+height 20
+id 25362
+link "https://webpbn.com/play.cgi?id=25362"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "WCP # 157...I'd be..."
+width 36
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 8
+black 10
+black 12
+black 14
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 5 black 4 black 5
+black 5 black 4 black 5 black 2
+black 4 black 4 black 5 black 1 red 1 black 2
+black 3 black 4 black 6 red 1 black 1 red 1
+red 1 black 3 black 4 black 5 red 1 red 2
+red 6 black 4 black 4 red 3
+red 2 black 3 black 4 black 2 red 2
+red 3 black 2 black 4 red 2
+red 2 black 6 red 1 red 2
+black 5 red 1 black 2
+red 8
+
+columns
+red 1
+black 2 red 1
+black 4 red 2
+black 6 red 3
+black 7 red 1 red 1
+black 5 black 1 red 1 black 1 red 2
+black 5 red 1 black 2 red 1
+black 5 black 2
+black 5
+black 5
+black 5
+black 5
+black 4
+black 19 red 1
+black 19 red 1
+black 19 red 1
+black 19 red 1
+black 4 black 2 red 1
+black 5 black 1 red 2
+black 5 red 1 black 1 red 1
+black 5 black 1 red 1
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 4 red 1
+black 4 red 2
+red 6
+black 3 red 2
+black 2 red 2
+red 2

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "I feel like knocking on Evan's door."
+difficulty 1.5
+height 20
+id 26857
+link "https://webpbn.com/play.cgi?id=26857"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Mondegreen #34"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 18
+black 18
+black 2 black 14
+black 2 black 15
+black 2 black 1 black 1 black 1 black 1 black 2
+black 2 black 2 black 1 black 1 black 1 black 1 black 1 black 2
+black 2 black 2 black 3 black 1 black 1 black 2
+black 18
+black 18
+black 3 black 13
+black 2 black 12
+black 1 red 1 black 12
+red 3 black 12
+red 5 black 14
+red 4 black 15
+red 3 black 16
+red 2 black 17
+red 1 black 14 red 2 black 2
+black 14 red 2 black 2
+
+columns
+red 5
+black 12 red 5 black 2
+black 11 red 5 black 3
+black 2 black 3 red 3 black 4
+black 2 black 1 black 1 black 2 red 1 black 5
+black 9 black 6
+black 4 black 4 black 6
+black 6 black 12
+black 4 black 13
+black 19
+black 4 black 13
+black 4 black 1 black 12
+black 4 black 12
+black 19
+black 4 black 12
+black 4 black 12 red 2
+black 4 black 10 red 2
+black 19
+black 19
+0

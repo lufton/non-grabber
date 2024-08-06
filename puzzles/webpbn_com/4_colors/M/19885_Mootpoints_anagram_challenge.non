@@ -1,0 +1,62 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kristen Vognild"
+date "Sep 24, 2012"
+description "The "Baby Permit Nun" checks to see that all adoptive parents have the proper permits. (see puzzle #19883 for challenge rules)"
+difficulty 2.0
+height 20
+id 19885
+link "https://webpbn.com/play.cgi?id=19885"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Mootpoint's anagram challenge"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 3 black 3
+black 2 black 2
+black 1 blue 1 blue 1 black 2
+black 1 black 2
+black 1 red 1 black 2
+black 2 black 3
+black 9
+black 3 black 3
+red 2 black 3 black 2
+red 4 black 2 red 1 black 4
+red 3 black 3 red 1 black 5
+black 1 red 3 black 1 red 1 black 6
+black 2 red 2 black 1 black 5
+black 2 red 2 black 1 black 5
+black 2 black 2 red 2 black 8
+black 2 black 2 black 8
+black 1 black 3 black 7
+black 2 black 1 black 3 black 7
+black 4 black 2 black 2 black 7
+
+columns
+black 5
+black 2 black 2
+black 1
+black 2
+0
+black 2
+black 2 black 1
+red 1 black 3
+red 3 black 2 black 2
+red 4 black 2 black 3
+black 1 red 4 black 1 red 1 black 1
+black 11 red 4
+black 3 black 8 red 1 black 5
+black 2 blue 1 black 2 black 1 red 1 black 6
+black 1 red 1 black 1 red 1 black 1 black 5
+black 2 blue 1 black 1 red 1 black 9
+black 3 black 2 black 10
+black 8 black 10
+black 17
+black 10

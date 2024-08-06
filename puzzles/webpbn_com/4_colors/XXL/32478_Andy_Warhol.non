@@ -1,0 +1,122 @@
+by "Alex Robinson (alerob00)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Alex Robinson"
+date "Jun  1, 2019"
+description ""
+difficulty 2.75
+height 50
+id 32478
+link "https://webpbn.com/play.cgi?id=32478"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "Andy Warhol"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 10 black 15 blue 10
+blue 1 black 2 black 4 blue 1
+blue 1 black 1 black 9 black 4 blue 1
+blue 1 black 1 black 2 black 6 black 5 blue 1
+blue 1 black 2 black 1 black 4 black 4 black 1 blue 1
+blue 1 black 1 black 1 black 2 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 2 black 5 black 2 black 3 blue 1
+blue 1 black 2 black 3 black 3 black 2 red 1 black 1 blue 1
+blue 1 black 4 black 8 black 3 black 2 red 2 black 1 blue 1
+blue 1 black 1 red 2 black 4 black 3 black 3 red 3 black 1 blue 1
+blue 1 black 1 red 6 black 3 black 2 red 6 black 1 blue 1
+blue 1 black 1 red 2 red 4 black 12 red 7 black 1 blue 1
+blue 1 black 1 red 1 red 10 red 9 red 3 black 1 blue 1
+blue 1 black 1 red 1 red 11 red 5 red 1 red 2 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 2 red 2 red 1 red 1 red 2 red 2 black 1 blue 1
+blue 1 black 1 red 1 red 1 red 1 red 1 red 2 red 1 red 2 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 2 red 1 red 1 red 1 red 1 red 1 red 3 red 1 black 1 blue 1
+blue 1 black 1 red 2 red 3 red 1 red 1 red 1 red 1 black 1 blue 1
+blue 1 black 1 red 10 red 6 red 4 red 1 red 2 black 1 blue 1
+blue 1 black 1 red 10 red 16 black 1 blue 1
+blue 1 black 1 red 10 red 16 black 1 blue 1
+blue 1 black 1 red 27 black 1 blue 1
+blue 1 black 1 red 12 black 4 red 11 black 1 blue 1
+blue 1 black 1 red 11 black 6 red 10 black 1 blue 1
+blue 1 black 1 red 10 black 8 red 9 black 1 blue 1
+blue 1 black 1 black 8 black 1 blue 1
+blue 1 black 1 black 8 black 1 blue 1
+blue 1 black 1 black 6 black 1 blue 1
+blue 1 black 1 black 4 black 1 blue 1
+blue 1 black 1 red 3 red 3 red 5 red 3 red 3 red 3 black 1 blue 1
+blue 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 1 red 1 red 1 red 1 red 1 red 3 red 1 red 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 3 red 1 red 1 red 1 red 1 red 1 red 3 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 3 black 3 black 1 black 1 black 4 black 1 blue 1
+blue 1 black 1 black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 2 black 1 black 1 black 1 black 1 black 1 black 2 black 1 blue 1
+blue 1 black 1 black 2 black 1 black 1 black 1 black 1 black 3 black 1 blue 1
+blue 1 black 1 red 2 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 red 3 black 3 black 3 black 2 black 1 red 2 black 1 blue 1
+blue 1 black 3 red 2 red 3 black 1 blue 1
+blue 1 black 2 red 3 red 2 black 3 blue 1
+blue 1 black 3 red 3 red 4 black 2 blue 1
+blue 1 black 3 red 4 red 2 black 3 blue 1
+blue 1 black 3 red 7 black 4 blue 1
+blue 1 black 4 black 3 blue 1
+blue 1 black 9 blue 1
+blue 1 blue 1
+blue 50
+
+columns
+blue 50
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+black 38 blue 1
+black 3 black 2 red 16 red 1 black 1 blue 1
+black 1 black 1 red 3 red 8 red 1 red 2 black 3 blue 1
+black 2 black 2 red 1 red 4 red 7 red 4 red 1 black 2 blue 1
+black 1 black 1 red 1 red 3 red 1 red 7 red 1 red 2 black 2 blue 1
+black 1 black 4 black 1 red 4 red 8 black 1 black 1 red 2 black 1 blue 1
+black 1 black 2 black 2 black 1 red 4 red 1 red 8 red 4 black 3 black 1 red 1 black 2 blue 1
+black 1 black 1 black 1 black 1 red 3 red 8 red 1 red 1 black 1 black 2 black 1 red 2 black 1 blue 1
+black 1 black 1 black 2 black 1 red 3 red 7 red 4 black 1 black 3 red 1 black 2 blue 1
+black 1 black 1 black 1 black 1 black 2 red 2 red 9 red 2 black 1 blue 1
+black 1 black 1 black 3 black 1 black 1 red 2 red 7 red 4 black 4 red 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 2 red 3 black 3 red 1 black 2 black 1 red 1 black 2 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 2 red 2 red 5 black 5 red 3 black 1 black 1 red 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 2 red 4 black 7 red 1 black 1 black 1 red 1 black 1 blue 1
+black 1 black 2 black 2 black 1 black 1 red 4 black 7 red 4 black 3 red 1 black 1 blue 1
+black 1 black 1 black 2 black 1 red 3 red 1 red 4 black 7 red 1 black 1 blue 1
+black 1 black 1 black 1 black 1 red 3 red 4 black 7 red 4 black 5 red 1 black 1 blue 1
+black 1 black 1 black 2 black 1 red 2 red 5 black 5 red 1 red 1 black 1 red 1 black 1 blue 1
+black 1 black 1 black 1 black 1 red 2 red 1 red 1 red 5 black 3 red 4 black 1 red 1 black 1 blue 1
+black 1 black 2 black 2 black 1 red 5 red 7 black 5 red 2 black 1 blue 1
+black 1 black 1 black 1 black 2 red 1 red 7 red 1 red 2 black 1 blue 1
+black 2 black 1 black 2 black 1 red 6 red 7 red 4 black 6 red 1 black 2 blue 1
+black 1 black 3 black 1 red 3 red 7 red 1 black 1 black 1 red 1 black 2 blue 1
+black 1 black 1 red 7 red 6 black 1 black 2 red 2 black 2 blue 1
+black 2 black 2 red 2 red 12 red 4 black 3 red 2 black 2 blue 1
+black 1 black 2 red 4 red 1 red 6 red 1 red 1 red 1 black 2 blue 1
+black 1 black 2 red 5 red 1 red 7 red 4 red 2 black 2 blue 1
+black 1 black 1 red 18 red 1 black 1 blue 1
+black 40 blue 1
+blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 50

@@ -1,0 +1,37 @@
+by "RB (rb2013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by RB"
+date "Feb  8, 2014"
+description "Practising smile logic :)"
+difficulty 2.5
+height 10
+id 23765
+link "https://webpbn.com/play.cgi?id=23765"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Happy"
+width 10
+
+rows
+1,2,1,1
+1,1,1,1,1
+1,1
+1,1,1,1
+1,1
+1,1,1,1
+1,2,1
+1,1
+1,2,2,1
+1,2,1
+
+columns
+2,2,1
+1,1,2,1
+1,1
+1,1,1,1
+1,1,1
+1,1,1
+1,1,1,1
+1,1
+1,2,1,1
+1,2,2

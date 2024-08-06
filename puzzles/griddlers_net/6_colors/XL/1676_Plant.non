@@ -1,0 +1,87 @@
+by "woa"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/5/02"
+height 32
+id 1676
+link "https://www.griddlers.net/nonogram/-/g/1676"
+medium_time "1:12:45"
+points 51364
+popularity 81.64
+title "Plant"
+width 32
+
+color a ffffff
+color b ff0000
+color c ff9c00
+color d 9c0000
+color e 005200
+color f 008c00
+
+rows
+b 1 c 1 b 2 c 1 b 2 c 1
+b 1 c 1 b 1 b 1 c 1 b 1 d 1 c 2
+b 1 d 1 b 1 d 2 d 1 b 3 b 1 b 1
+b 1 d 1 d 1 d 2 b 3 c 2 b 1 c 1 b 1 b 1 b 1
+b 2 d 1 e 4 b 1 c 1 b 1 c 1 b 1 c 1 d 1 c 1 b 3 d 2 b 1
+b 2 c 1 e 3 e 1 b 1 c 1 b 1 c 1 b 2 d 1 b 1 d 2 b 1 d 1 e 1
+e 1 d 3 b 1 d 2 b 1 d 1 e 2
+c 1 e 1 d 1 b 1 d 1 e 4 c 1 b 1
+b 1 c 1 e 2 d 1 c 1 e 3 c 1 b 1 b 1 c 1 b 1
+c 1 b 1 c 2 e 1 b 1 e 1 c 1 b 1 c 1 b 2 d 1 b 1
+b 1 c 1 b 1 d 2 b 1 c 1 e 1 e 2 c 1 b 1 c 1 b 3 d 2 c 1 b 1
+b 1 d 1 b 1 d 1 b 1 e 1 e 1 e 1 c 1 b 1 d 1 b 1 d 2 d 1 c 2 b 1
+b 1 d 1 b 1 e 1 e 2 e 1 d 2 d 1 b 1 d 2
+b 2 e 2 d 1 b 2 e 1 e 1 e 1 d 1 e 5 b 1 b 2
+b 2 c 1 e 1 b 2 e 3 f 1 e 1 e 4 e 2 b 1
+e 1 e 2 f 1 e 1 e 2 e 1
+e 1 e 1 e 2 f 1 e 3
+e 1 e 2 e 2 f 1 e 2
+e 1 f 1 e 1 e 2 f 1 f 1 e 1 f 1 e 1
+e 1 f 1 e 1 e 2 f 1 f 1 e 1 f 1 e 1
+e 1 e 1 f 1 e 2 f 1 e 2 e 1
+e 1 f 1 e 1 f 1 e 2 f 1 e 1 f 1 e 1 f 1 e 1
+e 1 f 1 e 1 f 1 e 2 f 1 e 1 f 1 e 1 f 1 e 1
+e 1 f 1 e 1 f 1 e 2 f 1 e 1 f 1 e 1 f 1 e 1
+e 2 f 1 e 1 f 2 e 3 f 1 e 1 f 1 e 1 f 1 e 1
+e 1 f 1 e 1 f 2 e 3 f 1 e 1 f 1 e 1 f 1 e 1
+e 1 f 1 e 1 f 1 e 3 f 1 e 1 f 1 e 1 f 1 e 1
+e 1 f 1 e 1 f 1 e 3 f 1 e 1 f 1 e 2
+e 1 f 1 e 5 f 1 e 1 f 1 e 2
+e 5 f 1 e 1 f 2 e 1
+e 8 f 1 e 1
+e 20
+
+columns
+b 1
+b 2 b 2
+c 2 b 1 b 1 c 1
+b 1 d 1 b 1 e 1 b 1 b 1 e 1
+b 1 b 1 d 2 e 1 c 2 b 1 b 2 e 1
+b 2 e 1 b 1 d 1 b 1 c 1 f 1 e 1 e 1
+c 2 d 1 e 1 b 2 e 1 e 4 f 1 e 1 e 1
+b 1 d 2 e 1 b 2 d 1 e 1 f 2 e 3 f 1 e 2 e 1
+b 1 e 1 c 3 d 2 d 1 e 1 f 2 e 3 f 2 e 3
+b 1 d 2 e 1 c 1 b 2 d 1 e 3 f 3 e 6
+c 2 b 1 d 1 b 1 e 1 c 1 b 2 e 7 f 4 e 4
+c 1 b 1 d 1 e 3 b 3 f 4 e 8
+b 2 e 24
+b 1 b 1 d 1 e 15 f 1 e 2
+b 1 c 2 d 1 e 3 f 11 e 3
+b 2 d 2 e 3 e 8 f 1 e 2
+c 1 b 2 d 1 b 1 e 1 f 6 e 1 f 10 e 1
+c 1 b 1 c 1 e 1 e 20
+b 1 d 1 e 1 e 1 e 2 f 3 e 2 e 1
+c 1 b 1 d 3 e 1 c 1 e 2 f 3 e 3 e 1
+c 2 b 2 e 1 c 1 b 1 d 1 e 2 f 1 e 4 e 1
+b 2 d 2 e 1 b 1 d 3 e 1 f 1 e 1 e 1
+c 1 d 2 e 1 c 2 b 1 e 1 e 1 e 1
+c 1 b 2 e 1 b 2 d 2 e 2 e 1
+b 3 e 1 c 2 b 1 d 1 e 1 e 1
+b 1 d 1 e 1 b 3 e 1
+b 1 d 1 e 1 b 1 d 2 b 1 e 1
+d 1 e 1 b 1 d 2 e 1
+b 2 c 2 b 1 c 1 d 1 b 1 e 1
+b 2 c 1 d 1 e 1
+c 1 b 1 b 2 e 1
+b 1 b 1

@@ -1,0 +1,48 @@
+by "Calvario"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/16/05"
+height 11
+id 23224
+link "https://www.griddlers.net/nonogram/-/g/23224"
+medium_time "0:03:19"
+points 204
+popularity 67.81
+title "Elephant"
+width 16
+
+color a ffffff
+color b cccccc
+color c 969696
+color d 000000
+
+rows
+b 4
+b 6
+c 3 b 7
+c 4 b 5 d 1 b 1
+c 5 b 7
+c 6 b 8
+c 1 c 6 b 3 c 1 b 2
+c 1 c 10 b 2
+c 4 c 4 b 2
+c 3 c 3
+c 3 c 3
+
+columns
+c 2
+c 1
+c 7
+c 8
+c 9
+c 7
+c 6
+b 5 c 2
+b 7 c 2
+b 7 c 4
+b 7 c 4
+b 6 c 5
+b 2 d 1 b 2
+b 6
+b 4
+b 1

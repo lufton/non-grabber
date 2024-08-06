@@ -1,0 +1,61 @@
+by "Ellen Ritchie (emritchie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Ellen Ritchie"
+date "Mar 14, 2009"
+description "a nice ballon in the sky."
+difficulty 1.25
+height 20
+id 4926
+link "https://webpbn.com/play.cgi?id=4926"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "runaway ballon."
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 14 blue 2
+blue 13 blue 2
+blue 6 black 4 blue 4 blue 2
+blue 6 black 1 blue 2 black 1 blue 4 blue 2
+blue 6 black 4 blue 4 blue 2
+blue 1 black 1 blue 2 black 2 blue 9
+black 4 blue 1 black 4 blue 5
+blue 9 black 2 blue 3
+blue 10 black 2 blue 2
+blue 11 black 1 blue 2
+blue 2 blue 11 black 2 blue 1
+blue 3 blue 14
+blue 20
+blue 20
+blue 20
+blue 8 blue 8
+blue 4 blue 8
+blue 4 blue 8
+blue 5 blue 8
+blue 5 blue 13
+
+columns
+blue 6 blue 10
+blue 5 blue 10
+blue 5 blue 9
+blue 5 blue 8
+blue 5 blue 4 blue 2
+blue 5 blue 4
+blue 2 black 5 blue 9
+blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 9 blue 1
+blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 8 blue 1
+blue 2 black 5 blue 8 blue 1
+blue 5 black 1 blue 9 blue 1
+blue 6 black 1 blue 8 blue 1
+blue 6 black 1 blue 13
+blue 1 blue 4 black 1 blue 13
+blue 1 black 1 blue 13
+blue 2 black 1 blue 12
+blue 2 black 2 blue 11
+blue 3 black 3 blue 9
+blue 10 black 1 blue 9
+blue 20

@@ -1,0 +1,111 @@
+by "Peter Beswick (peterjb44)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Peter Beswick"
+date "Nov 20, 2018"
+description "commodore logo - i had c64 and amiga, loved em - wish i still had em and my 1541 floppy disk drive :)"
+difficulty 2.25
+height 30
+id 31814
+link "https://webpbn.com/play.cgi?id=31814"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.5
+title "80's classic machine makers"
+width 60
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 7
+blue 9
+blue 10
+blue 11
+blue 6 blue 1
+blue 6 blue 7
+blue 5 blue 6
+blue 4 blue 5
+blue 4 blue 4
+blue 4
+blue 4 black 4
+blue 4 black 5
+blue 5 black 6
+blue 6 black 7
+blue 6 blue 1
+blue 11
+blue 10
+blue 9
+blue 7
+0
+0
+0
+0
+blue 2 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 1 blue 1 blue 2 blue 2 blue 2 blue 2 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 3
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 blue 1 blue 1 blue 2
+
+columns
+0
+blue 4
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+0
+blue 3
+blue 1 blue 1
+blue 3
+0
+blue 5
+blue 1
+blue 1
+blue 1
+blue 5
+0
+blue 5
+blue 9 blue 1
+blue 11 blue 1
+blue 13 blue 1
+blue 15 blue 5
+blue 6 blue 6
+blue 6 blue 6 blue 3
+blue 5 blue 5 blue 1 blue 1
+blue 4 blue 4 blue 3
+blue 4 blue 4
+blue 4 blue 4 blue 2
+blue 4 blue 4 blue 1 blue 1
+blue 4 blue 4 blue 6
+blue 4 blue 4
+blue 4 black 4 blue 3
+blue 4 black 4 blue 1 blue 1
+blue 4 black 4 blue 3
+blue 4 black 4
+blue 3 black 3 blue 5
+blue 2 black 2 blue 1
+blue 1 black 1 blue 1
+0
+blue 3
+blue 1 blue 1 blue 1
+blue 2 blue 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

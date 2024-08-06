@@ -1,0 +1,62 @@
+by "Aiden Ambrey (aidenpaden)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Aiden Ambrey"
+date "Aug 24, 2007"
+description "A worm in the apple ;)"
+difficulty 1.75
+height 20
+id 1227
+link "https://webpbn.com/play.cgi?id=1227"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Hello"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 7 green 5 black 2
+black 2 green 3 black 5 green 1 black 3 black 2
+black 1 green 1 black 4 black 1 black 3 black 2 black 1
+black 3 black 1 black 4
+black 5 black 1 black 4 black 4
+black 2 red 3 black 5 red 2 black 4
+black 2 red 12 black 3
+black 1 red 10 black 2 red 2 black 2
+black 1 red 9 black 2 red 2 black 3
+black 1 red 1 black 3 red 5 black 1 red 1 black 5
+black 1 red 1 black 1 black 1 red 5 black 1 red 1 black 5
+black 1 red 1 black 1 black 2 red 4 black 2 red 1 black 2 red 1 black 1
+black 1 red 1 black 1 black 2 red 4 black 1 red 4 black 1
+black 1 red 1 black 2 black 1 red 4 black 3 red 1 black 2
+black 1 red 2 black 4 red 8 black 2
+black 2 red 13 black 1
+black 2 red 11 black 2
+black 2 red 9 black 2
+black 2 red 7 black 2
+black 9
+
+columns
+black 10
+black 3 black 2 red 8 black 2
+black 2 green 1 black 3 red 3 black 5 red 2 black 2
+black 1 green 1 black 3 red 4 black 1 black 2 red 2 black 2
+black 1 green 1 black 1 black 1 red 4 black 3 black 1 red 3 black 2
+black 1 green 1 black 1 black 1 red 6 black 2 black 1 red 4 black 1
+black 3 black 2 red 6 black 3 red 4 black 1
+black 2 black 1 red 13 black 1
+black 6 red 13 black 1
+green 1 black 1 black 1 red 13 black 1
+green 1 black 2 black 2 red 2 black 4 red 7 black 1
+green 2 black 1 black 1 red 2 black 2 red 2 black 3 red 5 black 1
+green 1 black 2 black 1 red 2 black 1 red 1 black 2 red 2 black 1 red 4 black 2
+green 1 black 1 black 2 red 3 black 3 red 1 black 1 red 3 black 2
+black 2 black 2 red 1 black 4 red 4 black 2
+black 1 black 9 red 2 black 4
+black 14
+black 1 black 2
+black 3
+0

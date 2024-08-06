@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Jan  3, 2012"
+description ""
+difficulty 1.75
+height 20
+id 16994
+link "https://webpbn.com/play.cgi?id=16994"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Hoppy New Year"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 1
+blue 1
+blue 1 red 1 blue 1
+green 1 black 1
+green 7
+green 7
+green 5
+green 4 green 1
+green 3 green 1
+green 3
+green 2 black 1 black 1 black 1 black 1
+green 3 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+green 2 black 1 black 1 black 1 black 1 black 1
+green 2 black 1 black 1 black 1 black 1 black 1
+green 2 black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 3
+blue 2 green 3 blue 15
+blue 1 green 6 blue 13
+blue 1 green 5 blue 14
+
+columns
+blue 3
+green 1 blue 1 green 2
+green 3 green 3
+green 3 green 2 green 1 green 3
+green 6 green 3
+green 7 blue 1 green 2
+green 4 blue 1 green 1 blue 1
+green 3 black 1 black 2 blue 3
+blue 1 green 6 black 1 black 1 black 1 blue 3
+red 1 blue 1 red 1 green 2 black 2 black 1 blue 3
+blue 1 black 1 green 2 blue 3
+green 2 black 4 blue 3
+green 1 black 1 black 1 blue 3
+black 4 blue 3
+blue 3
+black 6 blue 3
+blue 3
+black 1 black 2 blue 3
+black 1 black 1 black 1 blue 3
+black 2 black 1 blue 3

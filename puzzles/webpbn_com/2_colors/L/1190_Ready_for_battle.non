@@ -1,0 +1,72 @@
+by "Arduinna (arduinna)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Arduinna"
+date "Aug 19, 2007"
+description "Sword, shield, and helm!"
+difficulty 2.0
+height 30
+id 1190
+link "https://webpbn.com/play.cgi?id=1190"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Ready for battle"
+width 25
+
+rows
+2
+2
+8
+10
+2,2,2
+2
+2
+21
+11,3
+11,3
+11,3
+11,3
+10,2
+10,2
+10,2
+9,2
+9,2
+1,6,2
+3,9
+5,9
+7,6,2
+7,6,2
+9,5,2
+1,1,1,5,2
+9,4,2
+1,1,1,1,1,4,2
+2,1,1,2,3,2
+1,1,1,1,2,2,2
+2,1,1,2,1,1,2
+7,1,2
+
+columns
+7
+5,3,1,1,2
+8,4,2,1,1
+16,1,1,2
+10,8,1,1
+10,5,1,1,2
+11,4,2,1,1
+11,3,1,1,2
+11,7
+11,1
+11,1
+11,1
+1,11
+1,10
+1,9
+2,1,8
+3,1,6
+2,1,4
+2,1,2
+30
+30
+2,5
+2
+3
+2

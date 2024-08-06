@@ -1,0 +1,91 @@
+by "Agneta (aggge)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Agneta"
+date "Dec  6, 2008"
+description "A forest of future christmas trees. In the front are tracks after a skier. To see it in 3D: look at the two dots at the top and try to cross your eyes so you see three dots (or look at it as if you look at something that is standing further away, like behind the computer screen). Focus on the middle dot and then look down at the trees. This may not work for everyone, but hey, there are still some trees to look at..."
+difficulty 1.25
+height 20
+id 4260
+link "https://webpbn.com/play.cgi?id=4260"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "3D-experiment 2"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1 black 1
+0
+0
+0
+0
+0
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 3 green 3 green 3 green 3 green 3 green 3 green 3 green 3
+green 3 green 3 green 3 green 3 green 3 green 3 green 3 green 3
+green 5 green 5 green 5 green 5 green 5 green 5 green 5 green 5
+green 5 green 5 green 5 green 5 green 5 green 5 green 5 green 5
+green 3 green 3 green 3 green 3 green 3 green 3 green 3 green 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+0
+0
+black 50
+0
+black 50
+0
+
+columns
+green 2 black 1 black 1
+green 5 black 1 black 1
+green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1
+black 1 black 1
+green 2 black 1 black 1
+green 5 black 1 black 1
+green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+green 2 black 1 black 1
+green 5 black 1 black 1
+green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1
+black 1 black 1
+green 2 black 1 black 1
+green 5 black 1 black 1
+black 1 green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+green 2 black 1 black 1
+green 5 black 1 black 1
+black 1 green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1
+black 1 black 1
+green 2 black 1 black 1
+green 5 black 1 black 1
+green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+green 2 black 1 black 1
+green 5 black 1 black 1
+green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1
+black 1 black 1
+green 2 black 1 black 1
+green 5 black 1 black 1
+green 7 black 1 black 1 black 1
+green 5 black 1 black 1
+green 2 black 1 black 1

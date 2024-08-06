@@ -1,0 +1,54 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Aug  9, 2010"
+description "awakening!"
+difficulty 1.5
+height 13
+id 9924
+link "https://webpbn.com/play.cgi?id=9924"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Not WCP N.Y. city..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 7
+red 6 black 1 red 3
+red 4 black 1 red 2 black 1 red 4
+red 5 black 1 red 2 black 1 red 5
+red 5 black 2 red 1 black 3 red 5
+red 3 black 5 red 1 black 5 red 2 black 1 red 1
+red 2 black 7 red 1 black 5 red 1 black 2 red 1
+black 1 red 1 black 5 black 11
+red 1 black 14 black 4
+red 1 black 2 black 8 black 7
+red 1 black 4 black 12 black 1
+red 1 black 19
+
+columns
+red 4
+red 1 black 5
+red 3 black 4
+red 2 black 3 black 2
+red 3 black 6
+red 3 black 5 black 1
+red 4 black 7
+red 4 black 7
+red 4 black 3 black 4
+red 2 black 10
+red 7 black 5
+red 4 black 8
+red 1 black 8 black 2
+red 4 black 8
+red 5 black 7
+red 4 black 3 black 3
+red 5 black 5
+red 3 black 6
+red 1 black 5 black 1
+red 2 black 5

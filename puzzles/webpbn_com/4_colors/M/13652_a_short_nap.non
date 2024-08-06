@@ -1,0 +1,62 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Apr 27, 2011"
+description "sleeping beauty's pillow"
+difficulty 2.0
+height 20
+id 13652
+link "https://webpbn.com/play.cgi?id=13652"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "a short nap"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 3
+green 1 green 2 green 1 green 3
+green 1 green 1 green 1 black 1 green 2
+green 4 green 2 black 1 green 3
+green 1 black 1 blue 6 black 2
+green 1 black 1 blue 14
+black 1 blue 10 blue 2
+green 1 blue 3 blue 1 blue 1 blue 2
+blue 1 blue 2 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 3 blue 2
+blue 2 blue 1 blue 1 blue 3 blue 1 blue 1 blue 2
+blue 2 blue 3 blue 2 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 1 black 2
+blue 2 blue 4 black 2
+blue 1 blue 8 black 2 green 2
+black 2 blue 10 black 2 green 2
+black 2 blue 5 green 3 green 1
+green 1 black 2 green 2 green 2 green 5
+green 5 green 1 green 1 green 2
+
+columns
+green 5 black 1 green 1 black 2 green 1
+green 1 black 2 blue 2 black 2 green 2
+green 1 blue 12 black 1 green 1
+green 3 blue 2 blue 6 blue 2 black 1 green 1
+green 2 blue 2 blue 2 green 1
+green 2 blue 2 blue 5 blue 2 green 1
+green 1 blue 2 blue 1 blue 2 green 2
+blue 2 blue 5 blue 1
+blue 2 blue 2
+blue 2 blue 5 blue 2
+blue 2 blue 1 blue 2 blue 2
+blue 2 blue 2 blue 1 blue 2
+blue 2 blue 1 green 2
+blue 2 blue 5 blue 2 green 2
+green 2 blue 2 blue 1 blue 2 green 1
+green 1 blue 2 blue 5 blue 2 green 2
+green 2 black 2 blue 2 blue 1 black 2 green 2
+green 1 green 1 black 1 blue 9 black 2 green 2
+green 3 black 1 blue 7 black 2 green 2 green 1
+green 2 black 2 green 4

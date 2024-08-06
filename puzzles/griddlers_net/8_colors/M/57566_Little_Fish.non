@@ -1,0 +1,74 @@
+by "myamollytaz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/29/08"
+height 21
+id 57566
+link "https://www.griddlers.net/nonogram/-/g/57566"
+medium_time "0:13:20"
+points 8382
+popularity 75.44
+title "Little Fish"
+width 28
+
+color a 33ff33
+color b 000000
+color c ffffff
+color d ccffff
+color e 000099
+color f 3300ff
+color g 00ffff
+color h 6666ff
+
+rows
+b 5
+b 1 c 5 b 1 f 4 e 1
+b 1 c 7 b 1 g 3 d 1 e 2 f 1
+b 1 c 9 b 1 g 2 d 3 e 1 f 1 f 3
+b 1 c 9 b 1 g 2 d 4 g 1 e 1 f 1 h 2 f 1
+b 1 c 1 b 2 c 6 b 1 g 3 d 2 g 2 d 1 e 1 f 1 h 1 g 1 h 1 f 1
+b 1 c 1 b 2 c 6 b 1 g 1 d 1 g 4 d 3 f 1 h 1 g 2 h 1 f 1
+b 1 c 9 b 1 g 5 d 1 g 1 d 1 g 1 h 1 g 2 h 2 f 1
+e 1 d 1 b 1 c 7 b 1 h 1 d 1 g 2 d 1 g 8 h 1 f 1
+e 1 d 3 b 1 c 5 b 1 h 4 g 3 d 1 g 1 d 1 h 2 g 2 h 1 f 1
+e 1 d 4 b 5 h 8 g 2 h 2 f 1 h 1 g 2 f 1
+e 1 d 13 h 7 f 2 h 1 g 1 f 2
+e 1 d 17 h 3 f 1 f 1 h 1 f 2
+e 2 d 2 c 2 d 12 h 2 e 1 f 3
+e 1 d 3 c 2 d 5 c 3 d 4 e 1 f 2
+d 4 c 8 d 5 e 1 f 1
+e 1 d 4 c 5 d 6 e 1
+e 1 d 13 e 1
+e 1 d 10 e 2
+e 2 d 6 e 2
+e 6
+
+columns
+e 2 e 1
+e 1 d 2 e 1 d 1 e 1
+b 5 d 5 e 2
+b 1 c 5 b 1 d 7 e 1
+b 1 c 3 b 2 c 2 b 1 d 7 e 1
+b 1 c 4 b 2 c 3 b 1 d 2 c 1 d 4 e 1
+b 1 c 9 b 1 d 2 c 2 d 4 e 1
+b 1 c 9 b 1 d 3 c 2 d 3 e 1
+b 1 c 9 b 1 d 4 c 2 d 3 e 1
+b 1 c 9 b 1 d 4 c 2 d 3 e 1
+b 1 c 7 b 1 h 1 d 4 c 2 d 3 e 1
+f 1 b 1 c 5 b 1 h 2 d 4 c 2 d 3 e 1
+f 1 g 1 b 5 h 3 d 4 c 2 d 3 e 1
+f 1 g 6 d 1 h 2 d 3 c 2 d 4 e 1
+f 1 g 4 d 1 g 2 h 2 d 3 c 2 d 3 e 1
+e 1 d 3 g 5 h 2 d 2 c 1 d 4 e 1
+e 1 d 3 g 2 d 1 g 1 h 2 d 6 e 1
+e 1 d 3 g 4 h 2 d 6 e 1
+e 1 d 1 g 2 d 1 g 1 d 1 g 1 h 2 d 4 e 1
+f 1 g 2 d 1 g 4 h 3 d 2 e 1
+e 1 d 3 g 1 d 1 h 4 e 2
+e 1 d 1 g 2 h 3 f 1 e 1
+f 1 h 1 g 1 h 1 f 2
+f 1 h 1 g 3 h 1 f 1
+f 1 h 1 g 5 h 1 f 1
+f 1 h 1 g 2 h 3 g 2 h 1 f 1
+f 1 h 4 f 7
+f 6 f 5

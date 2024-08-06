@@ -1,0 +1,31 @@
+by "koakuma (koakuma)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by koakuma"
+date "Dec 16, 2010"
+description "doing 5x5 puzzles is funny to do. i'm not sure if he will take more than one per person, but i like to do quilts~ PS : that one is a snowman's head, it has more than one solution, but at least he's cute~"
+difficulty 1.25
+height 5
+id 11443
+link "https://webpbn.com/play.cgi?id=11443"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.25
+title "quilts are fun to do weeeeeeee~"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3
+black 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 black 1
+black 3
+
+columns
+black 3
+black 1 blue 1 black 1
+black 1 black 1
+black 1 blue 1 black 1
+black 3

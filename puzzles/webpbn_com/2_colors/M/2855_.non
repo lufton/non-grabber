@@ -1,0 +1,67 @@
+by "Augustus Pike (ArcticNomad)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Augustus Pike"
+date "May 25, 2008"
+description ""
+difficulty 1.5
+height 13
+id 2855
+link "https://webpbn.com/play.cgi?id=2855"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title ""
+width 37
+
+rows
+0
+1,1,3,3,1,3,1,3,3
+2,1,1,1,1,1,1,1,1,1
+1,2,3,2,1,3,1,3,3
+1,1,1,1,1,1,1,1,1,1,1
+1,1,3,3,1,3,1,1,3,3
+0
+1,1,3,3,3,1,3,3,3
+1,1,1,1,1,1,1,1,1,1
+1,1,1,3,1,1,3,1,1,1,3
+2,2,1,1,1,1,1,1,1,1,1,1
+1,1,3,3,3,1,1,1,1,3
+0
+
+columns
+0
+5
+5,1
+1,1
+1,1
+5,5
+0
+0
+3,1,5
+1,1,1,1,1,1
+1,3,1,3
+0
+1,1,5
+1,1,1,1,1
+5,5
+0
+0
+5,1,3
+1,1,1
+5,3,1
+1,1,1
+5,5
+0
+1,1
+0
+5,1
+1
+3,1,5
+1,1,1
+1,3,1
+1
+5,5
+1,1,1
+1,3,5
+1,1,1
+1,3
+0

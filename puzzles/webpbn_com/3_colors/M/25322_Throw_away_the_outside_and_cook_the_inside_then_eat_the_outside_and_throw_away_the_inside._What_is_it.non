@@ -1,0 +1,61 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kelly Kriese"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 20
+id 25322
+link "https://webpbn.com/play.cgi?id=25322"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Throw away the outside and cook the inside, then eat the outside and throw away the inside. What is it?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+green 1 black 1 black 1 black 1 black 1 green 1
+green 2 black 1 black 1 black 1 black 1 green 2
+green 3 black 1 black 1 black 1 black 1 green 3
+green 1 green 3 black 1 black 1 black 1 black 1 green 1 green 3
+green 1 green 1 black 1 black 1 black 1 black 1 green 1 green 1 green 2
+green 4 green 1 black 2 black 2 green 3 green 1
+green 1 green 1 green 2 black 1 black 1 green 1 green 1 green 2
+green 1 green 1 green 1 green 1 black 1 green 4 green 1 green 1
+green 2 green 2 green 1 green 2
+green 2 green 5 green 3
+
+columns
+green 5
+green 1 green 1 green 1
+green 3 green 1 green 2
+green 4 green 2 green 1
+green 1 green 1 green 1
+green 3 green 1
+black 11 green 1 green 1
+black 1 black 1 green 1
+black 15 green 1 green 1
+black 1 black 1 green 1
+black 15 green 1
+black 1 black 1 green 1 green 1
+black 11 green 3
+green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 3 green 3 green 1
+green 3 green 1 green 2
+green 3 green 1 green 1
+green 5
+0

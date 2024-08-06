@@ -1,0 +1,57 @@
+by "Thales (shoseyov)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Thales"
+date "Jun 17, 2010"
+description ""
+difficulty 1.5
+height 20
+id 9258
+link "https://webpbn.com/play.cgi?id=9258"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Hangman"
+width 20
+
+rows
+12
+2,1
+2,1
+2,1
+2,3
+2,5
+2,5
+2,5
+2,3
+2,1
+2,5
+2,2,1,2
+2,1
+2,1
+2,1,1
+2,1,1
+2,1,1
+2,1,1
+2,2,2
+2
+
+columns
+20
+20
+1
+1
+1
+1
+1
+1,1
+1,1,1
+1,3,1,3
+1,5,1,2
+14
+5,1,2
+3,1,3
+1,1
+1
+0
+0
+0
+0

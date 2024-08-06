@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Feb 14, 2020"
+description "Prison sentence"
+difficulty 1.5
+height 20
+id 33615
+link "https://webpbn.com/play.cgi?id=33615"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title ""I'm innocent""
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 red 1 black 1 red 2 black 1 black 1
+black 1 black 1 red 2 black 1 red 3 black 1 black 1
+black 1 black 1 red 2 black 1 red 3 black 1 red 1 black 1
+black 1 black 1 red 3 black 1 red 3 black 1 red 1 black 1
+black 1 black 1 red 3 black 1 black 1 black 1
+black 1 black 1 red 3 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 red 3 black 1 black 1 black 1
+black 1 black 1 red 2 black 1 black 2 black 1
+black 3 black 1 black 1 black 1 black 1
+black 2 red 2 black 1 black 1 red 2 black 1 black 3
+black 2 red 3 black 1 black 1 black 1 black 2
+black 1 red 2 black 1 black 1 black 1 red 1 black 2
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 2 black 1
+black 1 black 1 red 3 black 1 red 2 black 1 red 3 black 1
+black 1 black 1 red 3 black 1 red 3 black 1 red 3 black 1
+black 1 black 1 red 3 black 1 red 3 black 1 red 2 black 1
+black 1 black 1 red 2 black 1 red 3 black 1 red 1 black 1
+black 1 black 1 red 2 black 1 red 3 black 1 red 1 black 1
+
+columns
+black 3
+black 20
+black 1 red 2
+red 3
+red 3
+black 20
+red 4 red 4
+red 7 red 5
+red 8 red 5
+black 20
+red 4 blue 1 red 6
+red 4 red 1 red 5
+red 3 blue 1 black 1 red 1 red 4
+black 20
+red 2 red 5
+red 4
+black 1 red 4
+black 20
+black 3
+0

@@ -1,0 +1,31 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "May 13, 2011"
+description "Iggy."
+difficulty 1.25
+height 5
+id 13879
+link "https://webpbn.com/play.cgi?id=13879"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "My mini-mal"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+black 1 green 1 black 1
+green 1
+green 1 green 2
+green 3
+
+columns
+green 2
+green 1
+black 1 green 2
+green 4
+black 1

@@ -1,0 +1,27 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ant"
+date "Mar 31, 2010"
+description "Inspired by Gator to make a super small puzzle that requires some thinking. Oh and I guess it's a fish.. or a Goomba on its side :P"
+difficulty 2.25
+height 5
+id 8225
+link "https://webpbn.com/play.cgi?id=8225"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Smile! (logic exercise)"
+width 5
+
+rows
+1,1
+1,1
+1,1
+1,1
+1,1
+
+columns
+1,1
+3
+1,1
+1,1
+1

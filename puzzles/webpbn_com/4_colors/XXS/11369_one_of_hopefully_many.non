@@ -1,0 +1,32 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sarah Andrews"
+date "Dec 14, 2010"
+description "See puzzle 11346 for Brian's comment. I really liked his idea. Instead of making my own design, I picked a common pattern called Log Cabin. Traditionally the first inner square is red to represent the hearth (fire) or heart of the home."
+difficulty 1.0
+height 5
+id 11369
+link "https://webpbn.com/play.cgi?id=11369"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "one of hopefully many"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 4
+green 1 blue 1 black 1
+green 1 blue 1 black 1 black 1
+green 1 blue 3 black 1
+green 5
+
+columns
+green 5
+black 1 blue 3 green 1
+black 1 black 1 blue 1 green 1
+black 1 blue 1 green 1
+black 4 green 1

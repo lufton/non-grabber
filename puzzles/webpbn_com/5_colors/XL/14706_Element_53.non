@@ -1,0 +1,103 @@
+by "Chris Duarte (cjduarte894)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Chris Duarte"
+date "Jun 16, 2011"
+description "This picture shows a plane dropping silver iodide into clouds to cause precipitation."
+difficulty 2.25
+height 40
+id 14706
+link "https://webpbn.com/play.cgi?id=14706"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Element 53"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 red 6
+green 3 red 6
+green 3 red 2
+green 3 red 2
+green 3 red 2
+green 3 green 2 red 2
+green 3 green 2 red 2
+green 19 red 2
+green 21 red 2
+green 19 red 6
+green 3 green 2 red 6
+green 3 red 3 red 3 green 2 red 1 red 1 red 1 red 1 red 1
+green 3
+green 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+green 3
+green 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+green 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+black 2
+black 3 red 1 black 3 red 1 red 1 black 4 red 1 red 1 red 1
+black 3 black 3 black 5 black 5
+black 6 black 3 black 5 black 6
+black 8 black 20 black 4
+black 10 black 20 black 4
+black 39
+black 40
+black 40
+black 40
+black 38
+black 19 black 17
+black 9 black 7 black 13
+black 7 black 6 blue 1 black 7 black 4 blue 1 blue 1
+black 7 black 5 blue 1 black 6 blue 1 black 3 blue 1 blue 1
+black 7 black 4 blue 1 blue 1 black 5 blue 1 black 2 blue 1 blue 1
+black 5 blue 1 blue 1 blue 1 black 3
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+
+columns
+black 3
+green 1 black 6
+green 3 black 6
+green 3 black 9
+green 3 black 12
+green 3 black 14
+green 3 black 14
+green 3 black 18
+green 15 black 18
+green 17 black 16
+green 15 black 13
+green 3 red 1 red 1 red 1 black 8
+green 3 red 1 red 1 black 7
+green 3 red 1 red 1 red 1 red 1 black 7
+green 3 red 1 black 12
+green 3 red 1 red 1 red 1 black 12 blue 1 blue 3
+green 3 red 1 red 1 black 15
+green 3 red 1 red 1 red 1 black 15 blue 2 blue 2
+green 3 red 1 black 14
+green 7 red 1 red 1 black 10 blue 2 blue 3
+green 7 red 1 red 1 black 7
+green 1 red 1 red 1 black 10 blue 2 blue 3 blue 2
+red 1 red 1 black 10
+red 1 red 1 black 11 blue 3 blue 3
+red 1 red 1 black 13
+red 1 red 1 black 15 blue 1 blue 2
+red 1 red 1 red 1 black 13
+red 1 red 1 black 13 blue 3
+red 1 red 1 black 15
+red 1 red 1 black 15 blue 2 blue 2
+red 1 red 1 black 13
+red 1 red 1 black 12 blue 2 blue 2 blue 2
+red 2 red 2 red 1 black 12
+red 2 red 2 red 1 red 1 black 13 blue 1 blue 3
+red 11 red 1 red 1 black 10
+red 11 red 1 red 1 black 11 blue 3 blue 1
+red 2 red 2 red 1 red 1 black 8
+red 2 red 2 red 1 red 1 black 8 blue 3 blue 2 blue 2
+red 1 red 1 black 7
+red 1 red 1 black 4 blue 3 blue 2 blue 1

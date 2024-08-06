@@ -1,0 +1,57 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Jan 26, 2010"
+description "A Lego brick. Pick them up before going to bed."
+difficulty 2.0
+height 20
+id 7675
+link "https://webpbn.com/play.cgi?id=7675"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Pain in the dark"
+width 20
+
+rows
+3,2,3
+1,5,1
+4
+2,2
+5,5
+4,4
+2,1
+5,3
+4,5
+2,7
+5,9
+4,11
+12
+15
+17
+18
+19
+17
+15
+13
+
+columns
+2,4
+1,2,2,4
+1,2,2,5
+2,2,6
+3,3,6
+2,2,7
+7
+2,2,7
+2,2,8
+2,2,9
+3,3,9
+2,2,10
+10
+2,10
+2,10
+2,10
+3,10
+1,2,10
+1,10
+2,10

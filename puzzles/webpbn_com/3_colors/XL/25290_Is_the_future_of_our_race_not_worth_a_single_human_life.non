@@ -1,0 +1,101 @@
+by "Sir Percival (sirpercival)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Sir Percival"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.75
+height 40
+id 25290
+link "https://webpbn.com/play.cgi?id=25290"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Is the future of our race not worth a single human life?"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 2 blue 2 blue 1
+blue 2 blue 2 blue 2 blue 2
+blue 2 blue 2 blue 1 blue 2
+blue 2 blue 2 blue 2 blue 2
+blue 4 blue 3 blue 2 blue 4
+blue 8 blue 10 blue 8
+blue 12 blue 10 blue 11
+blue 4 blue 7 blue 3 black 4 blue 3 blue 12
+blue 4 blue 4 blue 3 black 4 blue 2 blue 4 blue 4
+blue 7 blue 3 black 2 blue 3 blue 1 blue 4
+blue 10 blue 3 black 2 blue 3 blue 8
+blue 4 blue 6 blue 3 black 2 blue 3 blue 8 blue 3
+blue 4 blue 3 blue 8 blue 3 blue 3
+blue 7 blue 7 blue 6
+blue 10 blue 6 blue 10
+blue 12 blue 4 blue 12
+blue 12 blue 2 blue 12
+blue 3 black 1 blue 9 blue 13
+blue 1 blue 3 black 4 blue 6 blue 7 black 3 blue 3 blue 1
+blue 1 blue 3 black 6 blue 11 black 5 blue 3 blue 2
+blue 2 blue 3 black 8 blue 4 black 8 blue 3 blue 1
+blue 3 blue 4 black 6 blue 6 black 6 blue 4 blue 2
+blue 4 blue 4 black 5 blue 6 black 5 blue 4 blue 3
+blue 4 blue 4 black 3 blue 8 black 3 blue 4 blue 4
+blue 4 blue 4 black 2 blue 8 black 2 blue 4 blue 4
+blue 5 blue 19 blue 5
+blue 6 blue 18 blue 6
+blue 6 blue 16 blue 7
+blue 7 blue 14 blue 8
+blue 8 blue 13 blue 8
+blue 9 blue 12 blue 8
+blue 10 blue 10 blue 9
+blue 9 blue 8 blue 10
+blue 8 blue 7 blue 8
+blue 6 blue 5 blue 6
+blue 4 blue 4 blue 4
+blue 2 blue 2 blue 2
+blue 1 blue 1
+
+columns
+blue 4
+blue 10
+blue 12 blue 5
+blue 12 blue 12
+blue 14 blue 12
+blue 2 blue 10 blue 11
+blue 3 blue 2 blue 7 blue 11
+blue 3 blue 2 blue 4 black 1 blue 4 blue 9
+blue 3 blue 2 blue 5 black 1 blue 4 blue 8
+blue 2 blue 2 blue 4 black 2 blue 4 blue 7
+blue 3 blue 2 blue 4 black 3 blue 5 blue 6
+blue 3 blue 2 blue 4 black 4 blue 5 blue 5
+blue 3 blue 2 blue 4 black 4 blue 5 blue 5
+blue 1 blue 2 blue 4 black 5 blue 6 blue 3
+blue 4 blue 4 black 6 blue 6 blue 3
+blue 9 blue 4 black 5 blue 7 blue 2
+blue 12 blue 3 black 3 blue 11 blue 1
+blue 11 blue 2 black 1 blue 14
+blue 2 black 2 blue 7 blue 17
+blue 2 black 5 blue 5 blue 18
+blue 2 black 5 blue 5 blue 18
+blue 2 black 2 blue 7 blue 17
+blue 10 blue 2 black 1 blue 13
+blue 10 blue 3 black 3 blue 10 blue 1
+blue 8 blue 4 black 5 blue 7 blue 2
+blue 4 blue 5 black 5 blue 6 blue 3
+blue 1 blue 2 blue 4 black 5 blue 5 blue 4
+blue 2 blue 2 blue 4 black 4 blue 5 blue 5
+blue 3 blue 2 blue 5 black 3 blue 5 blue 5
+blue 3 blue 1 blue 4 black 3 blue 4 blue 7
+blue 3 blue 2 blue 4 black 2 blue 4 blue 8
+blue 3 blue 2 blue 4 black 1 blue 4 blue 8
+blue 3 blue 2 blue 9 blue 9
+blue 3 blue 2 blue 7 blue 11
+blue 3 blue 2 blue 6 blue 11
+blue 14 blue 12
+blue 12 blue 11
+blue 12 blue 2
+blue 8
+blue 4

@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jul 20, 2013"
+description "on the hair on the wart on the frog on the bump on the log in the hole in the bottom of the sea."
+difficulty 1.75
+height 20
+id 22384
+link "https://webpbn.com/play.cgi?id=22384"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "There's a fly"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 1
+black 3
+black 3 black 4
+black 4 black 7
+black 5 black 2
+black 12 black 1
+black 2 black 4 black 5
+black 6 black 4 black 5
+black 8 black 6 black 3
+black 6 black 4
+black 4 black 1 black 3
+black 4
+black 3
+black 3
+black 3 red 2
+black 3 red 3
+black 3 red 4
+black 2 red 5
+red 8
+
+columns
+black 2
+black 2
+black 2
+black 2
+black 3
+black 4
+black 2 black 3
+black 1 black 3 black 1 black 3
+black 4 black 1 black 3
+black 1 black 6 black 5
+black 6 black 3
+black 5 black 5
+black 6 black 3 red 1
+black 3 black 4 black 4 red 1
+black 1 black 2 black 3 black 3 red 1
+black 2 black 3 black 2 black 1 red 2
+black 2 black 3 red 3
+black 2 black 4 red 4
+black 3 black 3 red 5
+black 3 black 2 red 5

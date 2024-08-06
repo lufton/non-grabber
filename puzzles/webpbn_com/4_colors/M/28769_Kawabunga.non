@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Oct  5, 2016"
+description "I drew this head for no particular reason, then I noticed it looked like a surfer."
+difficulty 1.5
+height 20
+id 28769
+link "https://webpbn.com/play.cgi?id=28769"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Kawabunga!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 blue 2
+blue 3 blue 4 blue 1
+blue 2 blue 8
+blue 1 blue 2 red 4 blue 4
+blue 2 red 9 blue 2 blue 1
+blue 2 red 11 blue 3
+blue 2 red 10 red 1 blue 3
+blue 2 red 10 blue 3
+blue 2 red 10 blue 3
+red 11 black 1 blue 3
+blue 4 red 7 blue 3
+blue 2 red 8 blue 2
+blue 5 red 4 blue 2
+blue 4 red 4 blue 2
+blue 3 red 4 blue 4
+blue 1 red 4 blue 1 red 2 blue 4
+red 3 blue 3 blue 4
+blue 5 blue 4
+blue 5 blue 8
+blue 4 blue 9
+
+columns
+blue 4 blue 1 red 1 blue 6 red 1 blue 3
+blue 3 blue 2 red 1 blue 5 red 2 blue 3
+blue 2 blue 2 red 2 blue 1 red 1 blue 3 red 2 blue 3
+blue 1 blue 1 red 3 blue 1 red 1 blue 2 red 2 blue 4
+blue 1 blue 1 red 6 blue 1 red 3 blue 3
+blue 2 red 9 blue 2
+blue 1 red 10
+blue 1 red 10
+blue 2 red 9
+blue 1 red 9
+blue 1 red 8
+blue 2 red 6 blue 1
+blue 2 red 5 blue 2
+blue 3 red 3 blue 2
+blue 3 red 2 red 1 blue 2
+blue 2 red 2 black 1 red 1 blue 2
+blue 2 red 2 blue 6
+blue 7 blue 6
+blue 1 blue 15
+blue 2 blue 16

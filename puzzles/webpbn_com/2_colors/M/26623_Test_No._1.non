@@ -1,0 +1,59 @@
+by "LHS Paths ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by LHS Paths"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.75
+height 21
+id 26623
+link "https://webpbn.com/play.cgi?id=26623"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.25
+title "Test No. 1"
+width 21
+
+rows
+7,1,1,7
+1,1,1,1,1,1
+1,3,1,1,1,3,1
+1,3,1,1,1,1,3,1
+1,3,1,3,1,3,1
+1,1,3,1,1,1
+7,1,1,1,7
+3
+5,4,2,1,1,1
+1,2,4,2,4,1
+5,1,2,2
+1,1,1,5
+4,1,3,1,1,1
+7,1,3
+7,1,1,1,1,1
+1,1,4,3
+1,3,1,3,1,2,1
+1,3,1,2,1,2,1
+1,3,1,1,2,1,2
+1,1,1,1,2,2
+7,4,1,1,1
+
+columns
+7,1,1,7
+1,1,2,1,1,1
+1,3,1,1,2,1,3,1
+1,3,1,1,1,1,1,3,1
+1,3,1,4,1,3,1
+1,1,2,1,1
+7,1,1,1,7
+3
+1,1,2,2,2,5
+1,1,1,2,1,2,1
+4,1,3,1,3
+1,2,1,1,2,1,1,1
+1,6,6
+3,1,1,1,1
+7,1,3
+1,1,2,2,1,1
+1,3,1,1,1,1,3,2
+1,3,1,2,2,3
+1,3,1,3,1,1,1,1
+1,1,1,5,2
+7,1,1,1,1,1

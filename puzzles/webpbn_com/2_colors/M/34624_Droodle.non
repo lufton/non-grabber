@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Oct 27, 2020"
+description "Answer in first comment"
+difficulty 1.0
+height 20
+id 34624
+link "https://webpbn.com/play.cgi?id=34624"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Droodle"
+width 20
+
+rows
+20
+1,1
+1,1
+1,1
+1,1
+1,4,1
+1,4,4,1
+1,3,3,1
+1,2,1,2,1
+3,3,3
+2,14,2
+4,4
+2,2
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+20
+
+columns
+20
+1,4,1
+1,2,1,1
+1,2,2,1
+1,1,1,1
+1,2,1,1
+1,1,1,1
+1,1,1,1
+1,2,1,1
+1,1,2,1
+1,1,3,1
+1,2,2,1
+1,1,1,1
+1,1,1,1
+1,2,1,1
+1,1,1,1
+1,2,2,1
+1,2,1,1
+1,4,1
+20

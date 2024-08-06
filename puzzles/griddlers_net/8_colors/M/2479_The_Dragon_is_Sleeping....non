@@ -1,0 +1,75 @@
+by "iriski"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/30/02"
+height 25
+id 2479
+link "https://www.griddlers.net/nonogram/-/g/2479"
+medium_time "0:13:55"
+points 4770
+popularity 60.01
+title "The Dragon is Sleeping..."
+width 25
+
+color a ffffff
+color b 343939
+color c 00c500
+color d 005800
+color e 8a0000
+color f f5f500
+color g 989a9f
+color h 000000
+
+rows
+f 4 f 1 g 10
+f 6 f 3 g 1 e 1 g 2 h 2 g 4
+f 3 f 1 g 2 e 2 h 3 e 1 h 1 g 2
+f 2 e 2 c 4 h 1 e 2 h 2 g 1
+f 2 e 1 e 1 c 7 e 1 h 3
+f 3 f 1 c 2 e 2 c 5 d 1 c 3 h 1 e 2
+f 6 c 8 d 3 c 2 e 2 h 1
+f 3 c 8 d 2 c 6 h 1
+c 7 d 1 c 2 d 1 c 7 h 1
+c 6 d 2 c 2 d 1 c 8
+b 7 d 2 b 3 c 3 b 2 c 3
+b 7 d 2 b 3 c 3 b 2 c 1 e 2
+g 6 d 3 g 1 c 3 g 3 c 1 e 2
+g 6 d 3 c 2 g 3 c 4
+f 1 g 7 d 2 c 1 g 4 c 3 g 1
+f 3 g 7 c 2 g 3 c 2 e 2 g 1
+f 1 g 11 c 4 e 1 g 1
+g 5 e 2 c 1 g 1 c 2 e 2 g 3
+g 3 e 2 c 4 e 2 g 3
+f 1 f 1 g 5 c 1 e 2 c 1 g 5
+f 3 f 3 g 6 e 1 g 7
+f 1 f 1 g 13
+g 13
+g 12
+g 11
+
+columns
+0
+f 6
+f 8 f 1 f 1
+f 3 f 3 f 3 f 3
+f 2 f 2 f 1 f 1
+f 2 f 2 b 2
+f 1 f 1 c 2 b 2 g 1 f 1
+c 2 b 2 g 3 f 3
+c 1 c 3 b 2 g 5 f 1
+f 1 c 5 b 2 g 6
+f 3 e 1 c 4 b 2 g 6
+f 1 e 2 c 4 b 2 g 9
+c 3 d 4 g 10
+e 2 c 3 d 6 g 10
+g 1 e 1 c 6 b 2 d 3 g 2 e 2 g 6
+g 3 c 7 b 2 g 1 d 2 c 1 g 1 e 2 g 6
+g 1 e 2 c 4 d 3 b 2 c 4 g 1 c 3 g 5
+g 2 e 1 c 3 d 2 c 6 g 4 c 1 e 2 g 4
+g 2 h 1 c 2 d 2 c 6 g 4 c 2 e 1 g 5
+g 1 h 3 c 2 d 1 c 5 g 4 c 4 g 5
+g 1 h 2 e 1 c 6 b 2 g 3 c 2 e 2 g 6
+g 2 e 3 c 5 b 2 g 1 c 4 e 2 g 6
+g 2 h 4 e 1 c 8 e 1 c 1 g 8
+g 3 h 2 e 2 c 4 e 2 c 2 e 2 g 8
+g 4 h 1 e 1 h 3 c 2 e 2 c 1 g 11

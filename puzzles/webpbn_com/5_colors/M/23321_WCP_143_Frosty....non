@@ -1,0 +1,73 @@
+by "Ellen Vollor (evollor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Ellen Vollor"
+date "Dec  9, 2013"
+description "Ahhh, luxury when the mercury drops!"
+difficulty 2.25
+height 25
+id 23321
+link "https://webpbn.com/play.cgi?id=23321"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #143 Frosty..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+green 4 black 11
+green 2 red 1 green 1 red 1 blue 2 blue 2
+green 2 red 3 blue 1 blue 1
+green 2 red 3 blue 1 black 1 black 1 blue 1
+green 4 red 3 blue 5 blue 1 red 1 blue 1
+green 1 green 1 red 3 blue 1 blue 2 blue 2 red 1 blue 2
+green 1 green 2 blue 4 blue 4 red 1 blue 1
+green 1 green 1 blue 2 blue 2 black 1 black 1 blue 1 black 2
+green 1 green 1 blue 2 black 1 blue 1 black 2
+green 1 green 1 green 3 blue 5 blue 1 black 3
+green 1 green 2 green 1 green 1 blue 2 blue 2 blue 2 black 2
+green 1 green 1 green 3 blue 2 black 1 blue 6 black 2
+green 1 green 1 blue 2 blue 1 blue 1 black 5
+green 1 green 1 blue 2 blue 3 black 1 blue 1 black 3 black 1
+green 1 green 2 blue 2 blue 2 black 1 blue 1 black 2 black 1
+green 1 green 1 blue 1 blue 2 blue 3 black 1 black 1
+green 1 green 1 blue 2 blue 1 blue 2 black 3 black 1
+green 1 green 1 blue 2 blue 4 blue 2 black 2 black 1
+green 1 green 1 black 1 blue 4 black 2 blue 3 black 2 black 1
+green 1 red 2 green 1 black 11 black 1
+green 1 red 2 green 1 black 1 black 1 black 1
+green 1 red 2 green 1 black 1 black 1
+green 4 black 1 black 1
+black 1 black 1
+
+columns
+green 19
+green 4 red 3 green 1
+green 4 green 1 green 1 green 1 red 3 green 1
+green 19
+blue 2 black 6
+red 5 green 3 blue 5 black 1
+green 2 red 4 green 1 green 1 blue 2 blue 1 black 1
+green 1 red 5 green 3 blue 2 blue 1 black 1
+green 1 blue 3 blue 2 blue 2 black 1
+green 1 blue 1 blue 1 blue 2 blue 3 black 2
+blue 1 blue 1 blue 2 black 1 blue 2 blue 1 black 2
+blue 1 blue 2 blue 1 blue 2 blue 2 black 1
+blue 2 blue 3 blue 1 blue 1 black 1
+blue 2 blue 2 blue 2 black 1 blue 2 black 1
+black 1 blue 1 blue 2 blue 2 black 6
+black 1 blue 7 blue 2 blue 2 black 2
+black 1 blue 1 blue 3 blue 1 black 1 blue 1 black 2
+black 2 blue 5 black 1
+black 2 black 1 black 1 blue 1 black 9
+black 2 red 3 black 1 blue 1 black 3
+black 2 black 1 black 1 blue 2 black 2
+black 2 blue 2 black 2
+black 1 blue 1 blue 4 black 8
+black 1 blue 5 black 4
+black 1 black 3

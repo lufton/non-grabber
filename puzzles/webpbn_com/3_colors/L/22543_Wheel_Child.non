@@ -1,0 +1,81 @@
+by "John Finley (jfinley91)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by John Finley"
+date "Aug  7, 2013"
+description "Not the world's nicest looking ferris wheel."
+difficulty 2.0
+height 30
+id 22543
+link "https://webpbn.com/play.cgi?id=22543"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Wheel Child"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 12
+black 3 black 2 black 3
+black 2 red 5 black 2 red 5 black 2
+black 2 red 3 black 2 red 3 black 2
+black 3 black 2 black 3
+black 5 black 2 black 5
+black 2 black 3 black 2 black 3 black 2
+black 1 black 3 black 2 black 3 black 1
+black 2 black 3 black 2 black 3 black 2
+black 1 black 12 black 1
+black 1 red 4 black 2 black 2 red 4 black 1
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 red 2 red 2 black 1 black 1
+black 11 red 2 red 2 black 11
+black 11 black 11
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 2 black 3 black 3 black 2
+red 1 black 1 red 3 black 12 red 3 black 1 red 1
+black 2 red 1 black 3 black 2 black 3 red 1 black 2
+black 1 black 3 black 2 black 3 black 1
+black 2 black 3 black 2 black 3 black 2
+black 5 black 2 black 5
+black 4 black 2 black 4
+black 3 black 2 black 3
+black 1 black 2 black 1
+red 3 black 3 black 2 black 3 red 3
+red 3 black 12 red 3
+
+columns
+black 9 red 1
+black 3 black 2 black 3
+black 3 red 2 black 2 red 1 black 3
+black 2 red 2 black 2 red 2 black 3
+black 2 red 2 black 2 red 1 black 3 red 1
+black 3 red 1 black 2 black 3 red 2
+black 5 black 2 black 5 red 2
+black 2 black 3 black 2 black 3 black 1 red 1
+black 1 red 1 black 3 black 2 black 3 black 1
+black 2 red 2 black 3 black 2 black 3 black 2
+black 1 red 2 black 14 black 1
+black 1 red 2 black 2 black 2 black 1
+black 1 red 1 black 1 red 2 black 2 black 1
+black 1 black 1 red 2 black 1 black 1
+black 10 black 10
+black 10 black 10
+black 1 black 1 red 2 black 1 black 1
+black 1 red 1 black 1 red 2 black 2 black 1
+black 1 red 2 black 2 black 2 black 1
+black 1 red 2 black 14 black 1
+black 2 red 2 black 3 black 2 black 3 black 2
+black 1 red 1 black 3 black 2 black 3 black 1
+black 2 black 3 black 2 black 3 black 1 red 1
+black 5 black 2 black 5 red 2
+black 3 red 1 black 2 black 3 red 2
+black 2 red 2 black 2 red 1 black 3 red 1
+black 2 red 2 black 2 red 2 black 3
+black 3 red 2 black 2 red 1 black 3
+black 3 black 2 black 3
+black 9 red 1

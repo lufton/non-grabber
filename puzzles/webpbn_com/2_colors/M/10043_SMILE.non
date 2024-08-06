@@ -1,0 +1,57 @@
+by "Ed Robles (edrobles)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ed Robles"
+date "Aug 21, 2010"
+description "I had fun drawing it, but I'm sure its pretty boring to solve..."
+difficulty 1.25
+height 20
+id 10043
+link "https://webpbn.com/play.cgi?id=10043"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "SMILE"
+width 20
+
+rows
+0
+0
+0
+1,16,1
+3,2,3
+2,2,2,2,2
+1,2,2,2,1
+1,2,1
+16
+0
+0
+1,1
+1,1
+4
+0
+1,1
+2,2
+10
+0
+0
+
+columns
+2
+2
+6
+1,1
+1,1,2
+1,2,1,2
+1,2,1,1
+1,1,1
+1,1,3,1
+6,1,1
+6,1,1
+1,1,3,1
+1,1,1
+1,2,1,1
+1,2,1,2
+1,1,2
+1,1
+6
+2
+2

@@ -1,0 +1,57 @@
+by "Courtney (Spardog)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Courtney"
+date "Sep 21, 2012"
+description "Tree with swing"
+difficulty 2.25
+height 20
+id 19856
+link "https://webpbn.com/play.cgi?id=19856"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Up, up, and away"
+width 20
+
+rows
+1,4,1,2,1
+2,2,3,2
+2,1,6
+3,2,3
+3,5,2
+1,4,1
+2,3,1,1
+4,2,6
+1,3,7,1
+2,4,1,1
+5,1,1
+3,1,1
+2,1,1
+2,1,1
+2,3
+2,3
+2
+9
+13
+20
+
+columns
+2,2,1,3
+2,2,3
+3,2,3
+1,17
+20
+2,2,2,3
+1,2,2,3
+2,2,3
+5,2,3
+2,1,3,2
+3,1,3,2
+1,1,1,2
+2,8,2
+3,2,2,1
+2,1,9,1
+2,1
+2,1,1
+1,1,1
+1,1
+1,1

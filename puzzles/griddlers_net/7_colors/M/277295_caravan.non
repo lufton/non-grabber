@@ -1,0 +1,75 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/11/24"
+height 19
+id 277295
+link "https://www.griddlers.net/nonogram/-/g/277295"
+medium_time "0:10:32"
+points 5995
+popularity 84.76
+title "caravan"
+width 32
+
+color a 000000
+color b ffffff
+color d 669966
+color e 336633
+color f 00ccff
+color g ffff99
+color h 999999
+
+rows
+d 1 e 2 d 1
+d 1 e 2 d 3
+h 24 d 3
+h 1 b 19 b 2 h 1 d 2
+h 1 f 19 f 3 h 1
+b 27 h 1
+b 1 b 2 b 5 b 1 h 10
+b 1 b 2 b 2 b 1 b 1 h 1 h 1
+b 1 b 2 b 2 b 1 b 1 h 1 h 1
+b 1 b 2 b 2 b 1 b 1 h 1 b 1 h 1
+b 18 h 1 b 8 h 2
+h 1 b 18 h 1 b 10 g 1
+h 1 f 18 h 1 f 10 g 1
+h 1 b 8 f 10 h 1 f 10 h 1
+h 1 b 5 h 3 b 10 h 1 b 3 h 3 b 1 f 3 h 1
+b 4 h 1 h 1 b 9 h 1 b 2 h 1 h 1 b 2 f 1 h 1
+h 6 h 1 h 12 h 1 h 3
+h 1 h 1 h 1 h 1
+h 1 h 1
+
+columns
+h 1
+h 4 h 1
+h 2 b 7 f 1 b 3 h 1
+h 1 b 1 f 1 b 1 b 2 f 1 b 3 h 1
+h 1 b 1 f 1 b 1 b 2 f 1 b 3 h 1
+h 1 b 1 f 1 b 1 b 2 f 1 b 3 h 1
+h 1 b 1 f 1 b 7 f 1 b 2 h 1
+h 1 b 1 f 1 b 7 f 1 b 1 h 1 h 1
+h 1 b 1 f 1 b 1 b 2 f 1 b 1 h 1 h 1 h 1
+h 1 b 1 f 1 b 1 b 2 f 1 b 1 h 1 h 1
+h 1 b 1 f 1 b 1 b 2 f 2 b 1 h 1
+h 1 b 1 f 1 b 7 f 2 b 2 h 1
+h 1 b 1 f 1 b 7 f 2 b 2 h 1
+h 1 b 1 f 1 b 2 b 2 f 2 b 2 h 1
+h 1 b 1 f 1 b 2 b 2 f 2 b 2 h 1
+h 1 b 1 f 1 b 7 f 2 b 2 h 1
+h 1 b 1 f 1 b 1 b 2 f 2 b 2 h 1
+h 1 b 1 f 1 b 1 b 2 f 2 b 2 h 1
+h 1 b 1 f 1 b 1 b 2 f 2 b 2 h 1
+h 1 b 1 f 1 b 7 f 2 b 2 h 1
+h 1 b 1 f 1 b 1 h 11
+h 1 b 1 f 1 b 1 h 1 b 2 f 2 b 2 h 1
+h 1 b 1 h 1 b 2 f 2 b 2 h 1
+d 1 h 1 b 1 h 1 b 2 f 2 b 1 h 1
+d 1 e 1 h 1 b 1 h 1 b 2 f 2 h 1 h 1
+e 2 h 1 b 1 f 1 b 1 h 1 b 2 f 2 h 1 h 1 h 1
+e 1 d 1 h 1 b 1 f 1 b 1 h 2 b 2 f 2 h 1 h 1
+d 3 h 1 f 1 b 1 h 1 h 1 b 3 f 2 b 1 h 1
+d 3 h 1 b 1 h 1 h 1 b 2 f 3 b 1 h 1
+d 2 h 2 h 1 b 1 f 3 b 1 h 1
+h 1 b 1 f 4 h 1
+g 2 h 3

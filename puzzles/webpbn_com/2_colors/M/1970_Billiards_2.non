@@ -1,0 +1,67 @@
+by "rachel cummins (botbylzgirl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by rachel cummins"
+date "Dec  8, 2007"
+description "the all mighty 8 ball!"
+difficulty 1.5
+height 25
+id 1970
+link "https://webpbn.com/play.cgi?id=1970"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Billiards #2"
+width 25
+
+rows
+15
+17
+14,3
+17,3
+19,3
+21,3
+10,6,3
+9,9
+8,8
+7,3,7
+6,5,6
+6,2,2,6
+6,3,6
+6,2,2,6
+6,5,6
+7,3,7
+8,8
+9,9
+10,10
+25
+23
+21
+19
+17
+15
+
+columns
+15
+17
+19
+21
+23
+25
+10,10
+9,9
+8,8
+7,7
+6,2,2,6
+6,7,6
+6,2,1,2,6
+6,7,6
+6,2,2,6
+7,7
+8,8
+2,6,9
+2,7,10
+3,21
+3,19
+3,16
+19
+17
+15

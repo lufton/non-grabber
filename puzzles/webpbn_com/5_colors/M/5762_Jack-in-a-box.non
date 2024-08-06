@@ -1,0 +1,63 @@
+by "Grace Whitney (smiles)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Grace Whitney"
+date "May  2, 2009"
+description "Smile in a strange box"
+difficulty 1.25
+height 20
+id 5762
+link "https://webpbn.com/play.cgi?id=5762"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Jack-in-a-box"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 1 black 16 black 1
+black 1 black 4 black 4 black 1
+black 1 black 3 black 3 black 1
+black 4 green 1 green 1 black 4
+black 3 green 1 green 1 black 3
+black 1 black 1 green 1 green 1 black 1 black 1
+black 1 black 1 green 1 green 1 black 1 black 1
+black 1 black 1 green 1 green 1 black 1 black 1
+black 3 green 1 green 1 black 3
+black 3 black 3
+black 1 black 1 blue 2 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 red 3 red 3 black 1 black 1
+black 3 red 8 black 3
+black 3 black 3
+black 1 black 2 black 2 black 1
+black 1 black 3 black 3 black 1
+black 1 black 16 black 1
+black 20
+
+columns
+black 20
+black 1 black 2 black 2 black 2 black 1
+black 20
+black 5 black 4
+black 4 red 1 black 3
+black 3 red 1 black 2
+black 2 red 2 black 2
+black 2 green 6 red 1 black 2
+black 2 red 1 black 2
+black 2 blue 1 red 1 black 2
+black 2 blue 1 red 1 black 2
+black 2 red 1 black 2
+black 2 green 6 red 1 black 2
+black 2 red 2 black 2
+black 3 red 1 black 2
+black 4 red 1 black 3
+black 5 black 4
+black 20
+black 1 black 2 black 2 black 2 black 1
+black 20

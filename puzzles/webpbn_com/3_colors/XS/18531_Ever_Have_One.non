@@ -1,0 +1,41 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Scarlet Noelle Masen"
+date "May  4, 2012"
+description "A White GameBoy by Nintendo. I had a yellow one and my sister had a purple one."
+difficulty 1.5
+height 12
+id 18531
+link "https://webpbn.com/play.cgi?id=18531"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 1.75
+title "Ever Have One?"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 6
+black 6
+black 6
+black 6
+black 6
+0
+black 1 black 1
+black 1 black 3
+black 1
+0
+blue 1 blue 1
+
+columns
+blue 1
+black 5 black 1
+black 5 black 1
+black 5
+black 5 black 1
+black 5 black 3
+black 5 black 1
+blue 1

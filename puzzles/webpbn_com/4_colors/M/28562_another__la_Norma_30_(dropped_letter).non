@@ -1,0 +1,59 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Aug 14, 2016"
+description "1972 movie"
+difficulty 1.75
+height 22
+id 28562
+link "https://webpbn.com/play.cgi?id=28562"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "another Ã  la Norma #30 (dropped letter)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 1 blue 2 black 4
+black 4 blue 2 black 2 blue 1
+black 3 blue 2 black 2 blue 1 black 2 blue 1
+black 2 blue 1 black 2 blue 2 black 2 blue 1 black 1 blue 1
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 blue 1 black 2
+black 1 blue 1 black 1 blue 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+blue 1 black 1 blue 2 black 1 blue 2 black 2 blue 1 black 1 blue 2 black 1 blue 1
+black 1 blue 1 black 2 blue 2 black 2 blue 2 black 1 blue 1 black 1 blue 2
+black 1 blue 2 black 1 blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 2
+black 2 blue 1 black 5 blue 1 black 4
+black 2 blue 1 black 1 blue 2 black 3 blue 1 black 1
+black 3 blue 2 black 1 blue 3 black 2
+blue 1 black 6
+black 1 black 1
+black 1 black 1
+red 2 red 2
+black 2 red 1 red 1 black 2
+black 5 red 1 red 1 black 5
+black 6 red 1 red 1 black 6
+black 7 red 1 black 7
+black 7 red 1 black 7
+
+columns
+black 1 blue 1 black 2 black 4
+black 2 blue 1 black 1 blue 2 black 1 black 4
+black 2 blue 1 black 1 blue 1 black 1 blue 1 black 3 black 5
+black 2 blue 1 black 1 blue 2 black 2 blue 1 black 2 red 1 black 5
+black 4 blue 2 black 1 blue 2 black 1 blue 1 black 1 blue 1 red 2 black 4
+blue 1 black 1 blue 1 black 3 blue 2 black 3 blue 1 black 3 red 1 black 3
+black 1 blue 1 black 1 blue 3 black 1 blue 1 black 1 blue 1 black 1 blue 2 black 1 red 1 black 2
+black 2 blue 1 black 1 blue 1 black 1 blue 1 black 2 blue 1 black 1 blue 1 black 2 red 2
+black 2 blue 1 black 2 blue 1 black 2 blue 2 black 2 blue 1 black 1 red 1 black 2
+black 2 blue 1 black 2 blue 3 black 1 blue 1 black 1 blue 1 black 3 red 1 black 3
+black 3 blue 1 black 4 blue 1 black 2 blue 1 black 1 red 2 black 4
+blue 1 black 2 blue 4 black 2 blue 1 black 1 red 1 black 5
+blue 2 black 2 blue 1 black 1 blue 1 black 3 black 5
+black 1 blue 1 black 1 blue 1 black 2 black 4
+black 1 blue 2 black 1 black 4

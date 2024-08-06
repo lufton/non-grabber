@@ -1,0 +1,39 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Oct 31, 2011"
+description "Happy Halloween! Maybe a waste of time to solve, but I just wanted to wish all my friends from Webpbn a terrific day and a spooky night! :) Just made an abbreviation, as most solvers wouldn't want to solve through the whole thing, after knowing what it's going to be in the first 30 seconds."
+difficulty 1.25
+height 7
+id 16177
+link "https://webpbn.com/play.cgi?id=16177"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Halloween (text)"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 11
+red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 4 black 1 red 4
+red 1 black 1 red 1 black 1 red 1 black 1 red 1
+black 1 black 1 black 1
+black 11
+
+columns
+black 1 red 4 black 1
+black 1 red 1 black 1
+black 3 red 1 black 3
+black 1 red 4 black 1
+black 1 black 1
+black 7
+black 1 red 4 black 1
+black 1 red 1 black 1
+black 3 red 1 black 3
+black 1 red 4 black 1
+black 1 black 1

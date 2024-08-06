@@ -1,0 +1,57 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by valerie o..travis"
+date "Apr 27, 2012"
+description ""
+difficulty 1.25
+height 13
+id 18459
+link "https://webpbn.com/play.cgi?id=18459"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Here's oldie TV show..."
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+black 2 blue 1 blue 1 blue 1 black 2 black 2
+black 2 blue 1 blue 5 black 2 black 2
+black 2 blue 6 black 2 black 2
+black 2 blue 6 black 2 black 2
+black 4 blue 4 black 4 black 4
+black 4 blue 4 black 4 black 4
+black 4 black 4 black 4 black 4
+black 4 black 4 black 4 black 4
+black 4 black 4 black 4 black 4
+black 4 black 4 black 4 black 4
+
+columns
+0
+black 6
+black 10
+black 10
+black 6
+blue 1
+blue 2
+blue 8 black 4
+blue 5 black 4
+blue 9 black 4
+blue 5 black 4
+blue 6
+0
+black 6
+black 10
+black 10
+black 6
+0
+0
+black 6
+black 10
+black 10
+black 6

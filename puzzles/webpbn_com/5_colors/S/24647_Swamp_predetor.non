@@ -1,0 +1,53 @@
+by "James even orendorff (capybara)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by James even orendorff"
+date "Jun  1, 2014"
+description "I just wanted to draw an alligator."
+difficulty 1.5
+height 5
+id 24647
+link "https://webpbn.com/play.cgi?id=24647"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.5
+title "Swamp predetor"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 3 green 2 green 1
+green 5 red 1 green 5 green 1 black 4
+green 15 blue 4 black 6
+green 10 blue 7 black 8
+
+columns
+green 2
+green 2
+green 2
+green 3
+green 3
+green 3
+green 3
+green 4
+green 1 green 2
+green 1 red 1 green 2
+green 2 blue 1
+green 2 blue 1
+green 2 blue 1
+green 2 blue 1
+green 2 blue 1
+blue 2
+blue 2
+blue 1 black 1
+blue 1 black 1
+green 2 black 2
+green 2 black 2
+black 3
+black 3
+green 1 black 3
+black 3

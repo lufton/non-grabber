@@ -1,0 +1,41 @@
+by "Jill Tallmer (yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Jul 14, 2016"
+description "book that was made into a 2014 movie"
+difficulty 1.5
+height 10
+id 28372
+link "https://webpbn.com/play.cgi?id=28372"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Dropped letter Ã  la Norma #2"
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 1 blue 1 black 1 blue 1 black 1
+black 7
+black 2 black 1 red 1 black 1 black 2
+blue 1
+black 3 blue 3 black 3
+blue 5
+blue 7
+black 1 black 1
+red 2 red 2
+
+columns
+black 1 black 1
+black 2 black 1 blue 1
+black 2 black 1 blue 2 red 1
+black 1 blue 1 black 2 blue 3 black 1 red 1
+black 3 red 1 blue 4
+black 1 blue 1 black 2 blue 3 black 1 red 1
+black 2 black 1 blue 2 red 1
+black 2 black 1 blue 1
+black 1 black 1

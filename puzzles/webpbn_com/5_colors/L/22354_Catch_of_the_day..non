@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "Jul 11, 2013"
+description "Rainboot trout."
+difficulty 2.5
+height 30
+id 22354
+link "https://webpbn.com/play.cgi?id=22354"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Catch of the day."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6
+green 1 black 2 green 1
+green 1 black 2 green 1
+green 1 black 2 green 1
+green 1 black 2 black 1
+green 1 black 2 red 2 black 1 red 6
+green 1 black 2 red 1 black 1 black 1 red 1
+green 1 black 2 red 1 black 1 red 1
+black 2 blue 1 red 2 red 2
+black 1 blue 1 red 1 red 1
+black 2 red 1 red 1 blue 1
+black 2 red 1 red 1 blue 1
+black 5 red 1 red 1
+black 2 black 1 red 1 blue 1 red 2
+black 2 black 2 red 1 blue 1 red 2
+black 1 red 1 red 5
+red 1 red 2
+red 1 red 2
+red 2 blue 1 red 1
+red 2 blue 1 red 2
+blue 1 red 1 blue 1 red 8 blue 1 red 2
+blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1
+blue 17 blue 3 blue 8
+blue 4 blue 4 blue 3 blue 6 blue 4
+blue 3 blue 3 blue 2 blue 1 blue 5 blue 2 blue 1
+blue 1 blue 8 black 1 blue 2 blue 6
+blue 1 blue 3 blue 4 blue 1 blue 6 blue 3
+blue 8 blue 1 blue 3 blue 11
+
+columns
+green 1 black 3 black 1 black 2 blue 1 blue 4
+green 1 black 2 black 5 blue 3 blue 1
+green 1 black 2 black 3 blue 6
+green 1 black 2 black 1 blue 2 blue 3
+green 1 black 2 black 3 blue 6
+green 1 black 2 black 1 blue 1 blue 2 blue 1
+green 1 black 2 blue 6
+green 1 black 2 blue 2 blue 3
+green 1 black 1 blue 2 blue 5
+green 1 red 4 red 3 blue 3 blue 6
+green 1 red 1 red 8 red 2 blue 1
+green 1 black 2 red 2 blue 1
+green 4 red 1 black 1 blue 3 blue 2 blue 1
+black 1 red 1 black 1 blue 2 red 1 blue 3 blue 2
+red 1 red 1 blue 2 blue 1
+red 1 blue 1 red 1 blue 1
+red 1 red 6 red 1 blue 1
+red 4 blue 2 red 2 red 1 blue 2
+red 2 red 1 blue 1 black 1
+red 1 red 1 blue 2 blue 1
+red 1 red 1 blue 3 blue 2
+red 1 blue 2 blue 5
+red 2 red 1 blue 6
+red 2 red 2 blue 3 blue 2
+red 3 blue 2 blue 6
+blue 1 blue 3
+blue 4 blue 1
+blue 6
+blue 2 blue 3
+blue 6

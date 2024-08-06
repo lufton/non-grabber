@@ -1,0 +1,86 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Jan Wolter"
+date "Apr 19, 2006"
+description ""Oh, it's a jolly holiday with Mary. / Mary makes your 'eart so light / When the day is gray and ordinary, Mary makes the sun shine bright!" Mary Poppins."
+difficulty 2.5
+height 40
+id 419
+link "https://webpbn.com/play.cgi?id=419"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "Jolly Holiday"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 7
+black 13
+black 15
+black 17
+black 2 black 3 black 1 black 3 black 2
+black 1 black 1 black 1 black 1 black 1
+black 1
+black 1
+black 1 red 1
+black 1 black 4
+black 1 black 6
+black 2 black 1 black 1
+black 3 black 1 black 1
+black 3 black 1 black 1
+black 2 black 2
+black 6 red 1 black 2 red 1 black 2
+black 5 red 1 black 1 red 2 black 3
+black 1 red 1 black 1 red 1 black 4
+black 1 red 3 black 1 black 3
+black 1 red 2 black 2 black 3
+black 1 red 2 black 2 black 3
+black 1 red 2 black 2 black 2
+black 2 red 2 black 3 black 2
+black 2 red 2 black 3 black 1
+black 7 black 3
+black 9 black 1 red 1 black 1 red 1 black 1
+black 9 black 2 red 1 black 2
+black 9 black 1 red 1 black 1 red 1 black 1
+black 9 black 2 red 1 black 2
+black 12 red 1 black 1 red 1 black 1
+black 13 red 1 black 2
+black 16
+black 11
+black 1 black 2 black 1 black 1 black 2 black 1
+black 2 black 1 black 1 black 1 black 1 black 1 black 1 black 3
+black 2 black 3 black 9 black 5
+black 6 black 2 black 2 black 1 black 1 black 1
+black 3 black 1 black 1 black 4 black 4 black 5
+black 6 black 1 black 1 black 1
+
+columns
+black 3 black 3 black 1
+black 3 black 5
+black 3 black 3
+black 3 black 2 black 1
+black 4 black 5
+black 6 black 3 black 2 black 1
+black 5 black 5 black 3
+black 4 black 3 black 2 black 4
+black 14 black 2 black 11 black 1
+black 4 black 2 black 12 black 1 black 1
+black 5 red 1 black 1 black 18 black 4
+black 6 black 5 red 9 black 10 black 3
+black 4 black 2 black 4 red 6 black 9 black 2
+black 3 black 2 black 2 red 3 black 15 black 3
+black 3 black 5 red 2 black 16 black 4
+black 3 black 1 black 3 black 12 black 1 black 1
+black 3 black 4 black 11 black 1
+black 4 black 4
+black 3 black 7
+black 4 black 1 red 1 black 1 red 1 black 1 red 1 black 2
+black 6 red 1 black 1 red 1 black 1 red 1 black 1 black 4
+black 1 red 1 black 1 red 1 black 1 red 1 black 2 black 2 black 1
+black 7 black 6
+black 2 black 1
+black 4

@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jun 22, 2013"
+description "Grasshopper"
+difficulty 1.5
+height 20
+id 22228
+link "https://webpbn.com/play.cgi?id=22228"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Compound word 9"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1
+green 1
+green 3
+green 3
+green 3
+green 1 green 3 green 1
+green 2 green 3 green 1
+green 4 green 3 green 3
+green 3 green 1 green 3
+green 7
+green 1
+green 7
+green 1
+green 2
+green 2
+green 3
+green 2
+green 4
+0
+black 1 black 3 black 1
+
+columns
+green 1 black 1
+green 2
+green 2
+green 2
+green 2
+green 2 green 1
+green 1 green 1 green 2 black 1
+green 6 green 1 green 1 green 3 black 1
+green 14 green 1 green 1 black 1
+green 6 green 1 green 1 green 3 green 1
+green 2 green 1 green 1
+green 3 green 1
+green 2
+green 2
+green 1 black 1

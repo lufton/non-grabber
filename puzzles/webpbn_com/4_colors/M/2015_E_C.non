@@ -1,0 +1,67 @@
+by "Rachel Clune (rebecca)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Rachel Clune"
+date "Dec 16, 2007"
+description "witch is it a E or a backwards C"
+difficulty 1.25
+height 25
+id 2015
+link "https://webpbn.com/play.cgi?id=2015"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "E C"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20
+blue 5 black 14
+blue 5
+blue 5
+blue 5
+blue 5
+blue 4 red 11
+blue 15
+blue 15
+blue 15
+blue 15
+blue 5 black 9
+blue 5
+blue 5
+blue 5
+blue 5
+blue 4 red 15 blue 1
+blue 20
+blue 20
+blue 20
+blue 20
+
+columns
+blue 25
+blue 25
+blue 25
+blue 25
+blue 10 red 1 blue 9 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4 red 1 blue 4
+blue 5 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4
+blue 5 black 1 red 1 blue 4
+blue 5 blue 5

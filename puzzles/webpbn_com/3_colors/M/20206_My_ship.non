@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Brian Bellis"
+date "Nov 29, 2012"
+description "When I was 10 we moved to a house where I got to sleep in the downstairs bedroom while the rest of the family slept upstairs. Dad noticed I was a bit unsettled so he said he would paint me a picture of whatever I wanted. I asked for a pirate ship. He did the ocean and sky a midnight blue as if a storm where brewing and one could barely tell where the ocean stopped and the sky began. He loaded a ketchup bottle with black paint and within minutes created this amazing skeleton ship being tossed about in the roiling seas. The painting hung in my room till I went away to college. My parents divorced, the house was sold, and I never saw my painting again. No one knows what happened to it."
+difficulty 2.75
+height 20
+id 20206
+link "https://webpbn.com/play.cgi?id=20206"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "My ship"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1
+black 3 black 1
+black 1 black 1 black 2
+black 1 black 3 black 3
+black 1 black 1 black 3
+black 3 black 1 black 3 black 1
+black 3 black 4 black 2
+black 1 black 2 black 2 black 1 black 1 black 1 blue 1
+black 1 black 5 black 1 black 2 black 1 blue 1
+black 1 black 1 black 1 black 3 black 1 blue 1
+black 2 black 2 black 5 black 1 blue 2
+black 1 black 1 blue 1 blue 1
+black 2 black 2 blue 4
+black 1 black 1 blue 5
+black 1 black 1 blue 3 blue 1 blue 1
+black 1 black 1 blue 9
+blue 1 black 1 black 1 blue 6 blue 2
+blue 1 black 1 black 1 black 1 blue 5 blue 5
+blue 2 black 1 blue 1 black 1 blue 6 blue 5 blue 2
+blue 4 black 1 blue 3 blue 11
+
+columns
+blue 4
+black 6 blue 2
+black 3 black 1 blue 1
+black 6 blue 2
+black 2 black 3
+black 6 blue 2
+black 2 black 3 blue 2
+black 2 black 6 blue 2
+black 1 black 1 blue 1
+black 1 black 1 blue 3
+black 1 black 1 black 1 blue 4
+black 9 black 1 blue 3 blue 1
+black 1 black 1 black 2 blue 5
+black 1 black 1 black 1 blue 6
+black 6 black 1 blue 3 blue 2
+black 1 black 1 black 1 blue 7
+black 2 black 2 blue 2 blue 1 blue 3
+black 2 black 1 black 1 blue 7 blue 1
+black 8 blue 1 blue 2 blue 5
+black 3 blue 9 blue 3

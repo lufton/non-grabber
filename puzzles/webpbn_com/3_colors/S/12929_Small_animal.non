@@ -1,0 +1,44 @@
+by "Kit E. Katz (hello)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kit E. Katz"
+date "Mar 21, 2011"
+description "Whale."
+difficulty 1.25
+height 11
+id 12929
+link "https://webpbn.com/play.cgi?id=12929"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title ""Small" animal"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 3 black 1 blue 1 blue 1
+black 1 blue 3
+blue 3 blue 1
+blue 8
+blue 2 blue 4
+blue 6
+blue 4
+0
+
+columns
+0
+black 2
+black 1 blue 3
+black 2 blue 5
+black 2 blue 2 blue 2
+black 2 blue 5
+black 1 blue 4
+black 2 blue 3
+blue 2 blue 2
+blue 3
+blue 2
+0

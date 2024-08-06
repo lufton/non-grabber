@@ -1,0 +1,52 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/7/04"
+height 15
+id 9040
+link "https://www.griddlers.net/nonogram/-/g/9040"
+medium_time "0:04:34"
+points 377
+popularity 53.27
+title "Soccer"
+width 15
+
+color a ffffff
+color b ff0000
+color d 0000cc
+color f ffce9c
+color h 000000
+
+rows
+h 2
+h 3
+h 1 f 2
+f 1
+b 2
+b 4
+b 4 f 3
+d 1 b 3
+d 4
+d 6
+d 2 d 1 f 1
+b 1 f 4 f 2 d 2
+b 1 f 1 f 2 d 4
+b 2 f 2 d 4
+b 3 d 2
+
+columns
+b 3
+f 2 b 1
+f 1
+f 1
+d 2 f 1
+d 3
+b 1 d 3
+b 3 d 2
+h 2 b 4 d 3 f 3 b 1
+h 2 f 2 b 4 d 1 f 4 b 1
+h 2 f 1 b 1 f 1 b 1
+f 1 d 2
+f 1 d 4
+d 4
+d 2

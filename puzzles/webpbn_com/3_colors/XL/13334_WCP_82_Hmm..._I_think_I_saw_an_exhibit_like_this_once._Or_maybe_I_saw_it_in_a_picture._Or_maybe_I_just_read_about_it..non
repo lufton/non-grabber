@@ -1,0 +1,101 @@
+by "Kit E. Katz (hello)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kit E. Katz"
+date "Apr 12, 2011"
+description ""One and Three Squares" Parody of "One and Three Chairs" by Joseph Kosuth (1965). ** To replace puzzle #13330 which inexplicably disappeared."
+difficulty 2.25
+height 40
+id 13334
+link "https://webpbn.com/play.cgi?id=13334"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #82 Hmm... I think I saw an exhibit like this once. Or maybe I saw it in a picture. Or maybe I just read about it."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 14 black 25
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2 black 3 black 1 black 1 black 1 black 3 black 2 black 1
+black 1 blue 12 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 blue 12 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 3 black 2 black 2 black 1
+black 1 blue 12 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 blue 3 blue 3 black 1 black 1 black 2 black 3 black 3 black 1 black 1 black 1 black 1 black 2 black 1
+black 1 blue 3 blue 3 black 1 black 1 black 1 black 1
+black 1 blue 3 blue 3 black 1 black 1 black 1
+black 1 blue 3 black 2 blue 3 black 1 black 1 black 2 black 3 black 2 black 4 black 3 black 2 black 1
+black 1 blue 3 black 4 blue 3 black 1 black 1 black 1
+black 1 blue 3 black 5 blue 3 black 1 black 1 black 4 black 3 black 2 black 4 black 3 black 1
+black 1 blue 12 black 1 black 1 black 1
+black 1 blue 12 black 1 black 1 black 2 black 4 black 2 black 4 black 3 black 1 black 1
+black 1 blue 12 black 1 black 1 black 1
+black 14 black 25
+0
+0
+0
+blue 12
+blue 12
+black 9 blue 12 black 19
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3 black 14
+blue 3 black 2 blue 3 black 12
+blue 3 black 4 blue 3 black 5
+blue 3 black 5 blue 3 black 5
+blue 12 black 5
+blue 12 black 4
+blue 12
+0
+0
+0
+0
+black 3 black 3 black 3
+blue 3 black 1 blue 1 blue 3 black 1 blue 1 blue 3 black 1 blue 1
+blue 2 black 3 blue 2 blue 2 black 3 blue 2 blue 2 black 3 blue 2
+blue 2 black 1 blue 3 blue 3 black 1 blue 4 blue 2 black 1 blue 3
+black 1 blue 6 black 1 blue 6 black 1 blue 1
+
+columns
+black 16 black 1 blue 1
+black 1 blue 12 black 1 black 1 blue 2
+black 1 blue 12 black 1 black 1 blue 2
+black 1 blue 12 black 1 black 1 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 3 black 1 black 1 black 1 blue 1 black 3
+black 1 blue 3 black 1 blue 3 black 1 black 1 black 3
+black 1 blue 3 black 2 blue 3 black 1 black 1 blue 2
+black 1 blue 3 black 2 blue 3 black 1 black 1 blue 2
+black 1 blue 3 black 3 blue 3 black 1 black 1 blue 1
+black 1 blue 3 black 2 blue 3 black 1 blue 12 blue 2
+black 1 blue 12 black 1 blue 12 blue 1
+black 1 blue 12 black 1 blue 12 blue 1
+black 1 blue 12 black 1 blue 3 black 1 blue 3 blue 1
+black 16 blue 3 black 1 blue 3 blue 1
+blue 3 black 2 blue 3 blue 2
+black 16 blue 3 black 2 blue 3 blue 1
+black 1 black 1 blue 3 black 3 blue 3 blue 2
+black 1 black 3 black 1 black 1 black 1 black 1 black 1 blue 3 black 2 blue 3 blue 2
+black 1 black 1 black 3 black 1 black 1 black 1 black 1 blue 12 black 1 blue 1 black 1
+black 1 black 1 black 1 blue 12 black 1 blue 1 black 3
+black 1 black 5 black 1 black 1 black 1 black 1 blue 12 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 1 blue 2
+black 1 black 6 black 1 black 1 black 1 black 1 black 1 black 2 black 2 blue 2
+black 1 black 1 black 1 black 1 black 1 black 2 black 2 blue 1
+black 1 black 5 black 1 black 1 black 1 black 1 black 2 black 3 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 2 black 2 blue 2
+black 1 black 5 black 1 black 1 black 1 black 1 black 5 blue 1
+black 1 black 1 black 1 black 1 black 1 black 4 blue 1
+black 1 black 4 black 1 black 1 black 1 black 1 black 4 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 3 blue 1
+black 1 black 4 black 1 black 1 black 1 black 1 black 1 black 3 blue 2
+black 1 black 1 black 1 black 1 black 1 black 2 blue 2
+black 1 black 5 black 1 black 1 black 1 black 1 black 2 blue 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 black 2 black 2 black 1 black 1 black 1 black 1 black 1 black 1 blue 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 3
+black 1 black 5 black 1 black 1 black 1 black 1 blue 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 2
+black 1 black 1 black 1 blue 1
+black 16 black 1 blue 2

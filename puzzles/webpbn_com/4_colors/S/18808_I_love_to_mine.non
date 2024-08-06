@@ -1,0 +1,52 @@
+by "Nelson Peters (Ace9999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Nelson Peters"
+date "May 29, 2012"
+description "Its a pickaxe. I imagine you all know what these are used for. Mining ores like coal and iron. I added a few green blocks near the top because if they were not there, this puzzle would have multiple solutions."
+difficulty 1.25
+height 15
+id 18808
+link "https://webpbn.com/play.cgi?id=18808"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "I love to mine"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+green 1 blue 1 black 3 blue 1 green 1
+blue 2 black 3 blue 2
+blue 3 black 3 blue 3
+blue 4 black 3 blue 4
+blue 4 black 3 blue 4
+blue 3 black 3 blue 3
+blue 2 black 3 blue 2
+blue 1 black 3 blue 1
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+
+columns
+0
+green 1 blue 4
+blue 4
+blue 4
+blue 4
+blue 4
+black 15
+black 15
+black 15
+blue 4
+blue 4
+blue 4
+blue 4
+green 1 blue 4
+0

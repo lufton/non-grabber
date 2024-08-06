@@ -1,0 +1,77 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by Jan Wolter"
+date "Dec 21, 2005"
+description "A menorah with the shamus in the center and four other candles, all ready for a celebration of the fourth night of hanakkah. Two dreidels are also present."
+difficulty 3.0
+height 25
+id 332
+link "https://webpbn.com/play.cgi?id=332"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Fourth Night"
+width 35
+
+rows
+2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2,2
+2,2,2,2
+2
+2,2,2,2,2,2,2,2,2
+2,2,2,3,2,3,2,2,2
+2,3,3,8,3,3,2
+3,2,3,6,3,2,3
+2,3,3,2,3,3,2
+3,3,12,3,3
+3,3,8,3,3
+3,4,2,4,3
+3,16,3
+3,12,3,1
+4,2,4,1
+20,1
+16,5
+4,2,5
+5,2,5
+9,4,5
+5,12,3
+4,14,1
+
+columns
+5,4
+5,6,1
+4,3
+3,5
+5,3,3,5
+5,5,3,5
+4,3,5
+3,3,1
+5,3,3,2,1
+5,4,3,3,1
+3,2,2,1
+3,3,2,2
+5,2,2,2,2,2
+5,3,2,2,2,2
+3,2,2,2,2
+2,2,2,2,3
+5,19
+5,19
+2,2,2,2,3
+3,2,2,2,2
+3,2,2,2,2
+2,2,2,2,2
+3,3,2,2
+3,2,2,1
+4,3,3
+3,3,2
+3,3
+4,3
+5,3
+3,3,4
+3,5
+4,9
+6,5
+4,4
+0

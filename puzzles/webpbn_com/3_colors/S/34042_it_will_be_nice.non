@@ -1,0 +1,51 @@
+by "McDonald (McDonald)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by McDonald"
+date "May 28, 2020"
+description "nice face"
+difficulty 1.5
+height 15
+id 34042
+link "https://webpbn.com/play.cgi?id=34042"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "it will be nice"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3 red 3
+red 3 red 3
+red 3 red 3
+0
+black 1
+black 2
+black 1
+black 4
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 4 black 4
+black 5
+0
+
+columns
+0
+red 3 black 2
+red 3 black 3
+red 3 black 1
+black 1
+black 3 black 2
+black 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2
+black 1
+red 3 black 1
+red 3 black 3
+red 3 black 2
+0

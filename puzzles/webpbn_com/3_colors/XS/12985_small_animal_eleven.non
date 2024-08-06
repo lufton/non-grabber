@@ -1,0 +1,36 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Mar 23, 2011"
+description "a skate. "ppppfffftttt" :-)"
+difficulty 1.0
+height 8
+id 12985
+link "https://webpbn.com/play.cgi?id=12985"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "small animal eleven"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 red 1 black 1
+black 3 red 1 black 1
+black 3 red 1 black 1
+black 1 black 1
+black 1
+black 7
+black 1 red 2 black 1 red 2 black 1
+black 1 red 2 black 1 red 2 black 1
+
+columns
+black 4 black 3
+black 3 black 1 red 2
+black 3 black 1 red 2
+red 3 black 3
+black 1 red 2
+black 1 red 2
+black 8

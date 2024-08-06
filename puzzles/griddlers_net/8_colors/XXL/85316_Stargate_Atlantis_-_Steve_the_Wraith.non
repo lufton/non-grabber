@@ -1,0 +1,125 @@
+by "Glucklich"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/12/09"
+height 50
+id 85316
+link "https://www.griddlers.net/nonogram/-/g/85316"
+medium_time "1:18:56"
+points 116336
+popularity 88.69
+title "Stargate Atlantis - Steve the Wraith"
+width 50
+
+color a 96bebf
+color b 03222b
+color c 346265
+color d 528080
+color e 6e686b
+color f 423b4a
+color g 5c6f47
+color h cce2e7
+
+rows
+b 5 d 1 c 13 d 3 c 6 d 2 c 1 d 2 b 12
+b 5 c 12 d 6 c 4 d 3 c 1 d 1 d 1 b 11
+b 4 c 11 d 6 d 2 c 2 d 3 c 1 d 1 d 1 b 11
+b 4 c 9 d 7 d 2 c 1 d 4 c 1 d 1 d 1 b 10
+b 4 c 10 d 6 d 1 c 2 d 3 c 1 h 1 d 1 d 2 b 10
+b 4 c 2 d 1 c 7 d 8 d 1 c 1 d 4 c 1 h 1 d 1 d 1 b 9
+b 4 c 2 d 1 c 9 d 5 d 6 c 1 h 1 d 1 d 1 b 9
+b 4 c 2 d 1 c 9 d 5 d 5 h 1 d 1 c 1 h 1 d 1 d 2 b 8
+b 4 b 1 c 1 d 1 c 11 d 2 d 2 h 2 d 2 c 1 h 1 d 1 d 1 b 8
+b 3 b 1 c 1 d 1 c 9 d 3 d 2 h 2 b 2 d 2 c 1 h 1 d 1 h 1 d 1 b 7
+b 3 b 1 c 1 d 2 c 6 d 4 d 1 b 2 d 2 c 3 h 1 d 1 h 1 d 1 b 7
+b 3 b 2 c 1 d 3 c 5 d 5 c 1 b 3 c 6 h 1 h 1 d 1 b 7
+b 3 h 1 b 4 c 1 d 3 c 6 d 2 c 3 b 3 c 2 d 4 c 1 h 1 h 1 d 1 h 1 b 6
+b 3 h 1 b 7 d 4 c 7 b 8 c 1 d 1 c 1 h 1 h 1 d 1 h 1 b 6
+b 3 h 1 b 11 d 1 c 4 b 5 g 1 b 2 d 2 c 2 h 1 h 1 d 1 h 1 b 5
+b 3 h 1 b 14 c 5 b 3 g 1 b 2 c 1 d 1 c 1 d 2 c 1 h 1 h 1 d 1 h 1 b 5
+b 3 h 1 b 4 c 2 b 9 c 1 c 2 b 3 c 1 d 2 c 1 d 3 c 1 h 1 h 1 d 1 h 1 b 5
+b 3 h 1 b 15 c 1 c 7 d 1 d 1 c 1 h 3 d 1 h 1 b 4
+b 3 h 1 c 1 b 5 g 1 b 8 c 1 h 1 c 2 d 1 c 1 h 1 d 2 c 1 h 3 d 1 h 1 b 4
+b 2 h 1 c 1 b 8 c 1 b 4 c 2 h 1 d 3 h 2 d 3 c 1 h 3 d 1 h 1 b 3
+b 2 h 1 b 5 c 3 b 1 c 6 h 2 d 7 c 2 h 3 d 1 h 2 b 3
+b 2 h 1 c 1 b 2 c 1 b 4 c 3 d 2 c 2 h 2 d 1 b 2 d 2 c 2 h 3 d 1 h 2 b 3
+b 2 h 1 c 1 b 2 d 1 c 6 d 3 c 2 h 2 d 2 c 1 b 2 c 2 h 3 d 1 h 2 b 2
+b 2 h 1 b 2 d 2 c 3 d 3 c 2 b 1 c 2 h 1 d 3 c 1 b 1 c 1 h 4 d 1 h 2 b 2
+b 2 h 2 c 1 b 1 c 2 d 3 b 2 d 1 c 1 b 2 c 2 d 1 c 4 c 2 h 4 d 1 h 3 b 1
+b 2 h 2 c 1 b 2 c 4 b 1 c 4 b 2 c 2 d 1 c 1 b 2 c 6 c 2 h 4 d 1 h 3 b 1
+b 2 h 2 c 1 b 3 c 2 b 2 c 4 b 3 c 2 b 1 c 1 c 2 c 2 h 4 d 1 h 3 b 1
+b 2 h 2 c 1 b 2 c 1 b 2 c 3 b 7 c 1 d 1 h 2 f 1 e 1 c 2 c 2 h 4 d 1 h 3
+b 2 h 3 c 1 b 5 c 2 b 3 c 4 d 2 f 4 b 1 e 1 d 1 c 1 c 2 h 4 d 1 h 3
+b 2 h 3 c 2 b 4 c 1 d 1 b 2 c 2 f 5 b 4 e 1 d 1 c 1 c 2 h 4 d 1 h 4
+b 2 h 4 c 2 b 4 c 1 d 1 b 2 f 2 b 7 e 2 d 2 c 1 c 2 h 4 d 1 h 4
+b 2 h 4 c 2 b 3 c 1 d 1 b 9 e 2 d 3 c 2 h 4 d 1 h 4
+b 2 h 4 c 2 b 3 c 2 d 1 b 5 f 1 e 2 d 4 c 3 h 4 d 1 h 4
+b 2 h 4 c 1 d 1 c 1 b 3 c 2 d 1 b 1 c 4 d 9 c 3 h 4 d 1 h 4
+b 2 h 4 c 1 d 1 c 1 b 3 c 2 d 1 b 2 c 3 d 4 c 2 h 2 d 2 c 3 h 4 d 1 h 4
+b 2 h 4 c 1 d 2 c 1 b 3 c 2 d 1 b 3 c 2 d 1 c 3 d 2 h 2 d 1 c 3 h 4 b 1 h 4
+b 1 h 5 c 1 d 1 c 1 b 3 c 3 d 1 b 1 b 2 c 3 d 3 h 2 c 3 b 1 h 4 b 1 h 4
+b 1 h 5 c 1 d 1 d 1 b 4 c 4 c 1 b 1 c 1 d 6 h 1 c 2 b 2 h 4 b 1 h 5
+b 1 h 5 c 1 d 1 d 1 b 5 c 2 c 3 d 5 c 1 h 1 c 1 b 2 c 1 h 4 b 1 h 5
+b 1 h 5 c 1 b 7 c 1 h 1 c 4 d 2 c 3 h 1 b 3 c 1 h 5 b 1 h 5
+b 1 h 5 c 1 c 1 b 8 h 1 c 8 b 1 h 1 b 2 c 2 h 5 b 1 h 5
+b 1 h 5 c 1 b 9 h 2 b 1 c 5 b 3 h 1 b 2 c 2 h 5 b 1 h 6
+b 1 h 5 c 1 b 10 h 1 b 9 h 1 b 1 c 2 d 1 h 2 h 2 b 1 h 6
+b 1 h 5 c 1 b 11 h 2 b 8 h 2 c 2 d 1 h 2 h 2 b 1 h 5
+b 1 h 5 c 1 f 1 b 10 h 2 b 7 c 2 h 1 c 1 d 2 h 2 h 2 b 1 h 5
+b 1 h 5 c 1 e 1 b 11 h 1 b 6 c 3 e 1 c 1 d 1 b 1 h 2 b 1 h 2 b 1 h 6
+b 1 h 5 c 1 f 1 b 11 e 1 b 6 c 3 d 1 c 1 d 1 b 1 h 2 b 1 h 2 b 1 h 6
+b 1 h 5 c 1 b 13 e 1 b 4 c 4 f 1 c 1 b 2 h 2 b 1 h 2 b 1 h 6
+h 5 c 1 b 12 f 1 b 4 c 4 h 1 c 1 b 2 h 2 b 1 h 2 b 1 h 6
+h 5 c 1 b 12 h 1 b 4 c 4 h 1 b 3 h 2 b 1 h 2 b 1 h 6
+
+columns
+b 48
+b 36 h 14
+b 19 h 22
+b 9 h 26
+b 2 h 38
+h 20
+c 3 b 10 c 2
+d 1 c 10 b 10 c 2
+c 5 d 6 c 1 b 12 c 3
+c 10 d 2 b 15 c 4
+c 11 d 1 c 1 b 3 c 1 b 4 c 1 d 2 c 1 b 4 c 21
+c 11 d 2 b 3 c 1 b 5 c 1 d 1 c 2 b 5 c 2 d 6 b 1 f 1 e 1 f 1 b 1
+c 12 d 1 b 5 g 1 b 1 c 1 b 1 c 2 d 1 c 3 b 5 c 2 d 1 c 1 b 9
+c 12 d 2 b 6 c 1 b 1 c 2 d 1 c 2 b 8 c 2 d 2 b 11
+c 13 d 1 b 6 c 1 b 1 c 2 d 1 c 1 b 24
+c 13 d 1 b 5 c 1 b 1 c 2 d 1 b 3 c 6 b 17
+c 3 d 1 c 1 d 1 c 4 d 1 c 2 d 1 b 6 c 3 d 1 b 1 c 4 d 3 c 3 b 15
+c 3 d 3 c 4 d 2 c 2 d 1 b 5 c 2 d 3 c 3 b 4 d 1 c 4 b 13
+c 2 d 6 c 1 d 3 c 2 b 5 c 1 d 2 c 4 b 6 d 2 c 3 b 12
+c 1 d 7 c 1 d 3 c 2 b 5 c 1 d 2 c 1 b 1 c 2 b 2 c 1 f 1 b 4 d 1 c 3 b 11
+c 1 d 9 d 2 c 3 b 3 c 4 b 5 c 2 f 1 b 2 c 1 b 2 d 1 c 3 b 10
+d 9 d 2 c 12 b 3 c 1 f 1 b 3 c 2 b 2 c 1 h 3 b 8
+d 8 c 4 c 3 b 2 c 1 f 1 b 3 c 2 b 1 h 4 b 5
+d 3 d 1 c 4 h 5 c 2 b 1 c 1 f 1 b 2 f 1 c 3 b 1 c 4 b 2 h 3 e 1 b 3
+c 1 d 1 c 2 c 2 h 4 d 2 c 1 b 1 d 1 f 1 b 2 e 1 d 2 c 1 b 2 c 4 b 5 e 1 f 1 h 1
+c 2 d 1 d 2 d 1 b 3 c 3 c 1 b 1 c 1 d 1 f 1 b 2 e 1 d 3 c 6 b 8
+c 2 d 6 d 1 b 5 c 2 d 1 b 1 c 1 d 1 f 1 b 2 e 1 d 2 c 2 d 2 c 3 b 8
+c 3 d 1 c 2 d 4 b 6 c 1 d 2 d 2 b 1 h 1 f 1 b 2 e 1 d 2 c 2 d 3 c 2 b 8
+c 5 d 4 h 1 b 4 g 1 b 1 c 2 d 2 d 1 c 1 h 1 f 1 b 1 e 1 d 2 c 2 d 4 c 2 b 8
+c 1 d 7 h 2 b 2 c 1 b 3 c 2 d 2 d 1 c 2 f 1 b 1 e 1 d 2 c 1 d 4 c 2 b 6 c 3
+d 7 h 2 b 1 c 2 b 1 g 1 b 1 d 1 c 1 d 2 c 2 f 1 b 1 e 1 d 3 h 1 d 4 c 2 b 4 c 5
+d 6 b 1 d 1 c 1 d 1 b 2 c 1 d 1 c 1 h 1 d 1 b 1 c 2 e 2 d 4 h 3 d 1 c 2 b 4 c 6
+c 3 d 1 d 1 b 1 d 1 c 1 d 1 b 2 d 1 c 1 d 1 h 1 d 1 b 1 c 1 c 4 d 4 d 2 h 9 c 6
+c 3 d 3 c 2 d 1 c 1 d 1 c 1 d 1 h 1 d 3 b 1 c 6 d 2 c 3 b 4 h 2 e 1 d 1 f 1 h 2
+d 3 h 2 c 3 d 1 c 2 d 5 d 4 b 1 c 1 c 6 b 4 c 7 b 1
+d 1 d 3 h 3 c 6 d 5 c 3 b 1 c 13 b 3 c 4 d 3 b 3
+d 1 d 3 h 5 c 22 b 2 c 4 d 3 b 5
+d 3 d 2 h 36
+b 1 d 4 h 5 h 33
+b 3 d 3 h 28 b 5
+b 5 d 5 h 27
+b 7 h 3 d 18 h 11
+b 9 h 18 d 2 b 12
+b 12 h 23 b 3
+b 14 h 26
+b 17 h 21
+b 19 h 17
+b 22 h 13
+b 24 h 9
+b 27 h 5

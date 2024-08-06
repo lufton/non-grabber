@@ -1,0 +1,51 @@
+by "Kristen Vognild (Kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kristen Vognild"
+date "Jun 18, 2012"
+description "Pretend those are 5-pointed stars, and that's a gold eagle and belt. :)"
+difficulty 1.5
+height 15
+id 19042
+link "https://webpbn.com/play.cgi?id=19042"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "WCP #111 - One for the ladies (kind of)"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4 black 4
+black 2 black 3 black 2
+black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 5 black 5
+black 4 black 4
+black 3 black 3
+0
+blue 9
+blue 2 blue 5 blue 2
+blue 2 blue 3 blue 2
+blue 3 blue 2 blue 2 blue 3
+blue 5 blue 5
+blue 4 blue 4
+blue 7
+
+columns
+0
+blue 3
+black 4 blue 4
+black 2 black 2 blue 2 blue 3
+black 1 black 4 blue 1 blue 3
+black 1 black 4 blue 2 blue 4
+black 2 black 3 blue 4 blue 2
+black 2 blue 3 blue 1
+black 2 black 3 blue 4 blue 2
+black 1 black 4 blue 2 blue 4
+black 1 black 4 blue 1 blue 3
+black 2 black 2 blue 2 blue 3
+black 4 blue 4
+blue 3
+0

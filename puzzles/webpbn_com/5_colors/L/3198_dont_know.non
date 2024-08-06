@@ -1,0 +1,83 @@
+by "person harris (games1793)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by person harris"
+date "Aug  1, 2008"
+description "i don't know by a 10 year old"
+difficulty 2.5
+height 30
+id 3198
+link "https://webpbn.com/play.cgi?id=3198"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "don't know"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5 blue 5 blue 4 green 1
+black 3 blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 green 1
+black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 green 1
+black 3 blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 green 1
+blue 5 blue 5 green 5
+blue 5 blue 5 blue 4 green 1
+blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3
+blue 1 red 1 blue 1 black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 green 1 black 3
+blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3
+blue 5 blue 5 green 5
+blue 5 blue 4 green 1 green 5
+black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1
+black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 green 1 black 3 green 1 red 1 green 1
+black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1
+blue 5 green 5 green 5
+blue 5 blue 4 green 1 green 5
+blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1 black 3
+blue 1 red 1 blue 1 black 3 blue 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3
+blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1 black 3
+blue 5 green 5 green 5
+blue 4 green 1 green 5 green 5
+black 3 blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1
+black 3 blue 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3 green 1 red 1 green 1
+black 3 blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1
+green 5 green 5 green 5
+blue 4 green 1 green 5 green 5
+blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1 black 3
+blue 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3
+blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1 black 3
+blue 4 green 1 green 5 green 5
+
+columns
+blue 5 blue 5 blue 5
+black 3 blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 blue 1
+black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 blue 1
+black 3 blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 blue 1
+blue 5 blue 5 green 5
+blue 5 blue 5 blue 4 green 1
+blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3
+blue 1 red 1 blue 1 black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 green 1 black 3
+blue 1 blue 1 black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3
+blue 5 blue 5 green 5
+blue 5 blue 4 green 1 green 5
+black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1
+black 3 blue 1 red 1 blue 1 black 3 blue 1 red 1 green 1 black 3 green 1 red 1 green 1
+black 3 blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1
+blue 5 green 5 green 5
+blue 5 blue 4 green 1 green 5
+blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1 black 3
+blue 1 red 1 blue 1 black 3 blue 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3
+blue 1 blue 1 black 3 blue 1 green 1 black 3 green 1 green 1 black 3
+blue 5 green 5 green 5
+blue 4 green 1 green 5 green 5
+black 3 blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1
+black 3 blue 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3 green 1 red 1 green 1
+black 3 blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1
+green 5 green 5 green 5
+blue 4 green 1 green 5 green 5
+blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1 black 3
+blue 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3 green 1 red 1 green 1 black 3
+blue 1 green 1 black 3 green 1 green 1 black 3 green 1 green 1 black 3
+green 5 green 5 green 5

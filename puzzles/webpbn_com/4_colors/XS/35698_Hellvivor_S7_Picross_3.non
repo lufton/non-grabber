@@ -1,0 +1,42 @@
+by "Tyon Fupa (tyonfupa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Tyon Fupa"
+date "May 31, 2022"
+description "Hellvivor S7 Picross 3"
+difficulty 2.25
+height 10
+id 35698
+link "https://webpbn.com/play.cgi?id=35698"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Hellvivor S7 Picross 3"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 1 red 5
+red 1 black 1 red 2 black 1 red 1
+black 1 black 2 red 1
+black 1 black 1 red 1 black 1 red 1
+black 2 black 1 red 1
+black 4 black 1 red 2
+blue 2 red 1 black 1 black 2 red 1
+blue 1 red 2 black 1 black 1 red 1
+
+columns
+blue 2
+red 2 black 2 blue 1
+red 1 red 1 black 1 black 2 red 1
+black 1 black 1 red 2
+black 2 red 1 black 3
+black 1 red 2 black 1 black 1
+red 1 black 1 red 1
+black 2 red 1 black 6
+red 6 black 2
+red 3 red 3

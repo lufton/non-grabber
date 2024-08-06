@@ -1,0 +1,50 @@
+by "David E. (dvdllr)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by David E."
+date "Jul  1, 2017"
+description "Pepsi can."
+difficulty 1.5
+height 16
+id 29959
+link "https://webpbn.com/play.cgi?id=29959"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Cola"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 12
+black 1 black 1
+black 1 black 1
+black 1 blue 5 blue 2 black 1
+black 1 blue 5 blue 1 blue 1 black 1
+black 1 blue 5 blue 2 black 1
+black 1 blue 5 blue 1 black 1
+black 1 black 1
+black 1 red 2 black 1
+black 1 red 3 black 1
+black 1 red 5 red 1 blue 2 black 1
+black 1 red 5 blue 3 black 1
+black 1 red 5 blue 2 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 10
+
+columns
+black 1 black 13
+black 2 blue 4 red 4 black 1
+black 1 blue 4 red 4 black 1
+black 1 blue 4 red 4 black 1
+black 1 blue 4 red 4 black 1
+black 1 blue 4 red 4 black 1
+black 1 black 1
+black 1 black 1
+black 1 blue 4 red 2 blue 1 black 1
+black 1 blue 1 blue 1 red 2 blue 3 black 1
+black 2 blue 1 red 2 blue 3 black 1
+black 1 black 13

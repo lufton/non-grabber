@@ -1,0 +1,63 @@
+by "Jonah Anderson (Awesomeness)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jonah Anderson"
+date "Jul 27, 2011"
+description ""
+difficulty 1.25
+height 20
+id 15329
+link "https://webpbn.com/play.cgi?id=15329"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Happy"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 blue 2 blue 4
+blue 20
+blue 6 red 1 blue 6 red 1 blue 6
+blue 6 red 1 blue 6 red 1 blue 6
+blue 6 red 1 blue 6 red 1 blue 6
+blue 6 red 1 blue 6 red 1 blue 6
+blue 6 red 1 blue 6 red 1 blue 6
+blue 6 red 1 blue 6 red 1 blue 6
+blue 6 red 1 blue 6 red 1 blue 6
+blue 6 red 1 blue 6 red 1 blue 6
+blue 20
+green 1 blue 2 green 1 blue 4 black 1 blue 2 black 1 blue 4 green 1 blue 2 green 1
+blue 1 green 2 blue 5 black 1 blue 2 black 1 blue 5 green 2 blue 1
+blue 1 green 2 blue 14 green 2 blue 1
+blue 2 green 1 blue 14 green 1 blue 2
+blue 2 green 2 blue 12 green 2 blue 2
+blue 3 green 2 blue 10 green 2 blue 3
+blue 4 green 12 blue 4
+blue 20
+blue 20
+
+columns
+blue 11 green 1 blue 8
+blue 12 green 2 blue 6
+blue 12 green 4 blue 4
+blue 10 green 1 blue 3 green 2 blue 3
+blue 15 green 2 blue 2
+blue 16 green 1 blue 2
+blue 1 red 8 blue 7 green 1 blue 2
+blue 16 green 1 blue 2
+blue 10 black 2 blue 4 green 1 blue 2
+blue 17 green 1 blue 2
+blue 17 green 1 blue 2
+blue 10 black 2 blue 4 green 1 blue 2
+blue 16 green 1 blue 2
+blue 1 red 8 blue 7 green 1 blue 2
+blue 16 green 1 blue 2
+blue 15 green 2 blue 2
+blue 11 green 1 blue 3 green 2 blue 3
+blue 12 green 4 blue 4
+blue 12 green 2 blue 6
+blue 11 green 1 blue 8

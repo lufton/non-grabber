@@ -1,0 +1,92 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Sep  1, 2012"
+description "I mean hedgehog, sorry..."
+difficulty 2.5
+height 40
+id 19684
+link "https://webpbn.com/play.cgi?id=19684"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "bush pig..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 8
+blue 14 blue 1
+blue 18 blue 2
+blue 10 red 1 blue 10
+blue 7 black 1 red 2 blue 9
+blue 4 black 1 red 3 blue 8
+blue 3 black 2 blue 10
+blue 16
+blue 19
+blue 13 blue 6
+blue 13 blue 5
+blue 14 black 1 blue 3 black 1
+blue 14 black 2 blue 2 black 1
+blue 10 black 2 blue 1 black 2
+blue 9 black 2 black 1
+blue 7 black 1 red 2 blue 1 black 1 blue 2
+blue 8 black 1 red 9 blue 3
+blue 9 black 1 red 9
+blue 10 black 1 red 6 black 1
+blue 12 black 6 blue 2
+blue 16
+blue 3 red 4 blue 1 black 1 red 2 black 1 blue 1
+blue 2 red 5 blue 1 black 1 red 4 black 1
+blue 1 red 3 blue 4 black 1 red 4 black 1
+blue 2 red 2 blue 5 black 2 red 2 black 1
+blue 2 red 1 black 2 blue 3 black 3
+blue 2 black 1 blue 5
+blue 3 black 1 blue 2 black 1 blue 1
+blue 1 black 2 blue 2 blue 2
+black 1 blue 2 blue 2
+black 1 blue 3 blue 2
+black 1 blue 2 black 3 blue 2
+black 1 blue 2 black 2 blue 2 black 2
+black 1 black 1 black 4
+red 2 red 2 black 2 red 2 black 1
+red 6 black 3 red 4
+red 5 red 4 black 2 red 6
+red 4 red 8 black 3 red 4
+red 3 red 12 black 1 red 4
+red 2 red 14 black 1 red 3
+
+columns
+blue 2
+blue 2 blue 3 blue 1
+blue 2 blue 4 blue 3
+blue 4 blue 4 blue 4
+blue 4 blue 6 blue 4
+blue 4 blue 6 blue 6
+blue 6 blue 14 blue 5
+blue 21 blue 6 red 4
+blue 23 red 3 blue 1 red 6
+blue 22 red 3 black 3 black 2 red 5
+blue 4 black 3 blue 15 red 2 blue 1 black 2 black 1 black 2 red 3
+blue 3 red 3 black 1 blue 9 black 2 blue 3 red 2 blue 2 black 1 blue 3 red 2
+blue 4 red 2 blue 9 black 1 red 2 black 1 blue 2 red 2 blue 2 blue 4 red 1 red 1
+blue 5 red 1 blue 9 red 4 black 1 blue 1 red 2 blue 3 blue 3 black 1 red 2 red 2
+blue 9 blue 1 red 4 black 1 blue 1 red 1 blue 7 black 3 red 1 red 3
+blue 8 blue 1 red 3 black 1 blue 2 black 3 blue 3 black 2 black 1 red 3
+blue 8 red 3 black 1 blue 1 black 1 red 2 black 2 blue 1 black 1 blue 5 black 1 red 4
+blue 8 red 3 black 1 blue 1 red 4 black 1 blue 7 black 1 red 4
+blue 9 black 4 red 3 black 1 blue 1 red 4 black 1 blue 1 black 1 black 1 red 4
+blue 9 black 3 red 2 black 1 blue 2 black 1 red 2 black 1 black 2 red 1 black 1 red 4
+blue 12 black 1 red 2 blue 3 black 2 black 1 red 1 black 1 red 3
+blue 12 black 2 blue 2 black 1 black 1 red 3
+blue 3 black 3 blue 2 black 1 red 2 black 1 red 2
+blue 1 black 1 red 2 black 1 red 2
+red 2 black 1 red 2
+red 3 black 1 red 1
+red 3 black 1
+red 4
+red 3
+red 2

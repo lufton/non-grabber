@@ -1,0 +1,91 @@
+by "Ashley jacob (rule23)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Ashley jacob"
+date "Feb 21, 2008"
+description "The puzzle speaks for itself, but the back story is that the Chicago Cubs have not won a world series in 100 years! And all us Cub fans believe that this is the year!"
+difficulty 1.5
+height 30
+id 2319
+link "https://webpbn.com/play.cgi?id=2319"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Its Gonna Happen, 100 Years in the Making"
+width 40
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 40
+blue 40
+blue 40
+blue 1 blue 6 black 18 blue 10
+blue 5 blue 5 black 20 blue 9
+blue 1 blue 4 black 21 blue 9
+blue 1 blue 8 black 4 blue 14 black 3 blue 9
+blue 1 blue 4 black 4 blue 14 black 3 blue 9
+blue 10 black 4 blue 14 black 3 blue 9
+blue 2 blue 5 black 4 blue 26
+blue 1 blue 3 blue 4 black 4 blue 2 black 2 blue 2 black 2 blue 2 black 5 blue 3 black 6 blue 2
+blue 1 blue 3 blue 4 black 4 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 6
+blue 1 blue 3 blue 4 black 4 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 6
+blue 1 blue 3 blue 4 black 4 blue 2 black 2 blue 2 black 2 blue 2 black 6 blue 2 black 6 blue 2
+blue 2 blue 5 black 4 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 2 black 2 blue 6 black 2 blue 2
+blue 10 black 4 blue 2 black 6 blue 2 black 2 blue 2 black 2 blue 6 black 2 blue 2
+blue 2 blue 5 black 4 blue 2 black 6 blue 2 black 5 blue 3 black 6 blue 2
+blue 1 blue 3 blue 4 black 4 blue 26
+blue 1 blue 3 blue 4 black 4 blue 14 black 3 blue 9
+blue 1 blue 3 blue 4 black 4 blue 14 black 3 blue 9
+blue 1 blue 3 blue 4 black 4 blue 14 black 3 blue 9
+blue 2 blue 5 black 21 blue 9
+blue 11 black 20 blue 9
+blue 1 blue 6 black 18 blue 10
+blue 1 blue 3 blue 34
+blue 1 blue 3 blue 1 blue 1 blue 2 blue 2 blue 3 blue 1 blue 1 blue 2 blue 2
+blue 1 blue 3 blue 3 blue 3 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 4 blue 2
+blue 1 blue 3 blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 blue 2
+blue 9 blue 3 blue 1 blue 1 blue 2 blue 1 blue 3 blue 1 blue 5 blue 5
+blue 9 blue 1 blue 1 blue 1 blue 2 blue 1 blue 3 blue 1 blue 3 blue 2 blue 2
+
+columns
+blue 30
+blue 3 blue 1 blue 2 blue 3 blue 2 blue 2
+blue 3 blue 1 blue 1 blue 1 blue 4 blue 1 blue 4 blue 1 blue 1 blue 1 blue 2
+blue 3 blue 1 blue 1 blue 1 blue 4 blue 1 blue 4 blue 1 blue 1 blue 1 blue 2
+blue 3 blue 1 blue 1 blue 1 blue 4 blue 1 blue 4 blue 1 blue 1 blue 1 blue 2
+blue 3 blue 1 blue 2 blue 3 blue 2 blue 2
+blue 30
+blue 30
+blue 30
+blue 25
+blue 5 black 17 blue 3 blue 3
+blue 4 black 19 blue 2 blue 3
+blue 3 black 21 blue 6
+blue 3 black 21 blue 1
+blue 3 black 3 blue 15 black 3 blue 3 blue 2
+blue 3 black 3 blue 15 black 3 blue 1
+blue 3 black 3 blue 4 black 7 blue 4 black 3 blue 6
+blue 3 black 3 blue 4 black 7 blue 4 black 3 blue 2
+blue 3 black 3 blue 9 black 2 blue 4 black 3 blue 1 blue 1 blue 2
+blue 3 black 3 blue 9 black 2 blue 4 black 3 blue 1 blue 1 blue 2
+blue 3 black 3 blue 4 black 7 blue 4 black 3 blue 2
+blue 3 black 3 blue 4 black 7 blue 4 black 3 blue 6
+blue 3 black 3 blue 15 black 3 blue 1
+blue 3 black 3 blue 15 black 3 blue 2 blue 3
+blue 3 black 3 blue 4 black 7 blue 4 black 3 blue 3 blue 2
+blue 3 black 3 blue 4 black 7 blue 4 black 3 blue 2 blue 3
+blue 3 black 3 blue 4 black 1 blue 2 black 1 blue 2 black 1 blue 4 black 3 blue 1
+blue 3 black 3 blue 4 black 1 blue 2 black 1 blue 2 black 1 blue 4 black 3 blue 6
+blue 3 black 6 blue 1 black 7 blue 1 black 6 blue 1
+blue 3 black 6 blue 2 black 5 blue 2 black 6 blue 1 blue 1 blue 2
+blue 4 black 5 blue 9 black 5 blue 2 blue 2
+blue 30
+blue 10 black 4 blue 2 black 1 blue 8 blue 1
+blue 10 black 4 blue 2 black 1 blue 8 blue 1 blue 1
+blue 10 black 1 blue 2 black 1 blue 2 black 1 blue 8 blue 1
+blue 10 black 1 blue 2 black 1 blue 2 black 1 blue 13
+blue 10 black 1 blue 2 black 4 blue 13
+blue 10 black 1 blue 2 black 4 blue 8 blue 1
+blue 30
+blue 30

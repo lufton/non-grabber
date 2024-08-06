@@ -1,0 +1,31 @@
+by "Joel Lynn (furface1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joel Lynn"
+date "Dec 14, 2010"
+description "just a design"
+difficulty 1.25
+height 5
+id 11377
+link "https://webpbn.com/play.cgi?id=11377"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "my quilt square"
+width 5
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 blue 1
+
+columns
+blue 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 blue 1

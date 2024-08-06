@@ -1,0 +1,62 @@
+by "harley (moyo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by harley"
+date "Mar 25, 2011"
+description ""
+difficulty 1.5
+height 20
+id 13011
+link "https://webpbn.com/play.cgi?id=13011"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "pepsi symbal"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5 red 10 black 3
+black 4 red 12 black 2
+black 3 red 14 black 1
+black 2 red 16
+black 1 red 18
+red 17
+red 15
+red 13
+red 11
+red 9 blue 1
+red 8 blue 2
+red 7 blue 3
+red 6 blue 4
+blue 5
+blue 1 blue 6
+blue 3 blue 8
+blue 18
+black 1 blue 17 black 1
+black 1 blue 15 black 2
+black 2 blue 13 black 3
+
+columns
+black 5 red 7 blue 2 black 3
+black 4 red 8 blue 3 black 1
+black 3 red 9 blue 4
+black 2 red 10 blue 4
+black 1 red 11 blue 4
+red 12 blue 4
+red 12 blue 4
+red 11 blue 4
+red 10 blue 4
+red 9 blue 4
+red 9 blue 4
+red 8 blue 4
+red 8 blue 5
+red 7 blue 5
+red 7 blue 6
+red 6 blue 7
+red 5 blue 7
+black 1 red 4 blue 7 black 1
+black 2 red 2 blue 7 black 2
+black 3 red 1 blue 7 black 3

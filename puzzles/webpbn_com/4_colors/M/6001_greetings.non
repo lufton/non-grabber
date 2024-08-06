@@ -1,0 +1,62 @@
+by "hayley ireland (hayley88)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by hayley ireland"
+date "Jul 25, 2009"
+description "really its my initials"
+difficulty 1.25
+height 20
+id 6001
+link "https://webpbn.com/play.cgi?id=6001"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "greetings"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 blue 1 black 1 black 1 blue 1 green 12
+green 2 blue 1 black 1 black 1 blue 1 green 12
+green 2 blue 1 black 1 black 1 blue 1 green 2 blue 4 green 2 blue 4
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 3 blue 1 green 2 blue 1 black 3
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 4 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 6 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 10 black 1 blue 1 green 2 blue 1 black 1
+green 10 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 6 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 4 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 1 blue 1 green 2 blue 1 black 1
+green 2 blue 1 black 1 black 1 blue 1 green 2 black 3 blue 1 green 2 blue 1 black 3
+green 2 blue 1 black 1 black 1 blue 1 green 2 blue 4 green 2 blue 4
+green 2 blue 1 black 1 black 1 blue 1 green 12
+green 2 blue 1 black 1 black 1 blue 1 green 12
+
+columns
+green 20
+green 20
+blue 9 green 2 blue 9
+black 8 blue 1 green 2 blue 1 black 8
+black 1 blue 1 green 2 blue 1 black 1
+black 1 blue 1 green 2 blue 1 black 1
+black 8 blue 1 green 2 blue 1 black 8
+blue 9 green 2 blue 9
+green 20
+green 20
+green 2 blue 1 black 1 black 1 blue 1 green 2
+green 2 blue 1 black 1 black 1 blue 1 green 2
+green 2 blue 1 black 14 blue 1 green 2
+green 2 blue 16 green 2
+green 20
+green 20
+green 2 blue 16 green 2
+green 2 blue 1 black 14 blue 1 green 2
+green 2 blue 1 black 1 black 1 blue 1 green 2
+green 2 blue 1 black 1 black 1 blue 1 green 2

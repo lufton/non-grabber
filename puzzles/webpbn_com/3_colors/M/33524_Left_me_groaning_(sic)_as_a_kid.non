@@ -1,0 +1,66 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Andrew Schultz"
+date "Jan 23, 2020"
+description "Little Bongo from Matt Groening's "Life in Hell" strip. I'm so old, I remember when the Life in Hell guy was called up to write a weekly cartoon show for Fox. What was it called again? Oh, that's right. The Simpsons."
+difficulty 3.0
+height 25
+id 33524
+link "https://webpbn.com/play.cgi?id=33524"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Left me groaning (sic) as a kid"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 4 black 4
+black 2 blue 3 blue 3 black 2
+black 1 blue 2 blue 2 blue 2 blue 2 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 2 black 1 blue 1 black 2 blue 2 black 1 blue 1 black 1
+black 2 blue 3 black 1 blue 3 black 1
+black 1 black 1 black 2
+black 1 black 4 black 1
+black 2 black 1
+black 1 black 11
+black 2 black 2 blue 1 blue 1 blue 1 black 1
+black 2 black 1 blue 7
+black 3 black 1
+black 11
+
+columns
+black 4
+black 5 black 3
+black 2 black 2
+black 1 blue 3 black 2
+black 3 black 1 blue 2 blue 2 black 1
+black 1 black 3 black 2 blue 1 blue 1 black 2
+black 1 black 6 blue 2 black 1 blue 1 black 1
+black 1 blue 3 black 1 black 2 black 1
+black 1 black 1 black 1 black 2 black 1
+black 3 black 2 black 1 black 1 black 1
+black 3 blue 3 black 2 black 1 black 1
+black 6 blue 2 blue 2 black 1 blue 2 black 1
+black 2 blue 1 blue 1 black 1 blue 1 black 1
+black 1 blue 2 black 1 blue 1 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 2 black 1
+black 2 black 1 blue 1 black 1
+black 6 black 1 blue 1 black 1
+black 2 black 1 blue 2
+black 3
+0

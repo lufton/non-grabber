@@ -1,0 +1,63 @@
+by "Maggie Johns (Magginni)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Maggie Johns"
+date "Aug  6, 2011"
+description "Monopoly. My brother is always asking one of my sisters to play (we never say yes). Someone should make a better Monopoly puzzle. No one probably knew what it was 'til they read this."
+difficulty 1.5
+height 20
+id 15463
+link "https://webpbn.com/play.cgi?id=15463"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Games #1 (if you pass go, collect $200)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 20
+black 1 red 3 blue 2 black 1 blue 2 black 2 red 2 black 1 red 2 blue 3 black 1
+black 1 red 3 blue 2 black 1 blue 2 black 2 red 2 black 1 red 2 blue 3 black 1
+black 1 red 3 blue 3 black 1
+black 1 green 2 red 2 black 1
+black 1 green 2 red 2 red 2 black 1
+black 3 red 2 red 2 black 1
+black 3 red 2 black 3
+black 1 green 2 black 3
+black 1 green 2 red 2 black 1
+black 3 red 2 black 1
+black 3 blue 2 black 1
+black 1 green 2 blue 2 blue 2 black 1
+black 1 green 2 blue 2 black 3
+black 1 green 2 blue 2 blue 2 black 1
+black 1 green 2 blue 2 black 1
+black 1 blue 3 red 3 black 1
+black 1 blue 3 green 2 black 2 green 2 black 2 green 4 red 3 black 1
+black 1 blue 3 green 2 black 2 green 2 black 2 green 4 red 3 black 1
+black 20
+
+columns
+black 20
+black 1 red 3 green 2 black 2 green 2 black 2 green 4 blue 3 black 1
+black 1 red 3 green 2 black 2 green 2 black 2 green 4 blue 3 black 1
+black 1 red 3 blue 3 black 1
+black 1 blue 2 green 2 black 1
+black 1 blue 2 red 3 green 2 black 1
+black 3 red 3 black 3
+black 1 blue 2 black 3
+black 1 blue 2 green 2 black 1
+black 3 green 2 black 1
+black 3 black 3
+black 1 red 2 black 3
+black 1 red 2 green 2 black 1
+black 3 green 2 black 1
+black 1 red 2 blue 3 green 2 black 1
+black 1 red 2 blue 3 green 2 black 1
+black 1 blue 3 red 3 black 1
+black 1 blue 3 red 3 black 2 red 2 blue 2 black 1 blue 2 red 3 black 1
+black 1 blue 3 red 3 black 2 red 2 blue 2 black 1 blue 2 red 3 black 1
+black 20

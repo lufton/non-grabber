@@ -1,0 +1,42 @@
+by "AliceMagdalena"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/9/23"
+height 11
+id 275512
+link "https://www.griddlers.net/nonogram/-/g/275512"
+medium_time "0:00:47"
+points 258
+popularity 79.23
+title "Beer"
+width 10
+
+color a c98c00
+color b 000000
+color c ffffff
+color d f4f400
+
+rows
+c 2
+c 4
+c 6
+b 1 c 4 b 1
+b 1 d 1 c 2 d 1 b 1
+b 4 d 4 b 1
+b 1 b 1 d 4 b 1
+b 1 b 1 d 4 b 1
+b 4 d 4 b 1
+b 1 d 4 b 1
+b 6
+
+columns
+b 4
+b 1 b 1
+b 1 b 1
+c 1 b 8
+c 3 d 6 b 1
+c 5 d 5 b 1
+c 5 d 5 b 1
+c 3 d 6 b 1
+c 1 b 8
+0

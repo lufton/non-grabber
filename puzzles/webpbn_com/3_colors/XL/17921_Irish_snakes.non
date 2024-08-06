@@ -1,0 +1,95 @@
+by "Ben Kimball (zubin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Ben Kimball"
+date "Mar 14, 2012"
+description "A Celtic knot. Hopefully solving it didn't tie your brain in knots! (Confession: I was unable to solve this puzzle, but the computer said it didn't require guessing.)"
+difficulty 3.0
+height 25
+id 17921
+link "https://webpbn.com/play.cgi?id=17921"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Irish snakes?"
+width 49
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 2 black 3 black 3 black 2
+black 2 green 2 black 2 black 2 green 3 black 2 black 2 green 3 black 2 black 2 green 2 black 2
+black 1 green 6 black 2 black 1 green 7 black 1 black 1 green 7 black 1 black 2 green 6 black 1
+black 1 green 2 black 2 green 4 black 2 black 1 green 3 black 3 green 3 black 1 black 1 green 3 black 3 green 3 black 1 black 2 green 4 black 2 green 2 black 1
+black 1 green 2 black 1 black 2 green 4 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 4 black 2 black 1 green 2 black 1
+black 1 green 2 black 1 black 2 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 2 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 2 black 1
+black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1
+black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1
+black 1 green 2 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 2 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 2 black 1 green 2 black 1
+black 1 green 2 black 1 black 2 green 4 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 4 black 2 black 1 green 2 black 1
+black 1 green 2 black 2 green 4 black 2 black 1 green 3 black 3 green 3 black 1 black 1 green 3 black 3 green 3 black 1 black 2 green 4 black 2 green 2 black 1
+black 1 green 6 black 2 black 1 green 7 black 1 black 1 green 7 black 1 black 2 green 6 black 1
+black 2 green 2 black 2 black 2 green 3 black 2 black 2 green 3 black 2 black 2 green 2 black 2
+black 2 black 3 black 3 black 2
+
+columns
+black 2 black 2
+black 2 green 2 black 2 black 2 green 2 black 2
+black 1 green 6 black 2 black 2 green 6 black 1
+black 1 green 2 black 2 green 4 black 2 black 2 green 4 black 2 green 2 black 1
+black 1 green 2 black 1 black 2 green 4 black 1 green 4 black 2 black 1 green 2 black 1
+black 1 green 2 black 1 black 2 green 1 black 1 green 3 black 2 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 green 3 black 1 black 1 green 3 black 1 green 2 black 1
+black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1
+black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1
+black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1
+black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1
+black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1
+black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 1 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 3 black 1 green 3 black 1 black 1 green 3 black 1 green 3 black 1
+black 1 green 3 black 1 green 1 black 1 black 1 green 3 black 1 green 1 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 1 black 1 green 3 black 1 black 1 green 1 black 1 green 3 black 1
+black 1 green 2 black 1 green 3 black 1 black 1 green 3 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 1 green 3 black 1 black 1 green 2 black 1
+black 1 green 2 black 1 black 2 green 3 black 1 green 1 black 2 black 1 green 2 black 1
+black 1 green 2 black 1 black 2 green 4 black 1 green 4 black 2 black 1 green 2 black 1
+black 1 green 2 black 2 green 4 black 2 black 2 green 4 black 2 green 2 black 1
+black 1 green 6 black 2 black 2 green 6 black 1
+black 2 green 2 black 2 black 2 green 2 black 2
+black 2 black 2

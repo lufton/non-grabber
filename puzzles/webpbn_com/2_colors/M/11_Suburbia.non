@@ -1,0 +1,57 @@
+by "Mark Conger (aruba)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Mark Conger"
+date "Mar 25, 2004"
+description "A house with a tree and a bush, the sun, and a bird in the upper left corner."
+difficulty 2.0
+height 20
+id 11
+link "https://webpbn.com/play.cgi?id=11"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Suburbia"
+width 20
+
+rows
+2,2,8
+5,5
+1,5
+4
+1,3
+3,1,1
+4,1,1
+5,2,1
+5,1,1
+5,3,1
+4,6
+3,2,2
+1,2,3,2
+1,1,1,1,1,1,1,1
+1,1,3,1,3
+1,1,1,5
+1,1,3,1,5
+1,1,1,1,1,3
+1,1,1,1,1,1
+3,4,4,3
+
+columns
+1,7,1
+2,15
+1,7,1
+2,5,1
+1,3,1,1
+2,9
+1,2,1
+2,3,4
+3,1,1,1
+2,3,4
+2,1
+11
+1,2,1,1
+1,4,1
+1
+3,2
+4,4,1
+5,7
+5,4,1
+8,2

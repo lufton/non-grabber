@@ -1,0 +1,109 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/29/23"
+height 44
+id 275960
+link "https://www.griddlers.net/nonogram/-/g/275960"
+medium_time "0:21:39"
+points 43314
+popularity 93.47
+title "Castel"
+width 40
+
+color a ffffff
+color b 000000
+color c CC0000
+color d 006633
+color e 663300
+color f 999933
+color g CCCC66
+color h 666699
+
+rows
+c 2 c 2
+c 9
+c 6
+c 3 h 1
+h 1
+h 1
+h 3
+h 3
+h 3
+h 5
+h 5
+h 7
+h 1 h 7
+h 1 f 5
+h 3 g 5
+h 3 g 1 b 1 g 3
+h 5 g 1 b 1 g 3
+h 5 g 5
+f 3 g 5
+c 2 b 1 g 1 f 1 h 1 g 5
+c 3 b 1 g 1 f 1 h 1 g 4 h 1
+h 1 g 2 f 1 h 2 g 4 h 2
+h 1 g 2 f 1 h 3 g 1 b 1 g 1 h 4
+h 3 h 12 g 1 b 1 h 6
+h 3 h 10 f 3 g 3 f 4
+h 5 h 10 f 1 g 2 f 1 g 3 f 1 g 3
+h 5 h 10 f 2 g 2 f 1 g 3 f 1 g 1 b 1 g 1
+f 3 f 11 g 1 b 1 f 1 g 3 f 1 g 1 b 1 g 1
+g 1 b 1 f 1 g 8 f 3 g 1 b 1 f 1 g 3 f 1 g 3
+g 1 b 1 f 1 g 8 f 1 b 1 f 1 g 2 f 1 g 1 b 1 g 1 f 1 g 3
+g 2 f 1 g 1 b 1 g 1 b 1 g 1 b 1 g 2 f 1 b 1 f 1 g 2 f 1 g 1 b 1 g 1 f 1 g 2 h 2
+g 2 f 1 h 4 g 1 b 1 g 1 b 1 g 1 b 1 g 2 f 3 g 2 f 1 g 3 f 1 g 1 h 4
+g 1 h 6 g 8 f 3 g 2 f 1 g 3 f 1 h 6
+h 7 f 1 g 8 f 3 g 1 b 1 f 1 g 3 f 6
+h 7 f 2 g 2 e 1 g 5 f 3 g 1 b 1 f 1 g 3 f 1 g 5
+f 8 g 1 e 3 g 4 f 1 b 1 f 1 g 2 f 1 g 3 f 1 g 3 b 1 g 1
+g 1 b 1 g 1 b 1 g 1 b 1 f 2 g 1 e 3 g 4 f 1 b 1 f 1 g 2 f 1 g 3 f 1 g 3 b 1 g 1
+d 1 g 6 f 2 g 1 e 3 g 4 f 3 g 2 f 1 g 3 f 1 g 5
+d 3 g 6 f 2 g 1 e 3 g 4 f 3 g 2 f 1 g 3 f 1 g 5 d 2
+d 13 d 10 g 3 f 1 g 4 d 5
+d 15 d 9 g 2 d 6
+d 6 d 11 d 12
+d 8 d 12 d 6
+d 12
+
+columns
+d 2
+d 4
+d 5
+d 5
+h 1 d 6
+c 1 h 2 h 2 f 1 g 3 d 4
+c 2 h 4 f 1 g 5 h 2 f 1 b 1 g 2 d 2 d 1
+c 2 h 6 f 1 b 2 g 2 h 3 f 1 g 3 d 2 d 1
+h 4 f 5 h 3 f 1 b 1 g 2 d 2 d 1
+h 2 h 4 f 1 g 3 d 2
+h 4 f 1 b 1 g 2 d 2
+h 3 f 5 d 3
+h 1 h 2 f 6 d 3
+h 2 f 1 g 11 d 3
+h 3 f 1 g 2 b 2 g 3 e 4 d 3
+h 4 f 1 g 6 e 5 d 2
+h 4 f 1 g 2 b 2 g 3 e 4 d 2
+h 4 f 1 g 11 d 1 d 2
+h 2 h 4 f 1 g 2 b 2 g 7 d 1 d 2
+h 4 f 1 b 2 g 2 h 4 f 1 g 11 d 1 d 2
+h 6 f 1 g 4 h 4 f 1 g 11 d 1 d 2
+c 1 h 4 f 5 h 4 f 12 d 1 d 3
+c 1 h 2 h 3 f 3 b 2 f 4 b 2 f 2 d 2 d 2
+c 2 h 2 f 14 d 2 d 2
+c 3 h 2 f 1 g 14 d 2 d 2
+c 3 h 3 f 1 g 2 b 2 g 4 b 2 g 4 d 5
+c 3 h 2 h 5 f 15 d 3 d 1
+c 3 h 4 f 1 g 26 d 2 d 1
+c 3 h 7 f 1 g 1 b 2 g 5 b 2 g 5 b 2 g 9 d 2 d 1
+c 3 h 10 f 1 g 9 h 1 g 16 d 4
+h 7 f 1 g 8 h 2 f 16 d 4
+h 4 f 1 g 6 h 4 f 1 g 7 h 1 f 1 g 7 d 3
+h 2 h 3 f 1 g 1 b 2 g 3 h 2 f 1 g 7 d 3
+h 2 f 1 g 5 h 3 f 1 g 6 d 3
+h 1 h 3 f 1 g 1 b 2 g 3 d 3
+h 2 f 1 g 5 d 3
+h 1 d 4
+d 3
+d 2
+d 1

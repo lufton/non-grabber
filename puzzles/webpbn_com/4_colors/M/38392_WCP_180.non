@@ -1,0 +1,62 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar 22, 2024"
+description "Party favor.. a really loud one."
+difficulty 1.25
+height 20
+id 38392
+link "https://webpbn.com/play.cgi?id=38392"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WCP #180"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1 black 2
+red 1 black 1 black 2 black 1
+red 4 red 2 black 2 black 1 black 1
+red 10 black 1 black 1 black 1
+red 10 black 1 black 1 black 1
+red 4 red 2 black 2 black 1 black 1
+red 2 red 1 black 1 black 2 black 1
+red 2 black 1 black 2
+black 6 black 1
+blue 6
+blue 3
+blue 3 blue 2
+blue 3 blue 2
+blue 3 blue 2
+blue 3 blue 2
+blue 3 blue 2
+blue 3 blue 2
+blue 3
+blue 6
+
+columns
+0
+black 1 blue 10
+red 4 black 1 blue 10
+red 6 black 1 blue 10
+red 6 black 1 blue 1 blue 1
+red 4 black 1 blue 1 blue 6 blue 1
+red 2 black 1 blue 1 blue 6 blue 1
+red 2
+red 2
+red 2
+red 4
+red 6
+0
+black 2 black 2
+black 4
+black 2 black 2
+black 6
+black 2 black 2
+black 8
+0

@@ -1,0 +1,85 @@
+by "Bartholemew Newburger (burgerdude)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Bartholemew Newburger"
+date "Dec 19, 2009"
+description "YAY"
+difficulty 1.25
+height 8
+id 7446
+link "https://webpbn.com/play.cgi?id=7446"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Finally!"
+width 60
+
+rows
+8,1,3,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,5,1,1,5,5,4,5,1,5,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,5,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+8,5,1,1,1,5,1,1,1,1,5,1,1,1,1,1
+
+columns
+8
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+1,1
+0
+1,3
+1,1,1
+1,1,1
+1,1,1
+5
+0
+8
+0
+1,5
+0
+1
+1
+8
+1,1
+1,1
+0
+5
+1,1
+1,1
+1,1
+5
+0
+5
+1
+1
+1
+0
+5
+1
+1
+1
+5
+0
+1,5
+0
+1,3
+1,1,1
+1,1,1
+1,1,1
+5
+0
+6,1
+0
+6,1
+0
+6,1
+0
+6,1
+0
+6,1
+0

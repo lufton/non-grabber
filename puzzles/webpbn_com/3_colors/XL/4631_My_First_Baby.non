@@ -1,0 +1,91 @@
+by "K Chouinard (codenumerator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by K Chouinard"
+date "Jan  5, 2009"
+description "My very first car: a red 1966 Ford Fairlane convertible! See for example: http://www.majesticscarclub.com/Maurice-Halls-1966-Fairlane.jpg"
+difficulty 2.0
+height 18
+id 4631
+link "https://webpbn.com/play.cgi?id=4631"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "My First "Baby""
+width 52
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 2
+black 2
+black 3
+black 2 black 1 black 1
+black 5 black 1 black 2 black 6
+red 46
+red 2 red 47
+red 30 red 13 red 4
+red 1 red 50
+red 51
+black 1 red 11 red 16
+black 2 red 4 black 3 red 24 black 3 red 8
+black 2 red 2 black 2 black 2 red 22 black 2 black 2 red 6
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+black 3 black 3
+
+columns
+red 3
+red 3 red 1
+red 1 red 3 black 2
+red 1 red 3 black 2
+red 1 red 5 black 1
+red 8
+red 8
+red 7 black 2
+red 6 black 4
+red 6 black 2 black 2
+red 6 black 1 black 1
+red 6 black 2 black 2
+red 6 black 4
+red 7 black 2
+red 8
+red 5 red 2
+black 1 red 5 red 2
+black 2 red 5 red 2
+black 3 red 5 red 2
+black 2 black 1 red 5 red 2
+black 5 red 5 red 2
+black 2 red 5 red 2
+black 1 red 5 red 2
+red 5 red 2
+red 5 red 2
+red 5 red 2
+red 5 red 2
+red 5 red 2
+red 5 red 2
+black 1 red 5 red 2
+black 2 red 2 red 2 red 2
+red 2 red 2 red 2
+red 5 red 2
+red 5 red 2
+red 5 red 2
+black 1 red 8
+black 1 red 7 black 2
+black 1 red 6 black 4
+black 1 red 6 black 2 black 2
+black 1 red 6 black 1 black 1
+black 1 red 6 black 2 black 2
+red 6 black 4
+red 7 black 2
+red 8
+red 8
+red 2 red 5
+red 2 red 5
+red 1 red 5
+red 7
+red 6
+red 5
+red 4

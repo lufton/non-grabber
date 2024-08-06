@@ -1,0 +1,71 @@
+by "Chemical"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/27/04"
+height 20
+id 13535
+link "https://www.griddlers.net/nonogram/-/g/13535"
+medium_time "0:08:00"
+points 4017
+popularity 68.6
+title "Duck"
+width 30
+
+color a 0000fe
+color d fffefe
+color f f29e00
+color h 000000
+
+rows
+h 1
+h 3
+h 2 d 1 h 3
+h 1 d 4 h 1
+h 1 d 5 h 1
+h 2 d 5 h 1
+h 2 d 6
+h 2 h 1 d 6
+h 1 d 1 h 2 h 2 d 4 h 1
+f 1 d 3 h 3 h 2 d 4
+f 3 h 1 d 2 h 5 d 1 h 3 d 3 h 2
+f 4 d 2 h 6 d 1 h 2 d 4 h 5
+f 2 h 7 d 1 h 2 d 6 h 7
+h 3 d 9 h 5 d 1
+d 8 h 3 d 2
+d 10
+d 4 f 2 d 1
+d 4 f 2
+f 4
+f 2
+
+columns
+0
+f 1
+f 2
+f 3
+f 4
+h 1 d 1 h 1 d 1 h 1
+h 1 d 4 h 2
+h 2 d 2 h 3
+h 6
+h 4
+h 4
+h 3
+h 2 d 2
+h 5 d 2 h 1 d 2
+h 3 d 2 h 8 d 2
+h 1 d 6 h 4 d 4
+h 2 d 7 h 1 d 5
+h 1 d 14
+h 2 d 14
+h 1 d 13
+h 1 d 2 h 1 h 2 d 6
+h 5 d 1 f 1 d 1
+h 4 d 1 f 3
+h 4 d 2 f 3
+h 3 d 2 f 2
+h 2 d 1 f 1
+h 1 d 1
+h 1
+0
+0

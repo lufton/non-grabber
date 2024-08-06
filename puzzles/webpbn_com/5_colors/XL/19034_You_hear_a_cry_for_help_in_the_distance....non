@@ -1,0 +1,88 @@
+by "NiGHTS (NiGHTS)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by NiGHTS"
+date "Jun 17, 2012"
+description "Thank heavens you have arrived to our castle! Where our strongest warriors have failed, we believe you will succeed. We have summoned you to use your superior intelligence to find a way to slay those flying blue monsters in the sky. We are all counting on you!"
+difficulty 2.0
+height 25
+id 19034
+link "https://webpbn.com/play.cgi?id=19034"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "You hear a cry for help in the distance..."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1
+red 1 green 1 red 1
+red 5
+blue 1 red 1 green 1 red 1 blue 1
+blue 2 blue 1 blue 2 red 3 blue 2 blue 1 blue 2
+blue 5 red 1 green 1 red 1 blue 5
+blue 1 blue 1 red 1 red 1 green 1 red 1 red 1 blue 1 blue 1
+blue 1 blue 1 red 1 green 1 red 1 red 1 green 1 red 1 red 1 green 1 red 1 blue 1 blue 1
+red 5 red 1 green 1 red 1 red 5
+red 1 green 1 red 1 blue 7 red 1 green 1 red 1
+red 1 green 1 red 1 blue 3 green 5 blue 3 red 1 green 1 red 1
+red 5 blue 1 blue 1 green 1 blue 1 blue 1 green 1 blue 1 blue 1 red 5
+blue 6 blue 6
+blue 1 green 2 blue 1 blue 1 green 2 blue 1
+blue 1 green 1 blue 1 blue 1 green 1 blue 1
+blue 1 green 1 blue 1 black 1 green 1 black 4 green 1 black 1 green 1 blue 1 green 1 blue 1
+blue 1 green 1 blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 blue 1 green 1 blue 1
+red 1 blue 1 green 1 blue 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 blue 1 green 1 blue 1 red 1
+red 1 green 1 red 1 blue 1 green 1 blue 1 black 6 green 1 blue 1 green 1 blue 1 red 1 green 1 red 1
+red 5 blue 1 green 1 blue 1 black 1 green 1 black 2 green 1 black 1 green 1 blue 1 green 1 blue 1 red 5
+red 1 green 1 red 1 blue 1 green 1 blue 1 black 1 green 1 black 2 green 1 black 1 green 1 blue 1 green 1 blue 1 red 1 green 1 red 1 green 1
+green 2 red 1 green 1 red 1 blue 1 green 1 blue 17 green 1 blue 1 red 1 green 1 red 1 green 3
+green 2 red 1 green 1 red 1 blue 1 green 19 blue 1 red 1 green 1 red 1 green 3
+blue 40
+blue 10 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 11
+
+columns
+green 2 blue 2
+blue 1 green 2 blue 2
+blue 2 blue 1 blue 2
+blue 2 red 4 blue 2
+blue 3 red 2 blue 2
+blue 2 red 1 green 1 red 1 blue 2
+blue 2 blue 1 red 2 green 3 blue 2
+blue 1 red 4 blue 2
+blue 2
+red 4 blue 13
+red 2 red 1 blue 1 green 10 blue 1
+red 1 green 1 red 1 red 1 blue 1 green 1 blue 8 green 1 blue 2
+red 2 green 2 red 1 blue 2 blue 1 green 1 blue 1
+red 4 blue 1 black 3 blue 1 green 1 blue 2
+blue 3 green 3 blue 1 green 1 blue 1
+blue 1 blue 1 green 1 blue 2
+blue 3 black 5 blue 1 green 1 blue 1
+red 2 red 4 blue 1 green 2 black 1 green 2 black 1 green 2 blue 1 green 1 blue 2
+red 2 red 1 blue 1 green 1 blue 1 black 1 black 3 blue 1 green 1 blue 1
+red 1 green 1 red 1 red 1 blue 1 green 1 black 1 black 3 blue 1 green 1 blue 2
+red 2 green 1 red 1 green 4 blue 1 green 1 blue 1 black 1 black 1 green 2 blue 1 green 1 blue 1
+red 2 red 4 blue 1 green 2 green 1 black 5 blue 1 green 1 blue 2
+blue 3 green 5 blue 1 green 1 blue 1
+blue 1 blue 1 green 1 blue 2
+blue 3 black 3 blue 1 green 1 blue 1
+red 4 blue 1 green 3 blue 1 green 1 blue 2
+red 2 red 1 blue 2 blue 1 green 1 blue 1
+red 1 green 1 red 1 red 1 blue 1 green 1 blue 8 green 1 blue 2
+red 2 green 2 red 1 blue 1 green 10 blue 1
+red 4 blue 13
+blue 2
+red 4 blue 2
+blue 1 red 2 blue 2
+blue 2 blue 1 red 1 green 1 red 1 blue 2
+blue 2 red 2 green 3 blue 2
+blue 3 red 4 blue 2
+blue 2 blue 2
+blue 2 blue 1 green 2 blue 2
+blue 1 green 3 blue 2
+green 2 blue 2

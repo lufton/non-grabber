@@ -1,0 +1,44 @@
+by "arlo the epic (me.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by arlo the epic"
+date "Oct 22, 2011"
+description "sideways snake"
+difficulty 1.25
+height 17
+id 16143
+link "https://webpbn.com/play.cgi?id=16143"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "weerd dementeens"
+width 6
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+0
+green 1 green 1
+green 2 green 2
+green 1 black 1 green 3
+green 5
+green 3
+green 1
+green 1
+green 4
+green 1
+green 1
+green 4
+green 1
+green 1
+green 4
+0
+
+columns
+green 4 green 1
+green 4 green 1 green 1 green 1
+green 1 black 1 green 2 green 1 green 1 green 1
+green 6 green 4
+green 4
+green 4

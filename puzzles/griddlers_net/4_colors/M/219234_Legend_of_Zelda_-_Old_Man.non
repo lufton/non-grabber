@@ -1,0 +1,53 @@
+by "gramblar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/6/21"
+height 16
+id 219234
+link "https://www.griddlers.net/nonogram/-/g/219234"
+medium_time "0:03:21"
+points 710
+popularity 77.62
+title "Legend of Zelda - Old Man"
+width 16
+
+color a 999999
+color b ffffff
+color c cc0000
+color d ff9933
+
+rows
+d 6
+b 1 d 1 b 1 d 2 b 1 d 1 b 1
+d 2 d 2 d 2
+d 2 d 2 d 2
+c 1 b 1 d 4 b 1 c 1
+c 1 b 8 c 1
+c 2 b 2 b 2 c 2
+c 2 b 2 c 1 b 4 c 1 b 2 c 2
+d 1 c 2 b 1 c 2 b 4 c 2 b 1 c 2 d 1
+d 1 c 5 b 4 c 5 d 1
+d 1 c 3 c 2 b 2 c 2 c 3 d 1
+c 3 c 6 c 3
+c 3 c 6 c 3
+c 1 c 8 c 1
+c 8
+c 2 d 2 c 2 d 2 c 2
+
+columns
+d 3
+c 6
+c 8
+c 2 b 2 c 4 c 1
+b 1 d 2 c 1 b 3 c 2 c 3
+d 4 b 3 c 8 d 1
+d 1 b 1 d 1 b 1 b 3 c 5 d 1
+d 5 b 1 b 4 c 5
+d 5 b 1 b 4 c 5
+d 1 b 1 d 1 b 1 b 3 c 5 d 1
+d 4 b 3 c 8 d 1
+b 1 d 2 c 1 b 3 c 2 c 3
+c 2 b 2 c 4 c 1
+c 8
+c 6
+d 3

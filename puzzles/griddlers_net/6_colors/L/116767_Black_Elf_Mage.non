@@ -1,0 +1,78 @@
+by "no_o_chan"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/4/11"
+height 30
+id 116767
+link "https://www.griddlers.net/nonogram/-/g/116767"
+medium_time "0:13:02"
+points 6385
+popularity 71.83
+title "Black Elf Mage"
+width 25
+
+color a ffffff
+color b 000000
+color d ff3333
+color e ffff99
+color f 9999ff
+color h 660000
+
+rows
+e 4
+e 2 d 2 e 2
+e 1 d 4 e 1 h 8
+e 2 d 2 e 2 h 10
+e 4 h 3 f 6 h 3
+e 2 h 3 f 8 h 3
+e 2 h 3 f 10 h 3
+e 2 h 2 f 1 b 1 f 8 b 1 f 1 h 2
+e 1 f 4 h 1 b 1 b 1 f 6 b 1 b 1 h 1 f 4
+e 2 f 3 h 1 b 1 d 1 b 1 f 4 b 1 d 1 b 1 h 1 f 3
+e 2 f 2 h 1 b 1 b 1 f 2 b 1 b 1 h 1 f 2
+e 2 h 2 f 1 b 3 f 4 b 3 f 1 h 2
+e 2 h 2 f 12 h 2
+e 2 h 2 f 1 b 1 f 6 b 1 f 1 h 2
+e 2 h 1 f 1 b 6 f 1 h 1
+e 2 h 1 f 6 h 1
+e 2 f 4
+e 2 h 1 f 4 h 1
+f 2 h 3 f 2 h 3
+f 4 h 10
+f 4 h 10
+f 4 f 1 h 10 f 1
+f 4 f 2 h 10 f 2
+f 3 f 3 h 10 f 3
+e 1 f 5 h 10 f 3
+e 2 f 3 h 10 f 2
+e 2 f 1 h 10 f 2
+e 2 h 10 f 2
+e 2 h 10 f 2
+e 2 h 10 f 2
+
+columns
+e 3
+e 2 d 1 e 2 f 4
+e 1 d 3 e 14 f 6 e 6
+e 1 d 3 e 4 f 1 e 9 f 7 e 5
+e 2 d 1 e 2 f 2 f 7
+e 3 f 3 f 3
+h 2 f 3 h 3 f 3
+h 11 f 3
+h 3 f 1 b 3 f 2 f 3
+h 3 f 1 b 1 b 1 f 2 h 11
+h 3 f 3 b 1 d 1 b 1 f 1 b 1 f 1 h 12
+h 2 f 5 b 1 b 1 f 2 b 1 f 1 h 13
+h 2 f 6 b 1 f 3 b 1 f 3 h 12
+h 2 f 10 b 1 f 4 h 11
+h 2 f 10 b 1 f 4 h 11
+h 2 f 6 b 1 f 3 b 1 f 3 h 12
+h 2 f 5 b 1 b 1 f 2 b 1 f 1 h 13
+h 3 f 3 b 1 d 1 b 1 f 1 b 1 f 1 h 12
+h 3 f 1 b 1 b 1 f 2 h 11
+h 3 f 1 b 3 f 2 f 3
+h 11 f 3
+h 2 f 3 h 3 f 7
+f 3 f 6
+f 2
+f 1

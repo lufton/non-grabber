@@ -1,0 +1,68 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/24/16"
+height 25
+id 175135
+link "https://www.griddlers.net/nonogram/-/g/175135"
+medium_time "0:10:20"
+points 7211
+popularity 78.95
+title "Garden Works 1"
+width 20
+
+color a ffffff
+color b 0033cc
+color c c98c00
+color d ffcc00
+color e 00d700
+color f fddab8
+
+rows
+d 2 c 1
+d 8
+c 1 d 3
+f 2 c 1 d 3
+f 3 c 1 d 2
+d 1 f 2
+d 1 e 1 d 1 f 2
+d 1 f 2 f 1 e 2
+f 2 e 5
+c 1 e 5
+e 1 c 1 e 4
+e 1 d 1 e 1 c 1 e 5
+d 1 e 1 c 1 b 5
+d 1 e 1 d 1 c 1 b 5
+d 1 c 1 b 4 c 1
+c 1 b 4 c 1
+e 1 c 1 b 4 c 1
+e 1 d 1 e 1 c 1 b 3 c 1
+e 1 c 1 b 3 c 1
+c 1 b 3 c 1
+c 1 b 3 c 1
+c 1 c 1 c 1 d 3 c 3
+c 2 c 2 c 1 d 3 c 3
+c 2 c 2 c 3 d 3 d 2 c 3
+c 9 d 3 d 5
+
+columns
+d 1 c 1 c 2
+d 1 d 1 e 1 d 1 e 1 c 3
+d 1 e 1 d 1 d 1 e 1 d 1 e 1 c 1 c 1
+d 1 e 1 e 1 c 1 c 2
+e 1 d 1 e 1 c 3
+e 1 c 1 c 1
+c 1 c 2
+c 3
+c 2
+d 1
+d 1 d 4
+d 1 f 2 c 12 d 4
+d 1 f 2 d 4
+d 1 c 1 f 2 e 1
+d 3 f 3 e 2 d 2
+d 3 c 1 f 4 e 4 b 9 d 2
+c 1 d 3 c 1 f 1 e 5 b 9 c 3 d 1
+d 1 e 5 b 9 c 3 d 1
+d 2 e 3 b 5 c 7 d 1
+d 1 e 1 b 2 c 3

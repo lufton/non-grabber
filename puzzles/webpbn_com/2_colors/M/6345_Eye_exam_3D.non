@@ -1,0 +1,57 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by gregg licht"
+date "Jul 18, 2009"
+description "If you defocus your eyes so that the two dots on the top row lie on top of each other, the center image shows a magnifying glass floating above the letter "I"."
+difficulty 2.0
+height 20
+id 6345
+link "https://webpbn.com/play.cgi?id=6345"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title ""Eye" exam 3D"
+width 20
+
+rows
+1,1
+2,2,2,2
+1,4,1,1,4,1
+2,2,2,2
+2,2,2,2
+1,3,1,1,3,1
+1,1,1,1,1,1
+1,1,1,1,1,1
+1,3,1,1,3,1
+2,2,2,2
+2,2,2,2
+1,4,1,1,4,1
+1,2,1,1,2,1
+2,2,2,2,2,2
+2,2
+20
+2,2
+2,2
+2,2
+2,2
+
+columns
+2,3,1
+1,6,1,1
+2,2,1
+2,1,1,2,1
+1,1,4,9
+1,1,1,9
+2,2,1
+1,2,2,1,1
+2,6,3,1
+1
+1
+2,6,3,1
+1,2,2,1,1
+2,2,1
+1,1,1,9
+1,1,4,9
+2,1,1,2,1
+2,2,1
+1,6,1,1
+2,3,1

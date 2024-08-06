@@ -1,0 +1,41 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/11/16"
+height 5
+id 177502
+link "https://www.griddlers.net/nonogram/-/g/177502"
+medium_time "0:00:40"
+points 128
+popularity 71.21
+title "3D Glasses"
+width 15
+
+color a ffffff
+color b 000000
+color c 0099cc
+color d ff0000
+
+rows
+b 13
+b 2 d 4 b 3 c 4 b 2
+b 2 d 4 b 1 b 1 c 4 b 2
+b 1 d 4 b 1 b 1 c 4 b 1
+b 4 b 4
+
+columns
+b 2
+b 4
+b 1 d 3 b 1
+b 1 d 3 b 1
+b 1 d 3 b 1
+b 1 d 3 b 1
+b 4
+b 2
+b 4
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 4
+b 2

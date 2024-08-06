@@ -1,0 +1,56 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marie-Louise Ambrey"
+date "Sep 26, 2008"
+description "A seagull at the waters edge."
+difficulty 2.0
+height 20
+id 3665
+link "https://webpbn.com/play.cgi?id=3665"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Squark !"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3
+black 1 black 1
+black 3 black 1 black 1
+black 1 black 1
+black 2 black 1
+black 1 black 1
+black 1 black 3
+black 1 black 4
+black 1 black 5
+black 1 black 5
+black 2 black 5
+black 2 black 2
+black 10
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 5 black 1 black 1 black 5
+blue 5 black 5 blue 5
+black 4 blue 7 black 4
+black 7
+
+columns
+black 1 black 1 blue 1 black 1
+black 1 black 1 blue 1 black 1
+black 3 black 1 blue 1 black 1
+black 1 black 1 black 5 black 1 blue 1 black 1
+black 1 black 1 black 2 black 2 black 1 blue 2 black 1
+black 1 black 2 black 1 blue 1 black 1
+black 4 black 3 black 6 blue 1 black 1
+black 5 black 1 black 1 blue 1 black 1
+black 5 black 6 blue 1 black 1
+black 4 black 1 black 1 blue 1 black 1
+black 3 black 1 black 1 blue 2 black 1
+black 2 black 1 black 1 blue 1 black 1
+black 3 black 1 blue 1 black 1
+black 2 black 1 blue 1 black 1
+black 1 black 1 blue 1 black 1

@@ -1,0 +1,53 @@
+by "Joseph Newton (Shroomyjoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joseph Newton"
+date "Aug  2, 2013"
+description "Boom."
+difficulty 1.25
+height 16
+id 22504
+link "https://webpbn.com/play.cgi?id=22504"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A little surprise"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2 red 2 red 2 red 2
+red 3 red 3 red 3 red 3
+red 3 red 3 red 3 red 3
+black 15
+red 3 red 3 red 3 red 3
+black 1 black 1
+black 1 black 3 black 1 black 1 black 3 black 1
+black 1 black 1 black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1
+red 3 red 3 red 3 red 3
+black 15
+red 3 red 3 red 3 red 3
+red 3 red 3 red 3 red 3
+red 3 red 3 red 3 red 3
+
+columns
+black 6
+red 2 black 1 red 1 red 1 black 1 red 3
+red 3 black 1 red 1 black 1 red 1 black 1 red 3
+red 3 black 1 red 1 black 4 red 1 black 1 red 3
+black 1 black 1 black 1
+red 2 black 1 red 1 red 1 black 1 red 3
+red 3 black 1 red 1 black 4 red 1 black 1 red 3
+red 3 black 1 red 1 black 1 red 1 black 1 red 3
+black 1 black 1 black 1
+red 2 black 1 red 1 black 4 red 1 black 1 red 3
+red 3 black 1 red 1 red 1 black 1 red 3
+red 3 black 1 red 1 black 1 red 1 black 1 red 3
+black 1 black 4 black 1
+red 2 black 1 red 1 black 1 red 1 black 1 red 3
+red 3 black 1 red 1 red 1 black 1 red 3
+red 3 black 1 red 1 black 6 red 1 black 1 red 3

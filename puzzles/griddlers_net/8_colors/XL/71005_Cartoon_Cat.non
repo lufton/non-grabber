@@ -1,0 +1,100 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/26/08"
+height 30
+id 71005
+link "https://www.griddlers.net/nonogram/-/g/71005"
+medium_time "0:17:31"
+points 34150
+popularity 79.55
+title "Cartoon Cat"
+width 45
+
+color a 99cccc
+color b cc6633
+color c cc9966
+color d ff9966
+color e 000000
+color f ffffff
+color g cccccc
+color h 990000
+
+rows
+b 2 b 2
+b 1 c 2 b 3 b 3 c 2 b 1
+b 1 c 1 d 1 c 3 b 2 b 2 c 3 d 1 c 1 b 1
+b 1 c 1 b 3 d 1 c 2 b 1 b 1 c 2 d 1 b 3 c 1 b 1
+b 1 c 1 b 1 c 2 b 1 d 2 c 1 b 9 c 1 d 2 b 1 c 2 b 1 c 1 b 1
+b 1 d 1 c 1 b 1 c 1 d 1 c 1 b 1 d 2 c 9 d 2 b 1 c 1 d 1 c 1 b 1 c 1 d 1 b 1
+b 1 c 1 b 1 c 2 d 19 c 2 b 1 c 1 b 1
+b 1 c 1 d 1 b 1 c 1 d 19 c 1 b 1 d 1 c 1 b 1
+b 1 c 1 b 1 c 1 d 19 c 1 b 1 c 1 b 1
+b 1 c 1 d 3 c 4 d 9 c 4 d 3 c 1 b 1
+b 1 c 1 d 1 c 1 e 4 c 1 d 7 c 1 e 4 c 1 d 1 c 1 b 1
+b 1 c 2 e 1 f 4 e 1 c 1 d 5 c 1 e 1 f 4 e 1 c 2 b 1
+b 1 d 1 c 1 e 1 f 2 e 4 c 1 d 5 c 1 e 4 f 2 e 1 c 1 d 1 b 1
+b 1 d 1 c 2 e 1 f 1 e 2 f 1 e 2 c 1 d 5 c 1 e 2 f 1 e 2 f 1 e 1 c 2 d 1 b 1
+g 1 b 1 d 1 c 2 e 7 c 7 e 7 c 2 d 1 b 1 g 1
+g 1 f 1 g 2 b 1 d 1 c 1 g 5 e 3 c 2 h 5 c 2 e 3 g 5 c 1 d 1 b 1 g 2 f 1 g 1
+g 1 f 3 g 4 f 8 h 9 f 8 g 4 f 3 g 1
+g 1 f 14 h 11 f 14 g 1
+g 1 f 14 h 9 f 14 g 1
+g 2 f 17 h 5 f 17 g 2
+g 1 f 20 h 3 f 20 g 1
+g 3 f 18 h 1 f 18 g 3
+g 1 f 37 g 1
+g 1 f 19 e 1 f 19 g 1
+g 1 f 2 g 1 f 17 e 1 f 17 g 1 f 2 g 1
+g 2 g 2 f 15 e 1 f 15 g 2 g 2
+g 1 f 13 e 1 f 1 e 1 f 13 g 1
+g 5 f 19 g 5
+g 7 f 5 g 7
+g 5
+
+columns
+g 1
+g 1 f 1 g 1 g 1
+g 3 g 1 f 1 g 1 g 1 f 1 g 1
+g 1 f 3 g 1 f 2 g 2 f 2 g 1
+g 1 f 8 g 1
+g 1 f 9 g 1
+g 1 f 8 g 1
+b 1 g 1 f 9 g 1
+b 3 b 2 d 1 g 1 f 10 g 1
+b 4 d 1 c 2 b 2 b 1 d 2 c 1 g 1 f 10 g 1
+b 1 c 5 b 1 d 1 c 2 b 2 d 1 c 2 g 1 f 11 g 1
+b 1 c 1 d 1 b 3 c 1 b 2 d 1 c 5 g 1 f 11 g 1
+b 1 c 1 b 1 c 5 d 2 c 1 e 3 g 1 f 11 g 1
+b 1 c 1 b 1 c 1 d 5 c 1 e 1 f 2 e 1 g 1 f 12 g 1
+b 1 c 1 d 1 b 1 c 1 d 3 c 1 e 1 f 2 e 2 g 1 f 12 g 1
+b 1 c 1 d 1 b 1 d 3 c 1 e 1 f 1 e 4 f 12 g 1
+b 1 c 1 d 5 c 1 e 1 f 1 e 1 f 1 e 2 f 12 g 1
+b 1 c 1 d 4 c 1 e 1 f 1 e 4 f 1 h 1 f 10 g 1
+b 1 c 1 d 4 c 1 e 4 c 1 h 3 f 9 g 1
+b 1 c 1 d 5 c 5 h 3 f 9 g 1
+b 1 c 1 d 8 c 1 h 5 f 9 g 1
+b 1 c 1 d 8 c 1 h 6 f 5 e 1 f 2 g 1
+b 1 c 1 d 8 c 1 h 7 f 1 e 3 f 3 g 1
+b 1 c 1 d 8 c 1 h 6 f 5 e 1 f 2 g 1
+b 1 c 1 d 8 c 1 h 5 f 9 g 1
+b 1 c 1 d 5 c 5 h 3 f 9 g 1
+b 1 c 1 d 4 c 1 e 4 c 1 h 3 f 9 g 1
+b 1 c 1 d 4 c 1 e 1 f 1 e 4 f 1 h 1 f 10 g 1
+b 1 c 1 d 5 c 1 e 1 f 1 e 1 f 1 e 2 f 12 g 1
+b 1 c 1 d 1 b 1 d 3 c 1 e 1 f 1 e 4 f 12 g 1
+b 1 c 1 d 1 b 1 c 1 d 3 c 1 e 1 f 2 e 2 g 1 f 12 g 1
+b 1 c 1 b 1 c 1 d 5 c 1 e 1 f 2 e 1 g 1 f 12 g 1
+b 1 c 1 b 1 c 5 d 2 c 1 e 3 g 1 f 11 g 1
+b 1 c 1 d 1 b 3 c 1 b 2 d 1 c 5 g 1 f 11 g 1
+b 1 c 5 b 1 d 1 c 2 b 2 d 1 c 2 g 1 f 11 g 1
+b 4 d 1 c 2 b 2 b 1 d 2 c 1 g 1 f 10 g 1
+b 3 b 2 d 1 g 1 f 10 g 1
+b 1 g 1 f 9 g 1
+g 1 f 8 g 1
+g 1 f 9 g 1
+g 1 f 8 g 1
+g 1 f 3 g 1 f 2 g 2 f 2 g 1
+g 3 g 1 f 1 g 1 g 1 f 1 g 1
+g 1 f 1 g 1 g 1
+g 1

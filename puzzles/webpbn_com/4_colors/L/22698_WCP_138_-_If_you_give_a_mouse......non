@@ -1,0 +1,82 @@
+by "Synthia McBride (synthia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Synthia McBride"
+date "Sep  2, 2013"
+description "a vacuum cleaner, while he's vacuuming, he'll notice the furniture needs dusting. And while he's dusting, he'll notice the windows need cleaning. And while he's cleaning the windows, he'll notice the lawn needs mowing. And while he's mowing, he'll notice the house needs painting. And after he's finished painting, his clothes will be all "painty" and need washing. And after he washes the clothes.....Well, you get the point. It's best to just not start vacuuming."
+difficulty 2.25
+height 30
+id 22698
+link "https://webpbn.com/play.cgi?id=22698"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "WCP #138 - If you give a mouse....."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 black 2
+black 1 red 2 black 1 black 4
+black 1 red 3 black 1 black 2 red 2 black 1
+black 1 red 3 black 6 black 1 red 3 black 1
+black 11 red 4 black 1
+black 14
+black 3 blue 2 black 2 blue 2 black 4
+black 3 blue 1 black 2 blue 1 black 4
+black 5 red 2 black 6
+black 11
+black 3 red 1 black 2 red 1 black 3
+black 3 red 2 black 4
+black 7 black 1
+black 5 black 2
+black 2 blue 2 black 3 blue 2 black 2 black 2
+black 3 blue 2 black 3 blue 2 black 2 black 1
+black 1 blue 2 black 1 black 1 blue 1 red 1 blue 3 red 1 blue 1 black 3 black 1
+blue 3 black 2 blue 7 black 2 black 1
+blue 2 black 2 blue 8 black 2 black 1
+blue 2 blue 9 black 2 black 1
+blue 3 blue 9 black 1 black 1
+blue 3 blue 11 black 2
+blue 3 blue 11 black 3
+blue 6 blue 12
+blue 7 blue 6 blue 5
+blue 7 blue 5 blue 5
+blue 7 blue 4 blue 4
+blue 6 black 2 blue 4 blue 4
+black 2 black 2 black 4 black 4
+red 30
+
+columns
+blue 2 red 1
+blue 4 black 1 red 1
+blue 5 black 1 red 1
+blue 5 red 1
+blue 5 red 1
+blue 6 black 1 red 1
+blue 6 black 2 red 1
+blue 6 black 1 red 1
+blue 3 red 1
+blue 3 red 1
+blue 2 red 1
+black 1 blue 1 red 1
+blue 2 black 1 red 1
+black 5 blue 1 black 2 red 1
+black 1 red 3 black 5 black 3 red 1
+black 1 red 3 black 7 black 2 blue 5 black 1 red 1
+black 1 red 2 black 8 black 3 blue 10 black 1 red 1
+black 4 blue 2 black 5 blue 14 black 1 red 1
+black 3 blue 1 black 2 red 1 black 3 blue 2 red 1 blue 11 black 1 red 1
+black 5 red 1 black 2 red 1 black 4 blue 12 red 1
+black 5 red 1 black 2 red 1 black 4 blue 9 red 1
+black 3 blue 2 black 2 red 1 black 5 blue 8 red 1
+black 3 blue 1 black 6 blue 2 red 1 blue 9 red 1
+black 9 blue 14 red 1
+black 2 red 1 black 7 black 3 blue 9 black 1 red 1
+black 2 red 2 black 5 black 6 blue 7 black 1 red 1
+black 1 red 3 black 4 black 5 black 1 blue 5 black 1 red 1
+black 2 red 3 black 1 black 2 black 1 black 1 red 1
+black 5 black 2 black 2 red 1
+black 8 red 1

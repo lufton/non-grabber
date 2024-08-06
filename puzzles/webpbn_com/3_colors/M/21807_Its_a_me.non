@@ -1,0 +1,53 @@
+by "ryan moore (solar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by ryan moore"
+date "Apr 25, 2013"
+description "Mario. From the Super Marion bros. game for the Nintendo. There was no tan to use for skin color so I had to do a black outline. More constructive comments please."
+difficulty 1.75
+height 17
+id 21807
+link "https://webpbn.com/play.cgi?id=21807"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "It's a me!!!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 10
+black 3 black 1 black 1
+black 1 black 1 black 1 black 3
+black 1 black 2 black 1 black 2
+black 3 black 1
+black 1 black 3
+black 3 red 1 black 4
+black 4 red 1 black 2 red 1 black 4
+black 5 red 5 black 5
+black 1 black 1 red 2 red 3 red 2 black 1 black 1
+black 1 red 9 black 1
+black 2 red 11 black 2
+red 4 red 4
+red 4 red 4
+black 4 black 4
+black 5 black 5
+
+columns
+black 4
+black 3 black 2 black 1 black 1
+red 1 black 1 black 1 black 4 red 3 black 2
+red 2 black 8 red 5 black 2
+red 2 black 1 black 1 black 3 red 5 black 2
+red 2 red 3 red 4 black 2
+red 2 black 1 red 4
+red 2 black 2 red 4
+red 2 black 2 black 2 red 4
+red 1 black 1 black 2 red 2 red 4 black 2
+red 1 black 2 black 1 black 2 red 5 black 2
+red 1 black 1 black 1 black 2 red 5 black 2
+black 3 black 3 red 3 black 2
+black 1 black 2 black 1 black 1
+black 4

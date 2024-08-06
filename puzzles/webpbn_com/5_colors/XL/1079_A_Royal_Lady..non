@@ -1,0 +1,113 @@
+by "Marie-Louise Ambrey (marz)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Marie-Louise Ambrey"
+date "Jul 21, 2007"
+description "The Queen of Hearts card."
+difficulty 3.5
+height 40
+id 1079
+link "https://webpbn.com/play.cgi?id=1079"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.75
+title "A Royal Lady."
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 5 black 10 blue 2 red 2 green 1 blue 1 green 4 blue 1
+red 2 red 2 black 5 black 5 blue 2 red 2 green 5 blue 1
+red 1 red 1 black 4 black 5 blue 2 red 1 green 1 blue 1 green 3 blue 1
+red 1 red 1 black 3 black 4 blue 2 red 2 green 4 blue 1
+red 1 red 2 red 1 black 2 black 4 blue 2 red 1 green 1 blue 1 green 2 blue 2
+red 1 red 3 black 5 black 7 blue 2 red 2 green 4 blue 1
+red 2 red 3 black 1 black 1 black 4 blue 2 red 2 blue 1 green 2 blue 1
+red 5 red 2 black 5 black 4 black 3 blue 2 red 2 green 3 blue 2
+black 2 black 1 black 2 black 1 black 1 blue 3 red 2 blue 1 green 2 blue 2
+red 3 red 3 black 1 black 1 black 2 blue 2 red 2 green 4 blue 2
+red 5 red 5 black 1 black 1 black 1 blue 2 red 2 blue 6
+red 13 black 1 black 2 black 1 black 2 blue 5
+red 13 black 1 black 1 black 1 blue 2 blue 1
+red 13 black 1 black 1 black 1 black 6 blue 3 green 1 blue 1 green 1
+red 13 black 1 black 5 black 3 black 2 blue 3 green 1 red 1 blue 1 red 1 green 1
+red 11 black 1 black 3 black 4 black 1 blue 3 blue 3 red 1 blue 3
+red 9 black 2 black 2 black 2 black 2 blue 3 green 1 red 1 blue 1 red 1 green 1
+red 7 black 1 black 1 black 2 black 2 black 1 blue 3 green 1 blue 1 green 1
+red 5 black 8 black 2 black 7 blue 3 blue 1
+red 3 black 2 green 1 blue 1 green 1 black 1 black 4 black 4 green 2 blue 3 green 1 green 1 green 1
+red 1 black 5 green 1 blue 1 green 1 black 2 black 1 green 2 blue 1 green 1 blue 3 green 2 green 1 green 2
+black 4 green 2 black 2 green 1 blue 1 green 1 blue 1 black 11 green 2 blue 1 green 2 black 2 green 4 green 1 green 2
+black 1 red 2 black 2 green 2 black 3 green 4 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 3 black 3 green 2 black 1 green 5
+black 3 red 2 black 3 green 2 black 4 green 14 black 2 green 2 black 3 green 1 black 1
+black 4 green 1 black 1 red 2 black 2 green 2 black 2 green 2 black 16 green 2 black 2 black 3
+black 4 green 1 red 1 green 1 black 1 red 2 black 5 green 2 black 2 green 2 black 2 green 2 black 2 green 2 black 2 green 2 black 3 black 2 black 1
+black 3 green 1 black 2 green 1 black 3 red 2 black 2 green 2 black 4 green 2 black 2 green 2 black 2 green 2 black 2 green 2 black 3 black 2 black 2
+black 3 green 1 red 1 green 1 black 6 red 2 black 1 green 2 black 2 green 2 black 2 green 2 black 2 green 2 black 2 green 2 black 4 black 1 black 3
+black 5 green 1 black 3 blue 1 black 5 green 2 black 2 green 2 black 2 green 2 black 2 green 2 black 1 blue 2 black 1 black 1 black 2 black 1
+black 3 green 1 black 5 blue 1 black 20 blue 1 black 1 black 2 black 2
+black 3 green 1 red 1 green 1 black 3 blue 6 black 2 red 1 black 1 blue 4 green 2 blue 4 black 2 red 1 black 2 blue 4 black 1 black 1 black 3
+black 4 green 1 black 3 blue 1 black 2 red 3 black 1 green 2 black 2 red 1 black 2 blue 1 black 1 black 1 black 2 black 1
+black 1 green 1 black 5 blue 3 black 2 red 4 black 1 blue 3 green 2 blue 3 black 1 red 2 black 1 blue 3 black 1 black 2 black 1
+green 1 red 1 green 1 black 3 blue 1 black 2 red 6 black 1 green 2 black 2 red 1 black 2 blue 1 black 3 black 1 black 1 green 1
+black 1 green 1 black 3 blue 7 black 2 blue 1 black 1 red 5 black 1 blue 2 green 2 blue 2 black 1 red 2 black 1 blue 5 black 5 black 1 black 1 green 1 red 1
+black 4 blue 1 black 2 blue 3 black 1 red 5 black 1 green 2 black 2 red 2 black 1 blue 1 black 9 green 1 black 2 green 1
+black 3 blue 3 black 2 blue 1 blue 2 black 1 red 4 black 1 blue 1 green 2 blue 1 black 1 red 2 black 2 blue 3 black 5 green 1 black 2 green 1 red 1 green 1 black 2
+black 2 blue 1 black 4 blue 1 blue 3 black 1 red 3 black 1 green 2 black 1 red 2 black 1 blue 1 black 2 green 1 black 2 green 1 red 1 green 1 black 2 green 1 black 3
+black 1 blue 6 black 2 red 2 black 2 blue 2 blue 1 black 1 red 3 blue 1 green 2 blue 1 red 3 black 1 blue 5 black 1 green 1 red 1 green 1 black 2 green 1 black 7
+blue 1 black 2 red 4 black 2 blue 2 blue 1 black 1 red 3 black 1 green 2 black 1 red 3 black 1 blue 1 black 2 green 1 black 11
+
+columns
+red 4 black 3 green 1 black 5
+red 6 black 3 green 1 red 1 green 1 black 3
+red 8 black 5 green 1 black 3 blue 2
+red 6 red 9 black 3 green 1 black 5 blue 1
+red 2 red 2 red 10 black 3 green 1 red 1 green 1 black 3 blue 1
+red 1 red 1 red 10 black 5 green 1 black 3 blue 3 blue 1
+red 1 red 1 red 1 red 10 black 3 green 1 black 5 blue 1 blue 1 blue 1
+red 1 red 2 red 1 red 10 black 2 green 1 red 1 green 1 black 3 blue 1 blue 3 black 1
+red 2 red 3 red 10 black 4 green 1 black 3 blue 1 black 2
+red 6 red 9 black 3 green 1 black 4 blue 3 blue 1 black 2 red 1
+red 2 red 8 black 1 red 1 black 1 green 1 red 1 green 1 black 2 blue 1 blue 1 blue 1 black 2 red 2
+red 1 red 6 black 1 red 2 black 1 green 1 black 2 blue 1 blue 3 black 3 red 2
+red 4 black 3 red 2 black 3 blue 1 black 2 blue 1 black 2 red 1
+black 4 red 2 black 2 blue 1 black 2 blue 1 blue 1 black 2
+black 2 green 2 black 2 red 2 black 1 blue 3 black 2 blue 2 blue 1 black 1
+black 2 green 2 black 3 red 2 black 2 red 1 black 1 blue 5
+black 1 green 1 black 3 green 2 black 2 red 1 black 2 red 3 black 1 blue 2 blue 1
+black 1 blue 1 green 1 black 2 green 2 black 6 red 5 black 1 blue 1
+black 1 green 1 blue 1 green 1 black 4 green 2 black 2 red 7 black 1 blue 2
+black 5 black 2 green 1 blue 1 green 1 black 3 green 2 black 3 red 7 black 2
+black 8 black 6 black 1 black 1 green 2 black 1 green 2 black 4 blue 1 black 2 red 7
+black 4 black 1 black 2 black 2 black 1 black 1 blue 1 green 1 black 1 green 2 black 4 blue 1 blue 1 black 2 red 5
+black 3 black 1 black 2 black 3 black 1 green 2 black 3 green 2 black 1 blue 1 blue 1 blue 1 black 3 red 2
+black 2 black 1 black 1 black 1 black 1 black 1 blue 1 green 1 black 3 green 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 black 3 black 1 black 3 black 1 black 1 green 2 black 1 green 2 black 3 green 10
+black 1 black 1 black 2 black 1 black 1 black 1 blue 1 green 1 black 1 green 2 black 3 green 10
+black 2 black 1 black 1 black 3 black 1 black 1 green 2 black 3 green 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 3 black 1 black 2 black 1 black 2 black 1 blue 1 green 1 black 3 green 2 black 1 blue 1 blue 1 blue 1 black 3 red 2
+black 4 black 1 black 2 black 2 black 1 green 2 black 1 green 2 black 3 blue 1 blue 1 black 3 red 4
+black 6 black 1 black 2 black 1 blue 1 green 1 black 1 green 2 black 3 blue 1 black 3 red 6
+blue 1 black 6 black 2 black 1 green 2 black 3 green 2 black 3 red 4 black 4
+blue 2 black 14 black 1 blue 1 green 1 black 3 green 2 black 2 red 2 black 4 blue 2
+red 1 blue 3 black 4 black 6 black 1 green 2 black 1 green 2 black 3 red 1 black 3 blue 1
+red 2 blue 4 black 6 black 7 green 1 blue 1 green 1 black 1 green 2 black 5 blue 3 blue 1
+green 1 red 3 blue 5 black 1 black 1 black 1 black 3 green 3 black 3 green 2 black 2 blue 1 blue 1 blue 1
+blue 1 green 2 red 3 blue 4 black 4 black 2 green 1 blue 1 green 2 black 3 green 2 black 1 blue 3 blue 1 blue 3
+green 2 blue 1 green 2 red 3 blue 4 black 3 black 1 black 2 green 3 black 2 green 2 black 3 blue 1 blue 1 blue 1 black 3
+green 4 blue 1 green 1 red 4 blue 5 black 1 green 1 blue 1 green 1 black 3 green 2 black 1 blue 1 blue 1 blue 3 black 3 green 1 black 1
+green 6 blue 1 green 1 red 3 blue 6 black 2 green 2 black 2 green 2 black 3 blue 3 black 4 green 1 red 1 green 1
+green 8 blue 1 green 1 red 1 blue 1 blue 8 black 2 green 2 black 13 green 1 black 1
+blue 5 green 5 blue 2 blue 6 green 2 black 4 black 7
+blue 4 green 2 blue 1 blue 4 green 2 black 2 black 3 green 1 black 2
+blue 2 green 1 blue 1 blue 1 green 3 black 2 black 2 green 1 red 1 green 1 black 1
+blue 3 green 1 blue 1 green 1 green 3 black 3 black 2 green 1 black 2
+blue 2 green 1 red 1 blue 1 red 1 green 1 green 1 black 2 black 3 black 5
+blue 1 blue 3 red 1 blue 3 green 5 black 2 black 2 black 4 green 1 black 3
+green 1 red 1 blue 1 red 1 green 1 green 1 black 2 black 2 black 2 green 1 red 1 green 1 black 2
+green 1 blue 1 green 1 green 3 black 4 black 2 black 2 green 1 black 3
+blue 1 green 3 black 5 black 1 green 1 black 5
+black 4 green 1 red 1 green 1 black 4

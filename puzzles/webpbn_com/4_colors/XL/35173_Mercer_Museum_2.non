@@ -1,0 +1,87 @@
+by "Belita (belita)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Belita"
+date "Jun 22, 2021"
+description "Any guesses as to what this implement is and what it was used for? (It wasn't different colors. I just used those so you could see the different parts.)"
+difficulty 2.5
+height 25
+id 35173
+link "https://webpbn.com/play.cgi?id=35173"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Mercer Museum 2"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+blue 11
+blue 11 green 2
+blue 11 green 4
+green 7 blue 10 green 5 black 3
+green 7 blue 9 green 3 black 3 black 3
+black 10 green 3 blue 9 green 2 black 2 blue 1 black 2
+black 3 black 19 blue 1 black 1 black 1 black 1
+black 1 black 3 black 1 green 10 blue 9 black 2 blue 2 black 1 black 1 black 2
+black 1 green 1 black 3 green 10 blue 9 black 11
+black 1 green 2 black 3 green 9 blue 8 black 3 blue 2 black 1 black 1 black 2
+black 2 green 3 black 3 green 8 black 2 black 1 black 1 black 1 black 2
+black 1 green 3 black 1 green 1 black 2 green 1 black 2 black 2 black 3
+green 3 black 1 black 2 black 2 black 4 black 3 black 1
+black 3 black 2 black 2 black 2 black 3 black 1
+black 7 black 2 black 2 black 2 blue 2 black 1
+black 2 black 1 black 2 black 2 black 2 black 1 blue 2 green 2 black 1
+black 1 black 1 black 1 black 1 black 1 black 2 black 2 black 1 green 4 black 1
+black 2 black 3 black 2 black 2 black 2 black 1 green 4 black 1
+black 11 black 18 green 2
+black 2 black 3 black 2 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 2 black 6
+black 2 black 1 black 2 black 1 black 1 black 3
+black 7 black 2 black 2 black 3
+black 3 black 3 black 3
+
+columns
+black 3
+green 2 black 2 black 3 black 3
+green 2 black 3 black 2 black 7
+green 2 black 1 black 1 green 5 black 2 black 1 black 2
+green 2 black 1 black 2 green 4 black 1 black 1 black 1 black 1 black 1
+green 2 black 1 black 2 green 3 black 2 black 3 black 2
+green 2 black 1 black 17
+green 2 black 1 green 2 black 2 green 1 black 2 black 3 black 2
+black 1 green 3 black 2 black 1 black 1 black 1 black 1 black 1
+black 2 green 4 black 2 black 2 black 1 black 2
+black 1 green 5 black 2 black 7
+black 1 green 4 black 2 black 3
+black 1 green 4 black 2
+green 1 black 1 green 4 black 2
+green 1 black 1 green 4 black 2
+blue 4 green 1 black 1 green 4 black 2
+blue 6 black 1 green 4 black 1
+black 1 blue 6 black 1 blue 3 black 2
+black 1 blue 6 black 1 blue 3 black 3
+black 1 blue 6 black 1 blue 3 black 2 black 1
+black 1 blue 6 black 1 blue 3 black 2 black 1
+black 1 blue 6 black 1 blue 3 black 2 black 1
+blue 6 black 1 blue 3 black 2 black 1
+blue 6 black 1 blue 3 black 2 black 1
+blue 6 black 1 blue 3 black 2 black 1
+blue 3 green 3 black 1 blue 2 black 2 black 1
+green 5 black 4 black 1
+green 4 black 9 black 1
+green 2 black 2 blue 2 black 1 blue 1 black 4 black 1
+green 2 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 black 2 black 1
+black 2 black 3 black 2 blue 2 black 1 black 1
+black 1 black 1 black 1 blue 2 black 2 black 3
+black 2 black 3 black 2 green 2 black 3 black 2
+black 1 black 1 black 1 black 1 black 1 green 4 black 1 black 1
+black 2 black 1 black 2 green 4 black 2 black 2
+black 7 green 2 black 3
+black 11 black 2
+black 4
+black 4
+black 4

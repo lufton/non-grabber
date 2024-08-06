@@ -1,0 +1,51 @@
+by "nhfk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/04"
+height 15
+id 9938
+link "https://www.griddlers.net/nonogram/-/g/9938"
+medium_time "0:06:43"
+points 1777
+popularity 51.83
+title "He Loves Me, He Loves Me Not..."
+width 15
+
+color a 00fefe
+color c fffe00
+color f ff00ff
+color h 000000
+
+rows
+h 5
+h 1 f 5 h 1 h 1
+h 1 f 4 h 1 h 1 f 1 h 1
+h 2 f 2 h 1 h 1 f 2 h 1
+h 2 h 3 h 1 f 3 h 1
+h 1 f 2 h 1 c 3 h 1 f 3 h 1
+h 1 f 3 h 1 c 5 f 1 h 1 f 1 h 1
+h 1 f 3 c 7 h 2
+h 1 f 1 h 1 c 7
+h 1 c 7 h 3
+h 1 c 5 f 3 h 1
+h 4 f 1 c 3 h 1 f 3 h 1
+h 1 f 2 h 2 f 3 h 1 h 2 f 1 h 1
+f 2 h 1 h 1 f 3 h 2 h 2
+f 2 h 1 h 1 f 4 h 1
+
+columns
+h 3 h 1 f 2
+h 1 f 3 h 1 h 1 f 3
+h 1 f 4 h 1 h 1 f 1 h 2
+h 3 h 1 f 2 h 1 h 3
+h 1 f 2 h 1 h 1 c 3 h 3
+h 1 f 3 h 1 c 5 f 3 h 1
+h 1 f 3 h 1 c 7 f 3
+h 1 f 2 h 2 c 7 f 3
+h 1 f 1 h 1 c 7 h 2 f 1
+h 1 h 2 c 5 h 1 h 1 f 1
+h 1 f 3 c 3 f 2 h 1 h 1
+h 1 f 3 h 1 h 1 f 2 h 1
+h 1 f 5 h 1 h 1 f 3 h 1
+h 6 h 5
+0

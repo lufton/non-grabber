@@ -1,0 +1,61 @@
+by "Wesley Snyder (wsnyder98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wesley Snyder"
+date "May 22, 2014"
+description "A pond, a hill, trees, a lake, more hills, and the sky and clouds... hopefully an easy one. First puzzle in a long time."
+difficulty 1.25
+height 20
+id 24543
+link "https://webpbn.com/play.cgi?id=24543"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My View"
+width 20
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 blue 5 blue 1
+blue 1 blue 10 blue 1
+blue 1 blue 3 blue 5 blue 1
+blue 2 blue 4 blue 7
+blue 8 blue 3 blue 3
+blue 2 black 4 blue 5 black 4
+black 7 blue 2 black 9
+black 20
+blue 20
+blue 20
+black 2 blue 1 black 4 blue 1 black 3 blue 1 black 4 blue 1 black 2 blue 1
+black 2 blue 2 black 3 blue 1 black 3 blue 1 black 3 blue 1 black 3 blue 1
+black 1 blue 3 black 1 blue 4 black 1 blue 3 black 1 blue 3 black 1 blue 2
+black 20
+black 20
+black 4 blue 10 black 6
+black 3 blue 12 black 5
+black 3 blue 10 black 7
+black 4 blue 7 black 9
+black 20
+
+columns
+blue 6 black 2 blue 2 black 10
+blue 1 blue 3 black 2 blue 2 black 2 blue 1 black 7
+blue 1 blue 1 black 3 blue 5 black 7
+blue 1 blue 1 black 3 blue 2 black 1 blue 2 black 3 blue 2 black 2
+blue 1 blue 2 black 3 blue 2 black 5 blue 4 black 1
+blue 5 black 3 blue 2 black 2 blue 1 black 2 blue 4 black 1
+blue 5 black 2 blue 2 black 2 blue 1 black 2 blue 4 black 1
+blue 6 black 1 blue 5 black 2 blue 4 black 1
+blue 1 blue 2 black 1 blue 2 black 2 blue 1 black 2 blue 4 black 1
+blue 1 blue 1 black 2 blue 2 black 5 blue 4 black 1
+blue 2 blue 1 black 2 blue 2 black 2 blue 1 black 2 blue 4 black 1
+blue 2 blue 1 black 3 blue 5 black 2 blue 3 black 2
+blue 3 blue 1 black 3 blue 2 black 2 blue 1 black 2 blue 3 black 2
+blue 5 black 3 blue 2 black 5 blue 2 black 3
+blue 4 black 3 blue 2 black 2 blue 1 black 3 blue 1 black 3
+blue 2 black 2 blue 2 black 1 blue 2 black 7
+blue 2 black 2 blue 3 black 1 blue 1 black 7
+blue 2 black 2 blue 2 black 10
+blue 2 black 1 blue 2 black 2 blue 1 black 7
+blue 5 black 1 blue 5 black 7

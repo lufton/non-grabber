@@ -1,0 +1,62 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/17/06"
+height 20
+id 30900
+link "https://www.griddlers.net/nonogram/-/g/30900"
+medium_time "0:05:55"
+points 1160
+popularity 70.95
+title "Boy"
+width 18
+
+color a bddefe
+color b db9648
+color c 962703
+color d f7cb81
+color e 000000
+color g 2c649c
+color h 154c84
+
+rows
+c 1 c 1 c 1
+c 6 c 2
+c 11
+c 14
+c 15
+c 15
+c 8 d 1 c 4 d 1 c 3
+c 3 d 1 c 2 d 1 c 1 d 1 c 1 d 4 c 3
+c 2 d 11 c 3
+c 2 d 11 c 2
+c 2 d 3 e 1 d 2 e 1 d 2 c 2
+c 3 d 3 d 2 d 2 c 3
+c 1 d 1 c 1 d 11 c 1 d 1 c 1
+d 15
+d 13
+d 5 b 3 d 5
+d 5 b 1 d 5
+h 2 d 7 h 3
+h 1 g 2 h 2 d 3 h 2 g 2 h 2
+h 2 g 5 h 3 g 5 h 3
+
+columns
+c 2 c 2 h 1
+c 9 d 2 h 1
+c 10 d 3 h 1 g 1
+c 6 d 10 h 1 g 2
+c 8 d 9 h 1 g 2
+c 7 d 10 h 1 g 1
+c 6 d 3 e 1 d 6 h 1 g 1
+c 8 d 2 d 3 b 1 d 3 h 1
+c 5 d 9 b 2 d 2 h 1
+c 6 d 7 b 1 d 3 h 1
+c 6 d 3 e 1 d 6 h 1 g 1
+c 7 d 3 d 6 h 1 g 1
+c 5 d 10 h 1 g 2
+c 4 d 11 h 1 g 2
+c 10 d 3 h 2 g 1
+c 8 d 2 h 2
+c 3 c 2 h 1
+h 1

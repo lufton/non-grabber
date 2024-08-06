@@ -1,0 +1,67 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by sanane samanye"
+date "Jan 23, 2018"
+description "A four-sided snowflake."
+difficulty 1.25
+height 25
+id 30780
+link "https://webpbn.com/play.cgi?id=30780"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "This would happen if we live in a 2D universe."
+width 25
+
+rows
+0
+0
+1
+3
+1
+1,3,1
+9
+1,3,1
+1,1,1
+3,1,3,1,3
+1,1,1
+1,3,1,3,1,3,1
+21
+1,3,1,3,1,3,1
+1,1,1
+3,1,3,1,3
+1,1,1
+1,3,1
+9
+1,3,1
+1
+3
+1
+0
+0
+
+columns
+0
+0
+1
+3
+1
+1,3,1
+9
+1,3,1
+1,1,1
+3,1,3,1,3
+1,1,1
+1,3,1,3,1,3,1
+21
+1,3,1,3,1,3,1
+1,1,1
+3,1,3,1,3
+1,1,1
+1,3,1
+9
+1,3,1
+1
+3
+1
+0
+0

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 25390
+link "https://webpbn.com/play.cgi?id=25390"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Tomorrow's Total Lunar Eclipse"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 10 black 6
+black 8 black 4
+black 7 red 4 black 3
+black 6 red 8 black 2
+blue 1 black 5 red 9 black 2
+black 5 red 10 black 1
+black 5 red 11 black 1
+black 5 red 11 black 1
+black 1 blue 1 black 3 red 11 black 1
+black 6 red 11 black 2
+black 6 red 11 black 2
+black 7 red 10 black 3
+black 2 blue 1 black 5 red 8 black 4
+black 10 red 4 black 6
+black 20
+black 20
+black 3 blue 1 black 16
+black 20
+black 20
+
+columns
+black 5 blue 1 black 14
+black 9 blue 1 black 10
+black 13 blue 1 black 6
+black 17 blue 1 black 2
+black 20
+black 6 red 4 black 10
+black 4 red 8 black 8
+black 3 red 10 black 7
+black 2 red 11 black 6
+black 2 red 11 black 6
+black 1 red 12 black 5
+black 1 red 11 black 5
+black 1 red 11 black 5
+black 1 red 11 black 5
+black 2 red 9 black 6
+black 2 red 7 black 6
+black 3 red 3 black 7
+black 4 black 8
+black 6 black 10
+black 20

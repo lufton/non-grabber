@@ -1,0 +1,62 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Aug 26, 2011"
+description "Hercule Poirot. Complete with mustache and green cat-like eyes."
+difficulty 2.0
+height 20
+id 14652
+link "https://webpbn.com/play.cgi?id=14652"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Agatha Christie Character"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 11
+black 12
+black 2 black 2
+0
+black 16
+black 7 black 6
+black 4 black 2
+black 3 black 5 black 4
+black 2 green 1 black 1 green 1 black 2 black 1
+black 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 2
+black 2 black 1 black 2 black 2
+black 1 black 3 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 2 black 2 black 2
+black 1 black 5 black 5 black 1
+black 1 red 1 red 1 black 2
+black 2 red 4 black 2
+
+columns
+black 2
+black 9
+black 5 black 5
+black 3 black 2
+black 1 black 2 black 1 black 1
+black 3 black 2 black 1 green 1 black 3
+black 2 black 2 black 1 black 2
+black 2 black 2 black 1 black 1
+black 2 black 1 black 2 black 1 black 2 red 1
+black 2 black 1 black 4 black 1 black 2 red 1
+black 2 black 1 black 1 red 1
+black 2 black 1 black 2 black 2 red 1
+black 2 black 1 black 2 black 2 red 1
+black 2 black 2 black 1 black 1 black 1 red 1
+black 2 black 2 black 1 green 1 black 2
+black 3 black 2 black 1 black 3
+black 2 black 2 black 2 black 1
+black 2 black 1 black 2
+black 3 black 2 black 3
+black 1 black 2 black 1 black 2

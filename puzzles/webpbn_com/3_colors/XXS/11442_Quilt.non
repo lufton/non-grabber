@@ -1,0 +1,31 @@
+by "janet kennedy (jlgoose)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by janet kennedy"
+date "Dec 16, 2010"
+description "Balloons"
+difficulty 1.25
+height 5
+id 11442
+link "https://webpbn.com/play.cgi?id=11442"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Quilt"
+width 5
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 blue 2
+black 3 blue 2
+blue 4
+blue 1 black 1
+blue 1 black 3
+
+columns
+black 2 blue 3
+black 2 blue 1
+black 1 blue 1 black 2
+blue 3 black 1
+blue 2 black 1

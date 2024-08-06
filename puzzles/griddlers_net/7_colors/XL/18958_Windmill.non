@@ -1,0 +1,89 @@
+by "ety22"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/9/05"
+height 25
+id 18958
+link "https://www.griddlers.net/nonogram/-/g/18958"
+medium_time "0:15:58"
+points 17153
+popularity 67.16
+title "Windmill"
+width 40
+
+color a e9fefe
+color c 00ff00
+color d 48b56f
+color e 00ffff
+color f b09f5d
+color g 808080
+color h 000000
+
+rows
+h 1 h 2 g 3 h 2 g 1
+g 1 h 1 h 3 g 2 h 2 g 2
+g 1 h 1 h 2 g 1 h 3 g 2
+g 1 h 1 h 3 g 3
+g 1 h 1 h 2 g 1 h 2
+f 1 g 1 h 1 f 1 h 2 g 1 f 1 g 1 h 2
+f 2 g 1 h 1 g 7 h 2 g 2 f 1 g 2 h 1
+h 17 h 2 g 2 f 3 g 1 h 2
+g 7 h 1 g 1 f 2 h 2 g 2 f 4 g 2 h 2
+f 3 h 1 g 1 f 2 h 2 g 2 f 6 g 2 h 2
+f 4 h 1 g 1 f 3 h 1 f 7 h 1
+f 4 h 1 g 1 f 3 f 9
+f 5 h 1 g 1 f 4 f 9 c 1 c 1
+f 5 h 1 f 5 c 1 f 2 g 5 f 1 d 1 f 2 c 1 c 1
+f 12 c 1 f 2 g 2 c 1 d 1 g 1 f 1 c 1 d 1 f 1 c 2 c 1
+c 1 f 4 g 4 f 5 c 1 c 1 c 1 f 2 g 2 c 1 d 1 g 1 f 1 c 1 d 1 f 1 d 1 c 1 d 1 c 1
+c 1 c 1 f 3 d 1 g 4 f 5 c 1 c 1 c 1 d 2 c 1 f 1 d 1 g 1 c 1 d 3 c 1 d 1 f 1 d 1 c 1 d 2 c 1
+c 3 f 2 d 2 g 4 f 1 d 2 f 2 c 1 c 1 c 1 d 2 c 1 d 2 g 1 c 1 d 3 c 1 d 3 c 1 d 2 c 1
+c 3 f 1 d 4 g 1 d 2 f 1 d 2 f 2 c 1 d 1 c 1 d 1 c 1 c 1 d 1 c 1 d 3 c 1 d 3 c 1 d 3 c 1 d 2 c 1
+c 1 d 5 c 8 d 2 c 5 d 1 c 1 d 1 c 1 d 13 e 2
+e 3 d 10 c 4 d 3 c 3 d 1 c 1 d 2 e 13
+e 40
+e 40
+e 40
+e 40
+
+columns
+c 5 e 5
+h 1 c 2 d 1 e 5
+h 1 g 1 c 3 d 1 e 5
+h 1 g 1 f 5 d 2 e 4
+h 1 g 1 f 6 d 3 e 4
+h 1 g 1 f 7 d 4 e 4
+f 1 h 1 g 1 f 7 d 3 c 1 d 1 e 4
+f 2 h 1 g 1 f 6 g 3 d 1 c 1 d 1 e 4
+g 6 h 1 g 1 f 6 g 4 c 1 d 1 e 4
+h 14 f 1 g 3 d 1 c 1 d 1 e 4
+f 1 g 1 h 1 g 5 f 2 g 3 d 1 c 1 d 1 e 4
+g 1 h 1 f 11 c 1 d 1 e 4
+g 1 h 1 f 9 d 2 c 1 d 1 e 4
+g 1 h 1 f 7 d 2 c 2 e 4
+g 1 h 1 f 7 d 1 c 1 e 4
+g 1 h 1 f 4 d 1 c 1 e 4
+g 1 h 1 c 6 e 4
+h 1 d 1 c 1 d 1 e 4
+c 7 d 1 e 4
+d 1 c 1 d 1 e 4
+c 6 e 4
+d 1 c 1 e 4
+h 2 d 2 c 3 e 4
+h 2 d 5 e 4
+h 1 h 2 g 1 f 3 c 5 e 4
+h 2 h 2 g 2 f 6 d 4 e 4
+g 1 h 1 h 2 g 2 f 4 g 3 d 5 e 4
+g 1 h 2 h 2 g 2 f 5 g 5 d 2 e 5
+g 2 h 3 g 2 f 6 g 1 c 5 d 1 e 5
+g 2 h 1 g 1 f 8 g 1 d 6 e 5
+h 3 g 2 f 6 g 3 d 4 e 5
+h 1 g 1 h 2 g 3 f 7 d 4 e 5
+h 2 g 1 h 3 g 2 f 3 d 1 c 5 d 1 e 5
+h 2 g 2 h 2 g 1 f 3 d 6 e 5
+h 1 g 2 h 2 f 4 d 3 e 5
+g 2 h 2 d 5 e 5
+c 5 d 1 e 5
+c 3 d 4 e 5
+d 4 e 6
+c 7 e 6

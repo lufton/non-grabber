@@ -1,0 +1,63 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Oct 11, 2010"
+description "Fruit Loops (roller coaster cars in bottom right)"
+difficulty 2.0
+height 20
+id 10653
+link "https://webpbn.com/play.cgi?id=10653"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Cereal 2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 black 2 blue 2
+red 2 green 1 red 2 black 1 green 3 blue 4
+red 9 green 3 blue 4
+red 9 green 4 blue 2
+red 9 green 4
+red 9 green 4
+red 7 green 4
+red 5 green 4
+red 1 red 1 green 4
+0
+black 2 black 2
+black 4 black 4
+black 2 black 2 black 2 black 2
+black 1 black 2 black 2 black 2
+black 1 black 2 black 2 black 2
+black 1 black 1 black 1 black 1
+black 2 black 2 black 2 black 2
+black 4 black 4 red 2 blue 3
+black 2 black 3 red 1 black 1 black 1 blue 1 black 1
+black 2 black 7 black 7
+
+columns
+red 4 black 5 black 1
+red 6 black 2 black 2 black 1
+red 7 black 2 black 2
+red 7 black 2 black 2
+green 2 red 6 black 2 black 2 black 1
+green 1 red 7 black 5 black 1
+red 7 black 2 black 1
+red 6 black 1
+red 4 black 2 black 1
+green 1 black 5 black 1
+black 2 green 2 black 2 black 2 black 1
+black 1 green 1 green 3 black 2 black 2
+green 8 black 2 black 2
+green 7 black 2 black 4
+green 5 black 5 red 2 black 1
+green 3 black 2 red 1 black 2
+blue 2 black 1
+blue 4 blue 1 black 2
+blue 4 blue 2 black 1
+blue 2 blue 1 black 2

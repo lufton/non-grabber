@@ -1,0 +1,113 @@
+by "vickid"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/17/04"
+height 40
+id 7836
+link "https://www.griddlers.net/nonogram/-/g/7836"
+medium_time "0:22:32"
+points 78001
+popularity 70.19
+title "Clown"
+width 50
+
+color a ffffff
+color b ff0000
+color c fffe00
+color d 0081fe
+color f c100fc
+color h 000000
+
+rows
+f 50
+f 19 h 6 f 25
+f 17 h 2 h 2 f 23
+f 16 h 1 h 2 f 21
+f 15 h 2 h 2 f 20
+f 14 h 2 h 1 f 19
+f 14 h 1 h 1 f 19
+f 13 h 1 b 1 h 2 f 18
+f 13 h 1 b 2 h 2 f 17
+f 12 h 1 b 3 b 3 h 2 f 16
+f 12 h 1 b 5 h 1 f 16
+f 12 h 1 b 1 h 4 h 8 f 9
+f 12 h 1 b 1 h 4 h 1 h 1 h 1 d 5 h 4 f 6
+f 12 h 1 h 1 h 1 h 1 h 1 h 1 d 8 h 3 f 4
+f 12 h 4 h 1 h 1 h 1 h 1 h 1 d 10 h 1 f 4
+f 10 h 2 d 3 h 1 h 1 h 1 h 1 d 2 h 1 h 1 d 10 h 1 f 4
+f 9 h 1 d 5 h 1 h 1 d 2 h 1 h 1 d 2 h 1 h 1 d 9 h 4 f 1
+f 7 h 2 d 6 h 1 h 1 d 2 h 1 h 2 h 1 h 1 d 12 h 1 f 1
+f 6 h 1 d 8 h 1 h 1 h 3 b 4 h 1 h 1 d 12 h 1 f 1
+f 5 h 1 d 9 h 1 h 1 h 2 b 6 h 1 h 1 d 12 h 1 f 1
+f 4 h 1 d 9 h 2 h 3 h 1 b 5 h 5 d 11 h 1 f 1
+f 3 h 1 d 8 h 3 h 1 b 5 b 1 h 1 c 2 h 1 d 10 h 1 f 2
+f 2 h 1 d 9 h 1 h 1 b 8 h 1 c 2 h 1 d 9 h 1 f 3
+f 2 h 1 d 9 h 1 h 1 b 8 h 1 c 2 h 1 d 8 h 1 f 4
+f 2 h 1 d 9 h 1 h 6 b 9 h 1 c 1 h 1 d 7 h 1 f 5
+f 2 h 1 d 9 h 3 h 1 c 6 h 1 b 7 h 1 c 2 h 8 f 6
+f 1 h 1 d 12 h 2 h 1 c 8 h 1 b 5 h 1 c 3 h 1 f 13
+f 1 h 1 d 13 h 1 h 1 c 9 h 1 b 3 h 1 c 4 h 1 f 13
+f 1 h 1 d 13 h 1 h 1 c 10 h 3 c 2 h 1 c 2 h 1 f 13
+f 1 h 1 d 13 h 1 h 1 c 3 h 2 c 9 h 1 c 2 h 1 f 14
+f 1 h 1 d 13 h 1 h 1 c 5 h 1 c 7 h 1 c 3 h 1 f 14
+f 1 h 2 d 1 h 14 c 5 h 8 c 4 h 1 f 14
+f 3 h 1 f 13 h 1 c 5 h 1 h 1 c 4 h 1 f 14
+f 17 h 2 c 4 h 2 h 1 c 3 h 1 f 15
+f 18 h 2 c 4 h 6 c 3 h 1 f 16
+f 19 h 2 c 4 h 4 c 3 h 2 f 16
+f 20 h 2 c 4 h 2 c 3 h 2 f 17
+f 21 h 3 c 5 h 2 f 19
+f 23 h 7 f 20
+f 50
+
+columns
+f 40
+f 26 h 6 f 8
+f 22 h 4 d 5 h 1 f 8
+f 21 h 1 d 10 h 1 f 7
+f 20 h 1 d 10 h 1 f 8
+f 19 h 1 d 11 h 1 f 8
+f 18 h 1 d 12 h 1 f 8
+f 17 h 1 d 13 h 1 f 8
+f 17 h 1 d 13 h 1 f 8
+f 16 h 1 d 14 h 1 f 8
+f 15 h 1 d 15 h 1 f 8
+f 15 h 1 d 15 h 1 f 8
+f 9 h 6 d 6 h 5 d 5 h 1 f 8
+f 7 h 2 h 1 d 6 h 1 h 1 d 5 h 1 f 8
+f 5 h 2 h 1 d 5 h 2 h 2 d 4 h 1 f 8
+f 4 h 2 h 7 h 6 f 8
+f 3 h 2 h 1 f 8
+f 2 h 1 h 8 f 6
+f 2 h 1 b 1 h 1 c 7 h 2 f 5
+f 1 h 1 b 4 h 7 h 1 c 9 h 2 f 4
+f 1 h 1 b 2 h 1 h 1 h 1 c 10 h 2 f 3
+f 1 h 1 b 2 h 1 h 1 h 1 c 4 h 1 c 6 h 2 f 2
+f 1 h 1 b 1 h 1 d 2 h 1 h 1 c 4 h 1 c 7 h 1 f 2
+f 1 h 1 h 1 d 2 h 1 h 1 c 5 h 4 c 3 h 2 f 1
+f 1 h 1 h 12 c 6 h 1 h 2 c 3 h 1 f 1
+f 2 h 1 h 1 b 6 h 1 c 5 h 1 h 2 c 2 h 1 f 1
+f 2 h 1 h 2 b 7 h 1 c 4 h 1 h 3 c 1 h 1 f 1
+f 3 h 1 h 6 b 9 h 1 c 3 h 1 h 3 c 1 h 1 f 1
+f 3 h 2 b 3 h 1 b 10 h 1 c 2 h 1 h 2 c 2 h 1 f 1
+f 4 h 1 b 2 h 1 b 10 h 1 c 2 h 1 h 1 c 2 h 2 f 1
+f 5 h 3 b 1 h 1 d 2 b 2 b 6 h 1 c 2 h 3 c 3 h 1 f 2
+f 7 h 2 h 1 d 2 h 2 b 5 h 1 c 2 h 1 c 5 h 1 f 3
+f 8 h 2 h 6 h 1 b 5 h 1 c 2 h 1 c 5 h 2 f 3
+f 9 h 3 h 4 b 1 h 1 c 2 h 1 c 5 h 2 f 4
+f 11 h 5 h 1 c 3 h 1 c 8 h 1 f 6
+f 11 h 1 d 4 h 5 c 8 h 4 f 7
+f 11 h 1 d 8 h 9 f 11
+f 11 h 1 d 13 h 1 f 14
+f 11 h 1 d 13 h 1 f 14
+f 11 h 1 d 13 h 1 f 14
+f 11 h 2 d 12 h 1 f 14
+f 12 h 1 d 12 h 1 f 14
+f 12 h 1 d 12 h 1 f 14
+f 12 h 2 d 11 h 1 f 14
+f 13 h 1 d 10 h 1 f 15
+f 13 h 4 d 6 h 1 f 16
+f 16 h 1 d 5 h 1 f 17
+f 16 h 1 d 4 h 1 f 18
+f 16 h 5 f 19
+f 40

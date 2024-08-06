@@ -1,0 +1,45 @@
+by "Replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/18/07"
+height 12
+id 42890
+link "https://www.griddlers.net/nonogram/-/g/42890"
+medium_time "0:03:16"
+points 688
+popularity 60.48
+title "Poke Ball"
+width 12
+
+color a ffffff
+color b ff0033
+color c 000000
+color d cccccc
+
+rows
+c 4
+c 2 b 4 c 2
+c 1 b 8 c 1
+c 1 b 8 c 1
+c 1 b 10 c 1
+c 1 b 2 c 2 b 6 c 1
+c 3 c 1 b 3 c 3
+c 1 d 1 c 1 c 4 d 1 c 1
+c 1 d 1 c 2 d 1 c 1
+c 1 d 8 c 1
+c 2 d 4 c 2
+c 4
+
+columns
+c 4
+c 2 b 2 c 1 d 1 c 2
+c 1 b 4 c 2 d 2 c 1
+c 1 b 3 c 1 c 1 d 1 c 1
+c 1 b 4 c 1 c 1 d 2 c 1
+c 1 b 5 c 2 d 2 c 1
+c 1 b 6 c 1 d 2 c 1
+c 1 b 6 c 1 d 2 c 1
+c 1 b 5 c 1 d 1 c 1
+c 1 b 4 c 1 d 2 c 1
+c 2 b 2 c 1 d 1 c 2
+c 4

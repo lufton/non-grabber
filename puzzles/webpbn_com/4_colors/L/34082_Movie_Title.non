@@ -1,0 +1,74 @@
+by "Brash Ataom (BRASH)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brash Ataom"
+date "May 14, 2020"
+description "Anyone for a Psycho shower? Fun fact: the movie is in B&W, but I thought it would convey better if I made the water blue. Then I got all patriotic and added the red, in a nod to some of the copies of the film (for drive-in movie theaters, I believe) hand colorized the draining water so it was tinged red...."
+difficulty 3.0
+height 29
+id 34082
+link "https://webpbn.com/play.cgi?id=34082"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Movie Title"
+width 23
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 1 black 1 black 2
+black 1 blue 1 blue 1 black 1
+black 2 blue 1 blue 1 black 1 black 2
+black 1 black 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 2 blue 1 blue 1 blue 2 black 1
+black 2 blue 1 blue 1 blue 1 blue 1 black 2
+black 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 1
+blue 2 black 1 blue 1 blue 1 blue 1 blue 1 black 1 blue 2
+blue 1 black 2 blue 1 blue 1 black 1 blue 1 blue 1 black 2 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1
+blue 1 blue 1 blue 1 black 1 blue 1 black 1 blue 1 blue 1 blue 2
+blue 1 blue 2 blue 1 blue 1 blue 1 blue 2 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 blue 2
+blue 1 blue 1 blue 1 red 1 blue 1 blue 1 blue 1
+blue 1 blue 2 blue 1 red 1 blue 1 blue 1 blue 1
+blue 1 blue 1 red 1 red 1 blue 2 blue 1 blue 1
+blue 2 blue 1 red 1 red 1 blue 1 blue 1 red 1 blue 2
+blue 1 blue 1 red 1 red 1 blue 1 red 1 blue 1
+blue 1 red 1 red 1 red 1 red 1 red 1 red 1
+blue 1 red 1 red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 1 red 1 red 1 red 1
+
+columns
+0
+blue 4 red 1
+blue 6
+black 5 blue 5
+black 3 black 2 blue 4
+black 2 blue 4 black 1 blue 4 red 3
+black 2 black 1 blue 2 black 3 blue 6
+black 2 black 1 blue 6
+black 1 black 2 blue 3 red 6
+black 2 black 1 blue 16
+black 1 black 2
+black 1 black 1 blue 7 red 8
+black 1 black 2
+black 2 black 1 blue 19
+black 1 black 2 blue 3 red 3
+black 2 black 1 blue 6
+black 2 black 1 blue 3 black 3 blue 8
+black 2 blue 4 black 1 red 5
+black 3 black 2 blue 5
+black 5 blue 5
+blue 5
+blue 2 red 3
+0

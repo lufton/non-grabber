@@ -1,0 +1,40 @@
+by "pinkpigeon"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/4/23"
+height 10
+id 266296
+link "https://www.griddlers.net/nonogram/-/g/266296"
+medium_time "0:00:35"
+points 480
+popularity 70.34
+title "Letter M"
+width 10
+
+color a ffffff
+color b 000000
+color c ff0000
+
+rows
+b 2 b 2
+b 1 c 1 b 1 b 1 c 1 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+b 1 c 1 c 1 b 2 c 1 c 1 b 1
+b 1 c 1 c 2 c 1 b 1
+b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 1
+b 1 c 1 c 1 b 1
+
+columns
+b 10
+b 1 c 9
+b 1 c 1
+b 1 c 1
+b 1 c 1
+b 1 c 1
+b 1 c 1
+b 1 c 1
+b 1 c 9
+b 10

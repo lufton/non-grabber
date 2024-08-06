@@ -1,0 +1,27 @@
+by "Seleucus Frost ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Seleucus Frost"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.0
+height 2
+id 25613
+link "https://webpbn.com/play.cgi?id=25613"
+note "published,definitely unique,definitely trivial"
+quality 1.0
+title "Lol"
+width 2
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 1
+black 1 green 1
+
+columns
+blue 1 black 1
+red 1 green 1

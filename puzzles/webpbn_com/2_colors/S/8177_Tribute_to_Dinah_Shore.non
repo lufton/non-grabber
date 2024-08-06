@@ -1,0 +1,38 @@
+by "Josh Greifer (joshgreifer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Josh Greifer"
+date "Nov  4, 2011"
+description "Tribute to Dinosaur!"
+difficulty 2.25
+height 9
+id 8177
+link "https://webpbn.com/play.cgi?id=8177"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Tribute to Dinah Shore"
+width 12
+
+rows
+1,2
+3
+3
+2,1
+2,3
+2,2
+5
+3,1
+4,3
+
+columns
+1
+1
+2
+3
+3
+3
+2,3
+2,2,1
+1,1,2,1
+4
+2,1
+2

@@ -1,0 +1,51 @@
+by "isabel boccalini (belibt)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by isabel boccalini"
+date "Apr 27, 2008"
+description ""
+difficulty 1.25
+height 15
+id 2700
+link "https://webpbn.com/play.cgi?id=2700"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Cockroach"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 1 black 1
+black 1 black 1
+black 1 black 3 black 1
+black 3 green 1 black 3
+black 3 green 1 black 3
+black 3 green 1 black 3
+black 3 green 1 black 3
+black 5 green 1 black 5
+black 3 green 1 black 3
+black 3 green 1 black 3
+black 3 green 1 black 3
+black 3 green 1 black 3
+black 1 black 3 black 1
+0
+
+columns
+0
+0
+black 1
+black 1 black 1 black 1
+black 9
+black 1 black 9
+black 12
+black 1 green 9 black 1
+black 12
+black 1 black 9
+black 9
+black 1 black 1 black 1
+black 1
+0
+0

@@ -1,0 +1,61 @@
+by "Marcus (aanet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Marcus"
+date "Mar  9, 2008"
+description "An eye."
+difficulty 2.5
+height 20
+id 2405
+link "https://webpbn.com/play.cgi?id=2405"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Looks good..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 10
+black 12
+black 5 black 5
+black 3 black 4
+black 3 black 2
+black 3 black 2
+black 3 black 6 black 1
+black 2 black 12
+black 1 black 5 blue 4 black 5
+black 1 black 2 blue 2 black 5 blue 2 black 3
+black 3 blue 2 black 4 black 2 blue 1 black 3
+black 3 blue 2 black 3 black 2 blue 1 black 1
+black 1 blue 1 black 7 blue 1
+black 2 blue 2 black 5 blue 2
+black 5 blue 3 black 1 blue 3
+black 1 black 4 blue 5 black 1
+black 3 black 2 black 3
+black 2 black 4 black 4
+black 4 black 2
+black 2
+
+columns
+black 4 black 6
+black 3 black 2 black 2 black 3
+black 3 black 2 black 1 black 3
+black 3 black 2 black 2 black 1
+black 3 black 2 black 2 black 2
+black 3 black 2 black 1 black 1
+black 3 black 2 blue 2 black 2
+black 3 black 2 blue 5 black 1
+black 3 black 3 blue 1 black 3 blue 2 black 1
+black 2 black 2 blue 1 black 5 blue 2 black 1
+black 2 black 2 blue 1 black 5 blue 2 black 1
+black 2 black 2 blue 1 black 2 black 3 blue 1 black 1
+black 2 black 2 blue 1 black 1 black 2 blue 2 black 1
+black 2 black 8 blue 2 black 1
+black 3 black 2 blue 1 black 3 blue 2 black 1
+black 3 black 2 blue 5 black 1
+black 3 black 3 black 1
+black 2 black 3 black 2
+black 4 black 2 black 1
+black 4 black 2 black 2

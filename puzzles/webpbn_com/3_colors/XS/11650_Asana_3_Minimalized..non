@@ -1,0 +1,34 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan  3, 2011"
+description "Complete with red dot."
+difficulty 1.25
+height 5
+id 11650
+link "https://webpbn.com/play.cgi?id=11650"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Asana #3 Minimalized."
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 4 red 1 black 3
+black 1 black 1 black 1
+black 1
+black 2
+
+columns
+black 1
+black 2
+black 1
+black 1 black 1
+red 1 black 3
+black 1
+black 1
+black 2

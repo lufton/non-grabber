@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "May 11, 2014"
+description "Answer in first spoiler."
+difficulty 2.75
+height 20
+id 23660
+link "https://webpbn.com/play.cgi?id=23660"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 2.25
+title "Before and After #3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 3
+black 1 red 3 black 3 black 2 black 2
+black 1 red 3 black 1 black 1 black 2 black 2
+black 1 red 3 black 1 black 1 black 2 black 2
+black 1 red 3 black 1 black 1 black 3 black 3
+black 1 red 3 black 3 black 2 black 2
+black 5 black 2 black 2
+black 2 black 2
+black 3
+0
+black 3
+black 1 black 1 black 2
+black 3 black 12
+black 1 black 12
+black 2 black 2
+black 1 black 2
+black 1 black 1 black 2
+black 5 black 12
+black 1 black 12
+black 2
+
+columns
+black 7 black 3
+red 5 black 1 black 3 black 1 black 1
+red 5 black 1 black 1 black 4 black 1
+red 5 black 1 black 3 black 4
+black 7 black 1
+black 1 black 1
+black 5 black 4
+black 4
+black 1 black 4 black 2
+black 3 black 4 black 2
+black 2 black 2 black 2 black 2
+black 1 black 1 black 2 black 2
+black 2 black 2 black 2 black 2
+black 3 black 1 black 2 black 2
+black 1 black 3 black 2 black 2
+black 2 black 2 black 2 black 2
+black 1 black 1 black 2 black 2
+black 2 black 2 black 2 black 2
+black 3 black 2
+black 1 black 2

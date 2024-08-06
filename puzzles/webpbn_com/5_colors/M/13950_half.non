@@ -1,0 +1,63 @@
+by "candy edwards (angel)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by candy edwards"
+date "May 16, 2011"
+description ""
+difficulty 1.25
+height 20
+id 13950
+link "https://webpbn.com/play.cgi?id=13950"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "half"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 1 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+blue 2 red 1 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+red 1 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+red 4 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+black 6 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+green 8 blue 1 red 1 black 1 green 1 blue 1 red 1
+blue 1 red 1 black 1 green 1 blue 1 red 1
+blue 10 red 1 black 1 green 1 blue 1 red 1
+red 1 black 1 green 1 blue 1 red 1
+red 12 black 1 green 1 blue 1 red 1
+black 1 green 1 blue 1 red 1
+black 14 green 1 blue 1 red 1
+green 1 blue 1 red 1
+green 16 blue 1 red 1
+blue 1 red 1
+blue 18 red 1
+red 1
+red 20
+
+columns
+blue 1 red 1 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+blue 2 red 1 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+red 1 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+red 4 black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+black 1 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+black 6 green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+green 1 blue 1 red 1 black 1 green 1 blue 1 red 1
+green 8 blue 1 red 1 black 1 green 1 blue 1 red 1
+blue 1 red 1 black 1 green 1 blue 1 red 1
+blue 10 red 1 black 1 green 1 blue 1 red 1
+red 1 black 1 green 1 blue 1 red 1
+red 12 black 1 green 1 blue 1 red 1
+black 1 green 1 blue 1 red 1
+black 14 green 1 blue 1 red 1
+green 1 blue 1 red 1
+green 16 blue 1 red 1
+blue 1 red 1
+blue 18 red 1
+red 1
+red 20

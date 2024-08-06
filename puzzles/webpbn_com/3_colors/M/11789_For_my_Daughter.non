@@ -1,0 +1,66 @@
+by "dc (cutiefree)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by dc"
+date "Jan 17, 2011"
+description "She asked me to draw a sea horse...with a red eye..."
+difficulty 2.5
+height 30
+id 11789
+link "https://webpbn.com/play.cgi?id=11789"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "For my Daughter"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 4
+black 4 black 2
+black 2 black 2
+black 1 red 1 black 1
+black 1 red 2 black 1
+black 2 black 1
+black 1 black 2
+black 1 black 2
+black 1 black 4 black 1
+black 1 black 1 black 4
+black 1 black 1
+black 1 black 1
+black 1 black 2
+black 1 black 2
+black 2 black 1 black 2
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 2 black 1 black 1
+black 2 black 1
+black 1 black 2
+black 1 black 1 black 3
+black 1 black 1 black 1 black 1
+black 2 black 3 black 1
+black 1 black 2 black 1
+black 2 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 6
+
+columns
+0
+black 10
+black 4 black 4
+black 2 black 2
+black 1 black 5
+black 1 black 3
+black 2 black 4 black 4
+black 1 red 1 black 5 black 2 black 2
+black 1 red 2 black 1 black 2 black 1
+black 2 black 1 black 2 black 5 black 1
+black 2 black 2 black 6 black 3 black 1
+black 5 black 1 black 3 black 1
+black 2 black 1 black 1 black 2
+black 3 black 8
+0

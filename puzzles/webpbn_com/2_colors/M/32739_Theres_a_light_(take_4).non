@@ -1,0 +1,57 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by David Bouldin"
+date "Aug 23, 2019"
+description "Burning in the fireplace"
+difficulty 3.25
+height 20
+id 32739
+link "https://webpbn.com/play.cgi?id=32739"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "There's a light (take 4)"
+width 20
+
+rows
+2
+2
+3
+1,3
+1,3,1
+2,3,1
+1,2,3,2
+2,2,4,1
+2,3,2,1,1
+1,4,2,1,2
+1,4,3,1,1
+1,4,3,1,1
+3,3,2,1
+1,3,2,1
+2,3,1,4,1
+1,3,4,1
+2,5,1
+2,2
+3,3
+10
+
+columns
+2
+4,3
+2,2
+2,3,2
+6,1
+7,2
+1,4,2,1
+7,1,1
+4,1,1
+1,1,1
+1,2,1,1
+4,3,2,1
+11,3,1
+9,3,1
+4,4,2
+8,1
+1,2
+2,1
+4,2
+6

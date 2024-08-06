@@ -1,0 +1,41 @@
+by "Horace (horace)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Horace"
+date "Aug  7, 2013"
+description "Saw one of these on my porch today. (Black Widow Spider)"
+difficulty 1.25
+height 15
+id 22545
+link "https://webpbn.com/play.cgi?id=22545"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Belly of the Beast"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 1 black 1
+black 3 black 1
+black 2
+black 3
+black 3 red 1
+black 1 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1
+0
+0
+
+columns
+black 2 black 1
+black 1 black 1 black 2
+black 1 black 2 black 1
+black 4 black 2
+black 4 red 1 black 2 black 1

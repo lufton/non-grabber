@@ -1,0 +1,47 @@
+by "nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/7/19"
+height 15
+id 203750
+link "https://www.griddlers.net/nonogram/-/g/203750"
+medium_time "0:01:26"
+points 181
+popularity 79.34
+title "Simple Flower"
+width 10
+
+color a ffffff
+color b 663300
+color c 339900
+color d FF3300
+color e FF9966
+
+rows
+e 3
+e 2 d 1 e 2
+e 2 d 3 e 2
+e 2 d 3 e 2
+e 2 d 1 e 2
+e 3
+c 3 c 1 c 2
+c 3 c 1 c 3
+c 7
+c 1
+b 7
+b 5
+b 5
+b 5
+b 7
+
+columns
+c 1
+c 2
+e 2 c 3 b 1 b 1
+e 4 c 2 b 5
+e 2 d 2 e 2 c 1 b 5
+e 1 d 4 e 1 c 4 b 5
+e 2 d 2 e 2 c 1 b 5
+e 4 c 2 b 5
+e 2 c 3 b 1 b 1
+c 2

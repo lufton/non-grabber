@@ -1,0 +1,65 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr  1, 2023"
+description "Window box"
+difficulty 1.75
+height 21
+id 36623
+link "https://webpbn.com/play.cgi?id=36623"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "From the inside, out..."
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 21
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 21
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 red 1 red 1 blue 1 blue 1 blue 1
+blue 1 blue 1 red 3 blue 1 blue 1 blue 1
+blue 1 blue 1 red 3 blue 1 red 1 blue 1 red 1 red 1 blue 1
+blue 21
+blue 1 red 1 red 1 blue 1 green 1 blue 1 blue 1 red 2 blue 1
+blue 1 red 3 blue 1 green 1 green 1 blue 1 blue 1 green 1 blue 1
+blue 1 red 3 blue 1 green 3 blue 1 blue 1 green 1 green 1 blue 1
+blue 1 green 1 blue 1 green 2 blue 1 green 1 blue 1 green 1 green 1 blue 1
+blue 21
+blue 1 green 2 blue 1 green 2 blue 1 green 2 blue 1 green 2 blue 1
+blue 1 green 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+blue 1 green 1 blue 1 green 1 blue 1 blue 1 green 1 blue 1
+blue 1 black 1 green 1 black 2 blue 1 black 2 green 1 black 1 blue 1 black 4 blue 1 green 1 black 3 blue 1
+blue 21
+
+columns
+blue 21
+blue 1 blue 1 blue 1 red 2 blue 1 black 1 blue 1
+blue 1 blue 1 blue 1 red 3 green 1 blue 1 green 4 blue 1
+blue 1 blue 1 blue 1 red 2 blue 1 green 2 black 1 blue 1
+blue 1 blue 1 blue 1 red 1 blue 1 black 1 blue 1
+blue 21
+blue 1 blue 1 red 1 blue 1 green 2 blue 1 black 1 blue 1
+blue 1 blue 1 red 2 blue 1 green 2 blue 1 black 1 blue 1
+blue 1 blue 1 red 3 blue 1 green 4 blue 1 green 4 blue 1
+blue 1 blue 1 red 2 blue 1 blue 1 green 1 black 1 blue 1
+blue 21
+blue 1 blue 1 blue 1 green 1 blue 1 black 1 blue 1
+blue 1 blue 1 blue 1 blue 1 black 1 blue 1
+blue 1 blue 1 blue 1 blue 1 green 1 black 1 blue 1
+blue 1 blue 1 red 1 blue 1 blue 1 green 2 black 1 blue 1
+blue 21
+blue 1 blue 1 red 1 blue 1 red 1 green 3 blue 1 green 4 blue 1
+blue 1 blue 1 blue 1 red 1 blue 1 green 1 black 1 blue 1
+blue 1 blue 1 red 1 blue 1 green 2 blue 1 black 1 blue 1
+blue 1 blue 1 blue 1 blue 1 black 1 blue 1
+blue 21

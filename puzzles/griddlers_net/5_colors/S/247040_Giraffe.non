@@ -1,0 +1,47 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/22"
+height 14
+id 247040
+link "https://www.griddlers.net/nonogram/-/g/247040"
+medium_time "0:03:04"
+points 542
+popularity 82.43
+title "Giraffe"
+width 11
+
+color a ffffff
+color b 503300
+color c ffa000
+color d cc6600
+color e ff00ff
+
+rows
+d 1 c 1
+b 1 c 2 b 1
+c 4 b 3
+c 2 b 1 c 3 b 1
+c 3 e 1 c 2 b 2
+c 5 b 1
+c 1 d 1 b 2
+c 2 b 1
+d 1 c 1 b 2
+c 2 b 1 b 2
+d 1 c 1 b 2 c 1 b 1
+c 6
+c 1 d 1 c 2 d 1 c 1
+c 2 c 2
+
+columns
+c 2
+c 4
+c 1 b 1 c 2
+d 1 b 1 c 2 e 1 c 1
+c 7 d 1 c 1 d 1 c 3
+c 2 b 1 c 3 d 1 c 5 d 1 c 1
+b 10 c 2
+b 1 b 1 b 1 b 1 b 1 c 2
+c 2 d 1 c 1
+b 2 c 3
+b 1

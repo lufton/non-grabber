@@ -1,0 +1,49 @@
+by "Josh Greifer (joshgreifer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Josh Greifer"
+date "Apr  5, 2010"
+description "An exercise in "checker" logic"
+difficulty 2.25
+height 16
+id 8275
+link "https://webpbn.com/play.cgi?id=8275"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "Ones (Abstract pattern)"
+width 16
+
+rows
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+
+columns
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1

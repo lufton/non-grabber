@@ -1,0 +1,82 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/10/22"
+height 30
+id 241933
+link "https://www.griddlers.net/nonogram/-/g/241933"
+medium_time "0:14:45"
+points 14455
+popularity 89.0
+title "Geometry"
+width 30
+
+color a ffffff
+color b 000000
+color c 999999
+color d CC0033
+color e 990000
+
+rows
+b 15 d 5 b 10
+b 1 c 1 d 1 b 3 d 1 c 1 b 1
+b 1 b 13 d 1 b 1 b 1 d 1 b 8 b 1
+b 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 b 1
+b 1 b 1 b 11 d 1 b 1 b 1 d 1 b 6 b 1 b 1
+b 1 b 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 9 d 1 b 1 b 1 d 1 b 4 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 c 1 d 6 b 1 b 1 d 1 c 1 b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 b 2 d 1 b 3 d 2 b 1 b 1 d 1 b 2 b 1 b 1 b 1 b 1
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 d 1 b 1 b 1 d 1 e 1 b 1 c 1 b 1 e 1 c 1 b 1 c 1 b 1 c 1 b 1 b 1 b 1
+d 9 e 1 d 1 b 1 b 1 d 11 b 1 b 1 b 1
+d 1 b 9 d 1 b 1 b 1 d 1 b 9 d 1 b 1 b 1 b 1
+d 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 d 1 b 1 b 1 b 1
+d 1 b 9 d 1 b 1 b 1 d 1 b 9 d 1 b 1 b 1 b 1
+d 9 e 1 d 1 b 1 c 1 b 1 d 11 b 1 c 1 b 1 c 1 b 1
+b 1 c 1 b 1 c 1 b 1 d 11 b 1 c 1 b 1 d 1 e 1 d 9
+b 1 b 1 b 1 d 1 b 9 d 1 b 1 b 1 d 1 b 9 d 1
+b 1 b 1 b 1 d 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 d 1
+b 1 b 1 b 1 d 1 b 9 d 1 b 1 b 1 d 1 b 9 d 1
+b 1 b 1 b 1 d 11 b 1 b 1 d 1 e 1 d 9
+b 1 b 1 b 1 c 1 b 1 c 1 b 1 c 1 e 1 b 1 c 1 b 1 e 1 d 1 b 1 b 1 d 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1
+b 1 b 1 b 1 b 1 b 2 d 1 b 1 b 1 d 2 b 1 b 1 d 1 b 2 b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 c 1 d 1 b 1 b 1 d 2 b 1 b 1 d 1 c 1 b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 4 d 1 b 1 b 1 d 2 b 3 d 1 b 4 b 1 b 1 b 1
+b 1 b 1 b 1 c 1 d 1 b 1 b 1 d 6 c 1 b 1 b 1 b 1
+b 1 b 1 b 6 d 1 b 1 b 1 d 1 b 11 b 1 b 1
+b 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 b 1
+b 1 b 8 d 1 b 1 b 1 d 1 b 13 b 1
+b 1 c 1 d 1 b 3 d 1 c 1 b 1
+b 10 d 5 b 15
+
+columns
+b 10 d 5 b 15
+b 1 c 1 d 1 b 3 d 1 c 1 b 1
+b 1 b 8 d 1 b 1 b 1 d 1 b 13 b 1
+b 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 b 1
+b 1 b 1 b 6 d 1 b 1 b 1 d 1 b 11 b 1 b 1
+b 1 b 1 b 1 c 1 d 1 b 1 b 1 d 6 c 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 4 d 1 b 1 b 1 d 2 b 3 d 1 b 4 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 c 1 d 1 b 1 b 1 d 2 b 1 b 1 d 1 c 1 b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 b 2 d 1 b 1 b 1 d 2 b 1 b 1 d 1 b 2 b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 c 1 b 1 c 1 e 1 b 1 c 1 b 1 e 1 d 1 b 1 b 1 d 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1
+b 1 b 1 b 1 b 1 d 9 b 1 b 1 d 1 e 1 d 9
+b 1 b 1 b 1 b 1 d 1 b 7 d 1 b 1 b 1 d 1 b 9 d 1
+b 1 b 1 b 1 b 1 d 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 d 1
+b 1 b 1 b 1 b 1 d 1 b 7 d 1 b 1 b 1 d 1 b 9 d 1
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 d 9 b 1 c 1 b 1 d 1 e 1 d 9
+d 9 e 1 d 1 b 1 c 1 b 1 d 11 b 1 c 1 b 1 c 1 b 1
+d 1 b 9 d 1 b 1 b 1 d 1 b 9 d 1 b 1 b 1 b 1
+d 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 d 1 b 1 b 1 b 1
+d 1 b 9 d 1 b 1 b 1 d 1 b 9 d 1 b 1 b 1 b 1
+d 9 e 1 d 1 b 1 b 1 d 11 b 1 b 1 b 1
+b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1 d 1 b 1 b 1 d 1 e 1 b 1 c 1 b 1 e 1 c 1 b 1 c 1 b 1 c 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 b 2 d 1 b 1 b 1 d 2 b 1 b 1 d 1 b 2 b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 1 c 1 d 1 b 1 b 1 d 2 b 1 b 1 d 1 c 1 b 1 b 1 b 1 b 1
+b 1 b 1 b 1 b 4 d 1 b 3 d 2 b 1 b 1 d 1 b 4 b 1 b 1 b 1
+b 1 b 1 b 1 c 1 d 6 b 1 b 1 d 1 c 1 b 1 b 1 b 1
+b 1 b 1 b 11 d 1 b 1 b 1 d 1 b 6 b 1 b 1
+b 1 b 1 c 1 d 1 b 1 b 1 d 1 c 1 b 1 b 1
+b 1 b 13 d 1 b 1 b 1 d 1 b 8 b 1
+b 1 c 1 d 1 b 3 d 1 c 1 b 1
+b 15 d 5 b 10

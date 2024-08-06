@@ -1,0 +1,62 @@
+by "Belita (belita)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Belita"
+date "Aug  1, 2024"
+description "My cat loved to chase the light from a laser pointer, but unfortunately it broke. We used to keep it on the piano, and sometimes she crawls up on the piano looking for it. Apparently it was no secret to her where the light was coming from."
+difficulty 1.75
+height 20
+id 38791
+link "https://webpbn.com/play.cgi?id=38791"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "WCP 197 Where'd it go?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3 black 1
+black 1 green 5 black 1
+black 1 red 1 green 1 black 2
+black 2 red 3 green 2 black 2
+black 2 red 3 green 1 red 1 green 2
+red 5 green 1
+red 4 green 1
+red 1 red 4 red 3 black 1 green 3 black 1
+red 1 red 6 black 10
+red 9 black 8
+red 6 black 1 black 5
+red 4 black 1 black 1 black 1
+red 3 black 1 black 1 black 1
+red 2 black 3 black 1 black 1
+black 3 red 3 black 4 black 1 black 1
+black 2 red 3 black 5 black 1
+black 6 black 2 black 1
+black 1 black 10 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+
+columns
+red 3 black 3
+black 2 red 2 black 6
+black 4 red 2 black 1 black 1
+red 6 black 1
+red 9 black 1
+red 9 red 2 black 2
+red 9 black 1 red 1 black 1
+red 8 black 1 black 1
+green 1 red 1 green 1 red 2 red 2 black 5 black 3
+green 2 red 2 red 2 black 1 black 1
+green 2 red 1 black 1 black 1 black 1
+green 2 red 1 black 1 black 2 black 1
+green 3 black 3 black 1 black 1
+green 2 green 1 black 2 black 1 black 1
+green 4 black 2 black 3
+green 1 black 9
+black 4
+black 2 black 3
+black 4 black 3
+black 12

@@ -1,0 +1,72 @@
+by "Kimberly (Gresenle)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Kimberly"
+date "Nov 17, 2007"
+description "I was going for Humpty Dumpty, but now he's mixed with Green Eggs and Ham. This is my first attempt at a puzzle - much harder than it looks to create one, especially when your drawing skills are as bad as mine."
+difficulty 1.25
+height 20
+id 1833
+link "https://webpbn.com/play.cgi?id=1833"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Green eggs"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2
+green 4
+green 6
+green 8
+green 3 green 1 green 2
+green 4 black 1 green 1 black 1 green 3
+green 14
+green 14
+green 2 black 1 green 2 black 1 green 2 black 1 green 3
+green 2 black 2 green 1 black 2 green 3
+black 11 green 8 black 11
+black 12 green 6 black 12
+black 12 green 2 black 2 green 2 black 12
+black 12 green 2 black 2 green 2 black 12
+black 9 blue 2 green 3 black 2 green 3 blue 2 black 9
+black 9 blue 2 green 3 black 2 green 3 blue 2 black 9
+black 9 blue 5 black 2 blue 5 black 9
+black 30
+black 30
+black 30
+
+columns
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+green 2 black 10
+green 4 black 4 blue 3 black 3
+green 6 black 4 blue 3 black 3
+green 5 black 1 green 2 black 3 green 2 blue 1 black 3
+green 7 black 1 green 6 blue 1 black 3
+green 3 green 3 black 1 green 6 blue 1 black 3
+green 4 black 1 green 2 black 1 green 3 black 8
+green 9 black 1 green 2 black 8
+green 3 green 3 black 1 green 6 blue 1 black 3
+green 2 black 1 green 2 black 1 green 7 blue 1 black 3
+green 8 black 3 green 2 blue 1 black 3
+green 6 black 4 blue 3 black 3
+green 4 black 4 blue 3 black 3
+green 2 black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10
+black 10

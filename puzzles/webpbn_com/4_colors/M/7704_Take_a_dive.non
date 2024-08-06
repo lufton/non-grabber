@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Jan 31, 2010"
+description "wearing red swim trunks"
+difficulty 1.5
+height 20
+id 7704
+link "https://webpbn.com/play.cgi?id=7704"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "Take a dive"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 6
+red 1
+red 2 red 1
+black 1 red 3 red 1
+black 2 black 1 red 1
+black 2 black 1 red 1
+black 8 red 1
+black 2 black 1 red 1
+black 1 red 1
+black 1 red 1
+red 1
+red 1
+red 1
+red 1
+red 1
+red 1
+red 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 red 1
+blue 20
+
+columns
+blue 1
+black 2 blue 1
+black 2 blue 2
+black 2 blue 1
+black 3 blue 1
+black 2 black 1 blue 2
+red 2 black 1 blue 1
+red 2 black 1 black 1 blue 1
+red 1 black 5 blue 2
+blue 1
+blue 1
+blue 2
+blue 1
+blue 1
+blue 1 blue 2
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 2
+blue 1 blue 1
+blue 1 red 17 blue 1

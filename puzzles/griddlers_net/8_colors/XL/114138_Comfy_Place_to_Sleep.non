@@ -1,0 +1,100 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/19/11"
+height 30
+id 114138
+link "https://www.griddlers.net/nonogram/-/g/114138"
+medium_time "0:18:38"
+points 10559
+popularity 67.33
+title "Comfy Place to Sleep"
+width 45
+
+color a ebb19e
+color b 944c11
+color c 39352c
+color d 656052
+color e 908b84
+color f 582500
+color g cf9460
+color h eeeeee
+
+rows
+e 1
+e 2
+e 1 e 3
+e 2 e 2 e 1
+e 3 d 4 e 1 e 1
+e 1 e 2 d 5 c 1 e 1
+e 1 e 1 c 1 d 3 e 1 d 2 e 1 d 1
+c 2 e 1 d 3 e 6 d 3
+c 10 d 1 d 2 e 7 c 1 e 3 d 1
+c 2 d 1 c 7 e 2 c 1 d 2 e 5 h 4 c 1 d 3
+c 1 d 1 c 1 d 4 c 1 d 2 e 3 c 1 d 1 e 5 h 6 e 1 d 2
+d 8 c 1 d 2 e 3 c 1 d 2 e 3 c 1 h 8 e 2
+d 8 c 1 d 2 e 4 c 1 d 2 e 2 c 1 e 1 h 6 c 1 h 2 e 1
+d 9 e 8 c 1 d 2 e 4 h 2 c 1 h 6 e 1
+d 8 e 9 c 1 d 3 e 3 h 9 e 1
+f 24 d 4 e 3 h 4 h 3 f 6
+f 26 e 5 h 7 f 7
+f 27 e 5 h 5 f 8
+b 1 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4
+b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 1
+b 1 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4
+b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 1
+b 1 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4
+b 4 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2
+g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 3
+b 4 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2
+g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 4 g 3 b 3
+b 3 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 2 b 5 g 1
+f 39
+f 39
+
+columns
+f 3
+f 3 b 5
+f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1
+f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+f 3 b 10 f 2
+d 2 f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+d 2 f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+d 3 f 3 b 10 f 2
+d 4 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+d 4 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+c 1 d 4 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+c 1 d 5 f 3 b 10 f 2
+c 2 d 4 f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+c 1 d 5 e 1 f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+c 2 d 3 e 2 f 3 b 10 f 2
+c 2 d 2 c 1 e 2 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+c 2 d 1 c 1 d 1 e 2 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+c 3 d 2 e 2 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+c 2 d 2 e 3 f 3 b 10 f 2
+c 2 d 1 e 4 f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+c 2 e 5 f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+c 2 e 6 f 3 b 10 f 2
+c 2 e 2 c 4 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+e 6 d 1 c 2 d 5 f 2 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+e 2 d 7 f 2 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+e 2 d 2 e 4 d 2 e 1 f 1 b 10 f 2
+e 2 d 2 e 6 d 1 e 2 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+d 1 c 1 d 1 e 4 c 1 e 5 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+d 3 e 3 c 1 e 6 b 10 f 2
+d 3 e 4 h 4 e 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+d 3 e 3 h 7 e 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+d 2 e 3 h 4 c 1 h 4 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+d 1 c 1 d 1 e 2 h 9 b 10 f 2
+e 2 d 1 e 2 h 9 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+e 2 e 1 c 1 h 6 h 2 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+e 2 d 1 e 1 c 1 h 2 c 1 h 5 b 10 f 2
+e 7 d 1 e 1 d 1 e 1 h 6 f 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+d 2 e 1 d 2 e 1 h 4 f 2 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+d 3 e 4 f 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 f 2
+f 3 b 10 f 2
+f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 f 2
+f 3 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1
+f 3 b 5
+f 3

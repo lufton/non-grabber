@@ -1,0 +1,33 @@
+by "Alex Klages (metalfoot)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alex Klages"
+date "Mar 18, 2010"
+description "A!"
+difficulty 1.25
+height 8
+id 8086
+link "https://webpbn.com/play.cgi?id=8086"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Reliving my 8-bit days"
+width 8
+
+rows
+4
+2,2
+2,2
+7
+2,2
+2,2
+3,3
+0
+
+columns
+5
+6
+2,1,1
+1,1
+1,1
+7
+6
+1

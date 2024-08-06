@@ -1,0 +1,52 @@
+by "Randall Childs (rchilds)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Randall Childs"
+date "Oct 18, 2016"
+description "I wanted to try something with ambiguous solutions. Can they provide a new dimension to the game? The numbers in the middle eight columns can make either a line pointing to the happy face or a line pointing to the angry face. Which way did your line point at first? If you "draw" your line towards the angry face, you are mathematically correct, but the program will tell you it's not the intended solution. To get this description you are forced to "correct" your solution to mine. But what if a puzzle maker wants the solution to be ambiguous? Or a choice for the solver?"
+difficulty 1.75
+height 15
+id 28909
+link "https://webpbn.com/play.cgi?id=28909"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.5
+title "Do you have any choice in the matter?"
+width 20
+
+rows
+2,2,2,2
+1,1,1,1
+0
+1,1,5
+5,1,1
+0
+2
+3
+3
+3
+3
+3
+3
+2
+0
+
+columns
+1,2
+2,1
+1
+2,1
+1,2
+0
+2
+3
+3
+3
+3
+3
+3
+2
+0
+1,2
+2,1
+1
+2,1
+1,2

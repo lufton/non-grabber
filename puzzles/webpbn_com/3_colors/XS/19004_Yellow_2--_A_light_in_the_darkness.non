@@ -1,0 +1,41 @@
+by "Kristen Vognild (Kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kristen Vognild"
+date "Jun 14, 2012"
+description "Stare at the center of the puzzle for 15 seconds, then look at a white wall or the white space to the side of the grid."
+difficulty 1.25
+height 10
+id 19004
+link "https://webpbn.com/play.cgi?id=19004"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Yellow #2-- A light in the darkness"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 1 blue 1
+blue 2 blue 3 blue 1
+blue 2 blue 2 blue 2
+blue 2 blue 1 blue 1
+black 1 black 1 blue 1
+black 3 black 3 black 2
+black 3 black 3 black 2
+black 3 black 3 black 2
+black 3 black 3 black 2
+black 3 black 3 black 2
+
+columns
+blue 1 black 5
+blue 3 black 6
+blue 2 blue 1 black 5
+0
+blue 2 black 5
+blue 4 black 6
+blue 1 black 5
+0
+blue 2 blue 1 black 5
+blue 2 black 5

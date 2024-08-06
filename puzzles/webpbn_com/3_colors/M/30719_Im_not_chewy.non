@@ -1,0 +1,55 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Gaynor Sorrell"
+date "Jan 14, 2018"
+description "...you are. DON'T EAT ME!"
+difficulty 1.5
+height 20
+id 30719
+link "https://webpbn.com/play.cgi?id=30719"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "I'm not chewy"
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 6
+red 1 black 2 black 2 red 1
+red 1 black 2 black 2 red 1
+red 2 red 2
+black 1 black 4 black 1
+black 2 black 1 black 1 black 2
+black 3 black 3
+black 12
+black 5 black 5
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 red 2 red 2 black 1
+red 1 black 4 red 1
+red 1 red 1
+red 3 red 3
+red 1 red 1
+
+columns
+black 4
+black 8
+red 1 black 6 black 2
+red 3 black 3 red 1 red 1
+red 1 black 2 black 2 red 5
+red 1 black 2 black 2 black 1 black 1 red 1
+red 1 black 1 black 1 black 1
+red 1 black 1 black 1 black 1
+red 1 black 2 black 2 black 1 black 1 red 1
+red 1 black 2 black 2 red 5
+red 3 black 3 red 1 red 1
+red 1 black 6 black 2
+black 8
+black 4

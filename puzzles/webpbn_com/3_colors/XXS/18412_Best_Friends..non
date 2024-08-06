@@ -1,0 +1,31 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Apr 24, 2012"
+description "Easy one but i'll let you guess. There's an F.B.A. for the winner."
+difficulty 1.0
+height 5
+id 18412
+link "https://webpbn.com/play.cgi?id=18412"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Best Friends."
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+black 1 black 1 green 1 black 1
+green 1
+black 1 green 2
+green 1
+
+columns
+black 1
+black 1
+black 1
+green 4
+black 1 green 2

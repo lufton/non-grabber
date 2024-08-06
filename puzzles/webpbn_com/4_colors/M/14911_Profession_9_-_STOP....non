@@ -1,0 +1,57 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Jun 25, 2011"
+description "orders Trevor the traffic cop"
+difficulty 1.25
+height 20
+id 14911
+link "https://webpbn.com/play.cgi?id=14911"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Profession #9 - STOP..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 5
+red 1 black 4
+black 2 blue 5
+black 5
+black 2
+black 1 black 2 blue 1
+black 1 blue 1
+blue 3 blue 1
+blue 14
+blue 11
+blue 6
+red 1 blue 5
+blue 6
+blue 6
+blue 6
+blue 6
+black 6
+blue 6
+blue 6
+
+columns
+0
+blue 1
+blue 1
+blue 1
+black 1 blue 2
+black 1 blue 2
+blue 1 red 1 blue 1 black 1 blue 3 red 1 blue 4 black 1 blue 2
+blue 1 black 1 blue 1 black 1 black 1 blue 8 black 1 blue 2
+blue 1 black 1 blue 1 black 1 blue 9 black 1 blue 2
+blue 1 black 1 blue 1 black 3 blue 9 black 1 blue 2
+blue 1 black 1 blue 1 black 4 blue 9 black 1 blue 2
+blue 8 black 1 blue 2
+blue 2
+blue 2
+blue 5

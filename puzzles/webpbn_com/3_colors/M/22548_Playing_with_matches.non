@@ -1,0 +1,83 @@
+by "Yuvalal Liron (yuvalal)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Yuvalal Liron"
+date "Aug  7, 2013"
+description "Well done, and now for a puzzle: Move one match, and make the equality correct (Don't turn it into an inequation)."
+difficulty 3.25
+height 11
+id 22548
+link "https://webpbn.com/play.cgi?id=22548"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "Playing with matches"
+width 51
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 4 red 1 black 1 black 4 red 1 black 1 black 1 red 1 black 4 red 1 black 1 red 2 black 4 red 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 red 1 red 1 black 4 red 1 red 1 black 1 red 1 black 1 black 1
+black 4 red 1 red 1 black 4 black 4 red 1 red 1 black 4 red 1 black 4 red 1 black 4
+red 1 black 1 black 1 black 1 red 1 black 4 black 1 black 1 red 1
+black 1 red 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 red 1 black 4 red 1 red 1 black 4 red 1 red 1 red 1 black 4 red 1 black 4 red 1 black 1
+
+columns
+red 1 black 4 red 1 black 4
+0
+black 1
+black 1
+black 4 red 1
+black 1
+red 1
+0
+black 1 red 1 black 4 red 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+red 1 black 1 black 1
+black 4 red 1 red 1
+0
+black 1
+black 1
+black 1
+black 1
+red 1
+0
+black 1 red 1 red 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+red 1 black 1 black 1
+black 4 red 1 black 4 red 1
+0
+black 1 red 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+red 1 black 1
+0
+black 4 red 1 black 4 red 1
+0
+red 1 black 4
+black 1 red 1 red 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+red 1 black 1 black 1
+black 4 red 1 black 4 red 1
+0
+red 1 black 4
+red 1 red 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 red 1
+red 1 black 4 red 1 black 4

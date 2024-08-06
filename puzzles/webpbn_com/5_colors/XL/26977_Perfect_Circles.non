@@ -1,0 +1,103 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.0
+height 40
+id 26977
+link "https://webpbn.com/play.cgi?id=26977"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Perfect Circles"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 black 4 blue 14 black 4 red 4
+red 4 black 4 blue 6 blue 6 black 4 red 4
+red 3 black 3 blue 4 green 8 blue 4 black 3 red 3
+red 2 black 3 blue 4 green 14 blue 4 black 3 red 2
+red 1 black 3 blue 4 green 6 green 6 blue 4 black 3 red 1
+black 3 blue 3 green 4 red 6 green 4 blue 3 black 3
+black 3 blue 3 green 4 red 12 green 4 blue 3 black 3
+black 2 blue 3 green 4 red 5 red 5 green 4 blue 3 black 2
+black 2 blue 2 green 3 red 3 black 6 red 3 green 3 blue 2 black 2
+black 1 blue 3 green 2 red 4 black 12 red 4 green 2 blue 3 black 1
+blue 3 green 3 red 3 black 4 black 4 red 3 green 3 blue 3
+blue 2 green 3 red 3 black 3 blue 6 black 3 red 3 green 3 blue 2
+blue 2 green 2 red 3 black 3 blue 10 black 3 red 3 green 2 blue 2
+blue 2 green 3 red 2 black 3 blue 4 blue 4 black 3 red 2 green 3 blue 2
+blue 2 green 2 red 2 black 3 blue 3 green 4 blue 3 black 3 red 2 green 2 blue 2
+blue 2 green 2 red 2 black 2 blue 3 green 8 blue 3 black 2 red 2 green 2 blue 2
+blue 1 green 3 red 2 black 2 blue 2 green 4 green 4 blue 2 black 2 red 2 green 3 blue 1
+blue 1 green 2 red 2 black 2 blue 3 green 3 red 2 green 3 blue 3 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 3 red 4 green 3 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 2 red 6 green 2 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 2 red 6 green 2 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 3 red 4 green 3 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 3 green 3 red 2 green 3 blue 3 black 2 red 2 green 2 blue 1
+blue 1 green 3 red 2 black 2 blue 2 green 4 green 4 blue 2 black 2 red 2 green 3 blue 1
+blue 2 green 2 red 2 black 2 blue 3 green 8 blue 3 black 2 red 2 green 2 blue 2
+blue 2 green 2 red 2 black 3 blue 3 green 4 blue 3 black 3 red 2 green 2 blue 2
+blue 2 green 3 red 2 black 3 blue 4 blue 4 black 3 red 2 green 3 blue 2
+blue 2 green 2 red 3 black 3 blue 10 black 3 red 3 green 2 blue 2
+blue 2 green 3 red 3 black 3 blue 6 black 3 red 3 green 3 blue 2
+blue 3 green 3 red 3 black 4 black 4 red 3 green 3 blue 3
+black 1 blue 3 green 2 red 4 black 12 red 4 green 2 blue 3 black 1
+black 2 blue 2 green 3 red 3 black 6 red 3 green 3 blue 2 black 2
+black 2 blue 3 green 4 red 5 red 5 green 4 blue 3 black 2
+black 3 blue 3 green 4 red 12 green 4 blue 3 black 3
+black 3 blue 3 green 4 red 6 green 4 blue 3 black 3
+red 1 black 3 blue 4 green 6 green 6 blue 4 black 3 red 1
+red 2 black 3 blue 4 green 14 blue 4 black 3 red 2
+red 3 black 3 blue 4 green 8 blue 4 black 3 red 3
+red 4 black 4 blue 6 blue 6 black 4 red 4
+red 4 black 4 blue 14 black 4 red 4
+
+columns
+red 4 black 4 blue 14 black 4 red 4
+red 4 black 4 blue 6 blue 6 black 4 red 4
+red 3 black 3 blue 4 green 8 blue 4 black 3 red 3
+red 2 black 3 blue 4 green 14 blue 4 black 3 red 2
+red 1 black 3 blue 4 green 6 green 6 blue 4 black 3 red 1
+black 3 blue 3 green 4 red 6 green 4 blue 3 black 3
+black 3 blue 3 green 4 red 12 green 4 blue 3 black 3
+black 2 blue 3 green 4 red 5 red 5 green 4 blue 3 black 2
+black 2 blue 2 green 3 red 3 black 6 red 3 green 3 blue 2 black 2
+black 1 blue 3 green 2 red 4 black 12 red 4 green 2 blue 3 black 1
+blue 3 green 3 red 3 black 4 black 4 red 3 green 3 blue 3
+blue 2 green 3 red 3 black 3 blue 6 black 3 red 3 green 3 blue 2
+blue 2 green 2 red 3 black 3 blue 10 black 3 red 3 green 2 blue 2
+blue 2 green 3 red 2 black 3 blue 4 blue 4 black 3 red 2 green 3 blue 2
+blue 2 green 2 red 2 black 3 blue 3 green 4 blue 3 black 3 red 2 green 2 blue 2
+blue 2 green 2 red 2 black 2 blue 3 green 8 blue 3 black 2 red 2 green 2 blue 2
+blue 1 green 3 red 2 black 2 blue 2 green 4 green 4 blue 2 black 2 red 2 green 3 blue 1
+blue 1 green 2 red 2 black 2 blue 3 green 3 red 2 green 3 blue 3 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 3 red 4 green 3 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 2 red 6 green 2 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 2 red 6 green 2 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 2 green 3 red 4 green 3 blue 2 black 2 red 2 green 2 blue 1
+blue 1 green 2 red 2 black 2 blue 3 green 3 red 2 green 3 blue 3 black 2 red 2 green 2 blue 1
+blue 1 green 3 red 2 black 2 blue 2 green 4 green 4 blue 2 black 2 red 2 green 3 blue 1
+blue 2 green 2 red 2 black 2 blue 3 green 8 blue 3 black 2 red 2 green 2 blue 2
+blue 2 green 2 red 2 black 3 blue 3 green 4 blue 3 black 3 red 2 green 2 blue 2
+blue 2 green 3 red 2 black 3 blue 4 blue 4 black 3 red 2 green 3 blue 2
+blue 2 green 2 red 3 black 3 blue 10 black 3 red 3 green 2 blue 2
+blue 2 green 3 red 3 black 3 blue 6 black 3 red 3 green 3 blue 2
+blue 3 green 3 red 3 black 4 black 4 red 3 green 3 blue 3
+black 1 blue 3 green 2 red 4 black 12 red 4 green 2 blue 3 black 1
+black 2 blue 2 green 3 red 3 black 6 red 3 green 3 blue 2 black 2
+black 2 blue 3 green 4 red 5 red 5 green 4 blue 3 black 2
+black 3 blue 3 green 4 red 12 green 4 blue 3 black 3
+black 3 blue 3 green 4 red 6 green 4 blue 3 black 3
+red 1 black 3 blue 4 green 6 green 6 blue 4 black 3 red 1
+red 2 black 3 blue 4 green 14 blue 4 black 3 red 2
+red 3 black 3 blue 4 green 8 blue 4 black 3 red 3
+red 4 black 4 blue 6 blue 6 black 4 red 4
+red 4 black 4 blue 14 black 4 red 4

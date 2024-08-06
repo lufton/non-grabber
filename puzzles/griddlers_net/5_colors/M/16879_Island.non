@@ -1,0 +1,62 @@
+by "masli"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/6/05"
+height 20
+id 16879
+link "https://www.griddlers.net/nonogram/-/g/16879"
+medium_time "0:09:00"
+points 4513
+popularity 59.53
+title "Island"
+width 20
+
+color a cfa101
+color b 48d580
+color c 8e4a00
+color d 009cfe
+color e 808080
+
+rows
+b 1 b 5 b 1
+b 4 b 2 b 4
+b 4 b 2 b 5
+b 3 b 2 b 5 c 2 b 1
+b 2 c 3 b 1 c 2 b 3
+b 3 c 2 b 1 c 2 b 4
+b 3 c 2 c 2 b 3
+b 3 c 1 c 2 b 3
+b 1 b 2 c 2 c 2 b 4
+b 1 c 1 c 1 b 2 b 1
+b 3 c 2 c 2 b 2 b 1
+b 1 c 3 b 2
+c 2
+d 9 c 2 d 9
+d 9 c 2 d 9
+d 7 e 2 c 2 e 1 d 8
+d 6 e 3 c 2 e 2 d 7
+d 5 e 9 d 6
+d 3 e 12 d 5
+d 20
+
+columns
+b 1 b 3 d 7
+b 9 d 7
+b 4 c 1 b 3 b 1 d 7
+b 3 c 1 b 2 b 2 d 5 e 1 d 1
+b 1 c 2 b 1 d 5 e 1 d 1
+b 2 c 2 d 4 e 2 d 1
+b 2 c 3 d 3 e 3 d 1
+b 1 c 3 d 2 e 4 d 1
+c 2 d 2 e 4 d 1
+b 1 c 6 e 2 d 1
+b 2 b 3 c 7 e 2 d 1
+b 1 b 1 c 3 d 2 e 4 d 1
+b 1 b 1 c 2 d 3 e 3 d 1
+b 1 b 1 c 2 d 4 e 2 d 1
+b 2 b 1 c 3 b 1 d 5 e 1 d 1
+b 2 c 3 b 2 d 7
+b 2 c 1 b 2 b 2 d 7
+b 9 b 1 d 7
+b 1 b 8 d 7
+b 1 b 4 d 7

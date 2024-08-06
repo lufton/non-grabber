@@ -1,0 +1,103 @@
+by "Scott C (estray98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Scott C"
+date "Jun  9, 2010"
+description "An Electriconic Guitar... its hard to define 6 strings lol, so thats the best I could do....."
+difficulty 1.75
+height 40
+id 9116
+link "https://webpbn.com/play.cgi?id=9116"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "ô String Me Along ô"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+black 2 red 1 green 1 blue 1 black 2
+black 1 red 1 green 1 blue 1 black 1
+black 2 red 1 green 1 blue 1 black 2
+black 1 red 1 green 1 blue 1 black 1
+black 2 red 1 green 1 blue 1 black 2
+black 1 red 1 green 1 blue 1 black 1
+black 5
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 black 1 green 1 black 1 black 1
+black 1 blue 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 black 1 green 1 green 1 black 1 black 1 blue 1 black 1
+black 1 blue 2 black 4 black 1 green 1 black 1 black 4 blue 1 black 1
+black 1 blue 2 black 1 green 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 green 1 black 1 blue 2 black 1
+black 1 red 2 black 1 green 1 black 1 red 2 black 1
+black 1 red 2 black 1 green 1 black 1 red 2 black 1
+black 1 red 2 black 1 green 1 black 1 red 2 black 1
+black 1 red 2 black 1 green 1 black 1 red 2 black 1
+black 1 red 2 black 1 green 1 black 1 red 2 black 1
+black 1 red 2 black 1 green 1 black 1 red 2 black 1
+black 1 red 3 black 1 green 1 black 1 red 3 black 1
+black 1 red 4 black 1 green 1 black 1 red 4 black 1
+black 2 red 2 black 1 green 1 green 1 black 1 red 2 black 2
+black 12
+0
+
+columns
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+black 12
+black 1 blue 4 red 8 black 1
+black 1 blue 1 black 1 blue 3 red 8 black 1
+black 1 blue 1 black 1 black 1 red 3 black 1
+black 1 black 1 red 2 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 8 black 1 black 2
+black 1 red 6 black 18 green 1 black 11 green 1 black 1
+black 1 green 6 black 1 green 17 green 11 black 1
+black 1 blue 6 black 18 green 1 black 11 green 1 black 1
+black 8 black 1 black 2
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 red 2 black 1
+black 1 blue 1 black 1 black 1 red 3 black 1
+black 1 blue 1 black 2 blue 2 red 8 black 1
+black 1 blue 4 red 8 black 1
+black 12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

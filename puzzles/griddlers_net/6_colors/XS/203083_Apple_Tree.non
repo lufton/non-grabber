@@ -1,0 +1,42 @@
+by "jacobjr"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/1/19"
+height 9
+id 203083
+link "https://www.griddlers.net/nonogram/-/g/203083"
+medium_time "0:01:21"
+points 228
+popularity 67.79
+title "Apple Tree"
+width 10
+
+color a 99FFFF
+color b 00CC00
+color c 996633
+color d FF0000
+color e 66CC00
+color f 660000
+
+rows
+e 1 b 1 e 1
+e 1 b 1 e 1 d 1 e 1
+b 1 d 1 b 1 e 1 b 1
+e 1 b 1 e 1 b 1 e 1
+e 1 b 1 e 1
+f 1
+c 1
+f 1
+b 1 e 1 b 1 e 1 b 1 e 1 b 1 e 1 b 1 e 1
+
+columns
+b 1
+e 1
+b 1
+e 1 b 1 e 1 e 1
+e 1 b 1 d 1 b 1 e 1 b 1
+b 1 e 1 b 1 e 1 b 1 f 1 c 1 f 1 e 1
+e 1 d 1 e 1 b 1 e 1 b 1
+e 1 b 1 e 1 e 1
+b 1
+e 1

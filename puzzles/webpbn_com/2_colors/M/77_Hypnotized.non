@@ -1,0 +1,57 @@
+by "Heather Sigstad (sumweirdork)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Heather Sigstad"
+date "Aug 22, 2004"
+description "You are getting sleepy..."
+difficulty 1.0
+height 20
+id 77
+link "https://webpbn.com/play.cgi?id=77"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Hypnotized"
+width 20
+
+rows
+20
+1
+18,1
+1,1,1
+1,14,1,1
+1,1,1,1,1
+1,1,10,1,1,1
+1,1,1,1,1,1,1
+1,1,1,6,1,1,1,1
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,4,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,8,1,1,1
+1,1,1,1,1,1
+1,1,12,1,1
+1,1,1,1
+1,16,1
+1,1
+20
+
+columns
+1,18
+1,1,1
+1,1,14,1
+1,1,1,1,1
+1,1,1,10,1,1
+1,1,1,1,1,1,1
+1,1,1,1,6,1,1,1
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1,2,1,1,1,1
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,4,1,1,1,1
+1,1,1,1,1,1,1,1
+1,1,1,8,1,1,1
+1,1,1,1,1,1
+1,1,12,1,1
+1,1,1,1
+1,16,1
+1,1
+20

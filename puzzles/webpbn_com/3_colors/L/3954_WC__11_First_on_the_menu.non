@@ -1,0 +1,76 @@
+by "Jota (Jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jota"
+date "Nov  3, 2008"
+description "Ice Cream"
+difficulty 1.5
+height 35
+id 3954
+link "https://webpbn.com/play.cgi?id=3954"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WC # 11 First on the menu"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 9 red 2 black 9
+black 7 red 4 black 7
+black 6 red 6 black 6
+black 5 red 6 black 5
+black 3 black 1 red 4 black 5
+black 2 black 2 red 2 black 2 black 2
+black 1 black 1 black 1 black 1
+black 2 black 2 black 1
+black 2 black 2 black 2
+black 3 black 5 black 2
+black 1 black 2 black 2 black 3
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 3 black 3 black 1
+black 1 black 7 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 2 black 3
+black 3 black 4
+black 4 black 5
+black 5 black 6
+black 7 black 7
+black 8 black 8
+black 7 black 7
+black 7 black 7
+black 6 black 6
+black 5 black 5
+black 4 black 4
+black 3 black 3
+black 2 black 2
+black 20
+
+columns
+black 8 black 26
+black 7 black 2 black 15
+black 6 black 2 black 11 black 1
+black 5 black 2 black 9 black 1
+black 7 black 2 black 7 black 1
+black 4 black 3 black 2 black 5 black 1
+black 3 black 2 black 1 black 4 black 1
+black 2 red 2 black 2 black 2 black 1 black 1
+black 2 red 4 black 1 black 1 black 1
+black 1 red 6 black 2 black 1 black 1
+black 1 red 6 black 2 black 1 black 1
+black 2 red 4 black 2 black 1 black 1
+black 2 red 2 black 2 black 1 black 1 black 1
+black 3 black 1 black 2 black 4 black 1
+black 4 black 2 black 1 black 6 black 1
+black 7 black 2 black 8 black 1
+black 6 black 2 black 10 black 1
+black 6 black 2 black 12 black 1
+black 7 black 2 black 15
+black 9 black 25

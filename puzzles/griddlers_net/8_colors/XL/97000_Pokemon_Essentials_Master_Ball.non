@@ -1,0 +1,108 @@
+by "qwerty_strikes"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/1/10"
+height 41
+id 97000
+link "https://www.griddlers.net/nonogram/-/g/97000"
+medium_time "0:30:24"
+points 76902
+popularity 77.0
+title "Pokemon Essentials: Master Ball"
+width 42
+
+color a ffffff
+color b 4e5083
+color c 000000
+color d c3c6cf
+color e 889093
+color f 8f8eba
+color g b54e83
+color h 882254
+
+rows
+c 9
+e 2 c 4 f 9 c 5 e 2
+d 1 e 2 c 2 h 1 c 1 f 8 b 3 c 2 h 1 g 2 c 3 d 1 e 2 d 1
+d 1 e 2 d 1 c 2 g 2 h 1 c 1 f 6 b 5 c 1 h 3 g 4 c 2 d 1 e 2 d 1
+d 1 e 2 c 2 g 4 h 1 c 1 f 3 b 7 c 2 h 3 g 6 c 1 d 1 e 2
+e 2 d 1 c 1 g 4 h 3 c 1 f 2 b 8 c 1 h 2 g 1 h 1 g 7 c 1 d 1 e 1 d 1
+e 1 d 1 c 1 g 6 h 1 c 1 f 3 b 8 c 1 h 2 g 1 h 1 g 8 c 1 e 2
+e 1 c 1 g 3 h 5 c 1 f 2 b 9 c 1 h 4 g 9 c 1 e 1
+c 1 g 3 h 1 g 1 h 3 c 1 b 11 c 1 h 3 g 11 c 1
+c 1 g 3 h 5 c 2 b 11 c 1 h 4 g 10 c 1
+c 1 g 3 h 1 g 1 h 1 g 1 h 1 c 1 b 12 c 1 h 5 g 10 c 1
+c 1 g 3 h 6 c 1 b 12 c 1 h 2 g 1 h 3 g 9 c 1
+c 1 g 2 h 6 c 2 b 12 c 1 h 2 g 1 h 4 g 9 c 1
+c 1 g 2 h 1 g 2 h 3 c 2 b 13 c 1 h 3 g 1 h 1 g 1 h 1 g 9 c 1
+c 1 g 2 h 5 c 2 b 4 f 3 b 7 c 1 h 8 g 8 c 1
+c 1 g 3 h 3 c 2 b 4 f 2 f 5 b 3 c 1 h 8 g 8 c 1
+c 1 g 1 h 4 c 2 b 4 f 2 f 2 f 2 b 2 c 2 h 2 g 1 h 5 g 7 c 1
+c 1 h 4 c 2 b 5 f 2 f 1 f 2 b 2 c 1 h 3 g 1 h 1 g 2 h 2 g 6 c 1
+c 1 h 3 c 2 b 5 f 2 f 1 f 2 b 1 c 2 h 5 g 2 h 2 g 5 c 1
+c 5 b 6 f 2 f 1 f 1 f 2 b 2 c 1 h 6 g 2 h 2 g 4 c 1
+c 1 f 1 b 9 f 1 f 3 f 3 f 1 b 2 c 2 h 7 g 1 h 2 g 3 c 1
+c 1 f 2 b 8 f 1 f 7 f 1 b 3 c 2 h 12 c 1
+c 1 f 3 b 7 f 4 b 2 f 1 b 2 f 4 b 4 c 7 h 3 c 4
+c 1 f 3 b 30 c 5 f 2 c 1
+c 1 f 4 b 31 f 4 c 2
+c 1 f 6 b 27 f 5 c 3
+c 3 f 4 b 6 c 6 b 11 f 6 c 3 c 1
+c 1 c 3 f 3 b 3 c 3 d 2 e 2 c 3 b 7 f 7 c 2 c 1
+c 1 c 3 f 3 c 2 d 3 e 3 c 2 b 5 f 5 c 4 c 2
+c 2 c 5 d 2 e 2 d 2 e 3 c 1 e 1 b 3 f 2 c 5 c 1
+c 1 d 1 e 2 c 1 d 2 e 2 d 2 e 3 c 8 c 2
+c 2 d 1 e 1 c 2 d 2 e 1 e 3 c 2 e 2 d 2 c 1
+c 1 d 1 e 1 c 2 d 2 e 4 c 2 e 1 d 1 c 2
+c 2 d 1 e 1 c 2 d 2 e 2 c 2 e 1 d 1 c 2
+c 2 d 1 e 1 c 6 e 1 d 1 c 2
+c 2 d 1 e 6 d 1 c 2
+c 2 c 2
+c 2 c 3
+c 3 c 3
+c 3 c 3
+c 17
+
+columns
+c 13
+d 1 e 3 c 2 g 4 h 2 c 1 f 6 c 4
+d 1 e 2 d 1 c 2 g 5 h 3 c 1 b 1 f 5 c 1 c 3
+d 1 e 2 d 1 c 2 g 4 h 2 g 1 h 3 c 1 b 2 f 4 c 2 c 3
+e 2 c 1 g 5 h 1 g 1 h 4 c 2 b 4 f 3 c 1 c 2
+e 2 d 1 c 1 g 5 h 2 g 1 h 3 c 2 b 6 f 2 c 2 c 2
+e 1 c 1 g 4 h 7 c 2 b 7 f 3 c 1 c 2
+c 1 g 2 h 3 g 1 h 4 c 2 b 9 f 2 c 2 c 2
+c 1 g 3 h 1 g 1 h 5 c 2 b 11 f 2 c 1 d 1 c 2
+c 1 g 3 h 3 g 1 h 2 c 2 b 13 f 1 c 1 e 1 d 1 c 1
+c 1 g 2 h 1 g 1 h 5 c 2 b 14 f 1 c 1 e 2 d 1 c 2
+c 1 g 2 h 4 c 4 b 5 f 5 b 5 c 4 e 1 d 1 c 1
+c 1 h 4 c 4 b 6 f 4 f 1 b 4 c 2 d 2 c 2 e 1 d 1 c 2
+c 5 f 2 b 7 f 3 f 1 b 4 c 1 d 4 c 2 e 1 d 1 c 1
+c 1 f 6 b 6 f 2 f 3 b 3 c 2 d 1 e 2 d 2 c 2 e 1 c 1
+c 1 f 5 b 7 f 1 f 4 b 4 c 1 d 2 e 3 d 2 c 1 e 1 c 1
+c 1 f 4 b 9 f 2 f 2 b 4 c 1 d 1 d 2 e 1 d 1 c 1 e 1 c 1
+c 1 f 3 b 11 f 3 f 2 b 3 c 1 e 1 d 2 e 2 c 1 e 1 c 1
+c 1 f 3 b 11 f 2 f 2 b 4 c 1 e 2 e 3 c 1 e 1 c 1
+c 1 f 3 b 11 f 1 f 3 b 4 c 2 e 5 c 2 e 1 c 1
+c 1 f 2 b 12 f 2 f 3 b 4 c 1 e 4 c 2 e 1 d 1 c 1
+c 1 f 2 b 13 f 2 f 1 b 4 c 2 e 2 c 2 e 1 d 1 c 1
+c 1 f 1 b 15 f 3 f 1 b 5 c 4 e 1 d 1 c 1
+c 1 f 1 b 16 f 5 b 6 e 1 c 1 e 1 d 1 c 1
+c 1 f 1 b 2 c 13 b 13 c 1 e 1 c 1
+c 4 h 11 c 3 b 11 c 1 d 1 c 1
+c 2 h 15 c 3 b 9 c 1 d 1 c 1
+c 1 h 3 g 2 h 4 g 2 h 7 c 2 b 7 f 1 c 1 c 1
+c 1 g 1 h 5 g 1 h 4 g 1 h 2 g 1 h 4 c 2 b 5 f 2 c 1 c 2
+c 1 g 8 h 7 g 1 h 4 c 1 b 4 f 2 c 2 c 1
+c 1 g 8 h 2 g 1 h 8 c 1 b 4 f 2 c 1 c 2
+c 1 g 9 h 5 g 1 h 4 c 1 b 3 f 3 c 1 c 1
+c 1 g 11 h 3 g 2 h 3 c 1 b 3 f 3 c 1 c 2
+c 1 g 12 h 2 g 2 h 2 c 1 b 3 f 2 c 2 c 1
+c 1 g 13 h 2 g 1 h 2 c 2 b 1 f 3 c 1 c 2
+c 1 g 13 h 2 g 1 h 2 c 1 b 1 f 3 c 1 c 2
+e 1 d 1 c 1 g 13 h 4 c 1 f 3 c 2 c 2
+e 2 d 1 c 1 g 13 h 3 c 1 f 2 c 2 c 2
+e 2 d 1 c 1 g 13 h 1 c 2 f 2 c 1 c 2
+d 1 e 2 d 1 c 2 g 11 h 1 c 1 f 2 c 2 c 3
+d 1 e 3 c 2 g 9 h 1 c 1 f 1 c 2 c 3
+d 1 e 2 c 17

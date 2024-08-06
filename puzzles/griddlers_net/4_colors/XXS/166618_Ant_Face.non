@@ -1,0 +1,31 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166618
+link "https://www.griddlers.net/nonogram/-/g/166618"
+medium_time "0:00:19"
+points 11
+popularity 51.88
+title "Ant Face"
+width 5
+
+color a ffffff
+color b ff9900
+color c 000000
+color d 990000
+
+rows
+d 1 d 1
+b 3
+b 1 c 1 b 1 c 1 b 1
+b 5
+b 1 d 1 b 1
+
+columns
+b 2
+d 1 b 1 c 1 b 2
+b 3 d 1
+d 1 b 1 c 1 b 2
+b 2

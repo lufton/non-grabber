@@ -1,0 +1,85 @@
+by "Courtney (TheArcticFox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Courtney"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 32
+id 25430
+link "https://webpbn.com/play.cgi?id=25430"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Super Smash Brothers"
+width 32
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1 red 9
+black 3 red 11
+black 5 red 13
+red 2 black 5 red 15
+red 3 black 5 red 16
+red 3 black 5 red 16
+red 4 black 5 red 17
+red 4 black 5 red 17
+red 5 black 5 red 18
+red 5 black 5 red 18
+red 6 black 5 red 19
+red 6 black 5 red 19
+red 6 black 5 red 19
+red 6 black 5 red 19
+red 6 black 5 red 19
+red 6 black 5 red 19
+red 6 black 5 red 19
+red 6 black 5 red 19
+red 6 black 5 red 19
+black 30
+black 28
+red 5 black 5 red 18
+red 4 black 5 red 17
+red 4 black 5 red 17
+red 3 black 5 red 16
+red 3 black 5 red 16
+red 2 black 5 red 15
+black 5 red 13
+black 3 red 11
+black 1 red 9
+0
+
+columns
+0
+red 9 black 1
+red 11 black 2 red 1
+red 13 black 2 red 3
+red 15 black 2 red 5
+red 16 black 2 red 6
+red 16 black 2 red 6
+black 26
+black 26
+black 28
+black 28
+black 30
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 19 black 2 red 9
+red 18 black 2 red 8
+red 18 black 2 red 8
+red 17 black 2 red 7
+red 17 black 2 red 7
+red 16 black 2 red 6
+red 16 black 2 red 6
+red 15 black 2 red 5
+red 13 black 2 red 3
+red 11 black 2 red 1
+red 9 black 1
+0

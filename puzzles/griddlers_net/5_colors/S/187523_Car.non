@@ -1,0 +1,50 @@
+by "rickk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/6/18"
+height 13
+id 187523
+link "https://www.griddlers.net/nonogram/-/g/187523"
+medium_time "0:01:18"
+points 281
+popularity 67.23
+title "Car"
+width 15
+
+color a ffffff
+color b 000000
+color c ff0000
+color e 0000ff
+color h 808080
+
+rows
+b 8
+h 8
+h 8
+b 1 b 1
+c 8
+c 1 e 3 c 2 e 3 c 1
+c 2 e 3 c 2 e 3 c 1
+c 2 e 3 c 2 e 3 c 5
+c 15
+c 15
+c 3 b 3 c 5 b 3 c 1
+b 1 h 1 b 1 b 1 h 1 b 1
+b 3 b 3
+
+columns
+c 5
+c 6
+b 1 h 2 c 1 e 3 c 3
+b 1 h 2 b 1 c 1 e 3 c 2 b 3
+b 1 h 2 c 1 e 3 c 2 b 1 h 1 b 1
+b 1 h 2 c 6 b 3
+b 1 h 2 c 7
+b 1 h 2 c 1 e 3 c 3
+b 1 h 2 b 1 c 1 e 3 c 3
+b 1 h 2 c 1 e 3 c 3
+c 6
+c 3 b 3
+c 3 b 1 h 1 b 1
+c 3 b 3
+c 4

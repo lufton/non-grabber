@@ -1,0 +1,31 @@
+by "Andzia15"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/28/06"
+height 5
+id 41029
+link "https://www.griddlers.net/nonogram/-/g/41029"
+medium_time "0:00:21"
+points 12
+popularity 39.75
+title "Flower"
+width 5
+
+color a 00ffff
+color d ff0000
+color e 00d700
+color h ffcc00
+
+rows
+d 1
+d 3
+d 2 h 1 d 2
+d 3 e 1
+d 1 e 2
+
+columns
+d 1
+d 3
+d 2 h 1 d 2
+d 3 e 1
+d 1 e 2

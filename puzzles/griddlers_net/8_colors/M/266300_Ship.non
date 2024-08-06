@@ -1,0 +1,65 @@
+by "servin"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/4/23"
+height 20
+id 266300
+link "https://www.griddlers.net/nonogram/-/g/266300"
+medium_time "0:05:08"
+points 1096
+popularity 83.97
+title "Ship"
+width 20
+
+color a CCFFFF
+color b 000000
+color c 993300
+color d CC0000
+color e 0000ff
+color f 6699FF
+color g 003300
+color h 808080
+
+rows
+h 1 h 1 h 1 h 2
+h 1 h 1 h 1 h 1
+h 2 h 1 h 1 h 1
+g 3 h 2
+g 3
+d 5
+d 5
+d 5
+g 2 c 3 b 1 c 3 g 2
+g 2 c 5 b 1 c 5 g 2
+g 1 c 6 b 1 c 6 g 1
+c 6 b 1 c 6
+c 5 b 1 c 5
+c 5 b 1 c 5
+c 4 b 1 c 4
+e 2 c 1 e 2 c 1 b 1 c 2 e 4 e 3
+e 3 f 2 e 2 f 1 e 3 f 1 e 5 f 1 e 2
+e 2 f 1 e 9 f 2 e 2 f 2 e 2
+e 5 f 1 e 2 f 2 e 10
+e 3 f 2 e 9 f 2 e 4
+
+columns
+e 5
+e 5
+g 2 e 1 f 1 e 2
+g 1 c 2 f 1 e 2 f 1
+g 1 c 5 f 1 e 2 f 1
+g 1 c 7 e 2 f 1 e 1
+c 7 e 5
+d 3 c 7 e 1 f 1 e 3
+h 1 g 2 d 3 c 8 e 2 f 1 e 1
+h 1 h 1 g 2 d 3 b 8 e 2 f 1 e 1
+h 2 g 2 d 3 c 8 e 4
+h 1 d 3 c 8 f 1 e 3
+h 1 c 7 e 2 f 1 e 2
+h 1 h 1 g 1 c 6 e 2 f 1 e 2
+h 1 g 1 c 5 e 4 f 1
+h 1 h 2 g 1 c 2 e 4 f 1
+h 1 h 1 g 2 e 1 f 1 e 2
+h 1 e 1 f 2 e 2
+e 5
+e 5

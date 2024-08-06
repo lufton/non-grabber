@@ -1,0 +1,74 @@
+by "yowsah"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/5/09"
+height 25
+id 87073
+link "https://www.griddlers.net/nonogram/-/g/87073"
+medium_time "0:04:29"
+points 1634
+popularity 72.07
+title "Pear"
+width 25
+
+color a ccffff
+color b 999900
+color c cccc00
+color d 996600
+color f 006699
+color g ccff66
+color h 99ccff
+
+rows
+d 1
+d 1
+d 1
+c 2
+c 4
+c 6
+b 3 c 3
+b 5 c 3
+b 7 c 3
+b 8 c 3
+b 9 c 3 g 1
+b 10 c 2 g 1
+b 11 c 2 g 2
+b 12 c 2 g 3
+b 12 c 3 g 2
+b 14 c 2 g 3
+h 4 b 14 c 2 g 3 h 2
+h 4 b 14 c 3 g 2 h 2
+f 2 h 2 b 14 c 3 g 2 h 2
+f 4 b 14 c 3 g 2 h 2
+f 5 b 13 c 2 g 2 h 3
+f 6 b 11 c 3 h 5
+h 3 f 5 b 6 c 6 h 5
+h 8 f 2 b 3 c 5 h 7
+h 25
+
+columns
+h 2 f 4 h 3
+h 2 f 4 h 3
+h 3 f 3 h 3
+h 3 f 4 h 2
+b 5 f 3 h 2
+b 8 f 2 h 2
+b 10 f 1 h 2
+b 12 f 1 h 2
+b 15 f 1 h 1
+b 16 f 1 h 1
+c 1 b 18 h 1
+c 2 b 18 h 1
+c 3 b 18 h 1
+d 3 c 4 b 16 c 1 h 1
+c 4 b 14 c 2 h 1
+c 4 b 13 c 2 h 1
+c 4 b 11 c 2 h 1
+c 7 b 6 c 3 h 1
+c 14 h 2
+g 4 c 9 h 2
+g 5 c 3 g 1 h 4
+g 8 h 4
+g 5 h 5
+h 9
+h 9

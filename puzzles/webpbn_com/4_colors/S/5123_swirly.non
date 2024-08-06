@@ -1,0 +1,52 @@
+by "Rachel Clune (rebecca)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rachel Clune"
+date "Feb 22, 2009"
+description "peace--ying&yang"
+difficulty 1.5
+height 15
+id 5123
+link "https://webpbn.com/play.cgi?id=5123"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "swirly"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 5 black 5 blue 5
+green 3 black 3 black 3 blue 3
+green 2 black 2 black 2 blue 2
+green 1 black 2 black 2 black 3 blue 1
+green 1 black 1 black 2 black 3 blue 1
+black 2 black 5
+black 1 black 6
+black 1 black 10
+black 1 black 11
+black 2 black 12
+blue 1 black 1 black 3 black 6 green 1
+blue 1 black 5 black 6 green 1
+blue 2 black 11 green 2
+blue 3 black 9 green 3
+blue 5 black 5 green 5
+
+columns
+green 5 black 5 blue 5
+green 3 black 3 black 3 blue 3
+green 2 black 2 black 2 blue 2
+green 1 black 2 black 5 blue 1
+green 1 black 1 black 6 blue 1
+black 2 black 8
+black 1 black 3 black 3
+black 1 black 2 black 3 black 3
+black 1 black 2 black 8
+black 2 black 9
+blue 1 black 1 black 9 green 1
+blue 1 black 13 green 1
+blue 2 black 11 green 2
+blue 3 black 9 green 3
+blue 5 black 5 green 5

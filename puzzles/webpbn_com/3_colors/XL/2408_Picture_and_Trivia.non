@@ -1,0 +1,100 @@
+by "Craig Mellen (cmellen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Craig Mellen"
+date "Mar 10, 2008"
+description "The NBA Logo. Trivia: Who is the man pictured in the logo?"
+difficulty 2.0
+height 55
+id 2408
+link "https://webpbn.com/play.cgi?id=2408"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Picture and Trivia"
+width 24
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 8 black 5
+blue 9 black 6
+blue 9 black 6
+blue 10 black 7
+blue 10 black 7
+blue 10 black 8
+blue 10 black 8
+blue 8 black 9
+blue 5 black 9
+blue 4 black 7
+blue 3 black 6
+blue 3 black 5
+blue 3 black 5
+blue 2 black 5
+blue 2 black 5
+blue 1 black 2 black 5
+blue 1 black 3 black 4
+blue 1 black 3 black 4
+blue 1 black 3 black 4
+blue 1 black 4 black 4
+blue 3 black 4 black 3
+blue 2 black 3 black 3
+blue 2 black 4 black 3
+blue 2 black 4 black 2
+blue 2 black 3 black 1
+blue 2 black 2
+blue 2 black 1
+blue 3 black 1
+blue 3 black 1
+blue 4 black 2 black 1
+blue 5 black 3 black 2
+blue 6 black 8
+blue 6 black 7
+blue 7 black 7
+blue 8 black 6
+blue 9 black 6
+blue 9 black 6
+blue 10 black 5
+blue 11 black 5
+blue 13 black 5
+blue 14 black 5
+blue 15 black 4
+blue 15 black 4
+blue 1 blue 2 blue 1 blue 4 blue 1 black 4
+blue 1 blue 1 blue 1 blue 1 blue 2 blue 2 black 4
+blue 1 blue 1 blue 2 blue 1 blue 1 black 4
+blue 1 blue 1 blue 1 blue 1 blue 2 blue 1 black 4
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 2 black 4
+blue 1 blue 2 blue 1 blue 2 blue 2 blue 2 black 3
+blue 17 black 3
+blue 17 black 3
+blue 16 black 2
+blue 15
+0
+
+columns
+0
+blue 48
+blue 13 blue 23 blue 3
+blue 12 blue 1 blue 17 blue 5
+blue 9 blue 16 blue 5
+blue 9 blue 13 blue 4
+blue 8 blue 22
+blue 8 blue 10 blue 4
+blue 8 blue 9 blue 1 blue 2 blue 4
+blue 7 blue 8 blue 4
+blue 7 blue 7 blue 1 blue 5
+blue 2 blue 15
+blue 1 black 1 blue 6 blue 4
+black 5 blue 5 blue 1 blue 5
+black 1 black 2 black 11 blue 3 blue 2 blue 5
+black 2 black 4 black 17 blue 4 blue 4
+black 10 black 5 black 5 blue 9
+black 11 black 2 black 7 blue 6
+black 16 black 10 blue 1
+black 19 black 17
+black 22 black 21
+black 22 black 22
+black 22 black 22
+0

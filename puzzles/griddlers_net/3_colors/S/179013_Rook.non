@@ -1,0 +1,42 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/15/16"
+height 12
+id 179013
+link "https://www.griddlers.net/nonogram/-/g/179013"
+medium_time "0:01:34"
+points 237
+popularity 72.97
+title "Rook"
+width 10
+
+color a ffffff
+color b 000000
+color c cccccc
+
+rows
+b 2 b 1 b 2
+b 7 c 1
+b 6 c 1
+b 1 c 4 b 1 c 1
+b 5 c 1
+b 5 c 1
+b 5 c 1
+b 1 c 5 b 1 c 1
+b 7 c 1
+b 1 c 7 b 1 c 1
+b 9 c 1
+b 9 c 1
+
+columns
+b 3
+b 4 b 2 c 1 b 2
+b 3 c 1 b 3 c 1 b 1 c 1 b 2
+b 2 c 1 b 3 c 1 b 1 c 1 b 2
+b 3 c 1 b 3 c 1 b 1 c 1 b 2
+b 2 c 1 b 3 c 1 b 1 c 1 b 2
+b 3 b 3 c 1 b 1 c 1 b 2
+b 2 b 1 c 3 b 2 c 1 b 2
+c 3 c 2 b 3
+c 3

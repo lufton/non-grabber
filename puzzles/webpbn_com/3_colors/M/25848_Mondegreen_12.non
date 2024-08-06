@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "Cause when those elephants escape you, the large one ties you down and rapes you."
+difficulty 1.5
+height 15
+id 25848
+link "https://webpbn.com/play.cgi?id=25848"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Mondegreen #12"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 2
+black 4
+black 2 black 3 black 1
+black 3 black 9
+black 1 black 1 black 10
+black 3 black 9 black 1 black 1
+black 3 black 8 black 3
+black 2 black 8
+black 1 black 8
+red 12 black 2 red 1
+black 1 black 2 black 2
+black 1 black 2 black 2
+red 14 black 1 red 2
+black 2 black 2
+
+columns
+black 5 red 1 red 1
+black 2 black 3 red 1 red 1
+black 6 red 1 black 2 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+black 4 red 1 black 2 red 1 black 1
+black 5 red 1 black 2 red 1 black 1
+black 6 red 1 red 1
+black 6 red 1 red 1
+black 6 red 1 red 1
+black 6 red 1
+black 10 red 1 black 1
+black 13
+black 6
+black 2 black 2
+black 6
+black 1 red 1
+black 2 red 1 red 1

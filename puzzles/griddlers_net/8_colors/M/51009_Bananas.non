@@ -1,0 +1,75 @@
+by "benjy_t"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/30/07"
+height 25
+id 51009
+link "https://www.griddlers.net/nonogram/-/g/51009"
+medium_time "0:09:05"
+points 13289
+popularity 68.04
+title "Bananas"
+width 25
+
+color a ffffff
+color b 00cc00
+color c 008000
+color d ffff00
+color e 800000
+color f cc6600
+color g cc9900
+color h 000000
+
+rows
+c 1
+b 1 c 1
+b 1 c 2 b 1 c 1
+c 2 c 2
+d 1 c 1 c 2
+d 2 e 1 c 2
+d 2 e 1 d 2 f 2
+d 2 g 1 e 1 d 1 f 1 d 2
+d 2 g 1 e 1 d 2 f 1 d 2
+d 3 g 1 e 1 d 2 f 1 d 2
+d 3 g 1 e 1 d 3 f 1 d 2
+d 5 g 1 e 1 d 3 f 1 d 3
+d 7 g 1 e 1 d 3 f 1 d 3
+h 2 d 10 g 1 e 1 d 3 f 1 d 4
+h 2 d 8 g 1 e 2 d 3 f 1 d 4
+h 1 d 6 g 1 e 2 d 4 f 1 d 4
+d 2 g 1 e 2 d 5 f 1 d 5
+e 1 d 5 f 2 d 5
+d 5 f 1 d 6
+d 5 f 2 d 6
+d 5 f 2 d 7
+c 1 h 1 f 1 d 2 f 3 d 7
+h 1 c 1 h 1 f 2 d 8
+h 1 e 1 g 1 d 7
+e 2 g 1 d 2
+
+columns
+c 1 h 1
+h 2 h 1 c 1 h 1
+h 3 f 1 h 1 e 1
+d 3 d 2 f 1 g 1 e 1
+d 3 d 2 f 1 d 1 e 1
+d 4 d 2 f 1 d 2 g 1
+d 4 d 2 f 1 d 3
+d 4 g 1 e 1 d 3 f 1 d 3
+d 4 e 1 d 3 f 1 d 3
+d 3 g 1 e 1 d 3 f 1 d 3
+d 4 e 1 d 3 f 1 d 4
+d 3 g 1 e 1 d 3 f 1 d 3
+d 3 e 1 d 3 f 1 d 4
+d 3 g 1 e 1 d 2 f 1 d 4
+d 3 g 1 e 1 d 3 f 1 d 4
+d 2 g 1 e 1 d 3 f 1 d 4
+d 2 g 1 e 1 d 3 f 1 d 5
+d 2 g 1 e 1 d 3 f 1 d 5
+d 2 g 1 e 1 d 3 f 1 d 5
+d 2 g 1 e 1 d 3 f 1 d 5
+b 1 c 1 d 2 e 2 d 3 f 1 d 5
+b 1 c 3 e 1 d 3 f 2 d 4
+c 3 d 1 f 2 d 5
+b 1 c 3 f 1 d 5
+c 4 f 1 d 2

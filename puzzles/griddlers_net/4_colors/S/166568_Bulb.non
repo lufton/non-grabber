@@ -1,0 +1,46 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 15
+id 166568
+link "https://www.griddlers.net/nonogram/-/g/166568"
+medium_time "0:02:25"
+points 301
+popularity 60.56
+title "Bulb"
+width 10
+
+color a 333333
+color b cccccc
+color c ffff00
+color d ffffff
+
+rows
+c 1 c 2 c 1 c 1
+c 1 c 1
+c 4
+c 2 d 2 c 2
+c 2 d 3 c 2
+c 5 d 3 c 1
+c 5 d 2 c 1
+c 5 d 2 c 1
+c 4 d 1 c 2
+c 4 d 1 c 1
+c 1 c 4 c 1
+c 4 c 1
+b 4
+d 4
+b 4
+
+columns
+c 2 c 1 c 1
+c 3
+c 7
+c 1 c 10 b 1 d 1 b 1
+c 1 c 1 d 2 c 7 b 1 d 1 b 1
+c 1 d 3 c 6 b 1 d 1 b 1
+c 2 d 6 c 2 b 1 d 1 b 1
+c 1 c 2 d 3 c 2
+c 5
+c 2 c 2

@@ -1,0 +1,78 @@
+by "Sandra Bigner (sandyb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sandra Bigner"
+date "Mar 11, 2023"
+description "Bird Feeder"
+difficulty 2.25
+height 25
+id 36532
+link "https://webpbn.com/play.cgi?id=36532"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Favorite winter destination"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 12 black 2 green 12
+green 6 black 2 green 6
+green 5 black 2 green 5
+green 2 black 6 green 2
+green 1 black 1 black 1 green 1 blue 2 blue 1
+black 2 black 2 blue 4
+black 1 black 1 blue 3
+black 1 black 1 blue 5
+black 1 black 1 blue 3 blue 2
+red 1 red 2 black 1 black 1 black 1 blue 1
+red 4 black 1 black 1
+red 3 black 1 black 1
+red 5 black 1 black 1
+red 2 red 3 black 1 black 1 red 1
+red 1 black 1 black 1 black 1 red 2 red 1
+black 1 black 1 black 1 red 5
+black 1 black 1 red 3
+black 1 black 1 red 2
+black 1 black 1 black 1
+black 23
+black 1 black 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 10 blue 1
+blue 10
+0
+
+columns
+0
+0
+green 1 red 1 red 2
+green 1 red 4
+green 1 red 3
+green 1 red 5
+green 1 red 2 red 3 black 1
+green 1 red 1 black 1 black 1
+green 2 black 2 blue 1
+green 3 black 15 black 1 blue 1
+green 5 black 1 black 1 black 1 blue 1
+green 4 black 1 black 1 black 1 blue 1
+green 3 black 1 black 1 black 1 blue 1
+green 3 black 1 black 1 black 1 blue 1
+black 4 black 1 black 1 blue 1
+black 4 black 1 black 1 blue 1
+green 3 black 1 black 1 black 1 blue 1
+green 3 black 1 black 1 black 1 blue 1
+green 4 black 1 black 1 black 1 blue 1
+green 5 black 1 black 1 black 1 blue 1
+green 3 black 15 black 1 blue 1
+green 2 black 2 blue 1
+green 1 black 1
+green 1 blue 1 black 1 red 1 black 1 black 1
+green 1 blue 2 blue 3 red 2 black 1
+green 1 blue 5 red 2 black 1
+green 1 blue 3 red 3 black 2
+green 1 blue 4 red 4 black 1
+blue 1 blue 2 red 1 red 1 black 1
+0

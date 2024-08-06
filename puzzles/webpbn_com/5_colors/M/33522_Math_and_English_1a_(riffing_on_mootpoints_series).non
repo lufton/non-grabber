@@ -1,0 +1,73 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Andrew Schultz"
+date "Jan 23, 2020"
+description "Axes of axes. I hope imitation is the sincerest form of flattery. But if there is a creative ownership issue, I can pull this... (#30359, 30360, 30361, 30363, 30364.)"
+difficulty 1.75
+height 25
+id 33522
+link "https://webpbn.com/play.cgi?id=33522"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Math and English 1a (riffing on mootpoint's series)"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1
+black 1 green 1 black 1
+blue 1 black 1 green 1 black 1 blue 1
+blue 1 black 3 black 3 blue 1
+blue 1 black 9 blue 1
+blue 1 black 9 blue 1
+blue 1 black 3 red 1 black 3 blue 1 red 1 red 1
+blue 1 black 1 red 1 black 1 blue 1
+black 1 red 1 black 1
+red 1
+red 1 red 1 red 1 red 1
+red 1
+red 1
+red 1 blue 4
+red 1 red 1 red 1 blue 1 black 4 blue 1
+red 1 black 8
+red 1 black 4
+red 1 black 2 green 1 green 1
+red 19 black 2 green 1
+red 1 black 2 green 1 green 1
+red 1 black 4
+red 1 black 8
+red 1 blue 1 black 4 blue 1
+red 1 blue 4
+red 1
+
+columns
+red 1
+blue 4 red 1
+blue 1 black 4 blue 1 red 1
+black 8 red 1
+black 4 red 1
+green 1 black 2 red 1
+green 2 black 2 red 19
+green 1 black 2 red 1
+black 4 red 1
+black 8 red 1
+blue 1 black 4 blue 1 red 1 red 1 red 1
+blue 4 red 1
+red 1
+red 1
+red 1 red 1 red 1 red 1
+red 1
+black 1 red 1 black 1
+blue 1 black 1 red 1 black 1 blue 1
+red 1 red 1 blue 1 black 3 red 1 black 3 blue 1
+blue 1 black 9 blue 1
+blue 1 black 9 blue 1
+blue 1 black 3 black 3 blue 1
+blue 1 black 1 green 1 green 1 black 1 blue 1
+black 1 green 1 black 1
+green 1 green 1

@@ -1,0 +1,35 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Mar 21, 2011"
+description "hippo"
+difficulty 1.25
+height 7
+id 12924
+link "https://webpbn.com/play.cgi?id=12924"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "partial animal two"
+width 7
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 5
+blue 7
+blue 7
+blue 7
+blue 7
+blue 7
+
+columns
+black 1 blue 5
+black 1 blue 5
+black 1 blue 5
+black 1 blue 5
+black 1 blue 5
+black 1 blue 5
+black 1 blue 5

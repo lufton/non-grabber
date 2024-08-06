@@ -1,0 +1,42 @@
+by "jennifk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/1/06"
+height 15
+id 33132
+link "https://www.griddlers.net/nonogram/-/g/33132"
+medium_time "0:00:28"
+points 88
+popularity 56.23
+title "Stop Light"
+width 5
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color e fffe00
+color h 000000
+
+rows
+h 3
+h 1 b 1 h 1
+h 3
+h 1 e 1 h 1
+h 3
+h 1 c 1 h 1
+h 3
+h 1
+h 1
+h 1
+h 1
+h 1
+h 1
+h 3
+h 2 h 2
+
+columns
+h 1
+h 7 h 2
+h 1 b 1 h 1 e 1 h 1 c 1 h 8
+h 7 h 2
+h 1

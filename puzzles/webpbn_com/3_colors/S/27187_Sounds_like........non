@@ -1,0 +1,46 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 15
+id 27187
+link "https://webpbn.com/play.cgi?id=27187"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Sounds like......."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 3
+black 3
+black 3 red 1
+black 3 red 3
+black 3 red 5
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 3 black 3
+black 8
+black 6
+black 4
+
+columns
+0
+black 13
+black 14
+black 15
+black 3
+red 1 black 3
+red 2 black 9
+red 3 black 8
+red 2 black 7
+red 1

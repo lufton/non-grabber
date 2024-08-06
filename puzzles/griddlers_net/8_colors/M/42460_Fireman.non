@@ -1,0 +1,70 @@
+by "Shaggy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/8/07"
+height 24
+id 42460
+link "https://www.griddlers.net/nonogram/-/g/42460"
+medium_time "0:07:40"
+points 6400
+popularity 72.15
+title "Fireman"
+width 21
+
+color a ffffff
+color b 000000
+color c ffa5a5
+color d ff4242
+color e e70000
+color f ffff66
+color g c60000
+color h 318c31
+
+rows
+b 1
+b 1 c 1 b 1
+b 1 c 1 d 1 e 1 b 1
+b 1 c 1 d 1 b 1 d 1 e 1 b 1
+b 2 c 1 b 1 b 1 e 1 b 2
+b 2 c 1 d 1 b 1 b 1 e 2 b 2
+b 2 c 1 d 1 b 1 f 1 b 1 d 1 e 1 b 2
+b 1 c 1 b 1 c 1 d 1 b 3 d 1 e 1 b 1 e 1 b 1
+b 4 c 1 b 1 c 1 d 5 e 1 b 1 e 1 b 4
+b 2 d 1 c 1 b 13 g 1 e 1 b 2
+b 1 e 1 b 2 c 3 d 4 e 6 b 2 d 1 b 1
+b 1 e 1 b 17 d 1 b 1
+b 1 e 1 b 1 h 1 b 1 f 11 b 1 h 1 b 1 e 1 b 1
+b 1 e 1 b 2 f 3 b 2 f 3 b 2 f 3 b 2 e 1 b 1
+b 3 f 3 b 2 f 3 b 2 f 3 b 3
+b 3 f 13 b 3
+b 2 f 13 b 2
+b 1 h 1 b 1 f 11 b 1 h 1 b 1
+b 2 f 3 b 1 f 3 b 1 f 3 b 2
+b 1 h 1 b 1 f 3 b 3 f 3 b 1 h 1 b 1
+b 1 h 1 b 2 f 5 b 2 h 1 b 1
+b 1 h 2 b 5 h 2 b 1
+b 2 h 5 b 2
+b 5
+
+columns
+b 5
+b 2 e 4 b 2
+b 1 d 1 b 8
+b 1 c 1 b 2 h 1 b 4 h 1 b 2
+b 3 c 1 b 2 f 4 b 2 h 1 b 1
+b 2 c 2 b 1 c 1 b 1 f 7 b 1 h 1 b 1
+b 6 c 1 b 1 f 8 b 1 h 1 b 1
+b 2 c 4 b 1 d 1 b 1 f 1 b 2 f 5 b 1 h 1 b 1
+b 1 c 2 d 4 b 1 d 1 b 1 f 1 b 2 f 3 b 1 f 2 b 1 h 1 b 1
+b 1 c 1 d 1 b 4 d 1 b 1 d 1 b 1 f 7 b 1 f 1 b 1 h 1 b 1
+b 1 c 1 d 1 b 1 f 1 b 1 d 1 b 1 d 1 b 1 f 7 b 1 f 1 b 1 h 1 b 1
+b 1 e 1 d 1 b 4 d 1 b 1 e 1 b 1 f 7 b 1 f 1 b 1 h 1 b 1
+b 1 e 3 d 3 b 1 e 1 b 1 f 1 b 2 f 3 b 1 f 2 b 1 h 1 b 1
+b 2 e 4 b 1 e 1 b 1 f 1 b 2 f 5 b 1 h 1 b 1
+b 6 e 1 b 1 f 8 b 1 h 1 b 1
+b 2 e 2 b 1 e 1 b 1 f 7 b 1 h 1 b 1
+b 3 e 1 b 2 f 4 b 2 h 1 b 1
+b 1 g 1 b 2 h 1 b 4 h 1 b 2
+b 1 e 1 b 8
+b 2 d 2 e 2 b 2
+b 5

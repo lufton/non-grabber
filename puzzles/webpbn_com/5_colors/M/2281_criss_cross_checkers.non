@@ -1,0 +1,63 @@
+by "Rachel Freer (Little Freer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Rachel Freer"
+date "Feb 12, 2008"
+description "criss croseed with black and white filling in gaps"
+difficulty 1.75
+height 20
+id 2281
+link "https://webpbn.com/play.cgi?id=2281"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "criss cross checkers"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 red 1 black 1 black 1 black 1 red 1 green 1 black 1 red 1 black 1 black 1 black 1 red 1 blue 1
+red 1 green 1 red 1 black 1 black 1 black 1 red 1 black 1 green 1 red 1 black 1 black 1 black 1 red 1 blue 1 red 1
+black 1 red 1 green 1 red 1 black 1 black 1 red 1 green 1 black 1 red 1 black 1 black 1 red 1 blue 1 red 1 black 1
+black 1 red 1 green 1 red 1 black 1 black 1 red 1 black 1 green 1 red 1 black 1 black 1 red 1 blue 1 red 1 black 1
+black 1 black 1 red 1 green 1 red 1 black 1 red 1 green 1 black 1 red 1 black 1 red 1 blue 1 red 1 black 1 black 1
+black 1 black 1 red 1 green 1 red 1 black 1 red 1 black 1 green 1 red 1 black 1 red 1 blue 1 red 1 black 1 black 1
+black 1 black 1 black 1 red 1 green 1 red 2 green 1 black 1 red 2 blue 1 red 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 3 black 1 green 1 red 3 black 1 black 1 black 1
+red 9 green 1 black 1 red 9
+green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+red 9 black 1 blue 1 red 9
+black 1 black 1 black 1 red 3 blue 1 black 1 red 3 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 blue 1 red 2 black 1 blue 1 red 2 green 1 red 1 black 1 black 1 black 1
+black 1 black 1 red 1 blue 1 red 1 black 1 red 1 blue 1 black 1 red 1 black 1 red 1 green 1 red 1 black 1 black 1
+black 1 black 1 red 1 blue 1 red 1 black 1 red 1 black 1 blue 1 red 1 black 1 red 1 green 1 red 1 black 1 black 1
+black 1 red 1 blue 1 red 1 black 1 black 1 red 1 blue 1 black 1 red 1 black 1 black 1 red 1 green 1 red 1 black 1
+black 1 red 1 blue 1 red 1 black 1 black 1 red 1 black 1 blue 1 red 1 black 1 black 1 red 1 green 1 red 1 black 1
+red 1 blue 1 red 1 black 1 black 1 black 1 red 1 blue 1 black 1 red 1 black 1 black 1 black 1 red 1 green 1 red 1
+blue 1 red 1 black 1 black 1 black 1 red 1 black 1 blue 1 red 1 black 1 black 1 black 1 red 1 green 1
+
+columns
+green 1 red 1 black 1 black 1 black 1 red 1 green 1 black 1 red 1 black 1 black 1 black 1 red 1 blue 1
+red 1 green 1 red 1 black 1 black 1 black 1 red 1 black 1 green 1 red 1 black 1 black 1 black 1 red 1 blue 1 red 1
+black 1 red 1 green 1 red 1 black 1 black 1 red 1 green 1 black 1 red 1 black 1 black 1 red 1 blue 1 red 1 black 1
+black 1 red 1 green 1 red 1 black 1 black 1 red 1 black 1 green 1 red 1 black 1 black 1 red 1 blue 1 red 1 black 1
+black 1 black 1 red 1 green 1 red 1 black 1 red 1 green 1 black 1 red 1 black 1 red 1 blue 1 red 1 black 1 black 1
+black 1 black 1 red 1 green 1 red 1 black 1 red 1 black 1 green 1 red 1 black 1 red 1 blue 1 red 1 black 1 black 1
+black 1 black 1 black 1 red 1 green 1 red 2 green 1 black 1 red 2 blue 1 red 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 3 black 1 green 1 red 3 black 1 black 1 black 1
+red 9 green 1 black 1 red 9
+green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 green 1 black 1 green 1 black 1 green 1 black 1 green 1 black 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+red 9 black 1 blue 1 red 9
+black 1 black 1 black 1 red 3 blue 1 black 1 red 3 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 blue 1 red 2 black 1 blue 1 red 2 green 1 red 1 black 1 black 1 black 1
+black 1 black 1 red 1 blue 1 red 1 black 1 red 1 blue 1 black 1 red 1 black 1 red 1 green 1 red 1 black 1 black 1
+black 1 black 1 red 1 blue 1 red 1 black 1 red 1 black 1 blue 1 red 1 black 1 red 1 green 1 red 1 black 1 black 1
+black 1 red 1 blue 1 red 1 black 1 black 1 red 1 blue 1 black 1 red 1 black 1 black 1 red 1 green 1 red 1 black 1
+black 1 red 1 blue 1 red 1 black 1 black 1 red 1 black 1 blue 1 red 1 black 1 black 1 red 1 green 1 red 1 black 1
+red 1 blue 1 red 1 black 1 black 1 black 1 red 1 blue 1 black 1 red 1 black 1 black 1 black 1 red 1 green 1 red 1
+blue 1 red 1 black 1 black 1 black 1 red 1 black 1 blue 1 red 1 black 1 black 1 black 1 red 1 green 1

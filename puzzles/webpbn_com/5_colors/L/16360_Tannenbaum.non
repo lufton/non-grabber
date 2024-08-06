@@ -1,0 +1,83 @@
+by "David R. Felton (drfelton)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David R. Felton"
+date "Nov 13, 2011"
+description "It's a christmas tree, which in German, is tannenbaum."
+difficulty 1.25
+height 30
+id 16360
+link "https://webpbn.com/play.cgi?id=16360"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "Tannenbaum"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 30
+black 14 black 14
+black 13 black 13
+black 14 black 14
+black 14 green 2 black 14
+black 13 green 4 black 13
+black 12 green 6 black 12
+black 13 green 4 black 13
+black 12 green 6 black 12
+black 11 green 2 red 2 green 4 black 11
+black 12 green 1 red 2 green 3 black 12
+black 11 green 8 black 11
+black 10 green 10 black 10
+black 11 green 8 black 11
+black 10 green 7 blue 2 green 1 black 10
+black 9 green 8 blue 2 green 2 black 9
+black 10 green 10 black 10
+black 9 green 12 black 9
+black 8 green 4 red 2 green 8 black 8
+black 9 green 3 red 2 green 7 black 9
+black 8 green 14 black 8
+black 7 green 16 black 7
+black 8 green 14 black 8
+black 7 green 16 black 7
+black 6 green 3 blue 2 green 13 black 6
+black 7 green 2 blue 2 green 7 red 2 green 3 black 7
+black 6 green 12 red 2 green 4 black 6
+black 5 green 20 black 5
+black 14 black 14
+black 14 black 14
+
+columns
+black 30
+black 30
+black 30
+black 30
+black 30
+black 27 green 1 black 2
+black 24 green 1 black 1 green 2 black 2
+black 21 green 1 black 1 green 5 black 2
+black 18 green 1 black 1 green 8 black 2
+black 15 green 1 black 1 green 7 blue 2 green 2 black 2
+black 12 green 1 black 1 green 10 blue 2 green 2 black 2
+black 9 green 1 black 1 green 17 black 2
+black 6 green 1 black 1 green 10 red 2 green 8 black 2
+black 2 black 2 green 4 red 2 green 7 red 2 green 8 black 2
+black 1 green 5 red 2 green 17
+black 1 green 24
+black 2 black 2 green 23 black 2
+black 6 green 1 black 1 green 6 blue 2 green 12 black 2
+black 9 green 1 black 1 green 3 blue 2 green 9 red 2 green 1 black 2
+black 12 green 1 black 1 green 11 red 2 green 1 black 2
+black 15 green 1 black 1 green 11 black 2
+black 18 green 1 black 1 green 8 black 2
+black 21 green 1 black 1 green 5 black 2
+black 24 green 1 black 1 green 2 black 2
+black 27 green 1 black 2
+black 30
+black 30
+black 30
+black 30
+black 30

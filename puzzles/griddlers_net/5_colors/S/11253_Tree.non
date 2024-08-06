@@ -1,0 +1,47 @@
+by "oldyard"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/18/04"
+height 15
+id 11253
+link "https://www.griddlers.net/nonogram/-/g/11253"
+medium_time "0:01:02"
+points 60
+popularity 49.41
+title "Tree"
+width 10
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color e ffc700
+color g a40000
+
+rows
+c 1
+c 3
+c 3
+c 5
+c 5
+c 5
+c 7
+c 7
+c 9
+g 3
+g 3
+b 7
+e 5
+b 5
+b 3
+
+columns
+c 1
+c 3 b 1
+c 6 b 1 e 1 b 1
+c 8 g 2 b 1 e 1 b 2
+c 9 g 2 b 1 e 1 b 2
+c 8 g 2 b 1 e 1 b 2
+c 6 b 1 e 1 b 1
+c 3 b 1
+c 1
+0

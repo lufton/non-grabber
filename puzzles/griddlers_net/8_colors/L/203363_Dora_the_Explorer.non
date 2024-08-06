@@ -1,0 +1,76 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/16/19"
+height 30
+id 203363
+link "https://www.griddlers.net/nonogram/-/g/203363"
+medium_time "0:09:12"
+points 2358
+popularity 78.9
+title "Dora the Explorer"
+width 21
+
+color a ffffff
+color b 000000
+color c ffcc66
+color d e08b0c
+color e ffe60a
+color f bb56ff
+color g 3399ff
+color h ff9999
+
+rows
+b 4 b 2
+b 11
+b 13
+c 1 b 15
+c 1 c 2 b 15
+c 3 b 2 c 1 d 1 c 3 b 8
+c 3 b 1 c 1 d 2 c 4 b 7
+c 9 d 1 c 1 b 5
+c 9 d 2 c 2 b 4
+c 12 b 4
+h 2 c 2 h 2 c 4 b 5
+h 3 c 6 b 5
+h 2 f 1 c 4 f 2 h 1
+f 3 h 4 f 2 h 1
+f 3 h 4 f 2 h 2
+f 2 h 5 f 2 h 1 c 2
+f 2 h 6 f 2 c 2 e 1
+f 2 h 6 f 2 e 1 g 1 c 1
+f 2 d 6 f 2 c 3
+d 10 c 2
+d 10 c 1
+d 4 d 4
+d 4 d 4
+d 1 c 2 d 1 d 1 c 2 d 1
+c 2 c 2
+e 2 e 2
+e 2 e 2
+b 2 b 2
+b 4 b 4
+b 4 b 4
+
+columns
+c 1
+c 1
+c 3
+c 6
+b 3 c 4
+b 5 c 3 h 2 b 2
+b 4 c 5 h 3 f 6 d 5 b 2
+b 4 d 1 c 4 h 2 f 6 d 4 c 2 e 2 b 3
+b 5 d 2 c 5 f 3 h 3 d 5 c 2 e 2 b 3
+b 5 c 5 h 1 c 2 h 5 d 6
+b 5 c 5 h 1 c 2 h 5 d 3
+b 5 c 8 h 5 d 3
+b 5 c 1 d 1 c 4 h 5 d 6
+b 6 d 2 c 3 f 4 h 2 d 5 c 2 e 2 b 3
+b 7 c 4 b 1 f 7 d 4 c 2 e 2 b 3
+b 8 c 2 b 2 h 4 f 3 d 5 b 2
+b 11 h 1 c 2 b 2
+b 10 c 2 e 1
+b 9 e 1 g 1 c 3
+b 6 c 3
+c 1

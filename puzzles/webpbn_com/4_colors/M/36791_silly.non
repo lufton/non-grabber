@@ -1,0 +1,62 @@
+by "kaitlyn cyr (cyrious)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by kaitlyn cyr"
+date "May  5, 2023"
+description "wanted to make the daria logo but i decided to do silly things"
+difficulty 1.25
+height 20
+id 36791
+link "https://webpbn.com/play.cgi?id=36791"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "silly"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 10
+black 1 blue 10 black 1
+black 1 blue 1 black 10 blue 1 black 1
+black 1 blue 1 black 1 green 10 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 2 blue 8 green 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 8 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 6 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 6 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 6 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 6 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 6 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 8 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 2 blue 8 green 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 10 black 1 blue 1 black 1
+black 1 blue 1 black 10 blue 1 black 1
+black 1 blue 10 black 1
+black 10
+0
+
+columns
+0
+black 9
+black 1 blue 9 black 1
+black 1 blue 1 black 9 blue 1 black 1
+black 1 blue 1 black 1 green 9 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 2 blue 7 green 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 7 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 5 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 5 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 5 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 5 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 5 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 1 black 5 green 1 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 1 blue 1 green 7 blue 1 green 1 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 2 blue 7 green 2 black 1 blue 1 black 1
+black 1 blue 1 black 1 green 9 black 1 blue 1 black 1
+black 1 blue 1 black 9 blue 1 black 1
+black 1 blue 9 black 1
+black 9
+0

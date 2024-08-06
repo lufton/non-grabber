@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Sep  7, 2011"
+description "Can you name this candy bar?"
+difficulty 1.25
+height 15
+id 15768
+link "https://webpbn.com/play.cgi?id=15768"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Which Candy 1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+green 19
+0
+green 18
+black 2
+green 10 black 4 green 4
+black 5
+green 12 black 8
+black 12 black 7
+black 13 black 6
+black 19
+black 16
+black 7
+black 3
+0
+
+columns
+green 1 green 1 green 1 black 2
+green 1 green 1 green 1 green 1 black 3
+green 1 green 1 green 1 green 1 black 3
+green 1 green 1 green 1 green 1 black 3
+green 1 green 1 green 1 green 1 black 4
+green 1 green 1 green 1 green 1 black 4
+green 1 green 1 green 1 green 1 black 4
+green 1 green 1 green 1 green 1 black 4
+green 1 green 1 green 1 green 1 black 4
+green 1 green 1 green 1 green 1 black 4
+green 1 green 1 green 1 green 1 black 4
+green 1 green 1 black 2 green 1 black 4
+green 1 green 1 black 4 black 3
+green 1 green 1 black 5 black 3
+green 1 green 1 black 8
+green 1 green 1 green 1 black 7
+green 1 green 1 green 1 black 6
+green 1 green 1 green 1 black 7
+green 1 green 1 black 7
+black 7

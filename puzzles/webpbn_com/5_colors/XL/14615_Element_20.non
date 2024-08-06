@@ -1,0 +1,103 @@
+by "Diwesh Poudyal (diwesh328)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Diwesh Poudyal"
+date "Jun 15, 2011"
+description "This is a puzzle involving the element Calcium. There are 3 related objects in this puzzle. A bone, a mouth showing the teeth, and 3 differently colored pieces of chalk"
+difficulty 1.75
+height 40
+id 14615
+link "https://webpbn.com/play.cgi?id=14615"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Element 20"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 14 black 4 black 20
+black 13 black 2 black 19
+black 12 black 18
+black 12 black 2 green 2 black 4 green 2 black 8
+black 12 black 18
+black 13 black 19
+black 14 black 7 green 2 black 11
+black 15 black 8 green 2 black 11
+black 15 black 21
+black 15 black 3 red 12 black 6
+black 15 black 3 red 2 red 2 black 6
+black 15 black 4 red 2 red 2 black 7
+black 15 black 5 red 8 black 8
+black 15 black 21
+black 15 black 21
+black 15 black 21
+black 15 black 21
+black 3 green 2 black 1 black 1 blue 2 black 4 black 21
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 17
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 1 black 15 blue 1
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 1 black 2 green 4 black 9 blue 1
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 1 black 1 green 1 black 13 blue 1
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 1 black 1 green 1 black 6 green 3 black 4 blue 1
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 1 black 1 green 1 black 8 green 1 black 4 blue 1
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 1 black 1 green 1 black 5 green 4 black 4 blue 1
+black 3 green 2 black 1 black 1 blue 2 black 4 black 4 blue 1 black 1 green 1 black 5 green 1 black 2 green 1 black 4 blue 1
+black 4 green 1 black 1 black 2 blue 1 black 4 black 3 blue 1 black 1 green 1 black 5 green 1 black 2 green 1 black 4 blue 1
+black 13 black 2 blue 1 black 2 green 4 black 1 green 5 black 3 blue 1
+black 12 black 1 blue 1 black 15 blue 1
+black 12 black 1 blue 17
+black 12 black 18
+black 13 black 2 black 19
+black 14 black 4 black 20
+black 40
+
+columns
+black 40
+black 40
+black 40
+black 23 green 9 black 8
+black 23 green 10 black 7
+black 40
+black 23 black 7
+black 23 black 8
+black 40
+black 23 blue 10 black 7
+black 23 blue 9 black 8
+black 40
+black 8 black 23 black 3
+black 7 black 21 black 2
+black 6 black 19 black 1
+black 7 black 2
+black 8 black 3
+black 8 black 3
+black 7 black 2
+black 6 black 19 black 1
+black 7 black 21 black 2
+black 8 black 23 black 3
+black 15 red 2 black 23
+black 15 red 3 black 6 blue 12 black 4
+black 9 green 1 black 5 red 1 red 2 black 5 blue 1 black 10 blue 1 black 4
+black 9 green 1 black 5 red 1 red 1 black 5 blue 1 black 2 green 6 black 2 blue 1 black 4
+black 15 red 1 red 1 black 5 blue 1 black 1 green 1 black 6 green 1 black 1 blue 1 black 4
+black 12 green 2 black 1 red 1 red 1 black 5 blue 1 black 1 green 1 black 6 green 1 black 1 blue 1 black 4
+black 12 green 2 black 1 red 1 red 1 black 5 blue 1 black 1 green 1 black 6 green 1 black 1 blue 1 black 4
+black 15 red 1 red 1 black 5 blue 1 black 1 green 1 black 6 green 1 black 1 blue 1 black 4
+black 9 green 1 black 5 red 1 red 1 black 5 blue 1 black 10 blue 1 black 4
+black 9 green 1 black 5 red 1 red 2 black 5 blue 1 black 5 green 4 black 1 blue 1 black 4
+black 15 red 3 black 6 blue 1 black 3 green 1 black 1 green 1 black 2 green 1 black 1 blue 1 black 4
+black 15 red 2 black 7 blue 1 black 3 green 1 black 1 green 1 black 2 green 1 black 1 blue 1 black 4
+black 24 blue 1 black 3 green 6 black 1 blue 1 black 4
+black 24 blue 1 black 8 green 1 black 1 blue 1 black 4
+black 24 blue 1 black 10 blue 1 black 4
+black 24 blue 1 black 10 blue 1 black 4
+black 24 blue 1 black 10 blue 1 black 4
+black 24 blue 12 black 4

@@ -1,0 +1,56 @@
+by "sap_m"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/8/15"
+height 20
+id 153869
+link "https://www.griddlers.net/nonogram/-/g/153869"
+medium_time "0:03:36"
+points 1716
+popularity 57.26
+title "Cube"
+width 20
+
+rows
+16
+2,3
+2,1,2,1
+2,2,1
+2,2,1
+15,1
+1,1,2
+1,1,1,1
+1,1,1
+1,2,2,1,1
+1,2,2,1,1
+1,1,1
+1,2,2,1,2
+1,2,2,1,1,1
+1,1,1
+1,2,2,1,1
+1,2,2,1,2
+1,1,2
+1,1,2
+17
+
+columns
+16
+3,1
+2,1,1
+2,1,1
+2,1,2,2,2,1
+1,1,2,2,2,1
+1,1,1
+1,1,1
+1,1,1
+1,1,2,2,2,1
+1,1,1,2,2,2,1
+1,1,1
+1,1,1
+1,1,1
+1,16
+1,2,1
+1,2,1,1,2
+3,2
+2,1,1,2
+17

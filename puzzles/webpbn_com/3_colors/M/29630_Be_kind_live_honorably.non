@@ -1,0 +1,61 @@
+by "Liesl Guenther (lguenther)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Liesl Guenther"
+date "Apr 10, 2017"
+description ""
+difficulty 1.5
+height 20
+id 29630
+link "https://webpbn.com/play.cgi?id=29630"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Be kind, live honorably"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 16
+red 3 red 3 black 2 red 3 red 3
+red 3 red 3 black 3 red 2 red 3
+red 3 red 3 black 2 red 1 red 3
+red 3 red 6 red 3
+red 4 red 4 red 4
+red 3 red 4 red 3
+red 4 red 2 red 4
+red 4 black 2 red 4
+red 4 black 2 red 4
+red 3 black 1 red 2 black 1 red 3
+red 10
+red 8
+red 3 black 2 red 3
+red 2 black 2 red 2
+red 2 black 2 red 2
+red 4
+0
+
+columns
+0
+0
+red 3
+red 6
+red 9
+red 1 red 9
+red 3 red 9
+red 5 red 9
+red 7 red 1 black 1 red 6
+red 1 black 2 red 5 black 2 red 3 black 3 red 1
+red 1 black 3 red 4 black 2 red 3 black 3 red 1
+red 2 black 2 red 3 red 1 black 1 red 6
+red 5 red 9
+red 3 red 9
+red 1 red 9
+red 9
+red 6
+red 3
+0
+0

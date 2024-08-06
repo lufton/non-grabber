@@ -1,0 +1,78 @@
+by "Macci Clement (girly980)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Macci Clement"
+date "Feb 16, 2014"
+description "Or Green Land Ariel. For lack of better/more colors!!"
+difficulty 1.75
+height 34
+id 23851
+link "https://webpbn.com/play.cgi?id=23851"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Land Ariel"
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2
+red 5 blue 2
+red 12 blue 3
+red 15 blue 2
+red 16
+red 16
+red 4 green 7 red 4
+red 3 green 9 red 4
+red 3 green 2 black 1 green 3 black 1 green 2 red 4
+red 3 green 2 black 2 green 3 black 2 green 2 red 5
+red 3 green 11 red 5
+red 5 green 9 red 6
+red 7 green 7 red 6
+red 9 green 3 red 9
+red 5 blue 5 green 1 blue 5 red 5
+red 3 blue 3 black 3 blue 1 black 3 blue 3 red 4
+red 1 blue 3 red 1 black 7 red 1 blue 3 red 2
+green 2 blue 1 red 2 black 7 red 2 blue 1 green 2
+green 2 red 4 black 5 red 4 green 2
+red 2 black 5 red 2
+blue 3 black 1 blue 3
+blue 9
+blue 11
+blue 13
+blue 13
+blue 15
+blue 17
+blue 17
+blue 17
+blue 19
+blue 19
+blue 17
+blue 15
+blue 9
+
+columns
+red 3
+red 5 blue 2
+red 3 red 9 green 2 blue 6
+red 13 blue 1 green 2 blue 8
+red 13 blue 3 red 1 blue 10
+red 6 green 3 red 3 blue 3 red 2 blue 11
+red 5 green 5 red 2 blue 2 red 4 blue 13
+red 4 green 2 black 1 green 3 red 1 blue 1 black 3 red 2 blue 14
+red 4 green 2 black 2 green 3 red 1 blue 1 black 5 blue 14
+red 4 green 8 blue 1 black 5 blue 14
+red 5 green 9 blue 1 black 5 blue 13
+red 5 green 8 blue 1 black 5 blue 14
+red 5 green 2 black 1 green 3 red 1 blue 1 black 5 blue 14
+red 5 green 2 black 2 green 3 red 1 blue 1 black 3 red 2 blue 14
+red 6 green 5 red 2 blue 2 red 4 blue 13
+blue 2 red 6 green 3 red 3 blue 3 red 2 blue 11
+blue 3 red 12 blue 3 red 1 blue 10
+blue 2 red 12 blue 1 green 2 blue 8
+blue 2 red 10 green 2 blue 6
+red 9 blue 2
+red 3 red 3

@@ -1,0 +1,46 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr  2, 2011"
+description "Grilled Asparagus. Recipe in first comment."
+difficulty 1.5
+height 5
+id 13162
+link "https://webpbn.com/play.cgi?id=13162"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Small Veggies 2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1 green 2 black 1 green 2
+green 1 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1
+green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1
+black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 2 black 1 green 1
+green 2 black 1
+
+columns
+black 1 green 2 black 1
+green 1 black 1 green 2
+green 2 black 1 green 1
+black 1 green 2 black 1
+green 1 black 1 green 2
+green 2 black 1 green 1
+green 2 black 1
+black 1 green 2
+green 1 black 1 green 1
+green 2 black 1
+black 1 green 2
+green 1 black 1 green 1
+green 2 black 1
+black 1 green 2
+black 1 green 1
+green 1 black 1
+green 2
+black 1 green 2
+black 1 green 1
+green 1 black 1

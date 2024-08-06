@@ -1,0 +1,71 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb 15, 2023"
+description "11 letters total."
+difficulty 1.75
+height 25
+id 36434
+link "https://webpbn.com/play.cgi?id=36434"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Palindrome 5a"
+width 24
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 black 1 green 1 black 1
+green 1 black 1 green 1 green 1 black 1 green 1
+black 1 green 1 black 1 green 1
+black 2 black 2
+black 1 green 4 black 1 green 2 black 1 black 1 green 4 black 1 green 2 black 1
+black 1 green 2 black 1 green 2 black 1 black 1 green 2 black 1 green 2 black 1
+black 1 green 3 black 1 black 1 green 3 black 1
+black 1 green 1 black 1 black 1 green 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 5 black 5
+blue 20
+blue 1 blue 2 blue 2 blue 2 blue 3 blue 2
+blue 1 blue 2 blue 2 blue 2 blue 3 blue 2
+blue 1 blue 2 blue 2 blue 2 blue 3 blue 1
+blue 1 blue 2 blue 2 blue 2 blue 3 blue 2
+blue 1 blue 2 blue 2 blue 2 blue 3 blue 1
+blue 1 blue 2 blue 2 blue 2 blue 3 blue 2
+blue 1 blue 2 blue 2 blue 2 blue 3 blue 2
+blue 18 blue 2
+blue 18 blue 2
+blue 24
+black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2
+
+columns
+black 1 blue 11
+green 1 black 1 blue 1 blue 3
+green 2 black 1 black 1 blue 1 blue 3
+green 3 black 1 black 1 blue 11
+green 1 black 1 green 2 black 4 blue 11
+black 2 green 2 black 1 black 1 blue 1 blue 3 black 2
+green 1 black 2 green 2 black 1 black 1 blue 1 blue 3 black 2
+green 1 black 1 green 1 green 1 black 1 blue 11
+black 1 green 1 black 1 blue 11
+blue 1 blue 3 black 2
+black 1 blue 1 blue 3 black 2
+green 1 black 1 blue 11
+green 2 black 1 black 1 blue 11
+green 3 black 1 black 1 blue 1 blue 3 black 2
+green 1 black 1 green 2 black 4 blue 1 blue 3 black 2
+black 2 green 2 black 1 black 1 blue 11
+green 1 black 2 green 2 black 1 black 1 blue 11
+green 1 black 1 green 1 green 1 black 1 blue 11 black 2
+black 1 green 1 black 1 blue 1 blue 1 black 2
+blue 2 blue 1
+blue 2 blue 1
+blue 3 blue 1
+blue 7
+blue 5

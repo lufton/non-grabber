@@ -1,0 +1,96 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/15/11"
+height 39
+id 105660
+link "https://www.griddlers.net/nonogram/-/g/105660"
+medium_time "0:17:19"
+points 53089
+popularity 82.55
+title "Tepig - Pokemon No. 498"
+width 33
+
+color a ccccff
+color b 0f0f0f
+color c 493830
+color e ef8438
+color f ce4138
+color g efbd06
+color h ffffff
+
+rows
+b 1
+b 1 c 1 b 1
+b 1 c 2 b 1
+b 1 c 3 b 1 b 3
+b 1 c 4 b 1 b 2 c 2 b 1
+b 1 c 4 b 1 b 2 c 4 b 1
+b 1 c 5 b 1 c 5 b 2
+b 1 c 5 b 1 c 6 b 1
+b 1 c 4 b 1 c 6 b 2
+b 1 c 3 b 1 c 7 b 1
+b 1 c 2 b 1 c 7 b 2
+b 1 c 2 b 1 c 5 b 3
+b 5 c 5 b 3
+b 2 c 7 b 4 b 3
+b 2 c 9 e 1 b 1 b 2 f 1 b 2
+b 2 g 1 c 9 e 2 b 1 b 1 f 3 b 1
+b 1 g 2 c 4 b 2 c 2 e 4 b 1 b 2 f 1 b 2
+b 1 g 4 c 2 b 1 h 2 b 1 c 1 e 5 b 1 b 3
+b 1 g 4 c 2 h 4 b 1 e 5 b 2 b 2
+b 1 g 4 c 2 h 1 b 1 h 2 e 7 b 1 b 3
+b 1 g 5 c 2 b 2 h 2 e 7 b 2 b 3
+b 1 g 6 c 2 b 2 h 2 e 8 b 2 b 3
+b 4 g 2 c 3 e 1 b 2 h 2 e 9 c 1 b 5
+b 1 f 4 b 2 e 5 h 2 e 11 c 2 b 2
+b 1 f 1 b 1 f 1 b 1 f 1 b 1 e 19 c 2 b 1
+b 1 f 1 b 1 f 1 b 1 f 1 b 1 e 19 c 2 b 1
+b 1 f 3 b 1 e 7 b 1 e 13 c 2 b 1
+b 3 e 6 b 2 e 14 c 2 b 1
+b 2 e 2 b 3 e 16 c 2 b 1
+b 2 e 18 c 3 b 1
+b 2 e 7 b 1 e 8 c 2 e 1 b 1
+b 1 e 1 b 2 e 4 b 1 e 4 b 1 e 3 c 3 e 1 b 1
+b 1 e 6 b 1 e 4 b 1 e 2 c 3 e 2 b 1
+b 1 e 2 b 1 e 2 b 1 e 5 b 1 e 2 c 1 e 3 b 1
+b 1 e 3 b 3 e 5 b 4 e 3 b 1
+b 1 e 3 b 2 e 4 b 1 b 1 e 2 b 1
+b 1 c 2 b 1 b 1 e 4 b 1 b 2
+b 2 b 1 c 2 b 1
+b 3
+
+columns
+b 3
+b 1 f 3 b 1
+b 2 f 1 b 2 f 1 b 1
+b 1 g 1 b 1 f 4 b 1
+b 3 g 2 b 1 f 1 b 2 f 1 b 2
+b 2 g 6 b 1 f 2 b 1 e 1 b 1
+b 2 g 7 b 3 e 3 b 1
+b 1 g 7 c 1 e 6 b 1
+b 1 c 3 g 5 c 1 e 5 b 1 e 1 b 2
+b 1 c 9 e 5 b 1 e 1 b 1 e 1 b 3
+b 1 c 9 e 6 b 1 e 2 b 1 e 3 b 2
+b 1 c 4 b 1 h 2 b 3 e 4 b 1 e 3 b 1 e 4 c 1 b 1
+b 1 c 3 b 1 h 2 b 4 h 1 e 3 b 1 e 5 b 1 e 2 c 1 b 1
+b 6 c 3 b 1 h 7 e 2 b 1 e 7 b 1 e 1 b 1
+b 3 c 5 b 1 c 4 b 1 h 5 e 11 b 2
+b 2 c 14 b 1 e 14 b 4
+b 1 c 8 b 2 c 4 e 15 b 2 e 4 b 2
+b 1 c 8 b 1 c 3 b 1 e 16 b 1 e 6 c 1 b 1
+b 2 c 5 b 1 c 4 b 2 e 22 c 1 b 1
+b 3 c 1 b 1 c 5 b 1 b 1 e 21 b 1
+b 1 c 5 b 2 b 1 e 18 b 2
+b 1 c 6 b 1 b 2 e 12 b 4
+b 1 c 5 b 2 b 3 e 13 b 1
+b 1 c 6 b 1 b 2 e 12 b 1
+b 1 c 5 b 2 b 1 c 1 e 9 c 2 b 2
+b 1 c 4 b 3 b 1 c 1 e 7 c 2 e 3 b 1
+b 1 c 2 b 3 b 1 c 3 e 3 c 4 e 3 b 1
+b 4 b 3 c 8 e 3 b 1
+b 3 b 7 c 4 e 3 b 2
+b 2 f 1 b 7 b 7
+b 1 f 3 b 4
+b 2 f 1 b 2
+b 3

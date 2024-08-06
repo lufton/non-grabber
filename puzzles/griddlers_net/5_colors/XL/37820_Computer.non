@@ -1,0 +1,84 @@
+by "wildweasel"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/12/06"
+height 30
+id 37820
+link "https://www.griddlers.net/nonogram/-/g/37820"
+medium_time "0:15:59"
+points 72744
+popularity 52.67
+title "Computer"
+width 32
+
+color a ffffff
+color d 0000c0
+color f c0c0c0
+color g 808080
+color h 000000
+
+rows
+h 2
+h 2 g 2 h 2
+h 2 g 2 f 2 g 2 h 2
+h 2 g 2 f 6 g 2 h 2
+h 2 g 2 f 6 g 2 h 2 g 2 h 1
+h 2 g 2 f 6 g 2 h 5 g 1 h 1
+h 2 g 2 f 6 g 2 h 5 d 1 h 1 g 1 h 1
+h 2 g 2 f 6 g 2 h 5 d 3 h 1 g 1 h 1
+h 1 g 1 h 2 g 2 f 2 g 2 h 5 d 5 h 1 g 1 h 1
+h 1 g 3 h 2 g 2 h 5 d 7 h 1 g 1 h 1
+h 1 g 1 f 2 g 2 h 2 g 1 h 2 d 9 h 1 g 1 h 1
+h 1 g 1 f 4 g 1 h 1 g 1 h 1 d 10 h 1 g 1 h 1
+h 1 g 1 f 4 g 1 h 1 g 1 h 1 d 10 h 1 g 1 h 1
+h 1 g 1 f 4 g 1 h 1 g 1 h 1 d 9 h 2 g 1 h 1
+h 3 g 1 f 4 g 1 h 1 g 1 h 1 d 7 h 2 g 3 h 1
+h 2 g 2 h 1 g 1 f 4 g 1 h 1 g 1 h 1 d 5 h 2 g 3 h 2
+h 2 g 2 h 1 g 1 f 4 g 1 h 1 g 1 h 1 d 3 h 2 g 3 h 2 g 2 h 2
+h 1 g 1 h 2 g 2 h 1 g 1 f 4 g 1 h 1 g 1 h 1 d 1 h 2 g 3 h 2 g 2 g 2 h 2
+h 1 g 3 h 3 g 1 f 4 g 1 h 1 g 1 h 2 g 3 h 2 g 2 g 2 h 2 g 1 h 1
+h 1 g 1 f 2 g 2 h 2 g 2 f 2 g 1 h 1 g 4 h 2 g 2 g 2 h 2 g 3 h 1
+h 1 g 1 f 4 g 2 h 2 g 3 h 1 g 2 h 2 g 2 g 2 h 2 g 2 f 2 g 1 h 1
+h 2 g 2 f 4 g 2 h 2 g 1 h 3 g 2 g 2 h 2 g 2 f 4 g 1 h 1
+h 2 g 2 f 4 g 2 h 2 g 2 g 2 h 2 g 2 f 4 g 2 h 2
+h 2 g 2 f 4 g 2 h 2 g 2 h 2 g 2 f 4 g 2 h 2
+h 2 g 2 f 4 g 2 h 2 g 2 f 4 g 2 h 2
+h 2 g 2 f 4 g 1 h 1 g 1 f 3 g 2 h 2
+h 2 g 2 f 2 g 1 h 1 g 1 f 1 g 2 h 2
+h 2 g 3 h 1 g 2 h 2
+h 2 g 1 h 3
+h 2
+
+columns
+h 6
+h 1 g 4 h 1
+h 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 13 g 1 f 2 g 1 h 1
+h 1 g 11 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 h 1 g 1 f 9 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 h 1 g 1 f 9 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 1 g 1 h 1 g 1 f 9 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 1 g 1 h 1 g 1 f 9 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 3 g 1 h 1 g 11 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 3 g 1 h 13 g 1 f 2 g 1 h 1
+h 1 g 1 f 3 g 1 h 1 g 11 h 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 3 g 1 h 10 g 2 h 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 3 g 1 h 3 d 7 h 1 g 1 h 1 g 1 g 1 h 1 g 4 h 1
+h 1 g 1 f 3 g 1 h 2 d 7 h 1 g 2 h 1 g 1 g 1 h 6
+h 1 g 1 f 3 g 1 h 3 d 7 h 1 g 1 h 1 g 1 g 1 h 1 g 4 h 1
+h 1 g 1 f 3 g 1 h 2 d 7 h 1 g 2 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 3 g 1 h 3 d 7 h 1 g 1 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 3 g 1 h 2 d 7 h 1 g 2 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 1 g 1 h 3 d 7 h 1 g 1 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 f 1 g 1 h 2 d 7 h 1 g 2 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 h 3 d 7 h 1 g 1 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 h 2 d 7 h 1 g 2 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 h 9 g 1 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 11 h 1 g 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 11 h 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 1 h 1 g 1 f 2 g 1 h 1
+h 1 g 4 h 1
+h 6

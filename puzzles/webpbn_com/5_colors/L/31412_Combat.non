@@ -1,0 +1,78 @@
+by "besmirched tea (Besmirched Tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by besmirched tea"
+date "Jul  9, 2018"
+description "The tanks moved excruciatingly slowly in "Combat!", the game that came free with the original Atari 2600. Even worse, they'd occasionally get stuck on the obstacles in the "Complex Maze" if you ran into them wrong."
+difficulty 1.25
+height 30
+id 31412
+link "https://webpbn.com/play.cgi?id=31412"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Combat!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 blue 4
+blue 3 blue 4
+blue 3 blue 4
+blue 10
+blue 10
+0
+green 25
+green 25
+green 25
+0
+0
+0
+blue 6
+blue 6
+blue 3
+black 1 black 1 black 1 blue 5
+blue 3
+blue 6
+green 7 blue 6
+red 2 green 7
+red 3
+red 3
+red 2 red 5
+red 8
+red 5
+red 3 red 1
+red 2 green 2 red 1
+green 2
+green 2 black 1
+green 7
+
+columns
+green 3
+green 3 red 2 green 1
+green 3 red 3 green 1
+green 3 red 3 green 1
+green 3 black 1 red 2 red 5 green 1
+blue 5 green 3 red 8 green 1
+blue 5 green 3 red 5 green 4
+blue 5 green 3 red 3 red 1 green 4
+blue 2 green 3 black 1 red 2 red 1
+blue 2 green 3 green 2
+blue 2 green 3 green 2 black 1
+blue 5 green 3 green 2
+blue 5 green 3 black 1 green 2
+blue 5 green 3 green 2
+blue 5 green 3 green 2
+green 3 blue 1 green 2
+green 3 blue 2 blue 1 blue 2
+green 3 blue 7
+green 3 blue 7
+green 3 blue 7
+green 3 blue 2 blue 2
+green 3 blue 2 blue 2
+green 3
+green 3
+green 3

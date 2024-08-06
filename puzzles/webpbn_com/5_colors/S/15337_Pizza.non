@@ -1,0 +1,53 @@
+by "Unavailable (MagsterJP)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Unavailable"
+date "Jul 28, 2011"
+description ""
+difficulty 2.75
+height 15
+id 15337
+link "https://webpbn.com/play.cgi?id=15337"
+note "published,definitely non-unique,may require some guessing"
+quality 2.0
+title "Pizza"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 red 3 blue 6
+blue 1 black 1 red 1 green 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 1 green 2 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 3 green 1 red 1 black 1 blue 1
+blue 1 red 1 red 1 red 1 blue 1
+blue 1 red 1 green 2 red 1 red 1 blue 1
+blue 1 red 1 green 1 green 1 red 3 red 1 blue 1
+blue 1 red 1 red 1 red 1 red 1 blue 1
+blue 1 red 1 red 3 red 1 blue 1
+blue 1 black 1 red 1 green 1 red 1 green 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 green 2 red 1 black 1 blue 1
+blue 1 black 1 red 1 green 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 green 2 red 1 black 1 blue 1
+blue 6 red 3 blue 6
+
+columns
+blue 15
+blue 1 black 1 red 5 black 1 blue 1
+blue 1 black 1 red 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 green 2 green 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 green 1 red 1 black 1 blue 1
+blue 1 red 1 red 1 red 1 red 1 blue 1
+red 1 green 1 red 3 red 3 green 2 red 1
+red 1 red 1 green 1 red 1 green 1 red 1
+red 1 green 1 red 1
+blue 1 red 1 green 1 red 1 green 2 red 1 blue 1
+blue 1 black 1 red 1 green 2 red 3 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 1 red 1 black 1 blue 1
+blue 1 black 1 red 1 red 1 black 1 blue 1
+blue 1 black 1 red 5 black 1 blue 1
+blue 15

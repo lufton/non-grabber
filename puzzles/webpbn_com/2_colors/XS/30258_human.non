@@ -1,0 +1,33 @@
+by "Garth Mclaughlin (garth)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Garth Mclaughlin"
+date "Sep 29, 2017"
+description "looks like a person"
+difficulty 1.25
+height 8
+id 30258
+link "https://webpbn.com/play.cgi?id=30258"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "human"
+width 8
+
+rows
+4
+4
+1,2,1
+8
+2
+2
+1,1
+2,2
+
+columns
+2
+1,1
+2,1,2
+6
+6
+2,1,2
+1,1
+2

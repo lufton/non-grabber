@@ -1,0 +1,76 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "Jul 29, 2023"
+description "International Mahjong Day!"
+difficulty 2.0
+height 28
+id 37001
+link "https://webpbn.com/play.cgi?id=37001"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "August 1 is...."
+width 26
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 24
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 green 6 red 1 black 1
+black 1 green 3 green 2 green 3 red 2 black 1
+black 1 green 2 green 1 green 1 green 2 red 1 black 1
+black 1 green 2 green 2 green 2 green 2 green 2 red 1 black 1
+black 1 green 4 green 1 black 2 green 1 green 4 black 1
+black 1 green 2 green 1 green 1 black 2 red 2 black 2 green 1 green 1 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 2 red 2 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 black 1 red 2 red 2 red 2 black 1 green 1 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 1 red 1 red 1 red 1 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 black 1 red 1 red 1 red 2 red 1 red 1 black 1 green 1 green 2 black 1
+black 1 green 2 green 1 black 1 red 1 red 1 red 2 red 1 red 1 black 1 green 1 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 1 red 1 red 1 red 1 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 black 1 red 2 red 2 red 2 black 1 green 1 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 2 red 2 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 green 1 black 2 red 2 black 2 green 1 green 1 green 2 black 1
+black 1 green 4 green 2 black 2 green 2 green 4 black 1
+black 1 green 2 green 2 green 2 green 2 green 2 black 1
+black 1 green 2 green 1 green 1 green 2 black 1
+black 1 green 3 green 2 green 3 black 1
+black 1 green 6 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 24
+
+columns
+black 26
+black 2 black 2
+black 1 black 1
+black 1 green 6 black 1
+black 1 green 3 green 2 green 3 black 1
+black 1 green 2 green 1 green 1 green 2 black 1
+black 1 green 2 green 2 green 2 green 2 green 2 black 1
+black 1 green 4 green 1 black 2 green 1 green 4 black 1
+black 1 green 2 green 1 green 1 black 2 red 2 black 2 green 1 green 1 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 2 red 2 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 black 1 red 2 red 2 red 2 black 1 green 2 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 1 red 1 red 1 red 1 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 black 1 red 1 red 1 red 2 red 1 red 1 black 1 green 1 green 2 black 1
+black 1 green 2 green 1 black 1 red 1 red 1 red 2 red 1 red 1 black 1 green 1 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 1 red 1 red 1 red 1 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 black 1 red 2 red 2 red 2 black 1 green 2 green 2 black 1
+black 1 green 1 green 1 green 1 black 1 red 2 red 2 black 1 green 1 green 1 green 1 black 1
+black 1 green 2 green 1 green 1 black 2 red 2 black 2 green 1 green 1 green 2 black 1
+black 1 green 4 green 1 black 2 green 1 green 4 black 1
+black 1 green 2 green 2 green 2 green 2 green 2 black 1
+black 1 green 2 green 1 green 1 green 2 black 1
+black 1 red 1 green 3 green 2 green 3 black 1
+black 1 red 4 green 6 black 1
+black 1 black 1
+black 2 black 2
+black 26

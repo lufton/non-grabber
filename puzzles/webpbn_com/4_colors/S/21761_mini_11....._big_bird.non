@@ -1,0 +1,52 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Apr 21, 2013"
+description "an emu"
+difficulty 1.75
+height 15
+id 21761
+link "https://webpbn.com/play.cgi?id=21761"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "mini #11..... big bird"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4
+blue 4 blue 1 blue 3
+blue 2 red 2 blue 2 blue 2 red 2 blue 1
+blue 1 red 1 black 2 red 1 blue 3 red 1 black 2 red 1 blue 1
+blue 1 red 1 black 1 blue 1 blue 1 black 1 red 1 blue 1
+blue 4 blue 3
+blue 3 black 1 black 1 blue 3
+blue 1 blue 1 blue 3
+blue 3 black 3 black 2 blue 1 blue 1
+blue 1 blue 2 black 3 blue 4
+blue 9
+blue 2 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 2 blue 2 blue 2
+blue 2 blue 1 blue 1 blue 1
+
+columns
+0
+blue 2 blue 4
+blue 2 red 1 blue 3 blue 2 blue 1
+blue 1 red 1 black 1 red 1 blue 4 blue 5
+blue 1 red 1 black 2 blue 1 black 1 blue 3 blue 1
+blue 3 red 1 blue 1 black 1 blue 2 blue 1
+blue 1 blue 2 black 1 black 2 blue 2 blue 1
+blue 2 blue 1 black 1 blue 1 blue 2
+blue 1 blue 2 black 1 black 1 blue 3
+blue 2 red 1 blue 1 black 1 blue 2 blue 2
+blue 1 red 1 black 2 blue 1 black 1 blue 5
+blue 1 red 1 black 1 red 1 blue 6
+blue 1 red 1 blue 4 blue 1
+blue 1 blue 3
+0

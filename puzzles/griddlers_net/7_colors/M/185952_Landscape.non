@@ -1,0 +1,55 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/7/17"
+height 14
+id 185952
+link "https://www.griddlers.net/nonogram/-/g/185952"
+medium_time "0:02:13"
+points 317
+popularity 70.04
+title "Landscape"
+width 17
+
+color a 6666ff
+color b 66ccff
+color c 009900
+color d ff0000
+color e cc9900
+color f 66ffff
+color g 33ff33
+
+rows
+b 3 c 1 b 5 c 1 b 6 c 1
+b 2 c 3 b 3 c 3 b 2 d 1 b 1 c 2
+b 1 c 5 b 1 c 5 d 3 c 2
+c 11 d 5 c 1
+d 7
+d 7
+e 7
+d 2 e 3 f 1 e 3
+d 4 e 2 f 3 e 2
+e 4 e 2 f 3 e 2
+e 1 f 2 e 1 e 2 f 3 e 2
+e 1 f 2 e 1 e 7
+g 1 e 4 g 1 e 7
+g 2 e 4 g 1 e 7
+
+columns
+b 3 c 1
+b 2 c 2
+b 1 c 3
+c 4 g 1
+b 1 c 3 g 2
+b 2 c 2 d 1 e 5
+b 3 c 1 d 2 e 1 f 2 e 2
+b 2 c 2 d 2 e 1 f 2 e 2
+b 1 c 3 d 1 e 5
+c 4 g 2
+b 1 c 3 d 2 e 8
+b 2 c 1 d 3 e 8
+b 2 d 4 e 2 f 3 e 3
+b 1 d 5 e 1 f 4 e 3
+b 2 d 4 e 2 f 3 e 3
+b 1 c 2 d 3 e 8
+c 4 d 2 e 8

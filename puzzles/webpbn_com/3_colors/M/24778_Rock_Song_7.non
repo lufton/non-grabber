@@ -1,0 +1,61 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jun 13, 2014"
+description ""
+difficulty 1.25
+height 20
+id 24778
+link "https://webpbn.com/play.cgi?id=24778"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Rock Song 7"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 4 red 4
+red 12
+red 12
+red 4 red 8
+red 4 red 8
+red 4 red 8
+red 12
+black 1 red 10
+black 3 red 8
+black 1 red 6
+black 1 red 4
+black 1 red 2
+black 1
+0
+0
+0
+0
+0
+0
+
+columns
+0
+red 3 black 1
+red 3 black 6
+red 3 black 1
+red 3
+0
+0
+0
+red 2 red 1
+red 3 red 2
+red 3 red 3
+red 3 red 4
+red 11
+red 11
+red 11
+red 11
+red 10
+red 9
+red 8
+red 6

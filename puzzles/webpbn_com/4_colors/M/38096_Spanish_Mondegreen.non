@@ -1,0 +1,62 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Yonah Kondor"
+date "Dec 14, 2023"
+description ""Pinguino Rodriguez." Spanish speakers often get this one cross."
+difficulty 2.0
+height 20
+id 38096
+link "https://webpbn.com/play.cgi?id=38096"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Spanish Mondegreen"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 1 red 1 black 1
+black 2 black 1 red 3 black 1 black 2
+black 1 red 1 black 1 black 1 red 3 black 1 black 1 red 1 black 1
+black 1 red 2 black 13 red 2 black 1
+black 1 red 15 black 1
+black 1 red 13 black 1
+black 13
+black 9
+black 3 black 3
+black 2 black 1 black 1 black 2
+black 2 black 1 black 1 black 2
+black 2 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 2 black 2
+black 1 black 1
+red 3 red 3
+blue 3 red 3 red 3 blue 2
+blue 19
+
+columns
+blue 1
+black 3 blue 1
+black 1 red 2 black 1 blue 2
+black 1 red 2 black 1 blue 2
+black 1 red 2 black 1 black 4 blue 2
+black 1 red 2 black 1 black 7 red 2 blue 1
+black 1 red 2 black 6 red 2 blue 1
+black 1 red 2 black 3 red 2 blue 1
+black 3 red 2 black 2 black 2 blue 1
+black 2 red 2 black 1 red 2 black 2 red 1 blue 1
+black 1 red 3 black 1 red 2 black 2 red 2 blue 1
+black 2 red 2 black 1 red 2 black 2 red 1 blue 1
+black 3 red 2 black 2 black 2 blue 1
+black 1 red 2 black 3 red 2 blue 1
+black 1 red 2 black 6 red 2 blue 1
+black 1 red 2 black 1 black 7 red 2 blue 1
+black 1 red 2 black 1 black 4 blue 2
+black 1 red 2 black 1 blue 2
+black 1 red 2 black 1 blue 1
+black 3

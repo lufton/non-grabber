@@ -1,0 +1,83 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/10/12"
+height 37
+id 127873
+link "https://www.griddlers.net/nonogram/-/g/127873"
+medium_time "0:09:30"
+points 5321
+popularity 73.26
+title "Elf"
+width 21
+
+color a 60bff6
+color b 73865a
+color c 426539
+color d d6b6b5
+color e 000000
+color f ded37b
+color g 6b6d8c
+color h 942c18
+
+rows
+b 2 c 3
+b 3 c 1 b 2 c 2
+b 3 c 3 b 2 c 2
+b 6 c 2 b 2 c 2
+d 1 b 8 c 2 d 1 b 1 c 2
+d 3 b 1 d 6 c 1 d 3 b 1 c 1
+d 14 b 1 c 2
+d 5 e 1 d 2 e 1 d 5 b 1 c 1
+d 14 c 1
+d 14 f 2
+d 1 d 10 d 1 f 2
+d 8
+d 6
+d 2
+g 2 b 4 g 2
+g 4 h 4 g 4
+g 5 b 4 g 5
+g 6 h 4 g 6
+g 7 b 4 g 7
+g 8 h 4 g 8
+g 8 b 4 g 8
+g 8 h 4 g 8
+d 4 g 4 b 4 g 4 d 4
+d 4 h 12 d 4
+d 2 h 14 d 2
+h 14
+h 12
+h 10
+h 8
+h 8
+h 8
+h 8
+f 1 h 8 f 1
+b 1 h 8 c 1
+b 2 h 3 c 1 b 1 h 3 b 1 c 1
+b 5 c 1 b 4 c 2
+b 3 c 2 b 3 c 2
+
+columns
+g 3 d 2
+g 4 d 3
+g 5 d 3
+d 6 g 6 d 2 h 2 f 1
+d 6 g 8 h 4 b 3
+b 1 d 6 g 8 h 5 b 3
+b 3 d 6 g 9 h 12 b 2
+b 3 d 8 g 9 h 12 b 2
+b 4 d 2 e 1 d 5 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 12 b 1 c 1
+b 4 d 9 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 11 c 3
+b 2 c 1 b 2 d 9 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 11 b 3
+b 1 c 2 b 2 d 2 e 1 d 5 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 1 b 1 h 12 b 2
+c 1 b 1 c 2 b 1 d 8 g 9 h 12 b 2
+c 1 b 2 c 3 d 6 g 9 h 12 b 1 c 1
+c 2 b 2 c 1 d 6 g 8 h 5 b 1 c 2
+c 2 b 1 d 6 g 8 h 4 c 3
+c 2 b 1 d 6 g 6 d 2 h 2 f 1
+c 2 b 2 g 5 d 3
+c 3 b 1 g 4 d 3
+c 3 f 2 g 3 d 2
+f 2

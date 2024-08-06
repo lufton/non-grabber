@@ -1,0 +1,36 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/24/18"
+height 10
+id 188439
+link "https://www.griddlers.net/nonogram/-/g/188439"
+medium_time "0:00:13"
+points 0
+popularity 63.59
+title "Lollipop"
+width 5
+
+color a ffffff
+color b 3333ff
+color c ff33cc
+color d ff99ff
+
+rows
+c 3
+d 5
+d 5
+c 3
+b 1
+b 1
+b 1
+b 1
+b 1
+b 1
+
+columns
+d 2
+c 1 d 2 c 1
+c 1 d 2 c 1 b 6
+c 1 d 2 c 1
+d 2

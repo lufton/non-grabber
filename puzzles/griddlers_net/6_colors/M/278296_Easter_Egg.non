@@ -1,0 +1,60 @@
+by "elik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/24"
+height 20
+id 278296
+link "https://www.griddlers.net/nonogram/-/g/278296"
+medium_time "0:04:21"
+points 1980
+popularity 69.74
+title "Easter Egg"
+width 17
+
+color a ffffff
+color c ff0000
+color d 00ff00
+color f 00ffff
+color g FF99FF
+color h FFCC66
+
+rows
+h 5
+h 3 h 2
+h 1 h 2
+h 2 h 2
+h 2 h 1
+h 2 h 2
+h 2 c 1 c 1 c 1 c 1 c 1 h 1
+h 2 d 1 d 1 d 1 d 1 d 1 d 1 h 2
+h 2 c 1 c 1 c 1 c 1 c 1 h 1
+h 2 h 2
+h 2 h 2
+h 2 h 2
+h 3 g 1 g 1 g 1 g 1 g 1 g 1 h 2
+h 2 f 1 f 1 f 1 f 1 f 1 f 1 h 2
+h 2 c 1 c 1 c 1 c 1 c 1 c 1 c 1 h 1
+h 1 h 2
+h 1 h 3
+h 2 h 3
+h 3 h 2
+h 7
+
+columns
+h 6
+h 10
+h 4 h 1 c 1 h 2
+h 3 d 1 f 1 h 2
+h 4 c 1 c 1 g 1 c 1 h 1
+h 1 d 1 f 1 h 2
+h 2 c 1 c 1 g 1 c 1 h 1
+h 1 d 1 f 1 h 1
+h 1 c 1 c 1 g 1 c 1 h 1
+h 1 d 1 f 1 h 1
+h 2 c 1 c 1 g 1 c 1 h 1
+h 2 d 1 f 1 h 2
+h 2 c 1 c 1 g 1 c 1 h 2
+h 3 d 1 f 1 h 2
+h 3 g 1 c 1 h 3
+h 10
+h 5

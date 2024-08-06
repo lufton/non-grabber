@@ -1,0 +1,73 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by harris harris"
+date "Oct  9, 2009"
+description "First complete all of the pieces then print them out and put them next to each other to get the whole image, like a puzzle. do not turn the pieces. I will put the whole image up as well as the answer key."
+difficulty 1.75
+height 25
+id 6911
+link "https://webpbn.com/play.cgi?id=6911"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "jigsaw puzzle (Hungry) 4 of 4"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 11 green 14
+red 12 green 13
+red 13 green 12
+red 14 green 11
+red 15 green 10
+red 16 green 9
+red 16 green 9
+red 16 green 9
+red 2 red 2 red 10 green 9
+red 1 red 2 red 10 green 8
+red 2 red 10 green 8
+red 2 red 9 green 8
+black 3 red 9 green 8
+black 2 red 8 green 8
+red 7 green 4 blue 3 green 1
+black 1 black 1 black 1 red 5 green 5 blue 3 green 1
+black 6 black 1 red 3 green 5 blue 3 green 1
+black 1 black 2 black 1 black 1 red 2 green 4 blue 3 green 1
+black 2 black 1 black 1 red 2 green 3 blue 2 black 1 blue 2
+black 2 red 4 green 2 blue 1 black 3 blue 1
+black 1 red 7 blue 1 black 1 blue 1 black 1 blue 1
+black 1 red 7 blue 1 black 3 blue 1
+black 1 red 7 blue 2 black 1 blue 2
+black 1 red 8 blue 1 black 1 blue 1 red 1
+black 1 black 1 red 7 green 1 blue 3 green 1
+
+columns
+red 10
+red 9 red 1 black 1
+red 8 red 2
+red 11 black 1
+red 10 black 1 black 4
+red 8 black 2 black 1 black 1
+red 9 black 1 black 3
+red 11 black 1 black 2
+red 13 black 2
+red 14
+red 15
+green 1 red 15
+green 2 red 14 black 9
+green 3 red 14 black 1 red 5
+green 4 red 13 black 2 red 6
+green 5 red 20
+green 9 red 6 green 2 red 8
+green 19 red 6
+green 20 red 5
+green 20 red 5
+green 18 blue 5 red 1 green 1
+green 14 blue 5 black 3 blue 3
+green 14 blue 4 black 2 blue 1 black 3 blue 1
+green 14 blue 5 black 3 blue 3
+green 18 blue 5 red 1 green 1

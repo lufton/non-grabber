@@ -1,0 +1,103 @@
+by "Tonia Bergh (tonia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Tonia Bergh"
+date "Jan 30, 2009"
+description "Did you know...that there are an estimated 750 to 800 covered bridges still existing in the United States? Ohio has about 125, including the longest in the country, at 613 feet! Covered bridges were originally built for two main reasons; to increase the longevity of the bridge by protecting its support elements; and to prevent cattle from seeing the water they were being herded across; to them, it looks like they're headed into a barn!"
+difficulty 2.5
+height 40
+id 4880
+link "https://webpbn.com/play.cgi?id=4880"
+note "published,definitely unique,definitely line/color solvable"
+quality 4.0
+title "WC#21: They've got you covered!"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 11 blue 2 blue 9
+blue 5 blue 5 blue 6 blue 8
+blue 3 blue 17 blue 7
+blue 22 blue 3
+blue 20 blue 6
+black 2 black 2 blue 12 blue 7
+black 4 black 5 blue 10 blue 8
+black 11 green 1 blue 2 blue 1 blue 4 black 2
+black 1 green 3 black 3 green 1 black 4 green 3 black 4
+green 5 black 1 green 3 black 3 green 4 green 1 black 6
+green 4 black 1 green 4 black 4 green 5 black 5 green 3 black 7
+green 17 black 11 green 5 black 7
+green 13 black 16 green 3 black 8
+blue 5 green 6 black 19 green 2 black 7 green 1
+green 3 blue 4 green 3 black 21 green 1 black 1 green 1 black 3 green 3
+green 5 blue 4 black 4 red 2 black 12 red 3 black 2 green 3 black 1 green 4
+green 6 blue 3 black 2 red 5 black 7 red 7 green 10
+green 5 black 1 green 1 blue 3 red 6 black 4 red 10 green 10
+black 1 green 3 black 1 green 3 blue 2 red 2 black 3 red 14 black 2 green 9
+green 1 black 3 green 6 red 1 black 5 red 12 black 6 green 6
+green 3 black 2 green 2 black 2 green 1 red 1 black 5 red 10 blue 5 black 9
+green 4 black 4 green 2 red 1 black 5 red 7 green 3 blue 10 black 4
+green 10 red 1 black 3 red 6 green 6 blue 12
+black 2 green 3 black 5 red 1 black 1 red 4 green 9 blue 5 green 1 blue 4 green 1
+black 8 red 3 black 1 green 11 blue 2 green 3 blue 2 green 2
+black 6 black 3 green 2 black 1 green 8 black 2 green 9
+black 4 black 3 green 3 black 1 green 7 black 2 green 4 black 2 green 4
+black 3 black 3 green 5 black 3 green 3 black 2 green 5 black 1 green 5
+black 2 black 3 green 7 black 5 green 12
+black 1 black 3 green 11 black 1 green 4 black 2 green 6
+black 3 green 11 black 1 green 10 black 1
+black 4 green 10 black 3 green 1 black 2 green 4 black 2
+black 3 green 11 black 6 green 1 black 2 green 1
+black 3 green 15 black 3 green 2
+black 5 green 18
+black 5 green 16
+black 6 green 15
+black 6 green 14
+black 9 green 11
+black 11 green 8
+
+columns
+blue 3 black 3 green 4 blue 1 green 4 black 1 green 4 black 7
+blue 3 black 3 green 5 blue 1 green 5 black 1 green 3 black 6
+blue 3 black 3 green 5 blue 1 green 5 black 1 green 4 black 4
+blue 2 black 2 green 5 blue 2 green 4 black 2 green 3 black 3
+blue 2 black 2 green 1 black 1 green 2 blue 2 green 3 black 1 green 1 black 2 green 2 black 2
+blue 1 black 4 green 4 blue 2 green 1 black 1 green 3 black 1 green 1 black 3
+blue 1 black 3 green 5 blue 3 green 4 black 1 green 1 black 2
+blue 1 black 3 green 7 blue 3 green 2 black 2 green 1 black 2
+blue 2 black 4 green 6 blue 4 green 1 black 1 green 2 black 1
+blue 3 black 5 green 4 black 2 blue 2 green 4 black 1
+blue 4 black 4 green 3 black 3 red 7
+blue 4 black 3 green 2 black 3 red 3 black 5
+blue 4 green 1 black 1 green 2 black 3 red 2 black 5
+blue 3 green 4 black 3 red 3 black 5 black 3
+blue 3 green 5 black 3 red 3 black 4 black 6
+blue 3 green 4 black 4 red 3 black 3 black 7
+blue 4 green 2 black 6 red 7 black 2 green 3 black 3
+blue 5 green 1 black 7 red 7 black 1 green 5 black 4
+blue 6 black 7 red 7 green 7 black 3
+blue 8 black 7 red 6 black 1 green 8 black 4
+blue 8 black 6 red 6 green 2 black 2 green 7 black 5
+blue 6 black 6 red 6 green 4 black 1 green 6 black 6
+blue 6 black 7 red 5 green 5 black 1 green 7 black 5
+blue 7 black 6 red 5 green 6 black 2 green 6 black 5
+blue 5 black 6 red 5 green 7 black 1 green 7 black 4
+blue 5 black 6 red 5 green 7 black 1 green 8 black 3
+blue 4 black 6 red 4 blue 2 green 6 black 1 green 9 black 2
+blue 3 black 4 red 5 blue 2 green 5 black 3 green 8 black 2
+blue 2 green 1 black 3 red 4 black 1 blue 3 green 3 black 2 green 2 black 2 green 6 black 2
+blue 3 blue 1 green 3 black 2 red 3 black 2 blue 4 green 1 black 2 green 4 black 1 green 7 black 1
+blue 4 blue 1 green 5 black 2 green 2 black 2 blue 4 green 1 black 1 green 5 black 2 green 6 black 1
+blue 4 blue 2 green 5 black 1 green 3 black 2 blue 4 green 7 black 1 green 6 black 1
+blue 3 blue 2 green 1 black 3 green 4 black 2 blue 4 green 4 black 1 green 1 black 2 green 7
+blue 3 blue 2 black 4 green 5 black 2 blue 3 green 5 black 1 green 1 black 2 green 7
+blue 3 blue 3 black 6 green 5 black 1 blue 2 green 3 black 2 green 4 black 1 green 7
+blue 3 blue 3 black 8 green 4 black 1 blue 3 green 2 black 1 green 5 black 2 green 6
+blue 2 blue 3 black 8 green 5 black 2 blue 3 green 8 black 1 green 6
+blue 2 blue 4 black 7 green 6 black 2 blue 3 green 7 black 2 green 6
+blue 1 blue 4 black 6 green 6 black 2 blue 2 green 7 black 2 green 7
+blue 1 blue 3 black 4 green 7 black 2 blue 1 green 7 black 2 green 8

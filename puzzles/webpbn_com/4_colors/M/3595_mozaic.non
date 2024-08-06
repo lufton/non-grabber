@@ -1,0 +1,62 @@
+by "Nathan Gray (nath)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Nathan Gray"
+date "Sep 19, 2008"
+description ""
+difficulty 1.5
+height 20
+id 3595
+link "https://webpbn.com/play.cgi?id=3595"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "mozaic"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+black 9 black 8 blue 1
+blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1 red 1
+red 1 black 8 black 6 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 6 black 4 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 4 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+0
+0
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 4 black 4 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 6 black 6 red 1 black 1 red 1
+red 1 black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1 blue 1
+blue 1 black 8 black 8 red 1
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1
+
+columns
+blue 1 black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1
+red 1 black 1 red 1 black 6 black 8 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 4 black 6 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2 black 4 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+0
+0
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 black 2 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1 black 4 black 4 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 1 black 6 black 6 red 1 black 1 red 1
+red 1 black 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 black 1 blue 1
+blue 1 black 8 black 8 red 1
+red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1

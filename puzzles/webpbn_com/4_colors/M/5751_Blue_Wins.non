@@ -1,0 +1,56 @@
+by "Reneya Myshell Winfield (Jessey)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Reneya Myshell Winfield"
+date "May  1, 2009"
+description "Tic, Tac, Toe"
+difficulty 1.25
+height 17
+id 5751
+link "https://webpbn.com/play.cgi?id=5751"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Blue Wins!"
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+blue 3 black 1 blue 3 black 1 blue 3
+blue 1 blue 1 black 1 blue 1 blue 1 black 1 blue 1 blue 1
+blue 3 black 1 blue 3 black 1 blue 3
+black 1 black 1
+black 17
+black 1 black 1
+blue 3 black 1 red 1 red 1 black 1 red 1 red 1
+blue 1 blue 1 black 1 red 1 black 1 red 1
+blue 3 black 1 red 1 red 1 black 1 red 1 red 1
+black 1 black 1
+black 17
+black 1 black 1
+red 1 red 1 black 1 red 1 red 1 black 1 blue 3
+red 1 black 1 red 1 black 1 blue 1 blue 1
+red 1 red 1 black 1 red 1 red 1 black 1 blue 3
+black 1 black 1
+
+columns
+black 1 black 1
+blue 3 black 1 blue 3 black 1 red 1 red 1
+blue 1 blue 1 black 1 blue 1 blue 1 black 1 red 1
+blue 3 black 1 blue 3 black 1 red 1 red 1
+black 1 black 1
+black 17
+black 1 black 1
+blue 3 black 1 red 1 red 1 black 1 red 1 red 1
+blue 1 blue 1 black 1 red 1 black 1 red 1
+blue 3 black 1 red 1 red 1 black 1 red 1 red 1
+black 1 black 1
+black 17
+black 1 black 1
+blue 3 black 1 red 1 red 1 black 1 blue 3
+blue 1 blue 1 black 1 red 1 black 1 blue 1 blue 1
+blue 3 black 1 red 1 red 1 black 1 blue 3
+black 1 black 1

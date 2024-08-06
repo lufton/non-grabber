@@ -1,0 +1,47 @@
+by "shay yatim (shay3979)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by shay yatim"
+date "Feb  4, 2009"
+description ""
+difficulty 1.5
+height 15
+id 4676
+link "https://webpbn.com/play.cgi?id=4676"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "cherry"
+width 15
+
+rows
+2,1,2
+12
+5,2,5
+3,3,3
+1,2,2
+2,2
+2,2
+1,1
+5,5
+2,4,2,4
+7,7
+7,7
+5,5
+3,3
+0
+
+columns
+3
+1,5
+3,1,4
+5,8
+4,2,6
+2,2,5
+1,2,3
+4
+4,3
+1,2,5
+2,2,1,4
+4,8
+4,6
+3,5
+1,3

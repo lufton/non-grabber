@@ -1,0 +1,124 @@
+by "griddlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/5/10"
+height 50
+id 96006
+link "https://www.griddlers.net/nonogram/-/g/96006"
+medium_time "0:40:00"
+points 82439
+popularity 86.63
+title "Juicy Sour Lemon"
+width 50
+
+color a 000000
+color b e2fa10
+color c 70ce0a
+color d f0f5e6
+color e d6ed9c
+color f 236800
+color g 02521d
+
+rows
+b 14
+b 20
+b 23 c 1
+b 26 c 3
+b 29 c 3
+b 1 d 7 b 23 c 3
+b 1 d 10 b 22 c 3
+b 1 d 13 e 2 b 18 c 4
+e 1 d 16 e 1 b 18 c 4
+e 1 d 4 c 3 b 3 d 7 e 1 b 17 c 5
+e 1 d 4 c 1 b 3 d 1 b 3 e 1 d 6 e 1 b 16 c 6
+e 2 d 4 c 1 b 3 e 1 b 4 e 2 d 5 e 1 b 15 c 6
+e 1 d 4 c 1 d 1 e 1 b 3 e 1 b 3 d 1 e 2 d 4 e 2 b 14 c 7
+e 1 d 4 c 1 b 1 d 1 b 7 d 1 e 1 b 1 e 1 d 4 e 2 b 13 c 7
+e 1 d 4 b 3 d 1 b 3 e 1 b 2 e 5 d 4 e 2 b 11 c 8 f 1
+e 1 d 4 b 3 d 1 b 3 e 1 b 2 e 5 d 4 e 2 b 11 c 8 f 1
+e 1 d 4 b 4 e 1 b 3 e 6 b 1 e 1 d 4 e 2 b 9 c 8 f 2
+e 1 d 4 b 5 e 6 d 1 e 3 d 1 e 1 d 4 e 2 b 9 c 7 f 3
+e 1 d 4 b 4 e 7 d 1 e 5 d 4 e 2 b 6 c 1 b 1 c 8 f 3
+e 1 d 4 b 4 e 2 d 1 e 5 d 1 e 5 d 3 e 3 b 5 c 10 f 3
+e 1 d 3 b 2 d 1 b 1 e 3 d 1 e 4 d 1 e 6 d 3 e 3 b 1 c 1 b 1 c 10 f 4
+e 1 d 3 b 3 e 5 d 1 e 3 d 1 e 6 d 4 e 2 b 1 c 11 f 5 g 1
+e 1 d 3 b 2 e 5 d 1 e 1 d 3 e 7 d 3 e 3 c 10 f 4 c 1 f 1 g 2
+e 1 d 3 b 1 e 7 d 8 e 2 d 5 e 2 c 10 f 3 c 2 f 1 g 2
+e 1 d 2 b 1 e 6 d 11 e 2 d 4 e 1 c 10 f 6 g 2
+g 1 d 2 b 1 e 6 d 10 e 4 d 3 e 1 c 9 f 6 g 4
+g 1 d 3 e 6 d 10 e 4 d 3 e 1 c 9 f 6 g 4
+g 1 d 18 e 5 d 3 e 1 c 7 f 7 g 4
+g 1 d 3 e 4 d 12 e 3 c 1 d 3 e 1 c 7 f 7 g 3
+g 1 d 2 e 5 d 9 e 3 d 2 e 1 c 1 d 3 e 1 c 6 f 6 g 4
+g 1 d 3 e 4 d 8 e 7 c 1 d 3 e 1 c 5 f 7 g 4
+g 1 d 3 e 5 d 5 e 8 c 1 d 3 e 1 c 4 f 7 g 5
+g 1 d 3 e 4 d 1 e 1 d 5 e 7 c 2 d 2 e 1 c 3 f 8 g 4
+g 1 d 4 e 2 d 1 e 3 d 1 e 2 d 1 e 8 c 1 d 2 e 1 c 2 f 9 g 3
+g 1 d 5 e 4 d 1 e 9 c 3 d 2 e 1 c 1 f 9 g 4
+g 1 d 5 e 4 d 1 e 10 c 2 d 3 e 1 c 1 f 7 g 4
+g 1 d 4 e 4 d 1 e 9 c 1 e 1 c 1 d 3 e 1 c 1 f 7 g 4
+g 1 d 4 e 3 d 1 e 9 c 3 d 3 e 1 c 1 f 6 g 4
+g 1 d 4 e 2 d 1 c 1 e 7 c 4 d 3 e 1 c 1 f 5 g 4
+g 2 d 4 e 1 d 1 c 2 e 2 c 3 e 1 c 4 d 3 e 1 c 1 f 5 g 3
+g 2 d 5 c 8 d 1 c 2 d 4 e 1 f 5 g 3
+g 2 d 4 c 4 e 1 c 4 e 1 c 1 d 4 e 1 f 4 g 4
+g 2 d 5 c 2 e 1 c 5 d 5 e 1 f 4 g 2
+g 2 d 6 c 4 d 7 f 4 g 2
+g 2 d 16 f 3 g 2
+g 2 d 14 f 3 g 2
+g 3 d 11 f 3 g 2
+g 3 d 8 f 2 g 2
+g 4 d 3 f 3 g 1
+g 8
+
+columns
+e 9
+e 2 d 8 e 2
+e 2 d 12 e 2
+b 1 d 16 e 1 g 2
+b 1 d 20 g 2
+b 1 d 6 c 2 b 8 d 7 g 2
+b 1 d 5 c 2 d 1 b 13 d 5 g 3
+b 1 d 4 c 1 b 2 e 1 d 1 b 6 d 1 b 2 e 4 d 7 g 2
+b 2 d 4 c 1 b 4 d 2 b 5 e 6 d 1 e 2 d 6 g 1
+b 2 d 4 c 1 b 6 e 1 b 1 e 9 d 1 e 3 d 6 g 1
+b 3 d 4 b 1 d 1 e 1 b 5 e 10 d 1 e 5 d 5 g 2
+b 3 d 4 b 3 e 1 b 4 e 2 d 1 e 7 d 1 e 6 d 5 g 2
+b 4 d 4 b 5 e 2 b 1 e 3 d 1 e 6 d 2 e 5 d 6 g 2
+b 5 d 4 b 6 e 5 d 2 e 1 d 7 e 2 d 1 e 3 d 4 g 2
+b 5 d 4 e 1 b 5 e 7 d 8 e 1 d 1 e 5 d 4 g 2
+b 6 d 4 e 1 d 2 e 8 d 10 e 7 d 4 g 2
+b 7 d 4 e 6 d 2 e 3 d 11 e 7 d 4 g 2
+b 7 e 1 d 4 e 1 b 1 e 5 d 26 g 2
+b 7 e 1 d 5 e 10 d 10 e 5 c 4 d 4 g 1
+b 8 e 1 d 5 e 2 b 1 e 6 d 10 e 6 c 3 d 4 g 2
+b 9 e 1 d 6 e 1 d 1 e 5 d 8 e 1 d 2 e 6 c 3 d 4 g 1
+b 10 e 1 d 6 e 6 d 7 e 10 c 3 d 4 g 2
+b 11 e 2 d 6 e 5 d 5 e 10 c 2 e 2 c 1 d 4 g 1
+b 12 e 2 d 6 e 4 d 1 e 3 d 1 e 10 c 5 d 4 g 2
+b 13 e 3 d 6 e 1 d 1 e 15 c 5 d 4 g 2
+b 14 e 3 d 7 e 5 d 1 e 10 c 4 d 5 g 1
+b 16 e 4 d 5 e 4 d 1 e 8 c 2 d 1 c 2 d 6 g 1
+b 17 e 4 d 6 e 1 c 1 e 5 c 1 e 1 c 5 e 1 c 1 d 6 g 1
+b 19 e 4 d 6 c 4 e 1 c 2 e 1 c 5 d 6 f 1 g 1
+b 20 e 4 d 8 c 8 d 8 f 1 g 1
+b 21 e 5 d 20 f 2 g 1
+b 19 c 7 e 2 d 17 f 2 g 1
+b 19 c 8 e 6 d 10 f 2 g 1
+c 1 b 17 c 15 e 8 f 4 g 1
+c 1 b 14 c 16 f 1 c 5 f 6 g 1
+c 2 b 14 c 14 f 12 g 2
+c 3 b 10 c 1 b 1 c 14 f 12 g 2
+c 4 b 6 c 17 f 12 g 2
+c 25 f 11 g 3
+c 21 f 13 g 3
+c 18 f 13 g 4
+c 14 f 15 g 5
+c 12 f 14 g 5
+c 10 f 14 g 5
+c 4 f 7 c 1 f 7 g 7
+f 8 c 2 f 5 g 8
+f 8 g 10
+g 12
+g 10
+g 3

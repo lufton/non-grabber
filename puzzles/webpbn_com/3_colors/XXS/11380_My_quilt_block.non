@@ -1,0 +1,31 @@
+by "Ellen Vollor (evollor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ellen Vollor"
+date "Dec 14, 2010"
+description "A heart"
+difficulty 1.0
+height 5
+id 11380
+link "https://webpbn.com/play.cgi?id=11380"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "My quilt block"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 1 black 1 blue 1
+black 5
+black 5
+black 3
+blue 1 black 1 blue 1
+
+columns
+blue 1 black 2 blue 1
+black 4
+black 4
+black 4
+blue 1 black 2 blue 1

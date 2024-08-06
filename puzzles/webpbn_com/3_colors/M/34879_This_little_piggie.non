@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Feb 13, 2021"
+description "had (become a) nun"
+difficulty 1.25
+height 20
+id 34879
+link "https://webpbn.com/play.cgi?id=34879"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "This little piggie"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1
+red 1 black 2 red 2
+red 1 black 1 black 2 red 2
+red 4 black 4
+red 4 black 4
+red 1 black 4
+black 4
+black 4
+red 1 black 1 red 1 black 6
+red 3 black 7
+black 1 black 7
+black 8
+black 1 black 8
+black 9
+black 1 black 9
+black 3 black 8
+black 1 black 7
+black 1 black 7
+red 2
+red 2
+
+columns
+red 2 black 1
+red 2 black 1 red 1 black 1 black 1 black 4
+red 2 red 2 black 1
+red 3
+red 1 black 1 red 3 black 4
+black 6
+black 17
+black 17
+red 3 black 15
+red 2 black 15
+black 9 red 2
+black 7 red 2
+black 6
+black 3
+black 1

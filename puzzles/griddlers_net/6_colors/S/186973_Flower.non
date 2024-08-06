@@ -1,0 +1,47 @@
+by "paikea"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/2/17"
+height 15
+id 186973
+link "https://www.griddlers.net/nonogram/-/g/186973"
+medium_time "0:02:05"
+points 250
+popularity 69.05
+title "Flower"
+width 9
+
+color a ffffff
+color b 6600CC
+color d 00ff00
+color e FFFF00
+color f FFCC33
+color g ff00ff
+
+rows
+g 3
+g 5
+g 2 e 1 g 2
+g 5
+g 3
+d 1 d 2
+d 1 d 3
+d 2 d 4
+d 3 d 3
+d 5
+d 3
+e 5
+f 7
+b 9
+d 9
+
+columns
+d 2 b 1 d 1
+d 3 f 1 b 1 d 1
+g 3 d 3 e 1 f 1 b 1 d 1
+g 5 d 2 e 1 f 1 b 1 d 1
+g 2 e 1 g 2 d 6 e 1 f 1 b 1 d 1
+g 5 d 3 e 1 f 1 b 1 d 1
+g 3 d 3 e 1 f 1 b 1 d 1
+d 3 f 1 b 1 d 1
+d 2 b 1 d 1

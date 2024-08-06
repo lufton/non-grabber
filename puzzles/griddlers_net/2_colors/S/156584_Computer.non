@@ -1,0 +1,46 @@
+by "sap_m"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/21/15"
+height 15
+id 156584
+link "https://www.griddlers.net/nonogram/-/g/156584"
+medium_time "0:05:10"
+points 3245
+popularity 59.85
+title "Computer"
+width 15
+
+rows
+3
+1,1,2
+2,1,1,3
+1,2,1,2
+2,1,1,2
+1,1,1,2
+1,1,2
+1,2
+5,2
+8,2
+3,4,2
+2,4,2
+2,6
+8
+5
+
+columns
+2
+3,1,2
+2,3
+3,5
+2,2,2
+2,2
+11,2
+1,4,2
+1,6
+1,5
+2,3
+1,2
+2,1
+10
+8

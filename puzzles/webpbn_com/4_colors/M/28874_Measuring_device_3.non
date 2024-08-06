@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Oct 12, 2016"
+description "Balance"
+difficulty 1.75
+height 20
+id 28874
+link "https://webpbn.com/play.cgi?id=28874"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Measuring device 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+red 2
+red 2 black 1
+red 1 black 2
+black 1
+black 1 green 2 red 1 green 2 black 1
+red 2
+red 3
+red 3
+black 1 green 3 red 1
+black 1 green 1
+green 1
+green 1
+black 2
+black 20
+black 20
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+
+columns
+black 2
+black 2
+black 6
+black 6
+black 2
+black 2 black 2
+green 1 black 2
+green 1 black 2
+black 1 red 1 green 1 black 2
+green 1 red 3 green 3 black 3
+red 2 green 1 red 3 black 3
+red 2 black 2 red 3 black 2
+red 1 black 2 green 1 black 2
+green 1 black 2
+black 1 black 2
+black 2
+black 6
+black 6
+black 2
+black 2

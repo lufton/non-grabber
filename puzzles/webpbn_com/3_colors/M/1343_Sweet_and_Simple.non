@@ -1,0 +1,61 @@
+by "Jay Berius (jber101)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Jay Berius"
+date "Sep 13, 2007"
+description "A little Kiss."
+difficulty 2.5
+height 20
+id 1343
+link "https://webpbn.com/play.cgi?id=1343"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Sweet and Simple"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 2
+black 1 black 1 black 2
+black 1 blue 1 black 3 blue 1
+black 4 blue 1 blue 1
+black 2 black 1 blue 1 black 2
+black 4 black 3
+black 4
+black 6
+black 2 black 2
+black 3 black 3
+black 2 black 4
+black 2 black 6
+black 3 black 7
+black 3 black 9
+black 3 black 11
+black 2 black 12
+black 16
+black 16
+black 14
+black 12
+
+columns
+0
+0
+black 4
+black 6
+black 3 black 4
+black 3 black 4
+black 4 black 5
+black 4 black 6
+black 5 black 7
+black 4 black 9
+black 5 black 10
+black 3 black 15
+black 1 blue 1 black 1 black 13
+black 1 black 1 black 11
+black 1 blue 1 black 1 black 9
+black 1 blue 1 black 1 black 8
+black 1 black 1 black 6
+black 1 blue 1 black 1 black 4
+black 1 black 1
+black 1 blue 1 black 1

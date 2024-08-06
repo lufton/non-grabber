@@ -1,0 +1,62 @@
+by "Ellen Vollor (evollor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ellen Vollor"
+date "Jul  1, 2011"
+description "I am enjoying the summer!"
+difficulty 1.5
+height 20
+id 15046
+link "https://webpbn.com/play.cgi?id=15046"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "What is in Sarah's box."
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 2 blue 1 blue 1
+blue 1 blue 1 black 1 blue 2 blue 3 blue 4 black 1 blue 2
+blue 5 black 1 blue 2 black 1 blue 2 black 1 blue 1 black 1 blue 3
+blue 2 black 1 blue 1 blue 3 blue 7 blue 1
+blue 2 green 1 blue 5 green 1 blue 2 green 1 blue 6
+blue 2 green 1 blue 1 black 1 blue 5 black 1 blue 3 green 1 black 1 blue 2
+blue 2 black 1 blue 1 green 1 blue 1 green 4 blue 2 green 2 blue 1 green 1 blue 2
+blue 4 black 1 green 4 green 2 green 3 black 2
+blue 2 black 1 green 12 black 2
+black 2 green 4 green 2 green 4 black 1 black 1
+black 14 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 2
+black 1 black 3
+black 15
+
+columns
+blue 1
+blue 1 blue 2
+blue 8 black 11
+blue 1 black 1 blue 2 black 1 blue 2 black 2 black 1
+blue 4 green 2 blue 1 black 2 green 1 black 1 black 1
+blue 1 black 1 blue 1 blue 2 green 4 black 1 black 1
+blue 4 black 1 blue 1 green 3 black 1 black 1
+blue 1 black 1 blue 3 green 4 black 1 black 1
+blue 4 green 3 black 1 black 1
+blue 2 blue 2 green 1 green 2 black 1 black 1
+blue 2 black 1 blue 1 green 1 blue 1 green 1 green 2 black 1 black 1
+blue 7 green 2 black 1 black 1
+blue 3 black 1 blue 1 green 3 black 1 black 1
+blue 1 black 1 blue 1 green 1 blue 1 green 1 green 2 black 1 black 1
+blue 5 green 4 black 1 black 1
+blue 2 black 1 blue 4 green 3 black 10
+blue 4 green 4 black 1 black 2
+blue 1 black 1 blue 1 blue 1 black 1 blue 1 black 2 black 2
+blue 6 black 11
+blue 1 blue 2

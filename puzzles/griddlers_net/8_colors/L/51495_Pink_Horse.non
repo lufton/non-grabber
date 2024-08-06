@@ -1,0 +1,82 @@
+by "hajajja"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/10/07"
+height 28
+id 51495
+link "https://www.griddlers.net/nonogram/-/g/51495"
+medium_time "0:19:27"
+points 9178
+popularity 70.57
+title "Pink Horse"
+width 29
+
+color a ff3333
+color b 000000
+color c 996500
+color d ffff00
+color e 00d700
+color f 0000ff
+color g ffffff
+color h ff99cc
+
+rows
+f 5 f 5
+f 8 f 5 d 1 f 2
+f 10 f 1 d 1 f 1 d 1 f 1 d 3 f 2
+f 1 h 1 f 10 f 7 d 1 f 4
+f 1 h 2 c 3 f 12 d 1 f 3 d 1 f 2
+f 3 h 3 c 1 f 14 d 1 f 5
+f 2 h 5 c 3 f 7 d 1 f 7 d 1 f 1
+f 3 h 1 b 1 g 1 h 1 d 1 h 1 c 1 f 12 d 1 f 1 c 2 f 3
+f 2 h 5 d 1 h 1 c 3 f 4 d 1 f 6 c 4 f 1 d 1
+f 2 h 5 d 2 h 1 c 1 f 11 c 2 f 2 c 1 f 2
+f 1 h 4 f 1 h 6 f 5 h 5 c 1 f 2 c 2 f 2
+f 1 h 3 f 3 h 11 d 1 h 1 d 1 h 2 f 2 c 2 f 2
+e 2 h 1 e 4 h 3 d 1 h 8 d 3 h 2 e 1 c 2 e 2
+e 7 h 3 d 2 h 7 d 3 h 2 e 2 c 2 e 1
+e 2 e 4 h 4 d 1 h 12 e 5
+e 1 d 1 e 2 h 17 e 6
+e 1 e 2 h 2 e 1 h 2 e 1 h 6 e 1 h 4 e 3 e 2
+e 3 h 2 e 3 h 1 e 8 h 1 e 1 h 2 e 2 d 1 e 1
+e 2 h 1 e 4 h 1 e 8 h 1 e 1 h 2 e 3 e 1
+e 1 h 2 e 2 h 2 e 8 h 1 e 2 h 2 e 3
+e 1 h 2 b 1 e 1 h 1 e 2 e 4 h 1 e 2 h 2 e 3
+e 2 b 1 e 1 h 1 e 1 d 1 e 3 h 1 e 2 h 1 e 3
+e 3 h 1 e 2 e 3 h 2 e 2 h 1 e 2
+b 2 e 5 b 2 e 2 b 2 e 1
+e 11
+e 7
+e 3
+e 1
+
+columns
+f 5 e 4
+f 5 h 2 e 3 e 2
+f 5 h 5 e 1 d 1 e 2
+f 1 h 2 f 1 h 6 e 3 e 4
+f 3 h 3 b 1 h 3 f 1 e 5 h 3 e 1
+f 4 c 1 h 2 g 1 h 2 f 2 e 4 h 2 e 1 h 2 e 1
+f 4 c 1 h 6 f 1 e 3 h 2 e 3 h 1 e 2
+f 4 c 2 h 1 d 3 h 6 e 4 b 2 e 1
+f 6 c 1 h 2 d 1 h 7 e 2 h 1 e 3 b 1
+f 6 c 3 h 14 b 1 e 1
+f 5 c 1 f 1 c 2 h 2 d 2 h 2 e 9
+f 7 c 1 f 1 h 3 d 2 h 2 e 4 e 4
+f 9 h 6 e 3 d 1 e 3
+f 8 h 6 e 4 e 5
+f 7 h 6 e 11
+f 8 h 6 e 6 b 1 e 3
+f 6 d 1 f 2 h 6 e 5 h 1 b 1 e 2
+f 1 d 1 f 7 h 6 e 4 h 3 e 3
+f 5 d 1 f 3 h 1 d 1 h 8 e 5
+f 2 d 1 f 7 h 2 d 2 h 3 e 6 b 1 e 1
+f 4 d 1 f 5 h 1 d 3 h 5 e 1 h 3 b 1
+f 2 d 1 f 7 h 2 d 2 h 7 e 3
+f 1 d 3 f 1 d 1 f 1 d 1 f 1 c 2 h 5 e 3 h 1 e 3
+f 2 d 1 f 5 c 2 f 2 h 3 e 7
+f 3 d 1 f 2 c 2 f 3 e 5 e 3
+f 5 c 2 f 1 c 3 e 3 d 1 e 1
+f 3 d 1 f 1 c 6 e 3 e 1
+f 7 e 1 c 1 e 4
+f 1 d 1 f 3 e 4

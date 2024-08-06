@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Jun 10, 2013"
+description "you look great, Aldege!"
+difficulty 2.5
+height 20
+id 22125
+link "https://webpbn.com/play.cgi?id=22125"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "just for fun....slight variation of puzzle #22124 (take a peek)"
+width 20
+
+rows
+1,3,3,1
+1,8,1,1
+2,1,1,2,2
+4,1,1,4,1
+2,2,1
+4,1,5,1
+1,1,1,1,2,1,2
+2,2,3,3,2,1
+2,4,1,5,3
+1,2,2,3,2,2
+2,3,2,1
+2,2
+2,5,4,2
+6,1,1,2,1
+1,1,1,1,1,3
+2,1,1,1,1,2
+3,3,1,1,1,3
+4,1,2,2,2,1
+5,3,4,1
+5,1,2
+
+columns
+2,3,4
+3,2,4,4
+2,3,2,1,4
+3,2,1,3
+1,3,2,2,2
+4,4,2,1
+2,2,1,2
+1,1,1,1,3
+1,1,2,1,1,2,2
+1,1,2,1,2,2
+1,1,2,2,4
+2,2
+4,5,4
+1,6,2,2
+4,2,1,1
+4,1,2,1,3,1
+3,2,2,2
+2,2,2,2
+5,2,2,3,1
+2,5,8

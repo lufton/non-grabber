@@ -1,0 +1,62 @@
+by "becky Jo Baltenberger (soccer5)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by becky Jo Baltenberger"
+date "Oct 11, 2010"
+description "The two Commedia Del Arte Masks for theatre, the commedy face and tragedy face"
+difficulty 1.75
+height 20
+id 10657
+link "https://webpbn.com/play.cgi?id=10657"
+note "published,definitely non-unique,may require some guessing"
+quality 2.5
+title "Commedia Del Arte"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 2 black 2
+black 4 black 4
+black 1 black 4 black 1
+black 1 black 1
+black 1 blue 2 blue 2 black 1
+black 1 blue 2 blue 2 black 1
+black 1 black 1
+black 1 red 1 red 1 black 2 black 2
+black 1 red 1 red 1 black 4 black 4
+black 2 red 2 black 2 black 4 black 1
+black 2 black 3 black 1
+black 6 black 1 blue 2 blue 2 black 1
+black 1 blue 2 blue 2 black 1
+black 1 black 1
+black 1 red 4 black 1
+black 1 red 1 red 1 black 1
+black 2 black 2
+black 2 black 2
+black 6
+
+columns
+0
+black 10
+black 2 black 2
+black 1 blue 2 red 1 black 2
+black 2 blue 2 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 2 blue 2 red 1 black 1
+black 1 blue 2 red 1 black 2
+black 2 black 2
+black 17
+black 2 black 2
+black 1 blue 2 red 1 black 2
+black 2 blue 2 red 1 black 1
+black 1 red 1 black 1
+black 1 red 1 black 1
+black 2 blue 2 red 1 black 1
+black 1 blue 2 red 1 black 2
+black 2 black 2
+black 10

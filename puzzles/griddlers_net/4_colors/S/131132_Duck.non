@@ -1,0 +1,43 @@
+by "morlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/21/13"
+height 11
+id 131132
+link "https://www.griddlers.net/nonogram/-/g/131132"
+medium_time "0:01:41"
+points 130
+popularity 66.16
+title "Duck"
+width 11
+
+color a ccffff
+color b cccccc
+color c ffcc00
+color d 000000
+
+rows
+b 2
+b 1 b 2 d 1 b 1
+b 2 b 3 c 2
+b 2 b 3
+b 1 b 3 d 2
+b 9
+b 9
+b 7
+b 5
+c 1
+c 2
+
+columns
+b 3
+b 3
+b 2 b 4 c 1
+b 7 c 2
+b 6
+b 5
+b 2 b 4
+b 4 d 1 b 3
+b 1 d 1 b 2 d 1 b 2
+b 1 c 1 b 1
+c 1

@@ -1,0 +1,110 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/8/13"
+height 36
+id 134250
+link "https://www.griddlers.net/nonogram/-/g/134250"
+medium_time "0:24:39"
+points 124743
+popularity 76.96
+title "Swim Boy"
+width 50
+
+color a ccffff
+color b a10000
+color c ff1eda
+color d ffbe84
+color e ffebde
+color f 000000
+color g 000080
+
+rows
+b 11
+b 2 c 11 b 2
+b 2 c 15 b 2
+b 1 c 19 b 1
+b 1 c 21 b 1
+b 1 c 23 b 1
+b 1 c 25 b 1
+b 1 c 27 b 1
+b 1 c 27 b 1
+b 1 c 29 b 1
+b 1 c 7 b 15 c 7 b 1
+b 1 c 6 b 2 d 15 b 2 c 6 b 1
+b 1 c 5 b 1 d 19 b 1 c 5 b 1
+b 1 c 4 b 1 d 3 e 15 d 3 b 1 c 4 b 1
+b 1 c 3 b 1 d 3 e 17 d 3 b 1 c 3 b 1
+b 1 c 3 b 1 d 3 e 18 d 2 b 1 c 3 b 1
+b 1 c 2 b 1 d 3 e 20 d 2 b 1 c 2 b 1
+b 1 c 2 b 1 d 3 f 4 e 11 f 4 e 1 d 2 b 1 c 2 b 1
+b 1 c 2 b 1 d 1 b 23 d 1 b 1 c 2 b 1
+b 1 c 2 b 2 d 23 b 2 c 2 b 1
+b 1 c 2 b 2 d 1 g 9 d 3 g 9 d 1 b 2 c 2 b 1
+b 5 d 1 g 8 d 1 b 3 d 1 g 8 d 1 b 5
+b 1 e 3 b 2 d 1 g 7 d 1 b 1 e 3 b 1 d 1 g 7 d 1 b 2 e 3 b 1
+b 1 e 1 d 3 b 2 d 1 g 6 d 1 b 1 e 5 b 1 d 1 g 6 d 1 b 2 d 3 e 1 b 1
+b 1 e 1 d 1 b 3 d 1 b 1 d 6 b 1 e 7 b 1 d 6 b 1 d 1 b 3 d 1 e 1 b 1
+b 2 b 1 e 1 b 1 d 2 b 1 d 2 b 6 e 9 b 6 d 2 b 1 d 2 b 1 e 1 b 1
+b 1 d 1 e 1 b 1 b 1 e 4 b 1 d 6 e 3 b 1 e 5 b 1 e 3 d 6 b 1 e 4 b 1
+b 1 d 1 e 2 b 1 b 2 d 4 b 1 d 6 e 2 d 1 b 5 d 1 e 2 d 6 b 1 d 4 b 1
+b 1 d 2 e 2 b 5 c 2 b 5 d 6 e 3 d 5 e 3 d 6 b 5
+b 2 d 2 e 4 b 1 c 5 b 1 e 2 b 1 d 5 e 1 b 6 e 4 d 5 b 1
+b 9 c 5 b 1 e 3 b 3 d 1 b 3 e 6 b 1 d 6 b 2
+b 1 e 7 b 1 c 5 b 1 e 3 b 1 c 1 b 2 e 7 d 2 b 7 e 2 b 2
+b 1 d 6 e 2 b 1 c 5 b 1 e 3 b 1 c 1 b 1 e 5 d 3 b 2 e 10 d 1 b 1
+b 1 d 9 b 1 c 5 b 1 e 3 b 1 c 1 b 1 e 3 d 2 b 3 d 13 b 1
+b 12 c 4 b 1 d 3 b 1 c 2 d 3 b 18
+b 14
+
+columns
+b 2
+b 1 d 1 b 1
+b 2 d 2 b 1
+b 5 e 1 d 2 b 1
+b 1 d 3 b 2 e 1 d 2 b 1
+b 1 e 2 d 2 b 1 e 1 d 2 b 1
+b 1 e 2 d 1 b 1 e 1 d 2 b 1
+b 1 e 2 b 1 e 1 d 2 b 1
+b 1 e 1 b 1 e 2 d 1 b 1
+b 1 e 1 b 1 e 2 d 1 b 1
+b 1 e 1 b 5
+b 2 c 4 b 1
+b 1 c 6 b 1
+b 5 c 7 b 1
+b 1 e 4 b 1 c 7 b 1
+b 11 e 1 d 2 b 1 e 1 d 1 b 1 c 6 b 1
+b 2 c 10 b 1 e 1 d 1 b 1 d 1 e 1 d 1 b 1 c 1 b 6
+b 2 c 12 b 1 e 1 d 1 b 1 d 1 e 1 d 1 b 2 e 4 d 1 b 1
+b 1 c 9 b 11 d 1 b 1 e 5 d 1 b 1
+b 1 c 8 b 2 d 3 b 5 d 3 b 2 e 5 d 1 b 1
+b 1 c 8 b 1 d 4 b 1 d 5 b 1 d 4 b 7
+b 1 c 8 b 1 d 5 b 1 d 1 g 4 d 1 b 1 d 4 b 1 c 4 b 1
+b 1 c 8 b 1 d 4 e 1 f 1 b 1 d 1 g 4 d 1 b 1 d 4 b 4 c 1 b 1
+b 1 c 8 b 1 d 2 e 3 f 1 b 1 d 1 g 4 d 1 b 1 d 5 b 1 e 2 d 1 b 1
+b 1 c 8 b 1 d 2 e 4 f 1 b 1 d 1 g 4 d 1 b 1 d 4 b 1 e 3 d 1 b 1
+b 1 c 8 b 1 d 2 e 4 f 1 b 1 d 1 g 4 d 1 b 1 e 1 d 3 b 1 e 3 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 4 d 1 b 1 e 4 b 1 e 2 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 3 d 1 b 1 e 4 b 1 e 3 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 2 d 1 b 1 e 2 b 1 d 1 e 1 b 1 e 2 d 1 b 2
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 1 d 1 b 1 e 4 b 1 d 1 b 1 e 2 d 1 b 2
+b 1 c 9 b 1 d 2 e 5 b 1 d 2 b 1 e 5 b 1 d 1 b 1 e 2 d 1 b 2
+b 1 c 9 b 1 d 2 e 5 b 1 d 2 b 1 e 5 b 1 d 1 b 1 e 1 d 1 b 1 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 2 b 1 e 5 b 1 d 1 b 1 e 1 d 1 b 1 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 1 d 1 b 1 e 4 b 1 d 1 e 1 b 2 e 1 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 2 d 1 b 1 e 2 b 1 d 1 e 2 d 1 b 1 e 1 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 3 d 1 b 1 e 5 d 1 b 1 e 1 d 1 b 1
+b 1 c 9 b 1 d 2 e 5 b 1 d 1 g 4 d 1 b 1 e 4 d 1 b 1 e 1 d 1 b 1
+b 1 c 8 b 1 d 2 e 4 f 1 b 1 d 1 g 4 d 1 b 1 e 1 d 4 b 1 e 1 d 1 b 1
+b 1 c 8 b 1 d 2 e 4 f 1 b 1 d 1 g 4 d 1 b 1 d 5 b 1 e 1 d 1 b 1
+b 1 c 8 b 1 d 2 e 3 f 1 b 1 d 1 g 4 d 1 b 1 d 5 b 1 e 1 d 1 b 1
+b 1 c 8 b 1 d 3 e 2 f 1 b 1 d 1 g 4 d 1 b 1 d 4 b 1 e 2 d 1 b 1
+b 1 c 8 b 1 d 3 e 2 b 1 d 1 g 4 d 1 b 1 d 4 b 1 e 2 d 1 b 1
+b 1 c 8 b 1 d 4 b 1 d 5 b 1 d 4 b 1 b 1 e 1 d 1 b 1
+b 1 c 8 b 2 d 3 b 5 d 3 b 2 b 1 d 2 b 1
+b 1 c 9 b 11 d 1 b 1 b 2
+b 2 c 12 b 1 e 1 d 1 b 1 d 1 e 1 d 1 b 1
+b 2 c 10 b 1 e 1 d 1 b 1 d 1 e 1 d 1 b 1
+b 11 e 1 d 2 b 1 e 1 d 1 b 1
+b 1 e 4 b 1
+b 4

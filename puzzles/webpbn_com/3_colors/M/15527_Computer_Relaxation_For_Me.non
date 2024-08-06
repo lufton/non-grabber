@@ -1,0 +1,61 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Aug 13, 2011"
+description "Stumble Upon. I have fun, I learn a lot."
+difficulty 1.25
+height 20
+id 15527
+link "https://webpbn.com/play.cgi?id=15527"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Computer Relaxation For Me"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3 red 3 red 3 red 2
+black 5 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+black 1 black 3 red 1 red 1 red 1 red 1 red 3 red 1
+black 1 black 3 red 3 red 3 red 1 red 2
+black 1
+black 7 black 3
+black 3 black 1 black 3
+black 3 black 1 black 3 black 3
+black 3 black 3 black 3
+black 1 black 1 black 3 black 3 black 3
+black 1 black 1 black 3 black 3 black 3
+black 1 black 3 black 3 black 3 black 3
+black 2 black 3 black 3 black 3 black 3
+black 2 black 3 black 3 black 3 black 3
+black 2 black 3 black 3 black 3 black 3
+black 2 black 3 black 3 black 3 black 3
+black 2 black 3 black 3 black 3 black 3
+black 2 black 3 black 3 black 3 black 3
+black 2 black 3 black 3 black 3 black 3
+
+columns
+black 3 black 1 black 6
+black 1 black 1 black 7
+black 3 black 8
+black 8
+black 3 black 14
+black 1 black 8
+red 4 black 3 black 8
+red 1 red 1
+red 4
+black 10
+red 4 black 10
+red 1 red 1 black 10
+red 4
+black 12
+red 4 black 12
+red 1 red 1 black 12
+red 3
+black 14
+red 2 red 1 black 14
+red 1 red 2 black 14

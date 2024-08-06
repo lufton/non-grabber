@@ -1,0 +1,82 @@
+by "griddlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/13/10"
+height 29
+id 96259
+link "https://www.griddlers.net/nonogram/-/g/96259"
+medium_time "0:29:37"
+points 203795
+popularity 66.38
+title "Green Marker"
+width 32
+
+color a ffffff
+color b 00ff00
+color c 000000
+color e 336600
+
+rows
+b 2 c 1
+b 1 c 2 b 1 c 1
+b 2 c 1 b 1 c 1 b 1 c 1
+b 2 b 3 c 1 b 2 c 1 b 1 c 1
+b 3 b 4 c 1 b 2 c 1 b 1 c 1
+b 8 c 1 b 1 b 2 c 1 b 1 c 3
+b 8 c 1 b 1 b 2 c 1 b 1 c 1 b 1 c 1
+b 8 c 1 b 1 b 1 b 2 c 1 b 1 b 1 c 1
+b 7 c 1 b 2 b 2 c 1 b 1 b 1 c 1
+b 5 c 1 b 3 c 1 b 3 b 1 c 5
+b 3 c 1 b 1 c 1 b 1 e 1 b 3 b 1 c 1 b 3 c 1 b 1 c 1
+b 1 c 2 b 1 e 1 b 1 e 1 b 3 c 1 b 1 b 1 c 1 b 1 b 1 c 1
+c 1 b 1 b 1 e 1 b 1 e 1 b 1 c 1 b 1 b 1 c 1 b 1 b 1 b 1 c 3
+c 2 b 1 b 1 e 1 b 1 c 1 b 3 c 1 b 1 b 1 b 1 c 1 b 1 c 1
+c 2 b 1 b 1 c 1 b 1 e 1 b 1 c 1 b 1 b 1 c 1 b 2 c 1
+c 2 b 1 c 1 b 1 e 1 b 1 c 1 b 3 b 1 c 1 b 3 c 1
+c 2 b 1 b 1 c 1 b 1 e 1 b 3 b 1 c 1 b 1 b 2 c 1
+c 2 b 1 c 1 b 1 e 1 b 1 e 1 b 3 c 1 b 1 b 1 c 1
+c 1 b 1 c 1 b 1 b 1 e 1 b 1 e 1 b 1 c 1 b 1 b 1 c 2
+c 2 b 1 b 1 b 1 e 1 b 1 c 1 b 3 b 1 c 1 c 1
+c 1 b 1 c 1 b 1 b 1 b 1 c 1 b 1 e 1 b 3 c 1 b 1 c 1
+c 1 b 1 c 1 b 1 b 1 c 1 b 1 e 1 b 1 e 1 b 1 c 1 b 1 c 1
+c 1 b 1 c 1 b 1 c 1 b 1 b 1 e 1 b 1 c 1 b 3 c 1
+c 1 b 1 c 1 b 1 b 1 b 1 c 1 b 1 e 1 b 3 c 1
+c 2 b 1 b 1 b 1 c 1 b 1 e 1 b 1 e 1 b 2 c 1
+c 1 b 1 c 1 b 1 b 1 c 1 b 3 e 1 b 1 e 1 b 1 c 1
+c 1 b 1 c 1 b 1 c 1 b 5 e 1 b 1 e 1 c 1
+c 1 b 1 c 1 b 7 e 1 b 1 c 1
+c 12
+
+columns
+b 6
+b 7
+b 7
+b 7
+b 7
+b 7
+b 7
+b 7
+b 1 c 8
+b 1 c 1 b 2 b 1 b 2 c 1
+c 1 b 1 c 1 b 2 b 1 b 2 c 4
+c 1 b 1 c 1 b 2 b 1 b 2 c 1 b 1 c 2
+c 1 b 1 c 1 b 2 b 2 c 1 b 1 b 1 c 2
+c 1 b 1 c 1 b 3 c 1 b 1 e 1 b 1 b 1 c 2
+c 1 b 1 c 1 b 1 c 1 b 1 e 1 b 1 e 1 b 1 b 1 c 5
+c 1 b 1 c 1 b 3 e 1 b 1 e 1 b 1 c 1 b 1 c 1 b 1 c 1 b 1 c 1
+c 2 b 1 b 3 e 1 b 1 c 1 b 1 b 1 c 1 b 1 c 1 b 1 c 1
+c 1 b 1 b 3 c 1 b 1 e 1 b 1 c 1 b 1 b 1 c 1 b 1 c 3
+c 1 b 1 b 1 c 1 b 1 e 1 b 1 c 1 b 1 b 1 b 1 c 1 b 1 c 1 b 1 c 1
+c 1 b 1 b 1 c 1 b 3 c 1 b 1 e 1 b 1 b 1 b 1 c 1 b 1 c 1 b 1 c 1
+c 1 b 1 c 1 b 1 b 1 c 1 b 1 e 1 b 1 e 1 b 1 b 1 c 1 b 1 b 1 c 1 b 1 c 1
+c 1 b 1 b 1 c 1 b 3 e 1 b 1 e 1 b 1 c 1 b 1 b 1 b 1 c 2
+c 1 b 2 c 1 b 1 b 3 e 1 b 1 c 1 b 1 b 1 b 1 c 1 b 1 c 1
+c 1 b 1 c 1 b 1 b 3 c 1 b 1 e 1 b 1 b 1 c 1 b 2 c 1
+c 2 b 1 b 1 c 1 b 1 e 1 b 1 e 1 b 1 c 1 b 3 c 1
+c 1 b 1 b 1 b 1 c 1 b 3 e 1 b 1 c 1 b 4 c 1
+c 1 b 1 b 1 b 1 c 1 b 1 b 3 c 1 b 1 e 1 b 3 c 1
+c 1 b 1 b 1 c 1 b 1 b 1 c 1 b 1 e 1 b 1 e 1 b 2 c 1
+c 1 b 1 c 1 b 1 b 1 c 1 b 3 e 1 b 1 e 1 b 1 c 1
+c 2 b 3 b 1 c 1 b 1 b 3 e 1 b 1 e 1 c 1
+c 1 b 5 c 1 b 3 e 1 b 1 c 1
+c 16

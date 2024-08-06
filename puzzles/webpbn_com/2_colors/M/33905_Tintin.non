@@ -1,0 +1,62 @@
+by "Michel Plourde (micplour)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Michel Plourde"
+date "Apr 14, 2020"
+description "Reporteur, journaliste, detective, etc..."
+difficulty 2.0
+height 25
+id 33905
+link "https://webpbn.com/play.cgi?id=33905"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Tintin"
+width 20
+
+rows
+8,2,1,1,4
+3,6,2
+2,7,1
+1,10,1
+1,11,1
+1,6,5,1
+1,6,2,1
+1,6,2,4
+1,6,2,1,2,2
+1,5,2
+1,5,1
+1,5,3,3,1
+1,3,1,1,1
+1,3,1,1
+1,1,2,3,1
+1,2,1,2,1
+2,1,2,2,1
+5,1,2
+1,2,2,5,2
+1,1,2,3,2
+1,3,1,2
+1,1,2,2
+1,1,2,7
+2,1,5,2,2
+5,1,3,2,1
+
+columns
+12,3,8
+3,1,2,2
+2,5,1,3,1
+1,6,3,1,5
+1,9,3,1,1
+1,9,4
+1,11,2
+1,6,3,3
+4,4,1
+1,3,1,1,3,1
+5,2,2,1
+4,1,1,3
+6,1,1,1,1
+5,1,1,2,1,1
+6,1,3,2,2
+5,2,1,2,2,3
+1,2,3,2,1,2,1
+1,3,1,4
+2,3,4,2
+7,11

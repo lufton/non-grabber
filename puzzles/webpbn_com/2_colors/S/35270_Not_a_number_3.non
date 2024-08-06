@@ -1,0 +1,47 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Jul 30, 2021"
+description ""
+difficulty 1.0
+height 15
+id 35270
+link "https://webpbn.com/play.cgi?id=35270"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Not a number 3"
+width 15
+
+rows
+1
+2
+3
+2,1
+6
+1
+1
+1
+0
+0
+3,1,1,3
+1,1,1,1,1
+3,3,1,2
+1,1,1,1,1
+3,1,1,3,3
+
+columns
+3,1
+1,1,1
+1,3
+0
+1,4
+2,1,1
+3,4
+2,1
+8,5
+1,1
+1
+0
+5
+1,1,1
+1,1

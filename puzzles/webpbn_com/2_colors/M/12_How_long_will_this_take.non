@@ -1,0 +1,57 @@
+by "Philip Snyder (Alex72)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Philip Snyder"
+date "Mar 26, 2004"
+description "A clock reading 1:50"
+difficulty 1.5
+height 20
+id 12
+link "https://webpbn.com/play.cgi?id=12"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "How long will this take?"
+width 20
+
+rows
+8
+10
+14
+16
+16
+4,4,4
+4,5,4
+5,1,3,5
+8,1,7
+9,8
+9,9
+20
+20
+18
+18
+16
+16
+14
+10
+8
+
+columns
+6
+10
+14
+16
+16
+4,11
+5,13
+5,1,12
+8,11
+9,9
+8,9
+7,10
+5,11
+5,12
+4,11
+16
+16
+14
+10
+6

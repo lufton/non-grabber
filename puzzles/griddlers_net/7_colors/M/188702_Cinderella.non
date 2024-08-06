@@ -1,0 +1,61 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/10/18"
+height 23
+id 188702
+link "https://www.griddlers.net/nonogram/-/g/188702"
+medium_time "0:06:36"
+points 856
+popularity 82.32
+title "Cinderella"
+width 14
+
+color a ffffff
+color b 000000
+color c ffc184
+color e 000099
+color f 33ccff
+color g ffcc66
+color h ff3333
+
+rows
+g 3
+g 5
+g 6
+e 5 g 2
+e 7 g 2
+g 7 e 2 g 1
+g 6 c 1 g 2 e 1 g 1
+g 2 c 6 g 1 e 1 g 1
+g 1 e 1 c 1 e 1 c 1 g 1 e 1
+c 6 g 1 e 1
+c 6 f 1
+c 2 h 1 c 3
+c 5
+c 3
+f 2 b 3 f 2
+f 4 c 6 f 4
+f 4 c 7 e 1 f 2
+c 2 f 2 e 1 c 6 e 1 f 2
+c 3 f 1 e 2 c 4 e 2 f 2
+c 2 f 1 e 3 c 2 e 3 f 1 c 1
+c 1 e 9 c 2
+e 7 c 2
+e 5
+
+columns
+f 2 c 2
+f 3 c 3
+g 2 f 4 c 3
+g 4 f 5 e 1
+e 1 g 2 c 1 c 3 c 2 e 5
+g 2 e 2 g 2 c 1 e 1 c 4 c 3 e 5
+g 3 e 2 g 2 c 4 h 1 c 2 b 1 c 4 e 4
+g 3 e 2 g 2 c 1 c 5 b 1 c 5 e 3
+g 3 e 2 g 1 c 2 e 1 c 5 b 1 c 5 e 3
+g 2 e 2 g 2 c 6 c 4 e 4
+g 2 e 2 g 4 f 1 f 1 c 2 e 4
+g 2 e 5 f 2 e 5 c 1
+g 4 f 6 c 2
+f 4 c 2

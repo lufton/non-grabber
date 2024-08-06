@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/20/12"
+height 20
+id 128158
+link "https://www.griddlers.net/nonogram/-/g/128158"
+medium_time "0:01:35"
+points 274
+popularity 79.7
+title "Traffic"
+width 9
+
+color a ffffff
+color b 808080
+color c c0c0c0
+color d e72b2b
+color e e5cb51
+color f 2da755
+
+rows
+b 9
+b 1 c 7 b 1
+c 2 d 3 c 2
+c 1 d 1 d 3 c 1
+c 1 d 5 c 1
+c 1 d 5 c 1
+c 1 b 1 d 3 b 1 c 1
+c 2 b 3 c 2
+c 2 e 3 c 2
+c 1 e 1 e 3 c 1
+c 1 e 5 c 1
+c 1 e 5 c 1
+c 1 b 1 e 3 b 1 c 1
+c 2 b 3 c 2
+c 2 f 3 c 2
+c 1 f 1 f 3 c 1
+c 1 f 5 c 1
+c 1 f 5 c 1
+c 1 b 1 f 3 b 1 c 1
+c 2 b 3 c 2
+
+columns
+b 2
+b 1 c 19
+b 1 c 2 d 3 b 1 c 2 e 3 b 1 c 2 f 3 b 1 c 1
+b 1 c 1 d 1 d 3 b 1 e 1 e 3 b 1 f 1 f 3 b 1
+b 1 c 1 d 5 b 1 e 5 b 1 f 5 b 1
+b 1 c 1 d 5 b 1 e 5 b 1 f 5 b 1
+b 1 c 2 d 3 b 1 c 2 e 3 b 1 c 2 f 3 b 1 c 1
+b 1 c 19
+b 2

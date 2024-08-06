@@ -1,0 +1,76 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Joe"
+date "Jul  1, 2018"
+description "Mandark from Dexter's Laboratory"
+difficulty 3.25
+height 25
+id 31387
+link "https://webpbn.com/play.cgi?id=31387"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Dark Man"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 5 blue 4 black 1
+black 7 blue 1 black 2 blue 1 black 3
+black 8 blue 1 black 3 blue 3 black 4
+black 8 blue 1 black 3 blue 1 blue 2 black 2 black 1
+black 8 black 4 blue 1 blue 2 black 2 black 1 blue 2
+black 6 black 5 blue 1 black 2 black 1 blue 2
+black 6 black 6 blue 1 black 6 blue 2
+black 5 black 7 black 3 blue 1 black 2 blue 1
+black 4 black 7 black 3 blue 1
+black 4 black 7 black 5 black 2 blue 1
+black 3 black 3 black 1 black 3 black 2 black 1 blue 2
+black 3 black 3 black 3 black 1 blue 1 blue 2
+black 3 black 4 black 8 blue 1 blue 3
+black 3 black 3 blue 2 black 2 blue 6 black 1
+black 4 black 2 black 2 blue 1 black 2
+black 4 black 4 black 2 black 7
+black 4 black 4 blue 1 black 2 black 6
+black 4 blue 1 black 4 black 2 black 6
+black 3 blue 1 black 4 black 1 black 5 blue 1
+black 2 black 5 black 1 black 5 blue 1
+black 6 blue 1 black 1 blue 3 blue 1
+black 6 black 1 blue 6 blue 1
+blue 3 black 1 blue 2 blue 1 blue 4 blue 4
+black 1 blue 1 blue 2 blue 1
+blue 4 blue 1 blue 2
+
+columns
+black 12
+black 16
+black 17
+black 8 black 5 black 1
+black 6 black 4 black 2
+black 6 black 9 blue 2 black 3
+black 5 black 15
+black 5 black 4 black 1 blue 1 black 7 blue 1
+black 5 black 4 blue 1 black 7 blue 1
+black 4 black 5 blue 1 black 3 blue 1 black 1 blue 1
+black 3 black 6 black 2
+black 2 black 6 black 11 blue 1 blue 1
+blue 1 blue 1 black 4 black 8 blue 1 blue 1
+blue 1 blue 1 black 3 blue 1 black 3 blue 1
+blue 2 black 3 blue 1 black 2 black 1 blue 1
+blue 1 black 3 blue 1 black 1 black 1 blue 2 blue 3
+black 2 blue 1 black 2 black 1 blue 1 black 1 blue 1
+blue 2 black 2 black 1 blue 1 black 2 blue 1
+blue 1 black 1 black 1 blue 1 black 3 blue 1
+blue 2 black 2 black 1 blue 2 black 4 blue 1
+blue 2 black 5 blue 1 blue 1 black 5 blue 2
+blue 1 black 5 blue 1 black 5 blue 1
+black 6 blue 1 blue 1 black 6 blue 1
+black 5 black 2 blue 2 black 1 black 3 blue 2
+black 2 black 2 blue 2 black 1 black 1 blue 2
+black 5 blue 2 blue 1 blue 1
+blue 5 blue 1 blue 3
+blue 3 blue 1 blue 1 blue 1
+blue 2 blue 1
+blue 2

@@ -1,0 +1,62 @@
+by "Brash Ataom (BRASH)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brash Ataom"
+date "Aug 29, 2020"
+description "Common Milkweed pod This is intended to be part of identifiable plant species. This one in particular may, if I am skillful enough, grow (pun intended) to include the species of butterfly caterpillars dependent on this food source. For now, I will defer to text: The Monarch Butterfly, while not yet endangered, has lost habitat and food source throughout its range from the NE America to Mexico. In its caterpillar stage, the common milkweed is a critical and possibly exclusive food source. It's very name indicates why it has been uprooted -- who needs weeds? Farmers often eradicate species that are perceived to have no commercial value. Fortunately, there is hope. Small factories in New England are experimenting with using the fluffy part of the seed pods as natural fiber for commercial and industrial fabrics. Creating a market gives an incentive for farmers to leave grow or even cultivate the species, helping in the process the Monarch Butterfly recover its numbers. Who can't want more butterflies? If you want to learn how to get milkweed seeds and where to plant them, try this website: https://medium.com/conservation-service-in-action/how-we-collect-and-process-milkweed-seeds-for-monarchs-f6b5e899d878"
+difficulty 1.75
+height 20
+id 34446
+link "https://webpbn.com/play.cgi?id=34446"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Name the Flora"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 13 black 1 blue 4
+blue 12 blue 6
+blue 11 blue 2 black 1 blue 4
+blue 7 black 3 blue 2 blue 3 black 1 blue 1
+blue 6 black 5 blue 1 blue 2
+blue 5 black 3 black 1 blue 1 blue 2 black 1
+blue 4 black 3 blue 2
+blue 3 black 3 black 1 blue 1
+blue 3 black 3 black 2 black 1 blue 2
+blue 3 black 3 black 3 black 1 black 1
+blue 2 green 2 black 3 black 4 black 1
+green 4 black 7 black 2 black 1
+green 1 black 9 black 2 black 2
+green 1 black 1 green 3 black 6 black 3 black 2 green 1
+green 1 black 2 green 2 black 9 black 2 green 2
+green 4 black 10 black 2 green 3
+green 3 black 14 green 3
+green 2 black 3 green 4 black 2 green 1 black 3 green 5
+green 1 black 3 green 2 black 1 green 2 black 2 green 9
+black 3 green 4 black 3 green 10
+
+columns
+blue 11 green 8 black 1
+blue 11 green 1 black 3 green 3 black 2
+blue 10 green 2 black 1 green 1 black 1 green 2 black 3
+blue 7 black 3 green 2 black 1 green 3 black 3 green 1
+blue 6 black 7 green 2 black 3 green 2
+blue 5 black 12 green 3
+blue 4 black 3 black 7 green 1 black 1 green 1
+blue 3 black 3 black 6 green 2 black 1
+blue 3 black 2 black 7 green 2 black 1
+blue 3 black 2 black 10
+blue 3 black 1 black 3 black 6 green 1
+blue 2 black 1 black 3 black 3 green 3
+blue 1 blue 1 black 2 black 5 green 2
+blue 2 black 1 black 6 green 2
+blue 2 blue 1 black 3 black 2 green 2
+black 1 blue 1 black 1 blue 2 black 3 black 2 green 3
+blue 4 blue 1 black 1 black 3 green 3
+blue 4 blue 2 black 2 green 5
+blue 3 black 1 blue 2 blue 1 black 2 green 6
+blue 5 black 1 blue 2 black 1 black 2 green 7

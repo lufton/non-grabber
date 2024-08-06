@@ -1,0 +1,45 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul  5, 2010"
+description "I compose this poem, because I said; Her showing, drove my mind to bed. I know that innocence was her way; But we, the men, believe that's prey. So, careful woman, when you expose; Our watching eyes, often suppose. I guess that sounds so immature; I know you all hate to endure. :)"
+difficulty 2.0
+height 14
+id 9481
+link "https://webpbn.com/play.cgi?id=9481"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "Another poem"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4 black 2
+black 2 black 1 black 1
+black 1 blue 4 black 1 black 1
+black 1 black 5 black 1
+black 2 black 1 black 1 black 1
+black 1
+black 1 black 2 black 2
+black 1 black 1
+black 1 black 2
+black 1 black 1 black 1
+black 1 black 4 black 1
+black 2 black 2
+black 2 black 2
+black 6
+
+columns
+black 8
+black 4 black 2
+black 2 black 1 black 1 black 2
+black 1 blue 1 black 2 black 1 black 1 black 1
+black 1 blue 1 black 1 black 1 black 1 black 1
+black 1 blue 1 black 1 black 2 black 1 black 1
+blue 1 black 1 black 1 black 1 black 1
+black 4 black 1 black 1 black 2
+black 1 black 2
+black 5 black 2

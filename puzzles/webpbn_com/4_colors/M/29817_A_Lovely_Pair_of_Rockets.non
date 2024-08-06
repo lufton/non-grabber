@@ -1,0 +1,72 @@
+by "Louis Gilbrook (LouisGilbrook)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Louis Gilbrook"
+date "Oct 12, 2017"
+description "Pocket rockets; a wonderful sight to see in your hand in a game of poker"
+difficulty 2.5
+height 25
+id 29817
+link "https://webpbn.com/play.cgi?id=29817"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "A Lovely Pair of Rockets"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 6 blue 2
+black 7 blue 6
+black 1 blue 7
+black 1 blue 1 black 3
+black 1 blue 1 black 1 black 1
+black 5 blue 1 black 1 black 1
+black 5 blue 3 black 1 blue 2 black 5
+black 4 blue 5 black 2 blue 1 black 1 black 1
+black 1 blue 4 black 1 blue 1 black 1 black 1
+black 1 blue 1 black 3 black 1 blue 1
+black 1 blue 1 black 1 black 1 black 1 blue 1 red 1
+black 1 blue 1 black 1 black 1 black 1 blue 1 red 3
+black 1 blue 1 black 5 black 1 blue 2 red 5
+black 1 blue 2 black 1 black 1 black 2 blue 1 red 7
+black 2 blue 1 black 1 black 1 black 1 blue 1 red 5
+black 1 blue 1 black 1 blue 1 red 3
+black 1 blue 1 red 2 red 2 black 1 blue 1 red 1
+black 1 blue 1 red 7 black 1 blue 2
+black 1 blue 1 red 5 black 2 blue 1
+black 1 blue 2 red 3 black 1 blue 1
+black 2 blue 1 red 1 black 1 blue 1
+black 1 blue 1 black 1 blue 2
+black 1 blue 1 black 2 blue 1
+black 1 blue 1 black 1 blue 1
+
+columns
+black 8
+black 1 blue 6 black 7
+black 1 blue 1 blue 7 black 4
+black 2 blue 1 blue 5
+black 1 blue 2 red 1
+black 1 blue 1 black 5 red 3
+black 1 blue 1 black 1 black 1 red 4
+black 2 blue 1 black 1 black 1 red 4
+black 1 blue 2 black 1 black 1 red 4
+black 1 blue 1 black 5 red 3
+black 1 blue 1 red 1
+black 7
+black 1 blue 5 black 7
+black 1 blue 1 blue 7 black 6
+black 1 blue 1 blue 6 black 5
+black 1 blue 1 blue 5 black 2
+black 1 blue 1 red 1 blue 3
+black 2 blue 1 black 5 red 3
+black 1 blue 2 black 1 black 1 red 5
+black 1 blue 1 black 1 black 1 red 7
+black 1 blue 1 black 1 black 1 red 5
+black 1 blue 1 black 5 red 3
+black 2 blue 1 red 1
+black 1 blue 2
+black 1 blue 1

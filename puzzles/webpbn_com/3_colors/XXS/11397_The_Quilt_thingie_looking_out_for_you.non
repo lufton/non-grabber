@@ -1,0 +1,31 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Dec 15, 2010"
+description ""
+difficulty 1.25
+height 5
+id 11397
+link "https://webpbn.com/play.cgi?id=11397"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "The Quilt thingie, looking out for you"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3
+black 4
+black 1 black 1
+blue 3
+blue 1 blue 1
+
+columns
+black 1
+black 1 blue 2
+black 2 blue 1
+black 2 blue 2
+black 3

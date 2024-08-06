@@ -1,0 +1,39 @@
+by "Franciszek Åajszczak (mad_screwdriver)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Franciszek ÃÂajszczak"
+date "Jan 22, 2021"
+description "house"
+difficulty 1.0
+height 8
+id 34828
+link "https://webpbn.com/play.cgi?id=34828"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "puzzle"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 1
+blue 2
+black 5
+black 5
+black 2 red 1 black 2
+black 2 red 1 black 2
+green 8
+
+columns
+green 1
+green 1
+black 4 green 1
+black 4 green 1
+black 2 red 2 green 1
+blue 1 black 4 green 1
+blue 2 black 4 green 1
+green 1

@@ -1,0 +1,92 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/16/11"
+height 48
+id 104030
+link "https://www.griddlers.net/nonogram/-/g/104030"
+medium_time "0:16:57"
+points 33825
+popularity 79.75
+title "Bass Violin"
+width 22
+
+color a f0f0f1
+color b 000000
+color e b87840
+color f 684028
+color g 303030
+
+rows
+b 3
+b 1 e 2 b 3
+b 2 e 3 b 1 e 1 b 1
+b 1 e 1 b 1 e 3 b 1 f 1 b 1
+b 1 f 1 b 1 e 1 f 1 e 1 b 2
+b 3 e 1 b 1 e 1 b 1
+b 1 e 1 b 1 e 1 b 2
+b 2 e 1 b 1 e 1 b 1 e 1 b 1
+b 1 e 1 b 1 e 1 b 1 f 1 b 1 f 1 b 1
+b 1 f 1 b 1 f 1 b 1 f 1 b 3
+b 5
+b 3
+b 3
+b 3
+b 5
+b 6 e 2 b 1
+b 1 e 3 b 3 e 3 b 1
+b 1 e 4 b 3 e 4 b 1
+b 1 e 5 b 3 e 5 b 1
+b 1 e 6 b 3 e 6 b 1
+b 1 e 6 b 3 f 1 e 5 b 1
+b 1 e 6 f 1 b 3 e 5 b 1
+b 1 f 1 e 6 b 3 e 4 f 1 b 1
+b 1 f 2 e 5 b 3 e 3 f 2 b 1
+b 1 f 1 e 5 b 3 e 3 f 1 b 1
+b 1 e 5 b 3 e 3 b 1
+b 1 e 4 b 3 e 4 b 1
+b 1 e 4 b 3 e 4 b 1
+b 1 e 5 b 1 f 1 b 1 e 5 b 1
+b 1 e 2 f 1 b 1 f 1 e 1 b 1 f 1 b 1 e 1 f 1 b 1 f 1 e 2 b 1
+b 1 e 3 b 1 e 1 b 1 e 1 b 1 f 1 b 1 e 1 b 1 e 1 b 1 e 3 b 1
+b 1 e 4 b 1 e 3 b 1 f 1 b 1 e 3 b 1 e 3 b 1
+b 1 e 4 b 1 e 3 b 1 f 1 b 1 e 3 b 1 e 4 b 1
+b 1 e 2 b 1 e 1 b 1 e 3 b 1 f 1 b 1 e 3 b 1 e 1 b 1 e 2 b 1
+b 1 e 2 f 1 b 1 f 1 e 3 b 1 f 1 b 1 e 3 f 1 b 1 f 1 e 2 b 1
+b 1 e 8 b 1 f 1 b 1 e 8 b 1
+b 1 e 8 b 1 f 1 b 1 e 8 b 1
+b 1 f 1 e 7 b 3 e 7 f 1 b 1
+b 1 f 3 e 5 b 3 e 6 f 2 b 1
+b 1 f 4 e 4 b 3 e 5 f 3 b 1
+b 1 f 5 e 2 b 3 e 4 f 3 b 1
+b 1 f 6 b 3 e 3 f 3 b 1
+b 1 f 5 b 3 f 5 b 1
+b 1 f 4 b 3 f 4 b 1
+b 11
+b 3
+b 1 g 1 b 1
+b 1
+
+columns
+b 9
+b 5 b 1 e 6 f 3 b 1
+b 1 e 3 f 2 b 1 b 1 e 8 f 3 b 1
+b 1 e 5 f 2 b 1 b 1 e 4 b 1 f 1 e 3 f 4 b 1
+b 1 e 9 b 2 e 6 b 1 e 4 f 4 b 1
+b 3 b 2 b 1 e 13 f 1 b 4 f 1 e 5 f 4 b 1
+b 1 e 1 f 1 b 1 b 1 e 1 f 1 b 1 b 1 e 13 b 1 e 10 f 4 b 1
+b 9 b 1 e 13 f 1 b 1 e 10 f 3 b 1
+b 1 e 7 f 1 b 11 f 1 e 19 f 3 b 1
+b 1 e 3 f 1 b 42
+b 1 e 7 f 2 b 18 f 9 b 9 g 1 b 1
+b 10 b 1 e 5 f 1 b 26
+b 1 e 1 f 1 b 1 b 1 e 1 f 1 b 1 b 1 e 27 f 2 b 1
+b 3 b 3 b 1 e 13 f 1 b 1 e 11 f 2 b 1
+b 1 e 12 b 1 e 12 f 2 b 1
+b 1 e 5 f 2 b 1 e 3 f 1 b 4 f 1 e 6 f 3 b 1
+b 1 e 3 f 2 b 1 b 2 e 6 b 1 e 5 f 3 b 1
+b 5 b 1 e 4 b 1 f 1 e 4 f 3 b 1
+b 1 e 8 f 3 b 1
+b 2 e 5 f 3 b 1
+b 8
+0

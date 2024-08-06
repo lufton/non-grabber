@@ -1,0 +1,65 @@
+by "roodar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/31/18"
+height 20
+id 196001
+link "https://www.griddlers.net/nonogram/-/g/196001"
+medium_time "0:05:54"
+points 1322
+popularity 84.0
+title "Donal Duck"
+width 20
+
+color a cccccc
+color b 000000
+color c ffff00
+color d f99500
+color e 99ccff
+color f 0000ff
+color g ffffff
+color h cc0000
+
+rows
+f 5
+f 7
+f 8
+f 3 b 5
+f 4 b 6
+f 4 b 1 g 7
+f 3 b 1 g 9
+b 2 f 2 g 4 e 1 g 4 e 1
+b 3 g 4 e 3 g 2 e 3
+b 3 g 4 e 3 g 2 e 3
+b 3 g 4 b 2 e 1 g 2 b 2 e 1
+b 1 b 1 g 4 b 2 e 1 g 2 b 2 e 1
+c 2 g 1 b 2 e 1 c 2 b 2 c 1
+c 14
+c 1 d 1 c 11
+c 1 d 3 h 2 d 2 c 3
+c 1 d 3 h 1 d 2 c 2
+c 2 d 5 c 1
+c 2 d 3 c 2
+c 5
+
+columns
+b 3
+b 3
+b 5
+f 2 b 2
+f 4
+f 4 g 4
+f 3 b 1 g 5 c 2
+f 3 b 1 g 6 c 4
+f 3 b 1 g 8 c 1 d 2 c 2
+f 3 b 2 g 3 e 2 b 3 c 2 d 2 c 2
+f 3 b 2 g 2 e 3 b 3 c 2 d 3 c 2
+f 3 b 2 g 3 e 5 c 2 h 1 d 3 c 1
+f 3 b 2 g 7 c 3 h 2 d 2 c 1
+f 3 b 2 g 7 c 3 d 4 c 1
+f 2 g 3 e 2 b 3 c 2 d 3 c 2
+g 1 e 3 b 3 c 6
+e 4 c 5
+c 3
+c 2
+c 2

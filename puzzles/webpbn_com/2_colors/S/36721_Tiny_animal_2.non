@@ -1,0 +1,43 @@
+by "Sam (cementuh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sam"
+date "Apr 19, 2023"
+description "Who's that?"
+difficulty 1.25
+height 15
+id 36721
+link "https://webpbn.com/play.cgi?id=36721"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Tiny animal #2"
+width 11
+
+rows
+11
+1,1,1
+3,3
+4,4
+2,1,1,2
+2,2
+1,1,1
+2,1,2
+1,1
+1,1
+1,1,1,1
+1,1,1,1
+2,2
+1,1
+4,4
+
+columns
+2,6
+1,3,1,3
+1,4,3,1
+1,2,1,1
+1,2,1
+2,2
+1,2,1
+1,2,1,1
+1,4,3,1
+1,3,1,3
+2,6

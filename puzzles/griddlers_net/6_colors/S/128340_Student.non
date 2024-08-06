@@ -1,0 +1,54 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/24/12"
+height 20
+id 128340
+link "https://www.griddlers.net/nonogram/-/g/128340"
+medium_time "0:03:02"
+points 303
+popularity 67.33
+title "Student"
+width 11
+
+color a ffffff
+color b 000000
+color c e9b1b1
+color d c0b08f
+color e b198b6
+color f e04a4a
+
+rows
+b 5
+b 8
+b 10
+b 5 c 3 b 2
+b 3 c 7
+b 3 c 5 b 1 c 1
+b 2 c 9
+b 3 c 7
+b 3 c 7
+b 4 c 5
+b 6 c 1
+b 4 d 1 e 1 f 2
+d 2 f 3
+d 2 e 1 f 1 c 1 f 1
+d 1 e 2 f 1 c 1 f 1
+e 3 f 3
+e 2 f 4
+f 5
+c 1
+c 2
+
+columns
+b 10
+b 11
+b 5 c 1 b 5 d 2 e 1
+b 4 c 5 b 3 d 2 e 3
+b 4 c 6 b 1 d 2 e 4 f 1
+b 3 c 7 b 1 e 1 f 6
+b 3 c 8 f 2 c 2 f 3 c 2
+b 3 c 7 f 7 c 1
+b 3 c 1 b 1 c 4 f 2
+b 2 c 5
+c 1

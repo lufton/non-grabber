@@ -1,0 +1,63 @@
+by "Kevin S (KevinS)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kevin S"
+date "Aug 28, 2011"
+description "I've never been surfing but also wanted to give it a shot"
+difficulty 2.0
+height 20
+id 15690
+link "https://webpbn.com/play.cgi?id=15690"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "WCP # 91 Wave"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 4 blue 1 blue 1
+blue 4 blue 2
+blue 7 blue 2
+blue 6 blue 2
+red 1 black 1 blue 6 blue 2
+black 1 black 1 blue 7 blue 2
+black 2 blue 2 green 1 blue 5 blue 2
+black 2 red 3 black 1 green 3 blue 7
+black 1 red 2 blue 1 green 3 blue 8
+red 1 blue 1 green 3 blue 4 blue 4
+black 1 green 3 blue 5 blue 3
+blue 2 green 3 blue 5 blue 3
+blue 3 green 3 blue 6 blue 2
+blue 5 green 2 blue 4 blue 3 blue 1
+blue 10 blue 3 blue 2
+blue 8 blue 2 blue 3
+blue 6 blue 4 blue 3
+blue 3 blue 6 blue 4
+blue 10 blue 7
+blue 20
+
+columns
+blue 7
+blue 7
+blue 8
+blue 2 black 1 blue 5 blue 2
+blue 2 red 1 black 1 black 1 blue 6 blue 2
+blue 1 black 2 blue 1 green 2 blue 3 blue 2
+blue 2 black 3 red 3 black 1 green 3 blue 2 blue 2
+blue 1 red 2 blue 1 green 3 blue 3 blue 3
+blue 1 blue 1 red 1 blue 1 green 3 blue 3 blue 3
+blue 1 blue 5 black 1 green 3 blue 4 blue 3
+blue 1 blue 5 green 3 blue 4 blue 1 blue 1
+blue 1 blue 4 green 3 blue 4 blue 2 blue 1
+blue 5 green 1 blue 5 blue 3 blue 1
+blue 1 blue 10 blue 3 blue 2
+blue 8 blue 2 blue 1 blue 2
+blue 1 blue 4 blue 4 blue 2
+blue 1 blue 8 blue 3
+blue 3 blue 5 blue 5
+blue 9 blue 6
+blue 6 blue 7

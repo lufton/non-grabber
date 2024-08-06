@@ -1,0 +1,109 @@
+by "Makarios"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/29/04"
+height 45
+id 8778
+link "https://www.griddlers.net/nonogram/-/g/8778"
+medium_time "0:54:41"
+points 41167
+popularity 84.09
+title "Hey, Wazzup?"
+width 40
+
+color a ffffff
+color b 161315
+color c 101ac7
+color d 98c3ee
+color e 738fe4
+color f f3c02a
+color g e6d694
+
+rows
+0
+b 7 b 7
+b 2 b 2 b 2 b 2
+b 2 b 2 b 2 b 2
+b 2 b 3 b 2
+b 1 b 1 b 1
+b 1 c 3 b 1 c 3 b 1
+b 1 c 5 b 1 c 5 b 1
+b 1 c 2 b 2 c 2 b 1 c 2 b 2 c 2 b 1
+b 1 c 2 b 3 c 2 b 1 c 2 b 3 c 2 b 1
+b 2 c 2 b 3 c 2 b 1 d 1 b 1 c 2 b 3 c 2 b 2
+d 2 b 1 c 6 b 1 d 3 b 1 c 6 b 2
+e 1 d 2 b 1 c 3 b 2 b 2 c 3 b 1 e 2
+e 1 d 4 b 5 f 7 b 5 e 4
+e 1 d 3 f 16 e 3
+d 5 f 16 e 4
+e 1 d 5 f 15 g 1 e 4
+d 1 e 1 d 5 f 13 g 1 e 2 d 1 e 3
+e 1 d 6 f 13 e 2 d 2 e 2
+e 1 d 7 f 11 g 1 e 1 d 5 e 2
+e 1 d 6 e 1 d 2 f 9 g 1 e 1 d 5 e 3
+e 1 d 9 f 9 d 7 e 3
+e 1 d 10 f 8 e 1 d 7 e 3
+e 1 d 10 f 7 d 2 e 1 d 5 e 3
+e 1 d 11 f 5 e 1 d 9 e 3
+e 1 d 12 f 4 e 2 d 7 e 4
+e 1 d 12 f 3 d 9 e 4
+d 14 f 1 e 3 d 6 e 1 d 1 e 4
+d 14 f 1 e 1 d 4 e 1 d 3 e 6
+e 1 d 14 e 3 d 4 e 1 d 1 e 7
+d 15 e 4 d 6 e 1 d 1 e 5
+d 2 e 1 d 13 e 4 d 1 e 11
+d 16 e 14
+e 1 d 1 e 1 d 12 e 15
+e 1 d 10 e 13 d 2
+g 2 f 2 g 1 d 8 e 15 d 1 f 1 g 2 f 1 g 1
+g 1 f 5 g 1 e 1 d 2 e 18 d 1 f 4 g 3
+f 4 e 2 d 1 e 17 f 4
+g 1 f 5 d 1 e 17 f 6
+g 1 f 2 f 3 d 1 e 15 f 3 f 3
+f 3 f 3 e 1 d 1 e 3 d 2 e 5 f 3 f 3
+g 2 f 1 f 3 f 3 f 3
+g 1 f 2 f 2 f 1
+f 1 f 1
+0
+
+columns
+0
+g 1
+g 1 f 1
+g 1 f 1 g 2
+e 7 d 2 e 1 d 2 f 2 g 2 f 1 g 1
+e 1 d 1 e 2 d 13 e 1 f 7
+e 1 d 2 e 1 d 13 e 1 d 2 g 1 f 5
+e 1 d 19 e 2 g 1 f 2
+b 7 d 1 e 1 d 23 f 5
+b 2 b 1 d 25 e 1 f 6
+b 2 b 1 d 2 d 22 e 1 f 4
+b 2 b 1 d 1 d 3 e 1 d 16 e 1 d 1
+b 1 c 4 b 1 f 3 d 17 e 1 d 1 e 1 d 1
+b 1 c 5 b 1 f 5 d 16 e 4
+b 1 c 2 b 2 c 2 b 1 f 6 d 14 e 5
+b 1 c 2 b 3 c 2 b 1 f 8 d 12 e 4 d 1
+b 1 c 2 b 3 c 2 b 1 f 10 d 10 e 6
+b 2 c 5 b 1 f 12 d 8 e 6
+b 2 c 3 b 2 f 14 d 5 e 7
+b 2 b 1 d 1 f 16 e 1 d 3 e 6 d 1
+b 6 d 2 f 14 e 3 d 1 e 7 d 1
+b 2 b 1 d 1 f 13 e 14
+b 2 b 2 f 11 e 1 d 1 e 12
+b 2 b 1 f 10 e 2 d 1 e 1 d 3 e 10
+b 1 c 4 b 1 f 6 g 1 d 1 e 1 d 6 e 9
+b 1 c 5 b 1 f 5 g 1 e 1 d 8 e 10
+b 1 c 2 b 2 c 2 b 1 f 3 g 1 e 1 d 7 e 1 d 2 e 9
+b 1 c 2 b 3 c 2 b 1 f 2 g 1 e 1 d 3 e 1 d 5 e 1 d 1 e 9
+b 1 c 2 b 3 c 2 b 1 e 2 d 12 e 8
+b 2 c 5 b 1 e 1 e 2 d 10 e 9 f 4
+b 2 c 3 b 1 e 5 d 10 e 3 d 1 e 5 d 1 f 6
+b 2 b 2 e 6 d 10 e 6 d 2 f 5
+b 7 e 6 d 1 e 1 d 4 e 9 d 1 f 3
+e 19 f 6
+e 15 g 1 f 6
+e 11 g 1 f 1 f 4
+f 1 g 1 f 2
+g 2
+g 1
+0

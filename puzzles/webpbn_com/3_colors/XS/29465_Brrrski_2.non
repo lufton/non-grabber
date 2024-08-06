@@ -1,0 +1,38 @@
+by "Bruce Yanoshek (yanogator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Bruce Yanoshek"
+date "Feb 21, 2017"
+description "Russian man in the winter with a cold. I promise this is the last one. I definitely didn't get enough sleep last night."
+difficulty 1.25
+height 8
+id 29465
+link "https://webpbn.com/play.cgi?id=29465"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Brrrski 2"
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 3
+black 1 black 1
+black 2 red 1 black 2
+black 3 black 3
+black 7
+black 7
+black 7
+
+columns
+0
+black 5
+black 6
+black 2 black 4
+black 2 red 1 black 3
+black 2 black 4
+black 6
+black 5
+0

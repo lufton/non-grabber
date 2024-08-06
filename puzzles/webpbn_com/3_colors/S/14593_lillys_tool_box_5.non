@@ -1,0 +1,51 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jun 14, 2011"
+description "a telescoping mirror to find those screws that drop down in dark recesses. also good to see the back of things, like engines and such."
+difficulty 1.25
+height 20
+id 14593
+link "https://webpbn.com/play.cgi?id=14593"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "lilly's tool box #5"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 2 black 2
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 4
+black 2
+black 1
+black 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3
+
+columns
+black 5
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 7 black 1 red 10
+black 3 red 10
+black 1 red 10
+0
+0
+0

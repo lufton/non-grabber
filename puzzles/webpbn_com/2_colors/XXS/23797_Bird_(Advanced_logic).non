@@ -1,0 +1,27 @@
+by "RB (rb2013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by RB"
+date "Feb 11, 2014"
+description "I think it's a bird which is looking at the left. I want to know the best method which solves this puzzle (the fastest)!"
+difficulty 2.75
+height 5
+id 23797
+link "https://webpbn.com/play.cgi?id=23797"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 1.5
+title "Bird (Advanced logic)"
+width 5
+
+rows
+2
+1,1
+1,1
+1,2
+2
+
+columns
+2
+1,1
+1,1
+1,2
+1,1

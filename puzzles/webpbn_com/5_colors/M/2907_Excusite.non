@@ -1,0 +1,63 @@
+by "kaella young (kiko88)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by kaella young"
+date "Aug  9, 2008"
+description "flow"
+difficulty 1.25
+height 20
+id 2907
+link "https://webpbn.com/play.cgi?id=2907"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Excusite"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5 red 10 blue 1
+blue 5 red 10 blue 1
+blue 5 red 2 black 1 red 4 black 1 red 2 blue 1 blue 1
+blue 5 red 3 black 1 red 2 black 1 red 3 blue 1 blue 1
+blue 5 red 4 green 2 red 4 blue 1 blue 1 blue 1
+blue 5 red 4 green 2 red 4 blue 2 blue 1
+blue 5 red 3 black 1 red 2 black 1 red 3 blue 5
+blue 5 red 2 black 1 red 4 black 1 red 2 blue 5
+blue 5 red 10 blue 5
+blue 5 red 10 blue 5
+blue 9 green 2 blue 9
+blue 2 black 3 blue 4 green 2 blue 2 green 1 blue 6
+blue 2 black 3 blue 4 green 2 blue 1 green 2 blue 6
+blue 2 black 3 blue 4 green 7 blue 4
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 3 green 8 blue 3
+blue 2 black 3 blue 4 green 7 blue 4
+blue 3 black 1 blue 5 green 2 blue 1 green 3 blue 5
+blue 3 black 1 blue 5 green 2 blue 2 green 1 blue 6
+blue 2 black 3 blue 4 green 2 blue 9
+blue 1 black 1 blue 3 black 1 blue 3 green 2 blue 9
+
+columns
+blue 20
+blue 14 black 1 blue 4 black 1
+blue 11 black 3 blue 1 black 1 blue 2 black 1 blue 1
+blue 11 black 8 blue 1
+blue 11 black 3 blue 1 black 1 blue 2 black 1 blue 1
+red 10 blue 4 black 1 blue 4 black 1
+red 10 blue 10
+red 2 black 1 red 4 black 1 red 2 blue 10
+red 3 black 1 red 2 black 1 red 3 blue 10
+red 4 green 2 red 4 green 10
+red 4 green 2 red 4 green 10
+red 3 black 1 red 2 black 1 red 3 blue 3 green 3 blue 4
+red 2 black 1 red 4 black 1 red 2 blue 2 green 5 blue 3
+red 10 blue 1 green 7 blue 2
+red 10 blue 3 green 4 blue 3
+blue 1 blue 1 blue 9 green 3 blue 4
+blue 1 blue 1 blue 9 green 1 blue 5
+blue 1 blue 1 blue 14
+blue 1 blue 15
+blue 1 blue 14

@@ -1,0 +1,56 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/11/10"
+height 16
+id 100809
+link "https://www.griddlers.net/nonogram/-/g/100809"
+medium_time "0:09:15"
+points 6087
+popularity 60.48
+title "Little Squirrel"
+width 17
+
+color a ccccff
+color b 613c00
+color c 8e672d
+color d 9f8051
+color e af9365
+color f 473022
+
+rows
+b 2
+b 1 c 1 b 1
+b 1 d 1 c 3
+b 1 c 1 e 2 d 1 c 1
+b 2 c 1 b 1 b 1 c 1 e 4 c 1 f 1
+b 1 c 1 d 2 c 1 f 1 b 1 d 2 e 1 f 1 e 1 d 1 c 1 f 1
+b 1 c 1 d 1 b 1 c 1 b 1 f 1 f 1 d 3 f 1 e 3 f 1
+b 1 c 1 d 1 b 2 f 4 c 1 d 2 e 1 d 3 f 1
+b 1 c 1 d 1 c 2 d 2 c 1 f 1 c 1 d 3 c 1 b 1 f 1
+f 1 b 1 d 6 c 2 b 1 f 3
+f 1 b 1 d 7 c 1 f 1
+b 1 c 1 d 2 c 6 b 1
+b 1 c 1 d 1 c 1 f 1 c 2 b 1 c 2 b 1
+f 1 d 1 c 1 b 1 f 3 b 1 c 2 b 1
+f 1 d 1 c 1 f 1 f 1 c 2 b 1
+f 2 b 1 f 1 f 3
+
+columns
+b 2
+b 1 c 2 b 1
+b 1 c 1 d 2 c 1 f 2 b 2 f 3
+b 1 d 1 b 2 d 1 b 2 c 2 d 2 f 1
+c 1 d 1 c 1 b 1 c 1 d 4 c 2 b 1
+b 1 c 1 b 1 f 1 c 1 d 3 c 1 b 1 f 2
+f 3 d 3 c 1 f 2
+f 1 d 3 c 2 f 1
+b 2 f 2 c 1 d 2 c 2 f 1
+b 3 c 1 d 2 c 1 f 1 d 2 c 1 b 2 f 1
+b 1 c 1 d 1 c 1 e 1 d 3 c 2 d 1 c 4 f 1
+b 2 c 1 e 3 d 3 c 6 f 1
+c 1 e 2 f 2 e 1 d 1 b 1 f 1 b 4 f 1
+c 1 d 1 e 3 d 2 f 1
+c 2 d 1 e 1 d 1 c 1 f 1
+f 1 c 1 e 1 d 1 b 1 f 1
+f 4

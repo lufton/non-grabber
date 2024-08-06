@@ -1,0 +1,83 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Andrew Schultz"
+date "Jan 26, 2020"
+description "Harry Caray was a longtime (~18 years) announcer for the Chicago Cubs (American baseball team) on WGN-TV and WGN radio. When WGN was one of far fewer channels with a national reach, it meant kids across the country liked the Cubs despite many losing seasons. He was also famous for big glasses, a "Holy Cow" call on home runs, and saying "LET'S GET SOME RUNS" after the 7th inning stretch if the Cubs were losing, by one run or ten. He was also known as "The Mayor of Rush Street," an informal title, because he liked being around partying fans. Some baseball players recalled how fans ignored them to meet Harry."
+difficulty 2.75
+height 30
+id 33550
+link "https://webpbn.com/play.cgi?id=33550"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "A very unofficial Chicago mayor"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 7 black 1 green 4 black 1 green 5 black 1 green 3 black 1 green 7
+green 4 black 1 green 2 black 3 black 2 black 2 black 3 green 2 black 1 green 4
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 green 4
+green 4 green 4
+green 4 black 2 black 6 black 6 black 2 green 4
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 green 4
+green 4 black 1 black 1 black 2 black 1 black 1 green 4
+green 4 black 1 black 1 black 2 black 1 black 1 black 2 black 1 black 1 green 4
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 green 4
+green 4 black 1 black 1 black 1 black 1 black 1 black 1 green 4
+green 4 black 1 black 2 black 1 black 1 black 2 black 1 green 4
+green 4 black 1 black 2 black 1 black 1 black 2 black 1 green 4
+green 4 black 1 black 5 black 5 black 1 green 4
+green 4 black 1 black 1 green 4
+green 4 black 1 black 14 black 1 green 4
+green 4 black 1 black 12 black 1 green 4
+green 4 black 2 black 8 black 2 green 4
+black 3 black 3
+black 5 blue 2 blue 2
+black 1 black 1 black 1 blue 3 blue 3
+black 5 blue 5 blue 5
+black 1 black 1 black 1 blue 7 blue 1 red 3 blue 3
+black 5 blue 8 blue 1 red 1 blue 6
+black 1 black 1 black 1 blue 3 blue 5 blue 1 red 3 blue 1 blue 3
+black 5 blue 3 blue 4 blue 4 blue 3
+black 1 blue 3 blue 4 blue 4 blue 3
+black 1 blue 2 blue 4 blue 4 blue 2
+black 5 blue 2 blue 4 blue 4 blue 2
+
+columns
+green 17 black 7 black 1
+green 17 black 1 black 1 black 1 black 1 black 1
+green 17 black 10
+green 17 black 1 black 1 black 1 black 1 black 1
+green 1 black 1 black 12 black 7 black 1
+green 2 black 1 black 1 black 1 blue 5
+green 2 black 6 black 1 blue 6
+black 2 black 1 black 2 black 1 blue 5
+green 1 black 1 black 1 black 2 black 1 black 1 blue 3
+green 1 black 2 black 1 black 1 black 2 black 1 blue 5
+green 1 black 1 black 1 black 1 black 2 blue 10
+green 1 black 1 black 1 black 1 black 3 blue 10
+black 2 black 1 black 1 black 3 blue 8
+green 1 black 2 black 1 black 5 black 3 blue 7
+green 1 black 1 black 3
+green 1 black 1 black 3
+green 1 black 1 black 5 black 3 blue 7
+green 1 black 2 black 1 black 1 black 3 blue 1 red 3 blue 4
+black 2 black 1 black 1 black 1 black 3 blue 3 red 1 blue 1 red 1 blue 4
+green 1 black 1 black 1 black 1 black 2 blue 3 red 1 blue 1 red 1 blue 4
+green 1 black 2 black 1 black 1 black 2 black 1 blue 5
+green 1 black 1 black 1 black 2 black 1 black 1 blue 3
+black 2 black 1 black 2 black 1 blue 5
+green 2 black 6 black 1 blue 6
+green 2 black 1 black 1 black 1 blue 5
+green 1 black 1 black 12
+green 17
+green 17
+green 17
+green 17

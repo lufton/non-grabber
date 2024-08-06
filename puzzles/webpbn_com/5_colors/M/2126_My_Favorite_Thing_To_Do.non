@@ -1,0 +1,83 @@
+by "Rachel Clune (rebecca)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Rachel Clune"
+date "Jan  6, 2008"
+description "web paint by number"
+difficulty 1.5
+height 10
+id 2126
+link "https://webpbn.com/play.cgi?id=2126"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "My Favorite Thing To Do"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6 blue 6 red 6 green 6 black 6 green 3 red 1 red 1
+blue 4 blue 4 red 7 green 6 black 6 green 3 red 2 red 1
+blue 4 blue 4 red 7 green 2 black 2 green 2 black 2 blue 2 black 2 green 3 red 1 red 2
+blue 4 blue 4 red 3 green 6 black 6 green 3 red 1 red 1
+blue 4 blue 4 blue 4 red 4 green 7 black 6 green 3 red 1 red 1
+blue 4 blue 6 blue 4 red 4 green 8 black 3 green 6 red 1 red 1
+blue 14 red 4 green 2 black 3 green 3 black 3 green 6 red 1 red 1
+blue 5 blue 5 red 3 green 2 black 3 green 2 black 3 green 2 black 2 green 2 red 1 red 1
+blue 3 blue 3 red 6 green 7 black 3 green 6
+blue 1 blue 1 red 6 green 6 black 3 green 5 red 1 red 1
+
+columns
+blue 1
+blue 5
+blue 6
+blue 7
+blue 8
+blue 1 blue 4
+blue 4
+blue 4
+blue 4
+blue 3
+blue 3
+blue 4
+blue 4
+blue 4
+blue 1 blue 4
+blue 8
+blue 7
+blue 6
+blue 5
+blue 1 red 9
+red 10
+red 10
+red 3 red 3 red 2
+red 3 red 2
+red 3 red 2
+red 3
+green 10
+green 10
+green 2 black 1 green 3 black 2 green 2
+green 2 black 1 green 3 black 2 green 2
+green 6 black 2 green 2
+green 10
+green 5
+green 2
+black 10
+black 10
+black 2 blue 1 black 7
+black 2 blue 1 black 2
+black 5
+black 5
+0
+green 10
+green 10
+green 7 black 1 green 2
+green 2 black 1 green 2
+green 5
+red 5 green 4
+red 1 red 3 red 1
+red 1
+red 8 red 1

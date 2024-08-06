@@ -1,0 +1,84 @@
+by "hibrahimozer"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/6/06"
+height 30
+id 37547
+link "https://www.griddlers.net/nonogram/-/g/37547"
+medium_time "0:08:51"
+points 35853
+popularity 71.81
+title "Dolphin"
+width 30
+
+color a 00ffff
+color b 888888
+color c bbbbbb
+color d ffffff
+color e ff0000
+color f 0000ff
+color g 000000
+
+rows
+b 2
+b 1 c 1 b 1
+b 1 c 1 b 1
+d 1 c 1 b 1
+c 2 b 1 c 1
+d 1 c 1 b 2
+b 1 c 3 b 1
+b 1 d 1 b 1 d 1 c 2 b 1
+b 1 d 1 b 1 c 3 b 1
+b 1 d 2 b 1 d 1 c 2 b 1 c 1
+b 1 d 1 b 1 c 2 b 1 c 3
+b 1 d 1 c 1 b 1 d 1 c 1 b 1 c 2 b 1 c 1
+b 1 d 2 b 1 c 5 b 2
+b 1 d 1 c 1 b 1 d 1 c 4 b 3
+b 1 d 1 c 1 b 1 c 5 b 3
+b 1 d 2 c 1 b 1 d 1 c 4 b 3 c 1
+b 1 d 2 c 1 b 1 c 5 b 4
+b 1 c 1 d 2 c 1 b 1 d 1 c 4 b 4
+b 1 c 1 d 3 c 1 b 1 b 1 c 3 b 5 c 1
+b 1 c 1 d 4 c 1 b 1 b 1 c 3 b 6
+b 1 c 1 d 4 b 1 b 1 c 3 b 6
+b 1 c 1 d 4 c 1 b 1 b 1 c 3 b 6
+b 1 c 1 d 5 c 1 b 1 e 1 c 3 b 6
+f 1 b 1 c 1 d 4 c 2 e 2 d 1 c 2 b 6 c 1
+f 4 b 1 c 1 d 5 c 2 b 1 d 2 c 1 b 6 g 1
+f 8 b 1 c 1 d 10 b 7 g 1 f 2
+f 8 b 1 c 1 d 9 g 1 b 7 g 1 f 2
+f 8 b 1 c 1 d 8 b 1 g 3 b 5 g 1 f 2
+f 8 b 1 c 2 d 7 b 1 g 1 d 1 g 1 b 5 g 1 f 2
+f 8 b 1 c 2 d 7 b 1 g 2 b 6 g 1 f 2
+
+columns
+f 7
+f 6
+f 6
+b 3 f 6
+b 1 d 3 b 3 f 5
+b 2 d 4 b 3 f 5
+b 2 c 1 d 4 b 4 f 5
+b 2 c 2 d 2 c 3 b 3 f 5
+b 2 c 1 d 4 c 3 b 7
+b 1 c 1 d 6 c 7
+b 1 c 1 d 10 c 2
+b 1 c 1 d 11
+b 1 c 1 d 10
+b 2 c 1 d 8
+b 1 c 2 d 6
+b 1 c 2 d 5
+e 1 c 1 d 5
+b 2 d 1 c 1 d 1 c 1 d 1 c 1 d 1 c 1 d 1 c 1 d 1 c 1 d 1 c 1 d 1 b 4 e 2 b 1 d 5
+b 1 c 22 d 4 b 3
+b 6 c 4 b 2 c 12 d 2 g 4
+c 1 b 5 c 15 b 2 g 1 d 1 g 1
+c 9 b 9 g 2 b 1
+c 1 b 19
+c 1 b 18
+b 17
+c 1 b 14
+c 1 b 11
+c 1 g 6
+f 5
+f 5

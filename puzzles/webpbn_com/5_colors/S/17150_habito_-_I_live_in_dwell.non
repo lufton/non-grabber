@@ -1,0 +1,49 @@
+by "Sheri Haemmelmann (Sheri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Sheri Haemmelmann"
+date "Jan 14, 2012"
+description "your totally wicked dude"
+difficulty 1.5
+height 15
+id 17150
+link "https://webpbn.com/play.cgi?id=17150"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 2.0
+title "habito - I live in, dwell"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 3
+black 1 green 1 black 1 black 1
+black 2 green 1 black 1 black 1
+black 1 black 1 green 1 black 1 black 1
+black 11
+black 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 black 3
+black 1 black 3 black 1 green 1 black 1
+black 1 black 3
+black 1 red 3 black 1
+black 1 red 1 green 1 red 1 black 1
+black 1 red 1 blue 1 red 1 black 1
+black 1 red 1 green 1 red 1 black 1
+black 9
+
+columns
+black 1
+black 11
+black 1 black 1 black 1
+black 7 black 1
+black 1 green 3 black 1 blue 2 black 1 red 4 black 1
+black 9 red 1 green 1 blue 1 green 1 black 1
+black 1 black 1 red 4 black 1
+black 1 black 1 black 3 black 1
+black 1 black 1 black 1 green 1 black 1 black 1
+black 11
+black 1

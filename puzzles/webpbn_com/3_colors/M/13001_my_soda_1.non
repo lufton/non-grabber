@@ -1,0 +1,56 @@
+by "harley (moyo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by harley"
+date "Mar 24, 2011"
+description "can of pepsi"
+difficulty 1.25
+height 25
+id 13001
+link "https://webpbn.com/play.cgi?id=13001"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "my soda #1"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 3 black 4 blue 3
+blue 1 black 1 black 1 blue 1
+blue 1 black 8 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 blue 1
+blue 1 black 1 black 5 blue 1
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 4 black 1 blue 1
+blue 1 blue 1
+blue 1 black 4 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 8 blue 1
+blue 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 2 black 1 blue 1
+blue 1 black 1 black 2 black 1 blue 1
+blue 1 black 8 blue 1
+blue 1 blue 1
+blue 1 black 4 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 blue 1
+blue 1 black 8 blue 1
+blue 10
+
+columns
+blue 25
+blue 1 black 3 black 4 black 4 black 4 black 4 blue 1
+blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+black 1 black 1 black 4 black 4 black 3 black 4 blue 1
+black 1 black 1 black 1 black 1 black 3 black 1 blue 1
+black 1 black 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 1 black 1 black 1 black 1 blue 1
+blue 1 black 3 black 4 black 1 black 4 black 1 blue 1
+blue 25

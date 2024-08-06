@@ -1,0 +1,53 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Feb  8, 2011"
+description "new hi-liters"
+difficulty 1.25
+height 15
+id 12113
+link "https://webpbn.com/play.cgi?id=12113"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "wcp #77 fresh from the box"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 green 1 blue 1
+red 3 green 3 blue 3
+red 3 green 3 blue 3
+red 3 green 3 blue 3
+black 3 black 3 black 3
+black 3 black 3 black 3
+black 3 black 3 black 3
+black 1 red 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 red 1 black 1 black 1 green 1 black 1 black 1 blue 1 black 1
+black 3 black 3 black 3
+black 3 black 3 black 3
+black 3 black 3 black 3
+
+columns
+0
+red 3 black 11
+red 4 black 3 red 1 red 1 red 1 black 3
+red 3 black 11
+0
+0
+green 3 black 11
+green 4 black 3 green 1 green 1 green 1 black 3
+green 3 black 11
+0
+0
+blue 3 black 11
+blue 4 black 3 blue 1 blue 1 blue 1 black 3
+blue 3 black 11
+0

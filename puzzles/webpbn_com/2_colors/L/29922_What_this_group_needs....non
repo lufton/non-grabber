@@ -1,0 +1,77 @@
+by "Al LaPointe (kancamagus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Al LaPointe"
+date "Jun 17, 2017"
+description "...is a binary operation. The group in question is the dihedral group on 3 vertices, D3, AKA the six symmetries of an equilateral triantle. This puzzle is the "multiplication table" for that group."
+difficulty 2.25
+height 30
+id 29922
+link "https://webpbn.com/play.cgi?id=29922"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "What this group needs..."
+width 30
+
+rows
+1
+1,1,2,3,1,2,3
+1,1,1,1
+1
+30
+1
+1
+1,1,1,2,3,1,2,3
+1,1,1,1
+1
+1
+2,1,2,3,1,3,1,2
+1,1,1,1
+1
+1
+3,1,3,1,2,2,3,1
+1,1,1,1
+1
+1
+1,1,1,2,3,1,2,3
+1,1,1,1,1
+1
+1
+2,1,2,3,1,3,1,2
+1,1,1,1,1
+1
+1
+3,1,3,1,2,2,3,1
+1,1,1,1,1
+1
+
+columns
+1
+1,1,1,1,2,2,2
+1,1,1,1,1
+1,1,1
+1
+30
+1
+1,1,1,2,2
+1,1,1,1,1,2,1,1
+1,1,1
+1
+1,1,1,1,2,2
+1,1,1,1,1,1,1,2
+1,1,1
+1
+1,1,1,1,2,2
+1,1,1,1,1,1,2,1
+1,1,1,1
+1
+1,2,2,1,1
+2,1,2,1,1,1,1,1
+1,1,1
+1
+2,1,2,2,1,1
+1,1,1,2,1,1,1,1
+1,1,1
+1
+2,1,2,2,1,1
+1,1,1,1,2,1,1,1
+1,1,1,1

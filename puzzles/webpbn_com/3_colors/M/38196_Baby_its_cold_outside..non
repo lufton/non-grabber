@@ -1,0 +1,61 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Wombat"
+date "Jan 17, 2024"
+description "When you're leaving a faucet on to keep your pipes from freezing, make sure your drain isn't clogged, or that will freeze up instead."
+difficulty 1.0
+height 20
+id 38196
+link "https://webpbn.com/play.cgi?id=38196"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Baby, it's cold outside."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 11
+black 13
+black 15
+black 17
+black 5 black 5
+black 4 black 4
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+black 4 blue 2
+
+columns
+0
+black 16
+black 17
+black 18
+black 19
+black 5
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+black 4
+black 5
+black 6
+black 5 blue 13
+black 4 blue 13
+black 3
+0
+0

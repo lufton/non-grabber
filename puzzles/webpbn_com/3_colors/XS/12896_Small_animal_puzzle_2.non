@@ -1,0 +1,37 @@
+by "Liz P (lizteach)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Liz P"
+date "Mar 20, 2011"
+description "Hello, kitty."
+difficulty 1.25
+height 7
+id 12896
+link "https://webpbn.com/play.cgi?id=12896"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Small animal puzzle #2"
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 2 red 3 black 1
+black 1 red 3
+black 1 black 1 black 1 red 1 black 1
+black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 5 black 1
+
+columns
+black 1 black 1 black 1
+black 2 black 1 black 1
+black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+red 1 black 1 black 1
+red 2 black 1
+red 3 black 1 black 1
+black 1 red 1 black 1 black 1 black 1

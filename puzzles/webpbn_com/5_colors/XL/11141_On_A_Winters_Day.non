@@ -1,0 +1,103 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Nov 26, 2010"
+description "Ice Skating"
+difficulty 2.0
+height 40
+id 11141
+link "https://webpbn.com/play.cgi?id=11141"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "On A Winter's Day"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 5 green 5
+green 1 green 2 green 1 green 2 green 2 green 2 green 4
+green 3 green 2 green 4 green 5 green 4 green 2
+green 1 green 2 green 1 green 1 green 2 green 1 green 2 green 2 green 2 green 1
+green 2 green 2 green 7 green 5
+green 4 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+blue 1 blue 5
+blue 14 blue 9 black 1 blue 2
+blue 35 black 1 blue 3
+blue 33 blue 2 red 1 blue 2
+blue 34 red 1 blue 1 red 1 blue 1 red 1 blue 1
+blue 35 red 3 blue 2
+blue 36 red 1 blue 3
+blue 32 red 1 blue 2 red 3 blue 2
+blue 32 red 6 blue 2
+blue 37 red 1 blue 2
+blue 10 black 2 blue 25 red 1 blue 2
+blue 6 blue 3 black 1 blue 13 black 1 blue 11 red 2 blue 1
+blue 7 red 1 blue 2 red 1 blue 11 blue 1 black 1 black 1 blue 1 blue 11
+blue 8 red 5 blue 10 green 1 blue 1 green 1 blue 2 green 1 blue 11
+blue 10 red 2 blue 1 red 1 blue 10 green 4 blue 12
+blue 10 red 2 blue 1 blue 1 red 2 blue 8 green 1 blue 14
+blue 9 red 4 blue 2 red 1 blue 8 green 3 blue 13
+blue 9 red 2 blue 1 red 3 blue 9 green 3 blue 13
+blue 9 red 1 blue 14 green 1 blue 1 green 1 blue 13
+blue 9 red 1 blue 14 green 1 blue 1 green 1 blue 13
+blue 9 red 1 blue 14 green 1 blue 1 green 1 blue 13
+blue 8 red 2 blue 13 green 2 blue 1 green 2 blue 12
+blue 40
+blue 40
+blue 39
+blue 4 blue 10 blue 9 blue 5
+0
+0
+0
+0
+0
+
+columns
+green 3 blue 22
+green 2 green 2 blue 26
+green 1 green 2 green 1 black 3 blue 25
+green 2 green 3 blue 25
+green 2 green 2 blue 25
+green 2 blue 24
+blue 10 blue 13
+blue 11 red 1 blue 12
+blue 12 red 1 blue 7 red 1 blue 4
+blue 12 red 1 blue 2 red 6 blue 4
+blue 9 black 1 red 6 blue 8
+blue 9 black 2 blue 1 red 4 blue 9
+green 1 blue 12 red 1 blue 2 red 2 blue 8
+green 2 blue 13 red 1 blue 1 red 1 blue 8
+green 2 green 1 blue 16 red 1 blue 8
+green 1 green 3 blue 13 red 2 blue 9
+green 2 green 2 blue 13 red 1 blue 10
+green 3 green 1 black 4 blue 24
+green 1 green 3 blue 23
+green 3 green 1 blue 23
+green 4 blue 24
+green 2 blue 24
+blue 10 blue 13
+blue 11 green 1 blue 7 green 1 blue 4
+blue 10 black 1 blue 1 green 1 blue 1 green 6 blue 4
+blue 9 black 1 green 5 blue 8
+blue 10 black 1 blue 1 green 1 blue 1 green 6 blue 4
+blue 13 green 1 blue 6 green 1 blue 4
+blue 11 green 1 blue 12
+blue 24
+green 3 blue 24
+green 5 blue 24
+green 1 green 1 green 1 blue 6 red 2 blue 16
+green 5 black 3 blue 2 blue 4 red 1 blue 16
+green 2 green 2 blue 4 red 1 blue 3 red 1 blue 17
+green 3 green 1 blue 2 black 1 blue 2 red 1 blue 1 red 2 blue 17
+green 3 blue 1 black 1 red 6 blue 17
+blue 5 red 1 blue 1 red 5 blue 14
+blue 4 red 1 blue 6 red 1 blue 14
+blue 1 blue 21

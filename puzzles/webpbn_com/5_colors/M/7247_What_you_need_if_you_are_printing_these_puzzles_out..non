@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Nov 28, 2009"
+description "A Multicolor pencil."
+difficulty 1.75
+height 20
+id 7247
+link "https://webpbn.com/play.cgi?id=7247"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "What you need if you are printing these puzzles out."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 1 black 2 black 1
+black 1 black 3
+black 1 black 1
+black 1 black 2
+black 2 black 2
+black 4
+black 3
+blue 3 black 2
+blue 2 red 2 green 1
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 2
+blue 2 red 2 green 1
+blue 2 red 2 green 2
+
+columns
+0
+blue 1
+blue 3
+blue 3 red 1
+blue 2 red 3
+blue 2 red 3 green 1
+blue 2 red 2 green 3
+blue 2 red 2 green 2
+blue 1 red 2 green 2
+blue 1 red 1 green 2
+black 9 green 2
+black 3 black 4
+black 3 black 1 black 2
+black 1 black 1 black 2
+black 1 black 2
+black 3
+black 3
+black 3
+black 3
+black 1

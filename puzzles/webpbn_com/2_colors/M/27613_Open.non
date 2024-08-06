@@ -1,0 +1,67 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.25
+height 25
+id 27613
+link "https://webpbn.com/play.cgi?id=27613"
+note "published,may be unique,may require moderate lookahead"
+quality 3.25
+title "Open"
+width 25
+
+rows
+0
+5
+2,2
+1,1
+1,3,1
+3,3,1,1
+5,2,1
+1,1,1,1
+5,7,5
+1,1,1,1
+1,2,1,1
+1,1,1,1
+3,2
+2
+5,2
+2
+3,2
+2
+5,2
+1,3,1
+1,3,1
+6,9
+0
+0
+0
+
+columns
+0
+1,1
+1,1,1,1
+5,1,1,4
+1,1,1,1,1,1
+4,1,1,1,1
+2,2,1,1
+1,5,1
+1,1,1,2
+1,5,1
+2,2,1,2
+4,1,1
+1,1
+1,1
+2,1,2,1
+5,1
+1
+7,1
+1,1
+1,1
+1,1,1,1,1
+14
+1,1,1,1
+0
+0

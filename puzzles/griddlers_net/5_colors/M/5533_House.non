@@ -1,0 +1,62 @@
+by "LuB"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/1/03"
+height 20
+id 5533
+link "https://www.griddlers.net/nonogram/-/g/5533"
+medium_time "0:05:14"
+points 1059
+popularity 52.9
+title "House"
+width 20
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color e fffe00
+color h 000000
+
+rows
+0
+e 3
+e 5
+e 7 b 2 h 2
+e 7 b 4 h 2
+e 5 b 6 h 1
+e 3 b 8
+b 2 h 6 b 2
+b 2 h 6 b 2
+h 2 h 2
+h 2 h 2
+h 6
+c 5 h 6
+c 10 h 3
+c 4 c 3 h 2
+c 3 c 5
+c 3 c 6
+c 2 c 5
+c 1 c 4
+c 3
+
+columns
+c 3
+e 2 c 3
+e 4 c 3
+e 6 c 3
+e 6 c 2
+e 6 c 3
+e 4 c 2
+e 2 c 2
+b 2 c 2
+b 3 c 2
+b 2 h 6 c 1
+b 3 h 6 c 2
+b 4 h 2 h 2 c 2
+b 4 h 2 h 3 c 2
+b 3 h 8 c 2
+h 2 b 2 h 8 c 3
+h 3 b 3 c 4
+b 2 c 5
+c 4
+c 4

@@ -1,0 +1,63 @@
+by "Mel (mlbontrager)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Mel"
+date "May 28, 2008"
+description "I was just playing around, and I thought this looked cute. Hope you enjoyed it! :)"
+difficulty 2.0
+height 22
+id 2860
+link "https://webpbn.com/play.cgi?id=2860"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "A Feathered Friend"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 5 black 4
+black 7 black 2 black 2
+black 9 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 blue 1 black 1 blue 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 4
+black 4 red 1 black 4 black 1 black 1
+black 3 red 1 black 3 black 1 red 2 black 1
+black 5 black 1 black 1
+black 7 black 1 black 1
+black 4 black 4 black 1 red 2 black 1
+black 4 black 4 black 1 black 1
+black 1 black 2 black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 red 2 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 red 2 black 1
+black 2 black 2 black 1 black 1
+black 3 black 3 black 1 black 1
+black 7 black 1 red 2 black 1
+black 5 black 1 black 1
+red 3 red 3 black 2 black 2
+
+columns
+black 5
+black 2
+black 5 black 9
+black 2 black 2 black 4 black 4 red 1
+black 3 blue 1 black 5 black 3 red 1
+black 3 black 4 black 2 red 1
+black 6 red 2 black 2 black 2
+black 3 black 4 black 2 red 1
+black 3 blue 1 black 5 black 3 red 1
+black 2 black 2 black 4 black 4 red 1
+black 5 black 9
+black 2
+black 5
+black 4 black 1
+black 2 black 18
+black 1 black 1 red 1 red 1 red 1 red 1 red 1
+black 1 black 1 red 1 red 1 red 1 red 1 red 1
+black 2 black 18
+black 4 black 1

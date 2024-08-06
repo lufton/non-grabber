@@ -1,0 +1,69 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Dec 27, 2004"
+description "A royal guard, not smiling."
+difficulty 1.75
+height 35
+id 139
+link "https://webpbn.com/play.cgi?id=139"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "On Guard"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 7
+black 7
+black 7
+black 7
+black 1 black 7
+black 1 black 7
+black 1 black 7
+black 1 black 7
+black 1 black 1 black 1
+black 1 black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 3
+black 1 black 1 black 1
+black 3 red 5 black 2 red 1
+red 1 black 1 red 4 red 6
+red 1 black 1 red 11
+red 1 black 2 red 3 red 6
+red 1 black 2 red 7 black 1 red 2
+red 1 black 2 red 3 red 3 black 1 red 2
+red 1 black 2 red 7 black 1 red 2
+red 1 black 2 red 3 red 3 black 1 red 2
+red 1 black 2 red 7 black 1 red 2
+red 1 black 2 black 1 red 2
+red 1 black 2 black 1 red 2
+red 1 black 1 red 7 black 1 red 2
+black 1 black 1 red 2 red 2 black 1 black 1
+black 1 black 1 red 2 red 2 black 1 black 1
+black 2 red 3 red 3 black 2
+red 5 red 5
+black 9
+black 9
+black 4 black 4
+black 4 black 4
+black 4 black 4
+
+columns
+red 11 black 2
+black 20 black 1 red 1
+black 1 red 2 black 9 black 1 red 1 black 5
+black 8 black 1 red 8 red 1 black 2 red 2 black 5
+black 12 red 9 red 5 black 5
+black 9 black 1 black 2 red 9 red 5 black 5
+black 9 black 2 red 1 red 1 red 1 red 1 red 1 red 1 black 2
+black 9 black 1 black 2 red 9 red 5 black 5
+black 12 red 9 red 5 black 5
+black 8 black 1 red 8 red 1 black 2 red 2 black 5
+black 1 red 3 black 8 black 1 red 1 black 5
+red 12 black 1 red 1
+red 11 black 2

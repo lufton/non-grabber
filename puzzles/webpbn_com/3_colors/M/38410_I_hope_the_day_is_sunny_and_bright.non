@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Mar 27, 2024"
+description "April 8, 2024 across the US from Texas to Maine."
+difficulty 1.25
+height 20
+id 38410
+link "https://webpbn.com/play.cgi?id=38410"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "I hope the day is sunny and bright"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 11 black 2 black 1 red 1
+black 11 black 3 black 1 red 1 black 1
+black 11 black 3 black 1 red 1 black 2
+black 14 red 1 black 2
+black 15 red 1 black 3
+black 14 red 1 black 3
+black 13 red 1 black 4
+black 12 red 1 black 5
+black 11 red 1 black 6
+black 9 red 1 black 6
+black 7 red 1 black 6
+black 5 red 1 black 7
+black 3 red 1 black 3 black 2
+black 1 red 1 black 5 black 2
+black 3 black 2
+black 2
+black 1
+0
+
+columns
+black 7
+black 9
+black 10
+black 11
+black 11
+black 12
+black 14
+black 13
+black 13 red 1
+black 12 red 1 black 2
+black 10 red 2 black 4
+black 6 red 1 black 7
+black 7 red 1 black 5
+black 6 red 2 black 4 black 1
+black 3 black 1 red 1 black 6
+red 1 black 7
+black 1 red 1 black 9
+black 1 red 1 black 7 black 4
+black 1 red 1 black 3 black 2 black 2
+red 1 black 2

@@ -1,0 +1,51 @@
+by "starch"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/7/07"
+height 15
+id 45471
+link "https://www.griddlers.net/nonogram/-/g/45471"
+medium_time "0:03:20"
+points 2350
+popularity 63.64
+title "Jellyfish"
+width 15
+
+color a 99ccff
+color b 000000
+color c aaaaaa
+color d ffffff
+
+rows
+b 3
+b 2 d 3 b 2
+b 1 d 2 c 1 d 1 c 1 d 2 b 1
+b 1 d 2 c 1 d 1 c 1 d 1 c 1 b 1
+b 1 d 1 c 6 b 1
+b 7
+b 1 b 1 b 1
+b 1 b 1 b 1
+b 2 b 2 b 1
+b 6 b 2 b 2
+b 2 b 1
+b 6 b 2
+b 2
+b 5
+0
+
+columns
+b 1
+b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1 b 1
+b 3 b 1 b 1 b 1
+b 1 d 3 b 1 b 1 b 2 b 1
+b 1 d 2 c 1 b 3 b 2 b 1
+b 1 d 1 c 3 b 1 b 2 b 2
+b 1 d 3 c 1 b 4 b 2
+b 1 d 1 c 3 b 1 b 3
+b 1 d 2 c 1 b 5
+b 1 d 1 c 2 b 1
+b 3

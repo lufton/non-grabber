@@ -1,0 +1,63 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gator"
+date "Feb 15, 2010"
+description "View from the top of the second hill of the Magnum XL-200 roller coaster at Cedar Point. This is a view looking out over Lake Erie. The bottom right is the inside of the car. The red above is the track with black support bars. The white dots in the water are boats on Lake Erie. The black bar towards the top is a sand bar that juts out into the lake. The red/blue on the left are more parts of the roller coaster that you will get to later. The green parts are trees. The white along the top is the sky. More information in the comments."
+difficulty 2.25
+height 20
+id 7836
+link "https://webpbn.com/play.cgi?id=7836"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "#53 WCP - One minute to the top"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 6
+blue 19
+blue 4 black 6 blue 6 blue 3
+black 4 blue 16
+blue 11 blue 7
+blue 4 blue 14
+blue 8 red 1 blue 3 red 1 blue 5
+blue 7 red 5 blue 3 blue 1
+green 1 blue 6 red 1 red 1 red 1 blue 5
+green 2 blue 3 black 2 red 5 blue 5
+red 2 blue 1 black 1 blue 2 red 1 red 1 red 1 black 1 blue 4
+red 1 black 1 black 1 blue 1 red 5 blue 5
+red 1 blue 1 red 1 black 1 black 1 blue 1 red 1 red 1 black 7
+blue 2 green 1 black 1 black 1 red 1 black 9
+blue 2 black 1 black 4
+blue 1 black 2 black 3
+black 4
+black 3
+black 3
+black 9
+
+columns
+blue 3 black 1 green 2 red 1
+blue 3 black 1 blue 2 green 1 red 1 blue 2
+blue 3 black 1 blue 3 red 1 blue 2
+blue 3 black 1 blue 4 red 2 blue 2 black 1
+blue 2 black 1 blue 6 green 1 black 1 black 2
+blue 2 black 1 blue 2 blue 4 black 3 black 3
+blue 1 black 1 blue 8 black 2 black 4
+blue 1 black 1 blue 7 black 1 black 2 black 1
+blue 1 black 1 blue 6 black 1 blue 1 black 3 black 2 black 1
+blue 1 black 1 blue 6 black 1 blue 3 black 3 black 1
+blue 5 red 8 black 2 black 1
+blue 6 red 1 red 1 red 1 black 2 black 1
+blue 3 blue 2 red 6 black 2
+blue 6 red 1 red 1 red 1 black 2
+blue 5 red 6 black 2
+blue 9 black 1 blue 1 black 2
+blue 1 blue 9 black 2
+blue 11 black 2
+blue 6 blue 4 black 2
+blue 10 black 2

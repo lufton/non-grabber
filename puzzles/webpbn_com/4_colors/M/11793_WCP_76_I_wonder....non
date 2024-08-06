@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Jan 17, 2011"
+description "Who is going to get out of that little car?"
+difficulty 1.25
+height 20
+id 11793
+link "https://webpbn.com/play.cgi?id=11793"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP 76 I wonder..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+red 4
+red 3 blue 2 red 1
+red 3 blue 2 red 1
+red 10
+red 12
+red 1 black 2 red 6 black 2 red 1
+black 2 black 2
+0
+
+columns
+0
+red 2
+red 2 black 2
+red 2 black 2
+red 5
+red 6
+red 6
+red 1 blue 2 red 3
+red 1 blue 2 red 3
+red 5
+red 2 black 2
+red 2 black 2
+red 2
+0
+0
+0
+0
+0
+0
+0

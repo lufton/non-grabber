@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Mar 30, 2013"
+description "bread and butter"
+difficulty 2.75
+height 20
+id 21541
+link "https://webpbn.com/play.cgi?id=21541"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "goes together like....(5) not LLS..."
+width 20
+
+rows
+7
+3,1
+3,1
+3,2
+3,2
+2,2
+1,2
+1,1
+3,1
+1,1,2,4
+3,1,2,1
+1,2,1,2,2
+1,4,2,1,3
+2,2,2,1,1,1
+8,1,2,1
+1,1,3,6,1
+5,1,1,1
+1,2,2,1,1,1
+2,1,1,3,1
+12
+
+columns
+6,3,1,2
+3,1,1,2,1,1
+3,3,1,4
+3,3,1,2
+3,4,1
+2,5
+1,2
+1,2
+1,2,2
+1,2,1,1
+4,1,5
+2,1,2,1
+2,1,1,1,1
+2,1,2,1,1
+6,5
+1,2,2
+1,2,2
+1,1,1,1
+1,2,1,1
+7,3

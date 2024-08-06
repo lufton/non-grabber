@@ -1,0 +1,74 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Feb 27, 2014"
+description "...Pot holes...Can't keep up with filling them in. (worse at night when you can't see them)"
+difficulty 2.25
+height 23
+id 23926
+link "https://webpbn.com/play.cgi?id=23926"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Obstacle course..."
+width 28
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 3
+red 4 red 1
+black 2 red 7
+black 1 blue 1 red 2 red 2
+black 1 red 1 black 2 black 2 red 1
+black 1 red 11
+green 5 red 2 black 4 black 1 red 2
+green 7 red 2 black 9 red 2
+green 2 green 3 green 2 red 2 black 5 black 5 red 2
+green 1 green 3 green 2 red 1 black 8 black 2 red 1
+black 1 green 1 black 8 green 1 black 6 black 7 red 1
+blue 4 red 1 red 1 black 6 black 4 red 1 red 1
+blue 5 red 2 black 9 red 2
+blue 2 blue 3 red 10 black 2 red 5
+blue 2 blue 2 red 17
+blue 2 blue 2 black 3 black 5 black 3
+blue 2 blue 2 black 3 black 3
+black 3 black 3 black 3 black 3
+black 2
+black 4 black 3 black 4
+black 3 black 5 black 5
+black 6 black 3
+black 3
+
+columns
+black 1 black 2
+green 3 black 3
+green 2 black 1 black 3
+green 2 black 1 black 1
+red 2 black 3 green 4 black 1 blue 6 black 1
+red 2 black 1 black 1 green 4 black 1 blue 6 black 1
+red 2 blue 1 green 4 black 1 blue 2 black 1
+red 1 green 2 black 1 blue 3
+green 2 black 1 blue 5 black 1
+green 2 black 1 blue 4 black 1 black 2
+green 2 black 1 black 3
+red 2 black 1 red 4 black 3
+red 2 black 1 red 3 black 3 black 4
+red 2 black 1 red 1 red 2 black 3 black 3
+red 2 black 4 red 2 black 3 black 2
+red 3 black 6 red 2
+red 2 red 1 black 6 red 2
+red 1 black 1 red 1 black 4 black 2 red 2 black 1
+red 1 black 1 red 1 black 7 red 2 black 1
+red 2 red 1 black 2 black 4 red 2 black 1
+red 1 black 1 red 1 black 5 black 1 red 2 black 1 black 1
+red 1 black 1 red 1 black 7 red 1 black 1 black 3
+red 2 red 1 black 3 black 4 red 1 black 3
+red 3 black 6 red 2 black 3
+red 2 black 4 red 2 black 3 black 2
+red 2 red 1 red 2 black 3
+red 2 red 3 black 3
+red 7

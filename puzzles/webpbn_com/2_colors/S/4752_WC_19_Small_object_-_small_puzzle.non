@@ -1,0 +1,43 @@
+by "K Chouinard (codenumerator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by K Chouinard"
+date "Jan 15, 2009"
+description "The key to my house. (Don't try to make a copy.)"
+difficulty 1.25
+height 17
+id 4752
+link "https://webpbn.com/play.cgi?id=4752"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WC #19: Small object - small puzzle"
+width 9
+
+rows
+3
+2,2
+2,2
+9
+9
+7
+1,1,1
+1,2
+1,1
+1,2
+1,1
+1,2
+1,2
+1,1
+1,2
+1,1
+1
+
+columns
+2
+4
+6
+2,3,9
+1,4,1
+2,3,9
+7,1,2,1
+4
+2

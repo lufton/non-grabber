@@ -1,0 +1,48 @@
+by "littlebabes"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/27/06"
+height 20
+id 33906
+link "https://www.griddlers.net/nonogram/-/g/33906"
+medium_time "0:00:40"
+points 284
+popularity 43.83
+title "Post Office Box"
+width 8
+
+color a ff0000
+color b 0000ff
+color h 000000
+
+rows
+h 8
+0
+b 1 b 1
+b 1 h 4 b 1
+b 1 h 4 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 h 4 b 1
+b 1 h 1 h 1 b 1
+b 1 h 1 h 1 b 1
+b 1 h 1 h 1 b 1
+b 1 h 1 h 1 b 1
+b 1 h 1 h 1 b 1
+b 1 h 1 h 1 b 1
+b 1 h 4 b 1
+b 1 b 1
+h 8
+h 8
+
+columns
+h 1 b 16 h 2
+h 1 h 2
+h 1 h 2 h 8 h 2
+h 1 h 2 h 1 h 1 h 2
+h 1 h 2 h 1 h 1 h 2
+h 1 h 2 h 8 h 2
+h 1 h 2
+h 1 b 16 h 2

@@ -1,0 +1,49 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 10, 2010"
+description "I was a deadeye with a shooter."
+difficulty 1.5
+height 18
+id 9125
+link "https://webpbn.com/play.cgi?id=9125"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "I remember peas."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 2
+black 4
+black 2 black 1
+black 5
+black 4
+black 7 green 1
+black 3 black 1
+black 6
+black 2 black 2
+black 1 black 1
+black 1 black 2
+black 4
+black 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2
+black 1
+black 2
+
+columns
+black 4 black 11
+black 9 black 2 black 1
+black 2 black 5 black 2
+black 15
+black 1 black 1 black 2 black 1
+black 3
+black 1
+black 1
+0
+green 1

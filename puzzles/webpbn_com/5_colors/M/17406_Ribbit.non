@@ -1,0 +1,63 @@
+by "Lindsay Marquis (LMarq78)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Lindsay Marquis"
+date "Jan 30, 2012"
+description "pretty frog face"
+difficulty 1.5
+height 20
+id 17406
+link "https://webpbn.com/play.cgi?id=17406"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Ribbit"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 2
+green 4 green 4
+green 2 blue 2 green 2 green 2 blue 2 green 2
+green 2 blue 2 green 8 blue 2 green 2
+green 14
+green 18
+green 9 black 2 green 9
+green 8 black 1 green 2 black 1 green 8
+green 4 red 1 green 2 black 1 green 4 black 1 green 2 red 1 green 4
+green 3 red 1 green 12 red 1 green 3
+green 2 red 2 green 12 red 2 green 2
+green 1 red 1 green 2 red 1 green 1 red 3 green 2 red 3 green 1 red 1 green 2 red 1 green 1
+green 5 red 10 green 5
+green 5 red 8 green 5
+green 5 red 6 green 5
+green 14
+green 12
+0
+0
+0
+
+columns
+green 7
+green 6 red 1 green 2
+green 2 green 5 red 1 green 4
+green 8 red 2 green 5
+green 2 blue 2 green 4 red 1 green 2 red 1 green 5
+green 2 blue 2 green 8 red 1 green 4
+green 10 red 3 green 3
+green 6 black 1 green 2 red 4 green 2
+green 4 black 1 green 3 red 4 green 2
+green 3 black 1 green 5 red 3 green 2
+green 3 black 1 green 5 red 3 green 2
+green 4 black 1 green 3 red 4 green 2
+green 6 black 1 green 2 red 4 green 2
+green 10 red 3 green 3
+green 2 blue 2 green 8 red 1 green 4
+green 2 blue 2 green 4 red 1 green 2 red 1 green 5
+green 8 red 2 green 5
+green 2 green 5 red 1 green 4
+green 6 red 1 green 2
+green 7

@@ -1,0 +1,62 @@
+by "Dan Tomlinson (themountainman)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Dan Tomlinson"
+date "Jan  6, 2018"
+description "Degrees black Minutes red Seconds green"
+difficulty 1.25
+height 20
+id 30703
+link "https://webpbn.com/play.cgi?id=30703"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Themountainman"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 1 black 3 black 3 red 1 red 1 red 1 red 1
+black 2 black 1 black 1 black 1 red 1 red 1 red 1 red 1
+black 4 black 2 black 3 red 3 red 3
+black 1 black 2 black 1 black 1 red 1 red 1
+black 1 black 1 black 3 black 3 red 1 red 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 green 3
+green 1 green 1
+green 1 green 1
+black 3 black 3 black 3 red 3 red 3
+black 1 black 1 black 1 black 1 red 1 red 1 red 1
+black 2 black 3 black 3 red 1 red 1 red 1
+black 1 black 1 black 1 black 1 red 1 red 1 red 1
+black 3 black 3 black 3 red 3 red 1
+green 1 green 1 green 1
+green 1 green 1 green 1
+green 1 green 3
+green 1 green 1
+green 1 green 1
+
+columns
+black 5 black 5
+black 2 black 1 black 1 black 1
+black 2 black 1 black 1
+black 5
+black 5
+black 1 black 1 green 5 black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 5
+black 5 green 3 green 3
+green 1 black 3 black 1 green 1
+black 3 black 1 green 5 black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 1 black 3
+black 1 black 3
+0
+red 3 red 5
+red 1 red 1 red 1
+red 5 red 5
+0
+red 3 red 1
+red 1 red 1
+red 5 red 5

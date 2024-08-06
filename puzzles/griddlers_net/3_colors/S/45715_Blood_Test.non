@@ -1,0 +1,55 @@
+by "aya"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/13/07"
+height 30
+id 45715
+link "https://www.griddlers.net/nonogram/-/g/45715"
+medium_time "0:01:12"
+points 300
+popularity 61.08
+title "Blood Test"
+width 5
+
+color a ffffff
+color b 000000
+color c ff0033
+
+rows
+c 1
+c 1
+c 1
+0
+0
+c 1
+c 1
+0
+c 1
+b 1
+b 1
+b 1
+b 1
+b 1
+b 1
+b 3
+b 5
+b 1 c 3 b 1
+b 1 c 1 b 3
+b 1 c 3 b 1
+b 1 c 3 b 1
+b 1 c 1 b 3
+b 1 c 3 b 1
+b 5
+b 1 b 1
+b 1 b 1
+b 5
+b 1
+b 3
+b 3
+
+columns
+b 11
+b 2 c 6 b 1 b 1 b 2
+c 3 c 2 c 1 b 8 c 1 b 1 c 2 b 1 c 1 b 1 b 4
+b 2 c 1 b 1 c 2 b 1 c 1 b 1 b 1 b 2
+b 11

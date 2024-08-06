@@ -1,0 +1,43 @@
+by "Jeltje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/20/04"
+height 10
+id 14258
+link "https://www.griddlers.net/nonogram/-/g/14258"
+medium_time "0:01:18"
+points 112
+popularity 44.52
+title "First Birthday"
+width 10
+
+color a ff75de
+color b ffe381
+color c 00ff00
+color d ffaa00
+color f ff230d
+color g fffefe
+
+rows
+d 1
+d 3
+c 1
+c 1
+f 1 c 1 f 1
+g 8
+d 1 g 1 f 1 g 3 f 1 g 2 d 1
+d 1 g 7 f 1 d 1
+d 1 f 1 g 2 f 1 g 4 d 1
+d 1 b 8 d 1
+
+columns
+d 4
+g 3 f 1 b 1
+f 1 g 1 f 1 g 2 b 1
+d 1 g 4 b 1
+d 2 c 3 g 3 f 1 b 1
+d 1 g 4 b 1
+g 1 f 1 g 2 b 1
+f 1 g 4 b 1
+g 2 f 1 g 1 b 1
+d 4

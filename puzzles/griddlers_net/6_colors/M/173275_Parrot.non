@@ -1,0 +1,63 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/29/16"
+height 25
+id 173275
+link "https://www.griddlers.net/nonogram/-/g/173275"
+medium_time "0:05:16"
+points 4203
+popularity 83.08
+title "Parrot"
+width 15
+
+color a ffffff
+color b 000000
+color c c98c00
+color d ff0000
+color e ffff33
+color f 0000ff
+
+rows
+b 3
+b 2 d 3 b 2
+b 1 d 7 b 1
+b 1 d 9 b 1
+b 1 d 9 b 1
+b 1 d 1 d 5 d 1 b 1
+b 1 b 3 b 1
+b 1 b 1 b 3 b 1 b 1
+b 1 d 1 b 3 d 1 b 1
+b 1 d 2 b 3 d 2 b 1
+b 1 d 3 b 3 d 3 b 1
+b 1 d 3 b 1 d 3 b 1
+b 1 e 1 d 7 e 1 b 1
+b 1 f 1 e 1 d 7 e 1 f 1 b 1
+b 1 f 2 d 7 f 2 b 1
+b 1 f 2 d 7 f 2 b 1
+b 1 f 1 b 1 d 3 b 1 d 3 b 1 f 1 b 1
+c 2 b 1 c 1 b 3 c 1 b 3 c 1 b 1 c 2
+c 15
+c 15
+b 1 d 3 b 1
+b 1 d 1 b 1
+b 1
+b 1
+b 1
+
+columns
+c 3
+b 4 b 4 c 3
+b 2 d 1 d 1 b 2 b 1 f 4 b 1 c 2
+b 1 d 2 d 2 b 1 e 2 f 2 b 1 c 3
+b 1 d 3 b 1 d 8 b 1 c 2
+b 1 d 4 d 7 b 1 c 2 b 1
+b 1 d 5 b 5 d 6 b 1 c 2 d 1 b 1
+b 1 d 5 b 6 d 4 b 1 c 3 d 2 b 3
+b 1 d 5 b 5 d 6 b 1 c 2 d 1 b 1
+b 1 d 4 d 7 b 1 c 2 b 1
+b 1 d 3 b 1 d 8 b 1 c 2
+b 1 d 2 d 2 b 1 e 2 f 2 b 1 c 3
+b 2 d 1 d 1 b 2 b 1 f 4 b 1 c 2
+b 4 b 4 c 3
+c 3

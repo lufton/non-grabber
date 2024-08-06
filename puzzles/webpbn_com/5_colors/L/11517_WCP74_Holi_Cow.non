@@ -1,0 +1,78 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Dec 20, 2010"
+description "Bob and Kate are caught out of doors during the festival of Holi. While heading back to their hotel they where hit numerous times by bags of powdered dye thrown by the revelers. Bob takes it in stride and joins in, caught here behind the wall of the hotel about to throw a bag of green. Kate is not amused. This is a brand new sari."
+difficulty 2.75
+height 25
+id 11517
+link "https://webpbn.com/play.cgi?id=11517"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP#74 Holi Cow!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 3 blue 1 blue 1
+black 3 green 1 black 1 black 2 blue 5 black 2
+red 2 black 1 green 2 blue 1 black 1 blue 5 blue 1 black 1 black 1
+red 3 black 1 green 2 blue 5 blue 5 blue 1 black 1
+black 1 red 3 black 2 black 1 green 1 blue 4 blue 1 green 2 blue 2 blue 2 black 2
+black 1 red 4 black 1 green 1 blue 3 black 1 blue 1 black 1 green 2 blue 1 red 1
+black 1 black 1 red 1 black 1 blue 3 black 1 black 6 blue 1 red 1
+black 2 black 1 blue 1 green 3 black 2 black 2 blue 1 red 1
+black 4 black 1 black 1 green 3 black 5 blue 1 black 1 red 1
+black 1 blue 2 black 1 green 1 black 1 green 2 black 1 blue 5 black 1 black 1
+black 1 blue 2 black 1 green 1 black 1 black 3 blue 3 red 1 black 1 green 2 black 1 black 1
+black 1 blue 1 black 2 green 2 black 1 red 2 blue 3 red 3 black 1 black 1
+blue 1 black 2 green 2 black 1 red 4 blue 1 red 1 blue 1 red 3 black 1
+blue 1 black 1 green 4 black 1 red 3 blue 2 red 5 black 2
+blue 2 black 1 green 4 black 1 red 3 red 5
+blue 3 black 1 green 3 black 1 red 5 red 4
+blue 2 black 1 green 2 black 1 red 3 black 1 red 4
+blue 2 black 1 green 2 black 1 black 1 red 2
+black 1 blue 1 black 1 blue 2 black 2 black 1 red 2
+black 1 black 1 blue 1 black 1 black 1 green 2 red 1
+black 1 black 1 blue 2 black 1 black 1 green 5
+black 1 red 2 blue 2 black 1 black 1 green 5
+black 1 red 4 blue 2 black 1 black 1 blue 3 green 6
+black 1 red 4 blue 3 black 1 black 1 blue 2 green 7
+
+columns
+red 2 black 3 blue 3 black 6
+black 1 red 4 black 4 blue 7 red 2
+black 1 red 3 black 3 blue 3 blue 2 red 2
+black 1 red 3 black 2 blue 2 black 7 red 3
+black 3 red 1 black 1 black 2 black 2 green 5 blue 1 black 2 red 3
+black 1 black 2 green 5 blue 3 blue 1
+green 5 blue 4
+green 2 black 2 green 6 black 4 blue 3
+green 5 blue 1 black 8 red 2 black 6
+black 2 blue 5 red 1 red 2
+black 1 blue 4 green 1 black 1 black 1 red 5
+black 2 blue 4 black 1 green 2 black 1 red 5 black 4
+black 2 blue 2 black 1 green 3 black 1 red 5 black 4 blue 2
+blue 1 black 1 green 2 blue 2
+black 2 black 1 blue 1 blue 1 green 1
+black 1 black 1 blue 3 green 2
+blue 5 black 1 black 1 blue 3 red 3 green 4
+blue 3 green 1 black 2 black 1 blue 4 red 4 green 5
+blue 4 green 2 black 3 blue 2 red 6 green 5
+blue 4 green 1 black 3 blue 1 red 8 green 4
+blue 10 red 10 green 4
+0
+black 2
+green 1
+green 1
+black 1 blue 3 red 3 black 3
+black 2 blue 1 red 1 black 2
+black 1 black 3 black 1
+black 3
+0

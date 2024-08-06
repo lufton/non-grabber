@@ -1,0 +1,64 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/7/06"
+height 25
+id 33310
+link "https://www.griddlers.net/nonogram/-/g/33310"
+medium_time "0:05:07"
+points 2383
+popularity 63.15
+title "Wizard"
+width 15
+
+color a ffffff
+color b ff0000
+color d 00009e
+color e a90000
+color f ffb2fe
+color g 808080
+color h 000000
+
+rows
+d 1
+d 2
+d 3 e 2
+d 3 e 1
+d 4 e 1
+d 6 e 1
+d 1 f 3 d 2 e 1
+f 3 d 1 f 1
+g 3 d 2 f 1
+d 1 g 3 d 4 e 1
+d 2 g 3 d 3 e 1
+f 2 d 6 g 1 d 2 e 1
+d 6 b 1 d 2 e 2
+d 2 d 2 b 1 d 2 e 1
+d 1 d 2 b 1 d 2 e 1
+d 3 b 1 d 3 e 1
+d 3 b 1 d 3 e 1
+d 3 b 1 d 3 e 1
+d 4 b 1 d 4 e 1
+d 4 b 1 d 4 e 1
+d 3 b 1 d 3 e 1
+d 2 d 2 e 1
+h 2 h 2 e 1
+h 4 h 4
+h 4 h 4
+
+columns
+f 1
+f 1
+d 4
+d 3
+d 2 d 2 h 2
+d 1 d 3 d 6 h 2
+d 3 d 13 h 3
+d 4 f 2 g 3 d 11 h 3
+d 5 f 2 g 4 b 9
+d 6 f 2 g 3 d 11 h 3
+d 2 d 13 h 3
+d 1 d 2 d 6 h 2
+d 3 d 2 e 2 h 2
+e 1 d 3 e 9
+e 5 f 2 e 4

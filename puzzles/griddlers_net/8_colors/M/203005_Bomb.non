@@ -1,0 +1,67 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/26/19"
+height 22
+id 203005
+link "https://www.griddlers.net/nonogram/-/g/203005"
+medium_time "0:07:07"
+points 4842
+popularity 84.9
+title "Bomb"
+width 20
+
+color a ffffff
+color b 000000
+color c 000099
+color d 3399ff
+color e cc0033
+color f ffcc33
+color g ffff66
+color h ff0000
+
+rows
+e 1
+e 1
+h 1 e 1 h 1
+b 3 e 1 f 1 e 1
+b 2 b 1 e 1 f 1 g 1 f 1 e 3
+b 2 b 1 g 1 f 1 e 1
+b 1 h 1 e 1 h 1
+b 5 e 1
+b 2 d 5 b 2 e 1
+b 1 d 9 b 1
+b 1 d 2 d 7 b 1
+b 1 d 1 d 6 b 1
+b 1 d 2 d 7 b 1
+b 1 d 3 d 7 c 1 b 1
+b 1 d 12 c 1 b 1
+b 1 d 12 c 1 b 1
+b 1 d 11 c 2 b 1
+b 1 d 10 c 1 b 1
+b 1 d 9 c 2 b 1
+b 1 d 6 c 3 b 1
+b 2 d 1 c 4 b 2
+b 5
+
+columns
+b 5
+b 2 d 5 b 2
+b 1 d 9 b 1
+b 1 d 2 d 7 b 1
+b 1 d 1 d 6 b 1
+b 1 d 2 d 7 b 1
+b 1 d 3 d 7 c 1 b 1
+b 3 d 12 c 1 b 1
+b 2 b 1 d 12 c 1 b 1
+b 2 b 1 d 11 c 2 b 1
+b 1 b 1 d 10 c 1 b 1
+b 1 b 1 d 9 c 2 b 1
+b 1 b 1 d 6 c 3 b 1
+h 1 e 1 b 1 b 2 d 1 c 4 b 2
+e 1 f 1 g 1 h 1 b 5
+e 3 f 1 g 1 f 1 e 3
+e 1 f 1 e 1
+h 1 e 1 h 1
+e 1
+e 1

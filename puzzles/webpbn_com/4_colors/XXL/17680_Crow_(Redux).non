@@ -1,0 +1,116 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Scarlet Noelle Masen"
+date "Feb 25, 2012"
+description "(Redone without the annoying black dots...)Well, he does crow. It's Peter Pan!"
+difficulty 1.75
+height 60
+id 17680
+link "https://webpbn.com/play.cgi?id=17680"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Crow? (Redux)"
+width 34
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 34
+blue 34
+blue 12 black 3 green 2 blue 3 green 6 blue 8
+blue 11 black 5 green 10 blue 2 black 5 blue 1
+blue 10 black 8 green 8 black 4 blue 4
+blue 10 black 9 green 6 black 4 blue 5
+blue 9 black 2 black 8 green 4 black 3 blue 7
+blue 10 black 1 black 7 green 2 black 4 blue 8
+blue 11 black 2 black 1 black 3 green 2 blue 10
+blue 11 black 1 black 1 green 3 blue 10
+blue 11 black 1 green 3 blue 10
+blue 10 black 3 green 1 blue 11
+blue 10 black 2 blue 10
+blue 11 black 1 blue 11
+blue 11 blue 12
+blue 12 black 4 blue 13
+blue 13 black 4 blue 14
+blue 12 green 1 black 1 blue 17
+blue 9 green 4 green 3 blue 16
+blue 7 green 5 green 5 blue 15
+blue 5 green 7 green 7 blue 14
+blue 6 green 1 green 4 green 8 blue 13
+blue 5 green 14 blue 12
+blue 4 green 2 blue 1 green 9 blue 11
+blue 4 green 1 blue 2 green 6 blue 2 green 2 blue 11
+blue 5 blue 2 green 6 blue 2 blue 11
+blue 5 blue 1 green 6 blue 2 blue 11
+blue 6 blue 1 green 5 blue 1 blue 13
+blue 7 black 5 blue 15
+blue 7 green 6 blue 17
+blue 7 green 6 blue 16
+blue 7 green 7 blue 16
+blue 8 green 8 blue 16
+blue 8 green 9 blue 17
+blue 8 green 9 blue 17
+blue 8 green 9 blue 17
+blue 8 green 9 blue 17
+blue 8 green 4 blue 1 green 4 blue 17
+blue 8 green 4 blue 1 green 4 blue 17
+blue 8 green 3 blue 3 green 3 blue 17
+blue 8 green 3 blue 3 green 4 blue 16
+blue 8 green 3 blue 3 green 4 blue 16
+blue 8 green 3 blue 4 green 3 blue 16
+blue 8 green 3 blue 4 green 4 blue 15
+blue 8 green 3 blue 4 green 4 blue 15
+blue 8 green 3 blue 5 green 4 blue 14
+blue 8 green 3 blue 5 green 4 blue 14
+blue 7 green 3 blue 6 green 4 blue 14
+blue 7 green 3 blue 6 green 4 blue 14
+blue 7 green 3 blue 7 green 3 blue 14
+blue 5 black 2 green 2 black 1 blue 7 green 3 blue 1 black 1 blue 12
+blue 6 black 2 green 1 black 1 blue 8 green 2 black 2 blue 12
+blue 5 black 5 blue 7 black 1 green 1 black 2 blue 13
+blue 3 black 7 blue 7 black 1 green 1 black 2 blue 13
+blue 1 black 9 blue 8 black 4 blue 12
+black 6 blue 12 black 5 blue 11
+blue 19 black 5 blue 10
+blue 20 black 5 blue 9
+blue 21 black 4 blue 9
+blue 34
+
+columns
+blue 55 black 1 blue 4
+blue 54 black 2 blue 4
+blue 54 black 2 blue 4
+blue 53 black 3 blue 4
+blue 23 blue 28 black 3 blue 4
+blue 20 green 1 blue 1 blue 23 black 1 blue 1 black 4 blue 4
+blue 20 green 2 blue 22 black 5 blue 5
+blue 19 green 2 green 2 blue 15 green 4 black 4 blue 5
+blue 19 green 5 blue 2 green 21 black 3 blue 5
+blue 6 black 1 blue 11 green 5 blue 5 green 21 black 5 blue 5
+blue 4 black 4 blue 3 blue 5 green 10 black 1 green 18 blue 13
+blue 3 black 3 blue 3 green 10 black 1 green 10 blue 21
+blue 2 black 5 blue 1 green 2 green 6 black 1 green 8 blue 23
+blue 2 black 8 green 8 black 1 green 10 blue 21
+blue 2 black 7 green 9 black 1 green 13 blue 18
+blue 2 green 1 black 5 green 9 blue 1 green 13 blue 15
+blue 2 green 2 black 5 black 2 green 6 blue 3 green 16 blue 11
+blue 3 green 1 black 4 black 2 blue 1 green 6 blue 3 blue 1 blue 7 green 11 blue 1 black 2 blue 6
+blue 3 green 2 black 3 black 2 blue 2 green 6 blue 14 green 11 black 2 blue 4
+blue 3 green 3 black 3 black 3 black 2 blue 3 green 3 green 1 blue 17 green 7 black 5 blue 3
+blue 2 green 6 black 5 black 1 blue 5 green 2 blue 23 black 7 blue 2
+blue 2 green 6 black 1 green 2 black 1 blue 7 green 1 blue 23 black 2 blue 2 black 5 blue 1
+blue 2 green 5 black 1 green 4 blue 9 blue 28 black 4 blue 1
+blue 2 green 5 black 1 green 3 blue 1 blue 43 black 3 blue 1
+blue 2 green 4 black 2 blue 49 black 2 blue 1
+blue 2 green 3 black 3 blue 52
+blue 4 black 3 blue 53
+blue 4 black 2 blue 54
+blue 3 black 3 blue 54
+blue 3 black 2 blue 55
+blue 3 black 1 blue 56
+blue 3 black 1 blue 56
+blue 3 black 1 blue 56
+blue 60

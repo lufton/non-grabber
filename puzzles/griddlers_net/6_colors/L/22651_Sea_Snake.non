@@ -1,0 +1,83 @@
+by "mopi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/28/05"
+height 15
+id 22651
+link "https://www.griddlers.net/nonogram/-/g/22651"
+medium_time "0:24:00"
+points 13484
+popularity 75.0
+title "Sea Snake"
+width 45
+
+color a c7c5fe
+color b 00b200
+color c 037900
+color d 000000
+color e fffefe
+color f 0000fe
+
+rows
+b 1
+c 1 c 1 b 1
+b 1 c 1 c 1 c 3 b 4 b 1
+b 2 b 1 c 2 c 2 b 6 b 3 c 1 d 1 b 3 d 1 b 1
+b 3 c 1 b 1 c 1 b 2 b 3 c 1 b 1 c 1 b 1 c 1 b 1 c 2 b 1 c 1 b 1 c 7 b 1
+b 2 c 2 b 5 c 2 c 1 b 1 c 1 b 7 c 1 c 1 b 3 c 1 b 2 e 4
+b 2 c 1 b 4 b 1 c 2 b 4 b 2 c 1 b 1 c 1 b 1 c 1 b 2 b 1 c 1 e 2 b 1
+b 5 b 3 b 1 c 1 b 1 b 3 c 2 b 4 b 3
+b 2 b 1 c 3 b 4 b 1 c 1 b 1 c 1 c 1 b 1 c 1 b 2
+b 3 c 1 b 1 c 1 b 2 b 3 c 2 b 5
+b 3 c 1 b 1 b 4 b 1 c 1 b 2 b 2 c 1 b 3
+f 1 b 5 f 1 b 2 c 1 b 1 f 1 b 3 f 2 f 1 f 1 b 6 f 1
+f 2 b 4 c 2 f 2 b 1 c 1 b 1 f 3 b 1 f 1 b 2 f 4 f 1 b 1 f 3 b 3 f 3
+f 6 b 1 f 1 b 1 f 1 b 1 f 6 b 1 f 1 b 1 f 5 b 1 f 7 b 1 f 3 b 3 f 5
+f 36 b 1 f 8
+
+columns
+f 2
+b 1 f 4
+b 3 f 3
+b 2 c 1 b 1 f 2
+b 2 c 1 b 2 f 2
+b 3 c 1 b 3 b 2 f 2
+c 1 b 4 b 4 f 1
+b 4 b 3 f 2
+c 3 b 1 b 5 f 1
+c 1 b 6 c 1 b 1 c 1 f 2
+b 2 c 1 b 1 c 1 b 2 c 1 b 1 f 1
+c 2 b 1 c 2 f 2
+c 1 c 1 f 4
+f 3
+f 2
+f 2
+c 1 b 3 b 2 f 2
+c 2 b 3 c 1 b 4 c 1 b 1 f 1
+c 1 b 1 c 1 b 3 c 1 b 1 c 1 b 1 f 2
+b 4 b 4 f 1 b 1 f 1
+b 1 c 1 b 1 b 2 f 4
+c 1 b 3 f 3
+c 2 b 1 c 1 b 1 f 2
+c 1 b 4 b 3 f 2
+b 1 c 1 b 5 c 1 b 1 f 3
+b 2 c 1 b 1 c 1 b 5 f 1
+c 2 b 5 f 1 b 1 f 2
+c 1 c 2 f 4
+c 1 f 3
+f 3
+f 4
+f 2
+c 2 c 1 f 2
+b 1 c 1 b 5 c 2 f 1 b 1 f 1
+b 3 c 1 b 1 c 1 b 4 f 1 b 1 f 2
+b 6 c 1 b 3 f 3
+b 1 c 3 b 4 c 1 b 1 f 2 b 1
+b 1 d 1 c 1 b 1 b 4 f 1 b 1 f 1
+b 1 c 1 b 2 b 5 f 1
+b 1 c 1 e 1 c 1 b 1 b 4 f 1
+b 1 c 1 e 2 b 1 b 2 f 2
+b 1 d 1 c 1 e 2 b 1 f 3
+b 1 c 1 e 1 b 1 f 4
+b 1 f 3
+f 2

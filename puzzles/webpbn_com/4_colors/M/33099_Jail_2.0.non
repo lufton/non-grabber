@@ -1,0 +1,62 @@
+by "Fionnoula St. Hilaire (fmss)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Fionnoula St. Hilaire"
+date "Oct 30, 2019"
+description "a bigger version of the first with more vertical lines and a prisoner"
+difficulty 1.0
+height 20
+id 33099
+link "https://webpbn.com/play.cgi?id=33099"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Jail 2.0"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 red 1 black 1 red 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 red 1 black 1 red 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 red 2 blue 3 black 1 blue 3 red 2 black 1
+black 1 red 2 blue 3 black 1 blue 3 red 2 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 1 red 2 black 1 red 2 black 1 black 1
+
+columns
+0
+black 20
+0
+0
+red 2
+black 9 red 2 black 9
+blue 2
+blue 2 red 1
+red 1 blue 1 red 1 blue 11 red 1
+black 20
+red 1 blue 1 red 1 blue 11 red 1
+blue 2 red 1
+blue 2
+black 9 red 2 black 9
+red 2
+0
+0
+black 20
+0
+0

@@ -1,0 +1,63 @@
+by "morlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/6/07"
+height 30
+id 52881
+link "https://www.griddlers.net/nonogram/-/g/52881"
+medium_time "0:02:46"
+points 769
+popularity 61.33
+title "Poison Flask"
+width 10
+
+color a ffffcc
+color b ffffff
+color e 000000
+color f 66ff66
+color g 009999
+color h ff0000
+
+rows
+b 1 e 2 b 1
+b 1 b 1
+b 1 e 2 b 1
+b 1 b 1
+b 1 f 2 e 2 b 1
+b 1 f 4 b 1
+b 1 f 5 b 1
+b 1 f 5 b 1
+b 2 f 3 b 2
+b 1 e 1 b 1
+e 1
+h 8
+h 8
+g 1 e 1 g 1
+g 1 e 1 g 1
+g 2 e 1 g 2
+g 2 e 1 g 2
+g 1 f 4 e 1 g 1
+g 1 f 4 e 1 f 2 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 1 f 8 g 1
+g 10
+
+columns
+g 14
+h 2 g 2 f 12 g 1
+b 9 h 2 g 3 f 12 g 1
+f 4 b 1 h 2 f 12 g 1
+f 5 b 1 h 2 f 12 g 1
+f 4 e 2 h 2 e 6 f 10 g 1
+e 1 e 1 e 1 f 4 b 1 h 2 f 11 g 1
+e 1 e 1 e 1 f 2 b 1 h 2 g 3 f 11 g 1
+b 9 h 2 g 2 f 10 g 1
+g 14

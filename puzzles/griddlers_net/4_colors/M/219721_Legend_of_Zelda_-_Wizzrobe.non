@@ -1,0 +1,52 @@
+by "gramblar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/20/21"
+height 16
+id 219721
+link "https://www.griddlers.net/nonogram/-/g/219721"
+medium_time "0:03:45"
+points 1088
+popularity 69.46
+title "Legend of Zelda - Wizzrobe"
+width 15
+
+color a 000000
+color b ffffff
+color c ff9900
+color d ff0000
+
+rows
+c 4
+c 7
+c 9 b 1
+b 2 c 4 d 4 c 1 c 1 b 1
+b 2 d 1 c 2 d 2 b 1 d 1 b 1 d 1 c 2 d 1
+c 1 b 1 d 2 c 1 d 2 b 1 d 1 b 1 d 1 c 2 d 1
+c 1 d 1 c 10
+c 1 d 1 c 10
+c 1 d 1 c 5 b 1 c 4
+c 5 b 1 d 1 b 1 c 2
+c 2 d 1 c 3 b 1 c 3
+c 2 d 1 c 7
+c 1 d 1 c 8
+d 1 c 9
+d 1 c 11
+c 12
+
+columns
+b 2 c 1
+b 3 c 3
+c 2 d 5 c 3 d 1 c 1
+c 4 d 1 c 7 d 1 c 2
+c 9 d 3 c 3
+c 4 d 2 c 10
+c 3 d 3 c 10
+c 3 d 1 b 2 c 3 b 1 c 6
+c 3 d 3 c 2 b 1 d 1 b 1 c 5
+c 2 d 1 b 2 c 3 b 1 c 6
+c 2 d 2 c 10
+c 12
+c 6 c 4
+b 2 d 2 c 2
+0

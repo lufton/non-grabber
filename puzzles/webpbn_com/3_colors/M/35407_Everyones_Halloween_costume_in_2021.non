@@ -1,0 +1,61 @@
+by "besmirched tea (Besmirched Tea)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by besmirched tea"
+date "Oct 19, 2021"
+description "Squid Games looks like an easy costume, like this easy puzzle"
+difficulty 1.25
+height 20
+id 35407
+link "https://webpbn.com/play.cgi?id=35407"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Everyone's Halloween costume in 2021"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 6
+red 2 black 4 red 2
+red 2 black 6 red 2
+red 1 black 8 red 1
+red 1 black 2 black 2 red 1
+red 1 black 2 black 2 black 2 red 1
+red 1 black 2 black 2 black 2 red 1
+red 1 black 2 black 2 red 1
+red 1 black 8 red 1
+red 2 black 6 red 2
+red 2 black 4 red 2
+red 6
+red 8
+red 5 black 1 red 7
+red 6 black 1 red 8
+red 7 black 1 red 9
+red 8 black 1 red 10
+red 8 black 1 red 11
+red 8 black 1 red 11
+
+columns
+red 3
+red 4
+red 5
+red 6
+red 8 red 6
+red 2 black 6 red 2 red 7
+red 2 black 8 red 9
+red 1 black 3 black 3 red 8
+red 1 black 3 black 2 black 3 red 2 black 6
+red 1 black 3 black 2 black 3 red 8
+red 1 black 3 black 3 red 8
+red 2 black 8 red 9
+red 2 black 6 red 2 red 7
+red 8 red 6
+red 6
+red 6
+red 5
+red 4
+red 3
+red 2

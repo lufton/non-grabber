@@ -1,0 +1,33 @@
+by "Alex Klages (metalfoot)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alex Klages"
+date "Mar 18, 2010"
+description "A minimalist 8x8 game of Space Invaders"
+difficulty 1.25
+height 8
+id 8085
+link "https://webpbn.com/play.cgi?id=8085"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "100 Points"
+width 8
+
+rows
+2,2,2
+2,2,2
+0
+1
+0
+1
+1,1
+8
+
+columns
+2,1
+2,1
+1
+2,2
+2,1,1,1
+2
+2,1
+2,1

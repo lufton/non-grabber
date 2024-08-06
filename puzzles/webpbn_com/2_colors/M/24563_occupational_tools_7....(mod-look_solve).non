@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kurt Kowalczyk"
+date "May 24, 2014"
+description "made a simple image for a tougher solve for the long-timers...hope ya enjoyed it! :)"
+difficulty 2.5
+height 20
+id 24563
+link "https://webpbn.com/play.cgi?id=24563"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "occupational tools 7....(mod-look solve)"
+width 20
+
+rows
+5,4
+1,2,2,1
+1,2,1,1
+2,1,1,1
+1,1,1,1
+2,1,1,1
+3,1,1,1
+1,1,1,1,1
+1,2,1,1,1
+1,3,2,1,1
+3,3,1,1
+1,2,1,1
+1,2,1,2
+1,2,3,2
+1,2,3,1
+1,2,2,1
+1,2,2,2
+2,1,1,5
+1,1,2,4,2
+1,7
+
+columns
+10
+5,1
+2,7,1
+4,7
+4,2
+1,2,2
+1,1,1,1
+1,2,1,2
+2,1,2,1
+2,2,1,1
+8,2,1
+1,2
+12,2
+1,2
+2,2
+1,1
+1,2
+1,3
+17
+2

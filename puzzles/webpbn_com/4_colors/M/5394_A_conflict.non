@@ -1,0 +1,62 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar 20, 2009"
+description "your right brain tries to say the color while the left brain insists to say the word"
+difficulty 1.25
+height 20
+id 5394
+link "https://webpbn.com/play.cgi?id=5394"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "A conflict"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 3 green 1 green 1 green 1 green 3
+green 1 green 1 green 1 green 1 green 1 green 1
+green 3 green 1 green 1 green 1 green 3
+green 1 green 1 green 1 green 1 green 1 green 1
+green 3 green 3 green 3 green 3
+0
+black 3 black 3 black 3 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 3 black 3 black 1
+black 1 black 1 black 2 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1 black 1
+0
+blue 3 blue 3 blue 2
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 3 blue 3 blue 1 blue 1
+blue 2 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 3 blue 2
+0
+0
+
+columns
+green 5 black 5 blue 5
+green 1 green 1 green 1 black 1 black 1 blue 1 blue 2
+green 5 black 1 black 3 blue 3 blue 1
+0
+green 5 black 5 blue 5
+green 1 black 1 black 2 blue 1 blue 1 blue 1
+green 1 black 3 black 1 blue 1 blue 1 blue 1
+0
+green 5 black 5 blue 5
+green 1 black 1 black 1 blue 1 blue 1
+green 5 black 5 blue 3
+0
+green 5 black 2
+green 1 green 1 green 1 black 3
+green 1 green 1 green 1 black 2
+0
+0
+0
+0
+0

@@ -1,0 +1,31 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 20, 2011"
+description "More cherries! (see my other puzzle titled: yum)"
+difficulty 1.25
+height 5
+id 14040
+link "https://webpbn.com/play.cgi?id=14040"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Edible"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2
+green 2 green 1
+green 1 green 1
+black 2 black 2
+black 2 black 2
+
+columns
+green 2 black 2
+green 2 black 2
+green 1
+green 2 black 2
+black 2

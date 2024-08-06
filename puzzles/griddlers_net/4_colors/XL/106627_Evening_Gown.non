@@ -1,0 +1,91 @@
+by "poj"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/13/11"
+height 40
+id 106627
+link "https://www.griddlers.net/nonogram/-/g/106627"
+medium_time "0:24:31"
+points 31662
+popularity 79.73
+title "Evening Gown"
+width 30
+
+color a 000066
+color b cc0066
+color c ff99ff
+color d 990099
+
+rows
+c 1 c 1
+c 1 b 1 c 1
+c 1 b 1 b 1 c 1
+c 2 b 1 b 1 c 2
+c 2 b 1 b 1 c 3
+c 3 b 3 c 1 c 2
+c 6 c 3
+c 8
+c 8
+c 6
+c 6
+b 1 c 4 b 1
+b 6
+b 4 b 1
+d 2 b 2 b 1 d 1
+d 6 d 3
+d 1 b 2 d 2 d 1 d 3
+d 2 b 1 d 2 d 3 d 3
+d 1 b 2 d 1 d 4 d 4
+d 2 b 1 d 2 d 2 d 1 b 1 d 3
+d 2 b 2 d 3 d 2 d 1 b 2 d 3
+d 2 b 1 d 5 d 4 b 1 d 3
+d 2 b 2 d 5 d 5 b 1 d 3
+d 2 b 1 d 5 d 3 b 1 d 2 b 1 d 3
+d 2 c 1 b 1 d 7 b 1 d 1 b 2 d 1 b 2 d 3
+d 2 b 1 d 1 b 1 d 7 b 1 d 2 b 1 d 2 b 2 d 3
+d 2 b 3 d 2 b 1 d 1 b 1 d 2 b 2 d 1 b 2 d 1 b 2 c 1 d 2
+d 3 b 2 d 2 b 4 d 2 b 2 d 2 b 2 d 1 b 2 d 2
+d 2 b 3 d 1 b 5 c 1 d 1 b 2 d 3 b 1 d 2 b 1 d 3
+d 1 b 2 c 1 b 1 d 1 b 5 d 2 b 2 d 3 b 2 d 1 b 2 d 3
+d 2 b 3 d 1 b 2 d 1 b 2 d 5 b 1 c 1 d 2 b 2 d 1 b 1 c 1 d 2
+d 1 c 1 b 3 d 1 b 2 d 1 b 2 d 2 b 1 d 3 b 2 d 2 b 1 d 1 b 2 d 3
+d 1 b 3 d 2 b 1 d 2 b 2 d 1 b 2 d 3 b 1 d 2 b 3 d 1 b 2 d 3
+d 1 b 4 c 1 b 1 d 2 b 2 d 1 c 1 d 4 b 2 d 1 c 1 b 3 d 1 b 2 c 1 d 2
+d 2 b 1 c 1 b 3 d 2 b 5 d 1 c 1 d 2 b 2 d 2 b 3 c 1 b 1 d 3
+d 1 b 4 d 2 c 1 b 5 d 4 b 3 d 3 b 1 d 1 b 2 d 1
+d 2 b 2 d 1 b 5 c 1 b 1 d 1 b 1 c 1 d 1 b 3 c 1 b 2 c 1 b 2 d 1
+d 3 b 3 c 1 b 6 d 1 b 1 d 1 b 4 d 5
+d 2 b 4 d 1 b 2 c 1 d 5 b 2 d 5
+d 18
+
+columns
+d 5
+d 4 c 1 b 2 d 2
+d 4 b 7 d 1
+d 4 b 6 c 1 b 1 d 2
+d 3 b 4 c 1 b 2 d 1 b 4 d 1
+d 4 c 1 d 1 b 4 d 3 c 1 b 3 d 2
+d 3 b 5 d 3 b 5 d 2 b 1 d 1
+d 3 b 3 d 5 b 4 d 4 b 3 d 1
+c 7 d 3 b 3 d 6 b 3 d 5 c 1 b 3 d 1
+b 1 c 6 d 2 b 3 d 7 b 11 c 1 b 1 d 1
+b 2 c 6 b 3 d 2 b 1 d 10 b 12 d 1
+b 1 c 6 b 3 d 3 d 6 b 4 d 4 b 4 d 2
+b 1 c 6 b 3 d 2 d 2 d 2 d 4 c 1 d 3 b 1 c 1 b 2 c 1 b 2 d 1
+b 1 c 6 b 2 d 1 d 4 d 8 b 2 d 1 b 5 d 1
+b 1 c 1 c 5 b 1 b 1 d 3 d 4 b 6 d 7 b 1 c 1 d 1
+b 1 c 1 c 5 b 3 d 1 d 3 d 5 b 4 d 4 c 1 d 1 b 2 d 2
+b 2 c 6 d 3 d 3 b 2 d 5 b 1 d 5 c 1 d 3
+c 7 d 4 b 2 d 3 b 3 d 3 c 1 b 3 d 3 b 1 d 2
+d 4 b 2 d 4 b 2 d 3 b 1 d 1 b 4 d 3
+d 5 b 3 d 2 b 3 d 4 b 4 d 2
+d 6 b 3 d 2 b 2 d 1 b 1 c 1 d 1 b 4 d 1
+d 5 b 3 d 2 b 4 d 2 c 1 b 2 d 1
+d 4 c 1 b 3 d 2 b 3 d 1 b 2 d 2
+d 5 b 3 d 1 b 2 d 1 b 1 d 3
+d 5 c 1 b 2 d 1 b 2 c 1 d 3
+d 4 b 2 c 1 d 1 b 1 d 2
+d 4 b 4 d 2
+d 2 c 1 d 1 b 1 d 2
+d 4
+d 2

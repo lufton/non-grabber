@@ -1,0 +1,83 @@
+by "Bas (Basch)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Bas"
+date "Jul 20, 2019"
+description "Yes, it's the MSX home computer system from the 80's."
+difficulty 1.25
+height 27
+id 32620
+link "https://webpbn.com/play.cgi?id=32620"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Boot logo of an old Z80 system"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+blue 2 black 31 blue 2
+blue 2 black 3 black 4 black 3 black 4 black 1 blue 2
+blue 2 black 3 black 2 black 2 black 3 black 2 blue 2
+blue 2 black 3 black 2 black 6 black 1 black 2 blue 2
+blue 2 black 2 black 2 black 6 black 1 black 3 blue 2
+blue 2 black 2 black 1 black 1 black 2 black 5 black 4 blue 2
+blue 2 black 2 black 2 black 2 black 4 black 3 black 3 blue 2
+blue 2 black 2 black 2 black 2 black 6 black 2 black 1 black 2 blue 2
+blue 2 black 1 black 2 black 2 black 2 black 3 black 2 blue 2
+blue 2 black 1 black 6 black 2 black 3 black 1 blue 2
+blue 2 black 31 blue 2
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+blue 35
+
+columns
+blue 27
+blue 27
+blue 8 black 11 blue 8
+blue 8 black 8 black 1 blue 8
+blue 8 black 4 black 1 blue 8
+blue 8 black 1 black 1 blue 8
+blue 8 black 1 black 5 blue 8
+blue 8 black 2 black 6 blue 8
+blue 8 black 3 black 2 blue 8
+blue 8 black 3 black 2 blue 8
+blue 8 black 2 black 6 blue 8
+blue 8 black 1 black 5 blue 8
+blue 8 black 1 black 1 blue 8
+blue 8 black 4 black 1 blue 8
+blue 8 black 8 black 1 blue 8
+blue 8 black 2 black 4 black 1 blue 8
+blue 8 black 1 black 2 black 1 blue 8
+blue 8 black 1 black 2 black 1 blue 8
+blue 8 black 1 black 1 black 1 black 1 blue 8
+blue 8 black 1 black 2 black 1 black 1 blue 8
+blue 8 black 1 black 2 black 1 blue 8
+blue 8 black 1 black 3 black 2 blue 8
+blue 8 black 1 black 8 blue 8
+blue 8 black 1 black 6 black 1 blue 8
+blue 8 black 1 black 3 black 1 blue 8
+blue 8 black 2 black 1 black 1 blue 8
+blue 8 black 3 black 3 blue 8
+blue 8 black 5 black 4 blue 8
+blue 8 black 3 black 3 blue 8
+blue 8 black 1 black 1 black 1 blue 8
+blue 8 black 1 black 3 black 1 blue 8
+blue 8 black 1 black 7 black 1 blue 8
+blue 8 black 11 blue 8
+blue 27
+blue 27

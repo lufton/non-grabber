@@ -1,0 +1,93 @@
+by "Gabrielle Eierman (gibergirl0001)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gabrielle Eierman"
+date "Dec 12, 2009"
+description "A tree that erveryone will love to look at because of all the wonderful colors!!!"
+difficulty 2.0
+height 30
+id 7401
+link "https://webpbn.com/play.cgi?id=7401"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "Whats under the tree"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+green 2
+green 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 40
+green 1 green 1 black 6 red 1 red 1
+green 7 black 6 red 7
+red 3 green 1 red 3 black 6 green 3 red 1 green 3
+green 7 black 6 red 7
+red 3 green 1 red 3 black 6 green 3 red 1 green 3
+
+columns
+green 2
+green 1 red 1 green 1
+green 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 green 1 green 1 red 1 green 1 red 1
+green 1 red 1 blue 1 red 1 blue 1 green 3 red 1 green 1 red 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 green 1 green 1 red 1 green 1 red 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1 green 4
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1 green 1 red 1 green 1 red 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 3 red 1 green 1 red 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1 green 1 red 1 green 1 red 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1 black 5
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1 black 5
+green 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1 black 5
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1 black 5
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1 black 5
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1 black 5
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1 red 1 green 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 blue 1 green 1 red 2 green 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 red 1 green 1 red 1 green 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 red 1 blue 1 green 1 red 4
+green 1 blue 1 red 1 blue 1 red 1 green 1 red 1 green 1 red 1 green 1
+green 1 blue 1 red 1 blue 1 green 1 red 2 green 1 red 1 green 1
+green 1 blue 1 red 1 green 1 red 1 green 1 red 1 green 1
+green 1 blue 1 green 1
+green 2

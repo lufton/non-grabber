@@ -1,0 +1,41 @@
+by "Crystal Kilgore (deweyfrost)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Crystal Kilgore"
+date "Jan 11, 2012"
+description "I love you"
+difficulty 1.25
+height 10
+id 17103
+link "https://webpbn.com/play.cgi?id=17103"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "valentine"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 3 blue 6
+blue 2 black 1 blue 3 black 1 blue 1 black 1 blue 1
+blue 2 black 1 blue 2 black 5
+blue 2 black 1 blue 3 black 3 blue 1
+blue 1 black 3 blue 3 black 1 blue 2
+blue 10
+blue 1 black 1 blue 1 black 5 blue 1 black 1
+blue 1 black 4 blue 1 black 2 blue 1 black 1
+blue 3 black 2 blue 1 black 2 blue 1 black 1
+blue 1 black 9
+
+columns
+blue 10
+black 1 blue 3 black 1 blue 1 black 2 blue 1 black 1
+black 5 blue 2 black 1 blue 1 black 1
+black 1 blue 3 black 1 blue 1 black 4
+blue 6 black 4
+blue 2 black 1 blue 3 black 1 blue 2 black 1
+blue 1 black 3 blue 2 black 4
+blue 2 black 3 blue 1 black 4
+blue 1 black 3 blue 5 black 1
+blue 2 black 1 blue 3 black 4

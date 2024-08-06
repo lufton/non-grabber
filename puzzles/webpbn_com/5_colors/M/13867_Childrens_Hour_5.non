@@ -1,0 +1,63 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "May 13, 2011"
+description "Tom Tom the pipers son Stole a pig and away he ran, The pig was eat and Tom was beat And Tom went roaring down the street."
+difficulty 1.5
+height 20
+id 13867
+link "https://webpbn.com/play.cgi?id=13867"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Children's Hour 5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 10 black 4 blue 1
+blue 1 blue 3 black 1 blue 4 black 1 black 1 blue 1
+blue 3 blue 3 black 2 blue 2 black 1 blue 1
+blue 4 blue 5 black 5 red 1 blue 1
+blue 11 black 2 blue 1 red 1 blue 1 blue 2
+blue 11 black 1 blue 2 red 1 blue 1 red 3 blue 1
+blue 14 red 6
+blue 3 blue 3 blue 1 black 3 blue 4 red 3 blue 1
+blue 4 blue 2 black 1 blue 4 red 3 blue 1
+blue 4 blue 2 blue 4 red 3 blue 1
+blue 5 blue 4 blue 5 black 1 blue 1 black 1 blue 1
+blue 4 red 5 blue 4 black 1 blue 1 black 1 blue 1
+blue 4 red 6 blue 4 black 1 blue 1 black 1 blue 1
+blue 4 blue 1 red 3 blue 4 black 1 blue 1 black 1 blue 1
+blue 5 black 3 blue 4 black 1 blue 1 black 1 blue 1
+blue 8 black 1 blue 1 black 1 blue 5 black 1 blue 1 black 1 blue 1
+blue 7 black 2 blue 1 black 1 blue 5 black 1 blue 1 black 1 blue 1
+green 20
+green 20
+green 20
+
+columns
+blue 16 green 3
+blue 15 green 3
+blue 1 blue 15 green 3
+blue 4 blue 9 green 3
+blue 4 blue 1 blue 3 green 3
+blue 1 blue 4 blue 2 green 3
+blue 1 blue 5 blue 1 red 1 blue 2 green 3
+blue 1 blue 4 blue 3 red 2 blue 1 black 1 green 3
+blue 11 red 2 blue 1 black 2 green 3
+blue 7 black 1 blue 1 red 3 black 1 blue 2 green 3
+blue 7 black 1 red 3 black 3 green 3
+blue 1 black 5 blue 1 black 2 blue 1 red 3 black 1 blue 2 green 3
+blue 2 black 3 blue 12 green 3
+blue 3 black 1 blue 13 green 3
+blue 3 black 1 red 3 blue 10 green 3
+black 1 blue 1 black 1 blue 2 red 1 blue 10 green 3
+black 2 red 1 red 5 black 7 green 3
+black 1 red 5 blue 7 green 3
+black 3 blue 1 red 5 black 7 green 3
+blue 6 red 1 blue 10 green 3

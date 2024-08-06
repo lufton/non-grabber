@@ -1,0 +1,50 @@
+by "Brian Thompson (veggietales013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Thompson"
+date "Apr 15, 2013"
+description "8-bit Mario"
+difficulty 1.5
+height 16
+id 21694
+link "https://webpbn.com/play.cgi?id=21694"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Mario"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 red 5 blue 4
+blue 2 red 9 blue 1
+blue 2 black 3 black 1 blue 3
+blue 1 black 1 black 1 black 1 blue 1
+blue 1 black 1 black 2 black 1 blue 1
+blue 1 black 2 black 4 blue 1
+blue 3 blue 1
+blue 2 black 2 red 1 black 3 blue 4
+blue 1 black 3 red 1 black 2 red 1 black 3 blue 1
+black 4 red 4 black 4
+black 1 red 1 red 2 red 1 black 1
+red 6
+red 8
+blue 2 red 3 blue 2 red 3 blue 2
+blue 1 black 3 blue 4 black 3 blue 1
+black 4 blue 4 black 4
+
+columns
+blue 9 black 1 blue 2 black 1
+blue 3 black 3 blue 2 black 2 blue 1 black 2
+blue 1 red 1 black 1 black 1 blue 1 black 4 red 2 black 2
+red 2 black 3 black 3 red 4 black 2
+red 2 black 1 black 1 red 3 red 3 blue 2
+red 2 black 2 red 4 blue 3
+red 2 black 2 red 4 blue 3
+red 2 black 2 black 1 black 1 red 2 red 3 blue 2
+blue 1 red 1 black 2 blue 1 black 2 red 4 black 2
+blue 1 red 1 blue 1 black 1 blue 1 black 3 red 2 black 2
+blue 1 red 1 blue 1 black 1 blue 1 black 2 blue 1 black 2
+blue 9 black 1 blue 2 black 1

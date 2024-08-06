@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Oct 10, 2017"
+description "Ellipse and ellipsis. More ovals to come..."
+difficulty 2.25
+height 20
+id 30360
+link "https://webpbn.com/play.cgi?id=30360"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "Math and English #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 4 black 4
+black 3 black 3
+black 2 black 2
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 2
+black 2 black 2
+black 3 black 3
+black 4 black 4
+black 4
+red 1 red 3 red 2
+red 1 red 1 red 1 red 1 red 1
+red 3 red 2 red 1
+red 1 red 1 red 1 red 1 red 1
+red 1 red 1 red 3 red 2 red 1 red 1 red 1
+
+columns
+black 3
+black 3 black 3 red 4
+black 2 black 2 red 1 red 1
+black 2 black 2 red 4
+black 1 black 1
+black 2 black 2 red 5
+black 1 black 1 red 1 red 1 red 1
+black 1 black 1 red 2 red 2
+black 2 black 2
+black 1 black 1 red 3
+black 1 black 1 red 1 red 1
+black 2 black 2 red 1 red 1
+black 1 black 1
+black 1 black 1
+black 2 black 2 red 1
+black 1 black 1
+black 2 black 2 red 1
+black 2 black 2
+black 3 black 3 red 1
+black 3

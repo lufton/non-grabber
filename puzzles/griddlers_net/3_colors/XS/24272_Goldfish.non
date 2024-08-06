@@ -1,0 +1,38 @@
+by "Szczep"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/19/05"
+height 9
+id 24272
+link "https://www.griddlers.net/nonogram/-/g/24272"
+medium_time "0:01:29"
+points 265
+popularity 45.68
+title "Goldfish"
+width 9
+
+color a ffffff
+color b 000000
+color c cccc00
+
+rows
+b 1
+b 1 c 1
+b 3 b 1
+b 1 c 3 b 1 b 1 c 1
+b 1 c 1 b 1 c 3 b 1 c 1 b 1
+b 1 c 3 b 1 b 1 c 1
+b 3 b 1
+b 1 c 1
+b 1
+
+columns
+b 1
+b 1 c 1 b 1
+b 1 c 1 b 1 c 1 b 1
+b 2 c 3 b 2
+b 1 c 1 b 1 c 3 b 1 c 1 b 1
+b 1 c 1 b 1
+b 1
+b 1 c 1 b 1
+b 1 c 1 b 1 c 1 b 1

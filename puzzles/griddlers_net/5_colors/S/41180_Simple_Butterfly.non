@@ -1,0 +1,50 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/3/07"
+height 14
+id 41180
+link "https://www.griddlers.net/nonogram/-/g/41180"
+medium_time "0:04:03"
+points 1142
+popularity 69.19
+title "Simple Butterfly"
+width 14
+
+color a ffffff
+color b 000000
+color c ebeb43
+color d ff99ff
+color e cc00ff
+
+rows
+b 1 b 1
+b 3 b 2 b 3
+b 2 e 2 b 1 b 2 b 1 e 2 b 2
+b 1 e 1 d 3 b 4 d 3 e 1 b 1
+b 1 e 1 d 1 c 2 d 1 b 2 d 1 c 2 d 1 e 1 b 1
+b 1 e 1 d 1 c 3 b 2 c 3 d 1 e 1 b 1
+b 1 e 1 d 2 c 2 b 2 c 2 d 2 e 1 b 1
+b 2 e 2 d 2 b 2 d 2 e 2 b 2
+b 12
+b 1 e 1 d 1 c 1 b 2 c 1 d 1 e 1 b 1
+b 1 e 1 d 1 c 2 b 2 c 2 d 1 e 1 b 1
+b 1 e 1 d 3 b 2 d 3 e 1 b 1
+b 2 e 2 b 1 b 1 e 2 b 2
+b 3 b 3
+
+columns
+b 6
+b 2 e 4 b 2 b 3
+b 1 e 1 d 4 e 1 b 2 e 2 b 2
+b 1 e 1 d 1 c 2 d 1 e 1 b 1 e 1 d 2 e 1 b 1
+b 1 d 1 c 3 d 1 b 1 d 1 c 1 d 1 e 1 b 1
+b 1 b 1 d 1 c 2 d 1 b 1 c 2 d 1 b 1
+b 11
+b 11
+b 1 b 1 d 1 c 2 d 1 b 1 c 2 d 1 b 1
+b 1 d 1 c 3 d 1 b 1 d 1 c 1 d 1 e 1 b 1
+b 1 e 1 d 1 c 2 d 1 e 1 b 1 e 1 d 2 e 1 b 1
+b 1 e 1 d 4 e 1 b 2 e 2 b 2
+b 2 e 4 b 2 b 3
+b 6

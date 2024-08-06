@@ -1,0 +1,79 @@
+by "bayistanbul"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/23/07"
+height 25
+id 50707
+link "https://www.griddlers.net/nonogram/-/g/50707"
+medium_time "0:12:02"
+points 119252
+popularity 70.95
+title "Key"
+width 32
+
+color a ccffff
+color b 000000
+color c 666666
+color d 999999
+color e cccccc
+
+rows
+b 3
+b 2 e 3 b 1
+b 1 e 2 c 4 b 1
+b 1 e 1 c 5 b 1
+b 1 e 1 c 6 b 1
+b 1 e 1 c 2 d 3 c 1 b 1
+b 1 e 1 c 2 d 4 b 1
+b 1 e 1 c 2 d 2 b 1 d 2 b 1
+b 2 e 1 c 3 d 1 b 1 b 1 d 1 b 1
+b 2 e 2 c 3 d 2 b 1 b 1 d 1 b 1
+b 2 e 2 c 4 d 3 b 1 b 1 d 1 b 1
+b 2 e 2 c 1 b 2 c 3 d 3 b 1 b 1 d 1 b 1
+b 2 e 2 c 1 b 2 e 3 c 1 d 4 b 1 b 1 d 1 b 1
+b 2 e 2 c 1 b 2 e 3 c 3 d 4 b 1 b 1 d 1 b 1
+b 2 e 2 c 1 b 2 e 3 c 8 d 2 b 1 d 1 c 1 b 1
+b 2 e 2 c 1 b 2 e 3 c 10 d 3 c 2 b 1
+b 2 e 2 c 1 b 2 e 3 c 3 b 1 c 4 b 1 e 1 c 7 b 1
+b 2 e 2 c 1 b 2 e 3 b 2 c 2 b 1 b 1 c 1 b 2 b 1 e 1 c 5 b 1
+b 1 e 2 c 1 b 2 e 3 c 2 b 1 b 1 c 1 b 1 b 1 b 1 e 1 c 5 b 1
+b 1 e 1 b 2 e 3 c 3 b 1 b 1 b 1 e 1 c 4 b 1
+b 1 e 1 b 1 e 3 c 3 b 1 c 1 b 1 b 1 e 1 c 1 b 2
+b 1 e 3 c 1 b 1 c 2 b 1 b 1 b 2
+b 1 c 2 b 1 b 1 c 1 b 1
+b 1 c 1 b 1 b 1
+b 1
+
+columns
+b 2
+b 2 e 2 b 1
+b 1 e 2 b 1 e 1 c 1 b 1
+b 1 e 1 b 1 e 2 c 2 b 1
+b 1 e 1 c 1 b 1 e 1 c 1 b 2
+b 1 e 1 b 1 e 2 b 1
+b 1 e 1 c 1 b 1 e 1 c 2 b 1
+b 1 e 1 b 1 e 2 c 3 b 1
+b 1 e 1 c 1 b 1 e 1 c 2 b 2
+b 1 e 1 b 1 e 2 c 1 b 1
+b 1 e 1 c 1 b 1 e 1 c 3 b 1
+b 1 e 1 b 1 e 2 c 1 b 2
+b 1 e 1 c 1 b 1 e 1 b 2
+b 1 e 1 b 1 e 2 b 1
+b 1 e 1 c 1 b 1 e 1 c 2 b 1
+b 1 e 1 b 1 e 2 c 3 b 1
+b 1 e 1 c 1 b 1 e 1 c 2 b 2
+b 1 e 1 b 1 e 2 c 1 b 1
+b 1 e 1 c 1 b 1 e 1 c 3 b 1
+b 1 e 1 b 1 e 2 c 4 b 1
+b 1 e 1 c 1 b 1 e 1 c 4 b 1
+b 1 e 1 c 2 e 1 c 4 b 1
+b 1 e 1 c 7 b 1
+b 3 e 1 c 4 d 2 c 2 e 1 b 3
+b 2 e 3 c 3 d 4 c 3 e 3 b 1
+b 1 e 2 c 5 d 5 c 6 e 1 b 1
+b 1 e 1 c 4 d 9 c 5 b 1
+b 1 e 1 c 3 d 3 b 6 d 2 c 4 b 1
+b 1 e 1 c 3 d 2 b 1 b 1 d 1 c 4 b 1
+b 1 e 1 c 3 d 3 b 6 d 1 c 4 b 1
+b 1 c 4 d 8 c 3 b 2
+b 15

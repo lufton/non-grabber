@@ -1,0 +1,52 @@
+by "stasmitnik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/20/15"
+height 20
+id 157602
+link "https://www.griddlers.net/nonogram/-/g/157602"
+medium_time "0:00:36"
+points 392
+popularity 59.23
+title "Traffic Light"
+width 10
+
+color a ffffff
+color b 000000
+color c ffff66
+color d ff0000
+color e 00d700
+
+rows
+b 10
+b 1 b 1
+b 1 d 4 b 1
+b 1 d 4 b 1
+b 1 d 4 b 1
+b 1 d 4 b 1
+b 1 b 1
+b 1 c 4 b 1
+b 1 c 4 b 1
+b 1 c 4 b 1
+b 1 c 4 b 1
+b 1 b 1
+b 1 e 4 b 1
+b 1 e 4 b 1
+b 1 e 4 b 1
+b 1 e 4 b 1
+b 1 b 1
+b 10
+b 4
+b 4
+
+columns
+b 18
+b 1 b 1
+b 1 b 1
+b 1 d 4 c 4 e 4 b 3
+b 1 d 4 c 4 e 4 b 3
+b 1 d 4 c 4 e 4 b 3
+b 1 d 4 c 4 e 4 b 3
+b 1 b 1
+b 1 b 1
+b 18

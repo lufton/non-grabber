@@ -1,0 +1,55 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/16/21"
+height 20
+id 229761
+link "https://www.griddlers.net/nonogram/-/g/229761"
+medium_time "0:06:01"
+points 1111
+popularity 86.42
+title "Carrot"
+width 10
+
+color a 94e7ff
+color b 738c21
+color c bdd67b
+color d a8bd52
+color e e79c00
+color f ffb441
+color g ffce73
+color h ffdead
+
+rows
+b 1
+b 2 b 2
+b 1 c 2 b 1 b 1 c 1 b 1
+b 1 c 1 d 2 c 1 b 1 c 1 d 1 b 1
+b 1 c 1 b 2 d 3 b 1
+b 2 d 3 e 1
+e 1 f 1 g 1 h 2 e 1
+e 1 f 1 g 1 h 1 e 4
+e 1 f 2 g 1 h 3 e 1
+e 3 g 2 h 2 e 1
+e 1 f 2 g 1 h 1 e 3
+e 1 f 1 g 2 h 2 e 1
+e 1 f 1 g 2 h 1 e 1
+e 1 f 1 g 1 e 3
+e 2 g 1 h 2 e 1
+e 1 f 1 g 2 h 1 e 1
+e 1 f 1 g 1 e 1
+e 1 f 1 g 1 e 1
+e 2
+e 1
+
+columns
+b 3
+b 1 c 2 b 1
+b 1 c 1 d 1 b 1 e 5
+b 1 c 1 d 1 b 1 e 1 f 2 e 1 f 2 e 4
+b 1 c 1 d 2 f 1 g 1 f 1 e 1 f 1 g 1 f 2 e 1 f 1 e 2
+b 1 d 2 g 1 h 1 g 8 f 2 e 2
+b 1 c 1 d 2 h 1 e 1 h 1 g 1 h 2 g 1 e 1 h 1 g 3 e 1
+b 1 c 1 d 1 b 1 e 1 h 1 e 1 h 2 e 1 h 2 e 1 h 2 e 2
+b 4 e 2 h 2 e 6
+e 4

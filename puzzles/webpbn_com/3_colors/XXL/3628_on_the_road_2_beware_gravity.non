@@ -1,0 +1,121 @@
+by "Sylvain "WCPman" (qwerty)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Sylvain "WCPman""
+date "Sep 23, 2008"
+description "hard slope ahead better slowdown"
+difficulty 2.0
+height 50
+id 3628
+link "https://webpbn.com/play.cgi?id=3628"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "on the road #2: beware gravity"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 20 black 10 blue 20
+blue 19 black 2 black 2 blue 19
+blue 18 black 2 black 8 black 2 blue 18
+blue 17 black 2 black 10 black 2 blue 17
+blue 16 black 2 black 2 black 2 black 2 blue 16
+blue 15 black 2 black 2 black 2 black 2 blue 15
+blue 14 black 2 black 2 black 2 black 2 blue 14
+blue 13 black 2 black 2 black 2 black 2 blue 13
+blue 12 black 2 black 2 black 2 black 2 blue 12
+blue 11 black 2 black 2 black 2 black 2 black 2 blue 11
+blue 10 black 2 black 2 black 4 black 2 black 2 blue 10
+blue 9 black 2 black 2 black 6 black 2 black 2 blue 9
+blue 8 black 2 black 2 black 8 black 2 black 2 blue 8
+blue 7 black 2 black 2 black 10 black 2 black 2 blue 7
+blue 6 black 2 black 2 black 12 black 2 black 2 blue 6
+blue 5 black 2 black 2 black 14 black 2 black 2 blue 5
+blue 4 black 2 black 2 black 16 black 2 black 2 blue 4
+blue 3 black 2 black 2 black 17 black 2 black 2 black 2 blue 3
+blue 2 black 2 black 2 black 2 black 10 black 1 black 3 black 2 black 2 blue 2
+blue 1 black 2 black 2 black 2 black 8 black 3 black 5 black 2 black 2 blue 1
+black 2 black 2 black 2 black 7 black 3 black 6 black 2 black 2
+black 1 black 2 black 1 black 8 black 3 black 8 black 2 black 1
+black 1 black 2 black 2 black 10 black 9 black 2 black 1
+black 1 black 2 black 2 black 9 black 11 black 2 black 1
+black 1 black 2 black 11 black 12 black 2 black 1
+black 1 black 2 black 10 black 3 black 1 black 1 black 2 black 1 black 2 black 1
+black 1 black 2 black 4 black 3 black 4 black 1 black 1 black 3 black 2 black 2 black 1
+black 1 black 2 black 4 black 3 black 1 black 6 black 1 black 1 black 2 black 3 black 2 black 1
+black 1 black 2 black 4 black 3 black 7 black 1 black 1 black 2 black 1 black 2 black 1
+black 2 black 2 black 4 black 3 black 20 black 2 black 2
+blue 1 black 2 black 2 black 4 black 21 black 2 black 2 blue 1
+blue 2 black 2 black 2 black 2 black 23 black 2 black 2 blue 2
+blue 3 black 2 black 2 black 24 black 2 black 2 blue 3
+blue 4 black 2 black 2 black 26 black 2 black 2 blue 4
+blue 5 black 2 black 2 black 27 black 2 black 2 blue 5
+blue 6 black 2 black 2 black 2 black 2 blue 6
+blue 7 black 2 black 2 black 2 black 2 blue 7
+blue 8 black 2 black 2 black 2 black 2 blue 8
+blue 9 black 2 black 2 black 2 black 2 blue 9
+blue 10 black 2 black 2 black 2 black 2 blue 10
+blue 11 black 2 black 2 black 2 black 2 blue 11
+blue 12 black 2 black 2 black 2 black 2 blue 12
+blue 13 black 2 black 2 black 2 black 2 blue 13
+blue 14 black 2 black 2 black 2 black 2 blue 14
+blue 15 black 2 black 2 black 2 black 2 blue 15
+blue 16 black 2 black 2 black 2 black 2 blue 16
+blue 17 black 2 black 10 black 2 blue 17
+blue 18 black 2 black 8 black 2 blue 18
+blue 19 black 2 black 2 blue 19
+blue 20 black 10 blue 20
+
+columns
+blue 20 black 10 blue 20
+blue 19 black 2 black 2 blue 19
+blue 18 black 2 black 8 black 2 blue 18
+blue 17 black 2 black 10 black 2 blue 17
+blue 16 black 2 black 2 black 2 black 2 blue 16
+blue 15 black 2 black 2 black 2 black 2 blue 15
+blue 14 black 2 black 2 black 2 black 2 blue 14
+blue 13 black 2 black 2 black 2 black 2 blue 13
+blue 12 black 2 black 2 black 2 black 2 blue 12
+blue 11 black 2 black 2 black 2 black 2 blue 11
+blue 10 black 2 black 2 black 3 black 2 black 2 blue 10
+blue 9 black 2 black 2 black 5 black 2 black 2 blue 9
+blue 8 black 2 black 2 black 3 black 7 black 1 black 2 black 2 blue 8
+blue 7 black 2 black 2 black 2 black 10 black 2 black 2 black 2 blue 7
+blue 6 black 2 black 2 black 2 black 4 black 1 black 2 black 2 black 2 blue 6
+blue 5 black 2 black 2 black 2 black 2 black 3 black 3 black 2 black 2 blue 5
+blue 4 black 2 black 2 black 2 black 3 black 3 black 4 black 2 black 2 blue 4
+blue 3 black 2 black 2 black 4 black 4 black 3 black 4 black 2 black 2 blue 3
+blue 2 black 2 black 2 black 6 black 6 black 5 black 2 black 2 blue 2
+blue 1 black 2 black 2 black 15 black 6 black 2 black 2 blue 1
+black 2 black 2 black 15 black 6 black 2 black 2
+black 1 black 2 black 15 black 7 black 2 black 1
+black 1 black 2 black 15 black 8 black 2 black 1
+black 1 black 2 black 16 black 8 black 2 black 1
+black 1 black 2 black 15 black 9 black 2 black 1
+black 1 black 2 black 13 black 10 black 2 black 1
+black 1 black 2 black 8 black 1 black 10 black 2 black 1
+black 1 black 2 black 6 black 3 black 11 black 2 black 1
+black 1 black 2 black 5 black 3 black 2 black 6 black 2 black 1
+black 2 black 2 black 4 black 3 black 12 black 2 black 2
+blue 1 black 2 black 2 black 4 black 3 black 6 black 2 black 2 blue 1
+blue 2 black 2 black 2 black 2 black 4 black 2 black 6 black 2 black 2 blue 2
+blue 3 black 2 black 2 black 4 black 6 black 2 black 2 blue 3
+blue 4 black 2 black 2 black 15 black 2 black 2 blue 4
+blue 5 black 2 black 2 black 6 black 2 black 6 black 2 black 2 blue 5
+blue 6 black 2 black 2 black 8 black 7 black 2 black 2 blue 6
+blue 7 black 2 black 2 black 8 black 8 black 2 black 2 blue 7
+blue 8 black 2 black 2 black 8 black 2 black 6 black 2 black 2 blue 8
+blue 9 black 2 black 2 black 18 black 2 black 2 blue 9
+blue 10 black 2 black 2 black 2 black 2 blue 10
+blue 11 black 2 black 2 black 2 black 2 blue 11
+blue 12 black 2 black 2 black 2 black 2 blue 12
+blue 13 black 2 black 2 black 2 black 2 blue 13
+blue 14 black 2 black 2 black 2 black 2 blue 14
+blue 15 black 2 black 2 black 2 black 2 blue 15
+blue 16 black 2 black 2 black 2 black 2 blue 16
+blue 17 black 2 black 10 black 2 blue 17
+blue 18 black 2 black 8 black 2 blue 18
+blue 19 black 2 black 2 blue 19
+blue 20 black 10 blue 20

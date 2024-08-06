@@ -1,0 +1,55 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Wombat"
+date "Aug 20, 2009"
+description "Listening to headphones"
+difficulty 2.25
+height 16
+id 6537
+link "https://webpbn.com/play.cgi?id=6537"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Play it, Sam"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 8
+green 12
+green 2 red 8 green 2
+green 2 red 5 red 2 green 2
+green 1 red 5 red 2 green 1
+green 1 red 5 red 2 green 1
+green 2 red 4 red 2 green 2
+green 2 red 3 black 2 black 2 red 2 green 2
+green 2 red 3 blue 1 black 1 blue 1 black 1 red 2 green 2
+green 2 red 3 red 2 green 2
+green 2 red 2 black 1 red 2 green 2
+green 1 red 2 red 2 green 1
+red 1 black 2 red 2 black 1 red 2
+red 1 black 2 black 2 red 1
+red 1 black 2 black 2
+black 4
+
+columns
+green 8
+green 2 green 6
+green 2 red 11
+green 1 red 9 black 1
+green 2 red 8 black 2
+green 2 red 5 black 1 blue 1 black 2
+green 2 red 4 black 2 black 2
+green 2 red 2 black 1 red 1 black 1
+green 2 red 1 red 1 black 1
+green 2 red 1 black 1 blue 1 black 2
+green 2 red 1 black 2 black 2
+green 2 red 2 black 2
+green 1 red 10
+green 2 red 10
+green 2 green 6
+green 8

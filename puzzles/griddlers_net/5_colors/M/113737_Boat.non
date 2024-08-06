@@ -1,0 +1,54 @@
+by "vilma_dan"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/6/11"
+height 16
+id 113737
+link "https://www.griddlers.net/nonogram/-/g/113737"
+medium_time "0:02:54"
+points 387
+popularity 66.47
+title "Boat"
+width 16
+
+color a ffffff
+color b ffff66
+color c c98c00
+color d ff0000
+color e 00d700
+
+rows
+d 1
+e 1 d 1
+e 2 d 2
+e 2 d 2
+e 3 d 3
+e 3 d 4
+e 4 d 4
+e 4 d 5
+e 4 d 6
+e 5
+c 1 e 1 c 3
+c 15
+c 2 b 2 c 2 b 2 c 2 b 2 c 2
+c 12
+c 10
+c 8
+
+columns
+c 3
+e 1 c 3
+e 4 c 1 b 1 c 2
+e 6 c 1 b 1 c 3
+e 8 c 5
+e 10 c 5
+c 1 b 1 c 3
+d 9 c 1 b 1 c 3
+d 7 c 5
+d 5 c 5
+d 4 c 1 b 1 c 3
+d 2 c 1 b 1 c 2
+d 1 c 3
+c 3
+c 2
+c 1

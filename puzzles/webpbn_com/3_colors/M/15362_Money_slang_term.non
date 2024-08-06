@@ -1,0 +1,61 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Kristen Vognild"
+date "Jul 29, 2011"
+description "Inspired by Tom's series of slang terms for money, starting with #15306"
+difficulty 2.25
+height 20
+id 15362
+link "https://webpbn.com/play.cgi?id=15362"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Money slang term"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 5
+black 7
+black 7
+black 14
+black 3 black 1 black 2
+black 2 black 2 black 1
+black 2 black 1 black 7 black 1
+black 2 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 2 black 1
+black 1 black 2 red 1 black 4 black 2
+black 1 black 2 red 1 red 1 red 1 black 2
+black 1 black 1 red 1 red 1 red 1 black 2
+black 1 black 2 black 1
+black 2 black 1 black 4 red 3 black 1
+black 1 black 3 black 1 black 1
+black 2 black 1 black 1 red 3 black 1
+black 2 black 1 black 3 black 1
+black 6 black 1
+black 2 black 1
+
+columns
+black 8
+black 2 black 3
+black 2 black 2
+black 2 black 2 black 2
+black 1 black 5 black 2
+black 2 black 3 black 2
+black 3 black 4
+black 4 black 2 black 1
+black 4 black 4 red 3 black 1 black 2
+black 4 black 1 black 1 black 1 black 1
+black 7 black 1 red 2 black 4
+black 4 black 5 red 1 red 1
+black 3 black 1 black 2 red 2 red 1 red 1
+black 1 black 1 red 1 red 1
+black 1 black 1
+black 1 black 3 black 8
+black 1 black 1 black 2
+black 1 black 2
+black 2 black 3
+black 5

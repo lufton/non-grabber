@@ -1,0 +1,76 @@
+by "demirors"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/7/08"
+height 34
+id 72822
+link "https://www.griddlers.net/nonogram/-/g/72822"
+medium_time "0:06:23"
+points 1739
+popularity 66.03
+title "Tetris"
+width 18
+
+color a c3bebe
+color c 000000
+color d ff0000
+color e 00d700
+color f 0000ff
+color g ffff33
+color h ff00ff
+
+rows
+c 1 c 1
+0
+c 14
+c 6 d 1 c 7
+c 6 d 1 c 7
+c 6 d 1 c 7
+c 6 d 1 c 7
+c 14
+c 14
+c 14
+c 14
+c 14
+c 14
+c 14
+c 14
+c 14
+c 6 h 1 c 7
+g 3 c 3 h 2 c 6
+g 1 h 1 d 5 h 1 g 6
+e 1 h 2 g 1 c 2 d 1 c 1 f 2 g 1 h 2 g 1
+e 2 h 1 g 1 c 2 d 1 g 1 f 2 h 2 c 2
+e 1 c 1 g 2 f 2 d 1 g 3 h 2 f 2
+d 4 f 2 c 3 h 2 c 1 f 2
+c 1 c 1
+0
+e 5
+d 2 e 1 e 3 e 1
+d 1 c 2 d 1 e 2 e 1 e 2
+d 1 c 2 d 1 e 3 e 3
+d 2 e 2 e 1 e 2
+e 1 e 3 e 1
+e 5
+0
+c 1 c 1
+
+columns
+c 1 c 1 c 1
+0
+c 15 g 2 e 3 d 1 d 2
+c 15 g 1 h 2 e 1 c 1 d 1 d 1 c 2 d 1
+c 15 g 1 d 1 h 2 g 1 d 1 d 1 c 2 d 1
+c 16 d 1 g 3 d 1 d 2
+c 16 d 1 c 2 f 2
+c 16 d 1 c 2 f 2
+c 1 d 4 c 9 h 2 d 4 c 1 e 5
+c 15 h 2 c 1 g 2 c 1 e 3
+c 16 g 1 f 2 g 1 c 1 e 1 e 1 e 1
+c 16 g 1 f 2 g 1 h 1 e 2 e 2
+c 16 g 2 h 3 e 3 e 3
+c 16 g 1 h 3 c 1 e 2 e 2
+c 16 g 1 h 1 c 1 f 2 e 1 e 1 e 1
+c 16 g 2 c 1 f 2 e 3
+e 5
+c 1 c 1 c 1

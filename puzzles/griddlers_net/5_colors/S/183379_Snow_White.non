@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/8/17"
+height 15
+id 183379
+link "https://www.griddlers.net/nonogram/-/g/183379"
+medium_time "0:02:54"
+points 619
+popularity 75.71
+title "Snow White"
+width 15
+
+color a fcbde6
+color b 3f333b
+color c cb3a53
+color d edccb8
+color e a0a6ce
+
+rows
+b 6
+b 3 c 4
+b 3 c 1 b 5
+b 3 c 1 b 6
+b 5 d 5 b 1
+b 4 d 6 b 1
+b 5 d 6 b 1
+b 5 d 5 b 2
+b 4 d 5 b 2
+b 2 d 6 b 2
+b 1 d 5 b 1
+e 3 d 5 e 2
+e 1 c 1 e 3 d 6 e 2 c 1 e 1
+e 5 d 5 e 5
+e 2 c 2 e 1 d 4 e 2 c 2 e 2
+
+columns
+e 3
+e 1 c 1 e 2
+b 2 e 3 c 1
+b 5 e 3 c 1
+b 7 e 3
+b 9 d 4
+b 9 d 6
+b 3 c 1 b 1 d 10
+b 2 c 1 b 1 d 11
+b 1 c 1 b 2 d 10 e 1
+b 1 c 1 b 2 d 7 d 1 e 2
+b 1 c 1 b 2 d 6 b 1 e 2 c 1
+c 1 b 2 d 3 b 3 e 3 c 1
+b 8 e 1 c 1 e 2
+e 3

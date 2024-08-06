@@ -1,0 +1,57 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by harris harris"
+date "Dec  9, 2008"
+description "explanation of game in first spoiler"
+difficulty 1.25
+height 15
+id 4292
+link "https://webpbn.com/play.cgi?id=4292"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "jigsaw puzzle (new life) 3 of 4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 20
+green 2 black 3 green 1 black 6 green 8
+green 1 black 1 black 1 black 1 green 7
+green 1 black 2 black 1 green 6
+black 1 black 1 black 1 green 5
+black 1 black 1 red 2 black 1 green 4
+
+columns
+green 13 black 2
+green 11 black 2
+green 10 black 1 black 2
+green 10 black 1
+green 10 black 1
+green 11 black 1
+green 10 black 1
+green 10 black 1 black 1
+green 10 black 1
+green 10 black 1
+green 10 black 1
+green 10 black 1
+green 11 black 1 red 1
+green 12 black 1 red 1
+green 13 black 1
+green 14 black 1
+green 15
+green 15
+green 15
+green 15

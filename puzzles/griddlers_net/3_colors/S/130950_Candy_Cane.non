@@ -1,0 +1,41 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/13/13"
+height 13
+id 130950
+link "https://www.griddlers.net/nonogram/-/g/130950"
+medium_time "0:02:24"
+points 357
+popularity 53.33
+title "Candy Cane"
+width 8
+
+color a 7fefb4
+color b e1764c
+color c fffffd
+
+rows
+b 1 c 4
+c 2 b 1 c 2 b 1 c 1
+b 1 c 2 b 1 c 2 b 1 c 1
+c 1 b 2 b 1 c 2
+c 3 c 2 b 1
+c 2 c 1 b 1 c 1
+b 1 c 2
+c 3
+c 2 b 1
+b 2 c 1
+c 3
+c 1 b 2
+b 1 c 2
+
+columns
+b 1 c 2
+c 2 b 1 c 2
+b 1 c 2 b 1 c 2
+c 1 b 2
+c 3 c 1 b 1 c 2 b 1
+c 3 b 1 c 2 b 1 c 2 b 1 c 1 b 1 c 1
+c 1 b 2 c 2 b 1 c 2 b 1 c 2 b 1 c 1
+c 3 b 1 c 3

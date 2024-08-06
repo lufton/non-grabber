@@ -1,0 +1,71 @@
+by "Richard Coderre (chiefsox)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Richard Coderre"
+date "Jul  6, 2014"
+description "Similar to one of Tom's puzzles."
+difficulty 1.75
+height 20
+id 25022
+link "https://webpbn.com/play.cgi?id=25022"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Disco Song 5"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 22
+black 2
+black 2
+red 1 red 1 black 2
+red 5 black 2
+red 5 black 1
+red 5 black 1
+red 5 black 1
+red 3 black 2
+red 1 black 2
+black 1
+black 1
+black 11 black 8
+black 1 black 1 black 2
+black 2 black 2 black 1 black 1 black 2 black 3
+black 4 black 4 black 1 black 1 black 4 black 4
+black 4 black 4 black 9 black 4 black 4
+black 2 black 2 black 2
+
+columns
+black 1 black 1 black 2
+black 1 red 4 black 1 black 4
+black 1 red 6 black 1 black 4
+black 1 red 6 black 1 black 2
+black 1 red 6 black 1
+black 1 red 4 black 1 black 2
+black 1 black 1 black 4
+black 1 black 1 black 4
+black 1 black 1 black 2
+black 1 black 1
+black 1 black 5
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 5
+black 1 black 1
+black 1 black 1 black 2
+black 2 black 1 black 4
+black 2 black 1 black 4
+black 2 black 1 black 2
+black 2 black 1
+black 13
+black 2 black 4
+black 3
+black 2
+0

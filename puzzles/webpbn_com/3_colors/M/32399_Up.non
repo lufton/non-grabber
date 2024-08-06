@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Brian Bellis"
+date "Apr 23, 2019"
+description "up and away"
+difficulty 1.75
+height 20
+id 32399
+link "https://webpbn.com/play.cgi?id=32399"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Up"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6 black 5
+black 8 black 6
+black 8 blue 4 black 3
+black 8 blue 6 black 2
+black 7 blue 7 black 2
+black 6 blue 8 black 1 blue 1
+black 5 blue 7 blue 2
+black 4 blue 7 blue 2
+black 3 blue 8 blue 1
+black 3 blue 7
+black 1 blue 5 black 2 black 3 blue 1
+black 1 black 1 blue 4 black 8 blue 3
+black 1 blue 3 black 8 blue 4
+black 3 blue 1 black 2 black 3 blue 4
+black 4 black 2 blue 2
+black 4 blue 1
+black 4
+black 2
+black 1
+black 1
+
+columns
+black 4 black 4
+black 7 black 3
+black 10 black 3
+black 9 black 4
+black 6 black 5
+black 5 blue 3 black 2
+black 5 blue 5
+black 4 blue 5 black 1
+black 4 blue 4 black 3
+black 3 blue 4 black 3
+black 2 blue 5 black 3
+black 1 blue 6 black 3
+blue 7 black 2
+blue 7 black 3
+black 1 blue 7 black 4
+black 2 blue 6 black 4
+black 2 blue 5 black 2 blue 2
+black 3 blue 3 blue 4
+black 6 blue 2 blue 4
+black 5 blue 4 blue 5

@@ -1,0 +1,47 @@
+by "eewawetwe (ddongddo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by eewawetwe"
+date "Dec  3, 2018"
+description "asd"
+difficulty 1.5
+height 11
+id 31845
+link "https://webpbn.com/play.cgi?id=31845"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "pattern 2"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 13
+black 1 red 11 black 1
+black 1 red 1 green 1 red 1 blue 2 red 1 blue 2 red 1 green 1 red 1 black 1
+black 1 red 3 blue 1 red 1 blue 1 red 3 black 1
+black 1 red 1 blue 1 red 3 blue 1 red 1 black 1
+black 1 red 5 green 1 red 5 black 1
+black 1 red 1 blue 1 red 3 blue 1 red 1 black 1
+black 1 red 3 blue 1 red 1 blue 1 red 3 black 1
+black 1 red 1 green 1 red 1 blue 2 red 1 blue 2 red 1 green 1 red 1 black 1
+black 1 red 11 black 1
+black 13
+
+columns
+black 11
+black 1 red 9 black 1
+black 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 green 1 red 1 black 1
+black 1 red 3 red 1 red 3 black 1
+black 1 red 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 1 blue 2 red 3 blue 2 red 1 black 1
+black 1 red 4 green 1 red 4 black 1
+black 1 red 1 blue 2 red 3 blue 2 red 1 black 1
+black 1 red 1 blue 1 red 1 blue 1 red 1 black 1
+black 1 red 3 red 1 red 3 black 1
+black 1 red 1 green 1 red 1 blue 1 red 1 blue 1 red 1 green 1 red 1 black 1
+black 1 red 9 black 1
+black 11

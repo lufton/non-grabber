@@ -1,0 +1,102 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by David Bouldin"
+date "Apr 18, 2011"
+description "Blue-squared "hommage" to RenÃ© Magritte's The Son of Man (1964)."
+difficulty 2.25
+height 40
+id 13433
+link "https://webpbn.com/play.cgi?id=13433"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "WCP #82 - Son of Blue Square"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 6
+black 9
+black 11
+black 11
+black 11
+black 11
+black 11
+black 17
+black 16
+black 2 black 1
+black 2 blue 8 black 1
+black 2 blue 8 black 1
+black 2 blue 8 black 1
+black 2 blue 8 black 1
+black 1 blue 8 black 2
+black 1 blue 8 black 1
+black 1 blue 8 black 1
+black 1 blue 8 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 5 black 2
+black 2 black 3
+black 5 red 2 black 4
+black 8 red 2 black 7
+black 11 red 1 black 10
+black 12 red 2 black 12
+black 14 red 2 black 13
+black 14 red 3 black 14
+black 15 red 3 black 14
+black 15 red 3 black 15
+black 15 red 4 black 15
+black 16 red 3 black 16
+black 16 red 3 black 16
+black 17 red 2 black 17
+black 17 red 2 black 17
+black 17 red 1 black 18
+black 17 red 1 black 18
+
+columns
+0
+0
+black 9
+black 11
+black 12
+black 13
+black 13
+black 13
+black 14
+black 14
+black 14
+black 1 black 15
+black 2 black 15
+black 2 black 4 black 16
+black 15 black 18
+black 9 black 3 black 15
+black 8 blue 8 black 1 black 11
+black 9 blue 8 black 1 black 6
+black 9 blue 8 black 1 red 8 black 4
+black 9 blue 8 black 1 red 15
+black 9 blue 8 black 1 red 2 red 8 black 2
+black 9 blue 8 black 1 red 1 black 6
+black 9 blue 8 black 1 black 8
+black 8 blue 8 black 1 black 13
+black 8 black 5 black 18
+black 2 black 5 black 17
+black 2 black 16
+black 2 black 15
+black 14
+black 14
+black 14
+black 13
+black 13
+black 12
+black 12
+black 11
+black 10
+black 4
+0
+0

@@ -1,0 +1,106 @@
+by "vivimagi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/18/07"
+height 48
+id 55527
+link "https://www.griddlers.net/nonogram/-/g/55527"
+medium_time "0:22:43"
+points 68734
+popularity 71.0
+title "No Smoking"
+width 33
+
+color a 000099
+color b ad6529
+color c 6d6e71
+color d cdcfd2
+color e f1f4f7
+color f dee2e5
+color g b2b4b7
+color h cc9900
+
+rows
+h 1 b 2
+h 1 b 4
+h 1 b 6
+h 1 b 8
+h 1 b 8
+h 1 b 8
+h 1 b 8
+h 1 b 8
+c 3 h 1 b 8
+c 1 d 1 e 1 f 1 c 1 h 1 b 8
+c 1 g 1 f 1 e 2 f 1 c 1 h 1 b 8
+c 1 d 1 f 1 e 2 f 1 g 1 c 1 b 8
+c 1 d 1 f 1 e 2 f 1 d 1 c 1 b 7
+c 1 g 1 f 1 e 2 f 1 d 1 c 1 b 6
+c 1 g 1 d 1 e 2 f 1 d 1 c 1 b 5
+c 1 g 1 d 1 e 2 f 1 d 1 c 1 g 1 b 3
+c 1 g 1 d 1 e 2 f 1 d 1 c 1 g 2 b 1
+c 4 g 1 d 1 f 1 e 1 f 1 d 1 c 1 g 1 c 1
+c 1 f 2 g 1 c 1 g 1 d 1 f 1 e 1 f 1 d 1 c 2
+c 1 f 1 e 1 f 1 g 1 c 1 g 2 f 1 e 1 f 1 d 1 c 1
+c 1 d 1 f 1 e 1 f 1 d 1 c 1 g 2 f 3 d 1 c 4
+c 1 f 1 e 3 c 2 g 2 d 1 f 2 d 1 c 1 d 1 f 1 e 1 c 1
+c 1 g 1 f 1 e 3 c 1 g 3 d 1 f 1 d 1 g 1 c 1 e 3 f 1 c 1
+c 1 g 1 d 1 f 1 e 3 c 1 g 2 d 1 f 1 d 1 g 1 c 1 e 3 f 1 c 1
+c 1 g 1 d 1 f 1 e 4 c 1 g 1 d 3 g 1 c 1 e 3 f 1 c 1
+c 1 g 2 d 1 f 1 e 4 c 1 d 3 g 1 c 1 e 3 f 1 c 1
+c 1 g 1 d 2 f 2 e 3 c 1 d 1 g 2 c 1 f 4 c 1
+c 1 g 2 d 2 f 5 c 2 g 1 c 1 g 1 d 3 c 1
+c 1 g 2 d 3 f 5 c 1 f 1 g 4 c 1
+c 1 g 2 d 4 f 1 d 5 g 3 c 1
+c 1 g 3 d 7 g 4 c 1
+c 1 g 5 d 3 g 4 c 1
+c 1 g 9 c 1
+c 1 g 1 c 3 g 5 c 1
+c 1 g 5 c 5
+c 1 g 8 c 1
+g 9 c 1
+c 1 g 1 d 2 f 1 d 1 g 3 c 1
+c 1 g 1 d 2 f 2 d 1 g 2 c 1
+c 1 g 1 d 2 f 3 d 1 g 2
+g 1 d 2 f 3 d 1 g 2 c 1
+c 1 g 1 d 2 f 3 d 1 g 1 c 1
+c 1 g 1 d 1 f 4 d 1 g 2 c 1
+c 1 d 1 f 5 g 2 c 1
+d 1 f 3 d 1 g 1 c 1
+g 1 f 1 d 1 g 2 c 1
+c 1 g 2 c 1
+c 2
+
+columns
+c 2
+c 1 g 1 d 1
+c 4 c 1 g 2 d 1 f 1 d 1
+c 2 g 4 c 2 c 1 g 1 d 2 f 3 g 1
+c 1 d 1 f 2 d 2 g 3 c 1 c 1 g 1 d 3 f 4 c 1
+c 1 f 2 e 2 f 2 d 2 g 2 c 1 g 2 d 2 f 5 d 1 g 1 c 1
+c 1 f 1 e 6 f 1 d 2 g 2 c 1 c 1 g 1 d 2 f 5 d 1 g 2 c 1
+c 1 f 3 e 5 f 1 d 2 g 2 c 1 c 1 g 2 d 1 f 4 d 1 g 3 c 1
+c 1 g 2 d 1 c 2 e 3 f 2 d 2 g 2 c 1 g 3 f 3 d 2 g 2 c 2
+c 12 g 1 c 1 e 3 f 1 d 2 g 2 c 1 g 4 d 3 g 3 c 1
+c 1 g 1 d 2 g 11 c 1 e 2 f 2 d 2 g 2 c 1 g 7 c 2
+c 1 d 1 f 4 d 5 g 6 c 1 e 1 f 2 d 2 g 2 c 1 g 6 c 1
+c 1 e 8 f 4 d 5 c 1 f 3 d 1 g 2 c 1 g 4 c 1
+c 1 f 1 e 10 f 4 d 3 c 1 f 1 d 3 g 2 c 1 g 2 c 1
+c 1 f 12 d 4 g 1 c 1 f 1 d 3 g 2 c 1 g 1 c 1
+c 1 g 1 d 10 g 6 c 1 d 3 g 2 c 2
+c 17 f 1 d 2 g 3 c 1
+h 1 b 4 g 3 c 1 c 1 d 1 e 4 f 1 g 2 d 1 g 4 c 1
+h 1 b 6 g 1 c 1 c 1 f 1 e 4 f 1 d 1 g 5 c 1
+h 1 b 8 c 1 e 5 f 1 d 1 g 4 c 1
+h 1 b 8 c 1 f 5 d 1 g 3 c 1
+h 1 b 8 c 9
+h 1 b 8
+h 1 b 8
+h 1 b 8
+h 1 b 8
+h 1 b 8
+h 1 b 8
+b 8
+b 7
+b 5
+b 3
+b 1

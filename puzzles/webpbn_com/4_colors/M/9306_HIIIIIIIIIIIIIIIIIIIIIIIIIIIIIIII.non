@@ -1,0 +1,62 @@
+by "gabi eierman (gabieierman)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by gabi eierman"
+date "Jun 21, 2010"
+description "HOLA!!!!"
+difficulty 1.5
+height 20
+id 9306
+link "https://webpbn.com/play.cgi?id=9306"
+note "published,definitely non-unique,may require some guessing"
+quality 1.25
+title "HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 1 black 1 blue 1 blue 1 black 1 black 9
+green 1 black 1 black 1 black 1
+green 1 black 1 blue 1 blue 1 black 1 blue 3 black 1
+green 1 black 1 blue 3 black 1 blue 1 black 1
+green 1 black 1 black 1 blue 1 black 1 green 2
+green 1 black 1 black 1 blue 1 black 1 green 2
+green 1 black 1 black 1 blue 1 black 1 green 2
+green 1 black 8 blue 1 black 1 green 2
+green 1 black 1 black 1 blue 1 black 1 green 2
+green 1 black 1 black 1 blue 1 black 1 green 2
+green 1 black 1 black 1 blue 2 black 1 green 2
+black 1 blue 2 blue 2 black 1 blue 1 black 1 green 2
+black 1 blue 2 blue 2 black 1 blue 1 black 1 green 2
+black 1 black 1 blue 1 black 1 green 1
+black 1 blue 1 blue 1 black 1 blue 1 black 1 green 1
+black 1 blue 1 blue 1 black 1 blue 3 black 1 green 2
+black 1 blue 1 blue 1 black 1 black 1
+black 1 blue 3 black 1 black 1
+black 1 black 1 black 9
+
+columns
+green 10
+green 1
+black 19
+black 1
+black 1 blue 2 blue 3
+blue 1 blue 2 black 1 blue 2 blue 1
+blue 1 black 1 blue 1
+blue 1 blue 2 black 1 blue 2 blue 1
+black 1 blue 2 blue 3
+black 19
+0
+black 1 blue 1 black 1
+black 1 blue 1 blue 7 blue 1 black 1
+black 1 blue 2 blue 2 blue 1 black 1
+black 1 blue 4 black 1
+black 19
+black 1 black 1
+black 1 green 9 black 1
+black 1 green 12 black 1
+black 1 green 1 black 1

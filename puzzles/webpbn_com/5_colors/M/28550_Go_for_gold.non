@@ -1,0 +1,59 @@
+by "Donna Hadley (Dhadley7)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna Hadley"
+date "Aug 13, 2016"
+description "This is my first attempt at creating a puzzle. Much harder than I thought to get a unique solution. Plus I can't draw :)"
+difficulty 1.5
+height 18
+id 28550
+link "https://webpbn.com/play.cgi?id=28550"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Go for gold"
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 green 4 blue 4
+red 2 red 2 green 2 green 2 blue 2 blue 2
+red 1 red 1 green 1 green 1 blue 1 blue 1
+red 1 red 1 green 1 green 1 blue 1 blue 1
+red 2 red 2 green 2 green 2 blue 2 blue 2
+red 4 green 4 blue 4
+black 4 black 4
+black 2 black 3 black 2
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 2 black 3 black 2
+black 4 black 4
+0
+black 1 black 1 black 4 black 1
+black 1 black 1 black 1 black 3
+black 1 black 1 black 4 black 1 black 1
+black 1 black 1 black 1 black 5
+black 4 black 4 black 1 black 1
+
+columns
+red 4
+red 2 red 2 black 5
+red 1 red 1 black 1
+red 1 red 1 black 1
+red 2 red 2 black 4 black 5
+red 4 black 2 black 2
+green 4 black 1 black 1
+green 2 green 2 black 1 black 1 black 3 black 1
+green 1 green 1 black 2 black 2 black 1 black 1 black 1
+green 1 green 1 black 4 black 1 black 1 black 1
+green 2 green 2 black 2 black 2 black 1 black 3
+green 4 black 1 black 1
+blue 4 black 1 black 1
+blue 2 blue 2 black 2 black 2 black 2
+blue 1 blue 1 black 4 black 3
+blue 1 blue 1 black 2 black 1
+blue 2 blue 2 black 3
+blue 4 black 2

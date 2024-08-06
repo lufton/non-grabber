@@ -1,0 +1,59 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/26/19"
+height 20
+id 203000
+link "https://www.griddlers.net/nonogram/-/g/203000"
+medium_time "0:08:48"
+points 2176
+popularity 81.14
+title "Strawberry"
+width 15
+
+color a ffffff
+color b 339900
+color c 66cc00
+color d cc0000
+color e 333333
+color f ff3333
+color g ff6666
+
+rows
+b 1
+b 2
+c 1 b 3
+c 2 b 3 c 1
+c 3 b 2 c 1
+d 4 c 2 b 1 c 1 d 4
+d 2 f 3 g 1 f 1 g 1 f 1 g 1 f 1 d 2
+d 2 e 1 d 1 f 1 g 3 e 1 g 1 f 1 g 1 f 1 d 1
+d 1 f 1 d 1 f 3 g 4 e 1 f 1 d 1 e 1 d 1
+d 2 f 1 d 1 f 1 e 1 g 4 f 1 g 1 f 1 d 2
+e 1 f 1 d 1 f 3 g 5 f 1 d 3
+d 2 f 1 d 1 f 1 g 2 e 1 g 2 f 1 g 1 f 1 d 2
+d 1 f 1 d 1 f 3 g 5 f 1 d 2 e 1
+d 2 f 1 d 1 f 1 g 3 e 1 g 1 f 1 g 1 f 1 d 2
+d 1 f 1 e 1 f 3 g 5 f 1 d 2
+d 1 f 1 d 1 f 1 e 1 f 1 g 3 f 3 d 1
+d 2 f 1 d 1 f 1 g 1 f 3 g 1 f 1 d 1
+d 2 f 1 d 1 f 3 g 1 f 1 d 1
+d 4 f 1 d 1 f 1 d 1
+d 1 e 1 d 4
+
+columns
+d 3 e 1 d 4
+d 3 f 1 d 1 f 1 d 1 f 1 d 1 f 1 d 2
+d 2 e 1 d 1 f 1 d 1 f 1 d 1 f 1 e 1 f 1 d 2
+d 1 f 1 d 1 f 1 d 1 f 1 d 1 f 1 d 1 f 1 d 1 f 1 d 2
+c 3 d 1 f 10 d 1 f 1 d 2
+c 3 f 1 g 1 f 1 e 1 f 1 g 1 f 1 g 1 f 1 e 1 f 1 d 2 e 1
+c 2 g 9 f 1 g 1 f 1 d 2
+b 4 f 1 g 4 e 1 g 4 f 3 d 1
+b 5 c 1 g 1 e 1 g 5 e 1 g 2 f 2 d 2
+b 3 c 1 d 1 f 1 g 9 f 1 g 1 f 1 d 1
+c 1 d 1 g 1 f 1 e 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 d 1
+d 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 3 d 1
+d 2 f 1 d 1 f 1 d 1 f 1 d 1 f 1 d 1 f 1 d 1
+d 2 e 1 d 7
+d 4 e 1 d 1

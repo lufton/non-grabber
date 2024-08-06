@@ -1,0 +1,31 @@
+by "paukenpietje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/13"
+height 5
+id 135713
+link "https://www.griddlers.net/nonogram/-/g/135713"
+medium_time "0:00:17"
+points 14
+popularity 50.09
+title "Cooling Down a Bit"
+width 5
+
+color a 00ccff
+color b 0033ff
+color c cc3300
+color d ffccff
+
+rows
+d 1
+d 1
+d 1 c 1
+d 1 c 2
+b 5
+
+columns
+b 1
+b 1
+d 1 d 1 b 1
+d 2 c 1 b 1
+c 2 b 1

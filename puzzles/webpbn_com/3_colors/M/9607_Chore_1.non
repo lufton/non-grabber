@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jul 13, 2010"
+description ""
+difficulty 1.5
+height 20
+id 9607
+link "https://webpbn.com/play.cgi?id=9607"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Chore #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 3
+black 6
+black 5
+black 5
+black 4
+black 2
+black 4
+black 7
+black 8
+black 6 black 2
+black 5 black 2
+black 4 black 2
+black 4 black 2
+black 1 black 1 black 2
+black 1 black 1 black 2
+black 1 black 1 black 5
+black 1 black 1 black 5
+black 2 black 2 black 1 green 3 black 1 green 2
+green 20
+green 20
+
+columns
+green 2
+black 3 black 4 green 2
+black 5 black 12 green 2
+black 13 black 1 green 2
+black 13 green 2
+black 4 black 12 green 2
+black 1 black 3 black 1 green 2
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 2 green 2
+black 5 green 2
+black 3 green 3
+black 2 green 3
+black 2 green 3
+black 3 green 2
+green 3
+green 3

@@ -1,0 +1,58 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 26, 2010"
+description "It's laundry day ;)"
+difficulty 1.75
+height 15
+id 9373
+link "https://webpbn.com/play.cgi?id=9373"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Time to hang out."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1 black 1 black 1
+black 5 black 1 black 1 black 1 black 5
+red 3 black 11 green 5
+red 3 blue 1 red 1 red 1 green 5
+red 3 blue 3 red 2 red 2 green 2 green 2
+red 3 blue 3 green 2 green 2
+red 1 blue 1 green 2 green 2
+red 1 blue 3
+blue 3
+blue 1
+green 3
+black 2 green 2 black 2
+black 1 green 2 black 1
+black 4
+
+columns
+black 1 red 4
+black 1 red 4
+black 2 red 6
+black 1
+black 2
+black 1 blue 2 blue 2
+black 2 blue 7
+black 1 blue 2 blue 2
+black 1
+black 1 red 1
+black 2 red 2 black 1
+black 1 black 3
+black 1 red 1 green 3 black 1
+black 2 red 2 green 3 black 1
+black 1 green 1 black 3
+black 1 green 5 black 1
+black 2 green 5
+black 1 green 2
+black 2 green 5
+black 1 green 5

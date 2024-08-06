@@ -1,0 +1,57 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "May 24, 2013"
+description "I was craving for a nice tabouli salad,so Niki went out and got the necessary ingredients. When I started chopping the parsley,I wondered what sort of parsley is this cause it had a different smell and taste. Turns out,she picked a bunch of cilantro instead. I'll eat it,but it's not the taste I was longing for."
+difficulty 3.0
+height 15
+id 22020
+link "https://webpbn.com/play.cgi?id=22020"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Not quite the same."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 1 green 1
+green 1 green 1 green 1 green 1 green 2 green 1
+green 2 red 1 green 2 green 2 green 1 red 1 green 1 green 1
+green 1 green 2 red 1 green 1 green 1 green 1 red 1 green 2
+black 18
+black 2 green 1 green 1 green 1 green 1 black 2
+black 2 green 2 red 1 green 1 green 2 red 1 green 3 green 1 black 2
+black 1 green 1 red 1 green 1 green 1 red 1 black 1
+black 2 red 1 green 2 red 1 green 2 green 1 black 2
+black 1 green 1 green 2 red 1 green 1 black 1
+black 2 green 1 red 1 green 2 red 1 black 2
+black 2 green 3 black 2
+black 2 green 1 red 1 green 1 black 2
+black 2 black 2
+black 8
+
+columns
+black 2
+green 1 black 5
+green 2 black 1 green 1 black 3
+red 1 black 1 green 1 red 1 black 2
+green 2 green 1 black 1 green 1 black 2
+green 2 black 1 green 1 red 1 green 3 black 2
+green 2 black 1 green 3 black 2
+black 1 red 1 green 1 black 1
+green 1 red 1 black 1 green 1 red 2 green 1 black 1
+green 1 black 1 green 1 green 2 red 1 black 1
+green 3 black 1 green 3 black 1
+black 1 red 1 red 1 green 1 black 1
+green 1 black 1 green 2 green 3 black 1
+green 1 green 1 black 1 green 3 green 2 black 2
+green 2 red 1 black 1 green 1 red 1 black 2
+green 1 black 1 red 1 green 1 black 2
+green 1 red 1 black 1 green 1 black 2
+green 1 black 1 black 3
+green 3 black 5
+black 2

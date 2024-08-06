@@ -1,0 +1,88 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Norma Dee"
+date "Oct  3, 2016"
+description "Igor and Mr. Cat are playing "pumpkinball" with their friends at a Boys and Girls club."
+difficulty 2.75
+height 30
+id 28832
+link "https://webpbn.com/play.cgi?id=28832"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Pumpkin ball?"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 15
+black 1 black 1 black 1 black 1 black 6
+black 1 black 1 black 1 black 1 black 6
+black 1 black 1 black 1 black 6
+red 4 black 1 black 1 black 1 black 6
+red 2 black 1 red 3 black 1 black 1 black 5
+red 6 black 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 1 red 4
+red 1 black 1 red 2
+blue 4 blue 1
+blue 4 blue 2
+blue 1 blue 4 blue 2
+blue 2 blue 4 blue 2 black 1 black 1
+blue 2 blue 3 blue 3 black 1 black 3 green 1
+blue 3 red 4 blue 3 black 1 green 1 black 1 green 1 black 1 black 3 green 1
+blue 3 red 1 red 1 blue 2 black 1 black 3 black 1 black 6
+blue 2 red 2 red 1 blue 1 black 1 black 1 black 1 black 3 black 1
+red 1 black 2 green 1 black 1 green 1 black 2 black 3 black 1 black 1
+red 4 green 3 black 3 black 3 green 1 black 1 green 1 black 2
+blue 4 green 3 black 1 black 3 black 1 green 3 black 1
+blue 5 black 3 black 1 black 1 black 1 green 3
+blue 5 green 3 black 2 red 1 black 1 red 1 black 2 black 3
+blue 2 blue 2 green 4 red 3 green 3
+blue 2 blue 3 black 1 green 1 black 3 green 4
+blue 3 black 1 black 1 red 3 black 1 green 1
+green 2 black 1 red 3 green 2 black 1
+green 2 red 1 red 1 green 2
+black 1 blue 2
+blue 2
+
+columns
+0
+blue 5
+blue 5
+blue 3 blue 1
+blue 5 red 5 blue 6
+blue 5 red 1 red 1 red 1 blue 6
+blue 5 red 1 red 1 blue 3
+blue 4 red 3 red 1 blue 5
+blue 4 blue 4
+blue 7 blue 1
+blue 5
+red 2 black 1 red 1
+red 4 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1 black 5 green 1
+red 6 black 1 green 1 black 2 green 1
+red 3 black 1 red 2 black 2 green 1 black 1 green 3 black 1 green 2
+red 4 black 5 green 2 black 1 green 2
+black 2 green 1 black 1 green 3 black 1 green 3 black 2 green 1
+black 1 green 1
+black 4 black 3
+black 3 black 1 blue 1
+black 1 black 2 black 3 red 2 black 1 red 3 black 1 blue 1
+black 3 black 2 black 5 red 1 black 1 red 2
+black 1 black 2 black 3 red 2 black 1 red 3 blue 1
+black 3 black 2 black 1 blue 1
+black 1 black 2 black 3
+black 3
+black 1 black 2
+black 1 black 1 green 1
+black 5 black 1 black 1 green 1 black 1 green 1
+black 6 black 3 green 3 black 1 green 2
+black 6 black 5 green 2 black 1 green 2
+black 6 green 1 black 3 green 3 black 1 green 3 black 1 green 1
+black 6 green 1 black 1 black 1 green 1
+black 6 black 2 black 2

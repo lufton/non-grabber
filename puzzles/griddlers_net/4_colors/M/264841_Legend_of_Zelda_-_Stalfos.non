@@ -1,0 +1,52 @@
+by "gramblar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/21/23"
+height 16
+id 264841
+link "https://www.griddlers.net/nonogram/-/g/264841"
+medium_time "0:06:53"
+points 2077
+popularity 74.27
+title "Legend of Zelda - Stalfos"
+width 15
+
+color a 000000
+color b ffffff
+color c ff9900
+color d ff0000
+
+rows
+b 5 c 1
+b 1 d 2 b 1 d 2 b 1 c 2
+b 1 d 1 b 3 d 1 b 1 c 2
+b 3 d 1 b 3 c 2
+b 5 c 2
+b 1 c 2 b 2 c 2
+b 3 c 2 b 1 b 3 d 4
+b 1 d 2 c 2 b 4 b 4
+b 1 d 1 c 2 b 1 b 2
+b 1 d 1 c 1 d 1 b 5 d 2
+b 1 d 2 b 1 b 1 b 1
+b 5
+b 2 b 2
+b 4 b 2
+b 2
+b 4
+
+columns
+b 3 b 1
+b 1 d 3 b 1 b 1
+b 1 d 1 c 2 d 1 b 2
+b 3 b 1 c 2 d 2 b 3
+b 1 d 2 b 3 c 2 b 3
+b 1 d 1 b 3 c 2 b 1 b 1 b 1
+b 3 d 1 b 1 c 1 b 6
+b 1 d 1 b 4 b 1 b 1 b 1
+b 1 d 2 b 5 b 2 b 1
+b 3 b 1 b 4
+b 2 b 3
+d 1 b 1 b 1
+c 6 d 1 b 2 d 1 b 1
+c 5 d 1 b 2 d 1
+d 1

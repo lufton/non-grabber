@@ -1,0 +1,37 @@
+by "Samantha Ciancio (SCiancio)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Samantha Ciancio"
+date "Sep 27, 2018"
+description "Man's best friend"
+difficulty 1.25
+height 8
+id 31604
+link "https://webpbn.com/play.cgi?id=31604"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Sidekick"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 3 black 3
+black 8
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 6
+black 1 red 4 black 1
+black 4
+
+columns
+black 2
+black 7
+black 2 black 1 red 1 black 1
+black 4 red 1 black 1
+black 4 red 1 black 1
+black 2 black 1 red 1 black 1
+black 7
+black 2

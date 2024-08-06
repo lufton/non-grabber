@@ -1,0 +1,31 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 20, 2011"
+description "Dee hiding from Minnie. He's behind a floor-length blue curtain but he forgot to hide his tail."
+difficulty 1.0
+height 5
+id 12894
+link "https://webpbn.com/play.cgi?id=12894"
+note "published,definitely unique,definitely trivial"
+quality 1.5
+title "Brian's animal challenge #6"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 2
+blue 2 black 1
+blue 2 black 1
+blue 2 black 1
+blue 2 black 2
+
+columns
+blue 5
+blue 5
+black 1
+black 4
+0

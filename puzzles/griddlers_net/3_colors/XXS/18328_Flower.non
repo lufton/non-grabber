@@ -1,0 +1,30 @@
+by "Hav"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/27/05"
+height 5
+id 18328
+link "https://www.griddlers.net/nonogram/-/g/18328"
+medium_time "0:00:25"
+points 13
+popularity 29.85
+title "Flower"
+width 5
+
+color a ffffff
+color b ff0000
+color c 00ff00
+
+rows
+b 1 b 1
+b 1
+b 1 c 1 c 1
+c 2
+c 1
+
+columns
+b 1 b 1
+b 1
+b 1 c 2
+c 1
+c 1 c 1

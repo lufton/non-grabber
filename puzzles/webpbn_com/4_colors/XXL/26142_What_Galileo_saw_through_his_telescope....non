@@ -1,0 +1,122 @@
+by "Al LaPointe (Kancamagus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Al LaPointe"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 3.0
+height 30
+id 26142
+link "https://webpbn.com/play.cgi?id=26142"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "What Galileo saw through his telescope..."
+width 70
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 54
+black 1 black 1
+black 1 black 7 black 2
+black 2 black 1 black 1 black 2
+black 1 black 2 black 1 black 2
+black 1 black 1 black 1 red 2 black 2
+black 1 black 1 black 1 black 2 black 2 black 1 black 2 black 2 black 1 black 2 black 1 black 1 red 5 black 2
+black 1 black 4 black 1 black 2 black 2 black 2 black 1 black 1 black 1 black 1 red 6 black 2
+black 1 black 4 black 1 black 1 black 3 black 2 black 1 black 2 black 1 black 1 red 1 black 1
+black 2 black 1 black 1 black 2 black 2 black 1 black 1 black 2 black 1 black 1 black 1 black 1 black 2
+black 1 red 23 blue 1 red 3 black 2
+black 1 red 7 black 13 red 25 blue 1 red 2 black 2
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 2
+black 2 black 1 black 1 black 2
+black 69
+black 1 black 1 black 15 black 1 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 2 black 1 black 1 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 4
+black 1 black 1 black 1 black 1 black 1 black 7 black 4
+black 57
+black 3 black 1 black 1
+black 1 red 4 black 11 red 7 blue 1 red 2 black 1 black 2
+black 2 red 6 blue 1 red 1 black 1 black 1
+black 3 black 1 black 2
+black 50
+blue 6 blue 5
+blue 4 blue 3
+
+columns
+0
+black 2 black 5 blue 1
+black 9 black 2 black 2 blue 2
+black 7 black 1 black 3 black 2 black 2 blue 2
+black 4 black 1 black 3 black 1 blue 2
+black 1 black 3 black 1 black 1 blue 2
+black 1 black 1 black 2 black 1 black 1 blue 1
+black 1 black 4 red 1 black 1 black 3 black 1
+black 1 black 2 red 1 black 1 black 1 black 1
+black 1 black 4 red 1 black 1 black 1 black 1
+black 1 black 2 red 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1 black 1
+black 1 black 2 red 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 2 black 3 black 1
+black 1 black 4 black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 1 black 3 black 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 2 black 1 red 1 black 1
+black 1 black 1 black 1 black 1 black 2 black 1 red 1 black 1
+black 1 black 2 black 1 black 2 black 1 red 1 black 1
+black 1 black 4 black 1 black 2 black 1 red 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 1 black 2 red 1 black 2 black 3 black 1 black 1
+black 1 black 3 red 1 black 5 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 1 black 1 black 1
+black 1 red 2 black 1 black 3 black 1 black 1
+black 1 red 2 black 1 black 3 black 1 black 1
+black 1 red 2 black 3 black 1 red 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 black 1 red 2 black 6 black 1 red 2 black 1
+black 1 black 5 red 2 black 1 black 3 black 1 red 2 black 1 blue 1
+black 1 black 3 red 2 black 1 black 2 red 2 black 1 blue 2
+black 1 black 1 red 2 black 1 black 2 red 2 black 1 blue 2
+black 1 black 1 red 2 black 1 black 2 red 2 black 1 blue 2
+black 1 black 1 red 2 black 1 black 2 blue 2 black 1 blue 1
+black 1 black 1 red 2 black 1 black 2 red 2 black 1
+black 1 black 1 red 2 black 1 black 2 red 1 black 1
+black 1 black 3 red 2 black 1 black 3 black 1
+black 1 black 5 red 2 black 1 black 2 black 6
+black 1 red 2 black 6 black 1 black 1
+black 1 red 2 black 1 black 3 black 2
+black 1 red 2 black 1 black 1 black 1 black 3
+black 1 red 1 blue 2 black 1 black 1
+black 1 red 3 red 2 black 1 black 1 black 1
+black 1 red 2 red 2 black 1 black 1
+black 3 red 3 red 1 black 1 black 2
+black 2 red 3 black 1 black 1
+black 2 red 2 black 1 black 1
+black 2 black 1 black 2
+black 2 black 1 black 1
+black 2 black 1 black 2
+black 3 black 1 black 2
+black 2 black 1 black 1
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 1
+black 5
+black 3

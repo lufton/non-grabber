@@ -1,0 +1,54 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Yonah Kondor"
+date "Jul 24, 2024"
+description "...I'm downloading a song!"
+difficulty 1.5
+height 16
+id 38779
+link "https://webpbn.com/play.cgi?id=38779"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Don't pick up the phone..."
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 blue 6 black 1 black 2
+black 1 blue 6 blue 4 black 2
+blue 4 blue 1 blue 4 black 1
+blue 2 blue 2 blue 3 black 1
+blue 3 blue 2 blue 2 black 1
+blue 2 blue 2 green 1 blue 2
+blue 2 blue 2 green 2 blue 2
+blue 4 green 2 blue 1
+blue 1 blue 1
+blue 2 green 2 blue 1 blue 1
+blue 2 green 3 blue 2 blue 1 blue 1
+blue 3 blue 2 blue 2
+blue 4 blue 2 blue 2
+black 1 blue 4 blue 2 black 1
+black 2 blue 2 blue 2 black 2
+black 2 black 1 blue 6 black 2
+
+columns
+blue 6
+black 2 blue 6 blue 4 black 3
+black 1 blue 4 blue 1 blue 4 black 2
+blue 2 blue 2 blue 3
+blue 3 blue 2 blue 2
+blue 2 blue 2 green 1 blue 2 black 1
+blue 2 blue 2 green 2 blue 2
+blue 4 green 2 blue 1
+blue 1 blue 1
+blue 2 green 2 blue 1 blue 1
+black 1 blue 2 green 3 blue 2 blue 1 blue 1
+blue 3 blue 2 blue 2
+blue 4 blue 2 blue 2
+black 2 blue 4 blue 2 black 2
+black 5 blue 2 blue 2 black 3
+blue 6

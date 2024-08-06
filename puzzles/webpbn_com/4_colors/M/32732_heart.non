@@ -1,0 +1,58 @@
+by "Alex Doerflein (ggorehoundd)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Alex Doerflein"
+date "Aug 19, 2019"
+description "crazy easy; I just wanted to make a quick puzzle."
+difficulty 1.25
+height 17
+id 32732
+link "https://webpbn.com/play.cgi?id=32732"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "heart"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 19
+blue 4 blue 5 blue 4
+blue 3 black 3 blue 3 black 3 blue 3
+blue 2 black 1 red 3 black 1 blue 1 black 1 red 3 black 1 blue 2
+blue 1 black 1 red 5 black 1 black 1 red 5 black 1 blue 1
+blue 1 black 1 red 6 black 1 red 6 black 1 blue 1
+blue 1 black 1 red 13 black 1 blue 1
+blue 1 black 1 red 13 black 1 blue 1
+blue 2 black 1 red 11 black 1 blue 2
+blue 3 black 1 red 9 black 1 blue 3
+blue 4 black 1 red 7 black 1 blue 4
+blue 5 black 1 red 5 black 1 blue 5
+blue 6 black 1 red 3 black 1 blue 6
+blue 7 black 1 red 1 black 1 blue 7
+blue 8 black 1 blue 8
+blue 9 blue 9
+blue 19
+
+columns
+blue 17
+blue 4 blue 9
+blue 3 black 4 blue 8
+blue 2 black 1 red 4 black 1 blue 7
+blue 1 black 1 red 6 black 1 blue 6
+blue 1 black 1 red 7 black 1 blue 5
+blue 1 black 1 red 8 black 1 blue 4
+blue 2 black 1 red 8 black 1 blue 3
+blue 3 black 1 red 8 black 1 blue 2
+blue 4 black 1 red 8 black 1 blue 1
+blue 3 black 1 red 8 black 1 blue 2
+blue 2 black 1 red 8 black 1 blue 3
+blue 1 black 1 red 8 black 1 blue 4
+blue 1 black 1 red 7 black 1 blue 5
+blue 1 black 1 red 6 black 1 blue 6
+blue 2 black 1 red 4 black 1 blue 7
+blue 3 black 4 blue 8
+blue 4 blue 9
+blue 17

@@ -1,0 +1,59 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/24/12"
+height 19
+id 125625
+link "https://www.griddlers.net/nonogram/-/g/125625"
+medium_time "0:07:09"
+points 1397
+popularity 75.15
+title "Rocket"
+width 19
+
+color a 000000
+color b ff1010
+color c ffffff
+color d ffff10
+
+rows
+b 3
+c 1 b 4
+c 3 b 4
+c 5 b 2
+c 2 c 4
+c 2 c 2 c 2
+c 3 c 2 c 2
+b 3 c 5 c 2
+b 3 c 9
+b 3 c 3 b 2 c 4
+b 3 c 2 b 3 c 3
+d 1 b 3 c 3
+d 3 b 3 c 3 b 1
+d 4 b 3 d 1 c 2 b 2
+d 3 b 2 d 1 b 3
+d 6 b 3
+d 7 b 2
+d 6 b 1
+d 3
+
+columns
+d 1 d 3
+b 1 d 6
+b 2 d 7
+b 3 d 6
+b 3 d 1 b 2 d 3
+b 2 c 2 d 1 b 3 d 3
+b 1 c 3 b 3 d 3
+c 3 b 3 d 1
+c 3 b 3 c 2 b 3
+c 4 b 2 c 3 b 3
+c 9 b 3
+c 2 c 5 b 3
+c 2 c 2 c 3
+c 2 c 2 c 2
+c 4 c 2
+b 2 c 5
+b 4 c 3
+b 4 c 1
+b 3

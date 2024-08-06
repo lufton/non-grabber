@@ -1,0 +1,61 @@
+by "Leilei (leilei444)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Leilei"
+date "Feb 18, 2012"
+description "The "golden" snitch from Harry Potter. Sorry if it's been done before."
+difficulty 1.25
+height 20
+id 17589
+link "https://webpbn.com/play.cgi?id=17589"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "I need gold"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+blue 3
+blue 5
+blue 7
+blue 9
+black 6 blue 7
+black 8 blue 2
+black 5 black 3 blue 1
+blue 3 black 6 black 3
+blue 5 black 10
+blue 5 black 10
+blue 5 black 10
+blue 6 black 8
+blue 4 black 6
+blue 2
+0
+0
+0
+0
+
+columns
+blue 6
+blue 6
+blue 6
+blue 6
+blue 5
+black 5 blue 1
+black 7
+black 9
+black 9
+black 9
+black 2 black 6
+blue 1 black 2 black 5
+blue 2 black 9
+blue 4 black 7
+blue 6 black 5
+blue 7
+blue 5
+blue 4
+blue 3
+blue 2

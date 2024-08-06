@@ -1,0 +1,52 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/13/06"
+height 16
+id 38861
+link "https://www.griddlers.net/nonogram/-/g/38861"
+medium_time "0:03:20"
+points 180
+popularity 67.13
+title "Snow Puppet"
+width 14
+
+color a ccccff
+color b 000000
+color c ffcc00
+color d ffffff
+color e cc0000
+
+rows
+b 5
+b 7
+b 9
+d 7
+d 4 b 1 d 1 b 1 d 1
+d 6 c 5
+d 5 e 1 d 1
+e 6
+e 9
+e 6 d 5
+e 3 d 6 b 1 d 2
+d 9
+d 6 b 1 d 2
+d 9
+d 5 b 1 d 1
+d 5
+
+columns
+e 2
+e 3
+e 3
+b 1 d 2 e 2 d 4
+b 2 d 4 e 3 d 5
+b 3 d 4 e 3 d 6
+b 3 d 4 e 2 d 7
+b 3 d 1 b 1 d 2 e 2 d 7
+b 3 d 4 e 2 d 7
+b 3 d 1 b 1 c 1 e 3 d 1 b 1 d 1 b 1 d 1 b 1 d 1
+b 2 d 2 c 1 d 1 d 6
+b 1 c 1 d 4
+c 1
+c 1

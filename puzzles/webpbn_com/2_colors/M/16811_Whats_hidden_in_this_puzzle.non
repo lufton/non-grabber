@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Dec 22, 2011"
+description "MEOW"
+difficulty 2.75
+height 15
+id 16811
+link "https://webpbn.com/play.cgi?id=16811"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "What's hidden in this puzzle?"
+width 25
+
+rows
+1,1,4
+3,3,2
+1,3,1,2
+1,1,12
+1,1,1,1,1,1,1
+1,1,1,1,1
+4,1,4,1,1,1
+1,3,1,1,1,1,1
+2,2,1,1,1,1
+5,8,2
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+
+columns
+1
+1
+9
+1,1,2
+2,1,1,1
+2,2,1
+2,1,1,1
+1,1,2
+9
+1,1,6
+1,1,1
+1,1
+12
+1,1
+1,1
+7,1
+1,5
+1,2
+1,1,1
+12
+2
+2
+1
+1
+1

@@ -1,0 +1,52 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar  7, 2011"
+description "My rooster, Mr B, was severly injured by another rooster. He could barely walk or see. I bought him into the house for the night. Not waiting for dawn he started crowing at 2 am and thought the acoustics in the house were so great, he continued until 4 am."
+difficulty 1.75
+height 15
+id 12594
+link "https://webpbn.com/play.cgi?id=12594"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Story Part 1 Roosters can't tell time"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 2 black 1
+red 2 black 1 black 2
+black 2 red 2 black 2 black 1
+black 2 black 1 red 2 black 2
+black 1 red 2 black 1
+black 1 blue 1 black 1 black 2
+black 2 black 2 black 1
+black 1 red 2 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2
+blue 2 black 1 black 1 blue 2
+blue 2 black 11 blue 2
+blue 15
+
+columns
+blue 3
+blue 3
+black 7 blue 1
+black 4 black 1 blue 1
+black 2 black 1 blue 1
+red 1 black 1 black 1 blue 1
+red 2 black 1 blue 1 red 1 black 1 blue 1
+red 3 black 1 red 1 black 1 blue 1
+black 1 red 2 black 2 black 1 blue 1
+black 3 black 1 blue 1
+black 2 black 1 blue 1
+black 1 black 1 blue 1
+black 7 black 3 blue 1
+black 1 black 1 black 1 black 6 blue 3
+blue 3

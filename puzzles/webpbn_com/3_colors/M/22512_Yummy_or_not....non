@@ -1,0 +1,61 @@
+by "tomer liron (tomerik15)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by tomer liron"
+date "Aug  2, 2013"
+description "Pudding monster from the game "Pudding monsters" by ZeptoLab"
+difficulty 1.5
+height 20
+id 22512
+link "https://webpbn.com/play.cgi?id=22512"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Yummy! or not..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+0
+red 12
+red 3 red 5
+red 2 red 5
+red 1 red 13
+red 1 red 13
+red 1 red 3 red 6
+red 1 red 2 red 5
+red 2 red 1 black 2 red 4
+red 4 black 4 red 4
+red 4 black 2 red 4
+red 5 red 5
+red 6 red 6
+red 16
+red 16
+red 18
+red 18
+
+columns
+0
+red 2
+red 14
+red 2 red 9
+red 2 red 8
+red 2 red 13
+red 1 red 4 red 6
+red 1 red 3 red 5
+red 1 red 2 black 1 red 4
+red 1 red 2 black 3 red 4
+red 1 red 2 black 3 red 4
+red 1 red 2 black 1 red 4
+red 2 red 3 red 5
+red 7 red 6
+red 16
+red 16
+red 15
+red 14
+red 2
+0

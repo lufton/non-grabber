@@ -1,0 +1,83 @@
+by "Ellen Vollor (evollor)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ellen Vollor"
+date "Nov 24, 2011"
+description "He asked me to do a plane puzzle before going to bed. I told him that I didn't know which puzzle would be a plane, so he asked me to make my own. This was done very quickly (so he could go to bed)."
+difficulty 2.0
+height 20
+id 16508
+link "https://webpbn.com/play.cgi?id=16508"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "My grandson's wish"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 1
+black 3 black 3 black 2
+black 2 black 2 black 2 red 1 black 1
+black 8 black 2 black 1 red 2 black 1
+black 5 black 16 red 2 black 1
+black 4 black 1
+black 2 blue 2 black 1 green 2 red 2 green 2 red 2 green 2 red 2 green 2 red 2 black 1
+black 1 blue 3 black 1 black 3 green 2 red 2 green 2 red 2 green 2 red 2 green 2 red 2 black 1
+black 2 blue 2 black 1 black 1 blue 1 black 1 green 2 red 2 green 2 red 2 green 2 red 2 green 2 red 2 black 1
+black 2 blue 1 black 1 black 1 blue 1 black 1 black 1
+black 2 black 1 blue 1 black 1 black 1
+black 2 black 1 blue 1 black 1 black 1
+black 9 black 16 red 2 black 1
+black 1 black 1 black 1 black 1 black 1 red 1 black 1
+black 1 black 2 black 2 black 1 black 3
+black 1 blue 1 black 1 black 2 black 2 black 1 blue 1 black 1
+black 3 black 1 black 2 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 1
+
+columns
+0
+black 3
+black 2 blue 1 black 2
+black 1 blue 3 black 2
+black 2 blue 4 black 2
+black 6 black 2
+black 1 black 1
+black 1 black 6
+black 2 black 1 blue 4 black 1 black 2
+black 1 black 8 blue 1 black 1
+black 1 black 1 black 2
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 1 black 3
+black 1 red 3 black 2
+black 2 red 3 black 3
+black 2 black 2
+black 1 green 3 black 2
+black 2 green 3 black 1
+black 1
+black 2 red 3 black 3
+black 3 red 3 black 1 black 2
+black 2 black 1 black 1 black 2
+black 1 black 1 green 3 black 1 black 2
+black 2 black 1 green 3 black 1 black 2
+black 1 black 1 black 2
+black 1 red 3 black 1
+black 1 red 3 black 1
+black 1 black 1
+black 1 green 3 black 1
+black 1 green 3 black 1 black 2
+black 1 black 3 blue 1 black 1
+black 1 red 3 black 1 black 2
+black 1 red 3 black 1
+black 1 black 1
+black 3 black 1
+black 1 red 2 red 1 black 2
+black 1 red 3 red 2 black 1
+black 14
+0

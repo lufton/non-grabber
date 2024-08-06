@@ -1,0 +1,71 @@
+by "Jessi Winn ()"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jessi Winn"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Description not available.)"
+difficulty 1.5
+height 25
+id 27863
+link "https://webpbn.com/play.cgi?id=27863"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #179 Another powerful hat"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 3 red 1
+red 5
+red 3 black 3
+red 6
+red 3 black 3
+black 3 red 3
+red 3 black 2 red 2
+red 7
+red 4 black 3 red 1
+black 2 red 4 black 2
+red 1 black 4 red 2 black 1
+red 3 black 1 red 4 black 1
+red 3 black 1 red 4 black 1
+red 1 black 2 red 3 black 2 red 1 black 1
+black 4 red 1 black 5
+red 2 black 2 red 1 black 2 red 2 black 1 red 1
+red 4 black 3 red 4 black 1
+red 11 black 1
+black 1 red 2 black 5 red 3 black 2
+red 3 black 10 red 1 black 2
+red 22
+black 5 red 14
+black 5 red 10
+0
+
+columns
+0
+red 1
+red 1 black 1
+red 1 black 1
+red 2 black 2
+red 2 black 2
+red 2 black 1 red 2 black 2
+red 1 black 1 red 4 black 1 red 2 black 1
+red 2 black 2 red 4 black 1 red 2 black 1
+red 1 black 1 red 3 black 3 red 2 black 2 red 3
+red 3 black 2 red 3 black 3 red 1 black 2 red 3
+black 1 red 4 black 3 red 3 black 1 red 1 black 2 red 3
+red 1 black 1 red 4 black 1 red 3 black 3 red 1 black 2 red 3
+red 2 black 2 red 1 black 1 red 1 black 1 red 2 black 3 red 2 black 2 red 3
+red 4 black 1 red 1 black 1 red 4 black 2 red 4 black 1 red 3
+red 2 black 1 red 3 black 2 red 4 black 1 red 4 black 1 red 3
+red 3 black 1 red 4 black 7 red 3 black 1 red 3
+red 1 black 1 red 1 black 1 red 1 black 3 red 4
+black 1 red 1 black 1 red 1 black 2 red 3
+black 1 red 1 black 1 black 1 red 2
+black 1 red 1 red 2
+red 1 red 1
+red 1
+0
+0

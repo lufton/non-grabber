@@ -1,0 +1,54 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/5/12"
+height 19
+id 126352
+link "https://www.griddlers.net/nonogram/-/g/126352"
+medium_time "0:02:42"
+points 349
+popularity 66.67
+title "Gnome"
+width 12
+
+color a ffffff
+color b ff0000
+color c b5b9c1
+color d 6c1816
+color e f7c6d6
+color f 4599c7
+
+rows
+b 2
+b 4
+b 4
+b 5
+b 6
+c 1 d 1 e 1 d 1 e 1 c 1
+c 1 e 4 c 1
+f 1 c 2 e 2 c 2 f 1
+f 2 c 6 f 1
+f 3 c 6 f 2
+f 4 c 3 f 4
+f 5 c 1 f 5
+f 5 c 1 f 5
+f 11
+e 1 f 9 e 2
+f 4 d 1 f 4 e 1
+b 9
+d 6
+d 8
+
+columns
+f 5 e 1
+f 8 b 1 d 1
+f 9 b 1 d 2
+b 1 c 5 f 6 b 1 d 2
+b 2 d 1 e 1 c 4 f 5 b 1 d 2
+b 3 e 3 c 5 f 2 d 1 b 1 d 2
+b 4 d 1 e 2 c 3 f 5 b 1 d 2
+b 4 e 2 c 3 f 6 b 1 d 2
+b 5 c 5 f 6 b 1 d 1
+b 2 f 9 b 1
+f 5 e 1
+e 2

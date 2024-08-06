@@ -1,0 +1,57 @@
+by "Julie Keleghan (jkeleghan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Julie Keleghan"
+date "Mar 13, 2010"
+description "Happy Pi Day!"
+difficulty 1.25
+height 20
+id 8024
+link "https://webpbn.com/play.cgi?id=8024"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "3.14..."
+width 20
+
+rows
+20
+20
+4,4
+3,3
+2,2
+2,14,2
+2,14,2
+2,1,2,2,1,2
+2,2,2,2
+2,2,2,2
+2,2,2,2
+2,2,2,2
+2,2,2,2
+2,2,2,2
+2,3,3,2
+2,3,3,2
+3,3
+4,4
+20
+20
+
+columns
+20
+20
+4,4
+3,3,3
+2,2,2
+2,2,1,2
+2,2,2,2
+2,11,2
+2,10,2
+2,2,2
+2,2,1,2
+2,2,2,2
+2,11,2
+2,10,2
+2,2,2
+2,2,2
+3,3,3
+4,4
+20
+20

@@ -1,0 +1,31 @@
+by "Sheri Haemmelmann (Sheri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Sheri Haemmelmann"
+date "Jan 14, 2012"
+description ""
+difficulty 1.25
+height 4
+id 17151
+link "https://webpbn.com/play.cgi?id=17151"
+note "published,definitely unique,definitely trivial"
+quality 1.0
+title "multicolored"
+width 4
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 1 green 1 blue 1
+red 1 green 1 blue 1 black 1
+green 1 blue 1 black 1 red 1
+blue 1 black 1 red 1 green 1
+
+columns
+black 1 red 1 green 1 blue 1
+red 1 green 1 blue 1 black 1
+green 1 blue 1 black 1 red 1
+blue 1 black 1 red 1 green 1

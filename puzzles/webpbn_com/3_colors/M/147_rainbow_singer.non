@@ -1,0 +1,61 @@
+by "clay deardorff (clayd531)"
+collection "webpbn.com"
+copyright "(c) Copyright 2005 by clay deardorff"
+date "Jan 12, 2005"
+description "Kermit the Frog"
+difficulty 3.25
+height 20
+id 147
+link "https://webpbn.com/play.cgi?id=147"
+note "published,definitely non-unique,may require much guessing"
+quality 2.25
+title "rainbow singer"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+green 2
+green 3 green 3
+green 2 green 1 green 1 green 2
+green 1 black 1 green 1 green 1 black 1 green 1
+green 2 green 1 green 1 green 2
+green 1 green 2 green 2 green 1
+green 1 green 1
+green 2 green 2 green 2 green 2
+green 1 green 1 green 3 green 3 green 1 green 1
+green 2 green 1 green 4 green 1 green 2
+green 1 green 2 black 4 green 2 green 1
+green 2 green 2 black 2 green 2 green 2
+green 1 green 2 green 1
+green 4 green 4
+green 7 green 7
+green 17
+green 3 green 2 green 8 green 1
+green 1 green 1 green 1 green 1
+
+columns
+green 3 green 1
+green 2 green 2 green 2
+green 1 green 1 green 3
+green 1 green 2 green 1 green 3
+green 2 green 1 green 1 green 6
+green 1 green 1 green 1 green 1 green 4
+green 2 black 1 green 1 green 1 green 1 green 3
+green 1 green 1 green 1 green 1 green 3
+green 3 green 1 black 1 green 1 green 4
+green 1 green 1 black 2 green 1 green 2
+green 1 green 1 black 2 green 1 green 2
+green 3 green 1 black 1 green 1 green 4
+green 1 green 1 green 1 green 1 green 3
+green 2 black 1 green 1 green 1 green 1 green 4
+green 1 green 1 green 1 green 1 green 5
+green 2 green 1 green 1 green 4
+green 1 green 2 green 1 green 3
+green 1 green 1 green 2
+green 2 green 2 green 1
+green 3

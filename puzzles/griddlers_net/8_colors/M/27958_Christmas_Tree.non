@@ -1,0 +1,57 @@
+by "julia-grace"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/15/05"
+height 18
+id 27958
+link "https://www.griddlers.net/nonogram/-/g/27958"
+medium_time "0:02:51"
+points 805
+popularity 59.86
+title "Christmas Tree"
+width 14
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color d 0000ff
+color e 00ffff
+color f c300fe
+color g a02f00
+color h ff00fe
+
+rows
+c 2
+c 1 h 1 c 2
+c 4 d 1 c 1
+e 1 c 3
+c 6
+c 8
+c 4 f 1 c 1
+c 8
+c 2 b 1 c 7
+c 5 h 1 c 2
+c 10
+c 5 d 1 c 3 b 1 c 2
+c 10
+c 2 f 1 c 7 e 1 c 1
+c 14
+g 4
+g 4
+g 4
+
+columns
+c 1
+c 1 c 2
+c 1 c 5
+c 1 c 6 f 1 c 1
+c 1 c 4 b 1 c 6
+c 2 e 1 c 11 g 3
+c 1 h 1 c 9 d 1 c 3 g 3
+c 15 g 3
+c 1 d 1 c 3 f 1 c 2 h 1 c 5 g 3
+c 1 c 11
+c 1 c 4 b 1 c 3
+c 1 c 3 e 1 c 1
+c 1 c 2
+c 1

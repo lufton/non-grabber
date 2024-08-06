@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Brian Bellis"
+date "Mar 21, 2024"
+description "Happy 20th Birthday WebPBN"
+difficulty 1.0
+height 20
+id 38381
+link "https://webpbn.com/play.cgi?id=38381"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "WCP #180"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 13
+black 12
+black 11
+black 12
+black 19
+black 2 black 12
+black 1 black 1 black 10
+black 10
+black 8 black 4
+red 1 black 7 black 5
+red 1 black 14
+red 1 black 7 black 5
+black 7 black 5
+black 8 black 5
+black 12 black 5
+black 7
+black 6
+black 5
+black 4
+black 3
+
+columns
+black 2
+black 2
+black 1 black 3
+black 1 black 4
+black 1 black 5
+black 1 red 1 black 6
+black 1 red 1 black 1 red 1 black 7
+black 1 black 1 black 12
+black 2 black 4 black 8
+black 6 black 7
+black 15
+black 15
+black 15
+black 15
+black 9 black 1
+black 8 black 6
+black 15
+black 15
+black 15
+black 15

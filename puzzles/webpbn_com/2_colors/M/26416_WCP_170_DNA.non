@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Tom King"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 20
+id 26416
+link "https://webpbn.com/play.cgi?id=26416"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP #170 DNA"
+width 20
+
+rows
+5
+2,2
+1,1,1
+3,1,1,1
+1,1,1
+2,2
+5
+0
+1,1
+3,1
+1,1,1
+3,1
+4
+9
+1
+1
+1
+1
+1
+1
+
+columns
+1
+1
+1
+3,1
+1,1,1,1,7
+1,6
+1,2
+1,2
+6
+0
+0
+0
+0
+5
+2,2
+1,1
+1,1,1
+1,1
+2,2
+5

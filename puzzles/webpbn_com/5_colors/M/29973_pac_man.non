@@ -1,0 +1,63 @@
+by "teresa dickens (trdickens2)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by teresa dickens"
+date "Jul  4, 2017"
+description "sooper cool"
+difficulty 1.5
+height 20
+id 29973
+link "https://webpbn.com/play.cgi?id=29973"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "pac man"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 red 2 black 17
+black 2 red 1 black 1 red 15 black 1
+red 1 black 1 red 1 black 15 red 1 black 1
+red 1 black 1 red 14 black 2 red 1 black 1
+red 1 black 14 red 1 black 2 red 1 black 1
+red 13 black 2 red 1 black 2 red 1 black 1
+black 12 red 1 black 2 red 1 black 2 red 1 black 1
+red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 red 1 black 2 red 1 black 2 red 1 black 1
+black 1 red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 1 black 2 red 1 black 2 red 1 black 1
+black 2 red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 red 1 black 2 red 1 black 2 red 1 black 1
+blue 1 black 2 red 2 black 2 blue 1 black 1 blue 1 black 2 red 1 black 2 red 1 black 2 red 1 black 1
+black 1 blue 1 black 2 red 2 black 2 blue 1 black 1 blue 1 black 1 red 1 black 2 red 1 black 2 red 1 black 1
+blue 1 black 1 blue 1 black 2 red 2 black 2 blue 1 black 2 red 4 black 2 red 1 black 1
+black 1 blue 1 black 1 blue 1 black 2 red 2 black 2 blue 1 black 7 red 1 black 1
+blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 2 green 6 black 1 red 1 black 1
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 1 green 6 black 1 red 1 black 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 7 red 1 black 1
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 2 red 5 black 1
+blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 7
+black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 6
+
+columns
+black 2 red 4 black 1 red 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+red 1 black 4 red 1 black 1 red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+red 4 black 1 red 1 black 2 red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 3 red 1 black 1 red 1 black 3 red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 2 red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 2 blue 1 black 2 red 2 black 2 blue 1 black 1 blue 1 black 1 blue 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 2 blue 1 black 1 blue 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 2 blue 1 black 1 blue 1 black 2 red 2 black 2 blue 1 black 1 blue 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 2 blue 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 2 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 2 blue 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 black 2 red 2 black 2
+black 1 red 1 black 1 red 1 black 1 red 1 black 8 green 2 black 1 red 2 black 1
+black 1 red 1 black 1 red 1 black 1 red 8 black 1 green 2 black 2 red 2
+black 1 red 1 black 1 red 1 black 8 red 1 black 1 green 2 black 3 red 1
+black 1 red 1 black 1 red 1 black 8 red 1 black 1 green 2 black 1 red 1 black 2
+black 1 red 1 black 1 red 10 black 1 green 2 black 1 red 1 black 2
+black 1 red 1 black 12 green 2 black 1 red 1 black 2
+black 1 red 1 black 15 red 1 black 2
+black 1 red 17 black 2
+black 20

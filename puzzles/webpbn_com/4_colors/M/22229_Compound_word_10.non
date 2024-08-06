@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jun 22, 2013"
+description "Gearshift"
+difficulty 1.5
+height 20
+id 22229
+link "https://webpbn.com/play.cgi?id=22229"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Compound word 10"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 10
+red 10
+red 2 blue 2 red 2 red 2
+red 10
+red 2 red 2 blue 2 red 2
+red 10
+red 2 blue 2 red 2 red 2
+black 1 black 1 red 10
+black 5 red 2 red 2 blue 2 red 2
+black 3 black 3 red 10
+black 1 black 1 red 2 red 2 blue 2 red 2
+black 3 black 3 red 7 black 1 red 2
+black 1 black 5 black 1 red 3 black 1 red 1 black 1 red 1 black 1 red 2
+black 1 black 1 black 1 black 1 black 6
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 5
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 2
+
+columns
+black 4
+black 1 black 1
+black 5
+black 3 black 9
+black 1 black 1
+black 3 black 9
+black 5 black 1
+black 1 black 1
+black 4
+0
+red 13
+red 13 black 2
+red 2 blue 1 red 1 red 1 blue 1 red 1 red 1 red 2 black 1 black 1
+red 2 blue 1 red 1 red 1 blue 1 red 1 red 1 red 1 black 8
+red 13 black 1 black 1
+red 12 black 8
+red 2 red 1 blue 1 red 1 red 1 blue 1 red 1 blue 1 red 2 black 1 black 1 black 1
+red 2 red 1 blue 1 red 1 red 1 blue 1 red 1 blue 1 black 3
+red 13
+red 13

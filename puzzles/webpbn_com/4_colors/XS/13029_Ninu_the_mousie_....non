@@ -1,0 +1,42 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jota"
+date "Mar 25, 2011"
+description "Very scared of Matt the Kat!"
+difficulty 1.25
+height 10
+id 13029
+link "https://webpbn.com/play.cgi?id=13029"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Ninu the mousie ..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 3
+blue 1 black 1 blue 1
+black 3
+red 1
+black 3
+black 4
+black 7
+black 1 black 1
+black 2
+
+columns
+0
+0
+black 2 blue 1 black 1 black 3
+black 3 red 1 black 4
+black 2 blue 1 black 1 black 3
+black 2
+black 1
+black 1
+black 3
+black 1

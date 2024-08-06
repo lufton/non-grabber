@@ -1,0 +1,84 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/27/22"
+height 30
+id 255034
+link "https://www.griddlers.net/nonogram/-/g/255034"
+medium_time "0:10:16"
+points 5803
+popularity 80.42
+title "Mr Potato Head"
+width 30
+
+color a 028a88
+color b 4f2e05
+color c d28243
+color d bb2026
+color e 6694ea
+color f ffffff
+color g ffc6b8
+
+rows
+0
+b 3
+b 7
+b 9
+b 11
+b 15
+b 15
+c 13
+g 2 c 2 b 3 c 3 b 3 c 2 g 2
+g 4 c 2 b 2 c 7 b 2 c 2 g 4
+g 5 c 1 b 2 g 3 c 3 g 3 b 2 c 1 g 5
+g 5 c 1 b 1 g 1 f 3 g 1 c 1 g 1 f 3 g 1 b 1 c 1 g 5
+g 4 c 3 f 2 b 2 f 1 c 1 f 2 b 2 f 1 c 3 g 4
+g 3 c 3 f 2 b 2 f 1 c 1 f 2 b 2 f 1 c 3 g 3
+g 2 c 3 f 5 g 1 f 5 c 3 g 2
+f 1 c 4 f 3 g 3 f 3 c 4 f 1
+f 2 c 6 g 5 c 6 f 2
+f 3 c 5 g 7 c 5 f 3
+f 3 c 5 g 7 c 5 f 3
+f 3 c 4 b 2 g 5 b 2 c 4 f 3
+f 2 c 3 b 11 c 3 f 2
+f 1 c 2 b 13 c 2 f 1
+f 6 c 3 d 1 f 7 d 1 c 3 f 6
+f 6 c 3 d 1 f 5 d 1 c 3 f 6
+f 2 c 4 d 5 c 4 f 2
+f 2 c 11 f 2
+e 3 c 7 e 3
+e 5 c 5 e 5
+e 7 e 7
+e 7 e 7
+
+columns
+0
+f 4
+g 3 f 3 f 2
+g 5 f 3 f 2
+g 7 f 3 f 2
+g 7 f 3 f 2
+g 3 c 10 f 4 e 2
+b 2 c 14 f 3 e 3
+b 2 c 3 b 2 c 9 b 1 c 3 e 4
+b 3 c 2 b 2 g 1 f 3 c 5 b 2 c 4 e 4
+b 4 c 1 b 2 g 1 f 5 c 3 b 3 d 1 c 3 e 4
+b 5 c 1 b 1 c 1 g 1 f 1 b 2 f 2 c 1 g 2 b 3 f 1 d 1 c 3 e 3
+b 5 c 1 b 1 c 1 g 1 f 1 b 2 f 2 g 4 b 2 f 2 d 1 c 3 e 2
+b 6 c 4 g 1 f 3 g 5 b 2 f 2 d 1 c 3
+b 6 c 7 g 6 b 2 f 2 d 1 c 3
+b 6 c 4 g 1 f 3 g 5 b 2 f 2 d 1 c 3
+b 5 c 1 b 1 c 1 g 1 f 5 g 4 b 2 f 2 d 1 c 3 e 2
+b 5 c 1 b 1 c 1 g 1 f 1 b 2 f 2 c 1 g 2 b 3 f 1 d 1 c 3 e 3
+b 4 c 1 b 2 g 1 f 1 b 2 f 2 c 3 b 3 d 1 c 3 e 4
+b 3 c 2 b 2 g 1 f 3 c 5 b 2 c 4 e 4
+b 2 c 3 b 2 c 9 b 1 c 3 e 4
+b 2 c 14 f 3 e 3
+g 3 c 10 f 4 e 2
+g 7 f 3 f 2
+g 7 f 3 f 2
+g 5 f 3 f 2
+g 3 f 3 f 2
+f 4
+0
+0

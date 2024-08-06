@@ -1,0 +1,91 @@
+by "Dave Tallman (RockSunner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2006 by Dave Tallman"
+date "Aug 13, 2006"
+description "American flag with a ripple."
+difficulty 2.25
+height 30
+id 427
+link "https://webpbn.com/play.cgi?id=427"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Unfurled"
+width 40
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 12 blue 10 blue 6 black 10
+blue 2 blue 5 blue 22 black 3
+blue 20 blue 4 blue 5
+blue 15 blue 15
+blue 5 blue 5 blue 10 blue 5 blue 3 black 6
+blue 18 blue 13 black 8
+blue 2 blue 5 blue 16 blue 6 black 8
+blue 15 blue 5 blue 10 black 8
+blue 5 blue 21 blue 4 black 8
+blue 11 blue 11 blue 9 black 3
+blue 2 blue 16 blue 10
+blue 8 blue 18
+blue 7 blue 11
+blue 7 black 3
+black 6
+black 8 black 10
+black 18 black 13
+black 12 black 2 black 15
+black 11 black 19
+black 9 black 15
+black 3 black 10
+black 5 black 4
+black 8 black 4
+black 9 black 5 black 7
+black 14 black 5 black 10
+black 13 black 17
+black 11 black 15
+black 4 black 9
+black 2 black 1
+black 6 black 3
+
+columns
+blue 13 black 4 black 4
+blue 13 black 4 black 4
+blue 1 blue 4 blue 3 blue 2 black 4 black 4
+blue 13 black 4 black 4
+blue 13 black 4 black 3
+blue 4 blue 3 blue 4 black 4 black 3
+blue 13 black 4 black 4
+blue 12 black 4 black 4
+blue 1 blue 4 blue 4 black 4 black 4
+blue 11 black 4 black 4
+blue 12 black 4 black 4
+blue 4 blue 4 blue 2 black 3 black 3
+blue 11 black 2 black 4
+blue 13 black 2 black 4
+blue 13 black 2 black 4
+blue 3 blue 3 blue 6 black 2 black 3
+blue 14 black 4 black 3 black 1
+blue 14 black 4 black 2 black 1
+blue 5 blue 8 black 2 black 2 black 2
+blue 10 blue 3 black 3 black 3 black 2
+blue 2 blue 11 black 3 black 2 black 1
+blue 7 blue 6 black 3 black 3 black 1
+blue 4 blue 8 black 4 black 4
+blue 8 blue 3 black 5 black 4
+blue 12 black 5 black 3
+blue 2 blue 3 blue 5 black 5 black 3
+blue 12 black 4 black 3
+blue 8 blue 3 black 5 black 3
+blue 4 blue 6 black 5 black 3
+blue 11 black 4 black 3
+black 1 blue 9 black 5 black 4
+black 2 blue 6 black 5 black 4
+black 2 black 4 blue 1 black 4 black 3
+black 2 black 5 black 4 black 4
+black 1 black 6 black 5 black 4
+black 1 black 6 black 4 black 4
+black 1 black 5 black 4 black 5
+black 1 black 5 black 5 black 4 black 1
+black 1 black 5 black 4 black 3 black 1
+black 1 black 5 black 4 black 3 black 2

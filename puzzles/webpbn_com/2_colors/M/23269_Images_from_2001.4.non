@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Dec  1, 2013"
+description "Earth orbit space station. A double wagon wheel design that spins to produce an artificial gravity at the rim. You rendezvous by spinning your ship to match rates then "land" in the zero g hub."
+difficulty 2.25
+height 20
+id 23269
+link "https://webpbn.com/play.cgi?id=23269"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Images from 2001.4"
+width 20
+
+rows
+20
+20
+20
+6,2,6
+4,2,4
+2,1,1,1,2
+2,3,3,3,2
+1,3,4,4,1
+1,3,4,4,1
+3,3,3
+1,3
+3,3,3
+1,3,4,4,1
+1,3,4,4,1
+2,3,3,3,2
+2,1,1,1,2
+4,2,4
+6,2,6
+20
+20
+
+columns
+9,8
+7,6
+5,1,1,4
+5,3,3,4
+4,9,3
+4,3,3,3
+3,2,2,2
+3,1,1,1,1,2
+3,1,3,3,1,2
+4,4,4,3
+4,3,3,3
+3,4,1,4,2
+3,1,2
+3,4,1,4,2
+4,3,3,3
+4,4,4,3
+5,3,3,4
+5,1,1,4
+7,6
+9,8

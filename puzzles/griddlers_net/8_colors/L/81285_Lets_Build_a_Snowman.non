@@ -1,0 +1,80 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/9/09"
+height 35
+id 81285
+link "https://www.griddlers.net/nonogram/-/g/81285"
+medium_time "0:14:33"
+points 15000
+popularity 65.22
+title "Let's Build a Snowman"
+width 20
+
+color a ffffff
+color b 000918
+color c 0068c0
+color d d0eeff
+color e f4d9ae
+color f c07967
+color g c33319
+color h 96aec8
+
+rows
+b 3
+b 1 c 3 b 1
+b 1 c 2 d 1 b 1 b 2
+b 1 c 3 b 1 b 1 c 2 b 1
+b 3 b 2 b 1 d 1 c 1 b 1
+b 1 c 2 b 1 b 1 c 2 b 1
+b 1 c 2 b 1 b 1 d 2 b 1
+b 1 c 3 b 3 b 1 d 2 b 1
+b 1 b 1 e 2 b 1 b 1 d 2 b 1
+b 4 e 3 b 1 b 1 d 2 b 1
+b 1 f 1 b 1 e 1 b 1 e 1 b 1 f 1 b 1 d 3 b 1
+b 1 f 2 b 1 e 4 f 1 d 3 b 1
+b 1 f 2 b 1 e 1 g 2 e 1 f 1 d 2 b 1
+b 1 f 3 b 1 e 3 f 1 d 1 b 1
+b 1 f 2 b 1 e 1 b 2 d 1 b 1
+b 2 g 2 d 2 b 1
+b 1 d 1 g 1 d 4 b 1
+b 1 d 2 g 1 d 4 b 1
+b 1 d 2 g 1 d 5 b 1
+b 1 d 2 b 1 d 5 b 1
+b 1 d 2 b 1 d 5 b 1
+b 1 d 2 b 1 d 5 b 1
+b 1 d 2 b 1 d 5 b 1
+b 1 d 2 b 7
+b 1 c 2 b 1 c 5 b 1
+b 1 c 1 d 1 c 1 b 1 c 5 b 1
+b 1 c 3 b 1 c 1 b 2 c 2 b 1
+b 3 c 1 b 1 b 1 c 2 b 1
+b 1 c 2 b 1 b 1 c 3 b 1
+h 3 b 1 c 2 b 1 h 2 b 1 c 2 b 1 h 4
+h 1 d 2 b 1 c 2 b 1 d 3 b 1 c 2 b 1 d 4 h 1
+h 1 d 3 b 1 c 2 b 1 d 3 b 1 c 2 b 1 d 4 h 1
+h 1 d 3 b 1 c 2 b 1 d 3 b 1 c 2 b 1 d 3 h 1
+h 1 d 2 b 1 c 2 b 1 d 3 h 7
+h 9
+
+columns
+h 2
+h 1 d 2 h 1
+h 1 d 4 h 1
+b 9 h 1 d 4 h 1
+b 3 b 1 d 6 c 3 b 1 h 1 b 4 h 1
+b 3 b 6 f 3 b 1 b 1 d 7 c 1 d 1 c 1 b 3 c 4 h 1
+b 1 c 3 b 1 c 1 b 1 f 5 b 1 d 2 g 1 b 6 c 2 b 1 c 6 h 1
+b 1 c 3 b 1 c 1 b 4 f 2 b 1 g 2 d 5 b 1 c 1 b 2 c 3 b 4 h 1
+b 1 c 1 d 1 c 1 b 1 c 2 b 1 e 3 b 2 g 1 d 7 b 1 c 3 b 3 d 4 h 1
+b 3 c 1 b 1 e 1 b 1 e 1 g 1 e 2 g 1 d 7 b 1 c 2 b 1 h 1 d 4 h 1
+b 1 c 1 b 1 e 4 g 1 e 1 b 1 d 8 b 1 c 2 b 3 h 1 d 4 h 1
+b 1 c 1 b 1 e 2 b 1 e 3 b 1 d 8 b 1 c 5 b 4 h 1
+b 5 f 4 d 1 b 10 c 8 h 1
+b 1 d 3 b 1 b 3 c 5 h 1
+b 7 d 3 b 1 b 5 h 1
+b 1 c 1 d 1 c 1 d 6 b 1 h 1 d 3 h 1
+b 1 c 3 d 5 b 1 h 1 d 3 h 1
+b 8 h 1 d 3 h 1
+h 1 d 2 h 1
+h 2

@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "Mar  6, 2014"
+description "What sport is this?"
+difficulty 1.5
+height 20
+id 23968
+link "https://webpbn.com/play.cgi?id=23968"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Hey Sport!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 8
+red 2 black 6 red 2
+red 2 black 1 black 1 black 1 black 1 red 2
+red 1 black 10 red 1
+red 1 black 1 black 1 black 1 black 1 black 1 red 1
+red 2 black 8 red 2
+red 1 black 1 black 1 black 1 black 1 red 1
+red 1 black 7 red 2
+red 2 black 1 black 1 black 1 red 1
+red 1 black 6 red 1
+red 2 black 1 black 1 red 2
+red 1 black 4 red 1
+red 2 black 1 red 2
+red 4
+red 2
+black 2
+black 2 blue 2
+black 2 blue 4
+black 2 blue 4
+black 2 blue 2
+
+columns
+red 4
+red 2 black 2 red 4
+red 2 black 1 black 1 black 1 red 3
+red 1 black 9 red 3
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2
+red 1 black 12 red 2 black 5
+red 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2 black 5
+red 1 black 11 red 2
+red 1 black 1 black 1 black 1 black 1 black 1 red 3
+red 2 black 5 red 4
+red 2 black 1 red 3
+red 4 blue 2
+blue 4
+blue 4
+blue 2

@@ -1,0 +1,56 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jul  1, 2010"
+description "Sealed With A Kiss"
+difficulty 1.25
+height 15
+id 9437
+link "https://webpbn.com/play.cgi?id=9437"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "swak"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 2 black 2
+black 3 black 3
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 red 2 red 2 black 2 black 1
+black 1 black 1 red 8 black 1 black 1
+black 1 black 1 red 6 black 1 black 1
+black 1 black 2 red 4 black 2 black 1
+black 1 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 3 black 3
+black 20
+
+columns
+black 15
+black 3 black 2
+black 1 black 2 black 3
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 red 1 black 3 black 1
+black 1 red 3 black 1 black 1
+black 1 red 4 black 1
+black 1 red 3 black 1 black 1
+black 1 red 3 black 1 black 1
+black 1 red 4 black 1
+black 1 red 3 black 1 black 1
+black 1 red 1 black 3 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 black 3
+black 3 black 2
+black 15

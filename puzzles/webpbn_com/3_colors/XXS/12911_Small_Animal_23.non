@@ -1,0 +1,31 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Mar 20, 2011"
+description "A turtle making a run for it."
+difficulty 1.0
+height 4
+id 12911
+link "https://webpbn.com/play.cgi?id=12911"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Small Animal 23"
+width 6
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 2
+green 4
+green 6
+black 1 black 1
+
+columns
+green 1
+green 2 black 1
+green 3
+green 3
+green 2 black 1
+green 1

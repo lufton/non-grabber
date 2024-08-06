@@ -1,0 +1,57 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Kristen Vognild"
+date "Aug  8, 2017"
+description "Inspired by the comments in #30064"
+difficulty 2.25
+height 20
+id 30071
+link "https://webpbn.com/play.cgi?id=30071"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Oh, no! Another kidnapping!"
+width 20
+
+rows
+2,4
+6,4,1
+1,2,3,1
+1,4,1
+2,4,1,2
+2,5,1,2
+3,6,1,2
+13,1
+14,2
+8,2,2
+7,2,2,2
+5,2,2,2
+2,2,1,2,2
+1,3,2,1
+2,2
+2
+1,2,1,2
+4,2,2
+2,2,3
+4,2
+
+columns
+7,2
+1,11,2
+3,7,3
+1,5,2,1
+1,7,1,1
+1,7,2
+1,5,2,2
+2,6,1,1
+7,2,1
+6,2,1
+6,1,1,2
+2,4,2,1
+1,6,2
+2,4,2
+1,2,2
+1,1,2
+2,9
+1,2,5
+1,2
+5

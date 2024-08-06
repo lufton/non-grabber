@@ -1,0 +1,58 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Brian Bellis"
+date "May 20, 2014"
+description "Bell bottoms on a bicycle."
+difficulty 1.25
+height 20
+id 24533
+link "https://webpbn.com/play.cgi?id=24533"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Inappropriate Attire #16"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 8
+blue 2 black 4 blue 2
+blue 3 red 2 blue 3
+blue 3 red 2 blue 4
+blue 3 red 2 blue 4
+blue 3 red 2 blue 4
+blue 3 black 2 blue 5
+blue 4 black 2 blue 6
+blue 4 black 2 blue 6
+blue 4 black 2 green 3
+blue 5 black 2 green 3
+blue 5 black 5
+blue 6 black 2
+blue 7 black 2
+green 3 black 2
+green 3 black 2
+black 5
+black 2
+black 2
+black 2
+
+columns
+blue 1
+blue 2
+blue 4
+blue 7
+blue 14 green 2 black 1
+blue 14 green 2 black 1
+blue 1 black 1 blue 12 green 2 black 1
+blue 1 black 1 red 4 black 14
+blue 1 black 1 red 4 black 14
+blue 1 black 1 blue 7 green 2 black 1
+blue 9 green 2 black 1
+blue 9 green 2 black 1
+blue 6
+blue 3
+blue 2

@@ -1,0 +1,73 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Norma Dee"
+date "Jan 19, 2018"
+description "I will also see if anyone can guess it."
+difficulty 1.75
+height 20
+id 30744
+link "https://webpbn.com/play.cgi?id=30744"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "My example of a mixed up pair."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 14
+red 14
+red 4 red 4
+red 3 black 4 red 3
+red 2 black 3 red 2
+red 2 black 4 red 2
+red 2 black 3 red 2
+red 2 black 1 blue 1 red 2 blue 6
+red 2 blue 1 blue 3 black 1 red 2 blue 8
+red 2 blue 8 red 2 blue 10
+red 2 blue 3 red 2 blue 2 blue 3 blue 2
+red 2 blue 3 red 2 blue 1 blue 1 green 2 blue 1
+red 2 blue 3 red 2 blue 1 green 2 blue 1 green 2 blue 1
+red 2 black 3 red 2 blue 1 green 2 blue 1 blue 1
+red 2 black 3 red 2 blue 2 blue 1 blue 2
+red 2 black 1 black 1 red 2 blue 2 blue 6
+red 2 black 1 black 1 red 2 blue 8
+red 2 black 2 black 2 red 2 blue 6
+black 15
+black 15
+
+columns
+red 18 black 2
+red 18 black 2
+red 4 black 2
+red 3 black 1 blue 2 black 2
+red 2 blue 1 black 3
+red 2 black 4 blue 5 black 7
+red 2 black 4 blue 6 black 2 black 2
+red 2 black 4 blue 5 black 7
+red 2 black 1 black 1 blue 1 black 3
+red 2 blue 1 black 2
+red 3 black 1 blue 1 black 2
+red 4 black 2
+red 18 black 2
+red 18 black 2
+black 2
+0
+blue 5
+blue 2 blue 2
+blue 2 green 2 blue 2
+blue 3 green 2 blue 2
+blue 3 blue 2
+blue 4 blue 3
+blue 11
+blue 4 blue 3
+blue 3 green 2 blue 3
+blue 2 green 2 blue 2
+blue 2 blue 2
+blue 5
+0
+0

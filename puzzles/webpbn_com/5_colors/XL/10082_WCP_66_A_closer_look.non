@@ -1,0 +1,103 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kai-Uwe Zickerick"
+date "Aug 25, 2010"
+description "Baby's not happy when the diaper is full. To honor #42"
+difficulty 3.5
+height 40
+id 10082
+link "https://webpbn.com/play.cgi?id=10082"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "WCP #66 A closer look"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+black 1 red 9 black 13 red 16 black 1
+black 1 red 6 black 20 red 12 black 1
+black 1 red 5 black 9 black 7 red 10 black 1
+black 1 red 4 black 5 black 5 red 9 black 1
+black 1 red 4 black 3 black 3 red 8 black 1
+black 1 red 3 black 3 black 3 red 7 black 1
+black 1 red 2 black 3 black 2 red 7 black 1
+black 1 red 2 black 3 black 3 red 6 black 1
+black 1 red 2 black 2 black 3 red 6 black 1
+black 1 red 1 black 3 black 3 red 6 black 1
+black 1 red 1 black 3 black 6 black 3 red 6 black 1
+black 4 black 8 black 3 red 6 black 1
+black 4 black 13 black 3 red 6 black 1
+black 4 black 4 black 2 black 4 black 3 red 6 black 1
+black 3 black 7 black 3 black 3 red 6 black 1
+black 3 black 4 black 2 black 4 black 2 red 7 black 1
+black 3 black 2 black 1 black 4 black 2 red 7 black 1
+black 3 black 2 black 1 black 3 black 2 red 7 black 1
+black 2 black 2 black 3 black 1 black 1 red 8 black 1
+black 2 black 2 black 8 black 2 red 8 black 1
+black 2 black 2 black 2 black 2 black 1 red 9 black 1
+black 2 black 1 black 1 black 2 red 9 black 1
+black 2 black 4 black 1 black 1 red 10 black 1
+black 2 black 9 black 2 black 1 red 10 black 1
+black 2 black 2 black 6 black 1 black 1 red 10 black 1
+black 2 black 6 black 3 black 1 red 10 black 1
+black 3 black 13 black 2 red 10 black 1
+black 1 red 1 black 1 black 14 black 1 red 11 black 1
+black 1 red 1 black 1 black 5 black 6 black 1 red 11 black 1
+black 1 red 1 black 2 black 4 black 3 black 1 red 11 black 1
+black 1 red 2 black 1 black 6 black 2 black 1 red 2 blue 2 red 7 black 1
+black 1 red 2 black 1 black 8 black 2 red 1 blue 4 red 6 black 1
+green 5 black 4 black 2 red 2 blue 1 green 2 blue 2 red 5 black 1
+green 10 black 1 red 2 black 2 green 3 blue 2 red 4 black 1
+green 19 black 4 green 6 blue 2 green 1 red 2 black 1
+black 6 green 14 black 2 green 6 red 1 green 3 blue 1 green 2 red 1 black 1
+green 1 red 1 green 3 black 5 green 11 black 2 red 1 green 3 red 1 green 2 red 3 green 2 blue 2 green 2 black 1
+red 3 green 3 red 1 green 2 black 12 green 1 red 3 green 1 red 3 green 2 red 1 green 3 blue 2 green 3
+green 1 red 1 green 3 red 3 green 3 red 1 green 3 red 3 green 5 red 1 green 3 red 1 green 7 blue 2 green 3
+
+columns
+black 33 green 3 black 1 green 1 red 1 green 1
+black 1 red 11 black 16 red 5 green 3 black 1 red 3
+black 1 red 9 black 9 black 4 red 2 green 3 black 1 green 1 red 1 green 1
+black 1 red 6 black 8 black 3 green 3 black 1 green 3
+black 1 red 5 black 6 green 3 black 1 green 3
+black 1 red 3 black 5 green 2 black 2 green 1 red 1
+black 1 red 2 black 4 green 3 black 1 red 2
+black 1 red 1 black 4 black 1 black 2 green 3 black 1 green 1 red 1
+black 1 red 1 black 3 black 1 black 2 green 3 black 1 green 2
+black 1 red 1 black 3 black 1 black 2 black 3 green 3 black 2 green 1
+black 4 black 1 black 3 black 2 black 6 green 3 black 1 green 1
+black 4 black 1 black 2 black 2 black 7 green 3 black 1 red 1
+black 4 black 2 black 2 black 2 black 8 green 3 black 1 green 1
+black 4 black 4 black 2 black 2 black 4 black 2 green 3 black 1 green 1
+black 4 black 2 black 2 black 2 black 3 black 2 green 3 black 1 green 1
+black 3 black 2 black 2 black 1 black 2 black 3 black 2 green 3 black 1 red 1
+black 3 black 2 black 1 black 2 black 3 black 2 black 2 green 3 black 1 red 1
+black 3 black 2 black 2 black 2 black 3 black 2 green 3 black 1 red 1
+black 3 black 2 black 1 black 2 black 3 black 2 green 3 black 1 green 1
+black 3 black 2 black 1 black 2 black 7 green 2 black 1 green 1
+black 3 black 2 black 2 black 9 green 1 black 1 green 1
+black 3 black 5 black 2 black 6 black 1 green 2
+black 4 black 1 black 2 black 3 black 4 black 1 red 1 green 1
+black 1 red 1 black 2 black 1 black 3 black 2 black 2 black 1 red 3
+black 1 red 1 black 2 black 1 black 3 black 4 black 2 green 1 red 1 green 1
+black 1 red 1 black 3 black 2 black 2 black 3 green 4
+black 1 red 1 black 3 black 1 black 2 black 2 red 1 black 1 green 2 red 1 green 1
+black 1 red 2 black 2 black 1 black 6 red 2 black 1 green 1 red 3
+black 1 red 2 black 3 black 1 black 6 red 6 black 1 green 3 red 1 green 1
+black 1 red 3 black 3 black 3 red 9 blue 2 black 1 green 5
+black 1 red 4 black 16 red 10 blue 2 green 4 red 1 green 2
+black 1 red 5 black 13 red 12 blue 2 green 3 red 3 green 1
+black 1 red 7 black 8 red 16 blue 2 green 3 red 1 green 2
+black 1 red 32 blue 2 green 5
+black 1 red 33 blue 2 green 4
+black 1 red 34 blue 5
+black 1 red 34 green 2 blue 3
+black 1 red 35 green 4
+black 1 red 36 green 3
+black 38 green 2

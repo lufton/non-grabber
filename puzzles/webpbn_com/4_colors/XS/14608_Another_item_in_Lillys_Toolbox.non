@@ -1,0 +1,42 @@
+by "ErgoDyne (ergodyne)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by ErgoDyne"
+date "Jun 14, 2011"
+description "A severed head! Now you know what all the tools are for!"
+difficulty 1.25
+height 10
+id 14608
+link "https://webpbn.com/play.cgi?id=14608"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Another item in Lilly's Toolbox"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 6
+black 1 black 2
+black 2 black 1
+black 2 blue 1 blue 1 black 1
+black 2 black 2
+black 1 black 3 black 2
+black 2 black 2
+black 1 red 4 black 3
+red 6 black 1
+red 1 red 1 red 1
+
+columns
+black 5
+black 3 black 1 red 1
+black 3 red 3
+black 1 red 2
+black 1 blue 1 black 1 red 3
+black 1 black 1 red 1
+black 1 blue 1 black 1 red 2
+black 2 black 1 red 1
+black 7
+black 5

@@ -1,0 +1,50 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "Jul  7, 2023"
+description "National Macaroni Day! (A necklace made of macaroni pieces dyed patriotic colors, or else the grid would be white on white....)"
+difficulty 2.0
+height 7
+id 36951
+link "https://webpbn.com/play.cgi?id=36951"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "July 7 is...."
+width 22
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 3 black 3
+blue 2 blue 2 black 2 black 2
+blue 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1 blue 1 blue 1 blue 1
+black 2 black 2 black 2 black 2 blue 2 blue 2 blue 1
+black 3 black 3 blue 3
+
+columns
+black 2
+black 2
+black 1
+black 2
+blue 2 black 2
+blue 2
+blue 1
+blue 2
+blue 2 black 2
+black 2
+black 1
+black 2
+black 2
+blue 2
+blue 2
+blue 1
+blue 2
+black 2 blue 2
+black 2
+black 1
+black 2
+black 2 blue 2

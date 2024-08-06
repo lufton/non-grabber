@@ -1,0 +1,47 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Ron Jacobson"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.0
+height 12
+id 26169
+link "https://webpbn.com/play.cgi?id=26169"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What's over there?"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 2 black 2
+blue 1 black 1 blue 1 black 1
+black 1
+black 2
+black 2
+black 4
+0
+black 2
+red 1 black 2
+red 1 black 5
+0
+
+columns
+0
+black 1
+black 1 blue 1 black 1 red 1
+black 1 black 2 red 1
+black 2
+black 1
+black 2 black 1 black 1
+black 3 black 1
+black 2 black 1
+black 1 black 1
+black 1 blue 1
+black 1
+0

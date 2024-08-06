@@ -1,0 +1,52 @@
+by "Ben Kimball (zubin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Ben Kimball"
+date "Mar 10, 2012"
+description "But I like riding my scooter"
+difficulty 1.75
+height 16
+id 17862
+link "https://webpbn.com/play.cgi?id=17862"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "I'm no artist"
+width 19
+
+rows
+3
+3
+1,3
+1,3
+1,3
+2,4
+2,2,3
+4,4
+4,9
+3,5,2
+5,4,2,2
+4,11,1
+2,2,8,2
+2,2,3,2,3
+4,2,4
+2,2
+
+columns
+2
+4
+1,2,2
+2,2,2
+9
+6,2
+3,1,3
+1,1,3
+1,7
+3,1,8
+13
+13
+7,3
+1,4
+1,3,2
+1,2,3
+2,4
+2,2
+2

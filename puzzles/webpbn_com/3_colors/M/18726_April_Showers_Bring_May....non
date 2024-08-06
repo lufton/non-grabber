@@ -1,0 +1,61 @@
+by "Jennifer McMahon (kalamalama)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Jennifer McMahon"
+date "May 22, 2012"
+description "Flowers. In this case, yellow ones."
+difficulty 2.25
+height 20
+id 18726
+link "https://webpbn.com/play.cgi?id=18726"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "April Showers Bring May..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 5
+black 2 black 2
+black 2 black 1 black 2
+black 1 black 2 black 2
+black 5 black 1 black 2
+black 3 black 3 black 2 black 2
+black 1 black 2 black 2 black 2 black 2
+black 2 black 2 black 1 black 1 black 2
+black 2 black 2 black 2
+black 1 black 2 black 9
+black 1 black 3 black 4 black 2
+black 2 black 1 black 2 black 2 green 2
+black 2 black 2 black 1 black 1 black 2 green 4
+black 1 black 1 black 1 black 1 black 3 green 2 green 2
+black 2 black 2 black 2 black 1 green 1 black 2 green 1 black 1 green 1
+black 3 black 1 black 4 green 2 green 1 black 2 green 1
+black 2 black 3 green 2 green 3
+black 5 green 4
+black 2 green 2
+0
+
+columns
+black 8
+black 2 black 2 black 2 black 2
+black 2 black 2 black 4
+black 2 black 1 black 1 black 2 black 2
+black 3 black 1 black 2 black 1 black 1 black 2
+black 1 black 2 black 1 black 1 black 1 black 3 black 2
+black 1 black 3 black 2 black 2 black 2
+black 1 black 2 black 8 black 1
+black 1 black 1 black 3 black 5
+black 2 black 1 black 1 black 2 black 1 black 3
+black 2 black 2 black 1 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 1
+black 2 black 1 black 3 green 1
+black 2 black 5 green 3
+black 3 black 2 black 2 green 2
+black 2 green 2 black 1 green 1 green 2
+green 3 black 1 green 3
+green 2 green 1 black 1 green 2
+green 2 black 1 green 1
+green 3

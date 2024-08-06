@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Brian Bellis"
+date "Feb  4, 2023"
+description "Shake your head if you disagree."
+difficulty 2.25
+height 20
+id 36398
+link "https://webpbn.com/play.cgi?id=36398"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Palindrome #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 10
+red 3 black 1 red 3
+red 3 black 3 red 3
+red 2 black 1 red 4
+red 3 black 1 red 6
+red 2 red 3 red 2
+red 2 black 3 red 3 red 2
+red 2 black 4 red 3 red 2
+red 2 black 3 red 3 red 2
+red 2 black 2 red 3 red 2
+red 2 black 1 red 3 black 2 red 2
+red 2 red 3 black 2 red 2
+red 2 red 3 black 3 black 1 red 2
+red 6 black 4 black 1 red 3
+red 4 black 3 black 3 red 3
+red 3 black 3 black 1 red 3
+red 4 red 4
+red 10
+red 6
+
+columns
+red 6
+red 10
+red 3 red 3
+red 3 red 3
+red 2 red 4
+red 3 red 6
+red 2 black 4 red 3 red 2
+red 2 black 4 red 3 black 3 red 3
+red 2 black 3 red 3 black 4 red 2
+red 2 black 2 red 3 black 5 red 2
+red 2 red 3 black 4 red 2
+red 2 black 1 red 3 black 1 black 1 red 2
+red 2 black 4 red 3 black 4 red 3
+red 2 black 1 red 3 black 1 red 2
+red 6 red 3
+red 4 red 3
+red 3 red 3
+red 3 red 3
+red 10
+red 6

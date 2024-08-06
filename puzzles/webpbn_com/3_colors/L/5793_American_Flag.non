@@ -1,0 +1,81 @@
+by "Caitlin Billings (slantways)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Caitlin Billings"
+date "May  5, 2009"
+description "We don't need another American flag puzzle. To be fair, we probably don't need another text puzzle, either."
+difficulty 2.0
+height 20
+id 5793
+link "https://webpbn.com/play.cgi?id=5793"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "American Flag"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 1 black 1 black 1 red 9 black 1 black 1 red 20
+red 1 black 3 black 7 red 1 black 5 black 1 red 20
+red 3 black 1 black 2 black 2 black 3 black 2 black 3 red 18
+red 3 black 1 black 2 black 2 black 2 black 2 black 1 black 1 red 18
+red 3 black 1 black 2 black 2 black 3 black 3 black 3 red 18
+black 2 red 1 black 1 black 2 black 2 black 4 black 2 black 4 red 17
+black 3 black 2 black 2 black 2 black 2 black 1 black 2 black 1 red 17
+black 1 black 4 black 1 black 2 black 3 black 2 red 17
+black 5 red 2 black 10 red 1 black 4 red 18
+red 2 black 3 red 3 black 3 red 4 black 3 red 3 black 6 red 13
+red 2 black 1 black 5 black 1 red 4 black 1 black 1 red 3 black 1 black 2 black 1 red 10 black 3
+red 2 black 1 black 2 black 4 red 4 black 1 black 1 red 3 black 1 black 10 red 1 black 4 black 1
+red 2 black 1 black 1 black 3 black 1 red 2 black 3 black 1 red 1 black 3 black 2 black 2 black 1 black 3 black 2
+red 2 black 1 black 2 red 1 black 1 black 1 red 1 black 2 black 3 black 2 black 3 black 2 black 1 black 3 black 1
+red 2 black 1 black 1 black 3 black 1 red 1 black 1 black 2 black 2 black 2 black 2 black 1 red 1 black 1 black 2 black 1 black 3 black 1
+red 2 black 1 black 2 black 2 black 3 black 2 black 2 black 2 black 2 black 3 black 2 black 2 black 2
+red 2 black 1 black 2 black 2 black 1 black 1 black 2 black 2 black 2 black 2 black 1 black 1 black 2 black 3 black 2 red 1
+red 2 black 1 black 3 black 2 black 3 black 1 black 2 black 1 black 2 black 2 black 2 black 2 black 2
+red 2 black 3 red 1 black 6 red 1 black 21 black 3 black 1
+red 33 black 2 black 2
+
+columns
+red 5 black 1 black 2 red 11
+black 2 red 3 black 2 black 1 red 11
+black 1 red 4 black 1 black 11 red 1
+black 6 black 2 black 1 red 1
+black 6 black 5 red 1
+black 7 red 2 black 2 black 1 black 3 red 2
+black 7 red 2 black 1 black 3 black 2 red 1
+black 2 black 2 red 1 black 3 red 1 black 3 black 1 red 1
+red 1 black 6 black 11 red 1
+red 1 black 6 black 2 black 1 black 2 red 1
+red 1 black 1 black 10 black 1 red 1
+red 1 black 6 black 1 red 6 black 1 black 2 red 1
+red 2 black 7 red 4 black 5 red 2
+red 1 black 2 black 2 black 2 red 3 black 2 black 2 red 1
+red 1 black 1 black 1 black 2 black 1 red 3 black 1 black 3 black 1 red 1
+red 1 black 1 black 2 black 1 black 5 black 3 black 1 red 1
+red 1 black 2 black 2 black 3 black 2 red 1
+black 8 red 1 black 8 black 1 red 1
+black 2 red 4 black 6 red 1
+black 3 black 3 black 1 red 3 black 2 black 2 red 1
+red 2 black 1 black 3 black 1 red 3 black 1 black 3 black 1 red 1
+red 2 black 4 black 6 black 3 black 1 red 1
+red 5 black 3 red 1 black 1 black 2 red 1
+red 9 black 8 black 1 red 1
+red 9 black 10 red 1
+red 9 black 1 black 1 black 2 red 1
+red 9 black 8 black 1 red 1
+red 11 black 3 red 1 black 1 black 2 red 1
+red 11 black 1 black 6 red 1
+red 11 black 2 black 1 red 1
+red 11 black 1 black 6 red 1
+red 11 black 1 black 6 red 1
+red 11 black 2 black 1 red 1
+red 12 black 8
+red 11 black 2 black 3 black 1
+red 11 black 1 black 2 black 1 black 1
+red 11 black 1 black 2 black 1
+red 10 black 2 black 2 black 1 black 1
+red 10 black 1 black 1 black 3 black 1
+red 10 black 6 red 1 black 3

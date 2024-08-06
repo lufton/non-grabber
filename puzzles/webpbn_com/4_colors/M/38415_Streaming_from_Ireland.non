@@ -1,0 +1,62 @@
+by "Kitty Eyes (kittyeyes)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Kitty Eyes"
+date "Mar 28, 2024"
+description "Gem Radio, an Internet radio station (actually two stations) I like to listen to. More info in the first comment."
+difficulty 1.75
+height 20
+id 38415
+link "https://webpbn.com/play.cgi?id=38415"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Streaming from Ireland"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 7
+black 2 blue 2 blue 2 black 2 black 3
+black 2 blue 2 blue 2 black 2 black 3
+black 2 blue 9 black 2 black 1
+black 2 blue 1 blue 1 black 2 black 1
+black 2 blue 1 blue 1 black 2 black 2
+black 2 blue 1 blue 1 black 2 black 1
+black 2 blue 1 black 2 black 2
+black 3 black 1
+black 1 black 2
+black 18
+black 1 black 1 black 1
+black 20
+black 1 red 18 black 1
+black 1 red 2 black 2 red 3 black 4 red 3 black 2 red 2 black 1
+black 1 red 1 black 4 red 2 black 4 red 2 black 4 red 1 black 1
+black 1 red 1 black 4 red 8 black 4 red 1 black 1
+black 1 red 2 black 2 red 3 black 1 red 2 black 1 red 3 black 2 red 2 black 1
+black 1 red 18 black 1
+black 20
+
+columns
+black 1 black 8
+black 3 black 3 red 6 black 1
+black 2 blue 1 black 2 black 1 black 1 red 2 black 2 red 2 black 1
+black 2 blue 3 black 2 black 1 black 1 red 1 black 4 red 1 black 1
+black 1 blue 3 blue 1 black 2 black 1 black 1 red 1 black 4 red 1 black 1
+black 1 blue 1 blue 1 blue 1 black 2 black 1 black 1 red 2 black 2 red 2 black 1
+black 1 blue 1 blue 1 black 3 black 1 red 6 black 1
+black 1 blue 1 blue 1 blue 1 black 2 black 1 black 1 red 6 black 1
+black 1 blue 3 blue 1 black 2 black 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1
+black 2 blue 3 black 2 black 1 black 1 red 1 black 2 red 3 black 1
+black 2 blue 1 black 2 black 1 black 1 red 1 black 2 red 3 black 1
+black 3 black 1 black 1 red 1 black 2 red 1 black 1 red 1 black 1
+black 1 black 1 black 1 red 6 black 1
+black 1 black 1 red 6 black 1
+black 1 black 1 red 2 black 2 red 2 black 1
+black 4 red 1 black 4 red 1 black 1
+black 4 black 1 red 1 black 4 red 1 black 1
+black 2 black 3 black 1 black 1 red 2 black 2 red 2 black 1
+black 5 black 3 red 6 black 1
+black 2 black 8

@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Jul  8, 2011"
+description "draw the picture that I have hanging in my living room. no size restrictions. It's something/some place on the East Coast, but not on the Atlantic ocean. It's southeast of Lake Erie."
+difficulty 1.25
+height 15
+id 15110
+link "https://webpbn.com/play.cgi?id=15110"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Think inside the Picture contest"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 10
+black 1 black 1
+black 1 black 1
+black 1 blue 3 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 black 1
+black 1 blue 2 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 1 blue 1 black 1
+black 1 black 1
+black 10
+0
+0
+
+columns
+0
+0
+black 12
+black 1 black 1
+black 1 black 1
+black 1 blue 2 black 1
+black 1 blue 1 blue 2 blue 1 black 1
+black 1 blue 4 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 12
+0
+0
+0

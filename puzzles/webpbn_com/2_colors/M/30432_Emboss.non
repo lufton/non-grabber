@@ -1,0 +1,57 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Nov 22, 2017"
+description ""
+difficulty 2.5
+height 20
+id 30432
+link "https://webpbn.com/play.cgi?id=30432"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.75
+title "Emboss"
+width 20
+
+rows
+3,3
+2,2,2,2
+2,2,2,2
+2,2,2,2
+1,4,1
+5,2,6
+5,6
+5,6
+5,6
+5,6
+2,1,2
+2,3,2
+2,5,2
+2,7,2
+2,9,2
+20
+9,9
+7,7
+5,5
+3,3
+
+columns
+3,3
+2,2,5
+2,3,2,4
+2,4,2,5
+1,7,5
+2,5,6
+2,3,6
+2,2,6
+2,1,6
+2,6
+2,1,5
+2,2,5
+2,3,5
+2,4,5
+2,6,5
+1,7,5
+2,4,2,5
+2,3,2,4
+2,2,5
+3,3

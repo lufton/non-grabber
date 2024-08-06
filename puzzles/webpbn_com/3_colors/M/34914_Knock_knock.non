@@ -1,0 +1,56 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Feb 22, 2021"
+description "Ice cream"
+difficulty 1.0
+height 20
+id 34914
+link "https://webpbn.com/play.cgi?id=34914"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Knock knock"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 8
+red 11
+red 13
+red 13
+red 13
+red 1 black 2 red 6 black 1 red 1
+black 4 red 3 black 2
+black 9
+black 7
+black 7
+black 7
+black 5
+black 5
+black 5
+black 3
+black 3
+black 3
+black 1
+black 1
+black 1
+
+columns
+0
+red 3
+red 5
+red 4 black 3
+red 5 black 6
+red 6 black 8
+red 6 black 11
+red 7 black 13
+red 7 black 10
+red 7 black 7
+red 6 black 5
+red 5 black 3
+red 5
+red 3
+0

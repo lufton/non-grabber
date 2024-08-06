@@ -1,0 +1,46 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/3/16"
+height 12
+id 172261
+link "https://www.griddlers.net/nonogram/-/g/172261"
+medium_time "0:02:12"
+points 498
+popularity 85.59
+title "Geometry"
+width 12
+
+color a ffffff
+color b 330000
+color c 660000
+color d 990000
+color e cc0000
+
+rows
+e 5 d 1
+e 1 d 3 e 1 d 1
+e 1 d 1 e 1 d 1
+c 3 e 1 d 1 c 7
+b 3 e 1 d 1 b 6 c 1
+b 1 c 1 e 1 d 1 e 1 d 1 b 1 c 1
+b 1 c 1 e 1 d 1 e 1 d 1 b 1 c 1
+b 1 c 6 e 1 d 1 c 3
+b 7 e 1 d 1 b 3
+e 1 d 1 e 1 d 1
+e 1 d 1 e 3 d 1
+e 1 d 5
+
+columns
+c 1 b 5
+c 1 b 1 c 3 b 1
+c 1 b 1 c 1 b 1
+e 7 c 1 b 1 e 3
+e 1 d 6 c 1 b 1 d 3
+e 1 d 1 c 1 b 1 c 1 b 1 e 1 d 1
+e 1 d 1 c 1 b 1 c 1 b 1 e 1 d 1
+e 3 c 1 b 1 e 6 d 1
+d 3 c 1 b 1 d 7
+c 1 b 1 c 1 b 1
+c 1 b 3 c 1 b 1
+c 5 b 1

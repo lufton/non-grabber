@@ -1,0 +1,57 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Mar 24, 2013"
+description ""
+difficulty 1.25
+height 15
+id 21472
+link "https://webpbn.com/play.cgi?id=21472"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Guess the word #8"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 6
+black 8
+black 10
+black 5 black 4
+red 1 black 2 black 2 blue 1
+red 1 red 1 black 3 black 3 blue 2
+red 5 black 1 black 2 black 2 black 1 red 2 blue 3
+red 1 red 1 black 1 black 2 black 1 blue 2
+red 1 black 1 black 1 blue 1
+black 1 black 6 black 1
+black 2 black 2 black 2
+black 2 black 2
+black 6
+0
+
+columns
+red 5
+red 1
+red 3
+red 1
+red 1
+black 9
+black 5 black 2
+black 4 black 2 black 1 black 2
+black 4 black 1 black 1 black 1
+black 4 black 1 black 2 black 1
+black 3 black 1 black 2 black 1
+black 4 black 1 black 1 black 1
+black 4 black 2 black 1 black 2
+black 5 black 2
+black 9
+red 1
+red 1
+blue 5
+blue 3
+blue 1

@@ -1,0 +1,58 @@
+by "juromera"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/14/09"
+height 23
+id 81538
+link "https://www.griddlers.net/nonogram/-/g/81538"
+medium_time "0:01:36"
+points 363
+popularity 65.02
+title "Candle"
+width 14
+
+color a 000000
+color b ffffff
+color c ffff00
+color d ff6600
+
+rows
+c 1
+c 3
+c 5
+c 2 d 1 c 2
+c 2 d 1 c 2
+c 1 d 1 c 1
+b 1
+b 5
+b 5
+b 5
+b 5
+b 5
+b 5
+b 5
+b 5
+b 5
+b 5
+d 4 b 5
+d 1 d 1 b 5
+d 1 d 1 b 5
+d 4 b 5 d 2
+d 10
+d 10
+
+columns
+d 4
+d 1 d 1
+d 1 d 1
+d 6
+d 2
+c 3 b 14 d 2
+c 5 b 14 d 2
+c 3 d 3 b 15 d 2
+c 5 b 14 d 2
+c 3 b 14 d 2
+d 2
+d 2
+d 3
+d 1

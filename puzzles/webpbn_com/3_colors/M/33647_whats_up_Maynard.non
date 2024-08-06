@@ -1,0 +1,71 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Kurt Kowalczyk"
+date "Feb 27, 2020"
+description "wait, I meant "what's up, mallard?". A simple lil drake for ya"
+difficulty 2.25
+height 25
+id 33647
+link "https://webpbn.com/play.cgi?id=33647"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "what's up, Maynard?"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 9
+green 4 green 3
+green 2 green 3
+green 1 green 2 green 5
+green 2 green 10
+green 2 black 3 green 3 green 3
+green 2 black 1 black 2 green 1 green 1 green 3
+green 2 black 2 green 2 green 4
+black 1 green 2 green 2
+black 4 green 3
+black 3 black 2 green 1 green 2
+black 7 green 2 green 4
+black 3 green 2 green 6
+green 4 green 1 green 5
+green 9 green 1 green 2
+green 3 green 2 green 1 green 3
+green 1 green 2 green 2
+green 1 green 2
+green 1 green 1
+green 1 green 1
+green 1 green 2
+green 1 green 1 green 1 green 4 black 1
+green 9 black 2
+black 2 green 3 black 1
+black 2 black 1 black 2
+
+columns
+black 2
+black 2
+black 3
+black 2
+black 3
+black 2 black 1
+green 1 black 3
+green 3 black 2
+green 3 green 2
+green 3 green 3
+green 2 green 3 black 1
+green 2 green 2 black 2
+green 2 black 2 green 10 black 1
+green 2 green 1 black 1 black 1 green 2 green 2 black 1
+green 1 green 1 black 3 green 1 green 3 green 3
+green 1 green 3 black 1 green 2 green 1 green 1 green 2
+green 1 green 5 green 2 green 1
+green 1 green 2 green 3 green 1
+green 2 green 2 green 1 green 1 green 2
+green 5 green 1 green 2 green 1 green 1
+green 5 green 1 green 4 green 2
+green 6 green 1 green 3 green 1 green 1
+green 15 green 2 black 1
+green 16 black 1 black 1
+black 3

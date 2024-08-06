@@ -1,0 +1,67 @@
+by "betack (betack)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by betack"
+date "Mar  6, 2010"
+description "Greetings from Austin to all my friends out there."
+difficulty 1.5
+height 20
+id 7983
+link "https://webpbn.com/play.cgi?id=7983"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Say Hi"
+width 30
+
+rows
+30
+6,2,2,2,1,4
+6,2,2,2,1,4
+6,2,2,6,1,4
+6,2,4,1,4
+6,2,5,5
+6,2,2,7,5
+6,2,2,4,6
+6,2,2,4,6
+30
+1,1,1,1,2,4,4,1
+1,1,2,1,2,4,4,1
+1,1,4,1,2,4,4,1
+1,1,4,1,2,4,4,1
+2,4,1,4,4,1
+2,4,1,4,7
+3,5,3,1,1,1,1
+3,5,3,1,1,1,1
+30
+30
+
+columns
+20
+10,6
+10,4
+14,2
+10,4
+10,6
+1,11
+1,1,9
+4,4,8
+4,8,2
+1,1,4
+1,1,2,4
+10,4
+14,2
+1,11
+1,1,1,1,2
+1,1,1,1,2
+1,4,7,2
+1,4,7,2
+16,2
+20
+1,5,2
+1,3,2
+5,7,2
+1,9,2
+1,11,2
+20
+10,1,2
+10,1,2
+20

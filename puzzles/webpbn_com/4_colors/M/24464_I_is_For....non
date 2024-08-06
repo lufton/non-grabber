@@ -1,0 +1,62 @@
+by "Bryan (Cyclone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Bryan"
+date "May 12, 2014"
+description "Not much to say here. Should be an easy guess. Wanted to make the blue as difficult as I could."
+difficulty 1.75
+height 20
+id 24464
+link "https://webpbn.com/play.cgi?id=24464"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "I is For..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 green 3 blue 7
+green 1 green 2 blue 1
+black 1 blue 1
+green 2 black 2 blue 1
+green 3 black 1 blue 1
+black 2 blue 1
+black 1 blue 1
+black 1 blue 1
+black 1 blue 7
+black 1
+black 1
+black 7
+black 11
+black 13
+blue 3 black 13 blue 2
+blue 2 blue 4 blue 3 blue 2
+blue 1 blue 2 blue 3 blue 3 blue 2
+blue 2 blue 2 blue 3 blue 3 blue 2
+blue 3 blue 1 blue 2 blue 4 blue 2
+blue 2 blue 3 blue 4 blue 3
+
+columns
+blue 1 blue 2 blue 1
+blue 1 blue 3
+green 1 blue 2 blue 1
+green 1 green 1 blue 1 blue 2
+green 1 green 2 black 2 blue 2 blue 1
+green 2 green 1 black 3 blue 1 blue 2
+black 2 black 4 blue 1 blue 1 blue 1
+green 1 black 3 black 4 blue 1 blue 1
+green 2 black 10 blue 1 blue 2
+green 1 black 4 blue 2 blue 1
+green 1 black 4 blue 1 blue 1
+black 4 blue 2 blue 1
+black 4 blue 1 blue 1 blue 1
+blue 1 blue 1 black 3 blue 1 blue 3
+blue 1 blue 1 black 3 blue 2 blue 1
+blue 1 blue 1 black 3 blue 1 blue 1
+blue 9 black 2 blue 4
+blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 3 blue 2
+blue 1 blue 1 blue 1 blue 1 blue 1

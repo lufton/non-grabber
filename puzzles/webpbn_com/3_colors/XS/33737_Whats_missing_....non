@@ -1,0 +1,41 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Bill Eisenmann"
+date "Mar 19, 2020"
+description "From puzzle # 33733"
+difficulty 1.25
+height 10
+id 33737
+link "https://webpbn.com/play.cgi?id=33737"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "What's missing ..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 1 black 3
+red 1 black 3
+0
+red 1 black 5
+red 1 black 5
+0
+red 1 black 4
+red 1 black 4
+
+columns
+0
+red 2 red 2 red 2
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 2 black 2 black 2
+black 2 black 2
+black 2
+0
+0
+0

@@ -1,0 +1,57 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kristen Vognild"
+date "Feb 15, 2013"
+description "An ambigram of "air" from Dan Brown's novel, Angels & Demons. An ambigram reads the same, right side up and upside down."
+difficulty 1.75
+height 20
+id 21122
+link "https://webpbn.com/play.cgi?id=21122"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Elementary"
+width 20
+
+rows
+1
+3
+1
+0
+2,2,1,1,2,1
+3,3,2,7
+3,2,2,3,1
+2,2,2,2
+2,3,2,2
+2,4,2,2
+2,2,2,2
+2,2,4,2
+2,2,3,2
+2,2,2,2
+2,2,2,3
+1,3,2,3,3
+3,2,1,2,2
+1,1
+3
+1
+
+columns
+2
+1,2
+12
+12
+2,2
+1,1
+2,2
+12,1
+15
+1,1
+3,12
+1,12
+2,2
+1,1
+3,2
+12
+12
+2,1
+2
+2

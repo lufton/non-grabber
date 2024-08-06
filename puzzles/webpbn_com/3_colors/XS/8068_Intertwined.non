@@ -1,0 +1,41 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ant"
+date "Mar 21, 2010"
+description "Just a couple of colors twisted together, not a super appealing image but some fun color logic."
+difficulty 2.5
+height 10
+id 8068
+link "https://webpbn.com/play.cgi?id=8068"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Intertwined"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1 green 1
+black 1 green 1 black 1
+green 1 black 1 green 1
+black 2 green 1
+black 1 green 1 black 1
+green 2 black 1
+green 1 black 1 green 1
+black 2 green 1
+black 1 green 1 black 1
+green 1 black 1
+
+columns
+black 2
+green 3
+black 3
+green 1 black 2
+green 3
+black 1 green 2
+black 3
+green 1 black 2
+green 3
+black 2

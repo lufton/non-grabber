@@ -1,0 +1,72 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kurt Kowalczyk"
+date "May  1, 2014"
+description "Cubs fan! Currently last in their division at 9 - 17, they have a winning season about every 100 years(lol) Hope y'all enjoy the solve! :)"
+difficulty 3.0
+height 25
+id 24360
+link "https://webpbn.com/play.cgi?id=24360"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "WCP #150 Boy, I'd hate to be a...."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4 red 3 blue 2
+blue 3 red 2 red 1 blue 2
+blue 2 red 2 blue 1
+blue 2 red 2 red 1 blue 1
+blue 2 red 3 blue 1
+blue 7 blue 4
+blue 4 black 1 blue 16
+black 5 blue 13
+black 2 black 2 black 5 black 2 black 3 black 1
+black 5 black 2 black 2 black 2
+black 1 black 1 black 5 black 5 black 1
+black 2 black 3 black 1 black 1 black 3 black 1 black 1
+black 1 black 2 black 2 black 4 black 1
+black 1 blue 1 black 2 black 1 black 1 black 2
+black 3 blue 2 black 1 black 1 blue 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 2 black 3 blue 2 black 1
+black 2 blue 1 black 2 black 3 black 1 blue 1 blue 1 black 1
+black 2 black 1 black 2 blue 1 black 1
+black 1 black 1 black 5 black 1 black 1
+black 1 black 10 black 2
+black 2 black 6 black 2
+black 2 black 4 black 3
+black 2 black 1 black 1 black 3
+black 3 black 1
+black 10
+
+columns
+black 2 black 2
+blue 1 black 4 black 2 black 1
+blue 6 black 1 black 1 black 2 black 4
+blue 7 black 5 black 4
+blue 2 blue 2 black 3 blue 1 black 2
+blue 1 blue 1 black 2 blue 1 blue 1 black 2
+blue 1 blue 1 black 1 blue 3 black 2
+blue 2 black 1 black 1 black 1
+blue 2 black 1 black 2 black 2 black 1 black 2
+blue 2 black 1 black 2 black 2 black 2 black 1
+blue 2 black 3 black 2 black 2 black 1
+blue 2 black 2 black 2 black 1 black 3 black 1
+red 3 blue 2 black 3 black 2 black 3 black 1 black 1
+red 5 blue 2 black 1 black 1 black 4 black 1
+red 1 red 1 blue 2 black 1 black 2 black 1 black 4 black 1
+red 1 red 1 blue 2 black 1 black 2 black 1 black 4 black 1
+red 1 red 1 blue 2 black 2 black 2 black 1 black 2 black 1
+blue 1 blue 2 black 3 black 3 black 1 black 1
+blue 2 blue 3 black 5 black 2 black 2
+blue 7 black 1 black 1 black 1 black 2
+blue 3 black 1 black 2 blue 3 black 2
+blue 3 black 2 blue 1 blue 1 black 2
+blue 1 black 2 black 1 blue 1 black 2
+black 11
+0

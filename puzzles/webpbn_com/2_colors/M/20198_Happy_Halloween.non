@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Oct 28, 2012"
+description "Needed some more 20x20"
+difficulty 1.5
+height 20
+id 20198
+link "https://webpbn.com/play.cgi?id=20198"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Happy Halloween!"
+width 20
+
+rows
+2
+2
+3
+4
+8
+5
+8
+4,1
+4,1
+1
+6
+7,2
+2,5,2
+2,5,4
+17
+1,1,4
+1,1,2
+1,1,2
+1,1
+2,2
+
+columns
+1
+1
+1
+1
+1
+2
+3
+2,1
+2,1
+1,1,8,1
+1,1,1,5,2
+6,5
+16,1
+8,5,2
+8,1
+1,3,1
+1,3,3
+2,2
+3,3
+1,1,1,1

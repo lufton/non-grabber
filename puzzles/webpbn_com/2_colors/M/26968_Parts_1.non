@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.25
+height 20
+id 26968
+link "https://webpbn.com/play.cgi?id=26968"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Parts #1"
+width 20
+
+rows
+8
+3,4
+2,2,2
+2,2,2
+1,1,1
+3,1,1
+1,2,1,4,1
+1,1,3,3,2
+1,1,3,3
+1,3,2
+1,1,3
+2,1,4
+5,3
+1,3
+2,2
+5
+2
+3
+2
+2
+
+columns
+0
+7
+3,4
+2,2,1,2,1
+2,4,1,1,3
+1,4,4
+3,2,2,3
+1,2,1,3
+1,6,3
+1,1,1
+1,2,2
+1,1,1
+1,1,1
+2,2,2
+1,1,1
+1,4
+2,2
+2,2
+5
+0

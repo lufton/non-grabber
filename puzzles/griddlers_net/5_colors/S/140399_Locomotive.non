@@ -1,0 +1,51 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/11/14"
+height 13
+id 140399
+link "https://www.griddlers.net/nonogram/-/g/140399"
+medium_time "0:03:32"
+points 1227
+popularity 76.81
+title "Locomotive"
+width 16
+
+color a 96e3ec
+color b d68a6b
+color c b46b62
+color d d6bea5
+color e fffbff
+
+rows
+b 2
+b 3 c 1
+b 1 c 1 b 3 c 4
+b 1 c 1 d 5
+b 1 c 1 d 1 d 1
+b 1 d 7 d 1
+b 2 d 11
+b 1 d 11
+e 11
+b 2 e 2 b 2 e 3 b 2 e 2
+b 2 c 1 e 1 b 3 c 1 e 1 b 3 c 1 e 1
+b 2 c 2 e 1 b 3 c 1 e 1 b 3 c 1 e 1
+c 2 c 2
+
+columns
+b 1
+b 2
+b 3 b 2 c 1
+b 1 b 1 c 2
+b 1 d 3 e 4
+b 5 d 3 e 2 b 2
+b 2 c 3 d 3 e 1 b 3 c 1
+c 1 d 3 e 1 b 3 c 1
+d 3 e 2 c 2
+b 1 d 3 e 4
+b 1 d 5 e 2 b 2
+b 1 d 1 d 2 e 1 b 3 c 1
+c 1 d 1 d 2 e 1 b 3 c 1
+c 1 d 1 d 2 e 2 c 2
+c 1 d 5 e 4
+c 1

@@ -1,0 +1,37 @@
+by "Greg Swan (gswan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Greg Swan"
+date "Feb 14, 2012"
+description "My first attempt"
+difficulty 1.25
+height 10
+id 17548
+link "https://webpbn.com/play.cgi?id=17548"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Be it Ever So Humble ..."
+width 10
+
+rows
+2
+4
+2,2
+2,2
+2,2,2
+1,2,1
+1,2,1
+1,2,2,1
+1,2,2,1
+1,2,1
+
+columns
+6
+2
+2,2
+2,2,2
+2,2
+2
+2,4
+2,4
+2
+6

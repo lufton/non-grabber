@@ -1,0 +1,61 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "Aug  3, 2023"
+description "National Underwear Day! From the top: Briefs Thong Hip Huggers Boxers (or Boyshorts) Tighty Whities Commando (should've probably listed them from the bottom....)"
+difficulty 1.75
+height 29
+id 37018
+link "https://webpbn.com/play.cgi?id=37018"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "August 5 is...."
+width 9
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 9
+0
+black 9
+black 3 black 5
+black 2 black 4
+black 2 black 2
+black 3
+red 9
+red 3
+red 1
+blue 1 red 1 blue 1
+blue 2 red 1 blue 2
+blue 2 blue 2
+blue 5
+blue 3
+blue 3
+blue 1
+0
+green 9
+green 9
+green 9
+green 9
+green 9
+green 4 green 4
+green 4 green 4
+0
+0
+0
+0
+
+columns
+red 1 black 2 red 1 blue 2 green 7
+red 1 black 3 red 1 blue 2 green 7
+red 1 black 4 red 1 blue 2 green 7
+red 1 black 1 black 2 red 2 blue 3 green 7
+red 1 black 3 black 1 red 5 blue 4 green 5
+red 1 black 5 red 2 blue 3 green 7
+red 1 black 4 red 1 blue 2 green 7
+red 1 black 3 red 1 blue 2 green 7
+red 1 black 2 red 1 blue 2 green 7

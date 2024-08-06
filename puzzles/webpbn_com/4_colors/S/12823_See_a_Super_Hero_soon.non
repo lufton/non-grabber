@@ -1,0 +1,52 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 18, 2011"
+description "This weekend Super Moon will be here. See Comment # 1"
+difficulty 1.5
+height 15
+id 12823
+link "https://webpbn.com/play.cgi?id=12823"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "See a Super Hero soon!"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 7
+black 2 black 2
+black 2 black 2
+black 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 black 1
+black 1 black 1
+black 1 red 1 red 1 black 1
+black 2 red 3 black 3
+black 2 red 1 black 2 black 2 red 1 black 2
+black 1 red 3 black 6 red 4 black 1
+black 1 red 14
+
+columns
+black 3
+black 2 red 2
+black 7 red 3
+black 2 black 1 red 2
+black 2 black 2 red 1
+black 1 blue 2 red 1 black 1 red 1
+black 1 red 1 black 1 red 1
+black 1 red 1 black 1 red 1
+black 1 red 1 black 1 red 1
+black 1 blue 2 red 1 black 1 red 1
+black 2 black 1 red 2
+black 2 black 2 red 2
+black 7 red 3
+black 2 red 2
+black 2 red 1

@@ -1,0 +1,31 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Mar 27, 2012"
+description "A cherry"
+difficulty 1.0
+height 5
+id 18088
+link "https://webpbn.com/play.cgi?id=18088"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "minimalist fruit 2"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 3
+green 1
+black 2
+black 4
+black 2
+
+columns
+green 1
+green 1 black 1
+green 2 black 3
+black 3
+black 1

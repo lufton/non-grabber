@@ -1,0 +1,83 @@
+by "alembic42"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/5/06"
+height 30
+id 40500
+link "https://www.griddlers.net/nonogram/-/g/40500"
+medium_time "0:14:28"
+points 11312
+popularity 73.18
+title "Sunny Scene"
+width 30
+
+color a 00ccff
+color b ffff33
+color c 32cd32
+color d 008000
+color e 2e8b57
+color f a0522d
+
+rows
+b 5
+b 5 c 6
+b 4 c 3 d 2 c 1 d 2 c 4
+b 4 c 2 d 3 c 1 d 2 c 3 e 1 c 2 e 1
+b 2 c 2 d 1 c 1 e 2 c 5 e 3 c 1
+c 1 d 1 c 3 e 2 c 3 f 1 c 2 e 2
+c 2 d 1 c 1 d 1 c 2 e 1 c 3 f 1 e 2 c 1 e 1 c 1 e 1
+c 1 d 1 c 1 d 2 c 1 f 2 e 1 c 2 f 1 c 1 e 1 c 1 e 4
+c 2 f 1 c 4 f 2 c 3 e 8
+c 1 f 4 c 4 e 1 c 3 f 2 e 5
+c 4 f 1 c 1 e 2 c 1 e 3 c 1 e 7
+c 1 e 1 c 1 e 2 c 1 f 1 e 1 c 2 f 1 e 2 c 1 f 2 e 1
+e 4 f 2 c 1 f 1 e 7
+f 2 c 2 e 3 e 2
+f 3 e 2 c 1
+f 2 e 1
+f 2
+f 2
+f 2
+c 6 f 2 c 2
+c 4 c 9 f 2 c 4
+c 14 f 2 c 9
+c 13 f 3 c 11
+c 11 f 6 c 12
+c 11 f 1 c 2 f 1 e 1 f 3 c 11
+c 14 f 1 e 2 f 3 c 10
+c 16 e 3 c 1 e 3 c 7
+c 18 e 7 c 5
+c 19 e 8 c 3
+c 20 e 9 c 1
+
+columns
+b 5 c 10
+b 5 c 10
+b 4 c 10
+b 4 c 10
+b 2 c 9
+c 4 c 10
+c 1 d 1 c 1 f 1 c 1 c 10
+c 2 f 2 c 2 c 10
+c 3 d 2 c 1 f 1 c 1 e 1 c 11
+c 2 d 1 c 1 d 1 c 1 f 2 c 1 e 1 c 11
+c 1 d 2 c 1 d 1 c 4 e 2 c 11
+c 1 d 1 c 3 f 1 c 2 e 3 c 4 f 2 c 5
+c 1 d 1 e 1 c 2 f 2 c 1 e 1 c 1 e 1 c 4 f 1 c 6
+c 1 d 1 c 1 e 4 f 1 c 2 f 2 c 3 f 2 c 6
+c 1 d 2 c 1 e 1 c 3 e 3 f 14 c 4
+c 2 d 1 c 6 e 1 c 2 f 11 e 2 c 4
+c 1 d 1 c 4 f 1 c 2 e 1 c 1 f 1 c 1 f 1 c 4 f 2 e 2 c 3
+c 1 d 1 c 3 f 1 c 1 e 1 c 2 f 1 e 1 c 1 e 1 c 5 f 2 e 1 c 3
+c 4 f 1 e 3 f 1 e 6 c 4 f 2 e 2 c 2
+c 1 e 2 c 1 e 1 c 1 e 1 f 1 e 4 c 1 c 5 f 1 c 1 e 2 c 1
+c 2 e 1 c 2 e 4 c 1 e 2 c 5 e 4
+c 2 e 7 f 1 e 1 c 5 e 4
+e 1 c 1 e 1 c 1 e 4 f 1 e 2 c 5 e 4
+e 8 c 6 e 3
+e 3 c 6 e 3
+c 6 e 2
+c 6 e 2
+c 6 e 1
+c 6 e 1
+c 6

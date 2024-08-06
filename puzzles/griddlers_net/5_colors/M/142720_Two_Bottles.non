@@ -1,0 +1,65 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/31/14"
+height 24
+id 142720
+link "https://www.griddlers.net/nonogram/-/g/142720"
+medium_time "0:05:58"
+points 3447
+popularity 78.48
+title "Two Bottles"
+width 19
+
+color a ffffff
+color c cc9900
+color d cc0000
+color e 009900
+color f 0000ff
+
+rows
+c 2
+c 2
+e 4
+d 1 e 4
+d 3 d 2
+c 5 e 2
+c 3 e 1 e 2
+d 3 e 1 e 4
+c 3 e 1 e 4
+c 7 c 3 e 3
+c 2 c 4 d 2 c 1 e 3
+c 1 c 5 d 2 c 1 f 3
+c 1 c 5 d 1 c 2 f 3
+c 1 c 1 d 4 d 1 c 2 f 3
+c 3 d 2 c 2 d 2 c 1 f 3
+f 3 d 2 c 2 d 2 c 1 f 3
+f 3 d 4 d 2 c 1 f 3
+f 3 d 2 c 2 d 1 c 2 f 3
+f 3 d 2 c 2 c 3 f 3
+f 3 d 4 f 6
+c 1 e 1 f 7 e 2 f 6 e 2
+e 2 f 7 e 1 c 2 f 4 e 2 c 1
+e 1 c 1 f 7 c 2 e 2 c 2 e 2 c 2
+c 2 e 2 c 2 e 2 c 2 e 2 c 2 e 2 c 2 e 1
+
+columns
+c 1 e 2 c 1
+e 2 c 2
+c 6 f 8 e 1
+c 1 c 2 c 1 f 8 e 1
+d 1 c 2 d 1 c 2 c 4 f 8 c 1
+d 2 c 2 d 1 c 5 d 7 f 3 c 1
+d 1 c 2 d 1 c 5 d 7 f 3 e 1
+c 1 c 4 d 1 c 2 d 1 c 2 d 1 f 3 e 1
+c 4 d 1 c 2 d 1 c 2 d 1 f 3 c 1
+e 2 c 2
+e 1 c 2 e 1
+e 2 c 1 d 8 c 1 f 2 c 1 e 2
+e 2 e 1 c 1 d 2 c 2 d 3 c 2 f 3 e 1 c 1
+c 2 e 2 d 1 e 1 e 2 c 10 f 3 c 2
+c 2 e 2 d 1 e 6 f 11 c 1 e 1
+e 2 e 5 f 11 e 2
+e 4 f 10 e 2 c 1
+e 2 c 2
+e 1 c 2 e 1

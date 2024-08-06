@@ -1,0 +1,62 @@
+by "Abrila"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/7/06"
+height 20
+id 39601
+link "https://www.griddlers.net/nonogram/-/g/39601"
+medium_time "0:05:51"
+points 414
+popularity 62.0
+title "For the Break Time"
+width 20
+
+color a ffffff
+color b 000000
+color d cc0033
+color e 00d700
+color g 006666
+
+rows
+g 2
+g 1 e 1 g 2
+g 1 e 2 g 1
+g 2 e 1 g 2 d 4
+d 2 g 1 e 2 g 2 d 5
+d 4 g 1 e 2 g 1 d 6
+d 6 g 3 d 1 b 2 d 4
+d 4 b 4 g 2 b 2 d 6
+d 8 b 4 d 8
+d 9 b 2 d 3 d 4
+d 15 d 3
+d 15 d 4
+d 20
+d 20
+d 19
+d 18
+d 17
+d 16
+d 14
+d 5 d 5
+
+columns
+d 6
+d 9
+d 12
+d 14
+d 16
+g 4 d 3 b 1 d 12
+g 1 e 2 g 2 d 2 b 1 d 12
+g 1 e 3 g 1 d 1 b 1 d 12
+g 3 e 2 g 1 b 2 d 11
+g 2 e 1 g 2 b 2 d 9
+g 4 b 2 d 9
+d 4 b 2 d 11
+d 3 b 2 d 12
+d 3 b 1 d 13
+d 6 d 10
+d 5 d 8
+d 5 d 8
+d 12
+d 10
+d 7

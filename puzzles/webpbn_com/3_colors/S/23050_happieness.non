@@ -1,0 +1,51 @@
+by "mary stickel (littlekitten)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by mary stickel"
+date "Oct 30, 2013"
+description "smile"
+difficulty 1.5
+height 15
+id 23050
+link "https://webpbn.com/play.cgi?id=23050"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "happieness"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 2 black 2
+black 1 black 1 black 1 black 1
+black 4 black 4
+black 2 black 2
+0
+black 1 black 1 black 1
+black 2 black 2
+black 2 black 2
+black 9
+red 4
+red 4
+red 4
+red 2
+
+columns
+0
+black 2
+black 2
+black 2 black 2
+black 1 black 2 black 1
+black 1 black 2 black 1 red 3
+black 2 black 1 red 4
+black 1 black 1 red 4
+black 2 black 1 red 3
+black 1 black 2 black 1
+black 1 black 2 black 1
+black 2 black 2
+black 2
+black 2
+0

@@ -1,0 +1,58 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/11/10"
+height 19
+id 100810
+link "https://www.griddlers.net/nonogram/-/g/100810"
+medium_time "0:12:30"
+points 5542
+popularity 64.82
+title "Happy Little Puppy"
+width 16
+
+color a ccccff
+color b 734927
+color c b87858
+color d d9c9ae
+color e e8a898
+color g 202020
+
+rows
+b 3
+b 1 c 2 b 1
+b 3 b 1 d 1 c 1 b 2
+e 1 d 2 b 1 b 1 e 1 b 1 e 1 c 1 b 1
+b 1 e 1 d 1 e 1 b 1 b 1 c 1 e 3 b 1
+b 1 e 1 c 1 b 1 b 1 c 2 e 1 c 2 d 1 b 1
+b 1 c 2 b 1 b 1 c 4 b 1 d 2 b 1
+b 1 c 2 b 3 c 5 g 1 e 1 d 1 c 1
+b 1 c 1 e 1 c 6 e 2 c 2 g 1
+b 1 e 3 c 3 b 1 c 1 e 1 c 3 g 1
+b 1 e 5 c 1 e 1 b 1 c 3 b 1
+g 1 e 2 c 1 e 2 c 3 e 1 b 3
+b 1 c 2 e 1 c 1 e 2 c 5 b 2
+b 1 c 3 e 3 c 4 e 2 c 1 b 1
+b 1 c 4 e 1 b 1 c 1 b 2 c 2 e 1 c 1 b 1
+b 1 c 3 e 1 b 3 g 3 b 1 c 1 e 1 b 1
+g 1 c 1 e 1 c 2 b 1 g 2 g 1 e 1 d 1 g 1
+g 1 d 1 e 2 b 1 g 1 g 3
+g 4
+
+columns
+b 1 e 1 b 1 g 2
+b 1 d 1 e 1 b 3 g 1 b 4 c 1 d 1 g 1
+b 1 d 2 e 1 c 2 b 3 e 1 c 4 e 2 g 1
+b 1 e 1 c 4 e 3 c 5 e 1 g 1
+b 4 e 3 c 1 e 1 c 4 b 1 g 1
+b 1 c 1 e 3 c 1 e 1 c 1 e 1 b 1 g 1
+b 1 c 2 e 5 b 1 g 1
+b 2 c 3 e 1 c 1 e 2 b 2 g 1
+b 3 c 10 b 1
+b 1 d 1 e 1 c 5 b 1 e 1 c 3 b 1 g 1
+b 1 c 2 b 1 e 2 c 4 b 1 e 1 c 2 b 1 g 1
+b 1 c 1 b 1 e 2 c 3 e 2 c 1 b 1 c 3 g 1
+b 3 c 1 e 1 c 1 b 1 g 1 e 1 c 2 b 1 c 1 e 1 c 1 b 1 g 1
+b 2 d 2 e 1 c 3 b 2 e 2 c 1 e 1 g 1
+b 1 d 2 c 2 b 1 b 1 c 2 e 1 d 1 g 1
+b 1 c 1 g 2 b 3 g 2

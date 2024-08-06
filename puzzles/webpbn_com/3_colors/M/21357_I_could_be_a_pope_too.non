@@ -1,0 +1,61 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Tom O'Connell"
+date "Mar 14, 2013"
+description ""
+difficulty 1.75
+height 20
+id 21357
+link "https://webpbn.com/play.cgi?id=21357"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "I could be a pope too!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3
+red 5
+red 5
+red 2 black 2 red 1
+black 2 black 1 red 2
+red 1 black 4 red 3
+red 2 black 3 red 6
+red 2 black 2 red 8
+black 2 red 9
+black 1 red 10
+red 12
+red 11
+red 11
+red 11
+red 5 black 1 red 4
+black 1 black 2 red 4
+black 2 red 4
+red 4
+red 3
+red 2
+
+columns
+0
+red 2
+red 3
+red 1 black 5
+red 2 black 6 red 1
+red 2 black 1 black 2 red 5
+red 2 black 3 red 8
+red 13
+red 3 red 11
+red 2 red 10 black 1
+red 1 red 9 black 2
+red 9
+red 8 black 1
+red 6 black 2
+red 7
+red 7
+red 6
+red 5
+red 4
+red 3

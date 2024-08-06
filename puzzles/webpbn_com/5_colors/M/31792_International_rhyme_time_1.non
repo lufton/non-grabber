@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Nov 17, 2018"
+description "Prague Frog"
+difficulty 1.5
+height 20
+id 31792
+link "https://webpbn.com/play.cgi?id=31792"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "International rhyme time #1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1
+blue 2
+blue 3
+blue 4
+blue 5
+blue 6 red 14
+blue 5 red 15
+blue 4 red 16
+blue 3 red 8 green 2 red 7
+blue 2 red 8 green 4 red 6
+blue 1 red 4 green 1 red 1 green 1 red 1 green 1 black 1 green 2 black 1 green 1 red 2 green 2 red 1
+green 3 green 1 black 1 green 2 black 1 green 1 green 2
+green 1 green 8 green 1
+green 12
+green 6
+green 3 green 6 green 2
+green 4 green 6 green 3
+green 14
+green 3 green 4 green 2
+green 3 green 2 green 3
+
+columns
+blue 11
+blue 9 red 1
+blue 7 red 2
+blue 5 red 3
+blue 3 red 4 green 2
+blue 1 red 4 green 2 green 3 green 1
+red 6 green 3 green 5
+red 5 green 2 green 1 green 4
+red 6 green 2 green 2
+red 5 green 8
+red 4 green 1 black 2 green 7
+red 3 green 12
+red 3 green 12
+red 4 green 1 black 2 green 7
+red 5 green 8
+red 6 green 2 green 3
+red 6 green 1 green 4
+red 5 green 4 green 3 green 1
+red 5 green 2 green 3
+red 6

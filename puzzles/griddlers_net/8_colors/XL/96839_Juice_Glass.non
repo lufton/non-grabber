@@ -1,0 +1,110 @@
+by "griddlock"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/27/10"
+height 45
+id 96839
+link "https://www.griddlers.net/nonogram/-/g/96839"
+medium_time "0:17:25"
+points 30411
+popularity 81.48
+title "Juice Glass"
+width 40
+
+color a ffffff
+color b 10af05
+color c d4ca7d
+color d bbcdb6
+color e f5e22e
+color f e2a513
+color g e9c84e
+color h f5f0d3
+
+rows
+b 4
+b 6
+b 2 b 2
+b 1 b 2
+b 2 b 2
+d 5 b 2 b 2
+d 4 h 4 d 5 b 3 b 2
+d 3 h 13 d 3 b 2 b 2
+d 3 h 18 d 1 b 2 b 2
+d 1 h 21 b 2 d 1 b 2
+d 2 h 8 e 7 h 6 b 2 h 1 d 1
+d 2 h 7 e 2 f 7 e 4 h 2 b 1 h 2 d 1
+d 1 h 6 e 1 f 14 e 1 b 2 h 3 d 1
+d 1 h 5 e 1 f 7 c 9 f 1 b 2 h 4 d 1
+d 1 h 3 e 1 f 6 c 13 b 2 e 1 h 3 d 1
+d 1 h 2 e 1 f 5 c 14 b 2 f 2 e 1 h 3 d 1
+d 1 h 1 e 1 f 5 c 15 b 2 f 3 e 1 h 2 d 1
+d 1 e 1 f 5 c 15 b 3 f 4 e 1 h 1 d 1
+d 1 f 5 c 15 b 2 f 6 d 1
+d 1 f 4 c 11 f 5 b 2 f 6 d 1
+d 1 f 3 c 9 f 16 d 1
+f 1 d 1 f 4 c 5 f 17 d 1 f 1
+f 2 d 1 f 24 d 1 f 2
+f 3 d 1 f 22 d 1 f 1 e 1 f 1
+f 4 d 1 f 19 d 2 f 2 e 1 f 1
+f 5 d 3 f 14 d 2 f 3 e 2 f 1
+f 8 d 14 f 4 e 2 f 2
+f 25 e 3 f 2
+f 6 g 2 f 15 e 5 f 2
+d 1 f 7 g 6 f 8 e 7 f 2
+d 3 f 7 g 5 e 16 f 2
+d 5 f 7 g 7 e 14 f 2
+d 8 f 6 g 7 e 14 f 2
+d 7 f 6 g 7 e 14 f 2
+d 6 f 7 g 6 e 14 f 2
+d 5 f 7 g 6 e 14 f 1
+d 5 f 7 g 5 e 14 f 1
+d 3 f 7 g 5 e 14 f 1
+d 2 f 9 g 3 e 12 f 2
+d 2 f 9 g 2 e 11 f 2
+f 11 e 5 f 7
+f 21
+f 19
+f 17
+f 14
+
+columns
+d 1
+d 2
+d 4
+d 5
+d 7
+d 7
+d 5 d 9
+d 2 h 4 e 1 d 3 f 11 d 7
+d 2 h 4 e 1 f 4 d 1 f 14 d 4
+d 2 h 4 e 1 f 6 d 1 f 16 d 1
+d 1 h 5 e 1 f 8 d 1 f 17
+d 1 h 5 f 6 c 1 f 3 d 1 f 17
+d 2 h 4 e 1 f 5 c 2 f 4 d 1 f 17
+d 1 h 5 f 4 c 5 f 3 d 1 f 2 g 1 f 14
+d 1 h 4 e 1 f 3 c 6 f 3 d 1 f 2 g 6 f 10
+d 1 h 5 f 3 c 7 f 4 d 1 f 2 g 7 f 9
+d 1 h 4 e 1 f 3 c 7 f 4 d 1 f 2 g 9 f 7
+d 1 h 4 e 1 f 2 c 8 f 4 d 1 f 2 g 9 f 7
+d 2 h 3 e 1 f 3 c 7 f 5 d 1 f 2 g 10 f 6
+d 1 h 4 e 1 f 3 c 7 f 5 d 1 f 2 g 1 e 1 g 9 f 5
+d 1 h 4 e 1 f 2 c 7 f 6 d 1 f 3 e 1 g 9 f 5
+d 1 h 4 e 1 f 2 c 7 f 6 d 1 f 3 e 11 f 4
+d 1 h 4 e 1 f 2 c 7 f 6 d 1 f 3 e 11 f 4
+d 1 h 3 e 1 f 2 c 6 f 7 d 1 f 3 e 11 f 4
+d 1 h 3 e 1 f 2 c 6 f 7 d 1 f 3 e 11 f 4
+d 1 h 4 e 1 f 1 c 6 f 7 d 1 f 3 e 11 f 4
+d 1 h 4 e 1 f 1 c 6 f 7 d 1 f 3 e 10 f 5
+d 1 h 4 e 1 f 1 c 6 f 7 d 1 f 3 e 10 f 5
+d 1 h 3 e 1 f 1 c 4 b 3 f 6 d 1 f 2 e 11 f 5
+d 1 h 4 e 1 f 1 c 1 b 5 f 5 d 1 f 3 e 11 f 4
+d 1 h 4 b 6 f 7 d 1 f 2 e 12 f 4
+d 1 b 6 f 9 d 1 f 3 e 12 f 2
+b 5 h 3 e 1 f 9 d 1 f 2 e 12 f 2
+b 5 d 1 h 5 e 1 f 7 d 1 f 2 e 12 f 2
+b 6 d 2 h 4 e 1 f 5 d 1 f 2 e 13 f 1
+b 3 d 1 h 4 e 1 f 3 d 1 f 1 e 3 f 12
+b 2 d 2 h 3 d 3 f 14
+b 2 d 3
+b 10
+b 9

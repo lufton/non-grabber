@@ -1,0 +1,44 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/17/12"
+height 9
+id 129004
+link "https://www.griddlers.net/nonogram/-/g/129004"
+medium_time "0:02:10"
+points 465
+popularity 60.04
+title "Very Colorful Fish"
+width 12
+
+color a ffffff
+color b e7fb9c
+color c 4a65de
+color d de8673
+color e efc321
+color f 000000
+
+rows
+b 1
+c 1 b 1
+b 1 c 1 b 1
+b 2 c 1 d 1
+c 7 d 1
+c 4 b 2 c 1 d 1 e 1
+c 1 f 1 c 1 b 1 c 1 b 2 d 1 e 1
+d 2 b 2 d 2 e 2
+e 5
+
+columns
+c 1 d 1
+c 1 f 1 d 1 e 1
+c 3 b 1 e 1
+c 2 b 2 e 1
+b 1 c 3 d 1 e 1
+b 1 c 1 b 2 d 1 e 1
+c 1 b 2 e 1
+c 2 d 1 e 1
+b 1 c 1 c 2 d 1 e 1
+b 2 d 2 e 1
+c 1
+b 1

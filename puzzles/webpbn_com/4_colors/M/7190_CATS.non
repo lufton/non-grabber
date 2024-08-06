@@ -1,0 +1,62 @@
+by "Ellen Ritchie (emritchie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Ellen Ritchie"
+date "Nov 23, 2009"
+description "KITTIN IS JUMPING ON GARFIELD WHILE SKYLET WATHES"
+difficulty 1.5
+height 20
+id 7190
+link "https://webpbn.com/play.cgi?id=7190"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "CATS"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+0
+0
+0
+black 1
+black 1 black 1 black 1
+black 2 blue 1 black 2
+black 3 black 2 black 1
+black 1 black 1 black 2 blue 1 black 1 black 2
+black 1 black 2 black 5 black 2
+black 4 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 blue 1 black 1
+black 1 black 1 black 5
+black 1 black 1 black 2 black 2
+red 20
+
+columns
+black 10 red 1
+black 2 black 1 red 1
+black 1 blue 1 black 4 red 1
+black 5 red 1
+black 3 red 1
+black 7 red 1
+black 1 red 1
+black 1 red 1
+black 1 blue 1 black 2 red 1
+black 2 black 1 black 1 red 1
+black 2 red 1
+black 5 red 1
+black 2 black 2 red 1
+black 1 blue 1 black 2 red 1
+black 2 red 1
+red 1
+red 1
+red 1
+red 1
+red 1

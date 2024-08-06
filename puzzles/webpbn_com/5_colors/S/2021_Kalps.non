@@ -1,0 +1,53 @@
+by "m2 (mercymercy)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by m2"
+date "Dec 18, 2007"
+description "This puzzle is for kalps. I wanted to find a way to get his/her attention. We are trying to make contact with you. Please click on the forum button to the left and read the "Discussion for particular puzzles"."
+difficulty 1.25
+height 5
+id 2021
+link "https://webpbn.com/play.cgi?id=2021"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.75
+title "Kalps"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 2 red 1 blue 2 black 5 green 5
+green 4 red 3 blue 2 black 2 black 2 green 2
+green 3 red 5 blue 2 black 5 green 5
+green 4 red 2 red 2 blue 5 black 2 green 2
+green 2 green 2 red 1 red 1 blue 5 black 2 green 5
+
+columns
+green 5
+green 5
+green 3
+green 2 green 2
+green 1 green 1
+red 3
+red 3
+red 3
+red 3
+red 3
+blue 5
+blue 5
+blue 2
+blue 2
+blue 2
+black 5
+black 5
+black 1 black 1
+black 3
+black 3
+green 3 green 1
+green 3 green 1
+green 1 green 1 green 1
+green 1 green 3
+green 1 green 3

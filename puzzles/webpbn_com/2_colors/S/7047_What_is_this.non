@@ -1,0 +1,47 @@
+by "Deniz Kara (enatsek)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Deniz Kara"
+date "Nov  1, 2009"
+description "I really dont know what this is :)"
+difficulty 1.75
+height 15
+id 7047
+link "https://webpbn.com/play.cgi?id=7047"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "What is this?"
+width 15
+
+rows
+4,1
+13
+4,2,1,1
+4,1,3
+4,1,2
+14
+1,1,2,1
+3,2,3,1
+1,5,2,1,2
+1,1,2,3
+1,2,3
+5,2,2
+4,6,2
+4,1,3,2
+7,5
+
+columns
+3,8
+6,4
+6,8
+6,1,5
+2,4,1,1
+2,1,2,1,1
+1,1,1,3
+5,1,1
+2,1,2,2
+1,4,2
+2,3,4
+1,1,3,1,1
+5,2,1
+1,3,7
+3,4,5

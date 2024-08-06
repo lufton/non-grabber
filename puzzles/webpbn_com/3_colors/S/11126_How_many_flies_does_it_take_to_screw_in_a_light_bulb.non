@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Nov 24, 2010"
+description "Just two but I don't know how they got in the light blub."
+difficulty 2.25
+height 20
+id 11126
+link "https://webpbn.com/play.cgi?id=11126"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "How many flies does it take to screw in a light bulb?"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+red 4
+red 2 red 2
+red 1 red 1
+red 2 red 2
+red 1 red 1
+red 2 red 2
+red 1 red 1
+red 1 black 1 red 1
+red 1 red 1
+red 2 red 2
+red 1 red 1
+red 2 black 1 red 2
+red 2 red 2
+red 4
+black 4
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2
+
+columns
+red 5
+red 3 red 3
+red 3 red 2
+red 2 black 1 red 2 black 4
+red 2 red 1 black 1 black 1
+red 2 red 1 black 1 black 1
+red 2 red 2 black 4
+red 3 black 1 red 2
+red 3 red 3
+red 5

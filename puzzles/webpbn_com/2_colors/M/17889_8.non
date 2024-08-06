@@ -1,0 +1,57 @@
+by "Marie-Louise Ambrey (marz71)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Marie-Louise Ambrey"
+date "Mar 16, 2012"
+description "I wanted to see how many faces I could fit into a 20x20 grid :)"
+difficulty 3.75
+height 20
+id 17889
+link "https://webpbn.com/play.cgi?id=17889"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "8"
+width 20
+
+rows
+3
+1,1,1,1,1,3
+5,1,1,1,1,1,1
+1,1,1,2,1,1
+1,1,1,2,3,2
+1,1,1,3,3
+1,3,7,1,1
+1,1,1,6
+3,1,1,1,1,1
+1,2,1,1,1
+1,1,2,1
+3,1,1,1,3,1
+8,1,1,1
+1,2,3,3,3
+1,1,1,1,1,1,1
+1,2,1,1,1,1,1,1
+1,2,2,1,1
+1,1,1,3,1,1,2
+3,1,1,1
+3,3
+
+columns
+3,3
+3,1,1,1,1
+1,1,1,1,2,1,1,1
+2,1,1,2,1,1
+1,1,1,3,1,1,1
+3,1,3,1
+3,1,5
+3,1,1,1,3
+1,2,1,1,1,1
+1,1,1,2,3,1,1,1
+1,1,1,3,1,1,1
+1,1,1,1,3,1,1,1,1
+1,2,1,1,1,1
+4,1,1,1,1,3
+3,1,1,1
+1,2,1,1,1,3
+1,1,1,2,1,1,1
+1,1,1,3,1,1,1
+1,1,1,1,2,1,1
+1,1,1,1,1,1

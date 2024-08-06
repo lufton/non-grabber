@@ -1,0 +1,70 @@
+by "myamollytaz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/25/08"
+height 20
+id 57405
+link "https://www.griddlers.net/nonogram/-/g/57405"
+medium_time "0:06:15"
+points 2883
+popularity 63.48
+title "Silly Fish"
+width 25
+
+color a ffffff
+color b 99ffff
+color c cc00cc
+color d ff0000
+color e 00d700
+color f ffff33
+color g ff9900
+color h ff00ff
+
+rows
+g 5
+f 1 g 6
+f 2 g 5
+f 4 g 5 b 1
+f 5 g 6 b 2
+f 6 g 6 b 2
+f 5 g 8 b 3
+f 1 g 13 h 1 b 3
+f 1 g 3 d 3 g 8 h 2 b 3
+f 1 g 3 d 1 d 1 g 7 g 1 h 2 b 3
+e 1 g 4 d 1 c 2 d 1 g 10 h 2 b 3
+g 5 d 1 c 2 d 1 g 10 h 4
+e 1 g 5 d 3 g 11 h 2 b 3
+e 1 g 13 e 3 g 1 h 2 b 3
+e 16 h 2 b 3
+e 12 h 1 b 3
+e 9 b 3
+e 7 b 2
+e 5 b 2
+e 5 b 1
+
+columns
+e 1 g 1 e 1
+f 1 g 3 e 1
+f 1 g 5 e 1
+f 1 g 6 e 1
+f 1 g 7 e 2
+f 2 g 2 d 3 g 2 e 2
+f 3 g 1 d 1 c 2 d 1 g 1 e 3
+f 3 g 1 d 1 c 2 d 1 g 1 e 4
+f 4 g 1 d 1 d 1 g 1 e 4
+f 3 g 3 d 3 g 2 e 5
+f 4 g 8 e 6
+f 3 g 10 e 6
+g 13 e 6
+g 14 e 6
+g 14 e 3 e 1
+g 13 e 3
+g 13 e 2
+g 2 g 3 e 2
+g 3
+g 5
+h 7
+h 9
+b 5 h 1 b 5
+b 7 h 1 b 7
+b 8 b 8

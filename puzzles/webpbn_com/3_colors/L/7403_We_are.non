@@ -1,0 +1,81 @@
+by "Bill Dev (billdev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Bill Dev"
+date "Dec 19, 2009"
+description "Logo of The Pennsylvania State University, the Nittany Lion."
+difficulty 2.25
+height 25
+id 7403
+link "https://webpbn.com/play.cgi?id=7403"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "We are!"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 4 blue 19 black 4
+black 3 blue 5 blue 16 black 3
+black 2 blue 4 blue 2 blue 17 black 2
+black 2 blue 4 blue 2 blue 1 blue 14 black 2
+black 2 blue 4 blue 3 blue 3 blue 10 black 2
+black 2 blue 3 blue 2 blue 2 blue 7 black 2
+black 1 blue 3 blue 3 blue 2 blue 8 blue 7 black 1
+black 1 blue 3 blue 2 blue 2 blue 7 blue 3 blue 6 black 1
+blue 3 blue 2 blue 8 blue 4 blue 6
+blue 3 blue 3 blue 8 blue 4 blue 5
+blue 2 blue 3 blue 8 blue 3 blue 4 blue 4
+blue 2 blue 4 blue 15 blue 3 blue 3
+blue 2 blue 21 blue 3 blue 2
+blue 2 blue 23 blue 2 blue 3
+blue 2 blue 23 blue 1 blue 3
+blue 2 blue 23 blue 5
+blue 3 blue 21 blue 1 blue 4
+black 1 blue 2 blue 20 blue 1 blue 3 black 1
+black 1 blue 2 blue 3 blue 14 blue 2 blue 3 black 1
+black 2 blue 1 blue 4 blue 7 blue 3 blue 3 black 2
+black 2 blue 2 blue 4 blue 2 blue 2 blue 3 black 2
+black 2 blue 1 blue 5 blue 7 blue 3 black 2
+black 2 blue 1 blue 5 blue 11 blue 3 black 2
+black 3 blue 20 black 3
+black 4 blue 17 black 4
+
+columns
+black 4 blue 9 black 4
+black 3 blue 13 black 3
+black 2 blue 6 blue 5 black 2
+black 2 blue 5 blue 2 black 2
+black 2 blue 4 blue 5 blue 1 black 2
+black 2 blue 3 blue 11 black 2
+black 1 blue 3 blue 15 black 1
+black 1 blue 2 blue 18 black 1
+blue 2 blue 4 blue 6 blue 4
+blue 5 blue 1 blue 8 blue 4
+blue 3 blue 2 blue 9 blue 4
+blue 1 blue 3 blue 10 blue 4
+blue 1 blue 3 blue 11 blue 3
+blue 2 blue 1 blue 12 blue 2
+blue 3 blue 13 blue 2
+blue 3 blue 14 blue 2
+blue 3 blue 13 blue 3
+blue 3 blue 14 blue 3
+blue 4 blue 4 blue 9 blue 4
+blue 4 blue 3 blue 8 blue 4
+blue 4 blue 3 blue 9 blue 5
+blue 4 blue 2 blue 9 blue 5
+blue 4 blue 1 blue 9 blue 4
+blue 5 blue 2 blue 7 blue 4
+blue 5 blue 3 blue 6 blue 4
+blue 5 blue 3 blue 4 blue 1 blue 3
+blue 6 blue 3 blue 3 blue 1 blue 3
+black 1 blue 6 blue 3 blue 2 blue 1 black 1
+black 1 blue 7 blue 3 blue 2 blue 2 black 1
+black 2 blue 7 blue 5 blue 1 blue 2 black 2
+black 2 blue 8 blue 3 blue 1 blue 4 black 2
+black 2 blue 8 blue 1 blue 7 black 2
+black 2 blue 8 blue 8 black 2
+black 3 blue 13 black 3
+black 4 blue 9 black 4

@@ -1,0 +1,62 @@
+by "errysh"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/13/12"
+height 20
+id 128876
+link "https://www.griddlers.net/nonogram/-/g/128876"
+medium_time "0:08:01"
+points 2343
+popularity 79.53
+title "Mouse"
+width 20
+
+color a ffffff
+color b 000000
+color c 666666
+color d 383838
+color e d476a2
+
+rows
+e 2
+e 1
+c 5 e 2
+c 7 e 1
+c 9 e 1
+c 10 e 2
+d 1 c 10 e 1
+c 11 d 1
+e 2 c 12 d 1
+e 3 c 3 e 2 c 4 d 1 c 3 d 1
+e 1 d 1 c 2 e 3 d 1 c 3 d 4
+d 1 c 4 d 2 c 5 d 2 e 1
+b 1 c 2 b 1 c 3 d 1 c 4 d 1 e 2
+c 1 b 1 c 1 d 1 b 1 c 3 d 1 c 4 d 1 e 1
+c 7 d 2 c 4
+c 7 d 2 c 4
+c 6 d 4 c 2
+e 2 c 1 d 2 d 1 c 1
+e 2 c 2
+e 2
+
+columns
+e 2 c 4 e 1
+e 3 d 1 b 2 c 3 e 1
+e 1 d 1 c 7
+c 4 d 1 c 3
+c 4 b 2 c 3 e 1
+c 3 e 1 c 6 d 1 e 1
+c 1 d 1 c 2 e 2 d 1 c 4 d 2
+c 5 e 2 d 1 c 2 d 3
+c 7 d 1 c 1 d 5 e 1
+c 14 d 2 c 1 e 1
+c 17
+c 15
+c 7 d 2 c 5
+c 8 d 4
+c 7 d 2 e 2
+c 6 d 1 e 2
+e 1 c 1 d 3
+e 5
+e 3
+e 1

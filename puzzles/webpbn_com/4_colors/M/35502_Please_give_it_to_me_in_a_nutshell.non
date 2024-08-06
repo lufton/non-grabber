@@ -1,0 +1,67 @@
+by "gregg licht (lgreg)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by gregg licht"
+date "Dec 30, 2021"
+description "The preferred wrapping for squirrel presents might be a nutshell? (The bow design is borrowed from Belita # 35455...thanks!)"
+difficulty 2.5
+height 20
+id 35502
+link "https://webpbn.com/play.cgi?id=35502"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Please give it to me in a nutshell"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 2 black 1 black 3
+black 2 black 5 black 3 black 3
+black 5 black 3 black 4 black 4
+black 4 black 4 black 2 black 1
+black 2 black 7 black 2
+black 2 black 2 black 2 black 1
+black 2 black 2 black 1 black 1
+black 3 black 2 black 2
+black 3 green 7 black 1 black 2 black 2
+black 4 green 6 black 1 black 4
+black 5 green 4 black 2 black 3
+black 6 green 3 black 1
+black 3 green 2 black 2 green 2 black 4 black 1
+black 1 green 1 red 2 green 2 red 2 green 1 black 4 black 2
+black 1 green 2 red 4 green 2 black 1 black 1 black 2 black 2
+green 3 black 1 red 2 black 1 green 2 black 5 black 3
+green 2 black 1 red 2 black 1 green 2 black 1 black 4 green 1 black 1 black 1
+green 1 black 3 red 2 black 3 green 2 black 4 green 2 black 3 black 3
+green 2 black 1 red 2 black 1 green 8 black 2 black 2 green 2
+green 3 black 1 red 2 black 1 green 8 black 2 black 3 green 3
+
+columns
+black 15 green 5
+black 13 green 4 black 1 green 2
+black 2 black 6 red 1 green 2 black 3 green 1
+black 3 green 1 black 3 green 1 red 2 black 1 black 1 black 1
+black 3 green 2 black 2 green 2 red 6
+black 1 green 3 black 2 green 1 red 6
+black 1 green 4 black 1 red 2 black 1 black 1 black 1
+black 2 green 5 red 1 green 2 black 3 green 1
+black 1 green 9 black 1 green 2
+black 1 green 2 black 6 green 4
+black 4 black 2 black 2 green 3
+black 2 black 4 black 1 green 2
+black 2 black 2 black 1 black 1 green 2
+black 4 black 2 black 1 green 2
+black 5 black 1 black 2 green 2
+black 5 black 2 black 1 green 2 black 1
+black 5 black 3 black 1 green 1 black 2
+black 1 black 3 black 4
+black 4 black 1 black 1 green 1 black 1
+black 6 black 4 black 1
+black 2 black 2 black 1
+black 4 black 2 black 2
+black 4 black 2 green 1
+black 2 black 1 green 2
+black 1 black 2 green 2

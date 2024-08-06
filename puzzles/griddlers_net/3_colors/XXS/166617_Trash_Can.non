@@ -1,0 +1,30 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166617
+link "https://www.griddlers.net/nonogram/-/g/166617"
+medium_time "0:00:11"
+points 12
+popularity 55.97
+title "Trash Can"
+width 5
+
+color a ffffff
+color b 999999
+color c 333333
+
+rows
+c 3
+b 5
+b 1 c 1 b 1
+b 1 c 1 b 1
+b 1 c 1 b 1
+
+columns
+b 1
+c 1 b 4
+c 1 b 1 c 3
+c 1 b 4
+b 1

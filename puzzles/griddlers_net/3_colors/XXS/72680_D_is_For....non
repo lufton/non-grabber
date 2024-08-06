@@ -1,0 +1,30 @@
+by "MomWiz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/2/08"
+height 5
+id 72680
+link "https://www.griddlers.net/nonogram/-/g/72680"
+medium_time "0:00:20"
+points 14
+popularity 37.26
+title "D is For..."
+width 5
+
+color a ffffff
+color b 000000
+color c 999900
+
+rows
+b 2 c 1 c 1
+b 1 b 1 c 1
+b 1 b 1 c 1
+b 1 c 3
+b 2 c 1 c 1
+
+columns
+b 5
+b 1 b 1
+c 1 b 2 c 2
+c 3
+c 1 c 2

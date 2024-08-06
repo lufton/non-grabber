@@ -1,0 +1,30 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/15"
+height 5
+id 166608
+link "https://www.griddlers.net/nonogram/-/g/166608"
+medium_time "0:00:13"
+points 28
+popularity 54.97
+title "Clock"
+width 5
+
+color a ffffff
+color b cc3300
+color c 000000
+
+rows
+b 3
+b 1 c 1 b 1
+b 1 c 2 b 1
+b 1 b 1
+b 5
+
+columns
+b 4
+b 1 c 1 b 1
+b 1 c 2 b 1
+b 1 b 1
+b 4

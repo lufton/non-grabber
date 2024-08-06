@@ -1,0 +1,62 @@
+by "N. Franklin (kaytris)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by N. Franklin"
+date "Jun 26, 2016"
+description "A little doodle of my dog, an icelandic sheepdog "Rif""
+difficulty 1.5
+height 20
+id 28239
+link "https://webpbn.com/play.cgi?id=28239"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Fjarhund"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 red 1
+blue 5 red 1
+blue 5 red 1
+blue 5 red 1
+blue 5 red 1
+red 13 black 1 red 6
+blue 5 red 1 blue 6 black 3 blue 5
+blue 4 black 3 blue 4 black 1 black 3 blue 4
+black 2 black 1 blue 2 black 1 black 3
+black 1 black 1 black 2 black 1
+black 1 black 1
+black 2 black 1
+black 4 black 1
+black 3 black 5
+black 3 black 2
+black 1 black 2
+black 2 black 3
+0
+0
+0
+
+columns
+blue 5 red 1 blue 2
+blue 5 red 1 blue 2
+blue 5 red 1 blue 2
+blue 5 red 1 blue 2
+blue 5 red 1 blue 1 black 5 black 2
+red 7 black 2 black 6
+red 1 blue 1 black 1 black 1 black 3 black 1
+red 1 blue 2 black 1 black 1
+red 1 blue 3 black 1 black 2
+red 1 blue 3 black 1 black 1
+red 1 blue 2 black 1 black 1
+red 1 blue 1 black 1 black 4
+red 1 black 1 black 4
+black 8 black 1
+red 1 black 3
+red 1 blue 1 black 2
+red 1 blue 2
+red 1 blue 2
+red 1 blue 2
+red 1 blue 2

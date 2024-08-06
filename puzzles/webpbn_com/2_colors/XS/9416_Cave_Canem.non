@@ -1,0 +1,37 @@
+by "ant (agrest272)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by ant"
+date "Jul  6, 2010"
+description "Cave Canem, latin for 'Beware of dog'. This one doesn't look too threatening though. Easy solve but I liked the way the image turned out."
+difficulty 1.5
+height 10
+id 9416
+link "https://webpbn.com/play.cgi?id=9416"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Cave Canem"
+width 10
+
+rows
+0
+0
+2,2
+1,1,1
+1,1,1,2
+1
+1
+0
+1,1,1
+1,1,1
+
+columns
+0
+3
+2
+0
+3
+1,2
+1
+2
+1,1,1
+3

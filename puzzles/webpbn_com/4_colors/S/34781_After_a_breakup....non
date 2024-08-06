@@ -1,0 +1,52 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Scarlet Noelle Masen"
+date "Jan  3, 2021"
+description "Broken Heart"
+difficulty 2.0
+height 15
+id 34781
+link "https://webpbn.com/play.cgi?id=34781"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "After a breakup..."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2 red 2
+red 4 red 4
+red 2 blue 3 red 1 black 1 red 2 blue 2 red 2
+red 2 blue 1 blue 2 black 1 red 1 blue 1 red 2
+red 1 blue 1 blue 2 black 1 red 2 blue 1 red 1
+red 1 blue 1 red 3 black 1 red 2 blue 2 red 1
+red 2 red 1 black 1 red 1 black 1 red 3 red 2
+red 6 black 1 red 1 black 1 red 1 blue 1 red 1
+red 2 red 3 black 1 red 1 blue 1 red 2
+red 2 black 1 red 2 black 1 red 4
+red 2 black 1 red 1 black 1 red 1 black 1 red 1
+red 2 black 1 red 1 black 1 red 1
+red 2 black 1 red 2
+red 1 black 1 red 1
+black 1
+
+columns
+red 4
+red 2 blue 1 red 3
+red 2 blue 1 red 3
+red 2 blue 1 blue 2 red 1 red 2
+red 2 blue 1 blue 1 red 1 red 2
+red 1 blue 2 red 4 black 1 red 2
+red 1 blue 1 red 1 black 1 red 3 black 1 red 2
+black 3 red 2 black 1 red 3 black 4
+red 3 black 2 red 1 black 3 red 3
+red 2 blue 1 red 3 black 1 red 3 black 1 red 1
+red 2 blue 1 red 3 red 1 black 1 red 1
+red 2 blue 1 blue 2 red 1 blue 1 red 2
+red 2 blue 1 blue 1 red 2
+red 2 red 3
+red 4

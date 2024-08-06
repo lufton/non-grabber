@@ -1,0 +1,50 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/30/20"
+height 17
+id 207706
+link "https://www.griddlers.net/nonogram/-/g/207706"
+medium_time "0:01:09"
+points 126
+popularity 73.42
+title "Jiminy Cricket"
+width 8
+
+color a ffffff
+color b 000000
+color c 990000
+color d ff0000
+color e 99ff33
+color f ffff33
+color g 009900
+color h 9900cc
+
+rows
+h 4
+h 4
+h 4
+c 4
+h 8
+e 4
+e 1 b 1 e 2 b 1 e 1
+e 4
+e 2
+b 1 d 2 b 1
+b 2 f 2 b 2
+b 2 d 2 b 2
+b 2 d 2 b 2
+e 1 b 1 g 2 b 1 e 1
+g 4
+g 4
+c 4
+
+columns
+h 1
+h 1 e 1 b 3 e 1
+h 3 c 1 h 1 e 1 b 1 e 1 b 5 g 2 c 1
+h 3 c 1 h 1 e 4 d 1 f 1 d 2 g 3 c 1
+h 3 c 1 h 1 e 4 d 1 f 1 d 2 g 3 c 1
+h 3 c 1 h 1 e 1 b 1 e 1 b 5 g 2 c 1
+h 1 e 1 b 3 e 1
+h 1

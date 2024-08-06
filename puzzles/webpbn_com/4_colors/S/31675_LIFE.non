@@ -1,0 +1,53 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Jill Tallmer"
+date "Oct 11, 2018"
+description "green light; boogie on down the road; then red. that's it."
+difficulty 1.5
+height 11
+id 31675
+link "https://webpbn.com/play.cgi?id=31675"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "LIFE"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 1 black 2 black 2
+black 2 black 1 black 1
+black 1 black 2 black 2
+black 1 black 1 black 1
+black 1 green 1 black 2 black 2 red 1
+0
+black 4 black 4 black 4
+black 5 black 5 black 5
+black 1 black 1 black 1 black 1 black 1 black 1
+0
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+
+columns
+black 2
+black 1 black 3 black 1
+black 5 black 2
+black 3 black 1
+black 1
+green 1 black 1
+0
+black 1
+black 2
+black 1 black 3 black 3 black 1
+black 3 black 1 black 2
+black 3 black 1
+black 1
+black 1
+0
+black 2 black 1
+black 1 black 1 black 1 black 3
+black 5 black 2 black 1
+black 3
+red 1 black 1 black 1

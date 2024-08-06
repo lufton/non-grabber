@@ -1,0 +1,102 @@
+by "Blue Paint (BluePaint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Blue Paint"
+date "Dec  1, 2009"
+description "...is the loneliest number!"
+difficulty 3.25
+height 40
+id 7283
+link "https://webpbn.com/play.cgi?id=7283"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "WC #48: One..."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 21 black 17
+black 20 black 4 black 5 black 8
+black 21 black 5 black 2 black 8
+black 10 black 8 black 1 black 1 black 1 black 1 black 7
+black 8 black 3 black 2 black 2 black 1 black 1 black 1 black 1 black 1
+black 8 black 7 black 11
+black 6 black 2 black 3 black 13
+black 7 black 2 black 4 black 6 red 5 black 1
+black 6 black 1 black 2 black 2 black 9 red 7 black 1
+black 6 black 4 black 2 blue 1 black 1 black 6 red 1 red 4 black 1
+black 6 black 1 black 2 blue 3 black 1 black 3 red 1 red 6 black 1
+black 6 black 1 black 3 blue 5 black 1 black 1 red 1 red 7 black 1
+black 6 black 1 black 1 blue 7 black 1 black 1 red 2 red 8 black 1
+black 6 black 1 black 1 blue 7 black 1 black 1 red 2 red 3 black 1 red 1 red 3 black 1
+black 6 black 1 black 1 blue 7 black 1 red 3 red 3 black 2 red 1 red 3 black 1
+black 7 black 1 black 1 blue 7 black 1 black 1 red 5 black 2 red 1 red 3 black 1
+black 7 black 1 black 1 blue 6 black 1 black 3 red 2 black 1 red 1 red 3 black 1
+black 8 black 1 black 1 blue 4 black 2 black 2 black 2 red 1 red 3 black 1
+black 3 black 3 black 1 blue 2 black 2 black 1 red 1 red 3 black 1
+black 1 black 5 black 3 black 2 black 3 red 1 red 3 black 1
+black 5 black 2 black 6 red 1 red 3 black 1
+black 1 black 6 black 2 black 1 black 1 black 2 red 1 red 4 black 1
+black 1 black 1 black 2 black 1 black 4 red 1 red 3 black 1
+black 2 black 2 black 2 black 1 black 4 red 1 red 4 black 2
+black 3 black 3 black 2 black 3 black 4 black 14
+black 4 black 1 black 1 black 5 black 17
+black 5 black 1 red 4 black 2 black 20
+black 6 black 1 red 3 black 1 red 2 black 2 black 18
+black 7 black 3 black 2 red 1 black 18
+black 8 black 2 black 1 red 2 black 19
+black 9 black 4 black 2 black 18
+black 11 black 4 black 18
+black 10 black 5 black 19
+black 10 black 9 black 19
+black 10 black 9 black 19
+black 10 black 9 black 19
+black 10 black 8 black 20
+black 10 black 8 black 20
+black 10 black 8 black 20
+black 10 black 8 black 20
+
+columns
+black 20 black 18
+black 19 black 17
+black 19 black 16
+black 18 black 15
+black 18 black 14
+black 18 black 1 black 13
+black 6 black 1 black 3 black 5 black 12
+black 6 black 1 black 4 black 2 black 11
+black 4 black 4 black 1 black 10
+black 4 black 12 black 1 black 9
+black 3 black 1 black 2 black 2 black 1
+black 3 black 1 black 9 black 1 black 1 black 1 black 1 black 7
+black 3 black 1 black 1 blue 7 black 1 black 1 black 1 red 2 black 1 black 1 black 7
+black 3 black 1 black 1 blue 7 black 1 black 1 black 1 red 2 black 1 black 1 black 7
+black 3 black 1 black 1 blue 7 black 1 black 1 red 2 black 1 black 1 black 7
+black 4 black 1 black 1 blue 7 black 1 black 1 black 2 red 1 black 1 black 1 black 8
+black 4 black 1 black 1 blue 7 black 1 black 1 black 3 red 1 black 2 black 8
+black 4 black 1 black 1 blue 7 black 1 black 1 black 1 black 3 red 1 black 1 black 9
+black 5 black 1 black 1 blue 7 black 1 black 1 black 2 black 3 red 1 black 1 black 9
+black 5 black 1 black 8 black 1 black 1 black 2 black 1 red 1 black 6
+black 1 black 4 black 1 black 6 red 1 black 2 black 4
+black 1 black 1 black 9 red 1 black 2 black 1 black 2 black 1 black 1 black 8
+black 1 black 1 black 6 red 2 black 1 black 5 black 14
+black 3 black 7 red 2 black 1 black 2 black 2 black 15
+black 6 black 3 red 1 red 2 black 1 black 4 black 15
+black 1 black 1 black 2 black 2 red 1 red 2 black 1 black 2 black 1 black 16
+black 10 red 1 red 2 black 1 black 2 black 16
+black 3 black 1 black 3 red 1 red 1 black 1 black 1 black 16
+black 2 black 1 black 3 red 1 red 2 black 1 black 16
+black 3 black 4 red 1 red 2 black 1 red 1 black 16
+black 8 red 2 red 3 black 1 red 2 black 16
+black 1 black 3 red 1 red 3 black 1 red 4 red 1 black 16
+black 3 black 2 red 2 red 7 red 3 black 16
+black 7 red 6 red 7 black 16
+black 4 black 2 red 17 black 16
+black 7 red 15 black 18
+black 4 black 2 red 10 black 5 black 17
+black 17 black 16
+black 4 black 1 black 16
+black 6 black 15

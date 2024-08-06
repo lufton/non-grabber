@@ -1,0 +1,62 @@
+by "Alan Lafond (Cural)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Alan Lafond"
+date "Dec 10, 2022"
+description "Nothing but my eyes."
+difficulty 1.0
+height 20
+id 36206
+link "https://webpbn.com/play.cgi?id=36206"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Look into my eyes..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+blue 20
+blue 2 black 16 blue 2
+blue 2 black 16 blue 2
+blue 2 black 16 blue 2
+blue 2 black 4 blue 2
+blue 2 black 4 blue 2
+blue 2 black 2 black 2 blue 2
+blue 2 black 2 black 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 2 black 8 blue 2
+blue 2 black 8 blue 2
+blue 2 black 8 blue 2
+blue 2 black 2 red 4 black 2 blue 2
+blue 2 black 2 red 4 black 2 blue 2
+blue 20
+blue 20
+blue 20
+
+columns
+blue 20
+blue 20
+blue 3 black 3 blue 3
+blue 3 black 3 blue 3
+blue 3 black 3 black 2 blue 3
+blue 3 black 3 black 2 blue 3
+blue 3 black 3 black 5 blue 3
+blue 3 black 3 black 5 blue 3
+blue 3 black 5 black 3 red 2 blue 3
+blue 3 black 5 black 3 red 2 blue 3
+blue 3 black 5 black 3 red 2 blue 3
+blue 3 black 5 black 3 red 2 blue 3
+blue 3 black 3 black 5 blue 3
+blue 3 black 3 black 5 blue 3
+blue 3 black 3 black 2 blue 3
+blue 3 black 3 black 2 blue 3
+blue 3 black 3 blue 3
+blue 3 black 3 blue 3
+blue 20
+blue 20

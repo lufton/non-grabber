@@ -1,0 +1,62 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Oct  5, 2010"
+description "London Fog. I hope this fits the category better than my first submission."
+difficulty 1.25
+height 20
+id 10575
+link "https://webpbn.com/play.cgi?id=10575"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP #69 - What a view"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+black 20
+red 9 blue 2 blue 2
+red 3 black 3 red 3 black 1 blue 5 blue 2
+red 2 black 5 red 2 black 1 blue 5 blue 2
+black 5 black 2 blue 2
+black 5 black 2 blue 2
+black 3 black 2
+
+columns
+black 14 red 3
+black 14 red 3
+black 14 red 2 black 3
+black 14 red 1 black 5
+black 14 red 1 black 5
+black 14 red 1 black 5
+black 14 red 2 black 3
+black 14 red 3
+black 14 red 3
+black 14
+black 14
+black 14 black 4
+black 14 blue 2 black 2
+black 14 blue 2
+black 14 blue 2
+black 14 blue 3
+black 14 blue 3
+black 14
+black 14 blue 5 black 1
+black 14 blue 5 black 1

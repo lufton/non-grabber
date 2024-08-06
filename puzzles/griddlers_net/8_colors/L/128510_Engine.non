@@ -1,0 +1,85 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/1/12"
+height 28
+id 128510
+link "https://www.griddlers.net/nonogram/-/g/128510"
+medium_time "0:18:30"
+points 20941
+popularity 87.28
+title "Engine"
+width 32
+
+color a ffffff
+color b b6b6b6
+color c 000000
+color d 006721
+color e 00b93d
+color f b70000
+color g ff9999
+color h f50000
+
+rows
+0
+b 1 b 4 b 9
+b 4 b 19
+b 1 b 7 b 5
+b 3
+b 3
+c 8
+c 16 c 1 d 3 e 2 d 1 c 1
+c 1 e 14 c 1 c 1 d 4 c 1
+c 16 c 3 c 4
+c 1 d 10 c 1 c 1 f 1 c 1 c 1 f 2 c 1
+c 1 d 1 c 3 d 1 c 4 d 1 c 14
+c 1 e 1 c 1 b 1 c 1 e 1 c 1 b 1 c 1 e 1 c 1 f 11 c 2
+c 1 e 1 c 1 c 1 e 1 c 1 c 1 e 1 c 1 f 11 c 1 f 1 c 1
+c 1 e 1 c 3 e 1 c 1 b 1 c 1 e 1 c 1 g 11 c 1 g 1 c 1
+c 1 e 5 c 1 b 2 c 1 e 1 c 1 g 11 c 1 g 2 c 1
+c 1 e 5 c 4 e 1 c 1 h 11 c 1 h 2 c 1
+c 1 e 10 c 1 h 11 c 1 h 1 c 1
+c 1 e 10 c 1 f 11 c 1 f 1 c 1
+c 12 f 11 c 2
+c 1 d 10 c 1 f 11 c 2
+c 1 d 3 c 3 d 4 c 13
+c 1 d 2 c 1 f 3 c 1 d 16 c 2
+c 1 c 2 d 1 c 1 f 2 f 2 c 1 d 13 c 4
+c 4 d 2 c 1 f 5 c 1 d 2 c 12 f 1 c 1 d 1 c 1
+c 1 c 4 f 5 c 4 f 3 c 3 f 3 c 4 d 1 c 1
+c 1 f 3 c 1 c 1 f 3 c 1 c 1 f 3 c 1 c 1 d 2 c 1
+c 3 c 3 c 3 c 3
+
+columns
+b 1 c 3
+b 1 c 3 c 1
+b 2 c 1 e 1 c 1 c 1
+b 1 c 1 e 1 c 1 c 3
+c 1 e 1 c 15 d 1 c 1
+b 2 c 1 e 1 c 1 d 2 e 7 c 1 d 5 c 1
+b 2 c 1 e 1 c 1 d 1 c 4 e 4 c 1 d 3 c 3
+b 3 c 1 e 1 c 1 d 1 c 1 b 1 c 1 e 4 c 1 d 2 c 1 f 3 c 1
+b 2 c 1 e 1 c 1 d 1 c 4 e 4 c 1 d 1 c 1 f 5 c 1
+b 2 c 1 e 1 c 1 d 2 e 7 c 1 d 1 c 1 f 1 f 3 c 1
+b 2 c 1 e 1 c 1 d 1 c 6 e 2 c 1 d 1 c 1 f 5 c 1
+b 2 c 1 e 1 c 1 d 1 c 1 b 2 c 1 e 2 c 1 d 2 c 1 f 3 c 1
+b 2 c 1 e 1 c 1 d 1 c 1 b 1 b 1 c 1 e 2 c 1 d 3 c 3
+b 2 c 1 e 1 c 1 d 1 c 6 e 2 c 1 d 5 c 1
+b 3 c 1 e 1 c 1 d 2 e 7 c 1 d 5 c 1
+b 3 c 1 e 1 c 13 d 2 c 3
+b 2 c 3 c 1 f 2 g 2 h 2 f 3 c 1 d 2 c 1 f 2 c 1
+b 2 c 1 f 2 g 2 h 2 f 3 c 1 d 2 c 1 f 2 c 1
+b 2 c 3 f 2 g 2 h 2 f 3 c 1 d 2 c 1 f 2 c 1
+b 2 c 1 f 1 c 1 f 2 g 2 h 2 f 3 c 1 d 2 c 3
+b 3 c 3 f 2 g 2 h 2 f 3 c 1 d 2 c 2
+b 3 c 2 c 1 f 2 g 2 h 2 f 3 c 1 d 2 c 3
+b 4 c 1 d 1 c 1 c 1 f 2 g 2 h 2 f 3 c 1 d 2 c 1 f 2 c 1
+b 4 c 1 d 2 c 3 f 2 g 2 h 2 f 3 c 1 d 2 c 1 f 2 c 1
+b 3 c 1 d 2 c 1 f 1 c 1 f 2 g 2 h 2 f 3 c 1 d 2 c 1 f 2 c 1
+b 1 c 1 e 1 d 1 c 1 f 1 c 1 f 2 g 2 h 2 f 3 c 1 d 2 c 3
+c 1 e 1 d 1 c 3 f 2 g 2 h 2 f 3 c 1 d 1 c 3
+c 1 d 1 c 1 c 11 d 1 c 1 f 1 c 1
+c 2 c 2 f 1 g 2 h 2 f 1 c 2 c 5
+c 2 g 1 h 1 c 2 c 2 d 3 c 1
+c 2 c 2 d 1 c 1
+c 2

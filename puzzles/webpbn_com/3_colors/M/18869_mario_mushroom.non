@@ -1,0 +1,53 @@
+by "maxime degrace (maxmax229)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by maxime degrace"
+date "Jun  3, 2012"
+description ""
+difficulty 1.5
+height 16
+id 18869
+link "https://webpbn.com/play.cgi?id=18869"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "mario mushroom"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 6
+black 3 red 1 red 1 black 3
+black 2 red 3 red 3 black 2
+black 2 red 2 red 2 black 2
+black 1 black 1
+black 2 red 2 red 4 red 2 black 2
+black 1 red 3 red 6 red 3 black 1
+black 1 red 3 red 6 red 3 black 1
+black 1 red 2 red 6 red 2 black 1
+black 1 red 4 black 1
+black 1 black 10 black 1
+black 4 black 1 black 1 black 4
+black 2 black 1 black 1 black 2
+black 1 black 1
+black 2 black 2
+black 10
+
+columns
+black 7
+black 3 red 3 black 2
+black 2 red 4 black 4
+black 2 red 3 black 2 black 2
+black 1 red 2 black 1 black 1
+black 2 red 2 red 3 black 1 black 1
+black 1 red 2 red 5 black 3 black 1
+black 1 red 5 black 1 black 1
+black 1 red 5 black 1 black 1
+black 1 red 2 red 5 black 3 black 1
+black 2 red 2 red 3 black 1 black 1
+black 1 red 2 black 1 black 1
+black 2 red 3 black 2 black 2
+black 2 red 4 black 4
+black 3 red 3 black 2
+black 7

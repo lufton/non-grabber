@@ -1,0 +1,31 @@
+by "Kristen Maria (coco4484)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Kristen Maria"
+date "Dec 15, 2010"
+description ""
+difficulty 1.0
+height 5
+id 11417
+link "https://webpbn.com/play.cgi?id=11417"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Heart Quilt"
+width 5
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 blue 1 black 2
+black 5
+blue 1 black 3 blue 1
+blue 1 black 1 blue 1
+blue 1 blue 1 blue 1
+
+columns
+black 2 blue 1 blue 1
+black 3 blue 1
+blue 1 black 3 blue 1
+black 3 blue 1
+black 2 blue 1 blue 1

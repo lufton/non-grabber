@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Jan 23, 2022"
+description "A mole. This one is digging up the lawn at Avogadro's place."
+difficulty 1.75
+height 20
+id 35554
+link "https://webpbn.com/play.cgi?id=35554"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Animal term #10"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 2 black 3 black 2
+black 2 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 4 black 1 black 1 black 2
+black 2 black 1 black 1 black 1 black 1
+black 2 black 1 black 3 black 3
+0
+0
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 2 black 2
+black 1 black 1 black 1
+black 2 black 2 black 2
+0
+0
+black 7
+black 9 green 2
+green 1 black 8 green 3
+green 3 black 6 black 1 green 4
+green 4 black 10 green 5
+
+columns
+green 3
+green 2
+black 4 green 2
+black 2 black 3 green 1
+black 1 black 1 black 1
+black 2 black 1
+black 5 black 3
+black 1 black 1 black 1 black 1 black 4
+black 4
+black 6 black 5
+black 1 black 1 black 5
+black 6 black 1 black 3 black 5
+black 3 black 1 black 3 black 1
+black 1 black 3 black 3 black 1
+black 1 black 2 black 1 black 1 black 1 black 1 black 2 black 1
+black 2 black 1 black 5 black 2 black 1 green 1
+green 2
+green 3
+green 4
+green 4

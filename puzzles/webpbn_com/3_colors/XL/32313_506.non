@@ -1,0 +1,86 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Joe"
+date "Apr  4, 2019"
+description "Variant Also Negotiates"
+difficulty 1.75
+height 25
+id 32313
+link "https://webpbn.com/play.cgi?id=32313"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "506"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 red 4
+black 5 red 5
+black 5 red 6
+black 5 red 6
+black 5 red 5
+black 4 red 5
+black 2 red 3
+black 1 red 1
+black 4 black 1 red 1 red 3
+black 5 black 1 red 2 red 1 red 6
+black 7 black 1 red 2 red 1 red 7
+black 8 red 3 red 8
+black 10 red 14
+black 10 red 15
+black 9 red 15
+black 9 red 2 red 16
+black 18 red 21
+black 19 red 6 red 13
+black 16 black 2 red 3 red 13
+black 11 red 13
+black 10 red 13
+black 10 red 12
+black 11 red 12
+black 11 red 12
+black 11 red 12
+
+columns
+black 4 black 1 black 3
+black 17
+black 18
+black 4 black 17
+black 5 black 17
+black 7 black 16
+black 7 black 15
+black 5 black 1 black 14
+black 2 black 13
+black 13
+black 9
+black 3
+black 3
+black 3
+black 3
+black 3
+black 3
+black 2
+red 1 black 3
+red 2 black 2
+red 2
+red 2
+red 3
+red 3
+red 4
+red 5
+red 5 red 1
+red 16
+red 16
+red 4 red 1 red 14
+red 7 red 2 red 13
+red 8 red 13
+red 7 red 16
+red 6 red 17
+red 3 red 17
+red 17
+red 16
+red 16
+red 14
+red 10

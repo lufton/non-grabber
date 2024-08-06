@@ -1,0 +1,83 @@
+by "Emily Brown (WallyBobo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Emily Brown"
+date "Jun 19, 2009"
+description "if you try to pull them apart,they will not budge, unless of course they're used on master's of illusion!"
+difficulty 1.5
+height 30
+id 6124
+link "https://webpbn.com/play.cgi?id=6124"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "interlocked"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+blue 10
+blue 1 red 8 blue 1
+blue 1 red 1 blue 6 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+green 8 blue 1 red 1 blue 1 green 15
+green 1 black 7 blue 1 red 1 blue 1 black 14 green 1
+green 1 black 1 green 6 blue 1 red 1 blue 1 green 13 black 1 green 1
+green 1 black 1 green 1 blue 1 red 1 blue 1 blue 1 red 1 blue 1 green 1 black 1 green 1
+green 1 black 1 green 1 blue 1 red 1 blue 1 blue 1 red 1 blue 1 green 1 black 1 green 1
+green 1 black 1 green 1 blue 1 red 1 blue 1 blue 1 red 1 blue 1 green 1 black 1 green 1
+green 1 black 1 green 1 blue 1 red 1 blue 1 blue 1 red 1 blue 1 green 1 black 1 green 1
+green 1 black 1 green 13 blue 1 red 1 blue 1 green 6 black 1 green 1
+green 1 black 14 blue 1 red 1 blue 1 black 7 green 1
+green 15 blue 1 red 1 blue 1 green 8
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 6 red 1 blue 1
+blue 1 red 8 blue 1
+blue 10
+0
+0
+
+columns
+0
+0
+green 10
+green 1 black 8 green 1
+green 1 black 1 green 6 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+blue 15 green 1 black 1 green 1 blue 8
+blue 1 red 14 green 1 black 1 green 1 red 7 blue 1
+blue 1 red 1 blue 13 green 1 black 1 green 1 blue 6 red 1 blue 1
+blue 1 red 1 blue 1 green 1 black 1 green 1 green 1 black 1 green 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 green 1 black 1 green 1 green 1 black 1 green 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 green 1 black 1 green 1 green 1 black 1 green 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 1 green 1 black 1 green 1 green 1 black 1 green 1 blue 1 red 1 blue 1
+blue 1 red 1 blue 6 green 1 black 1 green 1 blue 13 red 1 blue 1
+blue 1 red 7 green 1 black 1 green 1 red 14 blue 1
+blue 8 green 1 black 1 green 1 blue 15
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 1 green 1 black 1 green 1
+green 1 black 1 green 6 black 1 green 1
+green 1 black 8 green 1
+green 10
+0
+0

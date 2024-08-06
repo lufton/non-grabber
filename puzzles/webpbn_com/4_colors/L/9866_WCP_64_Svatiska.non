@@ -1,0 +1,82 @@
+by "Grizix (Grizix)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Grizix"
+date "Aug  3, 2010"
+description "The swastika is an equilateral cross with its arms bent at right angles, in either right-facing form or its mirrored left-facing form. Archaeological evidence of swastika-shaped ornaments dates from the Neolithic period. It occurs today in the modern day culture of India, sometimes as a geometrical motif and sometimes as a religious symbol; it remains widely used in Eastern religions such as Hinduism, Buddhism and Jainism. Despite this usage, the symbol has become stigmatized and to some extent taboo in the Western world because of its iconic usage by Nazi Germany, and it has notably been outlawed in Germany if used as a symbol of Nazism (usage of the sign by religious groups is tolerated). Many modern political extremists and Neo-Nazi groups such as Afrikaner Weerstandsbeweging and Russian National Unity use stylised swastikas or similar symbols. Dixit Wikipedia."
+difficulty 2.75
+height 30
+id 9866
+link "https://webpbn.com/play.cgi?id=9866"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "WCP #64 Svatiska"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 30
+red 30
+red 13 red 13
+red 10 red 10
+red 8 blue 2 red 8
+red 7 blue 1 black 2 blue 1 red 7
+red 6 blue 1 black 4 blue 1 red 6
+red 5 blue 1 black 4 blue 1 red 5
+red 4 blue 1 black 4 blue 1 blue 2 red 4
+red 4 blue 1 black 4 blue 1 blue 1 black 2 blue 1 red 4
+red 3 blue 1 black 4 blue 1 blue 1 black 4 blue 1 red 3
+red 3 blue 1 black 4 blue 1 blue 1 black 6 blue 1 red 3
+red 3 blue 1 blue 1 black 4 blue 1 black 8 blue 1 red 3
+red 2 blue 1 black 1 blue 1 blue 1 black 7 blue 2 black 4 blue 1 red 2
+red 2 blue 1 black 3 blue 1 blue 1 black 5 blue 1 blue 1 black 4 blue 1 red 2
+red 2 blue 1 black 4 blue 1 blue 1 black 5 blue 1 blue 1 black 3 blue 1 red 2
+red 2 blue 1 black 4 blue 2 black 7 blue 1 blue 1 black 1 blue 1 red 2
+red 3 blue 1 black 8 blue 1 black 4 blue 1 blue 1 red 3
+red 3 blue 1 black 6 blue 1 blue 1 black 4 blue 1 red 3
+red 3 blue 1 black 4 blue 1 blue 1 black 4 blue 1 red 3
+red 4 blue 1 black 2 blue 1 blue 1 black 4 blue 1 red 4
+red 4 blue 2 blue 1 black 4 blue 1 red 4
+red 5 blue 1 black 4 blue 1 red 5
+red 6 blue 1 black 4 blue 1 red 6
+red 7 blue 1 black 2 blue 1 red 7
+red 8 blue 2 red 8
+red 10 red 10
+red 13 red 13
+red 30
+red 30
+
+columns
+red 30
+red 30
+red 13 red 13
+red 10 red 10
+red 8 blue 2 red 8
+red 7 blue 1 black 2 blue 1 red 7
+red 6 blue 1 black 4 blue 1 red 6
+red 5 blue 1 black 4 blue 1 red 5
+red 4 blue 2 blue 1 black 4 blue 1 red 4
+red 4 blue 1 black 2 blue 1 blue 1 black 4 blue 1 red 4
+red 3 blue 1 black 4 blue 1 blue 1 black 4 blue 1 red 3
+red 3 blue 1 black 6 blue 1 blue 1 black 4 blue 1 red 3
+red 3 blue 1 black 8 blue 1 black 4 blue 1 blue 1 red 3
+red 2 blue 1 black 4 blue 2 black 7 blue 1 blue 1 black 1 blue 1 red 2
+red 2 blue 1 black 4 blue 1 blue 1 black 5 blue 1 blue 1 black 3 blue 1 red 2
+red 2 blue 1 black 3 blue 1 blue 1 black 5 blue 1 blue 1 black 4 blue 1 red 2
+red 2 blue 1 black 1 blue 1 blue 1 black 7 blue 2 black 4 blue 1 red 2
+red 3 blue 1 blue 1 black 4 blue 1 black 8 blue 1 red 3
+red 3 blue 1 black 4 blue 1 blue 1 black 6 blue 1 red 3
+red 3 blue 1 black 4 blue 1 blue 1 black 4 blue 1 red 3
+red 4 blue 1 black 4 blue 1 blue 1 black 2 blue 1 red 4
+red 4 blue 1 black 4 blue 1 blue 2 red 4
+red 5 blue 1 black 4 blue 1 red 5
+red 6 blue 1 black 4 blue 1 red 6
+red 7 blue 1 black 2 blue 1 red 7
+red 8 blue 2 red 8
+red 10 red 10
+red 13 red 13
+red 30
+red 30

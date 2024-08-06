@@ -1,0 +1,63 @@
+by "Rachel Freer (Little Freer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Rachel Freer"
+date "Dec 11, 2007"
+description "no real description, just random, mix of colours, i can't solve it myself so have fun solving the puzzle that the creater cannot solve, i have tried but it is just really random"
+difficulty 3.0
+height 20
+id 1991
+link "https://webpbn.com/play.cgi?id=1991"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "jumbo of colours"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 4 red 5 black 6
+black 12 green 1 black 2 blue 1 black 1
+black 1 green 2 blue 1 black 1 red 2 black 5 blue 1 black 3 black 1
+black 1 green 2 blue 1 red 1 blue 2 green 3 green 2 blue 1 blue 1 black 1
+black 1 green 1 black 1 green 1 red 1 blue 2 red 2 green 1 red 2 blue 1 red 1 black 1
+green 1 blue 1 green 1 blue 1 black 1 red 1 black 1 blue 2 green 1 blue 1 green 1 red 1 blue 1 black 1
+green 1 red 2 green 6 blue 3 red 1 blue 1 red 1 green 1 red 1 blue 1 black 1
+black 1 blue 1 green 1 red 1 black 3 blue 1 black 1 blue 3 green 1 red 1 green 1 blue 1 black 1
+black 1 green 1 black 1 red 3 blue 1 black 1 green 1 red 2 blue 1 green 1 blue 1 black 1
+green 1 green 1 black 1 blue 1 green 1 blue 1 red 2 green 1 red 1 green 2 blue 1 green 1 black 1
+green 1 red 1 green 1 blue 1 red 2 blue 3 black 2 green 1 blue 1 black 1 green 3 red 1 black 1
+green 2 red 1 green 1 red 2 green 2 black 1 green 2 black 1 red 1 green 1 black 1 green 1 black 1
+black 1 red 1 blue 1 green 1 blue 1 red 1 green 2 green 1 black 1 blue 2 black 1 green 1 black 1
+black 1 red 1 blue 2 green 3 red 3 green 1 blue 2 red 3 green 1
+black 1 red 2 blue 1 green 1 red 2 black 1 black 2 red 2 black 1
+black 1 green 3 blue 1 green 5 blue 1 green 2 black 1 green 1 blue 2 black 1
+black 4 blue 1 blue 4 black 1 black 1 black 1
+black 3 blue 1 red 1 green 1 blue 1 green 1 black 1 blue 1 green 1 black 1
+black 1 blue 6 blue 1 black 1 black 1
+black 20
+
+columns
+black 5 green 2 black 2 green 3 black 8
+green 1 black 1 green 2 blue 1 red 1 blue 1 red 1 green 1 red 3 green 1 black 2 black 1
+green 1 black 1 green 1 red 1 green 3 red 1 blue 2 red 1 green 1 black 2 blue 1 black 1
+green 1 black 1 green 1 blue 1 green 3 blue 1 green 2 blue 2 green 1 black 1 blue 2 black 1
+green 1 black 1 green 1 black 1 blue 1 green 1 red 1 black 2 red 2 blue 1 green 1 blue 1 blue 1 black 1
+red 1 black 1 blue 1 red 1 green 1 black 1 green 1 red 3 green 2 blue 1 black 1
+red 1 black 2 blue 1 red 2 green 1 black 1 red 1 blue 1 green 1 red 1 blue 1 red 1 blue 1 black 1
+red 1 black 1 red 1 blue 2 black 1 green 1 black 1 red 1 green 1 blue 1 red 1 green 1 blue 1 blue 1 black 1
+red 1 black 1 red 1 green 1 blue 1 green 1 black 1 red 1 blue 2 green 2 black 1 green 1 blue 1 black 1
+red 1 black 2 green 1 red 1 blue 4 red 1 blue 1 green 2 red 1 green 1 blue 1 black 1
+black 2 green 1 red 1 blue 2 black 1 red 1 black 2 red 1 green 1 blue 1 green 1 blue 1 black 1
+black 2 green 2 blue 2 black 1 green 1 black 1 green 1 red 1 green 1 black 1 blue 1 black 1
+green 1 black 1 green 1 red 1 red 1 blue 1 green 1 red 1 green 4 blue 1 green 1 black 1
+black 2 green 1 red 1 blue 2 red 1 green 1 blue 1 green 1 black 1 black 1
+black 2 blue 4 red 1 green 1 red 1 green 1 black 3 blue 1 green 1 blue 1 black 1
+black 1 black 1 red 1 green 2 red 1 blue 2 green 1 red 1 blue 2 black 2 black 1
+black 1 blue 1 black 1 blue 1 red 2 green 2 green 2 blue 1 red 1 black 1 green 1 black 1 black 1
+black 1 black 1 blue 4 green 2 black 2 red 2 blue 1 black 2
+black 1 red 1 green 2 red 2 blue 1 green 1 black 1
+black 13 green 1 black 6

@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "May  5, 2011"
+description "Mamampede told little Centipede to put his shoes away. Little Centipede doesn't want to because he's watching Superpede on TV. Mom, can't I wait until a commercial?"
+difficulty 1.5
+height 20
+id 13765
+link "https://webpbn.com/play.cgi?id=13765"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "# 2 Mom! But I'm watching my favorite show!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+blue 13
+blue 1 blue 1
+blue 1 black 5 blue 1
+blue 1 red 5 black 1 black 1 black 1 blue 1
+blue 1 black 10 blue 1
+blue 1 black 10 blue 1
+blue 1 black 1 black 1 black 1 black 1 black 1 blue 1
+blue 13
+0
+black 4
+black 4
+red 1 red 1 black 11
+red 1 red 1 red 1 black 11
+red 1 red 1 red 1 red 1 black 11
+red 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1
+red 1 red 1 red 1 red 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1
+
+columns
+red 1 red 1
+red 1 red 1
+red 1 red 1 red 1
+red 1 red 1
+blue 8 red 1 red 1 red 1
+blue 1 red 1 black 2 blue 1 red 1 red 1
+blue 1 red 1 black 3 blue 1 red 1 red 1
+blue 1 red 1 black 2 blue 1 red 1
+blue 1 red 1 black 3 blue 1 red 1
+blue 1 red 1 black 2 blue 1 black 7
+blue 1 black 5 blue 1 black 5
+blue 1 black 1 black 2 blue 1 black 7
+blue 1 black 5 blue 1 black 5
+blue 1 black 1 black 2 blue 1 black 5
+blue 1 black 5 blue 1 black 3
+blue 1 blue 1 black 5
+blue 8 black 3
+black 5
+black 3
+black 5

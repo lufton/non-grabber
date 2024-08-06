@@ -1,0 +1,84 @@
+by "Luckye"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/17/14"
+height 32
+id 148192
+link "https://www.griddlers.net/nonogram/-/g/148192"
+medium_time "0:12:12"
+points 10533
+popularity 67.76
+title "Green Turtle"
+width 28
+
+color a ffffff
+color b 000000
+color c 005500
+color d 00aa00
+color e 55aa55
+color f 55ff55
+color g aaffaa
+
+rows
+b 8
+b 2 c 4 b 2
+b 4 c 4 b 4
+b 4 c 4 b 4
+b 2 c 8 b 2
+b 2 c 7 d 1 b 2
+b 2 c 5 d 3 b 2
+b 6 b 2 c 4 d 4 b 2 b 6
+b 7 b 4 d 4 b 4 b 7
+b 2 c 4 b 1 b 2 d 4 b 2 b 1 d 4 b 2
+b 4 c 2 b 1 b 4 d 4 b 4 b 1 d 2 b 4
+b 4 c 2 b 1 b 4 d 4 b 4 b 1 d 2 b 4
+b 1 c 2 b 4 d 8 b 4 d 2 b 1
+b 7 d 8 b 7
+b 2 d 13 e 1 b 2
+b 4 d 12 e 2 b 4
+b 4 d 10 e 4 b 4
+b 1 d 11 e 9 b 1
+b 1 d 10 e 10 b 1
+b 1 d 8 e 12 b 1
+b 1 d 7 e 13 b 1
+b 1 d 5 e 15 b 1
+b 1 d 4 e 14 f 2 b 1
+b 4 e 13 f 1 b 4
+b 4 e 12 f 2 b 4
+b 4 e 10 f 4 b 4
+b 6 e 6 f 4 b 6
+b 1 e 2 b 1 b 1 e 5 f 5 b 1 b 1 g 2 b 1
+b 4 e 2 b 1 b 12 b 1 g 2 b 4
+b 2 e 4 b 1 b 12 b 1 g 4 b 2
+b 2 e 4 b 1 b 1 g 4 b 2
+b 7 b 7
+
+columns
+b 4 b 4
+b 5 b 4
+b 2 c 1 b 2 b 1 e 2 b 1
+b 2 c 1 b 4 b 14 e 2 b 1
+b 2 c 4 b 1 b 2 d 6 b 4 e 4 b 1
+b 2 c 4 b 4 d 6 b 4 e 4 b 1
+b 10 d 6 b 9
+b 2 d 9 e 3 b 1
+b 7 b 4 d 8 e 4 b 4
+b 7 b 4 d 7 e 7 b 2
+b 4 c 4 b 4 d 9 e 7 b 2
+b 4 c 4 b 4 d 8 e 8 b 2
+b 1 c 7 d 11 e 9 b 2
+b 1 c 7 d 11 e 9 b 2
+b 1 c 6 d 11 e 9 f 1 b 2
+b 1 c 5 d 11 e 9 f 2 b 2
+b 4 c 2 d 2 b 4 d 5 e 9 f 2 b 2
+b 4 c 1 d 3 b 4 d 4 e 9 f 3 b 2
+b 7 b 4 d 2 e 9 f 3 b 2
+b 7 b 4 d 1 e 9 f 2 b 4
+b 2 e 9 f 3 b 1
+b 10 e 6 b 9
+b 2 d 4 b 4 e 5 f 1 b 4 g 4 b 1
+b 2 d 4 b 1 b 2 e 5 f 1 b 4 g 4 b 1
+b 2 d 1 b 4 b 14 g 2 b 1
+b 2 d 1 b 2 b 1 g 2 b 1
+b 5 b 4
+b 4 b 4

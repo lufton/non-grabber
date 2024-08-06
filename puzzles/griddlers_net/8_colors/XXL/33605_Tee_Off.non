@@ -1,0 +1,121 @@
+by "Wyst"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/16/06"
+height 46
+id 33605
+link "https://www.griddlers.net/nonogram/-/g/33605"
+medium_time "0:30:58"
+points 55982
+popularity 77.42
+title "Tee Off"
+width 50
+
+color a 639c63
+color b adadad
+color c ffffff
+color d 9c0000
+color e 006300
+color f 9cffff
+color g ffce63
+color h ce9c00
+
+rows
+f 23 b 9 f 18
+f 19 b 7 c 3 b 5 f 16
+f 18 b 3 c 12 b 2 f 15
+f 17 b 2 c 12 b 1 c 2 b 3 f 13
+f 9 d 1 f 6 b 2 c 13 b 1 c 4 b 2 f 12
+f 8 d 3 f 4 b 2 c 20 b 2 f 11
+f 6 d 5 f 3 b 2 c 19 b 1 c 2 b 1 f 11
+f 5 d 6 f 3 b 2 c 19 b 2 c 1 b 2 f 10
+f 4 d 7 f 2 b 2 c 20 b 2 c 2 b 1 f 10
+f 3 d 4 f 3 d 1 f 2 b 2 c 17 b 2 c 1 b 2 c 2 b 2 f 9
+f 2 d 2 f 6 d 1 f 2 b 1 c 18 b 2 c 2 b 1 c 2 b 2 f 9
+f 10 d 1 f 2 b 1 c 18 b 1 c 4 b 4 f 9
+f 10 d 1 f 1 b 2 c 23 b 2 c 1 b 2 f 8
+f 10 d 1 f 1 b 2 c 20 b 2 c 1 b 2 c 1 b 2 f 8
+f 10 d 1 f 1 b 2 c 12 b 1 c 7 b 2 c 3 b 3 f 8
+f 9 e 3 b 2 c 16 b 2 c 2 b 8 f 4 e 4
+f 7 e 3 b 2 c 16 b 2 c 4 b 2 c 1 b 3 e 6
+f 5 e 3 b 1 c 16 b 1 c 5 b 1 c 2 b 3 e 2
+f 4 e 2 b 1 c 19 b 2 c 4 b 2
+f 2 e 3 b 2 c 17 b 3 c 4 b 1
+f 1 e 2 b 1 c 17 b 2 c 3 b 3
+e 2 b 2 c 10 b 3 c 5 b 1 c 2 b 2
+b 2 c 10 b 1 c 5 b 2 c 2 b 1
+b 2 c 12 b 2 c 1 b 1 c 2 b 2
+b 2 c 10 b 2 c 4 b 2
+b 2 c 13 b 3 e 4
+b 4 c 7 b 4 e 3
+g 2 b 9 h 2
+g 10 h 2
+g 8 h 2
+g 6 h 3
+e 2 g 4 h 3 e 3
+e 5 e 1 g 4 h 2 e 4
+e 2 g 4 h 2 e 6
+e 2 g 3 h 1 e 1
+e 1 g 3 h 1 e 1
+g 1 e 1 g 1 e 2 e 1
+e 1 g 1 e 3 e 1
+e 2 e 2 g 2 e 2 e 2
+e 1 e 2 g 1 e 2 e 2 e 3
+e 2 e 1 g 1 e 2 e 1 e 2
+e 5 e 2 e 1 g 2 e 3 e 3
+e 4 e 5 g 2 e 5
+e 4 e 8
+e 4 e 11 e 2
+e 3 e 4
+
+columns
+f 21 e 1
+f 20 e 2 e 1
+f 10 d 1 f 8 e 2 e 3
+f 9 d 2 f 8 e 1 e 4
+f 8 d 2 f 8 e 2 e 4
+f 7 d 3 f 7 e 2 e 2 e 1
+f 6 d 4 f 7 e 1 e 2
+f 6 d 3 f 7 e 2 e 1
+f 5 d 4 f 7 e 1 e 1
+f 4 d 5 f 6 e 2 e 1
+f 5 d 10 e 1
+f 15 e 1 e 1
+f 12 b 5 e 1
+f 8 b 12 e 2
+f 6 b 4 c 9 b 3 e 2
+f 5 b 3 c 13 b 2 e 1
+f 4 b 2 c 16 b 2 e 1
+f 3 b 2 c 18 b 2 e 1
+f 2 b 2 c 20 b 2 e 1
+f 1 b 2 c 22 b 2 e 1 e 1
+f 1 b 2 c 23 b 1 g 2 e 3 e 1 e 2
+f 1 b 1 c 24 b 1 g 3 e 2 e 3 e 2
+f 1 b 1 c 24 b 2 g 3 e 2 e 2 e 2 e 2
+b 2 c 25 b 1 g 6 e 2 e 2 e 4
+b 2 c 25 b 1 g 11 e 6
+b 2 c 25 b 1 g 8 e 2 g 5 e 2
+b 1 c 13 b 1 c 6 b 1 c 5 b 1 g 9 e 4 g 2 e 2
+b 1 c 20 b 2 c 4 b 1 g 3 h 5 e 8
+b 1 c 20 b 1 c 5 b 1 g 2 h 4 e 3 e 3
+b 2 c 22 b 1 c 2 b 1 g 1 h 3 e 5
+b 2 c 13 b 3 c 5 b 2 c 1 b 2 h 3 e 2 e 2
+b 2 c 1 b 2 c 10 b 2 c 6 b 1 c 2 b 1 h 2 e 3 e 2 e 1
+f 1 b 1 c 7 b 3 c 7 b 2 c 5 b 1 h 1 e 1 e 1 e 1
+f 1 b 2 c 6 b 2 c 7 b 3 c 1 b 2 c 1 b 2 e 1 e 2
+f 2 b 2 c 9 b 3 c 2 b 2 c 1 b 2 c 2 b 1 e 2 e 2
+f 3 b 1 c 2 b 4 c 3 b 3 c 8 b 2 e 1 e 1
+f 3 b 2 c 2 b 4 c 4 b 3 c 5 b 2 e 2 e 1
+f 4 b 2 c 5 b 3 c 1 b 2 c 3 b 4 e 2
+f 5 b 3 c 3 b 3 c 1 b 1 c 4 b 2 e 1
+f 7 b 5 c 2 b 7 e 1
+f 9 b 10 e 1
+f 12 b 6 e 1
+f 16 e 1
+f 16 e 1 e 1
+f 16 e 1 e 2
+f 16 e 1 e 2
+f 15 e 2 e 1
+f 15 e 3 e 1
+f 15 e 1 e 1
+f 15 e 1

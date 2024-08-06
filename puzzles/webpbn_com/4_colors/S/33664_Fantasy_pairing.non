@@ -1,0 +1,52 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Mar  3, 2020"
+description "Ruby Throated Hummingbird drinking nectar from Jupiter's great red spot."
+difficulty 1.75
+height 10
+id 33664
+link "https://webpbn.com/play.cgi?id=33664"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Fantasy pairing"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 6
+red 8
+red 10
+black 10 black 2
+red 10 black 2 black 1 green 2
+black 7 red 2 black 6 red 1 black 1 green 2
+red 10 red 3 green 1 black 1
+black 10 red 1 black 1 green 2 black 1
+red 8 black 2 green 2 black 1
+red 6
+
+columns
+red 1 black 1 red 1 black 1 red 1 black 1
+red 2 black 1 red 1 black 1 red 1 black 1 red 1
+red 3 black 1 red 1 black 1 red 1 black 1 red 2
+red 3 black 1 red 1 black 1 red 1 black 1 red 2
+red 3 black 1 red 1 black 1 red 1 black 1 red 2
+red 3 black 1 red 1 black 1 red 1 black 1 red 2
+red 3 black 1 red 1 black 1 red 1 black 1 red 2
+red 3 black 1 red 3 black 1 red 2
+red 2 black 1 red 3 black 1 red 1
+red 1 black 1 red 1 black 1 red 1 black 1
+black 1
+black 1
+black 1
+black 2 red 1
+black 2 red 2
+red 2 black 2
+black 1 green 2 black 1
+black 1 green 1 black 1 green 2
+black 1 green 2 black 1 green 1
+black 1 green 1 black 1

@@ -1,0 +1,81 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Jun 12, 2014"
+description "...Anne Frank, a German-born Jewish girl living in Amsterdam, receives a diary for her 13th birthday, less than a month before she and her family go into hiding from the Nazis."
+difficulty 2.25
+height 30
+id 24759
+link "https://webpbn.com/play.cgi?id=24759"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "39..Today in history..1942..."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+red 4
+red 3 red 2
+red 3 red 2
+red 3 red 4
+red 5 red 3 red 2
+red 2 red 6 red 2
+red 2 red 4 red 2
+red 2 red 4 red 2
+red 4 red 6 red 4
+red 6 red 2 red 4 red 3 red 2
+red 2 red 6 red 6 red 1
+red 2 red 5 red 4 red 2
+red 2 red 5 red 5 red 3
+red 2 red 7 red 2 red 7
+red 4 red 2 red 7 red 5 black 1
+red 6 red 2 red 4 black 3 red 3 black 1
+red 3 red 5 red 2 black 2 black 1 red 3 black 1
+red 3 red 4 red 1 black 5 red 3 black 1
+red 2 red 6 red 2 black 1 black 2 red 4 black 1
+black 1 red 2 red 3 red 4 red 2 black 3 red 5
+black 1 red 4 red 6 red 6
+black 1 red 2 red 4 red 6 black 1
+black 1 red 2 red 4 red 6 black 1
+black 1 red 2 red 6 red 3 black 1 red 1 black 1
+black 1 red 2 red 3 red 6 black 1
+black 1 red 4 red 4 black 1
+black 1 red 2 red 4 black 1
+black 1 red 2 red 4 black 1
+black 1 red 5 black 1
+
+columns
+red 2 black 1
+red 4 black 1
+red 3 red 2 black 1
+red 3 red 2 black 1
+red 3 red 4 black 1
+red 5 red 3 red 2 black 1
+red 2 red 6 red 2 black 1
+red 2 red 4 red 2 black 1
+red 2 red 4 red 2 black 1
+red 2 red 6 red 4 black 1
+red 4 red 2 red 4 red 3 red 2
+red 6 red 2 red 6 red 1
+red 2 red 6 red 4 red 2
+red 2 red 5 red 5 red 3
+red 2 red 5 red 2 red 7
+red 4 red 7 red 2 red 5 black 1
+red 6 red 2 red 7 red 3 black 1
+red 3 red 5 red 4 black 3 red 3 black 1
+red 3 red 4 red 2 black 2 black 1 red 3 black 1
+red 2 red 6 red 1 black 5 red 3 black 1
+red 2 red 3 red 4 red 2 black 1 black 2 red 4 black 1
+red 4 red 6 black 3 red 5
+red 2 red 4 red 6
+red 2 red 4 red 6 black 1
+red 2 red 6 red 6 black 1
+red 2 red 3 red 6 black 1 red 1 black 1
+red 4 red 4 black 1
+red 2 red 4 black 1
+red 2 red 4 black 1
+red 5 black 1

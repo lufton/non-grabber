@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Oct 12, 2017"
+description "A cute ginger lady."
+difficulty 1.5
+height 20
+id 30323
+link "https://webpbn.com/play.cgi?id=30323"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Some people say that they walk among us without a soul"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 2 red 2
+red 4 red 2
+red 6 red 2
+red 7 red 3
+red 6 red 2
+red 5 red 2
+red 5 red 2
+red 6 black 2 black 2 red 2
+red 6 black 2 black 2 red 2
+red 6 red 3
+red 6 red 3
+red 7 red 3 red 4
+red 8 red 5
+red 8 red 6
+red 8 red 7
+red 8 red 7
+red 8 black 1 red 8
+red 8 black 4 red 7
+
+columns
+red 7
+red 10
+red 11
+red 12
+red 14
+red 15
+red 16
+red 7 red 6
+red 6 black 1
+red 5 black 2 black 1
+red 3 black 2 red 1 black 2
+red 1 red 2 red 1 red 3 black 1
+red 2 red 1 red 4
+red 3 black 2 red 5
+red 4 black 2 red 6
+red 15
+red 12
+red 9
+red 3 red 2
+0

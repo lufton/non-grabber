@@ -1,0 +1,41 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/24/16"
+height 9
+id 178512
+link "https://www.griddlers.net/nonogram/-/g/178512"
+medium_time "0:01:04"
+points 63
+popularity 61.48
+title "Princess Leia"
+width 9
+
+color a d9d8e0
+color b 000000
+color c ffc88c
+color d 7c8a93
+color e 462c2b
+color f ffffff
+
+rows
+e 3
+e 5
+e 3 c 3 e 3
+e 2 c 1 b 1 c 1 b 1 c 1 e 2
+c 5
+c 1 f 5 c 1
+d 3
+f 5
+f 7
+
+columns
+e 2
+e 2 c 1 f 1
+e 2 c 2 f 1 f 2
+e 2 c 1 b 1 c 1 f 1 d 1 f 2
+e 2 c 3 f 1 d 1 f 2
+e 2 c 1 b 1 c 1 f 1 d 1 f 2
+e 2 c 2 f 1 f 2
+e 2 c 1 f 1
+e 2

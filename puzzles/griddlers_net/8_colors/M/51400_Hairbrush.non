@@ -1,0 +1,64 @@
+by "fb16"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/8/07"
+height 12
+id 51400
+link "https://www.griddlers.net/nonogram/-/g/51400"
+medium_time "0:05:29"
+points 1056
+popularity 59.24
+title "Hairbrush"
+width 27
+
+color a ffffff
+color b ffccff
+color c ff66ff
+color d e602b8
+color e abe9fe
+color f 33ccff
+color g ffff99
+color h e6e600
+
+rows
+c 5
+c 2 b 3 c 2
+c 1 b 4 c 2
+f 9 b 4 c 1
+f 13 e 1 b 2 c 1 f 7
+f 13 e 3 d 1 e 1 f 6 e 2
+f 8 e 6 b 2 e 8
+g 1 h 1 e 9 g 2 b 2 c 2
+g 2 h 1 g 1 h 1 g 1 h 1 g 1 h 1 g 1 h 1 g 2 b 2 c 1 b 1 c 2
+g 1 h 1 g 2 h 1 g 1 h 1 g 1 h 1 g 1 h 1 g 2 b 1 c 1 b 1 c 3
+g 2 h 1 g 1 h 1 g 2 h 1 g 1 h 1 g 1 h 2 g 1 h 2 c 3
+h 1 g 1 h 1 g 2 h 1 g 1 h 1 g 1 h 2
+
+columns
+g 1
+f 1 g 3
+f 3 g 2 h 3
+f 3 h 2 g 3
+f 4 e 1 g 2 h 2
+f 4 e 1 h 2 g 2
+f 4 e 1 g 4
+f 4 e 1 h 4
+f 4 e 1 g 4
+f 4 e 1 h 4
+f 3 e 2 g 4
+f 3 e 2 h 4
+f 3 e 2 g 2 h 2
+f 2 e 1 g 4
+c 2 f 1 e 2 g 1 b 2 h 1
+c 2 b 2 e 3 b 2 c 1 h 1
+c 1 b 4 e 1 b 2 c 1 b 1 c 1
+c 1 b 4 d 1 b 1 c 1 b 1 c 2
+c 1 b 3 c 1 e 2 c 4
+c 4 f 2 e 1 c 2
+c 2 f 2 e 1
+f 2 e 1
+f 2 e 1
+f 2 e 1
+f 2 e 1
+f 1 e 2
+e 1

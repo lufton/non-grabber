@@ -1,0 +1,47 @@
+by "paikea"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/3/18"
+height 11
+id 188483
+link "https://www.griddlers.net/nonogram/-/g/188483"
+medium_time "0:01:32"
+points 636
+popularity 69.19
+title "Little Fox"
+width 13
+
+color a 33CC00
+color b 000000
+color d FFCC66
+color f FFFFFF
+color g FFCCCC
+color h 996633
+
+rows
+f 1 f 1
+f 1 d 1 d 1 f 1
+f 1 d 1 g 1 g 1 d 1 f 1
+f 1 d 1 g 2 g 2 d 1 f 1
+f 1 d 11 f 1
+f 1 d 2 b 1 d 3 b 1 d 2 f 1
+f 1 d 7 f 1
+f 1 d 5 f 1
+f 1 d 3 f 1
+f 1 h 1 f 1
+f 1
+
+columns
+f 1
+f 4 d 1 f 1
+d 5 f 1
+g 2 d 3 f 1
+g 1 d 1 b 1 d 2 f 1
+d 5 f 1
+d 5 h 1 f 1
+d 5 f 1
+g 1 d 1 b 1 d 2 f 1
+g 2 d 3 f 1
+d 5 f 1
+f 4 d 1 f 1
+f 1

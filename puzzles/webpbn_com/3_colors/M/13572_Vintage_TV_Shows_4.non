@@ -1,0 +1,61 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Trish"
+date "Apr 23, 2011"
+description "Gunsmoke"
+difficulty 1.25
+height 20
+id 13572
+link "https://webpbn.com/play.cgi?id=13572"
+note "published,definitely unique,definitely trivial"
+quality 2.5
+title "Vintage TV Shows 4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 4 blue 15
+blue 3 blue 15
+blue 3 blue 15
+blue 2 blue 14
+blue 2 blue 14
+blue 2 blue 13
+blue 1 blue 13
+blue 1 blue 13
+blue 1 blue 13
+blue 1 blue 13 black 1
+blue 2 black 16
+blue 4 black 15 blue 1
+blue 4 black 15 blue 1
+blue 11 black 1 blue 1 black 1 blue 2 black 3 blue 1
+blue 11 black 1 blue 2 black 1 blue 1 black 3 blue 1
+blue 12 black 1 blue 3 black 3 blue 1
+blue 13 black 6 blue 1
+blue 16 black 3 blue 1
+blue 16 black 3 blue 1
+blue 16 black 3 blue 1
+
+columns
+blue 20
+blue 6 blue 10
+blue 3 blue 9
+blue 1 blue 9
+black 3 blue 7
+blue 3 black 3 blue 7
+blue 5 blue 1 black 3 blue 7
+blue 10 black 3 blue 7
+blue 10 black 3 blue 7
+blue 10 black 3 blue 7
+blue 10 black 3 blue 7
+blue 10 black 5 blue 5
+blue 10 black 3 blue 2 black 1 blue 4
+blue 10 black 4 blue 2 black 1 blue 3
+blue 10 black 3 blue 1 black 1 blue 1 black 1 blue 3
+blue 10 black 3 blue 3 black 1 blue 3
+blue 10 black 10
+blue 10 black 10
+blue 10 black 10
+blue 9 black 2 blue 9

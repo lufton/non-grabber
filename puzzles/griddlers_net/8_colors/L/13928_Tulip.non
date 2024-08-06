@@ -1,0 +1,90 @@
+by "DOLFIJN33"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/9/04"
+height 45
+id 13928
+link "https://www.griddlers.net/nonogram/-/g/13928"
+medium_time "0:21:12"
+points 20564
+popularity 67.76
+title "Tulip"
+width 20
+
+color a ffffff
+color b 950000
+color c ff0000
+color d ff00ff
+color e 005f00
+color f 000000
+color g 00ff00
+color h 80b880
+
+rows
+b 1
+b 1 b 1 c 1
+b 1 b 2 d 1 b 2 c 1
+b 1 c 1 b 2 d 2 b 2 c 3
+d 1 b 2 c 1 d 2 b 1 c 1 d 2 b 2 c 3
+d 1 b 1 c 2 d 3 c 2 d 2 b 2 c 2
+d 1 b 1 c 1 d 2 b 1 d 1 c 3 d 2 b 1 c 2
+d 2 c 2 d 2 b 1 d 1 b 1 c 2 d 2 b 2 c 2
+d 2 c 2 d 4 b 1 c 2 d 2 b 2 c 2
+d 2 c 2 d 4 b 2 c 1 d 2 b 2 c 2
+d 2 c 2 d 2 c 1 d 2 b 1 c 1 b 1 c 1 d 1 b 1 c 2
+d 3 c 1 d 2 c 1 d 2 b 1 c 1 b 1 c 1 d 1 b 1 c 2
+d 5 b 1 c 1 d 3 c 1 b 1 c 1 d 1 b 1 c 1
+d 4 b 1 c 1 d 2 b 1 c 3 b 2 c 1
+d 5 c 1 d 2 b 2 c 2 b 1 c 1
+d 4 c 3 b 2 c 4 e 1
+e 1 d 2 b 1 d 1 c 2 b 1 d 1 c 1 b 1 c 1 e 1
+e 2 d 3 b 1 d 1 b 1 d 1 b 1 c 1 e 1 f 1
+e 2 g 1 d 2 b 1 d 2 b 1 c 1 e 1 h 1
+e 2 g 1 d 4 c 1 e 2 h 1
+e 2 g 1 d 1 e 1 e 2 h 1
+e 2 g 1 e 1 e 2 g 1 h 1
+e 2 g 2 e 1 e 3 g 1 h 1
+e 1 g 2 e 1 e 2 g 2 h 1
+e 2 g 2 e 1 e 3 g 2 h 1
+e 2 g 3 e 1 e 2 g 2 h 1
+e 1 g 3 e 1 e 3 g 2 h 1
+e 1 g 3 e 1 e 3 g 3 h 1
+e 1 g 2 e 1 e 2 g 3 h 1
+e 1 g 2 g 1 e 3 g 3 h 1
+e 1 g 2 g 1 e 3 g 2 h 2
+e 1 g 2 g 1 e 3 g 2 h 2
+e 1 g 2 g 1 e 3 g 1 h 2
+g 2 g 1 e 2 g 2 h 2
+g 2 e 3 g 2 h 2
+g 2 e 2 g 2 h 3
+g 3 e 2 g 1 h 3
+g 3 e 1 g 2 h 2
+g 2 e 2 g 1 h 3
+g 1 e 3 h 2
+g 1 e 3 h 2
+e 3 h 1
+e 2 h 1
+e 2
+e 1
+
+columns
+e 3
+d 6 e 4
+d 11 g 1 e 4
+b 3 c 4 d 5 g 2 e 5
+b 3 c 7 d 5 g 3 e 4
+c 3 d 12 g 6 e 5
+d 8 b 2 d 2 b 1 d 2 g 15
+b 2 d 2 b 2 d 2 c 6 d 4 g 16
+b 4 d 10 c 2 b 2 d 1 g 2 e 4
+d 2 c 3 b 3 d 5 c 2 d 4 e 5 g 5 e 10
+d 2 c 4 b 3 d 1 b 5 d 2 e 4 e 6 g 2 e 6
+d 2 c 8 b 2 d 2 b 1 c 1 e 6 g 3 h 5
+b 3 d 5 b 3 c 4 b 1 c 1 e 6 g 3 h 5
+b 6 d 4 c 6 b 1 c 1 e 5 g 4 h 4
+c 2 b 5 d 3 b 2 c 2 e 4 g 4 h 5
+c 6 b 7 c 2 e 5 g 4 h 5
+c 11 e 4 g 5 h 2
+c 5 e 4 g 5 h 3
+e 4 g 4 h 3
+e 2 f 1 h 7

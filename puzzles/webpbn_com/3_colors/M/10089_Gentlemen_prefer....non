@@ -1,0 +1,56 @@
+by "katherine (katherineb)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by katherine"
+date "Aug 25, 2010"
+description "Marilyn Monroe's famous beauty spot."
+difficulty 1.5
+height 15
+id 10089
+link "https://webpbn.com/play.cgi?id=10089"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Gentlemen prefer..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 1
+0
+red 4 red 4
+red 11
+red 2 red 1 red 3
+red 2 red 7 red 2
+red 2 red 4
+red 9
+red 5 black 1
+black 1
+black 2
+black 2
+black 3
+
+columns
+red 1
+red 2
+red 1 red 2
+red 3 red 2
+red 2 red 1 red 1
+red 2 red 1 red 2
+red 2 red 1 red 2
+red 1 red 1 red 2
+red 2 red 1 red 2
+red 2 red 4
+red 2 red 3
+red 3 red 2
+red 2 red 1
+red 2
+red 1
+black 1
+0
+black 1
+black 3
+black 5

@@ -1,0 +1,70 @@
+by "Donna McFarland (jade8114)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Donna McFarland"
+date "Sep 29, 2016"
+description "Microbe Obliterator"
+difficulty 2.0
+height 25
+id 28819
+link "https://webpbn.com/play.cgi?id=28819"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Robot Series #5"
+width 22
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 17
+green 2 green 2
+green 2 green 2
+green 1 green 1
+green 1 green 1
+green 2 green 1
+green 1 green 2
+green 1 green 4
+green 1 black 9 green 2
+green 1 black 9 green 1
+green 1 black 1 red 3 black 1 red 3 black 1 green 3
+green 1 black 1 red 3 black 1 red 3 black 1 green 1 green 1
+green 1 black 9 green 5
+black 14 green 1 green 1
+green 1 green 1 green 2 green 1
+green 2 green 1 green 1 green 1
+blue 12 green 3
+blue 12 green 1 green 2 green 1
+blue 12 green 1 green 3 green 1
+blue 13 green 2 green 2
+blue 13 green 2
+green 1 green 2
+black 12
+green 1 green 1
+green 7
+
+columns
+green 8 blue 3
+green 4 black 1 green 1 blue 5
+green 2 black 1 green 2 blue 5
+green 2 black 6 blue 5
+green 1 black 2 red 2 black 2 green 2 blue 5 green 1
+green 1 black 2 red 2 black 2 blue 5 black 1
+green 1 black 2 red 2 black 2 blue 5 black 1
+green 1 black 6 blue 5 black 1 green 2
+green 1 black 2 red 2 black 2 blue 5 black 1 green 1
+green 1 black 2 red 2 black 2 blue 5 black 1 green 1
+green 1 black 2 red 2 black 2 blue 5 black 1 green 1
+green 1 black 6 blue 5 black 1 green 1
+green 1 black 1 blue 1 green 2 blue 2 black 1 green 1
+green 1 black 1 green 2 green 1 blue 1 black 1 green 2
+green 1 black 1 green 1 green 2 black 1
+green 1 green 4 green 1 black 1
+green 1 green 3 green 1 green 2 green 1 black 1
+green 1 green 2 green 1 green 1 green 2 green 2
+green 1 green 1 green 2 green 1 green 2
+green 2 green 1 green 8
+green 2 green 2
+green 5

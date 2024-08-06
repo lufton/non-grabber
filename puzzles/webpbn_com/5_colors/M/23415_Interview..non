@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Dec 24, 2013"
+description "We're talking with fan-fiction author Snow White. Tell us Snow, how did you come up with the idea for this book, "The Seven Hobbits of Highly Effective People"?"
+difficulty 1.75
+height 20
+id 23415
+link "https://webpbn.com/play.cgi?id=23415"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Interview."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+black 4 black 5
+black 4 black 3
+black 3 blue 1 green 1 black 1 black 1
+black 4 black 1
+black 4 red 1 red 1
+black 4 blue 2
+black 4 red 1 black 2 blue 3
+black 2 red 1 red 1 black 2 blue 3
+red 4 black 1 blue 3
+green 2 red 4 green 1 black 1 blue 6
+green 2 red 4 green 1 black 9
+green 2 red 2 green 1 black 8
+green 3 red 6 green 2 black 8
+green 3 red 7 green 3 black 7
+green 5 red 5 green 1 black 1 green 1 black 7
+green 6 red 4 black 2 green 1 black 7
+green 6 black 2 green 1 black 2 green 2 black 7
+green 6 black 3 green 2 black 1 green 1 black 7
+green 6 black 2 green 1 black 1 green 3 black 7
+
+columns
+black 3 green 10
+black 5 green 10
+black 6 green 7
+black 7 red 4 red 2 green 5
+black 5 red 3 red 2 green 5
+black 2 red 7 green 4
+black 1 blue 1 red 1 red 10 black 3
+green 3 red 4 black 3
+red 4 green 1 black 1 green 1
+green 1 red 3 black 1 green 1 black 1
+green 3 black 2 green 2
+black 1 green 1 black 2 green 1 black 1 green 1
+black 7 green 6
+black 2 black 9
+blue 1 black 9
+black 2 blue 1 black 9
+black 2 green 1 red 1 blue 1 black 9
+black 4 blue 4 black 9
+black 2 blue 5 black 9
+black 4 blue 5 black 9

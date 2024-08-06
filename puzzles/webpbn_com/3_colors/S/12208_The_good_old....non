@@ -1,0 +1,46 @@
+by "Alex Klages (metalfoot)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alex Klages"
+date "Feb 13, 2011"
+description "hockey game! Although the stick is not in good condition, there's still a couple goals in it... I think."
+difficulty 1.25
+height 15
+id 12208
+link "https://webpbn.com/play.cgi?id=12208"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "The good old..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 red 5
+black 2 red 1 red 1
+black 3 red 1 red 1
+black 2 red 1 red 1
+black 2
+black 2
+black 2
+black 2
+black 2 black 2
+black 2 black 4
+black 2 black 2
+black 2
+black 2
+black 7
+black 6
+
+columns
+black 3
+black 5
+black 8
+black 9
+black 5
+red 4 black 2
+red 1 black 1 black 2
+red 1 black 3 black 2
+red 1 black 3 black 2
+red 4 black 1 black 2

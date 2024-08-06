@@ -1,0 +1,47 @@
+by "Rick (bee)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Rick"
+date "Sep 23, 2019"
+description "animal which looks at you."
+difficulty 2.5
+height 15
+id 32918
+link "https://webpbn.com/play.cgi?id=32918"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Seems to be a friendly..."
+width 15
+
+rows
+2,2,3
+1,3,2,2
+1,2,1
+1,2,2,1
+1,1,1
+1,1,1
+2,1,1,2
+1,2,2,1
+1,2,2,1
+1,5,1,1
+1,1,1
+1,1,1,1,1
+1,3,3,3
+1,3,3,2
+13
+
+columns
+8
+5,1
+1,2,3
+1,2,4
+1,2,2,3
+1,1,1,1,1
+1,1,1,1
+1,1,1,1,1
+1,1,2,3
+2,2,4
+2,2,3
+5,1
+1,8
+2,2
+3,4

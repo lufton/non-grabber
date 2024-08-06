@@ -1,0 +1,53 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 26, 2010"
+description ""
+difficulty 1.25
+height 14
+id 9363
+link "https://webpbn.com/play.cgi?id=9363"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Morning sunshine."
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+red 5
+red 7
+red 9
+red 11
+red 11
+blue 17
+blue 2 black 1 blue 10 black 2 blue 2
+blue 1 black 3 blue 8 black 4 blue 1
+blue 1 black 5 blue 5 black 6
+black 3 black 2 blue 1 black 3 blue 2 black 5
+black 11 blue 3 black 1 blue 2
+black 1 black 7 black 2 blue 2 black 1 blue 2
+black 12 blue 2 black 1 blue 2
+
+columns
+blue 4 black 4
+blue 2 black 4 black 1
+blue 1 black 7
+blue 2 black 2 black 3
+red 2 blue 3 black 5
+red 3 blue 3 black 5
+red 4 blue 5 black 3
+red 5 blue 4 black 4
+red 5 blue 4 black 4
+red 5 blue 4 black 2 black 1
+red 5 blue 5 black 3
+red 5 blue 3 black 1 blue 2 black 2
+red 4 blue 2 black 3 blue 3
+red 3 blue 1 black 4 blue 3
+red 2 blue 1 black 7
+blue 2 black 3 blue 3
+blue 3 black 2 blue 3

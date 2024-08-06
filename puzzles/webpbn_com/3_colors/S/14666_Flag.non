@@ -1,0 +1,46 @@
+by "Angie Heath (bewildering9)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Angie Heath"
+date "Jun 16, 2011"
+description "This is the 10 striped flag. Like it?"
+difficulty 1.0
+height 10
+id 14666
+link "https://webpbn.com/play.cgi?id=14666"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Flag"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 black 10
+blue 5
+blue 5 black 10
+blue 5
+blue 5 black 10
+0
+black 15
+0
+black 15
+0
+
+columns
+blue 5 black 1 black 1
+blue 5 black 1 black 1
+blue 5 black 1 black 1
+blue 5 black 1 black 1
+blue 5 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1

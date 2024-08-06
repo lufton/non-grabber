@@ -1,0 +1,83 @@
+by "Heidi Heidie (puzzleheidi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Heidi Heidie"
+date "Mar 23, 2017"
+description "You are wondering in the woods and you find this place."
+difficulty 2.0
+height 30
+id 29561
+link "https://webpbn.com/play.cgi?id=29561"
+note "published,definitely non-unique,definitely requires some guessing"
+quality 3.0
+title "Deep in the woods"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1 green 1
+green 2 green 1 green 1 green 1
+green 1 green 1 green 2 green 1 green 1 green 1
+green 1 green 1 green 2 green 1 green 1 green 1
+green 1 green 2 green 1 green 1 green 1 green 1
+green 1 green 2 black 4 green 1 green 1 green 1
+green 1 green 2 black 3 blue 3 black 5 green 1 green 3
+green 1 green 1 black 3 blue 9 black 1 green 1 green 1 green 1
+black 2 blue 12 black 1 green 1 green 1 green 1
+black 2 blue 13 black 1 green 1
+black 1 blue 15 black 1
+black 1 blue 16 black 2 green 2
+black 2 blue 17 black 2 red 1 green 3
+black 1 blue 5 green 5 blue 9 black 1 red 3 green 1
+black 1 blue 4 green 4 red 1 green 2 blue 8 black 1 red 2 red 2
+black 1 blue 5 green 2 red 1 red 1 green 1 blue 8 black 1 red 3
+black 1 blue 6 green 2 red 1 green 2 blue 8 black 1 red 1
+black 1 blue 5 green 1 red 1 green 4 blue 7 black 2
+black 2 blue 3 green 1 red 1 red 1 green 3 blue 6 black 2
+black 1 blue 4 green 1 red 1 green 3 blue 6 black 2
+black 1 blue 13 black 2
+black 2 blue 7 black 6 green 1 green 1
+green 2 black 4 blue 4 black 1 green 1 green 2 green 1
+green 3 red 1 black 6 green 1 green 2 green 1
+green 1 red 3 green 3 green 4
+red 2 red 2 green 1 green 1 green 3
+red 3 green 1 green 1 green 3
+red 1 green 1 green 1 green 1 green 1
+0
+0
+
+columns
+green 6
+0
+green 8 green 2
+green 1 green 3 black 7 green 3 red 1
+green 2 black 2 blue 5 black 4 green 1 red 3
+green 4 black 2 blue 10 black 2 red 2 red 2
+green 1 black 2 blue 12 black 1 red 3
+black 2 blue 13 black 1 red 1
+black 2 blue 6 green 1 blue 3 green 1 blue 3 black 2
+black 2 blue 5 green 3 blue 1 green 1 red 1 green 1 blue 3 black 1
+black 1 blue 6 green 4 red 1 red 1 blue 3 black 1
+black 1 blue 7 green 2 red 1 green 2 red 1 green 1 blue 3 black 1
+black 1 blue 7 green 1 red 1 red 1 green 3 blue 3 black 1
+black 1 blue 7 green 2 red 1 green 4 blue 1 black 3
+black 2 blue 7 green 5 blue 2 black 1
+black 1 blue 14 black 1
+black 1 blue 14 black 1
+black 1 blue 14 black 1
+black 1 blue 13 black 2
+black 1 blue 12 black 1 green 4
+black 2 blue 9 black 1 green 3
+black 2 blue 6 black 2 green 4
+black 2 blue 4 black 2 green 3
+green 7 black 6 green 6
+green 2 red 1 green 1 green 3
+green 5 red 3 green 6
+green 3 red 2 red 2 green 1
+green 7 green 1 red 3
+green 2 green 3 red 1
+green 2

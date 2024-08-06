@@ -1,0 +1,31 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "May 15, 2011"
+description "golfball on tee"
+difficulty 1.0
+height 5
+id 13938
+link "https://webpbn.com/play.cgi?id=13938"
+note "published,definitely unique,definitely trivial"
+quality 3.0
+title "minimal sport 2"
+width 5
+
+color white FFFFFF .
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1
+black 1
+black 2
+black 2 blue 3
+black 3 blue 1 black 1
+
+columns
+black 5
+black 3
+blue 1 black 1
+blue 2
+blue 1 black 1

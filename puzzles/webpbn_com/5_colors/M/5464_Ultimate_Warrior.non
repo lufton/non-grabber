@@ -1,0 +1,63 @@
+by "Jennifer Swanson (swannee54)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Jennifer Swanson"
+date "Mar 30, 2009"
+description "Flex Your Brain"
+difficulty 3.0
+height 20
+id 5464
+link "https://webpbn.com/play.cgi?id=5464"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Ultimate Warrior"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 12 black 4 green 3
+black 1 green 10 black 3 black 1 green 2
+blue 3 green 9 black 1 black 1 green 2
+red 3 black 1 black 1
+black 1 black 1 black 1
+black 1 blue 1 red 2 blue 1
+black 1 green 11 black 1 black 1 red 1 green 1
+black 1 green 11 black 1 red 1 green 1 blue 1
+black 2 green 11 black 1 blue 1 black 1 red 1
+black 1 black 3 black 4 black 1 black 1
+black 2 red 1 black 2 black 1
+blue 1 black 1 black 1
+red 1 black 1 black 1 green 1
+blue 1 black 3 black 1 green 2
+red 1 black 3 green 2
+black 1 red 1 black 4
+red 1 red 1 black 4
+blue 1 blue 1
+red 1 green 1 red 1 green 12
+black 1 green 15
+
+columns
+black 1 blue 1 red 1 black 2
+green 1 black 1 blue 1 red 1 black 1 black 1
+green 2 blue 1 red 1 black 1 black 2 green 1 black 1
+green 3 black 1 green 3 black 1
+green 3 green 3 black 1 black 1
+green 3 green 3 black 1 black 1 red 1 blue 1 red 1 green 1
+green 3 green 3 red 1 blue 1 red 1 blue 1 red 2 green 2
+green 3 green 3 black 1 black 1 red 1 blue 1 red 1 green 1
+green 3 green 3 black 1 black 1 black 1 green 2
+green 3 green 3 black 1 black 2 black 1 green 2
+green 3 green 3 black 1 black 1 green 2
+green 3 green 3 black 1 black 1 green 2
+green 1 black 3 green 3 black 3 black 1 green 2
+black 2 black 1 green 2 black 1 black 1 green 2
+black 2 blue 1 black 2 black 1 green 2
+black 1 red 1 black 2 green 2
+black 1 red 1 black 1 green 2
+green 1 black 4 blue 1 black 1 red 1 blue 1 black 2 green 2
+green 3 red 1 green 1 black 5 green 2 green 2
+green 3 green 1 blue 1 red 1 green 3 green 2

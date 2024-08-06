@@ -1,0 +1,48 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/26/16"
+height 13
+id 170770
+link "https://www.griddlers.net/nonogram/-/g/170770"
+medium_time "0:02:25"
+points 804
+popularity 77.0
+title "Looney Tunes"
+width 13
+
+color a 00ff99
+color b 000000
+color c 333333
+color d cc9900
+color e ffffff
+
+rows
+b 13
+b 1 b 1
+b 1 c 2 b 1
+b 1 c 3 b 1
+b 1 c 4 b 1
+b 1 c 1 e 1 c 2 b 1
+b 1 d 1 b 1 e 1 c 2 b 1
+b 1 d 4 e 2 d 3 b 1
+b 1 d 8 b 1
+b 1 d 3 c 1 b 1
+b 1 e 1 b 1
+b 1 c 3 b 1
+b 13
+
+columns
+b 13
+b 1 b 1
+b 1 d 2 b 1
+b 1 d 2 b 1
+b 1 d 3 b 1
+b 1 d 3 b 1
+b 1 c 3 b 1 e 1 d 2 b 1
+b 1 c 3 e 3 d 1 c 1 b 1
+b 1 c 5 d 2 c 1 e 1 c 1 b 1
+b 1 c 3 d 2 c 1 b 1
+b 1 d 2 b 1
+b 1 b 1
+b 13

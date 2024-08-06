@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Brian Bellis"
+date "Jan  4, 2017"
+description "of Green Gables"
+difficulty 1.5
+height 20
+id 29298
+link "https://webpbn.com/play.cgi?id=29298"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Anne"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 1
+black 3
+black 2 green 1 black 2
+black 5 green 3 black 12
+black 2 green 5 black 2
+black 2 green 7 black 2
+black 2 green 1 black 1 green 1 black 2
+black 1 green 2 black 1 green 2 black 2
+green 3 black 1 green 3 black 2
+green 3 black 1 green 4 black 2
+green 1 black 7 green 1 black 2
+green 1 black 1 green 1 black 2
+green 1 black 1 green 1 black 2
+green 1 black 1 green 1 black 2
+green 1 black 1 green 1 black 1
+green 9
+0
+0
+0
+0
+
+columns
+black 1 black 2 green 2
+black 1 black 2 green 3
+black 3 green 10
+black 2 green 1 black 1 green 1
+black 2 green 2 black 1 green 1
+black 2 green 3 black 1 green 1
+black 2 green 4 black 9 green 1
+black 2 green 3 black 1 green 1
+black 2 green 2 black 1 green 1
+black 2 green 1 black 1 green 1
+black 3 green 10
+black 1 black 2 green 3
+black 1 black 2 green 2
+black 1 black 2 green 1
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 2
+black 1 black 2

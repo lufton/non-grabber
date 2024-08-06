@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Oct 24, 2010"
+description "Thumb tacks."
+difficulty 2.0
+height 20
+id 10804
+link "https://webpbn.com/play.cgi?id=10804"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "A tacky puzzle."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 1
+black 1
+black 1
+blue 3 black 1 blue 3 green 3
+blue 3 black 1 blue 3 green 4
+blue 2 black 1 blue 1 green 6
+blue 1 black 1 green 6
+blue 2 blue 2 green 6
+blue 3 blue 3 black 1 green 5
+blue 1 black 1 blue 5 black 2 green 4
+black 1 black 2 green 4
+black 1 black 2 green 3
+red 3 black 1 red 3 black 2 green 2
+red 3 black 1 red 3
+red 1 black 1 red 2
+black 1 red 1
+red 1 red 2
+red 3 red 3
+red 7
+
+columns
+red 2 red 2
+blue 3 red 1 red 1
+blue 2 blue 2 red 2 red 2
+blue 1 blue 1 red 1 red 1
+blue 2 blue 2 red 1 red 1
+blue 1 black 7 red 1
+blue 1 blue 1 red 1 red 1
+black 7 blue 1 red 1 red 1
+blue 1 blue 1 red 2 red 2
+blue 1 blue 1 red 1 red 1
+blue 2 blue 2 black 1 red 2 red 2
+blue 1 blue 1 black 2 red 3
+blue 2 blue 2 black 2
+green 4 blue 1 black 2
+green 5 black 2
+green 6
+green 7
+green 7
+green 8
+green 6

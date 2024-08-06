@@ -1,0 +1,84 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/12/05"
+height 30
+id 23101
+link "https://www.griddlers.net/nonogram/-/g/23101"
+medium_time "0:25:13"
+points 31622
+popularity 82.94
+title "Grapes"
+width 30
+
+color a ffffff
+color b 006600
+color c 00bb00
+color e 330099
+color f 6600ff
+color g 000000
+color h 9933ff
+
+rows
+b 5
+b 1 b 3 c 5 b 3
+b 4 b 3 c 11 b 3
+b 2 c 2 b 6 c 6 b 1 c 1 b 3 c 6 b 2
+b 1 c 12 b 4 c 1 b 1 b 3 c 5 b 1
+b 3 c 6 b 3 b 1 g 4 b 3 c 2 b 1
+b 6 g 2 e 4 g 2 b 2
+b 2 c 1 b 2 g 1 e 1 f 4 e 3 g 1
+b 1 c 3 b 1 c 1 b 1 g 2 f 1 h 3 f 2 e 2 g 1
+b 1 c 3 b 1 c 2 b 1 g 3 e 1 f 1 h 1 h 1 f 2 e 3 g 1
+b 1 c 3 b 1 c 2 b 1 g 1 e 1 f 1 g 1 e 1 f 1 h 3 f 2 e 3 g 1
+b 1 c 2 b 1 c 3 b 1 g 1 f 1 h 1 g 1 e 1 f 6 e 3 g 1
+b 1 c 1 b 1 c 2 b 1 g 1 e 1 f 1 h 1 e 2 f 4 e 4 g 1
+b 2 c 2 b 1 g 1 e 1 f 1 h 2 g 1 e 8 g 2
+b 3 g 3 e 1 f 3 g 1 e 8 g 1 e 1 g 1
+g 1 e 1 f 1 g 1 e 2 f 1 g 1 e 1 g 2 e 4 g 2 e 2 g 1
+g 1 f 1 h 2 g 1 e 2 g 1 f 1 h 1 g 4 e 1 g 1 e 2 g 1
+g 1 e 1 f 1 h 1 g 1 e 1 g 1 e 1 f 1 h 3 f 2 e 3 g 1 e 1 g 1
+g 1 e 1 f 1 h 3 g 5 f 4 e 3 g 2
+g 1 e 1 f 3 g 2 e 4 g 2 f 2 e 3 g 1
+g 1 e 2 f 1 g 1 e 1 f 4 e 3 g 1 e 4 g 1
+g 1 e 1 g 2 f 1 h 3 f 2 e 2 g 1 e 3 g 1
+g 1 e 1 g 1 e 1 f 1 h 1 h 1 f 2 e 3 g 1 e 2 g 1
+g 2 e 1 f 1 h 3 f 2 e 3 g 3
+g 1 e 1 f 6 e 3 g 1
+g 1 e 2 f 4 e 4 g 1
+g 1 e 8 g 2
+g 1 e 8 g 1
+g 2 e 4 g 2
+g 4
+
+columns
+b 4 b 3
+b 2 c 1 b 1 b 1 c 3 b 2
+b 1 c 2 b 1 b 1 c 5 b 2
+b 1 c 2 b 1 b 1 c 3 b 2 c 1 b 1
+b 1 c 2 b 1 c 2 b 2 c 3 b 1
+b 1 c 2 b 3 c 4 b 1 g 4
+b 1 c 2 b 2 c 4 b 1 g 2 e 4 g 2
+b 1 c 2 b 1 b 4 g 1 e 1 f 4 e 3 g 1
+b 1 c 2 b 1 g 1 f 1 h 3 f 2 g 5
+b 1 c 2 b 1 g 4 h 1 h 1 f 1 g 2 e 4 g 2
+b 1 c 2 b 1 g 2 e 4 g 2 h 1 g 1 e 1 f 4 e 3 g 1
+b 1 c 2 b 1 g 1 e 1 f 4 e 3 g 2 f 1 h 3 f 2 e 2 g 1
+b 1 c 2 b 1 g 1 f 1 h 3 f 2 e 1 g 2 e 1 f 1 h 1 h 1 f 2 e 3 g 1
+b 1 c 2 b 1 g 4 h 1 f 1 g 2 e 1 g 1 e 1 f 1 h 3 f 2 e 3 g 1
+b 1 c 2 b 1 g 2 e 4 g 2 e 1 f 2 g 1 e 1 f 6 e 3 g 1
+b 1 c 2 b 1 g 1 e 1 f 4 e 3 g 1 h 2 g 1 e 2 f 4 e 4 g 1
+b 1 c 2 b 3 g 1 f 1 h 3 f 2 e 2 g 1 h 1 f 1 g 1 e 8 g 1
+b 1 c 4 g 1 e 1 f 1 h 1 h 1 f 2 e 3 g 1 h 1 f 1 g 1 e 8 g 1
+b 1 c 2 b 2 g 1 e 1 f 1 h 3 f 2 e 3 g 1 f 3 g 2 e 4 g 2
+b 1 c 2 b 1 g 1 e 1 f 6 e 3 g 1 f 3 e 2 g 5
+b 1 c 2 b 1 g 1 e 2 f 4 e 4 g 1 e 6 g 1
+b 1 c 2 b 1 g 1 e 8 g 1 e 7 g 1
+b 1 c 2 b 1 g 1 e 8 g 2 e 4 g 2
+b 1 c 2 b 1 g 2 e 4 g 2 e 2 g 4
+b 1 c 2 b 1 g 5 e 4 g 1
+b 1 c 2 b 1 g 4
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 1 c 2 b 1
+b 2

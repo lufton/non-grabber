@@ -1,0 +1,83 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Andrew Schultz"
+date "Aug 16, 2021"
+description "Australia. What with those straight borders, this was not too bad. Today's whole series came about when I thought back to wooden puzzles I remember from when I was young and also to name-the-country games I found on the Internet."
+difficulty 1.75
+height 30
+id 35298
+link "https://webpbn.com/play.cgi?id=35298"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Last one in the theme"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+red 2 green 1
+red 4 green 1
+red 4 green 3
+black 2 red 5 green 3
+black 4 red 6 green 4
+black 4 red 7 green 5
+black 7 red 7 green 2 green 5
+black 8 red 7 green 9
+black 9 red 7 green 10
+black 9 red 7 green 10
+black 9 red 7 green 10
+black 9 red 7 green 11
+black 10 red 7 green 12
+black 10 blue 10 green 10
+black 10 blue 10 green 10
+black 10 blue 10 green 9
+black 10 blue 10 black 9
+black 9 blue 5 blue 2 black 8
+black 7 blue 1 blue 2 black 7
+black 3 blue 3 black 4 blue 1 black 1
+blue 2 red 3 black 3
+blue 2 red 6
+blue 2 red 2 red 2
+blue 1
+green 1 green 1
+green 3
+green 3
+green 1
+0
+
+columns
+black 6
+black 11
+black 13
+black 14
+black 14
+black 13
+black 15
+black 15
+black 15
+black 14
+red 11 blue 4
+red 12 blue 4
+red 12 blue 5
+red 12 blue 5
+red 2 red 10 blue 5
+red 1 red 9 blue 6
+red 8 blue 5
+green 7 blue 4 blue 1
+green 7 blue 10
+green 6 blue 11
+green 9 black 4 red 3
+green 12 black 4 red 3
+green 14 black 4 red 2 green 3
+green 16 black 5 red 2 green 3
+green 14 black 3 blue 1 black 1 red 2 green 3
+green 11 black 5 red 1
+green 8 black 3
+green 5 black 2
+green 4 black 1
+green 2

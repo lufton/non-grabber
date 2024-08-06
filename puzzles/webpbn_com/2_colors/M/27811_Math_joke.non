@@ -1,0 +1,57 @@
+by "Belita (Belita)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Belita"
+date "Jan  1, 2016"
+description "An infinite number of mathematicians walks into a bar. The first one orders a beer. The second one orders half a beer. The third one orders a quarter of a beer. Then the bartender stops them, pours two beers, and says "You guys need to know your limits.""
+difficulty 1.5
+height 20
+id 27811
+link "https://webpbn.com/play.cgi?id=27811"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Math joke"
+width 20
+
+rows
+8
+1,1
+11
+1,8
+1,8
+1,8
+1,8
+11
+8,8
+1,1,8
+11,8
+8,1,6
+8,1
+8,1
+8,1
+11
+8
+8
+8
+6
+
+columns
+11
+1,10
+1,10
+1,10
+1,10
+1,10
+1,10
+11
+1,1
+6,1,1
+1,1,6
+1,1
+11
+1,10
+1,10
+1,10
+1,10
+1,10
+1,10
+11

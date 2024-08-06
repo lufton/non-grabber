@@ -1,0 +1,63 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Mar  4, 2024"
+description "Golden Bristlenose Pleco...a peaceful little nocturnal driftwood eater often seen sucking algae off the glass and plants. Loves cucumber, zucchini, and worms."
+difficulty 1.5
+height 20
+id 38315
+link "https://webpbn.com/play.cgi?id=38315"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "I have 1 of these..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 20
+0
+red 2
+green 1 green 1 red 3
+green 1 green 1 red 1 red 1
+green 1 green 1 red 3
+green 1 green 1 red 3
+green 2 green 1 red 5
+green 1 green 1 red 6
+green 1 green 1 red 7
+green 2 green 1 red 8
+green 1 green 1 red 1 red 3
+green 1 green 1 red 2
+green 1 green 1 red 2
+green 1 green 1 red 2
+green 1 green 1 red 2
+green 1 green 1 red 3
+green 1 green 1 red 4
+black 20
+
+columns
+blue 1 black 1
+blue 1 green 4 green 4 black 1
+blue 1 green 5 green 4 black 1
+blue 1 black 1
+blue 1 green 8 black 1
+blue 1 green 3 green 4 black 1
+blue 1 black 1
+blue 1 black 1
+blue 1 black 1
+blue 1 black 1
+blue 1 black 1
+blue 1 black 1
+blue 1 red 2 black 1
+blue 1 red 2 black 1
+blue 1 red 3 black 1
+blue 1 red 4 black 1
+blue 1 red 4 red 1 black 1
+blue 1 red 9 red 2 black 1
+blue 1 red 2 red 13 black 1
+blue 1 red 16 black 1

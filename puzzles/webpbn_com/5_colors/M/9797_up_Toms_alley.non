@@ -1,0 +1,63 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Jul 30, 2010"
+description ":)"
+difficulty 2.0
+height 20
+id 9797
+link "https://webpbn.com/play.cgi?id=9797"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "up Tom's alley"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3
+blue 5
+blue 5
+blue 1 blue 1 blue 1
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 black 1
+red 1 black 1 red 1
+black 1 red 3 black 1
+blue 1 black 1 red 1 black 1 blue 1
+blue 3 black 1 blue 3 black 5
+black 1 blue 7 black 1 black 7
+red 1 black 1 blue 3 black 1 red 1 black 3 black 4
+red 2 black 1 blue 1 black 1 red 2 black 5 black 3
+black 1 red 2 black 3 red 2 black 1 black 10
+blue 1 black 1 red 5 black 1 blue 1 black 3 black 6
+blue 1 black 1 red 3 black 1 blue 1 black 9 green 1
+blue 1 black 3 blue 1 black 8 green 1
+blue 5 black 7 green 2
+red 1 blue 3 red 1 black 4 green 3
+red 3 green 5
+
+columns
+black 1 red 2 black 1 blue 1
+blue 2 black 1 red 2 black 1 blue 2
+blue 3 black 1 black 1 blue 3 black 1 red 2 black 1 blue 1 red 1
+blue 3 blue 1 black 1 red 2 black 1 blue 3 black 1 red 2 black 1 blue 2 red 1
+blue 4 blue 1 black 1 red 2 black 1 blue 3 black 1 red 2 black 1 blue 2 red 1
+blue 3 blue 1 black 1 red 2 black 1 blue 3 black 1 red 2 black 1 blue 2 red 1
+blue 3 black 1 black 1 blue 3 black 1 red 2 black 1 blue 1 red 1
+blue 2 black 1 red 2 black 1 blue 2
+black 1 red 2 black 1 blue 1
+0
+black 4
+black 8
+black 10
+black 5 black 4 green 1
+black 2 black 7 green 1
+black 3 black 6 green 1
+black 9 green 2
+black 8 green 2
+black 6 green 2
+black 2 green 3

@@ -1,0 +1,48 @@
+by "Ian Smith (dragonfreak)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Ian Smith"
+date "Jul 28, 2007"
+description "a candle"
+difficulty 1.0
+height 20
+id 1126
+link "https://webpbn.com/play.cgi?id=1126"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "don't put out the flame"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1
+red 1
+red 3
+red 1 blue 1 red 1
+red 1 blue 1 red 1
+black 1
+black 1
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+green 5
+
+columns
+green 13
+red 3 green 13
+red 3 blue 2 black 2 green 13
+red 3 green 13
+green 13

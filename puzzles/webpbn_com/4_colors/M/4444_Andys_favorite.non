@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sarah Andrews"
+date "Dec 28, 2010"
+description "Aunt Bea has just put a deep-dish cherry pie on the window sill to cool."
+difficulty 1.5
+height 20
+id 4444
+link "https://webpbn.com/play.cgi?id=4444"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Andy's favorite?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 19
+black 19
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 2 black 1 black 2
+black 19
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 red 9 black 2
+black 2 red 3 red 1 red 1 red 3 black 2
+black 2 red 3 red 1 red 1 red 1 red 3 black 2
+black 2 blue 13 black 2
+black 2 blue 13 black 2
+black 2 blue 11 black 2
+black 2 blue 9 black 2
+black 19
+black 19
+black 19
+
+columns
+black 20
+black 20
+black 2 black 1 black 3
+black 2 black 1 red 1 blue 2 black 3
+black 2 black 1 red 2 blue 3 black 3
+black 2 black 1 red 3 blue 4 black 3
+black 2 black 1 red 2 blue 4 black 3
+black 2 black 1 red 1 red 1 blue 4 black 3
+black 2 black 1 red 2 blue 4 black 3
+black 7 red 1 red 1 blue 4 black 3
+black 2 black 1 red 2 blue 4 black 3
+black 2 black 1 red 1 red 1 blue 4 black 3
+black 2 black 1 red 2 blue 4 black 3
+black 2 black 1 red 3 blue 4 black 3
+black 2 black 1 red 2 blue 3 black 3
+black 2 black 1 red 1 blue 2 black 3
+black 2 black 1 black 3
+black 20
+black 20
+0

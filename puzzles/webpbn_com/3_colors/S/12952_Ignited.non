@@ -1,0 +1,51 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Gator"
+date "Mar 28, 2011"
+description "Toasting a marshmallow on a stick. It caught on fire! Hurry up and blow it out."
+difficulty 3.75
+height 15
+id 12952
+link "https://webpbn.com/play.cgi?id=12952"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Ignited"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1
+black 1 red 1 black 2 red 1 black 1
+black 1 black 1 red 1 red 1 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 1
+black 1 red 1 black 2 red 1 black 2 red 1 black 1
+black 2 red 1 black 1 red 1 black 1
+black 1 black 1 black 1 red 1 black 1 black 1
+black 1 black 1 red 1 black 1 black 1 black 1
+black 1 black 4 black 1
+black 1 black 3 black 1
+black 3 black 1
+black 4 black 2
+black 4 black 6
+black 4
+black 2
+
+columns
+black 2
+black 2
+black 2
+black 2
+black 2
+black 1 black 4 black 2
+black 2 red 1 black 1 black 2
+black 1 red 1 black 3 black 4
+black 1 red 1 black 2 red 1 red 1 black 3 black 1
+black 2 red 1 black 1 black 4 black 1
+black 1 red 1 black 1 red 1 black 1 black 1 black 1
+black 1 red 1 red 1 black 1 red 1 black 1 black 1
+black 1 red 1 black 1 red 1 black 2 black 2
+black 2 red 1 black 1 black 1
+black 1 black 5

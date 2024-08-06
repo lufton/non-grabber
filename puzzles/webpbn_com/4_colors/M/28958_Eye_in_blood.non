@@ -1,0 +1,62 @@
+by "Diana (dianaid)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Diana"
+date "Oct 24, 2016"
+description "Quite creepy.. Isn't it?"
+difficulty 1.75
+height 20
+id 28958
+link "https://webpbn.com/play.cgi?id=28958"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Eye in blood"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+black 1 black 1 black 1 black 1
+black 2 black 1 black 2 black 3 black 1
+black 1 black 1 black 1 black 1 black 2 black 2
+black 2 black 12
+black 1 black 3 green 3 black 5
+black 5 green 5 black 2
+black 2 green 7 black 4
+black 2 green 4 black 2 green 3 black 2
+black 2 green 4 black 2 green 3 black 2
+red 1 black 3 green 7 black 3 red 1
+red 1 black 1 red 1 black 3 green 5 black 3 red 1 black 1 red 1
+red 3 black 1 red 1 black 3 green 4 black 3 red 1 black 1 red 3
+red 5 black 1 red 1 black 5 red 1 black 1 red 6
+red 7 black 1 red 1 black 1 red 1 black 1 red 8
+red 20
+red 20
+red 20
+red 20
+
+columns
+black 2 black 2 red 9
+black 6 red 7
+black 2 black 2 black 1 red 8
+black 3 black 3 red 6
+black 2 black 1 red 7
+black 2 black 2 green 2 black 3 red 5
+black 3 green 4 black 1 red 6
+black 1 green 6 black 3 red 4
+black 4 green 8 black 1 red 5
+black 1 green 3 black 2 green 3 black 2 red 4
+black 3 green 3 black 2 green 3 black 1 red 5
+black 2 black 1 green 7 black 2 red 4
+black 2 green 4 black 1 red 6
+black 3 green 2 black 2 red 5
+black 1 black 1 black 2 red 6
+black 2 black 3 black 1 red 7
+black 5 black 3 red 6
+black 2 black 1 black 2 black 1 red 8
+black 1 black 5 red 7
+black 1 black 1 black 1 red 9

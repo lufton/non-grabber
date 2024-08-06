@@ -1,0 +1,56 @@
+by "ondryk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/8/08"
+height 20
+id 57931
+link "https://www.griddlers.net/nonogram/-/g/57931"
+medium_time "0:02:49"
+points 297
+popularity 61.1
+title "Ketchup"
+width 13
+
+color a ffff00
+color b ff0000
+color c 990000
+color d 009900
+color e 000000
+color f ffffff
+
+rows
+f 3
+c 3
+c 3
+c 3
+c 3
+c 3
+c 3
+c 5
+c 5
+c 7
+c 7
+e 1 c 6
+f 1 e 5 c 1 d 1 d 1
+f 5 e 1 c 1 d 4
+f 5 e 1 c 1 b 1 d 3 b 1
+f 5 e 1 b 1 d 1 b 2 d 1 b 2
+e 1 f 4 e 1 b 7
+c 1 e 5 b 7
+c 6 b 7
+c 5 b 5
+
+columns
+c 2 e 1 f 4 e 1 c 2
+c 5 e 1 f 4 e 1 c 2
+f 1 c 11 e 1 f 4 e 1 c 2
+f 1 c 11 e 1 f 4 e 1 c 2
+f 1 c 11 e 1 f 4 e 1 c 2
+c 5 e 6 c 2
+c 6 b 4
+d 2 b 1 d 1 b 4
+d 2 b 5
+d 2 b 5
+d 3 b 4
+d 1 b 6
+b 4

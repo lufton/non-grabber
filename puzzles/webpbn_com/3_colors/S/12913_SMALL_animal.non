@@ -1,0 +1,43 @@
+by "Jaime Lee (huileehui)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jaime Lee"
+date "Mar 20, 2011"
+description "glad to join you guys."
+difficulty 1.25
+height 11
+id 12913
+link "https://webpbn.com/play.cgi?id=12913"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "SMALL animal"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3
+black 5
+black 7
+black 9
+black 8 blue 1 black 1
+black 11
+black 8 black 1
+black 7 black 1
+black 7 black 2
+black 2 black 2
+black 2 black 2
+
+columns
+black 1
+black 7
+black 8
+black 8
+black 9
+black 9
+black 11
+black 10
+black 5
+black 2 blue 1 black 1 black 1
+black 6

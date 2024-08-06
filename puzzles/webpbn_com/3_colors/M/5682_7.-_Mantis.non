@@ -1,0 +1,56 @@
+by "Jota (jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Jota"
+date "Apr 20, 2009"
+description "Yoga instructor."
+difficulty 1.25
+height 20
+id 5682
+link "https://webpbn.com/play.cgi?id=5682"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "7.- Manti's"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+0
+black 3
+black 5
+black 1 green 3 black 1
+black 1 green 3 black 1
+black 2 green 3 black 2
+green 1
+green 1
+black 1 green 9 black 1
+black 3
+green 1
+black 1
+black 3
+black 3
+green 1 green 1
+green 1 green 1
+green 1 green 1
+green 1 green 1
+black 1 green 1 green 1 black 1
+0
+
+columns
+0
+0
+black 1
+green 1
+black 1 green 1
+black 4 green 1 black 1
+black 2 green 3 green 1 black 1 black 2 green 5
+black 2 green 6 black 1 green 1 black 3
+black 2 green 3 green 1 black 1 black 2 green 5
+black 4 green 1 black 1
+black 1 green 1
+green 1
+black 1
+0
+0

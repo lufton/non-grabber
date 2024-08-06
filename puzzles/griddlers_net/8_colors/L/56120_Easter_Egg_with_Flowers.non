@@ -1,0 +1,82 @@
+by "goldana"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/30/07"
+height 25
+id 56120
+link "https://www.griddlers.net/nonogram/-/g/56120"
+medium_time "0:28:36"
+points 21540
+popularity 82.65
+title "Easter Egg with Flowers"
+width 32
+
+color a ffffff
+color b ff0033
+color c 669900
+color d cc00cc
+color e ff66ff
+color f ff9900
+color g ffff33
+color h 990099
+
+rows
+b 5
+g 2 b 7
+b 3 g 2 b 6
+b 6 g 2 b 5
+h 2 b 6 g 2 b 3
+b 3 h 2 b 6 g 2 b 2 c 1
+b 5 h 2 b 6 g 2 c 1 c 1
+b 8 h 2 b 7 c 2 h 1 d 1
+b 10 h 2 b 5 c 1 h 1 c 1 h 1 d 1
+g 2 b 10 h 2 b 3 c 2 h 3 d 3
+b 2 g 2 b 10 h 2 b 1 c 1 h 2 d 5
+c 1 b 4 g 2 b 10 h 1 c 1 h 1 d 3
+c 3 c 1 b 6 g 2 b 9 c 1 d 4
+c 1 c 1 b 1 g 2 b 5 g 2 b 3 e 2 b 2 e 1 d 1
+c 2 g 2 f 1 g 1 b 5 c 1 b 1 g 2 b 1 e 3 d 1 e 3 c 2
+g 2 c 1 g 1 f 1 f 1 g 1 h 2 b 2 c 1 b 3 g 1 e 3 d 1 e 3 c 2 c 1
+g 2 f 1 g 1 c 2 g 1 f 1 g 2 b 2 h 2 b 1 c 1 b 4 e 2 f 2 e 1 d 2 c 2
+g 1 f 1 f 1 g 1 g 2 b 3 c 1 b 1 g 2 h 1 c 1 b 2 d 3 f 2 d 3 c 1
+g 1 f 1 g 2 c 2 g 2 c 2 g 2 f 1 g 1 b 1 h 1 c 1 b 1 d 3 e 2 d 2 c 1 c 2
+g 2 g 2 f 1 g 1 c 1 b 1 g 1 f 1 f 1 g 1 b 1 c 1 h 1 c 1 d 2 e 3 c 4
+c 1 g 1 f 1 f 1 g 1 c 2 g 1 f 1 g 2 b 1 c 5 e 2 c 1 g 2 c 1
+c 4 g 1 f 1 g 2 c 1 b 1 g 2 b 2 c 7 g 2 f 1 g 1 c 3
+c 2 c 1 g 2 c 15 g 1 f 1 f 1 g 1 c 1
+c 19 g 1 f 1 g 2 c 1
+c 18 g 2
+
+columns
+c 1 g 2
+c 2 g 1 f 1 g 2 c 1
+c 2 g 1 f 1 f 1 g 1 c 2
+c 2 g 2 f 1 g 1 c 2
+c 1 c 3 g 2 c 2
+g 2 c 1 c 1 g 2 c 1 c 1
+b 2 g 1 b 4 g 1 f 1 g 2 c 1 g 1 f 1 g 2 c 2
+b 4 g 1 b 3 g 1 f 1 f 1 g 2 f 1 f 1 g 1 c 2
+b 1 h 1 b 5 g 1 b 2 g 2 f 1 g 1 b 1 g 2 f 1 g 1 c 3
+b 2 h 1 b 5 g 1 b 4 g 2 b 1 c 2 g 2 c 3
+g 1 b 3 h 1 b 5 g 1 b 3 h 1 b 2 c 1 b 1 c 5
+g 1 b 3 h 1 b 5 g 1 b 3 h 1 b 1 c 1 g 2 c 1 b 1 c 3
+b 2 g 1 b 3 h 1 b 5 g 1 b 3 h 1 b 1 g 1 f 1 g 2 c 3
+b 2 g 1 b 3 h 1 b 5 g 1 b 3 h 1 g 1 f 1 f 1 g 1 c 3
+b 3 g 1 b 3 h 1 b 5 g 1 c 2 b 1 g 2 f 1 g 1 b 1 c 3
+b 3 g 1 b 3 h 1 b 5 g 1 b 2 c 1 h 1 b 1 g 2 b 1 c 3
+b 4 g 1 b 3 h 1 b 5 g 1 b 2 c 1 h 1 b 2 c 4
+b 3 g 1 b 3 h 1 b 5 g 1 b 3 c 7
+b 4 g 1 b 3 h 1 b 5 g 1 b 3 h 1 c 5
+b 3 g 1 b 3 h 1 b 3 e 3 b 1 d 2 c 6
+b 3 g 1 b 3 h 1 b 2 e 4 d 3 c 5
+b 1 g 1 b 3 h 1 b 3 e 3 d 3 c 5
+b 4 h 1 b 2 d 2 f 2 e 3 c 4
+c 1 c 4 e 3 f 2 e 3 g 2 c 2
+c 3 e 3 d 2 e 1 c 1 g 1 f 1 g 2
+c 2 h 3 e 2 d 3 g 1 f 1 f 1 g 1
+c 1 h 1 c 1 h 3 d 2 d 2 c 1 g 2 f 1 g 1
+d 1 h 2 d 3 c 1 c 1 g 2
+d 5 c 2 c 5 c 1
+d 4 c 1 c 1 c 1 c 2
+d 2 c 1 c 1 c 1
+d 1 c 1 c 1

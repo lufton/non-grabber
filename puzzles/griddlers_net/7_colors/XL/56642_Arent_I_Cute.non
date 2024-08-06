@@ -1,0 +1,95 @@
+by "myamollytaz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/9/08"
+height 44
+id 56642
+link "https://www.griddlers.net/nonogram/-/g/56642"
+medium_time "0:30:06"
+points 40815
+popularity 80.3
+title "Aren't I Cute?"
+width 27
+
+color a 66ff00
+color b 000000
+color c ffffff
+color e 00cccc
+color f bca94d
+color g 996600
+color h 663300
+
+rows
+h 4
+h 2 g 2 h 4
+h 2 f 3 g 3 h 2
+h 2 f 6 g 3 h 2
+h 2 f 5 g 1 b 2 g 3 h 2
+h 1 f 6 g 1 b 1 c 1 b 2 g 1 h 2
+h 1 f 7 g 2 b 2 g 1 f 2 h 1
+h 1 f 9 g 4 f 2 h 1
+h 1 f 6 g 1 h 1 g 1 f 6 h 2
+h 1 f 3 g 3 f 1 h 1 g 2 h 1 g 4 f 2 h 1
+h 2 f 2 g 1 b 2 g 4 h 1 g 6 f 1 h 1
+g 1 h 1 f 1 b 3 c 1 b 1 h 2 g 1 h 2 g 1 h 3 g 1 f 1 h 1
+g 2 h 1 f 1 g 2 b 2 f 1 g 4 h 1 b 3 g 2 f 1 h 1
+g 2 h 1 f 1 g 4 f 1 g 3 h 1 b 2 h 2 g 1 f 2 h 1
+g 1 h 1 f 2 g 2 f 1 g 4 h 1 b 1 h 4 f 2 h 1
+h 2 f 5 g 3 h 1 b 1 h 4 g 1 f 1 h 2
+h 4 f 3 g 1 h 8 f 2 h 1
+h 1 f 3 g 1 h 4 g 1 h 1 g 2 f 2 e 1
+h 2 f 2 g 3 h 1 g 4 f 2 e 3
+e 1 f 12 e 2 h 2
+e 2 f 9 e 3 f 2 h 1
+e 3 f 4 e 6 h 2 f 1 h 1
+h 2 e 10 h 2 g 1 f 1 h 1
+h 1 f 4 e 3 f 1 h 2 f 1 h 2 g 1 h 1 g 1 h 2
+h 1 f 8 h 3 g 2 f 1 g 2 f 1 h 1
+h 1 f 9 h 1 g 1 f 6 h 1
+h 1 f 9 g 2 f 6 h 1
+h 1 f 17 h 1
+h 1 f 17 h 1
+h 1 f 17 h 1
+h 3 h 1 f 11 g 1 f 5 h 2
+h 1 f 1 h 1 h 2 g 1 f 10 g 1 f 5 h 3
+h 1 f 1 h 3 f 1 g 1 f 4 g 1 f 5 g 1 f 5 h 1 f 1 h 1
+h 1 f 1 h 1 f 1 h 1 f 2 g 1 f 4 g 1 f 5 g 1 f 7 h 1
+h 1 f 1 h 1 f 1 h 1 f 3 g 1 f 3 g 1 f 5 g 1 f 7 h 1
+h 1 f 2 h 2 f 3 g 1 f 4 g 1 f 4 g 1 f 4 g 1 f 2 h 1
+h 1 f 3 h 2 f 2 g 1 f 4 g 2 f 3 g 1 f 3 g 1 f 2 h 2
+h 1 f 4 g 1 f 1 g 2 f 3 g 3 f 1 g 2 f 2 g 4 h 1
+h 4 f 1 g 1 f 1 g 2 f 3 g 13
+g 1 f 2 g 2 f 1 g 2 f 1 g 9 f 1 g 2
+g 2 f 4 g 2 f 1 g 1 f 1 g 5 f 3 g 1 f 3 g 1
+g 1 f 5 g 1 f 5 g 3 f 5 g 3
+g 6 f 5 g 1 g 1 f 5 g 1
+g 5 g 5
+
+columns
+h 4
+h 3 f 4 h 2
+g 2 h 1 f 2 h 2 f 3 h 1
+h 1 g 4 h 2 h 3 f 2 h 1 f 2 h 1 g 2
+h 8 h 5 f 1 h 1 g 1 f 1 g 1
+h 2 f 7 h 1 h 2 f 3 h 1 f 2 g 1 f 2 g 1
+h 1 f 4 b 1 g 2 f 2 h 3 h 9 f 5 g 2 f 3 g 1
+h 1 f 4 g 1 b 1 g 3 f 3 h 1 e 3 h 1 f 8 g 3 f 8 g 1
+h 1 f 4 g 1 b 3 g 2 f 5 e 2 h 1 f 11 g 6 f 2 g 1
+h 1 f 4 g 1 b 1 c 1 b 1 g 1 f 7 e 2 f 14 g 6
+h 1 f 5 g 2 b 1 f 2 g 5 f 3 e 1 f 17 g 1 f 2 g 1
+h 1 f 6 g 1 h 1 g 4 h 2 g 1 f 3 e 2 f 15 g 1 f 3 g 1
+h 1 f 5 g 1 h 1 g 1 h 1 g 4 h 2 g 1 f 3 e 2 f 8 g 3 f 4 g 2 f 2 g 1
+h 1 f 5 h 1 g 6 h 4 f 3 e 2 f 11 g 4 f 4 g 1
+h 1 f 3 g 2 f 1 g 2 h 2 g 1 h 2 b 1 h 2 g 1 f 2 e 2 f 13 g 5 f 2 g 1
+h 1 f 2 g 1 b 1 g 2 f 1 h 1 g 1 h 2 b 2 h 2 g 2 f 2 e 2 h 2 f 12 g 6
+g 1 f 2 b 1 c 1 b 1 g 1 f 1 g 3 b 2 h 4 g 1 f 2 e 2 h 3 g 1 f 11 g 4
+h 1 g 2 f 1 b 3 g 1 f 1 g 2 h 1 b 1 h 4 g 2 f 2 e 2 f 1 h 1 g 2 f 10 g 6
+h 2 g 3 b 1 g 2 f 1 g 2 h 1 b 1 h 4 g 1 f 2 e 3 h 1 g 1 f 5 g 11 f 2 g 1
+h 2 g 4 f 3 g 2 h 1 g 2 h 1 g 1 f 4 e 2 h 2 g 1 f 13 g 2 f 3 g 1
+h 3 g 2 h 1 f 4 g 3 f 5 e 3 h 2 g 1 f 14 g 2 f 3 g 1
+h 8 f 6 h 2 e 3 f 1 h 1 g 1 h 1 g 1 f 12 g 3 f 3 g 1
+h 2 h 8 e 1 h 1 f 3 g 2 f 11 g 5 f 2 g 1
+h 5 f 11 g 1 f 1 g 2 f 2 g 2
+h 10 f 4 g 3 f 1 g 1
+h 2 f 4 h 2 g 2 f 1 g 1
+h 6 g 1

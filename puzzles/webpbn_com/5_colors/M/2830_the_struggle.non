@@ -1,0 +1,63 @@
+by "C-Dog (ninja)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by C-Dog"
+date "Jun  3, 2008"
+description "peace"
+difficulty 1.5
+height 20
+id 2830
+link "https://webpbn.com/play.cgi?id=2830"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "the struggle"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 6 blue 8 red 6
+red 3 blue 3 black 1 green 4 black 1 blue 3 red 3
+red 2 blue 2 black 1 green 4 black 1 blue 2 red 2
+red 1 blue 2 black 1 green 4 black 1 blue 2 red 1
+red 1 blue 1 black 1 green 4 black 1 blue 1 red 1
+red 1 blue 1 black 1 green 4 black 1 blue 1 red 1
+blue 1 black 1 green 4 black 1 blue 1
+blue 1 black 1 green 4 black 1 blue 1
+blue 1 black 1 green 4 black 1 blue 1
+blue 1 black 1 green 5 black 2 blue 1
+blue 1 black 1 green 8 black 1 blue 1
+blue 1 black 1 green 10 black 1 blue 1
+blue 1 black 1 green 12 black 1 blue 1
+blue 1 black 1 green 4 black 1 green 4 black 1 green 4 black 1 blue 1
+blue 1 black 1 green 4 black 2 green 4 black 2 green 4 black 1 blue 1
+red 1 blue 2 green 2 black 1 black 1 green 4 black 1 black 1 green 3 blue 1 red 1
+red 2 blue 1 green 1 black 1 black 1 green 4 black 1 black 1 green 1 blue 1 red 2
+red 3 blue 1 black 1 green 4 black 1 blue 1 red 3
+red 4 blue 2 black 1 green 4 black 1 blue 2 red 4
+red 6 blue 9 red 5
+
+columns
+red 6 blue 9 red 5
+red 3 blue 3 black 1 blue 1 red 4
+red 2 blue 2 black 1 green 1 blue 2 red 3
+red 1 blue 2 black 1 green 4 blue 1 red 2
+red 1 blue 1 black 1 green 4 black 1 blue 1 red 1
+red 1 blue 1 black 1 green 4 black 1 blue 1 red 1
+blue 1 black 1 green 4 black 1 blue 1
+blue 1 black 8 green 4 black 6 blue 1
+blue 1 green 18 blue 1
+blue 1 green 18 blue 1
+blue 1 green 18 blue 1
+blue 1 green 18 blue 1
+blue 1 black 9 green 3 black 6 blue 1
+blue 1 black 1 green 4 black 1 blue 1
+red 1 blue 1 black 1 green 4 black 1 blue 2
+red 1 blue 1 black 1 green 4 black 1 blue 1 red 1
+red 1 blue 2 black 1 green 4 blue 1 red 2
+red 2 blue 2 black 1 green 2 blue 1 red 3
+red 3 blue 3 black 1 blue 1 red 4
+red 6 blue 9 red 5

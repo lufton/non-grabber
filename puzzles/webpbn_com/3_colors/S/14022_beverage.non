@@ -1,0 +1,45 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 20, 2011"
+description "bottle of coca cola"
+difficulty 1.25
+height 14
+id 14022
+link "https://webpbn.com/play.cgi?id=14022"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "beverage"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3
+red 5
+black 3
+black 3
+black 3
+black 5
+black 5
+black 2 red 2 black 1
+black 1 red 1 black 3
+black 1 red 1 black 3
+black 1 red 1 black 3
+black 2 red 2 black 1
+black 7
+
+columns
+0
+0
+black 1
+red 1 black 8
+red 2 black 6 red 3 black 2
+red 2 black 5 red 1 black 3 red 1 black 1
+red 2 black 5 red 1 black 3 red 1 black 1
+red 1 black 8
+black 1
+0

@@ -1,0 +1,56 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Jill Tallmer"
+date "Oct  5, 2018"
+description "your namesake"
+difficulty 1.75
+height 20
+id 31659
+link "https://webpbn.com/play.cgi?id=31659"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "For Bill Eisenmann"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4 red 5 black 4
+black 3 red 7 black 3
+black 2 red 9 black 2
+black 1 red 1 black 3 red 3 black 3 red 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 1 black 1 black 3 black 1 red 1 black 1
+black 1 red 1 black 1 black 1 black 1 red 1 black 1
+red 1 black 2 black 2 red 1
+red 2 black 1 black 1 red 2
+red 1 black 1 black 4 black 4 black 1 red 1
+red 1 black 1 black 1 red 1
+red 1 black 2 black 2 red 1
+red 1 black 2 black 2 red 1
+black 1 red 1 black 2 black 2 red 1 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 2 black 1 black 3 black 1 red 2 black 1
+black 1 red 2 black 1 black 1 red 2 black 1
+black 2 red 1 black 2 black 2 red 1 black 2
+black 3 red 1 black 5 red 1 black 3
+black 4 red 5 black 4
+
+columns
+black 7 red 4 black 7
+black 3 red 2 black 3 red 1 black 3
+black 2 red 4 black 2 black 2 red 4 black 2
+black 1 red 1 black 5 black 1 black 2 red 4 black 1
+red 2 black 1 black 1 black 5 red 1
+red 3 black 1 black 1 black 2 red 1
+red 4 black 2 black 1 black 1 black 1 red 1
+red 5 black 2 black 1 black 1 red 1
+red 4 black 2 black 1 black 1 black 1 red 1
+red 3 black 1 black 1 black 2 red 1
+red 2 black 1 black 1 black 5 red 1
+black 1 red 1 black 5 black 1 black 2 red 4 black 1
+black 2 red 4 black 2 black 2 red 4 black 2
+black 3 red 2 black 3 red 1 black 3
+black 7 red 4 black 7

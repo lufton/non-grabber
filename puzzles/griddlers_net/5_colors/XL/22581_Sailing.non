@@ -1,0 +1,87 @@
+by "maristone"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/26/05"
+height 25
+id 22581
+link "https://www.griddlers.net/nonogram/-/g/22581"
+medium_time "0:22:42"
+points 42766
+popularity 64.15
+title "Sailing"
+width 40
+
+color a 9bbffe
+color b 430000
+color c a0664c
+color d 008f00
+color e 00aa7f
+
+rows
+b 1
+b 1 c 1
+b 1 c 4
+c 3 c 3 b 1 c 2 c 2
+c 5 c 5 c 2 c 2
+c 3 c 5 c 3 c 1 c 2
+c 2 c 7 c 2 c 1 c 2
+c 5 b 1 c 1 b 1 c 5 c 2 c 2
+c 3 b 1 c 1 b 1 c 3 b 1 c 1 c 1
+c 2 b 3 c 2 b 1 c 1 c 2
+c 4 c 3 b 1 c 1 b 1 c 3 b 1 c 1 c 1
+c 2 c 3 c 2 b 5 c 2 b 1 c 1 c 2
+c 1 c 2 c 2 b 3 c 2 b 1 c 2 c 1
+c 1 c 2 c 5 b 1 c 1 c 1
+c 2 c 2 c 1 c 7 b 1 c 2 c 1
+c 3 c 2 c 9 b 1 c 2 c 1
+c 1 c 9 b 1 c 2 c 1 d 4
+e 1 d 4 c 11 c 2 d 5 e 3 d 1
+e 3 d 2 c 13 d 6 e 8 d 1
+e 1 d 2 e 1 d 16 e 7 d 2 e 4 d 1
+e 1 d 2 e 9 d 4 e 6 d 5 e 5 d 1
+d 3 e 15 d 7 e 4 d 2
+e 1 d 3 e 20 d 3
+e 1 d 3 e 16 d 3
+e 1 d 17
+
+columns
+c 4 e 1
+c 2 c 2 d 1 e 1
+c 1 c 1 d 1 e 1
+c 1 c 2 d 1 e 1
+c 2 c 1 d 2 e 1
+c 1 d 2 e 1
+c 2 d 3
+c 2 d 2
+c 2 c 3 e 2 d 1 e 1
+c 4 c 4 d 1 e 2 d 1
+c 3 c 2 c 2 d 1 e 2 d 1 e 1
+c 2 c 2 c 2 c 4 d 1 e 2 d 2
+c 2 c 7 c 5 d 1 e 3 d 1 e 1
+c 4 b 1 c 2 b 1 c 7 d 1 e 3 d 2
+c 2 b 1 b 4 c 6 d 1 e 4 d 1
+c 4 b 1 c 1 b 2 c 6 d 1 e 4 d 1
+c 2 b 1 b 4 c 6 d 1 e 4 d 1
+c 4 b 1 c 2 b 1 c 7 d 2 e 3 d 1
+c 2 c 7 c 5 d 2 e 3 d 1
+c 2 c 2 c 2 c 4 d 2 e 3 d 1
+c 3 c 2 c 1 d 2 e 3 d 1
+b 4 c 4 b 9 c 2 d 1 e 4 d 1
+c 2 c 2 c 2 d 1 e 4 d 1
+c 2 c 2 d 1 e 4 d 1
+c 3 c 2 d 1 e 1 d 1 e 2 d 1
+c 1 c 4 c 3 d 1 e 2 d 1 e 2 d 1
+c 1 c 6 d 1 e 2 d 1 e 2 d 1
+c 2 d 1 e 1 d 2 e 2 d 1
+c 2 d 1 e 1 d 2 e 2 d 1
+c 2 d 1 e 1 d 2 e 2 d 1
+c 2 d 1 e 1 d 2 e 1 d 1
+c 3 d 1 e 2 d 1 e 2 d 1
+c 3 c 1 d 1 e 1 d 1 e 2 d 2
+c 5 d 1 e 1 d 1 e 2 d 1
+d 1 e 4 d 1
+d 1 e 3 d 1
+d 1 e 4 d 1
+d 1 e 3 d 1
+d 1 e 2 d 1
+d 3

@@ -1,0 +1,41 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 27, 2011"
+description "Hibiscus"
+difficulty 1.25
+height 10
+id 14214
+link "https://webpbn.com/play.cgi?id=14214"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Particular Flower"
+width 10
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+black 2
+green 1 black 3 green 1
+green 1 black 1 green 1 black 3
+black 3 green 2 black 3
+black 7
+black 2 black 4
+black 3
+black 2
+0
+
+columns
+black 2
+black 3
+green 1 black 2
+black 2 green 1 black 2
+black 3 green 1 black 2
+black 1 green 2 black 3
+green 1 black 6
+black 2 black 3
+black 2
+0

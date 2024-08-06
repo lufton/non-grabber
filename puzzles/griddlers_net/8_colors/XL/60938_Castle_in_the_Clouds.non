@@ -1,0 +1,107 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/6/08"
+height 41
+id 60938
+link "https://www.griddlers.net/nonogram/-/g/60938"
+medium_time "0:30:44"
+points 35844
+popularity 73.25
+title "Castle in the Clouds"
+width 41
+
+color a 6633ff
+color b fdd779
+color c 82c4f8
+color d def2f7
+color e d6cef7
+color f ffdeff
+color g ffffef
+color h 5a815a
+
+rows
+b 2
+b 4 c 2
+b 2 c 2 d 1 c 3
+c 3 d 1 d 1 c 3 d 1
+b 1 c 2 d 2 c 1 d 1
+c 6 b 1
+b 1 b 1 c 3 d 1 b 3
+b 3 b 1 c 1 c 4
+b 1 c 5 e 1 b 1 c 2 d 1 d 1 c 1
+c 2 d 1 d 1 c 3 e 3 c 8
+b 1 c 2 d 1 c 1 d 1 e 3 b 1 c 3 d 1
+c 4 d 1 e 2 f 1 e 2 b 1
+b 1 e 3 f 1 e 3 e 1
+b 1 e 2 f 3 e 2 e 3
+e 1 e 4 f 2 e 3 e 2 f 1 e 2
+e 3 e 3 f 1 e 1 f 2 e 2 e 3 f 1 e 2
+e 4 e 5 f 4 e 2 e 3 f 3 e 2
+e 2 f 2 e 2 e 5 f 1 e 1 f 4 e 2 e 5 f 3 e 2
+e 4 f 2 e 2 e 7 f 1 e 1 f 4 e 6 f 1 e 1 f 2 e 2
+e 4 f 1 e 1 f 2 e 10 f 5 e 7 f 1 e 1 f 2 e 2
+e 5 f 3 e 9 f 1 e 1 f 5 e 8 f 2 e 2
+e 5 f 1 e 1 f 2 e 10 f 1 e 1 f 5 e 3 b 2 e 6
+e 21 f 4 e 3 b 2 g 1 b 3 e 2
+e 5 b 2 e 20 b 3 g 3 b 2
+e 2 b 2 g 3 b 3 e 4 b 5 e 5 g 1 b 3 g 1 h 2 g 1 b 2
+b 3 g 2 h 2 g 1 b 6 g 5 b 4 g 2 b 4 h 2 g 1 b 2
+b 3 g 2 h 2 g 1 b 4 g 1 h 2 g 6 h 2 g 2 b 3 g 1 h 2 g 1 b 2
+b 3 g 2 h 2 g 1 b 3 g 2 h 2 g 6 h 2 g 2 b 4 g 3 b 2
+b 2 h 2 g 4 b 4 g 1 h 2 g 6 h 2 g 2 b 3 g 4 b 2
+b 2 h 2 g 4 b 3 g 14 b 4 g 3 b 2
+e 5 h 1 g 4 b 4 g 13 b 3 g 4 b 2 e 2
+e 7 g 3 b 3 g 6 h 2 g 6 b 4 g 3 b 2 e 4
+e 8 g 2 b 4 g 4 h 4 g 5 b 1 e 13
+e 9 g 1 b 3 g 5 h 4 g 4 e 15
+e 11 b 3 g 4 h 4 g 3 e 16
+e 13 g 5 h 4 g 2 e 17
+e 14 g 4 h 4 e 19
+e 15 g 3 h 1 e 22
+e 15 g 3 e 23
+e 41
+e 41
+
+columns
+e 11
+e 3 e 11
+e 6 b 5 e 11
+e 7 b 5 e 11
+e 7 b 4 h 2 e 11
+e 8 b 1 g 3 h 3 e 10
+b 1 e 2 f 1 e 1 f 1 e 1 f 1 e 1 b 1 g 7 e 10
+b 3 c 1 b 1 c 1 b 2 e 3 f 2 e 1 f 1 e 2 b 1 g 1 h 3 g 4 e 9
+b 1 c 3 e 3 f 4 e 2 g 1 h 3 g 5 e 8
+c 1 d 1 c 2 e 2 f 3 e 2 b 1 g 9 e 7
+c 1 d 1 c 1 e 6 b 10 e 7
+c 1 d 1 c 1 d 1 e 5 b 11 e 6
+c 2 d 1 e 7 b 10 e 6
+c 2 e 8 b 2 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 g 1 e 5
+c 1 e 9 b 1 g 11 e 4
+e 11 b 1 h 3 g 10 e 2
+e 12 b 1 g 1 h 3 g 10 e 2
+e 13 b 1 g 14 e 2
+b 1 e 4 f 1 e 1 f 1 e 1 f 1 e 6 b 1 g 7 h 6 e 3
+b 3 c 1 b 1 c 1 b 2 e 3 f 4 e 1 f 1 e 1 f 1 e 1 f 1 e 3 b 1 g 6 h 6 e 4
+b 3 c 4 e 4 f 5 e 1 f 1 e 1 f 1 e 2 b 1 g 6 h 6 e 4
+b 1 c 4 e 4 f 6 e 4 b 1 g 6 h 5 e 4
+c 1 d 2 c 2 e 4 f 7 e 2 b 1 g 10 e 5
+c 1 d 1 c 1 d 1 e 3 f 6 e 2 b 1 h 3 g 7 e 5
+c 1 d 1 c 1 e 2 f 5 e 2 b 1 h 3 g 6 e 6
+c 2 d 1 c 1 e 3 f 3 e 2 g 9 e 7
+c 2 d 1 e 3 f 1 e 2 g 9 e 8
+c 2 e 7 b 9 e 8
+c 1 e 7 b 9 e 9
+e 7 b 10 e 9
+d 1 e 7 b 3 g 1 b 1 g 1 b 1 g 1 b 1 g 1 b 1 e 9
+b 1 e 3 f 1 e 1 f 1 e 2 b 1 g 2 h 3 g 5 e 9
+b 2 c 1 b 1 c 1 b 2 e 2 f 4 e 1 f 1 e 2 b 1 g 1 h 3 g 5 e 9
+b 1 c 3 e 3 f 3 e 3 b 1 g 9 e 9
+c 4 e 3 f 4 e 1 b 10 e 9
+c 1 d 1 c 2 e 3 f 2 e 2 b 9 e 9
+c 1 c 1 d 1 e 6 e 11
+c 1 d 1 c 1 e 3 e 11
+c 2 e 10
+c 1 e 10
+e 9

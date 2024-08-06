@@ -1,0 +1,63 @@
+by "geert (geert)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by geert"
+date "Feb  4, 2009"
+description ""
+difficulty 1.5
+height 20
+id 4923
+link "https://webpbn.com/play.cgi?id=4923"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "tree star wolk"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 red 5 red 2
+red 2 red 1 blue 2 red 3 blue 3 red 1
+red 2 blue 5 red 3 blue 5 red 1
+red 2 blue 2 red 3 blue 2 red 1
+red 3 red 7 red 2
+red 20
+red 20
+red 20
+red 4 red 5 red 5 red 3
+red 3 red 3 red 3 red 2
+red 4 red 5 red 5 red 3
+red 20
+red 20
+red 3 green 1 red 6 green 1 red 4 green 1 red 4
+red 2 green 3 red 4 green 3 red 2 green 3 red 3
+red 3 green 1 red 6 green 1 red 4 green 1 red 4
+red 3 black 1 red 6 black 1 red 4 black 1 red 4
+red 3 black 1 red 6 black 1 red 4 black 1 red 4
+red 3 black 1 red 6 black 1 red 4 black 1 red 4
+red 2 black 3 red 4 black 3 red 2 black 3 red 3
+
+columns
+red 20
+red 20
+red 1 red 10 green 1 red 4 black 1
+red 1 blue 1 red 4 red 3 green 3 black 4
+red 1 blue 2 red 3 red 3 green 1 red 4 black 1
+blue 3 red 4 red 10
+blue 2 red 15
+blue 1 red 16
+red 1 red 16
+red 9 red 4 green 1 red 4 black 1
+red 8 red 2 green 3 black 4
+red 9 red 4 green 1 red 4 black 1
+red 1 red 16
+blue 1 red 16
+blue 2 red 9 green 1 red 4 black 1
+blue 3 red 4 red 3 green 3 black 4
+blue 3 red 3 red 3 green 1 red 4 black 1
+blue 1 red 4 red 10
+red 1 red 16
+red 20

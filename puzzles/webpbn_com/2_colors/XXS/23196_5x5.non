@@ -1,0 +1,27 @@
+by "Horace (horace)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Horace"
+date "Nov 23, 2013"
+description "I tried to make a challenging 5x5. Probably failed."
+difficulty 2.5
+height 5
+id 23196
+link "https://webpbn.com/play.cgi?id=23196"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "5x5"
+width 5
+
+rows
+2
+1,2
+2
+2,1
+1,2
+
+columns
+2
+1,2
+2
+2,1
+1,2

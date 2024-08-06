@@ -1,0 +1,121 @@
+by "Sir Percival (sirpercival)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Sir Percival"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 65
+id 25443
+link "https://webpbn.com/play.cgi?id=25443"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Bad Wolf"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 5
+black 2 blue 3 black 2
+black 1 blue 5 black 1
+black 1 blue 5 black 1
+black 1 blue 5 black 1
+black 1 blue 1 black 3 blue 1 black 1
+black 2 black 2
+0
+black 3 black 3
+black 4 black 4
+black 6 black 5
+black 7 black 5 blue 1 black 1
+black 9 black 5 blue 1 black 3
+black 11 black 5 blue 1 black 3 blue 1
+black 13 black 5 blue 1 black 3 blue 1 black 2
+black 14 black 5 blue 1 black 3 blue 1 black 4
+black 16 black 5 blue 1 black 3 blue 1 black 4
+black 16 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 15 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 15 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 15 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 black 7 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 3 blue 1 black 3 blue 1
+blue 1 black 6 blue 1 black 6 black 5 blue 1 black 4 black 3 blue 1
+blue 1 black 6 black 7 black 6 black 8 blue 1
+blue 1 black 15 black 15 blue 1
+blue 1 black 15 black 15 blue 1
+blue 1 black 15 black 15 blue 1
+blue 1 black 15 black 15 blue 1
+black 16 black 16
+black 16 black 16
+black 14 black 14
+black 12 black 12
+black 10 black 10
+black 8 black 8
+black 6 black 6
+black 4 black 4
+black 2 black 2
+
+columns
+black 2 blue 38 black 2
+black 42
+black 44
+black 45
+black 46
+black 47
+black 48
+black 9 black 9
+black 9 black 10
+black 11 blue 29 black 11
+black 53
+black 53
+black 55
+black 57
+black 6 black 57
+black 2 blue 4 black 1 black 56
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 2 blue 4 black 1 black 56
+black 6 black 57
+black 57
+black 55
+black 53
+blue 40 black 12
+black 10
+black 51
+black 49
+black 49
+blue 37 black 10
+black 9
+black 45
+black 45
+black 43
+black 2 blue 39 black 2

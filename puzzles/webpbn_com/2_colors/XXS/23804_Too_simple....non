@@ -1,0 +1,27 @@
+by "RB (rb2013)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by RB"
+date "Feb 12, 2014"
+description "Good luck! Can you solve it in 2 minutes?"
+difficulty 2.25
+height 5
+id 23804
+link "https://webpbn.com/play.cgi?id=23804"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "Too simple..."
+width 5
+
+rows
+1,1
+2
+1,1
+1,1
+1,2
+
+columns
+2
+1,1
+1,1
+1,2
+1,1

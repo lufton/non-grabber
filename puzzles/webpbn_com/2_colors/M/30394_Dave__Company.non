@@ -1,0 +1,67 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by David Bouldin"
+date "Mar 22, 2018"
+description "Foo Fighters logo from their 9th album, Concrete and Gold"
+difficulty 2.75
+height 25
+id 30394
+link "https://webpbn.com/play.cgi?id=30394"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Dave & Company"
+width 25
+
+rows
+0
+1,1
+2,2
+3,3
+4,4
+5,5
+5,5
+5,5
+5,7
+5,9
+5,4,5
+5,1,3,5
+5,2,2,5
+5,3,1,5
+5,4,5
+9,5
+7,5
+5,5
+5,5
+5,5
+4,4
+3,3
+2,2
+1,1
+0
+
+columns
+1
+3
+5
+7
+9
+5,5
+5,5
+5,5
+5,7
+5,9
+5,5,5
+5,5,5
+0
+5,5,5
+5,5,5
+9,5
+7,5
+5,5
+5,5
+5,5
+9
+7
+5
+3
+1

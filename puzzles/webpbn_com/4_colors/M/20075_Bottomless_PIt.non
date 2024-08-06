@@ -1,0 +1,62 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Oct 15, 2012"
+description "Portal"
+difficulty 1.75
+height 20
+id 20075
+link "https://webpbn.com/play.cgi?id=20075"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Bottomless PIt"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 14
+black 4
+black 4
+black 5
+black 2 black 3
+black 2 black 2
+black 2 black 2
+black 2 black 2
+0
+0
+0
+black 2
+black 2 black 4 black 2
+black 3 black 4 black 3
+black 3 black 2 black 3
+black 3 black 3
+black 8
+black 6
+black 4
+blue 14
+
+columns
+0
+0
+0
+red 1 black 2 blue 1
+red 1 black 3 blue 1
+red 1 black 3 blue 1
+red 1 black 3 blue 1
+red 1 black 3 blue 1
+red 1 black 7 black 2 black 3 blue 1
+red 1 black 7 black 4 black 3 blue 1
+red 1 black 3 black 4 black 3 blue 1
+red 1 black 4 black 2 black 3 blue 1
+red 1 black 5 black 3 blue 1
+red 1 black 4 black 3 blue 1
+red 1 black 3 blue 1
+red 1 black 3 blue 1
+red 1 black 2 blue 1
+0
+0
+0

@@ -1,0 +1,56 @@
+by "A Lathe (Fozzielathe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by A Lathe"
+date "Jun 26, 2013"
+description "Icicles!!!!!!"
+difficulty 1.25
+height 20
+id 22272
+link "https://webpbn.com/play.cgi?id=22272"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Glittering points that downward thrust, Sparkling spears that never rust."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 black 1 black 1 blue 1
+black 2 black 2 black 2 blue 1
+blue 1 black 1 black 1 black 1 blue 2
+blue 1 black 1 black 1 black 1 blue 2
+blue 1 black 2 black 2 black 1 blue 2
+blue 2 black 1 black 1 black 1 blue 2
+blue 2 black 2 black 2 black 1 blue 2
+blue 3 black 4 black 2 blue 2
+blue 4 black 2 black 1 blue 3
+blue 5 black 1 black 1 blue 3
+blue 5 black 1 black 1 blue 3
+blue 5 black 1 black 1 blue 3
+blue 5 black 2 black 2 blue 3
+blue 6 black 1 black 1 blue 4
+blue 6 black 1 black 1 blue 4
+blue 6 black 1 black 1 blue 4
+blue 6 black 1 black 1 blue 4
+blue 6 black 2 black 2 blue 4
+blue 7 black 3 blue 5
+blue 15
+
+columns
+black 2 blue 18
+black 4 blue 15
+black 3 blue 13
+black 2 blue 12
+black 2 blue 11
+black 6 blue 7
+black 2 black 6 blue 2
+black 3 black 2 blue 1
+black 4 black 1 blue 1
+black 2 black 2 blue 1
+black 6 blue 2
+black 6 blue 7
+black 7 blue 12
+black 2 blue 18
+blue 20

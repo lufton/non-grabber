@@ -1,0 +1,44 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "May 26, 2011"
+description "Blue ice cream with a cherry on top. Is it just me, or does anybody else realize that's a LOT of food coloring to make it that blue?"
+difficulty 1.25
+height 11
+id 14193
+link "https://webpbn.com/play.cgi?id=14193"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Little Snack"
+width 11
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+red 1
+blue 3
+blue 5
+blue 6
+blue 6
+black 8
+black 6
+black 2
+black 4
+
+columns
+0
+black 1
+blue 2 black 2
+blue 3 black 2 black 1
+blue 4 black 4
+red 1 blue 4 black 4
+blue 4 black 2 black 1
+blue 3 black 2
+black 1
+0
+0

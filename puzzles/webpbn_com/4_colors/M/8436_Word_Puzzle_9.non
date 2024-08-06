@@ -1,0 +1,62 @@
+by "Steph (bennie11)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Steph"
+date "Apr 17, 2010"
+description ""
+difficulty 1.75
+height 20
+id 8436
+link "https://webpbn.com/play.cgi?id=8436"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Word Puzzle #9"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 3 black 10 blue 3
+blue 3 black 12 blue 3
+blue 2 black 14 blue 2
+blue 1 black 16 blue 1
+black 18
+black 20
+black 2 red 5 black 1 red 1 black 2 red 1 black 2 red 3 black 3
+black 4 red 1 black 3 red 1 black 2 red 1 black 1 red 1 black 3 red 1 black 2
+black 4 red 1 black 3 red 4 black 4 red 1 black 3
+black 4 red 1 black 6 red 1 black 3 red 1 black 4
+black 4 red 1 black 6 red 1 black 2 red 1 black 5
+black 4 red 1 black 6 red 1 black 1 red 5 black 2
+black 20
+black 20
+black 20
+black 18
+blue 1 black 16 blue 1
+blue 2 black 14 blue 2
+blue 3 black 12 blue 3
+blue 3 black 10 blue 3
+
+columns
+blue 3 black 10 blue 3
+blue 3 black 12 blue 3
+blue 2 black 3 red 1 black 10 blue 2
+blue 1 black 4 red 1 black 11 blue 1
+black 5 red 6 black 7
+black 6 red 1 black 13
+black 6 red 1 black 13
+black 20
+black 6 red 3 black 11
+black 8 red 1 black 11
+black 8 red 1 black 11
+black 6 red 6 black 8
+black 20
+black 7 red 1 black 3 red 1 black 8
+black 6 red 1 black 3 red 2 black 8
+black 5 red 1 black 2 red 1 black 1 red 1 black 7
+blue 1 black 4 red 1 black 1 red 1 black 2 red 1 black 6 blue 1
+blue 2 black 4 red 1 black 3 red 1 black 5 blue 2
+blue 3 black 12 blue 3
+blue 3 black 10 blue 3

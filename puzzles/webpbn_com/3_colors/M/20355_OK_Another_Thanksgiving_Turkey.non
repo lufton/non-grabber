@@ -1,0 +1,56 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Nov 13, 2012"
+description "I know flags aren't favs...sorry"
+difficulty 1.25
+height 15
+id 20355
+link "https://webpbn.com/play.cgi?id=20355"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "OK, Another Thanksgiving Turkey"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 1
+black 1 red 4
+black 1 red 10 red 2
+black 1 red 3 red 13
+black 1 red 2 red 3 red 12
+black 1 red 1 red 9 red 7
+black 1 red 1 red 8 red 6
+black 1 red 1 red 9 red 7
+black 1 red 2 red 3 red 3 red 1 red 6
+black 1 red 3 red 13
+black 1 red 19
+black 1 red 19
+black 1 red 13
+black 1 red 7
+
+columns
+black 15
+red 11
+red 4 red 4
+red 3 red 3 red 3
+red 2 red 5 red 2
+red 1 red 5 red 3
+red 1 red 5 red 3
+red 2 red 3 red 4
+red 11
+red 11
+red 11
+red 3 red 1 red 5
+red 2 red 6
+red 3 red 1 red 5
+red 11
+red 11
+red 11
+red 11
+red 10
+red 10

@@ -1,0 +1,43 @@
+by "eliel"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/20/18"
+height 13
+id 193797
+link "https://www.griddlers.net/nonogram/-/g/193797"
+medium_time "0:01:27"
+points 312
+popularity 66.25
+title "Yellow Balloon"
+width 10
+
+color a ffffff
+color c FFCC00
+color d FFFF00
+
+rows
+c 6
+c 1 d 6 c 1
+c 1 d 4 d 3 c 1
+c 1 d 5 d 2 c 1
+c 1 d 6 d 1 c 1
+c 1 d 8 c 1
+c 1 d 8 c 1
+c 1 d 8 c 1
+c 1 d 8 c 1
+c 1 d 6 c 1
+c 1 d 4 c 1
+c 1 d 2 c 1
+c 2
+
+columns
+c 7
+c 1 d 7 c 1
+c 1 d 9 c 1
+c 1 d 10 c 1
+c 1 d 11 c 1
+c 1 d 1 d 9 c 1
+c 1 d 2 d 7 c 1
+c 1 d 3 d 5 c 1
+c 1 d 7 c 1
+c 7

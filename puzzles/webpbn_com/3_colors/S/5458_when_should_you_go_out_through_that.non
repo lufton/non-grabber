@@ -1,0 +1,51 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar 29, 2009"
+description "whenever you want:)"
+difficulty 1.25
+height 20
+id 5458
+link "https://webpbn.com/play.cgi?id=5458"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "when should you go out through that?"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+black 10
+black 2 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 2 red 3 black 2
+black 2 black 2
+black 2 red 1 red 1 black 2
+black 2 red 1 black 2
+black 2 red 1 red 1 black 2 black 2
+black 2 black 2 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 2 red 3 black 2
+black 2 black 2
+black 2 red 3 black 2
+black 2 red 1 black 2
+black 2 red 1 black 2
+
+columns
+black 20
+black 20
+black 2 red 5 red 1 red 1 red 1 red 1 red 1
+black 2 red 1 red 1 red 1 red 1 red 3 red 3
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1
+black 2 black 2
+black 2 black 2
+black 2
+black 20
+black 20

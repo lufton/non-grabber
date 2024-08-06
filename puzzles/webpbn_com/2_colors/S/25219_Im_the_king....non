@@ -1,0 +1,47 @@
+by "Rita Lebedeva (vitanulka)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Rita Lebedeva"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 15
+id 25219
+link "https://webpbn.com/play.cgi?id=25219"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "I'm the king..."
+width 15
+
+rows
+7
+1,5,1
+4,4
+3,1,1,3,2
+2,1,2,2
+3,1,3,2
+11,1
+3,3,2
+9,3
+2,3,1
+1,2
+4,1,1
+1,3,5,1
+2,1,1,1,1
+4,4
+
+columns
+5
+8
+1,2,4,3
+3,4,1,1
+2,1,1,2,2
+2,3,1,3,1
+2,1,1,1,3
+3,3,1
+1,2,5,3
+9,1
+5,1,1
+1,2,1
+2,1,3
+3,4,1
+3,5

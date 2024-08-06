@@ -1,0 +1,102 @@
+by "Tanya Gorbunova (supertnova)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tanya Gorbunova"
+date "May 24, 2011"
+description "discover an archaic use of Eu by solving the puzzle !!!"
+difficulty 1.5
+height 40
+id 14150
+link "https://webpbn.com/play.cgi?id=14150"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Europium"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1 red 7
+black 2 black 2 red 7
+black 2 black 2 red 2
+black 2 black 2 red 2
+black 2 black 2 red 2
+black 2 black 2 red 5
+black 3 red 5
+black 28 red 2
+black 30 red 2
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 3 red 2
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 3 red 7
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 3 red 7
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 3
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 3
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 3
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 3 blue 2 blue 2
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 5 blue 1 blue 1 black 3 blue 2 blue 2
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 red 1 red 1 black 3 blue 2 blue 2
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 1 blue 1 black 3 blue 2 blue 2
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 red 1 red 1 black 3 blue 6
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 1 blue 1 black 3 blue 6
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1 black 1 red 1 red 1 black 3
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 black 1 blue 1 black 3
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 19
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 19
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 19
+black 34
+black 33
+black 22
+black 23
+black 24
+black 40
+black 19
+black 19
+black 19
+black 40
+black 19
+black 19
+black 19
+black 19
+
+columns
+black 17 black 1 black 1
+black 19 black 1 black 1
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 1 black 1
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 1 black 1
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 1 black 1
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 1 black 1
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 1 black 1
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 1 black 1
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 1 black 1
+black 1 black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 1 black 1
+black 1 black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 1 black 1
+black 2 black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 2 black 2 black 1
+black 2 black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 2 black 3 black 1
+black 2 black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 6 black 1
+black 2 black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 6 black 1
+black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 6 black 1
+black 3 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 17
+black 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 17
+black 2 black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 17
+black 2 black 2 blue 1 blue 1 blue 1 blue 1 black 23
+black 2 black 2 red 1 red 1 red 1 red 1 black 1 black 17
+black 2 black 2 blue 1 blue 1 blue 1 black 1 black 17
+black 1 black 2 red 1 red 1 red 1 red 1 black 1 black 17
+black 1 black 2 blue 1 blue 1 blue 1 black 1 black 17
+black 2 red 1 red 1 red 1 red 1 black 1 black 17
+black 2 blue 1 blue 1 blue 1 blue 1 black 23
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 17
+black 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 17
+black 2 red 1 red 1 red 1 red 1 red 1 red 1 red 1 black 17
+black 33
+black 32
+black 31
+black 17
+red 12 black 17
+red 12 blue 6 black 17
+red 2 red 2 red 2 blue 6 black 1 black 1
+red 2 red 2 red 2 blue 2 black 1 black 1
+red 2 red 2 red 2 blue 2 black 1 black 1
+red 2 red 2 blue 6 black 1 black 1
+red 2 red 2 blue 6 black 1 black 1

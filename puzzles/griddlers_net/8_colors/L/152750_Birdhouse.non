@@ -1,0 +1,93 @@
+by "evengroen"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/22/15"
+height 50
+id 152750
+link "https://www.griddlers.net/nonogram/-/g/152750"
+medium_time "0:06:47"
+points 4309
+popularity 75.0
+title "Birdhouse"
+width 18
+
+color a ffffff
+color b 000000
+color c ff99ff
+color d ff0000
+color e cc00cc
+color f 0000ff
+color g 00ffff
+color h 990000
+
+rows
+d 2
+d 4
+d 6
+d 3 g 1 f 1 d 3
+d 3 f 2 g 2 d 3
+d 3 g 1 f 2 g 2 f 1 d 3
+d 3 f 2 g 2 f 2 g 2 d 3
+d 3 g 1 f 2 g 2 f 2 g 2 f 1 d 3
+d 3 f 2 g 2 f 2 g 2 f 2 g 2 d 3
+f 2 g 2 f 2 g 2 f 2 g 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+f 2 g 2 f 1 b 2 g 1 f 2 g 2
+f 2 g 2 b 4 f 2 g 2
+g 2 f 2 b 4 g 2 f 2
+g 2 f 2 g 1 b 2 f 1 g 2 f 2
+f 2 g 2 f 2 g 2 f 2 g 2
+f 2 g 2 f 2 g 2 f 2 g 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1
+e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 1 b 2 f 1 g 2 f 2
+g 2 f 2 b 4 g 2 f 2
+g 2 f 2 b 4 g 2 f 2
+g 2 f 2 g 1 b 2 f 1 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+g 2 f 2 g 2 f 2 g 2 f 2
+c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1
+e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1
+h 2
+h 2
+h 2
+h 2
+h 2
+h 2
+h 2
+h 2
+h 2
+h 4
+h 6
+h 2 h 2 h 2
+h 2 h 2 h 2
+h 2 h 2 h 2
+
+columns
+d 1
+d 2 c 1 e 1
+d 3 e 1 c 1
+d 3 f 2 g 2 f 2 g 2 f 2 g 2 c 1 e 1 g 12 c 1 e 1 h 1
+d 3 g 1 f 2 g 2 f 2 g 2 f 2 g 2 e 1 c 1 g 12 e 1 c 1 h 2
+d 3 f 2 g 2 f 2 g 2 f 2 g 2 f 2 c 1 e 1 f 12 c 1 e 1 h 2
+d 3 g 1 f 2 g 2 f 2 g 2 f 2 g 2 f 2 e 1 c 1 f 12 e 1 c 1 h 2
+d 3 f 2 g 2 f 2 g 2 f 1 b 2 g 1 f 2 g 2 c 1 e 1 g 5 b 2 g 5 c 1 e 1 h 2
+d 3 g 1 f 2 g 2 f 2 g 2 b 4 f 2 g 2 e 1 c 1 g 4 b 4 g 4 e 1 c 1 h 14
+d 3 f 1 g 2 f 2 g 2 f 2 b 4 g 2 f 2 c 1 e 1 f 4 b 4 f 4 c 1 e 1 h 14
+d 3 g 2 f 2 g 2 f 2 g 1 b 2 f 1 g 2 f 2 e 1 c 1 f 5 b 2 f 5 e 1 c 1 h 2
+d 3 f 1 g 2 f 2 g 2 f 2 g 2 f 2 g 2 c 1 e 1 g 12 c 1 e 1 h 2
+d 3 g 2 f 2 g 2 f 2 g 2 f 2 g 2 e 1 c 1 g 12 e 1 c 1 h 2
+d 3 f 1 g 2 f 2 g 2 f 2 g 2 f 2 c 1 e 1 f 12 c 1 e 1 h 2
+d 3 g 2 f 2 g 2 f 2 g 2 f 2 e 1 c 1 f 12 e 1 c 1 h 1
+d 3 c 1 e 1
+d 2 e 1 c 1
+d 1

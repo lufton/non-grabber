@@ -1,0 +1,50 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 11, 2010"
+description ":D"
+difficulty 2.25
+height 16
+id 9158
+link "https://webpbn.com/play.cgi?id=9158"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "The way to a man's heart!"
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 4 black 4
+black 2 black 5 black 2
+black 1 black 2 black 2
+black 1 red 2 black 1 red 2 black 2
+black 1 red 1 red 2 black 1
+black 1 red 2 black 1
+black 2 red 1 red 2 black 2
+black 1 red 1 red 1 black 2
+black 2 red 2 red 1 red 1 black 2
+black 2 red 2 red 2 black 2
+black 1 black 2
+black 2 black 2
+black 2 black 1
+black 1 black 2
+black 2
+
+columns
+black 6
+black 2 black 4
+black 2 black 4
+black 2 red 4 black 2
+black 2 red 1 red 1 red 2 black 2
+black 3 red 2 black 1
+black 2 black 2
+black 2 red 2 red 4 black 3
+black 2 red 2 red 1 red 1 black 2
+black 1 red 2 black 2
+black 2 black 2
+black 3 black 3
+black 6

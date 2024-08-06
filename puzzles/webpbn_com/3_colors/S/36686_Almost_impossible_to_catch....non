@@ -1,0 +1,50 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr 11, 2023"
+description "Am I the only one who tried? One of the many names is "Water Skeeter.""
+difficulty 2.0
+height 16
+id 36686
+link "https://webpbn.com/play.cgi?id=36686"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Almost impossible to catch..."
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 1 black 1
+black 1
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 1
+black 1 black 5 black 1
+blue 1 black 1 black 3 black 1 blue 1
+blue 1 black 1 black 3 black 1 blue 1
+blue 1 black 5 blue 1
+black 5
+blue 1 black 5 blue 1
+blue 1 black 1 black 3 black 1 blue 1
+blue 1 black 1 black 3 black 1 blue 1
+black 1 black 3 black 1
+black 1 black 1 black 1
+0
+
+columns
+0
+black 2 blue 1 blue 1 black 2
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 black 1
+black 2 black 3
+black 2 blue 1 black 9
+black 12
+black 2 blue 1 black 9
+black 2 black 3
+black 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 black 1
+black 2 blue 1 blue 1 black 2
+0

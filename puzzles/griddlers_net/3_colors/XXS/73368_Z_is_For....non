@@ -1,0 +1,30 @@
+by "MomWiz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/17/08"
+height 5
+id 73368
+link "https://www.griddlers.net/nonogram/-/g/73368"
+medium_time "0:00:19"
+points 12
+popularity 46.75
+title "Z is For..."
+width 5
+
+color a ffffff
+color b 000000
+color c e0e1ff
+
+rows
+b 3
+b 1
+b 1 c 3
+b 1 c 1 c 1
+b 3 c 2
+
+columns
+b 1 b 2
+b 1 b 1 b 1
+b 2 c 2 b 1
+c 1 c 1
+c 3

@@ -1,0 +1,72 @@
+by "Inga Mary (Penny245)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Inga Mary"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 25
+id 25234
+link "https://webpbn.com/play.cgi?id=25234"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Mini Evergreen"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 3 black 2 black 3 black 2
+red 4 black 13
+red 1 black 2 red 3 black 8 black 2
+red 2 black 4 red 3 black 5 red 2 black 1
+red 1 black 5 red 6 black 7
+red 1 black 7 red 1 black 7 red 1 black 4
+red 1 black 16 red 2 black 3
+red 1 black 5 red 2 black 10 red 2
+red 11 black 2 red 2 black 6
+red 3 black 3 red 2 black 3 red 6 black 5
+red 2 black 10 red 1 black 10
+red 1 black 7 red 2 black 13
+red 1 black 3 red 1 black 2 red 4 black 6 red 1 black 5
+red 5 black 1 red 3 black 4 red 2 black 2 red 2 black 2 red 1
+black 3 red 1 black 3 red 2 black 4 red 9
+black 7 red 3 black 3 red 9
+black 7 red 4 black 3 red 9
+black 5 red 5 black 3 red 9
+black 3 red 5 black 5 red 7
+red 4 black 7 red 5
+red 4 black 7 red 3
+red 4 black 7 red 1
+blue 15
+blue 13
+blue 11
+
+columns
+black 1
+black 3
+red 5 black 5
+red 5 black 2 red 1 black 5
+red 1 black 2 red 2 black 3 red 1 black 5
+red 2 black 3 red 1 black 4 red 2 black 3 red 2
+red 1 black 4 red 1 black 3 red 2 black 3 red 4 blue 1
+red 1 black 5 red 1 black 7 red 6 blue 2
+red 1 black 6 red 2 black 3 red 1 black 1 red 7 blue 3
+red 1 black 5 red 3 black 2 red 7 black 1 red 2 blue 3
+red 2 black 4 red 2 black 2 red 7 black 3 red 1 blue 3
+red 5 black 3 red 1 black 2 red 2 black 9 blue 3
+red 1 black 1 red 4 black 2 red 1 black 3 red 1 black 9 blue 3
+red 1 black 2 red 2 black 3 red 2 black 12 blue 3
+black 4 red 1 black 4 red 2 black 4 red 3 black 4 blue 3
+black 4 red 1 black 4 red 1 black 3 red 6 black 3 blue 3
+black 3 red 1 black 3 red 2 black 3 red 7 black 2 blue 3
+black 8 red 2 black 4 red 7 black 1 blue 3
+black 9 red 1 black 4 red 8 blue 3
+black 3 red 1 black 8 red 9 blue 2
+black 2 red 1 black 1 red 2 black 6 red 7 blue 1
+black 2 black 3 red 2 black 6 red 5
+black 2 black 3 red 1 black 6 red 4
+black 2 black 3 black 5 red 2
+black 2 black 2 black 3

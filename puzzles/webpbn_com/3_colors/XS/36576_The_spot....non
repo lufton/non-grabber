@@ -1,0 +1,41 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Mar 25, 2023"
+description "Marked with an X. We don't know why..."
+difficulty 1.25
+height 10
+id 36576
+link "https://webpbn.com/play.cgi?id=36576"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The spot..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2 red 6 black 2
+black 2 black 2
+red 1 black 2 red 2 black 2 red 1
+red 1 black 4 red 1
+red 1 red 1 black 2 red 1 red 1
+red 1 black 4 red 1
+red 1 black 2 red 2 black 2 red 1
+black 2 black 2
+black 2 red 6 black 2
+0
+
+columns
+black 1 black 1
+black 2 red 5 black 2
+red 1 black 2 black 2 red 1
+red 1 black 2 red 1 black 2 red 1
+red 1 red 1 black 3 red 1 red 1
+red 1 red 1 black 3 red 1 red 1
+red 1 black 2 red 1 black 2 red 1
+red 1 black 2 black 2 red 1
+black 2 red 5 black 2
+black 1 black 1

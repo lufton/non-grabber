@@ -1,0 +1,30 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "May 17, 2004"
+description "A baby wearing a diaper."
+difficulty 1.0
+height 7
+id 42
+link "https://webpbn.com/play.cgi?id=42"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Goo"
+width 6
+
+rows
+2
+2
+0
+6
+2
+1,2,1
+2,2
+
+columns
+1,2
+1,1
+2,3
+2,3
+1,1
+1,2

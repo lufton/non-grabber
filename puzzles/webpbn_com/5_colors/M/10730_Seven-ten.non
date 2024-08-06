@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Oct 17, 2010"
+description "split. Well, an eight isn't bad."
+difficulty 1.25
+height 20
+id 10730
+link "https://webpbn.com/play.cgi?id=10730"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Seven-ten"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+green 2 green 2
+green 3 green 3
+green 3 green 3
+green 2 green 2
+red 2 red 2
+green 3 green 3
+green 3 blue 4 green 3
+green 4 blue 4 black 1 blue 1 green 4
+green 4 blue 6 black 1 blue 1 green 4
+green 4 blue 4 black 1 blue 3 green 4
+green 4 blue 8 green 4
+green 3 blue 8 green 3
+green 3 blue 6 green 3
+green 2 blue 4 green 2
+0
+0
+0
+0
+
+columns
+green 4 red 1 green 9
+green 4 red 1 green 9
+green 2 green 8
+green 4
+0
+0
+blue 4
+blue 6
+blue 8
+blue 8
+blue 3 black 1 blue 4
+blue 1 black 1 blue 6
+blue 1 black 1 blue 4
+blue 4
+0
+0
+green 4
+green 2 green 8
+green 4 red 1 green 9
+green 4 red 1 green 9

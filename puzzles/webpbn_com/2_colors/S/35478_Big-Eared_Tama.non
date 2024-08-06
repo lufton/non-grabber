@@ -1,0 +1,44 @@
+by "Devon McCarthy (The Dev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Devon McCarthy"
+date "Dec 13, 2021"
+description "Mimitchi from Tamagotchi"
+difficulty 1.75
+height 14
+id 35478
+link "https://webpbn.com/play.cgi?id=35478"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Big-Eared Tama"
+width 13
+
+rows
+2,2
+4,4
+4,4
+4,4
+9
+1,1
+1,1,1,1
+1,3,1
+3,2
+3,2
+1,1
+1,2
+8
+3,1
+
+columns
+2
+2,5
+6,2,1,1
+5,1,2
+4,2
+2,1,1
+1,1,1
+2,1,1
+4,1
+5,1,2
+6,3
+2,5
+2

@@ -1,0 +1,58 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "May 15, 2004"
+description "After mowing my lawn I decided to draw a man pushing a lawn mower, but the diagonal line of the handle is hard to make solvable, so I got lazy and drew a lazy man on a riding mower."
+difficulty 2.0
+height 18
+id 40
+link "https://webpbn.com/play.cgi?id=40"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Riding More"
+width 19
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 2
+black 2
+black 2
+black 4
+black 6
+black 3 black 4
+red 1 black 2 black 4
+red 1 black 3 black 3
+red 1 black 8
+red 1 black 2 black 5
+red 5 black 2 black 3 red 5
+red 5 black 2 red 6 black 3
+red 6 black 1 red 6 black 1
+red 2 black 2 red 2 black 3 red 5 black 1 black 2
+red 1 black 4 red 8 black 1 black 4
+black 4 black 4
+black 2 black 2
+
+columns
+red 3
+red 4 black 2
+red 3 black 4
+red 3 black 4
+red 1 red 4 black 2
+black 1 red 8
+black 2 black 1 red 1
+black 1 black 4 black 1 red 1
+black 2 black 7 red 1
+black 1 black 2 red 3
+black 3 black 2 black 3 red 4
+black 8 black 3 red 4
+black 9 red 4
+black 8 red 3 black 1
+black 5 red 3 black 1
+red 2 black 1 black 2
+red 1 black 1 black 4
+red 1 black 1 black 4
+red 1 black 1 black 2

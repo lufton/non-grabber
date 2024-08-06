@@ -1,0 +1,45 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/22/18"
+height 12
+id 193269
+link "https://www.griddlers.net/nonogram/-/g/193269"
+medium_time "0:01:59"
+points 190
+popularity 80.08
+title "Gorilla"
+width 12
+
+color a 666666
+color b 6699ff
+color c 999999
+color d cccccc
+
+rows
+b 3 b 3
+b 2 b 2
+b 1 b 1
+c 6
+c 1 d 2 c 2 d 2 c 1
+d 1 d 1 c 2 d 1 d 1
+c 6
+c 1 c 2 c 1
+c 8
+c 1 d 6 c 1
+c 6
+0
+
+columns
+b 3
+b 2 c 1 d 1
+b 1 c 2
+c 1 d 2 c 3 d 1 c 1
+c 1 d 1 c 1 c 1 d 1 c 1
+c 6 d 1 c 1
+c 6 d 1 c 1
+c 1 d 1 c 1 c 1 d 1 c 1
+c 1 d 2 c 3 d 1 c 1
+b 1 c 2
+b 2 c 1 d 1
+b 3

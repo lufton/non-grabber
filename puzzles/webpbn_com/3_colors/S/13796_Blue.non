@@ -1,0 +1,51 @@
+by "Beano (bewildering20)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Beano"
+date "May  8, 2011"
+description "Feeling blue? Or happy you solved it!?"
+difficulty 1.25
+height 15
+id 13796
+link "https://webpbn.com/play.cgi?id=13796"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "Blue"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 11
+black 2 blue 9 black 2
+black 1 blue 4 black 1 blue 3 black 1 blue 2 black 1
+black 1 blue 4 black 1 blue 3 black 1 blue 2 black 1
+black 1 blue 4 black 1 blue 3 black 1 blue 2 black 1
+black 1 blue 11 black 1
+black 1 blue 5 black 2 blue 4 black 1
+black 1 blue 11 black 1
+black 1 blue 4 black 4 blue 3 black 1
+black 1 blue 3 black 2 blue 2 black 2 blue 2 black 1
+black 1 blue 2 black 2 blue 4 black 2 blue 1 black 1
+black 2 blue 9 black 2
+black 11
+black 13
+
+columns
+0
+black 11 black 1
+black 2 blue 9 black 3
+black 1 blue 11 black 2
+black 1 blue 9 black 1 blue 1 black 2
+black 1 blue 8 black 2 blue 1 black 2
+black 1 blue 1 black 3 blue 3 black 2 blue 2 black 2
+black 1 blue 5 black 1 blue 1 black 1 blue 3 black 2
+black 1 blue 5 black 1 blue 1 black 1 blue 3 black 2
+black 1 blue 7 black 2 blue 2 black 2
+black 1 blue 1 black 3 blue 4 black 2 blue 1 black 2
+black 1 blue 9 black 1 blue 1 black 2
+black 2 blue 9 black 3
+black 11 black 1
+0

@@ -1,0 +1,52 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Norma Dee"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 15
+id 25352
+link "https://webpbn.com/play.cgi?id=25352"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #157 3) Remember when......"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+red 2 black 2
+red 3 black 4
+black 3 black 5
+black 1 blue 1 black 2 black 4 black 1
+black 10
+red 1 black 8
+black 6
+black 4
+black 4 black 5
+black 1 black 1 black 1 black 1
+black 4 black 2
+black 1 black 1
+
+columns
+0
+black 1
+red 1 black 1 blue 1 black 1 red 1 black 2
+red 2 black 4 black 1
+red 2 black 5 black 2
+black 5 black 2
+black 4 black 1
+black 7
+black 6 black 2
+black 5 black 1
+black 5 black 3
+black 5 black 1 black 1
+black 3
+black 3
+0

@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Jul 28, 2018"
+description "Mostly dead"
+difficulty 1.75
+height 20
+id 31458
+link "https://webpbn.com/play.cgi?id=31458"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Image from Princess Bride 3"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 black 1
+black 2 black 2
+black 1 black 1
+black 2 black 1 black 2
+black 7
+black 7
+black 5
+black 5
+black 3
+black 3
+black 3
+black 3
+black 1
+black 4 black 1 black 1
+black 7 black 2 red 1 black 2 blue 1 black 1
+black 10 black 1 black 2
+black 7 black 4 black 3
+black 7 black 2 black 5
+black 7 black 2 black 7
+
+columns
+black 6
+black 6
+black 6
+black 6
+black 5
+black 5
+black 5
+black 1
+black 1
+black 2
+black 3 black 3
+black 5 black 3
+black 5 black 3
+black 8 black 1 black 1
+black 11 red 1 black 1
+black 8 black 1 black 2
+black 5 black 2 black 2
+black 5 blue 1 black 3
+black 3 black 4
+black 5

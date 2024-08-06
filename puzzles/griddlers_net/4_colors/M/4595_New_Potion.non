@@ -1,0 +1,61 @@
+by "Kairon"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/20/03"
+height 20
+id 4595
+link "https://www.griddlers.net/nonogram/-/g/4595"
+medium_time "0:07:30"
+points 6519
+popularity 52.12
+title "New Potion"
+width 20
+
+color a 000000
+color b fffefe
+color c 00dc36
+color h 00fefe
+
+rows
+b 1 b 1 b 1 b 1 b 1 b 2 b 2
+b 1 b 2 b 2 b 2 b 2 c 1 b 2
+b 10 c 1 b 3
+b 1 c 1 b 1
+b 2 b 3 b 3 b 1
+b 1 b 1 b 1 b 1 h 2 c 2 h 2
+b 1 b 1 b 3 h 1 c 2 h 1
+b 3 b 1 b 1 h 1 c 2 h 1
+b 1 b 3 b 1 b 1 h 1 c 2 h 1
+b 1 b 1 h 1 c 2 h 1
+b 2 b 2 h 1 c 2 h 1
+b 1 b 1 h 1 c 2 h 1
+b 1 b 2 h 1 c 2 h 1
+b 2 b 1 h 1 c 2 h 1
+b 1 b 3 h 1 c 2 h 1
+b 1 h 1 c 2 h 1
+b 2 h 1 c 2 h 1
+b 1 b 4 h 1 c 2 h 1
+b 2 h 1 c 2 h 1
+b 5 h 2
+
+columns
+0
+b 2 b 2
+b 1 b 4
+b 3 b 4
+b 2 b 3 b 4
+b 1 b 1 b 1 b 1 b 4
+b 2 b 1 b 1 b 3
+b 3 b 1 b 1 b 2
+b 1 b 3 b 1 b 1
+b 3 b 1 b 3 b 1 b 1 b 1
+b 2 b 3 b 3 b 1 b 1 b 1
+b 1 b 1 b 1 h 1 b 1 b 3 b 1 b 1
+b 2 c 1 b 1 h 14
+b 2 b 1 c 14 h 1
+b 1 c 1 b 1 c 1 c 14 h 1
+b 3 h 14
+b 1 b 2 h 1
+0
+0
+0

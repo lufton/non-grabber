@@ -1,0 +1,35 @@
+by "Phil Cudlob (redskinsfan21)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Phil Cudlob"
+date "Jan  1, 2008"
+description "No matter how many times you turn it, it still says Hi"
+difficulty 1.0
+height 9
+id 2085
+link "https://webpbn.com/play.cgi?id=2085"
+note "published,definitely unique,definitely trivial"
+quality 2.25
+title "Hello"
+width 9
+
+rows
+0
+1,1,3
+3,1
+1,1,3
+0
+3,1,1
+1,3
+3,1,1
+0
+
+columns
+0
+3,1,1
+1,3
+3,1,1
+0
+1,1,3
+3,1
+1,1,3
+0

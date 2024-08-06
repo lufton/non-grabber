@@ -1,0 +1,85 @@
+by "costel"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/15/08"
+height 30
+id 61651
+link "https://www.griddlers.net/nonogram/-/g/61651"
+medium_time "0:11:08"
+points 1648
+popularity 63.62
+title "Balloons"
+width 33
+
+color a ffffff
+color b 6699ff
+color c ffffbd
+color d ff6633
+color e 99ccff
+
+rows
+d 5
+d 9
+d 11
+b 5 d 13
+b 9 d 15
+b 11 d 15
+b 13 d 15
+b 13 d 15
+b 15 d 14
+b 9 c 5 b 1 d 14
+b 7 c 9 d 13
+b 6 c 11 d 12
+b 5 c 13 d 4 e 6 d 1
+b 4 c 14 d 1 e 10
+b 3 c 15 e 12
+b 2 c 16 e 12
+b 1 c 16 e 12
+c 16 e 13
+c 16 e 13
+c 15 e 14
+c 15 e 14
+c 13 e 15
+c 13 e 14
+c 11 e 15
+c 9 e 15
+c 7 e 15
+c 3 e 14
+c 2 c 2 e 13
+e 2 e 6
+e 1
+
+columns
+b 5
+b 9
+b 11
+b 13
+b 10 c 7
+b 9 c 11
+b 8 c 13
+b 7 c 15
+b 7 c 16
+b 6 c 17 c 1
+b 5 c 19
+b 5 c 18
+b 4 c 19
+d 2 b 3 c 17 c 1
+d 5 b 2 c 16 e 1
+d 8 c 15 e 4
+d 10 c 13 e 6
+d 11 c 11 e 5
+d 13 c 8 e 7
+d 14 e 1 c 4 e 10
+d 13 e 16
+d 13 e 16
+d 12 e 17
+d 11 e 17
+d 11 e 17
+d 10 e 16
+d 9 e 16
+d 8 e 15
+d 7 e 14
+e 13
+e 11
+e 9
+e 5

@@ -1,0 +1,48 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/19/16"
+height 10
+id 170300
+link "https://www.griddlers.net/nonogram/-/g/170300"
+medium_time "0:01:56"
+points 472
+popularity 64.84
+title "Irons"
+width 15
+
+color a ffffff
+color b cccccc
+color c ffcc00
+color d ff0033
+color e 999999
+color f cc9900
+
+rows
+c 9
+c 7 e 1
+e 1 b 1
+f 7 e 1 b 2
+e 1 e 1 e 1 b 2 f 1
+e 1 e 1 e 1 b 2 e 1 f 1
+e 8 e 1 b 2 f 1
+d 1 d 2 d 1 e 1 b 2 f 1
+e 9 e 1 b 2 f 1
+e 9 e 1 c 1 d 1 e 1 f 1
+
+columns
+c 2 e 2
+c 2 e 1 d 1 e 2
+c 2 f 1 e 1 e 2
+c 2 f 1 e 1 e 1 e 2
+c 2 f 1 e 2 d 1 e 2
+c 2 f 1 e 1 d 1 e 2
+c 2 f 1 e 2 e 2
+c 1 f 1 e 1 e 1 d 1 e 2
+c 1 f 1 e 1 e 2
+0
+e 9
+b 7 c 1
+b 6 d 1
+e 1 e 1
+f 6

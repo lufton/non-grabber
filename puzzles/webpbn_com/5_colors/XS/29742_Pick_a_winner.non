@@ -1,0 +1,39 @@
+by "Teresa K (fasstar)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Teresa K"
+date "Apr 26, 2017"
+description "The trick to winning at the slots is to pick the right machine... at the right time."
+difficulty 1.25
+height 8
+id 29742
+link "https://webpbn.com/play.cgi?id=29742"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Pick a winner"
+width 8
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1
+blue 5
+blue 1 blue 1 black 1
+blue 1 red 3 blue 1 black 1
+blue 1 blue 1 black 2
+blue 5
+blue 3 green 1 blue 1
+blue 5
+
+columns
+0
+blue 7
+blue 1 red 1 blue 3
+red 1 blue 1 red 1 blue 3
+blue 1 red 1 blue 1 green 1 blue 1
+blue 7
+black 1
+black 3

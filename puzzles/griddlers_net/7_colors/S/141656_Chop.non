@@ -1,0 +1,54 @@
+by "groverpi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/18/14"
+height 15
+id 141656
+link "https://www.griddlers.net/nonogram/-/g/141656"
+medium_time "0:06:17"
+points 1751
+popularity 59.59
+title "Chop"
+width 15
+
+color a ffffff
+color b 006600
+color c 666666
+color d ff0000
+color e 00d700
+color f 663300
+color g 00ffff
+
+rows
+g 4 g 7 f 1 b 2
+g 1 g 2 f 1 b 3
+g 3 g 1 f 1 e 1 b 1 e 2
+g 9 f 1 g 1 b 1 e 1 b 1 f 1
+g 3 d 2 g 1 f 1 g 3 e 2 b 1
+g 3 d 1 c 2 f 1 g 2 f 1
+g 4 d 1 c 3 d 1 g 1 g 1 f 1
+b 1 g 5 c 2 d 1 g 3 b 1 g 1 f 1
+e 1 b 1 g 1 f 5 g 2 b 2 e 1 f 1
+b 2 f 5 g 1 b 1 e 1 b 2 f 1
+b 3 e 1 f 5 e 2 b 2 e 1
+b 1 e 3 f 5 e 4
+f 1 e 3 f 5 e 3
+f 2 e 2 f 5 e 2 e 1
+f 3 e 7 e 1
+
+columns
+g 4 g 1 b 1 e 1 b 3 f 3
+g 1 g 2 g 3 b 3 e 2 f 2
+g 1 g 6 b 1 e 3 f 1
+g 1 g 6 e 5
+g 2 d 2 g 1 f 6 e 1
+g 1 g 1 d 1 c 2 g 1 f 6 e 1
+g 2 g 1 d 1 c 3 f 6 e 1
+g 2 g 2 f 1 c 2 f 6 e 1
+g 1 g 1 f 1 d 2 f 6 e 1
+g 1 g 1 f 1 g 1 g 4 e 5
+g 1 f 1 g 2 g 2 b 1 e 4
+g 1 f 1 e 1 b 1 g 1 g 1 b 1 e 1 b 1 e 2
+f 1 b 2 e 2 g 1 b 4 e 1
+b 2 e 1 b 1 e 1 g 3 e 1 b 1 e 1
+b 2 e 1 f 1 b 1 f 5 e 2

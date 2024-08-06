@@ -1,0 +1,57 @@
+by "Jolene Harms (jlharms)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Jolene Harms"
+date "Mar 28, 2011"
+description "It's pi on a pie!"
+difficulty 1.5
+height 20
+id 13074
+link "https://webpbn.com/play.cgi?id=13074"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "A Mathematicians Dessert"
+width 20
+
+rows
+8
+10
+14
+16
+16
+5,4,3
+4,3
+4,1,6
+7,3,6
+7,3,6
+7,3,6
+7,3,6
+7,3,6
+5,3,6
+5,3,6
+16
+16
+14
+10
+8
+
+columns
+7
+10
+14
+16
+4,10
+5,11
+5,6,5
+5,5
+5,7
+6,12
+6,12
+6,5,5
+6,5
+5,7
+4,12
+3,11
+4,11
+14
+10
+7

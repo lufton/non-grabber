@@ -1,0 +1,54 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by valerie o..travis"
+date "Feb 24, 2011"
+description "..Learning how to walk"
+difficulty 2.0
+height 21
+id 12398
+link "https://webpbn.com/play.cgi?id=12398"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "One step at a time..."
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4
+black 6
+black 6
+black 4
+black 2
+black 6
+black 8
+black 2 black 4 black 2
+black 1 black 4 black 1
+black 1 black 4 black 1
+black 1 black 1 red 3 black 1
+red 1 black 1 red 5 red 1
+red 1 black 2 red 3 black 2 red 1
+black 2 red 1 red 1 black 1 red 1 black 1
+black 2 red 5 black 2
+black 2 red 3 black 2
+black 2 red 3 black 2
+black 2 red 3 black 2
+black 3 red 1 red 1 black 3
+red 1 red 1
+red 2 red 2
+
+columns
+black 1
+black 3 black 6
+black 2 black 1 red 2 black 6
+black 2 black 2 black 2 red 1
+black 4 black 6 red 1 black 1 red 1
+black 10 red 3 red 7
+black 10 red 8 red 1
+black 4 black 5 red 3 red 5
+black 2 black 2 red 1 black 2 red 1 red 2
+black 2 black 1 red 1 black 5 red 1
+black 4 red 2 black 6
+black 1

@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "Ooh ooh ooh ooh steak and a knife, steak and a knife."
+difficulty 1.25
+height 15
+id 25847
+link "https://webpbn.com/play.cgi?id=25847"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Mondegreen #13"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 5 black 1
+blue 9 black 2
+blue 11 black 2
+blue 3 blue 6 black 2
+blue 2 red 4 blue 5 black 2
+blue 2 red 1 red 4 blue 4 black 2
+blue 2 red 2 red 6 blue 3 black 2
+blue 2 red 2 red 5 blue 2 black 2
+blue 2 red 2 red 1 red 2 blue 1 black 1
+blue 2 red 2 red 8 blue 1 black 1
+blue 2 red 10 blue 1 black 1
+blue 3 red 5 blue 5 black 1
+blue 11 black 1
+blue 9 black 1
+blue 5 black 1
+
+columns
+blue 5
+blue 9
+blue 3 red 4 blue 3
+blue 3 red 6 blue 3
+blue 2 red 1 red 2 blue 2
+blue 3 red 3 red 4 blue 3
+blue 3 red 3 red 3 blue 3
+blue 3 red 4 red 3 blue 3
+blue 4 red 3 red 3 blue 3
+blue 5 red 2 red 2 blue 4
+blue 4 red 2 red 2 blue 3
+blue 5 red 4 blue 3
+blue 5 red 3 blue 2
+blue 5 blue 2
+blue 5
+0
+0
+black 15
+black 7
+0

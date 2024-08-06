@@ -1,0 +1,85 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/14/12"
+height 32
+id 119735
+link "https://www.griddlers.net/nonogram/-/g/119735"
+medium_time "0:13:07"
+points 23573
+popularity 77.6
+title "Bird"
+width 28
+
+color a 00ff00
+color b 000000
+color c 999900
+color d 999999
+color e cccc99
+color f ffffcc
+color g cccccc
+color h 996600
+
+rows
+b 4
+b 2 c 4 b 4
+b 1 c 2 d 1 f 1 d 1 c 3 b 1
+b 1 c 3 f 1 b 1 f 1 c 2 b 1
+b 1 c 3 d 1 f 1 d 1 c 2 b 1
+b 1 c 9 b 1
+b 2 c 10 b 1
+b 1 c 11 b 1
+b 1 c 9 e 3 b 1
+b 1 c 8 e 5 b 1
+b 1 c 8 f 4 e 2 b 1
+b 1 e 1 c 5 d 1 f 7 b 1
+b 1 e 6 d 2 f 7 b 1
+b 1 e 6 d 2 f 8 b 1
+b 1 e 5 d 2 f 8 g 1 b 1
+b 1 e 5 d 2 f 8 g 1 b 1
+b 1 e 4 d 3 f 8 g 1 b 1
+b 1 d 6 g 1 f 5 g 5 b 1
+b 1 d 2 b 5 g 10 b 1
+b 5 b 4 g 5 b 2
+b 2 b 5
+b 1 b 1
+c 1 c 2
+c 2 c 2
+c 2 c 2
+c 4 c 4
+b 14
+b 1 h 13 b 2
+b 1 h 15 b 1
+b 1 h 15 b 1
+b 1 h 15 b 1
+b 1 h 15 b 1
+
+columns
+b 1
+b 2
+b 1
+b 2
+b 1 d 1 b 1
+b 1 d 2 b 1
+b 1 e 1 d 1 b 1
+b 2 e 2 d 1 b 1
+b 1 e 4 d 1 b 1
+b 2 e 5 d 1 b 1
+b 1 c 1 e 5 d 2 b 2 b 5
+b 1 c 3 e 4 d 1 g 2 b 1 b 1 h 5
+b 1 c 4 e 3 d 2 f 1 g 1 b 1 b 1 h 5
+b 1 c 5 e 2 d 2 f 2 g 1 b 1 b 1 h 5
+b 1 c 5 e 1 d 2 f 3 g 2 b 2 c 2 b 1 h 5
+b 1 c 6 d 2 f 4 g 2 b 1 c 3 b 1 h 5
+b 2 c 6 d 2 f 5 g 2 b 1 c 2 b 1 h 5
+b 1 c 8 f 6 g 3 b 1 c 1 b 1 h 5
+b 1 c 8 f 7 g 3 b 2 c 1 c 1 b 1 h 5
+b 1 c 7 e 1 f 7 g 2 b 1 c 2 b 1 h 5
+b 1 c 1 d 1 f 1 d 1 c 4 e 1 f 7 g 2 b 1 c 3 b 1 h 5
+b 1 c 1 f 1 b 1 f 1 c 3 e 2 f 6 g 2 b 1 c 2 b 1 h 5
+b 1 c 1 d 1 f 1 d 1 c 3 e 3 f 4 g 1 b 2 c 1 b 1 h 5
+b 1 c 7 e 3 f 3 g 1 b 1 c 1 b 1 h 5
+b 1 c 5 b 8 b 2 h 4
+b 1 c 1 b 4 b 1 h 4
+b 2 b 4
+b 1

@@ -1,0 +1,56 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr  9, 2011"
+description "high and low diving boards"
+difficulty 1.25
+height 20
+id 13272
+link "https://webpbn.com/play.cgi?id=13272"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "# 4 What's in my pond"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+0
+black 6
+black 1 black 1
+black 1 black 1
+black 9
+black 1 black 1
+black 4
+black 1 black 1
+black 4
+black 1 black 1
+black 4
+black 1 black 1
+black 7
+black 1 black 1
+blue 15
+blue 15
+blue 15
+blue 15
+blue 15
+
+columns
+black 13 blue 5
+black 1 black 1 black 1 black 1 black 1 black 1 blue 5
+black 1 black 1 black 1 black 1 black 1 black 1 blue 5
+black 1 black 10 blue 5
+black 1 black 1 black 1 blue 5
+black 4 black 1 blue 5
+black 1 black 1 blue 5
+black 1 blue 5
+black 1 blue 5
+blue 5
+blue 5
+blue 5
+blue 5
+blue 5
+blue 5

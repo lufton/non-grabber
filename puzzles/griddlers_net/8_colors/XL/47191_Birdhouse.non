@@ -1,0 +1,105 @@
+by "wylwo2"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/17/07"
+height 45
+id 47191
+link "https://www.griddlers.net/nonogram/-/g/47191"
+medium_time "0:21:12"
+points 56717
+popularity 78.95
+title "Birdhouse"
+width 35
+
+color a 9999ff
+color b 000000
+color c 666666
+color d 990033
+color e 387e21
+color f ffff33
+color g 006600
+color h b81c43
+
+rows
+b 3
+b 2 f 1 b 2 f 1
+b 5 f 3
+b 8
+b 9
+b 12
+b 12
+b 10
+b 7
+d 1 b 4
+d 2 f 1 f 1 d 4
+d 1 h 1 d 1 f 2 f 2 d 3 h 1 d 1
+d 1 h 2 d 1 c 17 d 1 h 2 d 1
+d 1 h 2 d 1 c 17 d 1 h 2 d 1
+d 1 h 1 d 1 c 3 d 3 h 1 d 1
+d 2 c 3 d 4
+d 1 c 1 g 1 c 1
+g 1 e 1 g 1
+g 1 e 3 g 1
+g 1 e 5 g 1
+g 1 e 3 g 1 e 3 g 1
+g 1 e 3 g 1 h 1 g 1 e 3 g 1
+g 1 e 3 g 1 d 1 h 1 d 1 g 1 e 3 g 1
+g 1 e 3 g 1 h 1 d 1 h 1 d 1 h 1 g 1 e 3 g 1
+g 1 e 3 g 1 h 2 d 1 h 1 d 1 h 2 g 1 e 3 g 1
+g 1 e 3 g 1 d 1 h 2 d 1 h 1 d 1 h 2 d 1 g 1 e 3 g 1
+g 1 e 3 g 1 h 1 d 1 h 2 d 1 h 1 d 1 h 2 d 1 h 1 g 1 e 3 g 1
+g 1 e 3 g 1 h 2 d 1 h 2 d 1 h 1 d 1 h 2 d 1 h 2 g 1 e 3 g 1
+g 1 e 3 g 1 d 1 h 2 d 1 h 2 d 1 h 1 d 1 h 2 d 1 h 2 d 1 g 1 e 3 g 1
+g 1 e 3 g 1 h 1 d 1 h 2 d 1 h 2 d 1 b 3 h 1 d 1 h 2 d 1 h 1 g 1 e 3 g 1
+g 1 e 3 g 1 h 2 d 1 h 2 d 1 h 1 b 6 d 1 h 2 d 1 h 2 g 1 e 3 g 1
+g 1 e 3 g 1 d 1 h 2 d 1 h 2 d 1 b 4 f 1 b 2 f 1 h 2 d 1 h 2 d 1 g 1 e 3 g 1
+g 1 e 3 g 1 h 1 d 1 h 2 d 1 h 2 b 7 f 3 h 1 d 1 h 2 d 1 h 1 g 1 e 3 g 1
+g 1 e 2 g 1 h 2 d 1 h 2 d 1 h 2 b 9 h 2 d 1 h 2 d 1 h 2 g 1 e 2 g 1
+g 1 e 1 g 1 d 1 h 2 d 1 h 2 d 1 h 2 b 9 h 2 d 1 h 2 d 1 h 2 d 1 g 1 e 1 g 1
+g 2 d 1 h 2 d 1 h 2 d 1 h 2 b 9 h 2 d 1 h 2 d 1 h 2 d 1 g 2
+g 1 d 1 h 2 d 1 h 2 d 1 h 2 b 9 h 2 d 1 h 2 d 1 h 2 d 1 g 1
+d 1 h 2 d 1 h 2 d 1 h 2 d 1 b 7 d 1 h 2 d 1 h 2 d 1 h 2 d 1
+d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 1 b 5 h 1 d 1 h 2 d 1 h 2 d 1 h 2 d 1
+d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 1 d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 1
+d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 3 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 1
+d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 3 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 1
+d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 1 d 1 h 2 d 1 h 2 d 1 h 2 d 1 h 2 d 1
+e 29
+e 1 f 3 e 1 f 3 e 1 f 3 e 1 f 3 e 1 f 3 e 1 f 3 e 1 f 3 e 1
+
+columns
+0
+g 5
+g 1 e 3 g 1
+g 1 e 3 g 1 e 2
+g 1 e 3 g 1 d 9 e 1 f 1
+d 2 g 1 e 3 g 1 h 10 e 1 f 1
+d 1 h 2 d 1 g 1 e 3 g 1 h 11 e 1 f 1
+d 1 h 4 d 1 g 1 e 3 g 1 d 12 e 2
+d 8 g 1 e 3 g 1 h 13 e 1 f 1
+c 2 g 1 e 3 g 1 h 14 e 1 f 1
+b 1 c 2 g 1 e 3 g 1 d 15 e 1 f 1
+b 2 c 2 g 1 e 3 g 1 h 16 e 2
+b 3 c 2 g 1 e 3 g 1 h 17 e 1 f 1
+b 3 c 2 g 1 e 3 g 1 d 7 b 5 d 6 e 1 f 1
+b 5 c 2 g 1 e 3 g 1 h 7 b 7 h 5 e 1 f 1
+b 7 f 2 c 2 g 1 e 3 g 1 h 7 b 9 h 4 e 2
+b 7 f 1 c 5 g 1 e 3 g 1 d 8 b 9 d 4 e 1 f 1
+b 8 c 4 g 1 e 3 g 1 h 8 b 10 h 1 d 2 h 1 e 1 f 1
+b 9 f 2 c 5 g 1 e 3 g 1 d 7 b 2 f 1 b 7 d 4 e 1 f 1
+b 9 f 1 c 2 g 1 e 3 g 1 h 6 b 10 h 4 e 2
+b 1 f 1 b 7 c 2 g 1 e 3 g 1 h 6 b 2 f 1 b 5 h 5 e 1 f 1
+b 8 c 2 g 1 e 3 g 1 d 6 f 2 b 4 d 6 e 1 f 1
+b 1 f 1 b 3 c 2 g 1 e 3 g 1 h 6 f 1 h 10 e 1 f 1
+f 2 c 2 g 1 e 3 g 1 h 16 e 2
+f 1 c 2 g 1 e 3 g 1 d 15 e 1 f 1
+c 2 g 1 e 3 g 1 h 14 e 1 f 1
+d 4 g 1 e 3 g 1 h 13 e 1 f 1
+d 1 h 2 d 1 g 1 e 3 g 1 d 12 e 2
+d 2 h 2 d 2 g 1 e 3 g 1 h 11 e 1 f 1
+d 1 h 1 d 2 h 1 d 1 g 1 e 3 g 1 h 10 e 1 f 1
+d 2 d 2 g 1 e 3 g 1 d 9 e 1 f 1
+d 1 d 1 g 1 e 3 g 1 e 2
+g 1 e 3 g 1
+g 5
+0

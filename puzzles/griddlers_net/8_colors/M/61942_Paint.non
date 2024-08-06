@@ -1,0 +1,58 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/20/08"
+height 10
+id 61942
+link "https://www.griddlers.net/nonogram/-/g/61942"
+medium_time "0:03:33"
+points 2000
+popularity 56.23
+title "Paint"
+width 23
+
+color a ccccff
+color b 6b5a5a
+color c a5a5a5
+color d ff3184
+color e fad7ee
+color f faafce
+color g dfdcdc
+color h 000000
+
+rows
+b 2
+b 1 c 2 b 1
+b 1 c 2 b 3 d 7 b 5
+b 1 c 2 b 1 c 1 d 1 e 7 d 1 c 4 b 1
+b 1 c 2 b 1 c 1 d 1 f 7 d 1 g 4 c 1 b 1 h 3
+b 1 g 1 c 1 b 1 c 1 d 1 f 7 d 1 g 4 c 1 h 1 b 1 h 1
+b 1 g 1 c 1 b 1 c 1 d 1 f 7 d 1 g 5 h 1 b 1 h 1
+b 1 g 1 c 1 b 1 c 1 d 1 f 7 d 1 g 4 c 1 h 3
+b 1 c 1 b 1 c 1 d 1 e 7 d 1 c 4 b 1
+b 5 d 7 b 5
+
+columns
+b 4
+b 1 c 4 b 3
+b 1 c 4 g 3 b 2
+b 4 c 4 b 1
+b 1 c 2 b 5
+b 1 d 2 c 4 b 1
+d 1 e 1 f 1 d 4 b 1
+d 1 e 1 f 4 e 1 d 1
+d 1 e 1 f 4 e 1 d 1
+d 1 e 1 f 4 e 1 d 1
+d 1 e 1 f 4 e 1 d 1
+d 1 e 1 f 4 e 1 d 1
+d 1 e 1 f 4 e 1 d 1
+b 1 d 2 f 3 e 1 d 1
+b 1 c 1 g 1 d 4 b 1
+b 1 c 1 g 4 c 1 b 1
+b 1 c 1 g 4 c 1 b 1
+b 1 c 1 g 4 c 1 b 1
+b 1 c 1 g 3 c 1 b 1
+b 1 c 1 g 1 c 1 b 1
+h 4
+h 1 b 2 h 1
+h 4

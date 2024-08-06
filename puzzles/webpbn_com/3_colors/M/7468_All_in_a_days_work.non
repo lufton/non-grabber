@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Brian Bellis"
+date "Dec 21, 2009"
+description "So I'm told."
+difficulty 1.75
+height 20
+id 7468
+link "https://webpbn.com/play.cgi?id=7468"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "All in a day's work"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 3 black 3 black 2 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 3 black 2 black 3
+0
+black 3 blue 2 blue 1 blue 2 blue 3 blue 1 blue 1
+black 1 black 1 blue 1 blue 1 blue 1 blue 3 blue 3
+black 3 blue 2 blue 2 blue 2 blue 1 blue 1 blue 1 blue 1
+0
+black 3 blue 2 blue 3 blue 3 blue 1 blue 1
+black 1 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 2
+black 3 blue 2 blue 3 blue 3 blue 1 blue 1
+0
+black 3 blue 2 blue 3 blue 3
+black 1 black 1 blue 1 blue 3 blue 1
+black 3 blue 2 blue 1 blue 1 blue 1
+0
+blue 3 blue 2 blue 2 blue 3
+black 3 blue 1 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 blue 2 blue 1 blue 1 blue 1
+black 3 blue 1 blue 1 blue 2 blue 2 blue 1
+
+columns
+black 3 black 3 black 3 black 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 3 black 3 black 3 black 3 black 3
+black 1
+blue 3 blue 3 blue 3 blue 4
+black 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+black 1 black 1 blue 2 blue 1
+black 3 blue 3 blue 3 blue 3
+blue 1 blue 1 blue 1 blue 2 blue 4
+blue 3 blue 3 blue 1 blue 1
+blue 3
+black 3 blue 1 blue 1 blue 3 blue 1 blue 2 blue 1
+black 1 black 1 blue 1 blue 1 blue 3 blue 1 blue 2
+black 1 blue 3 blue 3 blue 1
+blue 2 blue 1
+black 3 blue 3 blue 3 blue 4
+black 1 black 1 blue 1 blue 1
+black 3 blue 3 blue 1 blue 1
+blue 1
+blue 3

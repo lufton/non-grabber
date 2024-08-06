@@ -1,0 +1,32 @@
+by "Josh Greifer (joshgreifer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Josh Greifer"
+date "Mar 18, 2010"
+description "I wonder what the hardest 5X5 puzzle is?"
+difficulty 2.0
+height 5
+id 8093
+link "https://webpbn.com/play.cgi?id=8093"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Tiny bit tricky (no picture)"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 1 green 1
+black 1
+green 1 red 1
+black 1 green 1
+red 1 black 1
+
+columns
+black 1 green 1
+red 1 black 1
+red 1
+green 1 black 1
+green 1 red 1

@@ -1,0 +1,74 @@
+by "sylou"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/25/23"
+height 25
+id 267739
+link "https://www.griddlers.net/nonogram/-/g/267739"
+medium_time "0:08:06"
+points 7429
+popularity 88.95
+title "Hummingbird"
+width 25
+
+color a ffffff
+color b 000000
+color c CC0066
+color d 336633
+color e 669966
+color f 99FF99
+color g CCCCCC
+
+rows
+d 2
+d 2 e 1
+d 3 e 1 f 1
+d 4 e 1 f 1
+d 4 e 2 f 1
+e 3 d 4 e 2 f 1
+e 5 d 3 e 3 f 2
+b 5 e 1 b 1 e 3 d 2 e 3 f 3
+c 2 e 3 d 2 e 2 f 3 d 8
+c 3 e 3 d 2 f 2 d 2 e 3 f 4
+c 2 e 4 d 4 e 3 f 3
+g 1 e 6 d 2 e 2 f 3
+g 2 e 5 d 1 e 2 f 3
+g 2 e 5 d 1 f 2
+g 4 e 3 d 1
+g 3 e 3 d 1
+g 2 e 2 d 2
+e 3 d 2
+e 2 d 2
+e 2 d 1
+g 1 e 1 d 1
+g 1 d 1
+g 2 d 1
+d 2 g 2 d 1
+d 3
+
+columns
+b 1
+b 1
+b 1
+b 1
+b 1
+e 2 c 3 g 2
+e 2 b 1 c 3 e 1 g 3 d 1
+e 4 c 1 e 3 g 3 d 2
+e 9 g 3 g 1 d 1
+e 8 g 3 e 1 g 2 d 1
+d 1 e 11 g 3 d 1
+d 4 e 10 d 2
+d 2 e 1 d 4 e 3 d 5
+d 2 e 2 f 1 d 2 e 1 d 6
+d 3 e 1 f 2 d 1 e 2 f 1
+d 3 e 2 f 1 d 1 e 2 f 2
+d 3 e 1 f 2 d 1 e 1 f 2
+d 3 e 2 f 1 d 1 e 2 f 2
+d 2 e 2 f 2 d 1 e 1 f 2
+d 2 e 2 f 2 d 1 e 1 f 1
+d 1 e 1 f 2 d 1 f 2
+d 1 e 1 f 1 d 1 f 1
+d 1 d 1 f 1
+d 1 f 1
+d 1

@@ -1,0 +1,122 @@
+by "Matt Gurney (joudas.1)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Matt Gurney"
+date "Feb 19, 2008"
+description "You euthanized your weighted companion cube more quickly than any other test subject on record. Congratulations."
+difficulty 2.75
+height 50
+id 2306
+link "https://webpbn.com/play.cgi?id=2306"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Euthanize me"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 20 blue 1
+black 13 blue 18 black 13
+black 1 black 1 blue 2 blue 2 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 6 black 1 black 1 black 1
+black 1 black 3 black 1 black 2 black 2 black 1 black 3 black 1
+black 1 black 2 black 2 black 2 black 1 red 2 black 1 black 2 black 2 black 2 black 1
+black 1 black 2 black 2 black 6 red 2 black 6 black 2 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 9 red 2 black 9 black 2 black 1
+black 1 black 2 black 10 red 2 black 10 black 2 black 1
+black 7 black 11 red 2 black 11 black 7
+black 2 black 11 black 11 black 2
+blue 1 black 2 black 10 black 10 black 2 blue 1
+blue 2 black 10 black 10 blue 2
+blue 3 black 16 black 16 blue 3
+blue 2 black 9 black 9 blue 2
+blue 2 black 7 red 3 red 3 black 7 blue 2
+blue 2 black 7 red 5 red 5 black 7 blue 2
+blue 2 black 6 red 6 red 6 black 6 blue 2
+blue 2 black 6 red 14 black 6 blue 2
+blue 2 red 6 red 14 red 6 blue 2
+blue 2 red 6 red 14 red 6 blue 2
+blue 2 black 6 red 12 black 6 blue 2
+blue 2 black 6 red 10 black 6 blue 2
+blue 2 black 7 red 8 black 7 blue 2
+blue 2 black 7 red 4 black 7 blue 2
+blue 2 black 9 red 2 black 9 blue 2
+blue 3 black 16 black 16 blue 3
+blue 3 black 10 black 10 blue 3
+blue 2 black 2 black 9 black 9 black 2 blue 2
+blue 1 black 2 black 10 black 10 black 2 blue 1
+black 2 black 11 red 2 black 11 black 2
+black 6 black 10 red 2 black 10 black 6
+black 1 black 2 black 9 red 2 black 9 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 7 red 2 black 7 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 2 black 3 black 3 black 2 black 2 black 1
+black 1 black 2 black 2 black 1 black 10 black 1 black 2 black 2 black 1
+black 1 black 3 black 1 black 1 black 3 black 1
+black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 blue 16 black 1 black 1
+black 14 blue 18 black 14
+blue 1 blue 18 blue 1
+
+columns
+blue 1 blue 19 blue 1
+black 14 blue 17 black 13
+black 1 black 1 blue 1 blue 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 3 black 1
+black 1 black 4 black 1 black 1 black 2 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 7 red 2 black 7 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 9 red 2 black 9 black 2 black 1
+black 7 black 10 red 2 black 10 black 2 black 1
+black 2 black 11 red 2 black 11 black 7
+blue 1 black 2 black 10 black 10 black 2
+blue 2 black 11 black 9 black 2 blue 2
+blue 3 black 9 black 10 blue 3
+blue 4 black 15 red 4 black 14 blue 5
+blue 2 black 9 red 6 black 9 blue 3
+blue 2 black 1 black 8 red 8 black 9 blue 3
+blue 2 black 1 black 7 red 9 black 7 black 1 blue 3
+blue 2 black 1 black 7 red 9 black 6 black 1 blue 3
+blue 2 black 1 black 7 red 9 black 6 black 1 blue 3
+blue 2 black 1 red 7 red 8 red 6 black 1 blue 3
+blue 2 black 1 red 7 red 8 red 6 black 1 blue 3
+blue 2 black 1 black 7 red 9 black 6 black 1 blue 3
+blue 2 black 1 black 7 red 9 black 6 black 1 blue 3
+blue 2 black 1 black 7 red 9 black 7 black 1 blue 3
+blue 2 black 1 black 8 red 8 black 9 blue 3
+blue 2 black 9 red 6 black 9 blue 3
+blue 4 black 15 red 4 black 14 blue 5
+blue 3 black 9 black 10 blue 3
+blue 2 black 11 black 9 black 2 blue 2
+blue 1 black 2 black 10 black 10 black 2
+black 2 black 11 red 2 black 11 black 7
+black 7 black 10 red 2 black 10 black 2 black 1
+black 1 black 2 black 9 red 2 black 9 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 7 red 2 black 7 black 2 black 1
+black 1 black 2 black 8 red 2 black 8 black 2 black 1
+black 1 black 2 black 2 black 2 black 2 black 2 black 2 black 1
+black 1 black 4 black 1 black 1 black 2 black 2 black 1
+black 1 black 2 black 1 black 1 black 3 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 blue 1 blue 2 black 1 black 1
+black 14 blue 17 black 13
+blue 1 blue 19 blue 1

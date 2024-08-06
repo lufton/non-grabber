@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Feb 21, 2020"
+description "Make cobwebs"
+difficulty 2.25
+height 20
+id 33632
+link "https://webpbn.com/play.cgi?id=33632"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Why would spiders do that?"
+width 20
+
+rows
+7,8
+19
+7,8,1
+1,2
+3,3
+3,3
+4,4
+4,4
+4,4
+4,4
+2,2
+1,1
+9,7
+20
+8,7
+2,2,1
+1,4,3
+4,4
+4,4
+4,4
+
+columns
+1,1,2
+3,3,1
+3,2,3
+3,3,3
+3,3,3
+3,4,3,1
+3,4,3,2
+3,4,3,3
+1,3,3,4
+1,2,3,3
+3,1,3
+3,1,1,2
+3,2,3
+3,3,3
+3,3,3,1
+3,4,3,2
+3,4,3,3
+3,4,3,4
+1,4,3,3
+3,1,3

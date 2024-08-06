@@ -1,0 +1,67 @@
+by "Paul Andrew Kew (PK)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Paul Andrew Kew"
+date "Oct  4, 2010"
+description "Pacman"
+difficulty 2.25
+height 25
+id 10561
+link "https://webpbn.com/play.cgi?id=10561"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Can Eat And Be Eaten By Monsters"
+width 25
+
+rows
+7
+4,4
+3,3
+2,2
+2,2
+1,2
+2,2
+1,3
+1,3
+2,3
+1,3
+1,3
+1,2
+1,3
+1,3
+2,3
+1,3
+1,3
+2,2
+1,2
+2,2
+2,2
+3,3
+4,4
+7
+
+columns
+7
+4,4
+3,3
+2,2
+2,2
+1,1
+2,2
+1,1
+1,1
+2,2
+1,1
+1,1
+1,1,1
+1,3,1
+1,1,1,1
+2,2,2,2
+1,1,1,1
+1,2,2,1
+2,1,1,2
+1,2,2,1
+2,1,1,2
+2,2,2,2
+2,1,1,2
+3,3
+1,1

@@ -1,0 +1,138 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Yonah Kondor"
+date "Dec 24, 2020"
+description "Not that kind of cat, silly! A TOMCAT!"
+difficulty 2.0
+height 57
+id 34754
+link "https://webpbn.com/play.cgi?id=34754"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "A cat!"
+width 59
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2
+red 4
+red 5
+red 5
+red 6
+red 6
+red 7
+red 6
+red 7
+red 7
+red 8
+red 8
+red 9
+red 8 red 1
+red 9 red 3
+red 9 red 4
+black 3 red 10 red 5
+black 2 red 10 red 5
+red 12 red 6
+red 13 red 7
+red 15 red 8
+red 16 red 9
+red 33
+red 33 black 2
+red 42
+red 35 black 2
+red 48
+red 4 black 3 blue 2 black 1 blue 2 black 1 blue 4 black 1 blue 1 red 35
+red 2 black 5 blue 2 black 1 blue 3 black 1 blue 5 black 1 blue 1 red 34
+red 4 black 3 blue 2 black 1 blue 2 black 1 blue 4 black 1 blue 1 red 35
+red 48
+red 35 black 2
+red 42
+red 33 black 2
+red 33
+red 16 red 9
+red 15 red 8
+red 13 red 7
+red 12 red 6
+black 2 red 10 red 5
+black 3 red 10 red 5
+red 9 red 4
+red 9 red 3
+red 8 red 1
+red 9
+red 8
+red 8
+red 7
+red 7
+red 6
+red 7
+red 6
+red 6
+red 5
+red 5
+red 4
+red 2
+
+columns
+red 1
+red 3
+red 1 black 1 red 1
+red 1 black 1 red 1
+red 1 black 1 red 1
+red 1 black 3 red 1
+red 1 black 3 red 1
+red 1 black 1 blue 1 black 1 red 1
+red 1 blue 3 red 1
+red 1 blue 1 black 1 blue 1 red 1
+red 1 black 1 blue 1 black 1 red 1
+red 1 blue 3 red 1
+red 1 blue 3 red 1
+red 1 black 3 red 1
+red 1 blue 3 red 1
+red 1 blue 3 red 1
+red 1 blue 3 red 1
+red 3 blue 3 red 3
+red 3 black 1 blue 1 black 1 red 3
+red 4 blue 1 black 1 blue 1 red 4
+red 6 blue 1 red 6
+red 13
+red 15
+red 15
+red 17
+red 17
+red 19
+black 1 red 19 black 1
+black 2 red 21 black 2
+black 2 red 21 black 2
+red 25
+red 29
+red 33
+red 37
+red 41
+red 45
+red 49
+red 53
+red 20 red 13 red 20
+red 18 red 13 red 18
+red 13 red 13 red 13
+red 7 red 13 red 7
+red 13
+red 13
+red 13
+red 15
+red 17
+red 19
+red 21
+red 23
+red 25
+red 27
+red 9 black 1 red 1 black 1 red 5 black 1 red 1 black 1 red 9
+red 9 black 1 red 1 black 1 red 3 black 1 red 1 black 1 red 9
+red 3 red 1 red 3 red 1 red 3
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1

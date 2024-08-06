@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Jan 22, 2022"
+description "Snail mail"
+difficulty 1.25
+height 15
+id 35549
+link "https://webpbn.com/play.cgi?id=35549"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Animal term #8"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 2
+black 6 black 3
+black 7 blue 1 black 3
+blue 1 black 6 blue 1 black 1 black 4
+black 1 blue 7 black 3 black 3
+black 1 blue 7 black 7
+black 1 black 7
+black 1 red 7 black 6
+black 1 blue 7 black 5
+blue 7 black 5
+black 14
+black 16
+
+columns
+black 1
+black 2
+black 5 black 2
+blue 3 red 1 blue 2 black 2
+black 2 blue 2 red 1 blue 2 black 2
+black 3 blue 2 red 1 blue 2 black 2
+black 3 blue 2 red 1 blue 2 black 2
+black 3 blue 2 red 1 blue 2 black 2
+black 3 blue 2 red 1 blue 2 black 2
+black 3 blue 2 red 1 blue 2 black 2
+black 2 blue 1 black 8
+blue 1 black 9
+black 8
+black 7
+black 8
+black 10 black 1
+black 1 black 7
+black 1 black 3
+black 2 black 1
+0

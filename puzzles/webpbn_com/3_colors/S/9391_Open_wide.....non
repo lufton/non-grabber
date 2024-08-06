@@ -1,0 +1,50 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 28, 2010"
+description "and say ahhhh"
+difficulty 1.5
+height 17
+id 9391
+link "https://webpbn.com/play.cgi?id=9391"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Open wide...."
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 8
+black 2 black 4 black 2
+black 1 black 9
+black 5 black 4
+black 2 black 1 black 2
+black 1 black 3 black 3 black 2
+black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 2 black 2 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 2 black 2
+black 2 black 4 black 2
+black 10
+black 2 red 2 black 2
+black 1 red 2 black 1
+red 2
+
+columns
+black 10
+black 1 black 2 black 2
+black 4 black 2 black 1
+black 1 black 2 black 1 black 1 black 2
+black 5 black 3 black 4
+black 3 black 1 black 3 red 3
+black 3 black 3 black 3 red 3
+black 3 black 2 black 1 black 4
+black 1 black 2 black 2 black 2
+black 4 black 1
+black 6 black 3
+black 9

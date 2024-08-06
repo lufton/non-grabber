@@ -1,0 +1,62 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gaynor Sorrell"
+date "Oct 26, 2017"
+description "Every time I go on a trip, I come home with some bug (that's supposed to be an old-style thermometer under my tongue)."
+difficulty 2.0
+height 20
+id 30429
+link "https://webpbn.com/play.cgi?id=30429"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Not again!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3 blue 7 black 3
+black 2 blue 10 black 2
+black 1 blue 12 black 1
+black 1 blue 5 blue 5 black 1
+blue 3 blue 4
+blue 4 black 2 black 2 blue 5
+blue 4 blue 4
+blue 1 black 2 black 1 black 1 black 2 blue 1
+blue 3 black 2 black 3 black 3 black 2 blue 2
+blue 2 black 2 black 1 black 1 black 1 black 2 blue 3
+blue 2 black 1 black 2 black 2 blue 2
+blue 4 black 1 black 1 blue 2
+blue 3 black 1 red 2 black 1 blue 4
+black 1 blue 2 black 1 black 1 red 1 black 2 blue 3 black 1
+black 1 blue 4 black 1 black 1 black 3 blue 3 black 1
+black 2 blue 5 black 1 black 3 black 1 blue 4 black 2
+black 2 blue 3 red 1 black 1 blue 3 black 2
+blue 2 black 3 black 1 black 2 blue 3
+black 20
+0
+
+columns
+black 4 blue 1 black 3 black 1
+black 2 blue 1 blue 2 blue 1 black 2 black 1
+black 1 blue 8 blue 2 black 1 blue 1 black 1
+blue 4 black 3 blue 8 black 1
+blue 5 black 4 blue 6 black 2
+blue 5 black 3 blue 3 black 2
+blue 4 black 1 black 1 black 1 blue 1 red 1 black 2
+blue 4 black 1 black 3 black 1 black 1
+blue 3 black 1 black 1 black 1
+blue 3 black 1 red 1 black 1 black 1 black 1
+blue 3 black 2 red 2 black 1 black 1
+blue 4 black 1 black 2 black 1
+blue 4 black 1 black 3 black 1 black 2
+blue 4 black 1 black 1 black 4 black 1
+blue 6 black 4 blue 3 black 2
+blue 5 black 4 blue 6 black 2
+blue 3 black 3 blue 8 black 1
+black 1 blue 6 blue 2 blue 1 black 1 blue 1 black 1
+black 2 blue 1 blue 2 blue 1 black 2 blue 1 black 1
+black 4 blue 1 black 3 black 1

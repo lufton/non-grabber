@@ -1,0 +1,61 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Scarlet Noelle Masen"
+date "Aug  6, 2013"
+description "The logo for Cerberus, a group set out to enhance the human race in the late 22nd century. Cerberus is sometimes called a terrorist organization by others for their rather extreme methods of bringing about progress. They believe in humanity first and foremost, and at any cost. Run by the mysterious Illusive Man, their funds seem virtually unlimited when it comes to a project he feels needs their full attention."
+difficulty 1.5
+height 25
+id 22533
+link "https://webpbn.com/play.cgi?id=22533"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Human Enhancers"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 3
+black 5
+black 7
+black 4 black 4
+red 1 black 3 black 3 red 1
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 2 black 2 red 2
+red 2 black 3 black 3 red 2
+red 2 black 4 black 4 red 2
+red 2 black 4 black 4 red 2
+red 2 black 3 black 3 red 2
+red 3 black 3 black 3 red 3
+red 2 black 2 black 2 red 2
+red 2 black 1 black 1 red 2
+red 2 red 2
+red 1 red 1
+
+columns
+red 15
+red 17
+red 4
+black 15 red 3
+black 18
+black 4 black 6
+black 4 black 6
+black 4
+black 4 black 6
+black 4 black 6
+black 18
+black 15 red 3
+red 4
+red 17
+red 15

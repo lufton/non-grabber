@@ -1,0 +1,49 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Dave Oas"
+date "Nov 18, 2012"
+description "When you've been cleared for take-off, you're . . . . . (answer in comment #1)"
+difficulty 1.5
+height 8
+id 20415
+link "https://webpbn.com/play.cgi?id=20415"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Puzzle In a Puzzle # 4"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2 blue 1
+blue 3 black 2 black 2 blue 1
+blue 5 black 4 blue 1
+blue 2 blue 2 blue 2 black 2 blue 3
+blue 2 blue 2 blue 4 blue 3 black 2 blue 4
+blue 2 blue 1 blue 2 blue 1 blue 2 black 4 blue 1 blue 1
+blue 5 blue 4 blue 1 black 2 blue 1 black 2 blue 2
+blue 4 blue 2 black 2 blue 1 black 2 blue 1
+
+columns
+blue 5
+blue 7
+blue 2 blue 2
+blue 2 blue 1 blue 2
+blue 1 blue 4
+0
+blue 3
+blue 5
+blue 2 blue 2
+blue 3
+0
+black 1 blue 3 black 1
+black 2 blue 3 black 2
+black 2 blue 2 black 2 blue 1
+black 4 blue 1
+black 4
+black 2 blue 1 black 2
+black 2 blue 3 black 2
+black 1 blue 2 blue 1 black 1
+blue 8

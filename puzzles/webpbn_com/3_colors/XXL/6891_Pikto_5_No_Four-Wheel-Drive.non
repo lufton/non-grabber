@@ -1,0 +1,122 @@
+by "Kai-Uwe Zickerick (conzick)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Kai-Uwe Zickerick"
+date "Oct  7, 2009"
+description ""
+difficulty 3.5
+height 49
+id 6891
+link "https://webpbn.com/play.cgi?id=6891"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.5
+title "Pikto #5 No Four-Wheel-Drive"
+width 52
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 12
+red 16
+red 7 red 6
+red 6 red 5
+red 6 red 4
+red 5 red 6
+red 4 red 5
+red 3 red 4
+red 3 red 3
+red 3 red 4
+red 3 black 1 red 6
+red 3 black 1 black 2 red 4 red 3
+red 3 black 5 red 4 red 3
+red 3 black 6 red 4 red 3
+red 3 black 8 red 4 red 3
+red 3 black 11 red 4 red 3
+red 3 black 14 red 4 red 2
+red 3 black 27 red 4 red 3
+red 3 black 32 red 3
+red 2 black 34 red 2
+red 3 black 31 red 3
+red 3 black 31 red 3
+red 3 black 30 red 3
+red 3 black 30 red 3
+red 3 black 31 red 3
+red 3 black 31 red 3
+red 3 black 31 red 3
+red 3 black 31 red 2
+red 3 black 12 black 18 red 1
+red 3 black 8 black 19
+red 3 black 3 red 2 black 2 black 18
+red 3 black 3 red 2 black 2 black 12 red 3
+red 3 black 2 red 2 black 2 black 10 red 2
+red 3 red 1 black 2 red 1 black 2 black 2 black 3 red 3
+red 3 red 2 black 2 black 2 black 2 black 3 red 2
+red 3 red 3 black 2 black 3 black 3 black 3 red 3
+red 3 red 3 black 7 black 3 black 3 red 3
+red 3 red 3 black 4 black 2 black 3 black 2 red 3
+red 3 red 4 black 2 red 3
+red 7 red 3
+red 5 red 3
+red 4 red 4
+red 5 red 5
+red 6 red 7
+red 7 red 8
+red 17
+red 13
+red 7
+
+columns
+red 7
+red 13
+red 17
+red 6 red 7
+red 6 black 1 red 6
+red 5 black 3 red 5
+red 4 black 4 red 4
+red 3 black 5 red 3
+red 3 black 6 red 3
+red 3 black 10 red 3
+red 3 black 10 red 3
+red 3 black 12 red 4
+red 3 black 12 red 5
+red 3 black 14 red 7
+red 3 black 14 red 4 red 2
+red 3 black 14 red 4 red 3
+red 3 black 14 red 3 black 1 red 2
+red 3 black 17 red 3 black 3 red 3
+red 3 black 23 red 3
+red 3 black 22 red 3
+red 3 black 13 red 4 black 1 red 3
+red 3 black 13 red 3 black 3 red 3
+red 3 black 21 red 3
+red 3 black 20 red 3
+red 3 black 13 red 3
+red 3 black 12 red 3
+red 3 black 12 red 3
+red 3 black 12 red 3
+red 2 black 11 red 4
+red 3 black 11 red 3
+red 3 black 11 red 3
+red 2 black 14 red 4
+red 3 black 14 red 3
+red 2 red 1 black 14 black 1 red 3
+red 2 red 2 black 15 black 2 red 2
+red 3 red 3 black 15 black 3 red 3
+red 3 red 4 black 18 red 2
+red 3 red 4 black 17 red 3
+red 3 red 4 black 14 red 2
+red 3 red 4 black 13 black 2 red 3
+red 3 red 4 black 12 black 3 red 3
+red 7 black 11 black 3 red 3
+red 5 black 13 red 3
+red 3 black 11 red 3
+red 4 black 5 black 1 red 3
+red 5 black 4 red 4
+red 5 black 3 red 5
+red 6 black 3 red 3
+red 13 black 3 red 1
+red 12 black 1
+red 7
+0

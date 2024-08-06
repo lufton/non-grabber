@@ -1,0 +1,49 @@
+by "Zoon"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/17/11"
+height 12
+id 116207
+link "https://www.griddlers.net/nonogram/-/g/116207"
+medium_time "0:00:54"
+points 75
+popularity 46.53
+title "Candles"
+width 17
+
+color a cccccc
+color b ffff00
+color f ff3333
+
+rows
+b 1
+b 3
+f 7 b 1
+f 7 b 3
+f 7 f 5
+b 1 f 7 f 5
+f 3 f 7 f 5
+f 3 f 7 f 5
+f 3 f 7 f 5
+f 3 f 7 f 5
+f 3 f 7 f 5
+f 3 f 7 f 5
+
+columns
+f 6
+b 1 f 6
+f 6
+0
+f 10
+f 10
+b 1 f 10
+b 2 f 10
+b 1 f 10
+f 10
+f 10
+0
+f 8
+b 1 f 8
+b 2 f 8
+b 1 f 8
+f 8

@@ -1,0 +1,59 @@
+by "netty"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/27/05"
+height 19
+id 24594
+link "https://www.griddlers.net/nonogram/-/g/24594"
+medium_time "0:05:12"
+points 868
+popularity 69.46
+title "Donald Duck"
+width 18
+
+color a 00c000
+color b fffefe
+color c ffc700
+color d 0000c7
+color h 000000
+
+rows
+d 2
+d 4
+d 5
+h 1 d 6
+b 1 h 2 d 7
+b 3 h 3 d 6
+b 5 h 3 d 3 h 2
+b 8 h 2 h 3
+b 9 h 1 h 1
+b 1 h 1 b 2 h 1 b 2 c 2 h 1
+c 1 h 1 b 1 c 1 h 1 b 1 c 3
+c 10
+c 9
+c 10
+c 9 d 1
+c 6 b 1 d 2
+d 2 b 2 d 3
+d 2 b 2 d 4
+d 10
+
+columns
+c 2
+c 2
+c 5
+b 5 c 6
+d 2 h 1 b 5 h 2 c 5 d 1
+d 4 h 1 b 6 c 5 d 3
+d 4 h 2 b 4 c 6 d 3
+d 4 h 1 b 3 h 2 c 5 b 2 d 1
+d 3 h 2 b 4 c 4 b 3 d 1
+d 3 h 1 b 3 c 4 d 5
+d 3 h 1 b 2 c 4 d 4
+d 3 h 1 b 1 c 3 d 3
+d 3 h 1 d 2
+d 3 d 1
+d 1 h 2
+h 4
+h 1
+h 1

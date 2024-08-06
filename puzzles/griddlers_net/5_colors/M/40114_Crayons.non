@@ -1,0 +1,70 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/23/06"
+height 28
+id 40114
+link "https://www.griddlers.net/nonogram/-/g/40114"
+medium_time "0:02:41"
+points 365
+popularity 61.91
+title "Crayons"
+width 20
+
+color a 000000
+color c ff0000
+color d 993300
+color e 00d700
+color f 0000ff
+
+rows
+e 1
+e 3
+e 3
+f 1 e 5
+c 1 f 3 d 1 e 5
+c 3 f 3 d 3 e 5
+c 3 f 5 d 3
+c 5 f 5 d 5 e 5
+c 5 f 5 d 5
+c 5 d 5 e 5
+f 5 e 5
+c 5 d 5 e 5
+f 5 e 5
+c 5 f 5 d 5 e 5
+c 5 f 5 d 5 e 5
+c 5 f 5 d 5 e 5
+c 5 f 5 d 5 e 5
+c 5 f 5 d 5 e 5
+c 5 f 5 d 5
+c 5 f 5 d 5 e 5
+c 5 f 5 d 5
+c 5 d 5 e 5
+f 5 e 5
+c 5 d 5 e 5
+f 5
+c 5 f 5 d 5
+c 5 f 5 d 5
+c 5 d 5
+
+columns
+c 3 c 1 c 9 c 1 c 3
+c 5 c 1 c 9 c 1 c 3
+c 6 c 1 c 9 c 1 c 3
+c 5 c 1 c 9 c 1 c 3
+c 3 c 1 c 9 c 1 c 3
+f 3 f 1 f 9 f 1 f 3
+f 5 f 1 f 9 f 1 f 3
+f 6 f 1 f 9 f 1 f 3
+f 5 f 1 f 9 f 1 f 3
+f 3 f 1 f 9 f 1 f 3
+d 3 d 1 d 9 d 1 d 3
+d 5 d 1 d 9 d 1 d 3
+d 6 d 1 d 9 d 1 d 3
+d 5 d 1 d 9 d 1 d 3
+d 3 d 1 d 9 d 1 d 3
+e 3 e 1 e 9 e 1 e 3
+e 5 e 1 e 9 e 1 e 3
+e 6 e 1 e 9 e 1 e 3
+e 5 e 1 e 9 e 1 e 3
+e 3 e 1 e 9 e 1 e 3

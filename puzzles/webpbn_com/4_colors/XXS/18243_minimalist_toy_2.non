@@ -1,0 +1,32 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Apr  9, 2012"
+description "a top"
+difficulty 1.0
+height 5
+id 18243
+link "https://webpbn.com/play.cgi?id=18243"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "minimalist toy 2"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+red 5
+blue 3
+red 3
+blue 1
+
+columns
+red 1
+red 1 blue 1 red 1
+black 1 red 1 blue 1 red 1 blue 1
+red 1 blue 1 red 1
+red 1

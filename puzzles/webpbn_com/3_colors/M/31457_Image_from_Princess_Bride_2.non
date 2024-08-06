@@ -1,0 +1,66 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Brian Bellis"
+date "Jul 28, 2018"
+description "ROUS"
+difficulty 1.75
+height 15
+id 31457
+link "https://webpbn.com/play.cgi?id=31457"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Image from Princess Bride 2"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1
+black 1 black 2
+black 2 black 2
+black 2 black 5
+black 20 black 7
+black 26
+black 22
+black 21 red 2
+black 24
+black 5 black 3
+black 7 black 3
+black 7 black 5
+black 2 black 5
+black 2
+
+columns
+black 3 black 3
+black 2 black 4
+black 2 black 2 black 1
+black 2 black 2
+black 8
+black 8
+black 8
+black 6
+black 6
+black 5
+black 5
+black 5
+black 5
+black 5
+black 5
+black 6
+black 7
+black 8
+black 6 black 3
+black 8 black 2
+black 8 black 2
+black 6 black 2
+black 1 black 4 black 1
+black 5
+black 5
+black 3 red 1 black 1
+black 2 red 1 black 1
+black 2 black 1
+black 2
+black 1

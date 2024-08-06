@@ -1,0 +1,68 @@
+by "MagiMaster"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/29/04"
+height 25
+id 8087
+link "https://www.griddlers.net/nonogram/-/g/8087"
+medium_time "0:14:16"
+points 4579
+popularity 55.65
+title "Koopa Troopa"
+width 20
+
+color a ffffff
+color b 009b00
+color c 00ff00
+color d ff8700
+color e be2800
+color h 000000
+
+rows
+h 1
+e 1 h 1
+e 1 d 1 h 1 e 1
+e 1 d 2 d 1 e 1
+e 1 d 3 d 2 e 1
+e 1 d 8 e 1
+e 1 d 8 e 1
+e 1 d 3 e 2 d 2 e 1
+e 1 d 4 e 1 d 1 e 1
+h 4 e 1 d 4 e 2
+h 3 h 3 d 2 e 3
+h 1 c 1 h 1 c 2 h 1 h 1 h 1 d 1 e 1
+h 2 c 2 b 1 h 5 e 1
+h 1 b 1 h 1 b 2 h 1 b 1 h 1 e 2 h 3
+h 1 b 1 h 3 b 1 h 1 e 1 d 2 e 1 h 1
+h 2 b 2 h 2 e 1 d 1 e 1 b 2 h 1
+h 2 b 1 h 2 h 1 e 1 d 1 e 2 h 1
+h 5 e 3 d 3 e 1
+h 3 e 1 d 1 e 1 d 3 e 1
+h 1 h 1 e 1 d 2 e 3
+h 8
+h 1 c 3 h 1
+h 1 c 3 h 3
+h 1 b 5 h 1
+0
+
+columns
+0
+0
+h 5 h 1
+h 2 b 2 h 4 h 1
+h 1 c 1 h 3 b 2 h 2 h 1
+h 2 c 1 b 1 h 1 b 1 h 3 h 1
+h 2 c 2 b 1 h 4 h 5
+h 1 c 1 b 1 h 1 b 1 h 1 e 3 h 1 c 2 b 1
+e 4 h 1 h 2 b 1 h 1 h 1 e 1 d 2 h 1 c 2 b 1
+e 1 d 4 e 1 h 2 h 2 e 5 d 1 h 1 c 2 b 1
+e 1 d 6 e 1 h 3 e 1 d 5 e 1 h 3 b 1
+d 5 e 1 h 1 h 1 e 1 d 1 e 2 d 2 e 1 h 1 b 1
+d 6 h 3 e 1 b 1 e 1 d 2 e 1 h 1
+d 2 e 1 d 4 e 1 h 1 b 1 h 1 e 2 h 1
+h 3 d 3 e 1 d 2 e 2 h 1 h 1
+e 1 d 5 e 1 d 1 e 1 h 1
+e 2 d 4 e 2
+e 5
+0
+0

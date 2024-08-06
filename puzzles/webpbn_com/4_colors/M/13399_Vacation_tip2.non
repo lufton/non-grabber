@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Apr 16, 2011"
+description "Get a spare tank of propane for the gas grill. Don't want to run out when the tri tip is half cooked."
+difficulty 1.25
+height 20
+id 13399
+link "https://webpbn.com/play.cgi?id=13399"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Vacation tip2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 13
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 3 black 1
+black 1 black 1
+black 18
+black 1 black 1
+black 1 red 2 red 2 red 2 black 1
+black 1 red 2 red 2 red 2 black 1
+black 1 black 1
+black 13 blue 2
+black 1 blue 4 black 1 blue 4
+black 1 blue 4 black 1 blue 4
+black 1 blue 4 black 1 blue 4
+black 13 blue 4
+black 1 black 1 blue 4
+
+columns
+0
+black 18
+black 1 black 1 black 1 black 1
+black 1 black 1 red 2 black 1 black 1
+black 1 black 1 red 2 black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 red 1 black 1 red 2 black 1 black 1
+black 1 red 1 black 1 red 2 black 1 blue 3 black 1
+black 1 red 1 black 1 black 1 blue 3 black 1
+black 1 black 1 red 2 black 1 blue 3 black 1
+black 1 black 1 red 2 black 1 blue 3 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1
+black 18
+black 1
+black 1
+black 1 blue 5
+black 1 blue 6
+black 1 blue 6
+blue 5

@@ -1,0 +1,93 @@
+by "Byrdie (byrdie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Byrdie"
+date "Dec 11, 2008"
+description "Le chapeau d'Artagnan My Favorite Book - The Three Musketeers by Alexandre Dumas I read it many, many times before the move was released (the one most think of with Rachael Welch). I've read lots of books and can't really pick just one, but this is one I'd be happy to read again. That's a rather suspect Fleur de Lys on the front and a red plume. This was going to be a WC14 puzzle but I wasn't happy with it."
+difficulty 2.5
+height 40
+id 4143
+link "https://webpbn.com/play.cgi?id=4143"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Viva la Dumas"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 2
+blue 18 red 6 blue 2
+blue 18 red 6 blue 3
+blue 18 red 2 blue 1 red 1 blue 1 red 1 blue 4
+blue 18 red 1 blue 1 red 2 blue 2 red 1 blue 4
+blue 18 red 1 blue 1 red 1 blue 2 red 1 blue 5
+blue 18 red 1 blue 1 red 4 blue 5
+blue 17 red 3 blue 2 red 2 blue 5
+blue 17 red 1 blue 1 red 1 blue 2 red 2 blue 5
+blue 16 red 1 blue 2 red 1 blue 1 red 1 blue 1 red 1 blue 5
+blue 14 red 1 blue 1 red 1 blue 1 red 3 blue 1 red 2 blue 5
+blue 14 red 1 blue 1 red 1 blue 1 red 1 blue 3 red 2 blue 5
+blue 14 red 1 blue 1 red 1 black 1 red 1 blue 2 red 2 blue 6
+blue 13 black 1 red 1 black 1 red 2 black 1 red 1 blue 8
+blue 11 black 3 red 2 red 2 red 1 blue 7
+blue 9 black 3 red 1 red 2 black 1 red 1 blue 7
+blue 8 black 3 red 1 black 1 red 2 black 1 red 1 black 3 blue 5
+blue 7 black 2 blue 1 red 1 black 1 red 1 red 1 black 1 black 1 blue 4
+blue 6 black 2 blue 1 black 2 red 1 red 2 black 1 black 1 green 3
+blue 5 black 2 blue 1 black 3 red 2 black 1 black 1 green 3
+blue 5 black 1 blue 1 black 3 red 2 black 1 black 3 green 3
+blue 4 black 1 blue 1 black 2 red 1 black 6 green 3
+blue 4 black 3 red 1 black 7 green 3
+blue 4 black 1 red 1 black 7 green 4
+blue 4 black 2 red 1 black 8 green 4
+blue 3 black 3 black 9 green 5
+blue 2 black 5 black 10 green 5
+blue 2 black 1 black 4 black 10 green 6
+blue 1 black 1 black 2 black 1 black 10 green 7
+blue 1 black 1 black 2 black 11 green 7
+black 1 black 2 black 11 green 8
+black 1 black 1 black 1 black 11 green 9
+black 1 black 1 black 12 green 10
+black 1 black 3 black 10 green 11
+black 1 black 10 green 12
+black 1 black 9 green 14
+green 1 black 1 black 9 green 15
+green 2 black 1 black 8 green 17
+green 3 black 7 green 19
+green 29
+
+columns
+0
+blue 26 black 6 green 4
+blue 25 black 2 black 1 green 3
+blue 24 black 2 black 1 green 2
+blue 24 black 2 black 1 green 1
+blue 20 black 13 black 2 green 1
+blue 18 black 2 black 1 black 7 black 1 black 3 green 1
+blue 17 black 2 blue 1 black 1 black 2 black 1 black 1 black 4 green 1
+blue 16 black 2 blue 1 black 1 black 2 black 1 black 5 green 1
+blue 15 black 2 black 2 black 7 green 1
+blue 14 black 2 blue 1 black 1 black 8 green 1
+blue 14 black 2 black 2 black 8 green 2
+blue 13 black 2 blue 1 black 1 black 9 green 2
+blue 13 black 1 black 2 black 9 green 3
+blue 12 black 2 blue 1 black 1 black 10 green 3
+blue 9 red 9 black 10 green 4
+blue 12 black 1 red 1 black 2 red 2 black 10 green 5
+blue 8 red 4 red 2 red 6 black 10 green 5
+blue 6 red 2 blue 3 black 1 red 1 red 4 black 10 green 6
+blue 3 red 4 blue 2 red 5 red 1 black 10 green 7
+blue 2 red 1 blue 3 red 4 blue 2 black 1 red 1 black 2 red 1 black 10 green 8
+blue 1 red 5 blue 3 red 1 blue 2 red 1 red 1 black 14 green 9
+red 2 blue 1 red 1 blue 1 red 1 blue 2 red 1 blue 2 red 1 blue 1 red 2 black 1 black 9 green 10
+red 3 blue 2 red 3 blue 1 red 3 blue 3 black 1 black 7 green 12
+red 2 blue 2 red 7 blue 4 black 1 black 7 green 13
+red 5 blue 12 black 1 black 5 green 15
+red 3 blue 15 black 5 green 17
+red 1 blue 16 green 22
+blue 17 green 22
+blue 17 green 22

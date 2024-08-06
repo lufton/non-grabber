@@ -1,0 +1,48 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/1/06"
+height 14
+id 36488
+link "https://www.griddlers.net/nonogram/-/g/36488"
+medium_time "0:02:43"
+points 309
+popularity 62.86
+title "Parrot"
+width 11
+
+color a ffffff
+color b 996600
+color c ff9900
+color d ff99ff
+color e 99f433
+color f 9999ff
+
+rows
+d 3
+c 2 e 1 d 3
+c 2 d 4
+c 1 d 3
+d 3 f 2
+d 2 f 4
+d 3 f 4
+d 2 e 2 f 2
+d 3 e 2 f 2
+c 2 d 3 e 1
+b 2 c 1 b 2 e 3
+b 1 e 3
+b 1 e 2
+b 1 e 2
+
+columns
+c 3
+c 2 b 1
+d 1 e 1 d 5 b 1
+d 9 c 2
+d 5 f 1 d 3 c 1 b 4
+d 2 f 3 e 1 d 2 b 1
+f 3 e 2 d 1
+f 3 e 1 d 1 e 1
+f 3 e 3
+f 1 e 4
+e 3

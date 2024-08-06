@@ -1,0 +1,31 @@
+by "flores"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/13"
+height 5
+id 134651
+link "https://www.griddlers.net/nonogram/-/g/134651"
+medium_time "0:00:12"
+points 4
+popularity 44.73
+title "First Aid Kit"
+width 5
+
+color a ffffff
+color b 000000
+color c 66ccff
+color d ff0000
+
+rows
+c 1 b 1 c 1 b 1 c 1
+b 5
+0
+d 1
+d 3
+
+columns
+c 1 b 1
+b 2 d 1
+c 1 b 1 d 2
+b 2 d 1
+c 1 b 1

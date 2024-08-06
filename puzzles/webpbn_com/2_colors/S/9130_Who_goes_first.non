@@ -1,0 +1,47 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Tom O'Connell"
+date "Jun 10, 2010"
+description "as a kid I use rock/paper/scissors to decide"
+difficulty 1.75
+height 20
+id 9130
+link "https://webpbn.com/play.cgi?id=9130"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Who goes first?"
+width 10
+
+rows
+1
+2,1
+2,2
+2,2
+2,2
+3
+5
+3,3
+1,1,1,2
+1,1,1,1
+2,2,1,1
+3,2
+0
+10
+0
+2
+4
+6
+6
+8
+
+columns
+2,2,1
+2,1,2,1,1
+2,1,1,1,3
+2,2,2,1,5
+7,1,5
+2,1,4
+7,1,4
+2,2,1,1,3
+2,2,1,1,1
+2,3,1

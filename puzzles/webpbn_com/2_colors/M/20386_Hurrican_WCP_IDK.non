@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Nov 16, 2012"
+description "Escape as fast as you can while avoiding traffic jams. Take a rocket to the moon."
+difficulty 1.75
+height 20
+id 20386
+link "https://webpbn.com/play.cgi?id=20386"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Hurrican WCP #IDK"
+width 20
+
+rows
+1
+3
+2,2
+2,1,2
+1,1,1
+1,1,1
+1,1,9
+1,1,1,1
+1,1,4
+1,1,1,1
+1,1,4
+1,1,1,1,3
+1,1,4,1,1
+2,2,1,1,3
+1,1,4,1
+1,1,1,1,4
+5,4,1
+2,2,1,1,1
+3,3,4,1,1
+2,2,1,1,1,1
+
+columns
+2
+11,3
+2,6
+2,1
+2,4,1
+2,1
+2,1,6
+11,3
+1,2
+1
+1
+14
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+14
+0
+1
+3,1,2
+1,5
+3,1,2

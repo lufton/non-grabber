@@ -1,0 +1,50 @@
+by "BRASH ATAOM (BRASHatAOM)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by BRASH ATAOM"
+date "May 11, 2023"
+description "Loomis Day!"
+difficulty 2.25
+height 9
+id 36824
+link "https://webpbn.com/play.cgi?id=36824"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "May 30 is...."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 3 red 3
+red 10
+red 12
+red 2 red 3
+red 2 black 2 black 1 black 2 red 2
+red 2 black 2 black 2 red 2
+black 3 red 9 black 2
+black 3 red 8 black 3
+black 2 red 6 black 2
+
+columns
+black 1
+black 2
+red 1 black 1
+red 3 black 2
+red 2 red 1 black 1
+red 2 black 2
+red 3 black 2 red 2
+red 3 black 1 red 3
+red 3 red 3
+red 2 red 3
+red 2 black 1 red 3
+red 3 red 3
+red 3 red 3
+red 3 black 1 red 2
+red 2 black 2 red 1
+red 2 black 2
+red 1 red 1 black 2
+red 3 black 1
+red 1 black 2
+black 1

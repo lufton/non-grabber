@@ -1,0 +1,68 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by annalivia"
+date "Aug 15, 2013"
+description "the red is really varnished woodwork. the 'creature with two eyes' is a houseboat with mangroves in the background. and the 'window' is called a port light. don't ask.... I don't know why. the two toggles at the bottom lock it down."
+difficulty 1.5
+height 20
+id 22602
+link "https://webpbn.com/play.cgi?id=22602"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "the view outside my "window""
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 4 black 18 red 3
+red 3 black 20 red 2
+red 2 black 1 green 6 green 5 black 1 red 1
+red 1 black 2 green 2 black 15 green 2 black 2
+red 1 black 2 green 2 black 1 black 1 green 2 black 2
+red 1 black 2 green 2 black 1 black 3 black 3 black 1 green 1 black 2
+red 1 black 2 green 2 black 1 black 1 black 1 black 1 black 1 black 1 green 1 black 2
+red 1 black 2 green 2 black 1 black 3 black 3 black 1 green 2 black 2
+red 1 black 2 green 1 black 1 black 1 green 1 black 2
+red 1 black 2 green 1 black 17 green 1 black 2
+red 1 black 2 green 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 green 1 black 2
+red 1 black 2 green 1 black 15 black 2
+red 1 black 2 blue 12 blue 5 blue 1 black 2
+red 1 black 2 blue 1 blue 3 blue 14 black 2
+red 2 black 1 blue 3 blue 6 blue 2 blue 1 blue 4 black 2
+red 3 black 21 red 1
+red 4 black 2 black 11 black 2 red 2
+red 6 black 2 red 11 black 2 red 4
+red 6 black 1 red 13 black 1 red 4
+red 5 black 1 red 15 black 1 red 3
+
+columns
+red 20
+red 3 black 11 red 6
+red 2 black 13 red 5
+red 1 black 1 green 10 blue 3 black 1 red 4
+black 2 green 6 black 2 blue 1 blue 1 black 2 red 3
+black 2 green 1 black 7 black 1 blue 3 black 2 red 2 black 1
+black 2 green 1 black 1 black 3 blue 2 black 1 black 2 red 1
+black 2 green 1 black 1 black 3 black 1 black 1 blue 3 black 1 black 1 red 2
+black 2 green 1 black 1 black 1 black 1 black 3 blue 1 blue 1 black 2 red 3
+black 2 black 1 black 3 black 1 black 1 blue 3 black 2 red 3
+black 2 black 1 black 3 blue 3 black 2 red 3
+black 2 black 1 black 1 black 1 blue 3 black 2 red 3
+black 2 black 1 black 3 blue 3 black 2 red 3
+black 2 black 1 black 1 black 1 blue 2 black 2 red 3
+black 2 black 1 black 3 blue 3 black 2 red 3
+black 2 black 1 black 3 black 1 black 1 blue 2 black 2 red 3
+black 2 black 1 black 1 black 1 black 3 blue 2 black 2 red 3
+black 2 black 1 black 3 black 1 black 1 blue 3 black 2 red 3
+black 2 green 1 black 1 black 3 blue 2 black 2 red 3
+black 2 green 1 black 7 black 1 blue 3 black 1 black 1 red 2
+black 2 green 2 black 2 blue 3 black 1 black 2 red 1
+black 2 green 3 green 2 blue 2 black 2 red 2 black 1
+red 1 black 1 green 1 green 2 green 4 blue 3 black 2 red 3
+red 2 black 14 red 4
+red 3 black 12 red 5

@@ -1,0 +1,82 @@
+by "N. Franklin (kaytris)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by N. Franklin"
+date "Apr 21, 2024"
+description "(pretend it's pink and light blue) Not very original, is it?"
+difficulty 1.25
+height 20
+id 38518
+link "https://webpbn.com/play.cgi?id=38518"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP #184 Felicitations x two!"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+red 1 blue 1
+red 1 blue 1
+blue 1 red 1 black 4
+blue 1 red 1 black 1 blue 2 black 1
+black 4 black 6
+black 1 red 2 black 1 black 1 red 4 black 1
+black 6 black 8
+black 1 blue 4 black 1 black 1 blue 6 black 1
+black 8 black 1 blue 6 black 1
+black 1 red 6 black 1 black 10
+black 1 red 6 black 1 black 1 red 8 black 1
+black 10 black 1 red 8 black 1
+black 1 blue 8 black 1 black 12
+black 1 blue 8 black 1
+black 12
+0
+
+columns
+0
+0
+0
+black 1
+black 4
+black 4 blue 2 black 1
+black 3 red 2 black 1 blue 2 black 1
+black 3 blue 1 black 1 red 2 black 1 blue 2 black 1
+blue 2 black 1 red 1 black 1 blue 1 black 1 red 2 black 1 blue 2 black 1
+red 2 black 1 red 1 black 1 blue 1 black 1 red 2 black 1 blue 2 black 1
+black 3 blue 1 black 1 red 2 black 1 blue 2 black 1
+black 3 red 2 black 1 blue 2 black 1
+black 4 blue 2 black 1
+black 4
+black 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+black 1
+black 4
+black 4 red 2 black 1
+black 3 blue 2 black 1 red 2 black 1
+black 3 red 1 black 1 blue 2 black 1 red 2 black 1
+red 2 black 1 blue 1 black 1 red 1 black 1 blue 2 black 1 red 2 black 1
+blue 2 black 1 blue 1 black 1 red 1 black 1 blue 2 black 1 red 2 black 1
+black 3 red 1 black 1 blue 2 black 1 red 2 black 1
+black 3 blue 2 black 1 red 2 black 1
+black 4 red 2 black 1
+black 4
+black 1
+0
+0
+0
+0

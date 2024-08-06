@@ -1,0 +1,87 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Feb 28, 2023"
+description "7 with the article, 6 without it. I'll spot everyone the first letter, since it's an unusual word I don't even know if I was aware of until a few years ago."
+difficulty 2.25
+height 30
+id 36474
+link "https://webpbn.com/play.cgi?id=36474"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Palindrome 13a, with indefinite article to start"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+red 13
+red 13
+red 11
+red 11
+red 9
+green 1 red 7
+green 5 red 3
+green 9
+green 13
+green 17
+green 21
+green 25
+green 29
+green 33
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+black 1
+black 1
+black 1
+black 1
+black 1
+black 1 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2
+black 4 black 4 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 9
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1
+
+columns
+0
+green 3
+green 1
+green 4
+green 2
+green 5 black 8
+green 3 black 1
+green 6 black 1
+green 4 black 4
+green 7
+green 5
+green 8 black 8
+green 6 black 1
+green 9 black 1
+green 7 black 4
+green 10
+green 8
+green 11 black 14
+green 8
+green 10
+green 7 black 1
+green 9 black 3
+red 2 green 6 black 1
+red 4 green 8 black 1
+red 5 green 5 black 1
+red 6 green 7 black 1
+red 6 green 4 black 1
+red 7 green 6 black 3
+red 7 green 3 black 3
+red 7 green 5 black 3
+red 6 green 2 black 3
+red 6 green 4
+red 5 green 1
+red 4 green 3
+red 2

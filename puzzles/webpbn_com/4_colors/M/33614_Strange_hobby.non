@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Feb 13, 2020"
+description "grounds keeper"
+difficulty 1.5
+height 20
+id 33614
+link "https://webpbn.com/play.cgi?id=33614"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Strange hobby"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 2
+blue 2
+blue 2
+black 2 blue 2
+black 5 blue 2
+black 2 blue 1 black 2 blue 1
+black 2 blue 1 black 1 blue 8
+blue 5 blue 8
+blue 5 black 1 blue 8
+blue 3 black 2 blue 8
+blue 1 black 2 blue 2
+black 2 red 6 blue 2
+black 2 red 7 blue 2
+black 1 red 1 blue 2
+black 2 red 1 black 5 blue 2
+black 5 red 1 black 5 blue 2
+black 6 black 5 blue 2
+black 8 blue 9
+black 9 blue 9
+
+columns
+black 2 blue 1 black 2
+black 3 blue 3 black 3
+black 3 blue 4 black 4
+black 1 blue 1 black 1 blue 3 black 2 black 5
+black 2 blue 3 black 4 black 5
+black 2 blue 1 black 2 black 2 black 4
+black 4
+black 2
+black 1
+0
+red 4
+red 2 blue 2
+blue 4 red 2 black 3 blue 2
+blue 4 red 2 black 3 blue 2
+blue 1 blue 4 red 2 black 3 blue 2
+blue 2 blue 4 red 2 black 3 blue 2
+blue 2 blue 4 red 2 black 3 blue 2
+blue 2 blue 4 blue 2
+blue 2 blue 13
+blue 15

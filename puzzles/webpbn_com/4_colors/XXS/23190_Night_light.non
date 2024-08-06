@@ -1,0 +1,32 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Dave Oas"
+date "Nov 23, 2013"
+description "I've never done a 5x5 before but Tom has inspired me to give it a try."
+difficulty 1.0
+height 5
+id 23190
+link "https://webpbn.com/play.cgi?id=23190"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Night light"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+black 1 red 1 black 1
+black 1 black 3
+black 1 red 1 black 3
+black 3 blue 2
+
+columns
+black 5
+red 1 red 1 black 1
+black 4
+black 2 blue 1
+black 2 blue 1

@@ -1,0 +1,87 @@
+by "Robyn Broyles (ginkgo100)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Robyn Broyles"
+date "Aug  4, 2009"
+description "This is based on Teresa's and Gator's "forces" puzzles. The four fundamental forces in constructive (not destructive) forms: Top left, a PET brain scan, made possible by the weak force's beta decay; top right, a light bulb, for electromagnetism (electricity); bottom left, a grandfather clock, which operates by gravity; and bottom right, cooling towers of a nuclear power plant, which makes use of the strong force for nuclear fission."
+difficulty 2.75
+height 35
+id 6432
+link "https://webpbn.com/play.cgi?id=6432"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.0
+title "The Forces Tamed"
+width 35
+
+rows
+4,7,6
+2,5,5,3,3
+1,3,3,4,2,2
+1,2,2,3,2,2
+1,1,3,1,8,1
+1,5,1,3,1,1,1,1
+1,1,1,1,3,1,1,1,1
+1,6,1,2,1,10,1
+2,3,3,1,2,2,2,2
+2,1,5,1,1,2,2,1
+1,1,4,1,2,2,2,2
+2,2,6,3,2,2,2,2
+2,3,6,3,2,1,1,2
+3,2,6,3,1,4,1
+3,2,5,3,8
+2,1,6,4,6
+2,2,6,4,6
+35
+1,5
+1,2,2,1,2,3
+1,2,2,1,3,2
+12,1,5,2
+4,4,1,5,2
+3,3,1,3,1
+2,2,1,2,6,1
+12,2,1,6,1
+4,4,2,2,4,2
+5,3,1,1,4,2
+2,2,2,1,5,1,4,2
+2,2,2,2,3,1,4,1
+2,1,2,2,3,1,6,1
+2,1,2,2,3,1,6,1
+3,3,1,4,6
+4,4,1,5,8
+12,1,5,8
+
+columns
+4,8
+2,4,7
+1,2,2,2,1
+1,2,4,2,16
+1,3,7,14
+2,1,3,3,1,4,3,3
+1,1,2,1,4,3,2
+1,1,1,3,1,1,1,2,1
+1,1,1,7,1,1,2,1
+1,3,7,1,1,3,1
+1,8,1,1,1,1
+1,1,9,4,2,2
+1,2,10,4,3,3
+2,11,1,14
+3,2,3,16
+7,1,7
+8,7
+18
+18
+4,1,2,2,3
+2,3,1,2,1,3
+2,2,1,1,7
+2,3,2,1,2,7
+1,1,3,3,1,3,7
+2,1,5,4,4,1,2
+1,1,1,8,5,3
+1,1,1,5,1,3,2
+1,1,1,5,2,5
+1,1,1,8,11
+2,1,5,4,11
+1,1,3,3,2,11
+2,3,2,2,11
+2,2,3,2,5
+2,3,6,3,2
+4,15

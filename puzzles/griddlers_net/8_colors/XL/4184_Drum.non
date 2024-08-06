@@ -1,0 +1,89 @@
+by "Ean21"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/8/03"
+height 32
+id 4184
+link "https://www.griddlers.net/nonogram/-/g/4184"
+medium_time "0:28:03"
+points 26710
+popularity 74.17
+title "Drum"
+width 32
+
+color a ffffff
+color b 000000
+color c 000080
+color d 808080
+color e c0c0c0
+color f 0000ff
+color g 00ffff
+color h 008080
+
+rows
+b 2
+b 2
+b 2
+b 2
+b 2 b 1
+b 2 b 3
+b 2 b 3
+c 8 b 3 c 1 b 3
+c 3 d 7 b 2 d 3 c 1 b 3
+c 2 d 3 e 1 e 1 e 1 b 2 e 1 b 3 d 1 c 2
+c 1 d 2 e 1 e 1 e 1 e 1 b 2 e 1 b 3 e 1 d 2 c 1
+c 1 d 1 e 2 e 1 e 1 e 1 b 6 e 1 d 1 e 1 d 1 e 1 d 1 e 1 d 1 c 1
+c 1 d 1 e 1 e 1 e 1 b 2 d 1 b 2 d 3 e 1 d 1 e 1 d 1 e 1 d 2 c 1
+c 1 d 1 e 1 e 1 e 1 e 1 b 2 d 1 e 1 e 1 e 1 e 1 e 1 d 2 c 1
+c 2 d 1 e 2 e 1 e 1 d 1 e 1 e 1 e 1 e 3 d 1 c 2
+c 1 f 1 c 2 d 1 e 10 d 1 c 2 g 1 c 1
+c 1 f 2 g 1 c 3 c 3 f 1 g 2 c 1
+c 1 f 2 g 1 f 2 c 12 g 1 f 2 g 2 c 1
+c 1 h 2 g 1 f 2 g 2 f 2 g 3 f 2 g 2 f 2 g 2 c 1
+c 1 h 2 g 1 f 2 g 2 f 2 h 1 g 2 f 2 g 2 h 3 g 2 c 1
+c 1 h 3 g 5 f 2 h 1 g 2 f 2 g 2 h 3 g 2 c 1
+c 1 h 3 g 5 h 5 g 6 h 4 g 1 c 1
+c 1 h 3 g 5 h 5 g 5 h 5 f 1 c 1 e 2
+c 1 e 1 f 2 h 1 g 4 h 5 g 5 h 4 f 1 e 1 c 1 e 4
+c 1 e 1 f 2 h 1 g 3 h 7 g 4 h 4 f 1 e 1 c 1 e 6
+c 1 e 1 h 3 g 2 f 2 h 3 f 2 g 3 f 2 h 2 e 2 c 1 e 7
+c 2 e 2 h 1 f 2 h 3 f 2 h 1 g 2 f 2 e 2 c 2 e 8
+e 1 c 3 e 1 h 2 e 3 h 2 e 1 e 1 h 1 c 3 e 10
+e 2 c 12 e 11
+e 20
+e 13
+0
+
+columns
+c 14
+c 1 d 1 c 1 f 3 h 5 e 2 c 1
+c 1 d 1 e 1 d 2 c 1 f 2 h 5 f 2 e 1 c 1
+c 1 d 1 e 1 e 1 c 1 g 4 h 3 f 2 h 1 c 1 e 1
+c 1 d 1 e 1 e 1 d 1 c 1 g 3 h 3 e 1 c 1
+c 1 d 1 e 1 e 2 c 1 f 3 g 5 h 1 e 1 c 1 e 1
+c 1 d 1 e 1 e 1 e 1 c 1 f 3 g 6 c 1 e 1
+c 1 d 1 e 1 e 1 e 1 d 1 c 1 g 8 h 1 e 1 c 1 e 1
+c 1 d 1 e 1 e 1 e 2 c 1 g 6 h 1 f 2 h 1 c 1 e 1
+c 1 d 1 e 1 e 1 e 1 e 1 c 1 h 4 f 2 h 1 c 1 e 1
+c 1 d 1 e 1 b 2 e 2 c 1 f 3 h 6 e 1 c 1 e 1
+c 1 d 1 e 1 b 3 d 1 e 1 c 1 f 3 h 6 e 1 c 1 e 2
+c 1 d 1 b 2 d 2 e 2 c 1 g 1 h 8 e 1 c 1 e 2
+c 1 d 1 b 4 e 1 e 1 c 1 g 3 h 4 f 2 h 1 c 1 e 2
+c 1 b 2 b 2 e 2 c 1 g 6 h 1 f 2 h 1 c 1 e 2
+b 2 e 1 b 1 d 1 e 1 e 1 c 1 g 5 h 1 e 1 c 1 e 2
+b 2 d 1 e 1 b 2 d 1 e 2 c 1 f 3 g 6 c 1 e 2
+b 3 d 1 b 1 e 1 d 1 e 1 e 1 c 1 f 3 g 6 e 1 c 1 e 2
+b 2 c 1 d 1 b 2 d 1 e 1 e 1 d 1 c 1 g 7 f 2 h 1 c 1 e 2
+b 2 c 1 b 1 e 1 d 1 e 2 c 1 g 5 h 3 f 2 c 1 e 3
+b 2 b 2 e 1 d 1 e 1 e 1 c 1 h 7 e 1 c 1 e 3
+b 2 b 1 d 1 e 1 d 1 e 1 d 1 c 1 f 2 h 7 e 1 c 1 e 3
+b 2 b 2 c 1 d 2 e 1 d 1 c 1 f 3 h 6 e 1 c 1 e 4
+b 1 b 1 c 1 d 1 e 1 d 2 c 1 g 5 h 2 f 2 e 1 c 1 e 4
+b 2 c 1 d 2 c 1 g 7 f 1 e 2 c 1 e 4
+b 1 c 14 e 5
+b 2 e 8
+b 1 e 7
+b 2 e 6
+e 6
+e 4
+e 4

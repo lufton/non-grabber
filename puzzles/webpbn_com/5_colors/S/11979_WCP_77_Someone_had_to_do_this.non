@@ -1,0 +1,53 @@
+by "Bryan (Cyclone)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Bryan"
+date "Jan 30, 2011"
+description "An extension of the single dot in a puzzle, I have provided a depiction of the president giving the State of the Union address last Tuesday. The detail is astonishing. This is a very tiny portion of that image. (Humour intended. May be disregarded as a non-serious entry.)"
+difficulty 1.25
+height 15
+id 11979
+link "https://webpbn.com/play.cgi?id=11979"
+note "published,definitely unique,definitely trivial"
+quality 1.25
+title "WCP #77: Someone had to do this"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+black 1 red 1
+0
+0
+0
+blue 1 green 1
+0
+0
+0
+0
+0
+
+columns
+0
+0
+0
+0
+0
+black 1 blue 1
+0
+0
+0
+red 1 green 1
+0
+0
+0
+0
+0

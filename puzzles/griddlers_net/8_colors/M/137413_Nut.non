@@ -1,0 +1,57 @@
+by "lior0521"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/14/13"
+height 16
+id 137413
+link "https://www.griddlers.net/nonogram/-/g/137413"
+medium_time "0:08:28"
+points 4011
+popularity 77.02
+title "Nut"
+width 16
+
+color a ffffff
+color b 000000
+color c 5a3200
+color d 965a00
+color e c88c00
+color f 009600
+color g 00ff00
+color h f0a000
+
+rows
+b 5 g 1 f 1
+b 2 d 1 e 2 c 2 b 2 g 1 f 2
+b 1 c 1 e 2 c 2 e 2 d 1 c 1 b 1 f 1
+b 1 c 1 e 2 c 1 h 2 e 3 c 2 b 1
+b 1 d 1 e 1 c 1 h 3 e 2 c 1 d 2 b 1
+b 1 d 2 c 1 e 1 h 2 e 2 c 1 e 1 d 2 c 1 b 1
+b 1 d 1 c 1 e 5 c 1 e 2 d 2 c 1 b 1
+b 1 d 2 c 1 e 4 c 1 e 2 d 2 c 1 d 1 b 1
+b 1 d 1 c 1 d 2 e 2 c 1 e 2 d 3 c 1 d 1 b 1
+b 1 d 1 c 1 d 3 c 1 d 5 c 1 d 1 c 1 b 1
+b 1 d 1 c 1 d 2 c 1 d 5 c 1 d 2 b 1
+b 1 c 1 d 2 c 1 d 5 c 1 d 2 c 1 b 1
+b 1 c 1 d 1 c 1 d 4 c 2 d 2 c 1 b 1
+b 1 c 2 d 2 c 3 d 3 b 2
+b 1 c 3 d 3 c 1 b 2
+b 7
+
+columns
+b 7
+b 2 d 4 c 3 b 1
+b 2 d 3 c 3 d 2 c 2 b 1
+b 1 c 1 d 2 c 2 d 4 c 1 d 1 c 1 b 1
+b 1 c 1 e 2 c 1 e 2 d 3 c 1 d 2 c 1 b 1
+b 1 e 2 c 1 e 4 d 1 c 1 d 2 c 1 d 1 b 1
+b 1 d 1 e 1 c 1 h 2 e 3 c 1 d 3 c 1 d 1 b 1
+b 1 e 1 c 1 h 3 e 2 c 1 d 4 c 1 d 1 b 1
+b 1 e 1 c 1 h 2 e 2 c 1 e 1 d 3 c 1 d 1 c 1 b 1
+b 1 c 1 e 4 c 1 e 2 d 3 c 1 d 1 b 1
+b 1 c 1 e 3 c 1 e 2 d 3 c 1 d 2 b 1
+b 1 d 1 e 1 c 1 e 2 d 3 c 1 d 2 b 1
+b 1 c 2 d 5 c 1 d 2 c 1 b 1
+g 1 b 1 c 1 d 3 c 2 d 2 c 1 b 1
+g 1 f 2 b 2 c 2 d 2 c 1 b 2
+f 2 b 5

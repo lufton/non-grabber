@@ -1,0 +1,66 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jun 13, 2013"
+description "especially while eating carrots."
+difficulty 2.25
+height 30
+id 22135
+link "https://webpbn.com/play.cgi?id=22135"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "Nothing to sneeze at."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1
+black 2
+black 2
+black 1
+black 1
+black 3 black 1
+black 1
+black 2
+black 1
+black 2
+black 1
+black 2
+black 1
+black 1
+black 4
+black 1
+black 4
+black 6
+black 7
+black 1 red 6
+black 1 red 1
+black 2 red 1 red 2 red 2
+black 3 red 2
+black 5 red 1 red 1
+black 6
+black 6
+black 6
+black 6
+black 4
+0
+
+columns
+black 10
+black 1 black 2 red 2 black 8
+black 1 black 2 red 1 red 1 black 7
+black 1 black 3 red 1 red 1 black 6
+black 3 black 3 red 1 red 1 black 6
+black 7 black 5 red 1 red 1 black 4
+black 3 black 1 black 3 red 1
+black 3 black 1
+black 4 red 1
+red 1 red 1
+0
+red 1
+red 1
+0
+0

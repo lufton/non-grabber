@@ -1,0 +1,62 @@
+by "David Maluf (monkeydave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by David Maluf"
+date "Feb 16, 2009"
+description "My name is Boris Porus"
+difficulty 1.25
+height 20
+id 5073
+link "https://webpbn.com/play.cgi?id=5073"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Smiley Face"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 5 black 5
+black 1 black 1 black 1 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 1 blue 2 black 1 black 1 blue 2 black 1
+black 5 black 5
+0
+0
+0
+black 1
+black 1
+black 3
+0
+0
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 15
+0
+
+columns
+0
+black 5
+black 1 black 1 red 5
+black 1 blue 2 black 1 red 1
+black 1 blue 2 black 1 red 1
+black 5 red 1
+red 1
+red 1
+red 1
+black 3 red 1
+black 1 red 1
+black 1 red 1
+red 1
+black 5 red 1
+black 1 black 1 red 1
+black 1 blue 2 black 1 red 1
+black 1 blue 2 black 1 red 5
+black 5
+0
+0

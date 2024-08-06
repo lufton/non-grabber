@@ -1,0 +1,77 @@
+by "Meg Tayler (rebelcat)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Meg Tayler"
+date "May  2, 2007"
+description "This is MY country's flag. I know it's ridiculously easy, but I had to do it. And no, that's not a cannabis leaf in the center - it's a maple leaf. ;-)"
+difficulty 1.25
+height 20
+id 862
+link "https://webpbn.com/play.cgi?id=862"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Home Sweet Home!"
+width 40
+
+rows
+10,9
+10,9
+10,1,9
+10,1,9
+10,3,9
+10,5,9
+10,5,9
+10,3,5,3,9
+10,4,5,4,9
+10,15,9
+10,13,9
+10,11,9
+10,9,9
+10,7,9
+10,9,9
+10,4,1,4,9
+10,1,1,1,9
+10,1,9
+10,1,9
+10,9
+
+columns
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+0
+0
+0
+3
+4
+5,1
+5,3
+7
+11
+11
+17
+11
+11
+7
+5,3
+5,1
+4
+3
+0
+0
+0
+20
+20
+20
+20
+20
+20
+20
+20
+20

@@ -1,0 +1,82 @@
+by "Ella Hustwitt (Dragonfyre)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Ella Hustwitt"
+date "Nov 11, 2023"
+description "November 11th is Remembrance Day in many countries and marks the end of WWI. It is a day for honouring soldiers who have died in the line of duty. Poppies are often worn on this day, due to their significance in the poem "In Flanders Fields"."
+difficulty 1.5
+height 30
+id 37702
+link "https://webpbn.com/play.cgi?id=37702"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Lest We Forget"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+red 10
+red 12
+red 14
+red 14
+red 14
+red 16
+red 22
+red 24
+red 26
+red 11 black 1 red 2 black 1 red 11
+red 10 black 6 red 10
+red 9 black 8 red 9
+red 10 black 6 red 10
+red 10 black 6 red 10
+red 9 black 8 red 9
+red 10 black 6 red 10
+red 11 black 1 red 2 black 1 red 11
+red 26
+red 24
+red 22 green 1
+red 16 green 5
+red 14 green 6
+red 14 green 7
+red 14 green 8
+red 12 green 9
+red 10 green 10
+green 5 green 6
+green 3 green 4
+
+columns
+0
+0
+red 10
+red 12
+red 14
+red 14
+red 14
+red 16
+red 22
+red 24
+red 26
+red 11 black 1 red 2 black 1 red 11
+red 10 black 6 red 10
+red 9 black 8 red 9
+red 10 black 6 red 10
+red 10 black 6 red 10
+red 9 black 8 red 9
+red 10 black 6 red 10
+red 11 black 1 red 2 black 1 red 11 green 1
+red 26 green 2
+red 24 green 3
+red 22 green 4
+red 16 green 6
+red 14 green 6
+red 14 green 7
+red 14 green 7
+red 12 green 9
+red 10 green 8
+green 6
+green 5

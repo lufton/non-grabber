@@ -1,0 +1,61 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Kurt Kowalczyk"
+date "Jun 21, 2012"
+description "to hold their pants up, silly!"
+difficulty 1.5
+height 20
+id 19071
+link "https://webpbn.com/play.cgi?id=19071"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "why do firemen wear red suspenders?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 1 black 1
+black 1 red 1 red 1 black 1
+black 1 red 3 red 1 red 1 black 1
+black 1 red 1 red 3 black 1
+black 1 black 3 red 1 black 1
+black 1 black 1 black 1 black 1
+red 2 black 1 red 9 black 1 red 2
+red 1 red 9 red 1
+red 1 red 3 red 3 red 1
+red 1 red 5 red 5 red 2
+red 1 red 5 red 5 red 3
+red 1 red 3 red 3 red 1
+red 1 red 5 red 5 red 1
+red 2 red 5 red 5 red 1
+red 1 red 3 red 3
+red 3 red 3
+black 3 black 3
+black 3 black 3
+black 5 black 5
+black 5 black 5
+
+columns
+red 2
+red 3
+red 5
+red 1 black 2
+black 1 red 2 red 2 black 2
+black 6 red 10 black 4
+red 2 red 10 black 4
+red 2 red 10 black 4
+red 2 black 2 red 2 red 2 red 2
+black 1 red 2
+red 1 red 2 black 2 red 2 red 2 red 2
+red 2 red 10 black 4
+red 2 red 10 black 4
+black 6 red 10 black 4
+black 1 red 2 red 2 black 2
+red 1 black 2
+red 4
+red 2
+red 1
+red 4

@@ -1,0 +1,93 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "May 18, 2011"
+description "Hey Joe,this is the home of that pompous so and so that does goofy chicken puzzles on the pbn site,just drive past this clowns house.Ha,ha,i'm just making fun of myself."
+difficulty 2.25
+height 30
+id 13674
+link "https://webpbn.com/play.cgi?id=13674"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Recycling pick up day."
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+green 40
+green 7 red 5 green 2 red 1 green 3 red 1 green 2 red 1 green 2 red 1 green 3 red 1 green 1 red 1 green 2 red 1 green 6
+green 8 red 1 green 4 red 1 green 3 red 1 green 2 red 1 green 2 red 2 green 2 red 1 green 1 red 1 green 1 red 1 green 7
+green 7 red 1 green 4 red 5 green 2 red 1 green 2 red 1 green 1 red 1 green 1 red 1 green 1 red 2 green 7
+green 6 red 1 black 5 green 3 red 1 green 2 red 1 green 2 red 1 green 2 red 2 green 1 red 1 green 1 red 1 green 5
+green 5 red 1 black 2 green 3 red 1 green 2 red 1 green 2 red 1 green 3 red 1 green 1 red 1 green 2 red 1 green 3
+green 2 black 1 green 2 black 2 blue 1 black 1 green 19 black 5
+green 1 black 2 green 2 black 1 black 2 green 18 black 1
+green 2 black 1 red 2 green 1 red 1 black 1 blue 1 green 2 red 4 green 1 red 4 green 1 red 1 green 3 red 1 green 1 black 5
+black 2 green 2 black 1 green 2 blue 1 green 1 blue 2 green 2 red 1 green 4 red 1 green 4 red 2 green 2 red 1 green 1 black 3
+black 3 green 1 black 2 blue 9 green 2 red 3 green 2 red 3 green 2 red 1 green 1 red 1 green 1 red 1 green 1 black 2 blue 1
+black 4 green 2 black 1 blue 8 red 1 green 2 red 1 green 4 red 1 green 4 red 1 green 2 red 2 green 1 black 1
+black 4 green 2 black 1 red 2 blue 5 green 2 red 1 green 1 red 4 green 1 red 4 green 1 red 1 green 3 red 1 green 1 black 1 red 1
+black 3 green 2 black 1 green 2 blue 5 green 20 black 1
+black 1 black 5 blue 5 black 25
+black 1 green 1 blue 1 red 1 black 1 green 1 black 1 green 2 blue 5 green 20 black 1 green 4
+black 1 blue 1 red 1 green 1 blue 1 black 1 green 1 black 1 green 2 blue 1 blue 1 green 20 black 1 green 1 black 2 green 1
+black 1 blue 2 black 1 red 1 black 1 green 1 black 1 green 2 blue 1 blue 1 green 19 black 1 green 4
+black 1 blue 1 red 1 blue 1 black 1 green 1 black 1 green 2 blue 1 blue 2 blue 1 green 18 black 1 green 4
+black 1 blue 1 black 2 green 1 black 1 green 2 blue 1 blue 1 green 1 blue 1 blue 1 green 18 black 1 green 4
+black 1 red 1 black 1 green 1 black 1 green 2 blue 1 blue 1 green 2 blue 2 green 1 black 5 green 9 blue 1 green 2 black 1 green 4
+black 2 green 1 black 1 green 2 blue 1 blue 1 green 2 black 3 black 2 green 5 blue 5 black 1 green 4
+black 3 green 2 blue 3 green 2 black 3 black 3 black 2 green 3 blue 7 green 4
+black 1 green 1 black 1 green 1 black 4 green 2 black 1 black 5 black 1 green 4 blue 5 black 1 green 4
+black 4 green 1 black 4 green 2 black 1 black 3 green 1 black 2 red 6 green 1 blue 5 black 1 green 4
+black 12 black 2 green 1 black 1 green 1 black 2 red 4 black 2 blue 5 black 5
+black 3 green 1 black 3 red 4 blue 5
+black 5 red 4 blue 5
+black 3 red 4 blue 5
+
+columns
+black 1 green 2 black 4
+black 1 green 3 black 2 green 1 blue 2 black 1
+black 1 green 4 black 4 blue 1 red 1 blue 2 black 1
+black 1 green 5 black 5 red 1 green 1 black 1 red 1 blue 1 black 1
+black 1 green 6 black 5 blue 1 red 1 blue 1 black 1 red 1 black 1 black 2
+black 1 green 14 black 12
+black 1 green 7 black 1 green 2 black 1 green 3 black 1 green 7 black 1 green 1 black 2
+black 1 green 1 red 1 green 4 black 20
+black 1 green 1 red 1 green 6 red 1 green 1 blue 2 red 1 green 1 black 1 green 10 black 1
+black 1 green 1 red 5 green 2 red 1 green 1 blue 2 red 1 green 1 black 1 green 8 black 3
+black 1 green 1 red 1 green 2 black 4 green 1 blue 14 black 3
+black 1 green 1 red 1 green 2 black 3 blue 6 blue 1 black 3
+black 1 green 4 black 1 blue 6 blue 5 black 3
+black 1 green 4 black 1 blue 1 blue 6 blue 1 green 6 black 1
+black 1 green 1 red 3 black 1 red 1 green 1 blue 7 blue 1 green 5 black 1
+black 1 green 3 red 1 green 2 black 3 blue 3 green 2 black 1 green 2 blue 1 blue 1 black 5
+black 1 green 3 red 1 green 3 black 1 blue 3 red 1 green 2 black 1 green 3 blue 3 black 2
+black 1 green 3 red 1 green 8 red 1 green 1 black 1 green 6 black 2 black 3
+black 1 green 1 red 5 green 8 black 1 green 5 black 1 black 5
+black 1 green 8 red 5 green 1 black 1 green 5 black 1 black 3 green 1 black 3
+black 1 green 8 red 1 green 1 red 1 green 1 red 1 green 1 black 1 green 5 black 1 black 2 green 1 black 1 green 1 black 2
+black 1 green 1 red 5 green 2 red 1 green 1 red 1 green 1 red 1 green 1 black 1 green 5 black 1 black 3 green 1 black 3
+black 1 green 8 red 1 green 3 red 1 green 1 black 1 green 5 black 1 black 5
+black 1 green 14 black 1 green 6 black 1 red 1 black 2
+black 1 green 1 red 5 green 2 red 5 green 1 black 1 green 6 black 2 red 5
+black 1 green 2 red 1 green 5 red 1 green 1 red 1 green 1 red 1 green 1 black 1 green 7 black 2 red 5
+black 1 green 3 red 1 green 4 red 1 green 1 red 1 green 1 red 1 green 1 black 1 green 9 red 5
+black 1 green 4 red 1 green 3 red 1 green 3 red 1 green 1 black 1 green 9 red 5
+black 1 green 1 red 5 green 8 black 1 green 9 red 1 black 1
+black 1 green 8 red 5 green 1 black 1 green 7 blue 1 green 2 black 1
+black 1 green 1 red 5 green 3 red 1 green 4 black 1 green 6 blue 8
+black 1 green 3 red 1 green 6 red 1 green 3 black 1 green 6 blue 8
+black 1 green 2 red 1 green 1 red 1 green 6 red 1 green 2 black 1 green 5 blue 9
+black 1 green 1 red 1 green 3 red 1 green 2 red 5 green 1 black 1 green 6 blue 8
+black 1 green 14 black 1 green 6 blue 8
+black 1 green 6 black 16 blue 1 black 3
+black 1 green 6 black 1 black 3 black 1 green 10 black 1
+black 1 green 5 black 1 black 2 black 1 green 1 black 1 green 8 black 1
+black 1 green 4 black 1 black 1 blue 1 red 1 black 1 green 1 black 1 green 8 black 1
+black 1 green 3 black 1 black 1 black 1 green 10 black 1

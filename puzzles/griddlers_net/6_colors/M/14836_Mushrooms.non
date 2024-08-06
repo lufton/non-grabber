@@ -1,0 +1,73 @@
+by "carootje"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/9/04"
+height 30
+id 14836
+link "https://www.griddlers.net/nonogram/-/g/14836"
+medium_time "0:08:08"
+points 3100
+popularity 65.54
+title "Mushrooms"
+width 20
+
+color a 000000
+color b ffa0ff
+color c ff0040
+color d a0a0ff
+color e e1febe
+color f 823c00
+
+rows
+0
+0
+b 1 c 6
+b 1 c 9
+c 6 d 4
+c 5 d 5
+c 4 d 6
+c 2 d 3 e 3
+c 2 d 4 e 3
+c 1 d 4 e 3
+e 3
+e 3
+e 3
+e 3
+e 3
+c 7 e 2
+b 2 c 6 e 2
+c 1 b 1 c 7 e 2
+c 8 e 3
+c 8 e 3
+c 7 e 2 e 1 c 2 b 1 c 2
+c 2 e 2 c 3 b 1 c 3
+e 2 c 7
+e 3 c 7
+e 3 e 2 c 3
+e 8
+f 7 e 3 f 3 e 2 f 5
+f 7 e 3 f 3 e 2 f 5
+f 7 e 2 f 3 e 3 f 5
+f 12 e 3 f 5
+
+columns
+c 1 f 4
+c 2 f 4
+c 4 f 4
+c 2 c 5 f 4
+c 3 d 1 b 2 c 3 f 4
+c 3 d 2 c 1 b 1 c 4 f 4
+c 3 d 3 c 6 f 4
+b 1 c 3 d 3 c 5 e 9 f 1
+b 1 c 3 d 3 c 5 e 9 f 1
+c 4 d 1 e 3 c 4 e 5 f 2
+c 3 d 2 e 7 c 3 e 1 f 4
+c 3 d 2 e 8 c 3 e 3 c 3 e 2 f 4
+c 2 d 3 e 10 c 4 e 2 f 2 e 2
+c 2 d 3 e 6 c 5 e 5
+c 2 d 2 b 2 c 3 e 5
+c 1 d 1 c 5 f 4
+c 1 c 4 f 4
+c 3 f 4
+f 4
+f 4

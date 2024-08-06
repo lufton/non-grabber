@@ -1,0 +1,93 @@
+by "myamollytaz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/26/07"
+height 46
+id 55941
+link "https://www.griddlers.net/nonogram/-/g/55941"
+medium_time "0:28:45"
+points 64491
+popularity 83.43
+title "Doggy"
+width 24
+
+color a ccffff
+color b 000000
+color c 999999
+color d ffffff
+color g cccccc
+color h ffccff
+
+rows
+b 1 b 1
+b 1 c 1 b 1 b 1 c 1 b 1
+b 1 d 1 c 1 b 1 b 1 c 1 d 1 b 1
+b 1 d 1 g 1 b 2 b 2 g 1 d 1 b 1
+b 1 c 1 d 1 h 1 g 1 b 5 g 1 h 1 d 1 c 1 b 1
+b 1 d 1 b 2 c 5 b 2 d 1 b 1
+b 1 g 2 c 9 g 2 b 1
+b 2 c 2 g 3 c 1 g 3 c 2 b 2
+b 1 c 3 d 3 c 1 d 3 c 3 b 1
+b 1 c 2 g 3 d 3 g 3 c 2 b 1
+b 1 c 2 g 2 b 1 g 1 d 3 g 1 b 1 g 2 c 2 b 1
+b 1 c 1 g 1 d 1 g 2 d 5 g 2 d 1 g 1 c 1 b 1
+b 1 c 1 g 1 d 4 c 1 b 1 c 1 d 4 g 1 c 1 b 1
+b 1 c 1 g 2 d 4 c 1 d 4 g 2 c 1 b 1
+b 1 c 2 g 2 d 4 c 1 d 4 g 2 c 2 b 1
+b 1 c 3 d 1 g 1 d 1 c 1 g 1 c 1 d 2 g 1 c 3 b 1
+b 2 c 1 g 1 c 1 g 1 d 5 g 1 c 1 g 1 c 1 b 2
+b 1 c 1 b 1 g 4 d 1 g 4 b 1 c 1 b 1
+b 1 c 3 d 1 g 5 d 1 c 3 b 1
+b 1 c 4 d 1 g 5 d 1 c 4 b 1
+b 1 c 2 g 1 c 2 g 5 c 2 g 1 c 2 b 1
+b 1 c 3 g 1 c 1 d 1 g 3 d 1 c 1 g 1 c 3 b 1 b 1
+b 1 g 2 c 1 g 2 d 1 g 1 d 1 g 1 d 1 g 2 c 1 g 2 b 1 b 2
+b 1 d 1 g 1 d 1 c 1 g 1 d 6 c 1 d 2 g 1 b 1 b 1 c 1 b 1
+b 1 d 4 c 1 g 1 d 3 g 1 c 1 d 3 g 1 c 1 b 1 b 1 c 2 b 1
+b 1 d 14 g 1 c 1 b 2 c 2 g 1 b 1
+b 1 d 1 g 1 d 6 g 1 d 5 g 1 c 1 b 2 c 1 g 2 b 1
+b 1 d 7 g 1 d 5 g 2 c 1 b 1 c 2 g 1 b 1
+b 1 d 2 g 2 d 3 g 1 d 2 g 1 d 1 g 3 c 1 b 1 g 2 d 1 b 1
+b 1 c 1 d 1 g 2 d 1 g 5 d 1 g 2 d 1 c 1 b 1 g 3 d 1 b 1
+b 1 c 1 d 1 g 11 d 1 c 1 b 1 g 2 d 1 b 1
+b 1 c 1 d 2 g 9 d 2 c 1 b 1 d 2 b 1
+b 1 c 2 d 2 c 1 g 5 c 1 d 2 c 2 b 1 d 1 b 1
+b 1 c 2 d 3 c 1 g 3 c 1 d 3 c 2 b 2
+b 1 c 2 d 3 g 5 d 3 c 3 b 1
+b 1 c 2 d 3 c 1 g 3 c 1 d 3 c 3 b 1
+b 1 c 3 d 3 c 1 d 1 g 2 c 1 d 3 c 2 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 d 3 c 1 d 2 g 1 c 1 d 3 c 2 d 1 c 1 b 1
+b 1 d 2 c 1 d 3 c 1 d 2 g 1 c 1 d 3 c 2 d 2 b 1
+b 1 g 1 d 1 c 1 d 3 c 1 d 1 g 2 c 1 d 3 c 1 d 2 g 1 b 1
+b 1 g 1 c 1 d 3 c 1 b 1 g 2 b 1 d 3 c 1 d 1 g 1 b 1
+b 1 g 1 c 1 d 3 b 1 d 1 b 3 d 3 c 1 g 2 b 1
+b 2 d 3 b 2 b 1 d 3 b 3
+b 1 d 1 g 1 d 2 b 1 b 1 d 2 g 1 d 1 b 1
+b 1 g 1 d 2 b 1 b 1 d 2 g 1 b 1
+b 3 b 4
+
+columns
+b 1 b 4
+b 4 c 1 b 2 b 17 c 2 d 1 g 1 b 2
+b 1 b 4 c 6 b 3 c 3 g 1 d 6 c 8 d 3 g 2 b 3
+b 3 c 1 b 1 g 1 b 1 c 3 g 4 c 7 g 2 d 2 g 1 d 5 c 10 b 1 d 1 g 1 b 1
+b 1 c 1 d 4 g 1 c 3 g 1 d 2 g 2 c 1 g 1 b 1 c 2 g 1 c 2 d 5 g 3 d 12 g 1 d 1 b 1
+b 1 c 1 g 1 h 1 b 1 c 3 g 3 d 4 c 1 g 1 c 3 g 2 c 1 d 4 g 4 d 13 b 1
+b 2 g 1 b 1 c 1 g 1 d 1 g 1 b 1 g 1 d 3 g 3 d 2 c 2 g 2 c 1 d 5 g 2 c 1 d 11 b 1
+b 2 c 2 g 1 d 1 g 2 d 6 g 4 d 3 g 1 d 4 g 4 c 1 g 1 c 6 b 3
+b 1 c 2 g 1 d 4 c 1 d 2 c 1 d 1 g 6 d 6 g 7 d 4 b 1 d 1 b 1
+b 1 c 4 d 3 b 1 c 2 g 1 d 2 g 4 d 5 g 10 d 2 g 2 b 1
+b 1 c 2 g 1 d 4 c 1 d 2 c 1 d 1 g 6 d 3 g 1 d 2 g 12 b 1
+b 2 c 2 g 1 d 1 g 2 d 6 g 4 d 3 g 1 d 4 g 4 c 1 g 1 c 5 b 4
+b 2 g 1 b 1 c 1 g 1 d 1 g 1 b 1 g 1 d 4 g 2 d 2 c 2 g 1 d 1 c 1 d 3 g 1 d 1 g 2 c 1 d 11 b 2
+b 1 c 1 g 1 h 1 b 1 c 3 g 3 d 3 g 1 c 1 g 1 c 3 g 2 c 1 d 5 g 3 d 13 b 1
+b 1 c 1 d 4 g 1 c 3 g 1 d 2 g 2 c 1 g 1 b 1 c 2 g 1 c 2 d 5 g 3 d 12 g 1 d 1 b 1
+b 3 c 1 b 1 g 1 b 1 c 3 g 4 c 7 g 1 d 4 g 2 d 3 c 10 b 1 d 1 g 1 b 1
+b 1 b 4 c 6 b 3 c 3 g 7 c 10 d 2 g 1 b 3
+b 4 c 1 b 2 b 5 c 5 b 5 c 2 d 4 g 2 b 1
+b 1 b 5 g 2 d 2 b 3 c 2 d 1 g 1 b 2
+b 2 c 1 g 3 d 1 b 1 b 4
+b 1 c 3 g 2 d 1 b 1
+b 1 c 2 g 2 d 2 b 1
+b 1 c 2 g 2 b 3
+b 6

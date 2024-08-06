@@ -1,0 +1,73 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Ron Jacobson"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 25
+id 26336
+link "https://webpbn.com/play.cgi?id=26336"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "WCP 169 - Clear night - illegal"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4 black 2 black 7 black 4
+black 1 black 11 black 6
+black 11 black 5 red 1 black 3
+black 4 black 5 black 13
+black 9 black 7 black 4 black 2
+black 5 black 1 black 17
+black 3 black 4 black 16
+black 17 black 5 black 1
+black 6 black 17
+black 14 black 10
+black 11 black 13
+black 25
+black 5 black 4 black 14
+black 6 black 12 black 2 black 1
+black 3 black 21
+black 8 black 16
+black 15 green 3 green 5
+black 1 green 8 red 4 blue 1 red 5
+green 2 red 1 green 2 red 1 blue 1 red 2 blue 2 red 4
+red 3 red 1 blue 2 red 2 blue 1 red 4
+black 2 red 3 black 2 red 3 blue 3 red 4
+black 1 red 3 black 1 red 4 blue 6
+black 2 red 1 black 2 red 5 blue 2 red 3
+black 3 black 4 red 4 blue 1 red 2 blue 2 red 1
+red 4 blue 1 red 2 blue 2 red 1
+
+columns
+black 8 black 9 green 1 black 1 black 1
+black 1 black 15 green 2 black 4
+black 17 green 1 red 3 black 2
+black 6 black 7 black 2 green 1 red 5
+black 2 black 13 green 1 red 3 black 2
+black 5 black 6 black 4 green 2 black 4
+black 13 black 3 green 2 black 1 black 1
+black 4 black 2 black 8 green 1 black 1
+black 6 black 8 black 1 green 1
+black 4 black 12 red 8
+black 3 black 8 black 4 red 1 blue 2 red 5
+black 2 black 6 black 6 red 2 blue 1 red 5
+black 2 black 14 red 3 blue 1 red 4
+black 1 black 14 blue 2 red 1 blue 2 red 1 blue 2
+black 1 black 6 black 7 red 1 blue 5 red 2
+black 13 red 4 blue 2 red 2
+black 14 green 1 red 4 blue 1 red 1 blue 2
+black 2 black 2 black 8 green 1 red 4 blue 1 red 1 blue 2
+black 14 green 1 red 4 blue 1 red 3
+black 12 black 2
+black 12 black 2 green 1
+black 2 red 1 black 13 green 1
+black 4 black 11 green 1
+black 7 black 5 black 2 green 1
+black 16 green 1

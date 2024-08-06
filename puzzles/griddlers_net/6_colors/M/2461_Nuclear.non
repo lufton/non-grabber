@@ -1,0 +1,73 @@
+by "janndvorakk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/28/02"
+height 25
+id 2461
+link "https://www.griddlers.net/nonogram/-/g/2461"
+medium_time "0:11:00"
+points 4082
+popularity 61.25
+title "Nuclear"
+width 25
+
+color a 00f5f5
+color b ff0000
+color c 00cd00
+color d f58700
+color f f5f500
+color h 000000
+
+rows
+h 8 h 8
+h 5 c 6 c 1 c 1 h 5
+h 3 c 9 c 3 h 3
+h 2 c 10 c 3 h 2
+h 2 c 7 c 1 c 2 h 2
+h 1 c 6 c 3 h 1
+h 1 c 4 c 2 h 1
+h 1 c 2 c 2 c 3 h 1
+c 1 c 1 f 1 d 2 f 1 c 1 c 1
+c 1 c 1 f 2 d 1 b 2 d 1 f 2
+c 2 f 2 d 2 b 2 d 2 f 2 c 4
+c 4 f 2 d 2 b 2 d 2 f 2 c 5
+c 6 f 2 d 2 f 2 c 6
+c 8 f 4 c 6
+c 8 c 5
+c 8 c 4
+c 6 c 3
+h 1 c 4 c 2 h 1
+h 1 c 4 c 2 h 1
+h 1 c 3 c 2 h 1
+h 2 c 3 c 2 h 2
+h 2 c 2 c 2 h 2
+h 3 c 2 c 2 h 3
+h 5 c 1 c 1 h 5
+h 8 h 8
+
+columns
+h 8 h 8
+h 5 h 5
+h 3 c 2 h 3
+h 2 c 5 h 2
+h 2 c 6 c 3 h 2
+h 1 c 8 c 5 h 1
+h 1 c 6 c 1 c 13 h 1
+h 1 c 5 c 1 c 13 h 1
+c 5 c 1 c 11
+c 3 c 2 c 8
+c 3 f 2 c 5
+c 2 f 3 c 3
+c 1 c 1 f 1 d 2 f 1
+f 1 d 3 f 2
+d 1 b 3 d 1 f 1
+d 1 b 3 d 1 f 1
+f 1 d 3 f 2
+h 1 f 1 d 2 f 1 h 1
+h 1 f 3 h 1
+h 1 c 2 c 1 f 2 c 2 c 1 h 1
+h 2 c 2 c 3 c 4 c 1 h 2
+h 2 c 6 c 6 c 3 h 2
+h 3 c 3 c 12 h 3
+h 5 c 1 c 1 c 10 h 5
+h 8 c 7 h 8

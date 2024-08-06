@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Brian Bellis"
+date "Nov 15, 2010"
+description "to see Horshshoe falls from the Canadian side of Niagra Falls"
+difficulty 1.75
+height 20
+id 11040
+link "https://webpbn.com/play.cgi?id=11040"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "WCP#72 Slowly I turned"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 green 1 blue 1 blue 6 blue 1 green 3 black 2
+green 1 blue 2 blue 2 green 1 blue 1 blue 5 green 3 black 2
+green 3 blue 2 green 2 blue 2 blue 2 blue 3 green 1 black 2
+green 3 blue 2 blue 1 green 1 blue 3 blue 2 blue 3 green 1 black 1
+green 3 blue 1 blue 4 blue 2 blue 1 blue 3 green 1 black 1
+green 3 blue 11 blue 2 green 1 black 1
+green 3 blue 4 blue 1 blue 1 blue 3 green 2 black 1
+green 3 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 green 2 black 1
+green 2 black 1 blue 1 blue 1 blue 1 black 1 green 1 black 1
+green 2 black 1 blue 1 black 3
+green 1 black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 black 2
+black 2 blue 4 blue 1 blue 3 black 2
+black 2 blue 4 blue 3 red 1 blue 5 black 2
+black 1 blue 5 blue 2 red 1 blue 2 blue 3 black 3
+blue 5 blue 2 blue 3 blue 2 black 4
+blue 4 blue 5 blue 4 black 5
+
+columns
+blue 1 green 10 black 7 blue 2
+blue 2 green 8 black 7 blue 3
+blue 2 green 6 black 3 blue 4
+green 1 blue 6 blue 5
+blue 4 blue 5 blue 4
+blue 1 blue 3 blue 3 blue 1
+blue 1 green 2 blue 5 blue 1 blue 2
+blue 2 green 2 blue 2 blue 4
+blue 1 blue 4 blue 2 blue 1
+blue 1 blue 2 blue 4 blue 1 blue 2
+blue 2 blue 3 blue 1 red 2 blue 1
+blue 3 blue 2 blue 4
+blue 3 blue 3 blue 2 blue 1
+blue 2 blue 3 blue 2 blue 2
+blue 2 blue 3 blue 5
+green 2 blue 3 blue 1 blue 3 black 1
+green 2 blue 6 blue 1 black 2
+green 3 blue 3 green 2 black 2 black 3
+black 3 green 6 black 11
+black 20

@@ -1,0 +1,51 @@
+by "Iris (iris--)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Iris"
+date "Aug  1, 2009"
+description "My first puzzle, that's why so simple..."
+difficulty 1.25
+height 15
+id 6418
+link "https://webpbn.com/play.cgi?id=6418"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Love"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 3 black 3
+black 1 red 2 black 1 black 1 red 2 black 1
+black 1 red 4 black 1 black 1 red 4 black 1
+black 1 red 5 black 1 red 5 black 1
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 13 black 1
+black 1 red 12 black 1
+black 1 red 10 black 1
+black 1 red 8 black 1
+black 1 red 6 black 1
+black 1 red 4 black 1
+black 1 red 2 black 1
+black 2
+
+columns
+black 4
+black 2 red 4 black 1
+black 2 red 7 black 1
+black 1 red 9 black 1
+black 1 red 10 black 1
+black 1 red 10 black 1
+black 1 red 10 black 1
+black 1 red 9 black 1
+black 1 red 9 black 1
+black 1 red 9 black 1
+black 1 red 9 black 1
+black 1 red 8 black 1
+black 2 red 6 black 1
+black 2 red 3 black 1
+black 3

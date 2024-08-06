@@ -1,0 +1,47 @@
+by "jedslater"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/14/12"
+height 13
+id 120732
+link "https://www.griddlers.net/nonogram/-/g/120732"
+medium_time "0:02:20"
+points 599
+popularity 59.14
+title "Tiny Tower: Poker Game"
+width 12
+
+color a ff0000
+color b ffffff
+color c 000000
+color d 0000ff
+color e 990000
+
+rows
+d 3 b 4 d 3
+d 2 d 2
+d 1 c 4 d 1
+c 1 b 4 c 1
+b 1 c 1 b 6 c 1 b 1
+b 1 c 1 b 6 c 1 b 1
+c 1 b 4 c 1
+e 1 c 4 e 1
+e 1 e 1
+e 1 e 1 b 4 e 1 e 1
+d 1 e 1 e 6 e 1 d 1
+d 2 e 1 b 4 e 1 d 2
+d 3 e 6 d 3
+
+columns
+d 3 b 2 e 1 e 1 d 3
+d 2 e 1 e 1 d 2
+d 1 c 2 e 1 e 1 d 1
+c 1 b 2 c 1 e 1 e 1
+b 1 c 1 b 4 c 1 b 1 e 1 b 1 e 1
+b 1 c 1 b 4 c 1 b 1 e 1 b 1 e 1
+b 1 c 1 b 4 c 1 b 1 e 1 b 1 e 1
+b 1 c 1 b 4 c 1 b 1 e 1 b 1 e 1
+c 1 b 2 c 1 e 1 e 1
+d 1 c 2 e 1 e 1 d 1
+d 2 e 1 e 1 d 2
+d 3 b 2 e 1 e 1 d 3

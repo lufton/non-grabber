@@ -1,0 +1,122 @@
+by "Amit11"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/24/10"
+height 50
+id 89459
+link "https://www.griddlers.net/nonogram/-/g/89459"
+medium_time "0:23:44"
+points 174841
+popularity 84.65
+title "Parrot"
+width 50
+
+color a ffffff
+color b 000000
+color c 33cc00
+color d 0066cc
+color e ffff00
+
+rows
+b 7
+b 3 c 6 b 3
+b 2 c 9 b 4
+b 1 c 5 b 4 d 4 b 3
+b 1 c 4 b 4 b 1 d 5 b 3
+b 1 c 3 b 1 b 1 b 2 d 6 b 2
+b 6 b 1 b 2 b 1 d 6 b 2
+b 6 b 2 b 1 d 7 b 2
+b 7 b 5 d 8 b 2
+b 9 b 5 d 8 b 1
+b 9 b 6 d 9 b 1
+b 11 b 2 b 4 d 8 b 2
+b 11 b 1 b 2 e 1 b 1 d 9 b 1
+b 13 b 4 e 2 b 1 d 8 b 1
+b 13 b 3 e 2 b 2 d 7 b 2
+b 6 b 5 b 2 e 4 b 2 d 7 b 1
+b 5 b 6 b 2 e 6 b 1 d 7 b 1
+b 5 b 10 e 6 b 1 d 7 b 1
+b 4 b 10 e 7 b 2 d 6 b 1
+b 4 b 4 b 3 e 9 b 1 d 6 b 1
+b 3 b 2 e 10 b 2 d 5 b 1
+b 3 b 2 e 12 b 1 d 5 b 1
+b 2 b 2 e 13 b 2 d 4 b 1
+b 1 b 1 e 15 b 1 d 4 b 1
+b 2 e 15 b 1 d 4 b 1
+b 2 e 17 b 1 d 3 b 1
+b 1 e 18 b 1 d 3 b 1
+b 2 e 8 b 6 e 4 b 1 d 3 b 1
+b 2 e 9 b 8 e 2 b 1 d 3 b 2
+b 1 e 10 b 1 c 6 b 4 d 4 b 2
+b 1 e 9 b 2 c 8 b 3 d 4 b 2
+b 2 e 9 b 2 c 10 b 2 d 4 b 3
+b 1 e 10 b 2 c 11 b 2 d 6 b 2
+b 2 e 10 b 3 c 11 b 2 d 6 b 2
+b 2 e 11 b 2 c 13 b 2 d 5 b 2
+b 2 e 11 b 2 c 14 b 2 d 5 b 2
+b 2 e 12 b 2 c 15 b 2 d 4 b 2
+b 2 e 12 b 2 c 16 b 2 d 4 b 2
+b 2 e 13 b 2 c 16 b 3 d 3 b 1
+b 3 e 12 b 3 c 16 b 3 d 2 b 2
+b 3 e 12 b 4 c 6 b 1 c 10 b 2 d 2 b 2
+b 3 e 14 b 2 c 6 b 2 c 10 b 2 d 2 b 3
+b 3 e 15 b 2 c 5 b 3 c 10 b 2 d 3 b 2
+b 3 e 15 b 3 c 5 b 2 c 11 b 2 d 3 b 2
+b 4 e 14 b 4 c 4 b 3 c 11 b 2 d 3 b 2
+b 4 e 15 b 4 c 4 b 2 c 11 b 3 d 3 b 1
+b 3 e 16 b 3 c 4 b 3 c 11 b 3 d 3
+b 4 e 15 b 4 c 3 b 3 c 11 b 4 d 2
+b 3 e 16 b 5 c 1 b 4 c 10 b 5 d 1
+b 3 e 16 b 11 c 10 b 5
+
+columns
+b 7
+b 11
+b 14
+b 16 b 13
+b 12 b 17
+b 14 b 2 b 4 e 7 b 11
+b 2 c 3 b 9 b 3 b 2 e 15 b 6
+b 1 c 4 b 9 b 4 b 3 e 19 b 3
+b 2 c 4 b 14 b 2 e 24
+b 1 c 4 b 14 b 3 e 25
+b 1 c 3 b 1 b 10 b 2 e 27
+b 1 c 2 b 2 b 11 e 28
+b 1 c 2 b 5 b 8 e 29
+b 1 c 2 b 2 b 2 b 2 b 3 e 30
+b 1 c 2 b 1 b 1 b 6 b 3 e 31
+b 1 c 1 d 1 b 3 b 3 b 5 e 12 b 4 e 16
+b 2 d 2 b 1 b 8 e 11 b 9 e 14
+b 2 d 3 b 9 e 12 b 2 c 4 b 5 e 12
+b 1 d 6 b 3 e 15 b 2 c 7 b 5 e 9
+b 2 d 7 b 2 e 14 b 2 c 9 b 3 e 9
+b 1 d 9 b 2 e 12 b 2 c 10 b 3 e 8
+b 2 d 9 b 2 e 11 b 2 c 11 b 5 e 5
+b 1 d 10 b 4 e 9 b 1 c 13 b 4 e 4
+b 2 d 12 b 3 e 7 b 2 c 13 b 5 e 2
+b 2 d 13 b 3 e 6 b 1 c 14 b 6
+b 2 d 14 b 3 e 4 b 2 c 14 b 5
+b 2 d 16 b 6 c 16 b 3
+b 2 d 20 b 2 c 16 b 2
+b 2 d 19 b 2 c 7 b 3 c 5 b 2
+b 4 d 17 b 2 c 7 b 4 c 4 b 1
+b 15 d 4 b 1 c 8 b 8
+b 2 d 4 b 1 c 9 b 6
+b 2 d 3 b 2 c 10 b 4
+b 2 d 3 b 1 c 12 b 2
+b 1 d 4 b 1 c 12 b 1
+b 1 d 4 b 2 c 12
+b 1 d 4 b 2 c 11
+b 2 d 4 b 2 c 10
+b 2 d 3 b 2 c 10
+b 2 d 3 b 2 c 9
+b 2 d 3 b 2 c 8
+b 2 d 3 b 2 c 7
+b 3 d 2 b 2 c 6
+b 2 d 2 b 3 c 4
+b 2 d 2 b 5 c 1
+b 1 d 3 b 5
+b 2 d 3 b 4
+b 2 d 3 b 3
+b 2 d 3 b 2
+b 2 d 3 b 1

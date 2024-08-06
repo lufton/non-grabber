@@ -1,0 +1,72 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Dec  9, 2011"
+description "Give yourself time to pause before you skip ahead."
+difficulty 1.5
+height 15
+id 16703
+link "https://webpbn.com/play.cgi?id=16703"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Sign of the times"
+width 40
+
+rows
+0
+9,9,9
+2,2,3,1,3,2,6
+2,2,3,1,3,2,4
+2,2,3,1,3,2,2
+2,2,3,1,3,2,4
+2,2,3,1,3,2,6
+9,9,9
+0
+9,7,7,9
+1,2,2,1,2,2,1,1,2,2,1,2,2,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,2,2,1,2,2,1,1,2,2,1,2,2,1
+9,7,7,9
+0
+
+columns
+0
+5
+1,1
+5
+7,2,2
+7,1,1
+1,1,5
+1,1,2,2
+1,1,1,1
+1,1,5
+1,1
+7
+7,5
+2,2
+1,1
+5
+7,2,2
+7,1,1
+7,5
+1,1
+7
+1,1,5
+7,1,1
+7,2,2
+7,5
+1,1
+2,2
+5
+7
+7
+1,1,5
+2,2,1,1
+2,2,2,2
+3,3,5
+3,3,1,1
+7,2,2
+7,5
+1,1
+5
+0

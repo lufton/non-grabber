@@ -1,0 +1,30 @@
+by "ulka"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/24/04"
+height 5
+id 10219
+link "https://www.griddlers.net/nonogram/-/g/10219"
+medium_time "0:00:27"
+points 5
+popularity 38.41
+title "Night"
+width 5
+
+color a 274b8f
+color c fffe00
+color g 808080
+
+rows
+c 1
+g 3
+g 1 c 1 g 3
+g 4 c 1
+g 1 c 1 g 3
+
+columns
+g 4
+g 1 c 1 g 1 c 1
+g 4
+g 3
+c 1 g 1 c 1 g 1

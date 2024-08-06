@@ -1,0 +1,81 @@
+by "Malwina13"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/26/09"
+height 28
+id 75150
+link "https://www.griddlers.net/nonogram/-/g/75150"
+medium_time "0:13:59"
+points 4939
+popularity 78.2
+title "Pansy"
+width 28
+
+color a 00cccc
+color b 000000
+color c ffffff
+color d ffff33
+color e 009966
+color f 9966ff
+color g ffccff
+color h 6600cc
+
+rows
+g 3 c 4
+g 7 c 6
+g 8 c 8
+g 11 c 7
+g 12 f 3 c 4
+g 12 f 6 c 3
+g 4 f 4 g 5 f 7 c 2
+g 2 f 7 g 3 f 9 c 1
+g 1 f 4 h 4 g 3 f 10
+f 4 h 6 g 1 h 5 f 7
+f 5 h 2 c 2 h 9 f 6
+f 4 h 2 c 4 h 2 c 4 h 3 f 5
+f 4 h 1 c 3 b 1 c 2 h 1 c 5 h 2 f 5
+f 4 c 4 b 2 c 3 b 2 c 2 h 3 f 4
+f 4 h 1 c 4 b 1 d 2 b 3 c 3 h 2 f 4
+f 5 h 2 c 1 b 1 d 4 c 2 h 1 c 2 h 2 f 4
+f 3 h 2 c 2 b 7 c 1 h 2 c 1 h 2 f 4
+f 2 h 1 c 3 b 7 c 2 h 3 f 4
+f 1 h 1 c 4 b 2 c 1 b 2 c 3 h 1 f 5 e 3
+e 2 h 4 c 3 h 1 c 4 h 2 f 1 e 1 f 3 e 4
+e 6 h 7 c 2 h 2 f 2 e 9
+e 7 h 9 f 2 e 10
+e 8 f 9 e 11
+e 11 e 13
+e 9 e 11
+e 9 e 8
+e 7
+e 4
+
+columns
+e 4
+f 7 e 6
+g 3 f 9 e 8
+g 3 f 11 e 8
+g 3 f 9 h 4 e 8
+g 4 f 4 h 2 c 1 h 1 f 1 h 1 c 2 h 1 e 8
+g 4 f 3 h 3 c 3 h 1 c 3 h 2 e 7
+g 5 f 2 h 3 c 4 h 1 c 3 h 3 e 6
+g 5 f 2 h 2 c 6 b 2 c 2 h 2 f 1 e 4
+g 6 f 2 h 2 c 2 b 2 c 1 b 4 c 1 h 2 f 1 e 3
+g 7 f 1 h 3 c 2 b 2 d 1 b 3 c 1 h 2 f 1 e 1
+g 9 h 3 c 2 d 2 b 2 c 1 h 3 f 1
+g 9 h 3 c 1 d 2 b 3 c 1 h 2 f 1
+g 8 h 2 c 3 b 1 d 1 b 3 c 2 h 1 f 1
+c 2 g 4 f 2 h 2 c 2 b 2 c 1 b 2 c 3 h 1 f 1
+c 3 g 2 f 4 h 2 c 2 b 2 c 5 h 2 f 1 e 1
+c 4 f 5 h 2 c 4 h 2 c 2 h 2 f 2 e 2
+c 4 f 5 h 3 c 4 h 4 f 2 e 3
+c 4 f 6 h 4 c 3 h 1 f 3 e 5
+c 4 f 6 h 7 f 1 e 7
+c 3 f 8 h 4 f 3 e 6
+c 4 f 14 e 6
+c 4 f 13 e 6
+c 3 f 10 e 8
+f 8 e 8
+e 8
+e 6
+e 4

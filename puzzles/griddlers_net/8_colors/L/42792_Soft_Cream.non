@@ -1,0 +1,83 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/15/07"
+height 28
+id 42792
+link "https://www.griddlers.net/nonogram/-/g/42792"
+medium_time "0:17:59"
+points 53941
+popularity 76.47
+title "Soft Cream"
+width 30
+
+color a ffffff
+color b 000000
+color c b8b5b5
+color d e2e1e1
+color e 999999
+color f ffcc99
+color g fe9e70
+color h cc6600
+
+rows
+b 6
+b 1 d 2 b 1
+b 6 d 2 d 1 b 1
+b 1 d 4 c 2 d 1 d 2 b 1
+b 1 d 1 d 1 c 4 e 2 d 2 b 1
+b 3 c 2 d 2 c 1 e 1 d 2 d 1 b 1
+b 1 d 3 c 2 d 1 d 2 d 2 b 1
+b 1 d 1 c 2 d 3 d 1 e 1 b 1
+b 1 c 1 d 1 c 4 d 5 d 1 e 1 b 1
+b 1 d 1 c 2 d 1 d 1 c 6 e 4 b 1
+b 1 d 1 c 2 d 1 d 1 c 3 e 5 b 1
+b 2 d 1 c 2 d 2 d 1 b 1
+b 1 f 2 h 1 d 1 c 2 d 2 d 2 b 1
+b 1 f 2 h 1 d 1 c 3 d 9 b 1
+b 1 f 4 h 1 d 1 c 7 e 3 b 1
+b 1 f 4 g 2 h 1 d 5 e 4 b 1
+b 1 f 3 g 4 h 1 d 2 b 1
+b 1 h 1 f 2 g 5 h 2 d 4 b 1
+b 1 h 1 f 1 g 8 h 3 b 4
+b 1 h 1 f 1 g 7 h 4 b 1
+b 1 f 2 h 1 g 5 h 5 b 1
+b 1 f 2 g 2 h 1 g 3 h 4 b 2
+b 1 f 2 g 4 h 6 b 1
+b 1 f 2 g 4 h 3 b 4
+b 1 f 1 g 4 h 2 b 2
+b 1 h 1 g 3 h 2 b 1
+b 1 h 4 b 1
+b 4
+
+columns
+b 3
+b 1 f 2 h 1 b 1
+b 1 f 2 g 2 h 1 b 1
+b 1 f 2 g 3 h 1 b 1
+b 5 f 2 g 4 h 1 b 1
+b 1 f 2 h 3 f 1 g 4 h 2 b 1
+b 2 f 6 h 1 g 3 h 2 b 1
+b 1 f 6 g 3 h 1 g 1 h 2 b 1
+b 3 f 4 g 6 h 2 b 1
+b 1 d 1 h 2 f 1 g 7 h 2 b 1
+b 2 c 2 d 1 h 1 g 7 h 1 b 1
+b 1 d 1 d 1 c 2 d 1 h 1 g 5 h 2 b 1
+b 1 d 1 d 1 c 2 d 1 h 1 g 3 h 3 b 1
+b 1 d 1 d 1 c 2 d 1 h 1 g 2 h 3 b 1
+b 1 c 2 d 1 d 1 c 2 d 1 h 1 g 1 h 3 b 1
+b 1 d 1 c 4 d 2 c 2 d 1 h 3 b 1
+b 1 d 1 d 1 c 2 d 1 d 1 c 2 d 1 h 3 b 1
+b 1 d 1 d 1 c 2 d 1 c 1 d 1 h 2 b 1
+b 1 d 1 d 1 c 2 d 1 d 1 c 1 d 1 d 1 b 2
+b 1 d 1 d 2 c 2 d 1 c 1 d 1 d 1 b 1
+b 1 c 1 d 1 d 1 c 2 d 1 c 1 e 1 d 1 b 1
+b 1 c 2 d 1 d 1 c 2 d 1 c 1 e 1 d 2 b 1
+b 1 d 2 c 1 d 1 d 1 c 1 e 1 d 1 e 2 d 1 b 1
+b 1 d 2 c 2 d 1 d 1 e 2 d 1 e 2 b 1
+b 1 d 1 c 1 e 1 d 1 e 2 d 2 e 1 b 1
+b 1 e 1 d 1 d 1 e 2 d 3 b 1
+b 1 e 1 d 1 d 1 e 3 b 3
+b 1 d 2 d 1 e 1 b 3
+b 1 d 5 b 1
+b 6

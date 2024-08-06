@@ -1,0 +1,58 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Apr 15, 2024"
+description "Opened it.. left some of the paper and the ribbon on the floor.. just a great big black hole of absolutely nothing!A pretty standard gift here for those who win at webpbn. :D"
+difficulty 1.25
+height 15
+id 38498
+link "https://webpbn.com/play.cgi?id=38498"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Re: WCP 180 Puzzle #38399 // For Philip"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+black 4
+black 8
+black 10
+black 12
+black 12
+black 14
+black 14
+green 1 black 14
+blue 1 green 1 black 14
+green 1 blue 1 green 1 black 12
+green 1 blue 1 green 1 black 12
+red 2 green 1 red 2 black 10
+red 3 red 3 black 8
+green 1 red 5 black 4
+
+columns
+green 1 blue 1 green 2 red 2 green 1
+green 1 blue 2 red 3
+green 3 red 2
+red 1
+red 2
+black 4 red 3
+black 8 red 2
+black 10
+black 12
+black 12
+black 14
+black 14
+black 14
+black 14
+black 12
+black 12
+black 10
+black 8
+black 4
+0

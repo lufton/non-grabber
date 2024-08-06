@@ -1,0 +1,71 @@
+by "Corey Beaudoin (red)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Corey Beaudoin"
+date "Dec 21, 2009"
+description "Did this when I was 5. Boy did it hurt"
+difficulty 2.25
+height 19
+id 7472
+link "https://webpbn.com/play.cgi?id=7472"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Don't use a steak knife on an orange"
+width 31
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+black 1 black 1
+red 3
+red 6 black 11 red 3
+red 7 black 2 black 2 black 2 black 1 black 3 black 1
+red 6 black 1 black 1 black 1 black 2 black 1
+black 1 black 1
+black 1 black 1
+black 5 black 2 black 2
+red 4 black 1 black 1
+red 6 black 1 black 1
+red 1 black 2 red 5 black 5 red 4
+red 2 black 2 red 6 red 4
+red 10 red 4
+red 10 red 4
+red 10 red 4
+red 8 red 4
+red 6 red 4
+red 4 red 5
+
+columns
+red 1
+red 3
+red 3
+red 3
+red 3
+red 3
+red 3 red 4
+black 2 red 6
+black 2 red 1 black 2 red 5
+black 1 black 1 red 2 black 2 red 6
+black 2 red 10
+black 2 red 10
+black 1 black 1 red 10
+black 2 red 8
+black 2 red 6
+black 1 black 1 red 4
+black 2
+black 1
+0
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1 red 1
+red 3
+black 4 red 6
+black 2 black 3 red 8
+black 1 red 8
+black 2 red 2 black 1 red 5
+black 1 red 2 black 3 red 2
+black 2 red 2 black 5

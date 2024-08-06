@@ -1,0 +1,113 @@
+by "Jason King (gayjaybird)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Jason King"
+date "Apr 13, 2010"
+description "The blocks of the quilt are arranged in the Fibonnaci sequence. Each block inside the main design is the size of the previous two blocks. Then I added the borders to make it more quiltlike."
+difficulty 1.5
+height 50
+id 8367
+link "https://webpbn.com/play.cgi?id=8367"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Fibonacci's Quilt"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+black 32
+black 1 red 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 blue 2 black 1
+black 1 red 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 blue 2 black 1
+black 32
+black 1 green 2 black 10 red 15 black 1 green 2 black 1
+black 1 green 2 black 2 blue 1 black 5 blue 1 black 1 red 15 black 1 green 2 black 1
+black 1 green 2 black 3 blue 1 black 3 blue 1 black 2 red 3 green 2 red 5 green 2 red 3 black 1 green 2 black 1
+black 1 green 2 black 4 blue 1 black 1 blue 1 black 3 red 2 green 4 red 3 green 4 red 2 black 1 green 2 black 1
+black 1 green 2 black 5 blue 1 black 4 red 2 green 4 red 3 green 4 red 2 black 1 green 2 black 1
+black 1 green 2 black 4 blue 1 black 1 blue 1 black 3 red 3 green 2 red 5 green 2 red 3 black 1 green 2 black 1
+black 1 green 2 black 3 blue 1 black 3 blue 1 black 2 red 15 black 1 green 2 black 1
+black 1 green 2 black 2 blue 1 black 5 blue 1 black 1 red 15 black 1 green 2 black 1
+black 1 green 2 black 10 red 15 black 1 green 2 black 1
+black 1 green 2 black 1 red 6 green 3 red 3 green 2 red 5 green 2 red 3 black 1 green 2 black 1
+black 1 green 2 black 1 red 6 green 3 red 2 green 4 red 3 green 4 red 2 black 1 green 2 black 1
+black 1 green 2 black 1 red 6 green 3 red 2 green 4 red 3 green 4 red 2 black 1 green 2 black 1
+black 1 green 2 black 1 red 6 blue 3 red 3 green 2 red 5 green 2 red 3 black 1 green 2 black 1
+black 1 green 2 black 1 red 6 blue 3 red 15 black 1 green 2 black 1
+black 1 green 2 black 1 red 6 blue 3 red 15 black 1 green 2 black 1
+black 1 green 2 black 1 green 24 black 1 green 2 black 1
+black 1 green 2 black 1 green 22 black 1 green 2 black 1
+black 1 green 2 black 1 green 20 black 1 green 2 black 1
+black 1 green 2 black 1 green 18 black 1 green 2 black 1
+black 1 green 2 black 1 green 16 black 1 green 2 black 1
+black 1 green 2 black 1 green 14 black 1 green 2 black 1
+black 1 green 2 black 1 green 12 black 1 green 2 black 1
+black 1 green 2 black 1 green 10 black 1 green 2 black 1
+black 1 green 2 black 1 green 8 black 1 green 2 black 1
+black 1 green 2 black 1 green 6 black 1 green 2 black 1
+black 1 green 2 black 1 green 4 black 1 green 2 black 1
+black 1 green 2 black 1 green 4 black 1 green 2 black 1
+black 1 green 2 black 1 green 4 black 1 green 2 black 1
+black 1 green 2 black 1 green 4 black 1 green 2 black 1
+black 1 green 2 black 1 green 6 black 1 green 2 black 1
+black 1 green 2 black 1 green 8 black 1 green 2 black 1
+black 1 green 2 black 1 green 10 black 1 green 2 black 1
+black 1 green 2 black 1 green 12 black 1 green 2 black 1
+black 1 green 2 black 1 green 14 black 1 green 2 black 1
+black 1 green 2 black 1 green 16 black 1 green 2 black 1
+black 1 green 2 black 1 green 18 black 1 green 2 black 1
+black 1 green 2 black 1 green 20 black 1 green 2 black 1
+black 1 green 2 black 1 green 22 black 1 green 2 black 1
+black 1 green 2 black 1 green 24 black 1 green 2 black 1
+black 32
+black 1 blue 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 red 2 black 1
+black 1 blue 2 black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1 red 2 black 1
+black 32
+0
+
+columns
+0
+0
+0
+0
+black 47
+black 1 red 2 black 1 green 39 black 1 blue 2 black 1
+black 1 red 2 black 1 green 39 black 1 blue 2 black 1
+black 47
+black 1 blue 2 black 10 red 6 green 1 green 1 black 1 black 1
+black 1 black 2 blue 1 black 5 blue 1 black 1 red 6 green 2 green 2 black 1 blue 2 black 1
+black 1 blue 2 black 3 blue 1 black 3 blue 1 black 2 red 6 green 3 green 3 black 1 black 1
+black 1 black 4 blue 1 black 1 blue 1 black 3 red 6 green 4 green 4 black 1 blue 2 black 1
+black 1 blue 2 black 5 blue 1 black 4 red 6 green 5 green 5 black 1 black 1
+black 1 black 4 blue 1 black 1 blue 1 black 3 red 6 green 6 green 6 black 1 blue 2 black 1
+black 1 blue 2 black 3 blue 1 black 3 blue 1 black 2 green 3 blue 3 green 7 green 7 black 1 black 1
+black 1 black 2 blue 1 black 5 blue 1 black 1 green 3 blue 3 green 8 green 8 black 1 blue 2 black 1
+black 1 blue 2 black 10 green 3 blue 3 green 9 green 9 black 1 black 1
+black 1 black 1 red 15 green 10 green 10 black 1 blue 2 black 1
+black 1 blue 2 black 1 red 15 green 24 black 1 black 1
+black 1 black 1 red 3 green 2 red 5 green 2 red 3 green 24 black 1 blue 2 black 1
+black 1 blue 2 black 1 red 2 green 4 red 3 green 4 red 2 green 24 black 1 black 1
+black 1 black 1 red 2 green 4 red 3 green 4 red 2 green 24 black 1 blue 2 black 1
+black 1 blue 2 black 1 red 3 green 2 red 5 green 2 red 3 green 10 green 10 black 1 black 1
+black 1 black 1 red 15 green 9 green 9 black 1 blue 2 black 1
+black 1 blue 2 black 1 red 15 green 8 green 8 black 1 black 1
+black 1 black 1 red 15 green 7 green 7 black 1 blue 2 black 1
+black 1 blue 2 black 1 red 3 green 2 red 5 green 2 red 3 green 6 green 6 black 1 black 1
+black 1 black 1 red 2 green 4 red 3 green 4 red 2 green 5 green 5 black 1 blue 2 black 1
+black 1 blue 2 black 1 red 2 green 4 red 3 green 4 red 2 green 4 green 4 black 1 black 1
+black 1 black 1 red 3 green 2 red 5 green 2 red 3 green 3 green 3 black 1 blue 2 black 1
+black 1 blue 2 black 1 red 15 green 2 green 2 black 1 black 1
+black 1 black 1 red 15 green 1 green 1 black 1 blue 2 black 1
+black 47
+black 1 blue 2 black 1 green 39 black 1 red 2 black 1
+black 1 blue 2 black 1 green 39 black 1 red 2 black 1
+black 47
+0
+0
+0
+0

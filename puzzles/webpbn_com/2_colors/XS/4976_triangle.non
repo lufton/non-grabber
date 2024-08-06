@@ -1,0 +1,32 @@
+by "vindersloon (vindersloon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by vindersloon"
+date "Feb 10, 2009"
+description "a yoga pose"
+difficulty 1.25
+height 6
+id 4976
+link "https://webpbn.com/play.cgi?id=4976"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "triangle"
+width 9
+
+rows
+2
+4
+2,1
+2,2
+1,4
+2,2,2
+
+columns
+3
+2,1
+2
+2
+2,2
+5
+2
+2
+1

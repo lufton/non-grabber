@@ -1,0 +1,83 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Ron Jacobson"
+date "Oct  1, 2010"
+description "Core + hola = Corolla or Corrola or Koreollah. NOt sure exactly how to spell it."
+difficulty 2.25
+height 30
+id 10524
+link "https://webpbn.com/play.cgi?id=10524"
+note "published,definitely unique,may require moderate lookahead"
+quality 2.5
+title "Kind of Car 1"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1
+green 2
+red 3 green 1 red 3
+red 5 green 1 red 5
+red 1 black 1 red 7 black 1 red 1
+black 2 red 3 black 2
+black 2 black 2
+black 2 black 2
+black 1 black 1 black 1
+black 1 black 1 black 3
+black 1 black 1 black 3
+black 1 black 1 black 1 black 7
+black 1 black 1 black 7
+black 2 black 2 black 3
+black 2 black 2 black 3
+black 2 red 3 black 2
+red 1 black 1 red 7 black 1 red 1
+red 5 red 5
+red 3 red 3
+0
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 6 blue 5 blue 2 blue 5
+blue 2 blue 2 blue 1 blue 1 blue 2 blue 1
+blue 2 blue 2 blue 1 blue 1 blue 1 blue 2 blue 5
+blue 2 blue 2 blue 1 blue 1 blue 2 blue 1 blue 1
+blue 2 blue 2 blue 5 blue 2 blue 5
+0
+0
+
+columns
+0
+red 1 red 1
+red 1 black 2 black 2 red 1
+red 2 black 2 black 2 red 2
+red 3 black 2 black 2 red 3
+red 3 black 7 red 3
+red 3 red 3
+green 3 red 2 black 1 black 1 red 2 blue 8
+green 2 red 3 red 3 blue 8
+red 3 black 7 red 3 blue 1
+red 3 black 2 black 2 red 3 blue 1
+red 2 black 2 black 2 red 2 blue 5
+red 1 black 2 black 2 red 1 blue 5
+red 1 red 1
+blue 5
+blue 1 blue 1
+blue 1 blue 1 blue 1
+black 2 blue 1 blue 1
+black 2 blue 5
+black 6
+black 6 blue 8
+black 6 blue 8
+black 2
+black 2
+blue 1 blue 3
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 5
+0

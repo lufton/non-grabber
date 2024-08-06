@@ -1,0 +1,59 @@
+by "christa1024"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/21/09"
+height 20
+id 85605
+link "https://www.griddlers.net/nonogram/-/g/85605"
+medium_time "0:03:37"
+points 1625
+popularity 62.23
+title "Broken Vase"
+width 15
+
+color a ffffff
+color b 000000
+color c c98c00
+color d ff0000
+color e 00d700
+color f 0000ff
+color h ff00ff
+
+rows
+b 11
+b 1 f 3 b 1 h 3 e 2 b 1
+b 2 f 2 b 1 h 2 e 2 b 2
+b 2 f 1 b 2 e 2 b 2
+b 1 f 2 b 1 e 1 h 1 b 1
+b 2 e 2 b 2 h 1 b 2
+b 2 d 2 e 2 b 1 h 2 b 2
+b 1 d 3 e 3 h 3 b 1
+b 1 d 3 h 6 b 1
+b 1 d 4 h 5 b 1
+b 1 d 4 c 5 b 1
+b 2 d 3 c 4 b 2
+b 2 d 1 c 4 b 2
+b 2 c 3 b 2
+b 5
+b 15
+b 1 b 1
+b 1 b 1
+b 1 b 1
+b 1 b 1
+
+columns
+b 5
+b 1
+b 3 b 6 b 1
+b 1 f 1 b 2 b 2 d 4 b 2 b 1
+b 1 f 2 b 3 d 6 b 2 b 1
+b 1 f 4 e 1 d 7 b 3
+b 4 f 1 e 3 h 1 d 3 c 2 b 2
+b 1 h 2 b 3 e 2 h 2 c 4 b 2
+b 1 h 2 e 2 b 2 e 1 h 2 c 4 b 2
+b 1 h 1 e 2 h 6 c 3 b 3
+b 1 e 2 b 3 h 4 c 2 b 2 b 1
+b 1 e 1 b 2 b 2 h 3 c 1 b 2 b 1
+b 3 b 6 b 1
+b 1
+b 5

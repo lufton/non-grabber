@@ -1,0 +1,62 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by sanane samanye"
+date "Nov 25, 2017"
+description "An Imperial Star Destroyer jumping out of hyperspace."
+difficulty 2.25
+height 20
+id 30527
+link "https://webpbn.com/play.cgi?id=30527"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "If the greens were blue... / Jumping out of hyperspace"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 blue 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 3
+black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 black 1 red 3
+blue 1 blue 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 4
+black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 black 1 red 2 black 2
+blue 1 blue 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 1 black 2 red 1 blue 1
+black 1 blue 1 black 1 blue 1 red 1 blue 1 red 1 black 2 red 1 blue 2 black 1
+blue 1 blue 1 red 1 black 1 red 1 black 1 blue 1 black 1 red 1 blue 2 black 1 red 2
+black 1 blue 1 black 1 blue 1 red 1 blue 1 black 1 blue 2 black 1 red 2 blue 1 black 1
+blue 1 blue 1 red 1 black 1 red 1 black 1 blue 2 black 1 red 2 blue 1 black 2 red 1
+black 1 blue 1 black 1 blue 1 red 1 blue 1 black 1 red 2 blue 1 black 2 red 1 blue 2
+blue 1 blue 1 red 1 black 1 red 1 blue 1 red 2 blue 1 black 2 red 1 blue 2 black 1
+black 1 blue 1 black 1 blue 1 red 2 blue 1 black 2 red 1 blue 2 black 1 blue 1
+blue 1 blue 1 red 1 black 1 red 1 blue 1 black 2 red 1 blue 2 black 1 blue 1
+black 1 blue 1 black 1 red 1 black 2 red 1 blue 2 black 1 blue 1
+blue 1 blue 1 red 1 black 2 red 1 blue 2 black 1 blue 1
+black 1 blue 1 black 1 red 1 blue 2 black 1 blue 1
+blue 1 blue 1 black 1 blue 2 black 1 blue 1
+blue 1 black 1 blue 1 black 1 blue 1
+blue 2 blue 1
+blue 1
+
+columns
+blue 1
+blue 1 blue 2
+blue 1 black 1 blue 1 black 1 blue 1
+blue 1 black 1 blue 2 black 1 blue 1 blue 1
+blue 1 black 1 blue 2 red 1 black 1 blue 1 black 1
+blue 1 black 1 blue 2 red 1 black 2 red 1 blue 1 blue 1
+blue 1 black 1 blue 2 red 1 black 2 red 1 black 1 blue 1 black 1
+blue 1 black 1 blue 2 red 1 black 2 blue 1 red 1 black 1 red 1 blue 1 blue 1
+blue 1 black 1 blue 2 red 1 black 2 blue 1 red 2 blue 1 black 1 blue 1 black 1
+black 1 blue 2 red 1 black 2 blue 1 red 2 blue 1 red 1 black 1 red 1 blue 1 blue 1
+blue 2 red 1 black 2 blue 1 red 2 black 1 blue 1 red 1 blue 1 black 1 blue 1 black 1
+red 1 black 2 blue 1 red 2 black 1 blue 2 black 1 red 1 black 1 red 1 blue 1 blue 1
+black 1 blue 1 red 2 black 1 blue 2 black 1 blue 1 red 1 blue 1 black 1 blue 1 black 1
+red 2 black 1 blue 2 red 1 black 1 blue 1 black 1 red 1 black 1 red 1 blue 1 blue 1
+black 1 blue 2 red 1 black 2 red 1 blue 1 red 1 blue 1 black 1 blue 1 black 1
+blue 1 red 1 black 2 red 1 black 1 blue 1 black 1 red 1 black 1 red 1 blue 1 blue 1
+black 2 red 2 black 1 red 1 blue 1 red 1 blue 1 black 1 blue 1 black 1
+red 4 black 1 blue 1 black 1 red 1 black 1 red 1 blue 1 blue 1
+red 3 black 1 red 1 blue 1 red 1 blue 1 black 1 blue 1 black 1
+red 3 black 1 blue 1 black 1 red 1 black 1 red 1 blue 1 blue 1

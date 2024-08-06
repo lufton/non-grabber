@@ -1,0 +1,104 @@
+by "myamollytaz"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/14/07"
+height 45
+id 53320
+link "https://www.griddlers.net/nonogram/-/g/53320"
+medium_time "0:36:42"
+points 53910
+popularity 72.0
+title "Birthday Fairy"
+width 34
+
+color a ffffff
+color b ffcc99
+color c ffff33
+color d ffcc00
+color e 00d700
+color f 0000ff
+color g 00ffff
+color h ff00ff
+
+rows
+e 1
+e 2
+e 1 h 1 e 1
+e 1 h 2 e 1
+e 1 c 1 e 3
+e 1 c 2 e 3
+e 2 c 1 e 1 h 2 e 1
+d 4 e 1 h 2 c 1 e 1 h 2 e 1
+d 1 c 4 d 2 e 2 h 2 c 1 e 4
+d 1 c 7 d 1 e 2 c 3 e 5
+d 1 c 9 d 1 d 6 e 1 h 2 e 2
+d 1 c 9 d 4 c 6 d 3 e 2
+d 1 c 9 g 1 c 12 d 2
+d 1 c 8 g 1 f 1 c 14 d 1
+d 1 c 7 g 1 c 16 d 1
+d 1 c 5 g 1 f 1 c 4 d 3 c 10 d 1
+d 1 c 4 g 1 c 4 d 1 c 3 d 1 c 9 d 1
+d 2 d 1 c 3 g 1 f 1 c 4 d 1 c 3 d 1 c 1 d 2 c 7 d 1
+d 1 d 2 c 2 d 2 c 5 d 1 c 1 d 2 c 1 d 1 b 3 c 6
+d 1 d 1 c 1 d 1 d 1 c 5 d 1 c 4 d 1 b 2 d 1 c 6 d 1
+d 1 d 1 c 2 d 1 d 1 c 1 d 1 c 4 d 1 c 3 d 1 b 3 d 3 c 3 d 1
+d 2 c 2 d 1 d 1 c 1 d 1 c 4 d 4 b 7 d 3
+d 3 d 1 c 1 d 1 c 3 d 2 b 5 g 2 b 5
+d 1 c 2 d 3 c 1 d 1 b 4 g 1 g 1 b 4
+d 1 c 5 d 1 b 4 g 4 b 4
+f 3 d 1 c 4 d 1 b 6 g 2 b 5
+f 1 f 2 d 1 c 3 d 1 b 12
+f 1 g 2 f 3 d 1 c 2 d 1 b 12
+f 2 g 2 f 1 d 1 e 2 b 11
+f 3 g 1 g 2 e 1 h 4 b 8 d 1
+f 1 g 1 f 2 g 1 e 1 h 4 e 2 b 4 d 1
+f 1 g 2 f 2 e 1 h 6 e 2 d 1 c 1 d 2
+f 3 f 1 e 2 h 6 e 2 d 3 c 4
+f 1 g 1 e 1 h 4 e 1 h 3 e 3 b 1 d 3 c 3 d 1 c 1 d 2
+f 1 g 2 e 1 h 6 e 1 h 4 e 1 b 2 c 3 d 3 d 1
+f 2 e 1 h 7 e 1 h 2 e 1 b 3 d 3 d 1
+e 1 h 9 e 3 b 2
+e 1 h 10 e 1
+e 2 h 9 e 1
+b 1 e 2 h 7 e 1
+b 3 e 3 h 2 e 3
+b 5 e 4
+b 5
+b 4
+b 2
+
+columns
+d 3
+d 4 d 1 d 1
+d 1 c 4 d 1 d 1 d 2 f 2
+d 1 c 6 d 1 d 1 d 1 c 1 d 1 f 1 g 1 f 1
+d 1 c 8 d 4 c 2 d 1 f 1 g 1 f 4
+d 1 c 13 d 1 f 1 g 1 f 1 g 1 f 1
+d 1 c 11 d 2 f 1 g 1 f 1 g 1 f 3
+d 1 c 10 d 1 f 1 g 1 f 2 g 1 f 1
+d 1 c 8 g 1 d 6 f 1 g 1 f 1 g 1 f 1 e 3
+d 1 c 6 g 2 f 1 c 6 d 2 f 1 g 1 f 1 f 1 g 1 e 2 h 2 e 1 b 5
+d 1 c 3 g 2 f 1 c 4 d 3 c 3 d 1 f 1 g 1 f 1 e 2 h 5 e 1 b 5
+d 2 g 1 f 1 c 9 d 1 c 3 d 1 f 1 g 1 e 2 h 6 e 1 b 5
+d 1 c 11 d 1 c 4 d 1 e 2 h 9 e 1 b 3
+d 1 c 11 d 1 c 4 e 1 h 11 e 1 b 2
+d 1 c 4 d 4 c 2 d 1 c 2 d 3 e 1 h 11 e 1
+d 1 c 4 d 1 c 4 d 5 b 4 h 4 e 1 h 7 e 1
+e 1 d 1 c 4 d 1 c 2 d 1 c 2 d 1 b 7 h 5 e 1 h 6 e 1
+e 2 d 1 c 4 d 1 c 2 d 1 c 2 d 1 b 8 e 1 h 4 e 1 h 4 e 2
+e 2 c 1 d 1 c 5 d 2 c 3 d 1 b 8 e 3 h 3 e 1 h 3 e 2
+e 1 h 2 c 1 d 1 c 7 d 3 b 10 e 3 h 2 e 5
+e 2 h 2 c 1 d 1 c 6 d 1 b 5 g 2 b 6 e 1 h 1 e 2
+e 1 c 4 e 2 d 1 c 5 d 1 b 4 g 1 g 2 b 5 e 2 b 2
+e 1 c 2 e 4 h 1 d 1 c 6 b 1 d 1 b 2 g 1 g 2 b 5 b 4
+e 1 h 1 e 2 h 2 e 2 h 1 d 1 c 8 d 1 b 2 g 2 b 5 b 2
+e 1 h 2 e 2 h 2 e 4 d 1 c 7 d 1 b 9 d 1 c 1 d 1
+e 12 d 1 c 7 d 1 b 8 d 1 c 1 d 1
+d 1 c 7 d 1 b 6 d 1 c 1 d 1
+d 1 c 6 d 1 b 4 d 1 c 1 d 1
+d 2 c 4 d 1 d 1 c 1 d 1
+d 1 d 2 d 2 c 1 d 1
+d 2 c 2 d 1
+c 2 d 2
+d 1 c 1 d 1
+d 1 c 1 d 1

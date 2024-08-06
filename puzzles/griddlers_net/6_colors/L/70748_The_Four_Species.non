@@ -1,0 +1,76 @@
+by "inbarabc"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/19/08"
+height 33
+id 70748
+link "https://www.griddlers.net/nonogram/-/g/70748"
+medium_time "0:17:42"
+points 6421
+popularity 57.25
+title "The Four Species"
+width 20
+
+color a ffffff
+color d cc9900
+color e 66ff66
+color f 339900
+color g ffff00
+color h 00cc33
+
+rows
+h 1
+h 2
+h 2
+h 2
+h 3
+e 1 h 3
+e 2 h 3
+e 1 e 1 h 3
+e 3 e 2 h 3
+e 2 e 2 h 3
+e 1 d 1 e 1 h 3
+d 1 e 3 h 3
+e 3 d 1 e 1 h 3
+e 2 e 1 d 2 e 1 h 3 f 2
+e 1 d 1 e 1 h 4 f 2
+d 3 e 3 d 1 h 3 f 2
+d 2 d 2 h 3 f 1 f 2
+e 1 d 1 e 1 d 1 h 3 f 1 f 1
+e 2 d 2 e 1 h 3 f 1 f 2
+e 2 d 1 e 1 h 3 f 2 f 1
+e 2 d 2 e 1 h 4 f 1 f 2 f 1
+e 1 e 2 d 1 h 4 f 2 f 2
+e 2 e 1 d 1 h 4 f 2 f 2
+e 3 d 1 h 3 f 1 f 3
+e 2 d 2 h 3 f 2 g 1
+d 1 h 3 f 3 g 5
+h 4 f 1 g 6
+h 3 g 7
+h 3 g 8
+h 2 g 8
+g 8
+g 7
+g 6
+
+columns
+d 1 e 2 e 2
+e 1 d 1 e 2 e 2
+e 1 e 1 e 2 d 2 e 2 e 1
+e 6 e 1 e 2 d 3 e 2 e 2
+e 2 d 2 e 2 e 1 d 3 e 2 e 1
+e 1 d 2 e 1 e 2 d 5
+e 5 d 4 e 2 d 2 h 3
+e 2 e 4 d 2 h 10
+h 16
+h 19
+h 18 f 1
+h 11 f 2 f 2 f 1 g 5
+h 6 f 5 f 2 f 1 g 6
+h 4 f 3 f 2 f 2 g 7
+h 2 f 2 f 3 f 2 g 8
+f 3 f 1 g 8
+f 1 f 2 g 8
+f 2 g 7
+f 2 g 6
+g 1

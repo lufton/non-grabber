@@ -1,0 +1,62 @@
+by "Inferno ZX (Inferno)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Inferno ZX"
+date "Jan 26, 2022"
+description "The Gosper glider gun is the first known gun in Conway's Game of Life, and indeed the first known finite pattern with unbounded growth, found by Bill Gosper in November 1970."
+difficulty 1.25
+height 9
+id 35563
+link "https://webpbn.com/play.cgi?id=35563"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Conway's Game of Life - Pattern 1"
+width 36
+
+rows
+24,11
+22,1,11
+12,6,12
+11,3,4,12
+8,5,3,14
+8,3,1,4,1,11
+10,5,7,11
+11,3,20
+12,22
+
+columns
+4,3
+4,3
+9
+9
+9
+9
+9
+9
+9
+9
+4,2
+3,3,1
+2,5
+2,5
+5,3
+3,3,1
+4,2
+5,3
+9
+9
+2,4
+2,4
+1,3,3
+9
+3,2
+9
+9
+9
+9
+9
+9
+9
+9
+9
+2,5
+2,5

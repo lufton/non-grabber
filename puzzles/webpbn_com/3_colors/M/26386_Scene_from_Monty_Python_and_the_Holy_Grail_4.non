@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "The beast"
+difficulty 1.5
+height 20
+id 26386
+link "https://webpbn.com/play.cgi?id=26386"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Scene from Monty Python and the Holy Grail 4"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+0
+black 7
+black 12
+black 16
+black 4 black 13
+black 1 black 1 black 15
+black 2 black 1 black 15
+black 2 black 1 black 15
+black 2 black 1 black 15
+black 2 black 15
+black 1 black 1 black 1 black 14
+black 1 black 9 black 1
+black 1 black 8
+red 1 black 8 black 2
+black 7 black 2
+black 6 black 2
+black 6 black 2
+black 1 black 7 black 2 black 1
+
+columns
+black 10
+black 2 black 4
+black 3 black 1
+black 8 red 1 black 1
+black 3 black 1 black 1
+black 9 black 4
+black 17
+black 17
+black 17
+black 17
+black 16
+black 12 black 1
+black 12 black 1 black 1
+black 11 black 1
+black 9
+black 8 black 2 black 2
+black 7 black 2 black 2
+black 7
+black 6
+black 7 black 1

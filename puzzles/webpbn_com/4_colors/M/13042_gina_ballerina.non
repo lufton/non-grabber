@@ -1,0 +1,62 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Mar 26, 2011"
+description "sister to giovanni, has hired Minou to scope out Matt. tho' Minou knows nothing of gina's plans"
+difficulty 1.5
+height 20
+id 13042
+link "https://webpbn.com/play.cgi?id=13042"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "gina ballerina"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 black 1
+black 4 black 8
+black 1 blue 1 black 1 blue 1 black 2 black 1 black 1 black 1 black 2
+black 6 black 1 black 1 black 1 black 1 black 2
+black 4 black 2 black 1 black 1 black 2
+black 2 black 1 black 1 black 3 black 2
+black 8 black 1 black 3 black 2
+black 2 black 3 black 8
+black 1 black 3 black 8
+black 3 black 8
+red 5
+red 9
+red 9
+black 2 black 2
+black 2 black 2
+black 1 black 3
+black 5
+red 2 black 1
+red 1
+red 1
+
+columns
+black 2 red 2 red 1
+black 2 black 2 red 2 black 1 red 1
+black 2 blue 1 black 2 black 1 red 3 black 2 black 1
+black 9 red 3 black 5 red 2
+black 1 blue 1 black 7 red 3 black 1
+black 5 black 4 red 3 black 2
+black 2 black 1 red 3 black 3
+black 1 red 2 black 3
+black 3 red 2
+black 3
+0
+0
+black 9
+black 1 black 3
+black 1 black 1 black 5
+black 1 black 5
+black 9
+black 1 black 3
+black 9
+black 9

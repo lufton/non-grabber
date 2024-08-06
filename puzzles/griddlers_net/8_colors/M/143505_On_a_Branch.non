@@ -1,0 +1,62 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/5/14"
+height 19
+id 143505
+link "https://www.griddlers.net/nonogram/-/g/143505"
+medium_time "0:08:50"
+points 1277
+popularity 80.93
+title "On a Branch"
+width 18
+
+color a 98eadc
+color b 9c3021
+color c 8c8694
+color d 000000
+color e bd9231
+color f f9f3f4
+color g 426142
+color h 9c6542
+
+rows
+b 1
+b 2 c 3
+b 3 c 4
+b 1 d 1 b 2 c 1 c 3
+e 2 b 2 f 2 c 1 c 3
+b 1 f 3 c 9
+b 1 f 2 c 8
+f 2 c 8
+f 3 c 5 f 1
+f 8 g 2
+h 3 e 3 f 5 g 4
+h 3 e 2 h 1 e 4 h 3 g 2
+h 4 e 2 h 5 g 2
+h 5 h 2
+g 3 h 2 h 2
+g 4 g 1 h 1 g 3
+g 4 g 4 g 3
+g 2 g 4 g 2
+g 2
+
+columns
+e 1
+b 1 e 1 h 2
+b 1 d 1 b 2 h 2
+b 4 f 1 b 1 h 3 g 2
+b 4 f 5 e 2 h 1 g 4
+c 1 f 6 e 2 h 1 g 4
+c 4 f 2 e 1 h 3 g 3
+c 4 f 2 e 2 h 1
+c 4 f 2 e 2 h 1
+c 4 f 2 e 1 h 2 g 2
+c 4 f 2 e 1 h 3 g 4
+c 4 f 2 h 1 h 2 g 3
+c 3 f 2 h 1 g 2
+c 4 h 3
+c 4 g 1 h 1 h 2 g 2
+c 4 g 2 h 1 g 1 h 1 g 3
+c 3 g 4 g 3
+c 2 g 2

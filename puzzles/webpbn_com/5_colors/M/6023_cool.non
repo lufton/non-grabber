@@ -1,0 +1,63 @@
+by "paul evans (Super Paul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by paul evans"
+date "Jun  5, 2009"
+description "coooooooooooooooooooooooooool"
+difficulty 1.25
+height 20
+id 6023
+link "https://webpbn.com/play.cgi?id=6023"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "cool"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 black 2 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 black 3 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 black 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 black 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 black 8 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 black 1 red 8 black 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 black 1 red 10 black 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 black 1 red 3 black 2 red 2 black 2 red 3 black 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 black 1 red 3 black 2 red 2 black 2 red 3 black 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 black 1 red 12 black 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 black 1 red 12 black 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 black 1 red 4 black 1 red 2 black 1 red 4 black 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 black 1 red 4 black 1 red 2 black 1 red 4 black 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 black 1 red 4 black 2 red 4 black 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 black 1 red 8 black 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 black 1 red 6 black 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 black 6 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1
+
+columns
+green 20
+blue 20
+green 20
+blue 10 black 6 blue 4
+green 9 black 1 red 6 black 1 green 3
+blue 8 black 1 red 8 black 1 blue 2
+green 7 black 1 red 10 black 1 green 1
+blue 7 black 1 red 2 black 2 red 7 black 1
+green 7 black 1 red 2 black 2 red 2 black 2 red 3 black 1
+blue 4 black 4 red 8 black 1 red 2 black 1
+green 3 black 5 red 8 black 1 red 2 black 1
+blue 3 black 2 blue 2 black 1 red 2 black 2 red 2 black 2 red 3 black 1
+green 7 black 1 red 2 black 2 red 7 black 1
+blue 7 black 1 red 10 black 1 blue 1
+green 8 black 1 red 8 black 1 green 2
+blue 9 black 1 red 6 black 1 blue 3
+green 10 black 6 green 4
+blue 20
+green 20
+blue 20

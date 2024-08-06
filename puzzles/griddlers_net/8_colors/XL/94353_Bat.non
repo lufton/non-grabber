@@ -1,0 +1,112 @@
+by "farfalla19"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/23/10"
+height 42
+id 94353
+link "https://www.griddlers.net/nonogram/-/g/94353"
+medium_time "0:40:18"
+points 18391
+popularity 81.78
+title "Bat"
+width 45
+
+color a ffffff
+color b 000000
+color c 824e22
+color d ffff00
+color e 11b011
+color f f1c978
+color g 990000
+color h ff3300
+
+rows
+d 1
+d 2
+d 3
+d 3
+d 4
+d 5
+d 5 e 1
+d 6 e 3
+d 6 e 3 e 3
+d 8 e 7
+d 7 e 1 c 1 e 1 c 2 e 2
+c 12 d 9 e 1 c 2 e 3 e 2
+c 17 d 4 c 3 c 2 e 1 e 3
+c 11 h 1 c 1 h 1 c 1 h 1 c 1 h 1 c 3 e 1 e 2 c 2 e 3 e 3
+d 11 c 4 h 1 c 1 h 1 c 1 h 1 c 1 h 1 c 4 e 2 c 2 e 3 c 2 e 2
+d 12 b 1 h 1 b 3 h 1 b 1 c 3 e 2 e 2
+d 10 b 2 h 1 f 3 h 1 b 2 c 3 e 3
+d 2 b 2 d 2 b 2 f 5 b 2 b 2 c 2 e 5
+b 4 b 2 f 7 b 2 b 4 e 2 c 2 e 1
+b 8 f 9 b 8 e 4 b 2
+b 2 b 8 f 9 b 8 e 2 b 2
+b 5 b 9 f 9 b 9 b 5
+b 17 f 9 b 17
+b 17 f 9 b 17
+b 18 f 7 b 17
+b 15 g 11 b 15
+b 13 g 15 b 13
+b 12 g 7 b 3 g 7 b 12
+b 10 g 6 b 2 g 3 b 2 g 6 b 10
+b 10 g 7 b 1 g 3 b 1 g 7 b 10
+b 10 g 19 b 10
+b 9 g 5 g 3 g 5 b 9
+b 9 g 5 b 2 g 3 b 2 g 5 b 9
+b 8 g 5 b 2 g 3 b 2 g 5 b 8
+b 8 g 17 b 8
+b 7 g 17 b 7
+b 5 g 15 b 5
+b 3 f 3 g 13 f 3 b 3
+b 1 f 2 b 2 f 1 g 7 f 1 b 2 f 2 b 1
+f 2 b 2 f 1 f 1 b 2 f 2
+f 5 f 5
+f 3 f 3
+
+columns
+c 2
+c 2
+c 2 b 5
+c 2 b 8
+c 2 b 10
+c 2 d 1 b 12
+c 2 d 1 b 15
+c 2 d 2 b 15
+c 2 d 3 b 16
+c 3 d 3 b 17
+c 3 d 4 b 17
+c 3 d 4 b 18
+d 1 c 2 d 3 b 19
+d 1 c 2 d 3 b 18 f 3
+d 3 c 2 d 4 b 10 g 6 f 5
+d 3 c 2 d 4 b 9 g 9 f 1 b 2 f 2
+d 5 c 3 d 2 b 7 g 11 f 1 b 2 f 2
+d 8 c 2 d 2 b 7 g 12 f 3
+d 13 c 2 d 1 b 7 g 13
+d 12 c 2 b 3 f 5 b 1 g 6 g 4
+d 11 h 2 b 3 f 7 g 3 b 1 g 2 b 2 g 5
+d 6 c 2 h 2 f 8 g 3 b 2 g 1 b 2 g 5
+h 2 b 1 f 9 g 2 b 1 g 11
+c 2 b 1 f 9 g 2 b 1 g 11
+h 2 b 1 f 9 g 2 b 1 g 11
+c 2 h 2 f 8 g 3 b 2 g 1 b 2 g 5
+h 2 b 3 f 7 g 3 b 1 g 2 b 2 g 5
+c 2 b 3 f 5 b 1 g 6 g 4
+c 3 b 7 g 13
+e 5 c 3 b 7 g 12 f 3
+e 4 c 3 e 1 c 2 b 7 g 11 f 1 b 2 f 2
+e 4 c 1 e 1 c 1 b 9 g 9 f 1 b 2 f 2
+e 1 c 1 e 1 e 1 c 2 b 11 g 6 f 5
+e 2 c 1 e 1 e 1 c 1 e 1 c 1 b 18 f 3
+e 4 e 1 c 1 e 1 c 1 b 18
+e 3 c 1 e 1 c 1 e 1 b 18
+c 1 e 1 c 1 e 1 b 17
+c 1 e 2 e 1 c 1 e 1 b 17
+e 1 c 1 e 1 e 1 c 1 e 2 b 16
+e 3 c 1 e 6 b 15
+c 1 e 3 e 1 b 15
+e 2 e 2 b 12
+e 3 b 10
+e 2 b 9
+e 1 b 5

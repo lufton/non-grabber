@@ -1,0 +1,52 @@
+by "Nelson Peters (Ace9999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Nelson Peters"
+date "Jun 24, 2012"
+description "A blue arrow"
+difficulty 1.25
+height 10
+id 19101
+link "https://webpbn.com/play.cgi?id=19101"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Pointy and deadly"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 blue 3 black 5
+blue 3 black 5 red 1
+blue 3 black 5 red 1
+blue 3 black 5 red 1
+blue 6 black 10 red 1
+blue 6 black 10 red 1
+blue 3 black 5 red 1
+blue 3 black 5 red 1
+blue 3 black 5 red 1
+blue 3 black 5
+
+columns
+blue 2
+blue 4
+blue 6
+red 1 blue 8
+blue 3 blue 2 blue 3
+blue 2 blue 2 blue 2
+blue 1 black 2 blue 1
+black 2
+black 2
+black 2
+black 2
+black 2
+black 4
+black 6
+black 8
+black 10
+black 4 black 4
+black 3 black 3
+black 2 black 2
+black 1 red 8 black 1

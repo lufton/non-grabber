@@ -1,0 +1,82 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Mar 31, 2023"
+description "Want to guess the color of mine?"
+difficulty 2.75
+height 20
+id 36611
+link "https://webpbn.com/play.cgi?id=36611"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Are yours blue?"
+width 39
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 39
+black 39
+black 6 black 5 black 6
+black 4 black 3 black 4
+black 3 black 3
+black 2 black 4 black 4 black 2
+black 1 black 5 black 5 black 1
+black 1 black 2 black 2 black 1
+black 1 black 2 green 7 green 7 black 2 black 1
+black 1 green 1 black 7 green 1 green 1 black 7 green 1 black 1
+black 1 green 2 green 1 black 2 blue 3 black 2 green 1 green 1 black 2 blue 3 black 2 green 1 green 2 black 1
+black 1 green 4 black 2 blue 5 black 2 green 1 green 1 black 2 blue 5 black 2 green 4 black 1
+black 1 green 2 black 1 blue 2 black 1 blue 2 black 1 green 7 black 1 blue 2 black 1 blue 2 black 1 green 2 black 1
+black 1 green 1 black 2 blue 5 black 2 green 1 black 3 green 1 black 2 blue 5 black 2 green 1 black 1
+black 1 green 1 black 2 blue 3 black 2 green 1 black 1 black 1 green 1 black 2 blue 3 black 2 green 1 black 1
+black 1 green 1 black 7 green 1 black 1 black 1 green 1 black 7 green 1 black 1
+black 1 green 7 black 2 black 2 green 7 black 1
+black 1 black 1 black 1 black 1
+black 1 black 5 black 1
+black 1 red 5 red 5 black 1
+
+columns
+black 20
+black 6 green 2
+black 5 green 2
+black 4 black 1 green 2
+black 3 black 2 green 3
+black 3 black 2 green 1 black 3 green 1
+black 2 black 1 green 1 black 2 black 2 green 1
+black 2 black 1 green 1 black 2 black 2 green 1 red 1
+black 2 black 1 green 1 black 1 blue 3 black 1 green 1 red 1
+black 2 black 2 green 1 black 1 blue 5 black 1 green 1 red 1
+black 2 black 1 green 1 black 1 blue 2 black 1 blue 2 black 1 green 1 red 1
+black 2 black 1 green 1 black 1 blue 5 black 1 green 1 red 1
+black 2 black 1 green 1 black 1 blue 3 black 1 green 1
+black 2 green 1 black 2 black 2 green 1
+black 2 green 1 black 2 black 2 green 1
+black 2 green 1 black 3 green 1
+black 2 green 3
+black 3 green 1 black 3
+black 4 green 1 black 4 black 1
+black 4 green 1 black 1 black 1
+black 4 green 1 black 4 black 1
+black 3 green 1 black 3
+black 2 green 3
+black 2 green 1 black 3 green 1
+black 2 green 1 black 2 black 2 green 1
+black 2 green 1 black 2 black 2 green 1
+black 2 black 1 green 1 black 1 blue 3 black 1 green 1
+black 2 black 1 green 1 black 1 blue 5 black 1 green 1 red 1
+black 2 black 1 green 1 black 1 blue 2 black 1 blue 2 black 1 green 1 red 1
+black 2 black 2 green 1 black 1 blue 5 black 1 green 1 red 1
+black 2 black 1 green 1 black 1 blue 3 black 1 green 1 red 1
+black 2 black 1 green 1 black 2 black 2 green 1 red 1
+black 2 black 1 green 1 black 2 black 2 green 1
+black 3 black 2 green 1 black 3 green 1
+black 3 black 2 green 3
+black 4 black 1 green 2
+black 5 green 2
+black 6 green 2
+black 20

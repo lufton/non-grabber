@@ -1,0 +1,91 @@
+by "KD Guidry (KDGraves)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by KD Guidry"
+date "May 25, 2009"
+description "Major League Baseball's Logo"
+difficulty 1.25
+height 30
+id 5936
+link "https://webpbn.com/play.cgi?id=5936"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "MLB Logo #3"
+width 40
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 21 black 15
+blue 22 black 14
+blue 15 blue 3 black 14
+blue 14 blue 3 black 13
+blue 13 blue 3 black 12
+blue 13 blue 3 black 11
+blue 12 blue 4 black 10
+blue 10 blue 5 black 10
+blue 9 blue 5 black 9
+blue 14 blue 6 black 8
+blue 13 blue 8 black 8
+blue 12 blue 3 black 6
+blue 14 blue 2 black 6
+blue 14 black 5
+blue 14 black 5
+blue 13 black 5
+blue 12 black 5
+blue 12 black 4
+blue 2 blue 7 black 3
+blue 1 blue 6 black 3
+blue 1 blue 5 black 2
+blue 2 blue 6 black 1
+blue 9 black 1
+blue 9 black 1
+blue 9 black 1
+blue 9 black 2
+blue 9 black 3
+blue 14 black 8
+blue 15 black 8
+blue 16 black 8
+
+columns
+blue 30
+blue 19 blue 9
+blue 18 blue 8
+blue 18 blue 8
+blue 19 blue 9
+blue 30
+blue 30
+blue 30
+blue 30
+blue 8 blue 13 blue 3
+blue 7 blue 11 blue 3
+blue 7 blue 9 blue 3
+blue 6 blue 2 blue 4 blue 3
+blue 4 blue 1 blue 3 blue 3
+blue 3 blue 2
+blue 2 blue 1
+blue 2
+blue 2
+blue 2
+blue 2
+blue 3
+blue 3
+blue 3 blue 1
+blue 8
+blue 7
+black 1 blue 6
+black 3 blue 5
+black 4 blue 5
+black 5 blue 4
+black 6 blue 3
+black 8
+black 9
+black 11 black 3
+black 11 black 3
+black 13 black 3
+black 17 black 3
+black 18 black 3
+black 20 black 4
+black 21 black 5
+black 30

@@ -1,0 +1,91 @@
+by "csobass"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/23/03"
+height 35
+id 3142
+link "https://www.griddlers.net/nonogram/-/g/3142"
+medium_time "0:40:47"
+points 53718
+popularity 81.08
+title "MineSweeper"
+width 35
+
+color a ffffff
+color f 808080
+color g c0c0c0
+color h 000000
+
+rows
+0
+g 1 f 2
+g 1 g 1 f 1 h 1
+g 1 g 1 f 1 h 1
+g 1 g 1 f 1 h 1
+g 2 g 2 g 1 f 1 g 1 h 1 h 2
+g 1 g 1 g 2 g 1 g 2 f 1 g 1 h 2 h 1 f 1 h 1
+g 3 g 3 g 1 g 1 g 2 f 1 g 1 f 1 h 2 f 2 h 2
+f 2 g 2 g 1 g 1 g 4 f 1 g 1 f 2 h 1 f 1 h 3
+f 2 g 2 g 1 g 1 g 4 f 1 g 1 f 3 h 4
+f 1 g 1 g 1 g 6 f 1 g 1 f 1 g 1 f 1 h 1 f 1 h 2
+f 1 g 1 g 6 f 1 g 1 f 1 g 1 f 3 h 1 f 1 h 1
+f 1 g 1 g 1 g 6 f 1 g 1 f 1 g 1 f 1 g 1 f 1 h 1 f 1 h 3
+f 1 g 1 g 4 f 3 g 1 f 1 g 1 f 1 g 1 f 3 h 1 f 1 h 2
+f 1 g 1 g 4 f 2 f 1 h 1 f 1 g 1 f 3 h 1 f 1 h 4
+f 3 g 1 f 1 g 1 f 1 g 1 f 2 g 2 f 1 h 2 f 3 h 1 f 1 h 1 f 1 h 6
+f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 2 f 1 h 3 f 1 h 1 f 1 h 1 f 1 h 8
+f 1 g 3 f 1 g 1 f 1 g 1 f 1 g 1 f 1 h 1 f 4 h 4 f 1 h 1 f 1 h 5 f 3 h 1
+h 1 f 3 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 h 9 f 1 h 10
+h 3 f 9 h 7 f 1 h 10
+h 2 f 7 h 1 f 1 h 5 f 1 h 8
+h 3 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 8
+h 3 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 9
+h 4 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 9
+h 4 f 1 h 16
+h 1 f 1 h 21
+h 1 f 1 g 1 f 1 h 21
+h 1 g 1 f 1 h 18 f 1 h 3
+h 4 h 12 h 2 f 1 h 1
+h 2 h 8 h 2
+h 2 f 1 h 2
+h 1 f 2 h 2
+h 3
+0
+0
+
+columns
+0
+f 2 h 1
+f 1 g 1 f 1 h 1
+f 1 g 1 f 1 h 1
+g 1 f 1 f 1 g 1 f 1 h 3 h 2
+g 2 f 2 f 3 g 2 f 1 g 1 f 1 h 4 h 1 f 1 g 1 h 1
+g 1 g 2 f 3 g 1 g 1 f 1 g 1 f 3 h 4 f 1 g 1 f 1 h 2
+g 1 g 3 g 1 f 1 g 1 f 1 g 1 f 3 h 4 f 1 h 3
+g 1 g 1 g 1 g 2 f 1 g 1 f 3 h 1 f 1 h 6
+g 1 g 1 g 2 f 1 g 1 f 1 g 1 f 3 h 1 f 1 h 4
+g 1 g 1 g 4 f 1 g 1 f 3 h 1 f 1 h 1 f 1 h 4
+g 2 g 1 g 4 f 1 g 1 f 1 g 1 f 3 h 1 f 1 h 5
+g 1 g 1 g 4 f 3 h 1 f 3 h 1 f 1 h 7
+g 1 g 1 g 4 f 2 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 6
+g 5 g 1 g 3 f 1 g 2 f 1 h 2 f 1 h 1 f 1 h 7
+g 1 g 1 g 4 f 1 g 2 f 1 h 3 f 1 h 1 f 1 h 8
+f 1 g 5 g 4 f 1 g 1 f 4 h 4 f 1 h 8 f 1 h 1
+f 5 g 5 f 1 g 1 f 1 h 7 f 1 h 1 f 1 h 6 f 2 h 1
+h 3 g 1 f 1 g 3 f 1 g 1 f 1 g 1 f 1 h 7 f 1 h 10
+h 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 h 5 f 1 h 10
+h 1 g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 3 h 3 f 1 h 8
+h 1 f 1 g 1 f 1 g 1 f 1 g 1 f 3 h 1 f 1 h 1 f 1 h 9
+h 1 f 7 h 1 f 1 h 1 f 1 h 9
+h 1 f 2 h 1 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 10
+h 1 h 2 f 1 h 1 f 1 h 1 f 1 h 1 f 1 h 12
+h 1 f 2 h 2 f 1 h 1 f 1 h 1 f 1 h 11 f 1 h 2
+h 1 f 2 h 20 f 1 h 1
+h 4 h 11 h 4
+h 2 h 7 h 2
+h 2 f 1 h 2
+h 2 f 1 h 2
+h 2 f 1 h 2
+h 3
+0
+0

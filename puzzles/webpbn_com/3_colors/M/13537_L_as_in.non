@@ -1,0 +1,56 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Apr 21, 2011"
+description "little ladder"
+difficulty 1.25
+height 20
+id 13537
+link "https://webpbn.com/play.cgi?id=13537"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "L as in"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 15
+red 1 black 13 red 1
+red 1 black 13 red 1
+red 1 black 1 black 2 black 6 red 1
+red 1 black 2 black 1 black 1 black 6 red 1
+red 1 black 3 black 6 red 1
+red 1 black 4 black 8 red 1
+red 1 black 4 black 8 red 1
+red 1 black 4 black 8 red 1
+red 1 black 4 black 8 red 1
+red 1 black 4 black 8 red 1
+red 1 black 4 black 8 red 1
+red 1 black 4 black 2 red 1 black 1 red 1 black 3 red 1
+red 1 black 4 red 3 black 2 red 1
+red 1 black 7 red 1 black 1 red 1 black 3 red 1
+red 1 black 7 red 3 black 3 red 1
+red 1 black 7 red 1 black 1 red 1 black 3 red 1
+red 1 black 7 red 3 black 3 red 1
+red 1 black 7 red 1 black 1 red 1 black 3 red 1
+red 15
+
+columns
+red 20
+red 1 black 18 red 1
+red 1 black 2 black 15 red 1
+red 1 black 3 black 14 red 1
+red 1 black 4 black 13 red 1
+red 1 black 2 black 5 red 1
+red 1 black 2 black 1 black 7 black 5 red 1
+red 1 black 2 black 7 black 5 red 1
+red 1 black 11 red 8
+red 1 black 12 red 1 black 1 red 1 black 1 red 1 black 1 red 1
+red 1 black 11 red 8
+red 1 black 12 black 5 red 1
+red 1 black 18 red 1
+red 1 black 18 red 1
+red 20

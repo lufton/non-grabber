@@ -1,0 +1,41 @@
+by "Maggie Johns (Magginni)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Maggie Johns"
+date "May 21, 2011"
+description "it looks squashed doesn't it?"
+difficulty 1.25
+height 10
+id 14057
+link "https://webpbn.com/play.cgi?id=14057"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "a tree in the countryside"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 5
+green 5
+green 1 black 3 green 1
+green 1 black 7 green 1
+green 1 black 7 green 1
+green 1 black 3 green 1
+black 3
+black 3
+green 3 black 3 green 4
+black 10
+
+columns
+green 4 green 1 black 1
+black 2 green 1 black 1
+green 2 black 2 green 1 black 1
+green 2 black 8
+green 2 black 8
+green 2 black 8
+green 2 black 2 green 1 black 1
+black 2 green 1 black 1
+green 4 green 1 black 1
+green 1 black 1

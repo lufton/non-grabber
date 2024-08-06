@@ -1,0 +1,47 @@
+by "JoDeen Mozena (ozymoe)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by JoDeen Mozena"
+date "Mar 17, 2023"
+description "Finally...a puzzle I can actually create...so this is my first. I really wish I could be creative here, because in real life, I am...but I've wanted to make a puzzle for so long...I'll take it!!!!"
+difficulty 1.25
+height 10
+id 36549
+link "https://webpbn.com/play.cgi?id=36549"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "My Morse..."C" Me?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+0
+0
+black 1 black 3 black 3 black 3
+black 3 black 3 black 3
+0
+black 3 green 1 green 1
+black 1
+black 1
+black 3 red 1
+0
+
+columns
+0
+black 2 black 4
+black 1 black 1 black 1
+black 2 black 1 black 1
+black 1
+black 2 green 1 red 1
+black 1
+black 2 green 1
+black 1
+black 2
+black 1
+black 2
+black 1
+black 1
+0

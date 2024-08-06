@@ -1,0 +1,43 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/15/12"
+height 13
+id 125089
+link "https://www.griddlers.net/nonogram/-/g/125089"
+medium_time "0:03:41"
+points 590
+popularity 75.64
+title "Cherries"
+width 9
+
+color a 000000
+color b 339900
+color c ffffff
+color e cc0000
+
+rows
+b 4
+b 3 b 3
+b 3 b 1
+b 2 b 1
+b 1 e 2
+b 1 e 2 c 1 e 1
+b 1 e 4
+e 2 b 1 e 2
+e 2 c 1 e 1 b 1
+e 4 e 2
+e 2 e 2 c 1 e 1
+e 4
+e 2
+
+columns
+b 2
+b 3 e 2
+b 2 e 4
+b 1 b 1 e 1 c 1 e 2
+b 1 b 4 e 2
+b 1 e 2 b 1 e 2
+b 2 e 4 b 1 e 4
+b 2 e 1 c 1 e 2 e 1 c 1 e 2
+b 1 e 2 e 2

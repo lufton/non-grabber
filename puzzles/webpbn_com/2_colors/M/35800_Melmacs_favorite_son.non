@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Brian Bellis"
+date "Jul  6, 2022"
+description "ALF"
+difficulty 2.25
+height 20
+id 35800
+link "https://webpbn.com/play.cgi?id=35800"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Melmac's favorite son"
+width 20
+
+rows
+0
+6
+2,8
+1,1,11
+1,1,4
+1,1,2,2,2
+1,1,2,2,1,1
+1,1,1,1
+1,1,4,1,1
+2,1,3
+1,1,1
+1,4,1,1,1
+2,2,1,1,1
+1,1,2,1,1,1
+1,1,7
+1,6,6
+1,1,1,1,1,1
+1,1,1,1
+1,1,5
+5,5
+
+columns
+6
+1,1
+2,3,1
+1,1,6
+1,2,1,1,2
+2,2,1,1,1,2
+3,1,1,2,1
+3,2,1,1,1,1
+3,2,1,1,2,1
+3,1,1,1,2
+4,12
+5,1
+7,1
+2,2
+1,2,1
+9
+2,2
+6,2
+2,2
+7

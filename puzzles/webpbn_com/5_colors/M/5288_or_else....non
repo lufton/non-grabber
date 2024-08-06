@@ -1,0 +1,63 @@
+by "mishele (michalaizi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by mishele"
+date "Mar  8, 2009"
+description ""
+difficulty 1.5
+height 20
+id 5288
+link "https://webpbn.com/play.cgi?id=5288"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "or else..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 4 green 5
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+green 4 green 5
+blue 11
+black 5 black 5
+black 1 black 1 black 1 black 1
+black 1 black 1 black 5
+black 1 black 1 black 1 black 1
+black 5 black 1 black 1
+blue 11
+red 4 red 3 red 5
+red 1 red 1 red 1 red 1
+red 1 red 1 red 1 red 5
+red 1 red 1 red 1 red 1
+red 4 red 3 red 5
+0
+red 15
+red 15
+
+columns
+green 5 blue 1
+green 1 green 1 blue 1
+green 1 green 1 blue 1
+green 1 green 1 blue 1
+green 3 blue 1
+blue 1 red 5 red 2
+green 5 blue 1 black 5 blue 1 red 1 red 1 red 2
+green 1 green 1 blue 1 black 1 black 1 blue 1 red 1 red 1 red 2
+green 1 green 1 blue 1 black 1 black 1 blue 1 red 1 red 1 red 2
+green 1 green 1 blue 1 black 1 black 1 blue 1 red 3 red 2
+green 5 blue 1 black 5 blue 1 red 2
+blue 1 red 1 red 1 red 2
+black 5 blue 1 red 5 red 2
+black 1 black 1 blue 1 red 1 red 1 red 2
+black 1 black 1 blue 1 red 2
+black 1 black 2 blue 1 red 5 red 2
+black 3 black 1 blue 1 red 1 red 1 red 1 red 2
+red 1 red 1 red 1 red 2
+red 1 red 1 red 1 red 2
+red 1 red 1 red 1 red 2

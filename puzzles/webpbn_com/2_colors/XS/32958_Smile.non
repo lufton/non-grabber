@@ -1,0 +1,33 @@
+by "Lucas Davenport (lucas.davenport)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Lucas Davenport"
+date "Sep 29, 2019"
+description "A happy face"
+difficulty 1.25
+height 8
+id 32958
+link "https://webpbn.com/play.cgi?id=32958"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Smile!"
+width 8
+
+rows
+4
+1,1
+1,1,1,1
+1,1
+1,1,1,1
+1,4,1
+1,1
+4
+
+columns
+4
+1,1
+1,1,2,1
+1,1,1
+1,1,1
+1,1,2,1
+1,1
+4

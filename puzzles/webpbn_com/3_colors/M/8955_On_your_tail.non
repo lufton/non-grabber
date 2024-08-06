@@ -1,0 +1,61 @@
+by "Gjertrud F (Mitikipve)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gjertrud F"
+date "May 25, 2010"
+description "A dog. I was toying around with the pixels and the shape of the head came"
+difficulty 1.75
+height 20
+id 8955
+link "https://webpbn.com/play.cgi?id=8955"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "On your tail"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+black 1 black 1
+black 1 red 1 black 1 black 1 red 1 black 1
+black 1 red 3 black 2 red 3 black 1
+black 2 red 8 black 2
+black 1 red 3 black 1 red 4 black 1 red 3 black 1
+black 1 red 4 black 1 red 1 black 2 red 1 black 1 red 4 black 1
+black 1 red 1 black 1 red 8 black 1 red 1 black 1
+black 1 black 1 red 6 black 1 black 1
+black 1 red 1 black 2 red 1 black 1
+black 1 red 2 black 1
+black 1 red 4 black 1
+black 1 red 6 black 1
+black 3 black 1 red 6 black 1
+black 1 red 1 black 1 black 1 red 8 black 1
+black 1 red 2 black 2 red 8 black 1
+black 1 red 2 black 1 red 8 black 1
+black 1 red 1 black 1 red 2 black 1 red 2 black 1 red 2 black 1
+black 2 red 2 black 1 red 2 black 1 red 2 black 1
+
+columns
+0
+black 3
+black 1 black 1 red 2 black 1
+black 1 red 1 black 1 black 2 red 2 black 1
+black 1 red 3 black 1 black 1 red 2 black 1
+black 2 red 2 black 1 black 5
+black 1 red 5 black 1 black 2 red 5
+black 1 red 3 black 2 red 2 black 1 black 1 red 7
+black 1 red 7 black 1 red 6 black 2
+black 1 red 2 black 1 red 2 black 1 red 9
+black 1 red 2 black 1 red 2 black 1 red 9
+black 1 red 7 black 1 red 6 black 2
+black 1 red 3 black 2 red 2 black 1 black 1 red 7
+black 1 red 5 black 1 black 2 red 5
+black 2 red 2 black 1 black 5
+black 1 red 3 black 1
+black 1 red 1 black 1
+black 1
+0
+0

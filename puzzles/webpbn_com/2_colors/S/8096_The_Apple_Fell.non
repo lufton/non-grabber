@@ -1,0 +1,47 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Joe"
+date "Mar 18, 2010"
+description "And made the puzzle solvable."
+difficulty 1.75
+height 15
+id 8096
+link "https://webpbn.com/play.cgi?id=8096"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "The Apple Fell"
+width 15
+
+rows
+2
+5
+4,3
+4,5
+2,8,1
+15
+9,5
+3,3,5
+2,1,3
+1,1
+1,1
+1,1
+1,1
+2,2
+5,1,6
+
+columns
+2,1
+4,1
+4,1
+2,4,1
+6,1,1
+7,1
+14
+2,4,1
+6,4
+4,1,1,2
+7,1
+6,1
+1,4,1
+4,1
+2,1

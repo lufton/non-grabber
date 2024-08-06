@@ -1,0 +1,62 @@
+by "Alison Deem (Indigo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alison Deem"
+date "Jan 10, 2010"
+description ""
+difficulty 2.25
+height 20
+id 7586
+link "https://webpbn.com/play.cgi?id=7586"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Patriotic Pooch"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 10 red 10
+blue 6 black 4 red 10
+blue 5 black 1 black 1
+blue 4 black 1 black 1 black 3 red 6
+blue 3 black 1 black 3 black 1 black 1 red 5
+blue 3 black 1 black 3 black 2
+blue 3 black 1 black 3 black 2 black 2 red 3
+blue 3 black 1 black 3 black 2 black 1 red 5
+black 1 black 1 black 2
+red 5 black 1 black 2 red 7
+red 6 black 5 red 9
+black 1 black 1
+red 5 black 1 black 1 red 8
+red 4 black 1 black 2 black 1 red 7
+black 1 black 1 black 2 black 1 black 1
+red 1 black 1 red 2 black 1 black 1 black 1 black 1 black 1 red 3 black 1 red 2
+red 2 black 1 red 1 black 1 black 1 black 1 black 1 red 2 black 1 black 1 red 1
+black 2 black 3 black 4 black 1
+red 5 black 1 black 1 black 1 red 1
+red 6 black 13 red 1
+
+columns
+blue 8 red 2 red 2 red 2 red 2
+blue 8 red 2 red 2 black 2 red 1 red 2
+blue 8 red 2 red 2 red 1 black 1 red 2
+blue 4 black 4 red 2 red 2 red 2 black 1 red 2
+blue 3 black 1 black 1 red 2 red 1 black 5 red 2
+blue 2 black 1 black 4 black 1 red 1 black 1 black 1 red 1
+blue 1 black 1 black 6 black 2 black 1
+blue 1 black 1 black 4 black 1 black 4 black 1
+blue 1 black 1 black 1 black 2 black 1 black 1
+blue 1 black 1 black 1 black 1 black 1 black 1
+red 2 black 1 black 1 black 1 black 2 black 1 black 1 black 1
+red 2 black 1 black 2 black 1 red 1 black 1 black 2 black 1
+red 2 black 1 black 3 red 1 red 1 black 1 black 2
+red 2 black 1 black 1 red 2 red 2 black 4 black 1
+red 2 red 1 black 1 black 1 red 2 red 2 red 2 black 1 black 1
+red 2 red 2 black 2 red 1 red 2 red 2 red 2 black 1 black 1
+red 2 red 2 black 2 red 1 red 2 red 2 red 1 black 2 black 1
+red 2 red 2 red 2 red 2 red 2 black 1 black 1
+red 2 red 2 red 2 red 2 red 2 red 1 black 4
+red 2 red 2 red 2 red 2 red 2 red 2 red 2

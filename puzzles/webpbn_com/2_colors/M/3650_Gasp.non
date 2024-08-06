@@ -1,0 +1,57 @@
+by "Ryan Wagner (wagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Ryan Wagner"
+date "Sep 25, 2008"
+description "A smiley I made"
+difficulty 1.0
+height 20
+id 3650
+link "https://webpbn.com/play.cgi?id=3650"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Gasp"
+width 20
+
+rows
+20
+1,1
+1,1
+1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1,1,1
+1,1
+1,10,1
+1,10,1
+1,10,1
+1,10,1
+1,10,1
+1,1
+1,1
+1,1
+20
+
+columns
+20
+1,1
+1,1
+1,1
+1,1
+1,5,1
+1,5,1
+1,5,1
+1,6,5,1
+1,5,1
+1,5,1
+1,6,5,1
+1,5,1
+1,5,1
+1,5,1
+1,1
+1,1
+1,1
+1,1
+20

@@ -1,0 +1,67 @@
+by "mgoldhirsh"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/13/05"
+height 30
+id 27880
+link "https://www.griddlers.net/nonogram/-/g/27880"
+medium_time "0:07:16"
+points 4755
+popularity 72.5
+title "Twiddle Bug"
+width 15
+
+color a fffe9c
+color b ff6600
+color c ff9900
+color d 000000
+color f fffefe
+
+rows
+b 2 b 2
+d 1 d 2
+d 2 d 2
+d 2 d 1
+d 2 d 2
+d 1 d 2
+d 2 d 1
+d 1 d 5
+d 7 f 3 d 2
+d 1 f 4 d 2 f 5 d 1
+d 1 f 6 d 1 f 6 d 1
+d 1 f 3 d 2 f 1 d 1 f 1 d 2 f 3 d 1
+d 1 f 3 d 2 f 1 d 1 f 1 d 2 f 2 d 1
+d 1 f 4 d 1 c 1 d 1 f 3 d 1
+d 4 c 3 d 3
+d 1 c 9 d 1
+d 1 c 11 d 1
+d 1 c 12 d 1
+c 14
+d 1 c 14
+c 15
+b 1 c 14
+b 1 c 1 d 1 b 1 c 9 d 1 c 1
+b 1 c 1 d 2 b 3 c 5 d 2 c 1
+b 1 c 3 d 8 c 3
+d 1 b 1 c 13
+d 1 b 2 c 11 d 1
+d 1 b 2 c 9 d 2
+d 1 b 6 c 2 d 3
+d 9
+
+columns
+b 1 d 3 d 1 c 1 b 4 d 2
+b 1 d 1 f 3 d 1 d 2 c 7 b 2 d 1
+d 2 d 1 f 5 d 2 c 6 d 2 c 2 b 2 d 1
+d 2 d 1 f 5 d 1 c 7 b 1 d 1 c 3 b 2 d 1
+d 2 d 1 f 2 d 2 f 1 d 1 c 8 b 1 d 1 c 3 b 1 d 1
+d 3 d 1 f 2 d 2 f 1 d 1 c 8 b 1 d 1 c 3 b 1 d 1
+d 4 f 3 d 1 c 9 b 1 d 1 c 3 b 1 d 1
+d 5 c 11 d 1 c 3 b 1 d 1
+d 4 f 4 d 1 c 10 d 1 c 3 b 1 d 1
+d 2 d 1 f 3 d 2 f 1 d 1 c 9 d 1 c 4 d 1
+d 3 d 1 f 3 d 2 f 1 d 1 c 9 d 1 c 4 d 1
+d 2 d 1 f 6 d 1 c 9 d 1 c 3 d 2
+d 1 d 2 f 4 d 1 d 1 c 7 d 1 c 4 d 1
+b 1 d 2 f 2 d 1 d 1 c 5 d 2 c 3 d 2
+b 1 d 2 d 1 c 8 d 2

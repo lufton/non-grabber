@@ -1,0 +1,81 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Aug 31, 2013"
+description "of Gru's(from Despicable Me) white should be yellow, and it's fairly simple image that I made a lil bit ago. I wasn't gonna publish, but what the "h-e-double hockey sticks"? enjoy!"
+difficulty 2.25
+height 35
+id 22654
+link "https://webpbn.com/play.cgi?id=22654"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "one of many minions..."
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 9
+black 3 black 2
+black 2 black 2
+black 2 black 2
+black 1 black 1
+black 1 black 6 black 1
+black 1 black 5 black 4 black 1
+black 7 black 1 black 6
+black 3 black 1 black 3 black 1 black 3
+black 1 black 2 black 1 black 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 5 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 5 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2
+black 5 black 1 blue 1 black 3
+black 1 blue 4 black 2 black 2 blue 3 black 2
+black 2 blue 4 black 3 black 3 blue 2 black 4
+black 2 blue 5 black 9 blue 3 black 2 black 1
+black 2 blue 16 black 1
+black 1 blue 8 blue 5 black 1 black 1
+black 1 blue 15 black 1 black 1
+black 1 blue 5 blue 9 black 1 black 1
+black 1 black 1 blue 5 blue 2 black 3 blue 4 black 1 black 2
+black 1 black 1 blue 5 blue 1 black 1 blue 3 black 1 blue 1 blue 1 black 2 blue 1 black 1
+black 4 blue 5 blue 1 black 1 blue 1 black 1 blue 1 black 1 blue 1 blue 4 black 1
+black 1 blue 8 blue 1 black 1 blue 3 black 1 blue 1 blue 4 black 1
+black 1 blue 11 black 3 blue 7 black 1
+black 1 blue 5 blue 15 black 1
+black 1 blue 2 blue 13 blue 2 black 1
+
+columns
+black 2
+black 1 blue 1 black 2 black 6
+black 1 blue 2 black 2 black 1 blue 3 black 1
+black 16 blue 3 black 1 black 1 blue 4
+black 2 black 2 black 1 blue 4 black 6 blue 4
+black 2 black 2 black 2 blue 12
+black 2 black 2 black 2 blue 11
+black 1 black 2 black 1 blue 10 blue 1
+black 2 black 4 black 2 blue 11
+black 1 black 3 black 2 black 1 blue 11
+black 1 black 2 black 2 black 2 black 1 blue 3 blue 3
+black 1 black 1 black 1 black 1 black 2 black 1 blue 11
+black 1 black 1 black 3 black 1 black 1 black 1 blue 5 black 3 blue 3
+black 1 black 1 black 1 black 1 black 1 black 1 blue 1 blue 2 black 1 blue 3 black 1 blue 2
+black 1 black 2 black 2 black 1 black 1 blue 1 blue 2 black 1 blue 1 black 1 blue 1 black 1 blue 2
+black 1 black 5 black 2 black 1 blue 4 black 1 blue 3 black 1 blue 2
+black 2 black 2 black 2 black 2 blue 5 black 3 blue 3
+black 2 black 2 black 1 blue 12
+black 2 black 2 black 2 blue 6 blue 3
+black 2 black 2 black 2 blue 13
+black 15 blue 3 black 7 blue 4
+black 2 blue 1 black 2 black 1 blue 5
+black 1 blue 1 black 1 black 1 blue 6
+black 3 black 10
+black 3

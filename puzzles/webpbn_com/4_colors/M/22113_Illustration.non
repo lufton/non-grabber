@@ -1,0 +1,72 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Joe"
+date "Jun  8, 2013"
+description "What word or phrase is illustrated by this?"
+difficulty 2.25
+height 20
+id 22113
+link "https://webpbn.com/play.cgi?id=22113"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Illustration"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 1 red 1 blue 5
+red 1 red 1 blue 8
+red 1 red 5 red 1 red 1 blue 10
+red 1 red 3 red 3 red 2 blue 11
+red 3 red 4 blue 5 blue 5
+red 2 red 2 blue 4 blue 4
+red 1 red 2 blue 4 blue 4
+red 1 red 3 blue 4
+red 1 red 3 blue 4
+red 1 red 4 blue 4
+red 1 red 4 black 1 blue 4
+red 1 red 6 black 3 blue 4
+red 1 red 7 black 5 blue 4
+red 1 red 11 black 1 black 1 black 1 blue 4 blue 4
+red 11 black 1 blue 4 blue 4
+red 9 black 1 blue 5 blue 5
+red 5 black 2 blue 11
+red 4 red 5 black 2 blue 10
+red 2 red 7 black 2 blue 8
+red 12 black 2 blue 5
+
+columns
+red 2 red 3 red 5 red 1
+red 1 red 3 red 2 red 2
+red 2 red 1 red 1
+red 1 red 3 red 1
+red 1 red 3 red 1 red 1
+red 1 red 4 red 1
+red 1 red 4 red 1
+red 1 red 5 red 1
+red 1 red 5 red 1
+red 1 red 6 red 2
+red 1 red 5 red 3
+red 1 red 7 red 3
+red 2 red 9 red 3
+red 1 red 10 red 3
+red 2 red 3 red 5 black 2 red 3
+red 3 black 2 red 2
+black 7
+black 2 black 2
+black 2 black 2
+blue 14 black 2
+blue 16 black 1
+blue 18
+blue 20
+blue 5 blue 5
+blue 4 blue 4
+blue 5 blue 5
+blue 7 blue 7
+blue 6 blue 6
+blue 6 blue 6
+blue 5 blue 5

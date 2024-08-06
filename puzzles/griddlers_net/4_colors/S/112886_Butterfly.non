@@ -1,0 +1,43 @@
+by "Lenchik"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/13/11"
+height 11
+id 112886
+link "https://www.griddlers.net/nonogram/-/g/112886"
+medium_time "0:02:37"
+points 265
+popularity 66.49
+title "Butterfly"
+width 11
+
+color a ffffff
+color b 996600
+color c ffcc00
+color d ff0000
+
+rows
+d 1
+d 3
+c 4
+c 2 d 2 c 1
+c 2 d 2 c 1 b 1
+d 1 c 3 b 1 c 3
+d 3 c 1 b 1 c 1 d 2 c 1 d 1
+d 3 b 1 c 2 d 2 c 1 d 2
+b 1 d 2 c 4 d 1
+d 3 c 2
+d 2
+
+columns
+d 2
+c 2 d 3
+d 1 c 4 d 2 b 1
+d 2 c 1 d 2 c 2 b 1 d 3
+d 1 c 1 d 2 c 1 b 1 c 1 d 3
+c 3 b 1 c 3 d 1
+b 1 c 1 d 2 c 2
+c 1 d 2 c 2
+c 4
+d 3
+d 1

@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 23, 2011"
+description "Dee is trying to hide behind the computer monitor. He's too big to hide in the places he chooses. Dee, you're twice the size of Minnie. Why is it that you can go outside and run off a larger tomcat than you but when you're around little sweet fluffy Minnie, you run and hide?"
+difficulty 1.25
+height 15
+id 12975
+link "https://webpbn.com/play.cgi?id=12975"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Dee # 2 Not a good place to hide"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+blue 8 black 1
+blue 1 blue 1 black 1
+blue 1 blue 1 black 1
+blue 1 blue 1 black 2
+blue 8
+blue 6
+blue 6
+black 13
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+
+columns
+0
+black 6
+black 1
+blue 5 black 1
+black 1 blue 1 blue 3 black 1
+blue 1 blue 3 black 1
+black 1 blue 1 blue 3 black 1
+blue 1 blue 3 black 1
+blue 1 blue 3 black 1
+blue 1 blue 3 black 1
+blue 5 black 1
+black 1 black 1
+black 4 black 1
+black 6
+0

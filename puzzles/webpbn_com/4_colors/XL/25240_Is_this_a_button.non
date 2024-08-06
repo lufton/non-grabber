@@ -1,0 +1,92 @@
+by "Scarlet Noelle Masen (ScarletPrincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Scarlet Noelle Masen"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.75
+height 35
+id 25240
+link "https://webpbn.com/play.cgi?id=25240"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Is this a button?"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 35
+black 35
+black 12 black 12
+black 10 blue 3 green 5 blue 3 black 10
+black 9 blue 1 green 11 blue 1 black 9
+black 7 blue 1 green 13 blue 1 black 7
+black 6 blue 2 green 15 blue 2 black 6
+black 5 blue 1 green 7 blue 5 green 7 blue 1 black 5
+black 5 blue 1 black 1 green 5 blue 1 black 3 green 1 black 3 blue 1 green 5 black 1 blue 1 black 5
+black 4 blue 1 green 1 black 1 green 2 blue 1 black 4 blue 1 green 1 blue 1 black 4 blue 1 green 2 black 1 green 1 blue 1 black 4
+black 3 blue 1 green 3 black 1 blue 1 black 5 green 3 black 5 blue 1 black 1 green 3 blue 1 black 3
+black 3 blue 1 green 4 blue 1 black 5 blue 1 green 3 blue 1 black 5 blue 1 green 4 blue 1 black 3
+black 2 blue 1 green 4 blue 1 black 5 blue 1 green 5 blue 1 black 5 blue 1 green 4 blue 1 black 2
+black 2 blue 1 green 4 blue 1 black 5 blue 1 green 5 blue 1 black 5 blue 1 green 4 blue 1 black 2
+black 2 blue 1 green 3 blue 8 green 5 blue 8 green 3 blue 1 black 2
+black 2 green 4 blue 1 green 19 blue 1 green 4 black 2
+black 2 green 3 blue 1 black 1 blue 1 green 8 black 1 green 8 blue 1 black 1 blue 1 green 3 black 2
+black 2 green 3 blue 1 black 2 blue 1 green 7 blue 1 green 7 blue 1 black 2 blue 1 green 3 black 2
+black 2 green 3 blue 1 black 3 blue 1 green 6 blue 1 green 6 blue 1 black 3 blue 1 green 3 black 2
+black 2 green 3 blue 1 black 4 blue 1 green 5 blue 1 green 5 blue 1 black 4 blue 1 green 3 black 2
+black 2 blue 1 green 2 blue 1 black 5 blue 1 green 3 black 3 green 3 blue 1 black 5 blue 1 green 2 blue 1 black 2
+black 2 blue 1 green 3 blue 1 black 4 blue 1 green 9 blue 1 black 4 blue 1 green 3 blue 1 black 2
+black 2 blue 1 green 3 blue 1 black 3 blue 1 green 5 blue 1 green 5 blue 1 black 3 blue 1 green 3 blue 1 black 2
+black 3 blue 1 green 3 blue 1 black 2 blue 1 green 4 blue 1 black 1 blue 1 green 4 blue 1 black 2 blue 1 green 3 blue 1 black 3
+black 3 blue 1 green 2 blue 1 black 1 blue 1 green 4 blue 1 black 3 blue 1 green 4 blue 1 black 1 blue 1 green 2 blue 1 black 3
+black 4 blue 1 green 2 blue 2 green 2 blue 2 black 5 blue 2 green 2 blue 2 green 2 blue 1 black 4
+black 5 blue 1 green 2 black 1 green 1 blue 2 black 9 blue 2 green 1 black 1 green 2 blue 1 black 5
+black 5 blue 1 black 1 green 1 blue 1 black 13 blue 1 green 1 black 1 blue 1 black 5
+black 6 blue 2 green 2 blue 2 black 7 blue 2 green 2 blue 2 black 6
+black 7 blue 1 green 13 blue 1 black 7
+black 9 blue 1 green 11 blue 1 black 9
+black 10 blue 3 green 5 blue 3 black 10
+black 12 black 12
+black 35
+black 35
+
+columns
+black 35
+black 35
+black 12 black 12
+black 10 blue 3 green 5 blue 3 black 10
+black 9 blue 1 green 11 blue 1 black 9
+black 7 blue 1 green 13 blue 1 black 7
+black 6 blue 2 green 6 blue 5 green 4 blue 2 black 6
+black 5 blue 1 black 1 green 5 blue 2 black 5 blue 2 green 4 blue 1 black 5
+black 5 blue 1 green 2 black 1 green 2 blue 3 green 1 blue 1 black 6 blue 2 green 2 black 1 blue 1 black 5
+black 4 blue 1 green 3 black 1 blue 1 black 2 blue 1 green 2 blue 1 black 7 blue 1 black 1 green 1 blue 1 black 4
+black 3 blue 1 green 4 blue 1 black 3 blue 1 green 3 blue 1 black 5 blue 2 green 1 blue 1 green 1 blue 1 black 3
+black 3 blue 1 green 4 blue 1 black 4 blue 1 green 4 blue 1 black 2 blue 2 green 2 blue 1 black 1 green 2 blue 1 black 3
+black 2 blue 1 green 5 black 5 blue 1 green 5 blue 2 green 4 blue 1 black 1 blue 1 green 2 blue 1 black 2
+black 2 blue 1 green 4 blue 1 black 5 blue 1 green 10 blue 1 black 2 blue 1 green 2 blue 1 black 2
+black 2 blue 1 green 4 black 4 blue 3 green 10 blue 1 black 3 green 2 blue 1 black 2
+black 2 green 4 blue 1 black 3 blue 1 green 12 blue 1 black 4 green 3 black 2
+black 2 green 4 blue 1 black 1 blue 1 green 10 black 1 green 2 blue 1 black 5 green 3 black 2
+black 2 green 4 blue 1 green 8 black 1 blue 3 black 1 green 1 blue 1 black 6 green 3 black 2
+black 2 green 4 blue 1 black 1 blue 1 green 10 black 1 green 2 blue 1 black 5 green 3 black 2
+black 2 green 4 blue 1 black 3 blue 1 green 12 blue 1 black 4 green 3 black 2
+black 2 blue 1 green 4 black 4 blue 3 green 10 blue 1 black 3 green 2 blue 1 black 2
+black 2 blue 1 green 4 blue 1 black 5 blue 1 green 10 blue 1 black 2 blue 1 green 2 blue 1 black 2
+black 2 blue 1 green 5 black 5 blue 1 green 5 blue 2 green 4 blue 1 black 1 blue 1 green 2 blue 1 black 2
+black 3 blue 1 green 4 blue 1 black 4 blue 1 green 4 blue 1 black 2 blue 2 green 2 blue 1 black 1 green 2 blue 1 black 3
+black 3 blue 1 green 4 blue 1 black 3 blue 1 green 3 blue 1 black 5 blue 2 green 1 blue 1 green 1 blue 1 black 3
+black 4 blue 1 green 3 black 1 blue 1 black 2 blue 1 green 2 blue 1 black 7 blue 1 black 1 green 1 blue 1 black 4
+black 5 blue 1 green 2 black 1 green 2 blue 3 green 1 blue 1 black 6 blue 2 green 2 black 1 blue 1 black 5
+black 5 blue 1 black 1 green 5 blue 2 black 5 blue 2 green 4 blue 1 black 5
+black 6 blue 2 green 6 blue 5 green 4 blue 2 black 6
+black 7 blue 1 green 13 blue 1 black 7
+black 9 blue 1 green 11 blue 1 black 9
+black 10 blue 3 green 5 blue 3 black 10
+black 12 black 12
+black 35
+black 35

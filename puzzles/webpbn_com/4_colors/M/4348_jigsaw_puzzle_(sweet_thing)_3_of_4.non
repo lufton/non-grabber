@@ -1,0 +1,57 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by harris harris"
+date "Dec 12, 2008"
+description "First complete all of the pieces then print them out and put them next to each other to get the whole image, like a puzzle. do not turn the pieces. I will put the whole image up as the answer key."
+difficulty 1.5
+height 20
+id 4348
+link "https://webpbn.com/play.cgi?id=4348"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "jigsaw puzzle (sweet thing) 3 of 4"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1 black 3 black 5 black 1
+black 1 black 2 black 1 black 6 black 1
+black 1 black 3 black 7 black 1
+black 1 black 4 black 6 black 1
+black 1 black 3 black 1 black 5 black 1
+black 1 black 2 black 3 black 4 black 1
+black 1 black 3 black 1 black 5 black 1
+green 1 black 1 black 3 black 3 blue 5
+green 1 black 2 black 5 blue 6
+green 2 black 2 black 2 blue 7
+green 3 black 3 blue 8
+green 5 black 2 blue 8
+green 6 blue 9
+green 6 blue 9
+green 6 blue 6
+green 6 blue 5 blue 3
+green 6 blue 4 blue 1
+green 7 blue 2 blue 1 blue 1
+green 9 blue 5 green 1
+green 15
+
+columns
+black 7 green 13
+black 2 green 11
+black 7 black 2 green 10
+black 7 black 2 green 9
+black 1 black 3 black 3 black 1 green 9
+black 2 black 1 black 1 black 2 black 2 green 8
+black 1 black 1 black 3 black 2 black 1 blue 5 green 3
+black 3 black 1 black 3 blue 8 green 2
+black 5 black 3 blue 9 green 2
+black 8 blue 9 blue 1 green 1
+black 7 blue 9 blue 2 green 1
+black 7 blue 8 blue 1 blue 1 green 1
+black 7 blue 7 blue 1 blue 1 green 1
+blue 7 blue 1 blue 1 green 1
+black 7 blue 7 blue 1 blue 1 green 2

@@ -1,0 +1,83 @@
+by "person harris (games1793)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by person harris"
+date "Oct 17, 2009"
+description "its a pumkin and the green is a leaf and the black (gray) is a ground even if it dosent look like it"
+difficulty 1.5
+height 30
+id 6957
+link "https://webpbn.com/play.cgi?id=6957"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "happy holloween"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 30
+blue 1 blue 7 blue 6 green 3 blue 11
+blue 15 green 4 blue 2 blue 3 blue 4
+blue 6 blue 5 blue 1 green 4 blue 10 blue 1
+blue 13 green 4 blue 3 blue 9
+blue 13 green 3 blue 9 blue 4
+blue 5 blue 4 red 9 blue 11
+blue 2 blue 6 red 11 blue 10
+blue 8 red 13 blue 9
+blue 7 red 15 blue 3 blue 1 blue 2
+blue 6 red 17 blue 7
+blue 5 red 5 red 12 blue 7
+blue 2 blue 2 red 5 red 6 red 1 red 3 blue 7
+blue 5 red 5 red 6 red 3 blue 2 blue 2 blue 1
+blue 5 red 5 red 3 blue 7
+blue 5 red 6 red 1 red 3 blue 7
+blue 5 red 7 red 3 red 4 blue 7
+blue 5 red 7 red 1 red 8 blue 7
+blue 5 red 7 red 1 red 8 blue 7
+blue 5 red 7 red 1 red 8 blue 7
+blue 5 red 7 red 1 red 8 blue 7
+blue 5 red 7 red 1 red 8 blue 7
+blue 5 red 18 blue 7
+blue 6 red 17 blue 7
+blue 7 red 15 blue 8
+blue 8 red 13 blue 9
+black 8 red 12 black 10
+black 30
+black 30
+black 30
+
+columns
+blue 26 black 4
+blue 1 blue 24 black 4
+blue 7 blue 4 blue 13 black 4
+blue 26 black 4
+blue 26 black 4
+blue 6 blue 4 red 12 blue 3 black 4
+blue 3 blue 6 red 14 blue 2 black 4
+blue 9 red 16 blue 1 black 4
+blue 8 red 19 black 3
+blue 1 blue 5 red 20 black 3
+blue 6 red 5 red 12 black 3
+blue 6 red 8 red 11 black 3
+blue 3 blue 2 red 8 red 5 black 3
+blue 4 green 2 red 8 red 10 black 3
+blue 3 green 3 red 8 red 5 black 3
+blue 2 green 4 red 8 red 11 black 3
+blue 1 green 4 blue 1 red 8 red 12 black 3
+blue 1 green 3 blue 2 red 6 red 11 black 3
+blue 1 green 2 blue 3 red 7 red 10 black 3
+blue 7 red 5 red 11 black 3
+blue 4 blue 3 red 18 black 4
+blue 2 blue 6 red 16 blue 1 black 4
+blue 10 red 14 blue 2 black 4
+blue 26 black 4
+blue 26 black 4
+blue 2 blue 2 blue 3 blue 3 blue 12 black 4
+blue 26 black 4
+blue 9 blue 16 black 4
+blue 3 blue 9 blue 12 black 4
+blue 26 black 4

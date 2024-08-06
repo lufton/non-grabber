@@ -1,0 +1,79 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/13/11"
+height 24
+id 111661
+link "https://www.griddlers.net/nonogram/-/g/111661"
+medium_time "0:17:21"
+points 10905
+popularity 79.4
+title "Strawberry Cake"
+width 31
+
+color a 666666
+color c fefefe
+color d febbdd
+color e cc0000
+color f 990000
+color g dddddd
+color h fe44aa
+
+rows
+c 11
+c 17
+c 5 d 5 e 1 d 5 c 5
+c 3 d 7 e 2 f 1 d 7 c 3
+c 3 d 3 e 1 d 3 c 1 e 1 f 2 c 1 d 3 e 1 d 3 c 3
+c 2 d 3 e 2 f 1 d 3 c 3 d 3 e 2 f 1 d 3 c 3
+c 3 d 2 c 1 e 1 f 2 c 1 d 7 c 1 e 1 f 2 c 1 d 2 c 3
+c 3 d 3 c 3 d 1 e 1 d 6 e 1 c 3 d 3 c 3
+c 4 d 5 e 2 f 1 d 4 e 2 f 1 d 4 c 2 g 1 c 1
+c 5 d 3 c 1 e 1 f 2 c 1 d 2 c 1 e 1 f 2 c 1 d 2 c 3 g 1 c 1
+c 6 d 3 c 3 d 4 c 3 d 2 c 4 g 1 c 1
+c 1 h 1 c 7 d 10 c 5 g 1 h 1 c 1
+c 2 h 1 c 21 g 2 h 1 c 2
+c 1 g 1 c 1 h 2 c 3 g 1 h 2 c 13 g 2 h 2 c 1 g 1 c 1
+c 1 g 1 c 1 h 2 c 2 g 1 h 5 c 4 g 1 h 3 g 5 h 2 c 1 g 1 c 1
+c 1 g 1 c 2 h 2 g 2 h 2 c 1 h 3 c 1 g 2 h 2 c 1 h 2 g 3 h 2 c 2 g 1 c 1
+c 1 g 2 c 1 h 2 g 1 h 2 c 2 g 1 h 3 g 1 h 2 c 3 h 2 g 2 h 2 c 2 g 1 c 1
+c 1 g 2 c 2 h 3 c 3 g 2 h 4 c 4 g 1 h 4 c 2 g 2 c 1
+c 1 g 2 c 2 h 1 c 3 g 4 h 2 c 5 g 2 h 2 c 3 g 1 c 1
+c 1 g 1 c 5 g 6 c 5 g 4 c 3 g 2 c 1
+c 1 g 10 c 5 g 9 c 1
+c 2 g 20 c 2
+c 4 g 12 c 4
+c 12
+
+columns
+c 5
+c 1 g 5 c 1
+c 10 g 3 c 1
+c 7 h 4 c 3 g 2 c 1
+c 10 h 4 c 3 g 1 c 1
+c 3 d 3 c 7 h 3 c 2 g 1 c 1
+c 2 d 5 c 6 g 2 h 2 c 1 g 2 c 1
+c 2 d 3 c 1 d 3 c 4 g 2 h 2 c 2 g 2 c 1
+c 2 d 2 e 2 c 1 d 3 c 2 g 1 h 3 c 3 g 2 c 1
+c 2 d 1 e 2 f 1 c 1 d 3 c 2 h 3 c 3 g 3 c 1
+c 2 d 3 f 2 c 1 d 1 c 1 d 1 c 2 h 2 c 3 g 5 c 1
+c 2 d 4 c 1 d 1 e 2 c 1 d 1 c 2 h 2 g 7 c 1
+c 2 d 5 e 2 f 1 c 1 d 1 c 2 h 3 g 6 c 1
+c 2 d 2 c 1 d 3 f 2 c 1 d 1 c 3 h 3 g 5 c 1
+c 2 d 1 e 2 c 1 d 3 c 1 d 2 c 4 h 3 g 1 c 1 g 2 c 1
+c 2 e 2 f 1 c 1 d 6 c 3 g 2 h 2 c 2 g 2 c 1
+c 2 d 1 f 2 c 1 d 6 c 3 g 1 h 2 c 3 g 2 c 1
+c 2 d 2 c 1 d 4 c 1 d 2 c 2 g 1 h 2 c 4 g 2 c 1
+c 2 d 6 e 2 c 1 d 1 c 2 h 2 c 5 g 2 c 1
+c 2 d 4 c 1 e 2 f 1 c 1 d 1 c 2 h 1 c 5 g 3 c 1
+c 2 d 3 e 2 c 1 f 2 c 1 d 1 c 2 h 2 c 3 g 4 c 1
+c 2 d 1 e 2 f 1 c 1 d 1 c 1 d 1 c 3 g 1 h 2 g 6 c 1
+c 2 d 2 f 2 c 1 d 3 c 3 g 2 h 2 g 4 c 1
+c 2 d 3 c 1 d 3 c 4 g 3 h 2 g 3 c 1
+c 2 d 5 c 4 g 4 h 2 c 1 g 2 c 1
+c 3 d 3 c 4 g 3 h 3 c 2 g 2 c 1
+c 8 g 2 h 4 c 3 g 1 c 1
+c 4 g 3 h 4 c 4 g 2 c 1
+c 12 g 3 c 1
+c 1 g 5 c 2
+c 5

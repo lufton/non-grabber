@@ -1,0 +1,61 @@
+by "Xaiven (27rayxw)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Xaiven"
+date "May  2, 2020"
+description "MUSHROOM"
+difficulty 1.25
+height 20
+id 33988
+link "https://webpbn.com/play.cgi?id=33988"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "mushroom"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 7
+black 5 red 6 black 8
+black 1 red 17 black 2
+black 1 red 18 black 1
+black 1 red 18 black 1
+black 1 red 7 black 6 red 5 black 1
+black 1 red 7 black 1 black 1 red 5 black 1
+black 1 red 7 black 1 black 7
+black 9 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 6
+0
+
+columns
+black 8
+black 1 red 6 black 1
+black 1 red 6 black 1
+black 1 red 6 black 1
+black 1 red 6 black 1
+black 1 red 7 black 1
+black 1 red 7 black 1
+black 1 red 7 black 1
+black 1 red 4 black 13
+black 1 red 4 black 1 black 1
+black 1 red 4 black 1 black 1
+black 2 red 3 black 1 black 1
+black 1 red 3 black 1 black 1
+black 1 red 3 black 13
+black 1 red 5 black 1
+black 1 red 5 black 1
+black 1 red 5 black 1
+black 1 red 5 black 1
+black 2 red 4 black 1
+black 6

@@ -1,0 +1,103 @@
+by "MMD (mmd)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by MMD"
+date "Apr 21, 2009"
+description ""Dark Side of the Moon" by Pink Floyd. Their first "concept album" and one of the best ever. The cover is pretty cool too, but my pbn is very crude."
+difficulty 1.75
+height 40
+id 5692
+link "https://webpbn.com/play.cgi?id=5692"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WC#32 Dark Side"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 40
+black 40
+black 40
+black 33 black 3
+black 32 black 4 black 2
+black 31 black 2 black 2 black 1
+black 31 black 6 black 1
+black 31 black 1 black 1 black 1
+black 31 black 6 black 1
+black 32 black 4 black 2
+black 33 black 3
+black 40
+black 19 blue 1 black 20
+black 18 blue 1 black 1 blue 1 black 19
+black 18 blue 1 black 1 blue 1 black 19
+black 17 blue 1 black 1 blue 1 red 2 black 16
+black 14 blue 2 blue 1 green 2 red 2 black 14
+black 12 black 2 blue 1 black 3 blue 2 green 2 red 3 black 11
+black 10 black 3 blue 2 black 5 blue 4 green 3 red 3 black 8
+black 8 black 5 blue 1 black 7 blue 1 blue 3 green 3 red 3 black 5
+black 6 black 6 blue 2 black 7 blue 2 black 1 blue 3 green 3 red 3 black 2
+black 4 black 8 blue 1 black 9 blue 1 black 4 blue 3 green 3 red 2
+black 2 black 9 blue 13 black 6 blue 4 green 2
+black 32 blue 2
+black 38
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+black 40
+
+columns
+black 23 black 16
+black 23 black 16
+black 22 black 17
+black 22 black 17
+black 21 black 18
+black 21 black 18
+black 20 black 19
+black 20 black 19
+black 19 black 20
+black 19 black 20
+black 18 black 21
+black 18 black 21
+black 17 black 22
+black 17 black 4 blue 1 black 17
+black 16 black 3 blue 3 black 17
+black 16 black 1 blue 3 black 1 blue 1 black 17
+black 16 blue 3 black 3 blue 1 black 17
+black 15 blue 2 black 5 blue 1 black 17
+black 13 blue 2 black 1 black 5 blue 1 black 17
+black 12 blue 1 black 2 black 5 blue 1 black 17
+black 13 blue 2 black 4 blue 1 black 17
+black 15 blue 2 black 4 blue 1 black 17
+black 15 red 1 green 1 blue 2 black 3 blue 1 black 17
+black 15 red 1 green 1 blue 4 black 1 blue 1 black 17
+black 16 red 1 green 1 blue 1 blue 3 black 17
+black 16 red 1 green 1 blue 1 black 2 blue 1 black 17
+black 17 red 1 green 1 blue 1 black 19
+black 17 red 1 green 1 blue 1 black 19
+black 17 red 1 green 1 blue 1 black 19
+black 18 red 1 green 1 blue 1 black 18
+black 18 red 1 green 1 blue 1 black 18
+black 5 black 9 red 1 green 1 blue 1 black 18
+black 4 black 4 black 9 red 1 green 1 blue 1 black 17
+black 3 black 3 black 2 black 8 red 1 green 1 blue 1 black 17
+black 3 black 1 black 1 black 2 black 8 red 1 green 1 blue 2 black 16
+black 3 black 1 black 1 black 2 black 9 red 1 green 1 blue 1 black 16
+black 3 black 3 black 2 black 9 red 1 green 1 blue 1 black 16
+black 4 black 4 black 10 red 1 green 1 blue 1 black 16
+black 5 black 12 red 1 green 1 blue 1 black 15
+black 21 red 1 green 1 blue 1 black 15

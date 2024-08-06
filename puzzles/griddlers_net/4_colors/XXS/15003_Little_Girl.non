@@ -1,0 +1,31 @@
+by "bekky_star"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/15/04"
+height 5
+id 15003
+link "https://www.griddlers.net/nonogram/-/g/15003"
+medium_time "0:00:19"
+points 13
+popularity 37.54
+title "Little Girl"
+width 5
+
+color a ffffff
+color c fffe00
+color d 0000ff
+color f ff00ff
+
+rows
+c 3
+c 1 f 1 c 1
+f 1 d 3 f 1
+d 3
+f 1 f 1
+
+columns
+f 1
+c 2 d 2 f 1
+c 1 f 1 d 2
+c 2 d 2 f 1
+f 1

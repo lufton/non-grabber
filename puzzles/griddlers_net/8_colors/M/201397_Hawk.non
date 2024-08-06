@@ -1,0 +1,69 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/15/19"
+height 20
+id 201397
+link "https://www.griddlers.net/nonogram/-/g/201397"
+medium_time "0:11:37"
+points 9373
+popularity 85.31
+title "Hawk"
+width 24
+
+color a 99ccff
+color b ffe132
+color c 999999
+color d ffffff
+color e 660000
+color f cc8800
+color g ae6a26
+color h e9bb02
+
+rows
+g 8
+g 8 f 2 g 1
+g 8 f 4 g 1
+g 3 e 7 f 4 g 1
+g 3 e 9 f 3 g 2
+g 3 e 4 b 1 d 1 b 1 e 4 f 3 g 2
+b 3 e 2 b 2 e 1 d 1 e 1 b 2 e 4 g 4
+c 1 d 1 b 3 e 2 b 1 e 3 b 1 e 3 g 3 f 2 g 2
+c 1 d 2 b 2 g 1 e 2 b 3 e 2 g 2 f 1 g 1 e 2 f 2 g 2
+e 1 c 2 d 2 b 1 f 1 g 1 e 5 g 1 f 5 e 2 f 3
+e 2 c 2 d 2 f 1 g 2 e 3 g 1 f 3 h 2 f 2 e 3 f 1
+e 4 c 2 f 2 g 4 f 2 h 5 f 2 e 3
+e 2 e 2 d 2 g 2 f 1 e 1 h 2 e 3 h 2 f 2 e 2
+e 1 e 2 d 2 e 2 h 1 e 3 h 1 e 2 g 1 h 1 f 2 g 1
+d 3 e 4 h 3 f 1 e 2 g 1 h 1 f 2
+d 3 f 1 e 3 h 2 f 2 d 1 e 2 g 1 h 1 f 1
+d 3 f 1 e 1 h 2 f 3 d 2 e 2 g 2
+d 4 e 1 h 1 f 5 d 2 g 2
+d 4 e 2 h 1 f 2 h 1 f 1 d 3
+d 4 e 1 f 2 h 3 d 2
+
+columns
+e 5
+c 3 e 3
+g 1 b 1 d 2 c 2 e 1
+g 2 b 2 d 2 c 1 e 1
+g 3 b 3 d 2 c 1
+g 3 e 2 b 3 d 1 c 1 e 1
+g 3 e 4 g 1 f 3 e 2
+g 2 e 3 b 1 e 2 g 2 f 1 d 1 e 1 d 2
+g 3 e 3 b 2 e 2 g 2 d 7
+g 3 e 2 b 1 e 2 b 1 e 2 g 2 d 7
+g 3 e 2 d 2 e 1 b 1 e 2 g 2 e 2 f 1 d 4
+g 3 e 2 b 1 e 2 b 1 e 2 g 1 f 1 e 3 f 1 d 3
+g 3 e 3 b 2 e 2 g 1 f 1 e 1 h 1 e 5 d 1
+g 2 f 1 e 3 b 1 e 2 g 1 f 2 h 1 e 3 h 2 e 2
+g 1 f 3 e 4 g 1 f 2 h 2 e 1 h 3 f 1 h 1 f 1
+g 1 f 4 e 3 g 1 f 2 h 1 e 2 h 2 f 4
+g 1 f 4 e 1 g 1 f 2 h 2 e 1 h 2 f 4 h 1
+g 1 f 3 e 1 g 2 f 1 h 2 e 2 f 4 h 2
+g 2 f 1 g 2 e 1 f 2 h 2 e 2 d 2 f 2 h 1
+g 3 f 1 e 2 f 2 h 1 g 1 e 2 d 4
+g 2 f 2 e 2 f 2 h 1 g 1 e 2 d 3
+g 2 f 2 e 2 f 2 h 1 g 1 e 1 g 1 d 1
+g 2 f 1 e 3 f 2 h 1 g 2
+g 1 f 2 e 2 g 1 f 2 g 1

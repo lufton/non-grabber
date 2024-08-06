@@ -1,0 +1,37 @@
+by "Josh Greifer (joshgreifer)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Josh Greifer"
+date "Mar 19, 2010"
+description "Not the prettiest pattern in the world but never mind"
+difficulty 2.5
+height 10
+id 8105
+link "https://webpbn.com/play.cgi?id=8105"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title "Ten-4"
+width 10
+
+rows
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+columns
+1,1
+1,1,1,1
+1,1,1,1
+1,1,1,2
+1,1,1,1,1
+2,1,2
+2,2,2
+2,2,1
+1,1,1
+1

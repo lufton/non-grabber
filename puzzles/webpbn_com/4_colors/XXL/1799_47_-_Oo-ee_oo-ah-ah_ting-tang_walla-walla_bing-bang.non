@@ -1,0 +1,112 @@
+by "Nancy Snyder (naneki)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Nancy Snyder"
+date "Nov 12, 2007"
+description "Alvin and the Chipmunks is a five-time Grammy Award-winning fictional musical group, created in 1958. The group consists of three singing chipmunks: Alvin,(show above) the mischievous troublemaker, who quickly became the star of the group, Simon, the tall bespectacled intellectual, and Theodore, the chubby, impressionable sweetheart. The trio is "managed" by their human "father" and confidant, David Seville. People often assume the characters started as cartoons and branched out into music, but that is the opposite of how they began. After first being brought to life in Bagdasarian's 1950s novelty recordings under the name David Seville and the Chipmunks, the characters were an unprecedented success, and the singing Chipmunks and their manager were given life in several animated cartoon series and motion pictures."
+difficulty 3.5
+height 45
+id 1799
+link "https://webpbn.com/play.cgi?id=1799"
+note "published,definitely unique,may require moderate lookahead"
+quality 4.0
+title "#47 - Oo-ee, oo-ah-ah, ting-tang, walla-walla, bing-bang""
+width 45
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 3
+black 1 red 3 black 2
+black 1 red 5 black 1 blue 9
+blue 1 black 1 red 6 black 1 blue 11
+blue 3 black 1 red 7 black 1 blue 12
+blue 4 black 1 red 7 black 1 blue 7
+blue 4 black 1 red 7 black 1 blue 5
+blue 4 black 1 red 7 black 4 blue 5
+blue 4 black 1 red 6 black 1 black 1 blue 4
+blue 4 black 1 red 5 black 1 black 2 blue 4
+blue 4 black 1 red 4 black 1 black 8 blue 4
+blue 4 black 1 red 3 black 1 black 2 black 1 blue 4
+blue 3 black 1 red 2 black 1 black 2 black 3 blue 3
+blue 4 black 1 red 1 black 1 black 8 blue 3
+blue 3 black 4 red 1 black 1 black 1 blue 3
+blue 3 black 2 red 2 black 1 red 1 black 1 black 3 blue 3
+blue 3 black 2 red 3 black 1 red 1 black 1 black 11 blue 3
+blue 3 black 2 red 4 black 1 red 1 black 1 black 2 blue 3
+blue 3 black 2 red 5 black 1 red 1 black 1 black 4 black 4 black 2 blue 3
+blue 3 black 1 red 6 black 1 red 1 black 1 black 3 black 4 black 2 black 2 blue 3
+blue 3 black 1 red 6 black 1 red 1 black 1 black 3 black 3 black 1 black 3 blue 3
+blue 2 black 1 red 6 black 2 black 1 black 1 black 1 black 2 blue 4
+blue 2 black 1 red 6 black 2 black 1 black 1 black 7 black 2 blue 3
+blue 2 black 1 red 6 black 2 black 2 black 11 black 2 blue 3
+blue 2 black 2 red 5 black 1 black 4 black 8 black 2 blue 3
+blue 2 black 6 black 1 black 6 black 1 black 1 blue 3
+blue 2 black 2 black 1 black 4 black 1 black 1 blue 3
+blue 3 black 1 black 3 black 2 black 1 blue 3
+blue 3 black 1 black 2 black 4 black 2 black 1 blue 4
+blue 3 black 1 black 1 black 1 black 5 black 1 blue 3
+blue 3 black 4 black 5 black 1 black 2 blue 4
+blue 3 black 1 black 8 black 1 blue 4
+blue 3 black 1 black 1 red 3 black 2 black 2 blue 4
+blue 3 black 2 black 2 red 2 black 3 black 2 blue 3
+blue 3 black 2 black 7 black 2 blue 4
+blue 4 black 2 black 5 black 2 blue 4
+blue 4 black 9 black 2 blue 4
+blue 4 black 1 red 6 black 4 black 2 blue 4
+blue 4 black 1 red 9 black 3 black 3 blue 4
+blue 4 black 1 red 11 black 5 red 1 black 1 blue 4
+blue 5 red 16 black 1 blue 5
+blue 6 red 14 blue 6
+blue 7 red 8 blue 8
+blue 19
+blue 14
+
+columns
+blue 13
+blue 19
+blue 10 blue 7
+blue 7 blue 6
+blue 5 blue 5
+blue 4 black 7 blue 4
+blue 4 black 2 red 5 black 7 blue 4
+blue 4 black 2 red 7 black 2 black 4 blue 4
+blue 4 black 2 red 8 black 1 black 1 black 1 black 2 blue 4
+blue 4 black 2 red 9 black 1 black 2 black 1 black 2 blue 4
+blue 3 black 1 red 10 black 1 black 1 black 2 blue 3
+blue 3 black 1 red 10 black 3 black 4 blue 3
+black 24 black 1 red 3 blue 3
+black 1 red 20 black 3 black 1 red 4 blue 3
+black 1 red 12 black 8 black 1 red 4 blue 3
+black 1 red 11 black 1 black 1 red 5 blue 3
+black 1 red 9 black 1 black 1 red 5 blue 3
+black 1 red 8 black 1 black 1 black 5 black 1 red 5 blue 3
+black 1 red 6 black 1 black 1 black 1 black 3 black 2 black 2 red 5 blue 2
+blue 1 black 1 red 4 black 1 black 2 black 1 black 3 black 1 black 1 red 5 blue 2
+blue 2 black 4 black 2 black 1 black 1 black 2 black 2 black 1 red 5 blue 2
+blue 3 black 1 black 1 black 1 black 1 black 2 black 2 black 1 black 2 red 4 blue 2
+blue 3 black 1 black 2 black 1 black 1 black 5 black 7 black 1 red 4 blue 2
+blue 3 black 4 black 1 black 1 black 3 black 1 black 1 black 2 red 1 black 3 black 2 red 3 blue 2
+blue 3 black 1 black 1 black 1 black 3 black 2 black 2 red 2 black 2 black 1 red 3 blue 2
+blue 3 black 1 black 2 black 1 black 1 black 4 black 2 red 2 black 2 black 1 red 3 blue 2
+blue 3 black 1 black 2 black 2 black 2 black 5 black 7 black 1 red 2 blue 3
+blue 3 black 4 black 3 black 8 black 1 black 5 black 2 red 2 blue 3
+blue 3 black 3 black 2 black 5 black 1 black 1 black 2 black 1 red 3 blue 3
+blue 3 black 2 black 5 black 3 black 4 blue 3
+blue 3 black 2 black 4 black 2 black 2 blue 3
+blue 3 black 1 black 2 black 2 black 2 blue 4
+blue 4 black 2 black 4 black 2 blue 3
+blue 3 black 2 black 2 blue 4
+blue 4 black 2 black 2 blue 4
+blue 4 black 2 black 3 blue 4
+blue 4 black 7 blue 4
+blue 4 blue 4
+blue 4 blue 4
+blue 5 blue 5
+blue 7 blue 6
+blue 9 blue 7
+blue 18
+blue 14
+blue 8

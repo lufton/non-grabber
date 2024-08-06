@@ -1,0 +1,52 @@
+by "Scarlet Noelle Masen (scarletprincess)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Scarlet Noelle Masen"
+date "Oct  8, 2013"
+description "Snow people"
+difficulty 1.5
+height 15
+id 22911
+link "https://webpbn.com/play.cgi?id=22911"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Simple Pix 5"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 4
+black 11
+black 10
+blue 1 blue 1 red 4
+blue 1 black 1 black 1 blue 1 red 4
+blue 2 blue 2 red 5
+blue 1 red 1 blue 2 red 5
+blue 9 blue 2
+blue 3 blue 2 black 1 black 1 blue 1
+blue 2 blue 1 blue 1
+blue 1 blue 2 red 1 blue 1
+blue 1 black 1 blue 6
+blue 1 black 2 black 2 blue 2 black 1
+blue 1 black 4 blue 1 black 1
+blue 1 blue 1 black 1
+
+columns
+black 2 blue 7
+black 2 blue 3 blue 3
+black 2 blue 4 black 1
+black 3 black 1 blue 1 black 3
+black 3 red 1 blue 1 black 1
+black 3 blue 1 black 1
+black 3 black 1 blue 2 black 2
+black 2 blue 4 black 1
+black 2 blue 3 blue 4 blue 3
+black 2 red 2 blue 1 blue 3
+black 1 red 3 black 1 blue 1
+red 4 red 1 blue 1
+red 4 black 1 blue 1
+red 4 blue 1 blue 2
+red 1 blue 3 blue 1 black 3

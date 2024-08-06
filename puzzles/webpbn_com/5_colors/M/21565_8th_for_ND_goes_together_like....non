@@ -1,0 +1,63 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Apr  1, 2013"
+description "How many pairs can you come up with?"
+difficulty 1.5
+height 20
+id 21565
+link "https://webpbn.com/play.cgi?id=21565"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "8th for ND goes together like..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 5
+green 7 black 3
+black 1 black 1 red 1 black 3 red 1
+black 1 blue 1 blue 1 black 1 black 1 black 1
+black 1 black 1 black 1 blue 1 blue 1 black 1
+green 1 green 1 black 1 black 1
+green 5 black 2 red 1 black 2
+green 7 blue 2 blue 2
+green 7 blue 7
+green 7 blue 3 red 1 blue 3
+green 1 black 2 black 2 green 1 blue 7
+green 1 blue 5 green 1 blue 1 red 3 blue 1
+green 1 blue 5 green 1 blue 1 red 5 blue 1
+blue 5 red 5
+blue 5 red 5
+blue 2 blue 2 red 2 red 2
+blue 2 blue 2 red 2 red 2
+blue 2 blue 2 red 2 red 2
+black 3 black 3 blue 3 blue 3
+
+columns
+0
+0
+0
+green 1 green 6 black 1
+green 2 black 3 green 4 black 1 blue 7 black 1
+green 2 blue 1 green 5 black 1 blue 7 black 1
+green 2 green 4 blue 4
+green 2 blue 1 green 5 black 1 blue 7 black 1
+green 2 black 3 green 4 black 1 blue 7 black 1
+green 1 green 6 black 1
+black 1 blue 5 blue 1
+red 1 black 4 blue 4 red 6 blue 1
+black 2 blue 1 blue 4 red 7 blue 1
+black 2 red 1 blue 1 red 1 blue 1 red 4
+black 2 blue 1 blue 4 red 7 blue 1
+red 1 black 4 blue 4 red 6 blue 1
+black 1 blue 5 blue 1
+0
+0
+0

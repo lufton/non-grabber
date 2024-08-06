@@ -1,0 +1,118 @@
+by "krzysiek"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/10/06"
+height 44
+id 34381
+link "https://www.griddlers.net/nonogram/-/g/34381"
+medium_time "0:34:33"
+points 72500
+popularity 74.0
+title "Ball"
+width 50
+
+color a ffffff
+color b 000000
+color c 999900
+color d ffff00
+color e ff3333
+color f ffcc66
+color g 00ff00
+
+rows
+b 9
+b 4 c 6 b 6
+b 3 c 10 b 1 e 4 b 2
+b 2 c 4 d 6 c 2 b 1 e 6 b 2
+b 2 c 4 d 8 c 1 b 1 e 2 f 2 e 3 b 2
+b 1 e 1 b 1 c 3 d 9 c 2 b 1 e 1 f 4 e 2 b 2
+b 1 e 2 b 1 c 3 d 10 c 1 b 1 e 1 f 5 e 2 b 2
+b 1 e 3 b 2 c 2 d 10 c 1 b 1 e 2 f 5 e 2 b 2
+b 1 e 5 b 1 c 3 d 9 c 1 b 1 e 2 f 6 e 2 b 1
+b 2 e 1 f 2 e 2 b 1 c 4 d 8 c 2 b 1 e 1 f 6 e 2 b 2
+b 1 e 1 f 3 e 2 b 1 c 4 d 8 c 2 b 1 e 1 f 5 e 3 b 2
+b 1 e 1 f 4 e 1 b 2 c 4 d 7 c 2 b 1 e 1 f 5 e 2 b 1 f 2 b 1
+b 1 e 1 f 5 e 2 b 1 c 4 d 3 c 1 d 3 c 2 b 1 e 1 f 5 e 2 b 1 f 2 b 1
+b 1 e 1 f 5 e 2 b 2 c 4 d 1 c 2 d 3 c 2 b 1 e 1 f 1 e 1 f 2 e 3 b 1 f 3 b 1
+b 1 e 1 f 6 e 2 b 1 c 7 d 3 c 2 b 1 e 1 f 1 e 1 f 2 e 2 b 1 f 2 d 1 f 1 b 1
+b 1 e 2 f 6 e 3 b 1 c 6 d 3 c 1 b 1 e 4 f 1 e 3 b 1 f 1 d 2 f 1 b 1
+b 1 e 2 f 7 e 3 b 1 c 6 d 2 c 1 b 1 e 8 b 1 f 1 d 2 f 2 b 1
+b 2 e 2 f 7 e 2 b 2 c 5 d 2 c 1 b 1 e 7 b 1 f 2 d 2 f 2 b 1
+b 2 e 2 f 4 e 1 f 2 e 3 b 1 c 6 d 1 c 1 b 1 e 7 b 1 f 1 d 3 f 2 b 1
+b 1 d 1 b 1 e 2 f 3 e 2 f 1 e 4 b 1 c 7 b 1 e 6 b 1 f 2 d 3 f 2 b 1
+b 1 d 1 b 1 e 3 f 2 e 7 b 1 c 7 b 1 e 5 b 1 f 2 d 4 f 2 b 1
+b 1 d 1 b 2 e 2 f 2 e 7 b 2 c 6 b 1 e 4 b 2 f 1 d 5 f 1 b 1
+b 1 f 1 d 1 b 2 e 2 f 1 e 8 b 1 c 6 b 1 e 4 b 1 f 2 d 5 f 1 b 1 g 4
+b 2 f 1 d 1 b 2 e 10 b 1 c 6 b 1 e 3 b 1 f 2 d 5 f 2 b 1 g 6
+b 1 f 2 d 1 b 2 e 9 b 2 c 4 b 2 e 3 b 1 f 4 d 3 f 2 b 1 g 7
+g 2 b 1 f 2 d 2 b 2 e 9 b 1 c 4 b 1 e 3 b 1 f 4 d 3 f 2 b 1 g 8
+g 4 b 2 f 2 d 3 b 2 e 7 b 1 c 4 b 1 e 3 b 1 f 4 d 2 f 3 b 1 g 9
+g 6 b 1 f 3 d 4 b 3 e 4 b 1 c 4 b 1 e 3 b 1 f 8 b 1 g 10
+g 5 b 2 f 3 d 6 b 3 e 1 b 1 c 4 b 1 e 3 b 1 f 6 b 3 g 9
+g 5 b 2 f 3 d 8 b 4 c 1 b 12 e 1 b 1 g 10
+g 4 b 2 f 3 d 8 b 1 e 2 b 2 d 4 b 1 e 6 b 2 g 8
+g 5 b 2 f 4 d 5 b 1 e 4 b 1 d 4 b 1 e 4 c 1 b 2 g 8
+g 7 b 2 f 6 d 1 b 2 e 4 b 1 d 4 b 1 e 2 c 2 b 2 g 9
+g 8 b 2 f 4 b 2 c 5 b 1 f 6 b 1 c 2 b 2 g 10
+g 9 b 5 c 7 b 1 f 7 b 2 g 12
+g 10 b 3 c 6 b 1 f 6 b 3 g 12
+g 11 b 5 c 2 b 1 f 2 b 5 g 13
+g 14 b 7 g 16
+g 35
+g 35
+g 34
+g 10 g 16
+g 14
+g 10
+
+columns
+g 1
+g 3
+g 4
+g 5 g 3
+b 9 g 11
+b 3 e 2 b 2 d 3 f 1 b 4 g 10
+b 3 e 7 b 3 d 1 f 3 b 3 g 9
+b 2 e 2 f 5 e 4 b 2 d 1 f 4 b 2 g 8
+b 1 e 2 f 9 e 3 b 2 d 2 f 3 b 2 g 8
+b 1 e 2 f 11 e 3 b 2 d 2 f 3 b 2 g 7
+b 1 e 3 f 13 e 2 b 2 d 2 f 3 b 2 g 6
+b 1 e 6 f 12 e 2 b 1 d 3 f 3 b 2 g 6
+b 5 e 6 f 4 e 8 b 1 d 3 f 3 b 2 g 5
+b 2 c 3 b 5 e 4 f 3 e 7 b 1 d 4 f 3 b 1 g 5
+b 1 c 8 b 3 e 3 f 3 e 7 b 1 d 3 f 3 b 2 g 5
+b 2 c 10 b 2 e 12 b 1 d 4 f 2 b 2 g 5
+b 1 c 3 d 3 c 7 b 1 e 11 b 1 d 4 f 2 b 3 g 4
+b 1 c 2 d 5 c 7 b 2 e 10 b 1 d 3 f 1 b 1 c 2 b 1 g 4
+b 2 c 1 d 8 c 6 b 2 e 9 b 1 d 4 b 1 c 2 b 1 g 4
+b 1 c 2 d 10 c 6 b 3 e 6 b 1 d 3 b 1 c 3 b 1 g 4
+b 1 c 2 d 11 c 7 b 4 e 4 b 1 d 1 b 2 c 3 b 2 g 4
+b 1 c 2 d 10 c 11 b 7 e 2 c 4 b 1 g 4
+b 1 c 2 d 9 c 17 b 1 e 3 c 4 b 1 g 4
+b 1 c 2 d 13 c 13 b 1 e 3 c 2 b 3 g 4
+b 1 c 3 d 14 c 12 b 1 e 2 b 2 f 2 b 1 g 4
+b 2 c 4 d 13 c 10 b 4 f 4 b 1 g 4
+b 5 c 19 b 6 d 3 f 3 b 2 g 4
+b 1 e 3 b 4 c 6 b 10 e 4 b 1 d 3 f 3 b 1 g 5
+b 1 e 7 b 6 e 14 b 1 d 3 f 3 b 1 g 5
+b 1 e 2 f 3 e 22 b 1 d 3 f 3 b 1 g 5
+b 1 e 2 f 11 e 10 b 8 f 2 b 2 g 4
+b 1 e 2 f 8 e 10 b 2 f 4 b 1 e 3 b 1 f 1 b 1 g 5
+b 1 e 2 f 11 e 5 b 2 f 6 b 1 e 3 c 1 b 2 g 6
+b 1 e 2 f 9 e 5 b 2 f 7 b 1 e 2 c 2 b 1 g 8
+b 2 e 2 f 6 e 6 b 1 f 3 d 1 f 5 b 1 e 2 c 1 b 1 g 9
+b 2 e 2 f 2 e 7 b 2 f 2 d 3 f 1 d 2 f 2 b 1 e 1 c 1 b 2 g 10
+b 2 e 7 b 3 f 3 d 7 f 2 b 1 e 1 b 2 g 11
+b 2 e 3 b 3 f 4 d 8 f 2 b 1 e 1 b 2 g 12
+b 4 f 4 d 10 f 3 b 3 g 13
+b 2 f 3 d 9 f 4 b 2 g 15
+b 2 f 12 b 2 g 17
+b 3 f 5 b 4 g 19
+b 5 g 22
+g 15 g 5
+g 14 g 5
+g 13 g 4
+g 8 g 3
+g 7 g 2
+g 6
+g 2

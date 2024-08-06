@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Aldege Cholette"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.75
+height 30
+id 25527
+link "https://webpbn.com/play.cgi?id=25527"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "It was a bargain Travis."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+green 1 black 2 black 2
+green 3 black 2 black 3
+green 5 blue 3 black 2
+green 7 blue 1 black 3 blue 1 green 1 black 1
+black 1 blue 1 black 1 black 1 blue 1 green 3
+red 16 black 1 blue 1 green 4
+red 2 red 2 red 2 black 1 black 1 blue 1 green 5
+red 2 red 2 blue 1 red 2 blue 1 black 1
+red 1 black 5 red 2 black 6 blue 3 red 2
+black 2 red 1 blue 4 red 2 black 1 blue 2
+black 2 black 1 red 2 black 4 blue 2 green 2 black 1 red 2 black 1 blue 2
+red 2 black 1 black 3 red 2 blue 2 green 3 black 1 red 2 blue 2
+red 4 black 2 red 16
+red 7 red 2 red 2 red 1
+red 3 red 2 red 2 blue 1
+red 2 red 1 red 2 red 1 green 1 blue 1
+red 2 blue 1 red 2 green 1 blue 1
+red 2 green 3 blue 1 red 2 green 1 blue 1
+red 2 green 1 blue 1 red 1 red 2 green 1 red 1 green 2
+red 1 black 2 red 1 green 1 blue 1 green 2 red 2 red 1 red 1 green 1 green 1
+red 1 red 1 black 1 black 2 red 1 green 1 green 2 green 3 red 3 green 1
+red 3 red 1 black 1 green 1 black 1 red 1 green 2 green 2 green 3
+red 2 black 1 green 1 green 1 black 1 red 1 green 4 green 1
+black 2 green 3 black 1 red 2 green 1 green 1
+black 2 green 2 black 2 red 2 green 1 green 1
+black 1 green 2 black 3 red 3 green 2 green 1
+black 2 green 1 black 4 green 2 green 1 green 1
+black 6 green 3 green 1 green 2
+black 4 green 11
+
+columns
+red 2 red 1 red 2
+red 2 black 1 red 2 red 1
+red 2 black 3 red 1 red 2
+red 1 black 2 red 1 red 1 black 2
+green 1 red 1 black 1 red 2 red 2 black 5
+green 2 red 1 black 1 red 1 red 1 black 2 green 1 black 2
+green 3 red 2 black 1 red 1 red 1 black 1 green 3 green 1 black 2
+green 4 black 1 red 3 black 1 black 2 red 1 red 1 black 2 green 4 black 2
+green 3 red 1 red 2 black 3 red 2 red 1 black 2 green 1 green 1 black 3
+green 2 red 1 red 3 black 1 red 2 red 2 black 7
+green 1 red 1 black 1 red 6 red 2 black 4
+red 1 black 1 black 1 red 2 red 2 red 2 black 2
+red 1 black 1 black 1 red 1 red 2 green 3 red 2
+red 1 black 1 black 1 red 1 red 1 green 1 green 2 red 1
+red 1 black 1 black 1 red 1 green 1 green 1 red 1
+red 1 black 1 blue 3 red 1 green 1 green 4
+red 1 blue 4 red 1 green 1 green 2 green 3
+red 2 blue 3 green 1 red 1 red 1 blue 4 green 2 green 2
+blue 1 black 1 red 2 blue 2 green 2 red 2 red 1 green 2 green 2
+blue 1 black 1 red 2 green 2 red 3 green 1 green 1
+blue 1 black 1 black 1 red 2 black 1 red 1 red 2 red 1 green 1 green 1
+black 1 blue 1 black 1 red 2 black 1 red 1 red 2 red 1 green 1 green 1
+black 2 blue 1 black 1 black 1 black 1 red 3 red 2 green 1 green 1
+black 2 blue 1 black 1 black 1 red 2 red 2 red 1 green 1 green 1
+black 1 blue 4 blue 3 red 1 red 3 green 1 green 1
+black 2 green 1 blue 3 red 2 red 1 green 8
+black 2 green 2 red 2 green 2 red 1 green 1 green 1
+black 1 green 3 red 2 green 1 red 1 green 1 green 1
+black 2 green 4 black 1 green 1 green 1 green 2
+black 2 green 3 red 1 blue 4 green 2 green 2

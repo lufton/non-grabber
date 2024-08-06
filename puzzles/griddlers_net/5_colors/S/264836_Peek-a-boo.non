@@ -1,0 +1,47 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/21/23"
+height 15
+id 264836
+link "https://www.griddlers.net/nonogram/-/g/264836"
+medium_time "0:01:55"
+points 807
+popularity 82.8
+title "Peek-a-boo"
+width 10
+
+color a ffffff
+color b 000000
+color c ff9999
+color d 993300
+color h 00ccff
+
+rows
+d 1 h 5 b 4
+d 1 b 9
+d 1 b 4
+d 1 b 2 h 1
+d 1 b 2 b 2 b 1 h 1
+d 1 b 2 b 2 b 1 h 1
+d 1 c 1 c 2 b 1 h 1
+d 1 b 1 b 1 h 1
+b 2 b 1 h 2
+b 7 h 3
+d 1 b 2 b 1 h 4
+d 1 b 1 h 4
+d 1 b 1 h 4
+d 1 b 1 h 5
+d 1 b 3 h 6
+
+columns
+d 8 b 2 d 5
+h 1 b 1 b 2 c 1 b 3 b 1
+h 1 b 1 b 2 b 2 b 1
+h 1 b 1 b 1 b 1 b 1
+h 1 b 1 b 2 b 1 b 1 h 1
+h 1 b 1 b 2 c 1 b 4 h 2
+b 3 c 1 b 1 h 5
+b 4 b 1 h 6
+b 8 h 7
+b 3 h 12

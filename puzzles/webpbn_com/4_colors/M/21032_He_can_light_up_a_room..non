@@ -1,0 +1,77 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Aldege Cholette"
+date "Feb  2, 2013"
+description "His name is Flicker and he's a talking flashlight. He always shines a little light on the subject."
+difficulty 2.0
+height 40
+id 21032
+link "https://webpbn.com/play.cgi?id=21032"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "He can light up a room."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 10
+blue 6 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 2 blue 2
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 2 blue 2
+blue 1 blue 1
+blue 11
+green 1 green 1
+black 3 green 3 black 3
+black 2 black 2 black 2 black 2
+black 2 black 3 black 2
+black 1 black 1 black 1 black 1 black 1
+black 2 black 1 black 2
+black 2 black 1 black 1 black 2
+black 3 black 3
+green 1 green 1
+black 1 green 1 green 1
+black 2 green 1 green 1
+black 2 green 1 green 1
+black 2 blue 3 blue 3
+black 2 blue 1 blue 3 blue 1
+black 1 blue 2 blue 2
+green 1 blue 2 blue 2 green 1
+green 1 blue 5 green 1
+green 1 green 1
+green 1 green 1
+green 1 green 1
+green 1 green 1
+green 1 green 1
+blue 3 green 1
+blue 1 blue 7
+blue 1 blue 1
+blue 1 blue 1
+blue 1 blue 1
+blue 4 blue 1
+blue 6
+
+columns
+blue 4
+blue 1 blue 5 black 3 black 4
+blue 1 blue 3 black 2 black 2 black 6
+blue 1 blue 1 green 1 black 2 black 2 green 4 blue 3 green 7 blue 6
+blue 1 blue 1 black 1 black 1 black 1 blue 1 blue 2 blue 1 blue 1
+blue 2 blue 1 black 2 black 1 blue 1 blue 2 blue 2 blue 1
+blue 1 blue 1 green 1 black 2 black 1 blue 1 blue 1 blue 1 blue 2
+blue 1 blue 1 green 1 black 3 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 green 1 black 2 black 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 black 2 black 1 blue 1 blue 2 blue 1 blue 1
+blue 1 blue 1 black 1 black 1 black 1 blue 1 blue 2 blue 1 blue 1
+blue 1 blue 1 green 1 black 2 black 2 green 4 blue 3 green 8 blue 6
+blue 1 blue 3 black 2 black 2
+blue 1 blue 5 black 3
+blue 5

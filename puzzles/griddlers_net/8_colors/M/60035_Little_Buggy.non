@@ -1,0 +1,75 @@
+by "sebeshs"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/18/08"
+height 25
+id 60035
+link "https://www.griddlers.net/nonogram/-/g/60035"
+medium_time "0:07:25"
+points 12279
+popularity 62.36
+title "Little Buggy"
+width 25
+
+color a ccffff
+color b 000000
+color c 969696
+color d ff0000
+color e 00d700
+color f 0000ff
+color g 99ccff
+color h ffff33
+
+rows
+b 1
+b 3
+b 1
+b 1 b 2
+b 1 b 1 e 1 b 1
+b 1 b 1 e 2 b 1
+b 1 b 1 e 1 b 1
+b 1 b 2
+b 9 b 1
+b 1 c 1 g 1 d 1 g 1 d 2 g 1 d 1 g 1 b 1 b 1
+b 1 c 1 g 1 d 1 g 1 d 2 g 1 d 1 g 1 b 1 b 1
+b 1 c 1 g 1 d 1 g 2 d 2 g 2 d 1 g 1 b 2
+b 1 c 1 g 1 d 1 g 2 d 2 g 2 d 1 g 1 b 2
+b 7 c 1 g 1 d 1 g 3 d 2 g 3 d 1 g 1 b 5
+b 1 h 1 d 22 b 1
+b 1 h 1 d 22 b 1
+b 1 h 1 f 22 b 1
+b 5 d 15 b 5
+b 1 b 1 f 13 b 1 b 1
+b 2 b 1 d 11 b 1 b 2
+b 4 b 1 d 9 b 1 b 4
+b 2 c 2 b 2 b 11 b 2 c 2 b 2
+b 2 c 2 b 2 b 2 c 2 b 2
+b 4 b 4
+c 2 b 2 c 17 b 2 c 2
+
+columns
+b 6 b 2 c 1
+b 1 h 3 b 1 b 4 c 1
+b 1 d 2 f 1 b 1 b 2 c 2 b 2
+b 1 d 2 f 1 b 1 b 2 c 2 b 2
+b 1 d 2 f 1 b 1 b 4 c 1
+b 1 d 2 f 1 d 1 b 1 b 2 c 1
+b 1 d 2 f 1 d 1 f 1 b 1 c 1
+b 2 c 1 d 2 f 1 d 1 f 1 d 1 b 2 c 1
+b 2 c 2 g 1 d 2 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 c 2 g 2 d 3 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 b 4 g 2 d 2 g 1 d 2 f 1 d 1 f 1 d 2 b 1 c 1
+b 5 b 1 d 2 g 3 d 2 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 b 1 g 5 d 2 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 d 7 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 d 7 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 g 5 d 2 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 d 2 g 3 d 2 f 1 d 1 f 1 d 2 b 1 c 1
+b 1 g 2 d 2 g 1 d 2 f 1 d 1 f 1 d 1 b 2 c 1
+b 2 g 2 d 3 f 1 d 1 f 1 b 1 c 1
+b 2 g 1 d 2 f 1 d 1 b 1 b 2 c 1
+b 4 d 2 f 1 b 1 b 4 c 1
+b 7 b 1 d 2 f 1 b 1 b 2 c 2 b 2
+b 1 e 3 b 1 b 1 d 2 f 1 b 1 b 2 c 2 b 2
+b 1 e 1 b 1 b 1 d 2 f 1 b 1 b 4 c 1
+b 1 b 6 b 2 c 1

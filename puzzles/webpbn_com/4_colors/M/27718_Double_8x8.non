@@ -1,0 +1,54 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Thomas Genuine"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 16
+id 27718
+link "https://webpbn.com/play.cgi?id=27718"
+note "published,may be unique,may require moderate lookahead"
+quality 2.5
+title "Double 8x8"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+green 2 black 2 green 2 black 2 green 2 black 2
+green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 6 black 2 black 2
+black 2 green 6 black 2 black 2
+green 6 red 2 green 8
+green 6 red 2 green 8
+black 2 green 6 black 2 black 2
+black 2 green 6 black 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+green 2 black 2 green 2 black 2 green 2 black 2
+green 2 black 2 green 2 black 2 green 2 black 2
+black 2 black 2 green 2 black 2 black 2 green 2
+black 2 black 2 green 2 black 2 black 2 green 2
+
+columns
+green 2 black 2 green 2 black 2 green 2 black 2
+green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 6 black 2 black 2
+black 2 green 6 black 2 black 2
+green 6 red 2 green 8
+green 6 red 2 green 8
+black 2 green 6 black 2 black 2
+black 2 green 6 black 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+black 2 green 2 black 2 green 2 black 2 green 2 black 2
+green 2 black 2 green 2 black 2 green 2 black 2
+green 2 black 2 green 2 black 2 green 2 black 2
+black 2 black 2 green 2 black 2 black 2 green 2
+black 2 black 2 green 2 black 2 black 2 green 2

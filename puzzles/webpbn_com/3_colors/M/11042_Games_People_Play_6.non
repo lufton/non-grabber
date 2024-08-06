@@ -1,0 +1,61 @@
+by "Trish (tryingmysoul)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Trish"
+date "Nov 16, 2010"
+description "Bowling Bowl ING"
+difficulty 1.5
+height 20
+id 11042
+link "https://webpbn.com/play.cgi?id=11042"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Games People Play #6"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+blue 1 black 10 blue 1
+blue 2 black 8 blue 2
+blue 10
+blue 8
+blue 6
+blue 4
+0
+0
+0
+blue 4 blue 3 blue 2 blue 5
+blue 2 blue 4 blue 2 blue 5
+blue 2 blue 2 blue 2 blue 2 blue 2 blue 1
+blue 2 blue 2 blue 4 blue 2
+blue 2 blue 2 blue 3 blue 2
+blue 2 blue 2 blue 2 blue 2
+blue 2 blue 2 blue 2 blue 2 blue 2
+blue 2 blue 2 blue 2 blue 2 blue 1
+blue 2 blue 2 blue 2 blue 5
+blue 4 blue 2 blue 2 blue 5
+
+columns
+blue 1 blue 1
+blue 10
+blue 10
+blue 1 blue 1
+blue 2
+black 1 blue 2
+black 2 blue 2 blue 10
+black 2 blue 3 blue 10
+black 2 blue 4 blue 2
+black 2 blue 4 blue 2
+black 2 blue 4 blue 2
+black 2 blue 4 blue 2
+black 2 blue 3 blue 10
+black 2 blue 2 blue 10
+black 1 blue 2
+blue 2 blue 10
+blue 10
+blue 2 blue 2
+blue 2 blue 1 blue 2
+blue 3 blue 4

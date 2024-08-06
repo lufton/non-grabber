@@ -1,0 +1,31 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Wombat"
+date "Apr 17, 2012"
+description "A cat"
+difficulty 1.0
+height 5
+id 18354
+link "https://webpbn.com/play.cgi?id=18354"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "minimalist animal 5"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 2 black 2
+black 1 black 1
+0
+green 1 green 1
+black 1
+
+columns
+black 2
+black 1 green 1
+black 1
+black 1 green 1
+black 2

@@ -1,0 +1,57 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "Apr 17, 2011"
+description "I love ten pin bowling."
+difficulty 2.25
+height 20
+id 13414
+link "https://webpbn.com/play.cgi?id=13414"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "I haven't played in awhile."
+width 20
+
+rows
+2,5
+4,2,1
+6,2,1,1
+2,3,1,1,2
+5,1,3
+12
+2,3
+2,2
+1,2
+2,2,2
+3,2,1,2,2
+4,1,3,2,4
+6,5,6
+4,7,6
+3,8,6
+1,2,1,1
+2,2,3
+1,1,4
+2,2,5
+5
+
+columns
+2,6,3
+4,8,2
+4,5,1
+2,3,4
+2,1,2,2
+3,3,2,1
+3,2,2
+6,3
+4,4
+6,5
+3,1,4
+1,1,1,3
+1,1,1,3,6
+2,5,2,3
+2,3,8
+2,3,2
+2,4,1
+2,5
+2,5
+1,4

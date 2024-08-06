@@ -1,0 +1,48 @@
+by "Jill Tallmer (Yidl)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Jill Tallmer"
+date "Jul 17, 2016"
+description "1944 movie"
+difficulty 1.25
+height 15
+id 28415
+link "https://webpbn.com/play.cgi?id=28415"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Another Ã  la Norma #16 (dropped letter)"
+width 11
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 9
+blue 1 green 7 blue 1
+blue 1 green 1 black 5 green 1 blue 1
+blue 2 green 1 black 1 black 1 green 1 blue 2
+blue 1 green 2 black 1 black 1 green 2 blue 1
+blue 1 green 1 black 3 black 3 green 1 blue 1
+blue 1 green 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 2 black 2 green 1 blue 1
+blue 1 green 2 black 1 black 1 green 2 blue 1
+blue 2 green 1 black 1 black 1 green 1 blue 2
+blue 1 green 2 black 1 black 1 black 1 green 2 blue 1
+blue 1 green 1 black 2 black 1 black 2 green 1 blue 1
+blue 1 green 1 black 1 black 1 black 1 green 1 blue 1
+blue 1 green 1 black 7 green 1 blue 1
+blue 1 green 9 blue 1
+
+columns
+blue 12
+blue 4 green 5 blue 1 green 5
+blue 1 green 4 black 3 green 3 black 3 green 1
+blue 1 green 1 black 4 black 5 black 1 green 1
+blue 1 green 1 black 1 black 1 black 1 green 1
+blue 1 green 1 black 1 black 4 green 1
+blue 1 green 1 black 1 black 1 black 1 green 1
+blue 1 green 1 black 4 black 5 black 1 green 1
+blue 1 green 4 black 3 green 3 black 3 green 1
+blue 4 green 5 blue 1 green 5
+blue 12

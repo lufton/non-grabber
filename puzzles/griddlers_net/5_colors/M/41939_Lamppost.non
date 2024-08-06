@@ -1,0 +1,69 @@
+by "komplexyapi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/24/07"
+height 32
+id 41939
+link "https://www.griddlers.net/nonogram/-/g/41939"
+medium_time "0:09:10"
+points 6860
+popularity 69.58
+title "Lamppost"
+width 15
+
+color a ffffff
+color b 000000
+color c 969696
+color d 666666
+color e ffffcc
+
+rows
+c 6
+c 2 e 4 c 2
+c 1 e 8 c 1
+c 1 e 3 e 3 c 1
+c 2 e 2 e 2 c 2
+c 1 e 2 e 2 c 1
+c 1 e 2 e 2 c 1
+c 1 e 2 e 2 c 1
+c 1 e 2 e 2 c 1
+c 2 e 2 e 2 c 2
+c 1 e 3 e 3 c 1
+c 1 e 8 c 1
+c 2 e 4 c 2
+b 2 c 6 b 2
+b 3 c 1 d 2 b 6
+b 2 c 1 d 2 b 5
+b 8
+b 6
+b 2 c 1 d 1 b 2
+b 2 d 2 b 2
+b 2 d 2 b 2
+b 4
+b 4
+b 1 c 1 b 2
+b 1 c 1 b 2
+b 2 c 1 b 3 d 1 d 1
+b 2 c 1 b 5 d 1 d 1
+b 2 c 2 b 6 d 1
+b 2 c 1 d 2 b 6
+b 1 d 2 c 1 d 1 c 1 b 4
+b 2 d 3 b 3
+b 4
+
+columns
+c 6
+c 2 e 4 c 2 b 1
+c 1 e 8 c 1 b 3 b 3
+c 1 e 3 e 3 c 1 b 4 b 3 d 1 b 1
+c 2 e 2 e 2 c 4 b 5 b 2 c 2 d 1 b 1
+c 1 e 2 e 2 c 1 d 2 b 10 c 2 d 1 c 1 d 1 b 1
+c 1 e 2 e 2 c 1 d 2 b 2 c 1 d 2 b 2 c 3 b 2 d 3 b 1
+c 1 e 2 e 2 c 1 b 4 d 3 b 8 c 1 d 1 b 1
+c 1 e 2 e 2 c 1 b 18
+c 2 e 2 e 2 c 2 b 7 b 6
+c 1 e 3 e 3 c 1 b 4 b 5
+c 1 e 8 c 1 b 3 d 1 b 3
+c 2 e 4 c 2 b 1 d 1 b 1
+c 6 d 1 d 1
+d 1

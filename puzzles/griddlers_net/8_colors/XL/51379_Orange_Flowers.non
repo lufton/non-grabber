@@ -1,0 +1,89 @@
+by "fb16"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/8/07"
+height 35
+id 51379
+link "https://www.griddlers.net/nonogram/-/g/51379"
+medium_time "0:58:24"
+points 45355
+popularity 89.93
+title "Orange Flowers"
+width 29
+
+color a ffffff
+color b 99cc00
+color c 009900
+color d 015301
+color e 540202
+color f ffda6a
+color g f29b04
+color h d95700
+
+rows
+b 1
+b 3 d 1
+f 2 b 2 d 2 b 1
+f 1 g 3 f 2 b 2 d 1 b 1 c 1
+f 1 g 3 f 1 g 2 d 2 b 2 c 1
+f 2 g 2 h 1 f 1 g 4 d 2 b 3 c 1
+f 2 g 2 g 1 h 1 g 2 h 2 g 1 d 1 c 1 b 1 c 1 b 1 c 2
+f 1 g 4 e 2 h 3 d 2 b 2 c 1 b 1 c 4
+g 4 e 2 h 1 g 3 d 1 b 1 c 1 b 1 c 1 b 2 c 3
+f 4 g 1 h 1 g 1 h 1 g 2 c 1 b 1 c 1 b 2 c 5
+b 1 f 1 g 4 g 1 c 2 b 1 f 1 b 2 c 4
+c 1 b 1 d 1 d 1 g 4 c 1 f 2 b 1 c 5
+c 1 b 2 d 1 d 2 g 2 f 2 g 1 f 1 c 1 g 2 c 1
+c 4 d 1 d 1 f 1 g 7
+c 2 d 2 d 1 f 2 f 1 g 2 h 1 g 5
+d 1 d 1 b 2 f 2 g 2 g 1 h 1 g 6
+d 3 b 4 f 1 g 4 e 2 g 5
+d 2 b 3 f 2 g 4 e 2 h 2 g 2
+b 4 c 2 b 3 f 2 g 1 f 1 g 1 h 1 g 2 h 1
+b 4 c 7 b 3 f 1 g 1 h 1 g 4
+c 5 b 1 c 5 f 1 g 2 h 1 g 5
+f 1 g 2 c 3 g 2 c 3 f 1 g 3 g 4
+f 1 g 4 c 1 g 4 c 3 f 1 g 1 g 2
+f 1 g 4 h 1 g 4 c 2 c 2
+b 1 d 2 f 1 g 2 h 1 g 4 h 1 d 3 c 6
+b 2 c 1 g 1 h 1 g 1 h 3 g 1 d 1 d 1 c 1 b 2 c 5
+b 2 c 2 f 1 g 2 e 2 h 1 g 4 c 1 d 1 c 1 b 4 c 2
+b 1 c 3 f 1 g 3 e 2 h 1 g 4 c 4 b 1 c 1 b 1 c 1 b 2
+c 4 f 2 g 3 h 1 g 6 c 5 b 1 c 1 b 1 c 2
+f 2 g 2 f 1 g 2 h 1 g 2 c 6 b 3
+f 1 g 4 c 3 b 1 c 1 b 1 c 1 b 2
+f 2 g 3 c 3 b 1 c 2 b 2
+f 1 g 1 c 2 b 1 c 1 b 1 c 1 b 1
+c 1 b 1 c 1
+c 1
+
+columns
+c 1
+b 2 c 1
+b 2 c 2
+b 2 c 3
+b 1 c 3 c 3
+b 2 c 2 b 1 d 1 f 1
+d 1 b 1 c 2 b 1 f 2 d 1 f 3
+d 1 c 1 d 2 b 1 c 1 f 1 g 2 f 1 f 1 g 2 f 2
+f 2 d 2 d 1 b 2 c 1 g 4 g 4
+f 2 g 2 f 1 d 1 b 1 c 2 g 9 f 1
+f 1 g 3 f 1 d 2 b 1 c 3 g 2 h 2 e 2 h 1 f 1 g 1 f 1
+f 2 g 3 f 2 d 2 d 1 b 1 c 4 h 1 g 2 e 2 g 4 f 1
+f 1 g 3 g 2 f 1 g 2 d 4 b 2 c 2 b 1 c 1 g 3 h 3 g 5
+f 1 g 4 e 2 g 4 b 3 c 3 g 4 h 1 g 3 h 1 g 2
+g 2 h 2 e 2 h 1 g 3 b 4 c 2 g 4 h 1 g 4
+f 1 g 1 h 2 g 3 b 1 f 1 b 1 c 3 g 2 h 1 g 5
+f 2 g 2 h 1 g 1 h 1 f 3 b 2 c 4 d 1 g 3
+f 1 g 2 h 2 g 3 f 2 g 2 f 1 b 1 c 4 d 1 c 2
+g 2 h 1 d 1 g 2 f 1 g 3 f 1 b 1 f 2 c 1 d 1 c 4
+g 2 d 2 c 2 g 4 f 1 g 2 f 1 d 2 c 6
+b 3 d 2 b 2 c 2 f 3 g 2 f 1 g 4 c 1 d 1 c 6
+b 3 d 2 b 1 c 2 b 1 f 2 g 3 e 2 g 1 h 2 g 1 c 1 b 1 c 1 b 1 c 2 b 1 c 2
+b 2 d 3 b 3 f 2 g 3 h 1 e 2 h 1 g 2 c 2 b 2 c 1 b 1 c 2 b 2
+d 2 c 3 b 3 f 1 g 1 h 1 g 2 h 1 g 4 c 3 b 2 c 2 b 1 c 3
+b 4 c 1 b 1 c 2 g 4 h 1 g 5 c 2 b 1 c 1 b 2 c 2 b 2
+b 2 c 2 b 1 c 3 g 6 h 1 g 4 c 2 b 2 c 1 b 3 c 3
+b 4 c 5 g 6 g 2 c 3 b 1 c 1 b 4
+b 1 c 10 g 4 c 2
+c 6 g 2

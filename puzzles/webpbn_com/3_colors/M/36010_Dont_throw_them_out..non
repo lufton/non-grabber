@@ -1,0 +1,61 @@
+by "Susan Eberhardt (susaneber)"
+collection "webpbn.com"
+copyright "(c) Copyright 2022 by Susan Eberhardt"
+date "Oct 23, 2022"
+description "Use the eyes, nose and mouth you cut from your pumpkin to make a tiny pie in a toy oven. Recipe in comments."
+difficulty 1.75
+height 20
+id 36010
+link "https://webpbn.com/play.cgi?id=36010"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Don't throw them out."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 1 black 1 red 1 black 1
+red 3 black 1 red 3 black 1
+red 4 black 1 red 4 black 1
+red 6 black 1 red 6 black 1
+red 8 black 1 red 8 black 1
+black 10 black 9
+0
+red 1 black 1
+red 3 black 1
+red 5 black 1
+black 6
+0
+red 3 black 1 red 3 black 1 red 3 black 1
+red 5 black 1 red 3 black 1 red 3 black 1
+red 16 black 1
+red 4 black 2 red 3 black 3 red 3 black 1
+red 3 black 1 red 3 black 1 red 3 black 1
+black 3 black 3 black 3
+
+columns
+red 1 black 1
+red 2 black 1 red 2
+red 3 black 1 red 2
+red 4 black 1 red 4
+red 5 black 1 red 5 black 1
+black 1 red 4 black 1 red 5 black 1
+black 2 red 2 black 1 black 2 red 3 black 1
+black 1 red 1 black 1 red 1 black 1 red 1 black 2
+black 2 red 2 black 1 red 3 black 1
+black 1 red 3 black 1 red 5 black 1
+black 1 red 2 black 1 red 5 black 1
+red 1 black 1 black 1 red 1 black 1 black 2 red 3 black 1
+red 2 black 1 black 2 red 1 black 2
+red 3 black 1 red 1 black 1
+red 4 black 1 red 3 black 1
+red 5 black 1 red 5 black 1
+black 1 red 4 black 1 red 5 black 1
+black 2 red 2 black 1 black 3 red 2 black 1
+black 1 red 1 black 1 black 2
+black 2

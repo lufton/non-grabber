@@ -1,0 +1,33 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Joe"
+date "Mar 24, 2014"
+description "In this puzzle, there are no overlapping colors in any of the rows, columns, or 45ÃÂ° diagonals."
+difficulty 1.5
+height 5
+id 24070
+link "https://webpbn.com/play.cgi?id=24070"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "25 Queens"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 1 blue 1 red 1
+red 1 black 1 green 1 blue 1
+green 1 blue 1 red 1 black 1
+red 1 black 1 green 1 blue 1
+blue 1 red 1 black 1 green 1
+
+columns
+black 1 green 1 red 1 blue 1
+green 1 red 1 blue 1 black 1
+blue 1 black 1 green 1 red 1
+green 1 red 1 blue 1 black 1
+red 1 blue 1 black 1 green 1

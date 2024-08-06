@@ -1,0 +1,53 @@
+by "Bill Eisenmann (Bullet)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Bill Eisenmann"
+date "Jan 13, 2024"
+description "I use these oddly shaped moons/space clouds that orbit the Earth to make everyone happy. They are visible on rainy and sunny days. (Alex is now 11)"
+difficulty 1.5
+height 15
+id 38186
+link "https://webpbn.com/play.cgi?id=38186"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "Alex's space smiles"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 blue 1 black 11
+blue 1 black 11
+blue 3 black 3 black 4
+black 5 green 1 green 1 black 3
+black 4 black 2
+black 3 green 2 green 2 black 1
+black 3 green 4 black 1
+black 15
+black 4 green 3 blue 2 black 6
+black 3 blue 1 red 2 blue 1 green 1 red 2 black 5
+black 2 blue 1 green 1 red 2 blue 2 red 2 green 1 black 4
+black 2 blue 2 green 2 blue 1 green 4 black 4
+black 2 blue 1 red 2 blue 3 green 1 red 2 black 4
+black 3 blue 1 green 1 red 4 blue 1 black 5
+black 15
+
+columns
+blue 1 blue 1 black 12
+blue 1 black 12
+blue 1 blue 1 black 7 blue 3 black 2
+blue 1 black 3 black 2 blue 1 green 1 blue 1 red 1 blue 1 black 1
+black 4 green 1 black 1 green 1 red 2 green 1 red 1 green 1 black 1
+black 3 green 1 black 1 green 1 red 2 green 1 blue 1 red 1 black 1
+black 2 green 1 green 1 black 1 green 1 blue 4 red 1 black 1
+black 2 green 1 black 1 blue 1 green 1 blue 1 green 1 blue 1 red 1 black 1
+black 2 green 1 black 1 blue 1 red 2 green 2 red 1 black 1
+black 2 green 1 green 1 black 2 red 2 green 1 red 1 blue 1 black 1
+black 2 green 1 black 3 green 2 red 1 black 2
+black 3 green 1 black 8
+black 4 black 8
+black 5 black 8
+black 15

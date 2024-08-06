@@ -1,0 +1,53 @@
+by "Koldin Banks (Pizzaheadnascar22)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Koldin Banks"
+date "Jan 10, 2023"
+description "Mario's Mushroom"
+difficulty 1.5
+height 16
+id 36332
+link "https://webpbn.com/play.cgi?id=36332"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Time to go big!"
+width 16
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 8
+black 3 red 4 black 3
+black 2 red 4 black 2
+black 1 red 6 black 1
+black 2 red 2 red 2 black 2
+black 1 red 3 red 5 black 1
+black 1 red 3 red 2 red 1 black 1
+black 1 red 2 red 1 black 1
+black 1 red 2 red 2 black 1
+black 1 red 10 red 1 black 1
+black 1 red 2 black 8 red 3 black 1
+black 5 black 1 black 1 black 5
+black 2 black 1 black 1 black 1
+black 1 black 1
+black 2 black 2
+black 10
+
+columns
+black 8
+black 3 red 2 black 2
+black 2 red 3 red 1 black 4
+black 1 red 7 black 1 black 2
+black 2 red 2 red 2 black 2 black 1
+black 1 red 3 red 1 black 1 black 1
+black 1 red 3 red 1 black 3 black 1
+black 1 red 3 red 1 black 1 black 1
+black 1 red 3 red 1 black 1 black 1
+black 1 red 2 red 2 black 3 black 1
+black 1 red 6 black 1 black 1
+black 2 red 2 red 1 black 2 black 1
+black 1 red 1 red 2 black 1 black 2
+black 2 red 1 red 1 black 4
+black 3 red 2 red 2 black 1
+black 8

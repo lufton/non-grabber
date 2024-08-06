@@ -1,0 +1,113 @@
+by "GICaesar"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/24/05"
+height 47
+id 27297
+link "https://www.griddlers.net/nonogram/-/g/27297"
+medium_time "0:27:12"
+points 77068
+popularity 59.38
+title "Baby"
+width 43
+
+color a ffffff
+color d 000000
+color e ffd6ad
+color f ff9999
+color g ffcccc
+color h d98282
+
+rows
+d 3 d 2
+d 4 d 2
+d 4 d 8 d 1
+d 7 d 2 d 2
+d 1 d 8 d 1
+d 17
+d 9 d 3
+g 13 d 3
+g 3 e 11 g 2 d 3
+g 2 e 15 g 3 d 2
+g 1 e 5 d 3 e 12 g 1 d 2
+g 1 e 6 d 1 e 5 d 2 e 8 g 2
+g 1 e 5 d 1 e 7 d 2 e 9 g 1
+g 1 e 14 d 1 e 10 g 1
+g 1 e 15 d 1 e 10 g 2
+g 1 e 6 g 2 e 6 d 1 e 12 g 1
+g 1 e 4 g 2 g 1 e 3 g 3 e 13 g 1
+g 1 e 5 g 1 g 1 e 3 g 1 g 1 e 12 g 1
+g 1 e 5 g 1 g 1 e 2 g 1 g 1 e 11 g 1
+g 5 e 5 g 1 d 2 g 1 e 2 g 1 g 1 e 12 g 1
+g 1 e 4 g 1 e 5 g 1 d 2 g 1 e 2 g 1 g 1 e 11 g 1
+g 1 e 2 g 2 e 1 g 1 e 5 g 1 d 2 g 1 e 2 g 1 g 1 e 11 g 1
+g 1 e 3 g 3 e 5 g 1 g 1 e 3 g 1 d 2 g 1 e 10 g 1
+g 1 e 4 g 2 e 3 g 6 e 3 g 1 d 2 g 1 e 10 g 1
+g 1 e 3 g 1 e 3 g 2 e 4 g 1 e 3 g 1 d 2 g 1 e 11 g 1
+g 3 e 10 g 2 e 2 g 2 g 2 e 11 g 1
+g 1 e 11 g 2 e 4 g 2 e 13 g 1
+g 1 e 12 g 1 e 18 g 2 g 2
+g 1 e 31 g 3 e 2 g 2
+g 1 e 12 g 3 e 18 g 3 e 2 g 1
+g 1 e 11 g 1 h 3 g 1 e 17 g 1 e 3 g 2
+g 1 e 11 g 1 h 1 h 2 g 1 e 16 g 1 e 4 g 1
+g 1 e 11 g 1 h 1 h 2 g 1 e 15 g 1 e 2 g 2
+g 1 e 11 g 1 h 2 h 2 g 1 e 15 g 3
+g 1 e 10 g 1 h 5 g 1 e 15 g 1
+g 1 e 9 g 1 h 6 g 1 e 14 g 1
+g 1 e 9 g 1 h 6 g 1 e 14 g 1
+g 2 e 7 g 1 h 2 f 3 h 2 g 1 e 13 g 1
+g 2 e 7 g 1 f 5 h 1 g 1 e 13 g 1
+g 2 e 7 g 1 f 5 g 1 e 12 g 1
+g 3 e 6 g 1 f 4 g 1 e 12 g 1
+g 2 e 5 g 1 f 3 g 1 e 12 g 1
+g 1 e 4 g 1 f 3 g 1 e 11 g 1
+g 1 e 4 g 3 e 10 g 2
+g 1 e 8 g 9
+g 2 e 3 g 3
+g 3
+
+columns
+g 3
+g 1 e 3 g 1
+g 1 e 5 g 1
+g 1 e 1 g 1 e 3 g 9
+g 1 e 1 g 2 e 2 g 1 e 8 g 1
+g 1 e 2 g 3 e 10 g 2
+g 7 e 13 g 1
+g 3 e 20 g 2
+g 3 e 24 g 2
+g 1 e 13 g 1 e 14 g 2
+g 1 e 13 g 2 e 15 g 1
+d 1 g 1 e 13 g 1 e 16 g 2
+d 1 d 2 g 1 e 7 g 8 e 17 g 1
+d 1 d 1 d 1 g 1 e 7 g 1 g 1 e 18 g 1
+d 1 d 1 d 1 g 2 e 3 d 1 e 2 g 1 d 3 g 1 e 19 g 2
+d 2 d 1 d 1 g 1 e 2 d 2 e 3 g 1 d 3 g 5 e 3 g 8 e 7 g 1
+d 3 d 1 g 1 e 2 d 1 e 5 g 6 e 3 g 3 e 1 g 1 h 8 g 1 e 6 g 1
+d 3 d 2 g 1 e 2 d 1 e 18 g 1 h 1 h 5 f 1 g 1 e 6 g 1
+d 6 g 1 e 21 g 1 h 2 h 3 f 3 g 3 e 3 g 1
+d 1 d 5 g 1 e 10 g 8 e 4 g 1 h 6 f 6 g 1 e 2 g 1
+d 7 g 1 e 8 g 2 g 1 e 5 g 1 h 5 f 6 g 1 e 1 g 1
+d 6 g 1 e 3 d 1 e 4 g 1 d 3 g 1 e 5 g 3 h 3 f 5 g 1 e 1 g 1
+d 1 d 3 g 1 e 3 d 2 e 2 d 1 g 1 d 3 g 1 e 8 g 2 h 2 f 2 g 2 e 2 g 1
+d 5 g 1 e 4 d 3 e 2 g 1 g 1 e 11 g 4 e 3 g 1
+d 4 g 1 e 10 g 2 g 2 e 18 g 1
+d 1 d 3 g 1 e 12 g 4 e 20 g 1
+d 1 d 1 g 2 e 35 g 1
+d 4 g 2 e 34 g 1
+d 4 g 1 e 34 g 1
+d 3 g 1 e 34 g 1
+d 3 g 1 e 33 g 1
+d 2 g 1 e 32 g 1
+d 1 g 1 e 31 g 1
+g 1 e 30 g 1
+g 2 e 27 g 1
+g 2 e 11 g 2 e 12 g 1
+g 3 e 3 g 7 e 10 g 2
+g 3 g 11
+g 1 e 1 g 1 e 3 g 1
+g 1 e 1 g 1 e 3 g 1
+g 1 e 3 g 1
+g 1 e 1 g 1 e 1 g 1
+g 3

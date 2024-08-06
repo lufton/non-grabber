@@ -1,0 +1,57 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Kurt Kowalczyk"
+date "Jun  8, 2013"
+description "mid wind-up...not a particularly good image, but a tricky solve. Happy belated Birthday!"
+difficulty 3.5
+height 20
+id 22044
+link "https://webpbn.com/play.cgi?id=22044"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "California ballplayer....(for dbouldin)"
+width 20
+
+rows
+5,5
+2,2,2,2
+1,1,1,1,1
+2,1,2,1
+1,2,2,2,1,1
+1,1,1,2,2
+2,2,1,1,2
+1,4,2,1
+4,1,1,1,1
+1,2
+3,7,1,1
+6,5,2,1
+3,6,2
+2,4,4,2,1
+2,2,5,2,2
+1,5,4
+1,3,2
+5,1
+3,3
+3,3
+
+columns
+2,1,1,6
+2,6
+1,2,3
+1,1,1,1,2
+1,2,2,1,2
+2,4,1,2,1
+4,4,2,2
+3,2,3,1,3
+3,5
+8,1
+2,10
+3,6,3
+2,1,2,1
+4,2
+2,1,1,2,2
+1,2,3
+1,1,2
+1,2,1,1,4
+2,1,4
+4,3,3

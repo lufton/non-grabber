@@ -1,0 +1,42 @@
+by "bart88"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/2/08"
+height 11
+id 60752
+link "https://www.griddlers.net/nonogram/-/g/60752"
+medium_time "0:00:45"
+points 402
+popularity 60.35
+title "Window"
+width 11
+
+color a ff0066
+color b 999999
+color c ffffff
+
+rows
+b 11
+b 1 c 1 b 1 c 1 b 1
+b 1 c 1 b 1 c 1 b 1
+b 1 c 1 b 1 c 1 b 1
+b 1 c 1 b 1 c 2 b 1
+b 11
+b 1 c 1 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 3 b 1
+b 1 c 3 b 1 c 3 b 1
+b 11
+
+columns
+b 11
+b 1 b 1 b 1
+b 1 b 1 c 1 b 1
+b 1 b 1 c 3 b 1
+b 1 c 4 b 1 c 4 b 1
+b 11
+b 1 c 4 b 1 c 4 b 1
+b 1 c 1 b 1 c 4 b 1
+b 1 b 1 c 2 b 1
+b 1 b 1 b 1
+b 11

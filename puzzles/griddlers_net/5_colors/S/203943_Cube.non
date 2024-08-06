@@ -1,0 +1,52 @@
+by "notmario"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/18/19"
+height 15
+id 203943
+link "https://www.griddlers.net/nonogram/-/g/203943"
+medium_time "0:02:20"
+points 996
+popularity 74.11
+title "Cube"
+width 15
+
+color a ffffff
+color b 000000
+color c ff0000
+color d 00ff00
+color e 0000ff
+
+rows
+b 1
+b 2 d 1 b 2
+b 2 d 5 b 2
+b 2 d 9 b 2
+b 1 d 13 b 1
+b 3 d 9 b 3
+b 1 c 2 b 2 d 5 b 2 e 2 b 1
+b 1 c 4 b 2 d 1 b 2 e 4 b 1
+b 1 c 6 b 1 e 6 b 1
+b 1 c 6 b 1 e 6 b 1
+b 1 c 6 b 1 e 6 b 1
+b 2 c 4 b 1 e 4 b 2
+b 2 c 2 b 1 e 2 b 2
+b 5
+b 1
+
+columns
+b 7
+b 1 d 1 b 1 c 5 b 1
+b 1 d 1 b 1 c 5 b 1
+b 1 d 3 b 1 c 5 b 1
+b 1 d 3 b 1 c 5 b 1
+b 1 d 5 b 1 c 5 b 1
+b 1 d 5 b 1 c 5 b 1
+b 1 d 7 b 7
+b 1 d 5 b 1 e 5 b 1
+b 1 d 5 b 1 e 5 b 1
+b 1 d 3 b 1 e 5 b 1
+b 1 d 3 b 1 e 5 b 1
+b 1 d 1 b 1 e 5 b 1
+b 1 d 1 b 1 e 5 b 1
+b 7

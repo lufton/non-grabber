@@ -1,0 +1,58 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Aldege Cholette"
+date "Jan  2, 2018"
+description "First person to guess correctly wins an FBA."
+difficulty 2.5
+height 20
+id 30696
+link "https://webpbn.com/play.cgi?id=30696"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Guess what Santa brought Destyny for Christmas?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 5
+blue 2 blue 2
+blue 2 blue 2
+blue 1 blue 2
+blue 2 blue 1
+blue 1 red 1 blue 2
+blue 1 black 1 blue 1
+blue 2 black 1 red 1 black 3 blue 1
+blue 1 red 1 black 1 blue 2
+blue 2 green 1 black 2 green 2 blue 1
+blue 1 green 1 black 2 blue 1
+blue 1 black 1 blue 1
+blue 1 black 1 red 1 black 1 red 2 blue 1
+blue 1 black 2 blue 1
+blue 2 red 1 black 1 red 1 blue 2
+blue 2 black 2 blue 1
+blue 1 black 1 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 7
+
+columns
+blue 6
+blue 3 blue 2
+blue 4 green 1 blue 3
+blue 3 black 1 black 1 blue 2
+blue 2 red 2 red 1 blue 2
+blue 2 black 2 black 2 black 2 blue 1
+blue 1 black 1 black 1 red 1 black 1 blue 1
+blue 1 black 1 blue 1
+blue 1 green 1 red 1 blue 1
+blue 2 black 1 green 1 blue 1
+blue 2 black 2 red 1 blue 2
+blue 2 red 1 black 1 green 1 red 1 blue 2
+blue 3 black 2 blue 2
+blue 4 black 1 blue 3
+blue 7

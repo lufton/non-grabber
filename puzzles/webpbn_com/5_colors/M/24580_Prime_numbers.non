@@ -1,0 +1,63 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Thomas Genuine"
+date "Jun  1, 2014"
+description "This is NOT a picture but an idea. Red: Prime numbers (2 factors) Black: Power numbers (squares, cubes etc.) White: two prime factors, both are single Blue: more than two prime factors (each one is single) Green: has got power number (>1) as factor Attention! There are 3 colour mistakes (solvabilty!) Where are they? :)"
+difficulty 3.0
+height 20
+id 24580
+link "https://webpbn.com/play.cgi?id=24580"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Prime numbers"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 green 1 blue 1 green 2 red 1 blue 1 green 1 green 1 red 1 blue 1 black 1
+black 1 green 2 blue 1 red 1 green 2 blue 1 green 1 red 1 blue 1 green 2 green 1 red 1 green 1
+green 1 black 1 green 1 blue 1 red 1 green 1 red 1 green 3 red 1 blue 1 green 1 blue 1 red 1 green 1
+blue 1 black 1 green 1 green 1 blue 1 red 1 green 2 green 1 red 1 green 1 green 1
+green 1 green 1 red 1 green 1 blue 1 red 1 green 1 red 1 green 2 red 1 blue 1 green 1
+red 1 blue 1 red 1 green 1 blue 2 green 1 black 1 blue 1 green 1 red 1 green 1 green 2 green 1
+green 1 red 1 green 1 blue 1 green 1 red 1 green 1 red 1 green 1 blue 1 green 2 red 1 green 2
+red 1 green 1 black 1 green 2 blue 1 green 1 green 1 red 1 green 1 blue 1 black 1 red 1 blue 1 green 1
+blue 1 red 1 green 1 black 1 red 1 green 1 red 1 blue 2 green 1 red 1 green 1 green 1 blue 1 red 1 green 1
+green 1 green 2 blue 2 red 1 green 1 black 1 green 1
+red 1 blue 1 green 2 blue 1 green 2 blue 1 red 1 green 1 red 1 blue 1 black 1 red 1 green 1 red 1 green 1
+green 1 red 1 green 1 blue 1 red 1 green 1 black 1 blue 1 green 2 red 1 blue 1 green 2 red 1 green 1
+black 1 green 2 red 1 green 1 red 1 green 2 blue 1 green 1 red 1 green 1
+black 1 green 1 black 1 green 1 red 1 black 1 blue 1 red 1 green 1 green 2 red 1 blue 1 red 1 green 1
+red 1 blue 1 red 1 green 1 blue 1 red 1 green 1 red 1 blue 1 green 1 red 1 blue 1 green 2 green 1
+black 1 red 1 green 1 green 1 red 1 green 1 green 1 green 1 red 1 green 2 black 1
+red 1 green 1 black 1 blue 2 red 1 green 1 blue 1 red 1 green 1 red 1 green 2 blue 1 red 1 green 1
+red 1 blue 1 red 1 green 2 red 1 green 1 black 1 green 1 green 1 red 1 green 2 red 1 green 1
+red 1 green 1 black 1 black 1 green 1 red 1 blue 1 red 1 black 1 green 1 black 1 red 1 green 1
+black 1 red 2 black 1 red 1 red 1 black 2 red 1 green 1 red 1 black 1 red 1 green 1 red 1 green 1
+
+columns
+black 1 red 1 green 1 red 1 red 1 black 1 red 1 black 1 red 2 black 1
+green 1 blue 1 blue 1 green 1 blue 1 blue 1 green 1 blue 1 blue 1 red 1
+red 1 green 1 black 1 red 2 black 1 red 1 red 1 red 2 green 1 red 3
+green 3 black 1 green 8 black 1 green 3 black 1 green 2 black 1
+blue 1 blue 1 green 1 blue 1 green 1 black 1 green 1 blue 1 black 1 blue 1 blue 1 green 1 black 1 red 1
+blue 1 green 1 blue 3 blue 1 green 1 blue 1
+green 1 red 2 red 1 red 1 green 1 red 1 green 1 red 2 red 2 black 1 red 1
+green 13 black 1 green 5 black 1
+red 1 green 1 red 1 black 1 red 1 red 1 blue 1 green 1 black 1 red 1 red 2 black 1 red 1 black 1
+blue 2 green 1 blue 3 green 2 blue 4 green 1 blue 2 green 1 blue 1 green 1 blue 1
+green 1 red 2 red 2 blue 1 red 2 green 1 red 2 red 1 red 2
+green 18 black 1 green 1
+red 2 green 1 red 2 blue 1 red 1 red 2 green 1 red 1 red 2 red 1
+blue 2 green 1 green 1 blue 2 blue 1 green 1
+green 1 green 1 green 1 blue 1 blue 1 green 1 green 1 green 2
+green 7 black 1 green 1 black 2 green 7 black 2
+red 1 blue 1 red 2 green 1 red 2 red 1 red 2 green 1 red 1 red 2
+green 1 green 1 blue 1 blue 2 green 1 blue 1 green 1 blue 1 green 1
+blue 1 red 2 green 1 red 1 red 2 red 1 green 1 red 2 red 1
+black 1 green 14 black 1 green 4

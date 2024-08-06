@@ -1,0 +1,72 @@
+by "Jota (Jota)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Jota"
+date "Aug  8, 2008"
+description "my own square version ..."
+difficulty 1.5
+height 20
+id 3235
+link "https://webpbn.com/play.cgi?id=3235"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Apropo ..."
+width 35
+
+rows
+0
+0
+0
+10,10,10
+10,10,10
+2,2,2,2,2,2
+2,2,2,2,2,2
+2,2,2,2,2,2
+2,10,10,2
+2,10,10,2
+2,2,2,2,1,1,2,2,2,2
+10,10,10
+10,10,10
+2,2,2,2
+2,2,2,2
+2,2,2,2
+10,10
+10,10
+0
+0
+
+columns
+0
+10
+10
+2,2
+2,2
+2,2
+2,10
+2,10
+2,2,2,2
+10,2
+10,2
+2,2
+10,2
+10,2
+2,2,7
+2,10
+2,2
+2,2
+2,10
+2,2,7
+10,2
+10,2
+2,2
+10,2
+10,2
+2,2,2,2
+2,10
+2,10
+2,2
+2,2
+2,2
+10
+10
+0
+0

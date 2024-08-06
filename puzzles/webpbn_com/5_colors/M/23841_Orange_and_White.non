@@ -1,0 +1,63 @@
+by "Maggie Law (gryphon9090)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Maggie Law"
+date "Feb 15, 2014"
+description ""
+difficulty 3.0
+height 20
+id 23841
+link "https://webpbn.com/play.cgi?id=23841"
+note "published,definitely non-unique,may require some guessing"
+quality 3.0
+title "Orange and White"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 1
+red 1 blue 1 red 1 blue 2
+red 2 red 2 blue 1
+red 1 red 3 red 1 blue 1 blue 1
+blue 1 red 1 red 1 blue 3
+blue 3 blue 1 red 1 black 1 black 1 red 1 blue 3 blue 1
+blue 4 red 2 red 3 blue 2
+red 1 red 1 red 2 blue 3
+red 1 black 1 red 1 red 1
+red 1 red 2
+green 3 red 1 red 2
+green 1 red 1 red 2 green 2
+green 2 red 3 red 2 green 1
+green 2 green 1 red 5 red 1 red 2
+green 1 green 3 red 2 red 4 red 2
+green 2 red 4 red 4 red 3
+green 1 green 2 red 4 red 4 red 3
+green 2 green 1 red 9
+green 1 green 2 red 10
+red 8
+
+columns
+blue 1 green 1 green 2
+blue 2 green 1 green 2 green 2
+blue 3 green 1
+blue 1 green 3 green 2
+blue 2 green 1 green 4
+red 6 green 1
+blue 2 red 1 red 2 green 2 red 2 green 1
+blue 1 red 1 black 1 red 1 red 2 green 1
+red 1 black 1 red 8
+red 1 black 1 red 1 red 5
+red 1 red 2 red 2 red 1
+red 6 red 2 red 3
+blue 1 red 2 red 7
+blue 1 red 3 red 6
+blue 3 red 2 red 7
+blue 1 red 2 red 5
+blue 2 blue 4 red 2 red 3
+blue 2 blue 2 red 2 red 5
+blue 1 green 2 red 7
+blue 1 green 1 red 5

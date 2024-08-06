@@ -1,0 +1,67 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by valerie o..travis"
+date "Mar 21, 2014"
+description "...Hand truck"
+difficulty 2.0
+height 29
+id 24064
+link "https://webpbn.com/play.cgi?id=24064"
+note "published,definitely unique,may require moderate lookahead"
+quality 3.5
+title "Truck..."
+width 17
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3
+red 3
+red 5
+red 2 red 1 red 2
+red 1 red 1 red 1
+red 1 red 1 red 1
+red 1 red 1 red 1
+red 1 red 1 red 1
+red 1 red 3 red 1
+red 7
+red 2 red 1 red 2
+red 1 red 1 red 1
+red 1 red 1 red 1
+red 1 red 1 red 1
+red 1 red 1 red 1
+red 1 red 1 red 2
+red 2 red 4
+red 3 red 2 red 1
+red 2 red 1 red 3 red 1
+red 1 red 7
+black 3 red 2 red 1 red 2 black 3
+black 1 black 3 red 1 red 1 red 2 black 3
+black 1 black 2 red 2 red 1 red 2 black 2
+black 1 black 2 red 2 red 1 red 3 black 2
+black 1 black 3 red 7 black 3
+black 3 red 1 red 1 black 3
+red 8
+red 8
+red 8
+
+columns
+black 4
+black 1 black 1
+black 2 black 2
+red 2 black 6
+red 2 black 4
+red 2 red 2
+red 24
+black 1 red 2 red 2 red 2 red 1 red 2
+black 1 red 2 red 2 red 2 red 1 red 3
+black 1 red 24 red 3
+red 2 red 2 red 4 red 1 red 3
+red 2 red 2 red 2 red 3 red 2 red 3
+red 26
+black 1 red 2 black 1 red 3
+black 2 black 2 red 2
+black 6 red 1
+black 4

@@ -1,0 +1,36 @@
+by "twoznia"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/24/07"
+height 10
+id 50820
+link "https://www.griddlers.net/nonogram/-/g/50820"
+medium_time "0:01:10"
+points 61
+popularity 44.68
+title "Bug"
+width 10
+
+rows
+4,4
+1,2,1
+1,6,1
+1,1,2,1,1
+4
+4
+1,2,1
+6
+2
+1,1
+
+columns
+4
+1
+1,2,2
+1,1,2,1,1
+8
+8
+1,1,2,1,1
+1,2,2
+1
+4

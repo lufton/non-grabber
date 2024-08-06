@@ -1,0 +1,48 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Jul 10, 2023"
+description "Bubbles, bubbles, bubbles!"
+difficulty 1.25
+height 12
+id 36660
+link "https://webpbn.com/play.cgi?id=36660"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Simple childhood pleasure..."
+width 13
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 red 3
+blue 2 blue 1 black 2 red 1
+blue 1 blue 1 blue 1 blue 1 red 1 black 2 red 1
+black 1 green 2 red 1
+green 4
+green 3
+blue 2 red 1
+blue 2 red 1
+blue 3 red 1
+blue 2 red 3
+blue 2 red 1 red 1
+black 2 red 1 red 1
+
+columns
+blue 1 blue 1
+blue 1
+blue 1
+blue 1
+blue 1
+blue 1
+0
+blue 1
+red 1 black 1 green 1 blue 2 black 1
+green 2 blue 3 black 1
+red 1 black 2 green 3 blue 3 red 3
+red 1 black 2 green 3 blue 3 red 1
+red 4 red 6

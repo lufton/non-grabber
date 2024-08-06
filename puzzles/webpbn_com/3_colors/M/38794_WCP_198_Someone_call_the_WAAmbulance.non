@@ -1,0 +1,61 @@
+by "Kristen Vognild (kristen)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Kristen Vognild"
+date "Aug  3, 2024"
+description "Just a tiny puzzle, before I get into the more detailed stuff. The worst part of the Olympics has been the whining and hand-wringing from people who don't know anything about French history or culture."
+difficulty 3.0
+height 20
+id 38794
+link "https://webpbn.com/play.cgi?id=38794"
+note "published,definitely unique,definitely requires deep lookahead"
+quality 3.5
+title "WCP #198 Someone call the WAAmbulance!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 3
+blue 2 blue 4
+blue 3 black 4 blue 2
+blue 4 black 1 black 1 blue 1
+blue 1 black 3 black 4
+black 2 black 2
+black 2 black 5 black 2
+black 1 black 7 black 2
+black 2 black 9 black 1
+black 2 black 9 black 2
+black 2 black 3 black 3 black 1
+black 2 black 2 black 2 black 2
+black 3 black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1
+black 1 black 2
+black 2 black 2
+black 2 black 1
+black 1 black 2
+black 1 black 2
+
+columns
+blue 3 black 5
+blue 3 black 2 black 2
+blue 2 black 5 black 3
+blue 2 black 3
+black 3
+black 2 black 3
+black 2 black 4
+black 1 black 4
+black 3 black 4
+black 1 black 4
+black 1 black 4
+black 3 black 4
+black 1 black 4
+black 1 black 4
+black 2 black 4
+black 2 black 3
+blue 3 black 2 black 2
+blue 3 black 3 black 4
+blue 2 black 3 black 2
+blue 2 black 5

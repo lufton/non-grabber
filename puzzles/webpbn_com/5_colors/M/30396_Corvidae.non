@@ -1,0 +1,68 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Gaynor Sorrell"
+date "Oct 19, 2017"
+description "Crows are the most intelligent of birds, capable of using tools and recognizing themselves in a mirror. Here, Mrs. Crow poses in the moonlight for a cover shoot for the October issue of Popular Corvids."
+difficulty 2.0
+height 20
+id 30396
+link "https://webpbn.com/play.cgi?id=30396"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Corvidae"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 blue 4
+blue 1 black 5 blue 3
+black 2 red 1 black 2 black 2 black 2 blue 2
+black 5 black 1 blue 2
+black 5 blue 1
+black 5 blue 1
+black 6
+black 9
+black 11
+black 12
+black 14
+black 14
+black 14
+black 14
+black 6 black 4
+green 1 black 1 black 1 black 2 green 1
+green 3 black 1 black 1 green 2
+red 1 green 2 red 2 black 1 black 1 red 3 red 1 green 2
+red 6 black 6 red 4 green 1 red 6 green 2
+red 4 green 3 red 9 green 3 red 5 green 1
+
+columns
+blue 2 green 2 red 3
+blue 1 green 2 red 2
+green 2 red 2
+black 1 red 3
+black 2 red 2 green 1
+black 3 black 5 red 1 green 1
+black 1 red 1 black 10 black 1 green 1
+black 13 black 1 red 1
+black 13 black 2 red 1
+black 14 black 1 red 1
+black 11 black 2 red 1
+black 11 black 1 red 1
+black 8 red 2
+black 8 red 2
+black 6 red 2
+black 1 black 6 red 3
+black 1 black 5 red 1 green 2
+black 1 black 4 red 2 green 1
+black 1 black 5 red 1 green 1
+black 1 black 3 red 2
+black 2 red 2
+blue 1 black 2 red 2
+blue 2 black 1 red 3
+blue 4 green 3 red 1
+blue 6 green 5

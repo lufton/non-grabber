@@ -1,0 +1,51 @@
+by "David Bouldin (dbouldin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by David Bouldin"
+date "Dec 12, 2019"
+description "Curling Stone (see puzzle 33334)"
+difficulty 1.25
+height 15
+id 33338
+link "https://webpbn.com/play.cgi?id=33338"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "These are a few of Teresa's favorite things #1"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+0
+red 6
+red 3
+red 11
+black 10 black 2
+black 12 black 2
+black 15
+0
+black 15
+black 15
+black 13
+0
+0
+0
+
+columns
+black 2 black 2
+black 3 black 3
+red 1 black 3 black 3
+red 1 black 3 black 3
+red 1 red 1 black 3 black 3
+red 1 red 1 black 3 black 3
+red 1 red 1 black 3 black 3
+red 1 red 1 black 3 black 3
+red 3 black 3 black 3
+red 3 black 3 black 3
+red 2 black 3 black 3
+red 1 black 2 black 3
+red 1 black 1 black 1 black 3
+black 3 black 3
+black 2 black 2

@@ -1,0 +1,63 @@
+by "aj (13ajin)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by aj"
+date "Dec 19, 2008"
+description "poisonous red/black snake in grass"
+difficulty 3.0
+height 20
+id 4452
+link "https://webpbn.com/play.cgi?id=4452"
+note "published,definitely non-unique,may require much guessing"
+quality 1.5
+title "snake"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 black 2 green 1 green 1 green 1 green 1
+black 1 red 2 black 1 green 1 black 1 green 1 green 1
+black 1 red 1 black 2 red 1 black 1 black 1 red 1 black 1 green 1
+green 1 black 1 red 1 black 1 black 1 red 1 black 4 red 1 black 1 red 1 black 1 green 1 green 1
+green 1 black 1 red 1 black 1 black 1 red 4 black 1 black 1 red 1 black 1 green 1 green 1
+black 1 green 1 black 4 black 1 red 1 black 1 green 1
+blue 1 green 1 green 1 black 3 red 1 black 1 green 1
+green 1 blue 1 green 1 green 1 black 3 red 3 black 1 green 1 green 1
+green 1 black 3 red 3 black 3 green 1 black 1
+green 1 black 1 red 3 black 3 green 1 black 1 red 1 black 1
+green 1 black 1 red 1 black 3 green 1 green 1 black 1 red 1 black 1 green 1
+green 1 black 1 red 1 black 1 green 1 green 1 green 1 black 1 red 1 black 1 green 1
+green 1 black 1 red 1 black 11 red 1 black 1 green 1
+green 1 green 1 black 1 red 11 black 1 green 1
+green 1 green 1 black 11 green 1
+green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+
+columns
+green 3 green 2 green 3 green 3
+black 3 green 3
+green 3 black 1 red 3 black 1 blue 2 black 1 green 4
+black 1 red 1 black 3 black 1 red 1 black 1
+green 2 black 1 red 1 black 1 green 3 black 1 red 1 black 1 red 1 black 1 green 2
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+green 3 black 1 red 1 black 1 green 2 black 1 red 1 black 1 black 1 red 1 black 1 green 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+green 4 black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1 green 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+green 4 black 1 red 1 black 1 black 1 red 1 black 1 green 1 black 1 red 1 black 1 green 1
+black 1 red 1 black 1 black 1 red 1 black 1 black 1 red 1 black 1
+green 2 black 1 red 1 black 1 black 1 red 1 black 1 green 2 black 1 red 1 black 1 green 1
+black 1 red 1 black 3 red 1 black 1 black 1 red 1 black 1
+green 4 black 1 red 3 black 1 green 3 black 1 red 1 black 1 green 1
+black 3 black 1 red 1 black 1
+green 3 green 2 black 3 red 1 black 1 green 1
+green 3 black 1 red 3 black 1
+green 4 green 2 black 3 green 4
+green 4 green 3

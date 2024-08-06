@@ -1,0 +1,52 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Mar 25, 2011"
+description ""
+difficulty 1.5
+height 10
+id 13016
+link "https://webpbn.com/play.cgi?id=13016"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Matt enjoying Mr. B's dancing!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1
+black 2 black 2 black 2
+black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 2
+black 1 black 9 black 1 red 1 black 1
+black 12 blue 1 black 4
+black 12 blue 1 black 2 blue 1 black 1
+black 11 blue 1 black 5
+black 9 black 4
+
+columns
+black 2
+black 6
+black 3
+black 4
+black 5
+black 8
+black 1 black 5
+black 7
+black 1 black 5
+black 5
+black 5
+black 7
+black 7
+black 1 blue 3
+black 5
+red 1 black 4
+black 2 blue 1 black 2
+black 4
+black 1
+0

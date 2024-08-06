@@ -1,0 +1,81 @@
+by "Wesley Snyder (wsnyder98)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Wesley Snyder"
+date "May 31, 2013"
+description "A giant bed bug. Hope it doesn't crawl into one of my slippers! (yeah, kind of looks like a crab...)"
+difficulty 2.25
+height 20
+id 22058
+link "https://webpbn.com/play.cgi?id=22058"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "WCP #133 - Hopefully not one of these"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 21
+black 2 black 2
+black 1 black 1
+black 10 black 8 black 8 black 1
+black 3 black 3 black 2 black 5 black 8
+black 10 black 1 black 9 black 7 black 4
+black 1 black 1 black 3 red 1 red 3 red 1 black 3 black 2
+black 1 black 3 red 7 black 3 black 2
+black 1 black 3 red 5 black 3 black 4
+black 1 black 3 red 10 black 3 black 3 black 2
+black 1 black 3 red 2 black 1 red 1 black 1 red 2 black 3 black 3 black 2
+black 4 red 2 red 3 red 1 black 3 black 3 black 2
+black 3 red 1 red 1 black 2 black 3
+black 23 black 3 black 3
+black 2 black 2 black 3 black 6
+black 2 black 5 black 5
+black 23 black 3
+black 2 black 2 black 6
+black 2 black 2 black 5
+black 2 black 2
+
+columns
+black 7
+black 8
+black 10 black 1
+black 2 black 3 black 1
+black 3 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 6 black 1 black 1
+black 2 black 1 black 1 black 1
+black 5 black 1 black 1
+black 1 red 1 black 1 black 1
+black 2 red 1 red 2 black 1 black 1
+black 1 red 2 red 3 black 1 black 1
+black 5 red 4 black 1 black 1
+black 2 black 3 red 4 black 1 red 1 black 1 black 1
+black 1 black 1 black 1 red 6 black 1 black 1
+black 1 black 1 black 1 red 4 black 1 red 1 black 7
+black 1 black 1 black 1 red 4 black 7
+black 1 black 1 black 1 red 2 red 4 black 1 black 2
+black 1 black 3 red 1 black 1 black 1
+black 1 black 2 black 2 black 2
+black 1 black 1 black 1 black 1
+black 1 black 2 black 2 black 2
+black 1 black 3 black 1 black 1
+black 1 black 1 black 1 black 2 black 2
+black 1 black 1 black 1 black 1 black 1 black 2
+black 1 black 1 black 1 black 2 black 2 black 3
+black 1 black 1 black 1 black 1 black 1 black 3
+black 1 black 3 black 2 black 2 black 2
+black 1 black 2 black 1 black 1 black 2 black 2
+black 1 black 2 black 2 black 2 black 3 black 2
+black 1 black 1 black 1 black 1 black 3
+black 1 black 3 black 2 black 2
+black 1 black 2 black 1 black 2
+black 2 black 8 black 2
+black 11

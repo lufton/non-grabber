@@ -1,0 +1,83 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Aldege Cholette"
+date "Apr  1, 2014"
+description "Barkeep,give me a V8 in a dirty glass."You're kidding right,we don't serve that here". I thought this was a veggie bar." It's a bar where veggies come to relax and have a drink with friends,not drink their friends". Where's Carl the carrot who was serving here last week?" He's no longer with us". You fired him? He have his hand in the till or something? "No,I mean he's no longer with us. He got too close to a rabbit". Ouch,that's too bad,I really liked Carl. So what made them hire a cauliflower? "I'm the owner and I'm not a cauliflower.I'm an albino broccoli". Hey it doesn't bother me that your gay. "I'm not gay you idiot,I'm a hybrid". Well maybe if you stopped smoking that funny stuff you wouldn't be high."No dummy,I'm cross bred,I'm part cauliflower and part broccoli. Normally that would make a broccoflower,but I came out white. Now you would think that would make me a caulibroc,but that doesn't sound right,so we're known as albino broccoli's. Some of you potatoes are hybrids too you know. We get a lot of blue potatoes that come here". I'm a blue potato."No your not,I can tell by your skin colour that your white flesh". No,my girlfriend left me last week,and I've been blue ever since." Maybe you should just leave,your giving me a headache". Well that's more than you gave me,I never did get my V8."
+difficulty 2.5
+height 30
+id 24144
+link "https://webpbn.com/play.cgi?id=24144"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Bud Spud...The Series."
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 2 red 1 green 3 green 2 green 1 green 3
+blue 2 blue 1 red 1 green 4 green 1 green 1 green 1 green 1
+blue 2 blue 1 red 1 green 4 green 1
+blue 1 blue 1 red 4 blue 1 red 1 green 5 black 1 black 1 green 1 green 1
+blue 3 red 4 blue 1 red 1 green 4 green 2
+blue 9 red 1 green 3 green 1 green 2
+black 1 black 1 red 1 green 2 green 2 black 5
+black 1 black 1 red 1 green 5 black 2 red 1 black 2 green 1
+black 1 blue 7 red 1 green 6 green 1
+black 1 blue 2 black 1 blue 2 red 1 green 5 green 3
+black 1 blue 1 black 1 blue 1 black 1 red 1 green 3 green 2
+black 1 black 2 black 1 red 1 green 6 green 1 green 1
+black 1 black 1 red 1 green 1 black 1 green 4 green 4
+black 1 black 2 black 1 red 1 black 3 green 1 black 1 green 1 green 4
+black 1 black 2 red 1 black 5 green 2 green 4
+black 1 black 1 black 3 blue 7 green 1 green 4
+black 2 black 2 blue 1 blue 1 green 1 green 4
+black 1 black 1 black 1 black 1 blue 5 green 2 green 4
+black 1 black 1 black 1 black 1 red 19
+black 1 black 1 black 2 black 1 red 1
+black 1 black 1 black 1 black 2 red 1
+black 2 black 3 black 1 red 1
+black 1 black 1 red 1
+black 2 black 2 red 1
+black 2 black 3 red 1
+green 2 black 3 green 2 black 1 red 1
+green 2 black 6 red 1
+blue 1 blue 1 red 1
+blue 1 blue 1 red 1
+blue 1 blue 1 red 1
+
+columns
+blue 2 black 6 black 6
+blue 2 black 1 blue 2 black 4 black 3
+blue 4 blue 2 black 2 black 1 green 1
+blue 2 red 2 blue 1 blue 1 black 1 black 1 black 1 black 3 black 1 green 2
+blue 2 red 2 blue 1 blue 1 black 1 black 1 black 2 green 1 blue 3
+blue 1 red 2 blue 1 blue 1 black 2 black 1 black 2
+blue 2 red 2 blue 1 blue 1 black 1 black 3 black 3 blue 3
+blue 3 black 2 blue 2 black 2 black 1 green 1 black 1
+blue 1 blue 3 black 5 black 3 black 2 green 1 black 1
+blue 1 black 2 black 1 red 1 black 3 black 4 black 1
+black 2
+red 12
+red 1
+black 1 blue 2 red 1
+red 14 black 1 blue 1 blue 1 red 1
+green 13 black 2 blue 1 blue 1 red 1
+green 12 black 3 blue 1 blue 1 red 1
+green 6 green 6 black 2 blue 1 blue 1 red 1
+green 4 green 3 green 3 black 1 blue 1 blue 1 red 1
+green 1 green 4 green 2 black 1 green 1 blue 2 green 1 red 1
+green 2 green 2 black 1 green 1 green 7 red 1
+green 1 black 2 red 1
+green 1 black 1 black 1 red 1
+black 1 red 1 red 1
+black 1 black 1 red 1
+green 2 black 2 red 1
+green 2 black 1 green 1 green 7 red 1
+green 1 green 2 green 6 red 1
+green 2 green 2 green 2 green 6 red 1
+green 1 green 3 green 1 green 8 red 1

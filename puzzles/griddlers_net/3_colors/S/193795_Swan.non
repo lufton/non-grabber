@@ -1,0 +1,43 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/20/18"
+height 11
+id 193795
+link "https://www.griddlers.net/nonogram/-/g/193795"
+medium_time "0:01:03"
+points 123
+popularity 74.39
+title "Swan"
+width 12
+
+color a ffffff
+color b 0000ff
+color c 99ccff
+
+rows
+c 12
+c 3 c 7
+c 2 b 1 c 6
+c 1 c 6
+c 3 c 7
+b 2 b 8
+b 1 b 2 b 3
+b 1 b 1 b 1
+b 1 b 2
+b 2 b 3
+b 12
+
+columns
+c 5 b 6
+c 3 c 1 b 1 b 2
+c 2 c 1 b 1
+c 1 b 1 b 2 b 1
+c 1 b 2 b 1
+c 2 c 1 b 1 b 1
+c 5 b 1 b 1
+c 5 b 1 b 1
+c 5 b 1 b 1
+c 5 b 2 b 2
+c 5 b 2 b 3
+c 5 b 6

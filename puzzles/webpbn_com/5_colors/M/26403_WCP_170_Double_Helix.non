@@ -1,0 +1,73 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Brian Bellis"
+date "Jan  1, 2015"
+description "Watson and Crick Discovery"
+difficulty 2.25
+height 40
+id 26403
+link "https://webpbn.com/play.cgi?id=26403"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "WCP #170 Double Helix"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 1 black 1
+blue 1 black 2
+blue 2
+black 1 blue 1
+black 1 blue 3
+black 1 black 1 blue 4
+black 2 black 1 red 1 blue 3
+black 1 blue 1 green 1 green 1 blue 1
+black 3 red 1 blue 2
+black 4 blue 1 blue 1
+black 3 blue 1
+black 1 blue 1
+black 2
+blue 3 black 1
+blue 4 black 1
+blue 3 black 1 green 1 black 2
+blue 1 red 1 blue 1 red 1 black 1
+blue 2 black 1 green 1 black 3
+blue 1 black 4
+blue 1 black 3
+blue 2
+black 1 blue 1
+black 1 blue 3
+black 1 blue 4
+black 2 blue 1 green 1 blue 3
+black 1 red 1 green 1 blue 1
+black 3 red 1 black 1 blue 2
+black 4 blue 1
+black 3 blue 1
+black 1 blue 1
+black 2
+blue 3 black 1
+blue 4 black 1 black 1
+blue 3 green 1 green 1 black 2
+blue 1 black 1 red 1 red 1 black 1
+blue 2 blue 1 black 3
+blue 1 black 4
+blue 1 black 3
+blue 2
+black 1 blue 1
+
+columns
+blue 3 black 4 blue 4 black 4 blue 4 black 1
+black 1 blue 3 black 3 blue 3 black 1 blue 3 black 3 blue 3 black 1 blue 2
+black 2 blue 1 black 1 blue 1 black 1 blue 1 black 1 black 1 blue 1 blue 1 black 1 blue 1 black 1 black 1
+blue 2 black 1 black 2 blue 2 red 1 black 2 blue 2 red 1 black 2 blue 2 blue 1 black 2
+blue 1 green 1 black 1 blue 1 black 1 green 1 black 1 blue 1 green 1 black 1 blue 1 green 1 black 1
+blue 1 red 1 black 1 blue 1 blue 1 black 1 blue 1 red 1 black 1 blue 1 red 1 black 1
+blue 2 red 1 black 2 blue 2 green 1 black 2 blue 2 green 1 black 2 blue 2 green 1 black 2
+blue 1 green 1 blue 1 black 1 blue 1 red 1 black 1 blue 1 black 1 black 1 blue 1 black 1 red 1 black 1
+blue 3 black 3 blue 1 black 3 blue 3 black 3 blue 1 black 3
+blue 4 black 4 blue 4 black 4

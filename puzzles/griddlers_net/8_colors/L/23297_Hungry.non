@@ -1,0 +1,85 @@
+by "elimaor"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/20/05"
+height 30
+id 23297
+link "https://www.griddlers.net/nonogram/-/g/23297"
+medium_time "0:20:16"
+points 15920
+popularity 70.06
+title "Hungry"
+width 30
+
+color a 9bd2f9
+color b 069907
+color c 0102fe
+color d 020197
+color e d29a63
+color f 9a642c
+color g 040203
+color h 623303
+
+rows
+b 3
+b 1 b 3 c 1 c 1
+b 2 b 6 c 2 c 2
+b 4 b 3 c 3 c 3
+b 2 b 2 b 1 d 1 c 6 c 6 d 1
+b 1 b 2 b 1 d 1 c 6 c 1 e 1 c 3 d 1
+b 1 b 1 d 1 c 3 e 1 c 1 c 4 d 1
+b 2 d 1 c 4 c 4 d 1
+b 1 d 1 c 5 c 4 d 2
+b 1 d 1 c 2 d 1 c 2 c 1 d 3 c 1 d 1
+d 1 c 2 d 1 c 1 d 1 c 1 d 1 c 1 d 1 c 4 d 1
+d 1 c 2 d 1 c 4 d 1 c 5 d 1 e 5
+e 4 d 1 c 2 d 1 c 5 e 1 c 4 d 1 e 4
+e 4 d 1 c 2 d 1 c 2 e 1 c 2 e 1 c 4 e 4
+e 5 c 3 d 1 e 3 c 1 e 8
+f 2 e 19 f 3 g 1
+f 5 e 12 f 2 e 1 f 4 g 1
+g 3 f 7 e 4 f 9 g 1
+g 2 f 20 g 1
+g 2 f 17 g 2
+h 1 g 3 f 13 g 3 h 2
+h 2 h 4 g 3 f 8 g 3 h 6
+h 3 h 6 g 3 f 4 g 3 h 4
+h 9 g 7 b 1 h 3
+h 6 b 3 b 3 h 2
+h 6 b 2 b 1 h 5
+h 6 b 2 b 2 h 6
+h 4 b 3 b 2 h 1 h 2
+h 3 b 3 b 2 h 3
+h 2 b 12 h 4
+
+columns
+b 5 h 2 h 4
+b 1 b 6 h 2 h 5
+b 2 b 1 b 2 h 2 h 4
+b 1 b 3 b 1 h 6
+b 2 b 3 f 1 g 1 h 4
+b 1 e 1 f 2 g 1 h 5
+b 4 e 3 f 2 g 2 h 5
+b 2 e 4 f 2 g 2 h 4
+b 2 d 1 e 4 f 3 g 2 h 4
+b 1 c 1 d 1 e 4 f 3 g 1 h 3 b 1
+c 2 d 1 d 4 e 3 f 3 g 2 h 2 b 1 b 1
+c 3 d 3 c 5 e 2 f 4 g 1 b 2 b 1
+c 12 e 2 f 4 g 2 b 2 b 1
+c 8 d 4 c 1 e 2 f 5 g 1 b 2 b 1
+c 5 e 1 c 2 d 1 c 4 d 1 e 3 f 4 g 2 b 1 b 1
+c 5 d 1 c 3 e 4 f 5 g 1 b 3
+c 5 e 5 f 5 g 1 b 2
+d 1 c 3 e 4 f 5 g 1 b 3
+c 7 d 1 c 3 e 2 f 6 g 1 b 2 b 1
+c 2 e 1 c 3 d 2 c 1 e 5 f 5 g 2 b 3 b 1
+c 8 d 1 c 4 e 3 f 5 g 2 b 1 b 1
+c 7 d 1 c 4 e 2 f 5 g 2 b 2 b 2
+c 2 d 3 c 5 e 2 f 5 g 1 b 1
+c 1 d 1 d 2 c 4 e 3 f 4 g 1
+d 1 d 3 e 3 f 4 g 1 h 1 h 1
+e 5 f 4 g 1 h 1 h 3
+e 4 f 4 g 2 h 2 h 2 h 1
+e 3 f 2 g 1 f 1 g 1 h 4 h 2 h 2
+e 2 f 1 g 1 g 1 h 10
+e 1 g 1 h 9

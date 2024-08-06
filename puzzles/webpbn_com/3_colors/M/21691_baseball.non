@@ -1,0 +1,61 @@
+by "David William Burcham (dbcrusader)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by David William Burcham"
+date "Apr 14, 2013"
+description "the Cubbies!"
+difficulty 1.25
+height 20
+id 21691
+link "https://webpbn.com/play.cgi?id=21691"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "baseball"
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 20
+blue 20
+blue 20
+blue 4 blue 5
+blue 4 black 6 blue 5
+blue 4 black 8 blue 5
+blue 4 black 2 black 1 blue 5
+blue 4 black 2 blue 5
+blue 4 black 2 blue 5
+blue 4 black 2 blue 5
+blue 4 black 2 blue 5
+blue 4 black 2 blue 5
+blue 4 black 2 blue 5
+blue 4 black 2 black 1 blue 5
+blue 4 black 8 blue 5
+blue 4 black 6 blue 5
+blue 4 blue 5
+blue 20
+blue 20
+blue 20
+
+columns
+blue 20
+blue 20
+blue 20
+blue 20
+blue 3 blue 3
+blue 3 black 8 blue 3
+blue 3 black 10 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 black 2 black 2 blue 3
+blue 3 blue 3
+blue 20
+blue 20
+blue 20
+blue 20
+blue 20

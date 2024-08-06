@@ -1,0 +1,57 @@
+by "valerie o..travis (bigblue)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by valerie o..travis"
+date "Nov  3, 2010"
+description "ME NOW!!!!!!"
+difficulty 1.25
+height 18
+id 10896
+link "https://webpbn.com/play.cgi?id=10896"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Can you hear..."
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 3 black 3 black 3
+black 18
+black 18
+black 18
+black 3 red 4 black 2 red 4 black 5
+black 2 red 6 black 1 red 5 black 4
+black 2 red 7 black 1 red 5 black 3
+black 3 red 13 black 2
+black 4 red 12 black 2
+black 5 red 11 black 2
+black 6 red 10 black 2
+black 8 red 7 black 3
+black 10 red 4 black 4
+black 18
+
+columns
+black 13
+black 14
+black 9 red 2 black 7
+black 4 red 4 black 6
+black 3 red 5 black 5
+black 3 red 6 black 4
+black 3 red 7 black 3
+black 5 red 6 black 3
+black 10 red 6 black 2
+black 4 red 2 black 1 red 5 black 2
+black 3 red 9 black 1
+black 3 red 9 black 1
+black 3 red 9 black 1
+black 5 red 8 black 1
+black 10 red 6 black 2
+black 7 red 4 black 3
+black 13
+black 13

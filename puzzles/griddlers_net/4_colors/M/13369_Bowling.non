@@ -1,0 +1,71 @@
+by "milhaus"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/23/04"
+height 30
+id 13369
+link "https://www.griddlers.net/nonogram/-/g/13369"
+medium_time "0:04:46"
+points 3515
+popularity 45.15
+title "Bowling"
+width 20
+
+color a ffffff
+color b ff0000
+color e ffcccc
+color f 000000
+
+rows
+f 1
+f 3
+f 5
+f 7
+e 1 f 1 f 1
+e 1 f 1 f 1
+e 2 f 1 b 3 f 1
+e 3 f 3
+e 2 f 1 b 3 f 1
+e 1 f 1 f 1
+f 2 f 2
+f 1 b 7 f 1
+f 1 b 7 f 2
+f 1 f 1 e 1 f 1
+f 1 f 1 e 2 f 1
+f 1 f 1 e 3 f 1
+f 1 f 1 e 4 f 1
+f 1 f 1 e 5 f 1
+f 1 f 1 e 6 f 1
+f 1 f 1 e 7 f 1
+f 1 f 1 e 8 f 1
+f 1 f 1 e 4 f 2 e 3 f 1
+f 1 f 1 e 3 f 4 e 3 f 1
+e 1 f 1 f 1 e 3 f 6 e 3
+e 2 f 5 e 4 f 6 e 3
+f 1 e 11 f 4 e 4
+f 1 e 11 f 2 e 5
+f 1 e 17
+f 1 e 16
+f 1 e 15
+
+columns
+e 6 f 13 e 2 f 1
+f 3 e 3 f 2 b 2 f 1 e 2 f 1
+f 2 f 1 e 1 f 1 b 2 f 1 e 2 f 1
+f 3 b 1 f 1 b 1 b 2 f 1 e 3 f 1
+f 4 b 1 f 1 b 1 b 2 f 1 e 4 f 1
+f 3 b 1 f 1 b 1 b 2 f 1 e 5
+f 2 f 1 f 1 b 2 f 1 e 5
+f 3 f 2 b 2 f 1 e 6
+f 13 e 7
+f 1 e 17
+f 1 e 16
+f 1 e 8 f 2 e 5
+f 1 e 6 f 4 e 4
+f 1 e 4 f 6 e 3
+f 1 e 3 f 6 e 3
+f 1 e 3 f 4 e 4
+f 1 e 3 f 2 e 5
+f 1 e 9
+f 1 e 8
+f 1 e 7

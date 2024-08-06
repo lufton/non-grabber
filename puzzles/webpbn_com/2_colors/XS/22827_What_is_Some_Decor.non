@@ -1,0 +1,31 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Thomas Genuine"
+date "Sep 26, 2013"
+description "Pls use your eyes, but don't look for a picture! Listen to numbers! :)"
+difficulty 1.25
+height 7
+id 22827
+link "https://webpbn.com/play.cgi?id=22827"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "What is Some Decor?"
+width 7
+
+rows
+1,2
+2,1
+1,2
+2,2,1
+1,2,1
+1,2
+2,2
+
+columns
+1,1
+1,2
+3,2
+1,2,1
+5
+1,2
+2,1

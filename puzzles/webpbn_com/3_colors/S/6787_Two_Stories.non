@@ -1,0 +1,51 @@
+by "Kendra Wolter (kendra)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Kendra Wolter"
+date "Sep 24, 2009"
+description "A house (Kendra's first puzzle)"
+difficulty 1.5
+height 15
+id 6787
+link "https://webpbn.com/play.cgi?id=6787"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Two Stories"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 5
+black 7
+black 9
+black 11
+black 13
+black 15
+black 11
+black 1 black 5 black 1
+black 1 black 5 black 1
+black 11
+black 11
+black 11
+black 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 1
+green 2 black 5 black 4 green 2
+
+columns
+black 1 green 1
+black 2 green 1
+black 12
+black 5 black 3 black 1
+black 6 black 3 black 1
+black 15
+black 15
+black 12
+black 12
+black 15
+black 6 black 3 black 1
+black 5 black 3 black 1
+black 12
+black 2 green 1
+black 1 green 1

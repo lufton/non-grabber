@@ -1,0 +1,81 @@
+by "Kasia Janota (parbatka)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by Kasia Janota"
+date "Sep 11, 2007"
+description "It's kind of ornament..."
+difficulty 2.5
+height 30
+id 1333
+link "https://webpbn.com/play.cgi?id=1333"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "From Middle Ages"
+width 30
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 1 black 1 blue 2 blue 2 blue 2 blue 1 black 1
+black 1 blue 4 blue 4 blue 4 blue 1
+blue 1 blue 4 blue 1 blue 4 blue 1 blue 4 black 1
+blue 4 blue 4 blue 4 black 1
+blue 3 blue 3 blue 3 black 3
+blue 3 blue 3 blue 3 black 4
+black 3 blue 3 black 11 blue 3 black 5
+black 4 blue 3 black 11 blue 3 black 4
+black 5 blue 3 black 11 blue 3 black 3
+black 4 blue 3 blue 3 blue 3 black 1
+black 3 blue 3 blue 3 blue 3 black 1
+black 1 blue 3 blue 3 blue 3 black 3
+black 1 blue 3 blue 3 blue 3 black 4
+black 10 blue 3 black 12
+black 11 blue 3 black 11
+black 12 blue 3 black 10
+black 4 blue 3 blue 3 blue 3 black 1
+black 3 blue 3 blue 3 blue 3 black 2
+black 1 blue 3 blue 3 blue 3 black 3
+black 1 blue 3 blue 3 blue 3 black 3
+black 3 blue 3 black 11 blue 3 black 5
+black 4 blue 3 black 11 blue 3 black 4
+black 5 blue 3 black 11 blue 3 black 3
+black 4 blue 3 blue 3 blue 3
+black 3 blue 3 blue 3 blue 3
+black 1 blue 3 blue 3 blue 3
+black 1 blue 4 blue 4 blue 4
+blue 4 blue 1 blue 4 blue 1 blue 4 blue 1
+blue 1 blue 4 blue 4 blue 4 black 1
+black 1 blue 1 blue 2 blue 2 blue 2 black 1 blue 1
+
+columns
+blue 1 black 1 black 2 black 2 black 2 blue 1 black 1
+black 1 black 4 black 4 black 4 blue 1
+blue 1 black 4 black 1 black 4 black 1 black 4 black 1
+blue 1 black 4 black 4 black 4
+blue 3 black 3 black 3 black 3
+blue 4 black 3 black 3 black 3
+blue 12 black 3 blue 11
+blue 11 black 3 blue 12
+blue 10 black 3 blue 13
+blue 1 black 3 black 3 black 3 blue 4
+blue 1 black 3 black 3 black 3 blue 3
+blue 3 black 3 black 3 black 3 blue 1
+blue 4 black 3 black 3 black 3 blue 1
+blue 5 black 3 blue 11 black 3 blue 4
+blue 4 black 3 blue 11 black 3 blue 5
+blue 3 black 3 blue 11 black 3 blue 6
+blue 1 black 3 black 3 black 3 blue 4
+blue 1 black 3 black 3 black 3 blue 3
+blue 3 black 3 black 3 black 3 blue 1
+blue 4 black 3 black 3 black 3 blue 1
+blue 12 black 3 blue 11
+blue 11 black 3 blue 12
+blue 10 black 3 blue 13
+black 3 black 3 black 3 blue 4
+black 3 black 3 black 3 blue 3
+black 4 black 4 black 4 blue 1
+black 1 black 4 black 1 black 4 black 1 black 4 blue 1
+black 4 black 4 black 4
+blue 1 black 2 black 2 black 2 black 1
+black 1 blue 1 black 1 blue 1

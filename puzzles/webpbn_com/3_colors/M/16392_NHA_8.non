@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Alicia Snyder"
+date "Nov 15, 2011"
+description "New Home Adventures.. So, what you're seeing here is the water softener system on the left, the salt tank for the water softener system in the center, and the water heater on the right.. See 1st spoiler for the story that goes along with this adventure."
+difficulty 1.25
+height 20
+id 16392
+link "https://webpbn.com/play.cgi?id=16392"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "NHA #8"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 2
+red 1
+red 1
+black 4
+black 1
+black 4 black 1
+black 5 black 1
+black 6 black 1
+black 2 black 1 black 6 black 1
+black 4 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 6 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 red 2
+black 1 black 1 black 1 black 1 black 1 black 5
+black 1 black 1 black 1 black 1 black 1 black 5
+black 1 black 1 black 1 black 1 black 1 black 5
+black 1 black 1 black 3 black 1 black 5
+black 1 black 1 black 1 black 1 black 5
+
+columns
+black 1
+black 3 black 11
+black 5
+black 5
+black 3 black 11
+black 1
+black 12
+black 1
+black 12
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 12
+0
+black 5
+black 17
+black 1 black 5
+red 3 black 1 red 1 black 5
+red 1 black 1 red 1 black 5

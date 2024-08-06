@@ -1,0 +1,72 @@
+by "Yonah Kondor (yokon965)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Yonah Kondor"
+date "Sep  5, 2023"
+description "In retrospect, given the myriad idiom puzzles already made, someone has probably done Putting Your Foot in Your Mouth before."
+difficulty 1.75
+height 20
+id 37081
+link "https://webpbn.com/play.cgi?id=37081"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Verbal Flub"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+
+rows
+black 3 black 3
+black 2 red 3 black 2 red 3 black 2
+black 2 red 12 black 2
+black 2 red 15 black 1
+black 1 red 18 black 1
+black 2 red 1 black 1 red 6 black 1 black 1 black 1 red 2 black 1
+black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 2 black 1
+green 11 black 1 black 1 black 1 green 13
+green 30
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1
+green 1 green 1 green 1 green 1
+0
+green 30
+black 1 red 1 black 1 black 1 black 1 black 1 black 1 black 1 black 2 red 1 black 1
+black 1 red 3 black 1 black 1 black 1 black 1 black 1 black 1 red 2 black 1
+black 1 red 17 black 1
+black 1 red 15 black 1
+black 2 red 12 black 1
+black 12
+
+columns
+green 5 green 1
+green 2 green 1
+green 3 green 1
+green 2 green 1
+green 4 green 1
+black 1 green 2 green 1 black 2
+black 1 red 1 black 1 green 3 green 1 black 1 red 2 black 1
+black 2 red 1 black 2 green 2 green 1 red 4 black 1
+black 1 red 4 green 5 green 1 black 1 red 3 black 1
+black 1 red 3 black 2 green 2 green 1 red 3 black 1
+black 1 red 3 green 3 green 1 black 2 red 3 black 1
+black 1 red 5 black 2 green 1 green 1 red 3 black 1
+black 1 red 5 green 3 green 1 black 2 red 3 black 1
+black 1 red 5 black 2 green 1 green 1 red 3 black 1
+black 1 red 4 green 2 green 1 black 2 red 3 black 1
+black 1 red 4 black 2 green 1 green 1 red 3 black 1
+black 1 red 5 green 4 green 1 black 2 red 3 black 1
+black 1 red 4 black 2 green 2 green 1 red 3 black 1
+black 1 red 4 green 3 green 1 black 2 red 3 black 1
+black 1 red 3 black 2 green 2 green 1 red 3 black 1
+black 1 red 3 green 4 green 1 black 2 red 3 black 1
+black 1 red 2 black 2 green 2 green 1 black 1 red 3 black 1
+black 1 red 4 green 3 green 1 red 3 black 1
+black 1 red 3 green 2 green 1 black 3
+black 3 green 5 green 1
+green 2 green 1
+green 3 green 1
+green 2 green 1
+green 4 green 1
+green 2 green 1

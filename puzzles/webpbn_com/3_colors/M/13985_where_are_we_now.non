@@ -1,0 +1,61 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "May 18, 2011"
+description "check the first"
+difficulty 1.25
+height 20
+id 13985
+link "https://webpbn.com/play.cgi?id=13985"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "where are we now?"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 15
+black 1 black 1
+black 1 black 1
+black 1 green 7 black 1
+black 1 green 7 black 1
+black 1 green 1 green 1 green 1 black 1
+black 1 green 1 green 1 green 1 black 1
+black 1 green 11 black 1
+black 1 green 11 black 1
+black 1 green 11 black 1
+black 1 green 2 black 2 green 4 black 2 green 1 black 1
+black 1 black 2 black 2 black 1
+black 1 black 1
+black 17
+black 2 black 3 black 2 black 4
+black 3 black 2 black 2 black 2 black 2 black 3
+black 3 black 3 black 2 black 4
+black 4 black 1 black 3 black 2 black 6
+black 4 black 2 black 2 black 2 black 6
+black 20
+
+columns
+black 3
+black 5
+black 7
+black 20
+black 1 black 1 black 1
+black 1 green 4 black 1 black 1 black 3
+black 1 green 4 black 1 black 1 black 2
+black 1 green 3 black 2 black 2 black 2 black 1
+black 1 green 3 black 2 black 7
+black 1 green 8 black 7
+black 1 green 2 green 4 black 1 black 1
+black 1 green 2 green 4 black 7
+black 1 green 8 black 7
+black 1 green 2 green 3 black 2 black 1 black 1
+black 1 green 2 green 3 black 2 black 1 black 1 black 3
+black 1 green 8 black 1 black 1 black 3
+black 1 black 2 black 4
+black 20
+black 7
+black 6

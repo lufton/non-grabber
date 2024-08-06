@@ -1,0 +1,102 @@
+by "harris harris (torough4u)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by harris harris"
+date "Oct 26, 2009"
+description "remember these old bikes. i dont. they dont look very safe."
+difficulty 3.0
+height 40
+id 7011
+link "https://webpbn.com/play.cgi?id=7011"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "oldies but not so goodies"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2 red 2
+black 2 red 5
+black 2 red 1
+black 6 red 1
+red 11
+red 2 red 2
+red 2 black 16
+red 2 black 4 black 2 black 4
+red 2 black 2 black 2 black 2 black 2 black 2
+red 2 black 2 black 2 black 2 black 2 black 2
+red 2 black 2 black 2 black 2 black 2 black 2
+red 2 black 3 black 2 black 2 black 2 black 3
+red 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+red 2 black 1 black 2 black 2 black 2 black 2 black 2 black 1
+red 2 black 2 black 2 black 2 black 2 black 2 black 2 black 2
+red 2 black 1 black 2 black 2 black 2 black 2 black 2 black 1
+red 2 black 3 black 2 black 2 black 2 black 2 black 2 black 3
+red 2 black 5 black 2 red 1 black 1 black 2 black 1 black 2 black 5
+red 2 black 1 black 4 red 2 black 6 black 2 black 4 black 1
+red 2 black 1 black 4 red 3 black 4 black 2 black 5 black 1
+red 2 black 1 black 2 red 1 black 1 red 2 black 1 blue 2 black 2 black 4 black 1
+red 2 black 1 black 1 red 2 blue 4 black 1 black 1 black 1
+red 2 black 13 red 2 blue 3 black 14
+red 2 black 1 black 2 blue 4 black 2 black 1
+red 2 black 1 black 5 black 1 blue 2 red 2 black 5 black 1
+red 2 black 1 black 4 black 3 red 2 red 2 black 4 black 1
+red 2 black 1 black 4 black 5 red 3 black 4 black 1
+red 2 black 5 black 1 black 1 black 1 red 2 black 1 black 5
+red 2 black 3 black 2 black 1 black 2 red 1 black 2 black 3
+red 2 black 1 black 2 black 1 black 2 black 2 black 1
+red 2 black 1 black 2 black 1 black 2 black 2 black 1
+red 2 black 2 black 2 black 1 black 2 black 2 black 2
+black 1 red 2 black 1 black 1 black 2 black 1 black 2 black 2 black 1
+black 2 red 2 black 2 black 2 black 2 black 1 black 2 black 2 black 2
+black 2 red 2 black 2 black 2 black 2 black 1 black 2 black 3
+black 1 black 2 black 1 black 2 black 2 black 1 black 2 black 2
+black 1 black 2 black 1 black 2 black 2 black 1 black 2 black 2
+black 2 black 2 black 2 black 2 black 1 black 2 black 2
+black 2 black 2 black 3 black 1 black 4
+black 4 black 16
+
+columns
+0
+black 4
+black 2 black 2
+black 2 black 2
+red 19 black 2 black 1
+red 22 black 2 black 1
+red 4 black 2 black 2
+red 2 black 2 black 2
+red 2 black 18 black 4
+red 2 black 3 black 2 black 1 black 2 black 3
+red 2 black 2 black 2 black 1 black 2 black 2
+red 2 black 2 black 2 black 1 black 2 black 2
+red 2 black 4 black 2 black 1 black 2 black 2
+red 2 black 2 black 2 black 2 black 1 black 2 black 2
+red 2 black 2 black 2 black 2 black 1 black 2 black 2
+black 1 red 1 black 1 black 2 black 2 black 1 black 2 black 1
+black 2 red 1 black 3 black 2 black 2 black 1 black 2 black 4
+black 2 red 1 black 5 black 2 red 2 black 1 black 1 black 4 black 1
+black 1 red 1 black 1 black 4 black 1 red 2 black 1 black 1 black 1 black 4 black 1
+black 1 red 1 black 1 black 4 red 4 black 4 black 4 black 1
+black 1 red 1 black 1 black 4 red 2 black 2 black 4 black 1
+red 1 black 1 red 1 black 1 black 4 black 1 red 2 black 4 black 1
+red 2 black 1 red 1 black 1 black 2 blue 1 red 1 blue 1 black 3 black 1
+red 1 red 2 black 14 blue 5 black 15
+red 5 black 14 blue 5 black 2 black 1
+red 1 black 1 black 2 blue 3 red 1 black 4 black 1
+red 2 black 1 black 4 black 3 red 2 black 4 black 1
+red 1 black 1 black 4 black 2 black 2 red 4 black 4 black 1
+black 1 black 4 black 2 black 4 red 2 black 4 black 1
+black 1 black 4 black 2 black 1 black 1 black 1 red 2 black 2 black 4 black 1
+black 5 black 2 black 2 black 1 black 1 red 1 black 2 black 4
+black 3 black 2 black 2 black 1 black 2 black 2 black 2
+black 1 black 2 black 2 black 1 black 2 black 2 black 1
+black 2 black 2 black 2 black 1 black 2 black 2 black 2
+black 2 black 2 black 2 black 1 black 2 black 2 black 2
+black 4 black 2 black 1 black 2 black 4
+black 2 black 2 black 1 black 2 black 2
+black 2 black 2 black 1 black 2 black 2
+black 3 black 2 black 1 black 2 black 3
+black 18

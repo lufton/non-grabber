@@ -1,0 +1,64 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/18/19"
+height 10
+id 200764
+link "https://www.griddlers.net/nonogram/-/g/200764"
+medium_time "0:05:19"
+points 1930
+popularity 73.55
+title "Sandwich"
+width 30
+
+color a 9999ff
+color b ffcc33
+color c ff9900
+color d cc6600
+color e ff0000
+color f 339900
+color g ffffcc
+
+rows
+c 1 d 3 c 4 d 4 c 4 d 2
+c 2 d 3 c 4 d 3 c 4 d 3 b 1 c 3
+b 1 c 2 d 2 c 4 b 1 d 2 c 4 d 3 b 1 c 7
+b 5 c 3 b 17 c 5
+b 16 f 2 b 12
+g 1 f 2 e 3 b 4 e 1 f 1 b 3 f 2 e 3 b 5 f 2 b 2 f 1
+b 3 f 2 g 2 f 1 e 4 g 1 f 3 g 3 e 3 g 2 f 2 g 2 f 1
+b 4 f 2 b 14 f 4 b 3
+b 21
+b 9
+
+columns
+b 2 g 1 b 1
+b 2 f 1 b 2
+b 3 f 1 b 2
+c 1 b 2 e 1 f 1 b 1
+c 2 b 2 e 1 f 1 b 1
+c 1 d 1 c 1 b 1 e 1 g 1 f 1 b 1
+c 1 d 2 c 1 b 2 g 1 f 1 b 1
+d 2 c 2 b 2 f 1 b 2
+d 2 c 1 b 3 e 1 b 2
+d 1 c 2 b 3 e 1 b 2
+c 3 b 2 e 2 b 2
+c 2 b 3 f 1 e 1 b 3
+c 2 d 1 b 3 g 1 b 3
+c 1 d 2 b 3 f 1 b 3
+d 2 c 1 b 3 f 1 b 3
+d 2 c 1 b 2 f 2 b 3
+d 1 c 2 b 1 f 2 g 1 b 3
+d 1 c 2 b 1 f 1 e 1 g 1 b 3
+c 2 d 1 b 2 e 1 g 1 b 3
+c 2 d 1 b 2 e 2 b 3
+c 1 d 2 b 3 e 1 b 2
+c 1 d 1 b 4 e 1 f 1 b 1
+d 2 c 1 b 3 g 1 f 1 b 1
+d 1 b 1 c 1 b 3 g 1 f 1 b 1
+c 2 b 3 f 2 b 1
+c 3 b 1 f 2 b 2
+c 3 b 1 f 1 g 1 b 1
+c 2 b 2 g 1 b 1
+c 2 b 2 f 1
+c 1 b 1 f 1

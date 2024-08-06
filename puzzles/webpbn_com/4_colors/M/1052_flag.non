@@ -1,0 +1,72 @@
+by "jagoda (jagoooodka)"
+collection "webpbn.com"
+copyright "(c) Copyright 2007 by jagoda"
+date "Jul 10, 2007"
+description "One more time polish flag."
+difficulty 1.25
+height 20
+id 1052
+link "https://webpbn.com/play.cgi?id=1052"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "flag"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 27 blue 2
+blue 7 blue 10 blue 2
+black 2 blue 1 blue 7 blue 2
+black 2 blue 2
+black 2 blue 2
+black 2 blue 2
+black 2 blue 2
+black 2 blue 2
+blue 1 black 2 blue 2
+blue 1 black 2 red 9 red 2 blue 1
+blue 1 black 2 red 16 red 3 blue 1
+blue 1 black 2 red 26 blue 1
+blue 1 black 2 red 26 blue 1
+blue 1 black 2 red 26 blue 1
+blue 2 black 2 red 26
+blue 2 black 2 red 25 blue 1
+blue 2 black 2 red 24 blue 2
+blue 2 black 2 red 3 blue 11 red 9 blue 3
+blue 2 black 2 blue 16 red 6 blue 4
+blue 2 black 2 blue 26
+
+columns
+blue 2 black 6 blue 12
+blue 2 black 12 blue 6
+blue 3 black 12
+blue 2 red 4 black 6
+blue 2 red 8 blue 2
+blue 2 red 8 blue 2
+blue 2 red 8 blue 2
+blue 1 red 7 blue 3
+blue 1 red 8 blue 3
+blue 1 red 8 blue 3
+blue 1 red 8 blue 3
+blue 1 red 8 blue 3
+blue 1 red 8 blue 3
+blue 1 red 8 blue 3
+blue 1 red 8 blue 3
+blue 1 red 8 blue 3
+blue 2 red 8 blue 3
+blue 2 red 7 blue 3
+blue 3 red 8 blue 2
+blue 3 red 7 blue 2
+blue 3 red 8 blue 1
+blue 3 red 8 blue 1
+blue 3 red 8 blue 1
+blue 3 red 8 blue 1
+blue 3 red 8 blue 1
+blue 2 red 8 blue 1
+blue 1 red 8 blue 2
+red 8 blue 3
+blue 9 red 7 blue 4
+blue 14 red 1 blue 5

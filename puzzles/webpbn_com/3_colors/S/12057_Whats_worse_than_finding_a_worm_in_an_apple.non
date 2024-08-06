@@ -1,0 +1,51 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Feb  4, 2011"
+description "Finding half a worm."
+difficulty 1.25
+height 15
+id 12057
+link "https://webpbn.com/play.cgi?id=12057"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "What's worse than finding a worm in an apple?"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+black 1 black 2
+red 3 black 1 red 3 black 1
+red 10 black 2
+red 11 black 1
+red 7 red 2
+red 6 black 1 red 3 black 1
+red 5 red 4 black 1
+red 5 red 5
+red 1 black 2 red 10 black 1
+black 3 red 10 black 1
+black 2 red 10
+black 2 red 10
+red 3 red 3
+0
+
+columns
+0
+red 5 black 3
+red 6 black 4
+red 7 black 2 red 2
+red 12
+red 12
+red 4 red 5
+black 2 red 3 red 4
+red 3 red 4
+red 3 black 1 red 6
+black 1 red 3 red 7
+black 2 red 11
+black 1 red 9
+black 2 red 5
+black 2 black 2

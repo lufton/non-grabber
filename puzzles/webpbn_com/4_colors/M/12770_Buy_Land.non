@@ -1,0 +1,62 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Sarah Andrews"
+date "Mar 16, 2011"
+description "They don't make it any more. I read that in a How-To-Homestead book in the 70's. This is part of my yard."
+difficulty 1.25
+height 20
+id 12770
+link "https://webpbn.com/play.cgi?id=12770"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Buy Land"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 3 green 2
+green 3 black 1 green 4
+green 3 black 2 green 2 black 1 green 3
+green 1 black 3 green 3 black 2 green 2
+green 2 black 2 green 1 black 1 green 1 black 1 green 2
+green 2 black 1 green 2 black 2 green 2
+black 1 green 2 black 1 green 1
+black 1 black 1 black 1 black 1 black 1
+black 8 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 8 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+green 20
+green 20
+blue 8 green 12
+blue 8 green 12
+blue 7 green 13
+blue 7 green 13
+blue 5 green 15
+green 20
+
+columns
+black 1 black 1 green 2 blue 5 green 1
+black 5 green 2 blue 5 green 1
+black 1 black 1 green 2 blue 5 green 1
+black 1 black 1 green 2 blue 5 green 1
+black 5 green 2 blue 5 green 1
+black 1 black 1 green 2 blue 4 green 2
+black 1 black 1 green 2 blue 4 green 2
+black 5 green 2 blue 2 green 4
+green 8
+green 3 green 8
+green 2 black 1 green 2 green 8
+green 3 black 2 green 1 green 8
+green 2 black 10 green 8
+green 1 black 2 green 3 green 8
+green 3 black 1 green 2 green 8
+green 5 black 1 green 1 green 8
+green 2 black 10 green 8
+green 2 black 1 green 3 green 8
+green 4 green 8
+green 2 green 8

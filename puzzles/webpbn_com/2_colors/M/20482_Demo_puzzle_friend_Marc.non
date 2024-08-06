@@ -1,0 +1,57 @@
+by "Tom King (sgusa)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Tom King"
+date "Nov 26, 2012"
+description "He is here and I wanted him to see this"
+difficulty 2.0
+height 20
+id 20482
+link "https://webpbn.com/play.cgi?id=20482"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Demo puzzle friend Marc"
+width 20
+
+rows
+6
+2,2
+2,1
+1,5,1
+2,2,2,1
+2,1,1
+1,1,1
+1,1,1
+1,1,1
+1,1
+2,2
+1,4,1
+1,2,1
+1,1
+2,1
+2,2
+3
+0
+0
+0
+
+columns
+0
+0
+0
+0
+2
+9
+2,5
+2,2,2
+1,2,2,1,2
+1,1,1,1,2,1
+1,2,2,2
+1,2,1,1
+2,1
+4,4
+6
+0
+0
+0
+0
+0

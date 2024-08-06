@@ -1,0 +1,79 @@
+by "gosia-sio"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/26/07"
+height 25
+id 50890
+link "https://www.griddlers.net/nonogram/-/g/50890"
+medium_time "0:07:59"
+points 29610
+popularity 70.03
+title "Domino"
+width 30
+
+color a ffffff
+color b 000000
+color c cccccc
+color d ff0000
+color e 0033cc
+color f ffff33
+color g cccc00
+
+rows
+b 3
+b 1 f 3 b 2
+b 1 f 6 b 2
+b 1 f 9 b 2
+b 1 f 8 d 2 f 2 b 2
+b 1 f 2 d 2 f 4 d 4 f 2 g 1 b 1 c 2
+b 1 f 2 d 4 f 4 d 2 f 2 g 2 b 1 c 3
+b 1 f 4 d 2 f 8 g 3 b 1 c 3
+b 3 f 12 g 3 b 1 c 4
+b 1 f 3 b 2 f 9 g 3 b 1 c 4
+b 1 f 6 b 2 f 6 g 3 b 1 c 4
+b 1 f 9 b 2 f 3 g 3 b 1 c 4
+b 1 f 12 b 2 g 3 b 1 c 4
+b 1 f 5 e 2 f 7 g 1 b 3 c 4
+b 1 f 5 e 4 f 5 g 3 b 1 c 4
+b 1 f 7 e 2 f 5 g 3 b 1 c 4
+b 1 f 13 g 3 b 1 c 4
+b 1 g 1 f 11 g 3 b 1 c 4
+b 1 g 3 f 8 g 3 b 1 c 4
+b 1 g 5 f 5 g 3 b 1 c 4
+b 2 g 6 f 2 g 3 b 1 c 4
+b 2 g 8 b 1 c 4
+b 2 g 5 b 1 c 4
+b 2 g 2 b 1 c 4
+b 2 c 4
+
+columns
+b 6
+b 1 f 2 g 3 b 1
+b 1 f 4 g 3 b 1
+b 1 f 5 g 3 b 1
+b 1 f 7 g 3 b 1
+b 1 f 8 g 3 b 1
+b 1 f 10 g 3 b 1
+b 1 f 5 e 1 f 5 g 3 b 1
+b 2 f 4 e 3 f 5 g 3 b 1
+b 1 f 1 b 1 f 4 e 3 f 5 g 3 b 1
+b 1 f 3 b 1 f 4 e 1 f 5 g 3 b 1 c 1
+b 1 f 4 b 1 f 9 g 3 b 1 c 2
+b 1 f 2 d 1 f 3 b 1 f 7 g 3 b 1 c 3
+b 1 f 2 d 3 f 2 b 1 f 6 g 3 b 1 c 4
+b 1 f 3 d 3 f 3 b 1 f 4 g 3 b 1 c 4
+b 1 f 5 d 1 f 4 b 1 f 3 g 3 b 1 c 4
+b 1 f 11 b 1 f 1 g 3 b 1 c 4
+b 1 f 11 b 1 g 3 b 1 c 4
+b 1 f 10 g 1 b 1 g 1 b 1 c 4
+b 1 f 3 d 1 f 5 g 2 b 2 c 4
+b 1 f 1 d 3 f 3 g 3 b 1 c 4
+b 1 f 1 d 3 f 2 g 3 b 1 c 4
+b 1 f 1 d 1 f 2 g 3 b 1 c 4
+b 1 f 3 g 3 b 1 c 4
+b 1 f 1 g 3 b 1 c 4
+b 1 g 3 b 1 c 4
+b 3 c 4
+c 6
+c 5
+c 3

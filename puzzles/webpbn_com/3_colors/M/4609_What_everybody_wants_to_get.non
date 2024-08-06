@@ -1,0 +1,61 @@
+by "Itai Palmoo (igot3)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Itai Palmoo"
+date "Jan  2, 2009"
+description "A+ grade"
+difficulty 1.25
+height 20
+id 4609
+link "https://webpbn.com/play.cgi?id=4609"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.5
+title "What everybody wants to get"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+red 8 black 2
+red 1 red 1 black 2
+red 1 red 1 red 1 black 2
+red 1 red 1 red 1 black 2
+red 1 red 1 red 1 black 2
+red 1 red 1 red 1 black 2
+red 8 red 7 black 2
+red 1 red 1 red 1 black 2
+red 1 red 1 red 1 black 2
+red 1 red 1 red 1 black 2
+red 1 red 1 red 1 black 2
+red 1 red 1 black 2
+red 1 red 1 black 2
+red 1 red 1 black 2
+red 1 red 1
+red 1 red 1
+red 1 red 1 black 2
+red 1 red 1 black 2
+0
+
+columns
+0
+red 18
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 1 red 1
+red 18
+0
+0
+red 1
+red 1
+red 1
+red 9
+red 1
+red 1
+red 1
+black 15 black 2
+black 15 black 2

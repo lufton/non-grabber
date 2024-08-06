@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Brian Bellis"
+date "Jun 30, 2013"
+description "Forehead"
+difficulty 1.25
+height 20
+id 22293
+link "https://webpbn.com/play.cgi?id=22293"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Compound word 23"
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 black 2 black 2 black 2
+black 4 black 4 black 4 black 4
+black 4 black 4 black 4 black 4
+black 4 black 4 black 4 black 4
+black 2 black 2 black 2 black 2
+red 19
+red 21
+red 2 red 15 red 2
+black 2 red 15 black 2
+black 2 red 15 black 2
+black 2 black 15 black 2
+black 2 blue 15 black 2
+blue 15
+blue 15
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+black 2 black 2
+
+columns
+red 2 black 4
+black 3 red 3 black 4
+black 5 red 2
+black 5 red 5 black 1 blue 8 black 1
+black 3 red 5 black 1 blue 8 black 1
+red 5 black 1 blue 3
+black 3 red 5 black 1 blue 3
+black 5 red 5 black 1 blue 3
+black 5 red 5 black 1 blue 3
+black 3 red 5 black 1 blue 3
+red 5 black 1 blue 3
+black 3 red 5 black 1 blue 3
+black 5 red 5 black 1 blue 3
+black 5 red 5 black 1 blue 3
+black 3 red 5 black 1 blue 3
+red 5 black 1 blue 3
+black 3 red 5 black 1 blue 8 black 1
+black 5 red 5 black 1 blue 8 black 1
+black 5 red 2
+black 3 red 3 black 4
+red 2 black 4

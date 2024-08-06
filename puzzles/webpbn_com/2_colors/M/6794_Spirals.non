@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Gator"
+date "Sep 25, 2009"
+description "A spider spinning her web (negative image)."
+difficulty 2.5
+height 20
+id 6794
+link "https://webpbn.com/play.cgi?id=6794"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Spirals"
+width 20
+
+rows
+1,4,4,3
+1,3,3,2,2
+1,1,2,3,1,1,2,1
+3,2,3,2,2
+2,1,1,1,1,1,2,1
+2,2,2,2,3,1
+1,1,1,1,1,2,1,1
+1,1,2,1,1,1
+1,1,2,1,2,1
+1,2,1,1,2,1,1
+2,1,2,1,3,2
+1,1,1,1,2,2
+1,3,4,2,1
+3,1,1,1,1,1,1
+1,3,2,3,2
+2,2,2,2,2,1,1,1
+3,4,4,2
+3,1,1,3,1
+2,8,3,2
+1,9,2,1,1,1
+
+columns
+1,2,5,6
+1,3,2,1,4
+1,1,1,3,3,2,1
+2,2,2,3,2
+2,1,1,1,2,2,3
+1,2,1,1,1,2,1,2
+1,1,3,2,1,2,2
+1,1,2,2
+1,3,1,1,1,2
+1,2,1,1,1,3,1,3
+1,3,2,1,1,2,2
+2,1,1,2,1,1,2
+3,4,3,1,5
+1,1,1,1,6
+4,2,2,1,1
+1,3,1,2,2,1
+3,1,3,1
+1,3,2,2,1
+2,5,1,1,1,1
+3,2,5

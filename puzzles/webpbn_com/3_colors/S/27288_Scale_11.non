@@ -1,0 +1,51 @@
+by "Thomas Genuine (Genuine)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Thomas Genuine"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 10
+id 27288
+link "https://webpbn.com/play.cgi?id=27288"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Scale 1:1"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 18
+black 2 black 1
+black 2 black 1
+black 2 black 3 black 1
+black 2 black 1 black 1
+black 2 red 1 black 1 red 1 red 1 red 1 black 1
+black 2 black 1 black 1
+black 2 black 1
+black 2 black 1
+black 18
+
+columns
+black 8
+black 10
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 1 black 1
+black 1 black 1 black 1
+black 1 black 4 black 1
+black 1 black 1 black 1
+black 1 red 1 black 1
+black 1 black 1
+black 1 red 1 black 1
+black 1 black 1
+black 1 red 1 black 1
+black 1 black 1
+black 1 black 1
+black 8

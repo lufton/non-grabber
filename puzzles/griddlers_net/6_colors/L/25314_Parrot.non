@@ -1,0 +1,81 @@
+by "DOLFIJN33"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "8/16/05"
+height 31
+id 25314
+link "https://www.griddlers.net/nonogram/-/g/25314"
+medium_time "0:10:54"
+points 33423
+popularity 78.81
+title "Parrot"
+width 27
+
+color a ffffff
+color b 000000
+color c ff0000
+color e ffff00
+color f 00ff00
+color g 008080
+
+rows
+b 6
+b 1 c 6 b 1
+b 1 c 3 c 3 b 1
+b 1 c 2 b 1 c 2 b 1
+b 4 c 3 b 1
+b 2 e 2 b 2 c 3 b 1
+b 1 e 3 b 2 c 1 c 5 b 1
+b 1 e 4 b 1 c 6 e 1 b 2
+b 1 e 2 b 1 c 5 e 1 c 1 e 1 c 1 e 1 b 1
+b 1 e 1 b 1 c 3 f 2 e 1 c 1 e 1 c 1 e 1 c 1 e 1 b 1
+b 2 c 4 f 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 b 1
+b 1 c 2 g 1 f 4 e 1 c 1 e 1 c 1 e 1 b 1
+b 1 c 2 g 2 f 3 c 1 e 1 c 1 e 1 c 1 b 2
+b 1 c 1 g 4 f 4 e 1 c 1 e 1 f 1 b 2
+b 1 c 2 g 4 f 3 c 1 f 2 c 1 f 1 b 1
+b 1 c 2 g 6 f 2 c 1 f 3 b 1
+b 1 c 2 g 7 f 5 b 2
+b 1 c 3 g 7 f 5 b 1
+b 1 c 3 g 8 f 5 b 1
+b 1 c 3 g 8 f 5 b 1
+b 1 c 3 g 8 f 5 b 1
+b 1 c 5 g 6 f 4 b 1
+b 1 c 5 g 1 c 1 g 4 f 3 b 1
+b 3 c 5 g 4 f 3 b 1
+b 3 c 3 g 5 f 3 b 1
+b 4 b 3 c 1 g 6 f 3 b 1
+b 3 b 3 g 6 f 3 b 1
+b 3 g 3 f 3 b 1
+b 1 g 3 f 2 b 1
+b 1 g 3 f 3 b 1
+b 2 g 3 f 2 b 1
+
+columns
+b 5
+b 2 e 4 b 1
+b 3 e 4 b 11
+b 1 c 2 b 1 e 3 b 1 c 11 b 1
+b 1 c 3 b 3 e 1 c 5 g 1 c 7 b 1
+b 1 c 2 b 3 c 3 g 6 c 5 b 1 b 1
+b 1 c 1 c 3 f 1 c 1 f 1 g 8 c 3 b 1 b 1
+b 1 c 1 b 1 c 2 f 4 g 8 c 2 b 1 b 1
+b 1 c 2 c 3 e 1 c 1 f 3 g 7 c 2 b 4
+b 1 c 7 e 1 c 1 e 1 f 4 g 6 c 3 b 1 b 1
+b 1 c 7 e 1 c 1 e 1 c 1 f 2 g 7 c 2 b 3
+b 2 c 4 e 1 c 1 e 1 c 1 e 1 f 3 g 7 c 2 b 1
+b 2 c 1 e 1 c 1 e 1 c 1 e 1 c 1 e 1 c 1 f 2 g 5 c 3 b 2
+b 2 e 1 c 1 e 1 c 1 e 1 c 1 f 1 c 1 f 2 g 5 c 3 b 1
+b 2 e 1 c 1 e 1 c 1 e 1 f 6 g 6 b 1
+b 4 f 1 c 1 f 6 g 6 b 1
+b 2 f 8 g 5 b 1
+b 4 f 6 g 4 b 1
+b 2 f 6 g 4 b 2
+b 2 f 5 g 5 b 1
+b 3 f 3 g 4 b 1
+b 1 f 4 g 3
+b 1 f 5 g 1
+b 1 f 4 g 1
+b 3 f 2
+b 1 f 1
+b 1

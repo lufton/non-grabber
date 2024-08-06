@@ -1,0 +1,71 @@
+by "robert svanberg (tango)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by robert svanberg"
+date "Apr 16, 2018"
+description "Clue 1: Forbid Tarantino adopting end of movie craft. (11) Clue 2: HIJKLMNO (5) (Clue 2 is my all time favourite - definitely not my own work, I may have originally seen it in the London Times crossword)"
+difficulty 2.25
+height 25
+id 31084
+link "https://webpbn.com/play.cgi?id=31084"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Cryptic craft"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+black 1 black 2
+black 2 black 3 black 1
+black 3 black 3 black 3
+black 4 black 4 black 4
+black 3 black 1 black 2 black 1 black 1 black 3
+black 2 black 1 black 3 black 1 black 1 black 4
+black 2 black 1 black 2 black 1 black 1 black 1 black 1
+black 2 black 1 black 2 black 1 black 1 black 1 black 1
+black 3 black 1 black 2 black 1 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1 black 2 black 1
+black 12 black 1 black 5
+black 8 black 1 black 2
+black 1 black 1 black 1 black 1
+black 7 black 1 black 1 black 1 black 2
+black 1 black 2 black 17 black 1
+black 1 black 4
+black 2 black 3
+black 4 blue 1 black 4 blue 1
+black 6 blue 3 black 12 blue 2
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 4 blue 2 blue 3 blue 1 blue 3 blue 2 blue 1
+blue 4 blue 1 blue 4 blue 3 blue 2
+blue 1 blue 3 blue 3 blue 2 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 2 blue 1 blue 2 blue 3 blue 2
+blue 2 blue 2 blue 3 blue 3 blue 2 blue 4
+
+columns
+black 1 black 6 blue 1 blue 3
+black 2 black 1 black 3 blue 1 blue 1
+black 3 black 2 black 2 blue 3
+black 4 black 2 black 2 blue 4
+black 3 black 1 black 1 black 1 blue 2 blue 1
+black 3 black 1 black 1 black 1 blue 2 blue 1
+black 3 black 1 black 2 blue 2 blue 2
+black 3 black 1 black 1 blue 1 blue 2
+black 3 black 1 black 1 blue 3 blue 2 blue 1
+black 15 blue 1 blue 1
+black 2 black 1 black 1 blue 1 blue 2
+black 5 black 1 black 1 blue 3
+black 4 black 1 black 1 black 1 blue 3 blue 1
+black 4 black 1 black 1 black 1 blue 2 blue 1
+black 5 black 4 black 1 blue 2 blue 1
+black 4 black 1 black 1 black 1 blue 1
+black 12 black 1 black 1 blue 1 blue 2
+black 1 black 1 blue 2 blue 1
+black 8 black 1 black 1 blue 3 blue 2
+black 2 black 1 black 1 black 2 blue 1 blue 1
+black 14 black 2 blue 1 blue 2
+black 3 black 2 black 5 blue 2 blue 1
+black 2 black 2 black 4 blue 2 blue 1
+black 7 black 1 black 2 blue 1 blue 2 blue 2
+black 4 blue 3 blue 3

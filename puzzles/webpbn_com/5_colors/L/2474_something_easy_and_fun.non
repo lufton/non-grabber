@@ -1,0 +1,83 @@
+by "person harris (games1793)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by person harris"
+date "Mar 21, 2008"
+description "heart flower by a 10 year old"
+difficulty 1.5
+height 30
+id 2474
+link "https://webpbn.com/play.cgi?id=2474"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "something easy and fun"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 30
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 4 black 1
+black 1 red 5 red 8 black 1
+black 1 red 6 red 8 black 1
+black 1 red 9 black 4 red 2 black 1
+black 1 red 10 black 4 red 2 black 1
+black 1 red 11 black 2 red 3 black 1
+black 1 red 15 black 1
+black 1 red 13 black 1
+black 1 red 12 black 1
+black 1 red 9 black 1
+black 1 red 4 black 1
+black 1 red 2 black 1
+black 1 red 2 black 1
+black 1 blue 2 green 1 blue 1 black 1
+black 1 blue 4 green 1 blue 3 black 1
+black 1 blue 4 green 1 blue 3 black 1
+black 1 blue 3 green 1 blue 3 black 1
+black 1 blue 2 green 1 blue 3 black 1
+black 1 blue 1 green 1 blue 2 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 1 green 1 black 1
+black 30
+
+columns
+black 30
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 red 3 black 1
+black 1 red 7 black 1
+black 1 red 9 black 1
+black 1 red 9 black 1
+black 1 red 9 black 1
+black 1 red 9 blue 3 black 1
+black 1 red 10 blue 4 black 1
+black 1 red 8 blue 4 black 1
+black 1 red 12 blue 5 black 1
+black 1 red 12 green 12 black 1
+black 1 red 3 black 2 red 5 blue 5 black 1
+black 1 red 3 black 3 red 3 blue 6 black 1
+black 1 red 3 black 3 red 3 blue 4 black 1
+black 1 red 3 black 2 red 3 black 1
+black 1 red 6 black 1
+black 1 red 5 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 1
+black 30

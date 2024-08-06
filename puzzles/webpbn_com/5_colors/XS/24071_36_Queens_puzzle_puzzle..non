@@ -1,0 +1,35 @@
+by "Joe (infrapinklizzard)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Joe"
+date "Mar 24, 2014"
+description "Since we have only 5 colors (including white), this puzzle is incomplete. Can you choose 6 of the white (dotted) pixels and return them to the unknown state to make every row, column and 45 degree diagonal have only one pixel of each color?"
+difficulty 1.75
+height 6
+id 24071
+link "https://webpbn.com/play.cgi?id=24071"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "36 Queens puzzle puzzle."
+width 6
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 green 1 blue 1 red 1
+red 1 blue 1 black 1 green 1
+blue 1 green 1 red 1 black 1
+red 1 black 1 green 1 blue 1
+green 1 red 1 blue 1 black 1
+black 1 blue 1 red 1 green 1
+
+columns
+blue 1 red 1 green 1 black 1
+black 1 red 1 green 1 blue 1
+green 1 blue 1 black 1 red 1
+black 1 red 1 green 1 blue 1
+blue 1 green 1 black 1 red 1
+red 1 black 1 blue 1 green 1

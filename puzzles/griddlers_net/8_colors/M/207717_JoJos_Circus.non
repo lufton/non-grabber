@@ -1,0 +1,56 @@
+by "op1"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/6/20"
+height 16
+id 207717
+link "https://www.griddlers.net/nonogram/-/g/207717"
+medium_time "0:02:50"
+points 308
+popularity 77.14
+title "JoJo's Circus"
+width 15
+
+color a ffd4ab
+color b 000000
+color c ffffff
+color d ff0000
+color e cc0000
+color f 7fbfff
+color g cccc00
+color h f5f500
+
+rows
+d 2
+d 2
+f 7
+f 11
+f 13
+f 11
+e 2 c 7 e 2
+e 2 c 9 e 2
+e 3 c 1 b 1 c 2 d 1 c 2 b 1 c 1 e 3
+e 3 c 3 d 3 c 3 e 3
+e 3 c 4 d 1 c 4 e 3
+e 3 c 6 b 1 c 2 e 3
+e 4 c 2 b 3 c 2 e 4
+e 1 e 2 c 5 e 2 e 1
+h 1 g 2 c 1 g 2 h 1
+h 3 g 3 h 3
+
+columns
+e 6
+f 1 e 6
+f 3 e 8
+f 3 e 1 c 5 e 2 h 1
+f 4 c 2 b 1 c 4 h 2
+f 4 c 8 g 1 h 1
+d 2 f 4 c 3 d 1 c 2 b 1 c 1 g 2
+d 2 f 4 c 2 d 3 c 1 b 1 c 2 g 1
+f 4 c 3 d 1 c 2 b 1 c 1 g 2
+f 4 c 5 b 1 c 2 g 1 h 1
+f 4 c 2 b 1 c 4 h 2
+f 3 e 1 c 5 e 2 h 1
+f 3 e 8
+f 1 e 6
+e 6

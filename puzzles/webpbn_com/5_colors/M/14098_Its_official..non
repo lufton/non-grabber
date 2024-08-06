@@ -1,0 +1,73 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Aldege Cholette"
+date "May 22, 2011"
+description "In 1936,Louis Meyer won his third Indy 500 and to the delight of The National Dairy Council,establishes the tradition of drinking milk in the winners circle."
+difficulty 1.75
+height 30
+id 14098
+link "https://webpbn.com/play.cgi?id=14098"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "It's official."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 5
+black 7
+black 8
+black 5
+black 4 blue 1
+black 2 black 1 green 6
+black 4 red 1 green 2 black 1 green 1
+black 2 red 1 green 2 black 2 green 1
+black 1 black 1 black 3 green 3
+black 2 black 1 black 1 blue 1 black 1
+black 2 blue 1 black 5 black 1 blue 1 black 1
+black 1 blue 1 black 1 blue 5 black 1 blue 2 black 1
+black 1 blue 1 black 1 blue 7 black 1
+black 1 blue 2 black 7
+black 1 blue 6 black 1
+black 1 blue 6 black 1
+black 1 blue 4 black 5
+black 2 blue 7 black 2
+black 2 blue 6 black 2 red 1
+black 9 red 3
+red 5 black 3 red 6
+red 6 black 4 red 6
+red 8 red 6
+red 20
+red 6 red 11
+red 5 black 3 red 10
+red 5 black 1 red 3 black 1 red 10
+red 4 black 1 red 1 black 1 red 1 black 1 red 10
+black 1 red 3 black 1
+black 3
+
+columns
+black 5 red 4
+black 7 black 8 red 6
+black 5 black 2 black 2 blue 6 black 2 red 7
+black 7 black 2 blue 1 black 2 blue 5 black 2 red 8
+black 4 black 1 blue 2 black 1 blue 5 black 1 red 8
+black 3 black 1 blue 2 black 1 blue 5 black 1 red 5 black 3
+black 3 blue 1 black 2 blue 2 black 1 blue 2 black 1 blue 2 black 1 red 4 black 1 red 3 black 1
+black 2 red 2 black 1 black 1 blue 2 black 1 blue 2 black 1 blue 2 black 1 red 4 black 1 red 1 black 1 red 1 black 1
+green 2 black 1 blue 2 black 4 blue 2 black 1 red 2 black 1 red 3 black 1
+green 2 black 1 blue 1 black 1 black 1 blue 2 black 3 red 2 black 3
+green 1 black 5 blue 2 black 1 black 6 red 5
+green 1 black 2 blue 3 black 1 black 5 red 5
+green 1 black 4 black 1 red 5
+green 1 green 1 red 5
+green 1 green 1 red 10
+green 4 red 9
+red 9
+red 8
+red 8
+red 8

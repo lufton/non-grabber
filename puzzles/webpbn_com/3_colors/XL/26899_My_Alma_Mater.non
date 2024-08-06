@@ -1,0 +1,101 @@
+by "Dude (Dude)"
+collection "webpbn.com"
+copyright "(c) Copyright 2015 by Dude"
+date "Jan  1, 2015"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 40
+id 26899
+link "https://webpbn.com/play.cgi?id=26899"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "My Alma Mater"
+width 40
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 4 red 13 black 6 red 13 black 4
+black 4 red 1 red 1 black 6 red 1 red 1 black 4
+black 4 red 1 red 9 red 1 black 6 red 1 red 9 red 1 black 4
+black 4 red 1 red 9 red 1 black 6 red 1 red 9 red 1 black 4
+black 4 red 1 red 9 red 1 black 6 red 1 red 9 red 1 black 4
+black 4 red 1 red 4 red 1 black 6 red 1 red 4 red 1 black 4
+black 4 red 4 red 4 red 3 black 6 red 3 red 4 red 4 black 4
+black 7 red 1 red 4 red 1 black 10 red 1 red 4 red 1 black 7
+black 7 red 1 red 5 red 1 black 8 red 1 red 5 red 1 black 7
+black 7 red 1 red 6 red 1 black 6 red 1 red 6 red 1 black 7
+black 7 red 1 red 6 red 1 black 6 red 1 red 6 red 1 black 7
+black 7 red 1 red 6 red 1 black 6 red 1 red 6 red 1 black 7
+black 6 red 2 red 6 red 1 black 6 red 1 red 6 red 2 black 6
+black 6 red 1 red 3 red 3 red 1 black 4 red 1 red 3 red 3 red 1 black 6
+black 6 red 1 red 3 red 3 red 1 black 4 red 1 red 3 red 3 red 1 black 6
+black 6 red 1 red 3 red 3 red 1 black 4 red 1 red 3 red 3 red 1 black 6
+black 6 red 1 red 3 red 1 red 3 red 1 black 2 red 1 red 3 red 1 red 3 red 1 black 6
+black 5 red 2 red 3 red 1 red 3 red 1 black 2 red 1 red 3 red 1 red 3 red 2 black 5
+black 5 red 1 red 3 red 1 red 3 red 1 black 2 red 1 red 3 red 1 red 3 red 1 black 5
+black 5 red 1 red 3 red 1 black 1 red 1 red 3 red 2 red 3 red 1 black 1 red 1 red 3 red 1 black 5
+black 5 red 1 red 3 red 1 black 1 red 1 red 3 red 2 red 3 red 1 black 1 red 1 red 3 red 1 black 5
+black 5 red 1 red 3 red 1 black 1 red 1 red 3 red 2 red 3 red 1 black 1 red 1 red 3 red 1 black 5
+black 4 red 2 red 3 red 1 black 2 red 1 red 3 red 3 red 1 black 2 red 1 red 3 red 2 black 4
+black 4 red 1 red 3 red 1 black 2 red 1 red 3 red 3 red 1 black 2 red 1 red 3 red 1 black 4
+black 4 red 1 red 3 red 1 black 3 red 1 red 3 red 3 red 1 black 3 red 1 red 3 red 1 black 4
+black 4 red 1 red 3 red 1 black 4 red 1 red 6 red 1 black 4 red 1 red 3 red 1 black 4
+black 4 red 1 red 3 red 1 black 5 red 1 red 4 red 1 black 5 red 1 red 3 red 1 black 4
+black 3 red 2 red 3 red 1 black 3 red 3 red 4 red 3 black 3 red 1 red 3 red 2 black 3
+black 3 red 1 red 3 red 1 black 3 red 1 red 4 red 1 black 3 red 1 red 3 red 1 black 3
+black 3 red 1 red 3 red 1 black 3 red 1 red 8 red 1 black 4 red 1 red 3 red 1 black 3
+black 3 red 1 red 3 red 1 black 4 red 1 red 8 red 1 black 4 red 1 red 3 red 1 black 3
+red 4 red 3 red 3 black 2 red 1 red 8 red 1 black 2 red 3 red 3 red 4
+red 1 red 3 red 1 black 2 red 1 red 1 black 2 red 1 red 3 red 1
+red 1 red 8 red 1 black 2 red 12 black 2 red 1 red 8 red 1
+red 1 red 8 red 1 black 16 red 1 red 8 red 1
+red 1 red 8 red 1 black 16 red 1 red 8 red 1
+red 1 red 8 red 1 black 16 red 1 red 8 red 1
+red 1 red 8 red 1 black 16 red 1 red 8 red 1
+red 1 red 1 black 16 red 1 red 1
+red 12 black 16 red 12
+
+columns
+black 31 red 9
+black 31 red 1 red 1
+black 31 red 1 red 5 red 1
+black 27 red 5 red 5 red 1
+red 7 black 15 red 6 red 5 red 1
+red 1 red 1 black 10 red 6 red 9 red 1
+red 1 red 3 red 1 black 5 red 6 red 14 red 1
+red 1 red 3 red 7 red 19 red 1
+red 1 red 3 red 15 red 5 red 1
+red 1 red 22 red 2 red 5 red 1
+red 1 red 17 red 6 black 1 red 1 red 1
+red 1 red 12 red 5 black 7 red 9
+red 1 red 11 red 3 black 21
+red 1 red 3 red 8 red 3 black 18
+red 1 red 3 red 2 red 10 red 3 black 2 red 7 black 6
+red 1 red 1 black 1 red 1 red 9 red 1 black 1 red 1 red 1 black 6
+red 7 black 2 red 4 red 9 red 2 red 3 red 1 black 6
+black 13 red 3 red 7 red 3 red 1 black 6
+black 16 red 3 red 10 red 1 black 6
+black 19 red 3 red 7 red 1 black 6
+black 19 red 3 red 7 red 1 black 6
+black 16 red 3 red 10 red 1 black 6
+black 13 red 3 red 7 red 3 red 1 black 6
+red 7 black 2 red 4 red 9 red 2 red 3 red 1 black 6
+red 1 red 1 black 1 red 1 red 9 red 1 black 1 red 1 red 1 black 6
+red 1 red 3 red 2 red 10 red 3 black 2 red 7 black 6
+red 1 red 3 red 8 red 3 black 18
+red 1 red 11 red 3 black 21
+red 1 red 12 red 5 black 7 red 9
+red 1 red 17 red 5 black 2 red 1 red 1
+red 1 red 22 red 3 red 5 red 1
+red 1 red 3 red 15 red 5 red 1
+red 1 red 3 red 7 red 19 red 1
+red 1 red 3 red 1 black 5 red 6 red 14 red 1
+red 1 red 1 black 10 red 6 red 9 red 1
+red 7 black 15 red 6 red 5 red 1
+black 27 red 5 red 5 red 1
+black 31 red 1 red 5 red 1
+black 31 red 1 red 1
+black 31 red 9

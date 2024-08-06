@@ -1,0 +1,112 @@
+by "frederik gravgaard (villahus)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by frederik gravgaard"
+date "Feb  2, 2009"
+description "Remember this logo"
+difficulty 4.0
+height 40
+id 4809
+link "https://webpbn.com/play.cgi?id=4809"
+note "published,definitely non-unique,may require much guessing"
+quality 1.75
+title "My danish fotballclub"
+width 50
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 12
+black 5 red 10 black 5
+black 3 red 18 black 3
+black 4 red 6 blue 6 red 6 black 4
+black 3 red 5 blue 2 blue 6 blue 2 red 5 black 3
+black 2 red 5 blue 4 blue 6 blue 5 red 4 black 2
+black 3 red 3 blue 6 blue 1 blue 1 blue 6 red 3 black 3
+black 2 red 3 blue 1 blue 4 blue 1 red 3 black 2
+black 2 red 3 blue 6 blue 1 blue 2 blue 5 red 3 black 2
+black 1 red 3 blue 1 blue 1 blue 1 blue 2 blue 2 blue 1 blue 1 blue 2 blue 1 red 3 black 1
+black 2 red 2 blue 2 blue 1 blue 4 blue 2 blue 1 blue 2 blue 1 blue 2 blue 1 blue 2 red 2 black 2
+black 1 red 2 blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 3 red 2 black 1
+black 2 red 2 blue 3 blue 1 blue 1 blue 2 blue 2 blue 1 blue 1 blue 1 blue 1 blue 2 blue 1 blue 1 blue 3 red 2 black 2
+black 1 red 2 blue 4 blue 1 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 4 red 2 black 1
+black 1 red 2 blue 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 4 red 2 black 1
+black 2 red 2 blue 4 blue 1 blue 1 blue 2 blue 1 blue 1 blue 2 blue 1 blue 1 blue 3 blue 1 blue 1 blue 4 red 2 black 2
+black 1 red 2 blue 5 blue 1 blue 1 blue 1 blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 5 blue 1 blue 3 blue 2 blue 2 blue 5 red 2 black 1
+black 1 red 2 blue 5 blue 1 blue 3 blue 2 blue 3 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 5 blue 1 blue 1 blue 2 blue 1 blue 2 blue 2 blue 1 blue 2 blue 5 red 2 black 1
+black 1 red 2 blue 5 blue 1 blue 1 blue 3 blue 1 blue 1 blue 1 blue 3 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 5 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 5 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 5 blue 1 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 red 2 black 1
+black 2 red 2 blue 4 blue 1 blue 1 blue 1 blue 2 blue 1 blue 2 blue 2 blue 1 blue 1 blue 1 blue 1 blue 4 red 2 black 2
+black 1 red 2 blue 4 blue 1 blue 1 blue 3 blue 2 blue 1 blue 1 blue 1 blue 1 blue 3 blue 1 blue 4 red 2 black 1
+black 1 red 2 blue 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 4 red 2 black 1
+black 2 red 2 blue 3 blue 1 blue 4 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 blue 1 blue 3 red 2 black 2
+black 1 red 2 blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 3 red 2 black 1
+black 2 red 2 blue 2 blue 5 blue 1 blue 1 blue 8 blue 2 red 2 black 2
+black 1 red 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 red 3 black 1
+black 2 red 3 blue 6 blue 1 blue 2 blue 1 blue 6 red 3 black 2
+black 2 red 3 blue 6 blue 4 blue 2 blue 6 red 3 black 2
+black 3 red 3 blue 6 blue 4 blue 6 red 3 black 3
+black 2 red 5 blue 4 blue 6 blue 4 red 5 black 2
+black 3 red 5 blue 2 blue 6 blue 2 red 5 black 3
+black 4 red 6 blue 6 red 6 black 4
+black 3 red 18 black 3
+black 5 red 10 black 5
+black 12
+
+columns
+black 10
+black 4 red 8 black 4
+black 3 red 14 black 3
+black 3 red 5 blue 8 red 5 black 3
+black 2 red 4 blue 14 red 4 black 2
+black 2 red 3 blue 18 red 3 black 2
+black 1 red 3 blue 20 red 3 black 1
+black 2 red 2 blue 22 red 2 black 2
+black 2 red 2 red 2 black 2
+black 1 red 2 blue 5 red 2 black 1
+black 2 red 2 blue 4 blue 2 blue 1 red 2 black 2
+black 1 red 2 blue 2 blue 3 blue 1 blue 1 red 2 black 1
+black 1 red 2 blue 2 blue 1 blue 2 blue 2 blue 1 blue 1 blue 4 red 2 black 1
+black 2 red 2 blue 1 blue 1 blue 2 blue 2 blue 1 blue 2 blue 1 blue 1 blue 3 red 2 black 2
+black 1 red 2 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 4 red 2 black 1
+black 2 red 2 blue 2 blue 1 blue 1 blue 3 blue 1 blue 1 blue 1 blue 1 blue 4 red 2 black 2
+black 1 red 2 blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 3 blue 1 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 3 blue 1 blue 1 blue 1 blue 3 blue 1 blue 1 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 1 blue 1 blue 3 blue 1 blue 1 red 2 black 1
+black 2 red 2 blue 1 blue 1 blue 2 blue 2 blue 1 blue 2 red 2 black 2
+black 1 red 2 blue 1 blue 1 blue 1 blue 1 blue 3 blue 3 red 2 black 1
+black 1 red 2 blue 8 blue 10 blue 1 red 2 black 1
+black 1 red 2 blue 4 blue 2 blue 1 blue 3 red 2 black 1
+black 1 red 2 blue 3 blue 1 blue 7 blue 10 blue 1 blue 3 red 2 black 1
+black 1 red 2 blue 3 blue 1 blue 1 blue 1 blue 4 red 2 black 1
+black 1 red 2 blue 3 blue 1 blue 1 blue 5 blue 6 blue 2 blue 4 red 2 black 1
+black 1 red 2 blue 3 blue 1 blue 1 blue 2 blue 1 blue 6 blue 5 red 2 black 1
+black 1 red 2 blue 4 blue 1 blue 1 blue 2 blue 7 red 2 black 1
+black 1 red 2 blue 2 blue 9 blue 5 red 2 black 1
+black 1 red 2 blue 1 blue 6 blue 1 red 2 black 1
+black 2 red 2 blue 1 blue 5 blue 2 blue 1 red 2 black 2
+black 1 red 2 blue 1 blue 1 blue 2 blue 1 blue 1 red 2 black 1
+black 1 red 2 blue 3 blue 1 blue 1 blue 3 blue 1 blue 6 blue 1 blue 1 blue 5 red 2 black 1
+black 1 red 2 blue 3 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 5 red 2 black 1
+black 2 red 2 blue 2 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 4 red 2 black 2
+black 1 red 2 blue 2 blue 1 blue 2 blue 4 blue 1 blue 1 blue 4 red 2 black 1
+black 2 red 1 blue 2 blue 1 blue 1 blue 1 blue 1 blue 3 red 2 black 2
+black 1 red 2 blue 2 blue 1 blue 4 blue 1 blue 1 blue 4 blue 1 blue 4 red 2 black 1
+black 1 red 2 blue 1 blue 1 blue 1 blue 1 red 2 black 1
+black 2 red 2 blue 6 blue 7 red 2 black 2
+black 1 red 2 red 2 black 1
+black 2 red 2 red 2 black 2
+black 2 red 2 blue 22 red 2 black 2
+black 1 red 3 blue 20 red 3 black 1
+black 2 red 3 blue 18 red 3 black 2
+black 2 red 4 blue 14 red 4 black 2
+black 3 red 5 blue 8 red 5 black 3
+black 3 red 14 black 3
+black 4 red 8 black 4
+black 10

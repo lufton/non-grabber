@@ -1,0 +1,41 @@
+by "NatAla"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "3/7/15"
+height 7
+id 151759
+link "https://www.griddlers.net/nonogram/-/g/151759"
+medium_time "0:01:12"
+points 131
+popularity 74.17
+title "Dog"
+width 12
+
+color a ccffff
+color b 000000
+color c 996600
+color d 660000
+color e 00d700
+
+rows
+d 2 c 1
+c 1 d 2 b 1 c 1
+c 9
+c 5
+c 5
+e 1 e 1 c 1 d 1 d 1 c 1 e 1 e 1
+e 3 c 1 d 1 e 1 d 1 c 1 e 4
+
+columns
+e 2
+c 1 e 1
+c 1 e 2
+c 5
+c 3 d 2
+c 3 e 1
+c 3 d 2
+d 2 c 5
+d 2 c 1 e 2
+c 1 b 1 c 1 e 1
+c 2 e 2
+e 1

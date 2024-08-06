@@ -1,0 +1,82 @@
+by "beren2005"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/23/12"
+height 26
+id 130689
+link "https://www.griddlers.net/nonogram/-/g/130689"
+medium_time "0:22:34"
+points 22398
+popularity 73.75
+title "Bunny Love"
+width 31
+
+color a ffffff
+color b ac047e
+color c 0a75af
+color d f28ee5
+color e 78c5ef
+color f ff0000
+color g fbbdee
+color h 62ebef
+
+rows
+b 3 b 3 c 3 c 3
+b 1 d 3 b 1 b 1 d 3 b 1 c 1 e 3 c 1 c 1 e 3 c 1
+b 1 d 2 b 1 b 1 d 2 b 1 c 1 e 2 c 1 c 1 e 2 c 1
+b 1 d 1 b 1 b 1 d 1 b 1 c 1 e 1 c 1 c 1 e 1 c 1
+b 2 d 2 b 1 b 1 d 2 b 2 c 2 e 2 c 1 c 1 e 2 c 2
+b 1 d 1 b 1 b 1 d 1 b 1 c 1 e 1 c 1 c 1 e 1 c 1
+b 1 d 1 b 1 b 1 d 1 b 1 f 1 f 1 c 1 e 1 c 1 c 1 e 1 c 1
+b 1 d 1 b 5 d 1 b 1 f 3 c 1 e 1 c 5 e 1 c 1
+b 1 d 7 b 1 f 1 c 1 e 7 c 1
+b 1 d 2 g 5 d 2 b 1 c 1 e 2 h 5 e 2 c 1
+b 1 d 1 g 7 d 1 b 1 c 1 e 1 h 7 e 1 c 1
+b 1 d 1 b 2 g 5 b 2 d 1 b 1 c 1 e 1 c 2 h 5 c 2 e 1 c 1
+b 1 f 1 b 2 g 2 b 1 g 2 b 2 f 1 b 1 c 1 f 1 c 2 h 2 c 1 h 2 c 2 f 1 c 1
+b 1 f 2 g 2 b 1 g 1 b 1 g 2 f 2 b 1 c 1 f 2 h 2 c 1 h 1 c 1 h 2 f 2 c 1
+b 1 d 3 g 3 d 3 b 1 c 1 e 3 h 3 e 3 c 1
+b 2 d 5 b 2 c 2 e 5 c 2
+b 1 g 2 b 5 g 2 b 1 c 1 h 2 c 5 h 2 c 1
+b 1 g 11 b 1 c 1 h 11 c 1
+b 1 g 4 g 4 b 1 c 1 h 4 h 4 c 1
+b 1 g 1 b 1 g 2 g 2 b 1 g 2 c 1 h 2 c 1 h 2 h 2 c 1 h 1 c 1
+b 1 g 1 b 1 g 2 g 2 b 4 c 3 h 2 h 2 c 1 h 1 c 1
+b 4 d 1 d 1 b 3 c 3 e 1 e 1 c 4
+b 1 g 2 b 1 d 3 b 1 g 2 b 1 c 1 h 2 c 1 e 3 c 1 h 2 c 1
+b 1 g 2 b 5 g 2 b 1 c 1 h 2 c 5 h 2 c 1
+b 1 g 2 b 1 b 1 g 2 b 1 c 1 h 2 c 1 c 1 h 2 c 1
+b 2 b 2 c 2 c 2
+
+columns
+b 3 b 3
+b 1 d 1 b 1 b 3 b 1 g 3 b 1
+b 1 d 1 b 1 b 2 d 1 f 2 b 1 b 1 g 2 b 6
+b 1 d 2 d 1 b 4 d 2 b 2 f 1 d 1 b 1 g 5 b 1 g 3 b 1
+b 1 d 8 g 1 b 2 g 1 d 1 b 1 g 5 b 1 g 3 b 1
+b 6 d 1 g 5 d 2 b 1 g 1 d 1 b 3
+b 1 d 1 g 4 b 1 g 1 d 1 b 1 g 1 d 1 b 1
+b 1 d 1 g 3 b 1 g 2 d 1 b 1 g 1 d 1 b 1
+b 1 d 1 g 4 b 1 g 1 d 1 b 1 g 1 d 1 b 1
+b 6 d 1 g 5 d 2 b 1 g 1 d 1 b 3
+b 1 d 8 g 1 b 2 g 1 d 1 b 1 g 5 b 1 g 3 b 1
+b 1 d 2 d 1 b 4 d 2 b 2 f 1 d 1 b 1 g 5 b 1 g 3 b 1
+b 1 d 1 b 1 b 2 d 1 f 2 b 1 b 1 g 2 b 6
+b 1 d 1 b 1 b 3 b 1 g 2 b 1
+b 3 f 2 b 1 g 1 b 1
+f 2 c 1 b 1
+c 3 f 2 c 1 h 1 c 1
+c 1 e 1 c 1 c 3 c 1 h 2 c 1
+c 1 e 1 c 1 c 2 e 1 f 2 c 1 c 1 h 2 c 6
+c 1 e 2 e 1 c 4 e 2 c 2 f 1 e 1 c 1 h 5 c 1 h 3 c 1
+c 1 e 8 h 1 c 2 h 1 e 1 c 1 h 5 c 1 h 3 c 1
+c 6 e 1 h 5 e 2 c 1 h 1 e 1 c 3
+c 1 e 1 h 4 c 1 h 1 e 1 c 1 h 1 e 1 c 1
+c 1 e 1 h 3 c 1 h 2 e 1 c 1 h 1 e 1 c 1
+c 1 e 1 h 4 c 1 h 1 e 1 c 1 h 1 e 1 c 1
+c 6 e 1 h 5 e 2 c 1 h 1 e 1 c 3
+c 1 e 8 h 1 c 2 h 1 e 1 c 1 h 5 c 1 h 3 c 1
+c 1 e 2 e 1 c 4 e 2 c 2 f 1 e 1 c 1 h 5 c 1 h 3 c 1
+c 1 e 1 c 1 c 2 e 1 f 2 c 1 c 1 h 2 c 6
+c 1 e 1 c 1 c 3 c 1 h 3 c 1
+c 3 c 3

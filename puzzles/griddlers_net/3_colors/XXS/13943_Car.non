@@ -1,0 +1,30 @@
+by "ravid_alon736"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/9/04"
+height 5
+id 13943
+link "https://www.griddlers.net/nonogram/-/g/13943"
+medium_time "0:00:15"
+points 12
+popularity 27.62
+title "Car"
+width 5
+
+color a ffffff
+color b fffe00
+color h ff0000
+
+rows
+h 3
+h 1 h 1
+h 5
+h 1 b 1 h 1 b 1 h 1
+h 5
+
+columns
+h 4
+h 1 h 1 b 1 h 1
+h 1 h 3
+h 1 h 1 b 1 h 1
+h 4

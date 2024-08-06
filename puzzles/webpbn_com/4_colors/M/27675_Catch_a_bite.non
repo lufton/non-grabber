@@ -1,0 +1,67 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Gaynor Sorrell"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.25
+height 27
+id 27675
+link "https://webpbn.com/play.cgi?id=27675"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.75
+title "Catch a bite"
+width 18
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+green 2
+green 1 blue 1 black 1 blue 1
+black 5 blue 4
+green 1 blue 1
+green 1 blue 1
+blue 4
+blue 2
+blue 2
+blue 2
+blue 2 blue 3
+blue 3 blue 4
+blue 8
+blue 8
+blue 8
+blue 7
+blue 8
+blue 7
+blue 7
+black 1 blue 5
+black 1 black 1 blue 3
+black 1 black 1 blue 2
+black 1 black 1 blue 2
+black 2 black 2 blue 1
+black 1 black 1
+black 1 black 1
+blue 18
+
+columns
+blue 1
+black 1 blue 1
+green 2 black 1 green 2 blue 1
+green 1 black 1 blue 1
+black 1 blue 1
+black 1 blue 6 blue 1
+blue 2 blue 9 blue 1
+black 1 blue 1 blue 1 blue 6 blue 1
+blue 2 blue 1 blue 6 blue 1
+blue 4 blue 9 black 1 blue 1
+blue 9 black 7 blue 1
+blue 10 blue 1
+blue 9 black 6 blue 1
+blue 7 black 1 blue 1
+blue 5 blue 1
+blue 5 blue 1
+blue 4 blue 1
+blue 1

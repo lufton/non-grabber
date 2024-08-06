@@ -1,0 +1,63 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Aldege Cholette"
+date "Oct  8, 2016"
+description "A large potato truck from one of the local farms had a misfortunate accident today. The truck tipped over spilling it's load of potatoes all over the highway. The owner of the farm posted a message saying anyone who wants to may come and get as much as they want so that he doesn't have to clean up the mess. Fortunately for us we live very close to where he spilled the load. Niki went and filled our van full of them. We plan on sharing them with friends and neighbours. Many came with trucks and filled them to donate to food banks."
+difficulty 2.25
+height 20
+id 28857
+link "https://webpbn.com/play.cgi?id=28857"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Fortunate,misfortune."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 3
+black 2 black 1
+black 1 black 1 black 2 black 1
+black 2 black 1 black 2 black 1
+black 3 black 1 black 2 black 1
+black 2 black 1 black 1 black 2 black 2
+black 2 black 1 black 1 black 2 black 2
+black 2 black 1 black 1 black 2 black 4
+black 2 black 1 black 1 black 1 green 5 black 2 black 2
+black 2 black 5 green 1 green 2
+black 1 black 1 black 5 green 1 blue 1 green 4
+black 1 black 1 black 1 green 1 green 1 green 1
+black 1 black 1 black 2 green 6 green 1 green 1
+black 1 black 1 black 1 green 1 green 1 green 1 red 1 green 1
+black 1 black 1 black 2 green 6 green 1 red 1 green 1
+black 1 black 1 black 1 green 1 green 1 red 1 green 1
+black 1 black 6 green 1 blue 1 green 4
+black 1 black 1 black 5 green 1 green 2
+black 1 black 1 black 1 green 5
+black 1 black 1 black 1 black 1
+
+columns
+black 1 black 1 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 3 black 1 black 2 black 1 black 1
+black 2 black 1 black 1 black 1 black 1
+black 2 black 2 black 1 black 1 black 2 black 1
+black 2 black 3 black 3 black 3
+black 1 black 1 black 3 black 3 black 1
+black 1 black 1 black 3 green 3 black 2
+black 2 black 1 black 2 green 1 green 1 black 2
+black 2 black 1 black 1 green 2 green 2
+black 1 black 1 black 1 green 3 green 1 green 1 green 3
+black 1 black 1 black 2 green 1 green 1 green 1 green 1
+black 1 black 2 green 1 blue 1 green 3 blue 1 green 1
+black 1 black 2 green 1 green 1
+black 2 green 2 green 2
+black 2 black 1 green 9
+black 2 black 2 green 1 red 1 red 1 green 1
+black 2 black 2 green 1 red 1 green 1
+black 1 black 4 green 1 green 1
+black 6 black 2 green 5

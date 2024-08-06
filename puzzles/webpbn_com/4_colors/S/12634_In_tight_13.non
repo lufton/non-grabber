@@ -1,0 +1,49 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Mar  8, 2011"
+description "A pistol with a red hand grip"
+difficulty 2.0
+height 15
+id 12634
+link "https://webpbn.com/play.cgi?id=12634"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "In tight #13"
+width 12
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2
+black 4
+black 6 black 3
+black 1 black 3
+black 2 black 1 black 4
+blue 2 black 1 black 3 black 1
+black 4 black 3
+blue 2 black 1 black 1
+black 2 black 1
+black 1
+black 4 red 3 black 1
+black 1 black 1 black 2 red 5 black 1
+black 1 black 1 black 1 red 5
+black 1 black 1 red 4
+black 2 black 1 red 4
+
+columns
+black 1 black 1 blue 1 black 1 blue 1 black 1 black 3 black 1
+black 2 black 1 blue 1 black 1 blue 1 black 1 black 1 black 1
+black 2 black 3 black 4
+black 3 black 1 black 1
+black 3 black 1
+black 3 black 1
+black 1 red 1 black 1
+black 3 red 3 black 2
+black 5 red 5
+black 3 black 1 red 5
+black 3 black 2 red 4
+black 1 black 3 red 3

@@ -1,0 +1,50 @@
+by "Resk"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/7/12"
+height 14
+id 118102
+link "https://www.griddlers.net/nonogram/-/g/118102"
+medium_time "0:02:24"
+points 433
+popularity 68.92
+title "Little King"
+width 13
+
+color a ccffcc
+color b 00ccff
+color c 003333
+color d 33ffff
+color e ffff00
+color f cc6600
+
+rows
+f 2 e 1 f 1 e 1 f 1 e 1 f 1 e 1
+f 2 e 7
+f 2 e 7
+f 2 e 7
+c 2 b 7
+c 2 b 1 c 1 b 3 c 1 b 1
+c 2 b 1 c 1 b 3 c 1 b 1
+c 2 b 2 c 1 b 3 c 1 b 2
+c 2 b 1 c 1 b 7 c 1 b 1
+c 2 b 1 c 1 d 7 c 1 b 1
+c 2 b 1 c 1 d 7 c 1 b 1
+c 2 d 7
+c 2 d 7
+c 2 d 1 c 2 d 1
+
+columns
+c 3
+c 4
+f 4 c 4 b 3 c 3
+f 4 c 3 b 1 c 6
+e 4 b 5 d 5
+f 1 e 3 b 1 c 3 b 1 d 4
+e 4 b 5 d 4
+f 1 e 3 b 5 d 4
+e 4 b 5 d 4 c 1
+f 1 e 3 b 1 c 3 b 1 d 4 c 1
+e 4 b 5 d 5
+b 1 c 3
+b 3

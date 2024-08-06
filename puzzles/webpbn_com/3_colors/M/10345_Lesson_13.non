@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Sep 14, 2010"
+description "M is for Money"
+difficulty 1.5
+height 20
+id 10345
+link "https://webpbn.com/play.cgi?id=10345"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Lesson #13"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+green 1
+green 3 green 1
+green 1 green 3 green 1
+green 3 green 1 green 3
+green 1 green 3 green 1
+green 3 green 1 green 3
+black 2 green 1 black 2 green 3 green 1
+black 3 black 3 green 1 green 3
+black 4 black 4 green 1
+black 2 black 3 black 2
+black 2 black 1 black 2
+black 2 black 2 black 3 black 2
+black 2 black 2 black 8
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+black 2 black 2 black 2 black 2 black 2
+0
+
+columns
+0
+black 13
+black 13
+black 2
+black 2
+black 2
+green 3 green 1 black 2
+green 2 green 1 green 2 black 2
+green 1 green 3 black 13
+black 13
+green 3 green 1
+green 2 green 1 green 2 black 7
+green 1 green 3 black 8
+black 2
+green 3 green 1 black 8
+green 2 green 1 green 2 black 7
+green 1 green 3 black 2
+black 8
+black 7
+0

@@ -1,0 +1,41 @@
+by "Jonathan Wagner (jwagner)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Jonathan Wagner"
+date "Apr 15, 2023"
+description ""
+difficulty 1.25
+height 13
+id 36696
+link "https://webpbn.com/play.cgi?id=36696"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "King me..,"
+width 11
+
+rows
+1,1
+3,3
+7
+1,1
+2,2,2,2
+1,1,1,1,1,1
+1,1,1,1
+1,1,1
+1,3,1
+2,2
+5
+3
+1
+
+columns
+4
+2,2
+2,1,1
+3,1,1,1
+2,2,1,2
+1,2,3
+2,2,1,2
+3,1,1,1
+2,1,1
+2,2
+4

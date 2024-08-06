@@ -1,0 +1,102 @@
+by "chefmomster2"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/12/06"
+height 40
+id 29768
+link "https://www.griddlers.net/nonogram/-/g/29768"
+medium_time "0:54:01"
+points 107095
+popularity 86.96
+title "Cherries"
+width 37
+
+color a ffffff
+color b ff3300
+color c b50430
+color d e00934
+color e 66cc00
+color f 3f7c21
+color g 94941b
+color h 3c3c09
+
+rows
+f 1 h 2
+f 2 h 2
+f 1 e 1 f 2 g 1 h 2
+f 2 e 1 f 2 g 1 h 1
+f 3 e 2 f 1 g 1 h 1
+f 3 e 2 f 1 g 1 h 1
+f 3 e 1 f 2 g 1 h 1
+f 4 e 1 f 1 g 1 h 1
+f 4 e 1 f 1 g 1 h 1
+f 4 g 2 h 1
+f 6 f 2 g 2 h 1
+f 6 e 3 f 1 f 1 g 2 h 2
+f 11 e 2 f 3 h 2 g 4 h 2
+f 13 f 1 h 4 g 1
+f 1 e 5 f 5 f 1 f 1 g 3
+f 2 e 2 f 5 f 2 f 2 h 3 g 3
+f 6 f 2 f 1 h 2 g 2
+f 2 e 1 f 1 f 4 h 2 g 2
+f 1 e 2 f 2 f 3 e 2 f 1 h 1 g 1
+f 1 e 2 f 3 f 5 e 1 f 1 h 1 g 1
+f 1 e 1 f 5 f 4 e 1 f 2 h 1 d 4
+f 7 f 5 e 1 f 1 g 1 d 1 b 4 d 1
+f 7 g 1 f 4 e 1 f 1 g 2 d 1 b 2 b 2 d 1
+f 6 g 1 h 1 f 5 h 1 g 1 d 1 b 3 b 1 d 1
+f 5 g 2 h 1 f 4 h 1 g 2 d 1 b 1 d 1 b 4 d 1
+f 4 g 1 h 1 f 3 h 1 g 1 d 4 b 2 d 1 c 1
+f 3 g 2 h 1 f 2 h 1 g 1 c 1 d 4 c 1
+f 2 g 1 h 1 f 1 h 1 g 2 c 4
+f 1 g 2 h 1 h 1 g 1
+g 2 h 1 h 1 g 1
+g 1 h 1 h 1 g 1
+d 5 h 1 h 1 g 1
+d 1 b 5 d 1 d 4
+d 1 b 3 b 2 d 1 d 2 b 3 d 1
+d 1 b 1 d 1 b 2 b 1 d 1 d 2 b 5 d 1
+d 2 b 1 d 2 b 2 d 2 d 2 b 1 b 2 d 1
+d 6 b 1 d 1 c 1 d 2 b 1 d 1 b 1 d 1
+c 1 d 3 b 2 d 2 c 1 c 1 d 3 b 2 d 1 c 1
+c 1 d 5 c 1 c 1 d 4 c 1
+c 5 c 4
+
+columns
+f 1
+f 1
+f 2
+f 4
+f 3 e 1 f 1
+f 3 e 1 f 1
+f 4 e 2 f 1
+f 4 e 2 f 1 d 4 c 1
+f 4 e 1 f 2 f 7 d 1 b 2 d 3 c 1
+f 1 e 1 f 5 f 8 d 1 b 2 d 1 b 1 d 3 c 1
+f 1 e 1 f 5 f 1 e 1 f 6 d 1 b 3 d 4 c 1
+f 1 e 2 f 4 f 1 e 1 f 6 d 1 b 1 b 1 d 2 b 1 d 1 c 1
+f 1 e 1 f 3 f 1 e 2 f 5 d 1 b 1 b 1 d 1 b 1 d 1 c 1
+f 3 f 1 e 1 f 5 g 2 d 1 b 2 b 2 d 2 c 1
+f 6 f 2 f 1 e 1 f 5 g 2 h 2 d 1 b 2 d 3 c 1
+f 8 f 1 f 7 g 3 h 1 d 3 c 2
+f 2 e 2 f 7 h 1 f 2 g 3 h 2
+f 3 e 3 f 5 h 1 f 1 f 4 g 3 h 2
+f 2 e 2 f 1 e 2 f 1 g 1 h 1 f 2 f 6 h 2
+f 5 g 1 h 1 f 9
+g 1 h 1 f 1 e 1 f 6
+g 1 h 1 f 1 e 1 f 1 e 1 f 5
+g 1 h 1 g 2 h 1 f 1 e 1 f 1 e 2 f 4
+g 1 h 1 g 1 h 1 f 9
+g 1 h 1 g 1 h 1 g 2 h 2 d 3 c 1
+g 2 h 1 g 1 h 1 g 3 h 3 d 5 c 1
+g 2 h 1 g 1 h 1 g 4 h 4 d 2 b 3 d 2 c 1
+g 3 h 2 g 2 h 1 g 5 d 1 b 2 d 3 c 1
+g 3 h 3 g 1 h 1 d 1 b 2 b 1 d 1 c 1
+h 5 g 1 h 2 d 4 d 1 b 3 b 1 d 1 c 1
+h 3 g 3 h 1 d 1 b 3 d 1 c 1 d 1 b 3 d 1 c 1
+d 1 b 3 d 3 c 1 d 3 c 1
+d 1 b 1 b 2 d 2 c 1
+d 1 b 1 b 2 d 1 c 1
+d 1 b 2 b 2 d 1 c 1
+d 1 b 3 d 1 c 1
+d 3 c 1

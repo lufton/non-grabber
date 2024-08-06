@@ -1,0 +1,62 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2021 by Brian Bellis"
+date "Oct  6, 2021"
+description "Overlook: A place from which you can see all, yet miss something."
+difficulty 1.25
+height 20
+id 35391
+link "https://webpbn.com/play.cgi?id=35391"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Contronym 13"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1
+red 2 black 1 red 1 red 1
+red 1 red 1 black 1 red 1
+blue 1 red 1
+blue 1 red 1
+blue 1 blue 1
+black 5 blue 1
+black 5 black 2
+black 5 black 2
+black 5 black 2
+black 5 red 1 red 1 black 2
+black 5 red 1 black 1 red 1 black 2
+black 5 red 4 black 2
+black 6 red 2 black 2
+black 7 blue 2 black 3
+black 8 blue 2 black 4
+black 8 blue 2 black 5
+black 12 black 6
+black 13 blue 7
+black 16 blue 4
+
+columns
+black 14
+black 14
+black 14
+black 1 red 2 blue 3 black 14
+red 1 black 14
+black 1 black 7
+black 6
+black 5
+red 3 black 3
+red 2 blue 3 black 3
+black 1 red 2 blue 3 black 3
+red 3 black 3
+black 2
+blue 1 black 1
+black 1 blue 1 black 1
+black 2 blue 1 black 1
+black 3 blue 2
+red 2 black 4 blue 2
+black 1 red 2 blue 2 black 11 blue 2
+red 2 black 11 blue 2

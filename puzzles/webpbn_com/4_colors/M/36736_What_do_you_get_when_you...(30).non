@@ -1,0 +1,57 @@
+by "Joanne Firla (JoFirla)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Joanne Firla"
+date "Apr 23, 2023"
+description "...bring grapes into the goat pen? Answer in the first comment."
+difficulty 1.75
+height 15
+id 36736
+link "https://webpbn.com/play.cgi?id=36736"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What do you get when you...(30)"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 1 black 1 black 3
+black 4 black 4
+black 1 black 2 blue 1 black 3
+black 3 black 2 black 1 black 1 blue 2 black 2 black 1
+black 5 blue 4 black 5
+black 3 blue 1 black 1 black 3
+black 3 black 1 black 3
+black 3 black 1 black 3
+black 4 black 1 black 3
+black 5 black 1 black 3
+black 1 black 1 black 1 black 3
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+green 1 black 1 green 2 black 1 green 8 black 1 green 3 black 1 green 1 black 1
+green 4 black 1 green 8 black 1 green 3 black 1 green 1 black 1
+
+columns
+black 1 black 1 green 2
+black 1 black 5 green 1
+black 2 black 2 green 2
+black 1 black 2 green 2
+black 1 black 7
+black 1 black 2 green 2
+black 2 black 1 green 2
+black 4 black 2 green 2
+black 1 black 1 green 2
+black 2 black 1 black 2 green 2
+black 2 black 1 green 2
+black 2 blue 1 black 1 green 2
+blue 3 green 2
+blue 3 black 10
+black 1 blue 1 green 2
+black 2 green 2
+black 1 black 1 green 2
+black 3 black 11
+black 11 green 2
+black 3 black 11

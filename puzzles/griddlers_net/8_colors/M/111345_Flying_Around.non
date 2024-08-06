@@ -1,0 +1,67 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/6/11"
+height 20
+id 111345
+link "https://www.griddlers.net/nonogram/-/g/111345"
+medium_time "0:08:15"
+points 9772
+popularity 70.0
+title "Flying Around"
+width 22
+
+color a ccffff
+color b 336633
+color c 669933
+color d 99cc66
+color e cc33ff
+color f ff3300
+color g ffcc33
+color h ccff99
+
+rows
+b 4 b 1
+b 1 c 2 b 1 b 2
+b 1 c 2 b 2 b 2 b 3
+b 1 c 3 b 2 b 3 d 3 b 1
+b 1 d 1 c 4 b 3 c 1 d 4 b 1
+b 1 d 1 c 4 b 1 c 1 d 1 e 1 d 1 b 1 d 2 f 2
+b 1 d 1 c 1 d 1 c 1 b 1 c 1 d 3 g 1 f 5
+b 1 d 3 b 1 c 1 d 1 h 1 g 1 b 1 f 1 f 3
+b 1 d 1 b 1 c 1 d 1 h 1 g 1 b 1 f 2
+b 2 c 1 d 1 h 1 g 1 b 1 f 1
+b 2 c 1 d 1 h 1 g 1 b 1 f 1
+b 1 d 1 b 1 h 2 b 1
+b 1 d 1 b 3
+b 1 d 1 b 2
+b 1 d 2 b 1
+b 1 d 1 b 1
+b 1 d 1 b 1
+b 1 d 1 b 1
+b 1 d 1 b 1
+b 3
+
+columns
+b 1
+b 2
+b 1 c 1 b 1
+b 1 c 2 b 2
+b 1 c 2 d 1 b 1
+b 1 c 2 d 1 b 1
+b 1 c 3 d 1 b 1
+b 1 c 3 d 1 b 1
+b 1 c 2 d 3 b 4
+b 1 c 2 d 1 b 3 d 2 b 2
+b 8 c 3 b 2 d 2 b 2
+b 4 c 3 d 3 h 1 b 2 d 3 b 1
+b 1 c 1 d 3 h 4 b 5 d 1 b 1
+b 1 d 2 e 1 d 1 h 1 g 3 b 1 b 1 d 1 b 1
+b 1 d 4 g 1 b 3 b 2
+b 1 d 2 b 1 g 1 b 1 b 1
+b 1 d 2 f 2
+b 1 d 1 f 1
+f 2
+f 3
+f 3
+f 4

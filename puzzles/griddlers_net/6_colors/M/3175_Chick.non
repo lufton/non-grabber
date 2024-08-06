@@ -1,0 +1,61 @@
+by "twisted"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "1/28/03"
+height 18
+id 3175
+link "https://www.griddlers.net/nonogram/-/g/3175"
+medium_time "0:07:48"
+points 1400
+popularity 65.21
+title "Chick"
+width 20
+
+color a ffffff
+color b ff0000
+color c 00ff00
+color d 0000ff
+color g f5f586
+color h 000000
+
+rows
+g 3
+g 5
+g 2 h 1 g 2
+g 9
+b 1 g 9 c 2
+g 8 c 4
+c 2 g 12
+c 4 c 1 g 12
+c 9 g 9 c 2
+c 9 g 8 c 2 d 1
+c 3 d 3 c 4 g 7 c 2 d 1
+c 2 d 2 d 2 c 4 g 5 c 3 d 1
+c 2 d 1 b 1 d 1 c 5 b 1 c 1 b 1 c 5
+c 2 d 2 d 2 c 5 b 1 c 1 b 1 c 5
+c 3 d 3 c 5 b 1 c 1 b 2 c 5
+c 8 d 3 c 7 d 2
+d 2 c 5 d 2 d 2 c 5 d 2
+d 2 c 4 d 1 b 1 d 1 c 5 d 1 b 1
+
+columns
+c 8 d 1
+c 9 d 2
+c 5 d 3 c 3 d 1
+c 4 d 2 d 2 c 3
+c 3 d 1 b 1 d 1 c 3
+g 3 b 1 c 2 d 2 d 2 c 3
+g 5 c 3 d 3 c 4
+g 2 h 1 g 2 c 9 d 2
+g 8 c 7 d 2
+g 9 c 5 d 1 b 1
+g 8 c 4 d 2
+g 9 c 2 b 1 c 1 d 2
+g 9 b 2 c 4
+g 9 c 2 b 1 c 3
+g 8 b 3 c 3
+g 7 c 6
+c 1 g 5 c 7
+c 2 g 3 c 7 d 2
+c 2 g 2 c 7 d 2
+c 1 g 2 c 1 d 3 c 3 d 1 b 1

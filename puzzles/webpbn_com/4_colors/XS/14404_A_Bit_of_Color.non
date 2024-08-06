@@ -1,0 +1,34 @@
+by "Lilly Johns (LJohns315)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Lilly Johns"
+date "Jun  7, 2011"
+description "Some of a rainbow."
+difficulty 1.0
+height 6
+id 14404
+link "https://webpbn.com/play.cgi?id=14404"
+note "published,definitely unique,definitely trivial"
+quality 2.0
+title "A Bit of Color"
+width 6
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 4
+black 5
+black 3 green 3
+black 2 green 4
+black 2 green 2 blue 2
+black 2 green 2 blue 2
+
+columns
+black 4
+black 5
+black 3 green 3
+black 2 green 4
+black 2 green 2 blue 2
+black 2 green 2 blue 2

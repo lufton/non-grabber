@@ -1,0 +1,56 @@
+by "Dave Oas (khpdave)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Dave Oas"
+date "Dec  1, 2012"
+description "Carol found out that when you cut your own Christmas tree, you've GOT to remember they look smaller outside."
+difficulty 1.25
+height 20
+id 20509
+link "https://webpbn.com/play.cgi?id=20509"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Carol's tree next year"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 15
+black 15
+green 5
+green 5
+green 6
+green 7
+green 7
+green 9
+green 9
+green 11
+green 11
+green 13
+green 13
+green 15
+green 15
+black 2
+black 2
+black 8
+black 6
+black 15
+
+columns
+black 2 green 2 black 1
+black 2 green 4 black 1
+black 2 green 6 black 1
+black 2 green 8 black 1
+black 2 green 10 black 1 black 1
+black 2 green 11 black 3
+black 2 green 11 black 3
+black 2 green 12 black 5
+black 2 green 12 black 5
+black 2 green 13 black 3
+black 2 green 13 black 3
+black 2 green 2 green 8 black 1 black 1
+black 2 green 1 green 6 black 1
+black 2 green 1 green 4 black 1
+black 2 green 2 black 1

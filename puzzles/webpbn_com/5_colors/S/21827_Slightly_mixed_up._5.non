@@ -1,0 +1,53 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Apr 28, 2013"
+description "The early bird watches the worm turn."
+difficulty 1.5
+height 10
+id 21827
+link "https://webpbn.com/play.cgi?id=21827"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Slightly mixed up. #5"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 1 red 2
+red 1 red 2 blue 1 black 1 green 1 black 1 green 1
+red 2 red 5 black 1 green 1
+red 8 green 1
+red 8 black 1
+red 6 green 1
+red 4 black 1
+black 1 green 1
+black 1
+black 3
+
+columns
+red 5
+red 4
+red 4
+red 4 black 1
+red 4 black 3
+red 5 black 1
+red 5
+red 5
+red 1 blue 1 red 1
+red 1
+0
+0
+0
+black 1 green 1 black 1 green 1 black 1 green 1
+black 1 green 1
+green 1
+black 1
+green 1
+0
+0

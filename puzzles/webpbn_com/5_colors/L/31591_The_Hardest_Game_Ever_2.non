@@ -1,0 +1,84 @@
+by "eewawetwe (ddongddo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by eewawetwe"
+date "Sep 26, 2018"
+description "This is the first stage cut-off points. If you get F in this game, you will be 19,5,14,20/20,15/1/16,18,9,19,15,14."
+difficulty 1.5
+height 41
+id 31591
+link "https://webpbn.com/play.cgi?id=31591"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "The Hardest Game Ever 2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 1 blue 1 blue 1
+blue 3 blue 3 blue 3 blue 3
+blue 3 blue 1 blue 1 blue 1
+blue 3 blue 3 blue 3 blue 3
+0
+green 3 black 3 black 1 black 1 black 1
+green 3 black 1 black 1 black 1 black 1 black 1
+green 3 black 3 black 3 black 3
+green 3 black 1 black 1 black 1 black 1
+green 3 black 3 black 1 black 1 black 1
+0
+green 3 black 3 black 3 black 2
+green 3 black 1 black 1 black 1 black 1
+green 3 black 3 black 3 black 2
+green 3 black 1 black 1 black 1 black 1
+green 3 black 3 black 3 black 2
+0
+black 3 black 3 black 3 black 3
+black 3 black 1 black 1 black 1
+black 3 black 3 black 3 black 1
+black 3 black 1 black 1 black 1
+black 3 black 3 black 3 black 3
+0
+black 3 black 3 black 2 black 2
+black 3 black 1 black 1 black 1 black 1
+black 3 black 3 black 1 black 1 black 1
+black 3 black 1 black 1 black 1 black 1
+black 3 black 3 black 1 black 2
+0
+black 3 black 3 black 3 black 3
+black 3 black 1 black 1 black 1 black 1
+black 3 black 3 black 1 black 1 black 3
+black 3 black 1 black 1 black 1 black 1
+black 3 black 3 black 3 black 3
+0
+red 3 red 3 red 3
+red 3 red 1 red 1 red 1
+red 3 red 1 red 1 red 3
+red 3 red 1 red 1 red 1
+red 3 red 3 red 1
+
+columns
+blue 5 green 5 green 5 black 5 black 5 black 5 red 5
+blue 5 green 5 green 5 black 5 black 5 black 5 red 5
+blue 5 green 5 green 5 black 5 black 5 black 5 red 5
+0
+0
+0
+blue 1 blue 3 black 1 black 3 black 1 black 3 black 1 black 3 black 1 black 3 black 1 black 3
+blue 1 blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+blue 3 blue 1 black 3 black 1 black 3 black 1 black 3 black 1 black 3 black 1 black 3 black 1
+0
+blue 3 blue 1 black 3 black 1 black 1 black 1 black 1 black 3 black 1 black 5 red 5
+blue 1 blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 5 black 1 black 1 red 1 red 1
+blue 1 blue 3 black 5 black 5 black 3 black 1 black 5 red 5
+0
+0
+0
+0
+blue 3 blue 1 black 4 black 5 black 5 black 5 black 5 red 5
+blue 1 blue 1 blue 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 red 1 red 1
+blue 1 blue 3 black 4 black 1 black 1 black 1 black 1 black 3 black 1 black 1 black 1 red 1 red 1

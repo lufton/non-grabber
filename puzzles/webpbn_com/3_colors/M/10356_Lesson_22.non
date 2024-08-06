@@ -1,0 +1,61 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Alicia Snyder"
+date "Sep 14, 2010"
+description "V is for Valentine (inverted for solvability)"
+difficulty 1.25
+height 20
+id 10356
+link "https://webpbn.com/play.cgi?id=10356"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Lesson #22"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 20
+black 11 red 3 black 3 red 3
+black 10 red 5 black 1 red 4
+black 9 red 11
+black 9 red 11
+black 7 red 9
+black 1 black 5 red 10
+black 1 black 5 black 1 red 9
+black 1 black 5 black 2 red 7 black 1
+black 1 black 5 black 3 red 5 black 2
+black 2 black 3 black 5 red 3 black 3
+black 2 black 3 black 6 red 1 black 4
+black 2 black 3 black 1 black 5 black 1
+black 2 black 3 black 2 black 3 black 2
+black 2 black 3 black 3 black 3 black 3
+black 3 black 1 black 4 black 1 black 3
+black 4 black 6 black 1 black 4
+black 4 black 6 black 4
+black 5 black 8 black 5
+black 20
+
+columns
+black 5 black 14
+black 5 black 10
+black 6 black 5
+black 10 black 4
+black 15 black 2
+black 16 black 1
+black 15 black 2
+black 10 black 4
+black 6 black 5
+black 3 red 2 black 10
+black 2 red 3 red 1 black 5 black 7
+black 1 red 7 black 4 black 6
+black 1 red 8 black 4 black 4
+black 1 red 9 black 5 black 2
+black 2 red 9 black 6 black 1
+black 3 red 9 black 3 black 2
+black 2 red 9 black 2 black 4
+black 1 red 9 black 2 black 6
+black 1 red 8 black 3 black 7
+black 1 red 7 black 12

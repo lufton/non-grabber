@@ -1,0 +1,87 @@
+by "starch"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/11/07"
+height 30
+id 44511
+link "https://www.griddlers.net/nonogram/-/g/44511"
+medium_time "0:16:17"
+points 9994
+popularity 83.39
+title "Duck"
+width 32
+
+color a ffffff
+color b 000000
+color c 969696
+color d ff6600
+color e 369036
+color f ad5021
+color g ffcc33
+color h d9c4ae
+
+rows
+e 4
+e 7
+g 1 e 2 b 1 e 4
+g 4 e 2 b 2 e 4
+g 5 e 7
+e 8
+e 7
+e 7
+e 7
+b 1 e 4
+f 1 b 1 f 2 b 1 c 7
+f 9 h 7 c 3
+f 8 h 11 c 2
+f 7 h 14 c 2
+f 6 f 4 h 12 c 1
+f 5 f 3 h 9 c 2 b 1
+f 4 f 5 h 5 c 1 b 1
+f 3 f 3 h 4 c 2 b 2
+f 2 f 7 b 1
+f 1 f 2 f 3 b 1
+c 3 f 4
+c 3 c 2 f 2
+c 12
+d 2 d 1
+d 2 d 1
+d 2 d 2
+h 3 d 5 h 3 d 6 h 6
+h 3 d 5 h 5 d 4 h 8
+h 4 d 3 h 18
+h 23
+
+columns
+g 2
+g 2
+g 2 f 4
+g 3 f 7
+e 3 g 1 e 1 e 1 b 2 f 7 h 2
+e 9 f 9 h 4
+e 2 b 1 e 5 f 10 h 4
+e 2 b 2 e 6 f 5 c 1 h 1 d 1 h 2
+e 10 f 3 c 1 d 3 h 1
+e 9 f 2 h 1 f 1 c 1 d 3 h 1
+e 9 b 1 f 1 h 2 f 1 c 1 d 3 h 1
+e 6 c 1 h 3 f 1 c 1 d 2 h 2
+c 1 h 3 f 1 c 2 d 2 h 3
+c 1 h 4 f 1 c 1 d 2 h 4
+c 1 h 4 f 1 c 1 d 2 h 4
+c 1 h 4 f 1 c 1 d 1 h 4
+c 1 h 5 f 1 c 1 d 1 h 3
+c 1 h 5 f 1 c 1 d 2 h 2
+c 1 h 4 f 1 c 1 d 2 h 2
+c 1 h 4 f 1 c 1 d 3 h 2
+c 1 h 4 f 2 c 1 d 5 h 2
+c 1 h 4 f 1 c 1 d 1 h 3
+c 1 h 4 f 1 c 1 h 4
+c 1 h 4 f 1 c 2 h 4
+c 1 h 4 f 2 c 1 h 4
+c 2 h 2 f 4 h 4
+c 2 h 1 f 1 f 2 h 4
+c 1 f 1 f 1 h 4
+c 1 f 3 h 2
+b 1 b 1 f 2
+b 3 f 1
+b 1

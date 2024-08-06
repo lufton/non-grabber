@@ -1,0 +1,98 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Andrew Schultz"
+date "Apr 16, 2023"
+description "Space Invaders on the Atari 2600. I remember a few of the names. I'd be embarrassed to share them here (plus I never recognized, as a kid, the thing in the lower left was probably an at-at,) but still, I wish I'd written them all down for my own memory. The blue tips are to prevent alternate solutions."
+difficulty 2.25
+height 55
+id 36698
+link "https://webpbn.com/play.cgi?id=36698"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "I named them all, long ago."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+blue 8
+blue 10
+blue 12
+blue 2 blue 1 blue 1 blue 2
+blue 2 blue 1 blue 1 blue 2
+blue 12
+blue 10
+blue 8
+0
+black 3 black 1 black 2
+black 5 black 1 black 1 black 1
+black 1 black 3 black 1 black 1 black 5
+black 9 black 6
+black 3 black 3 black 2 black 2 black 2
+black 1 black 5 black 1 black 7
+black 1 black 3 black 1 black 7
+black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 3 black 3
+0
+black 5 blue 1 blue 1
+black 7 black 1 black 1 black 1 black 1
+black 3 black 2 black 2 black 1 black 2 black 2 black 1
+black 7 black 1 black 5 black 1
+black 5 black 1 black 3 black 1
+black 1 black 1 black 3
+black 2 black 2 black 3
+black 1 black 1 black 2 black 2
+black 1 black 1 black 2 black 2
+0
+black 3 black 7
+black 2 black 1 black 2 black 9
+black 9 black 6 black 1
+black 9 black 6 black 1
+black 1 black 1 black 9
+black 1 black 2 black 3 black 1
+black 1 black 2 black 1 black 1
+black 1 black 2 black 1 black 1
+black 1 black 2 black 3 black 3
+0
+red 5 red 5
+red 7 red 7
+red 7 red 7
+red 7 red 7
+red 9 red 9
+red 9 red 9
+red 2 red 2 red 2 red 2
+0
+green 1
+green 3
+green 5
+green 5
+green 9
+green 7
+green 9
+
+columns
+black 6 black 1 black 1 black 2 black 2 red 3
+black 3 black 3 black 2 black 6 red 6
+black 1 black 3 black 2 black 7 black 3 red 6
+black 4 black 2 black 2 black 2 black 1 black 2 black 1 red 6
+blue 4 black 4 black 2 black 5 black 4 black 2 red 6
+blue 6 black 4 black 2 black 5 black 1 black 2 black 2 red 6 green 1 green 1
+blue 3 blue 3 black 1 black 3 black 2 black 2 black 4 black 3 black 2 red 6 green 3
+blue 3 blue 3 black 3 black 3 black 2 black 5 red 6 green 5
+blue 8 black 6 black 1 black 1 black 2 red 3 green 6
+blue 3 blue 3 green 7
+blue 3 blue 3 green 6
+blue 8 black 2 black 1 blue 1 black 3 black 1 black 4 red 3 green 5
+blue 3 blue 3 black 1 black 5 black 1 black 1 black 9 red 6 green 3
+blue 3 blue 3 black 6 black 1 black 3 black 1 black 6 black 1 red 6 green 1 green 1
+blue 6 black 2 black 2 black 6 black 6 black 1 red 6
+blue 4 black 5 black 4 black 5 red 6
+black 5 black 6 black 9 red 6
+black 3 black 2 black 1 black 3 black 1 black 2 black 1 black 1 red 6
+black 1 black 6 black 1 black 1 black 2 black 1 black 1 red 6
+black 1 black 1 black 1 blue 1 black 3 black 1 black 4 red 3

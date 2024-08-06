@@ -1,0 +1,64 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/31/12"
+height 25
+id 126033
+link "https://www.griddlers.net/nonogram/-/g/126033"
+medium_time "0:04:58"
+points 677
+popularity 71.45
+title "Tumbling Toy"
+width 14
+
+color a ffffff
+color b fc8ceb
+color c e62612
+color d f5d84f
+color e e8cbbe
+color f 000000
+color g f45cdd
+color h 5787f3
+
+rows
+b 2
+b 4
+b 4
+b 6
+c 2 b 4 c 2
+c 10
+c 10
+d 1 e 6 d 1
+d 2 e 1 f 1 e 2 f 1 e 1 d 2
+d 2 e 2 c 1 e 3 d 2
+e 6
+g 4 b 1 e 4 b 1 g 4
+g 4 b 4 g 4
+b 2 g 9 b 3
+b 4 g 2 b 1 g 2 b 5
+b 6 f 2 b 6
+b 3 e 2 b 1 f 2 b 1 e 2 b 3
+b 3 e 3 b 2 e 3 b 3
+b 3 e 2 b 2 e 3 b 2
+h 1 b 1 e 2 h 1 f 2 h 1 e 2 b 1 h 1
+h 5 f 2 h 5
+h 12
+h 10
+h 8
+h 6
+
+columns
+g 1 b 5
+g 2 b 6 h 3
+c 2 d 2 g 3 b 6 h 3
+c 3 d 3 g 3 b 2 e 2 b 1 e 1 h 4
+b 1 c 3 e 4 b 1 g 3 b 1 e 4 h 5
+b 4 c 2 e 1 f 1 e 3 b 1 g 2 b 2 e 2 h 6
+b 5 c 2 e 2 c 1 e 2 b 1 g 1 b 1 f 2 b 2 f 2 h 4
+b 5 c 2 e 5 b 1 g 2 f 2 b 2 f 2 h 4
+b 4 c 2 e 1 f 1 e 3 b 1 g 2 b 2 e 2 h 6
+b 1 c 3 e 4 b 1 g 2 b 2 e 4 h 5
+c 3 d 3 g 3 b 2 e 4 h 4
+c 2 d 2 g 2 b 7 h 3
+g 2 b 6 h 3
+g 1 b 5

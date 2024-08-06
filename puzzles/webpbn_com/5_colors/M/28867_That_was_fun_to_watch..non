@@ -1,0 +1,63 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Aldege Cholette"
+date "Oct 10, 2016"
+description "And they took the first 2 in Texas."
+difficulty 1.75
+height 20
+id 28867
+link "https://webpbn.com/play.cgi?id=28867"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "That was fun to watch."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 3 black 1
+blue 1 blue 1 black 1
+blue 1 blue 1 black 1
+blue 1 blue 1 black 1 blue 3
+blue 1 blue 1 black 1 blue 1
+blue 1 blue 1 black 1 blue 1
+blue 3 black 1 blue 1 blue 1
+black 1 blue 3
+black 1
+black 3
+black 5 red 5
+green 5 red 1
+black 6 red 1 red 3
+black 1 black 1 black 3 red 1 red 1 red 1
+black 2 black 1 black 2 red 1 red 1 red 1
+black 1 black 1 black 2 red 1 red 1
+black 2 black 6 red 1 red 1
+black 1 black 1 black 1 black 2 red 1 red 1
+black 4 black 3
+black 6
+
+columns
+blue 7
+blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 2 blue 2 black 1 green 1 black 3
+black 2 green 1 black 1 black 3
+black 11 green 1 black 2 black 3
+black 2 green 1 black 1 black 2 black 2
+blue 2 black 1 green 1 black 2 black 3
+blue 1 blue 1 black 3 black 2
+blue 5 black 4 black 1
+blue 1 black 5
+red 1 black 1 black 2
+red 1 black 3
+red 5 black 2
+red 1 black 1
+red 1
+red 6
+red 1
+red 1 red 1
+red 2 red 2

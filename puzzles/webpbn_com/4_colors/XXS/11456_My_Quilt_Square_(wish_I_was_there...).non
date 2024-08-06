@@ -1,0 +1,32 @@
+by "Linda Martin (ilovethispuzzle123)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Linda Martin"
+date "Dec 16, 2010"
+description "A palm tree with a view of the ocean beyond..."
+difficulty 1.0
+height 5
+id 11456
+link "https://webpbn.com/play.cgi?id=11456"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "My Quilt Square (wish I was there...)"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 green 2
+black 1 green 1
+black 2 green 1
+black 2
+black 1 blue 4
+
+columns
+green 1 black 2
+green 1 black 2 blue 1
+black 2 blue 1
+green 2 blue 1
+green 1 green 1 blue 1

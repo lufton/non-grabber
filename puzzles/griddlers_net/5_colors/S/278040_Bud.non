@@ -1,0 +1,50 @@
+by "painter100"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/1/24"
+height 15
+id 278040
+link "https://www.griddlers.net/nonogram/-/g/278040"
+medium_time "0:02:08"
+points 256
+popularity 77.14
+title "Bud"
+width 13
+
+color a ffffff
+color b 5bcc52
+color c d38f92
+color d b67488
+color e 1c6616
+
+rows
+c 1
+c 3
+c 3 d 1
+c 1 c 2 d 1 e 2
+c 1 c 2 d 1 e 2
+e 3 c 1 c 2 d 1 e 3
+e 2 c 3 d 1 e 2
+e 1 c 2 d 1 e 2
+e 1 d 1 e 2
+b 2 e 1
+b 4 e 1
+b 4 e 1
+b 3 e 2
+e 3
+e 1
+
+columns
+e 1
+e 1
+e 2
+e 1
+c 4 e 1 b 3
+c 2 c 2 e 1 b 4 e 2
+c 8 d 1 b 4 e 1
+c 5 d 2 e 2 b 2 e 2
+d 4 e 3 e 3
+e 3
+e 2
+e 3
+e 1

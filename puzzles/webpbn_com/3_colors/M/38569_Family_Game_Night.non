@@ -1,0 +1,66 @@
+by "Alicia Snyder (prinny)"
+collection "webpbn.com"
+copyright "(c) Copyright 2024 by Alicia Snyder"
+date "Apr 28, 2024"
+description "Muffin Time"
+difficulty 2.25
+height 25
+id 38569
+link "https://webpbn.com/play.cgi?id=38569"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "Family Game Night"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color blue 4040FF @
+
+rows
+blue 4 blue 3 black 6
+blue 4 blue 1 black 3 black 3
+blue 2 black 3 black 3
+blue 2 black 2 black 2
+blue 2 black 2 black 1 black 1 black 2
+blue 2 black 1 black 1
+black 2 black 4 black 1
+blue 1 black 1 black 1 black 4 black 1
+blue 1 black 1 black 2 black 1 black 1 black 2
+blue 1 black 2 black 1 black 2 black 1 black 1
+blue 2 black 1 black 1 black 1 black 1
+blue 2 black 2 black 1 black 1 black 2
+blue 2 black 2 black 2
+blue 4 black 2 black 3
+blue 5 black 4 black 4
+blue 5 black 1 black 1 black 4 black 1 black 1
+blue 3 black 1 black 1 black 1 black 1 black 1 black 1
+blue 3 black 1 black 1 black 1 black 1 black 1
+blue 5 black 1 black 1 black 1 black 1
+blue 5 black 1 black 1
+blue 5 black 2 black 2
+black 10
+black 1 black 1
+black 1 black 1
+black 2 black 2
+
+columns
+blue 6 blue 14
+blue 6 black 4 blue 11
+blue 2 black 3 black 3 blue 8
+blue 2 black 2 black 2 blue 3 blue 3
+black 2 black 2 blue 2 blue 3
+blue 2 black 1 black 8
+blue 1 black 2 black 2 black 1 black 2 black 1
+blue 1 black 1 black 4 black 5 black 4
+black 2 black 1 black 1 black 1
+black 1 black 3 black 1 black 1
+black 1 black 2 black 1 black 3 black 1
+black 1 black 2 black 1 black 1 black 1
+black 1 black 3 black 2 black 1
+black 2 black 1 black 1 black 1
+black 1 black 4 black 5 black 4
+black 2 black 2 black 2 black 2 black 1
+black 1 black 8
+black 2 black 2
+black 2 black 2
+black 3 black 3

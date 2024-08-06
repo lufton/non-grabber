@@ -1,0 +1,72 @@
+by "Wombat (wombatilim)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Wombat"
+date "Mar  4, 2014"
+description "Catwoman - So many different costume choices for this character, but I decided to go for the Michelle Pfeiffer look to make it a more interesting solve."
+difficulty 2.25
+height 25
+id 23958
+link "https://webpbn.com/play.cgi?id=23958"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.5
+title "Batman Villain #6"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+black 1 black 1
+black 2 black 2
+black 4 black 4
+black 5 black 5 black 5
+black 6 black 12
+black 7 black 11
+black 7 black 9
+black 8 black 6
+black 9 black 1 black 3
+black 9 black 4 black 2
+black 3 black 4 black 2 black 2
+black 2 black 3 black 1
+black 2 black 1 blue 2 black 1 blue 2 black 1 black 2
+black 2 blue 2 black 1 blue 2 black 2
+black 2 black 3 black 2
+black 3 black 5 black 3
+black 4 black 2 black 7
+black 3 black 2 black 6
+black 1 black 2 black 4
+black 3 red 3 black 3
+black 2 red 1 red 1 black 2
+black 2 red 3 black 2
+black 2 black 2
+black 7
+
+columns
+0
+0
+black 4
+black 5
+black 16
+black 18
+black 8 black 3 black 2
+black 6 black 1 black 1 black 4
+black 6 blue 2 black 2 black 2
+black 6 blue 2 black 2 black 2
+black 2 black 5 black 2 red 1 black 1
+black 3 black 5 black 2 red 1 red 1 black 1
+black 4 black 8 red 1 red 1 black 1
+black 4 black 1 black 2 red 1 red 1 black 1
+black 4 black 3 black 2 red 1 black 1
+black 4 black 2 blue 2 black 2 black 2
+black 4 black 1 blue 2 black 3 black 2
+black 4 black 1 black 1 black 6
+black 6 black 1 black 6
+black 9 black 8
+black 8 black 7
+black 5
+black 4
+0
+0

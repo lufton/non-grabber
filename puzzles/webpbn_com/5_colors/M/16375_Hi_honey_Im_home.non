@@ -1,0 +1,63 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Brian Bellis"
+date "Nov 14, 2011"
+description "Alicia's husband gets home from work."
+difficulty 1.5
+height 20
+id 16375
+link "https://webpbn.com/play.cgi?id=16375"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Hi honey, I'm home!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+blue 20
+blue 1 red 1 red 1 blue 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1
+blue 1 black 1 red 1 blue 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1
+blue 1 red 1 black 1 red 1 blue 1 green 1 green 1 black 2 green 1 green 1 black 2 green 1 blue 1
+blue 1 red 1 red 1 blue 1 green 1 green 1 green 1 black 2 green 1 green 1 blue 1
+blue 1 red 1 black 1 blue 1 green 1 black 1 green 1 green 1 green 1 green 1 green 1 blue 1
+blue 1 red 1 black 1 red 1 blue 1 green 1 black 1 green 1 green 1 green 1 green 1 green 1 blue 1
+blue 1 red 1 red 1 blue 1 green 1 green 1 green 1 green 1 green 1 green 1 green 1 blue 1
+blue 1 black 1 red 1 blue 1 green 1 black 1 green 1 green 1 green 1 green 1 blue 1
+blue 1 red 1 black 1 red 1 red 1 black 1 blue 9
+blue 1 red 1 black 2 blue 1
+blue 1 red 1 red 1 red 1 black 2 blue 1
+blue 1 red 1 red 1 blue 1
+blue 8 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1
+blue 20
+
+columns
+blue 20
+blue 1 red 1 red 1 red 1 red 1 red 1 red 1 blue 1 blue 1
+blue 1 black 2 red 1 red 1 black 2 red 1 red 1 blue 1 blue 1
+blue 1 red 1 red 1 black 2 red 1 red 1 red 1 blue 1 blue 1
+blue 1 red 1 red 1 red 1 red 1 black 1 red 1 blue 1 blue 1
+blue 9 red 1 black 1 red 1 blue 1 blue 1
+blue 1 green 1 green 1 green 1 green 1 blue 1 blue 1
+blue 1 green 1 green 1 green 1 green 1 black 1 blue 1 blue 1
+blue 1 green 1 green 1 black 2 green 1 black 1 blue 1
+blue 1 green 1 black 1 green 1 green 1 black 2 blue 1
+blue 1 green 1 black 1 green 1 green 1 blue 1
+blue 1 green 1 green 1 green 1 green 1 blue 1 blue 7
+blue 1 green 1 green 1 black 1 green 1 green 1 blue 1 blue 1
+blue 1 green 1 black 1 green 1 green 1 blue 1 blue 1
+blue 1 green 1 green 1 green 1 green 1 blue 1 blue 1
+blue 1 green 1 black 1 green 1 green 1 green 1 blue 1 blue 1
+blue 1 green 1 black 1 green 1 green 1 blue 1 blue 1
+blue 1 green 1 green 1 green 1 green 1 blue 1 blue 1
+blue 1 green 1 green 1 green 1 green 1 blue 1 blue 1
+blue 20

@@ -1,0 +1,51 @@
+by "Sarah Andrews (sarah)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Sarah Andrews"
+date "Dec 21, 2010"
+description "Kindle? It's the only item on my Christmas list. The white on top is supposed to be the Amazon smile."
+difficulty 1.25
+height 20
+id 11537
+link "https://webpbn.com/play.cgi?id=11537"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "do you..."
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 10
+black 2 black 4 black 2
+black 3 black 3
+black 10
+black 2 black 2
+black 2 red 2 red 2 black 2
+black 2 red 1 red 2 black 2
+black 2 red 3 black 2
+black 2 red 2 black 2
+black 2 red 2 black 2
+black 2 red 3 black 2
+black 2 red 1 red 2 black 2
+black 2 red 2 red 2 black 2
+black 2 black 2
+black 10
+black 10
+black 1 black 1 black 1 black 1 black 2
+black 10
+black 1 black 1 black 1 black 1 black 2
+black 10
+
+columns
+black 20
+black 16 black 1 black 1
+black 1 black 2 red 1 red 1 black 6
+black 2 black 1 red 8 black 2 black 1 black 1
+black 2 black 1 red 4 black 6
+black 2 black 1 red 2 red 2 black 2 black 1 black 1
+black 2 black 1 red 2 red 2 black 6
+black 1 black 2 red 1 red 1 black 2 black 1 black 1
+black 20
+black 20

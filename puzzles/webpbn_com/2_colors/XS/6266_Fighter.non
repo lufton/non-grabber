@@ -1,0 +1,33 @@
+by "tegev (tegev)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by tegev"
+date "Jul  9, 2009"
+description "you Win...!!!!"
+difficulty 1.25
+height 8
+id 6266
+link "https://webpbn.com/play.cgi?id=6266"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Fighter"
+width 8
+
+rows
+1
+1,1
+4,1
+2,3
+5,1
+1,2
+2,1
+2
+
+columns
+2
+1,5
+1,1,1
+2,1
+1
+2,1
+1,1,3
+4

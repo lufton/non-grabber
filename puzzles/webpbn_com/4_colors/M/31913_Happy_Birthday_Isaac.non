@@ -1,0 +1,61 @@
+by "Gaynor Sorrell (gesorrell)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Gaynor Sorrell"
+date "Dec 25, 2018"
+description "Newton's Universal Law of Gravitation, where blue = 1 and red = 2"
+difficulty 1.75
+height 14
+id 31913
+link "https://webpbn.com/play.cgi?id=31913"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Happy Birthday, Isaac!"
+width 25
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+black 5 black 5
+black 4 black 4 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 blue 1 red 1
+black 3 black 1 black 2 black 13
+black 1 black 2 black 1 black 1
+black 1 black 1 black 1 red 1
+black 1 black 4 black 3
+black 1
+black 1
+black 1
+0
+
+columns
+black 7
+black 1 black 1
+black 1 black 1
+black 1
+black 1 black 1
+black 1 black 1
+0
+black 7
+black 1 black 1
+black 1 black 1 black 1
+black 1 black 4
+0
+black 3 black 1
+black 1 black 1
+black 3 black 1
+black 1 black 1
+black 3 black 1 black 4
+blue 1 black 1 black 1
+black 1 black 1
+black 3 black 1 red 1
+black 1 black 1
+black 3 black 1
+black 1 black 1
+black 3 black 1
+red 1 black 1

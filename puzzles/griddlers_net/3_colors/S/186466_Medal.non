@@ -1,0 +1,44 @@
+by "jolam"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "11/4/17"
+height 17
+id 186466
+link "https://www.griddlers.net/nonogram/-/g/186466"
+medium_time "0:00:18"
+points 0
+popularity 61.59
+title "Medal"
+width 7
+
+color a FFFFFF
+color c ff0000
+color d FFCC33
+
+rows
+c 3
+c 3
+c 3
+c 3
+c 3
+c 3
+c 3
+c 3
+c 3
+c 3
+d 3
+d 5
+d 7
+d 7
+d 7
+d 5
+d 3
+
+columns
+d 3
+d 5
+c 10 d 7
+c 10 d 7
+c 10 d 7
+d 5
+d 3

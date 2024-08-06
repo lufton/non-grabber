@@ -1,0 +1,31 @@
+by "Jody McKean (bears)"
+collection "webpbn.com"
+copyright "(c) Copyright 2018 by Jody McKean"
+date "Dec 20, 2018"
+description ""
+difficulty 1.0
+height 5
+id 31888
+link "https://webpbn.com/play.cgi?id=31888"
+note "published,definitely unique,definitely trivial"
+quality 1.75
+title "Bullseye"
+width 5
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 1 red 3 black 1
+red 1 black 1 black 1 red 1
+red 1 black 1 red 1
+red 1 black 1 black 1 red 1
+black 1 red 3 black 1
+
+columns
+black 1 red 3 black 1
+red 1 black 1 black 1 red 1
+red 1 black 1 red 1
+red 1 black 1 black 1 red 1
+black 1 red 3 black 1

@@ -1,0 +1,62 @@
+by "Proud (Proud)"
+collection "webpbn.com"
+copyright "(c) Copyright 2017 by Proud"
+date "Aug 14, 2017"
+description "Not only do you usually not know what's inside, but despite best intentions, when a tag is missing, sometimes you don't even know who gave you what! (see #30079)"
+difficulty 1.5
+height 20
+id 30083
+link "https://webpbn.com/play.cgi?id=30083"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "It's a Mystery"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 2 red 1
+red 4 black 4 red 3
+red 12
+black 3 red 11 black 4
+black 5 red 2 black 2 red 1 black 2 red 2 black 6
+black 3 blue 13 black 4
+black 3 blue 5 black 3 blue 5 black 4
+black 2 blue 3 black 7 blue 3 black 2
+black 2 blue 3 black 7 blue 3 black 2
+black 2 blue 3 black 7 blue 3 black 2
+black 2 blue 3 black 7 blue 3 black 2
+black 2 blue 3 black 7 blue 3 black 2
+black 2 blue 3 black 7 blue 3 black 2
+black 2 blue 3 black 7 blue 3 black 2
+black 2 blue 3 black 7 blue 3 black 2
+black 1 blue 3 black 7 blue 3 black 2
+blue 2 black 7 blue 3 black 1
+blue 1 black 7 blue 3
+black 7 blue 1
+black 5
+
+columns
+black 3
+black 12
+black 13
+black 2 blue 11
+red 3 black 1 blue 12
+red 5 blue 13
+red 5 blue 2 black 12
+red 3 black 1 blue 2 black 13
+black 1 red 2 black 1 blue 1 black 14
+black 1 red 3 blue 1 black 14
+black 1 red 2 black 1 blue 1 black 14
+black 1 red 2 black 1 blue 2 black 13
+red 4 blue 2 black 12
+red 5 blue 14
+red 3 black 1 blue 13
+red 1 black 2 blue 13
+black 14
+black 13
+black 4
+black 3

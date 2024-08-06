@@ -1,0 +1,73 @@
+by "HSpring"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/11/03"
+height 25
+id 6851
+link "https://www.griddlers.net/nonogram/-/g/6851"
+medium_time "0:07:26"
+points 1539
+popularity 60.89
+title "Painting the Road"
+width 25
+
+color a 000000
+color d b22222
+color e ffff00
+color f bebebe
+color g 2fa14f
+color h ff0000
+
+rows
+h 2
+h 2 h 1
+h 2 h 2
+h 2 h 3
+h 2 h 3
+d 2 h 2 h 3
+d 5 h 3
+d 6 h 1
+d 7
+d 1 e 1 d 1 e 2 d 2
+e 5 d 1
+e 5
+e 4
+e 2
+e 1
+e 1
+e 1
+f 1 e 1 f 1 f 1
+f 1 f 1 e 2 f 1 f 1
+g 1 g 1 g 1 f 5 e 2 f 6 g 1 g 1 g 1
+g 1 g 1 f 6 e 2 f 7 g 1 g 1
+g 3 f 7 e 2 f 8 g 3
+g 2 f 8 e 2 f 9 g 2
+g 1 f 9 e 2 f 10 g 1
+f 10 e 2 f 11
+
+columns
+g 1 g 3
+g 3 f 1
+g 1 g 1 f 2
+g 1 f 3
+g 1 f 4
+f 5
+f 6
+f 7
+f 6
+f 8
+f 6
+e 10
+e 3 e 7
+d 2 e 4 f 1 f 6
+d 3 e 4 f 7
+d 5 e 3 f 1 f 6
+d 4 e 3 f 7
+h 1 d 3 e 3 f 6
+h 2 d 5 f 6
+h 2 h 1 d 3 f 5
+h 2 h 3 g 1 f 4
+h 2 h 3 g 1 f 3
+h 2 h 3 g 1 g 1 f 2
+h 1 h 3 g 3 f 1
+h 3 g 1 g 3

@@ -1,0 +1,124 @@
+by "wiggles"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/28/03"
+height 50
+id 3991
+link "https://www.griddlers.net/nonogram/-/g/3991"
+medium_time "0:53:41"
+points 100299
+popularity 78.94
+title ""Egad!...It's Got Uncle Jake!" (Far Side)"
+width 50
+
+color a ffffff
+color b ff0000
+color c 00ac00
+color d c08960
+color f f5d3c6
+color g c9c8c8
+color h 000000
+
+rows
+f 15
+f 14 c 1
+f 9 c 2 d 3
+f 9 c 3 d 2 d 3
+f 9 c 4 d 3 d 4
+f 10 c 4 d 4 d 2
+f 10 c 4 d 6
+f 11 c 5 d 6
+f 10 b 3 c 6 d 4
+f 9 b 4 c 6 d 3
+f 8 b 5 b 5 c 6 d 3 b 6
+f 7 b 5 b 8 c 5 d 3 b 8
+f 6 b 4 b 2 g 1 b 6 c 4 d 2 b 11
+f 6 b 4 g 1 b 6 c 3 d 1 b 13
+f 6 b 3 g 1 b 23
+f 5 b 3 g 2 b 22
+f 5 b 2 g 1 b 7 b 10
+f 4 b 3 g 1 b 5 b 5
+f 3 b 3 g 1 c 3 b 4 c 4 b 3
+f 3 b 3 g 1 c 1 h 1 c 1 h 1 c 1 b 1 c 1 h 1 c 1 h 1 c 1 g 1
+f 4 b 2 g 1 c 5 c 6 g 2
+f 5 b 2 g 1 c 1 h 2 c 2 c 2 h 2 c 1 g 2
+f 5 b 3 g 1 c 1 h 2 c 1 c 3 h 2 c 1 g 2
+f 5 b 3 g 2 c 3 c 2 c 3 g 2
+f 6 b 2 g 1 c 3 c 3 g 1
+f 6 b 3 g 1 c 4 c 2 g 1
+f 6 b 3 g 1 c 3 c 2 g 1
+f 6 b 3 g 1 c 3 c 2 g 1
+f 6 b 4 g 3 g 1 c 2 g 3 c 1 g 2 g 1
+f 6 b 4 g 2 g 6 g 4 g 2 f 1
+f 7 b 3 g 2 f 4 g 1 f 2
+f 7 b 3 b 1 g 2 f 2 f 2 g 2 f 1
+f 7 b 3 b 7 f 1 f 1 b 2 g 1 f 2
+f 7 b 2 b 8 f 1 f 1 b 3 f 2
+f 7 b 9 b 2 f 1 f 1 b 3 f 2
+f 8 b 9 b 3 f 2 f 2 b 3 f 2
+f 8 b 10 b 5 f 6 b 2 f 3
+f 8 b 17 f 6 b 1 f 4
+f 9 b 15 f 11
+f 9 b 7 f 12
+f 9 b 3 f 13
+f 9 f 14
+f 9 f 20
+f 9 f 23
+f 9 f 22
+f 7 f 21
+f 19
+f 16
+f 14
+f 14
+
+columns
+f 45
+f 46
+f 46
+f 18 b 2 f 26
+f 17 b 4 f 25
+f 15 b 9 f 22
+f 12 b 6 b 9 f 16
+f 11 b 5 b 11 f 11
+f 10 b 5 b 9 f 7
+f 2 f 4 b 5 b 6
+f 2 f 1 b 4
+f 2 b 4
+f 2 b 3
+f 2
+f 1
+0
+0
+b 2
+g 1 b 3
+g 2 b 4
+g 2 b 5
+b 2 g 2 b 6
+b 3 g 1 b 6
+b 2 g 4 g 6 b 7 f 6
+b 3 g 9 b 6 f 7
+b 4 b 6 f 7
+b 5 c 4 g 2 b 5 f 7
+b 5 c 1 h 1 c 1 h 2 c 1 g 1 b 4 f 8
+c 8 b 5 c 3 h 2 c 3 g 1 b 3 f 8
+c 11 b 5 c 1 h 1 c 9 g 1 b 3 f 8
+c 11 b 6 c 3 c 5 g 1 b 3 f 8
+c 10 b 5 c 3 g 2 b 3 f 8
+c 7 b 6 g 1 b 3 f 8
+c 6 b 5 c 4 g 2 b 5 f 8
+d 4 b 4 c 7 g 1 b 5 f 9
+d 6 b 4 c 5 g 1 b 6 f 9
+d 8 b 4 c 4 g 2 b 6 f 10
+d 7 b 4 c 1 h 1 c 1 h 2 c 1 g 1 b 5 f 9
+d 6 b 5 c 3 h 2 c 1 f 17
+d 1 d 3 b 6 c 1 h 1 c 4 f 2 f 12
+d 3 d 2 b 7 c 3 f 1 f 11
+d 3 d 1 b 7 f 1 f 11
+d 3 b 7 f 2 f 11
+d 2 b 7 f 15
+b 7 g 7 b 6 f 7
+b 7 g 2 g 3 b 5 f 7
+b 6 g 2 f 2 g 2 b 3 f 8
+b 6 g 2 f 12
+b 5 g 2 f 9
+b 3

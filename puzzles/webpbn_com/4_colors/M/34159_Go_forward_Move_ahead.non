@@ -1,0 +1,67 @@
+by "Andrew Schultz (blurglecruncheon)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Andrew Schultz"
+date "May 30, 2020"
+description "I had the song "Whip It" stuck in my mind, and I wondered why they wore flowerpots. Apparently, they aren't flowerpots but energy domes. TMYK!"
+difficulty 2.0
+height 25
+id 34159
+link "https://webpbn.com/play.cgi?id=34159"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.75
+title "Go forward! Move ahead!"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+red 8
+red 8
+red 12
+red 12
+red 16
+red 16
+red 20
+red 20
+black 1 black 1
+black 1 black 4 black 4 black 1
+black 16
+black 1 black 4 black 4 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 2 black 1
+black 2 black 2
+black 2 black 8 black 2
+black 2 black 2
+black 2 black 2
+black 10
+blue 2 blue 3 blue 1 blue 1 blue 3
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 3 blue 1 blue 1 blue 1 blue 1
+blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1
+blue 2 blue 3 blue 1 blue 3
+
+columns
+red 2
+red 2 black 2 black 5 blue 5
+red 4 black 1 black 2 blue 1 blue 1
+red 4 black 1 black 2 blue 3
+red 6 black 3 black 2
+red 6 black 3 black 2
+red 8 black 3 black 1 black 1 blue 5
+red 8 black 3 black 1 black 1 blue 1 blue 1 blue 1
+red 8 black 1 black 1 black 1 blue 1 blue 1 blue 1
+red 8 black 1 black 2 black 1 black 1
+red 8 black 1 black 1 black 1 black 1 black 1
+red 8 black 1 black 1 black 1 blue 4
+red 8 black 3 black 1 black 1 blue 1
+red 8 black 3 black 1 black 1 blue 4
+red 6 black 3 black 2
+red 6 black 3 black 2
+red 4 black 1 black 2 blue 5
+red 4 black 1 black 2 blue 1 blue 1
+red 2 black 2 black 5 blue 5
+red 2

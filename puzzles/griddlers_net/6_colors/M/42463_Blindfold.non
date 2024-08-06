@@ -1,0 +1,56 @@
+by "Shaggy"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "2/8/07"
+height 15
+id 42463
+link "https://www.griddlers.net/nonogram/-/g/42463"
+medium_time "0:06:06"
+points 2077
+popularity 65.84
+title "Blindfold"
+width 18
+
+color a ffffff
+color b 000000
+color c ffff66
+color e a5a5a5
+color f c6c6c6
+color g e7e7e7
+
+rows
+b 5
+b 2 c 5 b 2
+b 1 c 9 b 1
+b 1 c 1 b 9 c 1 b 3
+b 2 g 3 f 3 b 2 f 1 e 1 b 1
+b 1 g 1 g 3 f 2 e 2 b 1 e 1 b 1
+b 2 g 6 f 3 e 2 b 1 b 2
+b 1 c 1 b 12 b 1 b 1
+b 1 c 12 b 1 g 1 b 1 b 1
+b 1 c 12 b 1 g 1 b 1 g 1 b 1
+b 1 c 4 b 2 c 5 b 1 g 1 b 1 g 1 b 1
+b 1 c 6 b 1 c 4 b 1 e 1 b 1 e 1 b 1
+b 1 c 9 b 2 e 1 b 1 e 1 b 1
+b 2 c 5 b 2 b 1 e 1 b 3
+b 5 b 3
+
+columns
+b 5
+b 2 g 1 b 1 c 3 b 2
+b 1 c 1 b 1 g 1 b 1 c 4 b 1
+b 1 c 1 b 1 g 1 b 1 c 5 b 1
+b 1 c 1 b 1 g 1 b 1 c 5 b 1
+b 1 c 2 b 1 g 1 b 1 c 6 b 1
+b 1 c 2 b 1 g 1 g 1 b 1 c 2 b 1 c 3 b 1
+b 1 c 2 b 1 g 3 b 1 c 2 b 1 c 3 b 1
+b 1 c 2 b 1 g 2 f 1 b 1 c 3 b 1 c 2 b 1
+b 1 c 2 b 1 f 1 g 1 f 1 b 1 c 6 b 1
+b 1 c 1 b 1 f 3 b 1 c 5 b 1
+b 1 c 1 b 1 f 2 e 1 b 1 c 5 b 1
+b 1 c 1 b 1 e 2 b 1 c 4 b 1
+b 2 e 1 b 9
+b 1 f 1 b 1 g 3 e 3 b 1
+b 1 e 2 b 9
+b 3 g 2 e 2 b 1
+b 7

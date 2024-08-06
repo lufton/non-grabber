@@ -1,0 +1,57 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Jan  1, 2016"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 1.5
+height 20
+id 27276
+link "https://webpbn.com/play.cgi?id=27276"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Sigil #6"
+width 20
+
+rows
+1,1,1,1,1,1,1,1
+7,7
+1,1,1,1,2,1,1
+18
+1,1,1,1,1,1
+7,2,7
+1,1,2,2,1,1
+7,7
+1,1,1,1,1,1
+7,7
+1,1,1,1,1,1
+7,7
+1,1,1,1,1,1
+7,7
+1,1,1,1,1,1
+8,2,8
+2,1,2,3,1,1
+8,2,8
+2,1,2,2,1,2
+2,2,2,2,2,2,2
+
+columns
+1,1,1
+20
+1,1,1,1,1,1,1,4
+4,1,1,3,3,1,1
+1,1,3,1,1,1,1,1,1
+2,3,3,3,4
+1,1,1,1,1,1,1,1,1,1
+20
+1,1,1,1
+2,1,1,1,1
+1,1,1,1,1
+2,1,1,1
+20
+1,1,1,1,1,1,1,3,1
+2,1,1,1,3,3,2
+3,3,1,3,1,1,1
+2,3,3,1,1,3,1
+1,1,1,1,1,1,1,1,2
+20
+1,1,1

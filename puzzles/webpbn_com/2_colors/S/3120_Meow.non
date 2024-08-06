@@ -1,0 +1,47 @@
+by "Valerie Mates (valerie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Valerie Mates"
+date "Jul 21, 2008"
+description "A cat"
+difficulty 1.5
+height 15
+id 3120
+link "https://webpbn.com/play.cgi?id=3120"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Meow"
+width 15
+
+rows
+1,4,3,4
+2,3,3
+1,1,1,1,2
+1,1,7,1
+1,1,2,1,2,1
+1,1,6,2
+2,2,2,2
+1,1,1,1,2
+1,1,7,1
+1,1,9
+1,10
+2,10
+1,10
+2,9
+1,1,8,1
+
+columns
+1,6,1
+5,3
+1,2,2
+8
+2,1,5
+1,2,7
+4,8
+2,1,1,7
+2,4,7
+2,1,2,7
+4,7
+1,3,8
+2,6
+3,3,3
+9,1

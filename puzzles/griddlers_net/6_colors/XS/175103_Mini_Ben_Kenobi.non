@@ -1,0 +1,39 @@
+by "replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "5/23/16"
+height 8
+id 175103
+link "https://www.griddlers.net/nonogram/-/g/175103"
+medium_time "0:00:56"
+points 73
+popularity 62.32
+title "Mini Ben Kenobi"
+width 8
+
+color a ffffff
+color b 000000
+color c 7c5126
+color d e2b073
+color e 303a43
+color f 53bcd1
+
+rows
+c 3
+c 5 f 1
+c 2 d 3 c 2 f 1
+c 2 b 1 d 1 b 1 c 2 f 1
+c 2 c 2 f 1
+d 1 c 2 c 2 d 1 e 1
+c 5 e 1
+c 5
+
+columns
+c 3 d 1
+c 7
+c 2 d 1 b 1 c 3
+c 2 d 2 c 2
+c 2 d 1 b 1 c 3
+c 7
+c 3 d 1
+f 4 e 2

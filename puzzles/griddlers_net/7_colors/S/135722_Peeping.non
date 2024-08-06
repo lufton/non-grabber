@@ -1,0 +1,54 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/8/13"
+height 15
+id 135722
+link "https://www.griddlers.net/nonogram/-/g/135722"
+medium_time "0:05:07"
+points 1620
+popularity 65.61
+title "Peeping"
+width 15
+
+color a 0099cc
+color b cc3300
+color c ffcc33
+color d ff9900
+color f 330000
+color g ffffff
+color h ccffff
+
+rows
+b 1 b 1
+b 1 c 1 b 2 c 1 b 1
+b 1 c 1 b 1 c 1 b 3
+b 2 c 1 b 1 d 3 b 1
+b 1 d 1 b 2 d 1 b 2 d 2 b 1
+b 1 d 3 f 2 g 1 b 1 d 1 b 1
+b 1 d 3 b 1 f 2 g 2 b 1 d 1 b 1
+b 1 d 3 b 1 g 4 b 1 d 1 b 1
+b 1 d 1 b 1 d 3 b 1 g 2 b 1 d 2 b 1
+b 1 d 1 b 1 d 4 b 2 d 3 b 2
+h 1 b 1 d 2 b 1 d 7 b 1 d 1 b 1
+h 2 d 3 b 1 d 5 b 1 d 2 h 1
+h 2 d 3 b 5 d 3 h 1
+h 2 d 8 h 2
+h 9
+
+columns
+h 2
+b 3 h 2
+b 2 d 4 h 2
+b 2 d 2 b 2 d 3 h 2
+b 3 d 6 b 1 d 3 h 1
+b 1 c 2 b 2 d 6 b 1 d 2 h 1
+b 2 c 1 b 1 d 1 b 2 d 4 b 1 d 1 h 1
+b 1 c 1 b 1 d 1 f 2 g 1 b 1 d 3 b 1 d 1 h 1
+b 1 c 1 b 1 d 1 b 1 f 2 g 2 b 1 d 2 b 1 d 1 h 1
+b 2 d 1 b 1 g 4 b 1 d 2 b 1 d 1 h 1
+b 1 d 2 b 1 g 2 b 1 d 3 b 1 d 1 h 1
+b 1 d 2 b 2 d 3 b 1 d 2 h 1
+b 2 d 4 b 1 d 2 h 1
+b 4 d 3 h 1
+b 2 h 2

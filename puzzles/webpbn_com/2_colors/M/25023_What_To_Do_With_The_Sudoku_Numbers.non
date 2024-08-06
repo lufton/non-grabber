@@ -1,0 +1,59 @@
+by "Alba Albochka (albaalbo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Alba Albochka"
+date "Jul  6, 2014"
+description "Ah, so it's a QR Code."
+difficulty 3.0
+height 21
+id 25023
+link "https://webpbn.com/play.cgi?id=25023"
+note "published,definitely non-unique,may require some guessing"
+quality 2.25
+title "What To Do With The Sudoku Numbers"
+width 21
+
+rows
+7,1,1,7
+1,1,3,1,1
+1,3,1,1,2,1,3,1
+1,3,1,2,1,3,1
+1,3,1,1,1,1,3,1
+1,1,1,1,1
+7,1,1,7
+1
+1,1,2,3,1,1,1
+2,2,1,1,2,3,1
+3,1,1,2,2,2
+1,3,1,3,2
+1,1,1,2,2,1,1,2
+1,3,1,2
+7,1,3,2,1,1
+1,1,1,1,3,1
+1,3,1,5,2,1
+1,3,1,2,1,2,1
+1,3,1,1,1,1,1,2
+1,1,1,1
+7,1,2,1,1
+
+columns
+7,2,2,7
+1,1,2,1,1
+1,3,1,1,3,1,3,1
+1,3,1,3,1,3,1
+1,3,1,1,2,1,3,1
+1,1,1,1
+7,1,1,1,7
+2,2
+1,1,1,2,1,1
+1,2
+1,4,1,2,3
+3,2,2,4
+3,1,1,1,5,1,2
+2,1,4,1
+7,1,1
+1,1,1,2
+1,3,1,3,6
+1,3,1,4,3,2
+1,3,1,2,1
+1,1,1,2,1,1
+7,3,4,2,1

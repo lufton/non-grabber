@@ -1,0 +1,57 @@
+by "Luca Marino (zizzolo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2008 by Luca Marino"
+date "Aug 27, 2008"
+description "Bravo..."
+difficulty 2.0
+height 20
+id 3339
+link "https://webpbn.com/play.cgi?id=3339"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.0
+title "That's Right!"
+width 20
+
+rows
+7
+4,9
+4,11
+4,4,4
+4,3,1,1,4
+5,3,1,1,3
+6,2,1,3
+6,2,1,1,1,2
+4,2,1,1,2
+5,3,5,3
+1,1,1,3,1
+5,1,1
+1,1,2,1,1,1
+5,3,3,1,1
+1,6,1,1,1
+9,1,1,1
+5,1
+1,1
+2,2
+4,4
+
+columns
+10
+5,1,1,1
+9,1,1,1
+9,1,1,1
+7,7
+7,2
+2
+5,2
+8,3,1
+5,2,2,1
+5,1,3,2
+4,1,2,1,4
+3,1,2,1,1
+3,2,2,4
+3,1,2,1,1
+4,1,2,1,1,4
+5,1,1,1,2
+6,2,2,1,1
+8,2,1
+6,2

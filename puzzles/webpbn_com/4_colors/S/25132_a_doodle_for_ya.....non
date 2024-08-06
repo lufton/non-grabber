@@ -1,0 +1,52 @@
+by "Kurt Kowalczyk (bahabro)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kurt Kowalczyk"
+date "Aug  3, 2014"
+description "a mini rocket ship"
+difficulty 2.25
+height 15
+id 25132
+link "https://webpbn.com/play.cgi?id=25132"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "a doodle for ya...."
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+blue 4
+black 2 blue 2
+black 3 blue 2
+black 2 blue 1
+black 1 blue 3 black 1
+black 1 blue 1 blue 1 black 1
+blue 3 black 1 blue 2 black 2
+blue 3 black 1 black 1
+blue 4 red 1 black 1 blue 2 black 2
+blue 2 red 2 blue 3 black 2
+red 2 blue 3 black 1 blue 1 black 1
+red 1 blue 2 red 1 black 1 blue 2
+red 1 red 1 red 2 blue 3
+red 1 red 3 blue 2
+red 4 blue 1
+
+columns
+blue 1
+blue 3 red 3
+blue 4 red 2 red 1
+blue 3 red 2 red 1 red 1
+blue 1 black 1 red 2 blue 2 red 2
+black 2 black 1 blue 3 red 1
+black 2 blue 3 red 2
+black 2 blue 2 black 1 red 2
+black 1 black 1 blue 2
+black 2 blue 2 blue 4
+black 1 blue 1 blue 1 blue 3
+blue 1 blue 3 black 2
+blue 2 black 2
+blue 3 black 3
+blue 1 blue 2 black 3

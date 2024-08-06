@@ -1,0 +1,51 @@
+by "Kelly Kriese (sunlite)"
+collection "webpbn.com"
+copyright "(c) Copyright 2014 by Kelly Kriese"
+date "Jan  1, 2014"
+description "(This puzzle was recovered from the 2016 database crash. Puzzle creators, please edit this puzzle and put the real description here!)"
+difficulty 2.75
+height 15
+id 25395
+link "https://webpbn.com/play.cgi?id=25395"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "October 9th, 2014 is... (2)"
+width 15
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+
+rows
+black 3
+black 2 green 2 black 3
+black 2 green 1 black 3
+black 1 green 1 black 2 black 2
+black 5 black 8
+black 1 black 1 black 1 green 1 green 1 black 1
+black 1 black 2 green 1 black 2
+black 1 green 1 green 2 black 1
+black 2 green 2 black 1
+black 1 green 1 green 1 black 2 green 2 black 2
+black 1 black 1 black 1 green 2 black 1
+black 2 green 1 green 1 black 1 black 1 green 2 black 1
+black 1 green 1 green 1 black 2 green 2 black 1
+black 1 green 1 green 1 green 2 black 1
+black 15
+
+columns
+black 5 black 4
+black 3 black 1 black 1 green 1 black 1
+black 2 black 1 black 2 green 1 black 1
+black 2 green 1 black 2 green 1 green 1 green 1 green 1 black 1
+black 1 green 2 black 1 black 1 green 1 black 1
+black 1 green 1 black 1 black 1 green 2 green 1 green 1 black 1
+black 1 black 1 black 1 green 2 black 1
+black 1 black 1 black 2 black 1
+black 1 black 1 black 1 black 1 black 1
+black 1 black 1 green 2 black 1 black 1 black 1
+black 1 black 1 green 1 green 1 black 2 green 1 black 1
+black 1 black 1 green 1 green 1 green 4 black 1
+black 2 black 2 green 2 black 1
+black 2 black 1 black 1 black 1
+black 3 black 6

@@ -1,0 +1,57 @@
+by "Jan Wolter (jan)"
+collection "webpbn.com"
+copyright "(c) Copyright 2004 by Jan Wolter"
+date "Apr  6, 2004"
+description "Magic Eight Ball"
+difficulty 1.75
+height 20
+id 31
+link "https://webpbn.com/play.cgi?id=31"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "My Sources Say No"
+width 20
+
+rows
+4
+8
+8
+1,1,8
+1,1,1,8
+1,1,1,8
+2,1,9
+2,1,1,9
+3,1,1,10
+4,1,11
+5,12
+20
+18
+18
+16
+16
+14
+12
+8
+4
+
+columns
+4
+8
+12
+1,8
+8
+2,2,7
+1,1,1,1,8
+1,2,2,8
+3,10
+4,11
+20
+20
+18
+18
+16
+16
+14
+12
+8
+4

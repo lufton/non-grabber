@@ -1,0 +1,62 @@
+by "Pam Negri (pamnegri)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Pam Negri"
+date "Mar  2, 2009"
+description ""
+difficulty 3.5
+height 20
+id 5057
+link "https://webpbn.com/play.cgi?id=5057"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 1.5
+title ""
+width 20
+
+color white FFFFFF .
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 2 black 1 green 2 blue 1 blue 1 green 1 black 1
+green 1 black 3 green 1 blue 2 blue 1 green 1 green 1 black 1
+black 1 black 1 blue 1 blue 1 blue 1 black 1
+black 1 green 1 black 1 blue 1 blue 2 green 1 green 1
+green 1 black 1 blue 1 blue 1 green 3 black 1
+green 1 black 1 green 2 black 1 green 2 blue 1 blue 1
+black 1 green 1 black 3 green 1 blue 2 blue 1 green 1 green 1
+black 1 black 1 black 1 blue 1 blue 1 blue 1
+black 1 green 1 black 1 blue 1 blue 2 green 1 green 1
+black 1 green 1 black 1 blue 1 blue 1 green 3
+green 1 black 1 green 2 black 1 green 2 blue 1 blue 1
+green 1 green 1 black 1 green 1 black 3 green 1 blue 2 blue 1
+black 1 black 1 black 1 blue 1 blue 1 blue 1
+green 1 green 1 black 1 green 1 black 1 blue 1 blue 2
+green 3 black 1 green 1 black 1 blue 1 blue 1
+blue 1 blue 1 green 1 black 1 green 2 black 1 green 2
+blue 2 blue 1 green 1 green 1 black 1 green 1 black 3 green 1
+blue 1 blue 1 blue 1 black 1 black 1 black 1
+blue 1 blue 2 green 1 green 1 black 1 green 1 black 1
+blue 1 blue 1 green 3 black 1 green 1 black 1
+
+columns
+green 2 black 2 green 1 blue 5
+green 1 black 1 green 1 green 1 blue 1
+black 2 green 3 black 2 black 1 green 1 blue 1
+green 1 black 1 black 1 green 1 green 1 blue 1
+green 2 black 3 green 1 blue 5
+blue 5 green 2 black 2 green 1
+blue 1 green 1 black 1 green 1 green 1
+blue 1 black 2 green 3 black 2 black 1 green 1
+blue 1 green 1 black 1 black 1 green 1 green 1
+blue 5 green 2 black 3 green 1
+green 1 blue 5 green 2 black 2
+green 1 green 1 blue 1 green 1 black 1
+green 1 blue 1 black 2 green 3 black 2 black 1
+green 1 green 1 blue 1 green 1 black 1 black 1
+green 1 blue 5 green 2 black 3
+green 1 blue 5 green 2 black 2
+green 1 green 1 blue 1 green 1 black 1
+green 1 black 2 black 1 green 1 blue 1 black 2 green 2
+black 1 green 1 green 1 blue 1 green 1 black 1
+green 1 blue 5 green 2 black 3

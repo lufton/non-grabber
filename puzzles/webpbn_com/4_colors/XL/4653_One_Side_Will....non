@@ -1,0 +1,92 @@
+by "Sunny J. (CHWheeler)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Sunny J."
+date "Jan  9, 2009"
+description "Alice trying to decide which side of the Caterpillar's mushroom to eat. One side will make you grow taller and one side will make you grow shorter. But which is which?"
+difficulty 2.75
+height 35
+id 4653
+link "https://webpbn.com/play.cgi?id=4653"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "One Side Will..."
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 2 black 2
+black 3 black 3
+black 11 green 2
+black 2 black 1 black 2 green 1 green 1
+black 1 black 1 black 2 green 2 green 1
+green 2 black 1 black 2 black 2 green 2 green 1
+green 1 green 1 black 5 black 3 black 3 green 1
+green 2 green 1 black 3 black 1 black 1 black 1 green 2
+green 2 green 1 black 5 black 1 black 3 black 1 green 1
+green 1 black 1 black 2 black 1 black 2 black 1 green 1
+green 2 black 1 black 1 black 1 black 2
+green 1 black 1 black 1 black 2 black 1 green 1
+green 1 black 2 black 1 black 2 black 2 black 1
+black 2 black 1 black 1 black 2
+green 1 black 2 black 1 black 2 black 1
+black 2 black 6 black 1
+black 1 blue 2 black 3 blue 2 black 2 blue 2 black 3 blue 2 black 1
+black 1 blue 2 black 1 black 2 blue 2 black 2 black 1 blue 2 black 1
+black 2 blue 3 black 1 black 1 blue 4 black 1 black 1 blue 3
+blue 3 black 2 black 4 black 2 blue 3
+black 6 black 1 black 1 blue 1 black 2 black 2 blue 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1
+black 6 black 2 black 1 blue 1 black 1 black 1 blue 1 black 1 black 1 black 6
+black 1 black 2 black 4 black 1 blue 1 black 1 black 1 blue 1 black 1 black 2 black 1 black 2 black 1
+black 6 black 2 blue 1 black 8 blue 1 black 2 black 1 black 6
+black 9 blue 2 black 8 blue 2 black 1 black 3 black 2 black 1
+blue 2 black 1 black 1 blue 2 black 2 black 6
+blue 2 black 1 black 1 blue 2 black 7
+blue 2 black 1 black 1 blue 2
+blue 2 black 1 black 1 blue 2
+black 9 blue 2 black 1 black 1 blue 2 black 8
+blue 2 black 1 black 4 black 3 black 1 blue 2
+blue 2 black 4 blue 4 black 2 blue 3 black 3 blue 2
+blue 22
+blue 24
+
+columns
+black 5 black 1
+black 1 black 1 black 1 black 1
+green 3 black 6 black 1
+green 1 green 2 green 3 green 1 black 6 black 1
+green 1 green 1 black 1 black 1 black 2 black 1
+green 4 black 6 black 1
+black 1 black 1 black 1 blue 1
+black 4 black 1 black 1 black 1 blue 2
+black 2 black 1 black 2 black 1 black 1 blue 4
+black 2 blue 3 black 3 black 1 blue 5
+black 2 blue 4 black 2 blue 3 black 2 blue 2
+black 10 blue 1 black 1 blue 2 black 5 blue 4 black 1 black 1 blue 2
+black 2 black 3 black 1 black 2 blue 1 blue 3 black 2 black 1 blue 2
+black 1 black 3 black 1 black 2 blue 5 black 2 black 1 blue 2
+black 3 black 1 black 5 black 1 black 6 black 1 blue 3
+black 3 black 1 black 2 black 1 black 1 blue 1 black 2 black 2 black 1 blue 3
+black 2 black 1 black 2 blue 1 black 1 blue 1 black 1 black 2 black 1 blue 3
+black 5 black 1 black 2 blue 2 black 1 black 2 black 1 blue 3
+black 2 black 1 black 2 black 1 black 2 blue 2 black 1 black 2 black 1 blue 2
+black 3 black 1 black 2 blue 1 black 1 blue 1 black 1 black 2 black 1 blue 2
+black 3 black 1 black 4 blue 1 black 2 black 2 black 1 blue 3
+black 1 black 1 black 2 black 1 black 6 black 1 blue 3
+black 2 black 4 black 1 black 2 blue 5 black 2 black 1 blue 3
+black 7 black 1 black 2 blue 1 blue 3 black 2 black 1 blue 2
+black 3 blue 1 black 1 blue 2 black 5 blue 4 black 1 black 1 blue 2
+black 5 blue 4 black 3 blue 3 black 2 blue 2
+black 4 blue 3 black 4 black 2 blue 5
+black 5 black 3 black 1 black 1 blue 4
+black 1 black 1 black 1 blue 2
+green 3 black 6 black 1 blue 1
+green 1 green 2 green 3 green 1 black 1 black 1 black 2 black 1
+green 1 green 1 black 6 black 1
+green 4 black 6 black 1
+black 1 black 1 black 1 black 1
+black 5 black 1

@@ -1,0 +1,87 @@
+by "Taylor Capponi (tcapponi)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Taylor Capponi"
+date "Jan 17, 2020"
+description "Happy 2020! The Year of the Rat! :)"
+difficulty 2.0
+height 43
+id 33477
+link "https://webpbn.com/play.cgi?id=33477"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.25
+title "It's time for a resolution..."
+width 21
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+black 21
+black 1 blue 1 blue 1 blue 3 blue 3 blue 3 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 3 blue 3 blue 3 blue 3 blue 3 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 3 black 1
+black 21
+black 21
+black 1 blue 3 blue 3 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 2 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 blue 3 blue 3 black 1
+black 21
+black 21
+black 1 blue 1 blue 1 blue 3 blue 3 blue 3 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 3 blue 2 blue 3 blue 3 black 1
+black 1 blue 1 blue 1 blue 1 blue 1 blue 2 black 1
+black 1 blue 3 blue 3 blue 1 blue 1 blue 1 blue 1 black 1
+black 21
+black 21
+black 1 red 4 red 4 red 4 red 4 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 4 red 1 red 1 red 4 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 1 red 1 red 1 red 1 red 1 red 1 black 1
+black 1 red 4 red 4 red 4 red 4 black 1
+black 21
+black 21
+black 1 green 1 green 1 red 3 blue 3 green 3 red 3 blue 3 black 1
+black 1 green 1 green 1 red 1 blue 1 blue 1 green 1 green 1 red 1 red 1 blue 1 black 1
+black 1 green 3 red 2 blue 3 green 3 red 1 red 1 blue 2 black 1
+black 1 green 1 red 1 blue 1 blue 1 green 2 red 1 red 1 blue 1 black 1
+black 1 green 3 red 3 blue 1 blue 1 green 1 green 1 red 3 blue 1 black 1
+black 1 black 1
+black 1 green 3 red 1 red 1 blue 3 green 3 red 3 blue 3 black 1
+black 1 green 1 red 1 red 1 blue 1 green 1 green 1 red 1 red 1 blue 1 black 1
+black 1 green 1 red 3 blue 2 green 3 red 3 blue 1 black 1
+black 1 green 1 red 1 red 1 blue 1 green 2 red 1 red 1 blue 1 black 1
+black 1 green 1 red 1 red 1 blue 3 green 1 green 1 red 1 red 1 blue 1 black 1
+black 21
+
+columns
+black 43
+black 1 blue 5 black 2 black 2 black 2 red 1 red 4 black 2 green 3 green 1 green 1 black 1
+black 1 blue 1 black 2 black 2 black 2 red 1 red 1 red 1 black 2 green 1 green 1 green 5 black 1
+black 1 blue 5 black 2 black 2 blue 3 blue 1 black 2 red 1 red 1 red 1 black 2 green 5 green 1 black 1
+black 1 black 2 blue 5 black 2 blue 1 blue 1 black 2 red 4 red 1 black 2 red 5 red 5 black 1
+black 1 blue 5 black 2 blue 1 black 2 blue 5 black 2 black 2 red 1 red 1 red 1 red 1 black 1
+black 1 blue 1 blue 1 black 2 blue 5 black 2 black 2 red 7 black 2 red 1 red 1 red 5 black 1
+black 1 blue 5 black 2 black 2 blue 5 black 2 red 1 red 1 black 2 blue 5 blue 5 black 1
+black 1 black 2 blue 5 black 2 blue 1 blue 1 blue 1 black 2 red 1 red 1 black 2 blue 1 blue 1 blue 1 blue 1 blue 1 black 1
+black 1 blue 5 black 2 blue 1 blue 1 blue 1 black 2 blue 1 blue 1 black 2 red 7 black 2 blue 5 blue 1 blue 1 black 1
+black 1 blue 1 blue 1 black 2 blue 1 blue 1 black 2 black 2 black 2 green 5 black 1
+black 1 blue 3 black 2 black 2 blue 5 black 2 red 1 red 4 black 2 green 1 green 2 green 5 black 1
+black 1 black 2 blue 4 black 2 blue 1 blue 1 black 2 red 1 red 1 red 1 black 2 green 3 green 1 green 1 green 2 black 1
+black 1 blue 5 black 2 blue 1 black 2 blue 5 black 2 red 1 red 1 red 1 black 2 green 3 green 1 black 1
+black 1 blue 1 blue 1 black 2 blue 3 black 2 black 2 red 4 red 1 black 2 red 5 red 5 black 1
+black 1 blue 3 black 2 blue 1 black 2 blue 5 black 2 black 2 red 1 red 1 red 1 red 1 black 1
+black 1 black 2 blue 4 black 2 blue 1 blue 2 black 2 red 7 black 2 red 5 red 5 black 1
+black 1 blue 3 blue 1 black 2 black 2 blue 3 blue 1 black 2 red 1 red 1 black 2 blue 5 blue 1 black 1
+black 1 blue 1 blue 1 black 2 black 2 black 2 red 1 red 1 black 2 blue 1 blue 1 blue 5 black 1
+black 1 blue 5 black 2 black 2 black 2 red 7 black 2 blue 1 blue 1 black 1
+black 43

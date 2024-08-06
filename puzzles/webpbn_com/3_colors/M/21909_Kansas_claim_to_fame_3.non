@@ -1,0 +1,61 @@
+by "Sarah Belsan (haras89)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Sarah Belsan"
+date "May  8, 2013"
+description "The Wizard of Oz"
+difficulty 1.25
+height 25
+id 21909
+link "https://webpbn.com/play.cgi?id=21909"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.5
+title "Kansas' claim to fame #3"
+width 15
+
+color white FFFFFF .
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 2 blue 6
+black 3 blue 7
+black 4 blue 7
+black 4 blue 6
+black 6 blue 6
+black 8 blue 6
+black 8 blue 5
+black 2 black 3 blue 5
+black 3 blue 5
+black 3 blue 5
+black 3 blue 4
+black 4 blue 4
+black 4 blue 4
+black 5 blue 4
+black 6 blue 3
+black 6 blue 3
+black 9
+black 9
+black 8
+black 8
+black 7
+black 7
+black 6
+black 5
+black 3
+
+columns
+black 2
+black 3
+black 4
+black 3 black 5
+black 5 black 9
+black 21
+black 22
+black 24
+black 1 blue 13 black 11
+blue 16 black 9
+blue 16 black 9
+blue 16 black 8
+blue 10
+blue 6
+blue 3

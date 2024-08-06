@@ -1,0 +1,59 @@
+by "olunia_90"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/16/06"
+height 14
+id 32613
+link "https://www.griddlers.net/nonogram/-/g/32613"
+medium_time "0:06:02"
+points 2657
+popularity 66.69
+title "Butterfly"
+width 22
+
+color a 00a1fe
+color c 00fe00
+color e 00ac00
+color f ffb800
+color g ffda00
+color h 000000
+
+rows
+h 1 h 1
+h 4 h 1 h 1 h 4
+h 1 c 4 h 2 h 1 h 1 h 2 c 4 h 1
+h 1 c 1 f 4 c 2 h 1 h 2 h 1 c 2 f 4 c 1 h 1
+h 1 c 1 f 6 c 1 h 4 c 1 f 6 c 1 h 1
+h 1 c 1 g 6 c 1 h 2 c 1 g 6 c 1 h 1
+h 1 c 1 g 5 c 1 h 2 c 1 g 5 c 1 h 1
+h 1 c 6 h 2 c 6 h 1
+h 14
+h 1 e 6 h 2 e 6 h 1
+h 1 e 1 g 4 e 1 h 4 e 1 g 4 e 1 h 1
+h 1 e 1 f 2 e 1 h 2 h 2 h 2 e 1 f 2 e 1 h 1
+h 1 e 2 h 2 h 2 e 2 h 1
+h 2 h 2
+
+columns
+h 2
+h 1 c 2 h 1
+h 1 c 1 f 2 c 1 h 1 h 3
+h 1 c 1 f 2 g 1 c 1 h 1 h 1 e 3 h 1
+h 1 c 1 f 2 g 2 c 1 h 1 e 1 g 1 f 1 e 1 h 1
+h 1 c 1 f 2 g 2 c 1 h 1 e 1 g 1 f 1 h 1
+h 1 c 1 f 1 g 2 c 1 h 1 e 1 g 1 e 1 h 1
+h 1 h 1 c 1 f 1 g 2 c 1 h 1 e 1 g 1 h 1
+h 1 h 1 c 1 g 2 c 1 h 1 e 2 h 1
+h 1 h 1 c 3 h 1 e 1 h 1
+h 9
+h 9
+h 1 h 1 c 3 h 1 e 1 h 1
+h 1 h 1 c 1 g 2 c 1 h 1 e 2 h 1
+h 1 h 1 c 1 f 1 g 2 c 1 h 1 e 1 g 1 h 1
+h 1 c 1 f 1 g 2 c 1 h 1 e 1 g 1 e 1 h 1
+h 1 c 1 f 2 g 2 c 1 h 1 e 1 g 1 f 1 h 1
+h 1 c 1 f 2 g 2 c 1 h 1 e 1 g 1 f 1 e 1 h 1
+h 1 c 1 f 2 g 1 c 1 h 1 h 1 e 3 h 1
+h 1 c 1 f 2 c 1 h 1 h 3
+h 1 c 2 h 1
+h 2

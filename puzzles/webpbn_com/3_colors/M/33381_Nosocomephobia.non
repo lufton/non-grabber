@@ -1,0 +1,61 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by sanane samanye"
+date "Jan  9, 2020"
+description "Nosocomephobia : fear of hospitals"
+difficulty 1.0
+height 20
+id 33381
+link "https://webpbn.com/play.cgi?id=33381"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Nosocomephobia"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+0
+red 3
+red 3
+red 7
+red 7
+red 7
+red 3
+red 3
+0
+black 11
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 11
+black 1 black 3 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 1 black 1 black 1
+black 20
+
+columns
+black 1
+black 1
+black 1
+black 1
+black 1
+black 11
+black 1 black 1 black 1
+red 3 black 1 black 1 black 1
+red 3 black 1 black 1 black 1
+red 7 black 1 black 2 black 1
+red 7 black 11
+red 7 black 1 black 2 black 1
+red 3 black 1 black 1 black 1
+red 3 black 1 black 1 black 1
+black 1 black 1 black 1
+black 11
+black 1
+black 1
+black 1
+black 1

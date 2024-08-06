@@ -1,0 +1,46 @@
+by "meszi"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/22/16"
+height 13
+id 174277
+link "https://www.griddlers.net/nonogram/-/g/174277"
+medium_time "0:03:54"
+points 576
+popularity 71.88
+title "Poodle"
+width 12
+
+color a cccccc
+color b 333333
+color c ffffff
+color d cc6600
+
+rows
+c 2
+c 4
+d 2 b 1 c 3
+d 2 c 2 c 1
+d 2 c 2 c 3
+d 2 c 3 d 1 c 1
+c 5 d 4
+c 5 d 6
+c 3 d 8
+d 3 d 3
+d 1 c 1 d 1 c 1
+c 3 c 3
+d 1 d 1
+
+columns
+d 1
+d 2 c 2
+c 1 b 1 d 1 c 3 d 1 c 1
+c 4 d 2 c 3 d 2 c 1 d 1
+c 4 d 2 c 2 d 2 c 2
+c 2 c 4 d 1
+c 3 d 2
+c 1 d 3
+d 4 c 1
+c 1 d 5 c 1 d 1
+c 2 d 5 c 2
+c 2 d 2

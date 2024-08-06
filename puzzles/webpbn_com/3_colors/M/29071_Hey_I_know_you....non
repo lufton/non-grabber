@@ -1,0 +1,61 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2016 by Brian Bellis"
+date "Nov 12, 2016"
+description "turn"
+difficulty 2.25
+height 20
+id 29071
+link "https://webpbn.com/play.cgi?id=29071"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Hey, I know you..."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+red 6
+red 10
+red 4 red 4
+red 3 red 3
+red 4 black 4 red 2
+red 2 red 3 black 7 red 2
+red 2 red 3 black 6 red 2
+red 2 black 1 red 3 black 4 red 2
+red 2 black 3 red 3 black 3 red 2
+red 2 black 3 red 3 black 3 red 2
+red 2 black 3 red 3 black 3 red 2
+red 2 black 3 red 3 black 2 red 2
+red 2 black 7 red 3 black 1 red 2
+red 2 black 5 red 3 red 2
+red 2 black 3 black 1 red 3 red 2
+red 2 black 1 black 2 red 4
+red 3 red 3
+red 4 red 4
+red 10
+red 6
+
+columns
+red 6
+red 10
+red 4 black 1 red 4
+red 3 black 2 red 3
+red 4 black 7 red 2
+red 2 red 3 black 9 red 2
+red 2 red 3 black 7 red 2
+red 2 black 1 red 3 black 2 red 2
+red 2 black 3 red 3 black 1 red 2
+red 2 black 3 red 3 red 2
+red 2 black 3 red 3 red 2
+red 2 black 4 red 3 red 2
+red 2 black 6 red 3 black 2 red 2
+red 2 black 7 red 3 black 1 red 2
+red 2 black 6 red 3 red 2
+red 2 red 4
+red 3 red 3
+red 4 red 4
+red 10
+red 6

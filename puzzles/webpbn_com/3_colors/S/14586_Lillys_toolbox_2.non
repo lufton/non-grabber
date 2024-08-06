@@ -1,0 +1,51 @@
+by "annalivia (annalivia)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by annalivia"
+date "Jun 14, 2011"
+description "wire strippers"
+difficulty 1.25
+height 20
+id 14586
+link "https://webpbn.com/play.cgi?id=14586"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.75
+title "Lilly's toolbox #2"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 3 black 3
+black 3 black 3
+black 2 red 1 black 1
+black 5 red 1 black 1
+black 1 red 5 black 1
+black 2 red 3 black 2
+black 5
+black 2 black 2
+red 1 black 1 black 1 red 1
+red 1 black 1 black 1 red 1
+red 2 black 1 black 1 red 2
+red 2 black 1 black 1 red 2
+red 2 black 1 black 1 red 2
+red 3 red 3
+red 3 red 3
+red 3 red 3
+red 2 red 2
+red 2 red 2
+red 2 red 2
+red 2 red 2
+
+columns
+0
+black 6 red 10
+black 4 red 1 black 3 red 12
+black 2 black 1 red 2 black 7 red 3
+black 1 red 2 black 1
+black 2 black 1 red 2 black 7 red 3
+black 2 red 3 black 3 red 12
+black 6 red 10
+0
+0

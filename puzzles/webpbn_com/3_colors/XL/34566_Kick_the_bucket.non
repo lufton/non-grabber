@@ -1,0 +1,86 @@
+by "Brian Bellis (mootpoint)"
+collection "webpbn.com"
+copyright "(c) Copyright 2020 by Brian Bellis"
+date "Oct 12, 2020"
+description ""
+difficulty 2.5
+height 35
+id 34566
+link "https://webpbn.com/play.cgi?id=34566"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.75
+title "Kick the bucket"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 28
+black 2 black 2
+black 1 red 5 black 6 red 5 black 1
+black 1 red 5 black 2 black 3 red 5 black 1
+black 1 red 5 black 2 black 2 black 2 red 5 black 1
+black 1 red 5 black 1 black 2 black 1 black 2 red 5 black 1
+black 2 red 5 black 1 black 1 black 1 black 2 red 5 black 2
+black 1 red 5 black 1 black 2 black 2 red 5 black 1
+black 1 red 5 black 3 black 2 red 5 black 1
+black 1 red 5 black 1 black 4 black 5 red 5 black 1
+black 1 red 4 black 1 black 1 black 1 black 1 black 1 black 1 red 4 black 1
+black 1 red 4 black 3 black 1 black 2 red 4 black 1
+black 1 red 4 black 1 black 3 black 4 red 4 black 1
+black 1 red 4 black 1 black 1 black 1 black 1 black 1 red 4 black 1
+black 1 red 4 black 2 black 3 black 3 red 4 black 1
+black 2 red 4 black 1 black 1 black 1 red 4 black 2
+black 1 red 4 black 3 black 2 red 4 black 1
+black 1 red 4 black 2 black 2 red 4 black 1
+black 1 red 3 black 8 red 3 black 1
+black 1 red 3 black 2 red 3 black 1
+black 1 red 3 black 3 red 3 black 1
+black 1 red 3 black 2 black 1 red 3 black 1
+black 2 red 3 black 1 black 1 red 3 black 2
+black 1 red 3 black 1 black 1 red 3 black 1
+black 1 black 1
+black 1 black 1
+black 1 black 2 black 2 black 5 black 3 black 1
+black 1 black 1 black 2 black 1 black 1 black 2 black 1 black 1
+black 2 black 3 black 1 black 1 black 2
+black 1 black 3 black 3 black 1 black 1
+black 1 black 1 black 2 black 1 black 2 black 1 black 1
+black 1 black 2 black 2 black 2 black 3 black 1
+black 2 black 2
+black 20
+0
+
+columns
+black 6
+black 2 black 10
+black 1 black 8
+black 1 red 8 black 7
+black 1 red 16 black 5
+black 1 red 22 black 2
+black 1 red 22 black 1 black 1 black 1
+black 1 red 22 black 6 black 1
+black 1 black 2 black 1
+black 1 black 4 black 4 black 1
+black 1 black 5 black 4 black 2 black 2 black 1
+black 1 black 2 black 4 black 3 black 1 black 1 black 1 black 1 black 1
+black 1 black 2 black 1 black 1 black 1 black 2 black 1 black 1 black 2 black 1
+black 1 black 1 black 2 black 1 black 2 black 1 black 5 black 2 black 1 black 1
+black 1 black 1 black 1 black 1 black 1 black 3 black 4 black 1 black 6 black 1
+black 1 black 1 black 1 black 2 black 1 black 5 black 1 black 1 black 1 black 1
+black 1 black 1 black 1 black 2 black 2 black 1 black 1 black 1
+black 1 black 2 black 1 black 2 black 1 black 1 black 3 black 2 black 1
+black 1 black 1 black 1 black 1 black 1 black 3 black 1 black 1
+black 1 black 7 black 4 black 4 black 1
+black 1 black 3 black 4 black 2 black 2 black 1
+black 1 black 1 black 1 black 1
+black 1 red 22 black 2 black 2 black 1
+black 1 red 22 black 1
+black 1 red 22 black 2
+black 1 red 16 black 5
+black 1 red 8 black 7
+black 1 black 8
+black 2 black 10
+black 6

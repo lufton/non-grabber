@@ -1,0 +1,81 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "9/23/07"
+height 27
+id 50714
+link "https://www.griddlers.net/nonogram/-/g/50714"
+medium_time "0:26:04"
+points 30629
+popularity 79.49
+title "Dragon"
+width 29
+
+color a ffffff
+color b 000000
+color c 990099
+color d 339900
+color e 00d700
+color f ffcc00
+color g ffff66
+color h ff0066
+
+rows
+b 3
+b 2 c 1 b 1 c 2
+d 1 e 2 b 2 c 2 b 2 c 2
+d 1 e 4 b 3 c 3 b 2 c 2
+e 2 b 1 d 2 e 3 b 1 c 1 b 3 c 3 b 2 c 2
+e 1 h 1 b 1 e 1 d 2 e 3 b 1 c 2 b 4 c 2 b 3 c 2
+e 5 d 1 g 1 e 2 b 2 c 3 b 3 c 3 b 3 c 2
+e 1 b 1 e 2 g 1 e 2 b 3 c 3 b 3 c 3 b 2 c 2
+e 3 g 1 f 1 e 2 b 1 c 1 b 3 c 3 b 3 c 2 b 3 c 2
+e 2 g 1 f 1 e 2 d 1 b 1 c 2 b 3 c 3 b 2 c 2 b 1 c 2
+e 1 g 2 f 1 e 2 b 2 c 3 b 3 c 2 b 1 c 1 c 1
+g 1 f 1 e 2 d 1 b 3 c 2 b 2 c 2
+e 1 d 1 g 2 e 3 b 1 c 1 b 3 c 2 c 1
+e 1 d 4 e 2 b 1 c 2 b 1 c 1 e 2
+g 1 d 3 e 1 b 2 c 1 e 3
+g 2 f 1 d 2 e 2 b 1 e 5 e 3
+g 2 f 1 e 5 e 8 e 3
+g 1 f 1 g 1 f 3 e 12 e 3
+f 1 g 3 f 3 e 2 d 1 e 8 e 3
+g 2 f 1 g 2 f 2 d 1 e 10 e 2 f 1
+f 1 g 2 f 1 g 1 f 1 e 3 d 1 e 5 d 1 e 2 e 2 f 1
+g 1 f 1 g 3 f 1 e 3 d 2 e 1 d 3 e 7 f 1
+g 3 f 2 e 5 d 6 e 4 f 1
+g 2 f 1 d 2 e 5 d 2 f 3
+e 10 d 1
+e 1 d 5 e 2 d 2
+d 3 d 2
+
+columns
+e 4
+e 1 b 1 e 2 e 1
+e 5 d 1 e 1
+e 1 h 1 e 2 d 1 g 3 f 1
+d 1 b 2 e 1 g 1 d 1 g 3 f 1 g 2
+d 1 e 1 d 1 e 2 g 3 d 2 f 2 g 3 f 1
+e 2 d 3 g 2 f 1 e 1 d 3 e 1 f 1 g 1 f 1 g 2
+e 3 d 1 g 1 f 2 e 3 d 2 e 1 f 2 g 2 f 1 g 1
+e 3 g 2 f 1 e 8 f 2 g 1 f 1 g 2
+e 7 d 1 b 3 e 3 f 2 g 3
+e 4 d 1 b 2 c 2 b 2 e 3 f 2 g 1 f 1 g 1 e 1
+b 5 c 2 e 2 d 1 e 1 f 2 g 1 e 2 d 1
+b 2 c 3 b 3 e 2 d 1 e 4 f 1 e 1 d 2
+b 4 c 3 b 1 e 7 d 1 e 1 d 2
+b 1 c 2 b 3 c 3 e 5 d 1 e 2 d 1 e 1 d 1
+b 1 c 4 b 4 c 2 e 6 d 1 e 3 d 1
+b 4 c 3 b 3 e 6 d 1 e 3 d 1
+b 6 c 3 b 1 e 7 d 1 e 3 d 1
+b 1 c 2 b 4 c 3 e 6 d 2 e 3 d 1
+b 1 c 4 b 4 c 3 e 5 d 2 e 2 d 1
+b 3 c 4 b 4 c 2 e 3 d 3 d 2
+b 1 c 1 b 2 c 4 b 2 e 3 d 1
+c 2 b 3 c 3 e 1 e 2 d 2
+c 2 b 3 c 3 e 2 e 2 d 1
+c 2 b 4 c 2 e 2 e 2 f 1
+c 2 b 4 e 3 e 2 f 1
+c 3 b 1 e 8 f 1
+c 4 e 6 f 1
+c 3 e 2 f 3

@@ -1,0 +1,78 @@
+by "Norma Dee (norm0908)"
+collection "webpbn.com"
+copyright "(c) Copyright 2013 by Norma Dee"
+date "Nov 11, 2013"
+description "Little pitchers have big ears."
+difficulty 1.75
+height 35
+id 23121
+link "https://webpbn.com/play.cgi?id=23121"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "You know what they say...."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+green 6 green 6
+green 5 red 5 green 5
+green 4 red 3 blue 1 red 3 green 4
+green 3 red 3 blue 1 red 5 green 3
+green 2 red 3 blue 3 red 3 green 2
+green 1 black 3 red 7 black 3 green 1
+black 2 black 1 red 7 black 1 black 2
+black 1 black 1 blue 1 blue 1 black 1 black 1
+black 1 black 1 black 1 black 1 black 1
+black 2 black 2
+black 3 black 3 black 3
+black 2 black 2
+black 7
+red 6
+red 15
+red 16
+red 10 blue 1 red 6
+red 6 blue 2 red 2 blue 1 red 6
+red 5 blue 6 red 6
+red 7 blue 4 red 6
+red 7 blue 3 red 7
+red 3 red 4 blue 1 red 4 red 3
+red 3 red 9 red 3
+red 3 red 9 black 3
+red 3 blue 9 black 5
+red 3 blue 9 black 5
+red 3 blue 9 black 1 black 3
+black 4 blue 9 black 3
+black 2 blue 9 black 2
+black 1 blue 9
+blue 4 blue 4
+blue 4 blue 4
+blue 3 blue 3
+blue 3 blue 3
+blue 3 blue 3
+
+columns
+green 6
+green 5
+green 4 red 12 black 1
+green 3 black 4 red 13 black 2
+green 2 black 2 black 2 red 13 black 3
+green 1 black 1 black 2 black 1 red 7 black 1
+red 2 black 2 black 2 red 10 blue 11
+red 5 black 2 red 4 blue 1 red 5 blue 11
+red 6 blue 1 black 1 red 4 blue 2 red 5 blue 11
+red 2 blue 2 red 2 black 1 black 1 red 4 blue 4 red 3 blue 8
+red 1 blue 1 red 1 blue 1 red 2 black 1 black 1 black 1 red 5 blue 4 red 2 blue 6
+red 3 blue 1 red 2 black 1 black 1 red 5 blue 3 red 3 blue 8
+red 6 blue 1 black 1 red 3 blue 4 red 4 blue 11
+red 5 black 2 red 11 blue 11
+green 1 red 2 black 2 black 2 red 10 blue 11
+green 2 black 1 black 2 black 1 red 7 black 3
+green 3 black 2 black 2 red 9 black 3
+green 4 black 4 red 9 black 5
+green 5 red 7 black 6
+green 6 black 5

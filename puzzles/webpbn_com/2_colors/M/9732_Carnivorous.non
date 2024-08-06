@@ -1,0 +1,57 @@
+by "Gator (gator)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Gator"
+date "Jul 26, 2010"
+description "Venus Flytrap"
+difficulty 3.0
+height 20
+id 9732
+link "https://webpbn.com/play.cgi?id=9732"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.25
+title "Carnivorous"
+width 20
+
+rows
+2,2,1,1
+2,2,1,2
+1,1,1,4
+3,2,3,2,1
+1,2,2,2,2
+2,2,1,2,2,1
+1,5,3,2
+1,2,4,1
+1,6,1
+1,8,1
+1,9,2
+1,6,1
+1,7,2,2
+2,2,5,3
+1,4,2,1
+2,8,4
+1,1,3,2,2
+2,3,1,2
+1,2,2,1,2,1
+3,4
+
+columns
+2,9,1,1
+1,3,5
+2,1,2
+2,1,1,2
+1,1,1,1,1,1,1
+2,2,2,1,1,1,2
+3,2,1,1,1,1,2
+2,1,1,1,1,1,1
+3,10
+11
+13
+2,1,7,2
+2,2,1,1,1,2,1
+1,1,1,1,1,1,1
+2,2,1,1,1,2
+3,1,1,1,3
+2,3
+4,4,1
+2,3,4,1
+1,5,1,1

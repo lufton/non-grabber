@@ -1,0 +1,93 @@
+by "Aldege Cholette (Aldege)"
+collection "webpbn.com"
+copyright "(c) Copyright 2012 by Aldege Cholette"
+date "Jan 22, 2012"
+description "Mr.B why are you wearing a space suit? Matt ever since we installed that turbo and added the nitrous boost to the grill,this thing is scary fast and i'm afraid it could take off. I want to be prepared in case i end up being the first rooster to land on the moon. The aerodynamics aren't right for it to take flight Mr.B,but maybe we should work on that. Being the first rooster and cat on the moon could make us famous.Do you have a suit Matt? Minor detail,let's start putting wings on the grill."
+difficulty 2.5
+height 35
+id 17283
+link "https://webpbn.com/play.cgi?id=17283"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "What's with the outfit Mr.B?"
+width 35
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 2 red 2 red 1 red 12
+red 1 red 1 green 4 red 1 red 2 red 2 blue 10 red 2
+red 2 green 7 red 1 red 2 blue 2 green 1 black 1 green 2 black 1 green 3 blue 2 red 1
+red 1 red 1 green 3 blue 5 black 3 blue 3 green 1 black 1 green 2 black 1 green 3 blue 3
+red 1 green 3 blue 2 black 1 blue 1 black 1 black 2 blue 3 black 5 green 3 blue 3
+green 3 blue 1 blue 1 black 1 blue 1 black 3 blue 3 black 5 green 3 blue 3
+green 3 blue 1 black 1 blue 1 black 6 blue 2 black 2 blue 1 black 3 green 3 blue 3
+green 3 blue 2 red 1 black 1 blue 1 black 5 blue 3 black 5 green 3 blue 3
+green 3 blue 5 black 4 blue 3 black 1 red 1 black 3 green 3 blue 3
+green 6 red 1 red 1 black 5
+green 4 red 2 red 2 blue 5
+blue 5 red 3 black 7
+blue 7 green 1 green 2 red 4 green 8
+blue 9 green 5 red 4 green 8
+blue 9 green 5 red 4 green 7
+blue 7 green 1 blue 3 red 4 green 5 black 1
+red 1 blue 6 blue 1 red 4 red 3 black 4
+red 1 blue 7 blue 1 red 3 green 5 black 3
+red 1 blue 8 blue 2 red 1 blue 7 black 1 black 2
+red 2 blue 8 blue 1 red 4 blue 7 red 2 green 1 black 2 green 1
+red 1 red 1 blue 1 red 2 blue 3 red 2 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 red 1 green 1 black 2 green 1
+red 1 blue 6 red 4 red 1 blue 1 red 1 blue 1 green 1 blue 1 green 1 blue 1 green 1 blue 1 red 2 black 2
+red 1 red 1 blue 2 red 2 blue 1 red 1 blue 1 red 1 green 1 blue 1 green 1 blue 1 green 1 blue 2 red 1 black 1 black 2
+red 1 blue 10 red 1 green 1 blue 2 green 1 blue 1 green 1 blue 1 red 1 green 3 black 2 green 1
+red 2 blue 10 green 4 red 1 blue 1 green 1 red 1 green 1 blue 1 red 2 black 2 green 1 black 2 green 1
+red 1 red 1 blue 9 green 1 blue 1 red 1 green 1 red 2 black 1 black 2
+red 1 red 2 blue 7 green 4 blue 1 green 1 blue 1 black 2
+red 1 blue 7 blue 2 green 1 blue 2 black 1
+blue 7 black 3 green 4 blue 2
+blue 7 black 5 blue 2 green 1 blue 2 black 2
+blue 7 black 3 red 1 black 3 black 1 green 1 black 1 black 4
+green 2 green 2 black 2 red 3 black 2 green 1 black 2 red 2 black 2
+green 1 green 1 green 1 black 3 red 1 black 3 green 1 black 2 red 2 black 2
+green 1 green 1 green 1 black 5 green 3 green 1 black 4
+green 7 black 3 green 2 green 3 black 2
+
+columns
+red 2 red 2
+red 1 red 2 red 2 red 1
+red 1 red 1 red 1 red 2 red 5
+red 1 red 2 green 4 blue 2 red 1 red 1 blue 4 red 2
+red 1 green 7 blue 4 blue 8
+red 1 green 9 blue 9 blue 1 blue 8 green 2
+red 1 green 3 blue 4 green 3 blue 9 blue 1 blue 8 green 1 green 1
+green 2 blue 2 blue 2 green 2 blue 9 blue 1 blue 8 green 1 green 1
+red 1 green 2 blue 1 blue 1 green 2 blue 9 blue 1 blue 8 green 1 green 1
+red 1 green 1 blue 1 blue 1 blue 1 green 2 blue 9 red 1 blue 8 green 1 green 2
+green 1 blue 1 black 1 red 1 blue 1 green 1 blue 8 red 3 blue 8 green 1 green 1
+blue 1 black 3 blue 1 blue 2 blue 3 red 3 blue 8 green 1 green 1
+blue 4 green 4 red 1 blue 4 green 2
+black 1 green 2
+black 2 green 3 blue 1 black 3
+black 3 green 3 blue 1 black 5
+black 6 green 2 blue 4 black 3 red 1 black 3
+red 2 black 1 black 4 red 2 blue 3 green 1 black 2 red 3 black 2
+red 1 black 6 red 1 red 5 red 1 blue 1 green 1 green 1 black 3 red 1 black 3
+black 1 red 7 red 1 blue 1 red 2 green 1 green 1 black 5
+red 1 red 11 blue 2 red 1 green 1 green 1 green 1 blue 1 black 3 green 1
+red 2 blue 6 red 9 red 4 green 1 red 1 green 1 green 1 blue 1 green 2
+red 2 blue 7 black 1 green 2 blue 4 green 1 blue 2 green 1 blue 1 green 1 green 1
+red 1 blue 5 black 1 blue 2 black 1 green 4 green 1 blue 2 green 2 blue 2 green 1 blue 1 blue 1 green 1 green 2
+red 1 blue 1 green 2 black 6 blue 1 black 1 green 4 red 1 green 1 blue 4 green 2 red 2 blue 1 green 1 black 1 green 1
+red 1 blue 1 black 4 blue 1 black 1 red 1 black 1 blue 1 black 1 green 4 red 1 green 1 blue 2 green 2 blue 2 green 3 blue 1 green 6
+red 1 blue 1 green 2 black 6 blue 1 black 1 green 4 red 1 green 1 blue 4 green 2 blue 1 red 1 blue 3 black 1
+red 1 blue 1 green 2 black 6 blue 1 black 1 green 4 black 1 green 1 blue 2 green 2 blue 2 red 2 blue 2 black 2
+red 1 blue 1 black 8 blue 1 black 1 green 3 black 3 blue 5 red 2 black 2 blue 1 black 4
+red 1 blue 1 green 7 green 2 black 2 red 1 green 1 red 2 green 1 black 3 black 2 red 2 black 2
+red 1 blue 1 green 7 green 1 black 3 red 3 black 1 green 1 black 1 black 2 red 2 black 2
+red 1 blue 1 green 7 green 2 green 2 black 4
+red 1 blue 8 black 8 black 2
+red 2 blue 7 black 8
+red 2 blue 6 green 2 green 2

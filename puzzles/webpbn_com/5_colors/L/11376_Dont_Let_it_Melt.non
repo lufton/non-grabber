@@ -1,0 +1,83 @@
+by "Mary Jones (booboo)"
+collection "webpbn.com"
+copyright "(c) Copyright 2010 by Mary Jones"
+date "Dec 14, 2010"
+description "A snowman. The white patches in the grass is the snow that hasn't melted."
+difficulty 2.25
+height 30
+id 11376
+link "https://webpbn.com/play.cgi?id=11376"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 3.0
+title "Don't Let it Melt!"
+width 30
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+0
+0
+0
+black 7
+black 7
+black 7
+black 11
+blue 7
+blue 2 blue 2
+blue 2 black 1 black 1 blue 2
+blue 2 red 4 blue 2
+blue 2 black 1 black 1 blue 2
+blue 2 black 3 blue 2
+blue 2 blue 2
+blue 10
+blue 2 blue 2
+blue 2 black 2 blue 2
+blue 2 black 2 blue 2
+blue 2 blue 2
+blue 2 blue 2
+blue 12
+blue 2 blue 2
+blue 2 black 2 blue 2
+blue 2 black 2 blue 2
+blue 2 blue 2
+blue 6 blue 6
+blue 2 green 1 blue 4 black 2 blue 4 green 3 blue 2
+green 1 green 4 blue 2 black 2 blue 2 green 5 green 2
+green 2 green 2 blue 2 blue 2 green 1
+green 10 blue 10
+
+columns
+blue 1 green 1 green 1
+blue 1 green 1
+blue 1 green 2
+blue 1 green 2
+blue 1 green 2 green 1
+blue 2 green 1 green 1
+blue 4 green 1 green 1
+blue 5 green 3
+blue 2 blue 2 green 2
+black 1 blue 4 blue 4 blue 2 blue 2 green 1
+black 1 blue 13 blue 2
+black 4 blue 2 blue 2 blue 2 blue 1
+black 4 blue 1 black 1 black 1 blue 1 blue 1 blue 1
+black 4 blue 1 black 1 blue 1 blue 1 blue 1
+black 4 blue 1 red 1 black 1 blue 1 black 2 blue 1 black 2 black 2 blue 1
+black 4 blue 1 red 1 black 1 blue 1 black 2 blue 1 black 2 black 2 blue 1
+black 4 blue 1 black 1 red 1 black 1 blue 1 blue 1 blue 1
+black 4 blue 2 red 1 blue 2 blue 1 blue 1
+black 1 blue 7 blue 2 blue 1
+black 1 blue 4 blue 7 blue 2
+blue 4 blue 2 blue 2
+blue 2 blue 2
+blue 5 green 1
+blue 4 green 2
+blue 2 green 1
+blue 1 green 2
+blue 1 green 2
+blue 1 green 1
+blue 1 green 1
+blue 1 green 1

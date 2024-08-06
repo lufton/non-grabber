@@ -1,0 +1,62 @@
+by "Ron Jacobson (shmily999)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Ron Jacobson"
+date "Feb 17, 2011"
+description "The early bird may get the worm, but the second mouse gets the cheese."
+difficulty 1.25
+height 20
+id 12284
+link "https://webpbn.com/play.cgi?id=12284"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.25
+title "Rodent Control #2"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+0
+0
+0
+0
+0
+0
+red 2
+red 4 blue 9
+red 5 blue 2 blue 1
+red 5 blue 3 blue 1
+red 4 blue 15
+blue 4 blue 3
+black 20
+black 12 black 1
+black 1 black 12
+black 20
+0
+0
+0
+0
+
+columns
+black 4
+red 3 blue 1 black 2 black 1
+red 4 blue 1 black 2 black 1
+red 5 blue 1 black 2 black 1
+red 5 blue 1 black 2 black 1
+red 3 blue 1 black 2 black 1
+blue 1 black 2 black 1
+blue 1 black 2 black 1
+blue 1 black 4
+blue 5 black 4
+blue 5 black 4
+blue 1 blue 3 black 4
+blue 1 blue 1 black 1 black 2
+blue 1 blue 1 black 1 black 2
+blue 1 blue 1 black 1 black 2
+blue 1 blue 1 black 1 black 2
+blue 1 blue 1 black 1 black 2
+blue 1 blue 1 black 1 black 2
+blue 1 blue 1 black 1 black 2
+blue 2 black 4

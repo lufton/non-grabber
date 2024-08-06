@@ -1,0 +1,63 @@
+by "cathy MCWEENEY (cattie)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by cathy MCWEENEY"
+date "May  8, 2023"
+description ""
+difficulty 1.25
+height 20
+id 36803
+link "https://webpbn.com/play.cgi?id=36803"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.25
+title "water"
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 3 red 3
+red 1 red 1 red 1 red 2 red 2
+red 1 red 1 red 3 red 1 red 1
+red 3 red 1 red 1 red 1
+red 1 red 1 red 3 red 2 red 2
+red 1 red 1 black 2 red 3
+black 4
+black 1 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 green 4 black 1
+black 1 green 4 black 1
+black 1 green 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 1 blue 4 black 1
+black 4
+0
+
+columns
+0
+red 5
+red 1
+red 5
+0
+black 10
+red 1 red 3 black 2 blue 4 green 3 blue 3 black 1
+red 1 red 1 red 1 black 2 blue 4 green 3 blue 3 black 1
+red 3 red 1 black 2 blue 4 green 3 blue 3 black 1
+black 2 blue 4 green 3 blue 3 black 1
+red 4 black 10
+red 2 red 2
+red 1 red 1
+red 2 red 2
+red 4
+0
+0
+0
+0
+0

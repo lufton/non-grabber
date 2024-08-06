@@ -1,0 +1,43 @@
+by "Rosea (dead-roses)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by Rosea"
+date "Feb 15, 2009"
+description "This is Blue Bob. He wants to say "hello." This is Blue Bob's house and sun and grass. "Hello, Blue Bob!""
+difficulty 1.25
+height 10
+id 5060
+link "https://webpbn.com/play.cgi?id=5060"
+note "published,definitely unique,definitely line/color solvable"
+quality 2.0
+title "Hello, Nice to Meet You!"
+width 10
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color green 00B000 %
+color blue 4040FF @
+
+rows
+red 2 black 1
+red 2 black 2
+black 4
+blue 1 red 2
+blue 3 red 2
+green 4 blue 1 green 5
+green 3 blue 1 green 1 blue 1 green 4
+green 10
+green 10
+green 10
+
+columns
+red 2 green 5
+red 2 green 5
+green 5
+blue 1 green 1 blue 1 green 3
+blue 3 green 4
+blue 1 green 1 blue 1 green 3
+black 1 green 5
+black 2 red 2 green 5
+black 3 red 2 green 5
+black 1 green 5

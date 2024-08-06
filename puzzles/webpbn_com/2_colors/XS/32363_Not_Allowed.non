@@ -1,0 +1,33 @@
+by "Xay Johnson (XaySPS)"
+collection "webpbn.com"
+copyright "(c) Copyright 2019 by Xay Johnson"
+date "Apr 14, 2019"
+description "This is a picture of the cancel symbol."
+difficulty 1.25
+height 8
+id 32363
+link "https://webpbn.com/play.cgi?id=32363"
+note "published,definitely unique,definitely line/color solvable"
+quality 1.75
+title "Not Allowed"
+width 8
+
+rows
+8
+2,1
+3,1
+1,2,1
+1,2,1
+1,2,1
+1,3
+8
+
+columns
+8
+3,1
+1,2,1
+1,2,1
+1,2,1
+1,3
+1,2
+8

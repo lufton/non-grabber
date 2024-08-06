@@ -1,0 +1,48 @@
+by "Replica"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "4/1/08"
+height 15
+id 60604
+link "https://www.griddlers.net/nonogram/-/g/60604"
+medium_time "0:04:36"
+points 413
+popularity 69.73
+title "Mario"
+width 12
+
+color a ffffff
+color b ff0000
+color c ffcc66
+color d 000099
+
+rows
+b 4
+b 8
+c 2 d 4
+c 3 d 1 c 2 d 1 c 2 d 1
+c 3 d 1 c 2 d 2 c 2 d 1
+d 4 c 4 d 3
+c 7
+d 6
+d 2 b 2 d 4
+b 2 c 1 b 2 d 3
+b 5 d 4
+b 4 c 3 d 1 b 1
+b 5 c 2 b 2
+b 3 b 4
+d 3 d 3
+
+columns
+c 1
+c 2 d 1
+b 1 c 2 d 1 c 1 b 3
+b 1 c 1 d 2 c 1 d 1 b 5 d 1
+b 1 c 1 d 1 c 1 d 1 c 1 d 2 b 5 d 1
+b 2 c 5 d 1 b 1 c 1 b 4 d 1
+b 2 d 1 c 1 d 1 c 2 d 1 b 3 c 1 b 1
+b 2 d 3 c 2 d 2 b 1 d 1 c 2 b 1
+b 2 d 1 c 4 d 4 c 2 b 1 d 1
+b 1 d 1 c 2 d 1 d 5 b 2 d 1
+d 3 d 3 b 3 d 1
+d 1

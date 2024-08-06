@@ -1,0 +1,62 @@
+by "Tom O'Connell (sensei69)"
+collection "webpbn.com"
+copyright "(c) Copyright 2011 by Tom O'Connell"
+date "Apr 10, 2011"
+description "Ref # 13272"
+difficulty 1.5
+height 20
+id 13288
+link "https://webpbn.com/play.cgi?id=13288"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "Using Sarah's pond for fun."
+width 20
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+color blue 4040FF @
+
+rows
+black 1 red 3
+black 6 black 3 red 2
+black 1 black 1 black 5 red 1
+black 1 black 1 black 6
+black 8 black 7
+black 1 black 1 black 1 black 5
+black 4 black 2 black 4
+black 1 black 1 black 1 black 4
+black 4 blue 3
+black 1 black 1 black 3
+black 4 black 6
+black 1 black 1 black 1 black 2 blue 1 black 2
+black 4 black 1 red 1 black 3
+black 1 black 1 black 2
+black 7
+black 1 black 1
+black 4
+blue 20
+blue 20
+blue 20
+
+columns
+black 16 blue 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 3
+black 1 black 1 black 1 black 1 black 1 black 1 black 1 black 1 blue 3
+black 1 black 13 blue 3
+black 1 black 1 black 1 blue 3
+black 4 black 1 blue 3
+black 1 black 1 blue 3
+black 1 blue 3
+black 2 blue 3
+black 1 black 2 blue 3
+black 6 blue 3
+black 3 blue 3
+black 4 black 3 blue 3
+black 6 black 1 blue 3
+black 6 blue 1 black 3 red 1 blue 3
+black 5 blue 1 black 5 blue 3
+black 4 blue 1 black 2 blue 1 black 2 blue 3
+red 1 black 3 blue 3
+red 2 black 1 blue 3
+red 3 blue 3

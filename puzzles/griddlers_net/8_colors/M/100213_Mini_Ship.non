@@ -1,0 +1,68 @@
+by "clake3879"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/25/10"
+height 25
+id 100213
+link "https://www.griddlers.net/nonogram/-/g/100213"
+medium_time "0:14:28"
+points 11317
+popularity 61.06
+title "Mini Ship"
+width 18
+
+color a f4f2f2
+color b 662916
+color c de8852
+color d eed097
+color e 666666
+color f 999999
+color g cccccc
+color h b05f25
+
+rows
+b 4
+b 1 f 1 b 3 c 1 d 1 b 3 f 1 b 1
+b 1 c 1 g 1 f 1 c 1 b 1 h 1 c 1 b 1 c 1 f 1 g 1 c 1 b 1
+b 1 e 1 g 1 f 1 g 1 b 2 f 2 g 1 e 1 b 1
+e 1 f 1 b 1 d 2 b 1 e 1
+b 1 g 1 b 5 c 1 d 1 b 5 g 1 b 1
+b 1 d 1 g 1 c 3 b 1 h 1 c 1 b 1 c 3 g 1 d 1 b 1
+b 2 g 1 g 2 f 6 g 2 g 1 b 2
+e 1 g 1 g 1 e 1
+e 1 g 1 g 1 e 1
+e 1 f 2 g 1 g 1 f 2 e 1
+e 1 g 1 f 1 g 3 g 3 f 1 g 1 e 1
+e 1 g 2 g 1 f 6 g 1 g 2 e 1
+e 1 f 1 g 2 g 2 f 1 e 1
+b 1 f 2 g 2 g 2 f 2 b 1
+b 1 e 1 g 1 f 2 g 2 g 2 f 2 g 1 e 1 b 1
+b 1 h 1 e 1 g 2 f 2 g 4 f 2 g 2 e 1 h 1 b 1
+b 1 h 1 d 1 e 2 g 3 b 2 g 3 e 2 d 1 h 1 b 1
+b 1 c 1 d 1 c 1 b 3 c 1 d 1 b 3 c 1 d 1 c 1 b 1
+b 1 c 1 d 1 c 1 b 2 c 2 b 2 c 1 d 1 c 1 b 1
+b 1 c 1 d 2 b 1 h 2 b 1 d 2 c 1 b 1
+b 1 c 2 b 1 c 1 d 1 b 1 c 2 b 1
+b 3 c 2 b 3
+h 4
+b 4
+
+columns
+b 2 e 4 b 4
+b 1 d 1 b 1 e 2 f 1 g 2 f 2 e 1 h 2 b 1
+b 2 e 1 g 1 g 3 f 1 g 2 f 1 g 1 e 1 d 1 c 1 b 1
+b 1 c 1 e 1 f 1 b 1 g 1 g 1 f 1 g 2 f 1 g 1 e 1 d 1 c 1 b 1
+f 1 g 1 b 1 c 1 g 1 g 1 g 1 f 1 g 1 e 1 c 1 d 1 c 1 b 1
+b 1 f 1 g 1 b 1 c 1 g 1 g 2 g 1 f 1 g 1 b 1 c 1 d 1 c 1 b 1
+b 1 c 1 f 1 b 1 c 1 f 1 g 1 f 1 g 1 f 1 g 1 b 2 d 1 c 1 b 1
+b 3 g 1 b 3 f 1 f 1 g 2 b 5 h 1 b 1
+b 1 c 1 h 1 b 1 d 1 c 1 h 1 f 1 f 1 g 1 b 1 c 2 h 1 c 2 h 1 b 1
+b 1 d 1 c 1 b 1 d 2 c 1 f 1 f 1 g 1 b 1 d 1 c 1 h 1 d 1 c 1 h 1 b 1
+b 3 f 1 b 3 f 1 f 1 g 2 b 5 h 1 b 1
+b 1 c 1 f 1 b 1 c 1 f 1 g 1 f 1 g 1 f 1 g 1 b 2 d 1 c 1 b 1
+b 1 f 1 g 1 b 1 c 1 g 1 g 2 g 1 f 1 g 1 b 1 c 1 d 1 c 1 b 1
+f 1 g 1 b 1 c 1 g 1 g 1 g 1 f 1 g 1 e 1 c 1 d 1 c 1 b 1
+b 1 c 1 e 1 b 1 g 1 g 1 f 1 g 2 f 1 g 1 e 1 d 1 c 1 b 1
+b 2 e 1 g 1 g 3 f 1 g 2 f 1 g 1 e 1 d 1 c 1 b 1
+b 1 d 1 b 1 e 2 f 1 g 2 f 2 e 1 h 2 b 1
+b 2 e 4 b 4

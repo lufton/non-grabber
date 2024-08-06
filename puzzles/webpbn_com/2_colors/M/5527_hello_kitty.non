@@ -1,0 +1,57 @@
+by "sanane samanye (maceraseven)"
+collection "webpbn.com"
+copyright "(c) Copyright 2009 by sanane samanye"
+date "Apr  6, 2009"
+description "happy cat looking above"
+difficulty 2.25
+height 20
+id 5527
+link "https://webpbn.com/play.cgi?id=5527"
+note "published,definitely unique,definitely requires moderate lookahead"
+quality 2.5
+title "hello kitty"
+width 20
+
+rows
+20
+2,15,1
+2,13,1
+2,3,3,1
+2,1
+2,1
+2,4,4,1
+2,1,2,2,1,1
+2,1,1,1,1,1
+3,3,3,2
+3,2
+4,3,3
+4,1,3
+4,1,1,1,3
+4,3,3,3
+5,4
+5,5,4
+4,4
+3,4
+2,4
+
+columns
+20
+20
+1,10
+2,7
+3,2
+4,3
+4,1,1,1
+4,2,1,1
+3,4,1,1
+3,1,1,1
+3,3,1
+3,1,1,1
+3,4,1,1
+4,2,1,1
+4,1,1,1
+4,3
+3,5
+2,9
+1,11
+20

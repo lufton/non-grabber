@@ -1,0 +1,61 @@
+by "Sam (cementuh)"
+collection "webpbn.com"
+copyright "(c) Copyright 2023 by Sam"
+date "Apr 19, 2023"
+description "Marceline's bass from Adventure Time!"
+difficulty 1.25
+height 26
+id 36722
+link "https://webpbn.com/play.cgi?id=36722"
+note "published,definitely unique,definitely line/color solvable"
+quality 3.0
+title "The Family Axe"
+width 14
+
+color white FFFFFF .
+color black 000000 X
+color red FF0000 *
+
+rows
+black 2
+black 4
+black 2
+black 4
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2
+black 2 black 2 black 2
+black 4 black 2 black 4
+black 2 red 2 black 4 red 2 black 2
+black 2 red 4 black 2 red 4 black 2
+black 2 red 3 black 2 red 3 black 2
+black 2 red 3 black 4 red 3 black 2
+black 2 red 3 black 2 red 3 black 2
+black 2 red 2 black 4 red 2 black 2
+black 4 black 4
+black 2 black 2
+
+columns
+black 4
+black 8
+black 3 red 4 black 3
+black 2 red 6 black 2
+black 1 red 6 black 1
+black 1 black 1 black 1 red 1 black 1 black 1
+black 24
+black 24
+black 1 black 1 black 1 red 1 black 1 black 1
+black 1 red 6 black 1
+black 2 red 6 black 2
+black 3 red 4 black 3
+black 8
+black 4

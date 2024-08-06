@@ -1,0 +1,39 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "7/15/12"
+height 12
+id 125113
+link "https://www.griddlers.net/nonogram/-/g/125113"
+medium_time "0:00:53"
+points 27
+popularity 68.56
+title "Dollar"
+width 7
+
+color a ffffff
+color b 2e8624
+color c 075744
+
+rows
+b 1 b 1
+c 1 b 1 c 1 b 1 c 1
+c 2 b 1 c 1 b 1 c 2
+c 2 b 1 b 1
+c 2 b 1 b 1
+c 2 b 1 c 1 b 1 c 1
+c 1 b 1 c 1 b 1 c 2
+b 1 b 1 c 2
+b 1 b 1 c 2
+c 2 b 1 c 1 b 1 c 2
+c 1 b 1 c 1 b 1 c 1
+b 1 b 1
+
+columns
+c 4 c 1
+c 6 c 2
+b 12
+c 2 c 2 c 2
+b 12
+c 2 c 6
+c 1 c 4

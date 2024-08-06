@@ -1,0 +1,100 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "10/19/08"
+height 50
+id 70740
+link "https://www.griddlers.net/nonogram/-/g/70740"
+medium_time "0:11:21"
+points 25314
+popularity 80.99
+title "Lighthouse"
+width 26
+
+color a 94ffff
+color b 7e7e8c
+color c 9fadbd
+color d b5c6ce
+color e e0c78e
+color f eadab9
+color h f7f3de
+
+rows
+b 4
+b 1 c 1 d 2 c 1 b 1
+b 1 c 2 d 2 c 2 b 1
+b 1 c 3 d 2 c 3 b 1
+b 1 c 4 d 2 c 4 b 1
+b 1 c 4 d 2 c 4 b 1
+b 1 c 5 d 2 c 5 b 1
+b 1 c 5 d 2 c 5 b 1
+e 18
+e 1 f 4 h 10 f 4 e 1
+e 18
+e 3 f 1 e 1 f 1 h 2 f 1 e 1 f 1 e 3
+e 3 f 1 e 1 f 1 h 2 f 1 e 1 f 1 e 3
+e 3 f 1 e 1 f 1 h 2 f 1 e 1 f 1 e 3
+e 3 f 1 e 1 f 1 h 2 f 1 e 1 f 1 e 3
+e 14
+e 3 f 1 e 1 f 1 h 2 f 1 e 1 f 1 e 3
+e 3 f 1 e 1 f 1 h 2 f 1 e 1 f 1 e 3
+e 3 f 1 e 1 f 1 h 2 f 1 e 1 f 1 e 3
+e 18
+e 1 f 4 h 10 f 4 e 1
+e 26
+b 1 c 2 b 1 c 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 c 2 b 1 c 2 b 1
+b 1 c 2 b 1 c 2 b 1 d 2 b 1 d 2 b 1 d 2 b 1 c 2 b 1 c 2 b 1
+b 22
+b 1 c 4 d 10 c 4 b 1
+e 24
+e 1 f 5 h 14 f 5 e 1
+e 24
+b 1 c 5 d 10 c 5 b 1
+b 1 c 5 d 10 c 5 b 1
+b 1 c 5 d 10 c 5 b 1
+b 1 c 5 d 10 c 1 b 1 c 3 b 1
+b 1 c 5 d 10 b 1 e 1 b 1 c 2 b 1
+b 1 c 5 d 9 b 1 e 1 h 1 e 1 b 1 c 1 b 1
+b 1 c 5 d 9 b 1 e 1 h 1 e 1 b 1 c 1 b 1
+b 1 c 5 d 9 b 1 e 3 b 1 c 1 b 1
+b 1 c 5 d 9 b 5 c 1 b 1
+b 1 c 6 d 10 c 6 b 1
+b 1 c 6 d 10 c 6 b 1
+b 1 c 6 d 10 c 6 b 1
+b 1 c 6 d 10 c 6 b 1
+b 1 c 6 d 10 c 6 b 1
+b 1 c 4 b 1 c 1 d 10 c 6 b 1
+b 1 c 3 b 1 e 1 b 1 d 10 c 6 b 1
+b 1 c 2 b 1 e 1 h 1 e 1 b 1 d 9 c 6 b 1
+
+columns
+e 1 e 1
+e 1 e 1 f 1 e 1 b 8
+e 1 b 7 e 1 f 1 e 1 b 9 c 8
+e 1 e 2 c 6 b 2 e 1 f 1 e 1 c 17
+e 1 f 1 e 1 e 1 f 1 e 1 c 6 b 1 c 1 e 1 f 1 e 1 c 16 b 1
+e 1 f 1 e 1 e 1 f 1 e 1 b 7 c 1 e 1 f 1 e 1 c 15 b 1 e 1
+b 2 e 1 f 1 e 10 f 1 e 1 c 6 b 1 c 1 e 1 h 1 e 1 c 14 b 1 e 1 h 1
+b 2 c 2 e 1 f 1 e 10 f 1 e 1 c 6 b 1 c 1 e 1 h 1 e 1 c 15 b 1 e 1
+b 1 c 4 e 1 h 1 e 10 h 1 e 1 b 7 d 1 e 1 h 1 e 1 d 16 b 1
+b 1 c 5 e 1 h 1 e 1 f 4 e 1 f 3 e 1 h 1 e 1 d 6 b 1 d 1 e 1 h 1 e 1 d 17
+b 1 c 6 e 1 h 1 e 10 h 1 e 1 d 6 b 1 d 1 e 1 h 1 e 1 d 17
+b 1 c 7 e 1 h 1 e 1 f 4 e 1 f 3 e 1 h 1 e 1 b 7 d 1 e 1 h 1 e 1 d 17
+b 1 d 7 e 1 h 1 e 1 h 4 e 1 h 3 e 1 h 1 e 1 d 6 b 1 d 1 e 1 h 1 e 1 d 17
+b 1 d 7 e 1 h 1 e 1 h 4 e 1 h 3 e 1 h 1 e 1 d 6 b 1 d 1 e 1 h 1 e 1 d 17
+b 1 c 7 e 1 h 1 e 1 f 4 e 1 f 3 e 1 h 1 e 1 b 7 d 1 e 1 h 1 e 1 d 17
+b 1 c 6 e 1 h 1 e 10 h 1 e 1 d 6 b 1 d 1 e 1 h 1 e 1 d 17
+b 1 c 5 e 1 h 1 e 1 f 4 e 1 f 3 e 1 h 1 e 1 d 6 b 1 d 1 e 1 h 1 e 1 d 17
+b 1 c 4 e 1 h 1 e 10 h 1 e 1 b 7 d 1 e 1 h 1 e 1 d 5 b 4 d 8
+b 2 c 2 e 1 f 1 e 10 f 1 e 1 c 6 b 1 c 1 e 1 h 1 e 1 c 4 b 1 e 3 b 1 c 8
+b 2 e 1 f 1 e 10 f 1 e 1 c 6 b 1 c 1 e 1 h 1 e 1 c 3 b 1 e 1 h 2 e 1 b 1 c 8
+e 1 f 1 e 1 e 1 f 1 e 1 b 7 c 1 e 1 f 1 e 1 c 4 b 1 e 3 b 1 c 8
+e 1 f 1 e 1 e 1 f 1 e 1 c 6 b 1 c 1 e 1 f 1 e 1 c 5 b 4 c 8
+e 1 e 2 c 6 b 2 e 1 f 1 e 1 c 17
+e 1 b 7 e 1 f 1 e 1 b 9 c 8
+e 1 e 1 f 1 e 1 b 8
+e 1 e 1

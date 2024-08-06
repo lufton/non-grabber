@@ -1,0 +1,51 @@
+by "spacemice"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "6/10/15"
+height 17
+id 157316
+link "https://www.griddlers.net/nonogram/-/g/157316"
+medium_time "0:05:04"
+points 686
+popularity 77.95
+title "Platypus"
+width 12
+
+color a ffffff
+color b 000000
+color c 663300
+color d ff9900
+color g 00cccc
+
+rows
+c 3
+c 5
+c 1 b 4
+c 9
+c 1 g 6
+g 1 b 1 d 1 b 1
+g 2 d 3 g 1
+d 2 g 2 d 5
+d 4 g 1 d 5
+d 4 g 6
+d 2 g 1 d 1 g 6
+d 1 g 1 d 1 g 7
+d 1 g 6 g 1
+d 1 g 5
+g 7
+g 2 g 2
+d 3 d 3
+
+columns
+d 2
+d 4
+d 5
+c 1 d 2 g 2 d 1 d 1
+c 2 g 1 d 2 g 1 d 1 g 2 d 1
+c 3 g 12 d 1
+c 2 b 1 c 1 g 1 g 2 d 1 g 6
+c 2 b 1 c 1 g 1 b 1 d 3 g 6
+c 2 b 1 c 1 g 1 d 4 g 6
+c 1 b 1 c 1 g 1 d 3 g 7 d 1
+c 1 g 1 b 1 g 1 d 2 g 2 g 2 d 1
+c 1 d 1 g 2 d 1

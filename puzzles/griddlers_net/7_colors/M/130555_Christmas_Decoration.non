@@ -1,0 +1,59 @@
+by "Nicky"
+collection "griddlers.net"
+copyright "Copyright © 2002-2024 Griddlers.net All rights reserved."
+date "12/17/12"
+height 20
+id 130555
+link "https://www.griddlers.net/nonogram/-/g/130555"
+medium_time "0:03:33"
+points 675
+popularity 80.95
+title "Christmas Decoration"
+width 15
+
+color a ffffff
+color b 9c9aa5
+color c c6cbde
+color d 8cba31
+color e 7ba64a
+color f f7db10
+color g ce2821
+
+rows
+b 1
+b 1
+c 2 b 1
+c 1 c 1 b 2
+c 1 c 2 b 1
+d 4 e 1
+d 2 d 4 e 2
+d 2 d 6 e 2
+d 2 d 8 e 2
+d 2 d 8 e 2
+f 15
+g 15
+g 1 f 2 g 1 f 2 g 1 f 2 g 1 f 2 g 1 f 2
+g 1 f 2 g 1 f 2 g 1 f 2 g 1 f 2 g 1 f 2
+g 15
+f 15
+d 2 d 8 e 2
+d 2 d 5 e 3
+d 2 d 3 e 3
+d 3 e 2
+
+columns
+f 1 g 4 f 1
+d 2 f 1 g 1 f 2 g 1 f 1 d 1
+d 3 f 1 g 1 f 2 g 1 f 1 d 2
+d 2 f 1 g 4 f 1 d 2
+d 1 d 2 f 1 g 1 f 2 g 1 f 1 d 1 d 1
+c 2 d 1 d 3 f 1 g 1 f 2 g 1 f 1 d 2 d 1
+c 1 d 5 f 1 g 4 f 1 d 4
+b 2 c 3 d 5 f 1 g 1 f 2 g 1 f 1 d 4
+b 2 c 1 d 5 f 1 g 1 f 2 g 1 f 1 d 3 e 1
+b 2 e 1 d 4 f 1 g 4 f 1 d 2 e 2
+e 1 d 3 f 1 g 1 f 2 g 1 f 1 d 1 e 2
+e 2 d 2 f 1 g 1 f 2 g 1 f 1 d 1 e 2
+e 3 f 1 g 4 f 1 e 2
+e 2 f 1 g 1 f 2 g 1 f 1 e 1
+f 1 g 1 f 2 g 1 f 1
